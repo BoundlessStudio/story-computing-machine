@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-unfinished-sunset",
+  "title": "The Unfinished Sunset",
+  "source": "stories/the-unfinished-sunset/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full current finished source and complete prompt/history read. Arveth, Ilessa, Halen, Neth, the miller and elder sustain the central action and accountability conflict. Cover plus held-evening and freed-night paintings inspected. No original visual references in prompt; targeted names/canon/spec search found no recurring identity.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Shepherds, keepers, field workers, game players and other villagers",
+      "reason": "Brief or collective support, no sustained individuated role."
+    },
+    {
+      "name": "Former master and patrol riders",
+      "reason": "Remembered causal background only."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "arveth",
+      "name": "Arveth",
+      "role": "Returning ronin and protagonist",
+      "form": "aged human woman",
+      "selectionEvidence": [
+        {
+          "quote": "her white hair was full of road dust, her left hip burned, and the old sword knocked against her pack",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "White hair, road dust, aged twenty years outside catch, stiff painful left hip, pack and original old notched sword kept in changed scabbard.",
+      "visualInterpretation": [
+        "Woman physically about fifty-eight, weathered tan skin, long angular face, dark brown eyes, WHITE shoulder-length hair loosely tied at nape with dusty wisps. Modest charcoal short wrap-coat, faded blue waist sash, loose brown travel trousers and scuffed dark boots; dusty worn cloth pack strapped behind shoulders. One old sword SHEATHED and secured beside pack, leather grip and changed scabbard, no duplicate sword. Slight protective favoring of LEFT hip and tired capable posture, not helpless. Two complete front/rear arrival views and face portrait; no dueling action or fresh knucklebruise yet."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:arveth",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Arveth', subtitle 'The Unfinished Sunset'. Woman physically about fifty-eight, weathered tan skin, long angular face, dark brown eyes, WHITE shoulder-length hair loosely tied at nape with dusty wisps. Modest charcoal short wrap-coat, faded blue waist sash, loose brown travel trousers and scuffed dark boots; dusty worn cloth pack strapped behind shoulders. One old sword SHEATHED and secured beside pack, leather grip and changed scabbard, no duplicate sword. Slight protective favoring of LEFT hip and tired capable posture, not helpless. Two complete front/rear arrival views and face portrait; no dueling action or fresh knucklebruise yet. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:10:57.674676+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Arveth', subtitle 'The Unfinished Sunset'. Woman physically about fifty-eight, weathered tan skin, long angular face, dark brown eyes, WHITE shoulder-length hair loosely tied at nape with dusty wisps. Modest charcoal short wrap-coat, faded blue waist sash, loose brown travel trousers and scuffed dark boots; dusty worn cloth pack strapped behind shoulders. One old sword SHEATHED and secured beside pack, leather grip and changed scabbard, no duplicate sword. Slight protective favoring of LEFT hip and tired capable posture, not helpless. Two complete front/rear arrival views and face portrait; no dueling action or fresh knucklebruise yet. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5bcc11a8-4406-40a4-98c5-20d2b20eef67.png",
+            "outputSha256": "0e0446cf1a80406e3dda75b8d50736e41bbf6a1af405673eef1e766e3806dbf0",
+            "finishedAt": "2026-09-24T16:22:00.794697+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels retain white dusty hair, visibly older road-worn face, slightly guarded stance, practical pack and one sheathed old sword.",
+              "Complete front/rear arrival views and matching broad painted portrait; exact text, directional amber/violet sunset light, ivory-only support."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-5bcc11a8-4406-40a4-98c5-20d2b20eef67.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/arveth.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "0e0446cf1a80406e3dda75b8d50736e41bbf6a1af405673eef1e766e3806dbf0",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:22:00.794720+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "0e0446cf1a80406e3dda75b8d50736e41bbf6a1af405673eef1e766e3806dbf0",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels retain white dusty hair, visibly older road-worn face, slightly guarded stance, practical pack and one sheathed old sword.",
+          "Complete front/rear arrival views and matching broad painted portrait; exact text, directional amber/violet sunset light, ivory-only support."
+        ],
+        "specificationSha256": "8616a594795e1fc79f8748fc1d1e3e6c5cc0b6402e5aae969e8edddb5d87c998"
+      }
+    },
+    {
+      "id": "ilessa",
+      "name": "Ilessa",
+      "role": "Duelist who remained in the catch",
+      "form": "young adult human woman with twenty additional years of experience",
+      "selectionEvidence": [
+        {
+          "quote": "Her dark hair was tied high to keep it clear of her shoulders.",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "Unweathered brown face, dark high-tied hair, narrow white scar beside mouth, plain village blade pale-worn leather grip; no physical aging on release.",
+      "visualInterpretation": [
+        "Woman physically about twenty-eight, unweathered BROWN skin, athletic compact balanced build, oval broad-cheekboned face, brown eyes, BLACK hair tied high in practical ponytail clear of shoulders; narrow pale WHITE scar beside one corner of mouth, same consistent placement in matching head portrait. Simple muted ochre linen long-sleeved tunic, dark moss trousers, sturdy brown boots, plain dark belt and empty sheath at hip. Holds ONE plain village sword low with tip downward, entire blade inside page, leather wrapped grip worn pale in two places. Quiet hard scrutiny, settled precise stance; no armor, tiara or glow. No second person's sword in this pre-duel state."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:ilessa",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ilessa', subtitle 'The Unfinished Sunset'. Woman physically about twenty-eight, unweathered BROWN skin, athletic compact balanced build, oval broad-cheekboned face, brown eyes, BLACK hair tied high in practical ponytail clear of shoulders; narrow pale WHITE scar beside one corner of mouth, same consistent placement in matching head portrait. Simple muted ochre linen long-sleeved tunic, dark moss trousers, sturdy brown boots, plain dark belt and empty sheath at hip. Holds ONE plain village sword low with tip downward, entire blade inside page, leather wrapped grip worn pale in two places. Quiet hard scrutiny, settled precise stance; no armor, tiara or glow. No second person's sword in this pre-duel state. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:10:58.738717+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Ilessa', subtitle 'The Unfinished Sunset'. Woman physically about twenty-eight, unweathered BROWN skin, athletic compact balanced build, oval broad-cheekboned face, brown eyes, BLACK hair tied high in practical ponytail clear of shoulders; narrow pale WHITE scar beside one corner of mouth, same consistent placement in matching head portrait. Simple muted ochre linen long-sleeved tunic, dark moss trousers, sturdy brown boots, plain dark belt and empty sheath at hip. Holds ONE plain village sword low with tip downward, entire blade inside page, leather wrapped grip worn pale in two places. Quiet hard scrutiny, settled precise stance; no armor, tiara or glow. No second person's sword in this pre-duel state. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-76b3389b-07cb-4b06-96eb-538fe3d39656.png",
+            "outputSha256": "23b987d44dee9fa19b2d1c99e21459df837a0dcf46155ee87875842a82f023ff",
+            "finishedAt": "2026-09-24T16:22:01.951193+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show physically young unweathered brown face, high dark ponytail, narrow pale mouth-side scar and single plain leather-grip village blade in each view.",
+              "Coherent balanced figure and matched head, unclipped sword tips and boots, readable text and connected directional oils; no ground or scene."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-76b3389b-07cb-4b06-96eb-538fe3d39656.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/ilessa.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "23b987d44dee9fa19b2d1c99e21459df837a0dcf46155ee87875842a82f023ff",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:22:01.951214+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "23b987d44dee9fa19b2d1c99e21459df837a0dcf46155ee87875842a82f023ff",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show physically young unweathered brown face, high dark ponytail, narrow pale mouth-side scar and single plain leather-grip village blade in each view.",
+          "Coherent balanced figure and matched head, unclipped sword tips and boots, readable text and connected directional oils; no ground or scene."
+        ],
+        "specificationSha256": "9a9cf52f19a05e9225ca1cb6d744aa5f38c817dedaa4e5845796954a41d785a8"
+      }
+    },
+    {
+      "id": "halen",
+      "name": "Halen",
+      "role": "Elderly keeper who engineers release",
+      "form": "elderly human man",
+      "selectionEvidence": [
+        {
+          "quote": "His sleeves were rolled above his elbows, and bright mineral dust marked both palms.",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "Already elderly before catch; sleeves rolled above elbows, bright mineral dust on palms; skilled measured preparation.",
+      "visualInterpretation": [
+        "Old man physically about seventy-five, warm brown skin, deeply creased narrow face, short gray hair and sparse short gray beard, alert dark eyes. Faded sage work shirt with sleeves rolled ABOVE elbows, brown canvas waist apron, charcoal trousers and sturdy low boots. Hands relaxed naturally at sides with subtle amber mineral dust where palms turn slightly outward; no detached hand study. Hold one small split wooden peg in attached hand if useful. Lean steady practical stance; no magical light leaving palms, no control frame, machinery or floor shavings."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:halen",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Halen', subtitle 'The Unfinished Sunset'. Old man physically about seventy-five, warm brown skin, deeply creased narrow face, short gray hair and sparse short gray beard, alert dark eyes. Faded sage work shirt with sleeves rolled ABOVE elbows, brown canvas waist apron, charcoal trousers and sturdy low boots. Hands relaxed naturally at sides with subtle amber mineral dust where palms turn slightly outward; no detached hand study. Hold one small split wooden peg in attached hand if useful. Lean steady practical stance; no magical light leaving palms, no control frame, machinery or floor shavings. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:10:59.917666+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Halen', subtitle 'The Unfinished Sunset'. Old man physically about seventy-five, warm brown skin, deeply creased narrow face, short gray hair and sparse short gray beard, alert dark eyes. Faded sage work shirt with sleeves rolled ABOVE elbows, brown canvas waist apron, charcoal trousers and sturdy low boots. Hands relaxed naturally at sides with subtle amber mineral dust where palms turn slightly outward; no detached hand study. Hold one small split wooden peg in attached hand if useful. Lean steady practical stance; no magical light leaving palms, no control frame, machinery or floor shavings. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ae066e11-d9a0-4bf6-aa2e-029097ce0853.png",
+            "outputSha256": "d8b7524a2c67c11992da647aa5a3376afa524b1d11470e693126c876b34fab0d",
+            "finishedAt": "2026-09-24T16:22:03.011579+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels show already-old keeper, rolled sleeves, work apron, subtle amber mineral dust and small wooden peg held naturally.",
+              "Consistent front/rear and aged face views, readable name/title, substantial directional oil in held sunset lighting over opaque ivory."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-ae066e11-d9a0-4bf6-aa2e-029097ce0853.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/halen.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "d8b7524a2c67c11992da647aa5a3376afa524b1d11470e693126c876b34fab0d",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:22:03.011598+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "d8b7524a2c67c11992da647aa5a3376afa524b1d11470e693126c876b34fab0d",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show already-old keeper, rolled sleeves, work apron, subtle amber mineral dust and small wooden peg held naturally.",
+          "Consistent front/rear and aged face views, readable name/title, substantial directional oil in held sunset lighting over opaque ivory."
+        ],
+        "specificationSha256": "9504504677187f70e4ca5f789a0664ade81d9b5193ac5e7ff426563fbe977f86"
+      }
+    },
+    {
+      "id": "neth",
+      "name": "Neth",
+      "role": "Boundary investigator trapped in childhood body",
+      "form": "human with physically nine-year-old body",
+      "selectionEvidence": [
+        {
+          "quote": "Nine when she left. A short body in a patched shirt, bare knees, and an adult's level stare.",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "Physical age nine persists after twenty years experienced; short body, blunt chin, patched shirt, bare knees; they/them.",
+      "visualInterpretation": [
+        "Physically NINE-YEAR-OLD child with normal child proportions, short sturdy body, small blunt chin, tan skin, gray-brown eyes and short roughly cut dark brown hair. Androgynous appearance; patched off-white long-sleeved shirt, faded russet knee-length shorts ending ABOVE knees so knees are bare, worn simple brown sandals. Both hands empty, arms folded in front view, relaxed rear view. Level impatient knowing expression reflecting twenty years of experience while body remains unmistakably nine, NOT an adult body or artificially aged face. No accessories, blue thread or chalk needed in this reference state. No reset ghost duplicate or effect."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:neth",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Neth', subtitle 'The Unfinished Sunset'. Physically NINE-YEAR-OLD child with normal child proportions, short sturdy body, small blunt chin, tan skin, gray-brown eyes and short roughly cut dark brown hair. Androgynous appearance; patched off-white long-sleeved shirt, faded russet knee-length shorts ending ABOVE knees so knees are bare, worn simple brown sandals. Both hands empty, arms folded in front view, relaxed rear view. Level impatient knowing expression reflecting twenty years of experience while body remains unmistakably nine, NOT an adult body or artificially aged face. No accessories, blue thread or chalk needed in this reference state. No reset ghost duplicate or effect. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:24:25.469755+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Neth', subtitle 'The Unfinished Sunset'. Physically NINE-YEAR-OLD child with normal child proportions, short sturdy body, small blunt chin, tan skin, gray-brown eyes and short roughly cut dark brown hair. Androgynous appearance; patched off-white long-sleeved shirt, faded russet knee-length shorts ending ABOVE knees so knees are bare, worn simple brown sandals. Both hands empty, arms folded in front view, relaxed rear view. Level impatient knowing expression reflecting twenty years of experience while body remains unmistakably nine, NOT an adult body or artificially aged face. No accessories, blue thread or chalk needed in this reference state. No reset ghost duplicate or effect. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-8bf30357-03a4-4cb5-beb4-53bfdf192e68.png",
+            "outputSha256": "914e5f1dda729791c1ddba9ffa94801d40ba4ddb5eb0c0d204116e88011fef4b",
+            "finishedAt": "2026-09-24T16:28:58.181813+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: child-sized nine-year-old Neth in patched off-white shirt, rust shorts and sandals; consistent short dark hair and face across complete front/rear bodies and portrait. Folded-arm reserve reflects adult memories without aging the body. Exact heading/title, broad matte directional oil masses, opaque warm ivory, no scenes or forbidden studies.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-8bf30357-03a4-4cb5-beb4-53bfdf192e68.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/neth.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "914e5f1dda729791c1ddba9ffa94801d40ba4ddb5eb0c0d204116e88011fef4b",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:28:58.181832+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "914e5f1dda729791c1ddba9ffa94801d40ba4ddb5eb0c0d204116e88011fef4b",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: child-sized nine-year-old Neth in patched off-white shirt, rust shorts and sandals; consistent short dark hair and face across complete front/rear bodies and portrait. Folded-arm reserve reflects adult memories without aging the body. Exact heading/title, broad matte directional oil masses, opaque warm ivory, no scenes or forbidden studies.",
+        "specificationSha256": "a4bc5935ce522c01a48411576c2964385064c231f6eb039c617634a3f7d26b93"
+      }
+    },
+    {
+      "id": "maret-fen",
+      "name": "Maret Fen",
+      "role": "Miller and sustained skeptical participant",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "I want night. Halen wants every hinge clean first.",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "Miller with boots, grain sack and repeated work; woman candidly disputes delay and seeks release.",
+      "visualInterpretation": [
+        "Woman physically about forty-two, strong broad stocky build, warm copper-brown skin, broad freckled face, dark hazel eyes, reddish-brown hair in plain wrapped braid at back. Worn slate-blue work dress calf-length, simple off-white flour-marked apron, sturdy dark boots. Both hands empty, one on hip, sleeves rolled to midforearm. Firm tired skeptical expression. No flour sack, mill equipment, grain scattered around feet, setting or hand study. Marks on apron only."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:maret-fen",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Maret Fen', subtitle 'The Unfinished Sunset'. Woman physically about forty-two, strong broad stocky build, warm copper-brown skin, broad freckled face, dark hazel eyes, reddish-brown hair in plain wrapped braid at back. Worn slate-blue work dress calf-length, simple off-white flour-marked apron, sturdy dark boots. Both hands empty, one on hip, sleeves rolled to midforearm. Firm tired skeptical expression. No flour sack, mill equipment, grain scattered around feet, setting or hand study. Marks on apron only. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:24:26.535537+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Maret Fen', subtitle 'The Unfinished Sunset'. Woman physically about forty-two, strong broad stocky build, warm copper-brown skin, broad freckled face, dark hazel eyes, reddish-brown hair in plain wrapped braid at back. Worn slate-blue work dress calf-length, simple off-white flour-marked apron, sturdy dark boots. Both hands empty, one on hip, sleeves rolled to midforearm. Firm tired skeptical expression. No flour sack, mill equipment, grain scattered around feet, setting or hand study. Marks on apron only. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-104275c2-5963-439e-a706-f4970c6fb56d.png",
+            "outputSha256": "a08c8f58a3877f8f5943e50ab1d9fe0534bea372d825aea5b4e5a73b3eca8e97",
+            "finishedAt": "2026-09-24T16:28:59.233466+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: source miller resolved as art-only Maret Fen, sturdy adult in slate-blue workdress, flour-white apron and practical boots; braid and face agree across complete front/rear figures and portrait. Exact heading/title, painted planes across skin and cloth, opaque warm ivory with no scene or floor patch.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-104275c2-5963-439e-a706-f4970c6fb56d.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed miller",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label, no source/canon edit.",
+        "collisionCheck": "Exact proposed name absent in targeted universe/name-memory/specification search."
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/maret-fen.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "a08c8f58a3877f8f5943e50ab1d9fe0534bea372d825aea5b4e5a73b3eca8e97",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:28:59.233488+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "a08c8f58a3877f8f5943e50ab1d9fe0534bea372d825aea5b4e5a73b3eca8e97",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: source miller resolved as art-only Maret Fen, sturdy adult in slate-blue workdress, flour-white apron and practical boots; braid and face agree across complete front/rear figures and portrait. Exact heading/title, painted planes across skin and cloth, opaque warm ivory with no scene or floor patch.",
+        "specificationSha256": "4d9cceed9816be37a4e134fc4b93ee1a3973422615e899190b1d12d6e9549730"
+      }
+    },
+    {
+      "id": "sable-trenn",
+      "name": "Sable Trenn",
+      "role": "Village elder demanding accountability",
+      "form": "elderly human with gender unestablished by source",
+      "selectionEvidence": [
+        {
+          "quote": "The elder came down from the upper lane with a wool blanket around narrow shoulders.",
+          "explanation": "Finished source binding appearance or sustained conflict participant."
+        }
+      ],
+      "storyAppearance": "Narrow shoulders with wool blanket, old community authority, sustained demands/watchers; gender unspecified.",
+      "visualInterpretation": [
+        "Androgynous elderly person physically about seventy-eight, narrow shoulders, slight angular build, pale olive weathered skin, small deep-set dark eyes, silver jaw-length hair tucked behind ears, no facial hair. Coarse brown-gray WOOL BLANKET wrapped around narrow shoulders, charcoal long tunic over loose dark trousers and practical closed shoes. Both hands hold blanket edges close naturally. Severe watchful patience, no staff or crown. Gender is left visually unresolved; art-only assigned name not in-world canon."
+      ],
+      "states": [
+        {
+          "name": "Held evening before final duel",
+          "description": "Aged outsider and physically unchanged residents; one consistent clothed state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unfinished-sunset:sable-trenn",
+        "links": [],
+        "evidence": "No relevant name match in universe/name memory/existing specs; local source identities."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Sable Trenn', subtitle 'The Unfinished Sunset'. Androgynous elderly person physically about seventy-eight, narrow shoulders, slight angular build, pale olive weathered skin, small deep-set dark eyes, silver jaw-length hair tucked behind ears, no facial hair. Coarse brown-gray WOOL BLANKET wrapped around narrow shoulders, charcoal long tunic over loose dark trousers and practical closed shoes. Both hands hold blanket edges close naturally. Severe watchful patience, no staff or crown. Gender is left visually unresolved; art-only assigned name not in-world canon. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:24:27.587600+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only. Exact heading 'Sable Trenn', subtitle 'The Unfinished Sunset'. Androgynous elderly person physically about seventy-eight, narrow shoulders, slight angular build, pale olive weathered skin, small deep-set dark eyes, silver jaw-length hair tucked behind ears, no facial hair. Coarse brown-gray WOOL BLANKET wrapped around narrow shoulders, charcoal long tunic over loose dark trousers and practical closed shoes. Both hands hold blanket edges close naturally. Severe watchful patience, no staff or crown. Gender is left visually unresolved; art-only assigned name not in-world canon. Story-specific low held sunset: amber-yellow planes on one side, broad connected blue-violet shadow masses on the other, directional thick oils across matte faces/clothing, no bright generic studio daylight. Entire silhouettes and all props fit within generous ivory margins. No grounding shadows, floor patches, landscape or environment.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+                "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+                "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e95341c9-a7a6-4395-92b8-4055767aaeb0.png",
+            "outputSha256": "d4fcddc20a201c4d8674f72560a0605abbbba1b2ce4045c5b821c9513b870275",
+            "finishedAt": "2026-09-24T16:29:00.259272+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: narrow-shouldered androgynous elder Sable Trenn in brown wool blanket, charcoal clothing and practical footwear; elderly face and silver jaw-length hair consistent across complete front/rear bodies and portrait. Exact heading/title, substantial connected oil masses, opaque warm ivory and no scenic material.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e95341c9-a7a6-4395-92b8-4055767aaeb0.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed village elder",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label, no source/canon edit.",
+        "collisionCheck": "Exact proposed name absent in targeted universe/name-memory/specification search."
+      },
+      "output": "stories/the-unfinished-sunset/art/characters/sable-trenn.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "d4fcddc20a201c4d8674f72560a0605abbbba1b2ce4045c5b821c9513b870275",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:29:00.259295+00:00",
+        "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4",
+        "outputSha256": "d4fcddc20a201c4d8674f72560a0605abbbba1b2ce4045c5b821c9513b870275",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary broad connected matte Group of Seven painting handling only; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unfinished-sunset/art/landscapes/01-aderis-held-evening.png",
+            "role": "Held unnaturally yellow low sunset, blue-violet connected shadows, source-specific color and lighting; no scenery",
+            "sha256": "1fc4d40fa62a5042404c60a47cbf6e4bc69733e9f43265a9ad44e266ddbce36a",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: narrow-shouldered androgynous elder Sable Trenn in brown wool blanket, charcoal clothing and practical footwear; elderly face and silver jaw-length hair consistent across complete front/rear bodies and portrait. Exact heading/title, substantial connected oil masses, opaque warm ivory and no scenic material.",
+        "specificationSha256": "fbec78e9f34d762531650f3d7af34dd85273fd060413d0342b9af3d341ca8a3b"
+      }
+    }
+  ],
+  "sourceSha256": "43d099000af4560410e49175e3f02ddbb4b3dfe23f699a57439304470c8e7fd4"
+}
