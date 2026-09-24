@@ -10353,6 +10353,51 @@
       ]
     },
     {
+      "slug": "the-place-laid-for-her",
+      "title": "The Place Laid for Her",
+      "reader": "stories/the-place-laid-for-her.html",
+      "images": [
+        {
+          "id": "brevot",
+          "title": "Brevot",
+          "alt": "Sculpted Impasto character reference sheet of Brevot for The Place Laid for Her",
+          "source": "stories/the-place-laid-for-her/art/characters/brevot.png",
+          "sourceSha256": "904c92898674bf42793606844192b2381726eddce6d63cf0c37702791362405b",
+          "full": {
+            "path": "characters/the-place-laid-for-her/brevot-904c92898674bf42.webp",
+            "sha256": "2f453e34b9359ae239f226a0eec4ae47b7c6f2c427f95b70b062c9faff1e2bcb",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-place-laid-for-her/brevot-904c92898674bf42-thumb.webp",
+            "sha256": "58868a7884dd84914bd0a211d59b50a5b4947833294085c9903c51dd717b7ff8",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ildesse",
+          "title": "Ildesse",
+          "alt": "Sculpted Impasto character reference sheet of Ildesse for The Place Laid for Her",
+          "source": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+          "sourceSha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+          "full": {
+            "path": "characters/the-place-laid-for-her/ildesse-5610270b5839c73b.webp",
+            "sha256": "0ba3b04bb65011a7ad7f809961372a34a3692e7523095eff3acb50527f5655f6",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-place-laid-for-her/ildesse-5610270b5839c73b-thumb.webp",
+            "sha256": "02cd7f4d9b251e62120659e9b69296a2d414d3fbe1dae07d40a562d4df0df2f1",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "the-place-we-keep",
       "title": "The Place We Keep",
       "reader": "stories/the-place-we-keep.html",

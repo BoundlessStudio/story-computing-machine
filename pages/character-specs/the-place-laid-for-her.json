@@ -1,0 +1,458 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-place-laid-for-her",
+  "title": "The Place Laid for Her",
+  "source": "stories/the-place-laid-for-her/story.md",
+  "sourceSha256": "4e11d10a1bf61fbb0150577bd307967fd4c1a0b99abc18eb3e66d3c1dc27f40a",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read the complete final story, prompt and PASS review. Ildesse is the viewpoint protagonist; Brevot is her dinner companion and sole principal dramatic counterpart.",
+  "originalInputs": [],
+  "selectedSubjects": {
+    "characters": [
+      "Ildesse",
+      "Brevot"
+    ],
+    "interiors": [
+      "Ousel Room entrance lobby",
+      "Ousel Room dining room"
+    ],
+    "landscapes": []
+  },
+  "excludedMinorCharacters": [
+    {
+      "name": "Host",
+      "reason": "Brief entry/exit service role, not a principal character."
+    },
+    {
+      "name": "Server",
+      "reason": "Recurring dinner-service role, supporting interruptions rather than main dramatic counterpart."
+    },
+    {
+      "name": "Musician",
+      "reason": "Supporting paid performer; no independent character arc."
+    },
+    {
+      "name": "Peripheral diners and offstage literary people",
+      "reason": "Background, mentioned or fictional figures without principal present-scene role."
+    }
+  ],
+  "absentCategories": {
+    "landscapes": "Only a brief pavement/carriage departure appears; no developed exterior or facade to reference without invention.",
+    "additionalInteriors": "The carriage is a short closing vehicle state, not a developed major location."
+  },
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    ".agents/skills/story-room/SKILL.md#art-references"
+  ],
+  "characters": [
+    {
+      "id": "ildesse",
+      "name": "Ildesse",
+      "role": "Sword-bodied protagonist controlling one glamoured mannequin",
+      "selectionEvidence": [
+        "Opening exchange establishes the sword as the seat of consciousness and mannequin as puppet.",
+        "Dinner preparations, unmet romantic expectations and retained feathers carry the complete viewpoint arc."
+      ],
+      "sourceAppearance": [
+        "Forty-three; glamoured dark eyes, long nose, mouth well in repose.",
+        "Copper silk fitted bodice and generous skirt; three copper feathers in hair; slim gloves with pearl buttons; departure wrap.",
+        "Pale-green leaf-tooled leather scabbard; silk cord guard-to-buckle; unobstructed pommel feeding cap; living core hidden in tang/blade."
+      ],
+      "visualInterpretation": [
+        "Warm medium complexion, dark brown swept-up hair, long oval face, brown eyes, ivory gloves and warm-gray wrap interpret unspecified details.",
+        "Unornamented practical hilt form, restrained copper dress cut and tied-cord arrangement interpret prose without adding powers."
+      ],
+      "lighting": {
+        "moment": "Eight-o'clock restaurant dinner",
+        "source": "Candlelight explicitly described in dining scene",
+        "treatment": "Restrained warm planes, connected umber/charcoal shadows; ivory support is sheet presentation."
+      },
+      "status": "completed",
+      "generation": {
+        "tool": "functions.image_gen__imagegen",
+        "mode": "built-in",
+        "prompt": "Make one narrow source-fidelity colour correction to this Ildesse reference sheet. Repaint ONLY the LEATHER SCABBARD areas in all three occurrences (front figure carrying it, rear figure carrying it, and enlarged isolated equipment study). The scabbard leather must read clearly PALE GREEN: a light muted celadon/sage green, lighter than the present dark olive. Preserve dark incised LEAF TOOLING, all metal chape/guard/buckle fittings, silk cord wound between guard and buckle, and the unobstructed closed pommel feeding cap. Make only the illuminated leather planes pale celadon; retain restrained connected candlelit shadows, opaque directional oil brushmarks and natural material form. No glow.\nKeep absolutely everything else fixed: exact face identity and age, two bodies and two portraits, THREE copper hair feathers, copper silk dress, wrap/gloves, wooden hand detail, same hilt/pommel, same sheet composition, ivory support, exact title \"The Place Laid for Her\", exact name \"Ildesse\", all labels, 1536x1024 landscape. No additional objects, anatomy, scenery or palette strip.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-ecf3aeb1-0579-4e9a-9075-aa63aa734f84.png",
+            "sha256": "a4e7560ad9be452a415a9a0890bd8e96fdb73b496d6587a7804593d41afd9d13",
+            "role": "Inspected initial Ildesse folio edit target; correct scabbard leather to source pale green only, retaining all identity and composition.",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "prompt": "Use case: illustration-story.\nCreate ONE landscape 3:2 PNG character reference folio, 1536x1024, on quiet warm ivory support. Exact large heading \"Ildesse\"; exact subtitle \"The Place Laid for Her\". This sheet represents precisely ONE adult woman's identity: her living core is housed inside a sword and she controls a single glamoured wooden mannequin. Sword and puppet are not two independent people. All repeated views show that same woman's puppet and the same closed sword assembly.\n\nPrimary input images 1 and 2 are the existing gallery's Group of Seven oil paintings. Transfer their broad interlocking colour/value masses, varied directional opaque bristle marks, selective substantial impasto, simplified shapes, connected shadows and quieter passages. Transfer NO landscape objects, no sky, no daylight, no copied palette. Adapt paint to warm restrained restaurant candlelight at eight in the evening: softly lit planes with connected umber/charcoal shadows and lost edges, no blue/orange scheme or spectacular rim lights. Faces must be visibly painted as decisively simplified masses rather than smooth glossy render beneath texture.\n\nSource appearance: Ildesse is forty-three. The mannequin has dark eyes, a long nose and a mouth that looks well in repose; mature composed face, never a child. Real copper silk dress with fitted bodice and a very generous floor-length skirt, exactly THREE copper feathers in her hair, slim gloves with pearl buttons, a wrap available for departure. Her own true body is a sword carried by this puppet: ordinary unornamented guard, pale-green leather scabbard tooled with leaves, a silk safety cord tied between guard and scabbard buckle keeping the blade enclosed. The pommel has a small CLOSED feeding cap left unobstructed by cord. The living core stays hidden, not a glowing fantasy jewel. No visible blade, gore, mouth on sword, face on sword, glowing aura or floating puppet strings.\nRestrained visual interpretation for consistency: warm medium complexion, dark brown hair neatly swept up, long oval face, brown eyes; ivory gloves and muted warm-gray wrap. These details interpret unspecified prose, not additional story facts. Dress is elegant preindustrial social clothing, not battle costume.\n\nLayout: two large unclipped full-form views of THE SAME identity, 3/4 front and 3/4 rear, both in the same copper dress and exactly three hair feathers. Front figure gently cradles the sheathed sword horizontally with two naturally jointed gloved hands; rear figure carries the same scabbard at her side with anatomically natural pose. Two smaller matching mature head studies: rehearsed small smile and tranquil disappointed repose. A single isolated larger equipment study shows the SAME entire sheathed sword, guard, cord to buckle, pale-green leaf tooling and pommel cap clearly; a small glove/wooden fingertip detail may clarify the mannequin construction without implying a second body. Small labels only: \"Front\", \"Rear\", \"Rehearsed smile\", \"Repose\", \"Sword and tied scabbard\", \"Pommel cap\". Use clear restrained dark serif lettering.\nNo restaurant, furniture, scenery, floor patches, shadows pretending to be terrain, background vignettes, palette strips or swatches. No second identity, ghost, human occupant, disembodied living face, extra limbs, clipped feet or tangled hands. No anime, photographic skin, CGI, glossy metal, uniform bevelled paint chips or fine line-art overlay. Generous ivory breathing room; useful coherent views, clean framing.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+                "inspected": true
+              }
+            ],
+            "status": "REVISE",
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-ecf3aeb1-0579-4e9a-9075-aa63aa734f84.png",
+            "returnedSha256": "a4e7560ad9be452a415a9a0890bd8e96fdb73b496d6587a7804593d41afd9d13",
+            "completedAt": "2026-09-24T21:40:23.269400+00:00",
+            "review": [
+              "Single sword-and-puppet identity, repeated mature face, three feathers, readable exact labels, copper silk, closed cap, tied scabbard and coherent mannequin hand pass. Scabbard reads dark olive rather than source pale green; localized colour correction required."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "prompt": "Make one narrow source-fidelity colour correction to this Ildesse reference sheet. Repaint ONLY the LEATHER SCABBARD areas in all three occurrences (front figure carrying it, rear figure carrying it, and enlarged isolated equipment study). The scabbard leather must read clearly PALE GREEN: a light muted celadon/sage green, lighter than the present dark olive. Preserve dark incised LEAF TOOLING, all metal chape/guard/buckle fittings, silk cord wound between guard and buckle, and the unobstructed closed pommel feeding cap. Make only the illuminated leather planes pale celadon; retain restrained connected candlelit shadows, opaque directional oil brushmarks and natural material form. No glow.\nKeep absolutely everything else fixed: exact face identity and age, two bodies and two portraits, THREE copper hair feathers, copper silk dress, wrap/gloves, wooden hand detail, same hilt/pommel, same sheet composition, ivory support, exact title \"The Place Laid for Her\", exact name \"Ildesse\", all labels, 1536x1024 landscape. No additional objects, anatomy, scenery or palette strip.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-ecf3aeb1-0579-4e9a-9075-aa63aa734f84.png",
+                "sha256": "a4e7560ad9be452a415a9a0890bd8e96fdb73b496d6587a7804593d41afd9d13",
+                "role": "Inspected initial Ildesse folio edit target; correct scabbard leather to source pale green only, retaining all identity and composition.",
+                "inspected": true
+              }
+            ],
+            "status": "PASS",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-dea55c63-01c2-47aa-b46a-17203c6bd3d4.png",
+            "returnedSha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+            "completedAt": "2026-09-24T21:42:31.070761+00:00",
+            "review": [
+              "Same mature long-nosed dark-eyed face and dark swept-up hair across front/rear and two expression studies; exactly three copper feathers. Sword and puppet are one named identity.",
+              "Copper silk fitted bodice and wide skirt, pearl-button ivory gloves, pale-green leaf-tooled scabbard, guard-to-buckle silk tie and unobstructed closed pommel cap visible. Wooden hand detail distinguishes puppet construction.",
+              "Broad opaque directional oil folds and painted facial planes on quiet ivory, connected umber shadows, no blue rim light, no scenery or swatches. Exact Ildesse and The Place Laid for Her headings readable.",
+              "Two coherent unclipped full-form views; close-up hand has five connected digits; no second independent person or exposed living core."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+      "outputSha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T21:42:31.070761+00:00",
+        "sourceSha256": "4e11d10a1bf61fbb0150577bd307967fd4c1a0b99abc18eb3e66d3c1dc27f40a",
+        "outputSha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-ecf3aeb1-0579-4e9a-9075-aa63aa734f84.png",
+            "sha256": "a4e7560ad9be452a415a9a0890bd8e96fdb73b496d6587a7804593d41afd9d13",
+            "role": "Inspected initial Ildesse folio edit target; correct scabbard leather to source pale green only, retaining all identity and composition.",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Same mature long-nosed dark-eyed face and dark swept-up hair across front/rear and two expression studies; exactly three copper feathers. Sword and puppet are one named identity.",
+          "Copper silk fitted bodice and wide skirt, pearl-button ivory gloves, pale-green leaf-tooled scabbard, guard-to-buckle silk tie and unobstructed closed pommel cap visible. Wooden hand detail distinguishes puppet construction.",
+          "Broad opaque directional oil folds and painted facial planes on quiet ivory, connected umber shadows, no blue rim light, no scenery or swatches. Exact Ildesse and The Place Laid for Her headings readable.",
+          "Two coherent unclipped full-form views; close-up hand has five connected digits; no second independent person or exposed living core."
+        ],
+        "reviewers": [
+          "producing-agent",
+          "coordinator"
+        ],
+        "specificationSha256": "791431f81d6edd12f5194c237ddd9a613080eeecff481dae6bc3f8ae06cf0681",
+        "coordinatorReview": "Coordinator independently opened exact saved PNG full and 600px thumbnail: PASS. Consistent mature long-nosed/dark-eyed face across views, copper silk and three feathers, readable exact labels, one puppet/sword identity with wooden joint-hand detail, pale leaf-tooled scabbard and legible guard-to-buckle tie leaving cap clear. Broad matte painted planes/connected warm shadows, quiet ivory, no scenery/swatches; anatomy and support coherent."
+      }
+    },
+    {
+      "id": "brevot",
+      "name": "Brevot",
+      "role": "Poet, correspondent and dinner companion",
+      "selectionEvidence": [
+        "His arrival and poem initiate the main relationship conflict.",
+        "His literary tastes, awkward courtesy and belated compliment drive the dinner's emotional mismatch."
+      ],
+      "sourceAppearance": [
+        "Thirty-eight; worn uneven handsome face; broad mouth; gray beginning above his ears.",
+        "Ill-fitting disliked coat: left sleeve rides halfway up forearm and bright lining protrudes.",
+        "Broad fingers with ink stain beneath a nail; three poem sheets in narrow blue-paper parcel."
+      ],
+      "visualInterpretation": [
+        "Warm medium-light complexion, dark casually swept hair, brown eyes, clean-shaven jaw, long slightly uneven nose and lean build interpret unspecified physical details.",
+        "Brown-charcoal knee-length coat, cream shirt, dark waistcoat/trousers, worn dark shoes and warm-red lining interpret unspecified clothing colours/cut."
+      ],
+      "lighting": {
+        "moment": "Eight-o'clock restaurant dinner",
+        "source": "Candles in final story",
+        "treatment": "Warm restrained planes and connected umber/charcoal shadows; no daylight or orange-blue contrast."
+      },
+      "status": "completed",
+      "generation": {
+        "tool": "functions.image_gen__imagegen",
+        "mode": "built-in",
+        "prompt": "Use case: illustration-story.\nCreate ONE landscape 3:2 PNG single-character reference folio, 1536x1024, quiet warm ivory support. Large exact heading \"Brevot\", exact smaller subtitle \"The Place Laid for Her\". All views depict precisely the same adult male identity.\n\nInput 1 orchard and input 2 stream are PRIMARY Group of Seven oil-handling references: broad interlocking colour/value masses, directional opaque bristle strokes, selective substantial impasto, simplified planes, quiet passages and connected restrained shadows. Do not copy scenery, daylight or palette. Input 3 Ildesse is same-story folio/rendering/light continuity only: no transfer of her identity, clothing, feathers, sword or body shape. In all faces retain emphatic visible painted mass construction, without glossy portrait rendering. Story light: restaurant candlelight at eight in the evening; softly warmed face and cloth planes joining subdued umber/charcoal shadows. No orange-blue grade, spectacular rim lighting, shine or universal daylight.\n\nSource: Brevot is THIRTY-EIGHT, handsome in a worn uneven way, broad mouth, gray beginning above his ears. Broad fingers, small ink stain beneath one nail. He is a poet dressed in a disliked ill-fitting coat: its LEFT sleeve rides halfway up his forearm when he reaches, and a bright inch of lining protrudes from its cuff. He carries three poem sheets in a narrow blue-paper parcel. The story's scene is awkward hopeful supper, not heroic adventure.\nRestrained visual interpretation: lightly weathered medium-light warm complexion; long subtly uneven nose, dark brown casually swept hair with sparse gray specifically at temples, brown eyes, clean-shaven jaw, lean average build. A plain brown-charcoal knee-length cloth coat with rather strained buttons, muted cream shirt, simple dark waistcoat, charcoal trousers and worn dark leather shoes. Faded warm red lining gives the small bright protruding cuff. These specify unspecified design details without adding history or powers.\n\nLayout: two large unclipped head-to-shoe views: front three-quarter with his LEFT arm gently extended to demonstrate the too-short sleeve and a little red lining; rear three-quarter at rest holding the narrow wrapped blue poem parcel in one hand. Two matching face studies: an open unceremonious grin and a quiet uncertain expression, same nose/jaw/hair/mouth proportions. Smaller useful studies of broad ink-stained hand with exactly five natural connected digits, the short left cuff with lining, and three simple manuscript sheets partly enclosed by folded blue paper. Do not put a sword, feathers or flowers anywhere. Paper carries no legible poem text. Small labels only: \"Front\", \"Rear\", \"Grin\", \"Uncertain\", \"Left cuff\", \"Ink-stained hand\", \"Poem\".\nKeep the same coat and face throughout. No furniture, restaurant, scenery, floor patches, scenery vignettes, palette chips, swatches, other people, extra fingers or clipped shoes. No anime, photorealism, smooth CGI, smooth glossy facial masks, regular bevelled paint-chip texture, or decorative borders. Spacious coherent isolated studies and clean exact readable headings.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+            "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+            "inspected": true,
+            "role": "Accepted same-story oil handling, ivory folio and restrained dinner candlelight continuity only. Do not copy this woman's face, clothes, feathers or sword."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "prompt": "Use case: illustration-story.\nCreate ONE landscape 3:2 PNG single-character reference folio, 1536x1024, quiet warm ivory support. Large exact heading \"Brevot\", exact smaller subtitle \"The Place Laid for Her\". All views depict precisely the same adult male identity.\n\nInput 1 orchard and input 2 stream are PRIMARY Group of Seven oil-handling references: broad interlocking colour/value masses, directional opaque bristle strokes, selective substantial impasto, simplified planes, quiet passages and connected restrained shadows. Do not copy scenery, daylight or palette. Input 3 Ildesse is same-story folio/rendering/light continuity only: no transfer of her identity, clothing, feathers, sword or body shape. In all faces retain emphatic visible painted mass construction, without glossy portrait rendering. Story light: restaurant candlelight at eight in the evening; softly warmed face and cloth planes joining subdued umber/charcoal shadows. No orange-blue grade, spectacular rim lighting, shine or universal daylight.\n\nSource: Brevot is THIRTY-EIGHT, handsome in a worn uneven way, broad mouth, gray beginning above his ears. Broad fingers, small ink stain beneath one nail. He is a poet dressed in a disliked ill-fitting coat: its LEFT sleeve rides halfway up his forearm when he reaches, and a bright inch of lining protrudes from its cuff. He carries three poem sheets in a narrow blue-paper parcel. The story's scene is awkward hopeful supper, not heroic adventure.\nRestrained visual interpretation: lightly weathered medium-light warm complexion; long subtly uneven nose, dark brown casually swept hair with sparse gray specifically at temples, brown eyes, clean-shaven jaw, lean average build. A plain brown-charcoal knee-length cloth coat with rather strained buttons, muted cream shirt, simple dark waistcoat, charcoal trousers and worn dark leather shoes. Faded warm red lining gives the small bright protruding cuff. These specify unspecified design details without adding history or powers.\n\nLayout: two large unclipped head-to-shoe views: front three-quarter with his LEFT arm gently extended to demonstrate the too-short sleeve and a little red lining; rear three-quarter at rest holding the narrow wrapped blue poem parcel in one hand. Two matching face studies: an open unceremonious grin and a quiet uncertain expression, same nose/jaw/hair/mouth proportions. Smaller useful studies of broad ink-stained hand with exactly five natural connected digits, the short left cuff with lining, and three simple manuscript sheets partly enclosed by folded blue paper. Do not put a sword, feathers or flowers anywhere. Paper carries no legible poem text. Small labels only: \"Front\", \"Rear\", \"Grin\", \"Uncertain\", \"Left cuff\", \"Ink-stained hand\", \"Poem\".\nKeep the same coat and face throughout. No furniture, restaurant, scenery, floor patches, scenery vignettes, palette chips, swatches, other people, extra fingers or clipped shoes. No anime, photorealism, smooth CGI, smooth glossy facial masks, regular bevelled paint-chip texture, or decorative borders. Spacious coherent isolated studies and clean exact readable headings.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+                "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+                "inspected": true,
+                "role": "Accepted same-story oil handling, ivory folio and restrained dinner candlelight continuity only. Do not copy this woman's face, clothes, feathers or sword."
+              }
+            ],
+            "status": "PASS",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-e25ef0d3-d486-4216-9153-8cc3f3997861.png",
+            "returnedSha256": "904c92898674bf42793606844192b2381726eddce6d63cf0c37702791362405b",
+            "completedAt": "2026-09-24T21:45:23.368874+00:00",
+            "review": [
+              "Matching broad mouth, worn adult face, gray at temples and dark hair across full views and grin/uncertain portraits; coherent single male identity distinct from Ildesse.",
+              "Left sleeve visibly rides up forearm with bright red lining; broad hand has five connected digits and dark ink below a nail; three pale manuscript sheets held in narrow blue paper.",
+              "Brown-charcoal cloth forms broad connected painted masses; opaque directional face/hair strokes, restrained warm dinner light, quiet ivory support, no environment or swatches.",
+              "Exact Brevot and The Place Laid for Her headings readable at full and 600px thumbnail; full figures and equipment remain clear and unclipped."
+            ]
+          }
+        ]
+      },
+      "output": "stories/the-place-laid-for-her/art/characters/brevot.png",
+      "outputSha256": "904c92898674bf42793606844192b2381726eddce6d63cf0c37702791362405b",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T21:45:23.368874+00:00",
+        "sourceSha256": "4e11d10a1bf61fbb0150577bd307967fd4c1a0b99abc18eb3e66d3c1dc27f40a",
+        "outputSha256": "904c92898674bf42793606844192b2381726eddce6d63cf0c37702791362405b",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+            "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+            "inspected": true,
+            "role": "Accepted same-story oil handling, ivory folio and restrained dinner candlelight continuity only. Do not copy this woman's face, clothes, feathers or sword."
+          }
+        ],
+        "evidence": [
+          "Matching broad mouth, worn adult face, gray at temples and dark hair across full views and grin/uncertain portraits; coherent single male identity distinct from Ildesse.",
+          "Left sleeve visibly rides up forearm with bright red lining; broad hand has five connected digits and dark ink below a nail; three pale manuscript sheets held in narrow blue paper.",
+          "Brown-charcoal cloth forms broad connected painted masses; opaque directional face/hair strokes, restrained warm dinner light, quiet ivory support, no environment or swatches.",
+          "Exact Brevot and The Place Laid for Her headings readable at full and 600px thumbnail; full figures and equipment remain clear and unclipped."
+        ],
+        "reviewers": [
+          "producing-agent",
+          "coordinator"
+        ],
+        "specificationSha256": "1d15f69596215ccfadfa92aef4befd66293d46b8b8fd669eac11f36f4ca7a8e7",
+        "coordinatorReview": "Coordinator independently opened saved PNG full and 600px thumbnail: PASS. Same mature broad-mouthed face and gray temples across front/rear/head views; ordinary ill-fit brown coat with left lining, coherent five-digit hand and blue-paper poem detail; exact readable labels; matte connected oil masses and ivory presentation match Ildesse."
+      }
+    }
+  ],
+  "locationGenerations": [
+    {
+      "id": "ousel-room-entrance-lobby",
+      "category": "interiors",
+      "sourceEvidence": [
+        "Host desk and clock above head at entrance",
+        "Curtains connect dinner room to departure lobby"
+      ],
+      "visualInterpretation": [
+        "Restrained dark wood wainscot, olive-gray plaster, brown planks, muted plum curtains; simple rectangular threshold. No facade inferred.",
+        "Modest rug and small desk flower arrangement are atmosphere, not source-established facts. Dining beyond threshold remains a shallow connected view."
+      ],
+      "generation": {
+        "tool": "functions.image_gen__imagegen",
+        "mode": "built-in",
+        "prompt": "Use case: illustration-story.\nCreate ONE horizontal 3:2 PNG environment reference painting, 1536x1024, one coherent view of the Ousel Room ENTRANCE LOBBY at eight in the evening. No text heading, captions, montage, border or reference-sheet layout. No people. This is a modest elegant preindustrial restaurant entry, not a palace, hotel or weapon shop.\n\nInput 1 is the accepted Ildesse sheet: primary same-story opaque painted forms, matte cloth/wood treatment and restrained warm candlelight only; do not depict her, her clothes/sword, sheet text or ivory background. Inputs 2 and 3 are Group of Seven gallery paintings: broad rhythmic interlocking colour/value masses, varied directional opaque oil strokes, selective substantial impasto, simplified forms and quiet connecting passages. Their landscapes, daytime sky and palettes are NOT scene references. Adapt this actual paint handling to candlelit indoor night, with connected deep umber shadows, subdued earth colour and lost edges. No generic orange-blue split lighting, photographic/3D polished render, cinematic rim glow, uniformly bevelled chips or fine line-art overlay.\n\nSource-supported elements: the host's desk at the entrance, a striking clock on the wall above the desk, a curtain opening leading into the dining room; space in front of desk for an adult in a wide silk skirt holding a sword horizontally. The safety cord is fetched from beneath the desk, so no weapon racks or confiscation counter.\nRestrained architectural interpretation: room about four metres wide; dark plain wood wainscot below muted olive-gray plaster. Host's modest waist-high dark wooden desk along the LEFT wall, clock directly above it, a single small candle on the desk. One broad rectangular doorway set in the BACK wall slightly right of centre, with heavy muted plum curtains drawn to either side and a dark wooden lintel. That doorway leads directly into the dining room; the view through it is only a shallow shadowed suggestion of dining space and distant candle glints, not a second room tableau. Simple worn brown plank floor in coherent perspective connects entry to curtain opening. View from just inside the outer entrance toward the desk and dining doorway; the exterior and facade remain outside the frame. The doorway should visibly admit a generously wide skirt.\nClock hands read eight o'clock. A modest closed reservation book may sit on the desk without legible writing. Desk/candle, clock and curtain opening form three clearly connected architectural anchors. NO mirror in this lobby: the long mirror belongs inside dining beside that same curtain threshold, to be shown separately. No modern electrics, chandeliers, sunlight or blue window. No people, sword, props from the characters, coat racks, street, invented crest, signs, lettering, decorative palace ornament or crowds. Preserve a quiet usable interior with substantial brushstrokes describing the floor boards, curtain masses, wood desk and muted plaster.",
+        "references": [
+          {
+            "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+            "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+            "inspected": true,
+            "role": "Accepted same-story primary oil treatment and restrained warm candlelight; transfer painted masses and shadows only, no character, labels or ivory-sheet layout."
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "prompt": "Use case: illustration-story.\nCreate ONE horizontal 3:2 PNG environment reference painting, 1536x1024, one coherent view of the Ousel Room ENTRANCE LOBBY at eight in the evening. No text heading, captions, montage, border or reference-sheet layout. No people. This is a modest elegant preindustrial restaurant entry, not a palace, hotel or weapon shop.\n\nInput 1 is the accepted Ildesse sheet: primary same-story opaque painted forms, matte cloth/wood treatment and restrained warm candlelight only; do not depict her, her clothes/sword, sheet text or ivory background. Inputs 2 and 3 are Group of Seven gallery paintings: broad rhythmic interlocking colour/value masses, varied directional opaque oil strokes, selective substantial impasto, simplified forms and quiet connecting passages. Their landscapes, daytime sky and palettes are NOT scene references. Adapt this actual paint handling to candlelit indoor night, with connected deep umber shadows, subdued earth colour and lost edges. No generic orange-blue split lighting, photographic/3D polished render, cinematic rim glow, uniformly bevelled chips or fine line-art overlay.\n\nSource-supported elements: the host's desk at the entrance, a striking clock on the wall above the desk, a curtain opening leading into the dining room; space in front of desk for an adult in a wide silk skirt holding a sword horizontally. The safety cord is fetched from beneath the desk, so no weapon racks or confiscation counter.\nRestrained architectural interpretation: room about four metres wide; dark plain wood wainscot below muted olive-gray plaster. Host's modest waist-high dark wooden desk along the LEFT wall, clock directly above it, a single small candle on the desk. One broad rectangular doorway set in the BACK wall slightly right of centre, with heavy muted plum curtains drawn to either side and a dark wooden lintel. That doorway leads directly into the dining room; the view through it is only a shallow shadowed suggestion of dining space and distant candle glints, not a second room tableau. Simple worn brown plank floor in coherent perspective connects entry to curtain opening. View from just inside the outer entrance toward the desk and dining doorway; the exterior and facade remain outside the frame. The doorway should visibly admit a generously wide skirt.\nClock hands read eight o'clock. A modest closed reservation book may sit on the desk without legible writing. Desk/candle, clock and curtain opening form three clearly connected architectural anchors. NO mirror in this lobby: the long mirror belongs inside dining beside that same curtain threshold, to be shown separately. No modern electrics, chandeliers, sunlight or blue window. No people, sword, props from the characters, coat racks, street, invented crest, signs, lettering, decorative palace ornament or crowds. Preserve a quiet usable interior with substantial brushstrokes describing the floor boards, curtain masses, wood desk and muted plaster.",
+            "references": [
+              {
+                "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+                "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+                "inspected": true,
+                "role": "Accepted same-story primary oil treatment and restrained warm candlelight; transfer painted masses and shadows only, no character, labels or ivory-sheet layout."
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+                "inspected": true
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-42ebbca3-123a-408d-aa8d-eb997839bb22.png",
+            "returnedSha256": "360b041d88b8875837e06aa2a08c27caaca441f016a303bf94146e6609c93ef5",
+            "completedAt": "2026-09-24T21:48:28.949464+00:00"
+          }
+        ]
+      },
+      "output": "stories/the-place-laid-for-her/art/interiors/ousel-room-entrance-lobby.png",
+      "outputSha256": "360b041d88b8875837e06aa2a08c27caaca441f016a303bf94146e6609c93ef5"
+    },
+    {
+      "id": "ousel-room-dining-room",
+      "category": "interiors",
+      "sourceEvidence": [
+        "Wall banquette and opposing chair at two-place supper table",
+        "Candles, small glasses, folded napkins, large white bouquet",
+        "Long mirror beside curtain and musician/server path"
+      ],
+      "visualInterpretation": [
+        "Same plum curtains, olive-gray plaster, dark wainscot and planks as accepted adjoining lobby; exact room plan and plum banquette are restrained interpretations.",
+        "Quiet prepared-room state omits figures to expose supported furniture/geography.",
+        "Framed landscape wall paintings and rug are atmosphere rather than source facts. The long mirror is beside the curtain on its left in the selected pixels; prose does not specify a side."
+      ],
+      "generation": {
+        "tool": "functions.image_gen__imagegen",
+        "mode": "built-in",
+        "prompt": "Use case: illustration-story.\nCreate ONE horizontal 3:2 PNG environment reference painting, 1536x1024, the DINING ROOM of the Ousel Room in a single coherent view, empty of figures, set for supper at eight in the evening. No title, captions, graphic panels, montage, border or sheet layout.\n\nInput 1 Ildesse character folio anchors same-story matte oil treatment and candlelit colour planes, not character or sheet text. Inputs 2 orchard and 3 stream are primary Group of Seven collection technique anchors: broad rhythmic interlocking colour/value masses, varied directional opaque oil strokes, selective substantial impasto, simplified forms, quiet passages, connected shadows. Do not copy their landscape or daylight. Input 4 is the ACCEPTED ADJOINING LOBBY and controls actual room materials and connecting threshold: dark wood wainscot, muted olive-gray plaster, brown plank floor, broad rectangular dark-wood doorway with muted plum curtains, restrained warm candle sources. Match its architecture and light.\n\nCamera inside dining room looking diagonally toward its wall banquette and, farther back at the RIGHT, the reverse side of that SAME plum-curtained opening into the lobby. Keep a plausible walkable room, table/chair scale and continuous floor perspective. The wide curtain doorway at right background is rectangular, with dark wood lintel. Through it show only a shallow glimpse of lobby wall and the edge of the host's desk on the VIEWER'S RIGHT inside the opening, consistent with looking back through the accepted lobby image's doorway; do not place a second dining room there. The clock can remain outside this angle, do not invent another clock. Beside the curtains, on the DINING side immediately to the doorway's right, stands the source-supported LONG MIRROR in a restrained dark frame, reflecting muted indoor candlelight and indistinct dining forms, not another doorway or impossible duplicated objects.\n\nForeground left is the central TABLE FOR TWO, set close to a wall BANQUETTE: continuous muted plum upholstered banquette against LEFT wall, wide enough for Ildesse's generous skirt and her sword laid lengthwise behind her eventual seat; ONE ordinary dark wooden chair opposite it on the table's right. The table has a warm-white linen cloth, exactly TWO place settings facing each other (one at banquette, one at opposing chair), small clear glasses, folded white napkins, simple silver cutlery and empty pale plates. A conspicuously large bouquet of WHITE flowers in a simple vase sits toward the wall end, not in the middle of both diners' faces. One pair of small candles lights the table. Other modest tables/chairs recede quietly into shadow without competing with this table. Leave walking space by curtain for the musician and server; no instrument or person is shown.\n\nSource supports banquette/chair, candles, small glasses, folded napkins, large white bouquet and long mirror beside curtain. Upholstery colour, simple wood/plaster room design and the exact table placement are restrained visual interpretations, consistent with input4; do not add a grand ballroom, vaulting, chandeliers, heraldry, electric lamps, exterior view or stage. This is the dining room prepared for the evening; no characters, sword, poem, meal remnants or plot-summary tableau. No separate clock in dining. No legible writing.\nPaint warm-white cloth and flowers as broad opaque broken masses within low restaurant light, not radiant white glow. Preserve deep connected umber/plum shadows beneath furniture and along walls, subtle lost edges and modest candle highlights. No generic blue/orange lighting, daylight, gloss, photorealistic furniture, smooth CGI, high-shine floor or uniform bevelled paint chips. One convincing continuous environment with generous visual clarity at gallery-thumbnail size.",
+        "references": [
+          {
+            "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+            "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+            "inspected": true,
+            "role": "Accepted character sheet is primary same-story oil and warm light continuity; no character or sheet labels depicted."
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-place-laid-for-her/art/interiors/ousel-room-entrance-lobby.png",
+            "sha256": "360b041d88b8875837e06aa2a08c27caaca441f016a303bf94146e6609c93ef5",
+            "inspected": true,
+            "role": "Accepted direct adjoining room; preserve broad rectangular dark-wood doorway, muted plum curtains, dark wood wainscot, olive-gray plaster, continuous plank floor and candlelight; reverse-side dining view."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "prompt": "Use case: illustration-story.\nCreate ONE horizontal 3:2 PNG environment reference painting, 1536x1024, the DINING ROOM of the Ousel Room in a single coherent view, empty of figures, set for supper at eight in the evening. No title, captions, graphic panels, montage, border or sheet layout.\n\nInput 1 Ildesse character folio anchors same-story matte oil treatment and candlelit colour planes, not character or sheet text. Inputs 2 orchard and 3 stream are primary Group of Seven collection technique anchors: broad rhythmic interlocking colour/value masses, varied directional opaque oil strokes, selective substantial impasto, simplified forms, quiet passages, connected shadows. Do not copy their landscape or daylight. Input 4 is the ACCEPTED ADJOINING LOBBY and controls actual room materials and connecting threshold: dark wood wainscot, muted olive-gray plaster, brown plank floor, broad rectangular dark-wood doorway with muted plum curtains, restrained warm candle sources. Match its architecture and light.\n\nCamera inside dining room looking diagonally toward its wall banquette and, farther back at the RIGHT, the reverse side of that SAME plum-curtained opening into the lobby. Keep a plausible walkable room, table/chair scale and continuous floor perspective. The wide curtain doorway at right background is rectangular, with dark wood lintel. Through it show only a shallow glimpse of lobby wall and the edge of the host's desk on the VIEWER'S RIGHT inside the opening, consistent with looking back through the accepted lobby image's doorway; do not place a second dining room there. The clock can remain outside this angle, do not invent another clock. Beside the curtains, on the DINING side immediately to the doorway's right, stands the source-supported LONG MIRROR in a restrained dark frame, reflecting muted indoor candlelight and indistinct dining forms, not another doorway or impossible duplicated objects.\n\nForeground left is the central TABLE FOR TWO, set close to a wall BANQUETTE: continuous muted plum upholstered banquette against LEFT wall, wide enough for Ildesse's generous skirt and her sword laid lengthwise behind her eventual seat; ONE ordinary dark wooden chair opposite it on the table's right. The table has a warm-white linen cloth, exactly TWO place settings facing each other (one at banquette, one at opposing chair), small clear glasses, folded white napkins, simple silver cutlery and empty pale plates. A conspicuously large bouquet of WHITE flowers in a simple vase sits toward the wall end, not in the middle of both diners' faces. One pair of small candles lights the table. Other modest tables/chairs recede quietly into shadow without competing with this table. Leave walking space by curtain for the musician and server; no instrument or person is shown.\n\nSource supports banquette/chair, candles, small glasses, folded napkins, large white bouquet and long mirror beside curtain. Upholstery colour, simple wood/plaster room design and the exact table placement are restrained visual interpretations, consistent with input4; do not add a grand ballroom, vaulting, chandeliers, heraldry, electric lamps, exterior view or stage. This is the dining room prepared for the evening; no characters, sword, poem, meal remnants or plot-summary tableau. No separate clock in dining. No legible writing.\nPaint warm-white cloth and flowers as broad opaque broken masses within low restaurant light, not radiant white glow. Preserve deep connected umber/plum shadows beneath furniture and along walls, subtle lost edges and modest candle highlights. No generic blue/orange lighting, daylight, gloss, photorealistic furniture, smooth CGI, high-shine floor or uniform bevelled paint chips. One convincing continuous environment with generous visual clarity at gallery-thumbnail size.",
+            "references": [
+              {
+                "path": "stories/the-place-laid-for-her/art/characters/ildesse.png",
+                "sha256": "5610270b5839c73bab31d6acb7f942cbc48b9c064a18a8f3a6ed2743b87ede2b",
+                "inspected": true,
+                "role": "Accepted character sheet is primary same-story oil and warm light continuity; no character or sheet labels depicted."
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary Group of Seven collection painted masses, opaque directional brush rhythm and connected shadows only; no landscape content or daylight copied.",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Primary collection simplification, selective substantial impasto, quiet passages and restrained shadow families only; no scenery or palette copying.",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-place-laid-for-her/art/interiors/ousel-room-entrance-lobby.png",
+                "sha256": "360b041d88b8875837e06aa2a08c27caaca441f016a303bf94146e6609c93ef5",
+                "inspected": true,
+                "role": "Accepted direct adjoining room; preserve broad rectangular dark-wood doorway, muted plum curtains, dark wood wainscot, olive-gray plaster, continuous plank floor and candlelight; reverse-side dining view."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d559-6582-76e2-b3f9-d424f85cc65d/exec-82f8940b-981d-48f2-8945-ceecd643b84d.png",
+            "returnedSha256": "4935f3a0d42c5466709a9e98a06d86baa611f0577431e3aa6d2258c3a1fdf964",
+            "completedAt": "2026-09-24T21:51:59.699424+00:00"
+          }
+        ]
+      },
+      "output": "stories/the-place-laid-for-her/art/interiors/ousel-room-dining-room.png",
+      "outputSha256": "4935f3a0d42c5466709a9e98a06d86baa611f0577431e3aa6d2258c3a1fdf964"
+    }
+  ]
+}
