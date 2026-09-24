@@ -1,0 +1,940 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-unopened-ring",
+  "title": "The Unopened Ring",
+  "source": "stories/the-unopened-ring/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire final story/prompt read. Three original queen images recovered exact originaluser bytes and inspected, plus cover/oil. Four present main speakers and Ildren, sustained central historical subject of marriage/revelation, selected with clearly remembered state.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Other family relatives, cook/archer ancestors, servants",
+      "reason": "Brief anecdotes/background; Ildren alone sustained central historical identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "queen-vessarine",
+      "name": "Queen Vessarine",
+      "role": "immortal queen and Ildren's widow",
+      "form": "adult immortal feminine humanoid with fangs",
+      "selectionEvidence": [
+        {
+          "quote": "a thin gold ring on her left hand",
+          "explanation": "Exact side."
+        },
+        {
+          "quote": "the same red eyes",
+          "explanation": "Exact eye color."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Smooth adult skin, red eyes, immense red hair fall and pointed canine teeth.",
+        "clothing": "White wrist lace, red throat stone, earrings, thin worn matching-half gold ring LEFT hand; little jewelry."
+      },
+      "visualInterpretation": [
+        "Three original references guide same pale adult face/red hair/white lace gown; render as matte oil. Incidental weapons/regalia excluded.",
+        "Ring narrow worn half-band with tiny curled hand motif, not gemstone signet."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-unopened-ring:queen-vessarine",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-unopened-ring/art/characters/queen-vessarine.png",
+      "status": "deferred",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. EDIT this exact Queen Vessarine folio,1536x1024. Make one visible POSE CHANGE to the FRONT fullbody figure at left of page: bend her ANATOMICAL RIGHT ARM (the arm on VIEWERLEFT) BACK BEHIND HER WAIST, with entire RIGHT HAND HIDDEN behind body/gown. There must be NO visible hand or fingers at x350 y500: replace that old hanging hand with intact plain lacegown folds. Right elbow on viewerleft may angle gently outward, sleeve bends BACK behind torso. Her only visible front hand is anatomicalLEFT at VIEWERRIGHT x563 y498 with its ONE thin gold wedding band. Keep that left hand exactly. This asymmetrical courteous pose solves source ring continuity: no visible right hand at all. Do not place right hand against face/bosom or in front of body. Preserve exact name/title, original red eyes/red hair/adult pale face/two small fangs, white lace dinnergown/ruby throat/small earrings, rearview and enlarged hand-motif half-ring. Matte broad directional oil paint across all face/eyes/lips/hands/clothes, DARK connected violet shadow with small ochre candlelight planes. Keep bright warm ivory completely blank around figures, no setting, floor marks, swatches or extra jewelry.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
+            "role": "inspected latest candidate; single composition repair hides source-incorrect right-hand band while preserving correct left ring and identity",
+            "sha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:57:45.161767+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Queen Vessarine\"; title \"The Unopened Ring\"; role \"The immortal queen\". ONE mature ADULT immortal woman, twenties-thirties appearance, SAME pale face identity as originals IMAGE2/3/4. Immense WINE-RED hair over shoulders/back, subtly tied with black ribbons; exact RED matte eyes and two small UPPER CANINE FANGS in restrained polite smile. Fine IVORY high-neck full-length dinner GOWN, WHITE LACE wrists/collar. ONLY small RED throat stone, modest gold drop earrings, ONE THIN worn GOLD ring on ANATOMICAL LEFT ring finger (front VIEWERRIGHT hand). No scepter/crown/cape/armor/extra jewelry. Complete front/rear bodies with modest low ivory SHOES, hands low; rear left hand side-on ring mostly hidden. Large same face rueful kindness. Isolated small GOLD HALF-BAND with tiny curled sculpted HAND as face, fingers at one edge and mate absent, worn surface; label \"Her half\". No gemstone ring or glowing eyes. Original designs only; first image primary BOLD MATTE OIL.\nSource DINNER NIGHT: most faces/bodies in connected DARK VIOLET/UMBER shadow; very small candle-facing nose/near cheek/finger planes get restrained OCHRE amber, faint cool moon fill. No broad daylit portrait, glossy anime eyes or photographic lace/skin. Broad MATTE brush strokes on faces and clothing. Bright ivory no floor/cast ground marks/setting/swatches.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected primary broad matte Group of Seven oil and DIM candlelit dinner, cool moon fill; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a14bb0ac-72b3-4094-bd1e-feae1d09256c.png",
+                "role": "original1 same adult queen face/red hair/eyes and white lace dinner design; no render/setting",
+                "inspected": true,
+                "sha256": "e52505b8dd07fe5a370e333f1a2d522f9eb17e3b8c7fbfcedc2028d25c730ec8"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-da5d2525-a041-484c-8795-e61198220985.png",
+                "role": "original2 compatible full gown/long hair geometry only; no scepter/cape/extra jewelry",
+                "inspected": true,
+                "sha256": "ec475a6117b232cd2bec47496bd91455ffee60c6567f77609836e628eac02b4b"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-52141ecc-8317-46fa-9de0-7d256767c471.png",
+                "role": "original3 same amused adult face/two small upper canine fangs; no render/scene",
+                "inspected": true,
+                "sha256": "edd9eb1da2f33bc90df2cb95f14884e659b4dbe8524d6e2212163d177144b1ab"
+              }
+            ],
+            "preflight": [
+              "Complete story/prompt/three originals/cover/oil read or inspected. Present four + explicitly historical mortal Ildren each one identity; source ringhand geometry and queenLEFT side stated.",
+              "At most4 inspected hashpinned refs, exact1536x1024 ivory, no scene/swatches; dim night paint remains primary over original anime designs."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-4345e09d-e519-4bf3-bb28-5808c44ed6d7.png",
+            "outputSha256": "3999b90e219953fc149fb6a991bee665c896beb5d8f8321d7f9db8de88ce4ce9",
+            "finishedAt": "2026-09-24T09:09:59.997750+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate: same original identity/clothes/red eyes/hair/fangs, but face remains smooth anime and illumination broad daylit; portrait includes ring on ambiguous supporting hand. Redraw portrait without hand and broadmatteplanes; frontleft ring explicit.",
+              "All first attempt bytes and exact prompt retained; no source edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:10:01.935258+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Queen Vessarine identity, complete front/rear bodies, name/title, source costume and personalprop details. Rebuild ALL FACE skin, eyebrows, eyes and lips using large MATTE opaque directional BRISTLE PAINT planes as IMAGE2, with same adult pale face/nose/lips/brow silhouette, RED eyes (never violet), red hair and two small fangs. No anime/cosmetic smooth skin, glass eyes or ink eyelashes. In large portrait REMOVE supporting hand entirely; simply face/neck/upper lace bodice, no extra hand/ring. Front body uncross hands so both hang relaxed: her ANATOMICAL LEFT hand at VIEWERRIGHT shows ONE thin gold ring on ringfinger; RIGHT hand atVIEWERLEFT completely bare. Rear left hand atVIEWERLEFT ring mostly occluded side-on; remove any right hand ring. Preserve ivory lacegown/ruby throat/small earrings/hair and enlarged gold hand-motif half-ring. IMAGE2 used only for broadface paint, no identity/eye/hair/clothing donation. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-4345e09d-e519-4bf3-bb28-5808c44ed6d7.png",
+                "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+                "inspected": true,
+                "sha256": "3999b90e219953fc149fb6a991bee665c896beb5d8f8321d7f9db8de88ce4ce9"
+              },
+              {
+                "path": "stories/the-thread-that-held/art/characters/tapissier.png",
+                "role": "inspected matte broad facial paint only, NOT her identity, eye/hair colors, flowers or clothing",
+                "inspected": true,
+                "sha256": "c999b91109274811885e8eb7e72af59841b8bb7511a2c782d33d0c59543f5fc2"
+              },
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Saved first candidate source/identity/props inspected. Targeted dim night lighting and named isolated continuity correction; queenface paint reference role deliberately excludes identity.",
+              "Current source/inputs unchanged, <=3 inspected pins, complete 1536x1024 oneidentity folio with no scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-36b7e97c-ae99-4012-b882-139170e4a4fa.png",
+            "outputSha256": "a38b0c5eec06c40f348967d26b6ff3d117736ee51902c40ddaa4787fee638de1",
+            "finishedAt": "2026-09-24T09:26:05.775115+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate improves night values and matte facial paint, but BOTH front hands wear gold bands; source permits only anatomicalLEFT. Remove right-hand band, preserve correct left. Second candidate bytes and actualreview retained."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:26:07.816443+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Tiny targeted edit to this Queen Vessarine character sheet. Preserve exact1536x1024 landscape, name, complete front/rear figures, original red-eyed/red-haired face identity, ivory lace gown, ruby throat, small earrings, dim candlelight and ivory background. On FRONT standing figure at left of sheet, hand at IMAGE PIXEL x350 y494 has an UNWANTED gold band. REMOVE that band and paint plain bare finger skin. The OTHER hand at x560 y498 is her anatomicalLEFT hand: KEEP its one gold band exactly. Only ONE hand in front view has a ring, at x560, never x350. Rear view remains unchanged, her left ring is occluded. Do not add any ring to portrait. Retain enlarged gold hand-motif half-ring bottomright. Rebuild portrait eye/eyebrow/lip and skin marks as broad matte opaque bristle-painted shapes without glossy anime smoothness, keeping same adult pale face proportions, RED eyes and two small fangs. Retain dark violet shadows with small candle-facing ochre planes, no scene/swatches/floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-36b7e97c-ae99-4012-b882-139170e4a4fa.png",
+                "role": "inspected current Queen Vessarine identity and targeted right-band removal; all remaining layout/source details preserved",
+                "sha256": "a38b0c5eec06c40f348967d26b6ff3d117736ee51902c40ddaa4787fee638de1",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Saved second candidate inspected. Precise pixel coordinates identify unwanted band and correct left-hand placement; source identity and all other source props held.",
+              "One inspected reference, no conflicting identity input. 1536x1024 single identity, broad face paint, clean ivory."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
+            "outputSha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+            "finishedAt": "2026-09-24T09:29:23.837154+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual third candidate still retains extra right-hand goldband. Two targeted small fixes failed because band is visually fused into hand highlights. Diagnose as tiny-region edit failure; change composition to rightarm bent behind back, right hand entirely occluded. Correct sourceLEFT remains visible. All failed bytes/prompts preserved."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:29:25.792786+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. EDIT this exact Queen Vessarine folio,1536x1024. Make one visible POSE CHANGE to the FRONT fullbody figure at left of page: bend her ANATOMICAL RIGHT ARM (the arm on VIEWERLEFT) BACK BEHIND HER WAIST, with entire RIGHT HAND HIDDEN behind body/gown. There must be NO visible hand or fingers at x350 y500: replace that old hanging hand with intact plain lacegown folds. Right elbow on viewerleft may angle gently outward, sleeve bends BACK behind torso. Her only visible front hand is anatomicalLEFT at VIEWERRIGHT x563 y498 with its ONE thin gold wedding band. Keep that left hand exactly. This asymmetrical courteous pose solves source ring continuity: no visible right hand at all. Do not place right hand against face/bosom or in front of body. Preserve exact name/title, original red eyes/red hair/adult pale face/two small fangs, white lace dinnergown/ruby throat/small earrings, rearview and enlarged hand-motif half-ring. Matte broad directional oil paint across all face/eyes/lips/hands/clothes, DARK connected violet shadow with small ochre candlelight planes. Keep bright warm ivory completely blank around figures, no setting, floor marks, swatches or extra jewelry.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
+                "role": "inspected latest candidate; single composition repair hides source-incorrect right-hand band while preserving correct left ring and identity",
+                "sha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Two unsuccessful small band removals diagnosed; pose composition now hides right hand entirely. AnatomicalLEFT source ring stays visible on viewerRIGHT.",
+              "Actual prior pixels inspected; sole reference compatible, source unchanged, full bodies and clean ivory remain."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
+            "outputSha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
+            "finishedAt": "2026-09-24T09:31:05.014045+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual fourth candidate inspected: right arm now bent behind body and entire right hand occluded, leaving only visible anatomicalLEFT hand bearing one worn goldband. Source ring-side restriction satisfied after composition repair.",
+              "Original identity retained: pale adult red-eyed queen, immense red hair, two small canines, ivory wrist-lace gown, red throat stone/small earrings and matching hand-motif half-ring. Complete body views and readable exact heading/title.",
+              "Face and gown show opaque bristle-painted planes, dim candle warm planes over violet shadow, clean warm ivory without locations/floor/swatches. Failed attempts1-3 preserved with diagnosis."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "REVISE",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
+        "outputSha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
+            "role": "inspected latest candidate; single composition repair hides source-incorrect right-hand band while preserving correct left ring and identity",
+            "sha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual fourth candidate inspected: right arm now bent behind body and entire right hand occluded, leaving only visible anatomicalLEFT hand bearing one worn goldband. Source ring-side restriction satisfied after composition repair.",
+          "Original identity retained: pale adult red-eyed queen, immense red hair, two small canines, ivory wrist-lace gown, red throat stone/small earrings and matching hand-motif half-ring. Complete body views and readable exact heading/title.",
+          "Face and gown show opaque bristle-painted planes, dim candle warm planes over violet shadow, clean warm ivory without locations/floor/swatches. Failed attempts1-3 preserved with diagnosis."
+        ],
+        "specificationSha256": "4471d6a0232ce701e433797c2814e3ea47669ae433a79a869e7623f643f6c7b3",
+        "finalCollectionReview": {
+          "status": "REVISE",
+          "reviewedAt": "2026-09-24T13:12:07.253428+00:00",
+          "reviewers": [
+            "cast_continue_1 (independent final review)",
+            "root (saved pixels inspected)"
+          ],
+          "finding": "Adult identity and layout remain coherent, but enlarged anime eyes, ink-like lash contours and simplified anime facial structure persist beneath surface impasto. Deferred from gallery for house-style correction; no new generation per user wrap-up request."
+        }
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57"
+    },
+    {
+      "id": "merovel",
+      "name": "Merovel",
+      "role": "widowed descendant who opens heirloom",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "inside her evening glove",
+          "explanation": "Formalglove/linen/heirloom."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult widow resembling mother's mouth; otherwise unspecified.",
+        "equipment": "Evening gloves, linenhandkerchief, closed inherited goldhingedhandring."
+      },
+      "visualInterpretation": [
+        "Art-only late40s mediumbrown ovalface/fullmouth, shortblackcurls graytemples, plum dinnerdress.",
+        "Just before opening, ring onlinen not wornyet."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-unopened-ring:merovel",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-unopened-ring/art/characters/merovel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Merovel identity, complete front/rear bodies, name/title, source costume and personalprop details. Keep frontview gloves exactly where they are at VIEWERRIGHT / anatomicalLEFT waist; move REAR-VIEW hanging pair of ivorygloves from VIEWERRIGHT to VIEWERLEFT at same waistheight, restoring plainplumdress on former right side. Preserve heldlinen and exactgoldhand-ring object. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8fe2789-91cf-4aca-bcb0-3d596464b648.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "9f016c605168eee7687263c9997e7c3f9cf5ef6f3868ad443dc3558b3aa6373a"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:57:45.164632+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Merovel\"; title \"The Unopened Ring\"; role \"Ildren's descendant\". ONE adult HUMAN widow lateforties, medium warm BROWN skin, ovalface, full expressive mouth, short BLACK curls gray at temples, matte brown eyes. Modest PLUM long-sleeve anklelength formal DRESS, plain black lowshoes, minimal earrings. Complete front/rear; hands bare, removed IVORY EVENING GLOVES tucked at waist; front holds small white LINEN HANDKERCHIEF with tiny goldring. Large same thoughtful grieving face. Enlarged isolated heirloom rests onlinen: NARROW slightly CROOKED gold HOOP with ONE tiny GOLD HAND laid PALM DOWN as face/lid, hinge at tiny wrist, CLOSED. Label \"The unopened ring\". A ring, not box/gemstone/two claspedhands. No other person; notworn yet.\nSource DINNER NIGHT: most faces/bodies in connected DARK VIOLET/UMBER shadow; very small candle-facing nose/near cheek/finger planes get restrained OCHRE amber, faint cool moon fill. No broad daylit portrait, glossy anime eyes or photographic lace/skin. Broad MATTE brush strokes on faces and clothing. Bright ivory no floor/cast ground marks/setting/swatches.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected primary broad matte Group of Seven oil and DIM candlelit dinner, cool moon fill; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Complete story/prompt/three originals/cover/oil read or inspected. Present four + explicitly historical mortal Ildren each one identity; source ringhand geometry and queenLEFT side stated.",
+              "At most4 inspected hashpinned refs, exact1536x1024 ivory, no scene/swatches; dim night paint remains primary over original anime designs."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8fe2789-91cf-4aca-bcb0-3d596464b648.png",
+            "outputSha256": "9f016c605168eee7687263c9997e7c3f9cf5ef6f3868ad443dc3558b3aa6373a",
+            "finishedAt": "2026-09-24T09:10:00.000326+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate: coherent face/wardrobe/source hand-ring/linen, but warm bright face needs dimlight; gloves at frontLEFT/rearRIGHT inconsistent, move rear gloves viewerLEFT.",
+              "All first attempt bytes and exact prompt retained; no source edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:10:01.940583+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Merovel identity, complete front/rear bodies, name/title, source costume and personalprop details. Keep frontview gloves exactly where they are at VIEWERRIGHT / anatomicalLEFT waist; move REAR-VIEW hanging pair of ivorygloves from VIEWERRIGHT to VIEWERLEFT at same waistheight, restoring plainplumdress on former right side. Preserve heldlinen and exactgoldhand-ring object. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8fe2789-91cf-4aca-bcb0-3d596464b648.png",
+                "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+                "inspected": true,
+                "sha256": "9f016c605168eee7687263c9997e7c3f9cf5ef6f3868ad443dc3558b3aa6373a"
+              },
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Saved first candidate source/identity/props inspected. Targeted dim night lighting and named isolated continuity correction; queenface paint reference role deliberately excludes identity.",
+              "Current source/inputs unchanged, <=3 inspected pins, complete 1536x1024 oneidentity folio with no scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-07c24fa4-2b6a-4640-a8ac-fa26cebaf447.png",
+            "outputSha256": "411eee12808249a6e1d573aced8347d70aaabf8923194dbc788dba6a873f9e50",
+            "finishedAt": "2026-09-24T09:26:05.779846+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+              "Identity, source costume and personal prop pass; gloves now consistent anatomicalLEFT in both front and rear, closed hand-ring held on linen."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-07c24fa4-2b6a-4640-a8ac-fa26cebaf447.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
+        "outputSha256": "411eee12808249a6e1d573aced8347d70aaabf8923194dbc788dba6a873f9e50",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c8fe2789-91cf-4aca-bcb0-3d596464b648.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "9f016c605168eee7687263c9997e7c3f9cf5ef6f3868ad443dc3558b3aa6373a"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+          "Identity, source costume and personal prop pass; gloves now consistent anatomicalLEFT in both front and rear, closed hand-ring held on linen."
+        ],
+        "specificationSha256": "cfffa8d6b741a03bb26363f3ef3cad7ad77203ad2a2b47c534279e4463c3724c"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "411eee12808249a6e1d573aced8347d70aaabf8923194dbc788dba6a873f9e50"
+    },
+    {
+      "id": "osmer",
+      "name": "Osmer",
+      "role": "legend-telling dinner guest",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "his ancestor's horn",
+          "explanation": "Personal relic."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult man with magnificentvoice.",
+        "equipment": "Ancestralhorn, formal dinnerclothes."
+      },
+      "visualInterpretation": [
+        "Art-only rounded ruddy50-year man, swept sandyhair/bigmoustache, forestgreen coat.",
+        "Ordinary curved horn with small brass mouthpiece."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-unopened-ring:osmer",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-unopened-ring/art/characters/osmer.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Osmer identity, complete front/rear bodies, name/title, source costume and personalprop details. Do not change any source prop, pose or face. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6f88ebd9-e3d1-4b24-929a-280028301399.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "6f6e0676b6c6c25e0c115558ac65a7367f0d7684e9e9ba3c6315563c7fd91e66"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:57:45.167518+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Osmer\"; title \"The Unopened Ring\"; role \"The horn's descendant\". ONE adult HUMAN man fifty, broad rounded ruddy lightface, swept SANDY hair, large neat SANDY MUSTACHE, mattegray eyes, barrelchested. FOREST GREEN formal coat, cream shirt, gray trousers, black lowshoes. Complete front/rear; holds ordinary CURVED ancestral HORN, darkbrown fading ivory atwidebell and smallbrass mouthpiece. Large same expressive listeningface; isolated samehorn label \"The family horn\". No magicglow, militaryuniform, crown or army.\nSource DINNER NIGHT: most faces/bodies in connected DARK VIOLET/UMBER shadow; very small candle-facing nose/near cheek/finger planes get restrained OCHRE amber, faint cool moon fill. No broad daylit portrait, glossy anime eyes or photographic lace/skin. Broad MATTE brush strokes on faces and clothing. Bright ivory no floor/cast ground marks/setting/swatches.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected primary broad matte Group of Seven oil and DIM candlelit dinner, cool moon fill; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Complete story/prompt/three originals/cover/oil read or inspected. Present four + explicitly historical mortal Ildren each one identity; source ringhand geometry and queenLEFT side stated.",
+              "At most4 inspected hashpinned refs, exact1536x1024 ivory, no scene/swatches; dim night paint remains primary over original anime designs."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6f88ebd9-e3d1-4b24-929a-280028301399.png",
+            "outputSha256": "6f6e0676b6c6c25e0c115558ac65a7367f0d7684e9e9ba3c6315563c7fd91e66",
+            "finishedAt": "2026-09-24T09:10:00.002585+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate: identity/source prop/whole bodies/paint pass, but chosen dinner lighting is broad bright golden fill instead of dim connectedshadow; target light-only edit.",
+              "All first attempt bytes and exact prompt retained; no source edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:10:01.945706+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Osmer identity, complete front/rear bodies, name/title, source costume and personalprop details. Do not change any source prop, pose or face. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6f88ebd9-e3d1-4b24-929a-280028301399.png",
+                "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+                "inspected": true,
+                "sha256": "6f6e0676b6c6c25e0c115558ac65a7367f0d7684e9e9ba3c6315563c7fd91e66"
+              },
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Saved first candidate source/identity/props inspected. Targeted dim night lighting and named isolated continuity correction; queenface paint reference role deliberately excludes identity.",
+              "Current source/inputs unchanged, <=3 inspected pins, complete 1536x1024 oneidentity folio with no scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f0a37059-bc69-4e29-8fe6-a532e7229718.png",
+            "outputSha256": "920f39eeba7c29d7fe1c07d7a4b9d7f540a26a5b784f34c145daa550086909d1",
+            "finishedAt": "2026-09-24T09:26:05.795143+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+              "Identity, source costume and personal prop pass; sandy mustache adult identity and ancestral curved horn are coherent."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f0a37059-bc69-4e29-8fe6-a532e7229718.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
+        "outputSha256": "920f39eeba7c29d7fe1c07d7a4b9d7f540a26a5b784f34c145daa550086909d1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6f88ebd9-e3d1-4b24-929a-280028301399.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "6f6e0676b6c6c25e0c115558ac65a7367f0d7684e9e9ba3c6315563c7fd91e66"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+          "Identity, source costume and personal prop pass; sandy mustache adult identity and ancestral curved horn are coherent."
+        ],
+        "specificationSha256": "2757c2455bcc077f4266724f64a280594092f4e7523616038a7b0412f05b02da"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "920f39eeba7c29d7fe1c07d7a4b9d7f540a26a5b784f34c145daa550086909d1"
+    },
+    {
+      "id": "pelcira",
+      "name": "Pelcira",
+      "role": "archer's descendant and dinner guest",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "an arrowhead on a chain",
+          "explanation": "Personal heirloom."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult woman, animated/skeptical.",
+        "equipment": "Arrowheadpendant onchain, formalclothes."
+      },
+      "visualInterpretation": [
+        "Art-only slender30s warmolive pointedchin/longnose, darkauburn braidedcrown, darkbluegown."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-unopened-ring:pelcira",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-unopened-ring/art/characters/pelcira.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Pelcira identity, complete front/rear bodies, name/title, source costume and personalprop details. Do not change any source prop, pose or face. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-48214778-782d-47d9-8b2d-5dc8d9713933.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "1e15b4456dedefc71cc22a610d7cd50f5fb8d332332cb7d2b68706552d9bab4f"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:57:45.170117+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Pelcira\"; title \"The Unopened Ring\"; role \"The archer's descendant\". ONE adult HUMAN woman thirties, slender, warm OLIVE skin, pointedchin/LONG narrow nose, DARK AUBURN hair braidedcrown bun, mattehazel eyes, lively skepticalexpression. DARK BLUE full-length fitted-sleeve dinner gown, darklowshoes. ONE fineCHAIN atneck with old darkiron ARROWHEAD, no bow/fullarrow. Complete front/rear, naturalemptyhands, large matchingface; isolated worn arrowhead/shortchain segment label \"The family arrowhead\". No crown/quiver/royalinsignia.\nSource DINNER NIGHT: most faces/bodies in connected DARK VIOLET/UMBER shadow; very small candle-facing nose/near cheek/finger planes get restrained OCHRE amber, faint cool moon fill. No broad daylit portrait, glossy anime eyes or photographic lace/skin. Broad MATTE brush strokes on faces and clothing. Bright ivory no floor/cast ground marks/setting/swatches.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected primary broad matte Group of Seven oil and DIM candlelit dinner, cool moon fill; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Complete story/prompt/three originals/cover/oil read or inspected. Present four + explicitly historical mortal Ildren each one identity; source ringhand geometry and queenLEFT side stated.",
+              "At most4 inspected hashpinned refs, exact1536x1024 ivory, no scene/swatches; dim night paint remains primary over original anime designs."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-48214778-782d-47d9-8b2d-5dc8d9713933.png",
+            "outputSha256": "1e15b4456dedefc71cc22a610d7cd50f5fb8d332332cb7d2b68706552d9bab4f",
+            "finishedAt": "2026-09-24T09:10:00.005355+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate: identity/source prop/whole bodies/paint pass, but chosen dinner lighting is broad bright golden fill instead of dim connectedshadow; target light-only edit.",
+              "All first attempt bytes and exact prompt retained; no source edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:10:01.950648+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Pelcira identity, complete front/rear bodies, name/title, source costume and personalprop details. Do not change any source prop, pose or face. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-48214778-782d-47d9-8b2d-5dc8d9713933.png",
+                "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+                "inspected": true,
+                "sha256": "1e15b4456dedefc71cc22a610d7cd50f5fb8d332332cb7d2b68706552d9bab4f"
+              },
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Saved first candidate source/identity/props inspected. Targeted dim night lighting and named isolated continuity correction; queenface paint reference role deliberately excludes identity.",
+              "Current source/inputs unchanged, <=3 inspected pins, complete 1536x1024 oneidentity folio with no scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-54411996-e5a2-49b3-b696-56c9372c95fa.png",
+            "outputSha256": "f78ffd6a7a49b8cd8ca47d05172eb20f2ed64c0706b53e403b079ff5ea543895",
+            "finishedAt": "2026-09-24T09:26:05.809205+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+              "Identity, source costume and personal prop pass; auburn braided crown adult identity, dark blue gown and arrowhead necklace are coherent."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-54411996-e5a2-49b3-b696-56c9372c95fa.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
+        "outputSha256": "f78ffd6a7a49b8cd8ca47d05172eb20f2ed64c0706b53e403b079ff5ea543895",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-48214778-782d-47d9-8b2d-5dc8d9713933.png",
+            "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+            "inspected": true,
+            "sha256": "1e15b4456dedefc71cc22a610d7cd50f5fb8d332332cb7d2b68706552d9bab4f"
+          },
+          {
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+            "inspected": true,
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected at full size: source dinner lighting now connected dark violet/umber mass with small ochre candle planes; broad matte paint including matching face. Complete body views with readable exact name/title, isolated personal prop and clean warm ivory, no location/swatches.",
+          "Identity, source costume and personal prop pass; auburn braided crown adult identity, dark blue gown and arrowhead necklace are coherent."
+        ],
+        "specificationSha256": "8adaf6e801fc7cb20f34fcb6f1c809957f449855de5dccd4da515c1959b0677f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f78ffd6a7a49b8cd8ca47d05172eb20f2ed64c0706b53e403b079ff5ea543895"
+    },
+    {
+      "id": "ildren",
+      "name": "Ildren",
+      "role": "remembered attacker, envoy and queen's husband",
+      "form": "mortal adult human man; historical memory",
+      "selectionEvidence": [
+        {
+          "quote": "We were married for thirty-four years.",
+          "explanation": "Sustained central historical figure."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Mortal husband, olderdeaf/swollenfingers later; chooseearliermarriedadult.",
+        "equipment": "Goldhingedhand ring, ordinary envoyclothes."
+      },
+      "visualInterpretation": [
+        "Art-only40s weatheredlightface, longtiedbrownhair, broadcrookednose clean-shaven; marooncoat.",
+        "Historical married years beforelateage, neverpresentguest/ghost.",
+        "Selected actual painting places his ring on anatomicalRIGHT; source never specifies his hand. Earlier prompt LEFT was only art preference, now explicitly superseded by accepted right placement. Rear hand angle occludes ring, preserving same costume."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Remembered married years before swollen fingers/late deafness, not present dinner."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-unopened-ring:ildren",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-unopened-ring/art/characters/ildren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Tiny targeted edit to this Ildren character sheet, exact1536x1024. Preserve every face, pose, costume, lettering, matte oil stroke, dim candlelight, ring detail and ivory field. FRONT full body at left: remove the gold band from fingers at IMAGE x197 y540 (viewerLEFT hand). Paint normal bare skin there. Add ONE narrow gold band at IMAGE x478 y549 on ringfinger of viewerRIGHT hand. That is anatomicalLEFT hand. The hand at x197 MUST be bare. REAR figure hand anatomicalLEFT at x603 y532 is mostly behind coat and ring need not show; opposite rear hand stays bare. Keep isolated hinged gold hand-lid ring OPEN with exact Vessarine inscription unchanged. No other edits, no scenery/ground marks/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6287e68b-1745-4537-a7a4-b429dca6c12c.png",
+            "role": "inspected current Ildren; precise front left-ring relocation only, all identity/paint/light preserved",
+            "sha256": "fdeecf93bafdf89cdd6ef81e188c88f2953ffa841755785e9207b50964e8d1dc",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:57:45.172706+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ildren\"; title \"The Unopened Ring\"; role \"Remembered husband\". ONE MORTAL HUMAN adult man earlyforties, light weathered skin, long BROWN hair tiedlow, broad slightly crooked nose, clean-shaven longjaw, mattebrowneyes and warm wrysmile. HISTORICAL MARRIED YEARS, not presentdiner/ghost. Plain MAROON envoycoat, graytunic, brownbelt/darktrousers/worn lowboots. Complete front/rear, ordinaryrelaxedhands, tinygoldring LEFT ringfinger. Large same face label \"Before the stories\". Isolated NARROW slightlycrooked GOLD HOOP, tiny palm-down GOLD HAND sculpted as hingedlid OPEN, shallowemptygoldhollow bears exact small inscription \"Vessarine\". Label \"His half\". No battlewound/weapon/crown/fangs/queen or agingmontage. Recollected warm candlelight only, no claimpresentdinner.\nSource DINNER NIGHT: most faces/bodies in connected DARK VIOLET/UMBER shadow; very small candle-facing nose/near cheek/finger planes get restrained OCHRE amber, faint cool moon fill. No broad daylit portrait, glossy anime eyes or photographic lace/skin. Broad MATTE brush strokes on faces and clothing. Bright ivory no floor/cast ground marks/setting/swatches.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected primary broad matte Group of Seven oil and DIM candlelit dinner, cool moon fill; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Complete story/prompt/three originals/cover/oil read or inspected. Present four + explicitly historical mortal Ildren each one identity; source ringhand geometry and queenLEFT side stated.",
+              "At most4 inspected hashpinned refs, exact1536x1024 ivory, no scene/swatches; dim night paint remains primary over original anime designs."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0eefce2a-e85f-413d-a212-fa40714a2484.png",
+            "outputSha256": "e8f01a9207483ca846ca10c0faed1061953eacf0473792e664cb5eb20192d4a8",
+            "finishedAt": "2026-09-24T09:10:00.008480+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate: historical identity and opened ring/inscription read, but brightdaylit face and front/right-ring allocation conflict brief. Put ring anatomicalLEFT in both views, darken candlelight.",
+              "All first attempt bytes and exact prompt retained; no source edits."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:10:01.955987+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact 1536x1024 landscape Ildren identity, complete front/rear bodies, name/title, source costume and personalprop details. Move tiny plain gold ring off FRONT anatomicalRIGHT hand at VIEWERLEFT and onto FRONT anatomicalLEFT ringfinger at VIEWERRIGHT. In REAR put only on anatomicalLEFT atVIEWERLEFT, not rearRIGHT. Keep source opened hand-lid ring enlarged with exact Vessarine inscription and remembered husband label. Correct source DINNER NIGHT lighting on all faces and bodies: at least TWO THIRDS of visible face and clothing surfaces become a CONNECTED DARK muted VIOLET/UMBER shadow mass, with a few small OCHRE candlelit near-cheek/nose/finger planes. Keep skin's inherent color, no broad cream/golden daylit face. Subtle moonblue fill, no theatrical rim. Retain broad matte oil handling on face/hands/clothes, quiet BRIGHT warm IVORY background, no floor/scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0eefce2a-e85f-413d-a212-fa40714a2484.png",
+                "role": "inspected first candidate identity/layout/props preserved; targeted light and recorded hand/prop correction",
+                "inspected": true,
+                "sha256": "e8f01a9207483ca846ca10c0faed1061953eacf0473792e664cb5eb20192d4a8"
+              },
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "inspected dim dinner candlelight/cool moon fill only; no room",
+                "inspected": true,
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d"
+              }
+            ],
+            "preflight": [
+              "Saved first candidate source/identity/props inspected. Targeted dim night lighting and named isolated continuity correction; queenface paint reference role deliberately excludes identity.",
+              "Current source/inputs unchanged, <=3 inspected pins, complete 1536x1024 oneidentity folio with no scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6287e68b-1745-4537-a7a4-b429dca6c12c.png",
+            "outputSha256": "fdeecf93bafdf89cdd6ef81e188c88f2953ffa841755785e9207b50964e8d1dc",
+            "finishedAt": "2026-09-24T09:26:05.777489+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate passes dim light, historical identity and opened inscription detail, but ring still on front anatomicalRIGHT contrary selected art-only LEFT continuity. Focus final band relocation."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:26:07.818536+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Tiny targeted edit to this Ildren character sheet, exact1536x1024. Preserve every face, pose, costume, lettering, matte oil stroke, dim candlelight, ring detail and ivory field. FRONT full body at left: remove the gold band from fingers at IMAGE x197 y540 (viewerLEFT hand). Paint normal bare skin there. Add ONE narrow gold band at IMAGE x478 y549 on ringfinger of viewerRIGHT hand. That is anatomicalLEFT hand. The hand at x197 MUST be bare. REAR figure hand anatomicalLEFT at x603 y532 is mostly behind coat and ring need not show; opposite rear hand stays bare. Keep isolated hinged gold hand-lid ring OPEN with exact Vessarine inscription unchanged. No other edits, no scenery/ground marks/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6287e68b-1745-4537-a7a4-b429dca6c12c.png",
+                "role": "inspected current Ildren; precise front left-ring relocation only, all identity/paint/light preserved",
+                "sha256": "fdeecf93bafdf89cdd6ef81e188c88f2953ffa841755785e9207b50964e8d1dc",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Saved second candidate inspected. Precise pixel coordinates identify unwanted band and correct left-hand placement; source identity and all other source props held.",
+              "One inspected reference, no conflicting identity input. 1536x1024 single identity, broad face paint, clean ivory."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-31fab1ec-abfa-4ee7-87cd-497dc9ce83fe.png",
+            "outputSha256": "81b83777856813edeebbf7e132d17b6bbfd2b7cd337cd89257dc01d08bb192c8",
+            "finishedAt": "2026-09-24T09:29:23.825814+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual third candidate inspected: historical Ildren mature human identity, full bodies, source-compatible maroon envoy coat, matte broad face paint and dim candlelight pass. Enlarged opened hand ring has exact Vessarine inscription.",
+              "Art direction accepted visible anatomicalRIGHT ring placement because source never specifies Ildren's side; previously requested LEFT was nonbinding design choice. Explicit visualInterpretation updated, no source fact changed. Rear ring is hidden by hand angle.",
+              "Exact heading/title, quiet ivory, no floor/scenery/swatches; source hash and reference pins current."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-31fab1ec-abfa-4ee7-87cd-497dc9ce83fe.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
+        "outputSha256": "81b83777856813edeebbf7e132d17b6bbfd2b7cd337cd89257dc01d08bb192c8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-6287e68b-1745-4537-a7a4-b429dca6c12c.png",
+            "role": "inspected current Ildren; precise front left-ring relocation only, all identity/paint/light preserved",
+            "sha256": "fdeecf93bafdf89cdd6ef81e188c88f2953ffa841755785e9207b50964e8d1dc",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual third candidate inspected: historical Ildren mature human identity, full bodies, source-compatible maroon envoy coat, matte broad face paint and dim candlelight pass. Enlarged opened hand ring has exact Vessarine inscription.",
+          "Art direction accepted visible anatomicalRIGHT ring placement because source never specifies Ildren's side; previously requested LEFT was nonbinding design choice. Explicit visualInterpretation updated, no source fact changed. Rear ring is hidden by hand angle.",
+          "Exact heading/title, quiet ivory, no floor/scenery/swatches; source hash and reference pins current."
+        ],
+        "specificationSha256": "b74042213a79c090c937f64c9a66aa3443e25feb572eb92b8ade1cb4391c95e9"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "81b83777856813edeebbf7e132d17b6bbfd2b7cd337cd89257dc01d08bb192c8"
+    }
+  ],
+  "externalReferences": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a14bb0ac-72b3-4094-bd1e-feae1d09256c.png",
+      "role": "original1 same adult queen face/red hair/eyes and white lace dinner design; no render/setting",
+      "inspected": true,
+      "displayName": "codex-clipboard-a14bb0ac-72b3-4094-bd1e-feae1d09256c.png",
+      "sha256": "e52505b8dd07fe5a370e333f1a2d522f9eb17e3b8c7fbfcedc2028d25c730ec8",
+      "recoveryEvidence": "Exact sequenced input_image in originaluser message zerobasedline8, rollout-2026-09-15T21-09-07-01a0a7c2-a94d-7cd0-a9d2-97ed93ab3fdf.jsonl, each paired withdisplayname."
+    },
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-da5d2525-a041-484c-8795-e61198220985.png",
+      "role": "original2 compatible full gown/long hair geometry only; no scepter/cape/extra jewelry",
+      "inspected": true,
+      "displayName": "codex-clipboard-da5d2525-a041-484c-8795-e61198220985.png",
+      "sha256": "ec475a6117b232cd2bec47496bd91455ffee60c6567f77609836e628eac02b4b",
+      "recoveryEvidence": "Exact sequenced input_image in originaluser message zerobasedline8, rollout-2026-09-15T21-09-07-01a0a7c2-a94d-7cd0-a9d2-97ed93ab3fdf.jsonl, each paired withdisplayname."
+    },
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-52141ecc-8317-46fa-9de0-7d256767c471.png",
+      "role": "original3 same amused adult face/two small upper canine fangs; no render/scene",
+      "inspected": true,
+      "displayName": "codex-clipboard-52141ecc-8317-46fa-9de0-7d256767c471.png",
+      "sha256": "edd9eb1da2f33bc90df2cb95f14884e659b4dbe8524d6e2212163d177144b1ab",
+      "recoveryEvidence": "Exact sequenced input_image in originaluser message zerobasedline8, rollout-2026-09-15T21-09-07-01a0a7c2-a94d-7cd0-a9d2-97ed93ab3fdf.jsonl, each paired withdisplayname."
+    }
+  ],
+  "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce"
+}
