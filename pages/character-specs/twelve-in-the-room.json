@@ -1,0 +1,874 @@
+{
+  "schemaVersion": 1,
+  "slug": "twelve-in-the-room",
+  "title": "Twelve in the Room",
+  "source": "stories/twelve-in-the-room/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose, prompt and review read. Actual original, cover and night interior/landscape oils inspected. Six main identities: focal Hesk, organizer Osselin, sustained opponents Paske/Vestrin/scarred woman (new art-only Neshva), and central Alvera shown in explicit living memory at26. Source age60 supersedes younger stylized original for Osselin.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Bald driver, red-tie man, gray beard, long-gun carrier, stiff-legged man, gold spectacles, green-gloved woman and riding-coat woman",
+      "reason": "Functional ensemble gunfighters without sustained separate characterization; no additional main-cast sheets."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "hesk",
+      "name": "Hesk",
+      "role": "Hired killer and former associate",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "His phone was recording from his breast pocket.",
+          "explanation": "Focal protagonist conceals his part in Alvera's death and tries to escape Osselin."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult man with pistol, recording phone in breast pocket and a brown envelope with one corner clipped. Exact age and appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only man about46, narrow lean body, long tired pale-olive face, short receding black hair, gray temples and rough stubble. Charcoal suit and faded blue shirt."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Opening encounter before the gunfight; uninjured, phone recording."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:hesk",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/hesk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Perform a minimal edit to this complete1536x1024 character reference sheet. KEEP THE PERSON, every face/body/hair/clothing/hand/pistol/control pose, all text, composition, lighting, oil brushwork and ivory paper EXACTLY. Edit ONLY the isolated brown envelope inset at lower right. It must have ONE TOP CORNER visibly CUT OFF: remove a substantial triangle from its upper right corner so that its outer silhouette has an unmistakable straight DIAGONAL chamfer, exposing ivory where the triangular corner formerly was. Five-sided paper outline, not a rectangular envelope. This is the story's crucial clipped-corner identifier. Keep ordinary paper painted in the same opaque ochre-brown oils; show a small unsealed flap opening but no readable contents, no extra text. No added hands. All other pixels/content preserved.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-77150992-6cb3-47f2-8607-8f3f9d8c8fc4.png",
+            "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+            "inspected": true,
+            "sha256": "92577eda668526c0a62f6e979030ed3c78a799834e4a9026ce45dd4fefe1a09f"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.633566+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Hesk\"; exact story title \"Twelve in the Room\"; subtitle \"Hired killer and former associate\". Adult MAN about46, lean narrow build, PALE OLIVE complexion, long gaunt face, high receding hairline, SHORT black hair with gray temples and coarse dark stubble, small wary gray-brown eyes. Modern CHARCOAL suit over faded BLUE collared shirt, plain black shoes. A small phone visible just at breast pocket, pistol lowered at his side, no tie. Personal-object inset is a sealed BROWN envelope with ONE upper corner clipped, no legible incriminating text. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-77150992-6cb3-47f2-8607-8f3f9d8c8fc4.png",
+            "outputSha256": "92577eda668526c0a62f6e979030ed3c78a799834e4a9026ce45dd4fefe1a09f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.908012+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Identity/phone/modern suit accepted; isolated envelope lacks the source's distinct clipped-away corner. Correct that object only.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "toolInvoked": true,
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "startedAt": "2026-09-24T12:24:06.014183+00:00",
+            "prompt": "Perform a minimal edit to this complete1536x1024 character reference sheet. KEEP THE PERSON, every face/body/hair/clothing/hand/pistol/control pose, all text, composition, lighting, oil brushwork and ivory paper EXACTLY. Edit ONLY the isolated brown envelope inset at lower right. It must have ONE TOP CORNER visibly CUT OFF: remove a substantial triangle from its upper right corner so that its outer silhouette has an unmistakable straight DIAGONAL chamfer, exposing ivory where the triangular corner formerly was. Five-sided paper outline, not a rectangular envelope. This is the story's crucial clipped-corner identifier. Keep ordinary paper painted in the same opaque ochre-brown oils; show a small unsealed flap opening but no readable contents, no extra text. No added hands. All other pixels/content preserved.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-77150992-6cb3-47f2-8607-8f3f9d8c8fc4.png",
+                "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+                "inspected": true,
+                "sha256": "92577eda668526c0a62f6e979030ed3c78a799834e4a9026ce45dd4fefe1a09f"
+              }
+            ],
+            "preflight": [
+              "Source explicitly makes clipped envelope corner the identifying habit; actual first candidate rectangle lacks that feature. Edit only isolated object, preserve accepted cast and all anatomy."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d6b05059-ba38-4568-aac3-55b18f05a643.png",
+            "outputSha256": "e39dadeb11a0373588f153a9d49a42e18cad0a54bf20ede5facd9643a9eee797",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:35:18.549356+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Targeted envelope edit now shows unmistakable clipped upper corner; accepted focal identity/phone/pistol/modern costume preserved.",
+              "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d6b05059-ba38-4568-aac3-55b18f05a643.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "e39dadeb11a0373588f153a9d49a42e18cad0a54bf20ede5facd9643a9eee797",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-77150992-6cb3-47f2-8607-8f3f9d8c8fc4.png",
+            "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+            "inspected": true,
+            "sha256": "92577eda668526c0a62f6e979030ed3c78a799834e4a9026ce45dd4fefe1a09f"
+          }
+        ],
+        "evidence": [
+          "Targeted envelope edit now shows unmistakable clipped upper corner; accepted focal identity/phone/pistol/modern costume preserved.",
+          "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "1f9c71cd70ce1470add21a0848d95067fd0db635d346b2a0e4021a74ba31e84a"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "e39dadeb11a0373588f153a9d49a42e18cad0a54bf20ede5facd9643a9eee797"
+    },
+    {
+      "id": "osselin",
+      "name": "Osselin",
+      "role": "Mother of Alvera",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "At sixty she had learned nothing about being old.",
+          "explanation": "Central organizer confronting the twelve killers; source sixty supersedes young-looking original art."
+        },
+        {
+          "quote": "pale hair loose over a white coat",
+          "explanation": "Binding external appearance."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Woman exactly60, pale loose hair over white coat; small holstered pistol at hip, black control enclosed in left hand. Hair touches pistol grip when she shakes her head."
+      },
+      "visualInterpretation": [
+        "Art-only slender woman60 with long wrinkled angular face, long straight nose, thin stern lips, small gray eyes, white-gray loose shoulder-to-waist hair. Simple white calf-length coat over muted black separates."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Uninjured opening confrontation beneath worklight, pistol still holstered and control enclosed in her hand."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:osselin",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/osselin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Perform a minimal edit to this complete1536x1024 character reference sheet. KEEP THE PERSON, every face/body/hair/clothing/hand/pistol/control pose, all text, composition, lighting, oil brushwork and ivory paper EXACTLY. Edit ONLY the isolated brown envelope inset at lower right. It must have ONE TOP CORNER visibly CUT OFF: remove a substantial triangle from its upper right corner so that its outer silhouette has an unmistakable straight DIAGONAL chamfer, exposing ivory where the triangular corner formerly was. Five-sided paper outline, not a rectangular envelope. This is the story's crucial clipped-corner identifier. Keep ordinary paper painted in the same opaque ochre-brown oils; show a small unsealed flap opening but no readable contents, no extra text. No added hands. All other pixels/content preserved.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-9a0ac69f-79e9-4c5a-9c48-fdad0377e38c.png",
+            "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+            "inspected": true,
+            "sha256": "e22a7f3f281f4d5a5749cf7251fc48adea4d9db7192d924b10993ce7195b6322"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.640074+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Osselin\"; exact story title \"Twelve in the Room\"; subtitle \"Mother of Alvera\". Adult HUMAN WOMAN EXACTLY SIXTY, unmistakably mature with creased brow, weathered cheeks, crow's feet, long angular face, narrow straight nose, thin stern lips, small matte gray eyes. Slender body, long loose WHITE-GRAY hair reaching near waist, naturally uneven self-cut ends. Plain WHITE calf-length coat, no ornate starwork, over BLACK practical blouse and trousers, black low boots. Small pistol remains HOLSTERED at hip. In complete body pose she keeps a small plain opaque BLACK CONTROL enclosed in her LEFT hand at waist; hand simply part of body pose, no detached closeup and no mechanism detail. Other arm at ease. Personal object is a clipped-corner sealed brown envelope. Image3 original/image4 cover guide pale hair and white coat silhouette only, NEVER youth, anime or scene. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1db0537f-ce92-43b6-b2e5-1313e6745a4e.png",
+                "role": "Inspected original composition and pale loose hair/white coat only. Prose age60 and practical coat override youthful anime anatomy and ornament.",
+                "inspected": true,
+                "sha256": "82d711949adf615fb261dbb92b72838ece904c58134325747f2ecd89f8132064"
+              },
+              {
+                "path": "stories/twelve-in-the-room/title-image.jpg",
+                "role": "Inspected source cover pale loose hair/white coat silhouette only; no overhead scene, ring of weapons or youthful face.",
+                "inspected": true,
+                "sha256": "487932493dc0673ba4a3f299733d6f73cde647aa4f623bd9ee7130b826f974fe"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-9a0ac69f-79e9-4c5a-9c48-fdad0377e38c.png",
+            "outputSha256": "e22a7f3f281f4d5a5749cf7251fc48adea4d9db7192d924b10993ce7195b6322",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.910797+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Source60-year-old face, pale loose hair, white coat and closed control body accepted; isolated envelope needs actual clipped-away corner.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "toolInvoked": true,
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "startedAt": "2026-09-24T12:24:06.016463+00:00",
+            "prompt": "Perform a minimal edit to this complete1536x1024 character reference sheet. KEEP THE PERSON, every face/body/hair/clothing/hand/pistol/control pose, all text, composition, lighting, oil brushwork and ivory paper EXACTLY. Edit ONLY the isolated brown envelope inset at lower right. It must have ONE TOP CORNER visibly CUT OFF: remove a substantial triangle from its upper right corner so that its outer silhouette has an unmistakable straight DIAGONAL chamfer, exposing ivory where the triangular corner formerly was. Five-sided paper outline, not a rectangular envelope. This is the story's crucial clipped-corner identifier. Keep ordinary paper painted in the same opaque ochre-brown oils; show a small unsealed flap opening but no readable contents, no extra text. No added hands. All other pixels/content preserved.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-9a0ac69f-79e9-4c5a-9c48-fdad0377e38c.png",
+                "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+                "inspected": true,
+                "sha256": "e22a7f3f281f4d5a5749cf7251fc48adea4d9db7192d924b10993ce7195b6322"
+              }
+            ],
+            "preflight": [
+              "Source explicitly makes clipped envelope corner the identifying habit; actual first candidate rectangle lacks that feature. Edit only isolated object, preserve accepted cast and all anatomy."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-dca8cf48-0d6a-481b-a9c8-2b77476c5198.png",
+            "outputSha256": "5f6b5c4b061a7f5259bba2e5573ab95bfc2cff9d04f444130e8f293501d0da9d",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:35:18.561026+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Envelope has visible diagonal clipped corner. Mature60 face, long pale hair, white coat, opaque enclosed control and holstered pistol preserved.",
+              "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-dca8cf48-0d6a-481b-a9c8-2b77476c5198.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "5f6b5c4b061a7f5259bba2e5573ab95bfc2cff9d04f444130e8f293501d0da9d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-9a0ac69f-79e9-4c5a-9c48-fdad0377e38c.png",
+            "role": "Inspected candidate: correct only explicit source clipped envelope corner.",
+            "inspected": true,
+            "sha256": "e22a7f3f281f4d5a5749cf7251fc48adea4d9db7192d924b10993ce7195b6322"
+          }
+        ],
+        "evidence": [
+          "Envelope has visible diagonal clipped corner. Mature60 face, long pale hair, white coat, opaque enclosed control and holstered pistol preserved.",
+          "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "b83b6ff6f79d139852a6430702916d92601197c0001403f2f346af104d049b16"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "5f6b5c4b061a7f5259bba2e5573ab95bfc2cff9d04f444130e8f293501d0da9d"
+    },
+    {
+      "id": "paske",
+      "name": "Paske",
+      "role": "Killer and failed negotiator",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Across the light, Paske grinned",
+          "explanation": "Sustained bargaining and organizing the attempt to seize Osselin's hand."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult man, grins and bargains, takes out phone, carries gun; age and costume unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only broad man45, ruddy complexion, thick sandy side-part hair, clean-shaven fleshy cheeks and flattened nose. Worn brown jacket/navy shirt, dark trousers."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Opening bargaining phase, before assault and injury."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:paske",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/paske.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Paske\"; exact story title \"Twelve in the Room\"; subtitle \"Killer and failed negotiator\". Adult MAN45, broad thickset build, RUDDY fair complexion, wide fleshy face, flattened nose, small narrowed blue eyes, thick SANDY blond side-parted hair, clean shaven. Worn BROWN leather jacket over NAVY open-collar shirt and black trousers/shoes. Tight ingratiating half-grin. Phone held at waist and lowered pistol in other hand. Isolated personal object ordinary smartphone with blank dark screen. Not the red-tie killer; NO red tie. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.644653+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Paske\"; exact story title \"Twelve in the Room\"; subtitle \"Killer and failed negotiator\". Adult MAN45, broad thickset build, RUDDY fair complexion, wide fleshy face, flattened nose, small narrowed blue eyes, thick SANDY blond side-parted hair, clean shaven. Worn BROWN leather jacket over NAVY open-collar shirt and black trousers/shoes. Tight ingratiating half-grin. Phone held at waist and lowered pistol in other hand. Isolated personal object ordinary smartphone with blank dark screen. Not the red-tie killer; NO red tie. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d29cb523-bd32-413f-b5e1-0ff51033d0ff.png",
+            "outputSha256": "1b879b3795b5b478c2e1555f47fd50a42592edb689a2ced7c4fcb771ba45e41c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.913393+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Broad sandy-haired grinning negotiator has clear different identity, phone and lowered pistol; uninjured selected opening.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d29cb523-bd32-413f-b5e1-0ff51033d0ff.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "1b879b3795b5b478c2e1555f47fd50a42592edb689a2ced7c4fcb771ba45e41c",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "evidence": [
+          "Broad sandy-haired grinning negotiator has clear different identity, phone and lowered pistol; uninjured selected opening.",
+          "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+        ],
+        "specificationSha256": "441c99a66146b078b5b44636c3efad3491ebb82199599c022722aa2c04d1bdb3"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "1b879b3795b5b478c2e1555f47fd50a42592edb689a2ced7c4fcb771ba45e41c"
+    },
+    {
+      "id": "vestrin",
+      "name": "Vestrin",
+      "role": "Killer searching for an exit",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Vestrin was watching Osselin's coat pockets.",
+          "explanation": "Sustained escape attempt, opens service exit and is abandoned by Hesk."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult woman, gun and boots; source later wounds her lower leg, but selected opening is intact. Exact age/appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only woman38, deep brown complexion, slender wiry build, short tight black curls, long nose, dark watchful eyes. Dark olive modern utility jacket and charcoal trousers."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Opening watchful phase near exit, before violence and leg wound."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:vestrin",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/vestrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Vestrin\"; exact story title \"Twelve in the Room\"; subtitle \"Killer searching for an exit\". Adult WOMAN38, wiry slender build, DEEP BROWN skin, long straight nose, high forehead, small dark watchful eyes, SHORT tightly curled BLACK hair cropped close. Modern dark OLIVE utility jacket, charcoal trousers, sturdy black ankle boots; no camouflage or insignia. Tense contained expression, head slightly turned as if evaluating an exit, but no actual door. Pistol carried low, complete body pose. Isolated object her simple closed dark leather phone case. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.649625+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Vestrin\"; exact story title \"Twelve in the Room\"; subtitle \"Killer searching for an exit\". Adult WOMAN38, wiry slender build, DEEP BROWN skin, long straight nose, high forehead, small dark watchful eyes, SHORT tightly curled BLACK hair cropped close. Modern dark OLIVE utility jacket, charcoal trousers, sturdy black ankle boots; no camouflage or insignia. Tense contained expression, head slightly turned as if evaluating an exit, but no actual door. Pistol carried low, complete body pose. Isolated object her simple closed dark leather phone case. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c7c91cb2-9581-430c-86bb-00f78e988c57.png",
+            "outputSha256": "71f190ca3b6a9412c7cb9e98eb228845f47b0bcccee664f8f5a83d257316d8a0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.948586+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Wiry watchful woman with dark cropped curls and practical olive jacket; intact previolence state, coherent painted features.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c7c91cb2-9581-430c-86bb-00f78e988c57.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "71f190ca3b6a9412c7cb9e98eb228845f47b0bcccee664f8f5a83d257316d8a0",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "evidence": [
+          "Wiry watchful woman with dark cropped curls and practical olive jacket; intact previolence state, coherent painted features.",
+          "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+        ],
+        "specificationSha256": "54874ec8302d7436b8d439bda9a223e34c6c108c83df41ec3dd6974a9220a716"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "71f190ca3b6a9412c7cb9e98eb228845f47b0bcccee664f8f5a83d257316d8a0"
+    },
+    {
+      "id": "neshva",
+      "name": "Neshva",
+      "role": "Scarred killer beside Hesk",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "A pink scar ran from her ear beneath her chin.",
+          "explanation": "Major immediate antagonist to Hesk, threatens him, disputes original papers and is shot."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult woman with pink scar from ear beneath chin, crooked forefinger on pistol. No proper name, age, hair or clothing specified."
+      },
+      "visualInterpretation": [
+        "Art-only woman44, fair weathered face, broad square jaw, dark brown hair in tight low bun with gray streak, charcoal trench and wine high-neck shirt. Pink scar retained."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Uninjured opening confrontation; source pink scar predates the story."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:neshva",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Scarred killer beside Hesk",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/neshva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Neshva\"; exact story title \"Twelve in the Room\"; subtitle \"Scarred killer beside Hesk\". Adult WOMAN44, square-jawed weathered FAIR face, heavy straight brows, small deep-set dark eyes, dark BROWN hair tightly drawn into LOW bun with one gray streak. A clear narrow PINK HEALED SCAR runs from one ear under the jaw toward beneath chin, not a fresh wound. CHARCOAL modern trench over dark WINE high-neck shirt, black trousers and shoes. Pistol pointed down at side, source crooked forefinger subtle natural grip, no special hand diagram or study. Suspicious unsmiling expression. Isolated personal object a plain closed pistol holster. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.654008+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Neshva\"; exact story title \"Twelve in the Room\"; subtitle \"Scarred killer beside Hesk\". Adult WOMAN44, square-jawed weathered FAIR face, heavy straight brows, small deep-set dark eyes, dark BROWN hair tightly drawn into LOW bun with one gray streak. A clear narrow PINK HEALED SCAR runs from one ear under the jaw toward beneath chin, not a fresh wound. CHARCOAL modern trench over dark WINE high-neck shirt, black trousers and shoes. Pistol pointed down at side, source crooked forefinger subtle natural grip, no special hand diagram or study. Suspicious unsmiling expression. Isolated personal object a plain closed pistol holster. One named person only, before the confrontation turns violent: clean intact clothing, no injuries or blood. Modern crime-story practical clothes. Dark room night lighting on the subjects: dominant deep cool slate-blue shadows and restrained warm ochre worklight from above, fully readable face and complete silhouette; background uniformly light ivory. No other people or weapons pointed at viewer; a pistol can be lowered in a relaxed complete-body pose. Only external ordinary props, no explosive construction, internal diagram or mechanisms.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c2d437b6-19a4-49e9-8b10-f9598ad6d79a.png",
+            "outputSha256": "0dd30dabad0a0a565fd262a65e29d94793626d4f99252b9486f9d7a05fa6862f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.962193+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Mature wary woman with low dark bun and gray streak, healed pink line near ear/jaw, practical trench and lowered pistol; art-only name tracked.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c2d437b6-19a4-49e9-8b10-f9598ad6d79a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "0dd30dabad0a0a565fd262a65e29d94793626d4f99252b9486f9d7a05fa6862f",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "evidence": [
+          "Mature wary woman with low dark bun and gray streak, healed pink line near ear/jaw, practical trench and lowered pistol; art-only name tracked.",
+          "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+        ],
+        "specificationSha256": "f3b9eee64da3ce57625cab3d0c17b7da0713508a9731e9d065781f103b6fcc2b"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "0dd30dabad0a0a565fd262a65e29d94793626d4f99252b9486f9d7a05fa6862f"
+    },
+    {
+      "id": "alvera",
+      "name": "Alvera",
+      "role": "Osselin's daughter, remembered at twenty-six",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "He had last seen her at twenty-six, putting a pink paper umbrella into Osselin's drink",
+          "explanation": "Central murdered daughter shown in the specified affectionate living memory, no captive state."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Woman26 in remembered scene, dead at27 eight years earlier. Pink paper cocktail umbrella placed in mother's drink; appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only woman26 with soft oval pale face, small gray eyes, shoulder-length ash-blond hair, straight nose and faint mischievous smile. Muted bottle-green everyday dress, modest sleeves and brown flats."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Living memory at26, one year before her death. Fully clothed warm domestic humor; no captivity or injury."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "twelve-in-the-room:alvera",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/twelve-in-the-room/art/characters/alvera.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Alvera\"; exact story title \"Twelve in the Room\"; subtitle \"Osselin's daughter, remembered at twenty-six\". Adult WOMAN exactly26, slim ordinary build, PALE complexion, soft oval face with long straight nose and small matte gray eyes, shoulder-length ASH BLOND hair loosely tied half-back, subtle mischievous closed-mouth smile. Modest everyday muted BOTTLE GREEN midi dress with elbow sleeves, brown flat shoes. Holds an ordinary clear tumbler with a tiny PINK PAPER UMBRELLA as a playful gesture; isolated object repeats glass and pink umbrella. Living memory at26, not the murdered27yearold captive. Warm quiet kitchen-window light on her only, subdued cool shadows, NO night crime-room lighting for this memory. No kitchen, no second person, no gun, no blood.",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:15:32.658561+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Vary broad and thin stroke lengths; use LARGE connected planes on faces, not an even mosaic of little raised chips. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Alvera\"; exact story title \"Twelve in the Room\"; subtitle \"Osselin's daughter, remembered at twenty-six\". Adult WOMAN exactly26, slim ordinary build, PALE complexion, soft oval face with long straight nose and small matte gray eyes, shoulder-length ASH BLOND hair loosely tied half-back, subtle mischievous closed-mouth smile. Modest everyday muted BOTTLE GREEN midi dress with elbow sleeves, brown flat shoes. Holds an ordinary clear tumbler with a tiny PINK PAPER UMBRELLA as a playful gesture; isolated object repeats glass and pink umbrella. Living memory at26, not the murdered27yearold captive. Warm quiet kitchen-window light on her only, subdued cool shadows, NO night crime-room lighting for this memory. No kitchen, no second person, no gun, no blood.",
+            "references": [
+              {
+                "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+                "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+                "inspected": true,
+                "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+              },
+              {
+                "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+                "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+                "inspected": true,
+                "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-beee5afb-4deb-4931-9275-76ca99b27768.png",
+            "outputSha256": "87063c08dcb546b5e43f23f12d176426105e49e44371a7656f9641d66be0d77a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:24:04.975842+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Adult26 living memory in green dress, gentle mischievous face, pink paper umbrella in ordinary glass; separate from later captive death state.",
+              "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-beee5afb-4deb-4931-9275-76ca99b27768.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291",
+        "outputSha256": "87063c08dcb546b5e43f23f12d176426105e49e44371a7656f9641d66be0d77a",
+        "references": [
+          {
+            "path": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+            "role": "Actual inspected opaque aged-face oil construction and ivory folio only; never copy this male identity, clothes or equipment.",
+            "inspected": true,
+            "sha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+          },
+          {
+            "path": "stories/twelve-in-the-room/art/interiors/01-the-abandoned-ballroom.png",
+            "role": "Actual inspected source night interior, cool blue-gray shadow and restrained local warm worklight; no scenery.",
+            "inspected": true,
+            "sha256": "3ed8b2eb9c519b3eec0b1db5653f1203ff0cabb2cae3feed6e8b4e388a371723"
+          }
+        ],
+        "evidence": [
+          "Adult26 living memory in green dress, gentle mischievous face, pink paper umbrella in ordinary glass; separate from later captive death state.",
+          "Actual1536x1024 complete sheet inspected: consistent front/rear/portrait identity, readable exact heading, opaque facial oil; light ivory without scenery, floor, swatches or hand study."
+        ],
+        "specificationSha256": "35a66c884f266402837e7b9c5b68e8d59eac115b601fd1e5c9350ffa37810af1"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "87063c08dcb546b5e43f23f12d176426105e49e44371a7656f9641d66be0d77a"
+    }
+  ],
+  "sourceSha256": "1d04c76d187066d54d6df7b854ffde8eff4714bc161175972eeac3b4efa6d291"
+}
