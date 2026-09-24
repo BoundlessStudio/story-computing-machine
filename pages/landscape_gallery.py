@@ -512,7 +512,7 @@ def render_gallery(landscapes: dict, interiors: dict | None = None, media=None,
         "index.html", "styles.css", "theme.js", current="landscapes",
         script_href="landscape-gallery.js", extra_stylesheet_hrefs=("landscape-gallery.css",),
         main_class="landscape-gallery", page_path="gallery.html",
-        description=f"Explore {count:,} works of art from {len(groups):,} stories, together in one gallery.",
+        description="Explore landscapes, interiors, and character art from our shared-universe stories, together in one gallery.",
         media=media,
     )
 
