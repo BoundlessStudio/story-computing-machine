@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-other-twin",
+  "title": "The Other Twin",
+  "source": "stories/the-other-twin/story.md",
+  "sourceSha256": "d4d0d3b0e41192c14aa8f467c6dae88d94629654c452467956dda155a6730cf3",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete prose read: two distinct twin identities, mother and clinician sustain central relationship/medical decisions. Two identity-focused sheets will each faithfully depict the necessarily shared anatomy, with visible sibling named; never separate their bodies.",
+  "excludedMinorCharacters": [
+    "Reflective-vest gate man, bus driver, receptionist and students are brief incidental participants."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md personhood protection and minor depiction boundaries",
+    "No named shared canon counterpart found; finished non-canon story controls local identity/anatomy.",
+    "Root approved two primary identity-focused sheets with inseparable two-head body; no new user checkpoint."
+  ],
+  "characters": [
+    {
+      "id": "iverin",
+      "name": "Iverin",
+      "role": "First-person boy narrator",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "First-person boy narrator",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no collision; no source/canon name assertion."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "We had one face each but apparently communal tweezers.",
+          "explanation": "Narrator is central viewpoint with independently stated wants and consent."
+        }
+      ],
+      "form": "Distinct teenage identity in one inseparable two-headed shared human body",
+      "storyAppearance": {
+        "anatomy": "Fourteen-year-old twin narrator and sister have one shared body, two distinct heads/necks/faces, two total arms and two total legs, shared trunk/ribcage/pelvis and coordinated movement. Sister uses two yellow hairclips; narrator has short unruly hair and slight shaving shadow. Both identities are distinct people; cannot divide their anatomy into separate bodies.",
+        "lifeStage": "Fourteen-year-old adolescent",
+        "proportions": "Art-only names Iverin for boy narrator and Celska for sister. Both youthful olive-tan skin, dark wavy hair and brown eyes, soft age14 faces. Iverin short tousled hair/faint jaw shadow; Celska ear-to-nape wavy bob held by two yellow clips. Same one-body fully covered school outfit: loose green high crew-neck shirt adapted to two necks, plain charcoal open jacket, blue jeans and gray trainers. No emphasis on body development.",
+        "equipment": "Primary Iverin sheet: TWO shared-body full views, FRONT and BACK. In each view exactly ONE trunk/pelvis/twolegs and two arms total supporting TWO necks/heads side by side, not separate adjacent people. Front Iverin is at canvasLEFT and Celska at canvasRIGHT; rear shows their actual unchanged anatomy from behind. Label both heads on FRONT with small names Iverin and Celska. Three portrait studies of IVERIN ONLY, youthful Listening / Considering / Relief, drawn as normal portrait crops. Yellowclips on sister remain consistent. No stand-alone full body for either person. Do not repeat or invent a second body within a view. No diagrams/medical cutaways/undergarments/mirror/glowing seam.",
+        "scale": "Ordinary youthful/adult proportions; exact height unprovided",
+        "movement": "Coordinated shared-body movement for twins; ordinary adult movement for others"
+      },
+      "explicitCanon": [
+        "Fourteen-year-old twin narrator and sister have one shared body, two distinct heads/necks/faces, two total arms and two total legs, shared trunk/ribcage/pelvis and coordinated movement. Sister uses two yellow hairclips; narrator has short unruly hair and slight shaving shadow. Both identities are distinct people; cannot divide their anatomy into separate bodies."
+      ],
+      "visualInterpretation": [
+        "Art-only names Iverin for boy narrator and Celska for sister. Both youthful olive-tan skin, dark wavy hair and brown eyes, soft age14 faces. Iverin short tousled hair/faint jaw shadow; Celska ear-to-nape wavy bob held by two yellow clips. Same one-body fully covered school outfit: loose green high crew-neck shirt adapted to two necks, plain charcoal open jacket, blue jeans and gray trainers. No emphasis on body development."
+      ],
+      "states": [
+        {
+          "name": "Source everyday presentation",
+          "description": "Primary Iverin sheet: TWO shared-body full views, FRONT and BACK. In each view exactly ONE trunk/pelvis/twolegs and two arms total supporting TWO necks/heads side by side, not separate adjacent people. Front Iverin is at canvasLEFT and Celska at canvasRIGHT; rear shows their actual unchanged anatomy from behind. Label both heads on FRONT with small names Iverin and Celska. Three portrait studies of IVERIN ONLY, youthful Listening / Considering / Relief, drawn as normal portrait crops. Yellowclips on sister remain consistent. No stand-alone full body for either person. Do not repeat or invent a second body within a view. No diagrams/medical cutaways/undergarments/mirror/glowing seam."
+        }
+      ],
+      "lighting": {
+        "moment": "Inspected source morning light/impasto",
+        "motivation": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+      },
+      "recurrence": {
+        "identityKey": "the-other-twin:iverin",
+        "links": [
+          "the-other-twin:celska"
+        ],
+        "evidence": "Twins explicitly different people sharing anatomy, no separate-body interpretation."
+      },
+      "references": [
+        {
+          "path": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+          "role": "Inspected source morning light/impasto",
+          "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+          "inspected": true,
+          "notes": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+          "role": "Inspected source consultation lighting/impasto",
+          "sha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+          "inspected": true,
+          "notes": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+          "role": "Inspected source winter evening light/impasto",
+          "sha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "inspected": true,
+          "notes": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+        },
+        {
+          "path": "stories/the-other-twin/title-image.jpg",
+          "role": "Inspected subordinate cover hair/face palette; prose anatomy and age control",
+          "sha256": "1ed09e0207571763982f9fb065b035291869b11fa73fec5a89ae6846372f5aac",
+          "inspected": true,
+          "notes": "Two dark-haired faces; cover adult-looking faces, open necklines, luminous seam and single-head rear rendering conflict with fourteen-year-old/two-head source presentation. Do not inherit adultization, neckline, mirror scene or luminous effects."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        }
+      ],
+      "output": "stories/the-other-twin/art/characters/iverin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case precise-object-edit. Correct the supplied Iverin / The Other Twin character sheet. Preserve youthful14-year-old twin faces, primary Iverin portraits, title, fully covered green-shirt/charcoal-jacket/jeans/trainers, ONE shared trunk/two arms/twolegs/twoheads in each overall view. The FRONT anatomy is correct: Iverin short tousled boy canvasLEFT; Celska clipped-haired sister canvasRIGHT. In the BACK view SWAP HEAD POSITIONS so Celska with yellow clips is canvasLEFT and Iverin tousled short-haired head is canvasRIGHT, both visibly rear views. This is turning the SAME inseparable body around, no morphing. Do not change front. Remove entire handwritten slogan at lower right. Remove the invented bottle/bookstack/folded clothes; retain small isolated backpack and two yellow clips as source personal objects. Make all background an even clean light warm ivory, preserve light subtle paper texture but DELETE all colored floor strokes/contact-shadow patches beneath feet and objects. Do not change subject lighting, oil rendering or any other facts. Portrait faces remain visibly thick opaque bristle/knife masses, no glossy smoothing. No isolated hands or new studies.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-7811298a-55c6-42f3-8485-cd35567a2cc4.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "197fc686fbce0cb67d5dd84b5ecada561e2d20f40997dfbca902789c27e35035",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:41:32.608253+00:00",
+            "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on clean warm IVORY. Heavy Group of Seven Sculpted Impasto OIL: broad interlocking opaque masses, raised knife paint and decisive bristle strokes shape face/body/materials, matte eyes, no smooth digital/anime/CGI face. Exact readable serif primary NAME plus story subtitle 'The Other Twin'. Useful fully visible overall views and expressive portraits, ordinary personal objects only. NO isolated hands, anatomy close-ups, side-label exercises, room/scene/floor/groundpatch, swatches, palette or extra unrelated person. First painting is story lighting/paint only; approved style sheet, if supplied, is paint only, no borrowed identity/clothes. Source controls appearance conflicts. \nHeading 'Iverin'.\nSOURCE: Fourteen-year-old twin narrator and sister have one shared body, two distinct heads/necks/faces, two total arms and two total legs, shared trunk/ribcage/pelvis and coordinated movement. Sister uses two yellow hairclips; narrator has short unruly hair and slight shaving shadow. Both identities are distinct people; cannot divide their anatomy into separate bodies.\nAPPEARANCE: Art-only names Iverin for boy narrator and Celska for sister. Both youthful olive-tan skin, dark wavy hair and brown eyes, soft age14 faces. Iverin short tousled hair/faint jaw shadow; Celska ear-to-nape wavy bob held by two yellow clips. Same one-body fully covered school outfit: loose green high crew-neck shirt adapted to two necks, plain charcoal open jacket, blue jeans and gray trainers. No emphasis on body development.\nLAYOUT: Primary Iverin sheet: TWO shared-body full views, FRONT and BACK. In each view exactly ONE trunk/pelvis/twolegs and two arms total supporting TWO necks/heads side by side, not separate adjacent people. Front Iverin is at canvasLEFT and Celska at canvasRIGHT; rear shows their actual unchanged anatomy from behind. Label both heads on FRONT with small names Iverin and Celska. Three portrait studies of IVERIN ONLY, youthful Listening / Considering / Relief, drawn as normal portrait crops. Yellowclips on sister remain consistent. No stand-alone full body for either person. Do not repeat or invent a second body within a view. No diagrams/medical cutaways/undergarments/mirror/glowing seam.\nLighting: Cool winter daylight and selective amber domestic lamp planes; omit room. Clean ivory stays light; people carry the scene-specific light. Exact age fourteen for twins; no adultization.",
+            "references": [
+              {
+                "path": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+                "role": "Inspected source morning light/impasto",
+                "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+                "inspected": true,
+                "notes": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+              },
+              {
+                "path": "stories/the-other-twin/title-image.jpg",
+                "role": "Inspected subordinate cover hair/face palette; prose anatomy and age control",
+                "sha256": "1ed09e0207571763982f9fb065b035291869b11fa73fec5a89ae6846372f5aac",
+                "inspected": true,
+                "notes": "Two dark-haired faces; cover adult-looking faces, open necklines, luminous seam and single-head rear rendering conflict with fourteen-year-old/two-head source presentation. Do not inherit adultization, neckline, mirror scene or luminous effects."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-7811298a-55c6-42f3-8485-cd35567a2cc4.png",
+            "review": "A1 rear view swaps twin identities relative to front; also adds unsolicited slogan, extra objects and floor paint patches."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:48:01.986049+00:00",
+            "prompt": "Use case precise-object-edit. Correct the supplied Iverin / The Other Twin character sheet. Preserve youthful14-year-old twin faces, primary Iverin portraits, title, fully covered green-shirt/charcoal-jacket/jeans/trainers, ONE shared trunk/two arms/twolegs/twoheads in each overall view. The FRONT anatomy is correct: Iverin short tousled boy canvasLEFT; Celska clipped-haired sister canvasRIGHT. In the BACK view SWAP HEAD POSITIONS so Celska with yellow clips is canvasLEFT and Iverin tousled short-haired head is canvasRIGHT, both visibly rear views. This is turning the SAME inseparable body around, no morphing. Do not change front. Remove entire handwritten slogan at lower right. Remove the invented bottle/bookstack/folded clothes; retain small isolated backpack and two yellow clips as source personal objects. Make all background an even clean light warm ivory, preserve light subtle paper texture but DELETE all colored floor strokes/contact-shadow patches beneath feet and objects. Do not change subject lighting, oil rendering or any other facts. Portrait faces remain visibly thick opaque bristle/knife masses, no glossy smoothing. No isolated hands or new studies.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-7811298a-55c6-42f3-8485-cd35567a2cc4.png",
+                "role": "Inspected immutable A1 target",
+                "sha256": "197fc686fbce0cb67d5dd84b5ecada561e2d20f40997dfbca902789c27e35035",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-eba4c15d-5a0a-4eff-b84a-f4271263bbba.png",
+            "savedPath": "stories/the-other-twin/art/characters/iverin.png",
+            "outputSha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:56:05.982811+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:56:05.982811+00:00",
+        "sourceSha256": "d4d0d3b0e41192c14aa8f467c6dae88d94629654c452467956dda155a6730cf3",
+        "outputSha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-7811298a-55c6-42f3-8485-cd35567a2cc4.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "197fc686fbce0cb67d5dd84b5ecada561e2d20f40997dfbca902789c27e35035",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 youthful narrator identity, both twins named, inseparable single shared torso/twoheads/twoarms/twolegs per overall view; rear correctly turns same pair without exchanging positions. Fully covered source school clothes, primary narrator expressions, no adultized cover neckline or magic.",
+          "Cool daylight/warm domestic planes in visibly painted skin/clothes, clean ivory no floor/setting, exact title and primary name; unsolicited slogan removed."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "bc5dfffc50841046afb6a6bdab0ab23b96889ea58295b1b689c1a3c4e83c63c3"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, marker inspected, cover and source paintings/approved style actual pixels inspected. Covered age14 source anatomy prioritized over adultized cover; no isolated hands or medical anatomy close-ups. Names art-only, one primary identity focus while shared body remains inseparable."
+      },
+      "outputSha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f"
+    },
+    {
+      "id": "celska",
+      "name": "Celska",
+      "role": "Narrator’s twin sister",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Narrator’s twin sister",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no collision; no source/canon name assertion."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "People look at him and decide I’m not here.",
+          "explanation": "Co-protagonist with independent gender identity, pace concerns, choices and consent."
+        }
+      ],
+      "form": "Distinct teenage identity in one inseparable two-headed shared human body",
+      "storyAppearance": {
+        "anatomy": "Fourteen-year-old twin narrator and sister have one shared body, two distinct heads/necks/faces, two total arms and two total legs, shared trunk/ribcage/pelvis and coordinated movement. Sister uses two yellow hairclips; narrator has short unruly hair and slight shaving shadow. Both identities are distinct people; cannot divide their anatomy into separate bodies.",
+        "lifeStage": "Fourteen-year-old adolescent",
+        "proportions": "Art-only names Iverin for boy narrator and Celska for sister. Both youthful olive-tan skin, dark wavy hair and brown eyes, soft age14 faces. Iverin short tousled hair/faint jaw shadow; Celska ear-to-nape wavy bob held by two yellow clips. Same one-body fully covered school outfit: loose green high crew-neck shirt adapted to two necks, plain charcoal open jacket, blue jeans and gray trainers. No emphasis on body development.",
+        "equipment": "Primary Celska sheet will use accepted Iverin sheet as identity/anatomy reference: same single sharedbody/twoheads, same clothes, TWO overall FRONT and BACK views; small front labels Iverin and Celska. Primary expression portraits show CELSKA ONLY, her yellow clips visible, Alert / Frustration / Relief. No separate invented body, no extra torso/arms/legs, no medical or intimate imagery.",
+        "scale": "Ordinary youthful/adult proportions; exact height unprovided",
+        "movement": "Coordinated shared-body movement for twins; ordinary adult movement for others"
+      },
+      "explicitCanon": [
+        "Fourteen-year-old twin narrator and sister have one shared body, two distinct heads/necks/faces, two total arms and two total legs, shared trunk/ribcage/pelvis and coordinated movement. Sister uses two yellow hairclips; narrator has short unruly hair and slight shaving shadow. Both identities are distinct people; cannot divide their anatomy into separate bodies."
+      ],
+      "visualInterpretation": [
+        "Art-only names Iverin for boy narrator and Celska for sister. Both youthful olive-tan skin, dark wavy hair and brown eyes, soft age14 faces. Iverin short tousled hair/faint jaw shadow; Celska ear-to-nape wavy bob held by two yellow clips. Same one-body fully covered school outfit: loose green high crew-neck shirt adapted to two necks, plain charcoal open jacket, blue jeans and gray trainers. No emphasis on body development."
+      ],
+      "states": [
+        {
+          "name": "Source everyday presentation",
+          "description": "Primary Celska sheet will use accepted Iverin sheet as identity/anatomy reference: same single sharedbody/twoheads, same clothes, TWO overall FRONT and BACK views; small front labels Iverin and Celska. Primary expression portraits show CELSKA ONLY, her yellow clips visible, Alert / Frustration / Relief. No separate invented body, no extra torso/arms/legs, no medical or intimate imagery."
+        }
+      ],
+      "lighting": {
+        "moment": "Inspected source morning light/impasto",
+        "motivation": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+      },
+      "recurrence": {
+        "identityKey": "the-other-twin:celska",
+        "links": [
+          "the-other-twin:iverin"
+        ],
+        "evidence": "Twins explicitly different people sharing anatomy, no separate-body interpretation."
+      },
+      "references": [
+        {
+          "path": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+          "role": "Inspected source morning light/impasto",
+          "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+          "inspected": true,
+          "notes": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+          "role": "Inspected source consultation lighting/impasto",
+          "sha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+          "inspected": true,
+          "notes": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+          "role": "Inspected source winter evening light/impasto",
+          "sha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "inspected": true,
+          "notes": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+        },
+        {
+          "path": "stories/the-other-twin/title-image.jpg",
+          "role": "Inspected subordinate cover hair/face palette; prose anatomy and age control",
+          "sha256": "1ed09e0207571763982f9fb065b035291869b11fa73fec5a89ae6846372f5aac",
+          "inspected": true,
+          "notes": "Two dark-haired faces; cover adult-looking faces, open necklines, luminous seam and single-head rear rendering conflict with fourteen-year-old/two-head source presentation. Do not inherit adultization, neckline, mirror scene or luminous effects."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        }
+      ],
+      "output": "stories/the-other-twin/art/characters/celska.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case identity-preserve. Create the CELSKA companion primary character folio by adapting the FIRST accepted twin sheet. Main exact heading 'Celska' and subtitle 'The Other Twin'. Keep the same two14-year-old identities/likenesses, one inseparable shared trunk/pelvis, twoheads/twonecks, twoarms total and twolegs total per overall view; same fully covered green crewneck, charcoal jacket, blue jeans, gray trainers, warm olive youthful faces/darkhair. Keep FRONT and BACK full views exactly anatomically consistent as first image: front Iverin short tousled hair canvasLEFT, Celska yellow-clipped bob canvasRIGHT; back Celska clips canvasLEFT, Iverin canvasRIGHT. Small front names label both. Main change besides heading: replace the three large narrator portraits with THREE CELSKA portraits matching her face from the front view, same two yellowclips, girl age14, soft youthful face; labels 'Alert', 'Frustration', 'Relief'. Crop as ordinary head/shoulder portraits, no invented separate full body. Primary identity is Celska; Iverin remains necessarily visible only in shared-body overall views. Keep small backpack and two yellow clips as isolated personal items. No slogan, bookpile, bottle or extra props. Heavy Group of Seven opaque bristle/knife oil masses on faces too, warm domestic planes/cool daylight shadows as secondimage; no glossy anime faces. Clean light IVORY no floor/contact patches, swatches, scene or hand studies.1536x1024 landscape, no adultization/medical cutaways/intimate details.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-eba4c15d-5a0a-4eff-b84a-f4271263bbba.png",
+            "role": "Inspected accepted shared-body identity/art anchor",
+            "sha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+            "role": "Inspected source morning paint and light",
+            "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:56:06.990537+00:00",
+            "prompt": "Use case identity-preserve. Create the CELSKA companion primary character folio by adapting the FIRST accepted twin sheet. Main exact heading 'Celska' and subtitle 'The Other Twin'. Keep the same two14-year-old identities/likenesses, one inseparable shared trunk/pelvis, twoheads/twonecks, twoarms total and twolegs total per overall view; same fully covered green crewneck, charcoal jacket, blue jeans, gray trainers, warm olive youthful faces/darkhair. Keep FRONT and BACK full views exactly anatomically consistent as first image: front Iverin short tousled hair canvasLEFT, Celska yellow-clipped bob canvasRIGHT; back Celska clips canvasLEFT, Iverin canvasRIGHT. Small front names label both. Main change besides heading: replace the three large narrator portraits with THREE CELSKA portraits matching her face from the front view, same two yellowclips, girl age14, soft youthful face; labels 'Alert', 'Frustration', 'Relief'. Crop as ordinary head/shoulder portraits, no invented separate full body. Primary identity is Celska; Iverin remains necessarily visible only in shared-body overall views. Keep small backpack and two yellow clips as isolated personal items. No slogan, bookpile, bottle or extra props. Heavy Group of Seven opaque bristle/knife oil masses on faces too, warm domestic planes/cool daylight shadows as secondimage; no glossy anime faces. Clean light IVORY no floor/contact patches, swatches, scene or hand studies.1536x1024 landscape, no adultization/medical cutaways/intimate details.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-eba4c15d-5a0a-4eff-b84a-f4271263bbba.png",
+                "role": "Inspected accepted shared-body identity/art anchor",
+                "sha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+                "role": "Inspected source morning paint and light",
+                "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-9f5db8a9-abd8-4e0c-b6ca-e7a3951f83a6.png",
+            "savedPath": "stories/the-other-twin/art/characters/celska.png",
+            "outputSha256": "9f105afc1bb6ac96b1ce0ccdc841504a25534cbc249e125fe86a7ab0d911e5e4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:01:15.837392+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:01:15.837392+00:00",
+        "sourceSha256": "d4d0d3b0e41192c14aa8f467c6dae88d94629654c452467956dda155a6730cf3",
+        "outputSha256": "9f105afc1bb6ac96b1ce0ccdc841504a25534cbc249e125fe86a7ab0d911e5e4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-eba4c15d-5a0a-4eff-b84a-f4271263bbba.png",
+            "role": "Inspected accepted shared-body identity/art anchor",
+            "sha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+            "role": "Inspected source morning paint and light",
+            "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 preserves accepted shared-body anatomy and both named identities, correct front/rear position, source two yellow clips and covered school clothes. Main three expressions now consistently Celska, no separate invented full body.",
+          "Sister distinct/personhood clear, warm/cool morning light, painted planes on face/hair/clothes, exact title/name/labels, clean ivory no floor or isolated hands."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "3bcc5a05320633c0fe74fac6b78fc510a1270ff4e8727688095f330d5c48b833"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, marker inspected, cover and source paintings/approved style actual pixels inspected. Covered age14 source anatomy prioritized over adultized cover; no isolated hands or medical anatomy close-ups. Names art-only, one primary identity focus while shared body remains inseparable."
+      },
+      "outputSha256": "9f105afc1bb6ac96b1ce0ccdc841504a25534cbc249e125fe86a7ab0d911e5e4"
+    },
+    {
+      "id": "tamsara",
+      "name": "Tamsara",
+      "role": "Twins’ mother",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Twins’ mother",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no collision; no source/canon name assertion."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "“Two patients,” she said.",
+          "explanation": "Recurring advocate/support through daily events, consultation and worst conflict."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult mother, owns glasses and soft black cardigan; practical support for both twins and independent consent; physically helps with clothing only after permission. Face/age/other clothing unprovided.",
+        "lifeStage": "Adult; exact age art interpretation",
+        "proportions": "Art-only adult early40s appearance, medium olive-brown skin, warm round face, dark wavy hair in simple loose ponytail, rectangular brown glasses, soft black cardigan over muted rose crewneck, straight dark jeans and plain gray slip-on shoes.",
+        "equipment": "Three full front/side/back views, warm attentive and tired-practical expression portraits, own glasses and folded soft black cardigan details only. Hands naturally at sides/pockets. Ordinary mother not clinician. No twins or children in this individual sheet.",
+        "scale": "Ordinary youthful/adult proportions; exact height unprovided",
+        "movement": "Coordinated shared-body movement for twins; ordinary adult movement for others"
+      },
+      "explicitCanon": [
+        "Adult mother, owns glasses and soft black cardigan; practical support for both twins and independent consent; physically helps with clothing only after permission. Face/age/other clothing unprovided."
+      ],
+      "visualInterpretation": [
+        "Art-only adult early40s appearance, medium olive-brown skin, warm round face, dark wavy hair in simple loose ponytail, rectangular brown glasses, soft black cardigan over muted rose crewneck, straight dark jeans and plain gray slip-on shoes."
+      ],
+      "states": [
+        {
+          "name": "Source everyday presentation",
+          "description": "Three full front/side/back views, warm attentive and tired-practical expression portraits, own glasses and folded soft black cardigan details only. Hands naturally at sides/pockets. Ordinary mother not clinician. No twins or children in this individual sheet."
+        }
+      ],
+      "lighting": {
+        "moment": "Inspected source winter evening light/impasto",
+        "motivation": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+      },
+      "recurrence": {
+        "identityKey": "the-other-twin:tamsara",
+        "links": [],
+        "evidence": "Twins explicitly different people sharing anatomy, no separate-body interpretation."
+      },
+      "references": [
+        {
+          "path": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+          "role": "Inspected source morning light/impasto",
+          "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+          "inspected": true,
+          "notes": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+          "role": "Inspected source consultation lighting/impasto",
+          "sha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+          "inspected": true,
+          "notes": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+          "role": "Inspected source winter evening light/impasto",
+          "sha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "inspected": true,
+          "notes": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+        },
+        {
+          "path": "stories/the-other-twin/title-image.jpg",
+          "role": "Inspected subordinate cover hair/face palette; prose anatomy and age control",
+          "sha256": "1ed09e0207571763982f9fb065b035291869b11fa73fec5a89ae6846372f5aac",
+          "inspected": true,
+          "notes": "Two dark-haired faces; cover adult-looking faces, open necklines, luminous seam and single-head rear rendering conflict with fourteen-year-old/two-head source presentation. Do not inherit adultization, neckline, mirror scene or luminous effects."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        }
+      ],
+      "output": "stories/the-other-twin/art/characters/tamsara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case background-extraction edit. Keep the supplied Tamsara / The Other Twin folio subjects, typography, poses, face and hair likeness, glasses, black cardigan, rose shirt, jeans and shoes EXACTLY. Change only the ground: make it uniform warm IVORY paper with subtle plain grain; erase ALL blue/tan/gray floor strokes or contact-shadow patches beneath feet and glasses/cardigan. All figures and objects are cleanly isolated against ivory; no surface or setting. No cropping, no smoothing the sculpted oil subjects, no new objects or hand studies. Preserve1536x1024.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-e70c9b41-dcd3-4f9d-b34b-ff3fa3c68cab.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "1a01d40c8c526d20b5a15463f1309f1f66a5ef7bfe082c263ddda94e6f50acf7",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:41:32.608327+00:00",
+            "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on clean warm IVORY. Heavy Group of Seven Sculpted Impasto OIL: broad interlocking opaque masses, raised knife paint and decisive bristle strokes shape face/body/materials, matte eyes, no smooth digital/anime/CGI face. Exact readable serif primary NAME plus story subtitle 'The Other Twin'. Useful fully visible overall views and expressive portraits, ordinary personal objects only. NO isolated hands, anatomy close-ups, side-label exercises, room/scene/floor/groundpatch, swatches, palette or extra unrelated person. First painting is story lighting/paint only; approved style sheet, if supplied, is paint only, no borrowed identity/clothes. Source controls appearance conflicts. \nHeading 'Tamsara'.\nSOURCE: Adult mother, owns glasses and soft black cardigan; practical support for both twins and independent consent; physically helps with clothing only after permission. Face/age/other clothing unprovided.\nAPPEARANCE: Art-only adult early40s appearance, medium olive-brown skin, warm round face, dark wavy hair in simple loose ponytail, rectangular brown glasses, soft black cardigan over muted rose crewneck, straight dark jeans and plain gray slip-on shoes.\nLAYOUT: Three full front/side/back views, warm attentive and tired-practical expression portraits, own glasses and folded soft black cardigan details only. Hands naturally at sides/pockets. Ordinary mother not clinician. No twins or children in this individual sheet.\nLighting: Warm lamp and substantial cool evening shadow; no bedroom or furniture. Clean ivory stays light; people carry the scene-specific light. Exact age fourteen for twins; no adultization.",
+            "references": [
+              {
+                "path": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+                "role": "Inspected source winter evening light/impasto",
+                "sha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+                "inspected": true,
+                "notes": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-e70c9b41-dcd3-4f9d-b34b-ff3fa3c68cab.png",
+            "review": "A1 identity/clothing/rendering pass; colored ground/contact patches violate current character-only ivory layout."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:48:02.922266+00:00",
+            "prompt": "Use case background-extraction edit. Keep the supplied Tamsara / The Other Twin folio subjects, typography, poses, face and hair likeness, glasses, black cardigan, rose shirt, jeans and shoes EXACTLY. Change only the ground: make it uniform warm IVORY paper with subtle plain grain; erase ALL blue/tan/gray floor strokes or contact-shadow patches beneath feet and glasses/cardigan. All figures and objects are cleanly isolated against ivory; no surface or setting. No cropping, no smoothing the sculpted oil subjects, no new objects or hand studies. Preserve1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-e70c9b41-dcd3-4f9d-b34b-ff3fa3c68cab.png",
+                "role": "Inspected immutable A1 target",
+                "sha256": "1a01d40c8c526d20b5a15463f1309f1f66a5ef7bfe082c263ddda94e6f50acf7",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-bc9352dc-9004-4963-9cb8-f9478ef50714.png",
+            "savedPath": "stories/the-other-twin/art/characters/tamsara.png",
+            "outputSha256": "490ffca7277b79f5c28a650a6956746f7816d51fca3dedbccb0a0a8e296fc1f6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:56:05.994408+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:56:05.994408+00:00",
+        "sourceSha256": "d4d0d3b0e41192c14aa8f467c6dae88d94629654c452467956dda155a6730cf3",
+        "outputSha256": "490ffca7277b79f5c28a650a6956746f7816d51fca3dedbccb0a0a8e296fc1f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-e70c9b41-dcd3-4f9d-b34b-ff3fa3c68cab.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "1a01d40c8c526d20b5a15463f1309f1f66a5ef7bfe082c263ddda94e6f50acf7",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 consistent adult mother with glasses, dark ponytail, rose shirt/black cardigan and practical jeans/shoes, warm/fatigued expressions and source glasses/cardigan objects.",
+          "Broad heavy paint on face/fabric, warm evening planes/cool shadows, clean ivory isolation and legible names; no hand study or setting."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "01478ba0e4ddd74ac8d78cec7d0ef0bc262041a79e7a1cb8811662867651d2fe"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, marker inspected, cover and source paintings/approved style actual pixels inspected. Covered age14 source anatomy prioritized over adultized cover; no isolated hands or medical anatomy close-ups. Names art-only, one primary identity focus while shared body remains inseparable."
+      },
+      "outputSha256": "490ffca7277b79f5c28a650a6956746f7816d51fca3dedbccb0a0a8e296fc1f6"
+    },
+    {
+      "id": "vezna-kest",
+      "name": "Vezna Kest",
+      "role": "Specialist clinician",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Specialist clinician",
+        "provenance": "Distinct art-only name assigned under explicit user authorization; exact-word search found no collision; no source/canon name assertion."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "“I’ll ask some questions twice,” she said.",
+          "explanation": "Two consultation scenes separate each identity’s choice and explain uncertainty without erasing personhood."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult woman clinician uses two questionnaires and scan diagram, listens to two recordings, asks two independent sets of questions and monitors shared-body treatment. Physical design/clothes unprovided.",
+        "lifeStage": "Adult; exact age art interpretation",
+        "proportions": "Art-only adult50 appearance, deep brown skin, broad long face with high forehead, short straight salt-and-pepper bob, brown eyes. Muted teal cardigan over palegray collared blouse, charcoal straight trousers and black flat shoes.",
+        "equipment": "Three front/side/back full views, attentive and deliberate portrait expressions. Isolated two blank paper questionnaires and pen, no text claims, no scan/medical anatomy drawing, no stethoscope or invented medical equipment, no detached hands. No patient bodies or clinic setting.",
+        "scale": "Ordinary youthful/adult proportions; exact height unprovided",
+        "movement": "Coordinated shared-body movement for twins; ordinary adult movement for others"
+      },
+      "explicitCanon": [
+        "Adult woman clinician uses two questionnaires and scan diagram, listens to two recordings, asks two independent sets of questions and monitors shared-body treatment. Physical design/clothes unprovided."
+      ],
+      "visualInterpretation": [
+        "Art-only adult50 appearance, deep brown skin, broad long face with high forehead, short straight salt-and-pepper bob, brown eyes. Muted teal cardigan over palegray collared blouse, charcoal straight trousers and black flat shoes."
+      ],
+      "states": [
+        {
+          "name": "Source everyday presentation",
+          "description": "Three front/side/back full views, attentive and deliberate portrait expressions. Isolated two blank paper questionnaires and pen, no text claims, no scan/medical anatomy drawing, no stethoscope or invented medical equipment, no detached hands. No patient bodies or clinic setting."
+        }
+      ],
+      "lighting": {
+        "moment": "Inspected source consultation lighting/impasto",
+        "motivation": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+      },
+      "recurrence": {
+        "identityKey": "the-other-twin:vezna-kest",
+        "links": [],
+        "evidence": "Twins explicitly different people sharing anatomy, no separate-body interpretation."
+      },
+      "references": [
+        {
+          "path": "stories/the-other-twin/art/interiors/01-shared-bathroom.png",
+          "role": "Inspected source morning light/impasto",
+          "sha256": "eb34594d9feed91336a33b97a93a96d14b3e6474b9ddd43a9ea7db4a4bfe6ccd",
+          "inspected": true,
+          "notes": "Cool winter daylight and selective amber domestic lamp planes; omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+          "role": "Inspected source consultation lighting/impasto",
+          "sha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+          "inspected": true,
+          "notes": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+        },
+        {
+          "path": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
+          "role": "Inspected source winter evening light/impasto",
+          "sha256": "c5c47ef8d28f1e9c2745bf3acddad3180bc8360f229a9476562cc304fb57ef8f",
+          "inspected": true,
+          "notes": "Warm lamp and substantial cool evening shadow; no bedroom or furniture."
+        },
+        {
+          "path": "stories/the-other-twin/title-image.jpg",
+          "role": "Inspected subordinate cover hair/face palette; prose anatomy and age control",
+          "sha256": "1ed09e0207571763982f9fb065b035291869b11fa73fec5a89ae6846372f5aac",
+          "inspected": true,
+          "notes": "Two dark-haired faces; cover adult-looking faces, open necklines, luminous seam and single-head rear rendering conflict with fourteen-year-old/two-head source presentation. Do not inherit adultization, neckline, mirror scene or luminous effects."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        }
+      ],
+      "output": "stories/the-other-twin/art/characters/vezna-kest.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case background-extraction edit. Keep the supplied Vezna Kest / The Other Twin folio subjects, all exact typography, adult clinician face/hair likeness, teal cardigan, gray blouse, charcoal trousers, black flats and four portrait expressions EXACTLY. Change only the ground: make it uniform warm IVORY paper with subtle plain grain; erase ALL blue/gray/tan floor strokes/contact-shadow patches beneath feet and questionnaire papers/pen. Keep isolated personal papers and pen, no table or surface. No cropping, no smoothing the heavy oil subjects, no new objects or hand studies. Preserve1536x1024.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-75ad4f7a-c187-45b4-8bb0-9de0dd6d861e.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "4a21c5c25bb4b9328e37313c9eb3b6f3323ded175969b25966fc1b2cfb300e43",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:41:32.608345+00:00",
+            "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on clean warm IVORY. Heavy Group of Seven Sculpted Impasto OIL: broad interlocking opaque masses, raised knife paint and decisive bristle strokes shape face/body/materials, matte eyes, no smooth digital/anime/CGI face. Exact readable serif primary NAME plus story subtitle 'The Other Twin'. Useful fully visible overall views and expressive portraits, ordinary personal objects only. NO isolated hands, anatomy close-ups, side-label exercises, room/scene/floor/groundpatch, swatches, palette or extra unrelated person. First painting is story lighting/paint only; approved style sheet, if supplied, is paint only, no borrowed identity/clothes. Source controls appearance conflicts. \nHeading 'Vezna Kest'.\nSOURCE: Adult woman clinician uses two questionnaires and scan diagram, listens to two recordings, asks two independent sets of questions and monitors shared-body treatment. Physical design/clothes unprovided.\nAPPEARANCE: Art-only adult50 appearance, deep brown skin, broad long face with high forehead, short straight salt-and-pepper bob, brown eyes. Muted teal cardigan over palegray collared blouse, charcoal straight trousers and black flat shoes.\nLAYOUT: Three front/side/back full views, attentive and deliberate portrait expressions. Isolated two blank paper questionnaires and pen, no text claims, no scan/medical anatomy drawing, no stethoscope or invented medical equipment, no detached hands. No patient bodies or clinic setting.\nLighting: Rainy cool teal-gray window light plus modest warm desk lamp. Omit room. Clean ivory stays light; people carry the scene-specific light. Exact age fourteen for twins; no adultization.",
+            "references": [
+              {
+                "path": "stories/the-other-twin/art/interiors/02-clinic-consultation-room.png",
+                "role": "Inspected source consultation lighting/impasto",
+                "sha256": "172c1cc35cf6e579b0e6ffb742c12ba83c64d9c080add052cf04ce045b78c968",
+                "inspected": true,
+                "notes": "Rainy cool teal-gray window light plus modest warm desk lamp. Omit room."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-75ad4f7a-c187-45b4-8bb0-9de0dd6d861e.png",
+            "review": "A1 identity/clothing/rendering pass; floor/contact paint patches violate current character-only ivory layout."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:48:03.874132+00:00",
+            "prompt": "Use case background-extraction edit. Keep the supplied Vezna Kest / The Other Twin folio subjects, all exact typography, adult clinician face/hair likeness, teal cardigan, gray blouse, charcoal trousers, black flats and four portrait expressions EXACTLY. Change only the ground: make it uniform warm IVORY paper with subtle plain grain; erase ALL blue/gray/tan floor strokes/contact-shadow patches beneath feet and questionnaire papers/pen. Keep isolated personal papers and pen, no table or surface. No cropping, no smoothing the heavy oil subjects, no new objects or hand studies. Preserve1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-75ad4f7a-c187-45b4-8bb0-9de0dd6d861e.png",
+                "role": "Inspected immutable A1 target",
+                "sha256": "4a21c5c25bb4b9328e37313c9eb3b6f3323ded175969b25966fc1b2cfb300e43",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+            "savedPath": "stories/the-other-twin/art/characters/vezna-kest.png",
+            "outputSha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:56:06.006606+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:56:06.006606+00:00",
+        "sourceSha256": "d4d0d3b0e41192c14aa8f467c6dae88d94629654c452467956dda155a6730cf3",
+        "outputSha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-75ad4f7a-c187-45b4-8bb0-9de0dd6d861e.png",
+            "role": "Inspected immutable A1 target",
+            "sha256": "4a21c5c25bb4b9328e37313c9eb3b6f3323ded175969b25966fc1b2cfb300e43",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 consistent mature clinician with brown skin/gray bob, teal cardigan, gray blouse and charcoal trousers; two questionnaires/pen and attentive individual expressions, no invented medical machinery.",
+          "Opaque sculpted facial/clothing paint and restrained consultation light, clean ivory without floor/scene, exact named heading/title and fully framed views."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a3c6ce0cfe9da6d4e915380da8d9bfb309077e551ab7f0d5dd9ace081137d37f"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, marker inspected, cover and source paintings/approved style actual pixels inspected. Covered age14 source anatomy prioritized over adultized cover; no isolated hands or medical anatomy close-ups. Names art-only, one primary identity focus while shared body remains inseparable."
+      },
+      "outputSha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+    }
+  ]
+}
