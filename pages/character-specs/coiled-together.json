@@ -1,0 +1,1019 @@
+{
+  "slug": "coiled-together",
+  "title": "Coiled Together",
+  "source": "stories/coiled-together/story.md",
+  "canon": false,
+  "mainCastEvidence": "Five active roles sustain the rescue and trust conflict: the human outrider narrator, serpentfolk queen, serpentfolk attendant, narrator's cousin and rope carrier. Each contributes consequential actions and repeated dialogue throughout.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Caravan guards and travelers in rumors",
+      "reason": "Reported cultural background only; no active individual cast roles."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/characters.md (no serpentfolk or same-story identity entry)",
+    "universe/rules.md (no serpentfolk rule entry)",
+    "universe/locations.md (no same-story location entry)"
+  ],
+  "referenceReconciliation": "Finished non-canon prose takes priority over older-looking cover. Do not reproduce cover's romantic behavior, excessive gold ornament, or implied bronze coloration as facts. Attendant is explicitly given feet, knees and heel in prose, unlike the queen's tailed body; do not silently standardize their anatomy.",
+  "characters": [
+    {
+      "id": "fendrel-vos",
+      "name": "Fendrel Vos",
+      "role": "Unnamed first-person protagonist; skeptical rescued traveler",
+      "selectionEvidence": [
+        {
+          "quote": "And I’m still the outrider.",
+          "line": 247,
+          "explanation": "Claims the navigation expertise used to choose the escape."
+        },
+        {
+          "quote": "Coil me,",
+          "line": 291,
+          "explanation": "Negotiates the pivotal consensual rescue."
+        }
+      ],
+      "form": "human adult; gender not specified in prose",
+      "storyAppearance": {
+        "anatomy": "Human body with two arms and two legs",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Natural adult proportions; precise height unspecified",
+        "markings": "Cut left hand with dried blood; bruised ribs; rope-burned palm later bound",
+        "materials": "Human skin/hair, worn cloth and leather",
+        "clothing": "Coat, trousers, boots, belt; wet travel clothes",
+        "equipment": "Knife, belt with ring and snapped whistle loop, brass storm whistle, wet pack, bedroll, saddle blanket",
+        "scale": "Ordinary adult human scale",
+        "movement": "Initially pinned and dizzy; unsteady standing, crawling and climbing; later carried in two measured coils",
+        "distinctiveFeatures": "Human-sized in relation to queen's approximately seven-meter body"
+      },
+      "explicitCanon": [
+        "Story-supported: human outrider; left hand cut; coat, trousers and boots; knife and brass storm whistle; later bandaged palm and bruised ribs."
+      ],
+      "visualInterpretation": [
+        "Cover offers dark tied-back hair, short beard/stubble, warm skin and adult masculine appearance; preserve as established art interpretation without declaring prose gender.",
+        "Use weathered gray/brown coat and practical travel layers; avoid cover's romantic pose or bare undershirt as default."
+      ],
+      "states": [
+        {
+          "name": "After rescue",
+          "description": "Two isolated standing views and face, bandaged left palm and guarded ribs; source-supported rain-grey cave-mouth light. No second-character carry vignette."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "coiled-together:outrider",
+        "links": [],
+        "evidence": "Unnamed role specific to this story; no demonstrated recurring identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Heavy raised oil, interlocking palette-knife masses, ivory landscape sheet. Subject anatomy and equipment do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/coiled-together/title-image.jpg",
+          "role": "limited identity reference; prose overrides incompatible staging",
+          "inspected": true,
+          "notes": "Dark-haired queen and dark-haired stubbled human traveler, bronze light and dark scales. Romantic embrace, gold ornaments, bronze scale color and decorative clothing are not supported by finished rescue story; use story's black-green scales, storm-gray wrap, copper bands and wounded right flank.",
+          "sha256": "8d60569c0e684b3dcbbaaad33aa5a571cb751a881f04bbd96d0628524f434946"
+        },
+        {
+          "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "role": "environment, palette and impasto handling",
+          "inspected": true,
+          "notes": "Amber clay lamp against charcoal and blue-gray cavern, black water below crown ledge, pack/knife/medicine case; angular paint masses.",
+          "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+        }
+      ],
+      "output": "stories/coiled-together/art/characters/fendrel-vos.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit this exact 1536x1024 Fendrel Vos sheet. Make ONLY TWO small local corrections:\n1. In the MIDDLE full-body BACK three-quarter view, REMOVE the white cloth wrapping from the hand/wrist visible on the RIGHT SIDE OF THAT FIGURE (the figure's anatomical RIGHT hand). Restore ordinary uninjured bare warm-tan skin there and continue the existing dark coat cuff naturally. His injured LEFT hand is on the far hidden side of this rear view and may remain hidden. Do not add or reposition any hand. IMPORTANT: KEEP the correct bandaged left hand in the large FRONT figure and KEEP the separate detail labelled \"Left palm\" unchanged.\n2. In the detail labelled \"Storm whistle\", make the short leather whistle suspension loop visibly snapped/frayed at one side while retaining the whistle and belt ring in their existing positions. A small torn leather end is enough; don't redesign hardware.\n\nAll other content remains exactly as selected: Fendrel Vos heading, Coiled Together title, face, both complete bodies, coat/trousers/boots, pack and blanket, knife, all other text, quiet ivory, same restrained grey light and matte oil brushwork. No new figure, scenery, floor, palette or swatches. Do not otherwise repaint, recrop, sharpen or change the composition. Return the complete corrected same 1536x1024 sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T21:24:48.800430+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. Paint ONE character-reference folio 1536x1024 landscape3:2, uninterrupted quiet warm ivory. Large exact upper-left heading \"Fendrel Vos\", smaller story title \"Coiled Together\". Only this named character, no generic role-only heading.\n\nImage1 is the accepted Veyratha sheet: match its broad tangible opaque oil shapes, matte faces, connected colour/value masses, varied bristle strokes, selective substantial impasto and folio typography/layout. Do not copy its female or serpent identity. Image2 supplies ONLY the HUMAN MAN's dark tied-back hair, short beard/stubble, warm medium skin and adult facial proportions. Ignore woman, romance, ornament, exposed undershirt and lighting. Image3 supplies restrained diffuse RAIN-GREY cave-mouth illumination and earthy/slate colour relationships for the AFTER-RESCUE moment. No rock or landscape content.\n\nFendrel is the adult human outrider, ordinary strong practical build, tied-back dark hair and short stubble. Weathered gray-brown travel coat over plain shirt, dark trousers, worn mud-stained boots and a leather belt with metal ring. Left palm wrapped with a modest clean cloth dressing after a cut and rope burn; fingers usable. Posture slightly guards bruised ribs through the coat. No visible chest wound, armour, huge muscles, magic or ornamental costume.\nArrange two FULL unclipped isolated figure views, front three-quarter and rear three-quarter, plus one alert wary face study. Give all heads, hands and shoes comfortable margins. Same identity and clothing across views. To the right/below add three economical personal detail studies: bandaged LEFT palm; ordinary brass storm whistle on a snapped leather belt loop beside the simple belt ring; small wet travel pack and folded saddle blanket. Knife may remain safely sheathed on belt. Labels only \"Left palm\", \"Storm whistle\", \"Travel kit\". No second person or serpent, no carry demonstration, no oversized weapons or engineering diagram.\nThe lamp-lit rescue has ended; this is outside-air gray light at the sheltered cave mouth, with soft low contrast overcast modelling, slate-violet shadow masses and muted warm skin, no golden spotlight, rim lighting or glossy wet highlights. Do NOT paint a cave or sky.\nAll face planes, hands, coat, leather and metal visibly built from broad matte connected oil shapes as confidently simplified as a Canadian Group of Seven study. Vary stroke size and leave quieter joining passages; heavy paint only where form calls for it. No photorealistic face, glossy eyes, anime contours, CGI, plastic, evenly bevel-lit chips or gold edge glitter.\nNO location, scenery, vignette, ground/floor patch, plants, rocks, horizon, cast ground shadows, palette strip or paint swatches. Isolated character and personal gear directly on ivory. Exact name/title and short labels readable; no decorative prose.",
+            "references": [
+              {
+                "path": "stories/coiled-together/art/characters/veyratha.png",
+                "role": "Accepted story-series folio format and matte, broadly formed oil painting only; no serpent anatomy, woman, scales or accessories transferred.",
+                "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+                "inspected": true
+              },
+              {
+                "path": "stories/coiled-together/title-image.jpg",
+                "role": "Only the human man's tied-back dark hair, short beard/stubble, adult face and warm skin as subordinate visual identity. No embrace, queen, jewelry, gold lighting or bare undershirt.",
+                "sha256": "8d60569c0e684b3dcbbaaad33aa5a571cb751a881f04bbd96d0628524f434946",
+                "inspected": true
+              },
+              {
+                "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+                "role": "After-rescue diffuse rain-gray cave-mouth light and quiet slate/earth palette only; no landscape, rock or scenery.",
+                "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished prose read. Outrider's human body, coat/trousers/boots, left-hand injury, belt ring/snapped whistle loop and later palm dressing supported. Dark tied hair/stubble are inspected cover interpretation only.",
+              "Source's after-rescue cave mouth has rain-grey light; selected terrain painting contributes illumination and palette only. All figures and gear isolated on ivory.",
+              "No queen, carry scene, landscape or swatches; one named identity and mechanically plausible simple kit."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c2689e60-91bb-4976-a8e6-79ff7a077df1.png",
+            "outputSha256": "2a4a6cac55f4c239a03c13031856e837dfdd73cd4fb93492ffffa1ee50a9847f",
+            "finishedAt": "2026-09-23T21:28:21.241885+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Full output inspected: identity, source kit, no scenery and matte paint pass. Rear three-quarter view places dressing on the exposed anatomical right hand, contradicting left-hand injury. Remove that dressing; hidden left hand may remain hidden. Whistle detail should clearly retain a broken leather loop."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:28:22.287299+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: precise-object-edit. Edit this exact 1536x1024 Fendrel Vos sheet. Make ONLY TWO small local corrections:\n1. In the MIDDLE full-body BACK three-quarter view, REMOVE the white cloth wrapping from the hand/wrist visible on the RIGHT SIDE OF THAT FIGURE (the figure's anatomical RIGHT hand). Restore ordinary uninjured bare warm-tan skin there and continue the existing dark coat cuff naturally. His injured LEFT hand is on the far hidden side of this rear view and may remain hidden. Do not add or reposition any hand. IMPORTANT: KEEP the correct bandaged left hand in the large FRONT figure and KEEP the separate detail labelled \"Left palm\" unchanged.\n2. In the detail labelled \"Storm whistle\", make the short leather whistle suspension loop visibly snapped/frayed at one side while retaining the whistle and belt ring in their existing positions. A small torn leather end is enough; don't redesign hardware.\n\nAll other content remains exactly as selected: Fendrel Vos heading, Coiled Together title, face, both complete bodies, coat/trousers/boots, pack and blanket, knife, all other text, quiet ivory, same restrained grey light and matte oil brushwork. No new figure, scenery, floor, palette or swatches. Do not otherwise repaint, recrop, sharpen or change the composition. Return the complete corrected same 1536x1024 sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c2689e60-91bb-4976-a8e6-79ff7a077df1.png",
+                "role": "Exact candidate to edit. Preserve all successful figures, identity, kit, text, paint, layout and light; correct rear-view wrong-side bandage and clarify torn whistle loop only.",
+                "sha256": "2a4a6cac55f4c239a03c13031856e837dfdd73cd4fb93492ffffa1ee50a9847f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Inspected complete candidate; rear three-quarter visible anatomical right hand wrongly bandaged. Source left-hand injury must remain consistent. Front and left-palm detail correct.",
+              "Only two small local corrections; all framing, body geometry and paint stay fixed."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-812b5ce5-3e4a-45fa-a68e-d4202deb005f.png",
+            "outputSha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+            "finishedAt": "2026-09-23T21:31:34.921195+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Complete actual corrected output inspected: Fendrel Vos and Coiled Together readable, cover-compatible tied dark hair/stubble, two unclipped clothed human views, face, source kit and guarded posture.",
+              "Corrected rear-view exposed anatomical right hand is bare; bandage retained only on correct left hand in front view and hand detail. Whistle belt detail now has a visibly torn leather end. Other identity/clothing/kit unchanged.",
+              "Muted gray travel layers in restrained rain-gray source-moment light; matte connected oil forms across face, cloth and kit. No source-unsupported power, romantic carry, second character, scenery, floor patch, palette or swatches.",
+              "Source, selected immutable reference, output and current specification hash pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c2689e60-91bb-4976-a8e6-79ff7a077df1.png",
+            "role": "Exact candidate to edit. Preserve all successful figures, identity, kit, text, paint, layout and light; correct rear-view wrong-side bandage and clarify torn whistle loop only.",
+            "sha256": "2a4a6cac55f4c239a03c13031856e837dfdd73cd4fb93492ffffa1ee50a9847f",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-812b5ce5-3e4a-45fa-a68e-d4202deb005f.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+        "outputSha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c2689e60-91bb-4976-a8e6-79ff7a077df1.png",
+            "role": "Exact candidate to edit. Preserve all successful figures, identity, kit, text, paint, layout and light; correct rear-view wrong-side bandage and clarify torn whistle loop only.",
+            "sha256": "2a4a6cac55f4c239a03c13031856e837dfdd73cd4fb93492ffffa1ee50a9847f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Complete actual corrected output inspected: Fendrel Vos and Coiled Together readable, cover-compatible tied dark hair/stubble, two unclipped clothed human views, face, source kit and guarded posture.",
+          "Corrected rear-view exposed anatomical right hand is bare; bandage retained only on correct left hand in front view and hand detail. Whistle belt detail now has a visibly torn leather end. Other identity/clothing/kit unchanged.",
+          "Muted gray travel layers in restrained rain-gray source-moment light; matte connected oil forms across face, cloth and kit. No source-unsupported power, romantic carry, second character, scenery, floor patch, palette or swatches.",
+          "Source, selected immutable reference, output and current specification hash pins verified."
+        ],
+        "specificationSha256": "f70a50a85783e3dedaeede19bda130cf200cd94aabafd678397a0be49d2aefd1"
+      },
+      "sourceIdentityId": "outrider",
+      "nameAssignment": {
+        "name": "Fendrel Vos",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "The outrider",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Fendrel Vos",
+        "sourceIdentity": "outrider",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4"
+    },
+    {
+      "id": "veyratha",
+      "name": "Veyratha",
+      "role": "Co-lead and rescuer initially mistaken for captor",
+      "selectionEvidence": [
+        {
+          "quote": "Seven metres, perhaps",
+          "line": 39,
+          "explanation": "Establishes central nonhuman scale and form."
+        },
+        {
+          "quote": "I can brace the break or carry you. Not both.",
+          "line": 275,
+          "explanation": "Her physical limits structure the rescue."
+        }
+      ],
+      "form": "Serpentine woman: human-shaped upper rib rise, exactly two arms, long scaled trunk and blunt tail; no human legs",
+      "storyAppearance": {
+        "anatomy": "Exactly two arms; human-shaped rise of ribs into scaled trunk and approximately seven meters of long muscular serpent body ending bluntly. No human legs or added wings.",
+        "lifeStage": "Adult queen; exact age unknown",
+        "proportions": "Long powerful coiling body, larger upper body than human-width fissure; length estimate is from ribs to tail",
+        "markings": "Overlapping black-green scales each as broad as two human fingers; wound on right flank with blood-soaked bandage",
+        "materials": "Black-green scales, skin on hand/face per limited cover identity, copper armbands, cloth wrap/bandages",
+        "clothing": "Storm-gray wrap crossing one shoulder and covering join of arms to scaled trunk",
+        "equipment": "Notched copper bands on both forearms; narrow flank bandage",
+        "scale": "Approximately seven meters from human-shaped rib rise to blunt tail; use adult-human silhouette cue",
+        "movement": "Coils, muscular corrections, tail braces around stone, two arms grip climbing seams; uses body pressure against opposite walls",
+        "distinctiveFeatures": "Right-flank injury, black-green overlapping scales, bilateral notched copper forearm bands"
+      },
+      "explicitCanon": [
+        "Story-supported: woman; two arms; black-green scales two fingers broad; approximately seven-meter long serpent body with blunt tail; no described legs; storm-gray single-shoulder wrap; notched copper bands both forearms; wounded right flank.",
+        "Source clearly separates rescue holds from intimacy; facial expression should be strained, controlled, attentive."
+      ],
+      "visualInterpretation": [
+        "Retain cover's long dark hair and warm face as subordinate identity choices; skin and eye colors are not textual facts.",
+        "Wide lateral curve and compressed three-quarter coil views make anatomy legible; scale detail, copper notch and right-flank bandage study; no human front/back turnaround.",
+        "Preview fixes wrap to left shoulder for consistency; right-flank bandage remains anatomically right. Character-only folio; no scene vignette, no stones or second figure; plain measurement annotation supplies scale."
+      ],
+      "states": [
+        {
+          "name": "extended",
+          "description": "Isolated extended S-curve, complete uninterrupted trunk and blunt tail; no scenery."
+        },
+        {
+          "name": "coiled",
+          "description": "Isolated loose coil; same anatomy, length and thickness, both arms, no legs; no scenery."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "coiled-together:serpentfolk-queen",
+        "links": [],
+        "evidence": "Unnamed role specific to this story; no demonstrated recurring identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Heavy raised oil, interlocking palette-knife masses, ivory landscape sheet. Subject anatomy and equipment do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/coiled-together/title-image.jpg",
+          "role": "limited identity reference; prose overrides incompatible staging",
+          "inspected": true,
+          "notes": "Dark-haired queen and dark-haired stubbled human traveler, bronze light and dark scales. Romantic embrace, gold ornaments, bronze scale color and decorative clothing are not supported by finished rescue story; use story's black-green scales, storm-gray wrap, copper bands and wounded right flank.",
+          "sha256": "8d60569c0e684b3dcbbaaad33aa5a571cb751a881f04bbd96d0628524f434946"
+        },
+        {
+          "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "role": "environment, palette and impasto handling",
+          "inspected": true,
+          "notes": "Amber clay lamp against charcoal and blue-gray cavern, black water below crown ledge, pack/knife/medicine case; angular paint masses.",
+          "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+        }
+      ],
+      "output": "stories/coiled-together/art/characters/veyratha.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: text-localization. Edit this exact 1536x1024 character folio with ONE precise change only: replace the upper-left main heading \"The serpentfolk queen\" with the exact proper name \"Veyratha\". Spell V-e-y-r-a-t-h-a. Use the same elegant dark serif lettering, matching original heading height and upper-left placement. Restore quiet ivory in any area formerly occupied by longer old heading. Keep the separate story title \"Coiled Together\" unchanged beneath. Preserve ALL other image content and pixels as closely as possible: both full serpent views, exactly two arms and no legs, black-green scales, rounded blunt tails, gray left-shoulder wrap, right-flank bandage, copper cuffs, both faces, all feature studies, measurement line and every other label. Preserve the identical oil painting, colours, lighting, layout, composition, ivory texture and canvas edges. Do not move, crop, recolour or redesign any figure. No scenery, swatches, new marks or added objects. Return the complete same-sized folio; only the main heading changes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "superseded-user-preference-no-swatches",
+            "requestedAt": "2026-09-23T19:43:21.890848+00:00",
+            "prompt": "Create ONE finished character reference folio, exactly 1536x1024 pixels, landscape 3:2. Quiet warm ivory ground, exclusively isolated character views and relevant character details. NO location, NO vignette, NO landscape, cavern, rocks, terrain, floor, water, plants, buildings, furniture, scenery or scene backdrop. No second character. No decorative prose or quotation.\nUpper left readable dark serif identifying heading EXACTLY \"The serpentfolk queen\"; beneath it story title EXACTLY \"Coiled Together\". Arrange two equally useful COMPLETE unobstructed whole-body views in the left three-quarters, with right-column face and feature studies, ample ivory negative space, generous border. All silhouettes and especially both tail ends uncropped.\nCHARACTER: same adult serpentfolk woman in every view, commanding but controlled and visibly tired. Human-shaped rise of ribs and a woman-like face, long black-brown hair, warm muted skin. EXACTLY TWO ordinary arms with hands. Her entire lower body is ONE uninterrupted powerful long black-green scaled serpent trunk, approximately SEVEN METRES from rib rise to BLUNT ROUNDED TAIL END. Absolutely NO human legs, feet, hips-with-thighs, extra limbs, wings, horns, tail split, forked tail, pointed fin or spider appendages. Lower-body support comes only from the strong coil. A storm-gray cloth wrap crosses her LEFT shoulder, modestly covers chest and the arm-to-scaled-trunk junction, then wraps the rib rise; SAME orientation, seam placement and diagonal cloth fold structure across all views. Plain notched COPPER bands on BOTH FOREARMS, no upper-arm jewelry, no gold filigree, crown or tiara. A narrow cloth bandage encircles the trunk just below the wrap with a small muted dark red stain on HER ANATOMICAL RIGHT flank. No open wound or gore. Black-green overlapping scales each approximately two adult finger-widths broad; build them as rhythms of thick paint within continuous muscular masses, not innumerable tiny glossy metallic tiles.\nVIEW DESIGN: top-left full long-body three-quarter view, low upright human-shaped rib rise with exactly two clearly separate arms, relaxed hands, broad stretched S-curve explaining full serpent length. Bottom-left second full-body right-side three-quarter view, same queen loosely coiled in a clear continuous loop with tail end fully visible, both arms anatomically accounted for; body length/thickness/face/garment must agree with first view. Do not tangle coils or merge adjacent body surfaces. Two views occupy enough room to read black-green anatomy. Labels \"Extended\" and \"Coiled\". A discreet plain measurement line below extended view may read \"Approx. 7 m\" to explain scale, without a human silhouette or setting. Right column two face/shoulder studies labelled \"Attentive\" and \"Weary\": same face and hair, subtle controlled expression, no sensual pose, no bright or magical eyes. Below them an isolated forearm-band detail labelled \"Notched copper\", an isolated rounded tail-end detail labelled \"Blunt tail\", and a small black-green scale patch labelled \"Scales\". Small optional five-stroke palette strip. No weapons, throne or invented equipment.\nOIL PAINT STYLE: Canadian Group of Seven-inspired heavy oil painting, broad directional bristle strokes and SELECTIVE substantial palette-knife impasto. Large connected dark-green / cool blue-green color masses describe the long muscular body; quieter connecting passages between the bolder strokes. Faces have SAME visibly broad opaque paint treatment as body, not realistic glossy portraits pasted onto textured skin. Thick strokes follow the snake curves and shoulder structure. Different paint rhythms distinguish soft woven wrap, warm matte skin, long dark hair, subdued copper and overlapping scales. Use quiet ivory, black-green, cool slate, a little warm ochre and muted copper. Subdued coherent neutral warm light with rich cool shadows, not dramatic gold rim light, not bright CGI sparkle. Avoid uniform bevel-lit paint chips, all-over mosaic texture, photorealism, smooth airbrush, anime, plastic, 3D rendering and excessive tiny detail.\nREFERENCE ROLES: Image 1 approved Sculpted Impasto sheet establishes oil medium and legible folio approach ONLY. Do not copy its human silhouette, equipment, red cloak OR scenery. Image 2 existing story cover provides ONLY queen's long dark hair, warm facial identity and adult face shape; it is NOT authoritative for costume, bronze body, romantic scene, exposed skin or glossy renderingâ€”those are explicitly replaced by the story-correct description above. Exclude the cover's man completely. Image 3 cave painting guides ONLY cool-charcoal/blue-green palette and broad paint handling; DO NOT COPY THE CAVE OR ANY OBJECTS. Character-only isolated studies on ivory.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/coiled-together/title-image.jpg",
+                "sha256": "8d60569c0e684b3dcbbaaad33aa5a571cb751a881f04bbd96d0628524f434946"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+                "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-bf25718a-f58c-44f4-959b-674de36ac7f6.png",
+            "outputSha256": "f05e505b99e4ef97f5b943aba9fc9e67ff2b7cbf7bac3619079046e49081f8b2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "assistantReview": "Core anatomy, identity, labels and character-only format inspected; superseded solely to remove palette strip."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected-for-example",
+            "requestedAt": "2026-09-23T19:47:00.743073+00:00",
+            "prompt": "Edit this existing 1536x1024 serpentfolk character reference folio with ONLY ONE change: REMOVE the vertical group of FIVE abstract paint color swatches at the far lower-right edge, immediately to the right of the \"Scales\" detail. Restore the same quiet warm ivory background in that small area. No color swatches, palette strip, paint chips or color bars anywhere. DO NOT REMOVE the actual green scale detail labelled \"Scales\", the blunt-tail study, or the copper forearm detail: those are character features and must remain. Preserve absolutely all other intended content, position, typography, proportions, anatomy, wrap folds, face identity, oil brushwork and canvas boundaries. Heading \"The serpentfolk queen\" and \"Coiled Together\" unchanged. Both complete serpent bodies, exactly two arms in each full view, no legs, rounded blunt tail ends, all labels and the scale measure unchanged. No new scenery, no added objects. Same 1536x1024 wide ivory folio.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-bf25718a-f58c-44f4-959b-674de36ac7f6.png",
+                "sha256": "f05e505b99e4ef97f5b943aba9fc9e67ff2b7cbf7bac3619079046e49081f8b2"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1895b2cf-fc40-4997-89ad-75c2a382e01d.png",
+            "savedPath": "stories/coiled-together/art/characters/serpentfolk-queen.png",
+            "outputSha256": "0dadf824cf583dcb6562c17ab6f6e7bb97ffaafee56000e54596e2a5f221ff1c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T19:48:35.271895+00:00"
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:18:51.006047+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: text-localization. Edit this exact 1536x1024 character folio with ONE precise change only: replace the upper-left main heading \"The serpentfolk queen\" with the exact proper name \"Veyratha\". Spell V-e-y-r-a-t-h-a. Use the same elegant dark serif lettering, matching original heading height and upper-left placement. Restore quiet ivory in any area formerly occupied by longer old heading. Keep the separate story title \"Coiled Together\" unchanged beneath. Preserve ALL other image content and pixels as closely as possible: both full serpent views, exactly two arms and no legs, black-green scales, rounded blunt tails, gray left-shoulder wrap, right-flank bandage, copper cuffs, both faces, all feature studies, measurement line and every other label. Preserve the identical oil painting, colours, lighting, layout, composition, ivory texture and canvas edges. Do not move, crop, recolour or redesign any figure. No scenery, swatches, new marks or added objects. Return the complete same-sized folio; only the main heading changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1895b2cf-fc40-4997-89ad-75c2a382e01d.png",
+                "role": "Exact selected folio edit target. Preserve all artwork, anatomy, facial identity, labels, story title, layout and paint. Replace main heading only.",
+                "sha256": "0dadf824cf583dcb6562c17ab6f6e7bb97ffaafee56000e54596e2a5f221ff1c",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full Coiled Together prose read; existing selected pixels inspected. User authorized new missing-name assignment Veyratha. Prior sheet's anatomy and scene-free format remain selected.",
+              "Heading-only correction fits existing upper-left title space and requires no changes to either serpent view, two arms, blunt tails, features or other text. Immutable original output attached so provenance stays valid after canonical copy."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-1a513b78-f1cc-40cb-9ec1-3cc35b0806bb.png",
+            "outputSha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+            "finishedAt": "2026-09-23T21:21:24.251727+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Full generated correction inspected: main heading now reads Veyratha exactly; Coiled Together and all other labels remain readable.",
+              "Both prior extended/coiled serpent views retain the selected facial identity, exactly two arms, no legs, complete black-green body and blunt tail, left-shoulder storm-gray wrap and copper forearm bands. Existing anatomy and composition unchanged by heading edit.",
+              "Same painted ivory character folio, no landscape/location/ground patches or swatches. Existing matte oil treatment retained. Immutable original referenced in attempt provenance; all selected output/reference/source/specification pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "tool": "image_gen",
+        "selectedAttempt": 2,
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1895b2cf-fc40-4997-89ad-75c2a382e01d.png",
+            "role": "Exact selected folio edit target. Preserve all artwork, anatomy, facial identity, labels, story title, layout and paint. Replace main heading only.",
+            "sha256": "0dadf824cf583dcb6562c17ab6f6e7bb97ffaafee56000e54596e2a5f221ff1c",
+            "inspected": true
+          }
+        ],
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-1a513b78-f1cc-40cb-9ec1-3cc35b0806bb.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+        "outputSha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1895b2cf-fc40-4997-89ad-75c2a382e01d.png",
+            "role": "Exact selected folio edit target. Preserve all artwork, anatomy, facial identity, labels, story title, layout and paint. Replace main heading only.",
+            "sha256": "0dadf824cf583dcb6562c17ab6f6e7bb97ffaafee56000e54596e2a5f221ff1c",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full generated correction inspected: main heading now reads Veyratha exactly; Coiled Together and all other labels remain readable.",
+          "Both prior extended/coiled serpent views retain the selected facial identity, exactly two arms, no legs, complete black-green body and blunt tail, left-shoulder storm-gray wrap and copper forearm bands. Existing anatomy and composition unchanged by heading edit.",
+          "Same painted ivory character folio, no landscape/location/ground patches or swatches. Existing matte oil treatment retained. Immutable original referenced in attempt provenance; all selected output/reference/source/specification pins verified."
+        ],
+        "specificationSha256": "f447b73e89237adf9b18ac3866be804eb9fe4157e6c49ead79c320b9e8296120"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "userApproval": "Full collection production authorized; final user review at end.",
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "latestUserPreference": "Remove paint swatches; no palette strips or color bars."
+      },
+      "outputSha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+      "sourceIdentityId": "serpentfolk-queen",
+      "nameAssignment": {
+        "name": "Veyratha",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "The serpentfolk queen",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Veyratha",
+        "sourceIdentity": "serpentfolk-queen",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      }
+    },
+    {
+      "id": "neris",
+      "name": "Neris",
+      "role": "Substantial supporting medic and rescue participant",
+      "selectionEvidence": [
+        {
+          "quote": "a smaller serpentfolk knelt over an open medicine case",
+          "line": 41,
+          "explanation": "Identifies medic present throughout."
+        },
+        {
+          "quote": "one useful arm working, feet testing each hold",
+          "line": 265,
+          "explanation": "Defines injured climbing anatomy and consequential rescue role."
+        }
+      ],
+      "form": "Smaller serpentfolk; source explicitly gives hands/arms, knees, feet and heel; complete lower-body morphology remains unspecified",
+      "storyAppearance": {
+        "anatomy": "Two arms/hands supported; knees, feet and heel explicitly stated. Do not copy queen's legless anatomy or invent a tail. Complete body arrangement is not otherwise described.",
+        "lifeStage": "Working adult attendant inferred; exact age unspecified",
+        "proportions": "Smaller than queen; precise height and length unstated",
+        "markings": "Shoulder injury leaves one arm hanging close and only one arm useful",
+        "materials": "Serpentfolk tissue otherwise unspecified; cloth bandages and wooden medicine case/spoon",
+        "clothing": "No specific garment description",
+        "equipment": "Open medicine case, bandage strips, stoppered medicine jar, wooden-handled spoon for rock-tap signals, water jar",
+        "scale": "Smaller than queen; exact human-relative size not given",
+        "movement": "Kneels, climbs one-handed, tests holds with feet, wedges case behind knees",
+        "distinctiveFeatures": "Practical medic counting supplies and injuries; later one arm protected"
+      },
+      "explicitCanon": [
+        "Story-supported: smaller serpentfolk; two hands; feet, knees and heel; shoulder injured but not broken; spoon used to tap signals; medicine case."
+      ],
+      "visualInterpretation": [
+        "Small adult serpentfolk attendant. Narrow softly angular human-shaped upper face with restrained olive-gray scale suggestion around neck and short dark hair are noncanon artistic choices; gender unspecified.",
+        "Plain muted cave-work tunic. Upper-torso and medic-hand studies only; explicitly omit unresolved lower body rather than supplying tail or invented full anatomy."
+      ],
+      "states": [
+        {
+          "name": "Working",
+          "description": "Waist-up study, both hands managing plain bandage cloth."
+        },
+        {
+          "name": "Shoulder protected",
+          "description": "Waist-up study of same person with one arm held close, after injury; no new sling or wound."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "coiled-together:serpentfolk-attendant",
+        "links": [],
+        "evidence": "Unnamed role specific to this story; no demonstrated recurring identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Heavy raised oil, interlocking palette-knife masses, ivory landscape sheet. Subject anatomy and equipment do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "role": "environment, palette and impasto handling",
+          "inspected": true,
+          "notes": "Amber clay lamp against charcoal and blue-gray cavern, black water below crown ledge, pack/knife/medicine case; angular paint masses.",
+          "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+        }
+      ],
+      "blockers": [],
+      "output": "stories/coiled-together/art/characters/neris.png",
+      "status": "completed",
+      "generation": {
+        "prompt": "Use case: illustration-story. Create a complete 1536x1024 landscape3:2 CHARACTER-ONLY oil folio on quiet warm ivory. Upper-left exact heading \"Neris\", smaller exact title \"Coiled Together\". This one identity is the smaller serpentfolk medic. Because the story leaves full lower-body morphology unresolved, this sheet intentionally uses UPPER-BODY AND HAND STUDIES ONLY, never a complete silhouette, snake tail, coil, invented legs or amputated-looking body.\n\nImage1 supplies the accepted story-series matte oil technique, large joined shapes, broad bristle strokes and ivory folio typography ONLY. Do not copy Veyratha's face, crown-like role, jewelry, gray shoulder wrap, seven-metre body, tail or scales in a queen pattern. Image2 supplies the rescue's low modest amber clay-lamp light and blue-grey/charcoal shadow grouping ONLY. Do not depict a cave, floor, lamp, water, rock or scene.\n\nNeris: a small-built adult attendant, gender unspecified; narrower reserved human-shaped face, short dark hair, muted olive-gray skin with only a subtle small-scale suggestion near cheek/neck. No horns, crest, snake head or extra limbs. Exactly two arms and ordinary deft hands. These restrained upper-face choices are visual interpretation. Plain modest muted slate cave-work tunic with sleeves rolled to hands, no jewelry or uniform insignia. Steady, observant medic rather than glamorous heroine.\nComposition: TWO generous isolated WAIST-UP painted studies in upper left/middle, clearly terminating with a natural painterly study fade at the waist, not a severed edge. First three-quarter view labelled \"Working\": both hands hold a simple strip of bandage cloth. Second profile three-quarter view labelled \"Shoulder protected\": the same person holds one arm close to body after a shoulder injury while the other useful hand steadies a small closed medicine case. Do not invent a sling, cast, bleeding wound or dislocation. A focused face study at upper right.\nAcross lower half arrange isolated detail studies of Neris's hands beside the open modest wooden MEDICINE CASE containing folded cloth and a stoppered jar; the same hands holding the wooden-handled SIGNAL SPOON; a small rolled cloth bandage. Labels only \"Medicine case\", \"Signal spoon\", \"Bandage\". These are personal tools, not a table, floor, decorative props or miniature scene. No labels claiming a resolved species body plan.\n\nPaint with Canadian Group of Seven-inspired connected opaque matte colour/value masses, substantial selective impasto, directional bristle strokes and quieter linking passages. Face as broadly and honestly painted as cloth and wood. Interior rescue light: restrained ochre planes lit from a nearby low lamp, most turning planes remain subdued olive/plum/charcoal; do not brighten everything as daylight or provide flashy orange-blue rim lighting. No glossy eyes, photorealistic portrait insert, CGI, bevel-lit chips, mechanical tiled texture, tiny glints or anime line art.\nAll studies and text comfortably inside margins. Uninterrupted ivory holds isolated character studies/tools only: NO environment vignette, location, ground patch, scenery, plants, scenery silhouettes, paint swatches or palette strip. No second character.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:34:07.316979+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. Create a complete 1536x1024 landscape3:2 CHARACTER-ONLY oil folio on quiet warm ivory. Upper-left exact heading \"Neris\", smaller exact title \"Coiled Together\". This one identity is the smaller serpentfolk medic. Because the story leaves full lower-body morphology unresolved, this sheet intentionally uses UPPER-BODY AND HAND STUDIES ONLY, never a complete silhouette, snake tail, coil, invented legs or amputated-looking body.\n\nImage1 supplies the accepted story-series matte oil technique, large joined shapes, broad bristle strokes and ivory folio typography ONLY. Do not copy Veyratha's face, crown-like role, jewelry, gray shoulder wrap, seven-metre body, tail or scales in a queen pattern. Image2 supplies the rescue's low modest amber clay-lamp light and blue-grey/charcoal shadow grouping ONLY. Do not depict a cave, floor, lamp, water, rock or scene.\n\nNeris: a small-built adult attendant, gender unspecified; narrower reserved human-shaped face, short dark hair, muted olive-gray skin with only a subtle small-scale suggestion near cheek/neck. No horns, crest, snake head or extra limbs. Exactly two arms and ordinary deft hands. These restrained upper-face choices are visual interpretation. Plain modest muted slate cave-work tunic with sleeves rolled to hands, no jewelry or uniform insignia. Steady, observant medic rather than glamorous heroine.\nComposition: TWO generous isolated WAIST-UP painted studies in upper left/middle, clearly terminating with a natural painterly study fade at the waist, not a severed edge. First three-quarter view labelled \"Working\": both hands hold a simple strip of bandage cloth. Second profile three-quarter view labelled \"Shoulder protected\": the same person holds one arm close to body after a shoulder injury while the other useful hand steadies a small closed medicine case. Do not invent a sling, cast, bleeding wound or dislocation. A focused face study at upper right.\nAcross lower half arrange isolated detail studies of Neris's hands beside the open modest wooden MEDICINE CASE containing folded cloth and a stoppered jar; the same hands holding the wooden-handled SIGNAL SPOON; a small rolled cloth bandage. Labels only \"Medicine case\", \"Signal spoon\", \"Bandage\". These are personal tools, not a table, floor, decorative props or miniature scene. No labels claiming a resolved species body plan.\n\nPaint with Canadian Group of Seven-inspired connected opaque matte colour/value masses, substantial selective impasto, directional bristle strokes and quieter linking passages. Face as broadly and honestly painted as cloth and wood. Interior rescue light: restrained ochre planes lit from a nearby low lamp, most turning planes remain subdued olive/plum/charcoal; do not brighten everything as daylight or provide flashy orange-blue rim lighting. No glossy eyes, photorealistic portrait insert, CGI, bevel-lit chips, mechanical tiled texture, tiny glints or anime line art.\nAll studies and text comfortably inside margins. Uninterrupted ivory holds isolated character studies/tools only: NO environment vignette, location, ground patch, scenery, plants, scenery silhouettes, paint swatches or palette strip. No second character.",
+            "references": [
+              {
+                "path": "stories/coiled-together/art/characters/veyratha.png",
+                "role": "Concrete matte oil handling and folio presentation only; no queen identity, regalia, coiled body, tail or lower anatomy.",
+                "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+                "inspected": true
+              },
+              {
+                "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+                "role": "Actual cave rescue's modest amber clay-lamp illumination and connected dark blue-grey/charcoal shadows only; no environment or props not specified.",
+                "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source read: smaller serpentfolk medic with two hands and explicit knees/feet/heel. Queen's legless body does not transfer. Limited upper-body/hand studies resolve sheet safely without full silhouette.",
+              "Source supplies shoulder injury with one arm close, wooden spoon/medicinecase/jar/cloth. No arm sling, amputation or magical healing.",
+              "Selected prior queen gives paint only; cave painting gives motivated lamp/shadow family only. No scene, rock, swatches or extra figure."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-25c6e0aa-85ad-4422-8d60-3275c9253bb3.png",
+            "outputSha256": "93253f8ea1e27a450b9f711ebe761e296b213e14c88f2e74c053668de1ce63ef",
+            "finishedAt": "2026-09-23T21:36:36.286172+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Full native 1536x1024 pixels inspected: Neris and Coiled Together exact. One smaller adult serpentfolk identity remains consistent in working waist-up, shoulder-protected and face studies; subtle scale suggestion and modest clothes are recorded visual interpretations.",
+              "Lower body intentionally unpictured. No legless queen clone, tail, invented full silhouette or misleading species anatomy. Two arms/hands remain coherent. Shoulder-protected pose is close to body, without sling, cast or invented wound.",
+              "Source-supported medicine case, stoppered jar, cloth bandages and wooden signal-spoon details are intelligible and isolated. No healing aura or additional person.",
+              "Quiet ivory folio has no location/scenery/floor or swatches. Broad matte warm/charcoal oil masses across face, hands and tools preserve lamp-lit story treatment and selected collection style. All current source/reference/output/spec pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/veyratha.png",
+            "role": "Concrete matte oil handling and folio presentation only; no queen identity, regalia, coiled body, tail or lower anatomy.",
+            "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+            "role": "Actual cave rescue's modest amber clay-lamp illumination and connected dark blue-grey/charcoal shadows only; no environment or props not specified.",
+            "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-25c6e0aa-85ad-4422-8d60-3275c9253bb3.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+        "outputSha256": "93253f8ea1e27a450b9f711ebe761e296b213e14c88f2e74c053668de1ce63ef",
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/veyratha.png",
+            "role": "Concrete matte oil handling and folio presentation only; no queen identity, regalia, coiled body, tail or lower anatomy.",
+            "sha256": "2e39e1d46fe5ee4c0d2af926a2906c158b256a77cc8da3de22cf0478e8698660",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+            "role": "Actual cave rescue's modest amber clay-lamp illumination and connected dark blue-grey/charcoal shadows only; no environment or props not specified.",
+            "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full native 1536x1024 pixels inspected: Neris and Coiled Together exact. One smaller adult serpentfolk identity remains consistent in working waist-up, shoulder-protected and face studies; subtle scale suggestion and modest clothes are recorded visual interpretations.",
+          "Lower body intentionally unpictured. No legless queen clone, tail, invented full silhouette or misleading species anatomy. Two arms/hands remain coherent. Shoulder-protected pose is close to body, without sling, cast or invented wound.",
+          "Source-supported medicine case, stoppered jar, cloth bandages and wooden signal-spoon details are intelligible and isolated. No healing aura or additional person.",
+          "Quiet ivory folio has no location/scenery/floor or swatches. Broad matte warm/charcoal oil masses across face, hands and tools preserve lamp-lit story treatment and selected collection style. All current source/reference/output/spec pins verified."
+        ],
+        "specificationSha256": "8228eb365035c31dbbff8180962597a0a520bd280bfb7932c5be6de3d7bb8ef9"
+      },
+      "sourceIdentityId": "serpentfolk-attendant",
+      "nameAssignment": {
+        "name": "Neris",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "The serpentfolk attendant",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Neris",
+        "sourceIdentity": "serpentfolk-attendant",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "anatomyResolution": {
+        "status": "resolved-by-limited-studies",
+        "evidence": "Finished prose explicitly gives Neris knees, feet and heel while not defining full species morphology. This sheet deliberately restricts character views to upper torso, arms, hands and personal medic tools; it depicts no lower body or tail, makes no queen-like assumption and establishes no complete silhouette."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "93253f8ea1e27a450b9f711ebe761e296b213e14c88f2e74c053668de1ce63ef"
+    },
+    {
+      "id": "jorren-vos",
+      "name": "Jorren Vos",
+      "role": "Substantial supporting antagonist within rescue; protective kin whose mistrust causes collapse",
+      "selectionEvidence": [
+        {
+          "quote": "I saw that thing take you.",
+          "line": 159,
+          "explanation": "Frames the queen as captor."
+        },
+        {
+          "quote": "Pull,",
+          "line": 181,
+          "explanation": "Unsafe rescue action precipitates collapse."
+        },
+        {
+          "quote": "My cousin took the strain.",
+          "line": 323,
+          "explanation": "Eventually participates in coordinated rescue."
+        }
+      ],
+      "form": "Adult human traveler inferred from kinship and bodily actions; gender unspecified",
+      "storyAppearance": {
+        "anatomy": "Human body with two arms and two legs",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Natural adult proportions; precise height unspecified",
+        "markings": "No permanent markings specified",
+        "materials": "Human skin/hair, worn cloth and leather",
+        "clothing": "Road clothing; one sliding boot explicitly mentioned",
+        "equipment": "Rope, padded stone anchor and body belay",
+        "scale": "Ordinary adult human scale",
+        "movement": "Reaches down, hauls, braces feet against rear wall, hovers protectively near kin",
+        "distinctiveFeatures": "No textual hair, skin, facial or height description"
+      },
+      "explicitCanon": [
+        "Story-supported: narrator's cousin; hands/arms/feet and boot; participates in rope haul and belay; no named identity or gender."
+      ],
+      "visualInterpretation": [
+        "Human adult cousin inferred, not explicit species declaration; modest brown road coat and short brown hair to distinguish from narrator, no invented family insignia.",
+        "Use concerned and insistent expressions; do not portray inherently evil."
+      ],
+      "states": [
+        {
+          "name": "rescue and aftermath",
+          "description": "Same form; distinguish reckless reaching posture, braced hauling and protective stance."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "coiled-together:cousin",
+        "links": [],
+        "evidence": "Unnamed role specific to this story; no demonstrated recurring identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Heavy raised oil, interlocking palette-knife masses, ivory landscape sheet. Subject anatomy and equipment do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "role": "environment, palette and impasto handling",
+          "inspected": true,
+          "notes": "Amber clay lamp against charcoal and blue-gray cavern, black water below crown ledge, pack/knife/medicine case; angular paint masses.",
+          "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+        }
+      ],
+      "output": "stories/coiled-together/art/characters/jorren-vos.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE 1536x1024 landscape3:2 character-only oil-painted folio. Exact upper-left heading \"Jorren Vos\", story title beneath \"Coiled Together\".\n\nImage1 provides the established series folio typography, matte opaque oil brushwork, connected large colour/value shapes and restrained rain-gray light. Image2 provides the same source's cloudy cave-mouth illumination and slate/earth harmony only. DO NOT copy any reference person, injury or scenery.\nJorren is an ordinary adult human traveler, the outrider's concerned, forceful cousin. Gender unspecified: use a restrained androgynous adult appearance, broad-cheeked face, short straight chestnut-brown hair, no beard; a different identity from Fendrel. Plain chestnut-brown road coat over muted light gray tunic, dark trousers and worn brown boots. Ordinary unmarked hands, no bandages or injury. No magic, jewelry or family insignia.\nArrange TWO complete isolated full-body views with all heads/hands/shoes unclipped: front three-quarter with open reaching hand and tense concerned posture; back three-quarter showing practical road clothes and both boots. Top-right paired face studies of the same character, labelled \"Concerned\" and \"Insistent\", not cruel, sinister or villainous. Lower-right simple personal studies: hands gripping a short bent length of hauling rope, labelled \"Hauling grip\"; a worn boot detail labelled \"Boot\". No rock anchor, ledge, ground or second person. Rope stays within hand study, no loop constricting wrist; do not invent harness machinery.\nAll studies share broad soft RAIN-GREY illumination of the rescue aftermath, modest warm skin planes within cooler slate/earth shadows. No golden spotlight or theatrical rim. Build faces as freely painted as cloth: large connected matte masses, directional bristle marks, varied scale and substantial selective impasto with quiet joining passages. Canadian Group of Seven-inspired simplification, not photographic portrait under paint texture. Avoid glossy eyes/skin, CGI, anime, uniformly bevelled chips and tiny gilt highlights.\nWarm ivory background is uninterrupted: no location vignette, environment, rocks, horizon, scenery, ground/floor patches, paint swatches or palette strip. Only named character, personal clothes and useful details. Readable exact name/title and short labels only, no decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:38:41.422250+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape3:2 character-only oil-painted folio. Exact upper-left heading \"Jorren Vos\", story title beneath \"Coiled Together\".\n\nImage1 provides the established series folio typography, matte opaque oil brushwork, connected large colour/value shapes and restrained rain-gray light. Image2 provides the same source's cloudy cave-mouth illumination and slate/earth harmony only. DO NOT copy any reference person, injury or scenery.\nJorren is an ordinary adult human traveler, the outrider's concerned, forceful cousin. Gender unspecified: use a restrained androgynous adult appearance, broad-cheeked face, short straight chestnut-brown hair, no beard; a different identity from Fendrel. Plain chestnut-brown road coat over muted light gray tunic, dark trousers and worn brown boots. Ordinary unmarked hands, no bandages or injury. No magic, jewelry or family insignia.\nArrange TWO complete isolated full-body views with all heads/hands/shoes unclipped: front three-quarter with open reaching hand and tense concerned posture; back three-quarter showing practical road clothes and both boots. Top-right paired face studies of the same character, labelled \"Concerned\" and \"Insistent\", not cruel, sinister or villainous. Lower-right simple personal studies: hands gripping a short bent length of hauling rope, labelled \"Hauling grip\"; a worn boot detail labelled \"Boot\". No rock anchor, ledge, ground or second person. Rope stays within hand study, no loop constricting wrist; do not invent harness machinery.\nAll studies share broad soft RAIN-GREY illumination of the rescue aftermath, modest warm skin planes within cooler slate/earth shadows. No golden spotlight or theatrical rim. Build faces as freely painted as cloth: large connected matte masses, directional bristle marks, varied scale and substantial selective impasto with quiet joining passages. Canadian Group of Seven-inspired simplification, not photographic portrait under paint texture. Avoid glossy eyes/skin, CGI, anime, uniformly bevelled chips and tiny gilt highlights.\nWarm ivory background is uninterrupted: no location vignette, environment, rocks, horizon, scenery, ground/floor patches, paint swatches or palette strip. Only named character, personal clothes and useful details. Readable exact name/title and short labels only, no decorative prose.",
+            "references": [
+              {
+                "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+                "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+                "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+                "inspected": true
+              },
+              {
+                "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+                "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+                "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished prose read; Jorren is the outrider's cousin with concerned, insistent behavior, hands, boots and hauling actions. Source specifies no gender or face; restrained adult interpretation remains noncanon.",
+              "Both inspected references supply paint/light only; do not borrow Fendrel's left-hand injury, hair or specific gear. Source-motivated after-rescue rain-gray illumination.",
+              "Two complete uninjured figure views, face expressions and rope/boot details on ivory; no scenery or swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-001c2371-656d-4644-8bd1-7ecf0d20086e.png",
+            "outputSha256": "30913cb8e5a21b163b602cbecbbcc576afca1d6d0cd103cc59f96e38fcf9bfcb",
+            "finishedAt": "2026-09-23T21:42:30.451319+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected full actual 1536x1024 image: Jorren Vos and Coiled Together exact, consistent short chestnut-haired adult cousin distinct from Fendrel, two complete uninjured human views with restrained concerned/insistent face studies.",
+              "Source-appropriate road clothing, boots and safe rope grip studies; no wrist wrapping, copied left-hand injury, fantastical equipment or villainous caricature. Source gender remains unspecified; appearance is recorded art interpretation.",
+              "Matte broadly painted skin and clothing, restrained rain-gray story-moment light and earth/slate shadows. Ivory holds character-only studies without scene, ground, swatches or palette. Source/reference/output/spec pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+            "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+            "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+            "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+            "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-001c2371-656d-4644-8bd1-7ecf0d20086e.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+        "outputSha256": "30913cb8e5a21b163b602cbecbbcc576afca1d6d0cd103cc59f96e38fcf9bfcb",
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+            "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+            "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+            "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+            "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected full actual 1536x1024 image: Jorren Vos and Coiled Together exact, consistent short chestnut-haired adult cousin distinct from Fendrel, two complete uninjured human views with restrained concerned/insistent face studies.",
+          "Source-appropriate road clothing, boots and safe rope grip studies; no wrist wrapping, copied left-hand injury, fantastical equipment or villainous caricature. Source gender remains unspecified; appearance is recorded art interpretation.",
+          "Matte broadly painted skin and clothing, restrained rain-gray story-moment light and earth/slate shadows. Ivory holds character-only studies without scene, ground, swatches or palette. Source/reference/output/spec pins verified."
+        ],
+        "specificationSha256": "95eaf187ba71e83168799814753a14e07db5f97d5f6d37bd106a828078673401"
+      },
+      "sourceIdentityId": "cousin",
+      "nameAssignment": {
+        "name": "Jorren Vos",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "The outrider’s cousin",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Jorren Vos",
+        "sourceIdentity": "cousin",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "30913cb8e5a21b163b602cbecbbcc576afca1d6d0cd103cc59f96e38fcf9bfcb"
+    },
+    {
+      "id": "mavrik",
+      "name": "Mavrik",
+      "role": "Substantial supporting technical rescuer and independent witness",
+      "selectionEvidence": [
+        {
+          "quote": "Not over that lip. Knees down. No load yet.",
+          "line": 151,
+          "explanation": "Introduces expertise opposing dangerous haul."
+        },
+        {
+          "quote": "The carrier talked them through a body belay",
+          "line": 305,
+          "explanation": "Makes final escape possible."
+        }
+      ],
+      "form": "Adult bipedal traveler; human portrayal is restrained interpretation",
+      "storyAppearance": {
+        "anatomy": "Human body with two arms and two legs",
+        "lifeStage": "Adult; exact age unspecified",
+        "proportions": "Natural adult proportions; precise height unspecified",
+        "markings": "No permanent markings specified",
+        "materials": "Human skin/hair, worn cloth and leather",
+        "clothing": "No specific outfit; practical work layers interpreted",
+        "equipment": "Climbing/hauling rope and padded anchor; inspects abraded strand with thumb",
+        "scale": "Ordinary adult human scale",
+        "movement": "Leans into view, catches and sets line, locks rope and hauls in coordination",
+        "distinctiveFeatures": "Experienced hands and controlled working posture; no specific facial traits"
+      },
+      "explicitCanon": [
+        "Story-supported: experienced with wagon-team rigging; hands and thumb; manages rope; refuses unsafe loads and gives limited honest testimony."
+      ],
+      "visualInterpretation": [
+        "Adult human appearance, close-cropped gray hair, sturdy work build and muted olive work coat are restrained choices, not established facts.",
+        "Show rope exterior and worn fibers; no invented harness technology or engineering diagrams."
+      ],
+      "states": [
+        {
+          "name": "working and inspecting",
+          "description": "Useful full stance with coiled rope; braced hauling view; hands examining frayed rope."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "coiled-together:rope-carrier",
+        "links": [],
+        "evidence": "Unnamed role specific to this story; no demonstrated recurring identity."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "approved rendering only",
+          "inspected": true,
+          "notes": "Heavy raised oil, interlocking palette-knife masses, ivory landscape sheet. Subject anatomy and equipment do not transfer.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+        },
+        {
+          "path": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
+          "role": "environment, palette and impasto handling",
+          "inspected": true,
+          "notes": "Amber clay lamp against charcoal and blue-gray cavern, black water below crown ledge, pack/knife/medicine case; angular paint masses.",
+          "sha256": "008061fac9aefa7fa13bd049e4757592b3205ffbf0fdcac3a423f7b2cf186bf4"
+        }
+      ],
+      "output": "stories/coiled-together/art/characters/mavrik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Paint ONE complete 1536x1024 landscape3:2 character-reference folio, uninterrupted quiet warm ivory. Exact upper-left heading \"Mavrik\", smaller story title \"Coiled Together\".\n\nImage1 supplies accepted collection painting and folio presentation only, with matte connected oil masses and a restrained gray light. Image2 supplies the story's diffuse RAIN-GREY cave-mouth light and muted olive/slate/earth palette only. No pictured person or environment transfers.\nMavrik is the experienced rope carrier: a sturdy middle-aged adult with close-cropped iron-gray hair, broad weathered unglamorous face, calm economical working posture. Gender unspecified; a neutral practical human interpretation with no emphatic gender styling. Olive-gray work coat, coarse charcoal trousers, strong worn dark boots and simple leather belt. Hands uninjured, no bandages, weapons, decorations or climbing gadgets. Their job is rope rigging, not a soldier or mage.\nArrange TWO complete unclipped isolated figure views at left: front three-quarter standing with a modest neatly coiled rope over one forearm, and back three-quarter with same clothing and ordinary complete anatomy. One patient focused face study at upper right. Lower right: large study of both hands gently separating an abraded section of rope, individual frayed fibres economically suggested, labelled \"Abraded line\"; a smaller study of the neatly coiled rope labelled \"Coiled rope\". No duplicated arms, snake-like rope, impossible knot, rope wrapped around wrist, anchored line going offpage or invented harness. The rope is ordinary fibre and never luminous.\nGray diffuse natural light belongs to the after-rescue sheltered mouth under rain clouds; soft gray upper planes and subdued olive/slate shadow masses, modest warm skin, no orange rim or glossy wet sparkle. Apply Canadian Group of Seven-inspired broad simplification to the FACE as strongly as the coat: connected opaque matte masses, varied directional bristle strokes, substantial selective ridges, quieter linking passages. Keep hands legible without photographic skin pores. No CGI, anime outlines, plastic, glossy eye reflections, uniform bevel-lit paint chips, tiny gold dots or generic cinematic contrast.\nStrictly character, clothes and personal rope studies on ivory. No cave, rocks, locations, environment vignette, ground/floor/terrain patches, horizon, plants, swatches or palette strip. Only exact identification text and short useful labels. Complete comfortable margins around every head, hand and shoe.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:38:42.476577+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. Paint ONE complete 1536x1024 landscape3:2 character-reference folio, uninterrupted quiet warm ivory. Exact upper-left heading \"Mavrik\", smaller story title \"Coiled Together\".\n\nImage1 supplies accepted collection painting and folio presentation only, with matte connected oil masses and a restrained gray light. Image2 supplies the story's diffuse RAIN-GREY cave-mouth light and muted olive/slate/earth palette only. No pictured person or environment transfers.\nMavrik is the experienced rope carrier: a sturdy middle-aged adult with close-cropped iron-gray hair, broad weathered unglamorous face, calm economical working posture. Gender unspecified; a neutral practical human interpretation with no emphatic gender styling. Olive-gray work coat, coarse charcoal trousers, strong worn dark boots and simple leather belt. Hands uninjured, no bandages, weapons, decorations or climbing gadgets. Their job is rope rigging, not a soldier or mage.\nArrange TWO complete unclipped isolated figure views at left: front three-quarter standing with a modest neatly coiled rope over one forearm, and back three-quarter with same clothing and ordinary complete anatomy. One patient focused face study at upper right. Lower right: large study of both hands gently separating an abraded section of rope, individual frayed fibres economically suggested, labelled \"Abraded line\"; a smaller study of the neatly coiled rope labelled \"Coiled rope\". No duplicated arms, snake-like rope, impossible knot, rope wrapped around wrist, anchored line going offpage or invented harness. The rope is ordinary fibre and never luminous.\nGray diffuse natural light belongs to the after-rescue sheltered mouth under rain clouds; soft gray upper planes and subdued olive/slate shadow masses, modest warm skin, no orange rim or glossy wet sparkle. Apply Canadian Group of Seven-inspired broad simplification to the FACE as strongly as the coat: connected opaque matte masses, varied directional bristle strokes, substantial selective ridges, quieter linking passages. Keep hands legible without photographic skin pores. No CGI, anime outlines, plastic, glossy eye reflections, uniform bevel-lit paint chips, tiny gold dots or generic cinematic contrast.\nStrictly character, clothes and personal rope studies on ivory. No cave, rocks, locations, environment vignette, ground/floor/terrain patches, horizon, plants, swatches or palette strip. Only exact identification text and short useful labels. Complete comfortable margins around every head, hand and shoe.",
+            "references": [
+              {
+                "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+                "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+                "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+                "inspected": true
+              },
+              {
+                "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+                "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+                "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished prose read; Mavrik is experienced rope carrier, handles loads and later inspects abraded strand. Adult human appearance is recorded restrained interpretation; exact gender/age/face not prose facts.",
+              "Inspected Fendrel and source mouth painting used only for painted folio style and source-motivated rain-gray illumination; no copied injury/identity.",
+              "Two full independent adult views plus weathered hands/rope studies on ivory. No anchored line, climbing scene, rock, floor or swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-53b7c3f1-d3cc-4509-b3ca-f0017f54af66.png",
+            "outputSha256": "28b1cc9b30d284f29bfa498f90367d5f34ec26498bf71673fc062c2243071a4a",
+            "finishedAt": "2026-09-23T21:42:31.599461+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected full actual 1536x1024 image: Mavrik and Coiled Together exact. Consistent iron-gray-haired adult rope carrier, two complete human body views and focused face, distinct from Fendrel and Jorren. Face/age remain art interpretation.",
+              "Ordinary fibre rope coil and careful hand inspection of abraded fibres match source actions. Hands uninjured; no invented harness technology, weapon, load-bearing scenic demonstration or another character.",
+              "Connected matte olive-gray and earth oil masses under restrained diffuse rain-gray source light; every material including face stays painted. No scenery, ground patch, swatches or palette. Source/reference/output/spec pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+            "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+            "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+            "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+            "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-53b7c3f1-d3cc-4509-b3ca-f0017f54af66.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+        "outputSha256": "28b1cc9b30d284f29bfa498f90367d5f34ec26498bf71673fc062c2243071a4a",
+        "references": [
+          {
+            "path": "stories/coiled-together/art/characters/fendrel-vos.png",
+            "role": "Concrete collection oil technique, folio typography and rain-gray source-moment light only. Do not copy Fendrel's face, tied hair, beard, injuries, coat design, whistle or pack.",
+            "sha256": "71cd4a9d3b4f34c11b621c485fd048b80a662cbc0af2db02dd92a696dd8ccdf4",
+            "inspected": true
+          },
+          {
+            "path": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
+            "role": "Diffuse rain-gray light at the source's sheltered cave mouth and subdued slate/earth colour families only; no rock, landscape, sky or ground content.",
+            "sha256": "78dec774d9c459d2fc6c4a702b5971b0ff862b685aff32895351d3ab4cb53b58",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected full actual 1536x1024 image: Mavrik and Coiled Together exact. Consistent iron-gray-haired adult rope carrier, two complete human body views and focused face, distinct from Fendrel and Jorren. Face/age remain art interpretation.",
+          "Ordinary fibre rope coil and careful hand inspection of abraded fibres match source actions. Hands uninjured; no invented harness technology, weapon, load-bearing scenic demonstration or another character.",
+          "Connected matte olive-gray and earth oil masses under restrained diffuse rain-gray source light; every material including face stays painted. No scenery, ground patch, swatches or palette. Source/reference/output/spec pins verified."
+        ],
+        "specificationSha256": "b386aca9da01d10074e7db1c288726a705d014dbd9f67793f68f96ad278218a5"
+      },
+      "sourceIdentityId": "rope-carrier",
+      "nameAssignment": {
+        "name": "Mavrik",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "The rope carrier",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Mavrik",
+        "sourceIdentity": "rope-carrier",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "28b1cc9b30d284f29bfa498f90367d5f34ec26498bf71673fc062c2243071a4a"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "0055f69f8bb2fcd6bb2a0f1b5c4954803e3ce0fcce75866a9f1a4bd15b9a2cf4",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
