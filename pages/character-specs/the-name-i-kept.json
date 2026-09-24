@@ -1,0 +1,1040 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-name-i-kept",
+  "title": "The Name I Kept",
+  "source": "stories/the-name-i-kept/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Mica/Auden's sustained central exchange and public testimony, Crownfire/Palisade's active coercive opposition, and Shearpoint's directly dramatized lethal attack are central plot causes.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Dozing customer, host, medic, producer, studio guard and camera crews",
+      "reason": "Brief functional roles without sustained individualized actions."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover and location paintings contain no human identities; all unstated faces, ages and costumes are art interpretations.",
+    "Mica was seventeen at earlier hearing; exact current age unspecified, adult21 art rendering. Auden gender unspecified with they/them. Do not assign either gender by costume.",
+    "Crownfire/Palisade aliases do not establish visible fire or shield powers. Do not infer power effects from hero names.",
+    "Source right injured wrist/palm controls Mica brace/sling; Auden old wrist burns' side unspecified, chosen left for consistency."
+  ],
+  "characters": [
+    {
+      "id": "mica-serrin",
+      "name": "Mica Serrin",
+      "role": "Younger sibling and eyewitness",
+      "selectionEvidence": [
+        {
+          "quote": "Your right hand gives under the weight.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Auden opens the laundry sack again, finds the clean blue towel",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Under the eyewitness statement, you type Mica Serrin.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "uniform with two small holes over your heart",
+          "explanation": "Final prose appearance or central action"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human, gender unspecified",
+        "lifeStage": "Seventeen at prior hearing; current age unknown",
+        "proportions": "Unspecified",
+        "markings": "Right wrist/palm injury, swelling",
+        "materials": "Black uniform fabric; blue towel sling then proper brace",
+        "clothing": "Black sleeve, coat, family uniform",
+        "equipment": "Phone, black button-sized ceramic buffer/adapter, joined flame-and-shield crest removed late",
+        "scale": "Human",
+        "movement": "Protects right arm, works with left hand",
+        "distinctiveFeatures": "Final two holes where crest was, right brace"
+      },
+      "explicitCanon": [
+        "Right wrist injury persists; towel sling at laundromat then proper wristbrace at studio and final return.",
+        "Crest over heart joined flame/shield, removed by father. End state no crest.",
+        "Black ceramic square shirt-button sized ordinary recording hardware, not jewel or power source."
+      ],
+      "visualInterpretation": [
+        "Androgynous adult21, medium brown skin, short tight black curls, broad cheeks and strong straight brows, darkbrown eyes; lean compact build.",
+        "Matte black/navy family uniform straight pants/short functional jacket and simple black boots, plain charcoal coat optional early; no cape or generic armor.",
+        "Two body states: early blue towel sling right arm with crest; final right brace and two holes no crest. Face and small buffer held left hand detail."
+      ],
+      "states": [
+        {
+          "name": "Before broadcast",
+          "description": "Right blue towel sling, attached crest."
+        },
+        {
+          "name": "After broadcast",
+          "description": "Right wristbrace, crest absent, two holes over anatomical left chest."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-name-i-kept:mica-serrin",
+        "links": [],
+        "evidence": "Local family identity only; universe search shows no named cross-story identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-name-i-kept/title-image.jpg",
+          "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+          "inspected": true,
+          "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+          "inspected": true,
+          "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+          "inspected": true,
+          "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+          "role": "Cool storm-gray source-incident values and connected oil paint",
+          "inspected": true,
+          "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Mica Serrin"
+      },
+      "output": "stories/the-name-i-kept/art/characters/mica-serrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:14:48.606003+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Mica Serrin\"; subtitle \"The Name I Kept\". One young ADULT androgynous human superhero, age21 art interpretation, medium-brown skin, short tight BLACK CURLS, broad cheeks and strong straight brows, darkbrown eyes, lean compact body. Uniform is contemporary matte BLACK/NAVY plain functional jacket and trousers, slim black boots. NO cape, medieval armor or added superpower effect. Small family badge over ANATOMICAL LEFT CHEST (viewer right in front) is joined FLAME AND SHIELD in dull brass, not two separate emblems.\nTWO CLEARLY SEPARATED FULLBODY STATES: left early frontthreequarter labeled \"Before broadcast\": RIGHT forearm supported against ribs in a BLUE TOWEL SLING tied around neck; crest attached at left chest. Right hand/arm is the injured one, never left. Center late frontthreequarter angled opposite labeled \"After broadcast\": right arm now lowered with PROPER DARK WRIST BRACE, no sling; crest is GONE, exactly TWO tiny holes remain at anatomical LEFT chest. Show left good hand naturally empty. The same face/curls/black uniform in both, same body proportions. No extra sleeve or limb. Right brace ordinary medical support, no glowing technology.\nUpper-right bold matte painted face portrait with guarded distress, small lower-right study of LEFT good hand holding a BLACK CERAMIC SQUARE no larger than a SHIRT BUTTON between finger/thumb, caption \"Impact buffer\"; small ordinary smartphone separately if useful but no floating interfaces or invented circuitry. NOT large talisman or jewel.\nLight as the laundromat painting: restrained warm ceiling-key on a few planes, much of clothes and brown face in CONNECTED cool deep NAVY/UMBER shade, navy/black material stays dark. Studio late body similarly restrained practical warm key and cool shadow, not daytime. All facial/hands forms made of broad opaque paint strokes with selective relief, no smooth skin or anime contours. No laundry machines, towels floating, building, floor patch or cast ground shadow. Ignore the style anchor's woman's face and redcloak.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-name-i-kept/title-image.jpg",
+                "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+                "inspected": true,
+                "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+                "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+                "inspected": true,
+                "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+                "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+                "inspected": true,
+                "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "outputSha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:16:22.261055+00:00",
+            "reviewFindings": [
+              "Actual sheet: injured RIGHT arm has blue sling early and dark brace late; family crest on anatomical left chest becomes exactly two holes in late uniform. Curly-haired brown identity consistent.",
+              "Small button-sized black ceramic buffer held in good-hand detail and ordinary phone; no magical device/powers. Full adult bodies, coherent hands, unclipped boots and readable exact labels.",
+              "Broad matte impasto face/hands/uniform, restrained indoor warm key and navy shadow; uninterrupted ivory with no scenery, floor or swatches."
+            ]
+          }
+        ],
+        "preflight": "Source read completely; canon:false marker verified. Actual cover, laundromat/studio interior and storm painting inspected. No external original inputs in prompt. Identity, equipment laterality and scene light explicitly separated from art choices.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-name-i-kept/title-image.jpg",
+            "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+            "inspected": true,
+            "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+            "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+            "inspected": true,
+            "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Mica Serrin\"; subtitle \"The Name I Kept\". One young ADULT androgynous human superhero, age21 art interpretation, medium-brown skin, short tight BLACK CURLS, broad cheeks and strong straight brows, darkbrown eyes, lean compact body. Uniform is contemporary matte BLACK/NAVY plain functional jacket and trousers, slim black boots. NO cape, medieval armor or added superpower effect. Small family badge over ANATOMICAL LEFT CHEST (viewer right in front) is joined FLAME AND SHIELD in dull brass, not two separate emblems.\nTWO CLEARLY SEPARATED FULLBODY STATES: left early frontthreequarter labeled \"Before broadcast\": RIGHT forearm supported against ribs in a BLUE TOWEL SLING tied around neck; crest attached at left chest. Right hand/arm is the injured one, never left. Center late frontthreequarter angled opposite labeled \"After broadcast\": right arm now lowered with PROPER DARK WRIST BRACE, no sling; crest is GONE, exactly TWO tiny holes remain at anatomical LEFT chest. Show left good hand naturally empty. The same face/curls/black uniform in both, same body proportions. No extra sleeve or limb. Right brace ordinary medical support, no glowing technology.\nUpper-right bold matte painted face portrait with guarded distress, small lower-right study of LEFT good hand holding a BLACK CERAMIC SQUARE no larger than a SHIRT BUTTON between finger/thumb, caption \"Impact buffer\"; small ordinary smartphone separately if useful but no floating interfaces or invented circuitry. NOT large talisman or jewel.\nLight as the laundromat painting: restrained warm ceiling-key on a few planes, much of clothes and brown face in CONNECTED cool deep NAVY/UMBER shade, navy/black material stays dark. Studio late body similarly restrained practical warm key and cool shadow, not daytime. All facial/hands forms made of broad opaque paint strokes with selective relief, no smooth skin or anime contours. No laundry machines, towels floating, building, floor patch or cast ground shadow. Ignore the style anchor's woman's face and redcloak.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Restrained laundromat amber key with dominant cool navy/umber shadow; late controlled studio key.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:16:22.261055+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9",
+        "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-name-i-kept/title-image.jpg",
+            "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+            "inspected": true,
+            "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+            "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+            "inspected": true,
+            "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "evidence": [
+          "Actual sheet: injured RIGHT arm has blue sling early and dark brace late; family crest on anatomical left chest becomes exactly two holes in late uniform. Curly-haired brown identity consistent.",
+          "Small button-sized black ceramic buffer held in good-hand detail and ordinary phone; no magical device/powers. Full adult bodies, coherent hands, unclipped boots and readable exact labels.",
+          "Broad matte impasto face/hands/uniform, restrained indoor warm key and navy shadow; uninterrupted ivory with no scenery, floor or swatches."
+        ],
+        "specificationSha256": "29585f353e67407c014fad37103e8b1d9184fe9118ba742f2cd43caaa723ca82"
+      }
+    },
+    {
+      "id": "auden-serrin",
+      "name": "Auden Serrin",
+      "role": "Disowned older sibling, Rampart",
+      "selectionEvidence": [
+        {
+          "quote": "Pale burn scars ladder the inside of their wrist",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Auden has been working detergent into it with a toothbrush whose bristles have gone black.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "At the bottom of the release form, they type Auden Serrin.",
+          "explanation": "Final prose appearance or central action"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human they/them",
+        "lifeStage": "Older than Mica; exact age unknown",
+        "proportions": "Unspecified",
+        "markings": "Old pale ladder burns on inner wrist",
+        "materials": "Work clothing, detergent, grease",
+        "clothing": "Work trousers with brass buckle, coat, pinching boots",
+        "equipment": "Black-bristle toothbrush, laundry, ordinary phone",
+        "scale": "Human adult",
+        "movement": "Practical controlled, scrubs/folds, tired restrained posture",
+        "distinctiveFeatures": "Force-routing former hero, no active effects in laundromat"
+      },
+      "explicitCanon": [
+        "Scars old not fresh magical cracks; side unstated.",
+        "Ordinary work trousers/coat and boots, no family crest in current exile.",
+        "Do not show deadly impact or assign source-unsupported armor."
+      ],
+      "visualInterpretation": [
+        "Androgynous adult27, medium brown skin like Mica, longer narrow oval face, strong straight brows, black short close-curl undercut, dark eyes, taller lean body with tired shoulders.",
+        "Worn muted slateblue work coat over gray tee, charcoal trousers/brass belt buckle, blackbrown workboots. Left sleeve rolled reveals pale ladder marks on INNER LEFT WRIST.",
+        "Front/rear current civilian states; close LEFT PALM upward inner-wrist burn study and tired face. Source side chosen as art only."
+      ],
+      "states": [
+        {
+          "name": "Current work clothes",
+          "description": "Civilian laundromat state, no hero crest or power field."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-name-i-kept:auden-serrin",
+        "links": [],
+        "evidence": "Local family identity only; universe search shows no named cross-story identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-name-i-kept/title-image.jpg",
+          "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+          "inspected": true,
+          "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+          "inspected": true,
+          "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+          "inspected": true,
+          "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+          "role": "Cool storm-gray source-incident values and connected oil paint",
+          "inspected": true,
+          "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Auden Serrin"
+      },
+      "output": "stories/the-name-i-kept/art/characters/auden-serrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:16:23.305146+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Auden Serrin\", subtitle \"The Name I Kept\". One adult androgynous person age27 visual choice, Mica's OLDER sibling. Use second image Mica as family resemblance only: SAME medium-brown skin and strong straight eyebrows, but Auden has a noticeably LONGER/NARROWER oval face, tired deep-set dark eyes, more hollow cheeks, short CLOSE-CURL BLACK UNDERCUT, TALLER lean frame and sloping tired shoulders. No gender label; no makeup stereotype. Exact single identity in every view.\nCURRENT CIVILIAN WORK CLOTHES: worn muted SLATEBLUE work COAT, gray tee beneath, charcoal ordinary trousers with BRASS BELT BUCKLE, blackbrown scuffed work boots. No family crest, superhero cape/armor, glowing barrier, weapon or fantasy equipment. LEFT coat sleeve pushed up: pale healed BURN SCARS form a small uneven LADDER along INNER LEFT WRIST, no glowing veins or fresh blood. Right sleeve can be rolled equally but right wrist has NO ladder scars. Scar side is an art choice that must stay consistent.\nComposition: two full standing bodies frontthreequarter and rear, relaxed natural hands, one holds ordinary black-bristled TOOTHBRUSH used on laundry, other a folded dark trouser leg with grease streak. Upper-right tired face portrait in broad connected oil paint. Lower-right LEFT hand/inner-wrist close study, PALM facing viewer, fingers pointing UP: anatomically LEFT PALM has THUMB on VIEWER LEFT. Show exactly four fingers plus thumb, palm creases and no dorsal nails on palm surface; pale ladder scars below palm on inner wrist, label \"Old burns\". Keep same brown skin and age; no other person's hand. Small isolated brass trouser buckle okay, no laundry sink/machine, floor shadow, scene patch or swatches.\nLight practical indoor lamp planes with dominant deep cool NAVY/UMBER shade, warm light limited to a few planes; match image3 laundromat palette. Strong opaque matte strokes and selective impasto sculpt all faces/hands/clothing with Group of Seven connected forms, not fragmented texture filter.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved oil style only",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+                "role": "Younger sibling Mica family resemblance only; distinct older long face/undercut, no injury/crest transfer",
+                "inspected": true,
+                "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+                "role": "Practical indoor light and oil palette only",
+                "inspected": true,
+                "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-18f93127-e014-49fe-82bf-88f3dab8d67f.png",
+            "outputSha256": "db4920cd7b23f535b756f3952246ac90dc38b2caaac53406e0d0e76d749d4b57",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:19:13.324985+00:00",
+            "reviewFindings": [
+              "Saved pixels: older sibling's longer face, undercut, brown complexion and tired expression with civilian coat/work trousers/brass buckle/boots; no crest or active power. Two complete coherent body views.",
+              "Old pale ladder burns visible in LEFT inner-wrist detail: palm faces forward, four fingers up and thumb viewer-left. Five digits and scar-side interpretation consistent; no fresh glowing damage.",
+              "Broad opaque impasto throughout face/skin/fabric, indoor warm/cool balance; precise names, ivory, no setting/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Source read completely; canon:false marker verified. Actual cover, laundromat/studio interior and storm painting inspected. No external original inputs in prompt. Identity, equipment laterality and scene light explicitly separated from art choices.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil style only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Younger sibling Mica family resemblance only; distinct older long face/undercut, no injury/crest transfer",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+            "role": "Practical indoor light and oil palette only",
+            "inspected": true,
+            "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Auden Serrin\", subtitle \"The Name I Kept\". One adult androgynous person age27 visual choice, Mica's OLDER sibling. Use second image Mica as family resemblance only: SAME medium-brown skin and strong straight eyebrows, but Auden has a noticeably LONGER/NARROWER oval face, tired deep-set dark eyes, more hollow cheeks, short CLOSE-CURL BLACK UNDERCUT, TALLER lean frame and sloping tired shoulders. No gender label; no makeup stereotype. Exact single identity in every view.\nCURRENT CIVILIAN WORK CLOTHES: worn muted SLATEBLUE work COAT, gray tee beneath, charcoal ordinary trousers with BRASS BELT BUCKLE, blackbrown scuffed work boots. No family crest, superhero cape/armor, glowing barrier, weapon or fantasy equipment. LEFT coat sleeve pushed up: pale healed BURN SCARS form a small uneven LADDER along INNER LEFT WRIST, no glowing veins or fresh blood. Right sleeve can be rolled equally but right wrist has NO ladder scars. Scar side is an art choice that must stay consistent.\nComposition: two full standing bodies frontthreequarter and rear, relaxed natural hands, one holds ordinary black-bristled TOOTHBRUSH used on laundry, other a folded dark trouser leg with grease streak. Upper-right tired face portrait in broad connected oil paint. Lower-right LEFT hand/inner-wrist close study, PALM facing viewer, fingers pointing UP: anatomically LEFT PALM has THUMB on VIEWER LEFT. Show exactly four fingers plus thumb, palm creases and no dorsal nails on palm surface; pale ladder scars below palm on inner wrist, label \"Old burns\". Keep same brown skin and age; no other person's hand. Small isolated brass trouser buckle okay, no laundry sink/machine, floor shadow, scene patch or swatches.\nLight practical indoor lamp planes with dominant deep cool NAVY/UMBER shade, warm light limited to a few planes; match image3 laundromat palette. Strong opaque matte strokes and selective impasto sculpt all faces/hands/clothing with Group of Seven connected forms, not fragmented texture filter.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Small warm overhead practical planes, cool connected navy/umber shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "db4920cd7b23f535b756f3952246ac90dc38b2caaac53406e0d0e76d749d4b57",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:19:13.324985+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "db4920cd7b23f535b756f3952246ac90dc38b2caaac53406e0d0e76d749d4b57",
+        "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil style only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Younger sibling Mica family resemblance only; distinct older long face/undercut, no injury/crest transfer",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+            "role": "Practical indoor light and oil palette only",
+            "inspected": true,
+            "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+          }
+        ],
+        "evidence": [
+          "Saved pixels: older sibling's longer face, undercut, brown complexion and tired expression with civilian coat/work trousers/brass buckle/boots; no crest or active power. Two complete coherent body views.",
+          "Old pale ladder burns visible in LEFT inner-wrist detail: palm faces forward, four fingers up and thumb viewer-left. Five digits and scar-side interpretation consistent; no fresh glowing damage.",
+          "Broad opaque impasto throughout face/skin/fabric, indoor warm/cool balance; precise names, ivory, no setting/floor/swatches."
+        ],
+        "specificationSha256": "68b880a5dd3bff5211b50440b55b9bfb02c02bb062bf2e35f53b4a42d2842499"
+      }
+    },
+    {
+      "id": "crownfire",
+      "name": "Crownfire",
+      "role": "Mother and public enforcer of family disgrace narrative",
+      "selectionEvidence": [
+        {
+          "quote": "your mother fastens the family crest over your heart",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Her smile stays where it is.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Your mother reaches for the crest.",
+          "explanation": "Final prose appearance or central action"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman",
+        "lifeStage": "Parent, exact age unknown",
+        "proportions": "Unspecified",
+        "markings": "None",
+        "materials": "Hero uniform art choice",
+        "clothing": "Unspecified",
+        "equipment": "Joined flame-and-shield crest family branding; no powers seen",
+        "scale": "Adult",
+        "movement": "Controlled public smile; fastens clasp and grasps child's braced hand",
+        "distinctiveFeatures": "Polished public authority"
+      },
+      "explicitCanon": [
+        "Exact hero alias Crownfire only, no source personal given name.",
+        "Mother; no active fire power depicted in prose."
+      ],
+      "visualInterpretation": [
+        "Adult52 as art, mediumbrown skin, sharp high cheekbones shared with children, dark almond eyes, black hair gray at temples in sleek high knot, erect slim mature build.",
+        "Matte deep burgundy/navy highcollar formal hero uniform, subtle brass trim and small joined flame-shield crest over left chest. Practical black boots, no crown/cape/sword or live flames.",
+        "Two fullbody front/rear and two facial states: practiced smile and constrained tension. Costume not canon."
+      ],
+      "states": [
+        {
+          "name": "Memorial broadcast",
+          "description": "Formal stationary public-facing attire."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-name-i-kept:crownfire",
+        "links": [],
+        "evidence": "Local family identity only; universe search shows no named cross-story identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-name-i-kept/title-image.jpg",
+          "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+          "inspected": true,
+          "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+          "inspected": true,
+          "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+          "inspected": true,
+          "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+          "role": "Cool storm-gray source-incident values and connected oil paint",
+          "inspected": true,
+          "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Crownfire"
+      },
+      "output": "stories/the-name-i-kept/art/characters/crownfire.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:19:14.282939+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Crownfire\", subtitle \"The Name I Kept\". One mature HUMAN WOMAN superhero mother age52 art interpretation, mediumbrown skin, angular high cheekbones and strong straight brows related to Mica in second image, clearly OLDER face with creased eyes and mature jaw, not identical youthful child face. Dark almond eyes, BLACK HAIR with broad SILVER TEMPLE STREAKS in a neat HIGH KNOT; erect lean mature build. Preserve age/face in every view. No crown, live flames, glowing eyes or supernatural powers: hero alias does NOT establish fire display.\nART CHOICE formal contemporary superhero uniform: matte DEEP BURGUNDY highcollar jacket with restrained NAVY sidepanels, plain straight matching trousers, small dull BRASS piping at cuffs, black practical ankle boots. A small joined FLAME AND SHIELD brass family crest at ANATOMICAL LEFT CHEST, matching Mica's little crest form from image2, never big fantasy chestplate. No cape, sword, armor, jewelry collection or unrelated emblem.\nLayout two complete standing FRONTTHREEQUARTER and BACK views, ordinary two arms/legs and relaxed five-digit hands; one hand makes a small composed clasping gesture near chest without prop. Upperright two medium mature face studies showing practiced public smile and controlled tense jaw; no secondary identity. Clean readable word \"Crownfire\" no extra real name or surname. Subtle dignity/public control, not theatrical evil expression.\nControlled studio warm key on a few mature cheek planes over dominant cool navy/umber shadow; source studio painting image3 gives light only, no set. Thick directional MATTE oil masses on faces/hands and restrained broad burgundy cloth, Group of Seven paint volume not beauty portrait under texture. Warm ivory ground with no foot shadows/patches, location, flames or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved oil only, no subject outfit transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+                "role": "Child Mica family facial relationship and same small flame-shield crest; mother visibly52 with silver temples",
+                "inspected": true,
+                "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+                "role": "Controlled practical studio light only",
+                "inspected": true,
+                "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-9c45855c-bb1e-485d-b44e-bfedfe61d137.png",
+            "outputSha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:20:49.567402+00:00",
+            "reviewFindings": [
+              "Actual sheet has mature mother with silver temples/high knot, distinct but related brown facial structure, controlled smile and tense expression; same anatomy/costume in front/back.",
+              "Joined flame-shield crest on left chest matches Mica; burgundy/navy formal art-choice uniform, no literal crown, flame magic or weapon. Complete boots and coherent clasped hand study.",
+              "Broad connected matte oil skin/fabric and readable heading; ivory character-only without floor shadows, setting or palette strip."
+            ]
+          }
+        ],
+        "preflight": "Source read completely; canon:false marker verified. Actual cover, laundromat/studio interior and storm painting inspected. No external original inputs in prompt. Identity, equipment laterality and scene light explicitly separated from art choices.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil only, no subject outfit transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Child Mica family facial relationship and same small flame-shield crest; mother visibly52 with silver temples",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Controlled practical studio light only",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Crownfire\", subtitle \"The Name I Kept\". One mature HUMAN WOMAN superhero mother age52 art interpretation, mediumbrown skin, angular high cheekbones and strong straight brows related to Mica in second image, clearly OLDER face with creased eyes and mature jaw, not identical youthful child face. Dark almond eyes, BLACK HAIR with broad SILVER TEMPLE STREAKS in a neat HIGH KNOT; erect lean mature build. Preserve age/face in every view. No crown, live flames, glowing eyes or supernatural powers: hero alias does NOT establish fire display.\nART CHOICE formal contemporary superhero uniform: matte DEEP BURGUNDY highcollar jacket with restrained NAVY sidepanels, plain straight matching trousers, small dull BRASS piping at cuffs, black practical ankle boots. A small joined FLAME AND SHIELD brass family crest at ANATOMICAL LEFT CHEST, matching Mica's little crest form from image2, never big fantasy chestplate. No cape, sword, armor, jewelry collection or unrelated emblem.\nLayout two complete standing FRONTTHREEQUARTER and BACK views, ordinary two arms/legs and relaxed five-digit hands; one hand makes a small composed clasping gesture near chest without prop. Upperright two medium mature face studies showing practiced public smile and controlled tense jaw; no secondary identity. Clean readable word \"Crownfire\" no extra real name or surname. Subtle dignity/public control, not theatrical evil expression.\nControlled studio warm key on a few mature cheek planes over dominant cool navy/umber shadow; source studio painting image3 gives light only, no set. Thick directional MATTE oil masses on faces/hands and restrained broad burgundy cloth, Group of Seven paint volume not beauty portrait under texture. Warm ivory ground with no foot shadows/patches, location, flames or swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Controlled small warm studio key, strong cool navy shadow, no supernatural firelight.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:20:49.567402+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb",
+        "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil only, no subject outfit transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Child Mica family facial relationship and same small flame-shield crest; mother visibly52 with silver temples",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Controlled practical studio light only",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "evidence": [
+          "Actual sheet has mature mother with silver temples/high knot, distinct but related brown facial structure, controlled smile and tense expression; same anatomy/costume in front/back.",
+          "Joined flame-shield crest on left chest matches Mica; burgundy/navy formal art-choice uniform, no literal crown, flame magic or weapon. Complete boots and coherent clasped hand study.",
+          "Broad connected matte oil skin/fabric and readable heading; ivory character-only without floor shadows, setting or palette strip."
+        ],
+        "specificationSha256": "33288d657b381f67936f3fda2f6d1de793d569f8a027a5c2f36031ef50d49e62"
+      }
+    },
+    {
+      "id": "palisade",
+      "name": "Palisade",
+      "role": "Father controlling family image and removing crest",
+      "selectionEvidence": [
+        {
+          "quote": "your father lowers his head by exactly the amount that means Palisade is grieving for the cameras.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "your father unfasten the crest",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "He presses the clasp",
+          "explanation": "Final prose appearance or central action"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man",
+        "lifeStage": "Parent age unspecified",
+        "proportions": "Unspecified",
+        "markings": "None",
+        "materials": "Uniform art choice",
+        "clothing": "Unspecified",
+        "equipment": "Removed family crest in final act, no shield power shown",
+        "scale": "Adult",
+        "movement": "Restrained grip, deliberate clasp removal",
+        "distinctiveFeatures": "Grieving public pose, quiet threat"
+      },
+      "explicitCanon": [
+        "Exact alias Palisade, no additional personal name or invented power demonstration.",
+        "Removes crest carefully, does not tear it away."
+      ],
+      "visualInterpretation": [
+        "Adult55, tan-brown skin, broad rectangular face, heavy straight brows, short saltpepper waved hair, clean shaven, stocky tall build.",
+        "Matte midnight navy formal jacket/trousers with restrained gray/gold trim and small flame-shield family crest over left chest; black practical boots, no medieval armor or physical shield.",
+        "Two fullbody front/rear and portrait; optional hand holds tiny removed crest by edges, no other person."
+      ],
+      "states": [
+        {
+          "name": "Memorial broadcast",
+          "description": "Formal public attire and controlled expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-name-i-kept:palisade",
+        "links": [],
+        "evidence": "Local family identity only; universe search shows no named cross-story identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-name-i-kept/title-image.jpg",
+          "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+          "inspected": true,
+          "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+          "inspected": true,
+          "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+          "inspected": true,
+          "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+          "role": "Cool storm-gray source-incident values and connected oil paint",
+          "inspected": true,
+          "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Palisade"
+      },
+      "output": "stories/the-name-i-kept/art/characters/palisade.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:20:50.554345+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Palisade\"; subtitle \"The Name I Kept\". One mature HUMAN MAN superhero father age55 visual choice: tan-brown skin, broad RECTANGULAR face, heavy straight brows, darkbrown deep-set eyes, short SALT-AND-PEPPER WAVED HAIR, clean shaven, tall stocky substantial frame. Distinguished ordinary face with weathered eye creases and jaw, not generic sculpted young superhero. Family brow/eye resemblance to child Mica in image2 but visibly older male parent, no exact face clone. Image3 Crownfire gives SAME FAMILY uniform language and small joined flame-and-shield badge only; never her face/bun/burgundy costume.\nContemporary matte MIDNIGHT NAVY formal jacket and straight trousers, restrained gray and dull brass trim, black practical boots. Small joined FLAME AND SHIELD family crest on anatomical LEFT CHEST, matching prior sheets; no medieval armor, physical shield, cape, crown, weapons or visible superpowers. His alias does not imply shield equipment.\nLayout two complete full standing body studies FRONTTHREEQUARTER and BACK with calm rigid stance. Upperright medium mature face portrait head slightly lowered, public grief held deliberately. Lower-right close mature hands operating clasp of a TINY SECOND REMOVED family crest: hands five digits, one hand supports edge, other thumb opens clasp, no tearing/fist or other person's torso. Body keeps his OWN crest worn; small detached crest is the one removed from Mica. Could label \"Clasp\". No institution backdrop or character vignette.\nLighting small controlled WARM studio key on select face/hands planes against deep CONNECTED cool navy/umber shade. All face/eye/hair and hand forms directly carved from broad opaque MATTE oil bristle/knife masses with selective impasto. Never warm glossy photo face; no blue eye beams. Warm ivory free of foot shadows, ground, studio scene or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved oil style only",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+                "role": "Family brow/eye likeness, not child face",
+                "inspected": true,
+                "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-9c45855c-bb1e-485d-b44e-bfedfe61d137.png",
+                "role": "Same small crest and formal uniform construction, not Crownfire identity or burgundy palette",
+                "inspected": true,
+                "sha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+                "role": "Practical studio light, no set",
+                "inspected": true,
+                "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-f88d85e1-89f5-452f-b366-2c4e0442c325.png",
+            "outputSha256": "634bb8d1bcfa2b95d1b44b585776cd75ac9f9f1de5f013e24328ee1ab8fde886",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:22:19.056505+00:00",
+            "reviewFindings": [
+              "Actual pixels show mature stockier father, rectangular face/saltpepper waves with family resemblance, consistent front/back uniform. No physical shield or active powers invented.",
+              "Own left-chest flame-shield crest distinct from removed crest detail; hands operate small clasp carefully, no tearing. Human anatomy, complete boots, readable name/title.",
+              "Opaque connected impasto across mature face/hands and navy uniform; clean warm ivory without locations/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Source read completely; canon:false marker verified. Actual cover, laundromat/studio interior and storm painting inspected. No external original inputs in prompt. Identity, equipment laterality and scene light explicitly separated from art choices.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil style only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Family brow/eye likeness, not child face",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-9c45855c-bb1e-485d-b44e-bfedfe61d137.png",
+            "role": "Same small crest and formal uniform construction, not Crownfire identity or burgundy palette",
+            "inspected": true,
+            "sha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Practical studio light, no set",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nExact heading \"Palisade\"; subtitle \"The Name I Kept\". One mature HUMAN MAN superhero father age55 visual choice: tan-brown skin, broad RECTANGULAR face, heavy straight brows, darkbrown deep-set eyes, short SALT-AND-PEPPER WAVED HAIR, clean shaven, tall stocky substantial frame. Distinguished ordinary face with weathered eye creases and jaw, not generic sculpted young superhero. Family brow/eye resemblance to child Mica in image2 but visibly older male parent, no exact face clone. Image3 Crownfire gives SAME FAMILY uniform language and small joined flame-and-shield badge only; never her face/bun/burgundy costume.\nContemporary matte MIDNIGHT NAVY formal jacket and straight trousers, restrained gray and dull brass trim, black practical boots. Small joined FLAME AND SHIELD family crest on anatomical LEFT CHEST, matching prior sheets; no medieval armor, physical shield, cape, crown, weapons or visible superpowers. His alias does not imply shield equipment.\nLayout two complete full standing body studies FRONTTHREEQUARTER and BACK with calm rigid stance. Upperright medium mature face portrait head slightly lowered, public grief held deliberately. Lower-right close mature hands operating clasp of a TINY SECOND REMOVED family crest: hands five digits, one hand supports edge, other thumb opens clasp, no tearing/fist or other person's torso. Body keeps his OWN crest worn; small detached crest is the one removed from Mica. Could label \"Clasp\". No institution backdrop or character vignette.\nLighting small controlled WARM studio key on select face/hands planes against deep CONNECTED cool navy/umber shade. All face/eye/hair and hand forms directly carved from broad opaque MATTE oil bristle/knife masses with selective impasto. Never warm glossy photo face; no blue eye beams. Warm ivory free of foot shadows, ground, studio scene or swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Small warm studio facial key, cool deep navy shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "634bb8d1bcfa2b95d1b44b585776cd75ac9f9f1de5f013e24328ee1ab8fde886",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:22:19.056505+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "634bb8d1bcfa2b95d1b44b585776cd75ac9f9f1de5f013e24328ee1ab8fde886",
+        "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved oil style only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-2222daba-3d06-459a-bae6-6887cf398f11.png",
+            "role": "Family brow/eye likeness, not child face",
+            "inspected": true,
+            "sha256": "8610f47f9aa3160d316f2716bc4855ae3160906860b25f187d184c05d6e601e9"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-9c45855c-bb1e-485d-b44e-bfedfe61d137.png",
+            "role": "Same small crest and formal uniform construction, not Crownfire identity or burgundy palette",
+            "inspected": true,
+            "sha256": "81c96fe829a8f087276a0cca464a8a05edb33227cc75c887a3b25faebc7122bb"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+            "role": "Practical studio light, no set",
+            "inspected": true,
+            "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show mature stockier father, rectangular face/saltpepper waves with family resemblance, consistent front/back uniform. No physical shield or active powers invented.",
+          "Own left-chest flame-shield crest distinct from removed crest detail; hands operate small clasp carefully, no tearing. Human anatomy, complete boots, readable name/title.",
+          "Opaque connected impasto across mature face/hands and navy uniform; clean warm ivory without locations/floor/swatches."
+        ],
+        "specificationSha256": "e40dae8c8b8e8c90401acf1e7f52d0e0bb089f1c7f249731fb24b8742d04529f"
+      }
+    },
+    {
+      "id": "shearpoint",
+      "name": "Shearpoint",
+      "role": "Deceased central attacker in bridge evidence",
+      "selectionEvidence": [
+        {
+          "quote": "Shearpoint is a narrow figure at its far end, one palm laid flat on the steel.",
+          "explanation": "Final prose appearance or central action"
+        },
+        {
+          "quote": "Shearpoint looks toward the hanging carriage. Toward you. He drives his shoulder down.",
+          "explanation": "Final prose appearance or central action"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man",
+        "lifeStage": "Unknown",
+        "proportions": "Narrow figure",
+        "markings": "None established",
+        "materials": "Unspecified clothes",
+        "clothing": "Unspecified",
+        "equipment": "Bare palm on rail drives structural pulses; no weapon established",
+        "scale": "Human",
+        "movement": "Shoulder drives down, palm flat",
+        "distinctiveFeatures": "Living last-attack state; death not illustrated"
+      },
+      "explicitCanon": [
+        "Male pronouns and narrow build explicit.",
+        "Pulses directed via hand on rail; no lightning color/beam or extra power specified.",
+        "No visual gore/body aftermath."
+      ],
+      "visualInterpretation": [
+        "Adult40, pale olive skin, long narrow face, receding short ash-blond hair, dark close-set eyes, wiry narrow frame.",
+        "Matte charcoal fitted jacket/trousers with bluegray panel stitching, plain black boots, BOTH hands bare. No mask, cape, crest, blade or power glow.",
+        "Two complete frontthreequarter and sidelean palm-lowered action posture without rail/scenery; face and bare open hand detail."
+      ],
+      "states": [
+        {
+          "name": "Before return",
+          "description": "Living attack stance, ordinary body, no death depiction."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-name-i-kept:shearpoint",
+        "links": [],
+        "evidence": "Local family identity only; universe search shows no named cross-story identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-name-i-kept/title-image.jpg",
+          "role": "Dark uniform fabric and blue laundry palette, crest removal holes; no faces in cover",
+          "inspected": true,
+          "sha256": "7d5d3685bb86b49cc4733b0f1ef33b66297485c0a8b1b7cef0daa1a5050a3cd2"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/01-the-laundromat.png",
+          "role": "Warm practical ceiling light against deep cobalt/umber shadows; broad oil collection",
+          "inspected": true,
+          "sha256": "efa23e1c86be63fc2f1e5c714e7654abb033abaf8cc23cb75cf546b09fdda6f7"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/interiors/03-the-memorial-studio.png",
+          "role": "Controlled warm studio key and deep navy surroundings; family crest form subordinate to source",
+          "inspected": true,
+          "sha256": "b266df206a4e19cbb97ba51f0036317ebb126a548a5881e135ac90dc7f1ecb1f"
+        },
+        {
+          "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+          "role": "Cool storm-gray source-incident values and connected oil paint",
+          "inspected": true,
+          "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Shearpoint"
+      },
+      "output": "stories/the-name-i-kept/art/characters/shearpoint.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:22:20.045699+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Shearpoint\", subtitle \"The Name I Kept\". One HUMAN MAN alive just before fatal force return, no injury or body aftermath. Art identity: adult40, PALE OLIVE skin, long NARROW FACE, receding short ASH-BLOND hair, dark close-set eyes, thin compressed lips, long slender nose, NARROW WIRY frame. Not a Serrin family member and not the style sample woman. No mask, horns, animal form or monstrous facial deformity.\nContemporary matte CHARCOAL fitted functional jacket and trousers with restrained BLUEGRAY panel stitching, ordinary BLACK boots. BOTH HANDS BARE. No cape, badge, blade, gadget, body armor, magic runes or visible glow. Prose establishes force pulses carried through a hand laid on steel, but no color or beam; therefore show ordinary poised physical gesture with NO added lightning or autonomous effect.\nTwo complete separated body studies: left FRONTTHREEQUARTER standing narrow stance, bare hands down; center SIDE/REAR THREEQUARTER in a braced forward lunge, right shoulder driving down, RIGHT arm extended at waist height, palm flattened downward as a movement study WITHOUT any rail/setting/contact prop. This is a character pose only, no floating pieces of bridge. Upperright large face study intent sharp gaze, brow/cheek simple broad planes. Lower-right small bare RIGHT palm study fingers gently splayed if useful, four fingers plus one thumb, not giant clawed hand. Uniform same in all views.\nSTORM BRIDGE LIGHT from reference2: cool slate-gray subdued daylight under heavy cloud with DEEP connected bluegray/umber shadow; NO golden lantern or bright warm fill. Pale skin mostly cool taupe-gray shadow with few small neutral planes. Directional broad opaque oil strokes visibly build whole face and hands, selective knife impasto; matte bold connected shapes not photo realism under texture. Warm ivory quiet background, no ground marks or shadows, rail, river, scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+                "role": "Cool storm-gray source-incident values and connected oil paint",
+                "inspected": true,
+                "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-9a9615ea-922b-4216-ae6c-cbd2f15c9e41.png",
+            "outputSha256": "5f620331e2fb79aa2ade89831e2d63bfd4f4f8099215eab481d536d626728da3",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:24:00.251939+00:00",
+            "reviewFindings": [
+              "Saved pixels show living narrow adult attacker, ash-blond receding hair and pale angular face distinct from family; same charcoal/bluegray functional clothing across fullbody views.",
+              "One upright and one shoulder-down action study, no bridge fragments or unsupported glowing power, badge, armor or weapon. Non-graphic image, natural complete anatomy and unclipped silhouettes.",
+              "Broad matte oil face/fabric construction, subdued cool storm planes and clear exact heading. Ivory without scenery/floor/swatches. Existing detail retained per updated user direction; no speculative handedness correction."
+            ]
+          }
+        ],
+        "preflight": "Source read completely; canon:false marker verified. Actual cover, laundromat/studio interior and storm painting inspected. No external original inputs in prompt. Identity, equipment laterality and scene light explicitly separated from art choices.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+            "role": "Cool storm-gray source-incident values and connected oil paint",
+            "inspected": true,
+            "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on an uninterrupted quiet warm ivory field. One identity only, two or three complete unclipped full-body views and a few meaningful face/hand/equipment studies with generous clear spacing. No locations, scenery, floor patch, ground shadow, palette strip or paint swatches. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil, heavy sculpted impasto selectively over broad CONNECTED paint masses, decisive directional bristle strokes and palette-knife planes. Skin, faces and hands must be built from the same bold matte oil masses as the clothing, not realistic faces under a texture filter. Broken color and scraped edges describe volume. No anime, photo, glossy CGI or tiny all-over texture. The approved style reference is rendering only: do not borrow its woman's face, red cloak, armor or props. Match identity/anatomy/costume in every repeated view. All light is story-motivated; keep dark scenes dark against the ivory.\nHeading \"Shearpoint\", subtitle \"The Name I Kept\". One HUMAN MAN alive just before fatal force return, no injury or body aftermath. Art identity: adult40, PALE OLIVE skin, long NARROW FACE, receding short ASH-BLOND hair, dark close-set eyes, thin compressed lips, long slender nose, NARROW WIRY frame. Not a Serrin family member and not the style sample woman. No mask, horns, animal form or monstrous facial deformity.\nContemporary matte CHARCOAL fitted functional jacket and trousers with restrained BLUEGRAY panel stitching, ordinary BLACK boots. BOTH HANDS BARE. No cape, badge, blade, gadget, body armor, magic runes or visible glow. Prose establishes force pulses carried through a hand laid on steel, but no color or beam; therefore show ordinary poised physical gesture with NO added lightning or autonomous effect.\nTwo complete separated body studies: left FRONTTHREEQUARTER standing narrow stance, bare hands down; center SIDE/REAR THREEQUARTER in a braced forward lunge, right shoulder driving down, RIGHT arm extended at waist height, palm flattened downward as a movement study WITHOUT any rail/setting/contact prop. This is a character pose only, no floating pieces of bridge. Upperright large face study intent sharp gaze, brow/cheek simple broad planes. Lower-right small bare RIGHT palm study fingers gently splayed if useful, four fingers plus one thumb, not giant clawed hand. Uniform same in all views.\nSTORM BRIDGE LIGHT from reference2: cool slate-gray subdued daylight under heavy cloud with DEEP connected bluegray/umber shadow; NO golden lantern or bright warm fill. Pale skin mostly cool taupe-gray shadow with few small neutral planes. Directional broad opaque oil strokes visibly build whole face and hands, selective knife impasto; matte bold connected shapes not photo realism under texture. Warm ivory quiet background, no ground marks or shadows, rail, river, scenery or swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Dim cool stormgray bridge light; no amber studio/daylight flood.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "5f620331e2fb79aa2ade89831e2d63bfd4f4f8099215eab481d536d626728da3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:24:00.251939+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "5f620331e2fb79aa2ade89831e2d63bfd4f4f8099215eab481d536d626728da3",
+        "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no face/costume/scenery transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-name-i-kept/art/landscapes/03-storm-at-the-bridge-foot.png",
+            "role": "Cool storm-gray source-incident values and connected oil paint",
+            "inspected": true,
+            "sha256": "7714449950faa1b40455285ec6e3b0967b1d0840712e44e04db5b14ff24e23e6"
+          }
+        ],
+        "evidence": [
+          "Saved pixels show living narrow adult attacker, ash-blond receding hair and pale angular face distinct from family; same charcoal/bluegray functional clothing across fullbody views.",
+          "One upright and one shoulder-down action study, no bridge fragments or unsupported glowing power, badge, armor or weapon. Non-graphic image, natural complete anatomy and unclipped silhouettes.",
+          "Broad matte oil face/fabric construction, subdued cool storm planes and clear exact heading. Ivory without scenery/floor/swatches. Existing detail retained per updated user direction; no speculative handedness correction."
+        ],
+        "specificationSha256": "f4eb6a8f1ee7886f47ffca4c37e82586c3f9266868e02a5ca920cd15e418531f"
+      }
+    }
+  ],
+  "sourceSha256": "89f93ec77cc81efde7fe4552f01882eee8f1bdf80967a3d3cfc55c2391fb49ad"
+}
