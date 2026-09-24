@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-one-who-gets-tired",
+  "title": "The One Who Gets Tired",
+  "source": "stories/the-one-who-gets-tired/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story and prompt read; source marker, cover, cinema lobby oil and shared oil inspected. Six sustained decision-making family identities selected.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Twins, youngest sister and seven-year-old brother",
+      "reason": "Supporting family texture with short interactions; no individually sustained central relationship or arc."
+    },
+    {
+      "name": "Running friend, staff and audience",
+      "reason": "Offstage or brief incidental figures."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "leonor",
+      "name": "Leonor",
+      "role": "Oldest sibling and tired demigod narrator",
+      "form": "young adult woman, age beyond sixteen unspecified",
+      "selectionEvidence": [
+        {
+          "quote": "I had my mother's eyes in moonlight, and my human father's need for eight hours of sleep.",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Humanlike appearance; flour above ear and at wrist, bakery workbag and fatigue. No active public divine display.",
+      "visualInterpretation": [
+        "Art-only early twenties, medium brown skin, long dark braid, rounded cheekbones, dark eyes, muted rust cardigan, cream blouse, dark trousers and worn brown shoes."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:leonor",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Leonor\"; exact subtitle \"The One Who Gets Tired\". A young adult woman of about22, medium brown skin, long dark braid over shoulder, rounded cheekbones and tired ordinary dark eyes. Muted rust cardigan over cream blouse, dark trousers, worn brown practical shoes. Flour smudge above ear and very faint at wrist. Carries a plain dark workbag in front view, rear same outfit. Matching portrait with weary affectionate expression. No glow, uniform baker hat or apron in this outing state.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:58:20.995390+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Leonor\"; exact subtitle \"The One Who Gets Tired\". A young adult woman of about22, medium brown skin, long dark braid over shoulder, rounded cheekbones and tired ordinary dark eyes. Muted rust cardigan over cream blouse, dark trousers, worn brown practical shoes. Flour smudge above ear and very faint at wrist. Carries a plain dark workbag in front view, rear same outfit. Matching portrait with weary affectionate expression. No glow, uniform baker hat or apron in this outing state.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-84705741-ece2-4614-b5ae-7dac69b0ee41.png",
+            "outputSha256": "d667186e396da5c4623afef65b9a4d19b1f7014b08bc18146307ab8306ae4f9d",
+            "finishedAt": "2026-09-24T15:00:58.191741+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved candidate shows consistent tired young-adult face, braid and workbag across full front/rear and portrait; ordinary modern outfit remains art interpretation.",
+              "Exact name/title, no divine glow, broad matte paint with warm lobby light on opaque ivory; no scene, swatches or isolated hand studies."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-84705741-ece2-4614-b5ae-7dac69b0ee41.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/leonor.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "d667186e396da5c4623afef65b9a4d19b1f7014b08bc18146307ab8306ae4f9d",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:00:58.191761+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "d667186e396da5c4623afef65b9a4d19b1f7014b08bc18146307ab8306ae4f9d",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved candidate shows consistent tired young-adult face, braid and workbag across full front/rear and portrait; ordinary modern outfit remains art interpretation.",
+          "Exact name/title, no divine glow, broad matte paint with warm lobby light on opaque ivory; no scene, swatches or isolated hand studies."
+        ],
+        "specificationSha256": "6a854277ab93cf448cdcdc951bac82f7bffe5027d8a47e0acc4e73e3f597f1ae"
+      }
+    },
+    {
+      "id": "braulio",
+      "name": "Braulio",
+      "role": "Sixteen-year-old brother seeking ordinary friendships",
+      "form": "sixteen-year-old boy",
+      "selectionEvidence": [
+        {
+          "quote": "Braulio, sixteen and incapable of exhaustion",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Tall teenage brother, grew taller than Leonor, running friend and mobile phone; coat in lobby photograph.",
+      "visualInterpretation": [
+        "Art-only medium brown skin, slim tall adolescent build, curly black crop, long face, olive lightweight coat, grey T-shirt, blue jeans and running shoes."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:braulio",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Braulio\"; exact subtitle \"The One Who Gets Tired\". A 16-year-old BOY, age-appropriate tall lanky teenage proportions, medium brown skin, short curly black hair, long narrow face, matte brown eyes. Olive lightweight coat open over grey T-shirt, blue jeans, practical running shoes. Front holds an ordinary phone DOWN with dark blank screen; rear same. Large portrait slightly uncertain thoughtful expression. No adult muscular physique, no glow or god regalia.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:58:22.110960+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Braulio\"; exact subtitle \"The One Who Gets Tired\". A 16-year-old BOY, age-appropriate tall lanky teenage proportions, medium brown skin, short curly black hair, long narrow face, matte brown eyes. Olive lightweight coat open over grey T-shirt, blue jeans, practical running shoes. Front holds an ordinary phone DOWN with dark blank screen; rear same. Large portrait slightly uncertain thoughtful expression. No adult muscular physique, no glow or god regalia.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a857d547-d51f-42e4-b777-d055e76502ab.png",
+            "outputSha256": "92d8ca8b557e2e7d1cae4db2375f2109d7df895bbcedb633a3381d3f8153517c",
+            "finishedAt": "2026-09-24T15:00:59.390085+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels read as a tall lanky sixteen-year-old, not mature adult; phone down, coat and running shoes coherent; matching face and body proportions.",
+              "Exact name/title, public concealed-power state, broad matte oil with restrained lobby light on opaque ivory, no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-a857d547-d51f-42e4-b777-d055e76502ab.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/braulio.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "92d8ca8b557e2e7d1cae4db2375f2109d7df895bbcedb633a3381d3f8153517c",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:00:59.390110+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "92d8ca8b557e2e7d1cae4db2375f2109d7df895bbcedb633a3381d3f8153517c",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels read as a tall lanky sixteen-year-old, not mature adult; phone down, coat and running shoes coherent; matching face and body proportions.",
+          "Exact name/title, public concealed-power state, broad matte oil with restrained lobby light on opaque ivory, no scene/swatches."
+        ],
+        "specificationSha256": "4634d3b21d2dc3f395e990369c7d87ff07a9ea03e31ca2c2dd2db93628f86afc"
+      }
+    },
+    {
+      "id": "zulema",
+      "name": "Zulema",
+      "role": "Nine-year-old sister learning to sleep",
+      "form": "nine-year-old girl",
+      "selectionEvidence": [
+        {
+          "quote": "She was nine.",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Nine; tries to sleep, carries/wears cardigan, pale light beneath lashes can be hidden.",
+      "visualInterpretation": [
+        "Art-only medium brown skin, black shoulder-length hair in two low plaits, round face, plum cardigan over pale shirt, dark comfortable trousers and sneakers."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:zulema",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Zulema\"; exact subtitle \"The One Who Gets Tired\". A NINE-YEAR-OLD girl with child proportions, round face, medium brown skin, black shoulder-length hair in two low plaits. Plum knitted cardigan properly worn over pale cream shirt, dark comfortable trousers and small canvas sneakers. Full front/rear child views and matching large portrait, curious little smile, ordinary matte brown eyes, NO glow while hiding powers in public. Childlike fully clothed neutral standing poses, no doll adult body.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T14:58:23.215429+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Zulema\"; exact subtitle \"The One Who Gets Tired\". A NINE-YEAR-OLD girl with child proportions, round face, medium brown skin, black shoulder-length hair in two low plaits. Plum knitted cardigan properly worn over pale cream shirt, dark comfortable trousers and small canvas sneakers. Full front/rear child views and matching large portrait, curious little smile, ordinary matte brown eyes, NO glow while hiding powers in public. Childlike fully clothed neutral standing poses, no doll adult body.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c04f7651-3145-482e-a8f7-c775087cf307.png",
+            "outputSha256": "617fccc7742df236724d870dae6c6e2c7bab8c5a7b88dda6ae6335b5b04e9029",
+            "finishedAt": "2026-09-24T15:01:00.586045+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels preserve child proportions and curious nine-year-old face, same two plaits/cardigan across full forms and portrait; no active divine glow.",
+              "Exact name/title, age-appropriate fully clothed neutral poses, broad matte oil and warm lobby light, opaque ivory without scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c04f7651-3145-482e-a8f7-c775087cf307.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/zulema.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "617fccc7742df236724d870dae6c6e2c7bab8c5a7b88dda6ae6335b5b04e9029",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:01:00.586067+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "617fccc7742df236724d870dae6c6e2c7bab8c5a7b88dda6ae6335b5b04e9029",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels preserve child proportions and curious nine-year-old face, same two plaits/cardigan across full forms and portrait; no active divine glow.",
+          "Exact name/title, age-appropriate fully clothed neutral poses, broad matte oil and warm lobby light, opaque ivory without scene/swatches."
+        ],
+        "specificationSha256": "fedf02eb127641bcae125a877a329a9288dbcba15d0802e46f8d2279f4eb4886"
+      }
+    },
+    {
+      "id": "nelida",
+      "name": "Nélida",
+      "role": "Mother with lunar authority; public family role",
+      "form": "adult woman, divine identity Mamaquilla",
+      "selectionEvidence": [
+        {
+          "quote": "To our neighbors they were Nélida and Celso",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Mother, bracelet and skirt; can lay moonlight across palms but hiding divinity in public.",
+      "visualInterpretation": [
+        "Art-only middle-aged appearance, medium brown skin, long black braid, broad soft face, muted blue cardigan, cream blouse, calf-length charcoal skirt, sensible dark shoes."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:nelida",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Nélida\"; exact subtitle \"The One Who Gets Tired\". An adult mother with apparent age about40, medium brown skin, long black hair in thick braid, broad soft face, calm attentive dark eyes. Muted blue cardigan, cream blouse, modest calf-length charcoal skirt and practical dark shoes; one plain small bracelet. Same exact clothes and likeness in two full-body views and portrait. Exact heading \"Nélida\", tiny alias \"Mamaquilla\". Public cinema outing: no glow, moon disc, crown, ritual costume, or magic. Preserve ordinary parent presence.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:01:27.530443+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Nélida\"; exact subtitle \"The One Who Gets Tired\". An adult mother with apparent age about40, medium brown skin, long black hair in thick braid, broad soft face, calm attentive dark eyes. Muted blue cardigan, cream blouse, modest calf-length charcoal skirt and practical dark shoes; one plain small bracelet. Same exact clothes and likeness in two full-body views and portrait. Exact heading \"Nélida\", tiny alias \"Mamaquilla\". Public cinema outing: no glow, moon disc, crown, ritual costume, or magic. Preserve ordinary parent presence.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2dfedfc3-79df-4a20-b09c-799e2edb7f52.png",
+            "outputSha256": "39583475018b8a6caaca18e0bb049e0d94e85a80c4b98c10fe92869e37b01531",
+            "finishedAt": "2026-09-24T15:03:55.990414+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Saved pixels preserve one mature mother, matching long braid/face and skirt/bracelet public state; exact Nélida/Mamaquilla identity text and title.",
+              "Two complete forms and matching portrait; concealed powers, warm lobby light, broad matte oil on opaque ivory, no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-2dfedfc3-79df-4a20-b09c-799e2edb7f52.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/nelida.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "39583475018b8a6caaca18e0bb049e0d94e85a80c4b98c10fe92869e37b01531",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:03:55.990443+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "39583475018b8a6caaca18e0bb049e0d94e85a80c4b98c10fe92869e37b01531",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Saved pixels preserve one mature mother, matching long braid/face and skirt/bracelet public state; exact Nélida/Mamaquilla identity text and title.",
+          "Two complete forms and matching portrait; concealed powers, warm lobby light, broad matte oil on opaque ivory, no scene/swatches."
+        ],
+        "specificationSha256": "162671aae6eaa2ea2945402386d79eecf9062ff1885c35926eb98cbd20f1ea13"
+      }
+    },
+    {
+      "id": "celso",
+      "name": "Celso",
+      "role": "Attentive stepfather with solar authority",
+      "form": "adult man, divine identity Inti",
+      "selectionEvidence": [
+        {
+          "quote": "Celso could make the courtyard burn white with his presence.",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Father/stepfather; jacket folded to prevent melting chocolate; no active public divine display.",
+      "visualInterpretation": [
+        "Art-only middle-aged appearance, deep warm brown skin, close black curls, square friendly face, soft ochre shirt, charcoal trousers, brown shoes and dark teal jacket carried folded."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:celso",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Celso\"; exact subtitle \"The One Who Gets Tired\". An adult father with apparent age about40, deep warm brown skin, close black curls, broad square friendly face, ordinary brown eyes. Soft ochre buttoned shirt, charcoal trousers, brown shoes. Front carries a folded DARK TEAL JACKET over one forearm, tiny faint chocolate thumbprint on pale lining if visible. Rear wears same shirt. Large smiling matching portrait. Exact heading \"Celso\", tiny alias \"Inti\". Public ordinary state: no solar disk, fire, halo or ritual regalia.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:01:28.683900+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Celso\"; exact subtitle \"The One Who Gets Tired\". An adult father with apparent age about40, deep warm brown skin, close black curls, broad square friendly face, ordinary brown eyes. Soft ochre buttoned shirt, charcoal trousers, brown shoes. Front carries a folded DARK TEAL JACKET over one forearm, tiny faint chocolate thumbprint on pale lining if visible. Rear wears same shirt. Large smiling matching portrait. Exact heading \"Celso\", tiny alias \"Inti\". Public ordinary state: no solar disk, fire, halo or ritual regalia.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e5cba7fc-a00e-4341-85dc-bf86357bd1bb.png",
+            "outputSha256": "40d9d88b452b5f57325d2e5a1678441680c535a48ff3b5fd2ea86016fb613000",
+            "finishedAt": "2026-09-24T15:03:57.192809+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Saved pixels preserve one mature stepfather, matching broad face/curls, folded jacket with chocolate mark, ordinary public clothes; exact Celso/Inti/title.",
+              "Full forms and matching portrait, no solar effects; warm lobby light and broad matte oil on clean opaque ivory without scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e5cba7fc-a00e-4341-85dc-bf86357bd1bb.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/celso.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "40d9d88b452b5f57325d2e5a1678441680c535a48ff3b5fd2ea86016fb613000",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:03:57.192858+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "40d9d88b452b5f57325d2e5a1678441680c535a48ff3b5fd2ea86016fb613000",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Saved pixels preserve one mature stepfather, matching broad face/curls, folded jacket with chocolate mark, ordinary public clothes; exact Celso/Inti/title.",
+          "Full forms and matching portrait, no solar effects; warm lobby light and broad matte oil on clean opaque ivory without scene/swatches."
+        ],
+        "specificationSha256": "fe1ae6405ec4c0f73db5197e677d16235067448e8c13422bb08a82e7e0979014"
+      }
+    },
+    {
+      "id": "eusebio",
+      "name": "Eusebio",
+      "role": "Leonor's human father whose company lets her rest",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "His shirt was freshly ironed, his hair still wet at the temples.",
+          "explanation": "Source role or explicit appearance."
+        }
+      ],
+      "storyAppearance": "Human father, repair-shop work, freshly ironed shirt and damp temples; carries water bottle.",
+      "visualInterpretation": [
+        "Art-only middle-aged appearance, medium brown skin, straight dark hair greying at temples, narrow gentle face, pale blue shirt, dark trousers and worn loafers."
+      ],
+      "states": [
+        {
+          "name": "Cinema outing",
+          "description": "Public ordinary appearance in source matinee sequence; conceal divine abilities."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-one-who-gets-tired:eusebio",
+        "links": [],
+        "evidence": "Targeted universe/existing specs search found no related prior identity sheet; source family divine aliases recorded without importing mythology."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Eusebio\"; exact subtitle \"The One Who Gets Tired\". A middle-aged human man, medium brown skin, straight dark hair greying at temples, narrow gentle face, ordinary dark eyes, slight smile. Freshly ironed PALE BLUE collared shirt, dark trousers, worn brown loafers. Hair slightly wet at temples; front carries one ordinary clear water bottle low. Rear same shirt and proportions; large matching quiet kind portrait. No tool belt, magic or elaborate props.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T15:01:29.882919+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Image 2 supplies source CINEMA LOBBY warm electric overhead light; modest ochre lit planes with connected muted grey-violet shadows, no universal sunshine. Heading \"Eusebio\"; exact subtitle \"The One Who Gets Tired\". A middle-aged human man, medium brown skin, straight dark hair greying at temples, narrow gentle face, ordinary dark eyes, slight smile. Freshly ironed PALE BLUE collared shirt, dark trousers, worn brown loafers. Hair slightly wet at temples; front carries one ordinary clear water bottle low. Rear same shirt and proportions; large matching quiet kind portrait. No tool belt, magic or elaborate props.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+                "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+                "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-72dd9a61-0027-4506-add6-8798050428b8.png",
+            "outputSha256": "cf415ea51b870e80912f65e21cf8f261b15858bf24b9e0278739c309136ba230",
+            "finishedAt": "2026-09-24T15:03:58.389931+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Saved pixels preserve one human father, consistent narrow mature face/greying damp temples, ironed shirt and water bottle; exact Eusebio/title.",
+              "Two full forms and matching portrait, restrained warm lobby light, connected broad oil on opaque ivory without scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-72dd9a61-0027-4506-add6-8798050428b8.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-one-who-gets-tired/art/characters/eusebio.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "cf415ea51b870e80912f65e21cf8f261b15858bf24b9e0278739c309136ba230",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T15:03:58.389959+00:00",
+        "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2",
+        "outputSha256": "cf415ea51b870e80912f65e21cf8f261b15858bf24b9e0278739c309136ba230",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary shared broad matte oil brush rhythm only; not orchard subject/daylight",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-one-who-gets-tired/art/interiors/02-the-cinema-lobby.png",
+            "role": "Story public cinema lobby soft warm electric overhead lighting, retained cool connected shadows; no setting",
+            "sha256": "e1424712777fbd902146a94a53e0513c139989b12ca96326e4dbcf3c17bb6701",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Saved pixels preserve one human father, consistent narrow mature face/greying damp temples, ironed shirt and water bottle; exact Eusebio/title.",
+          "Two full forms and matching portrait, restrained warm lobby light, connected broad oil on opaque ivory without scene/swatches."
+        ],
+        "specificationSha256": "71f202e358d23c7961b21cf0c13367c24ae96edeb4759a2a0761df390da3c798"
+      }
+    }
+  ],
+  "sourceSha256": "a450f3195699f46d335dfe6b286202fd33e6027fb653935781e5318ac5e83fa2"
+}
