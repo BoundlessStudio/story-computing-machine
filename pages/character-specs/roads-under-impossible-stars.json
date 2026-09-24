@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "slug": "roads-under-impossible-stars",
+  "title": "Roads Under Impossible Stars",
+  "source": "stories/roads-under-impossible-stars/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose, prompt and review read. Keely viewpoint/time-reset agent and Hollis estranged friend/driver carry the whole roadside survival and relationship story.",
+  "excludedMinorCharacters": [],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "keely",
+      "name": "Keely",
+      "role": "Narrator with four-minute reset; prepares map routes and works through estrangement during desert stranding.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Keely",
+          "explanation": "Named focal character throughout complete story."
+        }
+      ],
+      "storyAppearance": {
+        "clothing": "Damp shirt, practical layers; spare hoodie at cold night final state.",
+        "equipment": [
+          "Folded printed map with three coloured routes",
+          "Phone"
+        ],
+        "anatomy": "No visible reset apparatus, aura or superhero traits."
+      },
+      "explicitCanon": [
+        "Non-canon story only; reset affects recent time, not a visible glowing power."
+      ],
+      "visualInterpretation": [
+        "Map source-unnamed left reference figure to Keely: brown jaw-length hair with loose bangs, warm tan skin, wine-red shirt, charcoal zip hoodie, worn blue jeans. Mapping is art interpretation rather than source physical fact.",
+        "Clearly adult late twenties/early thirties; no teen proportions."
+      ],
+      "states": [
+        {
+          "name": "Cold roadside night",
+          "description": "Hoodie over damp shirt; physically whole, map held naturally."
+        }
+      ],
+      "lighting": "Entire selected moment is cold desert night before dawn. Deep blue-grey connected shadows over face and fabric, broad small muted off-sheet flashlight-facing planes, no daytime exposed skin.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Keely"
+      },
+      "status": "completed",
+      "output": "stories/roads-under-impossible-stars/art/characters/keely.png",
+      "generation": {
+        "prompt": "Perform ONLY wristband-placement continuity repair on this exact sheet. Keep the FRONT full-body figure unchanged: its narrow red-and-blue wristbands are correctly on her anatomical LEFT wrist, on the viewer's RIGHT. In the REAR full-body figure (middle), REMOVE bands from viewer RIGHT wrist holding the phone (her anatomical RIGHT); restore its bare skin. Put those same bands on viewer LEFT wrist (her anatomical LEFT). In the lower-right MAP HAND CLOSE-UP, the view faces her chest: REMOVE bands from viewer LEFT wrist (anatomical RIGHT); put matching narrow bands on viewer RIGHT wrist (anatomical LEFT). No extra bands on either right wrist. Preserve identical face, hair, expressions, clothes, map, phone, hands and anatomy, composition, all dark pre-dawn shadow values and opaque oil paint. Keep exact Keely / Roads Under Impossible Stars typography and uniform ivory unchanged. Do not lighten faces or alter anything else.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e0e6ac0-6fe3-47ce-8d55-cb03d85ee81a.png",
+            "sha256": "20da41cca51c248e01c6a3f8ad06aa51f73bec2300512df555a1e73fd640ae75",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Keely\", subtitle \"Roads Under Impossible Stars\". ONE adult woman late twenties/early thirties, interpret LEFT BROWN-HAIRED woman in third original and fourth cover as Keely. Warm tan oval face, softly angular nose, brown jaw-length bob and messy straight fringe, dark eyes. Consistent normal adult proportions, observant tense expression then small rueful smile. Muted wine-red T-shirt, charcoal zip hoodie, worn BLUE jeans and practical dark trainers; her entire cold-night outfit in both full views, no glamour pose. Front three-quarter holding small folded paper road map with three unobtrusive route lines; rear three-quarter view with phone relaxed at side; one head closeup and one hand/map detail. No scene, car, cigarette, smoking, stars or visible time effects. She is the map/phone person; do not borrow companion blue hair or tattoos. The original light is too exposed: use fifth NIGHT painting for lowered exposure; night-dark connected BLUE-GREY face shadows, small subdued flashlight-facing flesh planes only. Ivory support remains light; no luminous outline. This is hours before sunrise, no warm daylight. Both complete shoes/hands and top of head fit.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-156eb078-3266-45e0-b6c3-ce0364749d3e.png",
+                "sha256": "14440a1ac626db98303fffa207fc3997fce77387925dd04a46691495a0a94267",
+                "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/roads-under-impossible-stars/title-image.jpg",
+                "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+                "inspected": true,
+                "sha256": "047b76055c1148163d6669421691988ca90ca03bb9e42940e6e34ad6ba12368e"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/roads-under-impossible-stars/art/landscapes/01-frost-in-the-desert-night.png",
+                "role": "Story-specific painted light and colour motivation only. No scenery.",
+                "inspected": true,
+                "sha256": "37ebdca977814d891be7bd069949580d72fb05a86afb02ec3e839546c7515d47"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references.",
+            "startedAt": "2026-09-24T04:24:31.509835+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8974204b-2eb0-4519-b1b7-e0c49632a0eb.png",
+            "outputSha256": "12c17c4c77a07c09db29a9015a4a4854a6bbd5550973d79b004e9d74c641c232",
+            "generatorReview": "Skin and map are overexposed for pre-dawn desert night."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:32:52.949206+00:00",
+            "prompt": "Use case: lighting-weather. Correct ONLY illumination/exposure of this existing Keely character sheet. Preserve exact name/title, all face shapes, brown bob, poses, clothing, anatomy, map/phone and uniformly LIGHT IVORY support. This story is a dark cold desert NIGHT, hours before dawn. Replace sunny peach skin on EVERY face, neck, hand and exposed knee with broad connected DARK BLUE-GREY / muted umber night-shadow planes, most of each face including neck and hands deep in shadow. Retain only a small dull neutral-cool flashlight-facing cheek/bridge plane so features remain legible; do not brighten the whole face. Map, clothes and hair also lose daytime brightness and share restrained nocturnal values. No orange edge, no blue luminous rim, no gold outline, no speckles or artificial glow. Shadows are large quiet painted masses, not separate bevelled chips. Keep original warm ivory empty background, paper texture, layout, entire complete bodies and every letter untouched. No scene or floor additions.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8974204b-2eb0-4519-b1b7-e0c49632a0eb.png",
+                "sha256": "12c17c4c77a07c09db29a9015a4a4854a6bbd5550973d79b004e9d74c641c232",
+                "inspected": true,
+                "role": "Immutable inspected actual candidate; targeted correction only."
+              }
+            ],
+            "reason": "Skin and map are overexposed for pre-dawn desert night.",
+            "preflight": "Candidate actual pixels compared with source; local correction feasible without changing identity or states.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e0e6ac0-6fe3-47ce-8d55-cb03d85ee81a.png",
+            "outputSha256": "20da41cca51c248e01c6a3f8ad06aa51f73bec2300512df555a1e73fd640ae75",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:39:04.674762+00:00",
+            "generatorReview": "Root: front bands are anatomical left but rear bands incorrectly switch to anatomical right. Actual inspection also finds map close-up bands at anatomical right; align all bands with established left wrist."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:40:38.964497+00:00",
+            "prompt": "Perform ONLY wristband-placement continuity repair on this exact sheet. Keep the FRONT full-body figure unchanged: its narrow red-and-blue wristbands are correctly on her anatomical LEFT wrist, on the viewer's RIGHT. In the REAR full-body figure (middle), REMOVE bands from viewer RIGHT wrist holding the phone (her anatomical RIGHT); restore its bare skin. Put those same bands on viewer LEFT wrist (her anatomical LEFT). In the lower-right MAP HAND CLOSE-UP, the view faces her chest: REMOVE bands from viewer LEFT wrist (anatomical RIGHT); put matching narrow bands on viewer RIGHT wrist (anatomical LEFT). No extra bands on either right wrist. Preserve identical face, hair, expressions, clothes, map, phone, hands and anatomy, composition, all dark pre-dawn shadow values and opaque oil paint. Keep exact Keely / Roads Under Impossible Stars typography and uniform ivory unchanged. Do not lighten faces or alter anything else.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e0e6ac0-6fe3-47ce-8d55-cb03d85ee81a.png",
+                "sha256": "20da41cca51c248e01c6a3f8ad06aa51f73bec2300512df555a1e73fd640ae75",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Root: front bands are anatomical left but rear bands incorrectly switch to anatomical right. Actual inspection also finds map close-up bands at anatomical right; align all bands with established left wrist.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-07f9ce8c-ce2b-4915-8ecf-5cb69d3a589c.png",
+            "outputSha256": "2cddb8e72def83fa6e3afa14b70cac994fa69bdc5456feac89b934f9476b8f13",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:57:12.441274+00:00",
+            "generatorReview": "Actual corrected pixels inspected: fixed wristbands consistently anatomical LEFT—front viewer right, rear viewer left, map detail viewer right. Former anatomical-right bands cleared in rear and map detail. Dark pre-dawn values, exact face/clothes/props, matte oil and ivory/typography unchanged; Hollis untouched."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references."
+      },
+      "outputSha256": "2cddb8e72def83fa6e3afa14b70cac994fa69bdc5456feac89b934f9476b8f13",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:57:12.441274+00:00",
+        "sourceSha256": "758528e0f63254906af25f14032481fbff70bcd61911d544adcdcb2aaf2c03d1",
+        "outputSha256": "2cddb8e72def83fa6e3afa14b70cac994fa69bdc5456feac89b934f9476b8f13",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e0e6ac0-6fe3-47ce-8d55-cb03d85ee81a.png",
+            "sha256": "20da41cca51c248e01c6a3f8ad06aa51f73bec2300512df555a1e73fd640ae75",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: fixed wristbands consistently anatomical LEFT—front viewer right, rear viewer left, map detail viewer right. Former anatomical-right bands cleared in rear and map detail. Dark pre-dawn values, exact face/clothes/props, matte oil and ivory/typography unchanged; Hollis untouched.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "573079a4399b2b60cce4ea0278305816cedabd50b89e9b85976fa1a73ca78357"
+      }
+    },
+    {
+      "id": "hollis",
+      "name": "Hollis",
+      "role": "Driver and estranged old friend who assesses route, coolant, supplies and shelter with Keely.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Hollis",
+          "explanation": "Named second main character throughout survival and final exchange."
+        }
+      ],
+      "storyAppearance": {
+        "clothing": "Practical travelling clothes and layers for cold desert night.",
+        "equipment": [
+          "Flashlight"
+        ],
+        "anatomy": "Earlier shoulder impact belongs to rewound time; final body uninjured."
+      },
+      "explicitCanon": [
+        "No retained shoulder injury in final selected state; no magical glow."
+      ],
+      "visualInterpretation": [
+        "Map source-unnamed blue-haired right reference figure to Hollis, adult30ish fair skin, dark eyebrows, short blue dyed hair with dark knit cap, patterned arm tattoos, grey graphic tank under borrowed warm zip hoodie, dark jeans. Mapping and exact clothing details are art interpretation."
+      ],
+      "states": [
+        {
+          "name": "Cold roadside night",
+          "description": "Layered for frost, flashlight in hand, shoulders uninjured."
+        }
+      ],
+      "lighting": "Same pre-dawn cold night as Keely; connected dark blue shadows, sparse broad flashlight-facing planes.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Hollis"
+      },
+      "status": "completed",
+      "output": "stories/roads-under-impossible-stars/art/characters/hollis.png",
+      "generation": {
+        "prompt": "Use case: lighting-weather. Change ONLY light/exposure of this existing Hollis character folio. Preserve face identity, blue bob under charcoal beanie, exact name/title, all positions and outfits, tattoos, flashlight, every full body, text and warm IVORY background. This is dark cold desert NIGHT HOURS BEFORE DAWN. Reduce all skin exposure substantially: every face and hand/neck/knee mostly broad connected DARK BLUE-GREY / muted brown shadow masses, with only a modest small neutral-cool flashlight-facing plane on cheek or nose. Blue hair is dim blue in night, never neon; grey tank loses bright white. No orange edging, no luminous blue rim, no gold outline, no little edge dots. Do not add sky, moon, car, scene, floor or stars. Keep ordinary uninjured body and all features exactly. Use large quiet oil shadow planes with a few opaque strokes, not glossy skin under chips. The light IVORY support stays unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f600e191-f9d9-4ef3-bcad-ee3d9d67a646.png",
+            "sha256": "9b24541b7d0d942bf2044bcb4e9894beaeb237949edca89830fa469b866ae0cc",
+            "inspected": true,
+            "role": "Immutable inspected actual candidate; targeted correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Hollis\", subtitle \"Roads Under Impossible Stars\". ONE adult woman around thirty, interpret RIGHT BLUE-HAIRED woman of third original/fourth cover as Hollis: fair skin, angular longer face than brown-haired friend, strong black eyebrows, short chin-level dyed BLUE hair under soft charcoal KNIT BEANIE; compact sturdy adult build. Grey skull-print travelling tank top, faded black jeans and sturdy dark ankle boots, source cold-night warm olive zip hoodie over tank. Front full view hoodie open with sleeves pushed slightly up, restrained dark patterned tattoos consistent on exposed forearms; rear three-quarter full view same outfit with sleeves down, small flashlight at side. Two restrained face/hand studies. Complete ordinary uninjured shoulders, no sling/bandage because shoulder impact was REWOUND. No cigarettes or smoking, no car, scenery or star display. FIRST2refs style/layout only, third/fourth blue-haired figure identity, fifth NIGHT painting light. Keep her blue hair dim blue, never neon. Night-dark connected blue-grey shadows on face and body, modest flashlight-facing dull flesh planes. Do NOT expose skin in daylight or add golden rim; ivory support stays light. She is practical, chilly and self-possessed, distinct from Keely.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-156eb078-3266-45e0-b6c3-ce0364749d3e.png",
+                "sha256": "14440a1ac626db98303fffa207fc3997fce77387925dd04a46691495a0a94267",
+                "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/roads-under-impossible-stars/title-image.jpg",
+                "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+                "inspected": true,
+                "sha256": "047b76055c1148163d6669421691988ca90ca03bb9e42940e6e34ad6ba12368e"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/roads-under-impossible-stars/art/landscapes/01-frost-in-the-desert-night.png",
+                "role": "Story-specific painted light and colour motivation only. No scenery.",
+                "inspected": true,
+                "sha256": "37ebdca977814d891be7bd069949580d72fb05a86afb02ec3e839546c7515d47"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references.",
+            "startedAt": "2026-09-24T04:24:31.509854+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f600e191-f9d9-4ef3-bcad-ee3d9d67a646.png",
+            "outputSha256": "9b24541b7d0d942bf2044bcb4e9894beaeb237949edca89830fa469b866ae0cc",
+            "generatorReview": "Skin is overexposed daylight despite source nighttime."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:32:52.952884+00:00",
+            "prompt": "Use case: lighting-weather. Change ONLY light/exposure of this existing Hollis character folio. Preserve face identity, blue bob under charcoal beanie, exact name/title, all positions and outfits, tattoos, flashlight, every full body, text and warm IVORY background. This is dark cold desert NIGHT HOURS BEFORE DAWN. Reduce all skin exposure substantially: every face and hand/neck/knee mostly broad connected DARK BLUE-GREY / muted brown shadow masses, with only a modest small neutral-cool flashlight-facing plane on cheek or nose. Blue hair is dim blue in night, never neon; grey tank loses bright white. No orange edging, no luminous blue rim, no gold outline, no little edge dots. Do not add sky, moon, car, scene, floor or stars. Keep ordinary uninjured body and all features exactly. Use large quiet oil shadow planes with a few opaque strokes, not glossy skin under chips. The light IVORY support stays unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f600e191-f9d9-4ef3-bcad-ee3d9d67a646.png",
+                "sha256": "9b24541b7d0d942bf2044bcb4e9894beaeb237949edca89830fa469b866ae0cc",
+                "inspected": true,
+                "role": "Immutable inspected actual candidate; targeted correction only."
+              }
+            ],
+            "reason": "Skin is overexposed daylight despite source nighttime.",
+            "preflight": "Candidate actual pixels compared with source; local correction feasible without changing identity or states.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-48e1e54b-f696-4790-8171-82eb85204c4a.png",
+            "outputSha256": "6045bb4f24f5452725479b6b5fc1225557f573326aa1600a65b5cad1a8af2458",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:39:04.698042+00:00",
+            "generatorReview": "Actual corrected pixels inspected. Blue bob/beanie and angular face repeat coherently across all views; arm tattoos/hoodie/jeans/flashlight compatible with recovered original and cold final night. Both shoulders whole, no retained rewound injury. Lowered nocturnal skin and clothing values have connected shadows without neon or orange edging. Full body/hand anatomy fit, exact text legible, character-only ivory."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references."
+      },
+      "outputSha256": "6045bb4f24f5452725479b6b5fc1225557f573326aa1600a65b5cad1a8af2458",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:39:04.698042+00:00",
+        "sourceSha256": "758528e0f63254906af25f14032481fbff70bcd61911d544adcdcb2aaf2c03d1",
+        "outputSha256": "6045bb4f24f5452725479b6b5fc1225557f573326aa1600a65b5cad1a8af2458",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f600e191-f9d9-4ef3-bcad-ee3d9d67a646.png",
+            "sha256": "9b24541b7d0d942bf2044bcb4e9894beaeb237949edca89830fa469b866ae0cc",
+            "inspected": true,
+            "role": "Immutable inspected actual candidate; targeted correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected. Blue bob/beanie and angular face repeat coherently across all views; arm tattoos/hoodie/jeans/flashlight compatible with recovered original and cold final night. Both shoulders whole, no retained rewound injury. Lowered nocturnal skin and clothing values have connected shadows without neon or orange edging. Full body/hand anatomy fit, exact text legible, character-only ivory.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "78d003eede303665bfca3346e8a09037cfde861505623ca82404f152c07b388f"
+      }
+    }
+  ],
+  "sourceSha256": "758528e0f63254906af25f14032481fbff70bcd61911d544adcdcb2aaf2c03d1",
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-156eb078-3266-45e0-b6c3-ce0364749d3e.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-156eb078-3266-45e0-b6c3-ce0364749d3e.png",
+      "sha256": "14440a1ac626db98303fffa207fc3997fce77387925dd04a46691495a0a94267",
+      "inspected": true,
+      "status": "recovered-and-inspected",
+      "role": "Original user image, compatible identities/wardrobe; source prose controls physical states and paint references control rendering.",
+      "recovery": {
+        "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+        "sourceSessionSha256": "86a3f28845c4bffe5bb654bf26744b50af3919603f52ad03e2a8b056d3d88a9f",
+        "line": 600
+      }
+    }
+  ]
+}
