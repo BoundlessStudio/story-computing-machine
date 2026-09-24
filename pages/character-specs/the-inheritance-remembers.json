@@ -1,0 +1,734 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-inheritance-remembers",
+  "title": "The Counted Road",
+  "source": "stories/the-inheritance-remembers/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Elsidra creates and tests new marks; Vaudessa tactile knowledge, Rovandis coordination and Caelumar answering choices sustain every rescue phase.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Flagger, demolition worker, crew lead, dispatch and road crews",
+      "reason": "Brief unnamed practical supporting roles; no sustained individualized arc beyond operational exchanges."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover/interiors have no human identities; all unstated faces/clothes are art choices.",
+    "Source exact names control headings: Elsidra, Rovandis and Caelumar have no surname in final prose; only Vaudessa Talwin uses full surname.",
+    "Living family supplies local working; iron spike, phones, light/paint/vehicles transmit not autonomously cast/hunt. No glowing eyes/runes or demonic form.",
+    "Cover/tool art has straight rings/channels; source square flattened head and hooked mortar-packed grooves control.",
+    "Final rescue is dim wet nightlike light, despite brighter subordinate daytime culvert painting."
+  ],
+  "characters": [
+    {
+      "id": "elsidra",
+      "name": "Elsidra",
+      "role": "Line painter coordinating the return",
+      "selectionEvidence": [
+        {
+          "quote": "Elsidra wore reflective orange",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "Rain rattled on her hard hat.",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "She crouched and put one glove on the fresh bar.",
+          "explanation": "Final source role/form evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult woman",
+        "lifeStage": "Adult unspecified",
+        "proportions": "Unspecified",
+        "markings": "Paint/rain work wear, no injury",
+        "materials": "Reflective orange fabric, work gloves, hard hat",
+        "clothing": "Reflective orange workwear, hard hat at late scene",
+        "equipment": "Hand sprayer, phone, safety line, flashlight, short sledge in sequence",
+        "scale": "Adult",
+        "movement": "Practical controlled steps/crouch, tests marks",
+        "distinctiveFeatures": "Agency ordinary working expertise, not independent magical equipment"
+      },
+      "explicitCanon": [
+        "Reflective ORANGE, workgloves, hardhat and safetyline at culvert.",
+        "Ordinary hand paint sprayer hose to rig in scene; no standalone magic gun.",
+        "Flashlight and short sledge used late; no claimed real-world safety certification."
+      ],
+      "visualInterpretation": [
+        "Art39, medium brown skin, long angular face with high cheeks, strong broad-tipped nose, darkbrown eyes, black hair in low practical braid, average tall wiry build.",
+        "Orange reflective waterproof jacket with silver bands over charcoal work trousers, blackbrown safety boots, WHITE hardhat, gray paint-speckled gloves.",
+        "Two full-body rain work states front/back, small uncovered-head portrait and ordinary sprayer/shortsledge details. Safetyline is worn work equipment; no rig/cones/road on sheet."
+      ],
+      "states": [
+        {
+          "name": "Wet line",
+          "description": "Complete front/back in reflective orange with white hardhat, wet gloves and practical equipment."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-inheritance-remembers:elsidra",
+        "links": [],
+        "evidence": "No corresponding shared-universe named identity. Familial connection local to source, not new canon."
+      },
+      "references": [
+        {
+          "path": "stories/the-inheritance-remembers/title-image.jpg",
+          "role": "Broken black iron spike material and rainy near-night light only",
+          "notes": "No human identities in cover; straight rings differ from prose hooked grooves, prose controls.",
+          "sha256": "8f5d329942fff75bcb6ec35d6918395f63e9eaebac2bf68386c3d0321babb53b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+          "role": "Matte oil material and subdued practical cab light; cardigan/flashlight context",
+          "notes": "No interior on sheets; straight decorative tool grooves subordinate to final prose hooks.",
+          "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/landscapes/04-larches-at-the-culvert.png",
+          "role": "Broad oil and rainy cool shadow, subordinate setting materials",
+          "notes": "Landscape brighter than final rescue; cover and source control darker rescue values, no scene copied.",
+          "sha256": "7c3e9d9c069ae1c4d6339e56323c5abc292e2e34eb9b56c55253ab62732ec3bc",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Elsidra"
+      },
+      "output": "stories/the-inheritance-remembers/art/characters/elsidra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:00:14.294564+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Elsidra, subtitle The Counted Road. One adult WOMAN modern line painter, age39 as art choice: medium BROWN skin, long ANGULAR face with high cheeks and strong broad-tipped nose, darkbrown eyes, black hair in a LOW PRACTICAL BRAID, average tall WIRY build. No fantasy costume or teenage/anime features. Her face and hands painted in broad opaque bristle/knife masses.\nReflective ORANGE waterproof work JACKET with restrained silver reflective bands, charcoal work TROUSERS, black-brown practical WORK BOOTS, WHITE ordinary HARD HAT, gray PAINT-SPECKLED WORK GLOVES. No logo, police/military marking or magical emblem. Silver bands only reflect a narrow external practical light, never self-glow. A plain work safetyline belt/harness with a short COILED safety tether is worn; not attached to scenery. One small ordinary phone in jacket pocket.\nTwo COMPLETE standing body views, frontthreequarter left and rear center, ordinary stable feet, matching silver bands/white hardhat and blackbraid at nape. Front holds a small ordinary HAND PAINT SPRAYER NOZZLE with visible hose connector, shown as handheld tool only, not connected to an off-image rig and not firing. Rear hands relaxed. Upper-right close head portrait with hardhat removed ONLY in this detail, wet dark hair/BROWN skin and tired controlled attention; no bright beauty light. Lower-right isolated simple SHORT SLEDGE, paint nozzle hardware if useful; caption Work tools. Labels Wet line, Back view. No detached hands, railings, rig, road, raincloud, trafficcones, puddle/ground patches, spray, cast floor shadow or swatches.\nLight is STORY-SPECIFIC rainy near-night, like the first reference: dominant CONNECTED COOL BLUE-GRAY/UMBER SHADOW across bodies, faces, gloves and orange cloth. Sparse narrow neutral/cool headlight strokes outline select planes, minimal reflected amber only on a few edges. Never broad warm golden studio fill or orange glowing faces. Ivory ground stays warm/quiet even while figures are dark. Thick matte directional paint builds all form, not fine photographic rain realism.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-inheritance-remembers/title-image.jpg",
+                "role": "Actual dim rainy near-night values only, no cover letters/road/spike",
+                "sha256": "8f5d329942fff75bcb6ec35d6918395f63e9eaebac2bf68386c3d0321babb53b",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+                "role": "Broad matte oil handling and small practical-light accents, not cab/scenery",
+                "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-89e3de48-6887-4977-b8f8-cec1ca6ba69c.png",
+            "outputSha256": "a1a49cda7ff3ef3696c19247523963a2cddb54bc5b92ac19e6d3a7e8a18de98b",
+            "reviewFindings": [
+              "Gray ground shadows/patches under both bodies violate ivory character-only brief; remove all.",
+              "Bright warm face and luminous orange jacket read as daylight/studio, not dim rainy near-night. Reconnect cool shadows and restrict reflected headlight planes; strengthen broad face/hand paint masses."
+            ],
+            "completedAt": "2026-09-24T10:04:25.646533+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:04:26.606861+00:00",
+            "prompt": "Revise FIRST Elsidra sheet in two ways, preserving all identity, poses, body construction, gear placement, exact text and warm ivory.\n1 REMOVE EVERY gray/brown GROUND MARK and cast shadow beneath BOTH full figures. Replace them with exactly the uninterrupted warm ivory field. Shoes fully intact, no setting or floor.\n2 LIGHT AND PAINT: this is dark RAINY NEAR-NIGHT, not daylight. Repaint faces, hardhats, hands, jacket, trousers and tools with dominant CONNECTED cool blue-gray/umber shadow, about 75% of surfaces in the shadow family. ORANGE safety jacket remains ORANGE material but dim RUST/BURNT ORANGE in shade, with only NARROW neutral/cool headlight lit planes and a few restrained silver-band reflections. WHITE hardhat mostly cool gray in shadow with one narrow chalk stroke. Brown skin must have cool dark connected cheek/brow/neck shadows and a few restrained cooler reflected face planes, NO golden beauty glow. Ivory BACKGROUND stays warm and light. SECOND image illustrates broad dark connected painted masses only; do NOT copy its person, clothing, blue fracture effect or labels.\nConstruct all skin/face/glove/hair form directly with BROAD OPAQUE MATTE bristle/knife masses, not smooth realism under tiny scratches. Preserve Elsidra's specific youthful-adult but mature angular brown face, black low braid and white hardhat, reflective orange rain PPE, harness/coiled safety tether, sprayer/shortsledge and complete poses. No new objects, rain scene, swatches or ground. Tool hose may stay exactly as before.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-89e3de48-6887-4977-b8f8-cec1ca6ba69c.png",
+                "role": "Edit target preserve identity/PPE/gear/poses/text",
+                "sha256": "a1a49cda7ff3ef3696c19247523963a2cddb54bc5b92ac19e6d3a7e8a18de98b",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1b447686-8b32-4cec-9d35-706d7a91738d.png",
+                "role": "Broad matte painted skin and strong dark connected-shadow example ONLY, no fantasy/person/clothes/light source transfer",
+                "sha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0fe34f3-af21-4105-a9cf-f46ca3933784.png",
+            "outputSha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:09:03.675084+00:00"
+          }
+        ],
+        "preflight": "Complete source/prompt/outline/review read; source overrides outline surname expansion and accessory interpretations. Actual cover and selected location pixels inspected. Night/rain values, laterality and one-identity complete framing checked.",
+        "prompt": "Revise FIRST Elsidra sheet in two ways, preserving all identity, poses, body construction, gear placement, exact text and warm ivory.\n1 REMOVE EVERY gray/brown GROUND MARK and cast shadow beneath BOTH full figures. Replace them with exactly the uninterrupted warm ivory field. Shoes fully intact, no setting or floor.\n2 LIGHT AND PAINT: this is dark RAINY NEAR-NIGHT, not daylight. Repaint faces, hardhats, hands, jacket, trousers and tools with dominant CONNECTED cool blue-gray/umber shadow, about 75% of surfaces in the shadow family. ORANGE safety jacket remains ORANGE material but dim RUST/BURNT ORANGE in shade, with only NARROW neutral/cool headlight lit planes and a few restrained silver-band reflections. WHITE hardhat mostly cool gray in shadow with one narrow chalk stroke. Brown skin must have cool dark connected cheek/brow/neck shadows and a few restrained cooler reflected face planes, NO golden beauty glow. Ivory BACKGROUND stays warm and light. SECOND image illustrates broad dark connected painted masses only; do NOT copy its person, clothing, blue fracture effect or labels.\nConstruct all skin/face/glove/hair form directly with BROAD OPAQUE MATTE bristle/knife masses, not smooth realism under tiny scratches. Preserve Elsidra's specific youthful-adult but mature angular brown face, black low braid and white hardhat, reflective orange rain PPE, harness/coiled safety tether, sprayer/shortsledge and complete poses. No new objects, rain scene, swatches or ground. Tool hose may stay exactly as before.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-89e3de48-6887-4977-b8f8-cec1ca6ba69c.png",
+            "role": "Edit target preserve identity/PPE/gear/poses/text",
+            "sha256": "a1a49cda7ff3ef3696c19247523963a2cddb54bc5b92ac19e6d3a7e8a18de98b",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1b447686-8b32-4cec-9d35-706d7a91738d.png",
+            "role": "Broad matte painted skin and strong dark connected-shadow example ONLY, no fantasy/person/clothes/light source transfer",
+            "sha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "lighting": "Dark rainy near-night with dominant connected cool shadow, sparse neutral headlight reflection, no orange warm studio light.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:09:03.675084+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+        "sourceSha256": "551662007ed5660ad2413816cf6e00a94d084ed533c97d16834cba182f7220df",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-89e3de48-6887-4977-b8f8-cec1ca6ba69c.png",
+            "role": "Edit target preserve identity/PPE/gear/poses/text",
+            "sha256": "a1a49cda7ff3ef3696c19247523963a2cddb54bc5b92ac19e6d3a7e8a18de98b",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1b447686-8b32-4cec-9d35-706d7a91738d.png",
+            "role": "Broad matte painted skin and strong dark connected-shadow example ONLY, no fantasy/person/clothes/light source transfer",
+            "sha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: adult angular brown face and low braid consistent in hardhat front/back and uncovered portrait; source orange reflective workwear/gloves/white art-choice hardhat and ordinary work tools intact.",
+          "Night correction connects cool dark skin/PPE shadows and limits orange lit planes; reflective bands remain material, not autonomous light. Broad matte oil forms.",
+          "All ground/shadow patches removed, complete shoes on uninterrupted ivory, no setting/swatches; exact name and story title. Safety tether and phone positioning coherent."
+        ],
+        "specificationSha256": "515becba2ce0bcacaf06b7cb3f33789195578f877b0b8cdcdf874ee7c25b96f5"
+      }
+    },
+    {
+      "id": "vaudessa-talwin",
+      "name": "Vaudessa Talwin",
+      "role": "Keeper of family threshold custom and tactile guide",
+      "selectionEvidence": [
+        {
+          "quote": "Vaudessa took it in both hands.",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "Vaudessa wrapped the spike in her cardigan.",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "collected both halves of the spike in a plastic paint tray without touching the grooves",
+          "explanation": "Final source role/form evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult woman",
+        "lifeStage": "Older adult interpretation, source adult",
+        "proportions": "Unspecified",
+        "markings": "Pale mortar leaves four white hooks on palms early",
+        "materials": "Living hands, cardigan, iron spike",
+        "clothing": "Cardigan used as wrap, other garments unspecified",
+        "equipment": "Forearm-length blackiron squareflattenedhead spike with hookedgrooves, ordinaryphone, lateplasticpainttray",
+        "scale": "Adult",
+        "movement": "Cramped hands and measured tactile attention",
+        "distinctiveFeatures": "No autonomous spike agency, no clairvoyant certainty"
+      },
+      "explicitCanon": [
+        "Both bare hands hold spike; cardigan wrap.",
+        "Spike forearm length, almostflattened squarehead, hookedgrooves packedpalemortar; darkens/pulls only through living family.",
+        "After breaking, TWO pieces in plasticpainttray, fingers avoidgrooves.",
+        "Source never provides exact age/face, tattoos or mystical attire."
+      ],
+      "visualInterpretation": [
+        "Art70 warmbrownskin broad oblong face, deep narrow cheeks and smallroundedchin, dark eyes, short soft silver-gray curls, sturdy slightstoop.",
+        "Plain darkbrown longsleeved blouse, darkgray anklelengthskirt, mattebrown flat shoes; OLIVE knittedcardigan removed and wrapped around spike.",
+        "Front holding cardigan/spike horizontal, rear3/4 holding plasticpainttray with exactly2brokenironpieces. Close face and small spike detail useful, no palm study needed."
+      ],
+      "states": [
+        {
+          "name": "Keeping the count",
+          "description": "Bare hands hold wrapped intact spike; dark matte iron, no self-light."
+        },
+        {
+          "name": "After return",
+          "description": "Two broken pieces in ordinary tray, avoids direct groove touch."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-inheritance-remembers:vaudessa-talwin",
+        "links": [],
+        "evidence": "No corresponding shared-universe named identity. Familial connection local to source, not new canon."
+      },
+      "references": [
+        {
+          "path": "stories/the-inheritance-remembers/title-image.jpg",
+          "role": "Broken black iron spike material and rainy near-night light only",
+          "notes": "No human identities in cover; straight rings differ from prose hooked grooves, prose controls.",
+          "sha256": "8f5d329942fff75bcb6ec35d6918395f63e9eaebac2bf68386c3d0321babb53b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+          "role": "Matte oil material and subdued practical cab light; cardigan/flashlight context",
+          "notes": "No interior on sheets; straight decorative tool grooves subordinate to final prose hooks.",
+          "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/landscapes/04-larches-at-the-culvert.png",
+          "role": "Broad oil and rainy cool shadow, subordinate setting materials",
+          "notes": "Landscape brighter than final rescue; cover and source control darker rescue values, no scene copied.",
+          "sha256": "7c3e9d9c069ae1c4d6339e56323c5abc292e2e34eb9b56c55253ab62732ec3bc",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Vaudessa Talwin"
+      },
+      "output": "stories/the-inheritance-remembers/art/characters/vaudessa-talwin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:09:04.780048+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Vaudessa Talwin, subtitle The Counted Road. One OLDER adult WOMAN age70 art interpretation, warm BROWN skin, broad OBLONG mature face with deep cheek hollows, small rounded chin, dark eyes, SHORT SOFT SILVER-GRAY CURLS (no longblackbraid), sturdy build and slight stoop. Deep mature brow/eye/jaw structure, not a young face under grayhair. Tactile attentive anxious expression. Same identity in front/rear3quarter/portrait.\nPlain dark BROWN long-sleeved BLOUSE, dark GRAY ankle-length skirt, matte brown FLAT SHOES. OLIVE KNITTED CARDIGAN is REMOVED and used as a wrap around an iron spike, not worn magically. No mystic robe, jewelry, tattoo, staff or halo.\nTwo full bodies: left caption Keeping the count, front holding an ordinary BLACK IRON SPIKE HORIZONTALLY in BOTH BARE HANDS with the olive cardigan bunched beneath. Spike LENGTH roughly HER FOREARM only, hammered almost-flat SQUARE HEAD at one end, pointed shaft at other, FOUR HOOKED GROOVE tracks visible along shaft packed with a little PALE MORTAR. Hook shapes are incised into dark metal, NOT straight bands/rings, not luminous runes. Her fingers touch grooves as source; no blood.\nCenter full rearthreequarter caption After return: SAME WOMAN with same blouse/skirt/shoes, olive cardigan folded over forearm, holds plain gray PLASTIC PAINT TRAY containing EXACTLY TWO BROKEN PIECES of that same spike. One piece has squarehead and shortshaft, other has pointedshaft, jagged break. Hands hold tray edges and AVOID grooves. No third whole spike in tray, no glow. Upper-right close portrait. Small lower-right side detail of intact spike only if useful, caption Threshold spike. Ordinary phone can stay in blouse pocket, no readable invented screen count.\nUse reference1 actual DARK paint values: most faces/hands/clothes in connected COOL BLUE-GRAY/UMBER shadow, sparse narrow practical flashlight reflection. No brightgolden fill, studio face shine or bright white cardigan. Warm ivory background stays light and empty. Broad opaque matte bristle planes shape skin, age and curls, not fine photo texture. No cab, road, floor, shadows/swatches or extra people.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0fe34f3-af21-4105-a9cf-f46ca3933784.png",
+                "role": "Primary matte oil rendering, dark rainy lighting and ivory layout only; no young face/hardhat/orange gear",
+                "sha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+                "role": "Olive knitted cardigan and ordinary iron/flashlight materials; source overrides straight grooves, no environment",
+                "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-64299b76-f4fa-4357-98dc-b08140b22a2c.png",
+            "outputSha256": "e82f092f28c61df6c97570b5d24e6180c52068f213a475dcf996c90d691f7f6d",
+            "reviewFindings": [
+              "Spike has raised wraparound ring/hook bands and thick boltlike head. Source requires incised hooked GROOVES packed mortar and almost-flat hammered square head. Correct spike in held form, two fragments and isolated detail only."
+            ],
+            "completedAt": "2026-09-24T10:14:03.796147+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:14:04.889893+00:00",
+            "prompt": "Correct ONLY the BLACK IRON SPIKE wherever it appears: held intact in left figure, EXACTLY TWO broken pieces in center tray, and isolated lower-right detail. Preserve every human/garment/tray/text/light/ivory pixel otherwise.\nThe current tool looks like raised hook-shaped bands welded around a thick bolt. Remove ALL raised wraparound rings, collars and separate applied metal bands. The correct spike is ONE simple forged dark iron SHAFT, roughly forearm length, tapered to a point, with shallow HOOK-SHAPED GROOVES CARVED/RECESSED into its surface. Exactly FOUR incised hook tracks may be visible, gently curving/winding along shaft; a little pale mortar is packed INSIDE those channels. Shaft silhouette stays mostly smooth: grooves subtract material, never jut out. Pale mortar should be narrow dirty ivory lines inside cuts, not glowing or raised cream decorations.\nSquare head must be a THIN hammered nearly-FLAT square plate, only slightly wider than shaft, not massive square/hexagonal bolt nut. Keep black matte rusty iron broad painted planes. Held spike remains same forearm-length scale. Tray still contains EXACTLY TWO pieces of same spike: shortheadpiece and pointedshaftpiece with jagged split. No extra wholetool there. Keep tools physical, no self-light, no magical runes/laser. Preserve Vaudessa's mature face, gray curls, cardigan wrapped/overforearm, brown blouse, gray skirt, both hands correctly holdingtrayedges in aftermath, broad dark oil and uninterrupted ivory.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-64299b76-f4fa-4357-98dc-b08140b22a2c.png",
+                "role": "Only spike geometry revision in all occurrences; person/tray/cardigan/text fixed",
+                "sha256": "e82f092f28c61df6c97570b5d24e6180c52068f213a475dcf996c90d691f7f6d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a1a11673-6bbd-4b31-9f83-71a1edafcbc9.png",
+            "outputSha256": "484a06648621bb5c2278e562535ba52125ecb1c8a9335d5107ce568ee6f696d6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:18:18.990337+00:00"
+          }
+        ],
+        "preflight": "Complete source/prompt/outline/review read; source overrides outline surname expansion and accessory interpretations. Actual cover and selected location pixels inspected. Night/rain values, laterality and one-identity complete framing checked.",
+        "prompt": "Correct ONLY the BLACK IRON SPIKE wherever it appears: held intact in left figure, EXACTLY TWO broken pieces in center tray, and isolated lower-right detail. Preserve every human/garment/tray/text/light/ivory pixel otherwise.\nThe current tool looks like raised hook-shaped bands welded around a thick bolt. Remove ALL raised wraparound rings, collars and separate applied metal bands. The correct spike is ONE simple forged dark iron SHAFT, roughly forearm length, tapered to a point, with shallow HOOK-SHAPED GROOVES CARVED/RECESSED into its surface. Exactly FOUR incised hook tracks may be visible, gently curving/winding along shaft; a little pale mortar is packed INSIDE those channels. Shaft silhouette stays mostly smooth: grooves subtract material, never jut out. Pale mortar should be narrow dirty ivory lines inside cuts, not glowing or raised cream decorations.\nSquare head must be a THIN hammered nearly-FLAT square plate, only slightly wider than shaft, not massive square/hexagonal bolt nut. Keep black matte rusty iron broad painted planes. Held spike remains same forearm-length scale. Tray still contains EXACTLY TWO pieces of same spike: shortheadpiece and pointedshaftpiece with jagged split. No extra wholetool there. Keep tools physical, no self-light, no magical runes/laser. Preserve Vaudessa's mature face, gray curls, cardigan wrapped/overforearm, brown blouse, gray skirt, both hands correctly holdingtrayedges in aftermath, broad dark oil and uninterrupted ivory.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-64299b76-f4fa-4357-98dc-b08140b22a2c.png",
+            "role": "Only spike geometry revision in all occurrences; person/tray/cardigan/text fixed",
+            "sha256": "e82f092f28c61df6c97570b5d24e6180c52068f213a475dcf996c90d691f7f6d",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "lighting": "Dim cool rainy near-night, restrained ordinary reflections, matte iron.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "484a06648621bb5c2278e562535ba52125ecb1c8a9335d5107ce568ee6f696d6",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:18:18.990337+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "484a06648621bb5c2278e562535ba52125ecb1c8a9335d5107ce568ee6f696d6",
+        "sourceSha256": "551662007ed5660ad2413816cf6e00a94d084ed533c97d16834cba182f7220df",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-64299b76-f4fa-4357-98dc-b08140b22a2c.png",
+            "role": "Only spike geometry revision in all occurrences; person/tray/cardigan/text fixed",
+            "sha256": "e82f092f28c61df6c97570b5d24e6180c52068f213a475dcf996c90d691f7f6d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: older mature brown face/silver curls consistent across bodies/portrait, bare hands and removed olive cardigan as wrap, ordinary brown blouse/gray skirt.",
+          "Intact forearm-length iron spike corrected to smooth shaft silhouette with four recessed hooked/crescent tracks containing pale mortar and thinner square head; no raised ring-bands or glow. Tray holds exactly two broken same-tool pieces, hands on tray rim.",
+          "Rainy dark connected cool shadows and matte opaque face/hand/cloth paint, exact heading/title and separate state labels, full bodies on clear warm ivory no scenery/ground/swatches."
+        ],
+        "specificationSha256": "557a2730a426a88b9ec4ce6e18c0dc27fdecf775c0d8967a578dc30860375153"
+      }
+    },
+    {
+      "id": "rovandis",
+      "name": "Rovandis",
+      "role": "Parcel driver and Caelumar's father",
+      "selectionEvidence": [
+        {
+          "quote": "His parcel scan has no destination.",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "Rovandis wrapped Caelumar's ankle.",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "Rovandis caught the back of his jacket and kept hold of it.",
+          "explanation": "Final source role/form evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man",
+        "lifeStage": "Father of youngcourier, adult",
+        "proportions": "Unspecified",
+        "markings": "No injury specified",
+        "materials": "Ordinary delivery clothes",
+        "clothing": "Clothes unspecified",
+        "equipment": "Parcel scanner, keys, phones, ordinary flashlight; bandage for son late",
+        "scale": "Adult",
+        "movement": "Urgency then waiting discipline",
+        "distinctiveFeatures": "Father remains recognizing son; routes lost, not personhood"
+      },
+      "explicitCanon": [
+        "Father and parceldriver, practical scanner/keys/phone objects.",
+        "No company named; no real-logo uniform.",
+        "No independenttechmagic, no navigatorhologram."
+      ],
+      "visualInterpretation": [
+        "Art44, mediumbrownskin broad rectangular face and roundedbroadnose, darkeyes, close blackhair with recedingtemples, short roughstubble, solidstockybuild; relatednoseecho toElsidra but clearlydifferent geometry.",
+        "Plain mutedNAVY waterproof deliveryjacket, beige polo, charcoaltrousers, wornblackshoes. No orange highvisibility stolen fromElsidra.",
+        "Front holding scanner and keyfob, rear neutral; phone/flashlight atbelt as ordinarysmallgear; no van/interior/secondperson."
+      ],
+      "states": [
+        {
+          "name": "Waiting for the flash",
+          "description": "Wet delivery clothes, held scanner/keys and tense attentive posture."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-inheritance-remembers:rovandis",
+        "links": [],
+        "evidence": "No corresponding shared-universe named identity. Familial connection local to source, not new canon."
+      },
+      "references": [
+        {
+          "path": "stories/the-inheritance-remembers/title-image.jpg",
+          "role": "Broken black iron spike material and rainy near-night light only",
+          "notes": "No human identities in cover; straight rings differ from prose hooked grooves, prose controls.",
+          "sha256": "8f5d329942fff75bcb6ec35d6918395f63e9eaebac2bf68386c3d0321babb53b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+          "role": "Matte oil material and subdued practical cab light; cardigan/flashlight context",
+          "notes": "No interior on sheets; straight decorative tool grooves subordinate to final prose hooks.",
+          "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/landscapes/04-larches-at-the-culvert.png",
+          "role": "Broad oil and rainy cool shadow, subordinate setting materials",
+          "notes": "Landscape brighter than final rescue; cover and source control darker rescue values, no scene copied.",
+          "sha256": "7c3e9d9c069ae1c4d6339e56323c5abc292e2e34eb9b56c55253ab62732ec3bc",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Rovandis"
+      },
+      "output": "stories/the-inheritance-remembers/art/characters/rovandis.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:18:19.930906+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Rovandis, subtitle The Counted Road. One modern adult MALE parcel driver/father, age44 art choice. MEDIUM BROWN skin, BROAD RECTANGULAR face with wide strong jaw, ROUNDED BROAD NOSE, darkbrown eyes, CLOSE black hair receding at both temples, short rough black STUBBLE, SOLID STOCKY build. A slight family nose resemblance to reference woman is okay but clearly a distinct male mature broadface, no braid, no hardhat. Face/hand planes actual broad opaque matte bristle masses.\nOrdinary muted NAVY waterproof DELIVERY JACKET, plain BEIGE polo shirt, CHARCOAL trousers, worn BLACK work SHOES. No brand/logo/badge, no orange PPE/reflective bands, no hat, no fantasy armor. Rain-darkened cloth. Front left complete body holding a small ordinary PARCEL SCANNER in right hand and simple car KEYFOB in left, strained attentive posture, shoulders slightly forward. Center complete rear view same jacket/short hair and natural relaxed hands; equipment visible as ordinary small hand props. Upperright portrait worried and listening. Lower-right small isolated ordinary BLACK FLASHLIGHT beside PHONE, both unbranded, no readable artificial screen data or magical glow. Labels Waiting for the flash, Back view, Ordinary tools. Do not include another person's body, van/cab, road, floor or ground shadows.\nUse reference's actual DARK rainy near-night values, NOT warm studio: most face/jacket/hands in connected cool blue-gray/umber shadow, only narrow sparse practical headlight reflections, skin stays brown not orangeglow. Warm ivory background. Broad matte paint, selective restrained impasto, no realistic slick skin/CGI texture. One identity, complete unclipped bodies.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0fe34f3-af21-4105-a9cf-f46ca3933784.png",
+                "role": "Actual subdued rain values and matte oil style; familial nose echo only, not woman's face/PPE",
+                "sha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-6d6dc5d1-53a1-4d23-95c9-0d4f1798055d.png",
+            "outputSha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:24:51.869095+00:00"
+          }
+        ],
+        "preflight": "Complete source/prompt/outline/review read; source overrides outline surname expansion and accessory interpretations. Actual cover and selected location pixels inspected. Night/rain values, laterality and one-identity complete framing checked.",
+        "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Rovandis, subtitle The Counted Road. One modern adult MALE parcel driver/father, age44 art choice. MEDIUM BROWN skin, BROAD RECTANGULAR face with wide strong jaw, ROUNDED BROAD NOSE, darkbrown eyes, CLOSE black hair receding at both temples, short rough black STUBBLE, SOLID STOCKY build. A slight family nose resemblance to reference woman is okay but clearly a distinct male mature broadface, no braid, no hardhat. Face/hand planes actual broad opaque matte bristle masses.\nOrdinary muted NAVY waterproof DELIVERY JACKET, plain BEIGE polo shirt, CHARCOAL trousers, worn BLACK work SHOES. No brand/logo/badge, no orange PPE/reflective bands, no hat, no fantasy armor. Rain-darkened cloth. Front left complete body holding a small ordinary PARCEL SCANNER in right hand and simple car KEYFOB in left, strained attentive posture, shoulders slightly forward. Center complete rear view same jacket/short hair and natural relaxed hands; equipment visible as ordinary small hand props. Upperright portrait worried and listening. Lower-right small isolated ordinary BLACK FLASHLIGHT beside PHONE, both unbranded, no readable artificial screen data or magical glow. Labels Waiting for the flash, Back view, Ordinary tools. Do not include another person's body, van/cab, road, floor or ground shadows.\nUse reference's actual DARK rainy near-night values, NOT warm studio: most face/jacket/hands in connected cool blue-gray/umber shadow, only narrow sparse practical headlight reflections, skin stays brown not orangeglow. Warm ivory background. Broad matte paint, selective restrained impasto, no realistic slick skin/CGI texture. One identity, complete unclipped bodies.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0fe34f3-af21-4105-a9cf-f46ca3933784.png",
+            "role": "Actual subdued rain values and matte oil style; familial nose echo only, not woman's face/PPE",
+            "sha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "lighting": "Rainy near-night, coolblue/umber shadows and narrow ordinary headlights/cab reflections.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:24:51.869095+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+        "sourceSha256": "551662007ed5660ad2413816cf6e00a94d084ed533c97d16834cba182f7220df",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0fe34f3-af21-4105-a9cf-f46ca3933784.png",
+            "role": "Actual subdued rain values and matte oil style; familial nose echo only, not woman's face/PPE",
+            "sha256": "b9558fdabfa7114e0f8b4816956f93ca1e4a4ef6d369216e3bc8f1ea758ca192",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: distinct adult stocky father, broad rectangular brown face, receding black hair/rough stubble, same front/back/portrait identity.",
+          "Ordinary navy delivery clothes, beige polo and dark workwear, no logo/PPE borrowed. RIGHT scanner and LEFT keyfob consistent front and rear; ordinary unlit flashlight/phone details.",
+          "Subdued rainy-night values and connected cool shadow, broad matte painted faces/hands, complete shoes, exact text on ivory without setting/ground/swatches."
+        ],
+        "specificationSha256": "60fcd3a4a36b6cf5cd8448a08b4c9d2d6ed5d736c55ffbe05b7738c759e99f4e"
+      }
+    },
+    {
+      "id": "caelumar",
+      "name": "Caelumar",
+      "role": "Courier and active target of the counted-road working",
+      "selectionEvidence": [
+        {
+          "quote": "hair blown across one eye, knee muddy, smile impatient with the camera",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "soaked to the skin",
+          "explanation": "Final source role/form evidence"
+        },
+        {
+          "quote": "Left ankle. Not bad.",
+          "explanation": "Final source role/form evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Young male courier",
+        "lifeStage": "Young adult art20, source no exactage",
+        "proportions": "Unspecified",
+        "markings": "Mud on knee in photograph; minor LEFT ankle pain late, subsequently wrapped",
+        "materials": "Living body remains present, soakedclothing",
+        "clothing": "Jacket, bag, other clothing unspecified",
+        "equipment": "Deliverybike with lights, sparebattery, chargerbag, greenbottle, phone",
+        "scale": "Youngadult",
+        "movement": "Stops/answers, walks bike back, final minoranklepain",
+        "distinctiveFeatures": "Not fading/erased person; only inherited routes fail"
+      },
+      "explicitCanon": [
+        "Hair acrossoneeye, jacket soaked atreturn.",
+        "LEFT ankle minorhurt thenwrapped; no brokenlimb/bloodywound/diagnosis.",
+        "Ordinary bike gear/bag and remembered greenbottle, identity remains physicallypresent.",
+        "Source no mandatoryhelmet detail; omit invented helmet."
+      ],
+      "visualInterpretation": [
+        "Art20 mediumbronzetan skin, narrow youthfulface and roundednose, darkbrowneyes, thick wavyblackhair longfringe acrossoneeye, slimaverageheight.",
+        "Plain deepTEAL nylon courierjacket over charcoalshirt, darkgrayjeans, offwhite dirtied sneakers; blackmessengerbag strap RIGHTshoulder to LEFThip, worn greenbottle inleftbagpocket.",
+        "Two complete states drydeparture and wetreturn with LEFTpantcuffrolled to showplainanklewrap, leftsneaker loosened butstillworn, no severeinjury. Small battery/bottle props; wholebike omitted tokeep characterfocus."
+      ],
+      "states": [
+        {
+          "name": "Last out",
+          "description": "Dry courier with bag/sparebattery, ordinary uninjured ankle."
+        },
+        {
+          "name": "Returned",
+          "description": "Soaked sameperson, minorLEFTankle wrapped and pantcuffrolled, bag unchanged, not translucent."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-inheritance-remembers:caelumar",
+        "links": [],
+        "evidence": "No corresponding shared-universe named identity. Familial connection local to source, not new canon."
+      },
+      "references": [
+        {
+          "path": "stories/the-inheritance-remembers/title-image.jpg",
+          "role": "Broken black iron spike material and rainy near-night light only",
+          "notes": "No human identities in cover; straight rings differ from prose hooked grooves, prose controls.",
+          "sha256": "8f5d329942fff75bcb6ec35d6918395f63e9eaebac2bf68386c3d0321babb53b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
+          "role": "Matte oil material and subdued practical cab light; cardigan/flashlight context",
+          "notes": "No interior on sheets; straight decorative tool grooves subordinate to final prose hooks.",
+          "sha256": "3560bcc10dc296cd6d39ec66ff33f95bf44bfdef16cd910b63d6b54f055dad52",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-inheritance-remembers/art/landscapes/04-larches-at-the-culvert.png",
+          "role": "Broad oil and rainy cool shadow, subordinate setting materials",
+          "notes": "Landscape brighter than final rescue; cover and source control darker rescue values, no scene copied.",
+          "sha256": "7c3e9d9c069ae1c4d6339e56323c5abc292e2e34eb9b56c55253ab62732ec3bc",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Caelumar"
+      },
+      "output": "stories/the-inheritance-remembers/art/characters/caelumar.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:24:52.854887+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Caelumar, subtitle The Counted Road. One young MALE courier, age20 art choice, medium BRONZE-TAN skin, NARROW YOUTHFUL face with rounded broad-tipped nose, darkbrown eyes, thick WAVY BLACK HAIR with long fringe blown across ONE EYE, no beard or moustache, SLIM averageheight body. Son of reference man, a light inherited nose echo but distinct narrow youthful clean-shaven face and longfringe. Never a child or older stocky father. Broad opaque painted anatomy.\nOrdinary DEEP TEAL nylon courier JACKET over charcoal shirt, darkgray jeans, dirty OFF-WHITE sneakers. BLACK MESSENGER BAG at anatomical LEFT HIP with diagonal strap from anatomical RIGHT SHOULDER to LEFT HIP. Worn GREEN BOTTLE in outside pocket of that LEFT bag. Plain no logo. No orange PPE, armor, magic runes or supernatural translucent body.\nTWO COMPLETE FRONT/threequarter bodies. Left caption Last out: young man dry in gray storm-overcast light, slightly impatient smile, hair across one eye, ordinary spare black rectangular E-BIKE BATTERY held in right hand (a portable battery pack, no gun). Both pantcuffs down, ordinary sneakers, no ankleinjury. Bag strap rightshoulder tolefthip visible, green bottle inleftbag pocket.\nCenter caption Returned: EXACT same young man wet and exhausted but physically whole, rain-darkened teal jacket, same strap/bag/bottle; arms relaxed empty hands. MINOR LEFT ANKLE injury has now been wrapped by father: anatomical LEFT trouser cuff (viewer RIGHT leg in front view) rolled only just above ankle, plain modest white soft wrap visible ABOVE loosened LEFT sneaker. Right pantcuff/shoe unchanged. No blood, fracture, big cast, crutches or severe wound. Late dim near-night, dominant connected cool blue-gray/umber shadows, sparse ordinary headlight strokes; no golden beauty light.\nUpper-right close portrait with same wet fringe/one partly hidden eye and relieved fatigue; lower-right small isolated ordinary green bottle and sparebattery if useful, caption Courier gear. Entire bike/road/van/otherpeople omitted; no scene/ground/shadow/swatches. Warm ivory stays light, full bodies unclipped, exact readable text. Matte broad knife/bristle paint must form face, hands and cloth directly, not CG/photo under fine surface texture.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-6d6dc5d1-53a1-4d23-95c9-0d4f1798055d.png",
+                "role": "Actual family father nose echo and matte dark-rain rendering only; must create distinct YOUNG slim son, not same face younger texture",
+                "sha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-18c9a5ef-6371-44c0-8746-81c12efd4f5e.png",
+            "outputSha256": "08e0fae42dfaeee43a122527e03128ff6e0fdf78e43aa826a7d9798fc0a079d4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:28:55.024832+00:00"
+          }
+        ],
+        "preflight": "Complete source/prompt/outline/review read; source overrides outline surname expansion and accessory interpretations. Actual cover and selected location pixels inspected. Night/rain values, laterality and one-identity complete framing checked.",
+        "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Caelumar, subtitle The Counted Road. One young MALE courier, age20 art choice, medium BRONZE-TAN skin, NARROW YOUTHFUL face with rounded broad-tipped nose, darkbrown eyes, thick WAVY BLACK HAIR with long fringe blown across ONE EYE, no beard or moustache, SLIM averageheight body. Son of reference man, a light inherited nose echo but distinct narrow youthful clean-shaven face and longfringe. Never a child or older stocky father. Broad opaque painted anatomy.\nOrdinary DEEP TEAL nylon courier JACKET over charcoal shirt, darkgray jeans, dirty OFF-WHITE sneakers. BLACK MESSENGER BAG at anatomical LEFT HIP with diagonal strap from anatomical RIGHT SHOULDER to LEFT HIP. Worn GREEN BOTTLE in outside pocket of that LEFT bag. Plain no logo. No orange PPE, armor, magic runes or supernatural translucent body.\nTWO COMPLETE FRONT/threequarter bodies. Left caption Last out: young man dry in gray storm-overcast light, slightly impatient smile, hair across one eye, ordinary spare black rectangular E-BIKE BATTERY held in right hand (a portable battery pack, no gun). Both pantcuffs down, ordinary sneakers, no ankleinjury. Bag strap rightshoulder tolefthip visible, green bottle inleftbag pocket.\nCenter caption Returned: EXACT same young man wet and exhausted but physically whole, rain-darkened teal jacket, same strap/bag/bottle; arms relaxed empty hands. MINOR LEFT ANKLE injury has now been wrapped by father: anatomical LEFT trouser cuff (viewer RIGHT leg in front view) rolled only just above ankle, plain modest white soft wrap visible ABOVE loosened LEFT sneaker. Right pantcuff/shoe unchanged. No blood, fracture, big cast, crutches or severe wound. Late dim near-night, dominant connected cool blue-gray/umber shadows, sparse ordinary headlight strokes; no golden beauty light.\nUpper-right close portrait with same wet fringe/one partly hidden eye and relieved fatigue; lower-right small isolated ordinary green bottle and sparebattery if useful, caption Courier gear. Entire bike/road/van/otherpeople omitted; no scene/ground/shadow/swatches. Warm ivory stays light, full bodies unclipped, exact readable text. Matte broad knife/bristle paint must form face, hands and cloth directly, not CG/photo under fine surface texture.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-6d6dc5d1-53a1-4d23-95c9-0d4f1798055d.png",
+            "role": "Actual family father nose echo and matte dark-rain rendering only; must create distinct YOUNG slim son, not same face younger texture",
+            "sha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "lighting": "Early gray storm-overcast; late dark rainy near-night with narrow practical headlight reflections.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "08e0fae42dfaeee43a122527e03128ff6e0fdf78e43aa826a7d9798fc0a079d4",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:28:55.024832+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "08e0fae42dfaeee43a122527e03128ff6e0fdf78e43aa826a7d9798fc0a079d4",
+        "sourceSha256": "551662007ed5660ad2413816cf6e00a94d084ed533c97d16834cba182f7220df",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-6d6dc5d1-53a1-4d23-95c9-0d4f1798055d.png",
+            "role": "Actual family father nose echo and matte dark-rain rendering only; must create distinct YOUNG slim son, not same face younger texture",
+            "sha256": "f0aae8e3c2733b61cce1a5c13b40666813690accdf563e31adfcdb3b07dc3e61",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: consistent young clean-shaven narrow face, long wet black fringe across one eye, slim body; physically whole and present in both source states.",
+          "Dry departure versus rain-darkened return; LEFT ankle wrap and LEFT cuff rolled only late, both sneakers remain. Right shoulder to LEFT hip bag/bottle repeated correctly; ordinary spare battery and worn green bottle, no whole bike/scenery.",
+          "Gray early light and darker wet return on ivory; broad opaque matte face/hand/cloth paint, exact names/states, complete unclipped bodies, no ground/swatches."
+        ],
+        "specificationSha256": "5ddeadf7692f55cf34e8077dcbf5b7a13f88f58ed20bcbf7abc35d52ecf2f8be"
+      }
+    }
+  ],
+  "sourceSha256": "551662007ed5660ad2413816cf6e00a94d084ed533c97d16834cba182f7220df"
+}
