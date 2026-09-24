@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-the-wind-wanted",
+  "title": "What the Wind Wanted",
+  "source": "stories/what-the-wind-wanted/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Zerune plus two explicitly speaking living currents carry the central negotiation and meeting. Named artwork identities do not rename source or imply humanoid forms.",
+  "excludedMinorCharacters": "Fishmonger, sister, market people, cousins, grandmother and ordinary nonspeaking wind are minor/backstory/non-agentic. The book is ordinary material.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "zerune",
+      "name": "Zerune",
+      "role": "Human viewpoint reader and guide who carries the breeze through cold tunnel",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "She was thirty-two",
+          "explanation": "Human viewpoint reader and guide who carries the breeze through cold tunnel"
+        }
+      ],
+      "storyAppearance": {
+        "description": "32-year-old woman with headscarf, shoulder bag, stockings, unsuitable market shoes; book/flask/scarf in bag at tunnelcrossing. Only understands all languages, cannot automatically produce them. Cover olive face and dark wavy hair/teal scarf compatible."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Warm olive face, dark wavy loosely tied hair amber-brown eyes from cover, simple cream sleeved blouse, rust long skirt dark stockings brown low shoes, teal headscarf and brown shoulderbag."
+      ],
+      "states": [
+        {
+          "name": "Market departure before scarf removed",
+          "description": "32-year-old woman with headscarf, shoulder bag, stockings, unsuitable market shoes; book/flask/scarf in bag at tunnelcrossing. Only understands all languages, cannot automatically produce them. Cover olive face and dark wavy hair/teal scarf compatible."
+        }
+      ],
+      "lighting": "Warm afternoon sun, broad ochre highlights cool purple-olive shadows, natural no language aura.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Zerune"
+      },
+      "status": "completed",
+      "output": "stories/what-the-wind-wanted/art/characters/zerune.png",
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit ONLY the brown shoulder-bag strap in the LEFT / FRONT full-body figure of this exact Zerune sheet. Keep the bag at its existing image-left hip, her anatomical RIGHT hip. Remove the current vertical strap on image-left shoulder. Replace it with ONE CROSSBODY strap beginning at image-right shoulder, her anatomical LEFT shoulder, descending diagonally across her cream blouse toward the existing bag at image-left hip. The closed book and her forearms naturally hide the middle portion of that strap. This now matches the already correct REAR figure's left-shoulder-to-right-hip diagonal. Do not change the REAR figure or either bag. Preserve all faces, hair, teal scarf, book, blouse, rust skirt, shoes, anatomy, painted surfaces, every other study and exact text. No new props, no other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-03b2b271-8b3a-4994-84b2-0f273978d2cc.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "9f9a8b72aa923c2f9680955a10c5c738827c81c762aabdc77dd6c61721d66faa"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Zerune; exact subtitle What the Wind Wanted. Zerune EXACT32 adult woman, cover-derived warm olive oval face, prominent gently rounded nose, dark wavy loosely tied hair, amber-brown eyes. Market-departure state with TEAL headscarf over dark hair, cream long-sleeve blouse, long rust skirt, dark stockings and modest brown LOW MARKET SHOES (not hiking boots), brown shoulderbag, old wedding-insult book heldclosed. Two consistent front/rear full bodies plus listening head and relaxed hand holdingbook. Natural afternoon sunlight with ochre lit planes and purple olive connected shadows. Normal eyes no glowing language magic, no breeze or secondperson.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/what-the-wind-wanted/art/landscapes/04-the-warm-basin.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "e2068a0942a19005c7098167bdc20cd8e321b30465edaf710bc7653595705380"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "stories/what-the-wind-wanted/title-image.jpg",
+                "role": "Same-story Zerune face/hair/teal scarf cues only; age32 from prose, no smooth rendering.",
+                "inspected": true,
+                "sha256": "88a276bb16cf001905471130e1dc4d89a2ee2dc23177e5f2c52a435a32de0425"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.820489+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-99af7743-2272-4933-9675-1656b374b53a.png",
+            "outputSha256": "c7a6ccf0c5be9874cb6134f4806d36e652fc79df01c3e1bf857dc1ec92f0b290",
+            "generatorReview": "Age/source-clothes/cover-face/marketstate pass, but vignette obscuresheading and face/hand render too smoothly compared with selected broad oil treatment."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:34:14.395626+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Zerune, exact subtitle What the Wind Wanted clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve source32yearold facegeometry/olive skin/amberbrowneyes/darkwavyhair/tealscarf, creamblouse rustskirt darkstockings LOWmarketshoes shoulderbag and book. Repaint ONLY facial skin and hands as broad opaque MATTE oilcolour planes matching existing strong cloth paint: few broad connected ochre/coololive shadowshapes, quiet bristle edges; remove smoothphotoreal gradients and glassy highlights, no tinygoldchips. Do not alter facegeometry/expression or makeyounger/anime. Warm afternoon sun remains natural. All otherclothing/props/poses unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-99af7743-2272-4933-9675-1656b374b53a.png",
+                "sha256": "c7a6ccf0c5be9874cb6134f4806d36e652fc79df01c3e1bf857dc1ec92f0b290",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Age/source-clothes/cover-face/marketstate pass, but vignette obscuresheading and face/hand render too smoothly compared with selected broad oil treatment.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-30e82383-b266-4e06-aab8-ddc3de5d1e96.png",
+            "outputSha256": "3f25794b3ac654548c6a054e35a4d38cb2343bd6fed6dd6fc55e99581d40a745",
+            "generatorReview": "Bag is fixed anatomical RIGHT hip in both views, but shoulder attachment changes: front same-side RIGHT shoulder, rear crosses from LEFT. Correct only rear shoulder strap to same-side RIGHT."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:31:23.057831+00:00",
+            "prompt": "Edit ONLY the brown shoulder-bag strap in the REAR full-body view of this exact Zerune folio. Keep the bag at rear image-right hip, her anatomical RIGHT. Remove the current diagonal strap from rear image-left shoulder across back; replace it with a same-side strap descending from rear image-right RIGHT shoulder to the existing bag at image-right RIGHT hip, as already established in front view. Strap may naturally disappear behind teal scarf at the top. Keep bag shape/position, scarf, book, all anatomy/clothes/face/hair, portrait/details, exact headings, broad matte oil paint and light ivory support unchanged. Do not change FRONT view. Only ensure the shoulder-bag attachment matches both views.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-30e82383-b266-4e06-aab8-ddc3de5d1e96.png",
+                "sha256": "3f25794b3ac654548c6a054e35a4d38cb2343bd6fed6dd6fc55e99581d40a745",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Bag is fixed anatomical RIGHT hip in both views, but shoulder attachment changes: front same-side RIGHT shoulder, rear crosses from LEFT. Correct only rear shoulder strap to same-side RIGHT.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-03b2b271-8b3a-4994-84b2-0f273978d2cc.png",
+            "outputSha256": "9f9a8b72aa923c2f9680955a10c5c738827c81c762aabdc77dd6c61721d66faa",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:33:54.591617-04:00",
+            "generatorReview": "Recovered actual saved result; requested rear strap correction failed. Rear strap still emerges from anatomical LEFT shoulder and ends at RIGHT hip, inconsistent with front same-side RIGHT shoulder/hip. Local strap correction remains.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T07:08:59.407826-04:00",
+                "reason": "Earlier rear-strap edit failed. Change correction target to front strap; a crossbody carry matches existing rear and source reference to loosening strap across chest. No source-established shoulder preference is changed."
+              }
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:08:59.411652-04:00",
+            "prompt": "Use case: precise-object-edit. Edit ONLY the brown shoulder-bag strap in the LEFT / FRONT full-body figure of this exact Zerune sheet. Keep the bag at its existing image-left hip, her anatomical RIGHT hip. Remove the current vertical strap on image-left shoulder. Replace it with ONE CROSSBODY strap beginning at image-right shoulder, her anatomical LEFT shoulder, descending diagonally across her cream blouse toward the existing bag at image-left hip. The closed book and her forearms naturally hide the middle portion of that strap. This now matches the already correct REAR figure's left-shoulder-to-right-hip diagonal. Do not change the REAR figure or either bag. Preserve all faces, hair, teal scarf, book, blouse, rust skirt, shoes, anatomy, painted surfaces, every other study and exact text. No new props, no other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-03b2b271-8b3a-4994-84b2-0f273978d2cc.png",
+                "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+                "inspected": true,
+                "sha256": "9f9a8b72aa923c2f9680955a10c5c738827c81c762aabdc77dd6c61721d66faa"
+              }
+            ],
+            "reason": "Earlier rear-strap edit failed. Change correction target to front strap; a crossbody carry matches existing rear and source reference to loosening strap across chest. No source-established shoulder preference is changed.",
+            "preflight": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d309-1ec2-7493-8aae-09c8c133e166/exec-df059782-b9be-4fd5-a2af-cd7d7a0d1242.png",
+            "outputSha256": "d4253471e566dc7830c905c7326bd6db7508bf1496c180f8439ed17661e1c4a7",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:23:18.149158-04:00",
+            "generatorReview": "Saved actual pixels inspected against full finished source, cover and story painting. The same shoulder bag now runs anatomical LEFT shoulder to RIGHT hip in both views: front image-right to image-left, rear image-left to image-right. Source permits this crossbody interpretation and later mentions loosening its chest strap. Age32 mature cover-derived face/hair/scarf, low market shoes, closed book and natural afternoon light retained. Broad painted skin/cloth, exact readable headings and ivory full-body margins pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned."
+      },
+      "outputSha256": "d4253471e566dc7830c905c7326bd6db7508bf1496c180f8439ed17661e1c4a7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:23:18.149158-04:00",
+        "sourceSha256": "f1102ead5281404c8d5166d45d9279161cf042914ca39653a8c82d7e8a10afff",
+        "outputSha256": "d4253471e566dc7830c905c7326bd6db7508bf1496c180f8439ed17661e1c4a7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-03b2b271-8b3a-4994-84b2-0f273978d2cc.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "9f9a8b72aa923c2f9680955a10c5c738827c81c762aabdc77dd6c61721d66faa"
+          }
+        ],
+        "evidence": "Saved actual pixels inspected against full finished source, cover and story painting. The same shoulder bag now runs anatomical LEFT shoulder to RIGHT hip in both views: front image-right to image-left, rear image-left to image-right. Source permits this crossbody interpretation and later mentions loosening its chest strap. Age32 mature cover-derived face/hair/scarf, low market shoes, closed book and natural afternoon light retained. Broad painted skin/cloth, exact readable headings and ivory full-body margins pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "7a3c07222b50029bd99f5370ba9295556ce6dc570bb8c44ff2f884a6ee343575"
+      }
+    },
+    {
+      "id": "nivrel",
+      "name": "Nivrel",
+      "role": "Unnamed little living breeze: sustained speaking companion seeking another wind",
+      "form": "Nonhuman living air current with no face, skeleton, clothing or fixed solid body",
+      "selectionEvidence": [
+        {
+          "quote": "“This much,” the whisper said through the chaff. “At present.”",
+          "explanation": "Unnamed little living breeze: sustained speaking companion seeking another wind"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Small warm-fed current with a turn holding it together, visible indirectly through loose ring of chaff knee-high, dust turns, dry flowerheads, pair of seed husks, touch and rustle. Can fold small but cold can scatter; no body/human/face. Not all wind sentient."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only name Nivrel. Gestural nonhuman folio conveys familiar small quick return and variable little loops through sparse ochre chaff/seed husks; pale translucent brush traces are motion annotation, not visible magical substance."
+      ],
+      "states": [
+        {
+          "name": "Sun-warmed small current before crossing",
+          "description": "Small warm-fed current with a turn holding it together, visible indirectly through loose ring of chaff knee-high, dust turns, dry flowerheads, pair of seed husks, touch and rustle. Can fold small but cold can scatter; no body/human/face. Not all wind sentient."
+        }
+      ],
+      "lighting": "Afternoon sunlight on a few seed husks, airy negative ivory, no luminous aura.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Nivrel",
+        "sourceRole": "Unnamed little living breeze: sustained speaking companion seeking another wind",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/what-the-wind-wanted/art/characters/nivrel.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Nivrel, exact subtitle What the Wind Wanted clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve threeair-current gesturestudies exactly: Chaff ring, Wave turn usingdryflowerheads, Quick return twopalehusks. Translucent tinybrushtraces are motionnotation notsubstance. No faces/bodies/creatures/persons/landscape/extra wind. Keep allmovingdebrisinsetfromedgeswithclearivorymargin. Nootherchange.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2c944646-1dcf-465f-a915-1117d59e31b0.png",
+            "sha256": "231a470c177043a0ea652c012d06ee01ec733399902bc6de756cf3b06b241bd7",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Nivrel; exact subtitle What the Wind Wanted. SPECIAL NONHUMAN: replace human front/rear/heads with THREE isolated gesture studies of SAME little conscious AIR CURRENT. NO person, face, eyes, limbs, fabric body, genie, tornado monster or humanoid silhouette. Name Nivrel subtitle What the Wind Wanted. Main left study small loose ring of CHAFF defining knee-high-scale turn, center sparse dust/DRY FLOWERHEADS in narrowing horizontal spiral, right two PALE SEED HUSKS circling. These sparse bits track current, not clothing or anatomy. Lots of ivory air within loops. Subtle translucent ochre/gray directional brush traces may guide movement only, no bright energy glow. No floor, stone, pond, landscape, human comparator or other wind. Labels Chaff ring / Wave turn / Quick return. Paint husks and leafbits with the same broad selective opaque bristle masses. Sunny warm natural light. Current small/light/touchable, no enormous storm.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/what-the-wind-wanted/art/landscapes/04-the-warm-basin.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "e2068a0942a19005c7098167bdc20cd8e321b30465edaf710bc7653595705380"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.821590+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2c944646-1dcf-465f-a915-1117d59e31b0.png",
+            "outputSha256": "231a470c177043a0ea652c012d06ee01ec733399902bc6de756cf3b06b241bd7",
+            "generatorReview": "One nonhumanoid living current expressed through airborne chaff/flowerheads/seedhusks; allsameidentity/no location pass. Vignette obscuresheading/ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.399490+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Nivrel, exact subtitle What the Wind Wanted clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve threeair-current gesturestudies exactly: Chaff ring, Wave turn usingdryflowerheads, Quick return twopalehusks. Translucent tinybrushtraces are motionnotation notsubstance. No faces/bodies/creatures/persons/landscape/extra wind. Keep allmovingdebrisinsetfromedgeswithclearivorymargin. Nootherchange.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2c944646-1dcf-465f-a915-1117d59e31b0.png",
+                "sha256": "231a470c177043a0ea652c012d06ee01ec733399902bc6de756cf3b06b241bd7",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "One nonhumanoid living current expressed through airborne chaff/flowerheads/seedhusks; allsameidentity/no location pass. Vignette obscuresheading/ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-6bc6ebe8-fcd3-4059-96e6-30f6199ca6dd.png",
+            "outputSha256": "7c696553d28b87e8e9bbab8ed651a2d207b33d4d8ef0ac3c4b3b677f5d3bd253",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:34.508317+00:00",
+            "generatorReview": "Actual pixels inspected: authorized art-only name for one small breeze; three motion states use source chaff ring, flower-head wave turn and two seed-husk quick return without face/body/humanoid, location or invented magical substance. Ivory negative space and dry painted chaff forms frame readable exact heading/title; source nonhuman identity preserved."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "7c696553d28b87e8e9bbab8ed651a2d207b33d4d8ef0ac3c4b3b677f5d3bd253",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:34.508317+00:00",
+        "sourceSha256": "f1102ead5281404c8d5166d45d9279161cf042914ca39653a8c82d7e8a10afff",
+        "outputSha256": "7c696553d28b87e8e9bbab8ed651a2d207b33d4d8ef0ac3c4b3b677f5d3bd253",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2c944646-1dcf-465f-a915-1117d59e31b0.png",
+            "sha256": "231a470c177043a0ea652c012d06ee01ec733399902bc6de756cf3b06b241bd7",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: authorized art-only name for one small breeze; three motion states use source chaff ring, flower-head wave turn and two seed-husk quick return without face/body/humanoid, location or invented magical substance. Ivory negative space and dry painted chaff forms frame readable exact heading/title; source nonhuman identity preserved.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "a2a2630d2d19dae72afca7bff5dc6983f9c1977ad34c7ae3c00a456a7c1ab078"
+      }
+    },
+    {
+      "id": "athrulin",
+      "name": "Athrulin",
+      "role": "Unnamed larger living basin current who invites and answers the small breeze",
+      "form": "Nonhuman living air current with no face, skeleton, clothing or fixed solid body",
+      "selectionEvidence": [
+        {
+          "quote": "“There's another way,” the basin current said.",
+          "explanation": "Unnamed larger living basin current who invites and answers the small breeze"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Larger speaking current moves through trees and reeds/pond in3narrowbands, makes hollow held in motion for breeze, invites3separate lifts; source shows no humanoid or solid body. Two winds remain distinct while saying we."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only name Athrulin. Character-only spatial gesture design using sparse suspended leaf/reedtip fragments, long broad returning curves and central hollow; no actual pond or trees, no secondwind."
+      ],
+      "states": [
+        {
+          "name": "Basin invitation before joining",
+          "description": "Larger speaking current moves through trees and reeds/pond in3narrowbands, makes hollow held in motion for breeze, invites3separate lifts; source shows no humanoid or solid body. Two winds remain distinct while saying we."
+        }
+      ],
+      "lighting": "Afternoon sunlight on sparse suspended leaves, airy ivory negative space no aura.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Athrulin",
+        "sourceRole": "Unnamed larger living basin current who invites and answers the small breeze",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/what-the-wind-wanted/art/characters/athrulin.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Athrulin, exact subtitle What the Wind Wanted clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve same nonhumanlargercurrent's three isolated motionstudies Long return / Three lifts / Held hollow, suspendedleafbitsandpale olivegraymotionnotation. Do notmakecreature/body/face/eyesoraddtree/pond/landscape. Addclearivorymargin aroundanyparticlealmosttouchingedgewithoutchangingcurves. Nootherchange.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8750b0a8-0936-47b2-af52-e1284b14ff08.png",
+            "sha256": "f17a110c488c2db2977c9debe960da19ad99b8c8bf143098e4c2b46129bfc94e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Athrulin; exact subtitle What the Wind Wanted. SPECIAL NONHUMAN: replace human bodies/heads with THREE isolated motion studies of the SAME larger conscious AIR CURRENT, exact heading Athrulin title What the Wind Wanted. It has NO body/face/eyes/hands/creature, no deity or personification. Distinctive slow broad long curve and open HOLLOW held in motion. Sparse isolated loose leafbits/reed-tip fragments imply spread direction, no attached trees/reeds/ground/water/landscape. MAIN left broad open oval passing inward in three lifts; center THREE parallel gentle swept curves; right wide open cup-shaped motion hollow. Labels Long return / Three lifts / Held hollow. Pale translucent olive-gray directional brush traces only as motion notation, never magical smoke or substance; warm ochre leafplanes in afternoon sun. Mostly quiet light IVORY. No second smaller wind, no combined figures, no storm, no location, no pond.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/what-the-wind-wanted/art/landscapes/04-the-warm-basin.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "e2068a0942a19005c7098167bdc20cd8e321b30465edaf710bc7653595705380"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.822592+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8750b0a8-0936-47b2-af52-e1284b14ff08.png",
+            "outputSha256": "f17a110c488c2db2977c9debe960da19ad99b8c8bf143098e4c2b46129bfc94e",
+            "generatorReview": "One larger nonhuman living current/no face/location passes; vignette obscuresheading. Preserve isolated motion notation and light."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.403445+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Athrulin, exact subtitle What the Wind Wanted clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve same nonhumanlargercurrent's three isolated motionstudies Long return / Three lifts / Held hollow, suspendedleafbitsandpale olivegraymotionnotation. Do notmakecreature/body/face/eyesoraddtree/pond/landscape. Addclearivorymargin aroundanyparticlealmosttouchingedgewithoutchangingcurves. Nootherchange.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8750b0a8-0936-47b2-af52-e1284b14ff08.png",
+                "sha256": "f17a110c488c2db2977c9debe960da19ad99b8c8bf143098e4c2b46129bfc94e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "One larger nonhuman living current/no face/location passes; vignette obscuresheading. Preserve isolated motion notation and light.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-6683c6c9-6e2a-4c87-b95c-ea6cfd43f4f5.png",
+            "outputSha256": "77862396e5a833e68c9aa2f1bdfe5d5496ea58b4d014187b818fa088f5104052",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:34.533316+00:00",
+            "generatorReview": "Actual pixels inspected: authorized art-only name for the larger current, represented by distinct long-return/three-lift/held-hollow leaf motion studies without humanoid face or scenery. Loose leaves and subtle painted movement notation imply air, not a new solid body/power. Ivory light support, broad oil masses, clear labels/exact heading/title and complete framing pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "77862396e5a833e68c9aa2f1bdfe5d5496ea58b4d014187b818fa088f5104052",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:34.533316+00:00",
+        "sourceSha256": "f1102ead5281404c8d5166d45d9279161cf042914ca39653a8c82d7e8a10afff",
+        "outputSha256": "77862396e5a833e68c9aa2f1bdfe5d5496ea58b4d014187b818fa088f5104052",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8750b0a8-0936-47b2-af52-e1284b14ff08.png",
+            "sha256": "f17a110c488c2db2977c9debe960da19ad99b8c8bf143098e4c2b46129bfc94e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: authorized art-only name for the larger current, represented by distinct long-return/three-lift/held-hollow leaf motion studies without humanoid face or scenery. Loose leaves and subtle painted movement notation imply air, not a new solid body/power. Ivory light support, broad oil masses, clear labels/exact heading/title and complete framing pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "205841769123c14428ce67a1dbaaa0ae165762cd92ce6fbb026054bd52ddf421"
+      }
+    }
+  ],
+  "sourceSha256": "f1102ead5281404c8d5166d45d9279161cf042914ca39653a8c82d7e8a10afff"
+}
