@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-mercy-circuit",
+  "title": "The Mercy Circuit",
+  "source": "stories/the-mercy-circuit/story.md",
+  "sourceSha256": "425bf475e4035df8c84918f136d05de7c94241da1c370071daf5504fe455a7a5",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished prose read in full. Four substantial autonomous living participants drive the repair and its cost/consent decisions: the unnamed second-person technician (art-only Vezrik), Serren, Bevro and Metta Orun. The hearing-implant customer is a brief bookend customer rather than main cast.",
+  "excludedMinorCharacters": [
+    "Unnamed hearing-implant customer: opening/closing bookend, no substantial role in central repair.",
+    "Two courier riders, waiting customers, brief unidentified vendor voice and facilities personnel: minor or offstage roles.",
+    "Mercy circuit, caster, prosthetic arm, log, machines and floor-cleaners are technology, not separate autonomous living cast."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md",
+    "universe/rules.md"
+  ],
+  "characters": [
+    {
+      "id": "vezrik",
+      "name": "Vezrik",
+      "role": "Unnamed second-person repair technician; art-only name",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Second-person independent repair technician",
+        "provenance": "Art-only name assigned under user authorization; no name, gender, age or physical design asserted as source canon. Search found no Vezrik collision in universe/stories/specs."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "You keep your hands visible.",
+          "explanation": "Embodied living narrator performs diagnosis, negotiates consent and personally repairs the arm."
+        },
+        {
+          "quote": "You seat the certified layer without bridging the socket return",
+          "explanation": "Central technical action and point-of-view role."
+        }
+      ],
+      "form": "Human adult; art interpretation where unprovided",
+      "storyAppearance": {
+        "anatomy": "Narrator has visible hands and performs precise manual repair; source gives no age, gender, face or clothing.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only masculine adult about35, slim medium-dark brown skin, angular narrow face, warm brown eyes, short dense dark hair with a few copper-grey hairs at temples, no beard. Cream rolled-sleeve work shirt, charcoal bib apron centered at chest and back knot, slate work trousers and black shoes. Bare human hands.",
+        "markings": "Narrator has visible hands and performs precise manual repair; source gives no age, gender, face or clothing.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only masculine adult about35, slim medium-dark brown skin, angular narrow face, warm brown eyes, short dense dark hair with a few copper-grey hairs at temples, no beard. Cream rolled-sleeve work shirt, charcoal bib apron centered at chest and back knot, slate work trousers and black shoes. Bare human hands.",
+        "equipment": "Own insulated probe and small deadman key; calm open hands, attentive expression and concentrated close-up. No repair rig or room.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only masculine adult about35, slim medium-dark brown skin, angular narrow face, warm brown eyes, short dense dark hair with a few copper-grey hairs at temples, no beard. Cream rolled-sleeve work shirt, charcoal bib apron centered at chest and back knot, slate work trousers and black shoes. Bare human hands."
+      },
+      "explicitCanon": [
+        "Narrator has visible hands and performs precise manual repair; source gives no age, gender, face or clothing."
+      ],
+      "visualInterpretation": [
+        "Art-only masculine adult about35, slim medium-dark brown skin, angular narrow face, warm brown eyes, short dense dark hair with a few copper-grey hairs at temples, no beard. Cream rolled-sleeve work shirt, charcoal bib apron centered at chest and back knot, slate work trousers and black shoes. Bare human hands.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon.",
+        "A2 refines art-only identity: broad flat nose and short tightly coiled crop on specified medium-dark brown face, deliberately distinct from rendering anchor."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Own insulated probe and small deadman key; calm open hands, attentive expression and concentrated close-up. No repair rig or room."
+        }
+      ],
+      "lighting": {
+        "moment": "Four minutes before evening gatefall, warm kiosk lamps",
+        "motivation": "Localized warm overhead/left work-lamp edge, substantial cool teal-gray shadow shapes; no broad exterior sun."
+      },
+      "recurrence": {
+        "identityKey": "the-mercy-circuit:unnamed-technician-art-vezrik",
+        "links": [],
+        "evidence": "No shared-universe identity match; art-only interpretation."
+      },
+      "references": [
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+          "role": "Actual source kiosk light and paint reference",
+          "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+          "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted character rendering and folio style",
+          "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+          "role": "Actual closed privacy bay light reference",
+          "notes": "Inspected dark cool teal/charcoal with limited warm work-lamp pool. Light on Serren only, no room.",
+          "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/title-image.jpg",
+          "role": "Subordinate source cover mechanical color reference",
+          "notes": "Inspected no person, abstract blue shoulder shell/milky colored service cables; useful material/color only. Finished prose controls attached right arm and caster, no detached body parts inherited.",
+          "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-mercy-circuit/art/characters/vezrik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case identity-preserve edit. Edit the FIRST supplied folio, preserve its exact readable Vezrik / The Mercy Circuit text, ivory landscape 1536x1024 sheet, all three front/right-side/back body views, charcoal bib apron, cream rolled sleeves, slate trousers, probe hand and deadman key. CORRECT the same man's identity consistently in ALL five depictions: medium-dark rich brown skin, narrow long face, broad flat nose, short tightly coiled black crop with subtle grey temples, matte brown eyes, clean shaven about35 slim adult. He must look visibly different from the tousled pale man in the existing folio. Clothing and tools preserved. Evening kiosk lighting: substantially DARK cool teal-gray shadow masses over the right halves of faces and figures, restrained small amber worklamp planes from upperleft. Let half each head genuinely fall into shadow. Ground remains light clean ivory. SECOND image supplies exact paint handling/light contrast ONLY; NO environment or floor or furniture. Third image approved oil handling only. Broad solid palette-knife/bristle masses describe faces, hands, fabric as heavily as body; no glossy eyes, smooth skin or fine illustration hatching. Correct natural five-digit hands, isolated subjects, no floor patches, no swatches, no new equipment.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-fd064294-cd47-48fa-89cb-436848acdfc4.png",
+            "role": "Inspected immutable edit target",
+            "sha256": "48c653bf71cee0390162e8a4d4eb45230aebe10e6633a6580ff67f616f800135",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:34:08.497876+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second accepted sheet supplies paint/ivory layout only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Vezrik'.\nVezrik is the unnamed SECOND-PERSON repair technician, an art-only name. Masculine adult about35 slim medium-dark brown, narrow angular face, warm brown eyes, short dense dark hair with subtle copper-grey temples, clean-shaven. Cream work shirt sleeves rolled to forearms; central charcoal bib apron with symmetrical back straps and central waist knot, slate trousers, black work shoes, bare hands. Front relaxed open palms, right-profile and rear. Upper heads 'Listening' and 'Concentration'; lower small isolated own right hand holding an insulated probe and separate little deadman key. Keep light restrained evening work-lamp amber left/above with cool teal-gray shadow half-faces and shadow clothing. No bionics on him; two flesh arms, ordinary natural hands. Exact Vezrik title plus story subtitle.",
+            "references": [
+              {
+                "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Actual source kiosk light and paint reference",
+                "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted character rendering and folio style",
+                "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-fd064294-cd47-48fa-89cb-436848acdfc4.png",
+            "review": "Recovered after interruption; actual pixels repeat Kelro style-reference face and light tan complexion rather than specified medium-dark brown identity. Evening shadows too weak."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:52:19.109557+00:00",
+            "prompt": "Use case identity-preserve edit. Edit the FIRST supplied folio, preserve its exact readable Vezrik / The Mercy Circuit text, ivory landscape 1536x1024 sheet, all three front/right-side/back body views, charcoal bib apron, cream rolled sleeves, slate trousers, probe hand and deadman key. CORRECT the same man's identity consistently in ALL five depictions: medium-dark rich brown skin, narrow long face, broad flat nose, short tightly coiled black crop with subtle grey temples, matte brown eyes, clean shaven about35 slim adult. He must look visibly different from the tousled pale man in the existing folio. Clothing and tools preserved. Evening kiosk lighting: substantially DARK cool teal-gray shadow masses over the right halves of faces and figures, restrained small amber worklamp planes from upperleft. Let half each head genuinely fall into shadow. Ground remains light clean ivory. SECOND image supplies exact paint handling/light contrast ONLY; NO environment or floor or furniture. Third image approved oil handling only. Broad solid palette-knife/bristle masses describe faces, hands, fabric as heavily as body; no glossy eyes, smooth skin or fine illustration hatching. Correct natural five-digit hands, isolated subjects, no floor patches, no swatches, no new equipment.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-fd064294-cd47-48fa-89cb-436848acdfc4.png",
+                "role": "Inspected immutable edit target",
+                "sha256": "48c653bf71cee0390162e8a4d4eb45230aebe10e6633a6580ff67f616f800135",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Inspected supporting lighting/material/style reference",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected supporting lighting/material/style reference",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-2c1dd1aa-edba-4da6-b32b-030634b7651e.png",
+            "savedPath": "stories/the-mercy-circuit/art/characters/vezrik.png",
+            "outputSha256": "b8ce729ce8725e4047155737624242306ff93225dd10aa52fcbfcd26faf207bb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:55:15.614976+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T10:55:15.614976+00:00",
+        "sourceSha256": "425bf475e4035df8c84918f136d05de7c94241da1c370071daf5504fe455a7a5",
+        "outputSha256": "b8ce729ce8725e4047155737624242306ff93225dd10aa52fcbfcd26faf207bb",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-fd064294-cd47-48fa-89cb-436848acdfc4.png",
+            "role": "Inspected immutable edit target",
+            "sha256": "48c653bf71cee0390162e8a4d4eb45230aebe10e6633a6580ff67f616f800135",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "A2 actual pixels: distinct medium-dark brown technician identity, tightly coiled crop, narrow face, matching front/profile/back and two heads; both arms flesh, consistent bib apron and functional personal probe/deadman key.",
+          "Directional amber worklight and large cool shadow masses restored; matte heavy paint across face/hands/cloth, legible exact heading/subtitle, clean ivory and no setting/swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "fbc484b5072345685b6f1f10b55cff6717a234b22fad8030545c3bd3d6ea262a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "b8ce729ce8725e4047155737624242306ff93225dd10aa52fcbfcd26faf207bb"
+    },
+    {
+      "id": "serren",
+      "name": "Serren",
+      "role": "Salvage cutter whose prosthetic right arm is repaired",
+      "naming": {
+        "sourceName": "Serren",
+        "sourceRole": "Salvage cutter",
+        "provenance": "Exact finished prose receipt name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Her right arm is sleeved in scarred blue composite from shoulder to knuckle.",
+          "explanation": "Explicit fixed right-side prosthetic form."
+        },
+        {
+          "quote": "A plasma caster hangs below the forearm on its coupling rails",
+          "explanation": "Attached underarm equipment, not handheld weapon."
+        },
+        {
+          "quote": "Serren releases the shoulder latches herself. The composite shell rises on captive hinges.",
+          "explanation": "Source-supported alternate service state of same body."
+        }
+      ],
+      "form": "Human adult woman with integrated right-arm prosthesis",
+      "storyAppearance": {
+        "anatomy": "Woman; right arm scarred blue composite shoulder to knuckle, under-forearm rail-mounted plasma caster; left arm flesh. Captive-hinged shoulder shell covers clinic seals, braided lines, milky sensory ribbon and gray liner. Forearm telemetry shows electrical colored bands, not memories or intentions. Main repaired arm no longer jerks and caster powers down.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only about41 sturdy olive-brown woman, broad weathered oval face, brown eyes, short black crop. Sleeveless rust work vest over charcoal sleeveless undershirt, dark gray work trousers and black boots. Blue right machine shoulder/upper arm/forearm/hand; five articulated right digits, left flesh fingers. No unrelated marks.",
+        "markings": "Woman; right arm scarred blue composite shoulder to knuckle, under-forearm rail-mounted plasma caster; left arm flesh. Captive-hinged shoulder shell covers clinic seals, braided lines, milky sensory ribbon and gray liner. Forearm telemetry shows electrical colored bands, not memories or intentions. Main repaired arm no longer jerks and caster powers down.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only about41 sturdy olive-brown woman, broad weathered oval face, brown eyes, short black crop. Sleeveless rust work vest over charcoal sleeveless undershirt, dark gray work trousers and black boots. Blue right machine shoulder/upper arm/forearm/hand; five articulated right digits, left flesh fingers. No unrelated marks.",
+        "equipment": "Three main views depict finished repair with blue right arm close to body, closed shell and caster attached below forearm but no beam. Two heads determination/relief. One enlarged own RIGHT shoulder in opened service state with captive shell, braided lines/milky ribbon, mechanical only; lower closed right forearm/caster detail.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only about41 sturdy olive-brown woman, broad weathered oval face, brown eyes, short black crop. Sleeveless rust work vest over charcoal sleeveless undershirt, dark gray work trousers and black boots. Blue right machine shoulder/upper arm/forearm/hand; five articulated right digits, left flesh fingers. No unrelated marks."
+      },
+      "explicitCanon": [
+        "Woman; right arm scarred blue composite shoulder to knuckle, under-forearm rail-mounted plasma caster; left arm flesh. Captive-hinged shoulder shell covers clinic seals, braided lines, milky sensory ribbon and gray liner. Forearm telemetry shows electrical colored bands, not memories or intentions. Main repaired arm no longer jerks and caster powers down."
+      ],
+      "visualInterpretation": [
+        "Art-only about41 sturdy olive-brown woman, broad weathered oval face, brown eyes, short black crop. Sleeveless rust work vest over charcoal sleeveless undershirt, dark gray work trousers and black boots. Blue right machine shoulder/upper arm/forearm/hand; five articulated right digits, left flesh fingers. No unrelated marks.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Repaired closed shell",
+          "description": "Main views: right shoulder closed, blue prosthetic arm calm, caster attached under forearm and powered down."
+        },
+        {
+          "name": "Authorized shoulder service access",
+          "description": "Enlarged body detail only: captive-hinged right shell opened to visible mechanical lines/milky ribbon, no wound or extra subject."
+        }
+      ],
+      "lighting": {
+        "moment": "Closed evening privacy bay and repaired body presentation",
+        "motivation": "Warm desk lamp from upper left against dark cool teal fill, modeled from actual privacy bay reference."
+      },
+      "recurrence": {
+        "identityKey": "the-mercy-circuit:serren",
+        "links": [],
+        "evidence": "No shared-universe match found; prose facts control."
+      },
+      "references": [
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+          "role": "Actual source kiosk light and paint reference",
+          "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+          "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted character rendering and folio style",
+          "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+          "role": "Actual closed privacy bay light reference",
+          "notes": "Inspected dark cool teal/charcoal with limited warm work-lamp pool. Light on Serren only, no room.",
+          "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/title-image.jpg",
+          "role": "Subordinate source cover mechanical color reference",
+          "notes": "Inspected no person, abstract blue shoulder shell/milky colored service cables; useful material/color only. Finished prose controls attached right arm and caster, no detached body parts inherited.",
+          "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-mercy-circuit/art/characters/serren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case precise-object-edit. Edit FIRST supplied Serren folio. Keep exact title Serren / The Mercy Circuit, warm ivory 1536x1024 landscape sheet, woman face/short black hair, rust vest, dark trousers, all three body views and two expression heads. Preserve anatomical RIGHT blue composite arm front-viewerLEFT / rear-viewerRIGHT and right-facing profile, flesh LEFT arm, five right mechanical fingers, caster attached BELOW forearm not handheld. Specific repair: REPLACE lower-left invented turbine-like shoulder machinery with a simple painted close study of her attached blue shoulder shell opened on captive hinges: beneath shell only overlapping grey liner, a few BRAIDED CONTROL LINES, one MILKY-WHITE FLAT SENSORY RIBBON, small paper CLINIC SEALS. Avoid mechanical schematics, concentric shafts/turbines or invented engineering. Lower-right closed blue forearm includes short horizontal blue telemetry bands, attached powered-down caster on rails. All study parts remain her attached arm, not free spare limbs. Heavily painted opaque surface, no shiny technical render. Change lighting throughout to evening: large DARK cool teal shadow masses across face/right half body, small warm upperleft worklamp highlights. SECOND image anchors that contrast and thick painted masses; THIRD source cover contributes blue shell/milky ribbon material only. Preserve identity and ivory/background clean. NO location, furniture, floor, swatches, glowing weapons or extra figure.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-f024d22b-5917-4807-8b55-b6d7052ff9c9.png",
+            "role": "Inspected immutable edit target",
+            "sha256": "076da70fea744feaac4640a7139a0b8788d5a19b3a5d01e8115ef69866a69d88",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/title-image.jpg",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:34:08.497876+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second accepted sheet supplies paint/ivory layout only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Serren'.\nSerren adult WOMAN artage41 sturdy olive-brown, weathered broad oval face, matte brown eyes, short black crop. Sleeveless rust work vest/charcoal sleeveless undershirt, gray work trousers, black boots. SOURCE FIXED: anatomical RIGHT arm is scarred BLUE COMPOSITE continuously shoulder to KNUCKLE, five articulated blue right fingers; anatomical LEFT arm entirely ordinary flesh. Attached PLASMA CASTER hangs directly BENEATH right forearm on short coupling rails; it is not carried in a hand. Main front/right-profile/back show repaired closed-shell state: machine RIGHT arm frontviewerLEFT, backviewerRIGHT, camera-near right arm in right-facingprofile; LEFT arm flesh throughout. Caster powered down, no beam or glow. Heads 'Determination' and 'Relief'. Lower personal detail 'Right shoulder — service access' shows ONLY her right mechanical shoulder enlarged with blue captive-hinged shell open, clinic seals, braided lines, milky ribbon and dullgray liner; no wound, blood or bone. Other lower detail of closed right forearm with blue telemetry and underneath caster, no free-floating gun redesign. Dark cool teal shadow masses across faces/arm, limited warm work-lamp left rim/planes per first ref. Cover is material only, no detached-arm scene. One Serren identity only, exact heading/subtitle.",
+            "references": [
+              {
+                "path": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+                "role": "Actual closed privacy bay light reference",
+                "notes": "Inspected dark cool teal/charcoal with limited warm work-lamp pool. Light on Serren only, no room.",
+                "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted character rendering and folio style",
+                "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-mercy-circuit/title-image.jpg",
+                "role": "Subordinate source cover mechanical color reference",
+                "notes": "Inspected no person, abstract blue shoulder shell/milky colored service cables; useful material/color only. Finished prose controls attached right arm and caster, no detached body parts inherited.",
+                "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-f024d22b-5917-4807-8b55-b6d7052ff9c9.png",
+            "review": "Recovered after interruption; correct anatomical right blue arm and attached caster, but shoulder study shows invented large concentric mechanisms and lacks source clinic seals, braided lines/milky ribbon. Evening teal shadows too weak; mechanical detail too smooth."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:52:20.058524+00:00",
+            "prompt": "Use case precise-object-edit. Edit FIRST supplied Serren folio. Keep exact title Serren / The Mercy Circuit, warm ivory 1536x1024 landscape sheet, woman face/short black hair, rust vest, dark trousers, all three body views and two expression heads. Preserve anatomical RIGHT blue composite arm front-viewerLEFT / rear-viewerRIGHT and right-facing profile, flesh LEFT arm, five right mechanical fingers, caster attached BELOW forearm not handheld. Specific repair: REPLACE lower-left invented turbine-like shoulder machinery with a simple painted close study of her attached blue shoulder shell opened on captive hinges: beneath shell only overlapping grey liner, a few BRAIDED CONTROL LINES, one MILKY-WHITE FLAT SENSORY RIBBON, small paper CLINIC SEALS. Avoid mechanical schematics, concentric shafts/turbines or invented engineering. Lower-right closed blue forearm includes short horizontal blue telemetry bands, attached powered-down caster on rails. All study parts remain her attached arm, not free spare limbs. Heavily painted opaque surface, no shiny technical render. Change lighting throughout to evening: large DARK cool teal shadow masses across face/right half body, small warm upperleft worklamp highlights. SECOND image anchors that contrast and thick painted masses; THIRD source cover contributes blue shell/milky ribbon material only. Preserve identity and ivory/background clean. NO location, furniture, floor, swatches, glowing weapons or extra figure.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-f024d22b-5917-4807-8b55-b6d7052ff9c9.png",
+                "role": "Inspected immutable edit target",
+                "sha256": "076da70fea744feaac4640a7139a0b8788d5a19b3a5d01e8115ef69866a69d88",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+                "role": "Inspected supporting lighting/material/style reference",
+                "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/title-image.jpg",
+                "role": "Inspected supporting lighting/material/style reference",
+                "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-08484e80-2b99-4bbd-97d4-8e9117425442.png",
+            "savedPath": "stories/the-mercy-circuit/art/characters/serren.png",
+            "outputSha256": "d8cf436b4d99ea691c0a87b7ecb14c9edd6295d3f2609b17ab2d1d3e6a3ff9f0",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:55:15.632174+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T10:55:15.632174+00:00",
+        "sourceSha256": "425bf475e4035df8c84918f136d05de7c94241da1c370071daf5504fe455a7a5",
+        "outputSha256": "d8cf436b4d99ea691c0a87b7ecb14c9edd6295d3f2609b17ab2d1d3e6a3ff9f0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d136-c011-76c3-9d7f-c330f72b6c17/exec-f024d22b-5917-4807-8b55-b6d7052ff9c9.png",
+            "role": "Inspected immutable edit target",
+            "sha256": "076da70fea744feaac4640a7139a0b8788d5a19b3a5d01e8115ef69866a69d88",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/title-image.jpg",
+            "role": "Inspected supporting lighting/material/style reference",
+            "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "A2 actual pixels: consistent sturdy woman with right blue prosthetic arm front-left/rear-right/profile near, flesh left arm, attached rail caster powered down. All silhouettes uncropped.",
+          "Shoulder study corrected to braided lines, pale ribbon, grey liner and clinic seals beneath hinged shell; source-like telemetry bands on closed forearm. Strong restrained evening light, opaque painted identity, clear name/title and no environment."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "6195fc4b309ba14f58c93ce9e442b5f0ca15c985541e6e4a04246cdea5893c5a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "d8cf436b4d99ea691c0a87b7ecb14c9edd6295d3f2609b17ab2d1d3e6a3ff9f0"
+    },
+    {
+      "id": "bevro",
+      "name": "Bevro",
+      "role": "Pepper-bun seller whose choices sustain and account for the repair",
+      "naming": {
+        "sourceName": "Bevro",
+        "sourceRole": "Food-stall operator",
+        "provenance": "Exact finished prose name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Bevro pulls his display shutters down halfway.",
+          "explanation": "Actively protects queue and pays disruption cost."
+        },
+        {
+          "quote": "He writes every refused sale on the same paper sleeve.",
+          "explanation": "Continuing consequential participation and personal marker/sleeve gear."
+        }
+      ],
+      "form": "Human adult man",
+      "storyAppearance": {
+        "anatomy": "Adult man food seller, materially participates throughout repair, records losses on paper sleeve with marker. Source gives no face, age or clothes.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only about47 stocky warm dark brown skin, round wide face, deep brown eyes, shaved head, short neat dark moustache. Mustard short-sleeve shirt, dark green work apron with central back knot, brown trousers and worn dark work shoes.",
+        "markings": "Adult man food seller, materially participates throughout repair, records losses on paper sleeve with marker. Source gives no face, age or clothes.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only about47 stocky warm dark brown skin, round wide face, deep brown eyes, shaved head, short neat dark moustache. Mustard short-sleeve shirt, dark green work apron with central back knot, brown trousers and worn dark work shoes.",
+        "equipment": "Personal marker, paper sleeve and one pepper bun; irritation/calculating expression heads, no case, stall or room.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only about47 stocky warm dark brown skin, round wide face, deep brown eyes, shaved head, short neat dark moustache. Mustard short-sleeve shirt, dark green work apron with central back knot, brown trousers and worn dark work shoes."
+      },
+      "explicitCanon": [
+        "Adult man food seller, materially participates throughout repair, records losses on paper sleeve with marker. Source gives no face, age or clothes."
+      ],
+      "visualInterpretation": [
+        "Art-only about47 stocky warm dark brown skin, round wide face, deep brown eyes, shaved head, short neat dark moustache. Mustard short-sleeve shirt, dark green work apron with central back knot, brown trousers and worn dark work shoes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Personal marker, paper sleeve and one pepper bun; irritation/calculating expression heads, no case, stall or room."
+        }
+      ],
+      "lighting": {
+        "moment": "Closing market evening beside kiosk",
+        "motivation": "Muted warm overhead and kiosk spill on upper left, cool blue/teal shadows, no exterior noon light."
+      },
+      "recurrence": {
+        "identityKey": "the-mercy-circuit:bevro",
+        "links": [],
+        "evidence": "No shared-universe match."
+      },
+      "references": [
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+          "role": "Actual source kiosk light and paint reference",
+          "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+          "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted character rendering and folio style",
+          "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+          "role": "Actual closed privacy bay light reference",
+          "notes": "Inspected dark cool teal/charcoal with limited warm work-lamp pool. Light on Serren only, no room.",
+          "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/title-image.jpg",
+          "role": "Subordinate source cover mechanical color reference",
+          "notes": "Inspected no person, abstract blue shoulder shell/milky colored service cables; useful material/color only. Finished prose controls attached right arm and caster, no detached body parts inherited.",
+          "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-mercy-circuit/art/characters/bevro.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Bevro'.\nBevro adult MALE food seller, artage47 STOCKY warm dark-brown skin, broad round face, deep matte brown eyes, shaved head and neat short black moustache. Mustard short-sleeve shirt, dark-green apron centered front with central rear waist knot, brown work trousers and worn dark shoes. Same figure front, right-facing profile, back. Holding marker/paper sleeve in one view, hands at rest in others; these HELD objects may change grip. Heads 'Impatience' and 'Counting the cost'. Small own hand holding a marker against a paper sleeve, and separate pepper bun personalprop. No exact claims table/text necessary. Evening limited warm lamp planes left/upper and cool teal shadow half faces and dark clothing, HALF FACES IN DARK COOL SHADOW, not diffuse sunlight. Heavy opaque bristle masses throughout, ivory isolation exactheading/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected evening lighting/paint reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected approved Sculpted Impasto rendering only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "interrupted-no-return",
+            "requestedAt": "2026-09-24T10:34:08.497876+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second accepted sheet supplies paint/ivory layout only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Bevro'.\nBevro adult MALE food seller, artage47 STOCKY warm dark-brown skin, broad round face, deep matte brown eyes, shaved head and neat short black moustache. Mustard short-sleeve shirt, dark-green apron centered front with central rear waist knot, brown work trousers and worn dark shoes. Same figure front, right-facing profile, back. Holding marker/paper sleeve in one view, hands at rest in others; these HELD objects may change grip. Heads 'Impatience' and 'Counting the cost'. Small own hand holding a marker against a paper sleeve, and separate pepper bun personalprop. No exact claims table/text necessary. Evening limited warm lamp planes left/upper and cool teal shadow half faces and dark clothing, not diffuse sunlight. Heavy opaque bristle masses throughout, ivory isolation exactheading/subtitle.",
+            "references": [
+              {
+                "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Actual source kiosk light and paint reference",
+                "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted character rendering and folio style",
+                "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "review": "Prepared requested record survived interruption; no matching candidate found in prior worker output folder after inspection of latest files. No known tool handle survives."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "interrupted-no-return",
+            "requestedAt": "2026-09-24T10:55:17.491333+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Bevro'.\nBevro adult MALE food seller, artage47 STOCKY warm dark-brown skin, broad round face, deep matte brown eyes, shaved head and neat short black moustache. Mustard short-sleeve shirt, dark-green apron centered front with central rear waist knot, brown work trousers and worn dark shoes. Same figure front, right-facing profile, back. Holding marker/paper sleeve in one view, hands at rest in others; these HELD objects may change grip. Heads 'Impatience' and 'Counting the cost'. Small own hand holding a marker against a paper sleeve, and separate pepper bun personalprop. No exact claims table/text necessary. Evening limited warm lamp planes left/upper and cool teal shadow half faces and dark clothing, HALF FACES IN DARK COOL SHADOW, not diffuse sunlight. Heavy opaque bristle masses throughout, ivory isolation exactheading/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Inspected evening lighting/paint reference",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected approved Sculpted Impasto rendering only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "review": "User interrupted tool call after22seconds. Resume inspected thread generated_images directory; no candidate output for this call, only earlier Vezrik/Serren remain."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:04:14.148413+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Bevro'.\nBevro adult MALE food seller, artage47 STOCKY warm dark-brown skin, broad round face, deep matte brown eyes, shaved head and neat short black moustache. Mustard short-sleeve shirt, dark-green apron centered front with central rear waist knot, brown work trousers and worn dark shoes. Same figure front, right-facing profile, back. Holding marker/paper sleeve in one view, hands at rest in others; these HELD objects may change grip. Heads 'Impatience' and 'Counting the cost'. Small own hand holding a marker against a paper sleeve, and separate pepper bun personalprop. No exact claims table/text necessary. Evening limited warm lamp planes left/upper and cool teal shadow half faces and dark clothing, HALF FACES IN DARK COOL SHADOW, not diffuse sunlight. Heavy opaque bristle masses throughout, ivory isolation exactheading/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Inspected evening lighting/paint reference",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected approved Sculpted Impasto rendering only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-99104f8a-76ae-46ba-8654-3101c53999ea.png",
+            "savedPath": "stories/the-mercy-circuit/art/characters/bevro.png",
+            "outputSha256": "79e836fe2760bd4df2f2969459ed01d5a0c760f9ee79b7d75a1b88f3fbe1403e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:07:57.795819+00:00"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:07:57.795819+00:00",
+        "sourceSha256": "425bf475e4035df8c84918f136d05de7c94241da1c370071daf5504fe455a7a5",
+        "outputSha256": "79e836fe2760bd4df2f2969459ed01d5a0c760f9ee79b7d75a1b88f3fbe1403e",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected evening lighting/paint reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected approved Sculpted Impasto rendering only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A3 consistent stocky middle-aged food seller, shaved head/black moustache, rich brown skin, mustard shirt and dark-green apron with centered back knot. Marker/paper sleeve and pepper bun are personal source props.",
+          "Correct body/hand silhouettes, readable exact name/title, impasto face and fabric, warm worklight/cool shadow distinction, clean ivory without location or swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "9380ff3d2715ae6d0292eff917cccf6c87064084e4867395ebc160989d679cac"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "79e836fe2760bd4df2f2969459ed01d5a0c760f9ee79b7d75a1b88f3fbe1403e"
+    },
+    {
+      "id": "metta-orun",
+      "name": "Metta Orun",
+      "role": "Exchange Safety inspector witnessing bounded repair",
+      "naming": {
+        "sourceName": "Metta Orun",
+        "sourceRole": "Exchange Safety inspector",
+        "provenance": "Exact finished prose name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "She wears the grey overshirt of Exchange Safety over ordinary work trousers, her inspector seal clipped at the collar.",
+          "explanation": "Explicit source clothing and rank device."
+        },
+        {
+          "quote": "I can also witness a bounded repair and certify tests.",
+          "explanation": "Substantial agent sets boundaries and certifies repair."
+        }
+      ],
+      "form": "Human adult woman",
+      "storyAppearance": {
+        "anatomy": "Adult woman Exchange Safety inspector; gray overshirt over ordinary work trousers and inspector seal clipped at collar; uses own meter.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only middle-aged slender tall deep-brown woman, long oval face and level brown eyes, short dark braids gathered low at nape. Gray work overshirt, charcoal plain trousers and black flat practical shoes. Small copper-colored circular inspector seal centered where collar meets placket, no cap/weapon.",
+        "markings": "Adult woman Exchange Safety inspector; gray overshirt over ordinary work trousers and inspector seal clipped at collar; uses own meter.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only middle-aged slender tall deep-brown woman, long oval face and level brown eyes, short dark braids gathered low at nape. Gray work overshirt, charcoal plain trousers and black flat practical shoes. Small copper-colored circular inspector seal centered where collar meets placket, no cap/weapon.",
+        "equipment": "Personal handheld safety meter, collar seal close-up, composed assessing and firm expression heads.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only middle-aged slender tall deep-brown woman, long oval face and level brown eyes, short dark braids gathered low at nape. Gray work overshirt, charcoal plain trousers and black flat practical shoes. Small copper-colored circular inspector seal centered where collar meets placket, no cap/weapon."
+      },
+      "explicitCanon": [
+        "Adult woman Exchange Safety inspector; gray overshirt over ordinary work trousers and inspector seal clipped at collar; uses own meter."
+      ],
+      "visualInterpretation": [
+        "Art-only middle-aged slender tall deep-brown woman, long oval face and level brown eyes, short dark braids gathered low at nape. Gray work overshirt, charcoal plain trousers and black flat practical shoes. Small copper-colored circular inspector seal centered where collar meets placket, no cap/weapon.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Personal handheld safety meter, collar seal close-up, composed assessing and firm expression heads."
+        }
+      ],
+      "lighting": {
+        "moment": "Evening kiosk safety inspection at gatefall",
+        "motivation": "Cool teal ambient shadow with limited overhead warm worklight from upper left, actual kiosk light."
+      },
+      "recurrence": {
+        "identityKey": "the-mercy-circuit:metta-orun",
+        "links": [],
+        "evidence": "No shared-universe match."
+      },
+      "references": [
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+          "role": "Actual source kiosk light and paint reference",
+          "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+          "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted character rendering and folio style",
+          "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/art/interiors/02-kiosk-privacy-bay.png",
+          "role": "Actual closed privacy bay light reference",
+          "notes": "Inspected dark cool teal/charcoal with limited warm work-lamp pool. Light on Serren only, no room.",
+          "sha256": "254e6692d4d1475c001ad15a06d662bcf9b880da3c22fd56af39ca429a7b5a41",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-mercy-circuit/title-image.jpg",
+          "role": "Subordinate source cover mechanical color reference",
+          "notes": "Inspected no person, abstract blue shoulder shell/milky colored service cables; useful material/color only. Finished prose controls attached right arm and caster, no detached body parts inherited.",
+          "sha256": "950795436c6648dc13529a002b67f295a0048bcdd930bb788302b50761bc51cc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-mercy-circuit/art/characters/metta-orun.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Metta Orun'.\nMetta Orun adult female safety inspector, artmiddleage slender tall deep-brown skin, long oval face, level matte brown eyes, short black braids gathered LOW at nape. EXACT SOURCE gray OVERSHIRT over ordinary dark-charcoal WORK TROUSERS, black flat workshoes. Small copper round inspector seal clipped at CENTER of front COLLAR, remains frontalcenter, absent rear; plain sleeves. No police hat, uniform weapon, armored gear or magic. Three front/right-facingprofile/back views. Heads 'Assessment' and 'Firm limits'. Enlarged attached center-collar seal detail and own handheld rectangular safety meter. Restrained evening amber worklight upperleft, substantial cool teal shadow masses face/clothes; no bright all-over studio illumination. Matte textured heavy opaque oil, clean ivory, exactfullname/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected evening lighting/paint reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected approved Sculpted Impasto rendering only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "interrupted-no-return",
+            "requestedAt": "2026-09-24T10:34:08.497876+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second accepted sheet supplies paint/ivory layout only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Metta Orun'.\nMetta Orun adult female safety inspector, artmiddleage slender tall deep-brown skin, long oval face, level matte brown eyes, short black braids gathered LOW at nape. EXACT SOURCE gray OVERSHIRT over ordinary dark-charcoal WORK TROUSERS, black flat workshoes. Small copper round inspector seal clipped at CENTER of front COLLAR, remains frontalcenter, absent rear; plain sleeves. No police hat, uniform weapon, armored gear or magic. Three front/right-facingprofile/back views. Heads 'Assessment' and 'Firm limits'. Enlarged attached center-collar seal detail and own handheld rectangular safety meter. Restrained evening amber worklight upperleft, substantial cool teal shadow masses face/clothes; no bright all-over studio illumination. Matte textured heavy opaque oil, clean ivory, exactfullname/subtitle.",
+            "references": [
+              {
+                "path": "stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Actual source kiosk light and paint reference",
+                "notes": "Inspected: evening teal-grey kiosk with localized warm overhead/desk lamps. Lighting only; no setting copied.",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted character rendering and folio style",
+                "notes": "Inspected accepted opaque bristle oils, ivory sheet and readable typography. No identity/gear/daylight donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "review": "Prepared requested record survived interruption; no matching candidate found in prior worker output folder after inspection of latest files. No known tool handle survives."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "interrupted-no-return",
+            "requestedAt": "2026-09-24T10:55:18.457215+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Metta Orun'.\nMetta Orun adult female safety inspector, artmiddleage slender tall deep-brown skin, long oval face, level matte brown eyes, short black braids gathered LOW at nape. EXACT SOURCE gray OVERSHIRT over ordinary dark-charcoal WORK TROUSERS, black flat workshoes. Small copper round inspector seal clipped at CENTER of front COLLAR, remains frontalcenter, absent rear; plain sleeves. No police hat, uniform weapon, armored gear or magic. Three front/right-facingprofile/back views. Heads 'Assessment' and 'Firm limits'. Enlarged attached center-collar seal detail and own handheld rectangular safety meter. Restrained evening amber worklight upperleft, substantial cool teal shadow masses face/clothes; no bright all-over studio illumination. Matte textured heavy opaque oil, clean ivory, exactfullname/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Inspected evening lighting/paint reference",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected approved Sculpted Impasto rendering only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "review": "User interrupted tool call after22seconds. Resume inspected thread generated_images directory; no candidate output for this call, only earlier Vezrik/Serren remain."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:04:14.148455+00:00",
+            "prompt": "Use case illustration-story. Generate ONE landscape1536x1024 character reference folio, clean warm IVORY background, readable large dark serif character heading and exact subtitle 'The Mercy Circuit'. ONE living named identity only, views and states of that same person allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque color/value masses, directional bristle and impasto on skin, hair and clothing, matte eyes, no smooth digital face, CGI, anime ink contours or photographic skin. Main three full-body Front / Right side facing canvasRIGHT / Back plus two expression heads and personal body/equipment detail. Actual first ref supplies story-specific evening light, second approved Sculpted Impasto sheet supplies paint handling only, no borrowed identity, props or daylight. Isolate subjects and own equipment on ivory; NO kiosk, room, scene, bench, ground plane, floor shadow, scenery, swatches or extra person. Attached equipment and markings retain anatomical side: right arm frontviewerLEFT, right arm rearviewerRIGHT, right-facing profile camera-near arm is RIGHT. Do not add unrelated belts/bags/patches/scars. For hands fingers-UP, RIGHT palm thumbviewerRIGHT, LEFT palm thumbviewerLEFT; RIGHT dorsal thumbviewerLEFT, LEFT dorsal thumbviewerRIGHT. Natural believable five-digit anatomy.\nHeading 'Metta Orun'.\nMetta Orun adult female safety inspector, artmiddleage slender tall deep-brown skin, long oval face, level matte brown eyes, short black braids gathered LOW at nape. EXACT SOURCE gray OVERSHIRT over ordinary dark-charcoal WORK TROUSERS, black flat workshoes. Small copper round inspector seal clipped at CENTER of front COLLAR, remains frontalcenter, absent rear; plain sleeves. No police hat, uniform weapon, armored gear or magic. Three front/right-facingprofile/back views. Heads 'Assessment' and 'Firm limits'. Enlarged attached center-collar seal detail and own handheld rectangular safety meter. Restrained evening amber worklight upperleft, substantial cool teal shadow masses face/clothes; no bright all-over studio illumination. Matte textured heavy opaque oil, clean ivory, exactfullname/subtitle.\nGround remains clean light ivory, subjects strongly modeled by actual evening worklight; no bright daylight. No borrowing the style subject's face, armor or cloak. Deep dark skin as specified.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+                "role": "Inspected evening lighting/paint reference",
+                "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected approved Sculpted Impasto rendering only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-6acc7f26-ae50-45a8-990b-d7e7dd36ed10.png",
+            "savedPath": "stories/the-mercy-circuit/art/characters/metta-orun.png",
+            "outputSha256": "38adbb1a22de1eb60c14798c3902be6ed3ec3b2b93f421b564afaf811963d094",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:07:57.816900+00:00"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:07:57.816900+00:00",
+        "sourceSha256": "425bf475e4035df8c84918f136d05de7c94241da1c370071daf5504fe455a7a5",
+        "outputSha256": "38adbb1a22de1eb60c14798c3902be6ed3ec3b2b93f421b564afaf811963d094",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-mercy-circuit/art/interiors/01-exchange-repair-kiosk.png",
+            "role": "Inspected evening lighting/paint reference",
+            "sha256": "234b8a4d394328d4bb319eb8dc34d332e034ed8d1a18c512c4bdde342ef29e20",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected approved Sculpted Impasto rendering only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A3 consistent adult woman, low gathered dark braids, brown face, gray work overshirt and dark trousers; collar seal remains at front center in views and enlarged detail, absent rear. Handheld safety meter supported.",
+          "Heavy bristle/knife color masses on faces and clothes, warm/cool evening light, anatomy and unclipped views, exact legible name/title, no setting or swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "e0d9ebabba33c0e33ee04078963b09ca3d1fb6076d64ff57f455f84ac0f05f49"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "38adbb1a22de1eb60c14798c3902be6ed3ec3b2b93f421b564afaf811963d094"
+    }
+  ]
+}
