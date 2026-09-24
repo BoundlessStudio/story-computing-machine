@@ -55,19 +55,31 @@
         "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
       },
       "output": "stories/the-unopened-ring/art/characters/queen-vessarine.png",
-      "status": "deferred",
+      "status": "completed",
       "blockers": [],
       "generation": {
-        "tool": "image_gen",
+        "tool": "image_gen__imagegen",
         "backend": "codex-imagegen",
-        "backendModel": null,
+        "backendModel": "Not reported by built-in tool",
         "format": "1536x1024",
-        "prompt": "Use case: stylized-concept. EDIT this exact Queen Vessarine folio,1536x1024. Make one visible POSE CHANGE to the FRONT fullbody figure at left of page: bend her ANATOMICAL RIGHT ARM (the arm on VIEWERLEFT) BACK BEHIND HER WAIST, with entire RIGHT HAND HIDDEN behind body/gown. There must be NO visible hand or fingers at x350 y500: replace that old hanging hand with intact plain lacegown folds. Right elbow on viewerleft may angle gently outward, sleeve bends BACK behind torso. Her only visible front hand is anatomicalLEFT at VIEWERRIGHT x563 y498 with its ONE thin gold wedding band. Keep that left hand exactly. This asymmetrical courteous pose solves source ring continuity: no visible right hand at all. Do not place right hand against face/bosom or in front of body. Preserve exact name/title, original red eyes/red hair/adult pale face/two small fangs, white lace dinnergown/ruby throat/small earrings, rearview and enlarged hand-motif half-ring. Matte broad directional oil paint across all face/eyes/lips/hands/clothes, DARK connected violet shadow with small ochre candlelight planes. Keep bright warm ivory completely blank around figures, no setting, floor marks, swatches or extra jewelry.",
+        "prompt": "Use case: style-transfer. Repaint image 3, Queen Vessarine's reference folio, with the broad connected oil forms and brush rhythm of image 1; image 2 guides natural adult painted facial construction and opaque ivory folio presentation ONLY, never its subject's features or medieval gear. Image 3 retains Queen Vessarine's own identity, exact layout/text, immense dark RED hair, RED eyes, pale mature-adult face, small two canine points, white high-necked full-length lace dinner gown with covered arms, red throat stone, small earrings and only ONE thin worn gold wedding half-ring on anatomical LEFT hand. Her right arm remains behind her body, hand hidden. Preserve enlarged clasped-hand half-ring object. Preserve front/rear full figures and portrait, whole silhouettes, exact headings Queen Vessarine and The Unopened Ring. No scenery, floor patches, swatches, new anatomy studies or added ornaments.\nRequired correction: fully replace anime facial structure, large flat eyes, tiny outlined nose and thin spaghetti hair with ordinary adult proportions and broad substantial strokes, painted eyes set naturally in shadow, real cheek/brow/jaw planes. Faces, hair, gown and ring all share tangible directional bristle/knife oil construction with selective impasto and quieter joining passages. No smooth anime face under a cracked-paint filter. Keep her own amused oval-faced red-eyed likeness, not the style model's face.\nStory light is a candlelit late dinner after the moon has disappeared: connected muted violet-brown shadows and only small warm ochre planes. Do not brighten all her body into daylight or add rim lights. Dark red hair remains dark. Ivory gown painted as a few grouped lace masses, not thousands of bright flecks. Quiet OPAQUE LIGHT WARM IVORY background throughout, readable dark lettering, 1536x1024 3:2.",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
-            "role": "inspected latest candidate; single composition repair hides source-incorrect right-hand band while preserving correct left ring and identity",
-            "sha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "Primary inspected same-story candlelit oil palette and connected brush form; no location reproduced.",
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted broad oil skin planes and opaque ivory presentation only; never likeness or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
+            "role": "Inspected immutable candidate with correct ring-side composition; preserve identity/layout/story attire while replacing anime finish.",
+            "sha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
             "inspected": true
           }
         ],
@@ -216,39 +228,80 @@
               "Face and gown show opaque bristle-painted planes, dim candle warm planes over violet shadow, clean warm ivory without locations/floor/swatches. Failed attempts1-3 preserved with diagnosis."
             ],
             "selected": true
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T14:59:52.457085+00:00",
+            "prompt": "Use case: style-transfer. Repaint image 3, Queen Vessarine's reference folio, with the broad connected oil forms and brush rhythm of image 1; image 2 guides natural adult painted facial construction and opaque ivory folio presentation ONLY, never its subject's features or medieval gear. Image 3 retains Queen Vessarine's own identity, exact layout/text, immense dark RED hair, RED eyes, pale mature-adult face, small two canine points, white high-necked full-length lace dinner gown with covered arms, red throat stone, small earrings and only ONE thin worn gold wedding half-ring on anatomical LEFT hand. Her right arm remains behind her body, hand hidden. Preserve enlarged clasped-hand half-ring object. Preserve front/rear full figures and portrait, whole silhouettes, exact headings Queen Vessarine and The Unopened Ring. No scenery, floor patches, swatches, new anatomy studies or added ornaments.\nRequired correction: fully replace anime facial structure, large flat eyes, tiny outlined nose and thin spaghetti hair with ordinary adult proportions and broad substantial strokes, painted eyes set naturally in shadow, real cheek/brow/jaw planes. Faces, hair, gown and ring all share tangible directional bristle/knife oil construction with selective impasto and quieter joining passages. No smooth anime face under a cracked-paint filter. Keep her own amused oval-faced red-eyed likeness, not the style model's face.\nStory light is a candlelit late dinner after the moon has disappeared: connected muted violet-brown shadows and only small warm ochre planes. Do not brighten all her body into daylight or add rim lights. Dark red hair remains dark. Ivory gown painted as a few grouped lace masses, not thousands of bright flecks. Quiet OPAQUE LIGHT WARM IVORY background throughout, readable dark lettering, 1536x1024 3:2.",
+            "references": [
+              {
+                "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+                "role": "Primary inspected same-story candlelit oil palette and connected brush form; no location reproduced.",
+                "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Inspected accepted broad oil skin planes and opaque ivory presentation only; never likeness or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
+                "role": "Inspected immutable candidate with correct ring-side composition; preserve identity/layout/story attire while replacing anime finish.",
+                "sha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read finished story fully, inspected all three recovered original references, current candidate and actual dinner oil painting. Current source demands red eyes/long red hair/small fangs, lace wrist coverage and left-hand ring, sparse jewelry. Preserve resolved ring-side pose, correct only observed rendering drift; later candle-only lighting appropriate.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-e6cfcc48-79d6-438f-8a50-adecfecca8ad.png",
+            "candidateSha256": "defbf78e08c4b7ac7c4d21b7fd2ebb881f2feeec8e9cf4f2985d9ff58174d105",
+            "reviewedAt": "2026-09-24T15:15:43.744647+00:00",
+            "findings": [
+              "Saved folio inspected: mature adult red-eyed face modeled through broad painted brow/cheek/nose/lip planes, dark red hair and white lace gown retain distinct identity across unclipped front/rear and close portrait.",
+              "Small canine tips, red throat stone and sparse earrings retained; right arm remains concealed behind body while visible anatomical left hand carries worn gold ring. Enlarged half-ring shows hand motif without adding mechanism.",
+              "Source candlelit connected violet/brown shadow preserved with limited warm planes; opaque ivory sheet and exact Queen Vessarine / The Unopened Ring text clear, no scenery or swatches."
+            ]
           }
         ],
         "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
-        "actualSize": "1536x1024"
+        "actualSize": "1536x1024",
+        "selectedAttempt": 5
       },
       "validation": {
-        "status": "REVISE",
-        "reviewedBy": "production assistant actual-pixel review",
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T15:15:43.751611+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Saved folio inspected: mature adult red-eyed face modeled through broad painted brow/cheek/nose/lip planes, dark red hair and white lace gown retain distinct identity across unclipped front/rear and close portrait.",
+          "Small canine tips, red throat stone and sparse earrings retained; right arm remains concealed behind body while visible anatomical left hand carries worn gold ring. Enlarged half-ring shows hand motif without adding mechanism.",
+          "Source candlelit connected violet/brown shadow preserved with limited warm planes; opaque ivory sheet and exact Queen Vessarine / The Unopened Ring text clear, no scenery or swatches."
+        ],
         "sourceSha256": "eb3d330ec69aa5a24cb9fb57a5d326ec2351c66259aeddbb06802a98363d82ce",
-        "outputSha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
+        "outputSha256": "defbf78e08c4b7ac7c4d21b7fd2ebb881f2feeec8e9cf4f2985d9ff58174d105",
         "references": [
           {
-            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c55751ed-e218-4e56-92d9-73d0710745e5.png",
-            "role": "inspected latest candidate; single composition repair hides source-incorrect right-hand band while preserving correct left ring and identity",
-            "sha256": "27a4957be8066cedf6b3f6196dccc4480de136c2e9c896af6c171f115e24e5c0",
+            "path": "stories/the-unopened-ring/art/interiors/02-dinner-between-black-columns.png",
+            "role": "Primary inspected same-story candlelit oil palette and connected brush form; no location reproduced.",
+            "sha256": "ea1f7faaa936cbaf84305ef79bd9d4e65342281428462f572b812e9254414c2d",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Inspected accepted broad oil skin planes and opaque ivory presentation only; never likeness or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d024d4d7-1f34-44f6-a084-78ffb5203735.png",
+            "role": "Inspected immutable candidate with correct ring-side composition; preserve identity/layout/story attire while replacing anime finish.",
+            "sha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57",
             "inspected": true
           }
         ],
-        "evidence": [
-          "Actual fourth candidate inspected: right arm now bent behind body and entire right hand occluded, leaving only visible anatomicalLEFT hand bearing one worn goldband. Source ring-side restriction satisfied after composition repair.",
-          "Original identity retained: pale adult red-eyed queen, immense red hair, two small canines, ivory wrist-lace gown, red throat stone/small earrings and matching hand-motif half-ring. Complete body views and readable exact heading/title.",
-          "Face and gown show opaque bristle-painted planes, dim candle warm planes over violet shadow, clean warm ivory without locations/floor/swatches. Failed attempts1-3 preserved with diagnosis."
-        ],
-        "specificationSha256": "4471d6a0232ce701e433797c2814e3ea47669ae433a79a869e7623f643f6c7b3",
-        "finalCollectionReview": {
-          "status": "REVISE",
-          "reviewedAt": "2026-09-24T13:12:07.253428+00:00",
-          "reviewers": [
-            "cast_continue_1 (independent final review)",
-            "root (saved pixels inspected)"
-          ],
-          "finding": "Adult identity and layout remain coherent, but enlarged anime eyes, ink-like lash contours and simplified anime facial structure persist beneath surface impasto. Deferred from gallery for house-style correction; no new generation per user wrap-up request."
-        }
+        "specificationSha256": "76d2cd2b35bb1c7ead68b92028cc623b49dc83e551dba0d4176aed8ff4276ae0"
       },
       "presentation": {
         "characterOnly": true,
@@ -257,7 +310,7 @@
         "paletteStrip": false,
         "userApproval": "Full collection production authorized; final user review at end."
       },
-      "outputSha256": "e8d1c843535215ba157149267ea5be62e9e2816b1758a2638f15170693f9ed57"
+      "outputSha256": "defbf78e08c4b7ac7c4d21b7fd2ebb881f2feeec8e9cf4f2985d9ff58174d105"
     },
     {
       "id": "merovel",
