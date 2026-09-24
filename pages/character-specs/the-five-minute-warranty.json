@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-five-minute-warranty",
+  "title": "The Five-Minute Warranty",
+  "source": "stories/the-five-minute-warranty/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire canon bundle and prompt read. Main operating/choice trio Kezli, Olbit and Director Nalda Vick; competence is measured nonmagical engineering. Relevant LOCKED character and rig rules read.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Kezli",
+    "universe/characters.md#Olbit",
+    "universe/characters.md#Nalda Vick",
+    "universe/rules.md#North Rise five-minute emergency rig"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Mechanics, attendant, courier, boiler tender, runner and passengers",
+      "reason": "Supporting response roles and evacuees, no sustained individual principal arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "kezli",
+      "name": "Kezli",
+      "role": "goblin emergency engineer and paid workshop lead",
+      "form": "adult female goblin",
+      "selectionEvidence": [
+        {
+          "quote": "Kezli and Olbit had already packed gauges, oakcloth, and every wrench",
+          "explanation": "Practical technical equipment and readiness."
+        }
+      ],
+      "storyAppearance": {
+        "species": "Goblin, female pronouns, exact age/physical features unspecified.",
+        "equipment": "Gauges, wrenches, chalk, operating ticket/pen; no magic or universal goblin power.",
+        "state": "Upper landing during measured emergency work."
+      },
+      "visualInterpretation": [
+        "Art-only goblin appearance: short sturdy adult, muted moss-green skin, long outward-pointed ears, broad low nose, mature angular face, dark eyes, rust-brown hair in small high knot.",
+        "Mustard work shirt, dark brown practical waistcoat/tool apron, slate trousers and sturdy boots; five-finger hands. No babyish/grotesque racial caricature."
+      ],
+      "explicitCanon": [
+        "Skilled measured engineering, no magic/species-wide guarantee.",
+        "Unspecified age/body details remain art-only."
+      ],
+      "recurrence": {
+        "identityKey": "kezli",
+        "links": [],
+        "evidence": "Matches LOCKED universe identity; distinct from other engineers."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "output": "stories/the-five-minute-warranty/art/characters/kezli.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Kezli\"; title \"The Five-Minute Warranty\"; role \"Emergency engineer\". ONE adult female GOBLIN, short sturdy ADULT proportions, muted MOSS-GREEN skin, long outward pointed ears, broad low nose, strong mature angular cheekbones, ordinary DARK matte eyes, rust-brown hair in small practical high KNOT with short sides. Competent focused adult face, not child/chibi/monster or toothy caricature; no huge glossy eyes, fangs or horns. Plain MUSTARD work shirt with sleeves rolled, dark brown practical leather short tool APRON over waistcoat, slate work trousers, sturdy rounded brown BOOTS. Two complete front/rear views, front one ordinary FIVE-finger hand holds a normal steel WRENCH low, other relaxed. Large matching face labelled \"Five means five\". One isolated measurement CALIPER and short CHALK, label \"Measure, then promise\". No magical effect, gigantic machinery, clockface, floating numbers or color strips; oakcloth palette not shown.\nImage1 primary Group of Seven oil and MORNING shed light: modest warm cream/ochre window-side planes, connected cool purple-blue shadow, no sunset rim/glowing workshop sparks. Face and green skin broadly brushed matte opaque paint, varied large connected shapes just like clothes, no CGI/anime. Single identity on quiet ivory, complete boots with NO floor patches, no landscape/machine or swatches.",
+        "references": [
+          {
+            "path": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+            "role": "source morning shed light, cool shadow and warm window-side paint plus broad oil handling only; no machine/room",
+            "inspected": true,
+            "sha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:57:16.560638+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Kezli\"; title \"The Five-Minute Warranty\"; role \"Emergency engineer\". ONE adult female GOBLIN, short sturdy ADULT proportions, muted MOSS-GREEN skin, long outward pointed ears, broad low nose, strong mature angular cheekbones, ordinary DARK matte eyes, rust-brown hair in small practical high KNOT with short sides. Competent focused adult face, not child/chibi/monster or toothy caricature; no huge glossy eyes, fangs or horns. Plain MUSTARD work shirt with sleeves rolled, dark brown practical leather short tool APRON over waistcoat, slate work trousers, sturdy rounded brown BOOTS. Two complete front/rear views, front one ordinary FIVE-finger hand holds a normal steel WRENCH low, other relaxed. Large matching face labelled \"Five means five\". One isolated measurement CALIPER and short CHALK, label \"Measure, then promise\". No magical effect, gigantic machinery, clockface, floating numbers or color strips; oakcloth palette not shown.\nImage1 primary Group of Seven oil and MORNING shed light: modest warm cream/ochre window-side planes, connected cool purple-blue shadow, no sunset rim/glowing workshop sparks. Face and green skin broadly brushed matte opaque paint, varied large connected shapes just like clothes, no CGI/anime. Single identity on quiet ivory, complete boots with NO floor patches, no landscape/machine or swatches.",
+            "references": [
+              {
+                "path": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+                "role": "source morning shed light, cool shadow and warm window-side paint plus broad oil handling only; no machine/room",
+                "inspected": true,
+                "sha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870"
+              }
+            ],
+            "preflight": [
+              "Full canon bundle/prompt and LOCKED character/rig rules read; cover and selected source oil inspected.",
+              "Species/competence/props/source dust distinct; unspecified appearance expressly art-only, no generic magical goblin trope or palette strips.",
+              "Single identity and complete body/face/personally handled detail fit, ordinary source morning light and matte broad paint required."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e7a60d33-d41b-4e80-bd0a-01da21f4ed97.png",
+            "outputSha256": "0dc1f7d540a5bebe8bc590ee63059a942c506724af611692248973a78ce8d9bb",
+            "finishedAt": "2026-09-24T05:09:50.615482+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: coherent adult female goblin, mature angular green face/rust knot/pointed ears, distinct professional practical clothes and full front/rear views.",
+              "Five-finger hands, low held wrench and isolated caliper/chalk, exact name/title and five-means-five caption; no magic or machinery scene.",
+              "Broad matte oil skin and cloth, modest window daylight/cool shadows, blank ivory with complete boots and no swatch/palette strip."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e7a60d33-d41b-4e80-bd0a-01da21f4ed97.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3eb54bd44d282a8f48711878a6d34297a45590352fb7559ce8eaaf469e7d6690",
+        "outputSha256": "0dc1f7d540a5bebe8bc590ee63059a942c506724af611692248973a78ce8d9bb",
+        "references": [
+          {
+            "path": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+            "role": "source morning shed light, cool shadow and warm window-side paint plus broad oil handling only; no machine/room",
+            "inspected": true,
+            "sha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: coherent adult female goblin, mature angular green face/rust knot/pointed ears, distinct professional practical clothes and full front/rear views.",
+          "Five-finger hands, low held wrench and isolated caliper/chalk, exact name/title and five-means-five caption; no magic or machinery scene.",
+          "Broad matte oil skin and cloth, modest window daylight/cool shadows, blank ivory with complete boots and no swatch/palette strip."
+        ],
+        "specificationSha256": "7143e70e8bc2e2cd9f42fc4fc8477c0cf3ec355b7eaa170b0bbb93ff4a58a4bf"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "0dc1f7d540a5bebe8bc590ee63059a942c506724af611692248973a78ce8d9bb"
+    },
+    {
+      "id": "olbit",
+      "name": "Olbit",
+      "role": "goblin loadwright and independent operating partner",
+      "form": "adult male goblin",
+      "selectionEvidence": [
+        {
+          "quote": "He pulled the premeasured second fulcrum pin from his belt",
+          "explanation": "Distinctive source belt tool for prepared correction."
+        }
+      ],
+      "storyAppearance": {
+        "species": "Goblin, male pronouns, exact age/physical features unspecified.",
+        "equipment": "Measuring cord, scale weights and prepared belt fulcrum pin; measured contact/load work.",
+        "state": "Upper landing emergency, not magical embodiment of mechanical engine."
+      },
+      "visualInterpretation": [
+        "Art-only short broad stocky adult male goblin, gray-olive skin, long pointed ears, broad rounded nose, heavy calm brows, bald dome with gray side tufts.",
+        "Plain pale blue work shirt, plum-brown vest, dark trousers, waist belt with long fulcrum pin; sturdy boots, five-finger hands."
+      ],
+      "explicitCanon": [
+        "Independent measured loadwright, no magical ability or species-wide incompetence.",
+        "Age/family remain unresolved."
+      ],
+      "recurrence": {
+        "identityKey": "olbit",
+        "links": [],
+        "evidence": "Matches LOCKED universe identity; no other appearance found."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "output": "stories/the-five-minute-warranty/art/characters/olbit.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only, purely lettering cleanup. Beneath the face, retain ONLY the words 'One useful fact' (without colon). Completely remove the invented sentence 'I keep a spare pin measured, so the job never waits.' Replace its area with identical blank ivory. Under the isolated pin retain ONLY 'Prepared second pin'; remove the redundant 'Premeasured fulcrum pin.' line. Preserve every other pixel/content as closely as possible: exact Olbit identity, mature goblin face/ears/green skin, bald gray hair, full body views, work clothes/cord/belt pin, heading/title, broad matte Group of Seven oils and window light. No new text, no scene/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a6404cfb-05ac-4c43-b5cf-42626b72a007.png",
+            "role": "inspected immutable candidate, exact source lettering correction only",
+            "sha256": "3543ab54648048cb653a23045689cb2138eb37b5e51da897686b3f3dffa6608c",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:57:16.563530+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Olbit\"; title \"The Five-Minute Warranty\"; role \"Loadwright\". ONE adult male GOBLIN, short broad STOCKY ADULT build, gray-OLIVE green skin, long outward pointed ears, broad ROUNDED nose, calm heavy eyebrows, ordinary dark matte eyes, bald dome with short GRAY side tufts, no beard. Distinct older-looking male face from Kezli, no baby proportions, monster teeth or silly grin. Pale BLUE work shirt with rolled sleeves, PLUM-BROWN plain vest, charcoal trousers, leather BELT holding one premeasured long STEEL FULCRUM PIN safely in a loop, sturdy rounded brown BOOTS. Two complete front/rear views, front five-finger hands holding a simple measuring CORD loosely coiled at waist, no machine. Large matching face labelled \"One useful fact\". Isolated fulcrum PIN detail labelled \"Prepared second pin\", plain metal engineering pin not dagger. No goggles, hardhat logo, magic or boiler body, no color swatches/strips.\nImage1 primary broad matte Group of Seven oil, ordinary MORNING shed light with limited warm window-facing planes and connected cool violet-gray shadows. Visible varied directional bristle handling across green face, cloth and leather, no smooth digital eyes/skin, no shiny CGI. Quiet ivory around complete feet, absolutely no ground/floor, machinery or scenery, no other goblin/human.",
+            "references": [
+              {
+                "path": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+                "role": "source morning shed light, cool shadow and warm window-side paint plus broad oil handling only; no machine/room",
+                "inspected": true,
+                "sha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870"
+              }
+            ],
+            "preflight": [
+              "Full canon bundle/prompt and LOCKED character/rig rules read; cover and selected source oil inspected.",
+              "Species/competence/props/source dust distinct; unspecified appearance expressly art-only, no generic magical goblin trope or palette strips.",
+              "Single identity and complete body/face/personally handled detail fit, ordinary source morning light and matte broad paint required."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a6404cfb-05ac-4c43-b5cf-42626b72a007.png",
+            "outputSha256": "3543ab54648048cb653a23045689cb2138eb37b5e51da897686b3f3dffa6608c",
+            "finishedAt": "2026-09-24T05:09:51.996050+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual adult male goblin identity/workwear/measuring cord/prepared belt pin and paint/light pass.",
+              "Generator invented a sentence under One useful fact, which is not source dialogue. Remove it and redundant item explanation, retain concise labels only."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:09:54.155228+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lettering-edit",
+            "prompt": "Edit image1 only, purely lettering cleanup. Beneath the face, retain ONLY the words 'One useful fact' (without colon). Completely remove the invented sentence 'I keep a spare pin measured, so the job never waits.' Replace its area with identical blank ivory. Under the isolated pin retain ONLY 'Prepared second pin'; remove the redundant 'Premeasured fulcrum pin.' line. Preserve every other pixel/content as closely as possible: exact Olbit identity, mature goblin face/ears/green skin, bald gray hair, full body views, work clothes/cord/belt pin, heading/title, broad matte Group of Seven oils and window light. No new text, no scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a6404cfb-05ac-4c43-b5cf-42626b72a007.png",
+                "role": "inspected immutable candidate, exact source lettering correction only",
+                "sha256": "3543ab54648048cb653a23045689cb2138eb37b5e51da897686b3f3dffa6608c",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual pixels inspected; exact source text replaces invented wording, no identity/art/state alteration.",
+              "Immutable returned image attached, all visual source gates already checked."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a780858f-e88e-41b1-9849-cbefd1597b5a.png",
+            "outputSha256": "17083d1422a0ce3d37d58fc7267d63c372bfe528a1ba6809c0757c1a8fae8d65",
+            "finishedAt": "2026-09-24T05:33:22.418651+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: invented sentence removed; coherent mature goblin identity and complete front/rear views, ordinary measuring cord and prepared second pin preserved.",
+              "Broad matte oil handling across face/clothes; source morning light, quiet ivory, no location/floor/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a780858f-e88e-41b1-9849-cbefd1597b5a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3eb54bd44d282a8f48711878a6d34297a45590352fb7559ce8eaaf469e7d6690",
+        "outputSha256": "17083d1422a0ce3d37d58fc7267d63c372bfe528a1ba6809c0757c1a8fae8d65",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a6404cfb-05ac-4c43-b5cf-42626b72a007.png",
+            "role": "inspected immutable candidate, exact source lettering correction only",
+            "sha256": "3543ab54648048cb653a23045689cb2138eb37b5e51da897686b3f3dffa6608c",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: invented sentence removed; coherent mature goblin identity and complete front/rear views, ordinary measuring cord and prepared second pin preserved.",
+          "Broad matte oil handling across face/clothes; source morning light, quiet ivory, no location/floor/swatches."
+        ],
+        "specificationSha256": "c238efaa5be4fb5107b2aeac6268c6ba5012d7f440d1b75d8ee70ff9b99de57e"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "17083d1422a0ce3d37d58fc7267d63c372bfe528a1ba6809c0757c1a8fae8d65"
+    },
+    {
+      "id": "nalda-vick",
+      "name": "Nalda Vick",
+      "role": "human lift director who signs persons-before-property evacuation",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Her gray coat was powdered white from the blast",
+          "explanation": "Specific director clothing and surface state."
+        }
+      ],
+      "storyAppearance": {
+        "species": "Human woman, director.",
+        "clothing": "Gray coat powdered white from blast.",
+        "equipment": "Passenger sheet, pen and signed operating priority; official decisions rather than engineer tools.",
+        "state": "Upper landing, after signing passenger priority."
+      },
+      "visualInterpretation": [
+        "Art-only mature human face, medium-brown skin, broad forehead/long jaw, short straight gray-black bob, dark eyes.",
+        "Gray fitted knee coat over dark skirt/trousers and low leather shoes; white dust on shoulders, wood clipboard/passenger sheet."
+      ],
+      "explicitCanon": [
+        "Human director, responsible for priority and maintenance decision.",
+        "Exact age and family/career outcome unresolved."
+      ],
+      "recurrence": {
+        "identityKey": "nalda-vick",
+        "links": [],
+        "evidence": "Matches LOCKED identity, no kinship inferred with other Vick."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "output": "stories/the-five-minute-warranty/art/characters/nalda-vick.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only. On LARGE lower-right clipboard keep heading 'PERSONS BEFORE PROPERTY'. Remove ALL four invented sentences below it. Replace them with exactly TWO source lines: 'FOUR PASSENGER LOADS.' and 'STRONGBOX REMAINS BELOW.' Keep existing signature scribble beneath and 'Signed priority' caption. No other words or dates on paper. Preserve every other detail exactly: Nalda Vick identity/human face/gray-black bob, dusty gray coat, complete front/rear views, hands/pen/clipboard, title/role, all broad matte oil brushwork and morning window light, quiet ivory background. No change to face or clothes, no new scene/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee55982c-55df-4dba-8a60-a76902b70ac6.png",
+            "role": "inspected immutable candidate, exact source lettering correction only",
+            "sha256": "ce936c8a010045b96a99d306ea2d43770dda0d8f2c5983d7ac31d2f227fe13be",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:57:16.566283+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Nalda Vick\"; title \"The Five-Minute Warranty\"; role \"Director\". ONE mature adult HUMAN woman, medium-brown skin, broad forehead and long strong jaw, short straight GRAY-BLACK bob tucked behind ordinary rounded HUMAN ears, dark matte eyes, age around fifties visual casting. Do NOT make goblin/green/pointed ears. Restrained tense accountable expression, not villain scowl. Fitted GRAY knee-length COAT with collar, POWDERED WHITE DUST on shoulders/sleeves from blast, dark charcoal plain trousers, low rounded brown leather shoes. Two complete front/rear same-state views, front holds wooden CLIPBOARD with passenger sheet and ordinary pen, no wrench/magic/crown. Large sameface labelled \"The choice is hers\". Isolated signed paper detail, exact short heading \"PERSONS BEFORE PROPERTY\", below four short neat lines and signature scribble only, label \"Signed priority\". No other readable invented dates/decisions.\nImage1 primary Group of Seven oil, morning shed-window light with modest warm ochre planes and substantial cool violet-gray connected shadows, ordinary no cinematic rim. Mature face paint broad matte directional strokes as strong as dust-coated cloth, no photo/anime. Blank ivory character folio, no floor shadow/scenery/machinery/color strip, complete feet and one identity.",
+            "references": [
+              {
+                "path": "stories/the-five-minute-warranty/art/interiors/01-upper-lift-machinery-shed.png",
+                "role": "source morning shed light, cool shadow and warm window-side paint plus broad oil handling only; no machine/room",
+                "inspected": true,
+                "sha256": "21aa7792fedf61ae44f09a4c3db715f194d796b9f0cd3e23e5993135cd1e1870"
+              }
+            ],
+            "preflight": [
+              "Full canon bundle/prompt and LOCKED character/rig rules read; cover and selected source oil inspected.",
+              "Species/competence/props/source dust distinct; unspecified appearance expressly art-only, no generic magical goblin trope or palette strips.",
+              "Single identity and complete body/face/personally handled detail fit, ordinary source morning light and matte broad paint required."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee55982c-55df-4dba-8a60-a76902b70ac6.png",
+            "outputSha256": "ce936c8a010045b96a99d306ea2d43770dda0d8f2c5983d7ac31d2f227fe13be",
+            "finishedAt": "2026-09-24T05:09:55.306275+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Coherent mature human director, gray coat/white blast dust, clipboard/pen and complete views/paint/light pass.",
+              "Large paper invented four generic policy sentences. Replace with exact source decision lines, no new moral/instructional wording."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:09:57.308950+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lettering-edit",
+            "prompt": "Edit image1 only. On LARGE lower-right clipboard keep heading 'PERSONS BEFORE PROPERTY'. Remove ALL four invented sentences below it. Replace them with exactly TWO source lines: 'FOUR PASSENGER LOADS.' and 'STRONGBOX REMAINS BELOW.' Keep existing signature scribble beneath and 'Signed priority' caption. No other words or dates on paper. Preserve every other detail exactly: Nalda Vick identity/human face/gray-black bob, dusty gray coat, complete front/rear views, hands/pen/clipboard, title/role, all broad matte oil brushwork and morning window light, quiet ivory background. No change to face or clothes, no new scene/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee55982c-55df-4dba-8a60-a76902b70ac6.png",
+                "role": "inspected immutable candidate, exact source lettering correction only",
+                "sha256": "ce936c8a010045b96a99d306ea2d43770dda0d8f2c5983d7ac31d2f227fe13be",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual pixels inspected; exact source text replaces invented wording, no identity/art/state alteration.",
+              "Immutable returned image attached, all visual source gates already checked."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5467fe28-6d21-4560-b458-15c841bf4298.png",
+            "outputSha256": "d0d4341f0272ff4b9d73bd8d5b2f6a92a472fa8f85e86f5190431c9e9b299430",
+            "finishedAt": "2026-09-24T05:33:22.451874+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: large clipboard now reads exact source decision FOUR PASSENGER LOADS. STRONGBOX REMAINS BELOW. beneath PERSONS BEFORE PROPERTY; no invented policy sentences.",
+              "Mature human identity, dusty gray coat, full front/rear bodies, clipboard and pen stable; matte oil face and morning light with quiet ivory and no location/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5467fe28-6d21-4560-b458-15c841bf4298.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3eb54bd44d282a8f48711878a6d34297a45590352fb7559ce8eaaf469e7d6690",
+        "outputSha256": "d0d4341f0272ff4b9d73bd8d5b2f6a92a472fa8f85e86f5190431c9e9b299430",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ee55982c-55df-4dba-8a60-a76902b70ac6.png",
+            "role": "inspected immutable candidate, exact source lettering correction only",
+            "sha256": "ce936c8a010045b96a99d306ea2d43770dda0d8f2c5983d7ac31d2f227fe13be",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: large clipboard now reads exact source decision FOUR PASSENGER LOADS. STRONGBOX REMAINS BELOW. beneath PERSONS BEFORE PROPERTY; no invented policy sentences.",
+          "Mature human identity, dusty gray coat, full front/rear bodies, clipboard and pen stable; matte oil face and morning light with quiet ivory and no location/swatches."
+        ],
+        "specificationSha256": "75d2ba4eb22d64aefdd0456841f4fa7a1221c2101926e82bf87e0be91295d924"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d0d4341f0272ff4b9d73bd8d5b2f6a92a472fa8f85e86f5190431c9e9b299430"
+    }
+  ],
+  "sourceSha256": "3eb54bd44d282a8f48711878a6d34297a45590352fb7559ce8eaaf469e7d6690"
+}
