@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-way-around",
+  "title": "The Way Around",
+  "source": "stories/the-way-around/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire source and prompt read, original Image#1 recovered exactly and inspected, cover/oil inspected. Three sustained expedition collaborators are entire main cast; authority/name/spec search found no shared identity match.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Past explorers and expedition halls",
+      "reason": "Background and historical collective only; no separate individual main character."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ivara",
+      "name": "Ivara",
+      "role": "hunter and impossible-angle archer",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "weathered green cloak bunched over a dust-brown leather coat",
+          "explanation": "Exact source costume."
+        },
+        {
+          "quote": "Brown hair had escaped Ivara's braid",
+          "explanation": "Exact hair arrangement."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Young adult woman with brown braid, loose hair and small thumbs.",
+        "clothing": "Weathered green cloak, dust-brown leather coat, bracer, two gloves in selected early state, boots.",
+        "equipment": "Ordinary bow, arrows and quiver; source abilities do not imply glowing equipment."
+      },
+      "visualInterpretation": [
+        "Original young adult tan freckled face, gray-green eyes and practical leather gear preserved as matte oil; ordinary human ears.",
+        "Early underground intact state, no magical arrows/architecture."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Early buried hall, before dimensional crisis and before glove loss."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-way-around:ivara",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-way-around/art/characters/ivara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this Ivara sheet, light/facial brushwork only. Keep original young adult identity, exact brown braid, greencloak/dustbrownleathercoat/bothgloves/bow inLEFT hand frontandrear, quiver and isolatedbracer unchanged. Preserve original1536x1024 layout/name/title, exact face identity and body proportions, all costumes/props and complete front/rear silhouettes. Correct selected underground OIL-LAMP lighting: at least TWO THIRDS of each face and body surface is one CONNECTED DARK muted VIOLET/UMBER shadow mass, with only a few small OCHRE lamp-facing cheek/nose/finger planes, no broad golden portrait fill or sunlight. BRIGHT plain warm IVORY stays untouched. Use broad opaque MATTE oil strokes also for eyes/face, no glossy photographic skin/eyes/boots, no floor patches/scenery/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2fd3b5fb-9414-40ed-b02a-588e431ba56b.png",
+            "role": "inspected candidate, identity/equipment/layout preserved; dimlamp light and matte face only",
+            "sha256": "8d93ba154408558a4c14609186b80bb963befdebf012776a82e2c53316323d35",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:32:57.682030+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ivara\"; title \"The Way Around\"; role \"The archer\". ONE young ADULT HUMAN woman twenties, same tan lightlyfreckled face/gray-green eyes as IMAGE2, brown hair braided down back with escaped face-strands, ordinary rounded human ears. Practical WEATHERED GREEN hoodedcloak, hoodDOWN, over DUST-BROWN fitted LEATHER COAT and darktrousers/leatherboots. Both hands gloved; simplebrownforearmBRACER on anatomicalLEFT arm. Holds ordinary unglowing WOODEN BOW in LEFT hand at front VIEWERRIGHT; rear LEFT hand/bow atVIEWERLEFT. Simple quiver highCENTREback with ordinary arrows. Two completefront/rear bodies, SAME matching adultface; isolated small leatherbracer detail. No elvenears/antlers/regalia/magicrings, no ungloved injuredhand.\nEARLY UNDERGROUND expedition state, intact equipment before disaster. Strongly DIM oil-lamp lighting: TWO THIRDS of face/body surfaces in connected DARK muted VIOLET/UMBER shadow; only small lamp-facing nose/near-cheek/fingers catch OCHRE amber paint. NO broad daylight fill. BOLD matte oil faces and clothes, ordinary matte eyes, no photoreal/anime skin or glossyboots. Quiet BRIGHT warm IVORY field remains clean with no floor/shadows/room/swatches.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+                "role": "inspected primary same-story broad oil and dark underground lamp light; no architecture",
+                "inspected": true,
+                "sha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-6e64f06a-dcee-4888-a586-e070790da833.png",
+                "role": "original Image#1 inspected young adult Ivara face, brown braid, weathered green cloak/brown leather coat/bow only; no photographic finish/scenery",
+                "inspected": true,
+                "sha256": "997428d5276cab1fe31eefef1b7e28de2a486228270c7b2178af2f3ebc9161aa"
+              }
+            ],
+            "preflight": [
+              "Entire source/prompt/original/cover/oil read or inspected. Early intact expedition state avoids later glove loss/props damaged in crisis.",
+              "Three unique adult identities, exact source names, original Ivara face only; dim oil-lamp light, bold matte face paint and no scene. 1-2 inspected references, source/hash current."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2fd3b5fb-9414-40ed-b02a-588e431ba56b.png",
+            "outputSha256": "8d93ba154408558a4c14609186b80bb963befdebf012776a82e2c53316323d35",
+            "finishedAt": "2026-09-24T09:37:23.659423+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate preserves original young adult face, brown braided hair, greencloak/brownleathercoat/gloves/bow in correctLEFT bothviews. Portrait still too broadly illuminated orange/daylight for selected underground; targeted connected dark shadow and matte eyes."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:37:25.558704+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this Ivara sheet, light/facial brushwork only. Keep original young adult identity, exact brown braid, greencloak/dustbrownleathercoat/bothgloves/bow inLEFT hand frontandrear, quiver and isolatedbracer unchanged. Preserve original1536x1024 layout/name/title, exact face identity and body proportions, all costumes/props and complete front/rear silhouettes. Correct selected underground OIL-LAMP lighting: at least TWO THIRDS of each face and body surface is one CONNECTED DARK muted VIOLET/UMBER shadow mass, with only a few small OCHRE lamp-facing cheek/nose/finger planes, no broad golden portrait fill or sunlight. BRIGHT plain warm IVORY stays untouched. Use broad opaque MATTE oil strokes also for eyes/face, no glossy photographic skin/eyes/boots, no floor patches/scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2fd3b5fb-9414-40ed-b02a-588e431ba56b.png",
+                "role": "inspected candidate, identity/equipment/layout preserved; dimlamp light and matte face only",
+                "sha256": "8d93ba154408558a4c14609186b80bb963befdebf012776a82e2c53316323d35",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual first candidate inspected; precise lighting and ledgerpage correction preserves source identity/equipment.",
+              "Single inspected candidate, no conflicting refs, 1536x1024 full figures/ivory."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-4a5bd13d-b741-47e3-b489-31e93af384f3.png",
+            "outputSha256": "a517798ac274ff60c1740e3e25e398693385d1738787c0f8f6f9677f97f28910",
+            "finishedAt": "2026-09-24T09:46:04.130456+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: source underground lamp light now small ochre planes against dominant connected violet/umber shadow, bold matte faces and clothing. Whole matching front/rear bodies, exact readable heading/title and clean ivory no floor/scenery/swatches.",
+              "Original adult face/hair preserved as oil, same anatomicalLEFT bow in both bodies, intact gloves/quiver/bracer, green cloak and brown leather coat."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-4a5bd13d-b741-47e3-b489-31e93af384f3.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "45a0ed77b3993ed126209eca54aad9c63de2257a09e58cd80162ea48de374316",
+        "outputSha256": "a517798ac274ff60c1740e3e25e398693385d1738787c0f8f6f9677f97f28910",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2fd3b5fb-9414-40ed-b02a-588e431ba56b.png",
+            "role": "inspected candidate, identity/equipment/layout preserved; dimlamp light and matte face only",
+            "sha256": "8d93ba154408558a4c14609186b80bb963befdebf012776a82e2c53316323d35",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: source underground lamp light now small ochre planes against dominant connected violet/umber shadow, bold matte faces and clothing. Whole matching front/rear bodies, exact readable heading/title and clean ivory no floor/scenery/swatches.",
+          "Original adult face/hair preserved as oil, same anatomicalLEFT bow in both bodies, intact gloves/quiver/bracer, green cloak and brown leather coat."
+        ],
+        "specificationSha256": "e64f4d26fa7fe0bc8657f0e33a3ea4dbe2a623c2c64adbed7fd36c7f70017d64"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "a517798ac274ff60c1740e3e25e398693385d1738787c0f8f6f9677f97f28910"
+    },
+    {
+      "id": "tressa",
+      "name": "Tressa",
+      "role": "expedition recorder and geometrical collaborator",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Tressa had already opened her ledger.",
+          "explanation": "Sustained source recorder."
+        },
+        {
+          "quote": "Her pencil shook, but it kept moving.",
+          "explanation": "Pencil and ledger source tools."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult woman; face/age/colors unspecified.",
+        "equipment": "Ledger, pencil, chalk, lamp and waterskins."
+      },
+      "visualInterpretation": [
+        "Art-only middle-aged tall olive woman with long narrow face and short dark curls graying, hazel eyes; tan fieldcoat/navywaistcoat/slate trousers.",
+        "No glasses or divine/unusual marks; scholarly habits conveyed by work tools."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Early underground hall, before torn pages and crisis."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-way-around:tressa",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-way-around/art/characters/tressa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this Tressa sheet. In the ENLARGED OPEN LEDGER bottomright, REMOVE the architectural hall drawing and replace with sparse ordinary pencil technical SKETCH: two short straight lines meeting at an angle, another short arc, simple hatchticks. No building, room, perspective, scenery or invented words in book. Keepbook/pencil/objectpositionexact. Preserve original1536x1024 layout/name/title, exact face identity and body proportions, all costumes/props and complete front/rear silhouettes. Correct selected underground OIL-LAMP lighting: at least TWO THIRDS of each face and body surface is one CONNECTED DARK muted VIOLET/UMBER shadow mass, with only a few small OCHRE lamp-facing cheek/nose/finger planes, no broad golden portrait fill or sunlight. BRIGHT plain warm IVORY stays untouched. Use broad opaque MATTE oil strokes also for eyes/face, no glossy photographic skin/eyes/boots, no floor patches/scenery/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9733620d-4008-4590-8c0c-cc5138620fd6.png",
+            "role": "inspected candidate, remove inbook architecture drawing to simple source angles; dimlamp light only",
+            "sha256": "85942157446dd2b7d25c83b547d672077d53bfcbb7ed64629a32b054db946fd7",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:32:57.684677+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Tressa\"; title \"The Way Around\"; role \"The recorder\". ONE HUMAN ADULT woman midforties, tall lean frame, olive skin, LONG NARROW face/prominent straightnose, short darkgray CURLS, mattehazel eyes, thoughtful firm mouth. Plain TAN linen FIELDCOAT over navyWAISTCOAT and gray shirt, SLATE trousers, wornbrown laceboots. Holds closed modest BROWN LEDGER centered atwaist and plain wooden PENCIL in right hand; tucked short chalkstub atcoatbreast. Simple canvas SATCHEL centeredlowback, no unilateralbag drift. Two completefront/rear bodies, largematching face and isolated partlyOPEN LEDGER with neat sparse angle-sketch and pencil, no readable inventedstorytext. No jewelry/glasses/hat/crown.\nEARLY UNDERGROUND expedition state, intact equipment before disaster. Strongly DIM oil-lamp lighting: TWO THIRDS of face/body surfaces in connected DARK muted VIOLET/UMBER shadow; only small lamp-facing nose/near-cheek/fingers catch OCHRE amber paint. NO broad daylight fill. BOLD matte oil faces and clothes, ordinary matte eyes, no photoreal/anime skin or glossyboots. Quiet BRIGHT warm IVORY field remains clean with no floor/shadows/room/swatches.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+                "role": "inspected primary same-story broad oil and dark underground lamp light; no architecture",
+                "inspected": true,
+                "sha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452"
+              }
+            ],
+            "preflight": [
+              "Entire source/prompt/original/cover/oil read or inspected. Early intact expedition state avoids later glove loss/props damaged in crisis.",
+              "Three unique adult identities, exact source names, original Ivara face only; dim oil-lamp light, bold matte face paint and no scene. 1-2 inspected references, source/hash current."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9733620d-4008-4590-8c0c-cc5138620fd6.png",
+            "outputSha256": "85942157446dd2b7d25c83b547d672077d53bfcbb7ed64629a32b054db946fd7",
+            "finishedAt": "2026-09-24T09:37:23.661826+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate identity/clothes/tools pass but enlarged ledger invents architectural environment view. Replace page drawing with simple technical angles/lines only, while dimming broadlight to source lamp contrast."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:37:25.560960+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this Tressa sheet. In the ENLARGED OPEN LEDGER bottomright, REMOVE the architectural hall drawing and replace with sparse ordinary pencil technical SKETCH: two short straight lines meeting at an angle, another short arc, simple hatchticks. No building, room, perspective, scenery or invented words in book. Keepbook/pencil/objectpositionexact. Preserve original1536x1024 layout/name/title, exact face identity and body proportions, all costumes/props and complete front/rear silhouettes. Correct selected underground OIL-LAMP lighting: at least TWO THIRDS of each face and body surface is one CONNECTED DARK muted VIOLET/UMBER shadow mass, with only a few small OCHRE lamp-facing cheek/nose/finger planes, no broad golden portrait fill or sunlight. BRIGHT plain warm IVORY stays untouched. Use broad opaque MATTE oil strokes also for eyes/face, no glossy photographic skin/eyes/boots, no floor patches/scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9733620d-4008-4590-8c0c-cc5138620fd6.png",
+                "role": "inspected candidate, remove inbook architecture drawing to simple source angles; dimlamp light only",
+                "sha256": "85942157446dd2b7d25c83b547d672077d53bfcbb7ed64629a32b054db946fd7",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual first candidate inspected; precise lighting and ledgerpage correction preserves source identity/equipment.",
+              "Single inspected candidate, no conflicting refs, 1536x1024 full figures/ivory."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e9101d54-d3cd-40ef-9804-7a6f23905f0d.png",
+            "outputSha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+            "finishedAt": "2026-09-24T09:46:04.142240+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: source underground lamp light now small ochre planes against dominant connected violet/umber shadow, bold matte faces and clothing. Whole matching front/rear bodies, exact readable heading/title and clean ivory no floor/scenery/swatches.",
+              "Ledger page now simple technical angle/arc marks rather than architectural picture; coherent mature recorder face and source tools, matching centralback satchel."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e9101d54-d3cd-40ef-9804-7a6f23905f0d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "45a0ed77b3993ed126209eca54aad9c63de2257a09e58cd80162ea48de374316",
+        "outputSha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9733620d-4008-4590-8c0c-cc5138620fd6.png",
+            "role": "inspected candidate, remove inbook architecture drawing to simple source angles; dimlamp light only",
+            "sha256": "85942157446dd2b7d25c83b547d672077d53bfcbb7ed64629a32b054db946fd7",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: source underground lamp light now small ochre planes against dominant connected violet/umber shadow, bold matte faces and clothing. Whole matching front/rear bodies, exact readable heading/title and clean ivory no floor/scenery/swatches.",
+          "Ledger page now simple technical angle/arc marks rather than architectural picture; coherent mature recorder face and source tools, matching centralback satchel."
+        ],
+        "specificationSha256": "6d5c885375f15597541f2840033e89ad2dabeb3cc00b472db825d1d0a550f967"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+    },
+    {
+      "id": "mazin",
+      "name": "Mazin",
+      "role": "expedition companion, water carrier and tactile collaborator",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Mazin wiped chalk from his beard.",
+          "explanation": "Exact beard."
+        },
+        {
+          "quote": "Mazin set his palm beneath them.",
+          "explanation": "Tactile knowledge contributes to escape."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult bearded man with broad hands; other appearance unspecified.",
+        "equipment": "Waterskins, rope, oil lamp, knife."
+      },
+      "visualInterpretation": [
+        "Art-only stocky darkbrown man40s with broad nose/black closehair and beard, ochretunic/darkvest.",
+        "Early intact expedition gear; no chalkdistaster or sweatcloth across face untilending."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Early underground hall, intact waterskins and rope before crisis."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-way-around:mazin",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-way-around/art/characters/mazin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Mazin\"; title \"The Way Around\"; role \"The water carrier\". ONE HUMAN ADULT man earlyforties, stockystrong body, DARK BROWN skin, BROADNOSE and broadpalm, close black curlyhair and short FULL BLACK BEARD, mattebrowneyes, dry wryexpression. OCHRE tunic/darkUMBER vest, worn darktrousers and brownboots, plain offwhiteneckcloth. Holds squat handled OIL LAMP in RIGHT hand at frontVIEWERLEFT, rearRIGHT hand atVIEWERRIGHT; small dimflame behindglass. Carry two flat intact WATERSKINS at belt flanks, compact ROPECOIL centeredlowerback, tiny utilitarian sheathedknife centerbelt. Two complete front/rear views, large same face, isolated worn leather WATERSKIN with corkedneck. No spear/sword/armor, no location or floor.\nEARLY UNDERGROUND expedition state, intact equipment before disaster. Strongly DIM oil-lamp lighting: TWO THIRDS of face/body surfaces in connected DARK muted VIOLET/UMBER shadow; only small lamp-facing nose/near-cheek/fingers catch OCHRE amber paint. NO broad daylight fill. BOLD matte oil faces and clothes, ordinary matte eyes, no photoreal/anime skin or glossyboots. Quiet BRIGHT warm IVORY field remains clean with no floor/shadows/room/swatches.",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+            "role": "inspected primary same-story broad oil and dark underground lamp light; no architecture",
+            "inspected": true,
+            "sha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:32:57.687187+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Mazin\"; title \"The Way Around\"; role \"The water carrier\". ONE HUMAN ADULT man earlyforties, stockystrong body, DARK BROWN skin, BROADNOSE and broadpalm, close black curlyhair and short FULL BLACK BEARD, mattebrowneyes, dry wryexpression. OCHRE tunic/darkUMBER vest, worn darktrousers and brownboots, plain offwhiteneckcloth. Holds squat handled OIL LAMP in RIGHT hand at frontVIEWERLEFT, rearRIGHT hand atVIEWERRIGHT; small dimflame behindglass. Carry two flat intact WATERSKINS at belt flanks, compact ROPECOIL centeredlowerback, tiny utilitarian sheathedknife centerbelt. Two complete front/rear views, large same face, isolated worn leather WATERSKIN with corkedneck. No spear/sword/armor, no location or floor.\nEARLY UNDERGROUND expedition state, intact equipment before disaster. Strongly DIM oil-lamp lighting: TWO THIRDS of face/body surfaces in connected DARK muted VIOLET/UMBER shadow; only small lamp-facing nose/near-cheek/fingers catch OCHRE amber paint. NO broad daylight fill. BOLD matte oil faces and clothes, ordinary matte eyes, no photoreal/anime skin or glossyboots. Quiet BRIGHT warm IVORY field remains clean with no floor/shadows/room/swatches.",
+            "references": [
+              {
+                "path": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+                "role": "inspected primary same-story broad oil and dark underground lamp light; no architecture",
+                "inspected": true,
+                "sha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452"
+              }
+            ],
+            "preflight": [
+              "Entire source/prompt/original/cover/oil read or inspected. Early intact expedition state avoids later glove loss/props damaged in crisis.",
+              "Three unique adult identities, exact source names, original Ivara face only; dim oil-lamp light, bold matte face paint and no scene. 1-2 inspected references, source/hash current."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-453c88d2-3d6c-40ef-b076-c69c49e1f3e5.png",
+            "outputSha256": "e4c00f74598b65fe765a555aaf473933ec91cd0c90597c9bb7fb370f97387b84",
+            "finishedAt": "2026-09-24T09:37:23.647195+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate inspected: coherent stocky bearded adult with broad hands; intact two waterskins, central rope, utilitarian knife, source lamp in anatomicalRIGHT consistently front/rear.",
+              "Lamp-motivated ochre near planes contrast connected violet/umber shadows; matte oil face and clothing with varied strokes. Full bodies/name/title, isolated waterskin, clean ivory no scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-453c88d2-3d6c-40ef-b076-c69c49e1f3e5.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "45a0ed77b3993ed126209eca54aad9c63de2257a09e58cd80162ea48de374316",
+        "outputSha256": "e4c00f74598b65fe765a555aaf473933ec91cd0c90597c9bb7fb370f97387b84",
+        "references": [
+          {
+            "path": "stories/the-way-around/art/interiors/01-the-buried-ring-hall.png",
+            "role": "inspected primary same-story broad oil and dark underground lamp light; no architecture",
+            "inspected": true,
+            "sha256": "9d2d9f632f2ed16701f0fb7c0216da7c07ebc348294e17d43f8e87eb37c86452"
+          }
+        ],
+        "evidence": [
+          "Actual first candidate inspected: coherent stocky bearded adult with broad hands; intact two waterskins, central rope, utilitarian knife, source lamp in anatomicalRIGHT consistently front/rear.",
+          "Lamp-motivated ochre near planes contrast connected violet/umber shadows; matte oil face and clothing with varied strokes. Full bodies/name/title, isolated waterskin, clean ivory no scenery/swatches."
+        ],
+        "specificationSha256": "e726f1d37f66a4f9e58319ce198657d427e55cccf3947487b360c635c5dfd187"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "e4c00f74598b65fe765a555aaf473933ec91cd0c90597c9bb7fb370f97387b84"
+    }
+  ],
+  "externalReferences": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-6e64f06a-dcee-4888-a586-e070790da833.png",
+      "role": "original Image#1 inspected young adult Ivara face, brown braid, weathered green cloak/brown leather coat/bow only; no photographic finish/scenery",
+      "inspected": true,
+      "displayName": "codex-clipboard-6e64f06a-dcee-4888-a586-e070790da833.png",
+      "sha256": "997428d5276cab1fe31eefef1b7e28de2a486228270c7b2178af2f3ebc9161aa",
+      "recoveryEvidence": "Exact sole input_image paired with Image#1 original user WP, zero-based line8 in rollout-2026-08-26T07-59-01-01a03df0-1d2b-77c2-b450-8efb291dfb09.jsonl."
+    }
+  ],
+  "sourceSha256": "45a0ed77b3993ed126209eca54aad9c63de2257a09e58cd80162ea48de374316"
+}
