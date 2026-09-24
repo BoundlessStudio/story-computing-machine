@@ -1,0 +1,779 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-future-that-refused-us",
+  "title": "The Future That Refused Us",
+  "source": "stories/the-future-that-refused-us/05-story.md",
+  "sourceSha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "The finished story and CANON identify Zadie Cleft, her thirteen-year-old son Nilo Cleft, and first reader Baird Ansel as principal moral agents. The same unnamed fisher initiates the lifesaving buoyed bridge and later changes the drain plan, a repeated substantial support role; an art-only name distinguishes that one living identity.",
+  "excludedMinorCharacters": [
+    "Eight other readers act as an undifferentiated chorus, five die and three survive alongside Baird; no individual supporting identity is sustained.",
+    "Officials, rescuers, two apprentices, unnamed dead, porter and child in flashback remain collective/incidental roles; do not invent combined characters.",
+    "Covenant, schedule, bells, counterweight and gate are nonliving infrastructure by CANON, not character subjects."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy read; story.json canon:true read before source. CANON universe/characters.md Zadie Cleft/Nilo Cleft/Baird Ansel, rules.md Covenant of Hours, locations.md Sablewake, timeline.md breaking of Covenant read; no source file changed."
+  ],
+  "characters": [
+    {
+      "id": "zadie-cleft",
+      "name": "Zadie Cleft",
+      "role": "Bell builder/operator and principal agent of prophecy breach",
+      "naming": {
+        "sourceName": "Zadie Cleft",
+        "sourceRole": "bell builder and operator",
+        "provenance": "Exact CANON full name; not assigned unsupported formal keeper title"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Zadie had built bells to tell a whole city what to do.",
+          "explanation": "Core role."
+        },
+        {
+          "quote": "She drew three rough marks on the slate",
+          "explanation": "Public accountable observations replace command."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Nilo's mother, builder/operator of civic bells, uses ropes, striker and observation slate. Boots explicit, post-flood wet/dirty context. No specified physical appearance, magical form or permanent wound.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation age36, sturdy medium height, warm medium-brown skin, square broad face, strong dark brows, hazel-brown eyes, dense dark-brown curls tied low with loose wet strands. Dark teal workshirt, russet leather waistcoat, charcoal trousers and sturdy dark boots, wet mud at hems; no extra gear attachments.",
+        "markings": "Nilo's mother, builder/operator of civic bells, uses ropes, striker and observation slate. Boots explicit, post-flood wet/dirty context. No specified physical appearance, magical form or permanent wound.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation age36, sturdy medium height, warm medium-brown skin, square broad face, strong dark brows, hazel-brown eyes, dense dark-brown curls tied low with loose wet strands. Dark teal workshirt, russet leather waistcoat, charcoal trousers and sturdy dark boots, wet mud at hems; no extra gear attachments.",
+        "equipment": "Aftermath full views, shoulders weary but active. Heads guilt and public resolve; own hand with short wooden striker, own slate bearing three rough chalk marks (no readable fabricated proclamation); no attached bell or room.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation age36, sturdy medium height, warm medium-brown skin, square broad face, strong dark brows, hazel-brown eyes, dense dark-brown curls tied low with loose wet strands. Dark teal workshirt, russet leather waistcoat, charcoal trousers and sturdy dark boots, wet mud at hems; no extra gear attachments."
+      },
+      "explicitCanon": [
+        "Nilo's mother, builder/operator of civic bells, uses ropes, striker and observation slate. Boots explicit, post-flood wet/dirty context. No specified physical appearance, magical form or permanent wound."
+      ],
+      "visualInterpretation": [
+        "Art interpretation age36, sturdy medium height, warm medium-brown skin, square broad face, strong dark brows, hazel-brown eyes, dense dark-brown curls tied low with loose wet strands. Dark teal workshirt, russet leather waistcoat, charcoal trousers and sturdy dark boots, wet mud at hems; no extra gear attachments.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Aftermath full views, shoulders weary but active. Heads guilt and public resolve; own hand with short wooden striker, own slate bearing three rough chalk marks (no readable fabricated proclamation); no attached bell or room."
+        }
+      ],
+      "lighting": {
+        "moment": "Lantern-lit night rescue and public confession after breach",
+        "motivation": "Small warm practical planes and dominant cold flood-night shadow"
+      },
+      "recurrence": {
+        "identityKey": "zadie-cleft",
+        "links": [
+          {
+            "relation": "mother",
+            "target": "nilo-cleft"
+          }
+        ],
+        "evidence": "CANON exact identity and mother/son relation."
+      },
+      "references": [
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+          "role": "Actual inspected dark lantern night oil values",
+          "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+          "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oils/ivory folio only",
+          "notes": "No borrowed face, costume, bag or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/title-image.jpg",
+          "role": "Inspected nonfigurative source cover",
+          "notes": "Cracked schedule and bell are objects, not identity information; no scene copied.",
+          "sha256": "05ea1a968a4706c8f32025611ef3be9128dcdfc8044ff1d192cee17f6b9dcdd4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/03-bell-table-chamber.png",
+          "role": "Inspected decision-chamber practical lighting and hand-held striker",
+          "notes": "Reference supports lantern-dim aftermath; no table, scene or room.",
+          "sha256": "d38a04897127a2d4d79e59b18b2eddc15b50b71fb1be4a006ea34af62678ec51",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-future-that-refused-us/art/characters/zadie-cleft.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Zadie Cleft'.\nZadie Cleft, ordinary adult woman36 art age, sturdy medium height, warm medium-brown skin, square broad face, strong dark eyebrows, matte hazel-brown eyes, thick dark-brown curls tied LOW with wet loose strands. Practical dark TEAL workshirt, russet LEATHER WAISTCOAT, charcoal trousers and dark stout boots, damp mud at hems. No cloak, belt pouch, bag, diagonal strap or added weapon. She is Nilo's mother and bell operator, not a queen or robed sorcerer. Three complete Front / RIGHT side facingRIGHT / Back; same clothes/hair. Two heads 'Guilt' and 'Public resolve'. Small personal studies: own hand holding short blunt wooden BELL STRIKER and a plain dark OBSERVATION SLATE with exactly three rough chalk marks. No whole bell, rope tied to scene, room or child. Night LANTERN: sharply limited amber from left against dominant dark cool shadow; do not brighten all face/clothes.",
+        "references": [
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected dark lantern night oil values",
+            "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted heavy oils/ivory folio only",
+            "notes": "No borrowed face, costume, bag or daylight.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:07:55.398314+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Zadie Cleft'.\nZadie Cleft, ordinary adult woman36 art age, sturdy medium height, warm medium-brown skin, square broad face, strong dark eyebrows, matte hazel-brown eyes, thick dark-brown curls tied LOW with wet loose strands. Practical dark TEAL workshirt, russet LEATHER WAISTCOAT, charcoal trousers and dark stout boots, damp mud at hems. No cloak, belt pouch, bag, diagonal strap or added weapon. She is Nilo's mother and bell operator, not a queen or robed sorcerer. Three complete Front / RIGHT side facingRIGHT / Back; same clothes/hair. Two heads 'Guilt' and 'Public resolve'. Small personal studies: own hand holding short blunt wooden BELL STRIKER and a plain dark OBSERVATION SLATE with exactly three rough chalk marks. No whole bell, rope tied to scene, room or child. Night LANTERN: sharply limited amber from left against dominant dark cool shadow; do not brighten all face/clothes.",
+            "references": [
+              {
+                "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+                "role": "Actual inspected dark lantern night oil values",
+                "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+                "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oils/ivory folio only",
+                "notes": "No borrowed face, costume, bag or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-12b2f5ab-0243-4f80-88f3-ced369c2b2b8.png",
+            "savedPath": "stories/the-future-that-refused-us/art/characters/zadie-cleft.png",
+            "outputSha256": "dd149aea26d54caed5f97a9961dbc3589b4a23ef87c6b71ff9536181304f751f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:19:00.328189+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:19:00.328189+00:00",
+        "sourceSha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e",
+        "outputSha256": "dd149aea26d54caed5f97a9961dbc3589b4a23ef87c6b71ff9536181304f751f",
+        "references": [
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected dark lantern night oil values",
+            "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted heavy oils/ivory folio only",
+            "notes": "No borrowed face, costume, bag or daylight.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 three consistent adult mother views; damp teal/russet workwear, low tied curls, boots and distinct guilt/public resolve expression, coherent own-hand striker/slate details with three chalk marks.",
+          "No unrequested gear or setting; night lantern edges and cool shadow masses, readable exact text and opaque matte oils on ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "0648a96de1e4e06b087192a6476aff36a4591a9817537bbffd92b77f186b3338"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "dd149aea26d54caed5f97a9961dbc3589b4a23ef87c6b71ff9536181304f751f"
+    },
+    {
+      "id": "nilo-cleft",
+      "name": "Nilo Cleft",
+      "role": "Thirteen-year-old son who rejects sacrifice and chooses safeguarded rescue",
+      "naming": {
+        "sourceName": "Nilo Cleft",
+        "sourceRole": "undergate boy; Zadie's son",
+        "provenance": "Exact CANON full name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Thirteen years old, shoulders set in furious imitation of courage.",
+          "explanation": "Exact age."
+        },
+        {
+          "quote": "Mud striped his face. A raw band crossed both palms",
+          "explanation": "Aftermath appearance and both-hand injury."
+        },
+        {
+          "quote": "the blanket hanging from his shoulders",
+          "explanation": "Horse blanket temporarily worn; horse not present."
+        }
+      ],
+      "form": "Ordinary human thirteen-year-old boy",
+      "storyAppearance": {
+        "anatomy": "Exactly13, mud-striped face, raw bands across BOTH palms from undergate wheel. Horse blanket around shoulders in immediate aftermath; later removes blanket and chooses rescue rope.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation: slight early-adolescent child build, warm medium-brown skin, broad face with mother's strong brows and hazel-brown eyes, short tight dark curls. Rust-brown simple shirt, slate cropped trousers, worn brown boots. Gray-brown coarse horse blanket around shoulders as garment, no animal.",
+        "markings": "Exactly13, mud-striped face, raw bands across BOTH palms from undergate wheel. Horse blanket around shoulders in immediate aftermath; later removes blanket and chooses rescue rope.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation: slight early-adolescent child build, warm medium-brown skin, broad face with mother's strong brows and hazel-brown eyes, short tight dark curls. Rust-brown simple shirt, slate cropped trousers, worn brown boots. Gray-brown coarse horse blanket around shoulders as garment, no animal.",
+        "equipment": "Three main views wrapped in wet horse blanket; open in front to see shirt. Heads cold fury and independent resolve. One isolated own BOTH palms non-graphic raw pink bands; one small later upper-body state without blanket holding coil of rope.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation: slight early-adolescent child build, warm medium-brown skin, broad face with mother's strong brows and hazel-brown eyes, short tight dark curls. Rust-brown simple shirt, slate cropped trousers, worn brown boots. Gray-brown coarse horse blanket around shoulders as garment, no animal."
+      },
+      "explicitCanon": [
+        "Exactly13, mud-striped face, raw bands across BOTH palms from undergate wheel. Horse blanket around shoulders in immediate aftermath; later removes blanket and chooses rescue rope."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: slight early-adolescent child build, warm medium-brown skin, broad face with mother's strong brows and hazel-brown eyes, short tight dark curls. Rust-brown simple shirt, slate cropped trousers, worn brown boots. Gray-brown coarse horse blanket around shoulders as garment, no animal.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three main views wrapped in wet horse blanket; open in front to see shirt. Heads cold fury and independent resolve. One isolated own BOTH palms non-graphic raw pink bands; one small later upper-body state without blanket holding coil of rope."
+        }
+      ],
+      "lighting": {
+        "moment": "Night after breach, near rescue lanterns",
+        "motivation": "Dark cool flood-night shadows with restricted amber edges"
+      },
+      "recurrence": {
+        "identityKey": "nilo-cleft",
+        "links": [
+          {
+            "relation": "son",
+            "target": "zadie-cleft"
+          }
+        ],
+        "evidence": "CANON son exactly13; not an adult miniature or young child."
+      },
+      "references": [
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+          "role": "Actual inspected dark lantern night oil values",
+          "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+          "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oils/ivory folio only",
+          "notes": "No borrowed face, costume, bag or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/title-image.jpg",
+          "role": "Inspected nonfigurative source cover",
+          "notes": "Cracked schedule and bell are objects, not identity information; no scene copied.",
+          "sha256": "05ea1a968a4706c8f32025611ef3be9128dcdfc8044ff1d192cee17f6b9dcdd4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/03-bell-table-chamber.png",
+          "role": "Inspected decision-chamber practical lighting and hand-held striker",
+          "notes": "Reference supports lantern-dim aftermath; no table, scene or room.",
+          "sha256": "d38a04897127a2d4d79e59b18b2eddc15b50b71fb1be4a006ea34af62678ec51",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-future-that-refused-us/art/characters/nilo-cleft.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Make a TEXT-ONLY minimal edit to this Nilo Cleft / The Future That Refused Us folio. Under the paired palm study, keep the caption 'His hands'. DELETE the parenthetical '(work leaves a mark)' and DELETE the separate 'Left' and 'Right' words below it; restore matching clean ivory there. Do not redraw, reflect or change the two hands: actual left/right pair anatomy, five fingers each, raw bands on both palms already correct. Preserve every painted pixel as closely as possible, all main figures/child13 face/mud/blanket/rope/night light/oils, all other headings and captions. No other edits.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-03c911eb-b2f9-4165-b2e1-0d89d8252796.png",
+            "sha256": "5b741de10ae5e4bf33c47829fbdc4659fae2da484ff9fdc5a8d226111eb5d1b4",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:07:55.398314+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Nilo Cleft'.\nNilo Cleft, HUMAN BOY EXACTLY13, slight early-adolescent proportions: still-child narrow shoulders, slim arms, age13 face, NOT adult20 and NOT child7. Warm medium-brown skin, broad face, strong dark brows, matte hazel-brown eyes, SHORT tight dark curls. Mud stripes face. Simple rust-brown shirt, slate trousers, brown worn boots. Main three Front / RIGHT side facingRIGHT / Back wrapped in coarse wet GRAY-BROWN HORSE BLANKET around shoulders like cloak (cloth only, NO HORSE), open at front. Heads 'Cold fury' and 'Independent resolve'. One careful enlarged study of HIS TWO palms, both with a RAW PINK HORIZONTAL FRICTION BAND, mild no gore, five fingers each coherent left/right pair. Small later waist-up study labelled 'His choice': same13boy without blanket, holding a plain rescue rope COIL in own hands; no background/other rescuer. No full gate or apparatus. Deep cool NIGHT values with limited amber lantern highlights.",
+            "references": [
+              {
+                "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+                "role": "Actual inspected dark lantern night oil values",
+                "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+                "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oils/ivory folio only",
+                "notes": "No borrowed face, costume, bag or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-03c911eb-b2f9-4165-b2e1-0d89d8252796.png",
+            "outputSha256": "5b741de10ae5e4bf33c47829fbdc4659fae2da484ff9fdc5a8d226111eb5d1b4",
+            "review": "Actual A1 one13boy, both-palm injuries, blanket and later rope pass. Hand pair labels are anatomically reversed and unnecessary, remove those plus invented parenthetical.",
+            "reviewCorrection": "Anatomical-label rejection WITHDRAWN after corrected palm convention: A1 labels were correct. A2 remains selected for simple His hands caption and removal of unnecessary parenthetical; actual correct paired palms did not change."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:18:59.262544+00:00",
+            "prompt": "Make a TEXT-ONLY minimal edit to this Nilo Cleft / The Future That Refused Us folio. Under the paired palm study, keep the caption 'His hands'. DELETE the parenthetical '(work leaves a mark)' and DELETE the separate 'Left' and 'Right' words below it; restore matching clean ivory there. Do not redraw, reflect or change the two hands: actual left/right pair anatomy, five fingers each, raw bands on both palms already correct. Preserve every painted pixel as closely as possible, all main figures/child13 face/mud/blanket/rope/night light/oils, all other headings and captions. No other edits.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-03c911eb-b2f9-4165-b2e1-0d89d8252796.png",
+                "sha256": "5b741de10ae5e4bf33c47829fbdc4659fae2da484ff9fdc5a8d226111eb5d1b4",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a53dcf97-bc46-4c02-9217-bedabbac45b0.png",
+            "savedPath": "stories/the-future-that-refused-us/art/characters/nilo-cleft.png",
+            "outputSha256": "7c19dcdc149e4a13feba983d6017047e55eda3e8eaf37ecd9cd39dd97bcbcfda",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:23:36.851209+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:23:36.851209+00:00",
+        "sourceSha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e",
+        "outputSha256": "7c19dcdc149e4a13feba983d6017047e55eda3e8eaf37ecd9cd39dd97bcbcfda",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-03c911eb-b2f9-4165-b2e1-0d89d8252796.png",
+            "sha256": "5b741de10ae5e4bf33c47829fbdc4659fae2da484ff9fdc5a8d226111eb5d1b4",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2 preserves consistent thirteen-year-old child, mud-striped face, wet horse blanket, injured BOTH palms with coherent five-digit anatomy and later blanket-free rescue rope state.",
+          "Removed optional hand-side captions and unrequested parenthetical; earlier claim those labels were anatomically incorrect is withdrawn; exact names/title and neutral His hands caption remain legible. Night warm/cool oil masses, clean ivory, no other identity."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "7010a3658a608f24a897b0317a776fcfcef2aab0a655e21ea79619ea45627d77"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "7c19dcdc149e4a13feba983d6017047e55eda3e8eaf37ecd9cd39dd97bcbcfda"
+    },
+    {
+      "id": "baird-ansel",
+      "name": "Baird Ansel",
+      "role": "First reader and surviving moral counterpart",
+      "naming": {
+        "sourceName": "Baird Ansel",
+        "sourceRole": "first reader",
+        "provenance": "Exact CANON full name; lowercase civic office not alias"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "white ceremonial coat was gray with floodwater",
+          "explanation": "Explicit aftermath clothing."
+        },
+        {
+          "quote": "a burn like spilled ink across his temple",
+          "explanation": "Explicit injury, side unspecified."
+        },
+        {
+          "quote": "Now his gaze moved over the square with the frightened care of someone learning distance.",
+          "explanation": "Lost prophetic sense, not literal eye loss or blindness."
+        }
+      ],
+      "form": "Ordinary human adult man, former working reader",
+      "storyAppearance": {
+        "anatomy": "White ceremonial coat grayed with floodwater; ink-like temple burn; shaking hands and ruined prophetic sense after breach. No canonical blindness, magical aura or nonhuman body.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation age62, tall spare build, pale beige skin, long narrow face, high brow, short swept-back gray hair, clean shaven and ordinary brown eyes. Plain long white ceremonial coat gray-wet at hem over ash tunic/dark trousers and dark shoes. Temple burn assigned anatomical LEFT (front viewerRIGHT; hidden from true RIGHT profile), no injury to eyes.",
+        "markings": "White ceremonial coat grayed with floodwater; ink-like temple burn; shaking hands and ruined prophetic sense after breach. No canonical blindness, magical aura or nonhuman body.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation age62, tall spare build, pale beige skin, long narrow face, high brow, short swept-back gray hair, clean shaven and ordinary brown eyes. Plain long white ceremonial coat gray-wet at hem over ash tunic/dark trousers and dark shoes. Temple burn assigned anatomical LEFT (front viewerRIGHT; hidden from true RIGHT profile), no injury to eyes.",
+        "equipment": "Current aftermath three views; shaken perception and firm moral refusal heads. Enlarged own temple burn detail on LEFT side and hands tearing one blank civic statement in two, with no readable invented words. No living glowing prophecy.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation age62, tall spare build, pale beige skin, long narrow face, high brow, short swept-back gray hair, clean shaven and ordinary brown eyes. Plain long white ceremonial coat gray-wet at hem over ash tunic/dark trousers and dark shoes. Temple burn assigned anatomical LEFT (front viewerRIGHT; hidden from true RIGHT profile), no injury to eyes."
+      },
+      "explicitCanon": [
+        "White ceremonial coat grayed with floodwater; ink-like temple burn; shaking hands and ruined prophetic sense after breach. No canonical blindness, magical aura or nonhuman body."
+      ],
+      "visualInterpretation": [
+        "Art interpretation age62, tall spare build, pale beige skin, long narrow face, high brow, short swept-back gray hair, clean shaven and ordinary brown eyes. Plain long white ceremonial coat gray-wet at hem over ash tunic/dark trousers and dark shoes. Temple burn assigned anatomical LEFT (front viewerRIGHT; hidden from true RIGHT profile), no injury to eyes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Current aftermath three views; shaken perception and firm moral refusal heads. Enlarged own temple burn detail on LEFT side and hands tearing one blank civic statement in two, with no readable invented words. No living glowing prophecy."
+        }
+      ],
+      "lighting": {
+        "moment": "After breach at tower and bell-table chamber",
+        "motivation": "Dark night lantern warm/cool display consistent with reference"
+      },
+      "recurrence": {
+        "identityKey": "baird-ansel",
+        "links": [],
+        "evidence": "CANON exact first-reader survivor; no unsupported teacher relationship to Zadie."
+      },
+      "references": [
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+          "role": "Actual inspected dark lantern night oil values",
+          "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+          "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oils/ivory folio only",
+          "notes": "No borrowed face, costume, bag or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/title-image.jpg",
+          "role": "Inspected nonfigurative source cover",
+          "notes": "Cracked schedule and bell are objects, not identity information; no scene copied.",
+          "sha256": "05ea1a968a4706c8f32025611ef3be9128dcdfc8044ff1d192cee17f6b9dcdd4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/03-bell-table-chamber.png",
+          "role": "Inspected decision-chamber practical lighting and hand-held striker",
+          "notes": "Reference supports lantern-dim aftermath; no table, scene or room.",
+          "sha256": "d38a04897127a2d4d79e59b18b2eddc15b50b71fb1be4a006ea34af62678ec51",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-future-that-refused-us/art/characters/baird-ansel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this Baird Ansel / The Future That Refused Us sheet with two precise corrections. 1) HORIZONTALLY REFLECT ONLY THE TWO ENLARGED HEAD PORTRAIT PAINTINGS (not their captions), so both now face toward canvasLEFT and their black temple burn moves to canvasRIGHT of those portraits, showing anatomical LEFT temple. This is necessary: main FRONT fullbody already has correct anatomicalLEFT burn and must keep it. Main right-facing fullbody RIGHT PROFILE correctly has no near-side burn and must keep it. Do not add burns to any right temple, rear head, eye, body or hand. 2) Preserve warm lantern rims, but lower the broad fill on faces and white coat to night: cool dark slate-gray shadow over most surfaces; narrow warm amber planes from canvasLEFT. White cloth still reads white in dim light, main details readable. Preserve source individual, exact text/captions, paper tearing gesture, clothing, hair, fullbody poses, ivory background and heavy matte oil strokes. No setting, floor or new prop. Do NOT mirror the entire sheet.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6aa15ab-7e89-4138-9804-bc5bd27264ba.png",
+            "sha256": "f23847391784eab89b6a5b91e70dc726a1603c4d68671ff0d1e8bdab364d9f43",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected nocturnal lantern and dark cool mass anchor",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:07:55.398314+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Baird Ansel'.\nBaird Ansel: ordinary human man62 art age, tall spare build, pale beige skin, long narrow face/high forehead, short swept-back GRAY hair, CLEAN SHAVEN, ordinary matte brown eyes. Long WHITE CEREMONIAL COAT stained gray by floodwater especially hem, ash tunic/dark trousers/dark shoes. Distinct non-graphic INK-BLACK BURN spread across anatomical LEFT temple (front viewerRIGHT). LEFT burn correctly HIDDEN on far side of right-facing RIGHT PROFILE; back skull skin uninjured. Do not mirror burn. Loss of prophetic sense is psychological/perceptual, NOT blank eyes, blindness, glowing magic or missing eye. Front / Right side / Back. Two face studies 'Shaken perception' and 'Firm refusal', both framed so LEFT temple burn is consistently same side. Small own hands tearing a single blank paper statement across its middle; no table/official. Restricted amber NIGHT light from left, deep COOL shadow over much coat/face while white coat recognizable. Coherent identity and ordinary anatomy.",
+            "references": [
+              {
+                "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+                "role": "Actual inspected dark lantern night oil values",
+                "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+                "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oils/ivory folio only",
+                "notes": "No borrowed face, costume, bag or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6aa15ab-7e89-4138-9804-bc5bd27264ba.png",
+            "outputSha256": "f23847391784eab89b6a5b91e70dc726a1603c4d68671ff0d1e8bdab364d9f43",
+            "review": "Actual A1 main front burn correctly LEFT, right full-body profile correctly clean; two enlarged heads wrongly put burn on visible anatomical RIGHT temple. Correct two portrait orientation only, and subdue broad coat/face illumination to night."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:18:59.262544+00:00",
+            "prompt": "Edit this Baird Ansel / The Future That Refused Us sheet with two precise corrections. 1) HORIZONTALLY REFLECT ONLY THE TWO ENLARGED HEAD PORTRAIT PAINTINGS (not their captions), so both now face toward canvasLEFT and their black temple burn moves to canvasRIGHT of those portraits, showing anatomical LEFT temple. This is necessary: main FRONT fullbody already has correct anatomicalLEFT burn and must keep it. Main right-facing fullbody RIGHT PROFILE correctly has no near-side burn and must keep it. Do not add burns to any right temple, rear head, eye, body or hand. 2) Preserve warm lantern rims, but lower the broad fill on faces and white coat to night: cool dark slate-gray shadow over most surfaces; narrow warm amber planes from canvasLEFT. White cloth still reads white in dim light, main details readable. Preserve source individual, exact text/captions, paper tearing gesture, clothing, hair, fullbody poses, ivory background and heavy matte oil strokes. No setting, floor or new prop. Do NOT mirror the entire sheet.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6aa15ab-7e89-4138-9804-bc5bd27264ba.png",
+                "sha256": "f23847391784eab89b6a5b91e70dc726a1603c4d68671ff0d1e8bdab364d9f43",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              },
+              {
+                "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+                "role": "Actual inspected nocturnal lantern and dark cool mass anchor",
+                "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-bf6397c7-8fca-4e46-a62a-f6cac1fa645c.png",
+            "savedPath": "stories/the-future-that-refused-us/art/characters/baird-ansel.png",
+            "outputSha256": "02fca64c96911bbfc8807ba799a6dfd51b6da45b82a10c3fe73e272f19f5e788",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:23:36.851209+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:23:36.851209+00:00",
+        "sourceSha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e",
+        "outputSha256": "02fca64c96911bbfc8807ba799a6dfd51b6da45b82a10c3fe73e272f19f5e788",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d6aa15ab-7e89-4138-9804-bc5bd27264ba.png",
+            "sha256": "f23847391784eab89b6a5b91e70dc726a1603c4d68671ff0d1e8bdab364d9f43",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected nocturnal lantern and dark cool mass anchor",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 two enlarged heads face canvasLEFT, correctly showing the same anatomical LEFT temple ink-like burn as main front; true RIGHT profile remains clean and rear scalp uninjured.",
+          "Subdued night exposure now aligns warm lantern edges and cool dark faces/white coat shadows, ordinary eyes preserved; hands tear blank statement, one identity on ivory with readable text and heavy oils."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a8fc99f04acb69babc9c5ad788583d119a30019a1d1fd0cd6c5b814e6db940bd"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "02fca64c96911bbfc8807ba799a6dfd51b6da45b82a10c3fe73e272f19f5e788"
+    },
+    {
+      "id": "edriva",
+      "name": "Edriva",
+      "role": "Fisher who proposes buoyed bridge and improves final rescue plan",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "the fisher",
+        "provenance": "Art-only name assigned under authorized naming exception before generation; exact name scan universe/stories/specs had no hits. Source remains unnamed; no canon name, gender or appearance promoted."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "A fisher pushed through the listeners",
+          "explanation": "Distinct living support proposes net floats to bridge break, enabling tenth crossing with child."
+        },
+        {
+          "quote": "The fisher shouted a change to the drain plan.",
+          "explanation": "Same individual reappears as active rescue planner at climax."
+        }
+      ],
+      "form": "Ordinary human adult; feminine presentation is art interpretation",
+      "storyAppearance": {
+        "anatomy": "Unnamed fisher in living rescue crowd; proposes lashing net floats beneath planks, then revises drain plan. No source age, gender, clothes or personal anatomy specified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation woman46, broad muscular practical build, dark warm-brown weathered skin, round-square face and broad nose, dark eyes, short wiry black hair under deep blue knitted cap; tan oilskin short jacket over navy sweater, dark loose working trousers, rubberized brown boots.",
+        "markings": "Unnamed fisher in living rescue crowd; proposes lashing net floats beneath planks, then revises drain plan. No source age, gender, clothes or personal anatomy specified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation woman46, broad muscular practical build, dark warm-brown weathered skin, round-square face and broad nose, dark eyes, short wiry black hair under deep blue knitted cap; tan oilskin short jacket over navy sweater, dark loose working trousers, rubberized brown boots.",
+        "equipment": "Same individual in Front/right/back, strategic assessment and urgent instruction heads. Own hands hold one simple worn wooden net float with short loose rope, a role-supported personal study; no bridge, fishing location, second person or tool rack.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation woman46, broad muscular practical build, dark warm-brown weathered skin, round-square face and broad nose, dark eyes, short wiry black hair under deep blue knitted cap; tan oilskin short jacket over navy sweater, dark loose working trousers, rubberized brown boots."
+      },
+      "explicitCanon": [
+        "Unnamed fisher in living rescue crowd; proposes lashing net floats beneath planks, then revises drain plan. No source age, gender, clothes or personal anatomy specified."
+      ],
+      "visualInterpretation": [
+        "Art interpretation woman46, broad muscular practical build, dark warm-brown weathered skin, round-square face and broad nose, dark eyes, short wiry black hair under deep blue knitted cap; tan oilskin short jacket over navy sweater, dark loose working trousers, rubberized brown boots.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Same individual in Front/right/back, strategic assessment and urgent instruction heads. Own hands hold one simple worn wooden net float with short loose rope, a role-supported personal study; no bridge, fishing location, second person or tool rack."
+        }
+      ],
+      "lighting": {
+        "moment": "Night rescue after breach",
+        "motivation": "Lantern warmth limited against deep cold nocturnal fill"
+      },
+      "recurrence": {
+        "identityKey": "art-edriva-future-fisher",
+        "links": [],
+        "evidence": "Only this unnamed source role; art-only identity name."
+      },
+      "references": [
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+          "role": "Actual inspected dark lantern night oil values",
+          "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+          "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oils/ivory folio only",
+          "notes": "No borrowed face, costume, bag or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/title-image.jpg",
+          "role": "Inspected nonfigurative source cover",
+          "notes": "Cracked schedule and bell are objects, not identity information; no scene copied.",
+          "sha256": "05ea1a968a4706c8f32025611ef3be9128dcdfc8044ff1d192cee17f6b9dcdd4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-future-that-refused-us/art/interiors/03-bell-table-chamber.png",
+          "role": "Inspected decision-chamber practical lighting and hand-held striker",
+          "notes": "Reference supports lantern-dim aftermath; no table, scene or room.",
+          "sha256": "d38a04897127a2d4d79e59b18b2eddc15b50b71fb1be4a006ea34af62678ec51",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-future-that-refused-us/art/characters/edriva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Edriva'.\nHeading Edriva, art-only named ONE living FISHER who proposes the bridge rescue. Art interpretation ordinary woman46, broad sturdy/muscular practical build, dark warm-brown weathered skin, broad nose, round-square face, matte dark eyes. Short wiry black hair beneath deep BLUE KNITTED CAP. Short TAN OILSKIN jacket over navy wool sweater, loose charcoal working trousers, brown rubberized boots, damp hems. No satchel, shoulder strap, jewelry, weapon or arbitrary patches. Three full-body Front / Right side facingRIGHT / Back. Head expressions 'Assessment' and 'Urgent instruction'. Own hands hold ONE worn wooden net FLOAT with a short loose rope, personal role prop only; no whole net, bridge, fish, water or room. Keep this one individual across all studies. Strongly subdued NIGHT: tan jacket mostly dark ochre/cool slate, narrow lantern amber at left edges, not bright daytime.",
+        "references": [
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected dark lantern night oil values",
+            "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted heavy oils/ivory folio only",
+            "notes": "No borrowed face, costume, bag or daylight.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:07:55.398314+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape reference folio, clean light warm IVORY, readable exact serif NAME and subtitle 'The Future That Refused Us'. ONE identity only. Three full-body Front / Right side (faces canvasRIGHT, anatomical RIGHT side visible) / Back; two expressive heads, one or two personal studies if specified. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair, skin and cloth; matte eyes, no glossy digital/CGI face. First reference NIGHT LANTERN light: narrow warm amber planes from canvasLEFT against DOMINANT DARK COOL blue-charcoal shadows. Keep at least half each face/body deeply cool and shaded, NO broad daylight or golden daylight wash; ivory background stays light. Second supplies ONLY paint handling and folio, no identity, clothing, bags or accessories. All clothing/marks fixed consistently; attached LEFT detail is frontviewerRIGHT/backviewerLEFT and hidden on far side of RIGHT profile. No location, floor, ground patches, water backdrop, scenery, swatches or second person. Ordinary human anatomy and no magical aura. No unrequested satchel, strap, pouch or weapons.\nHeading 'Edriva'.\nHeading Edriva, art-only named ONE living FISHER who proposes the bridge rescue. Art interpretation ordinary woman46, broad sturdy/muscular practical build, dark warm-brown weathered skin, broad nose, round-square face, matte dark eyes. Short wiry black hair beneath deep BLUE KNITTED CAP. Short TAN OILSKIN jacket over navy wool sweater, loose charcoal working trousers, brown rubberized boots, damp hems. No satchel, shoulder strap, jewelry, weapon or arbitrary patches. Three full-body Front / Right side facingRIGHT / Back. Head expressions 'Assessment' and 'Urgent instruction'. Own hands hold ONE worn wooden net FLOAT with a short loose rope, personal role prop only; no whole net, bridge, fish, water or room. Keep this one individual across all studies. Strongly subdued NIGHT: tan jacket mostly dark ochre/cool slate, narrow lantern amber at left edges, not bright daytime.",
+            "references": [
+              {
+                "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+                "role": "Actual inspected dark lantern night oil values",
+                "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+                "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oils/ivory folio only",
+                "notes": "No borrowed face, costume, bag or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-0a54b57a-1bca-40a7-9c59-f006177c9207.png",
+            "savedPath": "stories/the-future-that-refused-us/art/characters/edriva.png",
+            "outputSha256": "fc6d579b7918b0924967dfaf64e6c1090296cfddc4ff86268312ff8110ad96eb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:19:00.328189+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:19:00.328189+00:00",
+        "sourceSha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e",
+        "outputSha256": "fc6d579b7918b0924967dfaf64e6c1090296cfddc4ff86268312ff8110ad96eb",
+        "references": [
+          {
+            "path": "stories/the-future-that-refused-us/art/interiors/02-undergate-gallery.png",
+            "role": "Actual inspected dark lantern night oil values",
+            "notes": "Nighttime crisis lantern amber and deep cold stone-shadow palette used on figures only; no gallery or water.",
+            "sha256": "2169fb66e367f89ff34d8ff83e2e17ed96d767e4c98257723cac51326fba2a0f",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted heavy oils/ivory folio only",
+            "notes": "No borrowed face, costume, bag or daylight.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 one sturdy fisher identity consistently cap/short hair, oilskin working clothes and boots, assessment/urgent instruction expressions. Wooden float held by own hands, no attached accessory side drift.",
+          "Art-only name and appearance remain noncanon. Night lantern amber edge and subdued cool/dark cloth, heavy oil strokes and clean ivory/legible exact headings."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1c5b0896c71570dce3de7ae455b3fc1f41b835826ef0bc8a5599d5a4cd66a739"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "fc6d579b7918b0924967dfaf64e6c1090296cfddc4ff86268312ff8110ad96eb"
+    }
+  ]
+}
