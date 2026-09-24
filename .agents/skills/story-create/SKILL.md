@@ -1,6 +1,6 @@
 ---
 name: story-create
-description: "Create one new or explicitly requested replacement shared-universe short story through outline, prose, review, and cover."
+description: "Create one new or explicitly requested replacement shared-universe short story through outline, prose, review, gallery references, and cover."
 ---
 
 # Story create
@@ -40,14 +40,26 @@ canon/retcon rulings, or material prompt reinterpretation.
 6. On `REVISE`, return only blocking findings to that story's writer, allowing
    the smallest surrounding action/narration needed for repair. Repeat
    PreReview and assign a fresh reviewer every time. Do not broaden the rewrite.
-7. After `PASS`, delegate `story_title_illustrator` under the TITLE IMAGE
-   contract. Include every inventoried reference from every retained request
-   block. Both illustrator and coordinator inspect the exact saved JPEG and
-   independently apply all seven gates. Send the contract's regeneration brief
+7. After prose `PASS`, delegate `story_title_illustrator` under
+   [ART REFERENCES](../story-room/SKILL.md#art-references). Include the final
+   prose, every inventoried original from every retained request block, and
+   the gallery style anchors. Create and review character sheets first, then
+   separate exterior and interior location images. Both illustrator and
+   coordinator inspect the actual saved PNGs. Repair failures before proceeding;
+   account for every main character and major setting, including any proposed
+   cover subject. A source without a qualifying subject may omit that category
+   with a source-based reason in the handoff, never an invented subject.
+8. Only after the complete reference set passes both visual checks, delegate
+   `story_title_illustrator` under the TITLE IMAGE contract. Supply the accepted
+   reference paths and their roles, plus all inventoried originals for inspection.
+   Attach the relevant accepted images to cover generation within the tool's
+   five-input limit. Both illustrator and coordinator inspect the exact saved
+   JPEG and independently apply all seven gates. Send the contract's regeneration brief
    on failure and repeat until accepted; do not capture a rejected image.
-8. Complete [Publication](#publication) and any batch-completion audit due under
+9. Complete [Publication](#publication) and any batch-completion audit due under
    [Collection context](#collection-context). The four authored Markdown files
-   and accepted title image remain the only current story artifacts.
+   and accepted title image remain at the package root; accepted reference PNGs
+   live only in its three permitted `art/` collections.
 
 ## Replacement
 
@@ -61,7 +73,7 @@ Before removal, preserve every verbatim user-authored prompt or request block,
 the new request, and every associated reference-image display name.
 Discard only machine-owned selections, cover policy, constraints, and workflow
 metadata. Resolve and inspect every original; display names alone cannot
-recover images. Do not open the old outline, prose, review, cover, or historical
+recover images. Do not open the old outline, prose, review, cover, art, or historical
 process artifacts for creative reuse.
 
 Verify exact absolute paths, then remove only the explicitly named source
@@ -71,8 +83,14 @@ universe facts. Confirm the target directory is absent. Scaffold a clean
 `prospective-2026-08-23` package with all retained and new user text verbatim in
 one Prompt section under minimal labels, and all originals via `-ReferenceImage`.
 
-Continue the ordinary workflow with fresh agents, fresh cover, and collection
-comparison. Do not carry forward old creative artifacts or create a backup,
+Remove only that story's obsolete character specification/manifest row and its
+selections, exclusions, replacement art and web copies from the three gallery
+collections as part of the same named replacement. Preserve every other story's
+art and snapshot. Old reference art must not survive as the replacement's selected
+gallery art or supply creative inputs. No new removal ledger is needed.
+
+Continue the ordinary workflow with fresh agents, fresh references and cover,
+and collection comparison. Do not carry forward old creative artifacts or create a backup,
 replacement-history file, or managed rewrite section. Git preserves history.
 Commit the named removal and creation together.
 
@@ -118,18 +136,33 @@ needed, rather than edit or merge time. Confirm passing reviews before reuse.
 
 ## Publication
 
-After the review and both saved-pixel cover reviews pass, run from the worktree:
+After prose review, both reference-art reviews and both saved-pixel cover reviews
+pass, run from the worktree:
 
 ```powershell
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 python pages/build.py capture <slug>
+python pages/build.py capture-characters <slug>
+python pages/build.py capture-landscapes <slug>
+python pages/build.py capture-interiors <slug>
 python pages/build.py check
 ```
 
-Capture is the final prose-and-cover handoff; chronology entries are not required.
-Stage the four story Markdown files,
-`title-image.jpg`, `pages/catalog.json`, the captured
-`pages/covers/<slug>.jpg`, and any required removal changes. Commit,
+Run only the applicable gallery captures: a category with no source-supported
+subjects was already accounted for in the art handoff. Never invoke a global art
+capture to publish one story. Story capture comes first because each gallery
+entry links to the existing catalog reader. Compare all accepted reference paths
+and hashes with the named gallery selections; partial character capture is not
+completion even if the command succeeds. Build Pages to a temporary directory
+outside the story package and inspect the story's character, exterior and interior
+entries in the gallery, their thumbnails, full images and reader links.
+
+Capture is the final prose, cover and reference-art handoff; chronology entries
+are not required. Stage the four story Markdown files, `title-image.jpg`, accepted
+`art/` PNGs, the story's character specification and manifest inventory update,
+`pages/catalog.json`, `pages/covers/<slug>.jpg`, the changed gallery snapshots
+(`characters.json`, `landscapes.json`, `interiors.json`) and their named web copies,
+plus any required removal changes. Commit,
 push the current branch to `origin` with upstream tracking, and open a draft
 pull request against the repository's default branch. These steps are required
 for completion; do not merge automatically.

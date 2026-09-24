@@ -178,8 +178,8 @@ def _encode(job: tuple[Path, Path, Path, str, str, dict | None, str]) -> dict:
     return result
 
 
-def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None) -> dict:
-    return _capture_collection(repository_root, "landscapes", snapshot_path)
+def capture_landscapes(repository_root: Path, snapshot_path: Path | None = None, slugs: list[str] | None = None) -> dict:
+    return _capture_collection(repository_root, "landscapes", snapshot_path, slugs)
 
 
 def capture_interiors(repository_root: Path, snapshot_path: Path | None = None, slugs: list[str] | None = None) -> dict:

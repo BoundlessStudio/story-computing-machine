@@ -1,6 +1,6 @@
 ---
 name: story-room
-description: "Shared outline, review, and title-image stage contract used by story-create for new and replacement stories."
+description: "Shared outline, review, gallery-reference art, and title-image contract used by story-create for new and replacement stories."
 ---
 
 # Story room
@@ -143,22 +143,134 @@ Follow the template exactly, using one declaration of each verdict:
   diagnostic checklist, or audit record. Do not edit prose or reopen another
   story. Return a one-sentence change report.
 
+## ART REFERENCES
+
+For a new story or replacement, complete this stage after prose REVIEW PASS and
+before any cover generation. An isolated cover-only assignment does not authorize
+a new reference collection. Read the complete final prose, recorded prompt and
+review inventories; follow universe authority without treating art as canon.
+Inspect every user-supplied original and account for its requested role. Reference
+art must follow final prose, not unused outline designs or an imagined cover.
+
+Use the imagegen skill's built-in image tool, one asset per call. Resolve all
+inputs in the coordinator's absolute worktree. Never use an API, API key or paid
+fallback without an explicit request. Before each call, check the brief against
+the source moment, actual reference pixels, anatomy, spatial connections, light
+and feasible framing. Use up to five inspected images per call, each with an
+explicit role; never combine identities or unrelated locations to evade the limit.
+Use local reference paths when all inputs have them, otherwise the smallest
+supported recent-image set, never both mechanisms. Missing original inputs remain
+blockers under AGENTS; do not substitute generated guesses.
+
+### Gallery style
+
+Read the current style direction in `pages/character-manifest.json`, including
+`style.userRevision` and its `sharedStyleAnchors`. The user's later Group of Seven
+correction supersedes the historical Sculpted Impasto example. Inspect the actual
+anchor paintings and attach suitable anchors as primary rendering/light inputs;
+their characters, clothes, scenery and palettes are not templates for new stories.
+Use Canadian Group of Seven inspired oils: broad interlocking colour/value masses,
+varied directional opaque brushwork, selective substantial impasto, simplified
+forms, quiet connecting passages, restrained connected shadows and lost edges.
+Match motivated story light and time of day. Reject generic orange-blue lighting,
+rim-light spectacle, glossy faces, uniform bevelled paint chips, photographic/3D
+rendering and anime drift. Surface texture alone is not a style match.
+
+Honor explicit user art direction when supplied. Otherwise these gallery paintings
+anchor the new references and cover. Do not default to the separate illustrated
+edition workflow's anime style or copy an old story's subject to establish style.
+The first character sheets use existing gallery paintings, never the not-yet-made
+cover. Later references use accepted sheets and suitable gallery paintings as
+style inputs, with original attachments assigned content/identity roles.
+
+### Subjects, files and order
+
+1. Identify every main character and major location in the finished prose, plus
+   every subject intended for the cover. State the selected subjects and their
+   source evidence in the handoff before generating. Explain exclusions rather
+   than inventing a person, exterior or interior to fill a quota. A location shown
+   both outside and inside needs separate references for those supported views;
+   an outdoor-only story needs no invented room, and an interior-only story needs
+   no invented facade. Additional minor subjects are optional when useful.
+2. Generate a separate landscape 3:2 PNG sheet for each selected character at
+   `stories/<slug>/art/characters/<character-id>.png`. Each sheet depicts exactly
+   one identity with coherent full-form views and useful expressions, states or
+   equipment details on quiet ivory support. Include the exact source name and
+   story title as readable text. For unnamed characters use a source-accurate role
+   label, never invent a personal name. No scenery, terrain patches, background
+   vignettes, paint swatches or palette strips. Compare repeated faces and bodies
+   directly; all views must read as the same identity.
+3. After character references pass, generate separate horizontal exterior PNGs at
+   `stories/<slug>/art/landscapes/<image-id>.png` and interior PNGs at
+   `stories/<slug>/art/interiors/<image-id>.png`. Each image shows one distinct
+   place in one coherent environment view. Use lowercase kebab-case filenames
+   identifying the place/view. Preserve architecture, approaches, doors/windows,
+   connected geography, scale, furnishings and the selected story state across
+   outside/inside views. Distinct rooms and materially different states get separate
+   images, not montages. Attach an accepted related location when it helps preserve
+   geometry. Keep environments legible without a crowd or plot-summary tableau;
+   use accepted character sheets if a necessary figure appears. No added titles or
+   captions; only source-supported in-world signs may appear.
+
+Store character design and provenance in the existing
+`pages/character-specs/<slug>.json`, with the actual source path/hash, complete-read
+assessment, selected subjects/exclusions, source appearance versus visual
+interpretation, actual prompts, inspected input paths/hashes/roles, generator
+provenance and attempts. Update only the named inventory row in
+`pages/character-manifest.json`; retain shared style direction and existing history.
+Do not invent a cover dependency in a new specification. For each accepted sheet,
+set `status: "completed"`, `output`, `outputSha256` and `validation` with `PASS`,
+visible evidence, source/specification/output hashes and the exact generation
+reference list. Compute `specificationSha256` using
+`pages.landscape_gallery.character_specification_sha256(specification, character)`
+after saving creative inputs and generation provenance. Follow the existing
+[gallery field contract](../../../README.md) used by `capture-characters`.
+
+The illustrator and coordinator each open every exact saved PNG at full and
+gallery-thumbnail sizes. Accept only source-faithful identity/setting, consistent
+outside/inside geometry, the gallery's actual painting and lighting treatment,
+coherent anatomy/objects/perspective, readable character labels and clean framing.
+Repair failures before using the image downstream. Keep rejected candidates and
+temporary inspection images outside the package and out of capture-scanned art
+directories. These are assistant checks, not new user approval checkpoints.
+
+Return accepted paths, source evidence, actual prompts/input roles and concise
+visible review results, plus reasons for any absent category. Use the existing
+character specification for its saved review; location judgments remain in the
+conversation, not extra story records. The coordinator verifies the complete
+reference inventory before authorizing TITLE IMAGE. Changed prose or reference
+bytes require rechecking affected images and downstream cover dependencies.
+Publishing every accepted reference through the existing gallery is required by
+[Publication](../story-create/SKILL.md#publication).
+
 ## TITLE IMAGE
 
-Write only `title-image.jpg` after prose passes review. Read the complete final
+Write only `title-image.jpg` after prose passes review and, for new stories and
+replacements, ART REFERENCES has passed for the complete selected set. Read the complete final
 `story.md`, or `05-story.md` for an explicitly permitted bundle cover assignment,
 and the recorded prompt. Use the imagegen skill. Final prose controls depicted
 facts unless the written prompt makes a reference detail binding.
 
-Inspect every inventoried reference and include all originals in image
-generation: resolved local paths when all have them, otherwise the smallest
-supported recent-image set containing all, never both mechanisms. Preserve
-recognizable traits for their requested role. If an original cannot be supplied,
-report the blocker and restore it or request reattachment before generation.
+Inspect every inventoried original and the accepted generated references. Attach
+the accepted sheets for depicted characters and the relevant exterior/interior
+references as actual image inputs; use them for identity, geography and rendering.
+Select up to five useful inputs with explicit roles, including an established
+gallery style anchor when needed. Preserve every original's requested role across
+reference and cover production; attach an original directly when its binding
+detail needs it. Do not attach the entire cast or force unused settings into the
+cover. If required inputs cannot fit, simplify the cover concept while preserving
+the prompt rather than silently omitting a binding input. Use resolved local paths
+when all inputs have them, otherwise the smallest supported recent-image set,
+never both mechanisms. Missing originals remain blockers; restore access or
+request reattachment before generation. For a cover-only assignment without a
+reference stage, apply original inputs directly within the same tool limit.
 
-Design premium illustrated novel packaging unless the prompt specifies another
-style. Anime influence, painterly fantasy, cinematic light, and other appropriate
-rendering are available, with one dominant image and deliberate negative space.
+Design premium illustrated novel packaging in the accepted references' gallery
+oil style unless the prompt specifies another style. Retain broad painted shapes,
+coherent brushwork and motivated light, with one dominant image and deliberate
+negative space. Reference sheets guide design; their multi-view layout and labels
+do not belong on the cover. An isolated cover assignment retains its recorded art
+direction rather than retroactively changing an existing package's style.
 Use a symbol, figure/object, threshold, or tightly selected literal fragment.
 Withhold most characters, clues, events, and explanation.
 
