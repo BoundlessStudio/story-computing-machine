@@ -1,0 +1,1557 @@
+{
+  "slug": "empire-within",
+  "title": "Nobody Spends Her Name",
+  "source": "stories/empire-within/story.md",
+  "canon": false,
+  "mainCastEvidence": "Seven sustained agents drive authority struggle and resolution: Elspeth, driver, lieutenant, underboss, older rival, his daughter and ward captain.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Dying runner",
+      "reason": "Opening messenger dies immediately; important catalyst but no sustained substantial independent role."
+    },
+    {
+      "name": "Rival's younger son",
+      "reason": "Offstage threatened family member, found unharmed."
+    },
+    {
+      "name": "Crews, guards, officers, wounded gunman, frozen subordinate and ambusher",
+      "reason": "Incidentals in conflict; no substantial independent characterization or sustained decisions beyond group function."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md",
+    "universe/rules.md#System categories",
+    "universe/characters.md (no matching entries)"
+  ],
+  "characters": [
+    {
+      "id": "elspeth",
+      "name": "Elspeth",
+      "role": "23-year-old leader and protagonist fighting fraudulent use of her authority.",
+      "selectionEvidence": [
+        {
+          "quote": "She was twenty-three.",
+          "line": 13,
+          "explanation": "Specific protagonist age."
+        },
+        {
+          "quote": "Get the wounded into cars,",
+          "line": 449,
+          "explanation": "Continued leadership and responsibility closes arc."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "23.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Severe sleep deprivation; wounded above shoulder blade with impaired left arm afterward; minor mouth injury.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Coat, unspecified design.",
+        "equipment": "Pistol, two orders and police deployment notice, mobile phone.",
+        "scale": "Human adult scale.",
+        "movement": "Exhausted but forceful; left arm hangs poorly after injury.",
+        "distinctiveFeatures": "Source does not supply complete face."
+      },
+      "explicitCanon": [
+        "23-year-old woman, awake76hours at opening.",
+        "Uses coat, pistol, orders, phone.",
+        "Gunshot above shoulder blade; left arm impaired but movable.",
+        "Black wings behind eyes are metaphorical exhaustion, not anatomical wings."
+      ],
+      "visualInterpretation": [
+        "Medium warm-brown skin, oval face, dark straight shoulder-length hair tied back loosely, dark eyes and pronounced exhaustion shadows.",
+        "Charcoal wool coat, off-white shirt, dark trousers and flat boots; ordinary rain-wet cloth.",
+        "Injury shown non-graphically by torn stained left upper-back cloth and guarded arm; no exposed gore."
+      ],
+      "states": [
+        {
+          "name": "Orders",
+          "description": "Before shoulder wound; exhausted stance with papers."
+        },
+        {
+          "name": "After the pool",
+          "description": "Guarded left arm, small dark stain high left back/shoulder, tired face."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:elspeth",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/empire-within/art/characters/elspeth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "EDIT first Elspeth sheet, preserve exact identity23yearoldwoman, clothing, layout, headings, two full views, papers and prop sizes, ivory ground. TWO CORRECTIONS ONLY. 1) Make all face and skin planes dim nighttime noir like second reference: two stops darker, majority connected dark blue-brown/violet shadows, small muted amber cheek plane, no orange rim, no bright studio face. Broad matte brush masses and selective impasto; eyes dark with no glow. LEFTview dimamberlight; CENTERafterpool very subdued red emergency-light side and almostdarkblueblack coat. 2) CENTER backfigure currently has ripped/light stained cloth on viewerRIGHT shoulder. Remove that rightshoulder tear completely, mend visually to plain charcoal coat. Put only ONE SMALL dark reddish stain and tiny cloth split on her anatomical LEFT upperback=VIEWERLEFT backshoulder, above shoulderblade. Left arm guarded; no exposed wound or gore. Keep rest exactlysame. No new scene, groundplane, scenery, swatches or palette. Header must remain Elspeth / Nobody Spends Her Name.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T22:58:34.727820+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity sheet title exactly 'Elspeth' subtitle 'Nobody Spends Her Name'. Young adult HUMAN WOMAN exactly23, severely sleep-deprived awake76hours, medium warm-brown skin, oval face, dark straight shoulderlength hair tied back loosely, dark eyes with noticeable exhausted shadows; normal pupils, NO metaphorical black wings literally shown. Slim-average adult build, not child or glam model. Contemporary charcoal wool coat over off-white shirt, dark trousers and flat ankle boots. Two complete isolated full-body views: front three-quarter 'Orders' before wound, shoulders tense, folded papers in one hand, ordinary dark pistol down by thigh in other; center back-three-quarter 'After the pool', same clothes and identity, guarded LEFT arm still mobile, small torn darkly stained cloth above left shoulderblade indicating injury without exposed wound or gore. Right head study tired determined, and small folded documents detail labelled 'Forged orders'. Noir NIGHT ELECTRIC LIGHT, NOT daylight: dim low amber source touches one cheek/sleeve, majority face/body in broad blue-black and brown shadows; after-pool view has understated dark red emergency reflection replacing amber, no theatrical rim. Large quiet connected oil shapes, heavily matte face/hair, selective substantial impasto. No crowns, emblems, fantasy costume or glamour. No pool, tiles, office, furniture, environment or ground patches, no swatches; ivory only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/01-private-room.png",
+                "role": "night desk-lamp palette/paint only",
+                "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-b0cd-7f80-9898-4eb66d6a746d\\exec-1d8711b2-dac3-4a98-acbc-57df03d72694.png",
+            "outputSha256": "77d23a59adabbdc1414242897731be0769418176550ea7a5417678b66abc6428",
+            "reviewFinding": "Bright portrait illumination not noir night; rear-view coat wound on right contrary to selected left-arm-related interpretation. Correct exposure and move small stain left."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:02:37.370766+00:00",
+            "prompt": "EDIT first Elspeth sheet, preserve exact identity23yearoldwoman, clothing, layout, headings, two full views, papers and prop sizes, ivory ground. TWO CORRECTIONS ONLY. 1) Make all face and skin planes dim nighttime noir like second reference: two stops darker, majority connected dark blue-brown/violet shadows, small muted amber cheek plane, no orange rim, no bright studio face. Broad matte brush masses and selective impasto; eyes dark with no glow. LEFTview dimamberlight; CENTERafterpool very subdued red emergency-light side and almostdarkblueblack coat. 2) CENTER backfigure currently has ripped/light stained cloth on viewerRIGHT shoulder. Remove that rightshoulder tear completely, mend visually to plain charcoal coat. Put only ONE SMALL dark reddish stain and tiny cloth split on her anatomical LEFT upperback=VIEWERLEFT backshoulder, above shoulderblade. Left arm guarded; no exposed wound or gore. Keep rest exactlysame. No new scene, groundplane, scenery, swatches or palette. Header must remain Elspeth / Nobody Spends Her Name.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1d8711b2-dac3-4a98-acbc-57df03d72694.png",
+                "role": "same Elspeth identity/folio narrow lighting and injury-location correction",
+                "sha256": "77d23a59adabbdc1414242897731be0769418176550ea7a5417678b66abc6428",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+                "role": "dim nighttime lamp exposure and connected dark oil masses only; no identity/clothes copying",
+                "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-6df75df8-3abb-4742-90d6-9539ed059910.png",
+            "outputSha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:06:23.917925+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1d8711b2-dac3-4a98-acbc-57df03d72694.png",
+            "role": "same Elspeth identity/folio narrow lighting and injury-location correction",
+            "sha256": "77d23a59adabbdc1414242897731be0769418176550ea7a5417678b66abc6428",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "dim nighttime lamp exposure and connected dark oil masses only; no identity/clothes copying",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:06:23.917949+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1d8711b2-dac3-4a98-acbc-57df03d72694.png",
+            "role": "same Elspeth identity/folio narrow lighting and injury-location correction",
+            "sha256": "77d23a59adabbdc1414242897731be0769418176550ea7a5417678b66abc6428",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-throne-neither-wanted/art/characters/vesran.png",
+            "role": "dim nighttime lamp exposure and connected dark oil masses only; no identity/clothes copying",
+            "sha256": "1180e35160d91c2c5d051583e077b98716bfc08015ad74b8e12d45f0842a599a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels: full unclipped same young adult identity in front/back and tired head; exactly two arms/legs, paper orders and lowered pistol.",
+          "After-pool stain and guarded arm align at left upper back; no graphic wound. Severe fatigue and dim nocturnal lamp/emergency states clearly read.",
+          "Broad matte face/cloth oil with quiet connected dark planes, exact readable header, bare ivory with no scenery or swatches."
+        ],
+        "specificationSha256": "ef8e2d87c6100ff719f03db12219b1dfa52901fd0efe08d06dc1061ebf0be0f4"
+      },
+      "lighting": "Noir night interior: dim amber desk/electric light and blue-black shadows; red emergency spill only in after-pool state.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Elspeth"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90"
+    },
+    {
+      "id": "doria-vale",
+      "name": "Doria Vale",
+      "role": "The driver; sustained logistics, rescue and trusted practical support.",
+      "selectionEvidence": [
+        {
+          "quote": "She was twice Elspeth's age, gray beginning at her temples, sleeves rolled above old burn scars.",
+          "line": 17,
+          "explanation": "Specific age, hair and scarring."
+        },
+        {
+          "quote": "The driver appeared at the deep end, gray hair loose, one sleeve wet to the elbow with somebody else's blood.",
+          "line": 279,
+          "explanation": "Continuing rescue agency."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "Approximately46, twice Elspeth's23.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Old forearm burn scars.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Sleeves rolled above scars; later sleeve darkly bloodstained.",
+        "equipment": "Earpiece and phone, pistol.",
+        "scale": "Human adult scale.",
+        "movement": "Driving, decisive movement, practical first aid.",
+        "distinctiveFeatures": "Graying at temples; gray hair loose later."
+      },
+      "explicitCanon": [
+        "Adult woman twice Elspeth's age.",
+        "Gray beginning at temples, later gray hair loose.",
+        "Rolled sleeves reveal old burn scars.",
+        "Uses earpiece, phone and pistol; assists injured and forces exit."
+      ],
+      "visualInterpretation": [
+        "About46, fair olive skin, long broad mature face with substantial nose bridge, broad cheeks, hooded deep-set eyes and mature square jaw, gray-brown hair originally in low practical knot then loose. Distinct from Elspeth.",
+        "Dark olive work jacket, slate shirt, charcoal trousers and flat ankleboots; no chauffeur uniform.",
+        "Subtle healed scar texture rather than fresh burns."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:doria-vale",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The driver; sustained logistics, rescue and trusted practical support.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/doria-vale.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit this Doria Vale character folio, 1536x1024 landscape. Make TWO precise corrections only: (1) replace the youthful facial structure in ALL THREE views with the SAME clearly distinct mature woman about 46: a notably LONG and BROAD face, broad middle cheeks, heavier mature brow, deep-set hooded eyes with subtle crowfeet, longer wider nose with substantial bridge and rounded tip, wider squared mature jaw, small relaxed mouth, natural under-eye/cheek folds. Keep her fair olive complexion and gray-brown hair, gray temples, low practical knot in Driver and loose hair after pool. Age her through skull/feature structure and calm tired expression, not gray hair alone, no elderly caricature. Strong mature working woman's face, no small narrow youthful fashion face. Maintain the same newly corrected face in front full figure, looking-back full figure, and large head study. (2) make nighttime lighting coherent: most face/neck/forearms in dark connected cool muted blue-gray/olive shadow, with only a LIMITED small amber practical-light plane across upper cheek/nose or hand. Reduce broadly bright orange skin dramatically, including the scar detail. Preserve healed pale forearm burn scars readable within shadow, not fresh injuries. Keep bodily shadows connected and matte, broad Group of Seven oil painted forms; avoid smooth photo realism or polished face and avoid bright studio/daylight lighting. Preserve all other exact content: two complete unclipped full body views, mature solid build, dark olive rolled-sleeve work jacket, slate shirt, charcoal trousers, flat black ankle boots, earpiece and phone, lowered pistol, stained later sleeve, scars, head detail, pose, placement, all typography. Text must remain exact 'Doria Vale' / 'Nobody Spends Her Name' / 'Driver' / 'After the pool' / 'Tired but still here' / 'Healed burn scars'. Preserve warm ivory background and character-only composition, NO scenery, ground patches, swatches or added items.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "superseded-after-coordinator-review",
+            "requestedAt": "2026-09-23T23:06:24.946798+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE adult human woman sheet exact 'Doria Vale' / 'Nobody Spends Her Name'. Art name for the DRIVER; identity distinct from Elspeth. Age46, fair olive skin, long broad mature face, gray-brown hair with pronounced gray at temples, hair in low practical knot initially and loose after crisis. Solid experienced working build. Contemporary dark olive work jacket with sleeves rolled above elbows over slate shirt, charcoal trousers and flat ankle boots. Old healed BURN SCARS on both forearms, subtle textured pale patches, NOT fresh wound. Two unclipped full-body forms: front three-quarter 'Driver', one hand touches small EARPIECE with a modest phone in other; rear-side three-quarter 'After the pool', same woman hair loose, one sleeve darkly bloodstained, lowered ordinary pistol in one hand, no car depicted. Right mature head study and healed-forearm scar detail. Keep darkblueblack quiet shadow masses from Elspeth reference: nighttime ELECTRIC light, dim amber small cheek/hand planes, most body subdued; afterpool modest redemergencyspill. NO bright studio face/daylight/rim glow, eyes matte. Broad connected brush-painted flesh and directional cloth masses, selective heavy impasto. Character only, no car/road/pool/furniture/groundpatches/palette swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-30813893-1e79-4e59-b5f7-9eac5b494616.png",
+            "outputSha256": "2d15ba737c9bddca90a1c0164f3629f0fe22cc483709d0781342590266f75279",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:09:56.343208+00:00",
+            "previousValidation": {
+              "status": "REVISE",
+              "reviewedAt": "2026-09-23T23:09:56.343227+00:00",
+              "reviewer": "cast_batch_4",
+              "outputSha256": "2d15ba737c9bddca90a1c0164f3629f0fe22cc483709d0781342590266f75279",
+              "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+              "references": [
+                {
+                  "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                  "role": "completed folio/oil style only",
+                  "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                  "inspected": true
+                },
+                {
+                  "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                  "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                  "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                  "inspected": true
+                },
+                {
+                  "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                  "role": "pre-blackout electric light and oil palette only",
+                  "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                  "inspected": true
+                }
+              ],
+              "evidence": [
+                "Actual pixels: mature gray-templed driver with consistent long face and work clothes; two full complete figures, tied/loose hair states and proper anatomy.",
+                "Healed forearm scars with sleeves rolled, phone/earpiece and lowered pistol; subtle dark blood on later sleeve matches source role.",
+                "Broad matte paint and connected dark cloth with warm local face light; readable name/title, no scene/groundplane/swatches."
+              ],
+              "specificationSha256": "b10a8ae57295ec96efdc98471a78b5d774c2c5f289777c9565127fc88e78dd9a"
+            },
+            "coordinatorFinding": "Face duplicates Elspeth despite gray hair; needs distinct mature46 long broad face in all views. Face/forearm exposure too bright for night."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:19:03.779455+00:00",
+            "prompt": "Use case: precise-object-edit. Edit this Doria Vale character folio, 1536x1024 landscape. Make TWO precise corrections only: (1) replace the youthful facial structure in ALL THREE views with the SAME clearly distinct mature woman about 46: a notably LONG and BROAD face, broad middle cheeks, heavier mature brow, deep-set hooded eyes with subtle crowfeet, longer wider nose with substantial bridge and rounded tip, wider squared mature jaw, small relaxed mouth, natural under-eye/cheek folds. Keep her fair olive complexion and gray-brown hair, gray temples, low practical knot in Driver and loose hair after pool. Age her through skull/feature structure and calm tired expression, not gray hair alone, no elderly caricature. Strong mature working woman's face, no small narrow youthful fashion face. Maintain the same newly corrected face in front full figure, looking-back full figure, and large head study. (2) make nighttime lighting coherent: most face/neck/forearms in dark connected cool muted blue-gray/olive shadow, with only a LIMITED small amber practical-light plane across upper cheek/nose or hand. Reduce broadly bright orange skin dramatically, including the scar detail. Preserve healed pale forearm burn scars readable within shadow, not fresh injuries. Keep bodily shadows connected and matte, broad Group of Seven oil painted forms; avoid smooth photo realism or polished face and avoid bright studio/daylight lighting. Preserve all other exact content: two complete unclipped full body views, mature solid build, dark olive rolled-sleeve work jacket, slate shirt, charcoal trousers, flat black ankle boots, earpiece and phone, lowered pistol, stained later sleeve, scars, head detail, pose, placement, all typography. Text must remain exact 'Doria Vale' / 'Nobody Spends Her Name' / 'Driver' / 'After the pool' / 'Tired but still here' / 'Healed burn scars'. Preserve warm ivory background and character-only composition, NO scenery, ground patches, swatches or added items.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-30813893-1e79-4e59-b5f7-9eac5b494616.png",
+                "role": "immutable original Doria sheet; edit target for mature facial identity and night exposure, preserve costume/scars/props/layout",
+                "sha256": "2d15ba737c9bddca90a1c0164f3629f0fe22cc483709d0781342590266f75279",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-4207ecbd-4a83-4511-9ce2-1b90f5b000a5.png",
+            "outputSha256": "03bc5e1dac13eedd6ee65ceed506c4d0ff6856561c58cf5b53b94c00336f74e1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:21:32.358090+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-30813893-1e79-4e59-b5f7-9eac5b494616.png",
+            "role": "immutable original Doria sheet; edit target for mature facial identity and night exposure, preserve costume/scars/props/layout",
+            "sha256": "2d15ba737c9bddca90a1c0164f3629f0fe22cc483709d0781342590266f75279",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:21:32.358090+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "03bc5e1dac13eedd6ee65ceed506c4d0ff6856561c58cf5b53b94c00336f74e1",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-30813893-1e79-4e59-b5f7-9eac5b494616.png",
+            "role": "immutable original Doria sheet; edit target for mature facial identity and night exposure, preserve costume/scars/props/layout",
+            "sha256": "2d15ba737c9bddca90a1c0164f3629f0fe22cc483709d0781342590266f75279",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels reviewed: all three faces now read as the same mature woman around46, with substantially broader long cheeks, larger nose bridge/tip, heavier hooded eyes and wider mature jaw; identity no longer matches youthful Elspeth.",
+          "Skin exposure is reduced across faces, neck, hands and forearm study; connected muted cool shadow with restrained practical amber planes reads nighttime. Healed pale forearm scars remain readable.",
+          "Gray temples, tied/loose hair progression, phone/earpiece, lowered pistol, rolled sleeves and later stained sleeve retained. Two complete full bodies, head and scar detail remain unclipped.",
+          "Exact title/name/state labels readable; broad matte oil style and warm ivory character-only ground preserved; no scenery, ground patches or swatches."
+        ],
+        "specificationSha256": "9e582bd257680890afed51a0a6eecaa9c77bb34a0b0f9be468c548bed488d3dd"
+      },
+      "lighting": "Nighttime electric practicals: dominant connected cool shadow on skin and clothing, small restrained amber lit planes; quiet red spill on later sleeve.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "03bc5e1dac13eedd6ee65ceed506c4d0ff6856561c58cf5b53b94c00336f74e1"
+    },
+    {
+      "id": "tavin-holt",
+      "name": "Tavin Holt",
+      "role": "The lieutenant; falsely first blamed, then crucial wounded ally.",
+      "selectionEvidence": [
+        {
+          "quote": "Twenty-eight, broad through the chest,",
+          "line": 41,
+          "explanation": "Specific age and build."
+        },
+        {
+          "quote": "From the corridor behind her, the lieutenant gasped, “Left.”",
+          "line": 367,
+          "explanation": "Warns protagonist of ambush."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "28.",
+        "proportions": "Broad through chest.",
+        "markings": "Brow wound from pistol strike, later side wound.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Practical contemporary urban clothing, restrained details interpreted.",
+        "equipment": "Phone and pistol.",
+        "scale": "Human adult scale.",
+        "movement": "Wounded forward bend while still following rescue task.",
+        "distinctiveFeatures": "Source does not supply complete face."
+      },
+      "explicitCanon": [
+        "28-year-old broad-chested man.",
+        "Brow cut by Elspeth's pistol, later shirt bloodied at side.",
+        "Uses phone and firearm, warns her during ambush."
+      ],
+      "visualInterpretation": [
+        "Medium brown skin, broad blunt face, short close black curls, dark eyes, clean-shaven.",
+        "Plain dark blue shirt, charcoal trousers, black rain jacket; no uniform or insignia.",
+        "Injury studies show small brow dressing and dark side stain, no graphic wounds."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:tavin-holt",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The lieutenant; falsely first blamed, then crucial wounded ally.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/tavin-holt.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity folio exact 'Tavin Holt' / 'Nobody Spends Her Name'. Source lieutenant, male adult EXACTLY28, BROAD THROUGH CHEST, medium brown skin, broad blunt face, SHORT CLOSE BLACK CURLS, darkeyes, clean-shaven. Not Elspeth face, gender or hair. Plain dark blue buttoned shirt, charcoal trousers, black rainjacket, plain dark shoes contemporaryurban. Two large fullbody isolated views: front3/4 before sidewound holding mobile phone in one hand, small fresh but NON-GRAPHIC eyebrow cut; side/back3/4 aftersidewound slightly hunched and left hand pressed to his side over small dark cloth stain, ordinary lowered pistol in other hand. Right adult headstudy with small eyebrow dressing; tiny folded towel detail. Only marks described; no arm sling, no huge bloody injury, no tattoo or badges. Labels 'Lieutenant', 'After the pool', 'Brow cut'. NIGHT lighting like deep-shadow Elspeth sheet, genuinely DIM electric amberplane on brow and hands with dark connected blue-brown/shadow covering majority, afterpool muted RED emergencyspill; no bright daylight or theatrical rim. Substantial broad matte oil masses, flesh handled same as fabric, no tiny mosaic or glossyportrait. No environment, furniture, pool, wall, groundpatches, swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:09:57.380174+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity folio exact 'Tavin Holt' / 'Nobody Spends Her Name'. Source lieutenant, male adult EXACTLY28, BROAD THROUGH CHEST, medium brown skin, broad blunt face, SHORT CLOSE BLACK CURLS, darkeyes, clean-shaven. Not Elspeth face, gender or hair. Plain dark blue buttoned shirt, charcoal trousers, black rainjacket, plain dark shoes contemporaryurban. Two large fullbody isolated views: front3/4 before sidewound holding mobile phone in one hand, small fresh but NON-GRAPHIC eyebrow cut; side/back3/4 aftersidewound slightly hunched and left hand pressed to his side over small dark cloth stain, ordinary lowered pistol in other hand. Right adult headstudy with small eyebrow dressing; tiny folded towel detail. Only marks described; no arm sling, no huge bloody injury, no tattoo or badges. Labels 'Lieutenant', 'After the pool', 'Brow cut'. NIGHT lighting like deep-shadow Elspeth sheet, genuinely DIM electric amberplane on brow and hands with dark connected blue-brown/shadow covering majority, afterpool muted RED emergencyspill; no bright daylight or theatrical rim. Substantial broad matte oil masses, flesh handled same as fabric, no tiny mosaic or glossyportrait. No environment, furniture, pool, wall, groundpatches, swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-dcf5529f-608f-47e7-bfb8-0d46caf282a3.png",
+            "outputSha256": "e9c90a8885a5d929be0707d7ebc6a74d4a3b6717437af2dbdf7f7455042b3601",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:13:52.280825+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:13:52.280842+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "e9c90a8885a5d929be0707d7ebc6a74d4a3b6717437af2dbdf7f7455042b3601",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: broad-chested28-year-old man with consistent short curls/blunt face, complete front and guarded side forms, natural limbs.",
+          "Brow cut/dressing, phone, towel, lowered pistol and hand over side wound follow source; injuries understated.",
+          "Dim amber/red nighttime light with connected deep cool masses, matte broad oil, exact header, no scenery, ground or swatches."
+        ],
+        "specificationSha256": "15aa3a816f1dbb871a292ff154033eef69f57f9bdabb2b6da1eb262b686959a2"
+      },
+      "lighting": "Noir night dim electric amber, cool slate shadow; late face red-emergency reflection.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "e9c90a8885a5d929be0707d7ebc6a74d4a3b6717437af2dbdf7f7455042b3601"
+    },
+    {
+      "id": "hadrin-voss",
+      "name": "Hadrin Voss",
+      "role": "The underboss; central antagonist who forged authority and arranged succession violence.",
+      "selectionEvidence": [
+        {
+          "quote": "The underboss had built her authorization phrases years ago,",
+          "line": 77,
+          "explanation": "Longstanding insider authority and betrayal."
+        },
+        {
+          "quote": "He had taken off his raincoat and rolled his cuffs neatly,",
+          "line": 225,
+          "explanation": "Specific crisis appearance and controlled manner."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "Older man, exactage unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Raincoat removed and shirt cuffs rolled neatly at confrontation.",
+        "equipment": "Pistol.",
+        "scale": "Human adult scale.",
+        "movement": "Paternal open hand, controlled authority then violent attack.",
+        "distinctiveFeatures": "No source facial identity."
+      },
+      "explicitCanon": [
+        "Older male underboss known to Elspeth since childhood.",
+        "Raincoat removed and cuffs neatly rolled.",
+        "Pistol at thigh then fired; dies at conclusion."
+      ],
+      "visualInterpretation": [
+        "About60, pale lined skin, thin gray hair combed back, heavy brows, square jaw and clean-shaven face.",
+        "Pale gray shirt, dark suspenders/trousers, dark raincoat carried as separate prop; no badges.",
+        "Depict alive before final injury; avoid gore/death study."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:hadrin-voss",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The underboss; central antagonist who forged authority and arranged succession violence.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/hadrin-voss.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity title exactly 'Hadrin Voss' subtitle 'Nobody Spends Her Name'. This is source's older underboss, art name. Human man about60, pale lined skin, thin gray hair combed back with receding temples, heavy brows, square broad jaw, clean-shaven, stocky adult body. Calm paternal control and manipulative small smile, not supernatural/villain caricature. Two complete unclipped views: front3/4 in pale GRAY SHIRT with cuffs neatly rolled to forearms, dark suspenders and charcoal trousers, plain black shoes, one open placating hand; side/back3/4 in same outfit with ordinary dark PISTOL held DOWN by thigh. Source raincoat already removed at confrontation, show closed dark raincoat isolated folded as equipment if useful, not worn over rolled sleeves. Head details 'Patient' and 'Unmasked' same man, second expression hard and angry, NO wounds or death state. Source confined nighttime electric light: DIM amber cheek/forearm planes, MOST face/body quiet dark umber/violetblue shadow, low exposure like Elspeth, not daylight or bright white shirt. Broad matte oil face with mature creases built from large color planes, NO gloss or tiny mosaic. No jewelry badges gunsmoke/scene/background/floor/scenery/swatches, only ivory folio.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:13:53.323729+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity title exactly 'Hadrin Voss' subtitle 'Nobody Spends Her Name'. This is source's older underboss, art name. Human man about60, pale lined skin, thin gray hair combed back with receding temples, heavy brows, square broad jaw, clean-shaven, stocky adult body. Calm paternal control and manipulative small smile, not supernatural/villain caricature. Two complete unclipped views: front3/4 in pale GRAY SHIRT with cuffs neatly rolled to forearms, dark suspenders and charcoal trousers, plain black shoes, one open placating hand; side/back3/4 in same outfit with ordinary dark PISTOL held DOWN by thigh. Source raincoat already removed at confrontation, show closed dark raincoat isolated folded as equipment if useful, not worn over rolled sleeves. Head details 'Patient' and 'Unmasked' same man, second expression hard and angry, NO wounds or death state. Source confined nighttime electric light: DIM amber cheek/forearm planes, MOST face/body quiet dark umber/violetblue shadow, low exposure like Elspeth, not daylight or bright white shirt. Broad matte oil face with mature creases built from large color planes, NO gloss or tiny mosaic. No jewelry badges gunsmoke/scene/background/floor/scenery/swatches, only ivory folio.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-1bfcb768-7f76-43fe-88b9-6f0705e96551.png",
+            "outputSha256": "d29dae73bca2a9def95df8e78636304badf134d4f78e30500cf78440f73c9936",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:19:22.895299+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:19:22.895320+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "d29dae73bca2a9def95df8e78636304badf134d4f78e30500cf78440f73c9936",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: older square-jawed gray-haired man, consistent complete front/back forms and contrasting facial attitudes; natural anatomy.",
+          "Neatly rolled cuffs with removed raincoat shown separately and lowered pistol match source; no invented insignia or death scene.",
+          "Muted warm local light and connected gray/blue shadows; matte broad oil across skin and cloth, readable header and bare ivory without scenery/swatches."
+        ],
+        "specificationSha256": "a0a27b66c0f4e86502be29d1d91d97e75acff5fe07187e42e4dc53aa020b3165"
+      },
+      "lighting": "Dim pre-blackout electric amber and machinery-corridor night shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "d29dae73bca2a9def95df8e78636304badf134d4f78e30500cf78440f73c9936"
+    },
+    {
+      "id": "garran-vey",
+      "name": "Garran Vey",
+      "role": "The older rival; adversarial negotiator and father who helps end coup.",
+      "selectionEvidence": [
+        {
+          "quote": "My daughter is alive,",
+          "line": 105,
+          "explanation": "Stakes and sustained adversarial negotiation."
+        },
+        {
+          "quote": "This settles tonight,",
+          "line": 413,
+          "explanation": "Limited settlement after daughter rescued."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "Older adult father.",
+        "proportions": "Natural adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Coat used to compress daughter's injured leg later.",
+        "equipment": "Pistol, phone.",
+        "scale": "Human adult scale.",
+        "movement": "Measured authority, controlled readiness.",
+        "distinctiveFeatures": "No source face specified."
+      },
+      "explicitCanon": [
+        "Older male rival with adult daughter and younger son.",
+        "Coat, pistol and phone source-supported.",
+        "Protects children and accepts limited settlement."
+      ],
+      "visualInterpretation": [
+        "About58, deep brown skin, bald crown with close gray sidehair, broad long face and short gray beard.",
+        "Dark brown raincoat over charcoal suit, subdued cream shirt; no ostentatious jewelry.",
+        "Dim amber pre-blackout light; restrained red emergency side study if used."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:garran-vey",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The older rival; adversarial negotiator and father who helps end coup.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/garran-vey.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE older rival character folio title 'Garran Vey' subtitle 'Nobody Spends Her Name'. Human male about58, deep brown skin, bald CROWN with close gray side hair, broad long mature face, short closely trimmed GRAY BEARD, dark eyes. Tall sturdy but older body; NOT underboss white gray-haired design. Dark brown plain raincoat over charcoal suit, subdued cream shirt, practical dark leather shoes, no jewelry/cigar/fedora. Two isolated full-length views: frontthreequarter controlled stance with ordinary pistol LOW, other hand relaxed; rearthreequarter with coat over one arm to explain coat used as pressure cloth later. One head study 'Measured', one 'Concerned'; same mature father face, quiet restraint. Small mobile phone if useful. Can show small dark stain on folded coat but no daughter/second person, no graphic injury. Source nighttime basement with DIM amber electric lamps before blackout, small warm cheek/hand planes and large coolblueblack connected shadows; exposure subdued similar Elspeth, not daylight or studio portrait. Bold OIL painting large matte flesh masses, broad directional clothing strokes, selective impasto; quiet darks no uniformly lit chips. All silhouettes complete and spaced, ivory only. No car, pool, furniture, scenery, floor, groundpatches or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:19:23.924650+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE older rival character folio title 'Garran Vey' subtitle 'Nobody Spends Her Name'. Human male about58, deep brown skin, bald CROWN with close gray side hair, broad long mature face, short closely trimmed GRAY BEARD, dark eyes. Tall sturdy but older body; NOT underboss white gray-haired design. Dark brown plain raincoat over charcoal suit, subdued cream shirt, practical dark leather shoes, no jewelry/cigar/fedora. Two isolated full-length views: frontthreequarter controlled stance with ordinary pistol LOW, other hand relaxed; rearthreequarter with coat over one arm to explain coat used as pressure cloth later. One head study 'Measured', one 'Concerned'; same mature father face, quiet restraint. Small mobile phone if useful. Can show small dark stain on folded coat but no daughter/second person, no graphic injury. Source nighttime basement with DIM amber electric lamps before blackout, small warm cheek/hand planes and large coolblueblack connected shadows; exposure subdued similar Elspeth, not daylight or studio portrait. Bold OIL painting large matte flesh masses, broad directional clothing strokes, selective impasto; quiet darks no uniformly lit chips. All silhouettes complete and spaced, ivory only. No car, pool, furniture, scenery, floor, groundpatches or swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-3532baea-e1dd-46b0-9101-fab70c96080e.png",
+            "outputSha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:23:42.761540+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:23:42.761560+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: older bald-crowned gray-bearded man, coherent mature face and sturdy frame in complete coat-on/coat-removed views.",
+          "Source coat, phone and ordinary pistol; restrained stain on coat supports daughter's care without showing another identity.",
+          "Matte broad oil and connected dark raincoat masses, warm local lamp planes and blue shadows; exact headings, no environment or swatches."
+        ],
+        "specificationSha256": "86b9f9f7bd82b98067d314cf630e242ffa6ba1eb628875ad578ad513f6b42e94"
+      },
+      "lighting": "Dim pre-blackout amber electric light and cool blue-black shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032"
+    },
+    {
+      "id": "brenna-vey",
+      "name": "Brenna Vey",
+      "role": "The rival's daughter; intended target, armed participant and reciprocal rescuer.",
+      "selectionEvidence": [
+        {
+          "quote": "The daughter looked older than Elspeth by perhaps five years.",
+          "line": 175,
+          "explanation": "Source approximate age."
+        },
+        {
+          "quote": "She wore a dark raincoat and held her pistol low, not hidden.",
+          "line": 175,
+          "explanation": "Source outfit and posture."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "About28, approximately five years older than23-year-old Elspeth.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Hip/leg injured in fall into empty pool.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Dark raincoat.",
+        "equipment": "Pistol held low.",
+        "scale": "Human adult scale.",
+        "movement": "Determined independent stance; later guarded leg and supports Elspeth.",
+        "distinctiveFeatures": "No full face supplied."
+      },
+      "explicitCanon": [
+        "Rival's daughter approximately28.",
+        "Dark raincoat and pistol held low.",
+        "Injured hip/leg; reciprocally pushes Elspeth from shot.",
+        "No name in prose; art surname coordinates pictured family only."
+      ],
+      "visualInterpretation": [
+        "Deep brown skin, angular face with father's broad brow, tightly curled black hair cropped short; no claim of canon phenotype.",
+        "Dark navy raincoat over muted plum shirt, black trousers and sturdy flat shoes.",
+        "Non-graphic guarded leg state, no crutch absent source."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:brenna-vey",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The rival's daughter; intended target, armed participant and reciprocal rescuer.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/brenna-vey.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet exact 'Brenna Vey' / 'Nobody Spends Her Name'. Rival's adult daughter, age approximately28, deep brown skin, angular strong face sharing FATHER Garran's broad brow but clearly youthful ADULT WOMAN, short tightly curled black hair cropped close, dark eyes. NOT Elspeth identity or hairstyle; no beard, no grayhair. Average sturdy athletic adult proportions. DARK NAVY RAINCOAT over muted plum shirt, black trousers and flat sturdy shoes. TWO complete isolated views: frontthreequarter 'Before the blackout', independent alert stance with ordinary pistol held LOW beside thigh, other hand relaxed; side/rearthreequarter 'After the fall', same outfit, discreet scuff at hip and favoring one leg, nothing broken/exposed, no crutch not in source. Face studies 'Watchful' and 'Afterward' with tired shaken composure. Do not include father or any other person. Small coat/cuff detail if room, NO extra ungrounded equipment. Lighting truly dim nighttime warm electric smallplanes beforeblackout, dark muted red emergency spill after, majority deep cool blue-brown shadows, NO daylight or glamour studio glow. Broad matte opaque oil masses across darkskin face/hair/clothing, restrained impasto accents, no glossybright eyes, no CGI. Exact unclipped cleanivory folio, no scene, tiles/pool, groundpatches or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:23:43.802072+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet exact 'Brenna Vey' / 'Nobody Spends Her Name'. Rival's adult daughter, age approximately28, deep brown skin, angular strong face sharing FATHER Garran's broad brow but clearly youthful ADULT WOMAN, short tightly curled black hair cropped close, dark eyes. NOT Elspeth identity or hairstyle; no beard, no grayhair. Average sturdy athletic adult proportions. DARK NAVY RAINCOAT over muted plum shirt, black trousers and flat sturdy shoes. TWO complete isolated views: frontthreequarter 'Before the blackout', independent alert stance with ordinary pistol held LOW beside thigh, other hand relaxed; side/rearthreequarter 'After the fall', same outfit, discreet scuff at hip and favoring one leg, nothing broken/exposed, no crutch not in source. Face studies 'Watchful' and 'Afterward' with tired shaken composure. Do not include father or any other person. Small coat/cuff detail if room, NO extra ungrounded equipment. Lighting truly dim nighttime warm electric smallplanes beforeblackout, dark muted red emergency spill after, majority deep cool blue-brown shadows, NO daylight or glamour studio glow. Broad matte opaque oil masses across darkskin face/hair/clothing, restrained impasto accents, no glossybright eyes, no CGI. Exact unclipped cleanivory folio, no scene, tiles/pool, groundpatches or swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/garran-vey.png",
+                "role": "father's actual broad brow and deep brown complexion for restrained family resemblance; no age/beard transfer",
+                "sha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-366d53a1-6196-4856-8af2-b7f887af7c9e.png",
+            "outputSha256": "fe9f2c6f96e71895d90254d6fcf6142ccada6a2763a99f51710209d188af7cff",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:27:24.221701+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/garran-vey.png",
+            "role": "father's actual broad brow and deep brown complexion for restrained family resemblance; no age/beard transfer",
+            "sha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:27:24.221723+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "fe9f2c6f96e71895d90254d6fcf6142ccada6a2763a99f51710209d188af7cff",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/garran-vey.png",
+            "role": "father's actual broad brow and deep brown complexion for restrained family resemblance; no age/beard transfer",
+            "sha256": "0b07020bb5228ba5bea13fb9103e55530967574cfa80fac93ab20bf64d236032",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: coherent adult28-year-old woman with cropped curls, dark complexion and restrained family brow resemblance; complete front/back views.",
+          "Dark raincoat and lowered pistol, after-fall scuff and guarded leg posture, watchful/tired states supported; no crutch or invented armor.",
+          "Broad matte skin and dark cloth oil, dim amber/red nighttime states, readable name/title and clean isolated ivory without scenery/swatches."
+        ],
+        "specificationSha256": "c757ff18f922003abe8c3aff12036beae65895779a919c48693daee660389604"
+      },
+      "lighting": "Dim amber electric light before blackout, red emergency-light reflection afterward.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "fe9f2c6f96e71895d90254d6fcf6142ccada6a2763a99f51710209d188af7cff"
+    },
+    {
+      "id": "aldric-pann",
+      "name": "Aldric Pann",
+      "role": "The ward captain; corrupt institutional antagonist pressured into cancelling raid.",
+      "selectionEvidence": [
+        {
+          "quote": "The ward captain came in with two plainclothes officers",
+          "line": 197,
+          "explanation": "Substantial antagonist at negotiation."
+        },
+        {
+          "quote": "The perimeter will remain while we conduct an orderly disengagement.",
+          "line": 419,
+          "explanation": "Continuing official-power confrontation and outcome."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human, two arms and two legs.",
+        "lifeStage": "Adult, exactage unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin/hair, contemporary rain-wet cloth, ordinary metal/leather props.",
+        "clothing": "Trousers later bloodied at knees; exact official outfit unspecified.",
+        "equipment": "Radio and phone.",
+        "scale": "Human adult scale.",
+        "movement": "Formal posture turns guarded and evasive.",
+        "distinctiveFeatures": "Irritated expression gives way to fear."
+      },
+      "explicitCanon": [
+        "Male ward captain; arrives with plainclothes officers.",
+        "Uses radio to hold/cancel raid, official phone.",
+        "Trousers bloodied to knees afterward."
+      ],
+      "visualInterpretation": [
+        "About50, light tan skin, rounded face, small eyes, neat sidepart graying black hair, no beard.",
+        "Conservative slate suit under plain black raincoat with pale shirt/dark tie; no invented badge jurisdiction.",
+        "Aftermath stains optional understated, no body violence."
+      ],
+      "states": [
+        {
+          "name": "Before the blackout",
+          "description": "Intact clothing and controlled posture under dim electric light."
+        },
+        {
+          "name": "Aftermath",
+          "description": "Same identity, tired and rain-wet; only described injuries/stains."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:aldric-pann",
+        "links": [],
+        "evidence": "No matching universe or cross-story identity established; shared art surname Vey coordinates this source's father/daughter only."
+      },
+      "references": [
+        {
+          "path": "stories/empire-within/title-image.jpg",
+          "role": "palette and broad silhouette only; no detailed identity",
+          "inspected": true,
+          "notes": "Woman-shaped shadow, blue tile and red emergency reflection; no facial identity.",
+          "sha256": "8134c158ce45d0574485a026d950a0e8c946fe42d36dab4e0c89f0f78bc10ade"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/01-private-room.png",
+          "role": "night desk-lamp palette/paint only",
+          "inspected": true,
+          "notes": "Amber electric lamp with blue rainy night, deep brown shadows. No room/rotary phone copied.",
+          "sha256": "8235e8358b72f2e343571292d7180ab8b8d755e064cc072c294b71c08f1327cc"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/02-basement-pool.png",
+          "role": "pre-blackout electric light and oil palette only",
+          "inspected": true,
+          "notes": "Dim amber lamps, muted cool blue-gray; no room transfer.",
+          "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637"
+        },
+        {
+          "path": "stories/empire-within/art/interiors/03-machinery-corridor.png",
+          "role": "night electric-light palette and painted material only",
+          "inspected": true,
+          "notes": "Small caged amber bulb, cool steel shadows; no machinery environment transfer.",
+          "sha256": "7a0bed7b0ef7814e814fe5a4398acdc52c7c7bf4070432f065e6ec11ba23ef3c"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed folio/oil style only",
+          "inspected": true,
+          "notes": "Broad matte paint and ivory isolated layout; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "The ward captain; corrupt institutional antagonist pressured into cancelling raid.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact matches in universe, frozen names or current character specs."
+      },
+      "output": "stories/empire-within/art/characters/aldric-pann.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet title 'Aldric Pann' subtitle 'Nobody Spends Her Name'. Source WARD CAPTAIN, user-authorized art name. Adult human man about50, light tan skin, rounded soft face, small dark eyes, neat short graying BLACK HAIR with SIDE PART, clean-shaven; stocky soft middle-aged body, not heroic muscular or villain caricature. Conservative SLATE SUIT with pale shirt and dark tie beneath plain black raincoat, dark laceup shoes. NO invented police badge, medals, jurisdiction crest, uniform hat or weapon. Source gear small ordinary handheld RADIO and MOBILE PHONE. Two full isolated unclipped forms: front3/4 formal defensive posture holding radio at chest, otherhand by coat; rear3/4 'After the hold' slightly hunched guarded stance holding mobile, faint dark blood stains at trouserknees from source aftermath, no openinjury. Right head studies 'Official composure' then 'Reassessment', same rounded middleaged face. Small radio/phone details ifspace. Exact same body/clothes acrossviews. DIM nighttime electric lamp, small amber cheek/hand planes with majority connected coolblue/umber shadow; subdued darkredafterlight, NO universaldaylight or glossy eyes. Broad matte oil, quiet large dark passages, selective strong impasto. Ivory ONLY no pool/room/floor/groundpatches/otherpeople/scenery/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:27:25.332900+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet title 'Aldric Pann' subtitle 'Nobody Spends Her Name'. Source WARD CAPTAIN, user-authorized art name. Adult human man about50, light tan skin, rounded soft face, small dark eyes, neat short graying BLACK HAIR with SIDE PART, clean-shaven; stocky soft middle-aged body, not heroic muscular or villain caricature. Conservative SLATE SUIT with pale shirt and dark tie beneath plain black raincoat, dark laceup shoes. NO invented police badge, medals, jurisdiction crest, uniform hat or weapon. Source gear small ordinary handheld RADIO and MOBILE PHONE. Two full isolated unclipped forms: front3/4 formal defensive posture holding radio at chest, otherhand by coat; rear3/4 'After the hold' slightly hunched guarded stance holding mobile, faint dark blood stains at trouserknees from source aftermath, no openinjury. Right head studies 'Official composure' then 'Reassessment', same rounded middleaged face. Small radio/phone details ifspace. Exact same body/clothes acrossviews. DIM nighttime electric lamp, small amber cheek/hand planes with majority connected coolblue/umber shadow; subdued darkredafterlight, NO universaldaylight or glossy eyes. Broad matte oil, quiet large dark passages, selective strong impasto. Ivory ONLY no pool/room/floor/groundpatches/otherpeople/scenery/swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed folio/oil style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+                "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+                "role": "pre-blackout electric light and oil palette only",
+                "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-38d598ec-a54b-4377-9766-f58a7d291411.png",
+            "outputSha256": "f2663726e1c432a0d4949d64e41169989ccf6cc3a99ef8d74b6a1231bbbfd947",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:31:11.785449+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:31:11.785467+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "f2663726e1c432a0d4949d64e41169989ccf6cc3a99ef8d74b6a1231bbbfd947",
+        "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed folio/oil style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/characters/elspeth.png",
+            "role": "same-story DIM nighttime exposure and broad matte paint only; not face/identity",
+            "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/empire-within/art/interiors/02-basement-pool.png",
+            "role": "pre-blackout electric light and oil palette only",
+            "sha256": "56b99ca2a9ee2c0558e3fa0e369020dcdb5289ff717f0d6c59b9d3758730e637",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: mature rounded-face man with graying side-part hair, consistent clothed physique and ordinary anatomy in two full views.",
+          "Radio and mobile phone, restrained knee stains match source, no invented police badge or insignia; exact art name/title readable.",
+          "Broad matte face and large connected dark suit/coat paint, warm local light with cool shadows, clean ivory no scenic elements/swatches."
+        ],
+        "specificationSha256": "fd5794131ff37bd0edb42eaf3b20d280e71fd3b9a0489da8e411523c146da653"
+      },
+      "lighting": "Nighttime pre-blackout electric lamp amber, dark cool shadows; muted red emergency-light aftermath.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "f2663726e1c432a0d4949d64e41169989ccf6cc3a99ef8d74b6a1231bbbfd947"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "a442d4b139aa59eec99c876b0563d6e6921392d40267d2ac42f0ff0b611f46c1",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
