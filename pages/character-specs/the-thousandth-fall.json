@@ -1,0 +1,416 @@
+{
+  "slug": "the-thousandth-fall",
+  "title": "The Thousandth Fall",
+  "source": "stories/the-thousandth-fall/story.md",
+  "canon": false,
+  "mainCastEvidence": "Rasden's progression/rescue and Palla's training/counting/spotting partnership drive every scene. Forty-seven individual pilgrims, drovers and mounts are transient rescue/background roles.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Forty-seven pilgrims including blue-coated woman/boy and four cradlechildren; drovers; horses/oxen/mule",
+      "reason": "Rescue recipients and workanimals without independent sustained roles."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover golden trail is decorative, not source-visible flight magic; omit trail and levitation.",
+    "Cover wraps/shoes subordinate to source sandal; plain sandals retained. No permanent new damage at victory because self-mend heals Rasden.",
+    "Palla hair white only from stone dust during rescue, not canonical white hair."
+  ],
+  "characters": [
+    {
+      "id": "rasden",
+      "name": "Rasden",
+      "role": "Monk and self-healing rescuer",
+      "selectionEvidence": [
+        {
+          "quote": "The right way to use a self-mend was to remain still and let yesterday's body rescue today's.",
+          "explanation": "Protagonist trains physical achievements."
+        },
+        {
+          "quote": "Rasden ran up the face of Suncleft Gorge with the broken Pilgrim Span across his shoulders.",
+          "explanation": "Climactic rescue."
+        },
+        {
+          "quote": "She pulled it tight and looped the cord around his wrist.",
+          "explanation": "Final equipment state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man, living self-mendingbody",
+        "lifeStage": "Adult; cover youngadult",
+        "proportions": "Lean athletic cover; superhuman capabilities not necessarily giantmuscles",
+        "markings": "No lastinginjury required afterhealing",
+        "materials": "Cloth robe, sandal",
+        "clothing": "Monk robe, sandal, coverochre brownlayers",
+        "equipment": "Countingcord transferred to wristafterrescue",
+        "movement": "Powerful precise stride/drop/lift, still humanlimbs"
+      },
+      "explicitCanon": [
+        "Self-mend acts on Rasden only, not power sharing or autonomous magicgear.",
+        "No wings/flight, no giantbody, no lighttrail or permanent wound display.",
+        "Final cord at wrist; trainingcord belongs Palla."
+      ],
+      "visualInterpretation": [
+        "Coverderived youngadultlate20s lightolive skin dark short tousledhair clean-shaven face, leanmuscularbody.",
+        "Ochre wraprobe brownloose trousers clothbelt/forearmwraps, brown strapped sandals (sourcecontrol); no templeamulet/staff/armor.",
+        "Final post-rescuebody front/back same dustedrobe and knottedcord art-leftwrist; two portraits delighted and intent; no floor rescuevignette."
+      ],
+      "states": [
+        {
+          "name": "After the thousandth fall",
+          "description": "Healed standing Rasden, dusty robes, transferredcountingcord."
+        }
+      ],
+      "lighting": "Clear diffuse mountain daylight, slate shadows warm small reflected ochreplanes.",
+      "references": [
+        {
+          "path": "stories/the-thousandth-fall/title-image.jpg",
+          "role": "Rasden dark short hair, lean athletic frame, ochre robe and brown cloth layers; source sandals override wrapped shoes and no visible magictrail",
+          "sha256": "0aada6fa945f99a34ed49d32769360ee4cd5df18f87353e772ee14926fc86ee4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-thousandth-fall/art/landscapes/01-midsky-cloister-in-rain.png",
+          "role": "Cool mountain daylight and broad matte oil handling",
+          "sha256": "50da1091c814b63e49adaba3439860088a8750d30257570f2feff8fb513b900b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+          "role": "Rescue dust/slate/earth palette and diffuse daylight",
+          "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Rasden",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-thousandth-fall/art/characters/rasden.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-thousandth-fall:rasden",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:59:36.498928+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Rasden\"; subtitle \"The Thousandth Fall\"; smallstate \"After the thousandth fall\". Human adult MONK age late20s artchoice. COVER image2 identity: lightOLIVE skin, SHORT BLACK/DARK BROWN windswept tousledhair, clean-shaven narrowface, darkeyes, lean ATHLETIC adult build strongbutnot giantbodybuilder. Samehair/face/proportions acrossviews. No bald monk trope, no facialtattoos/crown/armor.\nWear source ROBE in cover muted OCHRE wrap construction, practical knee-length wrapouterrobe over loose BROWN TROUSERS, broad plainclothbelt with shortlooseends, graybrown cloth forearmwraps as cover. Sourceorrect BROWN STRAPPED SANDALS with toes exposed, not cover's wrappedclosedshoes. Robe lightly stonedustgray, hems rumpled but intact; body completely HEALED and confident afterrescue, no bleedingwounds or bandageinjury. Ordinary knotted COURIER COUNTING CORD tied as loose bracelet around wrist after Palla gives it; no exactthousand separateknots, cordcount compressedperstory. No staff, sword, amulet, cape or prayerbeads invented.\nTwo complete frontthreequarter/backthreequarterbody views and two medium faceportraits at right: delighted wry grin and concentrated listening. Naturalhands in completebodyonly, no hands/scarcloseups. Allsandals and robes insideframe. Onehumanonly. No separatebridge/load/actionvignette or extraheadswithinbody.\nThe living self-mend works INSIDE him. NO GOLDEN LIGHTTRAIL from cover, no flying/glowingeyes, no aura/sparks, no visiblemagiclines or machinebody. Primary sourcepainting1 provides broadconnected matte oilpaintforms and diffuse MOUNTAIN DAYLIGHT, cool slate/umber shadows and smallwarmochre clothplanes. Coveronly guidesidentity not photorealface ordramaticlighting. Skinpaint as boldlygrouped as robe, thickselective impasto with quietconnectingbristlepassages. Cleanivory no floor/ground/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+                "role": "Rescue dust/slate/earth palette and diffuse daylight",
+                "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-thousandth-fall/title-image.jpg",
+                "role": "Rasden dark short hair, lean athletic frame, ochre robe and brown cloth layers; source sandals override wrapped shoes and no visible magictrail",
+                "sha256": "0aada6fa945f99a34ed49d32769360ee4cd5df18f87353e772ee14926fc86ee4",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary bold paint/presentation only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-eb1c7325-293d-48a9-aec4-a60be12b6f5a.png",
+            "outputSha256": "18abc7437d2977ebd2039ba70af1b1631c1e62752b0d01590daff51185efe14c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:03:49.761618+00:00",
+            "reviewFindings": [
+              "Actual saved pixels preserve cover-derived adult lean athletic Rasden, dark tousled short hair, ochre robe/brown layers and forearm wraps; same face in bodies/portraits.",
+              "Source sandals replace cover closed wrapped footwear. Healed post-rescue state, knotted cord at wrist, no invented visible aura, flight or shared healing.",
+              "Complete front/back silhouettes and delighted/intent portraits; broad matte oil construction across skin/robe, readable exact title/name/state, ivory no hand studies/location/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+            "role": "Rescue dust/slate/earth palette and diffuse daylight",
+            "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-thousandth-fall/title-image.jpg",
+            "role": "Rasden dark short hair, lean athletic frame, ochre robe and brown cloth layers; source sandals override wrapped shoes and no visible magictrail",
+            "sha256": "0aada6fa945f99a34ed49d32769360ee4cd5df18f87353e772ee14926fc86ee4",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary bold paint/presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Rasden\"; subtitle \"The Thousandth Fall\"; smallstate \"After the thousandth fall\". Human adult MONK age late20s artchoice. COVER image2 identity: lightOLIVE skin, SHORT BLACK/DARK BROWN windswept tousledhair, clean-shaven narrowface, darkeyes, lean ATHLETIC adult build strongbutnot giantbodybuilder. Samehair/face/proportions acrossviews. No bald monk trope, no facialtattoos/crown/armor.\nWear source ROBE in cover muted OCHRE wrap construction, practical knee-length wrapouterrobe over loose BROWN TROUSERS, broad plainclothbelt with shortlooseends, graybrown cloth forearmwraps as cover. Sourceorrect BROWN STRAPPED SANDALS with toes exposed, not cover's wrappedclosedshoes. Robe lightly stonedustgray, hems rumpled but intact; body completely HEALED and confident afterrescue, no bleedingwounds or bandageinjury. Ordinary knotted COURIER COUNTING CORD tied as loose bracelet around wrist after Palla gives it; no exactthousand separateknots, cordcount compressedperstory. No staff, sword, amulet, cape or prayerbeads invented.\nTwo complete frontthreequarter/backthreequarterbody views and two medium faceportraits at right: delighted wry grin and concentrated listening. Naturalhands in completebodyonly, no hands/scarcloseups. Allsandals and robes insideframe. Onehumanonly. No separatebridge/load/actionvignette or extraheadswithinbody.\nThe living self-mend works INSIDE him. NO GOLDEN LIGHTTRAIL from cover, no flying/glowingeyes, no aura/sparks, no visiblemagiclines or machinebody. Primary sourcepainting1 provides broadconnected matte oilpaintforms and diffuse MOUNTAIN DAYLIGHT, cool slate/umber shadows and smallwarmochre clothplanes. Coveronly guidesidentity not photorealface ordramaticlighting. Skinpaint as boldlygrouped as robe, thickselective impasto with quietconnectingbristlepassages. Cleanivory no floor/ground/scenery/swatches.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "18abc7437d2977ebd2039ba70af1b1631c1e62752b0d01590daff51185efe14c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:03:49.761618+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "18abc7437d2977ebd2039ba70af1b1631c1e62752b0d01590daff51185efe14c",
+        "sourceSha256": "c60dd78465d1156f8c30bb65ecceefa082b0a6df972a39019c5dfbd235f418f3",
+        "references": [
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+            "role": "Rescue dust/slate/earth palette and diffuse daylight",
+            "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-thousandth-fall/title-image.jpg",
+            "role": "Rasden dark short hair, lean athletic frame, ochre robe and brown cloth layers; source sandals override wrapped shoes and no visible magictrail",
+            "sha256": "0aada6fa945f99a34ed49d32769360ee4cd5df18f87353e772ee14926fc86ee4",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary bold paint/presentation only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels preserve cover-derived adult lean athletic Rasden, dark tousled short hair, ochre robe/brown layers and forearm wraps; same face in bodies/portraits.",
+          "Source sandals replace cover closed wrapped footwear. Healed post-rescue state, knotted cord at wrist, no invented visible aura, flight or shared healing.",
+          "Complete front/back silhouettes and delighted/intent portraits; broad matte oil construction across skin/robe, readable exact title/name/state, ivory no hand studies/location/floor/swatches."
+        ],
+        "specificationSha256": "25dc1bdeb6dceeb612e3aa6220292847c630a5fd4499bea43f3904562502778d"
+      }
+    },
+    {
+      "id": "palla",
+      "name": "Palla",
+      "role": "Training partner, courier and rescue spotter",
+      "selectionEvidence": [
+        {
+          "quote": "Palla pulled a courier's cord from her belt and tied the first knot.",
+          "explanation": "Training/counting role."
+        },
+        {
+          "quote": "She carried the strongest courier bow and a flight arrow fletched in white",
+          "explanation": "Equipment during speedtest."
+        },
+        {
+          "quote": "She was on hands and knees at the edge, hair white with stone dust.",
+          "explanation": "Rescue state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Humanwoman",
+        "lifeStage": "Adult",
+        "proportions": "Rider/vaultsrail; exact physiqueunstated",
+        "markings": "Stonedust face/hair duringrescue",
+        "clothing": "Belt mentioned, otherwiseunspecified",
+        "equipment": "Couriercord; strongcourierbow and whitefletchedflightarrow intraining",
+        "movement": "Energetic teasing/calling, exhausted rescuebreath"
+      },
+      "explicitCanon": [
+        "Hair whitened by stone dust not inherently whitehair.",
+        "Countingcord stayswithher until finalgift Rasden.",
+        "No supernaturalabilities granted."
+      ],
+      "visualInterpretation": [
+        "Art-only adultlate20s compactstrongbody, tawnyolive skin freckles, broadcheeks smallupturnednose greenbrowneyes; longchestnut highbraid.",
+        "Practical muted TEAL kneelength courier tunic splitforriding, browntrousers boots/leatherbelt; simplegrayundershirt.",
+        "Trainingclean frontbody bow atside/whiteflightarrow beltcord; rescuedust body bowabsent cordwrappedwrist; small correspondingportraits. No isolatedhands."
+      ],
+      "states": [
+        {
+          "name": "Training",
+          "description": "Clean naturalbrown hair, bow/arrow and countingcord."
+        },
+        {
+          "name": "Rescue",
+          "description": "Stonewhite dust on samehair/costume, cordwrist; bow notcarried."
+        }
+      ],
+      "lighting": "Training coolcloudydaylight and rescue diffuse dustlight, no studio golddefault.",
+      "references": [
+        {
+          "path": "stories/the-thousandth-fall/title-image.jpg",
+          "role": "Rasden dark short hair, lean athletic frame, ochre robe and brown cloth layers; source sandals override wrapped shoes and no visible magictrail",
+          "sha256": "0aada6fa945f99a34ed49d32769360ee4cd5df18f87353e772ee14926fc86ee4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-thousandth-fall/art/landscapes/01-midsky-cloister-in-rain.png",
+          "role": "Cool mountain daylight and broad matte oil handling",
+          "sha256": "50da1091c814b63e49adaba3439860088a8750d30257570f2feff8fb513b900b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+          "role": "Rescue dust/slate/earth palette and diffuse daylight",
+          "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Palla",
+        "notes": "Exact finished-source identity preserved."
+      },
+      "output": "stories/the-thousandth-fall/art/characters/palla.png",
+      "status": "completed",
+      "blockers": [],
+      "recurrence": {
+        "identityKey": "the-thousandth-fall:palla",
+        "links": [],
+        "evidence": "No cross-story shared identity established by source or universe."
+      },
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:03:50.733602+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Palla\"; subtitle \"The Thousandth Fall\". One adult HUMAN WOMAN training partner and courier, art-age late20s. COMPACT STRONG athletic rider'sbody, TAWNYOLIVE skin with a few freckles, round BROAD CHEEKS, SMALL UPTURNED NOSE, lively GREENBROWN EYES; long CHESTNUT hair in a high braidedponytail, strands loose attemples. No whitehair bybirth. Same face/hair/body/outfit inallviews, no borrowed medievalwoman identity fromstyleimage3. Not thin fashionmodel.\nArt practicalcourierwear: muted TEAL kneelength WOOL TUNIC splitforsafe riding over full BROWN TROUSERS, gray longsleeve undershirt, plainbrown leatherBELT, sensible BROWN CLOSED BOOTS. No platearmor, cloak, sword, magicalbadge or extravagant jewelry.\nTWO COMPLETE FRONTTHREEQUARTER bodyviews: LEFT labeled \"Training\": clean chestnuthair and tawnyface, holds ordinary STRONG WOODEN COURIER BOW vertically besidebody (fullbow inframe), one WHITE-FLETCHED FLIGHT ARROW in same relaxednatural equipmenthold; knotted couriercountingCORD coiledatbelt. No quiver/bunchofotherarrows necessary. CENTER labeled \"Rescue\": same woman/costume now graywhite STONE DUST powders hair and streaksface/clothes; still brown beneathdust. NO bow orarrow in rescueview; countingCORD wrapped aroundwrist, naturalattachedhands. Do not depict isolatedhand or cordexercise. Allfeet insideframe.\nRIGHT two mediumfaceportraits keyed visually tostates: upper TRAINING mischievous crookedgrin, lower RESCUE exhausted but intensely relieved expression with whitishstonedust inhairs andface. No secondperson, horse, victims, bridge/scenicvignette or floor.\nPainting1 PRIMARY connected matte oilforms and coolmountain diffuseDAYLIGHT in training; image2 grayearth DUSTLIGHT forrescue. No orangegoldrimlight or superheropowerglow. Distinct freckles and expression are BROAD PAINTED not photorealundertexture. Build faces/hair in same interlocking opaque masses as tealwool; selectiveraisedimpasto and quiet bristleconnections. Flat warmivory, no locations/swatches/palettes.",
+            "references": [
+              {
+                "path": "stories/the-thousandth-fall/art/landscapes/01-midsky-cloister-in-rain.png",
+                "role": "Primary Group of Seven paint and mountain diffuse daylight",
+                "sha256": "50da1091c814b63e49adaba3439860088a8750d30257570f2feff8fb513b900b",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+                "role": "Rescue stone dust/slate palette and oil handling",
+                "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Secondary painted form/presentation only, no borrowed face/armor",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-33cf5362-102d-41f6-b9ce-4d907f05a667.png",
+            "outputSha256": "af22a14f0414d812171e6a22aade1380f01111084fa4da8a347b28082b0db712",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:11:23.348821+00:00",
+            "reviewFindings": [
+              "Actual saved sheet preserves one adult Palla across clearly labeled training/rescue bodies and portraits, consistent chestnut braid, freckles, broadcheeks and practicalteal costume.",
+              "Training bow with whitefletched arrow and beltcord; rescue bow absent, countingcord at wrist, stonewhite dust on same brown hair/face/clothes. No intrinsic whitehair invention.",
+              "Complete bow and boot silhouettes, bold matte painted skin/cloth, exact name/title/state labels, no isolated hand studies, scenery/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source read fully after authoritative marker; actual cover and relevant paintings inspected. Canon body/equipment and visual choices separated; no isolated hand studies. One identity per sheet, refs hash-pinned before call.",
+        "references": [
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/01-midsky-cloister-in-rain.png",
+            "role": "Primary Group of Seven paint and mountain diffuse daylight",
+            "sha256": "50da1091c814b63e49adaba3439860088a8750d30257570f2feff8fb513b900b",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+            "role": "Rescue stone dust/slate palette and oil handling",
+            "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary painted form/presentation only, no borrowed face/armor",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Palla\"; subtitle \"The Thousandth Fall\". One adult HUMAN WOMAN training partner and courier, art-age late20s. COMPACT STRONG athletic rider'sbody, TAWNYOLIVE skin with a few freckles, round BROAD CHEEKS, SMALL UPTURNED NOSE, lively GREENBROWN EYES; long CHESTNUT hair in a high braidedponytail, strands loose attemples. No whitehair bybirth. Same face/hair/body/outfit inallviews, no borrowed medievalwoman identity fromstyleimage3. Not thin fashionmodel.\nArt practicalcourierwear: muted TEAL kneelength WOOL TUNIC splitforsafe riding over full BROWN TROUSERS, gray longsleeve undershirt, plainbrown leatherBELT, sensible BROWN CLOSED BOOTS. No platearmor, cloak, sword, magicalbadge or extravagant jewelry.\nTWO COMPLETE FRONTTHREEQUARTER bodyviews: LEFT labeled \"Training\": clean chestnuthair and tawnyface, holds ordinary STRONG WOODEN COURIER BOW vertically besidebody (fullbow inframe), one WHITE-FLETCHED FLIGHT ARROW in same relaxednatural equipmenthold; knotted couriercountingCORD coiledatbelt. No quiver/bunchofotherarrows necessary. CENTER labeled \"Rescue\": same woman/costume now graywhite STONE DUST powders hair and streaksface/clothes; still brown beneathdust. NO bow orarrow in rescueview; countingCORD wrapped aroundwrist, naturalattachedhands. Do not depict isolatedhand or cordexercise. Allfeet insideframe.\nRIGHT two mediumfaceportraits keyed visually tostates: upper TRAINING mischievous crookedgrin, lower RESCUE exhausted but intensely relieved expression with whitishstonedust inhairs andface. No secondperson, horse, victims, bridge/scenicvignette or floor.\nPainting1 PRIMARY connected matte oilforms and coolmountain diffuseDAYLIGHT in training; image2 grayearth DUSTLIGHT forrescue. No orangegoldrimlight or superheropowerglow. Distinct freckles and expression are BROAD PAINTED not photorealundertexture. Build faces/hair in same interlocking opaque masses as tealwool; selectiveraisedimpasto and quiet bristleconnections. Flat warmivory, no locations/swatches/palettes.",
+        "selectedAttempt": 1
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "af22a14f0414d812171e6a22aade1380f01111084fa4da8a347b28082b0db712",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:11:23.348821+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "af22a14f0414d812171e6a22aade1380f01111084fa4da8a347b28082b0db712",
+        "sourceSha256": "c60dd78465d1156f8c30bb65ecceefa082b0a6df972a39019c5dfbd235f418f3",
+        "references": [
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/01-midsky-cloister-in-rain.png",
+            "role": "Primary Group of Seven paint and mountain diffuse daylight",
+            "sha256": "50da1091c814b63e49adaba3439860088a8750d30257570f2feff8fb513b900b",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-thousandth-fall/art/landscapes/04-suncleft-gorges-broken-span.png",
+            "role": "Rescue stone dust/slate palette and oil handling",
+            "sha256": "f403b5932e6b5a03cc67ebf6e78ce8e22994229aa6323d514e0ef717160f533a",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Secondary painted form/presentation only, no borrowed face/armor",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved sheet preserves one adult Palla across clearly labeled training/rescue bodies and portraits, consistent chestnut braid, freckles, broadcheeks and practicalteal costume.",
+          "Training bow with whitefletched arrow and beltcord; rescue bow absent, countingcord at wrist, stonewhite dust on same brown hair/face/clothes. No intrinsic whitehair invention.",
+          "Complete bow and boot silhouettes, bold matte painted skin/cloth, exact name/title/state labels, no isolated hand studies, scenery/floor/swatches."
+        ],
+        "specificationSha256": "7c9cc2191317ed96ac7a25d4f6a9da5aa97e99707f2dfa1e434a890fffc4df81"
+      }
+    }
+  ],
+  "schemaVersion": 1,
+  "readComplete": true,
+  "assessment": "complete",
+  "sourceSha256": "c60dd78465d1156f8c30bb65ecceefa082b0a6df972a39019c5dfbd235f418f3"
+}
