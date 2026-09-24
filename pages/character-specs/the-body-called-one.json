@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-body-called-one",
+  "title": "The Body Called One",
+  "source": "stories/the-body-called-one/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Loxan is activepattern in emergency shell with associated preserved biological root; Mursa's continuous remote agency co-drives investigation/rescue. No assertion of separate Unit01 awareness or Unit02 consciousness.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Unit 02 former combat embodiment",
+      "reason": "Past embodiment left insensate, no separate present agency; finalsource suggests flightbody not originalimage humanoidpod. No speculative extra aircraft form invented."
+    },
+    {
+      "name": "Directorate retrieval team, rebels, rendezvous staff",
+      "reason": "Collective/offstage roles, no sustained individualcharacter."
+    },
+    {
+      "name": "Harrowstar archive/courier/probe",
+      "reason": "Nonconversational mechanisms; labels and actions do not establish personhood."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/style-guide.md#Personhood and moral consequence"
+  ],
+  "sourcePromptReferenceInventory": [
+    {
+      "displayName": "codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+      "status": "resolved-and-visually-inspected",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+      "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+      "inspected": true,
+      "recoveryProvenance": "Exact PNG input_image bytes in original user response_item line551, C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+      "notes": "Recovered external input only, not copied into storypackage."
+    }
+  ],
+  "referenceConflicts": [
+    "Finalsource overrides original/cover invertedhumanpod and armedhumanoidbody. Present active emergency shell is grown humanshaped; preserved root lies horizontally and later has transfer shroud.",
+    "Associated bodies under Loxan heading are explicitly state-labeled; rootawareness and continuity unresolved, never called corpse or separate confirmedperson.",
+    "Source numerical/physical diagnostic deficits remain limitations, not invented glowing eye, prosthetic, or mentalinterface power."
+  ],
+  "characters": [
+    {
+      "id": "loxan-vythe",
+      "name": "Loxan Vythe",
+      "role": "Rebel active pattern in failing emergency shell, rescues her preserved biological root without coercive testing.",
+      "selectionEvidence": [
+        {
+          "quote": "The shell was adult-sized but spare",
+          "explanation": "Current embodiedform."
+        },
+        {
+          "quote": "BIOLOGICAL ROOT: LOXAN VYTHE.",
+          "explanation": "Root body association, not continuity/awareness verdict."
+        }
+      ],
+      "form": "Current adult female human-shaped emergency shell, plus source-associated preserved biological root state",
+      "storyAppearance": {
+        "anatomy": "Both forms ordinaryhumanoid with two arms/twolegs/five fingers; apparent extra joints are unfamiliarity, not extra anatomy.",
+        "lifeStage": "Adult-sized shell, adult originalbody; exact chronological age unknown.",
+        "proportions": "Spare rapidlygrown shell; originalbody ordinaryadult.",
+        "markings": "Shell small abrasions across two knuckles later. Root contactscars around raggeddarkcroppedhair, adhesive rings at ribs, healed surgical knee line; limitedleftshoulder.",
+        "materials": "Living skin/hair/bone and cloth, clear supporttube, waistpump; rootmedical shroud/attachedlines.",
+        "clothing": "Source shellboots, other clothes unspecified; root transfer shroud later.",
+        "equipment": "Clear line enters belowlowest rib and runs to waistpack; root breathingline/throat/ribs connected to compacttransferpump.",
+        "scale": "Human adult in both bodily forms.",
+        "movement": "Current conscious carefulstanding, leftshoulderlimited/right-hipcompensation, late rightarm tremor; root reclined closedeyes, awarenessundetermined.",
+        "distinctiveFeatures": "No braininpod or wings shown; biometricretinal/hearing/balance deficits not externaleyeinjury."
+      },
+      "explicitCanon": [
+        "Activepattern emerged from Unit02 into rapidlygrown pale adult-sizedspare emergency shell.",
+        "Supportline belowlowest rib/waistpack; leftshoulder limit, rightretinal/hearing-notches and balancebias correlate with root.",
+        "Preserved adultwoman has raggeddarkhair/contactscars, broadnose, closedeyes, ribadhesivering marks and healed kneeline, leftshoulder slightlyforward.",
+        "No proof of rootawareness or complete continuity; rescue preserves two bodies, one speaking.",
+        "FormerUnit02 staysinsensate; no cockpitpilot to recover."
+      ],
+      "visualInterpretation": [
+        "Art-only currentface age30, paleivoryskin, narrow cheekplanes but broadnose echo, darkgrayeyes, veryshortdarkhair; current humanclothing plain slatezip-front supportjumpsuit and blacksoftboots, small sideopening for line.",
+        "Associated root warmolive skin, broadnose, darkcroppedhair, ordinaryadultproportions; modest graymedical drape/shroud fullycovers chest/pelvis, one knee visible with healedline chosen LEFT for consistentart.",
+        "Currentright hand chosen for twoknuckleabrasions; no eyepatch/robotlimbs/scarredmouth. Root line/pump attached, no cradle/scenery.",
+        "Reference layout explicitly separates current active shell and preserved root with awareness undetermined; visualassociation does not claim metaphysicalidentity."
+      ],
+      "states": [
+        {
+          "name": "Emergency shell / active pattern",
+          "description": "Two complete front/rear forms, supportline/waistpack and boots; later rightknuckleabrasions."
+        },
+        {
+          "name": "Preserved biological root",
+          "description": "Complete reclined draped adultbody with closedeyes, contactscars and leftknee healedline, attached breathing/ribsupport; label awareness undetermined."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-body-called-one:loxan-vythe",
+        "links": [],
+        "evidence": "No matching universe identity; localembodiments only, no established link to other transfer systems."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+          "role": "original compatible industrial materials, darkcroppedhair and technician visual inspiration only",
+          "notes": "Actual original: armedhumanoid pod with invertedbody, punktechnician; no direct source fidelity for body placement or agency. Do not import podpilot, upside-downrestraint, insignia/Japanese text or weapons.",
+          "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/title-image.jpg",
+          "role": "subordinate cool industrial palette and darkcroppedhair only",
+          "notes": "Mechanical uprightpod conflicts with finalsource preservedbody in separate horizontalvault; not anatomy authority.",
+          "sha256": "04cdf99977dc79be33c2552a8ea48b6f369347c4cb6215c6f5841317393c964f",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/art/interiors/03-preservation-vault.png",
+          "role": "clinical preservation equipment materials and dark light/paint only",
+          "notes": "No cradle/room on character sheet; attached lines/pump allowed only as personal support.",
+          "sha256": "dc111a49cde82e8a1eb32ea874abac42569fd005ef1364dce0c2bd63f023efc6",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/art/interiors/01-courier-cockpit.png",
+          "role": "cool Harrowstar whitespill and subdued amber instrument oil only",
+          "notes": "No ship/furniture/environment transferred.",
+          "sha256": "d41ef2fee52dbc74b0485f2073f8f2ce352f5c91354da63314172f616db4d5f2",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Loxan Vythe"
+      },
+      "output": "stories/the-body-called-one/art/characters/loxan-vythe.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit only this existing 1536x1024 Loxan Vythe sheet. Preserve every heading, label, composition, body, pose, equipment and matte broad oil mark, the quiet warm ivory background, current adult cropped hair/nose/eye identity, and closed-eye modestly draped preserved root. Make TWO corrections: (1) the isolated RIGHT HAND and current standing right hands should have EXACTLY TWO small knuckle abrasions, over INDEX and MIDDLE knuckles only. All other knuckles and fingers remain ordinary uninjured skin, not blood streaks. Keep five normal fingers. (2) CURRENT SHELL face and arms should read PALE IVORY human skin under DIM COOL clinical light. Use larger connected cool blue-gray shadow masses over about half facial and arm planes, restrain amber to small reflected marks. No sunny all-over tan or broad golden highlights, no studio fill. Preserve the warmer olive biological-root skin but keep its light subdued. Preserve readable features, not black silhouettes. All skin painted with broad matte OIL masses like cloth. No added setting/ground/pod/UI/equipment/text. Root left knee healed thin surgical line remains. Return one complete sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:10:23.610599+00:00",
+            "prompt": "Use case: illustration-story. Make ONE 1536x1024 landscape character reference folio on plain quiet warm ivory. Exact large heading \"Loxan Vythe\", subtitle \"The Body Called One\". One source-associated identity with carefully labeled embodied STATES; do not declare consciousness in the preserved body.\nMedium: actual Canadian Group of Seven OPAQUE OIL PAINT, large connected matte masses in FACES, flesh, cloth and equipment, directional bristle/knife strokes, selective impasto with quiet passages. Image1 is brushwork only; this subject is entirely human with ordinary human anatomy, never robotic. No photography, CGI precision or anime. Image2 only contributes subdued industrial gray/amber palette, not subject design. Image3 suggests dim clinical light only.\nLayout: left 52% two complete standing views FRONT three-quarter and REAR three-quarter, each around 650px tall, showing CURRENT EMERGENCY SHELL, label \"Emergency shell / active pattern\". Adult woman apparently30, spare lean build, PALE IVORY skin, narrow cheek planes, BROAD natural human nose, dark gray eyes, very short dark hair. Plain dark SLATE zip-front support jumpsuit, black soft boots, no armor. Clear support tube enters just BELOW LOWEST RIB through a small modest opening in her RIGHT side, curves to compact waist support pack. Human hands FIVE normal fingers. LEFT shoulder slightly held forward/lowered, careful stance compensating over RIGHT hip. Two minor scrapes across RIGHT knuckles, no severe wound. Entire head-to-boots visible, including both arms and both legs each view.\nUpper right: large same-current-face head study, ordinary eyes, subtle uncertainty and effort, no eyepatch, implants, tears or glowing power; small right-hand study showing two scraped knuckles if space.\nLower right: a COMPLETE HORIZONTALLY RECLINED body, head at left, feet at right, entirely within sheet. Label \"Preserved biological root\", smaller exact line \"Awareness undetermined\". This associated adult woman has warmer olive skin, broad nose, CLOSED EYES, dark hair CROPPED RAGGEDLY around small healed scalp contact scars, brow crease. Modest gray medical transfer SHROUD covers breasts/chest, pelvis and most legs; one exposed LEFT KNEE has a fine healed surgical line, both complete feet visible. Compact attached transfer pump with throat breathing line and discreet rib support line; breathing seal at nose, medical care not restraint. Two arms rest naturally alongside shroud, one shoulder slightly forward. No corpse styling, decomposition, horror or proved-awake expression. Do not show separate person acting, and no mechanized vessel or inverted body.\nLighting on ALL bodies is dim cool white clinical spill, deep blue-gray connected shadow areas and SMALL restrained amber edge reflections, no bright studio face fill. Skin still reads human. Background remains evenly WARM IVORY with absolutely NO room, bed, cradle, pod, floor, ground patch, cast ground shadows, landscape, color swatches, palette strip, extra characters, weapons, insignia, Japanese text, Unit02 robot, aircraft, wings or floating UI. Clear spacing, legible exact headings, painted complete anatomical forms.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "PRIMARY matte broad oil brushwork only; no robot geometry, armor, cape or red optics",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+                "role": "original industrial cool gray/amber material language only; final source overrides pod/humanoid weaponry/inverted body",
+                "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-body-called-one/art/interiors/03-preservation-vault.png",
+                "role": "cool clinical and small amber reflected light; no environment/cradle transferred",
+                "sha256": "dc111a49cde82e8a1eb32ea874abac42569fd005ef1364dce0c2bd63f023efc6",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-44878156-0d71-4c7a-bc5e-0911731a2ba2.png",
+            "outputSha256": "8e6fd598b1f9a3072f3db1f58e896e186aac15f195971168e1ec1bf7dd86475a",
+            "reviewFindings": [
+              "Right hand detail depicts three scraped knuckles though text claims two; limit to two.",
+              "Broad tan highlight fill on current shell obscures pale shell and dim cool clinical lighting; root can stay warmer."
+            ],
+            "completedAt": "2026-09-24T06:12:15.759199+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:12:16.767050+00:00",
+            "prompt": "Edit only this existing 1536x1024 Loxan Vythe sheet. Preserve every heading, label, composition, body, pose, equipment and matte broad oil mark, the quiet warm ivory background, current adult cropped hair/nose/eye identity, and closed-eye modestly draped preserved root. Make TWO corrections: (1) the isolated RIGHT HAND and current standing right hands should have EXACTLY TWO small knuckle abrasions, over INDEX and MIDDLE knuckles only. All other knuckles and fingers remain ordinary uninjured skin, not blood streaks. Keep five normal fingers. (2) CURRENT SHELL face and arms should read PALE IVORY human skin under DIM COOL clinical light. Use larger connected cool blue-gray shadow masses over about half facial and arm planes, restrain amber to small reflected marks. No sunny all-over tan or broad golden highlights, no studio fill. Preserve the warmer olive biological-root skin but keep its light subdued. Preserve readable features, not black silhouettes. All skin painted with broad matte OIL masses like cloth. No added setting/ground/pod/UI/equipment/text. Root left knee healed thin surgical line remains. Return one complete sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-44878156-0d71-4c7a-bc5e-0911731a2ba2.png",
+                "role": "edit target; preserve same identity, anatomy, layout and exact labels",
+                "sha256": "8e6fd598b1f9a3072f3db1f58e896e186aac15f195971168e1ec1bf7dd86475a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b95a926c-364d-4b02-a2d8-e9e804f1169d.png",
+            "outputSha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:58:43.441740+00:00",
+            "withdrawnReviewFindings": [
+              "Root correctlyidentified isolatedupper-right study as LEFT dorsalhand (knuckles/nails withthumbviewerLEFT), mislabeledRight. Localreviewmissedlaterality. Correctonlyisolatedstudy toRIGHTdorsal, thumbviewerRIGHT. Bodies/pumps/stategeometry unchanged."
+            ],
+            "reselectionReason": "Correct RIGHT dorsal study: fingernails/knuckles face viewer, fingers upward-right, thumb viewer LEFT. Two scrape areas. Original selected bytes restored after published anatomy plate disproved intervening review convention."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:58:44.682158+00:00",
+            "prompt": "One precise local anatomy edit to this Loxan Vythe sheet. ONLY change the ISOLATED HAND STUDY in the UPPER RIGHT CORNER, above the label \"Right hand detail (two scraped knuckles)\".\nIt currently shows a LEFT hand: dorsal/back-of-hand view, fingernails/knuckles visible, THUMB on viewer LEFT. Replace just that isolated hand with the corresponding anatomically RIGHT hand in dorsal/back-of-hand view. Its THUMB must be on viewer RIGHT, four fingers extending upward/diagonally, with nail and knuckle surfaces visible. A horizontally mirrored version of just this hand is the intended geometry. Exactly five ordinary fingers and exactly TWO small scraped knuckle sites, no other injury. Keep its location and scale, pale cool skin, matte oil brushwork and warm ivory around it. Keep its label unchanged.\nEVERY OTHER PIXEL REGION stays as close as possible: both full-body figures, face portrait, current support tubes and waist packs, reclined biological root with shroud/pump/lines, scar, lighting, exact all text, background, layout and body anatomy. Do not mirror any body or the whole sheet, do not change current standing hands. No added objects, no scenes or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b95a926c-364d-4b02-a2d8-e9e804f1169d.png",
+                "role": "immutable target; ONLY upperrightisolatedhand correction",
+                "sha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fb44c300-57d0-4553-8313-39fe661c02c7.png",
+            "outputSha256": "78f7c287ecebb4b623cfb28daf8d79245065392e2d8d88890b3327c2db5dec2d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:04:46.658441+00:00",
+            "reviewFindings": [
+              "Intervening reviewer used reversed upright dorsal laterality convention. This edit changed a correct original hand to the wrong hand. Original attempt 2 is reselected after actual anatomical reference verification."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-44878156-0d71-4c7a-bc5e-0911731a2ba2.png",
+            "role": "edit target; preserve same identity, anatomy, layout and exact labels",
+            "sha256": "8e6fd598b1f9a3072f3db1f58e896e186aac15f195971168e1ec1bf7dd86475a",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:33:45.701614+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+        "sourceSha256": "76ea6ba82f7ee273fbf3d5bcbdebb80802a935767e6fd7cc26b6e4bbf48b9fc1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-44878156-0d71-4c7a-bc5e-0911731a2ba2.png",
+            "role": "edit target; preserve same identity, anatomy, layout and exact labels",
+            "sha256": "8e6fd598b1f9a3072f3db1f58e896e186aac15f195971168e1ec1bf7dd86475a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Correct RIGHT dorsal study: fingernails/knuckles face viewer, fingers upward-right, thumb viewer LEFT. Two scrape areas. Original selected bytes restored after published anatomy plate disproved intervening review convention.",
+          "Actual full sheet pixels re-inspected: body identity, source states, wardrobe, tubes/props and readable headings preserved; broad matte oil and warm ivory retained.",
+          "Anatomy verification: Morris A Treatise on Human Anatomy figure134, Left Hand Dorsal Surface, viewed actual plate at https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png ; fingers-down thumb-left corresponds to fingers-up thumb-right."
+        ],
+        "specificationSha256": "a3d4b61927013eb564c7c10dd883b729a2e2e3d2c48ff32f3ea4362c82842b6e"
+      },
+      "lighting": "Subdued cool white clinical spill, deep blue-gray shadows and small amber reflected edges; warm ivory paper stays clear.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f"
+    },
+    {
+      "id": "mursa",
+      "name": "Mursa",
+      "role": "Remote rebel signal technician whose calculations, glyphguidance and changed priorities enable rescue.",
+      "selectionEvidence": [
+        {
+          "quote": "Paper rustled on her end; she still kept sums on paper when she did not trust a system.",
+          "explanation": "Characteristic physical tool and sustained remote agency."
+        }
+      ],
+      "form": "Adult human woman, no visible source appearance",
+      "storyAppearance": {
+        "anatomy": "Ordinaryhumanadult woman, twoarms/twolegs.",
+        "lifeStage": "Adult, exactage unspecified.",
+        "proportions": "Not specified.",
+        "markings": "None specified.",
+        "materials": "Human skin/hair, practicalcloth, paper/pencil/communicationsdevice.",
+        "clothing": "Not specified.",
+        "equipment": "Paper calculations, pencil, keyboard; remote signal/bone-link interface tech inferred.",
+        "scale": "Humanadult.",
+        "movement": "Practical listening/calculating, no magicpose.",
+        "distinctiveFeatures": "Remote voice and glyphs, no source statementofbodyaugmentation."
+      },
+      "explicitCanon": [
+        "Woman rebel signaltechnician and remoteguide, named Mursa in prose.",
+        "Paper/pencil arithmetic under pressure, changesinstructions as channelsfail.",
+        "Uses comms/glyphs, no psychicpower or required cyberneticimplant."
+      ],
+      "visualInterpretation": [
+        "Art-only age36, mediumbrownskin, broadroundface/shortwide nose, blackundercut crop with one copperdyedforelock from originaltechnician mood, darkeyes; stockycompactbuild.",
+        "Plain charcoal workjacket with dull orangeinnercollar, slate trousers, darkflatboots, simpleoverear headset and ordinary paperpad/pencil; no originalinsignia/tattoos/weapon.",
+        "Subdued cool worklight and small amberindicator spill; no workshop/desk."
+      ],
+      "states": [
+        {
+          "name": "Signal check",
+          "description": "Front/rear completeforms with headset, pad/pencil; ordinaryhands."
+        },
+        {
+          "name": "Listening",
+          "description": "Headstudy, practicalattentive expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-body-called-one:mursa",
+        "links": [],
+        "evidence": "Outline/review declare MursaGlint; exactstory-facingname Mursa used. No universe recurrences."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+          "role": "original compatible industrial materials, darkcroppedhair and technician visual inspiration only",
+          "notes": "Actual original: armedhumanoid pod with invertedbody, punktechnician; no direct source fidelity for body placement or agency. Do not import podpilot, upside-downrestraint, insignia/Japanese text or weapons.",
+          "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/title-image.jpg",
+          "role": "subordinate cool industrial palette and darkcroppedhair only",
+          "notes": "Mechanical uprightpod conflicts with finalsource preservedbody in separate horizontalvault; not anatomy authority.",
+          "sha256": "04cdf99977dc79be33c2552a8ea48b6f369347c4cb6215c6f5841317393c964f",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/art/interiors/03-preservation-vault.png",
+          "role": "clinical preservation equipment materials and dark light/paint only",
+          "notes": "No cradle/room on character sheet; attached lines/pump allowed only as personal support.",
+          "sha256": "dc111a49cde82e8a1eb32ea874abac42569fd005ef1364dce0c2bd63f023efc6",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-body-called-one/art/interiors/01-courier-cockpit.png",
+          "role": "cool Harrowstar whitespill and subdued amber instrument oil only",
+          "notes": "No ship/furniture/environment transferred.",
+          "sha256": "d41ef2fee52dbc74b0485f2073f8f2ce352f5c91354da63314172f616db4d5f2",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Mursa",
+        "declaredFullName": "Mursa Glint (outline/review only)"
+      },
+      "output": "stories/the-body-called-one/art/characters/mursa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character reference folio, warm ivory empty background, precise heading \"Mursa\", subtitle \"The Body Called One\". ONE ordinary adult woman radio/signal technician. Entirely DISTINCT from woman in image1: Mursa appears36, STOCKY COMPACT build, medium BROWN skin, broad ROUND face, SHORT WIDE nose, wide-set darkbrown eyes, short jaw, black UNDERCUT croppedhair with ONE COPPER-dyed forelock. Practical attentive, not glamorous. Image2 technician contributes shortpunk workwear mood only; no claims sameperson. Plain CHARCOAL workjacket with dull orange INNER COLLAR, slate worktrousers, dark flatboots. Simple ordinary OVER-EAR communications HEADSET with smallboommic, no surgery/cybernetic implants.\nLayout left complete FRONT-threequarter standingbody with headset and plain paper calculation pad heldonehand/pencil other; center complete REAR-threequarter showing samebody andhair, head turned enough see sameshortnose, pad tuckedclose. Exact label under them \"Signal check\". Right two expressive headstudies \"Listening\" and \"Recalculating\" (subtle brow concentration, no exaggerated emotion), beneath small natural hands/paper/pencil study \"Paper sums\", simple arithmetic marks onpaper but no prominent made-up storytext. Two human arms/twolegs, five ordinary fingers, allboots/hands/crown unclipped. No extra people.\nMedium: match image1 broad connected matte OPAQUE OIL forms, Canadian Group of Seven brushwork and deliberate bristle/knife strokes on face, hair andclothes, selectiveimpasto with quietareas. Do NOT repeat Loxan's angular narrowpale face, injuries, medicaltubes, jumpsuit or rootbody. Skin constructed from large dark ochre/umber/slate masses, broad features, not smoothphoto. Dim cool worklight with large connected coolshadows, limited amber bounce on a few cheek/hand planes; no bright studiofill or sunbeam. Warm ivory background evenly quiet with NO floor, ground/shadowpatches, scenery,desk,room,swatches,palette strip, robot, aircraft, weapon, redcross, Japanese text, tattoos, badges or floating UI. Exact readable headings. One complete sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:14:25.181929+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character reference folio, warm ivory empty background, precise heading \"Mursa\", subtitle \"The Body Called One\". ONE ordinary adult woman radio/signal technician. Entirely DISTINCT from woman in image1: Mursa appears36, STOCKY COMPACT build, medium BROWN skin, broad ROUND face, SHORT WIDE nose, wide-set darkbrown eyes, short jaw, black UNDERCUT croppedhair with ONE COPPER-dyed forelock. Practical attentive, not glamorous. Image2 technician contributes shortpunk workwear mood only; no claims sameperson. Plain CHARCOAL workjacket with dull orange INNER COLLAR, slate worktrousers, dark flatboots. Simple ordinary OVER-EAR communications HEADSET with smallboommic, no surgery/cybernetic implants.\nLayout left complete FRONT-threequarter standingbody with headset and plain paper calculation pad heldonehand/pencil other; center complete REAR-threequarter showing samebody andhair, head turned enough see sameshortnose, pad tuckedclose. Exact label under them \"Signal check\". Right two expressive headstudies \"Listening\" and \"Recalculating\" (subtle brow concentration, no exaggerated emotion), beneath small natural hands/paper/pencil study \"Paper sums\", simple arithmetic marks onpaper but no prominent made-up storytext. Two human arms/twolegs, five ordinary fingers, allboots/hands/crown unclipped. No extra people.\nMedium: match image1 broad connected matte OPAQUE OIL forms, Canadian Group of Seven brushwork and deliberate bristle/knife strokes on face, hair andclothes, selectiveimpasto with quietareas. Do NOT repeat Loxan's angular narrowpale face, injuries, medicaltubes, jumpsuit or rootbody. Skin constructed from large dark ochre/umber/slate masses, broad features, not smoothphoto. Dim cool worklight with large connected coolshadows, limited amber bounce on a few cheek/hand planes; no bright studiofill or sunbeam. Warm ivory background evenly quiet with NO floor, ground/shadowpatches, scenery,desk,room,swatches,palette strip, robot, aircraft, weapon, redcross, Japanese text, tattoos, badges or floating UI. Exact readable headings. One complete sheet.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-body-called-one/art/characters/loxan-vythe.png",
+                "role": "same-story matte oil and cool subdued light only; no pale shell face or medical gear transfer",
+                "sha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+                "role": "technician short hair/workwear mood as art-only inspiration; no tattoos,robot,weapon,pod or direct identity claim",
+                "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-503626e2-7d0b-4039-9cec-91bad6b3f403.png",
+            "outputSha256": "b37c84ed7dab59c48a75aae554ec2c2f9eebd9e632ba243a135d5613d323eb34",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:16:12.105846+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b95a926c-364d-4b02-a2d8-e9e804f1169d.png",
+            "role": "same-story matte oil and cool subdued light only; no pale shell face or medical gear transfer",
+            "sha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+            "role": "technician short hair/workwear mood as art-only inspiration; no tattoos,robot,weapon,pod or direct identity claim",
+            "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:16:12.105846+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "b37c84ed7dab59c48a75aae554ec2c2f9eebd9e632ba243a135d5613d323eb34",
+        "sourceSha256": "76ea6ba82f7ee273fbf3d5bcbdebb80802a935767e6fd7cc26b6e4bbf48b9fc1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b95a926c-364d-4b02-a2d8-e9e804f1169d.png",
+            "role": "same-story matte oil and cool subdued light only; no pale shell face or medical gear transfer",
+            "sha256": "19073c5dd692b7af872bbde0a9386b164efd2df86a30207c5513ea212e1a859f",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-05a0d974-1c27-4c3a-b5c0-56612e81c0c3.png",
+            "role": "technician short hair/workwear mood as art-only inspiration; no tattoos,robot,weapon,pod or direct identity claim",
+            "sha256": "dfae5d878e165865fb045bfe461b17dedac541a3fb9f24a67586777bc0679222",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual1536x1024 pixels show exactMursa/TheBodyCalledOne heading, two completefront/rear adultforms, completeboots/hands, correctlyaligned practicalheadset.",
+          "Distinctstocky mediumbrown adult with roundbroadface/shortwidenose/undercutcoppertuft is consistent across2bodies/2heads; no Loxan medicalidentity or othercharacter transferred.",
+          "Paperpad/pencil and sums/paperhands readable with naturalanatomy; no weapon/insignia/tattoos/cyberneticimplant or inventedpower.",
+          "Charcoalorange workwear and flesh are constructed in connectedmatteoilmasses with deliberatebroadstrokes, subduedworkinglight, quietwarmivory and nofloor/scenery/swatches.",
+          "Style reference stabilized to immutable exact original Loxan bytes used at generation; same SHA preserved. Historical attempt records retain original tool input path. Later isolated Loxan hand correction does not alter Mursa artwork or its original style input."
+        ],
+        "specificationSha256": "e8eb596a251ec8dbd4ce5ba6460004c482c59c5523b404c35eb6507f404fea44"
+      },
+      "lighting": "Dim cool technical worklight with limited amber reflected planes, large connected shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b37c84ed7dab59c48a75aae554ec2c2f9eebd9e632ba243a135d5613d323eb34"
+    }
+  ],
+  "sourceSha256": "76ea6ba82f7ee273fbf3d5bcbdebb80802a935767e6fd7cc26b6e4bbf48b9fc1"
+}
