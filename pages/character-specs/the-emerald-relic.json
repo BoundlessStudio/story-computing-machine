@@ -1,0 +1,644 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-emerald-relic",
+  "title": "A Bargain with Anubis",
+  "source": "stories/the-emerald-relic/story.md",
+  "sourceSha256": "9868c45c435b490f8a91b92f8b7109beb517c7cc60835bf1b7fd42e64cd8b70b",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished source read in full through Taremet's final breath. Taremet decides and carries out concealed handover; Anubis receives the bargain, recovers power and keeps secrecy; Pharaoh Khaseb sustains the suspension and tries to save his daughter. These three drive all major exchanges.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Bearers, guards, attendants, physician, temple sufferers, boy and mother, messenger",
+      "reason": "Brief collective or unindividualized functional roles without sustained central arc."
+    },
+    {
+      "name": "Locust and cattle",
+      "reason": "Suffering animals demonstrate effects but lack sustained individualized agency sufficient for a main-character sheet."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md read; no current universe entries found for these three identities/story. Canon:false source is local story evidence only; shared living-source-of-power rule preserved.",
+    "Prompt and review explicitly make alternate ornate two-jaw reptilian relic a COVER-ONLY override. Character art preserves Anubis identity but does not redraw that conflicting object. No source/canon/prompt/cover changes."
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-57be4684-907c-4fca-8024-456ec69fbd46.png",
+      "role": "Original external Anubis identity: erect black jackal ears, long muzzle, black/gold striped headdress and gold ornaments; not photoreal rendering or cover-only relic",
+      "notes": "Actual pixels inspected; original recovered by exact filename. Nonhuman black jackal-headed masculine figure and gold ornament retained; no claim of shared canon.",
+      "sha256": "63f9872327ced79549f221cbb4bdee75d09037e0aa61a908560fb8cba77a6a91",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-emerald-relic/title-image.jpg",
+      "role": "Final cover confirms original Anubis identity and black/gold clothing, subordinate appearance reference",
+      "notes": "Actual pixels inspected. Cover-only two-jaw reptilian relic not applied to source narrative depiction.",
+      "sha256": "d1b3ad1cc321f6124fdb7f4c3806618a3fc7b43703b9b6e91990b42e9b99919d",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+      "role": "Primary broad Group of Seven oil, subdued warm lamplight/cool violet shade and coarse linen, no setting transfer",
+      "notes": "Actual pixels inspected; bedding and coarse shawl material support, no architecture/furniture transferred.",
+      "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
+      "role": "Source-consistent stone lower jaw/green teeth acknowledged for narrative state; oil palette only",
+      "notes": "Actual pixels inspected. Object omitted from sheets rather than silently blending cover-only and narrative variants.",
+      "sha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+      "role": "Grey dawn violet palette and directional oil strokes only",
+      "notes": "Actual pixels inspected; no locations on character pages.",
+      "sha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+      "inspected": true
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "taremet",
+      "name": "Taremet",
+      "sourceIdentityId": "taremet",
+      "role": "Twenty-two-year-old dying royal daughter and focal decision-maker",
+      "selectionEvidence": [
+        {
+          "quote": "At twenty-two she had commanded hunting parties",
+          "line": 15,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Can you stand?",
+          "line": 163,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "No.",
+          "line": 69,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Her sleeping dress had a clasp at the back",
+          "line": 293,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman,22; weak, painful terminal illness; swollen heel; cannot stand.",
+        "lifeStage": "Twenty-two explicitly.",
+        "proportions": "Ordinary young adult, visibly weak, wrists sag under relic weight, no diagnosis or severe emaciation specified.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, wool shawl, linen sleeping dress.",
+        "clothing": "Loose linen sleeping dress fastened at back of neck; wool shawl with fringe.",
+        "equipment": "Cushions/litter/bed as needed for support in prose; no weapon or regalia.",
+        "scale": "Ordinary young adult human.",
+        "movement": "Supported seated/reclining only; small deliberate hand movements and difficulty holding head.",
+        "distinctiveFeatures": "Dignified young adult with agency and fear, no magical personal effects."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only appearance: warm medium-brown skin, dark brown almond eyes, long straight black hair loose, oval face, slightly hollow tired cheeks; slender but no graphic wasting. Similar family brow/nose to Khaseb.",
+        "Muted off-white long linen sleeping dress, small plain rear-neck clasp; muted reddish-brown fringed wool shawl based on bedchamber painting. Isolated supported seated and reclining studies with minimal small linen cushions treated as bodily support equipment, no bed or room."
+      ],
+      "states": [
+        {
+          "label": "At the gates",
+          "description": "Supported sitting, shawl wrapped, pained but resolved."
+        },
+        {
+          "label": "Waiting",
+          "description": "Reclining quietly, eyes open, no corpse or standing posture."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-emerald-relic:taremet",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-57be4684-907c-4fca-8024-456ec69fbd46.png",
+          "role": "Original external Anubis identity: erect black jackal ears, long muzzle, black/gold striped headdress and gold ornaments; not photoreal rendering or cover-only relic",
+          "notes": "Actual pixels inspected; original recovered by exact filename. Nonhuman black jackal-headed masculine figure and gold ornament retained; no claim of shared canon.",
+          "sha256": "63f9872327ced79549f221cbb4bdee75d09037e0aa61a908560fb8cba77a6a91",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/title-image.jpg",
+          "role": "Final cover confirms original Anubis identity and black/gold clothing, subordinate appearance reference",
+          "notes": "Actual pixels inspected. Cover-only two-jaw reptilian relic not applied to source narrative depiction.",
+          "sha256": "d1b3ad1cc321f6124fdb7f4c3806618a3fc7b43703b9b6e91990b42e9b99919d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+          "role": "Primary broad Group of Seven oil, subdued warm lamplight/cool violet shade and coarse linen, no setting transfer",
+          "notes": "Actual pixels inspected; bedding and coarse shawl material support, no architecture/furniture transferred.",
+          "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
+          "role": "Source-consistent stone lower jaw/green teeth acknowledged for narrative state; oil palette only",
+          "notes": "Actual pixels inspected. Object omitted from sheets rather than silently blending cover-only and narrative variants.",
+          "sha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+          "role": "Grey dawn violet palette and directional oil strokes only",
+          "notes": "Actual pixels inspected; no locations on character pages.",
+          "sha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-emerald-relic/art/characters/taremet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:53:13.316412+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. Create one landscape1536x1024 character-only reference folio on LIGHT warm ivory. Readable exact heading \"Taremet\" and subtitle \"A Bargain with Anubis\". One identity throughout, no other people, room, bed, floor/contact shadows, scenery or swatches.\nSubject: Taremet, a 22-YEAR-OLD grown human woman, seriously ill and UNABLE TO STAND. Warm medium-brown skin, dark brown eyes, long straight black hair loose, oval face, subtly hollow tired cheeks, slender normal young adult anatomy. Retain dignity and deliberate resolve, fatigue without horror, wounds, corpse state or extreme wasting. Absolutely no standing/walking pose.\nShe wears a loose modest long OFF-WHITE LINEN SLEEPING DRESS with plain small clasp at BACK OF NECK, and a muted reddish-brown FRINGED WOOL SHAWL. No jewelry, crown, armor, makeup glamour or magical light.\nLayout adapted to weak body: LEFT large COMPLETE supported seated/reclined threequarter study, legs together to one side, one bare foot lightly visible below hem, shawl pulled round shoulders, head inclined slightly. Just TWO SMALL PLAIN LINEN CUSHIONS beneath back/hip as personal support, no bed/frame/furniture/floor. RIGHT LOWER a complete quiet SIDE RECLINING study of same woman, limbs/feet intact, head supported by small linen cushion, no shawl covering face; caption \"Waiting\". UPPER RIGHT one expressive close portrait, pained and resolved, caption \"At the gates\". A small BACK-OF-NECK detail showing black hair lifted aside and simple garment clasp, no detached anatomy horror. Keep generous IVORY GUTTERS and margins, studies cannot touch.\nSTYLE: Group of Seven sculpted OPAQUE OIL matching attached interior oil and approved impasto sheet. Broad connected masses, wide decisive directional bristle strokes, selective thick knife slabs describing shapes. Face must be equally materially painted: a few large joined cheek/forehead planes, no photographic/smooth skin, no glossy eyes, no tiny even mosaic dabs. Warm umber/muted copper skin with rich violet shadows. Wool coarse matte strokes, linen angular thick folds, black hair in broad dark masses. Second reference style ONLY; do not copy its face, armor, red cloak, composition, environment or swatches.\nLIGHTING: weak LAMPLIGHT before dawn, MOST figure and dress in DARK muted violet/umber shadow; off-white linen reads subdued GREY-VIOLET except small dull amber planes. No broad daytime exposure, bright white dress or studio fill. A tiny cool grey dawn edge optional, no glowing aura. Page stays light ivory. Body and expression fully readable with low-key value grouping.\nNo text besides exact name/story title and two short captions. No dead locust, skull, relic, deity, father or architecture. Preserve one recognizable living adult woman and feasible nonstanding poses.",
+            "references": [
+              {
+                "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+                "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+                "inspected": true,
+                "role": "Inspected primary Group of Seven oil/linen and lamplight palette, no setting transfer"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Inspected approved sculpted impasto rendering only; no subject/armor/palette/scenery donation"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9f2ce358-f7b8-4864-aba8-b8d1b3b72d5a.png",
+            "returnedSha256": "6089db6f08bddc9d9ecce645e6a2db1d3da7a9da8007f86d3cfa5b01e09677ec",
+            "completedAt": "2026-09-24T10:54:48.064360+00:00",
+            "review": [
+              "Actual pixels: supported seated/reclining young adult identity, correct source clasp/clothes and anatomy, exact texts and clean ivory spacing pass. Lighting is too broadly bright/daylight across dress and face. Correct to low-value lamplight/shadow while preserving all composition and identity."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T10:54:49.071979+00:00",
+            "status": "PASS",
+            "prompt": "Correct ONLY LIGHT AND VALUE in this exact Taremet folio. Preserve all faces/identities, pose/anatomy/hands/feet, cushions, clothing, clasp, hair, layout and exact text. No new objects or environment.\nThe character is in weak LAMPLIGHT BEFORE DAWN. Current sheet looks bright daytime. Make MOST linen and skin a CONNECTED DARK GREY-VIOLET/UMBER shaded mass. Cream dress and cushions should read mostly muted mid-dark grey-violet, not near-white. Faces mostly dark umber-violet with a FEW small subdued amber planes on near cheek/nose/forehead. Preserve her brown skin. Large dark connected shadows, no bright fill, no luminous rim, no sun. Shawl remains muted dark brown-red; hair remains black.\nRetain strong readable adult identity in ALL views with BROAD OPAQUE OIL FACE PLANES: simplify the many little chips on cheeks into fewer broader directional masses, same tactile oil as clothes. No realistic skin.\nLIGHT IVORY PAGE stays unchanged. No dark background/vignette/contact shadows or floor. Reclining/seated22-year-old woman remains alive/weak, never standing or glamourized. Every exact existing label unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9f2ce358-f7b8-4864-aba8-b8d1b3b72d5a.png",
+                "sha256": "6089db6f08bddc9d9ecce645e6a2db1d3da7a9da8007f86d3cfa5b01e09677ec",
+                "inspected": true,
+                "role": "Inspected exact Taremet target; dim before-dawn lamplight and broad face paint correction only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-48e6f1b0-6c7a-490c-8f99-8e45363c369f.png",
+            "returnedSha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+            "completedAt": "2026-09-24T11:01:58.067269+00:00",
+            "review": [
+              "Corrected actual pixels inspected before interruption and resumed from saved file without repeat generation: supported seated/reclining22-year-old Taremet, consistent adult face/long black hair/source dress clasp and fringed shawl.",
+              "Living weak nonstanding body with full feet/hands and plausible supported poses; cushions are personal support equipment, no bed/room/scenery or ground patch. Natural five-digit details and fully contained silhouettes.",
+              "Correction now gives mostly grey-violet/umber dress/cushions/skin with small muted amber planes, connected low-key lamplight; broad sculpted opaque oil shapes across face/clothing.",
+              "Exact name and story title, uncluttered ivory gutters, readable captions, no swatches or magical effects."
+            ]
+          }
+        ],
+        "prompt": "Correct ONLY LIGHT AND VALUE in this exact Taremet folio. Preserve all faces/identities, pose/anatomy/hands/feet, cushions, clothing, clasp, hair, layout and exact text. No new objects or environment.\nThe character is in weak LAMPLIGHT BEFORE DAWN. Current sheet looks bright daytime. Make MOST linen and skin a CONNECTED DARK GREY-VIOLET/UMBER shaded mass. Cream dress and cushions should read mostly muted mid-dark grey-violet, not near-white. Faces mostly dark umber-violet with a FEW small subdued amber planes on near cheek/nose/forehead. Preserve her brown skin. Large dark connected shadows, no bright fill, no luminous rim, no sun. Shawl remains muted dark brown-red; hair remains black.\nRetain strong readable adult identity in ALL views with BROAD OPAQUE OIL FACE PLANES: simplify the many little chips on cheeks into fewer broader directional masses, same tactile oil as clothes. No realistic skin.\nLIGHT IVORY PAGE stays unchanged. No dark background/vignette/contact shadows or floor. Reclining/seated22-year-old woman remains alive/weak, never standing or glamourized. Every exact existing label unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9f2ce358-f7b8-4864-aba8-b8d1b3b72d5a.png",
+            "sha256": "6089db6f08bddc9d9ecce645e6a2db1d3da7a9da8007f86d3cfa5b01e09677ec",
+            "inspected": true,
+            "role": "Inspected exact Taremet target; dim before-dawn lamplight and broad face paint correction only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:01:58.067269+00:00",
+        "sourceSha256": "9868c45c435b490f8a91b92f8b7109beb517c7cc60835bf1b7fd42e64cd8b70b",
+        "outputSha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9f2ce358-f7b8-4864-aba8-b8d1b3b72d5a.png",
+            "sha256": "6089db6f08bddc9d9ecce645e6a2db1d3da7a9da8007f86d3cfa5b01e09677ec",
+            "inspected": true,
+            "role": "Inspected exact Taremet target; dim before-dawn lamplight and broad face paint correction only"
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels inspected before interruption and resumed from saved file without repeat generation: supported seated/reclining22-year-old Taremet, consistent adult face/long black hair/source dress clasp and fringed shawl.",
+          "Living weak nonstanding body with full feet/hands and plausible supported poses; cushions are personal support equipment, no bed/room/scenery or ground patch. Natural five-digit details and fully contained silhouettes.",
+          "Correction now gives mostly grey-violet/umber dress/cushions/skin with small muted amber planes, connected low-key lamplight; broad sculpted opaque oil shapes across face/clothing.",
+          "Exact name and story title, uncluttered ivory gutters, readable captions, no swatches or magical effects."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "32a4735bc4379d08cbc71cce13c87846f62cfe6424f28345afeacf27dc43d0d5"
+      },
+      "outputSha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da"
+    },
+    {
+      "id": "anubis",
+      "name": "Anubis",
+      "sourceIdentityId": "anubis",
+      "role": "Living funerary god whose power is bound in the stolen relic",
+      "selectionEvidence": [
+        {
+          "quote": "Gold lay across his shoulders.",
+          "line": 29,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "His jackal ears stood erect, and his black muzzle",
+          "line": 29,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "There were grey hairs under his jaw.",
+          "line": 51,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "He rose and went along the wall",
+          "line": 151,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Jackal-headed living god",
+      "storyAppearance": {
+        "anatomy": "Tall living masculine jackal-headed being, erect ears, black muzzle; breathing chest, hands with fingers, feet dusty.",
+        "lifeStage": "Unspecified supernatural age; grey hairs beneath jaw, not youthful dog.",
+        "proportions": "Tall bipedal body with animal head; source-compatible original masculine torso and long erect ears.",
+        "markings": "Grey hairs under jaw.",
+        "materials": "Black fur/skin, heavy gold ornaments.",
+        "clothing": "Gold at shoulders/collar, ornaments; compatible original black-gold Egyptian headdress and wraps.",
+        "equipment": "Relic recoverer; whole black stone jaw with green teeth/gold fractures in narrative, cover alternate separate.",
+        "scale": "Tall compared with adult Taremet; no giant height claimed.",
+        "movement": "Walks, crouches stiffly, breathes, waits and receives without aggression.",
+        "distinctiveFeatures": "Living power source, not a statue, mask-wearing human or undead; no additional abilities/weapon."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Retain original black jackal head, gold eyes, striped black-gold headdress/collar and ornaments; simplify ornament into painted masses. Tall lean masculine biped with dark skin/fur and five-digit hands, normal flat humanlike feet, no invented tail or wings.",
+        "Use empty-handed standing front/rear and close jackal profile with visible grey underjaw hair. Omit relic to avoid conflating cover-only alternate and narrative object. No staff, extra weapon or green energy."
+      ],
+      "states": [
+        {
+          "label": "Waiting",
+          "description": "Restrained patient face with grey underjaw."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-emerald-relic:anubis",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-57be4684-907c-4fca-8024-456ec69fbd46.png",
+          "role": "Original external Anubis identity: erect black jackal ears, long muzzle, black/gold striped headdress and gold ornaments; not photoreal rendering or cover-only relic",
+          "notes": "Actual pixels inspected; original recovered by exact filename. Nonhuman black jackal-headed masculine figure and gold ornament retained; no claim of shared canon.",
+          "sha256": "63f9872327ced79549f221cbb4bdee75d09037e0aa61a908560fb8cba77a6a91",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/title-image.jpg",
+          "role": "Final cover confirms original Anubis identity and black/gold clothing, subordinate appearance reference",
+          "notes": "Actual pixels inspected. Cover-only two-jaw reptilian relic not applied to source narrative depiction.",
+          "sha256": "d1b3ad1cc321f6124fdb7f4c3806618a3fc7b43703b9b6e91990b42e9b99919d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+          "role": "Primary broad Group of Seven oil, subdued warm lamplight/cool violet shade and coarse linen, no setting transfer",
+          "notes": "Actual pixels inspected; bedding and coarse shawl material support, no architecture/furniture transferred.",
+          "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
+          "role": "Source-consistent stone lower jaw/green teeth acknowledged for narrative state; oil palette only",
+          "notes": "Actual pixels inspected. Object omitted from sheets rather than silently blending cover-only and narrative variants.",
+          "sha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+          "role": "Grey dawn violet palette and directional oil strokes only",
+          "notes": "Actual pixels inspected; no locations on character pages.",
+          "sha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-emerald-relic/art/characters/anubis.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:01:59.077187+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. ONE landscape1536x1024 CHARACTER REFERENCE FOLIO on LIGHT warm IVORY. One identity. Exact heading \"Anubis\" and subtitle \"A Bargain with Anubis\". No location, scenery, floor/contact patch, paint swatches, vignette or other character.\nAnubis is a LIVING funerary god with a black JACKAL HEAD and tall lean masculine BIPEDAL BODY, not a man in mask or statue. Preserve identity from original first reference: long black canine muzzle, two erect tall triangular JACKAL EARS, black fur, gold-brown eyes, black-and-gold striped Egyptian cloth headdress with modest gold forehead ornament, heavy broad GOLD shoulder COLLAR and gold wrist ornaments. Two arms/two legs; five fingers per hand; upright digitigrade-free humanlike body and broad bare dark feet. Dust on feet. No tail, wings, extra limbs, staff or weapons. Add source grey hairs UNDER JAW discreetly. Natural stern patient face, no snarl, cartoon smile or laser eyes.\nFull front-threequarter figure LEFT and smaller complete REAR THREEQUARTER CENTER, no overlap and generous ivory gutter around silhouettes. Fullbody outfit interpreted from original: near-black long pleated linen kilt/wrap to upper ankles, gold sash/collar, black-gold headdress hangs beside shoulders; no heavy plate armor. Show empty relaxed hands for clear anatomy. RIGHT large side/profile head-and-shoulders study with visible grey underjaw hairs caption \"Waiting\". Below this one close study of a relaxed five-digit hand and heavy gold wrist ornament. No skull/relic or green energy: original's alternate ornate reptilian relic is cover-only and deliberately excluded here.\nPAINT: Supplied first original image is ONLY anatomy, attire and identity reference, NEVER photographic gloss or elaborate tiny decoration. Second image is selected Taremet sheet, PRIMARY OIL/IVORY/DIM LIGHT anchor. Third is Group of Seven story oil. Reinterpret Anubis in broad CONNECTED opaque oil masses with wide directional bristle marks and sculptural knife planes. Coat/fur, black skin, face and metal ALL hand-painted, black fur in broad rhythmic masses, gold muted ochre slabs. No smoothly rendered snout, tiny uniform mosaic, digital CGI/photography/anime, gold jewelry microlettering. Quiet connected shadows and selected ridges.\nLIGHT: weak night LAMPLIGHT before dawn. MOST figure dark black-violet and umber; restrained warm ochre planes on ONE cheek/ear/collar edge, cool dim grey opposite planes. Gold mostly subdued dark ochre not mirror yellow; no brilliant rims or bright daylight/studio fill. LIGHT IVORY page stays clean. Eye gold is natural color, not emitters. All ears/toes fully in frame. Readable exact name and story title, only additional caption \"Waiting\".",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-57be4684-907c-4fca-8024-456ec69fbd46.png",
+                "sha256": "63f9872327ced79549f221cbb4bdee75d09037e0aa61a908560fb8cba77a6a91",
+                "inspected": true,
+                "role": "Inspected original Anubis jackal identity/black-gold headdress/ornament only; no relic or photoreal style"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-48e6f1b0-6c7a-490c-8f99-8e45363c369f.png",
+                "sha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+                "inspected": true,
+                "role": "Inspected selected Taremet folio: primary low-key oil/light/ivory format, no female face donation"
+              },
+              {
+                "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+                "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+                "inspected": true,
+                "role": "Inspected story Group of Seven oil and lamplight shadow palette only"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9396869b-eeb7-4149-ad61-3c09b5761d14.png",
+            "returnedSha256": "81a5d675414f715b0fc84c952c32257540bbb75ac3db6cb57fc38fd5c10ff7af",
+            "completedAt": "2026-09-24T11:04:16.790333+00:00",
+            "review": [
+              "Source-compatible black jackal identity, striped headdress, collar, anatomy and source grey underjaw hair pass. Main and large portrait ear tips touch/clip upper edge; small floor shadows under feet violate clean ivory; muzzle paint too fine. Uniform shrink/reposition and broadening required."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:04:17.751551+00:00",
+            "status": "PASS",
+            "prompt": "Edit this exact Anubis sheet with three precise corrections, preserve identity, all text and content.\n1 ALL EAR TIPS must be complete with generous IVORY margin. Uniformly REDUCE the entire left front full-body study by about8percent, keep feet near same height so ears move lower and whole body still natural. Uniformly reduce large upper-right profile bust by about12percent and move it down enough that BOTH erect ear tips are fully inside page with at least35pixels ivory above. Keep same head proportions and both long ears; do NOT shorten or bend ears. Rear view and hand detail unchanged. No study overlaps.\n2 ERASE every tiny beige ground/contact-shadow patch under front and rear feet; outside silhouettes must be clean ivory. Bare feet themselves intact.\n3 Profile muzzle currently too finely rendered: group nose/cheek/forehead into broader CONNECTED opaque black-violet/umber OIL planes, a few long bristle strokes and knife ridges, not smooth digital fur/many tiny flecks. Keep long black jackal muzzle, two ears, same gold eyes, visible grey underjaw hairs, gold attire. Maintain dim night lamplight and mostly dark values, no brighter jewelry.\nNo new objects/rel ic/environment/palette. Exact Anubis and A Bargain with Anubis text and Waiting caption. Keep anatomy and five-digit hands/feet unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9396869b-eeb7-4149-ad61-3c09b5761d14.png",
+                "sha256": "81a5d675414f715b0fc84c952c32257540bbb75ac3db6cb57fc38fd5c10ff7af",
+                "inspected": true,
+                "role": "Inspected exact Anubis correction target: unclip ears, remove foot ground, broaden painted muzzle"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-01e6c59d-6541-4c0a-9789-2ad72f5d047d.png",
+            "returnedSha256": "b874311332b7105d3a9c0215396b8ccb3efbb0438e02ccb012c98432db8e3c83",
+            "completedAt": "2026-09-24T11:07:04.702997+00:00",
+            "review": [
+              "Actual corrected pixels inspected: all six depicted ears fully inside ivory margins, whole front/rear silhouettes and hand detail separate, all ground patches removed.",
+              "Original black jackal muzzle/erect ears/gold-brown eyes/black-gold headdress and ornaments retained in source-compatible living form, grey underjaw hairs visible; no invented wings, tail, staff or powers.",
+              "Two arms/two legs and five-digit hands/feet with coherent biped proportions, recognizable same identity across front/rear/profile. Relic omitted to avoid cover-only/narrative design conflation.",
+              "Dark connected violet-black/umber body and fur, broad directional opaque oil across face, muted gold slabs; restrained lamplight, exact name/title/Waiting caption and no swatches/setting."
+            ]
+          }
+        ],
+        "prompt": "Edit this exact Anubis sheet with three precise corrections, preserve identity, all text and content.\n1 ALL EAR TIPS must be complete with generous IVORY margin. Uniformly REDUCE the entire left front full-body study by about8percent, keep feet near same height so ears move lower and whole body still natural. Uniformly reduce large upper-right profile bust by about12percent and move it down enough that BOTH erect ear tips are fully inside page with at least35pixels ivory above. Keep same head proportions and both long ears; do NOT shorten or bend ears. Rear view and hand detail unchanged. No study overlaps.\n2 ERASE every tiny beige ground/contact-shadow patch under front and rear feet; outside silhouettes must be clean ivory. Bare feet themselves intact.\n3 Profile muzzle currently too finely rendered: group nose/cheek/forehead into broader CONNECTED opaque black-violet/umber OIL planes, a few long bristle strokes and knife ridges, not smooth digital fur/many tiny flecks. Keep long black jackal muzzle, two ears, same gold eyes, visible grey underjaw hairs, gold attire. Maintain dim night lamplight and mostly dark values, no brighter jewelry.\nNo new objects/rel ic/environment/palette. Exact Anubis and A Bargain with Anubis text and Waiting caption. Keep anatomy and five-digit hands/feet unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9396869b-eeb7-4149-ad61-3c09b5761d14.png",
+            "sha256": "81a5d675414f715b0fc84c952c32257540bbb75ac3db6cb57fc38fd5c10ff7af",
+            "inspected": true,
+            "role": "Inspected exact Anubis correction target: unclip ears, remove foot ground, broaden painted muzzle"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:07:04.702997+00:00",
+        "sourceSha256": "9868c45c435b490f8a91b92f8b7109beb517c7cc60835bf1b7fd42e64cd8b70b",
+        "outputSha256": "b874311332b7105d3a9c0215396b8ccb3efbb0438e02ccb012c98432db8e3c83",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-9396869b-eeb7-4149-ad61-3c09b5761d14.png",
+            "sha256": "81a5d675414f715b0fc84c952c32257540bbb75ac3db6cb57fc38fd5c10ff7af",
+            "inspected": true,
+            "role": "Inspected exact Anubis correction target: unclip ears, remove foot ground, broaden painted muzzle"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: all six depicted ears fully inside ivory margins, whole front/rear silhouettes and hand detail separate, all ground patches removed.",
+          "Original black jackal muzzle/erect ears/gold-brown eyes/black-gold headdress and ornaments retained in source-compatible living form, grey underjaw hairs visible; no invented wings, tail, staff or powers.",
+          "Two arms/two legs and five-digit hands/feet with coherent biped proportions, recognizable same identity across front/rear/profile. Relic omitted to avoid cover-only/narrative design conflation.",
+          "Dark connected violet-black/umber body and fur, broad directional opaque oil across face, muted gold slabs; restrained lamplight, exact name/title/Waiting caption and no swatches/setting."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "09e2a8792997396d9e7eda59ef7278a1adcb77715069ca9ab15d25c7c6958db7"
+      },
+      "outputSha256": "b874311332b7105d3a9c0215396b8ccb3efbb0438e02ccb012c98432db8e3c83"
+    },
+    {
+      "id": "khaseb",
+      "name": "Pharaoh Khaseb",
+      "sourceIdentityId": "khaseb",
+      "role": "Royal father who stole the relic to keep his daughter alive",
+      "selectionEvidence": [
+        {
+          "quote": "Pharaoh Khaseb was awake and standing in the doorway without his sandals.",
+          "line": 153,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "the old linen of his sleeping robe",
+          "line": 167,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "He glanced at the healing cut.",
+          "line": 201,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "a strand of her hair caught in his beard",
+          "line": 385,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human father with beard, deep hollows beside mouth when green light reveals them.",
+        "lifeStage": "Middle-aged father of22-year-old; exact age unspecified.",
+        "proportions": "Ordinary adult man; capable of lifting/supporting daughter.",
+        "markings": "Healing forearm cut from shrine hinge; side unstated.",
+        "materials": "Skin, beard, old linen sleeping robe.",
+        "clothing": "Sleeping robe; barefoot without sandals, crown left elsewhere.",
+        "equipment": "Knucklebones game, no need for weapon/regalia.",
+        "scale": "Ordinary adult man.",
+        "movement": "Tender support and touch, fearful hope, anger and grief.",
+        "distinctiveFeatures": "Forearm hinge cut, beard, unadorned intimate bedside state."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art-only late40s/early50s father: medium-brown skin, short close black hair, short black beard with scattered grey, strong arched brows, long oval/square face with family resemblance to Taremet, sturdy build.",
+        "Old oatmeal linen wrap sleeping robe with sleeves ending above wrists, modest length to calves, barefoot. Small healing cut on anatomical RIGHT forearm selected consistently because source doesn't specify side; no blood, crown, scepter or armor."
+      ],
+      "states": [
+        {
+          "label": "Hope",
+          "description": "A tentative father's warm expression."
+        },
+        {
+          "label": "Do it again",
+          "description": "Contained grief and desperation, no theatrical villain."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-emerald-relic:khaseb",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-57be4684-907c-4fca-8024-456ec69fbd46.png",
+          "role": "Original external Anubis identity: erect black jackal ears, long muzzle, black/gold striped headdress and gold ornaments; not photoreal rendering or cover-only relic",
+          "notes": "Actual pixels inspected; original recovered by exact filename. Nonhuman black jackal-headed masculine figure and gold ornament retained; no claim of shared canon.",
+          "sha256": "63f9872327ced79549f221cbb4bdee75d09037e0aa61a908560fb8cba77a6a91",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/title-image.jpg",
+          "role": "Final cover confirms original Anubis identity and black/gold clothing, subordinate appearance reference",
+          "notes": "Actual pixels inspected. Cover-only two-jaw reptilian relic not applied to source narrative depiction.",
+          "sha256": "d1b3ad1cc321f6124fdb7f4c3806618a3fc7b43703b9b6e91990b42e9b99919d",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+          "role": "Primary broad Group of Seven oil, subdued warm lamplight/cool violet shade and coarse linen, no setting transfer",
+          "notes": "Actual pixels inspected; bedding and coarse shawl material support, no architecture/furniture transferred.",
+          "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
+          "role": "Source-consistent stone lower jaw/green teeth acknowledged for narrative state; oil palette only",
+          "notes": "Actual pixels inspected. Object omitted from sheets rather than silently blending cover-only and narrative variants.",
+          "sha256": "ca7adc32f784ae6c850660696d52ad4820d3b18738907abf5a16d1fa441eea49",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-emerald-relic/art/landscapes/04-the-first-grey-of-morning.png",
+          "role": "Grey dawn violet palette and directional oil strokes only",
+          "notes": "Actual pixels inspected; no locations on character pages.",
+          "sha256": "8af1609653840498172d979a3f89b10a2d0db529f42deaea907d4067cf0553dc",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-emerald-relic/art/characters/khaseb.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:07:05.664043+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER-ONLY reference sheet on light warm ivory. Exact heading \"Pharaoh Khaseb\" and title \"A Bargain with Anubis\". One adult human man across views. No scenery/floor/contact shadows, swatches, table, bed, daughter, god or relic.\nKhaseb is a grieving loving FATHER, middle-aged about50, medium-brown skin, short close black hair, short black beard scattered grey, strong arched brows, dark brown eyes, long oval/square face and sturdy normal build. Show human intimacy, exhaustion and hope, not a villain/caricature. Subtle family resemblance to Taremet's brow/nose in first reference, never copy her female face. Heavy hollows beside mouth and under eyes; natural mature eyes, no glamour.\nHe wears an OLD OATMEAL LINEN WRAP SLEEPING ROBE, loose and modest closed front, hem mid-calf and sleeves rolled just below elbows. Barefoot; no sandals, crown, headdress, scepter, jewelry or armor. A small simple HEALING CUT on his anatomical RIGHT OUTER FOREARM; side selected for art, keep consistent between views, non-graphic brown healing line only, no open wound/blood.\nLayout: complete front-threequarter fullbody left, tired shoulders with arms relaxed and hands fully visible, right forearm viewer LEFT carries small cut. Smaller complete rear-threequarter middle, right forearm on viewer RIGHT, keep exact same man and robe; rear angle may hide scar but NEVER place it on left arm. Full silhouettes have generous ivory gaps and feet well inside frame. Upper-right two spaced head-and-shoulders studies captioned \"Hope\" (hesitant tender warmth) and \"Do it again\" (grieving desperate plea, mouth not wide screaming). Below small isolated ordinary set of four cream KNUCKLEBONES gaming pieces, no table. No other accessories.\nSTYLE and LIGHT: first reference selected Taremet PRIMARY dark lamplight, oil and ivory format. Second reference Group of Seven oil interior for paint handling/linen, no room. Build ALL forms with broad CONNECTED opaque oil planes, strong directional bristle strokes, selective sculptural impasto/knife edges, quiet joined shadows. Face/hands equally painted, NOT photographic skin or even tiny mosaic chips. Cloth heavy broad angular folds, beard/hair dark masses with a few broad gray strokes.\nWeak night oil-lamp illumination before dawn: MOST skin and oatmeal robe in low-value violet-umber shadow; linen largely muted grey-violet, not white. Small restrained dull amber planes on one cheek/sleeve only, no bright daylight/studio fill or orange outlines. Ivory page stays LIGHT. Every label readable and body proportion consistent.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-48e6f1b0-6c7a-490c-8f99-8e45363c369f.png",
+                "sha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+                "inspected": true,
+                "role": "Inspected selected Taremet sheet for family brow/nose only plus dim oil lighting/ivory format, no copied female identity"
+              },
+              {
+                "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+                "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+                "inspected": true,
+                "role": "Inspected Group of Seven oil, night lamplight/cool shade and coarse linen handling only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-b78ab48f-2751-4ef8-b31e-2a8ddfc45116.png",
+            "returnedSha256": "0cd03ebd07eb97397406c239737f046e7558d0b36295b4234349cc12b44fee4a",
+            "completedAt": "2026-09-24T11:09:39.776320+00:00",
+            "review": [
+              "Actual pixels inspected: consistent mature brown-skinned bearded father with source-compatible tired/hopeful/grieving expressions, normal complete body and bare feet.",
+              "Old linen sleeping robe, no crown or sandals; small healing cut on anatomical right forearm (viewer-left front), no conflicting left scar in rear. Four ordinary knucklebones, no invented magic or regalia.",
+              "Low-key grey-violet/umber robe and warm brown shadowed face, restricted amber planes; broad opaque directional sculpted oil on skin/beard/linen, no gloss.",
+              "Exact readable Pharaoh Khaseb/story title/captions, clear ivory space around full bodies and portraits; no locations, ground paint patches or swatches."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. One landscape1536x1024 CHARACTER-ONLY reference sheet on light warm ivory. Exact heading \"Pharaoh Khaseb\" and title \"A Bargain with Anubis\". One adult human man across views. No scenery/floor/contact shadows, swatches, table, bed, daughter, god or relic.\nKhaseb is a grieving loving FATHER, middle-aged about50, medium-brown skin, short close black hair, short black beard scattered grey, strong arched brows, dark brown eyes, long oval/square face and sturdy normal build. Show human intimacy, exhaustion and hope, not a villain/caricature. Subtle family resemblance to Taremet's brow/nose in first reference, never copy her female face. Heavy hollows beside mouth and under eyes; natural mature eyes, no glamour.\nHe wears an OLD OATMEAL LINEN WRAP SLEEPING ROBE, loose and modest closed front, hem mid-calf and sleeves rolled just below elbows. Barefoot; no sandals, crown, headdress, scepter, jewelry or armor. A small simple HEALING CUT on his anatomical RIGHT OUTER FOREARM; side selected for art, keep consistent between views, non-graphic brown healing line only, no open wound/blood.\nLayout: complete front-threequarter fullbody left, tired shoulders with arms relaxed and hands fully visible, right forearm viewer LEFT carries small cut. Smaller complete rear-threequarter middle, right forearm on viewer RIGHT, keep exact same man and robe; rear angle may hide scar but NEVER place it on left arm. Full silhouettes have generous ivory gaps and feet well inside frame. Upper-right two spaced head-and-shoulders studies captioned \"Hope\" (hesitant tender warmth) and \"Do it again\" (grieving desperate plea, mouth not wide screaming). Below small isolated ordinary set of four cream KNUCKLEBONES gaming pieces, no table. No other accessories.\nSTYLE and LIGHT: first reference selected Taremet PRIMARY dark lamplight, oil and ivory format. Second reference Group of Seven oil interior for paint handling/linen, no room. Build ALL forms with broad CONNECTED opaque oil planes, strong directional bristle strokes, selective sculptural impasto/knife edges, quiet joined shadows. Face/hands equally painted, NOT photographic skin or even tiny mosaic chips. Cloth heavy broad angular folds, beard/hair dark masses with a few broad gray strokes.\nWeak night oil-lamp illumination before dawn: MOST skin and oatmeal robe in low-value violet-umber shadow; linen largely muted grey-violet, not white. Small restrained dull amber planes on one cheek/sleeve only, no bright daylight/studio fill or orange outlines. Ivory page stays LIGHT. Every label readable and body proportion consistent.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-48e6f1b0-6c7a-490c-8f99-8e45363c369f.png",
+            "sha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+            "inspected": true,
+            "role": "Inspected selected Taremet sheet for family brow/nose only plus dim oil lighting/ivory format, no copied female identity"
+          },
+          {
+            "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+            "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil, night lamplight/cool shade and coarse linen handling only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:09:39.776320+00:00",
+        "sourceSha256": "9868c45c435b490f8a91b92f8b7109beb517c7cc60835bf1b7fd42e64cd8b70b",
+        "outputSha256": "0cd03ebd07eb97397406c239737f046e7558d0b36295b4234349cc12b44fee4a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-48e6f1b0-6c7a-490c-8f99-8e45363c369f.png",
+            "sha256": "87214ccd0cd9b565f4b879d2d0961432ca2a8a4bf6eaca465663af30d94a75da",
+            "inspected": true,
+            "role": "Inspected selected Taremet sheet for family brow/nose only plus dim oil lighting/ivory format, no copied female identity"
+          },
+          {
+            "path": "stories/the-emerald-relic/art/interiors/01-taremets-bedchamber.png",
+            "sha256": "6225d74c5c1f0ccfcf773f54536ea00dff7f5b2ed8ff778de0b98508c93de0f3",
+            "inspected": true,
+            "role": "Inspected Group of Seven oil, night lamplight/cool shade and coarse linen handling only"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent mature brown-skinned bearded father with source-compatible tired/hopeful/grieving expressions, normal complete body and bare feet.",
+          "Old linen sleeping robe, no crown or sandals; small healing cut on anatomical right forearm (viewer-left front), no conflicting left scar in rear. Four ordinary knucklebones, no invented magic or regalia.",
+          "Low-key grey-violet/umber robe and warm brown shadowed face, restricted amber planes; broad opaque directional sculpted oil on skin/beard/linen, no gloss.",
+          "Exact readable Pharaoh Khaseb/story title/captions, clear ivory space around full bodies and portraits; no locations, ground paint patches or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "f5e977ad4f07e0e2152d78c580ea69145333fa32b4155ee5070a66797623c89b"
+      },
+      "outputSha256": "0cd03ebd07eb97397406c239737f046e7558d0b36295b4234349cc12b44fee4a"
+    }
+  ]
+}
