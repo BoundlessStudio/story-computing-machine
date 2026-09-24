@@ -4,6 +4,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from types import SimpleNamespace
 import unittest
 from unittest.mock import Mock, patch
 from urllib.error import URLError
@@ -128,10 +129,13 @@ class CdnBuildTests(unittest.TestCase):
 
 class FakeR2:
     def __init__(self):
+        self.meta = SimpleNamespace(endpoint_url='https://r2.example.com')
         self.objects = {}
         self.uploads = []
+        self.heads = []
 
     def head_object(self, *, Bucket, Key):
+        self.heads.append(Key)
         if Key not in self.objects:
             raise ClientError({'Error': {'Code': '404'}, 'ResponseMetadata': {'HTTPStatusCode': 404}}, 'HeadObject')
         return deepcopy(self.objects[Key])
@@ -161,8 +165,8 @@ class UploadTests(unittest.TestCase):
         with patch.object(publish_assets, 'verify_public') as public:
             first = publish_assets.publish(self.manifest, client, 'bucket')
             second = publish_assets.publish(self.manifest, client, 'bucket')
-        self.assertEqual(first, {'uploaded': 1, 'unchanged': 0, 'verified': 1})
-        self.assertEqual(second, {'uploaded': 0, 'unchanged': 1, 'verified': 1})
+        self.assertEqual(first, {'uploaded': 1, 'unchanged': 0, 'verified': 1, 'cached': 0})
+        self.assertEqual(second, {'uploaded': 0, 'unchanged': 1, 'verified': 1, 'cached': 0})
         self.assertEqual(len(client.uploads), 1)
         self.assertEqual(public.call_count, 2)
         self.assertIn('old/version.pdf', client.objects)
@@ -170,6 +174,123 @@ class UploadTests(unittest.TestCase):
         self.assertEqual(uploaded['ContentType'], 'application/pdf')
         self.assertEqual(uploaded['CacheControl'], 'public, max-age=31536000, immutable')
         self.assertTrue(uploaded['ContentDisposition'].startswith('attachment; filename="edition.pdf"'))
+
+    def seed_verification_cache(self):
+        client = FakeR2()
+        cache = self.root / 'cache' / 'verified.json'
+        with patch.object(publish_assets, 'verify_public'):
+            publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache, verify_all=True)
+        client.heads.clear()
+        client.uploads.clear()
+        return client, cache
+
+    def test_warm_cache_skips_r2_and_keeps_one_public_probe(self):
+        source = self.root / 'other.pdf'
+        source.write_bytes(PDF + b'% other content\n')
+        self.media.add(source, 'graphic-novels/other/edition.pdf')
+        self.media.write_manifest()
+        client, cache = self.seed_verification_cache()
+        before = cache.read_bytes()
+        with patch.object(publish_assets, 'verify_public') as public:
+            result = publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+        self.assertEqual(result, {'uploaded': 0, 'unchanged': 2, 'verified': 1, 'cached': 2})
+        self.assertFalse(client.heads)
+        self.assertFalse(client.uploads)
+        public.assert_called_once()
+        self.assertEqual(public.call_args.args[0], BASE)
+        self.assertIn(public.call_args.args[1], self.media.entries.values())
+        self.assertEqual(cache.read_bytes(), before)  # A probe must not extend expiry.
+
+    def test_incremental_manifest_checks_only_new_content(self):
+        client, cache = self.seed_verification_cache()
+        source = self.root / 'new.pdf'
+        source.write_bytes(PDF + b'% newly approved\n')
+        self.media.add(source, 'graphic-novels/new/edition.pdf')
+        self.media.write_manifest()
+        new_entry = self.media.entries['graphic-novels/new/edition.pdf']
+        with patch.object(publish_assets, 'verify_public') as public:
+            result = publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+        self.assertEqual(result, {'uploaded': 1, 'unchanged': 1, 'verified': 2, 'cached': 1})
+        self.assertEqual(client.uploads, [new_entry['key']])
+        self.assertEqual(set(client.heads), {new_entry['key']})
+        self.assertEqual(public.call_count, 2)
+        self.assertEqual(len(json.loads(cache.read_text())['objects']), 2)
+
+    def test_scope_changes_force_full_checks(self):
+        for field in ('endpoint', 'bucket', 'baseUrl'):
+            with self.subTest(field=field):
+                client, cache = self.seed_verification_cache()
+                data = json.loads(cache.read_text())
+                data['scope'][field] += '-other'
+                put_json(cache, data)
+                with patch.object(publish_assets, 'verify_public') as public:
+                    result = publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+                self.assertEqual(result['cached'], 0)
+                self.assertEqual(client.heads, [self.entry['key']])
+                public.assert_called_once()
+
+    def test_expired_future_and_malformed_records_are_rechecked(self):
+        mutations = [None, {}, {'verifiedAt': 'yesterday'},
+                     {'verifiedAt': 0}, {'verifiedAt': 10**20},
+                     {'size': 1}, {'headers': {}}, {'extra': True}]
+        for mutation in mutations:
+            with self.subTest(mutation=mutation):
+                client, cache = self.seed_verification_cache()
+                data = json.loads(cache.read_text())
+                record = data['objects'][self.entry['key']]
+                data['objects'][self.entry['key']] = record | mutation if mutation else mutation
+                put_json(cache, data)
+                with patch.object(publish_assets, 'verify_public'):
+                    result = publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+                self.assertEqual(result['cached'], 0)
+                self.assertEqual(client.heads, [self.entry['key']])
+
+    def test_cache_expiry_boundary_and_forced_audit(self):
+        for age, forced in [(publish_assets.VERIFICATION_MAX_AGE, False), (1, True)]:
+            with self.subTest(age=age, forced=forced):
+                client, cache = self.seed_verification_cache()
+                verified_at = json.loads(cache.read_text())['objects'][self.entry['key']]['verifiedAt']
+                with patch.object(publish_assets.time, 'time', return_value=verified_at + age), \
+                        patch.object(publish_assets, 'verify_public'):
+                    result = publish_assets.publish(self.manifest, client, 'bucket',
+                                                    verification_cache=cache, verify_all=forced)
+                self.assertEqual(result['cached'], 0)
+                self.assertEqual(client.heads, [self.entry['key']])
+                self.assertEqual(json.loads(cache.read_text())['objects'][self.entry['key']]['verifiedAt'],
+                                 verified_at + age)
+
+    def test_invalid_cache_is_a_safe_miss(self):
+        for content in ('{broken', '[]', '{}', '{"schemaVersion": 99}',
+                        '{"schemaVersion": 1, "objects": []}'):
+            with self.subTest(content=content):
+                client, cache = self.seed_verification_cache()
+                cache.write_text(content)
+                with patch.object(publish_assets, 'verify_public'):
+                    result = publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+                self.assertEqual(result['cached'], 0)
+                self.assertEqual(client.heads, [self.entry['key']])
+
+    def test_failed_probe_or_audit_never_updates_cache(self):
+        for forced in (False, True):
+            with self.subTest(forced=forced):
+                client, cache = self.seed_verification_cache()
+                before = cache.read_bytes()
+                with patch.object(publish_assets, 'verify_public', side_effect=ValueError('CDN unavailable')):
+                    with self.assertRaisesRegex(ValueError, 'CDN unavailable'):
+                        publish_assets.publish(self.manifest, client, 'bucket',
+                                               verification_cache=cache, verify_all=forced)
+                self.assertEqual(cache.read_bytes(), before)
+
+    def test_warm_cache_does_not_bypass_local_integrity_checks(self):
+        client, cache = self.seed_verification_cache()
+        before = cache.read_bytes()
+        (self.media.root / self.entry['path']).write_bytes(b'tampered')
+        with patch.object(publish_assets, 'verify_public') as public:
+            with self.assertRaisesRegex(ValueError, 'missing or changed'):
+                publish_assets.publish(self.manifest, client, 'bucket', verification_cache=cache)
+        self.assertFalse(client.heads)
+        public.assert_not_called()
+        self.assertEqual(cache.read_bytes(), before)
 
     def test_changed_bytes_get_a_new_url(self):
         old = self.media.url(self.entry['path'])
