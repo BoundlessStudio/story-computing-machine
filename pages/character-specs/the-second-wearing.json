@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-second-wearing",
+  "title": "The Second Wearing",
+  "source": "stories/the-second-wearing/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Lustre and Odelia drive the present contact negotiation; Pavia's directly reconstructed dialogue/choice and continued history are central to inheritance and relationship stakes.",
+  "excludedMinorCharacters": [],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover enamel design retained without visible touch flare. Lustre cannot see/move/compel/store Pavia memories; no eyes/face/body added.",
+    "Cover oval pendant versus rounder room painting: cover clearer identity used; source neither specifies shape nor color.",
+    "Neither human face appears in cover; appearances/costume are restrained art choices. No source-implied precise historical fashion date."
+  ],
+  "characters": [
+    {
+      "id": "lustre",
+      "name": "Lustre",
+      "role": "Living pendant and narrator",
+      "selectionEvidence": [
+        {
+          "quote": "Velvet presses my enamel face.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "The silver around my enamel develops first a peppering roughness",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "the chain is only chain",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "I cannot tug the chain.",
+          "explanation": "Finished source evidence"
+        }
+      ],
+      "form": "Living silver-and-enamel pendant; no humanoid body",
+      "storyAppearance": {
+        "anatomy": "Enamel face and silver raised setting; ordinary attached chain",
+        "lifeStage": "Boxed31years, full age unknown",
+        "proportions": "Jewelry scale, worn below collarbone",
+        "markings": "Peppered tarnish/coarse silver edge",
+        "materials": "Silver, enamel, metal chain/clasp",
+        "clothing": "None",
+        "equipment": "Chain non-agentic",
+        "scale": "Palm-sized cover art; oval about5cm chosen",
+        "movement": "Cannot move itself; wearer moves it",
+        "distinctiveFeatures": "Contact inner voice; no sight/power glow"
+      },
+      "explicitCanon": [
+        "No humanoid attributes/eyes/arms/face expression.",
+        "Cannot autonomously move, see, read minds or speak through chain/box.",
+        "Tarnished silver and enamel, intact clasp."
+      ],
+      "visualInterpretation": [
+        "Oval deep ultramarine enamel with symmetric fine silver floral-scroll pattern and ornate rim matching cover; ordinary silver chain/bail/clasp.",
+        "Reverse conservatively plain slightly convex tarnished silver, not opening locket or invented mechanism. Front/back/profile studies, no hands/scenes.",
+        "Art-only approximate5cm setting, labels only material/view not abilities diagram."
+      ],
+      "states": [
+        {
+          "name": "After storage",
+          "description": "Tarnished intact pendant, ordinary front/back/profile."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-second-wearing:lustre",
+        "links": [],
+        "evidence": "Local people; no universe connection inferred from jewelry."
+      },
+      "references": [
+        {
+          "path": "stories/the-second-wearing/title-image.jpg",
+          "role": "Lustre identity: oval blue enamel, ornate silver setting/chain",
+          "notes": "Source no sight or visible contact glow; remove cover contact flare and fingertip, preserve ordinary jewelry form.",
+          "inspected": true,
+          "sha256": "5de86dde07ea93f22d12db917b71120480833140ffd3e40b9b7d94e1cc01927b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+          "role": "Matte oil material treatment and soft room light",
+          "notes": "Painted scene has rounder pendant; cover's clearer oval identity retained; no box/table in character plates.",
+          "inspected": true,
+          "sha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+          "role": "Soft late afternoon window light; no room copied",
+          "inspected": true,
+          "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+          "role": "Muted winter-evening slate/cream/plum/gold palette for memory only",
+          "inspected": true,
+          "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Lustre"
+      },
+      "output": "stories/the-second-wearing/art/characters/lustre.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:32:19.198294+00:00",
+            "prompt": "1536x1024 landscape3:2 museum-style CHARACTER REFERENCE FOLIO on uninterrupted warm ivory. Exact large heading \"Lustre\", smaller subtitle \"The Second Wearing\". THIS CHARACTER IS A LIVING SILVER-AND-ENAMEL PENDANT. Its body remains jewelry. NO human/person/hand, face, eyes, mouth, arms, legs, creature form or emoticon. Sentience is never shown as invented anatomy, glow or magic effect.\nSecond reference is actual Lustre cover identity: vertically OVAL deep ULTRAMARINE ENAMEL face, ornate TARNISHED SILVER raised rim, symmetric silver filigree with central small floral crossing and paired elegant scrolls, small upper bail, ordinary oval-link silver chain with simple clasp. Retain oval proportions and decorative identity without photo-level microengraving. Silver edge has peppered rough tarnish, not mirror chrome. Enamel remains deepblue material, not glowing crystal. NO hand from cover, NO amber touch-flare. Pendant about5cm visually, no ruler/instrument or added scale object.\nThree useful views with wide ivory spacing: large frontal complete pendant with whole attached chain arranged in a loose loop ABOVE it; medium rear tilted view of same object with conservative PLAIN slightly convex tarnished SILVER BACK, no invented text or opening; a smaller edge/profile explaining thick raised setting and narrow blue face edge. All necklaces/chain ends remain fully inside frame. Text labels \"Front\", \"Reverse\", \"Profile\" only. The reverse is solid—not opening locket, not mechanism. No floating autonomous pose, just static reference arrangement on ivory with NO floor shadow or table.\nCANADIAN GROUP OF SEVEN inspired broad opaque MATTE OIL construction and sculpted impasto as approved image1: broad interlocking blue enamel masses, silver rendered by decisive gray/ivory/slate knife strokes, linked chain simplified confidently but physically coherent. Texture describes volumes, no smooth CGI photograph under filter. Image3 interior only supplies soft lateafternoon room light/material palette, NO room, box, velvet stage, furniture, locations, scene or swatches. Soft small neutralwarm reflected highlights and rich cool bluegray shade, no self-illumination. Character-only folio, NO HAND STUDIES.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved bold oil/ivory reference only, no human identity transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-second-wearing/title-image.jpg",
+                "role": "Lustre identity: oval blue enamel, ornate silver setting/chain",
+                "notes": "Source no sight or visible contact glow; remove cover contact flare and fingertip, preserve ordinary jewelry form.",
+                "inspected": true,
+                "sha256": "5de86dde07ea93f22d12db917b71120480833140ffd3e40b9b7d94e1cc01927b"
+              },
+              {
+                "path": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+                "role": "Matte oil material treatment and soft room light",
+                "notes": "Painted scene has rounder pendant; cover's clearer oval identity retained; no box/table in character plates.",
+                "inspected": true,
+                "sha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-40f722a4-1095-4a98-b653-f287ca0772a2.png",
+            "outputSha256": "242b41ea2135d051f42def96cc70541233240849faadca64d1163bf157d6d0d6",
+            "completedAt": "2026-09-24T11:33:52.792412+00:00",
+            "reviewFindings": [
+              "Correct oval blue enamel/silver identity and no anthropomorphic body, but dark vignette undermines ivory presentation and title legibility; upper profile chain fades outside complete view. Correct background/text and make profile only the complete setting/bail."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:33:53.738308+00:00",
+            "prompt": "Edit this Lustre object-character sheet in ONLY these presentation areas. Preserve pendant identities, three view positions, blue enamel, symmetric silver pattern, silver reverse, material paint construction and dimensions.\n1 REMOVE ALL dark gray/black vignette, dark corners, top/bottom gradients and shadows from the ENTIRE background. Replace with one UNINTERRUPTED LIGHT QUIET WARM IVORY across the whole rectangle. All chains/jewelry silhouettes remain crisply present, no fade. No floor surface/shadow/stage.\n2 Make exact title \"Lustre\", subtitle \"The Second Wearing\", labels \"Front\" and \"Reverse\" DARK NEAR-BLACK and clearly readable against ivory.\n3 Rightmost view is a DETAIL OF SETTING only. REMOVE the two chain strands that rise from its bail into top-edge fog. Preserve COMPLETE profile pendant and COMPLETE bail with clear ivory margin above the bail. Label it \"Setting profile\". This is a setting detail; full necklace is still explained in the two other complete views. Do not open the setting or add mechanisms.\nNo other changes, no hands or humanbody, no face/eyes on pendant, no glow, scenery or swatches. Keep matte sculpted oil, never chrome photograph.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-40f722a4-1095-4a98-b653-f287ca0772a2.png",
+                "role": "Edit target; preserve pendant/materials/views, correct unreadable vignette and profile presentation",
+                "inspected": true,
+                "sha256": "242b41ea2135d051f42def96cc70541233240849faadca64d1163bf157d6d0d6"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+            "outputSha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:35:07.941362+00:00",
+            "reviewFindings": [
+              "Actual saved image preserves oval ultramarine enamel/symmetric silver floral-scroll identity with tarnished silver; solid plain reverse and raised-setting profile add no mechanism or opening.",
+              "Corrected dark vignette is gone; readable exact name/title and three view labels on clean ivory. Full front/reverse chains complete and profile explicitly a setting detail.",
+              "Opaque oil/impasto material planes visible especially enamel and silver reverse; no anthropomorphic face/body, no hand, no magical glow, box or setting."
+            ]
+          }
+        ],
+        "preflight": "Source fully read; canon:false verified; actual cover, room images and winterfair inspected. No prompt originals. No isolated hand studies; body/form and face identity focus.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-40f722a4-1095-4a98-b653-f287ca0772a2.png",
+            "role": "Edit target; preserve pendant/materials/views, correct unreadable vignette and profile presentation",
+            "inspected": true,
+            "sha256": "242b41ea2135d051f42def96cc70541233240849faadca64d1163bf157d6d0d6"
+          }
+        ],
+        "prompt": "Edit this Lustre object-character sheet in ONLY these presentation areas. Preserve pendant identities, three view positions, blue enamel, symmetric silver pattern, silver reverse, material paint construction and dimensions.\n1 REMOVE ALL dark gray/black vignette, dark corners, top/bottom gradients and shadows from the ENTIRE background. Replace with one UNINTERRUPTED LIGHT QUIET WARM IVORY across the whole rectangle. All chains/jewelry silhouettes remain crisply present, no fade. No floor surface/shadow/stage.\n2 Make exact title \"Lustre\", subtitle \"The Second Wearing\", labels \"Front\" and \"Reverse\" DARK NEAR-BLACK and clearly readable against ivory.\n3 Rightmost view is a DETAIL OF SETTING only. REMOVE the two chain strands that rise from its bail into top-edge fog. Preserve COMPLETE profile pendant and COMPLETE bail with clear ivory margin above the bail. Label it \"Setting profile\". This is a setting detail; full necklace is still explained in the two other complete views. Do not open the setting or add mechanisms.\nNo other changes, no hands or humanbody, no face/eyes on pendant, no glow, scenery or swatches. Keep matte sculpted oil, never chrome photograph.",
+        "selectedAttempt": 2
+      },
+      "lighting": "Soft indoor lateafternoon neutral-warm reflection over cool silver/blue shade, no selflight",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:35:07.941362+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3",
+        "sourceSha256": "7b7b51ec05e18620183997f0eab8c9db5dfe949ce86d547e19f92d3093651362",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-40f722a4-1095-4a98-b653-f287ca0772a2.png",
+            "role": "Edit target; preserve pendant/materials/views, correct unreadable vignette and profile presentation",
+            "inspected": true,
+            "sha256": "242b41ea2135d051f42def96cc70541233240849faadca64d1163bf157d6d0d6"
+          }
+        ],
+        "evidence": [
+          "Actual saved image preserves oval ultramarine enamel/symmetric silver floral-scroll identity with tarnished silver; solid plain reverse and raised-setting profile add no mechanism or opening.",
+          "Corrected dark vignette is gone; readable exact name/title and three view labels on clean ivory. Full front/reverse chains complete and profile explicitly a setting detail.",
+          "Opaque oil/impasto material planes visible especially enamel and silver reverse; no anthropomorphic face/body, no hand, no magical glow, box or setting."
+        ],
+        "specificationSha256": "0794fd2460588ed97a61d96c06272433222d870a06ac1a06b7f4108b86286dfe"
+      }
+    },
+    {
+      "id": "odelia-strake",
+      "name": "Odelia Strake",
+      "role": "Adult inheriting niece and chosen wearer",
+      "selectionEvidence": [
+        {
+          "quote": "Odelia Strake.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "I bought them for her at a winter fair. I was eleven.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "Thirty-one years, according to the label.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "I don't like jewellery at my throat.",
+          "explanation": "Finished source evidence"
+        }
+      ],
+      "form": "Human adult woman",
+      "storyAppearance": {
+        "anatomy": "Human woman",
+        "lifeStage": "Adult;11 at recalled recital31years before current",
+        "proportions": "Unspecified",
+        "markings": "None",
+        "materials": "Clothes unspecified",
+        "clothing": "Unspecified; chain uncomfortable at throat",
+        "equipment": "Lustre during chosen seven-minute wearing, timer",
+        "scale": "Adult",
+        "movement": "Sharp turns/restless chain adjustments",
+        "distinctiveFeatures": "Own identity separate from aunt"
+      },
+      "explicitCanon": [
+        "Alive present inheritor, not aunt reincarnation.",
+        "Pendant skincontact at collarbone, no compulsion.",
+        "No specific outfit/face in prose."
+      ],
+      "visualInterpretation": [
+        "Art early40s woman, warm fairolive skin, short darkauburn bob with a few gray strands, narrow chin, strong blunt nose, hazel eyes, medium practical build.",
+        "Slateblue unbuttoned-neck blouse/cardigan, charcoal straight trousers, plain brown ankleboots; modest open collar permits pendant skincontact.",
+        "Fullbodyfront current wearing/back and expressive face, no isolated hands. No unrelated jewelry."
+      ],
+      "states": [
+        {
+          "name": "Seven minutes",
+          "description": "Chosen wearing of Lustre at upperchest."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-second-wearing:odelia-strake",
+        "links": [],
+        "evidence": "Local people; no universe connection inferred from jewelry."
+      },
+      "references": [
+        {
+          "path": "stories/the-second-wearing/title-image.jpg",
+          "role": "Lustre identity: oval blue enamel, ornate silver setting/chain",
+          "notes": "Source no sight or visible contact glow; remove cover contact flare and fingertip, preserve ordinary jewelry form.",
+          "inspected": true,
+          "sha256": "5de86dde07ea93f22d12db917b71120480833140ffd3e40b9b7d94e1cc01927b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+          "role": "Matte oil material treatment and soft room light",
+          "notes": "Painted scene has rounder pendant; cover's clearer oval identity retained; no box/table in character plates.",
+          "inspected": true,
+          "sha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+          "role": "Soft late afternoon window light; no room copied",
+          "inspected": true,
+          "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+          "role": "Muted winter-evening slate/cream/plum/gold palette for memory only",
+          "inspected": true,
+          "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Odelia Strake"
+      },
+      "output": "stories/the-second-wearing/art/characters/odelia-strake.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:35:08.913001+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nHeading \"Odelia Strake\", subtitle \"The Second Wearing\". One adult WOMAN in her early40s, warm FAIR-OLIVE skin, short DARK-AUBURN chinlength BOB with a few GRAY strands at temples, narrow chin, strong BLUNT NOSE, hazel eyes, practical medium build. Distinct everyday face, slightly tired guarded gaze; not the medieval style sample woman. No fantastical ears, powers or heroic pose.\nRestrained modern clothes: SLATEBLUE loosely buttoned-neck blouse, open mutedgray cardigan, charcoal straight trousers, simple brown ankleboots. Modest open collar at upper chest lets ordinary pendant touch SKIN below collarbone, not sit atop clothing. Pendant \"Lustre\" in image2 is the SAME small vertically OVAL blue-enamel and TARNISHED SILVER jewelry on ordinary thin silver chain, around5cm, with symmetric filigree hint. Small at human scale, NOT breastplate or huge medallion. No glow, voice bubbles, visible mind tendrils or compulsion effect.\nLayout full FRONTTHREEQUARTER body in her chosen seven-minute wearing, relaxed arms/ordinary integral hands, one hand lightly near chain if needed; full REARTHREEQUARTER body matching bob/clothes, necklace chain naturally at nape but no pendant on back. Upperright medium face portrait with clipped skepticism, lower-right smaller portrait with brief unpolished laugh. No separate hand detail, no isolated body fragments below portraits, no box/table/chair/phone display or otherperson. Label \"Seven minutes\" under main front only.\nSoft room WINDOW LIGHT as image3, few neutralwarm cheek/hair planes and CONNECTED cool slate/umber shadow; not glamor studio. All faces/eyes, hair and fullclothes directly constructed in BROAD MATTE bristle/knife paint with visible impasto, no smooth beauty face under random texture. Ivory without ground shadow/patch or scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved broad oil style only, no face/clothes copied",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+                "role": "Lustre's selected oval blue/silver design worn small at collarbone, no separate character sheet included",
+                "inspected": true,
+                "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+              },
+              {
+                "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+                "role": "Soft windowlight and collection painting only",
+                "inspected": true,
+                "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-da8b30a5-690f-4429-96bd-c539466e9cee.png",
+            "outputSha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:36:45.891840+00:00",
+            "reviewFindings": [
+              "Actual pixels: distinct adult auburn-bobbed woman in practical slategray clothing, full front/back and skeptical/amused portraits with consistent face. Pendant sits against upperchest skin at modest open collar.",
+              "Small blue/silver worn pendant plus equipment-design enlargement retains Lustre cover identity without glow or coercive visual effects. No isolated hands or false person-body for jewelry.",
+              "Matte broad oil faces and clothing, whole shoes, exact name/title and chosen-wearing label; clean ivory no scenery/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Source fully read; canon:false verified; actual cover, room images and winterfair inspected. No prompt originals. No isolated hand studies; body/form and face identity focus.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad oil style only, no face/clothes copied",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+            "role": "Lustre's selected oval blue/silver design worn small at collarbone, no separate character sheet included",
+            "inspected": true,
+            "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+          },
+          {
+            "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+            "role": "Soft windowlight and collection painting only",
+            "inspected": true,
+            "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nHeading \"Odelia Strake\", subtitle \"The Second Wearing\". One adult WOMAN in her early40s, warm FAIR-OLIVE skin, short DARK-AUBURN chinlength BOB with a few GRAY strands at temples, narrow chin, strong BLUNT NOSE, hazel eyes, practical medium build. Distinct everyday face, slightly tired guarded gaze; not the medieval style sample woman. No fantastical ears, powers or heroic pose.\nRestrained modern clothes: SLATEBLUE loosely buttoned-neck blouse, open mutedgray cardigan, charcoal straight trousers, simple brown ankleboots. Modest open collar at upper chest lets ordinary pendant touch SKIN below collarbone, not sit atop clothing. Pendant \"Lustre\" in image2 is the SAME small vertically OVAL blue-enamel and TARNISHED SILVER jewelry on ordinary thin silver chain, around5cm, with symmetric filigree hint. Small at human scale, NOT breastplate or huge medallion. No glow, voice bubbles, visible mind tendrils or compulsion effect.\nLayout full FRONTTHREEQUARTER body in her chosen seven-minute wearing, relaxed arms/ordinary integral hands, one hand lightly near chain if needed; full REARTHREEQUARTER body matching bob/clothes, necklace chain naturally at nape but no pendant on back. Upperright medium face portrait with clipped skepticism, lower-right smaller portrait with brief unpolished laugh. No separate hand detail, no isolated body fragments below portraits, no box/table/chair/phone display or otherperson. Label \"Seven minutes\" under main front only.\nSoft room WINDOW LIGHT as image3, few neutralwarm cheek/hair planes and CONNECTED cool slate/umber shadow; not glamor studio. All faces/eyes, hair and fullclothes directly constructed in BROAD MATTE bristle/knife paint with visible impasto, no smooth beauty face under random texture. Ivory without ground shadow/patch or scenery/swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Soft neutral-warm lateafternoon window planes, deep muted slate/umber shade",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:36:45.891840+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe",
+        "sourceSha256": "7b7b51ec05e18620183997f0eab8c9db5dfe949ce86d547e19f92d3093651362",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved broad oil style only, no face/clothes copied",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+            "role": "Lustre's selected oval blue/silver design worn small at collarbone, no separate character sheet included",
+            "inspected": true,
+            "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+          },
+          {
+            "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+            "role": "Soft windowlight and collection painting only",
+            "inspected": true,
+            "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+          }
+        ],
+        "evidence": [
+          "Actual pixels: distinct adult auburn-bobbed woman in practical slategray clothing, full front/back and skeptical/amused portraits with consistent face. Pendant sits against upperchest skin at modest open collar.",
+          "Small blue/silver worn pendant plus equipment-design enlargement retains Lustre cover identity without glow or coercive visual effects. No isolated hands or false person-body for jewelry.",
+          "Matte broad oil faces and clothing, whole shoes, exact name/title and chosen-wearing label; clean ivory no scenery/floor/swatches."
+        ],
+        "specificationSha256": "29a5ce036e8ae1dd97a6883c253db748bb5540f0a9797b2c45ae3cf0f30bfc57"
+      }
+    },
+    {
+      "id": "pavia-strake",
+      "name": "Pavia Strake",
+      "role": "Deceased aunt and former wearer in memory",
+      "selectionEvidence": [
+        {
+          "quote": "Pavia Strake wore me.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "She wore them to my recital.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "She said, 'All right, then.'",
+          "explanation": "Finished source evidence"
+        }
+      ],
+      "form": "Human woman depicted living in remembered period",
+      "storyAppearance": {
+        "anatomy": "Human woman",
+        "lifeStage": "Adult aunt31years earlier; deathcurrentFebruary",
+        "proportions": "Unspecified",
+        "markings": "None",
+        "materials": "Cheap metal/redglass cherry ornament; earlier silver/enamel pendant",
+        "clothing": "Unspecified recital clothing",
+        "equipment": "Cherry jewelry at recital, Lustre earlier",
+        "scale": "Adult",
+        "movement": "Heels-set pauses, dry laugh",
+        "distinctiveFeatures": "Distinct person, no ghost/vision state"
+      },
+      "explicitCanon": [
+        "Retained Lustre but stopped wearing it31years earlier; do not depict concurrent current wearing or ghost.",
+        "Cherry ornament cheapmetal/redglass, multiplicity of dangling parts, hook laterbroke.",
+        "No complete visual memory accessible to Lustre; external artist interpretation only."
+      ],
+      "visualInterpretation": [
+        "Art remembered45-yearold, warmer tanolive face, broad cheekbones, blunt family nose, hazel eyes, dark chestnut wavy hair with slighttemplegray pinned loosely, softheavysetbody.",
+        "Muted plum longsleeve kneelength dress with gray cardigan and brown sensible flats. Cherry jewelry interpreted as dangling pairearrings, noted not canon.",
+        "Two labeled wholebodymemory states: Recital redglasscherries NO Lustre; Earlier wearing Lustre NO cherries. One laughing faceportrait. No separate hands."
+      ],
+      "states": [
+        {
+          "name": "Recital",
+          "description": "Cherry ornament, no Lustre."
+        },
+        {
+          "name": "Earlier wearing",
+          "description": "Lustre, no cherries."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-second-wearing:pavia-strake",
+        "links": [],
+        "evidence": "Local people; no universe connection inferred from jewelry."
+      },
+      "references": [
+        {
+          "path": "stories/the-second-wearing/title-image.jpg",
+          "role": "Lustre identity: oval blue enamel, ornate silver setting/chain",
+          "notes": "Source no sight or visible contact glow; remove cover contact flare and fingertip, preserve ordinary jewelry form.",
+          "inspected": true,
+          "sha256": "5de86dde07ea93f22d12db917b71120480833140ffd3e40b9b7d94e1cc01927b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
+          "role": "Matte oil material treatment and soft room light",
+          "notes": "Painted scene has rounder pendant; cover's clearer oval identity retained; no box/table in character plates.",
+          "inspected": true,
+          "sha256": "49542c4c8cce1da9c74ca84b1b69d34fb107bc594cb167140de0d7311c6b1cef"
+        },
+        {
+          "path": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
+          "role": "Soft late afternoon window light; no room copied",
+          "inspected": true,
+          "sha256": "be4e4ac75fce168a49f2794a7dc61b9c16e39ee7d3de1c48f875ce03611a273b"
+        },
+        {
+          "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+          "role": "Muted winter-evening slate/cream/plum/gold palette for memory only",
+          "inspected": true,
+          "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Pavia Strake"
+      },
+      "output": "stories/the-second-wearing/art/characters/pavia-strake.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:36:46.883315+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Pavia Strake\", subtitle \"The Second Wearing\". One human WOMAN alive in two remembered states thirty-one years before the present, not a ghost and not recently resurrected. Art appearance adult45, warmer TAN-OLIVE skin, broad cheeks, blunt family nose, hazel eyes, DARK CHESTNUT WAVY HAIR partly pinned up with slight silver at temples, soft HEAVIERSET body and settled relaxed posture. Second ref Odelia provides a restrained FAMILY RESEMBLANCE only; do NOT copy Odelia's bob, leaner body, blueblouse or exact face. Pavia's wider face, curly pinned hair, rounder build and dry amused eyes distinguish her.\nART CHOICE recital attire: modest muted PLUM long-sleeve knee-length DRESS, open gray cardigan, brown sensible FLAT SHOES. No wealth fantasy, crown, armor or cape. Keep same face/age/garments across views.\nLEFT complete frontthreequarter body labeled \"Recital\": wears a small pair of CHEAP METAL DANGLING RED-GLASS CHERRY EARRINGS, multiple simple little cherry drops, cheerful slightly awkward construction; NO Lustre pendant and no necklace. CENTER complete frontthreequarter angled opposite labeled \"Earlier wearing\": wears small oval BLUE ENAMEL/SILVER LUSTRE pendant on chain from image3, on upperchest skin, no red cherry earrings. Do not put both jewels in either body study. Natural relaxed hands only as part of fullbody, no closeups.\nAt RIGHT two medium face portraits of Pavia alone: full laugh with eyes squeezed and small composed knowing smile. Choose RECITAL state for portraits: same redglass cherry earrings and no necklace. No isolated jewelry enlargement, no standalone Lustre as another identity, no otherperson, no hand studies. Complete unclipped shoes/dress.\nWarm restrained indoor-evening/reflected lamp planes with deep muted PLUM/GRAY/UMBER shadows, winterfair image4 is palette only, no fair/backdrop. Broad connected matte oil paint builds mature faces/hair/clothes, selective sculptural impasto; no smooth beauty faces. Ivory without floor shadow/scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved bold oil only",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-da8b30a5-690f-4429-96bd-c539466e9cee.png",
+                "role": "Niece Odelia family nose/eyes only, not same identity/body/hair/clothes",
+                "inspected": true,
+                "sha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+                "role": "Earlier wearing Lustre jewelry identity only; no simultaneous cherryjewelry",
+                "inspected": true,
+                "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+              },
+              {
+                "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+                "role": "Muted warm winterevening palette only",
+                "inspected": true,
+                "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-d8220194-5535-4e65-9b55-10862ba74265.png",
+            "outputSha256": "3c35e248d95876b37afa1025ec9144455b59138857e0892e1cb6566415b9440e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:39:47.803515+00:00",
+            "reviewFindings": [
+              "Inspected actual saved 1536x1024 candidate: complete unclipped recital and earlier-wearing body views, readable exact name/title, clean ivory, no hand studies, floor patches or scenery.",
+              "Pavia remains one living remembered aunt: wider tan-olive face, wavy pinned chestnut hair and fuller build distinguish her from niece Odelia while retaining restrained family resemblance.",
+              "Recital body/portraits wear cheap dangling red-glass cherry earrings without Lustre; earlier-wearing body wears small blue oval Lustre and no cherry earrings. No invented ghost state.",
+              "Faces and clothing share cohesive connected opaque oil planes and muted warm indoor light. Source-unspecified appearance/costume choices remain art-only."
+            ]
+          }
+        ],
+        "preflight": "Source fully read; canon:false verified; actual cover, room images and winterfair inspected. No prompt originals. No isolated hand studies; body/form and face identity focus.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved bold oil only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-da8b30a5-690f-4429-96bd-c539466e9cee.png",
+            "role": "Niece Odelia family nose/eyes only, not same identity/body/hair/clothes",
+            "inspected": true,
+            "sha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+            "role": "Earlier wearing Lustre jewelry identity only; no simultaneous cherryjewelry",
+            "inspected": true,
+            "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+          },
+          {
+            "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+            "role": "Muted warm winterevening palette only",
+            "inspected": true,
+            "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Pavia Strake\", subtitle \"The Second Wearing\". One human WOMAN alive in two remembered states thirty-one years before the present, not a ghost and not recently resurrected. Art appearance adult45, warmer TAN-OLIVE skin, broad cheeks, blunt family nose, hazel eyes, DARK CHESTNUT WAVY HAIR partly pinned up with slight silver at temples, soft HEAVIERSET body and settled relaxed posture. Second ref Odelia provides a restrained FAMILY RESEMBLANCE only; do NOT copy Odelia's bob, leaner body, blueblouse or exact face. Pavia's wider face, curly pinned hair, rounder build and dry amused eyes distinguish her.\nART CHOICE recital attire: modest muted PLUM long-sleeve knee-length DRESS, open gray cardigan, brown sensible FLAT SHOES. No wealth fantasy, crown, armor or cape. Keep same face/age/garments across views.\nLEFT complete frontthreequarter body labeled \"Recital\": wears a small pair of CHEAP METAL DANGLING RED-GLASS CHERRY EARRINGS, multiple simple little cherry drops, cheerful slightly awkward construction; NO Lustre pendant and no necklace. CENTER complete frontthreequarter angled opposite labeled \"Earlier wearing\": wears small oval BLUE ENAMEL/SILVER LUSTRE pendant on chain from image3, on upperchest skin, no red cherry earrings. Do not put both jewels in either body study. Natural relaxed hands only as part of fullbody, no closeups.\nAt RIGHT two medium face portraits of Pavia alone: full laugh with eyes squeezed and small composed knowing smile. Choose RECITAL state for portraits: same redglass cherry earrings and no necklace. No isolated jewelry enlargement, no standalone Lustre as another identity, no otherperson, no hand studies. Complete unclipped shoes/dress.\nWarm restrained indoor-evening/reflected lamp planes with deep muted PLUM/GRAY/UMBER shadows, winterfair image4 is palette only, no fair/backdrop. Broad connected matte oil paint builds mature faces/hair/clothes, selective sculptural impasto; no smooth beauty faces. Ivory without floor shadow/scenery/swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Warm restrained recital/interior key over deep plum/gray shade",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "3c35e248d95876b37afa1025ec9144455b59138857e0892e1cb6566415b9440e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:39:47.803515+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "3c35e248d95876b37afa1025ec9144455b59138857e0892e1cb6566415b9440e",
+        "sourceSha256": "7b7b51ec05e18620183997f0eab8c9db5dfe949ce86d547e19f92d3093651362",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved bold oil only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-da8b30a5-690f-4429-96bd-c539466e9cee.png",
+            "role": "Niece Odelia family nose/eyes only, not same identity/body/hair/clothes",
+            "inspected": true,
+            "sha256": "f662b3d8bdccdd07960f3e11ccd4805ae05aff0bca7acb5ef2c2bbf7de207ebe"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-e9395b44-5a4c-4778-bde2-a366acb692a2.png",
+            "role": "Earlier wearing Lustre jewelry identity only; no simultaneous cherryjewelry",
+            "inspected": true,
+            "sha256": "437c6ecce50f06c7c54e092c9f5f5ac62b37adf061b82d9c1161f6acbb08d2c3"
+          },
+          {
+            "path": "stories/the-second-wearing/art/landscapes/01-the-winter-fair.png",
+            "role": "Muted warm winterevening palette only",
+            "inspected": true,
+            "sha256": "586c74f64eb9ce41117ebc4b9b7ac572f56e55cf30d0c5c3a0152d7da1511b72"
+          }
+        ],
+        "evidence": [
+          "Inspected actual saved 1536x1024 candidate: complete unclipped recital and earlier-wearing body views, readable exact name/title, clean ivory, no hand studies, floor patches or scenery.",
+          "Pavia remains one living remembered aunt: wider tan-olive face, wavy pinned chestnut hair and fuller build distinguish her from niece Odelia while retaining restrained family resemblance.",
+          "Recital body/portraits wear cheap dangling red-glass cherry earrings without Lustre; earlier-wearing body wears small blue oval Lustre and no cherry earrings. No invented ghost state.",
+          "Faces and clothing share cohesive connected opaque oil planes and muted warm indoor light. Source-unspecified appearance/costume choices remain art-only."
+        ],
+        "specificationSha256": "1cbae43f034f39ab2afe02d2fb2adec316dd8e3cc064700d8be47857984362f6"
+      }
+    }
+  ],
+  "sourceSha256": "7b7b51ec05e18620183997f0eab8c9db5dfe949ce86d547e19f92d3093651362"
+}
