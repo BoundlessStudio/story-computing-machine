@@ -1,0 +1,1277 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-weight-they-never-counted",
+  "title": "The Weight They Never Counted",
+  "source": "stories/the-weight-they-never-counted/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose/prompt/review read. Marker non-canon, no original reference images. Cover is object-only, inspected with road and wagon oils; it supplies no faces. Eight sustained cast identities: protagonist plus caravan leader/loader/cook/clerk/teamster/wheelwright/peer road hand. Source title review contains no people proper nouns; new distinct art-only names authorized and checked.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Village adulthood clerk and bullying voices",
+      "reason": "Opening-only functional roles, distinct from sustained caravan clerk."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "torlien",
+      "name": "Torlien",
+      "role": "Eighteen-year-old porter and load-planning apprentice",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Eighteen",
+          "explanation": "Protagonist learns safe limits, equal wages and skilled planning."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Exactly18, human-presenting person with ordinary outside anatomy; source gender/appearance unspecified, patched boots, calluses, shirts/blanket bundle, salt, work token; dense load-bearing biology not externally visible."
+      },
+      "visualInterpretation": [
+        "Art-only androgynous 18-year-old, lean compact build, light olive skin, short straight chestnut hair, blunt round nose, brown eyes. Cream shirt/brown vest/dark trousers, twice-patched worn boots.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns.",
+        "Refined source-unspecified Torlien identity to very short chestnut crop, soft round cheeks, blunt short nose and sparse freckles, avoiding transfer from unrelated style donor."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "First weight discovery, before soreness or revised contract."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:torlien",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Eighteen-year-old porter and load-planning apprentice",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/torlien.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit this actual Torlien character folio, preserving every composition position, title, labels, full body, clothing, two iron100kg blocks, token, clean ivory and opaque oil rendering. Change ONLY the head identity consistently in both full figures and large portrait: clearly eighteen-year-old androgynous young adult with VERY SHORT chestnut crop about2cm long, no floppy locks/bob, soft round youthful cheeks, a short blunt nose, small matte brown eyes, light olive skin with sparse freckles, quiet reserved expression. The current dark shaggy bob, angular cheekbones and particular nose are too close to an unrelated style reference person. Torlien is a separate new identity. Use broad connected opaque paint across all facial planes, no photoreal skin, no glossy eyes or hair. Same three views depict exact same newly differentiated face and veryshort crop. Do not alter hands, feet, poses, weight-block geometry, clothes, text, lighting, paper, or add anything. One complete1536x1024 landscape folio.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-decc6d82-2b83-432f-bf21-5c5b839d6a03.png",
+            "role": "Actual inspected candidate, targeted art-only identity distinction edit.",
+            "inspected": true,
+            "sha256": "c5a688a0616d3598db5d16a107827e6f80a3c21e9b271faccbe3ddfadc4ac574"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.891559+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Torlien\"; exact story title \"The Weight They Never Counted\"; subtitle \"Eighteen-year-old porter and load-planning apprentice\". ANDROGYNOUS adult exactly EIGHTEEN, slim compact ordinary human body (no bodybuilder muscles/giant anatomy), light OLIVE skin, youthful rounded cheeks, blunt nose, short straight CHESTNUT hair, matte brown eyes. Cream long-sleeve work shirt with rolled cuffs, brown worn vest, dark wool trousers, old brown ankle boots with visible leather sole patches. Carry TWO matching squat IRON SCALE BLOCKS, one in each hand by its metal lifting loop, arms naturally hanging and posture comfortably upright. Each has a simple readable stamped '100 kg', no other numbers. Rear view same body and blocks. Large head portrait, and small flat wooden WORK TOKEN as isolated object. No detached hands, magical glow, sweat or dramatic strain. Diffuse daytime light, muted warm skin planes and rich cool blue-gray shadows, no cinematic rim.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-decc6d82-2b83-432f-bf21-5c5b839d6a03.png",
+            "outputSha256": "c5a688a0616d3598db5d16a107827e6f80a3c21e9b271faccbe3ddfadc4ac574",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.261770+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Source strength, ordinary body and two100kg blocks correct; facial identity and shaggy haircut too close to unrelated Imogen style donor. Refine only art-only head identity.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "toolInvoked": true,
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "startedAt": "2026-09-24T12:12:37.334437+00:00",
+            "prompt": "Edit this actual Torlien character folio, preserving every composition position, title, labels, full body, clothing, two iron100kg blocks, token, clean ivory and opaque oil rendering. Change ONLY the head identity consistently in both full figures and large portrait: clearly eighteen-year-old androgynous young adult with VERY SHORT chestnut crop about2cm long, no floppy locks/bob, soft round youthful cheeks, a short blunt nose, small matte brown eyes, light olive skin with sparse freckles, quiet reserved expression. The current dark shaggy bob, angular cheekbones and particular nose are too close to an unrelated style reference person. Torlien is a separate new identity. Use broad connected opaque paint across all facial planes, no photoreal skin, no glossy eyes or hair. Same three views depict exact same newly differentiated face and veryshort crop. Do not alter hands, feet, poses, weight-block geometry, clothes, text, lighting, paper, or add anything. One complete1536x1024 landscape folio.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-decc6d82-2b83-432f-bf21-5c5b839d6a03.png",
+                "role": "Actual inspected candidate, targeted art-only identity distinction edit.",
+                "inspected": true,
+                "sha256": "c5a688a0616d3598db5d16a107827e6f80a3c21e9b271faccbe3ddfadc4ac574"
+              }
+            ],
+            "preflight": [
+              "Actual candidate inspected; only distinct art-only facial identity refinement necessary. No anatomy or handedness correction. Source state, all props and ivory remain accepted."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-25794817-e474-4bf2-810b-2ff6ecd13a4d.png",
+            "outputSha256": "e918690311c58ab3a318ed574485bfd46dc9c9d541fd839aa908baaaea5bbcef",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:14:03.629386+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual final1536x1024 inspected: youthful rounder face and short chestnut crop now distinct from unrelated Imogen; ordinary slim body with comfortable two100kgblocks correct for first discovery.",
+              "Both complete figures and portrait retain coherent identity and opaque facial oil; title readable, work token isolated; warm ivory has no scene/ground/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-25794817-e474-4bf2-810b-2ff6ecd13a4d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "e918690311c58ab3a318ed574485bfd46dc9c9d541fd839aa908baaaea5bbcef",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-decc6d82-2b83-432f-bf21-5c5b839d6a03.png",
+            "role": "Actual inspected candidate, targeted art-only identity distinction edit.",
+            "inspected": true,
+            "sha256": "c5a688a0616d3598db5d16a107827e6f80a3c21e9b271faccbe3ddfadc4ac574"
+          }
+        ],
+        "evidence": [
+          "Actual final1536x1024 inspected: youthful rounder face and short chestnut crop now distinct from unrelated Imogen; ordinary slim body with comfortable two100kgblocks correct for first discovery.",
+          "Both complete figures and portrait retain coherent identity and opaque facial oil; title readable, work token isolated; warm ivory has no scene/ground/swatches/hand studies."
+        ],
+        "specificationSha256": "5d0b7df222991cce08812f8292e560a84deb7bf2c988bff39a23886fb2023ede"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "e918690311c58ab3a318ed574485bfd46dc9c9d541fd839aa908baaaea5bbcef"
+    },
+    {
+      "id": "veskala",
+      "name": "Veskala",
+      "role": "Caravan leader",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "It’s an unpriced risk.",
+          "explanation": "Sustained employer and negotiator measures work against cost."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult woman, boots, wax board/stylus and copied survey packet; no source face description."
+      },
+      "visualInterpretation": [
+        "Art-only robust woman48, dark brown skin, broad cheeks, black-and-gray hair in tight bun, slate blue coat and taupe sash.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Contract discussion at market."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:veskala",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Caravan leader",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/veskala.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Veskala\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan leader\". Adult WOMAN about48, broad robust build, DARK BROWN skin, broad rounded cheeks, wide nose, short gray-black coiled hair in tight practical bun, matte dark eyes. SLATE BLUE knee-length wool traveling coat, oatmeal shirt, taupe waist sash, dark trousers and worn sturdy boots. Holds plain WAX BOARD and short wooden stylus at waist, no papers with readable claims. One small closed waterproof leather DOCUMENT PACKET study. Alert measuring expression, no crown/armor/weapon. Muted AFTERNOON outdoor daylight with warm ochre face planes and cool slate shadows, no scene.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.899611+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Veskala\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan leader\". Adult WOMAN about48, broad robust build, DARK BROWN skin, broad rounded cheeks, wide nose, short gray-black coiled hair in tight practical bun, matte dark eyes. SLATE BLUE knee-length wool traveling coat, oatmeal shirt, taupe waist sash, dark trousers and worn sturdy boots. Holds plain WAX BOARD and short wooden stylus at waist, no papers with readable claims. One small closed waterproof leather DOCUMENT PACKET study. Alert measuring expression, no crown/armor/weapon. Muted AFTERNOON outdoor daylight with warm ochre face planes and cool slate shadows, no scene.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b489788d-077c-4be8-bbaf-22a1a835f1cc.png",
+            "outputSha256": "c2e0369f3d36eae0a4c04287625550319ca19d718b2c1fa2d66469cb7cdb0880",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.283462+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Older caravan leader with curly gray bun, waxboard, stylus and waterproof packet; coherent art-only identity.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b489788d-077c-4be8-bbaf-22a1a835f1cc.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "c2e0369f3d36eae0a4c04287625550319ca19d718b2c1fa2d66469cb7cdb0880",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Older caravan leader with curly gray bun, waxboard, stylus and waterproof packet; coherent art-only identity.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "9c2e3ac050ba5d6e622c0623661584a384d48c9f2e850ba86865c4d4913858ef"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "c2e0369f3d36eae0a4c04287625550319ca19d718b2c1fa2d66469cb7cdb0880"
+    },
+    {
+      "id": "hodrum",
+      "name": "Hodrum",
+      "role": "Loader and porter trainer",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "A bad foot drops good cargo.",
+          "explanation": "Sustained mentor rigs loads, stops unsafe tests and supports negotiation."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult man, laborer, broad yoke/equal slings/beam scale, practical work clothing unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only stocky man43, medium tan skin, shaved head, thick dark moustache, rust shirt/leather apron.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Controlled training interval; unloaded rig."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:hodrum",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Loader and porter trainer",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/hodrum.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Hodrum\"; exact story title \"The Weight They Never Counted\"; subtitle \"Loader and porter trainer\". Adult HUMAN MAN43, stocky broad chest, medium TAN skin, square jaw and broad nose, shaved scalp, thick black moustache with stubble, small matte hazel eyes. Rust-red heavy linen shirt, worn umber LEATHER waist apron over dark trousers and heavy brown boots. Broad loose canvas lifting SLING folded over one shoulder, relaxed empty hands; no live load. Isolated compact portable BEAM SCALE with plain equal empty pans, no complex invented mechanics or writing. Large face conveys patient no-nonsense attention. Soft MORNING daylight, pale ochre planes and cool blue shadows, no camp or wagon.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.907598+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Hodrum\"; exact story title \"The Weight They Never Counted\"; subtitle \"Loader and porter trainer\". Adult HUMAN MAN43, stocky broad chest, medium TAN skin, square jaw and broad nose, shaved scalp, thick black moustache with stubble, small matte hazel eyes. Rust-red heavy linen shirt, worn umber LEATHER waist apron over dark trousers and heavy brown boots. Broad loose canvas lifting SLING folded over one shoulder, relaxed empty hands; no live load. Isolated compact portable BEAM SCALE with plain equal empty pans, no complex invented mechanics or writing. Large face conveys patient no-nonsense attention. Soft MORNING daylight, pale ochre planes and cool blue shadows, no camp or wagon.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-529bd2fd-9c9b-4d6a-bf11-5c70f7a3a24e.png",
+            "outputSha256": "ae66476b0957ac17134f5d7fe4b5aafa928a78360df80e05e4e7996236783cb9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.264461+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Bald moustached older loader, sling and portable beam scale; distinctive older face and source rigging role.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-529bd2fd-9c9b-4d6a-bf11-5c70f7a3a24e.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "ae66476b0957ac17134f5d7fe4b5aafa928a78360df80e05e4e7996236783cb9",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Bald moustached older loader, sling and portable beam scale; distinctive older face and source rigging role.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "5b8abaae63d9ddc8d3071fdf612d4e4d39b118fab5b8eedbdf05212b6acb7ec1"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "ae66476b0957ac17134f5d7fe4b5aafa928a78360df80e05e4e7996236783cb9"
+    },
+    {
+      "id": "gesma",
+      "name": "Gesma",
+      "role": "Caravan cook",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Right now it’s coming from my pot.",
+          "explanation": "Sustained mentor defends adequate rations and meal breaks."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult woman, pots/bowls/measuring cup, food rations and salt packets."
+      },
+      "visualInterpretation": [
+        "Art-only woman55, full sturdy build, warm brown skin, soft round face, dark eyes, gray-black hair under burgundy headcloth, cream sleeves and dark red apron.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Meal distribution, no other person present."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:gesma",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Caravan cook",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/gesma.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Gesma\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan cook\". Adult HUMAN WOMAN55, full sturdy build, warm BROWN skin, round expressive cheeks and broad nose, gray-black hair under simple BURGUNDY headcloth, small kind stern dark eyes. Cream linen shirt, dark red work APRON over brown calf-length skirt, practical brown boots. Holds one ordinary wooden BROTH BOWL centered at waist. Isolated battered tin MEASURING CUP, no food spread or cooking setup. Face firm and lively. Soft DAYLIGHT with muted warm ochre touches and cool blue-gray shadows; opaque painted face as bold as apron.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.915549+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Gesma\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan cook\". Adult HUMAN WOMAN55, full sturdy build, warm BROWN skin, round expressive cheeks and broad nose, gray-black hair under simple BURGUNDY headcloth, small kind stern dark eyes. Cream linen shirt, dark red work APRON over brown calf-length skirt, practical brown boots. Holds one ordinary wooden BROTH BOWL centered at waist. Isolated battered tin MEASURING CUP, no food spread or cooking setup. Face firm and lively. Soft DAYLIGHT with muted warm ochre touches and cool blue-gray shadows; opaque painted face as bold as apron.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-fa87aae8-89c6-4b9c-a2c0-4637095e63e0.png",
+            "outputSha256": "845b2dd9f8c833f888bbc220dede8f0a5f844191110cbace7b32eef99fdfed4f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.301506+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Mature cook with full cheeks, headcloth and source ration bowl/measure; unique face and working clothing.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-fa87aae8-89c6-4b9c-a2c0-4637095e63e0.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "845b2dd9f8c833f888bbc220dede8f0a5f844191110cbace7b32eef99fdfed4f",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Mature cook with full cheeks, headcloth and source ration bowl/measure; unique face and working clothing.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "20efdd36bbe0980e4872a5e69f48bee28ca1c8768a3efc18ee5a90c186e11ca1"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "845b2dd9f8c833f888bbc220dede8f0a5f844191110cbace7b32eef99fdfed4f"
+    },
+    {
+      "id": "othira",
+      "name": "Othira",
+      "role": "Caravan clerk",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Gross is not freight.",
+          "explanation": "Sustained accounts teacher and contract recorder, distinct from village clerk."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult woman, coat, manifests, boards and stylus; actual face unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only woman36, pale freckled face, tall thin build, short straight black hair, long nose, muted aubergine coat, cream shirt.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Market contract recording."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:othira",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Caravan clerk",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/othira.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Othira\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan clerk\". Adult HUMAN WOMAN36, tall thin build, PALE freckled skin, long straight nose, narrow alert matte gray eyes, straight BLACK hair cut at jaw with blunt fringe. Muted AUBERGINE knee-length coat, cream shirt, brown trousers, low brown boots. Holds MANIFEST BOARD with columns indicated by simple unreadable marks and short stylus. Isolated closed thin ledger with cloth tie. No modern computer/printed banknotes/eyeglasses. Large matching precise face, daylight subdued warm highlights and cool slate shadows, no scenery.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.923558+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Othira\"; exact story title \"The Weight They Never Counted\"; subtitle \"Caravan clerk\". Adult HUMAN WOMAN36, tall thin build, PALE freckled skin, long straight nose, narrow alert matte gray eyes, straight BLACK hair cut at jaw with blunt fringe. Muted AUBERGINE knee-length coat, cream shirt, brown trousers, low brown boots. Holds MANIFEST BOARD with columns indicated by simple unreadable marks and short stylus. Isolated closed thin ledger with cloth tie. No modern computer/printed banknotes/eyeglasses. Large matching precise face, daylight subdued warm highlights and cool slate shadows, no scenery.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-caa5a852-68e4-4815-b6cf-2b8303ab120d.png",
+            "outputSha256": "3fa633bcaa803a0929ae5bc237b9301ee42d35ec26c1f4890452d8bf44683f6d",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.319671+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Freckled adult clerk in aubergine, black blunt bob, ledger and manifests; source-local art-only identity.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-caa5a852-68e4-4815-b6cf-2b8303ab120d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "3fa633bcaa803a0929ae5bc237b9301ee42d35ec26c1f4890452d8bf44683f6d",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Freckled adult clerk in aubergine, black blunt bob, ledger and manifests; source-local art-only identity.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "0e4fe4bbc9c7d16ff5c98fd5d241e8919e767cc95fd3712159ff554bb8755ad7"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "3fa633bcaa803a0929ae5bc237b9301ee42d35ec26c1f4890452d8bf44683f6d"
+    },
+    {
+      "id": "calreth",
+      "name": "Calreth",
+      "role": "Lead teamster",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "That’s the pace. Not the schedule.",
+          "explanation": "Sustained teacher protects working animals and coordinates recovery."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult woman, teamster, practices controlled pace and animal care; no fixed appearance."
+      },
+      "visualInterpretation": [
+        "Art-only tall athletic woman40, light brown skin, narrow long face, sun freckles, dark blond cropped braid, faded teal vest over oat shirt.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Between driving tasks, no animals included."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:calreth",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Lead teamster",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/calreth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Calreth\"; exact story title \"The Weight They Never Counted\"; subtitle \"Lead teamster\". Adult HUMAN WOMAN40, tall athletic build, LIGHT BROWN freckled skin, long narrow face, straight nose, dark BLOND hair in cropped practical braid, matte blue-gray eyes. Faded TEAL wool vest over oatmeal shirt, brown trousers, sturdy dark leather boots. A loose coiled leather REIN rests over shoulder, empty hands relaxed; no whip, bit in hand, animal or wagon. Isolated simple LEATHER TRACE buckle/strap section. Focused weathered face. Soft outdoor daylight, blue-gray shadows and restrained ochre light, full unclipped front/rear.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.931284+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Calreth\"; exact story title \"The Weight They Never Counted\"; subtitle \"Lead teamster\". Adult HUMAN WOMAN40, tall athletic build, LIGHT BROWN freckled skin, long narrow face, straight nose, dark BLOND hair in cropped practical braid, matte blue-gray eyes. Faded TEAL wool vest over oatmeal shirt, brown trousers, sturdy dark leather boots. A loose coiled leather REIN rests over shoulder, empty hands relaxed; no whip, bit in hand, animal or wagon. Isolated simple LEATHER TRACE buckle/strap section. Focused weathered face. Soft outdoor daylight, blue-gray shadows and restrained ochre light, full unclipped front/rear.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-8c37a949-704d-45cd-88d5-4a8e1dbe1801.png",
+            "outputSha256": "44dd7995aa92b56cfbea3fb2f1bde4422852498f6bb47efa8d0efa7caa2b2419",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.337990+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Adult lead teamster with brown braid, blue waistcoat, coiled reins/trace buckle; consistent working identity.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-8c37a949-704d-45cd-88d5-4a8e1dbe1801.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "44dd7995aa92b56cfbea3fb2f1bde4422852498f6bb47efa8d0efa7caa2b2419",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Adult lead teamster with brown braid, blue waistcoat, coiled reins/trace buckle; consistent working identity.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "61de3ef16f7ab3bf172f308f210e68136049bf13e7e5833e171ccce52f31d8e3"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "44dd7995aa92b56cfbea3fb2f1bde4422852498f6bb47efa8d0efa7caa2b2419"
+    },
+    {
+      "id": "brindel",
+      "name": "Brindel",
+      "role": "Wheelwright",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Check the gap above the springs.",
+          "explanation": "Sustained mechanical mentor and crucial recovery worker."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult man, wheelwright, oiled hub pins and iron testing rod; no source body description."
+      },
+      "visualInterpretation": [
+        "Art-only wiry older man62, weathered olive skin, balding wispy white hair, thin white moustache, gray linen coat, ochre apron.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Working interval before road inspection."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:brindel",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Wheelwright",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/brindel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Brindel\"; exact story title \"The Weight They Never Counted\"; subtitle \"Wheelwright\". Adult HUMAN MAN62, wiry short body, weathered OLIVE skin, narrow face, crooked nose, balding head with wispy white sides, thin white moustache, small matte brown eyes. Gray linen work COAT with rolled sleeves, battered OCHRE leather apron, dark trousers and low worn boots. Holds ordinary forearm-length IRON TESTING ROD pointed down, no weapon pose. Isolated small OILED HUB PIN, not entire wheel/axle/location. Face wryly skeptical. Overcast DAYLIGHT, soft warm planes and cool blue-gray shadows, matte oil.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.939308+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Brindel\"; exact story title \"The Weight They Never Counted\"; subtitle \"Wheelwright\". Adult HUMAN MAN62, wiry short body, weathered OLIVE skin, narrow face, crooked nose, balding head with wispy white sides, thin white moustache, small matte brown eyes. Gray linen work COAT with rolled sleeves, battered OCHRE leather apron, dark trousers and low worn boots. Holds ordinary forearm-length IRON TESTING ROD pointed down, no weapon pose. Isolated small OILED HUB PIN, not entire wheel/axle/location. Face wryly skeptical. Overcast DAYLIGHT, soft warm planes and cool blue-gray shadows, matte oil.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-4ae6906b-85f4-4072-b809-06b9b7c9acb4.png",
+            "outputSha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.355973+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Older balding wheelwright, gray moustache, ochre apron, iron rod and hub pin; clear practical source role.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-4ae6906b-85f4-4072-b809-06b9b7c9acb4.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Older balding wheelwright, gray moustache, ochre apron, iron rod and hub pin; clear practical source role.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "65b223eb6f57f02c04839163fd164da6bdb698393dcb867bdf05a49e5c747a51"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "585775dddd798a4f20d12d830cef459e48a8ac20a5a086d48c996025b68d0652"
+    },
+    {
+      "id": "dunvelt",
+      "name": "Dunvelt",
+      "role": "Road hand",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "If you volunteer me into this again, I’ll hide your boots.",
+          "explanation": "Recurring peer bears extra workload and joins final scheduling."
+        }
+      ],
+      "storyAppearance": {
+        "physicalAndSourceDetails": "Adult man, performs branches/dung/firewood/water tasks and eats ration bowls; source appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only man25, medium-dark skin, heavy eyebrows, close clipped black hair, broad compact build, dull green tunic.",
+        "All names newly assigned only for artwork under explicit authorization; source has no people proper nouns."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Rest-meal interval after extra workload."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-weight-they-never-counted:dunvelt",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Road hand",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/the-weight-they-never-counted/art/characters/dunvelt.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Dunvelt\"; exact story title \"The Weight They Never Counted\"; subtitle \"Road hand\". Adult HUMAN MAN25, compact broad build, MEDIUM DARK brown skin, heavy straight eyebrows, square round jaw, broad nose, BLACK close-clipped hair, matte dark eyes; tired impatient expression. Dull GREEN heavy linen tunic with plain rolled sleeves, dark brown trousers, mud-scuffed brown boots. Holds small ordinary wooden meal BOWL in both hands at waist; matching isolated bowl/wooden spoon personal object. No branches, landscape, wagon, magical strength or portrait copied from style reference. Soft midday outdoor light, quiet warm skin and cool gray-blue shadows.",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T11:56:19.947054+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette.\nExact name \"Dunvelt\"; exact story title \"The Weight They Never Counted\"; subtitle \"Road hand\". Adult HUMAN MAN25, compact broad build, MEDIUM DARK brown skin, heavy straight eyebrows, square round jaw, broad nose, BLACK close-clipped hair, matte dark eyes; tired impatient expression. Dull GREEN heavy linen tunic with plain rolled sleeves, dark brown trousers, mud-scuffed brown boots. Holds small ordinary wooden meal BOWL in both hands at waist; matching isolated bowl/wooden spoon personal object. No branches, landscape, wagon, magical strength or portrait copied from style reference. Soft midday outdoor light, quiet warm skin and cool gray-blue shadows.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/characters/imogen.png",
+                "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+                "inspected": true,
+                "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+                "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+                "inspected": true,
+                "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+              },
+              {
+                "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+                "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+                "inspected": true,
+                "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-57eda158-e72b-4055-b4e3-4c891097d152.png",
+            "outputSha256": "379b1cd076cb6dd863979ee688c563903975a9db2fbd078978f2749fdebb7865",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:12:36.373728+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Young compact road hand, dark close-cropped hair, green tunic, tired expression, meal bowl and spoon.",
+              "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+              "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-57eda158-e72b-4055-b4e3-4c891097d152.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3",
+        "outputSha256": "379b1cd076cb6dd863979ee688c563903975a9db2fbd078978f2749fdebb7865",
+        "references": [
+          {
+            "path": "stories/witch-cold/art/characters/imogen.png",
+            "role": "Inspected opaque facial oil and ivory format only; no modern clothes or identity transfer.",
+            "inspected": true,
+            "sha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/landscapes/02-the-muddy-rut.png",
+            "role": "Inspected road daylight, ochre earth/blue shadow and directional oil only.",
+            "inspected": true,
+            "sha256": "e4db4f1cb19b48f2ec33cc8c46b6693705221bd9ed6a306940fd77928cc73f2d"
+          },
+          {
+            "path": "stories/the-weight-they-never-counted/art/interiors/01-the-sixth-wagon-load.png",
+            "role": "Inspected source iron blocks, load materials and oil handling; no wagon/scene.",
+            "inspected": true,
+            "sha256": "d80ba4d21995407246b5f6b150b63660da97e3a07cf172fa80fe78fa726629bc"
+          }
+        ],
+        "evidence": [
+          "Young compact road hand, dark close-cropped hair, green tunic, tired expression, meal bowl and spoon.",
+          "Actual complete 1536x1024 pixels inspected; one consistently depicted identity in front/rear and portrait, broad opaque facial oil, readable exact heading and story title.",
+          "Clean light ivory to all edges, no scenery/floor patches/swatches/hand studies; workaday source role and personal object consistent with selected state."
+        ],
+        "specificationSha256": "9b2f8a0fce7bad1b5d27ec5440aee4f1cb8381b14a7a2ea897ed45c43e22fc21"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "379b1cd076cb6dd863979ee688c563903975a9db2fbd078978f2749fdebb7865"
+    }
+  ],
+  "sourceSha256": "8a9871e8c95f8e0a1fc66f48655270f0c75abf4e38254ff1b5f8da8ecb66e1f3"
+}
