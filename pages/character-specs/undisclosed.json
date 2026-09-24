@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "slug": "undisclosed",
+  "title": "Undisclosed",
+  "source": "stories/undisclosed/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Two named sustained protagonists: Cyril and superhero alias Daybreak. Both make decisive choices across rescue and final office confinement/release.",
+  "excludedMinorCharacters": "Eight abductees, medics, guards, officers, the man in white coat, bakery worker and child letter writer are episodic/background; no other sustained main identity.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "cyril-nabe",
+      "name": "Cyril Nabe",
+      "role": "Accountant protagonist who conceals enormous power and ultimately releases Daybreak",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "No living man or woman on the planet could compel Cyril to do anything.",
+          "explanation": "Accountant protagonist who conceals enormous power and ultimately releases Daybreak"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult man/accountant, shoes; unremarkable office presentation. Power has no defined visible body aura. Light bending makes him unseen outside; final office becomes visible. No face/costume source details beyond male."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only52, light brown skin, long plain face, tired hazel eyes, short dark hair greying at temples, no beard; pale-blue shirt charcoal slacks black ordinary shoes, no superhero costume. Cover back-of-head/formal shirt cues compatible."
+      ],
+      "states": [
+        {
+          "name": "Office before departure",
+          "description": "Adult man/accountant, shoes; unremarkable office presentation. Power has no defined visible body aura. Light bending makes him unseen outside; final office becomes visible. No face/costume source details beyond male."
+        }
+      ],
+      "lighting": "After-closing evening office: restrained warm desk lamp from one side, cool deep shadow planes; ivory folio stays light.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Cyril Nabe"
+      },
+      "status": "completed",
+      "output": "stories/undisclosed/art/characters/cyril-nabe.png",
+      "generation": {
+        "prompt": "Cyril Nabe exact folio: keep ivorybackground/heading Undisclosed, allfaces/age/bodypose/hair/clothes/envelope unchanged. RELIGHT characterpixels to dim AFTER-CLOSING EVENING OFFICE. Frontbody white-blue shirt should predominantly be dark muted BLUE-GRAY/UMBER, with only a small subdued WARM DESK-LAMP patch on nearshoulder/cuff. In EVERY head study and frontface, connected deep gray-violet shadow covers far eye/cheek/temple and mostneck; narrow quiet warm lamplight touches nose/onecheek. Hands dark except small nearestplanes. No sunny skinfill, no glowinggoldhair/edges, no magicglow. Render opaque matteoil planes as before. Lights do not darken IVORYbackground, no gradient/vignette. Identityunchanged and mundane.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c71e20e2-27d1-4690-84f9-8e99ef0270b1.png",
+            "sha256": "e0e2c61f1e0c251997780274209ffe0df2b4d6728fc7f0f835d383dcc2dc8a14",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Cyril Nabe; exact subtitle Undisclosed. Cyril Nabe52 art design, mundane male accountant long plain light-brown face, tired hazel eyes, short side-part dark hair greying temples, clean shaven. Pale blue collared shirt sleeves down, charcoal slacks, ordinary black lace shoes, no tie required. Front/rear, restrained head and hand/envelope study. Holds small cream accounts envelope casually. NO costume/muscles/halo/lightning/portal/magic glow, power does not change body appearance. After-closing EVENING office: low warm lamp touches only one face/hand plane; broad deep gray-violet shadow faces, dark shirt far side. Do not light as daylight. Ivory background all edges. Subdued connected oils.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/undisclosed/art/landscapes/01-the-bakery-below-the-office.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "99fb0d51d24f81781478dd73ab77610a7103c529d446c3fd18466494a062d8a8"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.819044+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c71e20e2-27d1-4690-84f9-8e99ef0270b1.png",
+            "outputSha256": "e0e2c61f1e0c251997780274209ffe0df2b4d6728fc7f0f835d383dcc2dc8a14",
+            "generatorReview": "Mundane identity/wardrobe/no aura pass; eveningoffice exposure too bright. Preserve ivory and relight source evening."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.389377+00:00",
+            "prompt": "Cyril Nabe exact folio: keep ivorybackground/heading Undisclosed, allfaces/age/bodypose/hair/clothes/envelope unchanged. RELIGHT characterpixels to dim AFTER-CLOSING EVENING OFFICE. Frontbody white-blue shirt should predominantly be dark muted BLUE-GRAY/UMBER, with only a small subdued WARM DESK-LAMP patch on nearshoulder/cuff. In EVERY head study and frontface, connected deep gray-violet shadow covers far eye/cheek/temple and mostneck; narrow quiet warm lamplight touches nose/onecheek. Hands dark except small nearestplanes. No sunny skinfill, no glowinggoldhair/edges, no magicglow. Render opaque matteoil planes as before. Lights do not darken IVORYbackground, no gradient/vignette. Identityunchanged and mundane.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c71e20e2-27d1-4690-84f9-8e99ef0270b1.png",
+                "sha256": "e0e2c61f1e0c251997780274209ffe0df2b4d6728fc7f0f835d383dcc2dc8a14",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Mundane identity/wardrobe/no aura pass; eveningoffice exposure too bright. Preserve ivory and relight source evening.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-f5bf5ee9-3793-4a80-a28d-9eff374c9320.png",
+            "outputSha256": "53bf446fd0e6cb630bfc6259e3d7bf53742657fbdc57199796310d3f91df8f6c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:33.380389+00:00",
+            "generatorReview": "Actual pixels inspected: mundane middle-aged accountant identity, shirt/trousers/envelope and expressions consistent. Corrected after-closing office light now casts connected dark face/shirt shadow with limited warm desk-lamp planes; no hero costume/aura. Matte broad oils, five-digit hand detail, ivory framing/exact heading/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "53bf446fd0e6cb630bfc6259e3d7bf53742657fbdc57199796310d3f91df8f6c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:33.380389+00:00",
+        "sourceSha256": "6c45123760100be5a100804c4642bcd8200bb351c15e10a759ac66fd8640f005",
+        "outputSha256": "53bf446fd0e6cb630bfc6259e3d7bf53742657fbdc57199796310d3f91df8f6c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c71e20e2-27d1-4690-84f9-8e99ef0270b1.png",
+            "sha256": "e0e2c61f1e0c251997780274209ffe0df2b4d6728fc7f0f835d383dcc2dc8a14",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: mundane middle-aged accountant identity, shirt/trousers/envelope and expressions consistent. Corrected after-closing office light now casts connected dark face/shirt shadow with limited warm desk-lamp planes; no hero costume/aura. Matte broad oils, five-digit hand detail, ivory framing/exact heading/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "fc826e96b3d8d413e251f4e90b9c4daf0ec7db61a9abfef414f1aed50f69c86f"
+      }
+    },
+    {
+      "id": "daybreak",
+      "name": "Daybreak",
+      "role": "Superhero rescue partner who refuses secrecy under threat and leaves",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The chair creaked beneath her rescue harness, the rigid frame she used to take passengers aloft.",
+          "explanation": "Superhero rescue partner who refuses secrecy under threat and leaves"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman superhero, rescue rigid-frame harness, bag, gloves stiff with dried blood, mask visible in hotel memory, rib dressing caught by harness, shoulder strap marks. White-gold light plane power. No civilian name supplied; alias suffices."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only35, medium tan muscular practical woman, black tightly braided hair at back, dark eyes/broad nose, slate-gray functional flight suit, faded ochre rescue trim, utility boots, dark eye mask. Current face no active bleeding; wounds from hotel2days prior."
+      ],
+      "states": [
+        {
+          "name": "Arrival at accountant after closing",
+          "description": "Harness ON for front/rear and bag at side. Avoid final removed-harness shoulder marks blended into this state; mask represented consistently as plausible ongoing hero equipment, not fresh hotel bleeding."
+        }
+      ],
+      "lighting": "Dim evening office lamp; practical low warm planes, deep blue-gray shadow; small light plane in separate hand study only.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Daybreak"
+      },
+      "status": "completed",
+      "output": "stories/undisclosed/art/characters/daybreak.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Daybreak, exact subtitle Undisclosed clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Correct ARRIVAL state: both main fullbody hands BARE, remove worn gloves entirely and show ordinary tan skin hands; keep bagheld naturally. Dried-blood gloves exist ONLY as ONE pair tucked at openlip of bag in detachedbagdetail, not on hands; remove duplicated additional pairs and clean unrelated bloodmarks on mainbag. Non-graphic dryred-brown marks limited to the one glove pair. Preserve rigidrescueframe and straps slategraysuit ochretrim boots darkeye mask braidedbun and exactface. RELIGHT front/rear and BOTHportraits to dim EVENING OFFICE: broad deep blue-gray/umber shadow across farcheek/eye/neck and mostsuit, small quiet warm lamp-plane only on onecheek. No daylight fill/shine. Separate barehand whitegold LIGHT PLANE remains luminous only in that detail; no wholebodyglow. Uniformivory stays light.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3c1e5d2d-0d25-439f-8a10-2df3582e39ec.png",
+            "sha256": "436b2d06de04598d58e6227baec8224b3f8f1c6bca5848ce5b3571eafe00f0f5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Daybreak; exact subtitle Undisclosed. Daybreak35 art-only adult woman, medium tan broad-nosed face dark eyes, black hair tightly braided into low coil, strong practical athletic build. Slate-gray fully clothed functional flight suit with worn ochre trim, sturdy dark utility boots, slim dark eye mask. Wear rigid rescue harness frame front/rear, matching broad shoulder/waist straps and plain metal back frame suitable carrying passengers. Arrivalafterclosing state: bag at side, dried-blood gloves ONLY as small bag-edge/object detail, non-graphic. Ribs covered under clothing, no exposed wound. Current face weary no fresh hotelblood. Front/rear same equipment plus head; small separate bare hand study supporting thin WHITE-GOLD translucent light plane, restrained not a huge halo. Dim evening office low practical warm planes, most face and suit in connected cool shadow; light ivory folio.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/undisclosed/art/landscapes/01-the-bakery-below-the-office.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "99fb0d51d24f81781478dd73ab77610a7103c529d446c3fd18466494a062d8a8"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.819684+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3c1e5d2d-0d25-439f-8a10-2df3582e39ec.png",
+            "outputSha256": "436b2d06de04598d58e6227baec8224b3f8f1c6bca5848ce5b3571eafe00f0f5",
+            "generatorReview": "Source arrival gloves are inside bag; current body wears duplicate bloodstained gloves, incorrect. Dark vignette and daytimeface also require source evening/ivory correction. Frame/identity/costume pass."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.392491+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Daybreak, exact subtitle Undisclosed clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Correct ARRIVAL state: both main fullbody hands BARE, remove worn gloves entirely and show ordinary tan skin hands; keep bagheld naturally. Dried-blood gloves exist ONLY as ONE pair tucked at openlip of bag in detachedbagdetail, not on hands; remove duplicated additional pairs and clean unrelated bloodmarks on mainbag. Non-graphic dryred-brown marks limited to the one glove pair. Preserve rigidrescueframe and straps slategraysuit ochretrim boots darkeye mask braidedbun and exactface. RELIGHT front/rear and BOTHportraits to dim EVENING OFFICE: broad deep blue-gray/umber shadow across farcheek/eye/neck and mostsuit, small quiet warm lamp-plane only on onecheek. No daylight fill/shine. Separate barehand whitegold LIGHT PLANE remains luminous only in that detail; no wholebodyglow. Uniformivory stays light.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3c1e5d2d-0d25-439f-8a10-2df3582e39ec.png",
+                "sha256": "436b2d06de04598d58e6227baec8224b3f8f1c6bca5848ce5b3571eafe00f0f5",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Source arrival gloves are inside bag; current body wears duplicate bloodstained gloves, incorrect. Dark vignette and daytimeface also require source evening/ivory correction. Frame/identity/costume pass.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-839f0854-c85d-49f8-ba99-f8d645c7dc80.png",
+            "outputSha256": "686f9eb13d06d8bc254f3732c3780904d253dc7d7fd44df2f92c4cc81eab9e4e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:33.406654+00:00",
+            "generatorReview": "Actual pixels inspected: same adult heroine identity, dark mask, slate flight suit/ochre harness and rear frame, fatigue portraits. Both main hands now bare; a single pair of dried-blood gloves rests at bag lip in bag detail, no duplicated worn gloves. Separate thin light-plane power detail stays bounded; subdued office illumination/matte oil paint, ivory/exact headings/full framing pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "686f9eb13d06d8bc254f3732c3780904d253dc7d7fd44df2f92c4cc81eab9e4e",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:33.406654+00:00",
+        "sourceSha256": "6c45123760100be5a100804c4642bcd8200bb351c15e10a759ac66fd8640f005",
+        "outputSha256": "686f9eb13d06d8bc254f3732c3780904d253dc7d7fd44df2f92c4cc81eab9e4e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3c1e5d2d-0d25-439f-8a10-2df3582e39ec.png",
+            "sha256": "436b2d06de04598d58e6227baec8224b3f8f1c6bca5848ce5b3571eafe00f0f5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same adult heroine identity, dark mask, slate flight suit/ochre harness and rear frame, fatigue portraits. Both main hands now bare; a single pair of dried-blood gloves rests at bag lip in bag detail, no duplicated worn gloves. Separate thin light-plane power detail stays bounded; subdued office illumination/matte oil paint, ivory/exact headings/full framing pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1ecb9ab69f3be31eaa5a7eed42172b6f938533579e095f19ab95f31608051e4d"
+      }
+    }
+  ],
+  "sourceSha256": "6c45123760100be5a100804c4642bcd8200bb351c15e10a759ac66fd8640f005"
+}
