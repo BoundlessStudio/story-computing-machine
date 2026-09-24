@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "slug": "every-flower-she-knew",
+  "title": "Every Flower She Knew",
+  "source": "stories/every-flower-she-knew/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source read from pre-dawn basket preparation through after-midnight patient watch and records. Safra is protagonist; the healer and channel forewoman recur in opening and closing exchanges and make consequential decisions. Millwright, watcher, fever patient and crew/neighbours are recipients/supporting functions with brief scenes.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "millwright, night watcher, fever patient, channel crew and two neighbours",
+      "reason": "Brief recipients and supporting functions; no sustained main agency across narrative."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "safra",
+      "name": "Safra",
+      "role": "protagonist, experienced solitary valley gatherer",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "For eleven flowering seasons she had gone into the valley alone.",
+          "explanation": "Sustained protagonist whose safe gathering and return resolve the story."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult with eleven seasons of experience; exact age unspecified.",
+        "clothing": "Coat, boots and shoulder straps explicit; rain on coat after return.",
+        "equipment": "Two divided willow baskets hip-to-knee, oiled covers, wax tablet inside coat, narrow scissors, bone tweezers and folding horsehair frame.",
+        "movement": "Careful deliberate walking and climbing; fatigue after full-day ridge return."
+      },
+      "visualInterpretation": [
+        "About forty, medium-brown sun-worn face, dark hair in a practical low knot, plain muted moss coat, brown trousers and worn low boots; all age/face/hair/colours non-canon visual casting.",
+        "Departure body views show two dry closed baskets worn high at the hips. Selected face is still attentive in early valley light; no scenery or loose poisonous flora."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Selected sheet state",
+          "description": "Departure in early valley light with complete balanced dry baskets."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "every-flower-she-knew:safra",
+        "links": [],
+        "evidence": "Story-local identity; no corresponding universe entry found."
+      },
+      "references": [],
+      "output": "stories/every-flower-she-knew/art/characters/safra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create ONE character-only reference folio, 1536x1024 landscape 3:2, quiet warm ivory support. Exact readable character name and story title upper left. Two complete unclipped full-body views, a large matching face and one useful personal detail; concise readable labels. No locations, furniture, scene, floor or terrain patches, plants as scenery, swatches or palette strips. One identity only. Canadian Group of Seven oil painting: large connected colour/value masses, varied directional opaque bristle strokes, quiet passages and selective substantial impasto. Facial anatomy and eyes simplified as boldly as the clothing, no smooth photographic portrait beneath texture, no uniformly bevelled chips, no anime or glossy CGI. Preserve story-motivated light; ivory background does not illuminate shadowed character planes.\nExact heading \"Safra\" and title \"Every Flower She Knew\". One ordinary human WOMAN about forty, lean strong walker, medium-brown sun-weathered skin, broad cheekbones, straight broad nose, dark brown eyes, dark hair in a compact LOW KNOT. Alert unsentimental calm. Plain muted MOSS-GREEN knee-length work coat, simple brown trousers and worn leather ankle boots, modest covered practical clothes. No fantasy robes, ornament, weapons or invented magic marks.\nTwo full-body views of SAME morning departure state: front three-quarter and rear three-quarter, labelled \"Departure\" and \"Rear\". Each has TWO large covered oval willow baskets suspended by balanced SHOULDER STRAPS, one at each HIP, broad enough hip-to-knee; oiled lids closed and dry, ordinary waxed internal dividers not exposed. Ensure straps visibly connect to baskets; two natural hands may steady them. No backpack, yoke, poles or baskets sitting on a ground patch. The two baskets need room without merging with legs.\nLarge sameface labelled \"Valley gatherer\". One small isolated tool detail: a wax writing tablet beside narrow ordinary SCISSORS and bone tweezers, label \"Harvest tools\". Do not show a collection of flowers, plant specimens or glowing magical effects; dangerous plants never touch her. All tool shapes legible, no extraneous equipment.\nImage1 is PRIMARY source-specific oil palette and early valley light: restrained cool blue-gray shadows with pale gold touching only upper facing planes, retain quiet subdued shade, no bright studio fill. Image2 supplies broad painted skin and folio spacing ONLY, never its male face, moustache or costume. No scenery from Image1. Two matching clothed adult views, intact ordinary anatomy.",
+        "references": [
+          {
+            "path": "stories/every-flower-she-knew/art/landscapes/01-dawn-between-stone-shoulders.png",
+            "role": "primary source early valley light and connected oil colour masses only; no landscape",
+            "inspected": true,
+            "sha256": "d698f1274211eeb43a4f287abde8119cdafef369cd57c8a07669543d5e00fb15"
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "broad matte painted face and ivory folio spacing only; no identity or clothing",
+            "inspected": true,
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:28:00.556532+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character-only reference folio, 1536x1024 landscape 3:2, quiet warm ivory support. Exact readable character name and story title upper left. Two complete unclipped full-body views, a large matching face and one useful personal detail; concise readable labels. No locations, furniture, scene, floor or terrain patches, plants as scenery, swatches or palette strips. One identity only. Canadian Group of Seven oil painting: large connected colour/value masses, varied directional opaque bristle strokes, quiet passages and selective substantial impasto. Facial anatomy and eyes simplified as boldly as the clothing, no smooth photographic portrait beneath texture, no uniformly bevelled chips, no anime or glossy CGI. Preserve story-motivated light; ivory background does not illuminate shadowed character planes.\nExact heading \"Safra\" and title \"Every Flower She Knew\". One ordinary human WOMAN about forty, lean strong walker, medium-brown sun-weathered skin, broad cheekbones, straight broad nose, dark brown eyes, dark hair in a compact LOW KNOT. Alert unsentimental calm. Plain muted MOSS-GREEN knee-length work coat, simple brown trousers and worn leather ankle boots, modest covered practical clothes. No fantasy robes, ornament, weapons or invented magic marks.\nTwo full-body views of SAME morning departure state: front three-quarter and rear three-quarter, labelled \"Departure\" and \"Rear\". Each has TWO large covered oval willow baskets suspended by balanced SHOULDER STRAPS, one at each HIP, broad enough hip-to-knee; oiled lids closed and dry, ordinary waxed internal dividers not exposed. Ensure straps visibly connect to baskets; two natural hands may steady them. No backpack, yoke, poles or baskets sitting on a ground patch. The two baskets need room without merging with legs.\nLarge sameface labelled \"Valley gatherer\". One small isolated tool detail: a wax writing tablet beside narrow ordinary SCISSORS and bone tweezers, label \"Harvest tools\". Do not show a collection of flowers, plant specimens or glowing magical effects; dangerous plants never touch her. All tool shapes legible, no extraneous equipment.\nImage1 is PRIMARY source-specific oil palette and early valley light: restrained cool blue-gray shadows with pale gold touching only upper facing planes, retain quiet subdued shade, no bright studio fill. Image2 supplies broad painted skin and folio spacing ONLY, never its male face, moustache or costume. No scenery from Image1. Two matching clothed adult views, intact ordinary anatomy.",
+            "references": [
+              {
+                "path": "stories/every-flower-she-knew/art/landscapes/01-dawn-between-stone-shoulders.png",
+                "role": "primary source early valley light and connected oil colour masses only; no landscape",
+                "inspected": true,
+                "sha256": "d698f1274211eeb43a4f287abde8119cdafef369cd57c8a07669543d5e00fb15"
+              },
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "broad matte painted face and ivory folio spacing only; no identity or clothing",
+                "inspected": true,
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd"
+              }
+            ],
+            "preflight": [
+              "Full finished source and authority marker read; adult woman, coat, two balanced shoulder baskets and small harvest tools supported.",
+              "Cover inspected: no facial identity. Selected valley and Caff pixels inspected; only source-light/paint and generic folio layout transfer, no Caff face or scenery.",
+              "Clear complete two-view framing fits baskets; no dangerous plant contact, magical anatomy, extra people or unsupported burden state."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e518b34e-7433-494e-b390-162fe2576560.png",
+            "finishedAt": "2026-09-24T02:29:44.563523+00:00",
+            "outputSha256": "8eaf2c3540b0a0240dca7ed2395083d88d4b7389a00caeb862a86f7ad6e241bc",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Saved pixels inspected: exact Safra/title and labels; matching adult female face in front, rear and close study with low dark hair knot, complete unclipped clothed body views and ordinary anatomy.",
+              "Two covered hip baskets and connected shoulder straps visible in each view; narrow scissors, bone tweezers and wax tablet isolated as personal tools; no exposed poison, extra people or scene.",
+              "Broad matte directional oil across skin, cloth and willow, subdued green/brown masses and cool shadow under warm early facing planes, quiet ivory background without swatches or terrain."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e518b34e-7433-494e-b390-162fe2576560.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4cc721a282571e656dd3d7434eff72af9ecf7c980cec49f2db104942b3f01066",
+        "outputSha256": "8eaf2c3540b0a0240dca7ed2395083d88d4b7389a00caeb862a86f7ad6e241bc",
+        "references": [
+          {
+            "path": "stories/every-flower-she-knew/art/landscapes/01-dawn-between-stone-shoulders.png",
+            "role": "primary source early valley light and connected oil colour masses only; no landscape",
+            "inspected": true,
+            "sha256": "d698f1274211eeb43a4f287abde8119cdafef369cd57c8a07669543d5e00fb15"
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "broad matte painted face and ivory folio spacing only; no identity or clothing",
+            "inspected": true,
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd"
+          }
+        ],
+        "evidence": [
+          "Saved pixels inspected: exact Safra/title and labels; matching adult female face in front, rear and close study with low dark hair knot, complete unclipped clothed body views and ordinary anatomy.",
+          "Two covered hip baskets and connected shoulder straps visible in each view; narrow scissors, bone tweezers and wax tablet isolated as personal tools; no exposed poison, extra people or scene.",
+          "Broad matte directional oil across skin, cloth and willow, subdued green/brown masses and cool shadow under warm early facing planes, quiet ivory background without swatches or terrain."
+        ],
+        "specificationSha256": "a165ced16020d9c7424f4b14eb4bc333bb7e3e60cbbb5957f125b7362d99d936"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "8eaf2c3540b0a0240dca7ed2395083d88d4b7389a00caeb862a86f7ad6e241bc"
+    },
+    {
+      "id": "thesra",
+      "name": "Thesra",
+      "sourceRole": "the healer",
+      "role": "substantial supporting healer, triage and safe allocation partner",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "The healer did not reach for a lid.",
+          "explanation": "Recurring opening and ending partner actively verifies clean harvest, selects care, and attends every patient."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult; exact age and face unspecified.",
+        "clothing": "No individual garment specified.",
+        "equipment": "Cloths, cup, white saucer, petals and slate used in ordinary care.",
+        "movement": "Listens, waits, counts pulse, treats, records and supports Safra."
+      },
+      "visualInterpretation": [
+        "Art-only name Thesra assigned under user instruction because finished source gives only the healer; no source or canon edit.",
+        "Older woman about sixty, dark brown skin, narrow oval face, short close gray curls, muted plum work dress and plain cream apron chosen as restrained casting.",
+        "Before-dawn herb-room light on isolated character; face/shadow masses stay dim, no cot or room."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Selected sheet state",
+          "description": "Before-dawn healer at work, candle-motivated light."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "every-flower-she-knew:thesra",
+        "links": [],
+        "evidence": "Story-local identity; no corresponding universe entry found."
+      },
+      "references": [],
+      "output": "stories/every-flower-she-knew/art/characters/thesra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: lighting-weather. Image1 is the immutable edit target. Keep its exact Thesra identity, matching faces, gray curls, two complete poses, plum dress, cream apron, cloth, single-petal saucer detail, all exact lettering and placement, and 1536x1024 warm ivory folio. Change ONLY THE LIGHT ON HER AND HER PERSONAL OBJECTS to the before-dawn candle darkness of Image2. Image1 currently reads like a brightly and evenly daylit studio; this is wrong.\nImage2 is the PRIMARY lighting reference: a tiny low candle in a shuttered room. Render all three heads with one small OFF-FRAME candle below and toward viewer-left: narrow restrained warm ochre light on near cheek/lower nose/one hand, with more than HALF each face and body forming a continuous DEEP muted plum-brown shadow. Large dark planes should connect, like the dark cabinet and doorway masses in Image2. Keep shadowed eyes ordinary, matte and mostly dark; no luminous eyes, white glints or outline rims. WHITE APRON must no longer read sunlit paper-white: in this dim state its broad value is subdued warm gray with a few small ochre candle-facing accents and deeply shadowed folds. Plum dress stays largely dark aubergine rather than evenly exposed purple. Hair should merge into connected near-black shadow with only a few gray brushplanes. Saucer stays ordinary gray-white with limited candle highlight, petal not glowing. No sun, sky-fill, daylight, upper-shoulder sparkle, golden rim, uniform beveled paint strokes or additional objects.\nPreserve bold Group of Seven directional matte oil paint, large connected value shapes and selective bristle texture. Do NOT darken the ivory background, cover the heading, add a room or candle, add floor patches, change age/face/costume, crop bodies or alter one-petal count. The NIGHT lighting belongs only to the isolated character and her held objects.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c5339338-ecc1-42f0-a9e4-b0d0f06ff20c.png",
+            "role": "immutable Thesra edit target: preserve identity, all poses, exact labels and one-petal personal detail",
+            "sha256": "85a18e3eec523b26c0af4e978b3f0c31121b7b0c29a7a5f98f99a811b292db37",
+            "inspected": true
+          },
+          {
+            "path": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+            "role": "primary source shuttered before-dawn candle light and connected dark oil palette; no room or furniture",
+            "inspected": true,
+            "sha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T02:29:44.577153+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character-only reference folio, 1536x1024 landscape 3:2, quiet warm ivory support. Exact readable character name and story title upper left. Two complete unclipped full-body views, a large matching face and one useful personal detail; concise readable labels. No locations, furniture, scene, floor or terrain patches, plants as scenery, swatches or palette strips. One identity only. Canadian Group of Seven oil painting: large connected colour/value masses, varied directional opaque bristle strokes, quiet passages and selective substantial impasto. Facial anatomy and eyes simplified as boldly as the clothing, no smooth photographic portrait beneath texture, no uniformly bevelled chips, no anime or glossy CGI. Preserve story-motivated light; ivory background does not illuminate shadowed character planes.\nExact heading \"Thesra\" and title \"Every Flower She Knew\". One ordinary human WOMAN about sixty, dark brown skin, narrow oval face, long gently hooked nose, short tightly curled iron-gray hair, brown matte eyes. Her distinct identity is wholly female and unrelated to Image2. Kind attentive reserve, not smiling theatrical saint. Plain MUTED PLUM long-sleeve work dress to ankle and simple off-white apron, dark practical low shoes. No jewelry, medical emblem, headdress, magic aura, stethoscope or fantasy healer staff.\nTwo complete views of SAME practical clothes: front three-quarter holds a folded clean cloth at waist; rear three-quarter shows apron ties and short gray curls. Labels \"Healer\" and \"Rear\". Large same face, label \"Listening\". A small isolated hand study supports a plain white SAUCER with exactly ONE amber-yellow petal, label \"One petal\". Petal is merely warm coloured, not a lamp. Natural five-finger anatomy; no patient, cot, basin, furniture or environment. Make the ivory around every study clear and quiet.\nLighting is source BEFORE DAWN in shuttered herb room. Image1 is PRIMARY palette/paint and low candlelight cue: warm ochre illumination only on the candle-facing planes on viewer-left, much of the face and plum clothing remains in connected deep muted violet-brown shadow. Do not brighten all surfaces for readability, do not add daylight or luminous rim. Ivory stays ivory. Image2 supplies matte skin brushwork and folio spacing ONLY; no Caff identity, moustache, light or outfit. Restrained natural lost edges in shadow, no uniform brightly outlined paint chips.",
+            "references": [
+              {
+                "path": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+                "role": "primary source shuttered before-dawn candle light and connected dark oil palette; no room or furniture",
+                "inspected": true,
+                "sha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d"
+              },
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "bold skin brushwork and ivory folio spacing only; no identity, clothing or lighting",
+                "inspected": true,
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd"
+              }
+            ],
+            "preflight": [
+              "Finished source names this woman only healer; Thesra art-only identity resolved and recorded before call.",
+              "Source role and white saucer/single ambercup petal supported; age, face, dress and apron declared casting, no false canon.",
+              "Inspected before-dawn room is primary paint/light anchor: strong connected shadow and selective candle light required on character, no copied room. Second sheet only brushwork/layout, no identity or daylight."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c5339338-ecc1-42f0-a9e4-b0d0f06ff20c.png",
+            "finishedAt": "2026-09-24T02:31:27.399609+00:00",
+            "outputSha256": "85a18e3eec523b26c0af4e978b3f0c31121b7b0c29a7a5f98f99a811b292db37",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": [
+              "Actual candidate inspected: name/title, distinct mature female identity, ordinary body and single petal detail pass. Lighting remains overly broad/even; white apron and face read daylight/studio despite before-dawn state. Targeted lighting revision required."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:31:27.399641+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lighting-edit",
+            "prompt": "Use case: lighting-weather. Image1 is the immutable edit target. Keep its exact Thesra identity, matching faces, gray curls, two complete poses, plum dress, cream apron, cloth, single-petal saucer detail, all exact lettering and placement, and 1536x1024 warm ivory folio. Change ONLY THE LIGHT ON HER AND HER PERSONAL OBJECTS to the before-dawn candle darkness of Image2. Image1 currently reads like a brightly and evenly daylit studio; this is wrong.\nImage2 is the PRIMARY lighting reference: a tiny low candle in a shuttered room. Render all three heads with one small OFF-FRAME candle below and toward viewer-left: narrow restrained warm ochre light on near cheek/lower nose/one hand, with more than HALF each face and body forming a continuous DEEP muted plum-brown shadow. Large dark planes should connect, like the dark cabinet and doorway masses in Image2. Keep shadowed eyes ordinary, matte and mostly dark; no luminous eyes, white glints or outline rims. WHITE APRON must no longer read sunlit paper-white: in this dim state its broad value is subdued warm gray with a few small ochre candle-facing accents and deeply shadowed folds. Plum dress stays largely dark aubergine rather than evenly exposed purple. Hair should merge into connected near-black shadow with only a few gray brushplanes. Saucer stays ordinary gray-white with limited candle highlight, petal not glowing. No sun, sky-fill, daylight, upper-shoulder sparkle, golden rim, uniform beveled paint strokes or additional objects.\nPreserve bold Group of Seven directional matte oil paint, large connected value shapes and selective bristle texture. Do NOT darken the ivory background, cover the heading, add a room or candle, add floor patches, change age/face/costume, crop bodies or alter one-petal count. The NIGHT lighting belongs only to the isolated character and her held objects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c5339338-ecc1-42f0-a9e4-b0d0f06ff20c.png",
+                "role": "immutable Thesra edit target: preserve identity, all poses, exact labels and one-petal personal detail",
+                "sha256": "85a18e3eec523b26c0af4e978b3f0c31121b7b0c29a7a5f98f99a811b292db37",
+                "inspected": true
+              },
+              {
+                "path": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+                "role": "primary source shuttered before-dawn candle light and connected dark oil palette; no room or furniture",
+                "inspected": true,
+                "sha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d"
+              }
+            ],
+            "preflight": [
+              "Candidate image and actual source room rechecked: connected darkness missing on character, not an identity issue.",
+              "Remove generic daylight anchor from edit dependencies; retain immutable target and source candle room only.",
+              "Complete correction prompt preserves ivory, readable text, anatomy and exact identity, relights character/objects only."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1c5100be-fe83-40c4-8691-e2e725336192.png",
+            "finishedAt": "2026-09-24T02:33:10.162738+00:00",
+            "outputSha256": "8e893011a1863c8a870e19888bcf78f2bb109a756778a72bae2c13a33100df81",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected output inspected: mature named female identity, short iron-gray curls, exact readable name/title/labels, matching complete front/rear and face views preserved.",
+              "Candle correction now leaves connected deep brown-violet shadow over most face, hair and dress; small low warm accents and subdued gray apron/saucer replace even studio light. Ivory remains clear and heading unobscured.",
+              "One ordinary amber petal on white saucer, folded cloth and natural hand anatomy; no magical glow, environment, floor, extra people, swatches or crop."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1c5100be-fe83-40c4-8691-e2e725336192.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4cc721a282571e656dd3d7434eff72af9ecf7c980cec49f2db104942b3f01066",
+        "outputSha256": "8e893011a1863c8a870e19888bcf78f2bb109a756778a72bae2c13a33100df81",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c5339338-ecc1-42f0-a9e4-b0d0f06ff20c.png",
+            "role": "immutable Thesra edit target: preserve identity, all poses, exact labels and one-petal personal detail",
+            "sha256": "85a18e3eec523b26c0af4e978b3f0c31121b7b0c29a7a5f98f99a811b292db37",
+            "inspected": true
+          },
+          {
+            "path": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+            "role": "primary source shuttered before-dawn candle light and connected dark oil palette; no room or furniture",
+            "inspected": true,
+            "sha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d"
+          }
+        ],
+        "evidence": [
+          "Actual corrected output inspected: mature named female identity, short iron-gray curls, exact readable name/title/labels, matching complete front/rear and face views preserved.",
+          "Candle correction now leaves connected deep brown-violet shadow over most face, hair and dress; small low warm accents and subdued gray apron/saucer replace even studio light. Ivory remains clear and heading unobscured.",
+          "One ordinary amber petal on white saucer, folded cloth and natural hand anatomy; no magical glow, environment, floor, extra people, swatches or crop."
+        ],
+        "specificationSha256": "00a25376051f75f8cab622d9be1f65f1e99194efe4e3304b86d31b1c6c2e7ca6"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the healer",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "No Thesra or Kadren matches in stories/NAMES.md, character specifications or universe; finished source and current outline/review provide role only."
+      },
+      "outputSha256": "8e893011a1863c8a870e19888bcf78f2bb109a756778a72bae2c13a33100df81"
+    },
+    {
+      "id": "kadren",
+      "name": "Kadren",
+      "sourceRole": "the channel forewoman",
+      "role": "substantial supporting work leader, storm-channel labour and resource decisions",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Four bodies. Two hours. We clear the choke, then they come off.",
+          "explanation": "Opening and ending decision-maker whose crew execution resolves flooding pressure."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult; exact age, face and hair unspecified.",
+        "clothing": "Mud streaks sleeves to elbow after channel work; practical working attire otherwise unspecified.",
+        "equipment": "Marked bone knife used to halve redspur stamens; does not carry a weapon.",
+        "movement": "Tests basket balance, counts available labour, divides doses, returns with exhausted crew."
+      },
+      "visualInterpretation": [
+        "Art-only name Kadren assigned under user naming authorization to source channel forewoman; no source or canon edit.",
+        "Stocky woman about forty-five with tawny skin, broad square short face, broad blunt nose, straight heavy eyebrows and short straight jet-black cropped pixie; ochre work coat, slate trousers and worn boots, chosen visual interpretation.",
+        "Return-from-channel clothes have dry/wet mud marks to elbows; knife stays isolated ordinary dividing tool, no extra combat or medical props."
+      ],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Selected sheet state",
+          "description": "Before-midnight return from channel work, muddy sleeves and restrained candle light."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "every-flower-she-knew:kadren",
+        "links": [],
+        "evidence": "Story-local identity; no corresponding universe entry found."
+      },
+      "references": [],
+      "output": "stories/every-flower-she-knew/art/characters/kadren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: precise-object-edit. Image1 is the complete Kadren sheet. KEEP the exact name/title/labels, overall layout, two body poses, stocky female proportions, ochre muddy work jacket, slate trousers, boots, hand anatomy, knife and four red halves, dark candle-motivated illumination and ivory background. Correct ONLY her HEAD IDENTITY consistently in all three views, because current gray wavy hair/long face resembles the older healer too closely.\nKADREN is one distinct human adult WOMAN about forty-five. Give her a clearly BROAD SQUARE head and jaw, shorter cheek-to-chin distance, broad flat cheekbones, wide short blunt nose, wide firm mouth, heavier straight horizontal eyebrows. Keep female adult facial anatomy, no facial hair. Hair must be SHORT, STRAIGHT, JET-BLACK in a practical cropped pixie: close straight strands swept diagonally over the forehead, short at nape, NO curls, waves, gray temples or salt-and-pepper hair. Do not simply recolour the same wavy gray hairstyle. Make the face less lined and rounder/broader in silhouette than the long narrow older face currently shown, while retaining tired concentration and normal small matte brown eyes. Apply the same skull, nose, mouth, eyebrows and straight black haircut to front-body, rear-profile and large face. No age-change state: same woman in all views.\nPreserve the achieved connected deep candle shadows, narrow warm planes, broad matte Group of Seven oils including facial planes and quiet warm ivory. Do not add an extra person, change costumes or clothing colours, move the props, invent a scar, brighten the lighting or change text.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd85a73b-ee3c-45ad-b614-ab1a00eabd6f.png",
+            "role": "immutable Kadren edit target preserving body/costume/light/props/layout; correct only distinct head identity",
+            "sha256": "804ac9f29f13af9298e8fa111ca9fe504ad943010a97dc3097a30999703d2d0e",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T02:33:10.175378+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create ONE character-only reference folio, 1536x1024 landscape 3:2, quiet warm ivory support. Exact readable character name and story title upper left. Two complete unclipped full-body views, a large matching face and one useful personal detail; concise readable labels. No locations, furniture, scene, floor or terrain patches, plants as scenery, swatches or palette strips. One identity only. Canadian Group of Seven oil painting: large connected colour/value masses, varied directional opaque bristle strokes, quiet passages and selective substantial impasto. Facial anatomy and eyes simplified as boldly as the clothing, no smooth photographic portrait beneath texture, no uniformly bevelled chips, no anime or glossy CGI. Preserve story-motivated light; ivory background does not illuminate shadowed character planes.\nExact heading \"Kadren\" and title \"Every Flower She Knew\". One ordinary human WOMAN about forty-five, solid stocky build and muscular working forearms, tawny medium skin, broad SQUARE face, blunt nose, cropped straight black hair with a few gray threads. Deep-set dark matte eyes and a firm tired mouth. Distinct from other cast, do not copy Image2 male face. Plain ochre-brown canvas work coat with sleeves rolled just below elbows, slate-blue sturdy trousers and worn plain dark brown work boots. MUD streaks the sleeves to elbows and marks hands and boots. No uniform rank badge, armour, sword, fantasy belt or invented injury.\nTwo complete isolated same-state views labelled \"Channel forewoman\" and \"Rear\": front three-quarter rests ordinary rough hands loosely apart, rear three-quarter with same cropped hair and practical attire. Large same face labelled \"Counting the crew\", weary concentration. Small isolated personal-equipment detail: plain marked BONE KNIFE beside FOUR short red half-stamens on a tiny PAPER SQUARE, label \"Four halves\". No extra hand in detail, bouquet, glowing power, plant scenery or table. Knife a small blunt-ended dose-dividing implement, not a weapon. Natural five-finger hands in body views.\nLighting matches source returned crew in herb-room doorway BEFORE MIDNIGHT: Image1 primary candle palette. Dim restrained warm ochre touches only a few front/left facing planes; deep connected brown-violet shadows on far face and body. Ivory field stays warm ivory, not a nighttime room. Do not make daylight or universal glowing edges. Image2 is the corrected Thesra folio: use its connected candle darkness, bold matte paint and ivory spacing ONLY, never her narrow face, gray curls, plum dress or apron. Kadren must be visually distinct. Preserve at least half each face and body in continuous deep brown-violet shadow, only small near planes candle-lit, no even all-over fill. Broad painted face same decisive abstraction as cloth, no polished eyes.",
+            "references": [
+              {
+                "path": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
+                "role": "source herb-room candle palette and deep connected oil shadow masses; story night return has same limited candle light, no room",
+                "inspected": true,
+                "sha256": "2489b91bc9fc0bb3c761f72d926f14aee64756d518b092fd1b7acc274d8f762d"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1c5100be-fe83-40c4-8691-e2e725336192.png",
+                "role": "corrected connected candle darkness, broad matte paint and folio spacing only; no Thesra face, curls, costume or props",
+                "sha256": "8e893011a1863c8a870e19888bcf78f2bb109a756778a72bae2c13a33100df81",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source: female forewoman, muddy sleeves, ordinary work, redspur division with marked bone knife; all supported. Art-only Kadren name recorded, no source change.",
+              "Actual source candle room and corrected Thesra sheet inspected. Secondary anchor deliberately replaced even daylight Caff to preserve night light without copying identity.",
+              "Prepared prompt simplified isolated personal dose tool detail to four halves on paper, avoiding unnecessary crossed hands; complete body views, distinct cropped dark hair/square face/stocky build fit."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd85a73b-ee3c-45ad-b614-ab1a00eabd6f.png",
+            "finishedAt": "2026-09-24T02:35:42.872167+00:00",
+            "outputSha256": "804ac9f29f13af9298e8fa111ca9fe504ad943010a97dc3097a30999703d2d0e",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": [
+              "Actual output inspected: night candle values, full body poses, work clothes and four-halves tool detail pass. Gray wavy hair and long face drift too near Thesra despite distinct square face/straight black hair brief. Revise head identity in every view."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:35:42.872192+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-identity-correction",
+            "prompt": "Use case: precise-object-edit. Image1 is the complete Kadren sheet. KEEP the exact name/title/labels, overall layout, two body poses, stocky female proportions, ochre muddy work jacket, slate trousers, boots, hand anatomy, knife and four red halves, dark candle-motivated illumination and ivory background. Correct ONLY her HEAD IDENTITY consistently in all three views, because current gray wavy hair/long face resembles the older healer too closely.\nKADREN is one distinct human adult WOMAN about forty-five. Give her a clearly BROAD SQUARE head and jaw, shorter cheek-to-chin distance, broad flat cheekbones, wide short blunt nose, wide firm mouth, heavier straight horizontal eyebrows. Keep female adult facial anatomy, no facial hair. Hair must be SHORT, STRAIGHT, JET-BLACK in a practical cropped pixie: close straight strands swept diagonally over the forehead, short at nape, NO curls, waves, gray temples or salt-and-pepper hair. Do not simply recolour the same wavy gray hairstyle. Make the face less lined and rounder/broader in silhouette than the long narrow older face currently shown, while retaining tired concentration and normal small matte brown eyes. Apply the same skull, nose, mouth, eyebrows and straight black haircut to front-body, rear-profile and large face. No age-change state: same woman in all views.\nPreserve the achieved connected deep candle shadows, narrow warm planes, broad matte Group of Seven oils including facial planes and quiet warm ivory. Do not add an extra person, change costumes or clothing colours, move the props, invent a scar, brighten the lighting or change text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd85a73b-ee3c-45ad-b614-ab1a00eabd6f.png",
+                "role": "immutable Kadren edit target preserving body/costume/light/props/layout; correct only distinct head identity",
+                "sha256": "804ac9f29f13af9298e8fa111ca9fe504ad943010a97dc3097a30999703d2d0e",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Compared actual Kadren and Thesra candidate faces: wavy gray hair/long face too similar; clothing alone insufficient.",
+              "Correction uses only immutable Kadren target, drops the unrelated face anchor, explicitly replaces head geometry/hair consistently.",
+              "Maintains source-compatible adult woman, no new scar or canon trait, exact props/state/light unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd6d48ea-8eb4-4841-82ba-2ee5504dc0a6.png",
+            "finishedAt": "2026-09-24T02:38:18.712009+00:00",
+            "outputSha256": "36724dba8c09428a799e2f1a33553a2b024cacb0b014cfc220c3f1fa9f01af6c",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: Kadren has consistent broad square short face, wider blunt nose, straighter heavy brows and straight jet-black cropped pixie in every view, visibly distinct from older narrow-faced gray-curled Thesra.",
+              "Exact readable Kadren/title/labels, full stocky adult woman front/rear views, mud-marked ochre coat, slate trousers, practical boots and ordinary anatomy preserved.",
+              "Four red half-stamens and small marked bone knife isolated on paper; no invented weapon or magic effects. Connected deep candle shadow and restrained warm planes remain, clear ivory ground without location, floor patches or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd6d48ea-8eb4-4841-82ba-2ee5504dc0a6.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "4cc721a282571e656dd3d7434eff72af9ecf7c980cec49f2db104942b3f01066",
+        "outputSha256": "36724dba8c09428a799e2f1a33553a2b024cacb0b014cfc220c3f1fa9f01af6c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bd85a73b-ee3c-45ad-b614-ab1a00eabd6f.png",
+            "role": "immutable Kadren edit target preserving body/costume/light/props/layout; correct only distinct head identity",
+            "sha256": "804ac9f29f13af9298e8fa111ca9fe504ad943010a97dc3097a30999703d2d0e",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: Kadren has consistent broad square short face, wider blunt nose, straighter heavy brows and straight jet-black cropped pixie in every view, visibly distinct from older narrow-faced gray-curled Thesra.",
+          "Exact readable Kadren/title/labels, full stocky adult woman front/rear views, mud-marked ochre coat, slate trousers, practical boots and ordinary anatomy preserved.",
+          "Four red half-stamens and small marked bone knife isolated on paper; no invented weapon or magic effects. Connected deep candle shadow and restrained warm planes remain, clear ivory ground without location, floor patches or swatches."
+        ],
+        "specificationSha256": "27429b095bccb530c5e181a2f0ec9b403dca9965b81bd6658a2b454742d4e4db"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the channel forewoman",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "No Thesra or Kadren matches in stories/NAMES.md, character specifications or universe; finished source and current outline/review provide role only."
+      },
+      "outputSha256": "36724dba8c09428a799e2f1a33553a2b024cacb0b014cfc220c3f1fa9f01af6c"
+    }
+  ],
+  "sourceSha256": "4cc721a282571e656dd3d7434eff72af9ecf7c980cec49f2db104942b3f01066"
+}
