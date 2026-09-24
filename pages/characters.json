@@ -2442,6 +2442,108 @@
       ]
     },
     {
+      "slug": "fourth-house",
+      "title": "The Fourth House",
+      "reader": "stories/fourth-house.html",
+      "images": [
+        {
+          "id": "beral-quor",
+          "title": "Beral Quor",
+          "alt": "Sculpted Impasto character reference sheet of Beral Quor for The Fourth House",
+          "source": "stories/fourth-house/art/characters/beral-quor.png",
+          "sourceSha256": "debaf4f8fcebf42b6e9cc9278fe4f5750b72ab12df45dfbc48766129e3ae2917",
+          "full": {
+            "path": "characters/fourth-house/beral-quor-debaf4f8fcebf42b.webp",
+            "sha256": "9c8f57bb9c9b4f1a43deb929ac98e1161abb386ceeef581c5603f70b59cdf900",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/fourth-house/beral-quor-debaf4f8fcebf42b-thumb.webp",
+            "sha256": "f84e50fa8ecfb3bf4ff8136b835f81f23fc1ca1167eb5f33b0228ad256f2faaa",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "ishket",
+          "title": "Ishket",
+          "alt": "Sculpted Impasto character reference sheet of Ishket for The Fourth House",
+          "source": "stories/fourth-house/art/characters/ishket.png",
+          "sourceSha256": "219651e50f8f738908de6686848c1778ed359ad302e096c879781cca86d26e96",
+          "full": {
+            "path": "characters/fourth-house/ishket-219651e50f8f7389.webp",
+            "sha256": "9a33b24dddc43fab20ce7e9c713f8ff74b3c413b32bbf41ce9a464602c2eb155",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/fourth-house/ishket-219651e50f8f7389-thumb.webp",
+            "sha256": "e5327d46cffd8ba70ac428ef2ba036aa901bed1f2e499226b437571e50a4f3df",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pelmara-jossan",
+          "title": "Pelmara Jossan",
+          "alt": "Sculpted Impasto character reference sheet of Pelmara Jossan for The Fourth House",
+          "source": "stories/fourth-house/art/characters/pelmara-jossan.png",
+          "sourceSha256": "8cdfb27fa12f4fd6e1a0699c42d1a09178ff667a11743ee2a1f4bd24a167bd34",
+          "full": {
+            "path": "characters/fourth-house/pelmara-jossan-8cdfb27fa12f4fd6.webp",
+            "sha256": "cf3d36d0c81469ef71419627719edbbeb6fe6a6e6999801b910f1f8ba843f7e4",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/fourth-house/pelmara-jossan-8cdfb27fa12f4fd6-thumb.webp",
+            "sha256": "4ae9db4890e89b87441f20426ebac220f5de8245fbea042f2cc90366268fc3a6",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "uvena",
+          "title": "Uvena",
+          "alt": "Sculpted Impasto character reference sheet of Uvena for The Fourth House",
+          "source": "stories/fourth-house/art/characters/uvena.png",
+          "sourceSha256": "dd55782380343ddde26494c3c4ac44573b0dc886fa20cac8dae051fc710a79ce",
+          "full": {
+            "path": "characters/fourth-house/uvena-dd55782380343ddd.webp",
+            "sha256": "179e52b0615f66fd706f40f36c8aaaf00ca1ef569a753bcc8c6e540ad41972c8",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/fourth-house/uvena-dd55782380343ddd-thumb.webp",
+            "sha256": "6c113ce44c32be5ec550523d1d79a3affd2020195f029ca240d7bd2a694a3237",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "zorevi-nask",
+          "title": "Zorevi Nask",
+          "alt": "Sculpted Impasto character reference sheet of Zorevi Nask for The Fourth House",
+          "source": "stories/fourth-house/art/characters/zorevi-nask.png",
+          "sourceSha256": "2fc269c07c44bafea29c2d2d070f4b1126b3a37f806a52fd89d28b15f772f4af",
+          "full": {
+            "path": "characters/fourth-house/zorevi-nask-2fc269c07c44bafe.webp",
+            "sha256": "3915d2e662bbe61881dde315d9dbe82665c3778ec2ea8a0d3944a2769e0c275f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/fourth-house/zorevi-nask-2fc269c07c44bafe-thumb.webp",
+            "sha256": "82c57ca0bd0d9efd2e000105de54efd3e533445fd44854237615a949b9f532b8",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "a-throne-neither-wanted",
       "title": "The Throne Neither of Us Wanted",
       "reader": "stories/a-throne-neither-wanted.html",
