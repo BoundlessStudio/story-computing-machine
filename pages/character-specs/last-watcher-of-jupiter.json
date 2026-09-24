@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "slug": "last-watcher-of-jupiter",
+  "title": "The Last Watcher of Jupiter",
+  "source": "stories/last-watcher-of-jupiter/story.md",
+  "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose read through relief-tug wait. Five named sustained agents: Varai, Idris, Naveen, Romesh and Nadja drive successive diagnosis, controlled rescue and handoff.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Other numbered pilots, maintenance chief/workers, medical staff and relief watch",
+      "reason": "Functional ensemble/brief reports without sustained individuated role."
+    },
+    {
+      "name": "Jovian electroplasma organism and Cairn mecha",
+      "reason": "Organism is living hazard with intelligence unestablished; machines are piloted equipment. Neither is assigned human speech, hidden intent or character identity."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; no exact names or Jupiter/Jovian Station universe entry found.",
+    "Source expressly leaves organism intelligence and deep signal origin/intent unknown.",
+    "Original supplied reference recovered, exact bytes inspected; source prose overrides conflicting historical cover/original design."
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "varai-tzur",
+      "name": "Varai Tzur",
+      "sourceIdentityId": "varai-tzur",
+      "role": "Veteran Cairn Nine pilot",
+      "selectionEvidence": [
+        {
+          "quote": "Eight years with the analog integrator",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "Varai pressed two fingers to the rim of her collar.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 23
+        },
+        {
+          "quote": "Varai remained strapped inside dark Cairn Nine",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 437
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman; trained pilot, ordinary body.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Sealed pressure suit with collar, gloves and harness in cockpit.",
+        "equipment": "Cairn Nine controls, coolant wheel and suit feeds are equipment, not bodily powers.",
+        "scale": "Adult human.",
+        "movement": "Anticipatory manual control; braces and reaches at cooldown.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible tan skin, short dark bob, strong oval face; apparent late30s/40s as visual interpretation.",
+        "Practical fully CLOSED charcoal pressure suit with bone-grey protective patches, collar sealing ring, gloves/boots; no low-cut cover zipper. Helmet held as equipment study, sealed-worn state separate."
+      ],
+      "states": [
+        {
+          "label": "On watch",
+          "description": "Closed pressure suit and focused pilot."
+        },
+        {
+          "label": "Safe offline",
+          "description": "Exhaustion and dark-cabin relief; no supernatural effect."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "last-watcher-of-jupiter:varai-tzur",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/last-watcher-of-jupiter/title-image.jpg",
+          "sha256": "b74648f81ef3c5a321f6c4169f257c1adaa83b25ee67afd8a4f01a97526ef8a0",
+          "role": "Protagonist face/short dark hair only; prose overrides open collar; no other identities or cover rendering",
+          "inspected": true,
+          "notes": "Tan short-dark-haired adult woman in grey/black suit; cover's open collar conflicts with sealed watch suit. Source controls."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "role": "Group of Seven oils and restrained reflected Jovian amber/cool canopy shadow only; no environment",
+          "inspected": true,
+          "notes": "Large muted warm reflected planes on metal amid cool near-black shadows."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "role": "Dark final-cooldown illumination and opaque oil handling only; no machinery in sheet",
+          "inspected": true,
+          "notes": "Dead console and black-blue cabin with narrow reflected rust/cream Jovian light."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+          "inspected": true,
+          "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 556,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/last-watcher-of-jupiter/art/characters/varai-tzur.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:47:21.734793+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only oil reference folio on plain unshaded warm IVORY. Exact upper-left heading \"Varai Tzur\", smaller title \"The Last Watcher of Jupiter\". One woman only, repeated studies of the SAME recognizable adult face.\n\nUse input2's TAN adult pilot, short tousled BLACK BOB, strong angular/oval cheek planes, dark eyebrows/eyes, sturdy athletic adult body, apparent late30s/40s. Match facial structure directly, reinterpreted completely in opaque oil. Human, no cybernetic body. Practical black/charcoal pressure suit with worn BONE-GREY shoulder, thigh and shin guards, gloves and heavy black boots. FINISHED STORY IS ON WATCH: zipper CLOSED fully to a high sealed neck/collar ring; no cleavage or open front from reference. Main three full unclipped front/side/back standing equipment views left/centre, ordinary weight distribution, SAME closed suit and head size. Her short hair clear in the main helmet-off identification views. Right upper same face \"On watch\", taut attention; right lower same face \"Safe offline\", fatigued relief. Small separate helmet equipment study: white-grey rim, dark curved visor. Helmet is personal equipment only; no weapon, wings, sword, jewellery, mecha body, floating visor interface or glossy heroic effects.\n\nLIGHTING controls the result. Input1 is PRIMARY for broad oil and the story's dark enclosed cockpit at cooldown: MOST of EVERY suit/face/hair study is connected muted charcoal, indigo-grey and umber shadow. Restrained reflected Jupiter rust/cream reaches only a narrow cheek plane and selected near glove/guard planes. Grey armour is mostly muted dark grey, NOT broad white studio plates; face far cheek and forehead retain deep cool shadow, eyes matte and readable. No broad daylight, bright hangar illumination, tracing rim, orange-blue glamour or spotlights. Ivory sheet remains light and unchangedâ€”do not darken background.\n\nInput3 controls consistent ivory folio/large painted human masses/dim figure values ONLY. Do not borrow older man's face, bald head, beard, apron or wrench. Canadian Group of Seven oil language: broad simplified connected shapes, varied directional opaque strokes, selective substantial impasto, quiet shadow passages. Skin/hair/hands painted as decisively as cloth/metal; no smooth CGI/photo/anime face beneath texture, no uniform shiny bevelled chips. Exact text readable. No location, planet, stars, interior, floor/contact shadows, ground patches, scenery, swatches or palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+                "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+                "inspected": true,
+                "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+                "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+                "inspected": true,
+                "role": "Exact original Varai face/hair/body and suit family only; source requires closed high collar, no scene"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+                "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d",
+                "inspected": true,
+                "role": "Ivory folio, broad oil figure masses and dim modelling only; no male identity/apron/tool"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c9474904-70bf-46a5-8bfa-db489b0f42c4.png",
+            "returnedSha256": "e4bcdc3acc176c6fa9acb47a5d0e0d84328254452cab1849bb385a920ee037d9",
+            "completedAt": "2026-09-24T04:49:48.382675+00:00",
+            "review": "Face, short black hair, closed pressure suit, consistent repeated anatomy, helmet and text pass. REVISE lighting: bright broad grey plates/forehead and overall even light read studio/hangar, not dark closed cockpit. Reduce reflected light to narrow near planes; retain large dark cool facial and equipment shadow. Calm uniformly small chipped highlights."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:49:49.330966+00:00",
+            "status": "PASS",
+            "prompt": "Correct ONLY illumination and paint massing on this exact Varai Tzur folio. PRESERVE her identity, short black bob, anatomy, all poses, closed collar zipper/pressure suit, hard-guard shapes, straps, boots, helmet, lettering and layout.\n\nShe is in a DARK COCKPIT at cooldown, with a small amount of reflected Jupiter light through the canopy. Cover most of EVERY face, forehead, suit, white-grey guard and helmet in LARGE CONNECTED DARK indigo-grey/umber shadows. The far half of each face and most forehead remain visibly dark, features readable but dim. Grey plates must be predominantly DARK grey; the entire rear suit is subdued, only a few narrow amber/cream streaks. Lower the broad bright near-cheek/armour/helmet areas; a restricted dull rust/cream reflection reaches one cheek edge, one glove plane and a few near guard edges only. NO outlined rim. White fabric/paint local hue may remain identifiable in shadow without being bright.\n\nReduce tiny scattered bright chips: join neighboring same-value shadow strokes into broader calm opaque oil planes across skin and suit. Selective substantial impasto only on the few light strokes. Keep forceful directional oil painting, not flat vector blocking, not glossy photorealism, and keep facial resemblance.\n\nKeep IVORY PAGE LIGHT/PLAIN and ALL exact text unchanged: \"Varai Tzur\", \"The Last Watcher of Jupiter\", \"On watch\", \"Safe offline\". Do not darken background, add vignette, scene, lights, floor/contact shadows, swatches or other person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c9474904-70bf-46a5-8bfa-db489b0f42c4.png",
+                "sha256": "e4bcdc3acc176c6fa9acb47a5d0e0d84328254452cab1849bb385a920ee037d9",
+                "role": "Immutable exact Varai target; lighting and paint-quieting correction only",
+                "inspected": true
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "returnedSha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "completedAt": "2026-09-24T04:52:26.017233+00:00",
+            "review": [
+              "Actual pixels reviewed against original: same tan adult short-black-bob face across front/side and both portraits, human anatomy, and consistent closed black/grey pilot suit.",
+              "Finished-prose watch suit seals to high collar; grey guards and helmet remain equipment, no mecha body or source-incompatible open zipper.",
+              "Dark-cockpit lighting now dominates face/guards/helmet with connected cool charcoal shadows and restricted cream/rust reflection; ivory page remains light.",
+              "Exact name/title and labels readable; opaque oil planes on faces/suit, natural hands, full unclipped views, no scenery/floor patches/swatches."
+            ]
+          }
+        ],
+        "prompt": "Correct ONLY illumination and paint massing on this exact Varai Tzur folio. PRESERVE her identity, short black bob, anatomy, all poses, closed collar zipper/pressure suit, hard-guard shapes, straps, boots, helmet, lettering and layout.\n\nShe is in a DARK COCKPIT at cooldown, with a small amount of reflected Jupiter light through the canopy. Cover most of EVERY face, forehead, suit, white-grey guard and helmet in LARGE CONNECTED DARK indigo-grey/umber shadows. The far half of each face and most forehead remain visibly dark, features readable but dim. Grey plates must be predominantly DARK grey; the entire rear suit is subdued, only a few narrow amber/cream streaks. Lower the broad bright near-cheek/armour/helmet areas; a restricted dull rust/cream reflection reaches one cheek edge, one glove plane and a few near guard edges only. NO outlined rim. White fabric/paint local hue may remain identifiable in shadow without being bright.\n\nReduce tiny scattered bright chips: join neighboring same-value shadow strokes into broader calm opaque oil planes across skin and suit. Selective substantial impasto only on the few light strokes. Keep forceful directional oil painting, not flat vector blocking, not glossy photorealism, and keep facial resemblance.\n\nKeep IVORY PAGE LIGHT/PLAIN and ALL exact text unchanged: \"Varai Tzur\", \"The Last Watcher of Jupiter\", \"On watch\", \"Safe offline\". Do not darken background, add vignette, scene, lights, floor/contact shadows, swatches or other person.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c9474904-70bf-46a5-8bfa-db489b0f42c4.png",
+            "sha256": "e4bcdc3acc176c6fa9acb47a5d0e0d84328254452cab1849bb385a920ee037d9",
+            "role": "Immutable exact Varai target; lighting and paint-quieting correction only",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:52:26.017233+00:00",
+        "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+        "outputSha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c9474904-70bf-46a5-8bfa-db489b0f42c4.png",
+            "sha256": "e4bcdc3acc176c6fa9acb47a5d0e0d84328254452cab1849bb385a920ee037d9",
+            "role": "Immutable exact Varai target; lighting and paint-quieting correction only",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed against original: same tan adult short-black-bob face across front/side and both portraits, human anatomy, and consistent closed black/grey pilot suit.",
+          "Finished-prose watch suit seals to high collar; grey guards and helmet remain equipment, no mecha body or source-incompatible open zipper.",
+          "Dark-cockpit lighting now dominates face/guards/helmet with connected cool charcoal shadows and restricted cream/rust reflection; ivory page remains light.",
+          "Exact name/title and labels readable; opaque oil planes on faces/suit, natural hands, full unclipped views, no scenery/floor patches/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "84584dafe17607cdd5f3138392cc347136769c8313a9169cc129a6e3dd1f5633"
+      },
+      "outputSha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c"
+    },
+    {
+      "id": "idris-pawel",
+      "name": "Idris Pawel",
+      "sourceIdentityId": "idris-pawel",
+      "role": "Jovian Station commander",
+      "selectionEvidence": [
+        {
+          "quote": "Idris Pawel said from station command.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 21
+        },
+        {
+          "quote": "The station commander had thirteen thousand people behind his risk windows",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 191
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man; source male pronouns.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Appearance not specified in prose.",
+        "equipment": "Command communications and risk-window displays.",
+        "scale": "Adult human.",
+        "movement": "Measured instructions, confirmation, hold under occupied-sector risk.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent50s, deep brown skin, broad face, close-cropped black-grey hair, clean-shaven, medium stocky frame; all optional visual design.",
+        "Plain navy station-duty coverall with grey shoulder seam, soft boots and compact comms earpiece; no royal/military medals or weapons.",
+        "Selected pixels place the headset consistently on anatomical right, opposite the initial prompt suggestion. Side is not source-bound; selected right-ear placement is accepted as art design and future continuity anchor."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "last-watcher-of-jupiter:idris-pawel",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/last-watcher-of-jupiter/title-image.jpg",
+          "sha256": "b74648f81ef3c5a321f6c4169f257c1adaa83b25ee67afd8a4f01a97526ef8a0",
+          "role": "Protagonist face/short dark hair only; prose overrides open collar; no other identities or cover rendering",
+          "inspected": true,
+          "notes": "Tan short-dark-haired adult woman in grey/black suit; cover's open collar conflicts with sealed watch suit. Source controls."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "role": "Group of Seven oils and restrained reflected Jovian amber/cool canopy shadow only; no environment",
+          "inspected": true,
+          "notes": "Large muted warm reflected planes on metal amid cool near-black shadows."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "role": "Dark final-cooldown illumination and opaque oil handling only; no machinery in sheet",
+          "inspected": true,
+          "notes": "Dead console and black-blue cabin with narrow reflected rust/cream Jovian light."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+          "inspected": true,
+          "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 556,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/last-watcher-of-jupiter/art/characters/idris-pawel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:52:28.132477+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only oil reference folio on plain light warm IVORY. Exact heading \"Idris Pawel\", smaller exact title \"The Last Watcher of Jupiter\". One DISTINCT human man, the station commander.\n\nApparent 50s, deep BROWN skin, broad square face, broad nose, heavy level brows, close-cropped BLACK hair with GREY at temples, clean-shaven, medium STOCKY solid build. Calm command attention, tired eyes, neither sneering villain nor smiling celebrity. Distinct masculine identity: NOT input1 Varai's face/body/hair. No genetic/ethnic labels. Standard practical NAVY station-duty coverall, simple muted grey shoulder seam and cuffs, closed plain collar, navy trousers, dark soft work boots. Compact ordinary communications earpiece on anatomical LEFT ear in all views, tiny wire microphone near cheek. No body armour, spacesuit plating, helmet, medals, rank stars, weapons, cape or crown.\n\nThree whole unclipped standing front/left-profile/back views on left/centre, consistent body/face/clothing, hands naturally lowered; one hand at earpiece in profile. Right two large same-identity head studies labelled \"Confirm\" (measured attention) and \"Hold\" (firm concern). Lower-right large FIVE-DIGIT open hand, fingers spread in an ordinary halt signal, labelled \"Sector occupied\". No other people, floating screens or technical diagrams.\n\nMoment: enclosed station command at 03:17 during containment emergency. Lighting is a restrained cool blue-grey workstation spill on ONE near cheek/hand plane with a tiny muted warm practical-light accent, while MOST forehead, far cheek, back, sleeves and coverall lie in large connected LOW-VALUE deep indigo/earth shadow. Keep dark brown skin distinct from shadow, readable with broad planes. Not luminous blue skin; NO all-over white studio light, rim outline, glossy highlights or bright flat exposure. Ivory page stays light/unshaded.\n\nInput1 PRIMARY for current folio oil massing and subdued figures ONLY; it must not donate face, female silhouette, bob, armour or props. Input2 for large directional painted masses and dark-enclosed-workspace shadow only, no cabin or planet. Canadian Group of Seven-inspired heavy OPAQUE oils: strong broad simplified colour/value shapes, varied directional brush rhythm, selective thick impasto, quieter dark passages. Face/hands painted as decisively as cloth, no smooth photographic/CGI face under texture, no uniformly tiny bevelled paint chips. Exact readable text. No scenery, room, lights drawn, floor/contact shadows/patches, swatches or palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+                "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+                "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+                "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+                "inspected": true,
+                "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ccfa4976-fc7a-43cd-b75c-a619424a0f9f.png",
+            "returnedSha256": "a02709c1e0f4065a184526ae57c2c393fb0c21635a86b0deb2fd98bae0c37622",
+            "completedAt": "2026-09-24T04:55:33.819323+00:00",
+            "review": [
+              "Actual pixels show the same broad-faced stocky mature man across front/profile/back and portraits, distinct from Varai. Navy station coverall, ordinary headset and five-digit halt hand fit source role.",
+              "Headset is consistently anatomical right in selected views; this unbound art-side choice is documented, resolving the initial left-side design suggestion without changing source facts.",
+              "Muted enclosed-workspace light and connected navy/earth shadow masses preserve restrained exposure; skin/cloth share opaque directional oil technique.",
+              "Exact name/title/labels readable; ordinary body and equipment, no borrowed armour, scenery, floor/contact shadows, swatches or palette strip."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape character-only oil reference folio on plain light warm IVORY. Exact heading \"Idris Pawel\", smaller exact title \"The Last Watcher of Jupiter\". One DISTINCT human man, the station commander.\n\nApparent 50s, deep BROWN skin, broad square face, broad nose, heavy level brows, close-cropped BLACK hair with GREY at temples, clean-shaven, medium STOCKY solid build. Calm command attention, tired eyes, neither sneering villain nor smiling celebrity. Distinct masculine identity: NOT input1 Varai's face/body/hair. No genetic/ethnic labels. Standard practical NAVY station-duty coverall, simple muted grey shoulder seam and cuffs, closed plain collar, navy trousers, dark soft work boots. Compact ordinary communications earpiece on anatomical LEFT ear in all views, tiny wire microphone near cheek. No body armour, spacesuit plating, helmet, medals, rank stars, weapons, cape or crown.\n\nThree whole unclipped standing front/left-profile/back views on left/centre, consistent body/face/clothing, hands naturally lowered; one hand at earpiece in profile. Right two large same-identity head studies labelled \"Confirm\" (measured attention) and \"Hold\" (firm concern). Lower-right large FIVE-DIGIT open hand, fingers spread in an ordinary halt signal, labelled \"Sector occupied\". No other people, floating screens or technical diagrams.\n\nMoment: enclosed station command at 03:17 during containment emergency. Lighting is a restrained cool blue-grey workstation spill on ONE near cheek/hand plane with a tiny muted warm practical-light accent, while MOST forehead, far cheek, back, sleeves and coverall lie in large connected LOW-VALUE deep indigo/earth shadow. Keep dark brown skin distinct from shadow, readable with broad planes. Not luminous blue skin; NO all-over white studio light, rim outline, glossy highlights or bright flat exposure. Ivory page stays light/unshaded.\n\nInput1 PRIMARY for current folio oil massing and subdued figures ONLY; it must not donate face, female silhouette, bob, armour or props. Input2 for large directional painted masses and dark-enclosed-workspace shadow only, no cabin or planet. Canadian Group of Seven-inspired heavy OPAQUE oils: strong broad simplified colour/value shapes, varied directional brush rhythm, selective thick impasto, quieter dark passages. Face/hands painted as decisively as cloth, no smooth photographic/CGI face under texture, no uniformly tiny bevelled paint chips. Exact readable text. No scenery, room, lights drawn, floor/contact shadows/patches, swatches or palette bars.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:55:33.819323+00:00",
+        "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+        "outputSha256": "a02709c1e0f4065a184526ae57c2c393fb0c21635a86b0deb2fd98bae0c37622",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show the same broad-faced stocky mature man across front/profile/back and portraits, distinct from Varai. Navy station coverall, ordinary headset and five-digit halt hand fit source role.",
+          "Headset is consistently anatomical right in selected views; this unbound art-side choice is documented, resolving the initial left-side design suggestion without changing source facts.",
+          "Muted enclosed-workspace light and connected navy/earth shadow masses preserve restrained exposure; skin/cloth share opaque directional oil technique.",
+          "Exact name/title/labels readable; ordinary body and equipment, no borrowed armour, scenery, floor/contact shadows, swatches or palette strip."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "e28f9b31fa3debe75308fd66219d22da78a8883f43166996b85a3d8b2844e321"
+      },
+      "outputSha256": "a02709c1e0f4065a184526ae57c2c393fb0c21635a86b0deb2fd98bae0c37622"
+    },
+    {
+      "id": "naveen-okoro",
+      "name": "Naveen Okoro",
+      "sourceIdentityId": "naveen-okoro",
+      "role": "Repair engineer who replaced Cairn Nine correlator with analog stack",
+      "selectionEvidence": [
+        {
+          "quote": "That was Naveen Okoro in engineering.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 29
+        },
+        {
+          "quote": "Naveen corrected himself.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 189
+        },
+        {
+          "quote": "Naveen walked her through manual cooldown.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 437
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man, source male pronouns.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Appearance not specified in prose.",
+        "equipment": "Engineering diagnostics and analog repair knowledge; no personal power.",
+        "scale": "Adult human.",
+        "movement": "Practical concentration and instruction corrected against measured mechanics.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparentlate40s, medium warm-brown skin, square face, curly greying hair, short close beard, sturdy shoulders.",
+        "Worn dark olive engineering coverall, unbranded belt pouches and small diagnostic hand pad, compact headset. Grease-marked fingertips optional work detail, not injury."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "last-watcher-of-jupiter:naveen-okoro",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/last-watcher-of-jupiter/title-image.jpg",
+          "sha256": "b74648f81ef3c5a321f6c4169f257c1adaa83b25ee67afd8a4f01a97526ef8a0",
+          "role": "Protagonist face/short dark hair only; prose overrides open collar; no other identities or cover rendering",
+          "inspected": true,
+          "notes": "Tan short-dark-haired adult woman in grey/black suit; cover's open collar conflicts with sealed watch suit. Source controls."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "role": "Group of Seven oils and restrained reflected Jovian amber/cool canopy shadow only; no environment",
+          "inspected": true,
+          "notes": "Large muted warm reflected planes on metal amid cool near-black shadows."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "role": "Dark final-cooldown illumination and opaque oil handling only; no machinery in sheet",
+          "inspected": true,
+          "notes": "Dead console and black-blue cabin with narrow reflected rust/cream Jovian light."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+          "inspected": true,
+          "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 556,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/last-watcher-of-jupiter/art/characters/naveen-okoro.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:55:34.776712+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY oil folio, clean unshaded light warm IVORY ground. Exact large name \"Naveen Okoro\"; smaller story title \"The Last Watcher of Jupiter\". One distinctive mature HUMAN MALE engineer only.\n\nApparent late40s, medium warm-BROWN skin, a broad rectangular face with blunt nose, curly dark hair greying through temples, SHORT CLOSE BEARD including moustache, strong thick neck/shoulders and practical solid build. Keep his bearded square-faced identity identical across all studies and plainly different from reference woman's face. Worn plain DARK OLIVE engineering coverall with modest patched elbow seams, closed collar, unbranded brown belt with two small tool pouches, ordinary dark brown boots. No armour, pressure suit, medals, lab coat, royal insignia or weapons. Compact headband communications headset, small microphone; consistent on same side, clear hair. Bare hands with slight grease marks, no permanent tattoos/scars.\n\nThree whole front/side/back standing views left/centre, entirely unclipped, normal five-digit hands. Right two matching portrait studies \"Working on it\" (concentrated, mouth slightly open mid-instruction) and \"Lower line\" (tired rueful recognition). Lower right a LARGE natural five-digit hand holding a small grey rectangular diagnostic pad, tilted slightly, a few non-text dim amber line traces on its screen. Label \"Analog stack\". The pad is ordinary diagnostic equipment, NOT magic light, hologram or robot organ. Do not show any room, workbench or machine internals.\n\nLighting: enclosed station engineering during the 03:17 emergency. MOST of the face, hair and coverall remain in LARGE low-value connected cool olive/umber/blue-grey SHADOW. Small restrained amber task-lamp reflection reaches only near cheek, near fingers and a few collar planes; the pad is weak and does not make a glowing aura. Back dark, no broad exposed white highlights, no bright studio/daylight, no glossy rim outline. Keep all facial features readable using subdued oil planes, not bright fill light. Ivory page stays light/plain.\n\nInput1 current selected sheet is PRIMARY for folio, heavy oil figure masses and dark low-light values ONLY; do NOT copy female face, black bob, armour or helmet. Input2 actual story oil painting guides broad connected dark/cool shadows and restricted rust/cream light only; do not import scene or planet. Canadian Group of Seven-inspired heavy opaque oil, broad rhythmic shapes and varied directional brushstrokes with selective substantial impasto; calm connected shadow passages. Skin and beard as painterly as coverall; no photorealistic/anime/CGI skin under texture, no uniform shiny chipped mosaic. Exact readable headings/labels. No settings, extra persons, floor or contact shadows, ground patches, swatches/palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+                "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+                "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+                "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+                "inspected": true,
+                "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ad825d5f-d9d3-4b45-a6fa-e2232be27715.png",
+            "returnedSha256": "e545c59ec074469dc5f25fd35951036d996906e742c97423a8bf60fa204fb94a",
+            "completedAt": "2026-09-24T04:59:40.359391+00:00",
+            "review": [
+              "Actual pixels reviewed: broad rectangular brown face, curly greying hair and short close beard repeat consistently; male engineer clearly distinct from pilot and commander.",
+              "Olive coverall, work boots, belt pouches and headset stay consistent across whole front/side/back views. Close hand naturally grips a mundane low-luminance diagnostic pad.",
+              "Restricted warm engineering task-light planes against connected olive/blue-grey and umber shadows preserve nighttime enclosed-workspace atmosphere; oil paint covers skin, curls and cloth.",
+              "Exact source name/title and labels readable; no source-unsupported powers, borrowed armour, scene, floor patch/contact shadows or swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY oil folio, clean unshaded light warm IVORY ground. Exact large name \"Naveen Okoro\"; smaller story title \"The Last Watcher of Jupiter\". One distinctive mature HUMAN MALE engineer only.\n\nApparent late40s, medium warm-BROWN skin, a broad rectangular face with blunt nose, curly dark hair greying through temples, SHORT CLOSE BEARD including moustache, strong thick neck/shoulders and practical solid build. Keep his bearded square-faced identity identical across all studies and plainly different from reference woman's face. Worn plain DARK OLIVE engineering coverall with modest patched elbow seams, closed collar, unbranded brown belt with two small tool pouches, ordinary dark brown boots. No armour, pressure suit, medals, lab coat, royal insignia or weapons. Compact headband communications headset, small microphone; consistent on same side, clear hair. Bare hands with slight grease marks, no permanent tattoos/scars.\n\nThree whole front/side/back standing views left/centre, entirely unclipped, normal five-digit hands. Right two matching portrait studies \"Working on it\" (concentrated, mouth slightly open mid-instruction) and \"Lower line\" (tired rueful recognition). Lower right a LARGE natural five-digit hand holding a small grey rectangular diagnostic pad, tilted slightly, a few non-text dim amber line traces on its screen. Label \"Analog stack\". The pad is ordinary diagnostic equipment, NOT magic light, hologram or robot organ. Do not show any room, workbench or machine internals.\n\nLighting: enclosed station engineering during the 03:17 emergency. MOST of the face, hair and coverall remain in LARGE low-value connected cool olive/umber/blue-grey SHADOW. Small restrained amber task-lamp reflection reaches only near cheek, near fingers and a few collar planes; the pad is weak and does not make a glowing aura. Back dark, no broad exposed white highlights, no bright studio/daylight, no glossy rim outline. Keep all facial features readable using subdued oil planes, not bright fill light. Ivory page stays light/plain.\n\nInput1 current selected sheet is PRIMARY for folio, heavy oil figure masses and dark low-light values ONLY; do NOT copy female face, black bob, armour or helmet. Input2 actual story oil painting guides broad connected dark/cool shadows and restricted rust/cream light only; do not import scene or planet. Canadian Group of Seven-inspired heavy opaque oil, broad rhythmic shapes and varied directional brushstrokes with selective substantial impasto; calm connected shadow passages. Skin and beard as painterly as coverall; no photorealistic/anime/CGI skin under texture, no uniform shiny chipped mosaic. Exact readable headings/labels. No settings, extra persons, floor or contact shadows, ground patches, swatches/palette bars.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:59:40.359391+00:00",
+        "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+        "outputSha256": "e545c59ec074469dc5f25fd35951036d996906e742c97423a8bf60fa204fb94a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: broad rectangular brown face, curly greying hair and short close beard repeat consistently; male engineer clearly distinct from pilot and commander.",
+          "Olive coverall, work boots, belt pouches and headset stay consistent across whole front/side/back views. Close hand naturally grips a mundane low-luminance diagnostic pad.",
+          "Restricted warm engineering task-light planes against connected olive/blue-grey and umber shadows preserve nighttime enclosed-workspace atmosphere; oil paint covers skin, curls and cloth.",
+          "Exact source name/title and labels readable; no source-unsupported powers, borrowed armour, scene, floor patch/contact shadows or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "d0824b8c73f75bd97852e0ab3854b1cdb6674f12c91cd32f5a82380a788d22eb"
+      },
+      "outputSha256": "e545c59ec074469dc5f25fd35951036d996906e742c97423a8bf60fa204fb94a"
+    },
+    {
+      "id": "romesh-ival",
+      "name": "Romesh Ival",
+      "sourceIdentityId": "romesh-ival",
+      "role": "Field physicist measuring organism and signal",
+      "selectionEvidence": [
+        {
+          "quote": "Alive, Romesh Ival said. Intelligent, she did not.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 17
+        },
+        {
+          "quote": "Romesh enlarged the uncertain band.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 339
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human; source explicitly female pronoun at introduction.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Appearance not specified in prose.",
+        "equipment": "Organism field plots and uncertain measurement bands; not telepathy.",
+        "scale": "Adult human.",
+        "movement": "Careful measured scientific uncertainty.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent50s woman, light brown skin, narrow long face, straight iron-grey hair in compact low knot, slim frame, rectangular ordinary glasses.",
+        "Slate-blue station jumpsuit with charcoal soft overshirt, small flat data tablet; no lab coat inferred as canonical."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "last-watcher-of-jupiter:romesh-ival",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/last-watcher-of-jupiter/title-image.jpg",
+          "sha256": "b74648f81ef3c5a321f6c4169f257c1adaa83b25ee67afd8a4f01a97526ef8a0",
+          "role": "Protagonist face/short dark hair only; prose overrides open collar; no other identities or cover rendering",
+          "inspected": true,
+          "notes": "Tan short-dark-haired adult woman in grey/black suit; cover's open collar conflicts with sealed watch suit. Source controls."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "role": "Group of Seven oils and restrained reflected Jovian amber/cool canopy shadow only; no environment",
+          "inspected": true,
+          "notes": "Large muted warm reflected planes on metal amid cool near-black shadows."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "role": "Dark final-cooldown illumination and opaque oil handling only; no machinery in sheet",
+          "inspected": true,
+          "notes": "Dead console and black-blue cabin with narrow reflected rust/cream Jovian light."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+          "inspected": true,
+          "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 556,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/last-watcher-of-jupiter/art/characters/romesh-ival.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:59:41.463905+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio with unshaded plain warm IVORY page. Exact name \"Romesh Ival\", exact smaller story title \"The Last Watcher of Jupiter\". One mature HUMAN WOMAN physicist, source she/her. All studies same identity, distinct from the reference woman.\n\nApparent50s, LIGHT BROWN skin, slim body, long narrow face, straight prominent nose, thin thoughtful eyebrows, dark matte eyes behind ordinary fine rectangular GLASSES, straight IRON-GREY hair parted centrally and tied in a compact LOW KNOT. No loose black bob, no young glamorous face. Calm analytical attention with a tired concentrated frown, not cold indifference.\n\nPlain SLATE-BLUE practical station jumpsuit with long sleeves, modest high collar and CHARCOAL soft overshirt ending at hip, unbranded simple flat dark shoes. No white lab coat, spacesuit/armour, robes, jewellery, magic, weapon or crown. Three whole unclipped front/profile/back standing studies left/centre. Front holds small ordinary flat tablet down at waist, other arm loose; profile and rear hands relaxed. Hair knot/rectangular glasses/long nose remain consistent. Right upper same face labelled \"Measured\" (speaking precisely), right lower same face labelled \"Uncertain\" (looking down thoughtfully). Bottom centre-right large hand-held tablet study labelled \"Field margin\"; natural five-digit grip, dim simple non-text graph with ONE broad uncertainty band, not hologram or explicit invented scientific equations. No other person or organism depiction.\n\nLighting: enclosed station science workstation at 03:17 during emergency. Predominantly dark cool slate/umber SHADOW masses on every face, hair, sleeve and overshirt; a small cool GREY-GREEN monitor reflection touches near cheek/under-brow and fingers, with tiny subdued warm practical accent on one collar edge. Grey hair mostly dark graphite with a few silver strokes, no halo; glass lenses clear with tiny reflections, eyes readable. Back and far face stay in connected low-value shadow. No all-over studio/daylight, rim tracing, brilliant blue sci-fi glow or orange-blue glam. Keep ivory page bright/plain.\n\nInput1 is PRIMARY consistent collection oil folio and subdued figure values ONLY: do NOT borrow Varai's face, bob, body proportions, armour or helmet. Input2 provides forceful broad oil masses and dark-enclosed-workspace connected shadows ONLY, no location. Group of Seven-inspired opaque oils: simplified rhythmic colour/value masses, varied broad directional strokes, selective impasto, quieter dark passages. Paint face/hair/hands as forcefully as cloth; no photo/anime/CGI smooth face, no shiny uniform bevelled chips. Exact readable headings and short labels. No floor/contact shadows, scenery, planet, room, swatches or palette strips.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+                "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+                "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+                "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+                "inspected": true,
+                "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-a665ea95-0850-4534-bba7-769cb561f52c.png",
+            "returnedSha256": "2731689c5d93a7834d8d8f1e8ea7d9d02df41b065f1afc56c7405fbe70807474",
+            "completedAt": "2026-09-24T05:02:50.054200+00:00",
+            "review": [
+              "Actual pixels reviewed: mature slim long-faced woman with rectangular glasses, prominent nose and iron-grey low knot repeats consistently; source female pronoun preserved and identity differs from Varai.",
+              "Charcoal overshirt/slate jumpsuit, ordinary flat work footwear and tablet stay consistent; two natural hands grip uncertainty-band diagnostic display, without magical projection or invented organism intelligence.",
+              "Muted green-grey workstation reflection and connected dark cool/earth oil shadows fit enclosed night station work; glass lenses remain clear and readable.",
+              "Name/title/labels exact and readable; broad opaque skin/hair/cloth paint, unclipped bodies, no scenery, ground/contact shadows or swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape character-only OIL folio with unshaded plain warm IVORY page. Exact name \"Romesh Ival\", exact smaller story title \"The Last Watcher of Jupiter\". One mature HUMAN WOMAN physicist, source she/her. All studies same identity, distinct from the reference woman.\n\nApparent50s, LIGHT BROWN skin, slim body, long narrow face, straight prominent nose, thin thoughtful eyebrows, dark matte eyes behind ordinary fine rectangular GLASSES, straight IRON-GREY hair parted centrally and tied in a compact LOW KNOT. No loose black bob, no young glamorous face. Calm analytical attention with a tired concentrated frown, not cold indifference.\n\nPlain SLATE-BLUE practical station jumpsuit with long sleeves, modest high collar and CHARCOAL soft overshirt ending at hip, unbranded simple flat dark shoes. No white lab coat, spacesuit/armour, robes, jewellery, magic, weapon or crown. Three whole unclipped front/profile/back standing studies left/centre. Front holds small ordinary flat tablet down at waist, other arm loose; profile and rear hands relaxed. Hair knot/rectangular glasses/long nose remain consistent. Right upper same face labelled \"Measured\" (speaking precisely), right lower same face labelled \"Uncertain\" (looking down thoughtfully). Bottom centre-right large hand-held tablet study labelled \"Field margin\"; natural five-digit grip, dim simple non-text graph with ONE broad uncertainty band, not hologram or explicit invented scientific equations. No other person or organism depiction.\n\nLighting: enclosed station science workstation at 03:17 during emergency. Predominantly dark cool slate/umber SHADOW masses on every face, hair, sleeve and overshirt; a small cool GREY-GREEN monitor reflection touches near cheek/under-brow and fingers, with tiny subdued warm practical accent on one collar edge. Grey hair mostly dark graphite with a few silver strokes, no halo; glass lenses clear with tiny reflections, eyes readable. Back and far face stay in connected low-value shadow. No all-over studio/daylight, rim tracing, brilliant blue sci-fi glow or orange-blue glam. Keep ivory page bright/plain.\n\nInput1 is PRIMARY consistent collection oil folio and subdued figure values ONLY: do NOT borrow Varai's face, bob, body proportions, armour or helmet. Input2 provides forceful broad oil masses and dark-enclosed-workspace connected shadows ONLY, no location. Group of Seven-inspired opaque oils: simplified rhythmic colour/value masses, varied broad directional strokes, selective impasto, quieter dark passages. Paint face/hair/hands as forcefully as cloth; no photo/anime/CGI smooth face, no shiny uniform bevelled chips. Exact readable headings and short labels. No floor/contact shadows, scenery, planet, room, swatches or palette strips.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:02:50.054200+00:00",
+        "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+        "outputSha256": "2731689c5d93a7834d8d8f1e8ea7d9d02df41b065f1afc56c7405fbe70807474",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+            "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+            "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+            "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+            "inspected": true,
+            "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: mature slim long-faced woman with rectangular glasses, prominent nose and iron-grey low knot repeats consistently; source female pronoun preserved and identity differs from Varai.",
+          "Charcoal overshirt/slate jumpsuit, ordinary flat work footwear and tablet stay consistent; two natural hands grip uncertainty-band diagnostic display, without magical projection or invented organism intelligence.",
+          "Muted green-grey workstation reflection and connected dark cool/earth oil shadows fit enclosed night station work; glass lenses remain clear and readable.",
+          "Name/title/labels exact and readable; broad opaque skin/hair/cloth paint, unclipped bodies, no scenery, ground/contact shadows or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "cbbc3ce6fd38c0b26b8bf47a7018f9afce1b0bf0733107d996037c40b55477ae"
+      },
+      "outputSha256": "2731689c5d93a7834d8d8f1e8ea7d9d02df41b065f1afc56c7405fbe70807474"
+    },
+    {
+      "id": "nadja-sile",
+      "name": "Nadja Sile",
+      "sourceIdentityId": "nadja-sile",
+      "role": "Cairn Four pilot and first recovered rescue guide",
+      "selectionEvidence": [
+        {
+          "quote": "Nadja Sile said.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 27
+        },
+        {
+          "quote": "Four's harness caught me.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 63
+        },
+        {
+          "quote": "Medical's meeting me at the lock.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 459
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman; initially cold left hand becomes swollen after service release, not a prosthesis.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Sealed pilot suit/gloves and cockpit harness.",
+        "equipment": "Service link and emergency emitter lever; equipment not powers.",
+        "scale": "Adult human.",
+        "movement": "Strains under harness, waits for unload window, then coaches others.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent30s, light freckled skin, broad square jaw, very short auburn hair, compact strong body distinct from Varai.",
+        "Same family of closed charcoal/bone-grey pilot pressure suit, muted amber cuff identification; main gloved, optional ungloved left-hand detail shows mild swelling only, no gore."
+      ],
+      "states": [
+        {
+          "label": "Four local",
+          "description": "Tense effort resolves into exhausted relief."
+        },
+        {
+          "label": "Left hand",
+          "description": "Later mild swelling; no blood or severed anatomy."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "last-watcher-of-jupiter:nadja-sile",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/last-watcher-of-jupiter/title-image.jpg",
+          "sha256": "b74648f81ef3c5a321f6c4169f257c1adaa83b25ee67afd8a4f01a97526ef8a0",
+          "role": "Protagonist face/short dark hair only; prose overrides open collar; no other identities or cover rendering",
+          "inspected": true,
+          "notes": "Tan short-dark-haired adult woman in grey/black suit; cover's open collar conflicts with sealed watch suit. Source controls."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/01-cairn-nine-canopy.png",
+          "sha256": "f8e27bd2ac93154a4caf20e236138079798706974f8e000d13842917eae43671",
+          "role": "Group of Seven oils and restrained reflected Jovian amber/cool canopy shadow only; no environment",
+          "inspected": true,
+          "notes": "Large muted warm reflected planes on metal amid cool near-black shadows."
+        },
+        {
+          "path": "stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+          "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+          "role": "Dark final-cooldown illumination and opaque oil handling only; no machinery in sheet",
+          "inspected": true,
+          "notes": "Dead console and black-blue cabin with narrow reflected rust/cream Jovian light."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+          "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+          "inspected": true,
+          "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 556,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/last-watcher-of-jupiter/art/characters/nadja-sile.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:02:51.245054+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on light unshaded warm IVORY. Exact heading \"Nadja Sile\", smaller exact title \"The Last Watcher of Jupiter\". One distinct HUMAN WOMAN pilot, same identity throughout.\n\nApparent30s, LIGHT FRECKLED skin, broad square jaw and cheekbones, blunt short nose, straight brows, light grey-green matte eyes, VERY SHORT AUBURN pixie crop with ears exposed. COMPACT STRONG adult body, modest practical proportions. Visibly different from input1's tan long-faced black-bob woman. Her full closed charcoal pressure suit belongs to the SAME EQUIPMENT FAMILY as input1: worn bone-grey shoulder/thigh/shin plates, black gloves, heavy flat black boots and high sealed collar/closed zipper. Add a narrow muted AMBER band around each cuff as optional identification. No open collar/cleavage, heels, armour wings, weapons, badges/logos, cybernetic limbs or magic.\n\nLayout three whole unclipped front/side/back standing studies left/centre, consistent suit and pixie cut. Neutral functional stance and relaxed gloved hands. Upper-right matching face \"Four local\" (physical effort and tight jaw), mid-right matching face \"You waited\" (exhausted relief, very small fragile smile). Lower right a large isolated BARE LEFT HAND study labelled \"Left hand\": palm faces viewer with THUMB on viewer's RIGHT, exactly five natural digits, faint mild swelling across palm/fingers, intact skin/no blood/bruising, no cast/prosthetic. The bare hand is an explanatory anatomy detail; all standing studies remain gloved. Do not exaggerate injury, deform joints or make giant sausage fingers.\n\nLighting matches source pilot cabin during 03:17 emergency/cooldown: dominant LOW-VALUE connected indigo/umber shadow on face, suit and guards, a little dull reflected cream/rust Jupiter light touching one near cheek and a few glove/plate planes. Far cheek/forehead and rear remain DARK; bone-grey plates mostly muted grey, not luminous white. Short auburn hair dark russet in shade, tiny copper reflection only. The bare hand also has connected shade, no bright clinical spotlight. Ivory ground stays light/plain.\n\nInput1 PRIMARY exact pressure-suit design family, current folio/OIL technique and dark-cabin values ONLY. Do NOT copy Varai face, skin shade, bob or body build. Input2 actual story oil painting supplies broad connected shadows and restricted reflected warm light ONLY; no cockpit/planet. Canadian Group of Seven-inspired strong broad colour/value shapes, varied directional opaque strokes, selective substantial impasto and calm connecting darks. Skin/hand painted as decisively as armour; no photoreal/CGI/anime face, no uniform tiny glossy chipped mosaic. Exact text readable. No scenery, floor/contact shadow/ground patch, extra people, swatches or palettes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+                "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+                "role": "Selected current story oil/folio/low light only; do not copy female face, bob or pilot armour",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/last-watcher-of-jupiter/art/interiors/02-manual-coolant-wheel.png",
+                "sha256": "b3082d963350cfd2cfd4be3f2970e6f63b00f5456bcdfe74d670735fb303cde0",
+                "inspected": true,
+                "role": "PRIMARY heavy oil and dark-cabin large shadow/limited amber light; no scene"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7bad942d-f95c-4dcf-aa5a-c129f02e24ff.png",
+            "returnedSha256": "21c1d5ef99c6207af960f768f6d38fe002814bd19dd721c6ac14428ed3cf1b35",
+            "completedAt": "2026-09-24T05:05:47.927889+00:00",
+            "review": "Consistent distinct auburn-pixie freckled pilot identity, same closed pressure-suit family, correct bare LEFT palm orientation/five digits, mild swelling and exact text pass. REVISE broad bright face/hand/armour modelling; must retain dark cockpit light rather than clinical/studio exposure."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:05:49.033540+00:00",
+            "status": "PASS",
+            "prompt": "Lighting-only correction of this exact Nadja Sile folio. KEEP all anatomy, same freckled square-faced woman, short auburn pixie, same suit/amber cuffs, all body/head poses, FIVE-DIGIT LEFT PALM with thumb on viewer's RIGHT and mild swelling, all text/layout.\n\nThis is a DARK enclosed PILOT COCKPIT at 03:17/cooldown. Cover MOST face, forehead, bare palm, hair, grey armour and helmet-free suit in LARGE CONNECTED LOW-VALUE cool indigo-grey/umber SHADOWS. The grey armour is predominantly DARK GREY, not white; rear remains subdued. Grey/black suit should have quiet dark connected passages. Reduce broad bright studio areas on near cheek, face, shoulders, knees and especially bare hand. A very small dull cream/rust reflection from Jupiter catches only a narrow near cheek plane, a few near guard strokes and the closest knuckle; no continuous outline/rim. The palm retains legible creases and intact mildly swollen fingers inside subdued shade. Hair dark russet/umber with just a few copper strokes. Keep facial identity/expression legible by restrained broad oil planes, not by broad fill lighting.\n\nKeep the light warm IVORY PAGE unchanged, no background shading/vignette. Keep broad opaque painterly skin/suit texture with calm shadow massing and selective impasto, no photoreal smoothness. Exact \"Nadja Sile\", \"The Last Watcher of Jupiter\", \"Four local\", \"You waited\", \"Left hand\" unchanged. No scenery, floor/contact shadows, swatches or new objects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7bad942d-f95c-4dcf-aa5a-c129f02e24ff.png",
+                "sha256": "21c1d5ef99c6207af960f768f6d38fe002814bd19dd721c6ac14428ed3cf1b35",
+                "role": "Immutable Nadja target, lighting-only correction; same left hand and identity",
+                "inspected": true
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-35a155b7-d4d7-492a-9d29-f0afccb3f9bb.png",
+            "returnedSha256": "16a49454d0aa8fd10eff0d072685ed82c455d93e1d56b39442bc8b45ac26868d",
+            "completedAt": "2026-09-24T05:10:41.105541+00:00",
+            "review": [
+              "Actual corrected pixels reviewed: same compact auburn-pixie freckled woman across three full views and two heads; face differs from Varai while pressure-suit family remains consistent.",
+              "Closed collar, amber cuff stripes, gloved full views and separate bare LEFT palm are correct; palm thumb on viewer right, five natural digits, mild swelling without exaggerated injury.",
+              "Dark cabin exposure preserved in large connected indigo/umber facial, armour and hand shadows with narrow reflected warm planes; ivory ground remains light.",
+              "All text readable/exact; broad opaque skin/suit paint and natural proportions, no scene/floor patches/contact shadows, supernatural effect or swatches."
+            ]
+          }
+        ],
+        "prompt": "Lighting-only correction of this exact Nadja Sile folio. KEEP all anatomy, same freckled square-faced woman, short auburn pixie, same suit/amber cuffs, all body/head poses, FIVE-DIGIT LEFT PALM with thumb on viewer's RIGHT and mild swelling, all text/layout.\n\nThis is a DARK enclosed PILOT COCKPIT at 03:17/cooldown. Cover MOST face, forehead, bare palm, hair, grey armour and helmet-free suit in LARGE CONNECTED LOW-VALUE cool indigo-grey/umber SHADOWS. The grey armour is predominantly DARK GREY, not white; rear remains subdued. Grey/black suit should have quiet dark connected passages. Reduce broad bright studio areas on near cheek, face, shoulders, knees and especially bare hand. A very small dull cream/rust reflection from Jupiter catches only a narrow near cheek plane, a few near guard strokes and the closest knuckle; no continuous outline/rim. The palm retains legible creases and intact mildly swollen fingers inside subdued shade. Hair dark russet/umber with just a few copper strokes. Keep facial identity/expression legible by restrained broad oil planes, not by broad fill lighting.\n\nKeep the light warm IVORY PAGE unchanged, no background shading/vignette. Keep broad opaque painterly skin/suit texture with calm shadow massing and selective impasto, no photoreal smoothness. Exact \"Nadja Sile\", \"The Last Watcher of Jupiter\", \"Four local\", \"You waited\", \"Left hand\" unchanged. No scenery, floor/contact shadows, swatches or new objects.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7bad942d-f95c-4dcf-aa5a-c129f02e24ff.png",
+            "sha256": "21c1d5ef99c6207af960f768f6d38fe002814bd19dd721c6ac14428ed3cf1b35",
+            "role": "Immutable Nadja target, lighting-only correction; same left hand and identity",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:10:41.105541+00:00",
+        "sourceSha256": "f18147b3ea0d36441682da2a8b223a28aa6006b463b8b7aa483b5f616d961929",
+        "outputSha256": "16a49454d0aa8fd10eff0d072685ed82c455d93e1d56b39442bc8b45ac26868d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7bad942d-f95c-4dcf-aa5a-c129f02e24ff.png",
+            "sha256": "21c1d5ef99c6207af960f768f6d38fe002814bd19dd721c6ac14428ed3cf1b35",
+            "role": "Immutable Nadja target, lighting-only correction; same left hand and identity",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels reviewed: same compact auburn-pixie freckled woman across three full views and two heads; face differs from Varai while pressure-suit family remains consistent.",
+          "Closed collar, amber cuff stripes, gloved full views and separate bare LEFT palm are correct; palm thumb on viewer right, five natural digits, mild swelling without exaggerated injury.",
+          "Dark cabin exposure preserved in large connected indigo/umber facial, armour and hand shadows with narrow reflected warm planes; ivory ground remains light.",
+          "All text readable/exact; broad opaque skin/suit paint and natural proportions, no scene/floor patches/contact shadows, supernatural effect or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "81a2fc053a29a70fb094c5d856443d12d78b9ea61c1179ed781433adde34369d"
+      },
+      "outputSha256": "16a49454d0aa8fd10eff0d072685ed82c455d93e1d56b39442bc8b45ac26868d"
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+      "displayName": "codex-clipboard-1dfbdb16-398e-4d74-adbb-eb9edd862345.png",
+      "sha256": "4188f132f60e9dfb587378bbae7ef0e7f7616930c465c69615a47789be413a30",
+      "inspected": true,
+      "role": "Original protagonist tan skin, short dark hair, adult face and suit materials; source sealed collar overrides open zipper. No hangar, mecha or bright studio lighting.",
+      "recovery": {
+        "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+        "zeroBasedUserMessageLine": 556,
+        "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+      }
+    }
+  ]
+}
