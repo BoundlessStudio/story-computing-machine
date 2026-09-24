@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "slug": "saint-and-demon",
+  "title": "The Beloved World",
+  "source": "stories/saint-and-demon/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished story read through Sennara closing Iverax's eyes and helping survivors. The two lovers are the sustained main cast; selected pre-dawn walking states.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "hunters, villagers, stablemaster, burned survivor and recalled bystanders",
+      "reason": "Brief supporting encounters, no sustained individual main arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "sennara",
+      "name": "Sennara",
+      "role": "human saint protagonist choosing between beloved demon and the world",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "They had met when Sennara was thirty-six",
+          "explanation": "Adult protagonist, older than thirty-six in current action."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Mature adult, thirty-six when she met Iverax; current exact age unspecified.",
+        "clothing": "Travel coat over practical clothing, salt-white boot seams; ash-silver knife fastened against spine under coat.",
+        "body": "Old scar under left heel/above ankle; left heel wrapped with strip from Iverax's shirt during night.",
+        "state": "Pre-dawn walking after heel binding; hands not yet burned; no late outcome or naked binding display."
+      },
+      "visualInterpretation": [
+        "Unspecified features are restrained noncanonical casting: medium olive-brown skin, broad straight nose, tired dark eyes, dark brown chin-length hair tied back low, visibly mature fortyish face.",
+        "Dark weathered brown travel coat, charcoal tunic/trousers and worn brown boots; show source knife separately rather than impossible x-ray view under coat."
+      ],
+      "states": [
+        {
+          "name": "Before black dawn",
+          "description": "Living adult in pre-dawn traveling state before fatal climax; character isolated."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "saint-and-demon:sennara",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe search found no exact match."
+      },
+      "output": "stories/saint-and-demon/art/characters/sennara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Sennara\"; exact title \"The Beloved World\". ONE mature adult human woman, fortyish visual casting, medium olive-brown skin, broad straight nose, strong square-rounded jaw, tired dark matte eyes, dark brown chin-length hair tied in a short LOW knot with loose wisps; ordinary human ears and anatomy. Competent, weary and watchful, not glamorous/teenage/crone. Two complete same-state clothed front/rear body studies labelled \"Before black dawn\" and \"Rear\". Worn dark brown long travel COAT to calf over charcoal tunic/trousers and worn brown lace BOOTS with salt whitening seams, low practical belt. Hands empty and uninjured, no blood. Large matching face labelled \"Keeping the choice\". Isolated ash-silver knife with short straight blade and plain dark handle, label \"Ash-silver knife\"; it is normally concealed against spine under coat, do not show through cloth or held in these body poses. Small separate left boot heel closeup with salt and split worn seam, non-graphic.\nCRITICAL light: actual midnight STARLESS darkness. Image1 supplies dark connected navy/charcoal masses and scarce cool pale salt reflection. Faces and body should be 75 percent low-value cool shadow with just narrow dim reflected light planes; paper remains ivory. NO golden sunlight, orange rimlight or brightly lit face, no magic halo, no crucifix/crown, no visible rib binding, no death/aftermath. Render skin as large matte directional oil strokes, NOT glossy/anime/realistic gradients. No demon/second identity.",
+        "references": [
+          {
+            "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+            "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+            "inspected": true,
+            "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:40:59.597672+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Sennara\"; exact title \"The Beloved World\". ONE mature adult human woman, fortyish visual casting, medium olive-brown skin, broad straight nose, strong square-rounded jaw, tired dark matte eyes, dark brown chin-length hair tied in a short LOW knot with loose wisps; ordinary human ears and anatomy. Competent, weary and watchful, not glamorous/teenage/crone. Two complete same-state clothed front/rear body studies labelled \"Before black dawn\" and \"Rear\". Worn dark brown long travel COAT to calf over charcoal tunic/trousers and worn brown lace BOOTS with salt whitening seams, low practical belt. Hands empty and uninjured, no blood. Large matching face labelled \"Keeping the choice\". Isolated ash-silver knife with short straight blade and plain dark handle, label \"Ash-silver knife\"; it is normally concealed against spine under coat, do not show through cloth or held in these body poses. Small separate left boot heel closeup with salt and split worn seam, non-graphic.\nCRITICAL light: actual midnight STARLESS darkness. Image1 supplies dark connected navy/charcoal masses and scarce cool pale salt reflection. Faces and body should be 75 percent low-value cool shadow with just narrow dim reflected light planes; paper remains ivory. NO golden sunlight, orange rimlight or brightly lit face, no magic halo, no crucifix/crown, no visible rib binding, no death/aftermath. Render skin as large matte directional oil strokes, NOT glossy/anime/realistic gradients. No demon/second identity.",
+            "references": [
+              {
+                "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+                "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+                "inspected": true,
+                "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+              }
+            ],
+            "preflight": [
+              "Full finished source and compatible cover/oil originals inspected; selected living pre-dawn state does not mix with injury/death aftermath.",
+              "One mature identity, complete views fit; source-specific anatomy/props, broad paint and sparse cool night light explicitly required.",
+              "No exact shared identity found; unspecified casting recorded as art-only interpretation."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-87d66164-e89d-44eb-ab7f-aacf074c230d.png",
+            "outputSha256": "d9a027391037872bed4b66f9a9a57bd6a976cfc70b1e882540720a320fd11d7d",
+            "finishedAt": "2026-09-24T03:43:17.588667+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual returned pixels inspected: mature human woman, coherent olive-brown face/low tied hair across complete front/rear/portrait; exact name and story title.",
+              "Source traveling coat, salt-worn boots, separate ash-silver knife and labeled left-heel boot detail, no visible binding or premature burned hands. Single identity with unclipped body views.",
+              "Deep connected navy/brown nighttime shadows, only dim cool face planes, broad matte bristle paint over face and clothing; ivory paper without terrain/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-87d66164-e89d-44eb-ab7f-aacf074c230d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "623422e5e72db7105816c6020b99ab3a847213cc92f26e0f8b8ec586a0ef9e53",
+        "outputSha256": "d9a027391037872bed4b66f9a9a57bd6a976cfc70b1e882540720a320fd11d7d",
+        "references": [
+          {
+            "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+            "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+            "inspected": true,
+            "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+          }
+        ],
+        "evidence": [
+          "Actual returned pixels inspected: mature human woman, coherent olive-brown face/low tied hair across complete front/rear/portrait; exact name and story title.",
+          "Source traveling coat, salt-worn boots, separate ash-silver knife and labeled left-heel boot detail, no visible binding or premature burned hands. Single identity with unclipped body views.",
+          "Deep connected navy/brown nighttime shadows, only dim cool face planes, broad matte bristle paint over face and clothing; ivory paper without terrain/swatches."
+        ],
+        "specificationSha256": "7cdb38a03ac550abb0d15976e80ae1d77f25b37ab98604bc2d1f99cb7e078404"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d9a027391037872bed4b66f9a9a57bd6a976cfc70b1e882540720a320fd11d7d"
+    },
+    {
+      "id": "iverax",
+      "name": "Iverax",
+      "role": "demon lover who chooses Sennara and unleashes worldfire",
+      "form": "adult male demon",
+      "selectionEvidence": [
+        {
+          "quote": "His horns swept back close to his skull",
+          "explanation": "Specific source anatomy must remain swept backward, not tall spreading antlers."
+        },
+        {
+          "quote": "a red suggestion beneath brown skin",
+          "explanation": "Subtle initial internal worldfire rather than burning external body."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Already a century old at meeting; adult male demon.",
+        "anatomy": "Brown skin, horns swept back close to skull, black claws, too much tooth; faint red heat through chest seams; barefoot.",
+        "clothing": "Shirt, trousers; shirt hangs open near dawn.",
+        "details": "Pale notch below jaw where Sennara's sword once touched; no wings/tail stated.",
+        "state": "Pre-dawn living traveling state before fatal final action; no resurrection portrayal."
+      },
+      "visualInterpretation": [
+        "Restrained unspecified casting: angular long brown face, blunt jaw, dark wavy neck-length hair, brown matte eyes, lean strong adult body.",
+        "Torn worn off-white open-front shirt and dark brown trousers; quiet red chest seams, no exposed erotic emphasis, no invented wings or tail."
+      ],
+      "states": [
+        {
+          "name": "Before black dawn",
+          "description": "Living adult in pre-dawn traveling state before fatal climax; character isolated."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "saint-and-demon:iverax",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe search found no exact match."
+      },
+      "output": "stories/saint-and-demon/art/characters/iverax.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Iverax\"; exact title \"The Beloved World\". ONE adult male demon, brown skin, angular long face, blunt jaw, dark wavy neck-length hair, dark matte brown eyes, strong lean ordinary adult male build. EXACT horns: two dark smooth horns start above temples and sweep BACKWARD CLOSE to skull, curving low above ears toward back of head, not upright, antlers or wide outward ram spirals. BLACK CLAWS at end of normal five-finger hands; ordinary human legs and bare human-shaped FEET with normal five toes, no hooves. No wings/tail. Two complete clothed front/rear full-body studies labelled \"Before black dawn\" and \"Rear\". Worn off-white plain SHIRT open at front modestly showing chest, one ragged torn shirt hem from heel-bandage strip, dark brown trousers to ankle. Faint dull red heat follows a FEW narrow seams under brown chest skin, subtle and localized, not glowing whole body or fire around him. Hands relaxed, no weapon. Large matching face labelled \"Before the bargain\", calm tender wary mouth, slight extra pointed tooth visible at lip, tiny pale NOTCH below jaw in throat, no exaggerated fangs/snarl. One small closeup \"Black claws\" of his ordinary five-finger hand.\nCRITICAL light: actual midnight STARLESS darkness. Image1 supplies dark connected navy/charcoal masses, barely cool reflected light. Figures/face must be 75 percent low-value cool shadow, with small dull red chest accents only, NO golden daylight or dramatic red rim. Ivory page stays quiet. Broad matte oil paint over brown skin and clothes, coarse flat bristle planes, no glossy rendered abs or glamour. No woman, no romance pose, no demon death or later resurrection.",
+        "references": [
+          {
+            "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+            "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+            "inspected": true,
+            "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:40:59.600569+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Iverax\"; exact title \"The Beloved World\". ONE adult male demon, brown skin, angular long face, blunt jaw, dark wavy neck-length hair, dark matte brown eyes, strong lean ordinary adult male build. EXACT horns: two dark smooth horns start above temples and sweep BACKWARD CLOSE to skull, curving low above ears toward back of head, not upright, antlers or wide outward ram spirals. BLACK CLAWS at end of normal five-finger hands; ordinary human legs and bare human-shaped FEET with normal five toes, no hooves. No wings/tail. Two complete clothed front/rear full-body studies labelled \"Before black dawn\" and \"Rear\". Worn off-white plain SHIRT open at front modestly showing chest, one ragged torn shirt hem from heel-bandage strip, dark brown trousers to ankle. Faint dull red heat follows a FEW narrow seams under brown chest skin, subtle and localized, not glowing whole body or fire around him. Hands relaxed, no weapon. Large matching face labelled \"Before the bargain\", calm tender wary mouth, slight extra pointed tooth visible at lip, tiny pale NOTCH below jaw in throat, no exaggerated fangs/snarl. One small closeup \"Black claws\" of his ordinary five-finger hand.\nCRITICAL light: actual midnight STARLESS darkness. Image1 supplies dark connected navy/charcoal masses, barely cool reflected light. Figures/face must be 75 percent low-value cool shadow, with small dull red chest accents only, NO golden daylight or dramatic red rim. Ivory page stays quiet. Broad matte oil paint over brown skin and clothes, coarse flat bristle planes, no glossy rendered abs or glamour. No woman, no romance pose, no demon death or later resurrection.",
+            "references": [
+              {
+                "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+                "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+                "inspected": true,
+                "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+              }
+            ],
+            "preflight": [
+              "Full finished source and compatible cover/oil originals inspected; selected living pre-dawn state does not mix with injury/death aftermath.",
+              "One mature identity, complete views fit; source-specific anatomy/props, broad paint and sparse cool night light explicitly required.",
+              "No exact shared identity found; unspecified casting recorded as art-only interpretation."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a385b91c-0136-4a01-bef4-521197a9622b.png",
+            "outputSha256": "07b55bba24e35280dcc452ee9527e3e75bb625db33899fd8b764ac231315f6ed",
+            "finishedAt": "2026-09-24T03:43:17.601656+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: same adult brown-skinned demon front/rear/portrait, low swept-back close horns, dark wavy hair, black claws, bare human feet, small pale throat notch and subtle chest-red seams.",
+              "Complete clothed traveling views with open ragged shirt/trousers, no wings/tail/hooves, no second identity or postmortem resurrection; readable exact name/title.",
+              "Broad matte bristle skin/clothing paint, dark navy connected face shadows with subdued shirt reflection, sparse red chest accents, clean ivory and no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a385b91c-0136-4a01-bef4-521197a9622b.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "623422e5e72db7105816c6020b99ab3a847213cc92f26e0f8b8ec586a0ef9e53",
+        "outputSha256": "07b55bba24e35280dcc452ee9527e3e75bb625db33899fd8b764ac231315f6ed",
+        "references": [
+          {
+            "path": "stories/saint-and-demon/art/landscapes/01-the-salt-crucible.png",
+            "role": "primary source midnight cool near-black light and broad connected matte oil style only; do not paint landscape",
+            "inspected": true,
+            "sha256": "862e562f6c2453de50af0f3c24d254043f7817bfcbf029ea85aa4e7801f1a61a"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same adult brown-skinned demon front/rear/portrait, low swept-back close horns, dark wavy hair, black claws, bare human feet, small pale throat notch and subtle chest-red seams.",
+          "Complete clothed traveling views with open ragged shirt/trousers, no wings/tail/hooves, no second identity or postmortem resurrection; readable exact name/title.",
+          "Broad matte bristle skin/clothing paint, dark navy connected face shadows with subdued shirt reflection, sparse red chest accents, clean ivory and no scene/swatches."
+        ],
+        "specificationSha256": "d892a5b5bc65b3941b0b615877d8b68112ace6670cc67c8e90e5c7386b1fb563"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "07b55bba24e35280dcc452ee9527e3e75bb625db33899fd8b764ac231315f6ed"
+    }
+  ],
+  "sourceSha256": "623422e5e72db7105816c6020b99ab3a847213cc92f26e0f8b8ec586a0ef9e53"
+}
