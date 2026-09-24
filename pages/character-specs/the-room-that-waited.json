@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-room-that-waited",
+  "title": "The Room That Waited",
+  "source": "stories/the-room-that-waited/story.md",
+  "sourceSha256": "a227a0dc812891280232762451120506815af56d3ee6bc5e2c94fe405c107959",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete source read: Kilta adult narrator and Zumi age13 are only sustained cast, their relation and opposing judgments drive all action.",
+  "excludedMinorCharacters": [
+    "Other diggers, father, mill apprentice and older builders are recalled/incidental.",
+    "Room/facility/hatch/lamp and extinct equipment have no autonomous living agency; title metaphor does not establish a character."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy and style-guide personhood/content boundaries",
+    "Exact-name universe search found no Kilta/Zumi entries; finished source controls local facts."
+  ],
+  "characters": [
+    {
+      "id": "kilta",
+      "name": "Kilta",
+      "role": "Second-person adult finder",
+      "naming": {
+        "sourceName": "Kilta",
+        "sourceRole": "Second-person adult finder",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "“Above, do you hear? Kilta has found a grain cellar with beds.”",
+          "explanation": "Central viewpoint theory/action conflicts with Zumi and changes through her judgment."
+        }
+      ],
+      "form": "Human adult; gender presentation art-only",
+      "storyAppearance": {
+        "anatomy": "Adult experienced digger/narrator, boots, knife with bone handle, hooded oil lamp with horn window bearing three scratched lines, chalk/pry bar used. Gender/age/face/clothing unprovided; relationship to Zumi not explicitly fixed.",
+        "lifeStage": "Adult; age unspecified",
+        "proportions": "Art-only woman about50, sturdy practical build, sun-browned tan skin, freckled broad face and strong jaw, brown eyes, gray hair in single long braid. Faded INDIGO rolled-sleeve work tunic, patched earth-brown trousers, dark brown work boots, simple waist belt.",
+        "equipment": "Three complete front/side/back views, two expressions Confident judgment and Admitting uncertainty, isolated hooded lamp with horn window/three scratched oil-level lines, bone-handled digging knife and short pry bar. No anatomical inserts or hands alone.",
+        "scale": "Ordinary character scale, no scene cue needed",
+        "movement": "Digging/exploring and source expressions"
+      },
+      "explicitCanon": [
+        "Adult experienced digger/narrator, boots, knife with bone handle, hooded oil lamp with horn window bearing three scratched lines, chalk/pry bar used. Gender/age/face/clothing unprovided; relationship to Zumi not explicitly fixed."
+      ],
+      "visualInterpretation": [
+        "Art-only woman about50, sturdy practical build, sun-browned tan skin, freckled broad face and strong jaw, brown eyes, gray hair in single long braid. Faded INDIGO rolled-sleeve work tunic, patched earth-brown trousers, dark brown work boots, simple waist belt.",
+        "A2 distinctness refinement: broad square weathered face, prominent hooked nose, thin lips, deep-set hazel eyes, freckled light olive-tan skin. Art-only."
+      ],
+      "states": [
+        {
+          "name": "Bunker exploration",
+          "description": "Three complete front/side/back views, two expressions Confident judgment and Admitting uncertainty, isolated hooded lamp with horn window/three scratched oil-level lines, bone-handled digging knife and short pry bar. No anatomical inserts or hands alone."
+        }
+      ],
+      "lighting": {
+        "moment": "Underground oil lamp exploration",
+        "motivation": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+      },
+      "recurrence": {
+        "identityKey": "the-room-that-waited:kilta",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+          "role": "Inspected source bunker lamp light and impasto",
+          "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+          "inspected": true,
+          "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+          "role": "Inspected accepted clean ivory folio and opaque face paint",
+          "inspected": true,
+          "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+          "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+        },
+        {
+          "path": "stories/the-room-that-waited/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "21c84b48fe0b772d5b3977f97ccd7adb87271c66554a24e16c008c757588d241",
+          "inspected": true,
+          "notes": "Symbolic radiation panel/contradictory chalk signs; no person. No body template or invented powers."
+        }
+      ],
+      "output": "stories/the-room-that-waited/art/characters/kilta.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case identity-preserve correction. Keep the supplied Kilta / The Room That Waited sheet layout, poses, gray long braid, indigo tunic, patched brown trousers, boots, lamp with three lines, knife and pry bar. Change her facial identity consistently in ALL views and portraits: a weathered broad SQUARE face, prominent broad hooked nose, thin lips, deep-set small hazel eyes, FRECKLED light olive-tan skin, creases beside eyes/mouth, adult around50. Her face must be clearly different from the smooth oval, full-lipped clinician reference; this is an outdoors digger with broad jaw and flat cheeks. Build face from decisive large opaque knife/bristle masses, no smooth beauty rendering. Lighting throughout gets visibly darker COOL slate shadows on half-face and far side body, small warm lamp highlights, not sunny frontal light. Keep ivory flat/clean, typography exact and all other material details. No new hands, anatomy inserts, props or location.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-de78a4ab-975e-4f96-bb2b-326b61f65acd.png",
+            "role": "Inspected immutable A1 edit target",
+            "sha256": "8b7d002dd9584ac8577446b3860f331654ad71bd0f0b71898f41be4eea49eec4",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T12:07:38.101Z",
+            "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on UNIFORM LIGHT WARM IVORY. Exact readable large dark serif heading NAME and subtitle 'The Room That Waited'. ONE named character with2-3 overall views and facial expression portraits. Heavy Canadian Group of Seven SCULPTED OILS: broad opaque interlocking masses, directional bristle and raised knife strokes shape skin, face, hair, cloth; matte eyes; no glossy/anime/photographic face. First ref gives actual source underground OIL LAMP LIGHT: small warm amber planes, substantial dark cool slate-gray half-face/body shadows. Second ref gives clean ivory layout and painted faces only, no copied character/clothes. Preserve darkness on subject while ground stays light. NO floor patches/contact shadows, scenery, furniture, locations, swatches, detached hand studies or anatomy labels. Fully framed clear silhouettes. \nHeading 'Kilta'.\nSource facts: Adult experienced digger/narrator, boots, knife with bone handle, hooded oil lamp with horn window bearing three scratched lines, chalk/pry bar used. Gender/age/face/clothing unprovided; relationship to Zumi not explicitly fixed.\nAppearance interpretation: Art-only woman about50, sturdy practical build, sun-browned tan skin, freckled broad face and strong jaw, brown eyes, gray hair in single long braid. Faded INDIGO rolled-sleeve work tunic, patched earth-brown trousers, dark brown work boots, simple waist belt.\nStudies: Three complete front/side/back views, two expressions Confident judgment and Admitting uncertainty, isolated hooded lamp with horn window/three scratched oil-level lines, bone-handled digging knife and short pry bar. No anatomical inserts or hands alone. Readable subtitle exactly. No added military insignia/hazard suits/radiation powers.",
+            "references": [
+              {
+                "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+                "role": "Inspected source bunker lamp light and impasto",
+                "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+                "inspected": true,
+                "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+                "role": "Inspected accepted clean ivory folio and opaque face paint",
+                "inspected": true,
+                "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+                "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-de78a4ab-975e-4f96-bb2b-326b61f65acd.png",
+            "review": "A1 too closely repeats clinician rendering-reference face and weakens lamp shadows; refine distinct art identity and low lamp values."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:14:57.002116+00:00",
+            "prompt": "Use case identity-preserve correction. Keep the supplied Kilta / The Room That Waited sheet layout, poses, gray long braid, indigo tunic, patched brown trousers, boots, lamp with three lines, knife and pry bar. Change her facial identity consistently in ALL views and portraits: a weathered broad SQUARE face, prominent broad hooked nose, thin lips, deep-set small hazel eyes, FRECKLED light olive-tan skin, creases beside eyes/mouth, adult around50. Her face must be clearly different from the smooth oval, full-lipped clinician reference; this is an outdoors digger with broad jaw and flat cheeks. Build face from decisive large opaque knife/bristle masses, no smooth beauty rendering. Lighting throughout gets visibly darker COOL slate shadows on half-face and far side body, small warm lamp highlights, not sunny frontal light. Keep ivory flat/clean, typography exact and all other material details. No new hands, anatomy inserts, props or location.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-de78a4ab-975e-4f96-bb2b-326b61f65acd.png",
+                "role": "Inspected immutable A1 edit target",
+                "sha256": "8b7d002dd9584ac8577446b3860f331654ad71bd0f0b71898f41be4eea49eec4",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-3f98039f-cd90-423e-a73a-5d77b9680627.png",
+            "savedPath": "stories/the-room-that-waited/art/characters/kilta.png",
+            "outputSha256": "9376178668f1cc494a10c1dc5d43a4ab85e26d4066d483bbcac2957a638c1e9f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:20:17.039229+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:20:17.039229+00:00",
+        "sourceSha256": "a227a0dc812891280232762451120506815af56d3ee6bc5e2c94fe405c107959",
+        "outputSha256": "9376178668f1cc494a10c1dc5d43a4ab85e26d4066d483bbcac2957a638c1e9f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-de78a4ab-975e-4f96-bb2b-326b61f65acd.png",
+            "role": "Inspected immutable A1 edit target",
+            "sha256": "8b7d002dd9584ac8577446b3860f331654ad71bd0f0b71898f41be4eea49eec4",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 weathered freckled broad-jawed finder identity clearly differentiated from rendering reference, gray braid/indigo work tunic and patched trousers consistent; exact source-name/title.",
+          "Source lamp with three level scratches, bone-handled knife/pry bar, substantial cool lamp shadows and sculpted paint; clean ivory no environment or isolated hands."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "4f1d2197a50c79da84809e7ee96f223079074ec573a3d952554a675a099025d7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished story and marker fully read; actual cover, source interior/sunset paintings and accepted style pixels inspected. Source life stage and nonliving facility respected; feasible character-only no-hand-study brief."
+      },
+      "outputSha256": "9376178668f1cc494a10c1dc5d43a4ab85e26d4066d483bbcac2957a638c1e9f"
+    },
+    {
+      "id": "zumi",
+      "name": "Zumi",
+      "role": "Thirteen-year-old finder",
+      "naming": {
+        "sourceName": "Zumi",
+        "sourceRole": "Thirteen-year-old finder",
+        "provenance": "Exact finished source name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "a promise is a promise even when made to a thirteen-year-old",
+          "explanation": "Discovers buried room, insists on independent judgment, blocks manipulation and leads exit."
+        }
+      ],
+      "form": "Human girl age13",
+      "storyAppearance": {
+        "anatomy": "Girl age13, clay-dusted eyebrow, chalk-whitened fingers, boots and belt, uses chalk/pry bar and carries empty grain sack; no stated hair/skin/eye/clothing colors.",
+        "lifeStage": "Thirteen-year-old",
+        "proportions": "Art-only youthful13, short and slim ordinary child build with natural head/eye proportions, pale olive skin, round open face, brown eyes, messy short auburn curls. Ochre buttoned work shirt, faded blue sleeveless vest, gray work trousers with plain canvasbelt, brown ankle boots. Pale empty coarse grain sack slung loosely over shoulder in one pose.",
+        "equipment": "Three overall front/side/back views, Curious triumph and Firm refusal expression portraits, chalk stub and folded empty grain sack personal object details. No close-up hands, adultized makeup or body proportions; modest everyday clothing.",
+        "scale": "Ordinary character scale, no scene cue needed",
+        "movement": "Digging/exploring and source expressions"
+      },
+      "explicitCanon": [
+        "Girl age13, clay-dusted eyebrow, chalk-whitened fingers, boots and belt, uses chalk/pry bar and carries empty grain sack; no stated hair/skin/eye/clothing colors."
+      ],
+      "visualInterpretation": [
+        "Art-only youthful13, short and slim ordinary child build with natural head/eye proportions, pale olive skin, round open face, brown eyes, messy short auburn curls. Ochre buttoned work shirt, faded blue sleeveless vest, gray work trousers with plain canvasbelt, brown ankle boots. Pale empty coarse grain sack slung loosely over shoulder in one pose."
+      ],
+      "states": [
+        {
+          "name": "Bunker exploration",
+          "description": "Three overall front/side/back views, Curious triumph and Firm refusal expression portraits, chalk stub and folded empty grain sack personal object details. No close-up hands, adultized makeup or body proportions; modest everyday clothing."
+        }
+      ],
+      "lighting": {
+        "moment": "Underground oil lamp exploration",
+        "motivation": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+      },
+      "recurrence": {
+        "identityKey": "the-room-that-waited:zumi",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+          "role": "Inspected source bunker lamp light and impasto",
+          "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+          "inspected": true,
+          "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+          "role": "Inspected accepted clean ivory folio and opaque face paint",
+          "inspected": true,
+          "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+          "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+        },
+        {
+          "path": "stories/the-room-that-waited/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "21c84b48fe0b772d5b3977f97ccd7adb87271c66554a24e16c008c757588d241",
+          "inspected": true,
+          "notes": "Symbolic radiation panel/contradictory chalk signs; no person. No body template or invented powers."
+        }
+      ],
+      "output": "stories/the-room-that-waited/art/characters/zumi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on UNIFORM LIGHT WARM IVORY. Exact readable large dark serif heading NAME and subtitle 'The Room That Waited'. ONE named character with2-3 overall views and facial expression portraits. Heavy Canadian Group of Seven SCULPTED OILS: broad opaque interlocking masses, directional bristle and raised knife strokes shape skin, face, hair, cloth; matte eyes; no glossy/anime/photographic face. First ref gives actual source underground OIL LAMP LIGHT: small warm amber planes, substantial dark cool slate-gray half-face/body shadows. Second ref gives clean ivory layout and painted faces only, no copied character/clothes. Preserve darkness on subject while ground stays light. NO floor patches/contact shadows, scenery, furniture, locations, swatches, detached hand studies or anatomy labels. Fully framed clear silhouettes. \nHeading 'Zumi'.\nSource facts: Girl age13, clay-dusted eyebrow, chalk-whitened fingers, boots and belt, uses chalk/pry bar and carries empty grain sack; no stated hair/skin/eye/clothing colors.\nAppearance interpretation: Art-only youthful13, short and slim ordinary child build with natural head/eye proportions, pale olive skin, round open face, brown eyes, messy short auburn curls. Ochre buttoned work shirt, faded blue sleeveless vest, gray work trousers with plain canvasbelt, brown ankle boots. Pale empty coarse grain sack slung loosely over shoulder in one pose.\nStudies: Three overall front/side/back views, Curious triumph and Firm refusal expression portraits, chalk stub and folded empty grain sack personal object details. No close-up hands, adultized makeup or body proportions; modest everyday clothing. Readable subtitle exactly. No added military insignia/hazard suits/radiation powers.",
+        "references": [
+          {
+            "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+            "role": "Inspected source bunker lamp light and impasto",
+            "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+            "inspected": true,
+            "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+            "role": "Inspected accepted clean ivory folio and opaque face paint",
+            "inspected": true,
+            "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+            "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T12:07:38.101Z",
+            "prompt": "Use case illustration-story. ONE1536x1024 landscape character reference folio on UNIFORM LIGHT WARM IVORY. Exact readable large dark serif heading NAME and subtitle 'The Room That Waited'. ONE named character with2-3 overall views and facial expression portraits. Heavy Canadian Group of Seven SCULPTED OILS: broad opaque interlocking masses, directional bristle and raised knife strokes shape skin, face, hair, cloth; matte eyes; no glossy/anime/photographic face. First ref gives actual source underground OIL LAMP LIGHT: small warm amber planes, substantial dark cool slate-gray half-face/body shadows. Second ref gives clean ivory layout and painted faces only, no copied character/clothes. Preserve darkness on subject while ground stays light. NO floor patches/contact shadows, scenery, furniture, locations, swatches, detached hand studies or anatomy labels. Fully framed clear silhouettes. \nHeading 'Zumi'.\nSource facts: Girl age13, clay-dusted eyebrow, chalk-whitened fingers, boots and belt, uses chalk/pry bar and carries empty grain sack; no stated hair/skin/eye/clothing colors.\nAppearance interpretation: Art-only youthful13, short and slim ordinary child build with natural head/eye proportions, pale olive skin, round open face, brown eyes, messy short auburn curls. Ochre buttoned work shirt, faded blue sleeveless vest, gray work trousers with plain canvasbelt, brown ankle boots. Pale empty coarse grain sack slung loosely over shoulder in one pose.\nStudies: Three overall front/side/back views, Curious triumph and Firm refusal expression portraits, chalk stub and folded empty grain sack personal object details. No close-up hands, adultized makeup or body proportions; modest everyday clothing. Readable subtitle exactly. No added military insignia/hazard suits/radiation powers.",
+            "references": [
+              {
+                "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+                "role": "Inspected source bunker lamp light and impasto",
+                "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+                "inspected": true,
+                "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+                "role": "Inspected accepted clean ivory folio and opaque face paint",
+                "inspected": true,
+                "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+                "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-603c183e-8a48-414d-8bbc-d6204c2a6089.png",
+            "savedPath": "stories/the-room-that-waited/art/characters/zumi.png",
+            "outputSha256": "10cc7a6075cd62e4df93e0177a334275502223db8e784ed5bf3bfaa104d40b52",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T12:14:57.007525+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T12:14:57.007525+00:00",
+        "sourceSha256": "a227a0dc812891280232762451120506815af56d3ee6bc5e2c94fe405c107959",
+        "outputSha256": "10cc7a6075cd62e4df93e0177a334275502223db8e784ed5bf3bfaa104d40b52",
+        "references": [
+          {
+            "path": "stories/the-room-that-waited/art/interiors/01-bunker-entrance-passage.png",
+            "role": "Inspected source bunker lamp light and impasto",
+            "sha256": "8eb095787f00c3b89ce2d61518cad355a125c110af170f67d549abb6988f0a68",
+            "inspected": true,
+            "notes": "Restrained oil-lamp amber against deep cool slate-gray shadows; no bunker scenery."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-84591e66-98da-4672-8b2a-4989419f5bc1.png",
+            "role": "Inspected accepted clean ivory folio and opaque face paint",
+            "inspected": true,
+            "notes": "Layout/rendering only, never borrow character face/hair/clothes/age.",
+            "sha256": "f397a5950b1d9e9f61ad910a11cb0172925d74f964d7befe85b41b2201bdfead"
+          }
+        ],
+        "evidence": [
+          "Actual A1 youthful13-year-old girl, short auburn curls, ochre/blue modest working clothes, chalk and empty grain sack, curious and firm expression portraits. No adultization or isolated hands.",
+          "Consistent full-body/face identity and oil paint, warm/cool lamp planes, exact name/title, clean ivory no location or floor."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "0e374a85c93be18dbad64f383305129e7bbbc7e979416e68933ea28eb65ceaee"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished story and marker fully read; actual cover, source interior/sunset paintings and accepted style pixels inspected. Source life stage and nonliving facility respected; feasible character-only no-hand-study brief."
+      },
+      "outputSha256": "10cc7a6075cd62e4df93e0177a334275502223db8e784ed5bf3bfaa104d40b52"
+    }
+  ]
+}
