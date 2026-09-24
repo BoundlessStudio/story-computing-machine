@@ -1427,6 +1427,70 @@
       ]
     },
     {
+      "slug": "between-the-colors",
+      "title": "Between the Colors",
+      "reader": "stories/between-the-colors.html",
+      "images": [
+        {
+          "id": "berian",
+          "title": "Berian",
+          "alt": "Sculpted Impasto character reference sheet of Berian for Between the Colors",
+          "source": "stories/between-the-colors/art/characters/berian.png",
+          "sourceSha256": "f069ff5821b62f5a85e5600c79db789e5f2411173d2f59d41eb832a20ebeaa1c",
+          "full": {
+            "path": "characters/between-the-colors/berian-f069ff5821b62f5a.webp",
+            "sha256": "dfe2a0ed80731d5d62914e43b1e131a9f37c6b31f15cc785e1d479ceeb3101d3",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/between-the-colors/berian-f069ff5821b62f5a-thumb.webp",
+            "sha256": "81c24796c05ab33c92e2e9cbcadf7fec5797e12fc9b3a5d25f084e9a30f05060",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "iseth",
+          "title": "Iseth",
+          "alt": "Sculpted Impasto character reference sheet of Iseth for Between the Colors",
+          "source": "stories/between-the-colors/art/characters/iseth.png",
+          "sourceSha256": "f1cf313942d20754da0600909b698478d57fd473922ce003909852cfa5e9dda5",
+          "full": {
+            "path": "characters/between-the-colors/iseth-f1cf313942d20754.webp",
+            "sha256": "03c10c64dcbf1a3b9e238133f72bdf1ad482c2246ad15973ec7d140bb6665b24",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/between-the-colors/iseth-f1cf313942d20754-thumb.webp",
+            "sha256": "12fd2efba32f9d3772b4d357b17cfa2b7fdaa638d81f66d7df908b55e1c441a9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "tesset",
+          "title": "Tesset",
+          "alt": "Sculpted Impasto character reference sheet of Tesset for Between the Colors",
+          "source": "stories/between-the-colors/art/characters/tesset.png",
+          "sourceSha256": "5e522f21bce6b3a89a8e0dfd500407af42fe7b8975c8e3d1b3e07f30135ca44d",
+          "full": {
+            "path": "characters/between-the-colors/tesset-5e522f21bce6b3a8.webp",
+            "sha256": "3e2a3bba3b8bcf4044dac8d7e49325e93bbf09053a7353d2353ff29923bcaa41",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/between-the-colors/tesset-5e522f21bce6b3a8-thumb.webp",
+            "sha256": "1d6e4ba450d05586ba7bc3d849ebc8ea6fffb806c73ee87b979cde0a71273423",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "by-tooth-and-threshold",
       "title": "By Tooth and Threshold",
       "reader": "stories/by-tooth-and-threshold.html",
@@ -2333,6 +2397,89 @@
           "thumbnail": {
             "path": "characters/a-throne-neither-wanted/vesran-1180e35160d91c2c-thumb.webp",
             "sha256": "a30f862a9343955e3045c540ff1a6a22b354c635607763b26c6991f84e6937b0",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
+      "slug": "deja-vu-too-late",
+      "title": "The Warning Comes Second",
+      "reader": "stories/deja-vu-too-late.html",
+      "images": [
+        {
+          "id": "dalsen",
+          "title": "Dalsen",
+          "alt": "Sculpted Impasto character reference sheet of Dalsen for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/characters/dalsen.png",
+          "sourceSha256": "66a202b4fe96089c044d046cdfa93361809876d267473132ed66d5e199a7f148",
+          "full": {
+            "path": "characters/deja-vu-too-late/dalsen-66a202b4fe96089c.webp",
+            "sha256": "3d272acafba22b8358f26ab781479b6a176512978485b0e6333f8db9bdcc685e",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deja-vu-too-late/dalsen-66a202b4fe96089c-thumb.webp",
+            "sha256": "9a1c23ca31d4781cf4ffefcca6f643ccd222abdd8c3f34b2674baf4ae9028679",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "kessa",
+          "title": "Kessa",
+          "alt": "Sculpted Impasto character reference sheet of Kessa for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/characters/kessa.png",
+          "sourceSha256": "ba4992eea349da5b3caa7bb48650376e688cde2f0ab65258ce170243c041b5eb",
+          "full": {
+            "path": "characters/deja-vu-too-late/kessa-ba4992eea349da5b.webp",
+            "sha256": "45d3a32eb51e4f091ae895aa6b8720cbd4bfcd843070437e768afa143f31c150",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deja-vu-too-late/kessa-ba4992eea349da5b-thumb.webp",
+            "sha256": "808b9128239d0e2612854d5b61d206d57ef4b45eb28fc10c33ee17a9c2800a63",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "orivan",
+          "title": "Orivan",
+          "alt": "Sculpted Impasto character reference sheet of Orivan for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/characters/orivan.png",
+          "sourceSha256": "500e1e177052835520f8cd4cd3db3dda48c3d47db335b31f7caa98b2981d24f4",
+          "full": {
+            "path": "characters/deja-vu-too-late/orivan-500e1e1770528355.webp",
+            "sha256": "86d1722140b0687de0938068e9b430866a40d6eef9de0dfe0979db5eef4c5ef5",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deja-vu-too-late/orivan-500e1e1770528355-thumb.webp",
+            "sha256": "9b8ad2350bb5233a44664b2b1ae559e4e56f04472338c404930f5ed6b1fac2b9",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "pavax",
+          "title": "Pavax",
+          "alt": "Sculpted Impasto character reference sheet of Pavax for The Warning Comes Second",
+          "source": "stories/deja-vu-too-late/art/characters/pavax.png",
+          "sourceSha256": "27c74016756133eb3470545d46e3c02dbe5854dfc994b27f46a97c86c5e21ca2",
+          "full": {
+            "path": "characters/deja-vu-too-late/pavax-27c74016756133eb.webp",
+            "sha256": "099611c11e67fd763fc2dba487efca0d041c50fa6ef9aa0c47ee5a14a6a3930f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/deja-vu-too-late/pavax-27c74016756133eb-thumb.webp",
+            "sha256": "723ff8055a34b8aac1aa4c1c931c57a4093530c149652ecdaa888912052f1fe0",
             "width": 480,
             "height": 320
           }
