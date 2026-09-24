@@ -9335,25 +9335,6 @@
             "prompt": "Use case: precise small prop-count edit. Keep the entire supplied expressive oil bedroom painting and its composition, but correct the open shoebox contents in the foreground.\nThere must be EXACTLY SIX OLD LOOSE KEYS TOTAL inside the shoebox. The original has five. Add one matching old brass/iron key and arrange all SIX in the existing key area to the LEFT of the deck of cards, a slight orderly fan or close row with SIX separate fully visible bow heads and SIX individual shafts/bit ends. They must remain clearly countable, without stacked or hidden keys, fused shafts, duplicates elsewhere or key rings. Preserve their believable old household-key proportions and oil-painted material.\nPreserve exactly TWO cuff links, the single old softened deck of cards, one scratched COPPER pocket watch with its large stem and no magical glow, and the small yellow pencil stub near the front. Make that pencil a worn short stub about one inch long, shorter than an individual key; keep it near its current place. Nothing else is added to the box.\nKeep the original open box and lid, worn bedside table, unmade bed, warm table lamp, closed curtains, open wardrobe, folded laundry on the chair, empty room, warm ochre/slate/lavender color masses and bold thick oil brushwork. No people, headings, writing overlays, labels, watermark, border, photorealism or 3D rendering. One 3:2 landscape, 1536x1024 preferred.\n",
             "generator": "image_gen"
           }
-        },
-        {
-          "id": "03-the-kitchen-after-midnight",
-          "title": "The kitchen after midnight",
-          "alt": "The kitchen after midnight — oil interior study for The Trouble With Tuesdays",
-          "source": "stories/the-trouble-with-tuesdays/art/interiors/03-the-kitchen-after-midnight.png",
-          "sourceSha256": "b3b1dab281188ef734ddeebc791b68feaae0b462156a3e2d45d987ef2e6fd5d8",
-          "full": {
-            "path": "interiors/the-trouble-with-tuesdays/03-the-kitchen-after-midnight-b3b1dab281188ef7.webp",
-            "sha256": "bb2a1121e40c9c0315d0c423c3f7fecc3703c6cdb44cb2b54f959fd910fb5363",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "interiors/the-trouble-with-tuesdays/03-the-kitchen-after-midnight-b3b1dab281188ef7-thumb.webp",
-            "sha256": "cc06de92bec738991da7a2c92924481067bb84189dfe4436e1a81dcd48e67271",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -12114,6 +12095,11 @@
       "source": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
       "sourceSha256": "a2583a75c70acb805dadfd5726369207afe58a8ebeae943b9c4613fa8c670285",
       "reason": "Use jaw-length ash-brown hair falling from the loosened foundation and rotate the chair away from the mirror; preserve the bench tools and loose strands."
+    },
+    {
+      "source": "stories/the-trouble-with-tuesdays/art/interiors/03-the-kitchen-after-midnight.png",
+      "sourceSha256": "b3b1dab281188ef734ddeebc791b68feaae0b462156a3e2d45d987ef2e6fd5d8",
+      "reason": "User requested removal of The kitchen after midnight from the Gallery."
     }
   ]
 }
