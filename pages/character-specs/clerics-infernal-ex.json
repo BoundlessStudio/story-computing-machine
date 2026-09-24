@@ -1,0 +1,827 @@
+{
+  "slug": "clerics-infernal-ex",
+  "title": "Hello, Lover",
+  "source": "stories/clerics-infernal-ex/story.md",
+  "canon": false,
+  "mainCastEvidence": "Emet and Lacrixa carry the relationship and rescue conflict; Udren directs shelter evacuation and later accountability; Bosk's sustained rhythmic counts enable the rescue before and after his drum breaks.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Limping glaze grinder",
+      "reason": "Single endangered worker rescue motivates a climax choice, but no sustained independent characterization or viewpoint."
+    },
+    {
+      "name": "Shelter guests, carters, family and dogs, kiln workers",
+      "reason": "Incidental evacuation and aftermath participants."
+    },
+    {
+      "name": "Courtesy hinge and borrower loops",
+      "reason": "Explicitly nonliving apparatus without judgment or own power, not characters."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#System categories",
+    "universe/characters.md (no matching names)"
+  ],
+  "characters": [
+    {
+      "id": "emet-sarn",
+      "name": "Emet Sarn",
+      "role": "Cleric protagonist whose concealed hinge and past dishonesty cause the crisis.",
+      "selectionEvidence": [
+        {
+          "quote": "Actually, my ex is referring to me.",
+          "line": 27,
+          "explanation": "Identifies the central past relationship."
+        },
+        {
+          "quote": "I chose the road.",
+          "line": 151,
+          "explanation": "Confession and resulting accountable action drive arc."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Two arms and two legs, ordinary human-shaped proportions.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Burned palm and small wrist cut during crisis, wrapped palm afterward.",
+        "materials": "Living skin/hair; practical cloth and leather.",
+        "clothing": "Practical cleric travel clothes; gloves and boots.",
+        "equipment": "Field breviary with slit stitched lining; salve and bandages.",
+        "scale": "Ordinary adult person scale.",
+        "movement": "Lifts and braces loops, then attends injured.",
+        "distinctiveFeatures": "Covered compatible dark tousled hair and short stubble."
+      },
+      "explicitCanon": [
+        "Male cleric of House of Common Shelter.",
+        "Former relationship with Lacrixa ended nine years before.",
+        "Wears gloves and boots; keeps field breviary.",
+        "Palm burned and wrist cut during crisis, bandaged afterward."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible dark tousled hair, short beard/stubble, fair tan skin, angular long face; age about38.",
+        "Gray travel cloak over charcoal tunic, plain belt and boots; small unmarked clasp rather than establishing a new sacred emblem.",
+        "Dim rushlight and subdued red crossing light; cool deep shadows, no aura."
+      ],
+      "states": [
+        {
+          "name": "Before the crossing",
+          "description": "Gloved hands, breviary, travel clothes."
+        },
+        {
+          "name": "Afterward",
+          "description": "Palm bandaged; tired accountable expression, no magic healing shown."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "clerics-infernal-ex:emet-sarn",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/clerics-infernal-ex/title-image.jpg",
+          "role": "compatible Emet/Lacrixa identity only",
+          "inspected": true,
+          "notes": "Emet dark tousled hair, stubble, gray travel cloak; Lacrixa red skin dark loose curls work leathers. Source requires swept black horns with brass tips and left horn silver ring; cover metal-heavy horns simplified accordingly. No cover rendering or scenery copied.",
+          "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+          "role": "rushlight/stove night palette and oil handling only",
+          "inspected": true,
+          "notes": "Small amber lights, dark violet-blue shadows, no furniture/environment transfer.",
+          "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+          "role": "kiln warmth, material palette and oil handling only",
+          "inspected": true,
+          "notes": "Warm ocher light and cool violet tile; depicts brighter room outside crisis, subordinate to source nighttime red crossing light.",
+          "sha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil/folio style only",
+          "inspected": true,
+          "notes": "Broad matte paint, clean warm ivory with no swatches; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE Emet Sarn character sheet, exact title 'Emet Sarn' and 'Hello, Lover'. Preserve compatible cover man's adult angular long face, short dark stubble and tousled dark brown hair, fair tan skin, age about38, strong lean build. Render into broad matte oil; not cover's digital texture. Plain gray hooded traveling cleric cloak over charcoal tunic, leather belt, dark trousers, boots and work gloves; simple unmarked cloak clasp, no invented god-symbol. Two complete isolated unclipped views: front three-quarter before crisis holding modest worn field breviary, intact gloved hands; back-three-quarter afterward, hood down, same clothes, one palm visibly wrapped in simple linen bandage. Small tired face study and hand study of wrapped palm with discreet small healing wrist cut, NON-graphic. Small closed breviary with slit sewn inner lining visible, no elaborate glowing runes. Labels 'Before the crossing', 'Afterward', 'Field breviary'. NIGHT rescue under DIM amber rushlights with muted red-orange side spill from crossing; face/clothes mostly deep connected violet-blue shadow, small warm light planes, two stops below bright portrait exposure. NO universal daylight, stage glow, theatrical rim. Heavy oil in large quiet forms, selective impasto not mosaic chips. No gate, room, portal, shield, furniture or environment, only person and personal props on ivory.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:37:05.072453+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE Emet Sarn character sheet, exact title 'Emet Sarn' and 'Hello, Lover'. Preserve compatible cover man's adult angular long face, short dark stubble and tousled dark brown hair, fair tan skin, age about38, strong lean build. Render into broad matte oil; not cover's digital texture. Plain gray hooded traveling cleric cloak over charcoal tunic, leather belt, dark trousers, boots and work gloves; simple unmarked cloak clasp, no invented god-symbol. Two complete isolated unclipped views: front three-quarter before crisis holding modest worn field breviary, intact gloved hands; back-three-quarter afterward, hood down, same clothes, one palm visibly wrapped in simple linen bandage. Small tired face study and hand study of wrapped palm with discreet small healing wrist cut, NON-graphic. Small closed breviary with slit sewn inner lining visible, no elaborate glowing runes. Labels 'Before the crossing', 'Afterward', 'Field breviary'. NIGHT rescue under DIM amber rushlights with muted red-orange side spill from crossing; face/clothes mostly deep connected violet-blue shadow, small warm light planes, two stops below bright portrait exposure. NO universal daylight, stage glow, theatrical rim. Heavy oil in large quiet forms, selective impasto not mosaic chips. No gate, room, portal, shield, furniture or environment, only person and personal props on ivory.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil/folio style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/title-image.jpg",
+                "role": "compatible Emet/Lacrixa identity only",
+                "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+                "role": "rushlight/stove night palette and oil handling only",
+                "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-fb672bd1-2666-41a6-9472-ca37fd0601ea.png",
+            "outputSha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:39:21.176567+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/title-image.jpg",
+            "role": "compatible Emet/Lacrixa identity only",
+            "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:39:21.176588+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+        "sourceSha256": "32f940e86385243f13dc97d575ae4950ebe3be066e6254802160bb36e0ed54aa",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/title-image.jpg",
+            "role": "compatible Emet/Lacrixa identity only",
+            "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: consistent mature cover-compatible dark-haired stubbled man across complete front/back views and head.",
+          "Source gloves, boots, field breviary and post-crisis wrapped palm with small wrist cut are correctly separated into states.",
+          "Dim subdued warm-red edge light and connected cool shadow; broad matte oil in face, cloak and hands. Readable name/title, unclipped isolated forms and no scenery or swatches."
+        ],
+        "specificationSha256": "a22e237ad0492b158549b48cca57e1e81676816e35815dd8ad08832f51224431"
+      },
+      "lighting": "Dim warm rushlight with subdued red crossing spill and deep violet-blue shadows; no daylight.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Emet Sarn"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816"
+    },
+    {
+      "id": "lacrixa",
+      "name": "Lacrixa",
+      "role": "Demon kiln worker and former partner; rescue co-lead who enforces the relationship boundary.",
+      "selectionEvidence": [
+        {
+          "quote": "Brass capped the points of her swept black horns.",
+          "line": 19,
+          "explanation": "Specific demon anatomy and material identity."
+        },
+        {
+          "quote": "You do not keep me safe by keeping access.",
+          "line": 241,
+          "explanation": "Central boundary and thematic decision."
+        }
+      ],
+      "form": "Adult humanoid demon woman with exactly two swept horns",
+      "storyAppearance": {
+        "anatomy": "Adult woman-shaped demon; two arms, two legs, exactly two swept black horns. No source wings/tail.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Hands powdered white with kiln clay to wrists; silver ring through ridge of LEFT horn.",
+        "materials": "Dark red skin, black horn, brass tips, silver ring, work leather, kiln clay.",
+        "clothing": "Work leathers, apron and boots.",
+        "equipment": "Kiln hammer; no weapon.",
+        "scale": "Ordinary adult person scale.",
+        "movement": "Forceful bracing and lifting, practiced kiln-work posture.",
+        "distinctiveFeatures": "Dark red hands; black swept horns with brass caps; left horn silver ring."
+      },
+      "explicitCanon": [
+        "Demon woman with swept black horns whose points are brass-capped.",
+        "Silver ring through ridge of left horn added over nine years.",
+        "Dark red hands white with kiln clay up to wrists.",
+        "Work leathers, apron, boots and kiln hammer.",
+        "Short tongue of flame from her fist softens a pin; orange heat flashes between clenched fingers in anger."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible dark red complexion, long dark loose curls, angular face and modest pointed ears; mature adult about late30s appearance.",
+        "Strong working build, dark brown functional leather apron/tunic and trousers.",
+        "No invented tail, wings or hooves; boots cover ordinary assumed foot structure.",
+        "Dim kiln/crisis red-orange local illumination with deep cool brown-violet shadows; hand heat shown only small separate state, no constant glow."
+      ],
+      "states": [
+        {
+          "name": "Kiln worker",
+          "description": "Clay-white hands and calm firm face."
+        },
+        {
+          "name": "Brief working heat",
+          "description": "Small flame on fist only, not whole-body aura; separate hand detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "clerics-infernal-ex:lacrixa",
+        "links": [],
+        "evidence": "No cross-story identity established."
+      },
+      "references": [
+        {
+          "path": "stories/clerics-infernal-ex/title-image.jpg",
+          "role": "compatible Emet/Lacrixa identity only",
+          "inspected": true,
+          "notes": "Emet dark tousled hair, stubble, gray travel cloak; Lacrixa red skin dark loose curls work leathers. Source requires swept black horns with brass tips and left horn silver ring; cover metal-heavy horns simplified accordingly. No cover rendering or scenery copied.",
+          "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+          "role": "rushlight/stove night palette and oil handling only",
+          "inspected": true,
+          "notes": "Small amber lights, dark violet-blue shadows, no furniture/environment transfer.",
+          "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+          "role": "kiln warmth, material palette and oil handling only",
+          "inspected": true,
+          "notes": "Warm ocher light and cool violet tile; depicts brighter room outside crisis, subordinate to source nighttime red crossing light.",
+          "sha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil/folio style only",
+          "inspected": true,
+          "notes": "Broad matte paint, clean warm ivory with no swatches; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/clerics-infernal-ex/art/characters/lacrixa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "NARROW CORRECTION of this Lacrixa identity sheet; preserve her exact face/age/red skin, heavy matte oil, clothing, apron, clay hands, poses/body, hammer, flame detail, labels, dimensions1536x1024 and plain ivory. FIX HORNS ONLY across all views and adjust headstudy angle to show them: there are exactly TWO black swept-back horns with small brass TIP caps only, rooted left and right symmetrically and BOTH visibly distinct. No metallic bands down horn lengths. In upper-right HEAD DETAIL use nearly FRONTAL view, keeping SAME identity, with both black horns above temples and curls parted enough to see bases; silver ring through ridge of her anatomical LEFT horn = VIEWER'S RIGHT in this nearfrontal head. No ring on other/right horn. Left main figure is also front-three-quarter, left horn will be to viewer right; keep same ring placement. Center backview left horn is viewer left; ring must stay anatomical left, not migrate. Exactly2horns per view no extra spikes, no onehorn silhouette. Brass caps only last10% of tips, remainder dark black ridged horn. Add tiny clear text 'Left horn: silver ring' by head study if useful, no other new text. Most-important consistency; no change to environment-free design, no scenery/floor/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-23T22:39:22.166026+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity 'Lacrixa' with subtitle 'Hello, Lover'. Demon woman in practical kiln work clothes. Preserve compatible COVER woman's dark red skin, angular mature face, loose long black curls and modest pointed ears. About late30s appearance, strong work build. EXACTLY TWO swept BACK black horns rooted symmetrically forehead sides, curved backward not antlers; only TIP of EACH horn capped in dull brass. A single SILVER RING pierced through ridge of HER LEFT horn, same position all views (anatomical left). NO extra horns, wings, tail or hooves. Ordinary two hands/two booted legs. Dark brown functional work leathers, leather apron, sturdy trousers and flat boots. Both dark-red hands powdered to wrists with white kiln clay. Two large isolated complete-body views: front three-quarter holding modest kiln hammer loosely down; rear three-quarter arms slightly apart shows anatomy, horns/hair/apron ties. Large head detail clarifies both black horns/brass caps and left silver ring, dark calm eyes with NO bright eye glow. One small separate hand study labelled 'Brief working heat' shows a SHORT subtle orange flame licking from a fist, source temporary act; rest body NOT magical glowing. Main label 'Clay-dusted hands' if needed. Source nighttime crisis in kiln heat: most face and clothing dark, DIM red-orange firelight in selected planes, cool umber-violet shadows. Keep dark-red skin genuinely red not tan. No theatrical rim, no sexy pinup, no heavy armor, no magical staff. Broad connected skin/cloth masses and matte coarse bristle curls; selective thick edge accents. Room painting palette/oil only, no tiles/room/scenery/floor/ground patches/swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil/folio style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/title-image.jpg",
+                "role": "compatible Emet/Lacrixa identity only",
+                "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+                "role": "kiln warmth, material palette and oil handling only",
+                "sha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-b0cd-7f80-9898-4eb66d6a746d\\exec-e8558bd8-42c3-41ca-9216-1b5910cfe462.png",
+            "outputSha256": "c8928eb221f0ada7c18da2f576ed9cb6c83db41a76e13472817945665b4e1acf",
+            "reviewFinding": "Horn pair poorly legible behind curls and silver ring appears on near right horn. Need visible exactly-two-horn anatomy and anatomical-left ring in frontal feature view."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:41:54.444527+00:00",
+            "prompt": "NARROW CORRECTION of this Lacrixa identity sheet; preserve her exact face/age/red skin, heavy matte oil, clothing, apron, clay hands, poses/body, hammer, flame detail, labels, dimensions1536x1024 and plain ivory. FIX HORNS ONLY across all views and adjust headstudy angle to show them: there are exactly TWO black swept-back horns with small brass TIP caps only, rooted left and right symmetrically and BOTH visibly distinct. No metallic bands down horn lengths. In upper-right HEAD DETAIL use nearly FRONTAL view, keeping SAME identity, with both black horns above temples and curls parted enough to see bases; silver ring through ridge of her anatomical LEFT horn = VIEWER'S RIGHT in this nearfrontal head. No ring on other/right horn. Left main figure is also front-three-quarter, left horn will be to viewer right; keep same ring placement. Center backview left horn is viewer left; ring must stay anatomical left, not migrate. Exactly2horns per view no extra spikes, no onehorn silhouette. Brass caps only last10% of tips, remainder dark black ridged horn. Add tiny clear text 'Left horn: silver ring' by head study if useful, no other new text. Most-important consistency; no change to environment-free design, no scenery/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-e8558bd8-42c3-41ca-9216-1b5910cfe462.png",
+                "role": "Lacrixa selected identity and oil/layout, horn anatomy correction only",
+                "sha256": "c8928eb221f0ada7c18da2f576ed9cb6c83db41a76e13472817945665b4e1acf",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-f774ddc5-4a70-4794-a1b8-852d822d392f.png",
+            "outputSha256": "4caa38b4b31121815dda78fec1c088e532aea9d2d0e2af8396496d04240d0a3c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:45:12.858926+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-e8558bd8-42c3-41ca-9216-1b5910cfe462.png",
+            "role": "Lacrixa selected identity and oil/layout, horn anatomy correction only",
+            "sha256": "c8928eb221f0ada7c18da2f576ed9cb6c83db41a76e13472817945665b4e1acf",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:45:12.858945+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "4caa38b4b31121815dda78fec1c088e532aea9d2d0e2af8396496d04240d0a3c",
+        "sourceSha256": "32f940e86385243f13dc97d575ae4950ebe3be066e6254802160bb36e0ed54aa",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-e8558bd8-42c3-41ca-9216-1b5910cfe462.png",
+            "role": "Lacrixa selected identity and oil/layout, horn anatomy correction only",
+            "sha256": "c8928eb221f0ada7c18da2f576ed9cb6c83db41a76e13472817945665b4e1acf",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels reviewed: feature view explicitly shows two swept black horns, small brass tips and silver ring on anatomical left/viewer right; oblique full views use foreshortening with ring on far horn.",
+          "Consistent dark-red demon woman, curls, practical work leathers/apron and boots; ordinary two-arm/two-leg form without wings/tail. Clay-white hands and small separately labeled working flame.",
+          "Matte red skin and broad dark leather oil masses with subdued kiln-red light; exact names readable, complete silhouettes, no scenery or swatches."
+        ],
+        "specificationSha256": "4f8cef5cefc429f4cad68d22dddf7617dc0401cf4d0a0fc1f949326cd0d431d6"
+      },
+      "lighting": "Nighttime kiln/crisis red-orange local light and deep cool brown-violet shadows, not daylight.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Lacrixa"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "4caa38b4b31121815dda78fec1c088e532aea9d2d0e2af8396496d04240d0a3c"
+    },
+    {
+      "id": "udren",
+      "name": "Udren",
+      "role": "Rescue partner who protects guests and sets boundaries of field trust.",
+      "selectionEvidence": [
+        {
+          "quote": "Its oak face held firm between his shoulder blades.",
+          "line": 167,
+          "explanation": "Oak shield central protective equipment."
+        },
+        {
+          "quote": "Until field trust is rebuilt,",
+          "line": 261,
+          "explanation": "Directs accountability after sustained rescue support."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Two arms and two legs, ordinary human-shaped proportions.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "No permanent markings supplied.",
+        "materials": "Living skin/hair; practical cloth and leather.",
+        "clothing": "Travel/work clothes appropriate to source, details interpreted.",
+        "equipment": "Broad oak shield, field ledger, bandage.",
+        "scale": "Ordinary adult person scale.",
+        "movement": "Planted bracing stance, calm deliberate hands.",
+        "distinctiveFeatures": "Practical protective posture; no specified facial traits."
+      },
+      "explicitCanon": [
+        "Woman, referred to by she/her.",
+        "Uses broad oak-faced shield to shelter and brace others.",
+        "Writes facts and restrictions in field ledger, rewraps Emet's bandage."
+      ],
+      "visualInterpretation": [
+        "About45, sturdy broad build, deep brown skin, square face, short tightly curled dark hair with a few gray strands.",
+        "Muted moss-green padded travel coat, dark trousers and leather boots; shield has simple functional iron edge with no heraldic symbol.",
+        "Dim warm rushlight with small subdued red spill during crossing, broad cool shadows."
+      ],
+      "states": [
+        {
+          "name": "Shield brace",
+          "description": "Complete standing protective posture."
+        },
+        {
+          "name": "Field record",
+          "description": "Same woman with ledger, shield slung safely."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "clerics-infernal-ex:udren",
+        "links": [],
+        "evidence": "No shared identity established."
+      },
+      "references": [
+        {
+          "path": "stories/clerics-infernal-ex/title-image.jpg",
+          "role": "compatible Emet/Lacrixa identity only",
+          "inspected": true,
+          "notes": "Emet dark tousled hair, stubble, gray travel cloak; Lacrixa red skin dark loose curls work leathers. Source requires swept black horns with brass tips and left horn silver ring; cover metal-heavy horns simplified accordingly. No cover rendering or scenery copied.",
+          "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+          "role": "rushlight/stove night palette and oil handling only",
+          "inspected": true,
+          "notes": "Small amber lights, dark violet-blue shadows, no furniture/environment transfer.",
+          "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+          "role": "kiln warmth, material palette and oil handling only",
+          "inspected": true,
+          "notes": "Warm ocher light and cool violet tile; depicts brighter room outside crisis, subordinate to source nighttime red crossing light.",
+          "sha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil/folio style only",
+          "inspected": true,
+          "notes": "Broad matte paint, clean warm ivory with no swatches; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/clerics-infernal-ex/art/characters/udren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity sheet exact 'Udren' / 'Hello, Lover'. Adult human woman about45, deep brown skin, broad square face, short tightly curled dark hair with a few gray strands, stocky strong practical build. TWO arms/TWO legs natural mature proportions, consistent every view. Muted moss-green padded traveling coat, dark trousers and leather boots. Her source equipment: broad OAK-FACED SHIELD, simple functional iron rim, no heraldry or magic; ordinary FIELD LEDGER and bandage roll. Two complete isolated full-body views: front-three-quarter firm planted shield-brace stance holding large broad oak shield, enough body clear to read anatomy; rear-three-quarter, shield slung safely with real straps, holding ledger at side. Right head studies 'Steady' and 'After the rescue'; same stern-kind adult face, matte broad planes not glossy portrait. Small shield-grain/rim feature detail and closed ledger if useful. Nighttime rushlight: DIM amber near cheek/knuckles, much of body in deep cool violet-blue/moss shadow, subdued red spill from crossing; use Emet exposure as anchor, no bright daylight or heroic rim. Strong connected oil masses with broad directional cloth strokes, quieter deep planes and selective heavy impasto for oak/iron. No sword/staff/armor/jewelry invented. ONLY character + personal equipment on warm ivory, no shelter/stove/wall/furniture/floor/ground patches/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:45:13.874526+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE identity sheet exact 'Udren' / 'Hello, Lover'. Adult human woman about45, deep brown skin, broad square face, short tightly curled dark hair with a few gray strands, stocky strong practical build. TWO arms/TWO legs natural mature proportions, consistent every view. Muted moss-green padded traveling coat, dark trousers and leather boots. Her source equipment: broad OAK-FACED SHIELD, simple functional iron rim, no heraldry or magic; ordinary FIELD LEDGER and bandage roll. Two complete isolated full-body views: front-three-quarter firm planted shield-brace stance holding large broad oak shield, enough body clear to read anatomy; rear-three-quarter, shield slung safely with real straps, holding ledger at side. Right head studies 'Steady' and 'After the rescue'; same stern-kind adult face, matte broad planes not glossy portrait. Small shield-grain/rim feature detail and closed ledger if useful. Nighttime rushlight: DIM amber near cheek/knuckles, much of body in deep cool violet-blue/moss shadow, subdued red spill from crossing; use Emet exposure as anchor, no bright daylight or heroic rim. Strong connected oil masses with broad directional cloth strokes, quieter deep planes and selective heavy impasto for oak/iron. No sword/staff/armor/jewelry invented. ONLY character + personal equipment on warm ivory, no shelter/stove/wall/furniture/floor/ground patches/swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil/folio style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+                "role": "rushlight/stove night palette and oil handling only",
+                "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+                "role": "same-story dim night exposure, broad paint and folio only, not male identity",
+                "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-b76d315a-1b7c-4be6-bc41-04c28a650b87.png",
+            "outputSha256": "1d73de0a946f6ff3104d7b3b2e24c48c54c1910e1f2ae4bd9a1642e5a5544252",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:48:25.941313+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+            "role": "same-story dim night exposure, broad paint and folio only, not male identity",
+            "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:48:25.941336+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "1d73de0a946f6ff3104d7b3b2e24c48c54c1910e1f2ae4bd9a1642e5a5544252",
+        "sourceSha256": "32f940e86385243f13dc97d575ae4950ebe3be066e6254802160bb36e0ed54aa",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+            "role": "same-story dim night exposure, broad paint and folio only, not male identity",
+            "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: two complete strong adult woman views with consistent square mature face, gray-flecked short curls and moss clothing; natural limbs and workable shield straps.",
+          "Broad oak shield without invented emblem; field ledger and bandage source-supported. Exact heading and readable useful labels.",
+          "Connected dark oil forms, matte face and directional oak/cloth impasto, low warm side-light and cool shadows; no scenery, floor or palette strips."
+        ],
+        "specificationSha256": "cd04efb4dbf4cecd6d340925c47fdced8f91a13434610213773826ec5fcf161a"
+      },
+      "lighting": "Night rushlight amber with deep violet-blue shadows and subdued crossing red spill.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Udren"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "1d73de0a946f6ff3104d7b3b2e24c48c54c1910e1f2ae4bd9a1642e5a5544252"
+    },
+    {
+      "id": "bosk",
+      "name": "Bosk",
+      "role": "Bard rescue partner whose counted rhythm persists after loss of his drum.",
+      "selectionEvidence": [
+        {
+          "quote": "Bosk turned his hand drum toward the stove.",
+          "line": 15,
+          "explanation": "Introduces sustained bard role and instrument."
+        },
+        {
+          "quote": "Then his heel hit the sanctuary floor.",
+          "line": 187,
+          "explanation": "Continues rescue rhythm after drum destroyed."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Two arms and two legs, ordinary human-shaped proportions.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Natural adult proportions.",
+        "markings": "Purple weal across collarbone from snapped strap after crisis.",
+        "materials": "Living skin/hair; practical cloth and leather.",
+        "clothing": "Travel/work clothes appropriate to source, details interpreted.",
+        "equipment": "Hand drum with chest strap before destruction; broken strap afterward; cup of water.",
+        "scale": "Ordinary adult person scale.",
+        "movement": "Taps hand-drum rim then stamps heel to count; later quiet support.",
+        "distinctiveFeatures": "Ordinary bard, no source horns/wings or magic instrument."
+      },
+      "explicitCanon": [
+        "Male bard with hand drum and chest strap.",
+        "Drum hide damp initially, drum later destroyed and strap snapped.",
+        "Purple weal across collarbone afterward.",
+        "Continues counting with heel; offers water to Emet."
+      ],
+      "visualInterpretation": [
+        "About35, light brown skin, narrow lively face, wavy chestnut hair tied loosely at nape, sparse beard.",
+        "Muted rust-brown simple wool waistcoat over cream shirt and charcoal trousers, worn boots; no jester costume or invented lute.",
+        "Warm dim stove/rushlight and cool violet shadow; tired aftermath expression."
+      ],
+      "states": [
+        {
+          "name": "Keeping the count",
+          "description": "Complete figure with intact hand drum across chest."
+        },
+        {
+          "name": "After the break",
+          "description": "Complete figure no drum, broken strap held; visible collarbone bruise detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "clerics-infernal-ex:bosk",
+        "links": [],
+        "evidence": "No shared identity established."
+      },
+      "references": [
+        {
+          "path": "stories/clerics-infernal-ex/title-image.jpg",
+          "role": "compatible Emet/Lacrixa identity only",
+          "inspected": true,
+          "notes": "Emet dark tousled hair, stubble, gray travel cloak; Lacrixa red skin dark loose curls work leathers. Source requires swept black horns with brass tips and left horn silver ring; cover metal-heavy horns simplified accordingly. No cover rendering or scenery copied.",
+          "sha256": "8a2f9bdbb7c2d07b7924f337e02b4c99ee9b3b850b1087d70e70d2d38816661c"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+          "role": "rushlight/stove night palette and oil handling only",
+          "inspected": true,
+          "notes": "Small amber lights, dark violet-blue shadows, no furniture/environment transfer.",
+          "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b"
+        },
+        {
+          "path": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
+          "role": "kiln warmth, material palette and oil handling only",
+          "inspected": true,
+          "notes": "Warm ocher light and cool violet tile; depicts brighter room outside crisis, subordinate to source nighttime red crossing light.",
+          "sha256": "b2b9e5c1d66603e8a26069d3d63cd58897bd93a2eca4341e2ca686f9e4819bcf"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "completed collection oil/folio style only",
+          "inspected": true,
+          "notes": "Broad matte paint, clean warm ivory with no swatches; no identity transfer.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/clerics-infernal-ex/art/characters/bosk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet titled exactly 'Bosk' subtitle 'Hello, Lover'. Adult human man about35, light brown skin, narrow lively face, wavy chestnut hair loosely tied at nape, sparse short beard, average wiry build. Distinct from Emet's dark angular heavier beard. Simple muted rust-brown wool waistcoat over cream shirt, charcoal trousers and worn boots. No jester costume, lute, sword, staff, crown or fancy embroidery. Two full unclipped isolated views: left front-three-quarter 'Keeping the count' wearing single strap diagonally across chest supporting one round HAND DRUM, one hand about to tap rim; center side-three-quarter 'After the break' no drum and no intact strap across torso, holding short broken strap end, heel lifted slightly to stamp rhythm. Same identity/clothes/body in both. Small after-crisis head study has quiet tired expression. Small collarbone/shirt-neckline detail shows a single discreet PURPLE WEAL across collarbone where strap snapped, NOT open wound, no excessive exposed chest. Small cup of water source-supported if space. All studies under DIM indoor amber rushlight, limited low warm cheek/knuckles, majority connected deep violet/brown cloth shadows, like Emet sheet. Broad matte oil faces, substantial quiet masses, selective heavy bristle/knife accents not uniform chips. Bare ivory; no floor, stool, room, location vignette, scenery, ground patches or swatches. Drum is ordinary nonmagical wood/hide, never glowing or alive.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:48:27.052641+00:00",
+            "prompt": "Use the actual completed Coris sheet as painting and folio STYLE ONLY, never its face, clothes or identity. Canadian Group of Seven-inspired opaque oils: large connected color/value masses first, varied broad directional bristle strokes, quiet connecting passages, selective strong palette-knife impasto. Faces and hair painted as broadly and matte as body/materials. No anime, photoreal face, glossy eyes, CGI, plastic, theatrical rim light, uniform bevel-lit chips or busy tiny details. Story-specific motivated lighting, coherent subdued shadows and lost edges. 1536x1024 3:2 landscape quiet warm ivory folio, exact name and story title upper left, 2-3 useful isolated unclipped complete-form views plus meaningful details/states. Character ONLY, no other characters, scenic vignette, location, scenery, floor plane, terrain, ground patches, plants, rocks, windows, furniture, paint swatches or palette strip. Concise functional labels, no decorative prose. ONE character sheet titled exactly 'Bosk' subtitle 'Hello, Lover'. Adult human man about35, light brown skin, narrow lively face, wavy chestnut hair loosely tied at nape, sparse short beard, average wiry build. Distinct from Emet's dark angular heavier beard. Simple muted rust-brown wool waistcoat over cream shirt, charcoal trousers and worn boots. No jester costume, lute, sword, staff, crown or fancy embroidery. Two full unclipped isolated views: left front-three-quarter 'Keeping the count' wearing single strap diagonally across chest supporting one round HAND DRUM, one hand about to tap rim; center side-three-quarter 'After the break' no drum and no intact strap across torso, holding short broken strap end, heel lifted slightly to stamp rhythm. Same identity/clothes/body in both. Small after-crisis head study has quiet tired expression. Small collarbone/shirt-neckline detail shows a single discreet PURPLE WEAL across collarbone where strap snapped, NOT open wound, no excessive exposed chest. Small cup of water source-supported if space. All studies under DIM indoor amber rushlight, limited low warm cheek/knuckles, majority connected deep violet/brown cloth shadows, like Emet sheet. Broad matte oil faces, substantial quiet masses, selective heavy bristle/knife accents not uniform chips. Bare ivory; no floor, stool, room, location vignette, scenery, ground patches or swatches. Drum is ordinary nonmagical wood/hide, never glowing or alive.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "completed collection oil/folio style only",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+                "role": "rushlight/stove night palette and oil handling only",
+                "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+                "role": "night exposure and quiet broad oil shadow only; distinct bard face",
+                "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-b0cd-7f80-9898-4eb66d6a746d/exec-322bca7f-4ea9-4975-bc50-38dfd3aacc0e.png",
+            "outputSha256": "c5c0053be437121db604f031c55e52cc4206ff8a018e115d3367f60ccc4ff024",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:51:27.546857+00:00"
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+            "role": "night exposure and quiet broad oil shadow only; distinct bard face",
+            "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:51:27.546884+00:00",
+        "reviewer": "cast_batch_4",
+        "outputSha256": "c5c0053be437121db604f031c55e52cc4206ff8a018e115d3367f60ccc4ff024",
+        "sourceSha256": "32f940e86385243f13dc97d575ae4950ebe3be066e6254802160bb36e0ed54aa",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "completed collection oil/folio style only",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/interiors/01-common-shelter.png",
+            "role": "rushlight/stove night palette and oil handling only",
+            "sha256": "64eadacf1250fb616be590751e06092b7535318393e2cd899aa5c4fa6516df5b",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/clerics-infernal-ex/art/characters/emet-sarn.png",
+            "role": "night exposure and quiet broad oil shadow only; distinct bard face",
+            "sha256": "b8253ab2673731b933a8f751fde802dbea9229d62644744d988c9610301ce816",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: consistent narrow-faced chestnut-haired adult bard across complete front and side views; natural hands and feet.",
+          "Intact hand-drum state and later broken strap/no drum state clearly separate; heel-raised count, collarbone purple weal and water cup supported.",
+          "Matte skin and substantial bristle/knife cloth and hide paint, warm low indoor side-light with cool shadows, exact readable header, no scenery or swatches."
+        ],
+        "specificationSha256": "9b9c247572153cec8930ad496c9ffc86395c084481bd41026258d6ed2af7704b"
+      },
+      "lighting": "Dim stove and rushlight amber with deep violet shadow, post-crisis nighttime rather than bright daytime.",
+      "nameProvenance": {
+        "type": "source",
+        "name": "Bosk"
+      },
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "c5c0053be437121db604f031c55e52cc4206ff8a018e115d3367f60ccc4ff024"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "32f940e86385243f13dc97d575ae4950ebe3be066e6254802160bb36e0ed54aa",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}
