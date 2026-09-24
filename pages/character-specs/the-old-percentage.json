@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-old-percentage",
+  "title": "The Old Percentage",
+  "source": "stories/the-old-percentage/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire current source/prompt and entire prior empire-within source read. Four sustained main speaking actors: Elspeth/Shona/Corbin/Dacre. Explicit continuation requires age82 same prior23-year identity, permanent left-arm weakness. Source cover inspected; younger selected root-approved anchor pinned.",
+  "authorityReferences": [
+    "universe/README.md",
+    "stories/empire-within/story.md (continuation source, not shared canon)"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Club guard, guests, doctor, loan collector, clinic workers",
+      "reason": "Brief supporting encounter/victim or reported roles; no sustained main individual arc comparable to four principals."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "elspeth",
+      "name": "Elspeth",
+      "role": "escaped elderly crime boss and returning protagonist",
+      "form": "82-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Eighty-two",
+          "explanation": "Explicit current age 59years after earlier23."
+        },
+        {
+          "quote": "Her left arm had never recovered its full strength",
+          "explanation": "Same prior injury persistent."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "82, frail, heavy breast/chest, chronic left arm weakness and right-hand tremor; left forearm scraped/dressed after escape.",
+        "clothing": "Too-small coat will not close across chest; ordinary clothes/shoes.",
+        "state": "Arriving at club before right hand is broken; both shoes present."
+      },
+      "visualInterpretation": [
+        "Age stable young Elspeth anchor same oval face/eye spacing/nose/brow/medium brown skin into82 with gray-white loosely tied hair, deep wrinkles and softer jaw.",
+        "Dark brown too-small coat, muted rust blouse, dark trousers/flat shoes; short stooped standing reference within source ability, no invented cane."
+      ],
+      "recurrence": {
+        "identityKey": "empire-within:elspeth",
+        "links": [
+          "empire-within"
+        ],
+        "evidence": "Prompt explicitly continues Elspeth from Nobody Spends Her Name; full both sources read. Root confirmed selected anchor stable/independently reviewed. Age23to82, 59years imprisonment; same left-arm impairment."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Club arrival before guard assault, left forearm dressed, right-hand tremor but no fracture yet."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "output": "stories/the-old-percentage/art/characters/elspeth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "EDIT IMAGE1 Elspeth sheet with TWO source corrections. (1) She is EIGHTY-TWO YEARS OLD, frail after59years imprisonment, not fiftyor sixty. Age the SAME identity visibly another20years: preserve eye-spacing/nose/brow/boneidentity and brownskin, but add deeper natural drooping jowls, hollow temples, prominent eyelidfolds/crowfeet, pronounced necksag/skincreases, age spots and very thin veined hands. Hair becomes MOSTLY GRAY-WHITE with only small darkstrands, same loose tiedback style. Fullbodyfront/rear more hunchedslightstoop, thinner weak limbs, careful short stance, gently bent knees; still entirefigure/boots visible. Keep adult full chest in too-small coat that cannot close. No new cane/helper/wheelchair. (2) REAR-VIEW small forearmDRESSING currently on VIEWER RIGHT / anatomicalRIGHT is wrong. REMOVE that dressing and restorebareordinaryrightwrist. Put dressing on ANATOMICAL LEFT forearm, rear VIEWER LEFT, partlyvisible beyond coat ifneeded, matching correct FRONT VIEW viewerRIGHT LEFTforearm. Thisleftarmweak from oldgunwound, modestguardedpose. Right hand remains intact before later fracture. Preserve title/name/Eighty-two/glasses/palette/completeviews and broad MATTE oil including agedskin. Deep sourceclubshade/amberplanes, no photorealtexture, no gore/armor/scene orswatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0afc9bf6-20ab-478e-96af-3be470c63dfe.png",
+            "role": "inspected current Elspeth candidate; same aged identity, strengthen source82frailty and fix rear dressing side only",
+            "sha256": "5026b146950778469978cdecf07a5063c856463c0f9588b698876e832ec6da67",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:27:03.366192+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Elspeth\"; title \"The Old Percentage\"; role \"Eighty-two\". ONE HUMAN woman EXACT same identity as IMAGE2 young Elspeth, naturally AGED59YEARS to82: preserve medium warm-brown skin, long oval facial structure, eye spacing, brow/nose/lips; now deep authentic age folds, hollow cheeks/softened jaw, gray-white thin hair tied back loosely, dark matte eyes. Frail stooped short elderly body, full chest, tired hard expression. Dark BROWN coat too small to button across chest, open over muted RUST blouse; dark ordinary trousers and FLAT dark shoes, BOTH shoes present. Complete front/rear standing views with visibly cautious hunched posture, hands low; ANATOMICAL LEFT forearm small clean white DRESSING after scrape, weak left arm held nearbody; RIGHT hand mildly trembling posture but ordinary intact five fingers. This is BEFORE club assault, no later broken curled fingers or gore. Large matching aged face. One isolated pair ordinary borrowed thin GLASSES, label \"Borrowed directions\". No pistol/youngbody/halo/cane/armor or new helper. Image2 identity ageforward only, source chosen pre-assaultstate.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+                "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+                "inspected": true,
+                "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+              },
+              {
+                "path": "stories/empire-within/art/characters/elspeth.png",
+                "role": "root-confirmed stable young Elspeth identity and oil anchor; age this SAME woman from23to82, not same clothing/age/injury stage",
+                "inspected": true,
+                "sha256": "b0b5d123321ab195db77ba6273f4271583c043a0f77305584fef23231af15f90"
+              }
+            ],
+            "preflight": [
+              "Full current/prior source and prompt read; source cover, club oil and stable younger Elspeth anchor visually inspected.",
+              "Pre-assault states avoid mixed late injuries; exact82/38/build/tooth details preserved, recurrence aged consistently; other appearances art-only.",
+              "Single identity, complete front/rear and face/prop feasible; mature matte oil including face, subdued source club light on ivory with no locations/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0afc9bf6-20ab-478e-96af-3be470c63dfe.png",
+            "outputSha256": "5026b146950778469978cdecf07a5063c856463c0f9588b698876e832ec6da67",
+            "finishedAt": "2026-09-24T06:48:40.525856+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Recognizable aged recurring identity and oilstyle, dress/glasses coherent, but face/body only late-middle-aged rather than source82/frailty.",
+              "Rear view dressing is on anatomicalRIGHT; must move to anatomicalLEFT, make age/frailty more apparent without changing bone identity."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:48:41.573289+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-age-and-anatomical-continuity-edit",
+            "prompt": "EDIT IMAGE1 Elspeth sheet with TWO source corrections. (1) She is EIGHTY-TWO YEARS OLD, frail after59years imprisonment, not fiftyor sixty. Age the SAME identity visibly another20years: preserve eye-spacing/nose/brow/boneidentity and brownskin, but add deeper natural drooping jowls, hollow temples, prominent eyelidfolds/crowfeet, pronounced necksag/skincreases, age spots and very thin veined hands. Hair becomes MOSTLY GRAY-WHITE with only small darkstrands, same loose tiedback style. Fullbodyfront/rear more hunchedslightstoop, thinner weak limbs, careful short stance, gently bent knees; still entirefigure/boots visible. Keep adult full chest in too-small coat that cannot close. No new cane/helper/wheelchair. (2) REAR-VIEW small forearmDRESSING currently on VIEWER RIGHT / anatomicalRIGHT is wrong. REMOVE that dressing and restorebareordinaryrightwrist. Put dressing on ANATOMICAL LEFT forearm, rear VIEWER LEFT, partlyvisible beyond coat ifneeded, matching correct FRONT VIEW viewerRIGHT LEFTforearm. Thisleftarmweak from oldgunwound, modestguardedpose. Right hand remains intact before later fracture. Preserve title/name/Eighty-two/glasses/palette/completeviews and broad MATTE oil including agedskin. Deep sourceclubshade/amberplanes, no photorealtexture, no gore/armor/scene orswatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0afc9bf6-20ab-478e-96af-3be470c63dfe.png",
+                "role": "inspected current Elspeth candidate; same aged identity, strengthen source82frailty and fix rear dressing side only",
+                "sha256": "5026b146950778469978cdecf07a5063c856463c0f9588b698876e832ec6da67",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual candidate underplays82/frailty and reverses rear dressing. Explicit anatomical mapping checked; same recognizable boneidentity remains.",
+              "Beforeassaultstage: right hand notfractured, sourceweakleftarm/dressedforearm; no new aid or scene."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9d11ef8e-1967-4959-82db-2146b8309d6f.png",
+            "outputSha256": "4943e50bf1e87b415854fbee416237839fcd1e8c9e8bbec2da0db4c11c275b02",
+            "finishedAt": "2026-09-24T07:23:48.013846+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected against stable23-year Elspeth anchor. Same facial structure, nose/brow/eye spacing and medium warm skin aged59years into pronounced folds, gray-white loosely tied hair, stooped frailty.",
+              "Both complete bodies and enlarged face cohere as82; too-small brown coat/open rust blouse, both shoes, no new cane or helper. Anatomical LEFT white dressing at viewerRIGHT in front and viewerLEFT in rear; weak left held close, right intact pre-assault.",
+              "Broad matte oil paint on face/hands/clothing, restrained warm club light and deep shadow, ivory character-only field, readable heading/title; glasses match source prop."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-9d11ef8e-1967-4959-82db-2146b8309d6f.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "04448a50ccaa69ecc6924bf6eb358ffe0bb1d836b9b5e7325607da38ef270c8a",
+        "outputSha256": "4943e50bf1e87b415854fbee416237839fcd1e8c9e8bbec2da0db4c11c275b02",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0afc9bf6-20ab-478e-96af-3be470c63dfe.png",
+            "role": "inspected current Elspeth candidate; same aged identity, strengthen source82frailty and fix rear dressing side only",
+            "sha256": "5026b146950778469978cdecf07a5063c856463c0f9588b698876e832ec6da67",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected against stable23-year Elspeth anchor. Same facial structure, nose/brow/eye spacing and medium warm skin aged59years into pronounced folds, gray-white loosely tied hair, stooped frailty.",
+          "Both complete bodies and enlarged face cohere as82; too-small brown coat/open rust blouse, both shoes, no new cane or helper. Anatomical LEFT white dressing at viewerRIGHT in front and viewerLEFT in rear; weak left held close, right intact pre-assault.",
+          "Broad matte oil paint on face/hands/clothing, restrained warm club light and deep shadow, ivory character-only field, readable heading/title; glasses match source prop."
+        ],
+        "specificationSha256": "ae02c62a311225721b19a8aa5c711415dc172f9543a2954a20a197bf03e48b6a"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "4943e50bf1e87b415854fbee416237839fcd1e8c9e8bbec2da0db4c11c275b02"
+    },
+    {
+      "id": "shona",
+      "name": "Shona",
+      "role": "escape accomplice and emerging collector",
+      "form": "38-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "thirty-eight, broad through the shoulders",
+          "explanation": "Exact age/build."
+        },
+        {
+          "quote": "a chipped front tooth",
+          "explanation": "Specific visible feature."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "38, broad shoulders, chipped front tooth.",
+        "equipment": "Coat, hidden pistol, money envelope.",
+        "state": "Club arrival before shooting; not newcoatending."
+      },
+      "visualInterpretation": [
+        "Art-only warm light freckled face, broad nose, close curly black crop; teal heavy coat and dark trousers, sturdy shoes.",
+        "Toothchip visible in matching half-parted mouth, not wholemissingtooth; no blood."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-old-percentage:shona",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-old-percentage/art/characters/shona.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Shona\"; title \"The Old Percentage\"; role \"Accomplice\". ONE adult HUMAN woman, EXACT38yearsold, BROAD SHOULDERS and solid practical build, light warm FRECKLED skin, broad nose, close curly BLACK crop, matte dark eyes, alert calculating expression. ONE FRONT TOOTH visibly CHIPPED in slightly parted mouth, not fully missing. Muted TEAL heavy practical coat, dark-gray shirt, charcoal trousers, sturdy dark flat SHOES. Front/rear complete bodies, one hand holds plain closed MONEY ENVELOPE, other empty; small compact pistol safely contained in inner-coat holster underlapel, no aiming/fire/blood. Large matching face shows subtle front tooth chip, label \"Thirty-eight\". Isolated closed envelope, label \"Advance\". Choose before club shooting with originalcoat, not newwoolending. No helper/otherperson.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:27:03.368949+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Shona\"; title \"The Old Percentage\"; role \"Accomplice\". ONE adult HUMAN woman, EXACT38yearsold, BROAD SHOULDERS and solid practical build, light warm FRECKLED skin, broad nose, close curly BLACK crop, matte dark eyes, alert calculating expression. ONE FRONT TOOTH visibly CHIPPED in slightly parted mouth, not fully missing. Muted TEAL heavy practical coat, dark-gray shirt, charcoal trousers, sturdy dark flat SHOES. Front/rear complete bodies, one hand holds plain closed MONEY ENVELOPE, other empty; small compact pistol safely contained in inner-coat holster underlapel, no aiming/fire/blood. Large matching face shows subtle front tooth chip, label \"Thirty-eight\". Isolated closed envelope, label \"Advance\". Choose before club shooting with originalcoat, not newwoolending. No helper/otherperson.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+                "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+                "inspected": true,
+                "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+              }
+            ],
+            "preflight": [
+              "Full current/prior source and prompt read; source cover, club oil and stable younger Elspeth anchor visually inspected.",
+              "Pre-assault states avoid mixed late injuries; exact82/38/build/tooth details preserved, recurrence aged consistently; other appearances art-only.",
+              "Single identity, complete front/rear and face/prop feasible; mature matte oil including face, subdued source club light on ivory with no locations/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5132c084-5a68-4d5c-a022-d6e5f586ad2b.png",
+            "outputSha256": "950b4005a6810e670907cb77b49692dc9922211dd8938f313ad82c7bd28711ec",
+            "finishedAt": "2026-09-24T06:48:40.530124+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+              "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+              "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5132c084-5a68-4d5c-a022-d6e5f586ad2b.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "04448a50ccaa69ecc6924bf6eb358ffe0bb1d836b9b5e7325607da38ef270c8a",
+        "outputSha256": "950b4005a6810e670907cb77b49692dc9922211dd8938f313ad82c7bd28711ec",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+          "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+          "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+        ],
+        "specificationSha256": "3e8164123c43f9d3e1f22a8e37ffd60f599c03feded9e4d05a7a9fc80649bb55"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "950b4005a6810e670907cb77b49692dc9922211dd8938f313ad82c7bd28711ec"
+    },
+    {
+      "id": "corbin",
+      "name": "Corbin",
+      "role": "young performer and unwilling witness",
+      "form": "young adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "beautiful teeth, too large for his mouth",
+          "explanation": "Distinct physical feature."
+        },
+        {
+          "quote": "frayed cuffs on cloth that held its shape",
+          "explanation": "Expensively styled poverty costume."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Youngman, prominent beautiful large teeth.",
+        "clothing": "Quality shapeholding cloth with frayed cuffs; shoulderholsterremoved at first meeting.",
+        "equipment": "Phone recording; no genuine violence."
+      },
+      "visualInterpretation": [
+        "Art-only young adult slender, pale skin, long narrow face, softly curled sandyhair; quality moss-gray jacket with deliberate frayed cuffs.",
+        "Selected before club violence no blood or working gun; phone blankscreen."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-old-percentage:corbin",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-old-percentage/art/characters/corbin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Corbin\"; title \"The Old Percentage\"; role \"Performer / witness\". ONE young adult HUMAN man, slender twenties, pale skin, long NARROW face, softly curled SANDY hair, gray matte eyes, uneasy professional smile showing BEAUTIFUL LARGE TEETH slightly too large for his mouth. Quality structured MOSS-GRAY fitted jacket with deliberately FRAYED CUFFS, offwhite shirt, dark shaped trousers, modest stylish brown SHOES. Complete front/rear views; holds ordinary slim PHONE low, screen blank dark, other hand relaxed. Large matching face with prominent teeth, label \"The booking\". Small isolated phone, label \"Recording\". No blood on cuffs yet, no fired gun; removed costumeholster notworn. No giantteethcaricature/scenery/telemetrytext.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:27:03.371748+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Corbin\"; title \"The Old Percentage\"; role \"Performer / witness\". ONE young adult HUMAN man, slender twenties, pale skin, long NARROW face, softly curled SANDY hair, gray matte eyes, uneasy professional smile showing BEAUTIFUL LARGE TEETH slightly too large for his mouth. Quality structured MOSS-GRAY fitted jacket with deliberately FRAYED CUFFS, offwhite shirt, dark shaped trousers, modest stylish brown SHOES. Complete front/rear views; holds ordinary slim PHONE low, screen blank dark, other hand relaxed. Large matching face with prominent teeth, label \"The booking\". Small isolated phone, label \"Recording\". No blood on cuffs yet, no fired gun; removed costumeholster notworn. No giantteethcaricature/scenery/telemetrytext.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+                "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+                "inspected": true,
+                "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+              }
+            ],
+            "preflight": [
+              "Full current/prior source and prompt read; source cover, club oil and stable younger Elspeth anchor visually inspected.",
+              "Pre-assault states avoid mixed late injuries; exact82/38/build/tooth details preserved, recurrence aged consistently; other appearances art-only.",
+              "Single identity, complete front/rear and face/prop feasible; mature matte oil including face, subdued source club light on ivory with no locations/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e970f29e-6c59-4960-8ac3-738173e37128.png",
+            "outputSha256": "27b29aa206cc09eb1a9f29ce3a4ebe2f9a1f6b71629a2328bb208fd32281a1b6",
+            "finishedAt": "2026-09-24T06:48:40.617080+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+              "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+              "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e970f29e-6c59-4960-8ac3-738173e37128.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "04448a50ccaa69ecc6924bf6eb358ffe0bb1d836b9b5e7325607da38ef270c8a",
+        "outputSha256": "27b29aa206cc09eb1a9f29ce3a4ebe2f9a1f6b71629a2328bb208fd32281a1b6",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+          "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+          "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+        ],
+        "specificationSha256": "20f89d3fd5fd11bc9366ba871365b18172c19f1ce7e24044a3b318ad1b38d4c4"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "27b29aa206cc09eb1a9f29ce3a4ebe2f9a1f6b71629a2328bb208fd32281a1b6"
+    },
+    {
+      "id": "dacre",
+      "name": "Dacre",
+      "role": "club owner whose paid performance becomes extortion",
+      "form": "middle-aged human man",
+      "selectionEvidence": [
+        {
+          "quote": "velvet jacket strained across his stomach",
+          "explanation": "Specific build/costume."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Man with belly.",
+        "clothing": "Velvetjacket.",
+        "equipment": "Phone; no individual weapon."
+      },
+      "visualInterpretation": [
+        "Art-only light olive mature man, highforehead and thinning sleek darkhair, long neatmustache, prosperous roundedbuild.",
+        "Burgundyvelvetjacket creamshirt darktrouserspolishedshoessimplifiedmattepaint."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-old-percentage:dacre",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-old-percentage/art/characters/dacre.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dacre\"; title \"The Old Percentage\"; role \"Club owner\". ONE middle-aged HUMAN man, light olive skin, HIGH FOREHEAD thinning sleek DARK HAIR, narrow neat dark MUSTACHE, rounded face/doublechin, prosperous large BELLY. Burgundy VELVET JACKET visibly strains across stomach, cream collarshirt, black trousers, black low SHOES. Complete front/rear body, short polite smile becoming wary, onehand ordinary PHONE low otherempty. Large matching face, label \"Host\". One isolated ordinary phone with dark blank screen, label \"The arrangements\". Choose club arrival BEFORE guard dies, clean knees/clothes no blood. No weapon/crown/mafiainsignia or invented goldchain.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:27:03.374339+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dacre\"; title \"The Old Percentage\"; role \"Club owner\". ONE middle-aged HUMAN man, light olive skin, HIGH FOREHEAD thinning sleek DARK HAIR, narrow neat dark MUSTACHE, rounded face/doublechin, prosperous large BELLY. Burgundy VELVET JACKET visibly strains across stomach, cream collarshirt, black trousers, black low SHOES. Complete front/rear body, short polite smile becoming wary, onehand ordinary PHONE low otherempty. Large matching face, label \"Host\". One isolated ordinary phone with dark blank screen, label \"The arrangements\". Choose club arrival BEFORE guard dies, clean knees/clothes no blood. No weapon/crown/mafiainsignia or invented goldchain.\nLight from source evening club: restrained warm AMBER electric light on limited upper planes, substantial connected cool gray-violet and umber shadow over faces/clothing, no broad daylit face. Primary image1 painterly oil, LARGE MATTE bristle strokes including faces/hands and clothes, no photo/anime/CGI or cosmetic smoothness. Warm ivory remains clean, no room/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+                "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+                "inspected": true,
+                "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+              }
+            ],
+            "preflight": [
+              "Full current/prior source and prompt read; source cover, club oil and stable younger Elspeth anchor visually inspected.",
+              "Pre-assault states avoid mixed late injuries; exact82/38/build/tooth details preserved, recurrence aged consistently; other appearances art-only.",
+              "Single identity, complete front/rear and face/prop feasible; mature matte oil including face, subdued source club light on ivory with no locations/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-234a08aa-188f-4970-bf26-31c661ce2277.png",
+            "outputSha256": "92994b911068b61a3f7e620df470a2e4a0f42f76389c5c4738b843d6b1694ba9",
+            "finishedAt": "2026-09-24T06:48:40.630390+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+              "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+              "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-234a08aa-188f-4970-bf26-31c661ce2277.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "04448a50ccaa69ecc6924bf6eb358ffe0bb1d836b9b5e7325607da38ef270c8a",
+        "outputSha256": "92994b911068b61a3f7e620df470a2e4a0f42f76389c5c4738b843d6b1694ba9",
+        "references": [
+          {
+            "path": "stories/the-old-percentage/art/interiors/02-dacres-private-club.png",
+            "role": "primary Group of Seven matte oil, source evening club amber light/cool window shadow only, no room",
+            "inspected": true,
+            "sha256": "c4d952811a979e69a51297be94a8387ae9c85c4a08b34e2e139c3c3c6c590c75"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: single distinct coherent source character, complete bodies/face, exact title/name and role props.",
+          "Shona38/broadshoulders/chippedfronttooth, Corbin youngprominentteeth/frayedqualitycuffs, Dacrebelly/strainedvelvetjacket handled as appropriate, beforeclubviolence.",
+          "Matte oil face/clothes, amber clubplanes with cool shadow, ivory no location/swatches."
+        ],
+        "specificationSha256": "69c96a50ef38c11cbd866751632d4df92be87e51bfe36ec4837a4f5ca74b0207"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "92994b911068b61a3f7e620df470a2e4a0f42f76389c5c4738b843d6b1694ba9"
+    }
+  ],
+  "sourceSha256": "04448a50ccaa69ecc6924bf6eb358ffe0bb1d836b9b5e7325607da38ef270c8a"
+}
