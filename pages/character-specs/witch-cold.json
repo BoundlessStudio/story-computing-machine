@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 1,
+  "slug": "witch-cold",
+  "title": "Witch Cold",
+  "source": "stories/witch-cold/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finalsource/prompt read; nooriginalinputimages. Cover and sourceapartmentoil inspected. Two sustainedmaincharacters, exactsource names; nursephoneconsultation/background excluded. Sourceoutfit/adult woman/realworkingcolds outrank coverpajamas/blueglow.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "The nurse",
+      "reason": "Single phone consultation, minor functionalrole without sustained individualcharacter."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "nuala",
+      "name": "Nuala",
+      "role": "adult magical worker with witch cold",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "The rose overskirt had been buttoned up crooked over cream shorts.",
+          "explanation": "Exact workingoutfit."
+        },
+        {
+          "quote": "Her star brooch hung dark at her collar",
+          "explanation": "Inactive personalprop."
+        },
+        {
+          "quote": "one boot unlaced",
+          "explanation": "Openingstate."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adultwoman, feverflushed/tired/congested/sweatytemples; haircolorcoverdesign.",
+        "clothing": "ROSE overskirt over CREAM shorts, quiltedsleeves one rolledelbow/otherdown, handsewngoldpiping, darkstarbrooch, bootsoneunlaced.",
+        "equipment": "Digitalthermometer held aftermouth; source magic signals omitted inactivebetween sneezes."
+      },
+      "visualInterpretation": [
+        "Cover pinkhair messyupdo/roseeyes retained as ADULT midtwenties face with ordinaryproportions, no child/animeglassskin.",
+        "Art-only choices for unspecifiedsides: LEFT sleeve rolledup(frontviewerRIGHT), RIGHT boot unlaced(frontviewerLEFT).",
+        "No pajamas/blanket/cape/blueglowingnose or residualspell effect imported from cover."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Opening after removingthermometer, beforewarning/sneeze, noactivatedspell."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "witch-cold:nuala",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/witch-cold/art/characters/nuala.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE 1 with ONE bounded restoration. Keep the entire image unchanged EXCEPT both boots of the CENTRAL REAR-VIEW FIGURE. Restore those two rear-view boots exactly as they appear in IMAGE 2: smooth leather HEEL backs facing the viewer, no visible tongue or front lacing on the rear left boot. The central figure must have rear-facing heels, never a front-facing boot. IMAGE 2's rear figure's screen-right boot has loose lace ends trailing at its outer side; preserve that detail. DO NOT touch the FRONT figure's boots at all: its screen-left boot is correctly OPEN/UNLACED in IMAGE 1 and must stay that way. Preserve the ivory, faces, clothes, sleeves, lettering and all other marks. This is a rear-boot geometry restoration from Image 2, not a new design.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b5825d28-147b-4bbc-9384-9d3edd5423ac.png",
+            "sha256": "71f9988312443e75e8f470b091a22ae9b7da8ae8852b0b4ceec3157fa7efcbe1",
+            "inspected": true,
+            "role": "Inspected third returned candidate; preserve front right unlaced boot."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c4fa7ac4-0d3e-45d4-adf7-a7c46b28beef.png",
+            "sha256": "dbbb01388be2e073592007ca51bd971fba24499bafce90f2fa5dcfc470c635bd",
+            "inspected": true,
+            "role": "Inspected second returned candidate; rear heel geometry restoration only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "prepared-not-invoked",
+            "startedAt": "2026-09-24T10:34:32.916368+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nuala\"; title \"Witch Cold\"; role \"Magical worker\". ONE ADULT HUMAN WOMAN midtwenties, cute but adultface/body notchild, original IMAGE2 pinkhair/messyupdo/roseeyes visualidentity. Use ADULT face proportions, ordinaryMATTE rosedarkeyes, pale skin withfeverreddenednose/cheeks, tiredsoftmouth. Source reinforced WORK OUTFIT: quiltedCREAM fittedsleeves withhandsewn GOLD PIPING, ROSE overskirt buttoned slightlycrooked OVER visible modestmid-thigh CREAM SHORTS, creamopaque stockings, sturdyrosebrownankleboots. AnatomicalLEFT sleeve rolled toELBOW (frontviewerRIGHT/rearviewerLEFT), RIGHT sleeve down. AnatomicalRIGHT boot UNLACED withshortlooseends (frontviewerLEFT/rearviewerRIGHT); otherbootlaced. Small STAR BROOCH atCOLLAR is DARK dullmetal, no glow. No cape/blanket/pajamas/highheels. Holds ordinaryDIGITAL THERMOMETER low inRIGHT hand, no legiblemedicalnumbers needed. Completefront/rear, largematchingADULTface, isolated darkstarbrooch detail. Inactiveinterval: NO pinlight ring, noseglow, spell, floatingtissues/rain or otherperson. BroadMATTE opaqueoil even ineyes/lips/cheeks, notanime/3D. Gentle domesticdiffusewindow daylight, mutedochre nearplanes and slatevioletshadows; brightivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Fullsource/prompt/cover/oil inspected. Openingstate has specific Nuala workcostume and sidedartchoices, adult proportions; omit incidentalcover pajamas/blueglow.",
+              "2 inspectedrefs, sourceactualcolors/case/brooch preserved; no activeworking or floatingobject creates unwantedscene, oneidentity1536x1024 matteoilivory."
+            ],
+            "toolInvoked": false,
+            "resumeEvidence": "Prior session tail ends after recording the prepared attempts; no image tool invocation or output followed. Original generated-images folder has no later files. Resumed with a new actual tool attempt."
+          },
+          {
+            "attempt": 2,
+            "status": "interrupted-no-output",
+            "startedAt": "2026-09-24T10:54:51.458007+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nuala\"; title \"Witch Cold\"; role \"Magical worker\". ONE ADULT HUMAN WOMAN midtwenties, cute but adultface/body notchild, original IMAGE2 pinkhair/messyupdo/roseeyes visualidentity. Use ADULT face proportions, ordinaryMATTE rosedarkeyes, pale skin withfeverreddenednose/cheeks, tiredsoftmouth. Source reinforced WORK OUTFIT: quiltedCREAM fittedsleeves withhandsewn GOLD PIPING, ROSE overskirt buttoned slightlycrooked OVER visible modestmid-thigh CREAM SHORTS, creamopaque stockings, sturdyrosebrownankleboots. AnatomicalLEFT sleeve rolled toELBOW (frontviewerRIGHT/rearviewerLEFT), RIGHT sleeve down. AnatomicalRIGHT boot UNLACED withshortlooseends (frontviewerLEFT/rearviewerRIGHT); otherbootlaced. Small STAR BROOCH atCOLLAR is DARK dullmetal, no glow. No cape/blanket/pajamas/highheels. Holds ordinaryDIGITAL THERMOMETER low inRIGHT hand, no legiblemedicalnumbers needed. Completefront/rear, largematchingADULTface, isolated darkstarbrooch detail. Inactiveinterval: NO pinlight ring, noseglow, spell, floatingtissues/rain or otherperson. BroadMATTE opaqueoil even ineyes/lips/cheeks, notanime/3D. Gentle domesticdiffusewindow daylight, mutedochre nearplanes and slatevioletshadows; brightivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Resumed assistant read entire source/prompt and inspected actual cover and apartment oil. Exact names and source work outfit retained; adult painted proportions, character-only swatch-free ivory layout.",
+              "Verified all reference bytes and source hash. Two useful input images; no future state or incidental cover blue glow."
+            ],
+            "finishedAt": "2026-09-24T11:08:00.756575+00:00",
+            "resumeEvidence": "Tool call interrupted after 50.3 seconds by session abort. On explicit resume, no result in orchestration store and no generated-images folder for this task ID after more than twelve minutes; no candidate exists to inspect."
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:08:00.756620+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nuala\"; title \"Witch Cold\"; role \"Magical worker\". ONE ADULT HUMAN WOMAN midtwenties, cute but adultface/body notchild, original IMAGE2 pinkhair/messyupdo/roseeyes visualidentity. Use ADULT face proportions, ordinaryMATTE rosedarkeyes, pale skin withfeverreddenednose/cheeks, tiredsoftmouth. Source reinforced WORK OUTFIT: quiltedCREAM fittedsleeves withhandsewn GOLD PIPING, ROSE overskirt buttoned slightlycrooked OVER visible modestmid-thigh CREAM SHORTS, creamopaque stockings, sturdyrosebrownankleboots. AnatomicalLEFT sleeve rolled toELBOW (frontviewerRIGHT/rearviewerLEFT), RIGHT sleeve down. AnatomicalRIGHT boot UNLACED withshortlooseends (frontviewerLEFT/rearviewerRIGHT); otherbootlaced. Small STAR BROOCH atCOLLAR is DARK dullmetal, no glow. No cape/blanket/pajamas/highheels. Holds ordinaryDIGITAL THERMOMETER low inRIGHT hand, no legiblemedicalnumbers needed. Completefront/rear, largematchingADULTface, isolated darkstarbrooch detail. Inactiveinterval: NO pinlight ring, noseglow, spell, floatingtissues/rain or otherperson. BroadMATTE opaqueoil even ineyes/lips/cheeks, notanime/3D. Gentle domesticdiffusewindow daylight, mutedochre nearplanes and slatevioletshadows; brightivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Resumed assistant read entire source/prompt and inspected actual cover and apartment oil. Exact names and source work outfit retained; adult painted proportions, character-only swatch-free ivory layout.",
+              "Verified all reference bytes and source hash. Two useful input images; no future state or incidental cover blue glow."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-ffd7f263-9867-4a77-ad43-47f6b69581e3.png",
+            "outputSha256": "43a2104463dbc6a522ceb54150ff493ac7cf34a6f565503c1fde28a043b7f991",
+            "finishedAt": "2026-09-24T11:10:42.735230+00:00",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": [
+              "Actual pixels inspected: identities, source clothing and full bodies established. Nuala face too smooth/anime and boot floor patches, right boot not clearly open/unlaced. Imogen face requires bolder matte eyes and rear case should remain centered/occluded. Targeted edit requested."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:10:42.739667+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE 1, a 1536x1024 character reference folio. Preserve its exact identity, hair colour, costume, poses, anatomy, entire full-body silhouettes, title and name. IMAGE 2 supplies PAINT HANDLING ONLY: broad connected sculptural oil colour masses and directional bristle strokes. It must not donate the person, skin colour, nose, clothes or night lighting. Repaint ALL face planes in every view, including eyelids, irises, brows, nose and lips, using the same broad opaque MATTE oil as the clothes: decisive 25-50 pixel directional strokes and palette-knife colour slabs; simple unglazed eyes without tiny glistening pupils, eyelashes or smooth photoreal lips. Natural adult head proportions, no enlarged doll eyes. Retain soft domestic diffuse daylight, ochre light and slate-violet shadows. Remove ALL grounding shadows, painted floor marks and texture patches beneath the boots. Blank warm ivory uninterrupted around each silhouette. Do not add scenery, swatches or another person. Keep concise readable labels only: name, story title, role, Front, Rear, Face, personal item name; REMOVE production comments, negative instructions, height text and other prose. Nuala remains a PALE adult woman about 25 with her same messy rose-pink updo and fever-flushed nose/cheeks. Her left sleeve stays rolled (front viewer-right; rear viewer-left); right sleeve stays down. Her right boot (front viewer-left; rear viewer-right) must be clearly OPEN and UNLACED: loosen the leather tongue and separate the eyelet rows, no crisscross laces across that boot, two short loose lace ends at bottom. Other boot normally laced. Keep thermometer in right hand and dark collar star brooch. Remove the extra star hair ornament, leaving ONLY the source collar brooch. Keep rose overskirt over cream shorts and cream stockings.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-ffd7f263-9867-4a77-ad43-47f6b69581e3.png",
+                "role": "Inspected actual first returned candidate; target for face paint and presentation correction, preserve identity and costume.",
+                "inspected": true,
+                "sha256": "43a2104463dbc6a522ceb54150ff493ac7cf34a6f565503c1fde28a043b7f991"
+              },
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil paint handling only; no identity or dark lighting transfer.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              }
+            ],
+            "preflight": [
+              "Inspected actual target pixels and Tressa style sheet. Paint-only style role excludes identity/skin tone/night lighting. Source-specific sleeves and boot laterality checked against front and rear views.",
+              "Character only on ivory, two full unclipped views, exact readable name/title; no added effects or scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c4fa7ac4-0d3e-45d4-adf7-a7c46b28beef.png",
+            "outputSha256": "dbbb01388be2e073592007ca51bd971fba24499bafce90f2fa5dcfc470c635bd",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:13:09.690234+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Actual second returned image inspected: faces now boldly opaque painted, ground patches removed and exact adult identity/costume retained. Right boot still has crisscross fastening; targeted boot-only final correction requested for source unlaced state."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:13:10.647368+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Precise local correction of IMAGE 1 character sheet. Preserve every pixel's composition, painted face, rose hair, costume, text, props, ivory background and full bodies except the RIGHT BOOT laces in both body views. Anatomical RIGHT boot is the viewer-LEFT boot in FRONT view, and viewer-RIGHT boot in REAR view. On that one boot make the shaft OPEN and the tongue visible: DELETE all crisscross laces from the upper eight eyelets and leave the eyelet rows separated; only a short lace remains at the lowest two eyelets with two loose dangling ends. This one boot is genuinely UNLACED, not merely unknotted. Keep LEFT boot tightly laced unchanged. No other alteration.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c4fa7ac4-0d3e-45d4-adf7-a7c46b28beef.png",
+                "sha256": "dbbb01388be2e073592007ca51bd971fba24499bafce90f2fa5dcfc470c635bd",
+                "inspected": true,
+                "role": "Inspected second returned candidate; preserve all except right boot lacing."
+              }
+            ],
+            "preflight": [
+              "One inspected target image. Exact source opening unlaced boot and explicit art-only right side checked across front/rear. Paint and source identity pass, so target only laces."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b5825d28-147b-4bbc-9384-9d3edd5423ac.png",
+            "outputSha256": "71f9988312443e75e8f470b091a22ae9b7da8ae8852b0b4ceec3157fa7efcbe1",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:16:00.061947+00:00",
+            "selected": false,
+            "generatorReview": [
+              "Front right boot is now correctly unlaced, but model applied the opening to the wrong rear boot and drew front eyelet rows in a rear heel view. Diagnosis: cross-view laterality/boot-surface ambiguity. Keep correct front change and restore rear lower legs from the inspected prior candidate, whose rear heel geometry was correct."
+            ]
+          },
+          {
+            "attempt": 6,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:16:01.069016+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE 1 with ONE bounded restoration. Keep the entire image unchanged EXCEPT both boots of the CENTRAL REAR-VIEW FIGURE. Restore those two rear-view boots exactly as they appear in IMAGE 2: smooth leather HEEL backs facing the viewer, no visible tongue or front lacing on the rear left boot. The central figure must have rear-facing heels, never a front-facing boot. IMAGE 2's rear figure's screen-right boot has loose lace ends trailing at its outer side; preserve that detail. DO NOT touch the FRONT figure's boots at all: its screen-left boot is correctly OPEN/UNLACED in IMAGE 1 and must stay that way. Preserve the ivory, faces, clothes, sleeves, lettering and all other marks. This is a rear-boot geometry restoration from Image 2, not a new design.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b5825d28-147b-4bbc-9384-9d3edd5423ac.png",
+                "sha256": "71f9988312443e75e8f470b091a22ae9b7da8ae8852b0b4ceec3157fa7efcbe1",
+                "inspected": true,
+                "role": "Inspected third returned candidate; preserve front right unlaced boot."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c4fa7ac4-0d3e-45d4-adf7-a7c46b28beef.png",
+                "sha256": "dbbb01388be2e073592007ca51bd971fba24499bafce90f2fa5dcfc470c635bd",
+                "inspected": true,
+                "role": "Inspected second returned candidate; rear heel geometry restoration only."
+              }
+            ],
+            "preflight": [
+              "Reframed as restoration from actual correct prior rear heel geometry, avoiding simultaneous left/right lacing instruction. Preserve correct front open right boot. Two inspected actual candidates."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b1926a09-a3f0-41a8-b563-422fd6b6645c.png",
+            "outputSha256": "8bc7117d05d41946ac399dd4de0767d96291f9840066197fa311c237f893e519",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:17:16.248895+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Final actual pixels inspected: right front boot genuinely open/unlaced, rear heels restored with matching loose ends on right rear boot; left sleeve correctly rolled in front/rear. Both whole bodies remain unclipped.",
+              "Source rose overskirt, cream shorts and quilted sleeves, gold piping, dark collar star and digital thermometer preserved. Pink-haired adult face carries opaque painted planes and fever flush; inactive magic, no cover blue glow.",
+              "Exact Nuala and Witch Cold text, clear face/prop studies, plain warm ivory with no floor patches, scenery or swatches. Original and rejected attempts retained."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b1926a09-a3f0-41a8-b563-422fd6b6645c.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "badc68cf4aa8b01eec563c2a14a693add43adea5de5ce7bb0cb69313d9e9c24b",
+        "outputSha256": "8bc7117d05d41946ac399dd4de0767d96291f9840066197fa311c237f893e519",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b5825d28-147b-4bbc-9384-9d3edd5423ac.png",
+            "sha256": "71f9988312443e75e8f470b091a22ae9b7da8ae8852b0b4ceec3157fa7efcbe1",
+            "inspected": true,
+            "role": "Inspected third returned candidate; preserve front right unlaced boot."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-c4fa7ac4-0d3e-45d4-adf7-a7c46b28beef.png",
+            "sha256": "dbbb01388be2e073592007ca51bd971fba24499bafce90f2fa5dcfc470c635bd",
+            "inspected": true,
+            "role": "Inspected second returned candidate; rear heel geometry restoration only."
+          }
+        ],
+        "evidence": [
+          "Final actual pixels inspected: right front boot genuinely open/unlaced, rear heels restored with matching loose ends on right rear boot; left sleeve correctly rolled in front/rear. Both whole bodies remain unclipped.",
+          "Source rose overskirt, cream shorts and quilted sleeves, gold piping, dark collar star and digital thermometer preserved. Pink-haired adult face carries opaque painted planes and fever flush; inactive magic, no cover blue glow.",
+          "Exact Nuala and Witch Cold text, clear face/prop studies, plain warm ivory with no floor patches, scenery or swatches. Original and rejected attempts retained."
+        ],
+        "specificationSha256": "8bc9a67090559ed0bfdc0c60ba5ff0d2c2b6529e2482739aa6586dac5b7850ce"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "8bc7117d05d41946ac399dd4de0767d96291f9840066197fa311c237f893e519"
+    },
+    {
+      "id": "imogen",
+      "name": "Imogen",
+      "role": "Nuala's friend and care collaborator",
+      "form": "adult human-presenting narrator; source gender unspecified",
+      "selectionEvidence": [
+        {
+          "quote": "Imogen. Wait.",
+          "explanation": "Narrator exactname."
+        },
+        {
+          "quote": "I set my care case inside",
+          "explanation": "Key personalcarecase."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adultcaregivingfriend who drives; detailedappearance/gender unspecified.",
+        "clothing": "Jacket/sleeves/boots; colorsart-only.",
+        "equipment": "Wheeled care case with latches, straps and extendible handle; smartphone and organized supplies. Source does not specify number of wheels."
+      },
+      "visualInterpretation": [
+        "Cover shortdarkhair/slateclothing used as basicdesign; art-only androgynousadultlate20s mediumtanangularface, grayblueutilityjacket/darktrousers/boots.",
+        "Openingdrygear, carecaseclosed; no medicaluniform/whitecoat or inventedmedicalauthority.",
+        "Selected image uses a compact suitcase-like care case with visible small corner wheels; wheel count and hard-shell construction are non-canon art choices."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Opening beforefirstsneeze, dryjacket/closedcarecase."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "witch-cold:imogen",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/witch-cold/art/characters/imogen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE 1, a 1536x1024 character reference folio. Preserve its exact identity, hair colour, costume, poses, anatomy, entire full-body silhouettes, title and name. IMAGE 2 supplies PAINT HANDLING ONLY: broad connected sculptural oil colour masses and directional bristle strokes. It must not donate the person, skin colour, nose, clothes or night lighting. Repaint ALL face planes in every view, including eyelids, irises, brows, nose and lips, using the same broad opaque MATTE oil as the clothes: decisive 25-50 pixel directional strokes and palette-knife colour slabs; simple unglazed eyes without tiny glistening pupils, eyelashes or smooth photoreal lips. Natural adult head proportions, no enlarged doll eyes. Retain soft domestic diffuse daylight, ochre light and slate-violet shadows. Remove ALL grounding shadows, painted floor marks and texture patches beneath the boots. Blank warm ivory uninterrupted around each silhouette. Do not add scenery, swatches or another person. Keep concise readable labels only: name, story title, role, Front, Rear, Face, personal item name; REMOVE production comments, negative instructions, height text and other prose. Imogen remains a medium-tan androgynous adult about 28 with the same short black bob and concerned face, slate utility jacket, gray knit, dark trousers and boots. Keep the closed two-latch wheeled care case. In REAR body view move the case to the front of the person so it is occluded by the body, with only a small part visible below/around a hip; do not carry a second case at the side. Keep the same isolated closed case at bottom-right.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d331e17d-a9e0-47e3-b661-6be6fba7f373.png",
+            "role": "Inspected actual first returned candidate; target for face paint and presentation correction, preserve identity and costume.",
+            "inspected": true,
+            "sha256": "f9d5f5e7ea651000a5f42fb484f47d7bb7662467c787e4c6e8eaa6e3125c24d3"
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil paint handling only; no identity or dark lighting transfer.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "prepared-not-invoked",
+            "startedAt": "2026-09-24T10:34:32.920069+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Imogen\"; title \"Witch Cold\"; role \"Friend and collaborator\". ONE androgynous HUMAN ADULT late twenties, mediumTAN skin, ovalangularface, straightnose, short BLACK hair inearlength practicalbob, darkbrowneyes, alertconcernedexpression. Inspiredby darkhaired friendatRIGHT IMAGE2 but ordinaryadultproportions, MATTE oilnotanime. SLATE BLUE utilityJACKET over grayribknitsweater, darkpracticaltrousers, browngrayrubbersoledankleBOOTS; no medicaluniform/whitecoat/nursebadge. Holds ordinaryclosed darkGRAY CARECASE withtwolatches andtwoSMALL WHEELS, telescopichandleretracted. Carrycenteredfrontwithbothhands; rearhandslow/caseoccluded, no bagmirroring. Smartphonein jacketpocket with darkscreen. Completefront/rear, large sameface, isolatedclosedcarecase (no openmedicine/colorcards). All clothesdry openingstate. No Nuala/anotherbody/magicprops. Softdomesticdiffusewindow daylight, subduedochrenearplanes/slatevioletshadows. Broad opaqueMATTEoil face/eyes/hands/boots, plainbrightwarmivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Fullsource/prompt/cover/oil inspected. Openingstate has specific Nuala workcostume and sidedartchoices, adult proportions; omit incidentalcover pajamas/blueglow.",
+              "2 inspectedrefs, sourceactualcolors/case/brooch preserved; no activeworking or floatingobject creates unwantedscene, oneidentity1536x1024 matteoilivory."
+            ],
+            "toolInvoked": false,
+            "resumeEvidence": "Prior session tail ends after recording the prepared attempts; no image tool invocation or output followed. Original generated-images folder has no later files. Resumed with a new actual tool attempt."
+          },
+          {
+            "attempt": 2,
+            "status": "interrupted-no-output",
+            "startedAt": "2026-09-24T10:54:51.461716+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Imogen\"; title \"Witch Cold\"; role \"Friend and collaborator\". ONE androgynous HUMAN ADULT late twenties, mediumTAN skin, ovalangularface, straightnose, short BLACK hair inearlength practicalbob, darkbrowneyes, alertconcernedexpression. Inspiredby darkhaired friendatRIGHT IMAGE2 but ordinaryadultproportions, MATTE oilnotanime. SLATE BLUE utilityJACKET over grayribknitsweater, darkpracticaltrousers, browngrayrubbersoledankleBOOTS; no medicaluniform/whitecoat/nursebadge. Holds ordinaryclosed darkGRAY CARECASE withtwolatches andtwoSMALL WHEELS, telescopichandleretracted. Carrycenteredfrontwithbothhands; rearhandslow/caseoccluded, no bagmirroring. Smartphonein jacketpocket with darkscreen. Completefront/rear, large sameface, isolatedclosedcarecase (no openmedicine/colorcards). All clothesdry openingstate. No Nuala/anotherbody/magicprops. Softdomesticdiffusewindow daylight, subduedochrenearplanes/slatevioletshadows. Broad opaqueMATTEoil face/eyes/hands/boots, plainbrightwarmivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Resumed assistant read entire source/prompt and inspected actual cover and apartment oil. Exact names and source work outfit retained; adult painted proportions, character-only swatch-free ivory layout.",
+              "Verified all reference bytes and source hash. Two useful input images; no future state or incidental cover blue glow."
+            ],
+            "finishedAt": "2026-09-24T11:08:00.756625+00:00",
+            "resumeEvidence": "Tool call interrupted after 50.3 seconds by session abort. On explicit resume, no result in orchestration store and no generated-images folder for this task ID after more than twelve minutes; no candidate exists to inspect."
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T11:08:00.756642+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Imogen\"; title \"Witch Cold\"; role \"Friend and collaborator\". ONE androgynous HUMAN ADULT late twenties, mediumTAN skin, ovalangularface, straightnose, short BLACK hair inearlength practicalbob, darkbrowneyes, alertconcernedexpression. Inspiredby darkhaired friendatRIGHT IMAGE2 but ordinaryadultproportions, MATTE oilnotanime. SLATE BLUE utilityJACKET over grayribknitsweater, darkpracticaltrousers, browngrayrubbersoledankleBOOTS; no medicaluniform/whitecoat/nursebadge. Holds ordinaryclosed darkGRAY CARECASE withtwolatches andtwoSMALL WHEELS, telescopichandleretracted. Carrycenteredfrontwithbothhands; rearhandslow/caseoccluded, no bagmirroring. Smartphonein jacketpocket with darkscreen. Completefront/rear, large sameface, isolatedclosedcarecase (no openmedicine/colorcards). All clothesdry openingstate. No Nuala/anotherbody/magicprops. Softdomesticdiffusewindow daylight, subduedochrenearplanes/slatevioletshadows. Broad opaqueMATTEoil face/eyes/hands/boots, plainbrightwarmivory no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/witch-cold/art/interiors/01-the-apartment-before-the-sneeze.png",
+                "role": "inspected same-story primary Group of Seven opaque oil and domestic diffusewindow light only; no apartment",
+                "inspected": true,
+                "sha256": "18c0a7dbfd98dba4d47bf195e5128ae1895b874da75f8fb782238cd09662548d"
+              },
+              {
+                "path": "stories/witch-cold/title-image.jpg",
+                "role": "inspected hair/facecolor design only: pinkhairedNuala,left, darkshorthairImogen,right; adult source and outfit override chibi/cover pajamas and incidentalblueglow",
+                "inspected": true,
+                "sha256": "43e4fef0fcc6a016865bfbf4f9701a9b1083da5221ecc346de87ddeb7ed92ce2"
+              }
+            ],
+            "preflight": [
+              "Resumed assistant read entire source/prompt and inspected actual cover and apartment oil. Exact names and source work outfit retained; adult painted proportions, character-only swatch-free ivory layout.",
+              "Verified all reference bytes and source hash. Two useful input images; no future state or incidental cover blue glow."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d331e17d-a9e0-47e3-b661-6be6fba7f373.png",
+            "outputSha256": "f9d5f5e7ea651000a5f42fb484f47d7bb7662467c787e4c6e8eaa6e3125c24d3",
+            "finishedAt": "2026-09-24T11:10:42.742122+00:00",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": [
+              "Actual pixels inspected: identities, source clothing and full bodies established. Nuala face too smooth/anime and boot floor patches, right boot not clearly open/unlaced. Imogen face requires bolder matte eyes and rear case should remain centered/occluded. Targeted edit requested."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "startedAt": "2026-09-24T11:10:42.746199+00:00",
+            "tool": "image_gen",
+            "toolInvoked": true,
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE 1, a 1536x1024 character reference folio. Preserve its exact identity, hair colour, costume, poses, anatomy, entire full-body silhouettes, title and name. IMAGE 2 supplies PAINT HANDLING ONLY: broad connected sculptural oil colour masses and directional bristle strokes. It must not donate the person, skin colour, nose, clothes or night lighting. Repaint ALL face planes in every view, including eyelids, irises, brows, nose and lips, using the same broad opaque MATTE oil as the clothes: decisive 25-50 pixel directional strokes and palette-knife colour slabs; simple unglazed eyes without tiny glistening pupils, eyelashes or smooth photoreal lips. Natural adult head proportions, no enlarged doll eyes. Retain soft domestic diffuse daylight, ochre light and slate-violet shadows. Remove ALL grounding shadows, painted floor marks and texture patches beneath the boots. Blank warm ivory uninterrupted around each silhouette. Do not add scenery, swatches or another person. Keep concise readable labels only: name, story title, role, Front, Rear, Face, personal item name; REMOVE production comments, negative instructions, height text and other prose. Imogen remains a medium-tan androgynous adult about 28 with the same short black bob and concerned face, slate utility jacket, gray knit, dark trousers and boots. Keep the closed two-latch wheeled care case. In REAR body view move the case to the front of the person so it is occluded by the body, with only a small part visible below/around a hip; do not carry a second case at the side. Keep the same isolated closed case at bottom-right.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d331e17d-a9e0-47e3-b661-6be6fba7f373.png",
+                "role": "Inspected actual first returned candidate; target for face paint and presentation correction, preserve identity and costume.",
+                "inspected": true,
+                "sha256": "f9d5f5e7ea651000a5f42fb484f47d7bb7662467c787e4c6e8eaa6e3125c24d3"
+              },
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "Inspected broad opaque facial oil paint handling only; no identity or dark lighting transfer.",
+                "inspected": true,
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+              }
+            ],
+            "preflight": [
+              "Inspected actual target pixels and Tressa style sheet. Paint-only style role excludes identity/skin tone/night lighting. Source-specific sleeves and boot laterality checked against front and rear views.",
+              "Character only on ivory, two full unclipped views, exact readable name/title; no added effects or scenery."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-83cf3c58-91af-498f-ab1b-02d831d9aca8.png",
+            "outputSha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T11:13:09.661692+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Actual second returned image inspected: broad opaque planes continue across face and body; dark matte eyes, readable exact source name/title, two complete unclipped body views and no scene, floor patches or swatches.",
+              "Source care collaborator identity preserved: practical dry jacket, boots, closed wheeled case, no medical credentials or magic. Rear case is appropriately partly occluded; case wheel count is an art-only mechanical choice where source supplies no count."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-83cf3c58-91af-498f-ab1b-02d831d9aca8.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "badc68cf4aa8b01eec563c2a14a693add43adea5de5ce7bb0cb69313d9e9c24b",
+        "outputSha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-d331e17d-a9e0-47e3-b661-6be6fba7f373.png",
+            "role": "Inspected actual first returned candidate; target for face paint and presentation correction, preserve identity and costume.",
+            "inspected": true,
+            "sha256": "f9d5f5e7ea651000a5f42fb484f47d7bb7662467c787e4c6e8eaa6e3125c24d3"
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "Inspected broad opaque facial oil paint handling only; no identity or dark lighting transfer.",
+            "inspected": true,
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10"
+          }
+        ],
+        "evidence": [
+          "Actual second returned image inspected: broad opaque planes continue across face and body; dark matte eyes, readable exact source name/title, two complete unclipped body views and no scene, floor patches or swatches.",
+          "Source care collaborator identity preserved: practical dry jacket, boots, closed wheeled case, no medical credentials or magic. Rear case is appropriately partly occluded; case wheel count is an art-only mechanical choice where source supplies no count."
+        ],
+        "specificationSha256": "c93d6702187626301a9ea58786eb9e8a388f9cbc29ffdf643bbb1d286635646b"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "94887ffe327459a7a717dc293f375702cd2d459c8e0f98bbc0b9cc1b5f01d65a"
+    }
+  ],
+  "sourceSha256": "badc68cf4aa8b01eec563c2a14a693add43adea5de5ce7bb0cb69313d9e9c24b"
+}
