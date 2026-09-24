@@ -188,7 +188,55 @@
         "Browser check verified Character sheets filter, story attribution, thumbnails, and full-size Leora Sloane viewer with readable unclipped artwork.",
         "Named character capture verifies current source, specification, selected references, selected output and review pins before storing full-size and thumbnail renditions."
       ]
-    }
+    },
+    "resumeContract": {
+      "worktree": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art",
+      "scope": "Worker N owns only pages/character-specs/<slug>.json and stories/<slug>/art/characters/* for manifest stories with inventoryBatch N. Do not change source prose/covers/universe, gallery code/snapshot or central manifest. Root owns all Git, validation/capture and integration. You are not alone; preserve others edits.",
+      "generation": "Use imagegen skill and built-in image_gen only, one asset per call, max five actual inspected reference images. Read finished story fully and inspect authority/source marker before assessment; covers and relevant artwork actual pixels. New sheets named exact source name or distinctive authorized art name with recorded provenance. User full run/final review approval persists.",
+      "style": "Canadian Group of Seven oil collection: broad connected masses, directional opaque paint and selective impasto across faces too; story-motivated lighting preserves darkness. Character only on warm ivory, no locations, scene/floor patches, paint swatches or palette strips. Exact readable name and story title. Preserve anatomy and distinct identity; style anchor must not donate faces.",
+      "provenance": "Follow existing spec schema and UTF-8. Preserve all attempts, exact prompt, actual returned candidate path, inspected selected reference hashes, source/output/specification hashes and PASS findings. Use pages.landscape_gallery._reviewed_character_source(Path.cwd(),spec,char) to verify final pins; character_specification_sha256 excludes status/output/outputSha256/validation and generation.attempts. Avoid self-referential mutable output paths in generation refs; use immutable original returned candidate for edits.",
+      "coordination": "Notify root on each stable completed story or 2-4 sheet batch; continue next assigned story without waiting. Stop only after entire assigned inventory complete or specific genuine blocker. Root performs additional visual review and small commits. No extra lifecycle documents.",
+      "resume": "Inspect saved unfinished attempts/candidates first, never blindly regenerate. The prior agents no longer appear in live agent list; no generation handle remains known. For Four Million Falling, explicit prior worker message confirms no calls made. All other completed selected assets should be reused when pins remain current."
+    },
+    "recurringIdentityCoordination": [
+      {
+        "name": "Kethra",
+        "stories": [
+          "a-lock-on-the-inside",
+          "voice-of-silence"
+        ],
+        "selectedAnchor": "stories/a-lock-on-the-inside/art/characters/kethra.png",
+        "sha256": "d0509c1ca7d8843667cc925d858bc9d78394e81ad685a6df8d401b247dbe61cd",
+        "rule": "Same LOCKED signing character; hearing intact, slate/chalk, no invented mouth injury/prosthetic voice. Appearance interpretation reused with source-specific states."
+      },
+      {
+        "name": "Faris",
+        "stories": [
+          "all-accounts-due",
+          "the-sky-remembers-us-return"
+        ],
+        "selectedAnchor": "stories/all-accounts-due/art/characters/faris.png",
+        "sha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8",
+        "rule": "Preserve identity if qualifying cast in Return, respect ancient vs terminal powerless states. Verify current universe and source."
+      },
+      {
+        "name": "Seyathi",
+        "stories": [
+          "all-accounts-due",
+          "the-sky-remembers-us-return"
+        ],
+        "selectedAnchor": "stories/all-accounts-due/art/characters/seyathi.png",
+        "sha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a",
+        "rule": "Preserve identity if qualifying cast in Return, respect ancient vs terminal powerless states. Verify current universe and source."
+      },
+      {
+        "name": "Nika",
+        "stories": [
+          "a-seat-for-the-sun"
+        ],
+        "rule": "Worker search found only this story and no universe entry; no evidence permits merging with other sun goddesses."
+      }
+    ]
   },
   "stories": [
     {
@@ -1351,42 +1399,17 @@
     }
   ],
   "checkpoint": {
-    "recordedAt": "2026-09-23T21:49:11.873388+00:00",
+    "recordedAt": "2026-09-24T02:18:05.579241+00:00",
     "storiesInventoried": 193,
-    "storiesAssessed": 15,
-    "mainCharactersIdentified": 55,
-    "sheetsCompleted": 41,
+    "storiesAssessed": 40,
+    "mainCharactersIdentified": 160,
+    "sheetsCompleted": 139,
     "reusedAssets": 0,
     "documentedUnresolvedItems": [],
     "remainingStoryAssessments": [
-      "a-lock-on-the-inside",
-      "a-pet-human",
-      "a-place-for-sunday",
-      "a-place-for-the-living",
-      "a-reasonable-declaration",
-      "a-seat-for-the-sun",
-      "all-accounts-due",
-      "an-ordinary-education",
-      "anatomy-of-a-god",
-      "apes-in-orbit",
-      "before-lunch",
-      "before-she-gets-tired",
-      "between-the-colors",
-      "blade-calls-your-name",
-      "blood-types-of-immortality",
-      "by-tooth-and-threshold",
-      "captive-couples",
-      "clerics-infernal-ex",
-      "daughter-of-the-sun",
-      "deaths-patron",
-      "deja-vu-too-late",
-      "empire-within",
       "every-flower-she-knew",
       "everyone-knows-her",
-      "fifty-seven-minutes",
       "four-crowns-in-hiding",
-      "four-million-falling",
-      "fourth-house",
       "gods-afraid-of-grandma",
       "golden-lion",
       "head-priests-in-love",
@@ -1539,23 +1562,63 @@
       "yavrens-return"
     ],
     "remainingCharacterSheets": [
-      "a-little-more-room/suzette",
-      "a-little-more-room/robin",
-      "a-little-winter-for-sale/tair-ked",
-      "a-little-winter-for-sale/yara-mesk",
-      "a-little-winter-for-sale/urumet",
-      "a-throne-neither-wanted/vesran",
-      "a-throne-neither-wanted/edelis",
-      "a-throne-neither-wanted/othven",
-      "a-throne-neither-wanted/sorevia",
-      "a-throne-neither-wanted/marnelle",
-      "friends-of-the-night/tavik",
-      "friends-of-the-night/denek",
-      "friends-of-the-night/torma",
-      "friends-of-the-night/marshal-drost"
+      "between-the-colors/iseth",
+      "blade-calls-your-name/odmara",
+      "blade-calls-your-name/felrin",
+      "blade-calls-your-name/kosca",
+      "blade-calls-your-name/yevet",
+      "daughter-of-the-sun/tovan-rek",
+      "daughter-of-the-sun/orrin-pell",
+      "daughter-of-the-sun/sister-calvea-dorn",
+      "daughter-of-the-sun/queen-aurelia",
+      "daughter-of-the-sun/iserelle",
+      "fifty-seven-minutes/orselle-vuret",
+      "fifty-seven-minutes/rulik-saal",
+      "fifty-seven-minutes/sileth-nemm",
+      "fifty-seven-minutes/ossa-keld",
+      "four-million-falling/inez-arco",
+      "four-million-falling/chief-damas",
+      "four-million-falling/paz-arco",
+      "fourth-house/pelmara-jossan",
+      "fourth-house/beral-quor",
+      "fourth-house/ishket",
+      "fourth-house/uvena"
     ],
-    "resumeRule": "Continue full authorized run from exact remaining queue, verifying source/spec/reference/output hashes. No preview-approval wait remains. Preserve all generation attempts; user review at end.",
+    "resumeRule": "User resumed with LETS GO after pause request. Continue all six inventory batches; verify saved attempts and actual outputs before new calls, preserve prior attempts and source/reference pins. Root reviews and makes small commits. Full review at end remains authorized.",
     "exampleSheetsReady": 8,
-    "gallerySheetsStored": 27
+    "gallerySheetsStored": 97,
+    "status": "resumed",
+    "pauseRequested": true,
+    "resumeAuthorization": "LETS GO",
+    "knownCorrections": [
+      {
+        "story": "blade-calls-your-name",
+        "characters": [
+          "odmara",
+          "felrin",
+          "kosca",
+          "yevet"
+        ],
+        "finding": "Root actual-pixel review: identities/anatomy/text pass, but broad bright studio/day illumination contradicts recorded low lantern/cool dusk lighting. Restrict warm lamp-facing planes and connect cool shadows; retain ivory ground and exact identities. Held from capture."
+      },
+      {
+        "story": "fifty-seven-minutes",
+        "finding": "Four candidates rejected for dark ground obscuring headings; attempt2 prepared-not-called. Additional recorded crown nail, knife hip and palm digit corrections in spec."
+      },
+      {
+        "story": "daughter-of-the-sun",
+        "finding": "Tovan revision and five remaining sheets/statuses in spec; Solvienne/Seris/Cythra selected."
+      },
+      {
+        "story": "between-the-colors",
+        "finding": "Iseth attempt2 recorded in-progress at interruption; recover actual returned output if available before retry. Agent handle no longer live; Berian/Tesset selected."
+      },
+      {
+        "story": "four-million-falling",
+        "finding": "Previous worker explicitly reported NO image calls made. Inez/Damas started records are prepared prompts, requiring corrected status before calls; Paz prompt needs preparation."
+      }
+    ],
+    "galleryStoriesStored": 27,
+    "reviewedAwaitingCapture": []
   }
 }
