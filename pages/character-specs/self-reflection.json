@@ -1,0 +1,1241 @@
+{
+  "schemaVersion": 1,
+  "slug": "self-reflection",
+  "title": "Self-Reflection",
+  "source": "stories/self-reflection/05-story.md",
+  "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire canonical finished prose read. Nina and Anin are distinct autonomous main people with initially identical bodies; mother sustains recognition, care and mourning; Jocelyn, Ben and Daphne recur in school exchanges and final honest grief disclosure. Six people. Father is remembered, never appears. Mother's art-only name preserves canonical lack of established personal name.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Nina and Anin's father",
+      "reason": "Deceased remembered person only, no present appearance or communication."
+    },
+    {
+      "name": "Driving instructor and neighbor",
+      "reason": "Anecdotal background, not sustained visually present cast."
+    },
+    {
+      "name": "Mirror, bracelets, hoodie, written page",
+      "reason": "Ordinary objects without autonomous agency; continuity details within people sheets."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Nina",
+    "universe/characters.md#Anin",
+    "universe/characters.md#Nina and Anin's unnamed mother",
+    "universe/characters.md#Jocelyn Park",
+    "universe/characters.md#Ben",
+    "universe/characters.md#Daphne",
+    "universe/rules.md#Nina–Anin bounded branch-person incident"
+  ],
+  "characters": [
+    {
+      "id": "nina",
+      "name": "Nina",
+      "role": "Anxious teenage protagonist who recognizes Anin and owns her grief",
+      "naming": {
+        "sourceName": "Nina",
+        "sourceRole": "Anxious teenage protagonist who recognizes Anin and owns her grief",
+        "provenance": "Exact canonical finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 16,
+          "quote": "freckles across the nose. Same pale scar tucked beneath the left eyebrow.",
+          "explanation": "Matching physical identifiers."
+        },
+        {
+          "line": 430,
+          "quote": "own bracelet remained.",
+          "explanation": "Original remains solid after loss."
+        }
+      ],
+      "form": "Human teenager, seventeen as art-only interpretation",
+      "storyAppearance": {
+        "anatomy": "Teenage girl; dark freckles across nose, pale scar under LEFT eyebrow, sleep shirt with ink near hem, blue paper museum bracelet. Wears green hoodie after Anin disappears; own arm retains SAME and YOU TOO in black ink.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, cream T-shirt, navy straight jeans and white worn canvas trainers.",
+        "markings": "Teenage girl; dark freckles across nose, pale scar under LEFT eyebrow, sleep shirt with ink near hem, blue paper museum bracelet. Wears green hoodie after Anin disappears; own arm retains SAME and YOU TOO in black ink.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, cream T-shirt, navy straight jeans and white worn canvas trainers.",
+        "equipment": "Main full views Day after, fully solid, blue paper bracelet on LEFT wrist (art-selected side), black ink SAME and YOU TOO on inner RIGHT forearm. Isolated right forearm detail exact readable 'SAME' above 'YOU TOO'. Two head studies Guarded and Speaking honestly. One small isolated original sleep shirt: loose long gray cotton shirt with dark ink stain near hem. Do not put Anin on sheet.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, cream T-shirt, navy straight jeans and white worn canvas trainers."
+      },
+      "explicitCanon": [
+        "Teenage girl; dark freckles across nose, pale scar under LEFT eyebrow, sleep shirt with ink near hem, blue paper museum bracelet. Wears green hoodie after Anin disappears; own arm retains SAME and YOU TOO in black ink."
+      ],
+      "visualInterpretation": [
+        "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, cream T-shirt, navy straight jeans and white worn canvas trainers.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main full views Day after, fully solid, blue paper bracelet on LEFT wrist (art-selected side), black ink SAME and YOU TOO on inner RIGHT forearm. Isolated right forearm detail exact readable 'SAME' above 'YOU TOO'. Two head studies Guarded and Speaking honestly. One small isolated original sleep shirt: loose long gray cotton shirt with dark ink stain near hem. Do not put Anin on sheet."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Soft ordinary morning/window light with cool blue-gray shadow masses, modest warm planes; no supernatural glow"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:nina",
+        "links": [
+          "universe/characters.md#Nina"
+        ],
+        "evidence": "Exact canonical local identity; no unrelated namesake linkage."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/nina.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact folio. Change ONLY the MIDDLE full-body side view so it is a TRUE LEFT-LATERAL view facing canvasLEFT, not canvasright. Preserve its same scale, position, slouch/pockets, exact face/hair, green hoodie, jeans/shoes and lighting. The anatomical LEFT wrist blue paper bracelet must be visible on this camera-near left arm, and source's small pale scar is beneath the LEFT eyebrow on this visible side. Replace side label with 'Left side'. Front and Back figures, two heads, forearm/shirt details, all other text, ivory and physical oils remain unchanged. No second bracelet or second eyebrow scar. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-166964ee-a5ca-42f0-8fa0-7eeb8639b5ba.png",
+            "sha256": "eaf22c09483657aed0373921f878f0d00cce1a721b227b7cb035cc1889f7c3a1",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T05:19:31.121715+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Nina'.\nGirl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, cream T-shirt, navy straight jeans and white worn canvas trainers.\nSource facts: Teenage girl; dark freckles across nose, pale scar under LEFT eyebrow, sleep shirt with ink near hem, blue paper museum bracelet. Wears green hoodie after Anin disappears; own arm retains SAME and YOU TOO in black ink.\nDetails/states: Main full views Day after, fully solid, blue paper bracelet on LEFT wrist (art-selected side), black ink SAME and YOU TOO on inner RIGHT forearm. Isolated right forearm detail exact readable 'SAME' above 'YOU TOO'. Two head studies Guarded and Speaking honestly. One small isolated original sleep shirt: loose long gray cotton shirt with dark ink stain near hem. Do not put Anin on sheet.\nLIGHT: Soft ordinary morning/window light with cool blue-gray shadow masses, modest warm planes; no supernatural glow. Scar must stay below LEFT eyebrow, not centered or duplicated.",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+                "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+                "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+                "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Opaque physical oil and ivory folio construction only",
+                "notes": "No mature male face, hair, body/clothing transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-166964ee-a5ca-42f0-8fa0-7eeb8639b5ba.png",
+            "outputSha256": "eaf22c09483657aed0373921f878f0d00cce1a721b227b7cb035cc1889f7c3a1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:30:21.651115+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Assistant anatomical-side audit before shared-body reference: side view faces right yet shows bracelet and scar; require explicit left-lateral view to remove ambiguity before Anin."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:30:21.651115+00:00",
+            "prompt": "Edit this exact folio. Change ONLY the MIDDLE full-body side view so it is a TRUE LEFT-LATERAL view facing canvasLEFT, not canvasright. Preserve its same scale, position, slouch/pockets, exact face/hair, green hoodie, jeans/shoes and lighting. The anatomical LEFT wrist blue paper bracelet must be visible on this camera-near left arm, and source's small pale scar is beneath the LEFT eyebrow on this visible side. Replace side label with 'Left side'. Front and Back figures, two heads, forearm/shirt details, all other text, ivory and physical oils remain unchanged. No second bracelet or second eyebrow scar. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-166964ee-a5ca-42f0-8fa0-7eeb8639b5ba.png",
+                "sha256": "eaf22c09483657aed0373921f878f0d00cce1a721b227b7cb035cc1889f7c3a1",
+                "inspected": true,
+                "role": "Actual target inspected; only indicated side-consistency correction authorized"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-69543c82-83bf-4a65-9df4-68873eea314e.png",
+            "savedPath": "stories/self-reflection/art/characters/nina.png",
+            "outputSha256": "e48fb640d89915819316305de5c4ca97ae635e78bbd3a05965428da4280e467a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:48:06.849231+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:48:06.849231+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "e48fb640d89915819316305de5c4ca97ae635e78bbd3a05965428da4280e467a",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-166964ee-a5ca-42f0-8fa0-7eeb8639b5ba.png",
+            "sha256": "eaf22c09483657aed0373921f878f0d00cce1a721b227b7cb035cc1889f7c3a1",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "evidence": [
+          "Actual corrected left-lateral profile now faces canvasLEFT and exposes anatomical left wrist bracelet; front bracelet viewerRIGHT and rear viewerLEFT agree. Nose freckles and pale left-brow scar retained.",
+          "Consistent teen identity, opaque green hoodie, exact SAME / YOU TOO forearm ink, ordinary blue paper, gray ink-stained sleep shirt; clear labels and broad matte oil on ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "891236941a5edc3080bf9746702550b7f26b2beecf55bd3caa05a744f177f261"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "e48fb640d89915819316305de5c4ca97ae635e78bbd3a05965428da4280e467a"
+    },
+    {
+      "id": "anin",
+      "name": "Anin",
+      "role": "Autonomous branch person who chooses her final hours",
+      "naming": {
+        "sourceName": "Anin",
+        "sourceRole": "Autonomous branch person who chooses her final hours",
+        "provenance": "Exact canonical finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 16,
+          "quote": "freckles across the nose.",
+          "explanation": "Initial matching body."
+        },
+        {
+          "line": 322,
+          "quote": "The green hoodie remained perfectly green.",
+          "explanation": "Borrowed matter does not fade."
+        },
+        {
+          "line": 408,
+          "quote": "I AM REAL",
+          "explanation": "Self-authored forearm declaration."
+        }
+      ],
+      "form": "Human teenager, seventeen as art-only interpretation",
+      "storyAppearance": {
+        "anatomy": "Initially physically identical to Nina, separate person named Anin. Duplicated sleep shirt/blue museum bracelet fade with her body. Borrowed green hoodie stays fully opaque. Writes I AM REAL on own forearm before final fading. Death versus other disappearance unresolved.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, long gray sleep shirt with ink mark near hem, navy straight jeans and white worn canvas trainers.",
+        "markings": "Initially physically identical to Nina, separate person named Anin. Duplicated sleep shirt/blue museum bracelet fade with her body. Borrowed green hoodie stays fully opaque. Writes I AM REAL on own forearm before final fading. Death versus other disappearance unresolved.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, long gray sleep shirt with ink mark near hem, navy straight jeans and white worn canvas trainers.",
+        "equipment": "Main Front/Side/Back early fully-solid Anin in borrowed green hoodie. Two heads Curious and Resolute matching Nina anatomically. One late-dawn torso/hand study: her skin, the duplicate gray shirt and blue paper bracelet become partly TRANSLUCENT, let ivory and gray shirt shape be seen THROUGH raised palm; green hoodie remains fully opaque saturated cloth. Black 'I AM REAL' on RIGHT forearm fades with skin. No disappearance puff, ghost wings, halo, shared mind thread, merged face or second person.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, long gray sleep shirt with ink mark near hem, navy straight jeans and white worn canvas trainers."
+      },
+      "explicitCanon": [
+        "Initially physically identical to Nina, separate person named Anin. Duplicated sleep shirt/blue museum bracelet fade with her body. Borrowed green hoodie stays fully opaque. Writes I AM REAL on own forearm before final fading. Death versus other disappearance unresolved."
+      ],
+      "visualInterpretation": [
+        "Girl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, long gray sleep shirt with ink mark near hem, navy straight jeans and white worn canvas trainers.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon.",
+        "Late detail restored to PALMAR RIGHT hand, fingers upward, thumb viewerRIGHT, attached to anatomical RIGHT arm; I AM REAL on own right forearm. Source does not specify palm orientation/forearm surface. Later dorsal edit resulted from withdrawn anatomical review and is rejected."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main Front/Side/Back early fully-solid Anin in borrowed green hoodie. Two heads Curious and Resolute matching Nina anatomically. One late-dawn torso/hand study: her skin, the duplicate gray shirt and blue paper bracelet become partly TRANSLUCENT, let ivory and gray shirt shape be seen THROUGH raised palm; green hoodie remains fully opaque saturated cloth. Black 'I AM REAL' on RIGHT forearm fades with skin. No disappearance puff, ghost wings, halo, shared mind thread, merged face or second person."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Late dawn low warm planes and cool deep room shadows; translucent state admits surrounding paper without self-glow"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:anin",
+        "links": [
+          "universe/characters.md#Anin"
+        ],
+        "evidence": "Separate person from Nina; same initial physical body, later autonomous state. No shared thoughts after origin."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/characters/nina.png",
+          "sha256": "e48fb640d89915819316305de5c4ca97ae635e78bbd3a05965428da4280e467a",
+          "inspected": true,
+          "role": "Selected Nina exact shared initial anatomy/hair/scar/freckles and oil construction; Anin remains separate person",
+          "notes": "Nina actual A2 inspected; left bracelet and left eyebrow scar map consistently, original ordinary shirt and green hoodie shown."
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/anin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this existing Anin sheet minimally. Preserve the exact heading Anin / Self-Reflection, all three full views, heads, isolated sleep-shirt study, layout, anatomy, face, scar, clothes, heavy Canadian Group of Seven oil marks and ivory paper. Correct ONLY the bottom Fading detail (late dawn): remove the blue bracelet from the raised anatomical RIGHT wrist. Bracelet belongs on LEFT wrist, and is already correct in all three main full views; do not change those. The left wrist is outside the small fading crop so NO bracelet needs adding there. Keep I AM REAL on the raised RIGHT forearm in the fading detail. Make this right hand, forearm and throat visibly partly transparent, and make her duplicated gray shirt similarly faint: show the ivory through neck and shirt and a little opaque dark-green hoodie through the edge of the raised transparent hand. Keep the borrowed green hoodie completely OPAQUE, dark and materially solid. Transparent skin should have soft reduced-value flesh brush strokes, never glow or white aura. All other views remain solid early Anin. Do not alter shirt ink, labels, hair, source left-eyebrow scar or identity. No new object, scene, or extra figure. Save landscape1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5c0cb2ed-bc81-40d9-9e5c-9cb065b6d3c0.png",
+            "sha256": "e4d4060310a8137722168d3e002f26f1fe78d35e2415984e5664b6fcad2058ec",
+            "role": "Actual inspected immutable rejected Anin A1; preserve identity/oils/layout, correct fading state only",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T05:48:08.174152+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST reference Nina is exact shared initial body/hair/scar/freckles AND physical oil anchor; depict only Anin, never Nina as an extra figure. SECOND reference bedroom supplies motivated dawn light only. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Anin'.\nGirl17, ordinary slim teenager, fair warm-olive skin, narrow heart-shaped face, small straight upturned nose, hazel-green eyes, dark freckles ACROSS NOSE and a small pale thin healed scar immediately BELOW ANATOMICAL LEFT EYEBROW (viewerRIGHT in front). Medium-brown wavy hair in loose high TOPKNOT with wisps near ears, same hair/face in every view. No adult glamour. Ordinary dark green zip hoodie, long gray sleep shirt with ink mark near hem, navy straight jeans and white worn canvas trainers.\nSource facts: Initially physically identical to Nina, separate person named Anin. Duplicated sleep shirt/blue museum bracelet fade with her body. Borrowed green hoodie stays fully opaque. Writes I AM REAL on own forearm before final fading. Death versus other disappearance unresolved.\nDetails/states: Main Front/LEFT SIDE facing canvasLEFT/Back early fully-solid Anin in borrowed green hoodie. Two heads Curious and Resolute matching Nina anatomically. One late-dawn torso/hand study: her skin, the duplicate gray shirt and blue paper bracelet become partly TRANSLUCENT, let ivory and gray shirt shape be seen THROUGH raised palm; green hoodie remains fully opaque saturated cloth. Black 'I AM REAL' on RIGHT forearm fades with skin. No disappearance puff, ghost wings, halo, shared mind thread, merged face or second person.\nLIGHT: Late dawn low warm planes and cool deep room shadows; translucent state admits surrounding paper without self-glow. Match actual Nina anatomy in supplied first reference precisely. Different agency/expression, identical face/hair/scar/freckles.\nAttached wrist bracelet and scar laterality must be consistent: LEFT wrist = viewerRIGHT in Front, viewerLEFT in Back, camera-near in left-side view. Pale scar BELOW LEFT eyebrow only. Duplicate sleep shirt and bracelet fade with body in late torso, borrowed GREEN HOODIE DOES NOT FADE and never becomes transparent. ONE person identity, Anin, across states; no Nina ink SAME/YOU TOO anywhere, only own I AM REAL. No mirror or magical prop glow.",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/characters/nina.png",
+                "sha256": "e48fb640d89915819316305de5c4ca97ae635e78bbd3a05965428da4280e467a",
+                "inspected": true,
+                "role": "Selected Nina exact shared initial anatomy/hair/scar/freckles and oil construction; Anin remains separate person",
+                "notes": "Nina actual A2 inspected; left bracelet and left eyebrow scar map consistently, original ordinary shirt and green hoodie shown."
+              },
+              {
+                "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+                "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+                "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+                "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5c0cb2ed-bc81-40d9-9e5c-9cb065b6d3c0.png",
+            "outputSha256": "e4d4060310a8137722168d3e002f26f1fe78d35e2415984e5664b6fcad2058ec",
+            "review": "Actual pixel review: strong exact matched identity, correct main LEFT bracelet and source hoodie; late state incorrectly has bracelet on raised RIGHT wrist and throat/shirt too opaque. Targeted repair."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:06:03.141939+00:00",
+            "prompt": "Edit this existing Anin sheet minimally. Preserve the exact heading Anin / Self-Reflection, all three full views, heads, isolated sleep-shirt study, layout, anatomy, face, scar, clothes, heavy Canadian Group of Seven oil marks and ivory paper. Correct ONLY the bottom Fading detail (late dawn): remove the blue bracelet from the raised anatomical RIGHT wrist. Bracelet belongs on LEFT wrist, and is already correct in all three main full views; do not change those. The left wrist is outside the small fading crop so NO bracelet needs adding there. Keep I AM REAL on the raised RIGHT forearm in the fading detail. Make this right hand, forearm and throat visibly partly transparent, and make her duplicated gray shirt similarly faint: show the ivory through neck and shirt and a little opaque dark-green hoodie through the edge of the raised transparent hand. Keep the borrowed green hoodie completely OPAQUE, dark and materially solid. Transparent skin should have soft reduced-value flesh brush strokes, never glow or white aura. All other views remain solid early Anin. Do not alter shirt ink, labels, hair, source left-eyebrow scar or identity. No new object, scene, or extra figure. Save landscape1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5c0cb2ed-bc81-40d9-9e5c-9cb065b6d3c0.png",
+                "sha256": "e4d4060310a8137722168d3e002f26f1fe78d35e2415984e5664b6fcad2058ec",
+                "role": "Actual inspected immutable rejected Anin A1; preserve identity/oils/layout, correct fading state only",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5801f451-5534-4dca-b591-061c55124a79.png",
+            "savedPath": "stories/self-reflection/art/characters/anin.png",
+            "outputSha256": "0ce9e9d779f870d907469d00c90b8b3159839b9544dd8c0608406a97c8f8b5cd",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:07:34.328409+00:00",
+            "rootReview": "Other five sheets and all other Anin properties PASS. Raised fading right arm carries reversed left palm (thumb viewerRIGHT); correct hand only.",
+            "reviewCorrection": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:32:35.841045+00:00",
+            "prompt": "Edit ONLY the raised fading HAND at bottom center-left in this Anin / Self-Reflection sheet. It is on her anatomical RIGHT forearm. With palm facing the viewer, a correct RIGHT HAND has its THUMB on canvasLEFT and little finger on canvasRIGHT. Currently thumb is wrongly on canvasRIGHT. Redraw ONLY the hand from wrist upward as an anatomically correct right palm: thumb projects out on LEFT, then index/middle/ring/little fingers fan upward with little finger on RIGHT. Exactly five digits, natural wrist join and relaxed palm, no second hand. Keep its existing partial transparency, paint value, reduced flesh color, size, position and source I AM REAL text on RIGHT forearm; no bracelet on raised right wrist. Do not change the forearm text, opaque dark-green hoodie, translucent throat/sleep-shirt, any other view, any main LEFT bracelets, scar, eyes, faces, hair, isolated shirt, labels or ivory layout. Landscape1536x1024. Thick matte Canadian Group of Seven oils and exact original light unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5801f451-5534-4dca-b591-061c55124a79.png",
+                "sha256": "0ce9e9d779f870d907469d00c90b8b3159839b9544dd8c0608406a97c8f8b5cd",
+                "inspected": true,
+                "role": "Actual immutable A2 inspected; right palm anatomy correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-db6e7887-710a-44eb-ab00-a603e5b7cf4e.png",
+            "outputSha256": "aed943b06422868c430e8bb24da7cd6c449af29bf8e892344ff2ed918bd27a01",
+            "review": "A3 failed anatomical thumb mirroring, still palmar thumb canvasRIGHT. Diagnosis: reference-locked hand silhouette resists semantic mirroring. Use clear BACK-of-RIGHT-hand view instead, preserving silhouette and adding dorsal nails/knuckles; source does not fix palm orientation or which forearm surface bears writing.",
+            "reviewCorrection": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation. This later attempt was unnecessary; any reversed chirality it introduced is rejected."
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:37:55.262241+00:00",
+            "prompt": "Make a tiny drawing correction ONLY inside the lower fading hand study of Anin. Keep the hand's thumb on canvasRIGHT as currently drawn, but show the BACK of her anatomical RIGHT HAND to the viewer, NOT its palm. Clearly paint four small fingernails at tips and subtle dorsal knuckles/tendons, with no palm creases or thenar palm pad. This is a raised RIGHT hand with its PALM TURNED TOWARD ANIN and its dorsal/back surface facing us; thumb canvasRIGHT is correct for this view. Preserve exactly five fingers, same partial transparency, size, wrist position and I AM REAL writing on the visible BACK of right forearm. Keep that forearm facing camera naturally as continuation of dorsal hand. No bracelet here. Preserve ALL other pixels/layout: three solid bodyviews, exact shared Nina face/left scar/freckles, LEFT blue bracelets there, hoodie fully opaque, gray shirt/neck partially fading, title and all labels. Heavy matte OIL and ivory1536x1024. No other change. This corrects an anatomical hand-view error by a clear dorsal view instead of mirroring the hand.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-db6e7887-710a-44eb-ab00-a603e5b7cf4e.png",
+                "sha256": "aed943b06422868c430e8bb24da7cd6c449af29bf8e892344ff2ed918bd27a01",
+                "inspected": true,
+                "role": "Immutable inspected A3; make hand dorsal view anatomically correct with same silhouette"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8300ce0c-b61a-44b9-9e65-52ca523d8361.png",
+            "savedPath": "stories/self-reflection/art/characters/anin.png",
+            "outputSha256": "b8882b0246afc7f96e7e5dbebdd44ac39ffe34ca5489978b47f783954936fc02",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:45:26.175374+00:00",
+            "reviewCorrection": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation. This later attempt was unnecessary; any reversed chirality it introduced is rejected."
+          }
+        ],
+        "selectedAttempt": 2,
+        "selectionHistory": [
+          {
+            "at": "2026-09-24T09:45:24.520089+00:00",
+            "fromAttempt": 4,
+            "toAttempt": 2,
+            "action": "restore inspected earlier candidate",
+            "reason": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel audit after root convention correction",
+        "reviewedAt": "2026-09-24T09:45:24.520089+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "0ce9e9d779f870d907469d00c90b8b3159839b9544dd8c0608406a97c8f8b5cd",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5c0cb2ed-bc81-40d9-9e5c-9cb065b6d3c0.png",
+            "sha256": "e4d4060310a8137722168d3e002f26f1fe78d35e2415984e5664b6fcad2058ec",
+            "role": "Actual inspected immutable rejected Anin A1; preserve identity/oils/layout, correct fading state only",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual restored A2: raised fading hand is PALMAR RIGHT with fingers up and thumb viewerRIGHT, correctly continuous with own RIGHT forearm; five digits and I AM REAL visible. Root wrong-convention finding withdrawn.",
+          "Main LEFT bracelet, true-left profile, left-brow scar/freckles, Nina-matched teen face and opaque borrowed hoodie retained; late body/throat/duplicate shirt partly translucent; no raised-right bracelet. All other five source sheets stable."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "b65af6e87d6f06eee53be3d997cc457b03cea3146428c1404dd77aff459747ef"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Selected Nina actual pixels accepted before Anin; same anatomy body identity, left-side landmarks, blue bracelet and shirt duplication vs opaque borrowed hoodie explicitly resolved with exact reference bytes."
+      },
+      "outputSha256": "0ce9e9d779f870d907469d00c90b8b3159839b9544dd8c0608406a97c8f8b5cd"
+    },
+    {
+      "id": "sevra",
+      "name": "Sevra",
+      "role": "Nina and Anin's mother, widowed hospital night worker",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Nina and Anin's mother, widowed hospital night worker",
+        "provenance": "Art-only name assigned to unnamed mother under user naming authorization. Canonical personal name remains unestablished; no source/universe edit. Name checked with universe, frozen names and current specs; no collision."
+      },
+      "selectionEvidence": [
+        {
+          "line": 142,
+          "quote": "Hospital fatigue still marked the skin beneath her eyes,",
+          "explanation": "Mother appearance."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult mother with tired skin beneath eyes from hospital night work; recognizes two daughters, feeds them toast, observes fading, writes note and mourns. Exact hospital role and personal name unestablished.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Woman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession.",
+        "markings": "Adult mother with tired skin beneath eyes from hospital night work; recognizes two daughters, feeds them toast, observes fading, writes note and mourns. Exact hospital role and personal name unestablished.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Woman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession.",
+        "equipment": "Two heads Attentive and Grieving. Small ordinary mug and folded handwritten note, exact concise visible text optional 'Love you. Both of you, somehow.' No toast/table scene, no supernatural mark.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Woman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession."
+      },
+      "explicitCanon": [
+        "Adult mother with tired skin beneath eyes from hospital night work; recognizes two daughters, feeds them toast, observes fading, writes note and mourns. Exact hospital role and personal name unestablished."
+      ],
+      "visualInterpretation": [
+        "Woman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two heads Attentive and Grieving. Small ordinary mug and folded handwritten note, exact concise visible text optional 'Love you. Both of you, somehow.' No toast/table scene, no supernatural mark."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Quiet warm kitchen window planes, muted cool shadows; source home after night work"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:sevra",
+        "links": [
+          "universe/characters.md#Nina and Anin's unnamed mother"
+        ],
+        "evidence": "Exact canonical local identity; no unrelated namesake linkage."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/sevra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Sevra'.\nWoman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession.\nSource facts: Adult mother with tired skin beneath eyes from hospital night work; recognizes two daughters, feeds them toast, observes fading, writes note and mourns. Exact hospital role and personal name unestablished.\nDetails/states: Two heads Attentive and Grieving. Small ordinary mug and folded handwritten note, exact concise visible text optional 'Love you. Both of you, somehow.' No toast/table scene, no supernatural mark.\nLIGHT: Quiet warm kitchen window planes, muted cool shadows; source home after night work. ",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+            "role": "Mother kitchen daylight paint/light only",
+            "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+            "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:19:31.121715+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Sevra'.\nWoman46 art interpretation, average height soft broad build, fair warm-olive skin, broad heart-shaped face, slightly upturned nose and hazel-green eyes resembling daughters, fine eye lines and tired under-eye shadows. Chestnut hair with gray strands in practical low bun. Dusty plum soft cardigan over cream plain blouse, charcoal home trousers and dark soft house shoes. No medical uniform, badge or assigned precise hospital profession.\nSource facts: Adult mother with tired skin beneath eyes from hospital night work; recognizes two daughters, feeds them toast, observes fading, writes note and mourns. Exact hospital role and personal name unestablished.\nDetails/states: Two heads Attentive and Grieving. Small ordinary mug and folded handwritten note, exact concise visible text optional 'Love you. Both of you, somehow.' No toast/table scene, no supernatural mark.\nLIGHT: Quiet warm kitchen window planes, muted cool shadows; source home after night work. ",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+                "role": "Mother kitchen daylight paint/light only",
+                "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+                "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Opaque physical oil and ivory folio construction only",
+                "notes": "No mature male face, hair, body/clothing transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5f13be9b-d74c-4138-a7cb-779c40108f0e.png",
+            "savedPath": "stories/self-reflection/art/characters/sevra.png",
+            "outputSha256": "738a3343d335967d71e18d63635127abfa80bcd2874dc060184a8cb7ac7f6ab2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:48:06.849231+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:48:06.849231+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "738a3343d335967d71e18d63635127abfa80bcd2874dc060184a8cb7ac7f6ab2",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+            "role": "Mother kitchen daylight paint/light only",
+            "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+            "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent tired mother, family resemblance without shared scar/freckles, home cardigan and trousers, ordinary mug and exact source note.",
+          "No precise hospital occupation implied by costume; warm window planes and cool shadow, distinct age, readable exact name/story and unclipped full views."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "7ffba050f2776768f647656d34cbe5a5e89ebb52a39ce2c74f728bbbf10303e6"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "738a3343d335967d71e18d63635127abfa80bcd2874dc060184a8cb7ac7f6ab2"
+    },
+    {
+      "id": "jocelyn-park",
+      "name": "Jocelyn Park",
+      "role": "School friend and birthday host who affirms friendship and sets a boundary",
+      "naming": {
+        "sourceName": "Jocelyn Park",
+        "sourceRole": "School friend and birthday host who affirms friendship and sets a boundary",
+        "provenance": "Exact canonical finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 45,
+          "quote": "Jocelyn Park's birthday dinner",
+          "explanation": "Exact full name."
+        }
+      ],
+      "form": "Human teenager, seventeen as art-only interpretation",
+      "storyAppearance": {
+        "anatomy": "Teenage school friend; peels label from water bottle, eyes fill at Nina's disclosure, wipes one eye. Exact age and appearance unspecified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student.",
+        "markings": "Teenage school friend; peels label from water bottle, eyes fill at Nina's disclosure, wipes one eye. Exact age and appearance unspecified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student.",
+        "equipment": "Two heads Concerned and Tearful; small ordinary reusable water bottle with partly peeled plain label and crumpled napkin. No invented school insignia or surname abbreviation.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student."
+      },
+      "explicitCanon": [
+        "Teenage school friend; peels label from water bottle, eyes fill at Nina's disclosure, wipes one eye. Exact age and appearance unspecified."
+      ],
+      "visualInterpretation": [
+        "Girl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two heads Concerned and Tearful; small ordinary reusable water bottle with partly peeled plain label and crumpled napkin. No invented school insignia or surname abbreviation."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Ordinary school daytime window light, restrained warm/cool planes, no dusk/night effect"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:jocelyn-park",
+        "links": [
+          "universe/characters.md#Jocelyn Park"
+        ],
+        "evidence": "Exact canonical local identity; no unrelated namesake linkage."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/jocelyn-park.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Jocelyn Park'.\nGirl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student.\nSource facts: Teenage school friend; peels label from water bottle, eyes fill at Nina's disclosure, wipes one eye. Exact age and appearance unspecified.\nDetails/states: Two heads Concerned and Tearful; small ordinary reusable water bottle with partly peeled plain label and crumpled napkin. No invented school insignia or surname abbreviation.\nLIGHT: Ordinary school daytime window light, restrained warm/cool planes, no dusk/night effect. ",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:19:31.121715+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Jocelyn Park'.\nGirl17, average height and soft sturdy teen build, warm medium beige skin, oval face with broad high cheeks, small broad nose, brown almond eyes, straight very dark brown shoulder-length hair with blunt full fringe, no bun/freckles/scar. Lavender knit crewneck over white collared shirt, loose black trousers and white canvas trainers. Ordinary fully clothed high-school student.\nSource facts: Teenage school friend; peels label from water bottle, eyes fill at Nina's disclosure, wipes one eye. Exact age and appearance unspecified.\nDetails/states: Two heads Concerned and Tearful; small ordinary reusable water bottle with partly peeled plain label and crumpled napkin. No invented school insignia or surname abbreviation.\nLIGHT: Ordinary school daytime window light, restrained warm/cool planes, no dusk/night effect. ",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+                "role": "School daylight opaque oil and values only",
+                "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+                "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Opaque physical oil and ivory folio construction only",
+                "notes": "No mature male face, hair, body/clothing transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-12a6ff76-bfb2-4a1a-b1b1-09a3a43774b5.png",
+            "savedPath": "stories/self-reflection/art/characters/jocelyn-park.png",
+            "outputSha256": "5e3b261f204a8b663a8adf53eead8f2048538fc33f13244fc3447ffc78d6ac9b",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:48:06.849231+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:48:06.849231+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "5e3b261f204a8b663a8adf53eead8f2048538fc33f13244fc3447ffc78d6ac9b",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct ordinary teen with dark straight fringe, lavender knit, consistent front/side/rear plus concern/tearful expressions, peeled-label bottle and napkin.",
+          "All clothing and markings consistent, warm/cool daylight and thick face/cloth oils; readable exact full name/title, ivory with no scene."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "cf19465ba92dc0e4fd8a474efc0df053cdac115cb9339c6c6d8da9b1e6a91b6c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "5e3b261f204a8b663a8adf53eead8f2048538fc33f13244fc3447ffc78d6ac9b"
+    },
+    {
+      "id": "ben",
+      "name": "Ben",
+      "role": "School friend whose awkward jokes make room for grief",
+      "naming": {
+        "sourceName": "Ben",
+        "sourceRole": "School friend whose awkward jokes make room for grief",
+        "provenance": "Exact canonical finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 111,
+          "quote": "Ben was midway through a story about his driving instructor",
+          "explanation": "Ongoing role/teen setting."
+        }
+      ],
+      "form": "Human teenager, seventeen as art-only interpretation",
+      "storyAppearance": {
+        "anatomy": "Teenage school friend learning to drive; uses dry jokes about driving instructor, rooms and pigeon. Surname and future unestablished.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Boy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults.",
+        "markings": "Teenage school friend learning to drive; uses dry jokes about driving instructor, rooms and pigeon. Surname and future unestablished.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Boy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults.",
+        "equipment": "Two heads Deadpan and Tentatively amused; small open-handed conversational gesture study, folded lunch napkin only if room. No pigeon bird, driver's uniform, car keys or invented licence.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Boy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults."
+      },
+      "explicitCanon": [
+        "Teenage school friend learning to drive; uses dry jokes about driving instructor, rooms and pigeon. Surname and future unestablished."
+      ],
+      "visualInterpretation": [
+        "Boy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two heads Deadpan and Tentatively amused; small open-handed conversational gesture study, folded lunch napkin only if room. No pigeon bird, driver's uniform, car keys or invented licence."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Ordinary school daytime window light, moderate cool shadow and restrained warmth"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:ben",
+        "links": [
+          "universe/characters.md#Ben"
+        ],
+        "evidence": "Exact canonical local identity; no unrelated namesake linkage."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/ben.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Ben'.\nBoy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults.\nSource facts: Teenage school friend learning to drive; uses dry jokes about driving instructor, rooms and pigeon. Surname and future unestablished.\nDetails/states: Two heads Deadpan and Tentatively amused; small open-handed conversational gesture study, folded lunch napkin only if room. No pigeon bird, driver's uniform, car keys or invented licence.\nLIGHT: Ordinary school daytime window light, moderate cool shadow and restrained warmth. ",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:19:31.121715+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Ben'.\nBoy17, tall broad soft build, pale pink freckled skin, round square face, small rounded nose, gray-blue eyes and short bright auburn tight curls. Clean-shaven teenage face. Blue/cream plaid open overshirt over gray T-shirt, loose black jeans and olive canvas sneakers. Distinct from brunette slim Cal and other adults.\nSource facts: Teenage school friend learning to drive; uses dry jokes about driving instructor, rooms and pigeon. Surname and future unestablished.\nDetails/states: Two heads Deadpan and Tentatively amused; small open-handed conversational gesture study, folded lunch napkin only if room. No pigeon bird, driver's uniform, car keys or invented licence.\nLIGHT: Ordinary school daytime window light, moderate cool shadow and restrained warmth. ",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+                "role": "School daylight opaque oil and values only",
+                "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+                "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Opaque physical oil and ivory folio construction only",
+                "notes": "No mature male face, hair, body/clothing transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-1c21eecc-ccab-46cb-954b-95d9d51140d5.png",
+            "savedPath": "stories/self-reflection/art/characters/ben.png",
+            "outputSha256": "013c6bf50c578e7317ce2ffa9acf64953e79126a7220d23616d14ae430000d4f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:07:34.328409+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:07:34.328409+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "013c6bf50c578e7317ce2ffa9acf64953e79126a7220d23616d14ae430000d4f",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: three consistent full views, two distinct expressive heads, natural open-handed gesture; ordinary fully clothed teenage proportions.",
+          "Rufous short curls, freckles, plaid shirt and olive canvas shoes remain consistent; no borrowed Nina/Anin marks. Oil planes across face/clothes and ordinary daytime lighting pass.",
+          "Exact name/title, ivory landscape layout, one identity and no environment or swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "29beb9a99bf796082b52a5502ca3c5d803146e7cdefbdd37dda782d70cf79bc2"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "013c6bf50c578e7317ce2ffa9acf64953e79126a7220d23616d14ae430000d4f"
+    },
+    {
+      "id": "daphne",
+      "name": "Daphne",
+      "role": "Observant school friend offering practical care",
+      "naming": {
+        "sourceName": "Daphne",
+        "sourceRole": "Observant school friend offering practical care",
+        "provenance": "Exact canonical finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 105,
+          "quote": "At lunch, Daphne leaned across the table.",
+          "explanation": "Observant friend."
+        }
+      ],
+      "form": "Human teenager, seventeen as art-only interpretation",
+      "storyAppearance": {
+        "anatomy": "Teenage school friend asks if Nina is okay and later gives unopened pudding cup when words fail. Distinct from released Nisha reservation; no alias relation.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Girl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot.",
+        "markings": "Teenage school friend asks if Nina is okay and later gives unopened pudding cup when words fail. Distinct from released Nisha reservation; no alias relation.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Girl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot.",
+        "equipment": "Two heads Asking and Unsure but present. Small unopened pudding cup with intact plain foil lid, held forward in a natural hand gesture. No brand labels, lunch table or extra person.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Girl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot."
+      },
+      "explicitCanon": [
+        "Teenage school friend asks if Nina is okay and later gives unopened pudding cup when words fail. Distinct from released Nisha reservation; no alias relation."
+      ],
+      "visualInterpretation": [
+        "Girl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two heads Asking and Unsure but present. Small unopened pudding cup with intact plain foil lid, held forward in a natural hand gesture. No brand labels, lunch table or extra person."
+        }
+      ],
+      "lighting": {
+        "moment": "Specified source moment",
+        "motivation": "Ordinary school daytime window light, muted cool shadows and warm lit face planes"
+      },
+      "recurrence": {
+        "identityKey": "self-reflection:daphne",
+        "links": [
+          "universe/characters.md#Daphne"
+        ],
+        "evidence": "Exact canonical local identity; no unrelated namesake linkage."
+      },
+      "references": [
+        {
+          "path": "stories/self-reflection/art/interiors/01-ninas-bedroom-at-dawn.png",
+          "role": "Actual fourth-dawn warm light/cool room shadow and oil only",
+          "notes": "Inspected low warm dawn planes and large cool blue-gray masses. Green hoodie remains ordinary opaque cloth.",
+          "sha256": "c5fdbd01496fdb7141262a994bd9223d950042135de5a07b583953949ff0ac96",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Opaque physical oil and ivory folio construction only",
+          "notes": "No mature male face, hair, body/clothing transferred.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/interiors/03-family-kitchen-table.png",
+          "role": "Mother kitchen daylight paint/light only",
+          "notes": "Quiet natural window light warm/cool planes, no table or food arrangement transferred.",
+          "sha256": "ae4390c0783747ea203b8674e5328ac341b69d6fcdd82843a4771789e9fe68e6",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+          "role": "School daylight opaque oil and values only",
+          "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+          "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+          "inspected": true
+        },
+        {
+          "path": "stories/self-reflection/title-image.jpg",
+          "role": "Inspected conceptual cover, subordinate identity hints only",
+          "notes": "Two matching silhouettes/hair in loose topknots. Cover's faded hoodie is not inherited: canonical borrowed hoodie stays opaque during Anin's fading. Mirror never depicted as magical source.",
+          "sha256": "331b1f060fd508cdd138bcafdbc5e7dcdfa7851994b39828e215829e1d98dc3d",
+          "inspected": true
+        }
+      ],
+      "output": "stories/self-reflection/art/characters/daphne.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Daphne'.\nGirl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot.\nSource facts: Teenage school friend asks if Nina is okay and later gives unopened pudding cup when words fail. Distinct from released Nisha reservation; no alias relation.\nDetails/states: Two heads Asking and Unsure but present. Small unopened pudding cup with intact plain foil lid, held forward in a natural hand gesture. No brand labels, lunch table or extra person.\nLIGHT: Ordinary school daytime window light, muted cool shadows and warm lit face planes. ",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:19:31.121715+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio on LIGHT WARM IVORY, exact large dark serif character name with exact subtitle 'Self-Reflection'. ONE person identity only per sheet. Three complete full-body Front/Side/Back views, two expressive heads, restrained specific personal details unless special layout states otherwise. Comfortable margins and readable concise labels. Heavy Canadian Group of Seven OIL, broad connected colour/value masses with opaque directional brush strokes and selective impasto on FACES, hair, cloth alike; matte eyes and quiet shadow masses. FIRST supplied actual same-story painting motivates subject light, SECOND supplies folio paint technique ONLY, never identity. No polished face island, photo/CGI/anime or fine outlines. No location, floor/ground patch, room furniture, scene, swatch/palette or other person. Modern ordinary casual clothing, no fantasy costumes. Teens fully clothed with ordinary age-appropriate proportions. Keep each identity consistent through all views.\nHeading 'Daphne'.\nGirl17, short compact athletic ordinary teen build, deep brown skin, broad square face with rounded cheeks, broad short nose, dark eyes, very short dense black natural coils. Amber corduroy overshirt over plain white T-shirt, washed medium-blue jeans and russet canvas sneakers. No freckles/scar or topknot.\nSource facts: Teenage school friend asks if Nina is okay and later gives unopened pudding cup when words fail. Distinct from released Nisha reservation; no alias relation.\nDetails/states: Two heads Asking and Unsure but present. Small unopened pudding cup with intact plain foil lid, held forward in a natural hand gesture. No brand labels, lunch table or extra person.\nLIGHT: Ordinary school daytime window light, muted cool shadows and warm lit face planes. ",
+            "references": [
+              {
+                "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+                "role": "School daylight opaque oil and values only",
+                "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+                "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Opaque physical oil and ivory folio construction only",
+                "notes": "No mature male face, hair, body/clothing transferred.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-97f7073d-2381-4c9b-8512-bb155cbdb909.png",
+            "savedPath": "stories/self-reflection/art/characters/daphne.png",
+            "outputSha256": "161ea83a675f288b9af1af9329c152faafd5e575480422950724e896d3731f2c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:07:34.328409+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:07:34.328409+00:00",
+        "sourceSha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3",
+        "outputSha256": "161ea83a675f288b9af1af9329c152faafd5e575480422950724e896d3731f2c",
+        "references": [
+          {
+            "path": "stories/self-reflection/art/landscapes/02-wind-beyond-the-school.png",
+            "role": "School daylight opaque oil and values only",
+            "notes": "Bright soft cool blue-sky fill and restrained golden sunlight. No school/field/trees transferred.",
+            "sha256": "b87c4b311de44b73e5e401778d4b5bfae3fee27903c508d8c6cbd2ed22b1a8ec",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Opaque physical oil and ivory folio construction only",
+            "notes": "No mature male face, hair, body/clothing transferred.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: three consistent full views and two expressive heads, age-appropriate fully clothed teen; short coils, deep-brown complexion, amber overshirt and russet canvas shoes stable.",
+          "Intact foil lid on source unopened pudding cup held naturally; own supportive uncertain expression, no Nisha alias or extra person.",
+          "Exact name/title, source daytime light and heavy oil face planes, ivory landscape sheet and no scenery/swatches pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f3668b1d4f98c15edb0261eeae09ffde4d31f0a9f23d63fb0e898bda7d076bc6"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "161ea83a675f288b9af1af9329c152faafd5e575480422950724e896d3731f2c"
+    }
+  ]
+}
