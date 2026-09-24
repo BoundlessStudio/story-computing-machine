@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "slug": "where-the-white-elk-went",
+  "title": "Where the White Elk Went",
+  "source": "stories/where-the-white-elk-went/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Authoritative frontmatter checked before production, full finished prose and prompt read. Avarra and Winterbough alone sustain the entire relationship, journey and discovery. No other individuated living participant appears; remembered kings and animals remain causal or environmental background. Original recovered exactly and inspected with cover plus actual western-boundary and ruined-room oil paintings.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md"
+  ],
+  "originalReferenceProvenance": [
+    {
+      "displayName": "codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+      "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+      "recovery": "Extracted the sole input_image from zero-based line 8 of C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-23T18-00-40-01a030a3-dbba-7ed0-a498-c8f9dd57d844.jsonl; same user message explicitly names this file and contains the exact giant-white-elk writing prompt.",
+      "inspection": "Actual original inspected: mature black-haired pointed-ear elf, green draped costume and fine gold chains; giant white shaggy elk with natural dark eyes and branched dark antlers. Prose controls pale tines, bare calves/feet and absence of harness. Photographic rendering, glamour and environmental detail do not transfer."
+    }
+  ],
+  "referenceConflicts": [
+    "Source's pale antler tines govern over dark barklike antlers in original and cover.",
+    "Forest rhythm carries no message and no visible light; no telepathy, visible aura or magical diagram is added.",
+    "Avarra's ancient lifespan does not impose elderly human aging; physical adult casting is art interpretation."
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Remembered kings, hunters, historical residents and incidental wildlife",
+      "reason": "Reported history, possibilities and natural background only; none is an individuated participating main character."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "avarra",
+      "name": "Avarra",
+      "role": "Ancient elven forest guardian and viewpoint protagonist",
+      "form": "adult elven woman",
+      "selectionEvidence": [
+        {
+          "quote": "tugged the chain woven behind one pointed ear",
+          "explanation": "Source establishes pointed ear and attached chain."
+        },
+        {
+          "quote": "freeing a strand of black hair",
+          "explanation": "Binding black hair."
+        },
+        {
+          "quote": "Her soles, accustomed to Elderweald’s moss and packed paths, objected to every hidden pebble.",
+          "explanation": "Bare feet and lived physical experience matter to the journey."
+        }
+      ],
+      "storyAppearance": "Ancient adult elven guardian, black hair, pointed ear with chain woven behind it, bare calf and bare soles, ordinary clothes subject to rain/soot. Exact physical age, face and detailed garment cut unspecified; source-compatible green/gold costume and face drawn from original.",
+      "visualInterpretation": [
+        "Avarra is ONE ancient but physically adult elven woman, art-visible age about thirty, with long loose BLACK hair, clearly POINTED ears, warm olive skin, dark hazel eyes, calm angular face and a gently skeptical expression. Preserve the recognizable face, hair, green/gold clothing family and fine chainwork of the original, but repaint everything in the primary painting's broad oil language. A delicate bronze-gold chain is woven through hair behind a pointed ear; restrained leaf-shaped filigree at the bodice, arm bands and chain necklace are subordinate costume accents, no crown. Her opaque DARK FOREST GREEN fitted sleeveless bodice connects to a layered draped skirt, with the front panels ending below the knees and longer side/back cloth so the BARE CALVES remain visible. BOTH FEET BARE, complete natural toes visible; no shoes, stockings or anklets. Neutral practical upright front and rear stances, unglamorous and unposed, same outfit and adult face in both bodies and portrait. This is the opening autumn circuit state, before rain, soot and later bruising. No saddle, reins, weapons, staff, elk, forest, glowing magic or root diagrams. Her chain and hair are entirely attached to her clothed figure, not isolated details."
+      ],
+      "states": [
+        {
+          "name": "Opening autumn circuit",
+          "description": "One consistent clothed barefoot state before travel rain, smoke and bruising; no elk rider composite."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "where-the-white-elk-went:avarra",
+        "links": [],
+        "evidence": "Avarra, Winterbough and Elderweald searched in universe, frozen name memory and existing character specifications; no recurring identity matches. Source-local only."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+            "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+            "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+            "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+            "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Avarra', exact subtitle 'Where the White Elk Went'. Avarra is ONE ancient but physically adult elven woman, art-visible age about thirty, with long loose BLACK hair, clearly POINTED ears, warm olive skin, dark hazel eyes, calm angular face and a gently skeptical expression. Preserve the recognizable face, hair, green/gold clothing family and fine chainwork of the original, but repaint everything in the primary painting's broad oil language. A delicate bronze-gold chain is woven through hair behind a pointed ear; restrained leaf-shaped filigree at the bodice, arm bands and chain necklace are subordinate costume accents, no crown. Her opaque DARK FOREST GREEN fitted sleeveless bodice connects to a layered draped skirt, with the front panels ending below the knees and longer side/back cloth so the BARE CALVES remain visible. BOTH FEET BARE, complete natural toes visible; no shoes, stockings or anklets. Neutral practical upright front and rear stances, unglamorous and unposed, same outfit and adult face in both bodies and portrait. This is the opening autumn circuit state, before rain, soot and later bruising. No saddle, reins, weapons, staff, elk, forest, glowing magic or root diagrams. Her chain and hair are entirely attached to her clothed figure, not isolated details. Light is source-motivated soft autumn daylight filtering through Elderweald: quiet warm cream planes, connected cool slate/green-grey shadows. Do not draw the forest or lighting beams. Broad natural connected shadow masses, varied long and short directional strokes and selective impasto across face/skin/fur as well as costume. Never glossy eyes, photographic fur/skin, individually beveled chips or a digital texture overlay. Entire complete forms fit with at least 40 pixels of ivory space above the highest hair/antlers and below all feet/hooves. The warm ivory canvas is FULLY OPAQUE, with absolutely no grounding shadows, beige floor strokes, terrain patch, landscape, swatches or isolated hand studies.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T17:14:39.003477+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Avarra', exact subtitle 'Where the White Elk Went'. Avarra is ONE ancient but physically adult elven woman, art-visible age about thirty, with long loose BLACK hair, clearly POINTED ears, warm olive skin, dark hazel eyes, calm angular face and a gently skeptical expression. Preserve the recognizable face, hair, green/gold clothing family and fine chainwork of the original, but repaint everything in the primary painting's broad oil language. A delicate bronze-gold chain is woven through hair behind a pointed ear; restrained leaf-shaped filigree at the bodice, arm bands and chain necklace are subordinate costume accents, no crown. Her opaque DARK FOREST GREEN fitted sleeveless bodice connects to a layered draped skirt, with the front panels ending below the knees and longer side/back cloth so the BARE CALVES remain visible. BOTH FEET BARE, complete natural toes visible; no shoes, stockings or anklets. Neutral practical upright front and rear stances, unglamorous and unposed, same outfit and adult face in both bodies and portrait. This is the opening autumn circuit state, before rain, soot and later bruising. No saddle, reins, weapons, staff, elk, forest, glowing magic or root diagrams. Her chain and hair are entirely attached to her clothed figure, not isolated details. Light is source-motivated soft autumn daylight filtering through Elderweald: quiet warm cream planes, connected cool slate/green-grey shadows. Do not draw the forest or lighting beams. Broad natural connected shadow masses, varied long and short directional strokes and selective impasto across face/skin/fur as well as costume. Never glossy eyes, photographic fur/skin, individually beveled chips or a digital texture overlay. Entire complete forms fit with at least 40 pixels of ivory space above the highest hair/antlers and below all feet/hooves. The warm ivory canvas is FULLY OPAQUE, with absolutely no grounding shadows, beige floor strokes, terrain patch, landscape, swatches or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+                "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+                "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+                "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+                "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-654c43ca-2113-440c-bbbf-b73d6f8634e9.png",
+            "outputSha256": "f8a3c6add92f37ada009cfc6cdf3a2d8a2a2578142c6a6ebe4dfe4126a96e72e",
+            "finishedAt": "2026-09-24T17:16:56.497261+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: one consistent adult elven identity in complete front/rear bodies and portrait; black hair, pointed ears, woven ear chains, green/gold draped clothing, bare calves and both bare feet agree with source and inspected original. Ordinary neutral stance, no elk or scenic content. Face and clothing constructed from visible broad oil planes, exact readable name and story title, no ground/floor patch or swatches. Fully unclipped body silhouettes with ivory margins.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-654c43ca-2113-440c-bbbf-b73d6f8634e9.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/where-the-white-elk-went/art/characters/avarra.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "f8a3c6add92f37ada009cfc6cdf3a2d8a2a2578142c6a6ebe4dfe4126a96e72e",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T17:16:56.497284+00:00",
+        "sourceSha256": "f4b7028ae7ed598909f42023e66370f1b1d49664dd64c324f71030f9bb1b2296",
+        "outputSha256": "f8a3c6add92f37ada009cfc6cdf3a2d8a2a2578142c6a6ebe4dfe4126a96e72e",
+        "references": [
+          {
+            "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+            "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+            "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+            "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+            "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: one consistent adult elven identity in complete front/rear bodies and portrait; black hair, pointed ears, woven ear chains, green/gold draped clothing, bare calves and both bare feet agree with source and inspected original. Ordinary neutral stance, no elk or scenic content. Face and clothing constructed from visible broad oil planes, exact readable name and story title, no ground/floor patch or swatches. Fully unclipped body silhouettes with ivory margins.",
+        "specificationSha256": "abd0f5c59177bbf0c057a97e8ad8e0897b57bd198d0bc1338e19ef26a3c01f62"
+      }
+    },
+    {
+      "id": "winterbough",
+      "name": "Winterbough",
+      "role": "Giant white elk, ancient carrier and autonomous route chooser",
+      "form": "male giant white elk",
+      "selectionEvidence": [
+        {
+          "quote": "His shoulder stood half again as high as hers when she was on the ground",
+          "explanation": "Binding relative giant scale."
+        },
+        {
+          "quote": "One dark eye found her through the pale tines.",
+          "explanation": "Natural dark eye and pale antler tines."
+        },
+        {
+          "quote": "There was no bridle to take up, no rein hidden under the long pale shag. There had never been one.",
+          "explanation": "Never add harness or riding equipment."
+        }
+      ],
+      "storyAppearance": "Giant male white elk, dense fur and long pale shag, pale antler tines, dark eye, long legs and ordinary cloven forehooves; shoulders half again Avarra's full standing height. No bridle or reins. Thought remains inferred from behaviour, never speaking or visibly magical.",
+      "visualInterpretation": [
+        "Winterbough is ONE enormous male WHITE ELK, ancient but physically vigorous, unbridled and unridden in this reference. Natural elk/deer build with an elongated intelligent-looking head, large mobile ears, dark brown ordinary animal eyes, broad dark muzzle, very long powerful legs, cloven dark hooves and a muscular high shoulder. DENSE LONG WHITE SHAG on the neck, chest and shoulders, with white shorter fur on flanks and long pale shag elsewhere; warm cream highlights and blue-grey connected shadows retain an unmistakably WHITE animal. Source scale: his SHOULDER stands one and a half times Avarra's whole standing height; do not draw a person for scale. Huge branching ANTLERS with PALE BONE-COLOURED TINES; brown-grey grooves at their bases are allowed, but tips must be pale as the prose specifies. Use elk's slender branching multi-tined antler structure, not broad moose paddles or tree trunks. All antler tips fully inside canvas with clear ivory margins. Show TWO complete unclipped forms of THIS SAME animal: a large three-quarter side whole-body view and a slightly smaller forward-facing whole-body view, attentive ears and a patient still stance. No extra head portrait: leave room for the full antlers and all four legs/hooves. Consistent white shag, face and antler branching across both. No human rider, saddle, bridle, rein, harness, collar, ornaments, hanging ivy, decorative lights, glow, spirit double, skeleton, terrain or floor marks. The original supplies head shape and shag only; the dark barklike original antlers are subordinate to the prose's pale tines."
+      ],
+      "states": [
+        {
+          "name": "Unadorned autumn journey",
+          "description": "Uninjured natural form, two complete anatomical views; fleeting ivy streamer omitted because it is not stable identity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "where-the-white-elk-went:winterbough",
+        "links": [],
+        "evidence": "Avarra, Winterbough and Elderweald searched in universe, frozen name memory and existing character specifications; no recurring identity matches. Source-local only."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+            "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+            "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+            "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+            "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. TWO COMPLETE unclipped whole-animal studies, a large side-three-quarter view and a smaller forward-facing view, with no extra portrait; ONE identity only. Leave generous space for full branching antlers. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Winterbough', exact subtitle 'Where the White Elk Went', small optional role 'Giant white elk'. Winterbough is ONE enormous male WHITE ELK, ancient but physically vigorous, unbridled and unridden in this reference. Natural elk/deer build with an elongated intelligent-looking head, large mobile ears, dark brown ordinary animal eyes, broad dark muzzle, very long powerful legs, cloven dark hooves and a muscular high shoulder. DENSE LONG WHITE SHAG on the neck, chest and shoulders, with white shorter fur on flanks and long pale shag elsewhere; warm cream highlights and blue-grey connected shadows retain an unmistakably WHITE animal. Source scale: his SHOULDER stands one and a half times Avarra's whole standing height; do not draw a person for scale. Huge branching ANTLERS with PALE BONE-COLOURED TINES; brown-grey grooves at their bases are allowed, but tips must be pale as the prose specifies. Use elk's slender branching multi-tined antler structure, not broad moose paddles or tree trunks. All antler tips fully inside canvas with clear ivory margins. Show TWO complete unclipped forms of THIS SAME animal: a large three-quarter side whole-body view and a slightly smaller forward-facing whole-body view, attentive ears and a patient still stance. No extra head portrait: leave room for the full antlers and all four legs/hooves. Consistent white shag, face and antler branching across both. No human rider, saddle, bridle, rein, harness, collar, ornaments, hanging ivy, decorative lights, glow, spirit double, skeleton, terrain or floor marks. The original supplies head shape and shag only; the dark barklike original antlers are subordinate to the prose's pale tines. Light is source-motivated soft autumn daylight filtering through Elderweald: quiet warm cream planes, connected cool slate/green-grey shadows. Do not draw the forest or lighting beams. Broad natural connected shadow masses, varied long and short directional strokes and selective impasto across face/skin/fur as well as costume. Never glossy eyes, photographic fur/skin, individually beveled chips or a digital texture overlay. Entire complete forms fit with at least 40 pixels of ivory space above the highest hair/antlers and below all feet/hooves. The warm ivory canvas is FULLY OPAQUE, with absolutely no grounding shadows, beige floor strokes, terrain patch, landscape, swatches or isolated hand studies.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T17:14:40.075509+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. TWO COMPLETE unclipped whole-animal studies, a large side-three-quarter view and a smaller forward-facing view, with no extra portrait; ONE identity only. Leave generous space for full branching antlers. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Winterbough', exact subtitle 'Where the White Elk Went', small optional role 'Giant white elk'. Winterbough is ONE enormous male WHITE ELK, ancient but physically vigorous, unbridled and unridden in this reference. Natural elk/deer build with an elongated intelligent-looking head, large mobile ears, dark brown ordinary animal eyes, broad dark muzzle, very long powerful legs, cloven dark hooves and a muscular high shoulder. DENSE LONG WHITE SHAG on the neck, chest and shoulders, with white shorter fur on flanks and long pale shag elsewhere; warm cream highlights and blue-grey connected shadows retain an unmistakably WHITE animal. Source scale: his SHOULDER stands one and a half times Avarra's whole standing height; do not draw a person for scale. Huge branching ANTLERS with PALE BONE-COLOURED TINES; brown-grey grooves at their bases are allowed, but tips must be pale as the prose specifies. Use elk's slender branching multi-tined antler structure, not broad moose paddles or tree trunks. All antler tips fully inside canvas with clear ivory margins. Show TWO complete unclipped forms of THIS SAME animal: a large three-quarter side whole-body view and a slightly smaller forward-facing whole-body view, attentive ears and a patient still stance. No extra head portrait: leave room for the full antlers and all four legs/hooves. Consistent white shag, face and antler branching across both. No human rider, saddle, bridle, rein, harness, collar, ornaments, hanging ivy, decorative lights, glow, spirit double, skeleton, terrain or floor marks. The original supplies head shape and shag only; the dark barklike original antlers are subordinate to the prose's pale tines. Light is source-motivated soft autumn daylight filtering through Elderweald: quiet warm cream planes, connected cool slate/green-grey shadows. Do not draw the forest or lighting beams. Broad natural connected shadow masses, varied long and short directional strokes and selective impasto across face/skin/fur as well as costume. Never glossy eyes, photographic fur/skin, individually beveled chips or a digital texture overlay. Entire complete forms fit with at least 40 pixels of ivory space above the highest hair/antlers and below all feet/hooves. The warm ivory canvas is FULLY OPAQUE, with absolutely no grounding shadows, beige floor strokes, terrain patch, landscape, swatches or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+                "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+                "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+                "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+                "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f5070934-e11e-4ccf-b6f3-8c2e5417d50a.png",
+            "outputSha256": "09e94c73dbe99a587d08c5b1bdb46acacb16b1760f7c4e166f105ad499b75569",
+            "finishedAt": "2026-09-24T17:16:57.716194+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: same giant white shaggy male elk in complete three-quarter and frontal whole-body views, elongated natural face, dark eyes/muzzle, long legs and cloven hooves, broad pale branching antler tines fully inside canvas. White fur modeled in connected cream/slate oil masses; no human rider, tack, saddle, rein, collar, ivy or magical glow. Exact readable name/title and role, opaque ivory support without ground/floor marks, no extra character.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-f5070934-e11e-4ccf-b6f3-8c2e5417d50a.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/where-the-white-elk-went/art/characters/winterbough.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "09e94c73dbe99a587d08c5b1bdb46acacb16b1760f7c4e166f105ad499b75569",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T17:16:57.716224+00:00",
+        "sourceSha256": "f4b7028ae7ed598909f42023e66370f1b1d49664dd64c324f71030f9bb1b2296",
+        "outputSha256": "09e94c73dbe99a587d08c5b1bdb46acacb16b1760f7c4e166f105ad499b75569",
+        "references": [
+          {
+            "path": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
+            "role": "Primary revised Canadian Group of Seven oil painting: connected colour/value masses, broad directional opaque strokes and autumn diffuse light; no landscape or stones transferred",
+            "sha256": "09244ab42fd6d5673d40aef657ecbf51f4df1bc0a951e8c280ef7c167a98fefe",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-1a93577f-0a94-43e1-9114-67cb37c5eca7.png",
+            "role": "Recovered exact user original, actual pixels inspected. Content only: adult black-haired elf with pointed ears, chainwork and dark green draped clothing; giant white elk's elongated head, dark eyes and shag. Prose wins on pale antler tines and bare feet. Replace photographic rendering with primary oil painting and omit the other identity on each sheet.",
+            "sha256": "ed8a409110e08c336936893d66c2a2e9235b81bd5491c50727a432e3eda16e9e",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: same giant white shaggy male elk in complete three-quarter and frontal whole-body views, elongated natural face, dark eyes/muzzle, long legs and cloven hooves, broad pale branching antler tines fully inside canvas. White fur modeled in connected cream/slate oil masses; no human rider, tack, saddle, rein, collar, ivy or magical glow. Exact readable name/title and role, opaque ivory support without ground/floor marks, no extra character.",
+        "specificationSha256": "149fbbfc9eba633e508cd8fdc6f3209cffffa2a27906c3e5d91e81b171ce0813"
+      }
+    }
+  ],
+  "sourceSha256": "f4b7028ae7ed598909f42023e66370f1b1d49664dd64c324f71030f9bb1b2296"
+}
