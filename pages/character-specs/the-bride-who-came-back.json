@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-bride-who-came-back",
+  "title": "The Bride Who Came Back",
+  "source": "stories/the-bride-who-came-back/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source/prompt read. Ylva, Marzena and Queen Tirza are three sustained main identities through rescue and family reckoning. Original recovered from exact user input and inspected before briefing.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Captain, soldiers, glassmakers, healers, tutor and recalled southern people",
+      "reason": "Supporting roles, collective consequences or memories, not main sustained identities."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "marzena",
+      "name": "Marzena",
+      "role": "returned bride escaping fatal heat binding",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Her eyes were the same. Grey, irritated",
+          "explanation": "Gray eye color controls over dark original/cover."
+        },
+        {
+          "quote": "the black gown fitted her too closely, not sewn but hardened around her ribs in overlapping scales",
+          "explanation": "Heat-channel binding clothing, not decorative fire powers."
+        }
+      ],
+      "storyAppearance": {
+        "age": "Adult older sister of 24-year-old Ylva.",
+        "face": "Gray eyes, soot around nose/lip cracks, outer end of one eyebrow burned away.",
+        "hair": "Bare head, loose strands from knot.",
+        "clothing": "Black hardened overlapping glass scale gown, high collar, fine cords enter below ears; after trailing cords cut, final rear collar loop still active.",
+        "body": "Old left ankle break from age12 causes tired seventh-step drag.",
+        "selectedState": "Pressure ridge after five trailing cords cut and before final collar loop cut."
+      },
+      "visualInterpretation": [
+        "Preserve original/cover tan olive skin, narrow oval face, dark messy knot and angular nose, but gray eyes and source high collar override image ambiguities.",
+        "Art chooses which eyebrow outer end is singed without asserting source side; restrained fatigue and no explicit wound/gore."
+      ],
+      "states": [
+        {
+          "name": "At the pressure ridge",
+          "description": "Five lower trailing cords cut; final upper-back collar loop active, before freed state."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-bride-who-came-back:marzena",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-bride-who-came-back/art/characters/marzena.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 character folio, using image2 ONLY as PRIMARY oil-paint handling. Preserve exact Marzena identity, mature face structure, messy dark knot, dark glass gown shape/scales, source high collar with below-ear cords, intact glowing small rear-collar loop, cut short lower stubs, complete front/rear views, copper tally and all name/title text. REPAINT her ENTIRE LARGE FACE, small body faces, hair and exposed hands as bold Group of Seven OIL: large connected matte ochre/SLATE value masses, obvious broad flat-bristle marks, fewer larger planes, no skin pores, tiny photographic scratches, glossy lips, smooth cinematic beauty or anime eyelashes. Make BOTH irises clearly LIGHT GRAY around black pupils, source gray eyes, no amber/brown; keep dark natural eyelids. Preserve soot as big irregular smudges near nose/lips and singed outer eyebrow. LIGHT is smoke-darkened winter afternoon: lower skin to cool slate/blue shadow over most face, retain small dim copper accent on ONE cheek only, no golden sun. Remove all ground/shadow paint beneath hem/boots; ivory meets complete figures cleanly. Keep equipment minimal faint orange accents, no flames or scene. No other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b9b614bd-89de-4a5e-9409-04a26168a925.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "1117555d63099af0b9eb8699a81f43a99a2a266e1b5ad4a0d76f7f0ee1a8f6a8"
+          },
+          {
+            "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+            "role": "primary broad matte oil brushwork only, remove photographic face drift",
+            "inspected": true,
+            "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:27:20.567302+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Marzena\"; story title \"The Bride Who Came Back\". ONE adult woman, older sister of 24-year-old Ylva, preserve original Image2 and cover Image3 recognizable tan OLIVE skin, narrow oval face, angular straight nose, dark black-brown hair in messy lowish KNOT with wisps. Crucial final-prose eye color: GRAY, not amber/brown. Matte ordinary eyes, soot beside nose and cracked dry lips, outer end of one eyebrow singed away NON-GRAPHIC. Weary irritated determined, no glamorous makeup. Two COMPLETE front/rear full-body views, large matching face, one copper tally detail.\nShe wears a BLACK full-length GOWN formed in overlapping hard GLASS SCALES around ribs, high modest COLLAR, long sleeves, dark ordinary BOOTS peeking below hem. Spare dull ORANGE heat seams on a few scales only, no flames. Match original dark gown silhouette but omit revealing open back in favor of source rear-collar mechanism. Hair-thin glass cords from collar reach just below EARS. On rear, one THICKER closed GLASS LOOP joins the high collar and emerges between shoulder blades, visibly faint RED-ORANGE but source nonliving equipment. SELECTED moment \"At the pressure ridge\": all FIVE long lower trailing cords have already been cut, only short broken stubs near hem, NO long dragging cables. Collar loop remains intact. Body slightly favors old LEFT ankle injury, natural human balance. Label rear \"Collar loop intact\". NO white fox hood/white bridal gown, blanket, crown, new armor or wings.\nPersonal detail: hand-length blackened COPPER tally strip with rows of tiny marks/seal-like stamps and square punch holes through older rows, newest row unpunched; no readable invented numbers, label \"Copper tally\". Not held in body poses; Ylva has it at this moment.\nImage1 is PRIMARY PAINT. Images2/3 only Marzena identity and garment content, no photographic finish. SMOKE-DIM winter afternoon: broad cool slate/navy shadow masses over face/dress, small low warm copper edge only from distant southern fire, not uniform golden rim or bright daylight. Paint face in broad MATTE opaque bristle planes as bold as gown, no smooth photoreal/anime/CGI. Quiet ivory, no lake/ice/landscape/smoke vignette/floor patches/swatches.",
+            "references": [
+              {
+                "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+                "role": "primary matte broad oil brushwork and smoke-dim winter afternoon values, no scene",
+                "inspected": true,
+                "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-666b7f0b-de2e-4047-9304-3ab3eec01d09.png",
+                "role": "supplied original Marzena identity/dark knot/black gown, transposed to oil; final prose controls gray eyes/high collar/cords",
+                "inspected": true,
+                "sha256": "1171354ada2efbf8dc8dda6bae1719fc016b754aabad89a4e84030043cfbf067"
+              },
+              {
+                "path": "stories/the-bride-who-came-back/title-image.jpg",
+                "role": "compatible Marzena mature face and high-collar neck cord/loop placement only, no photoreal style",
+                "inspected": true,
+                "sha256": "702190a22ea2d872815e349019c501227664dbfeffdbab001148862cdfc59ca4"
+              }
+            ],
+            "preflight": [
+              "Full finished source/prompt read, all originals and chosen source art visually inspected, no exact universe/name memory match.",
+              "Selected rescue state is coherent: source ages, gray eyes, left old ankle, cut trailing cords/intact collar or removed mantle as applicable.",
+              "Source overrides original's gown back/eye ambiguity; primary oil reference dominates rendering, complete body/face/details fit without terrain."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b9b614bd-89de-4a5e-9409-04a26168a925.png",
+            "outputSha256": "1117555d63099af0b9eb8699a81f43a99a2a266e1b5ad4a0d76f7f0ee1a8f6a8",
+            "finishedAt": "2026-09-24T04:34:44.812445+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Source face/hair/black high-collar gown and cut lower cord state, copper tally and exact heading present.",
+              "Large face drifted strongly into fine photoreal texture from original; iris reads brown rather than explicit gray, no sufficiently bold matte bristle face; faint ground beneath hem. Repaint into coarse oil, gray irises, smoke-dim light and blank ground."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:34:46.832671+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 character folio, using image2 ONLY as PRIMARY oil-paint handling. Preserve exact Marzena identity, mature face structure, messy dark knot, dark glass gown shape/scales, source high collar with below-ear cords, intact glowing small rear-collar loop, cut short lower stubs, complete front/rear views, copper tally and all name/title text. REPAINT her ENTIRE LARGE FACE, small body faces, hair and exposed hands as bold Group of Seven OIL: large connected matte ochre/SLATE value masses, obvious broad flat-bristle marks, fewer larger planes, no skin pores, tiny photographic scratches, glossy lips, smooth cinematic beauty or anime eyelashes. Make BOTH irises clearly LIGHT GRAY around black pupils, source gray eyes, no amber/brown; keep dark natural eyelids. Preserve soot as big irregular smudges near nose/lips and singed outer eyebrow. LIGHT is smoke-darkened winter afternoon: lower skin to cool slate/blue shadow over most face, retain small dim copper accent on ONE cheek only, no golden sun. Remove all ground/shadow paint beneath hem/boots; ivory meets complete figures cleanly. Keep equipment minimal faint orange accents, no flames or scene. No other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b9b614bd-89de-4a5e-9409-04a26168a925.png",
+                "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+                "inspected": true,
+                "sha256": "1117555d63099af0b9eb8699a81f43a99a2a266e1b5ad4a0d76f7f0ee1a8f6a8"
+              },
+              {
+                "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+                "role": "primary broad matte oil brushwork only, remove photographic face drift",
+                "inspected": true,
+                "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+              }
+            ],
+            "preflight": [
+              "Actual returned pixels reviewed; repair only observed rendering/lighting and explicit gray-eye mismatch where relevant.",
+              "Same source moment/identity/equipment preserved; original candidate is immutable, source oil inspected, no added scene."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a28ca548-69fe-4257-9d0b-bf8c06adff32.png",
+            "outputSha256": "71556365224c69e9fc742b2695971f153eaa94148e61c5e6f47cee8cca3fceb7",
+            "finishedAt": "2026-09-24T04:41:18.502119+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: recognizable supplied-original/cover face, dark messy knot and black scale gown; matte GRAY irises now visible and face rendered in broad connected oil strokes rather than photographic skin detail.",
+              "Complete front/rear figures with high collar, below-ear cords, intact rear collar loop and short cut lower stubs; copper tally has punched older rows/unpunched recent rows, no unsupported white bridal state.",
+              "Smoke-dim cool slate face planes and faint copper/garment heat accents, blank ivory beneath hem/boots, no terrain, other figures or palette strips."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a28ca548-69fe-4257-9d0b-bf8c06adff32.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "ab31cb0dd1c806d0082474d0432ea4ab24c7686f04035e16c5c59689538f8606",
+        "outputSha256": "71556365224c69e9fc742b2695971f153eaa94148e61c5e6f47cee8cca3fceb7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b9b614bd-89de-4a5e-9409-04a26168a925.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "1117555d63099af0b9eb8699a81f43a99a2a266e1b5ad4a0d76f7f0ee1a8f6a8"
+          },
+          {
+            "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+            "role": "primary broad matte oil brushwork only, remove photographic face drift",
+            "inspected": true,
+            "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: recognizable supplied-original/cover face, dark messy knot and black scale gown; matte GRAY irises now visible and face rendered in broad connected oil strokes rather than photographic skin detail.",
+          "Complete front/rear figures with high collar, below-ear cords, intact rear collar loop and short cut lower stubs; copper tally has punched older rows/unpunched recent rows, no unsupported white bridal state.",
+          "Smoke-dim cool slate face planes and faint copper/garment heat accents, blank ivory beneath hem/boots, no terrain, other figures or palette strips."
+        ],
+        "specificationSha256": "0ea2a2dfaa232e8e4a53905e19e457037d2b219ccf0027dde36606989b662a68"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "71556365224c69e9fc742b2695971f153eaa94148e61c5e6f47cee8cca3fceb7"
+    },
+    {
+      "id": "ylva",
+      "name": "Ylva",
+      "role": "younger sister who rescues Marzena and confronts treaty complicity",
+      "form": "24-year-old human woman",
+      "selectionEvidence": [
+        {
+          "quote": "At twenty-four, Ylva had outgrown the fear",
+          "explanation": "Exact current age."
+        },
+        {
+          "quote": "a coil of lake rope, an ice hook, a wool cloak, and the short iron knife",
+          "explanation": "Specific rescue kit, not magical gear."
+        }
+      ],
+      "storyAppearance": {
+        "age": "Exactly24.",
+        "clothing": "Coat and boots; wool cloak taken to rescue sister, not placed on hot gown.",
+        "equipment": "Lake rope tied around waist, short iron harness knife, ice hook; copper tally later carried inside coat.",
+        "family": "Marzena's younger sister, Tirza's daughter."
+      },
+      "visualInterpretation": [
+        "Art-only related olive complexion/gray eyes but rounder face, softer wider nose and thicker brows; dark brown hair in practical long braid.",
+        "Blue-gray wool coat, dark trousers, sturdy winter boots, rope around waist; cloak folded as separate personal item."
+      ],
+      "states": [
+        {
+          "name": "On the rescue",
+          "description": "Before final loop cut; ordinary hands and practical rope/knife, not glass bridal costume."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-bride-who-came-back:ylva",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-bride-who-came-back/art/characters/ylva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only, preserve exact Ylva adult24 identity/round face/gray eyes/braid, front/rear body poses, blue-gray wool coat/rope/boots, harness knife and folded cloak/ice hook, all text and blank ivory. Correct LIGHT only with small paint simplification: source smoke darkens winter afternoon. Put 65 percent of skin/coat into connected COOL SLATE/blue-violet low-mid shadows, particularly far eye socket/jaw and coat fronts; limited dim pale cold reflected planes plus a SMALL subdued copper cheek edge only. No warm full face sunlight, golden rim or glowing pink cheeks. Maintain bold matte oil bristle handling and mature young adult proportions, not photo/anime. Do not add smoke/scenery or ground patches, no changed props.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d15d8285-196f-472a-a019-37a6da0db7f8.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "d646e495aef7dc86a5d4312118c33eb45242981ff87db8d63be079cb3188fa17"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:27:20.570672+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Ylva\"; title \"The Bride Who Came Back\". ONE adult human WOMAN exactly TWENTY-FOUR, medium light OLIVE skin, rounder face, broad soft straight nose, thick expressive eyebrows, ordinary gray eyes, dark BROWN hair in one practical long BRAID. Family resemblance only to source sister/mother, distinct round young adult face. Resolute concerned look, no teenage/child casting. BLUE-GRAY thick wool COAT to knees over charcoal trousers, sturdy brown WINTER BOOTS, no royal tiara/crown. A practical lake ROPE secured round waist with short tidy tail, no rope running into scenery. Two complete front/rear body views, front holds small short plain IRON HARNESS KNIFE pointed safely down with ordinary hand, rear same braid/coat/rope. Large matching face labelled \"Six steps, then drag\". Small isolated folded dull gray WOOL CLOAK beside ICE HOOK, label \"Rescue kit\". No glass fire gown or burns, no magical powers, no other sister/mother depicted.\nImage1 PRIMARY broad Group of Seven oils and SMOKE-DIM winter afternoon: cool slate/navy shadow masses with restrained dim cold reflected light and small copper warmth on one side, no gold-sun glamour. Broad matte face brushwork, visible directional bristles as strong as coat, not anime or photo. Quiet ivory page, no lake/ice/floor patch or rope scenery, no swatches.",
+            "references": [
+              {
+                "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+                "role": "primary matte broad oil brushwork and smoke-dim winter afternoon values, no scene",
+                "inspected": true,
+                "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+              }
+            ],
+            "preflight": [
+              "Full finished source/prompt read, all originals and chosen source art visually inspected, no exact universe/name memory match.",
+              "Selected rescue state is coherent: source ages, gray eyes, left old ankle, cut trailing cords/intact collar or removed mantle as applicable.",
+              "Source overrides original's gown back/eye ambiguity; primary oil reference dominates rendering, complete body/face/details fit without terrain."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d15d8285-196f-472a-a019-37a6da0db7f8.png",
+            "outputSha256": "d646e495aef7dc86a5d4312118c33eb45242981ff87db8d63be079cb3188fa17",
+            "finishedAt": "2026-09-24T04:34:47.942618+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Distinct 24-year-old adult face/braid, waist rope, blue-gray coat/boots, downheld harness knife and rescue kit pass.",
+              "Portrait reads broadly bright warm daytime rather than smoke-darkened winter. Deepen connected cool shadow on faces and body while preserving identity/style; no change to source kit."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:34:49.946426+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 only, preserve exact Ylva adult24 identity/round face/gray eyes/braid, front/rear body poses, blue-gray wool coat/rope/boots, harness knife and folded cloak/ice hook, all text and blank ivory. Correct LIGHT only with small paint simplification: source smoke darkens winter afternoon. Put 65 percent of skin/coat into connected COOL SLATE/blue-violet low-mid shadows, particularly far eye socket/jaw and coat fronts; limited dim pale cold reflected planes plus a SMALL subdued copper cheek edge only. No warm full face sunlight, golden rim or glowing pink cheeks. Maintain bold matte oil bristle handling and mature young adult proportions, not photo/anime. Do not add smoke/scenery or ground patches, no changed props.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d15d8285-196f-472a-a019-37a6da0db7f8.png",
+                "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+                "inspected": true,
+                "sha256": "d646e495aef7dc86a5d4312118c33eb45242981ff87db8d63be079cb3188fa17"
+              }
+            ],
+            "preflight": [
+              "Actual returned pixels reviewed; repair only observed rendering/lighting and explicit gray-eye mismatch where relevant.",
+              "Same source moment/identity/equipment preserved; original candidate is immutable, source oil inspected, no added scene."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb0a7c73-4621-47ba-a325-f7af6c7356a4.png",
+            "outputSha256": "8110f7628f28345a380559d13fe37af02031dc3cd97df82b550857cd5e15c74a",
+            "finishedAt": "2026-09-24T04:41:18.519143+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: coherent 24-year-old adult rounder face/braid, distinct from sister and mother; waist rope, blue-gray wool coat, boots and downheld harness knife plus isolated cloak/ice hook.",
+              "Low cool smoke-darkened values now dominate face/coat with restrained cheek warmth, broad matte skin/clothing paint; no glamour lighting or active magic.",
+              "Complete body views and readable heading/title, all personal gear only, ivory no locations/ground/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb0a7c73-4621-47ba-a325-f7af6c7356a4.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "ab31cb0dd1c806d0082474d0432ea4ab24c7686f04035e16c5c59689538f8606",
+        "outputSha256": "8110f7628f28345a380559d13fe37af02031dc3cd97df82b550857cd5e15c74a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d15d8285-196f-472a-a019-37a6da0db7f8.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "d646e495aef7dc86a5d4312118c33eb45242981ff87db8d63be079cb3188fa17"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: coherent 24-year-old adult rounder face/braid, distinct from sister and mother; waist rope, blue-gray wool coat, boots and downheld harness knife plus isolated cloak/ice hook.",
+          "Low cool smoke-darkened values now dominate face/coat with restrained cheek warmth, broad matte skin/clothing paint; no glamour lighting or active magic.",
+          "Complete body views and readable heading/title, all personal gear only, ivory no locations/ground/swatches."
+        ],
+        "specificationSha256": "94f54d7508990b8c4dc79613f07050c7daacf50a662b00ab2a8c5765dc5c1a0f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "8110f7628f28345a380559d13fe37af02031dc3cd97df82b550857cd5e15c74a"
+    },
+    {
+      "id": "queen-tirza",
+      "name": "Queen Tirza",
+      "role": "mother and ruler who confronts her complicity and opens the gate",
+      "form": "mature adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She had left her white mantle behind",
+          "explanation": "Chosen causeway state must omit mantle."
+        },
+        {
+          "quote": "Her boots were thin court leather",
+          "explanation": "Unsuited ordinary court shoes distinguish rescue state."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Mother of adult daughters; older appearance at close quarters.",
+        "clothing": "Gown with meltwater darkening both knees, white mantle removed; thin court leather boots.",
+        "equipment": "Second rope she tied herself around waist.",
+        "state": "On causeway after falling, before collar severance."
+      },
+      "visualInterpretation": [
+        "Art-only mature latefifties face with olive complexion, longer narrow jaw and dark gray hair in formal coiled bun, family gray eyes.",
+        "Ivory/silver winter court gown and dark gloves, simple silver hairpin without invented crown, waist rope and water-darkened knees."
+      ],
+      "states": [
+        {
+          "name": "Onto the causeway",
+          "description": "Mantle removed, rope fastened, wet knees/thin boots, before final rescue."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-bride-who-came-back:queen-tirza",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-bride-who-came-back/art/characters/queen-tirza.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only; preserve exact mature Queen Tirza identity, gray-eyed long lined face and silver-dark coiled hair, all complete body shapes, white gown with wet KNEES, gloves, waist rope, ordinary thin boots and no mantle. LIGHT correction: smoke-darkened winter afternoon, put 65 percent of face/gown into connected COOL slate-blue/lilac shadows, white cloth mostly muted cool gray, small pale reflected planes and one small subdued copper cheek edge. NO bright golden daylight or uniformly glowing ivory dress. Keep broad matte Group of Seven bristle oil in all skin/clothing, not photo/glamour. Text cleanup: retain exact heading Queen Tirza and title The Bride Who Came Back, Front View, Rear View, Where may I hold you?, but under personal details keep ONLY 'Waist rope' and 'Thin court boot', remove all extra text sentences. Remove ground/floor strokes under hem/boots, replace blank warm ivory touching complete silhouettes. Preserve all other source details.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-51a8ff6e-bc99-43c5-aa6c-34ef8509eb95.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "b204ae9a0468815946e0f50ed9a939186bf1d4c3b6bf3be84e4e0e86c817ad20"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:27:20.573704+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Queen Tirza\"; title \"The Bride Who Came Back\". ONE mature adult human woman, mother of adult daughters, olive-pale skin, long narrow angular face, gray ordinary eyes, dark hair streaked heavily SILVER arranged in formal coiled low BUN. Fine lined mouth, proud posture softened by uncertainty, latefifties visual casting. NO crown/halo/staff; tiny plain silver hairpin only. IVORY-SILVER long winter court GOWN with modest high neckline and fitted full sleeves, both KNEES darkened with wet gray patches, thin dark brown COURT LEATHER BOOTS fully visible. Plain dark gloves. Roped WAIST with simple knot and short tail. Crucial selected state \"Onto the causeway\": WHITE MANTLE HAS BEEN REMOVED; do NOT show cloak/cape/fur mantle. Two full front/rear same-state views, empty hands, large sameface labelled \"Where may I hold you?\". Personal isolated thin leather court boot and simple waist-rope knot detail, concise labels. No sister/daughter, no glass fire dress, magical powers or sword.\nImage1 primary broad Group of Seven oils, smoke-darkened winter afternoon. Keep gown/facial values mostly COOL gray-blue/lilac shadow with limited dim pale reflected planes; small copper fire-side warmth on one cheek, no sunny white/golden glamour. Bold mature face paint same broad matte directional strokes as gown, not smooth/photo/anime. Quiet ivory character-only paper, no ice/ground patch or building, no swatches.",
+            "references": [
+              {
+                "path": "stories/the-bride-who-came-back/art/landscapes/03-smoke-over-the-sun.png",
+                "role": "primary matte broad oil brushwork and smoke-dim winter afternoon values, no scene",
+                "inspected": true,
+                "sha256": "33c0b32ae8ee141eff457be66795eea705151a90632fac5050959cf56c219832"
+              }
+            ],
+            "preflight": [
+              "Full finished source/prompt read, all originals and chosen source art visually inspected, no exact universe/name memory match.",
+              "Selected rescue state is coherent: source ages, gray eyes, left old ankle, cut trailing cords/intact collar or removed mantle as applicable.",
+              "Source overrides original's gown back/eye ambiguity; primary oil reference dominates rendering, complete body/face/details fit without terrain."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-51a8ff6e-bc99-43c5-aa6c-34ef8509eb95.png",
+            "outputSha256": "b204ae9a0468815946e0f50ed9a939186bf1d4c3b6bf3be84e4e0e86c817ad20",
+            "finishedAt": "2026-09-24T04:34:51.030029+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Distinct older mother face/bun, mantle absent, waist rope, darkened knees and thin court boots pass.",
+              "White gown and face much too daylit for smoke-darkened source; deepen cool connected shadow. Remove extraneous invented explanatory text under rope/boot to clean concise labels; clear faint hem ground."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:34:53.061036+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 only; preserve exact mature Queen Tirza identity, gray-eyed long lined face and silver-dark coiled hair, all complete body shapes, white gown with wet KNEES, gloves, waist rope, ordinary thin boots and no mantle. LIGHT correction: smoke-darkened winter afternoon, put 65 percent of face/gown into connected COOL slate-blue/lilac shadows, white cloth mostly muted cool gray, small pale reflected planes and one small subdued copper cheek edge. NO bright golden daylight or uniformly glowing ivory dress. Keep broad matte Group of Seven bristle oil in all skin/clothing, not photo/glamour. Text cleanup: retain exact heading Queen Tirza and title The Bride Who Came Back, Front View, Rear View, Where may I hold you?, but under personal details keep ONLY 'Waist rope' and 'Thin court boot', remove all extra text sentences. Remove ground/floor strokes under hem/boots, replace blank warm ivory touching complete silhouettes. Preserve all other source details.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-51a8ff6e-bc99-43c5-aa6c-34ef8509eb95.png",
+                "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+                "inspected": true,
+                "sha256": "b204ae9a0468815946e0f50ed9a939186bf1d4c3b6bf3be84e4e0e86c817ad20"
+              }
+            ],
+            "preflight": [
+              "Actual returned pixels reviewed; repair only observed rendering/lighting and explicit gray-eye mismatch where relevant.",
+              "Same source moment/identity/equipment preserved; original candidate is immutable, source oil inspected, no added scene."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c57d8b02-644c-4d72-b9cb-f4b92e4bdb8a.png",
+            "outputSha256": "f76d4a50bc13026a90e7a73c04a41832867a9af03ee1f40e56b66fb02cf38803",
+            "finishedAt": "2026-09-24T04:41:18.551707+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: mature longer lined face and silver-dark coiled bun, distinct mother identity; mantle absent, waist rope, gloves, wet knees and thin leather court boots match chosen causeway state.",
+              "Cool connected face shadows and muted silver-gray gown with restrained copper cheek, broad matte bristle paint on face/clothing; concise corrected personal-detail labels.",
+              "Complete unclipped front/rear, no second character, no floor/ice vignette or swatches, exact name/title."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c57d8b02-644c-4d72-b9cb-f4b92e4bdb8a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "ab31cb0dd1c806d0082474d0432ea4ab24c7686f04035e16c5c59689538f8606",
+        "outputSha256": "f76d4a50bc13026a90e7a73c04a41832867a9af03ee1f40e56b66fb02cf38803",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-51a8ff6e-bc99-43c5-aa6c-34ef8509eb95.png",
+            "role": "inspected immutable candidate, preserve identity/content except recorded repairs",
+            "inspected": true,
+            "sha256": "b204ae9a0468815946e0f50ed9a939186bf1d4c3b6bf3be84e4e0e86c817ad20"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: mature longer lined face and silver-dark coiled bun, distinct mother identity; mantle absent, waist rope, gloves, wet knees and thin leather court boots match chosen causeway state.",
+          "Cool connected face shadows and muted silver-gray gown with restrained copper cheek, broad matte bristle paint on face/clothing; concise corrected personal-detail labels.",
+          "Complete unclipped front/rear, no second character, no floor/ice vignette or swatches, exact name/title."
+        ],
+        "specificationSha256": "d1cc1da948d5d7be382da5575e8c16ecf2b46f036e1f95f7d4e5617d14f7f66c"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f76d4a50bc13026a90e7a73c04a41832867a9af03ee1f40e56b66fb02cf38803"
+    }
+  ],
+  "externalReferences": [
+    {
+      "displayName": "codex-clipboard-666b7f0b-de2e-4047-9304-3ab3eec01d09.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-666b7f0b-de2e-4047-9304-3ab3eec01d09.png",
+      "sha256": "1171354ada2efbf8dc8dda6bae1719fc016b754aabad89a4e84030043cfbf067",
+      "inspected": true,
+      "recovery": "Exact embedded input_image PNG bytes from original user message at zero-based line8 in C:/Users/jamie/.codex/archived_sessions/rollout-2026-08-27T20-29-20-01a045c5-679b-7b11-a854-8e5872f4d28d.jsonl; external source preserved, no package copy."
+    }
+  ],
+  "sourceSha256": "ab31cb0dd1c806d0082474d0432ea4ab24c7686f04035e16c5c59689538f8606"
+}

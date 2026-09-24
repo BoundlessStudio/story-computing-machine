@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-lights-beyond",
+  "title": "The Lights Beyond",
+  "source": "stories/the-lights-beyond/story.md",
+  "sourceSha256": "96eb9e40f296000fbebac4d9f7ec775bb8766e4ad1852b6641817f6b870382c6",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full source read through siblings' joint report. Haskett focal scout changes the savings/flight decision, Dunley her brother chooses exploration, Pirvek pilot enables bounded first contact and flight. Three central named agents.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Captain",
+      "reason": "Brief institutional opening/closing frame, not sustained participant in discovery."
+    },
+    {
+      "name": "City residents, shopkeeper, dog, couple and aircraft passengers",
+      "reason": "Passing observation/first-contact texture, no sustained distinct main role."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy consulted; no matching identities or location/history linkage found. Source canon:false establishes local depiction, not shared facts.",
+    "Pirvek is a tusked civilian man; no unsupported species label or wartime aggression. Aircraft/city technology is ordinary technical agency, not magic.",
+    "No originals supplied. Cover shows dark-haired scout silhouettes and packs/bows; faces/ages/skin unspecified. Harbor night light controls sheet values; sunny wall painting inspected but not used for light."
+  ],
+  "referenceInputs": [
+    {
+      "path": "stories/the-lights-beyond/title-image.jpg",
+      "role": "Inspected cover scout hair/pack/bow silhouettes and night palette",
+      "notes": "Faces obscured, likeness is art interpretation; aircraft not a character.",
+      "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+      "role": "Inspected primary broad oil and dark navy/amber harbor cabin lighting",
+      "notes": "No cabin/location transferred.",
+      "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+      "role": "Inspected harbor slate/navy and restrained warm-light oil masses",
+      "notes": "Depicted sunset not imposed on source night.",
+      "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-lights-beyond/art/landscapes/01-great-wall-northern-pass.png",
+      "role": "Inspected companion mountain/wall oil handling",
+      "notes": "Daylight art not selected for night character illumination.",
+      "sha256": "2bc30e84d316475f19d67edd88c490270676ff5c4d5feea4ef44e6ce99f8176c",
+      "inspected": true
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "haskett",
+      "name": "Haskett",
+      "sourceIdentityId": "haskett",
+      "role": "Human scout, sister and focal decision maker",
+      "selectionEvidence": [
+        {
+          "quote": "Haskett and her brother",
+          "line": 13,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "twine binding the toe of her left one",
+          "line": 23,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "she let it lie",
+          "line": 83,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "she opened their strongbox and divided the savings",
+          "line": 257,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult woman, Dunley's sister.",
+        "lifeStage": "Adult scout with eleven years' joint experience.",
+        "proportions": "Ordinary adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Practical cloth, leather and ordinary carried tools.",
+        "clothing": "Travel clothes, boots including twine-bound LEFT toe, shirt, scout pack.",
+        "equipment": "Bow strapped to pack, sheathed knife on removable belt, map, few silver crowns; cupboard key temporarily under shirt.",
+        "scale": "Adult person scale.",
+        "movement": "Ordinary living agency, no magical powers.",
+        "distinctiveFeatures": "Source left boot twine important; no invented ornament/rank."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art woman34, medium olive skin, long angular face, narrow straight nose, deep-set brown eyes, long straight black hair in low practical tie, wiry athletic build.",
+        "Dull charcoal-green hooded wool travel coat, faded grey shirt, umber trousers, worn brown left boot toe wrapped in twine; compact khaki pack, plain bow unstrung/slung safely and sheathed knife. Night lowlight blue-violet with sparse harbor amber."
+      ],
+      "states": [
+        {
+          "label": "At the gate",
+          "description": "Alert guarded expression."
+        },
+        {
+          "label": "After the flight",
+          "description": "Astonished teary smile, same identity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-lights-beyond:haskett",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-lights-beyond/title-image.jpg",
+          "role": "Inspected cover scout hair/pack/bow silhouettes and night palette",
+          "notes": "Faces obscured, likeness is art interpretation; aircraft not a character.",
+          "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+          "role": "Inspected primary broad oil and dark navy/amber harbor cabin lighting",
+          "notes": "No cabin/location transferred.",
+          "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+          "role": "Inspected harbor slate/navy and restrained warm-light oil masses",
+          "notes": "Depicted sunset not imposed on source night.",
+          "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/01-great-wall-northern-pass.png",
+          "role": "Inspected companion mountain/wall oil handling",
+          "notes": "Daylight art not selected for night character illumination.",
+          "sha256": "2bc30e84d316475f19d67edd88c490270676ff5c4d5feea4ef44e6ce99f8176c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-lights-beyond/art/characters/haskett.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:44:48.119545+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY reference sheet painted in SCULPTED OPAQUE OIL on uniform LIGHT WARM IVORY. Exact heading \"Haskett\"; subtitle \"The Lights Beyond\". ONE identity: adult HUMAN WOMAN scout, not elf, pilot or knight.\nWoman34 interpretation, medium OLIVE skin, LONG ANGULAR face, narrow straight nose, deep-set dark brown eyes, long straight BLACK hair in low practical tie, wiry athletic adult build. Mature observant expression, ordinary practical person. Wears dull CHARCOAL-GREEN hooded wool travel coat (hood down), faded grey shirt, umber trousers, worn brown work boots. Her LEFT BOOT TOE is bound with beige TWINE (front viewer-right, rear viewer-left); other boot unwrapped. Compact khaki travel pack with plain wooden BOW strapped outside; safely sheathed short knife on removable plain belt. No metal armor, glam makeup, magical motif or modern device.\nLEFT front-threequarter whole standing figure, CENTER slightly smaller whole rear-threequarter with pack/bow visible, RIGHT two separated chest-up expressions: \"At the gate\" guarded attentiveness; \"After the flight\" quiet astonished smile with trace of tears. Same woman all views, full head/boots comfortably within margins. Natural hands part of body only. No isolated hands/anatomy studies or separate equipment insets.\nFirst reference story cabin and second harbor oil are PRIMARY rendering references: Canadian Group of Seven, broad CONNECTED paint masses, long decisive opaque bristle planes and selective knife impasto, quieter joined shadow masses. Skin is visibly PAINTED in broad cheek/jaw/forehead masses, not smooth photorealistic face, not small uniform mosaic chips. Third cover supplies only scout dark hair/pack/bow silhouette; faces and clothes controlled by this description, no scene transfer.\nLIGHT is NIGHT HARBOR: most skin and clothing DEEP NAVY/BLUE-VIOLET/UMBER shadow, sparse dull amber edge/reflected light on cheeks and cloth. Dark readable low-key forms, NOT bright daytime, sunset or studio lighting. Ivory PAGE itself remains LIGHT. No environment, scenery, floor, contact-paint patches, ground shadow, swatches, palette strip, borders, second person or aircraft. Exact heading/story/two captions only.",
+            "references": [
+              {
+                "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+                "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+                "inspected": true,
+                "role": "Inspected primary broad oil and navy/amber night lighting only, no cabin"
+              },
+              {
+                "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+                "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+                "inspected": true,
+                "role": "Inspected connected oil masses and harbor palette, no sunset/daylight transfer"
+              },
+              {
+                "path": "stories/the-lights-beyond/title-image.jpg",
+                "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+                "inspected": true,
+                "role": "Inspected scouts dark hair/pack/bow silhouette only, no environment/plane"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-20e8a57f-9ea2-4261-979e-00c912bc2004.png",
+            "returnedSha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac",
+            "completedAt": "2026-09-24T12:47:35.812564+00:00",
+            "review": [
+              "Saved pixels inspected: adult black-haired olive-skinned scout consistently shown with practical pack, wooden bow, safely sheathed knife and twine around left boot toe.",
+              "Guarded and post-flight wonder states clear, source features intact, no identity borrowed from unrelated sheet.",
+              "Broad connected navy/amber facial and clothing paint preserves harbor night, clean ivory character-only layout, full silhouettes, readable heading, no ground/swatches/isolated hand study."
+            ]
+          }
+        ],
+        "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY reference sheet painted in SCULPTED OPAQUE OIL on uniform LIGHT WARM IVORY. Exact heading \"Haskett\"; subtitle \"The Lights Beyond\". ONE identity: adult HUMAN WOMAN scout, not elf, pilot or knight.\nWoman34 interpretation, medium OLIVE skin, LONG ANGULAR face, narrow straight nose, deep-set dark brown eyes, long straight BLACK hair in low practical tie, wiry athletic adult build. Mature observant expression, ordinary practical person. Wears dull CHARCOAL-GREEN hooded wool travel coat (hood down), faded grey shirt, umber trousers, worn brown work boots. Her LEFT BOOT TOE is bound with beige TWINE (front viewer-right, rear viewer-left); other boot unwrapped. Compact khaki travel pack with plain wooden BOW strapped outside; safely sheathed short knife on removable plain belt. No metal armor, glam makeup, magical motif or modern device.\nLEFT front-threequarter whole standing figure, CENTER slightly smaller whole rear-threequarter with pack/bow visible, RIGHT two separated chest-up expressions: \"At the gate\" guarded attentiveness; \"After the flight\" quiet astonished smile with trace of tears. Same woman all views, full head/boots comfortably within margins. Natural hands part of body only. No isolated hands/anatomy studies or separate equipment insets.\nFirst reference story cabin and second harbor oil are PRIMARY rendering references: Canadian Group of Seven, broad CONNECTED paint masses, long decisive opaque bristle planes and selective knife impasto, quieter joined shadow masses. Skin is visibly PAINTED in broad cheek/jaw/forehead masses, not smooth photorealistic face, not small uniform mosaic chips. Third cover supplies only scout dark hair/pack/bow silhouette; faces and clothes controlled by this description, no scene transfer.\nLIGHT is NIGHT HARBOR: most skin and clothing DEEP NAVY/BLUE-VIOLET/UMBER shadow, sparse dull amber edge/reflected light on cheeks and cloth. Dark readable low-key forms, NOT bright daytime, sunset or studio lighting. Ivory PAGE itself remains LIGHT. No environment, scenery, floor, contact-paint patches, ground shadow, swatches, palette strip, borders, second person or aircraft. Exact heading/story/two captions only.",
+        "references": [
+          {
+            "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+            "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+            "inspected": true,
+            "role": "Inspected primary broad oil and navy/amber night lighting only, no cabin"
+          },
+          {
+            "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+            "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+            "inspected": true,
+            "role": "Inspected connected oil masses and harbor palette, no sunset/daylight transfer"
+          },
+          {
+            "path": "stories/the-lights-beyond/title-image.jpg",
+            "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+            "inspected": true,
+            "role": "Inspected scouts dark hair/pack/bow silhouette only, no environment/plane"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:47:35.812564+00:00",
+        "sourceSha256": "96eb9e40f296000fbebac4d9f7ec775bb8766e4ad1852b6641817f6b870382c6",
+        "outputSha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac",
+        "references": [
+          {
+            "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+            "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+            "inspected": true,
+            "role": "Inspected primary broad oil and navy/amber night lighting only, no cabin"
+          },
+          {
+            "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+            "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+            "inspected": true,
+            "role": "Inspected connected oil masses and harbor palette, no sunset/daylight transfer"
+          },
+          {
+            "path": "stories/the-lights-beyond/title-image.jpg",
+            "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+            "inspected": true,
+            "role": "Inspected scouts dark hair/pack/bow silhouette only, no environment/plane"
+          }
+        ],
+        "evidence": [
+          "Saved pixels inspected: adult black-haired olive-skinned scout consistently shown with practical pack, wooden bow, safely sheathed knife and twine around left boot toe.",
+          "Guarded and post-flight wonder states clear, source features intact, no identity borrowed from unrelated sheet.",
+          "Broad connected navy/amber facial and clothing paint preserves harbor night, clean ivory character-only layout, full silhouettes, readable heading, no ground/swatches/isolated hand study."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "5971a630294606ef7970b180579ee9e077ac1b452d466112972bf93b4bd24025"
+      },
+      "outputSha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac"
+    },
+    {
+      "id": "dunley",
+      "name": "Dunley",
+      "sourceIdentityId": "dunley",
+      "role": "Human scout and Haskett's brother, newly committed to exploration",
+      "selectionEvidence": [
+        {
+          "quote": "He reached across and tightened hers.",
+          "line": 27,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "They had been scouting together for eleven years",
+          "line": 29,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Dunley put the map away so quickly he tore it on a buckle.",
+          "line": 69,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "I can't spend my three hundred yet.",
+          "line": 193,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult man, Haskett's brother.",
+        "lifeStage": "Adult scout with eleven years' experience.",
+        "proportions": "Ordinary adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Practical cloth, leather and ordinary carried tools.",
+        "clothing": "Ordinary scouting travel clothes, pack, boots, belt.",
+        "equipment": "Bow and sheathed knife, paper map torn on buckle, pack.",
+        "scale": "Adult person scale.",
+        "movement": "Ordinary living agency, no magical powers.",
+        "distinctiveFeatures": "Curiosity and sibling familiarity; not young child or pilot."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art man32, medium olive skin, shared narrow straight nose/deep-set brown eyes with Haskett, short wavy black hair, thick eyebrows, faint stubble, lean longer-limbed build.",
+        "Muted grey hooded travel coat with dark olive tunic, umber trousers, plain intact brown boots, khaki pack, bow and sheathed knife; folded old paper map small edge tear."
+      ],
+      "states": [
+        {
+          "label": "The Captain's Boots",
+          "description": "Easy wry expression."
+        },
+        {
+          "label": "A farther road",
+          "description": "Quiet wonder and resolve."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-lights-beyond:dunley",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-lights-beyond/title-image.jpg",
+          "role": "Inspected cover scout hair/pack/bow silhouettes and night palette",
+          "notes": "Faces obscured, likeness is art interpretation; aircraft not a character.",
+          "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+          "role": "Inspected primary broad oil and dark navy/amber harbor cabin lighting",
+          "notes": "No cabin/location transferred.",
+          "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+          "role": "Inspected harbor slate/navy and restrained warm-light oil masses",
+          "notes": "Depicted sunset not imposed on source night.",
+          "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/01-great-wall-northern-pass.png",
+          "role": "Inspected companion mountain/wall oil handling",
+          "notes": "Daylight art not selected for night character illumination.",
+          "sha256": "2bc30e84d316475f19d67edd88c490270676ff5c4d5feea4ef44e6ce99f8176c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-lights-beyond/art/characters/dunley.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:47:36.835080+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY SCULPTED OIL sheet on uniform LIGHT WARM IVORY. Exact heading \"Dunley\"; subtitle \"The Lights Beyond\". ONE identity: HUMAN ADULT MAN32, Haskett's younger brother and fellow scout of11years.\nUse first Haskett sheet only as FAMILY/paint reference: medium OLIVE skin, narrow straight nose, deep-set dark brown eyes and dark hair shared. Dunley is visibly a MAN with more angular jaw, short WAVY BLACK HAIR above collar (NO pony/braid/bun), heavy eyebrows, faint dark stubble, lean longer-limbed adult build. His own open curious face and easy humor. No feminine duplication.\nMuted GREY hooded travel coat (hood down), dark OLIVE plain tunic, umber trousers and intact worn brown boots. NO twine/bandage on either boot (that belongs only to sister). Khaki scout pack with plain wooden bow strapped outside, short sheathed knife in plain belt. Holds a folded old PAPER MAP with a small tear at one edge, no readable modern text. Mundane scout tools, no magic/device/armor.\nLEFT full front-threequarter figure, CENTER smaller full rear-threequarter, RIGHT two spaced chest-up expressions caption \"The Captain's Boots\" with wry smile, and \"A farther road\" quiet wonder/resolve. SAME man in every view, head/boots entirely within generous margins. Natural relaxed hands holding map are part of figure only; no isolated hand/anatomy studies.\nMatch accepted Haskett rendering and story cabin oil: broad CONNECTED opaque anatomical masses, long decisive bristle/knife planes and quieter deep joined shadows; face painted with the same decisive brushwork as coat. Avoid smooth photographic skin, tiny uniform mosaic marks and glossy eyes. DARK NIGHT HARBOR lighting, mostly muted NAVY/BLUE-VIOLET/UMBER skin/clothes, sparse dull amber reflected planes/rims. No bright day or studio fill. Page stays LIGHT IVORY, not darkened.\nNo environment/floor/ground/contact paint patches, scenery, plane, swatches, palette strip, other identities or object insets. Only name/story/two captions.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-20e8a57f-9ea2-4261-979e-00c912bc2004.png",
+                "sha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac",
+                "inspected": true,
+                "role": "Inspected accepted sister Haskett family resemblance, oil and harbor lowlight; distinct male hair/body and no left boot twine"
+              },
+              {
+                "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+                "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+                "inspected": true,
+                "role": "Inspected broad navy/amber night oils only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-03286fb2-d981-4c65-b2ab-979fdf350ba7.png",
+            "returnedSha256": "7684b26e6c994665e37c68abdc2a95b47edf14fb51c8c702fa29f61a44c5678e",
+            "completedAt": "2026-09-24T12:50:35.042621+00:00",
+            "review": [
+              "Saved pixels reviewed: consistent adult male scout with short wavy black hair/stubble, family resemblance to Haskett and distinct curious/wry expression.",
+              "Map with torn paper edges, pack/bow/sheath and intact boots fit source/art brief; no copied sister-only twine.",
+              "Navy/amber night oil remains cohesive across face and coat; exact headings/captions, clear whole figures and ivory, no floor/scenery/swatches/isolated hands."
+            ]
+          }
+        ],
+        "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY SCULPTED OIL sheet on uniform LIGHT WARM IVORY. Exact heading \"Dunley\"; subtitle \"The Lights Beyond\". ONE identity: HUMAN ADULT MAN32, Haskett's younger brother and fellow scout of11years.\nUse first Haskett sheet only as FAMILY/paint reference: medium OLIVE skin, narrow straight nose, deep-set dark brown eyes and dark hair shared. Dunley is visibly a MAN with more angular jaw, short WAVY BLACK HAIR above collar (NO pony/braid/bun), heavy eyebrows, faint dark stubble, lean longer-limbed adult build. His own open curious face and easy humor. No feminine duplication.\nMuted GREY hooded travel coat (hood down), dark OLIVE plain tunic, umber trousers and intact worn brown boots. NO twine/bandage on either boot (that belongs only to sister). Khaki scout pack with plain wooden bow strapped outside, short sheathed knife in plain belt. Holds a folded old PAPER MAP with a small tear at one edge, no readable modern text. Mundane scout tools, no magic/device/armor.\nLEFT full front-threequarter figure, CENTER smaller full rear-threequarter, RIGHT two spaced chest-up expressions caption \"The Captain's Boots\" with wry smile, and \"A farther road\" quiet wonder/resolve. SAME man in every view, head/boots entirely within generous margins. Natural relaxed hands holding map are part of figure only; no isolated hand/anatomy studies.\nMatch accepted Haskett rendering and story cabin oil: broad CONNECTED opaque anatomical masses, long decisive bristle/knife planes and quieter deep joined shadows; face painted with the same decisive brushwork as coat. Avoid smooth photographic skin, tiny uniform mosaic marks and glossy eyes. DARK NIGHT HARBOR lighting, mostly muted NAVY/BLUE-VIOLET/UMBER skin/clothes, sparse dull amber reflected planes/rims. No bright day or studio fill. Page stays LIGHT IVORY, not darkened.\nNo environment/floor/ground/contact paint patches, scenery, plane, swatches, palette strip, other identities or object insets. Only name/story/two captions.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-20e8a57f-9ea2-4261-979e-00c912bc2004.png",
+            "sha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac",
+            "inspected": true,
+            "role": "Inspected accepted sister Haskett family resemblance, oil and harbor lowlight; distinct male hair/body and no left boot twine"
+          },
+          {
+            "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+            "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+            "inspected": true,
+            "role": "Inspected broad navy/amber night oils only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:50:35.042621+00:00",
+        "sourceSha256": "96eb9e40f296000fbebac4d9f7ec775bb8766e4ad1852b6641817f6b870382c6",
+        "outputSha256": "7684b26e6c994665e37c68abdc2a95b47edf14fb51c8c702fa29f61a44c5678e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-20e8a57f-9ea2-4261-979e-00c912bc2004.png",
+            "sha256": "f893d6e0df212215b48e4e92e5442f85a356859daa42d5c160eb7a41bafe94ac",
+            "inspected": true,
+            "role": "Inspected accepted sister Haskett family resemblance, oil and harbor lowlight; distinct male hair/body and no left boot twine"
+          },
+          {
+            "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+            "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+            "inspected": true,
+            "role": "Inspected broad navy/amber night oils only"
+          }
+        ],
+        "evidence": [
+          "Saved pixels reviewed: consistent adult male scout with short wavy black hair/stubble, family resemblance to Haskett and distinct curious/wry expression.",
+          "Map with torn paper edges, pack/bow/sheath and intact boots fit source/art brief; no copied sister-only twine.",
+          "Navy/amber night oil remains cohesive across face and coat; exact headings/captions, clear whole figures and ivory, no floor/scenery/swatches/isolated hands."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "e0c2d4a3ecf11bc51d2d30d85366ca03715c359fbf702b318a464a1102871f71"
+      },
+      "outputSha256": "7684b26e6c994665e37c68abdc2a95b47edf14fb51c8c702fa29f61a44c5678e"
+    },
+    {
+      "id": "pirvek",
+      "name": "Pirvek",
+      "sourceIdentityId": "pirvek",
+      "role": "Tusked civilian flying-boat pilot guiding reciprocal trust",
+      "selectionEvidence": [
+        {
+          "quote": "He wore an oil-marked jacket.",
+          "line": 103,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "A silver cap covered the end of one tusk.",
+          "line": 103,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Pirvek turned, saw her at the window, and grinned around his tusks.",
+          "line": 237,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "He fetched their weapons, careful to offer the knives hilt first.",
+          "line": 251,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Tusked humanoid civilian",
+      "storyAppearance": {
+        "anatomy": "Adult male tusked person, no named species in source; one silver-capped tusk.",
+        "lifeStage": "Working adult pilot, age unspecified.",
+        "proportions": "Ordinary adult proportions.",
+        "markings": "No permanent markings specified.",
+        "materials": "Practical cloth, leather and ordinary carried tools.",
+        "clothing": "Oil-marked jacket; other clothes unspecified.",
+        "equipment": "Cupboard key, practical flying-boat controls used in scene but not detached parts required.",
+        "scale": "Adult person scale.",
+        "movement": "Ordinary living agency, no magical powers.",
+        "distinctiveFeatures": "Two prominent tusks read from grin; silver cap on one tip, side unspecified."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Art man45, muted olive-grey skin, broad face and forward lower jaw, broad flattened nose, brown eyes, short coarse black hair with grey temples, sturdy build; two short upward-curving ivory lower tusks, tip of HIS RIGHT tusk silver-capped (chosen side, viewer-left in frontal view). No monstrous aggression or species label.",
+        "Worn dark navy oil-marked leather pilot jacket over dull cream shirt, blue-grey trousers and dull boots, small plain cupboard key in one hand. No helmet, goggles, weapon or scene."
+      ],
+      "states": [
+        {
+          "label": "First contact",
+          "description": "Guarded attentive expression."
+        },
+        {
+          "label": "After landing",
+          "description": "Open grin around same tusks."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-lights-beyond:pirvek",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-lights-beyond/title-image.jpg",
+          "role": "Inspected cover scout hair/pack/bow silhouettes and night palette",
+          "notes": "Faces obscured, likeness is art interpretation; aircraft not a character.",
+          "sha256": "87195d0b0eb84ae8275138cc2f0687acb911b351b8aa3fa1ffee3bd792d67a90",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+          "role": "Inspected primary broad oil and dark navy/amber harbor cabin lighting",
+          "notes": "No cabin/location transferred.",
+          "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+          "role": "Inspected harbor slate/navy and restrained warm-light oil masses",
+          "notes": "Depicted sunset not imposed on source night.",
+          "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-lights-beyond/art/landscapes/01-great-wall-northern-pass.png",
+          "role": "Inspected companion mountain/wall oil handling",
+          "notes": "Daylight art not selected for night character illumination.",
+          "sha256": "2bc30e84d316475f19d67edd88c490270676ff5c4d5feea4ef44e6ce99f8176c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-lights-beyond/art/characters/pirvek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:50:36.068531+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE1536x1024 landscape CHARACTER-ONLY OIL reference sheet on uniform LIGHT WARM IVORY. Exact large heading \"Pirvek\", subtitle \"The Lights Beyond\". One tusked civilian man identity, a competent modern flying-boat pilot, no invented species label.\nArt interpretation: adult man45, muted OLIVE-GREY skin, BROAD face with forward lower jaw, broad flattened nose, warm brown eyes, short coarse BLACK hair grey at temples, sturdy adult build. TWO short upward-curving IVORY tusks from lower jaw; the TIP of his anatomical RIGHT tusk is SILVER-CAPPED (viewer-left in frontal face), other tusk all ivory. Keep tusks modest enough for ordinary speech/smiling. No pointed elf ears, horns, fangs, monstrous aggression, military armor or tribal decoration.\nSource OIL-MARKED JACKET: worn DARK NAVY leather pilot/work jacket with a few matte oil stains, open at neck over dull cream shirt, practical blue-grey trousers and dull plain brown boots. Small ordinary cupboard KEY held low in one natural hand. Other hand relaxed. No bows, knives, scout pack, flying helmet, goggles, weapons, plane or costume insignia.\nLayout LEFT whole front-threequarter, CENTER smaller whole rear-threequarter, RIGHT two separated chest-up expressions caption \"First contact\" (guarded attentive) and \"After landing\" (open friendly grin around same two tusks/silver cap). One coherent face/body/outfit all views. Exact readable name/story/captions only. Full head/boots within generous margins.\nRendering from attached story cabin and harbor OILS: Group of Seven broad CONNECTED opaque facial/cloth paint masses, long directional bristle planes, selective impasto ridges, quiet joined shadows, no photographic smooth skin, tiny uniform tessellation or glossy eyes. Tusk/metal materials painted in strong simple planes. Lighting NIGHT HARBOR, mostly DEEP NAVY/BLUE-VIOLET/UMBER shadow with sparse dull AMBER reflected planes/rims. No sunny exposure/studio fill. Ivory page itself stays LIGHT.\nNo environments, cabin, furniture, scenery, floor/contact paint patches, cast shadow, swatches, palette strip, isolated hand studies, anatomy exercises, extra identities or object inset.",
+            "references": [
+              {
+                "path": "stories/the-lights-beyond/art/interiors/01-pirveks-flying-boat-cabin.png",
+                "sha256": "25ded6478f77625fb57823763b5c255c208677059c6a44e5bdd96eefe86360ca",
+                "inspected": true,
+                "role": "Inspected primary broad oil, dark navy/amber pilot cabin light and work-material values only"
+              },
+              {
+                "path": "stories/the-lights-beyond/art/landscapes/03-roskell-beyond-the-saddle.png",
+                "sha256": "82cdc460cc846b009743e755d0a114849850ffe1f19b3969868b23d22968bd1a",
+                "inspected": true,
+                "role": "Inspected Group of Seven harbor oil/linked paint masses only, no sunset or scenery"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-acfee80f-2fc2-4ad3-b8ac-5c708e4dcda3.png",
+            "returnedSha256": "40630325863d36687126304fc899a1d9c40710a0a377bca1c50972937264d8f8",
+            "completedAt": "2026-09-24T12:53:13.594361+00:00",
+            "review": [
+              "Face/body, civilian work jacket, key, subdued navy/amber oil, ivory and expressions pass. Silver is drawn as a base ring rather than cap on END of one tusk; correct only this explicit source feature."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T12:53:14.603694+00:00",
+            "status": "PASS",
+            "prompt": "Edit this exact Pirvek sheet with ONE tiny source-detail correction, preserve all else. His RIGHT tusk (the SHORTER tusk, viewer's LEFT in portraits) needs a SILVER CAP ON ITS POINTED END/TIP, not a silver ring around its base. Across main front, visible rear face and BOTH portraits, remove the silver band from root/base, leaving natural ivory at base; paint the outermost pointed THIRD of that SAME shorter tusk as solid dull SILVER METAL tip-cap covering the point. Seam between ivory lower portion and silver upper tip. It is a dental repair protecting the END of this tusk. The other larger tusk stays entirely ivory. Do NOT switch sides, enlarge tusks or add any other silver. Keep whole face, smile, clothing, poses, key, oil style, dark light, layout, exact text and light ivory unchanged. No added imagery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-acfee80f-2fc2-4ad3-b8ac-5c708e4dcda3.png",
+                "sha256": "40630325863d36687126304fc899a1d9c40710a0a377bca1c50972937264d8f8",
+                "inspected": true,
+                "role": "Inspected Pirvek target, move silver from tusk base ring to source-required end cap only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-d405526e-6978-453b-b02e-f90eb8d97a80.png",
+            "returnedSha256": "689edac6722443bde0de565355837540c2b2474da615aac9184310fdde76f9dc",
+            "completedAt": "2026-09-24T12:56:11.144098+00:00",
+            "review": [
+              "Revised saved pixels inspected: silver correctly caps pointed END of one shorter right tusk, both portraits/front retain same feature and other tusk remains ivory.",
+              "Distinct civilian tusked man, broad living face, oil-marked pilot jacket, plain key, guarded and smiling expressions preserve source.",
+              "Broad connected oil face/clothes, muted harbor navy/amber light, exact readable heading and clean ivory with full silhouettes; no environment, ground, swatches or hand study."
+            ]
+          }
+        ],
+        "prompt": "Edit this exact Pirvek sheet with ONE tiny source-detail correction, preserve all else. His RIGHT tusk (the SHORTER tusk, viewer's LEFT in portraits) needs a SILVER CAP ON ITS POINTED END/TIP, not a silver ring around its base. Across main front, visible rear face and BOTH portraits, remove the silver band from root/base, leaving natural ivory at base; paint the outermost pointed THIRD of that SAME shorter tusk as solid dull SILVER METAL tip-cap covering the point. Seam between ivory lower portion and silver upper tip. It is a dental repair protecting the END of this tusk. The other larger tusk stays entirely ivory. Do NOT switch sides, enlarge tusks or add any other silver. Keep whole face, smile, clothing, poses, key, oil style, dark light, layout, exact text and light ivory unchanged. No added imagery.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-acfee80f-2fc2-4ad3-b8ac-5c708e4dcda3.png",
+            "sha256": "40630325863d36687126304fc899a1d9c40710a0a377bca1c50972937264d8f8",
+            "inspected": true,
+            "role": "Inspected Pirvek target, move silver from tusk base ring to source-required end cap only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:56:11.144098+00:00",
+        "sourceSha256": "96eb9e40f296000fbebac4d9f7ec775bb8766e4ad1852b6641817f6b870382c6",
+        "outputSha256": "689edac6722443bde0de565355837540c2b2474da615aac9184310fdde76f9dc",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-acfee80f-2fc2-4ad3-b8ac-5c708e4dcda3.png",
+            "sha256": "40630325863d36687126304fc899a1d9c40710a0a377bca1c50972937264d8f8",
+            "inspected": true,
+            "role": "Inspected Pirvek target, move silver from tusk base ring to source-required end cap only"
+          }
+        ],
+        "evidence": [
+          "Revised saved pixels inspected: silver correctly caps pointed END of one shorter right tusk, both portraits/front retain same feature and other tusk remains ivory.",
+          "Distinct civilian tusked man, broad living face, oil-marked pilot jacket, plain key, guarded and smiling expressions preserve source.",
+          "Broad connected oil face/clothes, muted harbor navy/amber light, exact readable heading and clean ivory with full silhouettes; no environment, ground, swatches or hand study."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "c97b7e2cc065fcb7abb13a7f0d02ed21b27573a8bfb07439835c216f9b6bae9f"
+      },
+      "outputSha256": "689edac6722443bde0de565355837540c2b2474da615aac9184310fdde76f9dc"
+    }
+  ]
+}

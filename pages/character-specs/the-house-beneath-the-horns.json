@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-house-beneath-the-horns",
+  "title": "The Last Day of the Watch",
+  "source": "stories/the-house-beneath-the-horns/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete source/prompt/review read; three source-named sustained agents. Original exact bytes recovered/inspected and cover inspected. Universe name search has no shared identity entry; no source or canon edits.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Escort leader, dead grave robbers, Kostral's wife, Phelnis's mother",
+      "reason": "Brief final messenger or dead/backstory references, not sustained main identities."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-e372d74b-49f5-46da-af3f-de0565ca970c.png",
+      "sha256": "3cd79c64d0a6a1ff0f8a9fb4e8442a2ee483b7aaa43363dde2289e30833d1e1e",
+      "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T09-52-33-01a090bd-d005-7570-b93b-3e09c06e0d17.jsonl",
+      "sourceSessionSha256": "cd3d99215ea276dad4a4536d327ad95ed5394e3ce5b7a7aa8701053d57d0f84f",
+      "line": 9,
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-e372d74b-49f5-46da-af3f-de0565ca970c.png",
+      "status": "recovered-and-inspected",
+      "recovery": "Exact original bytes from archived user input_image; no reencoding."
+    }
+  ],
+  "coverInspection": "Actual cover matches Phelnis original horned-elf identity. Source dull bow finish and state chronology override cover gloss.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "phelnis",
+      "name": "Phelnis",
+      "role": "Newly chosen archer uncovers corruption, rescues Osmund and ends Kostral's watch.",
+      "form": "Adult horned elf woman",
+      "selectionEvidence": [
+        {
+          "quote": "she had turned it in her blue-gray hand to show him the dull finish.",
+          "explanation": "Newly chosen archer uncovers corruption, rescues Osmund and ends Kostral's watch."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult female horned elf, blue-grey skin, pale hair, dark swept horns, black shoulder scale armor; source bow has gold carving deliberately dull. Original turquoise eyes, pointed ears, dark scale armor and ornate bow. Later removes armor to climb; do not depict it as final recovered."
+      },
+      "explicitCanon": [
+        "Non-canon story local horned elf watch; no implied universal elf age/skin or shared ruins."
+      ],
+      "visualInterpretation": [
+        "Apparent adult30 with original strong cheekbones, long pale loose hair with several wrapped strands, two dark swept ramlike horns, long pointed ears, turquoise eyes; black scale armor and practical dark trousers/boots. Opening daytime state retains armor, no source age claim beyond adult/twenty years practice."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Initial daytime before the horn strike, torn sleeve and armor removal; quiver, bow and alarm whistle only, no new wounds."
+        }
+      ],
+      "lighting": "Filtered warm afternoon sunlight on limited facing planes, connected blue-violet shadows; ivory support.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Phelnis"
+      },
+      "status": "completed",
+      "output": "stories/the-house-beneath-the-horns/art/characters/phelnis.png",
+      "generation": {
+        "prompt": "Keep the same Phelnis identity/anatomy/poses/horns/hair/eyes/black armor/whistle/bow/quiver and original Arrival state. Replace ALL surrounding brown/grey vignette with UNIFORM LIGHT IVORY and render exact Phelnis / The Last Day of the Watch title clearly in dark brown. Locally repaint FACE, EXPOSED ARMS, HAIR, HORNS AND ARMOR into broad opaque matte sculpted OIL PAINT masses with decisive bristle edges and a few thick strokes. Eliminate smooth glossy CGI skin and shiny mechanically rendered scales/metal and glittering gold rims; simplify small details into connected dark blue-black masses. GOLD BOW CARVING must be DULL as the prose says, no bright glitter. Keep blue-grey skin, turquoise eyes, pale hair, exactly2dark swept horns, source-compatible proportions, same filtered daytime value arrangement and equipment. No new facial design, extra horns, props or setting. Isolated character folio on ivory throughout.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-cecfa693-83fb-41b5-9515-810f0aed064b.png",
+            "sha256": "d1c1547f8cfef822456fcd206da7d5c448f4cd32b0efba0051bd7d8055a97b83",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Phelnis; exact subtitle The Last Day of the Watch. Small state label Arrival. ONE ADULT woman horned elf, blue-grey skin, long pale ivory hair with a few dark wrapped strands, turquoise eyes, strong cheekbones, long pointed ears, exactly TWO dark swept ramlike horns. Preserve the attached ORIGINAL's identity/proportions but render face/horns/armor in broad opaque oil masses, not its glossy CGI. Two fully unclipped front/rear body views in initial BLACK SCALE shoulder/chest armor, dark practical trousers and worn boots, no bare fantasy pin-up outfit. Full ornate bow with GOLD CARVING deliberately MATTE/DULL, quiver on back; bow relaxed, no nocked shot. A steady alert head study and small hand holding plain alarm whistle. Source twenty years practice means adult, not child. Opening daytime state, no broken horn, blood, torn sleeves or discarded armor mixed into this state. Filtered warm sun on limited planes and connected violet-blue shadows. Uniform clean LIGHT IVORY, no ruins/forest/floor patch, other person or magic effects.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-e372d74b-49f5-46da-af3f-de0565ca970c.png",
+                "sha256": "3cd79c64d0a6a1ff0f8a9fb4e8442a2ee483b7aaa43363dde2289e30833d1e1e",
+                "inspected": true,
+                "role": "Phelnis original identity: adult blue-grey female horned elf, pale hair, turquoise eyes, swept dark horns, pointed ears, black scale armor and ornate bow. Prose dull gold finish takes precedence over gloss."
+              },
+              {
+                "path": "stories/the-house-beneath-the-horns/art/landscapes/02-pollen-on-the-ruined-avenue.png",
+                "inspected": true,
+                "role": "Actual inspected source daytime sunlight/blue-violet connected shadow and broad oil painting only. Do not copy location.",
+                "sha256": "5269168b1bfcffbdc7bb29da46b9607db2e82713ac3e4d077958582dae988ddd"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.320617+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-cecfa693-83fb-41b5-9515-810f0aed064b.png",
+            "outputSha256": "d1c1547f8cfef822456fcd206da7d5c448f4cd32b0efba0051bd7d8055a97b83",
+            "generatorReview": "Original identity/anatomy/arrival costume pass, but dark background obscures heading and smooth glossy face/arms/scale armor drift toward original CGI. Needs matte opaque painting and ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.119594+00:00",
+            "prompt": "Keep the same Phelnis identity/anatomy/poses/horns/hair/eyes/black armor/whistle/bow/quiver and original Arrival state. Replace ALL surrounding brown/grey vignette with UNIFORM LIGHT IVORY and render exact Phelnis / The Last Day of the Watch title clearly in dark brown. Locally repaint FACE, EXPOSED ARMS, HAIR, HORNS AND ARMOR into broad opaque matte sculpted OIL PAINT masses with decisive bristle edges and a few thick strokes. Eliminate smooth glossy CGI skin and shiny mechanically rendered scales/metal and glittering gold rims; simplify small details into connected dark blue-black masses. GOLD BOW CARVING must be DULL as the prose says, no bright glitter. Keep blue-grey skin, turquoise eyes, pale hair, exactly2dark swept horns, source-compatible proportions, same filtered daytime value arrangement and equipment. No new facial design, extra horns, props or setting. Isolated character folio on ivory throughout.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-cecfa693-83fb-41b5-9515-810f0aed064b.png",
+                "sha256": "d1c1547f8cfef822456fcd206da7d5c448f4cd32b0efba0051bd7d8055a97b83",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Original identity/anatomy/arrival costume pass, but dark background obscures heading and smooth glossy face/arms/scale armor drift toward original CGI. Needs matte opaque painting and ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-dc87adc6-80f9-4f85-89d0-70e927147dd1.png",
+            "outputSha256": "9f42efca69ce8a339ec69e4f30ce73eadb04ab519241dc417c33afb00fd4a573",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:25.159222+00:00",
+            "generatorReview": "Actual final pixels inspected at full display: source blue-grey horned elf identity, turquoise eyes, pale long hair, dark scale armour and carved bow preserved; Arrival before injury/death, right-hand bow and right-shoulder quiver coherent front/rear. More opaque face/arm paint and subdued bow, ivory replacement with readable exact heading/title, no environment or other identity."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "9f42efca69ce8a339ec69e4f30ce73eadb04ab519241dc417c33afb00fd4a573",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:25.159222+00:00",
+        "sourceSha256": "818012084b6682ec82a083a839839797fa70bf9576cc21ffd87aea38f9722e10",
+        "outputSha256": "9f42efca69ce8a339ec69e4f30ce73eadb04ab519241dc417c33afb00fd4a573",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-cecfa693-83fb-41b5-9515-810f0aed064b.png",
+            "sha256": "d1c1547f8cfef822456fcd206da7d5c448f4cd32b0efba0051bd7d8055a97b83",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual final pixels inspected at full display: source blue-grey horned elf identity, turquoise eyes, pale long hair, dark scale armour and carved bow preserved; Arrival before injury/death, right-hand bow and right-shoulder quiver coherent front/rear. More opaque face/arm paint and subdued bow, ivory replacement with readable exact heading/title, no environment or other identity.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "ab076503622eab1d70fb05630fce1428ffb2f1ce1b7e215cc17d7805bb05f077"
+      }
+    },
+    {
+      "id": "kostral",
+      "name": "Kostral",
+      "role": "Century-long guardian secretly looted graves and imprisoned survivor, killed during confrontation.",
+      "form": "Older adult horned elf man",
+      "selectionEvidence": [
+        {
+          "quote": "I kept this place safe for a hundred years",
+          "explanation": "Century-long guardian secretly looted graves and imprisoned survivor, killed during confrontation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Old male horned elf archer, bow, boots, green cloak at arrival. Keys on cord beneath collar. His wife died during watch; at end killed. Source does not fix skin/hair details or horn shape beyond horned elf."
+      },
+      "explicitCanon": [
+        "Non-canon story local horned elf watch; no implied universal elf age/skin or shared ruins."
+      ],
+      "visualInterpretation": [
+        "Apparent late-sixties older elf man, weathered dusky grey skin, long thin severe face, pale greying hair tied low, two dark back-swept horns, long pointed ears. Deep green cloak over dark brown leather/cloth archer clothes, plain bow/quiver and boots, understated key cord."
+      ],
+      "states": [
+        {
+          "name": "Last watch, before confrontation",
+          "description": "Living daytime arrival state with green cloak, not postdeath. No death wound or innocent final rescue implication."
+        }
+      ],
+      "lighting": "Same filtered daylight as opening ruins, narrow warm planes and connected cool shadows.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Kostral"
+      },
+      "status": "completed",
+      "output": "stories/the-house-beneath-the-horns/art/characters/kostral.png",
+      "generation": {
+        "prompt": "Two exact local corrections only. Replace ALL dark blurred brown/green background with uniform clean LIGHT WARM IVORY to every edge, and make exact Kostral / The Last Day of the Watch heading/title plainly readable in dark brown. Tuck the dangling KEYS beneath his COLLAR in both main front body and portrait; only a plain cord may show above collar, no keys worn outside as jewelry. Preserve the separate isolated keys-on-cord detail unchanged so viewers can see actual object. Keep same old male horned-elf face, two horns, pale hair, green cloak, bow/quiver, anatomy, poses, daylight and broad oil paint. No new elements, floor, scene or other modifications.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-08f26678-ac2d-436d-a800-f92ea072ca50.png",
+            "sha256": "91cee01c26111f5e3c7d94bd0753bcfa40e78168fc781b1b9a586e1b72da0502",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Kostral; exact subtitle The Last Day of the Watch. State label Before the confrontation. ONE older adult MALE HORNED ELF, apparent late60s weathering, long thin severe face, dusky-grey skin, pale grey hair tied low, long pointed ears, exactly TWO dark back-swept horns distinct from Phelnis's massive curls. Centuries-old watchman with lined eyelids and deceptively patient expression; not a young handsome elf, no glowing eyes. DEEP GREEN travelling cloak over worn dark-brown leather/cloth archer gear, plain long bow, quiver, closed boots, small key cord emerging at collar. Two full-body front/rear views and one head expression plus isolated ordinary keys on cord detail. His source keys normally beneath collar; no giant magic key. Living opening daytime state BEFORE his death, no wound, no combat, no other identities. Filtered warm light confined to facing planes with connected cool shadow masses. UNIFORM LIGHT IVORY all empty space, no ruins or floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-house-beneath-the-horns/art/landscapes/02-pollen-on-the-ruined-avenue.png",
+                "inspected": true,
+                "role": "Actual inspected source daytime sunlight/blue-violet connected shadow and broad oil painting only. Do not copy location.",
+                "sha256": "5269168b1bfcffbdc7bb29da46b9607db2e82713ac3e4d077958582dae988ddd"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.321500+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-08f26678-ac2d-436d-a800-f92ea072ca50.png",
+            "outputSha256": "91cee01c26111f5e3c7d94bd0753bcfa40e78168fc781b1b9a586e1b72da0502",
+            "generatorReview": "Source identity/age/armor/green cloak pass; dark vignette obscures text and full/portrait keys hang outside collar, contradicting source cord beneath collar."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.123671+00:00",
+            "prompt": "Two exact local corrections only. Replace ALL dark blurred brown/green background with uniform clean LIGHT WARM IVORY to every edge, and make exact Kostral / The Last Day of the Watch heading/title plainly readable in dark brown. Tuck the dangling KEYS beneath his COLLAR in both main front body and portrait; only a plain cord may show above collar, no keys worn outside as jewelry. Preserve the separate isolated keys-on-cord detail unchanged so viewers can see actual object. Keep same old male horned-elf face, two horns, pale hair, green cloak, bow/quiver, anatomy, poses, daylight and broad oil paint. No new elements, floor, scene or other modifications.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-08f26678-ac2d-436d-a800-f92ea072ca50.png",
+                "sha256": "91cee01c26111f5e3c7d94bd0753bcfa40e78168fc781b1b9a586e1b72da0502",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Source identity/age/armor/green cloak pass; dark vignette obscures text and full/portrait keys hang outside collar, contradicting source cord beneath collar.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-5ccf6556-d7f7-4563-8164-7fcbb18f815e.png",
+            "outputSha256": "3239dd15ca5497373287f942efcdb2606d7436f9fb5c8f4f126e7176c8b6aaa9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:25.218435+00:00",
+            "generatorReview": "Actual pixels inspected: old pale-haired horned male elf with weathered face, green cloak/leather, intact living Before the confrontation state; keys now concealed below collar in all body/head views with separate accurate two-key object detail. Bow/quiver consistency, broad opaque paint, unclipped body views, exact readable heading/title and uniform ivory pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "3239dd15ca5497373287f942efcdb2606d7436f9fb5c8f4f126e7176c8b6aaa9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:25.218435+00:00",
+        "sourceSha256": "818012084b6682ec82a083a839839797fa70bf9576cc21ffd87aea38f9722e10",
+        "outputSha256": "3239dd15ca5497373287f942efcdb2606d7436f9fb5c8f4f126e7176c8b6aaa9",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-08f26678-ac2d-436d-a800-f92ea072ca50.png",
+            "sha256": "91cee01c26111f5e3c7d94bd0753bcfa40e78168fc781b1b9a586e1b72da0502",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: old pale-haired horned male elf with weathered face, green cloak/leather, intact living Before the confrontation state; keys now concealed below collar in all body/head views with separate accurate two-key object detail. Bow/quiver consistency, broad opaque paint, unclipped body views, exact readable heading/title and uniform ivory pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "20abc6317cb3aa77eed61e8cabac40f998dc1d75b370559a93755cfe9de859f2"
+      }
+    },
+    {
+      "id": "osmund",
+      "name": "Osmund",
+      "role": "Grave robber trapped thirteen years whose evidence and knowledge make escape possible.",
+      "form": "Older human man",
+      "selectionEvidence": [
+        {
+          "quote": "His beard had been shortened with something blunt.",
+          "explanation": "Grave robber trapped thirteen years whose evidence and knowledge make escape possible."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Human much older than first glimpse, unevenly shortened beard, narrow shoulders, ragged repeatedly patched coat, patched shoes with fresh square heel leather. Old injured ankle from failed rope escape; later new thigh arrow wound. Initial self-revealing state selected before new wound."
+      },
+      "explicitCanon": [
+        "Non-canon story local horned elf watch; no implied universal elf age/skin or shared ruins."
+      ],
+      "visualInterpretation": [
+        "Manaround60, lean underfed narrow frame, weathered light brown skin, uneven grey-brown stubble/beard and short unkempt grey-brown hair; faded brown ragged coat, grey shirt/trousers, mismatched repaired shoes. Old ankle side unspecified so no invented brace/label."
+      ],
+      "states": [
+        {
+          "name": "Before the whistle",
+          "description": "Initial daylight meeting before new thigh injury; walking cautiously with old ankle trouble, no fresh bandage/blood."
+        }
+      ],
+      "lighting": "Soft ruined-room daylight from roof gaps, connected cool shadow and modest warm facing planes.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Osmund"
+      },
+      "status": "completed",
+      "output": "stories/the-house-beneath-the-horns/art/characters/osmund.png",
+      "generation": {
+        "prompt": "Replace ONLY all dark blurred background/gradients with uniform LIGHT WARM IVORY, to all edges and between the character poses/details. Reletter existing exact Osmund / The Last Day of the Watch and existing state/detail labels clearly in dark brown. Preserve all character pixels: old human face/beard, ragged patched coat, wooden cup, square fresh heel patch, hands/boots, cautious stance, afternoon illumination and opaque oil paint. No new scenes, props, shadows on paper or other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4f1cf7e-5e60-422d-a87b-8955965dffea.png",
+            "sha256": "5a10ad9bf94ce2330412ed2b1a4439a2b990ddc1e3e45624389fe6e941c8931b",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Osmund; exact subtitle The Last Day of the Watch. State label Before the whistle. ONE older HUMAN man about60 with narrow underfed shoulders, weathered light brown face, uneven blunt-trimmed GREY-BROWN BEARD and unkempt short grey-brown hair. Human ears, NO horns. Frightened cautious alertness without monster/villain coding. Ragged faded brown coat repeatedly patched, grey shirt/trousers, two scuffed repaired shoes. One shoe has a distinctive fresh SQUARE leather HEEL PATCH; include a rear shoe sole/heel DETAIL making that patch clear. Two full-body front/rear cautious poses, one worried head close-up; plain wooden cup may be held low. Old injured ankle side unspecified: cautious stance but no named side or invented splint. This is BEFORE whistle and later arrow thigh wound, so NO fresh blood or leg bandage. Soft roof-gap daytime illumination with restrained warm planes and blue-violet connected shadows. Uniform LIGHT IVORY negative space with legible name/title, no room, plants, floor, weapons or other figures.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-house-beneath-the-horns/art/landscapes/02-pollen-on-the-ruined-avenue.png",
+                "inspected": true,
+                "role": "Actual inspected source daytime sunlight/blue-violet connected shadow and broad oil painting only. Do not copy location.",
+                "sha256": "5269168b1bfcffbdc7bb29da46b9607db2e82713ac3e4d077958582dae988ddd"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.322380+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4f1cf7e-5e60-422d-a87b-8955965dffea.png",
+            "outputSha256": "5a10ad9bf94ce2330412ed2b1a4439a2b990ddc1e3e45624389fe6e941c8931b",
+            "generatorReview": "Identity/patches/shoe heel/state and anatomy pass; dark vignette obscures exact heading."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.128182+00:00",
+            "prompt": "Replace ONLY all dark blurred background/gradients with uniform LIGHT WARM IVORY, to all edges and between the character poses/details. Reletter existing exact Osmund / The Last Day of the Watch and existing state/detail labels clearly in dark brown. Preserve all character pixels: old human face/beard, ragged patched coat, wooden cup, square fresh heel patch, hands/boots, cautious stance, afternoon illumination and opaque oil paint. No new scenes, props, shadows on paper or other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4f1cf7e-5e60-422d-a87b-8955965dffea.png",
+                "sha256": "5a10ad9bf94ce2330412ed2b1a4439a2b990ddc1e3e45624389fe6e941c8931b",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/patches/shoe heel/state and anatomy pass; dark vignette obscures exact heading.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-f68fd08a-3db5-4eef-a711-921f8c1dbb18.png",
+            "outputSha256": "09c0a29672be4c065b04b5bef48a9b57994c4a6a0daa397bf2b6fb93e7725a00",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:25.247000+00:00",
+            "generatorReview": "Actual pixels inspected: same old human identity in two complete views/head, uneven grey beard, patched clothing, intact Before the whistle state without later thigh wound. Square heel repair visible in rear and separate shoe detail; anatomy/paint/heading pass; dark background replaced by uniform light ivory."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "09c0a29672be4c065b04b5bef48a9b57994c4a6a0daa397bf2b6fb93e7725a00",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:25.247000+00:00",
+        "sourceSha256": "818012084b6682ec82a083a839839797fa70bf9576cc21ffd87aea38f9722e10",
+        "outputSha256": "09c0a29672be4c065b04b5bef48a9b57994c4a6a0daa397bf2b6fb93e7725a00",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4f1cf7e-5e60-422d-a87b-8955965dffea.png",
+            "sha256": "5a10ad9bf94ce2330412ed2b1a4439a2b990ddc1e3e45624389fe6e941c8931b",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same old human identity in two complete views/head, uneven grey beard, patched clothing, intact Before the whistle state without later thigh wound. Square heel repair visible in rear and separate shoe detail; anatomy/paint/heading pass; dark background replaced by uniform light ivory.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "bc434916ff90bb243e7f98630fb301405d76da6509db9cd2c976be1ddf1d08e7"
+      }
+    }
+  ],
+  "sourceSha256": "818012084b6682ec82a083a839839797fa70bf9576cc21ffd87aea38f9722e10"
+}

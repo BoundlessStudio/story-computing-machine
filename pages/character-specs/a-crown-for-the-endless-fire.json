@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-crown-for-the-endless-fire",
+  "title": "A Crown for the Endless Fire",
+  "source": "stories/a-crown-for-the-endless-fire/story.md",
+  "sourceSha256": "2e1f49a79a2913f9fd5a61b108aefe47cce9cc172b70df523d12a16c8e470446",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Uldek and Lemra are the only sustained onstage people; their alternating practical judgments and sacrifices drive the complete rescue.",
+  "excludedMinorCharacters": [
+    {
+      "name": "The two muckers",
+      "reason": "Depart before the central incident; incidental opening laborers."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#The deep-time shared world",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Costs, desire, and local mechanisms",
+    "universe/characters.md (searched Lemra/Uldek/story title; no matching authority entries)"
+  ],
+  "referenceDiscrepancies": [
+    "Cover eight candles/veil are unsupported and contradicted by exact six-candle prose count; new artwork follows finished prose and does not use cover as generation input."
+  ],
+  "characters": [
+    {
+      "id": "uldek",
+      "name": "Uldek",
+      "role": "First-person protagonist; mine ventwright who frees Lemra and repairs the heat relief",
+      "naming": {
+        "sourceName": "Uldek",
+        "provenance": "Explicit finished-story personal name; no invented art name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "I was the mine's ventwright",
+          "line": 15,
+          "explanation": "Narrator initiates investigation and performs rescue."
+        },
+        {
+          "quote": "Uldek. I can sling the cracked rib at its root.",
+          "line": 141,
+          "explanation": "Names protagonist and central practical action."
+        }
+      ],
+      "form": "human adult",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs",
+        "lifeStage": "Adult; precise age unspecified",
+        "proportions": "Ordinary human proportions",
+        "markings": "No permanent markings specified",
+        "materials": "Human skin and hair, practical cloth, leather and iron equipment",
+        "clothing": "Sleeves, collar, boots, belt with ring, leather gloves; later damp sleeves and palm cloth",
+        "equipment": "Lamp, two water skins, chalk, three iron wedges, claw hammer, smoke cups, neck cloth, rope and belt knife",
+        "scale": "Human scale",
+        "movement": "Crawls and works low with three points of contact, practical measured gestures",
+        "distinctiveFeatures": "Burnt palm wrapped after catching heat-tempered wedge; heat-bent wedge retained"
+      },
+      "explicitCanon": [
+        "Local non-canon source facts: named Uldek, mine ventwright, adult practical worker, equipment specified at line 19.",
+        "Three wedges initially; one becomes heat-bent and unsafe, retained separately; return rope is cut into two slings and spent.",
+        "Burnt palm later cloth-wrapped; source does not specify which hand or narrator gender."
+      ],
+      "visualInterpretation": [
+        "Androgynous middle-aged adult, compact sturdy build, medium brown skin, close cropped salt-and-pepper dark hair, broad nose, no beard; sex/gender not claimed.",
+        "Plain dark umber work jacket over slate shirt, charcoal trousers and scuffed brown leather boots; cut and colors are restrained occupational interpretation.",
+        "Right palm chosen for consistent art-only injury laterality; source does not specify side. Main turnarounds early equipped state; separate later palm and warped wedge details.",
+        "Low amber lantern/furnace bounce on lower facial planes, rich umber-violet shadows; no environment or theatrical rim."
+      ],
+      "states": [
+        {
+          "name": "Before repair",
+          "description": "Gloves, intact rope coil and practical tools, uninjured palm."
+        },
+        {
+          "name": "After repair",
+          "description": "Separate right-palm cloth and heat-bent wedge study; rope is spent and not carried in this state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-crown-for-the-endless-fire:uldek",
+        "links": [],
+        "evidence": "No matching universe identity; same name does not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Collection paint and ivory folio only, never identity or coat",
+          "notes": "Inspected broad matte face and cloth masses with quiet ivory separation; preserve technique only.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "Collection face paint and folio only, never identity, clothes or daylight",
+          "notes": "Inspected fully painted facial planes and broad fabric treatment, isolated views without scenery.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
+          "role": "Same-story subterranean warm light and dark masses only; no environment in folio",
+          "notes": "Inspected furnace amber illumination against connected charcoal/violet masses; painting perspective does not establish new canon.",
+          "inspected": true,
+          "sha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/interiors/01-lower-mine-gallery.png",
+          "role": "Same-story lantern light and tool material mood only",
+          "notes": "Inspected dim lamp-amber and umber/violet paint, matte rope and iron. No room content transfers.",
+          "inspected": true,
+          "sha256": "024de7620d0af5bfc1b8f2073d583dab554212a3c990311c1acc81ddd03e3cd5"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/title-image.jpg",
+          "role": "Inspected source cover, not generation input due material departures",
+          "notes": "Cover shows eight candles and a veiled supernatural silhouette. Prose explicitly controls: exactly six candles, boots, head/neck pad, ordinary human woman. Do not transfer cover veil or extra candles.",
+          "inspected": true,
+          "sha256": "97dcedc03e4bcde53d8720d087de3d1a98b59a19f4db14a702cccb67d4d77318"
+        }
+      ],
+      "output": "stories/a-crown-for-the-endless-fire/art/characters/uldek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact 1536x1024 oil-painted Uldek folio with ONE typography change only. At bottom right, replace the two-line label 'After repair (left hand)' with the single label 'After repair'. This is an isolated bandaged RIGHT palm and the source does not specify the side. Preserve all artwork, all other text, the three full-body views, face identity, gear, warm shadowed paint, proportions and ivory. No new objects or scene or palette swatches. Do not alter the hand or redraw the image.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-307e2e67-e266-40a5-9b0e-c2b1c3aa9207.png",
+            "sha256": "6664051ed3f8f727331a8e512d148b255af72fd5d8025d3fc27a219debd2b10e",
+            "inspected": true,
+            "role": "Actual inspected first candidate, edit target preserving painted technique and identity while repairing concrete count or label defects"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:14:21.0444112Z",
+            "prompt": "Create ONE finished 1536x1024 landscape character-only oil-painting folio on quiet warm ivory. Isolated fully uncropped studies with clean ivory gaps. Absolutely NO setting, floor, terrain, ground patch, vignette, props unrelated to personal gear, palette chips, paint swatches, decorative frame or prose paragraph. Broad connected oil color/value masses and long directional bristle/knife strokes, with selective thick impasto and quieter connecting passages. Canadian Group of Seven-inspired bold form design. Faces, hair, hands and gear must be formed from the SAME visible opaque paint as clothing; no photoreal face, anime, glossy CGI, varnish shine, bevelled chips or uniform scratch filter. Preserve readable distinctive face and body proportions through all views. First image supplies PAINT TECHNIQUE and FOLIO only, never its identity, clothing, equipment or daylight. Second image supplies this story's subdued furnace amber/charcoal-violet light relationship only; do not copy the environment. Light is low amber bounce on downward planes, joined deep umber-violet shadows, no orange rim outline, no daylight exposure. Ivory stays quiet and light but figure shadows stay dark. Materials distinguished with stroke rhythm: wool broad matte folds, leather worn dense planes, iron restrained charcoal planes.\nReadable heading exactly 'Uldek', subtitle 'A Crown for the Endless Fire'. One androgynous middle-aged human mine ventwright, compact sturdy build, medium-brown skin, broad nose, close-cropped dark salt-and-pepper hair, no beard. No claim of gender. Plain dark umber work jacket over slate shirt, charcoal trousers, scuffed brown leather work boots, practical belt with iron ring, leather gloves. Never copy Kelro's face/hair/red coat. Left two-thirds three complete same-scale full body turnarounds: front three-quarter, side, rear three-quarter, same intact clothing and equipment BEFORE REPAIR. A modest coiled rope at belt, small claw hammer and sheathed work knife, one handheld hoodless simple mine oil lamp; no modern electric helmet, no armor, no sword. Right top two expressive painted head studies of same person: 'Assessing' and 'Weary'. Bottom/right isolated equipment studies: simple chalk stick and three small iron wedges, one visibly slightly warped labelled 'Heat-bent wedge'; then an isolated LEFT hand/palm in plain cloth dressing labelled 'After repair'. Main figure turnarounds show early uninjured gloves; bandaged hand is separate later state. Small folded cloth and two leather water skins may be shown together as personal gear. No rope around later bandaged hand; rope was spent under bridge. Keep equipment clear but do not crowd. All silhouettes unclipped. Tool count three wedges, not swords. Five fingers anatomically sensible in hand study.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Collection paint and ivory folio only, never identity or coat",
+                "notes": "Inspected broad matte face and cloth masses with quiet ivory separation; preserve technique only.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-crown-for-the-endless-fire/art/interiors/01-lower-mine-gallery.png",
+                "role": "Same-story lantern light and tool material mood only",
+                "notes": "Inspected dim lamp-amber and umber/violet paint, matte rope and iron. No room content transfers.",
+                "inspected": true,
+                "sha256": "024de7620d0af5bfc1b8f2073d583dab554212a3c990311c1acc81ddd03e3cd5"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-307e2e67-e266-40a5-9b0e-c2b1c3aa9207.png",
+            "outputSha256": "6664051ed3f8f727331a8e512d148b255af72fd5d8025d3fc27a219debd2b10e",
+            "dimensions": [
+              1536,
+              1024
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:19:24.0801208Z",
+            "prompt": "Edit this exact 1536x1024 oil-painted Uldek folio with ONE typography change only. At bottom right, replace the two-line label 'After repair (left hand)' with the single label 'After repair'. This is an isolated bandaged RIGHT palm and the source does not specify the side. Preserve all artwork, all other text, the three full-body views, face identity, gear, warm shadowed paint, proportions and ivory. No new objects or scene or palette swatches. Do not alter the hand or redraw the image.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-307e2e67-e266-40a5-9b0e-c2b1c3aa9207.png",
+                "sha256": "6664051ed3f8f727331a8e512d148b255af72fd5d8025d3fc27a219debd2b10e",
+                "inspected": true,
+                "role": "Actual inspected first candidate, edit target preserving painted technique and identity while repairing concrete count or label defects"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-01fca829-a97a-4e43-8541-5c7c39a4e305.png",
+            "savedPath": "stories/a-crown-for-the-endless-fire/art/characters/uldek.png",
+            "outputSha256": "92366bd089570ebb8573a7ae0aaeda03a795b3b984071f2714aa419084e626e7",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T17:32:23.308217-04:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T17:32:23.308263-04:00",
+        "sourceSha256": "2e1f49a79a2913f9fd5a61b108aefe47cce9cc172b70df523d12a16c8e470446",
+        "outputSha256": "92366bd089570ebb8573a7ae0aaeda03a795b3b984071f2714aa419084e626e7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-307e2e67-e266-40a5-9b0e-c2b1c3aa9207.png",
+            "sha256": "6664051ed3f8f727331a8e512d148b255af72fd5d8025d3fc27a219debd2b10e",
+            "inspected": true,
+            "role": "Actual inspected first candidate, edit target preserving painted technique and identity while repairing concrete count or label defects"
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected at full sheet size: correct readable personal name and story title, three unclipped body views, consistent identity and anatomy, quiet ivory character-only format with no scenery or swatches.",
+          "Broad matte connected oil masses remain visible on face, hair, clothing and personal gear; muted warm light with dark umber shadows, no glossy digital surface.",
+          "Practical lamp, rope, leather gloves, belt ring, chalk, three iron wedges including one heat-bent, two water skins and folded cloth retained. Separate later bandaged right palm has neutral After repair label, avoiding incorrect handedness caption."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "68cefd05aa425555eec7c70524c1301e3df0e1a1c8906538cc05f22c7b7db920"
+      },
+      "outputSha256": "92366bd089570ebb8573a7ae0aaeda03a795b3b984071f2714aa419084e626e7"
+    },
+    {
+      "id": "lemra",
+      "name": "Lemra",
+      "role": "Co-lead; exhausted crown bearer who directs the shared rescue",
+      "naming": {
+        "sourceName": "Lemra",
+        "provenance": "Explicit finished-story personal name; no invented art name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Exactly six candles burned in iron cups along the antlers.",
+          "line": 37,
+          "explanation": "Crown bearer’s defining physical burden."
+        },
+        {
+          "quote": "Lemra.",
+          "line": 139,
+          "explanation": "Explicit personal name."
+        },
+        {
+          "quote": "She bent her knees, lifted the antler crown with both hands",
+          "line": 299,
+          "explanation": "Completes relief and leaves crown behind."
+        }
+      ],
+      "form": "human adult",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs",
+        "lifeStage": "Adult; precise age unspecified",
+        "proportions": "Ordinary human proportions",
+        "markings": "After removal two branching bruises on neck, skin unbroken, several burns",
+        "materials": "Human skin and hair, practical cloth, leather and iron equipment",
+        "clothing": "Boots; thick damp wool pad around head and neck while carrying crown; later broad wet cloth collar",
+        "equipment": "Antler crown wider than shoulders with iron band/rear catch and EXACTLY six candle cups; hooked iron pole; curved bowl-ended wick knife; water skin",
+        "scale": "Human scale",
+        "movement": "Knees brace and body folds under heavy crown, hands grip hook pole; later weary upright recovery",
+        "distinctiveFeatures": "Six flames convey load: stressed third from her left blue-white at base; after relief all six upright amber before extinguishing"
+      },
+      "explicitCanon": [
+        "Local non-canon source facts: human woman Lemra, exactly six candles in iron cups on antlers wider than shoulders.",
+        "Thick wet wool head/neck pad; right-side hooked pole; no royal status, supernatural body, veil or gown established.",
+        "After crown removal neck has two branching bruises and unbroken skin; leaves crown secured behind."
+      ],
+      "visualInterpretation": [
+        "Woman around sixty, broad square tired face, heavy cheeks, broad flat round-tipped nose, low straight brows and gray-streaked dark hair tightly combed back into a small low knot, without fringe or face-framing curls. These are restrained interpretation choices to establish a unique visual identity.",
+        "Plain charcoal long-sleeve work tunic, dark trousers and brown boots, without veil, ornate jewels or armor.",
+        "Crown antlers simplified to two practical branches with three iron cups each for exact count; anatomical antlers are equipment, not growth.",
+        "Three full recovery views are crownless with loose wet cloth collar. One large separate crown equipment study depicts six balanced upright amber flames immediately before removal. These states are not simultaneous.",
+        "Subdued furnace amber bounce and dark brown-violet shade, no daylight or glossy skin; flames on candles are equipment only."
+      ],
+      "states": [
+        {
+          "name": "Bearing the crown",
+          "description": "Main views at balanced heat immediately before removal: exactly six upright amber flames, thick pad and hooked pole. Earlier stress can cause third candle blue-white base but is not depicted."
+        },
+        {
+          "name": "After relief",
+          "description": "Crown left behind, loose wet cloth collar; neck bruises in separate small detail, ordinary human skin."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-crown-for-the-endless-fire:lemra",
+        "links": [],
+        "evidence": "No matching universe identity; same name does not establish recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Collection paint and ivory folio only, never identity or coat",
+          "notes": "Inspected broad matte face and cloth masses with quiet ivory separation; preserve technique only.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "Collection face paint and folio only, never identity, clothes or daylight",
+          "notes": "Inspected fully painted facial planes and broad fabric treatment, isolated views without scenery.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
+          "role": "Same-story subterranean warm light and dark masses only; no environment in folio",
+          "notes": "Inspected furnace amber illumination against connected charcoal/violet masses; painting perspective does not establish new canon.",
+          "inspected": true,
+          "sha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/interiors/01-lower-mine-gallery.png",
+          "role": "Same-story lantern light and tool material mood only",
+          "notes": "Inspected dim lamp-amber and umber/violet paint, matte rope and iron. No room content transfers.",
+          "inspected": true,
+          "sha256": "024de7620d0af5bfc1b8f2073d583dab554212a3c990311c1acc81ddd03e3cd5"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/title-image.jpg",
+          "role": "Inspected source cover, not generation input due material departures",
+          "notes": "Cover shows eight candles and a veiled supernatural silhouette. Prose explicitly controls: exactly six candles, boots, head/neck pad, ordinary human woman. Do not transfer cover veil or extra candles.",
+          "inspected": true,
+          "sha256": "97dcedc03e4bcde53d8720d087de3d1a98b59a19f4db14a702cccb67d4d77318"
+        }
+      ],
+      "output": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Focused identity correction to this exact Lemra oil folio. Preserve the resolved composition, all clothing/gear, lighting, exact SIX candle crown (three per antler), text and uncropped silhouettes. Change ONLY this woman's face and hair CONSISTENTLY in every full figure and both portrait studies: make Lemra visibly about SIXTY years old, with a BROAD SQUARE tired face, heavier mature cheeks, wider flatter nose with rounded tip, straight low brows, heavy tired eyelids, slightly thin straight lips and age lines beside the mouth. Her hair is dark with PROMINENT GRAY at both temples and one broad gray streak, STRAIGHT and tightly combed completely BACK from forehead into a simple low compact knot. NO swept fringe, NO bangs, NO loose curled locks at temples/cheeks, NO wavy face-framing hair. In rear view show the same smooth straight pulled-back gray-streaked hair and low small knot. Retain tawny brown skin, warm matte lighting and ordinary sturdy adult anatomy. This is a DIFFERENT older woman from the youthful loose-haired Coris style reference; no generic pretty young face. Broad opaque bristle/knife PAINT must construct the changed cheeks, forehead, nose and hair as strongly as fabric. Avoid glossy eyes, photoreal wrinkled skin texture, and airbrushing. Do not change the crown count, crown design, plain charcoal work clothes, loose cream neckcloth, hook pole, wick knife, water skin, heading/title or layout. No locations, floor or swatches. One precise identity repair, not a new composition.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3240e922-58a0-4d34-9ed9-a56445f37761.png",
+            "sha256": "6915af92d84d6594ccfb03ce5d3a8020497b33b2a01cc7bd9dad561b32715d32",
+            "inspected": true,
+            "role": "Immutable selected attempt 4 before distinct older face/hair correction; preserve six-candle layout and source gear"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:14:21.0497125Z",
+            "prompt": "Create ONE finished 1536x1024 landscape character-only oil-painting folio on quiet warm ivory. Isolated fully uncropped studies with clean ivory gaps. Absolutely NO setting, floor, terrain, ground patch, vignette, props unrelated to personal gear, palette chips, paint swatches, decorative frame or prose paragraph. Broad connected oil color/value masses and long directional bristle/knife strokes, with selective thick impasto and quieter connecting passages. Canadian Group of Seven-inspired bold form design. Faces, hair, hands and gear must be formed from the SAME visible opaque paint as clothing; no photoreal face, anime, glossy CGI, varnish shine, bevelled chips or uniform scratch filter. Preserve readable distinctive face and body proportions through all views. First image supplies PAINT TECHNIQUE and FOLIO only, never its identity, clothing, equipment or daylight. Second image supplies this story's subdued furnace amber/charcoal-violet light relationship only; do not copy the environment. Light is low amber bounce on downward planes, joined deep umber-violet shadows, no orange rim outline, no daylight exposure. Ivory stays quiet and light but figure shadows stay dark. Materials distinguished with stroke rhythm: wool broad matte folds, leather worn dense planes, iron restrained charcoal planes.\nReadable heading exactly 'Lemra', subtitle 'A Crown for the Endless Fire'. One ordinary middle-aged human woman, sturdy medium build, tawny brown skin, strong tired face, straight dark hair gathered low. Plain charcoal long-sleeve work tunic over dark practical trousers, brown boots. No veil, robes, jewels, armor, antler growth, supernatural body or royal status. First two full-body figures: front three-quarter and side, exhausted knees slightly bent, hands gripping a long hooked iron pole at HER RIGHT side. They wear a heavy antler CROWN that is equipment with a visible iron headband and thick damp wool pad around head/neck. Antlers wider than shoulders. EXACTLY SIX candle cups and EXACTLY SIX candle flames on EACH crown: three simple clearly separated iron cups on each of two antler branches. NO seventh/eighth candle. Front angle makes all six countable. A small blue-white BASE only on the third flame counting from wearer left; the other flames amber; no magical aura. Third full figure at smaller scale is same woman AFTER RELIEF: crown removed and LEFT BEHIND, no pole, broad loose wet cloth collar tied around bruised neck, exhausted but unburdened. Label that view 'After relief'. No crown resting on floor. Right top two expressive head studies of SAME face, crownless, labels 'Spent' and 'Recovering'; neck collar on recovering. Bottom two modest isolated personal-detail studies: close iron band with rear catch and wool padding, and a curved small bowl-ended wick knife beside a leather water skin. Separate small neck study if space allows showing two branching bruised lines with unbroken skin, not a glowing tattoo. Design the figures first, equipment small, every full figure and entire antler crown uncropped. Keep exact same face, hairline and body proportions in front/side/rear states. No location or fire field, candle flames are equipment only.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Collection face paint and folio only, never identity, clothes or daylight",
+                "notes": "Inspected fully painted facial planes and broad fabric treatment, isolated views without scenery.",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
+                "role": "Same-story subterranean warm light and dark masses only; no environment in folio",
+                "notes": "Inspected furnace amber illumination against connected charcoal/violet masses; painting perspective does not establish new canon.",
+                "inspected": true,
+                "sha256": "2b107f70d4d3be9e809f6b8d6eb76bb288a3b8005d9e0a21328c8c36cbafc1c9"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-4959bb7e-bba9-4e2f-a370-337bb7b70194.png",
+            "outputSha256": "3e5a18631f530d8ce77f78b64655fb7facdf4cf560e1d74ba78e58c4cb458451",
+            "dimensions": [
+              1536,
+              1024
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:19:24.0930581Z",
+            "prompt": "Correct this exact 1536x1024 character-only Lemra oil folio. Essential count repair: both worn crowns currently have FIVE visible candle cups. Each must instead have EXACTLY SIX fully visible separate candles in SIX iron cups, three on the left antler and three on the right antler. On each worn crown, add the missing sixth cup/candle onto the antler side presently containing two cups; preserve other five. Count six flames per worn crown, no extra. Main left front view: currently two cups on image-left branch and three on image-right; add a third on image-left branch. Middle side view: currently three cups on image-left branch and two on image-right; add a third on image-right branch. Keep all six cups visible with comfortable air, leaving a clear small top margin and not clipping any antler or flame. Third flame from WEARER LEFT has a small blue-white base and all other flames are amber. No fire halo. Also give this middle-aged woman her own identity consistently across all faces: slightly broader square jaw, straighter dark hair tied low, subtle mature lines beside mouth and eyes, less like young Coris. Keep tawny skin, strong tired face, body and clothing. Preserve exact heading/subtitle, all three full figures, plain dark work tunic/trousers/boots, hooked iron pole, separate crownless 'After relief' view with wet cloth collar, the right-side heads/neck bruises/wick knife/water skin. Same broad matte oil planes, locally thick impasto and deep umber shadows. Do not smooth the paint or brighten into studio daylight. No scenery, floor, shadows on ground, swatches or additional gear.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-4959bb7e-bba9-4e2f-a370-337bb7b70194.png",
+                "sha256": "3e5a18631f530d8ce77f78b64655fb7facdf4cf560e1d74ba78e58c4cb458451",
+                "inspected": true,
+                "role": "Actual inspected first candidate, edit target preserving painted technique and identity while repairing concrete count or label defects"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-5d9abd1f-e67b-4762-9135-7a92101f37a8.png",
+            "outputSha256": "8515aae9c56439c27f224e74f0d57b67212cbec816666bc83152b1317b074175"
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:25:03.0099634Z",
+            "prompt": "Make a narrowly targeted correction to this exact Lemra sheet, preserving ALL people, faces, painted surfaces, clothing, layout and text. The LEFTMOST full figure currently has only FIVE candle cups on her crown (two on the image-left antler, three on the image-right). Add exactly ONE small iron candle cup and lit candle onto the bare upward tine BETWEEN the two existing cups on the IMAGE-LEFT antler, roughly x=110 y=120 in this 1536x1024 image. Then that LEFTMOST crown has exactly SIX cups total, three left and three right. Do NOT remove, replace or move any other cup. The MIDDLE full figure already has SIX cups: preserve that count unchanged. All twelve flames across these two worn crowns must now be small UPRIGHT AMBER flames; remove the blue from both blue flames. They depict the brief balanced-heat state just before crown removal, when the source says all six flames are upright amber. No additional flames, no aura. Preserve all other pixels' intended contents, especially character identity and heavy matte oil paint, three full figures, ivory character-only layout, no scenes or swatches. Count leftmost six candles before finishing.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-5d9abd1f-e67b-4762-9135-7a92101f37a8.png",
+                "sha256": "8515aae9c56439c27f224e74f0d57b67212cbec816666bc83152b1317b074175",
+                "inspected": true,
+                "role": "Inspected attempt 2 edit target; fix one missing crown candle and use source-supported balanced amber state"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-ef7d782d-cc0a-43b1-b9da-7f31bf3e5c27.png",
+            "outputSha256": "c327c624f3f46dc46e84e598c31cf499551526ed0cfa395b0603e2b82323ffa4"
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "superseded-identity-review",
+            "requestedAt": "2026-09-23T21:29:49.1792172Z",
+            "prompt": "Redesign this Lemra 1536x1024 character-only ivory oil folio to solve a repeated-count failure. FIRST INPUT preserves the SAME Lemra identity, practical clothing, gear and warm low amber light. SECOND INPUT supplies fully painted broad opaque oil/impasto surfaces only; do not copy Coris identity or daylight. IMPORTANT new composition: all THREE full-body views on left 60% are CROWNLESS AFTER RELIEF, front, side, rear, SAME mature tawny woman with strong square jaw and straight dark low-tied hair, plain charcoal work tunic, trousers, brown boots, loose damp cream cloth collar. She does NOT hold crown or pole in these three recovery views. Entire hair-to-boots silhouettes, normal anatomical proportions, no ground. Right top ONE large separate frontal equipment portrait of the complete antler crown, NOT worn by a person: broad padded iron band with two simple branching antlers, EXACTLY SIX candle cups and SIX upright small AMBER flames; arrange three clearly separated candles left and three right in a very simple symmetrical six-point rhythm. Three plus three, never two plus three. Full antlers and flames fit inside the ivory with generous margin. Label 'Crown — six candles'. This single large crown study is the ONLY crown in the sheet, no other crown image or duplication. Below it two expressive head studies of SAME mature woman labelled 'Spent' and 'Recovering', showing tired strong face with visible broad painterly cheek and forehead planes. Bottom/right isolated small curved bowl-ended wick knife, water skin and the long hooked pole placed vertically beside the equipment region, no scene. Preserve exact heading 'Lemra' and subtitle 'A Crown for the Endless Fire'. Make oil handling strong: broad connected warm/dark masses, directional bristles, selective substantial raised paint, not uniform texture chips; fully paint face and hair, no smooth plastic. Deep umber-violet shadow masses and modest furnace-warm lower planes, no daylight or orange rim. Absolutely no setting, floor, terrain, ground shadows, palette chips or swatches. This is character/gear only on quiet ivory. Simplify to make SIX countable candles on the ONE crown with enough room.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-ef7d782d-cc0a-43b1-b9da-7f31bf3e5c27.png",
+                "sha256": "c327c624f3f46dc46e84e598c31cf499551526ed0cfa395b0603e2b82323ffa4",
+                "inspected": true,
+                "role": "Inspected candidate identity or collection paint; composition redesigned for one readable crown equipment study"
+              },
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true,
+                "role": "Inspected candidate identity or collection paint; composition redesigned for one readable crown equipment study"
+              }
+            ],
+            "diagnosis": "Repeated small worn crowns retained a five-cup template after two repairs. Change composition to one large isolated six-cup equipment study and crownless recovery turnarounds.",
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3240e922-58a0-4d34-9ed9-a56445f37761.png",
+            "savedPath": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+            "outputSha256": "6915af92d84d6594ccfb03ce5d3a8020497b33b2a01cc7bd9dad561b32715d32",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T17:32:23.321169-04:00"
+          },
+          {
+            "attempt": 5,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:41:54.7957893Z",
+            "prompt": "Focused identity correction to this exact Lemra oil folio. Preserve the resolved composition, all clothing/gear, lighting, exact SIX candle crown (three per antler), text and uncropped silhouettes. Change ONLY this woman's face and hair CONSISTENTLY in every full figure and both portrait studies: make Lemra visibly about SIXTY years old, with a BROAD SQUARE tired face, heavier mature cheeks, wider flatter nose with rounded tip, straight low brows, heavy tired eyelids, slightly thin straight lips and age lines beside the mouth. Her hair is dark with PROMINENT GRAY at both temples and one broad gray streak, STRAIGHT and tightly combed completely BACK from forehead into a simple low compact knot. NO swept fringe, NO bangs, NO loose curled locks at temples/cheeks, NO wavy face-framing hair. In rear view show the same smooth straight pulled-back gray-streaked hair and low small knot. Retain tawny brown skin, warm matte lighting and ordinary sturdy adult anatomy. This is a DIFFERENT older woman from the youthful loose-haired Coris style reference; no generic pretty young face. Broad opaque bristle/knife PAINT must construct the changed cheeks, forehead, nose and hair as strongly as fabric. Avoid glossy eyes, photoreal wrinkled skin texture, and airbrushing. Do not change the crown count, crown design, plain charcoal work clothes, loose cream neckcloth, hook pole, wick knife, water skin, heading/title or layout. No locations, floor or swatches. One precise identity repair, not a new composition.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3240e922-58a0-4d34-9ed9-a56445f37761.png",
+                "sha256": "6915af92d84d6594ccfb03ce5d3a8020497b33b2a01cc7bd9dad561b32715d32",
+                "inspected": true,
+                "role": "Immutable selected attempt 4 before distinct older face/hair correction; preserve six-candle layout and source gear"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7959e881-931a-49e0-a215-52fc540943a7.png",
+            "savedPath": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+            "outputSha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:48:22.584304+00:00"
+          }
+        ],
+        "selectedAttempt": 5
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T21:48:22.584346+00:00",
+        "sourceSha256": "2e1f49a79a2913f9fd5a61b108aefe47cce9cc172b70df523d12a16c8e470446",
+        "outputSha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3240e922-58a0-4d34-9ed9-a56445f37761.png",
+            "sha256": "6915af92d84d6594ccfb03ce5d3a8020497b33b2a01cc7bd9dad561b32715d32",
+            "inspected": true,
+            "role": "Immutable selected attempt 4 before distinct older face/hair correction; preserve six-candle layout and source gear"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: distinctive older broad tired face and tightly pulled-back gray-streaked hair now consistent in all five faces/views, removing resemblance to the loose-haired young Coris anchor.",
+          "One full crown equipment study retains exactly six candles, three each side; three crownless after-relief views show consistent loose neckcloth and plain work clothes.",
+          "Readable exact name/title, unclipped silhouettes and hook pole, wick knife and water skin. No scene, floor or paint swatches. Broad matte painted face, hair, clothing and subdued warm/umber light preserved."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "fcd1b100b0418411a93e0a0121a433964ae27639cb49e02fe0b614f2b0a0f35f"
+      },
+      "outputSha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537"
+    }
+  ]
+}

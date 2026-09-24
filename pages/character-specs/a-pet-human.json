@@ -1,0 +1,720 @@
+{
+  "slug": "a-pet-human",
+  "title": "A Pet Human",
+  "source": "stories/a-pet-human/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read complete finished prose from altar abduction through final collar reclamation. Caff narrates, Nimmet changes from pet owner to ally, Mavrix controls escape, and priest drives the sacrifice/restitution conflict.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "assistants, landlady, chestnut seller, spectators",
+      "reason": "Brief supporting functions and comic witnesses, not sustained main cast."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "caff",
+      "name": "Caff",
+      "role": "human first-person protagonist and fairground performer",
+      "selectionEvidence": [
+        {
+          "quote": "I am Caff.",
+          "explanation": "Named narrator throughout."
+        },
+        {
+          "quote": "I was thirty-seven, shoeless, and still shaking.",
+          "explanation": "Explicit age and arrival state."
+        }
+      ],
+      "form": "ordinary adult human man",
+      "storyAppearance": {
+        "lifeStage": "Thirty-seven.",
+        "anatomy": "Human; moustache explicit.",
+        "clothing": "Green coat; trousers, stockings, shirt implied beneath coat; stolen good boots recovered at end.",
+        "equipment": "Green velvet collar with brass bell and loose green ribbon temporarily worn, then reclaimed; red ball gifted by Nimmet; purse/key recovered.",
+        "scale": "Ordinary adult human, smaller than seven-foot child Nimmet.",
+        "distinctiveFeatures": "Serviceable moustache and carrying voice."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Inspected cover establishes compatible dark wavy hair, strong dark moustache, white shirt, purple-brown patterned waistcoat and weathered green coat; preserve these identity/costume choices in painted treatment.",
+        "Normal and temporary collar states separately labelled; boots on restored-property primary view, shoeless arrival detail optional. No restraint tableau."
+      ],
+      "states": [
+        {
+          "name": "after return",
+          "description": "Boots recovered, collar held as personal property."
+        },
+        {
+          "name": "performance",
+          "description": "Temporarily wears velvet collar/bell."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-pet-human:caff",
+        "links": [],
+        "evidence": "No shared-universe character entry or cross-story identity established."
+      },
+      "output": "stories/a-pet-human/art/characters/caff.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Image1 is the complete Caff character folio to revise. Image2 is SAME STORY's thick oil painting: PAINT HANDLING ONLY, no scene contents. Preserve Image1 EXACT composition, dimensions1536x1024, ivory field, ALL name/title/labels, all poses/expressions, all clothing/colours/props, anatomy, age, adult human identity, moustache and darkwavy hair, green coat, waistcoat, boots, collar states and redball. Change ONLY RENDERING throughout figures/details:\nRepaint faces, eyes, hair, hands, limbs, garments and props as emphatically BROAD, connected, matte Group of Seven oil-paint masses inspired by Image2. Skin planes should be made of a few large deliberate ochre/pink/umber brush masses with substantial raised BRISTLE ridges, scraping and quieter underpaint; NOT smooth realistic gradients covered with tiny chip cracks. Simplify small facial microdetails and individualhair into larger structural strokes while preserving recognizable subject. EYES must become ordinary MATTE painted forms with quiet dark pupil and simple iris mass; REMOVE glossy catchlights, glassy sparkle, anime lashes and plastic shading. Keep child warm expressive youngface if Nimmet; do not age up or alter facial proportion. Connect shadow passages instead of outlining every plane with bright paint. Retain restrained interiorlight and explicit subjectcolours, no new rim light. No uniformbevelled chips or filter. Keep ALL ivory spacing EMPTY; no floorpatch, vignette, swatches, newtext or otherobjects. The result is an actual bold oil study with strongly painted faces, not a digital portrait with an impasto filter.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T22:03:33.155455+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only ivory reference folio, exactly1536x1024 landscape3:2. Exact name + exact title upperleft, concise readable labels, generous quiet space. Two useful complete unclipped body views, larger face study and few relevant distinguishing details. No location, scene, environment, vignette, ground/floor/terrain patch, furniture, plants, paint swatches, palette strip, decoration or extra identity.\nSTYLE: Canadian Group of Seven-influenced oil, substantial selective impasto, large CONNECTED matte colour/value masses, broad bristle strokes and quieter linking passages, scraped edges. Face/eyes/hands equally painted as clothing, expressive planes without glossy portrait rendering. No small uniform bevelled chips, CGI, anime, photographic eyes, digital rim-light or texturefilter.\nImage1 (Leora) is accepted paint and folio-spacing style ONLY, no identity, clothes or markings. Image2 cover supplies ONLY the named subject's compatible face/hair/costume identity, NOT its anime/smooth rendering nor the other person. Image3 drawing-room supplies subdued internal warm red/umber/plum LIGHT and PALETTE ONLY; no background or contents.\nExact heading \"Caff\"; title \"A Pet Human\". Show ONLY Caff, ordinary HUMAN MAN aged37. Preserve cover-compatible wavy dishevelled dark hair, strong dark moustache, strong weary face, weathered GREEN COAT over cream open-neck shirt and muted purple-brown waistcoat. Plain dark trousers, good brown buckle boots recovered after ordeal. No horns, pink skin, tail, magical features or creature traits from cover companion.\nTwo isolated full views: standing front three-quarter holding the small red ball in one relaxed hand and unfastened GREEN VELVET COLLAR with brass bell in the other, label \"Recovered property\"; side/rear view same clothes and boots, one hand at coat pocket, label \"Fairground performer\". All limbs complete, exactly two arms. Large portrait same moustached face with dry skeptical expression, label \"Skeptical\". Separate smaller head/neck study labelled \"Performance collar\" depicts brief source moment with green velvet collar/brassbell fastened, no leash or other figure. A small separated personal collar/bell detail if space. Neck collar is ordinary costume/prop, no erotic framing or wounds.\nMotivated dim interior warm locallight from red drawing-room, modest amber face planes and deep plum-green/umber coat shadows, not brightdaylight, not uniform outline. Green coat must remain green, no redcloak. Honest adult face painted in broad restrained strokes.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted matte oil and ivory folio presentation only; not identity",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/title-image.jpg",
+                "role": "compatible Caff/Nimmet character identity only; not rendering or composition",
+                "sha256": "8436a593bd40f1e94e871bebd3aa31eee86675c9199be278a9cb0cd1154eda1f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+                "role": "story interior red/umber/plum palette and warm low lamplit colour only; no environment",
+                "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete story read: Caff thirty-seven, human man with moustache and green coat; boots recovered, collar reclaimed and red ball gifted.",
+              "Inspected cover Caff identity and room painting; exclude Nimmet anatomy and all scenery.",
+              "Two full views and labelled temporary collar bust preserve source states and non-graphic framing."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-421ffc7c-6139-4436-9f84-9854d95a1a13.png",
+            "outputSha256": "5f1c673c31ccf8379df4d118001a6ffdcbb904d1a5d2b217ff0bb386a6e8a664",
+            "generatorReview": [
+              "Identity/layout/source props pass, but face and hand modeling too fine/smooth compared with requested broad connected Group of Seven paint; narrow paint treatment revision required."
+            ],
+            "finishedAt": "2026-09-23T22:07:12.169459+00:00",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:07:14.120715+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-precise-style-edit",
+            "prompt": "Use case: precise-object-edit. Image1 is the complete Caff character folio to revise. Image2 is SAME STORY's thick oil painting: PAINT HANDLING ONLY, no scene contents. Preserve Image1 EXACT composition, dimensions1536x1024, ivory field, ALL name/title/labels, all poses/expressions, all clothing/colours/props, anatomy, age, adult human identity, moustache and darkwavy hair, green coat, waistcoat, boots, collar states and redball. Change ONLY RENDERING throughout figures/details:\nRepaint faces, eyes, hair, hands, limbs, garments and props as emphatically BROAD, connected, matte Group of Seven oil-paint masses inspired by Image2. Skin planes should be made of a few large deliberate ochre/pink/umber brush masses with substantial raised BRISTLE ridges, scraping and quieter underpaint; NOT smooth realistic gradients covered with tiny chip cracks. Simplify small facial microdetails and individualhair into larger structural strokes while preserving recognizable subject. EYES must become ordinary MATTE painted forms with quiet dark pupil and simple iris mass; REMOVE glossy catchlights, glassy sparkle, anime lashes and plastic shading. Keep child warm expressive youngface if Nimmet; do not age up or alter facial proportion. Connect shadow passages instead of outlining every plane with bright paint. Retain restrained interiorlight and explicit subjectcolours, no new rim light. No uniformbevelled chips or filter. Keep ALL ivory spacing EMPTY; no floorpatch, vignette, swatches, newtext or otherobjects. The result is an actual bold oil study with strongly painted faces, not a digital portrait with an impasto filter.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-421ffc7c-6139-4436-9f84-9854d95a1a13.png",
+                "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+                "sha256": "5f1c673c31ccf8379df4d118001a6ffdcbb904d1a5d2b217ff0bb386a6e8a664",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+                "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+                "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Reviewed first candidate actual pixels: source/layout/anatomy fit, but smooth face/eye handling required correction.",
+              "Immutable generated candidate attached as edit target; storypainting inspected as paint-only reference.",
+              "Scope restricted to paint handling and eye matte treatment; all identities, child/adult ages, source facts and typography preserved."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-7bfd78ab-ded7-4325-b6ae-5581c2fefa60.png",
+            "outputSha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "finishedAt": "2026-09-23T22:12:10.420038+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected full edited output: exact name/title and labels; consistent 37-year-old human cover identity, moustache/wavy dark hair/green coat and recovered boots, two unclipped complete body views.",
+              "Personal red ball and green velvet brass-bell collar retained; temporary worn-collar portrait labelled separately, no other figure or anatomical additions.",
+              "Paint correction replaces smooth facial modeling with broad connected matte ochre/umber strokes, painted eye forms and larger directional green/purple garment masses; all faces and material details substantially painted. Empty ivory support, no scenery/terrain/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-421ffc7c-6139-4436-9f84-9854d95a1a13.png",
+            "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+            "sha256": "5f1c673c31ccf8379df4d118001a6ffdcbb904d1a5d2b217ff0bb386a6e8a664",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+            "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+            "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-7bfd78ab-ded7-4325-b6ae-5581c2fefa60.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "6854468fd572171b3e5dc5b3a139192ef1e70cbcd3b14078bf17b6d790716bd0",
+        "outputSha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-421ffc7c-6139-4436-9f84-9854d95a1a13.png",
+            "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+            "sha256": "5f1c673c31ccf8379df4d118001a6ffdcbb904d1a5d2b217ff0bb386a6e8a664",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+            "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+            "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected full edited output: exact name/title and labels; consistent 37-year-old human cover identity, moustache/wavy dark hair/green coat and recovered boots, two unclipped complete body views.",
+          "Personal red ball and green velvet brass-bell collar retained; temporary worn-collar portrait labelled separately, no other figure or anatomical additions.",
+          "Paint correction replaces smooth facial modeling with broad connected matte ochre/umber strokes, painted eye forms and larger directional green/purple garment masses; all faces and material details substantially painted. Empty ivory support, no scenery/terrain/swatches."
+        ],
+        "specificationSha256": "4c3207788203a0d9583234c88cc567fc16a32b6db2460fd787d81a6145c0c8ba"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd"
+    },
+    {
+      "id": "nimmet",
+      "name": "Nimmet",
+      "role": "central child demon ally",
+      "selectionEvidence": [
+        {
+          "quote": "The child was seven feet tall, pink, and wearing a yellow party dress with cherries embroidered around the hem.",
+          "explanation": "Explicit child scale/appearance."
+        },
+        {
+          "quote": "Well, I would now.",
+          "explanation": "Friendship motivates protected return."
+        }
+      ],
+      "form": "seven-foot pink demon child, two horns and one tail",
+      "storyAppearance": {
+        "lifeStage": "Child; birthday, age not specified.",
+        "anatomy": "Humanoid girl with two small black horns, pink skin, golden eyes and whipping tail; ordinary arms/legs, no wings specified.",
+        "clothing": "Yellow party dress, cherries embroidered around hem; ivory ribbons on both horns.",
+        "equipment": "Small red ball; at end borrowed gilt headdress with fine-wire gold leaves set between horns.",
+        "scale": "Seven feet tall; much larger than ordinary human, smaller than mother.",
+        "movement": "Kneels, plays on hands and knees, bounces, bows, roars; child posture."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Cover-compatible short dark bob, rounded child face, pink skin, golden eyes; clothing hem includes explicit cherry embroidery even though cover also has cherries near neckline.",
+        "Two child full views, clearly readable tail and two ribboned black horns; label seven feet rather than adding human figure."
+      ],
+      "states": [
+        {
+          "name": "birthday",
+          "description": "Party dress with horn ribbons, red ball."
+        },
+        {
+          "name": "gift headdress",
+          "description": "Small optional separate study of gilt leaf headdress fitted between horns."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-pet-human:nimmet",
+        "links": [],
+        "evidence": "Story-local identity."
+      },
+      "output": "stories/a-pet-human/art/characters/nimmet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Image1 is the complete Nimmet character folio to revise. Image2 is SAME STORY's thick oil painting: PAINT HANDLING ONLY, no scene contents. Preserve Image1 EXACT composition, dimensions1536x1024, ivory field, ALL name/title/labels, all poses/expressions, all clothing/colours/props, anatomy, age, pink child identity, shortdark bob, two ribboned black horns and onepink tail, matte goldeneyes, yellow cherryhem dress, redball and separate gilt headdress state. Change ONLY RENDERING throughout figures/details:\nRepaint faces, eyes, hair, hands, limbs, garments and props as emphatically BROAD, connected, matte Group of Seven oil-paint masses inspired by Image2. Skin planes should be made of a few large deliberate ochre/pink/umber brush masses with substantial raised BRISTLE ridges, scraping and quieter underpaint; NOT smooth realistic gradients covered with tiny chip cracks. Simplify small facial microdetails and individualhair into larger structural strokes while preserving recognizable subject. EYES must become ordinary MATTE painted forms with quiet dark pupil and simple iris mass; REMOVE glossy catchlights, glassy sparkle, anime lashes and plastic shading. Keep child warm expressive youngface if Nimmet; do not age up or alter facial proportion. Connect shadow passages instead of outlining every plane with bright paint. Retain restrained interiorlight and explicit subjectcolours, no new rim light. No uniformbevelled chips or filter. Keep ALL ivory spacing EMPTY; no floorpatch, vignette, swatches, newtext or otherobjects. The result is an actual bold oil study with strongly painted faces, not a digital portrait with an impasto filter.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T22:03:34.247724+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only ivory reference folio, exactly1536x1024 landscape3:2. Exact name + exact title upperleft, concise readable labels, generous quiet space. Two useful complete unclipped body views, larger face study and few relevant distinguishing details. No location, scene, environment, vignette, ground/floor/terrain patch, furniture, plants, paint swatches, palette strip, decoration or extra identity.\nSTYLE: Canadian Group of Seven-influenced oil, substantial selective impasto, large CONNECTED matte colour/value masses, broad bristle strokes and quieter linking passages, scraped edges. Face/eyes/hands equally painted as clothing, expressive planes without glossy portrait rendering. No small uniform bevelled chips, CGI, anime, photographic eyes, digital rim-light or texturefilter.\nImage1 (Leora) is accepted paint and folio-spacing style ONLY, no identity, clothes or markings. Image2 cover supplies ONLY the named subject's compatible face/hair/costume identity, NOT its anime/smooth rendering nor the other person. Image3 drawing-room supplies subdued internal warm red/umber/plum LIGHT and PALETTE ONLY; no background or contents.\nExact heading \"Nimmet\"; exact title \"A Pet Human\". Show ONLY Nimmet, a charming mischievous NONHUMAN CHILD GIRL, seven feet tall but unmistakably young child proportions and face, never adultized. Pink skin, ordinary matte golden eyes, short dark bob hair from cover, exactly TWO small BLACK HORNS, each with an ivory ribbon. Exactly two arms/two legs and ONE slender whipping pink tail, simple tapered natural tip. No wings or additional horns.\nFull standing front-three-quarter holds own small red ball, full side/back playful bending pose shows entire tail and bowing child posture; keep dress modest, every hand/foot visible. Yellow party dress with cherries embroidered around HEM, ivorycollar and ribbons cover-compatible; practical plain pale yellow slippers chosen without emphasis. No adult breasts, sexy pose, makeup or high heels. Large expressive child head \"Delighted\" retains two black horns/ivory ribbons and golden eyes. Small separate head study \"Birthday gift\" wears light gold-leaf headdress BETWEEN horns; gold leaves on fine wires, never replaces/duplicates horns. Concise label \"Seven feet tall\" provides canonical scale without a second figure or ruler. Full views labelled \"Birthday\" and \"Playful bow\".\nUse room's gentle warm red/amber reflected interiorlight with cool muted plum shadow, keeping skin PINK and dress YELLOW, low soft light, no glowing eyes or sunrim. All facial planes chunky expressive matte oils rather than anime. No Caff, collar, ribbon leash, scenery or stool.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "accepted matte oil and ivory folio presentation only; not identity",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/title-image.jpg",
+                "role": "compatible Caff/Nimmet character identity only; not rendering or composition",
+                "sha256": "8436a593bd40f1e94e871bebd3aa31eee86675c9199be278a9cb0cd1154eda1f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+                "role": "story interior red/umber/plum palette and warm low lamplit colour only; no environment",
+                "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source read: seven-foot child pink skin/golden eyes/two black horns/ribbons/yellow hemcherries/tail, red ball and later headdress explicit.",
+              "Cover inspected for short dark bob and youthful identity; preserve young child presentation, not adult anatomy or smooth anime rendering.",
+              "Tail and both horns fit uncut, two full poses plus separate gift-state head, no background or scale person."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-872ea6a4-af25-4672-abd5-acfecaa739e0.png",
+            "outputSha256": "93e296bc854ca439283bddb2cbb3db8ae2cbeda6e2fcab154af75a55bdc1595a",
+            "generatorReview": [
+              "Identity, child anatomy, horns/ribbons/tail/yellow dress/hem cherries and states pass; eyes and face inherited smooth anime cover treatment instead of bold matte painted planes; narrow rendering revision required."
+            ],
+            "finishedAt": "2026-09-23T22:07:13.143353+00:00",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:07:15.091791+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-precise-style-edit",
+            "prompt": "Use case: precise-object-edit. Image1 is the complete Nimmet character folio to revise. Image2 is SAME STORY's thick oil painting: PAINT HANDLING ONLY, no scene contents. Preserve Image1 EXACT composition, dimensions1536x1024, ivory field, ALL name/title/labels, all poses/expressions, all clothing/colours/props, anatomy, age, pink child identity, shortdark bob, two ribboned black horns and onepink tail, matte goldeneyes, yellow cherryhem dress, redball and separate gilt headdress state. Change ONLY RENDERING throughout figures/details:\nRepaint faces, eyes, hair, hands, limbs, garments and props as emphatically BROAD, connected, matte Group of Seven oil-paint masses inspired by Image2. Skin planes should be made of a few large deliberate ochre/pink/umber brush masses with substantial raised BRISTLE ridges, scraping and quieter underpaint; NOT smooth realistic gradients covered with tiny chip cracks. Simplify small facial microdetails and individualhair into larger structural strokes while preserving recognizable subject. EYES must become ordinary MATTE painted forms with quiet dark pupil and simple iris mass; REMOVE glossy catchlights, glassy sparkle, anime lashes and plastic shading. Keep child warm expressive youngface if Nimmet; do not age up or alter facial proportion. Connect shadow passages instead of outlining every plane with bright paint. Retain restrained interiorlight and explicit subjectcolours, no new rim light. No uniformbevelled chips or filter. Keep ALL ivory spacing EMPTY; no floorpatch, vignette, swatches, newtext or otherobjects. The result is an actual bold oil study with strongly painted faces, not a digital portrait with an impasto filter.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-872ea6a4-af25-4672-abd5-acfecaa739e0.png",
+                "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+                "sha256": "93e296bc854ca439283bddb2cbb3db8ae2cbeda6e2fcab154af75a55bdc1595a",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+                "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+                "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Reviewed first candidate actual pixels: source/layout/anatomy fit, but smooth face/eye handling required correction.",
+              "Immutable generated candidate attached as edit target; storypainting inspected as paint-only reference.",
+              "Scope restricted to paint handling and eye matte treatment; all identities, child/adult ages, source facts and typography preserved."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4fb722ed-23c3-4d99-a5a1-87d96e990103.png",
+            "outputSha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+            "finishedAt": "2026-09-23T22:12:11.498555+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected full edited output: exact Nimmet/A Pet Human, two complete young-child body views, clear seven-feet label; pink skin, short dark bob, two black ribboned horns, one tapering tail and golden eyes consistently retained.",
+              "Yellow modest party dress has source cherry embroidery around hem; red ball and separate gold-leaf headdress state fit story; no child adultization, extra figure or invented powers.",
+              "Style revision establishes much broader matte pink facial and hand masses and grouped yellow oil strokes, removes glossy catchlights; no scenery, ground patch or palette swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-872ea6a4-af25-4672-abd5-acfecaa739e0.png",
+            "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+            "sha256": "93e296bc854ca439283bddb2cbb3db8ae2cbeda6e2fcab154af75a55bdc1595a",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+            "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+            "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4fb722ed-23c3-4d99-a5a1-87d96e990103.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "6854468fd572171b3e5dc5b3a139192ef1e70cbcd3b14078bf17b6d790716bd0",
+        "outputSha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-872ea6a4-af25-4672-abd5-acfecaa739e0.png",
+            "role": "immutable edit target: preserve all identity, text, poses, anatomy, props and exact layout",
+            "sha256": "93e296bc854ca439283bddb2cbb3db8ae2cbeda6e2fcab154af75a55bdc1595a",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+            "role": "broad connected oil masses, bristle direction and matte selective impasto ONLY; no environment",
+            "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected full edited output: exact Nimmet/A Pet Human, two complete young-child body views, clear seven-feet label; pink skin, short dark bob, two black ribboned horns, one tapering tail and golden eyes consistently retained.",
+          "Yellow modest party dress has source cherry embroidery around hem; red ball and separate gold-leaf headdress state fit story; no child adultization, extra figure or invented powers.",
+          "Style revision establishes much broader matte pink facial and hand masses and grouped yellow oil strokes, removes glossy catchlights; no scenery, ground patch or palette swatches."
+        ],
+        "specificationSha256": "e001991e8d9da73b481b6db56033afcc79bf5b46651f47bff816f29b863f74c8"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae"
+    },
+    {
+      "id": "mavrix",
+      "name": "Mavrix",
+      "role": "mother demon whose agency governs portal and protection",
+      "selectionEvidence": [
+        {
+          "quote": "I'm Mavrix",
+          "explanation": "Named mother controls human return."
+        },
+        {
+          "quote": "He must call from his end. Then I can reach through.",
+          "explanation": "Her ability has explicit boundary."
+        }
+      ],
+      "form": "towering blue-skinned adult horned demon woman",
+      "storyAppearance": {
+        "lifeStage": "Adult mother.",
+        "anatomy": "Blue hand, long clawed hands, horns almost touch chandelier; teeth as long as Caff's thumbs. No tail, wings or specific feet established.",
+        "clothing": "Blue silk gown initially, changes to black gown for evening.",
+        "equipment": "None; personally holds edges of opening with claws.",
+        "scale": "Taller than seven-foot Nimmet, exact height unspecified.",
+        "movement": "Stands, sits by window, kneels and holds opening; controlled gestures."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Continuous blue skin inferred from explicit blue hand; restrained mature face, long dark swept-back hair, paired upward dark horns are non-canon casting consistent with daughter, no copied child face.",
+        "Draped blue silk and black gown states keep body covered, plain subtle shoe tips if visible; no unsupported tail, wings or animal feet, no portal/environment."
+      ],
+      "states": [
+        {
+          "name": "afternoon",
+          "description": "Blue silk gown."
+        },
+        {
+          "name": "evening",
+          "description": "Black gown."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-pet-human:mavrix",
+        "links": [],
+        "evidence": "Story-local mother of Nimmet, no cross-story identity established."
+      },
+      "output": "stories/a-pet-human/art/characters/mavrix.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Edit ONLY Image1 complete Mavrix character sheet, preserving exact1536x1024, headings/labels, ivoryspacing, BLUE adultfemale identity, horns/hair and source BLUE SILK vs BLACK GOWN fullviews, allclaws and anatomy. Make three bounded corrections:\n1. Large upperright face portrait: slightly reduce its size/shift downward within its area so BOTH HORN TIPS are fully visible with clear ivory margin at top. Do not crop either horn or collide with hand detail. Do not change fullbody horns.\n2. In same large portrait, open her mouth a little further to clearly reveal a mouthful of LONG natural pale demon teeth, as long as an ordinaryhuman's thumb. Her lips/jaw accommodate proportionately long teeth as a towering demon. Long upper and lower teeth, not tiny human teeth and not merely two vampire fangs. Calm firm expression, no gore, drool or horror effect. Keep all skin BLUE and matte.\n3. Remove conspicuous bright ORANGE RIM LINES tracing gowns, hair and arms. Retain subdued local warm reddish reflections in a few broad planes from source interiorlamps, but most edges must join deep blue/indigo/umber values and not glow. Connected matte shadow masses, no allover outlines. Retain broad sculptural oil strokes across faces/body/material.\nNo other changes. No newprops, scene, scenery, terrain, floor, paintswatches, text or othercharacter.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T22:14:42.659399+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Produce ONE finished character-only warm ivory folio, EXACT1536x1024 landscape3:2. Exact name/storytitle upperleft, concise legible labels, two complete unclipped full forms and meaningful face/material details with calm spacing. No environment, scenery, ground/floor/terrain patches, vignette, backdrop, furnishings, extra people, paintswatches or palette strip.\nOil treatment must match attached bold corrected sheet: emphatic BROAD CONNECTED MATTE paint masses, Group of Seven influence, big directional bristle slabs and quieter connecting underpaint, selective sculptural impasto, scrapededges. FACES and EYES made of broad deliberate paint planes, not photographic/glossy portraits; simplify microdetails. Avoid evenly fragmented bevelled chips, plastic skin, glowing eyes, anime, slickrealism, cinematic rim and all-over highlights.\nExact heading \"Mavrix\"; title \"A Pet Human\". ONE towering adult demon mother. The blue hand in story is interpreted as consistent BLUE skin; mature strong angular womanface, long dark swept-back hair chosen restrainedly, TWO long gently upward curved dark horns. Tall elongated adult proportions, imposing but composed. Dark ordinary matte eyes, long slender humanlike hands ending in claws, two arms/two legs; NO tail, wings, fur, additional horns, glowing magic or invented animalfeet. Dress drapes to shoes, simple unobtrusive dark shoetips only. No childlike face, no pinkskin.\nTwo complete full figures of SAME ADULT identity: left standing three-quarter wearing BLUE SILK GOWN, long elegant modest sleeves with clawed hands visible; right full side/rear wearing BLACK evening gown, slightly turnedtowardviewer, same horns and hair, one open clawedhand. No eroticcut or jewelry; practical richsilk modestneckline, no crown/cape/ornaments. Labels \"Blue silk\" and \"Evening black\". A concise line \"Taller than Nimmet\" communicates source scale without exactmeasurement or secondperson.\nLarge separate face study with slightly parted firm mouth reveals LONG natural pale teeth; source says as long as Caff's thumbs, so proportionately large adult demon teeth, not ordinary human tinyteeth, but no gorysnarl or vampirefang-onlyeffect. Label \"Long teeth\". Large separated long bluehand/claw study, label \"Clawed hand\". Fingers5, no portal/magic effect. Image1 Nimmet supplies ONLY boldpaint style: DO NOT copy girl, face, horns size, pinkskin, yellowdress, tail orhaircut. Image2 interior supplies low motivated warm reddish reflected light in blue/midnight fabrics and deep violetshadow; NO room. Keep blue skin plainlyblue even inwarm light, no genericdaylight or glowingedge.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/nimmet.png",
+                "role": "corrected bold matte paint and ivory spacing only; no child face/anatomy, pinkskin, clothes, tail or accessories",
+                "sha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/02-birthday-drawing-room.png",
+                "role": "source interior red/umber/plum subdued warm light and broad paint masses; no scene",
+                "sha256": "4013d9d38ffd575316370b8963529a7b3cc2dddf4add2b64d71a14a05e671942",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source: mother, blue hand, tall horns/long claws/thumb-length teeth, blue silk then black gown; no supported mother tail/wings, excluded.",
+              "Corrected Nimmet actual pixels inspected; only matte broad paint/folio transferred; actual drawingroom inspected for low warm light.",
+              "Two modest draped adult states preserve same anatomy, faces and hands strongly painted, all horns/feet unclipped."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-01bfc98c-20b7-481b-b25c-1217a8513143.png",
+            "outputSha256": "8601e5745d40cdeac6c7ef491e3538f010447fb786e1a3f5ff8d6cf2b3ffb606",
+            "generatorReview": [
+              "Blue adult mother/two gown states/anatomy fit, but large portrait horn tip cropped, teeth not visibly long enough, bright orange edge lines too rim-lit. Revise framing/teeth/light locally."
+            ],
+            "finishedAt": "2026-09-23T22:20:22.224972+00:00",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:20:23.195666+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-precise-edit",
+            "prompt": "Use case: precise-object-edit. Edit ONLY Image1 complete Mavrix character sheet, preserving exact1536x1024, headings/labels, ivoryspacing, BLUE adultfemale identity, horns/hair and source BLUE SILK vs BLACK GOWN fullviews, allclaws and anatomy. Make three bounded corrections:\n1. Large upperright face portrait: slightly reduce its size/shift downward within its area so BOTH HORN TIPS are fully visible with clear ivory margin at top. Do not crop either horn or collide with hand detail. Do not change fullbody horns.\n2. In same large portrait, open her mouth a little further to clearly reveal a mouthful of LONG natural pale demon teeth, as long as an ordinaryhuman's thumb. Her lips/jaw accommodate proportionately long teeth as a towering demon. Long upper and lower teeth, not tiny human teeth and not merely two vampire fangs. Calm firm expression, no gore, drool or horror effect. Keep all skin BLUE and matte.\n3. Remove conspicuous bright ORANGE RIM LINES tracing gowns, hair and arms. Retain subdued local warm reddish reflections in a few broad planes from source interiorlamps, but most edges must join deep blue/indigo/umber values and not glow. Connected matte shadow masses, no allover outlines. Retain broad sculptural oil strokes across faces/body/material.\nNo other changes. No newprops, scene, scenery, terrain, floor, paintswatches, text or othercharacter.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-01bfc98c-20b7-481b-b25c-1217a8513143.png",
+                "role": "immutable edit target; preserve mature blue mother identity, two gown states, full figures and layout",
+                "sha256": "8601e5745d40cdeac6c7ef491e3538f010447fb786e1a3f5ff8d6cf2b3ffb606",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Inspected first output; fixes target clipped detail horn, weak explicit tooth scale and excessive edge warmth.",
+              "Only immutable target reference attached; source identity/gown states unchanged.",
+              "Both fullbody silhouettes already fit, preserved; local portrait shrink can retain quiet margin and hand space."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-15a12cfd-7eb5-45c5-b473-295651dd0933.png",
+            "outputSha256": "44266256ae00e0fce799b27043f593e0160194d51f318ae44abd4de7548f45ea",
+            "finishedAt": "2026-09-23T22:22:39.854697+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Inspected corrected complete output: exact heading/title and state labels, two tall blue adult mother views, same horns/hair, blue silk and black evening gown, no child identity copied.",
+              "All horn tips now inside sheet including portrait; open mouth makes long pointed pale teeth readable; long clawed hands supported, no invented tail/wings/animal feet or portal.",
+              "Removed strong orange rim lines; connected deep blue/black/violet masses and selective thick oil strokes now preserve subdued interior warmth. Ivory character-only sheet contains no location, terrain, ground patch or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-01bfc98c-20b7-481b-b25c-1217a8513143.png",
+            "role": "immutable edit target; preserve mature blue mother identity, two gown states, full figures and layout",
+            "sha256": "8601e5745d40cdeac6c7ef491e3538f010447fb786e1a3f5ff8d6cf2b3ffb606",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-15a12cfd-7eb5-45c5-b473-295651dd0933.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "6854468fd572171b3e5dc5b3a139192ef1e70cbcd3b14078bf17b6d790716bd0",
+        "outputSha256": "44266256ae00e0fce799b27043f593e0160194d51f318ae44abd4de7548f45ea",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-01bfc98c-20b7-481b-b25c-1217a8513143.png",
+            "role": "immutable edit target; preserve mature blue mother identity, two gown states, full figures and layout",
+            "sha256": "8601e5745d40cdeac6c7ef491e3538f010447fb786e1a3f5ff8d6cf2b3ffb606",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected corrected complete output: exact heading/title and state labels, two tall blue adult mother views, same horns/hair, blue silk and black evening gown, no child identity copied.",
+          "All horn tips now inside sheet including portrait; open mouth makes long pointed pale teeth readable; long clawed hands supported, no invented tail/wings/animal feet or portal.",
+          "Removed strong orange rim lines; connected deep blue/black/violet masses and selective thick oil strokes now preserve subdued interior warmth. Ivory character-only sheet contains no location, terrain, ground patch or swatches."
+        ],
+        "specificationSha256": "f213d342c3eb2390a6401225f8ef2c8237af814a6264fc319a512faf21edc117"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "44266256ae00e0fce799b27043f593e0160194d51f318ae44abd4de7548f45ea"
+    },
+    {
+      "id": "ostren",
+      "name": "Ostren",
+      "role": "sacrificing priest and central antagonist",
+      "nameProvenance": {
+        "sourceName": null,
+        "assignedName": "Ostren",
+        "authority": "User explicitly requests names for characters missing source names during full character collection run.",
+        "scope": "Art-only display identity; does not alter prose or establish universe canon.",
+        "distinctnessCheck": "No exact Ostren match in universe, frozen NAMES or current character specs."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The priest put on my boots before he picked up the knife.",
+          "explanation": "Opens central threat, steals property."
+        },
+        {
+          "quote": "He took it off.",
+          "explanation": "Forced to return stolen property and give away headdress in climax."
+        }
+      ],
+      "form": "adult human man",
+      "storyAppearance": {
+        "lifeStage": "Adult; exact age unspecified.",
+        "anatomy": "Bunion on left foot; ordinary human man.",
+        "clothing": "Robe; at evening gilt headdress with gold leaves trembling on fine wires. Stolen Caff boots worn until returned.",
+        "equipment": "Knife with nick near point; no staff or magical device.",
+        "scale": "Ordinary adult human.",
+        "movement": "Initially commanding, later sits heavily and capitulates."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Middle-aged broad balding face, plain pale-umber robe with restrained dark trim, chosen as art interpretation; no invented sacred insignia.",
+        "Primary evening before restitution shows headdress and tight borrowed boots; isolated nicked knife detail held low/nonviolent; no victim, altar or act of sacrifice."
+      ],
+      "states": [
+        {
+          "name": "before restitution",
+          "description": "Robe, borrowed boots and gold-leaf headdress."
+        },
+        {
+          "name": "after surrender",
+          "description": "Headdress removed; no gear replenishment invented."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-pet-human:ostren-priest",
+        "links": [],
+        "evidence": "Source unnamed priest receives user-authorized art name; no cross-story identity assumed."
+      },
+      "output": "stories/a-pet-human/art/characters/ostren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. Produce ONE finished character-only warm ivory folio, EXACT1536x1024 landscape3:2. Exact name/storytitle upperleft, concise legible labels, two complete unclipped full forms and meaningful face/material details with calm spacing. No environment, scenery, ground/floor/terrain patches, vignette, backdrop, furnishings, extra people, paintswatches or palette strip.\nOil treatment must match attached bold corrected sheet: emphatic BROAD CONNECTED MATTE paint masses, Group of Seven influence, big directional bristle slabs and quieter connecting underpaint, selective sculptural impasto, scrapededges. FACES and EYES made of broad deliberate paint planes, not photographic/glossy portraits; simplify microdetails. Avoid evenly fragmented bevelled chips, plastic skin, glowing eyes, anime, slickrealism, cinematic rim and all-over highlights.\nExact heading \"Ostren\"; story title \"A Pet Human\". Art-only assigned name of unnamed priest; ordinary HUMAN adult man, no demon anatomy. Restrained casting middle-aged balding broadface, thin grayhair roundtemples, cleanshaven, furrowedbrow, slightlysoft body. Plain pale-umber full robe with restrained dark brown trim, no invented sigils/sacredsymbols, no armour/staff. Source evening costume a GILT HEADDRESS carrying many delicate GOLD LEAVES on fine wires round its rim; compatible with the light goldleaf headdress shown on Nimmet attached but fit an ordinary humanhead with NO horns.\nTwo full uncropped views: frontthreequarter before restitution wearing goldleafheaddress and the borrowed good BROWN BUCKLE BOOTS from Caff sheet, robe hem showing boots. One hand hangs at side, otherholds plain short KNIFE low and pointingdown, safe separated pose; no violence/otherperson. Side/back full figure sameheaddress/robe/boots, bothhands visible or naturally hidden. Labels \"Before restitution\" and \"Side\". Source leftfootbunion manifests only in slightlytight leftboot fit, no medicaldetail. Larger baldface detail looking discomfited, label \"Discomfited\". Isolated finewire goldleafheaddress labelled \"Gilt headdress\", and isolated ordinary knife with clearlysmall nick nearpoint labelled \"Nicked point\". No Caff collar, purse, keys, redball, pinkskin, horns, tail, other gear or scene.\nMotivated source temple torchlight: restrained uneven amberplanes on paleumber robe and face, joined grayvioletshadow, not bright daylight or all-around goldenrim. Teethordinaryhuman. Large broad matte strokes in face/hands/robe; brightmetal only a few flat painted goldplanes. Preserve quietivory space.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T22:14:43.610547+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Produce ONE finished character-only warm ivory folio, EXACT1536x1024 landscape3:2. Exact name/storytitle upperleft, concise legible labels, two complete unclipped full forms and meaningful face/material details with calm spacing. No environment, scenery, ground/floor/terrain patches, vignette, backdrop, furnishings, extra people, paintswatches or palette strip.\nOil treatment must match attached bold corrected sheet: emphatic BROAD CONNECTED MATTE paint masses, Group of Seven influence, big directional bristle slabs and quieter connecting underpaint, selective sculptural impasto, scrapededges. FACES and EYES made of broad deliberate paint planes, not photographic/glossy portraits; simplify microdetails. Avoid evenly fragmented bevelled chips, plastic skin, glowing eyes, anime, slickrealism, cinematic rim and all-over highlights.\nExact heading \"Ostren\"; story title \"A Pet Human\". Art-only assigned name of unnamed priest; ordinary HUMAN adult man, no demon anatomy. Restrained casting middle-aged balding broadface, thin grayhair roundtemples, cleanshaven, furrowedbrow, slightlysoft body. Plain pale-umber full robe with restrained dark brown trim, no invented sigils/sacredsymbols, no armour/staff. Source evening costume a GILT HEADDRESS carrying many delicate GOLD LEAVES on fine wires round its rim; compatible with the light goldleaf headdress shown on Nimmet attached but fit an ordinary humanhead with NO horns.\nTwo full uncropped views: frontthreequarter before restitution wearing goldleafheaddress and the borrowed good BROWN BUCKLE BOOTS from Caff sheet, robe hem showing boots. One hand hangs at side, otherholds plain short KNIFE low and pointingdown, safe separated pose; no violence/otherperson. Side/back full figure sameheaddress/robe/boots, bothhands visible or naturally hidden. Labels \"Before restitution\" and \"Side\". Source leftfootbunion manifests only in slightlytight leftboot fit, no medicaldetail. Larger baldface detail looking discomfited, label \"Discomfited\". Isolated finewire goldleafheaddress labelled \"Gilt headdress\", and isolated ordinary knife with clearlysmall nick nearpoint labelled \"Nicked point\". No Caff collar, purse, keys, redball, pinkskin, horns, tail, other gear or scene.\nMotivated source temple torchlight: restrained uneven amberplanes on paleumber robe and face, joined grayvioletshadow, not bright daylight or all-around goldenrim. Teethordinaryhuman. Large broad matte strokes in face/hands/robe; brightmetal only a few flat painted goldplanes. Preserve quietivory space.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/nimmet.png",
+                "role": "bold corrected oil handling and compatible fine-wire gold-leaf gift headdress shape only; no demon or child identity",
+                "sha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "same stolen/recovered good brown buckle boots design only; not human face/clothes/props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/interiors/01-temple-altar.png",
+                "role": "temple torch-lit subdued amber/violet value pattern and broad paint masses; no scene",
+                "sha256": "03ffdbb20597ce0fc4c4bc9486b789573e85959bb1347af001d94bc4997a2b14",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source: sustained priest antagonist unnamed; user authorized distinct art-only name Ostren, checked not present in universe/NAMES/specs.",
+              "Actual completed Nimmet headdress and Caff boots inspected; restricted reference roles preserve source-compatible objects only.",
+              "Ordinary human anatomy, robe/borrowedboots/nickedknife/goldleafheaddress source-supported; no victim or sacrifice scene, two complete isolated poses."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-af3b6737-f891-4a42-b92b-630993232b6c.png",
+            "outputSha256": "b5881e161a64ff90f8615b846ceb11342dcac31a9683a0d25010a779caaf97a2",
+            "finishedAt": "2026-09-23T22:20:21.248905+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual complete output inspected: Ostren/A Pet Human and all labels legible, consistent ordinary middle-aged human man with no demon anatomy, two complete robe/boot views.",
+              "Compatible gold leaves on fine wires form headdress worn on ordinary head and isolated detail; borrowed Caff buckle boots preserved; plain knife shows small nick near point, held downward without scene or victim.",
+              "Broad connected matte ochre/umber robe and facial planes with sculptural raised strokes and restrained violet shadows, no invented sacred symbols, scenery, terrain or swatches; assigned art-only name documented."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/nimmet.png",
+            "role": "bold corrected oil handling and compatible fine-wire gold-leaf gift headdress shape only; no demon or child identity",
+            "sha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "same stolen/recovered good brown buckle boots design only; not human face/clothes/props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/01-temple-altar.png",
+            "role": "temple torch-lit subdued amber/violet value pattern and broad paint masses; no scene",
+            "sha256": "03ffdbb20597ce0fc4c4bc9486b789573e85959bb1347af001d94bc4997a2b14",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-af3b6737-f891-4a42-b92b-630993232b6c.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "6854468fd572171b3e5dc5b3a139192ef1e70cbcd3b14078bf17b6d790716bd0",
+        "outputSha256": "b5881e161a64ff90f8615b846ceb11342dcac31a9683a0d25010a779caaf97a2",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/nimmet.png",
+            "role": "bold corrected oil handling and compatible fine-wire gold-leaf gift headdress shape only; no demon or child identity",
+            "sha256": "d79d421fc8e3697d3570adeb9bea98d8655d0953fd14fbe3170039b70078efae",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "same stolen/recovered good brown buckle boots design only; not human face/clothes/props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/interiors/01-temple-altar.png",
+            "role": "temple torch-lit subdued amber/violet value pattern and broad paint masses; no scene",
+            "sha256": "03ffdbb20597ce0fc4c4bc9486b789573e85959bb1347af001d94bc4997a2b14",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual complete output inspected: Ostren/A Pet Human and all labels legible, consistent ordinary middle-aged human man with no demon anatomy, two complete robe/boot views.",
+          "Compatible gold leaves on fine wires form headdress worn on ordinary head and isolated detail; borrowed Caff buckle boots preserved; plain knife shows small nick near point, held downward without scene or victim.",
+          "Broad connected matte ochre/umber robe and facial planes with sculptural raised strokes and restrained violet shadows, no invented sacred symbols, scenery, terrain or swatches; assigned art-only name documented."
+        ],
+        "specificationSha256": "ef16db719523425c7ee7bacea3eea0dc6585f1702fcd61466a168fa6a834d648"
+      },
+      "references": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "b5881e161a64ff90f8615b846ceb11342dcac31a9683a0d25010a779caaf97a2"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "6854468fd572171b3e5dc5b3a139192ef1e70cbcd3b14078bf17b6d790716bd0"
+}

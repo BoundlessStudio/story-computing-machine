@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 1,
+  "slug": "by-tooth-and-threshold",
+  "title": "By Tooth and Threshold",
+  "source": "stories/by-tooth-and-threshold/story.md",
+  "sourceSha256": "81b62948ac452677bc160e3489485facfe070b63e11e48e1b3062d0ad5f033f5",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story read. Dev and Audra co-lead escape and negotiation. The unnamed setter directly drives the confrontation. Human/wolf Audra one identity.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Dispatcher and emergency responders",
+      "reason": "Peripheral phone/logistics roles with no substantial individual presence."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/premise.md#Knowledge and connection",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Memory, transformation, copies, and branches",
+    "universe/characters.md searched for Dev Kaylor and Audra Liske; no matches",
+    "stories/NAMES.md and finished prose/reviews searched for Varric and Sennock; no collision"
+  ],
+  "characters": [
+    {
+      "id": "dev-kaylor",
+      "name": "Dev Kaylor",
+      "role": "Human rescuer and viewpoint co-protagonist",
+      "naming": {
+        "sourceName": "Dev Kaylor",
+        "sourceRole": "Human rescuer and viewpoint co-protagonist",
+        "provenance": "Exact source name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Dev Kaylor was trying to decide whether a trap that size belonged in an evidence bag or under a welding blanket.",
+          "line": 11,
+          "explanation": "Viewpoint and evidence dilemma."
+        },
+        {
+          "quote": "I mean I carry the box.",
+          "line": 179,
+          "explanation": "Shares risk and carries shielded signal."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Adult human man",
+        "lifeStage": "About thirty or a little older",
+        "proportions": "About33 lean man, medium brown skin, close short tight black curls, long oval face, broad straight nose, short neat moustache/chin stubble. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown boots. LEFT wristwatch art choice, no injured hand wrap.",
+        "markings": "Wears jeans, gloves, boots and wristwatch used as timer. Uses canvas tool bag, phone, rope, gate clip, headlamp, gauze and water. About thirty or a little older, similar to Audra. Face/skin/hair unspecified.",
+        "materials": "Human skin/hair and modern work fabric",
+        "clothing": "About33 lean man, medium brown skin, close short tight black curls, long oval face, broad straight nose, short neat moustache/chin stubble. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown boots. LEFT wristwatch art choice, no injured hand wrap.",
+        "equipment": "Canvas bag, gloves, watch, phone, headlamp and rope coil; no whole trap or installed scene.",
+        "scale": "Ordinary adult human, exact dimensions unspecified",
+        "movement": "Grounded practical human stance",
+        "distinctiveFeatures": "About33 lean man, medium brown skin, close short tight black curls, long oval face, broad straight nose, short neat moustache/chin stubble. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown boots. LEFT wristwatch art choice, no injured hand wrap."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Wears jeans, gloves, boots and wristwatch used as timer.",
+        "Local non-canon story fact: Uses canvas tool bag, phone, rope, gate clip, headlamp, gauze and water.",
+        "Local non-canon story fact: About thirty or a little older, similar to Audra. Face/skin/hair unspecified."
+      ],
+      "visualInterpretation": [
+        "About33 lean man, medium brown skin, close short tight black curls, long oval face, broad straight nose, short neat moustache/chin stubble. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown boots. LEFT wristwatch art choice, no injured hand wrap.",
+        "Canvas bag, gloves, watch, phone, headlamp and rope coil; no whole trap or installed scene.",
+        "All source-unspecified face, coloration, clothing particulars and exact age remain art interpretation. Subdued cool dusk lighting; no bright studio fill."
+      ],
+      "states": [
+        {
+          "name": "Dusk encounter",
+          "description": "Same practical clothes throughout; hands may wear work gloves or be empty. No injury."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "by-tooth-and-threshold:dev-kaylor",
+        "links": [],
+        "evidence": "No matching shared-authority identity; no recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+          "inspected": true,
+          "notes": "Actual broad face/hair/fabric paint inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+          "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+          "inspected": true,
+          "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+          "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/title-image.jpg",
+          "role": "Inspected compatible Audra wet black hair/rain-dark coat/boots cues only; not rendering",
+          "inspected": true,
+          "notes": "Source RIGHT leg injury controls over ambiguous cover orientation; anime/gloss rejected.",
+          "sha256": "6682510fd9ea95fac7e28567621d6b8909f12dcd04e3139687046a15c1215ca0"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/interiors/02-mudroom-first-aid-bench.png",
+          "role": "Inspected metal/fabric color and broad paint only",
+          "inspected": true,
+          "notes": "Amber/slate material masses; no room or furniture transfer.",
+          "sha256": "17a27d64224026889eda069441e5444fb5cc22f31e96b89942b0a3bd8e39af12"
+        }
+      ],
+      "output": "stories/by-tooth-and-threshold/art/characters/dev-kaylor.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Create ONE 1536x1024 landscape character-only oil reference folio on plain LIGHT WARM IVORY. Exact readable dark serif personal name and smaller title 'By Tooth and Threshold'. One identity only, useful complete views with uncropped feet and head, a few face/features/personal-equipment details, ample quiet ivory. No scene, location, vignette, furniture, floor, terrain patch, cast ground shadow, colour swatches or palette strips. FIRST reference supplies only actual substantial oil construction and folio spacing, NEVER its person's identity, face, hair, red coat or fantasy clothing. SECOND supplies cool dusk colour/value relationships and broad connected masses, NEVER its trees/road/landscape. Canadian Group of Seven-inspired broad connected opaque paint, directional bristles and selective thick impasto with quieter joins. Paint the face, eyes and hair fully, no photo-smooth skin or plastic gloss; no anime, CGI, uniformly beveled chips. Subdued cool dusk illumination and limited muted warm reflection, connected shadow masses, no bright white studio light or theatrical rim. Human figures in modern work clothes. All repeated appearances same person, outfit, markings and injury side. Short useful labels only, no invented prose.\nHeading 'Dev Kaylor'. Three full-body views front three-quarter, side and back, and two differently expressive painted head studies (wary and listening). Man about 33, medium brown skin, close cropped tight black curls, long oval face, broad straight nose, neat short moustache and chin stubble, lean workman's build. Absolutely distinct from FIRST reference's young swept-haired pale face. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown work boots, work gloves, watch on LEFT wrist. Carry canvas tool bag in one view, leave hands relaxed in others. Small isolated phone, headlamp and rope coil; practical no decorative weapons or fantasy costume. No injury bandage on his hand: past groundsheet protection was temporary.",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+            "inspected": true,
+            "notes": "Actual broad face/hair/fabric paint inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+            "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+            "inspected": true,
+            "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+            "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:16:11.295Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only oil reference folio on plain LIGHT WARM IVORY. Exact readable dark serif personal name and smaller title 'By Tooth and Threshold'. One identity only, useful complete views with uncropped feet and head, a few face/features/personal-equipment details, ample quiet ivory. No scene, location, vignette, furniture, floor, terrain patch, cast ground shadow, colour swatches or palette strips. FIRST reference supplies only actual substantial oil construction and folio spacing, NEVER its person's identity, face, hair, red coat or fantasy clothing. SECOND supplies cool dusk colour/value relationships and broad connected masses, NEVER its trees/road/landscape. Canadian Group of Seven-inspired broad connected opaque paint, directional bristles and selective thick impasto with quieter joins. Paint the face, eyes and hair fully, no photo-smooth skin or plastic gloss; no anime, CGI, uniformly beveled chips. Subdued cool dusk illumination and limited muted warm reflection, connected shadow masses, no bright white studio light or theatrical rim. Human figures in modern work clothes. All repeated appearances same person, outfit, markings and injury side. Short useful labels only, no invented prose.\nHeading 'Dev Kaylor'. Three full-body views front three-quarter, side and back, and two differently expressive painted head studies (wary and listening). Man about 33, medium brown skin, close cropped tight black curls, long oval face, broad straight nose, neat short moustache and chin stubble, lean workman's build. Absolutely distinct from FIRST reference's young swept-haired pale face. Navy short zip work jacket, gray T-shirt, worn blue jeans, brown work boots, work gloves, watch on LEFT wrist. Carry canvas tool bag in one view, leave hands relaxed in others. Small isolated phone, headlamp and rope coil; practical no decorative weapons or fantasy costume. No injury bandage on his hand: past groundsheet protection was temporary.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+                "inspected": true,
+                "notes": "Actual broad face/hair/fabric paint inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+                "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+                "inspected": true,
+                "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+                "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-aa9c66e9-32cd-45c2-958a-90d4e1862cd4.png",
+            "outputSha256": "0f3f00462487a626cda984998c2af1dcc003b52f413dcb3b3ff1c847b0647e73",
+            "savedPath": "stories/by-tooth-and-threshold/art/characters/dev-kaylor.png",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:25:36.280542+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T23:25:36.280542+00:00",
+        "sourceSha256": "81b62948ac452677bc160e3489485facfe070b63e11e48e1b3062d0ad5f033f5",
+        "outputSha256": "0f3f00462487a626cda984998c2af1dcc003b52f413dcb3b3ff1c847b0647e73",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+            "inspected": true,
+            "notes": "Actual broad face/hair/fabric paint inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+            "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+            "inspected": true,
+            "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+            "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+          }
+        ],
+        "evidence": [
+          "Inspected actual three complete views and heads: distinct dark curled hair/moustache identity, jeans, gloves, watch and canvas bag, modern phone/headlamp/rope. No unearned injury or borrowed fantasy clothes. Fully painted facial planes.",
+          "Exact name/title readable; character-only warm ivory with no environment, ground patch or swatches. Broad opaque connected oil and selective thick paint, source-specific subdued values."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "0dbc41c0b6a71628bda0c60f36934e0e146572095433709fc9fa5265bf612824"
+      },
+      "outputSha256": "0f3f00462487a626cda984998c2af1dcc003b52f413dcb3b3ff1c847b0647e73"
+    },
+    {
+      "id": "audra-liske",
+      "name": "Audra Liske",
+      "role": "Injured shapeshifter co-protagonist directing mutual escape",
+      "naming": {
+        "sourceName": "Audra Liske",
+        "sourceRole": "Injured shapeshifter co-protagonist directing mutual escape",
+        "provenance": "Exact source name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Audra Liske. You pulled the trap off me four nights ago.",
+          "line": 33,
+          "explanation": "Names human and wolf as one."
+        },
+        {
+          "quote": "Her coat was rough charcoal along the back and wet-black at the shoulders. The right foreleg hovered above the mat.",
+          "line": 237,
+          "explanation": "Exact wolf appearance/injury."
+        }
+      ],
+      "form": "One adult woman identity with distinct human and enormous quadrupedal wolf forms",
+      "storyAppearance": {
+        "anatomy": "One adult woman identity with distinct human and enormous quadrupedal wolf forms",
+        "lifeStage": "About thirty or a little older",
+        "proportions": "Lean adult32, pale olive skin, long blunt mature face, wet straight black jaw/neck-length hair from compatible cover. Dark raincoat/cargo trousers/black-brown lace boots. Wolf ordinary canine anatomy, enormous size, ordinary brown eyes, dark rough fur. Never glowing eyes or upright werewolf.",
+        "markings": "Human about thirty or older, rain-dark coat, RIGHT trouser seam slit and pinned, boots. Pale taut pain-strained skin and scraped hands. Two pressure cuts above RIGHT boot dressed with gauze; weight off that leg. Wolf enormous, rough charcoal back, wet-black shoulders and injured RIGHT foreleg held lifted; clothing merges entirely. Voluntary seventy-second changes; repeat within an hour brings bleeding, pain and fever. No stable hybrid form.",
+        "materials": "Human skin/hair/fabric and wolf rough fur",
+        "clothing": "Lean adult32, pale olive skin, long blunt mature face, wet straight black jaw/neck-length hair from compatible cover. Dark raincoat/cargo trousers/black-brown lace boots. Wolf ordinary canine anatomy, enormous size, ordinary brown eyes, dark rough fur. Never glowing eyes or upright werewolf.",
+        "equipment": "Human right trouser pins/gauze; wolf no separate clothes, wrap, collar, leash or props.",
+        "scale": "Enormous wolf, ordinary adult woman; exact dimensions unspecified",
+        "movement": "Injured right limb protected; weight on healthy limbs",
+        "distinctiveFeatures": "Lean adult32, pale olive skin, long blunt mature face, wet straight black jaw/neck-length hair from compatible cover. Dark raincoat/cargo trousers/black-brown lace boots. Wolf ordinary canine anatomy, enormous size, ordinary brown eyes, dark rough fur. Never glowing eyes or upright werewolf."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Human about thirty or older, rain-dark coat, RIGHT trouser seam slit and pinned, boots. Pale taut pain-strained skin and scraped hands.",
+        "Local non-canon story fact: Two pressure cuts above RIGHT boot dressed with gauze; weight off that leg.",
+        "Local non-canon story fact: Wolf enormous, rough charcoal back, wet-black shoulders and injured RIGHT foreleg held lifted; clothing merges entirely.",
+        "Local non-canon story fact: Voluntary seventy-second changes; repeat within an hour brings bleeding, pain and fever. No stable hybrid form."
+      ],
+      "visualInterpretation": [
+        "Lean adult32, pale olive skin, long blunt mature face, wet straight black jaw/neck-length hair from compatible cover. Dark raincoat/cargo trousers/black-brown lace boots. Wolf ordinary canine anatomy, enormous size, ordinary brown eyes, dark rough fur. Never glowing eyes or upright werewolf.",
+        "Human right trouser pins/gauze; wolf no separate clothes, wrap, collar, leash or props.",
+        "All source-unspecified face, coloration, clothing particulars and exact age remain art interpretation. Subdued cool dusk lighting; no bright studio fill."
+      ],
+      "states": [
+        {
+          "name": "Human injured",
+          "description": "Pinned right trouser seam, gauze above right boot, weight on left leg."
+        },
+        {
+          "name": "Wolf injured",
+          "description": "Enormous charcoal/black quadruped, right foreleg lifted, restrained wound stain; no clothes or wraps."
+        },
+        {
+          "name": "Human returned",
+          "description": "Restored same clothing, fever/exhaustion; right leg dressing renewed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "by-tooth-and-threshold:audra-liske",
+        "links": [],
+        "evidence": "No matching shared-authority identity; no recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+          "inspected": true,
+          "notes": "Actual broad face/hair/fabric paint inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+          "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+          "inspected": true,
+          "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+          "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/title-image.jpg",
+          "role": "Inspected compatible Audra wet black hair/rain-dark coat/boots cues only; not rendering",
+          "inspected": true,
+          "notes": "Source RIGHT leg injury controls over ambiguous cover orientation; anime/gloss rejected.",
+          "sha256": "6682510fd9ea95fac7e28567621d6b8909f12dcd04e3139687046a15c1215ca0"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/interiors/02-mudroom-first-aid-bench.png",
+          "role": "Inspected metal/fabric color and broad paint only",
+          "inspected": true,
+          "notes": "Amber/slate material masses; no room or furniture transfer.",
+          "sha256": "17a27d64224026889eda069441e5444fb5cc22f31e96b89942b0a3bd8e39af12"
+        }
+      ],
+      "output": "stories/by-tooth-and-threshold/art/characters/audra-liske.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precisely edit only the large full wolf's forelegs in this character folio. Source: Audra's RIGHT foreleg is wounded and held OFF the ground, the LEFT is healthy and supports her. Current image incorrectly puts wound on planted near foreleg while lifting the opposite healthy foreleg. KEEP WOUND ON SAME NEAR RIGHT FORELEG but bend and raise THAT near right leg, paw held curled off implied ground. Lower FAR LEFT foreleg to carry weight, no wound on it. Exactly FOUR wolf legs total: two rear planted, far left front planted, near right front lifted with wound. Preserve wolf's orientation, charcoal-black body, dark shoulders, head, every other pixel and all human views/right trouser injuries, name/title, plain ivory, existing thick connected oil style and dark lighting. No new props/scenes or labels. No extra limbs, no bandage on wolf.",
+        "references": [
+          {
+            "sha256": "c32040419222e09063b19f6cac7d3195f8896e33c01420b3d6b002ffcb79b3e6",
+            "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+            "inspected": true,
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-73f92b29-e0c5-49dc-ae6e-f907513a32fc.png"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T23:16:11.295Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only oil reference folio on plain LIGHT WARM IVORY. Exact readable dark serif personal name and smaller title 'By Tooth and Threshold'. One identity only, useful complete views with uncropped feet and head, a few face/features/personal-equipment details, ample quiet ivory. No scene, location, vignette, furniture, floor, terrain patch, cast ground shadow, colour swatches or palette strips. FIRST reference supplies only actual substantial oil construction and folio spacing, NEVER its person's identity, face, hair, red coat or fantasy clothing. SECOND supplies cool dusk colour/value relationships and broad connected masses, NEVER its trees/road/landscape. Canadian Group of Seven-inspired broad connected opaque paint, directional bristles and selective thick impasto with quieter joins. Paint the face, eyes and hair fully, no photo-smooth skin or plastic gloss; no anime, CGI, uniformly beveled chips. Subdued cool dusk illumination and limited muted warm reflection, connected shadow masses, no bright white studio light or theatrical rim. Human figures in modern work clothes. All repeated appearances same person, outfit, markings and injury side. Short useful labels only, no invented prose.\nHeading 'Audra Liske'. ONE PERSON IN TWO DISTINCT FORMS: arrange two full HUMAN views at left (front three-quarter and rear three-quarter), one large FULL WOLF lateral three-quarter at upper right, human face and wolf head detail beneath, and a small right trouser-leg/pin/bandage detail. No intermediate monster or hybrid. Human about32, lean, pale olive pain-strained skin, long blunt mature face, wet straight BLACK jaw/neck-length hair, normal adult eyes, determined restrained expression, absolutely no old gray bun or borrowed style-reference face. Short dark raincoat, dark cargo trousers, rugged black-brown lace boots. Human RIGHT trouser seam cut and fastened with safety pins, clean gauze above RIGHT boot; in front-facing view this is VIEWER LEFT. Weight on healthy LEFT leg. Wolf enormous but normal quadrupedal wolf anatomy, rough CHARCOAL fur along back and WET BLACK shoulders, ordinary brown eyes without glow. WOLF RIGHT FORELEG lifted, small restrained dark wound stain above wrist; FOUR total legs and long full tail. Clothes have merged into wolf body: wolf has NO trousers, coat, boots, wraps, collar or leash. Match human/wolf injury side; do not copy cover's potentially ambiguous leg. Non-graphic dignified injury, no exposed wounds. Keep dark fur actually near black through cool mass separation, no silver all-over shine or studio daylight.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+                "inspected": true,
+                "notes": "Actual broad face/hair/fabric paint inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+                "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+                "inspected": true,
+                "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+                "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-73f92b29-e0c5-49dc-ae6e-f907513a32fc.png",
+            "outputSha256": "c32040419222e09063b19f6cac7d3195f8896e33c01420b3d6b002ffcb79b3e6"
+          },
+          {
+            "status": "selected",
+            "prompt": "Precisely edit only the large full wolf's forelegs in this character folio. Source: Audra's RIGHT foreleg is wounded and held OFF the ground, the LEFT is healthy and supports her. Current image incorrectly puts wound on planted near foreleg while lifting the opposite healthy foreleg. KEEP WOUND ON SAME NEAR RIGHT FORELEG but bend and raise THAT near right leg, paw held curled off implied ground. Lower FAR LEFT foreleg to carry weight, no wound on it. Exactly FOUR wolf legs total: two rear planted, far left front planted, near right front lifted with wound. Preserve wolf's orientation, charcoal-black body, dark shoulders, head, every other pixel and all human views/right trouser injuries, name/title, plain ivory, existing thick connected oil style and dark lighting. No new props/scenes or labels. No extra limbs, no bandage on wolf.",
+            "tool": "image_gen.imagegen",
+            "attempt": 2,
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "requestedAt": "2026-09-23T23:21:42.5978165Z",
+            "references": [
+              {
+                "sha256": "c32040419222e09063b19f6cac7d3195f8896e33c01420b3d6b002ffcb79b3e6",
+                "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+                "inspected": true,
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-73f92b29-e0c5-49dc-ae6e-f907513a32fc.png"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-5747ef86-1525-44e0-a17e-2df4fd0ba115.png",
+            "savedPath": "stories/by-tooth-and-threshold/art/characters/audra-liske.png",
+            "outputSha256": "e0975b315a8140e05bbd389f0f7a40f30b69b7c3382c58585be3d0368fb4485b",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:25:36.313943+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T23:25:36.313943+00:00",
+        "sourceSha256": "81b62948ac452677bc160e3489485facfe070b63e11e48e1b3062d0ad5f033f5",
+        "outputSha256": "e0975b315a8140e05bbd389f0f7a40f30b69b7c3382c58585be3d0368fb4485b",
+        "references": [
+          {
+            "sha256": "c32040419222e09063b19f6cac7d3195f8896e33c01420b3d6b002ffcb79b3e6",
+            "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+            "inspected": true,
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-73f92b29-e0c5-49dc-ae6e-f907513a32fc.png"
+          }
+        ],
+        "evidence": [
+          "Inspected actual two human views and one complete wolf: same identity in separate forms; right trouser seam pinned and gauze above right boot. Corrected wolf now lifts wounded near RIGHT foreleg while healthy far LEFT foreleg bears weight; four total legs. Charcoal rough fur/wet-black shoulders, no clothing on wolf, ordinary nonglowing eyes.",
+          "Exact name/title readable; character-only warm ivory with no environment, ground patch or swatches. Broad opaque connected oil and selective thick paint, source-specific subdued values."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "28c900436727ffb526255b0323a1090ce472d323e8148eb6991d057707fc67fc"
+      },
+      "outputSha256": "e0975b315a8140e05bbd389f0f7a40f30b69b7c3382c58585be3d0368fb4485b"
+    },
+    {
+      "id": "varric-sennock",
+      "name": "Varric Sennock",
+      "role": "Unnamed trap setter; active central antagonist",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "The setter / driver",
+        "provenance": "Art-only personal name assigned under explicit user instruction; clean name-memory search. No prose rename or canon addition."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The driver stepped out carrying a short launcher in one hand and a receiver in the other.",
+          "line": 269,
+          "explanation": "Controls active confrontation."
+        },
+        {
+          "quote": "Dev could see no part of his face clearly under the brim of his cap.",
+          "line": 269,
+          "explanation": "Keep face shaded."
+        }
+      ],
+      "form": "Adult human man, face obscured beneath cap brim",
+      "storyAppearance": {
+        "anatomy": "Adult human man, face obscured beneath cap brim",
+        "lifeStage": "Adult, age45 interpretation",
+        "proportions": "Stocky medium-height adult45 interpretation, dark olive short field coat, brown heavy trousers, muddy black boots, slate billed cap. Face remains connected dark cool shadow beneath brim, no clear invented facial portrait.",
+        "markings": "Male setter carries short dart launcher, receiver and aluminum loop pole with cable ring. Face not clearly seen under cap brim. No source age, build or costume colors. Commands do not control Audra; loses equipment and escapes by vehicle.",
+        "materials": "Human skin/hair and modern work fabric",
+        "clothing": "Stocky medium-height adult45 interpretation, dark olive short field coat, brown heavy trousers, muddy black boots, slate billed cap. Face remains connected dark cool shadow beneath brim, no clear invented facial portrait.",
+        "equipment": "Short dart launcher, dark simple receiver and full aluminum loop pole; optional bent disabled loop detail. No internal engineering.",
+        "scale": "Ordinary adult human, exact dimensions unspecified",
+        "movement": "Grounded practical human stance",
+        "distinctiveFeatures": "Stocky medium-height adult45 interpretation, dark olive short field coat, brown heavy trousers, muddy black boots, slate billed cap. Face remains connected dark cool shadow beneath brim, no clear invented facial portrait."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male setter carries short dart launcher, receiver and aluminum loop pole with cable ring.",
+        "Local non-canon story fact: Face not clearly seen under cap brim. No source age, build or costume colors.",
+        "Local non-canon story fact: Commands do not control Audra; loses equipment and escapes by vehicle."
+      ],
+      "visualInterpretation": [
+        "Stocky medium-height adult45 interpretation, dark olive short field coat, brown heavy trousers, muddy black boots, slate billed cap. Face remains connected dark cool shadow beneath brim, no clear invented facial portrait.",
+        "Short dart launcher, dark simple receiver and full aluminum loop pole; optional bent disabled loop detail. No internal engineering.",
+        "All source-unspecified face, coloration, clothing particulars and exact age remain art interpretation. Subdued cool dusk lighting; no bright studio fill."
+      ],
+      "states": [
+        {
+          "name": "Encounter",
+          "description": "Same capped dark clothes and shaded face, source-supported capture equipment."
+        },
+        {
+          "name": "Disabled pole",
+          "description": "Small optional isolated bent/kinked loop detail; no location."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "by-tooth-and-threshold:varric-sennock",
+        "links": [],
+        "evidence": "No matching shared-authority identity; no recurrence inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+          "inspected": true,
+          "notes": "Actual broad face/hair/fabric paint inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+          "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+          "inspected": true,
+          "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+          "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/title-image.jpg",
+          "role": "Inspected compatible Audra wet black hair/rain-dark coat/boots cues only; not rendering",
+          "inspected": true,
+          "notes": "Source RIGHT leg injury controls over ambiguous cover orientation; anime/gloss rejected.",
+          "sha256": "6682510fd9ea95fac7e28567621d6b8909f12dcd04e3139687046a15c1215ca0"
+        },
+        {
+          "path": "stories/by-tooth-and-threshold/art/interiors/02-mudroom-first-aid-bench.png",
+          "role": "Inspected metal/fabric color and broad paint only",
+          "inspected": true,
+          "notes": "Amber/slate material masses; no room or furniture transfer.",
+          "sha256": "17a27d64224026889eda069441e5444fb5cc22f31e96b89942b0a3bd8e39af12"
+        }
+      ],
+      "output": "stories/by-tooth-and-threshold/art/characters/varric-sennock.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Preserve this full character-only oil folio, exact identity/cap/clothes/poses/equipment/layout/ivory/text, make TWO local fidelity edits. (1) Face in ALL full views and both head studies must be obscure under cap, not an identifiable detailed portrait. Merge nose/cheek/mouth/beard planes into deeper connected cool charcoal/umber shadow continuing below brim; leave only faint broad hinted planes, no bright facial features. It is natural cap shadow at dusk, not black paint/cloth/mask, no glowing eyes. Ears/hair can retain muted existing paint. (2) Small upper-right detail labeled 'Disabled loop': the source has aluminum shaft bent/folded and wire kinked beyond use. Show the existing small isolated shaft end sharply bent about45degrees and cable loop visibly crumpled/kinked, no added objects. Keep large intact loop pole intact. Keep everything else unchanged, broad opaque thick matte oil, no smoother rendering, no background scene/swatches.",
+        "references": [
+          {
+            "sha256": "2a352d1c26275f5193890440f38ec8a9224b371a35752b1365a588c75e91b3a1",
+            "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+            "inspected": true,
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-1cedc58a-9115-4ccf-b5ee-51db4e842e89.png"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T23:16:11.295Z",
+            "prompt": "Create ONE 1536x1024 landscape character-only oil reference folio on plain LIGHT WARM IVORY. Exact readable dark serif personal name and smaller title 'By Tooth and Threshold'. One identity only, useful complete views with uncropped feet and head, a few face/features/personal-equipment details, ample quiet ivory. No scene, location, vignette, furniture, floor, terrain patch, cast ground shadow, colour swatches or palette strips. FIRST reference supplies only actual substantial oil construction and folio spacing, NEVER its person's identity, face, hair, red coat or fantasy clothing. SECOND supplies cool dusk colour/value relationships and broad connected masses, NEVER its trees/road/landscape. Canadian Group of Seven-inspired broad connected opaque paint, directional bristles and selective thick impasto with quieter joins. Paint the face, eyes and hair fully, no photo-smooth skin or plastic gloss; no anime, CGI, uniformly beveled chips. Subdued cool dusk illumination and limited muted warm reflection, connected shadow masses, no bright white studio light or theatrical rim. Human figures in modern work clothes. All repeated appearances same person, outfit, markings and injury side. Short useful labels only, no invented prose.\nHeading 'Varric Sennock'. Three full-body views front three-quarter, profile and rear. Adult male trap setter, about45 as restrained interpretation, stocky medium-height practical build, dark OLIVE short field coat, dull BROWN heavy trousers, muddy black boots, low SLATE billed cap. Source says no part of face could be seen clearly under cap: keep eye/brow/nose regions obscured in DEEP CONNECTED COOL SHADOW below brim in all views, no bright invented facial portrait, no mask/skull/glow. No Kelro face or swept hair. One front view holds simple compact SHORT DART LAUNCHER lowered safely at his side and rectangular receiver in other hand; other views empty relaxed hands. At right isolated full aluminum LOOP POLE with loose wire loop and ordinary simple receiver; small bent/kinked pole-end detail allowed labeled 'Disabled loop'. All equipment broad matte painted exterior only, no instructions, ammunition cutaways, invented laser or ornate weapons. No vehicle or trap installation, no location.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Inspected human oil construction and ivory layout only; never face, hair or clothing identity",
+                "inspected": true,
+                "notes": "Actual broad face/hair/fabric paint inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/by-tooth-and-threshold/art/landscapes/01-the-wet-lane-at-dusk.png",
+                "role": "Inspected same-story cool dusk light and broad connected paint; no setting",
+                "inspected": true,
+                "notes": "Blue-charcoal and limited salmon/ochre reflections; no terrain transfer.",
+                "sha256": "e9504081c39e2eee0794f855715470f7be9022096bad18dbc0f5a4ea15446ad8"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-1cedc58a-9115-4ccf-b5ee-51db4e842e89.png",
+            "outputSha256": "2a352d1c26275f5193890440f38ec8a9224b371a35752b1365a588c75e91b3a1"
+          },
+          {
+            "status": "selected",
+            "prompt": "Preserve this full character-only oil folio, exact identity/cap/clothes/poses/equipment/layout/ivory/text, make TWO local fidelity edits. (1) Face in ALL full views and both head studies must be obscure under cap, not an identifiable detailed portrait. Merge nose/cheek/mouth/beard planes into deeper connected cool charcoal/umber shadow continuing below brim; leave only faint broad hinted planes, no bright facial features. It is natural cap shadow at dusk, not black paint/cloth/mask, no glowing eyes. Ears/hair can retain muted existing paint. (2) Small upper-right detail labeled 'Disabled loop': the source has aluminum shaft bent/folded and wire kinked beyond use. Show the existing small isolated shaft end sharply bent about45degrees and cable loop visibly crumpled/kinked, no added objects. Keep large intact loop pole intact. Keep everything else unchanged, broad opaque thick matte oil, no smoother rendering, no background scene/swatches.",
+            "tool": "image_gen.imagegen",
+            "attempt": 2,
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "requestedAt": "2026-09-23T23:21:42.6041254Z",
+            "references": [
+              {
+                "sha256": "2a352d1c26275f5193890440f38ec8a9224b371a35752b1365a588c75e91b3a1",
+                "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+                "inspected": true,
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-1cedc58a-9115-4ccf-b5ee-51db4e842e89.png"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-c06e3e17-f545-449e-86eb-07d7378d6882.png",
+            "savedPath": "stories/by-tooth-and-threshold/art/characters/varric-sennock.png",
+            "outputSha256": "d469688ca92ce64819e62af9f9f90ba5de30b6d4e24fdf047b09a7a1b019f7be",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:25:36.323822+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T23:25:36.323822+00:00",
+        "sourceSha256": "81b62948ac452677bc160e3489485facfe070b63e11e48e1b3062d0ad5f033f5",
+        "outputSha256": "d469688ca92ce64819e62af9f9f90ba5de30b6d4e24fdf047b09a7a1b019f7be",
+        "references": [
+          {
+            "sha256": "2a352d1c26275f5193890440f38ec8a9224b371a35752b1365a588c75e91b3a1",
+            "role": "Inspected correction target; preserve identity and oil, fix specific source fidelity",
+            "inspected": true,
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-1cedc58a-9115-4ccf-b5ee-51db4e842e89.png"
+          }
+        ],
+        "evidence": [
+          "Inspected actual three full views and two heads: source-required cap obscures face in connected dusk shadow. Short dart launcher, receiver and intact loop pole; corrected disabled detail has bent shaft/kinked cable. No extra scene or invented engineering.",
+          "Exact name/title readable; character-only warm ivory with no environment, ground patch or swatches. Broad opaque connected oil and selective thick paint, source-specific subdued values."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "dc245adb5b5d29fdc6f09509f950f24af4a30fc86a8dc550bdddbe6c19c6a3b4"
+      },
+      "outputSha256": "d469688ca92ce64819e62af9f9f90ba5de30b6d4e24fdf047b09a7a1b019f7be"
+    }
+  ]
+}

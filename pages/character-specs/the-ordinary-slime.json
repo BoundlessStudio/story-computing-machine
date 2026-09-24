@@ -1,0 +1,797 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-ordinary-slime",
+  "title": "The Ordinary Slime",
+  "source": "stories/the-ordinary-slime/story.md",
+  "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished source, prompt and final PASS review read after false marker. Four humans recur through assay/crisis/repair watch with agency: focal junior, assay-master, warden, reed keeper. Slime colony and sampled constituent are central nonhuman biological subject, included as one collective field-reference identity without implying sentience or personal selfhood.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Gate tender, runner, gauge clerk, opening crew and lower-house residents",
+      "reason": "Functional minor roles, no sustained individual arc. Colony constituent not duplicated as separate named person."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority hierarchy; source-local facts are not new shared canon"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Exact/alias name recurrence checked; no inferred identity from theme or resemblance"
+      ]
+    }
+  ],
+  "referenceInputs": [],
+  "referenceInputAssessment": "No supplied original recorded. Actual cover plus assay-room/service-gallery interiors and winter-reed landscape inspected. Cover source-like geometry retained; prose explicitly forbids shiny skins and evidentiary overclaim, so electronic glow/intent from cover not imported. Selected painted Maevrissa inspected as flesh paint anchor only.",
+  "characters": [
+    {
+      "id": "elvany-thesk",
+      "name": "Elvany Thesk",
+      "role": "Junior keeper and viewpoint observer who learns to separate inference from measurements",
+      "selectionEvidence": [
+        {
+          "quote": "The slime fits into both your hands",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "alarm delayed seven minutes",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Now use that.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed junior keeper, narrator in second person; gauges/card, wax pencil, washes hands before handling slimes, takes and records repeated actual readings.",
+          "Gender/age/clothing not established in prose; source cover depicts young woman in wet dark work clothes. Learns ordinary observation rather than psychic identity."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed junior keeper, narrator in second person; gauges/card, wax pencil, washes hands before handling slimes, takes and records repeated actual readings.",
+        "Source-local non-canon fact: Gender/age/clothing not established in prose; source cover depicts young woman in wet dark work clothes. Learns ordinary observation rather than psychic identity."
+      ],
+      "visualInterpretation": [
+        "Use actual source-cover young woman identity: apparent23 warm fair skin, hazel-green eyes, messy tied-back dark chestnut hair, narrow face/straight nose, lean ordinary build.",
+        "Dark umber practical raincoat with rolled sleeves, beige neck scarf, dark trousers/leather work boots and plain belt; source-cover derived interpretation, no armor."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Confident interpretation and careful measuring, card/pencil and folded raincoat."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed junior keeper",
+        "artOnlyName": "Elvany Thesk",
+        "provenance": "Distinct art-only catalogue name assigned under explicit user naming authorization. Exact first/full/surname collision search across universe/stories/specifications returned no match. Finished source/review has no proper name; no source/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-ordinary-slime:elvany-thesk",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "inspected": true,
+          "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+        },
+        {
+          "path": "stories/the-next-train/art/characters/maevrissa.png",
+          "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+          "inspected": true,
+          "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+        },
+        {
+          "path": "stories/the-ordinary-slime/title-image.jpg",
+          "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+          "inspected": true,
+          "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+        }
+      ],
+      "output": "stories/the-ordinary-slime/art/characters/elvany-thesk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Elvany Thesk. Extract ONLY source-cover woman from ref3: same adult23 warm-fair skin, hazel-green eyes, dark CHESTNUT hair messily tied back with loose damp strands, narrow face/straight nose, lean body. Dark UMBER work RAINCOAT, sleeves rolled, plain beige neck scarf and belt, dark trousers and muddy leather work boots. Full Front holds ordinary GAUGE CARD and wax pencil close to chest; Full Back shows practical coat and hair. Heads Certain and Listening, then small waist-up Measuring looking down at card. No slime/other organism in this human-only sheet, no weapon or magical glow. Repaint her face completely as broad connected matte opaque skin masses matching ref2, never photographic pores/gloss. Rain dampness through restrained paint edges, not smooth wet shader. Dim cold storm shadow with narrow amber lamp planes.",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          },
+          {
+            "path": "stories/the-ordinary-slime/title-image.jpg",
+            "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+            "inspected": true,
+            "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Elvany Thesk. Extract ONLY source-cover woman from ref3: same adult23 warm-fair skin, hazel-green eyes, dark CHESTNUT hair messily tied back with loose damp strands, narrow face/straight nose, lean body. Dark UMBER work RAINCOAT, sleeves rolled, plain beige neck scarf and belt, dark trousers and muddy leather work boots. Full Front holds ordinary GAUGE CARD and wax pencil close to chest; Full Back shows practical coat and hair. Heads Certain and Listening, then small waist-up Measuring looking down at card. No slime/other organism in this human-only sheet, no weapon or magical glow. Repaint her face completely as broad connected matte opaque skin masses matching ref2, never photographic pores/gloss. Rain dampness through restrained paint edges, not smooth wet shader. Dim cold storm shadow with narrow amber lamp planes.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-next-train/art/characters/maevrissa.png",
+                "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+                "inspected": true,
+                "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+              },
+              {
+                "path": "stories/the-ordinary-slime/title-image.jpg",
+                "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+                "inspected": true,
+                "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:51:16.719756+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:51:17.752334+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-d2a932b7-6f63-4403-aa67-36f7a990bfb6.png",
+            "candidateSha256": "e9f5f9b1ea1be399f12dcf9b5939cac261b70be370f39a73a2db489c5be40732",
+            "reviewedAt": "2026-09-24T12:59:44.158226+00:00",
+            "findings": [
+              "Direct full-size pixels: one cover-derived adult identity; chestnut messy tied hair, umber raincoat/beige scarf, card/wax-pencil states. Art-only name and interpretation stay outside source prose.",
+              "Front/back and expression/measuring views remain coherent, readable complete ivory sheet with no floor or other character. Dark cool cloth retained with restrained amber planes.",
+              "Faces, hair and clothes are connected opaque matte oil masses rather than smooth photo/CG/anime rendering."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "e9f5f9b1ea1be399f12dcf9b5939cac261b70be370f39a73a2db489c5be40732",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T12:59:44.160937+00:00",
+        "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+        "outputSha256": "e9f5f9b1ea1be399f12dcf9b5939cac261b70be370f39a73a2db489c5be40732",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          },
+          {
+            "path": "stories/the-ordinary-slime/title-image.jpg",
+            "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+            "inspected": true,
+            "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+          }
+        ],
+        "evidence": [
+          "Direct full-size pixels: one cover-derived adult identity; chestnut messy tied hair, umber raincoat/beige scarf, card/wax-pencil states. Art-only name and interpretation stay outside source prose.",
+          "Front/back and expression/measuring views remain coherent, readable complete ivory sheet with no floor or other character. Dark cool cloth retained with restrained amber planes.",
+          "Faces, hair and clothes are connected opaque matte oil masses rather than smooth photo/CG/anime rendering."
+        ],
+        "specificationSha256": "dee07a053d741a1d9c99a66248b99c92d36ff0686f77b82379a52e1e697dda0a"
+      }
+    },
+    {
+      "id": "vasmera-olm",
+      "name": "Vasmera Olm",
+      "role": "Assay-master directing careful comparison and limiting claims",
+      "selectionEvidence": [
+        {
+          "quote": "Mouth ordinary",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Write that.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "No speech, prediction, identity, or safety claim supported.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed adult woman assay-master uses shaded lamp, reed fiber, blue assay slip, ordinary testing tools and case; careful measured speech and observation.",
+          "No specified appearance, costume, magical senses or goggles. Source tools are mundane local research instruments."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed adult woman assay-master uses shaded lamp, reed fiber, blue assay slip, ordinary testing tools and case; careful measured speech and observation.",
+        "Source-local non-canon fact: No specified appearance, costume, magical senses or goggles. Source tools are mundane local research instruments."
+      ],
+      "visualInterpretation": [
+        "Art apparent59, medium-brown skin, broad cheekbones, strong low nose, short close silver curls, dark eyes and a slight stoop.",
+        "Ink-blue long work dress under stained cream linen apron, simple flat brown boots, plain cloth tool satchel/case; interpreted workwear not canon."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Exacting, patient correction and note-checking."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed assay-master",
+        "artOnlyName": "Vasmera Olm",
+        "provenance": "Distinct art-only catalogue name assigned under explicit user naming authorization. Exact first/full/surname collision search across universe/stories/specifications returned no match. Finished source/review has no proper name; no source/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-ordinary-slime:vasmera-olm",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "inspected": true,
+          "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+        },
+        {
+          "path": "stories/the-next-train/art/characters/maevrissa.png",
+          "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+          "inspected": true,
+          "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+        }
+      ],
+      "output": "stories/the-ordinary-slime/art/characters/vasmera-olm.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Vasmera Olm. ONE older HUMAN woman59, medium BROWN skin, broad cheekbones/low broad nose, very SHORT SILVER CURLS, dark calm eyes, slightly stooped average build. INK-BLUE plain calf-length work dress and stained cream LINEN APRON, simple flat brown boots. Full Front holds ONE small BLUE ASSAY SLIP close to apron; Full Back no extra props. Heads Exacting and Patient. Small waist-up Checks the limits with plain wax pencil and closed brown instrument CASE tucked under elbow, all arms attached naturally. No scientific lab glass spectacle, magic, invented machinery or glasses. DISTINCT from ref2 woman: different age/short hair/broad face/blue work apron. Strong broad matte opaque oil face matching paint not likeness; dim rainy light with small amber lamp plane.",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Vasmera Olm. ONE older HUMAN woman59, medium BROWN skin, broad cheekbones/low broad nose, very SHORT SILVER CURLS, dark calm eyes, slightly stooped average build. INK-BLUE plain calf-length work dress and stained cream LINEN APRON, simple flat brown boots. Full Front holds ONE small BLUE ASSAY SLIP close to apron; Full Back no extra props. Heads Exacting and Patient. Small waist-up Checks the limits with plain wax pencil and closed brown instrument CASE tucked under elbow, all arms attached naturally. No scientific lab glass spectacle, magic, invented machinery or glasses. DISTINCT from ref2 woman: different age/short hair/broad face/blue work apron. Strong broad matte opaque oil face matching paint not likeness; dim rainy light with small amber lamp plane.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-next-train/art/characters/maevrissa.png",
+                "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+                "inspected": true,
+                "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:51:16.719797+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:51:17.753083+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-8c52856f-3889-40a2-ac87-934bdcec5bcb.png",
+            "candidateSha256": "3bcd855f40e1d98336ce9e6c6b7266bf0f297606f2e1829bdcb07d6e8e542e79",
+            "reviewedAt": "2026-09-24T12:59:44.174992+00:00",
+            "findings": [
+              "Direct full-size pixels: mature assay-master woman with short silver curls and broad distinct features, blue assay slip, plain instrument case, blue work dress/apron. Unspecified appearance and name are recorded art-only.",
+              "Single consistent identity across front/back, exacting/patient expressions and assessment action; complete ivory background, no scene/floor/hand study.",
+              "Face and clothing use broad connected matte paint and dark blue shadow; no glossy photographic or cel-shaded face."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "3bcd855f40e1d98336ce9e6c6b7266bf0f297606f2e1829bdcb07d6e8e542e79",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T12:59:44.177254+00:00",
+        "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+        "outputSha256": "3bcd855f40e1d98336ce9e6c6b7266bf0f297606f2e1829bdcb07d6e8e542e79",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          }
+        ],
+        "evidence": [
+          "Direct full-size pixels: mature assay-master woman with short silver curls and broad distinct features, blue assay slip, plain instrument case, blue work dress/apron. Unspecified appearance and name are recorded art-only.",
+          "Single consistent identity across front/back, exacting/patient expressions and assessment action; complete ivory background, no scene/floor/hand study.",
+          "Face and clothing use broad connected matte paint and dark blue shadow; no glossy photographic or cel-shaded face."
+        ],
+        "specificationSha256": "aeddc04c9f50b5faae3e98136dacdd2c54f3a615656336448feee3a3e3c5c34d"
+      }
+    },
+    {
+      "id": "havrissa-calve",
+      "name": "Havrissa Calve",
+      "role": "Sluice warden responsible for dangerous decisions, crop losses and record",
+      "selectionEvidence": [
+        {
+          "quote": "rain stippling the shoulders of her oilskin",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Give me a test that changes that choice.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Count the loss.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed adult female sluice warden with rain-stippled oilskin, gauge card with red mark and wet record book; controls scour/gates and revises order.",
+          "No prescribed age/ethnicity/hairstyle, weapons or royal insignia."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed adult female sluice warden with rain-stippled oilskin, gauge card with red mark and wet record book; controls scour/gates and revises order.",
+        "Source-local non-canon fact: No prescribed age/ethnicity/hairstyle, weapons or royal insignia."
+      ],
+      "visualInterpretation": [
+        "Art apparent44, dark umber skin, square jaw, black close-cropped hair with lightly grey temples, deep-set brown eyes, stocky strong build.",
+        "Heavy muted yellow-ochre oilskin coat, slate trousers, high black working boots and simple grey shirt; practical authority, not military armor."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Deciding, accepting correction, recording consequences."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed sluice warden",
+        "artOnlyName": "Havrissa Calve",
+        "provenance": "Distinct art-only catalogue name assigned under explicit user naming authorization. Exact first/full/surname collision search across universe/stories/specifications returned no match. Finished source/review has no proper name; no source/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-ordinary-slime:havrissa-calve",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "inspected": true,
+          "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+        },
+        {
+          "path": "stories/the-next-train/art/characters/maevrissa.png",
+          "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+          "inspected": true,
+          "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+        }
+      ],
+      "output": "stories/the-ordinary-slime/art/characters/havrissa-calve.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "EDIT IMAGE1 ONLY. Preserve every character's exact face, anatomy, clothes, source props, layout and dark/cool painted shadows; this is ONE identity Havrissa Calve. Replace ALL brown/black studio gradient backdrop with uniform LIGHT WARM IVORY paper. Every gap around and between figures and heads becomes light ivory; NO halos, floor, shadows or background paint patches. On the ivory use crisply readable exact black heading Havrissa Calve and smaller The Ordinary Slime. Keep Deciding, Reconsidering and Recording labels readable black. Keep the broad matte oil body/face rendering unchanged. The ochre oilskin, grey clothes, dark boots, gauge card one red mark and recording action remain intact. Image2 is paint context only: do not import a location or another person. 1536x1024 landscape reference sheet, full bodies and every portrait remain uncropped.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-465ce1d8-0bab-450d-b0b0-7162d3c8f6f1.png",
+            "sha256": "7ca824981970fb04fd04db20a8f210811921fbcf6f433777a53d792f6523f772",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Havrissa Calve. ONE stocky strong HUMAN woman44, DARK UMBER skin, square jaw, CLOSE-CROPPED BLACK HAIR with slight grey temples, deep-set brown eyes. Heavy muted YELLOW-OCHRE OILSKIN raincoat with subtle rain stipple, grey shirt, slate trousers and high black practical work boots. Front full figure with small gauge card showing ONE plain red mark, Back full figure same practical raincoat. Heads Deciding and Reconsidering. Waist-up Recording holds wet dark record book open naturally against torso, simple pencil; no readable invented notes. No insignia, weapon, crown, hood covering face or other person. Face very distinct square/short hair, paint broad opaque matte oil flesh as body. Cool connected storm shadow, limited amber lamp planes; no yellow sunny full-body light.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-next-train/art/characters/maevrissa.png",
+                "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+                "inspected": true,
+                "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:51:16.719811+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:51:17.753566+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-465ce1d8-0bab-450d-b0b0-7162d3c8f6f1.png",
+            "candidateSha256": "7ca824981970fb04fd04db20a8f210811921fbcf6f433777a53d792f6523f772",
+            "reviewedAt": "2026-09-24T12:59:45.225008+00:00",
+            "findings": [
+              "Character paint/identity/clothes/source props pass, but dark backdrop violates ivory sheet and makes exact heading illegible. Replace background only."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "EDIT IMAGE1 ONLY. Preserve every character's exact face, anatomy, clothes, source props, layout and dark/cool painted shadows; this is ONE identity Havrissa Calve. Replace ALL brown/black studio gradient backdrop with uniform LIGHT WARM IVORY paper. Every gap around and between figures and heads becomes light ivory; NO halos, floor, shadows or background paint patches. On the ivory use crisply readable exact black heading Havrissa Calve and smaller The Ordinary Slime. Keep Deciding, Reconsidering and Recording labels readable black. Keep the broad matte oil body/face rendering unchanged. The ochre oilskin, grey clothes, dark boots, gauge card one red mark and recording action remain intact. Image2 is paint context only: do not import a location or another person. 1536x1024 landscape reference sheet, full bodies and every portrait remain uncropped.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-465ce1d8-0bab-450d-b0b0-7162d3c8f6f1.png",
+                "sha256": "7ca824981970fb04fd04db20a8f210811921fbcf6f433777a53d792f6523f772",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              }
+            ],
+            "submittedAt": "2026-09-24T12:59:45.225054+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4d603163-842e-4bec-8669-7bb1eff0e2f1.png",
+            "candidateSha256": "1cd4a8ba6e97afda9aa40f94842f3db4fda5437d9bad6b3769e2bfd0b93ec192",
+            "reviewedAt": "2026-09-24T13:08:14.084125+00:00",
+            "findings": [
+              "Full-size actual corrected pixels reviewed: light ivory now fills all negative space, exact name/title and expressions are legible; no scene, floor, cast shadow or isolated hand study.",
+              "One distinct middle-aged short-haired square-faced woman in ochre oilskin, slate clothes and work boots, gauge card one red mark, record-book action. Source role preserved; invented name/appearance art-only.",
+              "Connected opaque matte face and body planes, cool dark trousers and coat shadows with limited warm painted highlights; coherent front/back/actions."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "1cd4a8ba6e97afda9aa40f94842f3db4fda5437d9bad6b3769e2bfd0b93ec192",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T13:08:14.087218+00:00",
+        "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+        "outputSha256": "1cd4a8ba6e97afda9aa40f94842f3db4fda5437d9bad6b3769e2bfd0b93ec192",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-465ce1d8-0bab-450d-b0b0-7162d3c8f6f1.png",
+            "sha256": "7ca824981970fb04fd04db20a8f210811921fbcf6f433777a53d792f6523f772",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          }
+        ],
+        "evidence": [
+          "Full-size actual corrected pixels reviewed: light ivory now fills all negative space, exact name/title and expressions are legible; no scene, floor, cast shadow or isolated hand study.",
+          "One distinct middle-aged short-haired square-faced woman in ochre oilskin, slate clothes and work boots, gauge card one red mark, record-book action. Source role preserved; invented name/appearance art-only.",
+          "Connected opaque matte face and body planes, cool dark trousers and coat shadows with limited warm painted highlights; coherent front/back/actions."
+        ],
+        "specificationSha256": "e947b99b908e304dbf9d0a44c293bce30e656058b5e2941d39c5e0adec924998"
+      }
+    },
+    {
+      "id": "thordel-scenn",
+      "name": "Thordel Scenn",
+      "role": "Reed keeper with practical biological knowledge and material crop losses",
+      "selectionEvidence": [
+        {
+          "quote": "trousers are stained to the knee",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "two shallow clay trays",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "the measuring rope",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed adult male reed keeper, trouser knees black-green stained, carrying two clay trays and iron bucket; measures/coils rope and understands wet-season behavior.",
+          "No specified exact age/color/face, no magical link or speaking slime bond. Source work is costly practical livelihood."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed adult male reed keeper, trouser knees black-green stained, carrying two clay trays and iron bucket; measures/coils rope and understands wet-season behavior.",
+        "Source-local non-canon fact: No specified exact age/color/face, no magical link or speaking slime bond. Source work is costly practical livelihood."
+      ],
+      "visualInterpretation": [
+        "Art apparent57, deeply weathered tan skin, long narrow face, hazel eyes, grey-brown cropped hair and short squared grey beard, sturdy lean build.",
+        "Faded sage vest over plain coarse linen shirt, muddy brown trousers black-green to knees, worn dark boots; source-stain fidelity and restrained workwear interpretation."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Skeptical, counting loss, collecting/measuring work."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed reed keeper",
+        "artOnlyName": "Thordel Scenn",
+        "provenance": "Distinct art-only catalogue name assigned under explicit user naming authorization. Exact first/full/surname collision search across universe/stories/specifications returned no match. Finished source/review has no proper name; no source/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-ordinary-slime:thordel-scenn",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "inspected": true,
+          "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+        },
+        {
+          "path": "stories/the-next-train/art/characters/maevrissa.png",
+          "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+          "inspected": true,
+          "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+        }
+      ],
+      "output": "stories/the-ordinary-slime/art/characters/thordel-scenn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Thordel Scenn. ONE weathered HUMAN man57, tan skin, long NARROW face/high cheekbones, hazel eyes, short grey-brown hair and short squared GREY BEARD, sturdy lean body. Faded SAGE work vest over cream coarse linen shirt, brown trousers visibly stained BLACK-GREEN from knees down, worn dark boots. Full Front carries exactly TWO shallow reddish CLAY TRAYS nested loosely under one arm and ONE plain iron BUCKET in opposite naturally attached hand. Full Back same workwear/stains. Heads Skeptical and Counting loss. Small waist-up Coiling a measuring rope at torso, no measurement numbers or separate hands. No magic/armor/weapons, no scene/floor. Broad MATTE oil skin and cloth, connected cool wet-storm shadows with small amber light. Ref2 paint handling only never its woman.",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, exact NAME heading and smaller story title The Ordinary Slime. ONE named identity only on LIGHT WARM IVORY, full bodies unclipped, every gap ivory. NO isolated hand studies, anatomy side exercises, locations, floor/shadow patches, scenery, swatches or other figures. Canadian Group of Seven HEAVY MATTE SCULPTED OILS: broad CONNECTED opaque painted masses, directional knife/bristle, selective raised impasto and quiet joins. FACES/eyes/noses/hair must be large tangible painted planes as bold as clothing, no underlying smooth photo or anime/CG. Ref1 primary same-story paint and storm-interior light; ref2 is ONLY facial paint method, never donor identity or costume. Dim cool rainy shadow covers much of body with LIMITED warm shaded-lamp planes; no broad studio sunlight. Two whole front/back views and two expressive portraits; optional source action waist-up instead of isolated object/hand details. Heading Thordel Scenn. ONE weathered HUMAN man57, tan skin, long NARROW face/high cheekbones, hazel eyes, short grey-brown hair and short squared GREY BEARD, sturdy lean body. Faded SAGE work vest over cream coarse linen shirt, brown trousers visibly stained BLACK-GREEN from knees down, worn dark boots. Full Front carries exactly TWO shallow reddish CLAY TRAYS nested loosely under one arm and ONE plain iron BUCKET in opposite naturally attached hand. Full Back same workwear/stains. Heads Skeptical and Counting loss. Small waist-up Coiling a measuring rope at torso, no measurement numbers or separate hands. No magic/armor/weapons, no scene/floor. Broad MATTE oil skin and cloth, connected cool wet-storm shadows with small amber light. Ref2 paint handling only never its woman.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-next-train/art/characters/maevrissa.png",
+                "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+                "inspected": true,
+                "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:51:16.719822+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:59:46.220000+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4e698910-e5d4-4abe-8912-d0672b8d96f0.png",
+            "candidateSha256": "5548e2ec10e512ee7131875b1bc94ea7f4f051665489bf987e6afc5e58a4a7c7",
+            "reviewedAt": "2026-09-24T13:08:14.104516+00:00",
+            "findings": [
+              "Recovered saved candidate from interrupted already-submitted call and inspected actual full-size pixels; no duplicate generation.",
+              "Distinct weathered older reed-keeper man, narrow face/grey beard, sage vest and linen shirt; black-green stain from knees down retained, two nested earthen containers and one iron bucket, practical rope action.",
+              "Name/title clear on ivory, consistent front/back/portraits, all feet visible. Faces/clothes fully broad connected opaque matte oil planes, no floor/location or detached hand study. Art-only appearance/name provenance recorded."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "5548e2ec10e512ee7131875b1bc94ea7f4f051665489bf987e6afc5e58a4a7c7",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T13:08:14.106615+00:00",
+        "sourceSha256": "12dd722694e7406d2b5c3fc5292681a5e75ba563cdd2ab9259c135a29a476389",
+        "outputSha256": "5548e2ec10e512ee7131875b1bc94ea7f4f051665489bf987e6afc5e58a4a7c7",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-next-train/art/characters/maevrissa.png",
+            "sha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "inspected": true,
+            "role": "Inspected selected face/body oil rendering anchor ONLY: broad connected opaque facial masses and matte directional brush/knife. Never copy her identity, red coat, flowers, age or props."
+          }
+        ],
+        "evidence": [
+          "Recovered saved candidate from interrupted already-submitted call and inspected actual full-size pixels; no duplicate generation.",
+          "Distinct weathered older reed-keeper man, narrow face/grey beard, sage vest and linen shirt; black-green stain from knees down retained, two nested earthen containers and one iron bucket, practical rope action.",
+          "Name/title clear on ivory, consistent front/back/portraits, all feet visible. Faces/clothes fully broad connected opaque matte oil planes, no floor/location or detached hand study. Art-only appearance/name provenance recorded."
+        ],
+        "specificationSha256": "51e195cd67a206d39a11c6432f89aa0beb0f7aecc4effb262138b8f8c557a156"
+      }
+    },
+    {
+      "id": "merevetch",
+      "name": "Merevetch",
+      "role": "Central ordinary drain-slime colony and its sampled constituent",
+      "selectionEvidence": [
+        {
+          "quote": "Its skin takes the light without shine",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "No second sac.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Relative water stress.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "No speech, prediction, identity, or safety claim supported.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Non-personified biological collective of ordinary amorphous drain slimes",
+      "storyAppearance": {
+        "facts": [
+          "Several dozen palm-spreading ordinary green-brown drain slimes with one feeding mouth, moving grit, no hard inclusion/second sac, recoil then feed.",
+          "Touching bodies on continuous wet mica show opaque, clear and cold-blue stress states; dry breaks interrupt response and vibration corrupts it. Twelve worked once but no fixed threshold established.",
+          "No supported speech, prediction, identity, intention, thanks or safety guarantee. Catalogue name is external art label, not new individual identity/personhood claim."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Several dozen palm-spreading ordinary green-brown drain slimes with one feeding mouth, moving grit, no hard inclusion/second sac, recoil then feed.",
+        "Source-local non-canon fact: Touching bodies on continuous wet mica show opaque, clear and cold-blue stress states; dry breaks interrupt response and vibration corrupts it. Twelve worked once but no fixed threshold established.",
+        "Source-local non-canon fact: No supported speech, prediction, identity, intention, thanks or safety guarantee. Catalogue name is external art label, not new individual identity/personhood claim."
+      ],
+      "visualInterpretation": [
+        "Art-only colony label Merevetch covers the depicted wall-group and sample constituent, rather than inventing separate named organisms.",
+        "Matte low amorphous lobes with small simple feeding pore at one end, no eyes/faces/limbs; cold-blue surface coloration does not emit light. Thin wet mica film may be attached beneath group as required biological medium, not a location/floor scene."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Connected group pressure response; isolated green-brown specimen; ordinary feeding and contracting shape."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "central ordinary slime colony; art catalogue label only",
+        "artOnlyName": "Merevetch",
+        "provenance": "Distinct art-only catalogue name assigned under explicit user naming authorization. Exact first/full/surname collision search across universe/stories/specifications returned no match. Finished source/review has no proper name; no source/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-ordinary-slime:merevetch",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+          "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+          "inspected": true,
+          "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+        },
+        {
+          "path": "stories/the-ordinary-slime/title-image.jpg",
+          "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+          "inspected": true,
+          "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+        }
+      ],
+      "output": "stories/the-ordinary-slime/art/characters/merevetch.png",
+      "status": "deferred",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape1536x1024 biological CHARACTER REFERENCE SHEET. Exact heading Merevetch, smaller role Drain-slime colony, exact title The Ordinary Slime. This name is catalogue identification, NEVER a sentient personality. Warm LIGHT IVORY throughout, no scenes/floors/walls/hands/people/palette swatches. Heavy MATTE Group of Seven SCULPTED OILS from ref1: broad connected opaque brush/knife masses, selectively raised material paint, no glossy CGI jelly. Ref2 source-cover only green-brown blob geometry; PROSE OVERRIDES its shine/electric blue. Main large overhead view: several dozen separate low palm-size amorphous slimes TOUCH edge to edge as irregular branching biological group, green-brown dull bodies with grit; some OPAQUE/cloudy, some CLEAR with suspended grit, thin COLD-BLUE surface-color boundary through a subset, NEVER blue light/lightning. Under their touching edges only a very thin pale mica WET FILM binding the group, no tray/table/stone/floor. Label Connected wet film. Separate useful smaller three-quarter and profile views of ONE sampled constituent, olive-green-brown low rounded spreading body, ONE tiny simple feeding mouth at one end, no eyes/faces/teeth/limbs/second internal sac. Labels Isolated and Feeding; tiny pale oat-paste smear at feeding mouth only. Anatomy closeup Grit in slow currents is texture/material study of same blob, not new organ. Short label Palm-spreading constituent for source scale, no human comparison figure. NO emotions, zodiac/glyph, glow, speech, crown, magic, fixed twelve-count rule or directional arrow. Distinguish matte biological transparency by layered quiet grey-brown paint, not sparkly shiny glass. Dim cool storm light with restricted amber shaded-lamp planes; no bright candy jelly.",
+        "references": [
+          {
+            "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+            "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+            "inspected": true,
+            "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+          },
+          {
+            "path": "stories/the-ordinary-slime/title-image.jpg",
+            "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+            "inspected": true,
+            "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "interrupted-no-output",
+            "prompt": "Create ONE landscape1536x1024 biological CHARACTER REFERENCE SHEET. Exact heading Merevetch, smaller role Drain-slime colony, exact title The Ordinary Slime. This name is catalogue identification, NEVER a sentient personality. Warm LIGHT IVORY throughout, no scenes/floors/walls/hands/people/palette swatches. Heavy MATTE Group of Seven SCULPTED OILS from ref1: broad connected opaque brush/knife masses, selectively raised material paint, no glossy CGI jelly. Ref2 source-cover only green-brown blob geometry; PROSE OVERRIDES its shine/electric blue. Main large overhead view: several dozen separate low palm-size amorphous slimes TOUCH edge to edge as irregular branching biological group, green-brown dull bodies with grit; some OPAQUE/cloudy, some CLEAR with suspended grit, thin COLD-BLUE surface-color boundary through a subset, NEVER blue light/lightning. Under their touching edges only a very thin pale mica WET FILM binding the group, no tray/table/stone/floor. Label Connected wet film. Separate useful smaller three-quarter and profile views of ONE sampled constituent, olive-green-brown low rounded spreading body, ONE tiny simple feeding mouth at one end, no eyes/faces/teeth/limbs/second internal sac. Labels Isolated and Feeding; tiny pale oat-paste smear at feeding mouth only. Anatomy closeup Grit in slow currents is texture/material study of same blob, not new organ. Short label Palm-spreading constituent for source scale, no human comparison figure. NO emotions, zodiac/glyph, glow, speech, crown, magic, fixed twelve-count rule or directional arrow. Distinguish matte biological transparency by layered quiet grey-brown paint, not sparkly shiny glass. Dim cool storm light with restricted amber shaded-lamp planes; no bright candy jelly.",
+            "references": [
+              {
+                "path": "stories/the-ordinary-slime/art/interiors/01-the-assay-room.png",
+                "sha256": "1967b77df7f639682c113637f8ab5e841b8588e2cc8187bace04caa638556599",
+                "inspected": true,
+                "role": "PRIMARY inspected Group of Seven matte oil masses, shaded amber assay-lamp/cool rainy shadow light and material palette; no furniture/location copied."
+              },
+              {
+                "path": "stories/the-ordinary-slime/title-image.jpg",
+                "sha256": "ee938d31a0dad64d5dd4d44084d4cb460a43a2d02ad1f7060bb0f08d3e957039",
+                "inspected": true,
+                "role": "Inspected source cover identity of focal apprentice and green-brown slime form only. Prose overrides shiny gelatin and electrically glowing wall: skins without shine, cold-blue color response not light/power. No glossy photographic finish."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:51:16.719835+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:59:46.220512+00:00",
+            "interruptedAt": "2026-09-24T13:08:15.181084+00:00",
+            "findings": [
+              "User stopped generation for gallery/PR wrap-up. Submitted image call was interrupted with no returned output or resumable handle; retain exact attempt/prompt/references. No retry."
+            ]
+          }
+        ]
+      },
+      "deferredReason": "User stopped generation for gallery/PR wrap-up. Submitted image call was interrupted with no returned output or resumable handle; retain exact attempt/prompt/references. No retry."
+    }
+  ]
+}

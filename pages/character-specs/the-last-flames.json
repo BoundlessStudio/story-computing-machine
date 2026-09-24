@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-last-flames",
+  "title": "The Last Flames",
+  "source": "stories/the-last-flames/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose/prompt/review read. Five named dragons sustain central roles; no external franchise history imported for prompt-supplied Alexstrasza. All character/Stillfire name search in universe found no established entry. Cover and selected paintings inspected.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Other sixty-one youths and hatchlings, remembered elders",
+      "reason": "Unindividualized crowd or nonverbal dead residue, not separate sustained main identities."
+    },
+    {
+      "name": "Auroral resonance",
+      "reason": "Unidentified physical threat, no established person/individual body to invent."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover depicts basin/patterns, no dragon identity. It is not used to invent conscious ghosts or autonomous bowl agency.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "alexstrasza",
+      "name": "Alexstrasza",
+      "role": "Immortal keeper of Stillfire receives only offered final flames and protects the arriving living dragons.",
+      "form": "Immortal adult female dragon",
+      "selectionEvidence": [
+        {
+          "quote": "Alexstrasza had one foreleg braced inside the eastern flue when Ygdrane landed.",
+          "explanation": "Immortal keeper of Stillfire receives only offered final flames and protects the arriving living dragons."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Immortal keeper dragon with foreclaws/forelegs, wings, soot between scales; tends ash salt/felt/ledger and carries sensations, not dead personalities. Source no body color or human form."
+      },
+      "explicitCanon": [
+        "Non-canon source local immortal keeper and dragons only. Offered final flames leave nonverbal sensations, not personalities or advice; no external franchise powers, history, human form or relationships."
+      ],
+      "visualInterpretation": [
+        "Ancient mature bronze-grey dragon, heavy thoughtful face, low cream swept horn wedges, dark amber eyes, broad neck, worn wing edges and work-sooted dexterous foreclaws. No external franchise appearance/history imported."
+      ],
+      "states": [
+        {
+          "name": "Living keeper after the crisis",
+          "description": "Morning tending survivors, soot/claw work and salt paste dish; no ghost souls, stolen final flames or free magical healing."
+        }
+      ],
+      "lighting": "Cool morning ice-chamber daylight with low copper reflected fill on limited planes, no self-glowing body.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Alexstrasza"
+      },
+      "status": "completed",
+      "output": "stories/the-last-flames/art/characters/alexstrasza.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Alexstrasza; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. This is the story-local IMMORTAL KEEPER, no external franchise design. Ancient adult FEMALE dragon with BRONZE-GREY scale masses, heavy thoughtful broad face, low CREAM swept horn wedges, dark AMBER eyes, broad neck, weathered wing edges. Soot between scales and work-sooted foreclaws, mature and capable, no red queen costume/jewels. State Morning keeper after the crisis. Resting calm poses, head attentive and tired; one foreclaw holds a small plain shallow salt-paste dish and a felt square. No receiving basin, funerary corpse, ghost, soul sphere, body aura or flame exhalation. Cool diffuse morning ice-window light and restrained low copper reflected planes only on body; dark connected shadows. All paper LIGHT IVORY.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-last-flames/art/interiors/01-the-receiving-chamber.png",
+            "inspected": true,
+            "role": "Actual inspected ice-chamber diffuse daylight/low copper reflection and Group of Seven paint only; no basin or room copied.",
+            "sha256": "ff7078b76893ce961908b2518d8aada8e78f7ce20151b74f07025420927127db"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Alexstrasza; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. This is the story-local IMMORTAL KEEPER, no external franchise design. Ancient adult FEMALE dragon with BRONZE-GREY scale masses, heavy thoughtful broad face, low CREAM swept horn wedges, dark AMBER eyes, broad neck, weathered wing edges. Soot between scales and work-sooted foreclaws, mature and capable, no red queen costume/jewels. State Morning keeper after the crisis. Resting calm poses, head attentive and tired; one foreclaw holds a small plain shallow salt-paste dish and a felt square. No receiving basin, funerary corpse, ghost, soul sphere, body aura or flame exhalation. Cool diffuse morning ice-window light and restrained low copper reflected planes only on body; dark connected shadows. All paper LIGHT IVORY.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-last-flames/art/interiors/01-the-receiving-chamber.png",
+                "inspected": true,
+                "role": "Actual inspected ice-chamber diffuse daylight/low copper reflection and Group of Seven paint only; no basin or room copied.",
+                "sha256": "ff7078b76893ce961908b2518d8aada8e78f7ce20151b74f07025420927127db"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.323364+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-4eeee042-c588-4baa-bdc4-31b5dafa41ab.png",
+            "outputSha256": "6620359f90ae7bcb511ce7b6a7c7aa00aaed17b97ae854bfac77e2052fecb64a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:14:36.092953+00:00",
+            "generatorReview": "Actual pixels inspected: mature bronze-grey immortal keeper dragon distinct from source youths, four legs/two wings/one tail and consistent cream horn/amber-eye face, soot and ordinary salt-paste/felt detail, no ghosts or external franchise costume. Full forms contained, ivory and exact heading/title legible, opaque broad paint with quiet morning reflected light."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "6620359f90ae7bcb511ce7b6a7c7aa00aaed17b97ae854bfac77e2052fecb64a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:14:36.092953+00:00",
+        "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778",
+        "outputSha256": "6620359f90ae7bcb511ce7b6a7c7aa00aaed17b97ae854bfac77e2052fecb64a",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-last-flames/art/interiors/01-the-receiving-chamber.png",
+            "inspected": true,
+            "role": "Actual inspected ice-chamber diffuse daylight/low copper reflection and Group of Seven paint only; no basin or room copied.",
+            "sha256": "ff7078b76893ce961908b2518d8aada8e78f7ce20151b74f07025420927127db"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: mature bronze-grey immortal keeper dragon distinct from source youths, four legs/two wings/one tail and consistent cream horn/amber-eye face, soot and ordinary salt-paste/felt detail, no ghosts or external franchise costume. Full forms contained, ivory and exact heading/title legible, opaque broad paint with quiet morning reflected light.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "2522f9c5553c9f7a0244e6b9f5eec167dc5fe3e457b81a3580da47310f9f21c2"
+      }
+    },
+    {
+      "id": "ygdrane",
+      "name": "Ygdrane",
+      "role": "Dying elder freely offers final flame whose nonverbal residue later aids understanding.",
+      "form": "Dying elderly male dragon",
+      "selectionEvidence": [
+        {
+          "quote": "Snow had crusted over the ridges of his face and packed into the folds beneath his wings.",
+          "explanation": "Dying elder freely offers final flame whose nonverbal residue later aids understanding."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Elder dragon, snow crust on face ridges/underwing folds, shallow breathing, hind foot slips; initially throat unlit, offers small red final flame near dusk then dies."
+      },
+      "explicitCanon": [
+        "Non-canon source local immortal keeper and dragons only. Offered final flames leave nonverbal sensations, not personalities or advice; no external franchise powers, history, human form or relationships."
+      ],
+      "visualInterpretation": [
+        "Very old slate-brown grey dragon with long gaunt ridged face, pale narrow eyes, weathered horns and thin ribs under broad scales; wings folded with snow residue. No named injury side."
+      ],
+      "states": [
+        {
+          "name": "Arrival, before the final flame",
+          "description": "Living arrival before his death, supported resting posture; no breathing corpse/resurrection, flame not yet offered."
+        }
+      ],
+      "lighting": "Late-day cool ice entrance daylight subdued near dusk, deep blue shadow, snow pale but no glitter or halo.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Ygdrane"
+      },
+      "status": "completed",
+      "output": "stories/the-last-flames/art/characters/ygdrane.png",
+      "generation": {
+        "prompt": "Correct ONLY the surrounding paper background of this exact sheet to clean uniform LIGHT WARM IVORY everywhere, to every edge and between all dragon views/detail. Remove dark grey/brown vignette and ground shadows, keep ALL dragon pixels, same six-limb anatomy, face, horns, scales, wings, tail, expression, state, lighting and broad opaque oil paint. Make exact Ygdrane / The Last Flames heading/title and all existing labels clearly dark-brown on ivory. No new elements or scene.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9800a2e9-2a37-42ee-8012-1ec79a143ae5.png",
+            "sha256": "c103afed62d44966055156b3925d3dd768b3809de9c71184629ee04ce0f801c2",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Ygdrane; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. One very elderly MALE dragon with SLATE-BROWN grey scales, LONG GAUNT ridged face, weathered low backward horns, narrow pale eyes, ribs subtly visible, exhausted folded wings with small CRUSTS OF SNOW caught beneath folds and on face ridges. Two low resting body views rather than heroic standing; one tired dryly amused head detail. Small exact state label Arrival, before the final flame. He is still ALIVE, shallowly breathing before source death; mouth closed/throat unlit, no bright fire, corpse, burial, secondmind or ghost. Near-dusk cool entrance daylight, dim blue connected shadows on body with restrained pale snow highlights; paper remains LIGHT IVORY. No floor snow patches or temple.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-last-flames/art/interiors/01-the-receiving-chamber.png",
+                "inspected": true,
+                "role": "Actual inspected ice-chamber diffuse daylight/low copper reflection and Group of Seven paint only; no basin or room copied.",
+                "sha256": "ff7078b76893ce961908b2518d8aada8e78f7ce20151b74f07025420927127db"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.324573+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9800a2e9-2a37-42ee-8012-1ec79a143ae5.png",
+            "outputSha256": "c103afed62d44966055156b3925d3dd768b3809de9c71184629ee04ce0f801c2",
+            "generatorReview": "Dragon identity, six-limb anatomy and source state pass; blurred dark vignette hides exact title and violates ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.132611+00:00",
+            "prompt": "Correct ONLY the surrounding paper background of this exact sheet to clean uniform LIGHT WARM IVORY everywhere, to every edge and between all dragon views/detail. Remove dark grey/brown vignette and ground shadows, keep ALL dragon pixels, same six-limb anatomy, face, horns, scales, wings, tail, expression, state, lighting and broad opaque oil paint. Make exact Ygdrane / The Last Flames heading/title and all existing labels clearly dark-brown on ivory. No new elements or scene.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9800a2e9-2a37-42ee-8012-1ec79a143ae5.png",
+                "sha256": "c103afed62d44966055156b3925d3dd768b3809de9c71184629ee04ce0f801c2",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dragon identity, six-limb anatomy and source state pass; blurred dark vignette hides exact title and violates ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b9aa667c-38d4-4c2e-905c-24282e1bd551.png",
+            "outputSha256": "3796992afa639b9d5f41a24207f6c61260b39c0e709bff6bca8926a1b8bf9629",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:26.296058+00:00",
+            "generatorReview": "Actual pixels inspected: dying old gaunt slate-brown dragon resting alive on Arrival before the final flame; snow on head and folded wings, narrow tired eyes, closed unlit mouth, long tail and coherent four-leg/two-wing anatomy. Two complete views plus head; no ghost, flame residues or scenery; ivory and readable exact title/name restored."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "3796992afa639b9d5f41a24207f6c61260b39c0e709bff6bca8926a1b8bf9629",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:26.296058+00:00",
+        "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778",
+        "outputSha256": "3796992afa639b9d5f41a24207f6c61260b39c0e709bff6bca8926a1b8bf9629",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-9800a2e9-2a37-42ee-8012-1ec79a143ae5.png",
+            "sha256": "c103afed62d44966055156b3925d3dd768b3809de9c71184629ee04ce0f801c2",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: dying old gaunt slate-brown dragon resting alive on Arrival before the final flame; snow on head and folded wings, narrow tired eyes, closed unlit mouth, long tail and coherent four-leg/two-wing anatomy. Two complete views plus head; no ghost, flame residues or scenery; ivory and readable exact title/name restored.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "d04a1494c838e1a259affff0748bcccd7d196d20d8a401a09b9ac840a12ce6aa"
+      }
+    },
+    {
+      "id": "ceryth",
+      "name": "Ceryth",
+      "role": "Young grey refugee organizer protects peers, limits risky tests and adapts evacuation signals.",
+      "form": "Young female dragon",
+      "selectionEvidence": [
+        {
+          "quote": "The gray dragon at their front kept one wing stretched across the doorway.",
+          "explanation": "Young grey refugee organizer protects peers, limits risky tests and adapts evacuation signals."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Young grey female dragon, holds wing protectively across doorway, counts cohorts, communicates using wing/tail/throat. Final bruised limp, no specified side."
+      },
+      "explicitCanon": [
+        "Non-canon source local immortal keeper and dragons only. Offered final flames leave nonverbal sensations, not personalities or advice; no external franchise powers, history, human form or relationships."
+      ],
+      "visualInterpretation": [
+        "Young adult dragon with smoke-grey scales, compact athletic frame, blunt practical head, small swept horn pair, warm brown eyes and dark slate wing membranes. Not hatchling/pet; no badges or military uniform."
+      ],
+      "states": [
+        {
+          "name": "Refuge organizer",
+          "description": "Second daylight before final bruised limp; alert healthy body, wings folded with one forewing modestly extended in study."
+        }
+      ],
+      "lighting": "Second-day cool diffuse daylight with weak warm kitchen reflection, deep grey-violet connected shadows.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Ceryth"
+      },
+      "status": "completed",
+      "output": "stories/the-last-flames/art/characters/ceryth.png",
+      "generation": {
+        "prompt": "Correct ONLY the surrounding paper background of this exact sheet to clean uniform LIGHT WARM IVORY everywhere, to every edge and between all dragon views/detail. Remove dark grey/brown vignette and ground shadows, keep ALL dragon pixels, same six-limb anatomy, face, horns, scales, wings, tail, expression, state, lighting and broad opaque oil paint. Make exact Ceryth / The Last Flames heading/title and all existing labels clearly dark-brown on ivory. No new elements or scene.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ee710ae1-de21-4959-8dd2-a671fe19ecdf.png",
+            "sha256": "1ed64a1edba0e8484f4ba86d940049fde87548dfc79d9e6bb05a5ef504fc128c",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Ceryth; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. Young adult FEMALE dragon in SMOKE-GREY scale masses, compact ATHLETIC frame, blunt practical head, small swept-back horn pair, warm BROWN eyes, dark SLATE wing membranes. Serious protective alertness, not adorable hatchling. State Refuge organizer: SECOND DAYLIGHT before final bruised limp, healthy limbs. Main front and rear wings folded; head/shoulder study may extend ONE wing protectively without any other person. No clipboard, uniform, crown, ritual jewelry, frost injuries or flame beam. Quiet small pale throat flash optional only inside throat in tiny detail, not aura. Cool ice daylight with limited muted warm kitchen reflection on face and connected grey-violet shadows; keep LIGHT IVORY support.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+                "inspected": true,
+                "role": "Actual inspected subdued warm kitchen facing planes/cool ice reflected shadows and broad oil only; no architecture, food scene or hearth copied.",
+                "sha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.325678+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ee710ae1-de21-4959-8dd2-a671fe19ecdf.png",
+            "outputSha256": "1ed64a1edba0e8484f4ba86d940049fde87548dfc79d9e6bb05a5ef504fc128c",
+            "generatorReview": "Dragon identity, six-limb anatomy and source state pass; blurred dark vignette hides exact title and violates ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.136513+00:00",
+            "prompt": "Correct ONLY the surrounding paper background of this exact sheet to clean uniform LIGHT WARM IVORY everywhere, to every edge and between all dragon views/detail. Remove dark grey/brown vignette and ground shadows, keep ALL dragon pixels, same six-limb anatomy, face, horns, scales, wings, tail, expression, state, lighting and broad opaque oil paint. Make exact Ceryth / The Last Flames heading/title and all existing labels clearly dark-brown on ivory. No new elements or scene.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ee710ae1-de21-4959-8dd2-a671fe19ecdf.png",
+                "sha256": "1ed64a1edba0e8484f4ba86d940049fde87548dfc79d9e6bb05a5ef504fc128c",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dragon identity, six-limb anatomy and source state pass; blurred dark vignette hides exact title and violates ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-3216e82d-9c48-4832-82fe-8b37c9e6731f.png",
+            "outputSha256": "05b1e5038f0bb6294425af8fe3308dca94b230098083cd5232e2e8bbb2d4bf81",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:26.331280+00:00",
+            "generatorReview": "Actual pixels inspected: compact alert grey female dragon with brown eyes, coherent four legs plus two wings and consistent front/rear/head/claw identity. Selected earlier daylight state before crisis bruise; correct six limbs and matte painted scale masses. Uniform light ivory restored; headings and unclipped tail/margins pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "05b1e5038f0bb6294425af8fe3308dca94b230098083cd5232e2e8bbb2d4bf81",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:26.331280+00:00",
+        "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778",
+        "outputSha256": "05b1e5038f0bb6294425af8fe3308dca94b230098083cd5232e2e8bbb2d4bf81",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ee710ae1-de21-4959-8dd2-a671fe19ecdf.png",
+            "sha256": "1ed64a1edba0e8484f4ba86d940049fde87548dfc79d9e6bb05a5ef504fc128c",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: compact alert grey female dragon with brown eyes, coherent four legs plus two wings and consistent front/rear/head/claw identity. Selected earlier daylight state before crisis bruise; correct six limbs and matte painted scale masses. Uniform light ivory restored; headings and unclipped tail/margins pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1e9f5197ac45e51d2c675f06ad0a2d4173e4029b28ae7433849d9ebea62eb5bd"
+      }
+    },
+    {
+      "id": "parrox",
+      "name": "Parrox",
+      "role": "Broad rust-colored youth provides food and practical ventilation work during attack.",
+      "form": "Young male dragon",
+      "selectionEvidence": [
+        {
+          "quote": "A broad rust-colored dragon called Parrox found the driest fuel",
+          "explanation": "Broad rust-colored youth provides food and practical ventilation work during attack."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Young broad rust-colored male dragon; handles cup handles over claws, fuel basket and ash rake; final emerges with bent rake around foreleg and limp."
+      },
+      "explicitCanon": [
+        "Non-canon source local immortal keeper and dragons only. Offered final flames leave nonverbal sensations, not personalities or advice; no external franchise powers, history, human form or relationships."
+      ],
+      "visualInterpretation": [
+        "Young adult bulky chest/heavy limbs, burnt-rust/red-brown scales, wide blunt snout, modest pale horns, ochre eyes, darker brown folded wing membranes. Work soot retained."
+      ],
+      "states": [
+        {
+          "name": "Morning after the crisis",
+          "description": "Sooty exhausted but alive; bent ash rake held as tool, cautious resting posture without assigned injured limb side."
+        }
+      ],
+      "lighting": "Morning cool daylight plus subdued warm kitchen reflected planes, no invented self-fire.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Parrox"
+      },
+      "status": "completed",
+      "output": "stories/the-last-flames/art/characters/parrox.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Parrox; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. ONE young adult MALE dragon, BROAD bulky chest and heavy strong limbs, BURNT-RUST and RED-BROWN matte scale masses, wide blunt snout, modest pale horn pair, OCHRE eyes, darker brown folded wing membranes. Dryly skeptical expression, soot on nose/forefeet. State Morning after the crisis: exhausted but alive. Two resting full-body views; one foreclaw/tool detail with a visibly BENT ordinary metal ASH RAKE resting safely beside/against that own foreleg. No injury-side label or graphic damage. No sword/armor/hammer, cooking scene or extra dragon. Morning cool diffuse ice light with restrained warm reflected kitchen planes and deep rust-violet shadows; uniformly LIGHT IVORY paper.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+            "inspected": true,
+            "role": "Actual inspected subdued warm kitchen facing planes/cool ice reflected shadows and broad oil only; no architecture, food scene or hearth copied.",
+            "sha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Parrox; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. ONE young adult MALE dragon, BROAD bulky chest and heavy strong limbs, BURNT-RUST and RED-BROWN matte scale masses, wide blunt snout, modest pale horn pair, OCHRE eyes, darker brown folded wing membranes. Dryly skeptical expression, soot on nose/forefeet. State Morning after the crisis: exhausted but alive. Two resting full-body views; one foreclaw/tool detail with a visibly BENT ordinary metal ASH RAKE resting safely beside/against that own foreleg. No injury-side label or graphic damage. No sword/armor/hammer, cooking scene or extra dragon. Morning cool diffuse ice light with restrained warm reflected kitchen planes and deep rust-violet shadows; uniformly LIGHT IVORY paper.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+                "inspected": true,
+                "role": "Actual inspected subdued warm kitchen facing planes/cool ice reflected shadows and broad oil only; no architecture, food scene or hearth copied.",
+                "sha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.326851+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-48fc3014-db7e-4348-af43-aa5ccdfe7bd6.png",
+            "outputSha256": "e0c48069cd1ea0464d9bce3c4b1c3175c788f863ac5e035135ac9d902afaf763",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:14:36.145789+00:00",
+            "generatorReview": "Actual pixels inspected: broad rust-colored young male dragon, six-limb anatomy and face consistent across views; soot and dry skeptical expression, bent ordinary ash rake by own foreleg, intact alive morning-after state with no invented side wound. Exact heading/title and ivory, complete body/tail margins, matte opaque rust mass paint. Faint plain contact marks carry no location."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "e0c48069cd1ea0464d9bce3c4b1c3175c788f863ac5e035135ac9d902afaf763",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:14:36.145789+00:00",
+        "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778",
+        "outputSha256": "e0c48069cd1ea0464d9bce3c4b1c3175c788f863ac5e035135ac9d902afaf763",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+            "inspected": true,
+            "role": "Actual inspected subdued warm kitchen facing planes/cool ice reflected shadows and broad oil only; no architecture, food scene or hearth copied.",
+            "sha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: broad rust-colored young male dragon, six-limb anatomy and face consistent across views; soot and dry skeptical expression, bent ordinary ash rake by own foreleg, intact alive morning-after state with no invented side wound. Exact heading/title and ivory, complete body/tail margins, matte opaque rust mass paint. Faint plain contact marks carry no location.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e4f4e1372492e1d7b423f959bb0b223266c2480c56d330fb31134f8124a00549"
+      }
+    },
+    {
+      "id": "ulune",
+      "name": "Ulune",
+      "role": "Narrow pale youth discovers resonance and communicates counter-patterns without sustained matched pitch.",
+      "form": "Young female dragon",
+      "selectionEvidence": [
+        {
+          "quote": "A pale, narrow dragon lay with her jaw against the kitchen floor.",
+          "explanation": "Narrow pale youth discovers resonance and communicates counter-patterns without sustained matched pitch."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Young female pale narrow dragon, keen pupils, seven cups observations, throat-light/left wing/tail/resin test; copying irregular patterns onto hide after crisis."
+      },
+      "explicitCanon": [
+        "Non-canon source local immortal keeper and dragons only. Offered final flames leave nonverbal sensations, not personalities or advice; no external franchise powers, history, human form or relationships."
+      ],
+      "visualInterpretation": [
+        "Slender pale ivory-grey long-necked dragon, narrow wedge face, fine swept horn pair and pale violet-grey wing membranes, muted green eyes, delicate dexterous foreclaws. No humanoid gender cues."
+      ],
+      "states": [
+        {
+          "name": "Irregular notes, after the crisis",
+          "description": "Morning copy of nonrepeating marks on cured hide, small resin pouch; no smooth tone or beam summoning threat."
+        }
+      ],
+      "lighting": "Morning cool kitchen window light, ivory body separated from ivory support with quiet grey-lilac shadow contours.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Ulune"
+      },
+      "status": "completed",
+      "output": "stories/the-last-flames/art/characters/ulune.png",
+      "generation": {
+        "prompt": "Keep the same pale narrow Ulune dragon identity, face, horns, four legs/two wings/tail, green eyes, poses, resin pouch and painting. Replace all blurred dark grey/brown background with UNIFORM LIGHT IVORY everywhere to every edge, no vignette or floor shadow. Reletter exact Ulune / The Last Flames and existing state label clearly in dark brown. In the cured-HIDE DETAIL ONLY, erase the row of repeated X/cross marks. Replace with SIX clearly different irregular marks: one short bent angle, one long slash, one separated pair of dots, one crooked fork, one tiny uneven zigzag, one small curved hook; varying orientations and irregular spacing, no repeating unit, no letters/music/runes. These are scratch records, not magic. Preserve all other pixels/light/source state.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e30fb82-80fd-4c35-a45e-9068c0755e4d.png",
+            "sha256": "e7e204f7fd39dfa1c55d63f8702c03b42cd3bb4b824b2b5bf977ee5f23d8cba3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Ulune; exact subtitle The Last Flames. ONE dragon only, FOUR legs with dexterous clawed forefeet plus TWO separate shoulder wings, one head/neck and one tail; no humanoid form or clothing. Two complete isolated front-three-quarter and rear-three-quarter body views with folded wings/tail curled enough for clear30px ivory margins; one useful head or foreclaw/tool detail. Distinct consistent anatomy across views, no extra legs/eyes/wings. Paint the dragon as broad matte connected opaque oil masses and directional bristle marks, not thousands of glossy rendered scales. Entire negative space clean UNIFORM LIGHT IVORY; no landscapes, rooms, ground patch, ash floor, other dragons, human scale silhouettes or scenic background. ONE young adult FEMALE dragon with PALE IVORY-GREY scales, NARROW SLENDER body and long neck, narrow wedge face, fine swept horn pair, muted GREEN eyes, pale violet-grey folded wing membranes and dexterous foreclaws. Precise observant look rather than child cuteness. State Irregular notes, after the crisis. Two low poised full-body views and one foreclaw detail scratching sparse IRREGULAR NONREPEATING ANGULAR MARKS on a small strip of cured hide; small pine-resin pouch near her own claw. Do not make letters, music stave, runes or repeated perfect pattern. No glowing beam, trapped flame, aurora, cups arranged as scenery or second person. Cool morning window light, broad soft grey-lilac shadow planes define pale body against the uniformly LIGHT IVORY paper.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
+                "inspected": true,
+                "role": "Actual inspected subdued warm kitchen facing planes/cool ice reflected shadows and broad oil only; no architecture, food scene or hearth copied.",
+                "sha256": "e98f95c13a28ece3a86540e580115703a1afbb655fe9a8fdfce14e9821704175"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:50:21.327944+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e30fb82-80fd-4c35-a45e-9068c0755e4d.png",
+            "outputSha256": "e7e204f7fd39dfa1c55d63f8702c03b42cd3bb4b824b2b5bf977ee5f23d8cba3",
+            "generatorReview": "Pale narrow identity/anatomy/state pass; dark paper hides title, and hide marks repeat near-identical crosses contrary to nonrepeating source patterns."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:14:37.140563+00:00",
+            "prompt": "Keep the same pale narrow Ulune dragon identity, face, horns, four legs/two wings/tail, green eyes, poses, resin pouch and painting. Replace all blurred dark grey/brown background with UNIFORM LIGHT IVORY everywhere to every edge, no vignette or floor shadow. Reletter exact Ulune / The Last Flames and existing state label clearly in dark brown. In the cured-HIDE DETAIL ONLY, erase the row of repeated X/cross marks. Replace with SIX clearly different irregular marks: one short bent angle, one long slash, one separated pair of dots, one crooked fork, one tiny uneven zigzag, one small curved hook; varying orientations and irregular spacing, no repeating unit, no letters/music/runes. These are scratch records, not magic. Preserve all other pixels/light/source state.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e30fb82-80fd-4c35-a45e-9068c0755e4d.png",
+                "sha256": "e7e204f7fd39dfa1c55d63f8702c03b42cd3bb4b824b2b5bf977ee5f23d8cba3",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Pale narrow identity/anatomy/state pass; dark paper hides title, and hide marks repeat near-identical crosses contrary to nonrepeating source patterns.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-18bc11a7-744d-43dd-ad49-5dabe0724f2b.png",
+            "outputSha256": "f696259bb912426a2863d92be816d10162db33ebdef559561d737fa83d8ef410",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:42:26.358180+00:00",
+            "generatorReview": "Actual pixels inspected: narrow pale female dragon, green eyes/violet-grey wing membranes, coherent complete front/rear views plus head and foreclaw record detail. After-crisis hide now contains six unequal nonrepeating angle/slash/dot/fork/zigzag/hook-like marks, not repeated rows; resin pouch retained. Light ivory, readable exact heading/title, anatomy and character-only boundaries pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "f696259bb912426a2863d92be816d10162db33ebdef559561d737fa83d8ef410",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:42:26.358180+00:00",
+        "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778",
+        "outputSha256": "f696259bb912426a2863d92be816d10162db33ebdef559561d737fa83d8ef410",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1e30fb82-80fd-4c35-a45e-9068c0755e4d.png",
+            "sha256": "e7e204f7fd39dfa1c55d63f8702c03b42cd3bb4b824b2b5bf977ee5f23d8cba3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: narrow pale female dragon, green eyes/violet-grey wing membranes, coherent complete front/rear views plus head and foreclaw record detail. After-crisis hide now contains six unequal nonrepeating angle/slash/dot/fork/zigzag/hook-like marks, not repeated rows; resin pouch retained. Light ivory, readable exact heading/title, anatomy and character-only boundaries pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c411d338d14a8ea443fe1fbe675bd92d134ecfd1bd4b9c517ebf483add64ae4c"
+      }
+    }
+  ],
+  "sourceSha256": "1b19f8b26bf4d5b0bba8d10e7f12aada2207df63004923376f88c3f21a2ca778"
+}

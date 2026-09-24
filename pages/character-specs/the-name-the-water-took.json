@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-name-the-water-took",
+  "title": "The Name the Water Took",
+  "source": "stories/the-name-the-water-took/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final story and prompt read. Braska and Ioshka central pair, older/younger surveyors sustained final-act speaking/capture antagonists. Original/cover and source oil inspected; source short hair/opaque wrap controls original differences.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Ioshka's uncle and unnamed community",
+      "reason": "Reported examples and motivation, not sustained onstage individuals."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "braska",
+      "name": "Braska",
+      "role": "amnesiac former route-captain and protagonist",
+      "form": "adult human, they/them",
+      "selectionEvidence": [
+        {
+          "quote": "Warm skin, blunt nose, short wet hair.",
+          "explanation": "Explicit appearance overrides original longer hair."
+        },
+        {
+          "quote": "Older cord burns crossed both wrists.",
+          "explanation": "Visible old wrist marks."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Blunt nose, short wet hair, older cord burns both wrists, cut left heel.",
+        "clothing": "Palm-fiber torso wrap tucked above knees; boots recovered late; recovered sheathed knife and name disk.",
+        "state": "After recovering boots/knife/disk before final escape; no original trousers/shirt or belt retrieved."
+      },
+      "visualInterpretation": [
+        "Use original tan skin/lowerface suggestion, androgynous adult, short dark wet crop required by prose. Not gender assertion.",
+        "Opaque palm-fiber wrap from underarms to above knees, complete torso coverage, boots hide heel cut; disk isolated as personal item."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-name-the-water-took:braska",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-name-the-water-took/art/characters/braska.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Correct ONLY the four WRISTS in this sheet (bothwrists on each full-body figure). REMOVE actual cord/rope bracelets and their highlights. Braska has NO jewelry or cord worn at wrists. Replace with ordinary BARE TAN SKIN and subtle faint flat darker old healed CORD-BURN SCAR lines, flush with skin, no physical cord/ties/bracelets. Preserve hand anatomy, all exact face/hair/identity/opaque wrap/boots/knife/disk lettering and broad matte oil/canopylight/ivory. No other change or new props.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-24647a4d-3395-47ad-a088-fb7c9fa26ba4.png",
+            "role": "inspected Braska candidate; change physical wrist bracelets to old flat scar marks only",
+            "sha256": "9888d6269927ce89283a5438933392b0e0c84ee9f634ab4141470685481b448c",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:15:36.916089+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Braska\"; title \"The Name the Water Took\"; role \"Route-captain\". ONE adult androgynous HUMAN, source they/them. Warm tan skin, BLUNT rounded nose, SHORT wet dark hair cropped above ears/nape (SOURCE short hair overrides Image2 longer hair), ordinary matte dark eyes, sturdy lean body. Image2 only compatible face/skin suggestion; do NOT copy photograph or exposed midriff. OPAQUE rough PALE PALM-FIBER WRAP securely around torso from UNDERARMS down to just ABOVE KNEES, fully covered chest/abdomen/hips with tucked secure fold; bare arms/shoulders/calves. Recovered worn brown BOOTS, no other original shirt/trousers/belt. Subtle old healed CORD BURN marks encircle BOTH wrists, no fresh bloody wounds. Front/rear complete bodies, front ordinary hand holds recovered small SHEATHED KNIFE low, other empty. Large sameface labelled \"After the pool\". One isolated small worn metal DISK with thong; exact words \"BRASKA, ROUTE-CAPTAIN\" only, label \"Recovered disk\". No nude study, no reflection body, no glow/memory magical effect.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+            "references": [
+              {
+                "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+                "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+                "inspected": true,
+                "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/visualizations/2026/09/11/01a09035-90af-7190-bd43-55f5581f63b0/cover-corrections/original-references/the-name-the-water-took/codex-clipboard-a215a44b-bce1-40e8-a1f2-9d34ebae8707.png",
+                "role": "inspected original Braska appearance suggestion only; source short hair and opaque full wrap override long hair/exposure, not photo rendering",
+                "inspected": true,
+                "sha256": "6cd1a8827755ab19f68d38b14726bf5ee5ffe8e1e8bd822feef026b1ee33e35b"
+              }
+            ],
+            "preflight": [
+              "Full final source/prompt read, original/cover/source oil inspected; source short hair/opaque wrap over original longer hair/exposure explicit.",
+              "Distinct source equipment and chosen before/after timing within each sheet consistent; names checked and art-only provenance given for surveyors.",
+              "One identity, complete bodies/face/personal detail feasible; matte green canopy daytime paint on ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-24647a4d-3395-47ad-a088-fb7c9fa26ba4.png",
+            "outputSha256": "9888d6269927ce89283a5438933392b0e0c84ee9f634ab4141470685481b448c",
+            "finishedAt": "2026-09-24T06:31:27.674287+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Shortwet hair, opaque palmwrap and recovered boots/knife/disk are coherent; matte paint and folio pass.",
+              "Old cordburns became actual cord bracelets on both wrists. Remove physical cords, leave subtle healed marks on bare skin."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:31:29.723296+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-source-detail-edit",
+            "prompt": "Correct ONLY the four WRISTS in this sheet (bothwrists on each full-body figure). REMOVE actual cord/rope bracelets and their highlights. Braska has NO jewelry or cord worn at wrists. Replace with ordinary BARE TAN SKIN and subtle faint flat darker old healed CORD-BURN SCAR lines, flush with skin, no physical cord/ties/bracelets. Preserve hand anatomy, all exact face/hair/identity/opaque wrap/boots/knife/disk lettering and broad matte oil/canopylight/ivory. No other change or new props.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-24647a4d-3395-47ad-a088-fb7c9fa26ba4.png",
+                "role": "inspected Braska candidate; change physical wrist bracelets to old flat scar marks only",
+                "sha256": "9888d6269927ce89283a5438933392b0e0c84ee9f634ab4141470685481b448c",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Source explicit old wristburns/no worncord; actualcandidatehasbracelets; remove onlyphysicalcord."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5ad1ac31-393d-45e3-b7dc-d8191e8da4cb.png",
+            "outputSha256": "bd1372c6b49025fc018fa851dd420e98711818af9923ed46e9be0b75f85ecf4d",
+            "finishedAt": "2026-09-24T06:48:39.328397+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels: no physical wristcords; subtle flat healed burn marks on bare wrists. Source shortwet hair, bluntnose, opaque above-knee palmwrap, boots/knife/disk preserved.",
+              "Matching identity/front/rear/face, correct disktext, boldmatteoil/canopylight, no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-5ad1ac31-393d-45e3-b7dc-d8191e8da4cb.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "80c98b80a4e4d99197067eb7a18f47895cfde3a3e6035f3c208f105d669a6bc0",
+        "outputSha256": "bd1372c6b49025fc018fa851dd420e98711818af9923ed46e9be0b75f85ecf4d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-24647a4d-3395-47ad-a088-fb7c9fa26ba4.png",
+            "role": "inspected Braska candidate; change physical wrist bracelets to old flat scar marks only",
+            "sha256": "9888d6269927ce89283a5438933392b0e0c84ee9f634ab4141470685481b448c",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels: no physical wristcords; subtle flat healed burn marks on bare wrists. Source shortwet hair, bluntnose, opaque above-knee palmwrap, boots/knife/disk preserved.",
+          "Matching identity/front/rear/face, correct disktext, boldmatteoil/canopylight, no scene/swatches."
+        ],
+        "specificationSha256": "48aaa283981169daf648b64f7244ca2ec1d28fd83804192d8b8e0996b1c13888"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "bd1372c6b49025fc018fa851dd420e98711818af9923ed46e9be0b75f85ecf4d"
+    },
+    {
+      "id": "ioshka",
+      "name": "Ioshka",
+      "role": "coerced guide protecting seeds and her community",
+      "form": "adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "a lean woman with a strip of blood-dark cloth tied around one calf",
+          "explanation": "Explicit build and leg dressing."
+        },
+        {
+          "quote": "The wallet has six pockets.",
+          "explanation": "Central seed wallet personal possession."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Lean woman, wrist bruises, calf wound wrapped in dark cloth.",
+        "equipment": "Knife and recovered six-pocket seed wallet, practical route guiding."
+      },
+      "visualInterpretation": [
+        "Art-only adult thirties, deep brown skin, narrow face, tight black braid, simple olive sleeveless fieldshirt, brown knee-length trousers and practical sandals.",
+        "Choose left calf cloth as unspecified-side interpretation; wrist bruises non-graphic."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "After seed wallet recovery, dressed and still bandaged."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-name-the-water-took:ioshka",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-name-the-water-took/art/characters/ioshka.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ioshka\"; title \"The Name the Water Took\"; role \"Guide\". ONE lean adult HUMAN woman, deep brown skin, narrow alert face, dark matte eyes, long tight BLACK braid, ordinary roundears, mature thirties visual casting. Simple muted OLIVE sleeveless linen shirt covers torso, worn brown knee-length trousers, practical dark leather SANDALS. A strip of dried BLOOD-DARK brown cloth bandage around ANATOMICAL LEFT CALF (front VIEWER RIGHT, rear VIEWER LEFT), no blood/dripping wound. Subtle fading bruises on BOTH wrists. Complete front/rear bodies; front holds small recovered worn brown leather SEED WALLET, closed, knife SHEATHED at waist. Large matching vigilant face. One isolated opened rectangular wallet with EXACTLY SIX small closed leather seed pockets, arranged2rows3, no spilling plants/seeds, label \"Six seed pockets\". No crown/shamanstaff/magic or pool scene.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+        "references": [
+          {
+            "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+            "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+            "inspected": true,
+            "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:15:36.919898+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ioshka\"; title \"The Name the Water Took\"; role \"Guide\". ONE lean adult HUMAN woman, deep brown skin, narrow alert face, dark matte eyes, long tight BLACK braid, ordinary roundears, mature thirties visual casting. Simple muted OLIVE sleeveless linen shirt covers torso, worn brown knee-length trousers, practical dark leather SANDALS. A strip of dried BLOOD-DARK brown cloth bandage around ANATOMICAL LEFT CALF (front VIEWER RIGHT, rear VIEWER LEFT), no blood/dripping wound. Subtle fading bruises on BOTH wrists. Complete front/rear bodies; front holds small recovered worn brown leather SEED WALLET, closed, knife SHEATHED at waist. Large matching vigilant face. One isolated opened rectangular wallet with EXACTLY SIX small closed leather seed pockets, arranged2rows3, no spilling plants/seeds, label \"Six seed pockets\". No crown/shamanstaff/magic or pool scene.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+            "references": [
+              {
+                "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+                "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+                "inspected": true,
+                "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+              }
+            ],
+            "preflight": [
+              "Full final source/prompt read, original/cover/source oil inspected; source short hair/opaque wrap over original longer hair/exposure explicit.",
+              "Distinct source equipment and chosen before/after timing within each sheet consistent; names checked and art-only provenance given for surveyors.",
+              "One identity, complete bodies/face/personal detail feasible; matte green canopy daytime paint on ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c358311c-56b9-4181-ad70-48f3a7643174.png",
+            "outputSha256": "26ec4a49c916641c2c0c009881c323fba7aa8e17159cfd2a551789df05749af1",
+            "finishedAt": "2026-09-24T06:31:27.677124+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: distinct coherent adult identity, exact headings and complete bodies/face/equipment.",
+              "Ioshka anatomical left calfbandage matches bothviews and wallet six pockets; Ranneth white cord/clean sheathedknife consistent where applicable.",
+              "Broad matte face/cloth oil, filtered canopy green/ochre light; plain ivory no places/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c358311c-56b9-4181-ad70-48f3a7643174.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "80c98b80a4e4d99197067eb7a18f47895cfde3a3e6035f3c208f105d669a6bc0",
+        "outputSha256": "26ec4a49c916641c2c0c009881c323fba7aa8e17159cfd2a551789df05749af1",
+        "references": [
+          {
+            "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+            "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+            "inspected": true,
+            "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct coherent adult identity, exact headings and complete bodies/face/equipment.",
+          "Ioshka anatomical left calfbandage matches bothviews and wallet six pockets; Ranneth white cord/clean sheathedknife consistent where applicable.",
+          "Broad matte face/cloth oil, filtered canopy green/ochre light; plain ivory no places/swatches."
+        ],
+        "specificationSha256": "ebb4d308ad967bc81b885d66b0152604dc786deb1de2992bbe3443ed0d0fe467"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "26ec4a49c916641c2c0c009881c323fba7aa8e17159cfd2a551789df05749af1"
+    },
+    {
+      "id": "kelvash",
+      "name": "Kelvash",
+      "sourceRole": "the older surveyor",
+      "role": "older surveyor pursuing and commanding Braska",
+      "form": "adult human man",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the older surveyor",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Kelvash no matches in universe, NAMES, current reviews or character specs."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "older surveyor entered first with a short spear",
+          "explanation": "Sustained climactic antagonist, source age and weapon."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Older adult man.",
+        "equipment": "Short spear with wrist loop, peeled bark markers at belt.",
+        "state": "Arrival at pool, spear wrist loop/markers not yet cut or taken."
+      },
+      "visualInterpretation": [
+        "Art-only weathered light-brown face, short graying hair and angular beard, sturdy mature build, slate fieldshirt and ochre trousers."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-name-the-water-took:kelvash",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-name-the-water-took/art/characters/kelvash.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Correct ONLY the BARK-MARKER BUNDLE attached to the belt of the central REAR VIEW figure. Move it from current VIEWER RIGHT hip to VIEWER LEFT hip at sameheight, which is anatomicalLEFT matching frontview bundle (viewerRIGHT). Remove old rear-right bundle and restore clean ordinary cloth/belt there. Frontview bundle remains exactly whereitis. Preserve face/hair/clothes/spear/loop/anatomy, isolatedbundle, headings, oil/light, ivory. Nootherchange.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-233bc53b-509b-425f-b5cc-19f50b98ef27.png",
+            "role": "inspected older-surveyor candidate; match anatomical-left belt markers across views",
+            "sha256": "956bbb97b3aa426758566226bcf74cae122759cd2bbf4169b14952729517ece5",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:15:36.924070+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Kelvash\"; title \"The Name the Water Took\"; role \"Older surveyor — art-only name\". ONE older adult HUMAN man, weathered LIGHT BROWN skin, short GRAYING hair, angular short beard, heavy brow, lean strong build, ordinary matte dark eyes; fiftyish artcasting. Plain slate-gray long-sleeve fieldshirt rolled elbows, ochre-brown practical trousers, mudmarked leather BOOTS, plain brown belt with small bundle of PEELed BARK markers. Front/rear complete bodies; front holds SHORT WOODEN SPEAR with modest iron point and simple wristloop low besidebody, not attacking. Large sameface suspicious commanding expression. One isolated peeled-bark marker bundle, label \"Survey markers\". Arrival state before wristloop cut and markers taken; no rankbadge/magic/emblems or new map. No other figures.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+            "references": [
+              {
+                "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+                "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+                "inspected": true,
+                "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+              }
+            ],
+            "preflight": [
+              "Full final source/prompt read, original/cover/source oil inspected; source short hair/opaque wrap over original longer hair/exposure explicit.",
+              "Distinct source equipment and chosen before/after timing within each sheet consistent; names checked and art-only provenance given for surveyors.",
+              "One identity, complete bodies/face/personal detail feasible; matte green canopy daytime paint on ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-233bc53b-509b-425f-b5cc-19f50b98ef27.png",
+            "outputSha256": "956bbb97b3aa426758566226bcf74cae122759cd2bbf4169b14952729517ece5",
+            "finishedAt": "2026-09-24T06:31:27.690557+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Distinct older surveyor, short spear and bark markers, full figures/face, matte oil/light pass.",
+              "Bark bundle swaps anatomical sides between front/rear. Front viewer-right is left hip; move rear bundle to viewer-left to match."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:31:29.725465+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-anatomical-continuity-edit",
+            "prompt": "Correct ONLY the BARK-MARKER BUNDLE attached to the belt of the central REAR VIEW figure. Move it from current VIEWER RIGHT hip to VIEWER LEFT hip at sameheight, which is anatomicalLEFT matching frontview bundle (viewerRIGHT). Remove old rear-right bundle and restore clean ordinary cloth/belt there. Frontview bundle remains exactly whereitis. Preserve face/hair/clothes/spear/loop/anatomy, isolatedbundle, headings, oil/light, ivory. Nootherchange.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-233bc53b-509b-425f-b5cc-19f50b98ef27.png",
+                "role": "inspected older-surveyor candidate; match anatomical-left belt markers across views",
+                "sha256": "956bbb97b3aa426758566226bcf74cae122759cd2bbf4169b14952729517ece5",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Checked viewer/anatomical mapping; target onlyrear-bundle-side torepaircontinuity."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1f3cc297-2471-4db8-81e3-44c1aa3c09bf.png",
+            "outputSha256": "76f3f6aa29a53763a2001379428bbe4037b33076d2a67ad1f52c411757ebef9e",
+            "finishedAt": "2026-09-24T06:48:39.377470+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels: belt barkmarkers now anatomicalLEFT front/rear, old rear-right bundle removed. Same matureface, shortspear/wristloop and markerstudy intact.",
+              "Complete figures, broadmatteoil, sourcecanopylight, ivory no places/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1f3cc297-2471-4db8-81e3-44c1aa3c09bf.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "80c98b80a4e4d99197067eb7a18f47895cfde3a3e6035f3c208f105d669a6bc0",
+        "outputSha256": "76f3f6aa29a53763a2001379428bbe4037b33076d2a67ad1f52c411757ebef9e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-233bc53b-509b-425f-b5cc-19f50b98ef27.png",
+            "role": "inspected older-surveyor candidate; match anatomical-left belt markers across views",
+            "sha256": "956bbb97b3aa426758566226bcf74cae122759cd2bbf4169b14952729517ece5",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels: belt barkmarkers now anatomicalLEFT front/rear, old rear-right bundle removed. Same matureface, shortspear/wristloop and markerstudy intact.",
+          "Complete figures, broadmatteoil, sourcecanopylight, ivory no places/swatches."
+        ],
+        "specificationSha256": "4ae3e95a97ffe55e5e03f09b87ccb2c4956e50637973cea53dcbd70acf27cef7"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "76f3f6aa29a53763a2001379428bbe4037b33076d2a67ad1f52c411757ebef9e"
+    },
+    {
+      "id": "ranneth",
+      "name": "Ranneth",
+      "sourceRole": "the younger surveyor",
+      "role": "younger surveyor closing capture formation",
+      "form": "adult human man",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the younger surveyor",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Ranneth no matches in universe, NAMES, current reviews or character specs."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "carrying a coil of white marker cord",
+          "explanation": "Sustained second climactic antagonist, explicit gear."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Younger adult man.",
+        "equipment": "White marker cord coil and clean knife.",
+        "state": "Arrival before Braska cuts coil; intact cord."
+      },
+      "visualInterpretation": [
+        "Art-only pale freckled young adult man, straight dark-blond hair, narrow chin, clean-shaven; gray-green field jacket and brown trousers."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-name-the-water-took:ranneth",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-name-the-water-took/art/characters/ranneth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ranneth\"; title \"The Name the Water Took\"; role \"Younger surveyor — art-only name\". ONE younger adult HUMAN man, light pale FRECKLED skin, straight DARK-BLOND short hair, narrow chin and thin straight nose, clean-shaven, gray matte eyes, slim twenties build, wary eager expression. Gray-green practical short field JACKET, brown trousers, mudmarked dark leather BOOTS. Complete front/rear samebody; front holds INTACT coil of WHITE marker CORD low, simple clean KNIFE SHEATHED at belt. Large matching face. One isolated white cord coil and small sheathed clean knife, label \"Marker cord\". Arrival before cord is cut; no spear/rankbadge/magic or map/countryside.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+        "references": [
+          {
+            "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+            "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+            "inspected": true,
+            "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:15:36.928105+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ranneth\"; title \"The Name the Water Took\"; role \"Younger surveyor — art-only name\". ONE younger adult HUMAN man, light pale FRECKLED skin, straight DARK-BLOND short hair, narrow chin and thin straight nose, clean-shaven, gray matte eyes, slim twenties build, wary eager expression. Gray-green practical short field JACKET, brown trousers, mudmarked dark leather BOOTS. Complete front/rear samebody; front holds INTACT coil of WHITE marker CORD low, simple clean KNIFE SHEATHED at belt. Large matching face. One isolated white cord coil and small sheathed clean knife, label \"Marker cord\". Arrival before cord is cut; no spear/rankbadge/magic or map/countryside.\nImage1 supplies primary Group of Seven oil and filtered canopy DAYLIGHT: subdued green/blue cool connected shadow with sparse warm ochre light, no golden sunset/photo rim. Every face/hair/skin/cloth widely brushed in large MATTE opaque directional masses, ordinary matte eyes. Same ONE identity, clean bright ivory, no jungle/pool/roots/floorpatches or swatches.",
+            "references": [
+              {
+                "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+                "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+                "inspected": true,
+                "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+              }
+            ],
+            "preflight": [
+              "Full final source/prompt read, original/cover/source oil inspected; source short hair/opaque wrap over original longer hair/exposure explicit.",
+              "Distinct source equipment and chosen before/after timing within each sheet consistent; names checked and art-only provenance given for surveyors.",
+              "One identity, complete bodies/face/personal detail feasible; matte green canopy daytime paint on ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a281e850-8994-4d7a-a34f-bc2f7a4e93db.png",
+            "outputSha256": "76af606da05078c211614ccc05e407d5aaf372be901492c5be4294d4bbf5ce18",
+            "finishedAt": "2026-09-24T06:31:27.693178+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: distinct coherent adult identity, exact headings and complete bodies/face/equipment.",
+              "Ioshka anatomical left calfbandage matches bothviews and wallet six pockets; Ranneth white cord/clean sheathedknife consistent where applicable.",
+              "Broad matte face/cloth oil, filtered canopy green/ochre light; plain ivory no places/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a281e850-8994-4d7a-a34f-bc2f7a4e93db.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "80c98b80a4e4d99197067eb7a18f47895cfde3a3e6035f3c208f105d669a6bc0",
+        "outputSha256": "76af606da05078c211614ccc05e407d5aaf372be901492c5be4294d4bbf5ce18",
+        "references": [
+          {
+            "path": "stories/the-name-the-water-took/art/landscapes/01-green-roof-above-the-pool.png",
+            "role": "primary broad matte oil, humid green canopy daylight with limited warm breaks and cool shade only; no pool/jungle",
+            "inspected": true,
+            "sha256": "f0f9223b9ccb5f29ed697db546c05f279c8fb39108defe5362a3cba37aecce86"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct coherent adult identity, exact headings and complete bodies/face/equipment.",
+          "Ioshka anatomical left calfbandage matches bothviews and wallet six pockets; Ranneth white cord/clean sheathedknife consistent where applicable.",
+          "Broad matte face/cloth oil, filtered canopy green/ochre light; plain ivory no places/swatches."
+        ],
+        "specificationSha256": "caa66b1c2aa259a1c985ff6814422327cf6cd9d423647a20e52b721b36c1fd3f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "76af606da05078c211614ccc05e407d5aaf372be901492c5be4294d4bbf5ce18"
+    }
+  ],
+  "sourceSha256": "80c98b80a4e4d99197067eb7a18f47895cfde3a3e6035f3c208f105d669a6bc0"
+}

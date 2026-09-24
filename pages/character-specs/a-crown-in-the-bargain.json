@@ -1,0 +1,874 @@
+{
+  "slug": "a-crown-in-the-bargain",
+  "title": "A Crown in the Bargain",
+  "source": "stories/a-crown-in-the-bargain/story.md",
+  "canon": false,
+  "mainCastEvidence": "Complete finished story read in full (435 lines). Tareya and Osvan drive negotiations. The attendant, chamberlain and young lamp tender recur across chamber, bridge and succession room and perform substantial care, witnessing and relay-maintenance actions required by the resolution.",
+  "excludedMinorCharacters": [
+    {
+      "name": "General and general's daughter",
+      "reason": "Political alternatives discussed offstage, no developed on-page role."
+    },
+    {
+      "name": "Incapacitated king",
+      "reason": "Background political condition; no acted scene."
+    },
+    {
+      "name": "Musicians, blessing clerk, wine page, bridge keeper and engineers",
+      "reason": "Incidental/dismissed/offstage roles, not substantial characters."
+    },
+    {
+      "name": "Fox/hawk projected heralds",
+      "reason": "Optical evidence graphics, not autonomous characters or animals."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md#authority-order",
+    "universe/premise.md#the-deep-time-shared-world",
+    "universe/rules.md#system-categories",
+    "universe/rules.md#living-agency-and-magic",
+    "universe/characters.md (no matching Tareya/Osvan entries)"
+  ],
+  "characters": [
+    {
+      "id": "tareya-solvane",
+      "name": "Tareya Solvane",
+      "role": "Protagonist; baroness negotiating independent marriage and flood relief",
+      "selectionEvidence": [
+        {
+          "quote": "You promised protection without absorption.",
+          "line": 71,
+          "explanation": "Her refusal and negotiation drive the plot."
+        },
+        {
+          "quote": "She set it into the western cup assigned by the parallel form.",
+          "line": 413,
+          "explanation": "Her free choice resolves the story."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human; ordinary two arms/two legs.",
+        "lifeStage": "Adult; exact age unstated.",
+        "proportions": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin, hair, cloth and leather.",
+        "clothing": "Traveling cloak then hooded rain mantle with throat clasp; dry boots and waxed gloves.",
+        "equipment": "Gold signet around engraved cut stone; Solvane red fox, rain-furrow and three hill stars optically projected by hushglass, not living animal.",
+        "scale": "Human.",
+        "movement": "Lifts ringed hand, braces against wind, carries articles.",
+        "distinctiveFeatures": "Woman/baroness; no specified face/hair/age."
+      },
+      "explicitCanon": [
+        "Story-local: Solvane baroness, gold engraved-stone signet, red fox/rain-furrow/three-star herald; cloak, rain mantle, gloves and boots."
+      ],
+      "visualInterpretation": [
+        "Early-thirties sturdy woman, long dark-auburn hair in practical braid, warm tan skin, broad brows and straight nose; dark teal dress and smoke-green rain mantle are choices, not shared canon.",
+        "Night lamplight defines warm lit planes and deep violet/blue-gray connected shadows. Isolated studies only; no location, swatches or body-transformation effects."
+      ],
+      "states": [
+        {
+          "label": "Chamber",
+          "description": "Travel clothing with signet visible."
+        },
+        {
+          "label": "Storm crossing",
+          "description": "Hooded rain mantle, waxed gloves and dry boots; restrained dark rain-damp cloth."
+        }
+      ],
+      "output": "stories/a-crown-in-the-bargain/art/characters/tareya-solvane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Image1 is the sole target, completed oil folio of Tareya Solvane. Make only two fidelity cleanups: remove the brown travel SATCHEL and its diagonal shoulder strap from all body views; preserve her waist belt, dress, traveling cloak, rain mantle and gloves. The prose never gives her a satchel. Remove the explanatory prose sentences beneath 'Chamber', 'Storm crossing', and 'Solvane signet', leaving those three concise labels only. Preserve all identifying headings, portraits, consistent facial identity, dark-auburn braid, fox/rain-furrow/three-star ring, hands, clothes, whole uncropped silhouettes, warm night-lamplight planes, broad matte oil brushwork and quiet ivory ground. No other changes, no new props, settings or swatches. Return complete1536x1024 sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Tareya Solvane\". Source role: Protagonist; baroness negotiating independent marriage and flood relief. Subject Human woman. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Adult; exact age unstated.\",\"proportions\":\"Ordinary human.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Traveling cloak then hooded rain mantle with throat clasp; dry boots and waxed gloves.\",\"equipment\":\"Gold signet around engraved cut stone; Solvane red fox, rain-furrow and three hill stars optically projected by hushglass, not living animal.\",\"scale\":\"Human.\",\"movement\":\"Lifts ringed hand, braces against wind, carries articles.\",\"distinctiveFeatures\":\"Woman/baroness; no specified face/hair/age.\"}. Design choices: Early-thirties sturdy woman, long dark-auburn hair in practical braid, warm tan skin, broad brows and straight nose; dark teal dress and smoke-green rain mantle are choices, not shared canon. Night lamplight defines warm lit planes and deep violet/blue-gray connected shadows. Isolated studies only; no location, swatches or body-transformation effects.. Source-backed distinct states: [{\"label\":\"Chamber\",\"description\":\"Travel clothing with signet visible.\"},{\"label\":\"Storm crossing\",\"description\":\"Hooded rain mantle, waxed gloves and dry boots; restrained dark rain-damp cloth.\"}]. Show her unhooded face consistently with dark-auburn braid. A single signet close-up on ordinary hand, gold ring and red cut engraved stone; red fox, rain-furrow and three stars may appear as tiny lamp-projected herald light on knuckles, never a tattoo, living fox or flames. No physical crown. Dress and rain-mantle studies clearly labelled.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+                "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+                "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+                "inspected": true
+              }
+            ],
+            "reason": "Full story cast assessment and actual source-cover/interior inspection complete; source names or authorized unique art names fixed before generation.",
+            "startedAt": "2026-09-23T21:32:06.675249+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-f607bac6-b704-4d52-90a6-2de020f8e02c.png",
+            "outputSha256": "eb4b84a3d81e1b881dd1ceb6ff396159a5fbe0f507ae117287766dd7cbd01457",
+            "generatorReview": [
+              "Remove unsupported travel satchel/shoulder strap and excess prose captions; identity, signet and clothing otherwise pass."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: precise-object-edit. Image1 is the sole target, completed oil folio of Tareya Solvane. Make only two fidelity cleanups: remove the brown travel SATCHEL and its diagonal shoulder strap from all body views; preserve her waist belt, dress, traveling cloak, rain mantle and gloves. The prose never gives her a satchel. Remove the explanatory prose sentences beneath 'Chamber', 'Storm crossing', and 'Solvane signet', leaving those three concise labels only. Preserve all identifying headings, portraits, consistent facial identity, dark-auburn braid, fox/rain-furrow/three-star ring, hands, clothes, whole uncropped silhouettes, warm night-lamplight planes, broad matte oil brushwork and quiet ivory ground. No other changes, no new props, settings or swatches. Return complete1536x1024 sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-f607bac6-b704-4d52-90a6-2de020f8e02c.png",
+                "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+                "sha256": "eb4b84a3d81e1b881dd1ceb6ff396159a5fbe0f507ae117287766dd7cbd01457",
+                "inspected": true
+              }
+            ],
+            "reason": "Generator visual review identified narrow unsupported accessory/decorative-text cleanup.",
+            "startedAt": "2026-09-23T21:41:31.674493+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-8840e76c-8d5d-48a0-921f-aec2c991825c.png",
+            "outputSha256": "d1672606bb02158b6d2710dc9de4dda0040b3437839d647fd726296796733089",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:49:03.053702+00:00",
+            "generatorReview": [
+              "Corrected full sheet inspected: unsupported satchel/strap and explanatory prose removed. Tareya's same face and dark-auburn braid remain across travel/mantle views and expressions; ordinary hands, gold fox/rain-furrow/three-star signet, dry boots and waxed gloves coherent.",
+              "Source-specific night lamplight represented as restrained warm planes and connected dark rain-mantle values, without scenery or swatches. Exact name/title and concise state labels readable, unclipped silhouettes; optical herald not depicted as animal or body mark."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-f607bac6-b704-4d52-90a6-2de020f8e02c.png",
+            "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+            "sha256": "eb4b84a3d81e1b881dd1ceb6ff396159a5fbe0f507ae117287766dd7cbd01457",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:49:03.058752+00:00",
+        "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+        "outputSha256": "d1672606bb02158b6d2710dc9de4dda0040b3437839d647fd726296796733089",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-f607bac6-b704-4d52-90a6-2de020f8e02c.png",
+            "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+            "sha256": "eb4b84a3d81e1b881dd1ceb6ff396159a5fbe0f507ae117287766dd7cbd01457",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected full sheet inspected: unsupported satchel/strap and explanatory prose removed. Tareya's same face and dark-auburn braid remain across travel/mantle views and expressions; ordinary hands, gold fox/rain-furrow/three-star signet, dry boots and waxed gloves coherent.",
+          "Source-specific night lamplight represented as restrained warm planes and connected dark rain-mantle values, without scenery or swatches. Exact name/title and concise state labels readable, unclipped silhouettes; optical herald not depicted as animal or body mark."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "a3a8230fdb2a5533d537e9f7c3d0b27a58378ece6da1581208c6a94f8bd78b8e"
+      },
+      "recurrence": {
+        "identityKey": "a-crown-in-the-bargain:tareya-solvane",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-crown-in-the-bargain/title-image.jpg",
+          "role": "Inspected compatible signet/herald design only, no human identity provided.",
+          "sha256": "d2be9642b5849854d7facfe39126d0ac0669308824a19d78fd5fe042226c39fd",
+          "inspected": true,
+          "notes": "Gold fox and crowned-hawk signets, red/white optical heralds; no depicted cast faces. Photographic cover rendering not adopted."
+        },
+        {
+          "path": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "role": "Inspected story nighttime lamplight and muted warm/cool painted values, no setting on sheet.",
+          "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "inspected": true,
+          "notes": "Low warm amber lamp/fire illumination with large connected blue-violet shadows, restrained pale cloth; rainy shuttered night."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Tareya Solvane",
+        "sourceRole": "Protagonist; baroness negotiating independent marriage and flood relief",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "d1672606bb02158b6d2710dc9de4dda0040b3437839d647fd726296796733089"
+    },
+    {
+      "id": "osvan-rhel",
+      "name": "Osvan Rhel",
+      "role": "Co-protagonist; prince learning reciprocal consent",
+      "selectionEvidence": [
+        {
+          "quote": "He tore it once through the embossed crown.",
+          "line": 321,
+          "explanation": "Abandons coercive strong form before Tareya promises cooperation."
+        },
+        {
+          "quote": "Osvan Rhel had placed a signet",
+          "line": 333,
+          "explanation": "Explicit full identity and royal role."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Human; ordinary two arms/two legs.",
+        "lifeStage": "Adult; exact age unstated.",
+        "proportions": "Taller than Tareya.",
+        "markings": "None specified.",
+        "materials": "Skin, hair, cloth and leather.",
+        "clothing": "High-collared court coat, rain darkening collar; wrist-buckled gloves.",
+        "equipment": "Royal signet/crowned-hawk herald; black dispatch case and pen carried during story.",
+        "scale": "Human.",
+        "movement": "Ordinary walking and hand gestures.",
+        "distinctiveFeatures": "Face pales beneath rain at climax."
+      },
+      "explicitCanon": [
+        "Story-local: prince Osvan Rhel; taller than Tareya; high court-coat collar, royal signet, wrist-buckled gloves."
+      ],
+      "visualInterpretation": [
+        "Mid-thirties tall slim man, straight black hair combed back, pale olive skin, long narrow nose, angular cheekbones; dark charcoal coat is compatible but colour unspecified.",
+        "No physical crown worn: projected crown/herald does not establish headgear. Warm lamp/dim cool shadows; no backdrop."
+      ],
+      "output": "stories/a-crown-in-the-bargain/art/characters/osvan-rhel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Osvan Rhel\". Source role: Co-protagonist; prince learning reciprocal consent. Subject Human man. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Adult; exact age unstated.\",\"proportions\":\"Taller than Tareya.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"High-collared court coat, rain darkening collar; wrist-buckled gloves.\",\"equipment\":\"Royal signet/crowned-hawk herald; black dispatch case and pen carried during story.\",\"scale\":\"Human.\",\"movement\":\"Ordinary walking and hand gestures.\",\"distinctiveFeatures\":\"Face pales beneath rain at climax.\"}. Design choices: Mid-thirties tall slim man, straight black hair combed back, pale olive skin, long narrow nose, angular cheekbones; dark charcoal coat is compatible but colour unspecified. No physical crown worn: projected crown/herald does not establish headgear. Warm lamp/dim cool shadows; no backdrop.. Source-backed distinct states: []. Include signet close-up with small crowned-hawk design; no crown worn. His thoughtful and unsettled expressions retain long angular face. His court coat stays on; hand/glove detail buckles at wrist.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Osvan Rhel\". Source role: Co-protagonist; prince learning reciprocal consent. Subject Human man. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Adult; exact age unstated.\",\"proportions\":\"Taller than Tareya.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"High-collared court coat, rain darkening collar; wrist-buckled gloves.\",\"equipment\":\"Royal signet/crowned-hawk herald; black dispatch case and pen carried during story.\",\"scale\":\"Human.\",\"movement\":\"Ordinary walking and hand gestures.\",\"distinctiveFeatures\":\"Face pales beneath rain at climax.\"}. Design choices: Mid-thirties tall slim man, straight black hair combed back, pale olive skin, long narrow nose, angular cheekbones; dark charcoal coat is compatible but colour unspecified. No physical crown worn: projected crown/herald does not establish headgear. Warm lamp/dim cool shadows; no backdrop.. Source-backed distinct states: []. Include signet close-up with small crowned-hawk design; no crown worn. His thoughtful and unsettled expressions retain long angular face. His court coat stays on; hand/glove detail buckles at wrist.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+                "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+                "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+                "inspected": true
+              }
+            ],
+            "reason": "Full story cast assessment and actual source-cover/interior inspection complete; source names or authorized unique art names fixed before generation.",
+            "startedAt": "2026-09-23T21:32:07.727456+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-0eb4c4f5-da1d-4297-9480-49c9a908eae0.png",
+            "outputSha256": "cd88540c3330ab4cada50d5daf6e89582c454815816579a5aa5484ec8a777933",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:41:27.348315+00:00",
+            "generatorReview": [
+              "Full pixels inspected: repeated tall narrow-faced Osvan identity, high dark court-coat collar, wrist-buckled gloves, compatible crowned-hawk signet; no physical crown worn.",
+              "Three uncropped figures and matching head studies; carried case/pen consistent with source. Broad warm lamp-lit planes and deep connected dark coat values; no setting, swatches or engineering fiction."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:41:27.354088+00:00",
+        "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+        "outputSha256": "cd88540c3330ab4cada50d5daf6e89582c454815816579a5aa5484ec8a777933",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full pixels inspected: repeated tall narrow-faced Osvan identity, high dark court-coat collar, wrist-buckled gloves, compatible crowned-hawk signet; no physical crown worn.",
+          "Three uncropped figures and matching head studies; carried case/pen consistent with source. Broad warm lamp-lit planes and deep connected dark coat values; no setting, swatches or engineering fiction."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "560d9b2662632357ee0faaea94fc47bd841969fa959fa555cecf25249d370d94"
+      },
+      "recurrence": {
+        "identityKey": "a-crown-in-the-bargain:osvan-rhel",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-crown-in-the-bargain/title-image.jpg",
+          "role": "Inspected compatible signet/herald design only, no human identity provided.",
+          "sha256": "d2be9642b5849854d7facfe39126d0ac0669308824a19d78fd5fe042226c39fd",
+          "inspected": true,
+          "notes": "Gold fox and crowned-hawk signets, red/white optical heralds; no depicted cast faces. Photographic cover rendering not adopted."
+        },
+        {
+          "path": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "role": "Inspected story nighttime lamplight and muted warm/cool painted values, no setting on sheet.",
+          "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "inspected": true,
+          "notes": "Low warm amber lamp/fire illumination with large connected blue-violet shadows, restrained pale cloth; rainy shuttered night."
+        }
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Osvan Rhel",
+        "sourceRole": "Co-protagonist; prince learning reciprocal consent",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "cd88540c3330ab4cada50d5daf6e89582c454815816579a5aa5484ec8a777933"
+    },
+    {
+      "id": "maura-velset",
+      "name": "Maura Velset",
+      "nameAssignment": {
+        "name": "Maura Velset",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Tareya's attendant",
+        "scope": "Art and art metadata only; source prose/canon/universe unchanged.",
+        "nameCheck": "Exact full name checked with rg against universe, all story records including frozen NAMES, and current character specs; no collision found."
+      },
+      "role": "Substantial supporting attendant providing practical care and witness support",
+      "selectionEvidence": [
+        {
+          "quote": "Her gray hair had escaped its pins",
+          "line": 89,
+          "explanation": "Introduced bodily and remains active through bridge and final compact."
+        },
+        {
+          "quote": "Tareya's attendant sanded wet ink.",
+          "line": 387,
+          "explanation": "Supports completion of negotiated agreement."
+        }
+      ],
+      "form": "Human older woman",
+      "storyAppearance": {
+        "anatomy": "Human; ordinary two arms/two legs.",
+        "lifeStage": "Gray-haired adult; older age interpreted.",
+        "proportions": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin, hair, cloth and leather.",
+        "clothing": "Blue gown with cuffs wet to elbows.",
+        "equipment": "Hair pins; oilskin and clean cloth for articles; carried glove/mantle service items.",
+        "scale": "Human.",
+        "movement": "Carries tray/oilskin, fastens throat clasp, blots and sands wet ink.",
+        "distinctiveFeatures": "Gray hair escaping pins, practical familiar speech."
+      },
+      "explicitCanon": [
+        "Story-local unnamed attendant is a gray-haired woman wearing blue gown with wet cuffs; given art name does not alter source."
+      ],
+      "visualInterpretation": [
+        "Woman around sixty, stocky practical build, soft lined broad face, brown complexion, gray bun escaping plain pins, muted blue wool gown and stout boots.",
+        "Show cloth/oilskin bundle as small personal carried detail; no tray meal scene, hearth or large props."
+      ],
+      "output": "stories/a-crown-in-the-bargain/art/characters/maura-velset.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Image1 is sole target, completed oil folio of Maura Velset. Remove ONLY the decorative bottom-right slogan 'Attendant · Practical · Steady / Cares for people and details alike' and its underline, replacing with matching empty quiet ivory. Preserve all exact identifying headings, useful view/cuff/cloth labels, every figure/face, gray hair, blue gown and wet-cuff states, oilskin/cloth details, coherent anatomy, warm lamplight values and broad matte oil paint. No other changes, no scene or palette swatches. Return complete1536x1024 sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Maura Velset\". Source role: Substantial supporting attendant providing practical care and witness support. Subject Human older woman. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Gray-haired adult; older age interpreted.\",\"proportions\":\"Ordinary human.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Blue gown with cuffs wet to elbows.\",\"equipment\":\"Hair pins; oilskin and clean cloth for articles; carried glove/mantle service items.\",\"scale\":\"Human.\",\"movement\":\"Carries tray/oilskin, fastens throat clasp, blots and sands wet ink.\",\"distinctiveFeatures\":\"Gray hair escaping pins, practical familiar speech.\"}. Design choices: Woman around sixty, stocky practical build, soft lined broad face, brown complexion, gray bun escaping plain pins, muted blue wool gown and stout boots. Show cloth/oilskin bundle as small personal carried detail; no tray meal scene, hearth or large props.. Source-backed distinct states: []. Show pinned gray bun with escaped strands and visibly darker wet cuffs, two states 'Dry cuff' and 'Rain-wet cuff' as fabric detail, no wet-body exposure. Her wry and intent expressions are gentle mature face studies.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+                "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+                "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+                "inspected": true
+              }
+            ],
+            "reason": "Full story cast assessment and actual source-cover/interior inspection complete; source names or authorized unique art names fixed before generation.",
+            "startedAt": "2026-09-23T21:32:08.737983+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-4326fe0e-f90b-4350-84f1-db558b64f724.png",
+            "outputSha256": "269910843fa324fce6fc9c7b3b833f9a4bd9e16481c35172b69be98e9a9636ff",
+            "generatorReview": [
+              "Remove decorative bottom slogan; gray-haired attendant, blue gown/cuffs and anatomy otherwise pass."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: precise-object-edit. Image1 is sole target, completed oil folio of Maura Velset. Remove ONLY the decorative bottom-right slogan 'Attendant · Practical · Steady / Cares for people and details alike' and its underline, replacing with matching empty quiet ivory. Preserve all exact identifying headings, useful view/cuff/cloth labels, every figure/face, gray hair, blue gown and wet-cuff states, oilskin/cloth details, coherent anatomy, warm lamplight values and broad matte oil paint. No other changes, no scene or palette swatches. Return complete1536x1024 sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-4326fe0e-f90b-4350-84f1-db558b64f724.png",
+                "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+                "sha256": "269910843fa324fce6fc9c7b3b833f9a4bd9e16481c35172b69be98e9a9636ff",
+                "inspected": true
+              }
+            ],
+            "reason": "Generator visual review identified narrow unsupported accessory/decorative-text cleanup.",
+            "startedAt": "2026-09-23T21:41:32.665721+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-3ba4c17e-1c47-4ecb-b821-048ce421eed2.png",
+            "outputSha256": "38966efc5ebdfc2edf215bad6ce5c37178f246d1bdf3cfd25d9c64fec92bc2a8",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:49:04.145971+00:00",
+            "generatorReview": [
+              "Corrected full sheet inspected: decorative slogan removed; one consistent older gray-haired woman across front/side/rear and expressions, blue gown, escaping hair pins, visibly wet/dry cuff details, carried oilskin/cloth.",
+              "Ordinary human anatomy, readable authorized name/title, complete isolated silhouettes. Mature face/cloth share broad matte oil masses, warm night-lamp accents and quiet dark values; no location or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-4326fe0e-f90b-4350-84f1-db558b64f724.png",
+            "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+            "sha256": "269910843fa324fce6fc9c7b3b833f9a4bd9e16481c35172b69be98e9a9636ff",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:49:04.150454+00:00",
+        "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+        "outputSha256": "38966efc5ebdfc2edf215bad6ce5c37178f246d1bdf3cfd25d9c64fec92bc2a8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-4326fe0e-f90b-4350-84f1-db558b64f724.png",
+            "role": "Inspected candidate; targeted removal only, preserve identity and painting.",
+            "sha256": "269910843fa324fce6fc9c7b3b833f9a4bd9e16481c35172b69be98e9a9636ff",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected full sheet inspected: decorative slogan removed; one consistent older gray-haired woman across front/side/rear and expressions, blue gown, escaping hair pins, visibly wet/dry cuff details, carried oilskin/cloth.",
+          "Ordinary human anatomy, readable authorized name/title, complete isolated silhouettes. Mature face/cloth share broad matte oil masses, warm night-lamp accents and quiet dark values; no location or swatches."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "894b08ce3367f9c5fe25c063a8f8815aad76f665eb242b4af8c4bafa2eb529d3"
+      },
+      "recurrence": {
+        "identityKey": "a-crown-in-the-bargain:maura-velset",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-crown-in-the-bargain/title-image.jpg",
+          "role": "Inspected compatible signet/herald design only, no human identity provided.",
+          "sha256": "d2be9642b5849854d7facfe39126d0ac0669308824a19d78fd5fe042226c39fd",
+          "inspected": true,
+          "notes": "Gold fox and crowned-hawk signets, red/white optical heralds; no depicted cast faces. Photographic cover rendering not adopted."
+        },
+        {
+          "path": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "role": "Inspected story nighttime lamplight and muted warm/cool painted values, no setting on sheet.",
+          "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "inspected": true,
+          "notes": "Low warm amber lamp/fire illumination with large connected blue-violet shadows, restrained pale cloth; rainy shuttered night."
+        }
+      ],
+      "states": [],
+      "outputSha256": "38966efc5ebdfc2edf215bad6ce5c37178f246d1bdf3cfd25d9c64fec92bc2a8"
+    },
+    {
+      "id": "cernan-valeck",
+      "name": "Cernan Valeck",
+      "nameAssignment": {
+        "name": "Cernan Valeck",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Royal chamberlain",
+        "scope": "Art and art metadata only; source prose/canon/universe unchanged.",
+        "nameCheck": "Exact full name checked with rg against universe, all story records including frozen NAMES, and current character specs; no collision found."
+      },
+      "role": "Substantial supporting official; carries legal materials, witnesses and records outcome",
+      "selectionEvidence": [
+        {
+          "quote": "The royal chamberlain opened the door precisely far enough to show his narrow face.",
+          "line": 159,
+          "explanation": "Distinct recurring official whose timekeeping and protocol support action."
+        },
+        {
+          "quote": "Parallel household registered.",
+          "line": 417,
+          "explanation": "Witnesses final resolution."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Human; ordinary two arms/two legs.",
+        "lifeStage": "Adult; exact age unstated.",
+        "proportions": "Narrow face; body unspecified.",
+        "markings": "None specified.",
+        "materials": "Skin, hair, cloth and leather.",
+        "clothing": "Period court/travel clothing; specifics below.",
+        "equipment": "Black dispatch case; documents and writing implements associated with witnessed registration.",
+        "scale": "Human.",
+        "movement": "Precise bow, carries case against chest, keeps time and records proceedings.",
+        "distinctiveFeatures": "Narrow face and controlled protocol posture."
+      },
+      "explicitCanon": [
+        "Story-local unnamed royal chamberlain, man with narrow face, carries black dispatch case and writes notes."
+      ],
+      "visualInterpretation": [
+        "Man around fifty-five, lean, medium-brown complexion, short iron-gray hair and clean-shaven long face; plain dark court coat with modest gray piping is choice.",
+        "No invented herald/badge or crown. Night lamp-defined warm planes and deep connected cool shadow."
+      ],
+      "output": "stories/a-crown-in-the-bargain/art/characters/cernan-valeck.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Cernan Valeck\". Source role: Substantial supporting official; carries legal materials, witnesses and records outcome. Subject Human man. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Adult; exact age unstated.\",\"proportions\":\"Narrow face; body unspecified.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Period court/travel clothing; specifics below.\",\"equipment\":\"Black dispatch case; documents and writing implements associated with witnessed registration.\",\"scale\":\"Human.\",\"movement\":\"Precise bow, carries case against chest, keeps time and records proceedings.\",\"distinctiveFeatures\":\"Narrow face and controlled protocol posture.\"}. Design choices: Man around fifty-five, lean, medium-brown complexion, short iron-gray hair and clean-shaven long face; plain dark court coat with modest gray piping is choice. No invented herald/badge or crown. Night lamp-defined warm planes and deep connected cool shadow.. Source-backed distinct states: []. Include closed black dispatch case with simple clasp, no invented logo. Expressions 'Protocol' and 'Concern' maintain narrow clean-shaven face.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Cernan Valeck\". Source role: Substantial supporting official; carries legal materials, witnesses and records outcome. Subject Human man. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Adult; exact age unstated.\",\"proportions\":\"Narrow face; body unspecified.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Period court/travel clothing; specifics below.\",\"equipment\":\"Black dispatch case; documents and writing implements associated with witnessed registration.\",\"scale\":\"Human.\",\"movement\":\"Precise bow, carries case against chest, keeps time and records proceedings.\",\"distinctiveFeatures\":\"Narrow face and controlled protocol posture.\"}. Design choices: Man around fifty-five, lean, medium-brown complexion, short iron-gray hair and clean-shaven long face; plain dark court coat with modest gray piping is choice. No invented herald/badge or crown. Night lamp-defined warm planes and deep connected cool shadow.. Source-backed distinct states: []. Include closed black dispatch case with simple clasp, no invented logo. Expressions 'Protocol' and 'Concern' maintain narrow clean-shaven face.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+                "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+                "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+                "inspected": true
+              }
+            ],
+            "reason": "Full story cast assessment and actual source-cover/interior inspection complete; source names or authorized unique art names fixed before generation.",
+            "startedAt": "2026-09-23T21:32:09.765626+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-7a988bff-e8e4-467a-809c-872364250d07.png",
+            "outputSha256": "3c17671d62391f78e371434d58d3d25926fced3a8e2d1a3d42deb18153e67bef",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:41:28.479410+00:00",
+            "generatorReview": [
+              "Full pixels inspected: consistent narrow-faced older chamberlain across three body views and portraits; black dispatch case and writing materials support witnessed duties, no invented herald or crown.",
+              "Readable authorized art name/title; coherent anatomy and silhouettes. Mature skin and dark cloth share broad matte oil handling, warm local lamp accents and muted shadows; no setting or palette swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:41:28.484820+00:00",
+        "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+        "outputSha256": "3c17671d62391f78e371434d58d3d25926fced3a8e2d1a3d42deb18153e67bef",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full pixels inspected: consistent narrow-faced older chamberlain across three body views and portraits; black dispatch case and writing materials support witnessed duties, no invented herald or crown.",
+          "Readable authorized art name/title; coherent anatomy and silhouettes. Mature skin and dark cloth share broad matte oil handling, warm local lamp accents and muted shadows; no setting or palette swatches."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e18122d51f0083851a5093980231409b5288d8f5678697c135f3efc1ccb788df"
+      },
+      "recurrence": {
+        "identityKey": "a-crown-in-the-bargain:cernan-valeck",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-crown-in-the-bargain/title-image.jpg",
+          "role": "Inspected compatible signet/herald design only, no human identity provided.",
+          "sha256": "d2be9642b5849854d7facfe39126d0ac0669308824a19d78fd5fe042226c39fd",
+          "inspected": true,
+          "notes": "Gold fox and crowned-hawk signets, red/white optical heralds; no depicted cast faces. Photographic cover rendering not adopted."
+        },
+        {
+          "path": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "role": "Inspected story nighttime lamplight and muted warm/cool painted values, no setting on sheet.",
+          "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "inspected": true,
+          "notes": "Low warm amber lamp/fire illumination with large connected blue-violet shadows, restrained pale cloth; rainy shuttered night."
+        }
+      ],
+      "states": [],
+      "outputSha256": "3c17671d62391f78e371434d58d3d25926fced3a8e2d1a3d42deb18153e67bef"
+    },
+    {
+      "id": "pevri",
+      "name": "Pevri",
+      "nameAssignment": {
+        "name": "Pevri",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Young lamp tender",
+        "scope": "Art and art metadata only; source prose/canon/universe unchanged.",
+        "nameCheck": "Exact full name checked with rg against universe, all story records including frozen NAMES, and current character specs; no collision found."
+      },
+      "role": "Substantial technical supporting role; maintains the relay that supports registration",
+      "selectionEvidence": [
+        {
+          "quote": "A young lamp tender followed with a hooked pole and a sack of dry crystal wicks.",
+          "line": 213,
+          "explanation": "Supports journey and repeated critical repairs."
+        },
+        {
+          "quote": "South mirror slipping",
+          "line": 387,
+          "explanation": "Maintains slipping relay while terms are finalized."
+        }
+      ],
+      "form": "Young human; gender not specified",
+      "storyAppearance": {
+        "anatomy": "Human; ordinary two arms/two legs.",
+        "lifeStage": "Young.",
+        "proportions": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin, hair, cloth and leather.",
+        "clothing": "Period court/travel clothing; specifics below.",
+        "equipment": "Hooked pole and sack of dry crystal wicks; tool work on housing/clamps, no autonomous magic asserted.",
+        "scale": "Human.",
+        "movement": "Kneels to change wet wick, carries tools, climbs ladder and tightens clamp.",
+        "distinctiveFeatures": "No source face, hair, gender or outfit description."
+      },
+      "explicitCanon": [
+        "Story-local unnamed young lamp tender with hooked pole and sack of dry crystal wicks; gender unspecified."
+      ],
+      "visualInterpretation": [
+        "Androgynous young adult about twenty, slim build, tawny skin, cropped chestnut curls, oval face; olive-gray work tunic and brown trousers/boots are restrained choices.",
+        "Carry simple maintenance pole and small wick sack, no glowing magic staff, armor or invented engineering cross-section. No ladder/location rendered."
+      ],
+      "output": "stories/a-crown-in-the-bargain/art/characters/pevri.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Pevri\". Source role: Substantial technical supporting role; maintains the relay that supports registration. Subject Young human; gender not specified. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Young.\",\"proportions\":\"Ordinary human.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Period court/travel clothing; specifics below.\",\"equipment\":\"Hooked pole and sack of dry crystal wicks; tool work on housing/clamps, no autonomous magic asserted.\",\"scale\":\"Human.\",\"movement\":\"Kneels to change wet wick, carries tools, climbs ladder and tightens clamp.\",\"distinctiveFeatures\":\"No source face, hair, gender or outfit description.\"}. Design choices: Androgynous young adult about twenty, slim build, tawny skin, cropped chestnut curls, oval face; olive-gray work tunic and brown trousers/boots are restrained choices. Carry simple maintenance pole and small wick sack, no glowing magic staff, armor or invented engineering cross-section. No ladder/location rendered.. Source-backed distinct states: []. Show simple long wooden maintenance pole ending in small practical hook, and fabric sack with a few dry crystal wicks as integral carried tools. No conjuring, light blast or magical glow. Head studies 'Attentive' and 'Working'; same cropped curls and youthful face.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE isolated character reference folio, landscape1536x1024 3:2, quiet warm ivory ground. Exact character name plus story title \"A Crown in the Bargain\". Images1-2 govern ONLY collection paint/presentation, not identity/outfit: Canadian Group of Seven-related broad oil colour/value masses, directional varied bristle strokes, connected quiet planes and selective tactile impasto on skin, cloth and hair alike. Image3 governs the story's NIGHT LAMPLIGHT: restrained warm amber lit planes and large deep violet/blue-gray shadows, with genuinely lost edges in dark cloth, no default daylight or cinematic rim. No room, fire, lamps, scenery, ground, props from setting or sky on page. No paint swatches. Three unclipped isolated whole-person studies front/side/back or clearly labelled clothing states, two expressive head studies of SAME consistent identity, concise personal equipment details if specified. Real human anatomy, restrained matte painted eyes, no anime or smooth photo face, no gilded stroke edges, plastic CGI, uniform texture filter or false glow. Do not import reference character faces, armor, cloak, markings or equipment. All new facial/colour choices below are art interpretation where prose is silent. Equipment is source-specific only.\nHeading \"Pevri\". Source role: Substantial technical supporting role; maintains the relay that supports registration. Subject Young human; gender not specified. Supported appearance: {\"anatomy\":\"Human; ordinary two arms/two legs.\",\"lifeStage\":\"Young.\",\"proportions\":\"Ordinary human.\",\"markings\":\"None specified.\",\"materials\":\"Skin, hair, cloth and leather.\",\"clothing\":\"Period court/travel clothing; specifics below.\",\"equipment\":\"Hooked pole and sack of dry crystal wicks; tool work on housing/clamps, no autonomous magic asserted.\",\"scale\":\"Human.\",\"movement\":\"Kneels to change wet wick, carries tools, climbs ladder and tightens clamp.\",\"distinctiveFeatures\":\"No source face, hair, gender or outfit description.\"}. Design choices: Androgynous young adult about twenty, slim build, tawny skin, cropped chestnut curls, oval face; olive-gray work tunic and brown trousers/boots are restrained choices. Carry simple maintenance pole and small wick sack, no glowing magic staff, armor or invented engineering cross-section. No ladder/location rendered.. Source-backed distinct states: []. Show simple long wooden maintenance pole ending in small practical hook, and fabric sack with a few dry crystal wicks as integral carried tools. No conjuring, light blast or magical glow. Head studies 'Attentive' and 'Working'; same cropped curls and youthful face.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+                "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+                "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+                "inspected": true
+              }
+            ],
+            "reason": "Full story cast assessment and actual source-cover/interior inspection complete; source names or authorized unique art names fixed before generation.",
+            "startedAt": "2026-09-23T21:32:10.833990+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-10f0a8a6-89d2-4cda-ae19-f64034665bfa.png",
+            "outputSha256": "6b005951cbd9e7d4815314381f6ff58da0e97418175575c71d2d0ba0b0c6934b",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:41:29.599714+00:00",
+            "generatorReview": [
+              "Full pixels inspected: one consistent youthful human with cropped curls, practical work clothes, hooked maintenance pole and sack of dry crystal wicks; tools are mundane exterior items without invented magical powers.",
+              "Three unclipped figures and two matching expressions; ordinary hands/limbs coherent, exact authorized name/title legible. Night-motivated subdued warm paint planes/connected dark masses; no scene, ladder, floor patch or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:41:29.605811+00:00",
+        "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+        "outputSha256": "6b005951cbd9e7d4815314381f6ff58da0e97418175575c71d2d0ba0b0c6934b",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Paint/presentation ONLY; no borrowed red cape, armor, identity or equipment.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Broad painted human forms and restrained dark study-light handling ONLY; no borrowed hair, outfit, marks or identity.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+            "role": "Nighttime warm lamplight and large muted violet/blue shadows only; do not depict room, lamps, setting or ground.",
+            "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full pixels inspected: one consistent youthful human with cropped curls, practical work clothes, hooked maintenance pole and sack of dry crystal wicks; tools are mundane exterior items without invented magical powers.",
+          "Three unclipped figures and two matching expressions; ordinary hands/limbs coherent, exact authorized name/title legible. Night-motivated subdued warm paint planes/connected dark masses; no scene, ladder, floor patch or swatches."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "689ed7d0bd0d4882d4beee9e1ab8ebd28babff0e2d3d9db990aafd8fc41a41bb"
+      },
+      "recurrence": {
+        "identityKey": "a-crown-in-the-bargain:pevri",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-crown-in-the-bargain/title-image.jpg",
+          "role": "Inspected compatible signet/herald design only, no human identity provided.",
+          "sha256": "d2be9642b5849854d7facfe39126d0ac0669308824a19d78fd5fe042226c39fd",
+          "inspected": true,
+          "notes": "Gold fox and crowned-hawk signets, red/white optical heralds; no depicted cast faces. Photographic cover rendering not adopted."
+        },
+        {
+          "path": "stories/a-crown-in-the-bargain/art/interiors/01-marriage-chamber.png",
+          "role": "Inspected story nighttime lamplight and muted warm/cool painted values, no setting on sheet.",
+          "sha256": "07ce082c3a3338ac271d15bffa06493262d274f4e7868fee6e7f733e4f83af49",
+          "inspected": true,
+          "notes": "Low warm amber lamp/fire illumination with large connected blue-violet shadows, restrained pale cloth; rainy shuttered night."
+        }
+      ],
+      "states": [],
+      "outputSha256": "6b005951cbd9e7d4815314381f6ff58da0e97418175575c71d2d0ba0b0c6934b"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "3022663986dbd09f59f161a0312d4040ead2cafeb1265195d027c67a750ef3ec",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "All five selected cast sheets generated, visually inspected and helper pins verified."
+}

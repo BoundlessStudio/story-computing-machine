@@ -1,0 +1,1051 @@
+{
+  "slug": "before-lunch",
+  "title": "Before Lunch",
+  "source": "stories/before-lunch/story.md",
+  "canon": false,
+  "mainCastEvidence": "Finished prose read in full (453 lines). Job seeker, Vhulcren and Sathrie carry reversal; Dott and recurring escort actively constrain/release and perpetuate misunderstandings.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Satan",
+      "reason": "Offstage anticipated father only; no depicted action or appearance, no standalone developed role in this story."
+    },
+    {
+      "name": "The Velvet Goodbye",
+      "reason": "Absent legendary assassin identity mistakenly applied to protagonist; not established same person."
+    },
+    {
+      "name": "Stair guard/second large man",
+      "reason": "Minor blocking presence; separate from substantial escort."
+    },
+    {
+      "name": "Broker, wedding guests, caterer, delivery driver",
+      "reason": "Incidental references/background only."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/rules.md — System categories, Living agency, Divinity; no matching named universe entries"
+  ],
+  "characters": [
+    {
+      "id": "velthren",
+      "name": "Velthren",
+      "role": "Second-person protagonist: thirty-four-year-old job seeker mistaken for assassin and ancient elder; talks everyone out of hotel.",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-four, you possess no qualifications that fit neatly on an application.",
+          "line": 17,
+          "explanation": "Second-person protagonist: thirty-four-year-old job seeker mistaken for assassin and ancient elder; talks everyone out of hotel."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Exactly thirty-four.",
+        "proportions": "Lean ordinary adult, compatible cover male presentation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Shirt/collar and tight trousers/cheap shoes explicit; cover ivory wrinkled open-collar shirt, black trousers/cheap black shoes.",
+        "equipment": [
+          "Envelope of money, later returned"
+        ],
+        "scale": "Human",
+        "movement": "Persuasive composure, anxious hands/shaking, briefly kneels, escorts others.",
+        "distinctiveFeatures": [
+          "Dark hair blown into eyes",
+          "Sweat under shirt arms",
+          "Unremarkable appearance mistaken for legendary killer"
+        ]
+      },
+      "explicitCanon": [
+        "Age34, cheap shoes, loosened/pulled shirt collar, trousers; no assassin skills or equipment established.",
+        "Actual first name spoken but withheld from reader; not actually established as Velvet Goodbye or primordial elder."
+      ],
+      "visualInterpretation": [
+        "Art name Velthren; cover-compatible male presentation, light olive skin, shaggy short dark hair, expressive worried brows, light stubble.",
+        "No invented weapon/magic/assassin emblem."
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Velthren",
+        "sourceRole": "Unnamed second-person job seeker, actual first name withheld in narration",
+        "authority": "User explicitly authorizes distinct art names for unnamed main characters in full collection run.",
+        "scope": "Character-art metadata only; no source prose/canon rename."
+      },
+      "output": "stories/before-lunch/art/characters/velthren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One precise text cleanup only: under the hand-held envelope detail, replace 'Money envelope (optional)' with simply 'Money envelope'. Remove the parenthetical '(optional)' and restore quiet ivory in that small area. Keep ALL other image text, character identity, anatomy, views, hands, envelope, light and broad matte oil painting unchanged. No other edit.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Velthren\". Thirty-four-year-old ordinary job seeker, NOT an assassin or ancient being. Preserve compatible original cover human identity: lean adult man with light olive skin, shaggy short black hair, faint stubble, expressive worried brows, wrinkled cheap ivory open-collar shirt, dark slightly tight trousers, cheap scuffed black shoes. No weapon or magic. Two complete whole views and portraits of practiced composure/anxious realization. A plain money envelope is only optional personal prop. All views matte warm subdued window light with cool grayviolet shadows.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/title-image.jpg",
+                "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+                "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+                "inspected": true,
+                "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+                "role": "Story-motivated light/palette only; never setting.",
+                "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+                "inspected": true,
+                "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+              }
+            ],
+            "reason": "Initial source-grounded named cast sheet; individual source-supported anatomy and lighting.",
+            "startedAt": "2026-09-23T22:37:45.584338+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-26c5db68-50ff-4ec9-8049-b55ba40b78e2.png",
+            "outputSha256": "fbeeced10775d7959ae875b1570d70d0a2cceb2e5a7d6f642852c41f96eed0a2",
+            "generatorReview": "Unrequested production word optional in caption."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "One precise text cleanup only: under the hand-held envelope detail, replace 'Money envelope (optional)' with simply 'Money envelope'. Remove the parenthetical '(optional)' and restore quiet ivory in that small area. Keep ALL other image text, character identity, anatomy, views, hands, envelope, light and broad matte oil painting unchanged. No other edit.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-26c5db68-50ff-4ec9-8049-b55ba40b78e2.png",
+                "role": "Actual candidate, narrow final correction only.",
+                "inspected": true,
+                "sha256": "fbeeced10775d7959ae875b1570d70d0a2cceb2e5a7d6f642852c41f96eed0a2"
+              }
+            ],
+            "reason": "Unrequested production word optional in caption.",
+            "startedAt": "2026-09-23T22:46:14.493286+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-2cd39e10-c613-491b-9752-0d53fa205c91.png",
+            "outputSha256": "87e0b03f38e54c36098b103c9f058af62860a0999f6ed7e8a17525d42859ab7d",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:55:17.012885+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Caption cleaned, exact name/story. Two complete cover-compatible human views, age34 ordinary appearance, cheap clothes and no assassin gear/powers. Consistent expressive anxious face, envelope/hand studies, broad matte oil on all surfaces, no scene or swatch."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-26c5db68-50ff-4ec9-8049-b55ba40b78e2.png",
+            "role": "Actual candidate, narrow final correction only.",
+            "inspected": true,
+            "sha256": "fbeeced10775d7959ae875b1570d70d0a2cceb2e5a7d6f642852c41f96eed0a2"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:55:17.018082+00:00",
+        "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+        "outputSha256": "87e0b03f38e54c36098b103c9f058af62860a0999f6ed7e8a17525d42859ab7d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-26c5db68-50ff-4ec9-8049-b55ba40b78e2.png",
+            "role": "Actual candidate, narrow final correction only.",
+            "inspected": true,
+            "sha256": "fbeeced10775d7959ae875b1570d70d0a2cceb2e5a7d6f642852c41f96eed0a2"
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: Caption cleaned, exact name/story. Two complete cover-compatible human views, age34 ordinary appearance, cheap clothes and no assassin gear/powers. Consistent expressive anxious face, envelope/hand studies, broad matte oil on all surfaces, no scene or swatch.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "41fc708f06853343a848c835c74f3339c4ed678bdadbe039083031a92597d008"
+      },
+      "recurrence": {
+        "identityKey": "before-lunch:velthren",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/before-lunch/title-image.jpg",
+          "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+          "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+          "inspected": true,
+          "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "inspected": true,
+          "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        }
+      ],
+      "outputSha256": "87e0b03f38e54c36098b103c9f058af62860a0999f6ed7e8a17525d42859ab7d"
+    },
+    {
+      "id": "vhulcren",
+      "name": "Vhulcren",
+      "role": "Nonhuman coprotagonist/initial threat mistakes narrator for elder, becomes deferential and leaves voluntarily.",
+      "selectionEvidence": [
+        {
+          "quote": "The body unfolding above it has too many joints to count while you are moving backwards.",
+          "line": 149,
+          "explanation": "Nonhuman coprotagonist/initial threat mistakes narrator for elder, becomes deferential and leaves voluntarily."
+        }
+      ],
+      "form": "Nonhumanoid ancient many-jointed organism",
+      "storyAppearance": {
+        "anatomy": "Nonhumanoid foldable smooth pale enormous bulk, many long jointed limbs, small flat/narrow apparent face above greatly extended mouth; several mouths including lower ones; two pale flight membranes.",
+        "lifeStage": "Ancient, ate kings before human houses; recalled soft-seam-fed young state only described in memory, not depicted.",
+        "proportions": "Unfolded body reaches room ceiling; folded form almost tall human with too many umbrellas; no fixed limb number supplied.",
+        "markings": "No specified scars, fur, scales or armour.",
+        "materials": "Smooth pale breathing flesh with softly ridged cool touch; gray cloth coat.",
+        "clothing": "Gray high-collar coat covers folded form; removed to unfold, gathered and worn again for departure.",
+        "equipment": [],
+        "scale": "Unfolded ceiling-high; folded tall-human approximation; views not necessarily same scale.",
+        "movement": "Folds/unfolds multijointed limbs, stoops and shuffles, flies by two membrane downstrokes.",
+        "distinctiveFeatures": [
+          "Tiny apparent face over long mouth",
+          "Multiple lower mouths, no gore",
+          "Two pale membranes",
+          "Coat cumbersome around extra joints"
+        ]
+      },
+      "explicitCanon": [
+        "Source explicitly supports three states: coat-folded, enormous multijointed uncoated, flight with exactly two pale membranes.",
+        "No exact appendage count supplied, do not claim invented count as canon.",
+        "Cover supports long bulbous head/body, tiny face, stretched lateral mouth and long pale jointed limbs; source governs additional mouths and flight."
+      ],
+      "visualInterpretation": [
+        "Coherent interpreted appendage arrangement using several slender jointed supports and two slender handlike reaching limbs; count/layout not shared canon.",
+        "Muted ivory flesh painted in broad pearly ochre/grayviolet planes, dark thin mouth slits, tiny matte eyes, no gore/scales/horns/tail.",
+        "Three separate unclipped states, no human scale figure or environment; labels communicate different scale."
+      ],
+      "states": [
+        {
+          "name": "Folded",
+          "description": "High gray collar and awkward tall person-like clothed folded bundle."
+        },
+        {
+          "name": "Unfolded",
+          "description": "Ceiling-high smooth pale bulk, long multijointed limbs and multiple mouths, coat removed; no human frame."
+        },
+        {
+          "name": "Flight",
+          "description": "Folded coat form with exactly two pale membranes spread in a downstroke."
+        }
+      ],
+      "output": "stories/before-lunch/art/characters/vhulcren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One narrow anatomical correction on this exact Vhulcren folio, preserving all shapes/layout/limbs/paint. The source explicitly has several mouths, including lower mouths: in the LARGE CENTRAL UNFOLDED creature, add TWO small closed/slightly parted horizontal mouth slits on the lower smooth body between the upper limb roots, clearly separate from the enormous head mouth. Use restrained dark mauve-brown creases with pale fleshy rims, not human lips, no eyes around them, no gore, no extra teeth catalogue. They should read as secondary mouths at different lower positions on the same existing body, not a new face or separate creature. All other states stay intact: left high-collared folded form and right flight form with EXACTLY TWO pale membranes. Preserve the same tiny face/very long head mouth, coherent many-jointed pale limbs, all text, ivory background and broad matte Group-of-Seven-style oil masses with selective impasto. No new appendage, head, scenery or swatch.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Vhulcren\". Adapt page to this NONHUMANOID ancient organism; no human body forced under it. THREE widely separated complete unclipped states: left small \"Folded\" high-collared gray coat bundle that almost passes for tall person with too many umbrellas, tiny pale flat face and two pale delicate hands visible. Centre largest \"Unfolded\" nonhuman smooth breathing pale bulk with elongated bulbous head like cover, tiny face above an extremely long lateral mouth, several lower closed mouth slits, many long angular multijointed pale supports and delicate reaching forelimbs; body unfolds ceiling-high, coat absent. Right smaller \"Flight\": same folded coat/body identity with exactly TWO pale thin broad membrane wings spread, no feathers. Keep anatomy coherent; the story supplies no exact limb count so use a consistent readable interpreted cluster of several folded supports and reaching limbs, not a humanoid giant. Preserve compatible elongated head/face/long mouth from image3; no human torso, animal fur/scales/horns/tail, internal anatomy, blood or teeth catalogue. Coat is ordinary gray cloth and folds around appendages awkwardly. Smooth flesh depicted by broad matte ivory/ochre oil masses with grayviolet shadow, selective impasto, never photoreal or plastic. Source dining lamplight is subdued warm directional, no rim/highlight sparkle. No humans for scale, no furniture/ground or location. A tiny face/soft-ridged limb detail only if room; prioritize all three silhouettes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/title-image.jpg",
+                "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+                "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+                "inspected": true,
+                "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/02-private-dining-room.png",
+                "role": "Story-motivated light/palette only; never setting.",
+                "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+                "inspected": true,
+                "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+              }
+            ],
+            "reason": "Initial source-grounded named cast sheet; individual source-supported anatomy and lighting.",
+            "startedAt": "2026-09-23T22:37:46.566929+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-70dae4a9-7665-4071-a4ea-6f4ce3bcb184.png",
+            "outputSha256": "67a52b652f73b912304c37cbcb4c0d4dd734a9195d5bb97a0185ad1371012be4",
+            "generatorReview": "Source's multiple lower mouths missing from otherwise coherent three-state sheet."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "One narrow anatomical correction on this exact Vhulcren folio, preserving all shapes/layout/limbs/paint. The source explicitly has several mouths, including lower mouths: in the LARGE CENTRAL UNFOLDED creature, add TWO small closed/slightly parted horizontal mouth slits on the lower smooth body between the upper limb roots, clearly separate from the enormous head mouth. Use restrained dark mauve-brown creases with pale fleshy rims, not human lips, no eyes around them, no gore, no extra teeth catalogue. They should read as secondary mouths at different lower positions on the same existing body, not a new face or separate creature. All other states stay intact: left high-collared folded form and right flight form with EXACTLY TWO pale membranes. Preserve the same tiny face/very long head mouth, coherent many-jointed pale limbs, all text, ivory background and broad matte Group-of-Seven-style oil masses with selective impasto. No new appendage, head, scenery or swatch.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-70dae4a9-7665-4071-a4ea-6f4ce3bcb184.png",
+                "role": "Actual candidate, narrow final correction only.",
+                "inspected": true,
+                "sha256": "67a52b652f73b912304c37cbcb4c0d4dd734a9195d5bb97a0185ad1371012be4"
+              }
+            ],
+            "reason": "Source's multiple lower mouths missing from otherwise coherent three-state sheet.",
+            "startedAt": "2026-09-23T22:46:16.523108+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-54ad6607-9fcf-463f-85d9-4ddb5d29bba6.png",
+            "outputSha256": "4df33f80760d12bf4e5b5b56b12d3a7352ad00bc50b8ae153d12dad440466603",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:55:18.229590+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Separate folded/unfolded/flight states coherent and all unclipped; exactly two pale flight membranes. Nonhumanoid long pale smooth bulk and multiple jointed appendages, small apparent face/very long mouth, several secondary lower mouth slits now visible (source does not specify exact mouth/limb count). Gray coat folds over compact state, no armor/fur/scale or human forced anatomy. Broad matte ivory/oil shadows, readable labels, no scenery/swatches; interpretive arrangement not canonized."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-70dae4a9-7665-4071-a4ea-6f4ce3bcb184.png",
+            "role": "Actual candidate, narrow final correction only.",
+            "inspected": true,
+            "sha256": "67a52b652f73b912304c37cbcb4c0d4dd734a9195d5bb97a0185ad1371012be4"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:55:18.235471+00:00",
+        "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+        "outputSha256": "4df33f80760d12bf4e5b5b56b12d3a7352ad00bc50b8ae153d12dad440466603",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-70dae4a9-7665-4071-a4ea-6f4ce3bcb184.png",
+            "role": "Actual candidate, narrow final correction only.",
+            "inspected": true,
+            "sha256": "67a52b652f73b912304c37cbcb4c0d4dd734a9195d5bb97a0185ad1371012be4"
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: Separate folded/unfolded/flight states coherent and all unclipped; exactly two pale flight membranes. Nonhumanoid long pale smooth bulk and multiple jointed appendages, small apparent face/very long mouth, several secondary lower mouth slits now visible (source does not specify exact mouth/limb count). Gray coat folds over compact state, no armor/fur/scale or human forced anatomy. Broad matte ivory/oil shadows, readable labels, no scenery/swatches; interpretive arrangement not canonized.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "d3ef766f4609147c78d3e9f29818708b1b5882f7d4b002ee98d03c2444504070"
+      },
+      "recurrence": {
+        "identityKey": "before-lunch:vhulcren",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/before-lunch/title-image.jpg",
+          "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+          "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+          "inspected": true,
+          "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "inspected": true,
+          "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Vhulcren",
+        "sourceRole": "Nonhuman coprotagonist/initial threat mistakes narrator for elder, becomes deferential and leaves voluntarily.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "4df33f80760d12bf4e5b5b56b12d3a7352ad00bc50b8ae153d12dad440466603"
+    },
+    {
+      "id": "sathrie",
+      "name": "Sathrie",
+      "role": "Coprotagonist and Satan's daughter mistakes returned ring for proposal, protects protagonist, then agrees to actual lunch.",
+      "selectionEvidence": [
+        {
+          "quote": "Her white suit fits her beautifully, her dark hair is swept away from her face, and she looks about your age.",
+          "line": 217,
+          "explanation": "Coprotagonist and Satan's daughter mistakes returned ring for proposal, protects protagonist, then agrees to actual lunch."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Humanlike adult woman with two small horns that emerge through hair; no other demonic anatomy described.",
+        "lifeStage": "Looks about34, actual age unspecified.",
+        "proportions": "Adult woman ordinary body.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Well-fitted white suit explicit; white trouser suit with low heeled dark shoes interpretive.",
+        "equipment": [
+          "Handbag",
+          "Phone",
+          "Gold ring with red thumbnail-sized stone and small nick on back"
+        ],
+        "scale": "Human",
+        "movement": "Confident warm/embarrassed expressions, tucks hair around horn, fleeting blue flame across knuckles.",
+        "distinctiveFeatures": [
+          "Swept-back dark hair",
+          "Two small horns appear after announcement",
+          "Blue knuckle flame transient"
+        ]
+      },
+      "explicitCanon": [
+        "Satan's daughter named Sathrie; adult about narrator's apparent age34, white suit/dark swept hair/handbag/phone.",
+        "Two small horns emerge; blue flame protects protagonist briefly; no tail/wings specified.",
+        "Gold red-stone ring with nick is her own returned ring, not marriage finalized."
+      ],
+      "visualInterpretation": [
+        "Warm deep brown skin, oval face, swept black hair pinned low, restrained cream-white tailoring; no source face detailed.",
+        "Matte cobalt brush flame only in separate labeled hand state, no cinematic glow."
+      ],
+      "states": [
+        {
+          "name": "At arrival",
+          "description": "No visible horns through swept hair."
+        },
+        {
+          "name": "Revealed",
+          "description": "Two small horns and same fitted suit."
+        },
+        {
+          "name": "Protective flame",
+          "description": "Brief small blue flame across knuckles only."
+        }
+      ],
+      "output": "stories/before-lunch/art/characters/sathrie.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Sathrie\". Adult humanlike woman appearing34, deep warm-brown skin/oval face (restrained chosen identity), dark hair swept away and pinned low, beautiful fitted WHITE trouser suit, plain low dark heels, handheld modest leather handbag and phone. Two complete whole views: front-three-quarter initially no horns visible, rear-three-quarter after EXACTLY TWO SMALL horns through same swept hair. Large face study with two small horns, warm then embarrassed expression. One hand detail gold ring with single large RED stone about thumbnail size, and separate minimal \"Protective flame\" hand with one small matte cobalt lick across knuckles, no bloom. No wings/tail/fangs/armor/extra demonic anatomy. Soft warm window light, connected grayviolet shadows, no gleaming suit or skin. Carry ordinary personal handbag/phone only.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Sathrie\". Adult humanlike woman appearing34, deep warm-brown skin/oval face (restrained chosen identity), dark hair swept away and pinned low, beautiful fitted WHITE trouser suit, plain low dark heels, handheld modest leather handbag and phone. Two complete whole views: front-three-quarter initially no horns visible, rear-three-quarter after EXACTLY TWO SMALL horns through same swept hair. Large face study with two small horns, warm then embarrassed expression. One hand detail gold ring with single large RED stone about thumbnail size, and separate minimal \"Protective flame\" hand with one small matte cobalt lick across knuckles, no bloom. No wings/tail/fangs/armor/extra demonic anatomy. Soft warm window light, connected grayviolet shadows, no gleaming suit or skin. Carry ordinary personal handbag/phone only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+                "role": "Story-motivated light/palette only; never setting.",
+                "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+                "inspected": true,
+                "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+              }
+            ],
+            "reason": "Initial source-grounded named cast sheet; individual source-supported anatomy and lighting.",
+            "startedAt": "2026-09-23T22:37:47.580575+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-a591673a-52de-407d-912f-68cfa67569a8.png",
+            "outputSha256": "d5d15b40afa2aab098eac87e818086af8c3dedc570d6331c00e425224bfa2e39",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:46:10.017545+00:00",
+            "generatorReview": "Actual pixels inspected: Consistent adult woman and white suit, two distinct hidden/revealed-horn whole views, exactly two small horns, handbag/phone/red-stone gold ring, blue transient knuckle flame only in detail. No added demonic anatomy, no scene/swatches; accurate text, broad matte oil on skin/suit."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:46:10.044516+00:00",
+        "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+        "outputSha256": "d5d15b40afa2aab098eac87e818086af8c3dedc570d6331c00e425224bfa2e39",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Consistent adult woman and white suit, two distinct hidden/revealed-horn whole views, exactly two small horns, handbag/phone/red-stone gold ring, blue transient knuckle flame only in detail. No added demonic anatomy, no scene/swatches; accurate text, broad matte oil on skin/suit.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "65979f5a85cb243429d0f64b12ab336fcfdeebf88186ce21f5b6c3c97f74d81c"
+      },
+      "recurrence": {
+        "identityKey": "before-lunch:sathrie",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/before-lunch/title-image.jpg",
+          "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+          "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+          "inspected": true,
+          "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "inspected": true,
+          "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Sathrie",
+        "sourceRole": "Coprotagonist and Satan's daughter mistakes returned ring for proposal, protects protagonist, then agrees to actual lunch.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "d5d15b40afa2aab098eac87e818086af8c3dedc570d6331c00e425224bfa2e39"
+    },
+    {
+      "id": "dott",
+      "name": "Mr. Dott",
+      "role": "Central human antagonist hires what he believes is assassin, then accepts refund and permits guest departure.",
+      "selectionEvidence": [
+        {
+          "quote": "I paid for a dead thing.",
+          "line": 327,
+          "explanation": "Central human antagonist hires what he believes is assassin, then accepts refund and permits guest departure."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult man, precise age unspecified; middle-aged interpretation.",
+        "proportions": "Average adult height, stocky interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Jacket explicit; tailored charcoal-gray suit/ivory shirt/muted burgundy tie interpretation.",
+        "equipment": [
+          "Payment envelope",
+          "Open napkin in later state"
+        ],
+        "scale": "Human",
+        "movement": "Small commanding hand gestures, measured face, intercepts escort wrist.",
+        "distinctiveFeatures": [
+          "Hotel authority; no magical or criminal insignia described"
+        ]
+      },
+      "explicitCanon": [
+        "Mr. Dott orders permanent removal/murder, pays advance then accepts returned envelope.",
+        "Jacket and carried open napkin; no physical face/age described."
+      ],
+      "visualInterpretation": [
+        "About55, light skin, balding brown-gray hair, broad square face, stocky ordinary body, discreet suit; not source canon.",
+        "No cigar, gun, medals or luxury symbolic additions."
+      ],
+      "states": [],
+      "output": "stories/before-lunch/art/characters/dott.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Mr. Dott\". Middle-aged adult man interpreted about55, stocky ordinary stature, light skin, balding brown-gray hair, broad square face, discreet tailored charcoal suit, ivory shirt and muted burgundy tie, dark shoes. Two complete isolated whole views and restrained commanding portrait, one subtle hand gesture with plain payment envelope. Optional loosely held open white napkin, no other props. No gun, cigar, badges, tattoos or jewelry. Warm subtle office window light and coherent muted cool shadows; stern but ordinary, no criminal caricature.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Mr. Dott\". Middle-aged adult man interpreted about55, stocky ordinary stature, light skin, balding brown-gray hair, broad square face, discreet tailored charcoal suit, ivory shirt and muted burgundy tie, dark shoes. Two complete isolated whole views and restrained commanding portrait, one subtle hand gesture with plain payment envelope. Optional loosely held open white napkin, no other props. No gun, cigar, badges, tattoos or jewelry. Warm subtle office window light and coherent muted cool shadows; stern but ordinary, no criminal caricature.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/01-dotts-office.png",
+                "role": "Story-motivated light/palette only; never setting.",
+                "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+                "inspected": true,
+                "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+              }
+            ],
+            "reason": "Initial source-grounded named cast sheet; individual source-supported anatomy and lighting.",
+            "startedAt": "2026-09-23T22:37:48.539628+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-696e2610-0525-43e9-846b-88b3c3eac219.png",
+            "outputSha256": "3989cbb439118581e24b4640a2ca6403307512dc584cb71a59e500b6ad0ea470",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:46:11.220957+00:00",
+            "generatorReview": "Actual pixels inspected: Three complete consistent stocky middle-aged man views, understated suit and commanding posture, payment envelope/open napkin match story; no additional stereotype objects. Accurate identifying text, broad matte oil planes and quiet ivory; no settings/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/01-dotts-office.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:46:11.225980+00:00",
+        "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+        "outputSha256": "3989cbb439118581e24b4640a2ca6403307512dc584cb71a59e500b6ad0ea470",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/01-dotts-office.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Three complete consistent stocky middle-aged man views, understated suit and commanding posture, payment envelope/open napkin match story; no additional stereotype objects. Accurate identifying text, broad matte oil planes and quiet ivory; no settings/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "bfb28dd7643ffd19b4ab816547494efc5a52418b507fbc17bb397bdd67f71482"
+      },
+      "recurrence": {
+        "identityKey": "before-lunch:dott",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/before-lunch/title-image.jpg",
+          "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+          "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+          "inspected": true,
+          "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "inspected": true,
+          "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Mr. Dott",
+        "sourceRole": "Central human antagonist hires what he believes is assassin, then accepts refund and permits guest departure.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "3989cbb439118581e24b4640a2ca6403307512dc584cb71a59e500b6ad0ea470"
+    },
+    {
+      "id": "pavrel",
+      "name": "Pavrel",
+      "role": "Substantial escort/bouncer perpetuates assassin misidentification, controls exits and witnesses resolutions.",
+      "selectionEvidence": [
+        {
+          "quote": "The escort pulls back his jacket to adjust the gun at his belt.",
+          "line": 93,
+          "explanation": "Substantial escort/bouncer perpetuates assassin misidentification, controls exits and witnesses resolutions."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult man; age unspecified.",
+        "proportions": "Thickset large man explicitly.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Jacket and belted gun explicit; plain navy suit/gray shirt/trousers interpreted.",
+        "equipment": [
+          "Belt-holstered handgun, never drawn in reference"
+        ],
+        "scale": "Human",
+        "movement": "Protective blocking stance and impressed uneasy expression.",
+        "distinctiveFeatures": [
+          "Thickset body",
+          "Carries narrator's mistaken assassin reputation through scenes"
+        ]
+      },
+      "explicitCanon": [
+        "Thickset male escort with jacket and belt gun; significant repeated dialogue and actions.",
+        "Separate from man initially blocking stairs; do not merge both."
+      ],
+      "visualInterpretation": [
+        "Art name Pavrel, about40, medium-brown skin, close-shaved hair, broad round face, restrained navy business security clothes.",
+        "No badges/tactical armor/sunglasses/unmentioned weapons."
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "user-authorized-art-name",
+        "name": "Pavrel",
+        "sourceRole": "Unnamed thickset escort",
+        "authority": "User explicitly authorizes distinct art names for unnamed main characters in full collection run.",
+        "scope": "Character-art metadata only; no source prose/canon rename."
+      },
+      "output": "stories/before-lunch/art/characters/pavrel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Pavrel\". Large thickset adult male hotel escort, interpreted about40, medium-brown skin, close-shaved hair, broad round face. Plain navy jacket/suit, gray shirt, matching dark trousers and black shoes. Two complete isolated whole views plus impressed uneasy face study; jacket pulled only enough to show source belt-holstered handgun, safely retained and not held or aimed. The same gun once, not duplicates. Normal two arms/hands/legs. No tactical armor, military badge, sunglasses, extra weapon or setting. Warm subdued lounge light and connected cool shadows.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Before Lunch\". First two references are style only; any original cover is compatible SUBJECT identity only, no anime/scene; last interior supplies LIGHT ONLY and must never appear. Exact heading \"Pavrel\". Large thickset adult male hotel escort, interpreted about40, medium-brown skin, close-shaved hair, broad round face. Plain navy jacket/suit, gray shirt, matching dark trousers and black shoes. Two complete isolated whole views plus impressed uneasy face study; jacket pulled only enough to show source belt-holstered handgun, safely retained and not held or aimed. The same gun once, not duplicates. Normal two arms/hands/legs. No tactical armor, military badge, sunglasses, extra weapon or setting. Warm subdued lounge light and connected cool shadows.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+                "role": "Story-motivated light/palette only; never setting.",
+                "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+                "inspected": true,
+                "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+              }
+            ],
+            "reason": "Initial source-grounded named cast sheet; individual source-supported anatomy and lighting.",
+            "startedAt": "2026-09-23T22:37:49.560745+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-5e3b790b-f91e-4b52-afd3-a0f30f3f2ebf.png",
+            "outputSha256": "5bd56f0ec094dd6dbf206aa1c93aeb9134ddffa1bf93edc1d77213a1b506580f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T22:46:12.362490+00:00",
+            "generatorReview": "Actual pixels inspected: Two complete thickset escort views, holstered single handgun detail retained safely, no police/military insignia. Consistent face/body and uneasy expression, ordinary jacket/source gear, readable name/title; broad oil masses all surfaces, no scene/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:46:12.367201+00:00",
+        "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+        "outputSha256": "5bd56f0ec094dd6dbf206aa1c93aeb9134ddffa1bf93edc1d77213a1b506580f",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/before-lunch/art/interiors/03-hotel-lounge.png",
+            "role": "Story-motivated light/palette only; never setting.",
+            "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+            "inspected": true,
+            "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Two complete thickset escort views, holstered single handgun detail retained safely, no police/military insignia. Consistent face/body and uneasy expression, ordinary jacket/source gear, readable name/title; broad oil masses all surfaces, no scene/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "108b4a58ac0ffac11d185d0d6ef3b6c3dad3cf6d30605e09b660000c66919821"
+      },
+      "recurrence": {
+        "identityKey": "before-lunch:pavrel",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/before-lunch/title-image.jpg",
+          "role": "Compatible Vhulcren and protagonist identity only; not glossy/anime face or scene.",
+          "sha256": "ddd23522e3c0d6dfa8fabca32f680ead58663818e903e4f9e51ab29a6aebd112",
+          "inspected": true,
+          "notes": "Pale smooth long bulbous many-jointed creature, tiny apparent face/mouth extending laterally; scruffy darkhaired anxious man in ivory shirt and dark trousers."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/01-dotts-office.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b0e405433df53faf80d20854ac6cde62b32a57b5d5f0d9eca8a266802c3bb5fc",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/02-private-dining-room.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "b1c3c6b299b37f47045a8da26fd45f20e515d1dbbc48970ea595f011efda8420",
+          "inspected": true,
+          "notes": "Drawn-curtain lamplight ochre and connected deep blueviolet shadows."
+        },
+        {
+          "path": "stories/before-lunch/art/interiors/03-hotel-lounge.png",
+          "role": "Story-motivated light/palette only; never setting.",
+          "sha256": "156cba3f9567685bef7a86ed5254342b7c351327cc52e75326aab70084512647",
+          "inspected": true,
+          "notes": "Daytime warm window light, muted cream/grayviolet connected shadows."
+        }
+      ],
+      "outputSha256": "5bd56f0ec094dd6dbf206aa1c93aeb9134ddffa1bf93edc1d77213a1b506580f"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "51b7a50448ff147b76c21a062129bc7b1d882ba15b7c000fde6d96d17cf16e4e",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "Five qualifying characters complete including three-form nonhuman Vhulcren; source/spec/reference/output pins all verified."
+}

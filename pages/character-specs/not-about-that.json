@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "slug": "not-about-that",
+  "title": "Not About That",
+  "source": "stories/not-about-that/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Sibling pair alone sustains viewpoint, rescue and relationship. Other fliers/neighbor are cameo roles.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Fifth-floor auntie",
+      "reason": "Brief comic neighbor shouts; no sustained arc."
+    },
+    {
+      "name": "Coral-clad girl, delivery girls, oilskin woman, other flyers, cousin, mother and aunt",
+      "reason": "Passing setting figures or offstage references."
+    },
+    {
+      "name": "Copper focus",
+      "reason": "Explicitly nonliving and mindless, not a character."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md#Solstice Evening Bell (era only)",
+    "universe/style-guide.md#Personhood and moral consequence"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [],
+  "characters": [
+    {
+      "id": "lowen",
+      "name": "Lowen",
+      "role": "Fifteen-year-old boy who tries a feminine lift-step form, enjoys flight and learns to stop making his sister's identity an accusation.",
+      "selectionEvidence": [
+        {
+          "quote": "At fifteen, Lowen was old enough",
+          "explanation": "Explicit age."
+        },
+        {
+          "quote": "His hair, usually an argument with gravity, slid in a heavy black rope between his shoulder blades.",
+          "explanation": "Transformation keeps identity while changing body and costume."
+        }
+      ],
+      "form": "Human boy, fifteen; usual and feminine lift-step bodily forms of the same person",
+      "storyAppearance": {
+        "anatomy": "Two arms/two legs in both forms. Transformed shorter feet, narrower hand/chin, lower balance, feminine appearance and voice; identity remains Lowen.",
+        "lifeStage": "Fifteen in all states; never adult or child/doll.",
+        "proportions": "Age-appropriate teen anatomy; transformed body feminine without sexualization.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair, ordinary clothing and magical costume; copper clasp with blue glass focuses supplied living power.",
+        "clothing": "Usual sweatshirt, jeans, battered sneakers. Transformed soft fitted boots, opaque dark tights, blue pleated overskirt and short copper-buttoned coat, copper belt.",
+        "equipment": "Copper clasp with blue glass; foot-sized blue light panes from own lift.",
+        "scale": "Ordinary teenager, modest height shift between forms not measured.",
+        "movement": "Buoyant air-step, awkward showmanship, controlled grounded landing.",
+        "distinctiveFeatures": "Short stubborn black hair usual; long heavy black hair in lift-step form."
+      },
+      "explicitCanon": [
+        "Fifteen-year-old boy named Lowen, Sarena's brother.",
+        "He deliberately supplies his living power to nonliving copper/blue-glass clasp.",
+        "Feminine lift-step form changes hair/body/voice/costume, no forced identity conclusion.",
+        "Must discharge accumulated lift through controlled landing before reverting.",
+        "Focus has no mind or agency."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible fair warm skin, dark eyes, narrow youthful transformed face, long black hair; usual form related brow/nose with slightly broader jaw and short unruly black hair.",
+        "Usual muted gray sweatshirt and blue jeans; transformed copper brown fitted but modest closed coat, cobalt overskirt, opaque charcoal tights and ivory soft flat boots.",
+        "Warm late-afternoon light for transformed views; twilight usual form with restrained cool shadow."
+      ],
+      "states": [
+        {
+          "name": "Lift-step form",
+          "description": "Same fifteen-year-old in feminine costume/body, fully clothed."
+        },
+        {
+          "name": "Usual form",
+          "description": "Same boy in sweatshirt/jeans/sneakers with short hair."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "not-about-that:lowen",
+        "links": [],
+        "evidence": "No matching shared-universe character; pre-Solstice era context only."
+      },
+      "references": [
+        {
+          "path": "stories/not-about-that/title-image.jpg",
+          "role": "Lowen's transformed face, long black hair and copper/blue costume only; repaint in oils",
+          "notes": "No identity diagnosis. Cover has opaque tights and full clothing. Do not reuse anime style or city backdrop.",
+          "inspected": true,
+          "sha256": "c5f48dbd1e28f8a27edd28a5213616e46b878c14df61e3ee3b866bc178b86da0"
+        },
+        {
+          "path": "stories/not-about-that/art/landscapes/01-the-rooftops-before-dusk.png",
+          "role": "late-afternoon natural light and oil rhythm only",
+          "notes": "Quiet warm planes, cool slate shadows; no rooftops included.",
+          "inspected": true,
+          "sha256": "04a9222d8ca01b5ac45d102e091200417aeac4389032e14277d66c5c9b5956d6"
+        },
+        {
+          "path": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
+          "role": "dusk palette and connected subdued violet shadows only",
+          "notes": "Do not transfer inconsistent geography/buildings, use color/light only.",
+          "inspected": true,
+          "sha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "notes": "No facial identity, adult proportions or costume transfer to teen Lowen.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/not-about-that/art/characters/lowen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make two narrow corrections to this exact Lowen sheet, preserve everything else. 1. On the LEFT copper-coat transformed figure, remove the BLUE STONE from the waist belt; leave a plain COPPER belt buckle there. Keep the separate blue-glass chest clasp unchanged: that is the sole lift-step focus. 2. The CENTER \"Usual form\" boy has reverted at DUSK, so dim ONLY this center full figure by about 1.5 stops, with broad connected muted VIOLET/UMBER shadows over most sweatshirt, jeans and face, just a small soft remnant of warm evening light on one cheek. No rim light or halo. Keep youthful eyes/face readable and naturally matte, no horror change. Keep identical 15-year-old identity, hair, body proportions, pose and clothing. ALL OTHER elements unchanged: left figure lighting, transformed head studies, isolated focus, small boot/air-step detail, all exact headings/subtitle and state labels, 1536x1024 ivory folio, broad Canadian Group of Seven-inspired opaque oil brushwork. No scene, floor or swatches; fully clothed age-appropriate teen in both states.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T02:52:33.615734+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Lowen\" and \"Not About That\". This is ONE FIFTEEN-YEAR-OLD boy in two magical bodily states, same identity and age. Never adult or sexualized. Image2 is his compatible feminine transformed appearance; preserve youthful face, warm fair skin, dark eyes and long BLACK hair but repaint in broad matte oils, NOT anime. LEFT complete natural upright feminine \"Lift-step form\": modest closed COPPER-BROWN short coat with copper buttons, copper belt, cobalt BLUE pleated overskirt covering hips to above knees, fully OPAQUE charcoal tights and ivory soft flat boots, long black hair to shoulderblades. No exaggerated curves, body emphasis, bare torso, cleavage or suggestive pose. CENTER complete \"Usual form\": the SAME15-year-old boy, related brow/nose/eyes with slightly broader youthful jaw, short stubborn black hair, plain muted GRAY sweatshirt, blue jeans and battered sneakers; casual self-conscious standing pose, no coat or magical costume. Clearly label the states so change is not confused with two identities. Right upper matched youthful head studies of the transformed form \"Delight\" and \"Caught laughing\", same long hair and same face. Lower right small copper clasp with blue glass inset labelled \"Lift-step focus\", and one isolated clothed BOOT over a single tiny foot-sized pale blue pane labelled \"Air-step\". This pane is a small character ability detail, NOT scenery or floor; no landscape/ground patch. The clasp is inert without his living power, no sentient eyes or autonomous rays. Warm subdued late-afternoon light on transformed form; usual form in COOLER DIMMER TWILIGHT with broad violet/umber shadows. Keep related facial structure across both bodily forms while acknowledging source's narrower transformed face. Complete unclipped anatomy, all boots/sneakers visible, character only on ivory, no other character, roof, skyline, swatches or palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved broad oil and ivory folio STYLE only; do not reuse adult woman face/proportions",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/not-about-that/title-image.jpg",
+                "role": "transformed Lowen face/hair and copper-blue fully clothed costume only; no city or anime style",
+                "sha256": "c5f48dbd1e28f8a27edd28a5213616e46b878c14df61e3ee3b866bc178b86da0",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/not-about-that/art/landscapes/01-the-rooftops-before-dusk.png",
+                "role": "natural late-afternoon light and broad directional oils only",
+                "sha256": "04a9222d8ca01b5ac45d102e091200417aeac4389032e14277d66c5c9b5956d6",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
+                "role": "usual form twilight light/shadow only",
+                "sha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fb7f5ae3-f70a-4be1-b85a-dbe6ac39d329.png",
+            "reviewFindings": [
+              "Usual-form body remains too daylight-bright for selected twilight reversion state; dim it with connected cool shadows. Remove extra blue belt stone so sole active focus remains chest clasp."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:54:26.875832+00:00",
+            "prompt": "Make two narrow corrections to this exact Lowen sheet, preserve everything else. 1. On the LEFT copper-coat transformed figure, remove the BLUE STONE from the waist belt; leave a plain COPPER belt buckle there. Keep the separate blue-glass chest clasp unchanged: that is the sole lift-step focus. 2. The CENTER \"Usual form\" boy has reverted at DUSK, so dim ONLY this center full figure by about 1.5 stops, with broad connected muted VIOLET/UMBER shadows over most sweatshirt, jeans and face, just a small soft remnant of warm evening light on one cheek. No rim light or halo. Keep youthful eyes/face readable and naturally matte, no horror change. Keep identical 15-year-old identity, hair, body proportions, pose and clothing. ALL OTHER elements unchanged: left figure lighting, transformed head studies, isolated focus, small boot/air-step detail, all exact headings/subtitle and state labels, 1536x1024 ivory folio, broad Canadian Group of Seven-inspired opaque oil brushwork. No scene, floor or swatches; fully clothed age-appropriate teen in both states.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fb7f5ae3-f70a-4be1-b85a-dbe6ac39d329.png",
+                "role": "edit target: preserve exact teenager identity and forms, correct center lighting and belt only",
+                "sha256": "94083ebaa952f8d7b7508eecb24e6217d6a288daf1253ca89011e14c8a1e9fc9",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-89e73878-465b-4198-a3ae-16d0a07e6eb1.png",
+            "outputSha256": "ff34273abcfff6a230a3b183565a6ec33be9ee4dade59b3b06cb0ad0ef548585",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:56:33.484691+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fb7f5ae3-f70a-4be1-b85a-dbe6ac39d329.png",
+            "role": "edit target: preserve exact teenager identity and forms, correct center lighting and belt only",
+            "sha256": "94083ebaa952f8d7b7508eecb24e6217d6a288daf1253ca89011e14c8a1e9fc9",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:56:33.484691+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "ff34273abcfff6a230a3b183565a6ec33be9ee4dade59b3b06cb0ad0ef548585",
+        "sourceSha256": "bc55a38faa196b96e627d0236cdb73cf4cb343eb4b076510e336517891b1d4f7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fb7f5ae3-f70a-4be1-b85a-dbe6ac39d329.png",
+            "role": "edit target: preserve exact teenager identity and forms, correct center lighting and belt only",
+            "sha256": "94083ebaa952f8d7b7508eecb24e6217d6a288daf1253ca89011e14c8a1e9fc9",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels inspected: youthful age-appropriate same identity in feminine lift-step and usual boy forms, both completely clothed with natural teen proportions; exact state labels explicitly say same person age 15.",
+          "Compatible cover face/black hair/copper-blue costume retained. Sole chest blue-glass focus, plain copper belt buckle; small single boot/blue-pane ability detail is isolated and not a setting.",
+          "Twilight usual form now has connected violet shadows distinct from warm late-afternoon transformed view. Broad matte opaque oil face and cloth, exact name/title, bare ivory with no scenery or swatches."
+        ],
+        "specificationSha256": "476efe7f179b34f2b25382fa9ad0ac2bb6472c7e7bbdd79dae641ca94352fae8"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Lowen"
+      },
+      "lighting": "Warm late-afternoon on lift-step form; distinctly dimmer violet twilight on usual form after reversion.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "ff34273abcfff6a230a3b183565a6ec33be9ee4dade59b3b06cb0ad0ef548585"
+    },
+    {
+      "id": "sarena",
+      "name": "Sarena",
+      "role": "Lowen's trans older sister; rescuer and skilled wind-knot user who maintains her own boundaries.",
+      "selectionEvidence": [
+        {
+          "quote": "three silver wind-knots streaming from the other",
+          "explanation": "Specific operative form."
+        },
+        {
+          "quote": "Her transformed coat had ripped at the elbow",
+          "explanation": "Later state from rescue."
+        },
+        {
+          "quote": "Sarena had told him what his hip was doing, and he had dragged her transness into the answer",
+          "explanation": "Explicit gender history, no exotic physical marker."
+        }
+      ],
+      "form": "Human woman, trans older sister",
+      "storyAppearance": {
+        "anatomy": "Ordinary human woman, two arms/two legs.",
+        "lifeStage": "Older than fifteen; exact age unspecified.",
+        "proportions": "Natural human proportions.",
+        "markings": "Temporary dirt streak on cheek and torn elbow after rescue, no permanent marks specified.",
+        "materials": "Human skin/hair, cloth coat and living-powered silver wind-knots.",
+        "clothing": "Longer transformed gray coat slit for movement with faded red lining; boots, practical underclothes unspecified.",
+        "equipment": "Three then fewer silver wind-knots, phone and battered turnip; groceries briefly carried.",
+        "scale": "Human adult interpretation.",
+        "movement": "Braced wind-knots, dive, wrist tether throw and careful injury check after consent.",
+        "distinctiveFeatures": "Gray coat with faded red lining, silver wind-knots."
+      },
+      "explicitCanon": [
+        "Lowen's trans older sister; no diagnosis or physical othering implied.",
+        "Gray transformed coat longer than Lowen's, slit for movement, faded red lining.",
+        "Wind-knots support her and can form tether; resources exhaust from three to one.",
+        "Dirt cheek and torn coat elbow after rescue; hair loose in wind late.",
+        "Uses ordinary phone to take Lowen's requested photograph."
+      ],
+      "visualInterpretation": [
+        "Approximately21 as noncanon art choice; sibling-compatible warm fair skin and black hair, longer oval face, stronger jaw, dark eyes.",
+        "Black hair loosely tied low at first and wind-loosened after rescue; charcoal-gray long coat over dark trousers and modest plain shirt, sturdy boots.",
+        "Later dusk state is darker with broad violet/umber shadow and faint warm last light, no glamor spotlight."
+      ],
+      "states": [
+        {
+          "name": "Before rescue",
+          "description": "Intact coat and three restrained wind-knots."
+        },
+        {
+          "name": "After rescue",
+          "description": "Dirt cheek, torn elbow, loose hair, phone and tired firm expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "not-about-that:sarena",
+        "links": [],
+        "evidence": "No matching shared-universe character; pre-Solstice era context only."
+      },
+      "references": [
+        {
+          "path": "stories/not-about-that/title-image.jpg",
+          "role": "Lowen's transformed face, long black hair and copper/blue costume only; repaint in oils",
+          "notes": "No identity diagnosis. Cover has opaque tights and full clothing. Do not reuse anime style or city backdrop.",
+          "inspected": true,
+          "sha256": "c5f48dbd1e28f8a27edd28a5213616e46b878c14df61e3ee3b866bc178b86da0"
+        },
+        {
+          "path": "stories/not-about-that/art/landscapes/01-the-rooftops-before-dusk.png",
+          "role": "late-afternoon natural light and oil rhythm only",
+          "notes": "Quiet warm planes, cool slate shadows; no rooftops included.",
+          "inspected": true,
+          "sha256": "04a9222d8ca01b5ac45d102e091200417aeac4389032e14277d66c5c9b5956d6"
+        },
+        {
+          "path": "stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
+          "role": "dusk palette and connected subdued violet shadows only",
+          "notes": "Do not transfer inconsistent geography/buildings, use color/light only.",
+          "inspected": true,
+          "sha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved folio/oil style only",
+          "notes": "No facial identity, adult proportions or costume transfer to teen Lowen.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/not-about-that/art/characters/sarena.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow correction to this exact Sarena sheet: change ONLY the LOWER RIGHT head portrait labelled \"Still mad\". Her BLACK hair must be UNTIED and loose, wind-tossed around shoulders like the center after-rescue body's hair, not a braided bun or low tie. Keep exact same adult face, dirt streak and tired firm expression. This portrait is at DUSK: darken it by two stops, most face/hair/coat in BROAD CONNECTED muted violet/umber shadow, only a small dull warm cheek plane; no rim light, no halo, no backdrop patch. Preserve matte opaque broad oil brushwork and natural readable face. Keep EVERYTHING ELSE exactly: upper portrait, two complete figures, before/after clothing damage, three silver wind-knots, phone, turnip, names, title and all labels, ivory background and 1536x1024 landscape. No other changes. No scenery or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T02:56:35.232019+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Sarena\" and \"Not About That\". ONE young ADULT woman around21, Lowen's older sister. Ordinary woman, transness carries no invented physical markings. Warm fair skin, BLACK hair, longer oval face and slightly stronger jaw than younger sibling in image2, straight dark eyebrows, dark eyes; recognizably a different older individual. Natural practical adult proportions, no glamour model. Long CHARCOAL-GRAY transformed coat to below knees, slit for movement, faded RED lining seen in openings, plain modest dark shirt and dark trousers, sturdy dark boots. LEFT complete frontthreequarter form \"Before rescue\": hair loosely tied low, intact coat, three restrained SILVER WIND-KNOTS streaming in small loose loops from ONE outstretched wrist/hand, self-generated wind magic, NOT ropes/electrical wires. Other arm relaxed; no second person. CENTER complete side/rearthreequarter \"After rescue\": same identity and coat, black hair loosened by wind, small coat tear at one elbow and dirt on cheek, holds ordinary PHONE for a requested photograph. All wind-knots now spent, no ribbons around after-rescue body. Right upper matched head study \"Rescue\" with focused attention; lower \"Still mad\" tired and firm, dirt on same cheek. Tiny isolated phone and battered turnip with labels lower right; no grocery bag, table, roof or setting. Before-rescue light subdued lateafternoon; after-rescue form/head MUCH DARKER, violet dusk, faint small warm cheek planes, connected dark violet/umber coat/face shadows. Don't expose all states like bright studio daylight. Source calls three wind-knots before rescue and final coat damage; no powers after resources are exhausted. Natural limbs and hands, complete uncut boots; broad painted matte face with big connected oil shapes, quiet ivory only.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; do not reuse identity",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/not-about-that/art/characters/lowen.png",
+                "role": "sibling-compatible black hair, warm fair skin and broad oil rendering only; Sarena distinct older adult sister, not teen Lowen",
+                "sha256": "ff34273abcfff6a230a3b183565a6ec33be9ee4dade59b3b06cb0ad0ef548585",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/not-about-that/art/landscapes/04-amber-windows-violet-dusk.png",
+                "role": "dusk restrained warm planes and deep violet shadows only",
+                "sha256": "0a4e9312df985a08b6fa8c8bdb68d39ab7c54266c46cbf6e4184701f41bfbd8d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b73ab23f-0a17-498a-aeca-d765d900be28.png",
+            "reviewFindings": [
+              "Still mad portrait repeats tied hair and bright daylight; source late rescue has hair loose and violet dusk. Correct only that portrait hair/light."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:58:33.590193+00:00",
+            "prompt": "Narrow correction to this exact Sarena sheet: change ONLY the LOWER RIGHT head portrait labelled \"Still mad\". Her BLACK hair must be UNTIED and loose, wind-tossed around shoulders like the center after-rescue body's hair, not a braided bun or low tie. Keep exact same adult face, dirt streak and tired firm expression. This portrait is at DUSK: darken it by two stops, most face/hair/coat in BROAD CONNECTED muted violet/umber shadow, only a small dull warm cheek plane; no rim light, no halo, no backdrop patch. Preserve matte opaque broad oil brushwork and natural readable face. Keep EVERYTHING ELSE exactly: upper portrait, two complete figures, before/after clothing damage, three silver wind-knots, phone, turnip, names, title and all labels, ivory background and 1536x1024 landscape. No other changes. No scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b73ab23f-0a17-498a-aeca-d765d900be28.png",
+                "role": "edit target; only Still mad portrait hair/light change, preserve all identity and other accepted content",
+                "sha256": "ad07ac01b4731e711fe211c7b7e34207eeaa1f51cca161f832f47565431f899a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dbf46acf-d56a-4bd7-a6da-3122b3c4c956.png",
+            "outputSha256": "95a858ff3001597e29b5a829ec5914996b90ab368d6d19dad9ec602952e8c4af",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:01:38.189316+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b73ab23f-0a17-498a-aeca-d765d900be28.png",
+            "role": "edit target; only Still mad portrait hair/light change, preserve all identity and other accepted content",
+            "sha256": "ad07ac01b4731e711fe211c7b7e34207eeaa1f51cca161f832f47565431f899a",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:01:38.189316+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "95a858ff3001597e29b5a829ec5914996b90ab368d6d19dad9ec602952e8c4af",
+        "sourceSha256": "bc55a38faa196b96e627d0236cdb73cf4cb343eb4b076510e336517891b1d4f7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b73ab23f-0a17-498a-aeca-d765d900be28.png",
+            "role": "edit target; only Still mad portrait hair/light change, preserve all identity and other accepted content",
+            "sha256": "ad07ac01b4731e711fe211c7b7e34207eeaa1f51cca161f832f47565431f899a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels inspected: same distinct older-sister identity, black hair and natural adult anatomy across two complete forms and portraits; familial resemblance to Lowen without copying teen proportions.",
+          "Before rescue has three restrained silver wind-knots and intact gray/red-lined coat; after rescue has torn elbow, dirt cheek, loose hair and ordinary phone. Final portrait now correctly loose-haired and dark at dusk.",
+          "Exact name/title, broad matte opaque oil planes, dim violet post-rescue shadows, ordinary phone/turnip isolated; no setting, extra people or swatches."
+        ],
+        "specificationSha256": "8f61719d951872c906708b070f011a4f71d06ccf1e92c7ce51940e4be2fc8f8b"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Sarena"
+      },
+      "lighting": "Late-afternoon before rescue; dim violet dusk in after-rescue form and Still mad portrait.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "95a858ff3001597e29b5a829ec5914996b90ab368d6d19dad9ec602952e8c4af"
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "sourceSha256": "bc55a38faa196b96e627d0236cdb73cf4cb343eb4b076510e336517891b1d4f7"
+}

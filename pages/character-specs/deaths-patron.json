@@ -1,0 +1,687 @@
+{
+  "schemaVersion": 1,
+  "slug": "deaths-patron",
+  "title": "When Death Knelt",
+  "source": "stories/deaths-patron/story.md",
+  "sourceSha256": "f276dc9d0716a3a906ce4d3b5c911886a3be9b2532a35cef7e5b64aa3122f61f",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read full363-line story. Derva and god form central voluntary bond; lieutenant repeatedly supplies counterproposal, logistics and final physical rescue assistance. Engine explicitly has no will/life, not character; bystanders brief.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Demonstration engine",
+      "reason": "Explicitly nonliving stored working with no will, driver or appetite; hazard rather than agent."
+    },
+    {
+      "name": "Porter, rope-giving girl, evacuees and crews",
+      "reason": "Brief functional help/crowd without sustained individual roles."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency and magic LOCKED",
+        "System categories LOCKED",
+        "Divinity CANON",
+        "Costs, desire, and local mechanisms CANON"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No Derva/local deathgod entry found; no cross-story Death identity inferred"
+      ]
+    },
+    {
+      "path": "stories/deaths-patron/prompt.md",
+      "entries": [
+        "Reversed champion premise; adventure context"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "derva",
+      "name": "Derva",
+      "role": "Winchwright protagonist and freely choosing living patron who engineers end of repeating charge",
+      "selectionEvidence": [
+        {
+          "lines": "11",
+          "quote": "Derva had the stair-hoist brake in pieces",
+          "explanation": "Defines practical trade."
+        },
+        {
+          "lines": "69",
+          "quote": "I choose the god of death as my earthly avatar and champion",
+          "explanation": "Makes central voluntary pact."
+        },
+        {
+          "lines": "311",
+          "quote": "small forward drag of her left foot",
+          "explanation": "Preserves motion necessary to bond."
+        },
+        {
+          "lines": "363",
+          "quote": "began checking which pieces could still be used",
+          "explanation": "Returns to pragmatic salvage."
+        }
+      ],
+      "form": "Living adult human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman; power spent by champion slows/freezes her motion temporarily.",
+        "lifeStage": "Adult skilled winchwright, exact age unstated.",
+        "proportions": "Cover lean sturdy worker build, source unspecified.",
+        "markings": "Grease/grime compatible cover, no permanent injuries stated.",
+        "materials": "Living skin, practical cloth, leather boots, rope/iron tools.",
+        "clothing": "Boots; compatible cover black rolled-sleeve workshirt and dark trousers, darkhair messy bun.",
+        "equipment": "Thin rope across chest, repair tools; later broken snatch block.",
+        "scale": "Human adult",
+        "movement": "Continuous walking/leaning rather than stopping while champion spends motion; left toe scrapes through exhausted climax.",
+        "distinctiveFeatures": "Skilled observer of mechanical loads; exhaustion follows movement costs, no magical body markings."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Derva, woman winchwright and patron of god for single cause.",
+        "Local non-canon story fact: Thin rope carried across chest, boots, handtools; last examines broken block.",
+        "Local non-canon story fact: Bond drains motion; mutual sight/continuous movement sustains champion; no permanent transformation."
+      ],
+      "visualInterpretation": [
+        "Preserve cover's black messy bun, rolled black workshirt, charcoal trousers, boots, medium lightolive skin and lean working build.",
+        "Adultlate30s, straight strong nose, practical stern face; cover rear alone does not fix full facial identity.",
+        "No added glowing chains on ankle; cold bond is sensation, no visible shackle specified."
+      ],
+      "states": [
+        {
+          "name": "Working",
+          "description": "Unhindered worker with tools."
+        },
+        {
+          "name": "Under strain",
+          "description": "Continuous leaning step and tired face, left toe forward."
+        },
+        {
+          "name": "After",
+          "description": "Examines broken snatch block, exhaustion easing."
+        }
+      ],
+      "naming": {
+        "sourceName": "Derva",
+        "provenance": "Exact source name."
+      },
+      "recurrence": {
+        "identityKey": "deaths-patron:derva",
+        "links": [],
+        "evidence": "Local story identity only; divine title does not identify other death figures."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved oil folio style only; no identity/armor",
+          "inspected": true,
+          "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/deaths-patron/title-image.jpg",
+          "role": "Compatible Derva/god visual identity, no scene",
+          "inspected": true,
+          "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+          "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+        },
+        {
+          "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+          "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+          "inspected": true,
+          "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+          "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+        },
+        {
+          "path": "stories/deaths-patron/art/landscapes/03-the-sloping-demonstration-road.png",
+          "role": "Same-story brush/palette only",
+          "inspected": true,
+          "notes": "Connected ochre/bluegrey masses; no geography transfer.",
+          "sha256": "69e9c7a2c31a62a8e0e976c68392d8c3dbcdfb7b03f78f015c2bda4f9c43d82d"
+        }
+      ],
+      "output": "stories/deaths-patron/art/characters/derva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create a1536x1024 landscape warm ivory character-only folio. Exact personal name heading upperleft, exact subtitle When Death Knelt. Never copy reference name or wardrobe unless identified as source identity. 2-3 unclipped useful full forms, selected face/state/gear details, concise labels. NO locations, background, ground patch, vignette, scenery, swatches or decorative prose. Canadian Group of Seven inspired oil: LARGE CONNECTED painted masses and directional bristle work, substantial selective impasto with quiet joins, equally painted faces/hair/materials. No uniform chips/bevel-lit texture, CGI, shiny eyes, anime lines or smooth skin. Character style ref is rendering ONLY; story paintings light/palette/brush ONLY. Source cover supplies compatible Derva/god forms only, exclude architecture and machinery. Heading EXACT Derva. Preserve compatible LEFT woman on source cover: dark black hair messy high bun with loose strands, rolled-sleeve BLACK workshirt, charcoal utilitarian trousers, brown-black workboots, grime on forearms, lean sturdy adultlate30s human woman with medium lightolive skin. Interpret front face with straight strong nose, practical stern expression; no facial clone of painting style ref. Three complete forms Working front with small ordinary spanner, Rear sameworkclothes and thinrope coiled across chest/shoulder, Under strain threequarter leaning into a continuing step, left toe scraping but no ground drawn. Heads Calculating and Spent. Hands holding a broken maintenance snatchblock with cracked metalhook and thinrope; keep object small personal salvage. No machinery/room, no protective armor, no glowing anklechain or magic skin. Warm/cool reflected mechanicalworklight adapted from gallery; no theatre rimlight.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved oil folio style only; no identity/armor",
+            "inspected": true,
+            "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/deaths-patron/title-image.jpg",
+            "role": "Compatible Derva/god visual identity, no scene",
+            "inspected": true,
+            "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+            "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+          },
+          {
+            "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+            "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+            "inspected": true,
+            "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+            "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create a1536x1024 landscape warm ivory character-only folio. Exact personal name heading upperleft, exact subtitle When Death Knelt. Never copy reference name or wardrobe unless identified as source identity. 2-3 unclipped useful full forms, selected face/state/gear details, concise labels. NO locations, background, ground patch, vignette, scenery, swatches or decorative prose. Canadian Group of Seven inspired oil: LARGE CONNECTED painted masses and directional bristle work, substantial selective impasto with quiet joins, equally painted faces/hair/materials. No uniform chips/bevel-lit texture, CGI, shiny eyes, anime lines or smooth skin. Character style ref is rendering ONLY; story paintings light/palette/brush ONLY. Source cover supplies compatible Derva/god forms only, exclude architecture and machinery. Heading EXACT Derva. Preserve compatible LEFT woman on source cover: dark black hair messy high bun with loose strands, rolled-sleeve BLACK workshirt, charcoal utilitarian trousers, brown-black workboots, grime on forearms, lean sturdy adultlate30s human woman with medium lightolive skin. Interpret front face with straight strong nose, practical stern expression; no facial clone of painting style ref. Three complete forms Working front with small ordinary spanner, Rear sameworkclothes and thinrope coiled across chest/shoulder, Under strain threequarter leaning into a continuing step, left toe scraping but no ground drawn. Heads Calculating and Spent. Hands holding a broken maintenance snatchblock with cracked metalhook and thinrope; keep object small personal salvage. No machinery/room, no protective armor, no glowing anklechain or magic skin. Warm/cool reflected mechanicalworklight adapted from gallery; no theatre rimlight.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved oil folio style only; no identity/armor",
+                "inspected": true,
+                "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/deaths-patron/title-image.jpg",
+                "role": "Compatible Derva/god visual identity, no scene",
+                "inspected": true,
+                "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+                "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+              },
+              {
+                "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+                "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+                "inspected": true,
+                "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+                "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+              }
+            ],
+            "startedAt": "2026-09-23T22:51:52.648196+00:00",
+            "preflight": "Full prose, authority and inspected refs checked; unalive engine excluded; mortal/divine forms and personal names resolved, character-only format.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-f42181f9-2c39-454f-9514-3c96d51e7d5b.png",
+            "candidateSha256": "5608650c2a6ea54ac233dc04b1ae740663dd66996f801aabe140353d8c97b87e",
+            "completedAt": "2026-09-23T23:15:58.650574+00:00",
+            "visualInspection": [
+              "Compatible cover identity maintained: dark high bun, black rolled workshirt, charcoal worktrousers and boots, lean practical woman.",
+              "Unclipped forms and tired working state; rope, spanner and broken snatchblock are supported; no machinery scenery or glowing bond markings.",
+              "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f276dc9d0716a3a906ce4d3b5c911886a3be9b2532a35cef7e5b64aa3122f61f",
+        "outputSha256": "5608650c2a6ea54ac233dc04b1ae740663dd66996f801aabe140353d8c97b87e",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved oil folio style only; no identity/armor",
+            "inspected": true,
+            "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/deaths-patron/title-image.jpg",
+            "role": "Compatible Derva/god visual identity, no scene",
+            "inspected": true,
+            "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+            "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+          },
+          {
+            "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+            "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+            "inspected": true,
+            "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+            "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+          }
+        ],
+        "evidence": [
+          "Compatible cover identity maintained: dark high bun, black rolled workshirt, charcoal worktrousers and boots, lean practical woman.",
+          "Unclipped forms and tired working state; rope, spanner and broken snatchblock are supported; no machinery scenery or glowing bond markings.",
+          "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "25a5e06a75902d8e0e0c2ae692fa8c4d890f6f32cd3e3101c74eddcc73d5db9c"
+      },
+      "outputSha256": "5608650c2a6ea54ac233dc04b1ae740663dd66996f801aabe140353d8c97b87e"
+    },
+    {
+      "id": "nereth",
+      "name": "Nereth",
+      "role": "Unnamed god of death who serves as Derva's material champion within local ward",
+      "selectionEvidence": [
+        {
+          "lines": "25",
+          "quote": "shape of a tall man in travel-gray",
+          "explanation": "Explicit initial appearance."
+        },
+        {
+          "lines": "25",
+          "quote": "Worship moved through that depth like faraway lanterns.",
+          "explanation": "Internal visual manifestation."
+        },
+        {
+          "lines": "49",
+          "quote": "Give me a cause, and I serve yours.",
+          "explanation": "Reversed champion relation."
+        },
+        {
+          "lines": "299",
+          "quote": "he became difficult to see at all",
+          "explanation": "State when completing true ending."
+        },
+        {
+          "lines": "355",
+          "quote": "His outline thinned.",
+          "explanation": "Dissolution on dismissal."
+        }
+      ],
+      "form": "Human-shaped god with nonmaterial and material champion states",
+      "storyAppearance": {
+        "anatomy": "Tall man in travel-gray; depth of unlit night within outline, far-lantern worship points; spare solemn face emerges in darkness.",
+        "lifeStage": "Mature masculine manifestation, actual age unstated.",
+        "proportions": "Tall human silhouette.",
+        "markings": "Inner dark depth and distant worship lights; no skull, scythe, robe.",
+        "materials": "Initially weightless outline, then material greycoat/boots; translucency when bond interrupted.",
+        "clothing": "Travel-gray coat, trousers and boots; no robes.",
+        "equipment": "No weapon or personal item; hand performs precise endings.",
+        "scale": "Taller human-like man",
+        "movement": "Kneels to ask, stands with realweight after pact, matches Derva's stride; fades when sightlost/dismissed.",
+        "distinctiveFeatures": "Nightdepth face with quiet worshiplights, not skeletal grimreaper or blacksmoke body."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Tall man travel-gray; no robes/scythe/skull; spare solemn face inside unlit night-depth outline with distant worship lights.",
+        "Local non-canon story fact: Initially knee/boot leave dust undisturbed; pact makes physically weight-bearing.",
+        "Local non-canon story fact: Translucent when mutual sight fails; outline thins when dismissed.",
+        "Local non-canon story fact: Ends completed breaks/spent patterns only; no starting fracture or killing healthy life."
+      ],
+      "visualInterpretation": [
+        "Art-only personal name Nereth; identity local to deaths-patron, no association with other Death figures.",
+        "Preserve cover short tousled darkhair, tailored greycoat/trousers/boots, deepblack face/hands with small distant amberpoints.",
+        "Fine low-contrast facial planes make fear/attention legible without bright eyes or humanflesh replacing darkdepth."
+      ],
+      "states": [
+        {
+          "name": "Petition",
+          "description": "Kneeling weightless outline, deep dark face/hands."
+        },
+        {
+          "name": "Champion",
+          "description": "Material solidcoat/boots, still inner worship depth."
+        },
+        {
+          "name": "Dismissal",
+          "description": "Same outline gently translucent; no gore/death."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed god of death who serves as Derva's material champion within local ward",
+        "displayName": "Nereth",
+        "provenance": "New personal art-only name under explicit user authorization; selected name absent from universe/NAMES/current and bundle story prose; source unchanged."
+      },
+      "recurrence": {
+        "identityKey": "deaths-patron:nereth",
+        "links": [],
+        "evidence": "Local story identity only; divine title does not identify other death figures."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved oil folio style only; no identity/armor",
+          "inspected": true,
+          "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/deaths-patron/title-image.jpg",
+          "role": "Compatible Derva/god visual identity, no scene",
+          "inspected": true,
+          "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+          "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+        },
+        {
+          "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+          "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+          "inspected": true,
+          "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+          "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+        },
+        {
+          "path": "stories/deaths-patron/art/landscapes/03-the-sloping-demonstration-road.png",
+          "role": "Same-story brush/palette only",
+          "inspected": true,
+          "notes": "Connected ochre/bluegrey masses; no geography transfer.",
+          "sha256": "69e9c7a2c31a62a8e0e976c68392d8c3dbcdfb7b03f78f015c2bda4f9c43d82d"
+        }
+      ],
+      "output": "stories/deaths-patron/art/characters/nereth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow pose correction only to1536x1024 Nereth sheet. The bottom-middle full figure labelled Petition should kneel on ONE KNEE, with the other leg bent and its boot forward, as prose states lowered knee and other boot. It currently kneels on both knees. Change lower legs and necessary coat folds of that Petition figure only to a clear one-knee request posture; retain cupped open hands, bowed head, dark face/hands with distant warm worship lights, clothing and exact identity. Keep all parts unclipped. Preserve every other figure/detail, all words/heading/title, layout, painted style and ivory; no floor/ground patch, no scene/swatches.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-d5e9214f-d708-4bc8-a3c7-608b73561b11.png",
+            "role": "reviewed candidate targeted correction",
+            "sha256": "6b974b0f02fd5d64b7ca7892631738beb42d2e0f8851cb539adcda80d769e2e1",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create a1536x1024 landscape warm ivory character-only folio. Exact personal name heading upperleft, exact subtitle When Death Knelt. Never copy reference name or wardrobe unless identified as source identity. 2-3 unclipped useful full forms, selected face/state/gear details, concise labels. NO locations, background, ground patch, vignette, scenery, swatches or decorative prose. Canadian Group of Seven inspired oil: LARGE CONNECTED painted masses and directional bristle work, substantial selective impasto with quiet joins, equally painted faces/hair/materials. No uniform chips/bevel-lit texture, CGI, shiny eyes, anime lines or smooth skin. Character style ref is rendering ONLY; story paintings light/palette/brush ONLY. Source cover supplies compatible Derva/god forms only, exclude architecture and machinery. Heading EXACT Nereth, subtitle When Death Knelt. One LOCAL god ofdeath; exact compatible rightfigure from cover: TALL slender masculine human silhouette, short tousled darkhair, tailored TRAVEL-GREY coat/trousers/dark boots, NOT robes/scythe/skull. Face/hands are profound UNLIT NIGHT DEPTH with a FEW tiny faraway warm amber worshiplights; no galaxy nebula or lit eyes. Show subdued spare solemn facialplanes emerging within dark face to read fear/attention, but no ordinary pink flesh. Three unclipped full forms Petition kneeling (no floor/runner/shadowpatch), Champion front standing materialcoat/boots, Rear same materialoutfit. Small closeheads Fear and Attention; Dismissal halfbody subtly thinned outline with ivory showing through SAME figure, no smoke cloud, skeleton or new anatomy. Small palm study with TWO faint red stored-spell threads disappearing into its darkness, clearly abstract magic not blood; no engine. Paint greycloth in connected oilmasses and use restrained impasto on dark outline/planes; darkdepth is not shiny cosmic CGI. No other people or scene.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved oil folio style only; no identity/armor",
+                "inspected": true,
+                "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/deaths-patron/title-image.jpg",
+                "role": "Compatible Derva/god visual identity, no scene",
+                "inspected": true,
+                "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+                "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+              },
+              {
+                "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+                "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+                "inspected": true,
+                "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+                "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+              }
+            ],
+            "startedAt": "2026-09-23T22:51:52.666220+00:00",
+            "preflight": "Full prose, authority and inspected refs checked; unalive engine excluded; mortal/divine forms and personal names resolved, character-only format.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-d5e9214f-d708-4bc8-a3c7-608b73561b11.png",
+            "candidateSha256": "6b974b0f02fd5d64b7ca7892631738beb42d2e0f8851cb539adcda80d769e2e1",
+            "visualInspection": [
+              "Nereth petition on bothknees conflicts with one lowered knee/otherboot; Saldren chalk interpreted as identification number instead of calculations. Narrow respective fix requested."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow pose correction only to1536x1024 Nereth sheet. The bottom-middle full figure labelled Petition should kneel on ONE KNEE, with the other leg bent and its boot forward, as prose states lowered knee and other boot. It currently kneels on both knees. Change lower legs and necessary coat folds of that Petition figure only to a clear one-knee request posture; retain cupped open hands, bowed head, dark face/hands with distant warm worship lights, clothing and exact identity. Keep all parts unclipped. Preserve every other figure/detail, all words/heading/title, layout, painted style and ivory; no floor/ground patch, no scene/swatches.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-d5e9214f-d708-4bc8-a3c7-608b73561b11.png",
+                "role": "reviewed candidate targeted correction",
+                "sha256": "6b974b0f02fd5d64b7ca7892631738beb42d2e0f8851cb539adcda80d769e2e1",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T23:00:45.092854+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-6da32860-87b9-4f9f-8041-c88ac68025f0.png",
+            "candidateSha256": "cd50cf6c67225b3cbdefc4ff971fdee7f097457948bd4e64f7e42f6f220e2a4e",
+            "completedAt": "2026-09-23T23:15:58.655744+00:00",
+            "visualInspection": [
+              "One local god in grey travelclothes, tall silhouette, night-depth face/hands with far warm worship points and restrained facial planes.",
+              "Petition corrected to one lowered knee and other boot forward; solid champion/rear and translucent dismissal separate states.",
+              "No skull/scythe/robes or invented scene; stored spell threads isolated in palm, no living-body attack or blood.",
+              "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f276dc9d0716a3a906ce4d3b5c911886a3be9b2532a35cef7e5b64aa3122f61f",
+        "outputSha256": "cd50cf6c67225b3cbdefc4ff971fdee7f097457948bd4e64f7e42f6f220e2a4e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-d5e9214f-d708-4bc8-a3c7-608b73561b11.png",
+            "role": "reviewed candidate targeted correction",
+            "sha256": "6b974b0f02fd5d64b7ca7892631738beb42d2e0f8851cb539adcda80d769e2e1",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "One local god in grey travelclothes, tall silhouette, night-depth face/hands with far warm worship points and restrained facial planes.",
+          "Petition corrected to one lowered knee and other boot forward; solid champion/rear and translucent dismissal separate states.",
+          "No skull/scythe/robes or invented scene; stored spell threads isolated in palm, no living-body attack or blood.",
+          "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "a73c2f7c4092a8523b06d99a3d7efce3eacee3d4901611ee9ab3b29c0e16e2ae"
+      },
+      "outputSha256": "cd50cf6c67225b3cbdefc4ff971fdee7f097457948bd4e64f7e42f6f220e2a4e"
+    },
+    {
+      "id": "saldren",
+      "name": "Saldren",
+      "role": "Unnamed evacuation lieutenant whose challenge, logistics and final help make rescue possible",
+      "selectionEvidence": [
+        {
+          "lines": "139",
+          "quote": "Chalked numbers covered the lieutenant",
+          "explanation": "Distinct workdetail."
+        },
+        {
+          "lines": "185",
+          "quote": "one trouser leg torn",
+          "explanation": "Later condition after failed diversion."
+        },
+        {
+          "lines": "225",
+          "quote": "This time he ran before she did.",
+          "explanation": "Implements revised rescue plan."
+        },
+        {
+          "lines": "325",
+          "quote": "shoved his shoulder beside Derva",
+          "explanation": "Helps secure west gate."
+        }
+      ],
+      "form": "Living adult human man",
+      "storyAppearance": {
+        "anatomy": "Human man; limps after winch destruction.",
+        "lifeStage": "Adult lieutenant; age unstated.",
+        "proportions": "Unspecified, interpret broadstocky adult.",
+        "markings": "No blood/wound specified; trouser leg torn.",
+        "materials": "Leather sleeve chalked numbers; practical boots and workuniform cloth.",
+        "clothing": "Leather sleeve with chalked numbers, trousers later torn on one leg, boots.",
+        "equipment": "Thin rope wrapped forearm during counterweight pull; command logistics.",
+        "scale": "Human adult",
+        "movement": "Decisive gestures, limp then runs, haulsrope, shoulderswheel.",
+        "distinctiveFeatures": "Chalk calculations on sleeve; challenges risky orders then coordinates crews."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male evacuation lieutenant, chalked numbers on leather sleeve.",
+        "Local non-canon story fact: One trouserleg torn and limp after failed diversion; side not specified.",
+        "Local non-canon story fact: Wraps thinrope round forearm to haul; assists Derva atwheel."
+      ],
+      "visualInterpretation": [
+        "Art-only name Saldren; older40s, darkolive skin, shaved head, thick dark moustache, short broad face, broadstocky body.",
+        "Steelblue workcoat with brown leatherleft sleeve panel, charcoal trousers, boots; no military heraldry invented.",
+        "Choose left trousertear and left ropearm consistently; source sides unstated."
+      ],
+      "states": [
+        {
+          "name": "Evacuation",
+          "description": "Intact uniform, chalk-sleeve calculations."
+        },
+        {
+          "name": "After diversion",
+          "description": "Small left trousertear, non-graphic limp."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed evacuation lieutenant whose challenge, logistics and final help make rescue possible",
+        "displayName": "Saldren",
+        "provenance": "New personal art-only name under explicit user authorization; selected name absent from universe/NAMES/current and bundle story prose; source unchanged."
+      },
+      "recurrence": {
+        "identityKey": "deaths-patron:saldren",
+        "links": [],
+        "evidence": "Local story identity only; divine title does not identify other death figures."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved oil folio style only; no identity/armor",
+          "inspected": true,
+          "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/deaths-patron/title-image.jpg",
+          "role": "Inspected source cover depicts Derva/god, NOT lieutenant identity",
+          "inspected": true,
+          "notes": "Derva dark bun/blackworkclothes rear; kneeling greycoat god darkdepth/amberworship points. No lieutenant.",
+          "sha256": "a0167dac50b7b381a12c172ab0d58fa2913080825126057aa24dc71db3934ba5"
+        },
+        {
+          "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+          "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+          "inspected": true,
+          "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+          "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+        },
+        {
+          "path": "stories/deaths-patron/art/landscapes/03-the-sloping-demonstration-road.png",
+          "role": "Same-story brush/palette only",
+          "inspected": true,
+          "notes": "Connected ochre/bluegrey masses; no geography transfer.",
+          "sha256": "69e9c7a2c31a62a8e0e976c68392d8c3dbcdfb7b03f78f015c2bda4f9c43d82d"
+        }
+      ],
+      "output": "stories/deaths-patron/art/characters/saldren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow restoration only: in third full-body figure (the forward-leaning Saldren at image centre, NOT the front or rear figure), restore the small ragged trouser tear at his ANATOMICAL LEFT KNEE, on viewer RIGHT, around x940,y625. The previous lettering edit accidentally removed it. A small horizontal tear shows a little ordinary uninjured brown skin, no blood. Leave first and second figures' trousers intact. Preserve ALL chalk notes 6°, 91, 4:00 on left sleeve, all captions, rope, faces, uniforms, pose, image dimensions1536x1024, oil style and ivory. Do not repaint other areas; no additional art or text.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-476c764a-4227-4aa0-b093-5a74fa15d06f.png",
+            "role": "restore small left-knee trouser tear lost during lettering edit",
+            "sha256": "92be9db394c2749197d3e2268c654f5d338288b5de29f5173e9db280ecaea0db",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create a1536x1024 landscape warm ivory character-only folio. Exact personal name heading upperleft, exact subtitle When Death Knelt. Never copy reference name or wardrobe unless identified as source identity. 2-3 unclipped useful full forms, selected face/state/gear details, concise labels. NO locations, background, ground patch, vignette, scenery, swatches or decorative prose. Canadian Group of Seven inspired oil: LARGE CONNECTED painted masses and directional bristle work, substantial selective impasto with quiet joins, equally painted faces/hair/materials. No uniform chips/bevel-lit texture, CGI, shiny eyes, anime lines or smooth skin. Character style ref is rendering ONLY; story paintings light/palette/brush ONLY. Source cover supplies compatible Derva/god forms only, exclude architecture and machinery. Heading EXACT Saldren, title When Death Knelt. One adult male evacuationlieutenant late40s, DARK OLIVE skin, SHAVED baldhead, thick dark moustache, short BROAD face and broadstocky frame. Steelblue practical workcoat with brown LEATHER panel covering anatomical LEFT sleeve, chalknumbers on thatpanel, charcoal trousers and heavyboots; no medals/hat/weapon. Three consistent complete forms Evacuation front intacttrousers, Rear sameoutfit (LEFT leatherpanel stays viewerLEFT inrear), After diversion threequarter with small non-graphic tear at LEFT trouserknee and slight limp, no blood. Heads Calculating and Committed. Isolated LEFT forearm chalknumber detail, and sameforearm with thinrope wrappedready tohaul (keep fingers five and no injury). Don't copy god darkness or Derva face; ordinary livingman. No capstan/wheel/scene/groundpatch.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved oil folio style only; no identity/armor",
+                "inspected": true,
+                "notes": "Painted face/clothing in large oilplanes and selective thick ridges.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
+                "role": "Same-story mixed cool reflected light and warm lampcolour, oilhandling only",
+                "inspected": true,
+                "notes": "Bluegrey/warmochre metal/stone paint; no characters.",
+                "sha256": "4f024433c63474f3b6e1a75c561849965b9e7fd55f130333b4829e3d394c4a20"
+              }
+            ],
+            "startedAt": "2026-09-23T22:51:52.682769+00:00",
+            "preflight": "Full prose, authority and inspected refs checked; unalive engine excluded; mortal/divine forms and personal names resolved, character-only format.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-3a8ad4e7-5a90-456f-a2e7-0578318a5854.png",
+            "candidateSha256": "15b569be064f0ca4ef2f3d1f55514baba00110e567ddd5c5f19ff91bcf23a559",
+            "visualInspection": [
+              "Nereth petition on bothknees conflicts with one lowered knee/otherboot; Saldren chalk interpreted as identification number instead of calculations. Narrow respective fix requested."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Narrow lettering correction on1536x1024 Saldren sheet. In EVERY instance on the brown anatomical-left leather sleeve, replace the prominent uniform-looking 417 with several small irregular chalk calculation notes: 6°, 91, 4:00 written at different angles across sleeve (legible loose chalk, not a regiment number). Keep same sleeve LEFT and all skin/clothes/poses unchanged. In lower-right first forearm caption replace (Identification) with (Chalked figures), keeping Left forearm line. Second ready-to-haul caption stays. Preserve all other art, names/title, same head/body, rope, left trouser tear, layout, ivory/oil style. No added medals/badges/scene/swatches.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-3a8ad4e7-5a90-456f-a2e7-0578318a5854.png",
+                "role": "reviewed candidate targeted correction",
+                "sha256": "15b569be064f0ca4ef2f3d1f55514baba00110e567ddd5c5f19ff91bcf23a559",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T23:00:45.095480+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-476c764a-4227-4aa0-b093-5a74fa15d06f.png",
+            "candidateSha256": "92be9db394c2749197d3e2268c654f5d338288b5de29f5173e9db280ecaea0db",
+            "visualInspection": [
+              "Chalk calculations/label correctly fixed, same left sleeve.",
+              "Edit inadvertently removed earlier left trouser tear; restore narrowly in third figure only."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Narrow restoration only: in third full-body figure (the forward-leaning Saldren at image centre, NOT the front or rear figure), restore the small ragged trouser tear at his ANATOMICAL LEFT KNEE, on viewer RIGHT, around x940,y625. The previous lettering edit accidentally removed it. A small horizontal tear shows a little ordinary uninjured brown skin, no blood. Leave first and second figures' trousers intact. Preserve ALL chalk notes 6°, 91, 4:00 on left sleeve, all captions, rope, faces, uniforms, pose, image dimensions1536x1024, oil style and ivory. Do not repaint other areas; no additional art or text.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-476c764a-4227-4aa0-b093-5a74fa15d06f.png",
+                "role": "restore small left-knee trouser tear lost during lettering edit",
+                "sha256": "92be9db394c2749197d3e2268c654f5d338288b5de29f5173e9db280ecaea0db",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T23:09:36.050701+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-b4607988-b69e-452b-a940-29f1ccdf5a5c.png",
+            "candidateSha256": "f0b6b866aa3a92e0d3b131e24bcaaf92f40c4ef52540c11bd4ee5170938dcaa7",
+            "completedAt": "2026-09-23T23:15:58.660154+00:00",
+            "visualInspection": [
+              "Consistent stocky bald moustached adult man, no source-cover identity import.",
+              "Leather/chalk remains anatomical left in all views, calculations6degrees/91/4:00 replace erroneous IDnumber; caption accurate.",
+              "Final third figure left trousertear restored without injury or blood; same figure/head/rope and plausible hands.",
+              "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "f276dc9d0716a3a906ce4d3b5c911886a3be9b2532a35cef7e5b64aa3122f61f",
+        "outputSha256": "f0b6b866aa3a92e0d3b131e24bcaaf92f40c4ef52540c11bd4ee5170938dcaa7",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-476c764a-4227-4aa0-b093-5a74fa15d06f.png",
+            "role": "restore small left-knee trouser tear lost during lettering edit",
+            "sha256": "92be9db394c2749197d3e2268c654f5d338288b5de29f5173e9db280ecaea0db",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Consistent stocky bald moustached adult man, no source-cover identity import.",
+          "Leather/chalk remains anatomical left in all views, calculations6degrees/91/4:00 replace erroneous IDnumber; caption accurate.",
+          "Final third figure left trousertear restored without injury or blood; same figure/head/rope and plausible hands.",
+          "Exact legible personal name/title, complete forms inside ivory margins; no scenes, ground patches or swatches. Oil masses/varied impasto cover face/hair/clothes/materials."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "6a9e6533c97cb1c77a28d41dc20eec8350de2025f04d3981eeb0c9e8571a831a"
+      },
+      "outputSha256": "f0b6b866aa3a92e0d3b131e24bcaaf92f40c4ef52540c11bd4ee5170938dcaa7"
+    }
+  ]
+}

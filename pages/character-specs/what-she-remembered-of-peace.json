@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-she-remembered-of-peace",
+  "title": "What She Remembered of Peace",
+  "source": "stories/what-she-remembered-of-peace/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete story/prompt read. Olyne and Anvek carry the voluntary agency/evacuation arc; Gess and Naro sustain essential counting, consent, signals, receiving and medical work. Eleven residents are individualized stakes with minor roles.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Incidental figures",
+      "reason": "Baker, washerwoman, fifth-floor couple, divided-flat residents and other neighbors/responders are supporting rescue subjects rather than sustained leads. Attack drone is a nonliving threat machine, not person-like cast."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover inspected: dark-haired pale-seamed adult android and olive-clad companion. Compatible hair/material/costume cues retained, but source's canvas jacket and adult agency control; no torn revealing clothes/embrace vignette or anime style. Actual shelter painting inspected.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "olyne-orret",
+      "name": "Olyne Orret",
+      "role": "Focal host/repair companion who organizes neighbors while learning to respect Anvek's choices.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "May I take off your jacket?",
+          "explanation": "Focal host/repair companion who organizes neighbors while learning to respect Anvek's choices."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman with home-repair experience, roof radio, master keys, emergency shears and harness. Shelter aftermath still dusty, carries keys, prepares to cut jacket seam with permission."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent39, short sturdy adult, medium olive skin, cropped black straight hair, rounded-square face; olive utility coat over faded ochre knit, grey trousers/brown boots. Cover companion colour cue only, no child inference."
+      ],
+      "states": [
+        {
+          "name": "Shelter after evacuation",
+          "description": "Adult woman with home-repair experience, roof radio, master keys, emergency shears and harness. Shelter aftermath still dusty, carries keys, prepares to cut jacket seam with permission."
+        }
+      ],
+      "lighting": "Weak amber shelter lamps, deep cool blue-grey shadow, no bright full-face studio light.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Olyne Orret"
+      },
+      "status": "deferred",
+      "output": "stories/what-she-remembered-of-peace/art/characters/olyne-orret.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Olyne Orret\"; subtitle \"What She Remembered of Peace\". One ADULT woman apparent39, short sturdy frame, medium olive skin, cropped straight BLACK HAIR, rounded-square face, tired small dark eyes. Olive utility coat over faded ochre knit, grey trousers and brown work boots, dust/soot on shoulders. Third cover reference only companion clothing colour; her face is not visible there, do not copy android face or make a child. Two full-body front/rear-three-quarter views, a listening head and one small object group MASTER KEYS with BLUNT EMERGENCY SHEARS. No weapons, robot seams or another person. Weak shelter lamp touches only limited upper face planes, broad connected cool blue-grey shadow over remaining face/coat. All surfaces matte broad oil. ALL negative space LIGHT IVORY, no floor/contact patches or dark haze.",
+        "references": [
+          {
+            "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-she-remembered-of-peace/title-image.jpg",
+            "role": "Actual companion olive practical clothing cue only; face/gender/age not inferred from hidden head; source defines adult woman.",
+            "sha256": "39519183850ebcffc52d13f9ee0656f553447288c376c3503161adffb5c932f1",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Olyne Orret\"; subtitle \"What She Remembered of Peace\". One ADULT woman apparent39, short sturdy frame, medium olive skin, cropped straight BLACK HAIR, rounded-square face, tired small dark eyes. Olive utility coat over faded ochre knit, grey trousers and brown work boots, dust/soot on shoulders. Third cover reference only companion clothing colour; her face is not visible there, do not copy android face or make a child. Two full-body front/rear-three-quarter views, a listening head and one small object group MASTER KEYS with BLUNT EMERGENCY SHEARS. No weapons, robot seams or another person. Weak shelter lamp touches only limited upper face planes, broad connected cool blue-grey shadow over remaining face/coat. All surfaces matte broad oil. ALL negative space LIGHT IVORY, no floor/contact patches or dark haze.",
+            "references": [
+              {
+                "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-she-remembered-of-peace/title-image.jpg",
+                "role": "Actual companion olive practical clothing cue only; face/gender/age not inferred from hidden head; source defines adult woman.",
+                "sha256": "39519183850ebcffc52d13f9ee0656f553447288c376c3503161adffb5c932f1",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed.",
+            "startedAt": "2026-09-24T12:50:46.509764+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    },
+    {
+      "id": "anvek",
+      "name": "Anvek",
+      "role": "Independent android whose chosen bounded military-library use saves eleven residents and damages her shoulder.",
+      "form": "Person-like adult female android",
+      "selectionEvidence": [
+        {
+          "quote": "Nothing dramatic happened. Her eyes did not change color.",
+          "explanation": "Independent android whose chosen bounded military-library use saves eleven residents and damages her shoulder."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Canvas work jacket with blue paint on left cuff, collarbone access plate, neck seams and ordinary boots. Voluntary action after receiver severed. After rescue right shoulder actuator damaged and fingers curled; eyes never change colour; no battle-body transformation."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Cover-compatible apparent30, slim ordinary adult proportions, pale olive synthetic skin, dark shoulder-length hair, warm brown/amber eyes; grey-brown canvas jacket, dark closed shirt/trousers/boots. Subtle seams, not exposed torso or new internal machinery."
+      ],
+      "states": [
+        {
+          "name": "After rescue, before jacket seam cut",
+          "description": "Canvas work jacket with blue paint on left cuff, collarbone access plate, neck seams and ordinary boots. Voluntary action after receiver severed. After rescue right shoulder actuator damaged and fingers curled; eyes never change colour; no battle-body transformation."
+        }
+      ],
+      "lighting": "Dim shelter amber lamp with deep cool grey-blue shadow, no new eye glow or powered aura.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Anvek"
+      },
+      "status": "deferred",
+      "output": "stories/what-she-remembered-of-peace/art/characters/anvek.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Anvek\"; subtitle \"What She Remembered of Peace\". One ADULT ANDROID WOMAN apparent30, slim ordinary humanlike body, pale olive synthetic skin, DARK SHOULDER-LENGTH HAIR, small warm brown-amber eyes always unchanged colour. Third cover supplies compatible android face/hair/material identity only, no anime or revealing clothes. Source outfit: modest GREY-BROWN CANVAS WORK JACKET over closed dark shirt, dark practical trousers and stout boots. Blue paint stain on LEFT cuff. Restrained neck seams and CLOSED access plate below collarbone; no armour, guns, exoskeleton, transparent torso or engineering cutaway. TWO complete front/rear-three-quarter standing views after rescue: damaged RIGHT shoulder, right arm naturally held close, fingers slightly curled; left arm relaxed. Jacket still intact/worn before cutting. Thoughtful tired face portrait, one small closed collarbone plate/neck-seam detail. Same proportions/clothes across views, calm agency not blank robot. Weak shelter lamp on a few planes, deep connected cool shadows; no luminous eyes. EVERY background pixel LIGHT IVORY, no haze, fire, people, room or floor.",
+        "references": [
+          {
+            "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/what-she-remembered-of-peace/title-image.jpg",
+            "role": "Actual compatible adult android face/hair/seamed-material cues only; source repair jacket and damaged-shoulder state override cover costume/pose.",
+            "sha256": "39519183850ebcffc52d13f9ee0656f553447288c376c3503161adffb5c932f1",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Anvek\"; subtitle \"What She Remembered of Peace\". One ADULT ANDROID WOMAN apparent30, slim ordinary humanlike body, pale olive synthetic skin, DARK SHOULDER-LENGTH HAIR, small warm brown-amber eyes always unchanged colour. Third cover supplies compatible android face/hair/material identity only, no anime or revealing clothes. Source outfit: modest GREY-BROWN CANVAS WORK JACKET over closed dark shirt, dark practical trousers and stout boots. Blue paint stain on LEFT cuff. Restrained neck seams and CLOSED access plate below collarbone; no armour, guns, exoskeleton, transparent torso or engineering cutaway. TWO complete front/rear-three-quarter standing views after rescue: damaged RIGHT shoulder, right arm naturally held close, fingers slightly curled; left arm relaxed. Jacket still intact/worn before cutting. Thoughtful tired face portrait, one small closed collarbone plate/neck-seam detail. Same proportions/clothes across views, calm agency not blank robot. Weak shelter lamp on a few planes, deep connected cool shadows; no luminous eyes. EVERY background pixel LIGHT IVORY, no haze, fire, people, room or floor.",
+            "references": [
+              {
+                "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/what-she-remembered-of-peace/title-image.jpg",
+                "role": "Actual compatible adult android face/hair/seamed-material cues only; source repair jacket and damaged-shoulder state override cover costume/pose.",
+                "sha256": "39519183850ebcffc52d13f9ee0656f553447288c376c3503161adffb5c932f1",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed.",
+            "startedAt": "2026-09-24T12:50:46.509764+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    },
+    {
+      "id": "gess-miro",
+      "name": "Gess Miro",
+      "role": "Resident headcounter/signaler whose master keys, lamp and insistence on all eleven sustain evacuation.",
+      "form": "Older adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Eleven. I had eleven and I have eleven.",
+          "explanation": "Resident headcounter/signaler whose master keys, lamp and insistence on all eleven sustain evacuation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Grey hair full of dust, weak right grip, properly closing left hand; master keys and amber/blue hand lamps, later ladder harness."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent70, short stocky body, deep warm-brown skin, short wavy grey hair, broad lined round face; plum-brown cardigan-jacket, grey trousers, sturdy flat shoes."
+      ],
+      "states": [
+        {
+          "name": "Headcount and signaling",
+          "description": "Grey hair full of dust, weak right grip, properly closing left hand; master keys and amber/blue hand lamps, later ladder harness."
+        }
+      ],
+      "lighting": "Smoke-muted cool light and small lamp warmth, broad blue-grey shadow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Gess Miro"
+      },
+      "status": "deferred",
+      "output": "stories/what-she-remembered-of-peace/art/characters/gess-miro.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Gess Miro\"; subtitle \"What She Remembered of Peace\". Older woman apparent70, short stocky frame, deep warm-brown skin, short wavy GREY HAIR dusty with plaster, broad lined round face and stubborn observant eyes. Worn PLUM-BROWN cardigan-jacket, dark grey trousers, sturdy flat shoes. Two complete front/rear-three-quarter views. Stronger left hand securely holds keys and small amber HAND LAMP; weaker right hand stays naturally relaxed near body, no separate hand study or anatomy diagram. One portrait counting and another quietly relieved. Small equipment group master keys plus separate simple blue-filtered hand lamp; no invented labels/unit insignia. No uniform/weapon or other resident. Smoke-muted cool-grey light on figure with small subdued lamp-warm plane, deep connected shadows. EVERY outside pixel LIGHT IVORY, no actual smoke/room or floor/contact patch.",
+        "references": [
+          {
+            "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Gess Miro\"; subtitle \"What She Remembered of Peace\". Older woman apparent70, short stocky frame, deep warm-brown skin, short wavy GREY HAIR dusty with plaster, broad lined round face and stubborn observant eyes. Worn PLUM-BROWN cardigan-jacket, dark grey trousers, sturdy flat shoes. Two complete front/rear-three-quarter views. Stronger left hand securely holds keys and small amber HAND LAMP; weaker right hand stays naturally relaxed near body, no separate hand study or anatomy diagram. One portrait counting and another quietly relieved. Small equipment group master keys plus separate simple blue-filtered hand lamp; no invented labels/unit insignia. No uniform/weapon or other resident. Smoke-muted cool-grey light on figure with small subdued lamp-warm plane, deep connected shadows. EVERY outside pixel LIGHT IVORY, no actual smoke/room or floor/contact patch.",
+            "references": [
+              {
+                "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed.",
+            "startedAt": "2026-09-24T12:50:46.509764+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    },
+    {
+      "id": "naro-tule",
+      "name": "Naro Tule",
+      "role": "Responder reporting actual sightlines, coordinating receiving terrace and assisting Gess and Anvek.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "I cannot assess the roof anchors.",
+          "explanation": "Responder reporting actual sightlines, coordinating receiving terrace and assisting Gess and Anvek."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man responder with radio/count board; can run coolant over damaged shoulder housing but cannot replace actuator or yet know permanence. No omniscient rooftop view or drone control."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent46, lean average height, light-brown skin, short close black hair, neat dark moustache, long rectangular face; steel-blue work coat, dark shirt, charcoal trousers, black work boots."
+      ],
+      "states": [
+        {
+          "name": "Shelter receiving point",
+          "description": "Man responder with radio/count board; can run coolant over damaged shoulder housing but cannot replace actuator or yet know permanence. No omniscient rooftop view or drone control."
+        }
+      ],
+      "lighting": "Weak shelter practical lamp and cool grey-blue ambient with substantial connected shadows.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Naro Tule"
+      },
+      "status": "deferred",
+      "output": "stories/what-she-remembered-of-peace/art/characters/naro-tule.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Naro Tule\"; subtitle \"What She Remembered of Peace\". Adult man apparent46, average height lean build, light-brown skin, short close BLACK HAIR, neat dark MOUSTACHE, long rectangular face, small dark eyes. Muted STEEL-BLUE work coat over dark shirt, charcoal trousers, plain black work boots. Two complete front/rear-three-quarter views, holds compact RADIO and ordinary headcount BOARD with illegible pencil marks, no military logo/rank. Large attentive calm face portrait, small radio/simple coolant bottle/cloth equipment group only. No patient, weapon or advanced machinery. Weak warm practical lamp on a few face planes, deep cool grey-blue shadows, matte broad oil across skin too. Outside every figure/prop remains LIGHT IVORY: no shelter, furniture, floor/contact patches or dark haze.",
+        "references": [
+          {
+            "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Heading \"Naro Tule\"; subtitle \"What She Remembered of Peace\". Adult man apparent46, average height lean build, light-brown skin, short close BLACK HAIR, neat dark MOUSTACHE, long rectangular face, small dark eyes. Muted STEEL-BLUE work coat over dark shirt, charcoal trousers, plain black work boots. Two complete front/rear-three-quarter views, holds compact RADIO and ordinary headcount BOARD with illegible pencil marks, no military logo/rank. Large attentive calm face portrait, small radio/simple coolant bottle/cloth equipment group only. No patient, weapon or advanced machinery. Weak warm practical lamp on a few face planes, deep cool grey-blue shadows, matte broad oil across skin too. Outside every figure/prop remains LIGHT IVORY: no shelter, furniture, floor/contact patches or dark haze.",
+            "references": [
+              {
+                "path": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "2c6de26f08dd23cd75317ed508a9f5378710f070508786161e2ba46dc215c7fa",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed.",
+            "startedAt": "2026-09-24T12:50:46.509764+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full final prose/prompt and markers checked, actual cover/selected paintings inspected. Four distinct adults, final source repair clothes, bounded agency and after-rescue injury state checked; no new hand studies/side labels. Ivory full margins, exact name/title and useful 2-3 refs reviewed."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    }
+  ],
+  "sourceSha256": "97ff601a1a8390083f73f07bfd69f9f6165d8c892af6068cdf67adc92e83bfc4"
+}

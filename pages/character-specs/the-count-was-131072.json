@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-count-was-131072",
+  "title": "The Count Was 131,072",
+  "source": "stories/the-count-was-131072/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire source and prompt read through final donor-sources commitment. Two sustained principals selected: recurring named witness Solstice and the curator, art-only named Velrin. Supporting technician, engineer, attendants and visiting group remain minor.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Solstice Evening Bell",
+    "universe/rules.md#Solstice's thirteen-tone crown",
+    "universe/factions.md#Solstice's historical magical-girl circles and coronation compact"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Access technician, engineer, attendants, visiting adult and children",
+      "reason": "Recurring supporting tasks/questions, no sustained individual main arc alongside witness and curator."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "solstice-evening-bell",
+      "name": "Solstice Evening Bell",
+      "role": "centuries-later living witness correcting the museum's mythology",
+      "form": "adult female living sovereign; species unresolved",
+      "selectionEvidence": [
+        {
+          "quote": "No ring of chimes turned above your head",
+          "explanation": "Permanently lost equipment must be absent in museum state."
+        },
+        {
+          "quote": "The borrowed guide hung from your neck on a gray cord",
+          "explanation": "Contemporary personal prop."
+        }
+      ],
+      "storyAppearance": {
+        "appearance": "Same canon individual centuries after battle; source does not define aging or species.",
+        "clothing": "Ordinary contemporary clothes, bare forehead; no crown, no combat armor stated.",
+        "equipment": "Borrowed gray-cord audio guide with blue access light, no sword or surviving crown material."
+      },
+      "visualInterpretation": [
+        "Reuse reviewed battle sheet's mature pale gray-eyed oval face and long silver hair with unchanged recognizable facial structure, not infer a new longevity mechanism.",
+        "Restrained charcoal-navy coat over gray blouse and trousers, ordinary low boots; hair gathered loosely behind shoulders, gray-cord guide at chest."
+      ],
+      "states": [
+        {
+          "name": "Museum visit",
+          "description": "Centuries after battle, lost crown/tones remain permanently absent."
+        }
+      ],
+      "explicitCanon": [
+        "Same Solstice as canon battle story.",
+        "No crown/chimes/central resonator, no sword, no restored hearing.",
+        "Ordinary mature appearance is visual casting, not a species/longevity ruling."
+      ],
+      "recurrence": {
+        "identityKey": "solstice-evening-bell",
+        "links": [
+          {
+            "slug": "solstice-evening-bell",
+            "relationship": "Reviewed prior identity anchor; same face/hair with later ordinary wardrobe and no crown system."
+          }
+        ],
+        "evidence": "Prompt explicitly names Solstice Evening Bell centuries on. Same canonical witness and tactical facts."
+      },
+      "references": [],
+      "output": "stories/the-count-was-131072/art/characters/solstice-evening-bell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "CORRECT IMAGE1 (Solstice museum folio) with IMAGE2 (Hadrik) as PAINT-TEXTURE REFERENCE FOR FOOTWEAR ONLY. Completely repaint all FOUR current gray boots on IMAGE1 to have the EXACT visibly rough opaque brushwork seen on Hadrik's brown boots in IMAGE2. Large directional charcoal/umber/gray oil strokes, chunky connected value masses, palette-knife scumble, NO glossy leather or smooth 3D gradient. Keep ordinary short ankleboot geometry and matte dark gray color; do NOT add armor or bootsstraps from image2. The change must be unmistakably handpainted at reading size. Boots are four small OIL PAINT STUDIES with large jagged bristle marks, just as rough as the coat above. Preserve EVERYTHING ELSE in IMAGE1 EXACTLY: face/head/hair/age, poses, modern navy coat/gray blouse/trousers/guide blue light, all text, repaired clean garment silhouettes, paper. Do not transfer Hadrik face/body/apron/firelight/tools/text, no other figures, no floorpatches/swatches. ONLY boots get new rough paint, not any other area.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1aebfc1-0af3-4da2-87b8-451c772af90c.png",
+            "role": "inspected museum candidate: exact target; boots still smooth",
+            "sha256": "4bff194b1f2550d8724c8cd6840aa339da00156c690e5cddf630c3cd4bbe4001",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-84eea967-9628-4a33-bb17-3129a4fd3564.png",
+            "role": "inspected rough broad footwear oil texture ONLY; no identity/color/light/clothes transfer",
+            "sha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T03:57:10.420894+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact name heading \"Solstice Evening Bell\"; exact story title \"The Count Was 131,072\". SAME single mature adult woman as image1, centuries after her battle but no source-established change of species/aging: preserve recognizable pale oval face, narrow straight nose, mature gray matte eyes and long loose SILVER hair. Do not turn her into another face or teenager. Image1 is IDENTITY and broad oil handling ONLY. Remove ALL armor, crown, tiara, bells, central resonator, magical trails, sword and glamour. Bare forehead, no jewelry badge that resembles resonator.\nModern museum visit attire chosen for this art: plain charcoal-NAVY calf-length coat open over simple slate gray blouse and gray straight trousers, ordinary low dark leather boots, silver hair draped loosely behind shoulders. Two complete same-state front/rear body views labelled \"Museum visit\" and \"Rear\", hands empty. Front wears a small black rectangular borrowed AUDIO GUIDE on a GRAY CORD, small BLUE access light on device. Large sameface right labelled \"Correcting the record\", dry attentive slightly weary expression, ordinary matte lips/eyes, no beauty-photo polish. One isolated audio guide detail labelled \"Borrowed guide\", black device blue light gray cord, no printed count or text, no red sticker in this early borrowed state.\nLighting is Image2 museum ceiling light: modest warm ochre on top-facing planes with cool gray/lilac broad shadows, evenly muted INDOOR light, no outdoor sunshine. Do not inherit dark battle lighting or costume from image1. Primary paint is broad Group of Seven directional opaque oil with connected masses across mature face as well as clothes, selective impasto, not uniform small shiny chips or anime. Entire ivory paper remains blank around figures, absolutely no floor patch/shadow or gallery surroundings, swatches or second person.",
+            "references": [
+              {
+                "path": "stories/solstice-evening-bell/art/characters/solstice-evening-bell.png",
+                "role": "primary reviewed recurring face/hair identity and matte oil handling; REMOVE armor and every bell/focus, do not copy night light",
+                "inspected": true,
+                "sha256": "a2be1baf7b61bdcf45f4cfa2b80cbb88b63393a854554d1e056c4cd7dc010740"
+              },
+              {
+                "path": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
+                "role": "museum interior warm overhead practical lighting and bold oil masses only, no scene",
+                "inspected": true,
+                "sha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16"
+              }
+            ],
+            "preflight": [
+              "Full later source read, explicit recurring identity/canon mechanics inspected. Selected prior sheet's actual pixels inspected and hash-pinned.",
+              "Same mature face/silver hair, later ordinary wardrobe and exact gray-cord borrowed guide. No equipment restoration, sword, armor or new species claim.",
+              "Two complete bodies/portrait/guide fit; museum light uses inspected source painting, ivory ground-free layout required."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-99e226a3-5247-4598-9527-5685ea2c3d2c.png",
+            "outputSha256": "3ebec4ac5124f3ab53ad344ae295b5203baf2184643c9f5d323be1424af732b8",
+            "finishedAt": "2026-09-24T04:00:24.972167+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Recurring face/silver hair, modern coat/guide with gray cord and blue light, absent crown/chimes/sword, correct title/ivory format pass.",
+              "Feet retain visibly segmented armored shoes from battle anchor. Replace with ordinary modern matte dark leather ankle boots in both complete body views; no armor in museum clothing."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:00:26.927888+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 only. Preserve exactly the same single adult Solstice face, silver hair, modern navy coat/gray blouse/trousers, body poses, portrait, guide and all text. Correct the FOOTWEAR in BOTH full-body views: remove all segmented metal armor plates, pointed steel sabatons and shiny metal reflections. Replace each shoe with an ordinary contemporary MATTE dark brown LEATHER ANKLE BOOT, soft plain rounded toe, subtle seam, low flat heel, no plates, rivets, gold, steel or fantasy ornament. Both feet complete and proportionate, same standing positions. Keep coat/trousers. The museum visit occurs centuries after battle with no armor. Broad Group of Seven matte oil paint matching rest, blank ivory page around shoes with no ground patch. Everything else unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-99e226a3-5247-4598-9527-5685ea2c3d2c.png",
+                "role": "inspected same character museum candidate, footwear-only correction",
+                "sha256": "3ebec4ac5124f3ab53ad344ae295b5203baf2184643c9f5d323be1424af732b8",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Only observed shoe armor leakage corrected, mature recurring identity/later source state preserved.",
+              "Immutable candidate inspected and attached; no new scene or extra equipment."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e3549154-a8b5-42e6-ae38-9b0a50aee808.png",
+            "outputSha256": "5e693a0e4cb67bb39ceb7fd22ab265a4699d2dbd10c1f5ba8e88d4a0e267efb0",
+            "finishedAt": "2026-09-24T04:08:39.125215+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Footwear now ordinary contemporary ankle boots, identity/layout/source state preserved.",
+              "The local replacement boots are smooth photographic/3D objects against oil-painted bodies. Correct boot rendering alone into connected matte bristle shapes; this is a style repair rather than new content."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T04:08:41.258632+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-style-edit",
+            "prompt": "Edit image1 only. The contemporary ankle boots have correct SHAPE but are wrongly smooth photographic/3D. REPAINT all four visible BOOTS ONLY in the identical BROAD ROUGH OPAQUE OIL PAINT handling of the surrounding trousers and coat. Use large connected flat brushstrokes of matte umber and near-black violet, just two or three muted warm-gray bristle planes per boot, visibly dragged paint edges, soft simplified seams, absolutely NO realistic shine, airbrushed gradients, reflective toe highlights, glossy leather or pasted-photo texture. Keep their same plain rounded toe and low heel shape. All other pixels/content stay as close as possible: exact mature recurring Solstice face/hair, modern clothes, guide, text, ivory, poses. Do not change the face or outfit or add metal armor. No ground patch, shadow or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-e3549154-a8b5-42e6-ae38-9b0a50aee808.png",
+                "role": "inspected corrected shoe geometry, repaint photo-drift boots only into sheet oil style",
+                "sha256": "5e693a0e4cb67bb39ceb7fd22ab265a4699d2dbd10c1f5ba8e88d4a0e267efb0",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Diagnosed reference leakage: first museum sheet inherited armor; first footwear correction removed armor but introduced smooth photographic boot texture. Keep new correct geometry and explicitly rough-paint only the boots.",
+              "Candidate actual pixels inspected, immutable returned file attached; all source/identity state unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cbe5211e-4250-4e36-b1ee-80dd107bed1c.png",
+            "outputSha256": "81200bcc42ba25263aa511c5baf0c1082764f8d51a1376955ee654033278318d",
+            "finishedAt": "2026-09-24T06:07:24.768265+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Production assistant initially passed this candidate; root independent review found remaining smooth glossy boots and pale fog/erase smears through front thigh and rear hips.",
+              "Root requests matte visibly brushed footwear and intact solid garment silhouettes; face, hair, guide and permanently absent crown/armor must remain."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:07:25.746863+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-reconstruction-edit",
+            "prompt": "TARGETED CORRECTION of image1, 1536x1024. Two defects ONLY; keep EXACT rest including face identity, silver hair, full-body poses, navy coat/gray blouse/trousers, gray-cord borrowed guide and tiny blue light, headings, portrait, ivory. (1) ALL FOUR BOOTS at bottom: discard existing smooth 3D photographic shoe rendering completely, repaint as SIMPLIFIED FLAT OIL-PAINT SHAPES of plain rounded contemporary dark ankle boots. Large visible OPAQUE charcoal/umber bristle strokes 10-25px wide, three broad matte planes per boot, ragged brush texture, modest short block heel. NO gleaming leather/no airbrushed rounded volume/no continuous edge shine/no detailed seams/no segmented armor. The boots must visibly match the large rough painted masses of coat and trousers above, even at small reading size. (2) REMOVE every pale foggy/ivory smudge crossing front body's thigh and floating beside either rear hip. Reconstruct uninterrupted opaque GRAY trouser paint at front thigh and uninterrupted DARK NAVY coat paint on rear hips, continuous intact garment silhouette. Outside garment silhouette restore clean uninterrupted same warm ivory paper. No mist, erasure smears or flying fabric chips. Do not change face/hair/guide/museum attire, no crown/chimes/armor/sword or floor patches/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cbe5211e-4250-4e36-b1ee-80dd107bed1c.png",
+                "role": "inspected selected museum candidate; independent review targets boots and phantom pale garment smears only",
+                "sha256": "81200bcc42ba25263aa511c5baf0c1082764f8d51a1376955ee654033278318d",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Root independent review rejects gloss and garment smear leftovers; actual pixels confirm both, prior two footwear fixes did not resolve rendering.",
+              "Changed approach: explicitly discard existing detailed shoe render and rebuild as three rough opaque painted planes, plus reconstruct affected garment silhouette; immutable rest preserved."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c4fd8393-b4cf-4e65-a328-fae8c6542d32.png",
+            "outputSha256": "2c0d0af79e75fde4024aae69e572cbfef25ec82b98ec9bfbea7fcb347e6e0ac9",
+            "finishedAt": "2026-09-24T06:12:31.141862+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels: pale front-thigh/rear-hip fog smears successfully removed; solid garment silhouettes now clean.",
+              "Four boots remain substantially smooth like previous candidate despite requested broad paint; need more concrete footwear redesign to overcome preservation bias. All identity/guide/absent armor constraints preserved."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 5,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:12:33.154715+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-footwear-redesign-edit",
+            "prompt": "EDIT ONLY ALL FOUR FEET in this folio, and leave every other pixel intact. The present dark shiny ankleboots are wrong. REPLACE their design with STONE-GRAY MATTE SUEDE walking ankle-boots, clearly lighter than before, simple wide rounded toe, FLAT sole and no heel column, no seams or buckles. Paint every boot as SIX VERY LARGE ROUGH BRUSH STROKES in dark gray, medium gray and muted umber, broad irregular 15px bristle marks easily visible from afar. Boots look intentionally handpainted and simplified, flat angular oil-color masses like coat, NOT smooth realistic 3D footwear. Hard prohibition: no leather shine, no airbrushed gradient, no specular highlight, no tiny polished details, no segmented armor. Ensure entire boots are visible and untouched ivory immediately surrounds every foot, no cast shadow patch. PRESERVE exact silver-haired face/portrait, head/pose, hands, modern navy coat, gray blouse/trousers, blue-lit guide/cord, headings and clean garment silhouette from image1. Do not change face or hair, no crown/armor/sword, no fog or scenic art.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c4fd8393-b4cf-4e65-a328-fae8c6542d32.png",
+                "role": "inspected fog-corrected museum candidate; replace boot design to force unmistakable matte brush rendering",
+                "sha256": "2c0d0af79e75fde4024aae69e572cbfef25ec82b98ec9bfbea7fcb347e6e0ac9",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Earlier rendering-only edits preserved glossy boot construction; changed design to matte stone-gray simple flat-soled suede shape and explicit six-stroke simplification.",
+              "Clean garment silhouettes from last fix preserved, all other pixels remain; modern ordinary footwear is source-compatible art choice."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1aebfc1-0af3-4da2-87b8-451c772af90c.png",
+            "outputSha256": "4bff194b1f2550d8724c8cd6840aa339da00156c690e5cddf630c3cd4bbe4001",
+            "finishedAt": "2026-09-24T06:31:28.749961+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels: boot color changed to gray but inherited smooth construction remains; do not pass merely by recoloring.",
+              "Garment-smear fix retained. Next correction uses an inspected strongly brushed footwear reference as concrete rendering input."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 6,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:31:30.727715+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-concrete-paint-reference-edit",
+            "prompt": "CORRECT IMAGE1 (Solstice museum folio) with IMAGE2 (Hadrik) as PAINT-TEXTURE REFERENCE FOR FOOTWEAR ONLY. Completely repaint all FOUR current gray boots on IMAGE1 to have the EXACT visibly rough opaque brushwork seen on Hadrik's brown boots in IMAGE2. Large directional charcoal/umber/gray oil strokes, chunky connected value masses, palette-knife scumble, NO glossy leather or smooth 3D gradient. Keep ordinary short ankleboot geometry and matte dark gray color; do NOT add armor or bootsstraps from image2. The change must be unmistakably handpainted at reading size. Boots are four small OIL PAINT STUDIES with large jagged bristle marks, just as rough as the coat above. Preserve EVERYTHING ELSE in IMAGE1 EXACTLY: face/head/hair/age, poses, modern navy coat/gray blouse/trousers/guide blue light, all text, repaired clean garment silhouettes, paper. Do not transfer Hadrik face/body/apron/firelight/tools/text, no other figures, no floorpatches/swatches. ONLY boots get new rough paint, not any other area.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1aebfc1-0af3-4da2-87b8-451c772af90c.png",
+                "role": "inspected museum candidate: exact target; boots still smooth",
+                "sha256": "4bff194b1f2550d8724c8cd6840aa339da00156c690e5cddf630c3cd4bbe4001",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-84eea967-9628-4a33-bb17-3129a4fd3564.png",
+                "role": "inspected rough broad footwear oil texture ONLY; no identity/color/light/clothes transfer",
+                "sha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Recolor/simplification prompt did not sufficiently alter boot rendering. Concrete inspected broad brush footwear reference now supplies missing texture target.",
+              "Exact Solstice rest preserved, no subject identity borrowing; two references within limit."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-86030a2f-8ccd-4a61-aca3-e37b4965f624.png",
+            "outputSha256": "941ed2e0577788970e2ff1a9fb967df7002abe351746a5cb474d252daaedcb17",
+            "finishedAt": "2026-09-24T06:48:38.229569+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual sixth candidate inspected: concrete footwear paint reference finally gives four boots broad jagged opaque gray/charcoal brush masses, visibly same matte oil treatment as coat, no polished leather gradient.",
+              "Pale thigh/rearhip fog fragments remain removed, garments solid and ivory clean. Exact recurring face/silverhair/guideblue light and modern clothed state preserved, no restored crown/chimes/armor/sword.",
+              "Failed attempts3/4/5 and independent root finding preserved; only6 selected, pins verified."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-86030a2f-8ccd-4a61-aca3-e37b4965f624.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "b0f1ad7f7c54177fbd80949f41de5c543c5ec3c7f4e38d5e990b2095ae938653",
+        "outputSha256": "941ed2e0577788970e2ff1a9fb967df7002abe351746a5cb474d252daaedcb17",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1aebfc1-0af3-4da2-87b8-451c772af90c.png",
+            "role": "inspected museum candidate: exact target; boots still smooth",
+            "sha256": "4bff194b1f2550d8724c8cd6840aa339da00156c690e5cddf630c3cd4bbe4001",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-84eea967-9628-4a33-bb17-3129a4fd3564.png",
+            "role": "inspected rough broad footwear oil texture ONLY; no identity/color/light/clothes transfer",
+            "sha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual sixth candidate inspected: concrete footwear paint reference finally gives four boots broad jagged opaque gray/charcoal brush masses, visibly same matte oil treatment as coat, no polished leather gradient.",
+          "Pale thigh/rearhip fog fragments remain removed, garments solid and ivory clean. Exact recurring face/silverhair/guideblue light and modern clothed state preserved, no restored crown/chimes/armor/sword.",
+          "Failed attempts3/4/5 and independent root finding preserved; only6 selected, pins verified."
+        ],
+        "specificationSha256": "bf619b6e16e082d258be3b524beca261b415b6fe6221d1e73c6d1d9eade61139"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "941ed2e0577788970e2ff1a9fb967df7002abe351746a5cb474d252daaedcb17"
+    },
+    {
+      "id": "velrin",
+      "name": "Velrin",
+      "sourceName": "the curator",
+      "nameProvenance": {
+        "kind": "art-only-assigned",
+        "reason": "Finished source leaves principal curator unnamed; user authorizes distinctive names for character art without source prose edits.",
+        "checked": "No Velrin match in universe, stories/NAMES.md or existing character specifications."
+      },
+      "role": "museum curator negotiating attributed witness record and exhibit changes",
+      "form": "adult human-presenting person; source uses they/them",
+      "selectionEvidence": [
+        {
+          "quote": "The curator watched you over a tablet",
+          "explanation": "Principal scene partner across entire museum negotiation."
+        }
+      ],
+      "storyAppearance": {
+        "pronouns": "they/them; gender not asserted",
+        "clothing": "Unspecified contemporary museum professional clothing.",
+        "equipment": "Tablet, recorder and red audio-guide stickers; interacts with accessible guide fleet."
+      },
+      "visualInterpretation": [
+        "Art-only identity: medium-brown skin, short tight black curls, long broad-nosed face, androgynous adult in fifties; muted plum jacket, charcoal trousers and flat brown shoes.",
+        "No asserted gender or invented badge/authority symbol; tablet and stickered audio guide represent source personal handling."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-count-was-131072:velrin",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-count-was-131072/art/characters/velrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only with exactly TWO local cleanup changes. (1) The red sticker across the returned audio guide speaker must become solid plain matte RED with NO numbers, letters or symbols whatsoever. Remove the invented 131.072 text completely. Preserve black device, controls, gray cord and Returned guide label. (2) Erase the light cream/brown floor paint/shadow patches underneath all shoes, replace with the same undisturbed warm ivory page right to shoe edges; retain complete shoes, no clipping. Preserve Velrin’s exact face, curls, age, skin tone, androgynous adult identity, plum jacket/tablet, all body poses, exact heading/title/labels, matte broad oil paint and ordinary indoor overhead light. No other changes, no new props, no scenery/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-39362767-a0cb-47db-b9ec-c61e14a031fc.png",
+            "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+            "sha256": "638131ed6dd79ea23fbb3f2b86bdd53934c7fa0b33f322cdee63386a2a1a090a",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T03:48:30.632690+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Velrin\"; title \"The Count Was 131,072\"; small role label \"Museum curator\". ONE androgynous mature adult, source they/them with NO gender asserted, medium-brown skin, long face, broad flat nose, short tight black curls with a LITTLE gray at temples, strong eyebrows, matte dark eyes; ordinary non-glamorous build. Restrained contemporary plum wool JACKET over plain taupe collarless shirt, charcoal straight trousers, flat low brown leather shoes. No robe/armor/crown/fantasy. Two complete same-state front/rear body views, front naturally holds thin TABLET with ordinary five-finger hand, rear same costume. Large matching face labelled \"Listening, then deciding\", attentive tired self-controlled expression, not smug caricature. One isolated handheld BLACK AUDIO GUIDE with gray loop cord and RED STICKER across speaker, label \"Returned guide\". No giant invented logo/text on tablet, no scenery or desks.\nImage1 supplies broad Group of Seven matte oil strokes and MUSEUM ceiling light: warm modest top-facing ochre planes balanced by connected cool gray/violet shadow, subdued indoor palette, not sunny outdoors or dramatic rim. Every face plane same bold irregular directional brush size as jacket, ordinary matte eyes. Quiet warm ivory paper, no gallery/model/sword/other people, no color swatches.",
+            "references": [
+              {
+                "path": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
+                "role": "primary oil brushwork and ordinary warm overhead museum light only; no environment copied",
+                "inspected": true,
+                "sha256": "d9f73ddbc01b9b9c54bbb3831bc02efbd1eede4f8fae97ee0ac02eada6e01c16"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and relevant canon read; originals visually inspected.",
+              "Complete views fit; exact identity/props/state/light constrained; count12 equipment distinct from central focus when applicable.",
+              "Reference count below five, source facts override cover. Unspecified choices and art-only naming recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-39362767-a0cb-47db-b9ec-c61e14a031fc.png",
+            "outputSha256": "638131ed6dd79ea23fbb3f2b86bdd53934c7fa0b33f322cdee63386a2a1a090a",
+            "finishedAt": "2026-09-24T03:51:57.235952+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Mature androgynous medium-brown curator, coherent curls, plum contemporary clothing/tablet and warm indoor paint pass.",
+              "Generated red guide sticker invents a prominent 131.072 number; must be plain. Faint cream ground strokes under feet should be removed to retain fully isolated ivory figures."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:52:01.995513+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 only with exactly TWO local cleanup changes. (1) The red sticker across the returned audio guide speaker must become solid plain matte RED with NO numbers, letters or symbols whatsoever. Remove the invented 131.072 text completely. Preserve black device, controls, gray cord and Returned guide label. (2) Erase the light cream/brown floor paint/shadow patches underneath all shoes, replace with the same undisturbed warm ivory page right to shoe edges; retain complete shoes, no clipping. Preserve Velrin’s exact face, curls, age, skin tone, androgynous adult identity, plum jacket/tablet, all body poses, exact heading/title/labels, matte broad oil paint and ordinary indoor overhead light. No other changes, no new props, no scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-39362767-a0cb-47db-b9ec-c61e14a031fc.png",
+                "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+                "sha256": "638131ed6dd79ea23fbb3f2b86bdd53934c7fa0b33f322cdee63386a2a1a090a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Previous candidate actually inspected; exact localized correction addresses observed defect while preserving source/canon facts and stable identity.",
+              "Single immutable original candidate attached; no selected output self-reference, no new content."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b06becf4-d255-44cd-b50f-1d14a522bc12.png",
+            "outputSha256": "12929e496b5fd43b85d38b0a53ed5d01006f574d36a0ee33f82d872a1e7a773e",
+            "finishedAt": "2026-09-24T03:55:00.842617+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: plain red sticker with no invented number, ground strokes removed under intact shoes.",
+              "Coherent mature androgynous curly-haired medium-brown identity, front/rear contemporary plum jacket/tablet and matching attentive face. Source they/them respected, art-only name documented.",
+              "Warm overhead indoor planes balanced with cool shadows; broad matte directional oil over skin/clothes, exact name/title, one character only with no scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b06becf4-d255-44cd-b50f-1d14a522bc12.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "b0f1ad7f7c54177fbd80949f41de5c543c5ec3c7f4e38d5e990b2095ae938653",
+        "outputSha256": "12929e496b5fd43b85d38b0a53ed5d01006f574d36a0ee33f82d872a1e7a773e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-39362767-a0cb-47db-b9ec-c61e14a031fc.png",
+            "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+            "sha256": "638131ed6dd79ea23fbb3f2b86bdd53934c7fa0b33f322cdee63386a2a1a090a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: plain red sticker with no invented number, ground strokes removed under intact shoes.",
+          "Coherent mature androgynous curly-haired medium-brown identity, front/rear contemporary plum jacket/tablet and matching attentive face. Source they/them respected, art-only name documented.",
+          "Warm overhead indoor planes balanced with cool shadows; broad matte directional oil over skin/clothes, exact name/title, one character only with no scenery/swatches."
+        ],
+        "specificationSha256": "9d13ce75d9461a45c519fc7bed631369e58a9ccfa8b03305db72a4b284bc38db"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "12929e496b5fd43b85d38b0a53ed5d01006f574d36a0ee33f82d872a1e7a773e"
+    }
+  ],
+  "sourceSha256": "b0f1ad7f7c54177fbd80949f41de5c543c5ec3c7f4e38d5e990b2095ae938653"
+}

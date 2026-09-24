@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 1,
+  "slug": "no-need-to-worry",
+  "title": "No Need to Worry",
+  "source": "stories/no-need-to-worry/story.md",
+  "sourceSha256": "1880cec33987aaf4d32ec23e65c13cfa584406be1cfcb6721070b43dd80bb567",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read. Dulsie, Ogden and Norris make sustained consequential choices and carry the central triangle. Ogden has source-specific shape and damage states; Dulsie has pre-injury and dressed right forearm states.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Unnamed attendant",
+      "reason": "Brief victim and staff participant in one incident; no sustained independent narrative role."
+    },
+    {
+      "name": "Four hunters and earlier hotel porter",
+      "reason": "Brief victims or remembered context, not developed continuing cast."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md and stories/NAMES.md searched: no relevant recurring identity; art names checked against current character specs"
+  ],
+  "characters": [
+    {
+      "id": "dulsie-flett",
+      "name": "Dulsie Flett",
+      "role": "Promoter, viewpoint protagonist and Ogdens accomplice",
+      "naming": {
+        "sourceName": "Dulsie Flett",
+        "sourceRole": "Promoter, viewpoint protagonist and Ogdens accomplice",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 17,
+          "quote": "At forty-eight she owned three good dresses",
+          "explanation": "Promoter, viewpoint protagonist and Ogdens accomplice"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Woman exactly48, blouse with lodge insignia, skirt and shoes, handbag, watch, spare ear defenders. Later RIGHT forearm crushed and first-aid dressing held by LEFT hand.",
+        "lifeStage": "Adult;48 explicit for Dulsie, other exact ages art-only",
+        "proportions": "Woman48, average height and curvy ordinary build, pale warm freckled skin, angular oval face, small straight nose, hooded hazel eyes, neat short chestnut waves pinned behind ears. Cream long-sleeved blouse with small plain dark stitched lodge badge at breast, wine-brown calf-length skirt, modest dark heeled shoes, wristwatch and dark leather shoulder handbag. Restrained small dark stains at skirt hem, no graphic gore.",
+        "markings": "Woman exactly48, blouse with lodge insignia, skirt and shoes, handbag, watch, spare ear defenders. Later RIGHT forearm crushed and first-aid dressing held by LEFT hand.",
+        "materials": "Opaque flesh, practical cloth and leather",
+        "clothing": "Woman48, average height and curvy ordinary build, pale warm freckled skin, angular oval face, small straight nose, hooded hazel eyes, neat short chestnut waves pinned behind ears. Cream long-sleeved blouse with small plain dark stitched lodge badge at breast, wine-brown calf-length skirt, modest dark heeled shoes, wristwatch and dark leather shoulder handbag. Restrained small dark stains at skirt hem, no graphic gore.",
+        "equipment": "Two head studies labelled Calculating and Shaken. Small spare ear defenders and handbag detail. One small upper-body state labelled After first aid: RIGHT forearm crossing lower torso supported by LEFT hand over bulky dressing, all skin damage fully covered, no raw flesh. Main three views Before injury with both ordinary hands.",
+        "scale": "Ogden enlarged and taller than Norris; exact sizes unstated",
+        "movement": "Restrained source-specific poses",
+        "distinctiveFeatures": "Woman48, average height and curvy ordinary build, pale warm freckled skin, angular oval face, small straight nose, hooded hazel eyes, neat short chestnut waves pinned behind ears. Cream long-sleeved blouse with small plain dark stitched lodge badge at breast, wine-brown calf-length skirt, modest dark heeled shoes, wristwatch and dark leather shoulder handbag. Restrained small dark stains at skirt hem, no graphic gore."
+      },
+      "explicitCanon": [
+        "Local non-canon facts: Woman exactly48, blouse with lodge insignia, skirt and shoes, handbag, watch, spare ear defenders. Later RIGHT forearm crushed and first-aid dressing held by LEFT hand."
+      ],
+      "visualInterpretation": [
+        "Woman48, average height and curvy ordinary build, pale warm freckled skin, angular oval face, small straight nose, hooded hazel eyes, neat short chestnut waves pinned behind ears. Cream long-sleeved blouse with small plain dark stitched lodge badge at breast, wine-brown calf-length skirt, modest dark heeled shoes, wristwatch and dark leather shoulder handbag. Restrained small dark stains at skirt hem, no graphic gore.",
+        "Unspecified colors/features and exact age except Dulsie48 are art-only choices."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Two head studies labelled Calculating and Shaken. Small spare ear defenders and handbag detail. One small upper-body state labelled After first aid: RIGHT forearm crossing lower torso supported by LEFT hand over bulky dressing, all skin damage fully covered, no raw flesh. Main three views Before injury with both ordinary hands."
+        }
+      ],
+      "lighting": {
+        "moment": "After-dinner lodge confrontation",
+        "motivation": "Booth night: limited warm overhead planes against substantial cool dusk shadows"
+      },
+      "recurrence": {
+        "identityKey": "no-need-to-worry:dulsie-flett",
+        "links": [],
+        "evidence": "Current review new local identity; no matching universe/frozen names found."
+      },
+      "references": [
+        {
+          "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+          "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+          "inspected": true,
+          "role": "Actual source oil rendering and booth illumination",
+          "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+          "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+          "inspected": true,
+          "role": "Actual source night yard illumination",
+          "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/title-image.jpg",
+          "sha256": "592e8f2f00e60b5b9be39f4348b55eed05e8db17708ebc71fc5a5c050827d00b",
+          "inspected": true,
+          "role": "Ogden compatible identity only",
+          "notes": "Inspected receding dark slick hair, long heavy nose, fleshy cheeks/jaw, tuxedo; no yellow cover field or smooth rendering transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Ivory folio style only",
+          "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+        }
+      ],
+      "output": "stories/no-need-to-worry/art/characters/dulsie-flett.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Local WARM CEILING LAMP strikes small selected face/top shoulder planes while the opposite cheek, neck, side/rear body and clothing turn into deep muted slate/brown shade. Think warm isolated pool within a dim booth at night, NOT warm afternoon or bright studio fill. Keep face and detail labels readable. Right forearm remains fully covered in After first aid, left hand supporting, main views uninjured. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fda3fdb9-bc19-4973-b8e0-448d0a91270a.png",
+            "sha256": "513afcec050d813d68ecf16e41beb05d3354aac24a95203aa8c32c4c69ed0824",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+            "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+            "inspected": true,
+            "role": "Actual source oil rendering and booth illumination",
+            "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:01:20.603967+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character-only reference folio on LIGHT WARM IVORY. Exact large dark serif character name and smaller 'No Need to Worry'. One identity only with useful complete full-body views, two larger head studies and limited source-specific details; neatly spaced and all feet/head margins intact. Follow each specified state label; no montage scene. Thick Canadian Group of Seven-inspired physical OIL, broad CONNECTED value masses, opaque directional bristles and selective impasto across FACE as well as clothes; quiet dark joining passages and matte eyes. FIRST image supplies story-motivated night light and thick paint only; SECOND collection sheet supplies ivory folio handling, no borrowed Kelro identity/clothes. No smooth digital/CGI/anime/glossy photo, excessive thin contours or uniform gold studio light. No scene, floor/ground patch, architecture, weapon installation, other person, swatch/palette or decorative text. Keep exact character face, age and costume consistent through views. Injury reference is restrained nongraphic, only supported covered/closed states.\nHeading 'Dulsie Flett'. Woman48, average height and curvy ordinary build, pale warm freckled skin, angular oval face, small straight nose, hooded hazel eyes, neat short chestnut waves pinned behind ears. Cream long-sleeved blouse with small plain dark stitched lodge badge at breast, wine-brown calf-length skirt, modest dark heeled shoes, wristwatch and dark leather shoulder handbag. Restrained small dark stains at skirt hem, no graphic gore.\nSource facts: Woman exactly48, blouse with lodge insignia, skirt and shoes, handbag, watch, spare ear defenders. Later RIGHT forearm crushed and first-aid dressing held by LEFT hand.\nLayout/details: Two head studies labelled Calculating and Shaken. Small spare ear defenders and handbag detail. One small upper-body state labelled After first aid: RIGHT forearm crossing lower torso supported by LEFT hand over bulky dressing, all skin damage fully covered, no raw flesh. Main three views Before injury with both ordinary hands.\nLIGHTING: Booth night: limited warm overhead planes against substantial cool dusk shadows. Left three complete Front/Side/Back main views, no invented alternate outfit.",
+            "references": [
+              {
+                "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+                "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+                "inspected": true,
+                "role": "Actual source oil rendering and booth illumination",
+                "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Ivory folio style only",
+                "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fda3fdb9-bc19-4973-b8e0-448d0a91270a.png",
+            "outputSha256": "513afcec050d813d68ecf16e41beb05d3354aac24a95203aa8c32c4c69ed0824",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:08:33.449677+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual pixels inspected. Identity/layout/state anatomy sound; illumination too uniformly bright for source night."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:08:33.449677+00:00",
+            "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Local WARM CEILING LAMP strikes small selected face/top shoulder planes while the opposite cheek, neck, side/rear body and clothing turn into deep muted slate/brown shade. Think warm isolated pool within a dim booth at night, NOT warm afternoon or bright studio fill. Keep face and detail labels readable. Right forearm remains fully covered in After first aid, left hand supporting, main views uninjured. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fda3fdb9-bc19-4973-b8e0-448d0a91270a.png",
+                "sha256": "513afcec050d813d68ecf16e41beb05d3354aac24a95203aa8c32c4c69ed0824",
+                "inspected": true,
+                "role": "Actual first candidate, target identity/layout to preserve"
+              },
+              {
+                "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+                "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+                "inspected": true,
+                "role": "Actual source oil rendering and booth illumination",
+                "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-68b82977-8841-4926-880f-e84bf820d46e.png",
+            "savedPath": "stories/no-need-to-worry/art/characters/dulsie-flett.png",
+            "outputSha256": "b3126adbdf054616610a87079de100e439cb7bb0b1c6015ccf615145811ed96c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:17:24.285736+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T04:17:24.285736+00:00",
+        "sourceSha256": "1880cec33987aaf4d32ec23e65c13cfa584406be1cfcb6721070b43dd80bb567",
+        "outputSha256": "b3126adbdf054616610a87079de100e439cb7bb0b1c6015ccf615145811ed96c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fda3fdb9-bc19-4973-b8e0-448d0a91270a.png",
+            "sha256": "513afcec050d813d68ecf16e41beb05d3354aac24a95203aa8c32c4c69ed0824",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+            "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+            "inspected": true,
+            "role": "Actual source oil rendering and booth illumination",
+            "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: all three intact main views and labelled After first aid retain exact adult48 identity, right dressing supported by left hand.",
+          "Corrected local lamplight and connected darker shadows match booth night, heavy physical oils on face/clothes, ivory clear, exact name/title readable."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f4f7e1d52c9b5180f3367c02fa412e8bd177fa9365e487ea5f47a48e344b1baf"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source read and actual reference images inspected; source physiological states separated and labelled, laterality explicit where supported and documented art interpretation otherwise; nongraphic framing feasible."
+      },
+      "outputSha256": "b3126adbdf054616610a87079de100e439cb7bb0b1c6015ccf615145811ed96c"
+    },
+    {
+      "id": "ogden",
+      "name": "Ogden",
+      "role": "Living flesh-changer, Dulsies partner and predatory co-protagonist",
+      "naming": {
+        "sourceName": "Ogden",
+        "sourceRole": "Living flesh-changer, Dulsies partner and predatory co-protagonist",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 91,
+          "quote": "the long nose and heavy cheeks",
+          "explanation": "Living flesh-changer, Dulsies partner and predatory co-protagonist"
+        }
+      ],
+      "form": "Living human flesh-changer",
+      "storyAppearance": {
+        "anatomy": "Adult human flesh-changer. Very broad grown body exceeds split dinner jacket; own face long nose/heavy cheeks. He preserves old healed burn on back. Jaw lengthens when attacking. Later one arm lost, shoulder closed into red knob, cheeks and LEFT calf depleted to repair it. Missing arm side unspecified.",
+        "lifeStage": "Adult;48 explicit for Dulsie, other exact ages art-only",
+        "proportions": "Man about50, very tall massive expanded human torso and shoulders, pale sallow skin, receding slick dark-brown hair, broad thick long nose, heavy cheeks and heavy jaw as compatible cover. Black dinner jacket with split back expansion seams over strained ivory dress shirt and loosened plain black bow tie, dark formal trousers, black leather dress shoes. Normal human hands, not claws; no reptile/beast fur/animal head.",
+        "markings": "Adult human flesh-changer. Very broad grown body exceeds split dinner jacket; own face long nose/heavy cheeks. He preserves old healed burn on back. Jaw lengthens when attacking. Later one arm lost, shoulder closed into red knob, cheeks and LEFT calf depleted to repair it. Missing arm side unspecified.",
+        "materials": "Opaque flesh, practical cloth and leather",
+        "clothing": "Man about50, very tall massive expanded human torso and shoulders, pale sallow skin, receding slick dark-brown hair, broad thick long nose, heavy cheeks and heavy jaw as compatible cover. Black dinner jacket with split back expansion seams over strained ivory dress shirt and loosened plain black bow tie, dark formal trousers, black leather dress shoes. Normal human hands, not claws; no reptile/beast fur/animal head.",
+        "equipment": "COMPOSITION: two big full-body views Front and Back of expanded PRE-INJURY form with BOTH arms intact. Rear split jacket exposes a small old pale healed burn patch high on back, not fresh wound. Right two head studies Own face and Lengthened jaw of this SAME identity, the second with elongated lower jaw only, no gore or invented fangs. A smaller fully clothed complete figure below labelled After repair: ANATOMICAL LEFT arm absent at shoulder (art-side choice because source unspecified), smoothly CLOSED dull red shoulder contour, no bleeding/bone. RIGHT arm intact; cheeks hollowed, LEFT calf thinner inside loose trouser leg. Never show severed arm or other people. Modest gray cashbox with sticking plaster handle detail optional if room.",
+        "scale": "Ogden enlarged and taller than Norris; exact sizes unstated",
+        "movement": "Restrained source-specific poses",
+        "distinctiveFeatures": "Man about50, very tall massive expanded human torso and shoulders, pale sallow skin, receding slick dark-brown hair, broad thick long nose, heavy cheeks and heavy jaw as compatible cover. Black dinner jacket with split back expansion seams over strained ivory dress shirt and loosened plain black bow tie, dark formal trousers, black leather dress shoes. Normal human hands, not claws; no reptile/beast fur/animal head."
+      },
+      "explicitCanon": [
+        "Local non-canon facts: Adult human flesh-changer. Very broad grown body exceeds split dinner jacket; own face long nose/heavy cheeks. He preserves old healed burn on back. Jaw lengthens when attacking. Later one arm lost, shoulder closed into red knob, cheeks and LEFT calf depleted to repair it. Missing arm side unspecified."
+      ],
+      "visualInterpretation": [
+        "Man about50, very tall massive expanded human torso and shoulders, pale sallow skin, receding slick dark-brown hair, broad thick long nose, heavy cheeks and heavy jaw as compatible cover. Black dinner jacket with split back expansion seams over strained ivory dress shirt and loosened plain black bow tie, dark formal trousers, black leather dress shoes. Normal human hands, not claws; no reptile/beast fur/animal head.",
+        "Unspecified colors, features and exact ages are art-only. Ogden missing arm side chosen LEFT for consistent illustration, not claimed as prose fact."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "COMPOSITION: two big full-body views Front and Back of expanded PRE-INJURY form with BOTH arms intact. Rear split jacket exposes a small old pale healed burn patch high on back, not fresh wound. Right two head studies Own face and Lengthened jaw of this SAME identity, the second with elongated lower jaw only, no gore or invented fangs. A smaller fully clothed complete figure below labelled After repair: ANATOMICAL LEFT arm absent at shoulder (art-side choice because source unspecified), smoothly CLOSED dull red shoulder contour, no bleeding/bone. RIGHT arm intact; cheeks hollowed, LEFT calf thinner inside loose trouser leg. Never show severed arm or other people. Modest gray cashbox with sticking plaster handle detail optional if room."
+        }
+      ],
+      "lighting": {
+        "moment": "After-dinner lodge confrontation",
+        "motivation": "Night exterior: cold white floodlight upper planes and deep cool slate shadow, no golden studio wash"
+      },
+      "recurrence": {
+        "identityKey": "no-need-to-worry:ogden",
+        "links": [],
+        "evidence": "Current review new local identity; no matching universe/frozen names found."
+      },
+      "references": [
+        {
+          "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+          "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+          "inspected": true,
+          "role": "Actual source oil rendering and booth illumination",
+          "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+          "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+          "inspected": true,
+          "role": "Actual source night yard illumination",
+          "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/title-image.jpg",
+          "sha256": "592e8f2f00e60b5b9be39f4348b55eed05e8db17708ebc71fc5a5c050827d00b",
+          "inspected": true,
+          "role": "Ogden compatible identity only",
+          "notes": "Inspected receding dark slick hair, long heavy nose, fleshy cheeks/jaw, tuxedo; no yellow cover field or smooth rendering transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Ivory folio style only",
+          "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+        }
+      ],
+      "output": "stories/no-need-to-worry/art/characters/ogden.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Use the cold white overhead yard floodlight, blue-gray dim ambient, much larger cool slate shaded masses. Additionally repaint Ogden FACE planes in broad substantial opaque brush strokes and selective impasto like his jacket; coalesce tiny photographic pores/shading into connected physical oil planes, matte eyes. Preserve the exact receding hair, long nose/heavy cheeks of same man; do not soften him into a different face. Preserve both arms in Front/Back preinjury, anatomical LEFT missing in After repair (closed shoulder), thinner LEFT calf, and long lower jaw in its separate labelled head. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5748f576-0715-4aff-9b27-145a4f19dc4c.png",
+            "sha256": "a2a7020e64878bfaa7d3708813747d4873e7d19ec6d967e3224676f55f4e46d5",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+            "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+            "inspected": true,
+            "role": "Actual source night yard illumination",
+            "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:01:20.603967+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character-only reference folio on LIGHT WARM IVORY. Exact large dark serif character name and smaller 'No Need to Worry'. One identity only with useful complete full-body views, two larger head studies and limited source-specific details; neatly spaced and all feet/head margins intact. Follow each specified state label; no montage scene. Thick Canadian Group of Seven-inspired physical OIL, broad CONNECTED value masses, opaque directional bristles and selective impasto across FACE as well as clothes; quiet dark joining passages and matte eyes. FIRST image supplies story-motivated night light and thick paint only; SECOND collection sheet supplies ivory folio handling, no borrowed Kelro identity/clothes. No smooth digital/CGI/anime/glossy photo, excessive thin contours or uniform gold studio light. No scene, floor/ground patch, architecture, weapon installation, other person, swatch/palette or decorative text. Keep exact character face, age and costume consistent through views. Injury reference is restrained nongraphic, only supported covered/closed states.\nHeading 'Ogden'. Man about50, very tall massive expanded human torso and shoulders, pale sallow skin, receding slick dark-brown hair, broad thick long nose, heavy cheeks and heavy jaw as compatible cover. Black dinner jacket with split back expansion seams over strained ivory dress shirt and loosened plain black bow tie, dark formal trousers, black leather dress shoes. Normal human hands, not claws; no reptile/beast fur/animal head.\nSource facts: Adult human flesh-changer. Very broad grown body exceeds split dinner jacket; own face long nose/heavy cheeks. He preserves old healed burn on back. Jaw lengthens when attacking. Later one arm lost, shoulder closed into red knob, cheeks and LEFT calf depleted to repair it. Missing arm side unspecified.\nLayout/details: COMPOSITION: two big full-body views Front and Back of expanded PRE-INJURY form with BOTH arms intact. Rear split jacket exposes a small old pale healed burn patch high on back, not fresh wound. Right two head studies Own face and Lengthened jaw of this SAME identity, the second with elongated lower jaw only, no gore or invented fangs. A smaller fully clothed complete figure below labelled After repair: ANATOMICAL LEFT arm absent at shoulder (art-side choice because source unspecified), smoothly CLOSED dull red shoulder contour, no bleeding/bone. RIGHT arm intact; cheeks hollowed, LEFT calf thinner inside loose trouser leg. Never show severed arm or other people. Modest gray cashbox with sticking plaster handle detail optional if room.\nLIGHTING: Night exterior: cold white floodlight upper planes and deep cool slate shadow, no golden studio wash. THIRD cover supplies Ogden exact compatible receding dark hair, long nose and heavy cheeks/jaw only. Convert fully to opaque oil masses, no cover yellow background.",
+            "references": [
+              {
+                "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+                "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+                "inspected": true,
+                "role": "Actual source night yard illumination",
+                "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Ivory folio style only",
+                "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+              },
+              {
+                "path": "stories/no-need-to-worry/title-image.jpg",
+                "sha256": "592e8f2f00e60b5b9be39f4348b55eed05e8db17708ebc71fc5a5c050827d00b",
+                "inspected": true,
+                "role": "Ogden compatible identity only",
+                "notes": "Inspected receding dark slick hair, long heavy nose, fleshy cheeks/jaw, tuxedo; no yellow cover field or smooth rendering transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5748f576-0715-4aff-9b27-145a4f19dc4c.png",
+            "outputSha256": "a2a7020e64878bfaa7d3708813747d4873e7d19ec6d967e3224676f55f4e46d5",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:08:33.449677+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual pixels inspected. Identity/layout/state anatomy sound; illumination too uniformly bright for source night. Ogden face handling also too fine/smooth compared with thick garment paint."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:08:33.449677+00:00",
+            "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Use the cold white overhead yard floodlight, blue-gray dim ambient, much larger cool slate shaded masses. Additionally repaint Ogden FACE planes in broad substantial opaque brush strokes and selective impasto like his jacket; coalesce tiny photographic pores/shading into connected physical oil planes, matte eyes. Preserve the exact receding hair, long nose/heavy cheeks of same man; do not soften him into a different face. Preserve both arms in Front/Back preinjury, anatomical LEFT missing in After repair (closed shoulder), thinner LEFT calf, and long lower jaw in its separate labelled head. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5748f576-0715-4aff-9b27-145a4f19dc4c.png",
+                "sha256": "a2a7020e64878bfaa7d3708813747d4873e7d19ec6d967e3224676f55f4e46d5",
+                "inspected": true,
+                "role": "Actual first candidate, target identity/layout to preserve"
+              },
+              {
+                "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+                "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+                "inspected": true,
+                "role": "Actual source night yard illumination",
+                "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-22fbcd90-86c1-4c3d-9603-a3dc6d46ec49.png",
+            "savedPath": "stories/no-need-to-worry/art/characters/ogden.png",
+            "outputSha256": "d48d41158582e100c09baef5641b920aa3e270518a375f01377f55995c0b7919",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:17:24.285736+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T04:17:24.285736+00:00",
+        "sourceSha256": "1880cec33987aaf4d32ec23e65c13cfa584406be1cfcb6721070b43dd80bb567",
+        "outputSha256": "d48d41158582e100c09baef5641b920aa3e270518a375f01377f55995c0b7919",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-5748f576-0715-4aff-9b27-145a4f19dc4c.png",
+            "sha256": "a2a7020e64878bfaa7d3708813747d4873e7d19ec6d967e3224676f55f4e46d5",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+            "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+            "inspected": true,
+            "role": "Actual source night yard illumination",
+            "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: same long nose/heavy cheeks, massive grown body, dinner jacket split exposing healed burn; separate subtly lengthened jaw, later left arm missing with closed stump and depleted calf/cheeks.",
+          "Cold floodlight and dark slate shadow preserved; corrected face coalesces into broad physical oil, no photographic pore islands, clear readable exact heading and states."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "cdaf7c1b0f84c2c5281f0ef812111de00a4eb59f870c2de3dd7e5b3ec380a0a7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source read and actual reference images inspected; source physiological states separated and labelled, laterality explicit where supported and documented art interpretation otherwise; nongraphic framing feasible."
+      },
+      "outputSha256": "d48d41158582e100c09baef5641b920aa3e270518a375f01377f55995c0b7919"
+    },
+    {
+      "id": "norris",
+      "name": "Norris",
+      "role": "Hired gunner who becomes Dulsies new coercive partner",
+      "naming": {
+        "sourceName": "Norris",
+        "sourceRole": "Hired gunner who becomes Dulsies new coercive partner",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 125,
+          "quote": "Norris was already wearing his.",
+          "explanation": "Hired gunner who becomes Dulsies new coercive partner"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult male gunner, shorter than Ogden, ear defenders, trousers and shoes; own coat picked up later. Half orange by controls; handles keys and cashbox. No explicit complexion/face/hair/outfit colors.",
+        "lifeStage": "Adult;48 explicit for Dulsie, other exact ages art-only",
+        "proportions": "Man43, short compact wiry build distinctly less tall than huge Ogden, ruddy medium tan skin, narrow wedge face, close-set gray eyes, blunt small nose, sandy-brown close-cropped hair with no receding slick heavy jaw. Clean-shaven. Plain faded blue work shirt tucked into charcoal trousers, simple belt, plain scuffed dark shoes. Large utilitarian black-and-muted-orange EAR DEFENDERS worn over head. Olive plain work coat carried as a folded personal item, not military uniform.",
+        "markings": "Adult male gunner, shorter than Ogden, ear defenders, trousers and shoes; own coat picked up later. Half orange by controls; handles keys and cashbox. No explicit complexion/face/hair/outfit colors.",
+        "materials": "Opaque flesh, practical cloth and leather",
+        "clothing": "Man43, short compact wiry build distinctly less tall than huge Ogden, ruddy medium tan skin, narrow wedge face, close-set gray eyes, blunt small nose, sandy-brown close-cropped hair with no receding slick heavy jaw. Clean-shaven. Plain faded blue work shirt tucked into charcoal trousers, simple belt, plain scuffed dark shoes. Large utilitarian black-and-muted-orange EAR DEFENDERS worn over head. Olive plain work coat carried as a folded personal item, not military uniform.",
+        "equipment": "Two head studies Tentative and Watching, same face, one ear cup lifted in Watching. Small half-peeled orange, ordinary car keys, folded coat. No cannon, ammunition diagrams, uniform badges or room scenery.",
+        "scale": "Ogden enlarged and taller than Norris; exact sizes unstated",
+        "movement": "Restrained source-specific poses",
+        "distinctiveFeatures": "Man43, short compact wiry build distinctly less tall than huge Ogden, ruddy medium tan skin, narrow wedge face, close-set gray eyes, blunt small nose, sandy-brown close-cropped hair with no receding slick heavy jaw. Clean-shaven. Plain faded blue work shirt tucked into charcoal trousers, simple belt, plain scuffed dark shoes. Large utilitarian black-and-muted-orange EAR DEFENDERS worn over head. Olive plain work coat carried as a folded personal item, not military uniform."
+      },
+      "explicitCanon": [
+        "Local non-canon facts: Adult male gunner, shorter than Ogden, ear defenders, trousers and shoes; own coat picked up later. Half orange by controls; handles keys and cashbox. No explicit complexion/face/hair/outfit colors."
+      ],
+      "visualInterpretation": [
+        "Man43, short compact wiry build distinctly less tall than huge Ogden, ruddy medium tan skin, narrow wedge face, close-set gray eyes, blunt small nose, sandy-brown close-cropped hair with no receding slick heavy jaw. Clean-shaven. Plain faded blue work shirt tucked into charcoal trousers, simple belt, plain scuffed dark shoes. Large utilitarian black-and-muted-orange EAR DEFENDERS worn over head. Olive plain work coat carried as a folded personal item, not military uniform.",
+        "Unspecified colors/features and exact age except Dulsie48 are art-only choices."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Two head studies Tentative and Watching, same face, one ear cup lifted in Watching. Small half-peeled orange, ordinary car keys, folded coat. No cannon, ammunition diagrams, uniform badges or room scenery."
+        }
+      ],
+      "lighting": {
+        "moment": "After-dinner lodge confrontation",
+        "motivation": "Booth night: limited warm overhead planes against substantial cool dusk shadows"
+      },
+      "recurrence": {
+        "identityKey": "no-need-to-worry:norris",
+        "links": [],
+        "evidence": "Current review new local identity; no matching universe/frozen names found."
+      },
+      "references": [
+        {
+          "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+          "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+          "inspected": true,
+          "role": "Actual source oil rendering and booth illumination",
+          "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/art/landscapes/04-light-beyond-the-yard.png",
+          "sha256": "4eeff25ec0ad1e24df5f2bbd95270d2058b1e93a14e613e8ac9eea5efe80f5e7",
+          "inspected": true,
+          "role": "Actual source night yard illumination",
+          "notes": "Cold white overhead floodlight, subdued slate shadows, no yard elements transferred."
+        },
+        {
+          "path": "stories/no-need-to-worry/title-image.jpg",
+          "sha256": "592e8f2f00e60b5b9be39f4348b55eed05e8db17708ebc71fc5a5c050827d00b",
+          "inspected": true,
+          "role": "Ogden compatible identity only",
+          "notes": "Inspected receding dark slick hair, long heavy nose, fleshy cheeks/jaw, tuxedo; no yellow cover field or smooth rendering transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Ivory folio style only",
+          "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+        }
+      ],
+      "output": "stories/no-need-to-worry/art/characters/norris.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Local WARM CEILING LAMP strikes small selected face/top shoulder planes while the opposite cheek, neck, side/rear body and clothing turn into deep muted slate/brown shade. Think warm isolated pool within a dim booth at night, NOT warm afternoon or bright studio fill. Keep face and detail labels readable. Ear defenders and half-peeled orange, car keys, folded coat remain unchanged. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-73794816-c80b-4962-afa5-4e6bd5909fa6.png",
+            "sha256": "e960be584082869562e62fc11d3ba264010f5e6534bd9c1f94645ba2a7555621",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+            "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+            "inspected": true,
+            "role": "Actual source oil rendering and booth illumination",
+            "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:01:20.603967+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape character-only reference folio on LIGHT WARM IVORY. Exact large dark serif character name and smaller 'No Need to Worry'. One identity only with useful complete full-body views, two larger head studies and limited source-specific details; neatly spaced and all feet/head margins intact. Follow each specified state label; no montage scene. Thick Canadian Group of Seven-inspired physical OIL, broad CONNECTED value masses, opaque directional bristles and selective impasto across FACE as well as clothes; quiet dark joining passages and matte eyes. FIRST image supplies story-motivated night light and thick paint only; SECOND collection sheet supplies ivory folio handling, no borrowed Kelro identity/clothes. No smooth digital/CGI/anime/glossy photo, excessive thin contours or uniform gold studio light. No scene, floor/ground patch, architecture, weapon installation, other person, swatch/palette or decorative text. Keep exact character face, age and costume consistent through views. Injury reference is restrained nongraphic, only supported covered/closed states.\nHeading 'Norris'. Man43, short compact wiry build distinctly less tall than huge Ogden, ruddy medium tan skin, narrow wedge face, close-set gray eyes, blunt small nose, sandy-brown close-cropped hair with no receding slick heavy jaw. Clean-shaven. Plain faded blue work shirt tucked into charcoal trousers, simple belt, plain scuffed dark shoes. Large utilitarian black-and-muted-orange EAR DEFENDERS worn over head. Olive plain work coat carried as a folded personal item, not military uniform.\nSource facts: Adult male gunner, shorter than Ogden, ear defenders, trousers and shoes; own coat picked up later. Half orange by controls; handles keys and cashbox. No explicit complexion/face/hair/outfit colors.\nLayout/details: Two head studies Tentative and Watching, same face, one ear cup lifted in Watching. Small half-peeled orange, ordinary car keys, folded coat. No cannon, ammunition diagrams, uniform badges or room scenery.\nLIGHTING: Booth night: limited warm overhead planes against substantial cool dusk shadows. Left three complete Front/Side/Back main views, no invented alternate outfit.",
+            "references": [
+              {
+                "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+                "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+                "inspected": true,
+                "role": "Actual source oil rendering and booth illumination",
+                "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Ivory folio style only",
+                "notes": "Broad connected matte oil face and cloth masses inspected; no identity/props transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-73794816-c80b-4962-afa5-4e6bd5909fa6.png",
+            "outputSha256": "e960be584082869562e62fc11d3ba264010f5e6534bd9c1f94645ba2a7555621",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:08:33.449677+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual pixels inspected. Identity/layout/state anatomy sound; illumination too uniformly bright for source night."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:08:33.449677+00:00",
+            "prompt": "Edit the FIRST supplied character folio only. Preserve exactly the name/story headings, labels, ivory background, layout, all views, age, identity, anatomy, hair, clothing, personal details, and all state distinctions. Correct the LIGHT ON SUBJECTS to match the SECOND supplied actual night painting. The paper stays LIGHT WARM IVORY, never gray/dark. The PEOPLE have clear substantial connected dark shadow masses: make side/rear and far facial/clothing planes much darker, never uniformly broad daylight. Local WARM CEILING LAMP strikes small selected face/top shoulder planes while the opposite cheek, neck, side/rear body and clothing turn into deep muted slate/brown shade. Think warm isolated pool within a dim booth at night, NOT warm afternoon or bright studio fill. Keep face and detail labels readable. Ear defenders and half-peeled orange, car keys, folded coat remain unchanged. All subjects remain visible and in thick Canadian Group of Seven connected physical oil. Do not add scenery, floor shadow/patch, lamp itself, location, person, swatches or new text.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-73794816-c80b-4962-afa5-4e6bd5909fa6.png",
+                "sha256": "e960be584082869562e62fc11d3ba264010f5e6534bd9c1f94645ba2a7555621",
+                "inspected": true,
+                "role": "Actual first candidate, target identity/layout to preserve"
+              },
+              {
+                "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+                "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+                "inspected": true,
+                "role": "Actual source oil rendering and booth illumination",
+                "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ef0c1ab5-b128-4e2d-8306-4c0b413b3d6a.png",
+            "savedPath": "stories/no-need-to-worry/art/characters/norris.png",
+            "outputSha256": "803feb67f2297494b52b9b948e3895c9f038fd62a5b92a50643faef9f3e45458",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:17:24.285736+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T04:17:24.285736+00:00",
+        "sourceSha256": "1880cec33987aaf4d32ec23e65c13cfa584406be1cfcb6721070b43dd80bb567",
+        "outputSha256": "803feb67f2297494b52b9b948e3895c9f038fd62a5b92a50643faef9f3e45458",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-73794816-c80b-4962-afa5-4e6bd5909fa6.png",
+            "sha256": "e960be584082869562e62fc11d3ba264010f5e6534bd9c1f94645ba2a7555621",
+            "inspected": true,
+            "role": "Actual first candidate, target identity/layout to preserve"
+          },
+          {
+            "path": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
+            "sha256": "4eb6a001407923150732b21b0f77725e6c2b135c94b431c36feea87de0e1a438",
+            "inspected": true,
+            "role": "Actual source oil rendering and booth illumination",
+            "notes": "Warm local ceiling fixture with substantial dusk blue shadow; geometry and cannon not transferred."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: compact short-built adult, distinct narrow clean face/short sandy hair, ear defenders, orange/keys/folded coat, all full body margins clear.",
+          "Now limited warm ceiling planes against strong shaded masses; readable ivory, opaque face/cloth brushwork; no scene or cannon."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f413e612a3cd27aedf4d1b395250406d35f6abeba116951800e7d23cf863bdf7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source read and actual reference images inspected; source physiological states separated and labelled, laterality explicit where supported and documented art interpretation otherwise; nongraphic framing feasible."
+      },
+      "outputSha256": "803feb67f2297494b52b9b948e3895c9f038fd62a5b92a50643faef9f3e45458"
+    }
+  ]
+}

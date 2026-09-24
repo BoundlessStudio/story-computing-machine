@@ -1,0 +1,1016 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-last-bus-to-briar-hill",
+  "title": "The Last Bus to Briar Hill",
+  "source": "stories/the-last-bus-to-briar-hill/05-story.md",
+  "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Miriam Velez, Mateo Velez, Maude Dallow and the Briar Host have sustained individual agency. The ordinary stranded aide has a full generosity-test exchange, an earlier connection with Mateo and information returned to Miriam; same living woman receives art-only name Berensa before generation.",
+  "excludedMinorCharacters": [
+    "The siblings' mother is dead and recalled by recording/photos. The mother-shaped lure is expressly neither ghost nor living copy; no qualifying living identity or new mother portrait.",
+    "Route 0 bus/fare reader/phones/screens are explicitly nonliving carriers. Generic civic text responder and offstage client have brief functional presence, not sustained main character roles.",
+    "Leaf-punched token's eventual green shoot is a passive living growth/payoff, with no demonstrated agency or character role; exclude as plot object, though inert token can be personal gear detail."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy read; story.json canon:true before full prose. Whole universe scan finds no identity entry except a boundary separating Briar Host from unrelated mechanism; final prose controls visible facts, not legacy plan/delta. Review explicitly rejects unsupported exact Miriam age/legal guardianship and Maude age as source facts."
+  ],
+  "characters": [
+    {
+      "id": "miriam-velez",
+      "name": "Miriam Velez",
+      "role": "App courier and protective sister who chooses adventure",
+      "naming": {
+        "sourceName": "Miriam Velez",
+        "sourceRole": "courier; Mateo's sister",
+        "provenance": "Exact source full name; legal guardianship not established"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "rain ticking against her helmet",
+          "explanation": "Explicit cycling helmet."
+        },
+        {
+          "quote": "insulated box on her back",
+          "explanation": "Delivery gear."
+        },
+        {
+          "quote": "rain needled through her gloves",
+          "explanation": "Gloved hands and wet night work."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Mateo's adult sister, app bicycle courier, helmet/headset/gloves/jacket/wet shoes, insulated delivery box on back; phone, fare card, power bank/repair cord. Exact age and legal status unresolved.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only mid-twenties appearance, athletic medium height, warm olive-brown skin, oval face/strong brows, dark brown eyes, black curly low ponytail under dark navy bicycle helmet. Burgundy rainjacket with simple centered reflective chest strip, charcoal cycling trousers and dark trainers, black full-finger gloves; rectangular navy insulated backpack centered on back with symmetric straps.",
+        "markings": "Mateo's adult sister, app bicycle courier, helmet/headset/gloves/jacket/wet shoes, insulated delivery box on back; phone, fare card, power bank/repair cord. Exact age and legal status unresolved.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only mid-twenties appearance, athletic medium height, warm olive-brown skin, oval face/strong brows, dark brown eyes, black curly low ponytail under dark navy bicycle helmet. Burgundy rainjacket with simple centered reflective chest strip, charcoal cycling trousers and dark trainers, black full-finger gloves; rectangular navy insulated backpack centered on back with symmetric straps.",
+        "equipment": "Main midnight before personal phone loses charge; heads worried focus and accountable resolve, helmet may remain all. Personal phone/fare-card/powerbank study, no bike/bus. No live map locations or fabricated screen text.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only mid-twenties appearance, athletic medium height, warm olive-brown skin, oval face/strong brows, dark brown eyes, black curly low ponytail under dark navy bicycle helmet. Burgundy rainjacket with simple centered reflective chest strip, charcoal cycling trousers and dark trainers, black full-finger gloves; rectangular navy insulated backpack centered on back with symmetric straps."
+      },
+      "explicitCanon": [
+        "Mateo's adult sister, app bicycle courier, helmet/headset/gloves/jacket/wet shoes, insulated delivery box on back; phone, fare card, power bank/repair cord. Exact age and legal status unresolved."
+      ],
+      "visualInterpretation": [
+        "Art-only mid-twenties appearance, athletic medium height, warm olive-brown skin, oval face/strong brows, dark brown eyes, black curly low ponytail under dark navy bicycle helmet. Burgundy rainjacket with simple centered reflective chest strip, charcoal cycling trousers and dark trainers, black full-finger gloves; rectangular navy insulated backpack centered on back with symmetric straps.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main midnight before personal phone loses charge; heads worried focus and accountable resolve, helmet may remain all. Personal phone/fare-card/powerbank study, no bike/bus. No live map locations or fabricated screen text."
+        }
+      ],
+      "lighting": {
+        "moment": "Midnight bus passage",
+        "motivation": "Small warm cabin/sodium planes against deep cool rainy-night shadows"
+      },
+      "recurrence": {
+        "identityKey": "miriam-velez",
+        "links": [
+          {
+            "relation": "sister",
+            "target": "mateo-velez"
+          }
+        ],
+        "evidence": "Exact canonical source identity; no universe linkage invented."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "role": "Inspected midnight amber practical/cool rainy-window light",
+          "notes": "Figure illumination only, no bus cabin or floor.",
+          "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio/connected heavy oil style",
+          "notes": "No identity, gear or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+          "role": "Inspected rain-clearing dawn palette",
+          "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+          "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/title-image.jpg",
+          "role": "Inspected nonfigurative cover, subordinate",
+          "notes": "Stylized card/token not canonical exact token shape. Prose flat brown leaf-punched token controls; no identity information.",
+          "sha256": "59940a061b8be0c912f0528dc5fe9c5af750416880671bcdd0c2547bb289890c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-last-bus-to-briar-hill/art/characters/miriam-velez.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Change LIGHTING ONLY on this miriam-velez / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a155e449-aa99-4d2e-98af-506f3a8f7228.png",
+            "sha256": "ad1d405e3a7f6792215fa73caea7265e4872578633e3ba0828d9f447b60ae173",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:02:55.354670+00:00",
+            "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'Miriam Velez'.\nMiriam Velez, ordinary adult courier woman with mid-twenties ART APPEARANCE, medium height athletic, warm olive-brown skin, OVAL face/strong dark brows, matte dark brown eyes. Black CURLY low ponytail under dark NAVY BICYCLE HELMET, small headset. BURGUNDY rainjacket, one centered horizontal reflective chest strip, charcoal cycling trousers, dark practical trainers, BLACK full-finger gloves. RECTANGULAR NAVY insulated delivery BACKPACK centrally on back, two symmetrical shoulder straps, never shifting to hip; correct three-view shape. Front / Right side facingRIGHT / Back. Heads 'Worried focus' and 'Accountable resolve'. Small personal PHONE, ordinary FARE CARD and plain POWER BANK as studies, no invented readable app UI. No bicycle, road or bus. Strong MIDNIGHT light like first image: limited cabin amber from upperleft and substantial dark cool slate shadow, no broad sunny fill. Exact actual age unspecified, not a canon claim.",
+            "references": [
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Inspected midnight amber practical/cool rainy-window light",
+                "notes": "Figure illumination only, no bus cabin or floor.",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio/connected heavy oil style",
+                "notes": "No identity, gear or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a155e449-aa99-4d2e-98af-506f3a8f7228.png",
+            "outputSha256": "ad1d405e3a7f6792215fa73caea7265e4872578633e3ba0828d9f447b60ae173",
+            "review": "Actual A1 identity, source wardrobe/gear/anatomy and labels pass. Main figures and heads carry broad neutral-warm fill too bright for specified midnight bus; target lighting only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:17:24.440647+00:00",
+            "prompt": "Change LIGHTING ONLY on this miriam-velez / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a155e449-aa99-4d2e-98af-506f3a8f7228.png",
+                "sha256": "ad1d405e3a7f6792215fa73caea7265e4872578633e3ba0828d9f447b60ae173",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              },
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-0c5193ba-e912-474a-befb-265f0146295e.png",
+            "savedPath": "stories/the-last-bus-to-briar-hill/art/characters/miriam-velez.png",
+            "outputSha256": "f4b9f471435089f7aa127827fbc94bd7d1badf45bd4722f8b2769891125d6678",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:31:35.691668+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T10:31:35.691668+00:00",
+        "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+        "outputSha256": "f4b9f471435089f7aa127827fbc94bd7d1badf45bd4722f8b2769891125d6678",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a155e449-aa99-4d2e-98af-506f3a8f7228.png",
+            "sha256": "ad1d405e3a7f6792215fa73caea7265e4872578633e3ba0828d9f447b60ae173",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels inspected: one adult Miriam; consistent olive-brown face, black curly low ponytail, helmet/headset, burgundy jacket and centered navy delivery backpack across front/right/rear views.",
+          "Night bus lighting now has deep cool shadow planes and restrained amber directional accents on flesh and gear, without introducing any bus or scenery.",
+          "Phone/card/power bank personal details, exact readable name/story heading, heavy opaque oil rendering and ivory empty ground pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f7f2fa697be5807be79fed704cd36665f0769515e7cdc1232782af65a1ca649c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "f4b9f471435089f7aa127827fbc94bd7d1badf45bd4722f8b2769891125d6678"
+    },
+    {
+      "id": "mateo-velez",
+      "name": "Mateo Velez",
+      "role": "Fifteen-year-old brother and co-agent of return",
+      "naming": {
+        "sourceName": "Mateo Velez",
+        "sourceRole": "Miriam's brother",
+        "provenance": "Exact source full name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Fifteen was old enough",
+          "explanation": "Exact age15."
+        },
+        {
+          "quote": "hood down and wet curls plastered to his forehead",
+          "explanation": "Explicit reunion hair/clothing state."
+        },
+        {
+          "quote": "packed his transit card and rain shell",
+          "explanation": "Personal clothes and gear."
+        }
+      ],
+      "form": "Ordinary human fifteen-year-old boy",
+      "storyAppearance": {
+        "anatomy": "Exactly15, wet curly hair with hood down, rain shell, transit card/phone, wet shoes. Green charging cord lent to aide then returned to Miriam; no main held cord. Later given flat brown leaf-punched token.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation teen slim/lanky growing frame, warm olive-brown skin/strong brows/dark brown eyes sharing family cues with Miriam, short black loose curls; slate BLUE rain shell with hood down, gray T-shirt, dark jeans and black-white trainers.",
+        "markings": "Exactly15, wet curly hair with hood down, rain shell, transit card/phone, wet shoes. Green charging cord lent to aide then returned to Miriam; no main held cord. Later given flat brown leaf-punched token.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation teen slim/lanky growing frame, warm olive-brown skin/strong brows/dark brown eyes sharing family cues with Miriam, short black loose curls; slate BLUE rain shell with hood down, gray T-shirt, dark jeans and black-white trainers.",
+        "equipment": "Sunrise after bridge, threeviews/heads wary pride and honest grief. Transit card/black-screen phone and separate flat BROWN token with leaf-shaped hole, no sprout/pot or living copy of mother.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation teen slim/lanky growing frame, warm olive-brown skin/strong brows/dark brown eyes sharing family cues with Miriam, short black loose curls; slate BLUE rain shell with hood down, gray T-shirt, dark jeans and black-white trainers."
+      },
+      "explicitCanon": [
+        "Exactly15, wet curly hair with hood down, rain shell, transit card/phone, wet shoes. Green charging cord lent to aide then returned to Miriam; no main held cord. Later given flat brown leaf-punched token."
+      ],
+      "visualInterpretation": [
+        "Art interpretation teen slim/lanky growing frame, warm olive-brown skin/strong brows/dark brown eyes sharing family cues with Miriam, short black loose curls; slate BLUE rain shell with hood down, gray T-shirt, dark jeans and black-white trainers.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Sunrise after bridge, threeviews/heads wary pride and honest grief. Transit card/black-screen phone and separate flat BROWN token with leaf-shaped hole, no sprout/pot or living copy of mother."
+        }
+      ],
+      "lighting": {
+        "moment": "Sunrise after freely chosen bridge crossing",
+        "motivation": "Cool wet dawn planes with narrow emerging warm sun rim; no noon fill"
+      },
+      "recurrence": {
+        "identityKey": "mateo-velez",
+        "links": [
+          {
+            "relation": "brother",
+            "target": "miriam-velez"
+          }
+        ],
+        "evidence": "Source exact15; distinct agent with shared family traits."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "role": "Inspected midnight amber practical/cool rainy-window light",
+          "notes": "Figure illumination only, no bus cabin or floor.",
+          "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio/connected heavy oil style",
+          "notes": "No identity, gear or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+          "role": "Inspected rain-clearing dawn palette",
+          "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+          "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/title-image.jpg",
+          "role": "Inspected nonfigurative cover, subordinate",
+          "notes": "Stylized card/token not canonical exact token shape. Prose flat brown leaf-punched token controls; no identity information.",
+          "sha256": "59940a061b8be0c912f0528dc5fe9c5af750416880671bcdd0c2547bb289890c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-last-bus-to-briar-hill/art/characters/mateo-velez.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Tiny background-only edit: on Mateo Velez / The Last Bus to Briar Hill sheet, remove every gray/beige GROUND or contact-shadow smear immediately beneath the three pairs of shoes, replacing with matching uninterrupted warm ivory. Do not touch shoes or any figure pixel, faces, hair, clothes, source sunrise lighting, personal token/card/phone, text or layout. Preserve the oil painting exactly. No other edits.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-38f8bb5f-594d-4c7e-ad50-804a3e25efac.png",
+            "sha256": "19c76afc79a563fc47b769f0acf40508603689cedadae0718a618262f1ff7746",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:02:55.354670+00:00",
+            "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'Mateo Velez'.\nMateo Velez, HUMAN BOY EXACTLY15, slim lanky teenage shoulders/long limbs, convincingly adolescent not full grown man or tiny child. Warm olive-brown skin, oval/broad brow family resemblance, dark brown matte eyes, SHORT BLACK WET CURLS plastered to forehead. Slate BLUE rain shell with HOOD DOWN, gray T-shirt, dark jeans, black-and-white modern trainers damp. Three Front / Right side facingRIGHT / Back. Heads 'Wary pride' and 'Honest grief'. Own ordinary transit card/black-screen dead phone; separate flat BROWN TOKEN with a LEAF-SHAPED PUNCHED HOLE (not glowing plastic creditcard, no plant or flowerpot). No green charging cord held because it was returned to Miriam. Cool rain-clearing SUNRISE light with narrow warm edge, substantial gray-blue shaded planes, same thick opaque oils. No hill/roots/bridge/background.",
+            "references": [
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+                "role": "Inspected rain-clearing dawn palette",
+                "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+                "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio/connected heavy oil style",
+                "notes": "No identity, gear or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-38f8bb5f-594d-4c7e-ad50-804a3e25efac.png",
+            "outputSha256": "19c76afc79a563fc47b769f0acf40508603689cedadae0718a618262f1ff7746",
+            "review": "Actual A1 adolescent15 identity/wet curls/rain shell/dawn/token pass. Thin gray contact-ground smears below shoes violate clean isolated ivory; remove only those."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:17:24.440647+00:00",
+            "prompt": "Tiny background-only edit: on Mateo Velez / The Last Bus to Briar Hill sheet, remove every gray/beige GROUND or contact-shadow smear immediately beneath the three pairs of shoes, replacing with matching uninterrupted warm ivory. Do not touch shoes or any figure pixel, faces, hair, clothes, source sunrise lighting, personal token/card/phone, text or layout. Preserve the oil painting exactly. No other edits.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-38f8bb5f-594d-4c7e-ad50-804a3e25efac.png",
+                "sha256": "19c76afc79a563fc47b769f0acf40508603689cedadae0718a618262f1ff7746",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-6aa3120e-3196-4318-82e8-099b12f04c41.png",
+            "savedPath": "stories/the-last-bus-to-briar-hill/art/characters/mateo-velez.png",
+            "outputSha256": "5f847780397680d254376217236ca3635f47016ed8aed770bd5952283029bd5d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:31:35.691668+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T10:31:35.691668+00:00",
+        "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+        "outputSha256": "5f847780397680d254376217236ca3635f47016ed8aed770bd5952283029bd5d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-38f8bb5f-594d-4c7e-ad50-804a3e25efac.png",
+            "sha256": "19c76afc79a563fc47b769f0acf40508603689cedadae0718a618262f1ff7746",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels inspected: child-proportioned fifteen-year-old Mateo with wet curls, hood down, slate-blue rain shell, grey shirt and dark jeans; sunrise lighting appropriate to selected returned state.",
+          "Transit card/dead phone and flat brown token with leaf-shaped aperture preserved; token is not a luminous object or independent living subject.",
+          "Removed residual painted contact-ground marks below shoes; each figure remains isolated on clean ivory. Correct readable headings, consistent anatomy and opaque oil rendering pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a59a2fc4ddfd310ddc1c991b72e4e6fcdc93d545b51614f5def9a78c4db7cfdc"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "5f847780397680d254376217236ca3635f47016ed8aed770bd5952283029bd5d"
+    },
+    {
+      "id": "maude-dallow",
+      "name": "Maude Dallow",
+      "role": "Living bus-side magical agent and boundary keeper",
+      "naming": {
+        "sourceName": "Maude Dallow",
+        "sourceRole": "night driver",
+        "provenance": "Exact source badge name; Ms. Dallow alias not separate person"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Silver hair brushed her jaw.",
+          "explanation": "Exact hair appearance; age not established."
+        },
+        {
+          "quote": "charcoal coat over an ordinary transit uniform",
+          "explanation": "Exact outfit."
+        },
+        {
+          "quote": "Fine green light traveled from the creases of her hand",
+          "explanation": "Her own living magic supports bus, not sentient vehicle."
+        }
+      ],
+      "form": "Living woman with ordinary human appearance; magic does not alter anatomy",
+      "storyAppearance": {
+        "anatomy": "Silver jaw-length hair, charcoal coat over ordinary transit uniform, brass name badge Maude Dallow; fine green light from hand creases. Exact age/species beyond human presentation not fixed.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation mature adult face with neutral age, medium tall slender build, cool light-brown skin, long face/straight nose, brown eyes, straight silver bob ending at jaw. Charcoal coat open over navy uniform jacket and light gray shirt/navy tie/trousers, black low shoes. Brass name badge on anatomical LEFT chest.",
+        "markings": "Silver jaw-length hair, charcoal coat over ordinary transit uniform, brass name badge Maude Dallow; fine green light from hand creases. Exact age/species beyond human presentation not fixed.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation mature adult face with neutral age, medium tall slender build, cool light-brown skin, long face/straight nose, brown eyes, straight silver bob ending at jaw. Charcoal coat open over navy uniform jacket and light gray shirt/navy tie/trousers, black low shoes. Brass name badge on anatomical LEFT chest.",
+        "equipment": "Three views show left badge frontviewerRIGHT, hidden in right profile, absent on back. Two heads patient scrutiny and firm limit. Own right palm detail green fine creases, fingers up/thumbviewerRIGHT, no bus wheel, reader or room.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation mature adult face with neutral age, medium tall slender build, cool light-brown skin, long face/straight nose, brown eyes, straight silver bob ending at jaw. Charcoal coat open over navy uniform jacket and light gray shirt/navy tie/trousers, black low shoes. Brass name badge on anatomical LEFT chest."
+      },
+      "explicitCanon": [
+        "Silver jaw-length hair, charcoal coat over ordinary transit uniform, brass name badge Maude Dallow; fine green light from hand creases. Exact age/species beyond human presentation not fixed."
+      ],
+      "visualInterpretation": [
+        "Art interpretation mature adult face with neutral age, medium tall slender build, cool light-brown skin, long face/straight nose, brown eyes, straight silver bob ending at jaw. Charcoal coat open over navy uniform jacket and light gray shirt/navy tie/trousers, black low shoes. Brass name badge on anatomical LEFT chest.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three views show left badge frontviewerRIGHT, hidden in right profile, absent on back. Two heads patient scrutiny and firm limit. Own right palm detail green fine creases, fingers up/thumbviewerRIGHT, no bus wheel, reader or room."
+        }
+      ],
+      "lighting": {
+        "moment": "Midnight driver",
+        "motivation": "Dim warm cabin/sodium light with deep cool fill, small local green palm light"
+      },
+      "recurrence": {
+        "identityKey": "maude-dallow",
+        "links": [],
+        "evidence": "Exact source name; driver is living magical agent, bus explicitly inert."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "role": "Inspected midnight amber practical/cool rainy-window light",
+          "notes": "Figure illumination only, no bus cabin or floor.",
+          "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio/connected heavy oil style",
+          "notes": "No identity, gear or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+          "role": "Inspected rain-clearing dawn palette",
+          "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+          "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/title-image.jpg",
+          "role": "Inspected nonfigurative cover, subordinate",
+          "notes": "Stylized card/token not canonical exact token shape. Prose flat brown leaf-punched token controls; no identity information.",
+          "sha256": "59940a061b8be0c912f0528dc5fe9c5af750416880671bcdd0c2547bb289890c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-last-bus-to-briar-hill/art/characters/maude-dallow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Change LIGHTING ONLY on this maude-dallow / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2ba8d1e3-619d-451c-9b1c-bd027286c307.png",
+            "sha256": "e530de6ea8c64caf60a253aa8e47c4628990012a8c3c321a3649198875c37e2b",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:02:55.354670+00:00",
+            "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'Maude Dallow'.\nMaude Dallow, ordinary human-appearing ADULT WOMAN, precise mature features but exact age UNFIXED, medium-tall slender frame, cool light-brown skin, long face/straight nose, matte brown eyes. Straight SILVER BOB brushing JAW, no hat. CHARCOAL COAT over ordinary navy TRANSIT UNIFORM, light gray shirt/navy tie and trousers, low black practical shoes. Rectangular BRASS BADGE with exact readable 'Maude Dallow' on anatomicalLEFT breast (front viewerRIGHT; hidden far side in right-facing RIGHT profile; no back badge). Three fullbody Front / Right side facingRIGHT / Back. Heads 'Patient scrutiny' / 'Firm limit'. One isolated OWN RIGHT PALM, fingers UP, thumb on viewerRIGHT, five digits, GREEN fine light confined to palm CREASES, not flame or glowing entire body. Night deep cool shadow and restrained warm cabin planes; no wheel/fare reader/bus setting or props.",
+            "references": [
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Inspected midnight amber practical/cool rainy-window light",
+                "notes": "Figure illumination only, no bus cabin or floor.",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio/connected heavy oil style",
+                "notes": "No identity, gear or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2ba8d1e3-619d-451c-9b1c-bd027286c307.png",
+            "outputSha256": "e530de6ea8c64caf60a253aa8e47c4628990012a8c3c321a3649198875c37e2b",
+            "review": "Actual A1 identity, source wardrobe/gear/anatomy and labels pass. Main figures and heads carry broad neutral-warm fill too bright for specified midnight bus; target lighting only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:17:24.440647+00:00",
+            "prompt": "Change LIGHTING ONLY on this maude-dallow / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2ba8d1e3-619d-451c-9b1c-bd027286c307.png",
+                "sha256": "e530de6ea8c64caf60a253aa8e47c4628990012a8c3c321a3649198875c37e2b",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              },
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c3bc0a4e-abd0-476e-b516-75e6dfcfa7e7.png",
+            "savedPath": "stories/the-last-bus-to-briar-hill/art/characters/maude-dallow.png",
+            "outputSha256": "7edf47d0f2f25e938a11b88c49bfd8f61d1d215bf37de96304c08ea847fcd886",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:31:35.691668+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T10:31:35.691668+00:00",
+        "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+        "outputSha256": "7edf47d0f2f25e938a11b88c49bfd8f61d1d215bf37de96304c08ea847fcd886",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2ba8d1e3-619d-451c-9b1c-bd027286c307.png",
+            "sha256": "e530de6ea8c64caf60a253aa8e47c4628990012a8c3c321a3649198875c37e2b",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels inspected: silver jaw-length bob, charcoal coat/navy transit uniform, left-chest brass badge retained consistently; frontal anatomical left is viewer right and right lateral hides far-side badge.",
+          "Isolated right palm has fingers upright and thumb viewer right, correct right palmar anatomy; green fine creases remain limited to palm.",
+          "Restrained amber light against deep blue cool night shadows now matches source bus lighting; one identity, exact titles, empty ivory ground and connected oil masses pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "c55ead6326a7956d86948d009ef2144826c4cc65a6b982b6b9e852e34c7cb33d"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "7edf47d0f2f25e938a11b88c49bfd8f61d1d215bf37de96304c08ea847fcd886"
+    },
+    {
+      "id": "the-briar-host",
+      "name": "The Briar Host",
+      "role": "Living tree-bodied host of the Hill crossing",
+      "naming": {
+        "sourceName": "the Briar Host",
+        "sourceRole": "living host",
+        "provenance": "Exact full source name, capitalization for heading; no human name invented"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "a trunk wider than the bus shelter divided into the suggestion of shoulders",
+          "explanation": "Explicit body scale and form."
+        },
+        {
+          "quote": "Thousands of thorn twigs lifted and settled",
+          "explanation": "Explicit living twig anatomy."
+        },
+        {
+          "quote": "Two green hollows opened in the bark.",
+          "explanation": "Distinct visible face-like feature."
+        }
+      ],
+      "form": "Immense living woody/tree-bodied being, nonhuman",
+      "storyAppearance": {
+        "anatomy": "Living trunk broader than bus shelter, suggestion of shoulders, thousands of thorn twigs, two green bark hollows, roots/leaves/branches, voice from living wood. No literal human head, mouth, arms or legs specified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation broad dark wet-brown fissured trunk with high fork suggesting shoulders, dense thorn-twig crown with sparse small green leaves, two deep green oval hollows in upper trunk. Heavy branching root base is own living anatomy. No human face/nose/teeth/hands or paired walking legs. Scale immense, no exact measurements/person comparator.",
+        "markings": "Living trunk broader than bus shelter, suggestion of shoulders, thousands of thorn twigs, two green bark hollows, roots/leaves/branches, voice from living wood. No literal human head, mouth, arms or legs specified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation broad dark wet-brown fissured trunk with high fork suggesting shoulders, dense thorn-twig crown with sparse small green leaves, two deep green oval hollows in upper trunk. Heavy branching root base is own living anatomy. No human face/nose/teeth/hands or paired walking legs. Scale immense, no exact measurements/person comparator.",
+        "equipment": "One main whole living trunk/root/crown view, smaller side/back sameform and enlarged two-hollow/young-root/thorn-twig studies. No mother glamour or bridge/hill; no extra trees or token sprout.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation broad dark wet-brown fissured trunk with high fork suggesting shoulders, dense thorn-twig crown with sparse small green leaves, two deep green oval hollows in upper trunk. Heavy branching root base is own living anatomy. No human face/nose/teeth/hands or paired walking legs. Scale immense, no exact measurements/person comparator."
+      },
+      "explicitCanon": [
+        "Living trunk broader than bus shelter, suggestion of shoulders, thousands of thorn twigs, two green bark hollows, roots/leaves/branches, voice from living wood. No literal human head, mouth, arms or legs specified."
+      ],
+      "visualInterpretation": [
+        "Art interpretation broad dark wet-brown fissured trunk with high fork suggesting shoulders, dense thorn-twig crown with sparse small green leaves, two deep green oval hollows in upper trunk. Heavy branching root base is own living anatomy. No human face/nose/teeth/hands or paired walking legs. Scale immense, no exact measurements/person comparator.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "One main whole living trunk/root/crown view, smaller side/back sameform and enlarged two-hollow/young-root/thorn-twig studies. No mother glamour or bridge/hill; no extra trees or token sprout."
+        }
+      ],
+      "lighting": {
+        "moment": "Sunrise at ending before Hill closes",
+        "motivation": "Cool damp dawn mass with small warm sun edges and dim green hollow depth"
+      },
+      "recurrence": {
+        "identityKey": "the-briar-host",
+        "links": [],
+        "evidence": "Exact source tree being; no asserted relation to Underbreath/Rollcaller or other colonies."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "role": "Inspected midnight amber practical/cool rainy-window light",
+          "notes": "Figure illumination only, no bus cabin or floor.",
+          "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio/connected heavy oil style",
+          "notes": "No identity, gear or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+          "role": "Inspected rain-clearing dawn palette",
+          "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+          "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/title-image.jpg",
+          "role": "Inspected nonfigurative cover, subordinate",
+          "notes": "Stylized card/token not canonical exact token shape. Prose flat brown leaf-punched token controls; no identity information.",
+          "sha256": "59940a061b8be0c912f0528dc5fe9c5af750416880671bcdd0c2547bb289890c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-last-bus-to-briar-hill/art/characters/the-briar-host.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'The Briar Host'.\nThe Briar Host, ONE IMMENSE LIVING TREE-BODIED BEING. Main full subject on left: very BROAD wet dark-brown fissured TRUNK with high fork suggesting shoulders, great many THORN TWIGS above, sparse small green leaves, exactly TWO deep GREEN HOLLOWS opening in upper bark. No human face/nose/mouth/teeth or giant human body; green hollows are bark cavities, NOT polished eyeballs. Root base branches visibly as HIS OWN living anatomy, isolated on ivory, NO dirt/rock/floor/landscape. No two walking legs and no human hands. Smaller 'Side' and 'Back' wholeform studies on right retain trunk fork and root anatomy, then one enlarged 'Bark hollows' and 'Thorn and new root' biological detail. Living branches may bend, no separate trees. Wide trunk conveys massive scale without other human/vehicle comparator. Cool damp SUNRISE values with little warm emerging rim, dim green hollow depths only, NO allover bioluminescence. Preserve HEAVY broad bristle oils. No hill, bridge, roadway, scenery or mother-shaped illusion.",
+        "references": [
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+            "role": "Inspected rain-clearing dawn palette",
+            "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+            "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted ivory folio/connected heavy oil style",
+            "notes": "No identity, gear or daylight copied.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:02:55.354670+00:00",
+            "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'The Briar Host'.\nThe Briar Host, ONE IMMENSE LIVING TREE-BODIED BEING. Main full subject on left: very BROAD wet dark-brown fissured TRUNK with high fork suggesting shoulders, great many THORN TWIGS above, sparse small green leaves, exactly TWO deep GREEN HOLLOWS opening in upper bark. No human face/nose/mouth/teeth or giant human body; green hollows are bark cavities, NOT polished eyeballs. Root base branches visibly as HIS OWN living anatomy, isolated on ivory, NO dirt/rock/floor/landscape. No two walking legs and no human hands. Smaller 'Side' and 'Back' wholeform studies on right retain trunk fork and root anatomy, then one enlarged 'Bark hollows' and 'Thorn and new root' biological detail. Living branches may bend, no separate trees. Wide trunk conveys massive scale without other human/vehicle comparator. Cool damp SUNRISE values with little warm emerging rim, dim green hollow depths only, NO allover bioluminescence. Preserve HEAVY broad bristle oils. No hill, bridge, roadway, scenery or mother-shaped illusion.",
+            "references": [
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+                "role": "Inspected rain-clearing dawn palette",
+                "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+                "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio/connected heavy oil style",
+                "notes": "No identity, gear or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9a2b0c79-786a-495a-bc99-9c6fad8200d2.png",
+            "savedPath": "stories/the-last-bus-to-briar-hill/art/characters/the-briar-host.png",
+            "outputSha256": "bc6931d3e6e14193599c5fa03af8930758810395700d3029660e74ce18e11be5",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:17:25.487245+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T10:17:25.487245+00:00",
+        "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+        "outputSha256": "bc6931d3e6e14193599c5fa03af8930758810395700d3029660e74ce18e11be5",
+        "references": [
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+            "role": "Inspected rain-clearing dawn palette",
+            "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+            "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted ivory folio/connected heavy oil style",
+            "notes": "No identity, gear or daylight copied.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A1 represents one source-supported living immense trunk, forked shoulder suggestion, thorn-twig crown, two deep green bark hollows, own root anatomy and consistent side/back; no human mouth, fingers, walking legs or mother lure.",
+          "Exact name/story/labels; bark and thorn/root details coherent, warm-edge/cool dawn oil masses, full silhouette isolated on ivory without terrain or surrounding trees."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "87be3003114d1bb1af12d849b64efad12b2f8cb9c9799fa4c75df18206c767ce"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "bc6931d3e6e14193599c5fa03af8930758810395700d3029660e74ce18e11be5"
+    },
+    {
+      "id": "berensa",
+      "name": "Berensa",
+      "role": "Stranded ordinary aide who needs a follow-up call",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "woman in scrubs; aide",
+        "provenance": "Art-only name under authorized naming exception before generation; exact corpus name search returned no match. No source/canon edit."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "an exhausted woman in scrubs",
+          "explanation": "Present individual participates in full first test."
+        },
+        {
+          "quote": "rain-reddened eyes, plastic grocery bag, an identity card turned backward on its clip",
+          "explanation": "Explicit physical/clothing/gear details."
+        },
+        {
+          "quote": "A boy lent me this at the last bus",
+          "explanation": "Same real aide bridges Mateo and Miriam's journeys, not reset illusion."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Exhausted woman/night-shift aide in scrubs and hood, rain-reddened eyes, plastic grocery bag, backward ID card clipped, dead phone later charging via green cord; explicitly real ordinary human.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation adult around38, short sturdy frame, medium-brown skin, round face and dark brown eyes, dark curls tucked under gray hooded raincoat. Teal-blue scrub top/trousers, white worn trainers; ID card centered on chest turned blank back outward, translucent white grocery bag.",
+        "markings": "Exhausted woman/night-shift aide in scrubs and hood, rain-reddened eyes, plastic grocery bag, backward ID card clipped, dead phone later charging via green cord; explicitly real ordinary human.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation adult around38, short sturdy frame, medium-brown skin, round face and dark brown eyes, dark curls tucked under gray hooded raincoat. Teal-blue scrub top/trousers, white worn trainers; ID card centered on chest turned blank back outward, translucent white grocery bag.",
+        "equipment": "Front/right/back same night traveler; fatigue and relieved connection heads. Own phone connected to green charging cord, personal bag held without implied grocerieslist. No client/driver or scene.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation adult around38, short sturdy frame, medium-brown skin, round face and dark brown eyes, dark curls tucked under gray hooded raincoat. Teal-blue scrub top/trousers, white worn trainers; ID card centered on chest turned blank back outward, translucent white grocery bag."
+      },
+      "explicitCanon": [
+        "Exhausted woman/night-shift aide in scrubs and hood, rain-reddened eyes, plastic grocery bag, backward ID card clipped, dead phone later charging via green cord; explicitly real ordinary human."
+      ],
+      "visualInterpretation": [
+        "Art interpretation adult around38, short sturdy frame, medium-brown skin, round face and dark brown eyes, dark curls tucked under gray hooded raincoat. Teal-blue scrub top/trousers, white worn trainers; ID card centered on chest turned blank back outward, translucent white grocery bag.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Front/right/back same night traveler; fatigue and relieved connection heads. Own phone connected to green charging cord, personal bag held without implied grocerieslist. No client/driver or scene."
+        }
+      ],
+      "lighting": {
+        "moment": "Midnight first request stop/call",
+        "motivation": "Restrained warm cabin/sodium practical against deep cold rainy-night fill"
+      },
+      "recurrence": {
+        "identityKey": "art-berensa-briar-aide",
+        "links": [],
+        "evidence": "Art-only name for continuous ordinary source aide."
+      },
+      "references": [
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+          "role": "Inspected midnight amber practical/cool rainy-window light",
+          "notes": "Figure illumination only, no bus cabin or floor.",
+          "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio/connected heavy oil style",
+          "notes": "No identity, gear or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/art/landscapes/04-briar-hill-root-steps.png",
+          "role": "Inspected rain-clearing dawn palette",
+          "notes": "Used for later sunrise states; no hill, buildings, terrain or plants apart from Host's own living body.",
+          "sha256": "d0b44328629938d875fb295d085699f9d224db95169a6cc058a3b7c0411a3b80",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-last-bus-to-briar-hill/title-image.jpg",
+          "role": "Inspected nonfigurative cover, subordinate",
+          "notes": "Stylized card/token not canonical exact token shape. Prose flat brown leaf-punched token controls; no identity information.",
+          "sha256": "59940a061b8be0c912f0528dc5fe9c5af750416880671bcdd0c2547bb289890c",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-last-bus-to-briar-hill/art/characters/berensa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Change LIGHTING ONLY on this berensa / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f82d3ec-561a-46c4-9ba2-59181422cea6.png",
+            "sha256": "4eca0ab1917c3a5b15c0a194a9229da22bb6c8a42fcf690cb345103b79b452bb",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T10:02:55.354670+00:00",
+            "prompt": "Use case illustration-story. ONE landscape1536x1024 character folio, clean light warm IVORY background with readable exact large dark serif NAME and subtitle 'The Last Bus to Briar Hill'. ONE named living identity only, views/states of that same subject allowed. Canadian Group of Seven HEAVY OIL: broad connected opaque colour and value masses, clear directional bristle strokes/impasto on faces, hair, clothes or bark, matte eyes. Not CGI/photographic/smooth digital or anime contours. First reference assigned actual story-moment light; second ONLY oil rendering and ivory structure, no borrowed identity/props/light. For humans three full-body Front / Right side facing canvasRIGHT / Back plus two heads and small personal detail. No room, bus, landscape, floor, ground patch, scenic vignette, swatches or other person. Fixed garment marks keep anatomical side; no unrequested satchels, scars, hats or patches. Human hands with palm toward viewer and fingers UP: RIGHT thumb viewerRIGHT, LEFT thumb viewerLEFT. Dorsal orientation reverses that. All objects merely held are personal props, not scenes.\nHeading 'Berensa'.\nBerensa, ONE ordinary real adult woman aide around38 as art interpretation, short sturdy build, medium-brown skin, round face, matte brown RAIN-REDDENED tired eyes. Dark curls tucked under gray RAIN HOOD (hoodUP in full views), plain gray open raincoat over TEAL-BLUE SCRUB shirt/trousers, worn white trainers. ID card clipped at CENTER chest with blank BACK outward, no invented writing. Translucent white plastic GROCERY BAG in one own hand; ordinary phone held other, green charging CORD attached as small personal study, not attached fixed hip. Front / Right side facingRIGHT / Back. Heads 'Fatigue' and 'Relieved connection' same hood/identity. No crown, bird feet, magic or fae features, no other person's hand. NIGHT restrained warm cabin planes and deep cool rain shadows, no broad daylight; thick matte oils on clean ivory.",
+            "references": [
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Inspected midnight amber practical/cool rainy-window light",
+                "notes": "Figure illumination only, no bus cabin or floor.",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio/connected heavy oil style",
+                "notes": "No identity, gear or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f82d3ec-561a-46c4-9ba2-59181422cea6.png",
+            "outputSha256": "4eca0ab1917c3a5b15c0a194a9229da22bb6c8a42fcf690cb345103b79b452bb",
+            "review": "Actual A1 identity, source wardrobe/gear/anatomy and labels pass. Main figures and heads carry broad neutral-warm fill too bright for specified midnight bus; target lighting only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T10:17:24.440647+00:00",
+            "prompt": "Change LIGHTING ONLY on this berensa / The Last Bus to Briar Hill character sheet. Preserve all exact names/captions, identity, ages, hair, outfit, three poses, own-hand and object studies, anatomy, equipment, colors and clean IVORY background. The source moment is MIDNIGHT in a dim bus lit by limited cabin and sodium lamps, as second reference. Current faces and clothes are too broadly lit. Suppress broad fill, put canvasRIGHT halves of faces and much of bodies in substantial DARK COOL slate-blue shadow. Keep small warm amber planes on upperLEFT-facing ridges, not overall golden daytime. All faces and details still legible, eyes matte. Retain precise heavy opaque oil strokes; do not add spotlights, bus, scenery, floor or dark background. Keep every physical detail unchanged, especially attached backpack/badge and hand chirality. Remove any incidental gray ground/contact smear beneath shoes to leave clean ivory.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f82d3ec-561a-46c4-9ba2-59181422cea6.png",
+                "sha256": "4eca0ab1917c3a5b15c0a194a9229da22bb6c8a42fcf690cb345103b79b452bb",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              },
+              {
+                "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+                "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+                "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a27748db-49ad-4b59-9b20-ec6b31a7b37a.png",
+            "savedPath": "stories/the-last-bus-to-briar-hill/art/characters/berensa.png",
+            "outputSha256": "d68075aab76bc41a12378baff5645838cd0109681583d2d5e130fb92abc91068",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T10:31:35.691668+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T10:31:35.691668+00:00",
+        "sourceSha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93",
+        "outputSha256": "d68075aab76bc41a12378baff5645838cd0109681583d2d5e130fb92abc91068",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f82d3ec-561a-46c4-9ba2-59181422cea6.png",
+            "sha256": "4eca0ab1917c3a5b15c0a194a9229da22bb6c8a42fcf690cb345103b79b452bb",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-last-bus-to-briar-hill/art/interiors/01-midnight-bus-interior.png",
+            "role": "Actual inspected midnight cabin lamp/sodium and dark cool rain values",
+            "sha256": "906fb77bb4f6b1eaa2f0028ec19bc18a41c45f401ad8c013200a10a2d65db1fc",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels inspected: one adult rain-reddened weary aide with black curls under hood, consistent grey coat/blue scrubs/white shoes and reversed central identification clip.",
+          "Held phone with green charging cable and plastic grocery bag remain personal equipment, with natural hand changes between poses allowed by source.",
+          "Local amber accents with substantially cool dark shadow planes now match midnight bus state; exact art-only name and story heading, no setting and thick oil texture pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f22d85e5098913de5c01fa7b80dc59ffa35e8534b1ab99f3e873ac6cff66698e"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "d68075aab76bc41a12378baff5645838cd0109681583d2d5e130fb92abc91068"
+    }
+  ]
+}

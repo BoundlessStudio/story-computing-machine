@@ -1,0 +1,982 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-sky-remembers-us-return",
+  "title": "The Sky Remembers Us",
+  "source": "stories/the-sky-remembers-us-return/story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished 6k-scale source/prompt read in consecutive parts, LOCKED character/rules entries read. Four sustained living protagonists plus ancient Faris/Seyathi central terminal prologue identities selected. Current All Accounts Due character pixels inspected and exact anchor pins preserved; physical state is ancient powerless final fall, not ages-later revival.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Grandmother, shepherd and long-bodied counterpart, rooftop children/parents, forest elder/branchlike visitor, plain woman/pulsing elder, singer/listener, tree/lattice-being",
+      "reason": "Historical reference or brief global-awakening vignette participants; acknowledged as distinct living agents but not sustained main cast. No merged generic identity sheet."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md",
+    "universe/rules.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover inspected; prose and current anchor identities control.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "dalo",
+      "name": "Dalo",
+      "role": "Impulsive ages-later living material-world participant initiating the reciprocal link.",
+      "form": "Adult material-world woman",
+      "selectionEvidence": [
+        {
+          "quote": "Round-cheeked, wide-eyed, hair whipping in a wind Keshen could not feel",
+          "explanation": "Impulsive ages-later living material-world participant initiating the reciprocal link."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Round-cheeked wide-eyed woman, coat; lends scarf to Miraq's left boot, LEFT hand grounded/right offered; no personal latent magic."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent28, medium warm-brown skin, rounded face, dark chestnut shoulder-length wavy hair, brown eyes; blue travel coat grey shirt brown trousers dark boots. Close family with Miraq without assigning exact relationship."
+      ],
+      "states": [
+        {
+          "name": "Dawn after the reach",
+          "description": "Exhausted intact full-body reference with hands lowered after jointly narrowing link; no unilateral new spell."
+        }
+      ],
+      "lighting": "Selected final dawn: low ordinary bronze sunlight with large cool violet shadow masses. No self-illumination or visible unilateral magic.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Dalo"
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/dalo.png",
+      "generation": {
+        "prompt": "Edit only background of this Dalo sheet: replace ALL grey/brown dark vignette/haze in NEGATIVE SPACE with clean UNIFORM LIGHT IVORY including edges. Restore dark brown exact heading Dalo and subtitle The Sky Remembers Us clearly in same position. Preserve every face/body/hand, hair, clothing, anatomy, identity, pose and morning opaque oil brushwork exactly. Add small state label Dawn after the reach in available ivory. No scenery/floor shadows/new props/person.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-80c8b3fa-3377-4837-a663-f447f5914e67.png",
+            "sha256": "69b9b986627229c0337e998147994c648f99f82173becad7ff29990cff7c832f",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Dalo; exact subtitle The Sky Remembers Us. ONE ordinary adult woman apparent28, medium warm-BROWN skin, source ROUND CHEEKS and wide BROWN eyes, shoulder-length dark CHESTNUT wavy hair stirred by wind. Plain faded BLUE travel coat, grey shirt, brown trousers and scuffed dark boots. No scarf on her; it is tied to her companion's boot elsewhere. Two full front/rear views with both hands lowered; tired relieved expression, one open ordinary palm study. Main state Dawn after the reach. Ordinary bronze DAWN sunlight touches only facing planes, deep connected cool shadows remain. NO aura, glowing eyes, magical circuitry, inheritedpower or objectpower. Never show another person or the joined sky itself. Uniform LIGHT IVORY all edges, no landscape/floor shadow patch.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-sky-remembers-us-return/art/landscapes/05-bronze-dawn-at-ithrom.png",
+                "role": "Actual inspected final dawn bronze/cool shadow oil treatment only, no location copied.",
+                "inspected": true,
+                "sha256": "885efb99a056690cedfffaa345c361e4c81de17bcdf797b2619b02bbc770aa7d"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.013990+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-80c8b3fa-3377-4837-a663-f447f5914e67.png",
+            "outputSha256": "69b9b986627229c0337e998147994c648f99f82173becad7ff29990cff7c832f",
+            "generatorReview": "Identity/round cheeks/coat/empty hands/morning state and anatomy pass; dark paper obscures heading."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:33:07.125143+00:00",
+            "prompt": "Edit only background of this Dalo sheet: replace ALL grey/brown dark vignette/haze in NEGATIVE SPACE with clean UNIFORM LIGHT IVORY including edges. Restore dark brown exact heading Dalo and subtitle The Sky Remembers Us clearly in same position. Preserve every face/body/hand, hair, clothing, anatomy, identity, pose and morning opaque oil brushwork exactly. Add small state label Dawn after the reach in available ivory. No scenery/floor shadows/new props/person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-80c8b3fa-3377-4837-a663-f447f5914e67.png",
+                "sha256": "69b9b986627229c0337e998147994c648f99f82173becad7ff29990cff7c832f",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/round cheeks/coat/empty hands/morning state and anatomy pass; dark paper obscures heading.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-72d437ff-5f27-4d70-9e16-83a26fd4ebf2.png",
+            "outputSha256": "9de73b8aa8265274938bcea3c164af0a23a11dc97027a2af74650c1eb058885a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:58:18.868854+00:00",
+            "generatorReview": "Actual pixels inspected: exact heading/title, dawn bronze/cool shadow treatment and ivory; round-cheeked Dalo face, blue coat, exhausted lowered hands; no scarf restored while on Miraq, no magic aura. Two clear complete bodies and correctly formed free hand study."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "9de73b8aa8265274938bcea3c164af0a23a11dc97027a2af74650c1eb058885a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:58:18.868854+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "9de73b8aa8265274938bcea3c164af0a23a11dc97027a2af74650c1eb058885a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-80c8b3fa-3377-4837-a663-f447f5914e67.png",
+            "sha256": "69b9b986627229c0337e998147994c648f99f82173becad7ff29990cff7c832f",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: exact heading/title, dawn bronze/cool shadow treatment and ivory; round-cheeked Dalo face, blue coat, exhausted lowered hands; no scarf restored while on Miraq, no magic aura. Two clear complete bodies and correctly formed free hand study.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e5121883f31b1e6cb392cd0da05cc33568ea43d4d1a1fa6c129a2b91e370a3e2"
+      }
+    },
+    {
+      "id": "miraq",
+      "name": "Miraq",
+      "role": "Careful living material-world companion and close family who voluntarily enters the first link.",
+      "form": "Adult material-world man",
+      "selectionEvidence": [
+        {
+          "quote": "The sole of Miraq's left boot was tied on with Dalo's scarf.",
+          "explanation": "Careful living material-world companion and close family who voluntarily enters the first link."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Coat, LEFT boot sole bound with Dalo scarf; cut thumb, ordinary injured/tired man."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent31, medium-brown skin matching family range, long narrower face, short curly dark hair and faint stubble, lean frame, forest-green travel coat grey trousers; rust-red scarf LEFT boot."
+      ],
+      "states": [
+        {
+          "name": "Dawn after the reach",
+          "description": "Exhausted hands lowered; left boot still bound, no magical repair."
+        }
+      ],
+      "lighting": "Selected final dawn: low ordinary bronze sunlight with large cool violet shadow masses. No self-illumination or visible unilateral magic.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Miraq"
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/miraq.png",
+      "generation": {
+        "prompt": "Make ONE precise correction to this exact Miraq folio: in the FRONT full-body view at LEFT of page, move rust-red scarf AND damaged/separating sole from the VIEWER-LEFT boot to VIEWER-RIGHT boot. Front VIEWER-RIGHT is Miraq's ANATOMICAL LEFT boot required by source. Old viewer-left boot becomes ordinary intact unwrapped boot. Keep FRONT feet/legs pose and all other features unchanged. REAR view scarf is already correct at VIEWER LEFT; do not change rear. Separate Left boot detail is already correct; leave it untouched. Preserve entire face/body/hair/coat/strap, every text, ivory, morning light and opaque oil painting. No other change.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6e156cf0-0c1f-4aa4-948f-7fde77b68cb1.png",
+            "sha256": "c070c3eb785274c288996d30ba18fbb66cea5db00954cd701e28d0a3d4c01297",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Miraq; exact subtitle The Sky Remembers Us. ONE ordinary adult man apparent31 with medium-BROWN skin, LONG narrow face, short CURLY black hair, brown eyes and faint stubble, lean build. Plain FOREST GREEN travel coat over brown shirt, GREY trousers, ordinary boots. Essential continuity: damaged sole of ANATOMICAL LEFT boot bound by rust-red SCARF. On frontal view scarf is VIEWER RIGHT, on REAR view VIEWER LEFT. Other boot has NO scarf. Include isolated detailed LEFT boot showing scarf and separated sole. Two full-body front/rear views, one wry exhausted expression, small nick on thumb if hands visible. State Dawn after the reach. Low ordinary bronze DAWN planes, connected cool shadow mass, no magical light or restoredsole. Uniform LIGHT IVORY negative space. No location, other body, ghosts or aura.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-sky-remembers-us-return/art/landscapes/05-bronze-dawn-at-ithrom.png",
+                "role": "Actual inspected final dawn bronze/cool shadow oil treatment only, no location copied.",
+                "inspected": true,
+                "sha256": "885efb99a056690cedfffaa345c361e4c81de17bcdf797b2619b02bbc770aa7d"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.015280+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6e156cf0-0c1f-4aa4-948f-7fde77b68cb1.png",
+            "outputSha256": "c070c3eb785274c288996d30ba18fbb66cea5db00954cd701e28d0a3d4c01297",
+            "generatorReview": "Face/body/paint/ivory/anatomy pass. Front scarf incorrectly on anatomical RIGHT/viewerLEFT boot; source specifies LEFT. Rear is already correct anatomicalLEFT/viewerLEFT."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:33:07.129151+00:00",
+            "prompt": "Make ONE precise correction to this exact Miraq folio: in the FRONT full-body view at LEFT of page, move rust-red scarf AND damaged/separating sole from the VIEWER-LEFT boot to VIEWER-RIGHT boot. Front VIEWER-RIGHT is Miraq's ANATOMICAL LEFT boot required by source. Old viewer-left boot becomes ordinary intact unwrapped boot. Keep FRONT feet/legs pose and all other features unchanged. REAR view scarf is already correct at VIEWER LEFT; do not change rear. Separate Left boot detail is already correct; leave it untouched. Preserve entire face/body/hair/coat/strap, every text, ivory, morning light and opaque oil painting. No other change.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6e156cf0-0c1f-4aa4-948f-7fde77b68cb1.png",
+                "sha256": "c070c3eb785274c288996d30ba18fbb66cea5db00954cd701e28d0a3d4c01297",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Face/body/paint/ivory/anatomy pass. Front scarf incorrectly on anatomical RIGHT/viewerLEFT boot; source specifies LEFT. Rear is already correct anatomicalLEFT/viewerLEFT.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-89487a4e-74fa-46b2-844e-39054ac3bb43.png",
+            "outputSha256": "0d771c9a3d9d433c9a27f21eaa6de5a1daf8e204f78c24405cf0863237e55dd4",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:58:18.892143+00:00",
+            "generatorReview": "Actual corrected pixels inspected: scarf and damaged sole now ANATOMICAL LEFT boot in front viewer right and rear viewer left; right boot plain. Dark curl/long face/green coat coherent, nicked thumb non-graphic, dawn/ivory/heading retained."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "0d771c9a3d9d433c9a27f21eaa6de5a1daf8e204f78c24405cf0863237e55dd4",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:58:18.892143+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "0d771c9a3d9d433c9a27f21eaa6de5a1daf8e204f78c24405cf0863237e55dd4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-6e156cf0-0c1f-4aa4-948f-7fde77b68cb1.png",
+            "sha256": "c070c3eb785274c288996d30ba18fbb66cea5db00954cd701e28d0a3d4c01297",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: scarf and damaged sole now ANATOMICAL LEFT boot in front viewer right and rear viewer left; right boot plain. Dark curl/long face/green coat coherent, nicked thumb non-graphic, dawn/ivory/heading retained.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "0124ca625634e8540aaced09f5e2043fd8d272b814037d385c9bde3bdb0f2fbd"
+      }
+    },
+    {
+      "id": "keshen",
+      "name": "Keshen",
+      "role": "Living inward-realm woman whose failed rescue and reciprocal reach originate the new link.",
+      "form": "Adult humanoid inward-realm woman, species unresolved",
+      "selectionEvidence": [
+        {
+          "quote": "One of Keshen's three shadows tore loose from her heels",
+          "explanation": "Living inward-realm woman whose failed rescue and reciprocal reach originate the new link."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Living woman, exactly THREE shadows before one displaced by failed reach; pale scars across knuckles, blood beneath nose only after first failure; no established skin/hair/clothing/species."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Art-only humanoid apparent30, cool brown skin, short auburn curls, broad high cheekbones, dark eyes; plain indigo sleep tunic/loose slate trousers, bare feet, pale knuckle scars. No deity/elf designation."
+      ],
+      "states": [
+        {
+          "name": "Before the reach",
+          "description": "Opening before injury/shadow displacement, all three shadows attached; no blood or future gravity claims."
+        }
+      ],
+      "lighting": "Ordinary light from inward living walls, pale warm facing planes and lavender connected shadows, no self-glowing body.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Keshen"
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/keshen.png",
+      "generation": {
+        "prompt": "Edit ONLY the violet SHADOWS below/left of the FRONT Keshen figure. Replace current ambiguous rays with EXACTLY THREE pale-violet complete humanlike shadow silhouettes fanning outward from the same FRONT figure's two feet: one angled upper-left, one straight left, one lower-left. Each of the THREE silhouettes must visibly have ONE head, two arms and two legs; all feet attach directly to her front pose feet. Count exactly THREE HEADS in shadow shapes, no fourth ray/body. Keep them thin, quiet, semi-transparent painterly violet on existing LIGHT IVORY; no floor rectangle/room/ground patch. Preserve all actual figures/head/knuckle detail, anatomy/hair/clothes/lighting/paint/text unchanged. Rear pose has no shadows. Add small state label Before the reach if space.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-979edffa-685a-49d1-9dcb-6a4a90e3d2e2.png",
+            "sha256": "71630b65fa593a601c4d3babaa58d995d3db1ba6a9172bcfb3f45d7db298451c",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Keshen; exact subtitle The Sky Remembers Us. ONE adult humanoid WOMAN apparent30, COOL BROWN skin, short AUBURN CURLS, high broad cheekbones, dark eyes, two normal arms/legs and ordinary hands with pale healed scars across knuckles. Plain INDIGO loose sleep tunic and SLATE trousers, BARE FEET. Species deliberately unspecified; do not add elf ears, horns or deity symbols. Two complete front/rear body views, one curious head study and small scarred knuckle study. State Before the reach: this is BEFORE bloody nose and displaced shadow. Her special body-reference feature: show THREE thin soft VIOLET silhouette shadows diverging from the FEET of the FRONT pose only, all attached, each clearly distinct, with NO ground rectangle or scenery. They are her three directional shadows, not extra persons or silhouettes standing upright. Main paper stays LIGHT IVORY, no darkvignette. Soft ordinary living-wall illumination: pale warm facing planes against large lavender shadows, no selfglow. No whole room/bed or other people.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-sky-remembers-us-return/art/interiors/01-keshens-sleeping-hollow.png",
+                "role": "Actual inspected inward living wall light/paint treatment only; no bed/room/floor copied.",
+                "inspected": true,
+                "sha256": "b5d21789d33fd2d4ce74f3f6dfd7375caca178ec4b01b76dd70dadae6736e432"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.016591+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-979edffa-685a-49d1-9dcb-6a4a90e3d2e2.png",
+            "outputSha256": "71630b65fa593a601c4d3babaa58d995d3db1ba6a9172bcfb3f45d7db298451c",
+            "generatorReview": "Body/face/clothing/barefeet/knuckle scars/ivory pass. Ground-projected shadows appear as four/five narrow rays rather than unambiguous THREE body silhouettes required by source."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:33:07.133367+00:00",
+            "prompt": "Edit ONLY the violet SHADOWS below/left of the FRONT Keshen figure. Replace current ambiguous rays with EXACTLY THREE pale-violet complete humanlike shadow silhouettes fanning outward from the same FRONT figure's two feet: one angled upper-left, one straight left, one lower-left. Each of the THREE silhouettes must visibly have ONE head, two arms and two legs; all feet attach directly to her front pose feet. Count exactly THREE HEADS in shadow shapes, no fourth ray/body. Keep them thin, quiet, semi-transparent painterly violet on existing LIGHT IVORY; no floor rectangle/room/ground patch. Preserve all actual figures/head/knuckle detail, anatomy/hair/clothes/lighting/paint/text unchanged. Rear pose has no shadows. Add small state label Before the reach if space.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-979edffa-685a-49d1-9dcb-6a4a90e3d2e2.png",
+                "sha256": "71630b65fa593a601c4d3babaa58d995d3db1ba6a9172bcfb3f45d7db298451c",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Body/face/clothing/barefeet/knuckle scars/ivory pass. Ground-projected shadows appear as four/five narrow rays rather than unambiguous THREE body silhouettes required by source.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-573a49b4-9520-459f-b441-6a2994bd94aa.png",
+            "outputSha256": "9fa4f48d632ca4668f56f6dbf4a3f79784bba6d24acdde521f4c648911df92ce",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:58:18.906092+00:00",
+            "generatorReview": "Actual corrected pixels inspected: precisely three separate pale body-shadow silhouettes with distinct heads/limbs attached to opening Keshen feet, no fourth ray or environmental floor block. No nosebleed before reach. Knuckle scars, bare feet, indigo tunic, red curls, same face throughout, ordinary inward-wall light and ivory pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "9fa4f48d632ca4668f56f6dbf4a3f79784bba6d24acdde521f4c648911df92ce",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:58:18.906092+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "9fa4f48d632ca4668f56f6dbf4a3f79784bba6d24acdde521f4c648911df92ce",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-979edffa-685a-49d1-9dcb-6a4a90e3d2e2.png",
+            "sha256": "71630b65fa593a601c4d3babaa58d995d3db1ba6a9172bcfb3f45d7db298451c",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: precisely three separate pale body-shadow silhouettes with distinct heads/limbs attached to opening Keshen feet, no fourth ray or environmental floor block. No nosebleed before reach. Knuckle scars, bare feet, indigo tunic, red curls, same face throughout, ordinary inward-wall light and ivory pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "7696c0587d61478941ef6b2e368f2d6811b6e18bb7cfca637058d1a3d3fb804c"
+      }
+    },
+    {
+      "id": "velhune",
+      "name": "Velhune",
+      "role": "Keshen's unnamed oldest friend, a sustained fourth living participant in the first link.",
+      "form": "Adult humanoid inward-realm woman, species unresolved",
+      "selectionEvidence": [
+        {
+          "quote": "Her friend took her grounded wrist.",
+          "explanation": "Keshen's unnamed oldest friend, a sustained fourth living participant in the first link."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Oldest friend is an adult woman by later her pronouns, many directional shadows; physical traits/source name unresolved; practical protective and humorous stance."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Art-only name Velhune and apparent36, deep cool-brown skin, wide square face, straight silver-black hair in low bun, brown eyes, solid build, muted green wrap tunic and grey loose trousers/bare feet."
+      ],
+      "states": [
+        {
+          "name": "Before the reach",
+          "description": "Uninjured living friend before failed rescue, not ancestor, ghost or separate god."
+        }
+      ],
+      "lighting": "Ordinary light from inward living walls, pale warm facing planes and lavender connected shadows, no self-glowing body.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Velhune",
+        "sourceRole": "Keshen's unnamed oldest friend, a sustained fourth living participant in the first link.",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/velhune.png",
+      "generation": {
+        "prompt": "Edit only NEGATIVE SPACE in this Velhune folio to clean uniform LIGHT IVORY at every edge. Restore exact dark-brown heading Velhune and subtitle The Sky Remembers Us clearly in same positions. Keep existing violet directional body shadows attached to front feet as thin subdued silhouettes against the ivory; remove surrounding fog/gradient, not those shadows. Preserve every face/body/hand, hair, clothing, proportions, pose, normal living-wall light, opaque oil brushwork and labels exactly. No new floor rectangle/room/scenery/extra body.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c3469350-13f8-4564-9210-5ce192283dc4.png",
+            "sha256": "eb06d53bcd4dfad4cff38420a369119fd43d165c6e2fa19489d568225cd7eddf",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Velhune; exact subtitle The Sky Remembers Us. ONE adult humanoid WOMAN apparent36, DEEP COOL BROWN skin, WIDE SQUARE face, straight SILVER-BLACK hair in a low bun, brown eyes, sturdy ordinary body. Plain muted GREEN wrap tunic with broad belt, grey loose trousers, BARE FEET. Warm skeptical protective expression, one five-finger practical hand held outward in caution. Two complete front/rear body views plus head; several directional shadows represented by THREE thin soft violet silhouettes diverging from FRONT pose feet only, attached, no ground rectangle or upright extra body. Name is an art-only assigned label for Keshen's oldest unnamed friend, no other identity. State Before the reach. Soft warm living-wall light and broad lavender shadow masses, no deityaura, horns, pointedears or genericfantasyglow. Uniform LIGHT IVORY all edges, no bed/room/floor/other person.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-sky-remembers-us-return/art/interiors/01-keshens-sleeping-hollow.png",
+                "role": "Actual inspected inward living wall light/paint treatment only; no bed/room/floor copied.",
+                "inspected": true,
+                "sha256": "b5d21789d33fd2d4ce74f3f6dfd7375caca178ec4b01b76dd70dadae6736e432"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.017695+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c3469350-13f8-4564-9210-5ce192283dc4.png",
+            "outputSha256": "eb06d53bcd4dfad4cff38420a369119fd43d165c6e2fa19489d568225cd7eddf",
+            "generatorReview": "Distinct friend identity/age/body/outfit/hand/ordinary wall light pass; dark paper obscures heading. Directional shadows must remain body traits while support is ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:33:07.137327+00:00",
+            "prompt": "Edit only NEGATIVE SPACE in this Velhune folio to clean uniform LIGHT IVORY at every edge. Restore exact dark-brown heading Velhune and subtitle The Sky Remembers Us clearly in same positions. Keep existing violet directional body shadows attached to front feet as thin subdued silhouettes against the ivory; remove surrounding fog/gradient, not those shadows. Preserve every face/body/hand, hair, clothing, proportions, pose, normal living-wall light, opaque oil brushwork and labels exactly. No new floor rectangle/room/scenery/extra body.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c3469350-13f8-4564-9210-5ce192283dc4.png",
+                "sha256": "eb06d53bcd4dfad4cff38420a369119fd43d165c6e2fa19489d568225cd7eddf",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Distinct friend identity/age/body/outfit/hand/ordinary wall light pass; dark paper obscures heading. Directional shadows must remain body traits while support is ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1723d461-ce11-4fe8-b7d7-bb5f1d9d9f43.png",
+            "outputSha256": "f24845efcfad24b45abfa0b255669129dbc7f8115b9155cceb7170c94ca467b2",
+            "generatorReview": "Actual-pixel review: raised front hand attached to anatomical right arm reads as a left palm; detached left-hand study itself is valid and can remain. Correct front palm anatomy only.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:46.134911+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "SUPERSEDED",
+            "startedAt": "2026-09-24T08:58:19.905734+00:00",
+            "prompt": "Edit only the small raised hand on the LEFT/front full-body Velhune figure. This is HER ANATOMICAL RIGHT ARM (located viewer LEFT). Hand is held upright PALM FACING VIEWER, four fingers above, so its THUMB MUST project on VIEWER LEFT, outside the body. Rebuild that small hand as a natural RIGHT PALM with thumb viewerLEFT, index then middle/ring/little extending toward viewerRIGHT. Five digits total. Current thumb viewerRIGHT is wrong for this right palm. Do not move arm or change gesture height. Do not alter the bottom-right isolated hand study (a valid LEFT palm), portrait, face, hair, clothes, rear figure, all shadows, ivory, lettering or oil paint. Every other pixel feature unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1723d461-ce11-4fe8-b7d7-bb5f1d9d9f43.png",
+                "sha256": "f24845efcfad24b45abfa0b255669129dbc7f8115b9155cceb7170c94ca467b2",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual-pixel review: raised front hand attached to anatomical right arm reads as a left palm; detached left-hand study itself is valid and can remain. Correct front palm anatomy only.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-59f4f4c0-0168-48ad-b0e0-f39783f7da36.png",
+            "outputSha256": "fe49e3bebdb1e8d3bbff0b2c6098ac6ebcb7abb01e12b48aab91611b6edab35e",
+            "generatorReview": "Requested tiny thumb flip did not occur; front hand still anatomically reversed. Change pose rather than retry identical request: lower front right arm to relaxed side; source does not prescribe this gesture.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:46.134911+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "SUPERSEDED",
+            "startedAt": "2026-09-24T09:03:21.355796+00:00",
+            "prompt": "Velhune precise pose correction. On FRONT full-body (leftfigure) REMOVE the raised open palm and forearm gesture completely, restoring ivory where that hand was. Draw her anatomical RIGHT ARM lowered naturally beside her right hip (viewer LEFT), long tunic sleeve flowing down and a RELAXED HAND hanging fingers DOWN beside thigh, thumb naturally toward body'sfront, side/back view with nails. Arm follows natural shoulder-to-elbow-to-wrist proportions; five natural digits, no displayed open palm. Keep her OTHER arm, full rear figure, portrait, bottom-right isolated LEFT palmstudy, expression, greenwrap/tunic, graypants, barefeet, many shadows and exact labels unchanged. Source state remains beforethereach and pose needs no raisedhand. Preserve all paint and warmwalllight; uniformivory. ONLY lower the front right arm, nootherchanges.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-59f4f4c0-0168-48ad-b0e0-f39783f7da36.png",
+                "sha256": "fe49e3bebdb1e8d3bbff0b2c6098ac6ebcb7abb01e12b48aab91611b6edab35e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Requested tiny thumb flip did not occur; front hand still anatomically reversed. Change pose rather than retry identical request: lower front right arm to relaxed side; source does not prescribe this gesture.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-fd7fe814-bfab-492e-bd88-e739fbb6b3a3.png",
+            "outputSha256": "6d12b1727872a79321e15922c953371f64b251b00ff24c59051ba4b16dfe9fcc",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:26:25.640862+00:00",
+            "generatorReview": "Actual corrected pixels inspected: front right arm lowered to natural relaxed five-digit hand; both standing bodies now anatomically consistent. Isolated left palm is valid, no fixed hand ability invented. Same greenwrap/silverblackhair/matureface, barefeet and multiple directional thin shadows, beforeinjury living friendstate, ordinarywall light/ivory exactheadings.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:46.134911+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "f24845efcfad24b45abfa0b255669129dbc7f8115b9155cceb7170c94ca467b2",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:03:46.134911+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "f24845efcfad24b45abfa0b255669129dbc7f8115b9155cceb7170c94ca467b2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-c3469350-13f8-4564-9210-5ce192283dc4.png",
+            "sha256": "eb06d53bcd4dfad4cff38420a369119fd43d165c6e2fa19489d568225cd7eddf",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Reinspected first ivory candidate after reversed hand convention corrected: front raised RIGHT palm has thumb viewerRIGHT and matches rightarm; detached study is also RIGHT palm, source hand not fixed. Original gesture restored instead of unnecessary lowered-arm variant. Identity, greenwrap, barefeet, multiple thin shadows, ordinarywalllight/ivory pass. No generation during restoration.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "754097369e1623a2c501a0d6e0d81e0b3fa38ec3c767168d85ba4a74b4740df0"
+      },
+      "selectionHistory": [
+        {
+          "action": "restore-prior-candidate",
+          "selectedAttempt": 2,
+          "reviewedAt": "2026-09-24T10:03:46.134911+00:00",
+          "reason": "Reinspected first ivory candidate after reversed hand convention corrected: front raised RIGHT palm has thumb viewerRIGHT and matches rightarm; detached study is also RIGHT palm, source hand not fixed. Original gesture restored instead of unnecessary lowered-arm variant. Identity, greenwrap, barefeet, multiple thin shadows, ordinarywalllight/ivory pass. No generation during restoration.",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "faris",
+      "name": "Faris",
+      "role": "Ancient prologue figure who raises his hand in the terminal fall and dies.",
+      "form": "Ordinary mature human man",
+      "selectionEvidence": [
+        {
+          "quote": "Then his own arm lifted.",
+          "explanation": "Ancient prologue figure who raises his hand in the terminal fall and dies."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Same mature All Accounts Due Faris, powerless, ordinary falling body; intention unknown, terminalfall then death."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Exact pinned mature weathered face, greying dark hair/short beard, ochre travel coat/dark clothes/boots; wind movement only, no held tools left or new woundinvented."
+      ],
+      "states": [
+        {
+          "name": "Ancient final fall",
+          "description": "Historical opening before impact; later ordinary light is only an image, not a surviving mind or body."
+        }
+      ],
+      "lighting": "Nonmagical white-hot bolt glare from ruined Array touches limited planes while large coat/face planes remain shadowed; no magical aura.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Faris"
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/faris.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Faris; exact subtitle The Sky Remembers Us. Preserve EXACT SAME mature male identity as attached Faris sheet: weathered face, short tousled greying dark hair/short beard, sturdy ordinary build, ochre coat grey shirt dark trousers boots. Depict ONLY ANCIENT TERMINAL FALL state before impact, which later survives as ordinary light only. Large complete FRONT and REAR body studies posed in ordinary falling/reaching motion, coat lifted slightly by air, one EMPTY hand reaching upward, no second person. Portrait intent opaque, weary startled, no smile/forgiveness/godlikepower. NO prybar, cotter, rope, relic, glows or new young face. Exact state label Ancient final fall. Nonmagical white-hot debris GLARE on a few facingplanes, deep connected grey-violet shadows elsewhere; do NOT depict debris/environment itself. All figure feet/hands/coat inside generous LIGHT IVORY margins, no grounds/shadows that imply standing in current era. Paint style matches attached acceptedidentity and oilrefs; no resurrection/ghost transparency.",
+        "references": [
+          {
+            "path": "stories/all-accounts-due/art/characters/faris.png",
+            "role": "Mandatory exact recurring identity anchor: mature Faris face/hair/body/coat, not old equipment or earlier actions.",
+            "inspected": true,
+            "sha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Faris; exact subtitle The Sky Remembers Us. Preserve EXACT SAME mature male identity as attached Faris sheet: weathered face, short tousled greying dark hair/short beard, sturdy ordinary build, ochre coat grey shirt dark trousers boots. Depict ONLY ANCIENT TERMINAL FALL state before impact, which later survives as ordinary light only. Large complete FRONT and REAR body studies posed in ordinary falling/reaching motion, coat lifted slightly by air, one EMPTY hand reaching upward, no second person. Portrait intent opaque, weary startled, no smile/forgiveness/godlikepower. NO prybar, cotter, rope, relic, glows or new young face. Exact state label Ancient final fall. Nonmagical white-hot debris GLARE on a few facingplanes, deep connected grey-violet shadows elsewhere; do NOT depict debris/environment itself. All figure feet/hands/coat inside generous LIGHT IVORY margins, no grounds/shadows that imply standing in current era. Paint style matches attached acceptedidentity and oilrefs; no resurrection/ghost transparency.",
+            "references": [
+              {
+                "path": "stories/all-accounts-due/art/characters/faris.png",
+                "role": "Mandatory exact recurring identity anchor: mature Faris face/hair/body/coat, not old equipment or earlier actions.",
+                "inspected": true,
+                "sha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.018930+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f6d9988a-67f3-4f87-bbaf-9a13bc677100.png",
+            "outputSha256": "61851d3bd23c810b0a55a445952928e438190dc143d95c4c524f3dca8a0370c9",
+            "generatorReview": "Pinned mature identity/clothes, terminal-fall state, light/ivory/layout pass. Raised palm of front pose has right-hand thumb arrangement despite being attached to left arm; local anatomical correction needed.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:45.973924+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "SUPERSEDED",
+            "startedAt": "2026-09-24T08:33:07.141350+00:00",
+            "prompt": "Correct ONLY the raised open HAND at the TOP of the LEFT/FRONT full-body Faris pose. That reaching arm is his ANATOMICAL LEFT arm, so make its palm-facing hand a correct LEFT HAND: four fingers fan UP, thumb grows from VIEWER RIGHT side of palm, little finger on VIEWER LEFT. Exactly FIVE digits, correct palm/thumb anatomy joined to the existing wrist. Preserve arm/shoulder/body pose and where the hand reaches; do not alter any other figure. The rear fullbody and separate lower-right hand detail show a different ordinary falling gesture and must remain unchanged. Preserve exact mature face/hair/coat/boots, matte oil rendering, nonmagical glare, all headings and Ancient final fall label, ivory/margins. This is hand-anatomy correction only, no new power/prop/environment.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f6d9988a-67f3-4f87-bbaf-9a13bc677100.png",
+                "sha256": "61851d3bd23c810b0a55a445952928e438190dc143d95c4c524f3dca8a0370c9",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Pinned mature identity/clothes, terminal-fall state, light/ivory/layout pass. Raised palm of front pose has right-hand thumb arrangement despite being attached to left arm; local anatomical correction needed.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-56052143-3e8a-4216-be4d-bf7f6de7b6e6.png",
+            "outputSha256": "e09e014f4d54449ad386f894128d8015e3a759bf4691203787f9b9fb3292a266",
+            "generatorReview": "Left-arm front reach still carries right-palm anatomy after requested thumb correction. Change the hand presentation to an unmistakable BACK view of LEFT hand, preserving reach/composition and correcting anatomy without repeated ineffective thumb swap.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:45.973924+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "SUPERSEDED",
+            "startedAt": "2026-09-24T09:03:21.352407+00:00",
+            "prompt": "Faris exact sheet: edit ONLY the raised hand on the large LEFT/front figure, near topcenter. It belongs to his LEFT ARM. Keep same arm, pose, hand silhouette and thumb on VIEWER LEFT, BUT ROTATE FOREARM/HAND to show the BACK OF HIS LEFT HAND toward camera. Paint five clear FINGERNAILS and KNUCKLES/tendons facing us, NO palm creases or fleshy palm mound. This LEFT DORSAL hand with fingers upward and thumb viewerLEFT is anatomically correct. The back of hand is brown rough skin with simple opaque planes. Reaching fingers can remain spread. Do not change the bottom-right open-palm study, rear view, portrait, fall pose, costume, face, hair, light, ivory, title or any other feature. Only change front raised hand from wrong palm to unmistakable dorsal left hand. Ensure highclearivorymargin at handtips.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-56052143-3e8a-4216-be4d-bf7f6de7b6e6.png",
+                "sha256": "e09e014f4d54449ad386f894128d8015e3a759bf4691203787f9b9fb3292a266",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Left-arm front reach still carries right-palm anatomy after requested thumb correction. Change the hand presentation to an unmistakable BACK view of LEFT hand, preserving reach/composition and correcting anatomy without repeated ineffective thumb swap.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-dadba6dc-a48c-4a58-b8b5-5de47613496c.png",
+            "outputSha256": "2e3a145e0644bae1572dbde92f6e04afe8302beb55ab7d179aea7727dc761df7",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:26:25.620135+00:00",
+            "generatorReview": "Actual corrected pixels inspected: front reaching ANATOMICAL LEFT hand now unambiguously dorsal with visible nails/tendons and thumb viewerLEFT, correctly connected to left arm. Alternate rear right-arm reach and detached right-palm study anatomically plausible; source gives no handedness. Same AllAccountsDue face/age/hair/coat, terminal ancient fall alive only before impact, no tools or aura, nonmagical bolt glare, ivory titles/fullfigures.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:45.973924+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "61851d3bd23c810b0a55a445952928e438190dc143d95c4c524f3dca8a0370c9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:03:45.973924+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "61851d3bd23c810b0a55a445952928e438190dc143d95c4c524f3dca8a0370c9",
+        "references": [
+          {
+            "path": "stories/all-accounts-due/art/characters/faris.png",
+            "role": "Mandatory exact recurring identity anchor: mature Faris face/hair/body/coat, not old equipment or earlier actions.",
+            "inspected": true,
+            "sha256": "962e5b9238bcef9a372206100d82e334c6dd4044f3cb186709d1cbc38451dfa8"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Reinspected original candidate after correcting reversed hand convention: front raised LEFT palm, fingers up/diagonal, thumb viewerLEFT, is correct. Original natural palm rendering restored. Detached palm is an unlabeled LEFT palm, not a false RIGHT claim; source specifies no reaching hand. Current AllAccountsDue anchor identity and ancientfall state, ivory/title/ordinaryboltlight retained. No generation during restoration.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "90c67018aaa01deaf26b4c5a4215f21ccdb3ad3ce01df962062ec598901f6f5b"
+      },
+      "selectionHistory": [
+        {
+          "action": "restore-prior-candidate",
+          "selectedAttempt": 1,
+          "reviewedAt": "2026-09-24T10:03:45.973924+00:00",
+          "reason": "Reinspected original candidate after correcting reversed hand convention: front raised LEFT palm, fingers up/diagonal, thumb viewerLEFT, is correct. Original natural palm rendering restored. Detached palm is an unlabeled LEFT palm, not a false RIGHT claim; source specifies no reaching hand. Current AllAccountsDue anchor identity and ancientfall state, ivory/title/ordinaryboltlight retained. No generation during restoration.",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "seyathi",
+      "name": "Seyathi",
+      "role": "Former goddess who reaches during the terminal fall and dies without reconciliation.",
+      "form": "Same material woman, objectively mortal after extinction",
+      "selectionEvidence": [
+        {
+          "quote": "blood ran from her palm to her wrist",
+          "explanation": "Former goddess who reaches during the terminal fall and dies without reconciliation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Same powerless postextinction mortalidentity, darkhair, armreaching, bloodpalm/wrist, aliveonlyancientfallthenpermanentdeath; wrath/grievanceretained."
+      },
+      "explicitCanon": [
+        "LOCKED Faris/Seyathi permanently die after ancient fall; ordinary light later preserves only a mindless historical image, never life, magic, forgiveness or restoration.",
+        "LOCKED Dalo/Miraq are ages-later close family; exact relationship and ages unresolved, no automatic sibling or romantic claim.",
+        "LOCKED Keshen and oldest friend are living inward-fold participants; species/age unresolved, source living realm already had unrelated magic. New link needs reciprocal living participants and cannot change unilaterally."
+      ],
+      "visualInterpretation": [
+        "Exact pinned warm brown skin, long dark partly braided hair, mineral-grey/ochre drapedrobe and strapped sandals. Art-only small abrasion right palm/wrist for stable handedness; no Tessera/radiance or formerGracegesture."
+      ],
+      "states": [
+        {
+          "name": "Ancient final fall",
+          "description": "Historical opening before impact, no forgiveness or joining; later image is not consciousness."
+        }
+      ],
+      "lighting": "Nonmagical broken Array white-hot glare on limited planes, deep mineral-purple shadow; no skin radiance.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Seyathi"
+      },
+      "status": "completed",
+      "output": "stories/the-sky-remembers-us-return/art/characters/seyathi.png",
+      "generation": {
+        "prompt": "Keep Seyathi entire sheet unchanged EXCEPT the isolated bleeding palm in the bottom-right corner. HORIZONTALLY MIRROR THAT ONE HAND/WRIST STUDY within its existing box, so the four fingertips point upward and the THUMB IS ON VIEWER RIGHT. It must be an anatomically RIGHT PALM facing us, blood crossing its center to wrist, five digits. Current thumb viewerLEFT makes it a left palm and is incorrect for the source. Mirror hand and cuff together without moving the label. Mainbodyfront/rear are already correct, wounded anatomicalRIGHT arm (frontviewerLEFT/rearviewerRIGHT), do NOT alter their hands, poses or anything else. Face/hair/graydress/sandals/ancientfallstate/ivory/lighting and allletters preserved.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-890c53f0-670a-45d4-90eb-bacd8137d296.png",
+            "sha256": "3a55392b5dab0b7d6a78e0c7d121af7a479f93c703649707ea293d313e0e8a95",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Seyathi; exact subtitle The Sky Remembers Us. Preserve EXACT SAME adult woman identity as attached Seyathi AFTER EXTINCTION sheet: warm BROWN skin, long dark partly braided hair, angular strong face, mineral-GREY/ochre draped robe with waist tie, strapped sandals. Large complete front/rear body studies in ordinary FALLING motion; RIGHT arm reaching down/outward with open five-finger hand, empty other hand, cloth/hair air-lifted. A SMALL blood abrasion runs from RIGHT palm toward wrist, front VIEWER LEFT/rear VIEWER RIGHT; no gore. One angry frightened face and right-palm detail. Exact state label Ancient final fall. She is mortal, powerless, betrayed, not forgiving or tranquil. NO Tessera, no two-finger Grace gesture, no halo, no self-radiance, no resurrection/ghost. White-hot NONMAGICAL wreck glare touches small facingplanes, large connected violet-grey shadows; no debris/scenery/otherperson. Generous LIGHT IVORY margins and allfigureparts unclipped. Same matte bold oilportrait identity as anchor.",
+            "references": [
+              {
+                "path": "stories/all-accounts-due/art/characters/seyathi.png",
+                "role": "Mandatory exact recurring identity anchor: same Seyathi material face/hair/body/drape/sandals, AFTER extinction only; no earlier radiance/Tessera/two-finger Grace gesture.",
+                "inspected": true,
+                "sha256": "6bbde90aaf08c416e488eb704233e79ea6ab0ca6d4f6013fb12666e09d37643a"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:03:59.020099+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-890c53f0-670a-45d4-90eb-bacd8137d296.png",
+            "outputSha256": "3a55392b5dab0b7d6a78e0c7d121af7a479f93c703649707ea293d313e0e8a95",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:06.081112+00:00",
+            "generatorReview": "Actual pixels compared directly with pinned All Accounts Due Seyathi: same warm-brown face/angular jaw, dark braided hair, grey-ochre drape/sandals. Ancient final fall only, ordinary air-lifted hair/cloth and nonmagical facing-plane glare, no halo/Tessera/Grace or revival. RIGHT bloody palm front viewer left/rear viewer right and right-palm detail thumb viewer left are coherent; same frightened angry identity, two complete isolated poses, ivory and exact title/name/state readable.",
+            "reviewRevisions": [
+              {
+                "reason": "Verified Morris anatomical convention: isolated bloody palm with fingers up/thumb viewerLEFT is LEFT, while source explicitly wounds RIGHT. Main front/rear pose has correct wounded anatomicalRIGHT arm. Fix isolated inset only; former mistaken hand-review convention withdrawn."
+              }
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T10:11:35.338575+00:00",
+            "prompt": "Keep Seyathi entire sheet unchanged EXCEPT the isolated bleeding palm in the bottom-right corner. HORIZONTALLY MIRROR THAT ONE HAND/WRIST STUDY within its existing box, so the four fingertips point upward and the THUMB IS ON VIEWER RIGHT. It must be an anatomically RIGHT PALM facing us, blood crossing its center to wrist, five digits. Current thumb viewerLEFT makes it a left palm and is incorrect for the source. Mirror hand and cuff together without moving the label. Mainbodyfront/rear are already correct, wounded anatomicalRIGHT arm (frontviewerLEFT/rearviewerRIGHT), do NOT alter their hands, poses or anything else. Face/hair/graydress/sandals/ancientfallstate/ivory/lighting and allletters preserved.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-890c53f0-670a-45d4-90eb-bacd8137d296.png",
+                "sha256": "3a55392b5dab0b7d6a78e0c7d121af7a479f93c703649707ea293d313e0e8a95",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Verified Morris anatomical convention: isolated bloody palm with fingers up/thumb viewerLEFT is LEFT, while source explicitly wounds RIGHT. Main front/rear pose has correct wounded anatomicalRIGHT arm. Fix isolated inset only; former mistaken hand-review convention withdrawn.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-e0655c66-cbf2-483f-8f17-391068d0447b.png",
+            "outputSha256": "8b6b0ffcd4181f5e0986c62d954694cbccff91f84a0d6ced5a742387c4febde6",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:36.693345+00:00",
+            "generatorReview": "Actual pixels inspected after corrected convention audit: ancient final-fall identity/clothing/hair match inspected All Accounts Due anchor; main wounded anatomical RIGHT hand unchanged, front viewer-left/rear viewer-right. Detached wound study now correctly RIGHT PALM facing viewer, fingers up/thumb image-right. Five digits, fall posture, raw sundering light, matte oils/ivory/name/title pass; ancient event not terminal mindless light. Prior incorrect detached-hand acceptance withdrawn in attempt history."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "8b6b0ffcd4181f5e0986c62d954694cbccff91f84a0d6ced5a742387c4febde6",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:36.693345+00:00",
+        "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad",
+        "outputSha256": "8b6b0ffcd4181f5e0986c62d954694cbccff91f84a0d6ced5a742387c4febde6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-890c53f0-670a-45d4-90eb-bacd8137d296.png",
+            "sha256": "3a55392b5dab0b7d6a78e0c7d121af7a479f93c703649707ea293d313e0e8a95",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected after corrected convention audit: ancient final-fall identity/clothing/hair match inspected All Accounts Due anchor; main wounded anatomical RIGHT hand unchanged, front viewer-left/rear viewer-right. Detached wound study now correctly RIGHT PALM facing viewer, fingers up/thumb image-right. Five digits, fall posture, raw sundering light, matte oils/ivory/name/title pass; ancient event not terminal mindless light. Prior incorrect detached-hand acceptance withdrawn in attempt history.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "bd94b451702e534e815ec8e31b99736d2224988a2326bbf45dc8e4d731134ea8"
+      }
+    }
+  ],
+  "sourceSha256": "e72de9d49debc5a6cf71df323b80cb10fa9a28fad02c3435ce2c5a693bdc04ad"
+}

@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-night-she-knew",
+  "title": "The Night She Knew",
+  "source": "stories/the-night-she-knew/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose/prompt read. Two sustained physically present unnamed human main identities. Source daughter age16/brown eyes/bare feet and hair-dye chronology preserved. Art-only names searched without matches. Actual cover and night interior paintings inspected.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Grandmother, class teacher, friends, Clover rabbit, doctors",
+      "reason": "Backstory, conjecture or brief reported roles; not physically present main agents."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Only daughter's back and dye sections/towel visible; compatible details used without importing photoreal rendering or deriving unseen face. No originals supplied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "merriven",
+      "name": "Merriven",
+      "role": "Unnamed first-person mother who recognizes that belief does not entitle her to every vision.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "“I know this,” I said. “I believe you. I should have said it before.”",
+          "explanation": "Unnamed first-person mother who recognizes that belief does not entitle her to every vision."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult mother; initially oversized dye gloves, later bare hands; green towel at rinse, dye tools. No source physical description/name."
+      },
+      "explicitCanon": [
+        "Non-canon local near-future fragment impressions, not mind reading, a guaranteed future or a named shared deity. No visible magical aura."
+      ],
+      "visualInterpretation": [
+        "Art-only woman44, medium brown skin, short dark slightly wavy hair pinned away, long square face, brown eyes, average soft build; plain muted green tee, worn brown cardigan, dark soft trousers and socks. Visual age/gender mother/source with art-only name."
+      ],
+      "states": [
+        {
+          "name": "At the rinse",
+          "description": "Final bathroom moment, bare hands and green towel; glove removal preserved."
+        }
+      ],
+      "lighting": "Nighttime domestic practical lamp, limited warm facing planes and connected dark shadow masses; ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Merriven",
+        "sourceRole": "Unnamed first-person mother who recognizes that belief does not entitle her to every vision.",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/the-night-she-knew/art/characters/merriven.png",
+      "generation": {
+        "prompt": "Edit this exact Merriven sheet, preserving SAME woman face/age/hair clip/body/cardigan/green shirt/trousers/socks, poses and towel detail. Correct only two things. First replace all dark negative-space vignette with UNIFORM LIGHT IVORY paper, including every edge; restore exact heading Merriven and subtitle The Night She Knew in dark brown readable letters. Second relight ALL body/head/hand studies for a dim NIGHT bathroom practical lamp: only one side of face/forehead/nose and top-facing fingers catches a restrained warm lamp light. Connect the opposite cheek/eye/neck and most clothing/body into broad dark brown-violet shadow masses, with visibly less exposed skin and cloth. Keep the same matte opaque Group of Seven paint style, no glossy skin or photographic relighting. No geometry/identity change, no daylight fill/rimlight, no lamp/room/floor drawn. Preserve green towel held by BARE hand; no gloves.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2292c8cc-27a3-4822-8e42-f3345a500ed7.png",
+            "sha256": "edd5dc247d7327f806e0511e5ea3ef86cf65876ebc8758d787dd5544c6005843",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Merriven; exact subtitle The Night She Knew. ONE adult MOTHER44 with MEDIUM BROWN skin, short dark slightly wavy hair held back by simple clip, long square face, brown eyes and tired pinched-care expression easing toward listening. Plain muted GREEN t-shirt, worn BROWN cardigan, dark soft trousers and plain socks. Two full-body front/rear views, one quiet regretful face and bare HAND holding a plain GREEN TOWEL. State At the rinse: she has REMOVED oversized dye gloves, do not put gloves on main hands. Ordinary domestic adult, no doctor/nurse clothes, magic or supernatural power. NIGHT bathroom tungsten practical lamp: body and face are substantially in CONNECTED BROWN-VIOLET SHADOW, warm light only on lamp-facing planes, no broad daylight face or glowing outline. No sink/tub/chair/room/other person. Clean uniform LIGHT IVORY across all negative space and every edge; no vignette.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-night-she-knew/art/interiors/03-the-small-bathroom.png",
+                "inspected": true,
+                "role": "Actual inspected nighttime bathroom lamp facing planes/deep connected shadows; no bathroom fixtures copied.",
+                "sha256": "9ff7f49883fc8b6f8a4a0dfffd7f07e79f633a53f9aaebc158286451480790ff"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.357281+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2292c8cc-27a3-4822-8e42-f3345a500ed7.png",
+            "outputSha256": "edd5dc247d7327f806e0511e5ea3ef86cf65876ebc8758d787dd5544c6005843",
+            "generatorReview": "Identity, clothes, bare hands after glove removal, green towel/anatomy pass. Dark background hides name/title; portrait/arms also broadly exposed despite nighttime prompt."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:03:58.076347+00:00",
+            "prompt": "Edit this exact Merriven sheet, preserving SAME woman face/age/hair clip/body/cardigan/green shirt/trousers/socks, poses and towel detail. Correct only two things. First replace all dark negative-space vignette with UNIFORM LIGHT IVORY paper, including every edge; restore exact heading Merriven and subtitle The Night She Knew in dark brown readable letters. Second relight ALL body/head/hand studies for a dim NIGHT bathroom practical lamp: only one side of face/forehead/nose and top-facing fingers catches a restrained warm lamp light. Connect the opposite cheek/eye/neck and most clothing/body into broad dark brown-violet shadow masses, with visibly less exposed skin and cloth. Keep the same matte opaque Group of Seven paint style, no glossy skin or photographic relighting. No geometry/identity change, no daylight fill/rimlight, no lamp/room/floor drawn. Preserve green towel held by BARE hand; no gloves.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2292c8cc-27a3-4822-8e42-f3345a500ed7.png",
+                "sha256": "edd5dc247d7327f806e0511e5ea3ef86cf65876ebc8758d787dd5544c6005843",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity, clothes, bare hands after glove removal, green towel/anatomy pass. Dark background hides name/title; portrait/arms also broadly exposed despite nighttime prompt.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-e6668d37-97f7-4198-9706-9dd42339a738.png",
+            "outputSha256": "9540b1b1a7f4ff33f64ec0bf7d6dfa2482ea06fcd09ed0fb30fb35d0b3ae2e1c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:03.888375+00:00",
+            "generatorReview": "Actual pixels inspected: source mother at rinse after gloves removed, bare hands/green towel, same adult face/hair clip/body across views. Corrected dim night lamp only lights facing side while opposite face/neck/cardigan form connected deep shadow; uniform ivory and exact heading now readable. Anatomy and opaque oil treatment pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "9540b1b1a7f4ff33f64ec0bf7d6dfa2482ea06fcd09ed0fb30fb35d0b3ae2e1c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:33:03.888375+00:00",
+        "sourceSha256": "f34c33fe4885158427d8102523777b939c969d84021ecc0b5d06daec549f21f8",
+        "outputSha256": "9540b1b1a7f4ff33f64ec0bf7d6dfa2482ea06fcd09ed0fb30fb35d0b3ae2e1c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2292c8cc-27a3-4822-8e42-f3345a500ed7.png",
+            "sha256": "edd5dc247d7327f806e0511e5ea3ef86cf65876ebc8758d787dd5544c6005843",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: source mother at rinse after gloves removed, bare hands/green towel, same adult face/hair clip/body across views. Corrected dim night lamp only lights facing side while opposite face/neck/cardigan form connected deep shadow; uniform ivory and exact heading now readable. Anatomy and opaque oil treatment pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "58192247b574c288a2a5e780dc5ee5e6d258da72b3441729af706f99d99f225d"
+      }
+    },
+    {
+      "id": "tessika",
+      "name": "Tessika",
+      "role": "Unnamed sixteen-year-old clairvoyant daughter whose fragmentary impressions and boundaries center the story.",
+      "form": "Sixteen-year-old human girl",
+      "selectionEvidence": [
+        {
+          "quote": "her face blank and brown-eyed under its four ridiculous horns",
+          "explanation": "Unnamed sixteen-year-old clairvoyant daughter whose fragmentary impressions and boundaries center the story."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Exactly16, brown eyes; old grey mother's college-logo shirt, bare feet. Four clipped hair bundles initially, dark purple Midnight Mulberry dye shines where lit; striped towel clothespinned at neck, later plastic cap. Clairvoyance has no visual glow."
+      },
+      "explicitCanon": [
+        "Non-canon local near-future fragment impressions, not mind reading, a guaranteed future or a named shared deity. No visible magical aura."
+      ],
+      "visualInterpretation": [
+        "Art-only sixteen-year-old daughter with medium brown skin compatible family design, rounded youthful face, brown eyes, slim ordinary adolescent proportions, dark shoulder-length hair purple only in lit wet parts. Grey oversized tee with illegible faded college mark and dark mid-calf leggings, bare feet."
+      ],
+      "states": [
+        {
+          "name": "Dye processing",
+          "description": "Full figures with plain clear plastic cap and old grey tee; one labelled earlier before-cap hair study shows four clipped sections, not actual horns."
+        }
+      ],
+      "lighting": "Nighttime domestic practical lamp, limited warm facing planes and connected dark shadow masses; ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Tessika",
+        "sourceRole": "Unnamed sixteen-year-old clairvoyant daughter whose fragmentary impressions and boundaries center the story.",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/the-night-she-knew/art/characters/tessika.png",
+      "generation": {
+        "prompt": "Edit this exact Tessika folio; preserve SAME sixteen-year-old face/body/skin/brown eyes, grey oversized tee/leggings/BARE FEET, cap, wet dark-violet hair, striped towel, four clipped bundles in Before the cap head, exact name/title/labels and clean LIGHT IVORY. Correct NIGHT illumination in EVERY body/head/hand study: restrained warm practical lamp light touches one side of face/nose/fingers, opposite face/neck and most body/clothing fall into CONNECTED deep brown-violet shadows. It should clearly feel like nighttime kitchen lighting, no bright daylight/glamour fill or rimlight. Keep matte broad opaque Group of Seven brushwork. Also remove ONLY the clothespin from the BACK/nape of the rear body view: this is the SAME single towel fastener at FRONT THROAT, visible in front poses only and hidden behind the head/neck in rear. Do not change the front fastener or any other geometry, pose, clothing, haircap, hands or text. No background haze, room or floor.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a4baac38-ab8a-4cf0-89a7-a24b28d2b8c2.png",
+            "sha256": "3845cc7440afc88cb6e1cd05197805b6161e26d28274a366f40b1b67b396abe3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Tessika; exact subtitle The Night She Knew. ONE SIXTEEN-YEAR-OLD teenage girl, MEDIUM BROWN skin, rounded YOUTHFUL face, source BROWN EYES, ordinary slim adolescent proportions. No adult glam makeup, adult curves emphasis, glamour pose or mature face. Grey OVERSIZED old t-shirt with faint illegible faded college mark, dark mid-calf leggings, BARE FEET. Full-body front/rear views during DYE PROCESSING: dark wet shoulder-length hair tucked under plain clear PLASTIC CAP with subtle deep-violet tint; old striped towel fastened at neck with one CLOTHESPIN. One small head study clearly labelled Before the cap shows SAME teen hair divided into EXACTLY FOUR clipped bundles, some wet dark-violet strands; those are HAIR BUNDLES, never actual horns. One hand with ordinary phone if space. Main state label Dye processing. No psychic aura, glowing eyes, visions, extra person, chair, kitchen or floor. NIGHT practical warm kitchen lamp creates limited warm face/hand planes and CONNECTED DARK brown-violet shadows across remainder, no daylight glamour exposure. Entire paper clean LIGHT IVORY. Clean uniform LIGHT IVORY across all negative space and every edge; no vignette.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-night-she-knew/title-image.jpg",
+                "inspected": true,
+                "role": "Daughter only: dark wet violet-sheened hair, clipped sections and striped towel, no front facial identity/age inference from cover. No photoreal style or kitchen.",
+                "sha256": "652dc1c4b121f5205ea137a818492e46ae41bd9d0cf56f3d7d38ccada28b9e15"
+              },
+              {
+                "path": "stories/the-night-she-knew/art/interiors/01-kitchen-hair-dye.png",
+                "inspected": true,
+                "role": "Actual inspected nighttime warm kitchen practical light and connected dark shadows; no scene copied.",
+                "sha256": "37b13856bb5d552253a054f0ae4c2f33b1a8f0e4e195111ceb744099f046ff22"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.358181+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a4baac38-ab8a-4cf0-89a7-a24b28d2b8c2.png",
+            "outputSha256": "3845cc7440afc88cb6e1cd05197805b6161e26d28274a366f40b1b67b396abe3",
+            "generatorReview": "Teenage identity/age, hair-dye chronology/cap/barefeet and anatomy pass. All faces strongly exposed like daylight; rear towel fastener at nape inconsistent with same single fastener visible at front throat."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:03:58.082475+00:00",
+            "prompt": "Edit this exact Tessika folio; preserve SAME sixteen-year-old face/body/skin/brown eyes, grey oversized tee/leggings/BARE FEET, cap, wet dark-violet hair, striped towel, four clipped bundles in Before the cap head, exact name/title/labels and clean LIGHT IVORY. Correct NIGHT illumination in EVERY body/head/hand study: restrained warm practical lamp light touches one side of face/nose/fingers, opposite face/neck and most body/clothing fall into CONNECTED deep brown-violet shadows. It should clearly feel like nighttime kitchen lighting, no bright daylight/glamour fill or rimlight. Keep matte broad opaque Group of Seven brushwork. Also remove ONLY the clothespin from the BACK/nape of the rear body view: this is the SAME single towel fastener at FRONT THROAT, visible in front poses only and hidden behind the head/neck in rear. Do not change the front fastener or any other geometry, pose, clothing, haircap, hands or text. No background haze, room or floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a4baac38-ab8a-4cf0-89a7-a24b28d2b8c2.png",
+                "sha256": "3845cc7440afc88cb6e1cd05197805b6161e26d28274a366f40b1b67b396abe3",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Teenage identity/age, hair-dye chronology/cap/barefeet and anatomy pass. All faces strongly exposed like daylight; rear towel fastener at nape inconsistent with same single fastener visible at front throat.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-49b0c6fa-112d-4d3b-b3bb-cb52f9d647e9.png",
+            "outputSha256": "26fefae499924edef2a3289c0be5b1cd17e0c39ef9bef9572855b8584a7fad5d",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:03.939465+00:00",
+            "generatorReview": "Actual pixels inspected: clearly teen sixteen-year-old girl with brown eyes, oversized grey college tee/leggings/barefeet; cap-processing state and labelled earlier four-clipped-section hair head preserve chronology/dark violet wet tint. Single front throat clothespin retained, duplicate rear nape pin removed. Dim night practical facing planes and connected dark opposite shadows now coherent; paint/anatomy/ivory/readable name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "26fefae499924edef2a3289c0be5b1cd17e0c39ef9bef9572855b8584a7fad5d",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:33:03.939465+00:00",
+        "sourceSha256": "f34c33fe4885158427d8102523777b939c969d84021ecc0b5d06daec549f21f8",
+        "outputSha256": "26fefae499924edef2a3289c0be5b1cd17e0c39ef9bef9572855b8584a7fad5d",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a4baac38-ab8a-4cf0-89a7-a24b28d2b8c2.png",
+            "sha256": "3845cc7440afc88cb6e1cd05197805b6161e26d28274a366f40b1b67b396abe3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: clearly teen sixteen-year-old girl with brown eyes, oversized grey college tee/leggings/barefeet; cap-processing state and labelled earlier four-clipped-section hair head preserve chronology/dark violet wet tint. Single front throat clothespin retained, duplicate rear nape pin removed. Dim night practical facing planes and connected dark opposite shadows now coherent; paint/anatomy/ivory/readable name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b6c6424b403d022c2d882f32d4bc8c34c9c3cb6f461d211ed5f476f45f596b9c"
+      }
+    }
+  ],
+  "sourceSha256": "f34c33fe4885158427d8102523777b939c969d84021ecc0b5d06daec549f21f8"
+}

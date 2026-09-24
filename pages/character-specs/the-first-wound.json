@@ -1,0 +1,914 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-first-wound",
+  "title": "The First Wound",
+  "source": "stories/the-first-wound/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Therapist and client drive consent/recall; commander and wounded litter leader sustain opposing actionable choices throughout the central battle recollection.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Transit attendant and intervening passenger",
+      "reason": "Brief one-memory interruption, not sustained main agent."
+    },
+    {
+      "name": "Flood workers, refuge runners, wounded on litter, men at rear and hallway passersby",
+      "reason": "Collective/brief roles; rear person's position and casualty count explicitly unreliable, do not fix invented facts."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/style-guide.md#Personhood and moral consequence"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover is abstract fingerprint/wheel/scar/cuff symbolism, no human identity evidence; never add giant fingerprint or glowing line to character.",
+    "Therapist faculty is living attention and active recollection; slate records ordinary room sound only. No memory-machine/headset/hologram.",
+    "Client apparent age is an art choice; approximately25000-year life is his estimate, not universalhistory or omniscient archive. Youth and present are one identity.",
+    "Commander face is explicitly unseen in recall. Its art-only design is not claimed as observed memory, confirmed history or source gender.",
+    "Source older intermediate memories differ in scarstate; only present healedscar and earliest pre-wound youth selected, no speculative reconciliation. Memory mechanics remain uncertain."
+  ],
+  "characters": [
+    {
+      "id": "ebrin-tal",
+      "name": "Ebrin Tal",
+      "role": "Long-lived client and remembered young barrier defender",
+      "selectionEvidence": [
+        {
+          "quote": "Approximately twenty-five thousand years.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "a faint white line below the thumb",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "Wool. Three raised stitches.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "Then the left palm was young and unscarred.",
+          "explanation": "Finalsource role/form evidence"
+        }
+      ],
+      "form": "Human interpretation of person; source establishes no alternate nonhuman form",
+      "storyAppearance": {
+        "anatomy": "Adult man, same continuity through past/present",
+        "lifeStage": "Present male adult apparentageunspecified; firstwound youngman",
+        "proportions": "Unspecified",
+        "markings": "Present faintwhite line belowLEFTthumb; earliest youth unscarred beforeevent",
+        "materials": "Living skin/hair, wool cuff three raisedstitches",
+        "clothing": "Presentwoolcuff, othergarments unspecified; past differentroughclothes",
+        "equipment": "No personalmemorydevice; cuff groundsattention",
+        "scale": "Ordinaryhuman adult, ancientage doesnotmeanmummy",
+        "movement": "Presentprecise thenunsteady; young hand underheatpressure",
+        "distinctiveFeatures": "Approximate immenseage is ownestimate, not memorytruth or objectivehistory"
+      },
+      "explicitCanon": [
+        "Leftpalm scar belowthumb; present wool cuff with3raisedstitches.",
+        "Earliest youngpalm unscarred; scar originatesbarrierwheel heat.",
+        "Sourcefoundbut distresspersists, no cure/absolution/memorycertification."
+      ],
+      "visualInterpretation": [
+        "Art-only EbrinTal, presentapparent45, lighttanskin, longleanface, highbrow, slight hookednose, narrowchin, darkbrowneyes, ashbrown sidepart withfewgraytemplehairs, cleanshaven.",
+        "Present charcoalolive wooljacket, creamshirt, darkbrowntrousers and mattebrownboots; 3 pale raisedcrossstitches onLEFTcuff seam.",
+        "Earliest age20samefacialgeometry/samehairdarker, roughunbleachedgraygreentunic/charcoaltrousers/leatherwrapboots andplainhidebelt, no rank/weapon invented.",
+        "Only2mainbodystates and pairedpalms, no terrain/wheel equipment. Woundshownhealed, not openburn."
+      ],
+      "states": [
+        {
+          "name": "Present session",
+          "description": "Completefront form withLEFTpalmup, rightthumbnear3stitchedLEFTcuff."
+        },
+        {
+          "name": "First barrier / remembered youth",
+          "description": "Complete youngthreequarterform, unscarredlefthand under rememberedstrain, sameidentity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-first-wound:ebrin-tal",
+        "links": [],
+        "evidence": "New art-only name; no corresponding universeidentity or crossover."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-wound/title-image.jpg",
+          "role": "Subordinate symbolic leftpalm/cuff three-stitch theme only, not literal humananatomy or power",
+          "notes": "Inspected abstract blackfingerprint, wheel, seam withthreestitches; no faces.",
+          "sha256": "2396d4df22844c81dd824b2e6139fc60aa575bac875aa6900ffca1bf6fdbdae9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/01-the-session-room.png",
+          "role": "Broad matte oil and eveninglamplight/raincool shadow",
+          "notes": "No chairs/table/rug/slate-on-table environment onfolio.",
+          "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+          "role": "Restricted bluefracture and warmmetalheat reflectedlight/materials",
+          "notes": "No wheel/gate/barrier/floor/scene oncharacterfolio.",
+          "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Ebrin Tal",
+        "sourceRole": "Long-lived client and remembered young barrier defender",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "All finalsource roles unnamed, no personalname in outline/review. New art-only name checked wholewords against universe/NAMES/existingcharacter-specs; no source or canon edit."
+      },
+      "output": "stories/the-first-wound/art/characters/ebrin-tal.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct ONLY the isolated open SCAR PALM STUDY at LOWER CENTER-RIGHT, directly under the portrait and left of the separate cuff detail. The source requires the LEFT hand; current isolated study is a RIGHT palm. Replace it with a LEFT PALM, fingers pointing UP and wrist DOWN, THUMB ON VIEWER LEFT, little finger on VIEWER RIGHT. Palm pads and creases face viewer, no dorsal nails. Four fingers plus thumb. The faint healed WHITE LINE lies on the palm immediately below the thumb, hence toward VIEWER LEFT in the corrected isolated study. Preserve the same ordinary mature skin and wool cuff and broad opaque oil strokes. NOT a dorsal/back hand. Do not change either full-body figure: their source LEFT cuff stitching and palm-side orientation remain as drawn. Preserve the separate three-stitch cuff detail, all faces/identity/ages/clothing/positions, exact text, dark remembered youth, evening present light, matte broad paint and warm ivory. No other intended changes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:32:26.765196+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character reference folio, quiet warm ivory. Exact heading \"Ebrin Tal\", subtitle \"The First Wound\", small line \"Art-only name\". ONE HUMAN MAN at two widely separated life stages, same continuous identity. No other person, ancient mummy, ghost or magical aura.\nHis defining art identity: light TAN skin, LONG LEAN FACE, HIGH BROW, slightly HOOKED NOSE, narrow chin, dark BROWN eyes, ASH BROWN side-parted hair to ears, clean-shaven. Ordinary human proportions, slender and medium height.\nLEFT whole front three-quarter figure labeled \"Present session\": appears45, subtle mature face lines and only a few gray temple hairs. Plain CHARCOAL OLIVE WOOL JACKET, cream shirt, dark brown trousers, matte brown boots. LEFT hand held PALM UP naturally (on viewer RIGHT), revealing a faint WHITE HEALED LINE just below the LEFT THUMB. Right thumb touches LEFT jacket cuff seam, where EXACTLY THREE pale RAISED STITCHES provide a tactile anchor. No wound on right hand. Posture precise but tired. Present light is subdued yellow evening LAMP: limited warm cheek/hand planes surrounded by larger connected cool brown/slate shadows, not sunny or full studio fill.\nCENTER whole three-quarter figure labeled \"First barrier / remembered youth\": same face/nose/eyes/body at age20, younger cheeks, no gray hair, unscarred palms. Rough plain UNBLEACHED GRAY-GREEN TUNIC, charcoal trousers, plain hide belt, leather wrapped boots. No armor, rank, sword or invented special equipment. Natural tense posture with left hand open and raised at waist height, right arm relaxed; ordinary hands not gripping an invisible giant machine. This state's light is DARK restricted BLUE reflected fracture light with a few dull warm heat planes, most face and clothes in connected deep shadows. No blue skin dye or self-glow. All head, hands and feet complete and inside frame.\nRIGHT large present face study, label \"Counting\"; below an isolated LEFT PALM and LEFT WOOL CUFF detail label \"Scar and three stitches\". Palm faces us, thumb at viewer RIGHT, one faint white short healed line below thumb. Exactly THREE raised stitches across cuff seam, clothing only, never scar stitches or restraints. Five ordinary fingers. No young-hand burn, blood or graphic injury.\nImage1 supplies large matte paint masses and stroke scale only, NOT a robot. Broad Canadian Group of Seven OPAQUE OIL bristle and knife strokes construct every face, hand, cloth and boot. Large connected colors and values, selective impasto, quieter passages; no glossy photo or CGI body under flecks, no anime or uniformly bright chips. Warm ivory remains clear with no scene, table, chair, rug, wheel, gate, rocks, memory portal, ground/floor shadows, swatches or palette strip. Exact legible text, one sheet.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "broad opaque matte oil construction only; no robot design, cape or optics",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/interiors/01-the-session-room.png",
+                "role": "present flat yellow lamp and cool rain-evening shadows, oil technique; no furniture/room",
+                "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+                "role": "remembered dark blue fracture and limited warm heat reflection; no wheel/gate/rock/scene",
+                "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-66346579-0743-483e-9c24-f467451fbe05.png",
+            "outputSha256": "0937e20d73733c0105c7f13ac6197b4da9534890296e64d6fac014e2e504ac0f",
+            "reviewFindings": [
+              "Presentfullbody renders3stitches on anatomicalRIGHT cuff; move toLEFT cuff matching specifiedhold andleftpalmdetail.",
+              "Ancientyouth borrowswarmlampfill; darkbluefracture state needs lowerexposure/coolconnectedshadow, no daylight."
+            ],
+            "completedAt": "2026-09-24T07:36:33.386951+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:36:34.315676+00:00",
+            "prompt": "Edit only two details of this Ebrin Tal sheet, preserving all other identity, anatomy, clothes, text and warm ivory.\n1. In LEFT present full-body figure, the THREE pale raised stitches belong to his LEFT jacket CUFF, which surrounds the wrist of the UPWARD OPEN PALM at viewer RIGHT. Remove all three pale stitches from his RIGHT jacket cuff at viewer LEFT. Put exactly THREE raised pale short stitches along the LEFT cuff seam next to the open palm, and have his right thumb touch that LEFT seam as already posed. The isolated left-palm scar and three-stitch cuff study stay exactly as they are.\n2. ONLY the CENTER young remembered figure must be significantly darker and cooler. This is a DIM deep mountain battle lit by reflected BLUE FRACTURE light, not warm lamp or daylight. Cover at least70percent of the young face, neck, arms, tunic and boots in broad connected dark slate/blue-brown shadow, with only small muted cool lit planes and a very small warm heat reflection. No full gold cheek/neck fill, no rim neon or blue skin dye. Keep facial identity and clothing colors recognizable under shadow. Do not darken the present body/head/studies, and do not tint the ivory paper.\nKeep whole bodies complete, same one man at45 and20, ordinary hands, no fresh wound. Genuine broad matte oil brushplanes remain. No scenery, floor, swatches or new objects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-66346579-0743-483e-9c24-f467451fbe05.png",
+                "role": "edit target preserve oneidentity/present-youth anatomy and exactlabels",
+                "sha256": "0937e20d73733c0105c7f13ac6197b4da9534890296e64d6fac014e2e504ac0f",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c7651cdd-1900-46fc-8148-35d239296d50.png",
+            "outputSha256": "8b4bf2ac8ca3a35457a7a3b5be460161dfacb0aefe53abb1c65c8f0dcc70bb35",
+            "reviewFindings": [
+              "Darkancientlight repaired. Cuffcorrection not applied: pale3tallymarks remain sleeve at farviewerLEFT. Need localized remove/reposeleftforearm toexposecorrectcuff rather than repeatambiguoussideinstruction."
+            ],
+            "completedAt": "2026-09-24T07:40:39.227692+00:00"
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:40:40.144905+00:00",
+            "prompt": "One localized edit to this image, only the LEFTMOST FULL-BODY FIGURE'S WRISTS. Everything else stays EXACT, especially dark center youth, right head, right isolated palm and three-stitch fabric detail, all text and ivory.\nThere are THREE small PALE DIAGONAL TALLY MARKS on the sleeve at image position about x=340,y=390. ERASE those three marks completely, paint ordinary dark wool there. That is the WRONG sleeve.\nOn the sleeve ending at the OPEN UPWARD PALM at image position about x=490,y=399, show THREE small pale raised stitches on that cuff instead. To make this clear, move the open-palm forearm just slightly outward toward viewer RIGHT so its cuff seam is exposed. The opposite hand's thumb can touch this newly exposed cuff, without covering the stitches. Keep five ordinary fingers, healed palm scar and same pose overall. Exactly THREE stitches on the open-palm sleeve, ZERO stitches on the sleeve that crosses his stomach. Preserve the large isolated cuff detail, which is already correct. No other repaint, relighting or additions.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c7651cdd-1900-46fc-8148-35d239296d50.png",
+                "role": "edit target; only presentfullbody sleeve stitching/arm spacing correction",
+                "sha256": "8b4bf2ac8ca3a35457a7a3b5be460161dfacb0aefe53abb1c65c8f0dcc70bb35",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-69be847f-25f6-4ae7-b50a-fb6031ca7d9a.png",
+            "outputSha256": "468e1a85e705ff4a592195ba3e01fda077bfeaf037ef0862b53b2eac3ad6e9ee",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:34:23.409433+00:00",
+            "reviewFindings": [
+              "Isolated scar palm is upright with thumb viewer RIGHT, thus anatomically RIGHT. Source requires LEFT scar palm. Change isolated study only; correct thumb is viewer LEFT for upright LEFT PALM."
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:34:24.379040+00:00",
+            "prompt": "Correct ONLY the isolated open SCAR PALM STUDY at LOWER CENTER-RIGHT, directly under the portrait and left of the separate cuff detail. The source requires the LEFT hand; current isolated study is a RIGHT palm. Replace it with a LEFT PALM, fingers pointing UP and wrist DOWN, THUMB ON VIEWER LEFT, little finger on VIEWER RIGHT. Palm pads and creases face viewer, no dorsal nails. Four fingers plus thumb. The faint healed WHITE LINE lies on the palm immediately below the thumb, hence toward VIEWER LEFT in the corrected isolated study. Preserve the same ordinary mature skin and wool cuff and broad opaque oil strokes. NOT a dorsal/back hand. Do not change either full-body figure: their source LEFT cuff stitching and palm-side orientation remain as drawn. Preserve the separate three-stitch cuff detail, all faces/identity/ages/clothing/positions, exact text, dark remembered youth, evening present light, matte broad paint and warm ivory. No other intended changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-69be847f-25f6-4ae7-b50a-fb6031ca7d9a.png",
+                "role": "Edit only isolated scar palm lateral orientation; bodies/cuff stitches remain",
+                "sha256": "468e1a85e705ff4a592195ba3e01fda077bfeaf037ef0862b53b2eac3ad6e9ee",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-7ebd2d3f-4c61-4660-99e0-b738de7bb023.png",
+            "outputSha256": "696c61aa7d0cfac3e39226b7233c59eba964f39fde00563c230ec6ae447d10e4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:37:14.746342+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-69be847f-25f6-4ae7-b50a-fb6031ca7d9a.png",
+            "role": "Edit only isolated scar palm lateral orientation; bodies/cuff stitches remain",
+            "sha256": "468e1a85e705ff4a592195ba3e01fda077bfeaf037ef0862b53b2eac3ad6e9ee",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 4
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:37:14.746342+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "696c61aa7d0cfac3e39226b7233c59eba964f39fde00563c230ec6ae447d10e4",
+        "sourceSha256": "84df933bd7e50f5db4886bb9fb91edc76b802dbd6c5fa7133e5e4c0d427750f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-69be847f-25f6-4ae7-b50a-fb6031ca7d9a.png",
+            "role": "Edit only isolated scar palm lateral orientation; bodies/cuff stitches remain",
+            "sha256": "468e1a85e705ff4a592195ba3e01fda077bfeaf037ef0862b53b2eac3ad6e9ee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: isolated scar study corrected to anatomical LEFT PALM, fingers up/thumb viewer LEFT, ordinary palmar creases with faint healed white line just below thumb. Convention checked against actual Morris figure134 Left Hand Dorsal Surface; previous reversed rule corrected.",
+          "Present figure retains three raised stitches on LEFT cuff and right grounding hand; same younger remembered identity with unscarred hand. Intermediate contradictory memory scar states remain omitted without invented reconciliation.",
+          "Broad matte opaque paint throughout face, skin and clothing, present evening warmth/cool shadow and dark blue remembered barrier state, complete forms and exact text on ivory; no scenery/swatches/extra figures."
+        ],
+        "specificationSha256": "c3739967d129504f4ee5d563ff9a5f581ae9e5f3e4f18b39d3d880281ffec7c6"
+      },
+      "lighting": "Present late-evening yellow lamplight with cool rain-window shadows; remembered barrier dark blue fracture light and very limited heat reflection.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "696c61aa7d0cfac3e39226b7233c59eba964f39fde00563c230ec6ae447d10e4"
+    },
+    {
+      "id": "veska-nol",
+      "name": "Veska Nol",
+      "role": "Therapist who enters shared recall with independent exit and recording boundaries",
+      "selectionEvidence": [
+        {
+          "quote": "Her faculty needed no machine.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "The room's lamplight looked flat and yellow.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "She pulled both hands into her lap.",
+          "explanation": "Finalsource role/form evidence"
+        }
+      ],
+      "form": "Human interpretation of person; source establishes no alternate nonhuman form",
+      "storyAppearance": {
+        "anatomy": "Adult woman",
+        "lifeStage": "Adult, ageunspecified",
+        "proportions": "Unspecified",
+        "markings": "None stated",
+        "materials": "Ordinaryclothes/thinshoes/livingskin",
+        "clothing": "Thin-soledshoe, restunspecified",
+        "equipment": "Roomaudio recording slate, nevermemoryreader; fingers touchclientwrist",
+        "scale": "Ordinaryhuman",
+        "movement": "Attentive steady thennauseated/disoriented afterrecall; independentwithdrawal",
+        "distinctiveFeatures": "Livingfaculty no mandatory visiblemagic"
+      },
+      "explicitCanon": [
+        "Womantherapist, twofingers wristcontact, thinsoledleftshoe.",
+        "Slaterecordsroomsoundonly, greenpointfirstthenoff/facedown; recordsnotmemories.",
+        "Independentexit, distressafterdeeprecall, notoracle/clinicalrealworldguidance."
+      ],
+      "visualInterpretation": [
+        "Art-only Veska Nol, age49, medium warm brown skin, noticeably broad short full rounded face, short blunt low-bridge broad-tip nose, dark eyes, center-parted chin-length wavy black bob with two narrow silver temple streaks, average sturdy build.",
+        "Dustyindigo cardigan, plaincreamblouse, charcoaltrousers, thinbrownsliponshoes; no whitecoat/medicalbadge/psychicjewelry.",
+        "Frontattentivehands and rearafterreturnhandsheldclose, smallinertslate soloobject two labeledstates ONaudiodot/OFF; no chair/table."
+      ],
+      "states": [
+        {
+          "name": "Listening",
+          "description": "Completefront humanpose, calmattentive, plainhands."
+        },
+        {
+          "name": "After return",
+          "description": "Completebackthreequarter, slightlyshaken expression, handsheldclose, samecostume."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-first-wound:veska-nol",
+        "links": [],
+        "evidence": "New art-only name; no corresponding universeidentity or crossover."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-wound/title-image.jpg",
+          "role": "Subordinate symbolic leftpalm/cuff three-stitch theme only, not literal humananatomy or power",
+          "notes": "Inspected abstract blackfingerprint, wheel, seam withthreestitches; no faces.",
+          "sha256": "2396d4df22844c81dd824b2e6139fc60aa575bac875aa6900ffca1bf6fdbdae9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/01-the-session-room.png",
+          "role": "Broad matte oil and eveninglamplight/raincool shadow",
+          "notes": "No chairs/table/rug/slate-on-table environment onfolio.",
+          "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+          "role": "Restricted bluefracture and warmmetalheat reflectedlight/materials",
+          "notes": "No wheel/gate/barrier/floor/scene oncharacterfolio.",
+          "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Veska Nol",
+        "sourceRole": "Therapist who enters shared recall with independent exit and recording boundaries",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "All finalsource roles unnamed, no personalname in outline/review. New art-only name checked wholewords against universe/NAMES/existingcharacter-specs; no source or canon edit."
+      },
+      "output": "stories/the-first-wound/art/characters/veska-nol.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Revise Veska Nol's identity consistently in ALL THREE FACES and heads on this sheet. The current face/hair resembles the male client too closely. Keep adultwoman age49, but make these exact distinctive features:\nA noticeably BROADER, SHORTER FULL FACE, rounded fleshy cheeks, SHORT rounded chin, broad low straight eyebrows; SHORT BLUNT NOSE with LOW bridge and BROAD ROUNDED TIP, not long/aquiline. Medium warm BROWN skin, visibly deeper than current pale tan, with dark brown eyes and fuller lower lip. Natural mature eye folds, no glamorous smoothness. Hair changes to a CENTER-PARTED CHIN-LENGTH WAVY BLACK BOB with two narrow natural SILVER TEMPLE streaks, symmetrical curtain waves and rounded silhouette, not a side-swept man's style.\nKeep the same sturdy adultwoman body, complete poses, indigo cardigan/cream blouse/charcoal trousers/thin brown shoes, ordinary hands, two audio slate states, exact name/title/art-only line and other labels. Change left body label from \"Present session\" to exact \"Listening\". Same matte BROAD oil construction and subdued flat yellow evening lamp, never brighten or polish skin; connected brown/slate shadows. All three faces must clearly be this same new distinct woman, no other people. Warm ivory and unclipped anatomy stay unchanged, no scene/ground/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:47:55.612510+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 warm ivory landscape character folio. Exact heading \"Veska Nol\", subtitle \"The First Wound\", small line \"Art-only name\".\nONE adult HUMAN WOMAN therapist age49. MEDIUM WARM BROWN skin, FULL rounded rectangular face, BLUNT NOSE, low dark brows, dark eyes, chin-length WAVY BLACK BOB with natural SILVER streaks. Average sturdy build, not lean male or younger female. Consistent identity. Dusty INDIGO CARDIGAN over a plain CREAM BLOUSE, CHARCOAL trousers, thin-soled BROWN SLIP-ON shoes. No white coat, rank, medical badge, rings, scar, headset or magical jewel.\nLEFT complete front three-quarter \"Listening\", ordinary relaxed hands slightly forward and open, two fingers of RIGHT hand lightly extended for wrist contact but no other person's hand. Attentive restrained face, not trance eyes. CENTER complete rear three-quarter \"After return\", same woman looking over left shoulder enough to see same blunt nose and bob; hands loosely held together near lower abdomen, slight unsteadiness but upright, all hands and both feet complete.\nRIGHT large same-face expression \"Finding the room\", a little shaken and attentive rather than prophetic. Below small isolated AUDIO RECORDING SLATE, a plain small black rectangular recorder, shown twice as two states of same object. One view labeled \"Room audio / on\" with exactly ONE small GREEN indicator DOT, no screens full of visions; second labeled \"Off\" lies face down with no green light. This only records ROOM SOUND, never accesses memory. No wires, mental holograms, glowing fingertips or computer brain.\nMatch image1 genuine BROAD connected OPAQUE MATTE OIL on face, hands, hair and cloth: large simplified cheek/jaw/nose planes, directional bristle and knife strokes, selective impasto with quiet passages. Canadian Group of Seven. Not photoreal/anime/CGI or tiny random chipped texture over a smooth face. Use the PRESENT SESSION's subdued FLAT YELLOW LAMP illumination with cooler brown/slate rain-evening shadow, small lit planes, no golden outdoor sun or rimlight. Warm ivory remains clean, no room/furniture/rug/table/floor/ground shadow patches/palette/swatches/other people. Exact legible labels, unclipped complete anatomy.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/characters/ebrin-tal.png",
+                "role": "same-story matte broad oil and present lamplight only; no male identity, scars or youth costume",
+                "sha256": "468e1a85e705ff4a592195ba3e01fda077bfeaf037ef0862b53b2eac3ad6e9ee",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/interiors/01-the-session-room.png",
+                "role": "primary flatyellow lamp/raincool shadow and small audio slate geometry, no room",
+                "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0484fdd-8cfb-4049-97df-22a36b004654.png",
+            "outputSha256": "4f05fedb3be84a556edfaf20bfe4bee58d4a6a624c672a877d81099811251a88",
+            "reviewFindings": [
+              "Styleanchor transferred too much Ebrin facial/hair geometry and lightertan complexion. Need distinct broader/shorterfull-cheek female face, bluntshortnose, centerpartbob and mediumbrownskin.",
+              "Body/anatomy/slate states/ivory/styles pass."
+            ],
+            "completedAt": "2026-09-24T07:52:57.711266+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:52:58.688361+00:00",
+            "prompt": "Revise Veska Nol's identity consistently in ALL THREE FACES and heads on this sheet. The current face/hair resembles the male client too closely. Keep adultwoman age49, but make these exact distinctive features:\nA noticeably BROADER, SHORTER FULL FACE, rounded fleshy cheeks, SHORT rounded chin, broad low straight eyebrows; SHORT BLUNT NOSE with LOW bridge and BROAD ROUNDED TIP, not long/aquiline. Medium warm BROWN skin, visibly deeper than current pale tan, with dark brown eyes and fuller lower lip. Natural mature eye folds, no glamorous smoothness. Hair changes to a CENTER-PARTED CHIN-LENGTH WAVY BLACK BOB with two narrow natural SILVER TEMPLE streaks, symmetrical curtain waves and rounded silhouette, not a side-swept man's style.\nKeep the same sturdy adultwoman body, complete poses, indigo cardigan/cream blouse/charcoal trousers/thin brown shoes, ordinary hands, two audio slate states, exact name/title/art-only line and other labels. Change left body label from \"Present session\" to exact \"Listening\". Same matte BROAD oil construction and subdued flat yellow evening lamp, never brighten or polish skin; connected brown/slate shadows. All three faces must clearly be this same new distinct woman, no other people. Warm ivory and unclipped anatomy stay unchanged, no scene/ground/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0484fdd-8cfb-4049-97df-22a36b004654.png",
+                "role": "edit target; preserve clothing/form/objects/text but distinguish therapist facial design",
+                "sha256": "4f05fedb3be84a556edfaf20bfe4bee58d4a6a624c672a877d81099811251a88",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1af6fc5a-20e1-4743-91bf-08eac62d710e.png",
+            "outputSha256": "52990fd84f33945b9e27b30d1ddb8279bc062c46e09f6c22fcb0c978a6fcb0f2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:12:36.697493+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0484fdd-8cfb-4049-97df-22a36b004654.png",
+            "role": "edit target; preserve clothing/form/objects/text but distinguish therapist facial design",
+            "sha256": "4f05fedb3be84a556edfaf20bfe4bee58d4a6a624c672a877d81099811251a88",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:12:36.697493+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "52990fd84f33945b9e27b30d1ddb8279bc062c46e09f6c22fcb0c978a6fcb0f2",
+        "sourceSha256": "84df933bd7e50f5db4886bb9fb91edc76b802dbd6c5fa7133e5e4c0d427750f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-a0484fdd-8cfb-4049-97df-22a36b004654.png",
+            "role": "edit target; preserve clothing/form/objects/text but distinguish therapist facial design",
+            "sha256": "4f05fedb3be84a556edfaf20bfe4bee58d4a6a624c672a877d81099811251a88",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actualrevisedpixels show distinctbroader/shorterfullface with bluntnose andcenter-partedroundedbob, consistent acrossfront/rear/head, no maleclientscar/stitches or youthcostume.",
+          "Exactname/title/art-onlyline and Listening/Afterreturn labels, completeadultbodyhands/thinbrownshoes, quietindigo/cream/charcoalclothes.",
+          "Plainroomsoundrecorder twoisolatedstates: onegreenpoint on, offobjectfacedown no light or memories, no psychicmachine/headset/poweraura.",
+          "Matteopaqueoil rendering with yellowlampandconnectedclothshadows, completewarmivory/no room/furniture/ground/swatches."
+        ],
+        "specificationSha256": "e72e4a7f3f358696c5989745ccd420e632b2410de94d6e5a253054fff827a770"
+      },
+      "lighting": "Late session flat yellow lamplight, cool rainy evening shadows with no self-generated magic.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "52990fd84f33945b9e27b30d1ddb8279bc062c46e09f6c22fcb0c978a6fcb0f2"
+    },
+    {
+      "id": "trelvune",
+      "name": "Trelvune",
+      "role": "Commander heard behind young defender during barrier sealing",
+      "selectionEvidence": [
+        {
+          "quote": "The commander. He never saw the speaker's face.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "I saw the fracture.",
+          "explanation": "Finalsource role/form evidence"
+        }
+      ],
+      "form": "Human interpretation of person; source establishes no alternate nonhuman form",
+      "storyAppearance": {
+        "anatomy": "Sourcevoiceonly, physicalformundisclosed",
+        "lifeStage": "Adult commandrole inferred",
+        "proportions": "Unspecified",
+        "markings": "Unspecified",
+        "materials": "Unspecified",
+        "clothing": "Unspecified",
+        "equipment": "No weapon/personalequipment described",
+        "scale": "Person behinddefender, no scaleestablished",
+        "movement": "Urgentcommands and tacticalattention",
+        "distinctiveFeatures": "Face/gender neverobserved; design expresslyart-only"
+      },
+      "explicitCanon": [
+        "Sourcecommandercommands timing but doesnotprovide casualtytruth.",
+        "Youngclient neverseescommanderface; cannot make face historicalevidence.",
+        "No namedrank/faction/emblem/weapon."
+      ],
+      "visualInterpretation": [
+        "Entirebody/art-only reconstruction: apparent50woman, deepbrownskin, strongbroadjowledface/widenose, darkeyes, tightlyboundgrayingblackbraid, solidtallbuild.",
+        "Plainrough darkumber wovenlongcoat overgraytunic, leatherbelt, charcoaltrousers and wrappedboots; no insignia/crown/sword/medals.",
+        "Heading Trelvune and smallline Art-only commander design explicitly distinguishes invented appearance; darkbluefracture spill and restrainedheatreflection only."
+      ],
+      "states": [
+        {
+          "name": "Commanding",
+          "description": "Complete front/back of same interpreted identity, arms relaxed at sides; ordinary commander voice supplies source agency, no source-required handgesture. Correct isolated left palm study may clarify anatomy."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-first-wound:trelvune",
+        "links": [],
+        "evidence": "New art-only name; no corresponding universeidentity or crossover."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-wound/title-image.jpg",
+          "role": "Subordinate symbolic leftpalm/cuff three-stitch theme only, not literal humananatomy or power",
+          "notes": "Inspected abstract blackfingerprint, wheel, seam withthreestitches; no faces.",
+          "sha256": "2396d4df22844c81dd824b2e6139fc60aa575bac875aa6900ffca1bf6fdbdae9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/01-the-session-room.png",
+          "role": "Broad matte oil and eveninglamplight/raincool shadow",
+          "notes": "No chairs/table/rug/slate-on-table environment onfolio.",
+          "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+          "role": "Restricted bluefracture and warmmetalheat reflectedlight/materials",
+          "notes": "No wheel/gate/barrier/floor/scene oncharacterfolio.",
+          "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Trelvune",
+        "sourceRole": "Commander heard behind young defender during barrier sealing",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "Source commander remains unnamed. Trelvune is art-only; replaces art name Hadrume after proximity to source Hadrum in The Gutter School was found. New name scanned against universe, all current story prose/reviews/prompts, NAMES and character specifications. No source or canon edit.",
+        "rejectedArtName": "Hadrume"
+      },
+      "output": "stories/the-first-wound/art/characters/trelvune.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this character reference sheet by changing ONLY the large upper-left name heading from \"Hadrume\" to the exact text \"Trelvune\". Keep the same readable black lettering size and character. All other text stays exactly the same: The First Wound; Art-only commander design; Commanding; Back view; Watching the fracture. Preserve the actual woman's face, body, neutral arms at sides, correct isolated right PALM with thumb viewer left, all clothes and braid, every pose, matte broad oil paint masses, very dim blue/brown reflected light, warm ivory field and complete landscape layout. The name is an art-only design name; no new identity or scenery. This is a heading-only correction, no other intended visual changes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:12:38.057638+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape CHARACTER reference folio, plain warm ivory. Exact heading \"Hadrume\", subtitle \"The First Wound\", small clear line \"Art-only commander design\". This appearance is an art interpretation of the commander whose face is never seen in the source memory, not a claim of recovered historical evidence.\nOne ordinary HUMAN adult WOMAN, apparent50, solid TALL build, DEEP BROWN skin, strong BROAD JOWLED FACE, WIDE NOSE, dark eyes, mature broad brow and jaw planes, tightly tied BLACK braid with substantial GRAY strands down upper back. No resemblance to a robot. No royal jewelry, crown, medals or magical eyes.\nPlain rough DARK UMBER woven longcoat ending at mid-thigh over a GRAY tunic, simple leather belt, CHARCOAL trousers and wrapped dark leather boots. Ancient utilitarian clothing, no invented faction insignia, rank, sword, weapon, modern fasteners or armor plates.\nLEFT full front three-quarter figure labeled \"Commanding\": one open RIGHT palm held up as an ordinary practical halt signal, other arm relaxed; stern focused face, no evil caricature. CENTER full back three-quarter figure labeled \"Back view\": same woman, braid, body proportions and coat, turned enough to show same broad nose/jowl profile, both hands and boots complete. RIGHT large same-face head study labeled \"Watching the fracture\"; small open right-hand study only if useful, no other props.\nStrong lighting requirement: she stands in DARK mountain-passage memory. Her whole figure and skin are MOSTLY DARK connected blue-black/umber shadow; only a SMALL muted reflected BLUE plane on cheek/knuckles and a few dull heat-colored flecks. NO bright warm studio face or full golden skin fill, no daylight, rim halo or self-emission. Light stays on subject; the background remains clean warm ivory.\nPaint face, hands, braid, coat and boots in large connected OPAQUE MATTE OIL masses, Canadian Group of Seven, directional broad bristle/knife strokes, selective impasto and quiet passages. No smooth photography/CGI/anime, no glossy mechanism texture or uniform bright chips. All full bodies unclipped. No wheel, gate, rocks, terrain, floor/ground shadows, environment, other people, palette or swatches. Exact readable labels, one sheet.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "Primary broad matte oil mark scale/form only; no robot armor/cape/eyes/brightvalues",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+                "role": "Primary restricted blue fracture/heat reflection and broaddarkpaint, no environment",
+                "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f0b1f9-d903-443f-94b0-bd032adfcf9e.png",
+            "outputSha256": "82287a9b208a7a2d678ec5f4710bebd3f2bb6a94f5bcfaa536711093df1ee9f4",
+            "reviewFindings": [
+              "Raisedfront hand and isolatedpalm show thumbviewerRIGHT forpalmout study, givingLEFT-hand appearance whereRIGHT requested. Correctboth toRIGHTpalmarview thumbviewerLEFT. Darkpaint/identity/clothes pass."
+            ],
+            "completedAt": "2026-09-24T08:21:11.843444+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:21:12.797422+00:00",
+            "prompt": "Make one narrow ANATOMY correction to this Hadrume folio, preserving every other region, identity, face, coat, braid, body, label, lighting and warm ivory.\nThe FRONT full figure at left has her RIGHT ARM raised at viewer LEFT. Make the hand at the end of that arm an anatomically correct RIGHT HAND held PALM OUT toward us with fingers upward. In this palmar view, the THUMB MUST BE ON VIEWER LEFT, away from her body, and the little finger toward viewer RIGHT, closer to her head. Normal right-hand palm creases, five fingers total, no nails on palm surface. Do not move the arm.\nThe isolated OPEN PALM study in lower right must show the SAME anatomical RIGHT hand, PALM FACING VIEWER, fingers upward, THUMB ON VIEWER LEFT. Horizontally mirror just its hand geometry as needed, keep its scale/position and dark blue-brown oil color. Four upright fingers plus the thumb, normal palm anatomy.\nAbsolutely no other changes: no new text, no face change, no relighting, no scene/ground/swatches. Full front/back figures, exact art-only commander label, dark dim fracture light and matte broad oil stay intact.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f0b1f9-d903-443f-94b0-bd032adfcf9e.png",
+                "role": "edit target only two raised right-hand views",
+                "sha256": "82287a9b208a7a2d678ec5f4710bebd3f2bb6a94f5bcfaa536711093df1ee9f4",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-f5f9daf2-431b-4a79-9807-cc2ed1e734aa.png",
+            "outputSha256": "b846d69e74d2bffc252701c293886cec06fdcbf787995421ad2e46fc362cf0bc",
+            "reviewFindings": [
+              "IsolatedRIGHTpalm nowcorrect; raisedfullbodyhand stillhas LEFTpalmthumbgeometry. Change optionalart-only gesture to relaxedloweredarm instead of repeatingambiguous raisedhand. Source onlyvoice hasnogesture requirement."
+            ],
+            "completedAt": "2026-09-24T08:26:31.902353+00:00"
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:26:33.121402+00:00",
+            "prompt": "Change ONLY the raised arm on the LEFT full-body Hadrume figure. LOWER her RIGHT ARM (the arm currently projecting toward viewer LEFT) to hang naturally alongside her body, with a slight relaxed elbow bend, and an ordinary relaxed RIGHT hand near hip level. The palm faces inward toward her coat, not toward the viewer, so there is NO raised open palm gesture. This is a neutral character reference stance. Keep correct arm length and five naturally relaxed fingers. Do not move the figure's torso, head, clothing or feet. Remove the old raised arm and hand, restore warm ivory where they were.\nThe isolated large RIGHT PALM study at the lower right is now CORRECT and must remain exactly unchanged. The rear figure, mature dark-skinned face, gray braid, every label including Commanding, oil brushwork, dim blue light and warm ivory remain exactly unchanged. No new props, scenery or ground. One complete sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-f5f9daf2-431b-4a79-9807-cc2ed1e734aa.png",
+                "role": "edit target, revise only front raisedarm pose; all else preserve",
+                "sha256": "b846d69e74d2bffc252701c293886cec06fdcbf787995421ad2e46fc362cf0bc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+            "outputSha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:32:07.034184+00:00",
+            "reviewFindings": [
+              "Art-only name Hadrume too similar to subsequently assessed source name Hadrum in The Gutter School; heading-only correction required. Pixel identity/anatomy/light remains accepted."
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:09:38.295690+00:00",
+            "prompt": "Edit this character reference sheet by changing ONLY the large upper-left name heading from \"Hadrume\" to the exact text \"Trelvune\". Keep the same readable black lettering size and character. All other text stays exactly the same: The First Wound; Art-only commander design; Commanding; Back view; Watching the fracture. Preserve the actual woman's face, body, neutral arms at sides, correct isolated right PALM with thumb viewer left, all clothes and braid, every pose, matte broad oil paint masses, very dim blue/brown reflected light, warm ivory field and complete landscape layout. The name is an art-only design name; no new identity or scenery. This is a heading-only correction, no other intended visual changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+                "role": "heading-only edit target, preserve every identity/anatomy/lighting/rendering feature",
+                "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1b447686-8b32-4cec-9d35-706d7a91738d.png",
+            "outputSha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:11:02.921288+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+            "role": "heading-only edit target, preserve every identity/anatomy/lighting/rendering feature",
+            "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 4
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:11:02.921288+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835",
+        "sourceSha256": "84df933bd7e50f5db4886bb9fb91edc76b802dbd6c5fa7133e5e4c0d427750f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+            "role": "heading-only edit target, preserve every identity/anatomy/lighting/rendering feature",
+            "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels inspected: exact heading Trelvune with The First Wound and Art-only commander design retained. New art name avoids source Hadrum in The Gutter School.",
+          "Same mature deep-brown broad-jowled female art interpretation in front/back/portrait; braid, neutral arms, rough coat and wraps retained. Source unseen face and unspecified gender explicitly remain art choices.",
+          "Dim blue fracture reflections and connected umber shadow retained without uniform bright studio fill. Matte broad opaque strokes include skin/hands, ivory field no ground/scenery/swatches. Unlabeled isolated LEFT palm has thumb viewer left with fingers up; no source-specific side requirement.",
+          "Anatomy convention corrected after Morris left-hand dorsal plate inspection; actual unmarked palm study needs no visual edit. Historical generation prompts retained as actually submitted."
+        ],
+        "specificationSha256": "6607dcd5709725f45b86462797c5809956b372205d8eb69b96158a132d6622db"
+      },
+      "lighting": "Very dim reflected blue fracture light with only narrow dull heat-colored planes; dominant darkblue/umber shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "f48e54285e6e745e1adc2ad5ddde0a64932926b27252b9ef22893a3d8e7c6835"
+    },
+    {
+      "id": "jeleth",
+      "name": "Jeleth",
+      "role": "Wounded survivor leading the litter toward the ancient barrier",
+      "selectionEvidence": [
+        {
+          "quote": "A wounded survivor at the front had one arm hooked through a litter frame.",
+          "explanation": "Finalsource role/form evidence"
+        },
+        {
+          "quote": "Leave the pack. Both hands on him.",
+          "explanation": "Finalsource role/form evidence"
+        }
+      ],
+      "form": "Human interpretation of person; source establishes no alternate nonhuman form",
+      "storyAppearance": {
+        "anatomy": "Adult female survivor",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "Wounded but no exactinjurylocation/severity",
+        "materials": "Roughclothing/harness, dust",
+        "clothing": "Not specified",
+        "equipment": "Litterframe in scene, excludedfromcharacterreference toavoidotherbodies/scenery",
+        "scale": "Ordinaryperson",
+        "movement": "Wounded butactiveleader pullingframe, drags anotherupright",
+        "distinctiveFeatures": "Survivesinner crossing, memorynotobjectivecasualtyrecord"
+      },
+      "explicitCanon": [
+        "Woman atfront withonearm throughlitterframe, repeatedlydirects others.",
+        "Wounded butabletorun/haul, throwsclear oninnerside.",
+        "No exactblood/injurydiagnosis or survivorcount established."
+      ],
+      "visualInterpretation": [
+        "Art-only Jeleth, age34, olivefreckledskin, broadlowcheekface/shortbroadnose, hazelgreen eyes, veryshortcoarseAUBURNhair, muscularcompactbuild.",
+        "Roughdullteal sleevelessoutertunic over graylongsleeves, brownhidebelt/diagonalplaincarryingstrap, darktrousers/wrappedleatherboots.",
+        "Smalldustystainedclothwrap aroundRIGHTupperarm marksnon-graphicwound, sourceunderspecifiedside chosenforart. No weapon/rank/glow.",
+        "Fullfrontbracedstance andbackrunning-lean, elbows naturallybentwithhandsfree; no litter/patient/floorfragment."
+      ],
+      "states": [
+        {
+          "name": "At the front",
+          "description": "Completefront andback sameadult, wound wrapRIGHTupperarm and practicalhaulingbodylanguage."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-first-wound:jeleth",
+        "links": [],
+        "evidence": "New art-only name; no corresponding universeidentity or crossover."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-wound/title-image.jpg",
+          "role": "Subordinate symbolic leftpalm/cuff three-stitch theme only, not literal humananatomy or power",
+          "notes": "Inspected abstract blackfingerprint, wheel, seam withthreestitches; no faces.",
+          "sha256": "2396d4df22844c81dd824b2e6139fc60aa575bac875aa6900ffca1bf6fdbdae9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/01-the-session-room.png",
+          "role": "Broad matte oil and eveninglamplight/raincool shadow",
+          "notes": "No chairs/table/rug/slate-on-table environment onfolio.",
+          "sha256": "5754710e5fad834f57f0808352eccebb33b10229d39ce922eb705fa3370611dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+          "role": "Restricted bluefracture and warmmetalheat reflectedlight/materials",
+          "notes": "No wheel/gate/barrier/floor/scene oncharacterfolio.",
+          "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Jeleth",
+        "sourceRole": "Wounded survivor leading the litter toward the ancient barrier",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "All finalsource roles unnamed, no personalname in outline/review. New art-only name checked wholewords against universe/NAMES/existingcharacter-specs; no source or canon edit."
+      },
+      "output": "stories/the-first-wound/art/characters/jeleth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit image1 Jeleth sheet with TWO corrections. Preserve her exact young adult auburn-cropped identity, olive freckles, hazel eyes, two whole bodies, two heads, right-upper-arm bandage, teal/gray clothes, anatomy, labels and warm ivory.\n1. Rear body's DIAGONAL CARRYING STRAP is reversed. FRONT view stays unchanged: strap starts on HER RIGHT SHOULDER at viewer LEFT and descends to HER LEFT HIP at viewer RIGHT. Therefore REAR view must start on viewer RIGHT shoulder and cross down to viewer LEFT hip. Move the small rear leather pouch from viewer RIGHT hip to viewer LEFT hip with it. Remove the old rear diagonal entirely, no crossed/double straps. Do not move bandage: RIGHT upper arm remains front viewer LEFT/rear viewer RIGHT.\n2. Lighting on all Jeleth body and head views must match the DIM ancient-passage exposure of image2. Lower skin/clothes exposure noticeably. Use large connected DARK cool blue-slate/umber shadow masses over about two-thirds of face/neck/arms/tunic; small restrained blue reflected planes, tiny dull warm heat accents only. No daylight-tan full facial fill or brightgold shoulders. Olive skin and auburn hair remain recognizable beneath dark light, no solid blue skin dye. Preserve broad matte OIL forms; do not import Hadrume's older face, gray braid, dark skin or coat. Warm ivory paper remains exactly clear/bright and untinted.\nNo scene, ground, swatches, new injuries or props. One complete sheet, every boot and hand inside frame.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:32:07.994523+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 warm ivory landscape character reference folio. Exact heading \"Jeleth\", subtitle \"The First Wound\", small line \"Art-only name\". One ordinary adult HUMAN WOMAN wounded survivor, age34, MUSCULAR COMPACT build. OLIVE skin with a few ordinary freckles, BROAD LOW-CHEEK face, SHORT BROAD NOSE, HAZEL GREEN eyes, very SHORT COARSE AUBURN HAIR, not gray braid or a robot. Consistent same face and body.\nRough dull TEAL sleeveless outer tunic over GRAY long sleeves, simple BROWN HIDE BELT and plain diagonal leather carrying strap, DARK trousers, wrapped LEATHER BOOTS. SMALL dusty cloth BANDAGE around her RIGHT UPPER ARM, non-graphic slight old rust stain, no bleeding or severed limb. Both arms and hands fully intact and useful. No armor, sword, rank, faction emblem or technology.\nLEFT complete FRONT three-quarter whole-body view labeled \"At the front\": sturdy braced stance, slight forward lean, hands relaxed and free at her sides, jaw set with effort. RIGHT UPPER-ARM BANDAGE must be at VIEWER LEFT in this front view. CENTER complete REAR three-quarter view labeled \"Back view\": same survivor, head turned to show the same short broad nose and auburn crop, same carrying strap/clothing; RIGHT UPPER-ARM BANDAGE must be at VIEWER RIGHT in this rear view. This is the same anatomical side, not a reversed injury. All hands and boots inside margins.\nRIGHT large head study \"Keep moving\", determined tired young adult face, lips slightly parted for a practical instruction, no screaming caricature; below one smaller profile of the SAME head, no optional hand study. This woman leads others but no litter, injured companions or floating unseen hands are included.\nLighting is VERY DIM ANCIENT PASSAGE light: keep most skin/tunic/clothes in large DARK connected slate-blue/umber shadows, only small muted BLUE reflected planes and very limited dull heat-colored flecks. No bright studio face, golden daylight, rim halo, electric hair or self-glow. Deep shadows remain readable against ivory.\nEvery face, arm and clothing plane made with BROAD MATTE OPAQUE OIL strokes, Canadian Group of Seven; simplify flesh as strongly as cloth and hide, deliberate bristle/knife marks, selective impasto and quiet passages. No CGI/photoreal/anime or tiny uniform chips. Quiet warm ivory with NO ground shadows/patches, wheel, gate, rocks, litter, other people, scenery, swatches or palette strip. Exact readable text, complete ordinary anatomy.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "large matte opaque paint strokes and connectedvalues only; no mechanical identity/armor/cape/light",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
+                "role": "primary dark restricted bluefracture and heatreflection, broadpaint; no environment",
+                "sha256": "2e16beea2267fd1475edbaa6ff0fc4bb136af33e1f6119563c3cb15d7a965bb3",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c511095b-f408-4d97-9249-54701180e801.png",
+            "outputSha256": "79ff27e3f06551fb24bd921afe3aee754c6b949a29d7f0c014897a9a2971777f",
+            "reviewFindings": [
+              "Bandage laterality correct, but rear diagonalstrap/pouch reverses its shoulder/hip acrossviews; make rear viewerRIGHTshoulder toviewerLEFT hip matchingfront.",
+              "Wholefigure/heads aredaylightbright; restore dimpassagebluefracture values asHadrume."
+            ],
+            "completedAt": "2026-09-24T08:37:19.292515+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:37:20.226870+00:00",
+            "prompt": "Edit image1 Jeleth sheet with TWO corrections. Preserve her exact young adult auburn-cropped identity, olive freckles, hazel eyes, two whole bodies, two heads, right-upper-arm bandage, teal/gray clothes, anatomy, labels and warm ivory.\n1. Rear body's DIAGONAL CARRYING STRAP is reversed. FRONT view stays unchanged: strap starts on HER RIGHT SHOULDER at viewer LEFT and descends to HER LEFT HIP at viewer RIGHT. Therefore REAR view must start on viewer RIGHT shoulder and cross down to viewer LEFT hip. Move the small rear leather pouch from viewer RIGHT hip to viewer LEFT hip with it. Remove the old rear diagonal entirely, no crossed/double straps. Do not move bandage: RIGHT upper arm remains front viewer LEFT/rear viewer RIGHT.\n2. Lighting on all Jeleth body and head views must match the DIM ancient-passage exposure of image2. Lower skin/clothes exposure noticeably. Use large connected DARK cool blue-slate/umber shadow masses over about two-thirds of face/neck/arms/tunic; small restrained blue reflected planes, tiny dull warm heat accents only. No daylight-tan full facial fill or brightgold shoulders. Olive skin and auburn hair remain recognizable beneath dark light, no solid blue skin dye. Preserve broad matte OIL forms; do not import Hadrume's older face, gray braid, dark skin or coat. Warm ivory paper remains exactly clear/bright and untinted.\nNo scene, ground, swatches, new injuries or props. One complete sheet, every boot and hand inside frame.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c511095b-f408-4d97-9249-54701180e801.png",
+                "role": "edit target, preserve identity/clothes/RIGHTarmwound/anatomy/text",
+                "sha256": "79ff27e3f06551fb24bd921afe3aee754c6b949a29d7f0c014897a9a2971777f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-first-wound/art/characters/hadrume.png",
+                "role": "same-source actual dark fracture light/connectedshadow only; noolderidentity/hair/clothingtransfer",
+                "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-7bb4949a-0e85-4ebf-b2bb-2beb95510bfe.png",
+            "outputSha256": "4a8911f92d51612a1893d111025c8838b02730e55468d5c3006ae71bb924a426",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:45:08.645104+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c511095b-f408-4d97-9249-54701180e801.png",
+            "role": "edit target, preserve identity/clothes/RIGHTarmwound/anatomy/text",
+            "sha256": "79ff27e3f06551fb24bd921afe3aee754c6b949a29d7f0c014897a9a2971777f",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+            "role": "same-source actual dark fracture light/connectedshadow only; noolderidentity/hair/clothingtransfer",
+            "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:45:08.645104+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "4a8911f92d51612a1893d111025c8838b02730e55468d5c3006ae71bb924a426",
+        "sourceSha256": "84df933bd7e50f5db4886bb9fb91edc76b802dbd6c5fa7133e5e4c0d427750f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c511095b-f408-4d97-9249-54701180e801.png",
+            "role": "edit target, preserve identity/clothes/RIGHTarmwound/anatomy/text",
+            "sha256": "79ff27e3f06551fb24bd921afe3aee754c6b949a29d7f0c014897a9a2971777f",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-353b67b6-ff86-4684-9f54-be8e1c93efda.png",
+            "role": "same-source actual dark fracture light/connectedshadow only; noolderidentity/hair/clothingtransfer",
+            "sha256": "c7e025f8d3a5a4b100c6c2e662c0d85514d9e17417616cec3ed09641252b69e0",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actualpixels exactname/title/art-onlyline, samecompact adultauburnhairedolivefreckledwoman in twofullforms/twoheads, usefulnaturalhands/completeboots.",
+          "Bandage remainsanatomicalRIGHT upperarm frontviewerLEFT/rearviewerRIGHT, smallnon-graphicoldstain only; source injuryplacement documentedartchoice.",
+          "Correctedstrap goesanatomicalRIGHTshoulder toLEFThip in bothviews, smallpouch correspondinglyLEFT. No crossedduplicate or floatinglitter/patient.",
+          "Lighting nowdimpassagecoolshadow withrestrictedlight matchingancientstate, broadmatteoil flesh/cloth, cleanwarmivory/no scenery/ground/swatches.",
+          "Selected lighting reference path stabilized to immutable identical generated bytes before art-only commander name/filename correction; historical call retains actual original path and hash."
+        ],
+        "specificationSha256": "2b1b1da645a30cc33cd9460e7d44a2482e7252e5c1208fbe8c0a4fe047facca3"
+      },
+      "lighting": "Dark ancient passage reflected blue fracture light, subdued earth-brown shadow and sparse dull heat accents.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "4a8911f92d51612a1893d111025c8838b02730e55468d5c3006ae71bb924a426"
+    }
+  ],
+  "sourceSha256": "84df933bd7e50f5db4886bb9fb91edc76b802dbd6c5fa7133e5e4c0d427750f6"
+}

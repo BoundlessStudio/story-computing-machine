@@ -1,0 +1,977 @@
+{
+  "slug": "a-darkness-written-under-skin",
+  "title": "A Darkness Written Under Skin",
+  "source": "stories/a-darkness-written-under-skin/story.md",
+  "canon": true,
+  "mainCastEvidence": "Full finished prose read through line 326. Four unnamed people sustain the entire discovery, test, conflict and aftermath. Marks and equipment have no agency.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Pain-worker",
+      "reason": "Childhood memory only."
+    },
+    {
+      "name": "Relatives and clinic personnel",
+      "reason": "Referenced background, no present narrative role."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: Authority order",
+    "universe/rules.md: Unnamed ink-channel birth-mark system and hidden resistance (LOCKED)"
+  ],
+  "characters": [
+    {
+      "id": "leora-sloane",
+      "name": "Leora Sloane",
+      "role": "Second-person protagonist whose hidden channels are discovered",
+      "selectionEvidence": [
+        {
+          "line": 28,
+          "quote": "No one before you had been found empty.",
+          "explanation": "The focal person's supposed absence of marks is the premise."
+        },
+        {
+          "line": 230,
+          "quote": "the lines within your palm drew tight around each place his fingers met yours",
+          "explanation": "Their deliberate refusal of mediated heat is the decisive event."
+        }
+      ],
+      "form": "Human young adult; female depiction follows explicit user clarification and historical cover",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body; hidden ink-like branching channels below skin.",
+        "lifeStage": "Young adult, twenty years of presumed absence (line 284).",
+        "proportions": "Unspecified; ordinary human proportions.",
+        "markings": "Black-violet channels beneath wrist, palm and forearm, continuing past rolled sleeve; only visible under ultraviolet inspection light, bare in yellow light.",
+        "materials": "Living skin; subsurface ink-like fluid, not raised tattoo or physical scar.",
+        "clothing": "Sleeved work clothes and coat; rolled sleeve during inspection.",
+        "equipment": "Consultation form in coat; no weapon or implanted graft.",
+        "scale": "Ordinary adult human.",
+        "movement": "Withdraws arm, turns own wrist, holds palm in consensual test; guarded then assertive posture.",
+        "distinctiveFeatures": "Paired normal-light and violet-light hand studies; no emitted beam, armour or magical aura."
+      },
+      "explicitCanon": [
+        "LOCKED: focal adult has black-violet branching channels visible under UV and conditional resistance to one directly mediated warming effect.",
+        "Ordinary heated cup still warms fingertips; no general immunity established.",
+        "Planned graft is cancelled; do not depict new graft channels."
+      ],
+      "visualInterpretation": [
+        "Young woman around twenty, matching the younger seated left figure of the historical workroom cover: long near-black hair tied in loose bun with face-framing strands, slim oval face, medium warm olive/light-brown skin, indigo work coat, pale collar and muted mauve waist tie. Plain dark trousers and worn low brown boots complete unseen lower body as restrained interpretation.",
+        "Current prose leaves gender unspecified; female identity follows user direction and compatible historical art. Older standing right woman is the mother and must not be mixed into this identity. Historical anime rendering is not retained.",
+        "Ordinary lamplight skin bare; only externally UV-lit isolated arm study reveals dark non-emissive branches. No graft performed."
+      ],
+      "states": [
+        {
+          "label": "Ordinary lamplight",
+          "description": "Skin appears entirely unmarked."
+        },
+        {
+          "label": "UV inspection",
+          "description": "Subsurface branching black-violet channels become visible; no projection."
+        },
+        {
+          "label": "Refusing direct heat",
+          "description": "Visible channels tighten around contact points within palm only."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-darkness-written-under-skin/title-image.jpg",
+          "role": "Supported channel manifestation only; no complete-body identity",
+          "sha256": "fe7c32cdbaa9fbfa4a9c49f1310461bd592fc25d403dc1265e10bafa584313d7",
+          "inspected": true,
+          "notes": "Warm brown human hand with branching black-violet pattern only inside violet light, bare elsewhere; do not reproduce cover's smooth rendering."
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+          "role": "Environment, lighting, palette and impasto handling",
+          "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+          "inspected": true,
+          "notes": "Warm ochre lamplight, violet inspection lamp, madder-red/walnut stains, blue-violet night shadows, thick textured wood and stone; no character identity supplied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/art-reference-audit/a-darkness-written-under-skin/f31d7ac27586-cover.jpg",
+          "role": "Identity reference ONLY the YOUNG SEATED WOMAN AT LEFT: tied-back long dark hair, face shape, indigo work coat and pale collar. Older standing woman at right is her mother; exclude entirely.",
+          "sha256": "71464e9a67a464b5ca04b67e419248841550e9e578edbd69084574af122cb00f",
+          "inspected": true
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-darkness-written-under-skin:focal-adult",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit the FIRST image, retaining its exact subject identity, two unclipped full-body views, portrait, identical ordinary-light/UV arm studies, layout, night-time subdued lamplight, ivory background and 1536x1024 landscape size. Make these two targeted corrections. 1: Replace the entire large heading \"Unnamed protagonist\" with the proper name EXACTLY \"Leora Sloane\", same dark serif typographic hierarchy, comfortably inside margins. Keep subtitle \"A Darkness Written Under Skin\", \"Lamplight\" and \"UV inspection\". Print no Unnamed/Unknown labels. 2: Repaint the young woman's face and hair, including both small full-body heads, with the same substantial matte broad opaque oil masses as the second sheet's paint handling. It must look like actual Canadian Group of Seven-inspired painted colour shapes, including economical matte eyes and lips and broad bundled locks; remove anime pen contours, glossy/silky strand detail and smooth facial modelling. Preserve Leora's specific slim oval face, age around twenty, feminine identity, near-black long hair tied into loose bun with face-framing strands, skin colour, indigo coat, pale collar, mauve waist tie and ordinary work trousers/boots. Keep both body views exactly the same woman, scale and proportions. Do NOT borrow the second image's mature age, short hair, facial shape, outfit, equipment or name. Strengthen selective thick oil on the hands and clothes to match, without coating everything in equally sized shiny paint chips. Keep connected low-value night shadows and restrained warm planes. Invariant: ordinary-light face, neck, full figures and left hand study entirely bare; only right UV study contains DARK non-emissive fine subdermal branches, no glowing edges. All five fingers per hand, same limb pose. No added locations, floor patches, swatches, palette, weapons, tattoos, other people or graft marks.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "superseded-after-user-identity-feedback",
+            "startedAt": "2026-09-23T19:41:38.722109+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story.\nCreate one NEW character-reference folio, exactly 1536x1024 landscape 3:2, for the single identity \"Unnamed focal adult\" from \"A Darkness Written Under Skin\". This is a character-only oil-painted sheet on a quiet warm ivory ground.\n\nINPUT ROLES\nImage 1, apple-orchard hillside, and Image 2, stream-after-ash, supply the common collection's PAINTING LANGUAGE ONLY: large connected colour/value masses, strongly simplified forms, broad directional bristle strokes, varied mark scale, selective substantial oil impasto and quieter joining passages. Translate those decisions into the human body and face. Do not copy their outdoor light, subjects, scenery or green palette.\nImage 3, dye workroom at night, supplies this story's muted walnut, blue-grey, madder and ochre colour relationships and ordinary yellow work-lamplight ONLY. Copy no room, table, floor, lamps, windows, cloth hangings or other environment.\nImage 4, story cover, supplies ONLY the warm brown skin family and the fact of DARK black-violet branching channels beneath the wrist, visible under ultraviolet inspection. Its glossy photorealistic rendering, bright diagonal violet beam and glowing edges are not to be copied.\n\nONE IDENTITY\nAn androgynous young adult around twenty, gender unspecified, ordinary proportions, warm brown skin, short dark softly tousled hair and an alert, reserved face. Appearance beyond the exposed brown hand is a proposed visual interpretation; avoid overtly gendered body styling. Plain blue-grey work shirt with sleeves rolled above elbows, simple dark walnut trousers, practical worn dark shoes, and a plain brown work coat in the second view. No jewelry, weapons, armour, medical implants or invented uniform. The planned graft was cancelled: there are NO graft cuts, new tattoos, bandages or scars.\nMain full-body studies are in ORDINARY YELLOW LAMPLIGHT: all exposed skin is entirely unmarked, no branching channels visible there. Hands empty; one hand gently holding their own wrist is possible. One person repeated consistently, never several identities.\n\nLAYOUT\nGenerous clean ivory margins. At upper left, highly legible understated dark serif heading exactly \"Unnamed focal adult\", with the smaller exact story title \"A Darkness Written Under Skin\" directly beneath.\nBelow the heading arrange TWO useful complete isolated figure views, FRONT and THREE-QUARTER REAR, with every head, hand and shoe fully inside the page. The front wears the rolled-sleeve shirt; the rear view wears the simple brown coat. No standing platforms, ground marks or cast shadows drawn on the paper. Leave generous space between views.\nAt upper right a single expressive face study, labelled \"FACE\", built with the SAME decisive broad oil paint as the bodies; no realistic portrait inset.\nAt lower right two clear matched hand-and-forearm studies labelled exactly \"ORDINARY LAMPLIGHT\" and \"UV INSPECTION\". These are close studies of the same left palm/wrist/forearm, shown without any other person's hand. Ordinary-light skin is BARE. Under external UV light the same skin has dark black-violet subsurface branching channels, one curving stroke near the tendon splitting into fine irregular branches under the skin; the branches remain DARK, not luminous, not raised, not red wounds. Use a restrained muted violet cast confined to the UV-lit skin, without visible rays, aura, halo, sparks or glowing outlines. The light reveals the channels; the channels do not make light. Let the forearm study edges end in painterly study fades rather than graphic cut-off stumps.\nOnly the specified heading, story title and short study labels are readable text. No explanatory paragraph, decorative prose or invented personal name.\n\nPAINT AND LIGHT\nCanadian Group of Seven-inspired oil study with coherent large shapes FIRST. Faces, hands and cloth are formed by economical opaque colour planes and broad varied directional bristle marks; some quiet passages, some substantial ridged paint where it articulates form. Keep the human rendering as freely painted and simplified as the landscape reference forms. Restrained work-lamplight is a few connected warm ochre/brown planes falling into subdued walnut/plum shadows; not a photographic studio setup, not all-over daylight, no cinematic rim. The UV detail differs only as the source demands. Skin and eyes must remain matte painted shapes, with no glossy eyes, pores, airbrushing, subsurface-scattering render or luminous cosmetic finish.\nAvoid an all-over mosaic of equally-sized bevel-lit paint chips, plastic clay, CGI, comic outlines, anime, clean vector diagrams, photographic faces, orange-blue spectacle or an impasto filter on polished realism.\n\nSTRICT CHARACTER-ONLY BOUNDARY\nNo location vignette or environmental scene anywhere. No scenery, landscape, horizon, buildings, windows, plants, terrain, ground/floor patches, furniture, lamp apparatus or unrelated props. All studies sit directly on uninterrupted quiet ivory. No border, seal, watermark or decorative marks. One complete, beautifully organized oil-painted character folio.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven painting language only; no outdoor subjects, scenery, palette or illumination.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary directional bristle marks, connected masses, varied impasto and quiet passages only; no landscape content.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Story-specific walnut, madder, ochre and blue-grey palette and yellow work-lamplight only; no environment.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/title-image.jpg",
+                "role": "Brown-skin family and dark subsurface UV-visible wrist branches only; reject smooth rendering, bright beam and glow.",
+                "sha256": "fe7c32cdbaa9fbfa4a9c49f1310461bd592fc25d403dc1265e10bafa584313d7",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full final prose and LOCKED ink-channel rules read. Normal skin bare; UV reveals dark subdermal lines, not luminous tattoo. Graft not performed.",
+              "Inspected four original reference images; separated paint/palette/identity roles; no scenic content imported.",
+              "Two full isolated figures plus face and matched hand states fit 3:2 character-only ivory folio. Proposed androgynous appearance preserves unspecified gender."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4e58acab-db30-475a-9800-916a2ab48d99.png",
+            "outputSha256": "0983e78a2f0c833f82dfc71addef320ee6a9b00e128b53bc45ec057665643c32",
+            "finishedAt": "2026-09-23T19:43:36.570867+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "PASS: inspected the complete actual generated image in native imagegen display at 1536x1024. Local view_image returned a small ivory fragment despite the full file dimensions; the full native output, not that fragment, supplied visual inspection.",
+              "One proposed androgynous young-adult identity with consistent warm brown skin and short dark hair in two isolated fully visible figure views, face and hand details. Exact descriptive heading and story title are readable. Source does not specify gender or full facial appearance; these remain visual interpretations.",
+              "Ordinary-light body and hand skin are bare. UV study has DARK black-violet branching lines beneath wrist/palm with restrained violet illumination; no emitted rays, glow, raised tattoo, wound, completed graft or other person.",
+              "Quiet ivory folio contains no scenic vignette, furniture, plants, landscape, ground/floor patch or decorative prose. Figure shoes and hands are contained. Thick matte paint shapes form faces, clothing and hands; broad walnut and blue-grey masses maintain story-specific muted lamplight without cinematic rim or glossy CGI.",
+              "Assistant visual selection only; awaits coordinator independent review and user direction before full collection rollout or publication."
+            ],
+            "selected": false,
+            "independentReview": "pending"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "PASS-for-user-preview",
+            "prompt": "Use case: identity-preserve.\nImage 1 is the existing character-only reference sheet for \"Unnamed focal adult\" from \"A Darkness Written Under Skin\". Correct identity drift in ONE figure.\n\nPRIMARY IDENTITY ANCHORS: the left FRONT full-body figure and the large upper-right FACE portrait already depict the intended same young adult. Preserve them. Their face, hair, skin tone, body proportions and apparent age are the authoritative visual anchors for this edit.\n\nEDIT ONLY THE MIDDLE REAR THREE-QUARTER FIGURE WEARING THE BROWN COAT:\n- Make it unmistakably the SAME person as the front figure and large face portrait, simply turned away and wearing their coat.\n- Match the same oval facial structure, cheek and jaw shape, nose length and tip, lips, brow and eyes seen in the anchors. The current rear profile is too narrow and pointy; do not turn it into a different face.\n- Match the same short, dark, softly tousled hair and hairline. Preserve the same warm brown complexion.\n- Correct the scale/proportions: the rear figure is currently too tall relative to its head. Give it the SAME apparent full-body height and head-to-body ratio as the front figure. Bring its head top approximately level with the front figure's head while keeping its shoes approximately on the same baseline. Match underlying shoulder width and build; the plain brown coat may naturally add a little garment volume, not a different body type.\n- Preserve a rear three-quarter pose and the plain brown work coat, walnut trousers and worn dark shoes. No new outfit, jewelry, equipment, markings or change in apparent age. Their gender is unspecified in the source; do not add a gender claim or exaggerated styling.\n- Keep the complete head, hands, coat and both shoes uncropped with generous ivory spacing. No overlap with the heading or other studies.\n\nTo make view/state intent clear, add only the small understated label \"Front\" below the left body figure and \"Rear â€” coat on\" below the corrected middle body figure, matching the existing label typography. No other new text.\n\nKEEP EVERYTHING ELSE: exact heading \"Unnamed focal adult\", exact story title \"A Darkness Written Under Skin\", upper-right face study and \"FACE\" label, both hand/forearm studies and their exact labels, page dimensions, arrangement outside the changed figure, oil paint and colour. In particular ordinary-light skin stays entirely bare; UV hand keeps its DARK black-violet subsurface branches, no luminous tattoo. No amber-resin loops, red elbow whorls, graft wounds, second identity or another person's hand.\n\nPreserve broad matte Group of Seven-inspired painted colour planes, directional bristle strokes and selective substantial oil; do not smooth into a photo, sharpen tiny details or add glossy light. Quiet plain warm ivory support, 1536x1024 landscape 3:2. NO location, scenery, floor, ground patches, palette strip or paint swatches. Return the whole sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-4e58acab-db30-475a-9800-916a2ab48d99.png",
+                "sha256": "0983e78a2f0c833f82dfc71addef320ee6a9b00e128b53bc45ec057665643c32",
+                "inspected": true,
+                "role": "Immutable edit target; front full-body and large face are identity anchors, rear coat figure alone needs face/proportion correction."
+              }
+            ],
+            "startedAt": "2026-09-23T20:22:08.063056+00:00",
+            "preflight": "Root and fresh independent auditor cast_batch_1 read finished story and inspected sheet. No cast-trait import found; preserve protagonist hand states. Match rear coat figure to front/portrait identity without inventing gender or changing accepted story facts.",
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-2de9d3f0-a283-4e63-b12a-0ae142ad4127.png",
+            "outputSha256": "330832078e864457437ad37c7510dfd12c5705908efcdea283d8320f916110d5",
+            "finishedAt": "2026-09-23T20:25:35.286315+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Root inspected complete generated image: rear coat figure now matches front/portrait face and height/head-to-body proportions. Front and Rear - coat on labels clarify garment state; hand states and other content unchanged."
+            ],
+            "independentReview": "PASS by cast_batch_1 on exact candidate bytes; no new blocking issue."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "cancelled-before-tool-call",
+            "prompt": "Use case: identity-preserve.\nEdit Image 1, the character-only reference sheet for \"Unnamed focal adult\" from \"A Darkness Written Under Skin\". The user's intended protagonist is FEMALE. Establish one consistent adult woman, around twenty, across both full-body views and the large face study. The previous androgynous interpretation is superseded for this artwork.\n\nRetain her existing recognizable identity as the starting point: warm brown skin, short dark tousled hair, large dark eyes, oval face, alert reserved expression, plain blue-grey rolled-sleeve work shirt, walnut trousers, worn dark shoes, and plain brown coat in the rear view. Refine her facial structure and adult female build consistently in ALL three depictions. Keep the short hair. She should look like the same young woman seen from the front, turned away with her coat on, and in close-up. Pay particular attention to the rear face/profile: it must match her front and close portrait in brow, nose, lips, cheek, jaw and apparent age. Match body height, head-to-body ratio and underlying build across the two figures. The coat adds only natural cloth volume. Do not create masculine/feminine alternatives or two different faces.\n\nKeep the practical loose work clothes, restrained posture and ordinary everyday appearance. Do not add makeup, jewelry, fashion styling, exposed skin, a dress or a new hairstyle. Her sex/gender must not be communicated through costume clichÃ©s. No name is invented.\n\nPRESERVE layout and all other content: exact heading \"Unnamed focal adult\", exact story title \"A Darkness Written Under Skin\", labels \"Front\", \"Rear â€” coat on\", \"FACE\", \"ORDINARY LAMPLIGHT\", \"UV INSPECTION\". Keep both hand-and-forearm studies as studies of this SAME woman's hand, matching her warm brown complexion. Ordinary-light skin is entirely unmarked. UV reveals the existing DARK black-violet branching channels beneath the skin; the channels themselves never glow. No amber-resin loops, red elbow whorls, graft cuts, scars, other person's hand or new anatomy. Preserve the complete uncropped silhouettes and clear spacing.\n\nKeep the collection's broad matte oil-painted colour planes, visible directional bristle strokes, selective substantial impasto, and restrained warm/cool value relationships. All faces and hands use the same paint language as clothing. No photographic beauty rendering, gloss, airbrushing or cinematic rim lighting.\n\nWhole 1536x1024 landscape 3:2 folio, quiet warm ivory support. Character-only: no location, scenery, furniture, floor/ground patches, props, colour palette, paint swatches or decorative prose. Return the full updated sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-2de9d3f0-a283-4e63-b12a-0ae142ad4127.png",
+                "sha256": "330832078e864457437ad37c7510dfd12c5705908efcdea283d8320f916110d5",
+                "inspected": true,
+                "role": "Sole edit target: preserve source-compatible identity, clothes, hand states and character-only layout; consistently depict user-intended female protagonist across views."
+              }
+            ],
+            "startedAt": "2026-09-23T20:28:53.976807+00:00",
+            "preflight": "Actual input inspected; source hash unchanged. Root and independent auditor found no gender conflict in source, prompt or LOCKED rules. Female interpretation follows user direction without source/universe edits. Preserve same age, skin/hair, work clothes, source hand-state distinctions and no scenery/swatches.",
+            "reason": "Historical same-story cover recovered; replace invented short-haired identity instead of feminizing it.",
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T20:41:18.121725+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "backendModel": null,
+            "prompt": "Create ONE finished landscape 1536x1024 (3:2) character-reference folio, quiet warm ivory support, generously spaced and completely unclipped, very legible restrained dark serif identifying text. Canadian Group of Seven-inspired oil painting from broad connected colour and value masses, decisive directional bristle strokes, selective substantial sculptural impasto, quieter connecting passages, scraped edges and exposed underpainting. Faces, hands and clothes must all be built out of this same matte paint; no smooth photographic/anime face, shiny eyes, CGI, uniform individually beveled paint chips or texture overlay. Match the supplied Coris folio only for painterly handling and ivory sheet presentation, never its person, clothes, green facial spots or pencils. Match the workroom painting only for subdued warm indoor lamp light with deep connected blue-grey/plum shadows: this is a night-time character, no sunlight, white studio fill, dramatic rim lighting or orange/blue spectacle. The reference workroom is NOT to appear. No backgrounds, scenery, rooms, furniture, floor or ground patches, scene vignette, decorative palette or paint swatches. One identity only, consistent face, hair, apparent age, build, clothing and head/body proportions across every view. Exactly two or three useful whole-body views plus a few relevant close studies, enough breathing room to read each.\nHeading EXACTLY \"Unnamed protagonist\"; subtitle EXACTLY \"A Darkness Written Under Skin\". Correct an earlier misidentified design using the historical cover. Depict a young WOMAN about twenty; retain ONLY the YOUNGER SEATED LEFT WOMAN from the two-person workroom cover. Long near-black hair tied back into a loose bun with long face-framing strands, slim oval face, straight dark eyebrows, dark matte eyes, medium warm olive/light-brown complexion, slender ordinary young-adult build. She is NOT the older standing mother on the right. Her compatible clothing: plain indigo-charcoal work coat over an off-white collared work shirt, muted mauve cloth waist tie, rolled sleeves during inspection. Full lower-body completion is restrained interpretation: simple dark work trousers and worn low brown work boots. No armor, crown or jewelry. Do not use any previous short-haired androgynous design.\nArrange a front three-quarter full figure and a rear three-quarter full figure at identical scale in the left two-thirds, both the same indigo coat and tied-back hairstyle; one large painted portrait of that exact young woman at upper right. On lower right two matching palm/wrist/forearm close studies, exactly the SAME left arm in the same pose, labelled \"Lamplight\" and \"UV inspection\". In ordinary yellow lamplight her skin is entirely BARE, including face, neck, both full figures and normal-light arm. ONLY in the UV-labelled isolated arm study, a restrained external violet light reveals very DARK black-violet fine branching subdermal channels winding around wrist tendon and entering palm, continuing toward sleeve. Branches are darker than the surrounding skin, not emissive. No glowing outlines, no beam coming from her body, no surface tattoo or raised scar. Five ordinary fingers per study. No mother's red whorls or brother's amber loops anywhere. The planned graft was cancelled: no bandages, fresh scars, cuts, implants or new graft. Her expression is guarded and quietly self-possessed; read as one particular young woman with the historical cover's identity rendered in collection oils. Keep all head and boot silhouettes inside the canvas. No other person's hand, face or body. Do not print any process notes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/art-reference-audit/a-darkness-written-under-skin/f31d7ac27586-cover.jpg",
+                "role": "Identity reference ONLY the YOUNG SEATED WOMAN AT LEFT: tied-back long dark hair, face shape, indigo work coat and pale collar. Older standing woman at right is her mother; exclude entirely.",
+                "sha256": "71464e9a67a464b5ca04b67e419248841550e9e578edbd69084574af122cb00f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Collection oil handling and character-only ivory layout only; do not borrow Coris's identity, wardrobe, pencils or green marks.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/title-image.jpg",
+                "role": "Current-story hand facts only: dark branching channels under external UV, bare ordinary-light skin. No smooth rendering or glowing branch edges.",
+                "sha256": "fe7c32cdbaa9fbfa4a9c49f1310461bd592fc25d403dc1265e10bafa584313d7",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Same-story night lamplight, connected low values and broad oil handling only; omit the entire environment.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full finished story read; relevant actual reference pixels inspected; one identity and correct per-character marks checked. Historical cover supplies only compatible identity. No scenery/swatches; night light and feasible two/three-view folio checked.",
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-48c3afe5-77bd-4285-9ca1-e11d15402ea1.png",
+            "outputSha256": "1875efd8a7b56c42d882b374eea4cfd6a9547ee39e0169a402da8677597dffaa",
+            "finishedAt": "2026-09-23T20:46:37.093845+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual generated pixels preserve historical tied-back hair and blue work coat; same identity throughout. User rejected Unnamed protagonist heading.",
+              "Face and hair still retain too much of historical anime finish; repaint these areas in the same broad matte oils as other collection sheets. Dark UV branches and bare ordinary skin are correctly separated."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "startedAt": "2026-09-23T20:51:10.777936+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "prompt": "Edit the FIRST image, retaining its exact subject identity, two unclipped full-body views, portrait, identical ordinary-light/UV arm studies, layout, night-time subdued lamplight, ivory background and 1536x1024 landscape size. Make these two targeted corrections. 1: Replace the entire large heading \"Unnamed protagonist\" with the proper name EXACTLY \"Leora Sloane\", same dark serif typographic hierarchy, comfortably inside margins. Keep subtitle \"A Darkness Written Under Skin\", \"Lamplight\" and \"UV inspection\". Print no Unnamed/Unknown labels. 2: Repaint the young woman's face and hair, including both small full-body heads, with the same substantial matte broad opaque oil masses as the second sheet's paint handling. It must look like actual Canadian Group of Seven-inspired painted colour shapes, including economical matte eyes and lips and broad bundled locks; remove anime pen contours, glossy/silky strand detail and smooth facial modelling. Preserve Leora's specific slim oval face, age around twenty, feminine identity, near-black long hair tied into loose bun with face-framing strands, skin colour, indigo coat, pale collar, mauve waist tie and ordinary work trousers/boots. Keep both body views exactly the same woman, scale and proportions. Do NOT borrow the second image's mature age, short hair, facial shape, outfit, equipment or name. Strengthen selective thick oil on the hands and clothes to match, without coating everything in equally sized shiny paint chips. Keep connected low-value night shadows and restrained warm planes. Invariant: ordinary-light face, neck, full figures and left hand study entirely bare; only right UV study contains DARK non-emissive fine subdermal branches, no glowing edges. All five fingers per hand, same limb pose. No added locations, floor patches, swatches, palette, weapons, tattoos, other people or graft marks.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-48c3afe5-77bd-4285-9ca1-e11d15402ea1.png",
+                "role": "Edit target: retain particular young woman's historical identity, clothing, composition and correct hand states; heading and paint construction need revision.",
+                "sha256": "1875efd8a7b56c42d882b374eea4cfd6a9547ee39e0169a402da8677597dffaa",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+                "role": "Paint construction ONLY: broad matte oil-built faces, hair and cloth; never this practitioner's identity, short hair, age, clothing or tools.",
+                "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full current source read; actual attached reference pixels inspected. Exact supported or explicitly assigned name resolved before call. Distinct one-character identity, source states, feasible framing, motivated lighting and character-only swatch-free oil treatment checked.",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-aeecd27a-2641-496d-b4fe-e61ba33a60e5.png",
+            "outputSha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "finishedAt": "2026-09-23T20:58:11.235880+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Exact Leora Sloane heading and story title readable; two consistent female full views, tied-back long dark hair and historical work-clothes identity preserved.",
+              "Actual pixels inspected: face, hair, hands and coat now built from matte broad paint masses, keeping low-value indigo/walnut night-time modelling. Portrait and body proportions match.",
+              "Both normal-light figures and ordinary-light arm unmarked. Same five-finger hand in UV study has dark non-emissive branches; no brother amber loops, mother whorls, graft or scenery/swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-48c3afe5-77bd-4285-9ca1-e11d15402ea1.png",
+            "role": "Edit target: retain particular young woman's historical identity, clothing, composition and correct hand states; heading and paint construction need revision.",
+            "sha256": "1875efd8a7b56c42d882b374eea4cfd6a9547ee39e0169a402da8677597dffaa",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Paint construction ONLY: broad matte oil-built faces, hair and cloth; never this practitioner's identity, short hair, age, clothing or tools.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-aeecd27a-2641-496d-b4fe-e61ba33a60e5.png",
+        "selectionEvidence": "Root and fresh independent reviewer inspected corrected identity against original front figure/portrait and source facts; user acceptance pending.",
+        "selectedAttempt": 5
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:58:11.235880+00:00",
+        "reviewedBy": "coordinator actual-pixel review",
+        "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+        "outputSha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-48c3afe5-77bd-4285-9ca1-e11d15402ea1.png",
+            "role": "Edit target: retain particular young woman's historical identity, clothing, composition and correct hand states; heading and paint construction need revision.",
+            "sha256": "1875efd8a7b56c42d882b374eea4cfd6a9547ee39e0169a402da8677597dffaa",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Paint construction ONLY: broad matte oil-built faces, hair and cloth; never this practitioner's identity, short hair, age, clothing or tools.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Exact Leora Sloane heading and story title readable; two consistent female full views, tied-back long dark hair and historical work-clothes identity preserved.",
+          "Actual pixels inspected: face, hair, hands and coat now built from matte broad paint masses, keeping low-value indigo/walnut night-time modelling. Portrait and body proportions match.",
+          "Both normal-light figures and ordinary-light arm unmarked. Same five-finger hand in UV study has dark non-emissive branches; no brother amber loops, mother whorls, graft or scenery/swatches."
+        ],
+        "userApproval": "Full run and naming authorized; final collection review pending.",
+        "specificationSha256": "9b3d06a17632af363d1da0b9993539ec2f4ce42340ef92512900c1552c7ef4f4"
+      },
+      "exampleDirection": "Character-only Canadian Group of Seven-inspired oil folio on quiet ivory; no location, vignette or scenic content.",
+      "outputSha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+      "presentationPreferences": {
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "reason": "Latest user request: remove the paint swatches; they are not needed.",
+        "application": "Existing selected focal-adult preview already has no swatches or palette strip. No image edit or generation attempt was required."
+      },
+      "userFeedback": [
+        {
+          "recordedAt": "2026-09-23T20:22:08.063056+00:00",
+          "verbatim": "check #6 i think we mixing characters here...",
+          "priorOutputSha256": "0983e78a2f0c833f82dfc71addef320ee6a9b00e128b53bc45ec057665643c32",
+          "auditFinding": "Full source and all generation references checked. No borrowed brother/mother/practitioner traits found. Rear coat view has narrower profile and taller head/body proportions than front/portrait: internal likeness drift needs correction."
+        },
+        {
+          "recordedAt": "2026-09-23T20:28:53.976807+00:00",
+          "verbatim": "i think the main chracter in that story was female.",
+          "priorOutputSha256": "330832078e864457437ad37c7510dfd12c5705908efcdea283d8320f916110d5",
+          "application": "Use female protagonist consistently in reference art. Root and independent auditor confirm current source/prompt/LOCKED authority leave gender unspecified, so this is compatible user-directed visual interpretation; no prose/canon edit."
+        }
+      ],
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "currentSource": "Current finished prose and review name no people; focal person is twenty-year-old dye worker, elder sibling, intended female by explicit user clarification.",
+        "historicalSource": [
+          {
+            "commit": "40feecc9",
+            "path": "stories/a-darkness-written-under-skin/story.md",
+            "line": 10,
+            "name": "Leora Sloane"
+          },
+          {
+            "commit": "39c5c768",
+            "path": "stories/a-darkness-written-under-skin/story.md",
+            "line": 10,
+            "name": "Leora Sloane"
+          }
+        ],
+        "historicalIdentityCaution": "Later rewrite materially changed scenario and powers. Do not silently restore discarded faculties or assert historical name as current canon.",
+        "displayName": "Leora Sloane",
+        "sourceIdentity": "focal-adult",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "sourceIdentityId": "focal-adult",
+      "nameAssignment": {
+        "name": "Leora Sloane",
+        "kind": "historical-name-restored-for-art",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "Unnamed protagonist",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname.",
+        "evidence": "Leora Sloane explicitly appears in finished prose at 40feecc9 and 39c5c768, line 10. Latest user authorizes naming all missing-name characters."
+      }
+    },
+    {
+      "id": "brennet-sloane",
+      "name": "Brennet Sloane",
+      "role": "Substantial supporting character; discovers hidden mark and performs warmth comparison",
+      "selectionEvidence": [
+        {
+          "line": 22,
+          "quote": "His own birth mark, a loop of amber resin running from palm to forearm",
+          "explanation": "Explicit defining physical faculty."
+        },
+        {
+          "line": 192,
+          "quote": "His amber loops darkened.",
+          "explanation": "He supplies the controlled comparison and its emotional cost."
+        }
+      ],
+      "form": "Human male",
+      "storyAppearance": {
+        "anatomy": "Ordinary human boy/young man with palm-to-forearm resin channels.",
+        "lifeStage": "Younger than twenty-year-old focal adult; exact present age unspecified.",
+        "proportions": "Ordinary youthful human.",
+        "markings": "Amber resin loop/loops palm to forearm; darken during active warming; disappear under UV rather than fluoresce.",
+        "materials": "Living skin and amber-resin birth mark.",
+        "clothing": "Shirt with white lint and singed cuff, trousers.",
+        "equipment": "Black-light inspection lamp, frayed cord; tin cup in demonstration.",
+        "scale": "Ordinary human younger sibling.",
+        "movement": "Fidgets, rubs palm on trousers, holds hands together, withdraws injured-feeling hand.",
+        "distinctiveFeatures": "Amber-marked palm; warmth manifests pink flush on recipient, not flame."
+      },
+      "explicitCanon": [
+        "LOCKED: amber-resin loops enable direct warmth by touch and heating an ordinary metal object.",
+        "Faculty belongs to living brother, not autonomous ink.",
+        "No exact age, face or hair colour given."
+      ],
+      "visualInterpretation": [
+        "Late-adolescent male younger brother with short untidy dark hair and medium warm tan skin compatible with the inspected current Leora Sloane sheet; plain undyed shirt, charcoal trousers and worn work shoes. Exact face and present age are visual interpretations.",
+        "Amber-resin loop from palm to forearm is source fact; resting amber and active dark amber states. Heat remains invisible, with no emitted light or flame."
+      ],
+      "states": [
+        {
+          "label": "At rest",
+          "description": "Amber resin loops visible in ordinary light."
+        },
+        {
+          "label": "Warming",
+          "description": "Amber loops darken while he intentionally touches another hand."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+          "role": "Environment, lighting, palette and impasto handling",
+          "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+          "inspected": true,
+          "notes": "Warm ochre lamplight, violet inspection lamp, madder-red/walnut stains, blue-violet night shadows, thick textured wood and stone; no character identity supplied."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-darkness-written-under-skin:younger-brother",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-darkness-written-under-skin/art/characters/brennet-sloane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE finished character reference folio, 1536x1024 landscape 3:2. Exact large heading at upper left \"Brennet Sloane\"; smaller story title immediately below \"A Darkness Written Under Skin\".\n\nImage 1 is the accepted Leora Sloane sheet: match its tangible matte oil paint, joined walnut/slate colour masses, broad directional bristle marks, selectively thick paint, restrained ordinary yellow lamplight, quiet ivory folio and readable understated serif lettering. Brennet is her younger brother, a DIFFERENT male character. Do not copy Leora's hairstyle, clothing or dark branching channels.\nImage 2 supplies the story's quiet yellow work-lamplight and walnut, ochre, blue-grey and muted plum shadow relationships only. NO room, furniture, floor, lamp apparatus or scenery.\n\nBrennet is a late-adolescent young man with ordinary lean youthful proportions, short untidy dark hair and medium warm tan skin, a worried but lively face. Plain undyed linen work shirt with collar, long sleeves and a few white lint flecks; one cuff has a small singed edge. Charcoal trousers and plain worn dark work shoes. Distinctively his own face, compatible with family resemblance. No weapons, uniform, jewelry or invented scars.\nHis birth mark is AMBER RESIN in rounded looping channels running from the centre of his palm across wrist onto inner forearm. It is visible amber under ordinary lamplight and darkens to deeper brown-amber when actively warming by touch. These are looping lines, NOT Leora's branching black-violet channels. They do not glow or emit flames, rays, sparks, halos or light. His faculty warms by intentional touch and can warm an ordinary tin cup. No injured hand or bandage.\n\nOn uninterrupted warm ivory, arrange two complete unclipped isolated figure views at left: front three-quarter with one sleeve loosely rolled to expose wrist, and back three-quarter with same clothes and a clearly complete pair of shoes. A worried attentive face study occupies upper right, equally boldly oil painted; no glossy portrait insert. At lower right show two matched palm-and-forearm detail studies, labelled \"At rest\" and \"Warming\", with respectively amber loops and darker amber loops. No other person's hand; show the warming hand resting loosely around a simple small tin cup if useful, without steam or glow. Add one small close study of the same singed shirt cuff labelled \"Singed cuff\". Use only these short labels and identifying title. No explanatory paragraph.\nRender all skin, eyes, hands, clothes and metal as decisive broad matte opaque brush shapes, as strongly simplified as a Canadian Group of Seven painting. Large connected value masses first, varied directional bristle marks and substantial selective impasto, quieter linking passages. Faces must be as painted as clothes. No uniform bevel-lit chips, mechanical texture grid, photorealistic eyes, airbrush, CGI, anime, shiny skin, tiny gold edge glints or cinematic rim lighting. Subdued yellow lamplight on warm planes falls into connected walnut/plum shadows, not automatic outdoor daylight.\n\nSTRICT: character and personal clothing/gear only. No location vignette, scenic inset, ground/floor/terrain patches, cast ground shadows, table, plants, building, horizon, decorative prose, paint swatches or palette strip. No extra identity. Keep head/hands/feet comfortably inside canvas. Return the complete readable folio.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T21:12:43.005399+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: illustration-story. Create ONE finished character reference folio, 1536x1024 landscape 3:2. Exact large heading at upper left \"Brennet Sloane\"; smaller story title immediately below \"A Darkness Written Under Skin\".\n\nImage 1 is the accepted Leora Sloane sheet: match its tangible matte oil paint, joined walnut/slate colour masses, broad directional bristle marks, selectively thick paint, restrained ordinary yellow lamplight, quiet ivory folio and readable understated serif lettering. Brennet is her younger brother, a DIFFERENT male character. Do not copy Leora's hairstyle, clothing or dark branching channels.\nImage 2 supplies the story's quiet yellow work-lamplight and walnut, ochre, blue-grey and muted plum shadow relationships only. NO room, furniture, floor, lamp apparatus or scenery.\n\nBrennet is a late-adolescent young man with ordinary lean youthful proportions, short untidy dark hair and medium warm tan skin, a worried but lively face. Plain undyed linen work shirt with collar, long sleeves and a few white lint flecks; one cuff has a small singed edge. Charcoal trousers and plain worn dark work shoes. Distinctively his own face, compatible with family resemblance. No weapons, uniform, jewelry or invented scars.\nHis birth mark is AMBER RESIN in rounded looping channels running from the centre of his palm across wrist onto inner forearm. It is visible amber under ordinary lamplight and darkens to deeper brown-amber when actively warming by touch. These are looping lines, NOT Leora's branching black-violet channels. They do not glow or emit flames, rays, sparks, halos or light. His faculty warms by intentional touch and can warm an ordinary tin cup. No injured hand or bandage.\n\nOn uninterrupted warm ivory, arrange two complete unclipped isolated figure views at left: front three-quarter with one sleeve loosely rolled to expose wrist, and back three-quarter with same clothes and a clearly complete pair of shoes. A worried attentive face study occupies upper right, equally boldly oil painted; no glossy portrait insert. At lower right show two matched palm-and-forearm detail studies, labelled \"At rest\" and \"Warming\", with respectively amber loops and darker amber loops. No other person's hand; show the warming hand resting loosely around a simple small tin cup if useful, without steam or glow. Add one small close study of the same singed shirt cuff labelled \"Singed cuff\". Use only these short labels and identifying title. No explanatory paragraph.\nRender all skin, eyes, hands, clothes and metal as decisive broad matte opaque brush shapes, as strongly simplified as a Canadian Group of Seven painting. Large connected value masses first, varied directional bristle marks and substantial selective impasto, quieter linking passages. Faces must be as painted as clothes. No uniform bevel-lit chips, mechanical texture grid, photorealistic eyes, airbrush, CGI, anime, shiny skin, tiny gold edge glints or cinematic rim lighting. Subdued yellow lamplight on warm planes falls into connected walnut/plum shadows, not automatic outdoor daylight.\n\nSTRICT: character and personal clothing/gear only. No location vignette, scenic inset, ground/floor/terrain patches, cast ground shadows, table, plants, building, horizon, decorative prose, paint swatches or palette strip. No extra identity. Keep head/hands/feet comfortably inside canvas. Return the complete readable folio.",
+            "references": [
+              {
+                "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished prose previously read in this task; source hash confirmed unchanged. Younger brother's amber palm-to-forearm loops darken with intentional warming and disappear under UV. No flame or projection.",
+              "Inspected current Leora sheet and original workroom painting. Leora supplies paint/style and limited family resemblance, not identity or tattoo.",
+              "Two complete male figure views, face, palm state pair and cuff close detail fit unclipped ivory 3:2. No location or swatches; exact assigned name checked in existing nameAssignment."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-a3ccd36d-10e6-4872-aaf6-8156a60f8e52.png",
+            "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513",
+            "finishedAt": "2026-09-23T21:14:53.502792+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Complete native generated pixels inspected at full 1536x1024: exact Brennet Sloane and story title; one consistent late-adolescent male with short untidy dark hair, linen shirt, charcoal trousers and complete shoes in two views plus face.",
+              "Source-supported amber looping birthmark runs palm to forearm, distinct from Leora's branching black-violet channels. At-rest amber loops darken during tin-cup warming; no glow, flame, projection, bandages or injured hand.",
+              "Small singed cuff study matches source. Figure, face, hands and tin cup have coherent matte opaque oil shapes with warm subdued lamplight and dark walnut shadows, matching accepted family style.",
+              "Character-only quiet ivory composition has no scenic vignette, ground patch, swatches or palette. All figure extremities remain within canvas. Source/reference/output/specification hashes checked during selection."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+            "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+            "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-a3ccd36d-10e6-4872-aaf6-8156a60f8e52.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+        "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513",
+        "references": [
+          {
+            "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection paint handling, folio organization and compatible family resemblance only. Do not copy Leora's female identity, longer tied hair, clothing or black-violet channels.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+            "role": "Story-specific muted yellow work-lamplight, walnut/ochre/plum shadows and oil palette only. No environment, furniture or floor.",
+            "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Complete native generated pixels inspected at full 1536x1024: exact Brennet Sloane and story title; one consistent late-adolescent male with short untidy dark hair, linen shirt, charcoal trousers and complete shoes in two views plus face.",
+          "Source-supported amber looping birthmark runs palm to forearm, distinct from Leora's branching black-violet channels. At-rest amber loops darken during tin-cup warming; no glow, flame, projection, bandages or injured hand.",
+          "Small singed cuff study matches source. Figure, face, hands and tin cup have coherent matte opaque oil shapes with warm subdued lamplight and dark walnut shadows, matching accepted family style.",
+          "Character-only quiet ivory composition has no scenic vignette, ground patch, swatches or palette. All figure extremities remain within canvas. Source/reference/output/specification hashes checked during selection."
+        ],
+        "specificationSha256": "a576a3e86d701953f7720c53a450e492fad3d3b4f207ce6d227a6d332a00fdf6"
+      },
+      "sourceIdentityId": "younger-brother",
+      "nameAssignment": {
+        "name": "Brennet Sloane",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "Younger brother",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Brennet Sloane",
+        "sourceIdentity": "younger-brother",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "outputSha256": "0cb33a5f4626b1330885ee6c3848e4abc1d6d9db4610109cd49b0183a73d5513"
+    },
+    {
+      "id": "ilyse-sloane",
+      "name": "Ilyse Sloane",
+      "role": "Substantial supporting character; protective parent and dye worker",
+      "selectionEvidence": [
+        {
+          "line": 16,
+          "quote": "Her sleeves were rolled above the red-lake whorls at her elbows.",
+          "explanation": "Defining visible marks."
+        },
+        {
+          "line": 254,
+          "quote": "They said no",
+          "explanation": "She enforces focal adult's refusal amid conflict."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult woman.",
+        "lifeStage": "Mother of adult and younger sibling; precise age unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "Red-lake whorls at elbows, darkening when hands flex to keep dye colours separate.",
+        "materials": "Skin, ink-like red-lake marks, work cloth.",
+        "clothing": "Sleeves rolled above elbows; practical dye-worker clothes.",
+        "equipment": "Aftercare sheet, kettle, covered food; no magical staff.",
+        "scale": "Ordinary adult human.",
+        "movement": "Watches, bolts door, flexes marked hands, folds paper and counts fingers; protective controlled posture.",
+        "distinctiveFeatures": "Elbow whorls must be visible in at least one study."
+      },
+      "explicitCanon": [
+        "LOCKED: red-lake elbow whorls associated with keeping dyes from bleeding into each other.",
+        "Living mother is faculty user; dye and marks have no agency."
+      ],
+      "visualInterpretation": [
+        "Preserve older standing right woman from historical workroom cover: middle-aged lined face, narrow dark eyes, warm medium olive/light-brown skin, greying dark bun, muted rust outer robe and taupe work garment with waist sash. Details remain visual interpretation consistent with prose.",
+        "Red-lake whorls at elbows only; no protagonist branches, brother amber loops or borrowed Coris features."
+      ],
+      "states": [
+        {
+          "label": "Working",
+          "description": "Sleeves rolled, hands flexed and elbow whorls darkened."
+        },
+        {
+          "label": "Protective",
+          "description": "Quietly firm protective expression; isolated figure may hold folded aftercare sheet. No door or location."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+          "role": "Environment, lighting, palette and impasto handling",
+          "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+          "inspected": true,
+          "notes": "Warm ochre lamplight, violet inspection lamp, madder-red/walnut stains, blue-violet night shadows, thick textured wood and stone; no character identity supplied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/art-reference-audit/a-darkness-written-under-skin/f31d7ac27586-cover.jpg",
+          "role": "Identity reference ONLY the OLDER STANDING WOMAN AT RIGHT with greying dark bun, lined face, rust outer robe, taupe undergarment and red elbow whorls. Exclude young seated protagonist.",
+          "sha256": "71464e9a67a464b5ca04b67e419248841550e9e578edbd69084574af122cb00f",
+          "inspected": true
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-darkness-written-under-skin:mother",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-darkness-written-under-skin/art/characters/ilyse-sloane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit FIRST supplied sheet only. Replace heading \"Mother\" with proper name EXACTLY \"Ilyse Sloane\", in the same very readable dark serif; retain subtitle \"A Darkness Written Under Skin\". Preserve the particular middle-aged mother's identity, lined face, dark greying practical bun, rust work robe, taupe inner garment, cloth sash, rolled sleeves and all three full-body views plus both expressions and elbow studies. The rear view, side view and front must remain the same body size, face and hairstyle. Repaint ALL her faces and hair in substantial matte opaque oil masses like the SECOND sheet's handling, translated to this woman's different face: broad bristle planes for cheeks/nose/brow, simple matte dark eyes and broad bundled hair shapes. Remove fine anime outlines, thin silk-like strands, glossy eyes and smooth digital portrait finish. Preserve her mature thoughtful lined face; do not make her the second sheet's practitioner or copy that woman's short hairstyle, age, clothing or tools. Canadian Group of Seven-inspired directional oil rhythm, connected subdued night-time lamp shadows, restrained warm modelling; no sunny studio fill or rim light. Keep the compact red-lake elbow whorls at the exact elbow positions: relaxed lighter red, working darker red, never glowing. Keep legible FRONT/SIDE/BACK, Concerned/Firm and elbow-study captions, fold of aftercare paper, no scenery or swatches. No other person, no black-violet branch tattoo, no amber palm loops. Retain landscape1536x1024 warm ivory composition, complete unclipped shoes and heads.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T20:41:18.121725+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "backendModel": null,
+            "prompt": "Create ONE finished landscape 1536x1024 (3:2) character-reference folio, quiet warm ivory support, generously spaced and completely unclipped, very legible restrained dark serif identifying text. Canadian Group of Seven-inspired oil painting from broad connected colour and value masses, decisive directional bristle strokes, selective substantial sculptural impasto, quieter connecting passages, scraped edges and exposed underpainting. Faces, hands and clothes must all be built out of this same matte paint; no smooth photographic/anime face, shiny eyes, CGI, uniform individually beveled paint chips or texture overlay. Match the supplied Coris folio only for painterly handling and ivory sheet presentation, never its person, clothes, green facial spots or pencils. Match the workroom painting only for subdued warm indoor lamp light with deep connected blue-grey/plum shadows: this is a night-time character, no sunlight, white studio fill, dramatic rim lighting or orange/blue spectacle. The reference workroom is NOT to appear. No backgrounds, scenery, rooms, furniture, floor or ground patches, scene vignette, decorative palette or paint swatches. One identity only, consistent face, hair, apparent age, build, clothing and head/body proportions across every view. Exactly two or three useful whole-body views plus a few relevant close studies, enough breathing room to read each.\nHeading EXACTLY \"Mother\"; subtitle EXACTLY \"A Darkness Written Under Skin\". Depict ONLY the older standing woman at RIGHT of the historical two-person cover, mother of the twenty-year-old protagonist. Preserve her particular face: middle-aged with tired fine lines, narrow thoughtful dark eyes, gentle angular cheekbones, warm medium olive/light-brown skin; greying dark hair gathered in a practical bun with loose wisps. Ordinary adult human woman. Muted russet/rust long-sleeved outer work robe, taupe-grey inner work garment, plain dark cloth waist sash and worn dark work shoes; sleeves rolled above the elbows. No crown, jewelry or magical staff. This is a dye worker and protective mother, not the younger seated woman. Keep identical age, face, bun and body across front three-quarter, side and rear full figures, all unclipped and at same scale.\nDistinguishing canon: red-lake birth whorls at the elbows, darkening when she flexes her hands to prevent dyes bleeding. Show compact matte rust-red whorl at each elbow, not a full-body tattoo; a larger isolated bent-elbow study makes the placement clear. A small second hand/elbow study labelled \"Working\" has the same whorl deeper red while fingers gently flex, with no light or projected effect. Add two painted head expressions of the same woman: concerned, then quietly firm. A folded aftercare sheet may be held in one full view; leave paper writing indistinct. All skin remains ordinary apart from these red elbow whorls. Do not import the daughter's black-violet branching channels, brother's amber palm loops, purple beams or Coris's green spots. No extra people or detached hands belonging to others. Character-only: do not show the workroom, table or bolted door. Every form has the same bold matte oil construction.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/art-reference-audit/a-darkness-written-under-skin/f31d7ac27586-cover.jpg",
+                "role": "Identity reference ONLY the OLDER STANDING WOMAN AT RIGHT with greying dark bun, lined face, rust outer robe, taupe undergarment and red elbow whorls. Exclude young seated protagonist.",
+                "sha256": "71464e9a67a464b5ca04b67e419248841550e9e578edbd69084574af122cb00f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Collection oil handling and ivory layout only; no Coris identity, green spots, pencil or wardrobe.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Same-story night lamplight and oil masses only, no setting.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full finished story read; relevant actual reference pixels inspected; one identity and correct per-character marks checked. Historical cover supplies only compatible identity. No scenery/swatches; night light and feasible two/three-view folio checked.",
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-e3edb983-e1b1-4805-a47b-60cb357fcd41.png",
+            "outputSha256": "a0090cb6d6103a823edee737bff281ad0657842bf1d51d8fcd3996d00a26d676",
+            "finishedAt": "2026-09-23T20:46:37.093845+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels correctly preserve historical older standing mother and red-lake elbow whorls, consistent three views and two expressions, exact role heading and title, no scenery or swatches.",
+              "Faces and hair still too finely outlined from anime cover; repaint to full matte broad oil masses without changing identity."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T20:51:10.777936+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "prompt": "Edit FIRST supplied sheet only. Replace heading \"Mother\" with proper name EXACTLY \"Ilyse Sloane\", in the same very readable dark serif; retain subtitle \"A Darkness Written Under Skin\". Preserve the particular middle-aged mother's identity, lined face, dark greying practical bun, rust work robe, taupe inner garment, cloth sash, rolled sleeves and all three full-body views plus both expressions and elbow studies. The rear view, side view and front must remain the same body size, face and hairstyle. Repaint ALL her faces and hair in substantial matte opaque oil masses like the SECOND sheet's handling, translated to this woman's different face: broad bristle planes for cheeks/nose/brow, simple matte dark eyes and broad bundled hair shapes. Remove fine anime outlines, thin silk-like strands, glossy eyes and smooth digital portrait finish. Preserve her mature thoughtful lined face; do not make her the second sheet's practitioner or copy that woman's short hairstyle, age, clothing or tools. Canadian Group of Seven-inspired directional oil rhythm, connected subdued night-time lamp shadows, restrained warm modelling; no sunny studio fill or rim light. Keep the compact red-lake elbow whorls at the exact elbow positions: relaxed lighter red, working darker red, never glowing. Keep legible FRONT/SIDE/BACK, Concerned/Firm and elbow-study captions, fold of aftercare paper, no scenery or swatches. No other person, no black-violet branch tattoo, no amber palm loops. Retain landscape1536x1024 warm ivory composition, complete unclipped shoes and heads.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-e3edb983-e1b1-4805-a47b-60cb357fcd41.png",
+                "role": "Edit target: retain particular mother, red elbow whorls and isolated sheet; replace heading and remove anime face/hair rendering.",
+                "sha256": "a0090cb6d6103a823edee737bff281ad0657842bf1d51d8fcd3996d00a26d676",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+                "role": "Broad matte oil construction only; not practitioner's face, short hair, outfit or props.",
+                "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full current source read; actual attached reference pixels inspected. Exact supported or explicitly assigned name resolved before call. Distinct one-character identity, source states, feasible framing, motivated lighting and character-only swatch-free oil treatment checked.",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-8f27ff32-e584-42ea-b4e3-3debd5981598.png",
+            "outputSha256": "940407cc3c8de0c597220253ddd27ef5eb9bc0b8256f9a45210450611fe6bf76",
+            "finishedAt": "2026-09-23T20:58:11.235880+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Exact Ilyse Sloane heading and story title; source identity is Leora's mother, historical older standing right woman.",
+              "Actual pixels inspected: same mature lined face, greying bun, rust robe, sash and proportions across all three complete views and portraits; broader matte oil rendering now includes faces and hair.",
+              "Red-lake whorls stay at elbows, deeper red in flexed state, no glow or borrowed family channels. No location, ground patches, palette or swatches; shoes and text contained."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-e3edb983-e1b1-4805-a47b-60cb357fcd41.png",
+            "role": "Edit target: retain particular mother, red elbow whorls and isolated sheet; replace heading and remove anime face/hair rendering.",
+            "sha256": "a0090cb6d6103a823edee737bff281ad0657842bf1d51d8fcd3996d00a26d676",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Broad matte oil construction only; not practitioner's face, short hair, outfit or props.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "selectedAttempt": 2,
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-8f27ff32-e584-42ea-b4e3-3debd5981598.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:58:11.235880+00:00",
+        "reviewedBy": "coordinator actual-pixel review",
+        "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+        "outputSha256": "940407cc3c8de0c597220253ddd27ef5eb9bc0b8256f9a45210450611fe6bf76",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-e3edb983-e1b1-4805-a47b-60cb357fcd41.png",
+            "role": "Edit target: retain particular mother, red elbow whorls and isolated sheet; replace heading and remove anime face/hair rendering.",
+            "sha256": "a0090cb6d6103a823edee737bff281ad0657842bf1d51d8fcd3996d00a26d676",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Broad matte oil construction only; not practitioner's face, short hair, outfit or props.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Exact Ilyse Sloane heading and story title; source identity is Leora's mother, historical older standing right woman.",
+          "Actual pixels inspected: same mature lined face, greying bun, rust robe, sash and proportions across all three complete views and portraits; broader matte oil rendering now includes faces and hair.",
+          "Red-lake whorls stay at elbows, deeper red in flexed state, no glow or borrowed family channels. No location, ground patches, palette or swatches; shoes and text contained."
+        ],
+        "userApproval": "Full run and naming authorized; final collection review pending.",
+        "specificationSha256": "9714528c91f386dfd83275a06988a9a34f37381e4a2abb123f97abdb500c6daa"
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Ilyse Sloane",
+        "evidence": "Current source identifies her repeatedly as the focal adult's mother; historical f31d7ac2 cover shows older standing right figure with red elbow whorls, distinct from younger seated protagonist.",
+        "personalName": "Not supplied in current source or the applicable workroom-version history; precise role heading used, no Unnamed placeholder or invented name.",
+        "sourceIdentity": "mother",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "sourceIdentityId": "mother",
+      "nameAssignment": {
+        "name": "Ilyse Sloane",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "Mother",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "outputSha256": "940407cc3c8de0c597220253ddd27ef5eb9bc0b8256f9a45210450611fe6bf76"
+    },
+    {
+      "id": "caldra",
+      "name": "Caldra",
+      "role": "Substantial supporting character; discovers channels, halts graft and oversees test",
+      "selectionEvidence": [
+        {
+          "line": 108,
+          "quote": "I'm not putting new ink through that.",
+          "explanation": "Her decision cancels the awaited graft."
+        },
+        {
+          "line": 302,
+          "quote": "Existing channel structure suspected. Planned graft contraindicated pending consultation.",
+          "explanation": "She records the careful clinical conclusion."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human woman; own birth mark exists by society rule but is not described or located.",
+        "lifeStage": "Adult professional; age unspecified.",
+        "proportions": "Unspecified ordinary human.",
+        "markings": "No specified visible personal mark; do not invent a conspicuous design.",
+        "materials": "Human skin, practical cloth garments.",
+        "clothing": "Unspecified practical work clothes; no assumed modern medical branding.",
+        "equipment": "Glass rod, grey graft vial, test paper and chalk ring, clean cloth, glass plate, tool case and consultation form.",
+        "scale": "Ordinary adult.",
+        "movement": "Careful hand gestures, bends to inspect, keeps hands off when refused; seated opposite test subject.",
+        "distinctiveFeatures": "Glass rod and sealed grey vial as separate tool studies; no procedure depicted as completed."
+      },
+      "explicitCanon": [
+        "Woman practitioner preparing artificial-ink graft; cancels it after discovering channels.",
+        "Respects eventual refusal and leaves faculty unspecified on form."
+      ],
+      "visualInterpretation": [
+        "Mature woman around fifty, square face, short close-cut iron-grey hair, medium muted brown complexion and sturdy average build; no existing same-character face reference found. Olive-grey high-neck work jacket, linen apron, charcoal trousers and closed leather shoes. All unspecified details are restrained interpretation.",
+        "Tools and controlled posture convey professional role; no visible invented birth mark, completed surgery or supernatural aura."
+      ],
+      "states": [
+        {
+          "label": "Preparing graft",
+          "description": "Glass rod lifts a grey thread from vial over test paper."
+        },
+        {
+          "label": "Consultation",
+          "description": "Vial stoppered and tools packed; writing form."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+          "role": "Environment, lighting, palette and impasto handling",
+          "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+          "inspected": true,
+          "notes": "Warm ochre lamplight, violet inspection lamp, madder-red/walnut stains, blue-violet night shadows, thick textured wood and stone; no character identity supplied."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-darkness-written-under-skin:practitioner",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-darkness-written-under-skin/art/characters/caldra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make one precise text edit to this supplied 1536x1024 character sheet. Replace only the large top-left heading \"Practitioner\" with the proper name EXACTLY \"Caldra\", using the same dark serif style and visual weight, with generous clear space. Keep \"A Darkness Written Under Skin\" directly beneath and retain Glass rod, Graft vial, Tool case labels exactly. Preserve every character, pose, identity, face, hairstyle, clothing, hand, glass rod, grey ink thread, vial, case, consultation form, paint stroke, colour, lighting and ivory background from the supplied image. Do not redraw or restyle any artwork. No new text, locations, palette or paint swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T20:41:18.121725+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "backendModel": null,
+            "prompt": "Create ONE finished landscape 1536x1024 (3:2) character-reference folio, quiet warm ivory support, generously spaced and completely unclipped, very legible restrained dark serif identifying text. Canadian Group of Seven-inspired oil painting from broad connected colour and value masses, decisive directional bristle strokes, selective substantial sculptural impasto, quieter connecting passages, scraped edges and exposed underpainting. Faces, hands and clothes must all be built out of this same matte paint; no smooth photographic/anime face, shiny eyes, CGI, uniform individually beveled paint chips or texture overlay. Match the supplied Coris folio only for painterly handling and ivory sheet presentation, never its person, clothes, green facial spots or pencils. Match the workroom painting only for subdued warm indoor lamp light with deep connected blue-grey/plum shadows: this is a night-time character, no sunlight, white studio fill, dramatic rim lighting or orange/blue spectacle. The reference workroom is NOT to appear. No backgrounds, scenery, rooms, furniture, floor or ground patches, scene vignette, decorative palette or paint swatches. One identity only, consistent face, hair, apparent age, build, clothing and head/body proportions across every view. Exactly two or three useful whole-body views plus a few relevant close studies, enough breathing room to read each.\nHeading EXACTLY \"Practitioner\"; subtitle EXACTLY \"A Darkness Written Under Skin\". One ordinary adult human woman, a careful professional who prepares an artificial-ink graft then cancels it upon discovering unknown channels. Her own mark is unspecified, so show no conspicuous invented personal mark. Restrained recorded visual interpretation: mature woman around fifty, broad square face, straight nose, short close-cut iron-grey hair, medium muted brown complexion, sturdy average build. Distinct from the family and from Coris. Plain olive-grey high-neck long-sleeved work jacket, natural linen apron, charcoal trousers and plain closed leather shoes. Hands clean and unadorned, calm controlled gestures. No modern logos, stethoscope, fantasy healer staff, mask, goggles, armor or jewelry.\nTwo whole-body views at same scale (front three-quarter and rear three-quarter), one shoulder-up portrait with attentive thoughtful expression. Separate enlarged close studies of her hand lifting a very fine grey thread of artificial ink from a small glass vial on a glass rod, plus the same stoppered grey vial beside a closed plain dark tool case and a blank consultation form. These are small isolated objects, no table or scenery. The grey ink holds as a thread instead of dripping freely; does not glow and is not alive. In main full-body view she can simply hold the closed case; no surgery, patient, needles entering flesh, surgical scars or completed graft. Do not add other people's hands, the protagonist's dark UV branches or family elbow/palm marks. Painted glass should have restrained broad opaque facets, no CGI sparkle. Nighttime warm lamp modelling with connected subdued cool shadows, equally matte and boldly brushed face and tools. Exact text only in heading, story subtitle and short labels \"Glass rod\", \"Graft vial\", \"Tool case\".",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Collection oil handling and isolated ivory sheet layout only; do not borrow Coris identity, clothing, green spots or pencils.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-darkness-written-under-skin/art/interiors/01-dye-workroom-at-night.png",
+                "role": "Same-story night lamp palette and tool-case/glass-vial material family only; no environmental content.",
+                "sha256": "e739de2daf02259b56b32f19cf2630c60b3635498c79b4a2cb06c2628f5a9510",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full finished story read; relevant actual reference pixels inspected; one identity and correct per-character marks checked. Historical cover supplies only compatible identity. No scenery/swatches; night light and feasible two/three-view folio checked.",
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "outputSha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "finishedAt": "2026-09-23T20:46:37.093845+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual full 1536x1024 image visually inspected: two unclipped full views and portrait preserve short grey hair, square face, jacket/apron and proportions.",
+              "Strong matte impasto constructs the face, cloth, glass and case; muted warm lamp modelling and cool shadow masses match the story interior without importing scenery.",
+              "Glass rod raises grey thread from vial; separate sealed vial, case and form correctly belong to practitioner. No patient, completed graft, invented birth mark or borrowed family channels.",
+              "Exact Practitioner role and story title are readable; no location, floor patch, palette or paint swatches."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T20:51:10.777936+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "prompt": "Make one precise text edit to this supplied 1536x1024 character sheet. Replace only the large top-left heading \"Practitioner\" with the proper name EXACTLY \"Caldra\", using the same dark serif style and visual weight, with generous clear space. Keep \"A Darkness Written Under Skin\" directly beneath and retain Glass rod, Graft vial, Tool case labels exactly. Preserve every character, pose, identity, face, hairstyle, clothing, hand, glass rod, grey ink thread, vial, case, consultation form, paint stroke, colour, lighting and ivory background from the supplied image. Do not redraw or restyle any artwork. No new text, locations, palette or paint swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+                "role": "Exact selected practitioner sheet to rename; all painted character and equipment pixels otherwise preserved.",
+                "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+                "inspected": true
+              }
+            ],
+            "preflight": "Full current source read; actual attached reference pixels inspected. Exact supported or explicitly assigned name resolved before call. Distinct one-character identity, source states, feasible framing, motivated lighting and character-only swatch-free oil treatment checked.",
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-2592cb8a-976e-4fe0-ae6c-4ed289180091.png",
+            "outputSha256": "6c4e5970046963dce4dfe328532843c04d6e532b02e746c8ba0833f5a9099abb",
+            "finishedAt": "2026-09-23T20:58:11.235880+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual named output inspected against prior practitioner sheet: exact Caldra heading; story title and all artwork retained.",
+              "One mature short-grey-haired practitioner identity in two complete views and portrait; matte impasto face, clothing and tools.",
+              "Grey thread on glass rod, separate sealed vial, plain case and form; no invented mark or completed graft, extra person, scenery or paint swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Exact selected practitioner sheet to rename; all painted character and equipment pixels otherwise preserved.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2,
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-2592cb8a-976e-4fe0-ae6c-4ed289180091.png",
+        "actualSize": "1536x1024",
+        "tool": "image_gen",
+        "backendModel": null,
+        "format": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T20:58:11.235880+00:00",
+        "reviewedBy": "coordinator actual-pixel review",
+        "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+        "outputSha256": "6c4e5970046963dce4dfe328532843c04d6e532b02e746c8ba0833f5a9099abb",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf0e-1c15-77d0-900e-9ae50c560da4/exec-435567c0-73f3-4834-ae4b-17a234c3eb2a.png",
+            "role": "Exact selected practitioner sheet to rename; all painted character and equipment pixels otherwise preserved.",
+            "sha256": "4292752cd4cba70bd3b9e2ee39f2744d2838cf2544485c845c5f84f693ec6dca",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual named output inspected against prior practitioner sheet: exact Caldra heading; story title and all artwork retained.",
+          "One mature short-grey-haired practitioner identity in two complete views and portrait; matte impasto face, clothing and tools.",
+          "Grey thread on glass rod, separate sealed vial, plain case and form; no invented mark or completed graft, extra person, scenery or paint swatches."
+        ],
+        "userApproval": "Full run and naming authorized; final collection review pending.",
+        "specificationSha256": "5a8470ef418f19c65619c28ec736ee404171e03f1de83b1978343bcfbcb1fa11"
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Caldra",
+        "evidence": "Current finished source names this woman practitioner throughout; she prepares then cancels graft and writes consultation form. No personal name supplied. No compatible existing same-character portrait found.",
+        "visualInterpretation": "Mature square face and short grey hair intentionally differentiate her from the mother, protagonist and brother.",
+        "sourceIdentity": "practitioner",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      },
+      "outputSha256": "6c4e5970046963dce4dfe328532843c04d6e532b02e746c8ba0833f5a9099abb",
+      "sourceIdentityId": "practitioner",
+      "nameAssignment": {
+        "name": "Caldra",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "Practitioner",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      }
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "732bb6c0644829e59fb20c22b56ec51d9a5e584aa3ad766e9a071d7f73a50fed",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}

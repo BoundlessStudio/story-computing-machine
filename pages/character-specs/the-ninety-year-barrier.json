@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-ninety-year-barrier",
+  "title": "The Ninety-Year Barrier",
+  "source": "stories/the-ninety-year-barrier/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Only the young basketmaker and Witch act in sustained scenes; their repair and mutual learning drive the entire story.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Aunt, uncle, cooper's wife, old villagers and historical dragon",
+      "reason": "Offstage recollections and errands, no ongoing individual role."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Source WHITE leaf-underleaf hair with green shadows and BROWN eyes overrides black-haired green-eyed cover witch.",
+    "Source reed hook/willow craft overrides cover berries/branch. Youngster coat/boots in story control weather clothing.",
+    "Living Witch supplies magic; tools, barrier, rings and bracelet do not act autonomously. No visible location-based barrier in character-only format."
+  ],
+  "characters": [
+    {
+      "id": "lethrissa",
+      "name": "Lethrissa",
+      "role": "Ancient barrier caster",
+      "selectionEvidence": [
+        {
+          "quote": "They were brown and terribly attentive.",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "It was white, but white like the underside of a leaf in strong sun, with green shadows where strands crossed.",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "the iron rings on her hand or the bracelet of woven bark at her wrist.",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "she pushed her feet into mud-caked boots.",
+          "explanation": "Final prose evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman witch",
+        "lifeStage": "Very old, exact age unknown; barrier took ninety years",
+        "proportions": "Unspecified; cover narrow face",
+        "markings": "Black fingernails",
+        "materials": "Iron rings, woven bark bracelet, apron, muddy boots",
+        "clothing": "Apron with pocket, sleeves pushed up in repair, boots",
+        "equipment": "Reed hook held temporarily, cord model in apron pocket; living magic source",
+        "scale": "Adult",
+        "movement": "Intent leaning curiosity; disciplined stillness, exhausted late",
+        "distinctiveFeatures": "Brown attentive eyes; white hair with green shadow"
+      },
+      "explicitCanon": [
+        "Hair WHITE, eyes BROWN, black fingernail, ironrings and barkbracelet.",
+        "Very old, no specific age; ninety-year casting does not mean90-yearold.",
+        "No autonomous magical rings/bracelet or sinister hunger for flesh."
+      ],
+      "visualInterpretation": [
+        "Art-only given name Lethrissa; preserves source title Witch of the Dark Forest.",
+        "Slender mature elderly olive-skinned face with deep eye/cheek lines, narrow nose, brown eyes; long white hair partly pinned loose, palegreen shadow under white locks.",
+        "Dark forestgreen anklelength practical dress, charcoal cloak, taupe apron with pocket, muddy brown boots. No pointy hat/skull/dragon/evil eye glow.",
+        "Full front/back outdoor rain states, two portraits attentive and exhausted; no separate hands or barrier scene."
+      ],
+      "states": [
+        {
+          "name": "Late rain",
+          "description": "Outdoor practical cloak/apron/boots and living woman."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ninety-year-barrier:lethrissa",
+        "links": [],
+        "evidence": "No related universe identity; source explicitly local unnamed people."
+      },
+      "references": [
+        {
+          "path": "stories/the-ninety-year-barrier/title-image.jpg",
+          "role": "Youngster face and rustic clothing identity; witch narrow face/cloak silhouette only",
+          "notes": "Cover witch dark hair/green eyes and berry props conflict with source white hair/brown eyes/reed work; source controls. No dragon, berries or scenery on sheets.",
+          "inspected": true,
+          "sha256": "c79994ba6ed23969b346000d5b28b9072e419075c500181e87ef821f4c648f92"
+        },
+        {
+          "path": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+          "role": "Broad oil material handling and small warm practical-light planes",
+          "inspected": true,
+          "sha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25"
+        },
+        {
+          "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+          "role": "Wet cool-gray/olive rainy lateafternoon light",
+          "inspected": true,
+          "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Lethrissa",
+        "sourceRole": "Witch of the Dark Forest",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "No recoverable source/outline name; searched existing name/spec/universe memory, distinct art-only assignment. No source/canon edit."
+      },
+      "output": "stories/the-ninety-year-barrier/art/characters/lethrissa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:25:40.499022+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nHeading \"Lethrissa\"; subtitle \"The Ninety-Year Barrier\". Small role line \"Witch of the Dark Forest\". One HUMAN WOMAN, very old barrier caster. Mature ELDERLY slender OLIVE-SKINNED narrow face, deep eye/cheek lines, narrow straight nose, terribly attentive ordinary BROWN EYES. LONG WHITE HAIR like the underside of a leaf in sun, pale GREEN SHADOWS where white strands overlap. White hair partly loosely pinned at back with long loose locks. NO black hair, gray-only hair, green eyes, red eyes or eye-glow. Exact age unknown, do not print an age.\nAnklelength practical DARK FORESTGREEN dress, plain CHARCOAL cloak, taupe working APRON with roomy pocket OVER the dress, mud-caked BROWN CLOSED BOOTS entirely visible. Simple dull IRON RINGS, woven BARK BRACELET and BLACK fingernails appear naturally on full figure only, no closeup or labeled sides. No pointy hat, crown, staff, skulls, armor or monster teeth. Her hunger is intense intellectual curiosity, not evil or seduction.\nLayout two complete standing FRONTTHREEQUARTER and BACK views: front cloak open enough to see apron and worn pocket, one forearm held naturally at waist with short ordinary cord peeking from apron pocket; back shows long WHITE hair over dark cloak and complete boots. Two separated medium face portraits at right: intent concentrated brow and late exhausted composed face. Facial details painted boldly, consistently elderly and brown-eyed. NO hand panels, no hands detached, no barrier diagram, no tools floating in magic and no second person.\nCOOL LATE RAIN light from image3: deep connected forestgreen/slate/umber shade, pale cool small planes on white hair and brow, tiny reflected warmth only. White hair NOT halo/selfluminous. Match thick opaque directional oil construction of image2 interior but not warm room setting. Pure quiet ivory around every silhouette, no floor/ground shadow/scenery/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto only, no youngface/redcloak transfer",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+                "role": "Broad oil handling and practical materials only",
+                "inspected": true,
+                "sha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25"
+              },
+              {
+                "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+                "role": "Cool rainy lateafternoon light and olive palette only",
+                "inspected": true,
+                "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c6746350-d1ec-47f7-bbbb-33f3a00ea8e7.png",
+            "outputSha256": "aaad3fecfc726edf252629b4678dd4851e28b8ada267c372a26d30ef2a812c82",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:27:28.120751+00:00",
+            "reviewFindings": [
+              "Actual pixels follow final prose white hair with palegreen shadows, brown attentive eyes and mature face, replacing conflicting cover traits. Apron/pocket, bark bracelet/iron rings, practical dress/cloak and mudboots present.",
+              "One woman across complete front/back plus attention/fatigue portraits, no invented magical powers or autonomous objects; anatomy natural. No isolated hand study.",
+              "Bold matte impasto covers face/hair/clothes; cool olive/slate shading, readable assigned name, storytitle and accurate source role. Ivory without scenery/floor/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source/prompt/outline/review and actual cover/interior/landscape inspected. Source overrides cover hair/eyes/berries. Updated user instruction excludes isolated hand studies; natural hands only in bodyviews.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no youngface/redcloak transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+            "role": "Broad oil handling and practical materials only",
+            "inspected": true,
+            "sha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+            "role": "Cool rainy lateafternoon light and olive palette only",
+            "inspected": true,
+            "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nHeading \"Lethrissa\"; subtitle \"The Ninety-Year Barrier\". Small role line \"Witch of the Dark Forest\". One HUMAN WOMAN, very old barrier caster. Mature ELDERLY slender OLIVE-SKINNED narrow face, deep eye/cheek lines, narrow straight nose, terribly attentive ordinary BROWN EYES. LONG WHITE HAIR like the underside of a leaf in sun, pale GREEN SHADOWS where white strands overlap. White hair partly loosely pinned at back with long loose locks. NO black hair, gray-only hair, green eyes, red eyes or eye-glow. Exact age unknown, do not print an age.\nAnklelength practical DARK FORESTGREEN dress, plain CHARCOAL cloak, taupe working APRON with roomy pocket OVER the dress, mud-caked BROWN CLOSED BOOTS entirely visible. Simple dull IRON RINGS, woven BARK BRACELET and BLACK fingernails appear naturally on full figure only, no closeup or labeled sides. No pointy hat, crown, staff, skulls, armor or monster teeth. Her hunger is intense intellectual curiosity, not evil or seduction.\nLayout two complete standing FRONTTHREEQUARTER and BACK views: front cloak open enough to see apron and worn pocket, one forearm held naturally at waist with short ordinary cord peeking from apron pocket; back shows long WHITE hair over dark cloak and complete boots. Two separated medium face portraits at right: intent concentrated brow and late exhausted composed face. Facial details painted boldly, consistently elderly and brown-eyed. NO hand panels, no hands detached, no barrier diagram, no tools floating in magic and no second person.\nCOOL LATE RAIN light from image3: deep connected forestgreen/slate/umber shade, pale cool small planes on white hair and brow, tiny reflected warmth only. White hair NOT halo/selfluminous. Match thick opaque directional oil construction of image2 interior but not warm room setting. Pure quiet ivory around every silhouette, no floor/ground shadow/scenery/swatches.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Cool late rain with deep olive/slate shade, small pale diffuse planes; no sunny golden cover light.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "aaad3fecfc726edf252629b4678dd4851e28b8ada267c372a26d30ef2a812c82",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:27:28.120751+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "aaad3fecfc726edf252629b4678dd4851e28b8ada267c372a26d30ef2a812c82",
+        "sourceSha256": "3f80eb5e87a6e8aec1de0024a15126b09c6d5f8f4f732fe4985dfa3ea6aafd56",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto only, no youngface/redcloak transfer",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+            "role": "Broad oil handling and practical materials only",
+            "inspected": true,
+            "sha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+            "role": "Cool rainy lateafternoon light and olive palette only",
+            "inspected": true,
+            "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+          }
+        ],
+        "evidence": [
+          "Actual pixels follow final prose white hair with palegreen shadows, brown attentive eyes and mature face, replacing conflicting cover traits. Apron/pocket, bark bracelet/iron rings, practical dress/cloak and mudboots present.",
+          "One woman across complete front/back plus attention/fatigue portraits, no invented magical powers or autonomous objects; anatomy natural. No isolated hand study.",
+          "Bold matte impasto covers face/hair/clothes; cool olive/slate shading, readable assigned name, storytitle and accurate source role. Ivory without scenery/floor/swatches."
+        ],
+        "specificationSha256": "5ac28cda8951bdfa0896b0672fe36d5505677b0bb488b811b352c85ce43d0e9a"
+      }
+    },
+    {
+      "id": "vemdin",
+      "name": "Vemdin",
+      "role": "Young village basketmaker solving the release",
+      "selectionEvidence": [
+        {
+          "quote": "You had cut it from an old spoon handle",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "wrapped the grip in waxed thread",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "your gathering basket",
+          "explanation": "Final prose evidence"
+        },
+        {
+          "quote": "the mud to your knees.",
+          "explanation": "Final prose evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human youngster, gender unspecified",
+        "lifeStage": "Young village member, exact age unknown",
+        "proportions": "Smaller than Witch in cover",
+        "markings": "Mud up to knees",
+        "materials": "Waxed-thread wrapped metal hook, willow/reeds, basket",
+        "clothing": "Coat, boots; cover patched rustic shirt/vest",
+        "equipment": "Gathering basket bent rim, willow bundle, small spoon-handle reed hook",
+        "scale": "Young human",
+        "movement": "Holds willow against hip, practiced careful craft motions",
+        "distinctiveFeatures": "Ordinary craft skill, no casting/powers"
+      },
+      "explicitCanon": [
+        "Reed hook from old SPOON HANDLE with waxed-thread grip, small ordinarytool not sword.",
+        "Basket bent rim; coat and boots; willow bundle not berries.",
+        "No secret magical powers or binding service."
+      ],
+      "visualInterpretation": [
+        "Art-only name Vemdin, source remains unnamed. Age15 artchoice/genderunspecified, cover tousled darkbrown hair and youthful round face with brown eyes, tanolive skin, small slim frame.",
+        "Undyed loose shirt under weathered brown vest, patched full brown trousers, mossgray knee-length practical coat and mudbrown closed boots for rain state; mud to knees.",
+        "Two fullbody front/back with bent-rim gathering basket and willow bundle, face study and isolated hook only; NO hands closeup or scenery."
+      ],
+      "states": [
+        {
+          "name": "Willow gathering",
+          "description": "Rain coat, basket and bundle, ordinary hook."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-ninety-year-barrier:vemdin",
+        "links": [],
+        "evidence": "No related universe identity; source explicitly local unnamed people."
+      },
+      "references": [
+        {
+          "path": "stories/the-ninety-year-barrier/title-image.jpg",
+          "role": "Youngster face and rustic clothing identity; witch narrow face/cloak silhouette only",
+          "notes": "Cover witch dark hair/green eyes and berry props conflict with source white hair/brown eyes/reed work; source controls. No dragon, berries or scenery on sheets.",
+          "inspected": true,
+          "sha256": "c79994ba6ed23969b346000d5b28b9072e419075c500181e87ef821f4c648f92"
+        },
+        {
+          "path": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
+          "role": "Broad oil material handling and small warm practical-light planes",
+          "inspected": true,
+          "sha256": "d656f61aaea14924ebe09ce0cbda3f5983f1b399f927fd20d9f12beb6ce73f25"
+        },
+        {
+          "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+          "role": "Wet cool-gray/olive rainy lateafternoon light",
+          "inspected": true,
+          "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Vemdin",
+        "sourceRole": "unnamed young basketmaker",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "No recoverable source/outline name; searched existing name/spec/universe memory, distinct art-only assignment. No source/canon edit."
+      },
+      "output": "stories/the-ninety-year-barrier/art/characters/vemdin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:27:29.128720+00:00",
+            "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Vemdin\"; subtitle \"The Ninety-Year Barrier\". One gender-unspecified village youngster, young teen approximately15 art choice. SECOND image cover supplies youngster identity only: tousled darkBROWN mop hair, tanolive skin, youthful round face/short nose, big BROWN eyes, small slim frame. Preserve recognizable ordinary village youth without copying anime drawing style. No magic, secret power, weapons or heroic armor.\nSource-correct WILLOW GATHERING clothing: undyed loose longsleeve shirt, worn BROWN vest, patched full BROWN TROUSERS, mossgray knee-length practical COAT and CLOSED mudbrown BOOTS. Mud reaches knees. Clothing modest, practical and intact enough for work. Cover's shortpants and berries are subordinate: use full trousers/boots/coat and REEDS/WILLOW, NO berries or berrybranch.\nLeft complete frontthreequarter with bent-rim WOVEN GATHERING BASKET held at hip and a light bundle of cut green WILLOW SHOOTS leaned against body, carried naturally as one character. Center full BACKTHREEQUARTER same coat/hair/trousers/boots and basket; keep all stems and shoes inside frame. Upperright young painted face with nervous attentiveness and another smaller face with practical concentration. Lower-right isolated SMALL REED HOOK only: dull metal OLD SPOON-HANDLE piece bent at tip, short waxed-thread wrapped grip, no carved runes/glow and no attached hand. Caption \"Reed hook\". It is spoonhandle-sized, NOT sickle, dagger or fishing rod.\nLate RAIN light, cool diffuse GRAY/OLIVE on skin/fabric and deep muted brown/slate shadow, no sunny golden cover lighting. Broad connected opaque MATTE oil strokes sculpt face/eyes/hair, same impasto as clothing, no anime outlines or smooth photographic face. Warm ivory clean, no roots, willow trees, floor shadows, ground patch, barrier strands, scene or palette swatches. NO isolated hands.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved impasto only",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/the-ninety-year-barrier/title-image.jpg",
+                "role": "Youngster face/hair and rustic garment identity only; source overrides shortpants/berries/anime/light",
+                "inspected": true,
+                "sha256": "c79994ba6ed23969b346000d5b28b9072e419075c500181e87ef821f4c648f92"
+              },
+              {
+                "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+                "role": "Cool wet lateafternoon oil palette/light",
+                "inspected": true,
+                "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d30a-36c8-7161-86fd-52635da838ba/exec-c8f2a829-eeb5-401e-964c-692d721b72c8.png",
+            "outputSha256": "9b630061923a0b21c5989583caf266b15b31e3fa59caed729ff6cd182ba6c513",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:29:01.045695+00:00",
+            "reviewFindings": [
+              "Source-correct young ordinary basketmaker: cover-derived brown tousled hair/youthful face, raincoat over rustic layers, muddy trousers/boots, willow bundle and bent-rim basket, no berry props.",
+              "Small spoon-handle reed hook with waxed-thread grip, no magic. Complete front/back body silhouettes and two coherent faces; no isolated hand study.",
+              "Broad opaque face/hair/clothing impasto with subdued olive/gray rain clothing, legible art-name/source title, clean ivory without floor/scenery/swatches."
+            ]
+          }
+        ],
+        "preflight": "Finished source/prompt/outline/review and actual cover/interior/landscape inspected. Source overrides cover hair/eyes/berries. Updated user instruction excludes isolated hand studies; natural hands only in bodyviews.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved impasto only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/title-image.jpg",
+            "role": "Youngster face/hair and rustic garment identity only; source overrides shortpants/berries/anime/light",
+            "inspected": true,
+            "sha256": "c79994ba6ed23969b346000d5b28b9072e419075c500181e87ef821f4c648f92"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+            "role": "Cool wet lateafternoon oil palette/light",
+            "inspected": true,
+            "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+          }
+        ],
+        "prompt": "Create a 1536x1024 landscape 3:2 character reference folio on uninterrupted quiet warm ivory. One identity only, two or three complete unclipped full-body views and useful face/expression/equipment studies with generous clear spacing. NO isolated hand study, hand detail, side-label exercise, scenery, floor patch, ground shadow, palette strip or paint swatches. Natural hands appear only as part of complete character bodies. Exact readable large character name and smaller story title. Canadian Group of Seven inspired opaque oil: broad CONNECTED form-building paint masses, selective sculpted impasto, decisive directional bristle strokes and palette-knife planes. Faces and all skin have the same bold matte oil construction as the clothing, no realistic face under texture filter. Broken color/scraped edges describe volume. No anime, photo, glossy CGI or all-over tiny texture. Approved style reference guides rendering only, do not borrow its woman's face/redcloak/armor/props. Preserve identity/proportions and costume in each repeated view. Story-motivated light; dark scenes stay dark against ivory.\nExact heading \"Vemdin\"; subtitle \"The Ninety-Year Barrier\". One gender-unspecified village youngster, young teen approximately15 art choice. SECOND image cover supplies youngster identity only: tousled darkBROWN mop hair, tanolive skin, youthful round face/short nose, big BROWN eyes, small slim frame. Preserve recognizable ordinary village youth without copying anime drawing style. No magic, secret power, weapons or heroic armor.\nSource-correct WILLOW GATHERING clothing: undyed loose longsleeve shirt, worn BROWN vest, patched full BROWN TROUSERS, mossgray knee-length practical COAT and CLOSED mudbrown BOOTS. Mud reaches knees. Clothing modest, practical and intact enough for work. Cover's shortpants and berries are subordinate: use full trousers/boots/coat and REEDS/WILLOW, NO berries or berrybranch.\nLeft complete frontthreequarter with bent-rim WOVEN GATHERING BASKET held at hip and a light bundle of cut green WILLOW SHOOTS leaned against body, carried naturally as one character. Center full BACKTHREEQUARTER same coat/hair/trousers/boots and basket; keep all stems and shoes inside frame. Upperright young painted face with nervous attentiveness and another smaller face with practical concentration. Lower-right isolated SMALL REED HOOK only: dull metal OLD SPOON-HANDLE piece bent at tip, short waxed-thread wrapped grip, no carved runes/glow and no attached hand. Caption \"Reed hook\". It is spoonhandle-sized, NOT sickle, dagger or fishing rod.\nLate RAIN light, cool diffuse GRAY/OLIVE on skin/fabric and deep muted brown/slate shadow, no sunny golden cover lighting. Broad connected opaque MATTE oil strokes sculpt face/eyes/hair, same impasto as clothing, no anime outlines or smooth photographic face. Warm ivory clean, no roots, willow trees, floor shadows, ground patch, barrier strands, scene or palette swatches. NO isolated hands.",
+        "selectedAttempt": 1
+      },
+      "lighting": "Cool rain gray/olive diffusion with deep brown shade, no magical glow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "outputSha256": "9b630061923a0b21c5989583caf266b15b31e3fa59caed729ff6cd182ba6c513",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:29:01.045695+00:00",
+        "reviewer": "cast_continue_4",
+        "outputSha256": "9b630061923a0b21c5989583caf266b15b31e3fa59caed729ff6cd182ba6c513",
+        "sourceSha256": "3f80eb5e87a6e8aec1de0024a15126b09c6d5f8f4f732fe4985dfa3ea6aafd56",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved impasto only",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/title-image.jpg",
+            "role": "Youngster face/hair and rustic garment identity only; source overrides shortpants/berries/anime/light",
+            "inspected": true,
+            "sha256": "c79994ba6ed23969b346000d5b28b9072e419075c500181e87ef821f4c648f92"
+          },
+          {
+            "path": "stories/the-ninety-year-barrier/art/landscapes/04-willow-bank-in-rain.png",
+            "role": "Cool wet lateafternoon oil palette/light",
+            "inspected": true,
+            "sha256": "fef0d4c15e760940e823eb90385b04e8d71063405cef613efa26b24c1724ce61"
+          }
+        ],
+        "evidence": [
+          "Source-correct young ordinary basketmaker: cover-derived brown tousled hair/youthful face, raincoat over rustic layers, muddy trousers/boots, willow bundle and bent-rim basket, no berry props.",
+          "Small spoon-handle reed hook with waxed-thread grip, no magic. Complete front/back body silhouettes and two coherent faces; no isolated hand study.",
+          "Broad opaque face/hair/clothing impasto with subdued olive/gray rain clothing, legible art-name/source title, clean ivory without floor/scenery/swatches."
+        ],
+        "specificationSha256": "2495b1c3e5329e68ed74ef55776166fee060c8bac477866d4cb8d15497139ce8"
+      }
+    }
+  ],
+  "sourceSha256": "3f80eb5e87a6e8aec1de0024a15126b09c6d5f8f4f732fe4985dfa3ea6aafd56"
+}

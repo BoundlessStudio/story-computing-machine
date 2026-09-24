@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "slug": "golden-lion",
+  "title": "The Gentleman with the Golden Lion",
+  "source": "stories/golden-lion/story.md",
+  "sourceSha256": "a29d5517349389699b7084711b09cefa5098c165600115639bf6591065407b86",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose, prompt, outline and final review read. Aldous and Rafe are central; master of roll is sustained direct counterforce; grandmother has decisive offstage agency plus repeated active embodied memories and authored recognition tests, warranting supporting main-cast sheet.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Clerk, porter, adoptive father, carver, attendees",
+      "reason": "Functional or brief recalled parts without comparable sustained individual action; not separate main cast."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/premise.md",
+      "entries": [
+        "Independent ordinary societies, memory and controlled records"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No matching Aldous/Rafe entry; unrelated Houses not merged"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "displayName": "codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+      "status": "resolved",
+      "inspected": true,
+      "searched": [
+        "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+        "C:/Users/jamie/.codex/attachments (targeted hidden filename scan)",
+        "D:/Development/BoundlessAi/story-computing-machine/.codex-remote-attachments (targeted hidden filename scan)",
+        "D:/Development/BoundlessAi/story-computing-machine-character-art/.codex-remote-attachments (directory absent)"
+      ],
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+      "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+      "inspection": "Inspected original Rafe: mature fair face, shoulder-length brown curls, broad sweeping moustache, round blue lenses, tall worn black hat, dark formal layers and gloves. Original lion-bust cane and lion jewellery are subordinate to final story full-lion carving details; no street/smoke/crowd transfer.",
+      "resolvedAt": "2026-09-24T03:44:02.277793+00:00",
+      "recoveryProvenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-08-24T23-40-08-01a03701-0467-7503-8d3d-dc8de4c7b9f0.jsonl"
+    }
+  ],
+  "characters": [
+    {
+      "id": "aldous-torven",
+      "name": "Aldous Torven",
+      "role": "Elder House Heron gentleman, surviving Lion child and focal decision maker",
+      "selectionEvidence": [
+        {
+          "quote": "He had carried it for fifty-three years.",
+          "explanation": "Long-worn heron cane."
+        },
+        {
+          "quote": "My name is Aldous Torven",
+          "explanation": "Public identity, Tuppy childhood alias."
+        },
+        {
+          "quote": "House Lion remains extinct. We did not all die.",
+          "explanation": "Central public choice."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Elderly human man, roughly mid/late seventies inferred from recollection; exact age not fixed.",
+        "clothing": "Formal gentleman attire, hat carried and set beneath chair.",
+        "equipment": "Smooth ash-wood heron-headed cane, held in both hands; no golden lion cane assigned to him."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: He had carried it for fifty-three years.",
+        "Non-canon source fact: My name is Aldous Torven",
+        "Non-canon source fact: House Lion remains extinct. We did not all die."
+      ],
+      "visualInterpretation": [
+        "Interpretation: tall spare elder, pale warm skin, receding short white hair, long straight nose, clean-shaven, dark brown eyes.",
+        "Charcoal formal coat, black waistcoat, white shirt, subdued grey cravat and plain dark hat. Elder hands; no magical marking."
+      ],
+      "states": [
+        {
+          "name": "Gathering",
+          "description": "One identity in useful full views and source-supported details; no location."
+        }
+      ],
+      "naming": {
+        "sourceName": "Aldous Torven",
+        "aliases": [
+          "Tuppy"
+        ],
+        "provenance": "Exact finished-source name and childhood alias."
+      },
+      "recurrence": {
+        "identityKey": "golden-lion:aldous-torven",
+        "links": [],
+        "evidence": "No shared-universe recurring entry found."
+      },
+      "references": [
+        {
+          "path": "stories/golden-lion/title-image.jpg",
+          "role": "Rafe visual identity reference subordinate to source; inspected tall hat, blue lenses, wavy brown hair, broad moustache, layered black clothes and gold-lion cane. Smooth cover rendering is not style target.",
+          "inspected": true,
+          "sha256": "20f67cc70552536c6cde3846d2019957b199852cbb8c531b7b7b73f2ba67b75f"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+          "role": "Warm gaslight and connected green-brown shadows; oil style only, no room.",
+          "inspected": true,
+          "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/02-the-baize-door-room.png",
+          "role": "Close gaslamp modelling with dark connected shadows; oil rhythm only, no room.",
+          "inspected": true,
+          "sha256": "623e1c96968d27f6999d416c25eca4d2dcebcde1e4a241b8091e29b44b3313c0"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven collection paint handling only; exclude daylight and terrain.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+          "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+          "inspected": true,
+          "role": "Inspected original Rafe: mature fair face, shoulder-length brown curls, broad sweeping moustache, round blue lenses, tall worn black hat, dark formal layers and gloves. Original lion-bust cane and lion jewellery are subordinate to final story full-lion carving details; no street/smoke/crowd transfer.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-08-24T23-40-08-01a03701-0467-7503-8d3d-dc8de4c7b9f0.jsonl"
+        }
+      ],
+      "output": "stories/golden-lion/art/characters/aldous-torven.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one 1536x1024 landscape character reference sheet, ONE identity only, exact requested large readable serif heading and smaller subtitle The Gentleman with the Golden Lion. Light clean WARM IVORY negative space, no scenery, floor/ground patches, wallpaper, palette swatches or decorative prose. Two large unclipped full-body views FRONT and BACK on left, two expressive painted head studies right above useful isolated hand/equipment detail. Canadian Group of Seven MATTE OIL painting matching the broad connected masses and bristle rhythms of the attached same-story interior: large opaque colour/value planes, broad bristle sweeps, selective raised knife paint along cloth, quieter thin rubbed shadow joins. Do not paint a mosaic of uniformly bevel-lit chips, glossy 3D relief, smooth photoreal faces, anime contours or shining skin. Actual story light is low soft GASLAMP ochre from one side with substantial green-brown shadow masses; no bright studio key or universal golden rim. Keep paper light even while character has dark shadow values. Original Sculpted Impasto supplies subordinate handmade oil energy only: no face/clothing/cape/armor/swatches/scenes from it. Normal human anatomy and consistent identity in every view. Heading Aldous Torven. Human elderly gentleman roughly77, TALL SPARE with warm-fair lined skin, receding short WHITE hair, long straight nose, brown eyes, clean-shaven. Charcoal formal long coat, black waistcoat, white shirt, subdued grey cravat, dark trousers and black shoes. Two full views of same old man, hat removed; front gently leans both ordinary old hands on a smooth ASH-WOOD cane with a HERON head and long bird beak. Cane is worn satin brown wood, NOT golden and NOT lion. Small plain dark hat isolated beside hands. Head studies Guarded and Recognition, restrained emotions. Enlarged heron-handle detail and hand resting on cane. No House jewellery, new titles or magic. Not the younger moustached man from original story image.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+            "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+            "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create one 1536x1024 landscape character reference sheet, ONE identity only, exact requested large readable serif heading and smaller subtitle The Gentleman with the Golden Lion. Light clean WARM IVORY negative space, no scenery, floor/ground patches, wallpaper, palette swatches or decorative prose. Two large unclipped full-body views FRONT and BACK on left, two expressive painted head studies right above useful isolated hand/equipment detail. Canadian Group of Seven MATTE OIL painting matching the broad connected masses and bristle rhythms of the attached same-story interior: large opaque colour/value planes, broad bristle sweeps, selective raised knife paint along cloth, quieter thin rubbed shadow joins. Do not paint a mosaic of uniformly bevel-lit chips, glossy 3D relief, smooth photoreal faces, anime contours or shining skin. Actual story light is low soft GASLAMP ochre from one side with substantial green-brown shadow masses; no bright studio key or universal golden rim. Keep paper light even while character has dark shadow values. Original Sculpted Impasto supplies subordinate handmade oil energy only: no face/clothing/cape/armor/swatches/scenes from it. Normal human anatomy and consistent identity in every view. Heading Aldous Torven. Human elderly gentleman roughly77, TALL SPARE with warm-fair lined skin, receding short WHITE hair, long straight nose, brown eyes, clean-shaven. Charcoal formal long coat, black waistcoat, white shirt, subdued grey cravat, dark trousers and black shoes. Two full views of same old man, hat removed; front gently leans both ordinary old hands on a smooth ASH-WOOD cane with a HERON head and long bird beak. Cane is worn satin brown wood, NOT golden and NOT lion. Small plain dark hat isolated beside hands. Head studies Guarded and Recognition, restrained emotions. Enlarged heron-handle detail and hand resting on cane. No House jewellery, new titles or magic. Not the younger moustached man from original story image.",
+            "references": [
+              {
+                "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+                "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+                "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:44:02.277793+00:00",
+            "preflight": "Full finished source read; recovered original actual pixels inspected and pinned. Rafe lion-bust original conflict resolved to final-prose full carving with tail; no unsupported extra jewellery. Other three faces distinct textual interpretation. Light from inspected hall, no room transfer. All source/original requirements and framing checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-71a383d4-7e3b-4bb1-bbc8-c2bc9c92a56a.png",
+            "candidateSha256": "55211f5259391aca1424e63aa654ff981482adc275e0da9771a1b78f0d77ccd0",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: elder white-haired spare clean-shaven identity and hands consistent in full front/rear and heads; no Rafe face transfer.",
+              "Ash-brown heron cane has long bird beak, no lion/gold confusion; both-hand rest, plain hat, formal dark layers all source-compatible.",
+              "Exact readable name/title, clean ivory without floor; broad dark coat masses, directional oil strokes, warm side gaslight and darker green-brown shadow values, no scene/swatches."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:06:24.027706+00:00",
+        "sourceSha256": "a29d5517349389699b7084711b09cefa5098c165600115639bf6591065407b86",
+        "outputSha256": "55211f5259391aca1424e63aa654ff981482adc275e0da9771a1b78f0d77ccd0",
+        "references": [
+          {
+            "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+            "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+            "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: elder white-haired spare clean-shaven identity and hands consistent in full front/rear and heads; no Rafe face transfer.",
+          "Ash-brown heron cane has long bird beak, no lion/gold confusion; both-hand rest, plain hat, formal dark layers all source-compatible.",
+          "Exact readable name/title, clean ivory without floor; broad dark coat masses, directional oil strokes, warm side gaslight and darker green-brown shadow values, no scene/swatches."
+        ],
+        "specificationSha256": "eed92b6d7dbd7f57b765037be16afacdc8159f5b3e6ba5462b343f3892547895"
+      },
+      "outputSha256": "55211f5259391aca1424e63aa654ff981482adc275e0da9771a1b78f0d77ccd0"
+    },
+    {
+      "id": "rafe-irlow",
+      "name": "Rafe Irlow",
+      "role": "Grandson carrying the newly made lion cane, protects his grandmother and tests Aldous",
+      "selectionEvidence": [
+        {
+          "quote": "worn tall black top hat",
+          "explanation": "Source appearance."
+        },
+        {
+          "quote": "Brown hair, wavy and shoulder-length",
+          "explanation": "Source appearance."
+        },
+        {
+          "quote": "round blue-tinted lenses",
+          "explanation": "Source appearance."
+        },
+        {
+          "quote": "I concede it's new. I never called it a relic.",
+          "explanation": "Cane state and claim."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, shoulder-length wavy brown hair and broad moustache.",
+        "clothing": "Worn tall black top hat, various dark formal layers, round blue-tinted spectacles, gloves.",
+        "equipment": "Wooden cane with newly gold-leafed lion; left ear long with small nick, deliberately unfinished tail before rear paw; folded notes/pencil drawing. Cane is newly made, not relic or magic."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: worn tall black top hat",
+        "Non-canon source fact: Brown hair, wavy and shoulder-length",
+        "Non-canon source fact: round blue-tinted lenses",
+        "Non-canon source fact: I concede it's new. I never called it a relic."
+      ],
+      "visualInterpretation": [
+        "Match inspected recovered original: mature fair face, broad prominent nose, thick sweeping brown moustache, shoulder-length wavy brown hair and blue eyes behind round blue lenses.",
+        "Worn top hat, layered dark formal attire and gloves from original; no extra lion jewellery, smoke or crowd.",
+        "Cane design follows final prose over original lion bust: small full-bodied newly gold-leafed wooden lion with overlong notched LEFT ear and unfinished tail stopping before rear paw."
+      ],
+      "states": [
+        {
+          "name": "Gathering",
+          "description": "One identity in useful full views and source-supported details; no location."
+        }
+      ],
+      "naming": {
+        "sourceName": "Rafe Irlow",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "golden-lion:rafe-irlow",
+        "links": [],
+        "evidence": "No shared-universe recurring entry found."
+      },
+      "references": [
+        {
+          "path": "stories/golden-lion/title-image.jpg",
+          "role": "Rafe visual identity reference subordinate to source; inspected tall hat, blue lenses, wavy brown hair, broad moustache, layered black clothes and gold-lion cane. Smooth cover rendering is not style target.",
+          "inspected": true,
+          "sha256": "20f67cc70552536c6cde3846d2019957b199852cbb8c531b7b7b73f2ba67b75f"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+          "role": "Warm gaslight and connected green-brown shadows; oil style only, no room.",
+          "inspected": true,
+          "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/02-the-baize-door-room.png",
+          "role": "Close gaslamp modelling with dark connected shadows; oil rhythm only, no room.",
+          "inspected": true,
+          "sha256": "623e1c96968d27f6999d416c25eca4d2dcebcde1e4a241b8091e29b44b3313c0"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven collection paint handling only; exclude daylight and terrain.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+          "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+          "inspected": true,
+          "role": "Inspected original Rafe: mature fair face, shoulder-length brown curls, broad sweeping moustache, round blue lenses, tall worn black hat, dark formal layers and gloves. Original lion-bust cane and lion jewellery are subordinate to final story full-lion carving details; no street/smoke/crowd transfer.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-08-24T23-40-08-01a03701-0467-7503-8d3d-dc8de4c7b9f0.jsonl"
+        }
+      ],
+      "output": "stories/golden-lion/art/characters/rafe-irlow.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Only correct the lion drawing and ONE tail detail on this otherwise finished Rafe Irlow sheet. Keep exact name/title, all figures/heads, identity, clothes, gaslight oil painting, ivory and original layout unchanged. On folded paper at LOWER RIGHT, replace the polished complete lion drawing with a visibly UNCERTAIN SIMPLE FULL-BODY PENCIL LION stretched across a crease: anatomical LEFT ear too long with small tip notch, tail visibly ends BLUNTLY ABOVE the rear paw with empty paper gap, NO fully drawn tail curl. This is an old childhood error copied, not a professional wildlife portrait. In enlarged GOLD LION handle study, retain the already notched left ear and main tail descending from body, with its BLUNT END ABOVE rear paw; ERASE the disconnected little curved hook below the blunt tail tip so it cannot read as a second tail segment. Keep one ordinary rear paw with simple toes. In small hand-held handle repeat use the same full lion/notched ear/abrupt tail. No extra text, captions, jewelry or objects.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0bfa765a-ddf5-4d50-8ebc-7a70b937e301.png",
+            "sha256": "77210cbee86c83d49f3ca7b0c50c83eca6da47a776a56241f4a7ac784f45183e",
+            "inspected": true,
+            "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create one 1536x1024 landscape character reference sheet, ONE identity only, exact requested large readable serif heading and smaller subtitle The Gentleman with the Golden Lion. Light clean WARM IVORY negative space, no scenery, floor/ground patches, wallpaper, palette swatches or decorative prose. Two large unclipped full-body views FRONT and BACK on left, two expressive painted head studies right above useful isolated hand/equipment detail. Canadian Group of Seven MATTE OIL painting matching the broad connected masses and bristle rhythms of the attached same-story interior: large opaque colour/value planes, broad bristle sweeps, selective raised knife paint along cloth, quieter thin rubbed shadow joins. Do not paint a mosaic of uniformly bevel-lit chips, glossy 3D relief, smooth photoreal faces, anime contours or shining skin. Actual story light is low soft GASLAMP ochre from one side with substantial green-brown shadow masses; no bright studio key or universal golden rim. Keep paper light even while character has dark shadow values. Original Sculpted Impasto supplies subordinate handmade oil energy only: no face/clothing/cape/armor/swatches/scenes from it. Normal human anatomy and consistent identity in every view. Heading Rafe Irlow. Match the actual ORIGINAL PORTRAIT subject geometry: mature fair man about40, shoulder-length wavy brown hair, broad prominent nose, thick wide sweeping brown moustache, blue eyes behind ROUND BLUE-TINTED spectacles, tall worn BLACK TOP HAT, dark layered formal long coat, patterned charcoal waistcoat, grey cravat, white shirt and black gloves. Paint all this in broad matte oils, DO NOT preserve the smooth photographic portrait rendering. Front and rear have same hat/hair/outfit, one wooden cane. Two heads Wry (glasses on) and Listening (glasses off), same moustache and face. Omit extra lion medallion and lapel emblems. IMPORTANT final prose changes cane from original portrait: it has a SMALL FULL-BODIED crouching wooden LION newly covered with GOLD LEAF, not just a lion head. Isolated enlarged LEFT-side profile of lion handle clearly shows head, four paws, back/hindquarters; its LEFT ear is a little too long with a small nick, its carved tail ends UNFINISHED just BEFORE touching rear paw. Fresh bright gold on carving, dark wooden cane shaft. Label New gold leaf / unfinished tail. Small folded letter paper and pencil lion sketch, no readable private prose. No magic, no relic claim.",
+            "references": [
+              {
+                "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+                "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+                "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+                "role": "Recovered actual source original: Rafe face, hair, moustache, lenses and dark attire only; cane full-body correction controlled by prose",
+                "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:44:02.277793+00:00",
+            "preflight": "Full finished source read; recovered original actual pixels inspected and pinned. Rafe lion-bust original conflict resolved to final-prose full carving with tail; no unsupported extra jewellery. Other three faces distinct textual interpretation. Light from inspected hall, no room transfer. All source/original requirements and framing checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6725f240-375e-4a51-ad96-75ce54c382fe.png",
+            "candidateSha256": "f58af4343276674f54efea6c93e744154bd5e5053f8fc374a13a408f1438106e",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Identity, lenses, hair, moustache, dark attire and full-body lion established. Remove ground patch and extra heading punctuation; lion left-ear notch and blunt unfinished tail need stronger exact depiction."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Make precise corrections to this existing Rafe Irlow sheet while preserving his identity, hair, moustache, blue glasses, hat, broad matte oil rendering and figure poses. Remove all floor/ground marks beneath both full figures: clean warm ivory only. Exact heading must read Rafe Irlow without the final period. Exact subtitle The Gentleman with the Golden Lion without final period. Correct the LION HANDLE in the enlarged left-profile study AND small cane repeats consistently: crouching full-bodied lion in NEW GOLD LEAF over wood; near anatomical LEFT ear a little too long with a clear small V-shaped nick at the upper edge; tail curves toward the rear paw but ENDS BLUNTLY UNFINISHED a short visible gap BEFORE that paw, no terminal finished tuft, no graceful complete curled tail. Do not merely label an intact tail unfinished. Preserve the lion body/legs/head, no lion-head-only knob. Labels stay readable. Make the gaslight slightly more confined on faces and hands, with connected darker olive-brown shadow on the far side, while leaving ivory page light; no scene or new props.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6725f240-375e-4a51-ad96-75ce54c382fe.png",
+                "sha256": "f58af4343276674f54efea6c93e744154bd5e5053f8fc374a13a408f1438106e",
+                "inspected": true,
+                "role": "Actual first candidate; stated content/title/light corrections only"
+              }
+            ],
+            "startedAt": "2026-09-24T04:06:24.027706+00:00",
+            "preflight": "Actual first candidate inspected; face/anatomy stable, title omission or exact cane-detail/floor issue identified. Confining gaslamp light on character only. No source conflict.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0bfa765a-ddf5-4d50-8ebc-7a70b937e301.png",
+            "candidateSha256": "77210cbee86c83d49f3ca7b0c50c83eca6da47a776a56241f4a7ac784f45183e",
+            "completedAt": "2026-09-24T04:33:36.214655+00:00",
+            "visualInspection": [
+              "Exact title/ivory/identity/lighting now pass. Rechecked prose243-249: folded pencil lion must be full-bodied and uncertain with matching ear/tail errors, not polished full-tail sketch or head-only study. Rafe isolated tail has stray lower curl to remove."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Only correct the lion drawing and ONE tail detail on this otherwise finished Rafe Irlow sheet. Keep exact name/title, all figures/heads, identity, clothes, gaslight oil painting, ivory and original layout unchanged. On folded paper at LOWER RIGHT, replace the polished complete lion drawing with a visibly UNCERTAIN SIMPLE FULL-BODY PENCIL LION stretched across a crease: anatomical LEFT ear too long with small tip notch, tail visibly ends BLUNTLY ABOVE the rear paw with empty paper gap, NO fully drawn tail curl. This is an old childhood error copied, not a professional wildlife portrait. In enlarged GOLD LION handle study, retain the already notched left ear and main tail descending from body, with its BLUNT END ABOVE rear paw; ERASE the disconnected little curved hook below the blunt tail tip so it cannot read as a second tail segment. Keep one ordinary rear paw with simple toes. In small hand-held handle repeat use the same full lion/notched ear/abrupt tail. No extra text, captions, jewelry or objects.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0bfa765a-ddf5-4d50-8ebc-7a70b937e301.png",
+                "sha256": "77210cbee86c83d49f3ca7b0c50c83eca6da47a776a56241f4a7ac784f45183e",
+                "inspected": true,
+                "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+              }
+            ],
+            "startedAt": "2026-09-24T04:33:36.214655+00:00",
+            "preflight": "Source243-249 reread: exact uncertain pencil full lion and abrupt tail are central identity proof. Conflicting polished/head-only depiction removed. All successful title/light/identity retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-949e0662-fce7-4843-b71f-0595befcfce7.png",
+            "candidateSha256": "610a80db230531be2dfcb455f0f84de8e962af84ed50daeaee82d2a7421a367b",
+            "completedAt": "2026-09-24T04:55:42.426205+00:00",
+            "visualInspection": [
+              "Actual final PNG inspected at full size: exact readable name/story title, clean ivory, same single identity across views, full unclipped anatomy and broad painted dark/light masses.",
+              "Recovered-original face, long wavy brown hair, moustache, blue lenses, worn hat and varied dark formal layers preserved; cane remains in right hand in full front/back.",
+              "Gold lion is full-bodied with deliberately overlong notched left ear and abrupt tail ending above rear paw, no stray lower curl. Folded paper now shows uncertain full-body pencil lion with corresponding unfinished tail. No lion medallion or false relic motif."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:55:42.426205+00:00",
+        "sourceSha256": "a29d5517349389699b7084711b09cefa5098c165600115639bf6591065407b86",
+        "outputSha256": "610a80db230531be2dfcb455f0f84de8e962af84ed50daeaee82d2a7421a367b",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0bfa765a-ddf5-4d50-8ebc-7a70b937e301.png",
+            "sha256": "77210cbee86c83d49f3ca7b0c50c83eca6da47a776a56241f4a7ac784f45183e",
+            "inspected": true,
+            "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+          }
+        ],
+        "evidence": [
+          "Actual final PNG inspected at full size: exact readable name/story title, clean ivory, same single identity across views, full unclipped anatomy and broad painted dark/light masses.",
+          "Recovered-original face, long wavy brown hair, moustache, blue lenses, worn hat and varied dark formal layers preserved; cane remains in right hand in full front/back.",
+          "Gold lion is full-bodied with deliberately overlong notched left ear and abrupt tail ending above rear paw, no stray lower curl. Folded paper now shows uncertain full-body pencil lion with corresponding unfinished tail. No lion medallion or false relic motif."
+        ],
+        "specificationSha256": "539c3ef1be0253a3d03c59183ff0447834423beb91d8beb0a8618954cbd184fc"
+      },
+      "outputSha256": "610a80db230531be2dfcb455f0f84de8e962af84ed50daeaee82d2a7421a367b"
+    },
+    {
+      "id": "nestor-vell",
+      "name": "Nestor Vell",
+      "role": "Master of the roll, sustained institutional counterforce who demands the cane and returns to the count",
+      "selectionEvidence": [
+        {
+          "quote": "There is no House Lion",
+          "explanation": "Persistent denial."
+        },
+        {
+          "quote": "This person's cane must be surrendered.",
+          "explanation": "Threat forces Aldous choice."
+        },
+        {
+          "quote": "The roll has no provision for such a declaration.",
+          "explanation": "Continued resistance after declaration."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man; physical details unspecified.",
+        "clothing": "Formal House gathering attire inferred, no specific House or cane animal established.",
+        "equipment": "Roll and administrative papers are role-supported; no bellpull/lectern shown as scenery, no invented House emblem."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: There is no House Lion",
+        "Non-canon source fact: This person's cane must be surrendered.",
+        "Non-canon source fact: The roll has no provision for such a declaration."
+      ],
+      "visualInterpretation": [
+        "Art-only design: late-fifties broad man, light brown skin, polished bald crown and cropped grey sides, small close-set eyes, rounded nose, neatly shaved.",
+        "Severe black formal coat, ivory waistcoat, dark restrained neckcloth, ordinary shoes. No badge or magic."
+      ],
+      "states": [
+        {
+          "name": "Gathering",
+          "description": "One identity in useful full views and source-supported details; no location."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "The master of the roll",
+        "displayName": "Nestor Vell",
+        "provenance": "New distinctive art-only name under explicit always-name authorization. No exact collision found in universe, NAMES, current review inventories or existing character specs. Source and canon unchanged."
+      },
+      "recurrence": {
+        "identityKey": "golden-lion:nestor-vell",
+        "links": [],
+        "evidence": "No shared-universe recurring entry found."
+      },
+      "references": [
+        {
+          "path": "stories/golden-lion/title-image.jpg",
+          "role": "Rafe visual identity reference subordinate to source; inspected tall hat, blue lenses, wavy brown hair, broad moustache, layered black clothes and gold-lion cane. Smooth cover rendering is not style target.",
+          "inspected": true,
+          "sha256": "20f67cc70552536c6cde3846d2019957b199852cbb8c531b7b7b73f2ba67b75f"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+          "role": "Warm gaslight and connected green-brown shadows; oil style only, no room.",
+          "inspected": true,
+          "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/02-the-baize-door-room.png",
+          "role": "Close gaslamp modelling with dark connected shadows; oil rhythm only, no room.",
+          "inspected": true,
+          "sha256": "623e1c96968d27f6999d416c25eca4d2dcebcde1e4a241b8091e29b44b3313c0"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven collection paint handling only; exclude daylight and terrain.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+          "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+          "inspected": true,
+          "role": "Inspected original Rafe: mature fair face, shoulder-length brown curls, broad sweeping moustache, round blue lenses, tall worn black hat, dark formal layers and gloves. Original lion-bust cane and lion jewellery are subordinate to final story full-lion carving details; no street/smoke/crowd transfer.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-08-24T23-40-08-01a03701-0467-7503-8d3d-dc8de4c7b9f0.jsonl"
+        }
+      ],
+      "output": "stories/golden-lion/art/characters/nestor-vell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct this Nestor Vell character sheet minimally. Keep its exact one identity, bald greying head, mature rounded light-brown face, black coat/ivory waistcoat, roll, hands, pen, poses, broad matte oil handling and clean light ivory. Heading at top must be Nestor Vell, with the clearly readable smaller STORY SUBTITLE The Gentleman with the Golden Lion immediately below. Keep role Master of the roll smaller alongside/below that if space, or omit the role line rather than the story title. Remove the full stop after name. Remove all ground shadows/patches beneath boots; ivory only. Slightly subdue broad face/hand illumination into local warm gaslamp light with connected darker olive-brown far-side shadows; do not brighten dark coat or darken page. No other content changes.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-decd9670-97f0-4cc4-bdff-e43067579e67.png",
+            "sha256": "4b158a3a936a434e8c676776285a6ae6939ee7ef6f31830fd26611977d4de4f2",
+            "inspected": true,
+            "role": "Actual first candidate; stated content/title/light corrections only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create one 1536x1024 landscape character reference sheet, ONE identity only, exact requested large readable serif heading and smaller subtitle The Gentleman with the Golden Lion. Light clean WARM IVORY negative space, no scenery, floor/ground patches, wallpaper, palette swatches or decorative prose. Two large unclipped full-body views FRONT and BACK on left, two expressive painted head studies right above useful isolated hand/equipment detail. Canadian Group of Seven MATTE OIL painting matching the broad connected masses and bristle rhythms of the attached same-story interior: large opaque colour/value planes, broad bristle sweeps, selective raised knife paint along cloth, quieter thin rubbed shadow joins. Do not paint a mosaic of uniformly bevel-lit chips, glossy 3D relief, smooth photoreal faces, anime contours or shining skin. Actual story light is low soft GASLAMP ochre from one side with substantial green-brown shadow masses; no bright studio key or universal golden rim. Keep paper light even while character has dark shadow values. Original Sculpted Impasto supplies subordinate handmade oil energy only: no face/clothing/cape/armor/swatches/scenes from it. Normal human anatomy and consistent identity in every view. Heading Nestor Vell. Small role line Master of the roll. Art-only name for this story role, one adult human man late50s. Broad sturdy build, light-brown skin, polished bald crown with neatly cropped GREY sides, small close-set brown eyes, rounded nose, clean-shaven heavy cheeks. Severe BLACK formal long coat, IVORY waistcoat, dark restrained neckcloth, dark trousers and black shoes. Front holds a narrow rolled paper register in one hand, other hand controlled downward refusal; rear same clothes. Heads Formal and Displeased, no cartoon villain snarl. Isolated register, plain pen and hand about to close the roll. No House animal emblem invented, no sword, magic, crown, cane animal or architecture.",
+            "references": [
+              {
+                "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+                "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+                "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:44:02.277793+00:00",
+            "preflight": "Full finished source read; recovered original actual pixels inspected and pinned. Rafe lion-bust original conflict resolved to final-prose full carving with tail; no unsupported extra jewellery. Other three faces distinct textual interpretation. Light from inspected hall, no room transfer. All source/original requirements and framing checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-decd9670-97f0-4cc4-bdff-e43067579e67.png",
+            "candidateSha256": "4b158a3a936a434e8c676776285a6ae6939ee7ef6f31830fd26611977d4de4f2",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Missing exact story subtitle; small floor patches under feet."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Correct this Nestor Vell character sheet minimally. Keep its exact one identity, bald greying head, mature rounded light-brown face, black coat/ivory waistcoat, roll, hands, pen, poses, broad matte oil handling and clean light ivory. Heading at top must be Nestor Vell, with the clearly readable smaller STORY SUBTITLE The Gentleman with the Golden Lion immediately below. Keep role Master of the roll smaller alongside/below that if space, or omit the role line rather than the story title. Remove the full stop after name. Remove all ground shadows/patches beneath boots; ivory only. Slightly subdue broad face/hand illumination into local warm gaslamp light with connected darker olive-brown far-side shadows; do not brighten dark coat or darken page. No other content changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-decd9670-97f0-4cc4-bdff-e43067579e67.png",
+                "sha256": "4b158a3a936a434e8c676776285a6ae6939ee7ef6f31830fd26611977d4de4f2",
+                "inspected": true,
+                "role": "Actual first candidate; stated content/title/light corrections only"
+              }
+            ],
+            "startedAt": "2026-09-24T04:06:24.027706+00:00",
+            "preflight": "Actual first candidate inspected; face/anatomy stable, title omission or exact cane-detail/floor issue identified. Confining gaslamp light on character only. No source conflict.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-15563ad1-7ca2-4a48-8426-ab591c424b55.png",
+            "candidateSha256": "05e277a8ffccfa8e30bae1f28d0e42601e6c40ec0f09e6dae9f1a0c6bddf824f",
+            "completedAt": "2026-09-24T04:33:36.214655+00:00",
+            "visualInspection": [
+              "Actual revised PNG inspected: exact name/story title now readable, ground patches removed, all feet/hands complete, broad mature bald-faced identity consistent.",
+              "Black coat/ivory waistcoat, roll and pen match interpreted sustained role; no invented House insignia or weapon. Dark broad matte coat planes, local warm gaslight and shadowed face values, ivory retained."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:33:36.214655+00:00",
+        "sourceSha256": "a29d5517349389699b7084711b09cefa5098c165600115639bf6591065407b86",
+        "outputSha256": "05e277a8ffccfa8e30bae1f28d0e42601e6c40ec0f09e6dae9f1a0c6bddf824f",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-decd9670-97f0-4cc4-bdff-e43067579e67.png",
+            "sha256": "4b158a3a936a434e8c676776285a6ae6939ee7ef6f31830fd26611977d4de4f2",
+            "inspected": true,
+            "role": "Actual first candidate; stated content/title/light corrections only"
+          }
+        ],
+        "evidence": [
+          "Actual revised PNG inspected: exact name/story title now readable, ground patches removed, all feet/hands complete, broad mature bald-faced identity consistent.",
+          "Black coat/ivory waistcoat, roll and pen match interpreted sustained role; no invented House insignia or weapon. Dark broad matte coat planes, local warm gaslight and shadowed face values, ivory retained."
+        ],
+        "specificationSha256": "6daaf80e157df8e234670eedaed0e2ff24686c7fa7d3acc7e0fa36c85b6bdad1"
+      },
+      "outputSha256": "05e277a8ffccfa8e30bae1f28d0e42601e6c40ec0f09e6dae9f1a0c6bddf824f"
+    },
+    {
+      "id": "neressa",
+      "name": "Neressa",
+      "role": "Aldous’s surviving elder sister and Rafe’s grandmother; offstage agency and repeated active childhood memories drive recognition",
+      "selectionEvidence": [
+        {
+          "quote": "She said if you knew her lion",
+          "explanation": "Sets the private test and requested public answer."
+        },
+        {
+          "quote": "a girl with one thick plait lifting him bodily",
+          "explanation": "Active embodied recollection."
+        },
+        {
+          "quote": "scratched a lion into the wood with a stolen fruit knife",
+          "explanation": "Creates central identifying mistake."
+        },
+        {
+          "quote": "She put a twist of salt in the other pocket",
+          "explanation": "Protective childhood action remembered at ending."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Older living human woman, six years older than Aldous, robust in childhood but not built like a cupboard now; no present-day full appearance established.",
+        "clothing": "No present wardrobe fixed; childhood thick plait specified.",
+        "equipment": "Draws pencil lion for grandson; soft-corner folded paper carries message. No restored House title, public appearance or new powers."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: She said if you knew her lion",
+        "Non-canon source fact: a girl with one thick plait lifting him bodily",
+        "Non-canon source fact: scratched a lion into the wood with a stolen fruit knife",
+        "Non-canon source fact: She put a twist of salt in the other pocket"
+      ],
+      "visualInterpretation": [
+        "Present-day interpretation: elderly early-eighties woman, spare build, warm fair skin, long practical face with family nose, grey-white hair in one thick pinned plait, brown eyes.",
+        "Modest well-kept plum wool cardigan, cream blouse and dark skirt; she owns a house, not depicted destitute. No environment shown.",
+        "Only present-day art study, explicitly offstage interpretation; do not imply she attends hall or is reunited with Aldous."
+      ],
+      "states": [
+        {
+          "name": "Offstage present-day interpretation",
+          "description": "One identity in useful full views and source-supported details; no location."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Rafe’s grandmother and Aldous’s elder sister",
+        "displayName": "Neressa",
+        "provenance": "New distinctive art-only given name under explicit always-name authorization; no source surname invented. No exact collision found in universe, NAMES, current reviews or character specs. Source/canon unchanged."
+      },
+      "recurrence": {
+        "identityKey": "golden-lion:neressa",
+        "links": [],
+        "evidence": "No shared-universe recurring entry found."
+      },
+      "references": [
+        {
+          "path": "stories/golden-lion/title-image.jpg",
+          "role": "Rafe visual identity reference subordinate to source; inspected tall hat, blue lenses, wavy brown hair, broad moustache, layered black clothes and gold-lion cane. Smooth cover rendering is not style target.",
+          "inspected": true,
+          "sha256": "20f67cc70552536c6cde3846d2019957b199852cbb8c531b7b7b73f2ba67b75f"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+          "role": "Warm gaslight and connected green-brown shadows; oil style only, no room.",
+          "inspected": true,
+          "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544"
+        },
+        {
+          "path": "stories/golden-lion/art/interiors/02-the-baize-door-room.png",
+          "role": "Close gaslamp modelling with dark connected shadows; oil rhythm only, no room.",
+          "inspected": true,
+          "sha256": "623e1c96968d27f6999d416c25eca4d2dcebcde1e4a241b8091e29b44b3313c0"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven collection paint handling only; exclude daylight and terrain.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-7f8c1ca0-5ee5-44d1-b023-ab70829e30b4.png",
+          "sha256": "66b3e8a4f024d96ae4b6dd9e9cb7a12a2c7bcf93d9dbe799b9441465405487f7",
+          "inspected": true,
+          "role": "Inspected original Rafe: mature fair face, shoulder-length brown curls, broad sweeping moustache, round blue lenses, tall worn black hat, dark formal layers and gloves. Original lion-bust cane and lion jewellery are subordinate to final story full-lion carving details; no street/smoke/crowd transfer.",
+          "provenance": "Coordinator recovered exact original PNG bytes from archived source user input_image: archived_sessions/rollout-2026-08-24T23-40-08-01a03701-0467-7503-8d3d-dc8de4c7b9f0.jsonl"
+        }
+      ],
+      "output": "stories/golden-lion/art/characters/neressa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Only correct the DRAWING ON THE PAPER in this otherwise finished Neressa sheet. Preserve her face/age, grey plait, all poses/hands/pencil, plum cardigan, dark skirt, exact heading and story subtitle, dim night lamplight oil painting and light ivory unchanged. Replace the current polished LION HEAD portrait on her folded paper with a SIMPLE UNCERTAIN FULL-BODIED PENCIL LION spanning a crease, as specified by story: left ear a little too long with a small notch at its tip; body and four paws visible; thin tail ENDS ABRUPTLY ABOVE rear paw, with an obvious blank gap before paw, no completed tail curl. It is her imperfect old childhood carving redrawn in uncertain pencil, not a professional wildlife head study. Keep paper size/placement/hand grip, no extra words, scenery or person.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d9b203e2-1443-4aed-b5b6-62bd676b2668.png",
+            "sha256": "6de1af92ebe512fa6816142e7850072731a81f2f985c5859956cd76e26c51da2",
+            "inspected": true,
+            "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create one 1536x1024 landscape character reference sheet, ONE identity only, exact requested large readable serif heading and smaller subtitle The Gentleman with the Golden Lion. Light clean WARM IVORY negative space, no scenery, floor/ground patches, wallpaper, palette swatches or decorative prose. Two large unclipped full-body views FRONT and BACK on left, two expressive painted head studies right above useful isolated hand/equipment detail. Canadian Group of Seven MATTE OIL painting matching the broad connected masses and bristle rhythms of the attached same-story interior: large opaque colour/value planes, broad bristle sweeps, selective raised knife paint along cloth, quieter thin rubbed shadow joins. Do not paint a mosaic of uniformly bevel-lit chips, glossy 3D relief, smooth photoreal faces, anime contours or shining skin. Actual story light is low soft GASLAMP ochre from one side with substantial green-brown shadow masses; no bright studio key or universal golden rim. Keep paper light even while character has dark shadow values. Original Sculpted Impasto supplies subordinate handmade oil energy only: no face/clothing/cape/armor/swatches/scenes from it. Normal human anatomy and consistent identity in every view. Heading Neressa. Small role line Aldous's elder sister. One elderly woman83, spare but sturdy build, warm-fair lined skin, long practical face with straight family nose, brown eyes, GREY-WHITE hair in a single thick pinned plait. Modest well-kept PLUM wool cardigan over cream blouse, long dark skirt and plain brown shoes. Two complete standing views front/back, same elderly identity; no childhood form needed. Heads Remembering and Resolute, old age apparent and no glamorous smoothing. Small study of old hands with a pencil and softly folded note, a simple unfinished lion pencil sketch on scrap paper. No source text on paper required. This is an OFFSTAGE present-day design study, not a depiction of hall attendance or reunion. Use intimate low warm lamplight and olive-brown shadows on figure with ivory page. No house, furniture, other people or lion cane.",
+            "references": [
+              {
+                "path": "stories/golden-lion/art/interiors/01-menagerie-hall.png",
+                "role": "PRIMARY story gaslight, connected dark matte oil value masses and brush; no architecture",
+                "sha256": "9d068b25f0da5794fea38e69f7fa9af75b56ecdc3c53df1ea3ce191afb534544",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY original Sculpted Impasto oil medium only, no identity, clothes, light or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:44:02.277793+00:00",
+            "preflight": "Full finished source read; recovered original actual pixels inspected and pinned. Rafe lion-bust original conflict resolved to final-prose full carving with tail; no unsupported extra jewellery. Other three faces distinct textual interpretation. Light from inspected hall, no room transfer. All source/original requirements and framing checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-7d002570-e79b-461e-a31c-49e2df9221bc.png",
+            "candidateSha256": "afb5748f17cac9db0f5a46b294188370921b659b019ab6e6a1ba49f7f0ad7bc0",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Missing exact story subtitle; faces too evenly lit for intimate lamplight."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Correct this Neressa character sheet minimally. Exact heading Neressa; immediately below in clearly readable smaller serif add the STORY TITLE The Gentleman with the Golden Lion. Keep Aldous's elder sister as a much smaller third line if room, or omit that role line. Preserve the same elderly woman, grey-white plait, plum cardigan, cream blouse, dark skirt, ordinary hands/pencil/paper, poses, broad matte oil paint, clean warm ivory. Adjust figure and portrait light to quiet intimate NIGHT lamplight: limited warm light on one cheek and fingers, substantial connected dim olive-grey shadows on far face, hair and clothing. No sunny rim or broad studio daylight, and do NOT darken ivory background or add lamp/room. Retain old facial creases and age83 character, no rejuvenation. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-7d002570-e79b-461e-a31c-49e2df9221bc.png",
+                "sha256": "afb5748f17cac9db0f5a46b294188370921b659b019ab6e6a1ba49f7f0ad7bc0",
+                "inspected": true,
+                "role": "Actual first candidate; stated content/title/light corrections only"
+              }
+            ],
+            "startedAt": "2026-09-24T04:06:24.027706+00:00",
+            "preflight": "Actual first candidate inspected; face/anatomy stable, title omission or exact cane-detail/floor issue identified. Confining gaslamp light on character only. No source conflict.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d9b203e2-1443-4aed-b5b6-62bd676b2668.png",
+            "candidateSha256": "6de1af92ebe512fa6816142e7850072731a81f2f985c5859956cd76e26c51da2",
+            "completedAt": "2026-09-24T04:33:36.214655+00:00",
+            "visualInspection": [
+              "Exact title/ivory/identity/lighting now pass. Rechecked prose243-249: folded pencil lion must be full-bodied and uncertain with matching ear/tail errors, not polished full-tail sketch or head-only study. Rafe isolated tail has stray lower curl to remove."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Only correct the DRAWING ON THE PAPER in this otherwise finished Neressa sheet. Preserve her face/age, grey plait, all poses/hands/pencil, plum cardigan, dark skirt, exact heading and story subtitle, dim night lamplight oil painting and light ivory unchanged. Replace the current polished LION HEAD portrait on her folded paper with a SIMPLE UNCERTAIN FULL-BODIED PENCIL LION spanning a crease, as specified by story: left ear a little too long with a small notch at its tip; body and four paws visible; thin tail ENDS ABRUPTLY ABOVE rear paw, with an obvious blank gap before paw, no completed tail curl. It is her imperfect old childhood carving redrawn in uncertain pencil, not a professional wildlife head study. Keep paper size/placement/hand grip, no extra words, scenery or person.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d9b203e2-1443-4aed-b5b6-62bd676b2668.png",
+                "sha256": "6de1af92ebe512fa6816142e7850072731a81f2f985c5859956cd76e26c51da2",
+                "inspected": true,
+                "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+              }
+            ],
+            "startedAt": "2026-09-24T04:33:36.214655+00:00",
+            "preflight": "Source243-249 reread: exact uncertain pencil full lion and abrupt tail are central identity proof. Conflicting polished/head-only depiction removed. All successful title/light/identity retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-7113b17e-58c2-4d99-96d2-0ad1932f16ec.png",
+            "candidateSha256": "255c8012203b4bebc58c16fba0a08acf43f6c7c48bdb41532ddc75bb920ec121",
+            "completedAt": "2026-09-24T04:55:42.426205+00:00",
+            "visualInspection": [
+              "Actual final PNG inspected at full size: exact readable name/story title, clean ivory, same single identity across views, full unclipped anatomy and broad painted dark/light masses.",
+              "Offstage elder sister appearance stays old, grey-white plait and plum cardigan; hand/pencil anatomy and intimate dim lamplight retained. No reunion/hall scene implied.",
+              "Pencil sketch is now a rough full-bodied lion across folded paper, with long ear and visibly incomplete tail, replacing unrelated polished head portrait. Art-only name provenance retained in spec."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:55:42.426205+00:00",
+        "sourceSha256": "a29d5517349389699b7084711b09cefa5098c165600115639bf6591065407b86",
+        "outputSha256": "255c8012203b4bebc58c16fba0a08acf43f6c7c48bdb41532ddc75bb920ec121",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d9b203e2-1443-4aed-b5b6-62bd676b2668.png",
+            "sha256": "6de1af92ebe512fa6816142e7850072731a81f2f985c5859956cd76e26c51da2",
+            "inspected": true,
+            "role": "Actual candidate: narrow source-specific pencil lion and indicated tail cleanup"
+          }
+        ],
+        "evidence": [
+          "Actual final PNG inspected at full size: exact readable name/story title, clean ivory, same single identity across views, full unclipped anatomy and broad painted dark/light masses.",
+          "Offstage elder sister appearance stays old, grey-white plait and plum cardigan; hand/pencil anatomy and intimate dim lamplight retained. No reunion/hall scene implied.",
+          "Pencil sketch is now a rough full-bodied lion across folded paper, with long ear and visibly incomplete tail, replacing unrelated polished head portrait. Art-only name provenance retained in spec."
+        ],
+        "specificationSha256": "0f46bea6939414620048ab3dc42f095f4a1f177ab47d47f201796c93ad894305"
+      },
+      "outputSha256": "255c8012203b4bebc58c16fba0a08acf43f6c7c48bdb41532ddc75bb920ec121"
+    }
+  ]
+}

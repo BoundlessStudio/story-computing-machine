@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "slug": "lightning-carries-one",
+  "title": "Lightning Carries One",
+  "source": "stories/lightning-carries-one/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire source read from Hazel terminal arrival through final ordinary bus/walk. Hazel and younger brother Tobin are the sustained main cast; no extra travellers or family backstory figures qualify.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "driver, bus passengers, later two transported people, parents and child behind curtain",
+      "reason": "Supporting incidents or backstory, not sustained present main characters."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "hazel",
+      "name": "Hazel",
+      "role": "protagonist lightning traveller and older sister",
+      "form": "ordinary adult human woman; teleportation leaves no permanent body alteration",
+      "selectionEvidence": [
+        {
+          "quote": "She let the lamp and kettle blur until there was nowhere for it to carry her.",
+          "explanation": "Chooses restraint and ordinary travel, central character change."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult older sister; age unspecified.",
+        "hair": "Source cover compatible shoulder-length dark hair; prose does not specify.",
+        "clothing": "Coat dry upon arrival, then wet walking; phone pocketed.",
+        "equipment": "Ordinary phone with route; no technological origin for ability.",
+        "movement": "Solo instantaneous arrival apparent externally as lightning, declined final charge; ordinary walk follows Tobin several paces behind."
+      },
+      "visualInterpretation": [
+        "About forty-two, light-medium olive complexion, oval-angular face, straight narrow nose, dark shoulder-length straight hair, no scar or unusual anatomy.",
+        "Cover-compatible long gray-blue coat, dark trousers and modest black ankle shoes. Show wet walk state with ordinary hands after declining charge, no beam or renewed travel."
+      ],
+      "states": [
+        {
+          "name": "After the walk",
+          "description": "Rain-damp ordinary coat, visible ordinary hands, phone put aside; no active transit."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "lightning-carries-one:hazel",
+        "links": [],
+        "evidence": "Story-local named sibling; no universe match found."
+      },
+      "output": "stories/lightning-carries-one/art/characters/hazel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: lighting-weather. Image1 is the immutable complete Hazel character sheet. Preserve its exact identity, face geometry/age/hair, clothes, complete front and rear figures, all exact lettering and labels, personal objects, ivory ground and 1536x1024 composition. Change ONLY light on the person and personal objects. The selected source state is an AFTER-DARK wet walk; current broadly lit tan facial planes read daylight and are wrong.\nImage2 source cover sets the NIGHT exposure: subdued cool BLUE-VIOLET ambient darkness, no broad sun or studio fill. Two thirds of each face and body must join in deep cool slate/violet shadow, including a dark far cheek, forehead, eye socket and neck; muted cool reflected sky gives only limited upper-plane separation. A DISTANT streetlamp supplies at most one small subdued warm cheek/hand accent, not gold edging on both shoulders. Dark hair, beard if present, blue coat and gray trousers should sit in joined dim masses with subtle cool variation. Ordinary matte eyes with no bright white catchlights. Do not outline figures with a neon rim or make bright glowing wet highlights. Personal objects also stay dim: phone dark/inactive, or notebook/bag/papers softly gray rather than white beacons.\nWarm IVORY background remains bright and unchanged, exact title/name/labels stay dark and readable. Night darkness belongs ONLY to isolated character/objects, not a new scene. Keep bold matte oil directional brushwork and connected shapes from Image3; do not adopt Image2 photoreal rendering. No lightning, magical aura, extra figure, architecture, road, visible rainfall, new injury, altered body age, ground/floor patch or swatches. Preserve all successful content.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1489ffec-edc8-413f-b65b-6bc2241b4795.png",
+            "role": "immutable successful identity/content target; relight only to selected after-dark state",
+            "sha256": "65510847fc876026d481dab4f1eb70aa170cd28358179ae731c5df8b0cf397eb",
+            "inspected": true
+          },
+          {
+            "path": "stories/lightning-carries-one/title-image.jpg",
+            "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+            "inspected": true,
+            "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+          },
+          {
+            "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+            "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+            "inspected": true,
+            "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T03:02:27.855870+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Hazel\"; exact story title \"Lightning Carries One\". One HUMAN adult WOMAN, approximately42, medium-light olive complexion, OVAL angular face, straight narrow nose, softly squared chin, thin arched brows and matte brown eyes, dark straight shoulder-length hair hanging damply. Mature thoughtful face, not teenager, pinup or elderly. Image2 cover supports rear silhouette and dark hair only; do not invent an established face from its back view.\nShe wears the cover-compatible long GRAY-BLUE belted raincoat to mid-calf, dark straight trousers and modest plain black low ankle shoes. Clothing and hair wet from ordinary walking, suggested by darker paint folds not glossy CGI droplets. Two full-body views labelled \"After the walk\" and \"Rear\", ordinary relaxed standing/walking-neutral stance, both natural hands visible and empty. Same head and figure proportions front/back, no sibling or silhouettes in the sheet. Large same face labelled \"Listening\", restrained regret/attention, no melodramatic sob. One small ordinary dark PHONE shown isolated with blank inactive screen, label \"Route set aside\".\nThis is after she DECLINES the familiar charge and remains to walk. NO lightning bolts, beams, glowing bones, electrical aura, scorch marks, superhero costume, wings, staff or magical device. Her power is not a bodily mutation or caused by the phone. Image1 PRIMARY source rainy evening paint/light: subdued blue-violet shadows dominate, muted cool reflected sky on upper planes and tiny distant warm streetlamp accents only. Keep half of face/coat in joined cool shadow, no broad sunny fill or gold rim. Image2 is hair/coat silhouette only; ignore realistic rendering, setting, other person and lightning.",
+            "references": [
+              {
+                "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+                "role": "primary same-story rainy evening cool light and oil masses only; no house or street",
+                "inspected": true,
+                "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+              },
+              {
+                "path": "stories/lightning-carries-one/title-image.jpg",
+                "role": "compatible dark shoulder hair and gray-blue long coat silhouette only; no facial identity claim, realism, lightning, scene or other character",
+                "inspected": true,
+                "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+              }
+            ],
+            "preflight": [
+              "Full source and valid false marker read; adult older sister with coat/phone, later damp ordinary-walk state and declined charge.",
+              "Source cover and evening oil actually inspected; use rear hair/coat silhouette only, custom face is declared art casting. No unrelated character anchor.",
+              "No lightning effect or power source invented; complete front/rear wet-clothing state and inactive phone fit warm ivory, modest cool night planes."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1489ffec-edc8-413f-b65b-6bc2241b4795.png",
+            "finishedAt": "2026-09-24T03:09:17.413692+00:00",
+            "outputSha256": "65510847fc876026d481dab4f1eb70aa170cd28358179ae731c5df8b0cf397eb",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate inspected: exact name/title, matching source-compatible clothed adult identity, complete front/rear views and personal prop details pass.",
+              "Facial planes remain too brightly and broadly exposed for selected after-dark rainy walk. Targeted lighting correction required; preserve identity/content."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:09:19.463906+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lighting-correction",
+            "prompt": "Use case: lighting-weather. Image1 is the immutable complete Hazel character sheet. Preserve its exact identity, face geometry/age/hair, clothes, complete front and rear figures, all exact lettering and labels, personal objects, ivory ground and 1536x1024 composition. Change ONLY light on the person and personal objects. The selected source state is an AFTER-DARK wet walk; current broadly lit tan facial planes read daylight and are wrong.\nImage2 source cover sets the NIGHT exposure: subdued cool BLUE-VIOLET ambient darkness, no broad sun or studio fill. Two thirds of each face and body must join in deep cool slate/violet shadow, including a dark far cheek, forehead, eye socket and neck; muted cool reflected sky gives only limited upper-plane separation. A DISTANT streetlamp supplies at most one small subdued warm cheek/hand accent, not gold edging on both shoulders. Dark hair, beard if present, blue coat and gray trousers should sit in joined dim masses with subtle cool variation. Ordinary matte eyes with no bright white catchlights. Do not outline figures with a neon rim or make bright glowing wet highlights. Personal objects also stay dim: phone dark/inactive, or notebook/bag/papers softly gray rather than white beacons.\nWarm IVORY background remains bright and unchanged, exact title/name/labels stay dark and readable. Night darkness belongs ONLY to isolated character/objects, not a new scene. Keep bold matte oil directional brushwork and connected shapes from Image3; do not adopt Image2 photoreal rendering. No lightning, magical aura, extra figure, architecture, road, visible rainfall, new injury, altered body age, ground/floor patch or swatches. Preserve all successful content.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1489ffec-edc8-413f-b65b-6bc2241b4795.png",
+                "role": "immutable successful identity/content target; relight only to selected after-dark state",
+                "sha256": "65510847fc876026d481dab4f1eb70aa170cd28358179ae731c5df8b0cf397eb",
+                "inspected": true
+              },
+              {
+                "path": "stories/lightning-carries-one/title-image.jpg",
+                "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+                "inspected": true,
+                "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+              },
+              {
+                "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+                "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+                "inspected": true,
+                "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+              }
+            ],
+            "preflight": [
+              "Actual successful initial identity/content inspected; broad daylight-valued skin contradicts selected after-dark scene.",
+              "Use immutable candidate, inspected actual source night cover and oil brushwork reference with roles separated; no face recasting or revival of lightning effect.",
+              "Single targeted relighting keeps ivory/title clear and supported present intact clothes/props; source unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-afd4de2b-8d36-4933-99ea-36d64f12fafd.png",
+            "finishedAt": "2026-09-24T03:16:05.335748+00:00",
+            "outputSha256": "f4b9f38038376234996053a7da80ef19b360c1e13a18af3aa3870ab945754f30",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: consistent mature Hazel face, shoulder dark hair, complete front/rear gray-blue wet coat and low shoes; exact name/title/labels, ordinary empty hands and inactive phone.",
+              "After-dark correction now joins most face/coat into subdued cool violet-blue shadow with small warm near-plane accent; removes broad daylight skin exposure while keeping legible ivory text and bold oil planes.",
+              "Selected after-declined-charge state has no lightning, body mutation, scenery, second person or swatches; source-compatible rear silhouette and art-only face retained."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-afd4de2b-8d36-4933-99ea-36d64f12fafd.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "b3f8974df37757803f49c07dacfde1cf572032ae75b519f5d34c45a015a84f68",
+        "outputSha256": "f4b9f38038376234996053a7da80ef19b360c1e13a18af3aa3870ab945754f30",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-1489ffec-edc8-413f-b65b-6bc2241b4795.png",
+            "role": "immutable successful identity/content target; relight only to selected after-dark state",
+            "sha256": "65510847fc876026d481dab4f1eb70aa170cd28358179ae731c5df8b0cf397eb",
+            "inspected": true
+          },
+          {
+            "path": "stories/lightning-carries-one/title-image.jpg",
+            "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+            "inspected": true,
+            "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+          },
+          {
+            "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+            "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+            "inspected": true,
+            "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: consistent mature Hazel face, shoulder dark hair, complete front/rear gray-blue wet coat and low shoes; exact name/title/labels, ordinary empty hands and inactive phone.",
+          "After-dark correction now joins most face/coat into subdued cool violet-blue shadow with small warm near-plane accent; removes broad daylight skin exposure while keeping legible ivory text and bold oil planes.",
+          "Selected after-declined-charge state has no lightning, body mutation, scenery, second person or swatches; source-compatible rear silhouette and art-only face retained."
+        ],
+        "specificationSha256": "bdfef52a949ff8397d0c2983eb4606e4d8662b2df086ee43e8cb45b8d5a81ecf"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f4b9f38038376234996053a7da80ef19b360c1e13a18af3aa3870ab945754f30"
+    },
+    {
+      "id": "tobin",
+      "name": "Tobin",
+      "role": "younger brother, witness and owner of the route/notebook boundaries",
+      "form": "ordinary adult human man with remembered temporal trauma and modest accelerated aging",
+      "selectionEvidence": [
+        {
+          "quote": "If I stop, I stop. If we meet, we walk or take the bus.",
+          "explanation": "Chooses terms, retains control of notebook and relationship."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult younger brother; silver increasingly present in beard. Eleven to fourteen months estimated accelerated aging, not decades.",
+        "hair": "Silver in beard explicit; cover has short gray-dark hair.",
+        "clothing": "Coat and shoes; current shoes intact, failed soles belong to remembered transit.",
+        "equipment": "Thin grocery bag, battered cheap black notebook with gray bleached spine/bowed cover and swollen pages.",
+        "movement": "Walks ordinary route, becomes startled by thunder, handles notebook deliberately; no cartoon madness or supernatural body change."
+      },
+      "visualInterpretation": [
+        "Around forty, slightly younger face than Hazel, shared narrow nose family resemblance but broader cheek/jaw, pale olive skin, short graying dark side-parted hair and close silver-dark beard.",
+        "Dark navy ordinary jacket/coat from cover, gray trousers and intact worn low shoes; wet-walk state and guarded weary expression. Notebook remains his own held object."
+      ],
+      "states": [
+        {
+          "name": "The walk",
+          "description": "Rain-damp ordinary clothes and thin bag holding his worn notebook."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "lightning-carries-one:tobin",
+        "links": [],
+        "evidence": "Story-local named sibling; no universe match found."
+      },
+      "output": "stories/lightning-carries-one/art/characters/tobin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: lighting-weather. Image1 is the immutable complete Tobin character sheet. Preserve its exact identity, face geometry/age/hair, clothes, complete front and rear figures, all exact lettering and labels, personal objects, ivory ground and 1536x1024 composition. Change ONLY light on the person and personal objects. The selected source state is an AFTER-DARK wet walk; current broadly lit tan facial planes read daylight and are wrong.\nImage2 source cover sets the NIGHT exposure: subdued cool BLUE-VIOLET ambient darkness, no broad sun or studio fill. Two thirds of each face and body must join in deep cool slate/violet shadow, including a dark far cheek, forehead, eye socket and neck; muted cool reflected sky gives only limited upper-plane separation. A DISTANT streetlamp supplies at most one small subdued warm cheek/hand accent, not gold edging on both shoulders. Dark hair, beard if present, blue coat and gray trousers should sit in joined dim masses with subtle cool variation. Ordinary matte eyes with no bright white catchlights. Do not outline figures with a neon rim or make bright glowing wet highlights. Personal objects also stay dim: phone dark/inactive, or notebook/bag/papers softly gray rather than white beacons.\nWarm IVORY background remains bright and unchanged, exact title/name/labels stay dark and readable. Night darkness belongs ONLY to isolated character/objects, not a new scene. Keep bold matte oil directional brushwork and connected shapes from Image3; do not adopt Image2 photoreal rendering. No lightning, magical aura, extra figure, architecture, road, visible rainfall, new injury, altered body age, ground/floor patch or swatches. Preserve all successful content.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8f9dac25-13f7-433c-9046-dc3ce2f13a01.png",
+            "role": "immutable successful identity/content target; relight only to selected after-dark state",
+            "sha256": "d1d1c6861457e23c171eb4d879c0580c9e1317795a747474530c231a207cfc9b",
+            "inspected": true
+          },
+          {
+            "path": "stories/lightning-carries-one/title-image.jpg",
+            "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+            "inspected": true,
+            "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+          },
+          {
+            "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+            "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+            "inspected": true,
+            "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T03:02:27.859461+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Tobin\"; exact story title \"Lightning Carries One\". One ordinary adult HUMAN MAN about40, pale olive complexion, short gray-dark hair parted neatly at one side, close beard mixing dark hair with obvious SILVER. Adult younger brother of Hazel, not elderly: no extreme frailty, deep ancient wrinkles or hunched geriatric body. Broader CHEEKS and compact square jaw around a narrow straight family nose, low straight brows, ordinary tired matte gray-brown eyes. Guarded reserve and fatigue, not a deranged expression or horror caricature.\nCover-compatible DARK NAVY casual coat/jacket over plain sweater, gray trousers and intact worn low dark shoes. Damp from rain but broad matte paint, no glossy droplets. Two complete same-state front/rear full-body studies labelled \"The walk\" and \"Rear\". He holds a THIN partly translucent grocery BAG close to his torso; through it a single battered BLACK NOTEBOOK is visible, gray-bleached spine, bowed soft cover, swollen pages. Natural hands, no notebook confiscation, no other person. Large sameface labelled \"Choosing his terms\". One isolated close study of that same black notebook, CLOSED with three selected pale loose sheets beside it, label \"Pages he chooses\"; no readable diary paragraphs or exposed drawings of rooms.\nShow the PRESENT intact shoes only, not the peeled soles from his transit memories. NO lightning, magical body markings, distorted anatomy, straitjacket, pills, weapon or instant aging sequence. Image1 PRIMARY source rainy evening palette: dim blue-violet connected shadows over much of face/navy coat, gentle cool upper-facing light and very small warm distant streetlamp accents, no sunny studio, gold rim or orange-blue spectacle. Image2 supports short gray-dark hair and navy-clothes back silhouette ONLY, not a face or photo rendering. Keep the character separate from scene.",
+            "references": [
+              {
+                "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+                "role": "primary rainy evening restrained cool light and oil masses only; no scenery",
+                "inspected": true,
+                "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+              },
+              {
+                "path": "stories/lightning-carries-one/title-image.jpg",
+                "role": "compatible Tobin short gray-dark hair/navy jacket back silhouette only; no facial identity claim or photoreal light/scene",
+                "inspected": true,
+                "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+              }
+            ],
+            "preflight": [
+              "Full source supports adult younger brother/silver beard, modest additional aging, notebook/bag and ordinary current shoes.",
+              "Actual cover/evening oil inspected; preserve dark jacket/short hair silhouette with new compatible face, no extreme aging or caricatured trauma.",
+              "Present wet-walk state holds his own notebook, selected pages isolated and unreadable. No transient-memory shoe damage or supernatural anatomy."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8f9dac25-13f7-433c-9046-dc3ce2f13a01.png",
+            "finishedAt": "2026-09-24T03:09:17.418876+00:00",
+            "outputSha256": "d1d1c6861457e23c171eb4d879c0580c9e1317795a747474530c231a207cfc9b",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate inspected: exact name/title, matching source-compatible clothed adult identity, complete front/rear views and personal prop details pass.",
+              "Facial planes remain too brightly and broadly exposed for selected after-dark rainy walk. Targeted lighting correction required; preserve identity/content."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:09:19.470322+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-lighting-correction",
+            "prompt": "Use case: lighting-weather. Image1 is the immutable complete Tobin character sheet. Preserve its exact identity, face geometry/age/hair, clothes, complete front and rear figures, all exact lettering and labels, personal objects, ivory ground and 1536x1024 composition. Change ONLY light on the person and personal objects. The selected source state is an AFTER-DARK wet walk; current broadly lit tan facial planes read daylight and are wrong.\nImage2 source cover sets the NIGHT exposure: subdued cool BLUE-VIOLET ambient darkness, no broad sun or studio fill. Two thirds of each face and body must join in deep cool slate/violet shadow, including a dark far cheek, forehead, eye socket and neck; muted cool reflected sky gives only limited upper-plane separation. A DISTANT streetlamp supplies at most one small subdued warm cheek/hand accent, not gold edging on both shoulders. Dark hair, beard if present, blue coat and gray trousers should sit in joined dim masses with subtle cool variation. Ordinary matte eyes with no bright white catchlights. Do not outline figures with a neon rim or make bright glowing wet highlights. Personal objects also stay dim: phone dark/inactive, or notebook/bag/papers softly gray rather than white beacons.\nWarm IVORY background remains bright and unchanged, exact title/name/labels stay dark and readable. Night darkness belongs ONLY to isolated character/objects, not a new scene. Keep bold matte oil directional brushwork and connected shapes from Image3; do not adopt Image2 photoreal rendering. No lightning, magical aura, extra figure, architecture, road, visible rainfall, new injury, altered body age, ground/floor patch or swatches. Preserve all successful content.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8f9dac25-13f7-433c-9046-dc3ce2f13a01.png",
+                "role": "immutable successful identity/content target; relight only to selected after-dark state",
+                "sha256": "d1d1c6861457e23c171eb4d879c0580c9e1317795a747474530c231a207cfc9b",
+                "inspected": true
+              },
+              {
+                "path": "stories/lightning-carries-one/title-image.jpg",
+                "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+                "inspected": true,
+                "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+              },
+              {
+                "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+                "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+                "inspected": true,
+                "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+              }
+            ],
+            "preflight": [
+              "Actual successful initial identity/content inspected; broad daylight-valued skin contradicts selected after-dark scene.",
+              "Use immutable candidate, inspected actual source night cover and oil brushwork reference with roles separated; no face recasting or revival of lightning effect.",
+              "Single targeted relighting keeps ivory/title clear and supported present intact clothes/props; source unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a92e402c-a613-4f12-bde5-cc09848e12a8.png",
+            "finishedAt": "2026-09-24T03:16:05.359263+00:00",
+            "outputSha256": "851eea8b8298874338c6234f3aad20dcd3cc5e4ca398760bd170aab5860a848b",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: coherent adult Tobin with short silver-dark hair and beard, still middle-aged rather than frail/ancient; complete front/rear dark coat/gray trousers/intact shoes and exact readable name/title/labels.",
+              "He keeps bag/notebook in each view; worn black notebook with gray spine and three selected loose sheets isolated, no source-memory shoe injury, exaggerated distress or invented treatment.",
+              "Corrected night light holds joined cool blue-violet shadows over face, hair and clothing, dim paper/bag, small modest warmer near-plane accents. Broad matte oil and clear ivory character-only composition preserved."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a92e402c-a613-4f12-bde5-cc09848e12a8.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "b3f8974df37757803f49c07dacfde1cf572032ae75b519f5d34c45a015a84f68",
+        "outputSha256": "851eea8b8298874338c6234f3aad20dcd3cc5e4ca398760bd170aab5860a848b",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8f9dac25-13f7-433c-9046-dc3ce2f13a01.png",
+            "role": "immutable successful identity/content target; relight only to selected after-dark state",
+            "sha256": "d1d1c6861457e23c171eb4d879c0580c9e1317795a747474530c231a207cfc9b",
+            "inspected": true
+          },
+          {
+            "path": "stories/lightning-carries-one/title-image.jpg",
+            "role": "source cover actual after-dark exposure and restrained cool sky/streetlamp light only; no scene/lightning/photo rendering",
+            "inspected": true,
+            "sha256": "a81d41b0687d8b03714ed71b1bdda616c80b4a8a948763be85e8931cd667bdd0"
+          },
+          {
+            "path": "stories/lightning-carries-one/art/landscapes/05-the-house-across-the-street.png",
+            "role": "same-story Group of Seven palette/brushwork only; night level governed by source cover",
+            "inspected": true,
+            "sha256": "2e025c7ad189fb81cfd49cf5847ff244a6face25792c762939cd6b6b354dccb7"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: coherent adult Tobin with short silver-dark hair and beard, still middle-aged rather than frail/ancient; complete front/rear dark coat/gray trousers/intact shoes and exact readable name/title/labels.",
+          "He keeps bag/notebook in each view; worn black notebook with gray spine and three selected loose sheets isolated, no source-memory shoe injury, exaggerated distress or invented treatment.",
+          "Corrected night light holds joined cool blue-violet shadows over face, hair and clothing, dim paper/bag, small modest warmer near-plane accents. Broad matte oil and clear ivory character-only composition preserved."
+        ],
+        "specificationSha256": "ad2cb8732c88eaa83cdff3bac19a47fdcafb56d79545d4edf0d08ff6000b890f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "851eea8b8298874338c6234f3aad20dcd3cc5e4ca398760bd170aab5860a848b"
+    }
+  ],
+  "sourceSha256": "b3f8974df37757803f49c07dacfde1cf572032ae75b519f5d34c45a015a84f68"
+}

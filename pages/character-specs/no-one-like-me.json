@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "slug": "no-one-like-me",
+  "title": "No One Like Me",
+  "source": "stories/no-one-like-me/story.md",
+  "sourceSha256": "a0b4c2f1423a38050c76a766f2db807c2c1e09333c9398ac40f42602bd096fb8",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished prose read in full. Sereva narrator and Jannik fellow finalist carry performance/relationship from opening through final encore.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Host, stage runner, microphone woman, critics and audience members",
+      "reason": "Functional/brief officials, commentary or crowd responses; no independent main arc."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-c866da45-9094-4f2d-9400-e2249f62c9fc.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c866da45-9094-4f2d-9400-e2249f62c9fc.png",
+      "inspected": true,
+      "status": "recovered-and-inspected",
+      "role": "User original artificial body/theatrical elegance and venue colour inspiration.",
+      "recovery": {
+        "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-12T23-33-52-01a098d4-194a-7de1-86fd-249fe9f08a27.jsonl",
+        "sourceSessionSha256": "64ec9c3bc9519d8b3d8f2fd3d6b516fdc018d11fb6d45142c342903a02934cd1",
+        "line": 9,
+        "method": "Decoded exact adjacent user input_image base64 bytes; no image editing/re-encoding.",
+        "inspection": "Original porcelain/gold adult artificial singer, short black bob, segmented joints, gold/black/violet venue. Source prose/cover control gown and four vocal chambers; original body-corset and polished light not binding."
+      },
+      "sha256": "1b8495d47dc48f54a164efd50a3c0dbe4a1ba8a6e52d373d0d66e87a0a20d54e"
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "sereva",
+      "name": "Sereva",
+      "role": "Artificial singer narrator chooses original four-part song and loses competition while discovering audience/peer uptake.",
+      "form": "Artificial adult feminine humanoid",
+      "selectionEvidence": [
+        {
+          "quote": "My four throat panels shift against the edge of the collar",
+          "explanation": "Explicit physical anatomy central to original polyphonic singing."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "White porcelain face divided by fine black seams; gold jaw hinges; short black hair leaves neck visible. Four throat panels, four independent air drives/reeds/shaping plates/openings.",
+        "clothing": "Long black gown with gold inside pleats; pale artificial hands.",
+        "equipment": [
+          "Earpiece"
+        ],
+        "scale": "Adult humanlike proportions, both arms/legs normal; skirt/train kept complete."
+      },
+      "explicitCanon": [
+        "Only this non-canon story evidence; no universal artificial-being anatomy inferred.",
+        "Four independent live vocal chambers; not playback/loudspeaker identity; preserve her personhood."
+      ],
+      "visualInterpretation": [
+        "Original/cover compatible adult porcelain face and bob, articulated limbs/gold joints. Matte Group of Seven interpretation, source cloth gown and four slots take precedence over original body-corset."
+      ],
+      "states": [
+        {
+          "name": "Rest",
+          "description": "Throat panels closed."
+        },
+        {
+          "name": "Singing",
+          "description": "Four small gold throat openings/panels visible with four independent chambers, not four faces."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "no-one-like-me:sereva",
+        "links": [],
+        "evidence": "No known recurrence."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Sereva",
+        "sourceRole": "Artificial singer narrator chooses original four-part song and loses competition while discovering audience/peer uptake.",
+        "scope": "Exact finished-story name."
+      },
+      "output": "stories/no-one-like-me/art/characters/sereva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: style-transfer. Image1 is the EXACT Sereva identity/anatomy/composition target. Images2/3 are the PRIMARY PAINT LANGUAGE references, never their landscapes. Repaint Sereva throughout as BOLD MATTE OPAQUE CANADIAN GROUP OF SEVEN OIL: all porcelain face/arms/hands built from a FEW LARGE SCULPTED BRUSH-COLOUR MASSES, directional bristle-painted edges, quiet connected shadow shapes, selective substantial impasto. Eyes are simple dark paint marks with small muted planes, no glassy doll catchlights, eyeliner photo sheen or smooth CGI skin. Gold joints are FLAT OCHRE/UMBER painted forms, no shiny mirrored metal or 3D highlights. Black-gold cloth folds are broad BLACK/VIOLET and ochre paint masses with a few directional strokes, NOT glossy realistically modelled folds sprinkled with chips. Completely remove the smooth digital rendering substrate; apply the same confident simplification used in reference hills/trees to her face/anatomy. Preserve her exact white-porcelain adult face structure, fine black seams, short BLACK LOOSE BOB in every view, gold jaw/joint hinges, pale articulated hands, black CLOTH gown with gold INSIDE pleats, exactly FOUR vocal throat openings in the singing head (two per side), closed resting panels, and every existing meaningful view/label. Preserve understated stage gold/violet light, no new scene/glow/rim. REFIT figures about5% smaller with at least40px clear IVORY margin around entire LEFT gown train and raised fingertips. Both full dresses and all limbs wholly visible. Keep exact \"Sereva\", \"No One Like Me\", \"Four voices\", \"Resting state\", \"Expressive hand\". UNIFORM LIGHT WARM IVORY support remains empty, no scenery or swatches. Identity and anatomy must survive simplification.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a5597a4-c500-4cca-9d6d-ead10f98b2a7.png",
+            "sha256": "7f147d9479aeb4eaa0c93ad9d0f2ac457d7d46a67d9504baa3f333f7e66439dc",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Sereva\". Exact subtitle \"No One Like Me\". Adult feminine artificial singer, one identity, compatible oval face with original and source cover: WHITE PORCELAIN face divided by fine black seams, gold jaw hinges, short side-parted black bob leaving neck visible, dark expressive eyes, restrained deep rose mouth. Pale articulated porcelain hands, gold mechanical elbow/wrist joints, ordinary humanoid two arms/two legs. She wears actual long BLACK CLOTH GOWN with GOLD INSIDE THE PLEATS, source-cover silhouette, not robot body-corset from original. Two unclipped full-body views front and rear-three-quarter, one gently turning to reveal inner gold pleats, one arm in expressive music gesture; whole skirt/train must fit with ivory margins. One small quiet head study with neck panels closed and one larger frontal SINGING FACE/NECK study labelled \"Four voices\": exactly FOUR small elongated gold vocal openings in the neck, two small slots on left and two on right above collar, formed by four opened panels; not a giant fan, extra face, gaping monster mouth, speakers or external pipes. No internal cutaway invented, no exposed flesh. Keep all four easy to count in the detail, consistent anatomy across views. FIRST2 images paint/layout only. Third original and fourth source cover preserve identity and shape only, fifth stage paint supplies low muted broad gold spot-facing planes with deep connected VIOLET shadows. Render porcelain and gold as matte opaque oil, not CGI gloss, flares or gold rimlight. No trophy: she does not win. No microphone stand, cameras, music notes, audience, stage floor, props or background.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c866da45-9094-4f2d-9400-e2249f62c9fc.png",
+                "role": "Original user image: Sereva compatible artificial face/short hair/porcelain-gold anatomy and theatrical gesture only.",
+                "notes": "Source prose controls cloth black/gold pleated gown and exactly four throat panels; disregard shiny metal body-corset and image scenery.",
+                "inspected": true,
+                "sha256": "1b8495d47dc48f54a164efd50a3c0dbe4a1ba8a6e52d373d0d66e87a0a20d54e"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/title-image.jpg",
+                "role": "Same-story compatible Sereva face/hair and cloth gown silhouette, no rendering/background.",
+                "notes": "Face is white porcelain with fine seams, dark bob, gold joints; gown has gold inner pleats. No floor, audience or lights in sheet.",
+                "inspected": true,
+                "sha256": "e52cb21e40a6bbc7ce0ba9403595f0d2dac28ce5e6975fcfa31c2c6ca41b7419"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/02-the-black-stage.png",
+                "role": "Performance-stage palette/spotlight motivation only, no location.",
+                "notes": "Rich violet connected shadows and muted golden broad stage light, no glossy rim or lamps on sheet.",
+                "inspected": true,
+                "sha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07"
+              }
+            ],
+            "reason": "Initial folio after original reference recovery and source-specific anatomy/state preflight.",
+            "startedAt": "2026-09-24T03:55:37.516570+00:00",
+            "preflight": "Entire story read; recovered original, same-story cover, stage and corridor actual pixels inspected. Exactly4 throat panels reconciled with original shape; no inherited shiny body-corset. Jannik wig/final/encore states separated, ordinary face distinct.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-595015a7-eee1-4966-8ba9-5374428a6c6b.png",
+            "outputSha256": "1267821aa31270ac3f76746be7ede45f73f704478d97c69def1ccefd04626a8c",
+            "generatorReview": "Porcelain/gown/four-chamber/source/format gates pass, but rear full view hair resembles an updo while source consistently short black hair. Local bob silhouette correction."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "One local continuity correction only: in the REAR THREE-QUARTER FULL-BODY Sereva view at center, her hair currently looks gathered into a small bun. Replace that rear-view hair shape with the SAME short loose side-parted black BOB shown in the front full-body figure and both face studies: natural short layered locks curving just below ears, no knot, bun, ponytail, tie or updo. Keep neck visible. Do not change any other view or feature: white porcelain face/seams, gold joints, exactly four vocal neck openings in the singing detail, closed-panel rest state, black cloth gown/gold pleats, hand anatomy, gestures, all text, oil paint texture and ivory. Preserve every existing complete pose and composition. Only the one rear-view hair silhouette needs correction.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-595015a7-eee1-4966-8ba9-5374428a6c6b.png",
+                "role": "Actual inspected immutable first candidate; rear-view hair only.",
+                "inspected": true,
+                "sha256": "1267821aa31270ac3f76746be7ede45f73f704478d97c69def1ccefd04626a8c"
+              }
+            ],
+            "reason": "Unify short bob across all views.",
+            "startedAt": "2026-09-24T04:03:33.861385+00:00",
+            "preflight": "Candidate compared with recovered original, cover and source; only rear hair changes, all count/anatomy constraints preserved.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a5597a4-c500-4cca-9d6d-ead10f98b2a7.png",
+            "outputSha256": "7f147d9479aeb4eaa0c93ad9d0f2ac457d7d46a67d9504baa3f333f7e66439dc",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:10:41.290765+00:00",
+            "generatorReview": "Root independent review: glossy CGI porcelain/joints, doll eye shine and shiny modelled cloth under chips; left train lacks margin."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:57:11.756294+00:00",
+            "prompt": "Use case: style-transfer. Image1 is the EXACT Sereva identity/anatomy/composition target. Images2/3 are the PRIMARY PAINT LANGUAGE references, never their landscapes. Repaint Sereva throughout as BOLD MATTE OPAQUE CANADIAN GROUP OF SEVEN OIL: all porcelain face/arms/hands built from a FEW LARGE SCULPTED BRUSH-COLOUR MASSES, directional bristle-painted edges, quiet connected shadow shapes, selective substantial impasto. Eyes are simple dark paint marks with small muted planes, no glassy doll catchlights, eyeliner photo sheen or smooth CGI skin. Gold joints are FLAT OCHRE/UMBER painted forms, no shiny mirrored metal or 3D highlights. Black-gold cloth folds are broad BLACK/VIOLET and ochre paint masses with a few directional strokes, NOT glossy realistically modelled folds sprinkled with chips. Completely remove the smooth digital rendering substrate; apply the same confident simplification used in reference hills/trees to her face/anatomy. Preserve her exact white-porcelain adult face structure, fine black seams, short BLACK LOOSE BOB in every view, gold jaw/joint hinges, pale articulated hands, black CLOTH gown with gold INSIDE pleats, exactly FOUR vocal throat openings in the singing head (two per side), closed resting panels, and every existing meaningful view/label. Preserve understated stage gold/violet light, no new scene/glow/rim. REFIT figures about5% smaller with at least40px clear IVORY margin around entire LEFT gown train and raised fingertips. Both full dresses and all limbs wholly visible. Keep exact \"Sereva\", \"No One Like Me\", \"Four voices\", \"Resting state\", \"Expressive hand\". UNIFORM LIGHT WARM IVORY support remains empty, no scenery or swatches. Identity and anatomy must survive simplification.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a5597a4-c500-4cca-9d6d-ead10f98b2a7.png",
+                "sha256": "7f147d9479aeb4eaa0c93ad9d0f2ac457d7d46a67d9504baa3f333f7e66439dc",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Root independent review: glossy CGI porcelain/joints, doll eye shine and shiny modelled cloth under chips; left train lacks margin.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b5760349-cb7c-432b-9a63-b20b758f1d18.png",
+            "outputSha256": "4118c9bc23da1852438a18d67b46d83e19ca185e0247c39c85813fe305bb272f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:08:28.088425+00:00",
+            "generatorReview": "Actual pixels inspected at full size after root-requested local repaint: matte opaque ivory face/arm planes and black/gold cloth replace glossy rendered surfaces; four throat apertures and resting panels remain, short black bob and recovered-original identity retained; left gown train has clear ivory margin; exact name/title readable. Stage-directed light, consistent joints/hands, no scenery. Independent root review pending on this corrected version."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:08:28.088425+00:00",
+        "sourceSha256": "a0b4c2f1423a38050c76a766f2db807c2c1e09333c9398ac40f42602bd096fb8",
+        "outputSha256": "4118c9bc23da1852438a18d67b46d83e19ca185e0247c39c85813fe305bb272f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a5597a4-c500-4cca-9d6d-ead10f98b2a7.png",
+            "sha256": "7f147d9479aeb4eaa0c93ad9d0f2ac457d7d46a67d9504baa3f333f7e66439dc",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected at full size after root-requested local repaint: matte opaque ivory face/arm planes and black/gold cloth replace glossy rendered surfaces; four throat apertures and resting panels remain, short black bob and recovered-original identity retained; left gown train has clear ivory margin; exact name/title readable. Stage-directed light, consistent joints/hands, no scenery. Independent root review pending on this corrected version.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "2b6c27786b5eeac06c28682c21998337c447fea203bf1d15202a2582ac1abf64"
+      },
+      "references": [
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-c866da45-9094-4f2d-9400-e2249f62c9fc.png",
+          "role": "Original user image: Sereva compatible artificial face/short hair/porcelain-gold anatomy and theatrical gesture only.",
+          "notes": "Source prose controls cloth black/gold pleated gown and exactly four throat panels; disregard shiny metal body-corset and image scenery.",
+          "inspected": true,
+          "sha256": "1b8495d47dc48f54a164efd50a3c0dbe4a1ba8a6e52d373d0d66e87a0a20d54e"
+        },
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/title-image.jpg",
+          "role": "Same-story compatible Sereva face/hair and cloth gown silhouette, no rendering/background.",
+          "notes": "Face is white porcelain with fine seams, dark bob, gold joints; gown has gold inner pleats. No floor, audience or lights in sheet.",
+          "inspected": true,
+          "sha256": "e52cb21e40a6bbc7ce0ba9403595f0d2dac28ce5e6975fcfa31c2c6ca41b7419"
+        },
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/02-the-black-stage.png",
+          "role": "Performance-stage palette/spotlight motivation only, no location.",
+          "notes": "Rich violet connected shadows and muted golden broad stage light, no glossy rim or lamps on sheet.",
+          "inspected": true,
+          "sha256": "a47d681463a524aaa081703c6c3f7d8b1934a404f377ad519e179f6c0119dd07"
+        }
+      ],
+      "outputSha256": "4118c9bc23da1852438a18d67b46d83e19ca185e0247c39c85813fe305bb272f"
+    },
+    {
+      "id": "jannik",
+      "name": "Jannik",
+      "role": "Human fellow finalist/legitimate winner challenges Sereva's tune, preserves his own triumph and transforms her refrain in encore.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "He makes a face at the abandoned wig, leaves it on the chair, and goes out for his encore",
+          "explanation": "Wig and natural hair states belong to same performer."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "Ordinary adult male human.",
+        "clothing": "Interpreted plum-dark velvet jacket, dark shirt/trousers/shoes and restrained silver-gray scarf; same outfit in final/encore.",
+        "equipment": [
+          "Long black performance wig; own hair wet/flattened underneath",
+          "Tall gold spiral trophy after winning only"
+        ],
+        "distinctiveFeatures": [
+          "Wig worn in imitation final; removed backstage and for encore."
+        ]
+      },
+      "explicitCanon": [
+        "Human singer produces live imitation and wins legitimately when Sereva disqualified.",
+        "Exact age, ethnicity, own hair colour and outfit unspecified."
+      ],
+      "visualInterpretation": [
+        "Early-thirties tan man with long narrow rounded-chin face, short dark-blond natural hair, plum-dark jacket and silver-gray scarf interpreted; source specifies only long black wig and damp flattened own hair."
+      ],
+      "states": [
+        {
+          "name": "Final",
+          "description": "Wearing black wig."
+        },
+        {
+          "name": "Encore",
+          "description": "Own damp flattened hair, wig removed."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "no-one-like-me:jannik",
+        "links": [],
+        "evidence": "No known recurrence."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Jannik",
+        "sourceRole": "Human fellow finalist/legitimate winner challenges Sereva's tune, preserves his own triumph and transforms her refrain in encore.",
+        "scope": "Exact finished-story name."
+      },
+      "output": "stories/no-one-like-me/art/characters/jannik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Jannik\". Exact subtitle \"No One Like Me\". Ordinary adult human male singer/fellow finalist, interpreted earlythirties, lean average build, medium tan skin, long narrow face with rounded chin, brown eyes, short naturally dark-blond hair slightly damp and flattened. Do not copy any identifiable real singer or reference woman. Same interpreted performance clothing throughout: muted plum-black velvet jacket, plain dark shirt, black trousers and plain low black stage shoes; restrained silver-gray scarf draped at neck as costume interpretation. Two complete body views: front three-quarter \"Final\" WEARING long black wig; rear three-quarter \"Encore\" with wig REMOVED and own short dark-blond damp hair. One larger bareheaded smiling-tired face study and small separate wig detail as an object (no wig stand/head). Facial structure identical with and without wig, wig does not change body age. No trophies necessary. No microphone, instruments, headset, stage, furniture or audience. First2 images painting/layout only. Third backstage painting informs ordinary indoor cream overhead practical light and connected muted violet shadows and long black wig object only, never face, room or furniture. Paint face/hands in broad simplified matte opaque strokes like clothes, avoid orange rim, gloss and daylight fill.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/01-dressing-room-corridor.png",
+            "role": "Backstage practical illumination and black performance wig only; no face or room.",
+            "notes": "Quiet cream overhead bulb light, connected violet-blue shadows, long black wig in waiting area; face/outfit interpreted.",
+            "inspected": true,
+            "sha256": "86bee4763710ae9ab88ef663f027d6ac0cfdee80f166fce9f392482217eb9fc3"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Jannik\". Exact subtitle \"No One Like Me\". Ordinary adult human male singer/fellow finalist, interpreted earlythirties, lean average build, medium tan skin, long narrow face with rounded chin, brown eyes, short naturally dark-blond hair slightly damp and flattened. Do not copy any identifiable real singer or reference woman. Same interpreted performance clothing throughout: muted plum-black velvet jacket, plain dark shirt, black trousers and plain low black stage shoes; restrained silver-gray scarf draped at neck as costume interpretation. Two complete body views: front three-quarter \"Final\" WEARING long black wig; rear three-quarter \"Encore\" with wig REMOVED and own short dark-blond damp hair. One larger bareheaded smiling-tired face study and small separate wig detail as an object (no wig stand/head). Facial structure identical with and without wig, wig does not change body age. No trophies necessary. No microphone, instruments, headset, stage, furniture or audience. First2 images painting/layout only. Third backstage painting informs ordinary indoor cream overhead practical light and connected muted violet shadows and long black wig object only, never face, room or furniture. Paint face/hands in broad simplified matte opaque strokes like clothes, avoid orange rim, gloss and daylight fill.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/01-dressing-room-corridor.png",
+                "role": "Backstage practical illumination and black performance wig only; no face or room.",
+                "notes": "Quiet cream overhead bulb light, connected violet-blue shadows, long black wig in waiting area; face/outfit interpreted.",
+                "inspected": true,
+                "sha256": "86bee4763710ae9ab88ef663f027d6ac0cfdee80f166fce9f392482217eb9fc3"
+              }
+            ],
+            "reason": "Initial folio after original reference recovery and source-specific anatomy/state preflight.",
+            "startedAt": "2026-09-24T03:55:37.516590+00:00",
+            "preflight": "Entire story read; recovered original, same-story cover, stage and corridor actual pixels inspected. Exactly4 throat panels reconciled with original shape; no inherited shiny body-corset. Jannik wig/final/encore states separated, ordinary face distinct.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-5a7a216e-f541-4aa1-b9e1-fb06e6f60697.png",
+            "outputSha256": "03f248cba5c85422b156c482237902b9aa53e4c5e42b3af461a979a525984093",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:03:32.760755+00:00",
+            "generatorReview": "Actual pixels inspected: one consistent adult human singer shown with long black final wig and short damp natural hair for encore, clearly labelled distinct states; face proportions match head/body views. Interpreted plum stage jacket/scarf intact, ordinary hands/feet, no trophy claim or borrowed star likeness. Wig detail isolated without mannequin. Exact title/name readable, complete figures on ivory without room/stage/swatches. Matte broad skin/cloth paint and subdued indoor practical light fit collection."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:03:32.760755+00:00",
+        "sourceSha256": "a0b4c2f1423a38050c76a766f2db807c2c1e09333c9398ac40f42602bd096fb8",
+        "outputSha256": "03f248cba5c85422b156c482237902b9aa53e4c5e42b3af461a979a525984093",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/01-dressing-room-corridor.png",
+            "role": "Backstage practical illumination and black performance wig only; no face or room.",
+            "notes": "Quiet cream overhead bulb light, connected violet-blue shadows, long black wig in waiting area; face/outfit interpreted.",
+            "inspected": true,
+            "sha256": "86bee4763710ae9ab88ef663f027d6ac0cfdee80f166fce9f392482217eb9fc3"
+          }
+        ],
+        "evidence": "Actual pixels inspected: one consistent adult human singer shown with long black final wig and short damp natural hair for encore, clearly labelled distinct states; face proportions match head/body views. Interpreted plum stage jacket/scarf intact, ordinary hands/feet, no trophy claim or borrowed star likeness. Wig detail isolated without mannequin. Exact title/name readable, complete figures on ivory without room/stage/swatches. Matte broad skin/cloth paint and subdued indoor practical light fit collection.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e19ae228ce6f7efb62f2e18af27adc934fea4a07f93971255f8348dfa21a60dc"
+      },
+      "references": [
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/no-one-like-me/art/interiors/01-dressing-room-corridor.png",
+          "role": "Backstage practical illumination and black performance wig only; no face or room.",
+          "notes": "Quiet cream overhead bulb light, connected violet-blue shadows, long black wig in waiting area; face/outfit interpreted.",
+          "inspected": true,
+          "sha256": "86bee4763710ae9ab88ef663f027d6ac0cfdee80f166fce9f392482217eb9fc3"
+        }
+      ],
+      "outputSha256": "03f248cba5c85422b156c482237902b9aa53e4c5e42b3af461a979a525984093"
+    }
+  ]
+}

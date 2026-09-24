@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-door-knows-home",
+  "title": "The Door Knows Home",
+  "source": "stories/the-door-knows-home/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished story/prompt/review read. Apprentice and four siblings sustain distinct hands-on decisions and route tests across repair. All five lack personal names in source and receive authorized art-only names after whole-word full universe/story/spec search without matches.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Deceased mother, master, driver, household voice",
+      "reason": "Backstory/expected later or offscreen functional speakers, no sustained physically present main identity."
+    },
+    {
+      "name": "Traveling door",
+      "reason": "Explicit inert fitting operated by living users; no sentient door identity or character sheet."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover has only lock mechanism; no character identity supplied. Its glow not imported as body/object agency.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tamsil",
+      "name": "Tamsil",
+      "role": "Apprentice locksmith, they/them, conducts first independently numbered repair and proves four valid sets.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "This would be the apprentice’s first repair entered under their own bench number.",
+          "explanation": "Apprentice locksmith, they/them, conducts first independently numbered repair and proves four valid sets."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Apprentice uses screwdriver, hog-bristle brush, leaf gauge and phosphor-bronze shim; bare living hand contacts brass for route; no supernatural bodily mark."
+      },
+      "explicitCanon": [
+        "Non-canon story; art names/physical designs establish no universe fact. Home mechanism needs living user and is not an autonomous sentient being."
+      ],
+      "visualInterpretation": [
+        "Adult24 androgynous person, deep brown skin, short close black curls, round dark eyes, slim frame; rust work shirt, charcoal apron, dark trousers/boots. Gender/age/appearance art-only, source they/them preserved."
+      ],
+      "states": [
+        {
+          "name": "Afternoon repair and test",
+          "description": "Source role and personal equipment; no destination scenery."
+        }
+      ],
+      "lighting": "Afternoon before5PM, workshop window and task lamp, subdued connected shadows; light ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "Apprentice locksmith, they/them, conducts first independently numbered repair and proves four valid sets.",
+        "assignedName": "Tamsil",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/character-specs search found no name reuse.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-door-knows-home/art/characters/tamsil.png",
+      "generation": {
+        "prompt": "Replace ONLY the entire blurred/vignetted background with flat UNIFORM LIGHT WARM IVORY, to all edges and between every figure and detail. Preserve every character pixel, same face/body/hair/tools/apron/hands and all poses. Reletter exact \"Tamsil\" and \"The Door Knows Home\" and existing labels clearly in dark brown at their current positions. No shadows or coloured gradients on paper. Nothing else changes; no new floor or scenery.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3889b849-e9a2-471a-9bc7-167016f7652f.png",
+            "sha256": "e627defd5e913baa4703a7463c888d31955d8ca1d4762e87298bc73484bedf80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Tamsil\", subtitle \"The Door Knows Home\". One adult24 androgynous locksmith apprentice, source they/them: deep brown skin, short close BLACK CURLS, round attentive dark eyes, small broad nose, slim adult build. Rust-red rolled-sleeve work shirt, charcoal waist apron with few tool pockets, dark work trousers and worn boots. Front/back-three-quarter complete views with same short curls, one hand holding ordinary leaf gauge, other small screwdriver; one concentrated head and bare hand/tool study. No fantasy goggles, huge toolbag, weapon or magic aura. Practical uncertain focus turning to composure, not theatrical heroic stance. Soft afternoon window light and limited task-lamp-facing planes, rich connected skin shadows. No door/frame/key bench/location/floor. Only personal tools held or isolated small study. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+                "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+                "inspected": true,
+                "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T05:33:56.411947+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3889b849-e9a2-471a-9bc7-167016f7652f.png",
+            "outputSha256": "e627defd5e913baa4703a7463c888d31955d8ca1d4762e87298bc73484bedf80",
+            "generatorReview": "Dark vignetted support hides heading, contrary to ivory format."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:57:11.767475+00:00",
+            "prompt": "Replace ONLY the entire blurred/vignetted background with flat UNIFORM LIGHT WARM IVORY, to all edges and between every figure and detail. Preserve every character pixel, same face/body/hair/tools/apron/hands and all poses. Reletter exact \"Tamsil\" and \"The Door Knows Home\" and existing labels clearly in dark brown at their current positions. No shadows or coloured gradients on paper. Nothing else changes; no new floor or scenery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3889b849-e9a2-471a-9bc7-167016f7652f.png",
+                "sha256": "e627defd5e913baa4703a7463c888d31955d8ca1d4762e87298bc73484bedf80",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark vignetted support hides heading, contrary to ivory format.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b18ea33c-700d-4811-91e8-5fbdb60d0fe4.png",
+            "outputSha256": "0d2d4aa479e58db083b8c4b76e7f08d5ece33440c754ae5be33b05feaf62b1c3",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:08:30.310307+00:00",
+            "generatorReview": "Actual corrected pixels inspected: uniform ivory background and readable exact heading/title; consistent young adult androgynous identity, short dark curls, rust shirt/apron, plausible leaf-gauge and screwdriver grips, all limbs and boots unclipped. Late-afternoon workshop illumination stays on isolated figure without depicting workshop."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "0d2d4aa479e58db083b8c4b76e7f08d5ece33440c754ae5be33b05feaf62b1c3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:08:30.310307+00:00",
+        "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c",
+        "outputSha256": "0d2d4aa479e58db083b8c4b76e7f08d5ece33440c754ae5be33b05feaf62b1c3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3889b849-e9a2-471a-9bc7-167016f7652f.png",
+            "sha256": "e627defd5e913baa4703a7463c888d31955d8ca1d4762e87298bc73484bedf80",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: uniform ivory background and readable exact heading/title; consistent young adult androgynous identity, short dark curls, rust shirt/apron, plausible leaf-gauge and screwdriver grips, all limbs and boots unclipped. Late-afternoon workshop illumination stays on isolated figure without depicting workshop.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "7e9c4a5c6eaa11b5cd164b1ec81d42d1a10e89c745d77c3cf9c51864fe925af6"
+      }
+    },
+    {
+      "id": "yslena",
+      "name": "Yslena",
+      "role": "Eldest sibling and executor, woman, tries to certify one property route then accepts four sound routes and equal shares.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "the eldest sister, who had introduced herself only as the executor",
+          "explanation": "Eldest sibling and executor, woman, tries to certify one property route then accepts four sound routes and equal shares."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Packing gloves; covered LEFT hand carries test weight while RIGHT bare hand uses lever. Blue survey folder and schedules."
+      },
+      "explicitCanon": [
+        "Non-canon story; art names/physical designs establish no universe fact. Home mechanism needs living user and is not an autonomous sentient being."
+      ],
+      "visualInterpretation": [
+        "Adult50woman medium brown skin, long square face, dark brown eyes, silver-streaked black low bun; navy structured coat, taupe trousers and low dark boots. Similar family nose/eyes but distinctly eldest."
+      ],
+      "states": [
+        {
+          "name": "Afternoon repair and test",
+          "description": "Source role and personal equipment; no destination scenery."
+        }
+      ],
+      "lighting": "Afternoon before5PM, workshop window and task lamp, subdued connected shadows; light ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "Eldest sibling and executor, woman, tries to certify one property route then accepts four sound routes and equal shares.",
+        "assignedName": "Yslena",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/character-specs search found no name reuse.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-door-knows-home/art/characters/yslena.png",
+      "generation": {
+        "prompt": "Replace ONLY the entire blurred dark background/support with UNIFORM LIGHT WARM IVORY from corner to corner and between every figure/detail. Preserve all person pixels, same50yearold face, silver-streak bun, navy coat, blue folder and hands. Keep anatomical LEFT glove and RIGHT bare hand in both views, exactly as now. Exact heading \"Yslena\", subtitle \"The Door Knows Home\", all other labels clear dark brown against ivory. No vignette, gradients, cast shadows on paper, scene or floor. Nothing else changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2f2d0806-e28f-4d02-8bce-261e8c871a5c.png",
+            "sha256": "325817b7982f6336199b3a8b05ec03920e8297e021dfedbb07b7df75994d0dc3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Yslena\", subtitle \"The Door Knows Home\". One mature50-year-old HUMAN WOMAN executor, medium brown skin, long square face, level dark eyes, black hair with SILVER STREAK in tidy LOW BUN. Dark navy tailored practical coat over taupe shirt/trousers, low sturdy boots. Her LEFT hand wears a packing glove; RIGHT hand bare, consistent in front and rear views. Two complete views, blue survey folder tucked under arm, ordinary paper schedule held; one focused mature face and glove/bare-hand study. Practical executive clothing, not royal uniform. No magical glow, jewelry symbolism or religious role. Adult same family broad-nose/brown-eye features shared loosely with siblings but distinct person. Afternoon window light plus modest task-lamp bounce in connected cool shadows, no rim. No door, pantry, house or furniture. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+                "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+                "inspected": true,
+                "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T05:33:56.413644+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2f2d0806-e28f-4d02-8bce-261e8c871a5c.png",
+            "outputSha256": "325817b7982f6336199b3a8b05ec03920e8297e021dfedbb07b7df75994d0dc3",
+            "generatorReview": "Dark vignetted support hides heading."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:57:11.772993+00:00",
+            "prompt": "Replace ONLY the entire blurred dark background/support with UNIFORM LIGHT WARM IVORY from corner to corner and between every figure/detail. Preserve all person pixels, same50yearold face, silver-streak bun, navy coat, blue folder and hands. Keep anatomical LEFT glove and RIGHT bare hand in both views, exactly as now. Exact heading \"Yslena\", subtitle \"The Door Knows Home\", all other labels clear dark brown against ivory. No vignette, gradients, cast shadows on paper, scene or floor. Nothing else changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2f2d0806-e28f-4d02-8bce-261e8c871a5c.png",
+                "sha256": "325817b7982f6336199b3a8b05ec03920e8297e021dfedbb07b7df75994d0dc3",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark vignetted support hides heading.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7036a975-a75b-4996-8abe-8c9405d39a6f.png",
+            "outputSha256": "92a728f2242b39dff3d22fb1a9b50f8250152dc06104e539d137bb728844ce47",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:08:30.374248+00:00",
+            "generatorReview": "Root actual-pixel review: both full bodies accepted. Detached dorsal hand studies are reversed relative to labels; fix the studies only.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:45.921483+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "SUPERSEDED",
+            "startedAt": "2026-09-24T08:49:42.391597+00:00",
+            "prompt": "Precise local anatomy edit to this accepted Yslena sheet. Keep BOTH full-body figures, portrait, identity, clothing, folder, all painting, ivory and headings completely unchanged. Fix ONLY the two bottom-right isolated hand studies. They show the BACKS of hands (nails/knuckles visible), wrists above, four fingertips pointing DOWN. LEFT study labeled Right hand (bare): anatomically RIGHT dorsal hand, THUMB MUST PROJECT ON VIEWER LEFT of its four fingers. RIGHT study labeled Left hand (packing glove): anatomically LEFT dorsal glove, THUMB MUST PROJECT ON VIEWER RIGHT of its four fingers. Four natural fingers plus one thumb each. Do not swap the labels or change study order; mirror each isolated hand's anatomy within its own existing area so its existing label becomes correct. Main front/rear already have LEFT glove and RIGHT bare, preserve them exactly. No other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7036a975-a75b-4996-8abe-8c9405d39a6f.png",
+                "sha256": "92a728f2242b39dff3d22fb1a9b50f8250152dc06104e539d137bb728844ce47",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Root actual-pixel review: both full bodies accepted. Detached dorsal hand studies are reversed relative to labels; fix the studies only.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-64e3c126-13d9-41bb-8631-0530c26c5b03.png",
+            "outputSha256": "1246aaadfccfab290bd981760a3df28faa20ee8ee17e8bfb30d408a58dbacf32",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:09:47.048415+00:00",
+            "generatorReview": "Actual corrected pixels inspected: both detached studies unmistakably DORSAL with fingers pointing down; labeled Right bare has thumb viewerLEFT and labeled Left packingglove has thumb viewerRIGHT. Four fingers+thumb each. Root-accepted front/rear leftglove/rightbare, face, clothes, folder, daylight and ivory preserved.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T10:03:45.921483+00:00",
+                "reason": "Prior thumb-direction finding withdrawn: root and worker independently used a reversed palm/dorsal convention. Morris Fig134 explicitly left dorsal confirms corrected directions. Exact calls/prompts/returned bytes remain in history.",
+                "authority": "https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png"
+              }
+            ]
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "92a728f2242b39dff3d22fb1a9b50f8250152dc06104e539d137bb728844ce47",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:03:45.921483+00:00",
+        "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c",
+        "outputSha256": "92a728f2242b39dff3d22fb1a9b50f8250152dc06104e539d137bb728844ce47",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-2f2d0806-e28f-4d02-8bce-261e8c871a5c.png",
+            "sha256": "325817b7982f6336199b3a8b05ec03920e8297e021dfedbb07b7df75994d0dc3",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Reinspected original ivory candidate after root withdrew reversed hand convention. Dorsal hands point down: RIGHT bare thumb viewerRIGHT, LEFT glove thumb viewerLEFT, correct. Main bodies leftglove/rightbare, face/wardrobe/paper unchanged. Restored exact prior bytes; no image generation during restoration.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "99f72e86ee75ee3f86b26c0a52e779f039b031188383df21b6074a82d8304579"
+      },
+      "selectionHistory": [
+        {
+          "action": "restore-prior-candidate",
+          "selectedAttempt": 2,
+          "reviewedAt": "2026-09-24T10:03:45.921483+00:00",
+          "reason": "Reinspected original ivory candidate after root withdrew reversed hand convention. Dorsal hands point down: RIGHT bare thumb viewerRIGHT, LEFT glove thumb viewerLEFT, correct. Main bodies leftglove/rightbare, face/wardrobe/paper unchanged. Restored exact prior bytes; no image generation during restoration.",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "fendric",
+      "name": "Fendric",
+      "role": "Brother and boat dweller, recognizes brace problem and route to his cabin, helps practical transfer.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Load’s high on this side. Whoever mounted it put the brace too near the hinge.",
+          "explanation": "Brother and boat dweller, recognizes brace problem and route to his cabin, helps practical transfer."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Coat, boots, rag and long16mm socket retrieved from cabin; practical knowledge of braces and dock blocks."
+      },
+      "explicitCanon": [
+        "Non-canon story; art names/physical designs establish no universe fact. Home mechanism needs living user and is not an autonomous sentient being."
+      ],
+      "visualInterpretation": [
+        "Adult45man medium brown skin, broad box jaw, shaved head and short black/grey beard, heavy forearms; faded ochre work coat, slate knit sweater, dark trousers and dock boots. Family dark eyes/nose."
+      ],
+      "states": [
+        {
+          "name": "Afternoon repair and test",
+          "description": "Source role and personal equipment; no destination scenery."
+        }
+      ],
+      "lighting": "Afternoon before5PM, workshop window and task lamp, subdued connected shadows; light ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "Brother and boat dweller, recognizes brace problem and route to his cabin, helps practical transfer.",
+        "assignedName": "Fendric",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/character-specs search found no name reuse.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-door-knows-home/art/characters/fendric.png",
+      "generation": {
+        "prompt": "Edit the supplied character folio locally. Replace ONLY all brown/grey vignette background surrounding the isolated figure views and details with the SAME uniform clean warm ivory across the entire landscape canvas, to every edge, with absolutely no dark gradient, halo, floor patch or scenery. Make the existing exact heading Fendric and exact subtitle The Door Knows Home plainly readable as dark-brown lettering on the clear ivory; preserve their spelling. Preserve every face, expression, age, body, hand, pose, costume, prop, detail, broad opaque oil paint stroke, late-afternoon light and layout exactly. No new elements. The clear ivory background is the sole visual repair.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8e414296-0400-4504-8eea-75576ada006a.png",
+            "sha256": "f5df22133f40924bb7bf3d84eb47d9670a6607435c94a9318f7d3953f8a3f9b4",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Fendric\", subtitle \"The Door Knows Home\". One practical adult45 HUMAN MAN, medium brown skin, broad box jaw, shaved head with slight dark stubble, short black-and-grey beard, heavy useful forearms, dark brown eyes. Faded ochre canvas work coat over slate knit sweater, dark trousers, sturdy dock boots. Front/rear-three-quarter complete views, small steel LONG SOCKET and work rag in hand; simple head/hand/socket study. Boat-working competence shown in relaxed robust posture and worn clothes, no sailor costume, pirate hat, sword or anchor tattoos. Same consistent face/skull/body each view, distinct from other folio people. Soft afternoon window light, subdued warm lamp-facing planes and connected grey-brown shadows. No boat/cabin/door/floor/scenery. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+                "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+                "inspected": true,
+                "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T05:57:12.706254+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8e414296-0400-4504-8eea-75576ada006a.png",
+            "outputSha256": "f5df22133f40924bb7bf3d84eb47d9670a6607435c94a9318f7d3953f8a3f9b4",
+            "generatorReview": "Figure identity, anatomy, outfit and hand-held props pass actual-pixel inspection, but dark vignetted background obscures exact heading/title and violates light ivory folio contract."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:08:31.405914+00:00",
+            "prompt": "Edit the supplied character folio locally. Replace ONLY all brown/grey vignette background surrounding the isolated figure views and details with the SAME uniform clean warm ivory across the entire landscape canvas, to every edge, with absolutely no dark gradient, halo, floor patch or scenery. Make the existing exact heading Fendric and exact subtitle The Door Knows Home plainly readable as dark-brown lettering on the clear ivory; preserve their spelling. Preserve every face, expression, age, body, hand, pose, costume, prop, detail, broad opaque oil paint stroke, late-afternoon light and layout exactly. No new elements. The clear ivory background is the sole visual repair.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8e414296-0400-4504-8eea-75576ada006a.png",
+                "sha256": "f5df22133f40924bb7bf3d84eb47d9670a6607435c94a9318f7d3953f8a3f9b4",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Figure identity, anatomy, outfit and hand-held props pass actual-pixel inspection, but dark vignetted background obscures exact heading/title and violates light ivory folio contract.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-59cd0854-01d8-491b-9b32-82754b381d96.png",
+            "outputSha256": "fbb81789196d1fd3ea0c42d4c2e304f0af7824f76ff9aa70c1f6ae6371d62980",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:11:26.833612+00:00",
+            "generatorReview": "Actual corrected pixels inspected: clear ivory replaces dark vignette, exact name/title now readable; robust middle-aged brother, shaved head and short salt beard consistent across front/rear/expressions. Ochre coat, slate knit, long socket/rag and hand anatomy intact, full boot margins, no scenery. Afternoon illumination preserved."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "fbb81789196d1fd3ea0c42d4c2e304f0af7824f76ff9aa70c1f6ae6371d62980",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:11:26.833612+00:00",
+        "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c",
+        "outputSha256": "fbb81789196d1fd3ea0c42d4c2e304f0af7824f76ff9aa70c1f6ae6371d62980",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8e414296-0400-4504-8eea-75576ada006a.png",
+            "sha256": "f5df22133f40924bb7bf3d84eb47d9670a6607435c94a9318f7d3953f8a3f9b4",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: clear ivory replaces dark vignette, exact name/title now readable; robust middle-aged brother, shaved head and short salt beard consistent across front/rear/expressions. Ochre coat, slate knit, long socket/rag and hand anatomy intact, full boot margins, no scenery. Afternoon illumination preserved.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b9207b7cba1ea7f08a02c659cc586b1684898d6f95db60bc52a32b6a22e8b55b"
+      }
+    },
+    {
+      "id": "mavelle",
+      "name": "Mavelle",
+      "role": "Middle sister, woman, coordinates home kitchen and transfers family goods while participating in test.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "She still wore thin driving gloves.",
+          "explanation": "Middle sister, woman, coordinates home kitchen and transfers family goods while participating in test."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Phone, driving gloves removed for successful bare-hand test; roll of address labels, freezer pack in tea towel."
+      },
+      "explicitCanon": [
+        "Non-canon story; art names/physical designs establish no universe fact. Home mechanism needs living user and is not an autonomous sentient being."
+      ],
+      "visualInterpretation": [
+        "Adult41woman medium brown skin, full round cheeks, short wavy BLACK BOB, broad brow/dark brown eyes; muted sage raincoat, aubergine knit top, dark trousers/low shoes."
+      ],
+      "states": [
+        {
+          "name": "Afternoon repair and test",
+          "description": "Source role and personal equipment; no destination scenery."
+        }
+      ],
+      "lighting": "Afternoon before5PM, workshop window and task lamp, subdued connected shadows; light ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "Middle sister, woman, coordinates home kitchen and transfers family goods while participating in test.",
+        "assignedName": "Mavelle",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/character-specs search found no name reuse.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-door-knows-home/art/characters/mavelle.png",
+      "generation": {
+        "prompt": "Edit the supplied character folio locally. Replace ONLY all brown/grey vignette background surrounding the isolated figure views and details with the SAME uniform clean warm ivory across the entire landscape canvas, to every edge, with absolutely no dark gradient, halo, floor patch or scenery. Make the existing exact heading Mavelle and exact subtitle The Door Knows Home plainly readable as dark-brown lettering on the clear ivory; preserve their spelling. Preserve every face, expression, age, body, hand, pose, costume, prop, detail, broad opaque oil paint stroke, late-afternoon light and layout exactly. No new elements. The clear ivory background is the sole visual repair.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8ae22d52-7ff7-4ae6-a05d-975f732c38ae.png",
+            "sha256": "1ba3757222a1f07da52031812950670047a43b723ac320d79bf870f5b9e71d1e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Mavelle\", subtitle \"The Door Knows Home\". One adult41 HUMAN WOMAN, medium brown skin, fuller round cheeks, broad brow, dark eyes, short wavy BLACK BOB at jaw; average fuller adult build. Muted sage practical long coat over aubergine knit top, long dark trousers and low shoes. Two complete consistent front and rear-three-quarter views; phone in one bare hand, thin driving gloves held by other after removing them for test. Small label-roll/tea-towel-wrapped freezer-pack study and one face showing tired divided attention. Not medical gear; no labellegends needed, no extra grocerycart. Soft afternoon window light plus modest work-lamp tone, cool muted connected shadows, no shiny rim. No child, apartment/kitchen, door, room or floor. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+                "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+                "inspected": true,
+                "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T05:57:12.707836+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8ae22d52-7ff7-4ae6-a05d-975f732c38ae.png",
+            "outputSha256": "1ba3757222a1f07da52031812950670047a43b723ac320d79bf870f5b9e71d1e",
+            "generatorReview": "Figure identity, anatomy, outfit and hand-held props pass actual-pixel inspection, but dark vignetted background obscures exact heading/title and violates light ivory folio contract."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:08:31.410292+00:00",
+            "prompt": "Edit the supplied character folio locally. Replace ONLY all brown/grey vignette background surrounding the isolated figure views and details with the SAME uniform clean warm ivory across the entire landscape canvas, to every edge, with absolutely no dark gradient, halo, floor patch or scenery. Make the existing exact heading Mavelle and exact subtitle The Door Knows Home plainly readable as dark-brown lettering on the clear ivory; preserve their spelling. Preserve every face, expression, age, body, hand, pose, costume, prop, detail, broad opaque oil paint stroke, late-afternoon light and layout exactly. No new elements. The clear ivory background is the sole visual repair.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8ae22d52-7ff7-4ae6-a05d-975f732c38ae.png",
+                "sha256": "1ba3757222a1f07da52031812950670047a43b723ac320d79bf870f5b9e71d1e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Figure identity, anatomy, outfit and hand-held props pass actual-pixel inspection, but dark vignetted background obscures exact heading/title and violates light ivory folio contract.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-338d2d22-ec12-4284-93ad-350b304c7340.png",
+            "outputSha256": "2908f4164a0265ed2185fa12dc90a0998fd6afc7b1dd201589ae319d22933cdb",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:11:26.857414+00:00",
+            "generatorReview": "Actual corrected pixels inspected: uniform ivory and legible exact name/title; middle-aged sister with black wavy bob, full cheek planes, sage coat and aubergine knit consistent. Phone and removed driving gloves, tea-towel-wrapped freezer pack readable and plausible; all views isolated with unclipped feet. Warm afternoon light retained."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "2908f4164a0265ed2185fa12dc90a0998fd6afc7b1dd201589ae319d22933cdb",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:11:26.857414+00:00",
+        "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c",
+        "outputSha256": "2908f4164a0265ed2185fa12dc90a0998fd6afc7b1dd201589ae319d22933cdb",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-8ae22d52-7ff7-4ae6-a05d-975f732c38ae.png",
+            "sha256": "1ba3757222a1f07da52031812950670047a43b723ac320d79bf870f5b9e71d1e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: uniform ivory and legible exact name/title; middle-aged sister with black wavy bob, full cheek planes, sage coat and aubergine knit consistent. Phone and removed driving gloves, tea-towel-wrapped freezer pack readable and plausible; all views isolated with unclipped feet. Warm afternoon light retained.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "91396884abd71b49b8c5f6513064a398bbe3ebc1cdd44d0342865070b629c605"
+      }
+    },
+    {
+      "id": "ostrel",
+      "name": "Ostrel",
+      "role": "Youngest sibling, they/them, artist living above print shop, establishes independent route without account to siblings.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The youngest put a hand on the lever.",
+          "explanation": "Youngest sibling, they/them, artist living above print shop, establishes independent route without account to siblings."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Flat print box, glassine sheets and metal rule; adhesive on thumb. Source they/them."
+      },
+      "explicitCanon": [
+        "Non-canon story; art names/physical designs establish no universe fact. Home mechanism needs living user and is not an autonomous sentient being."
+      ],
+      "visualInterpretation": [
+        "Adult28 androgynous person, light-medium brown skin, long narrow face, black hair shaved at sides with short wavy top, dark brown eyes; plum work shirt, slate cardigan, dark trousers and flat worn shoes."
+      ],
+      "states": [
+        {
+          "name": "Afternoon repair and test",
+          "description": "Source role and personal equipment; no destination scenery."
+        }
+      ],
+      "lighting": "Afternoon before5PM, workshop window and task lamp, subdued connected shadows; light ivory support.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "Youngest sibling, they/them, artist living above print shop, establishes independent route without account to siblings.",
+        "assignedName": "Ostrel",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/character-specs search found no name reuse.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-door-knows-home/art/characters/ostrel.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Ostrel\", subtitle \"The Door Knows Home\". One adult28 androgynous printmaker sibling, source they/them: light-medium brown skin, long narrow face, dark brown eyes, BLACK hair short wavy on top and shaved sides, slim adult frame. Plum work shirt beneath slate cardigan, long dark trousers and flat worn shoes; hands ordinary bare with a little dry ink/adhesive on thumb. Two full front/rear-three-quarter views, carrying FLAT PRINT BOX in one, holding a small glassine stack with metal rule in another; one reserved face and fingers/glassine detail. No child proportions, no formal gown or glamour, no magic. They have modest privacy and resolve, not caricature artist pose. Soft afternoon window/task-lamp light and broad muted connected shadows. No printing press, art images, loft, door, furniture or floor. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+            "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+            "inspected": true,
+            "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Ostrel\", subtitle \"The Door Knows Home\". One adult28 androgynous printmaker sibling, source they/them: light-medium brown skin, long narrow face, dark brown eyes, BLACK hair short wavy on top and shaved sides, slim adult frame. Plum work shirt beneath slate cardigan, long dark trousers and flat worn shoes; hands ordinary bare with a little dry ink/adhesive on thumb. Two full front/rear-three-quarter views, carrying FLAT PRINT BOX in one, holding a small glassine stack with metal rule in another; one reserved face and fingers/glassine detail. No child proportions, no formal gown or glamour, no magic. They have modest privacy and resolve, not caricature artist pose. Soft afternoon window/task-lamp light and broad muted connected shadows. No printing press, art images, loft, door, furniture or floor. Entire support is uniform LIGHT IVORY to every edge and between every study; never vignette or blur a background. Exact readable dark heading/title.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+                "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+                "inspected": true,
+                "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T05:57:12.709281+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-a869e182-2f14-46bd-8023-1652dc264c00.png",
+            "outputSha256": "86af2b2060db3eeb05b0c4334f33a492a691d88672f7bdab3bf3f1240da22de2",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:08:30.386864+00:00",
+            "generatorReview": "Actual pixels inspected: clear ivory landscape one-identity folio, consistent androgynous younger sibling with shaved-side black hair, plum shirt/slate cardigan, long narrow face distinct from other siblings; flat print box, glassine, metal rule and ink-marked hands plausible. Exact name/title legible, hands/feet complete, no scenery. Afternoon light matches chosen workshop moment."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "86af2b2060db3eeb05b0c4334f33a492a691d88672f7bdab3bf3f1240da22de2",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:08:30.386864+00:00",
+        "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c",
+        "outputSha256": "86af2b2060db3eeb05b0c4334f33a492a691d88672f7bdab3bf3f1240da22de2",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-door-knows-home/art/interiors/01-locksmith-workshop.png",
+            "role": "Actual same-story afternoon window/task-lamp oil colour and light only, no workshop environment or door.",
+            "inspected": true,
+            "sha256": "4ee30d06250e24ea5987b450fb9db59a456945e34ab5ebe5cc20dc23862a1d09"
+          }
+        ],
+        "evidence": "Actual pixels inspected: clear ivory landscape one-identity folio, consistent androgynous younger sibling with shaved-side black hair, plum shirt/slate cardigan, long narrow face distinct from other siblings; flat print box, glassine, metal rule and ink-marked hands plausible. Exact name/title legible, hands/feet complete, no scenery. Afternoon light matches chosen workshop moment.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "3357f7ed85b3fc1a192616bd07d4b8548da86736d455222b0db76bb6b67644f9"
+      }
+    }
+  ],
+  "sourceSha256": "f0dd87d03fd4077db5251a30247afabeddd87b906b32745078ad9719d320748c"
+}

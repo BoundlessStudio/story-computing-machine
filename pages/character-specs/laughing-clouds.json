@@ -1,0 +1,997 @@
+{
+  "schemaVersion": 1,
+  "slug": "laughing-clouds",
+  "title": "A Little Weather Between Us",
+  "source": "stories/laughing-clouds/story.md",
+  "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read. Ianthe and Rasim drive experiment and revised consent limits. Recurring child and father provoke tests, accident and successful demonstration; judge actively tests and conditionally accepts the invention. Five sustained participants. Names for unnamed supporting people are art-only additions, never source/canon edits.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Woman with cane and woven bag",
+      "reason": "One brief boundary-setting encounter, no continuing individual arc; respected as incidental person, not merely scenery."
+    },
+    {
+      "name": "Cook, two friends, court worker and festival crews",
+      "reason": "Brief unnamed background examples and task groups without sustained roles."
+    },
+    {
+      "name": "Water condenser and generated clouds",
+      "reason": "Mechanical device and nonliving aerosol effects; no intentional living identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/characters.md and stories/NAMES.md searched: no relevant recurring identity; art names checked against current character specs"
+  ],
+  "characters": [
+    {
+      "id": "ianthe",
+      "name": "Ianthe",
+      "role": "Young engineer and viewpoint protagonist",
+      "naming": {
+        "sourceName": "Ianthe",
+        "sourceRole": "Young engineer and viewpoint protagonist",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 55,
+          "quote": "her hair was still cropped in apprentice fashion.",
+          "explanation": "Young engineer and viewpoint protagonist"
+        }
+      ],
+      "form": "Ordinary adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, five digits on each hand",
+        "lifeStage": "Adult; precise age art interpretation",
+        "proportions": "Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff.",
+        "markings": "Young adult human woman; hair explicitly cropped in apprentice fashion. Works calibration sheets, cutoff and diagnostic controls. Exact features and clothes unspecified.",
+        "materials": "Matte skin, practical cloth, leather and personal tools",
+        "clothing": "Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff.",
+        "equipment": "A folded ink-marked calibration sheet and simple graphite pencil. No machine/cloud halo; condenser too large to treat as hand-held gadget.",
+        "scale": "Ordinary adult, height not specified",
+        "movement": "Natural restrained posed studies",
+        "distinctiveFeatures": "Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Young adult human woman; hair explicitly cropped in apprentice fashion. Works calibration sheets, cutoff and diagnostic controls. Exact features and clothes unspecified."
+      ],
+      "visualInterpretation": [
+        "Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff.",
+        "All appearance details not stated in source are art-only choices, no shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Festival demonstration / cleanup",
+          "description": "Consistent attire; no separate bodily transformation or injury state needed."
+        }
+      ],
+      "lighting": {
+        "moment": "Late-afternoon festival court",
+        "motivation": "Warm slant sun, cool muted shadow masses, drawn from inspected same-story source painting."
+      },
+      "recurrence": {
+        "identityKey": "laughing-clouds:ianthe",
+        "links": [],
+        "evidence": "No relevant matching universe identity; no relation to namesakes assumed."
+      },
+      "references": [
+        {
+          "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+          "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+          "inspected": true,
+          "role": "Same-story late-afternoon light and oil masses only",
+          "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Collection physical oil folio technique only",
+          "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+        },
+        {
+          "path": "stories/laughing-clouds/title-image.jpg",
+          "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+          "inspected": true,
+          "role": "Compatible young-engineer face, work layer palette only",
+          "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+        }
+      ],
+      "output": "stories/laughing-clouds/art/characters/ianthe.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Ianthe'. Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff.\nSource facts: Young adult human woman; hair explicitly cropped in apprentice fashion. Works calibration sheets, cutoff and diagnostic controls. Exact features and clothes unspecified.\nDetails: A folded ink-marked calibration sheet and simple graphite pencil. No machine/cloud halo; condenser too large to treat as hand-held gadget. Portrait labels 'Concentrating' and 'Listening'. THIRD cover gives compatible young olive/tan face and cream/green practical work palette only. Explicit prose short hair for Ianthe overrides cover long hair; exclude all cover jewelry, vines, cloud, machine, scene and anime finish.",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          },
+          {
+            "path": "stories/laughing-clouds/title-image.jpg",
+            "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+            "inspected": true,
+            "role": "Compatible young-engineer face, work layer palette only",
+            "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:51:14.488054+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Ianthe'. Woman23, compact slight build, warm olive complexion, long oval face, fine straight nose, dark brown eyes, short nearly black apprentice CROP to ears with blunt broken fringe, absolutely no long ponytail/bun. Cream practical high-collar cotton shirt, forest-green canvas work waistcoat with simple brass fasteners, dark green loose work trousers, narrow utility belt with two small pockets and ordinary brown lace-up boots. Subtle damp cuff.\nSource facts: Young adult human woman; hair explicitly cropped in apprentice fashion. Works calibration sheets, cutoff and diagnostic controls. Exact features and clothes unspecified.\nDetails: A folded ink-marked calibration sheet and simple graphite pencil. No machine/cloud halo; condenser too large to treat as hand-held gadget. Portrait labels 'Concentrating' and 'Listening'. THIRD cover gives compatible young olive/tan face and cream/green practical work palette only. Explicit prose short hair for Ianthe overrides cover long hair; exclude all cover jewelry, vines, cloud, machine, scene and anime finish.",
+            "references": [
+              {
+                "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                "inspected": true,
+                "role": "Same-story late-afternoon light and oil masses only",
+                "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Collection physical oil folio technique only",
+                "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+              },
+              {
+                "path": "stories/laughing-clouds/title-image.jpg",
+                "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+                "inspected": true,
+                "role": "Compatible young-engineer face, work layer palette only",
+                "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-905bbbfe-ae66-4fc3-bed5-fc89ba8d16f8.png",
+            "savedPath": "stories/laughing-clouds/art/characters/ianthe.png",
+            "outputSha256": "6001da56ad00cd5fe475a5c312c6b44a4b5adbf69ee31161ca5e68f68f5e2f8a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:58:21.340294+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:58:21.340294+00:00",
+        "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+        "outputSha256": "6001da56ad00cd5fe475a5c312c6b44a4b5adbf69ee31161ca5e68f68f5e2f8a",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          },
+          {
+            "path": "stories/laughing-clouds/title-image.jpg",
+            "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+            "inspected": true,
+            "role": "Compatible young-engineer face, work layer palette only",
+            "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected: exact name/title readable, three full bodies and expressions consistent, no cut-off heads/feet or scene/swatches.",
+          "Heavy opaque connected oil across faces, cloth and equipment; late-afternoon warm planes opposed by muted cool substantial shaded masses.",
+          "Explicit apprentice crop retained across all five views; practical cream/green layers, calibration sheet/pencil, serious then receptive expressions; no cover long hair or decorative vines."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "cf19a596d13249999e51af754e264e2fd25f0ea11d3c154168f0a8f356f2d478"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source, exact relevant quotes and actual supplied paintings/cover inspected. Short haircut contradiction resolved before generation. Personal details feasible at folio size; child explicitly age appropriate."
+      },
+      "outputSha256": "6001da56ad00cd5fe475a5c312c6b44a4b5adbf69ee31161ca5e68f68f5e2f8a"
+    },
+    {
+      "id": "rasim",
+      "name": "Rasim",
+      "role": "Rival engineer and collaborator who becomes trial steward",
+      "naming": {
+        "sourceName": "Rasim",
+        "sourceRole": "Rival engineer and collaborator who becomes trial steward",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 221,
+          "quote": "Rasim pressed two fingers against his trouser leg.",
+          "explanation": "Rival engineer and collaborator who becomes trial steward"
+        }
+      ],
+      "form": "Ordinary adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, five digits on each hand",
+        "lifeStage": "Adult; precise age art interpretation",
+        "proportions": "Man26, lean average-tall build, golden-tan skin, broad cheekbones, short broad nose, dark eyes and thick short shaggy dark-brown curls, clean-shaven. Cream rolled-sleeve work shirt, faded leaf-green unadorned vest, brown loose trousers and dark brown sturdy shoes. Chalk reel hooked on simple belt; no fruit jewelry or ornamental vines. Main views after recovery, ordinary balanced stance, no visible injury/bandage.",
+        "markings": "Human man, rival engineer. Shoes, trousers, chalk reel, blue scrap cloth. Bruises one knee after slipping, side unspecified; later bears weight normally.",
+        "materials": "Matte skin, practical cloth, leather and personal tools",
+        "clothing": "Man26, lean average-tall build, golden-tan skin, broad cheekbones, short broad nose, dark eyes and thick short shaggy dark-brown curls, clean-shaven. Cream rolled-sleeve work shirt, faded leaf-green unadorned vest, brown loose trousers and dark brown sturdy shoes. Chalk reel hooked on simple belt; no fruit jewelry or ornamental vines. Main views after recovery, ordinary balanced stance, no visible injury/bandage.",
+        "equipment": "Small chalk reel and square of faded blue scrap cloth, shown raised in one hand in a useful gesture study.",
+        "scale": "Ordinary adult, height not specified",
+        "movement": "Natural restrained posed studies",
+        "distinctiveFeatures": "Man26, lean average-tall build, golden-tan skin, broad cheekbones, short broad nose, dark eyes and thick short shaggy dark-brown curls, clean-shaven. Cream rolled-sleeve work shirt, faded leaf-green unadorned vest, brown loose trousers and dark brown sturdy shoes. Chalk reel hooked on simple belt; no fruit jewelry or ornamental vines. Main views after recovery, ordinary balanced stance, no visible injury/bandage."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Human man, rival engineer. Shoes, trousers, chalk reel, blue scrap cloth. Bruises one knee after slipping, side unspecified; later bears weight normally."
+      ],
+      "visualInterpretation": [
+        "Man26, lean average-tall build, golden-tan skin, broad cheekbones, short broad nose, dark eyes and thick short shaggy dark-brown curls, clean-shaven. Cream rolled-sleeve work shirt, faded leaf-green unadorned vest, brown loose trousers and dark brown sturdy shoes. Chalk reel hooked on simple belt; no fruit jewelry or ornamental vines. Main views after recovery, ordinary balanced stance, no visible injury/bandage.",
+        "All appearance details not stated in source are art-only choices, no shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Festival demonstration / cleanup",
+          "description": "Consistent attire; no separate bodily transformation or injury state needed."
+        }
+      ],
+      "lighting": {
+        "moment": "Late-afternoon festival court",
+        "motivation": "Warm slant sun, cool muted shadow masses, drawn from inspected same-story source painting."
+      },
+      "recurrence": {
+        "identityKey": "laughing-clouds:rasim",
+        "links": [],
+        "evidence": "No relevant matching universe identity; no relation to namesakes assumed."
+      },
+      "references": [
+        {
+          "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+          "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+          "inspected": true,
+          "role": "Same-story late-afternoon light and oil masses only",
+          "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Collection physical oil folio technique only",
+          "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+        },
+        {
+          "path": "stories/laughing-clouds/title-image.jpg",
+          "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+          "inspected": true,
+          "role": "Compatible young-engineer face, work layer palette only",
+          "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+        }
+      ],
+      "output": "stories/laughing-clouds/art/characters/rasim.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact folio. Change ONLY the THIRD full-body figure (Back). Move the chalk reel and its belt attachment from viewerRIGHT to viewerLEFT hip in that rear figure, matching his anatomical LEFT hip in the Front view. Remove it cleanly from the former rear right position. Preserve front and side, all poses, all gear detail studies, expressions, exact headings/labels, source light, thick oil, ivory and composition. Do not mirror the whole figure. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d16bfb67-8d9f-4f1d-b9e5-fed0b620b60b.png",
+            "sha256": "90e95dc0e5c7201235e6675bbb52291fdd4ecbdd659e153be728d19d9821799c",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T03:51:14.488054+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Rasim'. Man26, lean average-tall build, golden-tan skin, broad cheekbones, short broad nose, dark eyes and thick short shaggy dark-brown curls, clean-shaven. Cream rolled-sleeve work shirt, faded leaf-green unadorned vest, brown loose trousers and dark brown sturdy shoes. Chalk reel hooked on simple belt; no fruit jewelry or ornamental vines. Main views after recovery, ordinary balanced stance, no visible injury/bandage.\nSource facts: Human man, rival engineer. Shoes, trousers, chalk reel, blue scrap cloth. Bruises one knee after slipping, side unspecified; later bears weight normally.\nDetails: Small chalk reel and square of faded blue scrap cloth, shown raised in one hand in a useful gesture study. Portrait labels 'Amused' and 'Attentive'. THIRD cover gives compatible young olive/tan face and cream/green practical work palette only. Explicit prose short hair for Ianthe overrides cover long hair; exclude all cover jewelry, vines, cloud, machine, scene and anime finish.",
+            "references": [
+              {
+                "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                "inspected": true,
+                "role": "Same-story late-afternoon light and oil masses only",
+                "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Collection physical oil folio technique only",
+                "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+              },
+              {
+                "path": "stories/laughing-clouds/title-image.jpg",
+                "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+                "inspected": true,
+                "role": "Compatible young-engineer face, work layer palette only",
+                "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d16bfb67-8d9f-4f1d-b9e5-fed0b620b60b.png",
+            "savedPath": "stories/laughing-clouds/art/characters/rasim.png",
+            "outputSha256": "90e95dc0e5c7201235e6675bbb52291fdd4ecbdd659e153be728d19d9821799c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:30:21.651115+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_resume_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-24T03:58:21.340294+00:00",
+              "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+              "outputSha256": "90e95dc0e5c7201235e6675bbb52291fdd4ecbdd659e153be728d19d9821799c",
+              "references": [
+                {
+                  "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                  "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                  "inspected": true,
+                  "role": "Same-story late-afternoon light and oil masses only",
+                  "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+                },
+                {
+                  "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                  "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                  "inspected": true,
+                  "role": "Collection physical oil folio technique only",
+                  "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+                },
+                {
+                  "path": "stories/laughing-clouds/title-image.jpg",
+                  "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+                  "inspected": true,
+                  "role": "Compatible young-engineer face, work layer palette only",
+                  "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+                }
+              ],
+              "evidence": [
+                "Actual generated pixels inspected: exact name/title readable, three full bodies and expressions consistent, no cut-off heads/feet or scene/swatches.",
+                "Heavy opaque connected oil across faces, cloth and equipment; late-afternoon warm planes opposed by muted cool substantial shaded masses.",
+                "Different young male face, short curly hair, consistent work layers; chalk reel and blue scrap cloth correct, no fixed injury laterality or invented bandage."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "1c4e94cc83bbe2bc073470113759a59eb49df0078bcff9fb032a8526aa202291"
+            },
+            "review": {
+              "status": "REVISE",
+              "evidence": "Root actual-pixel review: chalk reel on anatomical LEFT in front but RIGHT in rear; rear attachment must move to anatomical LEFT."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:30:21.651115+00:00",
+            "prompt": "Edit this exact folio. Change ONLY the THIRD full-body figure (Back). Move the chalk reel and its belt attachment from viewerRIGHT to viewerLEFT hip in that rear figure, matching his anatomical LEFT hip in the Front view. Remove it cleanly from the former rear right position. Preserve front and side, all poses, all gear detail studies, expressions, exact headings/labels, source light, thick oil, ivory and composition. Do not mirror the whole figure. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d16bfb67-8d9f-4f1d-b9e5-fed0b620b60b.png",
+                "sha256": "90e95dc0e5c7201235e6675bbb52291fdd4ecbdd659e153be728d19d9821799c",
+                "inspected": true,
+                "role": "Actual target inspected; only indicated side-consistency correction authorized"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-1af67e70-f42d-44f8-b14e-d49c2710f0ca.png",
+            "savedPath": "stories/laughing-clouds/art/characters/rasim.png",
+            "outputSha256": "42818b333142e316656b8d66e6628b613637dba2373174ea0ef8d13290c2b77d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:48:05.594338+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:48:05.594338+00:00",
+        "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+        "outputSha256": "42818b333142e316656b8d66e6628b613637dba2373174ea0ef8d13290c2b77d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d16bfb67-8d9f-4f1d-b9e5-fed0b620b60b.png",
+            "sha256": "90e95dc0e5c7201235e6675bbb52291fdd4ecbdd659e153be728d19d9821799c",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "evidence": [
+          "Root rear attachment correction inspected: chalk reel now viewerLEFT in Back = anatomical LEFT, same as Front; side and gear studies preserved.",
+          "All anatomy, clothes, exact labels, afternoon physical oil and ivory still pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a46540d025e6d42b99d1ad25d20de9c9a9975eafad27a47b20d8572c15b29e1e"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source, exact relevant quotes and actual supplied paintings/cover inspected. Short haircut contradiction resolved before generation. Personal details feasible at folio size; child explicitly age appropriate."
+      },
+      "outputSha256": "42818b333142e316656b8d66e6628b613637dba2373174ea0ef8d13290c2b77d"
+    },
+    {
+      "id": "ossela",
+      "name": "Ossela",
+      "role": "Recurring child trial participant, unnamed girl in source",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Recurring child trial participant, unnamed girl in source",
+        "provenance": "Art-only name assigned under user authorization; source person remains unnamed. Checked existing universe/name memory/spec names; no match."
+      },
+      "selectionEvidence": [
+        {
+          "line": 37,
+          "quote": "She squeezed water from one braid and looked delighted.",
+          "explanation": "Recurring child trial participant, unnamed girl in source"
+        }
+      ],
+      "form": "Ordinary human child",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, five digits on each hand",
+        "lifeStage": "Child; precise age art interpretation",
+        "proportions": "Girl9, clearly prepubescent child proportions with larger head and shorter limbs, deep warm brown skin, round cheeks, broad small nose, wide dark eyes, TWO tidy black braids to shoulders. Simple cinnamon-orange knee-length pinafore over cream short-sleeve shirt, moss-green leggings and worn closed brown shoes. Fully clothed ordinary child, no glamour/adult shape. Braids and shoulder fabric lightly wet.",
+        "markings": "Human girl child, braided hair, repaired-wheel interest; helps hold mats, participates with small blue consent paddle, receives towel around shoulders.",
+        "materials": "Matte skin, practical cloth, leather and personal tools",
+        "clothing": "Girl9, clearly prepubescent child proportions with larger head and shorter limbs, deep warm brown skin, round cheeks, broad small nose, wide dark eyes, TWO tidy black braids to shoulders. Simple cinnamon-orange knee-length pinafore over cream short-sleeve shirt, moss-green leggings and worn closed brown shoes. Fully clothed ordinary child, no glamour/adult shape. Braids and shoulder fabric lightly wet.",
+        "equipment": "Small plain BLUE consent paddle and soft gray towel around shoulders in one small upper-body detail. No cloud or magical power.",
+        "scale": "Child9 interpretation",
+        "movement": "Natural restrained posed studies",
+        "distinctiveFeatures": "Girl9, clearly prepubescent child proportions with larger head and shorter limbs, deep warm brown skin, round cheeks, broad small nose, wide dark eyes, TWO tidy black braids to shoulders. Simple cinnamon-orange knee-length pinafore over cream short-sleeve shirt, moss-green leggings and worn closed brown shoes. Fully clothed ordinary child, no glamour/adult shape. Braids and shoulder fabric lightly wet."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Human girl child, braided hair, repaired-wheel interest; helps hold mats, participates with small blue consent paddle, receives towel around shoulders."
+      ],
+      "visualInterpretation": [
+        "Girl9, clearly prepubescent child proportions with larger head and shorter limbs, deep warm brown skin, round cheeks, broad small nose, wide dark eyes, TWO tidy black braids to shoulders. Simple cinnamon-orange knee-length pinafore over cream short-sleeve shirt, moss-green leggings and worn closed brown shoes. Fully clothed ordinary child, no glamour/adult shape. Braids and shoulder fabric lightly wet.",
+        "All appearance details not stated in source are art-only choices, no shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Festival demonstration / cleanup",
+          "description": "Consistent attire; no separate bodily transformation or injury state needed."
+        }
+      ],
+      "lighting": {
+        "moment": "Late-afternoon festival court",
+        "motivation": "Warm slant sun, cool muted shadow masses, drawn from inspected same-story source painting."
+      },
+      "recurrence": {
+        "identityKey": "laughing-clouds:ossela",
+        "links": [],
+        "evidence": "No relevant matching universe identity; no relation to namesakes assumed."
+      },
+      "references": [
+        {
+          "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+          "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+          "inspected": true,
+          "role": "Same-story late-afternoon light and oil masses only",
+          "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Collection physical oil folio technique only",
+          "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+        },
+        {
+          "path": "stories/laughing-clouds/title-image.jpg",
+          "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+          "inspected": true,
+          "role": "Compatible young-engineer face, work layer palette only",
+          "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+        }
+      ],
+      "output": "stories/laughing-clouds/art/characters/ossela.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact folio. Change ONLY the THIRD full-body figure (Back). Move her ONE gray lower skirt patch from viewerRIGHT to viewerLEFT in the rear view, matching its anatomical LEFT side in front/side. Remove old rear right patch completely; there must be exactly ONE skirt patch in each view. Keep child identity, braids, proportions, orange pinafore, leggings, shoes, blue paddle, towel, faces, every heading and label, lighting, heavy oil and ivory unchanged. Do not mirror entire figure. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d53b609c-af01-4c85-933d-d91fa47018cc.png",
+            "sha256": "10274b6e5e5c4cf8b8f9cfd093d409c1a5503c10ffd2bb1d611856d54436b7ab",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T03:51:14.488054+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Ossela'. Girl9, clearly prepubescent child proportions with larger head and shorter limbs, deep warm brown skin, round cheeks, broad small nose, wide dark eyes, TWO tidy black braids to shoulders. Simple cinnamon-orange knee-length pinafore over cream short-sleeve shirt, moss-green leggings and worn closed brown shoes. Fully clothed ordinary child, no glamour/adult shape. Braids and shoulder fabric lightly wet.\nSource facts: Human girl child, braided hair, repaired-wheel interest; helps hold mats, participates with small blue consent paddle, receives towel around shoulders.\nDetails: Small plain BLUE consent paddle and soft gray towel around shoulders in one small upper-body detail. No cloud or magical power. Portrait labels 'Delighted' and 'Thoughtful'.",
+            "references": [
+              {
+                "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                "inspected": true,
+                "role": "Same-story late-afternoon light and oil masses only",
+                "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Collection physical oil folio technique only",
+                "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d53b609c-af01-4c85-933d-d91fa47018cc.png",
+            "savedPath": "stories/laughing-clouds/art/characters/ossela.png",
+            "outputSha256": "10274b6e5e5c4cf8b8f9cfd093d409c1a5503c10ffd2bb1d611856d54436b7ab",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:30:21.651115+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_resume_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-24T03:58:21.340294+00:00",
+              "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+              "outputSha256": "10274b6e5e5c4cf8b8f9cfd093d409c1a5503c10ffd2bb1d611856d54436b7ab",
+              "references": [
+                {
+                  "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                  "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                  "inspected": true,
+                  "role": "Same-story late-afternoon light and oil masses only",
+                  "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+                },
+                {
+                  "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                  "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                  "inspected": true,
+                  "role": "Collection physical oil folio technique only",
+                  "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+                }
+              ],
+              "evidence": [
+                "Actual generated pixels inspected: exact name/title readable, three full bodies and expressions consistent, no cut-off heads/feet or scene/swatches.",
+                "Heavy opaque connected oil across faces, cloth and equipment; late-afternoon warm planes opposed by muted cool substantial shaded masses.",
+                "Ordinary child proportions, consistent paired braids, warm orange pinafore, blue paddle and towel; fully clothed age-appropriate girl, no cloud personal power."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "60bb5c8cdde07a3b0625c74d1d51e9866db42325ca61e236428e4f57389f0fa0"
+            },
+            "review": {
+              "status": "REVISE",
+              "evidence": "Root actual-pixel review: lower skirt patch anatomical LEFT in front/side but RIGHT in rear; rear patch must move viewerLEFT."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:30:21.651115+00:00",
+            "prompt": "Edit this exact folio. Change ONLY the THIRD full-body figure (Back). Move her ONE gray lower skirt patch from viewerRIGHT to viewerLEFT in the rear view, matching its anatomical LEFT side in front/side. Remove old rear right patch completely; there must be exactly ONE skirt patch in each view. Keep child identity, braids, proportions, orange pinafore, leggings, shoes, blue paddle, towel, faces, every heading and label, lighting, heavy oil and ivory unchanged. Do not mirror entire figure. No new scene, backdrop, floor/ground patch, swatch, palette or other person.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d53b609c-af01-4c85-933d-d91fa47018cc.png",
+                "sha256": "10274b6e5e5c4cf8b8f9cfd093d409c1a5503c10ffd2bb1d611856d54436b7ab",
+                "inspected": true,
+                "role": "Actual target inspected; only indicated side-consistency correction authorized"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-7dc3f8ec-ebfe-4438-880f-c0652ef08e69.png",
+            "savedPath": "stories/laughing-clouds/art/characters/ossela.png",
+            "outputSha256": "03620ef9e9d12f14cb10760b997025a377338aa4a46881f4fbd242d44ec331ff",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:48:05.594338+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:48:05.594338+00:00",
+        "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+        "outputSha256": "03620ef9e9d12f14cb10760b997025a377338aa4a46881f4fbd242d44ec331ff",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d53b609c-af01-4c85-933d-d91fa47018cc.png",
+            "sha256": "10274b6e5e5c4cf8b8f9cfd093d409c1a5503c10ffd2bb1d611856d54436b7ab",
+            "inspected": true,
+            "role": "Actual target inspected; only indicated side-consistency correction authorized"
+          }
+        ],
+        "evidence": [
+          "Root rear patch correction inspected: single skirt patch viewerLEFT in Back = anatomical LEFT, corresponding to front/side; no duplicate patch.",
+          "Child anatomy, face/braids, paddle/towel, painterly daylight, names and layout preserved."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "7a24cbab5f2999849ab8add4e2bcf748f83562aed3fc9c991514f5abecda8392"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source, exact relevant quotes and actual supplied paintings/cover inspected. Short haircut contradiction resolved before generation. Personal details feasible at folio size; child explicitly age appropriate."
+      },
+      "outputSha256": "03620ef9e9d12f14cb10760b997025a377338aa4a46881f4fbd242d44ec331ff"
+    },
+    {
+      "id": "darevo",
+      "name": "Darevo",
+      "role": "Childs father and repairer, unnamed in source",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Childs father and repairer, unnamed in source",
+        "provenance": "Art-only name assigned under user authorization; source person remains unnamed. Checked existing universe/name memory/spec names; no match."
+      },
+      "selectionEvidence": [
+        {
+          "line": 193,
+          "quote": "her father fitted the freed wheel onto a little parts cart.",
+          "explanation": "Childs father and repairer, unnamed in source"
+        }
+      ],
+      "form": "Ordinary adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, five digits on each hand",
+        "lifeStage": "Adult; precise age art interpretation",
+        "proportions": "Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries.",
+        "markings": "Adult human father; repairs motor housing and freed wheel, catches rail after slip, triggers final laugh by pushing cart, wraps daughter in towel. Exact features/apparel unspecified.",
+        "materials": "Matte skin, practical cloth, leather and personal tools",
+        "clothing": "Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries.",
+        "equipment": "Folded worn cleaning rag, small ordinary open-ended spanner, soft gray towel folded separately; no cart or workbench.",
+        "scale": "Ordinary adult, height not specified",
+        "movement": "Natural restrained posed studies",
+        "distinctiveFeatures": "Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult human father; repairs motor housing and freed wheel, catches rail after slip, triggers final laugh by pushing cart, wraps daughter in towel. Exact features/apparel unspecified."
+      ],
+      "visualInterpretation": [
+        "Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries.",
+        "All appearance details not stated in source are art-only choices, no shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Festival demonstration / cleanup",
+          "description": "Consistent attire; no separate bodily transformation or injury state needed."
+        }
+      ],
+      "lighting": {
+        "moment": "Late-afternoon festival court",
+        "motivation": "Warm slant sun, cool muted shadow masses, drawn from inspected same-story source painting."
+      },
+      "recurrence": {
+        "identityKey": "laughing-clouds:darevo",
+        "links": [],
+        "evidence": "No relevant matching universe identity; no relation to namesakes assumed."
+      },
+      "references": [
+        {
+          "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+          "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+          "inspected": true,
+          "role": "Same-story late-afternoon light and oil masses only",
+          "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Collection physical oil folio technique only",
+          "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+        },
+        {
+          "path": "stories/laughing-clouds/title-image.jpg",
+          "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+          "inspected": true,
+          "role": "Compatible young-engineer face, work layer palette only",
+          "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+        }
+      ],
+      "output": "stories/laughing-clouds/art/characters/darevo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Darevo'. Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries.\nSource facts: Adult human father; repairs motor housing and freed wheel, catches rail after slip, triggers final laugh by pushing cart, wraps daughter in towel. Exact features/apparel unspecified.\nDetails: Folded worn cleaning rag, small ordinary open-ended spanner, soft gray towel folded separately; no cart or workbench. Portrait labels 'Focused' and 'Reassuring'.",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:51:14.488054+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Darevo'. Man39, broad sturdy torso, deep warm brown skin with familial broad nose and dark eyes, receding short black curly hair and short close square beard. Dusty blue-gray overshirt with rolled sleeves over clay-brown shirt, charcoal work trousers, broad practical belt and dark work shoes. Small grease stains on cuffs, no injuries.\nSource facts: Adult human father; repairs motor housing and freed wheel, catches rail after slip, triggers final laugh by pushing cart, wraps daughter in towel. Exact features/apparel unspecified.\nDetails: Folded worn cleaning rag, small ordinary open-ended spanner, soft gray towel folded separately; no cart or workbench. Portrait labels 'Focused' and 'Reassuring'.",
+            "references": [
+              {
+                "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                "inspected": true,
+                "role": "Same-story late-afternoon light and oil masses only",
+                "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Collection physical oil folio technique only",
+                "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ae8f6a56-164d-4c9c-8c80-a8a0dac8b711.png",
+            "savedPath": "stories/laughing-clouds/art/characters/darevo.png",
+            "outputSha256": "032dc42d7a82f0507f9ba1a5ef07787b1d51c97599cc8f51b8fa7277fc0f4afe",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:58:21.340294+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:58:21.340294+00:00",
+        "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+        "outputSha256": "032dc42d7a82f0507f9ba1a5ef07787b1d51c97599cc8f51b8fa7277fc0f4afe",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected: exact name/title readable, three full bodies and expressions consistent, no cut-off heads/feet or scene/swatches.",
+          "Heavy opaque connected oil across faces, cloth and equipment; late-afternoon warm planes opposed by muted cool substantial shaded masses.",
+          "Consistent adult father with receding curls, close beard and sturdy build; rag, spanner and towel stay personal repair gear."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "427bc722e5b9274169a8d9d08bd7fcfe4454579f7b138f1b6341d61ea444f89e"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source, exact relevant quotes and actual supplied paintings/cover inspected. Short haircut contradiction resolved before generation. Personal details feasible at folio size; child explicitly age appropriate."
+      },
+      "outputSha256": "032dc42d7a82f0507f9ba1a5ef07787b1d51c97599cc8f51b8fa7277fc0f4afe"
+    },
+    {
+      "id": "vessane",
+      "name": "Vessane",
+      "role": "Festival judge, unnamed in source",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Festival judge, unnamed in source",
+        "provenance": "Art-only name assigned under user authorization; source person remains unnamed. Checked existing universe/name memory/spec names; no match."
+      },
+      "selectionEvidence": [
+        {
+          "line": 265,
+          "quote": "The judge arrived with damp cuffs from another entry",
+          "explanation": "Festival judge, unnamed in source"
+        }
+      ],
+      "form": "Ordinary adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, five digits on each hand",
+        "lifeStage": "Adult; precise age art interpretation",
+        "proportions": "Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown.",
+        "markings": "Adult human female judge; damp cuffs, slate, practical shoes, acceptance tag, examines runoff and tests cutoff. Exact age/appearance unspecified.",
+        "materials": "Matte skin, practical cloth, leather and personal tools",
+        "clothing": "Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown.",
+        "equipment": "Small slate with simple illegible chalk strokes and a small plain tied conditional-demonstration tag, no invented legible legal text.",
+        "scale": "Ordinary adult, height not specified",
+        "movement": "Natural restrained posed studies",
+        "distinctiveFeatures": "Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult human female judge; damp cuffs, slate, practical shoes, acceptance tag, examines runoff and tests cutoff. Exact age/appearance unspecified."
+      ],
+      "visualInterpretation": [
+        "Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown.",
+        "All appearance details not stated in source are art-only choices, no shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Festival demonstration / cleanup",
+          "description": "Consistent attire; no separate bodily transformation or injury state needed."
+        }
+      ],
+      "lighting": {
+        "moment": "Late-afternoon festival court",
+        "motivation": "Warm slant sun, cool muted shadow masses, drawn from inspected same-story source painting."
+      },
+      "recurrence": {
+        "identityKey": "laughing-clouds:vessane",
+        "links": [],
+        "evidence": "No relevant matching universe identity; no relation to namesakes assumed."
+      },
+      "references": [
+        {
+          "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+          "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+          "inspected": true,
+          "role": "Same-story late-afternoon light and oil masses only",
+          "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true,
+          "role": "Collection physical oil folio technique only",
+          "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+        },
+        {
+          "path": "stories/laughing-clouds/title-image.jpg",
+          "sha256": "2d0913bf607af33e837e1f10bc678ed33092bdf2ac29cb5f7320895769a0c001",
+          "inspected": true,
+          "role": "Compatible young-engineer face, work layer palette only",
+          "notes": "Cover inspected. Ianthe long hair conflicts with explicit apprentice crop and is rejected; extravagant jewelry, decorative vines and altered handheld device not transferred. Rasim dark loose curls/tan face and cream/green work layers compatible."
+        }
+      ],
+      "output": "stories/laughing-clouds/art/characters/vessane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Vessane'. Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown.\nSource facts: Adult human female judge; damp cuffs, slate, practical shoes, acceptance tag, examines runoff and tests cutoff. Exact age/appearance unspecified.\nDetails: Small slate with simple illegible chalk strokes and a small plain tied conditional-demonstration tag, no invented legible legal text. Portrait labels 'Assessing' and 'Decisive'.",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:51:14.488054+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character-only folio on LIGHT WARM IVORY. Exact large dark serif name and smaller exact title 'A Little Weather Between Us'. Left three complete unclipped Front/Side/Back views of ONE identity, right two larger expressive head studies and small personal equipment details. Heavy Canadian Group of Seven-inspired physical OIL: broad connected value/colour masses, directional opaque bristle strokes and selective impasto across FACES as well as clothes, matte eyes and quiet joined shadow planes. FIRST reference supplies actual source late-afternoon WARM SLANT SUN against substantial muted cool green-gray shaded planes, no scene. SECOND supplies physical oil folio technique only, no man's face/hair/costume. No glossy photo/CGI/anime/fine-line contours or uniformly warm studio glow. No landscape, room, workbench, floor/ground patch, swatches, palettes, extra people or decorative prose. Keep identity, proportions, garment construction and hairstyle consistent through every view. Source has no magical human powers.\nHeading 'Vessane'. Woman60, tall narrow build, medium cool-brown skin, long rectangular face, hooked nose, small dark eyes and close natural SILVER curls. Muted plum hip-length linen jacket with damp darker cuffs, pale gray collarless blouse, loose charcoal trousers and plain black low work shoes. No robe of office or crown.\nSource facts: Adult human female judge; damp cuffs, slate, practical shoes, acceptance tag, examines runoff and tests cutoff. Exact age/appearance unspecified.\nDetails: Small slate with simple illegible chalk strokes and a small plain tied conditional-demonstration tag, no invented legible legal text. Portrait labels 'Assessing' and 'Decisive'.",
+            "references": [
+              {
+                "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+                "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+                "inspected": true,
+                "role": "Same-story late-afternoon light and oil masses only",
+                "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true,
+                "role": "Collection physical oil folio technique only",
+                "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-3578db41-87e4-4e1d-be88-8aaf4b39e0b2.png",
+            "savedPath": "stories/laughing-clouds/art/characters/vessane.png",
+            "outputSha256": "34980a97d48f5ca04a05610e170e8872fb7e94ceba86e9ee44ae55ac720d778e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:58:21.340294+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:58:21.340294+00:00",
+        "sourceSha256": "43247830d517f9e56da6031c70e6995516cdd7e581405c59e6ee9660e8dfdde2",
+        "outputSha256": "34980a97d48f5ca04a05610e170e8872fb7e94ceba86e9ee44ae55ac720d778e",
+        "references": [
+          {
+            "path": "stories/laughing-clouds/art/landscapes/05-the-last-strip-of-sun.png",
+            "sha256": "3b8e96172738a12c30d1ced380238e5524027f42192539f61169835a7e054ced",
+            "inspected": true,
+            "role": "Same-story late-afternoon light and oil masses only",
+            "notes": "Warm slant sun and connected blue/green shaded planes; no scene transferred."
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true,
+            "role": "Collection physical oil folio technique only",
+            "notes": "Broad matte faces, connected colour masses and unclipped ivory folio inspected; no Kelro identity transferred."
+          }
+        ],
+        "evidence": [
+          "Actual generated pixels inspected: exact name/title readable, three full bodies and expressions consistent, no cut-off heads/feet or scene/swatches.",
+          "Heavy opaque connected oil across faces, cloth and equipment; late-afternoon warm planes opposed by muted cool substantial shaded masses.",
+          "Older tall woman with consistent gray curls and plum practical jacket, damp dark cuffs, slate and plain tied tag. No invented judicial uniform or full text."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "f5adc9e86a8694035b2f8ef9c7526ba28f2f341281f103467be3384ae4e9c7ed"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source, exact relevant quotes and actual supplied paintings/cover inspected. Short haircut contradiction resolved before generation. Personal details feasible at folio size; child explicitly age appropriate."
+      },
+      "outputSha256": "34980a97d48f5ca04a05610e170e8872fb7e94ceba86e9ee44ae55ac720d778e"
+    }
+  ]
+}

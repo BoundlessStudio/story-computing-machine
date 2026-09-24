@@ -1,0 +1,931 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-the-gates-keep",
+  "title": "The Wrong Rescue",
+  "source": "stories/what-the-gates-keep/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete source/prompt/review read including explicit cover correction requests. Actual revised cover and hall/dining oils inspected; no original images. Six major narrative identities include four hall protagonists and central remembered father/maid whose abuse precipitates escape. New art-only names checked against universe/name-memory/reviews/outlines/specs.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Haldis's deceased husband, Ismeret's sister and husband, steward, scout, guards and gardener",
+      "reason": "Reported functional relations/support, lacking separate sustained characterization; husband represented by his source boot memento."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tormek",
+      "name": "Tormek",
+      "role": "Royal rescuer and former riding tutor",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "I could remember every time I had lifted her",
+          "explanation": "Unnamed first-person protagonist reevaluates coercive protection and releases the princess."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult narrator, gender unspecified, served king and taught Ismeret riding since childhood; sword, travelling gear, blood on sleeve, horse. Exact appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only androgynous middle-aged person48, tan broad face, close brown-gray hair, small brown eyes, no beard, practical iron/leather travel armor over faded blue coat; stained sleeve understated."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "End of hall confrontation, sword lowered after releasing Ismeret; reflective and shaken."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:tormek",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Royal rescuer and former riding tutor",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/tormek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Tormek\"; exact story title \"The Wrong Rescue\"; subtitle \"Royal rescuer and former riding tutor\". ANDROGYNOUS adult48, broad grounded build, TAN weathered complexion, broad blunt nose, small brown eyes, close-cropped BROWN-GRAY hair, no beard. Plain scuffed steel breastplate and leather shoulder pieces over faded BLUE travel coat, dark wool trousers, brown riding boots. Practical rankless rescuer, not a king. Small dull reddish smear on sleeve, no fresh gore. Plain sword held point down and away, other hand relaxed. Large face shaken/remorseful. Isolated object simple worn leather riding GLOVES, no detached hands. Warm late-evening side light against cool violet shadow planes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.103877+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Tormek\"; exact story title \"The Wrong Rescue\"; subtitle \"Royal rescuer and former riding tutor\". ANDROGYNOUS adult48, broad grounded build, TAN weathered complexion, broad blunt nose, small brown eyes, close-cropped BROWN-GRAY hair, no beard. Plain scuffed steel breastplate and leather shoulder pieces over faded BLUE travel coat, dark wool trousers, brown riding boots. Practical rankless rescuer, not a king. Small dull reddish smear on sleeve, no fresh gore. Plain sword held point down and away, other hand relaxed. Large face shaken/remorseful. Isolated object simple worn leather riding GLOVES, no detached hands. Warm late-evening side light against cool violet shadow planes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/title-image.jpg",
+                "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+                "inspected": true,
+                "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+                "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+                "inspected": true,
+                "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2a703741-d899-4952-86f5-6ced5b21277e.png",
+            "outputSha256": "44d9050ea58ba59feaa516c2c8c1567da4b59dad7a359cf3cf484c92e4afddd2",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.035537+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Middle-aged rescuer with travel armor, low sword and restrained sleeve stain; painted face/gear consistent and art-only identity.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2a703741-d899-4952-86f5-6ced5b21277e.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "44d9050ea58ba59feaa516c2c8c1567da4b59dad7a359cf3cf484c92e4afddd2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "evidence": [
+          "Middle-aged rescuer with travel armor, low sword and restrained sleeve stain; painted face/gear consistent and art-only identity.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "fe2f594eca841e968e001bba21f19860e6d20944979d6850d51a44e708018b77"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "44d9050ea58ba59feaa516c2c8c1567da4b59dad7a359cf3cf484c92e4afddd2"
+    },
+    {
+      "id": "haldis",
+      "name": "Haldis",
+      "role": "Widowed tracker and rescuer",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "He burned my husband's house with my husband in it.",
+          "explanation": "Co-lead rescuer whose vengeance conflicts with Ismeret's escape."
+        },
+        {
+          "quote": "one of her husband's boots, the left",
+          "explanation": "Personal grief object carried in saddlebag through nineteen-day journey."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult woman, axe, riding gear/gloves/saddlebags, carries late husband's left boot. Physical description unspecified. Gloves removed later; split nail not selected focal detail."
+      },
+      "visualInterpretation": [
+        "Art-only strong woman40, fair freckled skin, cropped red-brown hair, square face and small gray-green eyes. Travel-worn dark olive padded leather armor, brown trousers/boots."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Late hall confrontation before departure, axe kept low, husband's boot personal memory object."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:haldis",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/haldis.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Haldis\"; exact story title \"The Wrong Rescue\"; subtitle \"Widowed tracker and rescuer\". Adult WOMAN40, broad STRONG build, FAIR freckled weathered face, SQUARE jaw, short blunt nose, small gray-green eyes, short RED-BROWN hair cropped around ears, no decorative braid. Worn dark OLIVE quilted and leather travel armor, brown wool trousers and scuffed riding boots, plain leather gloves worn. Holds ordinary two-handed AXE LOW with blade away from viewer, controlled furious grief in face. Worn saddlebag at hip contains edge of a man's good LEFT leather boot, no foot inside. Isolated object the single old man's LEFT BOOT, a memento, no paired boots or detached body. No magical glow, no crown worn. Late-evening gold edge and deep slate-violet shadow.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.110433+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Haldis\"; exact story title \"The Wrong Rescue\"; subtitle \"Widowed tracker and rescuer\". Adult WOMAN40, broad STRONG build, FAIR freckled weathered face, SQUARE jaw, short blunt nose, small gray-green eyes, short RED-BROWN hair cropped around ears, no decorative braid. Worn dark OLIVE quilted and leather travel armor, brown wool trousers and scuffed riding boots, plain leather gloves worn. Holds ordinary two-handed AXE LOW with blade away from viewer, controlled furious grief in face. Worn saddlebag at hip contains edge of a man's good LEFT leather boot, no foot inside. Isolated object the single old man's LEFT BOOT, a memento, no paired boots or detached body. No magical glow, no crown worn. Late-evening gold edge and deep slate-violet shadow.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/title-image.jpg",
+                "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+                "inspected": true,
+                "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+                "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+                "inspected": true,
+                "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-3d2575e6-ebab-4fa3-8a51-c88b8a885ad4.png",
+            "outputSha256": "5cae00740f17c10a97a60091b7e346a09f5fbc9d1e2b77c573461e111d7c65c6",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.072651+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Strong adult tracker, low axe, controlled angry grief and dead husband's single boot memento; source role legible.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-3d2575e6-ebab-4fa3-8a51-c88b8a885ad4.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "5cae00740f17c10a97a60091b7e346a09f5fbc9d1e2b77c573461e111d7c65c6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "evidence": [
+          "Strong adult tracker, low axe, controlled angry grief and dead husband's single boot memento; source role legible.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "646103ea427e6b1af57e1c31b6db94c9ba53b999382a3ff07bc0c28dcf4a85ff"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "5cae00740f17c10a97a60091b7e346a09f5fbc9d1e2b77c573461e111d7c65c6"
+    },
+    {
+      "id": "ismeret",
+      "name": "Ismeret",
+      "role": "Princess choosing her own escape",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "But she was twenty-seven now.",
+          "explanation": "Adult princess rejects forced return and helps Kolvran escape."
+        },
+        {
+          "quote": "She wore a brown riding dress and boots laced all the way to the knee.",
+          "explanation": "Explicit practical costume with royal cover treatment."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Woman27, single thick braid, brown riding dress, knee-high laced boots tied double knots; rolled cloak fastened over one shoulder high across back. Source does not specify hair color or ornament."
+      },
+      "visualInterpretation": [
+        "Cover-derived warm brunette single braid, brown dress with restrained gold royal embroidery, small gold brow ornament; adult27 face rather than stylized anime. Art-only warm fair skin/brown eyes."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Hall departure with cloak bundle fastened high over one shoulder, resolute; one identity alone without Kolvran."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:ismeret",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/ismeret.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Ismeret\"; exact story title \"The Wrong Rescue\"; subtitle \"Princess choosing her own escape\". Adult HUMAN WOMAN exactly27, warm FAIR skin, brown eyes and strong intent adult face translated from IMAGE2 cover, long CHESTNUT hair in ONE THICK BRAID with a few loose strands at face. Clearly ROYAL but practical: fine BROWN riding dress split for movement, understated GOLD embroidery at collar/cuffs/hem, small gold brow ornament based on cover, brown riding trousers under dress, leather BOOTS LACED to KNEES ending in double knots. A ROLLED CLOAK strapped over one shoulder HIGH across back, visible in both full views. No ballgown, no modern clothes. One hand resting naturally at strap, no weapon. Isolated object small rolled cloak/bundle strap. Firm independent wary face. Golden evening side light, deep violet shaded cheek; no second person.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.117039+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Ismeret\"; exact story title \"The Wrong Rescue\"; subtitle \"Princess choosing her own escape\". Adult HUMAN WOMAN exactly27, warm FAIR skin, brown eyes and strong intent adult face translated from IMAGE2 cover, long CHESTNUT hair in ONE THICK BRAID with a few loose strands at face. Clearly ROYAL but practical: fine BROWN riding dress split for movement, understated GOLD embroidery at collar/cuffs/hem, small gold brow ornament based on cover, brown riding trousers under dress, leather BOOTS LACED to KNEES ending in double knots. A ROLLED CLOAK strapped over one shoulder HIGH across back, visible in both full views. No ballgown, no modern clothes. One hand resting naturally at strap, no weapon. Isolated object small rolled cloak/bundle strap. Firm independent wary face. Golden evening side light, deep violet shaded cheek; no second person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/title-image.jpg",
+                "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+                "inspected": true,
+                "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+                "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+                "inspected": true,
+                "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f041b6fe-6a18-45ed-90cf-506c206a6383.png",
+            "outputSha256": "e8abd63d66bb62e2520970354d68fe34b3bdc3eebd0f6fa16ef3c9dedba5c76e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.090634+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Royal adult27 in cover-derived brown/gold riding dress, one thick braid, knee laced boots and high rolled cloak; source agency/expression and painted face retained.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f041b6fe-6a18-45ed-90cf-506c206a6383.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "e8abd63d66bb62e2520970354d68fe34b3bdc3eebd0f6fa16ef3c9dedba5c76e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "evidence": [
+          "Royal adult27 in cover-derived brown/gold riding dress, one thick braid, knee laced boots and high rolled cloak; source agency/expression and painted face retained.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "6e7e5bdecdef94fed506e14e1a28f21651f4923bf8877e7b642aba9c3f9e4c91"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "e8abd63d66bb62e2520970354d68fe34b3bdc3eebd0f6fa16ef3c9dedba5c76e"
+    },
+    {
+      "id": "kolvran",
+      "name": "Kolvran",
+      "role": "Wounded Demon King",
+      "form": "living horned humanoid ruler",
+      "selectionEvidence": [
+        {
+          "quote": "one of his small backward horns",
+          "explanation": "Living horned king is defeated and faint from leg injury, not a deity or giant monster."
+        },
+        {
+          "quote": "She had got the linen under his leg.",
+          "explanation": "Selected state after leg binding, before escape."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult male Demon King with small backward horns, gray around mouth from blood loss, wound above knee bound with linen; fallen crown, weapon must be free for teleport. Needs sight and stable footing, only one contact passenger. No aura."
+      },
+      "visualInterpretation": [
+        "Cover-derived imposing broad build, long loose pale silver hair, two short backward-curving dark horns, gray skin, ornate damaged black and old-gold armor, tattered red cape. Art-only right-thigh/knee bandage assignment in selected pixels; source wound side unspecified.",
+        "Source does not assign injured-leg side; actual selected sheet consistently places wrap on right leg. Accepted as art-only choice; no anatomy or side correction needed."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Final moment after binding, briefly upright after finding balance, empty hands, faint and strained; crown isolated, not worn."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:kolvran",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/kolvran.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Kolvran\"; exact story title \"The Wrong Rescue\"; subtitle \"Wounded Demon King\". Adult male living HORNED HUMANOID KING, imposing broad/tall ordinary humanoid proportions like image2, GRAY skin paler around mouth from fatigue, long loose SILVER-WHITE hair, TWO SMALL dark horns curving BACKWARD close to skull. Strong angular mature face, tired heavy small eyes, no red glow. Battle-scuffed regal BLACK and OLD GOLD full armor, ragged deep RED cape, clear defeated weight and exhaustion in shoulders. LINEN BANDAGE above LEFT KNEE over an exposed gap in thigh armor, muted small dried stain only, no gore. Stands unsteadily but balanced in the source's final instant, empty relaxed hands, no sword held, NO crown worn. Isolated personal object his fallen GOLD CROWN with one BROKEN POINT. All figure/portrait horns and hair identical. Golden evening grazing edge, dominant cool violet-gray armor/face shadows; background LIGHT IVORY.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.123560+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Kolvran\"; exact story title \"The Wrong Rescue\"; subtitle \"Wounded Demon King\". Adult male living HORNED HUMANOID KING, imposing broad/tall ordinary humanoid proportions like image2, GRAY skin paler around mouth from fatigue, long loose SILVER-WHITE hair, TWO SMALL dark horns curving BACKWARD close to skull. Strong angular mature face, tired heavy small eyes, no red glow. Battle-scuffed regal BLACK and OLD GOLD full armor, ragged deep RED cape, clear defeated weight and exhaustion in shoulders. LINEN BANDAGE above LEFT KNEE over an exposed gap in thigh armor, muted small dried stain only, no gore. Stands unsteadily but balanced in the source's final instant, empty relaxed hands, no sword held, NO crown worn. Isolated personal object his fallen GOLD CROWN with one BROKEN POINT. All figure/portrait horns and hair identical. Golden evening grazing edge, dominant cool violet-gray armor/face shadows; background LIGHT IVORY.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/title-image.jpg",
+                "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+                "inspected": true,
+                "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+                "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+                "inspected": true,
+                "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-22057b1d-ceaa-4dff-9cf1-08bbd81ca19b.png",
+            "outputSha256": "cdff27da566b06f0f99e13438c2f1f43c50ecebd3bf754d592a814e2e42363e0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.108430+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Regal defeated horned king with small backward horns, long silver hair, black/gold armor and ragged red cape; linen wrap on source-unspecified right leg accepted, empty hands and separate fallen broken crown.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-22057b1d-ceaa-4dff-9cf1-08bbd81ca19b.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "cdff27da566b06f0f99e13438c2f1f43c50ecebd3bf754d592a814e2e42363e0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "evidence": [
+          "Regal defeated horned king with small backward horns, long silver hair, black/gold armor and ragged red cape; linen wrap on source-unspecified right leg accepted, empty hands and separate fallen broken crown.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "1c98a6bdb987488480cc880083fbb83f21bfa78055a14fce4a15afca9f0b5d72"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "cdff27da566b06f0f99e13438c2f1f43c50ecebd3bf754d592a814e2e42363e0"
+    },
+    {
+      "id": "arloth",
+      "name": "Arloth",
+      "role": "Ismeret's father and royal captor",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "He sat at supper while they beat her.",
+          "explanation": "Central remembered antagonist whose abuse drives the princess's escape."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult human king, father of27-year-oldIsmeret, eats supper and orders confinement/punishment. No bodily or wardrobe description."
+      },
+      "visualInterpretation": [
+        "Art-only man60, warm fair skin, broad cheeks, dark brown-gray wavy short hair, small brown eyes, trimmed gray moustache. Royal wine-red robe with restrained gold cuffs, simple gold crown."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Remembered supper authority, composed in fine robe, no violence depicted."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:arloth",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Ismeret's father and royal captor",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/arloth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Arloth\"; exact story title \"The Wrong Rescue\"; subtitle \"Ismeret's father and royal captor\". Adult HUMAN MAN60, substantial broad build, warm FAIR complexion, fleshy broad cheeks, long straight nose, small BROWN eyes, short dark BROWN-GRAY wavy hair, neatly trimmed GRAY moustache. Stern complacent expression, not a demon: NO HORNS, no white mane. Rich WINE RED knee-length royal robe with restrained gold embroidery, dark trousers and fine leather shoes, simple GOLD crown on head. Hands rest naturally near waist. Isolated personal object ordinary shallow ceramic BROTH BOWL and spoon from private supper. Warm CANDLE side-light leaves far cheek and robe in deep muted blue-brown shadow, no scene/background. No beating or other person.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/03-the-little-dining-room.png",
+            "role": "Inspected remembered private supper candlelight, warm old-gold light and deep cool shadow; no room.",
+            "inspected": true,
+            "sha256": "8a862350d0d6b16114af00ef883b2887728ac3d21911e492f48a371ba5a48fc5"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.129601+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Arloth\"; exact story title \"The Wrong Rescue\"; subtitle \"Ismeret's father and royal captor\". Adult HUMAN MAN60, substantial broad build, warm FAIR complexion, fleshy broad cheeks, long straight nose, small BROWN eyes, short dark BROWN-GRAY wavy hair, neatly trimmed GRAY moustache. Stern complacent expression, not a demon: NO HORNS, no white mane. Rich WINE RED knee-length royal robe with restrained gold embroidery, dark trousers and fine leather shoes, simple GOLD crown on head. Hands rest naturally near waist. Isolated personal object ordinary shallow ceramic BROTH BOWL and spoon from private supper. Warm CANDLE side-light leaves far cheek and robe in deep muted blue-brown shadow, no scene/background. No beating or other person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/03-the-little-dining-room.png",
+                "role": "Inspected remembered private supper candlelight, warm old-gold light and deep cool shadow; no room.",
+                "inspected": true,
+                "sha256": "8a862350d0d6b16114af00ef883b2887728ac3d21911e492f48a371ba5a48fc5"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2e36d394-de31-4617-adc2-1d4c9b6cf475.png",
+            "outputSha256": "081db1dd0c75331bb4aa94b80573ee4bb967a569799af79a8fe6459677f3c450",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.127397+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Human father-king, distinct round mature face, wine royal robe, crown and supper bowl; remembered antagonist with no violence scene.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2e36d394-de31-4617-adc2-1d4c9b6cf475.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "081db1dd0c75331bb4aa94b80573ee4bb967a569799af79a8fe6459677f3c450",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/03-the-little-dining-room.png",
+            "role": "Inspected remembered private supper candlelight, warm old-gold light and deep cool shadow; no room.",
+            "inspected": true,
+            "sha256": "8a862350d0d6b16114af00ef883b2887728ac3d21911e492f48a371ba5a48fc5"
+          }
+        ],
+        "evidence": [
+          "Human father-king, distinct round mature face, wine royal robe, crown and supper bowl; remembered antagonist with no violence scene.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "5e2e6e74c1885a1d50e4eb50564cd7ccdc3f19726311886be35c713621608cb1"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "081db1dd0c75331bb4aa94b80573ee4bb967a569799af79a8fe6459677f3c450"
+    },
+    {
+      "id": "feska",
+      "name": "Feska",
+      "role": "Princess's maid and intercepted messenger",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "wearing a man's coat over her apron",
+          "explanation": "Remembered messenger's interception and punishment trigger central moral conflict."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Young woman called girl, maid, man's coat over apron, carries letter sealed byIsmeret hidden in pocket. Age/hair/appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only young adult22, dark-brown skin, oval face, small dark eyes, short black twists tied back; oversized gray-brown coat, cream apron and plain dark green dress."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Remembered west-gate attempt before detention/abuse, intact and apprehensive."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-gates-keep:feska",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Princess's maid and intercepted messenger",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-gates-keep/art/characters/feska.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Feska\"; exact story title \"The Wrong Rescue\"; subtitle \"Princess's maid and intercepted messenger\". Adult WOMAN22, slim slight build, DARK BROWN skin, narrow oval face, short rounded nose, small matte dark eyes, BLACK short twists gathered back. An oversized man's GRAY-BROWN wool COAT over a simple CREAM apron and plain dark GREEN calf-length servant's dress, worn brown boots. One folded LETTER tucked securely into coat pocket; stands with anxious but determined expression. Isolated personal object folded letter with soft RED WAX SEAL lightly marked by APRON WEAVE, no readable invented message. Before her detention: no injuries or torn clothes. Cool late-day gateway light with restrained warm skin facets, no actual gate.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:29:31.136402+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use large, flowing brush masses across facial planes and clothing, not a fine all-over raised-chip mosaic. Source cover is CONTENT only and must be completely translated into opaque painted faces, no polished anime rendering.\nExact name \"Feska\"; exact story title \"The Wrong Rescue\"; subtitle \"Princess's maid and intercepted messenger\". Adult WOMAN22, slim slight build, DARK BROWN skin, narrow oval face, short rounded nose, small matte dark eyes, BLACK short twists gathered back. An oversized man's GRAY-BROWN wool COAT over a simple CREAM apron and plain dark GREEN calf-length servant's dress, worn brown boots. One folded LETTER tucked securely into coat pocket; stands with anxious but determined expression. Isolated personal object folded letter with soft RED WAX SEAL lightly marked by APRON WEAVE, no readable invented message. Before her detention: no injuries or torn clothes. Cool late-day gateway light with restrained warm skin facets, no actual gate.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-gates-keep/title-image.jpg",
+                "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+                "inspected": true,
+                "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+              },
+              {
+                "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+                "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+                "inspected": true,
+                "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-282947c8-cdca-4119-9a4e-eee364d66208.png",
+            "outputSha256": "c154e2b7464889e792bfa6295632494710942a4294507ada14715449ded1c50c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:51:16.143980+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Young adult maid before abuse, man's coat over apron, sealed letter with visible weave marking; unique art-only identity.",
+              "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-282947c8-cdca-4119-9a4e-eee364d66208.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857",
+        "outputSha256": "c154e2b7464889e792bfa6295632494710942a4294507ada14715449ded1c50c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected Sculpted Impasto broad paint structure only. No donor identity, cape, palette strips or scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-gates-keep/title-image.jpg",
+            "role": "Inspected source cover: Ismeret's brown/gold royal riding dress and single braid; Kolvran's long white hair, small backward dark horns, imposing black/gold armor and torn red cape. Source overrides scene anatomy and injuries.",
+            "inspected": true,
+            "sha256": "39e966f29bc7af93e544dfdf96449f64835ee021f17b78a6e703e289eb962f12"
+          },
+          {
+            "path": "stories/what-the-gates-keep/art/interiors/01-the-hall-and-window-seat.png",
+            "role": "Inspected source late-evening yellow side light and deep slate-violet shadows, broad connected oils; no hall depiction.",
+            "inspected": true,
+            "sha256": "aff6d5dd68ec0a28bde718fb234abefcf2c92feec400216c6e2834af4f3d8cb4"
+          }
+        ],
+        "evidence": [
+          "Young adult maid before abuse, man's coat over apron, sealed letter with visible weave marking; unique art-only identity.",
+          "Actual final1536x1024 inspected, complete coherent identity viewpoints and face, readable exact name/title, broad oil; ivory without scenic vignette, floor patch, swatches or hand studies."
+        ],
+        "specificationSha256": "cd07f771d5d90d96266f0d08c9d8b9a114209c0f9957d01fd4e3147a49775833"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "c154e2b7464889e792bfa6295632494710942a4294507ada14715449ded1c50c"
+    }
+  ],
+  "sourceSha256": "0b31ca715ac18ee18c6f1418a63a738353124370f5568463bb9ef47f150e9857"
+}

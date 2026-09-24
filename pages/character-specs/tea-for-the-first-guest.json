@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "slug": "tea-for-the-first-guest",
+  "title": "Tea for the First Guest",
+  "source": "stories/tea-for-the-first-guest/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Only the wizard and visiting book-repairer sustain action, viewpoint and relational change.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Carrier and horse, old woman, lodging owner, binder, family, soldiers and historical peoples",
+      "reason": "Brief exterior presence or remembered/offstage context, no sustained individual role."
+    },
+    {
+      "name": "Tower, arch, panel and fire",
+      "reason": "Nonliving structures and ordinary fire, not agents or magic users."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#System categories"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover's loose white wizard hair changes to source's waistlong BRAID, source brown complexion controls over pale cover lighting; long white beard retained as compatible art interpretation.",
+    "Both cover cups appear porcelain; final prose explicitly keeps chipped brown clay cup with guest and white porcelain with wizard. No patterned cups required.",
+    "Cover ornate robe/large glassgarden are subordinate; use patched plain robe and no environment."
+  ],
+  "characters": [
+    {
+      "id": "ossarin",
+      "name": "Ossarin",
+      "role": "Ancient isolated wizard whose hospitality becomes voluntary after opening an exit.",
+      "selectionEvidence": [
+        {
+          "quote": "his brown face scored around the eyes and mouth",
+          "explanation": "Exact source role or visual state evidence."
+        },
+        {
+          "quote": "His white hair hung in a braid nearly to his waist",
+          "explanation": "Exact source role or visual state evidence."
+        }
+      ],
+      "form": "Adult human male wizard",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, twoarms/twolegs.",
+        "lifeStage": "Looks perhaps60 but older than foundation's2012years by sevenmonths, with several-year calendaruncertainty.",
+        "proportions": "Lean erect.",
+        "markings": "Greenstained fingertips, linedeyes/mouth.",
+        "materials": "Human skin/hair, ordinary cloth and handtools/ceramics.",
+        "clothing": "Robe patched at one elbow with mismatchedcloth.",
+        "equipment": "Small brightsharp pruningshears; ordinary freshtealeaves; WHITE thinporcelain cup at ending.",
+        "scale": "Human adult.",
+        "movement": "Steadyhands initially, controlled working with visiblehands, later necktendon/knuckletremble.",
+        "distinctiveFeatures": "Whitewaistlongbraid, brownface, patchedrobe, greenfingers."
+      },
+      "explicitCanon": [
+        "Livingwizard supplies threshold/climate workings; no flash, toweragency or floatingtools.",
+        "Brownlinedface, leanerect, longwhitebraid, greenstainedfingertips and mismatchedelbowpatch.",
+        "Whiteporcelaincup remains with him atending; guest hasbrownclay.",
+        "Tremblingknuckles late from sustainedworking/cold; no universalimmortality mechanism established."
+      ],
+      "visualInterpretation": [
+        "Authorized artname Ossarin. Mediumbrown complexion, long linedface/longnose/deepsetbrown eyes compatiblecover; longwhitebeard retained as interpretation, hair explicitlybraided towaist.",
+        "Plain mutedMAROON anklelength robe, rightelbow patch dustygray, simple brownslippers; no crown/hat/ornate magicembroider.",
+        "Firststate soft fire/yellowlamp; open-exit laterstate dim coolergray with smallfireplane/redambient, no scenicportal."
+      ],
+      "states": [
+        {
+          "name": "Tea gardener",
+          "description": "Fullfront with small closedpruningshears safelylowered, greenfingertips."
+        },
+        {
+          "name": "Keeping the way open",
+          "description": "Complete rear-side, near-waist braid and rightelbow patch visible, whitecup heldcarefully; sameperson in dimlaterstate."
+        },
+        {
+          "name": "Listening",
+          "description": "Head and greenfingers/cup detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "tea-for-the-first-guest:ossarin",
+        "links": [],
+        "evidence": "Unnamed current and outlined source; no established sharedidentity or linkage to known crossings/tea systems."
+      },
+      "references": [
+        {
+          "path": "stories/tea-for-the-first-guest/title-image.jpg",
+          "role": "compatible face/silhouette/color inspiration only, source overrides braid/brownskin/cups",
+          "notes": "Older longwhitehair/beard maroon-robed man, wet youngdarkhaired traveler in darkcloth. No exact canonfacialgeometry.",
+          "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+          "inspected": true
+        },
+        {
+          "path": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
+          "role": "broad oil and firstinfusion lamplight only",
+          "notes": "Warm fire/lamps, cool noonwindow. Final source says lamps dim after opening, do not copy alwaysbrightroom.",
+          "sha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+          "inspected": true
+        },
+        {
+          "path": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+          "role": "brownclay/whiteporcelain material and broad oil only",
+          "notes": "Use simplesource-compatible cups; wizardwhite, guestbrownchipped. No furniture/room.",
+          "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "Ancient isolated wizard whose hospitality becomes voluntary after opening an exit.",
+        "scope": "Art label only, prose/canon unchanged.",
+        "collisionCheck": "No exact Ossarin/Velric in universe, frozennames or currentcharacter specs; sourceoutline explicitlyunnamed."
+      },
+      "output": "stories/tea-for-the-first-guest/art/characters/ossarin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make TWO narrow changes to this exact Ossarin characterfolio. 1. On CENTER BACK fullbody, SHORTEN his white scalp-hair BRAID: final tuft should stop just ABOVE the cordbelt at his WAIST, not belowhips/thighs. Source says braid nearlytohiswaist. Keep its root and plaitshape, same whitehair; cut visible braidlength belowwaist away leaving robepaint beneath. Any braid visible atotherfullview must consistently be nearwaistlength, do not shorten his WHITE BEARD (beardunchanged). 2. Remove all gray painted ground/contact-shadow patches from around/under the shoes of BOTH figures, replacing with clean samewarmivory. The shoes themselves stay untouched and complete. Preserve everythingelse exactly: samebrownmatureface/whitebeard, patchedmaroonrobe, naturalordinaryanatomy, shears, greenfingertips, plainWHITE cup, darkercenterstate/light, exactname/title and allstate labels, head/hands, warmivory paintingtexture. Keep elbowpatch on the currentlydepicted SAME anatomicalRIGHT elbow in both fullfigures; sourcedoesnotassignside. No additionalobjects/scene/swatches. Broadmatte opaque GroupofSeven oilstyleunchanged.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T05:14:44.136516+00:00",
+            "prompt": "Use case: illustration-story. ONE1536x1024 landscape characterfolio on warmivory. Exactheading 'Ossarin' / 'Tea for the First Guest'. ONE ANCIENT HUMAN MALE WIZARD, appearsabout60 but over2000years, leanerect ordinaryhumanbody. MEDIUMBROWN face deeplylined aroundeyes/mouth, longface/longnose/deepsetbrown eyes from compatiblecover, longWHITEBEARD; WHITE scalpHAIR bound in ONE neat BRAID descending nearlytoWAIST, no looseflowingmane. Green TEA-LEAF STAINS on FINGERTIPS, not green skinwholehand or magicalglow. Plain mutedMAROON ANKLE-LENGTH ROBE, simple cordbelt and ONE mismatched DUSTYGRAY patch on anatomicalLEFT ELBOW, ordinarybrownslippers. NO ornateembroidery/hat/crown/staff/jewelry. LEFT complete frontthreequarter 'Tea gardener': upright with SMALL CLOSED PRUNING SHEARS held safelylowered in onehand, otheropen so greenfingertipsvisible; bothslippersvisible. CENTER complete BACK-threequarter 'Keeping the way open': SAME wizard, WAIST-LENGTH BRAID fullyvisible, leftelbowpatch visible, holding simple THIN WHITEPORCELAIN CUP carefully in onehand atwaist, freehandvisible/open. Bodyquietlystrained, not a theatrical spellcastingpose; no rays/runes. RIGHT samebrownface headstudy 'Listening' and small greentipped hands/whitecup study 'Tea-stained fingers'. Cup PLAIN WHITE, NEVER brownclay (thatbelongs toguest), normal smallporcelaincup not chalice. Firstfigure soft FIRE/YELLOWLAMP localized warmplanes with connected umber/slateshadows. Centerlaterform is SUBSTANTIALLY DIMMER, mostly deep coolgrayshadow including whitehair/beard (readmutedgray), smallfirelight cheekedge, no broadbrightstudioface or noonwindow sunlight. Headstudy modestwarmfirelight, naturallymatte. Image1 actual broad CanadianGroupofSeven OPAQUE OILPAINT across skin/hair/beard/robe: bigsimplified connected value/color masses, deliberatebroad bristle/knifemarks and selectiveimpasto; no photorealface/individualbeardhair/CGI/anime, no alloveruniformbrightpaintchips. All twoarms/twolegs ordinaryanatomy, completefeet and braid, labelsreadable. Character ONLY, NO guest/table/furniture/portal/window/scenery/floor/groundpatch/plants/swatches/palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "substantive broad matte opaque oil and folio only; no mechanical anatomy/material",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/title-image.jpg",
+                "role": "compatible old wizard leanface/longwhitebeard/maroonrobe inspiration; source overrides loosehair tobraid and skin tobrown",
+                "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+                "role": "plain whiteporcelain material and firelight/paint only, no room",
+                "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1f30afab-2ccf-407a-be56-edf5e7419170.png",
+            "reviewFindings": [
+              "Braid extends belowhips, must end nearwaist. Remove graycontactgroundpatches. Actual patch consistentright elbow accepted as sourceunspecified, artinterpretation updated."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:23:04.009641+00:00",
+            "prompt": "Make TWO narrow changes to this exact Ossarin characterfolio. 1. On CENTER BACK fullbody, SHORTEN his white scalp-hair BRAID: final tuft should stop just ABOVE the cordbelt at his WAIST, not belowhips/thighs. Source says braid nearlytohiswaist. Keep its root and plaitshape, same whitehair; cut visible braidlength belowwaist away leaving robepaint beneath. Any braid visible atotherfullview must consistently be nearwaistlength, do not shorten his WHITE BEARD (beardunchanged). 2. Remove all gray painted ground/contact-shadow patches from around/under the shoes of BOTH figures, replacing with clean samewarmivory. The shoes themselves stay untouched and complete. Preserve everythingelse exactly: samebrownmatureface/whitebeard, patchedmaroonrobe, naturalordinaryanatomy, shears, greenfingertips, plainWHITE cup, darkercenterstate/light, exactname/title and allstate labels, head/hands, warmivory paintingtexture. Keep elbowpatch on the currentlydepicted SAME anatomicalRIGHT elbow in both fullfigures; sourcedoesnotassignside. No additionalobjects/scene/swatches. Broadmatte opaque GroupofSeven oilstyleunchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1f30afab-2ccf-407a-be56-edf5e7419170.png",
+                "role": "immutable first candidate, shorten braid and remove foot groundshadow only",
+                "sha256": "e94d3a748e1bc66b985a0b80a70aa181f67476e8c8c39150dad864b9fb716ee9",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-7213e731-33ba-42cc-969f-f53439d14387.png",
+            "outputSha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:30:47.679944+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1f30afab-2ccf-407a-be56-edf5e7419170.png",
+            "role": "immutable first candidate, shorten braid and remove foot groundshadow only",
+            "sha256": "e94d3a748e1bc66b985a0b80a70aa181f67476e8c8c39150dad864b9fb716ee9",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:30:47.679944+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1",
+        "sourceSha256": "31c3564dde8c272a679c8ce3a05a33e2d7818d864011e8918bcb98892cd62cd8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-1f30afab-2ccf-407a-be56-edf5e7419170.png",
+            "role": "immutable first candidate, shorten braid and remove foot groundshadow only",
+            "sha256": "e94d3a748e1bc66b985a0b80a70aa181f67476e8c8c39150dad864b9fb716ee9",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: consistent lean erect brownlined wizard with longwhitebeard and corrected scalpbraid ending justabovewaist. Ordinaryadultbody, safe lowered smallshears, fingertip tea-green stains, plainmaroonrobe/rightelbowgraypatch as art-side choice.",
+          "Later form holds plain WHITE porcelaincup, visibly dimmer coolhair/cloth than first warmfire-lamp form. No spellflash, floatingtools or newpowervisuals.",
+          "Allfeet/braid/text readable and unclipped; paintedground/contactpatches removed. Broad matte oil faces/hands/hair/robes and ivorynegative space, no scenery/swatches. Ossarin recorded art-only name."
+        ],
+        "specificationSha256": "2c988da2704b2e68af10d93559161c7f92efcee74850e3661417e92012fbd3e0"
+      },
+      "lighting": "Preserve first-form fire/lamp light and darker open-exit form with cool muted hair/cloth.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1"
+    },
+    {
+      "id": "velric",
+      "name": "Velric",
+      "role": "Young visiting account-book repairer who requests a visible exit then chooses to stay.",
+      "selectionEvidence": [
+        {
+          "quote": "I mend account books. I don't map mountains.",
+          "explanation": "Exact source role or visual state evidence."
+        },
+        {
+          "quote": "The young man wrapped both hands around his cup",
+          "explanation": "Exact source role or visual state evidence."
+        }
+      ],
+      "form": "Young adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, twoarms/twolegs.",
+        "lifeStage": "Youngadult, exactage unspecified.",
+        "proportions": "Ordinaryyoungadult.",
+        "markings": "Wet hair/clothes from rain; no permanentmarks.",
+        "materials": "Human skin/hair, ordinary cloth and handtools/ceramics.",
+        "clothing": "Rain-soaked collar, shirts, boots, pack; specificcolors unspecified.",
+        "equipment": "Map, penknife, two shirts/bread/dampletter in pack; chippedBROWNclay cup.",
+        "scale": "Human adult.",
+        "movement": "Waryguarded, handswarmingcup, thensteadierdirectposture.",
+        "distinctiveFeatures": "Darkwethair and practicaltravelgear inspiredbycover; ordinarybookrepairer, notheroicwarrior."
+      },
+      "explicitCanon": [
+        "Youngadult traveler and account-bookrepairer, no namedidentity.",
+        "Soaked hair/collar/pack; no weapon beyond ordinarypenknife.",
+        "Chippedbrownclaycup remains with him atending.",
+        "No magic or obligation to stay; clear exit remains available."
+      ],
+      "visualInterpretation": [
+        "Authorized artname Velric. Age24, lightwarmolive skin, slimpointedoval face, straightsmallnose, darkbrowneyes, wetmessyshortdarkbrown hair likecover, leanbuild.",
+        "Fadedslate shirt under darkolive hoodedraincloak, darkbrowntrousers and scuffedbrownboots; plainbrownknapsack.",
+        "Before wetarrival subdued raincool light; secondinfusionfirelight with dimcoolshadows, ownbrowncup notporcelain."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Completefront with wetcloak/pack, smallfoldedmap."
+        },
+        {
+          "name": "Second infusion",
+          "description": "Pack set down outside sheet, cloak loosened, chippedbrown cup held in hands."
+        },
+        {
+          "name": "By choice",
+          "description": "Sameface lessguarded."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "tea-for-the-first-guest:velric",
+        "links": [],
+        "evidence": "Unnamed current and outlined source; no established sharedidentity or linkage to known crossings/tea systems."
+      },
+      "references": [
+        {
+          "path": "stories/tea-for-the-first-guest/title-image.jpg",
+          "role": "compatible face/silhouette/color inspiration only, source overrides braid/brownskin/cups",
+          "notes": "Older longwhitehair/beard maroon-robed man, wet youngdarkhaired traveler in darkcloth. No exact canonfacialgeometry.",
+          "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+          "inspected": true
+        },
+        {
+          "path": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
+          "role": "broad oil and firstinfusion lamplight only",
+          "notes": "Warm fire/lamps, cool noonwindow. Final source says lamps dim after opening, do not copy alwaysbrightroom.",
+          "sha256": "71c1ef4a2e9a8a763707f48e7edb59cbde56c864b12e4afe3fdca5544b081f5d",
+          "inspected": true
+        },
+        {
+          "path": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+          "role": "brownclay/whiteporcelain material and broad oil only",
+          "notes": "Use simplesource-compatible cups; wizardwhite, guestbrownchipped. No furniture/room.",
+          "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "Young visiting account-book repairer who requests a visible exit then chooses to stay.",
+        "scope": "Art label only, prose/canon unchanged.",
+        "collisionCheck": "No exact Ossarin/Velric in universe, frozennames or currentcharacter specs; sourceoutline explicitlyunnamed."
+      },
+      "output": "stories/tea-for-the-first-guest/art/characters/velric.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One1536x1024 landscape characterreference folio plainwarmivory, exact 'Velric' / 'Tea for the First Guest'. ONE YOUNG ADULT HUMAN MAN age24, leanmediumheight, lightwarm OLIVE skin, SLIM POINTED OVAL FACE, smallstraightnose, DARK BROWN EYES, WET MESSY SHORT DARKBROWN hair like youngvisitor in image2, clean-shaven naturalyoungface. No wizardwhitehair/beard/wrinkles transferred. He repairs accountbooks, ordinarytraveler, notwarrior or magician. Worn FADED SLATE SHIRT, DARKBROWN trousers, scuffedBROWN ankleboots, darkOLIVE hoodedrainCLOAK with hood down, plainbrown LEATHERKNAPSACK (ordinarystraps). LEFT complete frontthreequarter 'Arrival': rainwet hair/cloak/collar/boots, pack on back/strapsvisible, modest foldedMAP heldonehand, other relaxedguarded, NO waterpuddle or scenery. CENTER complete BACK-threequarter 'Second infusion': sameyoungman cloakloosened atfront, PACK REMOVED frombody and entirelyoutofframe (setaside, notfloorprop), wetclothesstillwet; bothhands hold a small THICK BROWN CLAY CUP with clearlyvisible CHIP in rim, NO whiteporcelain or patternedcup. View turned enough to see sameyoungprofile and browncup. RIGHT sameface headstudies 'Wary' and 'By choice', secondlessguarded, thoughtful notbroadgrin. Below one hand-and-BROWN chippedcup closeup, label 'Chipped clay cup'; chip triangularbite atupperrim, ceramicordinary nonglowing. Bothhumanarms/twolegs normal, allhands natural, fullboots visible, completeunclippedforms. Lighting: arrival subduedCOOL stormdusk, mostly darkgray/olive cloth and skin, modestreflected light; later secondinfusion even DIM indoorfirelight with largeconnected cool umber/slate shadows and small softwarmnearcheek/hand planes because lowerlampshave dimmed. No brightlysunnyface, studiofill or rimhalo. Matchimage1 actual BROAD CanadianGroupofSeven OPAQUE OILpaint, large simplified matte connected face/hair/clothmasses, deliberatebristle/knife strokes selectiveimpasto, no photoreal/anime/CGI/polishedyoungface/uniformchips. Exactheadings/statelabels. No otherperson/wizard/whitecup/weapon/magic/room/door/fire/propsonfloor/groundpatch/scenery/swatches/palettes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T05:30:48.796713+00:00",
+            "prompt": "Use case: illustration-story. One1536x1024 landscape characterreference folio plainwarmivory, exact 'Velric' / 'Tea for the First Guest'. ONE YOUNG ADULT HUMAN MAN age24, leanmediumheight, lightwarm OLIVE skin, SLIM POINTED OVAL FACE, smallstraightnose, DARK BROWN EYES, WET MESSY SHORT DARKBROWN hair like youngvisitor in image2, clean-shaven naturalyoungface. No wizardwhitehair/beard/wrinkles transferred. He repairs accountbooks, ordinarytraveler, notwarrior or magician. Worn FADED SLATE SHIRT, DARKBROWN trousers, scuffedBROWN ankleboots, darkOLIVE hoodedrainCLOAK with hood down, plainbrown LEATHERKNAPSACK (ordinarystraps). LEFT complete frontthreequarter 'Arrival': rainwet hair/cloak/collar/boots, pack on back/strapsvisible, modest foldedMAP heldonehand, other relaxedguarded, NO waterpuddle or scenery. CENTER complete BACK-threequarter 'Second infusion': sameyoungman cloakloosened atfront, PACK REMOVED frombody and entirelyoutofframe (setaside, notfloorprop), wetclothesstillwet; bothhands hold a small THICK BROWN CLAY CUP with clearlyvisible CHIP in rim, NO whiteporcelain or patternedcup. View turned enough to see sameyoungprofile and browncup. RIGHT sameface headstudies 'Wary' and 'By choice', secondlessguarded, thoughtful notbroadgrin. Below one hand-and-BROWN chippedcup closeup, label 'Chipped clay cup'; chip triangularbite atupperrim, ceramicordinary nonglowing. Bothhumanarms/twolegs normal, allhands natural, fullboots visible, completeunclippedforms. Lighting: arrival subduedCOOL stormdusk, mostly darkgray/olive cloth and skin, modestreflected light; later secondinfusion even DIM indoorfirelight with largeconnected cool umber/slate shadows and small softwarmnearcheek/hand planes because lowerlampshave dimmed. No brightlysunnyface, studiofill or rimhalo. Matchimage1 actual BROAD CanadianGroupofSeven OPAQUE OILpaint, large simplified matte connected face/hair/clothmasses, deliberatebristle/knife strokes selectiveimpasto, no photoreal/anime/CGI/polishedyoungface/uniformchips. Exactheadings/statelabels. No otherperson/wizard/whitecup/weapon/magic/room/door/fire/propsonfloor/groundpatch/scenery/swatches/palettes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/characters/ossarin.png",
+                "role": "same-story broad matte oil and dimlaterstate only; no older identity or whitecup transfer",
+                "sha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/title-image.jpg",
+                "role": "compatible young wetdarkhaired bookrepairer face/silhouette only; source brownclaycup overrides coverporcelain",
+                "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+                "role": "brownclay chippedcup material/firecolor only, no room",
+                "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-896b0499-d684-472a-bff7-56c31ba39a9b.png",
+            "outputSha256": "140bc8a2e0dcea30c87c22a3ca81609728832063612cdbef0ef6ef4335c89b28",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:42:15.200950+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/characters/ossarin.png",
+            "role": "same-story broad matte oil and dimlaterstate only; no older identity or whitecup transfer",
+            "sha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/title-image.jpg",
+            "role": "compatible young wetdarkhaired bookrepairer face/silhouette only; source brownclaycup overrides coverporcelain",
+            "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+            "role": "brownclay chippedcup material/firecolor only, no room",
+            "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:42:15.200950+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "140bc8a2e0dcea30c87c22a3ca81609728832063612cdbef0ef6ef4335c89b28",
+        "sourceSha256": "31c3564dde8c272a679c8ce3a05a33e2d7818d864011e8918bcb98892cd62cd8",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/characters/ossarin.png",
+            "role": "same-story broad matte oil and dimlaterstate only; no older identity or whitecup transfer",
+            "sha256": "a18ce719fe39ce53980270d0429b165f7bafaf85854af8d7c1750c5a162c8be1",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/title-image.jpg",
+            "role": "compatible young wetdarkhaired bookrepairer face/silhouette only; source brownclaycup overrides coverporcelain",
+            "sha256": "5ab6c60e34cadc0cbf1b09f78d43753d4f29f1b30b4a431fcd816dde0a68da83",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
+            "role": "brownclay chippedcup material/firecolor only, no room",
+            "sha256": "cbd70fa0de65c9c9c9db425ba4922f4e0644fcd151d5a6e665e02db3500de01d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: coherent youngadult pointedoval olive face/darkwethair in front/rear and two heads, compatible with covervisitor but no wizardfeatures. Complete ordinaryhuman anatomy, unclippedboots.",
+          "Arrival pack/straps/map and wetolivecloak/slateshirt/browntrousers; secondinfusion pack removed, bothhands around BROWNclay cup. Large cupdetail has clear chippedrim, no accidentalporcelain swap.",
+          "Broad matte oil cloth and painted skin, deepclothing shadow with restrained warmface planes, naturally tired/wary then quieter expressions. Exact headings/labels, plainivory no room/ground/swatches; Velric recorded art-onlyname."
+        ],
+        "specificationSha256": "d5df551a0448b2813d950f89513534cf0ee8253214c015121cc5f3d168d438eb"
+      },
+      "lighting": "Raincool subdued arrival, dim firelight later with deep coolshadow and small warmnearface/cup planes.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "140bc8a2e0dcea30c87c22a3ca81609728832063612cdbef0ef6ef4335c89b28"
+    }
+  ],
+  "sourceSha256": "31c3564dde8c272a679c8ce3a05a33e2d7818d864011e8918bcb98892cd62cd8"
+}

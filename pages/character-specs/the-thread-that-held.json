@@ -1,0 +1,969 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-thread-that-held",
+  "title": "The Thread That Held",
+  "source": "stories/the-thread-that-held/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire final story/prompt and entire prior Astral Valkyrie story read. Seven sustained main identities selected: explicit same Tapissier/Valkyrie, four gods, banner maker and23-year-old daughter. All originals/source oils inspected; root-PASS corrected recurring anchor pinned.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "King, dead mother, debtbound woman, seven generations and petitioners",
+      "reason": "Reported/background examples, not individually sustained main action in present narrative."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tapissier",
+      "name": "Tapissier",
+      "role": "weaver and deciding voice; concealed Astral Valkyrie",
+      "form": "same adult feminine celestial identity as Astral Valkyrie",
+      "selectionEvidence": [
+        {
+          "quote": "I am the Astral Valkyrie.",
+          "explanation": "Explicit identity, also explicit prompt instruction."
+        },
+        {
+          "quote": "gold wings press close along my back",
+          "explanation": "Hidden beneath embroidered wrap, no exposed wings in chosen disguise."
+        },
+        {
+          "quote": "broken violet crystals of my halo are hidden among the pins",
+          "explanation": "No visible floating halo."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Same adult face and violet eyes as prior identity; indigo hair pinned with flowers, hidden gold wings/crystal halo.",
+        "clothing": "Embroidered wrap with ordinary hidden celestial identity; personal gold-thread shuttle.",
+        "state": "Present at loom in disguise, gods unaware; no exposed celestial state."
+      },
+      "visualInterpretation": [
+        "Preserve root-approved Astral Valkyrie actual face and skin/eye/hair identity; bundle long indigo hair into pinned braided bun with flowers, tiny violet facets concealed among pins.",
+        "Dark blue full gown/soft embroidered wrap inspired by original floral textile; bare feet consistent prior form. Thick wrap completely contains folded wings with no feather silhouettes."
+      ],
+      "recurrence": {
+        "identityKey": "the-astral-valkyrie:astral-valkyrie",
+        "links": [
+          "the-astral-valkyrie"
+        ],
+        "evidence": "Both finished sources and explicit Thread prompt read; root independently passed corrected prior anchor SHA0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709. Same celestial identity, source-specific disguise only; no canon claim."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "At loom debate, gold wings folded fully hidden under wrap, halo broken crystals hidden among hairpins."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "output": "stories/the-thread-that-held/art/characters/tapissier.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Tapissier\"; title \"The Thread That Held\"; role \"The weaver\". ONE ADULT female celestial person, EXACT SAME IDENTITY as Astral Valkyrie IMAGE1: retain adult pale lavender face/bone structure, eyebrow/nose/lips and ordinary proportions, VIOLET EYES INCLUDING SCLERA (no white eye areas), INDIGO hair. This source story is her DISGUISE. All immense hair now bundled in a large pinned braided BUN with a few loose strands and small red/ochre FLOWERS as image2 motif; tiny broken VIOLET crystal facets discreetly concealed AMONG hairpins, NOT a floating crown/ring or halo. Gold wings folded along back COMPLETELY HIDDEN under opaque embroideredwrap, zero visible feathers, wing roots, wing shape or outline. Ordinary shoulders rounded slightly from wrapped hidden volume, not hunchback. Full-length dark BLUE gown, richly embroidered dark wrap with restrained ochre/rust floral border inspired by image2, fully covers back/shoulders/torso; bare FEET fully visible like same living celestial identity. Front/rear complete standing references, normal hands gently holding small wooden SHUTTLE threaded with GOLD. Large matching face meets reader quietly. Isolated same small shuttle label \"Gold thread\". Keep immutable source secrecy: no visible wings, floating halo, cosmic aura, loom, tapestry landscape, galaxies or other gods. Image1 face/paint primary; image2 only flowers/textile never its different face. IMAGE3 current workshop warm ochre light on limited planes/cool violet shadow; body/face matte broad bristle oil, no luminous smooth skin, anime eyes or CGI. All negative space warm IVORY, no floor/scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-astral-valkyrie/art/characters/astral-valkyrie.png",
+            "role": "root-PASS corrected exact recurring identity/face/skin/eyes/indigo hair and matte oil anchor; hide wings/halo and change clothes per new source",
+            "inspected": true,
+            "sha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b233f3b6-8bb6-42ce-8729-41d64ea85da9.png",
+            "role": "inspected original floral embroidered wrap, pinned flowers/bun and domestic craft only; do NOT replace anchor identity or borrow cosmic setting",
+            "inspected": true,
+            "sha256": "be8da1df6e75131eadfa5badcff5aa8b2be1cd80ad62940f8dce639fbb6a4094"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+            "role": "inspected current-story warm workshop reflected ochre/cool violet light and broad paint only, no loom/room",
+            "inspected": true,
+            "sha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:37:26.232303+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Tapissier\"; title \"The Thread That Held\"; role \"The weaver\". ONE ADULT female celestial person, EXACT SAME IDENTITY as Astral Valkyrie IMAGE1: retain adult pale lavender face/bone structure, eyebrow/nose/lips and ordinary proportions, VIOLET EYES INCLUDING SCLERA (no white eye areas), INDIGO hair. This source story is her DISGUISE. All immense hair now bundled in a large pinned braided BUN with a few loose strands and small red/ochre FLOWERS as image2 motif; tiny broken VIOLET crystal facets discreetly concealed AMONG hairpins, NOT a floating crown/ring or halo. Gold wings folded along back COMPLETELY HIDDEN under opaque embroideredwrap, zero visible feathers, wing roots, wing shape or outline. Ordinary shoulders rounded slightly from wrapped hidden volume, not hunchback. Full-length dark BLUE gown, richly embroidered dark wrap with restrained ochre/rust floral border inspired by image2, fully covers back/shoulders/torso; bare FEET fully visible like same living celestial identity. Front/rear complete standing references, normal hands gently holding small wooden SHUTTLE threaded with GOLD. Large matching face meets reader quietly. Isolated same small shuttle label \"Gold thread\". Keep immutable source secrecy: no visible wings, floating halo, cosmic aura, loom, tapestry landscape, galaxies or other gods. Image1 face/paint primary; image2 only flowers/textile never its different face. IMAGE3 current workshop warm ochre light on limited planes/cool violet shadow; body/face matte broad bristle oil, no luminous smooth skin, anime eyes or CGI. All negative space warm IVORY, no floor/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-astral-valkyrie/art/characters/astral-valkyrie.png",
+                "role": "root-PASS corrected exact recurring identity/face/skin/eyes/indigo hair and matte oil anchor; hide wings/halo and change clothes per new source",
+                "inspected": true,
+                "sha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b233f3b6-8bb6-42ce-8729-41d64ea85da9.png",
+                "role": "inspected original floral embroidered wrap, pinned flowers/bun and domestic craft only; do NOT replace anchor identity or borrow cosmic setting",
+                "inspected": true,
+                "sha256": "be8da1df6e75131eadfa5badcff5aa8b2be1cd80ad62940f8dce639fbb6a4094"
+              },
+              {
+                "path": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+                "role": "inspected current-story warm workshop reflected ochre/cool violet light and broad paint only, no loom/room",
+                "inspected": true,
+                "sha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a"
+              }
+            ],
+            "preflight": [
+              "Root stable corrected anchor inspected directly, hash matched; same face/indigo hair/all-violet eyes retained while source hidden wings/crystals/embroidered wrap control new state.",
+              "Original source motif inspected, only textile/flowers used; no second identity/landscape. Three <=5 references explicitly assigned, one1536x1024 character sheet, source both stories read and unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-979cbde5-2518-42e2-b1e2-1f73b99dca3e.png",
+            "outputSha256": "c999b91109274811885e8eb7e72af59841b8bb7511a2c782d33d0c59543f5fc2",
+            "finishedAt": "2026-09-24T08:46:13.436572+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels directly compared with root-PASS Valkyrie anchor: same adult facial structure, lavender skin, all-violet eyes and indigo hair; hair now braided/pinned with source flowers and discreet violet pin facets.",
+              "Gold wings fully hidden beneath opaque embroidered wrap, no floating halo/wingoutline, full front/rear body and bare feet consistent. Source gold-thread shuttle and floral textile motifs represented, no loom or cosmic scene.",
+              "Matte broad oil face/clothes match anchor, workshop warm/cool planes, clean ivory and exact name/title; one identity and no swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-979cbde5-2518-42e2-b1e2-1f73b99dca3e.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "c999b91109274811885e8eb7e72af59841b8bb7511a2c782d33d0c59543f5fc2",
+        "references": [
+          {
+            "path": "stories/the-astral-valkyrie/art/characters/astral-valkyrie.png",
+            "role": "root-PASS corrected exact recurring identity/face/skin/eyes/indigo hair and matte oil anchor; hide wings/halo and change clothes per new source",
+            "inspected": true,
+            "sha256": "0c59eba2674b33d449d5d24b84426a264062a706c0bdc4f2d7c0af6037a62709"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b233f3b6-8bb6-42ce-8729-41d64ea85da9.png",
+            "role": "inspected original floral embroidered wrap, pinned flowers/bun and domestic craft only; do NOT replace anchor identity or borrow cosmic setting",
+            "inspected": true,
+            "sha256": "be8da1df6e75131eadfa5badcff5aa8b2be1cd80ad62940f8dce639fbb6a4094"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
+            "role": "inspected current-story warm workshop reflected ochre/cool violet light and broad paint only, no loom/room",
+            "inspected": true,
+            "sha256": "1c67ebb9f983bdaa5cc8ae2bbcecf546250ff01f2c889640f7b1c9192dae188a"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels directly compared with root-PASS Valkyrie anchor: same adult facial structure, lavender skin, all-violet eyes and indigo hair; hair now braided/pinned with source flowers and discreet violet pin facets.",
+          "Gold wings fully hidden beneath opaque embroidered wrap, no floating halo/wingoutline, full front/rear body and bare feet consistent. Source gold-thread shuttle and floral textile motifs represented, no loom or cosmic scene.",
+          "Matte broad oil face/clothes match anchor, workshop warm/cool planes, clean ivory and exact name/title; one identity and no swatches."
+        ],
+        "specificationSha256": "44566728920e3a93c608f85ff8ff0dfb084486f1bc535ec0490c2861dfa456d9"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "c999b91109274811885e8eb7e72af59841b8bb7511a2c782d33d0c59543f5fc2"
+    },
+    {
+      "id": "orsivet",
+      "name": "Orsivet",
+      "role": "god of sworn obligations",
+      "form": "adult masculine-presenting deity",
+      "selectionEvidence": [
+        {
+          "quote": "smooths his robe over his knees",
+          "explanation": "Robedordinaryposture; no visible newaura."
+        }
+      ],
+      "storyAppearance": {
+        "clothing": "Robe; nourished by promises but no explicit newanatomy.",
+        "state": "At loomdebate andrenewal."
+      },
+      "visualInterpretation": [
+        "Art-only maturetallpaleolive man, longnarrowface, highforehead slickblackhair darkforkedshortbeard; pearlgray robe indigoedging."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:orsivet",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/orsivet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Orsivet\"; title \"The Thread That Held\"; role \"God of sworn obligations\". ONE adult masculine-presenting deity with ordinaryhumananatomy: tallslender mature FORTIES appearance, pale OLIVE skin, LONG NARROW face, HIGH forehead, slick BLACK sweptback hair, short dark FORKED BEARD, matte grayeyes, proudcontrolledmouth. Long PEARLGRAY plain formal ROBE with narrow INDIGO foldededging and softdarkshoes; no crown/armor/royalinsignia. Front/rear fullbodies, one hand smooths robe atlapel/hip, otherrelaxed; large sameface. Isolated small folded ROBe CUFF detail label \"Undertaking\"; no oathscroll or magicobjects invented. Robemurmur is not literal glowingtext.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:08:03.155971+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Orsivet\"; title \"The Thread That Held\"; role \"God of sworn obligations\". ONE adult masculine-presenting deity with ordinaryhumananatomy: tallslender mature FORTIES appearance, pale OLIVE skin, LONG NARROW face, HIGH forehead, slick BLACK sweptback hair, short dark FORKED BEARD, matte grayeyes, proudcontrolledmouth. Long PEARLGRAY plain formal ROBE with narrow INDIGO foldededging and softdarkshoes; no crown/armor/royalinsignia. Front/rear fullbodies, one hand smooths robe atlapel/hip, otherrelaxed; large sameface. Isolated small folded ROBe CUFF detail label \"Undertaking\"; no oathscroll or magicobjects invented. Robemurmur is not literal glowingtext.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+                "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+                "inspected": true,
+                "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0ca0120c-3139-48a2-a600-5377244b4780.png",
+            "outputSha256": "3c16f65b4d822924300adc6427df92fed0eda317c684423c97cae0f1f7075d79",
+            "finishedAt": "2026-09-24T08:19:27.709770+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: same tall adult narrow-face forked-beard god across complete front/rear/portrait; robe and cuff source-supported, no invented halo/armor/oath glyph.",
+              "Bold matte face/clothing oil, warm workshop light with cool shadow, normal hands/feet, quiet ivory no scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0ca0120c-3139-48a2-a600-5377244b4780.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "3c16f65b4d822924300adc6427df92fed0eda317c684423c97cae0f1f7075d79",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: same tall adult narrow-face forked-beard god across complete front/rear/portrait; robe and cuff source-supported, no invented halo/armor/oath glyph.",
+          "Bold matte face/clothing oil, warm workshop light with cool shadow, normal hands/feet, quiet ivory no scenery/swatches."
+        ],
+        "specificationSha256": "20f45b269c6570b5ee7d383935545def5865ba628ef29e16e9306daf6a53b192"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "3c16f65b4d822924300adc6427df92fed0eda317c684423c97cae0f1f7075d79"
+    },
+    {
+      "id": "vaulenne",
+      "name": "Vaulenne",
+      "role": "goddess sustaining harvest seasons",
+      "form": "older feminine-presenting deity",
+      "selectionEvidence": [
+        {
+          "quote": "her knee has begun to shake",
+          "explanation": "Older wearyphysicalbearing."
+        },
+        {
+          "quote": "She rolls a few kernels in her palm",
+          "explanation": "Barleygrain prop."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Breathless,tiredback and shakyknee; ordinarywomanappearance otherwiseunspecified.",
+        "equipment": "Littlecup of existingbarley, notlostredkind."
+      },
+      "visualInterpretation": [
+        "Art-only elderly shortstoutwarmbrownwoman whitebraids woundaroundhead, broadnose/wrinkles; mossrobe russetshawl; no cropcrown."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:vaulenne",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/vaulenne.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Vaulenne\"; title \"The Thread That Held\"; role \"Keeper of the seasons\". ONE older feminine-presenting deity, elderly SHORT stout woman, medium warm BROWN skin, broadnose, gentlyfoldedface, WHITE braidedhair woundaroundhead, ordinary darkmatteeyes. Plain MOSS long gown/robe, RUSSET shawl over shoulders, softbrownlowshoes. Two complete front/rear STANDING SLOWLY, slightbowedposture and cautiousknees, no cane/helper/bench, as she getsup at end. Holds SMALL CUP of plain tan BARLEY kernels, a few in normalpalm; large samewisewearyface. Isolated little grainCUP label \"Seed for another season\". These grains are currenttanbarley, NOT thelostredblackmarkedstrain she cannotproduce. No graincrown ormagicflowers.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:08:03.158983+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Vaulenne\"; title \"The Thread That Held\"; role \"Keeper of the seasons\". ONE older feminine-presenting deity, elderly SHORT stout woman, medium warm BROWN skin, broadnose, gentlyfoldedface, WHITE braidedhair woundaroundhead, ordinary darkmatteeyes. Plain MOSS long gown/robe, RUSSET shawl over shoulders, softbrownlowshoes. Two complete front/rear STANDING SLOWLY, slightbowedposture and cautiousknees, no cane/helper/bench, as she getsup at end. Holds SMALL CUP of plain tan BARLEY kernels, a few in normalpalm; large samewisewearyface. Isolated little grainCUP label \"Seed for another season\". These grains are currenttanbarley, NOT thelostredblackmarkedstrain she cannotproduce. No graincrown ormagicflowers.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+                "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+                "inspected": true,
+                "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3054004d-afbc-4ea2-a3ae-def4a1ed4667.png",
+            "outputSha256": "8dcc8a948b6bba82586fa15854a847d5dccf9a2c60167b3b46c35d6ff48959c4",
+            "finishedAt": "2026-09-24T08:19:27.722030+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: coherent elderly stooped feminine deity and white braid, complete cautious standing body views; ordinary current tan barley grains/cup, no lost extinct seed claim.",
+              "Bold matte face and cloth oil, warm workshop/cool shadow; quiet ivory, no floor/landscape/crown, ordinary hands."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3054004d-afbc-4ea2-a3ae-def4a1ed4667.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "8dcc8a948b6bba82586fa15854a847d5dccf9a2c60167b3b46c35d6ff48959c4",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: coherent elderly stooped feminine deity and white braid, complete cautious standing body views; ordinary current tan barley grains/cup, no lost extinct seed claim.",
+          "Bold matte face and cloth oil, warm workshop/cool shadow; quiet ivory, no floor/landscape/crown, ordinary hands."
+        ],
+        "specificationSha256": "095682d6fed513746c5b9f6dcecc581de0af92042ddd64b5e9771ccf17125c29"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "8dcc8a948b6bba82586fa15854a847d5dccf9a2c60167b3b46c35d6ff48959c4"
+    },
+    {
+      "id": "dembrel",
+      "name": "Dembrel",
+      "role": "goddess protecting mountain passes",
+      "form": "adult feminine-presenting deity",
+      "selectionEvidence": [
+        {
+          "quote": "It is broad, badly patched, and worn through at the heel.",
+          "explanation": "Carried debtboundwoman's shoe notherownfootwear."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Standing firmthroughdebate, controlledanger.",
+        "equipment": "Carriedbroadbadlypatchedwornheelshoe."
+      },
+      "visualInterpretation": [
+        "Art-only tallstronglate40s woman darkbronze freckledskin longangularface shortroughrusthair; darkbluepracticalrobe heavybrownboots."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:dembrel",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/dembrel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dembrel\"; title \"The Thread That Held\"; role \"Keeper of the passes\". ONE adult feminine-presenting deity, tall STRONG middle-aged woman, dark BRONZE freckledskin, LONG ANGULAR jaw, short rough RUST-RED hair toearlength, matte darkeyes, firm calmanger. Practical long DARK BLUE robe splitonly belowknees overcharcoaltrousers and pairedheavyBROWN BOOTS. Complete front/rear, normalhands holding ONE separate BROAD BADLY PATCHED brownSHOE with worn-throughheel, a debtboundwoman's shoe NOT herownboot. Large sameface. Isolated samepatchedshoe fromimage1 label \"The returned traveler\". No spear/armor/wing/godhalo/newmagicsymbol.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:08:03.162096+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Dembrel\"; title \"The Thread That Held\"; role \"Keeper of the passes\". ONE adult feminine-presenting deity, tall STRONG middle-aged woman, dark BRONZE freckledskin, LONG ANGULAR jaw, short rough RUST-RED hair toearlength, matte darkeyes, firm calmanger. Practical long DARK BLUE robe splitonly belowknees overcharcoaltrousers and pairedheavyBROWN BOOTS. Complete front/rear, normalhands holding ONE separate BROAD BADLY PATCHED brownSHOE with worn-throughheel, a debtboundwoman's shoe NOT herownboot. Large sameface. Isolated samepatchedshoe fromimage1 label \"The returned traveler\". No spear/armor/wing/godhalo/newmagicsymbol.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+                "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+                "inspected": true,
+                "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2dbe1bcc-1e0b-42b6-94ce-74a8575f74e6.png",
+            "outputSha256": "77825fd4874464db84a2c02996b337de00f25e993443bbfc798cc2d502f1ada0",
+            "finishedAt": "2026-09-24T08:19:27.733948+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: coherent strong adult rust-haired feminine deity, complete dark-blue robe/boots, separate carried broad patched shoe with worn heel distinct from own footwear.",
+              "Normal hands, broad matte oil including freckled face, warm/cool workshop light, character-only ivory no divine weapon/location/swatch."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2dbe1bcc-1e0b-42b6-94ce-74a8575f74e6.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "77825fd4874464db84a2c02996b337de00f25e993443bbfc798cc2d502f1ada0",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: coherent strong adult rust-haired feminine deity, complete dark-blue robe/boots, separate carried broad patched shoe with worn heel distinct from own footwear.",
+          "Normal hands, broad matte oil including freckled face, warm/cool workshop light, character-only ivory no divine weapon/location/swatch."
+        ],
+        "specificationSha256": "7ba17ca4a8b7812eeb1b9a6e768313acfc4275d04c5490079633fe748fc1b7de"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "77825fd4874464db84a2c02996b337de00f25e993443bbfc798cc2d502f1ada0"
+    },
+    {
+      "id": "irthess",
+      "name": "Irthess",
+      "role": "god caring for burial grounds and petitioning families",
+      "form": "older masculine-presenting deity",
+      "selectionEvidence": [
+        {
+          "quote": "a smell of smoke rises from the linen",
+          "explanation": "Linenwrappedpetitionpacket."
+        },
+        {
+          "quote": "The skin stays creased",
+          "explanation": "Tiredolderface."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Grief/anger, foreheadcreases afterrub; ordinarymaleform.",
+        "equipment": "Linenwrappedpetitions and loosecord."
+      },
+      "visualInterpretation": [
+        "Art-only olderbroadframe paleashen man closelyshavenhead whiteeyebrows cleanshaven squareface, charcoalrobe dustplumshawl."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:irthess",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/irthess.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Irthess\"; title \"The Thread That Held\"; role \"Keeper of the burial grounds\". ONE older masculine-presenting deity, broad frame, pale ASHEN skin, SHAVEN head whiteeyebrows, broad SQUARE CLEANSHAVEN face, deep foreheadcreases, matte darkeyes, worn restrainedanger. Plain CHARCOAL robe, dusty PLUM shoulderwrap, darklowshoes. Whole front/rear, normalhands holds LOOSE LINEN-wrapped paperpetitionpacket with cord, no legibledecrees; large samecreasedface. Isolated samepaperpacket linen/cord label \"The families' petitions\". No smokeplume/actualfire, skullmask/scythe/crown/weapon, no literal corpses orotherperson.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:08:03.165448+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Irthess\"; title \"The Thread That Held\"; role \"Keeper of the burial grounds\". ONE older masculine-presenting deity, broad frame, pale ASHEN skin, SHAVEN head whiteeyebrows, broad SQUARE CLEANSHAVEN face, deep foreheadcreases, matte darkeyes, worn restrainedanger. Plain CHARCOAL robe, dusty PLUM shoulderwrap, darklowshoes. Whole front/rear, normalhands holds LOOSE LINEN-wrapped paperpetitionpacket with cord, no legibledecrees; large samecreasedface. Isolated samepaperpacket linen/cord label \"The families' petitions\". No smokeplume/actualfire, skullmask/scythe/crown/weapon, no literal corpses orotherperson.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+                "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+                "inspected": true,
+                "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-7e10d997-f0a6-4a79-b69b-1923674c9cc6.png",
+            "outputSha256": "4cc708b94ef9938db3c059160017603846f263e405b0b8af41c5bfecb2d3450d",
+            "finishedAt": "2026-09-24T08:19:27.746497+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: same older bald clean-shaven masculine deity with creased face, full robe/shoes, source linen/cord petition packet without invented decrees.",
+              "Broad matte painted face/clothes, workshop warm/cool planes, no skull/scythe/glow, clean ivory no scenery/swatch."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-7e10d997-f0a6-4a79-b69b-1923674c9cc6.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "4cc708b94ef9938db3c059160017603846f263e405b0b8af41c5bfecb2d3450d",
+        "references": [
+          {
+            "path": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
+            "role": "inspected primary broadmatteoil and warmworkshop reflectedochre/coolvioletshadow; personalprops only no table/room",
+            "inspected": true,
+            "sha256": "078dddb029f870c44341ac8c9394ecd4f768ec79ad7b24e7f27060d80b366e9e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: same older bald clean-shaven masculine deity with creased face, full robe/shoes, source linen/cord petition packet without invented decrees.",
+          "Broad matte painted face/clothes, workshop warm/cool planes, no skull/scythe/glow, clean ivory no scenery/swatch."
+        ],
+        "specificationSha256": "b4b65693317e5cd66e98f4a3396541e43e43680ae897b26b20faf1fa641afbfd"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "4cc708b94ef9938db3c059160017603846f263e405b0b8af41c5bfecb2d3450d"
+    },
+    {
+      "id": "amvet",
+      "name": "Amvet",
+      "role": "banner maker's daughter joining resistance",
+      "form": "23-year-old human woman",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the banner maker's daughter",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Amvet no matches in universe, NAMES, character specs/currentreview inventories; art-only not source/canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "She is twenty-three, with dye in the ridges of her left thumb",
+          "explanation": "Exactage and sidedhandfeature."
+        },
+        {
+          "quote": "the little shears, their blades wrapped in a rag",
+          "explanation": "Endingpersonalitem."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "23, dyeinleftthumb ridges,burnonwrist unspecifiedside.",
+        "clothing": "Scarlet silkbanner cutstrips with blacklinen OUTSIDE, hidesgoldbird/redinside; ending aroundshoulders.",
+        "equipment": "Littleclosedragwrappedshears hiddenunderwrap."
+      },
+      "visualInterpretation": [
+        "Art-only paleoliveheartface bluntdarkbrown shoulderhair tiedback, darkgraydress brownboots; tiny healedwristburn chosenRIGHT as artonly."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Ending departure atdusk with black-outwardsilkstrips, concealed smallshears, intacthealthy body no battle."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:amvet",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/amvet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving exact Amvet 23-year-old face, black-outward shoulder cloth with hidden gold and small scarlet inside, gray dress/boots, dyed anatomical LEFT thumb, wrist burn, all personal hand details and rag-covered shears. Preserve complete front/rear body silhouettes, exact name/title and layout on 1536x1024 clean warm IVORY. Correct LIGHTING ONLY to source DUSK as in IMAGE2: majority of faces and bodies in connected dark BLUE-VIOLET and umber shadow, only small lamp-facing cheek/nose/finger planes receive restrained OCHRE amber. No broad golden daylight face, no all-over stage rim. Keep broad opaque matte Group of Seven brushwork on faces/hands/clothes, no smoothed cosmetic skin. Ivory remains bright and clean with no shop/floor/candle or swatches. All identity/props/text otherwise unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2829ca47-511d-4094-aa88-d6aefa4caba2.png",
+            "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+            "inspected": true,
+            "sha256": "590d4fdfb45a14cd85589d90cdd286b0ebe9d04f1e42768d73074fab1dfd7290"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+            "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+            "inspected": true,
+            "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:08:03.168480+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Amvet\"; title \"The Thread That Held\"; role \"The banner maker's daughter\". ONE HUMAN woman EXACT23, pale OLIVE skin, heartshapedface, blunt dark BROWN shoulderlengthhair tiedback, mattehazel eyes, resolute ordinary workingperson. Plain darkgray anklelengthdress and sturdybrownBOOTS. Around shoulders source cutbanner broadstrips: BLACK LINEN OUTSIDE, scarlet silk INSIDE hiddenexcept SMALL innerfold atneck, goldbirdembroidery completely CONCEALED inside. No displayedroyalbirdonouterback or redcloak. Complete front/rear bodies, hands low; ANATOMICAL LEFT thumb (front VIEWERRIGHT hand) has darkblue DYE inridges, tiny healedburn on RIGHT wrist (source sideunspecified, chosenonlyart). Large same23yearface; isolated CLOSED SMALL SHEARS with blades covered by gray RAG label \"The little shears\". Sourceending tool carriedconcealedunderfoldedsilk, no swords/armor/protestsymbols/scene.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+                "role": "inspected primary broadmatteoil, dusklampamberplanes/coolbluewindowshadow and sourcecloth/shears only; no shop",
+                "inspected": true,
+                "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2829ca47-511d-4094-aa88-d6aefa4caba2.png",
+            "outputSha256": "590d4fdfb45a14cd85589d90cdd286b0ebe9d04f1e42768d73074fab1dfd7290",
+            "finishedAt": "2026-09-24T08:19:27.777625+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels show coherent23-year-old, source LEFT thumb dye, burn detail, black-outward cloth with small scarlet inside and hidden gold, rag-covered little shears.",
+              "Chosen ending dusk face reads broad warm daylight; targeted darker dusk/cool shadow correction needed while preserving all body/costume/props."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:19:29.804779+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving exact Amvet 23-year-old face, black-outward shoulder cloth with hidden gold and small scarlet inside, gray dress/boots, dyed anatomical LEFT thumb, wrist burn, all personal hand details and rag-covered shears. Preserve complete front/rear body silhouettes, exact name/title and layout on 1536x1024 clean warm IVORY. Correct LIGHTING ONLY to source DUSK as in IMAGE2: majority of faces and bodies in connected dark BLUE-VIOLET and umber shadow, only small lamp-facing cheek/nose/finger planes receive restrained OCHRE amber. No broad golden daylight face, no all-over stage rim. Keep broad opaque matte Group of Seven brushwork on faces/hands/clothes, no smoothed cosmetic skin. Ivory remains bright and clean with no shop/floor/candle or swatches. All identity/props/text otherwise unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2829ca47-511d-4094-aa88-d6aefa4caba2.png",
+                "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+                "inspected": true,
+                "sha256": "590d4fdfb45a14cd85589d90cdd286b0ebe9d04f1e42768d73074fab1dfd7290"
+              },
+              {
+                "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+                "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+                "inspected": true,
+                "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+              }
+            ],
+            "preflight": [
+              "First output/source dusk lamp pixels reviewed. Only lighting change; exact source anatomy/props/name/complete bodies retained. Two inspected pinned references, no scene or new identity."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8720ecfb-353f-4618-8f66-eeca22df4862.png",
+            "outputSha256": "11fbc14abccaf493320dc66a3a0ab6f4fc1dc3fba2a90ddb46f82c192c714f94",
+            "finishedAt": "2026-09-24T08:33:53.399372+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: source dusk is now cool violet connected shadow with narrow warm lamp-facing planes, while bright ivory stays clean.",
+              "Exact same face/wholebody/clothing and source personalprops retained: daughter black-outward silk, left-thumb dye/burn and covered shears; father fabric embroidered birdhead. Broad matte oil and readable names."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8720ecfb-353f-4618-8f66-eeca22df4862.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "11fbc14abccaf493320dc66a3a0ab6f4fc1dc3fba2a90ddb46f82c192c714f94",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2829ca47-511d-4094-aa88-d6aefa4caba2.png",
+            "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+            "inspected": true,
+            "sha256": "590d4fdfb45a14cd85589d90cdd286b0ebe9d04f1e42768d73074fab1dfd7290"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+            "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+            "inspected": true,
+            "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: source dusk is now cool violet connected shadow with narrow warm lamp-facing planes, while bright ivory stays clean.",
+          "Exact same face/wholebody/clothing and source personalprops retained: daughter black-outward silk, left-thumb dye/burn and covered shears; father fabric embroidered birdhead. Broad matte oil and readable names."
+        ],
+        "specificationSha256": "62ffdf90bdab9ac94858be5c3ff468137b4af939ca6813a8bf5965e2c5c9ad33"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "11fbc14abccaf493320dc66a3a0ab6f4fc1dc3fba2a90ddb46f82c192c714f94"
+    },
+    {
+      "id": "lurshen",
+      "name": "Lurshen",
+      "role": "widowed banner maker and father",
+      "form": "middle-aged human man",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the banner maker / father",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Lurshen no matches in universe, NAMES, character specs/currentreview inventories; art-only not source/canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Her father holds the severed bird's head.",
+          "explanation": "Cutembroideredclothprop."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Ordinaryfather of23yearadult grievingwife.",
+        "equipment": "Needlework; cutscarletsilkembroideredgoldbirdhead; little shears handedtodaughter."
+      },
+      "visualInterpretation": [
+        "Art-only stockymid50s paleolivewidecheekboneface withgrayrecedingbrowncurls shortmustache, inkbluewaistcoat oatshirt fullgrayapron/browntrousersshoes."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-thread-that-held:lurshen",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-thread-that-held/art/characters/lurshen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving exact Lurshen mature father face/mustache/hair, entire working costume and embroidery tools, scarlet fabric with gold bird head, ordinary hands and all props. Preserve complete front/rear body silhouettes, exact name/title and layout on 1536x1024 clean warm IVORY. Correct LIGHTING ONLY to source DUSK as in IMAGE2: majority of faces and bodies in connected dark BLUE-VIOLET and umber shadow, only small lamp-facing cheek/nose/finger planes receive restrained OCHRE amber. No broad golden daylight face, no all-over stage rim. Keep broad opaque matte Group of Seven brushwork on faces/hands/clothes, no smoothed cosmetic skin. Ivory remains bright and clean with no shop/floor/candle or swatches. All identity/props/text otherwise unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-885d66d4-7eaf-49f1-87ec-22d892404e88.png",
+            "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+            "inspected": true,
+            "sha256": "d0cfa6d33fde2d93861fc6f74867966dff6ec0136ef1ccf3a218b5a4015287a0"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+            "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+            "inspected": true,
+            "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:08:03.171286+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Lurshen\"; title \"The Thread That Held\"; role \"Banner maker / father\". ONE middle-aged HUMAN man midfifties, stocky, pale OLIVE skin, widecheekbones and bluntnose, GRAYING BROWN receding curls, short graybrownMUSTACHE, matte hazel eyes and deeply worriedmouth. OAT workshirt, INK BLUE waistcoat, gray fullwaistAPRON overbrowntrousers, practical darklowSHOES. Complete front/rear, normalhands hold small SCARLET SILK SCRAP bearing an embroidered GOLD BIRD HEAD (fabric design, NOT realanimal/flesh). Large sameface. Isolated same cutembroideredcloth label \"The severed banner\". No entireflagpole/bannerbackdrop, no realbird, crown/weapon. Source father after banner cut, warm shoplamp and coolduskreflection.\nPrimaryimage1 paint and light: restrained warm ochre/lamp-facing planes, substantial connected COOL VIOLET shadows, matteface/eyes/hands as broadly painted as clothes. Brightivory background no floor/shadows/scenery/swatches; no photoreal glossyface or anime. No invented spellglow/crown/wings/halo/divineweapon; gods have ordinary visible adult bodies.",
+            "references": [
+              {
+                "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+                "role": "inspected primary broadmatteoil, dusklampamberplanes/coolbluewindowshadow and sourcecloth/shears only; no shop",
+                "inspected": true,
+                "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and original/sourceoils inspected; presentfourgods humanappearingform artinterpretation, no inventedholyregalia. Family23daughter exactleftthumb/black-outwardbanner andfatherfabricbirdhead sourced; no realbird/extraidentity.",
+              "Separate1536x1024singleidentitycall, one inspectedhashpinned oilref each. Source unchanged; Tapissier dependent generation held for rootanchor, all sixothers independent."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-885d66d4-7eaf-49f1-87ec-22d892404e88.png",
+            "outputSha256": "d0cfa6d33fde2d93861fc6f74867966dff6ec0136ef1ccf3a218b5a4015287a0",
+            "finishedAt": "2026-09-24T08:19:27.780139+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels show coherent mature father, complete working costume, gold bird head clearly embroidered cloth not realanimal, broad matte paint.",
+              "Face and costume read bright daylight instead of chosen dusk/lamp; narrow warm lamp planes and deepen cool shadows."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:19:29.810316+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserving exact Lurshen mature father face/mustache/hair, entire working costume and embroidery tools, scarlet fabric with gold bird head, ordinary hands and all props. Preserve complete front/rear body silhouettes, exact name/title and layout on 1536x1024 clean warm IVORY. Correct LIGHTING ONLY to source DUSK as in IMAGE2: majority of faces and bodies in connected dark BLUE-VIOLET and umber shadow, only small lamp-facing cheek/nose/finger planes receive restrained OCHRE amber. No broad golden daylight face, no all-over stage rim. Keep broad opaque matte Group of Seven brushwork on faces/hands/clothes, no smoothed cosmetic skin. Ivory remains bright and clean with no shop/floor/candle or swatches. All identity/props/text otherwise unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-885d66d4-7eaf-49f1-87ec-22d892404e88.png",
+                "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+                "inspected": true,
+                "sha256": "d0cfa6d33fde2d93861fc6f74867966dff6ec0136ef1ccf3a218b5a4015287a0"
+              },
+              {
+                "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+                "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+                "inspected": true,
+                "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+              }
+            ],
+            "preflight": [
+              "First output/source dusk lamp pixels reviewed. Only lighting change; exact source anatomy/props/name/complete bodies retained. Two inspected pinned references, no scene or new identity."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3d7e0ce0-291b-4b3d-a904-7dc6c6097bb5.png",
+            "outputSha256": "a503f45b151fc1b92190a0479d9b644fcf9738b8c04b454581069966ac8691ef",
+            "finishedAt": "2026-09-24T08:33:53.414189+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: source dusk is now cool violet connected shadow with narrow warm lamp-facing planes, while bright ivory stays clean.",
+              "Exact same face/wholebody/clothing and source personalprops retained: daughter black-outward silk, left-thumb dye/burn and covered shears; father fabric embroidered birdhead. Broad matte oil and readable names."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3d7e0ce0-291b-4b3d-a904-7dc6c6097bb5.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161",
+        "outputSha256": "a503f45b151fc1b92190a0479d9b644fcf9738b8c04b454581069966ac8691ef",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-885d66d4-7eaf-49f1-87ec-22d892404e88.png",
+            "role": "inspected first candidate identity/layout/source details preserved, dusk light only",
+            "inspected": true,
+            "sha256": "d0cfa6d33fde2d93861fc6f74867966dff6ec0136ef1ccf3a218b5a4015287a0"
+          },
+          {
+            "path": "stories/the-thread-that-held/art/interiors/03-the-banner-makers-shop.png",
+            "role": "inspected dusk blue window/limited warm lamp light only; no scene",
+            "inspected": true,
+            "sha256": "bd4b34f89f4ef750db7a09a0f6b672f6d69d56f10be277b2b7cdc8185ed3c567"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: source dusk is now cool violet connected shadow with narrow warm lamp-facing planes, while bright ivory stays clean.",
+          "Exact same face/wholebody/clothing and source personalprops retained: daughter black-outward silk, left-thumb dye/burn and covered shears; father fabric embroidered birdhead. Broad matte oil and readable names."
+        ],
+        "specificationSha256": "c6477282cd67e1b582230128ee81bfabc4aa9e38f5d547bfff1220f439095a36"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "a503f45b151fc1b92190a0479d9b644fcf9738b8c04b454581069966ac8691ef"
+    }
+  ],
+  "externalReferences": [
+    {
+      "displayName": "codex-clipboard-b233f3b6-8bb6-42ce-8729-41d64ea85da9.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-b233f3b6-8bb6-42ce-8729-41d64ea85da9.png",
+      "sha256": "be8da1df6e75131eadfa5badcff5aa8b2be1cd80ad62940f8dce639fbb6a4094",
+      "inspected": true,
+      "recoveryEvidence": "Exact sole input_image from originaluser message zerobasedline8 Sep16 archive rollout-2026-09-16T08-27-47-01a0aa2f-feae-79e0-ba24-a8e83694664c.jsonl; pairedWP/filename."
+    }
+  ],
+  "sourceSha256": "9936d74103a0de9b30ccf310fe2b10d0629875fd9ca82a19de66145f72908161"
+}

@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "slug": "tenth-world-lesson",
+  "title": "The Tenth World Needs No Hero",
+  "source": "stories/tenth-world-lesson/05-story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire finished bundle and prompt read. Three sustained main identities: Ryo protagonist, Eiren steward, Jori engineer. Canon facts remain LOCKED despite source bundle false marker; all source files read-only.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Ryo Sato",
+    "universe/characters.md#Eiren",
+    "universe/characters.md#Jori Vale",
+    "universe/rules.md#Eiren and Ryo's living door-filament link"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Crew members, residents, recalled beneficiaries and Ryo's relative",
+      "reason": "Supporting collective work, memories or message recipient; no sustained distinct main arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ryo-sato",
+      "name": "Ryo Sato",
+      "role": "living traveler who relinquishes nine gifts and begins self-directed recovery",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "The nine marks had faded to ordinary skin",
+          "explanation": "Chosen final return state has no glowing marks or powers."
+        }
+      ],
+      "storyAppearance": {
+        "body": "One continuous living human body through all crossings, exhausted/singed after assignment; ordinary skin once gifts spent.",
+        "currentState": "Back in apartment, daylight, curtains open, phone/message and planned garden visit; no magic.",
+        "unresolved": "Age, original city/country and wider history are unresolved."
+      },
+      "visualInterpretation": [
+        "Art-only adult thirtyish casting with light-medium warm skin, broad cheekbones, short straight black hair, dark eyes, average/slight build; no nationality claim.",
+        "Plain olive cardigan over gray cotton shirt, charcoal casual trousers and ordinary indoor slippers; honest tired face without stigmatizing isolation."
+      ],
+      "states": [
+        {
+          "name": "Back home, powerless",
+          "description": "Final day after return, ordinary clothes and skin; no victory marks, armor or sword."
+        }
+      ],
+      "explicitCanon": [
+        "All nine gifts permanently surrendered; continuous living identity, no death/reincarnation.",
+        "Recovery is unfinished, not instantly cured; age and home country not established."
+      ],
+      "recurrence": {
+        "identityKey": "ryo-sato",
+        "links": [],
+        "evidence": "Matches LOCKED universe identity; no other story appearance found."
+      },
+      "references": [],
+      "output": "stories/tenth-world-lesson/art/characters/ryo-sato.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Ryo Sato\"; title \"The Tenth World Needs No Hero\". ONE adult human man, art casting in thirties, light-medium warm skin, broad cheekbones, slightly narrow jaw, short straight BLACK hair with practical uneven fringe, dark matte eyes, no beard, average slight build. Do not infer home country/nationality, no stereotyped features. Two complete front/rear views labelled \"Back home, powerless\" and \"Rear\". Plain OLIVE cardigan open over simple gray cotton T-shirt, charcoal casual trousers, worn brown soft indoor SLIPPERS with complete feet. Relaxed weary stance, one hand holds ordinary smartphone; other empty. Large matching face labelled \"A first request\", exhausted but quietly attentive, uncertain without melodramatic crying. Isolated small plain phone beside a note reading exactly \"Visit the neighborhood garden\", label \"A choice of his own\".\nThis is FINAL RETURN state: ordinary non-glowing skin, NO nine marks, no magic, armor, sword, spear, staff, halo or fantasy accessories. No victory pose or instantly cured grin. Image1 PRIMARY ordinary open-window DAYLIGHT, warm cream planes with cool blue-gray connected shadows, broad matte Group of Seven oil paint over face/hair/clothing, irregular flat bristle shapes and selective impasto. No room/door/window/terrain painted on page; no ground shadow beneath slippers, no swatches. Preserve one identity only.",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/interiors/03-ryos-apartment-with-open-curtains.png",
+            "role": "source daylight and bold oil handling only; no room copied",
+            "inspected": true,
+            "sha256": "8c57b1717b7e229cf5468153f79e4802f85e4a4096a3bb25c16c94234b82c55d"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:02:34.583878+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Ryo Sato\"; title \"The Tenth World Needs No Hero\". ONE adult human man, art casting in thirties, light-medium warm skin, broad cheekbones, slightly narrow jaw, short straight BLACK hair with practical uneven fringe, dark matte eyes, no beard, average slight build. Do not infer home country/nationality, no stereotyped features. Two complete front/rear views labelled \"Back home, powerless\" and \"Rear\". Plain OLIVE cardigan open over simple gray cotton T-shirt, charcoal casual trousers, worn brown soft indoor SLIPPERS with complete feet. Relaxed weary stance, one hand holds ordinary smartphone; other empty. Large matching face labelled \"A first request\", exhausted but quietly attentive, uncertain without melodramatic crying. Isolated small plain phone beside a note reading exactly \"Visit the neighborhood garden\", label \"A choice of his own\".\nThis is FINAL RETURN state: ordinary non-glowing skin, NO nine marks, no magic, armor, sword, spear, staff, halo or fantasy accessories. No victory pose or instantly cured grin. Image1 PRIMARY ordinary open-window DAYLIGHT, warm cream planes with cool blue-gray connected shadows, broad matte Group of Seven oil paint over face/hair/clothing, irregular flat bristle shapes and selective impasto. No room/door/window/terrain painted on page; no ground shadow beneath slippers, no swatches. Preserve one identity only.",
+            "references": [
+              {
+                "path": "stories/tenth-world-lesson/art/interiors/03-ryos-apartment-with-open-curtains.png",
+                "role": "source daylight and bold oil handling only; no room copied",
+                "inspected": true,
+                "sha256": "8c57b1717b7e229cf5468153f79e4802f85e4a4096a3bb25c16c94234b82c55d"
+              }
+            ],
+            "preflight": [
+              "Full bundle/prompt and LOCKED character/door rules read, all source art references visually inspected.",
+              "Selected clear state separates spent gifts/filaments from prior active powers; no world/country/species/divinity assumption added.",
+              "Single identity, complete front/rear/portrait and source personal detail fit. Matte face paint, motivated light and no ground patch specified."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8589606f-da15-4681-9856-564e69b57895.png",
+            "outputSha256": "972a04170b0bfc6d79106f251f3fd107fdaf8af9ac74836edafc75f07496e514",
+            "finishedAt": "2026-09-24T04:08:37.819687+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: coherent ordinary adult black-haired man, tired attentive face without stigmatizing caricature, complete front/rear casual clothes/slippers, readable exact name/title.",
+              "Final state correctly has no glowing marks, armor or weapons; phone and exact garden note present, bare ordinary skin, no asserted country/chronology.",
+              "Warm daylight and cool shadow planes expressed in broad matte oil on face/clothing; ivory ground-free character-only composition."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8589606f-da15-4681-9856-564e69b57895.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3ae7074831bc6e69b93f360ddd2edde1696a415efcd06b9963f3fcfe6661a239",
+        "outputSha256": "972a04170b0bfc6d79106f251f3fd107fdaf8af9ac74836edafc75f07496e514",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/interiors/03-ryos-apartment-with-open-curtains.png",
+            "role": "source daylight and bold oil handling only; no room copied",
+            "inspected": true,
+            "sha256": "8c57b1717b7e229cf5468153f79e4802f85e4a4096a3bb25c16c94234b82c55d"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: coherent ordinary adult black-haired man, tired attentive face without stigmatizing caricature, complete front/rear casual clothes/slippers, readable exact name/title.",
+          "Final state correctly has no glowing marks, armor or weapons; phone and exact garden note present, bare ordinary skin, no asserted country/chronology.",
+          "Warm daylight and cool shadow planes expressed in broad matte oil on face/clothing; ivory ground-free character-only composition."
+        ],
+        "specificationSha256": "821cced238b7bcb324cd9e4d08c2cbceebdffc5f81022a6eca56d2fb73e2a67c"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "972a04170b0bfc6d79106f251f3fd107fdaf8af9ac74836edafc75f07496e514"
+    },
+    {
+      "id": "eiren",
+      "name": "Eiren",
+      "role": "exhausted living door-steward who ends the assignment relationship",
+      "form": "adult female living person; species and age unresolved",
+      "selectionEvidence": [
+        {
+          "quote": "Ink-dark stains filled the beds of her nails",
+          "explanation": "Distinctive source hand detail."
+        },
+        {
+          "quote": "The filaments were gone. Thin burns crossed her hands",
+          "explanation": "Chosen post-assignment state has spent palms, no active door-filaments."
+        }
+      ],
+      "storyAppearance": {
+        "clothing": "Shawl slips off arm; other clothes unspecified.",
+        "body": "Visibly exhausted, trembling hands, ink-dark nail beds, thin burns in palms after assignment thread ends.",
+        "unresolved": "Age/species/origin unresolved; former goddess label does not establish divinity."
+      },
+      "visualInterpretation": [
+        "Art-only mature fifties appearance, medium dark warm-brown skin, long narrow face, deep-set eyes, gray-brown hair loosely braided.",
+        "Rust-red shawl compatible with inspected threshold painting over plain ochre long dress and soft brown shoes; no divine regalia."
+      ],
+      "states": [
+        {
+          "name": "After the return",
+          "description": "Assignment thread burnt out, palm filaments gone, thin non-graphic burn lines; final one-way fold not depicted."
+        }
+      ],
+      "explicitCanon": [
+        "Living steward, no objective godhood established.",
+        "Spent assignment thread cannot reopen for Ryo; no filaments in selected post-return state."
+      ],
+      "recurrence": {
+        "identityKey": "eiren",
+        "links": [],
+        "evidence": "Matches LOCKED universe identity, distinct from titled goddesses and Queen Aurelia."
+      },
+      "references": [],
+      "output": "stories/tenth-world-lesson/art/characters/eiren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Eiren\"; exact title \"The Tenth World Needs No Hero\"; small role \"Steward\". ONE mature adult female living person, visual casting around fifties without establishing age/species: medium-dark warm brown skin, long NARROW face, deep-set ordinary dark eyes, gray-brown hair in a loose low BRAID, tired gentle lined brow and hollowed cheeks. No crown, halo, pointed ears or deity symbols. Simple OCHRE calf-to-ankle long-sleeve dress, soft low brown shoes and RUST RED woven SHAWL loosely wrapped shoulders, one end slipping on upper arm. Two complete front/rear full-body views labelled \"After the return\" and \"Rear\", slightly exhausted sloping shoulders, front both ordinary hands open at waist. Large matching face labelled \"No more assignments\", tired honest composure, not glowing divinity. One large clear isolated PAIR OF PALMS, thumbs inward appropriate eachhand, normal five digits each, thin healed-looking dull red-brown BURN LINES across centers, INK-DARK nail beds, NON-GRAPHIC no blood, label \"Spent hands\".\nSelected post-return state: NO active bright filaments, no magical door or lightstrings, no weapons. Hands spent after cut, no restored thread. Image1 primary broad matte Group of Seven oil, quiet diffuse threshold interior light with a small warm reflected component and lilac-blue shadows, not dramatic divine rim or bright sun. Face must have as large flat-bristle oil planes as shawl, ordinary matte eyes. Empty ivory around all poses, absolutely no floor patch, chair or room, no swatches.",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/interiors/01-the-threshold-room.png",
+            "role": "source rust shawl color and modest reflected interior light, broad oil paint; no room/chair/weapons",
+            "inspected": true,
+            "sha256": "cc9a1236ce9708c312fa79e987ef6402789734680d8e4dc40f6c8728af456626"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:02:34.586772+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Eiren\"; exact title \"The Tenth World Needs No Hero\"; small role \"Steward\". ONE mature adult female living person, visual casting around fifties without establishing age/species: medium-dark warm brown skin, long NARROW face, deep-set ordinary dark eyes, gray-brown hair in a loose low BRAID, tired gentle lined brow and hollowed cheeks. No crown, halo, pointed ears or deity symbols. Simple OCHRE calf-to-ankle long-sleeve dress, soft low brown shoes and RUST RED woven SHAWL loosely wrapped shoulders, one end slipping on upper arm. Two complete front/rear full-body views labelled \"After the return\" and \"Rear\", slightly exhausted sloping shoulders, front both ordinary hands open at waist. Large matching face labelled \"No more assignments\", tired honest composure, not glowing divinity. One large clear isolated PAIR OF PALMS, thumbs inward appropriate eachhand, normal five digits each, thin healed-looking dull red-brown BURN LINES across centers, INK-DARK nail beds, NON-GRAPHIC no blood, label \"Spent hands\".\nSelected post-return state: NO active bright filaments, no magical door or lightstrings, no weapons. Hands spent after cut, no restored thread. Image1 primary broad matte Group of Seven oil, quiet diffuse threshold interior light with a small warm reflected component and lilac-blue shadows, not dramatic divine rim or bright sun. Face must have as large flat-bristle oil planes as shawl, ordinary matte eyes. Empty ivory around all poses, absolutely no floor patch, chair or room, no swatches.",
+            "references": [
+              {
+                "path": "stories/tenth-world-lesson/art/interiors/01-the-threshold-room.png",
+                "role": "source rust shawl color and modest reflected interior light, broad oil paint; no room/chair/weapons",
+                "inspected": true,
+                "sha256": "cc9a1236ce9708c312fa79e987ef6402789734680d8e4dc40f6c8728af456626"
+              }
+            ],
+            "preflight": [
+              "Full bundle/prompt and LOCKED character/door rules read, all source art references visually inspected.",
+              "Selected clear state separates spent gifts/filaments from prior active powers; no world/country/species/divinity assumption added.",
+              "Single identity, complete front/rear/portrait and source personal detail fit. Matte face paint, motivated light and no ground patch specified."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf7b9e14-9119-4f4f-b3f7-5b9827d428e9.png",
+            "outputSha256": "fe297b25cd74e4d8f99ca69151535fa055a19881663034cbc62ae0226566b4c3",
+            "finishedAt": "2026-09-24T04:08:37.833092+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: coherent mature brown-skinned woman with gray-brown low braid, narrow lined face, rust shawl and ochre dress; full bodies visible and exact name/title.",
+              "Two anatomically coherent five-digit palms carry thin dull burn marks and dark nail tips, no blood or active filaments. Post-return spent state distinct from earlier active crossing, no divine regalia.",
+              "Bold matte directional paint across face/hands/shawl, warm diffuse interior planes and violet-gray shadow, clean ivory no floor/scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf7b9e14-9119-4f4f-b3f7-5b9827d428e9.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3ae7074831bc6e69b93f360ddd2edde1696a415efcd06b9963f3fcfe6661a239",
+        "outputSha256": "fe297b25cd74e4d8f99ca69151535fa055a19881663034cbc62ae0226566b4c3",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/interiors/01-the-threshold-room.png",
+            "role": "source rust shawl color and modest reflected interior light, broad oil paint; no room/chair/weapons",
+            "inspected": true,
+            "sha256": "cc9a1236ce9708c312fa79e987ef6402789734680d8e4dc40f6c8728af456626"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: coherent mature brown-skinned woman with gray-brown low braid, narrow lined face, rust shawl and ochre dress; full bodies visible and exact name/title.",
+          "Two anatomically coherent five-digit palms carry thin dull burn marks and dark nail tips, no blood or active filaments. Post-return spent state distinct from earlier active crossing, no divine regalia.",
+          "Bold matte directional paint across face/hands/shawl, warm diffuse interior planes and violet-gray shadow, clean ivory no floor/scenery/swatches."
+        ],
+        "specificationSha256": "a326923a42cd1cc7b4ad45828303de8178800faf769823e838f0d1202298a051"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "fe297b25cd74e4d8f99ca69151535fa055a19881663034cbc62ae0226566b4c3"
+    },
+    {
+      "id": "jori-vale",
+      "name": "Jori Vale",
+      "role": "young civic engineer who directs distributed storm-engine severance",
+      "form": "young adult human-presenting person, they/them",
+      "selectionEvidence": [
+        {
+          "quote": "a young engineer with cropped hair, soot on both cheeks, and a wrench braced over one shoulder",
+          "explanation": "Direct source design cue."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Young adult, exact age unresolved.",
+        "hair": "Cropped.",
+        "body": "Soot both cheeks, ordinary work posture.",
+        "equipment": "Wrench and crew work; large copper vanes handled as engineering equipment, no personal magic weapon.",
+        "pronouns": "they/them, gender not asserted."
+      },
+      "visualInterpretation": [
+        "Art-only warm deep brown skin, round-square face, cropped tight black hair, stocky compact practical body.",
+        "Leather work apron over brick-red rolled-sleeve shirt, dark navy trousers/boots; modern-fantasy craft without modern hardhat logo or inventor goggles."
+      ],
+      "states": [
+        {
+          "name": "Before pressure test",
+          "description": "Workwear, soot and wrench during prepared retrofit, before storm injuries."
+        }
+      ],
+      "explicitCanon": [
+        "Prepared civic engineer, no destined hero status.",
+        "Crew small currents not permanently inherited Ryo gifts; exact age/origin unresolved."
+      ],
+      "recurrence": {
+        "identityKey": "jori-vale",
+        "links": [],
+        "evidence": "Matches LOCKED identity, no inferred kinship with any other Vale."
+      },
+      "references": [],
+      "output": "stories/tenth-world-lesson/art/characters/jori-vale.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Jori Vale\"; title \"The Tenth World Needs No Hero\"; role \"Civic engineer\". ONE YOUNG ADULT androgynous person, source THEY/THEM with no gender assertion, warm deep-brown skin, round-square broad face, cropped tight black hair, dark matte eyes, compact stocky capable build. Source SOOT smudges on BOTH cheeks. Ordinary engineer expression, alert mildly impatient, not villain sneer. Brown LEATHER work APRON over brick-red shirt with rolled sleeves, dark navy work trousers, sturdy round-toe brown boots. Two COMPLETE front/rear views, front rests ordinary STEEL WRENCH over shoulder in natural five-finger hand, rear matching cropped head/clothes with apron straps, label \"Before the pressure test\" and \"Rear\". Large matching face labelled \"Following the plan\". Small isolated sturdy wrench detail labelled \"Working wrench\"; no guns, fantasy weapon, lightning halo, magical gift marks or god symbols.\nImage1 PRIMARY approaching-storm daylight with muted warm side planes and deep PURPLE gray-blue shadows, not night and no sunshine rim. Paint mature young adult face with broad opaque matte Group of Seven bristle masses as boldly as leather/shirt, varied connected brush directions, no glossy anime eyes. Ivory background completely blank around boots with NO ground marks or environment, no swatches/other workers.",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/landscapes/02-purple-storm-approaching.png",
+            "role": "source approaching-storm daylight and broad oil colour masses only; no environment",
+            "inspected": true,
+            "sha256": "5c1e54c5b346daa74ebb80186dced32060366695ebf01fbf55a84aa2ba559fa7"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:02:34.589839+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact heading \"Jori Vale\"; title \"The Tenth World Needs No Hero\"; role \"Civic engineer\". ONE YOUNG ADULT androgynous person, source THEY/THEM with no gender assertion, warm deep-brown skin, round-square broad face, cropped tight black hair, dark matte eyes, compact stocky capable build. Source SOOT smudges on BOTH cheeks. Ordinary engineer expression, alert mildly impatient, not villain sneer. Brown LEATHER work APRON over brick-red shirt with rolled sleeves, dark navy work trousers, sturdy round-toe brown boots. Two COMPLETE front/rear views, front rests ordinary STEEL WRENCH over shoulder in natural five-finger hand, rear matching cropped head/clothes with apron straps, label \"Before the pressure test\" and \"Rear\". Large matching face labelled \"Following the plan\". Small isolated sturdy wrench detail labelled \"Working wrench\"; no guns, fantasy weapon, lightning halo, magical gift marks or god symbols.\nImage1 PRIMARY approaching-storm daylight with muted warm side planes and deep PURPLE gray-blue shadows, not night and no sunshine rim. Paint mature young adult face with broad opaque matte Group of Seven bristle masses as boldly as leather/shirt, varied connected brush directions, no glossy anime eyes. Ivory background completely blank around boots with NO ground marks or environment, no swatches/other workers.",
+            "references": [
+              {
+                "path": "stories/tenth-world-lesson/art/landscapes/02-purple-storm-approaching.png",
+                "role": "source approaching-storm daylight and broad oil colour masses only; no environment",
+                "inspected": true,
+                "sha256": "5c1e54c5b346daa74ebb80186dced32060366695ebf01fbf55a84aa2ba559fa7"
+              }
+            ],
+            "preflight": [
+              "Full bundle/prompt and LOCKED character/door rules read, all source art references visually inspected.",
+              "Selected clear state separates spent gifts/filaments from prior active powers; no world/country/species/divinity assumption added.",
+              "Single identity, complete front/rear/portrait and source personal detail fit. Matte face paint, motivated light and no ground patch specified."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ef6d6c9f-1cb6-4c26-a701-f6b1295ad0d9.png",
+            "outputSha256": "d89444fd044159f9cd16c448d5356b16ca94f0e3779f40992ab6373897cebd85",
+            "finishedAt": "2026-09-24T04:08:37.854029+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: youthful androgynous cropped-haired deep-brown person, soot clearly on both cheeks, compact build and consistent identity across front/rear/face.",
+              "Wrench over shoulder and separate working-wrench detail, leather apron and practical boots, correct title/name, no inherited power marks or fantastical hero role.",
+              "Complete bodies, warm storm-day planes and purple shadow paint, broad matte bristle skin/clothing texture, blank ivory around feet with no scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ef6d6c9f-1cb6-4c26-a701-f6b1295ad0d9.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3ae7074831bc6e69b93f360ddd2edde1696a415efcd06b9963f3fcfe6661a239",
+        "outputSha256": "d89444fd044159f9cd16c448d5356b16ca94f0e3779f40992ab6373897cebd85",
+        "references": [
+          {
+            "path": "stories/tenth-world-lesson/art/landscapes/02-purple-storm-approaching.png",
+            "role": "source approaching-storm daylight and broad oil colour masses only; no environment",
+            "inspected": true,
+            "sha256": "5c1e54c5b346daa74ebb80186dced32060366695ebf01fbf55a84aa2ba559fa7"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: youthful androgynous cropped-haired deep-brown person, soot clearly on both cheeks, compact build and consistent identity across front/rear/face.",
+          "Wrench over shoulder and separate working-wrench detail, leather apron and practical boots, correct title/name, no inherited power marks or fantastical hero role.",
+          "Complete bodies, warm storm-day planes and purple shadow paint, broad matte bristle skin/clothing texture, blank ivory around feet with no scene/swatches."
+        ],
+        "specificationSha256": "27bb30ca4de4367b998879007ed0610250b5371c5d81e6c42624dbd6fe7957a4"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d89444fd044159f9cd16c448d5356b16ca94f0e3779f40992ab6373897cebd85"
+    }
+  ],
+  "sourceSha256": "3ae7074831bc6e69b93f360ddd2edde1696a415efcd06b9963f3fcfe6661a239"
+}

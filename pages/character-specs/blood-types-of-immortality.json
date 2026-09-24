@@ -1,0 +1,670 @@
+{
+  "schemaVersion": 1,
+  "slug": "blood-types-of-immortality",
+  "title": "The Fourth Blood",
+  "source": "stories/blood-types-of-immortality/story.md",
+  "sourceSha256": "725906f106642b867929fd3b2337590ad52df1bd075afeef9ce6c1a6bf9e07bc",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full341-line finished story read. Narrator sorcerer, healer and harmed mill resident each act repeatedly and drive research/refusal/resolution. Other patients, donors and mule are background without individualized substantial role.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Six waiting patients and sample volunteers",
+      "reason": "Background collective context; no individual narrative development."
+    },
+    {
+      "name": "Mule",
+      "reason": "Transport mentioned, no substantial characterized agency."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency and magic LOCKED",
+        "System categories LOCKED",
+        "Costs, desire, and local mechanisms CANON"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No same-story shared entry found"
+      ]
+    },
+    {
+      "path": "stories/blood-types-of-immortality/prompt.md",
+      "entries": [
+        "Sorcerer premise and active profile context"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "ovelric",
+      "name": "Ovelric",
+      "role": "Unnamed first-person sorcerer whose immortality investigation becomes limited blood-pattern research",
+      "selectionEvidence": [
+        {
+          "lines": "33",
+          "quote": "I had spent nine years approaching this morning",
+          "explanation": "Long pursuit drives investigation."
+        },
+        {
+          "lines": "51",
+          "quote": "Pale light moved outward from my hand",
+          "explanation": "Only living source powers comparison."
+        },
+        {
+          "lines": "239",
+          "quote": "Then I lifted each vessel from the frame",
+          "explanation": "Cancels dangerous joining."
+        },
+        {
+          "lines": "301",
+          "quote": "You felt the harm",
+          "explanation": "Accepts responsibility to harmed participant."
+        }
+      ],
+      "form": "Living adult human sorcerer; gender unspecified",
+      "storyAppearance": {
+        "anatomy": "Human, thin, shaking hand and twitching thumb during overwork.",
+        "lifeStage": "Adult with9years study; exact age unstated.",
+        "proportions": "Thin explicitly; height unspecified.",
+        "markings": "None stated.",
+        "materials": "Living skin, practical cold-weather cloth.",
+        "clothing": "Unspecified; winterwear necessary interpretive choice.",
+        "equipment": "Research book/ledger, sealed separately marked sample vessels, carrying case, pulse-board; light comes from own hand only while working.",
+        "scale": "Human adult",
+        "movement": "Palm on pulse plate, fatigued thumb, finally carries case level against chest down path.",
+        "distinctiveFeatures": "Finite living researcher, no successful immortality; no self-moving blood."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Narrator sorcerer spent9years pursuing immortality; healer says thin.",
+        "Local non-canon story fact: Only narrator's pulse/hand supplies and ends pale comparison working; sealed blood samples inert.",
+        "Local non-canon story fact: Stops final convergence, carries sealed vessels for return; no body treatment or transfusion."
+      ],
+      "visualInterpretation": [
+        "Art-only personal name Ovelric; gender unstated, depict older man60s.",
+        "Bald crown with wispy white side hair, sparse short white goatee, long narrow face, pale olive skin, wiry stooped frame.",
+        "Plain inkblue high-collar wool tunic, grey wrapcoat, brown trousers/boots; no wizard hat or sigils."
+      ],
+      "states": [
+        {
+          "name": "Research",
+          "description": "Faint pale light limited to working palm, thin/fatigued."
+        },
+        {
+          "name": "Return journey",
+          "description": "Winter outer layer and sealed case held level; no glow."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed first-person sorcerer whose immortality investigation becomes limited blood-pattern research",
+        "displayName": "Ovelric",
+        "provenance": "New art-only personal name under user's explicit authorization; collision search universe/NAMES/current and bundle prose returned no selected name. Earlier Ildren rejected because existing unrelated story identity."
+      },
+      "recurrence": {
+        "identityKey": "blood-types-of-immortality:ovelric",
+        "links": [],
+        "evidence": "Unnamed local character; no shared identity inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+          "inspected": true,
+          "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+          "role": "Same-story winter/stove palette and brushwork only",
+          "inspected": true,
+          "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+          "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+          "role": "Same-story winter light and oil masses only",
+          "inspected": true,
+          "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+          "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/title-image.jpg",
+          "role": "Inspected symbolic convergence cover only; no identity",
+          "inspected": true,
+          "notes": "Abstract four-ring frame and red streams over snow; story keeps vessels sealed, no literal streams copied; cover excluded from generation.",
+          "sha256": "008f955e4564165a98c1fbf755242cc0bbb04f0dadbb408c0cb97b8bf85b52d0"
+        }
+      ],
+      "output": "stories/blood-types-of-immortality/art/characters/ovelric.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow object-orientation edit on Ovelric sheet1536x1024. In the third full figure labelled Return journey (wrapcoat), he must cradle the CLOSED sample case HORIZONTALLY and LEVEL against his chest, like a tray with its broad bottom parallel to the unseen floor, supporting it from underneath with both hands. Currently it is upright/vertical against him, which contradicts careful transport. Change only that figure's case orientation and the necessary hand/forearm pose. Keep his exact face, body, coat, legs, all other figures, isolated closed case gear study, sealed vessels, name/title/labels, ivory and oil brushwork identical. No spilling, openlid, visible bloodstreams, scenery or added objects. Preserve readable Return journey label.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-766420cc-54f5-42af-88bc-a1a7e3833607.png",
+            "role": "case orientation only edit target",
+            "sha256": "cd8590e48161c1e381f5bee95669db1ba43477f695f651551d5141ba3ae622d1",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Produce one1536x1024 landscape ivory character-only reference sheet. Large readable exact requested personal name upperleft, exact subtitle The Fourth Blood. Do NOT copy any reference heading/name or identity. Two-three full unclipped views and compact expression/hand/gear studies, useful readable labels only. Absolutely no setting, floor patch, terrain, vignette, palette swatches or decorative prose. Canadian Group of Seven oil painting: large CONNECTED colour/value masses, broad directional bristle strokes, selective thick impasto on meaningful edges and forms, quiet passages. Faces and hair equally painterly. No uniform bevelled chips, CGI, anime, shiny eyes or smooth photoreal face. Attached character sheet only a paint/layout reference, exclude its anatomy/outfit; same-story paintings supply winter blue-grey and stove ochre reflection, never rooms/geography. Heading MUST read Ovelric, title The Fourth Blood. Distinct older male60s interpretation: BALD crown, wispy WHITE side hair, sparse short white GOATEE, LONG NARROW face and nose, pale olive skin, wiry thin stooped body. Avoid youthful handsome template. Plain inkblue high-collar wool tunic, brown trousers/boots; grey wool wrapcoat in travelstate. Three complete consistent views Research front tunic, Rear tunic, Return journey wrapcoat carrying CLOSED rectangular wooden vessel case level against chest. Heads Certain and Chastened, clearly same older face. Handdetail Twitching thumb. Small isolated two-vessel comparison board with SEALED dark samples and simple square/bar marks; only tiny PALE loop originates at his contacting palm, no red blood streams or transfusion. No rings/basins/tower drawing, no needles, no sorcerer staff, no immortal glow. Light cool winter fill and restrained stove warmth.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+                "inspected": true,
+                "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+                "role": "Same-story winter/stove palette and brushwork only",
+                "inspected": true,
+                "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+                "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+                "role": "Same-story winter light and oil masses only",
+                "inspected": true,
+                "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+                "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+              }
+            ],
+            "startedAt": "2026-09-23T22:31:10.069485+00:00",
+            "preflight": "Full finished story and relevant canon read; inspected selected art. Three distinct facial silhouettes specified, source names resolved as art-only, sealed sample constraints and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-766420cc-54f5-42af-88bc-a1a7e3833607.png",
+            "candidateSha256": "cd8590e48161c1e381f5bee95669db1ba43477f695f651551d5141ba3ae622d1",
+            "visualInspection": [
+              "Distinct old thin identity, sealed samples and no independent magic passed.",
+              "Return journey case upright; source explicitly held level against chest. Narrow orientation correction required."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow object-orientation edit on Ovelric sheet1536x1024. In the third full figure labelled Return journey (wrapcoat), he must cradle the CLOSED sample case HORIZONTALLY and LEVEL against his chest, like a tray with its broad bottom parallel to the unseen floor, supporting it from underneath with both hands. Currently it is upright/vertical against him, which contradicts careful transport. Change only that figure's case orientation and the necessary hand/forearm pose. Keep his exact face, body, coat, legs, all other figures, isolated closed case gear study, sealed vessels, name/title/labels, ivory and oil brushwork identical. No spilling, openlid, visible bloodstreams, scenery or added objects. Preserve readable Return journey label.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-766420cc-54f5-42af-88bc-a1a7e3833607.png",
+                "role": "case orientation only edit target",
+                "sha256": "cd8590e48161c1e381f5bee95669db1ba43477f695f651551d5141ba3ae622d1",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T22:38:04.881762+00:00",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-230e5853-3ed5-462b-ba2b-571057811952.png",
+            "candidateSha256": "774c871a8e31037c1cc1eddc24853deb4badc3abdb7b67c2515e42bf3d54b94f",
+            "completedAt": "2026-09-23T22:42:19.873900+00:00",
+            "visualInspection": [
+              "Distinct thin older bald man with white side hair/goatee consistent across views; exact art name and title.",
+              "Corrected case held level horizontally against chest; samples remain sealed, inert, separately simply marked.",
+              "No treatment/transfusion/bloodstream or achieved immortality; thumb fatigue and ordinary human face supported.",
+              "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "725906f106642b867929fd3b2337590ad52df1bd075afeef9ce6c1a6bf9e07bc",
+        "outputSha256": "774c871a8e31037c1cc1eddc24853deb4badc3abdb7b67c2515e42bf3d54b94f",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-766420cc-54f5-42af-88bc-a1a7e3833607.png",
+            "role": "case orientation only edit target",
+            "sha256": "cd8590e48161c1e381f5bee95669db1ba43477f695f651551d5141ba3ae622d1",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Distinct thin older bald man with white side hair/goatee consistent across views; exact art name and title.",
+          "Corrected case held level horizontally against chest; samples remain sealed, inert, separately simply marked.",
+          "No treatment/transfusion/bloodstream or achieved immortality; thumb fatigue and ordinary human face supported.",
+          "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "145626951269391491245f4aa8d1cbb02acf393ba08992eefa77e68f8099b5c3"
+      },
+      "outputSha256": "774c871a8e31037c1cc1eddc24853deb4badc3abdb7b67c2515e42bf3d54b94f"
+    },
+    {
+      "id": "fenessa",
+      "name": "Fenessa",
+      "role": "Unnamed healer, permission steward and methodological counterweight throughout investigation",
+      "selectionEvidence": [
+        {
+          "lines": "21",
+          "quote": "you read the permissions back to me",
+          "explanation": "Establishes active boundary keeping."
+        },
+        {
+          "lines": "193",
+          "quote": "The healer had relabeled an authorized subset",
+          "explanation": "Designs blind comparison."
+        },
+        {
+          "lines": "341",
+          "quote": "testing each buried edge with her staff",
+          "explanation": "Guides final journey."
+        },
+        {
+          "lines": "243",
+          "quote": "with a lantern and a sack of barley",
+          "explanation": "Sustained practical care beyond research."
+        }
+      ],
+      "form": "Living adult human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman, appearance unspecified.",
+        "lifeStage": "Practicing adult healer; exact age unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "None specified.",
+        "materials": "Wool coat, wet/snowy boots, ordinary human skin.",
+        "clothing": "Wool coat with dark wet shoulders, boots.",
+        "equipment": "Permission ledger, sample case, lantern, barley sack, staff for path testing.",
+        "scale": "Human adult",
+        "movement": "Keeps hands on case until permissions read, crosses out false classifications, purposeful walking and staff probing.",
+        "distinctiveFeatures": "Authority through care and rigorous boundaries; no healing light stated."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Woman healer; wool coat, boots, ledger, lantern/barley/staff supported.",
+        "Local non-canon story fact: Controls permission key and blind relabeling; no personal magic manifestation given."
+      ],
+      "visualInterpretation": [
+        "Art name Fenessa; older50s very dark brown skin, short broad nose, full rounded face, heavyset short body.",
+        "Tightly braided grey-black hair in two thick plaits gathered at back; deep plum heavy woolcoat, dull gold scarf, dark skirt/trousers and brown boots.",
+        "No invented healer insignia, weapon, glowing hands."
+      ],
+      "states": [
+        {
+          "name": "At work",
+          "description": "Coat open, ledger in hands."
+        },
+        {
+          "name": "Winter journey",
+          "description": "Coat closed, staff and lantern."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed healer, permission steward and methodological counterweight throughout investigation",
+        "displayName": "Fenessa",
+        "provenance": "New art-only personal name under user's explicit authorization; collision search universe/NAMES/current and bundle prose returned no selected name. Earlier Ildren rejected because existing unrelated story identity."
+      },
+      "recurrence": {
+        "identityKey": "blood-types-of-immortality:fenessa",
+        "links": [],
+        "evidence": "Unnamed local character; no shared identity inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+          "inspected": true,
+          "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+          "role": "Same-story winter/stove palette and brushwork only",
+          "inspected": true,
+          "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+          "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+          "role": "Same-story winter light and oil masses only",
+          "inspected": true,
+          "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+          "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/title-image.jpg",
+          "role": "Inspected symbolic convergence cover only; no identity",
+          "inspected": true,
+          "notes": "Abstract four-ring frame and red streams over snow; story keeps vessels sealed, no literal streams copied; cover excluded from generation.",
+          "sha256": "008f955e4564165a98c1fbf755242cc0bbb04f0dadbb408c0cb97b8bf85b52d0"
+        }
+      ],
+      "output": "stories/blood-types-of-immortality/art/characters/fenessa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Produce one1536x1024 landscape ivory character-only reference sheet. Large readable exact requested personal name upperleft, exact subtitle The Fourth Blood. Do NOT copy any reference heading/name or identity. Two-three full unclipped views and compact expression/hand/gear studies, useful readable labels only. Absolutely no setting, floor patch, terrain, vignette, palette swatches or decorative prose. Canadian Group of Seven oil painting: large CONNECTED colour/value masses, broad directional bristle strokes, selective thick impasto on meaningful edges and forms, quiet passages. Faces and hair equally painterly. No uniform bevelled chips, CGI, anime, shiny eyes or smooth photoreal face. Attached character sheet only a paint/layout reference, exclude its anatomy/outfit; same-story paintings supply winter blue-grey and stove ochre reflection, never rooms/geography. Heading MUST read Fenessa, title The Fourth Blood. Distinct older woman50s, VERY DARK BROWN skin, SHORT BROAD nose, full rounded cheeks, HEAVYSET short figure, tightly braided grey-black hair in two thick plaits gathered behind. No reference face copying. Heavy DEEP PLUM wool coat with damp shoulder darkening, dull gold scarf, practical dark trousers and brown boots. Three complete forms At work coat open holding permission ledger, Rear coat closed, Winter journey holding plain walking staff and modest oil lantern. Faces Exacting and Patient same likeness. Small ledger/hands and lantern detail; book pages show simple square/bar/dot marks, no bloodtype letters or medical treatment. No magic glow, weapon, lab coat, apothecary scenery or floor. Restrained cool winter fill and warm reflected stove hues.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+            "inspected": true,
+            "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+            "role": "Same-story winter/stove palette and brushwork only",
+            "inspected": true,
+            "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+            "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+            "role": "Same-story winter light and oil masses only",
+            "inspected": true,
+            "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+            "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Produce one1536x1024 landscape ivory character-only reference sheet. Large readable exact requested personal name upperleft, exact subtitle The Fourth Blood. Do NOT copy any reference heading/name or identity. Two-three full unclipped views and compact expression/hand/gear studies, useful readable labels only. Absolutely no setting, floor patch, terrain, vignette, palette swatches or decorative prose. Canadian Group of Seven oil painting: large CONNECTED colour/value masses, broad directional bristle strokes, selective thick impasto on meaningful edges and forms, quiet passages. Faces and hair equally painterly. No uniform bevelled chips, CGI, anime, shiny eyes or smooth photoreal face. Attached character sheet only a paint/layout reference, exclude its anatomy/outfit; same-story paintings supply winter blue-grey and stove ochre reflection, never rooms/geography. Heading MUST read Fenessa, title The Fourth Blood. Distinct older woman50s, VERY DARK BROWN skin, SHORT BROAD nose, full rounded cheeks, HEAVYSET short figure, tightly braided grey-black hair in two thick plaits gathered behind. No reference face copying. Heavy DEEP PLUM wool coat with damp shoulder darkening, dull gold scarf, practical dark trousers and brown boots. Three complete forms At work coat open holding permission ledger, Rear coat closed, Winter journey holding plain walking staff and modest oil lantern. Faces Exacting and Patient same likeness. Small ledger/hands and lantern detail; book pages show simple square/bar/dot marks, no bloodtype letters or medical treatment. No magic glow, weapon, lab coat, apothecary scenery or floor. Restrained cool winter fill and warm reflected stove hues.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+                "inspected": true,
+                "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+                "role": "Same-story winter/stove palette and brushwork only",
+                "inspected": true,
+                "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+                "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+                "role": "Same-story winter light and oil masses only",
+                "inspected": true,
+                "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+                "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+              }
+            ],
+            "startedAt": "2026-09-23T22:31:10.087386+00:00",
+            "preflight": "Full finished story and relevant canon read; inspected selected art. Three distinct facial silhouettes specified, source names resolved as art-only, sealed sample constraints and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-4a7630c9-2274-4f98-b940-c2bf9154080b.png",
+            "candidateSha256": "077999d2f7c204c60f5e0de2546a0a7f860a96f881d67a197240f444e2168f63",
+            "completedAt": "2026-09-23T22:42:19.900180+00:00",
+            "visualInspection": [
+              "Distinct older heavyset dark-skinned woman, two gathered braids, same round face/build across forms.",
+              "Woolcoat, ledger marks, lantern and staff match practical role; no unsupported personal magic or doctor insignia.",
+              "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "725906f106642b867929fd3b2337590ad52df1bd075afeef9ce6c1a6bf9e07bc",
+        "outputSha256": "077999d2f7c204c60f5e0de2546a0a7f860a96f881d67a197240f444e2168f63",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+            "inspected": true,
+            "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+            "role": "Same-story winter/stove palette and brushwork only",
+            "inspected": true,
+            "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+            "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+            "role": "Same-story winter light and oil masses only",
+            "inspected": true,
+            "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+            "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+          }
+        ],
+        "evidence": [
+          "Distinct older heavyset dark-skinned woman, two gathered braids, same round face/build across forms.",
+          "Woolcoat, ledger marks, lantern and staff match practical role; no unsupported personal magic or doctor insignia.",
+          "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "84eb0866b0154f315be8de2e7c19a588ab156cf19b5d3b87353764614b1a43ac"
+      },
+      "outputSha256": "077999d2f7c204c60f5e0de2546a0a7f860a96f881d67a197240f444e2168f63"
+    },
+    {
+      "id": "rovel",
+      "name": "Rovel",
+      "role": "Unnamed mill resident harmed by prior charm who withdraws sample and demands accountability",
+      "selectionEvidence": [
+        {
+          "lines": "131",
+          "quote": "He was thinner. The gray under his eyes",
+          "explanation": "Visible aftermath and role identification."
+        },
+        {
+          "lines": "165",
+          "quote": "Then I withdraw it.",
+          "explanation": "Exercises pivotal refusal."
+        },
+        {
+          "lines": "301",
+          "quote": "I called your blood impure",
+          "explanation": "Researcher's explicit apology addresses him."
+        },
+        {
+          "lines": "313",
+          "quote": "Keep the note about what happened.",
+          "explanation": "Defines final limits on retained information."
+        }
+      ],
+      "form": "Living adult human man",
+      "storyAppearance": {
+        "anatomy": "Thinner than before trial, gray under eyes, unsteady after linked pattern harm; ordinary human.",
+        "lifeStage": "Working adult; exact age unspecified.",
+        "proportions": "Thin, weakened; no permanent deformity stated.",
+        "markings": "Gray shadows below eyes.",
+        "materials": "Human skin, ordinary workclothes/wool blankets.",
+        "clothing": "Boots wrapped in blankets during rest; other clothes unspecified.",
+        "equipment": "Cup, blanket; cheese briefly pocketed; no healing equipment or magic tool.",
+        "scale": "Human adult",
+        "movement": "Two fingers beneath ribs, steadies himself on furniture, later clears lower path.",
+        "distinctiveFeatures": "His boundaries and physical harm remain real; no blood transfers into him."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male mill resident, thinner and gray-eyed after prior charm; dizzy and rib discomfort.",
+        "Local non-canon story fact: Boots wrapped in blankets when resting; later returns to help clear path.",
+        "Local non-canon story fact: Withdraws sample, requests harm record remain but not sample/mark linked to categories."
+      ],
+      "visualInterpretation": [
+        "Art-only name Rovel; adult40s with freckled ruddy pale skin, long straight ginger hair cropped at neck and short rust beard, narrow oval face.",
+        "Faded green workshirt, oatmeal wool waistcoat, dark trousers, worn boots; explicit blanket around boots in small rest detail.",
+        "No visible wounds, transfusion tubes or magical blood marks."
+      ],
+      "states": [
+        {
+          "name": "Recovery",
+          "description": "Tired gray under eyes, hand rests beneath ribs."
+        },
+        {
+          "name": "Later",
+          "description": "Steadier stance but no miraculous healing claim."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Unnamed mill resident harmed by prior charm who withdraws sample and demands accountability",
+        "displayName": "Rovel",
+        "provenance": "New art-only personal name under user's explicit authorization; collision search universe/NAMES/current and bundle prose returned no selected name. Earlier Ildren rejected because existing unrelated story identity."
+      },
+      "recurrence": {
+        "identityKey": "blood-types-of-immortality:rovel",
+        "links": [],
+        "evidence": "Unnamed local character; no shared identity inferred."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+          "inspected": true,
+          "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+          "role": "Same-story winter/stove palette and brushwork only",
+          "inspected": true,
+          "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+          "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+          "role": "Same-story winter light and oil masses only",
+          "inspected": true,
+          "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+          "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+        },
+        {
+          "path": "stories/blood-types-of-immortality/title-image.jpg",
+          "role": "Inspected symbolic convergence cover only; no identity",
+          "inspected": true,
+          "notes": "Abstract four-ring frame and red streams over snow; story keeps vessels sealed, no literal streams copied; cover excluded from generation.",
+          "sha256": "008f955e4564165a98c1fbf755242cc0bbb04f0dadbb408c0cb97b8bf85b52d0"
+        }
+      ],
+      "output": "stories/blood-types-of-immortality/art/characters/rovel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Produce one1536x1024 landscape ivory character-only reference sheet. Large readable exact requested personal name upperleft, exact subtitle The Fourth Blood. Do NOT copy any reference heading/name or identity. Two-three full unclipped views and compact expression/hand/gear studies, useful readable labels only. Absolutely no setting, floor patch, terrain, vignette, palette swatches or decorative prose. Canadian Group of Seven oil painting: large CONNECTED colour/value masses, broad directional bristle strokes, selective thick impasto on meaningful edges and forms, quiet passages. Faces and hair equally painterly. No uniform bevelled chips, CGI, anime, shiny eyes or smooth photoreal face. Attached character sheet only a paint/layout reference, exclude its anatomy/outfit; same-story paintings supply winter blue-grey and stove ochre reflection, never rooms/geography. Heading MUST read Rovel, title The Fourth Blood. Distinct thin working man40s, FRECKLED RUDDY PALE skin, long narrow oval face, straight GINGER hair to neck and short RUST beard, grey shadows beneath tired eyes. Faded green workshirt, oatmeal wool waistcoat, dark trousers and worn boots. Two complete front/rear views same attire and proportions; front one hand gently rests beneath ribs without injury. Third small upperbody Resolute face/body with shoulders firmer, ordinary recovery not magical cure. Head studies Wary and Insistent. Small boots study wrapped with a wool blanket labelled Resting; plain cup nearby separate gear. No furniture, terrain, snow patch, shovel invented, blood traces, transfusion, scars or magical effects. Same precise mature identity throughout, painterly full-face masses.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+            "inspected": true,
+            "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+            "role": "Same-story winter/stove palette and brushwork only",
+            "inspected": true,
+            "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+            "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+            "role": "Same-story winter light and oil masses only",
+            "inspected": true,
+            "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+            "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Produce one1536x1024 landscape ivory character-only reference sheet. Large readable exact requested personal name upperleft, exact subtitle The Fourth Blood. Do NOT copy any reference heading/name or identity. Two-three full unclipped views and compact expression/hand/gear studies, useful readable labels only. Absolutely no setting, floor patch, terrain, vignette, palette swatches or decorative prose. Canadian Group of Seven oil painting: large CONNECTED colour/value masses, broad directional bristle strokes, selective thick impasto on meaningful edges and forms, quiet passages. Faces and hair equally painterly. No uniform bevelled chips, CGI, anime, shiny eyes or smooth photoreal face. Attached character sheet only a paint/layout reference, exclude its anatomy/outfit; same-story paintings supply winter blue-grey and stove ochre reflection, never rooms/geography. Heading MUST read Rovel, title The Fourth Blood. Distinct thin working man40s, FRECKLED RUDDY PALE skin, long narrow oval face, straight GINGER hair to neck and short RUST beard, grey shadows beneath tired eyes. Faded green workshirt, oatmeal wool waistcoat, dark trousers and worn boots. Two complete front/rear views same attire and proportions; front one hand gently rests beneath ribs without injury. Third small upperbody Resolute face/body with shoulders firmer, ordinary recovery not magical cure. Head studies Wary and Insistent. Small boots study wrapped with a wool blanket labelled Resting; plain cup nearby separate gear. No furniture, terrain, snow patch, shovel invented, blood traces, transfusion, scars or magical effects. Same precise mature identity throughout, painterly full-face masses.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+                "inspected": true,
+                "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+                "role": "Same-story winter/stove palette and brushwork only",
+                "inspected": true,
+                "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+                "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+              },
+              {
+                "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+                "role": "Same-story winter light and oil masses only",
+                "inspected": true,
+                "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+                "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+              }
+            ],
+            "startedAt": "2026-09-23T22:31:10.105246+00:00",
+            "preflight": "Full finished story and relevant canon read; inspected selected art. Three distinct facial silhouettes specified, source names resolved as art-only, sealed sample constraints and no-scene format checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-37196806-d0f4-4310-b7e3-45b68dc65fee.png",
+            "candidateSha256": "6cffe319a921d5c409d11bcad41507e04315837dae98bc4c5b94f250931434c3",
+            "completedAt": "2026-09-23T22:42:19.906899+00:00",
+            "visualInspection": [
+              "Thin freckled ginger-haired adult man with eye shadows, same face across views; distinct from sorcerer/healer.",
+              "Hand below ribs, ordinary work clothes and blanket-wrapped boots convey recovery without injury/transfusion or magical markings.",
+              "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "725906f106642b867929fd3b2337590ad52df1bd075afeef9ce6c1a6bf9e07bc",
+        "outputSha256": "6cffe319a921d5c409d11bcad41507e04315837dae98bc4c5b94f250931434c3",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved paint treatment/folio only; no armor, face or heading transfer",
+            "inspected": true,
+            "notes": "Broad sculpted oil planes across face and clothing, selective sharp ridges, ivory.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/interiors/02-the-healers-room.png",
+            "role": "Same-story winter/stove palette and brushwork only",
+            "inspected": true,
+            "notes": "Cool blue daylight with warm stove-reflected ochre, no people.",
+            "sha256": "b253f50bfe9ef04d7c19cc687e0c8280d410c134a1f98791f0ffc28fe45f0b00"
+          },
+          {
+            "path": "stories/blood-types-of-immortality/art/landscapes/05-the-narrow-downhill-path.png",
+            "role": "Same-story winter light and oil masses only",
+            "inspected": true,
+            "notes": "Connected snow masses with cool shadow and ochre rock; no geometry transferred.",
+            "sha256": "47626152e0fa981d6ba553c3f9417ed98afb61a0dd267060a130987e727ba7a5"
+          }
+        ],
+        "evidence": [
+          "Thin freckled ginger-haired adult man with eye shadows, same face across views; distinct from sorcerer/healer.",
+          "Hand below ribs, ordinary work clothes and blanket-wrapped boots convey recovery without injury/transfusion or magical markings.",
+          "Whole silhouettes within ivory margins, exact legible personal names/title and concise useful details, no scenery/ground patches/swatches. Decisive oil masses on skin/hair/clothes, selective thick painted edges."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "13d0d3b6cf56af61cfc105f31c5cd9f7e31cd208b55f069b007244f364aa7b1b"
+      },
+      "outputSha256": "6cffe319a921d5c409d11bcad41507e04315837dae98bc4c5b94f250931434c3"
+    }
+  ]
+}

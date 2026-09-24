@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "slug": "late-for-dinner",
+  "title": "Late for Dinner",
+  "source": "stories/late-for-dinner/story.md",
+  "sourceSha256": "0f69480cabbd09807e30b8d2483c10d533c77781c0b1b01bf81b7ad9da7155b2",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story read. Rellan, Nerava and Cadren sustain the central hostage, quarter and marriage choices; their actions independently determine the outcome.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Household guard and carter",
+      "reason": "Recurring supporting witnesses and practical help; the guard injury and mule concern do not develop independent central choices. No separate main-cast sheet."
+    },
+    {
+      "name": "Mule, soldiers, officers, surgeons and horses",
+      "reason": "Brief or collective functional presence; no sustained individual main-cast identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/premise.md",
+      "entries": [
+        "Deep-time shared world LOCKED",
+        "Ordinary stories and memory LOCKED"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No exact Rellan, Nerava or Cadren entry found; local story facts only"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "rellan",
+      "name": "Rellan",
+      "role": "Civilian husband whose offer of quarter and dinner relationship resolve the hostage confrontation",
+      "selectionEvidence": [
+        {
+          "quote": "iron wedding ring, engraved with the broken spear",
+          "explanation": "Visible relational emblem."
+        },
+        {
+          "quote": "I command my word.",
+          "explanation": "Principal agency in surrender offer."
+        },
+        {
+          "quote": "Next time the road goes wrong, send for Nerava.",
+          "explanation": "Marriage resolution."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human man; precise age, skin and hair unspecified. Cut beneath jaw late in confrontation.",
+        "clothing": "Market coat, boots, iron wedding ring; dinner linen becomes stained surrender cloth.",
+        "equipment": "Iron ring with broken-spear engraving, stained linen, pear at dinner.",
+        "scale": "Ordinary adult human; no military power."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: iron wedding ring, engraved with the broken spear",
+        "Non-canon source fact: I command my word.",
+        "Non-canon source fact: Next time the road goes wrong, send for Nerava."
+      ],
+      "visualInterpretation": [
+        "Early-40s, warm medium-brown skin, soft round face, receding short curly copper-brown hair, clean shaven, comfortable average build.",
+        "Muted olive market coat, wine-brown waistcoat, cream shirt, brown trousers and boots; chosen personal design, not canon.",
+        "Ring on left fourth finger; jaw nick represented as a fine closed red line, no gore."
+      ],
+      "states": [
+        {
+          "name": "After quarter",
+          "description": "Dusty market clothes and stained linen, thin jaw nick."
+        },
+        {
+          "name": "Home",
+          "description": "Coat removed, same tired face; ordinary pear in hand under warm practical night light."
+        }
+      ],
+      "naming": {
+        "sourceName": "Rellan",
+        "provenance": "Exact name in finished source; no art-only renaming."
+      },
+      "recurrence": {
+        "identityKey": "late-for-dinner:rellan",
+        "links": [],
+        "evidence": "No shared-universe identity entry found; no matching-name inference."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+        },
+        {
+          "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+          "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+          "inspected": true,
+          "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+          "notes": "Inspected landscape; no scenery may enter character sheet."
+        },
+        {
+          "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+          "role": "Late-sunset directional light and oil palette only",
+          "inspected": true,
+          "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+          "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+        },
+        {
+          "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+          "role": "Home-state warm practical evening light only; no room or furniture",
+          "inspected": true,
+          "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+          "notes": "Actual interior painting inspected; no daylight substitution for night state."
+        },
+        {
+          "path": "stories/late-for-dinner/title-image.jpg",
+          "role": "Inspected symbolic cover, silhouette/pear/ring only; no clear facial likeness",
+          "inspected": true,
+          "sha256": "6ab4e3056736af0e4301e05df86cc8ab2570b466fee22a3c367207c3a19c987e",
+          "notes": "Silhouette of mounted Nerava and domestic pear/ring; do not borrow invented facial details or make her brightly armoured. Not sent for generation."
+        }
+      ],
+      "output": "stories/late-for-dinner/art/characters/rellan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit ONLY the indicated HOME state illumination in image1. Preserve the WHOLE rest of this character reference sheet: name/title, warm light ivory background, all campaign/sunset poses, anatomy, facial identity, hair and gear orientation, exact labels, broad oil technique, arrangement and props. Image2 is the actual NIGHT kitchen: a small local warm practical lamp reaches a limited portion of the person, while the rest falls into connected DIM COOLER grey-brown shadows. On the indicated home figure, darken the unlit side of face, neck, torso and limbs together into broad calm shadow masses; use only a small restrained warm glow on the lamp-facing cheek, fingers and nearby cloth, with lost shadow edges. It must clearly read as indoor NIGHT, not the same broadly daylit amber light as campaign. No scene, lamp object, darkness on the ivory background, new gear or universal amber rim. Indicated home state is the LARGE CENTRAL HALF-BODY HOLDING A PEAR labelled Home. Retain his same copper curls, round40s face, wine waistcoat, cream shirt, ordinary pear, pose and hands. Make only THIS pear-holding figure dimly lamp-lit, shadow side cool and deep but face readable. Leave the two After quarter full views, Wry/Frightened heads, wedding ring and linen studies exactly unchanged.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3bd00acb-d8aa-4f45-aaa9-766f8408f596.png",
+            "sha256": "4a7fa12a04fcbf1a8679d6b79f1b2a1f249be7a803b5a9c7864032244fe6d5c4",
+            "inspected": true,
+            "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+          },
+          {
+            "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+            "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+            "inspected": true,
+            "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Produce ONE 1536x1024 landscape CHARACTER REFERENCE SHEET on a UNIFORM LIGHT WARM IVORY folio ground. Large BLACK readable serif name heading and exact story subtitle \"Late for Dinner\". The paper stays light even where the CHARACTER has dim story lighting. Broad connected opaque oil masses, varied directional bristle strokes, substantial selective impasto with quieter joins, Canadian Group of Seven collection treatment; face/hair/metal as decisively painted as cloth. Kelro input is STYLE AND LAYOUT ONLY; do not copy his face, red coat, name, age or hair. Same-story paintings guide light/palette only. No scenery, room, terrain, floor patch, cast shadow puddle, palette swatches, glossy CGI, anime, photoreal face or uniformly bevel-lit paint chips. All full forms unclipped with breathing room, repeat the exact same one-person identity and proportions. Concise labels. Heading EXACT \"Rellan\". One early-40s medium-brown man with a soft ROUND face, receding short CURLY copper-brown hair, clean shaven, comfortable average build; distinctly unlike angular young Kelro. Muted olive thigh-length market coat, wine-brown waistcoat, cream linen shirt, brown trousers and boots. Two complete FRONT and REAR views labelled \"After quarter\", dusty cuffs/boots, same clothes and soft proportions; a fine small nick just below jaw. A third half-body \"Home\" has coat removed, SAME face and age, holding one ordinary pear, warm lamplight on him while background stays ivory. Two head studies Wry and Frightened. Small detail of his LEFT hand wearing an IRON wedding ring engraved with a BROKEN SPEAR, on fourth finger; another isolated rumpled cloth stained with cream/road dust, labelled \"Dinner linen\". Sunset low warm light softly touches upper figure planes but lower forms remain connected cool chalk-grey shadows, no heroic rim light. Home half-body gets restrained warm domestic night light. No weapon, armor, household scenery, foods beyond the one hand-held pear, or extra characters.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+              },
+              {
+                "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+                "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+                "inspected": true,
+                "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+                "notes": "Inspected landscape; no scenery may enter character sheet."
+              },
+              {
+                "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+                "role": "Late-sunset directional light and oil palette only",
+                "inspected": true,
+                "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+                "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+              },
+              {
+                "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+                "role": "Home-state warm practical evening light only; no room or furniture",
+                "inspected": true,
+                "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+                "notes": "Actual interior painting inspected; no daylight substitution for night state."
+              }
+            ],
+            "startedAt": "2026-09-24T02:35:19.081458+00:00",
+            "preflight": "Full source, prompt and review read after marker; actual cover, landscape, interior and style pixels inspected. Cover has no clear face; each original identity separately designed. Night/home versus sunset/campaign state lighting bound; side-specific hair, gear and stains prechecked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3bd00acb-d8aa-4f45-aaa9-766f8408f596.png",
+            "candidateSha256": "4a7fa12a04fcbf1a8679d6b79f1b2a1f249be7a803b5a9c7864032244fe6d5c4",
+            "completedAt": "2026-09-24T02:39:16.741454+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: same round middle-aged face, receding copper curls and soft civilian build across front/rear/home and heads.",
+              "Iron wedding ring detail bears broken-spear design; dusty olive coat, wine waistcoat, stained linen and hand-held pear remain source-compatible. Home state removes coat and uses warmer practical light.",
+              "Exact readable name/title and unclipped full views on ivory; large directional oil masses throughout skin/cloth, no scene or swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "reviewedAt": "2026-09-24T03:54:53.064826+00:00",
+              "finding": "Home states as broadly daylit as campaign; narrow correction to dim practical warm night light with connected cool shadows. All identities/paint/gear/anatomy passed."
+            }
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit ONLY the indicated HOME state illumination in image1. Preserve the WHOLE rest of this character reference sheet: name/title, warm light ivory background, all campaign/sunset poses, anatomy, facial identity, hair and gear orientation, exact labels, broad oil technique, arrangement and props. Image2 is the actual NIGHT kitchen: a small local warm practical lamp reaches a limited portion of the person, while the rest falls into connected DIM COOLER grey-brown shadows. On the indicated home figure, darken the unlit side of face, neck, torso and limbs together into broad calm shadow masses; use only a small restrained warm glow on the lamp-facing cheek, fingers and nearby cloth, with lost shadow edges. It must clearly read as indoor NIGHT, not the same broadly daylit amber light as campaign. No scene, lamp object, darkness on the ivory background, new gear or universal amber rim. Indicated home state is the LARGE CENTRAL HALF-BODY HOLDING A PEAR labelled Home. Retain his same copper curls, round40s face, wine waistcoat, cream shirt, ordinary pear, pose and hands. Make only THIS pear-holding figure dimly lamp-lit, shadow side cool and deep but face readable. Leave the two After quarter full views, Wry/Frightened heads, wedding ring and linen studies exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3bd00acb-d8aa-4f45-aaa9-766f8408f596.png",
+                "sha256": "4a7fa12a04fcbf1a8679d6b79f1b2a1f249be7a803b5a9c7864032244fe6d5c4",
+                "inspected": true,
+                "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+              },
+              {
+                "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+                "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+                "inspected": true,
+                "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+              }
+            ],
+            "startedAt": "2026-09-24T03:54:53.064826+00:00",
+            "preflight": "Root finding and actual selected sheet/night kitchen inspected. Precisely identified Home figures only; preserve sunset campaign and all accepted identity/anatomy/props. Source home scene is after arrival at night.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-212c759e-8fe1-49c5-a656-1575e81f2ab2.png",
+            "candidateSha256": "3c6a0e2072079c6d6da30ed6ca1cea824a5a4a138ddb894d1ad131675af8a91a",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: only Home pear-holding figure now has restrained warm local cheek/hand light and connected dim cool shadow masses across unlit face/waistcoat/shirt. Reads as domestic night.",
+              "Same identity, curls, pear and ordinary hands; campaign full views, heads, ring/broken-spear and linen retained. Exact headings, clean ivory and painting retained."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:06:24.027706+00:00",
+        "sourceSha256": "0f69480cabbd09807e30b8d2483c10d533c77781c0b1b01bf81b7ad9da7155b2",
+        "outputSha256": "3c6a0e2072079c6d6da30ed6ca1cea824a5a4a138ddb894d1ad131675af8a91a",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3bd00acb-d8aa-4f45-aaa9-766f8408f596.png",
+            "sha256": "4a7fa12a04fcbf1a8679d6b79f1b2a1f249be7a803b5a9c7864032244fe6d5c4",
+            "inspected": true,
+            "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+          },
+          {
+            "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+            "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+            "inspected": true,
+            "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: only Home pear-holding figure now has restrained warm local cheek/hand light and connected dim cool shadow masses across unlit face/waistcoat/shirt. Reads as domestic night.",
+          "Same identity, curls, pear and ordinary hands; campaign full views, heads, ring/broken-spear and linen retained. Exact headings, clean ivory and painting retained."
+        ],
+        "specificationSha256": "1c75de5c369e068bffcefea75342370b1709b9a46834c7fe25464243bb9f5739"
+      },
+      "outputSha256": "3c6a0e2072079c6d6da30ed6ca1cea824a5a4a138ddb894d1ad131675af8a91a"
+    },
+    {
+      "id": "nerava",
+      "name": "Nerava",
+      "role": "Feared general and Rellan’s wife, commands rescue and chooses to uphold quarter",
+      "selectionEvidence": [
+        {
+          "quote": "without a plume or bright armor",
+          "explanation": "Restrained campaign appearance."
+        },
+        {
+          "quote": "Five months had sharpened her face and put new silver at one temple.",
+          "explanation": "Face and hair state."
+        },
+        {
+          "quote": "Quarter stands",
+          "explanation": "Decisive choice."
+        },
+        {
+          "quote": "Without the officer’s coat and sword",
+          "explanation": "Home state differs from campaign."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman; campaign-sharpened face, new silver hair at one temple.",
+        "clothing": "Officer’s coat, sword belt, practical campaign attire; no plume or bright armour.",
+        "equipment": "Sword at campaign, removed for dinner; rides gray horse but horse is excluded from sheet.",
+        "scale": "Ordinary adult; no supernatural power."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: without a plume or bright armor",
+        "Non-canon source fact: Five months had sharpened her face and put new silver at one temple.",
+        "Non-canon source fact: Quarter stands",
+        "Non-canon source fact: Without the officer’s coat and sword"
+      ],
+      "visualInterpretation": [
+        "Early-40s woman, tan olive skin, long narrow face and strong straight brows, dark long hair tied low with loose front strands; silver at anatomical right temple.",
+        "Lean seasoned rider build, dark charcoal officer’s coat, muted grey shirt, brown riding trousers, dark boots; no shiny plate, insignia or plume invented.",
+        "Sword sheath consistently at anatomical left hip; home form coat/belt removed."
+      ],
+      "states": [
+        {
+          "name": "Campaign",
+          "description": "Plain officer’s coat and sword belt at late sunset."
+        },
+        {
+          "name": "Home",
+          "description": "Coat and sword removed, shirt sleeves, same exhausted face in warm night light."
+        }
+      ],
+      "naming": {
+        "sourceName": "Nerava",
+        "provenance": "Exact name in finished source; no art-only renaming."
+      },
+      "recurrence": {
+        "identityKey": "late-for-dinner:nerava",
+        "links": [],
+        "evidence": "No shared-universe identity entry found; no matching-name inference."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+        },
+        {
+          "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+          "role": "Late-sunset directional light and oil palette only",
+          "inspected": true,
+          "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+          "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+        },
+        {
+          "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+          "role": "Home-state warm practical evening light only; no room or furniture",
+          "inspected": true,
+          "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+          "notes": "Actual interior painting inspected; no daylight substitution for night state."
+        },
+        {
+          "path": "stories/late-for-dinner/title-image.jpg",
+          "role": "Inspected symbolic cover, silhouette/pear/ring only; no clear facial likeness",
+          "inspected": true,
+          "sha256": "6ab4e3056736af0e4301e05df86cc8ab2570b466fee22a3c367207c3a19c987e",
+          "notes": "Silhouette of mounted Nerava and domestic pear/ring; do not borrow invented facial details or make her brightly armoured. Not sent for generation."
+        }
+      ],
+      "output": "stories/late-for-dinner/art/characters/nerava.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit ONLY the indicated HOME state illumination in image1. Preserve the WHOLE rest of this character reference sheet: name/title, warm light ivory background, all campaign/sunset poses, anatomy, facial identity, hair and gear orientation, exact labels, broad oil technique, arrangement and props. Image2 is the actual NIGHT kitchen: a small local warm practical lamp reaches a limited portion of the person, while the rest falls into connected DIM COOLER grey-brown shadows. On the indicated home figure, darken the unlit side of face, neck, torso and limbs together into broad calm shadow masses; use only a small restrained warm glow on the lamp-facing cheek, fingers and nearby cloth, with lost shadow edges. It must clearly read as indoor NIGHT, not the same broadly daylit amber light as campaign. No scene, lamp object, darkness on the ivory background, new gear or universal amber rim. Indicated home states are the THIRD FULL BODY in plain grey shirt without coat/sword, labelled Home - coat and sword removed, AND the upper-right head labelled Tired warmth. Relight ONLY those TWO elements with consistent dim NIGHT practical glow and deeper connected cooler shadow masses. Keep her same face, low tied hair, silver at anatomical RIGHT temple, plain grey shirt/trousers, same pose. Leave both Campaign full figures, Command head, Halt signal and Sword belt exactly unchanged. Do not add coat, sword or a belt to Home.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d5518bd3-86a6-41c8-a5c7-c6b0096e23ad.png",
+            "sha256": "029205f7dacf7230a8fa86a9cdc394208219f95358b199a962445c61c0538ed2",
+            "inspected": true,
+            "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+          },
+          {
+            "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+            "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+            "inspected": true,
+            "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Produce ONE 1536x1024 landscape CHARACTER REFERENCE SHEET on a UNIFORM LIGHT WARM IVORY folio ground. Large BLACK readable serif name heading and exact story subtitle \"Late for Dinner\". The paper stays light even where the CHARACTER has dim story lighting. Broad connected opaque oil masses, varied directional bristle strokes, substantial selective impasto with quieter joins, Canadian Group of Seven collection treatment; face/hair/metal as decisively painted as cloth. Kelro input is STYLE AND LAYOUT ONLY; do not copy his face, red coat, name, age or hair. Same-story paintings guide light/palette only. No scenery, room, terrain, floor patch, cast shadow puddle, palette swatches, glossy CGI, anime, photoreal face or uniformly bevel-lit paint chips. All full forms unclipped with breathing room, repeat the exact same one-person identity and proportions. Concise labels. Heading EXACT \"Nerava\". One early-40s woman with TAN OLIVE skin, LONG NARROW campaign-sharpened face, strong straight brows, long DARK hair tied in a low plain tail with loose strands. New SILVER HAIR at her ANATOMICAL RIGHT TEMPLE only; keep this side consistent across views. Lean seasoned rider body, practical dark CHARCOAL officer coat, grey shirt, brown riding trousers, dark boots. NO plume, shiny plate, crown or ornamental uniform. Two full FRONT and REAR forms labelled \"Campaign\", ordinary sword sheathed at ANATOMICAL LEFT HIP (viewer right front, viewer left rear). Third full three-quarter form labelled \"Home — coat and sword removed\", same figure wearing grey shirt and trousers, same hair and silver temple, shoulders slightly loosened, no weapon or belt. Two heads Command and Tired warmth. Small hand study of calm two-finger halt signal, and isolated plain sword belt. Campaign views receive subdued late-sunset warm edge planes with broad connected deep cool shadows, no spectacular rim light. Home view has quiet warm practical night light with lost shadow edges. Background ALWAYS light warm ivory. No horse, terrain, army, room or another person.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+              },
+              {
+                "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+                "role": "Late-sunset directional light and oil palette only",
+                "inspected": true,
+                "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+                "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+              },
+              {
+                "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+                "role": "Home-state warm practical evening light only; no room or furniture",
+                "inspected": true,
+                "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+                "notes": "Actual interior painting inspected; no daylight substitution for night state."
+              }
+            ],
+            "startedAt": "2026-09-24T02:35:19.081458+00:00",
+            "preflight": "Full source, prompt and review read after marker; actual cover, landscape, interior and style pixels inspected. Cover has no clear face; each original identity separately designed. Night/home versus sunset/campaign state lighting bound; side-specific hair, gear and stains prechecked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d5518bd3-86a6-41c8-a5c7-c6b0096e23ad.png",
+            "candidateSha256": "029205f7dacf7230a8fa86a9cdc394208219f95358b199a962445c61c0538ed2",
+            "completedAt": "2026-09-24T02:39:16.741454+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: face and lean rider proportions consistent across campaign and home forms; silver streak remains at anatomical right temple in front and rear.",
+              "Sword sheath consistently at anatomical left hip; home view removes officer coat and sword, leaves ordinary shirt/trousers. Halt hand has two extended fingers and ordinary anatomy.",
+              "Muted dark practical coat without plume or shiny armour; campaign sunset and home warm shadows stay on figures. Legible name/title, ivory, selective impasto, no scene/swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "reviewedAt": "2026-09-24T03:54:53.064826+00:00",
+              "finding": "Home states as broadly daylit as campaign; narrow correction to dim practical warm night light with connected cool shadows. All identities/paint/gear/anatomy passed."
+            }
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit ONLY the indicated HOME state illumination in image1. Preserve the WHOLE rest of this character reference sheet: name/title, warm light ivory background, all campaign/sunset poses, anatomy, facial identity, hair and gear orientation, exact labels, broad oil technique, arrangement and props. Image2 is the actual NIGHT kitchen: a small local warm practical lamp reaches a limited portion of the person, while the rest falls into connected DIM COOLER grey-brown shadows. On the indicated home figure, darken the unlit side of face, neck, torso and limbs together into broad calm shadow masses; use only a small restrained warm glow on the lamp-facing cheek, fingers and nearby cloth, with lost shadow edges. It must clearly read as indoor NIGHT, not the same broadly daylit amber light as campaign. No scene, lamp object, darkness on the ivory background, new gear or universal amber rim. Indicated home states are the THIRD FULL BODY in plain grey shirt without coat/sword, labelled Home - coat and sword removed, AND the upper-right head labelled Tired warmth. Relight ONLY those TWO elements with consistent dim NIGHT practical glow and deeper connected cooler shadow masses. Keep her same face, low tied hair, silver at anatomical RIGHT temple, plain grey shirt/trousers, same pose. Leave both Campaign full figures, Command head, Halt signal and Sword belt exactly unchanged. Do not add coat, sword or a belt to Home.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d5518bd3-86a6-41c8-a5c7-c6b0096e23ad.png",
+                "sha256": "029205f7dacf7230a8fa86a9cdc394208219f95358b199a962445c61c0538ed2",
+                "inspected": true,
+                "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+              },
+              {
+                "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+                "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+                "inspected": true,
+                "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+              }
+            ],
+            "startedAt": "2026-09-24T03:54:53.064826+00:00",
+            "preflight": "Root finding and actual selected sheet/night kitchen inspected. Precisely identified Home figures only; preserve sunset campaign and all accepted identity/anatomy/props. Source home scene is after arrival at night.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-f7d48cae-9857-4bac-aeb6-870c5f0102f0.png",
+            "candidateSha256": "aee3b527bdf4c108247eae8a72f73690f0dc7b2bcc0116e169e9fe59b3dbbbe4",
+            "completedAt": "2026-09-24T04:06:24.027706+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: Home full body and Tired warmth portrait now have limited warm practical night glow plus deeper connected cool shadows, visibly different from campaign sunset.",
+              "Silver remains right temple, plain Home shirt/trousers with coat/sword removed. Campaign views, left-hip sword, Command portrait, halt hand, anatomy, exact labels and clean ivory retained."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:06:24.027706+00:00",
+        "sourceSha256": "0f69480cabbd09807e30b8d2483c10d533c77781c0b1b01bf81b7ad9da7155b2",
+        "outputSha256": "aee3b527bdf4c108247eae8a72f73690f0dc7b2bcc0116e169e9fe59b3dbbbe4",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d5518bd3-86a6-41c8-a5c7-c6b0096e23ad.png",
+            "sha256": "029205f7dacf7230a8fa86a9cdc394208219f95358b199a962445c61c0538ed2",
+            "inspected": true,
+            "role": "Exact immutable sheet; all content retained except specified home-state illumination"
+          },
+          {
+            "path": "stories/late-for-dinner/art/interiors/02-the-kitchen-table.png",
+            "sha256": "a8c69e6e7b0a4ba5ecd6ff15aae54f6bded5cad0bc137858181b049320de0112",
+            "inspected": true,
+            "role": "Actual same-story practical NIGHT kitchen lamp light and cooler shadow values only; no room"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: Home full body and Tired warmth portrait now have limited warm practical night glow plus deeper connected cool shadows, visibly different from campaign sunset.",
+          "Silver remains right temple, plain Home shirt/trousers with coat/sword removed. Campaign views, left-hip sword, Command portrait, halt hand, anatomy, exact labels and clean ivory retained."
+        ],
+        "specificationSha256": "366fee1acb8fbeb3c65c108db6fb4feb455b885a45abaf21bdff063992ac7a95"
+      },
+      "outputSha256": "aee3b527bdf4c108247eae8a72f73690f0dc7b2bcc0116e169e9fe59b3dbbbe4"
+    },
+    {
+      "id": "cadren",
+      "name": "Cadren",
+      "role": "Exhausted enemy captain whose hostage threat collapses into acceptance of quarter",
+      "selectionEvidence": [
+        {
+          "quote": "A narrow man in a battered officer’s coat",
+          "explanation": "Body and clothing."
+        },
+        {
+          "quote": "Blood darkened one sleeve",
+          "explanation": "Clothing state."
+        },
+        {
+          "quote": "The silver braid at his collar had been cut away in places",
+          "explanation": "Distinctive damaged officer trim."
+        },
+        {
+          "quote": "He took it as though it weighed more than his sword",
+          "explanation": "Cloth acceptance and surrender."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Narrow adult man; shaking hand, exhausted and frightened.",
+        "clothing": "Battered officer’s coat, partially removed silver collar braid, blood-darkened sleeve, muddy boots.",
+        "equipment": "Sword before surrender; stained dinner linen accepted at end.",
+        "scale": "Ordinary human."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: A narrow man in a battered officer’s coat",
+        "Non-canon source fact: Blood darkened one sleeve",
+        "Non-canon source fact: The silver braid at his collar had been cut away in places",
+        "Non-canon source fact: He took it as though it weighed more than his sword"
+      ],
+      "visualInterpretation": [
+        "Late-40s, sallow light olive complexion, gaunt long face, thinning straight dark-brown hair, short greying stubble.",
+        "Dun officer coat, muted brown shirt/trousers, worn dark boots; modest dark blood patch on left sleeve, not graphic injury.",
+        "No known military badge added; braid remains patchy, never restored."
+      ],
+      "states": [
+        {
+          "name": "Before surrender",
+          "description": "Battered coat, sword held low, exhausted vigilance."
+        },
+        {
+          "name": "Quarter",
+          "description": "Sword released, accepts stained linen; coat and wound-stained sleeve unchanged."
+        }
+      ],
+      "naming": {
+        "sourceName": "Cadren",
+        "provenance": "Exact name in finished source; no art-only renaming."
+      },
+      "recurrence": {
+        "identityKey": "late-for-dinner:cadren",
+        "links": [],
+        "evidence": "No shared-universe identity entry found; no matching-name inference."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+        },
+        {
+          "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+          "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+          "inspected": true,
+          "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+          "notes": "Inspected landscape; no scenery may enter character sheet."
+        },
+        {
+          "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+          "role": "Late-sunset directional light and oil palette only",
+          "inspected": true,
+          "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+          "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+        },
+        {
+          "path": "stories/late-for-dinner/title-image.jpg",
+          "role": "Inspected symbolic cover, silhouette/pear/ring only; no clear facial likeness",
+          "inspected": true,
+          "sha256": "6ab4e3056736af0e4301e05df86cc8ab2570b466fee22a3c367207c3a19c987e",
+          "notes": "Silhouette of mounted Nerava and domestic pear/ring; do not borrow invented facial details or make her brightly armoured. Not sent for generation."
+        }
+      ],
+      "output": "stories/late-for-dinner/art/characters/cadren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Produce ONE 1536x1024 landscape CHARACTER REFERENCE SHEET on a UNIFORM LIGHT WARM IVORY folio ground. Large BLACK readable serif name heading and exact story subtitle \"Late for Dinner\". The paper stays light even where the CHARACTER has dim story lighting. Broad connected opaque oil masses, varied directional bristle strokes, substantial selective impasto with quieter joins, Canadian Group of Seven collection treatment; face/hair/metal as decisively painted as cloth. Kelro input is STYLE AND LAYOUT ONLY; do not copy his face, red coat, name, age or hair. Same-story paintings guide light/palette only. No scenery, room, terrain, floor patch, cast shadow puddle, palette swatches, glossy CGI, anime, photoreal face or uniformly bevel-lit paint chips. All full forms unclipped with breathing room, repeat the exact same one-person identity and proportions. Concise labels. Heading EXACT \"Cadren\". One NARROW late-40s man, sallow light-olive skin, GAUNT long face, thinning straight dark-brown hair, short grey-brown stubble; exhausted rather than evil caricature. Battered DUN officer coat over muted brown shirt/trousers, muddy worn boots. Silver braid at collar has been CUT AWAY IN PATCHES, visibly interrupted. Modest dark dried BLOOD stain on anatomical LEFT sleeve, no gaping injury. Two unclipped full FRONT and REAR views labelled \"Before surrender\"; plain sword held LOW in right hand front, same coat/left-sleeve staining rear; rear sword can be partly occluded by right leg but never swap hands. A third half-body \"Quarter\" accepts rumpled stained cream dinner linen with both hands, sword absent. Two heads Defiant and Afraid, same gaunt face. Details interrupted silver collar braid and left stained cuff. Figure lighting: subdued sunset reaching upper planes from above the road cut, lower body in connected dusky chalk-grey shadow masses; do not brighten to noon or add orange-blue theatrical rims. Background stays light warm ivory. No insignia invented, soldiers, hostage, scene, table, or terrain.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+          },
+          {
+            "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+            "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+            "inspected": true,
+            "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+            "notes": "Inspected landscape; no scenery may enter character sheet."
+          },
+          {
+            "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+            "role": "Late-sunset directional light and oil palette only",
+            "inspected": true,
+            "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+            "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Produce ONE 1536x1024 landscape CHARACTER REFERENCE SHEET on a UNIFORM LIGHT WARM IVORY folio ground. Large BLACK readable serif name heading and exact story subtitle \"Late for Dinner\". The paper stays light even where the CHARACTER has dim story lighting. Broad connected opaque oil masses, varied directional bristle strokes, substantial selective impasto with quieter joins, Canadian Group of Seven collection treatment; face/hair/metal as decisively painted as cloth. Kelro input is STYLE AND LAYOUT ONLY; do not copy his face, red coat, name, age or hair. Same-story paintings guide light/palette only. No scenery, room, terrain, floor patch, cast shadow puddle, palette swatches, glossy CGI, anime, photoreal face or uniformly bevel-lit paint chips. All full forms unclipped with breathing room, repeat the exact same one-person identity and proportions. Concise labels. Heading EXACT \"Cadren\". One NARROW late-40s man, sallow light-olive skin, GAUNT long face, thinning straight dark-brown hair, short grey-brown stubble; exhausted rather than evil caricature. Battered DUN officer coat over muted brown shirt/trousers, muddy worn boots. Silver braid at collar has been CUT AWAY IN PATCHES, visibly interrupted. Modest dark dried BLOOD stain on anatomical LEFT sleeve, no gaping injury. Two unclipped full FRONT and REAR views labelled \"Before surrender\"; plain sword held LOW in right hand front, same coat/left-sleeve staining rear; rear sword can be partly occluded by right leg but never swap hands. A third half-body \"Quarter\" accepts rumpled stained cream dinner linen with both hands, sword absent. Two heads Defiant and Afraid, same gaunt face. Details interrupted silver collar braid and left stained cuff. Figure lighting: subdued sunset reaching upper planes from above the road cut, lower body in connected dusky chalk-grey shadow masses; do not brighten to noon or add orange-blue theatrical rims. Background stays light warm ivory. No insignia invented, soldiers, hostage, scene, table, or terrain.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+              },
+              {
+                "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+                "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+                "inspected": true,
+                "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+                "notes": "Inspected landscape; no scenery may enter character sheet."
+              },
+              {
+                "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+                "role": "Late-sunset directional light and oil palette only",
+                "inspected": true,
+                "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+                "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+              }
+            ],
+            "startedAt": "2026-09-24T02:35:19.081458+00:00",
+            "preflight": "Full source, prompt and review read after marker; actual cover, landscape, interior and style pixels inspected. Cover has no clear face; each original identity separately designed. Night/home versus sunset/campaign state lighting bound; side-specific hair, gear and stains prechecked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-7c5336be-59aa-4ea2-8d4b-c33cd9ef0b30.png",
+            "candidateSha256": "fc6c7df4896259e03d9ace894286fca893c9513b2e7e0da58af17b15b1667754",
+            "completedAt": "2026-09-24T02:39:16.741454+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: narrow older officer with consistent gaunt face, thinning brown hair and greying stubble in every view.",
+              "Interrupted silver braid and blood-darkened anatomical left sleeve maintained front/rear; sword held in right hand in both before-surrender views, absent from Quarter hands holding linen.",
+              "Source-driven exhausted/fearful expressions and dun campaign clothing, broad connected paint and restrained light. Exact readable heading/title, unclipped whole forms, ivory and no scenery or swatches."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T02:39:16.741454+00:00",
+        "sourceSha256": "0f69480cabbd09807e30b8d2483c10d533c77781c0b1b01bf81b7ad9da7155b2",
+        "outputSha256": "fc6c7df4896259e03d9ace894286fca893c9513b2e7e0da58af17b15b1667754",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved character-sheet oil handling and ivory layout only; never identity, clothes or name",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "notes": "Inspected actual saved pixels; broad painted planes, thick directional marks and quiet joining passages."
+          },
+          {
+            "path": "stories/late-for-dinner/art/landscapes/01-plovers-cut.png",
+            "role": "Story chalk-cut reflected light, subdued shadow families and oil rhythm only",
+            "inspected": true,
+            "sha256": "1446fe7128546aa7754f6917b95c32d2dc6c421f5f7d2d59c62a62680dee56a9",
+            "notes": "Inspected landscape; no scenery may enter character sheet."
+          },
+          {
+            "path": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
+            "role": "Late-sunset directional light and oil palette only",
+            "inspected": true,
+            "sha256": "de4f1e5f81cfd861812e510c53ed727cd49e38fe223151290b55f093cd512ddb",
+            "notes": "Inspected source-supported sunset; broad dark connected shadows remain on people."
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: narrow older officer with consistent gaunt face, thinning brown hair and greying stubble in every view.",
+          "Interrupted silver braid and blood-darkened anatomical left sleeve maintained front/rear; sword held in right hand in both before-surrender views, absent from Quarter hands holding linen.",
+          "Source-driven exhausted/fearful expressions and dun campaign clothing, broad connected paint and restrained light. Exact readable heading/title, unclipped whole forms, ivory and no scenery or swatches."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "e19969bf4d35d70bcf401f08ab178d9ef37b51517189e1d9c5c4ec0e1f5088a7"
+      },
+      "outputSha256": "fc6c7df4896259e03d9ace894286fca893c9513b2e7e0da58af17b15b1667754"
+    }
+  ]
+}

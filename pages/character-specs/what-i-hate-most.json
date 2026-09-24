@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-i-hate-most",
+  "title": "What I Hate Most",
+  "source": "stories/what-i-hate-most/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished lockedbundle/storyprompt read. LOCKED character/rule entries read; no original visualinputs (songs tonal only, lyriccontents notneeded for visualbrief). Cover and predawnward oil inspected. Only2main identities; select source inactivepostdefense rest.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#queen-draxenne",
+    "universe/characters.md#night-sovereign-ombria",
+    "universe/rules.md#draxennes-living-cindercraft",
+    "universe/rules.md#ombrias-living-shadow-planes"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Unnamed crews and evacuees",
+      "reason": "Collectivebackground, no sustained individualidentity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "queen-draxenne",
+      "name": "Queen Draxenne",
+      "role": "Cinder March ruler and living cindercraft user",
+      "form": "39-year-old adult human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-nine",
+          "explanation": "Exactage."
+        },
+        {
+          "quote": "Draxenne's fingers were wrapped in clean linen.",
+          "explanation": "Selected aftermath state."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Age39; appearanceotherwiseunfixed byauthority; exhausted aftercasting.",
+        "clothing": "Glovesduringwork, fingersbandagedcleanlinen afterward; practicalcoat/boots art-only.",
+        "state": "Afterall12platesused, no survivingplateprop oractivecinder."
+      },
+      "visualInterpretation": [
+        "Cover LEFT woman's warmbrownskin/angularface/darkwaves as identitydesign; mature39, tailoredsooty deepumbercoat/rustwaistcoat/darktrousers.",
+        "No crown/courtweapon needed; both hand linen wraps mark source workcost, no blood."
+      ],
+      "explicitCanon": [
+        "universe/characters.md#queen-draxenne",
+        "universe/rules.md#draxennes-living-cindercraft"
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Post-defense rest before dawn, bothhandscleanlinen, no activecinder/remainingplates."
+        }
+      ],
+      "references": [],
+      "recurrence": {
+        "identityKey": "what-i-hate-most:queen-draxenne",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/what-i-hate-most/art/characters/queen-draxenne.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact1536x1024, heading/title/bodyposes/wholeboots, sourcefaceidentity and allclothes/props. Rebuild ALL skin, eyelids, lashes, iris, eyebrows and lips in LARGE MATTE OPAQUE BRISTLE OIL SHAPES like IMAGE2's broadfacialpaint. Paint paletteknifeblocks30-60pixelswide acrossforehead/cheeks/jaw, simplematteeyeshapes insteadof photographedweteyes or individualeyelashes, no glassylips or cosmeticsoftskin. Image2 supplies PAINT HANDLING ONLY, never person/nose/colors/clothing. Keep original warmbrown39yearoldface/longblackwaves, sourcebothhands bandaged. EXTEND CLEAN LINEN wrapping frompalms around each individual FINGER untilnear fingertip onbothhands infront/rear; preserve naturalfivefinger silhouette with individuallywrapped digits, baretinyfingertipsonly, no blood/injuryvisible. BeforeDAWN light: two thirdsface/clothing in connected DARK mutedSLATEBLUE/VIOLET shadow, smallsoftgrayblue planes facingearlylight, onlytinyrestrained ochreaccent, no daytimebeautyfill or rimlight. BrightwarmIVORY backgroundunchanged withnosetting/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf5efa39-1c51-4533-b714-6ce157e86e31.png",
+            "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+            "sha256": "962044f9eca53d4af4960eaf1803c43348e49dcfbfb59fcc4966fd834d67fe99",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:08:31.697330+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Queen Draxenne\"; title \"What I Hate Most\"; role \"Cinder March ruler\". ONE ADULT woman EXACTLY39, same warmBROWN facialidentity as LEFT woman IMAGE2, angularcheekbone/strongnose/fullmouth, darkbrowneyes, long DARKBLACK wavyhair looselytiedlow. Mature face with subtleeyecornerlines, tiredwryexpression. Practical soot-marked DEEP UMBER fitted longworkCOAT over mutedRUST waistcoat/plainshirt, charcoaltrousers and brownboots; no crown/armor/weapon. BOTH hands/fingers wrapped in CLEAN offwhiteLINEN aftercastingburns, no exposedwounds/blood. Handsrest lowrelaxed. Fullfront/rear bodies, large sameface, isolated clean linenHANDWRAP fabric detail (not a detachedanatomyhand), no ceramicplatesremaining. She is humanpresentingliving ruler, no goddess/flamehair/glowingeyes.\nSelected REST AFTER defense before dawn, magic fullyINACTIVE. Keep skin/clothes mostlycool DARK violet/slateblue shadow with softgrayblue predawnplanes and only restrained mutedochre nearbypracticallight. No blaze/aura/autonomousshadow/pressuremap/room. Everyface/eyes/hands/boots painted MATTE with BROAD opaque directionaloil strokes, no photorealness or smoothbeautyskin. Brightwarmivory, no floorpatches/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
+                "role": "inspected primary broad opaque oil and cool predawn/warm practicallight contrast, no room",
+                "inspected": true,
+                "sha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235"
+              },
+              {
+                "path": "stories/what-i-hate-most/title-image.jpg",
+                "role": "inspected faces only: LEFT Draxenne39, RIGHT Ombria42; source rules override decorative cover magic, no photo/CGI style",
+                "inspected": true,
+                "sha256": "dde1041a9681544721e26ae1fe69984d4a0db7bb7aaa07dc7164c7b5a715bfdd"
+              }
+            ],
+            "preflight": [
+              "Full lockedsource and prompt/authority read. Exact39/42age, source work aftermath: Draxenne bandages, Ombria cup/blackcoat, no active magic or plate left afterall12spent.",
+              "2 inspectedrefs, cover only distinct facialdesign; broadmatte oil primary, cool predawn character-onlyivory, no divinepowers or source edits."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf5efa39-1c51-4533-b714-6ce157e86e31.png",
+            "outputSha256": "962044f9eca53d4af4960eaf1803c43348e49dcfbfb59fcc4966fd834d67fe99",
+            "finishedAt": "2026-09-24T10:22:34.784805+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate source identities/costumes/wholebodies pass; facial rendering still has photographic eyelash/eye/lip finish under shallowpaint. Repaint allfaceplanes matte/coarser at sameproportions; coolpredawnshadows stronger.",
+              "Source fingers are wrapped, candidate wraps mainlywrist/palm with barefingers. Extendcleanlinen along individualfingers, leaving only fingertips/neutralnoinjury."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T10:22:36.672765+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact1536x1024, heading/title/bodyposes/wholeboots, sourcefaceidentity and allclothes/props. Rebuild ALL skin, eyelids, lashes, iris, eyebrows and lips in LARGE MATTE OPAQUE BRISTLE OIL SHAPES like IMAGE2's broadfacialpaint. Paint paletteknifeblocks30-60pixelswide acrossforehead/cheeks/jaw, simplematteeyeshapes insteadof photographedweteyes or individualeyelashes, no glassylips or cosmeticsoftskin. Image2 supplies PAINT HANDLING ONLY, never person/nose/colors/clothing. Keep original warmbrown39yearoldface/longblackwaves, sourcebothhands bandaged. EXTEND CLEAN LINEN wrapping frompalms around each individual FINGER untilnear fingertip onbothhands infront/rear; preserve naturalfivefinger silhouette with individuallywrapped digits, baretinyfingertipsonly, no blood/injuryvisible. BeforeDAWN light: two thirdsface/clothing in connected DARK mutedSLATEBLUE/VIOLET shadow, smallsoftgrayblue planes facingearlylight, onlytinyrestrained ochreaccent, no daytimebeautyfill or rimlight. BrightwarmIVORY backgroundunchanged withnosetting/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf5efa39-1c51-4533-b714-6ce157e86e31.png",
+                "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+                "sha256": "962044f9eca53d4af4960eaf1803c43348e49dcfbfb59fcc4966fd834d67fe99",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual firstpixels inspected; facepaint rebuild uses purestylerole excludingdonoridentity. Source age39/42 and inactiveafterdefense state unchanged; Draxennefingerwrap source corrected.",
+              "2 inspectedrefs, exactlayout/fullbodies/personalitem and plainivory, no activecinder/shadowplane."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c9cb1f17-1250-4f4c-b50a-dd14376b2184.png",
+            "outputSha256": "af6d8925b80a61684ae62ff37d66356b222aca3d20986d849d48ae26fde3ebc2",
+            "finishedAt": "2026-09-24T10:34:30.888011+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: facial planes rebuilt with broad opaque strokes matching clothing, cover facial identity remains distinct, cool violet/slate predawn values and ordinary matteeyes. Completebodyviews, exactfullname/title, cleanivory nofloor/scenery/swatches.",
+              "39-year-old source aftermath: both hands now include cleanlinen acrossfingersegments withsmalltipsvisible, no blood or activecinder/unusedplates.",
+              "LOCKED source/character/magic authority preserved; no source edits."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c9cb1f17-1250-4f4c-b50a-dd14376b2184.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "402d68617607a21d312a126ab59f6d892fd23d0cdb43b5821635fe1b0a696746",
+        "outputSha256": "af6d8925b80a61684ae62ff37d66356b222aca3d20986d849d48ae26fde3ebc2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-bf5efa39-1c51-4533-b714-6ce157e86e31.png",
+            "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+            "sha256": "962044f9eca53d4af4960eaf1803c43348e49dcfbfb59fcc4966fd834d67fe99",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: facial planes rebuilt with broad opaque strokes matching clothing, cover facial identity remains distinct, cool violet/slate predawn values and ordinary matteeyes. Completebodyviews, exactfullname/title, cleanivory nofloor/scenery/swatches.",
+          "39-year-old source aftermath: both hands now include cleanlinen acrossfingersegments withsmalltipsvisible, no blood or activecinder/unusedplates.",
+          "LOCKED source/character/magic authority preserved; no source edits."
+        ],
+        "specificationSha256": "0f1b0976b15b047f40dfcc5466cf8eed106364d3a120db23276a7b3451d848aa"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "af6d8925b80a61684ae62ff37d66356b222aca3d20986d849d48ae26fde3ebc2"
+    },
+    {
+      "id": "night-sovereign-ombria",
+      "name": "Night-Sovereign Ombria",
+      "role": "council-appointed ward officeholder",
+      "form": "42-year-old adult human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "Forty-two years old",
+          "explanation": "Exactage."
+        },
+        {
+          "quote": "Her black coat streamed in the grit.",
+          "explanation": "Source blackcoat."
+        },
+        {
+          "quote": "Ombria held a steaming cup between both palms",
+          "explanation": "Aftermath sourceprop."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "42, pale severe composedface, exhausted/cold; grayfingertips duringcasting.",
+        "clothing": "Blackcoat and boots, barehands; modestwardrobe.",
+        "equipment": "Ordinary steamingcup, no activeplane during selectedaftermath."
+      },
+      "visualInterpretation": [
+        "Cover RIGHT woman's pale angularface/darkhair as design; moderatecrowsfeet and tired42eyes, blackhair inpracticalloosebun.",
+        "Civicoffice not divinequeen; no crown/halo/spikes/eyeglow. Ashblackcoat over slateplainankle-skirt."
+      ],
+      "explicitCanon": [
+        "universe/characters.md#night-sovereign-ombria",
+        "universe/rules.md#ombrias-living-shadow-planes"
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Post-defense warminghands oncup before dawn, allplanesreleased."
+        }
+      ],
+      "references": [],
+      "recurrence": {
+        "identityKey": "what-i-hate-most:night-sovereign-ombria",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/what-i-hate-most/art/characters/night-sovereign-ombria.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact1536x1024, heading/title/bodyposes/wholeboots, sourcefaceidentity and allclothes/props. Rebuild ALL skin, eyelids, lashes, iris, eyebrows and lips in LARGE MATTE OPAQUE BRISTLE OIL SHAPES like IMAGE2's broadfacialpaint. Paint paletteknifeblocks30-60pixelswide acrossforehead/cheeks/jaw, simplematteeyeshapes insteadof photographedweteyes or individualeyelashes, no glassylips or cosmeticsoftskin. Image2 supplies PAINT HANDLING ONLY, never person/nose/colors/clothing. Keep originalVERY PALE42yearoldface/blackhair/longblackcoat, no tanbrownskin fromimage2. Sourcecupandbarehands unchanged, no crown/halo/magic. BeforeDAWN light: two thirdsface/clothing in connected DARK mutedSLATEBLUE/VIOLET shadow, smallsoftgrayblue planes facingearlylight, onlytinyrestrained ochreaccent, no daytimebeautyfill or rimlight. BrightwarmIVORY backgroundunchanged withnosetting/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b400da1e-201a-41c5-a9d2-1d8114cd9807.png",
+            "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+            "sha256": "9e0cde6b5af60c5d0dce80c7ce094e0ac21fd191740b5092b82117044bff62a4",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:08:31.700875+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Night-Sovereign Ombria\"; title \"What I Hate Most\"; role \"Vantress ward officer\". ONE ADULT woman EXACTLY42, same VERY PALE cool-toned face as RIGHT woman IMAGE2: severeangularjaw/straightlongnose, mattegrayeyes, subtleage42eyecornerlines, exhaustedcomposedexpression. BLACKhair looselypinnedback inpracticalbun, loosewindstrands. Long plain highcollared BLACK COAT over SLATE anklelengthskirt and practicalblackboots, plainshirtsleeves. NO crown/tiara/halo/wings/regalia; Night-Sovereign is council-appointed CIVIC workoffice, not divine. BARE hands cup ordinary EARTHENWARE MUG centeredatwaist betweenbothpalms, smallsteamonlyabovemug. Completefront/rear, largematchingface, isolated ordinarywarmmug (no face/body). No castshadowplanes, no magicorbs or autonomousblackwings.\nSelected REST AFTER defense before dawn, magic fullyINACTIVE. Keep skin/clothes mostlycool DARK violet/slateblue shadow with softgrayblue predawnplanes and only restrained mutedochre nearbypracticallight. No blaze/aura/autonomousshadow/pressuremap/room. Everyface/eyes/hands/boots painted MATTE with BROAD opaque directionaloil strokes, no photorealness or smoothbeautyskin. Brightwarmivory, no floorpatches/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
+                "role": "inspected primary broad opaque oil and cool predawn/warm practicallight contrast, no room",
+                "inspected": true,
+                "sha256": "0f40363e83b8cf3108fa005c64d1ef293e556dd203fdefd6cbc6183f6bbea235"
+              },
+              {
+                "path": "stories/what-i-hate-most/title-image.jpg",
+                "role": "inspected faces only: LEFT Draxenne39, RIGHT Ombria42; source rules override decorative cover magic, no photo/CGI style",
+                "inspected": true,
+                "sha256": "dde1041a9681544721e26ae1fe69984d4a0db7bb7aaa07dc7164c7b5a715bfdd"
+              }
+            ],
+            "preflight": [
+              "Full lockedsource and prompt/authority read. Exact39/42age, source work aftermath: Draxenne bandages, Ombria cup/blackcoat, no active magic or plate left afterall12spent.",
+              "2 inspectedrefs, cover only distinct facialdesign; broadmatte oil primary, cool predawn character-onlyivory, no divinepowers or source edits."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b400da1e-201a-41c5-a9d2-1d8114cd9807.png",
+            "outputSha256": "9e0cde6b5af60c5d0dce80c7ce094e0ac21fd191740b5092b82117044bff62a4",
+            "finishedAt": "2026-09-24T10:22:34.787473+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate source identities/costumes/wholebodies pass; facial rendering still has photographic eyelash/eye/lip finish under shallowpaint. Repaint allfaceplanes matte/coarser at sameproportions; coolpredawnshadows stronger.",
+              "Source pale42face/blackcoat/cup/noactiveplanes pass; do not add regalia."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T10:22:36.677083+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only, preserve exact1536x1024, heading/title/bodyposes/wholeboots, sourcefaceidentity and allclothes/props. Rebuild ALL skin, eyelids, lashes, iris, eyebrows and lips in LARGE MATTE OPAQUE BRISTLE OIL SHAPES like IMAGE2's broadfacialpaint. Paint paletteknifeblocks30-60pixelswide acrossforehead/cheeks/jaw, simplematteeyeshapes insteadof photographedweteyes or individualeyelashes, no glassylips or cosmeticsoftskin. Image2 supplies PAINT HANDLING ONLY, never person/nose/colors/clothing. Keep originalVERY PALE42yearoldface/blackhair/longblackcoat, no tanbrownskin fromimage2. Sourcecupandbarehands unchanged, no crown/halo/magic. BeforeDAWN light: two thirdsface/clothing in connected DARK mutedSLATEBLUE/VIOLET shadow, smallsoftgrayblue planes facingearlylight, onlytinyrestrained ochreaccent, no daytimebeautyfill or rimlight. BrightwarmIVORY backgroundunchanged withnosetting/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b400da1e-201a-41c5-a9d2-1d8114cd9807.png",
+                "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+                "sha256": "9e0cde6b5af60c5d0dce80c7ce094e0ac21fd191740b5092b82117044bff62a4",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-way-around/art/characters/tressa.png",
+                "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+                "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual firstpixels inspected; facepaint rebuild uses purestylerole excludingdonoridentity. Source age39/42 and inactiveafterdefense state unchanged; Draxennefingerwrap source corrected.",
+              "2 inspectedrefs, exactlayout/fullbodies/personalitem and plainivory, no activecinder/shadowplane."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8eb1d3e7-7c72-42ba-996a-22ce82bb48ed.png",
+            "outputSha256": "7b456236dc598253fc2dea5b2053963d7abcd75bca17f6045d22a414be1985c4",
+            "finishedAt": "2026-09-24T10:34:30.905293+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: facial planes rebuilt with broad opaque strokes matching clothing, cover facial identity remains distinct, cool violet/slate predawn values and ordinary matteeyes. Completebodyviews, exactfullname/title, cleanivory nofloor/scenery/swatches.",
+              "42-year-old pale source wardofficer in blackcoat holds ordinary warmcup; allshadowplanes inactive, no divine/regalia additions.",
+              "LOCKED source/character/magic authority preserved; no source edits."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-8eb1d3e7-7c72-42ba-996a-22ce82bb48ed.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "402d68617607a21d312a126ab59f6d892fd23d0cdb43b5821635fe1b0a696746",
+        "outputSha256": "7b456236dc598253fc2dea5b2053963d7abcd75bca17f6045d22a414be1985c4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b400da1e-201a-41c5-a9d2-1d8114cd9807.png",
+            "role": "inspected first candidate; original identity/costume/layout, target broadpaint/dimcoollight and sourcefingers forDraxenne",
+            "sha256": "9e0cde6b5af60c5d0dce80c7ce094e0ac21fd191740b5092b82117044bff62a4",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-way-around/art/characters/tressa.png",
+            "role": "inspected broadopaque facialoil paint ONLY, excludes identity/skincolor/hair/clothes",
+            "sha256": "ce05c9f722dc61f6ae0dbe2e0163e050f65262ebe79652b2ba5aaacf75ddca10",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: facial planes rebuilt with broad opaque strokes matching clothing, cover facial identity remains distinct, cool violet/slate predawn values and ordinary matteeyes. Completebodyviews, exactfullname/title, cleanivory nofloor/scenery/swatches.",
+          "42-year-old pale source wardofficer in blackcoat holds ordinary warmcup; allshadowplanes inactive, no divine/regalia additions.",
+          "LOCKED source/character/magic authority preserved; no source edits."
+        ],
+        "specificationSha256": "e4e6f61748969490f82a8190154e71bef815331c7e82af45c7cad8fb615cbc71"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "7b456236dc598253fc2dea5b2053963d7abcd75bca17f6045d22a414be1985c4"
+    }
+  ],
+  "sourceSha256": "402d68617607a21d312a126ab59f6d892fd23d0cdb43b5821635fe1b0a696746"
+}

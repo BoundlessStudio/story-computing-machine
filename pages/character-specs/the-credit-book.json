@@ -1,0 +1,1003 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-credit-book",
+  "title": "The Credit Book",
+  "source": "stories/the-credit-book/story.md",
+  "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source, recorded prompt and passing review read after false marker. Five named figures carry practical plan, negotiation and relationship stakes: Lutrel, Orlena, Brisken, Fodric and Dorbett.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Guild man, spoon customer, spice seller daughter, Brisken sons, shop assistants and other creditors/customers",
+      "reason": "Brief functional or supportive contributions, no sustained central arc comparable to five named main cast."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No five-name matches found; source review marks all new; no shared identity implied"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+      "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+      "inspected": true,
+      "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original",
+      "displayName": "codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+      "status": "resolved",
+      "recoveryProvenance": "Coordinator recovered exact PNG from Sep20 12:28 archived source rollout prefix01a0bfa6, zero-based line8 user input_image",
+      "inspection": "Actual original inspected: bridge city/green valley daylight with cool river reflected light. No character appearance; role limited to Lutrel errand daylight palette, never scene inclusion."
+    }
+  ],
+  "characters": [
+    {
+      "id": "lutrel",
+      "name": "Lutrel",
+      "role": "Adult granddaughter, cookshop worker and organiser of favours",
+      "selectionEvidence": [
+        {
+          "quote": "Lutrel had worked beside her grandmother for twelve years",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "a book so swollen that the string round it would no longer tie.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "the advance tied inside her coat.",
+          "explanation": "Direct source identity/feature/state/action."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult granddaughter, twelve years working with grandmother; appearance otherwise unspecified.",
+        "clothing": "Practical work clothes, coat with advance tied inside; art design below.",
+        "equipment": "Swollen old credit book loose string, coins, covered lunch pots for delivery; large cauldron carried with grandmother only in source, no unsupported solo heavy lift.",
+        "states": "Daytime errands/working cookshop, tired but newly receptive to favours; evening welcome to penniless customer."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Lutrel had worked beside her grandmother for twelve years",
+        "Non-canon source fact: a book so swollen that the string round it would no longer tie.",
+        "Non-canon source fact: the advance tied inside her coat."
+      ],
+      "visualInterpretation": [
+        "Age25, medium tan-brown skin, long nose, prominent ears, thick brows, wavy dark brown hair in loose single braid; tall wiry build.",
+        "Ochre blouse, faded navy walking coat, brown wool skirt, practical scuffed boots; family resemblance to Orlena subtle, not same age/face."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Daytime errands/working cookshop, tired but newly receptive to favours; evening welcome to penniless customer."
+        }
+      ],
+      "naming": {
+        "sourceName": "Lutrel",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-credit-book:lutrel",
+        "links": [],
+        "evidence": "No matches in universe/frozen name memory/current character specs; source review says new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+          "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+          "inspected": true,
+          "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+        },
+        {
+          "path": "stories\\the-credit-book\\title-image.jpg",
+          "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+          "inspected": true,
+          "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+          "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "inspected": true,
+          "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+          "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "inspected": true,
+          "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+          "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "inspected": true,
+          "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+        }
+      ],
+      "output": "stories/the-credit-book/art/characters/lutrel.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T07:22:02.873478+00:00",
+        "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+        "outputSha256": "20734182a2634f3471f2282500c7a8d34c70cd5a6adf3d3ccc6ba0471b40d891",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+            "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+            "inspected": true,
+            "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+          },
+          {
+            "path": "stories\\the-credit-book\\title-image.jpg",
+            "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+            "inspected": true,
+            "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: adult25 braid/face/body consistent, source swollen book/loose cord and advance inside coat, small covered pot, useful hands, no magic/status drift.",
+          "Warm/cool story daylight, broad matte paint, exact headings and ivory no scenery/ground."
+        ],
+        "specificationSha256": "9616de5f6bc0a67a2e08cf6e16c06c8fedbf40ae8ee6a2e8c55a86aa22ccbc2f"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Lutrel. One ADULT woman25, tall wiry build, medium tan-brown skin, long nose, prominent ears, thick eyebrows, wavy dark-brown hair in loose single braid. Ochre work blouse, faded NAVY walking coat, brown wool skirt and scuffed practical boots. Three full-body front/back/three-quarter views at daytime errands, same anatomy and braid; main front carries swollen worn brown LEATHER CREDIT BOOK from reference3 with thick uneven pages and string TOO SHORT TO TIE, ends loose. No legible invented debts. One coat-open hand detail shows small ADVANCE coin bundle tied INSIDE coat, no external treasure bag. Heads Determined and Listening, same adult age. Covered cooking pot small equipment detail if space, not huge cauldron held alone. DAYLIGHT warm planes and cool river-grey reflected shadow as references1/2, broad matte oils, no original city transferred. No grandmother/other person.",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+            "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+            "inspected": true,
+            "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+          },
+          {
+            "path": "stories\\the-credit-book\\title-image.jpg",
+            "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+            "inspected": true,
+            "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Lutrel. One ADULT woman25, tall wiry build, medium tan-brown skin, long nose, prominent ears, thick eyebrows, wavy dark-brown hair in loose single braid. Ochre work blouse, faded NAVY walking coat, brown wool skirt and scuffed practical boots. Three full-body front/back/three-quarter views at daytime errands, same anatomy and braid; main front carries swollen worn brown LEATHER CREDIT BOOK from reference3 with thick uneven pages and string TOO SHORT TO TIE, ends loose. No legible invented debts. One coat-open hand detail shows small ADVANCE coin bundle tied INSIDE coat, no external treasure bag. Heads Determined and Listening, same adult age. Covered cooking pot small equipment detail if space, not huge cauldron held alone. DAYLIGHT warm planes and cool river-grey reflected shadow as references1/2, broad matte oils, no original city transferred. No grandmother/other person.",
+            "references": [
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+                "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+                "inspected": true,
+                "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+                "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+                "inspected": true,
+                "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+              },
+              {
+                "path": "stories\\the-credit-book\\title-image.jpg",
+                "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+                "inspected": true,
+                "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:51:17.844273+00:00",
+            "preflight": "Full source/prompt/review read; actual original/cover/3 interiors inspected. Five distinct age/face/silhouette designs, source hand injury/cuff/key/credit-book/boot states bound. Daylight vs limited evening hearth figure light, one identity and ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3adc9793-1146-46ce-b771-8d3f75538c0e.png",
+            "candidateSha256": "20734182a2634f3471f2282500c7a8d34c70cd5a6adf3d3ccc6ba0471b40d891",
+            "completedAt": "2026-09-24T07:22:02.873478+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: adult25 braid/face/body consistent, source swollen book/loose cord and advance inside coat, small covered pot, useful hands, no magic/status drift.",
+              "Warm/cool story daylight, broad matte paint, exact headings and ivory no scenery/ground."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "20734182a2634f3471f2282500c7a8d34c70cd5a6adf3d3ccc6ba0471b40d891"
+    },
+    {
+      "id": "orlena",
+      "name": "Orlena",
+      "role": "Grandmother, cookshop owner of forty years",
+      "selectionEvidence": [
+        {
+          "quote": "the old burn, the bent finger",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "Forty years of this",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "Flakes fell down her apron.",
+          "explanation": "Direct source identity/feature/state/action."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Older grandmother, old hand burn and bent finger explicitly, side/digit unspecified in prose.",
+        "clothing": "Working apron, plain practical cook clothing; no luxury/status costume.",
+        "equipment": "Credit book, bread knife/bowl/ladle and cauldron as cook tools; source end eats stew and favored crust portion.",
+        "states": "Working in daylight, stubborn/grieving lost shop, final evening eating among friends."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: the old burn, the bent finger",
+        "Non-canon source fact: Forty years of this",
+        "Non-canon source fact: Flakes fell down her apron."
+      ],
+      "visualInterpretation": [
+        "Age68, short stocky warm brown woman, broad cheeks/low broad nose, small dark eyes, tightly curly iron-grey hair in practical bun.",
+        "Dark forest-green rolled-sleeve dress and heavily used terra-ochre apron. Art-consistent old burn on LEFT hand back; bent RIGHT index finger, all other digits ordinary."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Working in daylight, stubborn/grieving lost shop, final evening eating among friends."
+        }
+      ],
+      "naming": {
+        "sourceName": "Orlena",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-credit-book:orlena",
+        "links": [],
+        "evidence": "No matches in universe/frozen name memory/current character specs; source review says new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+          "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+          "inspected": true,
+          "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+        },
+        {
+          "path": "stories\\the-credit-book\\title-image.jpg",
+          "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+          "inspected": true,
+          "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+          "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "inspected": true,
+          "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+          "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "inspected": true,
+          "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+          "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "inspected": true,
+          "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+        }
+      ],
+      "output": "stories/the-credit-book/art/characters/orlena.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T08:14:14.252792+00:00",
+        "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+        "outputSha256": "e31836f6f04aa97d44aa3431b26de2972977a28cfaae33496fd43541606ea5ef",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9afa0190-65be-4092-86f1-e2746d0cd68f.png",
+            "sha256": "cc86030e91560cfd0949ad48320403ea7f14c2e81e8471748f76ce4c56cd7e49",
+            "inspected": true,
+            "role": "Actual near-final sheet, mirror isolated left dorsal hand only"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: lower-left isolated burned LEFT dorsal hand now has thumb toward viewer right and five digits. Lower-right RIGHT palm has thumb toward viewer right, bent index adjacent to thumb, and three other extended fingers. Old burn and bent index remain on correct separate hands. Short stocky older identity, gray curl bun, green dress and ochre apron preserved; evening supper retains restricted warm illumination with connected deep cool shadows, bowl/spoon/crust and readable labels. Ivory landscape, painted oil anatomy and one identity pass.",
+        "specificationSha256": "a2971267c7b207f79fc76bc795bb4c54334e2a0dc20016cc8e51fe7fd4a9a2d9"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Perform ONLY this tiny geometric correction: horizontally MIRROR the isolated lower-left hand illustration labelled Left hand - old burn. Its thumb now points toward LEFT OUTER EDGE of sheet, wrong. After mirroring, thumb must point RIGHT toward CENTRE of sheet and the other four fingers lie to its left. Keep fingernails and healed burn on BACK of this hand, keep label text unmirrored. Do not move hand to another place. Every other body/hand/face/label/pixel including correctly bent RIGHT index palm, dim Supper, title and ivory stays exactly unchanged. No new drawings.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9afa0190-65be-4092-86f1-e2746d0cd68f.png",
+            "sha256": "cc86030e91560cfd0949ad48320403ea7f14c2e81e8471748f76ce4c56cd7e49",
+            "inspected": true,
+            "role": "Actual near-final sheet, mirror isolated left dorsal hand only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Orlena. One HUMAN GRANDMOTHER68, short stocky body, weathered warm-brown skin, broad cheeks and low broad nose, small dark eyes, tightly curly iron-grey hair in practical bun. Dark forest-green rolled-sleeve work dress, heavily used TERRA-OCHRE APRON, practical flat shoes. Two complete front/rear views working DAYLIGHT under soft warm window light with substantial cool shadows. Third waist-up Supper at EVENING, holding stew bowl/spoon, limited warm HEARTH light with connected deep cool shadows on face/neck/apron; not bright daylight skin. Portraits Stubborn and Remembering. CRUCIAL hand detail: anatomical LEFT hand back has OLD pale healed burn patch, no fresh injury; anatomical RIGHT INDEX finger bent at middle joint, all FIVE digits present. Keep exact same hands in whole views where visible. Ordinary cook's ladle and loaf small prop detail, no magic. Bread-crust flakes on Supper apron. Same elderly face throughout, no idealized youth or style-sheet woman.",
+            "references": [
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+                "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+                "inspected": true,
+                "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+              },
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+                "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+                "inspected": true,
+                "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:51:17.844273+00:00",
+            "preflight": "Full source/prompt/review read; actual original/cover/3 interiors inspected. Five distinct age/face/silhouette designs, source hand injury/cuff/key/credit-book/boot states bound. Daylight vs limited evening hearth figure light, one identity and ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ede7bf67-d623-4d7f-a49e-e14566ea86c5.png",
+            "candidateSha256": "61ff49233eaf9029981db51d578d656bd7fc7eeea7666ac2c93da486a7286791",
+            "completedAt": "2026-09-24T07:22:02.873478+00:00",
+            "visualInspection": [
+              "Old burn correct in full-body left hands, but hand detail handedness/bent digit ambiguous, and supper portrait too bright for evening; replace4hand details with2clear states and dim only supper."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Targeted corrections to this Orlena sheet, same elderly woman identity/garments/body views and clean ivory. Replace FOUR small bottom hand studies with only TWO larger anatomically correct studies: LEFT HAND BACK showing back of her left hand, fingers pointing UP, THUMB ON VIEWER RIGHT and four fingers left of thumb, OLD PALE HEALED BURN across back/wrist. RIGHT HAND PALM showing palm of her right hand facing viewer, fingers pointing UP, THUMB ON VIEWER RIGHT, INDEX finger immediately beside thumb BENT at middle joint, other three fingers straight; exactly five digits total. Label these Left hand - old burn and Right hand - bent index. No duplicate or mirrored mislabeled studies. Retain left-hand burn in whole figures (front viewerRIGHT, back viewerLEFT). Whole figure right hand ladle consistent. Also Supper(Evening) waist-up is too broadly illuminated: give this ONE pose limited warm hearth light with DEEP CONNECTED COOL shadow across half face/neck/apron, visibly evening like reference2; readable ordinary same older face and bowl/spoon/crust flakes. Other daytime bodies/portraits remain exactly. Ivory page stays LIGHT, no background scene/floor. Preserve heavy matte oil and exact title/name.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ede7bf67-d623-4d7f-a49e-e14566ea86c5.png",
+                "sha256": "61ff49233eaf9029981db51d578d656bd7fc7eeea7666ac2c93da486a7286791",
+                "inspected": true,
+                "role": "Actual candidate; narrow handedness/lighting correction"
+              },
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+                "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+                "inspected": true,
+                "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:22:02.873478+00:00",
+            "preflight": "Actual returned pixels reviewed. Reducing ambiguous four-hand layout to two anatomy-checked studies, side-specific chalk and source evening exposure addressed; unchanged day states.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9afa0190-65be-4092-86f1-e2746d0cd68f.png",
+            "candidateSha256": "cc86030e91560cfd0949ad48320403ea7f14c2e81e8471748f76ce4c56cd7e49",
+            "completedAt": "2026-09-24T07:39:01.223395+00:00",
+            "visualInspection": [
+              "Supper correctly dimmed and right-palm index fixed; isolated Left hand - old burn still depicts right dorsal hand, must mirror only that hand."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Perform ONLY this tiny geometric correction: horizontally MIRROR the isolated lower-left hand illustration labelled Left hand - old burn. Its thumb now points toward LEFT OUTER EDGE of sheet, wrong. After mirroring, thumb must point RIGHT toward CENTRE of sheet and the other four fingers lie to its left. Keep fingernails and healed burn on BACK of this hand, keep label text unmirrored. Do not move hand to another place. Every other body/hand/face/label/pixel including correctly bent RIGHT index palm, dim Supper, title and ivory stays exactly unchanged. No new drawings.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9afa0190-65be-4092-86f1-e2746d0cd68f.png",
+                "sha256": "cc86030e91560cfd0949ad48320403ea7f14c2e81e8471748f76ce4c56cd7e49",
+                "inspected": true,
+                "role": "Actual near-final sheet, mirror isolated left dorsal hand only"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:39:01.223395+00:00",
+            "preflight": "Anatomical audit: left dorsal hand thumb must be viewer-right; right palmar hand thumb already viewer-right. Mirror only existing wrong detail, no full redesign after two attempts.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-5125d814-386c-4824-998a-19984780855b.png",
+            "candidateSha256": "e31836f6f04aa97d44aa3431b26de2972977a28cfaae33496fd43541606ea5ef",
+            "completedAt": "2026-09-24T08:14:14.252792+00:00",
+            "visualInspection": "Actual saved-pixel review: lower-left isolated burned LEFT dorsal hand now has thumb toward viewer right and five digits. Lower-right RIGHT palm has thumb toward viewer right, bent index adjacent to thumb, and three other extended fingers. Old burn and bent index remain on correct separate hands. Short stocky older identity, gray curl bun, green dress and ochre apron preserved; evening supper retains restricted warm illumination with connected deep cool shadows, bowl/spoon/crust and readable labels. Ivory landscape, painted oil anatomy and one identity pass."
+          }
+        ]
+      },
+      "outputSha256": "e31836f6f04aa97d44aa3431b26de2972977a28cfaae33496fd43541606ea5ef"
+    },
+    {
+      "id": "brisken",
+      "name": "Brisken",
+      "role": "Grain-boat worker and moving organiser",
+      "selectionEvidence": [
+        {
+          "quote": "he worked the grain boats now",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "She fed me for eleven weeks when they dropped that bale on my leg.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "his feet were bleeding",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "He had taken off his boots beneath the bench",
+          "explanation": "Direct source identity/feature/state/action."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man with grown sons, historic injured leg healed enough for dock work; new boots cause sore/bleeding feet during move.",
+        "clothing": "Work clothes and new boots replacing old pair; at supper boots off.",
+        "equipment": "Old/new boots, small purse; practical carrying cloth/rope interpreted work equipment.",
+        "states": "Day boot purchase, directing move, evening rest with boots off. No permanent amputation/acute leg injury now."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: he worked the grain boats now",
+        "Non-canon source fact: She fed me for eleven weeks when they dropped that bale on my leg.",
+        "Non-canon source fact: his feet were bleeding",
+        "Non-canon source fact: He had taken off his boots beneath the bench"
+      ],
+      "visualInterpretation": [
+        "Age49, barrel-chested strong stocky man, ruddy pale weathered skin, crooked blunt nose, bald crown with dark short sides and salt stubble.",
+        "Faded slate-blue rolled-sleeve shirt, hemp belt, sand-brown trousers, sturdy new brown boots."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day boot purchase, directing move, evening rest with boots off. No permanent amputation/acute leg injury now."
+        }
+      ],
+      "naming": {
+        "sourceName": "Brisken",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-credit-book:brisken",
+        "links": [],
+        "evidence": "No matches in universe/frozen name memory/current character specs; source review says new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+          "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+          "inspected": true,
+          "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+        },
+        {
+          "path": "stories\\the-credit-book\\title-image.jpg",
+          "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+          "inspected": true,
+          "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+          "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "inspected": true,
+          "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+          "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "inspected": true,
+          "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+          "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "inspected": true,
+          "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+        }
+      ],
+      "output": "stories/the-credit-book/art/characters/brisken.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T07:22:02.873478+00:00",
+        "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+        "outputSha256": "8733bea54c6431f29f64e50bda8a797a6f210f8cb49a6be5d4c7e3d31850934b",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+            "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+            "inspected": true,
+            "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: stocky adult dockworker49, hands normal five digits, historic leg injury not shown as acute/amputation, old/new boots and subtle sore heels consistent.",
+          "Evening Supper rest head distinct dim hearth/cool-shadow light; full figures daylight, heavy matte oils and ivory, exact headings and no scene."
+        ],
+        "specificationSha256": "716da1ac0d24e1aae8f074b06eb1c975189eed7d7eb964fa3efdf2d52e032ffd"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Brisken. One HUMAN dockworker49, barrel-chested stocky strong body, ruddy weathered pale skin, crooked blunt nose, bald crown/dark clipped sides and salt stubble, grown-family adult. Faded slate-blue rolled-sleeve shirt, hemp waist belt, sand-brown trousers, NEW stiff brown work boots. Complete front and rear full-body views DAYLIGHT, ordinary human legs, no missing limb/current bale injury. One three-quarter waist-up Directing the move, cheerful commanding gesture with ordinary five fingers. Heads Offering help and Supper rest; Supper head darker LIMITED evening hearth light with connected cool shadows, not evenly bright studio. Small separate studies Old boots (very worn pair) and New boots (stiff pair) plus boots-off tired feet with small heel blisters represented quietly, no gore/wounds spotlight. No cart, sacks, bench or other people. Broad matte paint, useful compact equipment, clean ivory.",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+            "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+            "inspected": true,
+            "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Brisken. One HUMAN dockworker49, barrel-chested stocky strong body, ruddy weathered pale skin, crooked blunt nose, bald crown/dark clipped sides and salt stubble, grown-family adult. Faded slate-blue rolled-sleeve shirt, hemp waist belt, sand-brown trousers, NEW stiff brown work boots. Complete front and rear full-body views DAYLIGHT, ordinary human legs, no missing limb/current bale injury. One three-quarter waist-up Directing the move, cheerful commanding gesture with ordinary five fingers. Heads Offering help and Supper rest; Supper head darker LIMITED evening hearth light with connected cool shadows, not evenly bright studio. Small separate studies Old boots (very worn pair) and New boots (stiff pair) plus boots-off tired feet with small heel blisters represented quietly, no gore/wounds spotlight. No cart, sacks, bench or other people. Broad matte paint, useful compact equipment, clean ivory.",
+            "references": [
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+                "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+                "inspected": true,
+                "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+              },
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+                "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+                "inspected": true,
+                "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:51:17.844273+00:00",
+            "preflight": "Full source/prompt/review read; actual original/cover/3 interiors inspected. Five distinct age/face/silhouette designs, source hand injury/cuff/key/credit-book/boot states bound. Daylight vs limited evening hearth figure light, one identity and ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1493dc9f-1d92-44f7-9252-efe09e6cc4b8.png",
+            "candidateSha256": "8733bea54c6431f29f64e50bda8a797a6f210f8cb49a6be5d4c7e3d31850934b",
+            "completedAt": "2026-09-24T07:22:02.873478+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: stocky adult dockworker49, hands normal five digits, historic leg injury not shown as acute/amputation, old/new boots and subtle sore heels consistent.",
+              "Evening Supper rest head distinct dim hearth/cool-shadow light; full figures daylight, heavy matte oils and ivory, exact headings and no scene."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "8733bea54c6431f29f64e50bda8a797a6f210f8cb49a6be5d4c7e3d31850934b"
+    },
+    {
+      "id": "fodric",
+      "name": "Fodric",
+      "role": "Cloth merchant who negotiates prepaid employee lunches",
+      "selectionEvidence": [
+        {
+          "quote": "Fodric listened with his thumb pressed into the blue chalk stain on his cuff.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "Eight. The lads downstairs eat too.",
+          "explanation": "Direct source identity/feature/state/action."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult male former penniless trader, now merchant; physical appearance unspecified.",
+        "clothing": "Merchant clothes with blue chalk stain on cuff, side unspecified.",
+        "equipment": "Blue wool, measuring tape and advance coins; no magical/official authority gear.",
+        "states": "Embarrassed former debtor, negotiating mutually useful lunch advance; daytime shop/back room."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Fodric listened with his thumb pressed into the blue chalk stain on his cuff.",
+        "Non-canon source fact: Eight. The lads downstairs eat too."
+      ],
+      "visualInterpretation": [
+        "Age43, slim pale olive man with long narrow face, neat black moustache, side-part black hair grey temples, small brown eyes.",
+        "Muted plum merchant coat, grey waistcoat/linen shirt and dark trousers. Chalk on LEFT cuff consistently."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Embarrassed former debtor, negotiating mutually useful lunch advance; daytime shop/back room."
+        }
+      ],
+      "naming": {
+        "sourceName": "Fodric",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-credit-book:fodric",
+        "links": [],
+        "evidence": "No matches in universe/frozen name memory/current character specs; source review says new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+          "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+          "inspected": true,
+          "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+        },
+        {
+          "path": "stories\\the-credit-book\\title-image.jpg",
+          "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+          "inspected": true,
+          "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+          "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "inspected": true,
+          "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+          "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "inspected": true,
+          "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+          "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "inspected": true,
+          "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+        }
+      ],
+      "output": "stories/the-credit-book/art/characters/fodric.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T07:39:01.223395+00:00",
+        "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+        "outputSha256": "9b9dd72f1e08d3b7bc2aaa2f0cfaad913aabf35aa1e9182aa51479e2bca2beb5",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3b8f6928-d403-407c-925c-b1a71fe3d6f0.png",
+            "sha256": "d240865e5be447b8948cb0dbf8414c7e0a601177780c4e3cd62438aafd214307",
+            "inspected": true,
+            "role": "Actual candidate; narrow handedness/lighting correction"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: rear anatomical RIGHT cuff/viewerRIGHT now clean, LEFT stain retained only correct visible cuffs/detail; all daylight identity/props/body geometry unchanged.",
+          "Matte oil, ordinary anatomy, functional readable labels/exact title/name, ivory/no setting remain correct."
+        ],
+        "specificationSha256": "83dee42c4d30cab6bd08b1c2c8c0a900ed1e67e7e4ad75695c4eee25e473102c"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "One tiny sidedness correction to Fodric sheet. In the BACK full-body figure, the sleeve/cuff at VIEWER RIGHT is his anatomical RIGHT arm. REMOVE the BLUE CHALK stain from that viewerRIGHT cuff, restore plain ivory cuff. The source design's chalk stain is ONLY on anatomical LEFT cuff, viewerLEFT in back, which is hidden by the blue wool here: no need to make hidden cuff visible. All front, three-quarter and Embarrassed head left cuffs/isolated Left cuff detail retain their existing BLUE CHALK. Do not mirror the figure or wool. Preserve every other pixel: face/moustache/hair, plum coat/grey waistcoat, source title/name, tools, hands, daylight, heavy oils and ivory.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3b8f6928-d403-407c-925c-b1a71fe3d6f0.png",
+            "sha256": "d240865e5be447b8948cb0dbf8414c7e0a601177780c4e3cd62438aafd214307",
+            "inspected": true,
+            "role": "Actual candidate; narrow handedness/lighting correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Fodric. One HUMAN cloth merchant43, slim pale-olive body, long narrow face, neat black moustache, short SIDE-PARTED black hair with grey temples, small brown eyes. Muted PLUM coat, grey waistcoat, linen shirt, dark trousers and clean brown shoes. Front, rear, three-quarter full bodies under actual daytime WINDOW side-light of image1 with broad cool shadows; no room. Defining source BLUE CHALK STAIN on anatomical LEFT CUFF: viewerRIGHT on front, viewerLEFT on back. Small thumb-to-left-cuff study, ordinary five-digit hand. Two heads Embarrassed and Considering. Short folded BLUE WOOL length held over forearm, cloth measure and small ordinary coin purse isolated; no credit book carried as his own. No rich king jewellery, top hat, weapon, assistant or scenery. Broad matte paint across face/cloth, quiet thick strokes not slick photograph.",
+            "references": [
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+                "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+                "inspected": true,
+                "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:51:17.844273+00:00",
+            "preflight": "Full source/prompt/review read; actual original/cover/3 interiors inspected. Five distinct age/face/silhouette designs, source hand injury/cuff/key/credit-book/boot states bound. Daylight vs limited evening hearth figure light, one identity and ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3b8f6928-d403-407c-925c-b1a71fe3d6f0.png",
+            "candidateSha256": "d240865e5be447b8948cb0dbf8414c7e0a601177780c4e3cd62438aafd214307",
+            "completedAt": "2026-09-24T07:22:02.873478+00:00",
+            "visualInspection": [
+              "All identity/tools/daylight/oil/labels pass; rear viewerRIGHT cuff incorrectly adds chalk on anatomical right, remove it."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "One tiny sidedness correction to Fodric sheet. In the BACK full-body figure, the sleeve/cuff at VIEWER RIGHT is his anatomical RIGHT arm. REMOVE the BLUE CHALK stain from that viewerRIGHT cuff, restore plain ivory cuff. The source design's chalk stain is ONLY on anatomical LEFT cuff, viewerLEFT in back, which is hidden by the blue wool here: no need to make hidden cuff visible. All front, three-quarter and Embarrassed head left cuffs/isolated Left cuff detail retain their existing BLUE CHALK. Do not mirror the figure or wool. Preserve every other pixel: face/moustache/hair, plum coat/grey waistcoat, source title/name, tools, hands, daylight, heavy oils and ivory.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3b8f6928-d403-407c-925c-b1a71fe3d6f0.png",
+                "sha256": "d240865e5be447b8948cb0dbf8414c7e0a601177780c4e3cd62438aafd214307",
+                "inspected": true,
+                "role": "Actual candidate; narrow handedness/lighting correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T07:22:02.873478+00:00",
+            "preflight": "Actual returned pixels reviewed. Reducing ambiguous four-hand layout to two anatomy-checked studies, side-specific chalk and source evening exposure addressed; unchanged day states.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d003a7fe-a36d-45b4-9548-a1f2f34235b7.png",
+            "candidateSha256": "9b9dd72f1e08d3b7bc2aaa2f0cfaad913aabf35aa1e9182aa51479e2bca2beb5",
+            "completedAt": "2026-09-24T07:39:01.223395+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: rear anatomical RIGHT cuff/viewerRIGHT now clean, LEFT stain retained only correct visible cuffs/detail; all daylight identity/props/body geometry unchanged.",
+              "Matte oil, ordinary anatomy, functional readable labels/exact title/name, ivory/no setting remain correct."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "9b9dd72f1e08d3b7bc2aaa2f0cfaad913aabf35aa1e9182aa51479e2bca2beb5"
+    },
+    {
+      "id": "dorbett",
+      "name": "Dorbett",
+      "role": "Retired caravan driver, bakehouse owner and estranged friend",
+      "selectionEvidence": [
+        {
+          "quote": "Dorbett searched for her name with a cracked fingernail.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "Dorbett unhooked it from her belt.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "the patched apron she had worn driving caravans through Kelvra.",
+          "explanation": "Direct source identity/feature/state/action."
+        },
+        {
+          "quote": "It was a pear pie, its rim dark and crumbling.",
+          "explanation": "Direct source identity/feature/state/action."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Older adult woman, former caravan driver, thirty years friendship and three years quarrel with Orlena; cracked fingernail.",
+        "clothing": "Skirt, belt key and patched former caravan apron at supper.",
+        "equipment": "Rug-beating stick, bakehouse key, pear pie; no weapon role.",
+        "states": "Day viewing bakehouse and key negotiation, final hearth-lit supper practical reconnection."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Dorbett searched for her name with a cracked fingernail.",
+        "Non-canon source fact: Dorbett unhooked it from her belt.",
+        "Non-canon source fact: the patched apron she had worn driving caravans through Kelvra.",
+        "Non-canon source fact: It was a pear pie, its rim dark and crumbling."
+      ],
+      "visualInterpretation": [
+        "Age66 tall strong bony woman, light freckled tawny skin, long ruddy nose, narrow grey eyes, coarse iron-grey hair tucked under faded rust headscarf.",
+        "Cream rolled-sleeve blouse, slate waistcoat, dark rust skirt, flat worn boots; key at front-centre belt, visibly patched cream-brown old caravan apron for supper. Cracked RIGHT thumbnail art interpretation."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Day viewing bakehouse and key negotiation, final hearth-lit supper practical reconnection."
+        }
+      ],
+      "naming": {
+        "sourceName": "Dorbett",
+        "provenance": "Exact name in finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-credit-book:dorbett",
+        "links": [],
+        "evidence": "No matches in universe/frozen name memory/current character specs; source review says new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-8517e895-b885-419f-ae82-a4290b379d8e.png",
+          "sha256": "701ff25d782573398771abbfd301691f960c5c340a0b1ad61b560a416d20c030",
+          "inspected": true,
+          "role": "Exact original city daylight/cool reflected river light palette for Lutrel walking errands only; no setting copied, no character appearance in original"
+        },
+        {
+          "path": "stories\\the-credit-book\\title-image.jpg",
+          "sha256": "55964da0863bb6af770b4c58b9f6694c8a631ce8bdd5d5e4f32431f177137c5e",
+          "inspected": true,
+          "role": "Actual swollen leather credit book with loose string, not a modern ledger; no setting"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+          "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+          "inspected": true,
+          "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\02-fodrics-back-room.png",
+          "sha256": "5914ea2382778cec7574c131164efab4eb0c7624ed07dfd9ef9cafb4589ebecf",
+          "inspected": true,
+          "role": "Actual Fodric DAYLIGHT window, blue wool/chalk and broad bristle masses, no room"
+        },
+        {
+          "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+          "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+          "inspected": true,
+          "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+        }
+      ],
+      "output": "stories/the-credit-book/art/characters/dorbett.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T07:22:02.873478+00:00",
+        "sourceSha256": "c685af7842334ca851171096fe21e90ee0cd8ccf44752e54450564244d5e6065",
+        "outputSha256": "c107e8b143ade03449a57a179272365cf0328dcabdde6e039f023c5f14617c7a",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+            "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+            "inspected": true,
+            "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: tall angular older caravan woman distinct from stocky Orlena, cracked right thumbnail, key at front-centre belt and absent from rear, downward rug tool.",
+          "Patched old apron/pear-pie Supper visibly dim hearth-lit with cool shadows; daytime full views, ordinary hands/anatomy, exact heading/title, ivory without setting."
+        ],
+        "specificationSha256": "3fc0c3ad056d956d7eb26e4ec5ed8dca15ce85e8eddec9c527976ae0413b30a9"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Dorbett. One HUMAN former caravan driver66, TALL strong bony frame, light freckled tawny skin, LONG ruddy nose, narrow grey eyes, coarse iron-grey hair under faded RUST headscarf; distinct from short broad-faced Orlena. Cream rolled-sleeve blouse, slate waistcoat, dark rust skirt, worn flat boots. Daylight front/rear full views with small OLD KEY hanging at FRONT CENTRE belt (hidden behind body in rear, not mirrored to rear belt). One plain rug-beating stick held downward as work tool, not weapon. Third waist-up Supper wearing visibly PATCHED cream-brown old caravan APRON, holding shallow PEAR PIE with dark crumbling crust. Supper figure LIMITED warm hearth EVENING light plus broad deep cool shadows across half face/blouse, never bright full daylight; keep ivory page light. Heads Wary and Dry amusement. Hand detail key grip and CRACKED right thumbnail, five ordinary digits. No other character, no oven/rug/location/floor, broad matte oil and clear name/title.",
+        "references": [
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+            "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+            "inspected": true,
+            "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+          },
+          {
+            "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+            "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+            "inspected": true,
+            "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET of ONE IDENTITY ONLY. Large readable NAME / smaller exact title The Credit Book. LIGHT WARM IVORY across every negative-space area, no ground shadows, scenery, furnishings or palette swatches. Complete unclipped full-body views, useful heads/hands/equipment details, short functional labels only. Canadian Group of Seven HEAVY MATTE OIL style from actual story paintings: BROAD CONNECTED opaque value/colour masses, bristle and dragged palette knife, quiet joins and selective impasto, faces/hands as painted as clothing. No photographic/CGI/anime, no uniformly beveled tile mosaic. Distinguish source time-of-day on figures while ivory stays light. Ordinary five-digit hands, two arms/legs, consistent same identity across states. Heading Dorbett. One HUMAN former caravan driver66, TALL strong bony frame, light freckled tawny skin, LONG ruddy nose, narrow grey eyes, coarse iron-grey hair under faded RUST headscarf; distinct from short broad-faced Orlena. Cream rolled-sleeve blouse, slate waistcoat, dark rust skirt, worn flat boots. Daylight front/rear full views with small OLD KEY hanging at FRONT CENTRE belt (hidden behind body in rear, not mirrored to rear belt). One plain rug-beating stick held downward as work tool, not weapon. Third waist-up Supper wearing visibly PATCHED cream-brown old caravan APRON, holding shallow PEAR PIE with dark crumbling crust. Supper figure LIMITED warm hearth EVENING light plus broad deep cool shadows across half face/blouse, never bright full daylight; keep ivory page light. Heads Wary and Dry amusement. Hand detail key grip and CRACKED right thumbnail, five ordinary digits. No other character, no oven/rug/location/floor, broad matte oil and clear name/title.",
+            "references": [
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\01-orlenas-old-cookshop.png",
+                "sha256": "8fed624f6db63de99cab40d1f1b92d49d830307a26db4873c077f6862bb73c26",
+                "inspected": true,
+                "role": "PRIMARY actual broad matte oils and warm daytime window light/cool shadows, no cookshop"
+              },
+              {
+                "path": "stories\\the-credit-book\\art\\interiors\\03-the-new-bakehouse.png",
+                "sha256": "c36b18cb650b465462891115390f6afeed316b0379aae6b275a436947a259cf4",
+                "inspected": true,
+                "role": "Actual evening hearth-lit warm practical light and deep cooler shadows for Supper state only, no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only, no identity/wardrobe/light/scene/swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:51:17.844273+00:00",
+            "preflight": "Full source/prompt/review read; actual original/cover/3 interiors inspected. Five distinct age/face/silhouette designs, source hand injury/cuff/key/credit-book/boot states bound. Daylight vs limited evening hearth figure light, one identity and ivory checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-46669a48-c2d9-422d-ae62-6256b985317c.png",
+            "candidateSha256": "c107e8b143ade03449a57a179272365cf0328dcabdde6e039f023c5f14617c7a",
+            "completedAt": "2026-09-24T07:22:02.873478+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: tall angular older caravan woman distinct from stocky Orlena, cracked right thumbnail, key at front-centre belt and absent from rear, downward rug tool.",
+              "Patched old apron/pear-pie Supper visibly dim hearth-lit with cool shadows; daytime full views, ordinary hands/anatomy, exact heading/title, ivory without setting."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "c107e8b143ade03449a57a179272365cf0328dcabdde6e039f023c5f14617c7a"
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "schemaVersion": 1,
+  "slug": "what-the-town-owed-her",
+  "title": "What the Town Owed Her",
+  "source": "stories/what-the-town-owed-her/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source/prompt/review read; no originals supplied. Actual cover, dawn landing and flood oils inspected. Main cast: two leads, sustained electrician/rescued elder, and central remembered grandmother. Source bob and mended cuffs take precedence over cover updo. New personal names are art-only and searched unique.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Hardware family boy and old man, retired carpenter, bakers, honey visitor, bright-coat worker and other evacuees",
+      "reason": "Brief functional helpers/visitors; no sustained separate characterization."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "leonie-sayer",
+      "name": "Leonie Sayer",
+      "role": "Returning granddaughter and renovation estimator",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "I had spent ten years pricing other people’s renovations.",
+          "explanation": "Focal adult narrator reconsiders the witch and rescues a stranded woman."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult woman with long-enough hair for rescue victim to grip, coat, apartment keys, grandmother's note; exact age and coloration unspecified."
+      },
+      "visualInterpretation": [
+        "Cover-derived dark brown hair in low practical bun, dark raincoat/shoulder bag. Art-only woman32 with olive complexion, oval face, small brown eyes, charcoal trousers and rain boots."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Initial arrival to clear grandmother's apartment, with keys and note, before flood rescue."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-town-owed-her:leonie-sayer",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/what-the-town-owed-her/art/characters/leonie-sayer.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Leonie Sayer\"; exact story title \"What the Town Owed Her\"; subtitle \"Returning granddaughter and renovation estimator\". Adult WOMAN32, OLIVE complexion, oval face, broad straight nose, small matte BROWN eyes, dark BROWN hair in low practical BUN with rain-loosened strands as foreground woman in IMAGE2. Plain BLACK modern raincoat over slate-gray sweater, CHARCOAL trousers and practical dark waterproof ankle boots; worn brown crossbody bag. Holds small keyring and folded handwritten note without legible text. Face guarded and tired. Isolated object ordinary BRASS APARTMENT KEYRING with folded note. Cool rainy afternoon window light on subjects with subdued warm room bounce, no wet photo gloss.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:43:39.485308+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Leonie Sayer\"; exact story title \"What the Town Owed Her\"; subtitle \"Returning granddaughter and renovation estimator\". Adult WOMAN32, OLIVE complexion, oval face, broad straight nose, small matte BROWN eyes, dark BROWN hair in low practical BUN with rain-loosened strands as foreground woman in IMAGE2. Plain BLACK modern raincoat over slate-gray sweater, CHARCOAL trousers and practical dark waterproof ankle boots; worn brown crossbody bag. Holds small keyring and folded handwritten note without legible text. Face guarded and tired. Isolated object ordinary BRASS APARTMENT KEYRING with folded note. Cool rainy afternoon window light on subjects with subdued warm room bounce, no wet photo gloss.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/title-image.jpg",
+                "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+                "inspected": true,
+                "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+                "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+                "inspected": true,
+                "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-4ba0cb4f-a389-4b1d-9d0b-4a51d11dcbe5.png",
+            "outputSha256": "dc3bb0f571cbd0dd9e0f5a4ae799e7ef51a77df837d9ef22bc3aed483de119ec",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:27:41.855425+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Modern dark raincoat, low bun, apartment keys/note and wary adult identity consistent across views.",
+              "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-4ba0cb4f-a389-4b1d-9d0b-4a51d11dcbe5.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2",
+        "outputSha256": "dc3bb0f571cbd0dd9e0f5a4ae799e7ef51a77df837d9ef22bc3aed483de119ec",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "evidence": [
+          "Modern dark raincoat, low bun, apartment keys/note and wary adult identity consistent across views.",
+          "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "285d3de935033bf352b5dc2e6a80904fcff75f8776e65127cc75b964539efeee"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "dc3bb0f571cbd0dd9e0f5a4ae799e7ef51a77df837d9ef22bc3aed483de119ec"
+    },
+    {
+      "id": "evadne-trell",
+      "name": "Evadne Trell",
+      "role": "Witch held by unclosed promises",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "She looked twenty-six at most.",
+          "explanation": "Living witch has remained physically26 through retained promises, not stolen years."
+        },
+        {
+          "quote": "Black hair curved beneath her jaw.",
+          "explanation": "Source bob supersedes cover's pinned-up hair."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Physically26 adult woman, black dress with narrow standing collar and old mending at cuffs, black hair curves below jaw, mud-caked lace boots, thin black notebook. One silver hair only after final release, not selected state."
+      },
+      "visualInterpretation": [
+        "Art-only pale olive adult face, small gray-green eyes, blunt chin-length curved black bob; practical modest long black dress, no hat or jewelry needed."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Before flood rescue and final releases, physically26, black notebook closed, magic dormant."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-town-owed-her:evadne-trell",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/what-the-town-owed-her/art/characters/evadne-trell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Evadne Trell\"; exact story title \"What the Town Owed Her\"; subtitle \"Witch held by unclosed promises\". Adult WOMAN physically26, PALE OLIVE skin, calm compact adult face, straight fine nose, small matte gray-green eyes. BLACK HAIR in a blunt JAW-LENGTH CURVED BOB with ends turning beneath the jaw, absolutely NO UPDO or long hair. Exact source hairstyle overrides IMAGE2. Simple long BLACK high-neck dress with NARROW STANDING COLLAR, visibly OLD MENDING at both cuffs, mud-caked lace-up BOOTS. Modest functional gothic style, no costume hat, no corset exaggeration. Carries THIN BLACK NOTEBOOK against torso; isolated object closed notebook. No glowing hands or magical writing; book is a record, not living magic user. Reserved weary kindness, not sinister vampire. Cool rain-window side light and weak warm candle reflection stay on figure only; deep nearblack dress/shadow; ivory background.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:43:39.492348+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Evadne Trell\"; exact story title \"What the Town Owed Her\"; subtitle \"Witch held by unclosed promises\". Adult WOMAN physically26, PALE OLIVE skin, calm compact adult face, straight fine nose, small matte gray-green eyes. BLACK HAIR in a blunt JAW-LENGTH CURVED BOB with ends turning beneath the jaw, absolutely NO UPDO or long hair. Exact source hairstyle overrides IMAGE2. Simple long BLACK high-neck dress with NARROW STANDING COLLAR, visibly OLD MENDING at both cuffs, mud-caked lace-up BOOTS. Modest functional gothic style, no costume hat, no corset exaggeration. Carries THIN BLACK NOTEBOOK against torso; isolated object closed notebook. No glowing hands or magical writing; book is a record, not living magic user. Reserved weary kindness, not sinister vampire. Cool rain-window side light and weak warm candle reflection stay on figure only; deep nearblack dress/shadow; ivory background.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/title-image.jpg",
+                "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+                "inspected": true,
+                "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+                "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+                "inspected": true,
+                "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2d26f6bc-3009-4a6a-8299-fe16fef39063.png",
+            "outputSha256": "5237ef71970ef4c5baa5c1c5712d226faa3d67418398e4585c5c600f779fb18e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:27:41.921835+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Source physically26, jaw-length curved black bob, narrow standing collar, mended cuffs and closed black notebook retained; no active magic/book agency.",
+              "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-2d26f6bc-3009-4a6a-8299-fe16fef39063.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2",
+        "outputSha256": "5237ef71970ef4c5baa5c1c5712d226faa3d67418398e4585c5c600f779fb18e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "evidence": [
+          "Source physically26, jaw-length curved black bob, narrow standing collar, mended cuffs and closed black notebook retained; no active magic/book agency.",
+          "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "c60ae3a8042e972ccb86d06e47bb1d67b8e3ad9d106e91a769e999e890338ff6"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "5237ef71970ef4c5baa5c1c5712d226faa3d67418398e4585c5c600f779fb18e"
+    },
+    {
+      "id": "mernik",
+      "name": "Mernik",
+      "role": "Electrician and flood rescuer",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The electrician carrying the wire",
+          "explanation": "Returns as frightened but determined rescuer supporting elderly woman during bridge failure."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult male electrician brings coil of copper wire, coat and boots; later face goes white with fear. Physical description unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only man41, brown skin, broad nose, short dark hair with close beard, sturdy build. Navy waterproof work jacket, gray work trousers/boots."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Initial offering of wire before bridge crisis; intact and uninjured."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-town-owed-her:mernik",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Electrician and flood rescuer",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-town-owed-her/art/characters/mernik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Mernik\"; exact story title \"What the Town Owed Her\"; subtitle \"Electrician and flood rescuer\". Adult MAN41, sturdy ordinary build, warm BROWN skin, round broad face, broad nose, short closely clipped BLACK hair and short dark BEARD, small brown eyes. NAVY modern waterproof WORK JACKET with practical pockets, gray work trousers, black work boots. Holds a compact dry COIL OF COPPER WIRE as source opening; same coil isolated object. A quiet uncertain expression rather than dramatic fear. No electric sparks, no tools plugged in. Cool soft rain-day light with muted copper/ochre accents.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:43:39.499679+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Mernik\"; exact story title \"What the Town Owed Her\"; subtitle \"Electrician and flood rescuer\". Adult MAN41, sturdy ordinary build, warm BROWN skin, round broad face, broad nose, short closely clipped BLACK hair and short dark BEARD, small brown eyes. NAVY modern waterproof WORK JACKET with practical pockets, gray work trousers, black work boots. Holds a compact dry COIL OF COPPER WIRE as source opening; same coil isolated object. A quiet uncertain expression rather than dramatic fear. No electric sparks, no tools plugged in. Cool soft rain-day light with muted copper/ochre accents.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/title-image.jpg",
+                "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+                "inspected": true,
+                "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+                "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+                "inspected": true,
+                "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-61e5e6bb-cbf3-423d-ac5f-3539914166c1.png",
+            "outputSha256": "dfbaa65c146a8dfa8f45158cf4593d6e4fd2f8aa08ead776352c94e5d940d0ff",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:27:41.939596+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Distinct sturdy adult electrician in modern rain/work jacket with source copper wire coil; intact initial offering state.",
+              "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-61e5e6bb-cbf3-423d-ac5f-3539914166c1.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2",
+        "outputSha256": "dfbaa65c146a8dfa8f45158cf4593d6e4fd2f8aa08ead776352c94e5d940d0ff",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "evidence": [
+          "Distinct sturdy adult electrician in modern rain/work jacket with source copper wire coil; intact initial offering state.",
+          "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "37e408fc75ccd37f9c811255ee062fe4d85c92951ac44e5d8cadfc09bce8ac88"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "dfbaa65c146a8dfa8f45158cf4593d6e4fd2f8aa08ead776352c94e5d940d0ff"
+    },
+    {
+      "id": "corvenna",
+      "name": "Corvenna",
+      "role": "Elderly resident rescued from the bridge",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "her stick had belonged to her sister",
+          "explanation": "Sustained rescue participant whose fear and personal losses anchor the bridge sequence."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Small elderly woman in coat with hood initially down, walking stick belonging to sister; later knee/arm hurt. Small purse in coat pocket. Exact age/appearance unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only small woman82, fair deeply lined face, wispy white hair, small blue-gray eyes. Muted brown hooded raincoat, plum skirt, sensible lace shoes."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Before bridge collapse, intact, hood down and holds sister's walking stick."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-town-owed-her:corvenna",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Elderly resident rescued from the bridge",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-town-owed-her/art/characters/corvenna.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Corvenna\"; exact story title \"What the Town Owed Her\"; subtitle \"Elderly resident rescued from the bridge\". SMALL elderly HUMAN WOMAN82, FAIR deeply lined face with soft hanging cheeks and narrow nose, small blue-gray eyes, wispy WHITE hair pinned low. Muted BROWN hooded raincoat with HOOD DOWN, dark PLUM calf-length skirt, sensible black lace shoes. Slight stoop, holds a plain wooden WALKING STICK normally for support, no exposed injury. Small closed purse edge at coat pocket. Isolated object the plain sister's walking stick and modest purse, no other person. Alert stubborn expression, not helpless caricature. Soft cool overcast rain light, subdued warm face paint.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:43:39.506653+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Corvenna\"; exact story title \"What the Town Owed Her\"; subtitle \"Elderly resident rescued from the bridge\". SMALL elderly HUMAN WOMAN82, FAIR deeply lined face with soft hanging cheeks and narrow nose, small blue-gray eyes, wispy WHITE hair pinned low. Muted BROWN hooded raincoat with HOOD DOWN, dark PLUM calf-length skirt, sensible black lace shoes. Slight stoop, holds a plain wooden WALKING STICK normally for support, no exposed injury. Small closed purse edge at coat pocket. Isolated object the plain sister's walking stick and modest purse, no other person. Alert stubborn expression, not helpless caricature. Soft cool overcast rain light, subdued warm face paint.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/title-image.jpg",
+                "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+                "inspected": true,
+                "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+                "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+                "inspected": true,
+                "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b0b1df57-d14e-4977-94e2-e41ab214e003.png",
+            "outputSha256": "38129a8beb2b1d02b5f7c32960e406a6fae990547ba4d9f1ed5cc90cf1c4bdb5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:27:41.958914+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Small mature gray-haired woman, hood down, wooden sister's walking stick and purse; before injury selected state.",
+              "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-b0b1df57-d14e-4977-94e2-e41ab214e003.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2",
+        "outputSha256": "38129a8beb2b1d02b5f7c32960e406a6fae990547ba4d9f1ed5cc90cf1c4bdb5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "evidence": [
+          "Small mature gray-haired woman, hood down, wooden sister's walking stick and purse; before injury selected state.",
+          "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "1e366789b959f7c3be16c3343eec08ede1c4e7104fcd521d2eb88740c536a129"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "38129a8beb2b1d02b5f7c32960e406a6fae990547ba4d9f1ed5cc90cf1c4bdb5"
+    },
+    {
+      "id": "pelvane",
+      "name": "Pelvane",
+      "role": "Leonie's remembered grandmother",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "the cardigans she had darned at both elbows",
+          "explanation": "Central posthumous relative whose promise and practical care connect Leonie to Evadne."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Deceased elderly woman remembered in apartment belongings; patched cardigans both elbows, slippers, blue teacup, brass level, grandmother's letter. Exact name/age/face unspecified."
+      },
+      "visualInterpretation": [
+        "Art-only living late-life memory at78, fair freckled face, short curly white-gray hair, small brown eyes, round build. Dusty blue elbow-darned cardigan over cream blouse and brown skirt/slippers."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Living late-life memory before death, practical elder with tea and brass level; no ghost or rejuvenation."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "what-the-town-owed-her:pelvane",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Leonie's remembered grandmother",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/what-the-town-owed-her/art/characters/pelvane.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Pelvane\"; exact story title \"What the Town Owed Her\"; subtitle \"Leonie's remembered grandmother\". Elderly WOMAN78 shown alive in an ordinary late-life MEMORY, round comfortable build, FAIR freckled lined face, short curly WHITE-GRAY hair, small dark BROWN eyes, stubborn kindly expression. Dusty BLUE cardigan visibly DARNED at BOTH ELBOWS over CREAM blouse, brown calf-length skirt, plain wool SLIPPERS. Holds familiar BLUE TEACUP, no saucer floating. Isolated personal object small worn BRASS SPIRIT LEVEL from her tool chest. No ghostly transparency, wings or glowing age magic. Soft warm domestic afternoon light and cool blue-gray shade, no apartment scenery.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:43:39.513423+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Use original selected style's large connected painted shapes, not tiny uniform bevel fragments. Opaque facial paint is essential. This is a MODERN rainy town, not medieval armour or a warrior costume.\nExact name \"Pelvane\"; exact story title \"What the Town Owed Her\"; subtitle \"Leonie's remembered grandmother\". Elderly WOMAN78 shown alive in an ordinary late-life MEMORY, round comfortable build, FAIR freckled lined face, short curly WHITE-GRAY hair, small dark BROWN eyes, stubborn kindly expression. Dusty BLUE cardigan visibly DARNED at BOTH ELBOWS over CREAM blouse, brown calf-length skirt, plain wool SLIPPERS. Holds familiar BLUE TEACUP, no saucer floating. Isolated personal object small worn BRASS SPIRIT LEVEL from her tool chest. No ghostly transparency, wings or glowing age magic. Soft warm domestic afternoon light and cool blue-gray shade, no apartment scenery.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/title-image.jpg",
+                "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+                "inspected": true,
+                "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+              },
+              {
+                "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+                "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+                "inspected": true,
+                "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-478b0dfa-ca90-4900-bc6c-09c23bed33b8.png",
+            "outputSha256": "e41914a0430c8b2a4621093c8553992fb4f671315e5410b76a768f583fc0a6e9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:27:41.976623+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Living older grandmother memory with both elbow-darned cardigan, blue teacup, slippers and brass level; no ghost or new story fact.",
+              "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-478b0dfa-ca90-4900-bc6c-09c23bed33b8.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2",
+        "outputSha256": "e41914a0430c8b2a4621093c8553992fb4f671315e5410b76a768f583fc0a6e9",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected selected broad sculpted oil rendering only, no Melicent identity/clothes/scenery/swatches.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/title-image.jpg",
+            "role": "Inspected cover modern Leonie hair/black raincoat and Evadne black standing-collar dress; source jaw-length black bob overrides cover updo for Evadne.",
+            "inspected": true,
+            "sha256": "c89eef0eecc2135b88bad82518c564c7114995cb8cc0d4ff01f5c9b1e1c0c6aa"
+          },
+          {
+            "path": "stories/what-the-town-owed-her/art/interiors/03-the-landing-at-dawn.png",
+            "role": "Inspected cool gray damp dawn with local warm oil accents; no landing, furniture or floor.",
+            "inspected": true,
+            "sha256": "a23001d471bea09fc75cbb40a4c9c414f02882123dccea0e5fd62eba77122c00"
+          }
+        ],
+        "evidence": [
+          "Living older grandmother memory with both elbow-darned cardigan, blue teacup, slippers and brass level; no ghost or new story fact.",
+          "Actual1536x1024 saved pixels inspected: coherent painted face/form across all views, clean ivory character-only presentation, no environment/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "2837ec9f670762d2aeb7406f9b64b2cc76eed5f3c36b1b8762b1542ba7167b61"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "e41914a0430c8b2a4621093c8553992fb4f671315e5410b76a768f583fc0a6e9"
+    }
+  ],
+  "sourceSha256": "8a5f54082988a775dbac46d482591be02b2e3b19257e2b397a21898b0baae7f2"
+}

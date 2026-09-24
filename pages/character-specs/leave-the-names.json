@@ -1,0 +1,1007 @@
+{
+  "schemaVersion": 1,
+  "slug": "leave-the-names",
+  "title": "Leave the Names",
+  "source": "stories/leave-the-names/story.md",
+  "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full prose read. Kedra/Beshan/Lurem/Sovet are central conflict and custody actors. Cook is substantial recurring speaking support with distinctive practical care from opening pot through extra ration at resolution.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Driver and rigger",
+      "reason": "Recurring practical crew voices and witnesses, task-bound helpers without separate developed individual arc."
+    },
+    {
+      "name": "Keepers, Lurem's hands, draft animals",
+      "reason": "Collective/background task functions, no developed main identities."
+    },
+    {
+      "name": "Cerdovan/dissolution engine",
+      "reason": "Explicitly non-sentient local mechanism and city, not people."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "kedra",
+      "name": "Kedra",
+      "role": "POV caravan leader pays costly restitution, coordinates mechanical rescue and assigns accountable apprenticeship terms.",
+      "selectionEvidence": [
+        {
+          "quote": "Your buying and cutting privileges are removed",
+          "explanation": "POV caravan leader pays costly restitution, coordinates mechanical rescue and assigns accountable apprenticeship terms."
+        }
+      ],
+      "form": "Ordinary human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human two arms/two legs.",
+        "lifeStage": "Adult",
+        "description": "Adult human woman, mature around48 interpretive; solid practical build, weathered medium-brown skin, broad square face and close dark-brown braids graying at temples. Muted wine-brown knee-length work coat over plain gray linen shirt, dark loose work trousers and scuffed boots. No uniform or armour. A plain closed ledger tucked under arm and a working pen, no legible invented ledger text. Two full front/rear three-quarter views, decisive braced posture; one stern tired head and one hand gripping a plain collar wrench. Hands intact though forearms tired from mechanical load. No cuts, magical markings or fantasy weapons."
+      },
+      "explicitCanon": [
+        "Source woman leader uses ledger, wrench and crew task authority.",
+        "Forearms shake after holding loaded pawl; no permanent wound.",
+        "Kedra is explicitly distinct from LOCKED Kethra and has no signing mage identity."
+      ],
+      "visualInterpretation": [
+        "Age, body, skin/hair/facial features and wine-brown work outfit are non-canon choices; no face reference exists."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "leave-the-names:kedra",
+        "links": [],
+        "evidence": "Same-story Kedra, explicitly distinct from LOCKED Kethra."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Kedra",
+        "sourceRole": "POV caravan leader pays costly restitution, coordinates mechanical rescue and assigns accountable apprenticeship terms.",
+        "scope": "Exact finished-story name."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+          "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+          "inspected": true,
+          "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+          "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+        },
+        {
+          "path": "stories/leave-the-names/title-image.jpg",
+          "role": "Context inspected only, not attached; no face/clothing evidence.",
+          "inspected": true,
+          "sha256": "991e8c32849d8e7e5bd66df5448c63f07ddbd7aa938323e8e16c201afec23664",
+          "notes": "Brake/stone still life; does not establish a human identity."
+        }
+      ],
+      "output": "stories/leave-the-names/art/characters/kedra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Kedra\". Exact subtitle \"Leave the Names\". Adult human woman, mature around48 interpretive; solid practical build, weathered medium-brown skin, broad square face and close dark-brown braids graying at temples. Muted wine-brown knee-length work coat over plain gray linen shirt, dark loose work trousers and scuffed boots. No uniform or armour. A plain closed ledger tucked under arm and a working pen, no legible invented ledger text. Two full front/rear three-quarter views, decisive braced posture; one stern tired head and one hand gripping a plain collar wrench. Hands intact though forearms tired from mechanical load. No cuts, magical markings or fantasy weapons. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Kedra\". Exact subtitle \"Leave the Names\". Adult human woman, mature around48 interpretive; solid practical build, weathered medium-brown skin, broad square face and close dark-brown braids graying at temples. Muted wine-brown knee-length work coat over plain gray linen shirt, dark loose work trousers and scuffed boots. No uniform or armour. A plain closed ledger tucked under arm and a working pen, no legible invented ledger text. Two full front/rear three-quarter views, decisive braced posture; one stern tired head and one hand gripping a plain collar wrench. Hands intact though forearms tired from mechanical load. No cuts, magical markings or fantasy weapons. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+                "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+                "inspected": true,
+                "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+                "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+              }
+            ],
+            "reason": "Initial complete-source main-cast folio.",
+            "startedAt": "2026-09-24T03:08:48.186Z",
+            "preflight": "Complete finished prose and source marker checked; actual cover and first-light/dusk paintings inspected. Source has no human likeness cover; anatomy/clothes are recorded interpretation. Selected exact prompt checked for identity, work/privilege state, personal objects and feasible ivory format.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-e4a3adad-d01b-4706-81c9-58635e2b97e4.png",
+            "outputSha256": "3ba4599ebd0e001dc24663de970603abc54b216824ef30cbdc620d20759d62c0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:20:05.420053+00:00",
+            "generatorReview": "Actual pixels inspected: distinct mature caravan leader, two complete consistent wine-coat views with closed ledger/pen, tired-resolve head, ordinary hand and wrench. No mage features or Kethra transfer. Broad painted skin, cloth and metal remain matte with cool shadow; no rim spectacle. Exact name/title readable, clean ivory, no location/swatches, all feet/limbs intact."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:20:05.420053+00:00",
+        "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+        "outputSha256": "3ba4599ebd0e001dc24663de970603abc54b216824ef30cbdc620d20759d62c0",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct mature caravan leader, two complete consistent wine-coat views with closed ledger/pen, tired-resolve head, ordinary hand and wrench. No mage features or Kethra transfer. Broad painted skin, cloth and metal remain matte with cool shadow; no rim spectacle. Exact name/title readable, clean ivory, no location/swatches, all feet/limbs intact.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b1120ad882e6a1bab18718a886bbbcb6061b84cc19528da3533db54e89f9bbe4"
+      },
+      "outputSha256": "3ba4599ebd0e001dc24663de970603abc54b216824ef30cbdc620d20759d62c0"
+    },
+    {
+      "id": "beshan",
+      "name": "Beshan",
+      "role": "Apprentice sells original city strip to obtain needed brake, then performs supervised release/reseating and remains for inventory restitution.",
+      "selectionEvidence": [
+        {
+          "quote": "No trade seal. No cutting kit.",
+          "explanation": "Apprentice sells original city strip to obtain needed brake, then performs supervised release/reseating and remains for inventory restitution."
+        }
+      ],
+      "form": "Ordinary human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human two arms/two legs.",
+        "lifeStage": "early twenties with wiry ordinary build",
+        "description": "Adult human male apprentice, interpreted early twenties with wiry ordinary build, tan skin, narrow long face, curly sandy-brown hair containing axle grit. Sleeves rolled on faded ochre-gray work shirt, worn gray-blue waistcoat, dark patched trousers, sturdy plain work boots. No blades, cutting kit, trade seal, weapons or ledger anywhere; depict his supervised restitution state with both hands visible and EMPTY. Two complete front/rear three-quarter body views, cautiously attentive posture; separate abashed head and concentration head. No shame restraints/chains or prison uniform, no injuries. His hands and ordinary human body stay intact.",
+        "equipment": []
+      },
+      "explicitCanon": [
+        "Source male apprentice hair full of axle grit.",
+        "Cutting and buying privileges suspended; works only named tasks, later inventories without trade seal or cutting kit.",
+        "Mechanically skilled, no magic established."
+      ],
+      "visualInterpretation": [
+        "Adult earlytwenties age, tan skin, sandy curls, narrow face and worn waistcoat chosen visually; source fixes no exact age or outfit."
+      ],
+      "states": [
+        {
+          "name": "Restitution",
+          "description": "Hands empty; no unsupervised kit, no trade seal."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "leave-the-names:beshan",
+        "links": [],
+        "evidence": "No matching shared-universe identity; source-specific interpretation only."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Beshan",
+        "sourceRole": "Apprentice sells original city strip to obtain needed brake, then performs supervised release/reseating and remains for inventory restitution.",
+        "scope": "Exact finished-story name."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+          "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+          "inspected": true,
+          "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+          "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+        },
+        {
+          "path": "stories/leave-the-names/title-image.jpg",
+          "role": "Context inspected only, not attached; no face/clothing evidence.",
+          "inspected": true,
+          "sha256": "991e8c32849d8e7e5bd66df5448c63f07ddbd7aa938323e8e16c201afec23664",
+          "notes": "Brake/stone still life; does not establish a human identity."
+        }
+      ],
+      "output": "stories/leave-the-names/art/characters/beshan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Beshan\". Exact subtitle \"Leave the Names\". Adult human male apprentice, interpreted early twenties with wiry ordinary build, tan skin, narrow long face, curly sandy-brown hair containing axle grit. Sleeves rolled on faded ochre-gray work shirt, worn gray-blue waistcoat, dark patched trousers, sturdy plain work boots. No blades, cutting kit, trade seal, weapons or ledger anywhere; depict his supervised restitution state with both hands visible and EMPTY. Two complete front/rear three-quarter body views, cautiously attentive posture; separate abashed head and concentration head. No shame restraints/chains or prison uniform, no injuries. His hands and ordinary human body stay intact. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Beshan\". Exact subtitle \"Leave the Names\". Adult human male apprentice, interpreted early twenties with wiry ordinary build, tan skin, narrow long face, curly sandy-brown hair containing axle grit. Sleeves rolled on faded ochre-gray work shirt, worn gray-blue waistcoat, dark patched trousers, sturdy plain work boots. No blades, cutting kit, trade seal, weapons or ledger anywhere; depict his supervised restitution state with both hands visible and EMPTY. Two complete front/rear three-quarter body views, cautiously attentive posture; separate abashed head and concentration head. No shame restraints/chains or prison uniform, no injuries. His hands and ordinary human body stay intact. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+                "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+                "inspected": true,
+                "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+                "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+              }
+            ],
+            "reason": "Initial complete-source main-cast folio.",
+            "startedAt": "2026-09-24T03:08:48.186Z",
+            "preflight": "Complete finished prose and source marker checked; actual cover and first-light/dusk paintings inspected. Source has no human likeness cover; anatomy/clothes are recorded interpretation. Selected exact prompt checked for identity, work/privilege state, personal objects and feasible ivory format.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-4a328af7-212b-4cd2-bd6a-ddca29e3b082.png",
+            "outputSha256": "8aaeb0d0202ee3448a479343ea6023d58fe0006f0c3abd83ca3a950992b4b6ff",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:20:05.493988+00:00",
+            "generatorReview": "Actual pixels inspected: consistent wiry adult apprentice with sandy grit-marked curls, worn waistcoat/shirt and practical boots. Both full views and explicit empty-hand studies preserve suspended tool/trade privileges; no seal, cutter, chains, wound or magic. Abashed/concentrating heads remain same identity, normal anatomy. Readable exact title/name, character-only pale ivory, no swatches or setting; subdued broad opaque oil and connected cool clothing shadows."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:20:05.493988+00:00",
+        "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+        "outputSha256": "8aaeb0d0202ee3448a479343ea6023d58fe0006f0c3abd83ca3a950992b4b6ff",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent wiry adult apprentice with sandy grit-marked curls, worn waistcoat/shirt and practical boots. Both full views and explicit empty-hand studies preserve suspended tool/trade privileges; no seal, cutter, chains, wound or magic. Abashed/concentrating heads remain same identity, normal anatomy. Readable exact title/name, character-only pale ivory, no swatches or setting; subdued broad opaque oil and connected cool clothing shadows.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "6f224ed81acfc9cd48d8bcffd5015be0c1236366edc0ff6c68ac0ec17cc89756"
+      },
+      "outputSha256": "8aaeb0d0202ee3448a479343ea6023d58fe0006f0c3abd83ca3a950992b4b6ff"
+    },
+    {
+      "id": "lurem",
+      "name": "Lurem",
+      "role": "Buyer and dissolution-engine operator bargains lawful title for compensation, cessation, labor and intact return.",
+      "selectionEvidence": [
+        {
+          "quote": "The brake stays. Clean metal and bond to me.",
+          "explanation": "Buyer and dissolution-engine operator bargains lawful title for compensation, cessation, labor and intact return."
+        }
+      ],
+      "form": "Ordinary human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human two arms/two legs.",
+        "lifeStage": "mid-forties",
+        "description": "Ordinary adult human man, interpreted mid-forties, stout but mobile build, medium olive skin, wide cheeks, close cropped black hair and neat mustache. Clean dark indigo cuffed work jacket over russet waistcoat and cream collared shirt, charcoal trousers, dark practical shoes. One cuff just being fastened is useful source action. Two whole front/rear views with guarded businesslike expression; one evaluating face and one cuff-hand study. No villain scar, evil grin, magic, weapons, royal insignia, jewellery display or portrait caricature. Optional folded plain receipt but no readable invented writing. Hands ordinary, no wounds."
+      },
+      "explicitCanon": [
+        "Source male trader/engine operator buttons cuff, openly retains valid receipt and paid crew.",
+        "Not a thief or supernatural villain; negotiates valid exchange."
+      ],
+      "visualInterpretation": [
+        "Middle-aged stout body, olive face, cropped black hair/mustache and indigo/russet workwear are distinct non-canon choices."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "leave-the-names:lurem",
+        "links": [],
+        "evidence": "No matching shared-universe identity; source-specific interpretation only."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Lurem",
+        "sourceRole": "Buyer and dissolution-engine operator bargains lawful title for compensation, cessation, labor and intact return.",
+        "scope": "Exact finished-story name."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+          "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+          "inspected": true,
+          "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+          "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+        },
+        {
+          "path": "stories/leave-the-names/title-image.jpg",
+          "role": "Context inspected only, not attached; no face/clothing evidence.",
+          "inspected": true,
+          "sha256": "991e8c32849d8e7e5bd66df5448c63f07ddbd7aa938323e8e16c201afec23664",
+          "notes": "Brake/stone still life; does not establish a human identity."
+        }
+      ],
+      "output": "stories/leave-the-names/art/characters/lurem.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Lurem\". Exact subtitle \"Leave the Names\". Ordinary adult human man, interpreted mid-forties, stout but mobile build, medium olive skin, wide cheeks, close cropped black hair and neat mustache. Clean dark indigo cuffed work jacket over russet waistcoat and cream collared shirt, charcoal trousers, dark practical shoes. One cuff just being fastened is useful source action. Two whole front/rear views with guarded businesslike expression; one evaluating face and one cuff-hand study. No villain scar, evil grin, magic, weapons, royal insignia, jewellery display or portrait caricature. Optional folded plain receipt but no readable invented writing. Hands ordinary, no wounds. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Lurem\". Exact subtitle \"Leave the Names\". Ordinary adult human man, interpreted mid-forties, stout but mobile build, medium olive skin, wide cheeks, close cropped black hair and neat mustache. Clean dark indigo cuffed work jacket over russet waistcoat and cream collared shirt, charcoal trousers, dark practical shoes. One cuff just being fastened is useful source action. Two whole front/rear views with guarded businesslike expression; one evaluating face and one cuff-hand study. No villain scar, evil grin, magic, weapons, royal insignia, jewellery display or portrait caricature. Optional folded plain receipt but no readable invented writing. Hands ordinary, no wounds. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+                "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+                "inspected": true,
+                "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+                "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+              }
+            ],
+            "reason": "Initial complete-source main-cast folio.",
+            "startedAt": "2026-09-24T03:08:48.186Z",
+            "preflight": "Complete finished prose and source marker checked; actual cover and first-light/dusk paintings inspected. Source has no human likeness cover; anatomy/clothes are recorded interpretation. Selected exact prompt checked for identity, work/privilege state, personal objects and feasible ivory format.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-20c651f7-79bc-43d3-a0df-6a20b20cb872.png",
+            "outputSha256": "21219ef4879eb338fcf2b56a92e4d852b63b71a842dd1537830d4b3803fc3e66",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:20:05.527957+00:00",
+            "generatorReview": "Actual pixels inspected: distinct stout middle-aged trader with dark short hair/mustache, indigo coat and russet vest; two complete consistent body views, evaluating face and source cuff-fastening detail. No villain caricature, magical power, invented insignia or injuries. Correct unclipped anatomy and readable exact name/title; ivory without setting/swatches. Faces/cloth formed with matte opaque directional strokes and coherent cool shadow."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:20:05.527957+00:00",
+        "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+        "outputSha256": "21219ef4879eb338fcf2b56a92e4d852b63b71a842dd1537830d4b3803fc3e66",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+            "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+            "inspected": true,
+            "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+            "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct stout middle-aged trader with dark short hair/mustache, indigo coat and russet vest; two complete consistent body views, evaluating face and source cuff-fastening detail. No villain caricature, magical power, invented insignia or injuries. Correct unclipped anatomy and readable exact name/title; ivory without setting/swatches. Faces/cloth formed with matte opaque directional strokes and coherent cool shadow.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "15b81d24a19ffdca9d0b50d70d320365efaa56c0a129d5e8107d897ff2149fd5"
+      },
+      "outputSha256": "21219ef4879eb338fcf2b56a92e4d852b63b71a842dd1537830d4b3803fc3e66"
+    },
+    {
+      "id": "sovet",
+      "name": "Sovet",
+      "role": "Keeper witnesses context loss, controls safe handling, verifies paired anchors and supervises final inventory.",
+      "selectionEvidence": [
+        {
+          "quote": "I witness return after I see return",
+          "explanation": "Keeper witnesses context loss, controls safe handling, verifies paired anchors and supervises final inventory."
+        }
+      ],
+      "form": "Ordinary human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human two arms/two legs.",
+        "lifeStage": "early sixties",
+        "description": "Ordinary adult human male keeper, interpreted early sixties, spare wiry build, pale olive weathered skin, elongated face, short sparse silver hair, clean-shaven. Practical dusty stone-gray sleeveless work vest over muted blue-gray long-sleeve shirt rolled to forearms, dark brown trousers and worn boots. Carry only a piece of white chalk and compact padded hooked handling tool as personal source equipment; separate folded cloth pad detail. Two complete front/rear three-quarter views, patient exacting posture, and one intent careful head study. No magical robes, staff, academic gown, clipboard filled with invented inscriptions or invented eyeglasses. Normal hands and limbs, no injury."
+      },
+      "explicitCanon": [
+        "Source male keeper uses chalk, numbered board, padded hook/pads and witness marks.",
+        "Insists on handling and context verification; cannot restore destroyed lettering/positions."
+      ],
+      "visualInterpretation": [
+        "Older spare man, pale olive skin, sparse gray hair and gray/blue work layers chosen as distinct visual interpretation."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "leave-the-names:sovet",
+        "links": [],
+        "evidence": "No matching shared-universe identity; source-specific interpretation only."
+      },
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Sovet",
+        "sourceRole": "Keeper witnesses context loss, controls safe handling, verifies paired anchors and supervises final inventory.",
+        "scope": "Exact finished-story name."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+          "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+          "inspected": true,
+          "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+          "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+        },
+        {
+          "path": "stories/leave-the-names/title-image.jpg",
+          "role": "Context inspected only, not attached; no face/clothing evidence.",
+          "inspected": true,
+          "sha256": "991e8c32849d8e7e5bd66df5448c63f07ddbd7aa938323e8e16c201afec23664",
+          "notes": "Brake/stone still life; does not establish a human identity."
+        }
+      ],
+      "output": "stories/leave-the-names/art/characters/sovet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Precise object correction only to this exact Sovet character folio. The source tool is a PADDED handling hook used to protect inscribed metal. In every occurrence of the small hook, including held tools in the two full-body views and the separate Handling tool detail, wrap the entire curved metal hook/contact tip in thick soft dull cream cloth padding. The curve must remain clearly hook-shaped but its exposed curved contact metal should be covered by cloth, including the hook tip. Keep the existing grip and wrist loop. Do not make a blade, prosthesis or cane. Preserve exact face/body identity, all other anatomy, poses, gray/blue clothing, chalk, folded pad, all readable text, ivory background and directional thick oil style. No other changes, scenery or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1bf9c36c-dfda-477b-baa2-176ca86b5b8b.png",
+            "role": "Actual inspected immutable first candidate for targeted correction only.",
+            "inspected": true,
+            "sha256": "cb177062a51c921638f58cebc84e3010ec69693ef36dd5b65b5c95f160a88fb6"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Sovet\". Exact subtitle \"Leave the Names\". Ordinary adult human male keeper, interpreted early sixties, spare wiry build, pale olive weathered skin, elongated face, short sparse silver hair, clean-shaven. Practical dusty stone-gray sleeveless work vest over muted blue-gray long-sleeve shirt rolled to forearms, dark brown trousers and worn boots. Carry only a piece of white chalk and compact padded hooked handling tool as personal source equipment; separate folded cloth pad detail. Two complete front/rear three-quarter views, patient exacting posture, and one intent careful head study. No magical robes, staff, academic gown, clipboard filled with invented inscriptions or invented eyeglasses. Normal hands and limbs, no injury. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+                "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+                "inspected": true,
+                "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+                "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+              }
+            ],
+            "reason": "Initial complete-source main-cast folio.",
+            "startedAt": "2026-09-24T03:08:48.186Z",
+            "preflight": "Complete finished prose and source marker checked; actual cover and first-light/dusk paintings inspected. Source has no human likeness cover; anatomy/clothes are recorded interpretation. Selected exact prompt checked for identity, work/privilege state, personal objects and feasible ivory format.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1bf9c36c-dfda-477b-baa2-176ca86b5b8b.png",
+            "outputSha256": "cb177062a51c921638f58cebc84e3010ec69693ef36dd5b65b5c95f160a88fb6",
+            "generatorReview": "Padded hook should protect inscribed material at its curved contact end, not merely have a wrapped handle."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Precise object correction only to this exact Sovet character folio. The source tool is a PADDED handling hook used to protect inscribed metal. In every occurrence of the small hook, including held tools in the two full-body views and the separate Handling tool detail, wrap the entire curved metal hook/contact tip in thick soft dull cream cloth padding. The curve must remain clearly hook-shaped but its exposed curved contact metal should be covered by cloth, including the hook tip. Keep the existing grip and wrist loop. Do not make a blade, prosthesis or cane. Preserve exact face/body identity, all other anatomy, poses, gray/blue clothing, chalk, folded pad, all readable text, ivory background and directional thick oil style. No other changes, scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1bf9c36c-dfda-477b-baa2-176ca86b5b8b.png",
+                "role": "Actual inspected immutable first candidate for targeted correction only.",
+                "inspected": true,
+                "sha256": "cb177062a51c921638f58cebc84e3010ec69693ef36dd5b65b5c95f160a88fb6"
+              }
+            ],
+            "reason": "Padded hook should protect inscribed material at its curved contact end, not merely have a wrapped handle.",
+            "startedAt": "2026-09-24T03:20:06.626791+00:00",
+            "preflight": "Actual candidate inspected against source and isolated folio contract. Local correction feasible without identity/scene changes.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-7fa4c038-d877-4fa3-8943-e6b5812d5609.png",
+            "outputSha256": "eb6327a940c6f2ad6307ab2d1c3154baa9c5b71abdac9cb00da8983c79e1fd83",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:24:57.605350+00:00",
+            "generatorReview": "Corrected actual pixels inspected: handling hook now has soft cream wrapping over entire curved contact tip in both held versions and detail, preserving its source protective function. Distinct older spare keeper, complete consistent views, chalk and folded pad, no invented magical/clerical insignia or wounds. Face/hands anatomy and exact name/title intact. Ivory character-only folio, no scene/swatches; directional matte oil planes and cool cloth shadows retained."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:24:57.605350+00:00",
+        "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+        "outputSha256": "eb6327a940c6f2ad6307ab2d1c3154baa9c5b71abdac9cb00da8983c79e1fd83",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1bf9c36c-dfda-477b-baa2-176ca86b5b8b.png",
+            "role": "Actual inspected immutable first candidate for targeted correction only.",
+            "inspected": true,
+            "sha256": "cb177062a51c921638f58cebc84e3010ec69693ef36dd5b65b5c95f160a88fb6"
+          }
+        ],
+        "evidence": "Corrected actual pixels inspected: handling hook now has soft cream wrapping over entire curved contact tip in both held versions and detail, preserving its source protective function. Distinct older spare keeper, complete consistent views, chalk and folded pad, no invented magical/clerical insignia or wounds. Face/hands anatomy and exact name/title intact. Ivory character-only folio, no scene/swatches; directional matte oil planes and cool cloth shadows retained.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "83cba2798b96e89030f44ec86f1e269ceaf3e44b240bc6ab515b8cb77b146014"
+      },
+      "outputSha256": "eb6327a940c6f2ad6307ab2d1c3154baa9c5b71abdac9cb00da8983c79e1fd83"
+    },
+    {
+      "id": "harnel",
+      "name": "Harnel",
+      "role": "Caravan cook supplies recurring pragmatic dialogue, helps witness bargain, keeps crew fed and gives the apprentice an extra meal packet.",
+      "selectionEvidence": [
+        {
+          "quote": "One is mine.",
+          "explanation": "Caravan cook supplies recurring pragmatic dialogue, helps witness bargain, keeps crew fed and gives the apprentice an extra meal packet."
+        }
+      ],
+      "form": "Ordinary human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human two arms/two legs.",
+        "lifeStage": "late-fifties",
+        "description": "Ordinary adult human male caravan cook, art-only name Harnel, interpreted late-fifties, comfortable broad build, deep brown skin, bald crown with short salt-and-pepper fringe and close short beard. Practical ochre shirt with rolled sleeves under a faded brown-gray cloth apron, dark loose trousers and sturdy boots. Two complete front/rear three-quarter views, one holding a small closed lidded food pot naturally at waist and one without it. One dryly amused face study and a folded meal packet/plain wooden spoon detail. No toque, restaurant uniform, kitchen, table, cart or other person. No weapons, magic or comical exaggerated proportions."
+      },
+      "explicitCanon": [
+        "Source male cook handles lidded pot and soaked meal, witnesses exchange, extra ration to Beshan.",
+        "No source personal name or exact appearance established."
+      ],
+      "visualInterpretation": [
+        "Harnel is a distinct new art-only name; Harnel has no match in universe, frozen names, stories/reviews and existing specs.",
+        "Late-fifties age, dark skin, broad body, graying beard/apron chosen visually, not source canon."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "leave-the-names:harnel",
+        "links": [],
+        "evidence": "No matching shared-universe identity; source-specific interpretation only."
+      },
+      "nameAssignment": {
+        "kind": "new-art-name",
+        "name": "Harnel",
+        "sourceRole": "Caravan cook supplies recurring pragmatic dialogue, helps witness bargain, keeps crew fed and gives the apprentice an extra meal packet.",
+        "scope": "Explicit user naming authorization; new art-only name, source remains unnamed/unmodified."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+          "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+          "inspected": true,
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+          "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+          "inspected": true,
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+          "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+          "inspected": true,
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+        },
+        {
+          "path": "stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+          "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+          "inspected": true,
+          "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+          "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+        },
+        {
+          "path": "stories/leave-the-names/title-image.jpg",
+          "role": "Context inspected only, not attached; no face/clothing evidence.",
+          "inspected": true,
+          "sha256": "991e8c32849d8e7e5bd66df5448c63f07ddbd7aa938323e8e16c201afec23664",
+          "notes": "Brake/stone still life; does not establish a human identity."
+        }
+      ],
+      "output": "stories/leave-the-names/art/characters/harnel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One local continuity correction only in the CENTER REAR THREE-QUARTER FULL-BODY figure of Harnel: the hanging towel belongs on HIS ANATOMICAL LEFT WAIST, which is VIEWER LEFT in this rear view. Remove the hanging towel/cloth flap at VIEWER RIGHT waist in that rear figure and tuck the same soft cream towel into VIEWER LEFT waist (left of the rear apron bow), hanging down there. FRONT figure towel is already correct at viewer right and must remain untouched. Keep apron/back ties separate from towel. Do not change any face, body, pose, hand, beard, cooking pot, name/title, meal/spoon study, paint, ivory or layout. Only rear towel side changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ae6f8bd8-c575-4e93-bcbb-0bd4a4124202.png",
+            "sha256": "0d72197d7ea09f6d453703a79977200db6570571372e1ceb8adf308e0489edc5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading \"Harnel\". Exact subtitle \"Leave the Names\". Ordinary adult human male caravan cook, art-only name Harnel, interpreted late-fifties, comfortable broad build, deep brown skin, bald crown with short salt-and-pepper fringe and close short beard. Practical ochre shirt with rolled sleeves under a faded brown-gray cloth apron, dark loose trousers and sturdy boots. Two complete front/rear three-quarter views, one holding a small closed lidded food pot naturally at waist and one without it. One dryly amused face study and a folded meal packet/plain wooden spoon detail. No toque, restaurant uniform, kitchen, table, cart or other person. No weapons, magic or comical exaggerated proportions. First three references PAINTING/PRESENTATION only, fourth supplies the story's low diffuse first-light cool illumination. Modest cream warm-facing paint, broad muted bluegray shadow masses; no golden sunlight or edge rim, no landscape, ruins, animals, carts, engine or scene patch. Ensure this is a distinct person, not the style folio woman's face or costume.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/leave-the-names/art/landscapes/01-cerdovan-before-first-light.png",
+                "role": "Actual story first-light illumination and muted dust/cloth palette only, never location.",
+                "inspected": true,
+                "sha256": "e00b35544d11bc5a3f4ce3f57c20b31effe971d76a41cc5a5ef6d657d52fa70a",
+                "notes": "Low diffuse early cool bluegray light, restrained cream-facing planes and connected shadows; no bright sun rim."
+              }
+            ],
+            "reason": "Initial complete-source main-cast folio.",
+            "startedAt": "2026-09-24T03:08:48.186Z",
+            "preflight": "Complete finished prose and source marker checked; actual cover and first-light/dusk paintings inspected. Source has no human likeness cover; anatomy/clothes are recorded interpretation. Selected exact prompt checked for identity, work/privilege state, personal objects and feasible ivory format.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-de09c4fa-3994-4aac-84a0-9076a774ade1.png",
+            "outputSha256": "3775c53a3e7c678f62bc58216e96cd1747c8c565d4c380149a3b98f59e230c8a",
+            "generatorReview": "Invalid dark background gradient obscures heading; source identity/anatomy/gear pass."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Precise folio BACKGROUND and text correction only. Replace ALL brown/black gradients and background shadow haloes in this exact Harnel sheet with uniform PALE WARM IVORY painted paper from corner to corner and every edge, no vignette. Restore clearly readable DARK text upper left in two exact lines: 'Harnel' then 'Leave the Names'. Keep all other character/pot/meal/spoon pixels as closely as possible: same bald/bearded adult identity, skin tone, build, clothing/apron, two full-body poses, head portrait, hands, expression, art style and layout. Retain small dark labels 'Dryly amused', 'Packed meal', 'Wooden spoon'. No change to skin illumination, no added ground shadow, scenery or swatches. Only the uniformly light ivory background and dark legible typography need correction.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-de09c4fa-3994-4aac-84a0-9076a774ade1.png",
+                "role": "Actual inspected immutable first candidate for targeted correction only.",
+                "inspected": true,
+                "sha256": "3775c53a3e7c678f62bc58216e96cd1747c8c565d4c380149a3b98f59e230c8a"
+              }
+            ],
+            "reason": "Invalid dark background gradient obscures heading; source identity/anatomy/gear pass.",
+            "startedAt": "2026-09-24T03:20:06.629568+00:00",
+            "preflight": "Actual candidate inspected against source and isolated folio contract. Local correction feasible without identity/scene changes.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ae6f8bd8-c575-4e93-bcbb-0bd4a4124202.png",
+            "outputSha256": "0d72197d7ea09f6d453703a79977200db6570571372e1ceb8adf308e0489edc5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:24:57.635061+00:00",
+            "generatorReview": "Root independent review: fixed waist towel switches anatomical side between front and rear."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:56:09.350852+00:00",
+            "prompt": "One local continuity correction only in the CENTER REAR THREE-QUARTER FULL-BODY figure of Harnel: the hanging towel belongs on HIS ANATOMICAL LEFT WAIST, which is VIEWER LEFT in this rear view. Remove the hanging towel/cloth flap at VIEWER RIGHT waist in that rear figure and tuck the same soft cream towel into VIEWER LEFT waist (left of the rear apron bow), hanging down there. FRONT figure towel is already correct at viewer right and must remain untouched. Keep apron/back ties separate from towel. Do not change any face, body, pose, hand, beard, cooking pot, name/title, meal/spoon study, paint, ivory or layout. Only rear towel side changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ae6f8bd8-c575-4e93-bcbb-0bd4a4124202.png",
+                "sha256": "0d72197d7ea09f6d453703a79977200db6570571372e1ceb8adf308e0489edc5",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Root independent review: fixed waist towel switches anatomical side between front and rear.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-f1b1071f-f1e5-4bf2-9b70-de2b5af62dd2.png",
+            "outputSha256": "19c7f4ce209b79ca1b3a350b7a4da10d5e23960de5fd508573364b8a263b6781",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:01:15.708865+00:00",
+            "generatorReview": "Root-requested accessory fix actual pixels inspected: rear-view cream towel now hangs from anatomical LEFT waist (viewer left), matching front-view towel at anatomical LEFT (viewer right). Separate apron bow preserved. Adult facial identity, complete bodies, cooking pot, meal/spoon studies, exact names/title, ivory/light and broad oil rendering unchanged. Other four cast sheets untouched."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:01:15.708865+00:00",
+        "sourceSha256": "5fcc2533a09125e0d326bff547dcc08328fb54d7ee17b5b086f4b3fd4673fbc1",
+        "outputSha256": "19c7f4ce209b79ca1b3a350b7a4da10d5e23960de5fd508573364b8a263b6781",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-ae6f8bd8-c575-4e93-bcbb-0bd4a4124202.png",
+            "sha256": "0d72197d7ea09f6d453703a79977200db6570571372e1ceb8adf308e0489edc5",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Root-requested accessory fix actual pixels inspected: rear-view cream towel now hangs from anatomical LEFT waist (viewer left), matching front-view towel at anatomical LEFT (viewer right). Separate apron bow preserved. Adult facial identity, complete bodies, cooking pot, meal/spoon studies, exact names/title, ivory/light and broad oil rendering unchanged. Other four cast sheets untouched.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "032974e67b87b9e326b60aa7667515552ec67e9cdf7d82b946ff47b16274be0b"
+      },
+      "outputSha256": "19c7f4ce209b79ca1b3a350b7a4da10d5e23960de5fd508573364b8a263b6781"
+    }
+  ]
+}

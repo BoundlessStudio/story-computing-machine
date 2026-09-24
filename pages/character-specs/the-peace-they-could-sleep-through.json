@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-peace-they-could-sleep-through",
+  "title": "The Peace They Could Sleep Through",
+  "source": "stories/the-peace-they-could-sleep-through/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished bundle/prompt read and current review evidence inspected. Four principal sustained individual identities selected; Varkesh includes historical shared guise while he wears it. Eleven other dragons are acknowledged distinct ensemble persons, no merged body or autonomous thirteenth guise.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Other eleven dragons",
+      "reason": "Distinct unnamed supporting ensemble, individual appearances/brief remarks but no sustained individually followed arc beyond shared action. Varkesh is principal spokesperson; absence from sheets does not reduce source12-person count."
+    },
+    {
+      "name": "Clerks, runners, delegates, millers, villages and grandparents",
+      "reason": "Functional/crowd/backstory roles, not main identities."
+    },
+    {
+      "name": "Sleepless Majesty guise as separate being",
+      "reason": "Explicitly no independent mind; only worn state on Varkesh sheet, not thirteenth person."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/rules.md",
+    "universe/characters.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual crown/ledger/grain cover supplies no character identity; symbolic crown eye not imported as person, object agency or required regalia. Inspected daylight hearing/consultation paintings supply light/rendering only.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "lumen-mott",
+      "name": "Lumen Mott",
+      "role": "Royal adjudicator whose editorial certainty is replaced by witnessed human bargaining.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "My name was Lumen Mott. In the ordinary course of my office, I kept my god from contradicting itself in public.",
+          "explanation": "Royal adjudicator whose editorial certainty is replaced by witnessed human bargaining."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Eleven years in adjudicator role; blue case file, procedure book and ordinary writing. Prose first person does not physically describe gender/age/hair."
+      },
+      "explicitCanon": [
+        "Canon bundle read-only. Human agreement is negotiated without royal seal/compulsion; no retained dragon veto/authority after renunciation. Individual source physical gaps are art-only."
+      ],
+      "visualInterpretation": [
+        "Art-only woman42 (compatible prior review, not a new canon assertion), light freckled tawny skin, angular long face, short dark-auburn bob and dark eyes; dark teal plain clerk coat over beige shirt, charcoal trousers and black shoes."
+      ],
+      "states": [
+        {
+          "name": "Grain hearing",
+          "description": "Living morning human clerk before title ends, ordinary blue file and procedure volume; no divine power/crown."
+        }
+      ],
+      "lighting": "Morning/noon hearing daylight, modest warm window-facing planes and connected cool shadows; uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Lumen Mott"
+      },
+      "status": "completed",
+      "output": "stories/the-peace-they-could-sleep-through/art/characters/lumen-mott.png",
+      "generation": {
+        "prompt": "Edit this exact Lumen Mott character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Lumen Mott and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7ca7193a-d627-4da5-9301-d3f7552e193a.png",
+            "sha256": "b7d391a27faaedb6e874a4219d71ee88eb76797544358bfeb0cd1a4a47cc258e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Lumen Mott; exact subtitle The Peace They Could Sleep Through. One adult human WOMAN42 with light freckled tawny skin, ANGULAR LONG face, short DARK-AUBURN bob, dark eyes, precise tired expression. DARK TEAL plain clerk coat over beige shirt, charcoal trousers and black shoes. Two unclipped front/rear views, one reflective face, one hand holding plain BLUE FILE with two sheets and modest procedure-book edge. State Grain hearing. No royal crown, divine aura, sword or modern office tech. Her future authority is a recallable human chair; don't add mystical clerk emblems. Morning/noon diffuse WINDOW daylight with quiet warm facing planes, connected blue-violet shadows; no stage spotlight. LIGHT IVORY throughout negative space; no hearing room, chair, floor, other person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-peace-they-could-sleep-through/art/interiors/01-the-hearing-room.png",
+                "inspected": true,
+                "role": "Inspected morning hearing-room window light and matte oil strokes only; no room/furniture copied.",
+                "sha256": "154d038525eeb670766ec093402848c51ff25b527ce8b2f4a9204fe23e3ded94"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.359181+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7ca7193a-d627-4da5-9301-d3f7552e193a.png",
+            "outputSha256": "b7d391a27faaedb6e874a4219d71ee88eb76797544358bfeb0cd1a4a47cc258e",
+            "generatorReview": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:03:58.058274+00:00",
+            "prompt": "Edit this exact Lumen Mott character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Lumen Mott and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7ca7193a-d627-4da5-9301-d3f7552e193a.png",
+                "sha256": "b7d391a27faaedb6e874a4219d71ee88eb76797544358bfeb0cd1a4a47cc258e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-39e68914-5cd5-4efe-8a08-7fa14c5b291f.png",
+            "outputSha256": "dae4b17bd982206af746d60de70db63be952ecc2b3f24051adb4851feb5abf98",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:04.993307+00:00",
+            "generatorReview": "Actual pixels inspected: consistent adult auburn-bob human clerk in teal coat/beige shirt/dark trousers, blue file ordinary hand detail; Grain hearing selected state, no authority magic. Window daylight and matte opaque paint preserved. Light ivory restored, full-body margins, exact heading/title and anatomy pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "dae4b17bd982206af746d60de70db63be952ecc2b3f24051adb4851feb5abf98",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:33:04.993307+00:00",
+        "sourceSha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6",
+        "outputSha256": "dae4b17bd982206af746d60de70db63be952ecc2b3f24051adb4851feb5abf98",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-7ca7193a-d627-4da5-9301-d3f7552e193a.png",
+            "sha256": "b7d391a27faaedb6e874a4219d71ee88eb76797544358bfeb0cd1a4a47cc258e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent adult auburn-bob human clerk in teal coat/beige shirt/dark trousers, blue file ordinary hand detail; Grain hearing selected state, no authority magic. Window daylight and matte opaque paint preserved. Light ivory restored, full-body margins, exact heading/title and anatomy pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "2b32f98fae6769acc98f26a17093e3f71546ece1849ebe656a6397062a2a4333"
+      }
+    },
+    {
+      "id": "ludo-dask",
+      "name": "Ludo Dask",
+      "role": "Terrace districts' representative protects seed/land and signs revisable surplus repayment agreement.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Ludo Dask gripped a seed sack between both knees.",
+          "explanation": "Terrace districts' representative protects seed/land and signs revisable surplus repayment agreement."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Man handles sack of last clean planting grain and writes own agreement/orders. Source no age/skin/hair."
+      },
+      "explicitCanon": [
+        "Canon bundle read-only. Human agreement is negotiated without royal seal/compulsion; no retained dragon veto/authority after renunciation. Individual source physical gaps are art-only."
+      ],
+      "visualInterpretation": [
+        "Man55 with sun-weathered tan skin, broad square face, receding black-grey hair, heavy dark brows and stubble, broad practical frame. Worn ochre coat, muted green shirt, brown trousers and boots, thick hands holding seed sack."
+      ],
+      "states": [
+        {
+          "name": "Common plea",
+          "description": "At human negotiation, plain tied/loosened grain sack evidence, no weapons/royal seal."
+        }
+      ],
+      "lighting": "Morning/noon hearing daylight, modest warm window-facing planes and connected cool shadows; uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Ludo Dask"
+      },
+      "status": "completed",
+      "output": "stories/the-peace-they-could-sleep-through/art/characters/ludo-dask.png",
+      "generation": {
+        "prompt": "Edit this exact Ludo Dask character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Ludo Dask and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ba14629-bfba-4934-8b18-b8960d09c644.png",
+            "sha256": "386588e423103861591aa7b22445eca6ec8c37faa128c5a14aadfd6e763fdf64",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Ludo Dask; exact subtitle The Peace They Could Sleep Through. One human MAN55, sun-weathered TAN skin, BROAD SQUARE face, receding BLACK-GREY hair, heavy brows and short stubble, broad working frame. Worn OCHRE coat over muted green shirt, brown trousers and sturdy boots. Two full-body front/rear views, one wary determined face, hand detail opening plain burlap SEED SACK with small clean grains. State Common plea. No crown, military insignia, weapon or magical grain. Human representative's practical clothing and anxious resolve, not generic glowing fantasy warrior. Morning/noon diffuse WINDOW daylight with quiet warm facing planes, connected blue-violet shadows; no stage spotlight. LIGHT IVORY throughout negative space; no hearing room, chair, floor, other person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-peace-they-could-sleep-through/art/interiors/01-the-hearing-room.png",
+                "inspected": true,
+                "role": "Inspected morning hearing-room window light and matte oil strokes only; no room/furniture copied.",
+                "sha256": "154d038525eeb670766ec093402848c51ff25b527ce8b2f4a9204fe23e3ded94"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.360286+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ba14629-bfba-4934-8b18-b8960d09c644.png",
+            "outputSha256": "386588e423103861591aa7b22445eca6ec8c37faa128c5a14aadfd6e763fdf64",
+            "generatorReview": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:03:58.064983+00:00",
+            "prompt": "Edit this exact Ludo Dask character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Ludo Dask and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ba14629-bfba-4934-8b18-b8960d09c644.png",
+                "sha256": "386588e423103861591aa7b22445eca6ec8c37faa128c5a14aadfd6e763fdf64",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-689f3588-e54a-48fe-be5e-436c24318d94.png",
+            "outputSha256": "7525c4fa58a8f936841f687b53ad9390bba6a10eccc9ef62457c6c8d4d9bde48",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:05.013780+00:00",
+            "generatorReview": "Actual pixels inspected: distinct mature broad weathered male representative in ochre coat/green shirt/brown work clothes, ordinary seed-sack hand detail with plausible fingers. Daylight, identity continuity, opaque paint and full-body margins pass; ivory/readable heading/title restored."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "7525c4fa58a8f936841f687b53ad9390bba6a10eccc9ef62457c6c8d4d9bde48",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:33:05.013780+00:00",
+        "sourceSha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6",
+        "outputSha256": "7525c4fa58a8f936841f687b53ad9390bba6a10eccc9ef62457c6c8d4d9bde48",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ba14629-bfba-4934-8b18-b8960d09c644.png",
+            "sha256": "386588e423103861591aa7b22445eca6ec8c37faa128c5a14aadfd6e763fdf64",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct mature broad weathered male representative in ochre coat/green shirt/brown work clothes, ordinary seed-sack hand detail with plausible fingers. Daylight, identity continuity, opaque paint and full-body margins pass; ivory/readable heading/title restored.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "e2b92075c6633303c65999eea3218d2e1978fce02e58d539800afb9708e08dc6"
+      }
+    },
+    {
+      "id": "gelda-parn",
+      "name": "Gelda Parn",
+      "role": "Importing/milling houses' representative negotiates credit, audited release and ninety-day expiry.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Gelda Parn had opened an import ledger whose red columns represented three shiploads",
+          "explanation": "Importing/milling houses' representative negotiates credit, audited release and ninety-day expiry."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman, upright posture, import ledger with red columns; drafts first clause and orders. Source no physical demographics."
+      },
+      "explicitCanon": [
+        "Canon bundle read-only. Human agreement is negotiated without royal seal/compulsion; no retained dragon veto/authority after renunciation. Individual source physical gaps are art-only."
+      ],
+      "visualInterpretation": [
+        "Woman52, deep brown skin, short tightly curled salt-and-pepper hair, narrow oval face and firm mouth, tall frame; plum long clerk coat, cream high-neck blouse, dark trousers and plain polished shoes."
+      ],
+      "states": [
+        {
+          "name": "Common plea",
+          "description": "Human negotiating state with ledger, no divine authority or supernatural seal."
+        }
+      ],
+      "lighting": "Morning/noon hearing daylight, modest warm window-facing planes and connected cool shadows; uniform ivory.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Gelda Parn"
+      },
+      "status": "completed",
+      "output": "stories/the-peace-they-could-sleep-through/art/characters/gelda-parn.png",
+      "generation": {
+        "prompt": "Edit this exact Gelda Parn character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Gelda Parn and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-40d4e24d-5afc-43ad-afe4-c49756e040c3.png",
+            "sha256": "3ae163c0bbb2f110e2b60addf760f29bb421528816f2a5cae2a9a2aa56f46d90",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Gelda Parn; exact subtitle The Peace They Could Sleep Through. One adult human WOMAN52 with DEEP BROWN skin, short tightly curled SALT-AND-PEPPER hair, NARROW OVAL face, firm mouth and observant brown eyes, tall frame. PLUM long formal clerk coat, cream high-neck blouse, dark trousers and polished plain shoes. Two complete front/rear views, one assessing expression, one hand holding ordinary IMPORT LEDGER open to fine RED ruled columns without readable invented sums. State Common plea. No crown, court jewels, magical seal or weapon; human-authored contract only. Morning/noon diffuse WINDOW daylight with quiet warm facing planes, connected blue-violet shadows; no stage spotlight. LIGHT IVORY throughout negative space; no hearing room, chair, floor, other person or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-peace-they-could-sleep-through/art/interiors/01-the-hearing-room.png",
+                "inspected": true,
+                "role": "Inspected morning hearing-room window light and matte oil strokes only; no room/furniture copied.",
+                "sha256": "154d038525eeb670766ec093402848c51ff25b527ce8b2f4a9204fe23e3ded94"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.361543+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-40d4e24d-5afc-43ad-afe4-c49756e040c3.png",
+            "outputSha256": "3ae163c0bbb2f110e2b60addf760f29bb421528816f2a5cae2a9a2aa56f46d90",
+            "generatorReview": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:03:58.071077+00:00",
+            "prompt": "Edit this exact Gelda Parn character sheet ONLY by replacing every brown/grey/dark vignette or haze in the BACKGROUND NEGATIVE SPACE with clean uniform LIGHT IVORY to all edges. Restore exact dark-brown heading Gelda Parn and subtitle The Peace They Could Sleep Through in existing positions, completely readable. Keep every face, body, skin, hair, outfit, object, pose, detail, brushwork and diffuse window daylight illumination unchanged. No extra objects, scenery, floor patch, border, cast shadow, person or swatch. Same landscape1536x1024 composition; background/readability only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-40d4e24d-5afc-43ad-afe4-c49756e040c3.png",
+                "sha256": "3ae163c0bbb2f110e2b60addf760f29bb421528816f2a5cae2a9a2aa56f46d90",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Actual identity/anatomy/clothing/ordinary prop and daylight paint pass; dark negative-space vignette hides exact heading, violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-f6956b34-9f09-42a3-acc6-4eb6a9b0bfbe.png",
+            "outputSha256": "c0657aee4cb93447f315fe2ade58fb03631038db2cd6224b4ff1170671251845",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:33:05.025582+00:00",
+            "generatorReview": "Actual pixels inspected: consistent mature brown-skinned woman with salt-pepper curls, plum clerk coat/cream high-neck blouse/dark trousers, ordinary import ledger with red columns. Anatomy/identity/daylight and opaque oil paint pass; light ivory and exact readable name/title restored."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "c0657aee4cb93447f315fe2ade58fb03631038db2cd6224b4ff1170671251845",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:33:05.025582+00:00",
+        "sourceSha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6",
+        "outputSha256": "c0657aee4cb93447f315fe2ade58fb03631038db2cd6224b4ff1170671251845",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-40d4e24d-5afc-43ad-afe4-c49756e040c3.png",
+            "sha256": "3ae163c0bbb2f110e2b60addf760f29bb421528816f2a5cae2a9a2aa56f46d90",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent mature brown-skinned woman with salt-pepper curls, plum clerk coat/cream high-neck blouse/dark trousers, ordinary import ledger with red columns. Anatomy/identity/daylight and opaque oil paint pass; light ivory and exact readable name/title restored.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "4ec812ceb5bb0d34cb41f7285b1f83417553a505ea597934a3a08e9d817aab93"
+      }
+    },
+    {
+      "id": "varkesh",
+      "name": "Varkesh",
+      "role": "Deep-blue dragon, current public wearer and one of exactly twelve distinct persons constituting the Sleepless Majesty.",
+      "form": "One dragon identity with his worn shared human guise",
+      "selectionEvidence": [
+        {
+          "quote": "My individual name is Varkesh",
+          "explanation": "Main individual dragon spokesperson and current public wearer; not sole collective or a separate guise mind."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Deep-blue dragon with pale markings around eyes suggesting ceremonial exhaustion. Shared human guise: smooth brown face, close silver curls, androgynous body, loose grey robe. Exactly12 distinct dragons can each wear same guise while awake; guise has no mind. They later renounce authority and depart in own bodies."
+      },
+      "explicitCanon": [
+        "Canon source read-only. Varkesh is one person, never whole collective/13th being. Guise has no independent mind; no universal transformation, vocal alteration or Urumet link. Depicted guise is historical before abdication, not later continuation of authority."
+      ],
+      "visualInterpretation": [
+        "Adult deep-blue long-necked six-limbed dragon with muted pale cream eye markings, slightly drooping eyelids, two modest dark swept horns and soft dark-blue wing membranes. Human face mature about45, brown eyes/close silver curls, androgynous plain robe/sandals, no magical crown."
+      ],
+      "states": [
+        {
+          "name": "Own body",
+          "description": "Deep-blue dragon, four legs/two wings, one head/tail."
+        },
+        {
+          "name": "Public guise, Varkesh wearing",
+          "description": "Historical before abdication shared human shape while THIS one identity wears it; not separate person, no half-transformed fusion."
+        }
+      ],
+      "lighting": "Morning consultation/high-window daylight, connected blue shadows; ivory support.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Varkesh"
+      },
+      "status": "completed",
+      "output": "stories/the-peace-they-could-sleep-through/art/characters/varkesh.png",
+      "generation": {
+        "prompt": "Use case illustration-story. One LANDSCAPE1536x1024 character reference folio, quiet UNIFORM LIGHT IVORY to every edge. Exact heading Varkesh; exact subtitle The Peace They Could Sleep Through. Show ONE identity in two forms, never a cast of dragons. Varkesh's own DRAGON BODY is deep BLUE with pale cream markings circling tired eyes, long neck, modest dark swept horn pair, soft dark-blue folded wings, FOUR clawed legs plus TWO wings and long tail. Mature intelligent exhausted dragon, broad opaque matte Group of Seven oil masses and variable bristle strokes, no shiny CGI scales. Layout: large complete three-quarter dragon front at left, smaller complete rear dragon view lower-middle with tail curled safely inside ivory margins. At right show the SAME Varkesh in the shared HUMAN GUISE he wears before abdication: smooth BROWN face, CLOSE SILVER CURLS, ANDROGYNOUS mature body, loose plain GREY ROBE and simple sandals; one full body and one small head study if room. Exact short labels Own body and Public guise — Varkesh wearing. Human form has normal brown eyes, NO horns, wings, tail or scales; no half-transform monster. Guise is not an independent mind or another identity, so no throne, crown, second name or separate god. No other eleven dragons and no allusion to external monarchies. Both forms morning WINDOW daylight with modest warm facing planes and connected blue-violet shadows. Face/robe painted as decisively as dragon, matte opaque masses and quiet brush edges. Absolutely no architecture, floor patch, scenery, magic glow, floating scales, swatches or explanatory paragraphs.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-peace-they-could-sleep-through/art/interiors/02-the-private-consultation-room.png",
+            "inspected": true,
+            "role": "Inspected daytime room light/blue-violet connected shadows and opaque oil only, no architecture.",
+            "sha256": "0827e12e304b4902c63e39f86706a1bccad76d21d9ed03ba217a162b80d1d0bb"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case illustration-story. One LANDSCAPE1536x1024 character reference folio, quiet UNIFORM LIGHT IVORY to every edge. Exact heading Varkesh; exact subtitle The Peace They Could Sleep Through. Show ONE identity in two forms, never a cast of dragons. Varkesh's own DRAGON BODY is deep BLUE with pale cream markings circling tired eyes, long neck, modest dark swept horn pair, soft dark-blue folded wings, FOUR clawed legs plus TWO wings and long tail. Mature intelligent exhausted dragon, broad opaque matte Group of Seven oil masses and variable bristle strokes, no shiny CGI scales. Layout: large complete three-quarter dragon front at left, smaller complete rear dragon view lower-middle with tail curled safely inside ivory margins. At right show the SAME Varkesh in the shared HUMAN GUISE he wears before abdication: smooth BROWN face, CLOSE SILVER CURLS, ANDROGYNOUS mature body, loose plain GREY ROBE and simple sandals; one full body and one small head study if room. Exact short labels Own body and Public guise — Varkesh wearing. Human form has normal brown eyes, NO horns, wings, tail or scales; no half-transform monster. Guise is not an independent mind or another identity, so no throne, crown, second name or separate god. No other eleven dragons and no allusion to external monarchies. Both forms morning WINDOW daylight with modest warm facing planes and connected blue-violet shadows. Face/robe painted as decisively as dragon, matte opaque masses and quiet brush edges. Absolutely no architecture, floor patch, scenery, magic glow, floating scales, swatches or explanatory paragraphs.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-peace-they-could-sleep-through/art/interiors/02-the-private-consultation-room.png",
+                "inspected": true,
+                "role": "Inspected daytime room light/blue-violet connected shadows and opaque oil only, no architecture.",
+                "sha256": "0827e12e304b4902c63e39f86706a1bccad76d21d9ed03ba217a162b80d1d0bb"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T07:42:29.362874+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-99538167-2b46-4bc4-8d20-9cbae7e36b85.png",
+            "outputSha256": "a92cc603a6ee0ce4de3b6db127f0c47dfdcd45d1431345107ad069c4c821e316",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T08:03:57.030698+00:00",
+            "generatorReview": "Actual pixels inspected: deep blue mature dragon, pale eye marks and tired expression, coherent four legs/two wings/tail in full front and rear; same identity's labelled shared human guise has smooth brown face/close silver curls/plain grey robe/sandals with no dragon parts. Labels clarify guise is Varkesh wearing, no thirteenth identity. Matte paint, anatomy/margins/ivory and exact name/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "a92cc603a6ee0ce4de3b6db127f0c47dfdcd45d1431345107ad069c4c821e316",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:03:57.030698+00:00",
+        "sourceSha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6",
+        "outputSha256": "a92cc603a6ee0ce4de3b6db127f0c47dfdcd45d1431345107ad069c4c821e316",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-peace-they-could-sleep-through/art/interiors/02-the-private-consultation-room.png",
+            "inspected": true,
+            "role": "Inspected daytime room light/blue-violet connected shadows and opaque oil only, no architecture.",
+            "sha256": "0827e12e304b4902c63e39f86706a1bccad76d21d9ed03ba217a162b80d1d0bb"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: deep blue mature dragon, pale eye marks and tired expression, coherent four legs/two wings/tail in full front and rear; same identity's labelled shared human guise has smooth brown face/close silver curls/plain grey robe/sandals with no dragon parts. Labels clarify guise is Varkesh wearing, no thirteenth identity. Matte paint, anatomy/margins/ivory and exact name/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "464d17043fb47e51a12f42b9ae95b996b033db7f9ce16c1f6f1fd9f1871acf97"
+      }
+    }
+  ],
+  "sourceSha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6"
+}

@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 1,
+  "slug": "terms-at-four",
+  "title": "Terms at Four",
+  "source": "stories/terms-at-four/story.md",
+  "sourceSha256": "38f576b2880f9e5be60cecd3475b502e07bc6d94f4abe4b524d7ba10eaa69dde",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full source read from tea arrival at4 through door response after5:12. Three sustained negotiating agents determine the plot: host34, second-person former-colleague witness, and Prime Minister present by phone. Source names none. Art names assigned only under explicit user naming authorization.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Six captives including repeating-demand captive, older helper and person needing cardiac medication",
+      "reason": "Important hostage stakes and brief supportive speaking actions, not sustained central negotiating identities; distinct from five maintenance workers. Do not infer genders or depict confinement in character sheets."
+    },
+    {
+      "name": "Five maintenance workers, counsel/assistants, recovery medical teams/security officials, ground control and platform synthetic voice",
+      "reason": "Collective/brief supporting roles or equipment voice; not the three principal cast. No machine personality or human identity inferred."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy. No named character supplied in prompt/current story/review; no shared universe identity established.",
+    "Mirette, Darsen, Isdra exact names searched across universe, frozen NAMES and all story Markdown: no matches. Art-only names and all unsupported bodily features remain noncanonical.",
+    "Host explicitly woman34, doctorate/retained orbital-platform session; cute adult not child. Witness and Prime Minister gender/appearance unspecified; choose androgynous art presentations without asserting gender.",
+    "Technology is engineered telemetry/keys/control; host has no magic. Hostage release and disarmament verified separately; protagonist doesn't gain immunity. No violence/action scene in sheets."
+  ],
+  "referenceInputs": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "mirette",
+      "name": "Mirette",
+      "sourceIdentityId": "mirette",
+      "role": "Unnamed host and former senior orbital-defense engineer",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-four, your former colleague had made herself cute",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 19
+        },
+        {
+          "quote": "a soft green cardigan, a silver barrette shaped like two leaves, and round spectacles",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 19
+        },
+        {
+          "quote": "placed both hands flat beside her plate, visible from the doorway",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 425
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Explicit grown human woman34.",
+        "lifeStage": "Thirty-four, not child or teen.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Soft green cardigan, round spectacles, silver barrette shaped like two leaves; tea towel over one shoulder at door.",
+        "equipment": "Teacup/teapot, pen, glasses/barrette; plain touch-control glass, no magical item.",
+        "scale": "Adult human.",
+        "movement": "Deliberate exact serving gestures; initially controlled, later trembling pressure and open visible hands.",
+        "distinctiveFeatures": "Human engineer retaining computer session, no bodily power."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Mirette; light warm fawn skin, round-oval grown face, brown eyes, soft short wavy dark brown bob, friendly appearance and precise posture; adult34 natural eyes/body.",
+        "Sage-green button cardigan over cream blouse, muted plum calf-length skirt and plain brown flat shoes. Two-leaf silver barrette at anatomical left temple, plain white tea towel right shoulder for arrival state; round thin silver glasses. Silver barrette/glasses practical subdued highlights.",
+        "Selected harmless art details: tea towel white with red woven stripes; white cup small blue flower marks. Rear head faces straight away, barrette anatomical left as in portraits. Enlarged accessory exactly two leaves after correction."
+      ],
+      "states": [
+        {
+          "label": "Black tea first?",
+          "description": "Deliberate host with tea."
+        },
+        {
+          "label": "Commit",
+          "description": "Concern without caricature, fingers hovering/pressing plain pane."
+        },
+        {
+          "label": "Visible hands",
+          "description": "Open relaxed hands after coercive sequence, not restraints."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "terms-at-four:mirette",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/terms-at-four/title-image.jpg",
+          "sha256": "5a4b7b1482283e1430c94b17b3c41ea098968ab27d8cf8597c13449eedefce5a",
+          "role": "Source cover inspected for restrained domestic objects/telemetry, no character identity or daylight anchor",
+          "inspected": true,
+          "notes": "Cover no human; dark symbolic cake/phone/tea still life, never source portrait."
+        },
+        {
+          "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+          "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+          "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+          "inspected": true,
+          "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+        },
+        {
+          "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+          "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+          "role": "Large connected Group of Seven paint masses/directional strokes only",
+          "inspected": true,
+          "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+        }
+      ],
+      "output": "stories/terms-at-four/art/characters/mirette.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:39:13.057223+00:00",
+            "status": "REVISE",
+            "prompt": "Use case: stylized-concept. ONE landscape1536x1024 character reference folio on clean WARM IVORY support. EXACT NAME and story title \"Terms at Four\" reserved upper-left, legible dark serif, unclipped. One identity only; front and rear full-length, two expressive head studies, one distinguishing hand/object study, spacious composition. No scene, setting, furniture, room, ground/contact patches, swatches, grids, extra people or decorative painted halos.\n\nRENDERING: Canadian Group of Seven bold HEAVY OPAQUE OIL. Broad joined coloured value MASSES, varied long directional bristle strokes and selective knife impasto; quiet connecting passages. Paint the face/hands as decisively and physically as reference landscape forms. Natural adult facial proportions, restrained eyes, no glossy pupils, no tiny bevel chips/photographic skin/CGI/anime. Actual layered paint, not a texture filter over realism.\nUse attached story oils as primary paint/light anchors only. On the host/witness: late afternoon FOUR O'CLOCK filtered window light, modest warm left-facing planes, large connected subdued cool interior shadows, no orange rim or bright fill. Paper remains light ivory. Keep consistent human identity across angles.\n\nEXACT NAME \"Mirette\". Human WOMAN explicitly THIRTY-FOUR: charming grown adult, natural round-oval face, light warm fawn skin, brown eyes, soft short wavy dark-brown BOB, ordinary adult build; no teenager features, doll eyes or child proportions. Friendly carefully poised expression, capacity for firm anxious control.\nSame outfit in front/rear: soft SAGE GREEN cardigan buttoned over CREAM blouse, muted PLUM calf-length skirt, plain brown FLAT SHOES. Thin SILVER ROUND spectacles, small SILVER BARRETTE shaped as EXACTLY TWO LEAVES at anatomical LEFT temple, holds hair on same side in all views. Plain white TEA TOWEL on right shoulder in main arrival full-body view, omitted in head studies. Show small two-leaf barrette detail next to head if useful. Source exact clothing anchors essential.\nPrimary front one hand holds ordinary small white porcelain tea cup gently at waist, other relaxed. Rear same skirt/cardigan, barrette side anatomically coherent.\nTwo head studies labels \"Black tea first?\" (planned pleasant hosting) and \"Commit\" (fraying precision, tension, mature brows, still same face). One enlarged pair of bare hands held flat palm DOWN, fingers separated natural, laid in neutral space with NO table or furniture visible; label \"Visible hands\". Exactly five digits per hand, no gesture spell or cuffs.\nNo huge tray/teapot/cake arrangement, no house, no screens as backdrop. She is a human engineer, no halo/control beam. No weapon, no fantasy jewelry. Cardigan matte wool broad long paint folds, skin quiet broad oil planes.",
+            "references": [
+              {
+                "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+                "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+                "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+                "inspected": true,
+                "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+              },
+              {
+                "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+                "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+                "role": "Large connected Group of Seven paint masses/directional strokes only",
+                "inspected": true,
+                "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-b5e9d08c-aaef-4f72-b0ae-daa7b8457f2e.png",
+            "returnedSha256": "a9f48911b377ab8c6d99b6b9b899d4aa49360114d41f0ec34d10fd2141216185",
+            "completedAt": "2026-09-24T08:47:17.603991+00:00",
+            "review": "Good adult34 likeness, round spectacles/green cardigan, opaque oil and afternoon window light; ten visible fingers coherent. REVISE foot ground patches; blank ivory required. Rear pose barrette appears anatomical right while front/portraits left: use straight rear head and barrette left edge for consistent anatomical-left accessory. Clarify enlarged barrette exactly two leaves without overlapping leaf-like third shapes."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:47:18.550322+00:00",
+            "status": "REVISE",
+            "prompt": "Precise correction of this exact Mirette reference sheet. Preserve adult34 facial identity, all face expressions, glasses, cardigan/skirt/shoes, tea towel, cup, hands anatomy and painterly style/light/text/layout. Only these changes:\n\n1 DELETE ALL coloured grey/brown ground/contact patches below BOTH full-body views. Everything outside feet must be clean warm ivory, no shadows or decorative paint.\n2 Silver barrette is at her ANATOMICAL LEFT temple in primary and portraits. Make rear-view head face STRAIGHT AWAY from us, not looking to viewer-right; the barrette should peek at the VIEWER-LEFT edge of that rear head (anatomical left). Remove current rear viewer-right barrette. Same bob haircut shape. This makes left/right placement coherent.\n3 Enlarged silver two-leaf barrette: clearly EXACTLY TWO simple silver leaves connected by one narrow stem, no third small leaf/overlapping cluster. Main face/portraits keep same two-leaf accessory in their existing anatomical-left location.\n\nNo changes to faces or extra age. Keep broad opaque Group of Seven physical oil and natural four-o'clock windowlight. No new content. \"Mirette\", \"Terms at Four\", \"Black tea first?\", \"Commit\", \"Visible hands\", \"Two-leaf barrette\" exact.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-b5e9d08c-aaef-4f72-b0ae-daa7b8457f2e.png",
+                "sha256": "a9f48911b377ab8c6d99b6b9b899d4aa49360114d41f0ec34d10fd2141216185",
+                "inspected": true,
+                "role": "Exact Mirette target; ground removal/rear barrette continuity only"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3213f2df-85ab-47c7-b557-e59115386f75.png",
+            "returnedSha256": "5094f581856b4fca8d90718dcdd0d327b5ebcbf6645b4b04947606777bdc30da",
+            "completedAt": "2026-09-24T08:52:32.699144+00:00",
+            "review": "Rear barrette side and blank ground corrected. Enlarged barrette now visibly has three leaf blades, violating exact source two. Single detail correction needed; preserve other pixels."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:52:33.618770+00:00",
+            "status": "PASS",
+            "prompt": "ONE TINY OBJECT EDIT ONLY in this exact image. Keep EVERYTHING else exactly: faces, age34, outfits, hands, light, headings, body/front/rear, hair clips on heads, ivory paper.\n\nIn the enlarged silver barrette detail near lower center labeled \"Two-leaf barrette\", there are currently THREE leaf blades. Remove the MIDDLE-LEFT blade, the extra blade projecting down-left between the upper-left leaf and the lower-right leaf. Replace only that removed blade with the existing brown hair underneath. Keep the TOP-LEFT pointed silver leaf and the BOTTOM-RIGHT pointed silver leaf connected by ONE narrow stem. End result EXACTLY TWO silver leaf blades total, one upper-left and one lower-right. No third leaf/shard/overlapping spike.\nThe enlarged detail should read as two simple distinct whole almond-shaped silver leaves on one slim stem, with broad painted ridges and hair behind. Do not alter words, detail size or layout. No changes elsewhere.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3213f2df-85ab-47c7-b557-e59115386f75.png",
+                "sha256": "5094f581856b4fca8d90718dcdd0d327b5ebcbf6645b4b04947606777bdc30da",
+                "inspected": true,
+                "role": "Exact corrected target; enlarged barrette third-leaf removal only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-df494d2c-22a8-4e45-824c-5c0f053d4fe8.png",
+            "returnedSha256": "98993cf2dacf6eb236861bebf94d5bb59257ba8c2badb3d632616e1bd84a9406",
+            "completedAt": "2026-09-24T08:57:57.943840+00:00",
+            "review": [
+              "Actual returned landscape pixels inspected: one charming grown woman34, same bobbed hair/round glasses/brown eyes and adult face across front/rear/two portraits; no juvenile/anime anatomy.",
+              "Source sage-green cardigan, round spectacles and exactly TWO silver barrette leaves correct. Enlarged detail now two simple blades; rear head straight away, barrette viewer-left/anatomical-left consistent with front and portraits. Tea towel right shoulder, art plum skirt/flat shoes/cup consistent.",
+              "Both enlarged bare hands show five natural digits each and open palms-down visibility; poses ordinary, no control beam/weapon. Mild concerned Commit expression distinguishes precise hosting.",
+              "Ground patches removed; warm ivory blank outside character studies, exact headings/labels readable. Broad matte oil planes in face/hands/cloth and gentle afternoon windowlight maintained; source identity remains unnamed despite art-only Mirette."
+            ]
+          }
+        ],
+        "prompt": "ONE TINY OBJECT EDIT ONLY in this exact image. Keep EVERYTHING else exactly: faces, age34, outfits, hands, light, headings, body/front/rear, hair clips on heads, ivory paper.\n\nIn the enlarged silver barrette detail near lower center labeled \"Two-leaf barrette\", there are currently THREE leaf blades. Remove the MIDDLE-LEFT blade, the extra blade projecting down-left between the upper-left leaf and the lower-right leaf. Replace only that removed blade with the existing brown hair underneath. Keep the TOP-LEFT pointed silver leaf and the BOTTOM-RIGHT pointed silver leaf connected by ONE narrow stem. End result EXACTLY TWO silver leaf blades total, one upper-left and one lower-right. No third leaf/shard/overlapping spike.\nThe enlarged detail should read as two simple distinct whole almond-shaped silver leaves on one slim stem, with broad painted ridges and hair behind. Do not alter words, detail size or layout. No changes elsewhere.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3213f2df-85ab-47c7-b557-e59115386f75.png",
+            "sha256": "5094f581856b4fca8d90718dcdd0d327b5ebcbf6645b4b04947606777bdc30da",
+            "inspected": true,
+            "role": "Exact corrected target; enlarged barrette third-leaf removal only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T08:57:57.943840+00:00",
+        "sourceSha256": "38f576b2880f9e5be60cecd3475b502e07bc6d94f4abe4b524d7ba10eaa69dde",
+        "outputSha256": "98993cf2dacf6eb236861bebf94d5bb59257ba8c2badb3d632616e1bd84a9406",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3213f2df-85ab-47c7-b557-e59115386f75.png",
+            "sha256": "5094f581856b4fca8d90718dcdd0d327b5ebcbf6645b4b04947606777bdc30da",
+            "inspected": true,
+            "role": "Exact corrected target; enlarged barrette third-leaf removal only"
+          }
+        ],
+        "evidence": [
+          "Actual returned landscape pixels inspected: one charming grown woman34, same bobbed hair/round glasses/brown eyes and adult face across front/rear/two portraits; no juvenile/anime anatomy.",
+          "Source sage-green cardigan, round spectacles and exactly TWO silver barrette leaves correct. Enlarged detail now two simple blades; rear head straight away, barrette viewer-left/anatomical-left consistent with front and portraits. Tea towel right shoulder, art plum skirt/flat shoes/cup consistent.",
+          "Both enlarged bare hands show five natural digits each and open palms-down visibility; poses ordinary, no control beam/weapon. Mild concerned Commit expression distinguishes precise hosting.",
+          "Ground patches removed; warm ivory blank outside character studies, exact headings/labels readable. Broad matte oil planes in face/hands/cloth and gentle afternoon windowlight maintained; source identity remains unnamed despite art-only Mirette."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "e92fe892d59dcc72e33efe3b86ed2c80c3f22eb363ce53162bccd92a16bdcd9a"
+      },
+      "nameAssignment": {
+        "name": "Mirette",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed host and former senior orbital-defense engineer",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Mirette, Darsen and Isdra searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "98993cf2dacf6eb236861bebf94d5bb59257ba8c2badb3d632616e1bd84a9406"
+    },
+    {
+      "id": "darsen",
+      "name": "Darsen",
+      "sourceIdentityId": "darsen",
+      "role": "Unnamed second-person witness and former platform designer",
+      "selectionEvidence": [
+        {
+          "quote": "Your watch said four precisely too",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "The tea touched your tongue before you understood you had picked it up.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 59
+        },
+        {
+          "quote": "A factual one.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 417
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult; source second-person narrator leaves gender/appearance unspecified.",
+        "lifeStage": "Adult with past senior technical work; art late30s.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Arrival coat removed; shoes explicitly stay on; other clothing unspecified.",
+        "equipment": "Wristwatch, ordinary cup/plate; uses verifier/control panes, read-only until witness interventions.",
+        "scale": "Adult human.",
+        "movement": "Firm exact questioning, restrained moral anger, patient monitoring, stays to witness.",
+        "distinctiveFeatures": "Former designer verifies engineering; no supernatural power."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Darsen; androgynous adult late30s, warm medium-brown skin, short dark curls, long straight nose, brown eyes, clean face, medium lean build.",
+        "Plain ochre-brown crew-neck knit top over off-white collar, slate-blue trousers and dark practical ankle shoes; simple steel wristwatch on left wrist. Arrival coat omitted from main present scene. Hand holding ordinary white tea cup and separate watch detail."
+      ],
+      "states": [
+        {
+          "label": "Show me",
+          "description": "Direct concerned questioning."
+        },
+        {
+          "label": "A factual one",
+          "description": "Calm firm refusal to excuse coercion."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "terms-at-four:darsen",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/terms-at-four/title-image.jpg",
+          "sha256": "5a4b7b1482283e1430c94b17b3c41ea098968ab27d8cf8597c13449eedefce5a",
+          "role": "Source cover inspected for restrained domestic objects/telemetry, no character identity or daylight anchor",
+          "inspected": true,
+          "notes": "Cover no human; dark symbolic cake/phone/tea still life, never source portrait."
+        },
+        {
+          "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+          "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+          "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+          "inspected": true,
+          "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+        },
+        {
+          "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+          "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+          "role": "Large connected Group of Seven paint masses/directional strokes only",
+          "inspected": true,
+          "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+        }
+      ],
+      "output": "stories/terms-at-four/art/characters/darsen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T08:57:58.933260+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. ONE landscape1536x1024 character reference folio on clean WARM IVORY support. EXACT NAME and story title \"Terms at Four\" reserved upper-left, legible dark serif, unclipped. One identity only; front and rear full-length, two expressive head studies, one distinguishing hand/object study, spacious composition. No scene, setting, furniture, room, ground/contact patches, swatches, grids, extra people or decorative painted halos.\n\nRENDERING: Canadian Group of Seven bold HEAVY OPAQUE OIL. Broad joined coloured value MASSES, varied long directional bristle strokes and selective knife impasto; quiet connecting passages. Paint the face/hands as decisively and physically as reference landscape forms. Natural adult facial proportions, restrained eyes, no glossy pupils, no tiny bevel chips/photographic skin/CGI/anime. Actual layered paint, not a texture filter over realism.\nUse attached story oils as primary paint/light anchors only. On the host/witness: late afternoon FOUR O'CLOCK filtered window light, modest warm left-facing planes, large connected subdued cool interior shadows, no orange rim or bright fill. Paper remains light ivory. Keep consistent human identity across angles.\n\nEXACT NAME \"Darsen\". One androgynous HUMAN adult late30s, ordinary lean medium-height body, warm MEDIUM-BROWN skin, short DARK tightly curled hair, long straight nose, brown eyes, clean-shaven face, reserved perceptive expression. Gender deliberately unspecified, neither glamour makeup nor masculine caricature. Adult former engineer/witness.\nPlain OCHRE-BROWN crew-neck knitted top over off-white shirt collar, SLATE-BLUE trousers, simple dark practical ankle shoes. No vest/jacket/glasses/apron/scarf. Plain STEEL WRISTWATCH at anatomical LEFT wrist consistently front and back; no jewels/runes. Strong different identity from host, no borrowed female bob.\nFront full body neutral with one hand holding a plain WHITE tea cup at waist, other relaxed. Back/side full body same clothes/head/build, no cup needed. Portrait1 label \"Show me\": direct worried questioning. Portrait2 \"A factual one\": calm firm resolve, not smiling. Both same natural adult face. Lower-right enlarged LEFT hand/wrist palm-down wearing small simple steel watch, five natural fingers, no extra watch elsewhere. Watch close-up face readable but no tiny text required.\nBroad physical OPAQUE oil facial planes, large joined warm-brown/cool umber shadows; restrained realistic eye sizes but NOT photographic skin. Four-o'clock filtered windowlight. No room or floor/contact shadow, no monitor, laptop, table, books, satellite, legal paperwork or scenery. Page clean ivory.",
+            "references": [
+              {
+                "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+                "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+                "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+                "inspected": true,
+                "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+              },
+              {
+                "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+                "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+                "role": "Large connected Group of Seven paint masses/directional strokes only",
+                "inspected": true,
+                "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f8c40f46-cb5c-4c7b-b2ee-3f9b35a58d38.png",
+            "returnedSha256": "b4bcdee518a6b2bfa59d9a658e0a2616a43bfeb35f6694b490127f926d2f6396",
+            "completedAt": "2026-09-24T09:02:19.920510+00:00",
+            "review": [
+              "Actual pixels inspected: same androgynous mature adult short-curled brown-skinned long-nosed identity across front/rear/portraits, no gender assertion or borrowed Mirette bob/glasses.",
+              "Ochre knit, offwhite collar, slate trousers and practical shoes coherent. Wristwatch on anatomical left in front and rear; enlarged dorsal left hand has thumb upper side with five distinct digits and same steel watch; cup naturally held.",
+              "Broad physical opaque oil planes across face and enlarged hand, long knitted/clothing stroke rhythm, restrained warm four-o'clock windowlight and connected shaded masses. Human face/eyes normal, no smooth anime surface.",
+              "Terms at Four/Darsen and exact source-expression labels clear, ivory free of floor/contact patches, decoration, locations/swatches. Art-only name and bodily appearance documented; source remains second-person unnamed."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE landscape1536x1024 character reference folio on clean WARM IVORY support. EXACT NAME and story title \"Terms at Four\" reserved upper-left, legible dark serif, unclipped. One identity only; front and rear full-length, two expressive head studies, one distinguishing hand/object study, spacious composition. No scene, setting, furniture, room, ground/contact patches, swatches, grids, extra people or decorative painted halos.\n\nRENDERING: Canadian Group of Seven bold HEAVY OPAQUE OIL. Broad joined coloured value MASSES, varied long directional bristle strokes and selective knife impasto; quiet connecting passages. Paint the face/hands as decisively and physically as reference landscape forms. Natural adult facial proportions, restrained eyes, no glossy pupils, no tiny bevel chips/photographic skin/CGI/anime. Actual layered paint, not a texture filter over realism.\nUse attached story oils as primary paint/light anchors only. On the host/witness: late afternoon FOUR O'CLOCK filtered window light, modest warm left-facing planes, large connected subdued cool interior shadows, no orange rim or bright fill. Paper remains light ivory. Keep consistent human identity across angles.\n\nEXACT NAME \"Darsen\". One androgynous HUMAN adult late30s, ordinary lean medium-height body, warm MEDIUM-BROWN skin, short DARK tightly curled hair, long straight nose, brown eyes, clean-shaven face, reserved perceptive expression. Gender deliberately unspecified, neither glamour makeup nor masculine caricature. Adult former engineer/witness.\nPlain OCHRE-BROWN crew-neck knitted top over off-white shirt collar, SLATE-BLUE trousers, simple dark practical ankle shoes. No vest/jacket/glasses/apron/scarf. Plain STEEL WRISTWATCH at anatomical LEFT wrist consistently front and back; no jewels/runes. Strong different identity from host, no borrowed female bob.\nFront full body neutral with one hand holding a plain WHITE tea cup at waist, other relaxed. Back/side full body same clothes/head/build, no cup needed. Portrait1 label \"Show me\": direct worried questioning. Portrait2 \"A factual one\": calm firm resolve, not smiling. Both same natural adult face. Lower-right enlarged LEFT hand/wrist palm-down wearing small simple steel watch, five natural fingers, no extra watch elsewhere. Watch close-up face readable but no tiny text required.\nBroad physical OPAQUE oil facial planes, large joined warm-brown/cool umber shadows; restrained realistic eye sizes but NOT photographic skin. Four-o'clock filtered windowlight. No room or floor/contact shadow, no monitor, laptop, table, books, satellite, legal paperwork or scenery. Page clean ivory.",
+        "references": [
+          {
+            "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+            "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+            "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+            "inspected": true,
+            "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+          },
+          {
+            "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+            "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+            "role": "Large connected Group of Seven paint masses/directional strokes only",
+            "inspected": true,
+            "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:02:19.920510+00:00",
+        "sourceSha256": "38f576b2880f9e5be60cecd3475b502e07bc6d94f4abe4b524d7ba10eaa69dde",
+        "outputSha256": "b4bcdee518a6b2bfa59d9a658e0a2616a43bfeb35f6694b490127f926d2f6396",
+        "references": [
+          {
+            "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+            "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+            "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+            "inspected": true,
+            "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+          },
+          {
+            "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+            "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+            "role": "Large connected Group of Seven paint masses/directional strokes only",
+            "inspected": true,
+            "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same androgynous mature adult short-curled brown-skinned long-nosed identity across front/rear/portraits, no gender assertion or borrowed Mirette bob/glasses.",
+          "Ochre knit, offwhite collar, slate trousers and practical shoes coherent. Wristwatch on anatomical left in front and rear; enlarged dorsal left hand has thumb upper side with five distinct digits and same steel watch; cup naturally held.",
+          "Broad physical opaque oil planes across face and enlarged hand, long knitted/clothing stroke rhythm, restrained warm four-o'clock windowlight and connected shaded masses. Human face/eyes normal, no smooth anime surface.",
+          "Terms at Four/Darsen and exact source-expression labels clear, ivory free of floor/contact patches, decoration, locations/swatches. Art-only name and bodily appearance documented; source remains second-person unnamed."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "12de592234939776fa76283b73724c4bc99b66edde0f0c0fdacc5b816d8deb35"
+      },
+      "nameAssignment": {
+        "name": "Darsen",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed second-person witness and former platform designer",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Mirette, Darsen and Isdra searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "b4bcdee518a6b2bfa59d9a658e0a2616a43bfeb35f6694b490127f926d2f6396"
+    },
+    {
+      "id": "isdra",
+      "name": "Isdra",
+      "sourceIdentityId": "isdra",
+      "role": "Unnamed Prime Minister and government negotiator by phone",
+      "selectionEvidence": [
+        {
+          "quote": "The voice that came through was lower than broadcasts made it",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 221
+        },
+        {
+          "quote": "I am responsible for six people in a locked room and everyone beneath that satellite.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 251
+        },
+        {
+          "quote": "The government has met your demands.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 369
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult role; voice only in source, gender/appearance unspecified.",
+        "lifeStage": "Adult, exact age unstated; art around60.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "No on-page physical clothing specified.",
+        "equipment": "Encrypted telephone call, paper heard; no badges/weapon/crown established.",
+        "scale": "Adult human.",
+        "movement": "Deliberate official firmness, fatigue, short direct clauses under pressure.",
+        "distinctiveFeatures": "Authority held by office, no personal magic or direct bodily appearance established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Art-only name Isdra; voice-only protagonist visualized as androgynous older adult60, light olive skin, tall broad build, cropped straight silver hair, broad angular face/strong jaw, dark-brown eyes; no gender claim.",
+        "Dark graphite trouser suit, muted lavender collarless shirt, plain dark shoes, no tie/insignia/flag/jewelry. Hold ordinary dark encrypted phone handset with no logo, folded paper separate detail. Soft neutral indoor working light is art interpretation, no invented location or window asserted."
+      ],
+      "states": [
+        {
+          "label": "Proceed",
+          "description": "Measured direct negotiation."
+        },
+        {
+          "label": "Confirmed",
+          "description": "Tired relief while remaining formal."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "terms-at-four:isdra",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/terms-at-four/title-image.jpg",
+          "sha256": "5a4b7b1482283e1430c94b17b3c41ea098968ab27d8cf8597c13449eedefce5a",
+          "role": "Source cover inspected for restrained domestic objects/telemetry, no character identity or daylight anchor",
+          "inspected": true,
+          "notes": "Cover no human; dark symbolic cake/phone/tea still life, never source portrait."
+        },
+        {
+          "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+          "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+          "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+          "inspected": true,
+          "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+        },
+        {
+          "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+          "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+          "role": "Large connected Group of Seven paint masses/directional strokes only",
+          "inspected": true,
+          "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+        }
+      ],
+      "output": "stories/terms-at-four/art/characters/isdra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T09:02:20.873617+00:00",
+            "status": "PASS",
+            "prompt": "Use case: stylized-concept. ONE landscape1536x1024 character reference folio on clean WARM IVORY support. EXACT NAME and story title \"Terms at Four\" reserved upper-left, legible dark serif, unclipped. One identity only; front and rear full-length, two expressive head studies, one distinguishing hand/object study, spacious composition. No scene, setting, furniture, room, ground/contact patches, swatches, grids, extra people or decorative painted halos.\n\nRENDERING: Canadian Group of Seven bold HEAVY OPAQUE OIL. Broad joined coloured value MASSES, varied long directional bristle strokes and selective knife impasto; quiet connecting passages. Paint the face/hands as decisively and physically as reference landscape forms. Natural adult facial proportions, restrained eyes, no glossy pupils, no tiny bevel chips/photographic skin/CGI/anime. Actual layered paint, not a texture filter over realism.\nUse attached story oils as primary paint/light anchors only. On the host/witness: late afternoon FOUR O'CLOCK filtered window light, modest warm left-facing planes, large connected subdued cool interior shadows, no orange rim or bright fill. Paper remains light ivory. Keep consistent human identity across angles.\n\nEXACT NAME \"Isdra\". One androgynous older HUMAN adult about60, a Prime Minister whose gender is not specified. Tall broad ordinary build, LIGHT OLIVE skin, cropped straight SILVER hair with simple side part, broad angular face/strong jaw, dark brown eyes, clean face. Calm formal authority and fatigue; no villain cues, regal symbols or resemblance to a particular politician.\nSame full-cover outfit front/rear: plain GRAPHITE trouser suit with simple straight tailored jacket, muted LAVENDER collarless shirt, plain dark flat leather shoes. No tie/flag/lapel pin/medals/jewelry/crown. Main left FRONT full-body in relaxed standing posture, holding a plain dark modern telephone handset comfortably to ear with one five-digit hand, other rests at side. Rear three-quarter same body/head/clothes, lowered handset held near waist. No phone cable crossing other views.\nTwo separate expressive adult head studies: \"Proceed\" (short direct instruction, slightly knit brow) and \"Confirmed\" (restrained tired relief). One enlarged five-digit hand holding a folded sheet of ordinary cream paper, no legal text/readable seal or clipboard.\nLIGHT override: the source is voice-only, this is an ART INTERPRETATION. Use quiet neutral diffused indoor working light, low contrast cool grey shadows and small muted warm skin planes. No full sunny orange face or dramatic theatrical rim. No office/desk/window/environment must be shown.\nFaces and hand made of broad joined opaque Group of Seven oil planes, simplified like landscape masses. Preserve skin mature but no finely drawn wrinkle net, no tiny realistic pores/glossy eyes. Ivory completely blank outside figures, no ground patches/swatches. Only exact requested name/title/two labels.",
+            "references": [
+              {
+                "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+                "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+                "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+                "inspected": true,
+                "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+              },
+              {
+                "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+                "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+                "role": "Large connected Group of Seven paint masses/directional strokes only",
+                "inspected": true,
+                "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e79c9a75-464b-48cb-a4c7-c8716831f81e.png",
+            "returnedSha256": "56213dca17516228c3e4f7be449e5e09d0bc431af542f7ab370e7674d5798688",
+            "completedAt": "2026-09-24T09:09:00.571714+00:00",
+            "review": [
+              "Full pixels inspected: consistent older silver-haired androgynous adult, broad angular face/strong jaw, natural brown eyes in front/rear/two portraits. Appearance remains explicitly invented for voice-only Prime Minister, no asserted source gender or real politician identity.",
+              "Graphite trouser suit/lavender collarless shirt/plain black shoes and dark phone consistent; no flags, pins, weapon, crown or location. Folded paper held with natural fingers and thumb partly occluded by paper.",
+              "Quiet indoor light, low-value graphite suit and grey-violet skin shadows, small warm skin planes; opaque oil directly shapes forehead/cheek/nose and hand rather than photographic pores. Mature without fine wrinkle net.",
+              "Exact name/story title/Proceed/Confirmed readable; isolated poses no floor shadow or paint swatches, all feet in frame. Same formal tired adult from instruction to confirmation."
+            ]
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE landscape1536x1024 character reference folio on clean WARM IVORY support. EXACT NAME and story title \"Terms at Four\" reserved upper-left, legible dark serif, unclipped. One identity only; front and rear full-length, two expressive head studies, one distinguishing hand/object study, spacious composition. No scene, setting, furniture, room, ground/contact patches, swatches, grids, extra people or decorative painted halos.\n\nRENDERING: Canadian Group of Seven bold HEAVY OPAQUE OIL. Broad joined coloured value MASSES, varied long directional bristle strokes and selective knife impasto; quiet connecting passages. Paint the face/hands as decisively and physically as reference landscape forms. Natural adult facial proportions, restrained eyes, no glossy pupils, no tiny bevel chips/photographic skin/CGI/anime. Actual layered paint, not a texture filter over realism.\nUse attached story oils as primary paint/light anchors only. On the host/witness: late afternoon FOUR O'CLOCK filtered window light, modest warm left-facing planes, large connected subdued cool interior shadows, no orange rim or bright fill. Paper remains light ivory. Keep consistent human identity across angles.\n\nEXACT NAME \"Isdra\". One androgynous older HUMAN adult about60, a Prime Minister whose gender is not specified. Tall broad ordinary build, LIGHT OLIVE skin, cropped straight SILVER hair with simple side part, broad angular face/strong jaw, dark brown eyes, clean face. Calm formal authority and fatigue; no villain cues, regal symbols or resemblance to a particular politician.\nSame full-cover outfit front/rear: plain GRAPHITE trouser suit with simple straight tailored jacket, muted LAVENDER collarless shirt, plain dark flat leather shoes. No tie/flag/lapel pin/medals/jewelry/crown. Main left FRONT full-body in relaxed standing posture, holding a plain dark modern telephone handset comfortably to ear with one five-digit hand, other rests at side. Rear three-quarter same body/head/clothes, lowered handset held near waist. No phone cable crossing other views.\nTwo separate expressive adult head studies: \"Proceed\" (short direct instruction, slightly knit brow) and \"Confirmed\" (restrained tired relief). One enlarged five-digit hand holding a folded sheet of ordinary cream paper, no legal text/readable seal or clipboard.\nLIGHT override: the source is voice-only, this is an ART INTERPRETATION. Use quiet neutral diffused indoor working light, low contrast cool grey shadows and small muted warm skin planes. No full sunny orange face or dramatic theatrical rim. No office/desk/window/environment must be shown.\nFaces and hand made of broad joined opaque Group of Seven oil planes, simplified like landscape masses. Preserve skin mature but no finely drawn wrinkle net, no tiny realistic pores/glossy eyes. Ivory completely blank outside figures, no ground patches/swatches. Only exact requested name/title/two labels.",
+        "references": [
+          {
+            "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+            "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+            "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+            "inspected": true,
+            "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+          },
+          {
+            "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+            "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+            "role": "Large connected Group of Seven paint masses/directional strokes only",
+            "inspected": true,
+            "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:09:00.571714+00:00",
+        "sourceSha256": "38f576b2880f9e5be60cecd3475b502e07bc6d94f4abe4b524d7ba10eaa69dde",
+        "outputSha256": "56213dca17516228c3e4f7be449e5e09d0bc431af542f7ab370e7674d5798688",
+        "references": [
+          {
+            "path": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
+            "sha256": "9364542795c0647226c7fe484340765fcf012bb402dfcde8acfe36c15997764b",
+            "role": "Primary opaque oil and four-o'clock window light, no furniture/scene",
+            "inspected": true,
+            "notes": "Warm late-afternoon window planes and cool interior shade; character painting only."
+          },
+          {
+            "path": "stories/terms-at-four/art/landscapes/01-four-oclock-on-the-street.png",
+            "sha256": "4ae7e1d5896ee40f51c30e1595f13cfbdefe0ba47b36cf06027e32802e62afa0",
+            "role": "Large connected Group of Seven paint masses/directional strokes only",
+            "inspected": true,
+            "notes": "No streets or landscape transferred; soft late-day light matched only for host/witness."
+          }
+        ],
+        "evidence": [
+          "Full pixels inspected: consistent older silver-haired androgynous adult, broad angular face/strong jaw, natural brown eyes in front/rear/two portraits. Appearance remains explicitly invented for voice-only Prime Minister, no asserted source gender or real politician identity.",
+          "Graphite trouser suit/lavender collarless shirt/plain black shoes and dark phone consistent; no flags, pins, weapon, crown or location. Folded paper held with natural fingers and thumb partly occluded by paper.",
+          "Quiet indoor light, low-value graphite suit and grey-violet skin shadows, small warm skin planes; opaque oil directly shapes forehead/cheek/nose and hand rather than photographic pores. Mature without fine wrinkle net.",
+          "Exact name/story title/Proceed/Confirmed readable; isolated poses no floor shadow or paint swatches, all feet in frame. Same formal tired adult from instruction to confirmation."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "7688d1895142076c9c44d4c2acf52a5b5c1227e8cea48b1e3a37a37a6cf94455"
+      },
+      "nameAssignment": {
+        "name": "Isdra",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed Prime Minister and government negotiator by phone",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Mirette, Darsen and Isdra searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "56213dca17516228c3e4f7be449e5e09d0bc431af542f7ab370e7674d5798688"
+    }
+  ]
+}

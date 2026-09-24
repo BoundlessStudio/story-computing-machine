@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-seventh-night",
+  "title": "The Seventh Night",
+  "source": "stories/the-seventh-night/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete final source/prompt read. Present cast explicitly only adult Thalenna and adult human Galten over dinner; other participants retrospective only. Original recovered exact user-input bytes and inspected with cover/source supper oil. Selected present dinner, adult baseline two nights after reset; no sexual act, no demon/aura, no nude/aged alternate.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Adult veteran archer and widower ward-scribe",
+      "reason": "Retrospective references only; prompt explicitly restricts present cast to dinner pair."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "thalenna",
+      "name": "Thalenna",
+      "role": "adult elven adventurer, the Golden Thorn",
+      "form": "adult elf woman",
+      "selectionEvidence": [
+        {
+          "quote": "Long golden-blonde hair",
+          "explanation": "Exact hair."
+        },
+        {
+          "quote": "little red jewel at her brow",
+          "explanation": "Distinctive ornament."
+        },
+        {
+          "quote": "eyes as green as bottle glass",
+          "explanation": "Exact eyes."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult elf, pointedears, golden-blonde long hair/greeneyes/redbrowjewel. No demonicblood/horns/seductionpower.",
+        "clothing": "Green-black armor goldfittings, pairedboots, cloak off during dinner, removed gauntlet green-black leather/goldleafcuff.",
+        "state": "Dinner two nights afterreset at normal own adultbaseline, no healing/injuries magicallyerased."
+      },
+      "visualInterpretation": [
+        "Compatible original adult face/bone structure and fully covered greenblackgold armor, nonsexual standing reference.",
+        "Lower armor/boots ordinary continuation of source palette, no nude/bed/sexual imagery."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-seventh-night:thalenna",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-seventh-night/art/characters/thalenna.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only as a 1536x1024 single-character landscape reference sheet. Preserve exact Thalenna identity, adult age, pointed ears, green eyes, golden-blonde hair, red brow jewel, all green-black armor/gold fittings, front/rear body geometry and paired boots, bare hands, isolated returned gauntlet, headings and labels. Three targeted corrections: (1) source DIM CANDLE SUPPER NIGHT: rebuild most of every face/body in a CONNECTED DARK muted VIOLET/UMBER shadow mass; only very small candle-facing cheek/nose/finger and armor edge planes receive restrained OCHRE amber. No golden daylight face, no broad rim halo. Keep ivory page bright. (2) FACE and eyes/hair now broad MATTE opaque Group of Seven oil BRISTLE strokes, large connected planes equal to clothes; remove smooth cosmetic glossy skin, glassy iris/lips and tiny photoreal eyelashes without changing face. Image2 supplies paint and dim light only. (3) Remove ALL brown FLOOR/GROUND marks underneath four boots; clean warm ivory right up to boot edges, feet/heels remain fully intact. No scenery, swatches, palette, new props/person, cloak, demon features.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b060c018-af16-4885-a588-bc774d8bd111.png",
+            "role": "inspected first candidate identity/layout/costume; correct facepaint/light/groundonly",
+            "inspected": true,
+            "sha256": "194c634526f41c7119936123b53f21e7ed90e1aa0b74786b64db8f0fbf152ce7"
+          },
+          {
+            "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+            "role": "inspected broadmatteoil and darkcandlelight only, no room",
+            "inspected": true,
+            "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:23:50.122210+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Thalenna\"; title \"The Seventh Night\"; role \"The Golden Thorn\". ONE unequivocally ADULT ELF WOMAN at own mature adultbaseline, about thirty appearance, not teen. Preserve recognizable IMAGE2 original FACE/long pointedELF EARS, long GOLDEN-BLONDE hair loose carefully over shoulders, exact GREEN matte eyes, small RED JEWEL at center brow in delicategoldchain. Practical fitted GREEN-BLACK fulltorso ARMOR with goldfittings and overlapping gold collar/shoulder trim like original, darkgreen armoredtrousers and correctlypaired darkgreen leather BOOTS. No horns/tail/demonicblood/aura/seductioneffect. Two complete standing front/rear sameadultbody, relaxed neutral dignifiedreference, BARE ordinary hands, no wineglassneeded. CLOAK REMOVED for dinner (notworn), no sword. Large matchingface ruefulcontrolled smile. One isolated narrow-wrist green-black leather GAUNTLET with GOLD LEAF at cuff, label \"The returned gauntlet\". Dinnerstate2nightsafterreset, no oldversion, no nudity/bed/romantic scene, no otherperson. IMAGE2 designonly, reduce realistic shine and eyehighlights.\nUse IMAGE1 primary DIM CANDLELIGHT: figures mostly deep connected violet/umber shadow, small CANDLE-facing ochre-gold planes at cheeks/noses/fingers, no broad daylit portrait or glossy cinematic face. Broad Group of Seven MATTE opaque bristle paint on faces, hair, armor, cloth alike. Original design adapted to PAINT not photo. Bright warm ivory sheet, no candle/room/groundpatch/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+                "role": "primary matte Group of Seven oil, dim supper candlelight and deep shadow only; no room",
+                "inspected": true,
+                "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-db0b74b6-2761-4b03-ac05-69b204108bf4.png",
+                "role": "inspected original adult Thalenna face/ears/hair/green-black gold armor/jewel design; not photographic rendering or setting",
+                "inspected": true,
+                "sha256": "6a6d64c83cbd314a0f4ab266a479e533e011d7fdbf2dc39b312dbd3fa2557446"
+              }
+            ],
+            "preflight": [
+              "Entire source/prompt and inspected original/selected room-light references reviewed. Present dinner only, adultbaseline afterreset, cloakoff, pairedboots, Galten clean-shaven; no retrospective sexual/curse vignette.",
+              "Oneidentity percall, complete1536x1024 ivory layout, small isolated personalprop, no scene/palette. Matte face oil and source dimcandle connectedshadow explicit; references <=2 with unchangedhashes."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b060c018-af16-4885-a588-bc774d8bd111.png",
+            "outputSha256": "194c634526f41c7119936123b53f21e7ed90e1aa0b74786b64db8f0fbf152ce7",
+            "finishedAt": "2026-09-24T07:28:21.249264+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected. Identity/hair/ears/jewel/green-black-gold armor and complete views match, but face remains smoothly cosmetic and allfigures read brightdaylight rather than dim supper.",
+              "Small brown groundpatches beneath four boots violate plain ivory field. Targeted edit must replace smooth face/hair highlights with boldmatte oil, deepen connectednightshadow, remove all floorpatches."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:28:23.204088+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only as a 1536x1024 single-character landscape reference sheet. Preserve exact Thalenna identity, adult age, pointed ears, green eyes, golden-blonde hair, red brow jewel, all green-black armor/gold fittings, front/rear body geometry and paired boots, bare hands, isolated returned gauntlet, headings and labels. Three targeted corrections: (1) source DIM CANDLE SUPPER NIGHT: rebuild most of every face/body in a CONNECTED DARK muted VIOLET/UMBER shadow mass; only very small candle-facing cheek/nose/finger and armor edge planes receive restrained OCHRE amber. No golden daylight face, no broad rim halo. Keep ivory page bright. (2) FACE and eyes/hair now broad MATTE opaque Group of Seven oil BRISTLE strokes, large connected planes equal to clothes; remove smooth cosmetic glossy skin, glassy iris/lips and tiny photoreal eyelashes without changing face. Image2 supplies paint and dim light only. (3) Remove ALL brown FLOOR/GROUND marks underneath four boots; clean warm ivory right up to boot edges, feet/heels remain fully intact. No scenery, swatches, palette, new props/person, cloak, demon features.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b060c018-af16-4885-a588-bc774d8bd111.png",
+                "role": "inspected first candidate identity/layout/costume; correct facepaint/light/groundonly",
+                "inspected": true,
+                "sha256": "194c634526f41c7119936123b53f21e7ed90e1aa0b74786b64db8f0fbf152ce7"
+              },
+              {
+                "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+                "role": "inspected broadmatteoil and darkcandlelight only, no room",
+                "inspected": true,
+                "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+              }
+            ],
+            "preflight": [
+              "Inspected candidate and sourcecandlepaint reference. Isolated fixes preserve adultidentity, sourceclothing/body/props; Thalenna floor removal and broadfacepaint plus both source dimlight, no contradictory inputs.",
+              "One1536x1024 asset/call, two inspected hashpins, source unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d2c0b858-1e8f-49d7-9fea-41aee53f544e.png",
+            "outputSha256": "d999b538e799915d477c8b8f0d4c6a3762d8bd0c93398992c0e69eeffff1056a",
+            "finishedAt": "2026-09-24T07:33:02.760099+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected saved pixels inspected: broad opaque painted face/hair replace bright smooth first candidate, connected deep violet/umber nightshadow and limited candle-facing ochre planes established.",
+              "All fourboot groundpatches removed, complete silhouettes intact on clean ivory; same adultelf longgoldehair greeneyes redjewel sourcegreen-black/goldarmor cloakremoved, coherent front/rear and gauntlet. No otheridentity/scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d2c0b858-1e8f-49d7-9fea-41aee53f544e.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "55d79da59754afa59195d5134ab3837f52b460978b486871219bec203cb42c34",
+        "outputSha256": "d999b538e799915d477c8b8f0d4c6a3762d8bd0c93398992c0e69eeffff1056a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b060c018-af16-4885-a588-bc774d8bd111.png",
+            "role": "inspected first candidate identity/layout/costume; correct facepaint/light/groundonly",
+            "inspected": true,
+            "sha256": "194c634526f41c7119936123b53f21e7ed90e1aa0b74786b64db8f0fbf152ce7"
+          },
+          {
+            "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+            "role": "inspected broadmatteoil and darkcandlelight only, no room",
+            "inspected": true,
+            "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+          }
+        ],
+        "evidence": [
+          "Actual corrected saved pixels inspected: broad opaque painted face/hair replace bright smooth first candidate, connected deep violet/umber nightshadow and limited candle-facing ochre planes established.",
+          "All fourboot groundpatches removed, complete silhouettes intact on clean ivory; same adultelf longgoldehair greeneyes redjewel sourcegreen-black/goldarmor cloakremoved, coherent front/rear and gauntlet. No otheridentity/scenery/swatches."
+        ],
+        "specificationSha256": "cae5a15ee9025d21a63bedf76a23ec3a51c407f812fdcc48952fad2d24d17260"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "d999b538e799915d477c8b8f0d4c6a3762d8bd0c93398992c0e69eeffff1056a"
+    },
+    {
+      "id": "galten",
+      "name": "Galten",
+      "role": "adult human delver and dinner companion",
+      "form": "grown human man",
+      "selectionEvidence": [
+        {
+          "quote": "a grown human man",
+          "explanation": "Human adult, not elf."
+        },
+        {
+          "quote": "capable of growing one, and had chosen not to",
+          "explanation": "Clean-shaven without mustache."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult human man, no mustache, bluntfingernails.",
+        "equipment": "Broadside, Thalenna's gauntlet returned, ordinary delver shirt/gear.",
+        "state": "Present dinner, properly dressed, no retrospective mismatchedboots or injuries."
+      },
+      "visualInterpretation": [
+        "Art-only adult thirties, warm tan freckled face, short chestnutbrown hair, strong broadnose and squarejaw clean-shaven.",
+        "Plain rustshirt darkbrownwaistcoat/slatetrousers/boots, ordinarybelt."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-seventh-night:galten",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-seventh-night/art/characters/galten.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit IMAGE1 only: preserve complete 1536x1024 landscape Galten character sheet exact adult human face, clean-shaven jaw/mouth, chestnut hair, rustshirt/leatherwaistcoat/slatetrousers, wholepairedboots, normalhands, foldedblankbroadside and all headings/layout. Correct source light from bright golden daylight into DIM SUPPER CANDLELIGHT. Repaint at least two-thirds of face/body surfaces as ONE connected dark muted VIOLET/UMBER shadow mass, including broadfarcheek, eye socket, jaw, neck, trouserandbootplanes. Only small candle-facing nose/nearcheek/finger and shirt planes retain muted OCHRE light. No orange daylight wash, gleamingeyes or cinematic rim. IMAGE2 supplies dimlightdirection and mattebroadbristlepaint only. Retain strongly painted matteface/clothes/boots, no smoothedskin; retain BRIGHT warm IVORY background absolutely clean with no floor, room, candle or swatches. Exact character/personalprop only, no otheridentity.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c391ea22-1f97-4b29-b080-9ba269c4f331.png",
+            "role": "inspected first candidate preserve allidentity/layout, correct only supperlight",
+            "inspected": true,
+            "sha256": "729aacaa0aea7c55bdb5d14c1de5ff21bbc40a79bb58ac84594e4b953ac3da8e"
+          },
+          {
+            "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+            "role": "inspected dimcandlelight and broadmatteoil only, no room",
+            "inspected": true,
+            "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T07:23:50.124781+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Galten\"; title \"The Seventh Night\"; role \"Delver / dinner companion\". ONE grown adult HUMAN man, thirties visualcasting, warm tan freckledskin, short CHESTNUT hair, strong BROAD nose and squarejaw, ordinary round HUMAN ears, matte hazelbrowneyes, COMPLETE CLEAN SHAVEN face NO MUSTACHE or beard. Wry cautious smile. Plain RUST shirt, darkbrown leather waistcoat, slate trousers, ordinarybelt, paired worn brownBOOTS. Two full front/rear sameadultbody, frontholds FOLDED broadside with foldedblankexterior/no readableprint or caricature, blunt fingernails on normalfivefingerhands. Large sameface, label \"Dinner\". One isolated folded broadside, blankfoldedexterior only, label \"The broadside\". No sexualengraving, no Thalenna secondperson, no elves/horns, no mismatchedboot/retrospectiveundress, no sexy pose.\nUse IMAGE1 primary DIM CANDLELIGHT: figures mostly deep connected violet/umber shadow, small CANDLE-facing ochre-gold planes at cheeks/noses/fingers, no broad daylit portrait or glossy cinematic face. Broad Group of Seven MATTE opaque bristle paint on faces, hair, armor, cloth alike. Original design adapted to PAINT not photo. Bright warm ivory sheet, no candle/room/groundpatch/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+                "role": "primary matte Group of Seven oil, dim supper candlelight and deep shadow only; no room",
+                "inspected": true,
+                "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+              }
+            ],
+            "preflight": [
+              "Entire source/prompt and inspected original/selected room-light references reviewed. Present dinner only, adultbaseline afterreset, cloakoff, pairedboots, Galten clean-shaven; no retrospective sexual/curse vignette.",
+              "Oneidentity percall, complete1536x1024 ivory layout, small isolated personalprop, no scene/palette. Matte face oil and source dimcandle connectedshadow explicit; references <=2 with unchangedhashes."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c391ea22-1f97-4b29-b080-9ba269c4f331.png",
+            "outputSha256": "729aacaa0aea7c55bdb5d14c1de5ff21bbc40a79bb58ac84594e4b953ac3da8e",
+            "finishedAt": "2026-09-24T07:28:21.258039+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected. Same adultclean-shavenhuman identity, complete bodies, pairedboots, foldedblankbroadside and boldmatteoil PASS.",
+              "Large golden daylitface with mostly bright planes does not read DIM supper. Deepen shadow across majorityface/figures and restrict candlewarmth to small planes, preserve ivory."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:28:23.209513+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit IMAGE1 only: preserve complete 1536x1024 landscape Galten character sheet exact adult human face, clean-shaven jaw/mouth, chestnut hair, rustshirt/leatherwaistcoat/slatetrousers, wholepairedboots, normalhands, foldedblankbroadside and all headings/layout. Correct source light from bright golden daylight into DIM SUPPER CANDLELIGHT. Repaint at least two-thirds of face/body surfaces as ONE connected dark muted VIOLET/UMBER shadow mass, including broadfarcheek, eye socket, jaw, neck, trouserandbootplanes. Only small candle-facing nose/nearcheek/finger and shirt planes retain muted OCHRE light. No orange daylight wash, gleamingeyes or cinematic rim. IMAGE2 supplies dimlightdirection and mattebroadbristlepaint only. Retain strongly painted matteface/clothes/boots, no smoothedskin; retain BRIGHT warm IVORY background absolutely clean with no floor, room, candle or swatches. Exact character/personalprop only, no otheridentity.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c391ea22-1f97-4b29-b080-9ba269c4f331.png",
+                "role": "inspected first candidate preserve allidentity/layout, correct only supperlight",
+                "inspected": true,
+                "sha256": "729aacaa0aea7c55bdb5d14c1de5ff21bbc40a79bb58ac84594e4b953ac3da8e"
+              },
+              {
+                "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+                "role": "inspected dimcandlelight and broadmatteoil only, no room",
+                "inspected": true,
+                "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+              }
+            ],
+            "preflight": [
+              "Inspected candidate and sourcecandlepaint reference. Isolated fixes preserve adultidentity, sourceclothing/body/props; Thalenna floor removal and broadfacepaint plus both source dimlight, no contradictory inputs.",
+              "One1536x1024 asset/call, two inspected hashpins, source unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f179c052-5eb5-408b-8d86-900823b89660.png",
+            "outputSha256": "732c0d02f62066eaa3bbd9c4306c9a4a66f2c792fb1fe0586a91a66f27ce8cd8",
+            "finishedAt": "2026-09-24T07:33:02.774936+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: majority portrait/clothing is connected violet/umber shadow with limited warm candleplanes, source supperlight now evident.",
+              "Exact adultclean-shavenhuman identity and broadmattepaint retained; whole front/rear, correctpairedboots, blankfoldedbroadside, normalhands, readable headings, ivory character-only field."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f179c052-5eb5-408b-8d86-900823b89660.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "55d79da59754afa59195d5134ab3837f52b460978b486871219bec203cb42c34",
+        "outputSha256": "732c0d02f62066eaa3bbd9c4306c9a4a66f2c792fb1fe0586a91a66f27ce8cd8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-c391ea22-1f97-4b29-b080-9ba269c4f331.png",
+            "role": "inspected first candidate preserve allidentity/layout, correct only supperlight",
+            "inspected": true,
+            "sha256": "729aacaa0aea7c55bdb5d14c1de5ff21bbc40a79bb58ac84594e4b953ac3da8e"
+          },
+          {
+            "path": "stories/the-seventh-night/art/interiors/01-private-supper-room.png",
+            "role": "inspected dimcandlelight and broadmatteoil only, no room",
+            "inspected": true,
+            "sha256": "56ced3300b6bf3d70dfb9d87b3172656261757e2c2081748b2b843c80a423e58"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: majority portrait/clothing is connected violet/umber shadow with limited warm candleplanes, source supperlight now evident.",
+          "Exact adultclean-shavenhuman identity and broadmattepaint retained; whole front/rear, correctpairedboots, blankfoldedbroadside, normalhands, readable headings, ivory character-only field."
+        ],
+        "specificationSha256": "6fdb7a6542d6cbbfeaab5bf7138154d7e2154db15164ce288454b41c126927ec"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "732c0d02f62066eaa3bbd9c4306c9a4a66f2c792fb1fe0586a91a66f27ce8cd8"
+    }
+  ],
+  "externalReferences": [
+    {
+      "displayName": "codex-clipboard-db0b74b6-2761-4b03-ac05-69b204108bf4.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-db0b74b6-2761-4b03-ac05-69b204108bf4.png",
+      "sha256": "6a6d64c83cbd314a0f4ab266a479e533e011d7fdbf2dc39b312dbd3fa2557446",
+      "inspected": true,
+      "recoveryEvidence": "Exact sole input_image bytes in original user message paired with filename/WP, zero-basedline8 archived rollout-2026-08-27T07-33-14-01a042fe-df77-7da2-b42d-40f9f379f45f.jsonl; kept external."
+    }
+  ],
+  "sourceSha256": "55d79da59754afa59195d5134ab3837f52b460978b486871219bec203cb42c34"
+}

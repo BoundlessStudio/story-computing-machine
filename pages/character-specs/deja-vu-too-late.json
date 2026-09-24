@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "slug": "deja-vu-too-late",
+  "title": "The Warning Comes Second",
+  "source": "stories/deja-vu-too-late/story.md",
+  "sourceSha256": "dd53abc2d744d5ad3e37a2e41a853d4c637a057438972c6dfe47baec382f7400",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story read. Kessa drives the decisions; Orivan supplies injured bodily evidence and rescue partnership; Pavax and Dalsen sustain distinct safety/technical roles through climax and aftermath despite remote-only presence.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Ring occupants",
+      "reason": "Undifferentiated people at risk, no collective agency/personality or individual supporting role."
+    },
+    {
+      "name": "Harness and automated recordings",
+      "reason": "Nonliving apparatus/recorded human speech, not independent characters."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Memory, transformation, copies, and branches",
+    "universe/premise.md#Knowledge and connection",
+    "universe/characters.md and stories/NAMES.md searched: no matching Kessa/Orivan/Pavax/Dalsen shared entries"
+  ],
+  "characters": [
+    {
+      "id": "kessa",
+      "name": "Kessa",
+      "role": "Pilot protagonist choosing present evidence over stale memory/guidance",
+      "naming": {
+        "sourceName": "Kessa",
+        "sourceRole": "Pilot protagonist choosing present evidence over stale memory/guidance",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Control is partial. Pilot Kessa. I have a reprise event and structural loss.",
+          "line": 35,
+          "explanation": "Identifies pilot protagonist."
+        },
+        {
+          "quote": "her lower lip was bleeding",
+          "line": 27,
+          "explanation": "Injury survives memory restore."
+        },
+        {
+          "quote": "Kessa sealed her helmet and vented the short rescue lock.",
+          "line": 307,
+          "explanation": "Rescue helmet state."
+        }
+      ],
+      "form": "Adult human woman, pilot pressure clothing with helmet-open and sealed rescue states",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, pilot pressure clothing with helmet-open and sealed rescue states",
+        "lifeStage": "Adult; exact age is visual interpretation",
+        "proportions": "Compact sturdy woman late30s, ruddy pale freckled skin, blunt square jaw and short straight copper-red crop with blunt short fringe, gray-brown ordinary eyes. Slate-blue pressure work suit, dark reinforced cuffs/boots/gloves and muted ochre utility details. Broad matte painted face distinct from Kelro. Small restrained nick at lower lip.",
+        "markings": "Female pilot with cut lower lip. Wears consented one-use neural reprise harness before approach; after restore bridge lamp fused white, charge spent. Only working/episodic memory restored, not physical time/injury; no duplicated body. Helmet seals for exterior rescue; clips line before reaching for Orivan. Face, age, ethnicity, hair and suit colors unspecified.",
+        "materials": "Painted human skin/hair, practical pressure/work fabric and matte metal as applicable",
+        "clothing": "Compact sturdy woman late30s, ruddy pale freckled skin, blunt square jaw and short straight copper-red crop with blunt short fringe, gray-brown ordinary eyes. Slate-blue pressure work suit, dark reinforced cuffs/boots/gloves and muted ochre utility details. Broad matte painted face distinct from Kelro. Small restrained nick at lower lip.",
+        "equipment": "Pressure helmet, tether clip/line, spent harness exterior straps and small fused-white shoulder-side bridge indicator; no brain/inner circuitry or whole chair.",
+        "scale": "Ordinary human adult; exact measurements unspecified",
+        "movement": "Restrained work posture, no action vignette",
+        "distinctiveFeatures": "Compact sturdy woman late30s, ruddy pale freckled skin, blunt square jaw and short straight copper-red crop with blunt short fringe, gray-brown ordinary eyes. Slate-blue pressure work suit, dark reinforced cuffs/boots/gloves and muted ochre utility details. Broad matte painted face distinct from Kelro. Small restrained nick at lower lip."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Female pilot with cut lower lip. Wears consented one-use neural reprise harness before approach; after restore bridge lamp fused white, charge spent.",
+        "Local non-canon story fact: Only working/episodic memory restored, not physical time/injury; no duplicated body.",
+        "Local non-canon story fact: Helmet seals for exterior rescue; clips line before reaching for Orivan.",
+        "Local non-canon story fact: Face, age, ethnicity, hair and suit colors unspecified."
+      ],
+      "visualInterpretation": [
+        "Compact sturdy woman late30s, ruddy pale freckled skin, blunt square jaw and short straight copper-red crop with blunt short fringe, gray-brown ordinary eyes. Slate-blue pressure work suit, dark reinforced cuffs/boots/gloves and muted ochre utility details. Broad matte painted face distinct from Kelro. Small restrained nick at lower lip.",
+        "Pressure helmet, tether clip/line, spent harness exterior straps and small fused-white shoulder-side bridge indicator; no brain/inner circuitry or whole chair.",
+        "Source-unseen physical design clearly interpretive, never shared authority. Same-story muted internal light; no space scenery."
+      ],
+      "states": [
+        {
+          "name": "After reprise",
+          "description": "Helmet open/absent from head, small cut lower lip, spent harness."
+        },
+        {
+          "name": "Exterior rescue",
+          "description": "Same pressure suit, helmet sealed and tether ready; same lip injury visible if face shown."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "deja-vu-too-late:kessa",
+        "links": [],
+        "evidence": "No matching shared entry or recurring identity found; independent local story person."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+          "inspected": true,
+          "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+          "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+          "inspected": true,
+          "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+          "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+        },
+        {
+          "path": "stories/deja-vu-too-late/title-image.jpg",
+          "role": "Inspected source-cover context only, not supplied to image generation",
+          "inspected": true,
+          "notes": "Contains no character appearance; ring hardware and digital green overlay never borrowed as character identity.",
+          "sha256": "3b31d1c005df82294b2bd646636aca545e170b6db019e77fc0c1d3c75b5ac3c7"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
+          "role": "Inspected cool dark orbital values and broad paint only",
+          "inspected": true,
+          "notes": "White-slate structures against blue-black connected dark; no cosmic backgrounds in character sheets.",
+          "sha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43"
+        }
+      ],
+      "output": "stories/deja-vu-too-late/art/characters/kessa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise small source-fidelity correction only. The little shoulder-side box on Kessa's harness is a FUSED WHITE INDICATOR LAMP, not a triangular warning sticker. In both full front/helmet-sealed harness views and isolated Spent harness detail, replace the visible white square with triangle by a SMALL SOLID OPAQUE MILKY-WHITE GLASS INDICATOR WINDOW with NO triangle, lettering, symbol or diagram. It is spent, not actively glowing: no aura or spill light. Preserve every other detail, exact Kessa identity, cut lip, full forms, clothes, helmet, text, ivory and thick matte broad oil. No other changes.",
+        "references": [
+          {
+            "role": "Actual correction target, preserve broad oil and character identity",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-319c3466-72ba-44a9-b473-e2ed9eeafe42.png",
+            "inspected": true,
+            "sha256": "243ac7183099382bc54ec368e05b1b0c833848d3b3d1faead690c3b7b3bba531"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T23:31:06.226Z",
+            "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Kessa'. Arrange three complete body views: front and back in slate-blue pilot pressure suit with helmet unsealed/open; third front three-quarter same suit with round HELMET SEALED for exterior rescue. No cockpit chair. Woman late30s compact sturdy build, ruddy pale freckled skin, short STRAIGHT COPPER-RED cropped hair with blunt short fringe, square jaw, broad short nose, ordinary gray-brown eyes. No swept black/brown hairstyle or borrowed male face. Small CUT LOWER LIP remains in both head details. Suit has muted ochre utilitarian trim, dark boots/gloves, no ornate armor. Face details 'After reprise' wary/disoriented and 'Present evidence' focused. Small isolated spent harness of practical dark restraint straps and small white fused indicator by shoulder, no glowing halo/brain diagram. Isolated tether clip/short line. Body pose balanced neutral, no scene. Exact injury persists, no duplicate memory clone or time machine.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+                "inspected": true,
+                "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+                "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+                "inspected": true,
+                "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+                "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-319c3466-72ba-44a9-b473-e2ed9eeafe42.png",
+            "outputSha256": "243ac7183099382bc54ec368e05b1b0c833848d3b3d1faead690c3b7b3bba531"
+          },
+          {
+            "references": [
+              {
+                "role": "Actual correction target, preserve broad oil and character identity",
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-319c3466-72ba-44a9-b473-e2ed9eeafe42.png",
+                "inspected": true,
+                "sha256": "243ac7183099382bc54ec368e05b1b0c833848d3b3d1faead690c3b7b3bba531"
+              }
+            ],
+            "attempt": 2,
+            "status": "selected",
+            "mode": "built-in-edit",
+            "prompt": "Precise small source-fidelity correction only. The little shoulder-side box on Kessa's harness is a FUSED WHITE INDICATOR LAMP, not a triangular warning sticker. In both full front/helmet-sealed harness views and isolated Spent harness detail, replace the visible white square with triangle by a SMALL SOLID OPAQUE MILKY-WHITE GLASS INDICATOR WINDOW with NO triangle, lettering, symbol or diagram. It is spent, not actively glowing: no aura or spill light. Preserve every other detail, exact Kessa identity, cut lip, full forms, clothes, helmet, text, ivory and thick matte broad oil. No other changes.",
+            "requestedAt": "2026-09-23T23:38:32.2909437Z",
+            "modelReported": null,
+            "tool": "image_gen.imagegen",
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-a8f1db96-2466-4673-a67b-b4a4cbdab025.png",
+            "savedPath": "stories/deja-vu-too-late/art/characters/kessa.png",
+            "outputSha256": "ba4992eea349da5b3caa7bb48650376e688cde2f0ab65258ce170243c041b5eb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:52:41.1276943Z"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "root actual-pixel review",
+        "reviewedAt": "2026-09-24T02:54:12.172647+00:00",
+        "sourceSha256": "dd53abc2d744d5ad3e37a2e41a853d4c637a057438972c6dfe47baec382f7400",
+        "outputSha256": "ba4992eea349da5b3caa7bb48650376e688cde2f0ab65258ce170243c041b5eb",
+        "references": [
+          {
+            "role": "Actual correction target, preserve broad oil and character identity",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-319c3466-72ba-44a9-b473-e2ed9eeafe42.png",
+            "inspected": true,
+            "sha256": "243ac7183099382bc54ec368e05b1b0c833848d3b3d1faead690c3b7b3bba531"
+          }
+        ],
+        "evidence": [
+          "Root actual-pixel inspection of selected Kessa sheet: same red-haired woman across unhelmeted and sealed suit states, cut lower lip, correctly spent milky-white harness indicator, no duplicate/time-travel body.",
+          "Readable heading/title, complete silhouettes, broad matte painted face and suit; restrained cool/amber interior light, warm ivory character-only composition with no scene or swatches."
+        ],
+        "specificationSha256": "e6476df84a398dbeec5ed6de4ed1bb5a526cb44ec1bcd101ac2249182b9973b9"
+      },
+      "outputSha256": "ba4992eea349da5b3caa7bb48650376e688cde2f0ab65258ce170243c041b5eb"
+    },
+    {
+      "id": "orivan",
+      "name": "Orivan",
+      "role": "Exterior tug worker/co-owner and injured rescue partner whose bodily observations guide maneuver",
+      "naming": {
+        "sourceName": "Orivan",
+        "sourceRole": "Exterior tug worker/co-owner and injured rescue partner whose bodily observations guide maneuver",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "—right leg. Collar's bent.",
+          "line": 93,
+          "explanation": "Injured limb and exterior predicament."
+        },
+        {
+          "quote": "Right hip. Can't reach.",
+          "line": 267,
+          "explanation": "Tool pouch specific side."
+        },
+        {
+          "quote": "Kessa cut the suit fabric at his right knee, braced the leg where it lay, and pressed a cold pack around the swelling.",
+          "line": 345,
+          "explanation": "Post-rescue treatment."
+        },
+        {
+          "quote": "Orivan lay strapped beside the cockpit with his leg splinted",
+          "line": 357,
+          "explanation": "Aftercare state."
+        }
+      ],
+      "form": "Adult human man in pressure suit; separate uninjured work and post-rescue right-leg injury states",
+      "storyAppearance": {
+        "anatomy": "Adult human man in pressure suit; separate uninjured work and post-rescue right-leg injury states",
+        "lifeStage": "Adult; exact age is visual interpretation",
+        "proportions": "Broad-shouldered middle-aged man about40, deep brown skin, shaved scalp, broad rounded face, flat broad nose and clean-shaven jaw; ivory/slate pressure suit with dull mustard work panels and dark gloves/boots. Ordinary brown eyes. Distinct from all anchors.",
+        "markings": "Male exterior worker in sealed suit with gloves, helmet, tether and RIGHT-hip tool pouch containing short lever. RIGHT leg trapped/twisted under folded exterior brace; suit air stable, audio fails. After rescue right knee fabric cut, leg braced/splinted with cold pack; does not stand injured. Exterior work collar is ship hardware, not a bent helmet neck ring. Appearance otherwise unspecified.",
+        "materials": "Painted human skin/hair, practical pressure/work fabric and matte metal as applicable",
+        "clothing": "Broad-shouldered middle-aged man about40, deep brown skin, shaved scalp, broad rounded face, flat broad nose and clean-shaven jaw; ivory/slate pressure suit with dull mustard work panels and dark gloves/boots. Ordinary brown eyes. Distinct from all anchors.",
+        "equipment": "Helmet, tether, RIGHT-hip pouch, short plain lever; post-rescue splint/cold pack at right knee, no whole exterior collar or hull.",
+        "scale": "Ordinary human adult; exact measurements unspecified",
+        "movement": "Uninjured work views separate from reclining injured treatment state",
+        "distinctiveFeatures": "Broad-shouldered middle-aged man about40, deep brown skin, shaved scalp, broad rounded face, flat broad nose and clean-shaven jaw; ivory/slate pressure suit with dull mustard work panels and dark gloves/boots. Ordinary brown eyes. Distinct from all anchors."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male exterior worker in sealed suit with gloves, helmet, tether and RIGHT-hip tool pouch containing short lever.",
+        "Local non-canon story fact: RIGHT leg trapped/twisted under folded exterior brace; suit air stable, audio fails.",
+        "Local non-canon story fact: After rescue right knee fabric cut, leg braced/splinted with cold pack; does not stand injured.",
+        "Local non-canon story fact: Exterior work collar is ship hardware, not a bent helmet neck ring. Appearance otherwise unspecified."
+      ],
+      "visualInterpretation": [
+        "Broad-shouldered middle-aged man about40, deep brown skin, shaved scalp, broad rounded face, flat broad nose and clean-shaven jaw; ivory/slate pressure suit with dull mustard work panels and dark gloves/boots. Ordinary brown eyes. Distinct from all anchors.",
+        "Helmet, tether, RIGHT-hip pouch, short plain lever; post-rescue splint/cold pack at right knee, no whole exterior collar or hull.",
+        "Source-unseen physical design clearly interpretive, never shared authority. Same-story muted internal light; no space scenery."
+      ],
+      "states": [
+        {
+          "name": "Before impact",
+          "description": "Two whole-body suit reference views uninjured, sealed helmet, pouch on right hip."
+        },
+        {
+          "name": "After rescue",
+          "description": "Isolated whole body reclining without surface/bed, right leg straight braced/splinted, suit slit at right knee, cold pack, helmet open. No standing injured state."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "deja-vu-too-late:orivan",
+        "links": [],
+        "evidence": "No matching shared entry or recurring identity found; independent local story person."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+          "inspected": true,
+          "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+          "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+          "inspected": true,
+          "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+          "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+        },
+        {
+          "path": "stories/deja-vu-too-late/title-image.jpg",
+          "role": "Inspected source-cover context only, not supplied to image generation",
+          "inspected": true,
+          "notes": "Contains no character appearance; ring hardware and digital green overlay never borrowed as character identity.",
+          "sha256": "3b31d1c005df82294b2bd646636aca545e170b6db019e77fc0c1d3c75b5ac3c7"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
+          "role": "Inspected cool dark orbital values and broad paint only",
+          "inspected": true,
+          "notes": "White-slate structures against blue-black connected dark; no cosmic backgrounds in character sheets.",
+          "sha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43"
+        }
+      ],
+      "output": "stories/deja-vu-too-late/art/characters/orivan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Precise anatomical-side correction ONLY to the bottom-right reclining After rescue figure. It currently braces the nearer LEFT leg although source says injured RIGHT leg. Horizontally REFLECT ONLY that reclining figure inside its current allotted rectangle: head will be toward LEFT, boots toward RIGHT, nearer braced straight leg then is his anatomical RIGHT. Retain the splint, cut fabric, cold pack, relaxed bent healthy opposite leg, same shaved-head dark-skinned identity and suit. Do NOT mirror either standing Before impact view, the head portraits, separate pouch/tool, or any text. Preserve their RIGHT-hip pouch placement. Preserve all labels and exactly same composition/size; do not clip reclining head/boots or overlap other studies. Do not make him stand after rescue. Remove small under-foot/contact ground shadows so no visible ground or floor. Keep ivory and substantial broad painted oil, no scene.",
+        "references": [
+          {
+            "role": "Actual correction target, preserve broad oil and character identity",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-cd53abe8-9a27-4e73-8b1b-bcd0a23c5c81.png",
+            "inspected": true,
+            "sha256": "6161dcea644f3840a8b034320bfc0f63f709d1712605acb3b07f5030b371ed74"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T23:31:06.226Z",
+            "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Orivan'. TWO full-body standing reference views explicitly labeled 'Before impact' (front and rear), then one complete lower reclining figure explicitly labeled 'After rescue', floating against plain ivory WITHOUT bed/floor/scene. Man40 broad shoulders, DEEP BROWN skin, SHAVED scalp, broad rounded face, broad flat nose, clean-shaven. Offwhite/slate practical pressure suit with dull mustard panels, thick dark gloves and boots. Before-impact HELMET SEALED with subtly transparent nonmirror visor, RIGHT-HIP TOOL POUCH in both front (viewer LEFT) and back (viewer RIGHT) views, tether. After-rescue same man helmet removed/open, RIGHT leg straight supported by external splint and cold pack around right knee, small suit-fabric slit at RIGHT knee but non-graphic; do not show him bearing weight on injured leg. Human head study unhelmeted clearly shows shaved dark-skinned identity. Isolate one short plain lever and right-hip pouch as gear. No damaged helmet collar: bent collar belongs to ship and must be omitted. No space suit mechanical interiors.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+                "inspected": true,
+                "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+                "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+                "inspected": true,
+                "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+                "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-cd53abe8-9a27-4e73-8b1b-bcd0a23c5c81.png",
+            "outputSha256": "6161dcea644f3840a8b034320bfc0f63f709d1712605acb3b07f5030b371ed74"
+          },
+          {
+            "references": [
+              {
+                "role": "Actual correction target, preserve broad oil and character identity",
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-cd53abe8-9a27-4e73-8b1b-bcd0a23c5c81.png",
+                "inspected": true,
+                "sha256": "6161dcea644f3840a8b034320bfc0f63f709d1712605acb3b07f5030b371ed74"
+              }
+            ],
+            "attempt": 2,
+            "status": "selected",
+            "mode": "built-in-edit",
+            "prompt": "Precise anatomical-side correction ONLY to the bottom-right reclining After rescue figure. It currently braces the nearer LEFT leg although source says injured RIGHT leg. Horizontally REFLECT ONLY that reclining figure inside its current allotted rectangle: head will be toward LEFT, boots toward RIGHT, nearer braced straight leg then is his anatomical RIGHT. Retain the splint, cut fabric, cold pack, relaxed bent healthy opposite leg, same shaved-head dark-skinned identity and suit. Do NOT mirror either standing Before impact view, the head portraits, separate pouch/tool, or any text. Preserve their RIGHT-hip pouch placement. Preserve all labels and exactly same composition/size; do not clip reclining head/boots or overlap other studies. Do not make him stand after rescue. Remove small under-foot/contact ground shadows so no visible ground or floor. Keep ivory and substantial broad painted oil, no scene.",
+            "requestedAt": "2026-09-23T23:38:32.3077542Z",
+            "modelReported": null,
+            "tool": "image_gen.imagegen",
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-dfd68b01-92a5-412a-ac67-8042c481714d.png",
+            "savedPath": "stories/deja-vu-too-late/art/characters/orivan.png",
+            "outputSha256": "500e1e177052835520f8cd4cd3db3dda48c3d47db335b31f7caa98b2981d24f4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:52:41.1503463Z"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "root actual-pixel review",
+        "reviewedAt": "2026-09-24T02:54:12.186271+00:00",
+        "sourceSha256": "dd53abc2d744d5ad3e37a2e41a853d4c637a057438972c6dfe47baec382f7400",
+        "outputSha256": "500e1e177052835520f8cd4cd3db3dda48c3d47db335b31f7caa98b2981d24f4",
+        "references": [
+          {
+            "role": "Actual correction target, preserve broad oil and character identity",
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-cd53abe8-9a27-4e73-8b1b-bcd0a23c5c81.png",
+            "inspected": true,
+            "sha256": "6161dcea644f3840a8b034320bfc0f63f709d1712605acb3b07f5030b371ed74"
+          }
+        ],
+        "evidence": [
+          "Root actual-pixel inspection of selected Orivan sheet: matching bald dark-skinned identity, right-hip pouch consistent in standing before-impact views; anatomical RIGHT leg braced only in supported reclining after-rescue view.",
+          "Two state groups labelled and separated, exact name/title, useful tools and portraits; broad matte impasto, interior light, no scenery or palette strip."
+        ],
+        "specificationSha256": "490fd493cf39f0a040b11fa97a571c4302dcca25aa25f42f2112f3cb310ecafe"
+      },
+      "outputSha256": "500e1e177052835520f8cd4cd3db3dda48c3d47db335b31f7caa98b2981d24f4"
+    },
+    {
+      "id": "pavax",
+      "name": "Pavax",
+      "role": "Ring controller, sustained remote supporting character setting safety boundary and calculating maneuver",
+      "naming": {
+        "sourceName": "Pavax",
+        "sourceRole": "Ring controller, sustained remote supporting character setting safety boundary and calculating maneuver",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Kessa, this is Pavax on ring duty.",
+          "line": 37,
+          "explanation": "Introduces recurring controller."
+        },
+        {
+          "quote": "His voice stayed in numbers because the numbers were his work.",
+          "line": 151,
+          "explanation": "Distinct role and masculine pronoun."
+        },
+        {
+          "quote": "Tug clears",
+          "line": 301,
+          "explanation": "Climactic confirmation and ongoing action."
+        },
+        {
+          "quote": "Pavax called with final separation and a recovery vector.",
+          "line": 355,
+          "explanation": "Sustained role through ending."
+        }
+      ],
+      "form": "Adult human man; remote voice physical appearance interpreted",
+      "storyAppearance": {
+        "anatomy": "Adult human man; remote voice physical appearance interpreted",
+        "lifeStage": "Adult; exact age is visual interpretation",
+        "proportions": "Man early50s, tall heavy solid build, tan/olive skin, broad hooked nose, receding silver close flat crop and strong clean-shaven square jaw. Plain deep slate duty jacket, muted blue undershirt and charcoal straight trousers with practical low boots, no rank/insignia. Choices entirely art interpretation.",
+        "markings": "Male ring controller heard remotely; provides delayed measurements, authorizes ring-safe option, calculates cargo path and controls hazard communication. No visible appearance, age, outfit, rank badges or personal equipment stated. Not on the tug; no injuries.",
+        "materials": "Painted human skin/hair, practical pressure/work fabric and matte metal as applicable",
+        "clothing": "Man early50s, tall heavy solid build, tan/olive skin, broad hooked nose, receding silver close flat crop and strong clean-shaven square jaw. Plain deep slate duty jacket, muted blue undershirt and charcoal straight trousers with practical low boots, no rank/insignia. Choices entirely art interpretation.",
+        "equipment": "No invented technical props, weapon, headset or console. Empty hands; face and gesture studies enough.",
+        "scale": "Ordinary human adult; exact measurements unspecified",
+        "movement": "Restrained work posture, no action vignette",
+        "distinctiveFeatures": "Man early50s, tall heavy solid build, tan/olive skin, broad hooked nose, receding silver close flat crop and strong clean-shaven square jaw. Plain deep slate duty jacket, muted blue undershirt and charcoal straight trousers with practical low boots, no rank/insignia. Choices entirely art interpretation."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male ring controller heard remotely; provides delayed measurements, authorizes ring-safe option, calculates cargo path and controls hazard communication.",
+        "Local non-canon story fact: No visible appearance, age, outfit, rank badges or personal equipment stated. Not on the tug; no injuries."
+      ],
+      "visualInterpretation": [
+        "Man early50s, tall heavy solid build, tan/olive skin, broad hooked nose, receding silver close flat crop and strong clean-shaven square jaw. Plain deep slate duty jacket, muted blue undershirt and charcoal straight trousers with practical low boots, no rank/insignia. Choices entirely art interpretation.",
+        "No invented technical props, weapon, headset or console. Empty hands; face and gesture studies enough.",
+        "Source-unseen physical design clearly interpretive, never shared authority. Same-story muted internal light; no space scenery."
+      ],
+      "states": [
+        {
+          "name": "Ring duty",
+          "description": "One simple interpreted outfit; speaking/attentive expressions without background."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "deja-vu-too-late:pavax",
+        "links": [],
+        "evidence": "No matching shared entry or recurring identity found; independent local story person."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+          "inspected": true,
+          "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+          "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+          "inspected": true,
+          "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+          "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+        },
+        {
+          "path": "stories/deja-vu-too-late/title-image.jpg",
+          "role": "Inspected source-cover context only, not supplied to image generation",
+          "inspected": true,
+          "notes": "Contains no character appearance; ring hardware and digital green overlay never borrowed as character identity.",
+          "sha256": "3b31d1c005df82294b2bd646636aca545e170b6db019e77fc0c1d3c75b5ac3c7"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
+          "role": "Inspected cool dark orbital values and broad paint only",
+          "inspected": true,
+          "notes": "White-slate structures against blue-black connected dark; no cosmic backgrounds in character sheets.",
+          "sha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43"
+        }
+      ],
+      "output": "stories/deja-vu-too-late/art/characters/pavax.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Pavax'. Remote male ring controller never visually described by source: a restrained character interpretation. Three complete full-body views front/side/back and two focused speaking/attentive head studies, EMPTY HANDS, no props. Man early50s tall solid heavy build, TAN OLIVE skin, broad hooked nose, RECEDING SILVER close flat crop hair, strong clean-shaven square jaw; clearly unlike reference young swept-haired face. Plain deep slate-blue duty jacket with simple closure, muted blue undershirt, charcoal straight trousers and low practical dark boots. No rank insignia, epaulettes, space armor, helmet, headset, console, badge or invented gadgets. Quiet controlled posture, one subtle open-palm gesture. Only labels 'Front', 'Side', 'Back', 'Speaking', 'Listening'. Same subdued ship-interior ambient family of cool shadow and muted warm reflected face planes, no room.",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+            "inspected": true,
+            "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+            "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+            "inspected": true,
+            "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+            "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:31:06.226Z",
+            "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Pavax'. Remote male ring controller never visually described by source: a restrained character interpretation. Three complete full-body views front/side/back and two focused speaking/attentive head studies, EMPTY HANDS, no props. Man early50s tall solid heavy build, TAN OLIVE skin, broad hooked nose, RECEDING SILVER close flat crop hair, strong clean-shaven square jaw; clearly unlike reference young swept-haired face. Plain deep slate-blue duty jacket with simple closure, muted blue undershirt, charcoal straight trousers and low practical dark boots. No rank insignia, epaulettes, space armor, helmet, headset, console, badge or invented gadgets. Quiet controlled posture, one subtle open-palm gesture. Only labels 'Front', 'Side', 'Back', 'Speaking', 'Listening'. Same subdued ship-interior ambient family of cool shadow and muted warm reflected face planes, no room.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+                "inspected": true,
+                "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+                "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+                "inspected": true,
+                "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+                "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-972b3747-f693-440c-8a98-f607a9b19d20.png",
+            "savedPath": "stories/deja-vu-too-late/art/characters/pavax.png",
+            "outputSha256": "27c74016756133eb3470545d46e3c02dbe5854dfc994b27f46a97c86c5e21ca2",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:52:41.1625007Z"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "root actual-pixel review",
+        "reviewedAt": "2026-09-24T02:54:12.201476+00:00",
+        "sourceSha256": "dd53abc2d744d5ad3e37a2e41a853d4c637a057438972c6dfe47baec382f7400",
+        "outputSha256": "27c74016756133eb3470545d46e3c02dbe5854dfc994b27f46a97c86c5e21ca2",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+            "inspected": true,
+            "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+            "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+            "inspected": true,
+            "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+            "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+          }
+        ],
+        "evidence": [
+          "Root actual-pixel inspection: older tall solid clean-shaven gray-haired controller identity consistent across full views and portraits, plain duty clothing with no invented rank or apparatus.",
+          "Exact readable heading and story title, distinct face from other cast, broad matte skin/cloth oil masses and quiet cool interior light on bare ivory."
+        ],
+        "specificationSha256": "26e243c433ab94f877c8b61eced88e0bd889bf97966b8b2fdaf8784b3265607a"
+      },
+      "outputSha256": "27c74016756133eb3470545d46e3c02dbe5854dfc994b27f46a97c86c5e21ca2"
+    },
+    {
+      "id": "dalsen",
+      "name": "Dalsen",
+      "role": "Harness designer, sustained remote technical witness explaining limits without claiming missing decisions",
+      "naming": {
+        "sourceName": "Dalsen",
+        "sourceRole": "Harness designer, sustained remote technical witness explaining limits without claiming missing decisions",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Dalsen's voice, brisk and level.",
+          "line": 23,
+          "explanation": "Warning and identification."
+        },
+        {
+          "quote": "The harness designer came back with a breath of room noise around him.",
+          "line": 55,
+          "explanation": "Role and masculine pronoun."
+        },
+        {
+          "quote": "Mine too",
+          "line": 67,
+          "explanation": "Incomplete evidence witness."
+        },
+        {
+          "quote": "Dalsen asked for the spent harness serial",
+          "line": 355,
+          "explanation": "Sustained supporting role."
+        }
+      ],
+      "form": "Adult human man; remote voice physical appearance interpreted",
+      "storyAppearance": {
+        "anatomy": "Adult human man; remote voice physical appearance interpreted",
+        "lifeStage": "Adult; exact age is visual interpretation",
+        "proportions": "Thin lanky man about58, warm medium-brown skin, narrow long face, high forehead and straight long nose, short neat salt-and-pepper hair with high receding temples, clean-shaven, round plain work spectacles. Faded moss high-neck knit shirt and simple gray work overshirt, charcoal slacks and brown low shoes; no lab insignia. All appearance interpretive.",
+        "markings": "Male harness designer heard remotely; explains mechanism, confirms state and interprets incomplete latch feeds. No bodily appearance, age, clothing or personal device described. He does not recover Kessa's lost decisions or reset time.",
+        "materials": "Painted human skin/hair, practical pressure/work fabric and matte metal as applicable",
+        "clothing": "Thin lanky man about58, warm medium-brown skin, narrow long face, high forehead and straight long nose, short neat salt-and-pepper hair with high receding temples, clean-shaven, round plain work spectacles. Faded moss high-neck knit shirt and simple gray work overshirt, charcoal slacks and brown low shoes; no lab insignia. All appearance interpretive.",
+        "equipment": "No additional props or invented machinery. Plain spectacles are wearable visual interpretation, not source fact.",
+        "scale": "Ordinary human adult; exact measurements unspecified",
+        "movement": "Restrained work posture, no action vignette",
+        "distinctiveFeatures": "Thin lanky man about58, warm medium-brown skin, narrow long face, high forehead and straight long nose, short neat salt-and-pepper hair with high receding temples, clean-shaven, round plain work spectacles. Faded moss high-neck knit shirt and simple gray work overshirt, charcoal slacks and brown low shoes; no lab insignia. All appearance interpretive."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Male harness designer heard remotely; explains mechanism, confirms state and interprets incomplete latch feeds.",
+        "Local non-canon story fact: No bodily appearance, age, clothing or personal device described. He does not recover Kessa's lost decisions or reset time."
+      ],
+      "visualInterpretation": [
+        "Thin lanky man about58, warm medium-brown skin, narrow long face, high forehead and straight long nose, short neat salt-and-pepper hair with high receding temples, clean-shaven, round plain work spectacles. Faded moss high-neck knit shirt and simple gray work overshirt, charcoal slacks and brown low shoes; no lab insignia. All appearance interpretive.",
+        "No additional props or invented machinery. Plain spectacles are wearable visual interpretation, not source fact.",
+        "Source-unseen physical design clearly interpretive, never shared authority. Same-story muted internal light; no space scenery."
+      ],
+      "states": [
+        {
+          "name": "Remote consultation",
+          "description": "Same plain outfit, measured speaking and concentrating head studies."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "deja-vu-too-late:dalsen",
+        "links": [],
+        "evidence": "No matching shared entry or recurring identity found; independent local story person."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+          "inspected": true,
+          "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+          "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+          "inspected": true,
+          "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+          "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+        },
+        {
+          "path": "stories/deja-vu-too-late/title-image.jpg",
+          "role": "Inspected source-cover context only, not supplied to image generation",
+          "inspected": true,
+          "notes": "Contains no character appearance; ring hardware and digital green overlay never borrowed as character identity.",
+          "sha256": "3b31d1c005df82294b2bd646636aca545e170b6db019e77fc0c1d3c75b5ac3c7"
+        },
+        {
+          "path": "stories/deja-vu-too-late/art/landscapes/03-white-arc-in-darkness.png",
+          "role": "Inspected cool dark orbital values and broad paint only",
+          "inspected": true,
+          "notes": "White-slate structures against blue-black connected dark; no cosmic backgrounds in character sheets.",
+          "sha256": "1a6c4b8c6680f14325b0519fac1fcb1047de2cab96fd2a466a4d5ed9ee2fcc43"
+        }
+      ],
+      "output": "stories/deja-vu-too-late/art/characters/dalsen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Dalsen'. Remote male harness designer not visually described in prose: restrained human interpretation. Three complete full-body front/side/back views, two head studies 'Explaining' and 'Considering', no devices or environment. Thin lanky man about58, WARM MEDIUM-BROWN skin, narrow long face, high forehead, straight long nose, short NEAT SALT-AND-PEPPER HAIR with high receding temples, CLEAN-SHAVEN, small plain ROUND WORK SPECTACLES with clear lenses, no glossy mirrored lenses. Faded moss high-neck knit shirt, plain gray work overshirt, charcoal slacks, brown low shoes. No lab coat, rank insignia, futuristic armor, badges, invented harness in his hands or technical diagrams. Empty hands with one small restrained explanation gesture. Clearly different from young dark swept-haired style-anchor man. Painted face and glasses integrated in broad opaque oil, quiet cool interior values.",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+            "inspected": true,
+            "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+            "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+            "inspected": true,
+            "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+            "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T23:31:06.226Z",
+            "prompt": "Create ONE 1536x1024 landscape oil character reference folio, plain LIGHT WARM IVORY with quiet negative space. Exact dark serif name and smaller title 'The Warning Comes Second'. ONE identity only. Complete useful unclipped form views and 2 head/feature studies as specified; small source-supported personal gear only. No scenery, cockpit, furniture, room, floor, ground patch, planetary background, stars, display wall, palette swatches or other characters. FIRST reference is actual broad opaque painted face/hair/clothing and ivory folio only; do NOT copy young man's face, brown swept hair, red coat or old-world clothing. SECOND supplies same-story blue/slate shadow and muted amber interior bounce and substantial paint, no environment. Canadian Group of Seven-inspired physical oil, broad connected value masses and directional bristles, selectively thick impasto, quiet joins. Faces fully painted with broad deliberate strokes, ordinary matte eyes; no smooth photo skin, CGI, glossy armor, anime or repeated beveled chips. Restrained low ambient interior light with cooler large shadows and small muted warm planes, not bright daylight or orange rim. All views same coherent person/body/clothing unless an explicit state label says otherwise. No engineering cutaways, invented prose or labels beyond concise views/states.\nHeading 'Dalsen'. Remote male harness designer not visually described in prose: restrained human interpretation. Three complete full-body front/side/back views, two head studies 'Explaining' and 'Considering', no devices or environment. Thin lanky man about58, WARM MEDIUM-BROWN skin, narrow long face, high forehead, straight long nose, short NEAT SALT-AND-PEPPER HAIR with high receding temples, CLEAN-SHAVEN, small plain ROUND WORK SPECTACLES with clear lenses, no glossy mirrored lenses. Faded moss high-neck knit shirt, plain gray work overshirt, charcoal slacks, brown low shoes. No lab coat, rank insignia, futuristic armor, badges, invented harness in his hands or technical diagrams. Empty hands with one small restrained explanation gesture. Clearly different from young dark swept-haired style-anchor man. Painted face and glasses integrated in broad opaque oil, quiet cool interior values.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+                "inspected": true,
+                "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+                "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+                "inspected": true,
+                "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+                "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-87ed67bb-aadb-48b1-b561-88259055445d.png",
+            "savedPath": "stories/deja-vu-too-late/art/characters/dalsen.png",
+            "outputSha256": "66a202b4fe96089c044d046cdfa93361809876d267473132ed66d5e199a7f148",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T23:52:41.1743090Z"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "root actual-pixel review",
+        "reviewedAt": "2026-09-24T02:54:12.246503+00:00",
+        "sourceSha256": "dd53abc2d744d5ad3e37a2e41a853d4c637a057438972c6dfe47baec382f7400",
+        "outputSha256": "66a202b4fe96089c044d046cdfa93361809876d267473132ed66d5e199a7f148",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil/folio rendering only; no face, hair, clothing or identity transfer",
+            "inspected": true,
+            "notes": "Broad face and hair planes, opaque garment paint and quiet ivory inspected.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/deja-vu-too-late/art/interiors/01-service-tug-cockpit.png",
+            "role": "Same-story blue-black/amber material light and oil masses only; no cockpit transfer",
+            "inspected": true,
+            "notes": "Muted amber interior reflection, blue/slate ambient shadows and broad painted metal. All machinery/room excluded.",
+            "sha256": "f685ee9688b706577d51b03162a0f510771bdc9d3c5b93280a378b6c17ee7658"
+          }
+        ],
+        "evidence": [
+          "Root actual-pixel inspection: older lanky narrow-faced glasses-wearing designer consistent across complete views, ordinary work clothes and restrained empty-hand gesture; distinct identity from Pavax.",
+          "Readable correct labels, fully painted face and clothing, muted interior illumination, unclipped figures and bare ivory with no location or paint swatches."
+        ],
+        "specificationSha256": "c1efc3f3772b42fc48b1ca335cf3761700f5e10db38b494a3127244bed79558b"
+      },
+      "outputSha256": "66a202b4fe96089c044d046cdfa93361809876d267473132ed66d5e199a7f148"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-upward-rain",
+  "title": "The Upward Rain",
+  "source": "stories/the-upward-rain/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished source and prompt fully read. Anouk and Kasim are rival co-discoverers whose complementary evidence and negotiated custody structure the expedition; Jessa is a sustained active safety lead, records witness and rescuer.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Incidental or background figures",
+      "reason": "The two shore workers, nursery fauna, past Namarra work groups and Kasim's grandmother are important context/stakes but not sustained present main cast."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md",
+    "universe/rules.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover inspected: orange foam-lined sample case, notebook and exposed salt-wet archaeology under reversed rain; no faces. Case silhouette supplies object cue only. Namarras-water-commons oil painting inspected for broad cool daylight/stone-light palette; no setting in sheets.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "anouk-verren",
+      "name": "Anouk Verren",
+      "role": "Focal institute explorer responsible for sections/stratigraphic alternatives, who learns to share authority and abandon gear.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Anouk closed the empty sample case.",
+          "explanation": "Focal institute explorer responsible for sections/stratigraphic alternatives, who learns to share authority and abandon gear."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman explorer; harness and return line, orange foam-lined empty sample case, pack, section probe, range pole, paper notebook, gloves and radio. Probe later breaks and is abandoned, then case abandoned; sheet fixes outward-survey state before damage."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent40, tall narrow-shouldered frame, medium olive skin, short straight black bob, long face and straight dark eyebrows. Muted burgundy waterproof field jacket and slate trousers, mud-stained practical rubber boots."
+      ],
+      "states": [
+        {
+          "name": "Outward survey before probe damage",
+          "description": "Adult woman explorer; harness and return line, orange foam-lined empty sample case, pack, section probe, range pole, paper notebook, gloves and radio. Probe later breaks and is abandoned, then case abandoned; sheet fixes outward-survey state before damage."
+        }
+      ],
+      "lighting": "Chilled coast under lifted salt cloud in morning: diffuse cool grey-blue illumination, restrained warmer reflections on a few planes, broad muted violet shadows; not sunset orange.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Anouk Verren"
+      },
+      "status": "deferred",
+      "output": "stories/the-upward-rain/art/characters/anouk-verren.png",
+      "generation": {
+        "prompt": "TEXT-ONLY EDIT of this exact character sheet. Change ONLY the subtitle beneath Anouk Verren to EXACTLY \"The Upward Rain\". Spelling: T h e, U p w a r d, R a i n. It currently says Run; it must say Rain. Preserve ALL pixels of character identity, faces, hair, clothing, equipment, paint, layout, ivory background and the correct heading \"Anouk Verren\". No other edit.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-79c85e8d-d731-4649-a179-26cb4f3d9465.png",
+            "sha256": "fb0e275f151edc90eb4bf7f862eba677c86e637a24c6a5d812bcf4f2cc41ddbb",
+            "inspected": true,
+            "role": "Immutable inspected candidate for named correction/identity only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Name \"Anouk Verren\"; title \"The Upward Rain\". Adult woman explorer apparent40, tall slim practical frame, medium olive skin, short straight BLACK BOB, long face/straight brows, focused analytic expression. Muted BURGUNDY waterproof field jacket, slate field trousers, mud-marked dark rubber boots, gloves, ordinary safety harness with metal buckle and rope return line. Front-three-quarter full body holding NARROW ORANGE SAMPLE CASE; back-three-quarter shows small grey pack with intact section probe clipped along it. State is BEFORE probe damage, before gear abandonment. Portrait attentive rather than heroic. Small object study of open orange case with EMPTY dark foam interior and paper section notebook/pencil, no archaeological sample. Source case is not a treasure chest. Radio clipped at chest, modest range pole beside one pose if space. Cool diffuse morning beneath sea-cloud, restrained highlights and connected grey-violet shadows. No ground, ruins, water or actual rain scene.",
+            "references": [
+              {
+                "path": "stories/the-upward-rain/art/landscapes/03-namarras-water-commons.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "691b3b3cf7ad7c0fc27be5cf04e9b8915e34bca1a36fb72278829a22a4613837"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "stories/the-upward-rain/title-image.jpg",
+                "role": "Actually inspected source cover: compatible identity or equipment cue only; no rendering/scene or conflicting detail.",
+                "inspected": true,
+                "sha256": "0dff04df317ba93217cd9ac136d55e9e8204e7a424638c621aa335a6ead3a740"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs.",
+            "startedAt": "2026-09-24T12:29:44.490012+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-f15ad83a-eab3-4c37-8d3a-b1ebc5eb63e8.png",
+            "outputSha256": "6135cc0690f1dc58f53c5143e404b7a097c767e3052e2a0531425bc20f103c14",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:40:50.876253+00:00",
+            "generatorReview": "Source identity/outward survey gear, harness, intact clipped probe and empty orange foam case coherent. Negative space is dark/hazed, hiding title; correct to ivory and clear dark text while preserving character."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Edit this exact Anouk Verren sheet only for clean ivory presentation. PRESERVE every character's identity, face, hair, form, pose, paint, light, costume, tools/straps and all readable text. Replace all dark/hazy negative space, ground patches and contact shadows UNDER FEET or props with uniform LIGHT WARM IVORY, matching untouched blank paper. Every outside edge ivory; no floor patches. Names and title in crisp readable near-black ink, same exact spelling. Do not brighten/relight the figures or repaint their anatomy. Keep complete silhouette and equipment studies with clear margins.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-f15ad83a-eab3-4c37-8d3a-b1ebc5eb63e8.png",
+                "sha256": "6135cc0690f1dc58f53c5143e404b7a097c767e3052e2a0531425bc20f103c14",
+                "inspected": true,
+                "role": "Actual immutable candidate for named correction only."
+              }
+            ],
+            "reason": "Source identity/outward survey gear, harness, intact clipped probe and empty orange foam case coherent. Negative space is dark/hazed, hiding title; correct to ivory and clear dark text while preserving character.",
+            "preflight": "Actual returned pixels and source compared; only concrete background/framing/style/duplicated prop issues corrected. No isolated hand studies or anatomy-side exercise.",
+            "startedAt": "2026-09-24T12:40:50.876253+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-79c85e8d-d731-4649-a179-26cb4f3d9465.png",
+            "outputSha256": "fb0e275f151edc90eb4bf7f862eba677c86e637a24c6a5d812bcf4f2cc41ddbb",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:00:08.327596+00:00",
+            "generatorReview": "Ivory restored and all source/paint forms maintained; title was misrendered as The Upward Run. Correct only the subtitle to exact The Upward Rain."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "cancelled-before-call",
+            "prompt": "TEXT-ONLY EDIT of this exact character sheet. Change ONLY the subtitle beneath Anouk Verren to EXACTLY \"The Upward Rain\". Spelling: T h e, U p w a r d, R a i n. It currently says Run; it must say Rain. Preserve ALL pixels of character identity, faces, hair, clothing, equipment, paint, layout, ivory background and the correct heading \"Anouk Verren\". No other edit.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-79c85e8d-d731-4649-a179-26cb4f3d9465.png",
+                "sha256": "fb0e275f151edc90eb4bf7f862eba677c86e637a24c6a5d812bcf4f2cc41ddbb",
+                "inspected": true,
+                "role": "Immutable inspected candidate for named correction/identity only."
+              }
+            ],
+            "reason": "Ivory restored and all source/paint forms maintained; title was misrendered as The Upward Run. Correct only the subtitle to exact The Upward Rain.",
+            "preflight": "After actual pixel/source comparison: exact text-only correction for Anouk; Juni diagnosis requires changed composition to remove conflicting cover cues. No hand anatomy correction/studies. All actual useful inputs inspected.",
+            "startedAt": "2026-09-24T13:00:08.327596+00:00",
+            "toolInvoked": false
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    },
+    {
+      "id": "kasim-orrel",
+      "name": "Kasim Orrel",
+      "role": "Co-focal coastal explorer who reads repaired routes, prevents damage and negotiates shared discovery credit and custody.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Kasim released the case. \"I'll hold the reflector.\"",
+          "explanation": "Co-focal coastal explorer who reads repaired routes, prevents damage and negotiates shared discovery credit and custody."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Male adult explorer with gloves, harness, radio, camera/chest pouch, route sheets with blue outward/green return corners; route knowledge and masonry repair sequence are his responsibility."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent45, broad athletic but ordinary work-built frame, deep brown skin, shaved head, short salt-and-pepper beard, broad nose; dark moss waterproof coat, charcoal trousers and mud-marked dark boots."
+      ],
+      "states": [
+        {
+          "name": "Outward documentation",
+          "description": "Male adult explorer with gloves, harness, radio, camera/chest pouch, route sheets with blue outward/green return corners; route knowledge and masonry repair sequence are his responsibility."
+        }
+      ],
+      "lighting": "Chilled diffuse sea-cloud morning with restrained warm skin planes and broad cool blue-violet shadows.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Kasim Orrel"
+      },
+      "status": "completed",
+      "output": "stories/the-upward-rain/art/characters/kasim-orrel.png",
+      "generation": {
+        "prompt": "Edit this exact Kasim Orrel sheet only for clean ivory presentation. PRESERVE every character's identity, face, hair, form, pose, paint, light, costume, tools/straps and all readable text. Replace all dark/hazy negative space, ground patches and contact shadows UNDER FEET or props with uniform LIGHT WARM IVORY, matching untouched blank paper. Every outside edge ivory; no floor patches. Names and title in crisp readable near-black ink, same exact spelling. Do not brighten/relight the figures or repaint their anatomy. Keep complete silhouette and equipment studies with clear margins.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-d028d80a-a2f0-48ac-911b-3b0c2621a796.png",
+            "sha256": "27f5f1ce76717b90264a34b1dfe0b2d7c2aaac77cf18509ccc075b422d8f6dff",
+            "inspected": true,
+            "role": "Actual immutable candidate for named correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Name \"Kasim Orrel\"; title \"The Upward Rain\". Adult man apparent45, broad work-built frame, deep brown skin, SHAVED HEAD, short salt-and-pepper beard, broad nose, steady direct expression. Dark MOSS-GREEN waterproof field coat, charcoal trousers, dark mud-marked work boots and gloves. Ordinary safety harness and return-line coil, chest radio, compact camera securely in chest pouch. Two complete front/back-three-quarter full-body views, head study listening with cautious skepticism. Small object study of a compact field camera and folded annotated ROUTE SHEETS with blue corners and green corners; marks are illegible cartographic strokes, not invented declarations. No orange sample case. All tools and straps practical not tactical combat gear. Cool diffuse morning under sea-cloud, substantial blue-violet shadows, no cinematic glow.",
+            "references": [
+              {
+                "path": "stories/the-upward-rain/art/landscapes/03-namarras-water-commons.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "691b3b3cf7ad7c0fc27be5cf04e9b8915e34bca1a36fb72278829a22a4613837"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs.",
+            "startedAt": "2026-09-24T12:29:44.490012+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-d028d80a-a2f0-48ac-911b-3b0c2621a796.png",
+            "outputSha256": "27f5f1ce76717b90264a34b1dfe0b2d7c2aaac77cf18509ccc075b422d8f6dff",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:40:50.876253+00:00",
+            "generatorReview": "Identity, camera, harness and blue/green route sheets coherent with broad opaque oil. Small painted ground/contact patches appear below feet; remove those to satisfy character-only ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit this exact Kasim Orrel sheet only for clean ivory presentation. PRESERVE every character's identity, face, hair, form, pose, paint, light, costume, tools/straps and all readable text. Replace all dark/hazy negative space, ground patches and contact shadows UNDER FEET or props with uniform LIGHT WARM IVORY, matching untouched blank paper. Every outside edge ivory; no floor patches. Names and title in crisp readable near-black ink, same exact spelling. Do not brighten/relight the figures or repaint their anatomy. Keep complete silhouette and equipment studies with clear margins.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-d028d80a-a2f0-48ac-911b-3b0c2621a796.png",
+                "sha256": "27f5f1ce76717b90264a34b1dfe0b2d7c2aaac77cf18509ccc075b422d8f6dff",
+                "inspected": true,
+                "role": "Actual immutable candidate for named correction only."
+              }
+            ],
+            "reason": "Identity, camera, harness and blue/green route sheets coherent with broad opaque oil. Small painted ground/contact patches appear below feet; remove those to satisfy character-only ivory.",
+            "preflight": "Actual returned pixels and source compared; only concrete background/framing/style/duplicated prop issues corrected. No isolated hand studies or anatomy-side exercise.",
+            "startedAt": "2026-09-24T12:40:50.876253+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-4db95f4e-d9f4-46c9-ab98-7fb32a04e5a3.png",
+            "outputSha256": "c25d3dd85324f2904c5f388356c539c148a1931dcee47437f5a1196746ccfdd8",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:00:08.327596+00:00",
+            "generatorReview": "Actual pixels inspected: consistent shaved-head/bearded explorer identity, practical green coat, harness/rope, radio/camera and blue/green corner route sheets. Full silhouettes and props free of floor/contact patches; broad connected oil face/cloth, cool coastal light, readable exact title and ivory pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs."
+      },
+      "outputSha256": "c25d3dd85324f2904c5f388356c539c148a1931dcee47437f5a1196746ccfdd8",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T13:00:08.327596+00:00",
+        "sourceSha256": "d4e0f0816ef93807ba8b97ecd9553a9a218089eb3ee54327a5c9b0115d4a6091",
+        "outputSha256": "c25d3dd85324f2904c5f388356c539c148a1931dcee47437f5a1196746ccfdd8",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-d028d80a-a2f0-48ac-911b-3b0c2621a796.png",
+            "sha256": "27f5f1ce76717b90264a34b1dfe0b2d7c2aaac77cf18509ccc075b422d8f6dff",
+            "inspected": true,
+            "role": "Actual immutable candidate for named correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent shaved-head/bearded explorer identity, practical green coat, harness/rope, radio/camera and blue/green corner route sheets. Full silhouettes and props free of floor/contact patches; broad connected oil face/cloth, cool coastal light, readable exact title and ivory pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "70166bc4fe6d9543c86680b347c576199ddc0ba278f26639410502a552d9f2a2"
+      }
+    },
+    {
+      "id": "jessa-marn",
+      "name": "Jessa Marn",
+      "role": "Shore safety lead, mirrored-record receiver and witness who enforces the return and hauls the explorers to safety.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Jessa came down the last stones, clipped a second rope into Anouk's harness, then Kasim's, and hauled without asking what they had found.",
+          "explanation": "Shore safety lead, mirrored-record receiver and witness who enforces the return and hauls the explorers to safety."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman shore coordinator, handles harness/return lines/radio, tracks pressure and shear at mast, mirrors records and confirms archive checksums, physically rescues both explorers."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent57, strong compact build, medium-tan skin, close white crew cut, lined square face; mustard waterproof utility jacket, navy trousers, dark weather boots and simple safety harness."
+      ],
+      "states": [
+        {
+          "name": "Coordinating the return",
+          "description": "Adult woman shore coordinator, handles harness/return lines/radio, tracks pressure and shear at mast, mirrors records and confirms archive checksums, physically rescues both explorers."
+        }
+      ],
+      "lighting": "Cold cloud-darkened coast near return: cool slate-blue ambient shadow, small pale sky highlights, no warm sunny studio.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Jessa Marn"
+      },
+      "status": "completed",
+      "output": "stories/the-upward-rain/art/characters/jessa-marn.png",
+      "generation": {
+        "prompt": "Edit this exact Jessa Marn sheet only for clean ivory presentation. PRESERVE every character's identity, face, hair, form, pose, paint, light, costume, tools/straps and all readable text. Replace all dark/hazy negative space, ground patches and contact shadows UNDER FEET or props with uniform LIGHT WARM IVORY, matching untouched blank paper. Every outside edge ivory; no floor patches. Names and title in crisp readable near-black ink, same exact spelling. Do not brighten/relight the figures or repaint their anatomy. Keep complete silhouette and equipment studies with clear margins.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-0913113b-42cf-4aa6-90fc-80af590fd385.png",
+            "sha256": "b13520958fbecc90d1010edc2c9ad2f923472b7ca5e5c95a186fb475341fe4a0",
+            "inspected": true,
+            "role": "Actual immutable candidate for named correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Name \"Jessa Marn\"; title \"The Upward Rain\". Older adult woman apparent57, strong compact frame, medium-tan weathered skin, CLOSE WHITE CREW CUT, lined square face and small dark eyes. MUSTARD waterproof utility jacket, navy work trousers, sturdy dark weather boots and safety harness, simple headset/radio. Two complete front-three-quarter and back-three-quarter full-body views. One steady stance braces while holding a rope coil close to body, no pulling a second person. Head study firm matter-of-fact speaking. Small personal equipment study handheld radio and clipped return-line carabiner, no detailed mast apparatus or screens. Cold cloud-darkened coastal daylight, little pale light on upper planes and broad slate-blue shadow. Ivory independent of the dim figures.",
+            "references": [
+              {
+                "path": "stories/the-upward-rain/art/landscapes/03-namarras-water-commons.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "691b3b3cf7ad7c0fc27be5cf04e9b8915e34bca1a36fb72278829a22a4613837"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Actually inspected oil painting: source light/palette and broad connected masses only; no environment.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs.",
+            "startedAt": "2026-09-24T12:29:44.490012+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-0913113b-42cf-4aa6-90fc-80af590fd385.png",
+            "outputSha256": "b13520958fbecc90d1010edc2c9ad2f923472b7ca5e5c95a186fb475341fe4a0",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:40:50.876253+00:00",
+            "generatorReview": "Identity, practical safety gear, white hair/rope/radio consistent. Dark haze/background hides title and ground patches appear; precise background/text cleanup needed."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit this exact Jessa Marn sheet only for clean ivory presentation. PRESERVE every character's identity, face, hair, form, pose, paint, light, costume, tools/straps and all readable text. Replace all dark/hazy negative space, ground patches and contact shadows UNDER FEET or props with uniform LIGHT WARM IVORY, matching untouched blank paper. Every outside edge ivory; no floor patches. Names and title in crisp readable near-black ink, same exact spelling. Do not brighten/relight the figures or repaint their anatomy. Keep complete silhouette and equipment studies with clear margins.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-0913113b-42cf-4aa6-90fc-80af590fd385.png",
+                "sha256": "b13520958fbecc90d1010edc2c9ad2f923472b7ca5e5c95a186fb475341fe4a0",
+                "inspected": true,
+                "role": "Actual immutable candidate for named correction only."
+              }
+            ],
+            "reason": "Identity, practical safety gear, white hair/rope/radio consistent. Dark haze/background hides title and ground patches appear; precise background/text cleanup needed.",
+            "preflight": "Actual returned pixels and source compared; only concrete background/framing/style/duplicated prop issues corrected. No isolated hand studies or anatomy-side exercise.",
+            "startedAt": "2026-09-24T12:40:50.876253+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-1ca87f32-7c31-4fb1-9eaa-566c89400b13.png",
+            "outputSha256": "bd6fd9a8354e7002efbac53746fb298358ab46d5911f619e2b6fde24c412693d",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T13:00:08.327596+00:00",
+            "generatorReview": "Actual pixels inspected: distinct older crew-cut safety lead, mustard weather gear, harness/rope/radio, two complete consistent views and speaking portrait. Strong directional oil, source-motivated cool shadow, clean ivory and exact title/name pass. No environmental floor or extra character."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source and prompt read after state marker; authority checked and source cover plus selected painting bytes inspected. Cast scope, source equipment/state versus visual interpretation, consistent identity, lighting and useful unclipped framing reviewed. No hand studies or side-label detours; one sheet and at most3 useful inputs."
+      },
+      "outputSha256": "bd6fd9a8354e7002efbac53746fb298358ab46d5911f619e2b6fde24c412693d",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T13:00:08.327596+00:00",
+        "sourceSha256": "d4e0f0816ef93807ba8b97ecd9553a9a218089eb3ee54327a5c9b0115d4a6091",
+        "outputSha256": "bd6fd9a8354e7002efbac53746fb298358ab46d5911f619e2b6fde24c412693d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-0913113b-42cf-4aa6-90fc-80af590fd385.png",
+            "sha256": "b13520958fbecc90d1010edc2c9ad2f923472b7ca5e5c95a186fb475341fe4a0",
+            "inspected": true,
+            "role": "Actual immutable candidate for named correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct older crew-cut safety lead, mustard weather gear, harness/rope/radio, two complete consistent views and speaking portrait. Strong directional oil, source-motivated cool shadow, clean ivory and exact title/name pass. No environmental floor or extra character.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "cf92ad25e7e5e575dbdcc37c12e4f9d03244cd3cdf1323e0fa8c463b4dc07f25"
+      }
+    }
+  ],
+  "sourceSha256": "d4e0f0816ef93807ba8b97ecd9553a9a218089eb3ee54327a5c9b0115d4a6091"
+}

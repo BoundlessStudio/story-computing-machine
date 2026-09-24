@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-door-in-the-ivy",
+  "title": "The Door in the Ivy",
+  "source": "stories/the-door-in-the-ivy/story.md",
+  "sourceSha256": "3e283c54626ba39464b3d82b31d61b5aa32b1285bc05756a1d1156fb8c4f9b63",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose centers on Clarimond and Belda's sustained reunion, conflicting expectations, reciprocal apologies and renewed relationship. Both are named living main characters. No additional individual has a substantial present role.",
+  "excludedMinorCharacters": [
+    "Clarimond's captain appears briefly twice without a name or sustained individual role; incidental soldiers, callers and kitchen workers remain minor.",
+    "Offstage/recalled aunt, mother, groom, Belda's husband and stepdaughter, sister and miller's daughters affect backstory but are not present main cast. No invented portrait."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md authority hierarchy read; whole universe and frozen name memory scanned for Clarimond/Belda without shared identity hits. Canon false; appearance established by finished prose plus subordinate original visual input."
+  ],
+  "characters": [
+    {
+      "id": "clarimond",
+      "name": "Clarimond",
+      "role": "Returned queen and central reunion viewpoint",
+      "naming": {
+        "sourceName": "Clarimond",
+        "sourceRole": "queen",
+        "provenance": "Exact finished-prose name; no invented surname"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "She was twenty-six.",
+          "explanation": "Exact present age; nine at flight seventeen years earlier."
+        },
+        {
+          "quote": "Dust had settled in the dark red folds below her armor. There was a tear at her knee",
+          "explanation": "Armor over dark red skirt and travel wear."
+        },
+        {
+          "quote": "among the loosened pins in her dark hair",
+          "explanation": "Source dark hair and loosened style."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Tall adult woman exactly26, dark hair with loosened pins, aunt's altered crown, armor over dusty dark red skirt with knee tear; sword; boots pinch; no literal supernatural feature.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Preserve inspected original/cover lean long adult face, fair warm skin, straight nose, dark brown eyes and loose dark hair. Art interpretation: silver dark-etched shoulder/upper-arm plates and fitted leather-strapped armored torso over layered dark-red dress, plain dark brown boots; small tear at LEFT knee. Crown delicate dark silver filigree points, sword bronze crossguard/round pommel. Bare forearms as original.",
+        "markings": "Tall adult woman exactly26, dark hair with loosened pins, aunt's altered crown, armor over dusty dark red skirt with knee tear; sword; boots pinch; no literal supernatural feature.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Preserve inspected original/cover lean long adult face, fair warm skin, straight nose, dark brown eyes and loose dark hair. Art interpretation: silver dark-etched shoulder/upper-arm plates and fitted leather-strapped armored torso over layered dark-red dress, plain dark brown boots; small tear at LEFT knee. Crown delicate dark silver filigree points, sword bronze crossguard/round pommel. Bare forearms as original.",
+        "equipment": "Three views crown worn; sword loosely held safely angled down without ground. Heads exhausted reunion and unsteady joyful recognition. Isolated own hand/wrist supporting removed same crown as source alternate state; sword-hilt detail. No second person.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Preserve inspected original/cover lean long adult face, fair warm skin, straight nose, dark brown eyes and loose dark hair. Art interpretation: silver dark-etched shoulder/upper-arm plates and fitted leather-strapped armored torso over layered dark-red dress, plain dark brown boots; small tear at LEFT knee. Crown delicate dark silver filigree points, sword bronze crossguard/round pommel. Bare forearms as original."
+      },
+      "explicitCanon": [
+        "Tall adult woman exactly26, dark hair with loosened pins, aunt's altered crown, armor over dusty dark red skirt with knee tear; sword; boots pinch; no literal supernatural feature."
+      ],
+      "visualInterpretation": [
+        "Preserve inspected original/cover lean long adult face, fair warm skin, straight nose, dark brown eyes and loose dark hair. Art interpretation: silver dark-etched shoulder/upper-arm plates and fitted leather-strapped armored torso over layered dark-red dress, plain dark brown boots; small tear at LEFT knee. Crown delicate dark silver filigree points, sword bronze crossguard/round pommel. Bare forearms as original.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon.",
+        "Removed-crown detail may show both own hands supporting it between removal from wrist and setting down; this is a reference transition, not a second crown or a different character."
+      ],
+      "states": [
+        {
+          "name": "Present reunion",
+          "description": "Adult26 in crown and armor over red skirt."
+        },
+        {
+          "name": "Crown removed",
+          "description": "Same character's own wrist supports crown, as source; no extra identity."
+        }
+      ],
+      "lighting": {
+        "moment": "Afternoon reunion outside palace service door",
+        "motivation": "Filtered warm sun against cool ivy shade; no depicted place"
+      },
+      "recurrence": {
+        "identityKey": "clarimond-the-door-in-the-ivy",
+        "links": [],
+        "evidence": "No matching shared-universe identity found."
+      },
+      "references": [
+        {
+          "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+          "role": "Actual inspected afternoon lighting/value reference",
+          "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+          "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+          "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-clipboard-e6a5e3bf-c3e2-46d3-859e-2886568885cc.png",
+          "role": "Recovered exact original attached to actual story request, inspected",
+          "notes": "Recovered raw 2604517-byte PNG from archived_sessions/rollout-2026-09-07T18-28-06-01a07dfc-5f75-7da1-badb-b1c71ca4d4b1.jsonl line21 user input_image; preceding line9 exact original WP. SHA256 820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839. Dark-haired pale adult queen, ornate crown, steel/leather armor over red skirt, bare arms, sword; no original pixels copied into repository.",
+          "sha256": "820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-door-in-the-ivy/title-image.jpg",
+          "role": "Inspected subordinate queen identity and costume continuity",
+          "notes": "Queen remains adult26. Original/cover geometry translated to accepted matte oil handling; no wall, ivy or scene.",
+          "sha256": "a658b8aea209e318d0abb518e37f73efaf70d801993140663372f14551fa6464",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-door-in-the-ivy/art/characters/clarimond.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Minimally edit this Clarimond / The Door in the Ivy reference sheet. Preserve adult face, age26, crown, dark loose hair, all armor/leather, bare arms, sword, boots, poses, heads, headings, ivory and afternoon light exactly. Repair ONLY the long red SKIRT in the three full bodies: its current many jagged strips look excessively shredded. Render predominantly intact broad heavy DARK RED fabric folds with light road dust near hem, continuous ordinary hem, and ONE small visible travel tear at her anatomical LEFT KNEE. In front view the LEFT knee is on canvasRIGHT of her own figure; make a small frayed horizontal slit there exposing a darker cloth underlayer. In RIGHT profile facingcanvasRIGHT, LEFT knee is on hidden far side so no new near-side tear. In rear view front-facing knee tear not visible. Keep warm light/cool shadow and heavy matte Canadian Group of Seven oils. The separate 'Crown removed' detail may retain her own two hands supporting crown, a plausible transition from the recorded wrist state. No environment or extra person; preserve every unmentioned element.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d9e76932-d904-42ee-86c7-4515659585da.png",
+            "sha256": "610fed55f72e6bbed6d8b741941d8a50fc65e791d09e0810e37425c3877eb9ec",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted skirt repair only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:40:40.981997+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape character reference sheet on clean light warm IVORY. Exact large serif character name and subtitle 'The Door in the Ivy'. ONE named identity only. Three full-body studies labelled Front, Right side, Back; profile faces canvas RIGHT, showing anatomical RIGHT side. Two expressive head studies plus one or two small personal details. All figures comfortably separated and fully visible. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair and cloth; matte eyes, no polished digital faces, no fine anime linework/CGI/photorealism. First reference supplies motivated warm filtered AFTERNOON highlights and substantial cool leaf-shade masses. Second supplies paint handling and ivory folio only. No environment, wall, plant backdrop, setting, floor, ground patches, swatches, extra people or incidental hands. Same identity/proportions/costume across all views; fixed marks maintain anatomical side. Background remains entirely ivory.\nHeading 'Clarimond'.\nClarimond, a TALL ADULT woman exactly26. Preserve reference queen's long lean pale-warm adult face, straight nose, dark brown eyes and loose dark hair with loosened pins. Elaborate delicate pointed dark-silver crown. Dark silver engraved plate pauldrons/upper-arm pieces, fitted brown leather-strapped armored torso, BARE forearms, layered DARK RED long skirt with dust; small tear at anatomical LEFT knee only (front viewer RIGHT, hidden on far side in right profile), plain dark brown pinching boots. No crown on the wrist of the three main figures; crown WORN on every main head. Sword bronze crossguard/round pommel, held neutrally angled downward, never touching any floor. Front/RIGHT profile facingRIGHT/back coherent. Head studies 'Exhausted' and 'Recognition' with believable restrained wet-eyed joy. Small personal detail own RIGHT wrist supporting the REMOVED same crown, clearly labelled 'Crown removed'; fingers relaxed, no second person. Warm filtered afternoon light and cool shadow faces in heavy matte oils. Do not include original wall, foliage or standing scene.",
+            "references": [
+              {
+                "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+                "role": "Actual inspected afternoon lighting/value reference",
+                "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+                "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+                "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-clipboard-e6a5e3bf-c3e2-46d3-859e-2886568885cc.png",
+                "role": "Recovered exact original attached to actual story request, inspected",
+                "notes": "Recovered raw 2604517-byte PNG from archived_sessions/rollout-2026-09-07T18-28-06-01a07dfc-5f75-7da1-badb-b1c71ca4d4b1.jsonl line21 user input_image; preceding line9 exact original WP. SHA256 820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839. Dark-haired pale adult queen, ornate crown, steel/leather armor over red skirt, bare arms, sword; no original pixels copied into repository.",
+                "sha256": "820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-door-in-the-ivy/title-image.jpg",
+                "role": "Inspected subordinate queen identity and costume continuity",
+                "notes": "Queen remains adult26. Original/cover geometry translated to accepted matte oil handling; no wall, ivy or scene.",
+                "sha256": "a658b8aea209e318d0abb518e37f73efaf70d801993140663372f14551fa6464",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d9e76932-d904-42ee-86c7-4515659585da.png",
+            "outputSha256": "610fed55f72e6bbed6d8b741941d8a50fc65e791d09e0810e37425c3877eb9ec",
+            "review": "Actual A1 identity/crown/armor/afternoon/oil/one-person anatomy pass. Skirt reads excessively shredded rather than dusty folds with a knee tear; clarify intact cloth plus one LEFT knee slit. Crown removed held in both own hands is a feasible transition study, not a contradictory extra crown."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:50:50.864547+00:00",
+            "prompt": "Minimally edit this Clarimond / The Door in the Ivy reference sheet. Preserve adult face, age26, crown, dark loose hair, all armor/leather, bare arms, sword, boots, poses, heads, headings, ivory and afternoon light exactly. Repair ONLY the long red SKIRT in the three full bodies: its current many jagged strips look excessively shredded. Render predominantly intact broad heavy DARK RED fabric folds with light road dust near hem, continuous ordinary hem, and ONE small visible travel tear at her anatomical LEFT KNEE. In front view the LEFT knee is on canvasRIGHT of her own figure; make a small frayed horizontal slit there exposing a darker cloth underlayer. In RIGHT profile facingcanvasRIGHT, LEFT knee is on hidden far side so no new near-side tear. In rear view front-facing knee tear not visible. Keep warm light/cool shadow and heavy matte Canadian Group of Seven oils. The separate 'Crown removed' detail may retain her own two hands supporting crown, a plausible transition from the recorded wrist state. No environment or extra person; preserve every unmentioned element.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d9e76932-d904-42ee-86c7-4515659585da.png",
+                "sha256": "610fed55f72e6bbed6d8b741941d8a50fc65e791d09e0810e37425c3877eb9ec",
+                "inspected": true,
+                "role": "Immutable actual inspected A1; targeted skirt repair only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-e84a6388-c856-463a-9dba-34f915735ae5.png",
+            "savedPath": "stories/the-door-in-the-ivy/art/characters/clarimond.png",
+            "outputSha256": "a4bf4e62546018e65344c5c2b1c9458b8c4b30fcfdf158354f782caf92b70ecb",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:04:19.986389+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:04:19.986389+00:00",
+        "sourceSha256": "3e283c54626ba39464b3d82b31d61b5aa32b1285bc05756a1d1156fb8c4f9b63",
+        "outputSha256": "a4bf4e62546018e65344c5c2b1c9458b8c4b30fcfdf158354f782caf92b70ecb",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d9e76932-d904-42ee-86c7-4515659585da.png",
+            "sha256": "610fed55f72e6bbed6d8b741941d8a50fc65e791d09e0810e37425c3877eb9ec",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted skirt repair only"
+          }
+        ],
+        "evidence": [
+          "A2 actual pixels restore continuous dusty dark red folds and a distinct single anatomical LEFT-knee tear in front, correctly absent from visible right side and rear; armor/sword/crown identity follows original and source.",
+          "Same adult26 face/dark loosened hair/crown in three views, removed crown held in own hands as feasible transition; readable exact text and matte heavy oils with afternoon warm/cool light on clean ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a6f22cf497fdfb0124cd3595f2a7e3ee77a0a8887f3088eabdade79654ed242a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "a4bf4e62546018e65344c5c2b1c9458b8c4b30fcfdf158354f782caf92b70ecb"
+    },
+    {
+      "id": "belda",
+      "name": "Belda",
+      "role": "Former nursery carer and central reunion counterpart",
+      "naming": {
+        "sourceName": "Belda",
+        "sourceRole": "former nursery carer",
+        "provenance": "Exact finished-prose name; no invented surname"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "That afternoon she had been thirty-four.",
+          "explanation": "17 years elapsed makes present age51."
+        },
+        {
+          "quote": "She wore a blue dress and a brown shawl",
+          "explanation": "Explicit clothes."
+        },
+        {
+          "quote": "She favored her left leg",
+          "explanation": "Explicit side of badly healed injury."
+        },
+        {
+          "quote": "It was yellow, edged in an ambitious, uneven lace.",
+          "explanation": "Personal handkerchief made by stepdaughter."
+        }
+      ],
+      "form": "Ordinary human adult woman",
+      "storyAppearance": {
+        "anatomy": "Age51 by34+17. Gray hair above ears, heavier cheeks/smaller mouth than remembered, trembling hand, badly healed LEFT leg, one foot angled. Blue wool dress with little cuff burrs, brown shawl, yellow uneven-lace handkerchief.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation: medium height, full mature cheeks, small warm mouth, fair ruddy skin, brown eyes, dark ash-brown low coiled hair graying strongly above both ears. Plain ankle-length blue wool dress, warm-brown shawl, dark brown flat shoes. Weight supported on RIGHT leg, LEFT foot mildly angled/resting, no cane or amputated limb.",
+        "markings": "Age51 by34+17. Gray hair above ears, heavier cheeks/smaller mouth than remembered, trembling hand, badly healed LEFT leg, one foot angled. Blue wool dress with little cuff burrs, brown shawl, yellow uneven-lace handkerchief.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation: medium height, full mature cheeks, small warm mouth, fair ruddy skin, brown eyes, dark ash-brown low coiled hair graying strongly above both ears. Plain ankle-length blue wool dress, warm-brown shawl, dark brown flat shoes. Weight supported on RIGHT leg, LEFT foot mildly angled/resting, no cane or amputated limb.",
+        "equipment": "Front/right/back current age51 only; tearful reunion and firm refusal head expressions; own hands holding yellow uneven-lace handkerchief and wool cuff detail. No family member or remembered younger body.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation: medium height, full mature cheeks, small warm mouth, fair ruddy skin, brown eyes, dark ash-brown low coiled hair graying strongly above both ears. Plain ankle-length blue wool dress, warm-brown shawl, dark brown flat shoes. Weight supported on RIGHT leg, LEFT foot mildly angled/resting, no cane or amputated limb."
+      },
+      "explicitCanon": [
+        "Age51 by34+17. Gray hair above ears, heavier cheeks/smaller mouth than remembered, trembling hand, badly healed LEFT leg, one foot angled. Blue wool dress with little cuff burrs, brown shawl, yellow uneven-lace handkerchief."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: medium height, full mature cheeks, small warm mouth, fair ruddy skin, brown eyes, dark ash-brown low coiled hair graying strongly above both ears. Plain ankle-length blue wool dress, warm-brown shawl, dark brown flat shoes. Weight supported on RIGHT leg, LEFT foot mildly angled/resting, no cane or amputated limb.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Front/right/back current age51 only; tearful reunion and firm refusal head expressions; own hands holding yellow uneven-lace handkerchief and wool cuff detail. No family member or remembered younger body."
+        }
+      ],
+      "lighting": {
+        "moment": "Afternoon reunion",
+        "motivation": "Warm filtered sun and cool leaf shade shared with queen; no environment"
+      },
+      "recurrence": {
+        "identityKey": "belda-the-door-in-the-ivy",
+        "links": [],
+        "evidence": "No matching shared-universe identity found."
+      },
+      "references": [
+        {
+          "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+          "role": "Actual inspected afternoon lighting/value reference",
+          "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+          "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+          "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\AppData\\Local\\Temp\\codex-clipboard-e6a5e3bf-c3e2-46d3-859e-2886568885cc.png",
+          "role": "Recovered exact original attached to actual story request, inspected",
+          "notes": "Recovered raw 2604517-byte PNG from archived_sessions/rollout-2026-09-07T18-28-06-01a07dfc-5f75-7da1-badb-b1c71ca4d4b1.jsonl line21 user input_image; preceding line9 exact original WP. SHA256 820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839. Dark-haired pale adult queen, ornate crown, steel/leather armor over red skirt, bare arms, sword; no original pixels copied into repository.",
+          "sha256": "820796a496c1d0f7830ca555533fe73d538dfa70f424595b9682c92207b16839",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-door-in-the-ivy/title-image.jpg",
+          "role": "Inspected subordinate queen identity and costume continuity",
+          "notes": "Queen remains adult26. Original/cover geometry translated to accepted matte oil handling; no wall, ivy or scene.",
+          "sha256": "a658b8aea209e318d0abb518e37f73efaf70d801993140663372f14551fa6464",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-door-in-the-ivy/art/characters/belda.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape character reference sheet on clean light warm IVORY. Exact large serif character name and subtitle 'The Door in the Ivy'. ONE named identity only. Three full-body studies labelled Front, Right side, Back; profile faces canvas RIGHT, showing anatomical RIGHT side. Two expressive head studies plus one or two small personal details. All figures comfortably separated and fully visible. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair and cloth; matte eyes, no polished digital faces, no fine anime linework/CGI/photorealism. First reference supplies motivated warm filtered AFTERNOON highlights and substantial cool leaf-shade masses. Second supplies paint handling and ivory folio only. No environment, wall, plant backdrop, setting, floor, ground patches, swatches, extra people or incidental hands. Same identity/proportions/costume across all views; fixed marks maintain anatomical side. Background remains entirely ivory.\nHeading 'Belda'.\nBelda, ordinary human woman51 (not elderly80), medium height fuller mature cheeks, small soft mouth, fair ruddy skin, brown eyes. Dark ash-brown hair in practical low coil with substantial GRAY ABOVE THE EARS. Plain BLUE WOOL ankle-length dress, BROWN shawl, dark brown flat shoes. Little wool burrs visible at cuffs. Source badly healed anatomical LEFT leg: weight carried mainly RIGHT, LEFT foot rests mildly angled; retain LEFT across views (front viewerRIGHT; back viewerLEFT). No cane, brace, missing leg or exaggeration. Warm modest self-possession. Three full-body Front / Right side facing canvasRIGHT / Back. Two expressive heads 'Tearful reunion' and 'Firm refusal'. One enlarged own hands gently holding YELLOW handkerchief with ambitious uneven handmade lace and tiny cuff detail. Her hands tremble softly; no extra person's hand. Keep all views same age51, face, hair, shawl and dress. Warm filtered afternoon with cool shaded planes, opaque bristled oil throughout.",
+        "references": [
+          {
+            "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+            "role": "Actual inspected afternoon lighting/value reference",
+            "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+            "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+            "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:40:40.981997+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape character reference sheet on clean light warm IVORY. Exact large serif character name and subtitle 'The Door in the Ivy'. ONE named identity only. Three full-body studies labelled Front, Right side, Back; profile faces canvas RIGHT, showing anatomical RIGHT side. Two expressive head studies plus one or two small personal details. All figures comfortably separated and fully visible. Canadian Group of Seven HEAVY OILS with broad connected opaque colour/value masses, directional bristle strokes and selective impasto equally on faces, hair and cloth; matte eyes, no polished digital faces, no fine anime linework/CGI/photorealism. First reference supplies motivated warm filtered AFTERNOON highlights and substantial cool leaf-shade masses. Second supplies paint handling and ivory folio only. No environment, wall, plant backdrop, setting, floor, ground patches, swatches, extra people or incidental hands. Same identity/proportions/costume across all views; fixed marks maintain anatomical side. Background remains entirely ivory.\nHeading 'Belda'.\nBelda, ordinary human woman51 (not elderly80), medium height fuller mature cheeks, small soft mouth, fair ruddy skin, brown eyes. Dark ash-brown hair in practical low coil with substantial GRAY ABOVE THE EARS. Plain BLUE WOOL ankle-length dress, BROWN shawl, dark brown flat shoes. Little wool burrs visible at cuffs. Source badly healed anatomical LEFT leg: weight carried mainly RIGHT, LEFT foot rests mildly angled; retain LEFT across views (front viewerRIGHT; back viewerLEFT). No cane, brace, missing leg or exaggeration. Warm modest self-possession. Three full-body Front / Right side facing canvasRIGHT / Back. Two expressive heads 'Tearful reunion' and 'Firm refusal'. One enlarged own hands gently holding YELLOW handkerchief with ambitious uneven handmade lace and tiny cuff detail. Her hands tremble softly; no extra person's hand. Keep all views same age51, face, hair, shawl and dress. Warm filtered afternoon with cool shaded planes, opaque bristled oil throughout.",
+            "references": [
+              {
+                "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+                "role": "Actual inspected afternoon lighting/value reference",
+                "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+                "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+                "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-11191fb9-a981-4c8c-81c5-a504781e3f21.png",
+            "savedPath": "stories/the-door-in-the-ivy/art/characters/belda.png",
+            "outputSha256": "581c5aa59d1d3a2cb682c747e1923b0478f50d2594ac8fb949fa5ff2b76574d9",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:50:51.914541+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T08:50:51.914541+00:00",
+        "sourceSha256": "3e283c54626ba39464b3d82b31d61b5aa32b1285bc05756a1d1156fb8c4f9b63",
+        "outputSha256": "581c5aa59d1d3a2cb682c747e1923b0478f50d2594ac8fb949fa5ff2b76574d9",
+        "references": [
+          {
+            "path": "stories/the-door-in-the-ivy/art/landscapes/03-the-hidden-service-door.png",
+            "role": "Actual inspected afternoon lighting/value reference",
+            "notes": "Warm filtered afternoon sun and cool ivy shade only, no environment on sheets.",
+            "sha256": "8ea602d3030e5c1e868a42c120e32d0e2cc3643289cbd9f4bbd9d91930b1eac3",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Accepted actual ivory folio/heavy oil rendering anchor",
+            "notes": "Paint handling only; no age, identity, costume or borrowed light.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: one mature51 identity with graying temple hair and consistent bun/full cheeks, blue wool dress/brown shawl and yellow uneven lace cloth, restrained left-leg guarded stance across views.",
+          "Exact name/title and labels legible; two distinct reunion/refusal expressions, anatomically coherent own-hands cloth study, warm filtered afternoon/cool shade, opaque connected heavy oil strokes on clean ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "768fcc21721c0d5ddbc5f4aaaaee2803005935bc23b9d2e01254c8951067ec05"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "581c5aa59d1d3a2cb682c747e1923b0478f50d2594ac8fb949fa5ff2b76574d9"
+    }
+  ]
+}

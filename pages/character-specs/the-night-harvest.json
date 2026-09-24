@@ -1,0 +1,1046 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-night-harvest",
+  "title": "The Night Harvest",
+  "source": "stories/the-night-harvest/story.md",
+  "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read. Brelva/Perren are focal siblings; supervisor and repeated square-faced fighter drive conflict/choices. Two other recurring fighters have substantial distinct defensive roles (protecting doors, gate defense, saving threatened workers) and are included.",
+  "excludedMinorCharacters": [
+    "Individual yard guards, roofers, crews, carter and families are incidental supporting figures without sustained distinct characterization.",
+    "Monsters are a recurring ecological pressure; no one creature is a stable recurring identity or collective person. Dead nodes/stockpile are explicitly inert signal storage, not an autonomous character."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy",
+    "LOCKED universe/characters.md Brelva and Perren",
+    "LOCKED universe/factions.md Unnamed night-harvest corpse industry / Unnamed night fighters",
+    "LOCKED universe/rules.md Night-creature throat-node direction effect",
+    "Names Velnara/Gordren/Kasvik/Ombrin are user-authorized art labels only; no source or universe edit; source unresolved names/species/origins preserved."
+  ],
+  "characters": [
+    {
+      "id": "brelva",
+      "name": "Brelva",
+      "role": "Carcass grader and hauling-cart co-owner",
+      "naming": {
+        "sourceName": "Brelva",
+        "sourceRole": "Carcass grader and hauling-cart co-owner",
+        "provenance": "Exact source and LOCKED universe name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "She knew the value because she had just chalked it on the carcass board.",
+          "explanation": "Focal grader assembles six routes/nineteen attacks, learns shared agency with brother and coordinates destruction."
+        }
+      ],
+      "form": "Human-appearing working adult; exact age unresolved",
+      "storyAppearance": {
+        "anatomy": "Woman; Perren is her brother. Grades by material quality, weight, vibration and price. Ledger, chalk and hammer personally used. Exact age/face/clothing unresolved.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only adult woman early40s appearance, sturdy compact build, medium brown skin, round cheeks, straight broad nose, dark brown eyes and long black braid looped into low bun. Rust-ochre work blouse, olive quilted sleeveless vest, dark charcoal trousers, brown worn ankle boots. Chalk dust on bare hands.",
+        "equipment": "Front / right-facing Side / Back full-body views, heads Assessing and Resolve. Isolated personal ledger with blue/white route marks (not readable map labels), chalk and small hammer. No corpse, node, wheel or yard.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Woman; Perren is her brother. Grades by material quality, weight, vibration and price. Ledger, chalk and hammer personally used. Exact age/face/clothing unresolved."
+      ],
+      "visualInterpretation": [
+        "Art-only adult woman early40s appearance, sturdy compact build, medium brown skin, round cheeks, straight broad nose, dark brown eyes and long black braid looped into low bun. Rust-ochre work blouse, olive quilted sleeveless vest, dark charcoal trousers, brown worn ankle boots. Chalk dust on bare hands.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Front / right-facing Side / Back full-body views, heads Assessing and Resolve. Isolated personal ledger with blue/white route marks (not readable map labels), chalk and small hammer. No corpse, node, wheel or yard."
+        }
+      ],
+      "lighting": {
+        "moment": "Sixth-night yard work",
+        "motivation": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:brelva",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+          "role": "Source night-lantern lighting and thick oil handling",
+          "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+          "inspected": true,
+          "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/brelva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Brelva'.\nSOURCE FACTS: Woman; Perren is her brother. Grades by material quality, weight, vibration and price. Ledger, chalk and hammer personally used. Exact age/face/clothing unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only adult woman early40s appearance, sturdy compact build, medium brown skin, round cheeks, straight broad nose, dark brown eyes and long black braid looped into low bun. Rust-ochre work blouse, olive quilted sleeveless vest, dark charcoal trousers, brown worn ankle boots. Chalk dust on bare hands.\nUSEFUL STUDIES: Front / right-facing Side / Back full-body views, heads Assessing and Resolve. Isolated personal ledger with blue/white route marks (not readable map labels), chalk and small hammer. No corpse, node, wheel or yard.\nNight yard lanterns: small warm amber-lit planes against deep cool blue-gray shadows as first image. HALF EACH FACE remains dark.",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+            "role": "Source night-lantern lighting and thick oil handling",
+            "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+            "inspected": true,
+            "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:13:05.939286+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Brelva'.\nSOURCE FACTS: Woman; Perren is her brother. Grades by material quality, weight, vibration and price. Ledger, chalk and hammer personally used. Exact age/face/clothing unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only adult woman early40s appearance, sturdy compact build, medium brown skin, round cheeks, straight broad nose, dark brown eyes and long black braid looped into low bun. Rust-ochre work blouse, olive quilted sleeveless vest, dark charcoal trousers, brown worn ankle boots. Chalk dust on bare hands.\nUSEFUL STUDIES: Front / right-facing Side / Back full-body views, heads Assessing and Resolve. Isolated personal ledger with blue/white route marks (not readable map labels), chalk and small hammer. No corpse, node, wheel or yard.\nNight yard lanterns: small warm amber-lit planes against deep cool blue-gray shadows as first image. HALF EACH FACE remains dark.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+                "role": "Source night-lantern lighting and thick oil handling",
+                "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+                "inspected": true,
+                "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-2b9e74af-7e4d-4a89-b8bf-f93d3cfd3deb.png",
+            "savedPath": "stories/the-night-harvest/art/characters/brelva.png",
+            "outputSha256": "df2ab6f0678278422c46369c22141f24eadb300f7308049c8a094f1f86971450",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:16:56.087813+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:16:56.087813+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "df2ab6f0678278422c46369c22141f24eadb300f7308049c8a094f1f86971450",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+            "role": "Source night-lantern lighting and thick oil handling",
+            "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+            "inspected": true,
+            "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "evidence": [
+          "Actual A1 consistent adult grader across three views/two heads, low dark braided hair, rust/olive work clothing, chalk-dusted hands, personal route ledger/chalk/hammer; hammer stays anatomical left hip.",
+          "Heavy directional oil masses including face, dark cool night planes and limited lantern warmth, exact name/title, uncropped character-only ivory and no environment/swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1146abaa13d50ecab9e5e0b360dd274a3a05c5b6c4f03108404106a7ae16d359"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "df2ab6f0678278422c46369c22141f24eadb300f7308049c8a094f1f86971450"
+    },
+    {
+      "id": "perren",
+      "name": "Perren",
+      "role": "Brelva’s brother and hauling partner",
+      "naming": {
+        "sourceName": "Perren",
+        "sourceRole": "Brelva’s brother and hauling partner",
+        "provenance": "Exact source and LOCKED universe name."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "He pushed the final membrane into the flame with his bare thumb.",
+          "explanation": "Central partner burns thumb, makes independent choice and rescues guard/fighter."
+        }
+      ],
+      "form": "Human-appearing working adult; exact age unresolved",
+      "storyAppearance": {
+        "anatomy": "Man; brother of Brelva, maintains cart, uses jack and chain, thumb burned and later wrapped. Exact age and anatomical burn side unresolved.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only adult late30s appearance, lean wiry build, medium brown skin with family resemblance to Brelva but longer face, straight broad nose, short brown-black curls and sparse short beard. Brown wool shirt, navy canvas sleeveless jerkin, tan work trousers, dark boots. LEFT thumb chosen for burn-side visual continuity, wrapped clean offwhite cloth, not a canon laterality claim.",
+        "equipment": "Front/right-facing Side/Back. Left thumb wrap on left flesh hand: front canvasRIGHT, back canvasLEFT; enlarged LEFT palm fingersUP thumb canvasLEFT with thumb wrapped. Heads Practical and Concerned. Separate small cart-jack HANDLE and short chain segment only, no cart/ground.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Man; brother of Brelva, maintains cart, uses jack and chain, thumb burned and later wrapped. Exact age and anatomical burn side unresolved."
+      ],
+      "visualInterpretation": [
+        "Art-only adult late30s appearance, lean wiry build, medium brown skin with family resemblance to Brelva but longer face, straight broad nose, short brown-black curls and sparse short beard. Brown wool shirt, navy canvas sleeveless jerkin, tan work trousers, dark boots. LEFT thumb chosen for burn-side visual continuity, wrapped clean offwhite cloth, not a canon laterality claim.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Front/right-facing Side/Back. Left thumb wrap on left flesh hand: front canvasRIGHT, back canvasLEFT; enlarged LEFT palm fingersUP thumb canvasLEFT with thumb wrapped. Heads Practical and Concerned. Separate small cart-jack HANDLE and short chain segment only, no cart/ground."
+        }
+      ],
+      "lighting": {
+        "moment": "Sixth-night yard work",
+        "motivation": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:perren",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+          "role": "Source night-lantern lighting and thick oil handling",
+          "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+          "inspected": true,
+          "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/perren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case precise-object-edit. Edit ONLY the BACK-VIEW figure (third full body) in this Perren / The Night Harvest sheet. Put BOTH of that back-view figure's hands fully INSIDE its trouser pockets, wrists at pocket openings, so neither hand or thumb is visible. REMOVE the white wrap presently visible on that back-view figure's canvasRIGHT wrist: that is wrong. Hiding both hands neatly fixes this without suggesting another side. Keep front full body with its bandage canvasRIGHT, middle right-facing profile with bare near hand, single correct LEFT PALM detail (thumb canvasLEFT), faces, names, clothes, lantern, jack and chain, ivory background and all paint/light EXACTLY. No other changes or extra studies. Same1536x1024 ivory character-only sheet.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-999af6ae-bba0-432e-847a-a7fe717b9338.png",
+            "role": "Inspected immutable prior candidate edit target",
+            "sha256": "2de835933c1c06a5b873c5e2d5f216bb28ef50255c27256d072eb310677e3bee",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:13:05.939325+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Perren'.\nSOURCE FACTS: Man; brother of Brelva, maintains cart, uses jack and chain, thumb burned and later wrapped. Exact age and anatomical burn side unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only adult late30s appearance, lean wiry build, medium brown skin with family resemblance to Brelva but longer face, straight broad nose, short brown-black curls and sparse short beard. Brown wool shirt, navy canvas sleeveless jerkin, tan work trousers, dark boots. LEFT thumb chosen for burn-side visual continuity, wrapped clean offwhite cloth, not a canon laterality claim.\nUSEFUL STUDIES: Front/right-facing Side/Back. Left thumb wrap on left flesh hand: front canvasRIGHT, back canvasLEFT; enlarged LEFT palm fingersUP thumb canvasLEFT with thumb wrapped. Heads Practical and Concerned. Separate small cart-jack HANDLE and short chain segment only, no cart/ground.\nNight yard lanterns: small warm amber-lit planes against deep cool blue-gray shadows as first image. HALF EACH FACE remains dark.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+                "role": "Source night-lantern lighting and thick oil handling",
+                "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+                "inspected": true,
+                "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-463f277f-e11a-43f2-8b3f-45c6a96321be.png",
+            "review": "Wrap correctly on left in frontal body but incorrectly on near right arm in right-facing profile; absent rear left; invented right dorsal study confuses chosen left-thumb state. Correct before selection."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:16:57.121355+00:00",
+            "prompt": "Use case precise-object-edit. Correct ONLY bandage-side consistency in the supplied Perren character folio. Keep exact face, hair, beard, clothes, three body view poses, lamp, personal jack/chain, lighting, thick matte oil, ivory background, exact Perren / The Night Harvest text and 1536x1024 landscape. Chosen wound side is anatomical LEFT thumb. FRONT body at far left already has wrap on canvasRIGHT hand: KEEP. MIDDLE right-facing profile shows camera-near RIGHT arm: REMOVE ALL bandage from that near hand/wrist and show ordinary bare brown hand; far LEFT hand may be hidden. BACK body: put white thumb/wrist bandage on its canvasLEFT hand (anatomical LEFT), keep canvasRIGHT bare. On right half, keep the LEFT PALM study with fingersUP and thumb projecting canvasLEFT wrapped: this is correct. DELETE the second dorsal-hand study completely, replace just that area with clean matching ivory. Do not add another hand. Labels if any must not claim mirrored anatomy. Only one burned thumb, LEFT, consistent in body views and surviving palm study. No other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-463f277f-e11a-43f2-8b3f-45c6a96321be.png",
+                "role": "Inspected immutable A1 edit target; fix chosen left-thumb state",
+                "sha256": "af4c2d30dab4439d4659a86d609aa58e8afc348e9026c968f83dd6286e649ecc",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-999af6ae-bba0-432e-847a-a7fe717b9338.png",
+            "review": "A2 removed wrong dorsal study and profile wrap but moved rear wrap to anatomical right. Compose rear view with both hands in pockets to conceal wrap consistently."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:21:12.469590+00:00",
+            "prompt": "Use case precise-object-edit. Edit ONLY the BACK-VIEW figure (third full body) in this Perren / The Night Harvest sheet. Put BOTH of that back-view figure's hands fully INSIDE its trouser pockets, wrists at pocket openings, so neither hand or thumb is visible. REMOVE the white wrap presently visible on that back-view figure's canvasRIGHT wrist: that is wrong. Hiding both hands neatly fixes this without suggesting another side. Keep front full body with its bandage canvasRIGHT, middle right-facing profile with bare near hand, single correct LEFT PALM detail (thumb canvasLEFT), faces, names, clothes, lantern, jack and chain, ivory background and all paint/light EXACTLY. No other changes or extra studies. Same1536x1024 ivory character-only sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-999af6ae-bba0-432e-847a-a7fe717b9338.png",
+                "role": "Inspected immutable prior candidate edit target",
+                "sha256": "2de835933c1c06a5b873c5e2d5f216bb28ef50255c27256d072eb310677e3bee",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-84ce3d15-0b76-48f7-92af-50f528aa39cf.png",
+            "savedPath": "stories/the-night-harvest/art/characters/perren.png",
+            "outputSha256": "575d2ad6f406676b28b13b6044ee6bd2de4ea57c4c2a0afbb898e0f6f10841f6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:27:45.929976+00:00"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:27:45.929976+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "575d2ad6f406676b28b13b6044ee6bd2de4ea57c4c2a0afbb898e0f6f10841f6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-999af6ae-bba0-432e-847a-a7fe717b9338.png",
+            "role": "Inspected immutable prior candidate edit target",
+            "sha256": "2de835933c1c06a5b873c5e2d5f216bb28ef50255c27256d072eb310677e3bee",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A3 retains consistent sibling/hauler identity, dark curly hair/beard, navy/brown work clothes, burned thumb wrapped in front; rear pose conceals hands in pockets. Existing clear thumb state retained; no further speculative anatomy correction.",
+          "Source lantern warmth and deep blue night masses, sculpted matte facial/body oils, personal jack/chain, exact name/title and ivory no-setting layout."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "6f64d2ec25333d914a1c05f0eb4944f7604341b5a4d654f0eca7a3a559b42094"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "575d2ad6f406676b28b13b6044ee6bd2de4ea57c4c2a0afbb898e0f6f10841f6"
+    },
+    {
+      "id": "velnara",
+      "name": "Velnara",
+      "role": "Repeated square-faced blade-and-wedge fighter",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Repeated square-faced blade-and-wedge fighter",
+        "provenance": "Art-only distinct name assigned under explicit user direction; no matching name found in stories/universe/specs. Does not resolve in-world unknown identity."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "She was lean beneath a patched coat of plates, her black hair hacked short.",
+          "explanation": "Main stranger repeatedly interrupts harvest, rescues siblings, demonstrates communication and destroys nodes."
+        }
+      ],
+      "form": "Humanoid-appearing fighter; species unresolved",
+      "storyAppearance": {
+        "anatomy": "Woman, square face, lean, hacked-short black hair, patched coat of plates, grey monster ash in seams, three healed cuts across cheek, bracer, long blade and iron wedge. Species/names/origin/age unresolved by LOCKED authority.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only adult appearance, pale olive skin, matte grey eyes; three thin healed cuts on RIGHT cheek selected for stable art laterality. Dark iron overlapping plate coat with visible repairs over charcoal tunic, rust-brown trousers and black boots, brown leather bracers both arms. No pointed ears/horns or invented species markers.",
+        "equipment": "Front/right-facing Side/Back plus square-face study with three RIGHT cheek cuts (front viewerLEFT). Same three cuts do not migrate. One open LEFT palm stop gesture (fingersUP thumb canvasLEFT) and one two-finger approach gesture; isolated long blade and iron wedge personal tool. No monsters/gore/battle scenery.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Woman, square face, lean, hacked-short black hair, patched coat of plates, grey monster ash in seams, three healed cuts across cheek, bracer, long blade and iron wedge. Species/names/origin/age unresolved by LOCKED authority."
+      ],
+      "visualInterpretation": [
+        "Art-only adult appearance, pale olive skin, matte grey eyes; three thin healed cuts on RIGHT cheek selected for stable art laterality. Dark iron overlapping plate coat with visible repairs over charcoal tunic, rust-brown trousers and black boots, brown leather bracers both arms. No pointed ears/horns or invented species markers.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Front/right-facing Side/Back plus square-face study with three RIGHT cheek cuts (front viewerLEFT). Same three cuts do not migrate. One open LEFT palm stop gesture (fingersUP thumb canvasLEFT) and one two-finger approach gesture; isolated long blade and iron wedge personal tool. No monsters/gore/battle scenery."
+        }
+      ],
+      "lighting": {
+        "moment": "Night defense",
+        "motivation": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:velnara",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+          "role": "Source cold moon/rain night lighting and directional thick oil masses",
+          "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+          "inspected": true,
+          "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/velnara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case identity-preserve. Edit supplied Velnara / The Night Harvest folio while preserving exact text, ivory3:2 layout, three body views, weapon at same anatomical left hip, iron wedge, three healed cuts on RIGHT cheek, stop/approach hand studies, patched dark plate coat and rust trousers. Specific corrections throughout every depiction: a distinctly SQUARE face with broad flat jaw and wide chin, compact straight nose, short hacked-black PIXIE crop cropped at ears/nape, no shoulder-length bob or flowing forelocks. Lean adult woman pale olive with grey eyes. Remove the long shredded cape from back and sides; keep the actual patched coat of plates, no heroic extra cape. Render source NIGHT: lower all face/clothing values, large genuinely DARK cobalt/slate shadows with selective cool pale moon planes and tiny amber lamp accents only. Do not brighten ivory ground. Heavy opaque broad knife/bristle masses on face as on armor; no smooth/digital face. Same identity acrossviews, same three right-cheek scars visible frontviewerLEFT and right-side near cheek. Preserve anatomy and uncropped silhouettes, no other people/environment/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-ba43277f-6556-4678-ae98-24cea48d4b0f.png",
+            "role": "Inspected immutable prior candidate edit target",
+            "sha256": "c6d927ec63ef25cdbaacdfcd913d88d787ccf818524fc2dd79316c52af8f19b0",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Inspected source night values",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T11:16:57.121383+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Velnara'.\nSOURCE FACTS: Woman, square face, lean, hacked-short black hair, patched coat of plates, grey monster ash in seams, three healed cuts across cheek, bracer, long blade and iron wedge. Species/names/origin/age unresolved by LOCKED authority.\nAPPEARANCE ART INTERPRETATION: Art-only adult appearance, pale olive skin, matte grey eyes; three thin healed cuts on RIGHT cheek selected for stable art laterality. Dark iron overlapping plate coat with visible repairs over charcoal tunic, rust-brown trousers and black boots, brown leather bracers both arms. No pointed ears/horns or invented species markers.\nUSEFUL STUDIES: Front/right-facing Side/Back plus square-face study with three RIGHT cheek cuts (front viewerLEFT). Same three cuts do not migrate. One open LEFT palm stop gesture (fingersUP thumb canvasLEFT) and one two-finger approach gesture; isolated long blade and iron wedge personal tool. No monsters/gore/battle scenery.\nCold blue moonlight with deep slate/cobalt shadows and very small amber lantern accent as first image.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+                "role": "Source cold moon/rain night lighting and directional thick oil masses",
+                "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+                "inspected": true,
+                "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-ba43277f-6556-4678-ae98-24cea48d4b0f.png",
+            "review": "A1 square-faced fighter is overly similar to approved style subject with long bob/heroic cape and diffuse daylight. Revise source hacked-short hair, squarer face and night values; no borrowed cape."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:21:13.405862+00:00",
+            "prompt": "Use case identity-preserve. Edit supplied Velnara / The Night Harvest folio while preserving exact text, ivory3:2 layout, three body views, weapon at same anatomical left hip, iron wedge, three healed cuts on RIGHT cheek, stop/approach hand studies, patched dark plate coat and rust trousers. Specific corrections throughout every depiction: a distinctly SQUARE face with broad flat jaw and wide chin, compact straight nose, short hacked-black PIXIE crop cropped at ears/nape, no shoulder-length bob or flowing forelocks. Lean adult woman pale olive with grey eyes. Remove the long shredded cape from back and sides; keep the actual patched coat of plates, no heroic extra cape. Render source NIGHT: lower all face/clothing values, large genuinely DARK cobalt/slate shadows with selective cool pale moon planes and tiny amber lamp accents only. Do not brighten ivory ground. Heavy opaque broad knife/bristle masses on face as on armor; no smooth/digital face. Same identity acrossviews, same three right-cheek scars visible frontviewerLEFT and right-side near cheek. Preserve anatomy and uncropped silhouettes, no other people/environment/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-ba43277f-6556-4678-ae98-24cea48d4b0f.png",
+                "role": "Inspected immutable prior candidate edit target",
+                "sha256": "c6d927ec63ef25cdbaacdfcd913d88d787ccf818524fc2dd79316c52af8f19b0",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+                "role": "Inspected source night values",
+                "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-59b6c958-189d-4343-98c0-a9c370255d11.png",
+            "savedPath": "stories/the-night-harvest/art/characters/velnara.png",
+            "outputSha256": "42b9a112c70fe8a59d0019c3a6de596828cd94d668ebf762e0190235e81e08e4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:27:45.940382+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:27:45.940382+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "42b9a112c70fe8a59d0019c3a6de596828cd94d668ebf762e0190235e81e08e4",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d307-a475-78f2-b271-f490546c3e6b/exec-ba43277f-6556-4678-ae98-24cea48d4b0f.png",
+            "role": "Inspected immutable prior candidate edit target",
+            "sha256": "c6d927ec63ef25cdbaacdfcd913d88d787ccf818524fc2dd79316c52af8f19b0",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Inspected source night values",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 square-faced lean fighter with hacked-short dark crop, three cheek cuts, repaired dark plate coat, long blade and wedge. Extra cape removed; identity distinct from style sample.",
+          "Cold blue/slate night shadows restored with selective pale moon/amber edge light. Exact art name/story title, source gestures and unclipped character-only painted folio."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1cc581febb1a8ae90189878321f7fa533cf25947352be1e3f6c1b11119804847"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "42b9a112c70fe8a59d0019c3a6de596828cd94d668ebf762e0190235e81e08e4"
+    },
+    {
+      "id": "gordren",
+      "name": "Gordren",
+      "role": "Carcass-yard intake supervisor",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Carcass-yard intake supervisor",
+        "provenance": "Art-only distinct name assigned under explicit user direction; no matching name found in stories/universe/specs. Does not resolve in-world unknown identity."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The supervisor rubbed porridge from his moustache.",
+          "explanation": "Recurring counterforce changes claims/payment priorities and physically saves a guard before opening shed."
+        }
+      ],
+      "form": "Human-appearing working adult; exact age unresolved",
+      "storyAppearance": {
+        "anatomy": "Man with moustache, tired, cracking knees; hands tucked in sleeves. Uses invoices, chalkboard and ring of keys, third brass key. Unnamed; face/clothes/age otherwise unprovided.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only adult middle-aged/older appearance around55, stocky stooped build, pale ruddy skin, thinning gray hair at sides, thick graying moustache, heavy-lidded hazel eyes and round jowled face. Long charcoal wool coat over ochre waistcoat and cream shirt, dark trousers and worn brown boots.",
+        "equipment": "Front/right-facing Side/Back, heads Tired calculation and Decision. Isolated ring of dark iron keys with one brass key, small invoice stack. No detached hand study. No entire chalkboard or desk/yard, no insignia.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Man with moustache, tired, cracking knees; hands tucked in sleeves. Uses invoices, chalkboard and ring of keys, third brass key. Unnamed; face/clothes/age otherwise unprovided."
+      ],
+      "visualInterpretation": [
+        "Art-only adult middle-aged/older appearance around55, stocky stooped build, pale ruddy skin, thinning gray hair at sides, thick graying moustache, heavy-lidded hazel eyes and round jowled face. Long charcoal wool coat over ochre waistcoat and cream shirt, dark trousers and worn brown boots.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Front/right-facing Side/Back, heads Tired calculation and Decision. Isolated ring of dark iron keys with one brass key, small invoice stack. No detached hand study. No entire chalkboard or desk/yard, no insignia."
+        }
+      ],
+      "lighting": {
+        "moment": "Sixth-night yard work",
+        "motivation": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:gordren",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+          "role": "Source night-lantern lighting and thick oil handling",
+          "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+          "inspected": true,
+          "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/gordren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Gordren'.\nSOURCE FACTS: Man with moustache, tired, cracking knees; hands tucked in sleeves. Uses invoices, chalkboard and ring of keys, third brass key. Unnamed; face/clothes/age otherwise unprovided.\nAPPEARANCE ART INTERPRETATION: Art-only adult middle-aged/older appearance around55, stocky stooped build, pale ruddy skin, thinning gray hair at sides, thick graying moustache, heavy-lidded hazel eyes and round jowled face. Long charcoal wool coat over ochre waistcoat and cream shirt, dark trousers and worn brown boots.\nUSEFUL STUDIES: Front/right-facing Side/Back, heads Tired calculation and Decision. Isolated ring of dark iron keys with one brass key, small invoice stack. No detached hand study. No entire chalkboard or desk/yard, no insignia.\nNight yard lanterns: small warm amber-lit planes against deep cool blue-gray shadows as first image. HALF EACH FACE remains dark. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+            "role": "Source night-lantern lighting and thick oil handling",
+            "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+            "inspected": true,
+            "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:27:45.949807+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Gordren'.\nSOURCE FACTS: Man with moustache, tired, cracking knees; hands tucked in sleeves. Uses invoices, chalkboard and ring of keys, third brass key. Unnamed; face/clothes/age otherwise unprovided.\nAPPEARANCE ART INTERPRETATION: Art-only adult middle-aged/older appearance around55, stocky stooped build, pale ruddy skin, thinning gray hair at sides, thick graying moustache, heavy-lidded hazel eyes and round jowled face. Long charcoal wool coat over ochre waistcoat and cream shirt, dark trousers and worn brown boots.\nUSEFUL STUDIES: Front/right-facing Side/Back, heads Tired calculation and Decision. Isolated ring of dark iron keys with one brass key, small invoice stack. No detached hand study. No entire chalkboard or desk/yard, no insignia.\nNight yard lanterns: small warm amber-lit planes against deep cool blue-gray shadows as first image. HALF EACH FACE remains dark. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+                "role": "Source night-lantern lighting and thick oil handling",
+                "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+                "inspected": true,
+                "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-c1dd141b-742d-40e0-b69d-9c2d2cde374b.png",
+            "savedPath": "stories/the-night-harvest/art/characters/gordren.png",
+            "outputSha256": "b15753a334c31185cb96305880eeddb6c17001fffaa9ae0b4a53d05f4f5ffd74",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:33:25.596351+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:33:25.596351+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "b15753a334c31185cb96305880eeddb6c17001fffaa9ae0b4a53d05f4f5ffd74",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/interiors/01-brine-shed-racks.png",
+            "role": "Source night-lantern lighting and thick oil handling",
+            "sha256": "bfaa5c58bd74c1afce0e23a4e269dbc6a00f6f82d9c399263e7776918ed1125b",
+            "inspected": true,
+            "notes": "Actual pixels inspected: deep blue grey shadows with small warm amber lantern planes. No environment copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "evidence": [
+          "Actual A1 tired mustached supervisor, receding gray hair, stooped stocky build, dark wool coat/ochre waistcoat, invoices and key ring with brass key. Consistent identity in all views and expressions.",
+          "Warm small night highlights against deep cool coat masses; thick opaque paint on face/clothes, exact art name/title, useful uncropped overall views and no hand insert or setting."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "affb84b182944a92269385a721f2bdd2d16f8a3907ad3eff3dadd4ef6b8b81c1"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "b15753a334c31185cb96305880eeddb6c17001fffaa9ae0b4a53d05f4f5ffd74"
+    },
+    {
+      "id": "kasvik",
+      "name": "Kasvik",
+      "role": "Hooked-spear fighter",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Hooked-spear fighter",
+        "provenance": "Art-only distinct name assigned under explicit user direction; no matching name found in stories/universe/specs. Does not resolve in-world unknown identity."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The spear man took the west mouth.",
+          "explanation": "Distinct recurring fighter protects houses before convergence and holds the breached gate while people escape."
+        }
+      ],
+      "form": "Humanoid-appearing fighter; species unresolved",
+      "storyAppearance": {
+        "anatomy": "Male-presenting stranger described as spear man, uses hooked spear. Acts through placement and gesture, not shared fluent language. Species/name/origin/age/appearance unresolved.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only adult appearance, tall lean olive-brown, long narrow face, dark matte eyes, close dark hair and short beard, muted moss padded long coat, gray-brown trousers, black boots and plain leather gloves. Generic humanoid silhouette without new species markers.",
+        "equipment": "Three front/right-facing Side/Back overall views, one holding LONG hooked spear upright fully in frame, others relaxed hands. One steady face study, single hooked spearhead study, no detached hand study. No swords, crowns, uniform heraldry or setting.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Male-presenting stranger described as spear man, uses hooked spear. Acts through placement and gesture, not shared fluent language. Species/name/origin/age/appearance unresolved."
+      ],
+      "visualInterpretation": [
+        "Art-only adult appearance, tall lean olive-brown, long narrow face, dark matte eyes, close dark hair and short beard, muted moss padded long coat, gray-brown trousers, black boots and plain leather gloves. Generic humanoid silhouette without new species markers.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Three front/right-facing Side/Back overall views, one holding LONG hooked spear upright fully in frame, others relaxed hands. One steady face study, single hooked spearhead study, no detached hand study. No swords, crowns, uniform heraldry or setting."
+        }
+      ],
+      "lighting": {
+        "moment": "Night defense",
+        "motivation": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:kasvik",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+          "role": "Source cold moon/rain night lighting and directional thick oil masses",
+          "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+          "inspected": true,
+          "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/kasvik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Kasvik'.\nSOURCE FACTS: Male-presenting stranger described as spear man, uses hooked spear. Acts through placement and gesture, not shared fluent language. Species/name/origin/age/appearance unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only adult appearance, tall lean olive-brown, long narrow face, dark matte eyes, close dark hair and short beard, muted moss padded long coat, gray-brown trousers, black boots and plain leather gloves. Generic humanoid silhouette without new species markers.\nUSEFUL STUDIES: Three front/right-facing Side/Back overall views, one holding LONG hooked spear upright fully in frame, others relaxed hands. One steady face study, single hooked spearhead study, no detached hand study. No swords, crowns, uniform heraldry or setting.\nCold blue moonlight with deep slate/cobalt shadows and very small amber lantern accent as first image. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Source cold moon/rain night lighting and directional thick oil masses",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true,
+            "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:27:45.949870+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Kasvik'.\nSOURCE FACTS: Male-presenting stranger described as spear man, uses hooked spear. Acts through placement and gesture, not shared fluent language. Species/name/origin/age/appearance unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only adult appearance, tall lean olive-brown, long narrow face, dark matte eyes, close dark hair and short beard, muted moss padded long coat, gray-brown trousers, black boots and plain leather gloves. Generic humanoid silhouette without new species markers.\nUSEFUL STUDIES: Three front/right-facing Side/Back overall views, one holding LONG hooked spear upright fully in frame, others relaxed hands. One steady face study, single hooked spearhead study, no detached hand study. No swords, crowns, uniform heraldry or setting.\nCold blue moonlight with deep slate/cobalt shadows and very small amber lantern accent as first image. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+                "role": "Source cold moon/rain night lighting and directional thick oil masses",
+                "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+                "inspected": true,
+                "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-1f80c8ec-786c-4f01-b0bd-c48dcfbf6769.png",
+            "savedPath": "stories/the-night-harvest/art/characters/kasvik.png",
+            "outputSha256": "9f0ed82cd61b244b2a06d74db7f0cb3ed10c564f853938756705d947e83f8543",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:33:25.601483+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:33:25.601483+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "9f0ed82cd61b244b2a06d74db7f0cb3ed10c564f853938756705d947e83f8543",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Source cold moon/rain night lighting and directional thick oil masses",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true,
+            "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "evidence": [
+          "Actual A1 distinct tall lean spear fighter, narrow bearded olive-brown face, dark hair, moss padded coat, personal long hooked spear shown complete with spearhead detail; no detached hands.",
+          "Coherent character across views, broad matte facial/body knife masses, cool night shadows/limited warm edges, legible name/title and clean ivory no-location layout."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "71e91c7b87f62618d8e4c29f0b8c0bdde03f11b1ec7279cf403d7754d1360f05"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "9f0ed82cd61b244b2a06d74db7f0cb3ed10c564f853938756705d947e83f8543"
+    },
+    {
+      "id": "ombrin",
+      "name": "Ombrin",
+      "role": "Short-bow fighter",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Short-bow fighter",
+        "provenance": "Art-only distinct name assigned under explicit user direction; no matching name found in stories/universe/specs. Does not resolve in-world unknown identity."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The bow wielder climbed the bone shed.",
+          "explanation": "Recurring defender disables knee joints and directs hide workers to save climbers’ targets during convergence."
+        }
+      ],
+      "form": "Humanoid-appearing fighter; species unresolved",
+      "storyAppearance": {
+        "anatomy": "Stranger uses short bow with thick black bolts, climbs and communicates through demonstration/gesture. Sex, species, name, origin, age and appearance unresolved.",
+        "lifeStage": "Adult visual interpretation; exact age unresolved",
+        "proportions": "Art-only androgynous adult appearance, slender compact build, deep brown skin, short tight black braids close to scalp, wide face, matte dark eyes. Muted slate-blue padded jacket, charcoal trousers, brown calf boots, no jewelry or species markers.",
+        "equipment": "Front/right-facing Side/Back overall views; one holds simple SHORT BOW relaxed, not crossbow/firearm, ordinary curved stave and single string. Two alert/pointing upper-body studies. Isolated thick black short BOLT shaft with simple fletching and one waist-up attentive portrait, no detached hand study; no quiver or added weapons.",
+        "scale": "Ordinary adult scale as art interpretation",
+        "movement": "Source-specific states/gestures, no invented abilities"
+      },
+      "explicitCanon": [
+        "Stranger uses short bow with thick black bolts, climbs and communicates through demonstration/gesture. Sex, species, name, origin, age and appearance unresolved."
+      ],
+      "visualInterpretation": [
+        "Art-only androgynous adult appearance, slender compact build, deep brown skin, short tight black braids close to scalp, wide face, matte dark eyes. Muted slate-blue padded jacket, charcoal trousers, brown calf boots, no jewelry or species markers.",
+        "All unprovided physical design, age appearance and clothes are art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-specific working state",
+          "description": "Front/right-facing Side/Back overall views; one holds simple SHORT BOW relaxed, not crossbow/firearm, ordinary curved stave and single string. Two alert/pointing upper-body studies. Isolated thick black short BOLT shaft with simple fletching and one waist-up attentive portrait, no detached hand study; no quiver or added weapons."
+        }
+      ],
+      "lighting": {
+        "moment": "Night defense",
+        "motivation": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+      },
+      "recurrence": {
+        "identityKey": "the-night-harvest:ombrin",
+        "links": [],
+        "evidence": "No shared identity established by source or universe; never infer from similarity."
+      },
+      "references": [
+        {
+          "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+          "role": "Source cold moon/rain night lighting and directional thick oil masses",
+          "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+          "inspected": true,
+          "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto paint treatment only",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+        },
+        {
+          "path": "stories/the-night-harvest/title-image.jpg",
+          "role": "Inspected source cover",
+          "sha256": "81c9737d952d5dbb6dc8af92e7b4bee16f48936b8cff619e034ceb54913262ed",
+          "inspected": true,
+          "notes": "Only nodes/tray, no identity. Subordinate blue/green night palette; not generation input or living character."
+        }
+      ],
+      "output": "stories/the-night-harvest/art/characters/ombrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Ombrin'.\nSOURCE FACTS: Stranger uses short bow with thick black bolts, climbs and communicates through demonstration/gesture. Sex, species, name, origin, age and appearance unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only androgynous adult appearance, slender compact build, deep brown skin, short tight black braids close to scalp, wide face, matte dark eyes. Muted slate-blue padded jacket, charcoal trousers, brown calf boots, no jewelry or species markers.\nUSEFUL STUDIES: Front/right-facing Side/Back overall views; one holds simple SHORT BOW relaxed, not crossbow/firearm, ordinary curved stave and single string. Two alert/pointing upper-body studies. Isolated thick black short BOLT shaft with simple fletching and one waist-up attentive portrait, no detached hand study; no quiver or added weapons.\nCold blue moonlight with deep slate/cobalt shadows and very small amber lantern accent as first image. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Source cold moon/rain night lighting and directional thick oil masses",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true,
+            "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T11:27:45.949909+00:00",
+            "prompt": "Use case illustration-story. Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on clean light warm IVORY. Exact large readable dark serif heading NAME, subtitle 'The Night Harvest'. One identity only, repeated studies of that identity. Canadian Group of Seven SCULPTED HEAVY OIL: broad interlocking opaque palette-knife slabs and decisive directional bristle masses, selectively raised impasto and scraped edges describe all forms including face/hands, matte eyes. No thin anime contour, photographic smooth face, glossy digital/3D skin or uniform texture filter. First actual painting guides source NIGHT illumination; second approved sheet provides paint treatment only, not its person/face/clothes/gear. Keep actual NIGHT on the isolated figures with broad dark blue-grey shadow planes and small selective warm lantern or cool moonlit planes; never all-over daylight. All silhouettes completely uncropped with useful spacing. NO location, environment, scenic vignette, floor, ground patch, cast-shadow puddle, color/paint swatches or palette. Natural coherent anatomy and invariant attached clothing/marks; no extra limbs or invented equipment. Do not print an age/species/canon claim. \nHeading 'Ombrin'.\nSOURCE FACTS: Stranger uses short bow with thick black bolts, climbs and communicates through demonstration/gesture. Sex, species, name, origin, age and appearance unresolved.\nAPPEARANCE ART INTERPRETATION: Art-only androgynous adult appearance, slender compact build, deep brown skin, short tight black braids close to scalp, wide face, matte dark eyes. Muted slate-blue padded jacket, charcoal trousers, brown calf boots, no jewelry or species markers.\nUSEFUL STUDIES: Front/right-facing Side/Back overall views; one holds simple SHORT BOW relaxed, not crossbow/firearm, ordinary curved stave and single string. Two alert/pointing upper-body studies. Isolated thick black short BOLT shaft with simple fletching and one waist-up attentive portrait, no detached hand study; no quiver or added weapons.\nCold blue moonlight with deep slate/cobalt shadows and very small amber lantern accent as first image. NO isolated hand studies or anatomical-side label exercises. Focus named identity, clear faces/forms, clothing, personal equipment and night light.",
+            "references": [
+              {
+                "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+                "role": "Source cold moon/rain night lighting and directional thick oil masses",
+                "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+                "inspected": true,
+                "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto paint treatment only",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d307-a475-78f2-b271-f490546c3e6b\\exec-b5019c5d-7360-4b32-a069-11e50eda5b81.png",
+            "savedPath": "stories/the-night-harvest/art/characters/ombrin.png",
+            "outputSha256": "40decc507e5214b9539ab252ee5e9fec8463cbbb3c2917f651c96fbcfd885d11",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T11:33:25.606489+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_continue_2 actual-pixel review",
+        "reviewedAt": "2026-09-24T11:33:25.606489+00:00",
+        "sourceSha256": "deec089036f434a909969cd4d9a01a48bab7c291adb2128dfdbee5d65c0ee615",
+        "outputSha256": "40decc507e5214b9539ab252ee5e9fec8463cbbb3c2917f651c96fbcfd885d11",
+        "references": [
+          {
+            "path": "stories/the-night-harvest/art/landscapes/01-marsh-road-by-lamplight.png",
+            "role": "Source cold moon/rain night lighting and directional thick oil masses",
+            "sha256": "7e019ecfaa9a2720610ed5084fa912721ef4ba2a6c43a54041fbf66bf096c27d",
+            "inspected": true,
+            "notes": "Actual pixels inspected. Deep cobalt/slate night with restricted pale moon light and minute amber accent; no road/reeds/ground copied."
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Approved Sculpted Impasto paint treatment only",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "notes": "Actual approved pixels inspected. Do not borrow woman, face, armor, cloak, scene or swatches."
+          }
+        ],
+        "evidence": [
+          "Actual A1 compact bow fighter, consistent dark braided hair/brown face, slate-blue padded clothing and boots; simple short bow and thick black bolt, alert/aiming/pointing whole-upper-body studies. Gender/species remain art interpretation and unasserted.",
+          "Matte sculpted paint across skin/hair/clothing, source cool night and restrained warm planes, exact art name/title, full silhouette and no isolated hand or scene."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "243dcd69d362adb76d0ad294aa6c0fe7ab7b3a358987c1789446224411c63b8f"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Finished prose fully read, authoritative marker/LOCKED entries checked; original approved style, cover and relevant actual painting pixels inspected; facts and visual interpretation separated; night lighting, humanoid anatomy, labels and no-location framing feasible."
+      },
+      "outputSha256": "40decc507e5214b9539ab252ee5e9fec8463cbbb3c2917f651c96fbcfd885d11"
+    }
+  ]
+}

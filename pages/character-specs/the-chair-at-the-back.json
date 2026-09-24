@@ -1,0 +1,628 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-chair-at-the-back",
+  "title": "The Chair at the Back",
+  "source": "stories/the-chair-at-the-back/story.md",
+  "sourceSha256": "56b217038eca0da369da385121cb0dc8a8d69786c715a9993484f7ecd230df17",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire final story/prompt/review read. Three present-time main people: thirteen-year-old Jemby, tavern matron Berrit and her elderly husband Pemric. Recalled summoners/mother/sister/former girl and giant moth are narrative memory, not current visible cast; no invented present manifestations for oath Makers.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Jemby's mother, Pemric's sister, prior summoned girl, summoners and king",
+      "reason": "Recalled/offstage only; not present-time sustained cast."
+    },
+    {
+      "name": "Tavern customers and giant moth",
+      "reason": "Background unnamed crowd and remembered animal anecdote only."
+    },
+    {
+      "name": "Makers",
+      "reason": "Collective oath without a verified individual identity or visible manifestation."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "characters": [
+    {
+      "id": "jemby",
+      "name": "Jemby",
+      "role": "Thirteen-year-old summoned child who demands answers and learns crumb magic",
+      "naming": {
+        "sourceName": "Jemby",
+        "sourceRole": "Thirteen-year-old summoned child who demands answers and learns crumb magic",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"I'm thirteen,\" Jemby said.",
+          "explanation": "Explicit age."
+        },
+        {
+          "quote": "The crumb rolled over.",
+          "explanation": "Later tiny living-user magical action."
+        }
+      ],
+      "form": "Human boy exactly13",
+      "storyAppearance": {
+        "anatomy": "Exactly13, summoned while missing one sock/one bare foot; oversized tunic with sun-embroidered cuffs rolled twice by Berrit, unwieldy sheathed sword with red stone in handle. Six brass kitchen tokens with sun one face/square punch other, folded written promises; living magic lifts tiny crumb.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Small ordinary13-year-old body, fair warm skin, large matte brown eyes, soft oval childface, short tousled black-brown hair, coveridentity. Oversized muted blue-teal tunic gold neck edging, CREAM cuffs goldSUN embroidery rolled twice, loose brown trousers. Footwear interpretation retains one gray wool sock RIGHT and bareLEFT from arrival, no shoes. No armor.",
+        "markings": "Exactly13, summoned while missing one sock/one bare foot; oversized tunic with sun-embroidered cuffs rolled twice by Berrit, unwieldy sheathed sword with red stone in handle. Six brass kitchen tokens with sun one face/square punch other, folded written promises; living magic lifts tiny crumb.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Small ordinary13-year-old body, fair warm skin, large matte brown eyes, soft oval childface, short tousled black-brown hair, coveridentity. Oversized muted blue-teal tunic gold neck edging, CREAM cuffs goldSUN embroidery rolled twice, loose brown trousers. Footwear interpretation retains one gray wool sock RIGHT and bareLEFT from arrival, no shoes. No armor.",
+        "equipment": "Main3views sun tunic with correctly consistent LEFT barefoot/rightsock. Sword sheathed and held separate in RIGHT hand (notdrawing), full length with redstonehilt. Two heads Hopeful/Grieving. Tinycrumb hovering a fingerbreadth above openpalm without selfglow; isolated brass token frontsun/reversesquare and foldedpaper.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Small ordinary13-year-old body, fair warm skin, large matte brown eyes, soft oval childface, short tousled black-brown hair, coveridentity. Oversized muted blue-teal tunic gold neck edging, CREAM cuffs goldSUN embroidery rolled twice, loose brown trousers. Footwear interpretation retains one gray wool sock RIGHT and bareLEFT from arrival, no shoes. No armor."
+      },
+      "explicitCanon": [
+        "Exactly13, summoned while missing one sock/one bare foot; oversized tunic with sun-embroidered cuffs rolled twice by Berrit, unwieldy sheathed sword with red stone in handle. Six brass kitchen tokens with sun one face/square punch other, folded written promises; living magic lifts tiny crumb."
+      ],
+      "visualInterpretation": [
+        "Small ordinary13-year-old body, fair warm skin, large matte brown eyes, soft oval childface, short tousled black-brown hair, coveridentity. Oversized muted blue-teal tunic gold neck edging, CREAM cuffs goldSUN embroidery rolled twice, loose brown trousers. Footwear interpretation retains one gray wool sock RIGHT and bareLEFT from arrival, no shoes. No armor.",
+        "Unspecified face, complexion, adult age and clothing details are art-only interpretation. Source and cover govern Jemby's exact age and sun-cuff/red-hilt design. No source/canon edit."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main3views sun tunic with correctly consistent LEFT barefoot/rightsock. Sword sheathed and held separate in RIGHT hand (notdrawing), full length with redstonehilt. Two heads Hopeful/Grieving. Tinycrumb hovering a fingerbreadth above openpalm without selfglow; isolated brass token frontsun/reversesquare and foldedpaper."
+        }
+      ],
+      "lighting": {
+        "moment": "Present tavern evening beside hearth/candle",
+        "motivation": "Warm localized amber planes with cool dark shadow masses, source painting inspected"
+      },
+      "recurrence": {
+        "identityKey": "the-chair-at-the-back:jemby",
+        "links": [],
+        "evidence": "Local new source identity; no cross-story connection"
+      },
+      "references": [
+        {
+          "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+          "role": "Actual source warm hearth/candle light and cool room shadow oil",
+          "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+          "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oil and ivory folio structure only",
+          "notes": "No identity or daylight/clothing donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-chair-at-the-back/title-image.jpg",
+          "role": "Actual Jemby cover identity/costume/sheathed sword",
+          "notes": "Inspected thirteen-year-old boy's tousled dark hair, large brown eyes, warm fair skin, blue oversized tunic with cream sun-embroidered cuffs, brown trousers, red-stone sword hilt. Translate anime facial shapes into heavy oils without aging.",
+          "sha256": "7101faa511312c839c2e241cbb4b799b8b6eec950b7c752c34bcd9ef2dffc837",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-chair-at-the-back/art/characters/jemby.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST supplied jemby character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. One equipment fix: front and side sword is attached to his anatomical RIGHT hip. In REAR VIEW ONLY move complete sheathed sword/hilt/attachment from viewerLEFT to viewerRIGHT (his anatomical RIGHT in rear). Front and side unchanged. Preserve LEFT barefoot/rightgraysock across ALL views. Sword remains fully sheathed; no blade/outside scene. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-98938e85-5820-40d0-bdbc-ae9c96adc860.png",
+            "sha256": "7a96e726dd1572885160dd8fe5ab2032215ec9057a975b9ba0a5bffd8fa43ba8",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:21:15.490566+00:00",
+            "prompt": "Use case: illustration-story. ONE1536x1024 landscape character reference sheet, clean LIGHT WARM IVORY. Exact dark serif CHARACTER NAME and smaller exact subtitle 'The Chair at the Back'. One identity only, three fullbody Front/Side/Back views plus two expressive heads and one or two small personal details. Physical Canadian Group of Seven HEAVY OIL: broad connected color masses, opaque directional bristle paint and selective impasto on FACES as well as hair/cloth. Matte eyes, simplified painterly shadows; no photo/CGI/anime fine outlines or smooth faces. FIRST reference sets low-key warm HEARTH/CANDLE practical light opposed by cool blue-gray SHADOWS, not sunlight; keep subjects with clear deep shadow planes while paper light. SECOND is style/layout only, never identity. No location, tavern furniture/chair, room, floor patch, scene, abstract background swashes, swatches or extra person. Personal source gear only, no glowing props. Teen proportions age appropriate and fully clothed.\nHeading 'Jemby'.\nJemby EXACTLY13, ordinary small/slim child anatomy. THIRD cover binds short tousled dark hair, large matte brown eyes, fair warm childface, BLUE-TEAL oversized knee-length tunic with gold neck trim and CREAM double-rolled cuffs embroidered GOLD SUNS, brown loose trousers. Adopt a single gray wool sock on RIGHT foot and BARELEFT foot as art interpretation of his interrupted dressing; keep sidesconsistent frontviewerRIGHT bare/backviewerLEFT bare. MAIN Front/Side/Back, caption only 'Side' avoid falsehandedlabel. Large unwieldy SWORD ALWAYS SHEATHED, red stone in hilt, held clear down at RIGHTside infront, nothing touches floor or scenery. Two expressive heads hopeful/grieving, no adultjaw. Small ordinary crumb suspended just fingerbreadth above own openpalm, no glow. Tiny brass meal-token frontSUN and reverseSQUARE PUNCH detail, folded handwrittenpaper with indistinct words. Character only no chair or foodtable. Low amber hearthplanes and cooldeep shadow, heavy oils onchildface; source coveranime translatednotcopied.",
+            "references": [
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oil and ivory folio structure only",
+                "notes": "No identity or daylight/clothing donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-chair-at-the-back/title-image.jpg",
+                "role": "Actual Jemby cover identity/costume/sheathed sword",
+                "notes": "Inspected thirteen-year-old boy's tousled dark hair, large brown eyes, warm fair skin, blue oversized tunic with cream sun-embroidered cuffs, brown trousers, red-stone sword hilt. Translate anime facial shapes into heavy oils without aging.",
+                "sha256": "7101faa511312c839c2e241cbb4b799b8b6eec950b7c752c34bcd9ef2dffc837",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-98938e85-5820-40d0-bdbc-ae9c96adc860.png",
+            "outputSha256": "7a96e726dd1572885160dd8fe5ab2032215ec9057a975b9ba0a5bffd8fa43ba8",
+            "review": "Actual A1 source identity/details/proportions pass, but subject illumination too broad warm/daytime against explicit hearth/candle night; correct value hierarchy using actual night painting. Rear sword attachment switches anatomical side; move rear to viewerRIGHT."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:11:13.683139+00:00",
+            "prompt": "Edit FIRST supplied jemby character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. One equipment fix: front and side sword is attached to his anatomical RIGHT hip. In REAR VIEW ONLY move complete sheathed sword/hilt/attachment from viewerLEFT to viewerRIGHT (his anatomical RIGHT in rear). Front and side unchanged. Preserve LEFT barefoot/rightgraysock across ALL views. Sword remains fully sheathed; no blade/outside scene. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-98938e85-5820-40d0-bdbc-ae9c96adc860.png",
+                "sha256": "7a96e726dd1572885160dd8fe5ab2032215ec9057a975b9ba0a5bffd8fa43ba8",
+                "inspected": true,
+                "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+              },
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a7861ab5-81ea-4216-8940-8028bf336ce4.png",
+            "savedPath": "stories/the-chair-at-the-back/art/characters/jemby.png",
+            "outputSha256": "d55ef925b799979b58b96ba857dbc0aaccaac98b2542c6d1dc4241328ee8ca03",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:37:11.846953+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T08:37:11.846953+00:00",
+        "sourceSha256": "56b217038eca0da369da385121cb0dc8a8d69786c715a9993484f7ecd230df17",
+        "outputSha256": "d55ef925b799979b58b96ba857dbc0aaccaac98b2542c6d1dc4241328ee8ca03",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-98938e85-5820-40d0-bdbc-ae9c96adc860.png",
+            "sha256": "7a96e726dd1572885160dd8fe5ab2032215ec9057a975b9ba0a5bffd8fa43ba8",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: readable exact heading, only Jemby, child 13 anatomy stable across views and expressions; source sun-cuff oversized tunic, red-stone sword, brass tokens and small floating crumb retained.",
+          "Corrected rear sword at viewer right matches anatomical right front/side; right sock and bare left foot map consistently in front, side and back.",
+          "Local amber hearth light against dark cool fill matches nighttime source; clean ivory without scenery or ground. Heavy opaque oil rendering."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "44f5b1cdffb84a5fcbaf947668f0c5be3db606acbc7ff94c47ee568178e51301"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "d55ef925b799979b58b96ba857dbc0aaccaac98b2542c6d1dc4241328ee8ca03"
+    },
+    {
+      "id": "berrit",
+      "name": "Berrit",
+      "role": "Tavern matron who feeds and shelters Jemby and agrees to accompany his questions",
+      "naming": {
+        "sourceName": "Berrit",
+        "sourceRole": "Tavern matron who feeds and shelters Jemby and agrees to accompany his questions",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "\"I'm Berrit. My husband's Pemric.",
+          "explanation": "Personal role/name."
+        },
+        {
+          "quote": "Berrit had returned with a wet patch down her apron.",
+          "explanation": "Source clothing state."
+        }
+      ],
+      "form": "Human adult",
+      "storyAppearance": {
+        "anatomy": "Adult tavern matron, Pemric's wife. Rolls boy's cuffs; wet patch down apron after serving jug, later holds hands in apron; offers cleancloth and food. No magic shown.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Woman56 artage, stocky capable body, medium tan warm complexion, broad round face, strong straight brows and broad nose, hazel eyes, thick reddish-brown graying hair in practical coiled low bun. Muted moss long-sleeve blouse, dark russet ankle skirt, OFFWHITE apron with one central dark damp patch; worn brown shoes.",
+        "markings": "Adult tavern matron, Pemric's wife. Rolls boy's cuffs; wet patch down apron after serving jug, later holds hands in apron; offers cleancloth and food. No magic shown.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Woman56 artage, stocky capable body, medium tan warm complexion, broad round face, strong straight brows and broad nose, hazel eyes, thick reddish-brown graying hair in practical coiled low bun. Muted moss long-sleeve blouse, dark russet ankle skirt, OFFWHITE apron with one central dark damp patch; worn brown shoes.",
+        "equipment": "FrontSideBack, two heads Stern practical concern/Tender uncertainty. One natural hands-in-apron study with clean foldedcloth. No spoon/jug/table unlesspersonalcloth detail; no second person.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Woman56 artage, stocky capable body, medium tan warm complexion, broad round face, strong straight brows and broad nose, hazel eyes, thick reddish-brown graying hair in practical coiled low bun. Muted moss long-sleeve blouse, dark russet ankle skirt, OFFWHITE apron with one central dark damp patch; worn brown shoes."
+      },
+      "explicitCanon": [
+        "Adult tavern matron, Pemric's wife. Rolls boy's cuffs; wet patch down apron after serving jug, later holds hands in apron; offers cleancloth and food. No magic shown."
+      ],
+      "visualInterpretation": [
+        "Woman56 artage, stocky capable body, medium tan warm complexion, broad round face, strong straight brows and broad nose, hazel eyes, thick reddish-brown graying hair in practical coiled low bun. Muted moss long-sleeve blouse, dark russet ankle skirt, OFFWHITE apron with one central dark damp patch; worn brown shoes.",
+        "Unspecified face, complexion, adult age and clothing details are art-only interpretation. Source and cover govern Jemby's exact age and sun-cuff/red-hilt design. No source/canon edit."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "FrontSideBack, two heads Stern practical concern/Tender uncertainty. One natural hands-in-apron study with clean foldedcloth. No spoon/jug/table unlesspersonalcloth detail; no second person."
+        }
+      ],
+      "lighting": {
+        "moment": "Present tavern evening beside hearth/candle",
+        "motivation": "Warm localized amber planes with cool dark shadow masses, source painting inspected"
+      },
+      "recurrence": {
+        "identityKey": "the-chair-at-the-back:berrit",
+        "links": [],
+        "evidence": "Local new source identity; no cross-story connection"
+      },
+      "references": [
+        {
+          "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+          "role": "Actual source warm hearth/candle light and cool room shadow oil",
+          "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+          "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oil and ivory folio structure only",
+          "notes": "No identity or daylight/clothing donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-chair-at-the-back/title-image.jpg",
+          "role": "Actual Jemby cover identity/costume/sheathed sword",
+          "notes": "Inspected thirteen-year-old boy's tousled dark hair, large brown eyes, warm fair skin, blue oversized tunic with cream sun-embroidered cuffs, brown trousers, red-stone sword hilt. Translate anime facial shapes into heavy oils without aging.",
+          "sha256": "7101faa511312c839c2e241cbb4b799b8b6eec950b7c752c34bcd9ef2dffc837",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-chair-at-the-back/art/characters/berrit.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST supplied berrit character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. No changes to anatomy/pose/clothes or personal details. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8c3aa1b-5c5c-4ad6-bbb4-303cb461d874.png",
+            "sha256": "6de565fbe36d3500d3525bf293c72a30c1a124d292a48e5f7cede23a359f9708",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:21:15.490566+00:00",
+            "prompt": "Use case: illustration-story. ONE1536x1024 landscape character reference sheet, clean LIGHT WARM IVORY. Exact dark serif CHARACTER NAME and smaller exact subtitle 'The Chair at the Back'. One identity only, three fullbody Front/Side/Back views plus two expressive heads and one or two small personal details. Physical Canadian Group of Seven HEAVY OIL: broad connected color masses, opaque directional bristle paint and selective impasto on FACES as well as hair/cloth. Matte eyes, simplified painterly shadows; no photo/CGI/anime fine outlines or smooth faces. FIRST reference sets low-key warm HEARTH/CANDLE practical light opposed by cool blue-gray SHADOWS, not sunlight; keep subjects with clear deep shadow planes while paper light. SECOND is style/layout only, never identity. No location, tavern furniture/chair, room, floor patch, scene, abstract background swashes, swatches or extra person. Personal source gear only, no glowing props. Teen proportions age appropriate and fully clothed.\nHeading 'Berrit'.\nBerrit human woman56 interpretation, stocky capable ordinarybody, medium warmtan skin, broad round face strong straight brows broadnose hazel eyes. Thick auburn-brown hair graying in low coiled bun. Muted moss long-sleeve blouse, dark russet ankle skirt, offwhite apron with ONE CENTRAL damp patch downfront (not fixedsidepatch), brown shoes. Threefullviews Front/Side/Back, two heads sternpracticalconcern / tenderuncertainty. Isolated own hands folded in apron with plain cleancloth, no other person. Preserve centralapronstain visiblefront/side and none onrear. Limited amber hearth/candle planes, muchcool shadow, no daylight broadfill. No furniture, room, servanttray or fantasybadge.",
+            "references": [
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oil and ivory folio structure only",
+                "notes": "No identity or daylight/clothing donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8c3aa1b-5c5c-4ad6-bbb4-303cb461d874.png",
+            "outputSha256": "6de565fbe36d3500d3525bf293c72a30c1a124d292a48e5f7cede23a359f9708",
+            "review": "Actual A1 source identity/details/proportions pass, but subject illumination too broad warm/daytime against explicit hearth/candle night; correct value hierarchy using actual night painting. Remove minor ground flecks while retaining ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:11:13.688527+00:00",
+            "prompt": "Edit FIRST supplied berrit character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. No changes to anatomy/pose/clothes or personal details. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8c3aa1b-5c5c-4ad6-bbb4-303cb461d874.png",
+                "sha256": "6de565fbe36d3500d3525bf293c72a30c1a124d292a48e5f7cede23a359f9708",
+                "inspected": true,
+                "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+              },
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a1a15a24-2a41-4765-bcc2-b553c2c15e11.png",
+            "savedPath": "stories/the-chair-at-the-back/art/characters/berrit.png",
+            "outputSha256": "b35847f9b8d291e3420966806b22148537f43ac9ec64317f6ef37c6d5a48a94d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:37:11.846953+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T08:37:11.846953+00:00",
+        "sourceSha256": "56b217038eca0da369da385121cb0dc8a8d69786c715a9993484f7ecd230df17",
+        "outputSha256": "b35847f9b8d291e3420966806b22148537f43ac9ec64317f6ef37c6d5a48a94d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8c3aa1b-5c5c-4ad6-bbb4-303cb461d874.png",
+            "sha256": "6de565fbe36d3500d3525bf293c72a30c1a124d292a48e5f7cede23a359f9708",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: one matron identity with consistent auburn-gray bun, stocky mature build and facial structure; central damp apron streak, cloth and practical concern/tender uncertainty legible.",
+          "Narrow amber hearth light and substantial cool shadows preserve night motivation; clean ivory and opaque oil masses throughout."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "37b03dcddbd954015f14aaba2fe296c2979d9eca6bff4cd6df4c34f04002681c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "b35847f9b8d291e3420966806b22148537f43ac9ec64317f6ef37c6d5a48a94d"
+    },
+    {
+      "id": "pemric",
+      "name": "Pemric",
+      "role": "Elderly former summoned hero and patient small-magic teacher",
+      "naming": {
+        "sourceName": "Pemric",
+        "sourceRole": "Elderly former summoned hero and patient small-magic teacher",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "He was bald on top, with a great deal of white hair everywhere else, including on the backs of his hands.",
+          "explanation": "Explicit current elderly appearance."
+        },
+        {
+          "quote": "I can hold a plum up for about as long as you just held your breath.",
+          "explanation": "Bounded present magic."
+        }
+      ],
+      "form": "Human adult",
+      "storyAppearance": {
+        "anatomy": "Elderly now; summoned at15 historically. Bald on top, much white hair elsewhere including backs ofhands and beard. Unevenwalk, one foot rests sideways then flat. Can levitate crumb, plum forlimitedtime, noflight. Historicaldisabilitybound notinventedamputation.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man74 artage, sturdy softly roundedelder, pale weathered rosy complexion, large kind roundnose, warm gray eyes, bald crown with thickwhite horseshoehair and fullsoftwhitebeard/moustache, conspicuousfineWHITEhair onhands. Plain mutedbrown workwaistcoat over creamlinenshirt, darkgreenbrown trousers, softbrown shoes, no walkingaid.",
+        "markings": "Elderly now; summoned at15 historically. Bald on top, much white hair elsewhere including backs ofhands and beard. Unevenwalk, one foot rests sideways then flat. Can levitate crumb, plum forlimitedtime, noflight. Historicaldisabilitybound notinventedamputation.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man74 artage, sturdy softly roundedelder, pale weathered rosy complexion, large kind roundnose, warm gray eyes, bald crown with thickwhite horseshoehair and fullsoftwhitebeard/moustache, conspicuousfineWHITEhair onhands. Plain mutedbrown workwaistcoat over creamlinenshirt, darkgreenbrown trousers, softbrown shoes, no walkingaid.",
+        "equipment": "Main3currentelderviews noyoungflashback, one foot slightlyoutturned gentle unevenstance. Two heads Wry recollection/Quiet grief. Large ownpalm levitating one small breadcrumb, fingersrelaxed; backofhands whitehair detail. No glowingcrumb, giantmoth or youthheroextra.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man74 artage, sturdy softly roundedelder, pale weathered rosy complexion, large kind roundnose, warm gray eyes, bald crown with thickwhite horseshoehair and fullsoftwhitebeard/moustache, conspicuousfineWHITEhair onhands. Plain mutedbrown workwaistcoat over creamlinenshirt, darkgreenbrown trousers, softbrown shoes, no walkingaid."
+      },
+      "explicitCanon": [
+        "Elderly now; summoned at15 historically. Bald on top, much white hair elsewhere including backs ofhands and beard. Unevenwalk, one foot rests sideways then flat. Can levitate crumb, plum forlimitedtime, noflight. Historicaldisabilitybound notinventedamputation."
+      ],
+      "visualInterpretation": [
+        "Man74 artage, sturdy softly roundedelder, pale weathered rosy complexion, large kind roundnose, warm gray eyes, bald crown with thickwhite horseshoehair and fullsoftwhitebeard/moustache, conspicuousfineWHITEhair onhands. Plain mutedbrown workwaistcoat over creamlinenshirt, darkgreenbrown trousers, softbrown shoes, no walkingaid.",
+        "Unspecified face, complexion, adult age and clothing details are art-only interpretation. Source and cover govern Jemby's exact age and sun-cuff/red-hilt design. No source/canon edit."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main3currentelderviews noyoungflashback, one foot slightlyoutturned gentle unevenstance. Two heads Wry recollection/Quiet grief. Large ownpalm levitating one small breadcrumb, fingersrelaxed; backofhands whitehair detail. No glowingcrumb, giantmoth or youthheroextra."
+        }
+      ],
+      "lighting": {
+        "moment": "Present tavern evening beside hearth/candle",
+        "motivation": "Warm localized amber planes with cool dark shadow masses, source painting inspected"
+      },
+      "recurrence": {
+        "identityKey": "the-chair-at-the-back:pemric",
+        "links": [],
+        "evidence": "Local new source identity; no cross-story connection"
+      },
+      "references": [
+        {
+          "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+          "role": "Actual source warm hearth/candle light and cool room shadow oil",
+          "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+          "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted heavy oil and ivory folio structure only",
+          "notes": "No identity or daylight/clothing donation.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-chair-at-the-back/title-image.jpg",
+          "role": "Actual Jemby cover identity/costume/sheathed sword",
+          "notes": "Inspected thirteen-year-old boy's tousled dark hair, large brown eyes, warm fair skin, blue oversized tunic with cream sun-embroidered cuffs, brown trousers, red-stone sword hilt. Translate anime facial shapes into heavy oils without aging.",
+          "sha256": "7101faa511312c839c2e241cbb4b799b8b6eec950b7c752c34bcd9ef2dffc837",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-chair-at-the-back/art/characters/pemric.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST supplied pemric character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. No changes to anatomy/pose/clothes or personal details. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-af2fb490-465c-4b4a-865c-f30a673b2768.png",
+            "sha256": "c8c9a8504a5f44ccd52db602e993c14cbffd5802a5165b4fe422519d80b6946c",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:21:15.490566+00:00",
+            "prompt": "Use case: illustration-story. ONE1536x1024 landscape character reference sheet, clean LIGHT WARM IVORY. Exact dark serif CHARACTER NAME and smaller exact subtitle 'The Chair at the Back'. One identity only, three fullbody Front/Side/Back views plus two expressive heads and one or two small personal details. Physical Canadian Group of Seven HEAVY OIL: broad connected color masses, opaque directional bristle paint and selective impasto on FACES as well as hair/cloth. Matte eyes, simplified painterly shadows; no photo/CGI/anime fine outlines or smooth faces. FIRST reference sets low-key warm HEARTH/CANDLE practical light opposed by cool blue-gray SHADOWS, not sunlight; keep subjects with clear deep shadow planes while paper light. SECOND is style/layout only, never identity. No location, tavern furniture/chair, room, floor patch, scene, abstract background swashes, swatches or extra person. Personal source gear only, no glowing props. Teen proportions age appropriate and fully clothed.\nHeading 'Pemric'.\nPemric HUMAN man74 interpretation; CURRENT elder only. Softsturdybuild, weathered rosyfairskin, large kind roundnose warmgray eyes. BALD CROWN thick white horseshoefringe, fullWHITE beard/moustache, white hairy backsofhands. Mutedbrown workwaistcoat, cream fullsleeve shirt, darkgreenbrown trousers, softbrown shoes. Front/Side/Back in neutral slightlyuneven stance, LEFT foot a littleoutturnedchoseninterpretation, no cane/amputation. Twoheads wryrecollection / quietgrief. Mainhanddetail one tinyordinary breadCRUMB suspended a fingerbreadth above relaxed openpalm, no glow or rune: livingman suppliesmagic. Additional backofhand study showing WHITEhair. No youthform, wing, moth, sword or friend. Night hearthwarm planes against largecoolshadow, oilfaces/cloth connectedmasses.",
+            "references": [
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted heavy oil and ivory folio structure only",
+                "notes": "No identity or daylight/clothing donation.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-af2fb490-465c-4b4a-865c-f30a673b2768.png",
+            "outputSha256": "c8c9a8504a5f44ccd52db602e993c14cbffd5802a5165b4fe422519d80b6946c",
+            "review": "Actual A1 source identity/details/proportions pass, but subject illumination too broad warm/daytime against explicit hearth/candle night; correct value hierarchy using actual night painting. Remove minor ground flecks while retaining ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:11:13.693441+00:00",
+            "prompt": "Edit FIRST supplied pemric character folio. Preserve exact name/storytitle, all body/hair/face/clothing/props/layout and oil marks, EXCEPT specified repairs. Correct ONLY SUBJECT ILLUMINATION to SECOND actual tavern-at-night painting: source is a dark tavern lit by HEARTH and candle. One warm amber light from low canvasLEFT lights narrow forward/underside planes; opposing unlit face/body planes are much DARKER cool BLUE-SLATE, no broad golden daytime fill. Every portrait and body shares this low-key warm/cool split. Offwhite cuffs/shirts/aprons and whitehair should be cream in hearth light, blue-gray in shadow, not white studio fill. Keep BACKGROUND uniformly LIGHT WARM IVORY, do not make it dark. Keep broad connected opaque Canadian Group of Seven OILS across faces and garments, matte eyes. Remove any ground marks/paint patches beneath feet; no setting or floor. No changes to anatomy/pose/clothes or personal details. Landscape1536x1024, no extra figure, location, swatches, room or backdrop.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-af2fb490-465c-4b4a-865c-f30a673b2768.png",
+                "sha256": "c8c9a8504a5f44ccd52db602e993c14cbffd5802a5165b4fe422519d80b6946c",
+                "inspected": true,
+                "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+              },
+              {
+                "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+                "role": "Actual source warm hearth/candle light and cool room shadow oil",
+                "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+                "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c1af8394-5af5-45e9-83d8-6c146edf2647.png",
+            "savedPath": "stories/the-chair-at-the-back/art/characters/pemric.png",
+            "outputSha256": "5d8555d662da318e5556e2bdc66cc74a824647a84f7330814df14e4fe7202cff",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:37:11.846953+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T08:37:11.846953+00:00",
+        "sourceSha256": "56b217038eca0da369da385121cb0dc8a8d69786c715a9993484f7ecd230df17",
+        "outputSha256": "5d8555d662da318e5556e2bdc66cc74a824647a84f7330814df14e4fe7202cff",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-af2fb490-465c-4b4a-865c-f30a673b2768.png",
+            "sha256": "c8c9a8504a5f44ccd52db602e993c14cbffd5802a5165b4fe422519d80b6946c",
+            "inspected": true,
+            "role": "Actual immutable A1, preserve own identity/oils while correct night illumination and stated continuity"
+          },
+          {
+            "path": "stories/the-chair-at-the-back/art/interiors/01-tavern-hearth-chair.png",
+            "role": "Actual source warm hearth/candle light and cool room shadow oil",
+            "notes": "Inspected low-key amber practical planes with cool blue-black shadows. No room/hearth/chair/ground introduced.",
+            "sha256": "adc589f9026cd7fe545dba56b83a59018b2a5d2a99ff5978058ced741d2c48d2",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: one elderly bald-crowned identity with abundant white hair/beard/hand hair, consistent waistcoat and subtle uneven stance; enlarged bread crumb and dorsal hand studies readable.",
+          "Amber firelight confines highlights against deep cool night fill; clean ivory without floor or setting, broad matte impasto matches cast."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1e4b3d2de5f2d2d7052f8ad08f41a2ca8c5e5526512670233863d37f8eb1935c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "5d8555d662da318e5556e2bdc66cc74a824647a84f7330814df14e4fe7202cff"
+    }
+  ]
+}

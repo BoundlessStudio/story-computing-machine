@@ -1,0 +1,759 @@
+{
+  "slug": "four-million-falling",
+  "title": "Four Million Falling",
+  "source": "stories/four-million-falling/05-story.md",
+  "canon": true,
+  "mainCastEvidence": "Complete finished bundle prose read in full (not 03-draft). Inez POV engineer and Damas chief carry control crisis, Paz's substantial dialogue/recovery stakes control ethical evacuation decisions.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Reactor/cooling/evacuation desks and emergency office staff",
+      "reason": "Functional brief voices, no substantial individual characterization."
+    },
+    {
+      "name": "Medic and survivor supply-line woman",
+      "reason": "Brief practical assistance, incidental."
+    },
+    {
+      "name": "Patients, staff, technicians, responders, visitors",
+      "reason": "Collective stakes and background functions, not a single agentic main character."
+    },
+    {
+      "name": "Orison, rings and reactors",
+      "reason": "LOCKED nonliving/nonmagical/non-agentic infrastructure, not a sentient city or character."
+    },
+    {
+      "name": "Mosaic magicians/workers",
+      "reason": "Historical civic artwork, not active developed identities."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md — Inez Arco, Chief Damas, Paz Arco LOCKED",
+    "universe/rules.md — Orison power arrangement, stored-field lift rings and jettison LOCKED",
+    "universe/factions.md — Orison civic teaching and local authority LOCKED"
+  ],
+  "characters": [
+    {
+      "id": "inez-arco",
+      "name": "Inez Arco",
+      "role": "Protagonist lift-balance engineer chooses destructive rescue sequence and helps survivors after landing.",
+      "selectionEvidence": [
+        {
+          "quote": "Inez armed the overload.",
+          "line": 235,
+          "explanation": "Protagonist lift-balance engineer chooses destructive rescue sequence and helps survivors after landing."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult woman; age LOCKED unresolved, mid-thirties visual interpretation.",
+        "proportions": "Lean ordinary human build compatible with cover.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Cover-compatible dark navy work shirt/jacket with rolled cuffs over gray undershirt, dark work trousers and boots; source does not prescribe exact outfit.",
+        "equipment": [
+          "Personal phone",
+          "Work gloves (cover-compatible visual interpretation)"
+        ],
+        "scale": "Human",
+        "movement": "Technical urgency, braced stance; final left ankle cannot bear normal weight; passes water tin.",
+        "distinctiveFeatures": [
+          "Dark loose tied-back hair and light olive skin from compatible cover",
+          "Final injured LEFT ankle",
+          "No personal magic or superhuman repair power"
+        ]
+      },
+      "explicitCanon": [
+        "LOCKED Inez/Paz are sisters; engineer controls finite nonmagical lift system, no restored magic.",
+        "Source left ankle injured after impact and enters survivor supply line; no amputations/permanent scar asserted.",
+        "Age/origin/education/later career unresolved."
+      ],
+      "visualInterpretation": [
+        "Compatible cover identity retained: dark loosely tied hair, olive face, practical navy work clothes; painted not anime/photoreal.",
+        "One optional after-impact modest weight-shift pose, dirt/damp clothing; no invented splint, crutch or medical diagnosis."
+      ],
+      "states": [
+        {
+          "name": "During descent",
+          "description": "Capable urgent standing/working posture, uninjured ankle before impact."
+        },
+        {
+          "name": "After impact",
+          "description": "Weight shifted off injured left ankle, fatigued expression, no prescribed support equipment."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:inez-arco",
+        "links": [
+          "universe/characters.md — Inez Arco"
+        ],
+        "evidence": "Exact LOCKED entry from this story; broader relationships only those explicitly recorded. No cross-story body inferred."
+      },
+      "output": "stories/four-million-falling/art/characters/inez-arco.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Inez Arco\". Ordinary adult human female lift-balance engineer, no personal magic. Preserve compatible original cover face/hair/clothing: light olive skin, dark eyes, long black hair loosely tied back, expressive angular face, navy practical work shirt/jacket with rolled cuffs over gray undershirt, dark work trousers, black/brown work boots and dark work gloves. Two complete front/rear-three-quarter full views in during-descent state, confident urgency. Separate small after-impact full posture gently favours injured LEFT ankle with weight on right leg; label \"After impact\". No crutch, cast, splint or invented permanent wound. One weary face study and phone detail if space. Modest dirt and damp cloth, no sparks, storm, city, console, water or other setting. No permanent marks/tattoos. Exact age unspecified; visually adult in thirties only as interpretation.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "prepared-not-called",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Inez Arco\". Ordinary adult human female lift-balance engineer, no personal magic. Preserve compatible original cover face/hair/clothing: light olive skin, dark eyes, long black hair loosely tied back, expressive angular face, navy practical work shirt/jacket with rolled cuffs over gray undershirt, dark work trousers, black/brown work boots and dark work gloves. Two complete front/rear-three-quarter full views in during-descent state, confident urgency. Separate small after-impact full posture gently favours injured LEFT ankle with weight on right leg; label \"After impact\". No crutch, cast, splint or invented permanent wound. One weary face study and phone detail if space. Modest dirt and damp cloth, no sparks, storm, city, console, water or other setting. No permanent marks/tattoos. Exact age unspecified; visually adult in thirties only as interpretation.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+                "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+                "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+                "inspected": true,
+                "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+                "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+                "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+                "inspected": true,
+                "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+              }
+            ],
+            "reason": "Initial source/canon-grounded sheet for LOCKED character, no source mutation.",
+            "startedAt": "2026-09-23T19:39:24.007316-04:00",
+            "resumeNote": "Prior worker explicitly confirmed no image call occurred; historical started status corrected during resume."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Inez Arco\". Ordinary adult human female lift-balance engineer, no personal magic. Preserve compatible original cover face/hair/clothing: light olive skin, dark eyes, long black hair loosely tied back, expressive angular face, navy practical work shirt/jacket with rolled cuffs over gray undershirt, dark work trousers, black/brown work boots and dark work gloves. Two complete front/rear-three-quarter full views in during-descent state, confident urgency. Separate small after-impact full posture gently favours injured LEFT ankle with weight on right leg; label \"After impact\". No crutch, cast, splint or invented permanent wound. One weary face study and phone detail if space. Modest dirt and damp cloth, no sparks, storm, city, console, water or other setting. No permanent marks/tattoos. Exact age unspecified; visually adult in thirties only as interpretation.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+                "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+                "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+                "inspected": true,
+                "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+                "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+                "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+                "inspected": true,
+                "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+              }
+            ],
+            "reason": "Initial source/canon-grounded sheet for LOCKED character, no source mutation.",
+            "startedAt": "2026-09-24T02:23:19.351792+00:00",
+            "preflight": "Complete finished source and LOCKED entries reread; all selected actual references re-inspected. Prompt preserves source-specific injuries, ordinary anatomy, compatible identity, technical civilian roles and isolated ivory oil folio. No contradictions.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-8fe1d979-b9a9-47af-98d9-24c22d9e97ac.png",
+            "outputSha256": "09d0f816078c570d75b8c35eb9b483b39822b5c9fd88d1e5f361de6eb121e2a2",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:27:12.226219+00:00",
+            "generatorReview": "Actual pixels inspected: consistent compatible cover face/dark loosely tied hair, civilian navy work layers, two full before-impact poses plus separate complete after-impact pose bearing weight on right leg and sparing left ankle. Gloves and phone studies, ordinary undoubled anatomy, no magic or invented medical support. Readable exact name/title, unclipped ivory edges, no scene/swatches; matte face and fabric built with directional opaque oil masses and cool shadows."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+            "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+            "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+            "inspected": true,
+            "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:27:12.226219+00:00",
+        "sourceSha256": "106fd74bcfed3c8458ead5197a98506e3c8a570f8516da68f702aa076a27e3b8",
+        "outputSha256": "09d0f816078c570d75b8c35eb9b483b39822b5c9fd88d1e5f361de6eb121e2a2",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+            "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+            "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+            "inspected": true,
+            "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent compatible cover face/dark loosely tied hair, civilian navy work layers, two full before-impact poses plus separate complete after-impact pose bearing weight on right leg and sparing left ankle. Gloves and phone studies, ordinary undoubled anatomy, no magic or invented medical support. Readable exact name/title, unclipped ivory edges, no scene/swatches; matte face and fabric built with directional opaque oil masses and cool shadows.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "92521bb71c1666662b4867d3cae9a4b744e99b54d139440a47bcb05333a08dc0"
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/four-million-falling/title-image.jpg",
+          "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+          "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+          "inspected": true,
+          "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+          "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+          "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+          "inspected": true,
+          "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/03-control-room-after-impact.png",
+          "role": "Aftermath palette/context inspected only, never background.",
+          "sha256": "991eefbcde2631e7166ea0dcffdaab8a996007bd652b6d2a06fd9fa3cfbddaba",
+          "inspected": true,
+          "notes": "Sea-reflected cool diffuse light and diminished amber practical lighting; no flood on sheet."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Inez Arco",
+        "sourceRole": "Protagonist lift-balance engineer chooses destructive rescue sequence and helps survivors after landing.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "09d0f816078c570d75b8c35eb9b483b39822b5c9fd88d1e5f361de6eb121e2a2"
+    },
+    {
+      "id": "chief-damas",
+      "name": "Chief Damas",
+      "role": "Coprotagonist local shift chief demands evidence, authorizes jettison and keeps cooling protected.",
+      "selectionEvidence": [
+        {
+          "quote": "No lift recharge at the price of a damaged core.",
+          "line": 81,
+          "explanation": "Coprotagonist local shift chief demands evidence, authorizes jettison and keeps cooling protected."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult man; age LOCKED unresolved, around55 interpretive.",
+        "proportions": "Average broad adult build interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Plain charcoal control-room work jacket over muted beige collared shirt, dark trousers/shoes interpretation.",
+        "equipment": [],
+        "scale": "Human",
+        "movement": "Measured authoritative posture; after impact sits and later forearm bandaged.",
+        "distinctiveFeatures": [
+          "Bandaged forearm only after impact; source side unspecified",
+          "No established military rank uniform or broader government authority"
+        ]
+      },
+      "explicitCanon": [
+        "LOCKED local reactor-and-lift control shift chief, not general/national ruler.",
+        "After impact medic wraps his injured forearm; side unspecified.",
+        "Age/origin/family/later status unresolved."
+      ],
+      "visualInterpretation": [
+        "Medium-brown skin, close gray hair, broad lined face, gray mustache, about55 appearance selected non-canon.",
+        "Plain technical work clothing without badge/rank symbols; isolated forearm wrap shown only after impact. Source side unspecified; selected sheet right-side interpretation accepted, superseding prepared optional left-side choice."
+      ],
+      "states": [
+        {
+          "name": "Control shift",
+          "description": "Unbandaged normal sleeves."
+        },
+        {
+          "name": "After impact",
+          "description": "Wrapped forearm; source side unspecified, selected artwork reads as right."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "universe:chief-damas",
+        "links": [
+          "universe/characters.md — Chief Damas"
+        ],
+        "evidence": "Exact LOCKED entry from this story; broader relationships only those explicitly recorded. No cross-story body inferred."
+      },
+      "output": "stories/four-million-falling/art/characters/chief-damas.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Chief Damas\". Ordinary adult male local technical control shift chief, interpreted mid-fifties, average broad build, medium-brown skin, close gray hair and gray mustache, broad lined face. Plain charcoal work jacket, muted beige collared shirt, dark trousers and plain shoes. No military uniform, badge, medals, rank bars, gun, headset or invented organization. Two complete front/rear-side whole views with measured alert authority. One exhausted head study and a separate forearm detail with plain cloth wrap labelled \"After impact\"; choose left forearm for this interpretation, keep other full views before injury and unwrapped. No visible bleeding, no missing anatomy. All apparatus/room excluded.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "prepared-not-called",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Chief Damas\". Ordinary adult male local technical control shift chief, interpreted mid-fifties, average broad build, medium-brown skin, close gray hair and gray mustache, broad lined face. Plain charcoal work jacket, muted beige collared shirt, dark trousers and plain shoes. No military uniform, badge, medals, rank bars, gun, headset or invented organization. Two complete front/rear-side whole views with measured alert authority. One exhausted head study and a separate forearm detail with plain cloth wrap labelled \"After impact\"; choose left forearm for this interpretation, keep other full views before injury and unwrapped. No visible bleeding, no missing anatomy. All apparatus/room excluded.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+                "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+                "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+                "inspected": true,
+                "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+              }
+            ],
+            "reason": "Initial source/canon-grounded sheet for LOCKED character, no source mutation.",
+            "startedAt": "2026-09-23T19:39:25.503101-04:00",
+            "resumeNote": "Prior worker explicitly confirmed no image call occurred; historical started status corrected during resume."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Chief Damas\". Ordinary adult male local technical control shift chief, interpreted mid-fifties, average broad build, medium-brown skin, close gray hair and gray mustache, broad lined face. Plain charcoal work jacket, muted beige collared shirt, dark trousers and plain shoes. No military uniform, badge, medals, rank bars, gun, headset or invented organization. Two complete front/rear-side whole views with measured alert authority. One exhausted head study and a separate forearm detail with plain cloth wrap labelled \"After impact\"; choose left forearm for this interpretation, keep other full views before injury and unwrapped. No visible bleeding, no missing anatomy. All apparatus/room excluded.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+                "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+                "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+                "inspected": true,
+                "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+              }
+            ],
+            "reason": "Initial source/canon-grounded sheet for LOCKED character, no source mutation.",
+            "startedAt": "2026-09-24T02:23:19.361190+00:00",
+            "preflight": "Complete finished source and LOCKED entries reread; all selected actual references re-inspected. Prompt preserves source-specific injuries, ordinary anatomy, compatible identity, technical civilian roles and isolated ivory oil folio. No contradictions.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-b10a0885-7d6c-4573-9798-b5785c8c943e.png",
+            "outputSha256": "ba61b0a58d6b7a8ef09b6512512fd62c3702a56b0b4db341dd5570681d79a66f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:27:12.274300+00:00",
+            "generatorReview": "Actual pixels inspected: mature broad-faced gray-haired/gray-mustached technical chief, two complete unbandaged views, exhausted head study and isolated wrapped forearm labelled After impact. No rank/military apparatus. Source does not prescribe injury side; rendered hand reads as right, accepted as the non-canon anatomical choice instead of prepared prompt left. Normal anatomy; readable exact name/title; ivory character-only format; directional thick oils and subdued cool shadow."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:27:12.274300+00:00",
+        "sourceSha256": "106fd74bcfed3c8458ead5197a98506e3c8a570f8516da68f702aa076a27e3b8",
+        "outputSha256": "ba61b0a58d6b7a8ef09b6512512fd62c3702a56b0b4db341dd5570681d79a66f",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ],
+        "evidence": "Actual pixels inspected: mature broad-faced gray-haired/gray-mustached technical chief, two complete unbandaged views, exhausted head study and isolated wrapped forearm labelled After impact. No rank/military apparatus. Source does not prescribe injury side; rendered hand reads as right, accepted as the non-canon anatomical choice instead of prepared prompt left. Normal anatomy; readable exact name/title; ivory character-only format; directional thick oils and subdued cool shadow.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "043c3766c38de268a02c6a46c455b30d81f851cdd67168b795ebe6d831504095"
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/four-million-falling/title-image.jpg",
+          "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+          "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+          "inspected": true,
+          "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+          "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+          "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+          "inspected": true,
+          "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/03-control-room-after-impact.png",
+          "role": "Aftermath palette/context inspected only, never background.",
+          "sha256": "991eefbcde2631e7166ea0dcffdaab8a996007bd652b6d2a06fd9fa3cfbddaba",
+          "inspected": true,
+          "notes": "Sea-reflected cool diffuse light and diminished amber practical lighting; no flood on sheet."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Chief Damas",
+        "sourceRole": "Coprotagonist local shift chief demands evidence, authorizes jettison and keeps cooling protected.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "ba61b0a58d6b7a8ef09b6512512fd62c3702a56b0b4db341dd5570681d79a66f"
+    },
+    {
+      "id": "paz-arco",
+      "name": "Paz Arco",
+      "role": "Substantial supporting moral counterweight: sister coordinating clinic group's evacuation demands route shared with whole block.",
+      "selectionEvidence": [
+        {
+          "quote": "Then broadcast K to the whole clinic block. Not just us.",
+          "line": 183,
+          "explanation": "Substantial supporting moral counterweight: sister coordinating clinic group's evacuation demands route shared with whole block."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult woman, age LOCKED unresolved; early thirties visual interpretation.",
+        "proportions": "Ordinary adult, similarly built family resemblance to Inez.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Plain sage cardigan, cream blouse, dark trousers and practical shoes, entirely restrained interpretation.",
+        "equipment": [
+          "Phone used to communicate evacuation routes"
+        ],
+        "scale": "Human",
+        "movement": "Practical focused direction and urgent phone conversation.",
+        "distinctiveFeatures": [
+          "Inez's sister",
+          "No explicit appearance, uniform, medical role or physical injury"
+        ]
+      },
+      "explicitCanon": [
+        "LOCKED sister of Inez, participant in clinic evacuation; occupation explicitly unresolved.",
+        "Arrives with partial group at Central School, final fate of missing patients/staff unresolved.",
+        "No doctor/nurse role, medical qualifications or staff uniform established."
+      ],
+      "visualInterpretation": [
+        "Shared olive skin/dark eyes and related facial planes to Inez, black hair tied into a low practical braid.",
+        "Civilian everyday clothing, no scrubs, stethoscope, clinic badge or magic; actual age uncertain.",
+        "Selected artwork includes an unmarked everyday brown shoulder bag as non-canon clothing interpretation, no medical equipment."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "universe:paz-arco",
+        "links": [
+          "universe/characters.md — Paz Arco"
+        ],
+        "evidence": "Exact LOCKED entry from this story; broader relationships only those explicitly recorded. No cross-story body inferred."
+      },
+      "output": "stories/four-million-falling/art/characters/paz-arco.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Paz Arco\". Ordinary adult human woman, Inez's sister, civilian helping a clinic group evacuate; occupation and exact age are unresolved. Interpret in early thirties with light olive skin, dark eyes, related facial planes to Inez but a distinctly softer and broader face, dark brown hair gathered in a low practical braid. A plain muted sage cardigan over cream blouse, dark civilian trousers and practical closed shoes. Two complete front/rear-three-quarter full body views with decisive practical posture, one urgent but composed face study and one phone-hand detail. Ordinary human two arms two legs. No scrubs, stethoscope, clinic badge, staff uniform or implication of medical qualifications. No wounds, magic, rescue equipment, engineering uniform or gloves. Family resemblance from cover only, no copied identity. Warm diffuse cream daylight and muted bluegray shadows, matte directional brushwork across face and clothing. Exact subtitle \"Four Million Falling\".",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+            "role": "Inez cover identity as family resemblance only for her sister Paz; no identical face, clothes, storm light or location.",
+            "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+            "inspected": true,
+            "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Paper is uniformly pale ivory at EVERY edge/corner, never a dark gradient. Print no production parenthetical such as optional or one; labels must describe only story-supported facts. Do not invent serial codes or lettering on props. Exact subtitle \"Four Million Falling\". First two references STYLE only. If cover is present: Inez compatible identity only; for Paz it provides FAMILY RESEMBLANCE only, not duplicate identity/outfit. Last painting is LIGHT only: daylit sea-facing control spaces, restrained diffuse cream illumination and cool bluegray connected shadow; no dramatic storm/rimlight, no location. Exact heading \"Paz Arco\". Ordinary adult human woman, Inez's sister, civilian helping a clinic group evacuate; occupation and exact age are unresolved. Interpret in early thirties with light olive skin, dark eyes, related facial planes to Inez but a distinctly softer and broader face, dark brown hair gathered in a low practical braid. A plain muted sage cardigan over cream blouse, dark civilian trousers and practical closed shoes. Two complete front/rear-three-quarter full body views with decisive practical posture, one urgent but composed face study and one phone-hand detail. Ordinary human two arms two legs. No scrubs, stethoscope, clinic badge, staff uniform or implication of medical qualifications. No wounds, magic, rescue equipment, engineering uniform or gloves. Family resemblance from cover only, no copied identity. Warm diffuse cream daylight and muted bluegray shadows, matte directional brushwork across face and clothing. Exact subtitle \"Four Million Falling\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+                "role": "Inez cover identity as family resemblance only for her sister Paz; no identical face, clothes, storm light or location.",
+                "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+                "inspected": true,
+                "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+                "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+                "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+                "inspected": true,
+                "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+              }
+            ],
+            "reason": "Initial source and LOCKED identity-grounded civilian sister folio.",
+            "startedAt": "2026-09-24T02:23:19.369019+00:00",
+            "preflight": "Complete source and LOCKED Paz entry read; actual style/cover/light refs inspected; ordinary civilian interpretation explicitly separated from unspecified medical role. Feasible two full views and studies on ivory.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-053d80da-cf4b-45ba-8483-085b2a148ef7.png",
+            "outputSha256": "7ec047aa2cd6e010edcd8b62a45313c123ce98ff2b610bc8c51b297e779f4b7f",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T02:27:12.294177+00:00",
+            "generatorReview": "Actual pixels inspected: distinct softer civilian sister identity with related olive features, low dark braid, sage cardigan/cream blouse, practical trousers/shoes, unmarked everyday shoulder bag. Two unclipped consistent body views, urgent composed head and phone hands; no scrubs, medical badge, magic or wounds. Exact name/title readable. Plain ivory, no location/swatches; connected matte oil planes, restrained sea-facing diffuse light."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:27:12.294177+00:00",
+        "sourceSha256": "106fd74bcfed3c8458ead5197a98506e3c8a570f8516da68f702aa076a27e3b8",
+        "outputSha256": "7ec047aa2cd6e010edcd8b62a45313c123ce98ff2b610bc8c51b297e779f4b7f",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/title-image.jpg",
+            "role": "Inez cover identity as family resemblance only for her sister Paz; no identical face, clothes, storm light or location.",
+            "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+            "inspected": true,
+            "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+            "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+            "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+            "inspected": true,
+            "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+          }
+        ],
+        "evidence": "Actual pixels inspected: distinct softer civilian sister identity with related olive features, low dark braid, sage cardigan/cream blouse, practical trousers/shoes, unmarked everyday shoulder bag. Two unclipped consistent body views, urgent composed head and phone hands; no scrubs, medical badge, magic or wounds. Exact name/title readable. Plain ivory, no location/swatches; connected matte oil planes, restrained sea-facing diffuse light.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "88f37eacdec976851d406d101d7d091b04020683daf66b1d93c5926165af740c"
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/four-million-falling/title-image.jpg",
+          "role": "Inez compatible face/hair/clothes only, not dramatic lighting or impossible scene view.",
+          "sha256": "3ec78f63457dc5adbf9f4d369fae2bff17a8cfa39ddef97f665dc193469c157b",
+          "inspected": true,
+          "notes": "Dark hair tied loosely, olive young-adult face, navy cuffed work layer, gloves; source governs injury and no personal magic."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
+          "role": "Daylit sea-facing workroom illumination only; no location or equipment.",
+          "sha256": "ce6951674796fe6e2784a13eeadd3546b6e475431adc90d89b13cde282cede05",
+          "inspected": true,
+          "notes": "Muted cream broad light with blue-gray connected shadows; physical matte metal/cloth handling."
+        },
+        {
+          "path": "stories/four-million-falling/art/interiors/03-control-room-after-impact.png",
+          "role": "Aftermath palette/context inspected only, never background.",
+          "sha256": "991eefbcde2631e7166ea0dcffdaab8a996007bd652b6d2a06fd9fa3cfbddaba",
+          "inspected": true,
+          "notes": "Sea-reflected cool diffuse light and diminished amber practical lighting; no flood on sheet."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Paz Arco",
+        "sourceRole": "Substantial supporting moral counterweight: sister coordinating clinic group's evacuation demands route shared with whole block.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "7ec047aa2cd6e010edcd8b62a45313c123ce98ff2b610bc8c51b297e779f4b7f"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "106fd74bcfed3c8458ead5197a98506e3c8a570f8516da68f702aa076a27e3b8",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}

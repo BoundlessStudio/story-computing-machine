@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-first-people",
+  "title": "The First People",
+  "source": "stories/the-first-people/story.md",
+  "sourceSha256": "09d941be221c548f232b9610bfa7e40bc78266ec74cda80962e803432652a06c",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Heshi and Martin are the only named, present, individually acting main cast. Their communication, reciprocal consent and choices sustain the entire first-contact story.",
+  "excludedMinorCharacters": [
+    "The pursuer speaks through a broadcast and an enormous black vessel geometry is seen behind clouds; prose establishes neither an individual living operator nor autonomous living vessel. Excluded as no identified character body, not converted into an invented person or ship-being.",
+    "Offstage panel respondents, people in endangered shelters and the collective original humanity remain groups rather than substantial identified present individuals. Earth is a place, not a living character."
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md hierarchy; universe and frozen name-memory scan found no established Heshi/Martin identities. Earth remains the LOCKED era-bound world-name without literal-real-Earth or civil-date claim."
+  ],
+  "characters": [
+    {
+      "id": "heshi",
+      "name": "Heshi",
+      "role": "Alien courier and census keeper",
+      "naming": {
+        "sourceName": "Heshi",
+        "sourceRole": "courier",
+        "provenance": "Exact prose name; Ash is Martin's immediately corrected mishearing, no separate identity"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "one hand clamped over the spindle at her breast",
+          "explanation": "Personal census spindle central to agency."
+        },
+        {
+          "quote": "She dragged the spindle under her coat",
+          "explanation": "Source coat."
+        },
+        {
+          "quote": "Heshi's throat membrane tightened.",
+          "explanation": "Only explicit distinctive nonhuman anatomical structure; remainder interpretation."
+        }
+      ],
+      "form": "Living nonhuman female courier; species unnamed",
+      "storyAppearance": {
+        "anatomy": "Alien woman with hands/fingers, throat membrane, teeth, breast/chest and ribs; coat and cracked census spindle at breast. Injured by crash, pain and blood tasted behind teeth, no source-specified visible gore or limb loss.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art-only visual interpretation: lean upright adult nonhuman, two arms/two legs, five long digits per hand, four-toed boot shapes concealed, smooth hairless elongated narrow head, subtle cheek ridges, matte dark olive eyes, muted violet-gray skin, fine pale pleated throat membrane. No species identity or canon anatomy created. Practical dark teal long courier coat over charcoal high-waist tunic/trousers, slate ankle boots. Thin metal collar translator clip chosen form.",
+        "markings": "Alien woman with hands/fingers, throat membrane, teeth, breast/chest and ribs; coat and cracked census spindle at breast. Injured by crash, pain and blood tasted behind teeth, no source-specified visible gore or limb loss.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art-only visual interpretation: lean upright adult nonhuman, two arms/two legs, five long digits per hand, four-toed boot shapes concealed, smooth hairless elongated narrow head, subtle cheek ridges, matte dark olive eyes, muted violet-gray skin, fine pale pleated throat membrane. No species identity or canon anatomy created. Practical dark teal long courier coat over charcoal high-waist tunic/trousers, slate ankle boots. Thin metal collar translator clip chosen form.",
+        "equipment": "Main pre-root-burn kitchen night, intact limbs, sore hunched ribs and damp coat. Holds cracked metal handspan census cylinder at breast; only pinpoints at faceplate, no projected room. Two expressions wary formality and urgent resolve; enlarged throat membrane and own personal cracked spindle. No foil wrap state because Heshi refused sheet outside.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art-only visual interpretation: lean upright adult nonhuman, two arms/two legs, five long digits per hand, four-toed boot shapes concealed, smooth hairless elongated narrow head, subtle cheek ridges, matte dark olive eyes, muted violet-gray skin, fine pale pleated throat membrane. No species identity or canon anatomy created. Practical dark teal long courier coat over charcoal high-waist tunic/trousers, slate ankle boots. Thin metal collar translator clip chosen form."
+      },
+      "explicitCanon": [
+        "Alien woman with hands/fingers, throat membrane, teeth, breast/chest and ribs; coat and cracked census spindle at breast. Injured by crash, pain and blood tasted behind teeth, no source-specified visible gore or limb loss."
+      ],
+      "visualInterpretation": [
+        "Art-only visual interpretation: lean upright adult nonhuman, two arms/two legs, five long digits per hand, four-toed boot shapes concealed, smooth hairless elongated narrow head, subtle cheek ridges, matte dark olive eyes, muted violet-gray skin, fine pale pleated throat membrane. No species identity or canon anatomy created. Practical dark teal long courier coat over charcoal high-waist tunic/trousers, slate ankle boots. Thin metal collar translator clip chosen form.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main pre-root-burn kitchen night, intact limbs, sore hunched ribs and damp coat. Holds cracked metal handspan census cylinder at breast; only pinpoints at faceplate, no projected room. Two expressions wary formality and urgent resolve; enlarged throat membrane and own personal cracked spindle. No foil wrap state because Heshi refused sheet outside."
+        }
+      ],
+      "lighting": {
+        "moment": "Night inside coastal kitchen before route-root burn",
+        "motivation": "Stove warmth against cold rain/window fill; no setting depicted"
+      },
+      "recurrence": {
+        "identityKey": "heshi-the-first-people",
+        "links": [],
+        "evidence": "No prior shared identity; no imposed species kinship."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+          "role": "Actual inspected night lighting and personal spindle geometry",
+          "notes": "Warm stove against cold blue rainy window; no room/furniture in character sheet.",
+          "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio and heavy oil handling only",
+          "notes": "Do not borrow human identity or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-people/title-image.jpg",
+          "role": "Inspected nonfigurative source cover, subordinate dark maritime palette",
+          "notes": "No identity information; no landscape on sheet.",
+          "sha256": "db81c658f444325771be9c3c2456ff988c494b295889f849c9b56de1dc933dce",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-first-people/art/characters/heshi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit ONLY unwanted satchel and its diagonal shoulder strap on Heshi / The First People sheet. Remove the brown leather hip BAG and its cross-body strap from ALL THREE full-body views and any fragment in heads/detail. Restore the SAME uninterrupted dark teal courier coat underneath. Retain coat's ordinary central belt if already present, translator clip, personal cracked census spindle, every hand/finger, face, throat membrane, body proportions, exact text, NIGHT amber rim/cool dark fill, heavy matte Canadian Group of Seven oils and clean ivory background. Do not add replacement bag, pouch, gear, new scar or buckle. Every other element stays unchanged.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fe64c45d-4823-44b6-8b21-ac3e6fd04cea.png",
+            "sha256": "7d44d9bdd0764484f8d87aa28e7aa2167f90faa22734e077779fc5f248e3c93e",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:50:01.040487+00:00",
+            "prompt": "Use case illustration-story. Create ONE landscape1536x1024 reference folio on clean light warm IVORY with readable exact large serif name and subtitle 'The First People'. ONE living identity per sheet, three full-body views Front / Right side (faces canvasRIGHT) / Back, two expressive heads and specified personal detail. Render Canadian Group of Seven HEAVY OILS: broad connected opaque value/colour masses, directional bristle strokes, impasto edges; face and eyes matte, as visibly brushed as clothes. No glossy CGI, photorealistic skin or smooth digital facial islands. First reference establishes NIGHT: small amber stove highlights from canvasLEFT and substantial dark cool blue-charcoal shadows, no broad daylight fill. Background remains ivory. Second reference paint handling/folio ONLY, no identity or light copying. No environment, room, ship, landscape, floor, ground patches, swatches or other person. Same anatomy and clothes across views. Personal object allowed isolated with character; no apparatus/scene.\nHeading 'Heshi'.\nHeshi: adult female ALIEN courier, ordinary living body not human/not robot. Source leaves most anatomy open; adopt consistent art interpretation: LEAN upright two-arms/two-legs, each hand FIVE long graceful fingers, smooth HAIRLESS elongated narrow head, subtle cheek ridges, matte dark olive eyes, muted VIOLET-GRAY skin. Fine pale vertically pleated THROAT MEMBRANE clearly visible between collar edges; no horns, wings, tentacles or extra limbs. Dark TEAL long practical courier coat damp at hems, charcoal high-waist tunic and trousers, slate ankle boots; small plain metal translator collar clip. Slight protective rib-pain posture, no gore or missing parts. Cracked handspan metal CENSUS SPINDLE carried carefully at breast, cylindrical with cracked small faceplate and a few tiny amber-blue data points; no huge hologram, no floating magic. Front / Right side facingRIGHT / Back consistent humanoid-alien form. Heads 'Wary formality' / 'Urgent resolve'; enlarged throat-membrane study plus isolated same spindle. NIGHT limited amber highlights from LEFT, dominant cool blue shadows. No scenery. No thermal wrap: she initially refuses it.",
+            "references": [
+              {
+                "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+                "role": "Actual inspected night lighting and personal spindle geometry",
+                "notes": "Warm stove against cold blue rainy window; no room/furniture in character sheet.",
+                "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio and heavy oil handling only",
+                "notes": "Do not borrow human identity or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fe64c45d-4823-44b6-8b21-ac3e6fd04cea.png",
+            "outputSha256": "7d44d9bdd0764484f8d87aa28e7aa2167f90faa22734e077779fc5f248e3c93e",
+            "review": "Actual A1 identity, adult alien anatomy, throat membrane, spindle, night light and oil treatment pass. Unrequested courier satchel/diagonal strap introduced and swaps side in back; remove this extraneous costume addition entirely."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:59:00.827242+00:00",
+            "prompt": "Edit ONLY unwanted satchel and its diagonal shoulder strap on Heshi / The First People sheet. Remove the brown leather hip BAG and its cross-body strap from ALL THREE full-body views and any fragment in heads/detail. Restore the SAME uninterrupted dark teal courier coat underneath. Retain coat's ordinary central belt if already present, translator clip, personal cracked census spindle, every hand/finger, face, throat membrane, body proportions, exact text, NIGHT amber rim/cool dark fill, heavy matte Canadian Group of Seven oils and clean ivory background. Do not add replacement bag, pouch, gear, new scar or buckle. Every other element stays unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fe64c45d-4823-44b6-8b21-ac3e6fd04cea.png",
+                "sha256": "7d44d9bdd0764484f8d87aa28e7aa2167f90faa22734e077779fc5f248e3c93e",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-4cf978fa-f016-48dd-b04f-de0925aa5dd4.png",
+            "savedPath": "stories/the-first-people/art/characters/heshi.png",
+            "outputSha256": "ac67719ffa5b2ab17909c2c48892c5af218e910398b915892f1dd388cbd665da",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:04:21.070660+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:04:21.070660+00:00",
+        "sourceSha256": "09d941be221c548f232b9610bfa7e40bc78266ec74cda80962e803432652a06c",
+        "outputSha256": "ac67719ffa5b2ab17909c2c48892c5af218e910398b915892f1dd388cbd665da",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fe64c45d-4823-44b6-8b21-ac3e6fd04cea.png",
+            "sha256": "7d44d9bdd0764484f8d87aa28e7aa2167f90faa22734e077779fc5f248e3c93e",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2 preserves one consistent adult nonhuman interpretation with explicit pleated throat membrane, violet-gray hairless head, dark teal coat and handspan cracked spindle; unrequested inconsistent satchel removed in all views.",
+          "Wary/urgent expressions, main anatomy and fingers credible, exact readable headings, narrow amber nocturnal rim/cool shadow, matte opaque oils, no setting on ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "abd5bf3270f35fe4bb1ce7155f4a9ed66299d353abc70cfa9dfb42fd110f1890"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "ac67719ffa5b2ab17909c2c48892c5af218e910398b915892f1dd388cbd665da"
+    },
+    {
+      "id": "martin",
+      "name": "Martin",
+      "role": "Human night listener and first-contact counterpart",
+      "naming": {
+        "sourceName": "Martin",
+        "sourceRole": "night listener",
+        "provenance": "Exact prose name, no surname invented"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "yellow rain coat over loose sleeping clothes",
+          "explanation": "Explicit first-present clothing."
+        },
+        {
+          "quote": "two arms, blunt face, bare head gone silver at the sides",
+          "explanation": "Explicit ordinary human appearance."
+        },
+        {
+          "quote": "The skin of his palm was blistered in the root's pattern.",
+          "explanation": "Later irreversible hand injury; side unspecified."
+        }
+      ],
+      "form": "Ordinary human adult man",
+      "storyAppearance": {
+        "anatomy": "Human man, blunt face, bare head silver at sides, yellow raincoat over loose sleeping clothes; portable lamp. Later palm blistered in root pattern and wrapped with silver sheet.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Art interpretation age58, medium height solid build, fair warm freckled weathered skin, broad blunt face, short brown hair silver at sides, gray-green eyes, clean shaven. Yellow hooded raincoat with hood DOWN over loose blue-gray pajama shirt/trousers, simple dark rubber ankle boots. Later injured palm interpreted LEFT; no side claimed as canon.",
+        "markings": "Human man, blunt face, bare head silver at sides, yellow raincoat over loose sleeping clothes; portable lamp. Later palm blistered in root pattern and wrapped with silver sheet.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Art interpretation age58, medium height solid build, fair warm freckled weathered skin, broad blunt face, short brown hair silver at sides, gray-green eyes, clean shaven. Yellow hooded raincoat with hood DOWN over loose blue-gray pajama shirt/trousers, simple dark rubber ankle boots. Later injured palm interpreted LEFT; no side claimed as canon.",
+        "equipment": "Main pre-burn night kitchen coat and intact hands, same ordinary personal lamp; concerned dry humor and stripped-humor expressions. Enlarged separate LEFT hand after burn mostly wrapped in silver thermal foil, small palm opening with non-graphic pale red root branching; no socket, wall or supernatural hand glow.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Art interpretation age58, medium height solid build, fair warm freckled weathered skin, broad blunt face, short brown hair silver at sides, gray-green eyes, clean shaven. Yellow hooded raincoat with hood DOWN over loose blue-gray pajama shirt/trousers, simple dark rubber ankle boots. Later injured palm interpreted LEFT; no side claimed as canon."
+      },
+      "explicitCanon": [
+        "Human man, blunt face, bare head silver at sides, yellow raincoat over loose sleeping clothes; portable lamp. Later palm blistered in root pattern and wrapped with silver sheet."
+      ],
+      "visualInterpretation": [
+        "Art interpretation age58, medium height solid build, fair warm freckled weathered skin, broad blunt face, short brown hair silver at sides, gray-green eyes, clean shaven. Yellow hooded raincoat with hood DOWN over loose blue-gray pajama shirt/trousers, simple dark rubber ankle boots. Later injured palm interpreted LEFT; no side claimed as canon.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon.",
+        "Actual selected after-burn detail shows LEFT palm (fingers upward/diagonal, thumb viewerLEFT). Source never fixes burned-hand side; chosen visible interpretation is LEFT. Historical prompts requesting RIGHT preserved verbatim; no need to regenerate source-faithful anatomy."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main pre-burn night kitchen coat and intact hands, same ordinary personal lamp; concerned dry humor and stripped-humor expressions. Enlarged separate LEFT hand after burn mostly wrapped in silver thermal foil, small palm opening with non-graphic pale red root branching; no socket, wall or supernatural hand glow."
+        }
+      ],
+      "lighting": {
+        "moment": "Main night kitchen before burn; small later wrapped-hand detail",
+        "motivation": "Limited amber stove highlight with substantial blue charcoal night shadow; later detail same restrained display lighting"
+      },
+      "recurrence": {
+        "identityKey": "martin-the-first-people",
+        "links": [],
+        "evidence": "No matching shared identity; not linked to unrelated human names."
+      },
+      "references": [
+        {
+          "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+          "role": "Actual inspected night lighting and personal spindle geometry",
+          "notes": "Warm stove against cold blue rainy window; no room/furniture in character sheet.",
+          "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Accepted ivory folio and heavy oil handling only",
+          "notes": "Do not borrow human identity or daylight.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-first-people/title-image.jpg",
+          "role": "Inspected nonfigurative source cover, subordinate dark maritime palette",
+          "notes": "No identity information; no landscape on sheet.",
+          "sha256": "db81c658f444325771be9c3c2456ff988c494b295889f849c9b56de1dc933dce",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-first-people/art/characters/martin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit LIGHTING ONLY on Martin / The First People sheet. Preserve exact man, age, face/hair, yellow raincoat, all clothing, lantern, all three full bodies, two heads, correct RIGHT palm burn/foil detail, titles/layout and clean light ivory background. Match second reference's nocturnal stove amber AGAINST deep cold blue darkness. Lower broad exposure on figure and head shadow planes; most coat becomes deep muted mustard/ochre and cool blue-gray folds, not bright sunny gold. Restrict warm bright highlights to small canvasLEFT-facing planes/lamp-adjacent edges; substantial cameraRIGHT halves of faces and bodies in dark COOL slate shadow. Keep face legible, coat unmistakably yellow, no flatblack silhouettes. Preserve thick matte Canadian Group of Seven oil strokes and all geometry. No background darkening, setting, floor, swatches, extra gear or people.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-65ec4896-3ce3-4c92-8c71-c9d3396d8168.png",
+            "sha256": "88acbce78d94621c57f2fdfa952a89e7ba23d6f842150c4b680d472002c752ba",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+            "role": "Actual night stove/cold rainy-window light anchor",
+            "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:50:01.040487+00:00",
+            "prompt": "Use case illustration-story. Create ONE landscape1536x1024 reference folio on clean light warm IVORY with readable exact large serif name and subtitle 'The First People'. ONE living identity per sheet, three full-body views Front / Right side (faces canvasRIGHT) / Back, two expressive heads and specified personal detail. Render Canadian Group of Seven HEAVY OILS: broad connected opaque value/colour masses, directional bristle strokes, impasto edges; face and eyes matte, as visibly brushed as clothes. No glossy CGI, photorealistic skin or smooth digital facial islands. First reference establishes NIGHT: small amber stove highlights from canvasLEFT and substantial dark cool blue-charcoal shadows, no broad daylight fill. Background remains ivory. Second reference paint handling/folio ONLY, no identity or light copying. No environment, room, ship, landscape, floor, ground patches, swatches or other person. Same anatomy and clothes across views. Personal object allowed isolated with character; no apparatus/scene.\nHeading 'Martin'.\nMartin, HUMAN adult man58 art age, medium height solid practical build, blunt broad face, warm fair weathered/freckled skin, clean shaven, short brown hair gone SILVER AT BOTH SIDES, bare head. Gray-green matte eyes. YELLOW RAINCOAT, hood DOWN, worn open over LOOSE blue-gray sleeping shirt and matching pajama trousers; dark rubber ankle boots. Main figures BEFORE hand burn, hands ordinary intact. One ordinary small handled metal LAMP as personal gear held neutrally, no room. Three full-body Front / Right side facingRIGHT / Back. Head expressions 'Dry concern' and 'Humor gone'. Small isolated later study labelled 'After the burn': his RIGHT hand mostly wrapped in rumpled SILVER THERMAL FOIL with a modest palm opening showing restrained red branching ROOT-PATTERN blister, no gore; depict a credible RIGHT human hand, no extra fingers, no glowing power, no machine socket. Correct chirality, wrist below with palm toward viewer and fingers angled toward canvas upper right; thumb and finger joints anatomically coherent. Keep blunt face and silver temples constant. NIGHT deep cool blue-charcoal shadows with narrow stove amber from LEFT; ivory background.",
+            "references": [
+              {
+                "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+                "role": "Actual inspected night lighting and personal spindle geometry",
+                "notes": "Warm stove against cold blue rainy window; no room/furniture in character sheet.",
+                "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Accepted ivory folio and heavy oil handling only",
+                "notes": "Do not borrow human identity or daylight.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-65ec4896-3ce3-4c92-8c71-c9d3396d8168.png",
+            "outputSha256": "88acbce78d94621c57f2fdfa952a89e7ba23d6f842150c4b680d472002c752ba",
+            "review": "Actual A1 identity/yellow raincoat/pajamas/silver temples/right-palm branching burn/foil pass. Warm illumination spans nearly all coat and faces; source night requires less broad fill.",
+            "reviewCorrection": "Hand-side description in original review corrected: actual selected detail is LEFT palm. Source side unspecified; metadata art interpretation follows actual anatomy."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T08:59:00.827242+00:00",
+            "prompt": "Edit LIGHTING ONLY on Martin / The First People sheet. Preserve exact man, age, face/hair, yellow raincoat, all clothing, lantern, all three full bodies, two heads, correct RIGHT palm burn/foil detail, titles/layout and clean light ivory background. Match second reference's nocturnal stove amber AGAINST deep cold blue darkness. Lower broad exposure on figure and head shadow planes; most coat becomes deep muted mustard/ochre and cool blue-gray folds, not bright sunny gold. Restrict warm bright highlights to small canvasLEFT-facing planes/lamp-adjacent edges; substantial cameraRIGHT halves of faces and bodies in dark COOL slate shadow. Keep face legible, coat unmistakably yellow, no flatblack silhouettes. Preserve thick matte Canadian Group of Seven oil strokes and all geometry. No background darkening, setting, floor, swatches, extra gear or people.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-65ec4896-3ce3-4c92-8c71-c9d3396d8168.png",
+                "sha256": "88acbce78d94621c57f2fdfa952a89e7ba23d6f842150c4b680d472002c752ba",
+                "inspected": true,
+                "role": "Actual inspected immutable prior attempt; targeted correction only"
+              },
+              {
+                "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+                "role": "Actual night stove/cold rainy-window light anchor",
+                "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-3169a88d-ba86-4f87-872d-e5641d198d25.png",
+            "savedPath": "stories/the-first-people/art/characters/martin.png",
+            "outputSha256": "50f8febc8eecd7d9f866fa14c4dcd01432e5603604e5e48c785908b1758a3c97",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:04:21.070660+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T09:45:24.520089+00:00",
+        "sourceSha256": "09d941be221c548f232b9610bfa7e40bc78266ec74cda80962e803432652a06c",
+        "outputSha256": "50f8febc8eecd7d9f866fa14c4dcd01432e5603604e5e48c785908b1758a3c97",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-65ec4896-3ce3-4c92-8c71-c9d3396d8168.png",
+            "sha256": "88acbce78d94621c57f2fdfa952a89e7ba23d6f842150c4b680d472002c752ba",
+            "inspected": true,
+            "role": "Actual inspected immutable prior attempt; targeted correction only"
+          },
+          {
+            "path": "stories/the-first-people/art/interiors/01-coastal-kitchen-in-rain.png",
+            "role": "Actual night stove/cold rainy-window light anchor",
+            "sha256": "5f2702736d203e002b35d1503516db89681951a933cc2705ff2aab41acaf182a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual A2 after-burn study is a coherent LEFT palm, five digits, thumb viewerLEFT with wrist below; silver foil and root-shaped mild blister preserve source. Side is unspecified in prose and recorded LEFT as visual interpretation; historical RIGHT prompt untouched.",
+          "Main pre-burn hands uninjured, blunt face/silver temples/yellow coat/pajamas/lamp/night cool shadow and small amber planes remain stable."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "c8e4f2737c801d644eb1825e5ecb73cd4f4d5289be4fee79b2c64a881a15e57a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "50f8febc8eecd7d9f866fa14c4dcd01432e5603604e5e48c785908b1758a3c97"
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-gutter-school",
+  "title": "The Gutter School",
+  "source": "stories/the-gutter-school/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Fennit drives all rounds; Peltrude and Hadrum adapt across scenes; red-sleeved first opponent sustains a full consequential bout; caller repeatedly controls entry, equipment, outcomes and prize.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Four marshals",
+      "reason": "Collective safety role, no individually sustained identity."
+    },
+    {
+      "name": "Bird mage, other contestants, bookseller, older street boys, crowd",
+      "reason": "Brief collective or recalled context; no main individuated role."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover is subordinate character visual evidence; final prose controls LEFT mitten, RIGHT sleeve opening, breastbone red square and tied-back coat fronts.",
+    "Source Fennit is fifteen; gender not explicit, retain androgynous teen appearance. No sexualization or adult aging.",
+    "All magic requires living agency; scoring vest and purse are ordinary objects. No magic on flesh, elemental aura or autonomous enchanted equipment.",
+    "Final forearm exits RIGHT sleeve underside from wrist to elbow; right upper sleeve remains on arm and hanging cuff stays attached to coat. No extra arm, severed sleeve or torn target vest."
+  ],
+  "characters": [
+    {
+      "id": "fennit",
+      "name": "Fennit",
+      "role": "Fifteen-year-old street entrant",
+      "selectionEvidence": [
+        {
+          "quote": "Fifteen.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "She folded the coat's fronts back and tied them behind me, leaving the patch entirely exposed.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "I took off my left mitten.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "spilling my bare forearm through the underside of the sleeve",
+          "explanation": "Final source role/appearance evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Androgynous human teen",
+        "lifeStage": "15",
+        "proportions": "Unspecified lean street-worn interpretation",
+        "markings": "Dust; fatigued LEFT shoulder/hand later, no visible wound established",
+        "materials": "Wool coat, patched boots, vest",
+        "clothing": "White vest RED square breastbone over sleeveless shirt and under tied-back coat",
+        "equipment": "LEFT mitten early; bare RIGHT scoring hand; repaired boot cord; yellow silk prize purse late",
+        "scale": "Teen, not adult",
+        "movement": "Quick crouching/turning; final tired victory",
+        "distinctiveFeatures": "RIGHT sleeve seam re-unpicked in final"
+      },
+      "explicitCanon": [
+        "RIGHT underarm seam cuff-to-elbow repaired early in enormous stitches, opened again in final.",
+        "LEFT mitten worn QF/SF, removed before final; final BOTH bare hands.",
+        "White vest has ONE red square over breastbone, always unobscured; coat fronts tied behind.",
+        "Boot sole breaks after RIGHT planted pivot; cord ties loose sole before final. Choosing RIGHT boot consistent inference.",
+        "Prize yellow silk purse contains thirty silvers; coins may remain hidden, no invented count display."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible light freckled skin, short tousled dark-brown hair, brown eyes, slim angular youthful face.",
+        "Teal patched wool coat, brown patched trousers, worn brown lace boots and taupe LEFT mitten; sleeveless cream shirt under white scoring vest.",
+        "Two complete frontal/threequarter states: early stance with left mitten, sewn RIGHT underseam/intact boot; final with empty RIGHT forearm sleeve hanging and bare forearm emerging through underside, both hands bare, cord under RIGHT boot sole.",
+        "Small smiling portrait and seam diagram only if readable; no tournament scenery."
+      ],
+      "states": [
+        {
+          "name": "Before the bouts",
+          "description": "Left mitten, bare right hand, repaired right underseam, coat tied back and red target exposed."
+        },
+        {
+          "name": "After the final",
+          "description": "Both hands bare, right forearm outside split underside, left coat arm retained, right boot sole cord-tied; yellow purse held or visible lump under vest."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-gutter-school:fennit",
+        "links": [],
+        "evidence": "No shared-universe identity established; story-specific character."
+      },
+      "references": [
+        {
+          "path": "stories/the-gutter-school/title-image.jpg",
+          "role": "Fennit identity/clothing subordinate visual anchor; repaint anime cover as broad oil",
+          "notes": "Actual pixels: fifteen-year-old fair freckled teen, tousled dark-brown hair, teal patched wool, white/red scoring vest, left mitten and brown patched clothes. Cover crouch/ground excluded.",
+          "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+          "role": "Broad oil paint and outdoor afternoon light only",
+          "notes": "Actual painted blue skylight/warm afternoon planes; no boards/town/flags/scenery copied.",
+          "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Fennit"
+      },
+      "output": "stories/the-gutter-school/art/characters/fennit.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:14:48.537172+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nHeading Fennit, subtitle The Gutter School. The SAME androgynous FIFTEEN-YEAR-OLD teen in every study: light freckled skin, slim angular youthful face, short tousled dark brown hair, brown eyes, lean modest teen build. Preserve cover identity but transform ALL anatomy to broad opaque oil painted masses, not anime. Teal patched ragged WOOL coat, brown patched trousers, worn brown boots. Crucial garment construction: a WHITE tournament vest over a sleeveless shirt, ONE RED SQUARE exactly centered over breastbone. Both coat fronts folded back and TIED BEHIND the torso, so no coat lapel ever covers the red target. Long upper coat sleeves stay on shoulders in both states.\nLayout TWO complete bodies at left and center plus modest grinning portrait upper right and small costume seam detail lower right. Left body caption Before the bouts: front 3/4 alert stance, RIGHT hand bare (viewer left arm), LEFT hand in taupe wool MITTEN (viewer right). RIGHT underarm seam from wrist to elbow has a row of conspicuously large repair stitches; both sleeves intact. Both boots intact.\nCenter body caption After the final: same teen slightly weary and delighted, BOTH HANDS BARE, left mitten removed. RIGHT arm (viewer left) bends elbow down: the bare RIGHT forearm has SLIPPED THROUGH A LONG OPEN UNDERSEAM from wrist to elbow, while the EMPTY lower sleeve/cuff hangs beside it still attached to the upper sleeve. Not a rolled sleeve, cut-off sleeve or extra arm. LEFT sleeve stays normally worn over left arm. RIGHT boot sole is tied tightly back to the boot by a simple cord wrapping under its sole and over foot. Left boot unchanged. Closed small YELLOW SILK prize purse held in left hand; no visible coins needed. Same white vest and red square intact/unobscured, no open chest or injury. Optional lower-right isolated same right sleeve crosswise view clarifies split underseam, caption Right underseam. No third person. No visible spell aura, dust/ground patch, platform, crowd, scenery, needles sticking in skin or bandage. Afternoon sun only limited warm planes with blue shadow, faces/hands formed by opaque bristle strokes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-gutter-school/title-image.jpg",
+                "role": "Fennit youth identity, hair, freckles and clothing colors; prose controls final states, repaint as broad opaque oil",
+                "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+                "role": "Only matte broad oil handling and afternoon sun/blue shadow, no scenery",
+                "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-57304c56-f9aa-4ee9-a36f-8d6bad84c503.png",
+            "outputSha256": "1f047026c336d0d859531f3d50f60326d5392f116bd4af1849f0d06f45b0e9a1",
+            "reviewFindings": [
+              "Face/eyes/hands remain anime line-drawn and smooth, despite good clothing masses; repaint actual facial forms as broad opaque oil.",
+              "Purse appears in bare right hand rather than art-brief left; source permits either, preserve this coherent ordinary prop placement while correcting style."
+            ],
+            "completedAt": "2026-09-24T09:16:44.765798+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:16:45.714605+00:00",
+            "prompt": "Repaint the FIRST image as actual Canadian Group of Seven inspired opaque OIL PAINT while preserving its composition, youthful fifteen-year-old identity and every garment/pose/detail/text. The SECOND reference is ONLY a demonstration of matte broad painted masses, not content, palette, or light.\nThe main needed correction is ALL THREE FACES and HANDS: remove smooth anime facial rendering, fine ink eyelids, delicate skin gradients and hair strand lines. BUILD the cheeks, eye sockets, brow, nose, mouth, chin, ears, fingers and hair directly out of BOLD CONNECTED OPAQUE PLANES, deliberately visible bristle/knife STROKES forming the volumes, selectively thick paint beside quiet masses. Keep same face proportions and freckles simplified into a few purposeful paint marks. Larger coherent paint strokes, not thousands of tiny texture scratches over anime underneath. Apply the same broad handling to cloth too. This must read as a hand-painted oil study, not a textured anime illustration, digital drawing or CG.\nKeep all exact text, warm ivory blank field, complete two bodies, same brown hair/eyes, teal coat tied back, white vest/one red square breastbone visible, LEFT mitten early and both bare hands late, RIGHT forearm through split RIGHT sleeve with empty lower sleeve hanging, RIGHT cord-repaired boot, closed yellow purse in same right hand, early repaired seam detail. No swaps of limbs or props. Preserve sunny afternoon limited warm faces and connected cool shadow; no nighttime darkening. No additional background, ground or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-57304c56-f9aa-4ee9-a36f-8d6bad84c503.png",
+                "role": "Edit target; preserve costume, side states, youthful identity, text and layout",
+                "sha256": "1f047026c336d0d859531f3d50f60326d5392f116bd4af1849f0d06f45b0e9a1",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "Primary broad matte oil handling only; no mechanical form/identity/palette/light transfer",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d31436f8-a9a2-46bf-b5d8-dbd55fe34c28.png",
+            "outputSha256": "7ec5153e310431e378972119de6a2cd216c4ce913127f700590f130f95db39d5",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:20:43.508518+00:00"
+          }
+        ],
+        "preflight": "Full source read, cover and oil landscape visually inspected; source facts and art choices separated. Complete body framing, left/right costume states, daylight and identity reviewed before generation.",
+        "prompt": "Repaint the FIRST image as actual Canadian Group of Seven inspired opaque OIL PAINT while preserving its composition, youthful fifteen-year-old identity and every garment/pose/detail/text. The SECOND reference is ONLY a demonstration of matte broad painted masses, not content, palette, or light.\nThe main needed correction is ALL THREE FACES and HANDS: remove smooth anime facial rendering, fine ink eyelids, delicate skin gradients and hair strand lines. BUILD the cheeks, eye sockets, brow, nose, mouth, chin, ears, fingers and hair directly out of BOLD CONNECTED OPAQUE PLANES, deliberately visible bristle/knife STROKES forming the volumes, selectively thick paint beside quiet masses. Keep same face proportions and freckles simplified into a few purposeful paint marks. Larger coherent paint strokes, not thousands of tiny texture scratches over anime underneath. Apply the same broad handling to cloth too. This must read as a hand-painted oil study, not a textured anime illustration, digital drawing or CG.\nKeep all exact text, warm ivory blank field, complete two bodies, same brown hair/eyes, teal coat tied back, white vest/one red square breastbone visible, LEFT mitten early and both bare hands late, RIGHT forearm through split RIGHT sleeve with empty lower sleeve hanging, RIGHT cord-repaired boot, closed yellow purse in same right hand, early repaired seam detail. No swaps of limbs or props. Preserve sunny afternoon limited warm faces and connected cool shadow; no nighttime darkening. No additional background, ground or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-57304c56-f9aa-4ee9-a36f-8d6bad84c503.png",
+            "role": "Edit target; preserve costume, side states, youthful identity, text and layout",
+            "sha256": "1f047026c336d0d859531f3d50f60326d5392f116bd4af1849f0d06f45b0e9a1",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "Primary broad matte oil handling only; no mechanical form/identity/palette/light transfer",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "lighting": "Outdoor afternoon sun and blue sky connected shadows, no dramatic studio or nighttime fill.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "7ec5153e310431e378972119de6a2cd216c4ce913127f700590f130f95db39d5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:20:43.508518+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "7ec5153e310431e378972119de6a2cd216c4ce913127f700590f130f95db39d5",
+        "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-57304c56-f9aa-4ee9-a36f-8d6bad84c503.png",
+            "role": "Edit target; preserve costume, side states, youthful identity, text and layout",
+            "sha256": "1f047026c336d0d859531f3d50f60326d5392f116bd4af1849f0d06f45b0e9a1",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "Primary broad matte oil handling only; no mechanical form/identity/palette/light transfer",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent fifteen-year-old freckled identity; broad opaque planes now form face, hands, hair and garments, no smooth skin gradients.",
+          "Early anatomical LEFT mitten and bare RIGHT hand correct. Final both hands bare, RIGHT forearm through open lower sleeve, empty cloth hanging attached; sole cord on RIGHT boot. One red target remains exposed over breastbone in both views.",
+          "Closed yellow purse in bare right hand is a source-permitted staging choice; thirty coins not rendered as an unverified visible count. Coat fronts visibly drawn back. Three-quarter portrait and early repaired underseam detail preserve identity and clothing.",
+          "Afternoon warm sun and cool connected shadow on quiet warm ivory, complete unclipped bodies, exact heading, no setting/ground/swatches."
+        ],
+        "specificationSha256": "41800e6201187c5b450d102ddcac643a1ce971613865dba0f1bf18d47eb01e97"
+      }
+    },
+    {
+      "id": "peltrude",
+      "name": "Peltrude",
+      "role": "Air mage and semifinalist",
+      "selectionEvidence": [
+        {
+          "quote": "Peltrude stood at the bottom, rolling her sleeves above her elbows.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "She balanced forward, raised her left palm",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "She handed me the cup.",
+          "explanation": "Final source role/appearance evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult woman",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified athletic interpretation",
+        "markings": "Dusty handprint on red target after loss",
+        "materials": "Ordinary woven clothing",
+        "clothing": "Sleeves rolled ABOVE elbows; white scoring vest red square",
+        "equipment": "Ordinary drinking-water cup after bout",
+        "scale": "Adult",
+        "movement": "Forward balanced heels raised; LEFT palm governs wind, RIGHT scores",
+        "distinctiveFeatures": "Bare forearms deny cloth-grip"
+      },
+      "explicitCanon": [
+        "Adult woman; sleeves rolled above elbows and bare forearms.",
+        "LEFT palm air-working, right hand scoring; no flesh spell.",
+        "Post-bout offers water, target bears dusty handprint later."
+      ],
+      "visualInterpretation": [
+        "Art age38, rich deep-brown skin, long oval face with broad forehead, arched brows, wide straight nose, dark eyes, tightly cropped coiled black hair, athletic tall build.",
+        "Plum shirt rolled above elbows under white scoring vest with single red square, charcoal narrow trousers, russet low boots.",
+        "Front balanced heels slightly raised, back/threequarter relaxed with cup; both show same rolled sleeves and target placement onlyfront."
+      ],
+      "states": [
+        {
+          "name": "Semifinal",
+          "description": "Bare forearms, left palm ordinary gesture, right hand open scoring."
+        },
+        {
+          "name": "After the bout",
+          "description": "Ordinary cup, mild dusty handprint on target; no injury."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-gutter-school:peltrude",
+        "links": [],
+        "evidence": "No shared-universe identity established; story-specific character."
+      },
+      "references": [
+        {
+          "path": "stories/the-gutter-school/title-image.jpg",
+          "role": "Fennit identity/clothing subordinate visual anchor; repaint anime cover as broad oil",
+          "notes": "Actual pixels: fifteen-year-old fair freckled teen, tousled dark-brown hair, teal patched wool, white/red scoring vest, left mitten and brown patched clothes. Cover crouch/ground excluded.",
+          "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+          "role": "Broad oil paint and outdoor afternoon light only",
+          "notes": "Actual painted blue skylight/warm afternoon planes; no boards/town/flags/scenery copied.",
+          "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Peltrude"
+      },
+      "output": "stories/the-gutter-school/art/characters/peltrude.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:20:44.480967+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nCreate Peltrude, The Gutter School. Use reference only as actual BROAD OPAQUE oil style and tournament vest guide; DO NOT inherit Fennit's teen face, hair, ragged coat or youth. Peltrude is a clearly ADULT WOMAN age about38: rich deep-brown skin, long oval face, broad forehead and arched brows, wide straight nose, dark eyes, tightly cropped coiled BLACK hair, athletic tall build. Her unique adult face must be consistent and built in broad bristle masses, not fine cosmetic detail.\nHer PLUM shirt has BOTH sleeves firmly ROLLED ABOVE THE ELBOWS leaving BOTH entire FOREARMS BARE. Over torso a WHITE tournament vest, ONE RED SQUARE centered over breastbone unobstructed. Charcoal narrow trousers, practical RUSSET low boots. No ragged coat, mitten, sword, staff, jewels or armor.\nLeft full body caption Semifinal: front threequarter balanced forward, HEELS lifted slightly, LEFT hand raised with PALM facing forward to control air; anatomical LEFT is viewerRIGHT in frontal view, upright LEFT palm has thumb on viewerRIGHT. Keep ordinary natural hand, five fingers. RIGHT hand lower and open to score. No literal air beams/effects. Center complete rear-threequarter caption After the bout: SAME woman resting on flat feet, same sleeves high above elbows, ordinary clay cup held in right hand; target patch only appears where front torso visible, no red square on BACK of white vest. Upper-right clear portrait thoughtful competitive expression; lower-right modest close view of chest vest bearing faint DUSTY HANDPRINT across red patch caption After the touch. No cutaway body, detached limb, second identity or scenery. White vest still white/red in afternoon light. Confident broad knife/bristle oil strokes shape face, dark skin, hands and cloth with connected cool shadows, restrained sun; clear readable labels.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d31436f8-a9a2-46bf-b5d8-dbd55fe34c28.png",
+                "role": "Paint treatment, ivory folio and shared tournament scoring-vest construction only; NOT teen identity/hair/coats",
+                "sha256": "7ec5153e310431e378972119de6a2cd216c4ce913127f700590f130f95db39d5",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f183a4-713b-45d7-9a15-32b607c81ac1.png",
+            "outputSha256": "108602f19b3a9538ad92a02716e0aa6e1d02d9c1a1744c9d81a3ec7756326332",
+            "reviewFindings": [
+              "Raised hand on anatomical LEFT arm is drawn as right palm (thumb viewer left). Correct left palm anatomy while preserving all other pixels."
+            ],
+            "completedAt": "2026-09-24T09:23:13.872384+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:23:14.794231+00:00",
+            "prompt": "Edit ONLY the RAISED HAND of the LEFT full-body Peltrude figure, near the top center of the sheet. This is her anatomical LEFT hand at the end of her anatomical LEFT arm (the arm extends toward VIEWER RIGHT). It currently has the wrong thumb side. Paint a CLEAR LEFT PALM facing directly toward the viewer, with fingers vertically UP and the THUMB ON VIEWER RIGHT, little finger on viewer LEFT. Palm creases/pads face the viewer; no fingernails on palm surface. Four fingers plus ONE thumb. Remove the old viewer-left thumb completely. Keep the raised wrist attached correctly to the same existing forearm. This is a small local correction only.\nPreserve all other details exactly: her face and cropped hair, deep-brown skin, rolled-above-elbow plum sleeves, white vest/red breastbone target, other body and clay cup, dusty target study, all text, complete boots, matte broad oil forms, afternoon light and warm ivory. No new scenery, objects or extra gestures.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f183a4-713b-45d7-9a15-32b607c81ac1.png",
+                "role": "Only raised LEFT hand anatomy correction",
+                "sha256": "108602f19b3a9538ad92a02716e0aa6e1d02d9c1a1744c9d81a3ec7756326332",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-319e9fa2-edc3-4379-b1d8-65597720fdb6.png",
+            "outputSha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:33:46.749713+00:00"
+          }
+        ],
+        "preflight": "Full source read, cover and oil landscape visually inspected; source facts and art choices separated. Complete body framing, left/right costume states, daylight and identity reviewed before generation.",
+        "prompt": "Edit ONLY the RAISED HAND of the LEFT full-body Peltrude figure, near the top center of the sheet. This is her anatomical LEFT hand at the end of her anatomical LEFT arm (the arm extends toward VIEWER RIGHT). It currently has the wrong thumb side. Paint a CLEAR LEFT PALM facing directly toward the viewer, with fingers vertically UP and the THUMB ON VIEWER RIGHT, little finger on viewer LEFT. Palm creases/pads face the viewer; no fingernails on palm surface. Four fingers plus ONE thumb. Remove the old viewer-left thumb completely. Keep the raised wrist attached correctly to the same existing forearm. This is a small local correction only.\nPreserve all other details exactly: her face and cropped hair, deep-brown skin, rolled-above-elbow plum sleeves, white vest/red breastbone target, other body and clay cup, dusty target study, all text, complete boots, matte broad oil forms, afternoon light and warm ivory. No new scenery, objects or extra gestures.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f183a4-713b-45d7-9a15-32b607c81ac1.png",
+            "role": "Only raised LEFT hand anatomy correction",
+            "sha256": "108602f19b3a9538ad92a02716e0aa6e1d02d9c1a1744c9d81a3ec7756326332",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "lighting": "Outdoor afternoon warm sun planes with blue skylight in connected shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:33:46.749713+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+        "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-68f183a4-713b-45d7-9a15-32b607c81ac1.png",
+            "role": "Only raised LEFT hand anatomy correction",
+            "sha256": "108602f19b3a9538ad92a02716e0aa6e1d02d9c1a1744c9d81a3ec7756326332",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: raised anatomical LEFT PALM correctly has thumb viewer LEFT with fingers up. Prompt's requested reversal was mistaken and generated anatomy remained correct; actual Morris left-hand dorsal plate verified convention. Earlier rejection rationale is withdrawn by this later review, historical prompts unchanged.",
+          "Distinct adult deep-brown face, close-cropped coiled hair, rolled sleeves above elbows, white/red target and two complete consistent forms; back has no target. Ordinary cup, dusty handprint target inset.",
+          "Broad opaque face/hand planes and matte cloth with afternoon sun and cool shadow; ivory-only background, exact title/name and labels, no scenery."
+        ],
+        "specificationSha256": "3d557f032ff2b41ab81b45fb2416495d0c2d831fa9824fa5833da3399e023323"
+      }
+    },
+    {
+      "id": "hadrum",
+      "name": "Hadrum",
+      "role": "Defending champion and final opponent",
+      "selectionEvidence": [
+        {
+          "quote": "Hadrum's coat fitted close, with fastened cuffs.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "His left fingers closed",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "He had a spot of sweat beside his nose.",
+          "explanation": "Final source role/appearance evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "Small sweat spot in final",
+        "materials": "Ordinary fitted woven coat",
+        "clothing": "Close-fitting coat with FASTENED cuffs; exposed white vest red square",
+        "equipment": "No wand/staff/medal needed",
+        "scale": "Adult",
+        "movement": "Economical air/cloth control LEFT hand, RIGHT hand scores",
+        "distinctiveFeatures": "Courtesy and controlled exhaustion"
+      },
+      "explicitCanon": [
+        "Fitted coat, fastened cuffs, unobscured breastbone red square.",
+        "LEFT fist holds cloth in air, RIGHT scoring hand.",
+        "Mild sweat/fatigue, not wounded; defending champion no invented crown."
+      ],
+      "visualInterpretation": [
+        "Art age44, warm olive skin, narrow rectangular face with strong straight bridge, broad square chin, short salt-and-pepper dark curls, close neat dark beard, brown eyes, medium sturdy build.",
+        "Deep navy fitted coat fastened at waist and cuffs; ordinary WHITE tournament vest OVER coat at torso with red square breastbone, keeping coat cuffs visible and patch unobstructed; slate trousers, clean black-brown boots.",
+        "Front technical pose left hand loosely closed/right hand open, rear neutral and thoughtful close portrait. No visible magic beams."
+      ],
+      "states": [
+        {
+          "name": "Finalist",
+          "description": "Fitted fastened cuffs, white/red target, left hold-hand/right scoring-hand."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-gutter-school:hadrum",
+        "links": [],
+        "evidence": "No shared-universe identity established; story-specific character."
+      },
+      "references": [
+        {
+          "path": "stories/the-gutter-school/title-image.jpg",
+          "role": "Fennit identity/clothing subordinate visual anchor; repaint anime cover as broad oil",
+          "notes": "Actual pixels: fifteen-year-old fair freckled teen, tousled dark-brown hair, teal patched wool, white/red scoring vest, left mitten and brown patched clothes. Cover crouch/ground excluded.",
+          "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+          "role": "Broad oil paint and outdoor afternoon light only",
+          "notes": "Actual painted blue skylight/warm afternoon planes; no boards/town/flags/scenery copied.",
+          "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Hadrum"
+      },
+      "output": "stories/the-gutter-school/art/characters/hadrum.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:39:34.304078+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Hadrum, subtitle The Gutter School. One adult MALE defending champion, art age44, warm OLIVE skin, NARROW RECTANGULAR face, strong straight bridge nose, broad SQUARE chin, short SALT-AND-PEPPER dark CURLS, close neat short beard and moustache, brown eyes, medium sturdy build. Distinct from reference woman's face/hair and from a teenager. Broad painted adult facial structure.\nCLOSE-FITTING DEEP NAVY woven COAT, cuffs securely FASTENED at both wrists (not rolled, not open), waist fitted. A plain WHITE tournament VEST is worn OVER the coat at torso, with exactly ONE RED square breastbone TARGET on FRONT, fully unobscured. White back plain, no target on back. Slate trousers, clean black-brown boots; ordinary clothes, no armor, crown, sash, jewelry, badges, staff or weapons.\nLayout full front-threequarter at left, complete back view center, thoughtful close portrait right. Front pose technically economical: anatomical LEFT hand slightly lifted in a loose closed fist to hold cloth via living magic, RIGHT hand lower loosely open for scoring, not pointing at a power beam. Rear ordinary neutral arms. Small sweat spot beside nose in portrait, calm courteous concentration not villain sneer. Labels Finalist, Back view, A measured breath. No detached hand studies or extra garment states needed. Afternoon outdoor sun in limited warm planes with broad connected blue-sky shadows, not excessive golden studio shine. All hands/faces/clothes actual broad opaque knife/bristle oil masses. No environment/floor/ground/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-319e9fa2-edc3-4379-b1d8-65597720fdb6.png",
+                "role": "Primary matte broad oil style, tournament vest and daylight; not Peltrude identity",
+                "sha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c6eaa1b3-7334-4842-bdde-e99d0fb115db.png",
+            "outputSha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:42:48.442028+00:00"
+          }
+        ],
+        "preflight": "Full source read, cover and oil landscape visually inspected; source facts and art choices separated. Complete body framing, left/right costume states, daylight and identity reviewed before generation.",
+        "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Hadrum, subtitle The Gutter School. One adult MALE defending champion, art age44, warm OLIVE skin, NARROW RECTANGULAR face, strong straight bridge nose, broad SQUARE chin, short SALT-AND-PEPPER dark CURLS, close neat short beard and moustache, brown eyes, medium sturdy build. Distinct from reference woman's face/hair and from a teenager. Broad painted adult facial structure.\nCLOSE-FITTING DEEP NAVY woven COAT, cuffs securely FASTENED at both wrists (not rolled, not open), waist fitted. A plain WHITE tournament VEST is worn OVER the coat at torso, with exactly ONE RED square breastbone TARGET on FRONT, fully unobscured. White back plain, no target on back. Slate trousers, clean black-brown boots; ordinary clothes, no armor, crown, sash, jewelry, badges, staff or weapons.\nLayout full front-threequarter at left, complete back view center, thoughtful close portrait right. Front pose technically economical: anatomical LEFT hand slightly lifted in a loose closed fist to hold cloth via living magic, RIGHT hand lower loosely open for scoring, not pointing at a power beam. Rear ordinary neutral arms. Small sweat spot beside nose in portrait, calm courteous concentration not villain sneer. Labels Finalist, Back view, A measured breath. No detached hand studies or extra garment states needed. Afternoon outdoor sun in limited warm planes with broad connected blue-sky shadows, not excessive golden studio shine. All hands/faces/clothes actual broad opaque knife/bristle oil masses. No environment/floor/ground/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-319e9fa2-edc3-4379-b1d8-65597720fdb6.png",
+            "role": "Primary matte broad oil style, tournament vest and daylight; not Peltrude identity",
+            "sha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "lighting": "Outdoor tournament afternoon, restrained warm sun with blue-sky connected shadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:42:48.442028+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+        "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-319e9fa2-edc3-4379-b1d8-65597720fdb6.png",
+            "role": "Primary matte broad oil style, tournament vest and daylight; not Peltrude identity",
+            "sha256": "d3280f60adff7298c9a6c39f5980dbf8034825e34fe1e83ecda04d86e8870eef",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: consistent mature male champion with salt-and-pepper curls/beard, squared jaw and calm fatigue, two complete forms and portrait.",
+          "Close-fitted navy coat cuffs fastened in all views; ordinary white vest over torso, single FRONT red target unobstructed and back plain. Anatomical LEFT fist lifted, RIGHT hand open.",
+          "Afternoon limited sun with cool shadow; broad matte painted face/hand/cloth forms on ivory, exact name/title/labels, no scene/ground/swatches."
+        ],
+        "specificationSha256": "3d0bf703e9d82a7edde4a9ed180524ce890e07649886847d2962f9b779f7da22"
+      }
+    },
+    {
+      "id": "oscren",
+      "name": "Oscren",
+      "role": "Red-sleeved quarterfinal opponent",
+      "selectionEvidence": [
+        {
+          "quote": "tiny embroidered suns shone on his cuffs.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "Six more mages appeared",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "He jerked his sleeve free, breaking my hold.",
+          "explanation": "Final source role/appearance evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult man",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "No bodily markings specified",
+        "materials": "RED SILK enormous sleeves, shining shoes",
+        "clothing": "White target vest single red square and red wide-sleeved robe",
+        "equipment": "No staff stated",
+        "scale": "Adult",
+        "movement": "Showy bow, fingers making visual doubles",
+        "distinctiveFeatures": "Copies visual illusions of same identity, not independent beings"
+      },
+      "explicitCanon": [
+        "RED sleeves very wide, tiny embroidered suns on cuffs, shiny shoes.",
+        "White vest red square breastbone exposed.",
+        "Six extra copies in source bout not required on sheet; never new people or tangible clones."
+      ],
+      "visualInterpretation": [
+        "Art age33, pale peach skin, full pear-shaped face with weak rounded chin, small upturned nose, dark hazel eyes, curled honey-blond hair to ears and slim curled moustache, stocky medium height.",
+        "Rich muted red silk robe broad hanging sleeves, tiny ochre suns cuff edges, white scoring vest over robe torso, red square centered, dark red narrow trousers and polished oxblood shoes.",
+        "Front showy bow and back shoulder view plus affronted portrait; no extra full illusion bodies needed."
+      ],
+      "states": [
+        {
+          "name": "Quarterfinal",
+          "description": "Complete front/back same identity; sleeves big enough for mitten cloth grip, ordinary courtly vanity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-gutter-school:oscren",
+        "links": [],
+        "evidence": "No shared-universe identity established; story-specific character."
+      },
+      "references": [
+        {
+          "path": "stories/the-gutter-school/title-image.jpg",
+          "role": "Fennit identity/clothing subordinate visual anchor; repaint anime cover as broad oil",
+          "notes": "Actual pixels: fifteen-year-old fair freckled teen, tousled dark-brown hair, teal patched wool, white/red scoring vest, left mitten and brown patched clothes. Cover crouch/ground excluded.",
+          "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+          "role": "Broad oil paint and outdoor afternoon light only",
+          "notes": "Actual painted blue skylight/warm afternoon planes; no boards/town/flags/scenery copied.",
+          "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Oscren",
+        "sourceRole": "Red-sleeved quarterfinal opponent",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "Original role unnamed. Art-only name checked against universe, all story prose/reviews/prompts, NAMES and existing character specs; no source/canon edit."
+      },
+      "output": "stories/the-gutter-school/art/characters/oscren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:42:49.396729+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Oscren, subtitle The Gutter School, small line Art-only name. Source unnamed red-sleeved male quarterfinal opponent. Make clearly distinct from the reference man: age33, PALE PEACH skin, FULL PEAR-SHAPED face with broad soft lower cheeks and a WEAK ROUNDED CHIN, small UPTURNED NOSE, dark hazel eyes, curled HONEY-BLOND hair to ears, a SLIM CURLED BLOND MOUSTACHE only, otherwise clean-shaven. Medium-height stocky build, theatrical vanity. Same identity repeated, not another dark-haired bearded champion.\nRICH MUTED RED SILK robe with VERY WIDE long hanging sleeves, tiny embroidered OCHRE SUNS scattered along the CUFF EDGES; wide enough for two forearms each. White ordinary tournament vest over robe torso, ONE RED square breastbone target on FRONT, unobstructed. Dark red narrow trousers, SHINY OXBLOOD low shoes; paint a few flat specular strokes rather than glossy 3D material. No hat, staff, sword, rings or medals.\nTwo complete unclipped bodies frontthreequarter at left and rear view center, softly bowing head but keeping face visible; arms naturally relaxed to display enormous loose sleeves. Back white vest plain, NO red target on back. Large upper-right face portrait initially smug, smaller lower-right affronted face after defeat. Labels Quarterfinal, Back view, Before the draw, After the touch. No full illusion clones or other identities; repeated portrait expressions are the same man. No scene, dust clouds, boards, cast ground shadow or swatches. True opaque broad matte oil forms on every face and hand, directional bristle/knife planes, deliberate connected cool shadow and limited afternoon warm sun.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c6eaa1b3-7334-4842-bdde-e99d0fb115db.png",
+                "role": "Opaque oil mass handling, shared white vest/red target and ivory layout only, no mature champion face/clothes transfer",
+                "sha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-790226a3-7c8a-4d8e-89ed-c726325ee6bc.png",
+            "outputSha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:48:44.150142+00:00"
+          }
+        ],
+        "preflight": "Full source read, cover and oil landscape visually inspected; source facts and art choices separated. Complete body framing, left/right costume states, daylight and identity reviewed before generation.",
+        "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Oscren, subtitle The Gutter School, small line Art-only name. Source unnamed red-sleeved male quarterfinal opponent. Make clearly distinct from the reference man: age33, PALE PEACH skin, FULL PEAR-SHAPED face with broad soft lower cheeks and a WEAK ROUNDED CHIN, small UPTURNED NOSE, dark hazel eyes, curled HONEY-BLOND hair to ears, a SLIM CURLED BLOND MOUSTACHE only, otherwise clean-shaven. Medium-height stocky build, theatrical vanity. Same identity repeated, not another dark-haired bearded champion.\nRICH MUTED RED SILK robe with VERY WIDE long hanging sleeves, tiny embroidered OCHRE SUNS scattered along the CUFF EDGES; wide enough for two forearms each. White ordinary tournament vest over robe torso, ONE RED square breastbone target on FRONT, unobstructed. Dark red narrow trousers, SHINY OXBLOOD low shoes; paint a few flat specular strokes rather than glossy 3D material. No hat, staff, sword, rings or medals.\nTwo complete unclipped bodies frontthreequarter at left and rear view center, softly bowing head but keeping face visible; arms naturally relaxed to display enormous loose sleeves. Back white vest plain, NO red target on back. Large upper-right face portrait initially smug, smaller lower-right affronted face after defeat. Labels Quarterfinal, Back view, Before the draw, After the touch. No full illusion clones or other identities; repeated portrait expressions are the same man. No scene, dust clouds, boards, cast ground shadow or swatches. True opaque broad matte oil forms on every face and hand, directional bristle/knife planes, deliberate connected cool shadow and limited afternoon warm sun.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c6eaa1b3-7334-4842-bdde-e99d0fb115db.png",
+            "role": "Opaque oil mass handling, shared white vest/red target and ivory layout only, no mature champion face/clothes transfer",
+            "sha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "lighting": "Outdoor afternoon limited warm sunlight and connected cool blue shadow, not glowing silk.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:48:44.150142+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+        "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c6eaa1b3-7334-4842-bdde-e99d0fb115db.png",
+            "role": "Opaque oil mass handling, shared white vest/red target and ivory layout only, no mature champion face/clothes transfer",
+            "sha256": "3baadb14c0d185c83263a171d4a2791936ad3d32e2f810d9714f7912253fa199",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show distinct pale blond curled-moustache adult identity, smug/affronted expressions consistent across full front/back and portraits.",
+          "Very wide red silk sleeves have small ochre embroidered suns along cuffs; polished oxblood shoes. Ordinary white vest/red square correctly on FRONT only.",
+          "Source illusions omitted as optional effect, no additional identity; face/hands/clothes use broad connected opaque paint. Complete bodies, exact name/title, ivory clear of setting/ground/swatches."
+        ],
+        "specificationSha256": "389aacf554b5efc35852026f2062513231211f2057f2fef3aad58be8202d476f"
+      }
+    },
+    {
+      "id": "davissa",
+      "name": "Davissa",
+      "role": "Tournament caller and referee",
+      "selectionEvidence": [
+        {
+          "quote": "She took one out of her collar.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "The caller shook the folded draw slips in a hat.",
+          "explanation": "Final source role/appearance evidence"
+        },
+        {
+          "quote": "She counted the silvers into my cupped hands",
+          "explanation": "Final source role/appearance evidence"
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult woman",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "None stated",
+        "materials": "Ordinary practical clothes",
+        "clothing": "Collar holding needle, other clothes unspecified",
+        "equipment": "Pen/paper/ordinary hat draw slips; yellow silk purse late",
+        "scale": "Adult",
+        "movement": "Brisk attentive registering/refereeing/payout",
+        "distinctiveFeatures": "Not contestant, NO scoring vest"
+      },
+      "explicitCanon": [
+        "Adult female caller, needle stored in collar, pen and paper entry record.",
+        "Hat contains folded draw slips; ordinary yellow silk prize purse thirty silvers.",
+        "Referee not entrant, no white/red scoring target."
+      ],
+      "visualInterpretation": [
+        "Art age56, medium tan skin, short wide face, deep smile lines, small sharp nose, dark eyes, silver-streaked black hair in low small bun, short broad build.",
+        "Ochre-brown collar jacket over dark bottle-green tunic/skirt to ankle, practical black shoes, plain small belt pouch.",
+        "Front holding folded paper and pen, back with modest needle at collar; small hat/slips and closed yellow silk purse isolated character props, no table/cushion/coins needed."
+      ],
+      "states": [
+        {
+          "name": "Calling the rounds",
+          "description": "Ordinary clothes, pen/record, no target vest."
+        },
+        {
+          "name": "Prize",
+          "description": "Closed yellow silk purse as isolated handheld-sized prop."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-gutter-school:davissa",
+        "links": [],
+        "evidence": "No shared-universe identity established; story-specific character."
+      },
+      "references": [
+        {
+          "path": "stories/the-gutter-school/title-image.jpg",
+          "role": "Fennit identity/clothing subordinate visual anchor; repaint anime cover as broad oil",
+          "notes": "Actual pixels: fifteen-year-old fair freckled teen, tousled dark-brown hair, teal patched wool, white/red scoring vest, left mitten and brown patched clothes. Cover crouch/ground excluded.",
+          "sha256": "49fdcb9ef6b3849e980bb9d44957798e1a6cb5ef7b4ca9726b92b2b90401c645",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-gutter-school/art/landscapes/05-dust-across-tournament-boards.png",
+          "role": "Broad oil paint and outdoor afternoon light only",
+          "notes": "Actual painted blue skylight/warm afternoon planes; no boards/town/flags/scenery copied.",
+          "sha256": "20ff00dd0f406719c2fde4638b4f5eb070ad1177b73740f5b2d812f5bc6b283d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Davissa",
+        "sourceRole": "Tournament caller and referee",
+        "authorization": "User explicitly requests names whenever missing.",
+        "notes": "Original role unnamed. Art-only name checked against universe, all story prose/reviews/prompts, NAMES and existing character specs; no source/canon edit."
+      },
+      "output": "stories/the-gutter-school/art/characters/davissa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T09:48:45.115025+00:00",
+            "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Davissa, subtitle The Gutter School, small line Art-only name. One adult WOMAN tournament caller/referee. Age about56, medium TAN skin, SHORT WIDE face, deep smile lines, small sharp nose, dark eyes, SILVER-STREAKED BLACK hair in a low small BUN, short broad build. Brisk practical attentive expression. Distinct face from male reference, no moustache. Broad deliberate opaque oil planes form mature face and hands.\nOchre-BROWN COLLARED JACKET over dark BOTTLE-GREEN tunic and ankle-length plain skirt, practical black shoes, plain small belt pouch. A small ordinary SEWING NEEDLE is tucked safely through collar cloth (not flesh). She is a REFEREE and NEVER wears white scoring vest or red chest square.\nTwo complete bodies frontthreequarter left and rear center, consistent clothing and low bun. Front holds a folded paper record and ordinary PEN, with a small plain brown round hat containing folded WHITE draw slips held in crook of left elbow. No tabletop/scenery. Rear neutral stance with hands visible naturally. Upper-right close portrait with slightly impatient lifted brow. Lower-right small isolated CLOSED YELLOW SILK prize purse, about palm-sized, tied top; contains 30 silvers but coins remain hidden. Labels Calling the rounds, Back view, Prize purse. Keep ordinary props visually simple and countable; no coins spilling, giant bag, magical glow, staff, badge or other characters. Outdoor afternoon light moderate warm strokes and connected coolshadow, warm ivory with no floor/shadow/swatches. One identity only, unclipped forms and readable text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-790226a3-7c8a-4d8e-89ed-c726325ee6bc.png",
+                "role": "Actual opaque oil painting style and ivory layout only; do not inherit male face, red silk or tournament vest",
+                "sha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-cfc39a64-8b56-4e17-b425-468f49a20606.png",
+            "outputSha256": "bbeca933d50eb8b5433367af6df05cdadb2098ece31c8bd87fa28081896a33b8",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:52:08.990469+00:00"
+          }
+        ],
+        "preflight": "Full source read, cover and oil landscape visually inspected; source facts and art choices separated. Complete body framing, left/right costume states, daylight and identity reviewed before generation.",
+        "prompt": "1536x1024 landscape 3:2. One identity only. Reference folio on uninterrupted quiet warm ivory, no scene, floor patches, ground shadows, scenery, palette strips or swatches. Exact large character name and smaller story title. Complete unclipped full-body studies with generous clear spacing; one or two face/hand/prop details only when useful. Paint in Canadian Group of Seven inspired opaque oil: broad connected planes and confident directional bristle/knife strokes on FACES, HANDS and fabrics alike, matte simplified forms with selective impasto and quiet passages. Not anime line art, photograph, smooth CGI or detailed realistic rendering under surface texture. All repeated views same facial geometry/age/hair/anatomy and costume laterality. Source-specific light, never automatic universal gold fill. Anatomy five fingers and two arms/legs, prop attachments match in all views.\nExact heading Davissa, subtitle The Gutter School, small line Art-only name. One adult WOMAN tournament caller/referee. Age about56, medium TAN skin, SHORT WIDE face, deep smile lines, small sharp nose, dark eyes, SILVER-STREAKED BLACK hair in a low small BUN, short broad build. Brisk practical attentive expression. Distinct face from male reference, no moustache. Broad deliberate opaque oil planes form mature face and hands.\nOchre-BROWN COLLARED JACKET over dark BOTTLE-GREEN tunic and ankle-length plain skirt, practical black shoes, plain small belt pouch. A small ordinary SEWING NEEDLE is tucked safely through collar cloth (not flesh). She is a REFEREE and NEVER wears white scoring vest or red chest square.\nTwo complete bodies frontthreequarter left and rear center, consistent clothing and low bun. Front holds a folded paper record and ordinary PEN, with a small plain brown round hat containing folded WHITE draw slips held in crook of left elbow. No tabletop/scenery. Rear neutral stance with hands visible naturally. Upper-right close portrait with slightly impatient lifted brow. Lower-right small isolated CLOSED YELLOW SILK prize purse, about palm-sized, tied top; contains 30 silvers but coins remain hidden. Labels Calling the rounds, Back view, Prize purse. Keep ordinary props visually simple and countable; no coins spilling, giant bag, magical glow, staff, badge or other characters. Outdoor afternoon light moderate warm strokes and connected coolshadow, warm ivory with no floor/shadow/swatches. One identity only, unclipped forms and readable text.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-790226a3-7c8a-4d8e-89ed-c726325ee6bc.png",
+            "role": "Actual opaque oil painting style and ivory layout only; do not inherit male face, red silk or tournament vest",
+            "sha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "lighting": "Outdoor afternoon warm sun and cool sky shadows; practical modest clothing.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "bbeca933d50eb8b5433367af6df05cdadb2098ece31c8bd87fa28081896a33b8",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:52:08.990469+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "bbeca933d50eb8b5433367af6df05cdadb2098ece31c8bd87fa28081896a33b8",
+        "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-790226a3-7c8a-4d8e-89ed-c726325ee6bc.png",
+            "role": "Actual opaque oil painting style and ivory layout only; do not inherit male face, red silk or tournament vest",
+            "sha256": "7b7ffb01abb6c564974509cdad52c6a7f5529f168c93050aa41f69d26e3047b7",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: distinct mature woman, low dark/silver bun, broad short face and ordinary ochre/green clothing consistent front/rear/portrait. Referee has no scoring vest or red target.",
+          "Needle tucked safely through collar cloth, pen/paper in ordinary hands, draw hat with folded slips, closed yellow silk prize purse. No speculative visible coin count or glowing objects.",
+          "Broad opaque mature skin/hands/hair/cloth masses, complete bodies and readable exact title/name, warm ivory without scene/ground/swatches."
+        ],
+        "specificationSha256": "9ba4b51a24e39869560bddee1b2d288d4a057d90b7775488ec9db1a8d85934f9"
+      }
+    }
+  ],
+  "sourceSha256": "8dd5a89a3d0e75abb0bdbd8bc99a19eae769d3f6b254ce7e59814d1b25d65549"
+}

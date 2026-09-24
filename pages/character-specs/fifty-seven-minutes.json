@@ -1,0 +1,1299 @@
+{
+  "schemaVersion": 1,
+  "slug": "fifty-seven-minutes",
+  "title": "The Tide Will Have Her Answer",
+  "source": "stories/fifty-seven-minutes/story.md",
+  "sourceSha256": "c73cf8b3ceadb0293a235e1a3156b34ec43700591d72d0a12f4a697cf08af77e",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full501-line story read. Orselle, Rulik, Sileth and Ossa carry central powerchoice, accountability, ritualtiming and coordinatedrescue; all sustained namedmaincast.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Dying sea being",
+      "reason": "One recalled origin action in1paragraph, no sustained characterized role; source supports no specific anatomy beyond vast/luminoushide."
+    },
+    {
+      "name": "Cooper, runners, crewleaders, fishwife, hearingclerk and othercrowd",
+      "reason": "Functional brief reactions/support, no sustainedindividual arc comparable4centralcast."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authorityorder"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Divinity CANON: worship,power,authority",
+        "Living agency andmagic LOCKED",
+        "Costs,desire andlocalmechanisms"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No matching4namedcharacters/sharedauthority entryfound"
+      ]
+    },
+    {
+      "path": "stories/fifty-seven-minutes/prompt.md",
+      "entries": [
+        "Shipwright/joke-god/57minute mortalchoice premise"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "orselle-vuret",
+      "name": "Orselle Vuret",
+      "role": "Disgraced shipwright, temporarily empowered god and principal decision-maker who relinquishes immortality",
+      "selectionEvidence": [
+        {
+          "lines": "11",
+          "quote": "scrape Orselle Vuret",
+          "explanation": "Introduction as crowned protagonist."
+        },
+        {
+          "lines": "177",
+          "quote": "At thirty-nine",
+          "explanation": "Past transformation fixes aging boundary."
+        },
+        {
+          "lines": "445",
+          "quote": "I return the harbor right",
+          "explanation": "Decisive voluntary surrender."
+        },
+        {
+          "lines": "487",
+          "quote": "Her face had not taken eighty-six years at once.",
+          "explanation": "Must preserve age across ending."
+        },
+        {
+          "lines": "501",
+          "quote": "Orselle held the rule steady",
+          "explanation": "Returns to measured mortal craft."
+        }
+      ],
+      "form": "Human woman with salt-breath longevity, briefly god, then mortal",
+      "storyAppearance": {
+        "anatomy": "Human, gray hair; age stopped advancing from39 for86years; mortal ending no sudden86year facial aging.",
+        "lifeStage": "Apparent39, chronologically roughly125 by inferred39+86; sameface after mortalreturn.",
+        "proportions": "Unspecified adultworker build.",
+        "markings": "No gills/scales or visible magical markings stated.",
+        "materials": "Human skin, grayhair, tarredrope crown, wet practical cloth.",
+        "clothing": "Boots, grayhair under tarblack stiff caulkingrope crown with7limp ribbons and1bent coppernail; blanket at end.",
+        "equipment": "Brass-edged rule, shipwrighttools; no master's seal regained.",
+        "scale": "Adult human",
+        "movement": "Shouldersbeam, directs precise waterconditions, crosses boundary then one-knee exhaustion, later measuresrule.",
+        "distinctiveFeatures": "Tarrope joke crown; no surface-body transformation when power ends."
+      },
+      "explicitCanon": [
+        "Localnon-canon storyfact: Orselle Vuret, grayhaired shipwright barred4years for bad certification.",
+        "Localnon-canon storyfact: Rope crown7ribbons andbent coppernail; boots.",
+        "Localnon-canon storyfact: Age stopped at39 after gift86yearsbefore; mortalityreturn does not ageface86years.",
+        "Localnon-canon storyfact: No human-to-seacreature form; powers sense/control water under temporary rite."
+      ],
+      "visualInterpretation": [
+        "Pale weathered freckled skin, broad practical cheekbones, short wavy greyhair, sturdy leanbuild; preserves apparentlate30s despite grayhair.",
+        "Sea-green workcoat, ochre shirt, dark trousers and brownboots; ordinary woolblanket at end, noseal or lordlyrobe.",
+        "Seven ribbon colors muted distinct shades, not canonical colorlist; nailbent copper."
+      ],
+      "states": [
+        {
+          "name": "Crowned",
+          "description": "Tarrope crown7ribbons/onebentnail, same adultbody."
+        },
+        {
+          "name": "Mortal",
+          "description": "Crown removed, cold/tired with blanket, sameface."
+        }
+      ],
+      "naming": {
+        "sourceName": "Orselle Vuret",
+        "provenance": "Exactfullname infinishedstory."
+      },
+      "recurrence": {
+        "identityKey": "fifty-seven-minutes:orselle-vuret",
+        "links": [],
+        "evidence": "No matching sharedauthority entry; matchingnamealone notidentity."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approvedoil style only, excludeidentity/armor/heading",
+          "inspected": true,
+          "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+          "role": "Same-story maritime stormlight/palette andbrushonly",
+          "inspected": true,
+          "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+          "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+          "role": "Aftermath palette andoilhandling only, nogeography",
+          "inspected": true,
+          "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+          "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/title-image.jpg",
+          "role": "Inspected symboliccover, no characteridentity",
+          "inspected": true,
+          "notes": "Nail/drop/boundary againstsea; no cast anatomy; not sent togeneration.",
+          "sha256": "fe9a8f8140c4e3af55851a9989daff2df6619cc4128143f98388fc9f589c9a2e"
+        }
+      ],
+      "output": "stories/fifty-seven-minutes/art/characters/orselle-vuret.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Keep Orselle apparent39 and grey-haired, never elderly. The crown nail must be BENT, not a straight vertical peg: add a clear modest sideways kink in the copper shaft in front full figure, crowned portrait and isolated crown only. In rear full figure hide the nail. Preserve the isolated crown EXACTLY SEVEN separate ribbons, labels1-7, the tar rope loop, blanket and brass-edged measuring rule. No other changes.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Notreported bybuilt-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ab3d66a2-a9f4-40cb-85b8-21998dad3d5d.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "d7bb2cc83836c0588b29a31b3022685484674a39919a7a904285bf8914082722",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape warm ivory character-only sheet. Exact requested name heading, subtitle The Tide Will Have Her Answer, legible serif. NEVER copy another reference name or face. 2-3 unclipped useful complete forms, selected head/hand/equipment details, concise labels. NO scene/location, ground/floor patches, sea vignette, palette swatches or decorative prose. Canadian Group of Seven inspired oil with LARGE CONNECTED colour/value masses, broad directional bristles and substantial SELECTIVE impasto; quieter connecting paint, faces/hair equally painted. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime lines/smooth digitalfaces. Characterref rendering/layout ONLY; inspected same-story paintings supply cool squall slate/sea-green and warm ochre reflections only, NOT geography. Lighting is diffused maritime squall with muted warm skin, not golden spotlight. Heading EXACT Orselle Vuret. Human woman APPARENTAGE39 despite GREYHAIR: age stopped39 and86years did NOT arrive on face atend. Pale freckled weatheredskin, broad practical cheekbones, short wavy GREY hair, sturdy lean worker. Sea-green workcoat, ochre shirt, darktrousers brownboots. Three same-scale wholeviews Crowned front, Crowned rear, Mortal threequarter with crown REMOVED and ordinary woolblanket aroundshoulders. SAME face/body apparentage39 allviews; do NOT ageinto elderlywoman. Crown is low stiff TAR-BLACK CAULKINGROPE loop, EXACTLY7limp modest ribbons attached and ONE BENT COPPERNAIL atfront, NO metal royalcrown. Larger isolated Crown study makes7ribbons countable. Heads Burdened and Clear-eyed, sameage. Handholding BRASS-EDGED measuringrule. No gills, fins, scales, halo, waterstreams or sea-background. Ordinaryworkhands, no surrendered master'sseal.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approvedoil style only, excludeidentity/armor/heading",
+                "inspected": true,
+                "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Same-story maritime stormlight/palette andbrushonly",
+                "inspected": true,
+                "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+                "role": "Aftermath palette andoilhandling only, nogeography",
+                "inspected": true,
+                "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+                "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+              }
+            ],
+            "startedAt": "2026-09-23T23:27:25.634497+00:00",
+            "preflight": "Full501-line story and authority read; inspected actual art, no existing characterrefs. Four distinctcast, Orselle unchanged apparent39 despitegrayhair/mortality, exact source names and count-specific props checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ed00dd57-6f82-46e1-bc46-38e9730fd65f.png",
+            "candidateSha256": "a83c0ef264ec11adc20bc73f0672ef5bf7904336009f3e1a80b4ea8ecf51781e",
+            "completedAt": "2026-09-23T23:49:01.103820+00:00",
+            "visualInspection": [
+              "Dark smoky background obscures heading; replace with approved ivory.",
+              "One bent copper nail must remain on crown front only; remove apparent back nail in rear views."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Correct the BACKGROUND ONLY wherever it is empty space: replace ALL dark smoky brown-grey gradients and shadows with a uniform quiet WARM IVORY folio ground (#f4ead5 approximately). It must be light enough that the existing BLACK serif heading, subtitle and labels are clearly readable everywhere. Do not add panels, scenery or floor patches. Preserve the characters' painted colours and existing directional light, every pose/material, layout and label wording; do not apply a dark filter to the page. 1536x1024 landscape. Keep the original substantial oil brushwork on characters. Exact heading Orselle Vuret and title The Tide Will Have Her Answer must remain visible. Also correct crown continuity: the ONE bent copper nail is attached at the FRONT of the rope crown only. In the two REAR views (full rear figure and bottom-right rear head), remove the nail currently placed on the back of her head; keep rear rope/ribbons intact with nail hidden beyond front. Keep one nail in front views and isolated crown front study. Isolated crown still exactly seven limp ribbons, tarred rope. Preserve gray-haired adult apparent39 likeness across crowned and mortal forms; no aging.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ed00dd57-6f82-46e1-bc46-38e9730fd65f.png",
+                "role": "targeted ivory/readability and specified continuity repair",
+                "sha256": "a83c0ef264ec11adc20bc73f0672ef5bf7904336009f3e1a80b4ea8ecf51781e",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T23:49:01.103958+00:00",
+            "startedAt": "2026-09-24T02:21:27.850164+00:00",
+            "preflight": "Resume: current full prose and source marker read; actual four candidate pixels inspected. Prepared prompt preserves identity and dim maritime character light while separating ivory background; exact headings, rear orientation, seven-vessel count and open-hand anatomy checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b7192d9a-d7ea-4683-b0da-9da1ace1c8db.png",
+            "candidateSha256": "052b125724e745a6f6f77598ca37932e89d2f4e7d8906b5186e425c94a3ebc3b",
+            "completedAt": "2026-09-24T02:25:38.908370+00:00",
+            "pauseBeforeCallReason": "User explicitly paused full collection before correction call. No image generation active.",
+            "visualInspection": [
+              "Ivory and text correction passed; original character light and identity retained.",
+              "Isolated crown has six clearly separated ribbon ends; require seven."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "prompt": "Edit only the isolated crown equipment study at middle-right. It currently shows SIX dangling ribbons despite the caption; depict EXACTLY SEVEN distinct narrow limp tar-dark cloth ribbons spaced under the rope loop, each with its own attachment and separate visible end, no branching strips. Keep one bent copper nail at FRONT of that crown. Preserve the whole rest of this approved 1536x1024 sheet exactly: warm ivory background, readable Orselle Vuret / The Tide Will Have Her Answer, all gray-haired apparent-age-39 faces, three full-body views, sea-green workcoat, mortal blanket, rear crown views WITHOUT visible nail, brass-edged rule, broad thick oil painting and subdued maritime figure lighting. Do not darken the background, relight the figures, add scenery or change other objects. The ONLY change is adding and clearly separating the seventh limp ribbon in the isolated crown study.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b7192d9a-d7ea-4683-b0da-9da1ace1c8db.png",
+                "role": "Immutable corrected candidate; preserve all content except specified prop continuity repair",
+                "sha256": "052b125724e745a6f6f77598ca37932e89d2f4e7d8906b5186e425c94a3ebc3b",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:25:38.908370+00:00",
+            "preflight": "Actual candidate inspected against full source and other views. Targeted prop-only correction, no lighting or identity changes.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-13310c97-a6bb-407f-a73c-d68ce580290c.png",
+            "candidateSha256": "ec71441396b8a7cc5d27680f4083c5f1ed7ab38e8b7102cc593720ac47090abe",
+            "completedAt": "2026-09-24T02:29:10.781544+00:00",
+            "visualInspection": [
+              "All other corrections preserved; isolated crown still presents six ribbon ends."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "PASS",
+            "prompt": "Revise ONLY the isolated crown study in middle-right. The last edit again retained six ribbon tails, so RECOMPOSE this small study for count clarity: show the tar-black rope loop above a row of EXACTLY SEVEN narrow separate hanging ribbons, all seven attached along the visible front arc, evenly spread left-to-right with ivory gaps. There must be seven distinct tips. Beneath these seven tips place tiny clear count labels \"1 2 3 4 5 6 7\", one below each corresponding ribbon. Each ribbon is a single narrow limp charcoal cloth strip, not split or branched. Preserve ONE bent copper nail at the front of the loop. Allow this isolated crown study to be slightly wider or its ribbons narrower to fit seven; do not preserve the six-tail arrangement. Keep the existing caption The Crown / Seven ribbons, one bent copper nail. EVERYTHING ELSE in the image is unchanged: the three complete Orselle Vuret views, her apparent-age-39 face and gray hair, clothes and blanket, rear views with hidden nail, ruler, exact name and The Tide Will Have Her Answer title, warm ivory empty background, connected substantial oil brushwork and maritime character lighting. No scenery or swatches. 1536x1024 landscape.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-13310c97-a6bb-407f-a73c-d68ce580290c.png",
+                "role": "Immutable latest Orselle candidate; recompose isolated seven-ribbon study only",
+                "sha256": "ec71441396b8a7cc5d27680f4083c5f1ed7ab38e8b7102cc593720ac47090abe",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:29:10.781544+00:00",
+            "preflight": "Repeated six-tail composition diagnosed. Change isolated study arrangement and use one-to-one count labels; preserve approved character pixels and ivory.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c0eadcb2-0e45-497b-83f9-998016b6cbf3.png",
+            "candidateSha256": "521135be9da4d607220e7a93844e67d25b6fed8094ab513ba361f18b05b93fa9",
+            "completedAt": "2026-09-24T02:30:28.585418+00:00",
+            "visualInspection": [
+              "Actual saved PNG reviewed: exactly seven separate numbered ribbon tails counted in isolated crown, with one bent front copper nail; no rear nail on worn crown views.",
+              "Three unclipped views retain the same gray-haired apparent-age-39 face/body; mortal blanket and crown-removed state do not age her. Brass-edged rule and work clothes preserved.",
+              "Exact name and story title are readable on quiet warm ivory; substantial connected oil masses, subdued maritime character light, no scenery or swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "finding": "Warm glossy studio lighting and uniform bevel-lit chips conflict with maritime squall and broad matte collection paint; Ossa face too similar to Orselle.",
+              "reviewedAt": "2026-09-24T03:09:53.254082+00:00"
+            }
+          },
+          {
+            "attempt": 5,
+            "status": "REVISE",
+            "prompt": "Repaint the character artwork of image 1 into the actual MATTE, broad-mass Canadian Group of Seven oil handling of image 2 (Mallowbreak squall) and image 3 (original Sculpted Impasto sheet). Image 1 is subject/layout/props ONLY: DO NOT PRESERVE its glossy chip-rendered technique or warm studio light. Image 2 is the PRIMARY LIGHTING and colour/value-mass reference: cool diffused storm daylight, connected low-chroma slate-grey/sea-green shadows, muted ochre reflected notes, no direct sun or studio spotlight. Image 3 supplies the decisive broad scraped OPAQUE oil shapes, bristle sweeps and selective raised paint ONLY; no character face, armor, cape, name, swatches or scenery from it. REPLACE clusters of many bevel-lit tiny chips with larger flat-connected brush/knife masses. Leave quiet matte joins. Paint skin in a few substantial connected value planes with broad restrained strokes, hair in larger grouped locks; no glossy forehead, white flecks along every edge, plastic sculpted scales, smooth photorealism or anime contours. No universal amber key, rim lights, shiny cheeks or individually lit paint relief. Preserve all precise character geometry, hands, source props, exact labels and headings, and existing ivory layout except identity refinement explicitly below. The entire BACKGROUND stays uniform light warm ivory and black text stays fully readable. No scene, floor patches or swatches. One 1536x1024 landscape sheet. Exact heading Orselle Vuret, subtitle The Tide Will Have Her Answer. Preserve same gray-haired human woman APPARENT AGE39, sturdy lean shipwright, sea-green coat and ochre shirt, mortal blanket and measuring rule. Her face remains adult39 even in mortal state, no elderly aging. Preserve seven distinct numbered crown ribbons 1-7 and ONE bent front copper nail in isolated study; nail must be hidden in both rear crown views. Full views and hands stay anatomically correct. Repaint warm orange-peach face highlights to subdued natural cool-squall flesh tones; face should be living matte paint, not porcelain or metallic. Same broad cheekbones and face across every view.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c0eadcb2-0e45-497b-83f9-998016b6cbf3.png",
+                "role": "Immutable selected sheet: subject, anatomy, exact prop count and corrected gear orientation; rendering must change",
+                "sha256": "521135be9da4d607220e7a93844e67d25b6fed8094ab513ba361f18b05b93fa9",
+                "inspected": true
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Primary inspected same-story cool diffuse squall lighting and connected matte oil masses; no geography",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Inspected original Sculpted Impasto: broad directional opaque painting only; no identity, clothes, text, ground or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:09:53.254082+00:00",
+            "preflight": "Root review findings read. Actual original Sculpted Impasto and actual Mallowbreak squall/aftermath images inspected on resume. Existing figure rendering deliberately rejected while prop counts, pose, identity boundaries and ivory retained; Ossa/Sileth facial differentiation specified.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-2444e5a0-9384-4187-bed5-51ed9a3b563f.png",
+            "candidateSha256": "5afd3e3c776b40cee289c7f6fe478471c4ecabc95f02c1e4e2b3defa681af564",
+            "completedAt": "2026-09-24T03:26:23.528223+00:00",
+            "visualInspection": [
+              "Actual returned pixels inspected: geometry/counts retained, but old chipped surface and warm studio modelling reproduced. Rejected; old image as reference is overpowering paint/light brief."
+            ]
+          },
+          {
+            "attempt": 6,
+            "status": "REVISE",
+            "prompt": "Create a NEW character reference painting from this written brief, not a copy of a previous character sheet. Landscape 1536x1024. One identity only. This is a real MATTE OIL PAINTING in the Canadian Group of Seven tradition: make the human figure out of the SAME broad connected brush-painted value masses as the clouds and water in reference 1. Large decisive bristle sweeps that describe volume; flat opaque planes joined quietly, occasional thick scraped oil along selected cloth folds. Thin rubbed shadows and a few thick highlights. No collection of individually beveled raised chips, tessellated flakes, mosaic, scales, chiseled clay, 3D-rendered impasto, glossy cheeks or glinting edges. Reference 1 controls the paint and illumination. Reference 2 is only a subordinate folio/layout idea; do NOT use its warm sunlight, face, clothing, ground, scenery or swatches. The figure is under COOL DIFFUSED GREY SQUALL LIGHT: cool grey shadow masses, subdued cool skin, no sunny amber rim, no studio lamps, no tiny white highlights on skin. The PAGE is light quiet warm ivory, empty negative space and dark readable serif lettering; no dark background, water, sky, floor patch, scenery or palette swatches. Composition: two large full-body views across the LEFT HALF, FRONT and BACK, feet fully inside frame. Right half has two broad-painted head studies across top, source-required details below. All views share identity, clothes, age and ordinary human anatomy. Use FEWER, LARGER painting strokes than the reference sheet: keep a cheek as one connected matte color mass, coat panel as one connected dark mass with directional brush strokes across it, not a patchwork of chips. Exact smaller subtitle The Tide Will Have Her Answer. Heading Orselle Vuret. Sturdy lean pale freckled woman APPARENT AGE39 with short wavy GREY hair and broad practical cheekbones; gray hair does not mean elderly. Sea-green practical coat, ochre shirt, brown work trousers and brown boots. Front and back Crowned views with low black TARRED ROPE LOOP crown, seven narrow limp dark ribbons and one bent copper nail at FRONT. Back view hides the front nail. Right top portraits Burdened (crowned) and Clear-eyed (without crown), same woman39. Below a compact waist-up Mortal state wrapped in ordinary grey wool blanket, crown removed, same face39 with NO age jump. Bottom right isolated low rope crown on ivory with EXACTLY SEVEN separate dangling ribbons in a clearly spaced row, countable labels 1 2 3 4 5 6 7 beneath their distinct ends. One bent copper nail centered at front. Bottom-middle small study of hand holding brass-edged measuring rule. No sea magic, metal crown or armor.",
+            "references": [
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "PRIMARY: matte connected storm-light oil masses, broad sweeping bristles and quiet paint joins; palette/light only, no scenery",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY: original Sculpted Impasto paint and legible study-sheet idea only; NO identity, clothes, light, text, swatches or scenes",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:26:23.528223+00:00",
+            "preflight": "Changed conflicting inputs and composition: removed old character sheet; new two-full-view folio built from written identity, source counts and anatomical orientation. Actual squall painting is primary paint/light input. Source and original inspected; broad matte mass vs chip diagnosis explicitly addressed.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ab3d66a2-a9f4-40cb-85b8-21998dad3d5d.png",
+            "candidateSha256": "d7bb2cc83836c0588b29a31b3022685484674a39919a7a904285bf8914082722",
+            "completedAt": "2026-09-24T03:34:17.233472+00:00",
+            "visualInspection": [
+              "Cooler broader matte paint now materially improved; exact labels and core source facts retained. Small ground patches violate character-only ivory; targeted removal required.",
+              "Copper nail should visibly bend."
+            ]
+          },
+          {
+            "attempt": 7,
+            "status": "PASS",
+            "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Keep Orselle apparent39 and grey-haired, never elderly. The crown nail must be BENT, not a straight vertical peg: add a clear modest sideways kink in the copper shaft in front full figure, crowned portrait and isolated crown only. In rear full figure hide the nail. Preserve the isolated crown EXACTLY SEVEN separate ribbons, labels1-7, the tar rope loop, blanket and brass-edged measuring rule. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ab3d66a2-a9f4-40cb-85b8-21998dad3d5d.png",
+                "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+                "sha256": "d7bb2cc83836c0588b29a31b3022685484674a39919a7a904285bf8914082722",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:34:17.233472+00:00",
+            "preflight": "Actual new-composition pixels inspected. Matte paint improved; precise remaining floor marks, nail bend, rear book hip and Ossa age/hair specified independently without reintroducing old style references.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-43dcbd83-79b1-4a73-9830-116076d6f0d7.png",
+            "candidateSha256": "08d4106a6088af95ab119dc6fddb805a3491c1e456bb8c74e5e4e08539a02f1c",
+            "completedAt": "2026-09-24T03:47:36.270065+00:00",
+            "visualInspection": [
+              "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+              "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+              "Gray-haired apparent39 face remains same in mortal blanket; seven numbered isolated ribbons, clearly bent copper nail at front, hidden rear, brass-edged rule all pass."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T03:47:36.270065+00:00",
+        "sourceSha256": "c73cf8b3ceadb0293a235e1a3156b34ec43700591d72d0a12f4a697cf08af77e",
+        "outputSha256": "08d4106a6088af95ab119dc6fddb805a3491c1e456bb8c74e5e4e08539a02f1c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ab3d66a2-a9f4-40cb-85b8-21998dad3d5d.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "d7bb2cc83836c0588b29a31b3022685484674a39919a7a904285bf8914082722",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+          "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+          "Gray-haired apparent39 face remains same in mortal blanket; seven numbered isolated ribbons, clearly bent copper nail at front, hidden rear, brass-edged rule all pass."
+        ],
+        "specificationSha256": "272563b41e597d465908e0b407560a8ecc53c0a7cfc01ff473405b28ffaf6c84"
+      },
+      "outputSha256": "08d4106a6088af95ab119dc6fddb805a3491c1e456bb8c74e5e4e08539a02f1c"
+    },
+    {
+      "id": "rulik-saal",
+      "name": "Rulik Saal",
+      "role": "Yard foreman and former apprentice whose flawed repair history and skilled gate work drive confrontation and rescue",
+      "selectionEvidence": [
+        {
+          "lines": "21",
+          "quote": "wearing the yard foreman's blue sash",
+          "explanation": "Source appearance."
+        },
+        {
+          "lines": "257",
+          "quote": "I cut that scarph wrong.",
+          "explanation": "Owns initiating error."
+        },
+        {
+          "lines": "423",
+          "quote": "Rulik climbed the brace and drove the cap wedge himself.",
+          "explanation": "Decisive rescue work."
+        },
+        {
+          "lines": "477",
+          "quote": "He signed his name below hers",
+          "explanation": "Records shared accountability."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Human man, narrow enoughshoulder tofit between pairedshores.",
+        "lifeStage": "Formerapprentice, nowforeman; exactage unspecified.",
+        "proportions": "Working strength, no measurements.",
+        "markings": "Oakdust/mud ordinary during gatework.",
+        "materials": "Cloth/leather/wood/chalk.",
+        "clothing": "Blue foremansash, otherworkclothes unspecified.",
+        "equipment": "Workknife, chalk, wedges,damagebook, shipwright tools.",
+        "scale": "Adult human",
+        "movement": "Catchesbeam, cutsrot, climbsbrace/drivescapwedge, measureswork.",
+        "distinctiveFeatures": "Blue sash and craftsman's precisehands; no magic."
+      },
+      "explicitCanon": [
+        "Localnon-canon storyfact: Rulik Saal maleformer apprentice and yardforeman.",
+        "Localnon-canon storyfact: Blue sash; usesknife/chalk/gatecuttingtools, records fault.",
+        "Localnon-canon storyfact: Shoulder fits lowcut opening; no fixedage/hair/skin."
+      ],
+      "visualInterpretation": [
+        "Late20s lean muscular darkbrown man, close tightly curledblackhair, clean-shaven, narrowjaw and broadnose.",
+        "Cream roughworkshirt sleevesrolled, browncanvasvest, charcoaltrousers/boots; blue sash tiedatwaist chosen consistently."
+      ],
+      "states": [
+        {
+          "name": "Foreman",
+          "description": "Blue sash and dryworktools."
+        },
+        {
+          "name": "Gate work",
+          "description": "Mud/oakdust, active workhands."
+        }
+      ],
+      "naming": {
+        "sourceName": "Rulik Saal",
+        "provenance": "Exactfullname infinishedstory."
+      },
+      "recurrence": {
+        "identityKey": "fifty-seven-minutes:rulik-saal",
+        "links": [],
+        "evidence": "No matching sharedauthority entry; matchingnamealone notidentity."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approvedoil style only, excludeidentity/armor/heading",
+          "inspected": true,
+          "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+          "role": "Same-story maritime stormlight/palette andbrushonly",
+          "inspected": true,
+          "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+          "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+          "role": "Aftermath palette andoilhandling only, nogeography",
+          "inspected": true,
+          "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+          "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/title-image.jpg",
+          "role": "Inspected symboliccover, no characteridentity",
+          "inspected": true,
+          "notes": "Nail/drop/boundary againstsea; no cast anatomy; not sent togeneration.",
+          "sha256": "fe9a8f8140c4e3af55851a9989daff2df6619cc4128143f98388fc9f589c9a2e"
+        }
+      ],
+      "output": "stories/fifty-seven-minutes/art/characters/rulik-saal.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Only remove ground marks beneath boots; preserve Rulik Saal dark-brown skin, short curls, blue foreman sash, knife at anatomical LEFT hip in both full views (front viewerRIGHT, rear viewerLEFT), mallet, wedges, chalk and damagebook exactly. No other changes.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Notreported bybuilt-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-242c0833-e527-4ad7-af10-a84cb56d4e94.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "805cb533e8738e6b809199c8d6d6f5a0f0a0c7b92eb5e8ac92e5efbc57b3edb3",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape warm ivory character-only sheet. Exact requested name heading, subtitle The Tide Will Have Her Answer, legible serif. NEVER copy another reference name or face. 2-3 unclipped useful complete forms, selected head/hand/equipment details, concise labels. NO scene/location, ground/floor patches, sea vignette, palette swatches or decorative prose. Canadian Group of Seven inspired oil with LARGE CONNECTED colour/value masses, broad directional bristles and substantial SELECTIVE impasto; quieter connecting paint, faces/hair equally painted. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime lines/smooth digitalfaces. Characterref rendering/layout ONLY; inspected same-story paintings supply cool squall slate/sea-green and warm ochre reflections only, NOT geography. Lighting is diffused maritime squall with muted warm skin, not golden spotlight. Heading EXACT Rulik Saal. Distinct late20s male shipyardforeman, DARKBROWN skin, close tightlycurled BLACKhair, clean-shaven narrowjaw and broadnose, lean muscularframe. Cream coarseworkshirt sleevesrolled, browncanvasvest, charcoaltrousers, boots, vivid BLUE SASH tied around WAIST (not crown or cape). Three wholeforms Front, Rear samewaistblue sash, Gate work threequarter torsolean and oakdust onhands with smallwoodenmallet held low. Heads Defensive and Focused, sameface. Small sheathedworkknife, chalk, opposed oakwedges and damagebook as isolatedgear; bookplain, no invented insignia. No scene/woodbeamfloor or magic. Practicalanatomy and unclipped handsfeet.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approvedoil style only, excludeidentity/armor/heading",
+                "inspected": true,
+                "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Same-story maritime stormlight/palette andbrushonly",
+                "inspected": true,
+                "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+                "role": "Aftermath palette andoilhandling only, nogeography",
+                "inspected": true,
+                "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+                "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+              }
+            ],
+            "startedAt": "2026-09-23T23:27:25.654279+00:00",
+            "preflight": "Full501-line story and authority read; inspected actual art, no existing characterrefs. Four distinctcast, Orselle unchanged apparent39 despitegrayhair/mortality, exact source names and count-specific props checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-debc5a74-9cc8-4b3c-acc7-1e710418aa83.png",
+            "candidateSha256": "b380a246ee543b446ab87b88cb64d20911b1e85ae50111a717626e7d8fa033d9",
+            "completedAt": "2026-09-23T23:49:01.112071+00:00",
+            "visualInspection": [
+              "Dark smoky background obscures heading; replace with approved ivory.",
+              "Rear-view knife must match front anatomical-left hip."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Correct the BACKGROUND ONLY wherever it is empty space: replace ALL dark smoky brown-grey gradients and shadows with a uniform quiet WARM IVORY folio ground (#f4ead5 approximately). It must be light enough that the existing BLACK serif heading, subtitle and labels are clearly readable everywhere. Do not add panels, scenery or floor patches. Preserve the characters' painted colours and existing directional light, every pose/material, layout and label wording; do not apply a dark filter to the page. 1536x1024 landscape. Keep the original substantial oil brushwork on characters. Exact heading Rulik Saal and title The Tide Will Have Her Answer. Also correct only REAR full figure's belt knife to anatomical LEFT hip, viewer LEFT in rear, matching its left-hip position in front. Remove it from viewer-right rear hip and put same small sheathed work knife on viewer-left rear hip. Preserve blue waist sash/knot, all faces and gear, front figure knife, partially framed work gesture. No added person, weapon or location.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-debc5a74-9cc8-4b3c-acc7-1e710418aa83.png",
+                "role": "targeted ivory/readability and specified continuity repair",
+                "sha256": "b380a246ee543b446ab87b88cb64d20911b1e85ae50111a717626e7d8fa033d9",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T23:49:01.112122+00:00",
+            "startedAt": "2026-09-24T02:21:27.850183+00:00",
+            "preflight": "Resume: current full prose and source marker read; actual four candidate pixels inspected. Prepared prompt preserves identity and dim maritime character light while separating ivory background; exact headings, rear orientation, seven-vessel count and open-hand anatomy checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6390d14b-ae28-4aa0-8f82-01a9b558c839.png",
+            "candidateSha256": "6e2e0ec94fecb1e5da4955a3d73ea383c543886969253f3f20c1766009267bdf",
+            "completedAt": "2026-09-24T02:25:38.908370+00:00",
+            "pauseBeforeCallReason": "User explicitly paused full collection before correction call. No image generation active.",
+            "visualInspection": [
+              "Actual corrected PNG reviewed at full size: readable exact name and story title on warm ivory; broad connected oil masses and maritime shadows preserved.",
+              "Front and rear work knife consistently on anatomical left hip; blue sash, narrow build, close black curls and same face retained.",
+              "Two complete unclipped views plus work gesture and source-supported knife, mallet, opposed wedges, chalk and damage book; no scenic ground or swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "finding": "Warm glossy studio lighting and uniform bevel-lit chips conflict with maritime squall and broad matte collection paint; Ossa face too similar to Orselle.",
+              "reviewedAt": "2026-09-24T03:09:53.254082+00:00"
+            }
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "prompt": "Repaint the character artwork of image 1 into the actual MATTE, broad-mass Canadian Group of Seven oil handling of image 2 (Mallowbreak squall) and image 3 (original Sculpted Impasto sheet). Image 1 is subject/layout/props ONLY: DO NOT PRESERVE its glossy chip-rendered technique or warm studio light. Image 2 is the PRIMARY LIGHTING and colour/value-mass reference: cool diffused storm daylight, connected low-chroma slate-grey/sea-green shadows, muted ochre reflected notes, no direct sun or studio spotlight. Image 3 supplies the decisive broad scraped OPAQUE oil shapes, bristle sweeps and selective raised paint ONLY; no character face, armor, cape, name, swatches or scenery from it. REPLACE clusters of many bevel-lit tiny chips with larger flat-connected brush/knife masses. Leave quiet matte joins. Paint skin in a few substantial connected value planes with broad restrained strokes, hair in larger grouped locks; no glossy forehead, white flecks along every edge, plastic sculpted scales, smooth photorealism or anime contours. No universal amber key, rim lights, shiny cheeks or individually lit paint relief. Preserve all precise character geometry, hands, source props, exact labels and headings, and existing ivory layout except identity refinement explicitly below. The entire BACKGROUND stays uniform light warm ivory and black text stays fully readable. No scene, floor patches or swatches. One 1536x1024 landscape sheet. Exact heading Rulik Saal, subtitle The Tide Will Have Her Answer. Preserve the same late20s dark-brown-skinned narrow-built man with short tight black curls, clean-shaven broad nose, blue waist sash, cream shirt and brown vest. Maintain natural DARK BROWN skin under COOL diffused squall light, do not bleach him or coat every plane in orange glints. Preserve all hands/tools, work gesture, knife at anatomical LEFT HIP in front and rear, ordinary work mallet/wedges/chalk/book. Dark matte vest and trousers painted with broad quiet connected masses, no gold-edged chips.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6390d14b-ae28-4aa0-8f82-01a9b558c839.png",
+                "role": "Immutable selected sheet: subject, anatomy, exact prop count and corrected gear orientation; rendering must change",
+                "sha256": "6e2e0ec94fecb1e5da4955a3d73ea383c543886969253f3f20c1766009267bdf",
+                "inspected": true
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Primary inspected same-story cool diffuse squall lighting and connected matte oil masses; no geography",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Inspected original Sculpted Impasto: broad directional opaque painting only; no identity, clothes, text, ground or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:09:53.254082+00:00",
+            "preflight": "Root review findings read. Actual original Sculpted Impasto and actual Mallowbreak squall/aftermath images inspected on resume. Existing figure rendering deliberately rejected while prop counts, pose, identity boundaries and ivory retained; Ossa/Sileth facial differentiation specified.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c5c999d3-346d-42ac-b793-5d5310dc3cf5.png",
+            "candidateSha256": "0e9645e8f6c884efb8c0e23bc59efaa8dad25c67e22cac484af1aa54bdf516b6",
+            "completedAt": "2026-09-24T03:26:23.528223+00:00",
+            "visualInspection": [
+              "Actual returned pixels inspected: geometry/counts retained, but old chipped surface and warm studio modelling reproduced. Rejected; old image as reference is overpowering paint/light brief."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "prompt": "Create a NEW character reference painting from this written brief, not a copy of a previous character sheet. Landscape 1536x1024. One identity only. This is a real MATTE OIL PAINTING in the Canadian Group of Seven tradition: make the human figure out of the SAME broad connected brush-painted value masses as the clouds and water in reference 1. Large decisive bristle sweeps that describe volume; flat opaque planes joined quietly, occasional thick scraped oil along selected cloth folds. Thin rubbed shadows and a few thick highlights. No collection of individually beveled raised chips, tessellated flakes, mosaic, scales, chiseled clay, 3D-rendered impasto, glossy cheeks or glinting edges. Reference 1 controls the paint and illumination. Reference 2 is only a subordinate folio/layout idea; do NOT use its warm sunlight, face, clothing, ground, scenery or swatches. The figure is under COOL DIFFUSED GREY SQUALL LIGHT: cool grey shadow masses, subdued cool skin, no sunny amber rim, no studio lamps, no tiny white highlights on skin. The PAGE is light quiet warm ivory, empty negative space and dark readable serif lettering; no dark background, water, sky, floor patch, scenery or palette swatches. Composition: two large full-body views across the LEFT HALF, FRONT and BACK, feet fully inside frame. Right half has two broad-painted head studies across top, source-required details below. All views share identity, clothes, age and ordinary human anatomy. Use FEWER, LARGER painting strokes than the reference sheet: keep a cheek as one connected matte color mass, coat panel as one connected dark mass with directional brush strokes across it, not a patchwork of chips. Exact smaller subtitle The Tide Will Have Her Answer. Heading Rulik Saal. Lean wiry man late twenties with DARK BROWN skin, short black curls, strong nose and clean-shaven face. Brown waistcoat over cream rolled-sleeve work shirt, dark grey trousers, brown work boots. Bright BLUE foreman sash at waist, low-chroma in grey storm light. One sheathed work knife fixed to anatomical LEFT HIP: front view knife viewer RIGHT, back view knife viewer LEFT. Exactly one sheath per view. Two upper-right heads Defensive and Focused are same young dark-skinned man. Below them a broad-painted waist-up Working study with ordinary hands gripping wooden mallet. Bottom row: sheathed Work knife; two Opposed oak wedges; short chalk stick; small leather Damage book. Hands show muted white oak dust/chalk marks only. No swords, armor, insignia or extra straps. Blue sash and knife hip remain consistent between views.",
+            "references": [
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "PRIMARY: matte connected storm-light oil masses, broad sweeping bristles and quiet paint joins; palette/light only, no scenery",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY: original Sculpted Impasto paint and legible study-sheet idea only; NO identity, clothes, light, text, swatches or scenes",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:26:23.528223+00:00",
+            "preflight": "Changed conflicting inputs and composition: removed old character sheet; new two-full-view folio built from written identity, source counts and anatomical orientation. Actual squall painting is primary paint/light input. Source and original inspected; broad matte mass vs chip diagnosis explicitly addressed.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-242c0833-e527-4ad7-af10-a84cb56d4e94.png",
+            "candidateSha256": "805cb533e8738e6b809199c8d6d6f5a0f0a0c7b92eb5e8ac92e5efbc57b3edb3",
+            "completedAt": "2026-09-24T03:34:17.233472+00:00",
+            "visualInspection": [
+              "Cooler broader matte paint now materially improved; exact labels and core source facts retained. Small ground patches violate character-only ivory; targeted removal required."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Only remove ground marks beneath boots; preserve Rulik Saal dark-brown skin, short curls, blue foreman sash, knife at anatomical LEFT hip in both full views (front viewerRIGHT, rear viewerLEFT), mallet, wedges, chalk and damagebook exactly. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-242c0833-e527-4ad7-af10-a84cb56d4e94.png",
+                "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+                "sha256": "805cb533e8738e6b809199c8d6d6f5a0f0a0c7b92eb5e8ac92e5efbc57b3edb3",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:34:17.233472+00:00",
+            "preflight": "Actual new-composition pixels inspected. Matte paint improved; precise remaining floor marks, nail bend, rear book hip and Ossa age/hair specified independently without reintroducing old style references.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9179c453-aebb-4aba-9922-bc982cbaad9b.png",
+            "candidateSha256": "12f940bc3f5e084f93d931e7ebd7274eb211e46dda68002a83aab16ca8090802",
+            "completedAt": "2026-09-24T03:47:36.270065+00:00",
+            "visualInspection": [
+              "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+              "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+              "Dark brown skin and short curls retained; blue sash, knife anatomical left hip front/back, mallet, two wedges, chalk and damagebook all consistent."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T03:47:36.270065+00:00",
+        "sourceSha256": "c73cf8b3ceadb0293a235e1a3156b34ec43700591d72d0a12f4a697cf08af77e",
+        "outputSha256": "12f940bc3f5e084f93d931e7ebd7274eb211e46dda68002a83aab16ca8090802",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-242c0833-e527-4ad7-af10-a84cb56d4e94.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "805cb533e8738e6b809199c8d6d6f5a0f0a0c7b92eb5e8ac92e5efbc57b3edb3",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+          "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+          "Dark brown skin and short curls retained; blue sash, knife anatomical left hip front/back, mallet, two wedges, chalk and damagebook all consistent."
+        ],
+        "specificationSha256": "d7137d6cb9959a22206b049a4bcf616553168310b81bf80a4f817ba3962a6226"
+      },
+      "outputSha256": "12f940bc3f5e084f93d931e7ebd7274eb211e46dda68002a83aab16ca8090802"
+    },
+    {
+      "id": "sileth-nemm",
+      "name": "Sileth Nemm",
+      "role": "Rite keeper who interprets damaged terms, maintains clock, and receives surrendered crown",
+      "selectionEvidence": [
+        {
+          "lines": "23",
+          "quote": "keeper of the rite",
+          "explanation": "Principal ritualrole."
+        },
+        {
+          "lines": "161",
+          "quote": "There is a shore-return",
+          "explanation": "Finds alternateending."
+        },
+        {
+          "lines": "399",
+          "quote": "crown-receiving cloth spread over her hands",
+          "explanation": "Distinct climax action."
+        },
+        {
+          "lines": "475",
+          "quote": "wrote three pages of corrections",
+          "explanation": "Records limits after survival."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman, goespale when unexpectedpower awakens.",
+        "lifeStage": "Adult ritekeeper succeeding grandmother'stradition, exactage unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "No supernatural body feature.",
+        "materials": "Driftwoodstaff, sewnpaper ritebook, green-glass vessels/cedarrack, oilcloth.",
+        "clothing": "Unspecified wetweather attire.",
+        "equipment": "Driftwoodstaff, stitchedritebook repairedwithsailthread, brineclock7greenglassvessels oncedarrack, crowncloth.",
+        "scale": "Adult human",
+        "movement": "Turns vessels insequence, thumbs damagedbook, holdsclockatchest, liftsrope crown.",
+        "distinctiveFeatures": "Fallible careful ritualknowledge; clock is inertinstrument not creature."
+      },
+      "explicitCanon": [
+        "Localnon-canon storyfact: Sileth Nemm woman ritekeeper, driftwoodstaff and stitched damagedbook.",
+        "Localnon-canon storyfact: 7green glass vessels/cedarrack measure57minutes; carriesrack, turns insequence.",
+        "Localnon-canon storyfact: Receivescrown in cloth, lateroilcloth; no magicalbodytransformation."
+      ],
+      "visualInterpretation": [
+        "Woman40s with mediumgolden skin, softlyroundedface, short straightblackbob and darkeyes, slenderbuild.",
+        "Plain umberraincoat, mutedrustscarf, greydress/trousers and boots; no priestlycrest, wizardhat or magicalhalo.",
+        "Simple vessel forms imply ritualtimer without invented interiorengineering."
+      ],
+      "states": [
+        {
+          "name": "Observance",
+          "description": "Staff and ritebook."
+        },
+        {
+          "name": "Shore-return",
+          "description": "Open cloth onhands, clocknearby as isolatedpersonal instrument."
+        }
+      ],
+      "naming": {
+        "sourceName": "Sileth Nemm",
+        "provenance": "Exactfullname infinishedstory."
+      },
+      "recurrence": {
+        "identityKey": "fifty-seven-minutes:sileth-nemm",
+        "links": [],
+        "evidence": "No matching sharedauthority entry; matchingnamealone notidentity."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approvedoil style only, excludeidentity/armor/heading",
+          "inspected": true,
+          "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+          "role": "Same-story maritime stormlight/palette andbrushonly",
+          "inspected": true,
+          "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+          "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+          "role": "Aftermath palette andoilhandling only, nogeography",
+          "inspected": true,
+          "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+          "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/title-image.jpg",
+          "role": "Inspected symboliccover, no characteridentity",
+          "inspected": true,
+          "notes": "Nail/drop/boundary againstsea; no cast anatomy; not sent togeneration.",
+          "sha256": "fe9a8f8140c4e3af55851a9989daff2df6619cc4128143f98388fc9f589c9a2e"
+        }
+      ],
+      "output": "stories/fifty-seven-minutes/art/characters/sileth-nemm.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct ONE clearly located mistake only. On the BACK-FACING FULL FIGURE in the MIDDLE LEFT, the book is currently beside the staff on the RIGHT EDGE. ERASE that book from the right hip. Put that SAME SINGLE BOOK on the LEFT EDGE of this rear figure, beside her empty left hand. The back strap must start at the RIGHT shoulder (viewer right) and slope diagonally DOWN TO THE LEFT hip (viewer left), forming / rather than \\. This is her anatomical LEFT hip. Do not flip the body or staff. Her staff stays in her right hand at viewer RIGHT. The FRONT-facing leftmost figure is ALREADY CORRECT: leave its book and strap untouched. Preserve the entire rest exactly: broad matte oil paint, dim diffuse figure light, warm clean ivory, full name Sileth Nemm, story title, round40s face and black bob, umber coat and rust scarf, seven glass vessels and seven cups. NO added book, no mirrored staff, no ground patches. Only relocate one rear book and reverse its back strap.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Notreported bybuilt-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d52c06fd-03fb-4fb8-ac18-8e24e3425cf9.png",
+            "sha256": "884a944fc3371c8147a3dff2a8567f73094afcb46da6330108448341eaa2e147",
+            "inspected": true,
+            "role": "Actual candidate; reverse rear book and strap only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape warm ivory character-only sheet. Exact requested name heading, subtitle The Tide Will Have Her Answer, legible serif. NEVER copy another reference name or face. 2-3 unclipped useful complete forms, selected head/hand/equipment details, concise labels. NO scene/location, ground/floor patches, sea vignette, palette swatches or decorative prose. Canadian Group of Seven inspired oil with LARGE CONNECTED colour/value masses, broad directional bristles and substantial SELECTIVE impasto; quieter connecting paint, faces/hair equally painted. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime lines/smooth digitalfaces. Characterref rendering/layout ONLY; inspected same-story paintings supply cool squall slate/sea-green and warm ochre reflections only, NOT geography. Lighting is diffused maritime squall with muted warm skin, not golden spotlight. Heading EXACT Sileth Nemm. Adult woman40s, mediumgolden skin, softlyrounded broadcheeked face, short STRAIGHT BLACK BOB and darkeyes, slenderframe. Plain UMBER raincoat, mutedrustscarf, grey trousers and boots. Two complete front/rear forms with DRIFTWOOD STAFF and small STITCHED RITEBOOK (visible sailthread repairs, raggedpageedge). Third upperbody Shore-return with clean plain cloth spread between openhands, no otherperson/crownbeingworn. Heads Alarmed and Careful. One compact isolated BRINE CLOCK: cedarcarryingrack containing EXACTLY SEVEN distinct GREENGLASS vessels in a straight countable row, smalldripcups below; no floatingwater or hightechinternals. It is her portabletimer, notscene. Legible caption Brine clock and smaller 57 minutes. No royal/regalcostume, priestcrest, wizardmagic, scene or swatches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approvedoil style only, excludeidentity/armor/heading",
+                "inspected": true,
+                "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Same-story maritime stormlight/palette andbrushonly",
+                "inspected": true,
+                "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+                "role": "Aftermath palette andoilhandling only, nogeography",
+                "inspected": true,
+                "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+                "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+              }
+            ],
+            "startedAt": "2026-09-23T23:27:25.673880+00:00",
+            "preflight": "Full501-line story and authority read; inspected actual art, no existing characterrefs. Four distinctcast, Orselle unchanged apparent39 despitegrayhair/mortality, exact source names and count-specific props checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ca212169-04e1-47a9-9c80-2cff9b245ff1.png",
+            "candidateSha256": "4da4a208b5fb3789ea1abcc2b5d39f0b8a0d23dd66a399640546140bbe67e86c",
+            "completedAt": "2026-09-23T23:49:01.117627+00:00",
+            "visualInspection": [
+              "Dark smoky background obscures heading; replace with approved ivory. Seven green vessels/cups count passed."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Correct the BACKGROUND ONLY wherever it is empty space: replace ALL dark smoky brown-grey gradients and shadows with a uniform quiet WARM IVORY folio ground (#f4ead5 approximately). It must be light enough that the existing BLACK serif heading, subtitle and labels are clearly readable everywhere. Do not add panels, scenery or floor patches. Preserve the characters' painted colours and existing directional light, every pose/material, layout and label wording; do not apply a dark filter to the page. 1536x1024 landscape. Keep the original substantial oil brushwork on characters. Exact heading Sileth Nemm and title The Tide Will Have Her Answer. Preserve ALL character and object artwork: same black bob, umber coat, staff, repaired rite book, cloth and cedar clock with exactly seven green vessels/seven cups. Change no anatomy or pose. Only restore ivory empty space and full text readability.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ca212169-04e1-47a9-9c80-2cff9b245ff1.png",
+                "role": "targeted ivory/readability and specified continuity repair",
+                "sha256": "4da4a208b5fb3789ea1abcc2b5d39f0b8a0d23dd66a399640546140bbe67e86c",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T23:49:01.117655+00:00",
+            "startedAt": "2026-09-24T02:21:27.850186+00:00",
+            "preflight": "Resume: current full prose and source marker read; actual four candidate pixels inspected. Prepared prompt preserves identity and dim maritime character light while separating ivory background; exact headings, rear orientation, seven-vessel count and open-hand anatomy checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-65cd78c6-03a5-4553-a889-ac371772becc.png",
+            "candidateSha256": "a9394bf401a47211add23e1803e5cb4937b390a980e802db85ee228591a2f0c3",
+            "completedAt": "2026-09-24T02:25:38.908370+00:00",
+            "pauseBeforeCallReason": "User explicitly paused full collection before correction call. No image generation active.",
+            "visualInspection": [
+              "Ivory and text correction passed; original character light and identity retained.",
+              "Rear rite-book pouch and carrying strap were mirrored to opposite hip; match front anatomical left hip."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit only the rear full-body figure (second from left). The rite-book pouch must hang on her ANATOMICAL LEFT HIP, which is VIEWER LEFT in a rear view. Move the rear figure book/pouch from viewer-right hip to viewer-left hip, mirror ONLY its diagonal carrying strap so it runs from viewer-right shoulder down to viewer-left hip. This matches the front figure book at viewer-right/anatomical-left hip. Preserve front figure and all other content exactly, including staff in anatomical RIGHT hand (viewer-right rear), short black bob, umber coat, rust scarf, faces, exactly seven green glass vessels and seven cups, cloth, isolated book and hands. Maintain all text Sileth Nemm / The Tide Will Have Her Answer, light warm ivory background, substantial oil paint and existing dim maritime character light. No location, floor patch or palette swatches. 1536x1024 landscape; one person only.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-65cd78c6-03a5-4553-a889-ac371772becc.png",
+                "role": "Immutable corrected candidate; preserve all content except specified prop continuity repair",
+                "sha256": "a9394bf401a47211add23e1803e5cb4937b390a980e802db85ee228591a2f0c3",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T02:25:38.908370+00:00",
+            "preflight": "Actual candidate inspected against full source and other views. Targeted prop-only correction, no lighting or identity changes.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-10b1a648-e069-453b-bffe-a8466d38d087.png",
+            "candidateSha256": "e927d420305f966453ce00040276db0734e12cd17a1accef4dd82ba29d548f0c",
+            "completedAt": "2026-09-24T02:29:10.781544+00:00",
+            "visualInspection": [
+              "Actual saved PNG visually inspected: exact legible name and title on ivory; consistent short black bob, rounded face and source-supported rite equipment.",
+              "Rear book pouch now rests on anatomical left hip matching front; strap runs from right shoulder to left hip, staff remains in right hand.",
+              "Seven green vessels and seven receiver cups counted; repaired book, driftwood staff and cloth accurately repeated. Thick connected oil masses and subdued maritime lighting preserved; no scenery or swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "finding": "Warm glossy studio lighting and uniform bevel-lit chips conflict with maritime squall and broad matte collection paint; Ossa face too similar to Orselle.",
+              "reviewedAt": "2026-09-24T03:09:53.254082+00:00"
+            }
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "prompt": "Repaint the character artwork of image 1 into the actual MATTE, broad-mass Canadian Group of Seven oil handling of image 2 (Mallowbreak squall) and image 3 (original Sculpted Impasto sheet). Image 1 is subject/layout/props ONLY: DO NOT PRESERVE its glossy chip-rendered technique or warm studio light. Image 2 is the PRIMARY LIGHTING and colour/value-mass reference: cool diffused storm daylight, connected low-chroma slate-grey/sea-green shadows, muted ochre reflected notes, no direct sun or studio spotlight. Image 3 supplies the decisive broad scraped OPAQUE oil shapes, bristle sweeps and selective raised paint ONLY; no character face, armor, cape, name, swatches or scenery from it. REPLACE clusters of many bevel-lit tiny chips with larger flat-connected brush/knife masses. Leave quiet matte joins. Paint skin in a few substantial connected value planes with broad restrained strokes, hair in larger grouped locks; no glossy forehead, white flecks along every edge, plastic sculpted scales, smooth photorealism or anime contours. No universal amber key, rim lights, shiny cheeks or individually lit paint relief. Preserve all precise character geometry, hands, source props, exact labels and headings, and existing ivory layout except identity refinement explicitly below. The entire BACKGROUND stays uniform light warm ivory and black text stays fully readable. No scene, floor patches or swatches. One 1536x1024 landscape sheet. Exact heading Sileth Nemm, subtitle The Tide Will Have Her Answer. Preserve black short bob and umber coat/rust scarf, but ensure all faces consistently read as a softly ROUNDED woman in her40s with medium-golden skin, broader cheeks and a short modest nose, NOT the sharp cheekbone/nose template of another woman. Preserve complete forms, ritebook at anatomical LEFT HIP in front/rear, correct strap, driftwood staff, cloth, hand studies. Clock must retain exactly SEVEN green vessels and SEVEN cups. Skin and coat use muted matte connected stormlight, no peach glossy specular chips.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-10b1a648-e069-453b-bffe-a8466d38d087.png",
+                "role": "Immutable selected sheet: subject, anatomy, exact prop count and corrected gear orientation; rendering must change",
+                "sha256": "e927d420305f966453ce00040276db0734e12cd17a1accef4dd82ba29d548f0c",
+                "inspected": true
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Primary inspected same-story cool diffuse squall lighting and connected matte oil masses; no geography",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Inspected original Sculpted Impasto: broad directional opaque painting only; no identity, clothes, text, ground or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:09:53.254082+00:00",
+            "preflight": "Root review findings read. Actual original Sculpted Impasto and actual Mallowbreak squall/aftermath images inspected on resume. Existing figure rendering deliberately rejected while prop counts, pose, identity boundaries and ivory retained; Ossa/Sileth facial differentiation specified.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a9805f61-2869-4971-b4b9-b206770436ba.png",
+            "candidateSha256": "96049cb996a2d5cf451d9d786fd209bc87ca5e346acdc2e4971a33f19704f26d",
+            "completedAt": "2026-09-24T03:26:23.528223+00:00",
+            "visualInspection": [
+              "Actual returned pixels inspected: geometry/counts retained, but old chipped surface and warm studio modelling reproduced. Rejected; old image as reference is overpowering paint/light brief."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "REVISE",
+            "prompt": "Create a NEW character reference painting from this written brief, not a copy of a previous character sheet. Landscape 1536x1024. One identity only. This is a real MATTE OIL PAINTING in the Canadian Group of Seven tradition: make the human figure out of the SAME broad connected brush-painted value masses as the clouds and water in reference 1. Large decisive bristle sweeps that describe volume; flat opaque planes joined quietly, occasional thick scraped oil along selected cloth folds. Thin rubbed shadows and a few thick highlights. No collection of individually beveled raised chips, tessellated flakes, mosaic, scales, chiseled clay, 3D-rendered impasto, glossy cheeks or glinting edges. Reference 1 controls the paint and illumination. Reference 2 is only a subordinate folio/layout idea; do NOT use its warm sunlight, face, clothing, ground, scenery or swatches. The figure is under COOL DIFFUSED GREY SQUALL LIGHT: cool grey shadow masses, subdued cool skin, no sunny amber rim, no studio lamps, no tiny white highlights on skin. The PAGE is light quiet warm ivory, empty negative space and dark readable serif lettering; no dark background, water, sky, floor patch, scenery or palette swatches. Composition: two large full-body views across the LEFT HALF, FRONT and BACK, feet fully inside frame. Right half has two broad-painted head studies across top, source-required details below. All views share identity, clothes, age and ordinary human anatomy. Use FEWER, LARGER painting strokes than the reference sheet: keep a cheek as one connected matte color mass, coat panel as one connected dark mass with directional brush strokes across it, not a patchwork of chips. Exact smaller subtitle The Tide Will Have Her Answer. Heading Sileth Nemm. Golden-brown-skinned woman40s with distinctly SOFT ROUND FACE, broad cheeks, modest short nose and short chin-length black bob. Not an angular grey-haired woman. Umber practical long coat, muted RUST red scarf, grey trousers, brown boots. Driftwood staff held in anatomical RIGHT hand (front viewer LEFT; rear viewer RIGHT). Repaired sewn ritebook worn at anatomical LEFT hip (front viewer RIGHT; rear viewer LEFT), ONE diagonal strap anatomical right shoulder to left hip. Two top-right head studies Alarmed and Careful, same round face and bob. Below small waist-up Shore-return state carefully holding ordinary folded crown cloth, no crown on her head. Lower-right main equipment study is a simple cedar BRINE CLOCK: EXACTLY SEVEN green glass water vessels in a horizontal straight row, and EXACTLY SEVEN little receiving cups directly below, each vessel aligned one-to-one with one cup, open gaps separate all seven. No hidden eighth vessel or sixth cup. Label Brine clock / 57 minutes. Small sewn Ritebook and Driftwood staff material studies, no scenery.",
+            "references": [
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "PRIMARY: matte connected storm-light oil masses, broad sweeping bristles and quiet paint joins; palette/light only, no scenery",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY: original Sculpted Impasto paint and legible study-sheet idea only; NO identity, clothes, light, text, swatches or scenes",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:26:23.528223+00:00",
+            "preflight": "Changed conflicting inputs and composition: removed old character sheet; new two-full-view folio built from written identity, source counts and anatomical orientation. Actual squall painting is primary paint/light input. Source and original inspected; broad matte mass vs chip diagnosis explicitly addressed.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-5f1927a2-bef4-4c71-9a91-0e5bcf891448.png",
+            "candidateSha256": "e387fb950e6090b2c90ec1e8433873b5d8e1213563c6490919a2ced6444cea2b",
+            "completedAt": "2026-09-24T03:34:17.233472+00:00",
+            "visualInspection": [
+              "Cooler broader matte paint now materially improved; exact labels and core source facts retained. Small ground patches violate character-only ivory; targeted removal required.",
+              "Rear book mirrored; restore anatomical left hip."
+            ]
+          },
+          {
+            "attempt": 6,
+            "status": "REVISE",
+            "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Correct ONLY rear full figure book/strap orientation: book now incorrectly at viewerRIGHT. Remove it there and put that single sewn book on viewerLEFT hip (her anatomical LEFT). Rear strap runs from viewerRIGHT shoulder to viewerLEFT hip, behind her rust scarf. Front book already at viewerRIGHT hip and front strap already correct: preserve. Staff in right hand already correct bothviews. Keep round40s face/blackbob, seven green vessels and seven aligned receiving cups, exact title and all labels. Remove any ground shadow under clock feet/cups as well.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-5f1927a2-bef4-4c71-9a91-0e5bcf891448.png",
+                "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+                "sha256": "e387fb950e6090b2c90ec1e8433873b5d8e1213563c6490919a2ced6444cea2b",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:34:17.233472+00:00",
+            "preflight": "Actual new-composition pixels inspected. Matte paint improved; precise remaining floor marks, nail bend, rear book hip and Ossa age/hair specified independently without reintroducing old style references.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d52c06fd-03fb-4fb8-ac18-8e24e3425cf9.png",
+            "candidateSha256": "884a944fc3371c8147a3dff2a8567f73094afcb46da6330108448341eaa2e147",
+            "completedAt": "2026-09-24T03:47:36.270065+00:00",
+            "visualInspection": [
+              "Ivory ground, round face, seven vessels and seven cups pass. Rear book remains at viewer right despite correction; reject this orientation."
+            ]
+          },
+          {
+            "attempt": 7,
+            "status": "PASS",
+            "prompt": "Correct ONE clearly located mistake only. On the BACK-FACING FULL FIGURE in the MIDDLE LEFT, the book is currently beside the staff on the RIGHT EDGE. ERASE that book from the right hip. Put that SAME SINGLE BOOK on the LEFT EDGE of this rear figure, beside her empty left hand. The back strap must start at the RIGHT shoulder (viewer right) and slope diagonally DOWN TO THE LEFT hip (viewer left), forming / rather than \\. This is her anatomical LEFT hip. Do not flip the body or staff. Her staff stays in her right hand at viewer RIGHT. The FRONT-facing leftmost figure is ALREADY CORRECT: leave its book and strap untouched. Preserve the entire rest exactly: broad matte oil paint, dim diffuse figure light, warm clean ivory, full name Sileth Nemm, story title, round40s face and black bob, umber coat and rust scarf, seven glass vessels and seven cups. NO added book, no mirrored staff, no ground patches. Only relocate one rear book and reverse its back strap.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d52c06fd-03fb-4fb8-ac18-8e24e3425cf9.png",
+                "sha256": "884a944fc3371c8147a3dff2a8567f73094afcb46da6330108448341eaa2e147",
+                "inspected": true,
+                "role": "Actual candidate; reverse rear book and strap only"
+              }
+            ],
+            "startedAt": "2026-09-24T03:47:36.270065+00:00",
+            "preflight": "Actual previous repair ignored rear orientation; revised brief uses page edges and explicit slash direction, removes all unrelated repair requirements. Seven clock pairs and staff anatomy visually rechecked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9827c4d6-1b2d-4500-9b56-ef64703839f4.png",
+            "candidateSha256": "6b94c9c108a95c772a870fec9f60ea65b6fac5b71c525982a68d7a79b5d0d110",
+            "completedAt": "2026-09-24T04:01:09.068694+00:00",
+            "visualInspection": [
+              "Actual saved PNG inspected: rear book now correctly at anatomical LEFT hip (viewer left), strap right shoulder to left hip, front book viewer right unchanged, staff right hand both views.",
+              "Seven distinct green vessels and seven aligned cups countable; same round40s black-bob identity in all views, distinct from Ossa and Orselle.",
+              "Exact readable heading/title, two full views and source states/details on clean warm ivory; broader quieter matte oil and subdued storm-value figure light, no scenery/floor/swatches."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T04:01:09.068694+00:00",
+        "sourceSha256": "c73cf8b3ceadb0293a235e1a3156b34ec43700591d72d0a12f4a697cf08af77e",
+        "outputSha256": "6b94c9c108a95c772a870fec9f60ea65b6fac5b71c525982a68d7a79b5d0d110",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d52c06fd-03fb-4fb8-ac18-8e24e3425cf9.png",
+            "sha256": "884a944fc3371c8147a3dff2a8567f73094afcb46da6330108448341eaa2e147",
+            "inspected": true,
+            "role": "Actual candidate; reverse rear book and strap only"
+          }
+        ],
+        "evidence": [
+          "Actual saved PNG inspected: rear book now correctly at anatomical LEFT hip (viewer left), strap right shoulder to left hip, front book viewer right unchanged, staff right hand both views.",
+          "Seven distinct green vessels and seven aligned cups countable; same round40s black-bob identity in all views, distinct from Ossa and Orselle.",
+          "Exact readable heading/title, two full views and source states/details on clean warm ivory; broader quieter matte oil and subdued storm-value figure light, no scenery/floor/swatches."
+        ],
+        "specificationSha256": "c70af71b1ce9df5691fdacf2adfb00515afdcb9f530975dd1f882476f74e1b27"
+      },
+      "outputSha256": "6b94c9c108a95c772a870fec9f60ea65b6fac5b71c525982a68d7a79b5d0d110"
+    },
+    {
+      "id": "ossa-keld",
+      "name": "Ossa Keld",
+      "role": "Harbormaster coordinating evacuation, exact commands and rescue without taking Orselle's choice",
+      "selectionEvidence": [
+        {
+          "lines": "61",
+          "quote": "Nobody speak to the water",
+          "explanation": "Controls panic from onset."
+        },
+        {
+          "lines": "63",
+          "quote": "The harbormaster did not shout.",
+          "explanation": "Manner androle."
+        },
+        {
+          "lines": "379",
+          "quote": "Nobody chooses for you",
+          "explanation": "Preserves protagonist agency while requiring plan."
+        },
+        {
+          "lines": "499",
+          "quote": "Ossa bent to read it herself.",
+          "explanation": "Concludeswith checking ratherthanfaith."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Human woman, appearanceunspecified.",
+        "lifeStage": "Experiencedadult harbormaster.",
+        "proportions": "Unspecified.",
+        "markings": "None stated.",
+        "materials": "Practical harborcloth/leather.",
+        "clothing": "Unspecified stormworkattire.",
+        "equipment": "No distinctivegearrequired; commands/countinghands and checkingrule.",
+        "scale": "Adult human",
+        "movement": "Precise directedgestures, counts crews, repeatsworkingsequence, checksmeasurementherself.",
+        "distinctiveFeatures": "Calm exact authority, not ritualpriest or god."
+      },
+      "explicitCanon": [
+        "Localnon-canon storyfact: Ossa Keld woman harbormaster; measuredvoice andprecisecommanding.",
+        "Localnon-canon storyfact: No specialweapon, regalia or supernatural effectstated."
+      ],
+      "visualInterpretation": [
+        "Tall55-year-old olive-skinned woman with long angular nose, deep-set eyes, short black hair brushed flat back with white temple streaks, lean angular mature face/body. Art-only concrete age and hairstyle distinguish her from Orselle; no canon changed.",
+        "Deep navy weathercoat, palegrey highcollarshirt, mutedbrowntrousers and blackboots; no badge/weapon invented."
+      ],
+      "states": [
+        {
+          "name": "Command",
+          "description": "Upright measuredhand signal."
+        },
+        {
+          "name": "Checking",
+          "description": "Benthead observantexpression andcountinghands."
+        }
+      ],
+      "naming": {
+        "sourceName": "Ossa Keld",
+        "provenance": "Exactfullname infinishedstory."
+      },
+      "recurrence": {
+        "identityKey": "fifty-seven-minutes:ossa-keld",
+        "links": [],
+        "evidence": "No matching sharedauthority entry; matchingnamealone notidentity."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Approvedoil style only, excludeidentity/armor/heading",
+          "inspected": true,
+          "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+          "role": "Same-story maritime stormlight/palette andbrushonly",
+          "inspected": true,
+          "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+          "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+          "role": "Aftermath palette andoilhandling only, nogeography",
+          "inspected": true,
+          "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+          "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+        },
+        {
+          "path": "stories/fifty-seven-minutes/title-image.jpg",
+          "role": "Inspected symboliccover, no characteridentity",
+          "inspected": true,
+          "notes": "Nail/drop/boundary againstsea; no cast anatomy; not sent togeneration.",
+          "sha256": "fe9a8f8140c4e3af55851a9989daff2df6619cc4128143f98388fc9f589c9a2e"
+        }
+      ],
+      "output": "stories/fifty-seven-minutes/art/characters/ossa-keld.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Make Ossa unmistakably an OLDER harbormaster AGE55-58, not a woman39, consistently in front full body, BOTH portraits and counting half-body: deepen sunken eye sockets, add mature eye/mouth creases, leaner hollow cheeks, lengthen prominent straight nose bridge and narrow lowerface, slight aged jaw softness. Keep a LONG angular face and olive skin. Change her hair styling to clearly differentiate her from Orselle: short BLACK hair brushed FLAT BACK away from forehead, strong white ONLY at temples, no tousled grey wavy forelock or bob. Same hairline/face across all views including rear. Preserve navy coat, hands with FIVE digits, calm expression, no new props. Keep broad quiet matte painted skin, no glossy face or stippling.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Notreported bybuilt-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0371839a-98e5-4dbd-96a6-04ee89b0f77d.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "c15a25cbd5150e29607b859bbaa237b058aff0ac5a8f6092f7b96771fcd75590",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One1536x1024 landscape warm ivory character-only sheet. Exact requested name heading, subtitle The Tide Will Have Her Answer, legible serif. NEVER copy another reference name or face. 2-3 unclipped useful complete forms, selected head/hand/equipment details, concise labels. NO scene/location, ground/floor patches, sea vignette, palette swatches or decorative prose. Canadian Group of Seven inspired oil with LARGE CONNECTED colour/value masses, broad directional bristles and substantial SELECTIVE impasto; quieter connecting paint, faces/hair equally painted. Avoid uniform bevel-lit chips, CGI, glossy eyes, anime lines/smooth digitalfaces. Characterref rendering/layout ONLY; inspected same-story paintings supply cool squall slate/sea-green and warm ochre reflections only, NOT geography. Lighting is diffused maritime squall with muted warm skin, not golden spotlight. Heading EXACT Ossa Keld. Distinct TALL leanangular woman50s, olive skin, LONG ANGULAR NOSE, deep-seteyes, short BLACKHAIR with WHITE TEMPLES, no facialclone fromreference. Deep NAVY practical weathercoat, palegrey highcollarshirt, mutedbrowntrousers, blackboots. Three complete forms Front with one openhand calmSTOP signal, Rear, threequarter Counting with modesthandgesture (all hands fivefingers). Headstudies Listening and Deciding, sternquiet authority notshouting. Small handstudy repeatingcounts and close coatmaterialdetail; NO invented maps, badges, sword, whistle, crown or ritualobjects. Don't import anothercharacter'srope crown/bluesash/staff. No scene/groundpatch. Diffusedmaritime coollight, warmskin paintedmasses.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approvedoil style only, excludeidentity/armor/heading",
+                "inspected": true,
+                "notes": "Connected oilplanes and selectiveimpasto; notsubjectcasting.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Same-story maritime stormlight/palette andbrushonly",
+                "inspected": true,
+                "notes": "Muted slate/sea-green/ocher stormharbor; no characteridentity.",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec"
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/05-water-through-the-ruined-yard.png",
+                "role": "Aftermath palette andoilhandling only, nogeography",
+                "inspected": true,
+                "notes": "Coolgrey/warmreflected ochre ruinedyard; nofigures.",
+                "sha256": "1d83017e373f4e0c99554657a08ce02612e2c30826e482c7c728dc3680922ad0"
+              }
+            ],
+            "startedAt": "2026-09-23T23:27:25.694254+00:00",
+            "preflight": "Full501-line story and authority read; inspected actual art, no existing characterrefs. Four distinctcast, Orselle unchanged apparent39 despitegrayhair/mortality, exact source names and count-specific props checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-9264eddc-0eaf-45b4-b937-a0ce4e19d857.png",
+            "candidateSha256": "5c6f5566de2c3613e3cfe856cecc35c81fe10ea4fa600d8a80efeb5252f40c79",
+            "completedAt": "2026-09-23T23:49:01.122648+00:00",
+            "visualInspection": [
+              "Dark smoky background obscures heading; replace with approved ivory.",
+              "Largest counting open palm needs five-digit clarification; preserve other forms."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Correct the BACKGROUND ONLY wherever it is empty space: replace ALL dark smoky brown-grey gradients and shadows with a uniform quiet WARM IVORY folio ground (#f4ead5 approximately). It must be light enough that the existing BLACK serif heading, subtitle and labels are clearly readable everywhere. Do not add panels, scenery or floor patches. Preserve the characters' painted colours and existing directional light, every pose/material, layout and label wording; do not apply a dark filter to the page. 1536x1024 landscape. Keep the original substantial oil brushwork on characters. Exact heading Ossa Keld and title The Tide Will Have Her Answer. Also anatomically correct ONLY the first/largest open-palm hand in the bottom-right Counting (hands) group: exactly FIVE digits total, four fingers and ONE thumb, no duplicate side digit. A clearly posed ordinary open right palm with thumb on viewer LEFT, four fingers above, proportionate human fingers. Preserve the other hand studies, her raised-hand whole figure, same short black/white-temple hair, navy coat and age50s identity. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-9264eddc-0eaf-45b4-b937-a0ce4e19d857.png",
+                "role": "targeted ivory/readability and specified continuity repair",
+                "sha256": "5c6f5566de2c3613e3cfe856cecc35c81fe10ea4fa600d8a80efeb5252f40c79",
+                "inspected": true
+              }
+            ],
+            "preparedAt": "2026-09-23T23:49:01.122713+00:00",
+            "startedAt": "2026-09-24T02:21:27.850189+00:00",
+            "preflight": "Resume: current full prose and source marker read; actual four candidate pixels inspected. Prepared prompt preserves identity and dim maritime character light while separating ivory background; exact headings, rear orientation, seven-vessel count and open-hand anatomy checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b6b1f7b6-0ace-487c-86ad-e71a81cee340.png",
+            "candidateSha256": "0ecd089a94726eb0b5585c45b7aec03e172e1f3a9fc01dcac444d2a2ebb716be",
+            "completedAt": "2026-09-24T02:25:38.908370+00:00",
+            "pauseBeforeCallReason": "User explicitly paused full collection before correction call. No image generation active.",
+            "visualInspection": [
+              "Actual corrected PNG reviewed at full size: exact readable name/title, warm ivory, navy oil-painted coat and consistent black hair with white temples in each view.",
+              "Largest palm now has five digits total; front stop signal, counting gesture and secondary hands retain ordinary anatomy.",
+              "Three unclipped full views and consistent angular face; source-motivated diffused maritime light remains on the figure, with no location or swatches."
+            ],
+            "coordinatorReview": {
+              "status": "REVISE",
+              "finding": "Warm glossy studio lighting and uniform bevel-lit chips conflict with maritime squall and broad matte collection paint; Ossa face too similar to Orselle.",
+              "reviewedAt": "2026-09-24T03:09:53.254082+00:00"
+            }
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "prompt": "Repaint the character artwork of image 1 into the actual MATTE, broad-mass Canadian Group of Seven oil handling of image 2 (Mallowbreak squall) and image 3 (original Sculpted Impasto sheet). Image 1 is subject/layout/props ONLY: DO NOT PRESERVE its glossy chip-rendered technique or warm studio light. Image 2 is the PRIMARY LIGHTING and colour/value-mass reference: cool diffused storm daylight, connected low-chroma slate-grey/sea-green shadows, muted ochre reflected notes, no direct sun or studio spotlight. Image 3 supplies the decisive broad scraped OPAQUE oil shapes, bristle sweeps and selective raised paint ONLY; no character face, armor, cape, name, swatches or scenery from it. REPLACE clusters of many bevel-lit tiny chips with larger flat-connected brush/knife masses. Leave quiet matte joins. Paint skin in a few substantial connected value planes with broad restrained strokes, hair in larger grouped locks; no glossy forehead, white flecks along every edge, plastic sculpted scales, smooth photorealism or anime contours. No universal amber key, rim lights, shiny cheeks or individually lit paint relief. Preserve all precise character geometry, hands, source props, exact labels and headings, and existing ivory layout except identity refinement explicitly below. The entire BACKGROUND stays uniform light warm ivory and black text stays fully readable. No scene, floor patches or swatches. One 1536x1024 landscape sheet. Exact heading Ossa Keld, subtitle The Tide Will Have Her Answer. Correct her identity in EVERY front/three-quarter/head view to the recorded distinct FIFTIES harbormaster: visibly age52-58, LONG ANGULAR NOSE with a straight pronounced bridge, deep-set smaller eyes, LEAN ANGULAR face with more hollow temples and cheeks, narrower lips, clear mature folds around eyes/mouth. This must be visibly different from a glamorous39-year-old or softly round40s woman. Retain OLIVE skin, short BLACK hair with WHITE TEMPLES, deep NAVY coat, tall lean body and calm reserved expression. Same new mature nose/eyes/cheek structure across all views, not just portraits. Preserve three complete forms, all hands including exactly FIVE digits on corrected open palm, coat detail and labels. Cool matte squall light, deeper connected shadow planes, no bright orange-peach polished face.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b6b1f7b6-0ace-487c-86ad-e71a81cee340.png",
+                "role": "Immutable selected sheet: subject, anatomy, exact prop count and corrected gear orientation; rendering must change",
+                "sha256": "0ecd089a94726eb0b5585c45b7aec03e172e1f3a9fc01dcac444d2a2ebb716be",
+                "inspected": true
+              },
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "Primary inspected same-story cool diffuse squall lighting and connected matte oil masses; no geography",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Inspected original Sculpted Impasto: broad directional opaque painting only; no identity, clothes, text, ground or swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:09:53.254082+00:00",
+            "preflight": "Root review findings read. Actual original Sculpted Impasto and actual Mallowbreak squall/aftermath images inspected on resume. Existing figure rendering deliberately rejected while prop counts, pose, identity boundaries and ivory retained; Ossa/Sileth facial differentiation specified.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-7f8eeddf-e2fc-4dca-8ee5-c3992571172e.png",
+            "candidateSha256": "209fe8c5d433c05e67cf817252457e775a0bc761c15bc98713b2aa98bfbf662f",
+            "completedAt": "2026-09-24T03:26:23.528223+00:00",
+            "visualInspection": [
+              "Actual returned pixels inspected: geometry/counts retained, but old chipped surface and warm studio modelling reproduced. Rejected; old image as reference is overpowering paint/light brief."
+            ]
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "prompt": "Create a NEW character reference painting from this written brief, not a copy of a previous character sheet. Landscape 1536x1024. One identity only. This is a real MATTE OIL PAINTING in the Canadian Group of Seven tradition: make the human figure out of the SAME broad connected brush-painted value masses as the clouds and water in reference 1. Large decisive bristle sweeps that describe volume; flat opaque planes joined quietly, occasional thick scraped oil along selected cloth folds. Thin rubbed shadows and a few thick highlights. No collection of individually beveled raised chips, tessellated flakes, mosaic, scales, chiseled clay, 3D-rendered impasto, glossy cheeks or glinting edges. Reference 1 controls the paint and illumination. Reference 2 is only a subordinate folio/layout idea; do NOT use its warm sunlight, face, clothing, ground, scenery or swatches. The figure is under COOL DIFFUSED GREY SQUALL LIGHT: cool grey shadow masses, subdued cool skin, no sunny amber rim, no studio lamps, no tiny white highlights on skin. The PAGE is light quiet warm ivory, empty negative space and dark readable serif lettering; no dark background, water, sky, floor patch, scenery or palette swatches. Composition: two large full-body views across the LEFT HALF, FRONT and BACK, feet fully inside frame. Right half has two broad-painted head studies across top, source-required details below. All views share identity, clothes, age and ordinary human anatomy. Use FEWER, LARGER painting strokes than the reference sheet: keep a cheek as one connected matte color mass, coat panel as one connected dark mass with directional brush strokes across it, not a patchwork of chips. Exact smaller subtitle The Tide Will Have Her Answer. Heading Ossa Keld. Tall lean woman visibly AGE55, olive skin, a LONG ANGULAR PROMINENT NOSE, deep-set small eyes, hollow temples, narrow lips and clearly mature folds. Short BLACK hair with WHITE temple streaks. Face is long lean angular and older; no youthful broad-cheeked face, no grey allover hair. Dark NAVY weathercoat, pale grey high collar shirt, muted brown trousers, black boots. Front pose raises right hand in a modest calm open stop gesture: normal hand with exactly FIVE digits. Back pose same navy coat, no weapons or equipment. Right top head studies Listening and Deciding make the mature long nose and deep-set eyes unambiguous. Middle right waist-up Checking, quietly counting with fingertips and looking down. Bottom three small ordinary hand studies: one open palm exactly four fingers plus one thumb; two modest counting gestures, anatomically coherent. Small coat cuff detail. No badge, crown, map, sword or religious objects. Paint face as broad cool muted olive masses with matte dark creases, no bright peach polish.",
+            "references": [
+              {
+                "path": "stories/fifty-seven-minutes/art/landscapes/01-squall-at-mallowbreak.png",
+                "role": "PRIMARY: matte connected storm-light oil masses, broad sweeping bristles and quiet paint joins; palette/light only, no scenery",
+                "sha256": "095dc40134f357e7620477cab30b06a8ca72ca71023c6b6e2a8444d5fffe43ec",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "SECONDARY: original Sculpted Impasto paint and legible study-sheet idea only; NO identity, clothes, light, text, swatches or scenes",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:26:23.528223+00:00",
+            "preflight": "Changed conflicting inputs and composition: removed old character sheet; new two-full-view folio built from written identity, source counts and anatomical orientation. Actual squall painting is primary paint/light input. Source and original inspected; broad matte mass vs chip diagnosis explicitly addressed.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0371839a-98e5-4dbd-96a6-04ee89b0f77d.png",
+            "candidateSha256": "c15a25cbd5150e29607b859bbaa237b058aff0ac5a8f6092f7b96771fcd75590",
+            "completedAt": "2026-09-24T03:34:17.233472+00:00",
+            "visualInspection": [
+              "Cooler broader matte paint now materially improved; exact labels and core source facts retained. Small ground patches violate character-only ivory; targeted removal required.",
+              "Refine unmistakable mature fifty-five-year face and black hair styling to separate from Orselle."
+            ]
+          },
+          {
+            "attempt": 5,
+            "status": "PASS",
+            "prompt": "Make a minimal correction to this existing 1536x1024 character sheet. Preserve the NEW cool diffused storm light, connected broad matte oil masses, quiet joins, skin colours, readable name/title, all existing poses and source props. Do not return to a glossy chip surface or warm studio light. Remove ALL grey/brown ground marks and shadows from beneath the full-body feet and isolated objects. The figures/objects sit directly on completely clean LIGHT WARM IVORY negative space, no floor patches, no scene. Keep the feet complete and uncropped. Make Ossa unmistakably an OLDER harbormaster AGE55-58, not a woman39, consistently in front full body, BOTH portraits and counting half-body: deepen sunken eye sockets, add mature eye/mouth creases, leaner hollow cheeks, lengthen prominent straight nose bridge and narrow lowerface, slight aged jaw softness. Keep a LONG angular face and olive skin. Change her hair styling to clearly differentiate her from Orselle: short BLACK hair brushed FLAT BACK away from forehead, strong white ONLY at temples, no tousled grey wavy forelock or bob. Same hairline/face across all views including rear. Preserve navy coat, hands with FIVE digits, calm expression, no new props. Keep broad quiet matte painted skin, no glossy face or stippling.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0371839a-98e5-4dbd-96a6-04ee89b0f77d.png",
+                "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+                "sha256": "c15a25cbd5150e29607b859bbaa237b058aff0ac5a8f6092f7b96771fcd75590",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T03:34:17.233472+00:00",
+            "preflight": "Actual new-composition pixels inspected. Matte paint improved; precise remaining floor marks, nail bend, rear book hip and Ossa age/hair specified independently without reintroducing old style references.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-be859ae5-28b5-4201-9e50-f6345669d79e.png",
+            "candidateSha256": "dcf1afd50d89e29e3a9c6fd2733112a1d09cc59653fb059abb984662514ab490",
+            "completedAt": "2026-09-24T03:47:36.270065+00:00",
+            "visualInspection": [
+              "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+              "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+              "Ossa now visibly mature50s with lean long angular nose, deep-set eyes and swept-back black hair with white temples, distinct from Orselle and round-faced Sileth; front/palm studies ordinary five digits."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T03:47:36.270065+00:00",
+        "sourceSha256": "c73cf8b3ceadb0293a235e1a3156b34ec43700591d72d0a12f4a697cf08af77e",
+        "outputSha256": "dcf1afd50d89e29e3a9c6fd2733112a1d09cc59653fb059abb984662514ab490",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0371839a-98e5-4dbd-96a6-04ee89b0f77d.png",
+            "role": "Immutable new-composition matte candidate; correct only stated residual content and clean ivory",
+            "sha256": "c15a25cbd5150e29607b859bbaa237b058aff0ac5a8f6092f7b96771fcd75590",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual returned saved PNG reviewed full-size: readable exact heading/title, one consistent identity, complete two full views and source states/details, clean warm ivory with ground patches removed.",
+          "New composition materially replaces uniform bright chip relief with larger connected matte brush/knife masses and restrained cool squall illumination; no warm studio rim/gloss, locations or swatches.",
+          "Ossa now visibly mature50s with lean long angular nose, deep-set eyes and swept-back black hair with white temples, distinct from Orselle and round-faced Sileth; front/palm studies ordinary five digits."
+        ],
+        "specificationSha256": "74c61446cad1549a917ac21d023bc031c899e4c56d1c2fae8c99712f94b9f0d5"
+      },
+      "outputSha256": "dcf1afd50d89e29e3a9c6fd2733112a1d09cc59653fb059abb984662514ab490"
+    }
+  ]
+}

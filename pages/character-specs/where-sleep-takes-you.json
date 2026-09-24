@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "slug": "where-sleep-takes-you",
+  "title": "Where Sleep Takes You",
+  "source": "stories/where-sleep-takes-you/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Cira and Pevin sustained co-protagonists plus unnamed attendant repeatedly witnesses item decisions and enforces clock; attendee selected as consequential recurring supporting identity.",
+  "excludedMinorCharacters": "Laundry/roof building staff, taxi drivers and clients are episodic/offstage; no sentient devices. Tag supports waking/location only and does not choose teleportation.",
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "cira-keln",
+      "name": "Cira Keln",
+      "role": "38-year-old shop owner with narcolepsy and involuntary sleep-onset teleportation",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-eight, Cira had practiced many versions of leaving.",
+          "explanation": "38-year-old shop owner with narcolepsy and involuntary sleep-onset teleportation"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman age38, trousers/jacket, zipped belt pouch containing clipped key, phone on tether, ledger slot; wristtag greenready/whitearrivalstrobe. Holds no loose item crossing. No choice of destination."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only deep brown square oval face, short natural black curls, sturdy averagebuild, teal workjacket ochre shirt brown worktrousers darkboots. Wristtag fixed anatomicalLEFT, pouch frontcenter."
+      ],
+      "states": [
+        {
+          "name": "Opening inventory at4:04 awake",
+          "description": "Woman age38, trousers/jacket, zipped belt pouch containing clipped key, phone on tether, ledger slot; wristtag greenready/whitearrivalstrobe. Holds no loose item crossing. No choice of destination."
+        }
+      ],
+      "lighting": "Neutral white storage lights with modest afternoon spill; no neon aura/portal.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Cira Keln"
+      },
+      "status": "completed",
+      "output": "stories/where-sleep-takes-you/art/characters/cira-keln.png",
+      "generation": {
+        "prompt": "Use case: text-localization. Make ONLY ONE SMALL TEXT correction on this exact Cira Keln folio. Under the open pouch detail, replace the second caption line with this exact text: Clipped key, tethered phone, ledger slot. Keep the first line Pouch (open). Remove the accidental word voice; the source ledger is paper. Preserve every illustration pixel, especially the lower-right LEFT dorsal hand with fingers pointing DOWN and thumb on IMAGE-LEFT, both correct LEFT wrist tags, body poses, face/hair/clothes/boots and pouch. Preserve all other headings, captions, ivory background, composition, dimensions and matte oils unchanged.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3717d1b0-502a-4da0-9922-9c41314f5ed4.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "088c2f5434b1aaf34e169ac22a069b7b964edcfe7fbd44bb9ccf8562d3139915"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Cira Keln; exact subtitle Where Sleep Takes You. Cira Keln EXACT38 woman, deep-brown square oval face, short natural black curls, sturdy averagebuild alert practical expression, teal workjacket ochre shirt brown trousers dark lace workboots. Opening4:04 awake: zipped black BELT POUCH FRONT CENTER secure; wristtag ONLY ANATOMICAL LEFT (front viewerRIGHT/rearviewerLEFT), steady GREEN BAR tinydisplay. Front/rear same sides. Portrait plus small OPEN POUCH detail showing clipped key, phone tether and narrow ledger slot, no loose key on mainbody. No gun/armor/magicglow/portal; disability not a caricature. White storage lights mild overhead neutral planes, connected gray-violet shadow. Two completebodies allfeetmargin and hands natural.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/where-sleep-takes-you/art/landscapes/01-the-storage-loading-bay.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "2285594f4b5eab0868fcc7372b95195c56baa63858e3b370b6f03d7ef665e8a2"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.823404+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ecfe552-5593-4c4e-aabc-a3f1955e5d0f.png",
+            "outputSha256": "eb4bc91aca9bbd35a8b4bc9d7968299d156e55e0dd4f6120d15a3351557e691d",
+            "generatorReview": "Source38/currentperson/pouch/wardrobe passes. Vignette hidesheading; front LEFT wrist device missing while rear correct; detached Left wrist tag study is a dorsal RIGHT hand. Correct device visibility and study laterality."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:34:14.406733+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Cira Keln, exact subtitle Where Sleep Takes You clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Keep exact38yearoldface/shortcurls,tealjacket/ochreshirt/browntrousers/boots and CENTERbeltpouch. MainREARwristtag at ANATOMICALLEFT(viewerLEFT) is correct unchanged. Add SAME blackwristtag with steadygreenbar to FRONT ANATOMICALLEFT wrist(viewerRIGHT); other frontwrist staysbare. Correct detachedstudy labeled Left wrist tag: shows BACK OF HER LEFT HAND with knuckles/nails, wristabove, fingersDOWN, THUMB MUST PROJECT ON VIEWER RIGHT (currentlyviewerLEFTwrong). Mirroronlyits handanatomy; fourfingersandthumbnatural. Preserve devicegreenbar andlabel. Openpouchdetail clippedkey/phonetether/ledger remains asis. Neutralwhite storage lighting, noportal/glow.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-1ecfe552-5593-4c4e-aabc-a3f1955e5d0f.png",
+                "sha256": "eb4bc91aca9bbd35a8b4bc9d7968299d156e55e0dd4f6120d15a3351557e691d",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Source38/currentperson/pouch/wardrobe passes. Vignette hidesheading; front LEFT wrist device missing while rear correct; detached Left wrist tag study is a dorsal RIGHT hand. Correct device visibility and study laterality.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-44140694-55d9-4050-9369-eb292eee2abc.png",
+            "outputSha256": "d22b7f824211722fef63f3cc91d4cefa672c21c949f6caf3b7213689a62eb6af",
+            "generatorReview": "Withdrawn mistaken earlier thumb convention: original LEFT dorsal inset was correct. Current repaired sheet has real ivory/front-wrist improvements but inset was mirrored to RIGHT; return only inset to LEFT.",
+            "reviewRevisions": [
+              {
+                "reason": "Root-coordinated anatomical convention audit withdrew the prior demand to mirror the original left dorsal study. Correct left dorsal fingers-down thumb is image-left. Attempt 2 retains genuine ivory/front-wrist improvements but its inset is wrong; attempt 3 repairs only that inset. Exact prompts remain unchanged as history."
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T10:31:23.063155+00:00",
+            "prompt": "Edit only the lower-right isolated hand-and-wrist study in this exact Cira Keln sheet. Mirror that isolated hand and sleeve horizontally, in its same layout area, while KEEPING the caption text readable and unmoved. It must depict the LEFT HAND BACK (dorsal view), wrist above, four fingers pointing DOWN, thumb on IMAGE-LEFT. Nail/knuckle backs remain visible; five digits total. The dark wrist tag with green bar stays on this same isolated LEFT wrist. Do not mirror the whole page or either full-body figure. Preserve existing front and rear LEFT wrist tags (front image-right, rear image-left), faces, two expressions, equipment/pouch, all clothing, exact title/name/captions, matte oils and ivory background. Only mirror the detached study so its correct left-hand anatomy matches its caption.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-44140694-55d9-4050-9369-eb292eee2abc.png",
+                "sha256": "d22b7f824211722fef63f3cc91d4cefa672c21c949f6caf3b7213689a62eb6af",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Withdrawn mistaken earlier thumb convention: original LEFT dorsal inset was correct. Current repaired sheet has real ivory/front-wrist improvements but inset was mirrored to RIGHT; return only inset to LEFT.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3717d1b0-502a-4da0-9922-9c41314f5ed4.png",
+            "outputSha256": "088c2f5434b1aaf34e169ac22a069b7b964edcfe7fbd44bb9ccf8562d3139915",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:34:20.199675-04:00",
+            "generatorReview": "Recovered actual saved result. Detached LEFT dorsal hand restored correctly, fingers down/thumb image-left; both body LEFT wrist tags retained. Source/reference reinspection before final pin.",
+            "reviewRevisions": [
+              {
+                "reviewedAt": "2026-09-24T07:08:59.413179-04:00",
+                "reason": "Detached LEFT dorsal hand restoration now correct. Final text inspection found an unsupported voice modifier before ledger; repair only caption."
+              }
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T07:08:59.417187-04:00",
+            "prompt": "Use case: text-localization. Make ONLY ONE SMALL TEXT correction on this exact Cira Keln folio. Under the open pouch detail, replace the second caption line with this exact text: Clipped key, tethered phone, ledger slot. Keep the first line Pouch (open). Remove the accidental word voice; the source ledger is paper. Preserve every illustration pixel, especially the lower-right LEFT dorsal hand with fingers pointing DOWN and thumb on IMAGE-LEFT, both correct LEFT wrist tags, body poses, face/hair/clothes/boots and pouch. Preserve all other headings, captions, ivory background, composition, dimensions and matte oils unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3717d1b0-502a-4da0-9922-9c41314f5ed4.png",
+                "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+                "inspected": true,
+                "sha256": "088c2f5434b1aaf34e169ac22a069b7b964edcfe7fbd44bb9ccf8562d3139915"
+              }
+            ],
+            "reason": "Detached LEFT dorsal hand restoration now correct. Final text inspection found an unsupported voice modifier before ledger; repair only caption.",
+            "preflight": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d309-1ec2-7493-8aae-09c8c133e166/exec-3d93c519-d53f-439f-ae91-72e9b63db44d.png",
+            "outputSha256": "25a791fa428992a8a691e8663e0dadb2532609ff31c26f637ed10f4a71989fbc",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T07:23:18.160024-04:00",
+            "generatorReview": "Saved actual pixels inspected against full finished source, cover, approved style and story painting. Detached LEFT dorsal hand has fingers down/thumb image-left, matching inspected Morris LEFT dorsal anatomy plate; natural five digits and nail backs visible. LEFT wrist tags match front image-right/rear image-left. Corrected pouch caption now reads Clipped key, tethered phone, ledger slot; no invented voice ledger. Age38 practical identity, contained equipment, consistent views, matte sculpted oils, exact headings and ivory margins pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Resume: finished source read in full; authoritative false marker checked, cover/original and story painting pixels reinspected. Entire prepared prompt compared with actual selected immutable target and source state. Local correction feasible at reading size; all other anatomy, identity, state and light retained. One asset per call, references inspected and pinned."
+      },
+      "outputSha256": "25a791fa428992a8a691e8663e0dadb2532609ff31c26f637ed10f4a71989fbc",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:23:18.160024-04:00",
+        "sourceSha256": "899096f6780917c955721e26262177ded4a6da7d3abc6d61d08ff7498127cc5c",
+        "outputSha256": "25a791fa428992a8a691e8663e0dadb2532609ff31c26f637ed10f4a71989fbc",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3717d1b0-502a-4da0-9922-9c41314f5ed4.png",
+            "role": "Immutable actual inspected edit target; preserve identity and accepted design, make only named correction.",
+            "inspected": true,
+            "sha256": "088c2f5434b1aaf34e169ac22a069b7b964edcfe7fbd44bb9ccf8562d3139915"
+          }
+        ],
+        "evidence": "Saved actual pixels inspected against full finished source, cover, approved style and story painting. Detached LEFT dorsal hand has fingers down/thumb image-left, matching inspected Morris LEFT dorsal anatomy plate; natural five digits and nail backs visible. LEFT wrist tags match front image-right/rear image-left. Corrected pouch caption now reads Clipped key, tethered phone, ledger slot; no invented voice ledger. Age38 practical identity, contained equipment, consistent views, matte sculpted oils, exact headings and ivory margins pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "7d41340eac80e747c52d3afe4d7c63e2695311dcb1c68b73109e2ec4b5c2deda"
+      }
+    },
+    {
+      "id": "pevin-ors",
+      "name": "Pevin Ors",
+      "role": "Trusted former shopmate who moves stock only after Cira confirms",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "He had spent the morning removing its bent wheel and putting on a sound one.",
+          "explanation": "Trusted former shopmate who moves stock only after Cira confirms"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult man former shopmate, reach takes upperrows, manages cart/labels/straps and video; no appearance/clothing specifics."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only43 broad mediumtan male tall strongworkingbuild, shaved scalp short brownbeard, rust canvas workshirt/navytrousers brownboots. Hands callused, nofixed gadgetside."
+      ],
+      "states": [
+        {
+          "name": "Opening inventory awake at unit",
+          "description": "Adult man former shopmate, reach takes upperrows, manages cart/labels/straps and video; no appearance/clothing specifics."
+        }
+      ],
+      "lighting": "Neutral storage white lights with modest afternoon daylight spill.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Pevin Ors"
+      },
+      "status": "completed",
+      "output": "stories/where-sleep-takes-you/art/characters/pevin-ors.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Pevin Ors, exact subtitle Where Sleep Takes You clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve tallstrong adultmale shavedscalp/shortbeard, rustworkshirt navytrousers brownboots, portraitandcallusedhandstrap/buckle. Normalstoragewhitelightingandpaintuntouched. Nootherchanges.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-af888e5e-e07f-43a6-bd99-f22249cc73df.png",
+            "sha256": "b7560197e61b927948e553e362c4ec2862f22125d14fa6066125eb6aea7e3ea8",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Pevin Ors; exact subtitle Where Sleep Takes You. Pevin Ors43 art-only tall male strong working build mediumtan broad face shaved scalp short brown beard steady darkbrown eyes. Rust canvas long-sleeve workshirt navy worktrousers sturdy brownboots. Noheroarmor. Two unclipped front/rear, portrait and callusedhand holding short simple webbingstrap/buckle, NOT whole cart or furniture. Calm matteroffact attentive, no franticrescuer. Same outfit plain bothsides. Neutral storage interior white lighting with mild afternoon daylight, shadowplanes connected.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/where-sleep-takes-you/art/landscapes/01-the-storage-loading-bay.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "2285594f4b5eab0868fcc7372b95195c56baa63858e3b370b6f03d7ef665e8a2"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.824280+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-af888e5e-e07f-43a6-bd99-f22249cc73df.png",
+            "outputSha256": "b7560197e61b927948e553e362c4ec2862f22125d14fa6066125eb6aea7e3ea8",
+            "generatorReview": "Adultidentity/hands/wardrobe/strap/pass; vignette obscuresheading."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.410608+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Pevin Ors, exact subtitle Where Sleep Takes You clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve tallstrong adultmale shavedscalp/shortbeard, rustworkshirt navytrousers brownboots, portraitandcallusedhandstrap/buckle. Normalstoragewhitelightingandpaintuntouched. Nootherchanges.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-af888e5e-e07f-43a6-bd99-f22249cc73df.png",
+                "sha256": "b7560197e61b927948e553e362c4ec2862f22125d14fa6066125eb6aea7e3ea8",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Adultidentity/hands/wardrobe/strap/pass; vignette obscuresheading.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-60765e4b-d383-471b-a3f2-15da07a64faf.png",
+            "outputSha256": "716917bf6a973411388a4dc163524862c101525ae99310e1aa121272314832e2",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:35.593868+00:00",
+            "generatorReview": "Actual pixels inspected: consistent strong adult man with shaved head/beard, rust work shirt/navy trousers/boots and ordinary callused strap-hand study; cart-handler demeanor intact without unrequested cart/scenery. Broad matte opaque daylight paint, ivory support/full framing/exact heading/title pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "716917bf6a973411388a4dc163524862c101525ae99310e1aa121272314832e2",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:35.593868+00:00",
+        "sourceSha256": "899096f6780917c955721e26262177ded4a6da7d3abc6d61d08ff7498127cc5c",
+        "outputSha256": "716917bf6a973411388a4dc163524862c101525ae99310e1aa121272314832e2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-af888e5e-e07f-43a6-bd99-f22249cc73df.png",
+            "sha256": "b7560197e61b927948e553e362c4ec2862f22125d14fa6066125eb6aea7e3ea8",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: consistent strong adult man with shaved head/beard, rust work shirt/navy trousers/boots and ordinary callused strap-hand study; cart-handler demeanor intact without unrequested cart/scenery. Broad matte opaque daylight paint, ivory support/full framing/exact heading/title pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "88836d6805590d90f2b726b040bc2c41ed31b75481fdec908b74a1f9cdea6adc"
+      }
+    },
+    {
+      "id": "ullven",
+      "name": "Ullven",
+      "role": "Unnamed male storage attendant who witnesses item decisions and controls deadline",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The attendant held a tablet between them.",
+          "explanation": "Unnamed male storage attendant who witnesses item decisions and controls deadline"
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult male attendant repeatedly uses tablet/witnessrecord, enforces six-o'clock access deadline, no appearance specified."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Art-only50 lightwarmbrown narrow face straight grayblackhaircombedbackclean-shaven, dark blue collared facility shirt stonegraytrousers black shoes, simple IDbadge (noemblem/lore). Tablet."
+      ],
+      "states": [
+        {
+          "name": "Opening authorization at unit",
+          "description": "Adult male attendant repeatedly uses tablet/witnessrecord, enforces six-o'clock access deadline, no appearance specified."
+        }
+      ],
+      "lighting": "Neutral storage white lights/afternoonspill.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Ullven",
+        "sourceRole": "Unnamed male storage attendant who witnesses item decisions and controls deadline",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/where-sleep-takes-you/art/characters/ullven.png",
+      "generation": {
+        "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Ullven, exact subtitle Where Sleep Takes You clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve matureclean-shavenface/silverblackhair,navyfacilityshirtgraytrousersblackshoesIDbadge,tabletinbothstudies,normalthreehands/standingbodyviewsandneutralstoragelight. Noextraauthoritybadge/weapon/person/scene. Nootherchanges.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-50d1a033-adb5-4734-8c5b-d91a6bd2f767.png",
+            "sha256": "958d58a83fb830ad83e7f5f30ad158abf9f5a9545b6157df6b0bcee5534cc89e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Ullven; exact subtitle Where Sleep Takes You. Ullven50 art-only male narrow lightwarmbrown face gray-black straight hair neatlycombedback clean-shaven. Practical dark blue facility collared shirt stone-gray trousers black everyday shoes, simple unreadable small IDbadge and tablet. Two full front/rear, restrained head and handtablet study. Professional neutral expression notvillainous. Story storage attendant, no lawbadge/weapon/commandoarmor. Neutral white interior lights with mild afternoonspill, connected shadows. Exact heading Ullven exactsubtitle Where Sleep Takes You.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/where-sleep-takes-you/art/landscapes/01-the-storage-loading-bay.png",
+                "role": "Same-story Group of Seven paint and source light relationship only; no environment in folio.",
+                "inspected": true,
+                "sha256": "2285594f4b5eab0868fcc7372b95195c56baa63858e3b370b6f03d7ef665e8a2"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:46:38.825019+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-50d1a033-adb5-4734-8c5b-d91a6bd2f767.png",
+            "outputSha256": "958d58a83fb830ad83e7f5f30ad158abf9f5a9545b6157df6b0bcee5534cc89e",
+            "generatorReview": "Distinct adultattendant/source-role/tablet/uniform/handanatomy pass; darkvignette obscuresheading."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:34:14.414228+00:00",
+            "prompt": "Replace ONLY all blurred dark background/support with UNIFORM LIGHT WARM IVORY, all edges and between every figure/detail. Exact heading Ullven, exact subtitle Where Sleep Takes You clearly darkbrown. Remove vignette/gradient/halos/floor patches. Preserve subject pixels/paint/state/light and all readable labels except as specifically corrected below. Preserve matureclean-shavenface/silverblackhair,navyfacilityshirtgraytrousersblackshoesIDbadge,tabletinbothstudies,normalthreehands/standingbodyviewsandneutralstoragelight. Noextraauthoritybadge/weapon/person/scene. Nootherchanges.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-50d1a033-adb5-4734-8c5b-d91a6bd2f767.png",
+                "sha256": "958d58a83fb830ad83e7f5f30ad158abf9f5a9545b6157df6b0bcee5534cc89e",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Distinct adultattendant/source-role/tablet/uniform/handanatomy pass; darkvignette obscuresheading.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-e1126967-236a-4ac5-9c9d-30db2a61d50f.png",
+            "outputSha256": "e7403d7f3f8a3b3ff051534eb4d76eb127a3c2d1776e2d9d245d1c6a01369435",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T10:34:35.617130+00:00",
+            "generatorReview": "Actual pixels inspected: same art-only named attendant identity with grey-black hair, navy facility shirt, grey trousers, ID and tablet; ordinary workplace demeanor, no invented enforcement badge/weapon/power. Consistent anatomy/paint/daylight, restored ivory and exact readable name/title/full framing pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "e7403d7f3f8a3b3ff051534eb4d76eb127a3c2d1776e2d9d245d1c6a01369435",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T10:34:35.617130+00:00",
+        "sourceSha256": "899096f6780917c955721e26262177ded4a6da7d3abc6d61d08ff7498127cc5c",
+        "outputSha256": "e7403d7f3f8a3b3ff051534eb4d76eb127a3c2d1776e2d9d245d1c6a01369435",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-50d1a033-adb5-4734-8c5b-d91a6bd2f767.png",
+            "sha256": "958d58a83fb830ad83e7f5f30ad158abf9f5a9545b6157df6b0bcee5534cc89e",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual pixels inspected: same art-only named attendant identity with grey-black hair, navy facility shirt, grey trousers, ID and tablet; ordinary workplace demeanor, no invented enforcement badge/weapon/power. Consistent anatomy/paint/daylight, restored ivory and exact readable name/title/full framing pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "4a0393678bf9f9c1ad01409d42bc07fb3824d64abe442939126af9a469bd6399"
+      }
+    }
+  ],
+  "sourceSha256": "899096f6780917c955721e26262177ded4a6da7d3abc6d61d08ff7498127cc5c"
+}

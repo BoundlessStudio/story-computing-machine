@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "slug": "strength-of-ten",
+  "title": "The Strength of Ten",
+  "source": "stories/strength-of-ten/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished prose/prompt/review read completely; cast selected for sustained physical presence and decisions across the story.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Couriers, road clerk, captains, soldiers, watch and Gorm's other daughters",
+      "reason": "Brief functional or collective participants, not independent sustained main characters."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md#Prince Lysander",
+    "universe/characters.md#Princess Sigrun",
+    "universe/characters.md#King Gorm",
+    "universe/rules.md#Gorm's personal scar-lattice exertion"
+  ],
+  "referenceInventory": [],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "prince-lysander",
+      "name": "Prince Lysander",
+      "role": "Thirty-year-old prince confronting his demobilization failure and negotiating northern aid.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Prince Lysander",
+          "explanation": "Thirty-year-old prince confronting his demobilization failure and negotiating northern aid."
+        }
+      ],
+      "storyAppearance": {
+        "age": 30,
+        "clothing": "Gloves and winter coat; route ledger under coat. Wedding chain surrendered; final severed clasp in hand.",
+        "equipment": [
+          "Route ledger",
+          "Severed gold clasp in final-state detail"
+        ],
+        "anatomy": "Shoulder hurt in culvert effort, no named side; avoid inventing permanent disability."
+      },
+      "explicitCanon": [
+        "LOCKED exact source age/agency/limits respected; physical details not explicitly established are art interpretation."
+      ],
+      "visualInterpretation": [
+        "Interpreted lean average-height man, light olive skin, straight dark chestnut hair to nape, defined nose, short brown beard, dark green winter coat with plain fur collar, high riding boots. No cover identity exists."
+      ],
+      "states": [
+        {
+          "name": "Harrowfast",
+          "description": "Pre-battle whole shoulder, winter travel outfit."
+        },
+        {
+          "name": "After compact",
+          "description": "Object/hand detail only severed clasp, no intact chain or betrothal ring."
+        }
+      ],
+      "lighting": "Cold winter hall/map-room daylight with limited lantern/hearth warmth.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Prince Lysander"
+      },
+      "status": "completed",
+      "output": "stories/strength-of-ten/art/characters/prince-lysander.png",
+      "generation": {
+        "prompt": "Replace ONLY the entire background/support with uniform LIGHT WARM IVORY matching the quiet collection folio. Remove every dark vignette, grey-brown mist, shadow gradient and shadow behind the lettering. Every edge and all negative space must be the same light ivory. Repaint exact existing headings/labels crisp dark brown-black against ivory, same content and positions. Do not change the character's face, body, poses, costume, props, anatomy, sizes or paint treatment. Keep all figures and text completely inside margins. Exact heading \"Prince Lysander\", subtitle \"The Strength of Ten\". Preserve two full figures, portrait and severed clasp palm detail. No new floor shadows.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-345d53f1-5704-487f-8b50-5a2df32f3e78.png",
+            "sha256": "65eae27eefda8ee038fe2081e7f9cafe06ef8f8995e01e32fb90da5c3a5d25ae",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Prince Lysander\", subtitle \"The Strength of Ten\". One thirty-year-old HUMAN prince, lean adult build, light olive skin, straight dark chestnut nape-length hair, defined narrow nose, short brown beard and brown eyes. Interpretive physical design, no likeness borrowed from folio. Dark forest-green winter wool coat with plain grey fur collar, brown gloves, belt, dark trousers and practical high riding boots; no giant crown, heroic armour or sword. Two complete standing views in Harrowfast PRE-BATTLE travel state, one with ordinary small route ledger under arm, both shoulders whole. One thoughtful face study and small OPEN PALM DETAIL with a single broken gold clasp labelled \"After compact\"; NOT an intact wedding chain, ring or romance emblem. Cold winter indoor window light, limited broad warm hearth-facing planes; substantial connected blue-grey interior shadows on face and coat. First ref light/paint only, other two oil/layout only. No tables, map landscape, horses or floor.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/strength-of-ten/art/interiors/02-harrowfast-map-room.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Cold overcast winter daylight plus modest lantern-facing warmth.",
+                "inspected": true,
+                "sha256": "f23928f3e7ca68c9f581bb3108478b2490d3efa40a596d6b8d701bded476d328"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "startedAt": "2026-09-24T04:44:04.288805+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-345d53f1-5704-487f-8b50-5a2df32f3e78.png",
+            "outputSha256": "65eae27eefda8ee038fe2081e7f9cafe06ef8f8995e01e32fb90da5c3a5d25ae",
+            "generatorReview": "Dark support hides exact heading; collection requires uniform ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:56:09.358303+00:00",
+            "prompt": "Replace ONLY the entire background/support with uniform LIGHT WARM IVORY matching the quiet collection folio. Remove every dark vignette, grey-brown mist, shadow gradient and shadow behind the lettering. Every edge and all negative space must be the same light ivory. Repaint exact existing headings/labels crisp dark brown-black against ivory, same content and positions. Do not change the character's face, body, poses, costume, props, anatomy, sizes or paint treatment. Keep all figures and text completely inside margins. Exact heading \"Prince Lysander\", subtitle \"The Strength of Ten\". Preserve two full figures, portrait and severed clasp palm detail. No new floor shadows.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-345d53f1-5704-487f-8b50-5a2df32f3e78.png",
+                "sha256": "65eae27eefda8ee038fe2081e7f9cafe06ef8f8995e01e32fb90da5c3a5d25ae",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark support hides exact heading; collection requires uniform ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-6aebceff-cf06-404a-9572-5c9f5c599008.png",
+            "outputSha256": "7f18603c46bf182d15735e2f75809d2d080489b741c3501df53512cfb0cf5d1a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:10:38.294350+00:00",
+            "generatorReview": "Actual corrected pixels inspected. Uniform ivory and exact readable headings restored; same30yearold face/body in full views and portrait, source winter coat/gloves/ledger and only severed final clasp isolated with label. No intact wedding pledge or battle injury invented in pre-battle views. Whole gloves/boots framed, no scenery/swatches. Broad opaque green/cold grey/warm hall-facing skin oil planes."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "7f18603c46bf182d15735e2f75809d2d080489b741c3501df53512cfb0cf5d1a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:10:38.294350+00:00",
+        "sourceSha256": "50df1d846b2d0951ce171fcd6bba8b24d9a3389563730046ef73ebbbd7a7bce9",
+        "outputSha256": "7f18603c46bf182d15735e2f75809d2d080489b741c3501df53512cfb0cf5d1a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-345d53f1-5704-487f-8b50-5a2df32f3e78.png",
+            "sha256": "65eae27eefda8ee038fe2081e7f9cafe06ef8f8995e01e32fb90da5c3a5d25ae",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected. Uniform ivory and exact readable headings restored; same30yearold face/body in full views and portrait, source winter coat/gloves/ledger and only severed final clasp isolated with label. No intact wedding pledge or battle injury invented in pre-battle views. Whole gloves/boots framed, no scenery/swatches. Broad opaque green/cold grey/warm hall-facing skin oil planes.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1e81698089d9156c62b91c5ce1c43c4e1f500e0b96fa0def3c6809a924786e42"
+      }
+    },
+    {
+      "id": "princess-sigrun",
+      "name": "Princess Sigrun",
+      "role": "Thirty-two-year-old second daughter and road-marshal who refuses marriage and commands the compact.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Princess Sigrun",
+          "explanation": "Thirty-two-year-old second daughter and road-marshal who refuses marriage and commands the compact."
+        }
+      ],
+      "storyAppearance": {
+        "age": 32,
+        "clothing": "Marshal's grey coat damp at shoulders, grain dust on one cuff.",
+        "equipment": [
+          "Two ledgers",
+          "Rolled road maps"
+        ],
+        "anatomy": "Ordinary adult human; no magical command."
+      },
+      "explicitCanon": [
+        "LOCKED exact source age/agency/limits respected; physical details not explicitly established are art interpretation."
+      ],
+      "visualInterpretation": [
+        "Interpretation sturdy adult woman with fair freckled skin, broad cheekbones, grey eyes, copper-brown hair in a practical low braid; plain grey wool marshal coat, dark trousers, winter boots."
+      ],
+      "states": [
+        {
+          "name": "Road-marshal",
+          "description": "Working coat, ledgers/maps; no bridal state."
+        }
+      ],
+      "lighting": "Cool winter daylight in map room, muted lantern-facing warmth.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Princess Sigrun"
+      },
+      "status": "completed",
+      "output": "stories/strength-of-ten/art/characters/princess-sigrun.png",
+      "generation": {
+        "prompt": "Replace ONLY the entire background/support with uniform LIGHT WARM IVORY matching the quiet collection folio. Remove every dark vignette, grey-brown mist, shadow gradient and shadow behind the lettering. Every edge and all negative space must be the same light ivory. Repaint exact existing headings/labels crisp dark brown-black against ivory, same content and positions. Do not change the character's face, body, poses, costume, props, anatomy, sizes or paint treatment. Keep all figures and text completely inside margins. Exact heading \"Princess Sigrun\", subtitle \"The Strength of Ten\". Preserve the same single braid and all body/ledger/map details. No scenery or floor.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3867fe09-ddb6-4151-a77a-11ba5692b148.png",
+            "sha256": "fd80aa80223f8198725f59a5c365e38072bc3101ce996e4d7a060ceb4adc1879",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Princess Sigrun\", subtitle \"The Strength of Ten\". One adult32-year-old HUMAN WOMAN road-marshal, sturdy practical build, fair freckled skin, broad cheekbones, grey eyes, COPPER-BROWN HAIR in one low braid down back, adult confident tired face. Source long MARSHAL GREY WOOL COAT damp at shoulders, grain dust on one cuff, plain dark trousers and winter riding boots. Front full view with TWO closed ledgers tucked under one arm and ONE rolled road map; rear-three-quarter same person/coat and single braid; one clear face and ledger-holding hand study. No crown, gown, bridal veil/ring, sword or magic. Her authority is practical civilian/military planning; no invented rank symbols. Cool winter window light and modest lantern-facing broad cheek plane; shadow side connected muted grey-mauve, no dramatic rim or glossy skin. Source age32 visibly adult. All paper props held, no furniture/map-room backdrop.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/strength-of-ten/art/interiors/02-harrowfast-map-room.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Cold overcast winter daylight plus modest lantern-facing warmth.",
+                "inspected": true,
+                "sha256": "f23928f3e7ca68c9f581bb3108478b2490d3efa40a596d6b8d701bded476d328"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "startedAt": "2026-09-24T04:44:04.290322+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3867fe09-ddb6-4151-a77a-11ba5692b148.png",
+            "outputSha256": "fd80aa80223f8198725f59a5c365e38072bc3101ce996e4d7a060ceb4adc1879",
+            "generatorReview": "Dark support makes title/name unreadable; restore ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:56:09.364518+00:00",
+            "prompt": "Replace ONLY the entire background/support with uniform LIGHT WARM IVORY matching the quiet collection folio. Remove every dark vignette, grey-brown mist, shadow gradient and shadow behind the lettering. Every edge and all negative space must be the same light ivory. Repaint exact existing headings/labels crisp dark brown-black against ivory, same content and positions. Do not change the character's face, body, poses, costume, props, anatomy, sizes or paint treatment. Keep all figures and text completely inside margins. Exact heading \"Princess Sigrun\", subtitle \"The Strength of Ten\". Preserve the same single braid and all body/ledger/map details. No scenery or floor.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3867fe09-ddb6-4151-a77a-11ba5692b148.png",
+                "sha256": "fd80aa80223f8198725f59a5c365e38072bc3101ce996e4d7a060ceb4adc1879",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Dark support makes title/name unreadable; restore ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-698125f5-d1d4-40e9-b7b9-49896108ee84.png",
+            "outputSha256": "6f6ed042df552f9c21323e2426338ef12651f52c14dbe57d343bd5995eada784",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:10:38.326051+00:00",
+            "generatorReview": "Actual corrected pixels inspected: uniform ivory with readable exact heading/title, adult32 ordinary marshal anatomy and consistent face/single braid; grey damp-shoulder coat, ledgers/road-map rolls source-compatible. Source says roll of road maps; multiple drawn rolls do not alter identity. No bridal/royal magic cues. Complete boots/hand framing and opaque winter coat/skin planes."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "6f6ed042df552f9c21323e2426338ef12651f52c14dbe57d343bd5995eada784",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:10:38.326051+00:00",
+        "sourceSha256": "50df1d846b2d0951ce171fcd6bba8b24d9a3389563730046ef73ebbbd7a7bce9",
+        "outputSha256": "6f6ed042df552f9c21323e2426338ef12651f52c14dbe57d343bd5995eada784",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-3867fe09-ddb6-4151-a77a-11ba5692b148.png",
+            "sha256": "fd80aa80223f8198725f59a5c365e38072bc3101ce996e4d7a060ceb4adc1879",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: uniform ivory with readable exact heading/title, adult32 ordinary marshal anatomy and consistent face/single braid; grey damp-shoulder coat, ledgers/road-map rolls source-compatible. Source says roll of road maps; multiple drawn rolls do not alter identity. No bridal/royal magic cues. Complete boots/hand framing and opaque winter coat/skin planes.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b3089490769405bed829457e454e9233c50c8a6dd5b2cb9b4ff81f59af2974b8"
+      }
+    },
+    {
+      "id": "king-gorm",
+      "name": "King Gorm",
+      "role": "Northern king whose six-heartbeat scar-lattice effort is followed by cold, tremor and weakness.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "King Gorm",
+          "explanation": "Northern king whose six-heartbeat scar-lattice effort is followed by cold, tremor and weakness."
+        }
+      ],
+      "storyAppearance": {
+        "age": "Older adult, decades since spear injury",
+        "anatomy": "Thick bare wrists, weathered red face, old pale scar lattice above collar; throat scars darken during effort. Later grey/cold/right-hand tremor.",
+        "clothing": "Shirtsleeves at first; afterwards three furs.",
+        "equipment": [
+          "Heated stone wrapped safely in cloth",
+          "Broth cup optional"
+        ]
+      },
+      "explicitCanon": [
+        "LOCKED exact source age/agency/limits respected; physical details not explicitly established are art interpretation."
+      ],
+      "visualInterpretation": [
+        "Interpretation big thick-set sixties man, broad red-weathered face, heavy brow, greying cropped hair and short grey beard; coarse linen shirt, dark wool trousers and boots."
+      ],
+      "states": [
+        {
+          "name": "Before exertion",
+          "description": "Standing shirtsleeves, bare thick wrists, pale throat scar lattice."
+        },
+        {
+          "name": "After exertion",
+          "description": "Same man wrapped in furs, grey face and trembling relaxed right hand; no second superhuman display."
+        }
+      ],
+      "lighting": "Cold hall window light plus restrained fire-warm planes; no glowing scars.",
+      "naming": {
+        "type": "source",
+        "sourceName": "King Gorm"
+      },
+      "status": "completed",
+      "output": "stories/strength-of-ten/art/characters/king-gorm.png",
+      "generation": {
+        "prompt": "Change only skin coloration/exposure of CENTER fur-wrapped full-body King Gorm figure labelled \"After exertion\". This SAME man has spent his heat and is now GREY, chilled and exhausted: desaturate/darken centre face, throat and both visible hands toward cool grey-umber, leaving recognizable same mature face and hair. His lowered head/right hand should retain their existing natural pose. Preserve LEFT \"Before exertion\" ruddy face/body and both right-side studies unchanged, including Six heartbeats detail. No glow, pallid corpse makeup or fresh wounds. Preserve furs, stone, costumes, figures, text, warm ivory, paint and layout entirely. Centre skin only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fc536ff-5007-4eac-8ba4-a10050f9ca05.png",
+            "sha256": "da5f16d5cdf1c26dc0d1ec7af92fa63dfc95a82258102b80c21d9fafac7515ed",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"King Gorm\", subtitle \"The Strength of Ten\". One human northern king in his SIXTIES, large thick-set build, weathered RED face, heavy brow, cropped grey-brown hair, short GREY beard; thick bare wrists. NOT a gigantic fantasy species. Two complete standing states of same identity: \"Before exertion\" in coarse ivory linen SHIRTSLEEVES, plain dark wool trousers and heavy boots, old PALE SCAR LATTICE visible at throat above open collar. \"After exertion\" SAME face/body visibly drained GREY and hunched inside several heavy fur wraps, right hand relaxed/trembling beside body, a cloth-wrapped heated stone held by left if useful. One throat detail shows scar paths darkened dull reddish-brown during effort, label \"Six heartbeats\". Scars never glow, no runes, aura, lightning or magic props. No lifting table or scenery. He has limited living bodily exertion, NOT repeatable strength. Cool winter hall light with modest hearth-facing warmth, connected muted shadows, broad opaque painted face and fur, no glam lighting.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/strength-of-ten/art/interiors/01-gorms-hall.png",
+                "role": "Inspected same-story oil palette/light only; no scene or objects transferred.",
+                "notes": "Cool winter window planes with limited hearth warmth and connected deep interior shadows.",
+                "inspected": true,
+                "sha256": "56d3836c4eef9d10975bff6ceab64e960f5961e490dbb5ca6ce4c761af9e7269"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references.",
+            "startedAt": "2026-09-24T04:44:04.291471+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fc536ff-5007-4eac-8ba4-a10050f9ca05.png",
+            "outputSha256": "da5f16d5cdf1c26dc0d1ec7af92fa63dfc95a82258102b80c21d9fafac7515ed",
+            "generatorReview": "After-exertion state still has strong ruddy skin; source specifically grey and cold."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:56:09.368713+00:00",
+            "prompt": "Change only skin coloration/exposure of CENTER fur-wrapped full-body King Gorm figure labelled \"After exertion\". This SAME man has spent his heat and is now GREY, chilled and exhausted: desaturate/darken centre face, throat and both visible hands toward cool grey-umber, leaving recognizable same mature face and hair. His lowered head/right hand should retain their existing natural pose. Preserve LEFT \"Before exertion\" ruddy face/body and both right-side studies unchanged, including Six heartbeats detail. No glow, pallid corpse makeup or fresh wounds. Preserve furs, stone, costumes, figures, text, warm ivory, paint and layout entirely. Centre skin only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fc536ff-5007-4eac-8ba4-a10050f9ca05.png",
+                "sha256": "da5f16d5cdf1c26dc0d1ec7af92fa63dfc95a82258102b80c21d9fafac7515ed",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "After-exertion state still has strong ruddy skin; source specifically grey and cold.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-f6bf94d6-ad9c-4044-899d-a6a70eabb3e1.png",
+            "outputSha256": "96b340eb28ab47c43fa834f0ddf69613c52a3850d52908510a3f01d4c2f5f9c8",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T05:10:38.343121+00:00",
+            "generatorReview": "Actual corrected pixels inspected. Before-exertion ruddy older man and after-exertion grey chilled same face/body explicitly separated; fur wraps, relaxed right hand and cloth-wrapped heat stone preserve cost. Throat scar lattice/detail nonluminous and Six heartbeats label exact, no universal powers or prop agency. Thick wrists and source shirtsleeves present. Uniform ivory, full figures and exact titles, no scenery/swatches."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Appearance gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt before image call; max5 useful references."
+      },
+      "outputSha256": "96b340eb28ab47c43fa834f0ddf69613c52a3850d52908510a3f01d4c2f5f9c8",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:10:38.343121+00:00",
+        "sourceSha256": "50df1d846b2d0951ce171fcd6bba8b24d9a3389563730046ef73ebbbd7a7bce9",
+        "outputSha256": "96b340eb28ab47c43fa834f0ddf69613c52a3850d52908510a3f01d4c2f5f9c8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-0fc536ff-5007-4eac-8ba4-a10050f9ca05.png",
+            "sha256": "da5f16d5cdf1c26dc0d1ec7af92fa63dfc95a82258102b80c21d9fafac7515ed",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected. Before-exertion ruddy older man and after-exertion grey chilled same face/body explicitly separated; fur wraps, relaxed right hand and cloth-wrapped heat stone preserve cost. Throat scar lattice/detail nonluminous and Six heartbeats label exact, no universal powers or prop agency. Thick wrists and source shirtsleeves present. Uniform ivory, full figures and exact titles, no scenery/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "217b25b78b33eaefe05855bf740a139751650c02974210c15aab4801f5ac8329"
+      }
+    }
+  ],
+  "sourceSha256": "50df1d846b2d0951ce171fcd6bba8b24d9a3389563730046ef73ebbbd7a7bce9"
+}

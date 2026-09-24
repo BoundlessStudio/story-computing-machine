@@ -1,0 +1,909 @@
+{
+  "slug": "captive-couples",
+  "title": "Held Together",
+  "source": "stories/captive-couples/story.md",
+  "canon": false,
+  "mainCastEvidence": "Finished prose read in full. Four named field partners are active opposing couples throughout theft, captivity, escape and accountability; medical/utility people have functional brief roles.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Hospital physician",
+      "reason": "Unnamed functional final assessment role; no independent developed arc."
+    },
+    {
+      "name": "Patrol supervisor",
+      "reason": "Brief remote oversight dialogue only."
+    },
+    {
+      "name": "Two injured technicians",
+      "reason": "Rescue stakes and brief injury descriptions, no substantial characterization."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/rules.md — System categories, Living agency; no named/codename universe matches"
+  ],
+  "characters": [
+    {
+      "id": "renata",
+      "name": "Renata",
+      "role": "Hero protagonist/Nearside; accepts limits and coordinates rescue rather than pursuit.",
+      "selectionEvidence": [
+        {
+          "quote": "After the concussion, the second makes edges split. The third takes depth.",
+          "line": 217,
+          "explanation": "Hero protagonist/Nearside; accepts limits and coordinates rescue rather than pursuit."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult married woman; age unspecified.",
+        "proportions": "Ordinary adult, lean athletic interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Suit and boots explicit; muted teal-gray practical zip field suit and dark boots interpretation.",
+        "equipment": [
+          "Phone with patrol app"
+        ],
+        "scale": "Human",
+        "movement": "Short-range line-of-sight teleportation, post-concussion double vision/depth loss; steadies/sweeps hands, kneels after transit.",
+        "distinctiveFeatures": [
+          "No permanent visible injury or magic body marking specified",
+          "Right ankle strained by yoke; source has no bandage",
+          "Third transit leaves no usable depth"
+        ]
+      },
+      "explicitCanon": [
+        "Renata codename Nearside, wife/field partner of Jonas, three transits in six-hour window, sight restrictions/costs.",
+        "Suit/boots/phone; last-month concussion not head wound occurring now."
+      ],
+      "visualInterpretation": [
+        "Medium warm-brown skin, strong angular face, dark short ponytail, early thirties, lean ordinary fit build; no source face details.",
+        "No portal, glowing eyes, ghost duplicate body or permanent scar; depict disorientation through restrained posture."
+      ],
+      "states": [
+        {
+          "name": "Patrol",
+          "description": "Alert functional posture."
+        },
+        {
+          "name": "After third transit",
+          "description": "Unsteady posture and focused strained face, no doubled anatomy."
+        }
+      ],
+      "output": "stories/captive-couples/art/characters/renata.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Targeted lighting/text correction only to this exact Renata folio. Replace the conspicuous bright red outlines along hair, shoulders, sleeves, hips and boots with subdued warm-brown/red ambient colour within the broad forms. The character should have restrained night industrial reflected light, connected dark blueviolet shadows, and NO continuous bright rim; do not make daylight or reduce paint thickness. Preserve face identity, three complete poses, phone, clothing, anatomy, typography and ivory. Change caption 'Phone (one)' to simply 'Phone'. All other identifying text is correct and stays. No new objects, backgrounds or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Held Together\". References1/2 rendering only. Any source cover is compatible CLOTH/EQUIPMENT only, not skin or light. Last industrial painting supplies NIGHT LIGHT only, no environment. Exact heading \"Renata\", small codename \"Nearside\". Adult woman early thirties, medium warm-brown skin, strong angular face, short black ponytail, lean athletic but normal human build. Practical muted teal-gray zippered field suit, dark boots, phone in one hand or pocket. Two complete front/rear-three-quarter views; a separate small one-knee unsteady posture and thoughtful strained face reflecting temporary depth loss after third transit. No head bandage, permanent wound, glowing eyes, magical tattoos, portals or double bodies. Hands/limbs normal. No chains, cages or anchor yoke. Feet fully visible. One phone only. Paint scene-motivated low amber/red industrial night light subtly over broad planes with connected cool shadow; no daylight, cinematic rim or background gradient.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+                "role": "Night emergency-light colour only; no setting.",
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+                "inspected": true,
+                "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+              }
+            ],
+            "reason": "Initial source-grounded night-lit field character folio.",
+            "startedAt": "2026-09-23T23:07:21.076535+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-ad461cbb-2063-4f68-8613-05c11253a819.png",
+            "outputSha256": "a9afbcd17da45f200cfc7fcb1e54faf911542c0ead59296e3855ea5c313fb7d0",
+            "generatorReview": "Bright red edge rim exceeds requested subdued reflected night light; caption includes parenthetical production word."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Targeted lighting/text correction only to this exact Renata folio. Replace the conspicuous bright red outlines along hair, shoulders, sleeves, hips and boots with subdued warm-brown/red ambient colour within the broad forms. The character should have restrained night industrial reflected light, connected dark blueviolet shadows, and NO continuous bright rim; do not make daylight or reduce paint thickness. Preserve face identity, three complete poses, phone, clothing, anatomy, typography and ivory. Change caption 'Phone (one)' to simply 'Phone'. All other identifying text is correct and stays. No new objects, backgrounds or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad461cbb-2063-4f68-8613-05c11253a819.png",
+                "role": "Actual first candidate; presentation/source text correction.",
+                "inspected": true,
+                "sha256": "a9afbcd17da45f200cfc7fcb1e54faf911542c0ead59296e3855ea5c313fb7d0"
+              }
+            ],
+            "reason": "Bright red edge rim exceeds requested subdued reflected night light; caption includes parenthetical production word.",
+            "startedAt": "2026-09-23T23:15:45.516924+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ff8f6652-15cf-4838-8a1b-f33246ac3e61.png",
+            "outputSha256": "4def6c53ed0fc2ab49cad6568366f97329fe6b495f9e49e97f557789473d71c5",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T23:24:10.925839+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Bright red outline removed into subdued warm-dark reflected planes, phone caption clean. Three complete consistent views include depth-loss posture with normal undoubled anatomy, no invented wounds/portal/power marks. Practical field suit and phone, readable name/codename/title; matte broad oil face/body, ivory/no scene/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad461cbb-2063-4f68-8613-05c11253a819.png",
+            "role": "Actual first candidate; presentation/source text correction.",
+            "inspected": true,
+            "sha256": "a9afbcd17da45f200cfc7fcb1e54faf911542c0ead59296e3855ea5c313fb7d0"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:24:10.931077+00:00",
+        "sourceSha256": "84dac6e0c985f130a08330b31ebbbce01a3bd53b01f88db916012e2f3fcd09f6",
+        "outputSha256": "4def6c53ed0fc2ab49cad6568366f97329fe6b495f9e49e97f557789473d71c5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ad461cbb-2063-4f68-8613-05c11253a819.png",
+            "role": "Actual first candidate; presentation/source text correction.",
+            "inspected": true,
+            "sha256": "a9afbcd17da45f200cfc7fcb1e54faf911542c0ead59296e3855ea5c313fb7d0"
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: Bright red outline removed into subdued warm-dark reflected planes, phone caption clean. Three complete consistent views include depth-loss posture with normal undoubled anatomy, no invented wounds/portal/power marks. Practical field suit and phone, readable name/codename/title; matte broad oil face/body, ivory/no scene/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "5a1531739e0cde5a315026da7da8c1415111c91ab2742a434b93245a16391598"
+      },
+      "recurrence": {
+        "identityKey": "captive-couples:renata",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/captive-couples/title-image.jpg",
+          "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+          "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+          "inspected": true,
+          "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+          "role": "Night emergency-light colour only; no setting.",
+          "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+          "inspected": true,
+          "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/03-hospital-assessment-bay.png",
+          "role": "Assessed for final recovery light and warming-pad context; no scene.",
+          "sha256": "93f4a7b8d99bb2c49b2707cc9e10deb4b1472de5e9aa903912c8c5afe9153790",
+          "inspected": true,
+          "notes": "Nighttime interior subdued warm/cool wash, no daylight."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Renata",
+        "sourceRole": "Hero protagonist/Nearside; accepts limits and coordinates rescue rather than pursuit.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "4def6c53ed0fc2ab49cad6568366f97329fe6b495f9e49e97f557789473d71c5"
+    },
+    {
+      "id": "jonas",
+      "name": "Jonas",
+      "role": "Hero coprotagonist/Fixedpoint; relinquishes unilateral control and respects power limits to rescue workers.",
+      "selectionEvidence": [
+        {
+          "quote": "Concurrent planes always numbed his fingers, beginning at the tips and moving inward.",
+          "line": 121,
+          "explanation": "Hero coprotagonist/Fixedpoint; relinquishes unilateral control and respects power limits to rescue workers."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult married man, age unspecified.",
+        "proportions": "Broad shoulders explicit; tall solid build interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Practical dark navy patrol jacket, charcoal trousers/boots interpreted; source no costume colours.",
+        "equipment": [
+          "Phone/patrol app",
+          "Personal comm light",
+          "Warming hand pads in final assessment"
+        ],
+        "scale": "Human",
+        "movement": "Hands spread to shape rigid translucent planes; numb fingers half-close, later keeps one plane rather than two.",
+        "distinctiveFeatures": [
+          "Broad shoulders",
+          "Temporary numb hands, not damaged/missing fingers",
+          "Pale rigid translucent plane manifestation"
+        ]
+      },
+      "explicitCanon": [
+        "Jonas/Fixedpoint husband/partner, six-metre sight range; concurrent planes numb hands; 30-second useful single plane stated in plan.",
+        "Final warming pads; not permanent prostheses/injury."
+      ],
+      "visualInterpretation": [
+        "Deep brown skin, broad face, short black hair and neat beard, late thirties; restrained identity.",
+        "One small isolated upright translucent force-plane study as personal power only, never a floor/platform/environment."
+      ],
+      "states": [
+        {
+          "name": "Shaping",
+          "description": "One small rigid translucent plane."
+        },
+        {
+          "name": "Assessment",
+          "description": "Hands held in plain warming pads."
+        }
+      ],
+      "output": "stories/captive-couples/art/characters/jonas.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Held Together\". References1/2 rendering only. Any source cover is compatible CLOTH/EQUIPMENT only, not skin or light. Last industrial painting supplies NIGHT LIGHT only, no environment. Exact heading \"Jonas\", small codename \"Fixedpoint\". Adult man late thirties, explicitly broad shoulders, tall solid ordinary build, deep brown skin, broad face, short black hair and neat beard. Practical dark navy patrol jacket with tiny muted comm indicator, charcoal trousers and heavy dark boots, no cape/armor/weapon/badge. Two complete isolated full views plus small hand state \"Warming pads\": intact hands held in plain soft warming pads, not bandages/prosthetics. Another modest detail \"One plane\" shows his open hands shaping a SINGLE small thin pale translucent upright rectangular force-plane with painted edges, no neon or sigil; it is personal power, not a floor, platform, scene or architectural object. Fingers temporarily half-closed from numbness in expression study, no missing digits. Subdued night industrial ambient amber/blueviolet connected planes.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Held Together\". References1/2 rendering only. Any source cover is compatible CLOTH/EQUIPMENT only, not skin or light. Last industrial painting supplies NIGHT LIGHT only, no environment. Exact heading \"Jonas\", small codename \"Fixedpoint\". Adult man late thirties, explicitly broad shoulders, tall solid ordinary build, deep brown skin, broad face, short black hair and neat beard. Practical dark navy patrol jacket with tiny muted comm indicator, charcoal trousers and heavy dark boots, no cape/armor/weapon/badge. Two complete isolated full views plus small hand state \"Warming pads\": intact hands held in plain soft warming pads, not bandages/prosthetics. Another modest detail \"One plane\" shows his open hands shaping a SINGLE small thin pale translucent upright rectangular force-plane with painted edges, no neon or sigil; it is personal power, not a floor, platform, scene or architectural object. Fingers temporarily half-closed from numbness in expression study, no missing digits. Subdued night industrial ambient amber/blueviolet connected planes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+                "role": "Night emergency-light colour only; no setting.",
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+                "inspected": true,
+                "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+              }
+            ],
+            "reason": "Initial source-grounded night-lit field character folio.",
+            "startedAt": "2026-09-23T23:07:22.066876+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-97ec6aa9-54a2-4a4e-b413-be7639635551.png",
+            "outputSha256": "110e4527e7cdeff4d6d8b525c940054c9ca7dc89c8e30d953d015d7a2960ca47",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T23:15:42.379453+00:00",
+            "generatorReview": "Actual pixels inspected: Two coherent broad-shouldered whole views, intact numb hands and plain warming pads, one rigid pale plane shown separately without architecture/platform. Distinct face and practical field clothing, source codename/name/story readable, matte oil face/body and subdued connected shadows, ivory/no scenery/swatches."
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+            "role": "Night emergency-light colour only; no setting.",
+            "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+            "inspected": true,
+            "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T23:15:42.385144+00:00",
+        "sourceSha256": "84dac6e0c985f130a08330b31ebbbce01a3bd53b01f88db916012e2f3fcd09f6",
+        "outputSha256": "110e4527e7cdeff4d6d8b525c940054c9ca7dc89c8e30d953d015d7a2960ca47",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+            "inspected": true,
+            "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Concrete collection rendering only, never purple marking or identity.",
+            "inspected": true,
+            "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+            "role": "Night emergency-light colour only; no setting.",
+            "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+            "inspected": true,
+            "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+          }
+        ],
+        "evidence": "Actual pixels inspected: Two coherent broad-shouldered whole views, intact numb hands and plain warming pads, one rigid pale plane shown separately without architecture/platform. Distinct face and practical field clothing, source codename/name/story readable, matte oil face/body and subdued connected shadows, ivory/no scenery/swatches.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "955d4522ac97f244fad304169ded498e4553610b3de4d6557afb2b208c087c8a"
+      },
+      "recurrence": {
+        "identityKey": "captive-couples:jonas",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/captive-couples/title-image.jpg",
+          "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+          "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+          "inspected": true,
+          "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+          "role": "Night emergency-light colour only; no setting.",
+          "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+          "inspected": true,
+          "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/03-hospital-assessment-bay.png",
+          "role": "Assessed for final recovery light and warming-pad context; no scene.",
+          "sha256": "93f4a7b8d99bb2c49b2707cc9e10deb4b1472de5e9aa903912c8c5afe9153790",
+          "inspected": true,
+          "notes": "Nighttime interior subdued warm/cool wash, no daylight."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Jonas",
+        "sourceRole": "Hero coprotagonist/Fixedpoint; relinquishes unilateral control and respects power limits to rescue workers.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "110e4527e7cdeff4d6d8b525c940054c9ca7dc89c8e30d953d015d7a2960ca47"
+    },
+    {
+      "id": "livia-kade",
+      "name": "Livia Kade",
+      "role": "Central antagonist/Brownout; actively steals clinic reserve while coordinating limits with partner.",
+      "selectionEvidence": [
+        {
+          "quote": "Livia Kade turned her bare hand over, measuring the last blue thread of current across her palm.",
+          "line": 45,
+          "explanation": "Central antagonist/Brownout; actively steals clinic reserve while coordinating limits with partner."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult woman, age unspecified.",
+        "proportions": "Average adult, compact practical build interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Insulated dark work clothes compatible with cover; bare hands explicit.",
+        "equipment": [
+          "Work harness",
+          "Paired carry-on sized silver charge cells, external theft equipment (omit sled/environment from sheet)"
+        ],
+        "scale": "Human",
+        "movement": "Bare hand measures blue current in living field, crouches/absorbs active circuits, stumbles back on failure.",
+        "distinctiveFeatures": [
+          "Bare hands with transient fine blue thread/web current",
+          "No permanent blue marking",
+          "Cover establishes charcoal practical insulated layers, not face"
+        ]
+      },
+      "explicitCanon": [
+        "Livia Kade/Brownout siphons within living field; two finite silver cells on sled; field stops past range.",
+        "Insulated clothes, bare hands and work harness; intentional continued harm to clinics despite cooperative marriage."
+      ],
+      "visualInterpretation": [
+        "Light olive skin, dark short straight bob, late thirties, compact build; no canonical facial description.",
+        "Blue current a few muted cobalt strokes on separate hand study, no neon/radiant body."
+      ],
+      "states": [
+        {
+          "name": "At rest",
+          "description": "Bare unmarked hands."
+        },
+        {
+          "name": "Siphoning",
+          "description": "Fine blue current on hand only."
+        }
+      ],
+      "output": "stories/captive-couples/art/characters/livia-kade.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Precise local colour correction to this exact already-dark night character folio. KEEP the low exposure and deep connected blue-violet/umber shadows on every face, body and hand. Remove ALL conspicuous saturated orange/red edge lines and highlight strips running along hair silhouette, forehead/nose edge, shoulders, sleeves, harness, boots, equipment edges and fingers. Replace those thin orange/red edge traces with subdued dark umber/violet matching their immediate neighbouring shadow paint. No rimlight, no glowing outline; night lamp light may remain only as a broad very dull brown interior plane, with no bright strip tracing a silhouette. Do NOT brighten the faces, add studio fill or re-expose skin. Everything else exact: identity, anatomy, portraits, clothing/gear, hands, labels/name/title/codename, thick oil texture, arrangement and uniformly pale warm ivory paper. This is an outline-hue removal only. Do not alter typography, introduce scenery/swatches, remove source current markings or amber tags/cell charge bars.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Held Together\". References1/2 rendering only. Any source cover is compatible CLOTH/EQUIPMENT only, not skin or light. Last industrial painting supplies NIGHT LIGHT only, no environment. Exact heading \"Livia Kade\", small codename \"Brownout\". Adult woman late thirties, compact normal build, light olive skin, dark straight chin-length bob, attentive competent face. Original cover only guides charcoal insulated zip work clothes and practical harness; hands always BARE. Two isolated full front/rear views, focused face and two small hand details \"At rest\" unmarked hand / \"Current\" a fine short blue painted thread web across knuckles/palm. Current is temporary muted cobalt paint, no glowing aura, sharp electricity photograph or permanent marking. Optional one pair of source silver carry-on battery cells as small exterior equipment study, no sled, platform, leads to scenery or invented internals. Use broad grayviolet metal paint and a few dull orange charge-bar marks, not glistening metal. Coherent subdued industrial NIGHT amber/red reflected light, warm ivory sheet stays light.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/title-image.jpg",
+                "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+                "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+                "inspected": true,
+                "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+                "role": "Night emergency-light colour only; no setting.",
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+                "inspected": true,
+                "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+              }
+            ],
+            "reason": "Initial source-grounded night-lit field character folio.",
+            "startedAt": "2026-09-23T23:07:23.082293+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-0c2b0d93-f482-498a-9509-b42d531e5d72.png",
+            "outputSha256": "e9d15ad23f33bef790135122d761c3ff0513c5329ca2c92adb0389301ea8fd20",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T23:15:43.498130+00:00",
+            "generatorReview": "Actual pixels inspected: Two coherent practical insulated workwear whole views and ungloved hands. Separate rest/current hand states avoid permanent marking; two silver-gray finite carry-on cells with subdued orange charge marks, no sled/environment/internal engineering. Accurate text, matte broad oil skin/clothes/metal, light ivory/no swatches.",
+            "rootReview": "REVISE: face and skin exposure too bright for source 2:13AM station emergency lighting. Root otherwise passed identity/anatomy/text."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Targeted LIGHTING correction only to this exact character reference folio (image 1). It currently gives the face/skin daylight-like high exposure. This story occurs inside an industrial transfer station at 2:13 AM, under sparse emergency lamps while circuits are being drained. Repaint illumination on EVERY character view, portrait and hand/equipment study: substantially lower exposed flesh values, placing the majority of facial planes, neck, hands and clothing into broad connected muted blue-violet/umber night shadows. Let only a small lamp-facing plane of cheek, nose and knuckles receive low dull ochre/red reflected light. Keep the dark side of each face genuinely dark, matte and simplified. NO bright peach/cream face, universal studio fill, glittering stroke edges, continuous orange rim or silhouette glow. Image 2 supplies only sparse industrial lamp colour and dark connected shadow values, NEVER its room/background. Preserve intrinsic skin identity, exact face shapes, age, hairstyle, body proportions, all poses, anatomy, clothing/gear details, labels, name/title/codename and layout. Preserve thick directional broad oil paint. Keep ALL PAPER uniformly pale warm IVORY at every edge, no tinted background halo or gradient. No scene, floor or swatches. Hands remain bare; rest hand unmarked and current hand has only the existing small muted cobalt thread. Preserve two finite carry-on cells; no luminous aura.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-0c2b0d93-f482-498a-9509-b42d531e5d72.png",
+                "role": "Inspected immutable selected candidate; preserve all identity/gear/layout and change night illumination only.",
+                "inspected": true,
+                "sha256": "e9d15ad23f33bef790135122d761c3ff0513c5329ca2c92adb0389301ea8fd20"
+              },
+              {
+                "path": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art\\stories\\captive-couples\\art\\interiors\\01-transfer-station-catwalk.png",
+                "role": "Inspected industrial night emergency lamp colour and connected shadow values only, no setting.",
+                "inspected": true,
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd"
+              }
+            ],
+            "startedAt": "2026-09-24T02:49:07.995557+00:00",
+            "reason": "REVISE: face and skin exposure too bright for source 2:13AM station emergency lighting. Root otherwise passed identity/anatomy/text.",
+            "preflight": "Full finished story reread: opening explicitly2:13AM, sparse emergency lamps and Livia draining circuits. Actual candidate, source cover and station painting inspected. No daylight source supports bright exposed faces. Narrow lighting correction preserves identity/art state.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a3e27a96-4fda-4445-9ff9-ce4941879ea0.png",
+            "outputSha256": "df07312c600e388cea67bf0e8773ff1c59208dcdc6415aee5e16a8888df6db4c",
+            "generatorReview": "Face exposure now appropriate night darkness, but saturated thin orange rim traces were introduced on silhouettes. Remove those traces without changing connected shadow values."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Precise local colour correction to this exact already-dark night character folio. KEEP the low exposure and deep connected blue-violet/umber shadows on every face, body and hand. Remove ALL conspicuous saturated orange/red edge lines and highlight strips running along hair silhouette, forehead/nose edge, shoulders, sleeves, harness, boots, equipment edges and fingers. Replace those thin orange/red edge traces with subdued dark umber/violet matching their immediate neighbouring shadow paint. No rimlight, no glowing outline; night lamp light may remain only as a broad very dull brown interior plane, with no bright strip tracing a silhouette. Do NOT brighten the faces, add studio fill or re-expose skin. Everything else exact: identity, anatomy, portraits, clothing/gear, hands, labels/name/title/codename, thick oil texture, arrangement and uniformly pale warm ivory paper. This is an outline-hue removal only. Do not alter typography, introduce scenery/swatches, remove source current markings or amber tags/cell charge bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a3e27a96-4fda-4445-9ff9-ce4941879ea0.png",
+                "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+                "inspected": true,
+                "sha256": "df07312c600e388cea67bf0e8773ff1c59208dcdc6415aee5e16a8888df6db4c"
+              }
+            ],
+            "startedAt": "2026-09-24T02:56:32.397736+00:00",
+            "reason": "Remove artificial rim traces after successful night-value correction.",
+            "preflight": "Actual returned pixels checked against source night lighting; edit-only target isolates wrong edge hues. Lighting reference omitted to prevent repeating source lamp-edge interpretation.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-8bcf523c-86e3-44cb-aca7-43ea1baf24c8.png",
+            "outputSha256": "55f30ea707c5d5b1fa6a40428d22436bb276bc384cf088fb7e999ae68eaa008c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:02:27.219360+00:00",
+            "generatorReview": "Root-requested night lighting correction inspected at actual pixels. Source begins2:13AM and circuits dim near Brownout; flesh/head/hands are now deep connected muted umber-violet shadow with broad dull warm planes, no studio-daylight exposure and no introduced orange silhouette outlines. Same face/bob, body proportions, bare hands, at-rest/current distinction, two finite carry-on cells and all readable name/title/codename labels retained. Ivory remains uniformly light with no setting or swatches; directional matte oil treatment preserved."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a3e27a96-4fda-4445-9ff9-ce4941879ea0.png",
+            "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+            "inspected": true,
+            "sha256": "df07312c600e388cea67bf0e8773ff1c59208dcdc6415aee5e16a8888df6db4c"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:02:27.219360+00:00",
+        "sourceSha256": "84dac6e0c985f130a08330b31ebbbce01a3bd53b01f88db916012e2f3fcd09f6",
+        "outputSha256": "55f30ea707c5d5b1fa6a40428d22436bb276bc384cf088fb7e999ae68eaa008c",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a3e27a96-4fda-4445-9ff9-ce4941879ea0.png",
+            "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+            "inspected": true,
+            "sha256": "df07312c600e388cea67bf0e8773ff1c59208dcdc6415aee5e16a8888df6db4c"
+          }
+        ],
+        "evidence": "Root-requested night lighting correction inspected at actual pixels. Source begins2:13AM and circuits dim near Brownout; flesh/head/hands are now deep connected muted umber-violet shadow with broad dull warm planes, no studio-daylight exposure and no introduced orange silhouette outlines. Same face/bob, body proportions, bare hands, at-rest/current distinction, two finite carry-on cells and all readable name/title/codename labels retained. Ivory remains uniformly light with no setting or swatches; directional matte oil treatment preserved.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "6a420195acb44db641996d722ea5f389bd58293ebbea30e7d9efbb7dbee47a24"
+      },
+      "recurrence": {
+        "identityKey": "captive-couples:livia-kade",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/captive-couples/title-image.jpg",
+          "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+          "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+          "inspected": true,
+          "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+          "role": "Night emergency-light colour only; no setting.",
+          "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+          "inspected": true,
+          "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/03-hospital-assessment-bay.png",
+          "role": "Assessed for final recovery light and warming-pad context; no scene.",
+          "sha256": "93f4a7b8d99bb2c49b2707cc9e10deb4b1472de5e9aa903912c8c5afe9153790",
+          "inspected": true,
+          "notes": "Nighttime interior subdued warm/cool wash, no daylight."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Livia Kade",
+        "sourceRole": "Central antagonist/Brownout; actively steals clinic reserve while coordinating limits with partner.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "55f30ea707c5d5b1fa6a40428d22436bb276bc384cf088fb7e999ae68eaa008c"
+    },
+    {
+      "id": "xavier-kade",
+      "name": "Xavier Kade",
+      "role": "Central antagonist/Downforce; tags downward loads and respects shared abort threshold while facilitating theft.",
+      "selectionEvidence": [
+        {
+          "quote": "The center of his glove had blistered glossy over a burn.",
+          "line": 143,
+          "explanation": "Central antagonist/Downforce; tags downward loads and respects shared abort threshold while facilitating theft."
+        }
+      ],
+      "form": "Human body",
+      "storyAppearance": {
+        "anatomy": "Ordinary human body, two arms and two legs.",
+        "lifeStage": "Adult man, age unspecified.",
+        "proportions": "Ordinary adult, sturdy lean interpretation.",
+        "markings": "No permanent markings specified.",
+        "materials": "Skin, hair, cloth and personal materials.",
+        "clothing": "Dark work clothes and gloves compatible with original cover.",
+        "equipment": [
+          "Battery harness tight around ribs with cooling fans",
+          "Exactly three amber load tags available, no fourth",
+          "Tag controls"
+        ],
+        "scale": "Human",
+        "movement": "Touches two fingers to harness; burned hand trembles/curls two fingers; switches hands; pulls partner to safety.",
+        "distinctiveFeatures": [
+          "Burned glove palm",
+          "Battery harness with cooling fans",
+          "Three-tag load system"
+        ]
+      },
+      "explicitCanon": [
+        "Xavier Kade/Downforce uses finite battery harness/tagged load multiplication; maximum three tags, 60-second cycle/cooling.",
+        "Burned glove with impaired fingers; no permanent missing digits."
+      ],
+      "visualInterpretation": [
+        "Fair warm skin, close auburn hair and cropped beard, early forties, lean sturdy build; exact face unspecified.",
+        "Harness exterior only, modest gray battery boxes/vented fan discs; no invented internal engineering or glowing armor."
+      ],
+      "states": [
+        {
+          "name": "Working",
+          "description": "Rib harness and gloved hands."
+        },
+        {
+          "name": "Burned palm",
+          "description": "Glove center blistered/dark, fingers still present; isolated detail."
+        }
+      ],
+      "output": "stories/captive-couples/art/characters/xavier-kade.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Precise local colour correction to this exact already-dark night character folio. KEEP the low exposure and deep connected blue-violet/umber shadows on every face, body and hand. Remove ALL conspicuous saturated orange/red edge lines and highlight strips running along hair silhouette, forehead/nose edge, shoulders, sleeves, harness, boots, equipment edges and fingers. Replace those thin orange/red edge traces with subdued dark umber/violet matching their immediate neighbouring shadow paint. No rimlight, no glowing outline; night lamp light may remain only as a broad very dull brown interior plane, with no bright strip tracing a silhouette. Do NOT brighten the faces, add studio fill or re-expose skin. Everything else exact: identity, anatomy, portraits, clothing/gear, hands, labels/name/title/codename, thick oil texture, arrangement and uniformly pale warm ivory paper. This is an outline-hue removal only. Do not alter typography, introduce scenery/swatches, remove source current markings or amber tags/cell charge bars.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on quiet warm ivory. Exactly one identity. Two or three useful unclipped isolated full-body views, with one or two expressive head/hand/equipment studies; generous breathing room. No scenery, scene vignette, floor, terrain patch, buildings, foliage, platforms, other people, palette chips or paint swatches. Only the exact name and story title plus very short useful labels; no decorative prose. Rendering must match the attached collection sheets: Canadian Group of Seven-influenced broad interlocking oil colour/value masses, varied directional opaque bristle strokes, quieter connecting passages, selective substantial impasto. Faces, hands, hair and clothes all built with the same decisive painted simplification; matte eyes and connected shadow family. No anime, CGI, smooth photoreal face, uniform chipped flakes, bevel-lit strokes, gold edge dots or cinematic rimlight. Style references never donate identity, costume, scars or equipment. Exact subtitle \"Held Together\". References1/2 rendering only. Any source cover is compatible CLOTH/EQUIPMENT only, not skin or light. Last industrial painting supplies NIGHT LIGHT only, no environment. Exact heading \"Xavier Kade\", small codename \"Downforce\". Adult man early forties, fair warm skin, close auburn hair/cropped beard, lean sturdy frame. Charcoal practical insulated work clothes and dark gloves like cover. Essential exterior rib-tight BATTERY HARNESS, modest gray battery boxes with visible cooling fan vents, no invented internal mechanism, no armored suit. Exactly THREE small amber load tags in a clearly separated detail row, no fourth; tiny tag control in good hand. Two complete front/rear views explain harness. One close gloved hand \"Burned palm\": dark blistered center of glove, all fingers present, two fingers slightly curled, no gore. No firearms, emblem, tool belt additions or glowing magic tattoos. Muted amber/red industrial night reflected illumination with connected grayviolet shadows; no cinematic rim, metal shine or background gradient.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+                "inspected": true,
+                "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Concrete collection rendering only, never purple marking or identity.",
+                "inspected": true,
+                "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/title-image.jpg",
+                "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+                "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+                "inspected": true,
+                "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+                "role": "Night emergency-light colour only; no setting.",
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+                "inspected": true,
+                "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+              }
+            ],
+            "reason": "Initial source-grounded night-lit field character folio.",
+            "startedAt": "2026-09-23T23:07:24.083733+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab\\exec-47f129f6-ae58-437b-9848-d6b07854cf0d.png",
+            "outputSha256": "152eb4a4a6e3c964a07e8a29f2870e311c4139c4654a49282c7a4438a569f77b",
+            "generatorReview": "Dark vignette hides header, subtitle missing, invented tag serial codes."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Precise folio presentation correction. Replace ALL brown/black background gradients and smoky haloes with uniform quiet warm ivory painted paper, equally pale at EVERY corner and edge. Restore readable dark text upper-left in three lines: 'Xavier Kade', 'Held Together', 'Downforce'. Keep all existing character views, adult face/body identity, rib harness, fan boxes, clothing, burned-glove and tag details. Remove invented alphanumeric serials from ALL amber tags (including held tag): plain unlettered amber surfaces, exactly three separate tags in existing row. Keep short labels 'Burned palm', 'Load tags', 'Tag control'. Subdue bright orange edge traces into low warm-brown industrial ambient colour, preserve connected cool shadows; no glowing outline or relighting to daylight. All surfaces remain broad matte opaque oil, selective impasto. No new equipment, scenery or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-47f129f6-ae58-437b-9848-d6b07854cf0d.png",
+                "role": "Actual first candidate; presentation/source text correction.",
+                "inspected": true,
+                "sha256": "152eb4a4a6e3c964a07e8a29f2870e311c4139c4654a49282c7a4438a569f77b"
+              }
+            ],
+            "reason": "Dark vignette hides header, subtitle missing, invented tag serial codes.",
+            "startedAt": "2026-09-23T23:15:47.538361+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-3870b221-e8c2-43af-8e57-895b0cdc8287.png",
+            "outputSha256": "cc7c7e8c921d7ec41249fbdde74b42fcfae53838256f3c7bed4829fa9d65c6bd",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T23:24:12.108864+00:00",
+            "generatorReview": "Actual corrected pixels inspected: Uniform light ivory restored; exact name/title/codename readable. Three amber tags are unlettered, detail repeats one tag without inventing fourth simultaneous capacity. Rib battery harness and cooling fan exteriors, intact burned glove palm with source-supported limited blister gloss, no internals. Two whole views, consistent adult face, broad oil surfaces; no setting/swatches.",
+            "rootReview": "REVISE: face and skin exposure too bright for source 2:13AM station emergency lighting. Root otherwise passed identity/anatomy/text."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Targeted LIGHTING correction only to this exact character reference folio (image 1). It currently gives the face/skin daylight-like high exposure. This story occurs inside an industrial transfer station at 2:13 AM, under sparse emergency lamps while circuits are being drained. Repaint illumination on EVERY character view, portrait and hand/equipment study: substantially lower exposed flesh values, placing the majority of facial planes, neck, hands and clothing into broad connected muted blue-violet/umber night shadows. Let only a small lamp-facing plane of cheek, nose and knuckles receive low dull ochre/red reflected light. Keep the dark side of each face genuinely dark, matte and simplified. NO bright peach/cream face, universal studio fill, glittering stroke edges, continuous orange rim or silhouette glow. Image 2 supplies only sparse industrial lamp colour and dark connected shadow values, NEVER its room/background. Preserve intrinsic skin identity, exact face shapes, age, hairstyle, body proportions, all poses, anatomy, clothing/gear details, labels, name/title/codename and layout. Preserve thick directional broad oil paint. Keep ALL PAPER uniformly pale warm IVORY at every edge, no tinted background halo or gradient. No scene, floor or swatches. Keep exact rib battery harness/fans, burned glove detail, three separate plain amber tags and separate tag-control detail. Do not change text or invent tag lettering.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-3870b221-e8c2-43af-8e57-895b0cdc8287.png",
+                "role": "Inspected immutable selected candidate; preserve all identity/gear/layout and change night illumination only.",
+                "inspected": true,
+                "sha256": "cc7c7e8c921d7ec41249fbdde74b42fcfae53838256f3c7bed4829fa9d65c6bd"
+              },
+              {
+                "path": "D:\\Development\\BoundlessAi\\story-computing-machine-character-art\\stories\\captive-couples\\art\\interiors\\01-transfer-station-catwalk.png",
+                "role": "Inspected industrial night emergency lamp colour and connected shadow values only, no setting.",
+                "inspected": true,
+                "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd"
+              }
+            ],
+            "startedAt": "2026-09-24T02:49:08.009045+00:00",
+            "reason": "REVISE: face and skin exposure too bright for source 2:13AM station emergency lighting. Root otherwise passed identity/anatomy/text.",
+            "preflight": "Full finished story reread: opening explicitly2:13AM, sparse emergency lamps and Livia draining circuits. Actual candidate, source cover and station painting inspected. No daylight source supports bright exposed faces. Narrow lighting correction preserves identity/art state.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a37c3caa-96fd-47b1-9104-0d03a1056ff4.png",
+            "outputSha256": "32e11ecd94778e1517a256290fc08abbd11fa202df6e3c32b6b81198efebd68a",
+            "generatorReview": "Face exposure now appropriate night darkness, but saturated thin orange rim traces were introduced on silhouettes. Remove those traces without changing connected shadow values."
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Precise local colour correction to this exact already-dark night character folio. KEEP the low exposure and deep connected blue-violet/umber shadows on every face, body and hand. Remove ALL conspicuous saturated orange/red edge lines and highlight strips running along hair silhouette, forehead/nose edge, shoulders, sleeves, harness, boots, equipment edges and fingers. Replace those thin orange/red edge traces with subdued dark umber/violet matching their immediate neighbouring shadow paint. No rimlight, no glowing outline; night lamp light may remain only as a broad very dull brown interior plane, with no bright strip tracing a silhouette. Do NOT brighten the faces, add studio fill or re-expose skin. Everything else exact: identity, anatomy, portraits, clothing/gear, hands, labels/name/title/codename, thick oil texture, arrangement and uniformly pale warm ivory paper. This is an outline-hue removal only. Do not alter typography, introduce scenery/swatches, remove source current markings or amber tags/cell charge bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a37c3caa-96fd-47b1-9104-0d03a1056ff4.png",
+                "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+                "inspected": true,
+                "sha256": "32e11ecd94778e1517a256290fc08abbd11fa202df6e3c32b6b81198efebd68a"
+              }
+            ],
+            "startedAt": "2026-09-24T02:56:32.402587+00:00",
+            "reason": "Remove artificial rim traces after successful night-value correction.",
+            "preflight": "Actual returned pixels checked against source night lighting; edit-only target isolates wrong edge hues. Lighting reference omitted to prevent repeating source lamp-edge interpretation.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-0c58a02c-48a7-4f5b-8819-ffb21d360988.png",
+            "outputSha256": "cb8a753bb2cec9ea590befaca48c349db4edf682924f94bdaed2eae356e91451",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T03:02:27.243333+00:00",
+            "generatorReview": "Root-requested night lighting correction inspected at actual pixels. Face portraits, hands, clothing and harness now sit in genuinely dark connected blue-violet/umber emergency-light shadow; bright pale skin exposure and artificial orange edge lines removed. Identity, normal anatomy, rib harness fans, burned glove, exactly three unlettered amber tags plus separate control study and readable text retained. No background halo/location/swatches; uniformly light ivory and directional matte oil paint preserved."
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a37c3caa-96fd-47b1-9104-0d03a1056ff4.png",
+            "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+            "inspected": true,
+            "sha256": "32e11ecd94778e1517a256290fc08abbd11fa202df6e3c32b6b81198efebd68a"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:02:27.243333+00:00",
+        "sourceSha256": "84dac6e0c985f130a08330b31ebbbce01a3bd53b01f88db916012e2f3fcd09f6",
+        "outputSha256": "cb8a753bb2cec9ea590befaca48c349db4edf682924f94bdaed2eae356e91451",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-a37c3caa-96fd-47b1-9104-0d03a1056ff4.png",
+            "role": "Actual immutable night-darkened candidate; preserve low exposure, remove introduced red rim traces only.",
+            "inspected": true,
+            "sha256": "32e11ecd94778e1517a256290fc08abbd11fa202df6e3c32b6b81198efebd68a"
+          }
+        ],
+        "evidence": "Root-requested night lighting correction inspected at actual pixels. Face portraits, hands, clothing and harness now sit in genuinely dark connected blue-violet/umber emergency-light shadow; bright pale skin exposure and artificial orange edge lines removed. Identity, normal anatomy, rib harness fans, burned glove, exactly three unlettered amber tags plus separate control study and readable text retained. No background halo/location/swatches; uniformly light ivory and directional matte oil paint preserved.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "b37ad3f119387c09e4583833b9dedaead111c6fc0515b390d988656fdc5548c1"
+      },
+      "recurrence": {
+        "identityKey": "captive-couples:xavier-kade",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+          "role": "Concrete collection rendering and ivory isolated folio only; no identity/equipment borrowing.",
+          "inspected": true,
+          "notes": "Broad opaque paint across flesh/armour, selective impasto; name and unclipped isolated views.",
+          "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+        },
+        {
+          "path": "stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+          "role": "Concrete collection rendering only, never purple marking or identity.",
+          "inspected": true,
+          "notes": "Connected dark clothing masses and matte facial planes; no smooth face.",
+          "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5"
+        },
+        {
+          "path": "stories/captive-couples/title-image.jpg",
+          "role": "Kades compatible insulated clothes/glove/cell exteriors only; no face visible; no glossy rendering.",
+          "sha256": "ec8b7953d4c97e96359c8b6cc331ceabdbc96b23f5541cd4aab49797d9b6c896",
+          "inspected": true,
+          "notes": "Bare hand and burned gloved palm, charcoal insulating layers; no face identity."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/01-transfer-station-catwalk.png",
+          "role": "Night emergency-light colour only; no setting.",
+          "sha256": "6ca479087f247860a1b6e5358fc02d79c704697cf24ca0aaccbcb55cb7a780fd",
+          "inspected": true,
+          "notes": "Muted red/amber industrial night light and deep blueviolet planes; no daylight."
+        },
+        {
+          "path": "stories/captive-couples/art/interiors/03-hospital-assessment-bay.png",
+          "role": "Assessed for final recovery light and warming-pad context; no scene.",
+          "sha256": "93f4a7b8d99bb2c49b2707cc9e10deb4b1472de5e9aa903912c8c5afe9153790",
+          "inspected": true,
+          "notes": "Nighttime interior subdued warm/cool wash, no daylight."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Xavier Kade",
+        "sourceRole": "Central antagonist/Downforce; tags downward loads and respects shared abort threshold while facilitating theft.",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "cb8a753bb2cec9ea590befaca48c349db4edf682924f94bdaed2eae356e91451"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "84dac6e0c985f130a08330b31ebbbce01a3bd53b01f88db916012e2f3fcd09f6",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "Four substantial named characters complete, bounded powers and material states separated; source/spec/reference/output pins verified."
+}

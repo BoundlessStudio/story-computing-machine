@@ -1,0 +1,989 @@
+{
+  "slug": "drone-down",
+  "title": "The City Keeps Score",
+  "source": "stories/drone-down/story.md",
+  "canon": false,
+  "mainCastEvidence": "Read the complete finished story before selection. Raska, Kero and Sevi drive the competition, estrangement and rescue. The south-market incapacitation unit is the sustained mechanical antagonist. Earlier drones are distinct units, not merged into its history.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Old man in bread queue",
+      "reason": "Opening beneficiary only."
+    },
+    {
+      "name": "Boy on bicycle",
+      "reason": "Brief target whose escape triggers one encounter."
+    },
+    {
+      "name": "Other observation/enforcement drones",
+      "reason": "Incidental separate units; the central antagonist sheet represents the south-market unit."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md#authority-order",
+    "universe/rules.md#system-categories",
+    "universe/rules.md#living-agency-and-magic",
+    "universe/characters.md (no Raska/Kero/Sevi entries)"
+  ],
+  "characters": [
+    {
+      "id": "raska",
+      "name": "Raska",
+      "role": "Protagonist",
+      "selectionEvidence": [
+        {
+          "quote": "Raska stepped out of line.",
+          "line": 23,
+          "explanation": "Initiates resistance; her trauma and final choice structure the plot."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs.",
+        "lifeStage": "Not precisely specified.",
+        "proportions": "Ordinary human proportions.",
+        "markings": "No fixed markings stated.",
+        "materials": "Skin, hair and wet practical fabrics.",
+        "clothing": "Not specified; restrained practical contemporary street clothes.",
+        "equipment": "Scene objects such as canvas and parcel bin; no permanent weapon.",
+        "scale": "Human scale.",
+        "movement": "Agile improvised climbing and dodging; freezes at three-note warning; falls onto both knees in climax.",
+        "distinctiveFeatures": "Raised chin in stored patrol image; no canonical visible scar from stunning."
+      },
+      "explicitCanon": [
+        "Woman referred to as she; previously stunned by drone; hands go numb during climax."
+      ],
+      "visualInterpretation": [
+        "Young adult interpretation, short dark hair, medium warm complexion, practical dark jacket and trousers; these are restrained design choices rather than canon.",
+        "Defiant, frozen and recovering posture studies; no invented magical trauma markings.",
+        "Current presentation: character-only warm-ivory folio, no scenery, environmental props or palette swatches. Broad matte oil masses and story-compatible diffuse cool study light. Exact additional facial/clothing interpretations are recorded in the generation prompt; no shared canon asserted."
+      ],
+      "output": "stories/drone-down/art/characters/raska.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Raska\"; story title \"The City Keeps Score\". Human woman, interpreted young adult around 23, medium warm-brown complexion, short rough black hair cropped above jaw, compact athletic proportions, squared nose tip, broad straight brows and a strong slightly squared chin. Her face must be distinct from both reference women. Ordinary two arms/two legs. She is an agile street improviser recovering from a drone stun, not a fantasy fighter: plain charcoal practical short jacket over gray shirt, slate trousers, worn black rubber-soled lace-up shoes. These restrained unspecified clothing/colour decisions are visual interpretation. No armor, cloak, jewelry, weapon, tech implant or invented scar. Show three full-body views: alert front three-quarter, side stance with weight ready to move, and rear. Show two larger head/shoulder studies labelled \"Defiant\" and \"Recovering\", same hair/face/outfit. Recovery is a tired ragged half-laugh, not injury makeup. Do not invent a visible trauma mark. Hands anatomically ordinary. No carried prop: carts, mesh and bins in prose are street infrastructure and must not appear on this character-only sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Raska\"; story title \"The City Keeps Score\". Human woman, interpreted young adult around 23, medium warm-brown complexion, short rough black hair cropped above jaw, compact athletic proportions, squared nose tip, broad straight brows and a strong slightly squared chin. Her face must be distinct from both reference women. Ordinary two arms/two legs. She is an agile street improviser recovering from a drone stun, not a fantasy fighter: plain charcoal practical short jacket over gray shirt, slate trousers, worn black rubber-soled lace-up shoes. These restrained unspecified clothing/colour decisions are visual interpretation. No armor, cloak, jewelry, weapon, tech implant or invented scar. Show three full-body views: alert front three-quarter, side stance with weight ready to move, and rear. Show two larger head/shoulder studies labelled \"Defiant\" and \"Recovering\", same hair/face/outfit. Recovery is a tired ragged half-laugh, not injury makeup. Do not invent a visible trauma mark. Hands anatomically ordinary. No carried prop: carts, mesh and bins in prose are street infrastructure and must not appear on this character-only sheet.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+                "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+                "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+                "inspected": true
+              }
+            ],
+            "reason": "Main cast selected after complete source reading; source name retained. Character-only art follows current shared collection treatment.",
+            "startedAt": "2026-09-23T21:13:04.682998+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-373b86ac-b42f-4328-951d-10c1b9327ed6.png",
+            "outputSha256": "7e93829ada768eded68e917d14588ed5ee272ba6a99c0a1fc3a255dd8bc3adf1",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:22:01.337912+00:00",
+            "generatorReview": [
+              "Full output inspected: consistent adult Raska identity across front, side, back and expressive studies; short black hair, warm-brown skin, charcoal practical jacket/slate trousers and worn footwear; no invented injury, weapon or fantasy costume.",
+              "Ordinary coherent human anatomy, readable exact headings/labels, complete silhouettes, broad matte painted face/body planes under restrained soft cool light; no settings, environmental props or swatches. Specific face/outfit remains documented interpretation."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:22:01.344361+00:00",
+        "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+        "outputSha256": "7e93829ada768eded68e917d14588ed5ee272ba6a99c0a1fc3a255dd8bc3adf1",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full output inspected: consistent adult Raska identity across front, side, back and expressive studies; short black hair, warm-brown skin, charcoal practical jacket/slate trousers and worn footwear; no invented injury, weapon or fantasy costume.",
+          "Ordinary coherent human anatomy, readable exact headings/labels, complete silhouettes, broad matte painted face/body planes under restrained soft cool light; no settings, environmental props or swatches. Specific face/outfit remains documented interpretation."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "5dc847ddc7d7ef325240bf8976e6e4ca35b6b6de322751050352f9e77de87148"
+      },
+      "recurrence": {
+        "identityKey": "drone-down:raska",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto rendering and landscape sheet presentation only; its human subject, cloak and equipment are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Inspected actual pixels: interlocking raised knife slabs, expressive equally textured faces, scraped ivory ground, restrained detail, varied warm light/cool shadow masses."
+        },
+        {
+          "path": "stories/drone-down/title-image.jpg",
+          "role": "Drone exterior identity, subordinate to prose; not rendering style.",
+          "sha256": "51e8934a496e262a34be9b80c7a7379b9b09f4471359334432228b910df8710e",
+          "inspected": true,
+          "notes": "Viewed actual pixels: dark low broad central shell, four circular guarded rotor assemblies, black underside camera, blue ring. Do not inherit photographic/glossy finish or assume ground-projected circle is a mechanism."
+        },
+        {
+          "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+          "role": "Story palette and painted street environment.",
+          "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+          "inspected": true,
+          "notes": "Viewed actual pixels: heavy gray-blue pavement strokes, warm cream wet reflections, muted brown buildings and olive awnings. Prose infrastructure controls scene geometry."
+        }
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Raska",
+        "sourceRole": "Protagonist",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "7e93829ada768eded68e917d14588ed5ee272ba6a99c0a1fc3a255dd8bc3adf1"
+    },
+    {
+      "id": "kero",
+      "name": "Kero",
+      "role": "Substantial co-protagonist and rescue partner",
+      "selectionEvidence": [
+        {
+          "quote": "Kero hit her around the waist.",
+          "line": 157,
+          "explanation": "Rescues Raska and later learns to trust her signal."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs.",
+        "lifeStage": "Not precisely specified.",
+        "proportions": "Ordinary human proportions.",
+        "markings": "No fixed markings stated.",
+        "materials": "Skin, hair and wet practical fabrics.",
+        "clothing": "Not specified; restrained practical contemporary street clothes.",
+        "equipment": "Advertisement mesh is improvised environmental material.",
+        "scale": "Human scale.",
+        "movement": "Climbs kiosk roof, rolls, hauls shutter, braces rail support.",
+        "distinctiveFeatures": "Loses strip of hair above one ear during climax."
+      },
+      "explicitCanon": [
+        "Man referred to as he; final bare stripe above ear caused by rotor fragments removing hair."
+      ],
+      "visualInterpretation": [
+        "Young adult interpretation, lean build, close dark hair and slate work jacket; exact face, colouring and outfit unspecified.",
+        "Current presentation: character-only warm-ivory folio, no scenery, environmental props or palette swatches. Broad matte oil masses and story-compatible diffuse cool study light. Exact additional facial/clothing interpretations are recorded in the generation prompt; no shared canon asserted."
+      ],
+      "states": [
+        {
+          "label": "Before rotor strike",
+          "description": "Intact hair."
+        },
+        {
+          "label": "After rotor strike",
+          "description": "Bare strip above one ear; no invented severe wound."
+        }
+      ],
+      "output": "stories/drone-down/art/characters/kero.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Kero\"; story title \"The City Keeps Score\". Human man, interpreted young adult around 24, lean taller build, warm olive complexion, narrow long nose, deep-set dark-brown eyes, straight dark brows, close-cropped black hair with slightly longer rough top. Long angular face and slight stubble are restrained visual interpretation; do not copy any reference face. Practical faded navy hoodless work jacket over dull gray shirt, dark olive trousers and scuffed brown ankle boots. No armor, cloak, jewelry, weapon or permanent gear. He climbs and hauls improvised street infrastructure, but no environmental prop belongs here. Show two complete views, front three-quarter and rear, in his intact-hair state. Add a third small isolated crouched/bracing posture showing ordinary anatomy and grounded weight without painting a ground patch. Two head studies use identical facial structure: \"Before\" with intact hair, and \"After\" with a clearly bare narrow stripe of missing hair ABOVE ONE EAR caused by a rotor near-miss. Keep this minor missing-hair change separate from intact body views. No blood, deep wound, burns or facial scar. The two head expressions can be guarded and relieved. The ear-side selection is an art choice; keep the after-state stripe in one consistent place. No mesh or rail props.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Kero\"; story title \"The City Keeps Score\". Human man, interpreted young adult around 24, lean taller build, warm olive complexion, narrow long nose, deep-set dark-brown eyes, straight dark brows, close-cropped black hair with slightly longer rough top. Long angular face and slight stubble are restrained visual interpretation; do not copy any reference face. Practical faded navy hoodless work jacket over dull gray shirt, dark olive trousers and scuffed brown ankle boots. No armor, cloak, jewelry, weapon or permanent gear. He climbs and hauls improvised street infrastructure, but no environmental prop belongs here. Show two complete views, front three-quarter and rear, in his intact-hair state. Add a third small isolated crouched/bracing posture showing ordinary anatomy and grounded weight without painting a ground patch. Two head studies use identical facial structure: \"Before\" with intact hair, and \"After\" with a clearly bare narrow stripe of missing hair ABOVE ONE EAR caused by a rotor near-miss. Keep this minor missing-hair change separate from intact body views. No blood, deep wound, burns or facial scar. The two head expressions can be guarded and relieved. The ear-side selection is an art choice; keep the after-state stripe in one consistent place. No mesh or rail props.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+                "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+                "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+                "inspected": true
+              }
+            ],
+            "reason": "Main cast selected after complete source reading; source name retained. Character-only art follows current shared collection treatment.",
+            "startedAt": "2026-09-23T21:13:06.189459+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ac056051-076a-4bfd-8fce-56ad0b6bb9fd.png",
+            "outputSha256": "97027a55a756c775eadae6eb2664e535680c2c00d7e8d11c26765cbdd37466bb",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:22:02.469201+00:00",
+            "generatorReview": [
+              "Full output inspected: consistent lean young-adult Kero with navy work jacket, olive trousers and boots in front/rear/crouched studies; before/after head states preserve identity and show small hair-loss strip above ear without invented bloody wound.",
+              "Two-arm/two-leg anatomy and hands coherent; full silhouettes and exact heading/title readable. Broad connected painted values and matte expression studies; no scenery or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:22:02.474281+00:00",
+        "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+        "outputSha256": "97027a55a756c775eadae6eb2664e535680c2c00d7e8d11c26765cbdd37466bb",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full output inspected: consistent lean young-adult Kero with navy work jacket, olive trousers and boots in front/rear/crouched studies; before/after head states preserve identity and show small hair-loss strip above ear without invented bloody wound.",
+          "Two-arm/two-leg anatomy and hands coherent; full silhouettes and exact heading/title readable. Broad connected painted values and matte expression studies; no scenery or swatches."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "303bcfaf14f64f85252337f7f03dd84114f60f5ee54fb9e625278f5b3715966c"
+      },
+      "recurrence": {
+        "identityKey": "drone-down:kero",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto rendering and landscape sheet presentation only; its human subject, cloak and equipment are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Inspected actual pixels: interlocking raised knife slabs, expressive equally textured faces, scraped ivory ground, restrained detail, varied warm light/cool shadow masses."
+        },
+        {
+          "path": "stories/drone-down/title-image.jpg",
+          "role": "Drone exterior identity, subordinate to prose; not rendering style.",
+          "sha256": "51e8934a496e262a34be9b80c7a7379b9b09f4471359334432228b910df8710e",
+          "inspected": true,
+          "notes": "Viewed actual pixels: dark low broad central shell, four circular guarded rotor assemblies, black underside camera, blue ring. Do not inherit photographic/glossy finish or assume ground-projected circle is a mechanism."
+        },
+        {
+          "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+          "role": "Story palette and painted street environment.",
+          "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+          "inspected": true,
+          "notes": "Viewed actual pixels: heavy gray-blue pavement strokes, warm cream wet reflections, muted brown buildings and olive awnings. Prose infrastructure controls scene geometry."
+        }
+      ],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Kero",
+        "sourceRole": "Substantial co-protagonist and rescue partner",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "97027a55a756c775eadae6eb2664e535680c2c00d7e8d11c26765cbdd37466bb"
+    },
+    {
+      "id": "sevi",
+      "name": "Sevi",
+      "role": "Substantial supporting protagonist; witness whose risky attempt reunites companions",
+      "selectionEvidence": [
+        {
+          "quote": "At fourteen they were small enough to disappear behind city furniture",
+          "line": 47,
+          "explanation": "Explicit age and small scale."
+        },
+        {
+          "quote": "Their red hood vanishing through a laundry court.",
+          "line": 193,
+          "explanation": "Distinctive recurrent clothing."
+        }
+      ],
+      "form": "Human fourteen-year-old",
+      "storyAppearance": {
+        "anatomy": "Human; two arms and two legs.",
+        "lifeStage": "Fourteen.",
+        "proportions": "Small; narrow shoulders.",
+        "markings": "Chalk dust around fingernails.",
+        "materials": "Skin, hair and wet practical fabrics.",
+        "clothing": "Red hood and pockets; practical trousers and shoes interpreted.",
+        "equipment": "Chalk. The red service handle is fixed scene infrastructure, not carried gear.",
+        "scale": "Human scale.",
+        "movement": "Crouches, skips, climbs rack, jumps, falls into plastic baskets.",
+        "distinctiveFeatures": "Red hood and chalk-dusted hands; pronouns they/them."
+      },
+      "explicitCanon": [
+        "Fourteen, small, narrow shoulders, red hood, chalk-dusted fingernails; they/them."
+      ],
+      "visualInterpretation": [
+        "Short dark hair and medium complexion are choices; do not infer gender from pronouns.",
+        "Contemporary red hood, not medieval cloak; chalk-hand detail and scoring/listening/determined postures.",
+        "Current presentation: character-only warm-ivory folio, no scenery, environmental props or palette swatches. Broad matte oil masses and story-compatible diffuse cool study light. Exact additional facial/clothing interpretations are recorded in the generation prompt; no shared canon asserted."
+      ],
+      "output": "stories/drone-down/art/characters/sevi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Sevi\"; story title \"The City Keeps Score\". One human fourteen-year-old, pronouns they/them. Small, narrow shoulders and early-adolescent proportions, neither a tiny adult nor a child of six. Slightly round cheeks, small chin, straight broad nose, short messy dark hair, medium tan complexion and dark eyes are restrained art choices. Do not copy either adult reference face or body. Sevi's definite source identity features: RED HOOD, pockets, and chalk dust making pale moons around fingernails; they carry chalk. Interpret the red hood as a faded brick-red practical contemporary hooded jacket over muted gray shirt, dark trousers and worn plain sneakers. No medieval cloak, armor, weapons, jewelry or invented body marks. Show three isolated full-body views: hood-up front three-quarter, hood-up rear, and hood-down side showing the same short hair and face. A pair of head studies shows dry mischievous amusement and worried determination, preserving the fourteen-year-old identity. Include a close study of small normal hands with chalk-dusted fingertips and one short chalk piece, labelled \"Chalk\". Keep all ten fingers coherent. No service handle, baskets, information box, street setting or palette strip. Clothing states labelled simply \"Hood up\" and \"Hood down\".",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE character-only landscape 1536x1024 3:2 oil-painted reference folio on quiet warm ivory. Exact character name and story title clearly readable. Input images 1 and 2 anchor ONLY the collection's Canadian Group of Seven-related painting and presentation: large rhythmic colour/value masses, broad directional opaque bristle strokes, varied mark size, quiet passages, selective substantial impasto. Do NOT copy either reference person's identity, hair, outfit, equipment, markings or expressions. Image 3 guides subdued diffuse rainy-city light only, not setting imagery. Model every face, body and fabric with the same broad painted treatment; expressive human eyes must remain matte painted strokes, no smooth photo face. Restrained soft cool study illumination consistent across views, connected gray-violet shadows, muted warm skin planes; no sunbeam, rim light or artificial orange-blue contrast. No glossy CGI, anime, precision bevels, gold edge dots, per-stroke highlights or texture filter. No scenery, vignette, terrain, floor, platforms, buildings, atmospheric sky patches or environmental props. NO PALETTE SWATCHES OR COLOUR STRIPS. Two or three useful complete isolated body views, small source-grounded expression/detail studies, ample spacing, concise labels, no decorative prose. Retain one distinct consistent identity across every view; unclipped head, feet, fingers.\nHeading \"Sevi\"; story title \"The City Keeps Score\". One human fourteen-year-old, pronouns they/them. Small, narrow shoulders and early-adolescent proportions, neither a tiny adult nor a child of six. Slightly round cheeks, small chin, straight broad nose, short messy dark hair, medium tan complexion and dark eyes are restrained art choices. Do not copy either adult reference face or body. Sevi's definite source identity features: RED HOOD, pockets, and chalk dust making pale moons around fingernails; they carry chalk. Interpret the red hood as a faded brick-red practical contemporary hooded jacket over muted gray shirt, dark trousers and worn plain sneakers. No medieval cloak, armor, weapons, jewelry or invented body marks. Show three isolated full-body views: hood-up front three-quarter, hood-up rear, and hood-down side showing the same short hair and face. A pair of head studies shows dry mischievous amusement and worried determination, preserving the fourteen-year-old identity. Include a close study of small normal hands with chalk-dusted fingertips and one short chalk piece, labelled \"Chalk\". Keep all ten fingers coherent. No service handle, baskets, information box, street setting or palette strip. Clothing states labelled simply \"Hood up\" and \"Hood down\".",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+                "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+                "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+                "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+                "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+                "inspected": true
+              }
+            ],
+            "reason": "Main cast selected after complete source reading; source name retained. Character-only art follows current shared collection treatment.",
+            "startedAt": "2026-09-23T21:13:10.003830+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b21ab834-e9fc-46c4-b8df-cda17ad80407.png",
+            "outputSha256": "efe8b5b7f30da58e8b72acb799590aa01d12b25d413cd90a53190b15b8ebbd2e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:22:03.570259+00:00",
+            "generatorReview": [
+              "Full output inspected: small narrow-shouldered adolescent Sevi, matching face/hair in hood-up, hood-down and expression studies; red contemporary hood, pockets and chalk-dusted fingernails preserved.",
+              "Hands show ordinary five-digit anatomy and short chalk; no adult sexualization, invented identity markings, medieval cloak or environmental prop. Exact name/title readable; isolated painted silhouettes on ivory, no palette swatches or scenery."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:22:03.575520+00:00",
+        "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+        "outputSha256": "efe8b5b7f30da58e8b72acb799590aa01d12b25d413cd90a53190b15b8ebbd2e",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-darkness-written-under-skin/art/characters/leora-sloane.png",
+            "role": "Paint and folio presentation ONLY: broad matte human face/body planes and quiet connected shadows; do not copy face, hair, clothing or skin markings.",
+            "sha256": "f8cacf12cf62bbf39a7bdde7e8c1bdfb3ff498e6b76237b2181b08a868956eb5",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Paint and isolated character-sheet presentation ONLY; do not copy woman's identity, spotted face, hair pencil, clothing or equipment.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+            "role": "Diffuse rainy-city light and subdued gray-violet/olive palette ONLY; no environment imagery on sheet.",
+            "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Full output inspected: small narrow-shouldered adolescent Sevi, matching face/hair in hood-up, hood-down and expression studies; red contemporary hood, pockets and chalk-dusted fingernails preserved.",
+          "Hands show ordinary five-digit anatomy and short chalk; no adult sexualization, invented identity markings, medieval cloak or environmental prop. Exact name/title readable; isolated painted silhouettes on ivory, no palette swatches or scenery."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1c7fbec7c0ba27b9c1d2e542840e16412e52bba6ebea56101aca8a1c6b631b68"
+      },
+      "recurrence": {
+        "identityKey": "drone-down:sevi",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto rendering and landscape sheet presentation only; its human subject, cloak and equipment are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Inspected actual pixels: interlocking raised knife slabs, expressive equally textured faces, scraped ivory ground, restrained detail, varied warm light/cool shadow masses."
+        },
+        {
+          "path": "stories/drone-down/title-image.jpg",
+          "role": "Drone exterior identity, subordinate to prose; not rendering style.",
+          "sha256": "51e8934a496e262a34be9b80c7a7379b9b09f4471359334432228b910df8710e",
+          "inspected": true,
+          "notes": "Viewed actual pixels: dark low broad central shell, four circular guarded rotor assemblies, black underside camera, blue ring. Do not inherit photographic/glossy finish or assume ground-projected circle is a mechanism."
+        },
+        {
+          "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+          "role": "Story palette and painted street environment.",
+          "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+          "inspected": true,
+          "notes": "Viewed actual pixels: heavy gray-blue pavement strokes, warm cream wet reflections, muted brown buildings and olive awnings. Prose infrastructure controls scene geometry."
+        }
+      ],
+      "states": [],
+      "nameAssignment": {
+        "kind": "source-name",
+        "name": "Sevi",
+        "sourceRole": "Substantial supporting protagonist; witness whose risky attempt reunites companions",
+        "scope": "Exact name retained from finished prose."
+      },
+      "outputSha256": "efe8b5b7f30da58e8b72acb799590aa01d12b25d413cd90a53190b15b8ebbd2e"
+    },
+    {
+      "id": "morrowick",
+      "name": "Morrowick",
+      "role": "Central mechanical antagonist",
+      "selectionEvidence": [
+        {
+          "quote": "The incapacitation unit hung knee-high in the crossing, fighting a web of parcel straps.",
+          "line": 219,
+          "explanation": "Sustained central threat with operational behaviour."
+        },
+        {
+          "quote": "The drone’s front display cleared. Three face frames appeared.",
+          "line": 251,
+          "explanation": "Visible association-tracking interface."
+        },
+        {
+          "quote": "The drone’s rotors had stopped, but the reserve camera continued to turn.",
+          "line": 395,
+          "explanation": "Downed surveillance remains threatening."
+        }
+      ],
+      "form": "Nonhumanoid autonomous rotor drone; no human body, face, hands or visible pilot",
+      "storyAppearance": {
+        "anatomy": "Mechanical shell/frame with rotors, main camera, swivelling reserve camera, speaker, front display, underside unit mark, lower charge/status ring and contact lights.",
+        "lifeStage": "Mechanical service wear; not biological.",
+        "proportions": "Compatible cover identity: low broad dark shell and four circular guarded rotor assemblies. Rotor count is established artwork interpretation, not stated prose anatomy.",
+        "markings": "Underside unit mark is unread while pinned to pavement. Never label this unit seven-four-gray; that belongs to opening wreck.",
+        "materials": "Weathered dark metal/composite casing and glass optics/display; blue contact discharge.",
+        "clothing": "None.",
+        "equipment": "Integrated surveillance and incapacitation mechanisms only; no guns, hands, cockpit, invented internals or engineering cutaway.",
+        "scale": "Can hover knee-high; trapped in street delivery infrastructure in prose. No exact dimensions stated. Current user presentation omits all environmental scale props.",
+        "movement": "Hovers, rotates, climbs right under release, drops belly-first; reserve camera keeps turning after rotors stop.",
+        "distinctiveFeatures": "Blue ring and three-note charge warning; association-count front display; queued upload/retrieval text; contact lights."
+      },
+      "explicitCanon": [
+        "Mechanical rotor unit with surveillance and incapacitation behaviour; this establishes neither magical agency nor biological life.",
+        "The climax unit is distinct from the opening drone marked seven-four-gray.",
+        "Front display shows Raska, Kero and Sevi face frames and changing association counts; these are interface images, not the drone's own face."
+      ],
+      "visualInterpretation": [
+        "Preserve compatible cover's four guarded rotors, broad low silhouette and dark camera pod as selected identity design; do not claim rotor count is prose canon.",
+        "Sheet adapted to front three-quarter, side and underside exterior views, lens/ring/display details, intact and downed operating states; no human turnaround or expression row.",
+        "Broad connected charcoal and gray-violet painted planes, directional opaque oil strokes and restrained underside cobalt; coherent restrained soft study light, matte optics, quiet ivory ground. Current user Group of Seven and lighting correction supersedes original uniformly heavy-impasto treatment.",
+        "Character-only presentation: no location, vignette, sky, terrain, floor or environmental prop, and no paint swatches/palette strip. Three isolated whole-machine views and integral exterior camera/ring/rotor/display studies. Downed damage remains separately labelled."
+      ],
+      "states": [
+        {
+          "label": "Hovering enforcement",
+          "description": "Intact rotors, active blue ring and tracking display."
+        },
+        {
+          "label": "Trapped",
+          "description": "External parcel straps restrain casing beside shutter and delivery rack."
+        },
+        {
+          "label": "Downed",
+          "description": "Belly-first on paving, one rotor burst, cracked front display, stopped rotors, active reserve camera and contact lights. No cutaway."
+        }
+      ],
+      "output": "stories/drone-down/art/characters/morrowick.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: text-localization. Image 1 is the sole target, a completed character-only oil-painted drone reference sheet. Make ONE precise text change: replace the upper-left character heading 'South-market incapacitation unit' with the exact single name 'Morrowick'. This is the user-authorized art name; do not add a serial number. Preserve the story title 'The City Keeps Score' and ALL other pixels/content as faithfully as possible: all four rotors in both intact views, DOWNED with three intact and one broken rotor, distinct main/reserve cameras, underside ring, fractured readable UPLOAD QUEUED, all detail studies/labels, quiet ivory ground, no palette swatches, no scenery. Preserve matte gray-violet oil masses and restrained soft study light. No redraw, re-lighting, gloss, texture change, added motifs or new text. Return complete 1536x1024 3:2 sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "superseded",
+            "prompt": "Use case: illustration-story.\nAsset: ONE landscape 3:2 character reference sheet, 1536x1024 intended, for a finished fiction art gallery. Warm ivory painted ground and generous clear spacing. Exact heading \"South-market incapacitation unit\"; exact smaller story title \"The City Keeps Score\".\n\nREFERENCE ROLES: Image 1 is the approved \"02 — Sculpted Impasto\" style/presentation sheet. Follow its strongly raised palette-knife oil painting throughout, but do not copy its human, red cloak, medieval equipment, mountains or autumn palette. Image 2 is this story's cover: preserve its compatible drone identity (low broad dark central shell, FOUR circular guarded rotor assemblies, underside black camera pod, blue lower ring); do NOT copy its glossy photorealistic rendering, title layout, ground projection circle or unknown internal engineering. Image 3 is the story's rainy bread-street oil painting: borrow gray-blue shadows, restrained warm cream wet reflections, muted ochre masonry and olive awnings, and thick decisive strokes; adapt vignette geometry to the story details below.\n\nSUBJECT: The unnamed central south-market incapacitation unit. It is a nonhumanoid surveillance/enforcement rotor drone, NOT a human pilot or robot person. Exactly four guarded rotor assemblies attached to a low broad shell; one underside main black camera pod; a small physically distinct reserve swivelling camera; lower status/charge ring; a flat front information display; speaker aperture and small contact lights. Use the cover's exterior proportions consistently in every view. No face built into body. No arms, legs, hands, cockpit, clothing, weapons barrel, fantasy ornaments, organic anatomy, or internal cutaway. No invented unit number. In particular NEVER write \"seven-four-gray\", which names an earlier different unit. Do not invent a technical acronym.\n\nLAYOUT: Main band has three uncropped useful whole-machine exterior studies: front three-quarter hovering view, low side view, and underside three-quarter view. Different angles explain the same four-rotor geometry, camera arrangement and ring; maintain enough space that no rotor is cut off or merged. Labels \"HOVERING\", \"SIDE\", \"UNDERSIDE\".\nSmaller lower studies: black camera pod and separate reserve lens; the status ring in white and active blue, labels \"WHITE\" and \"ACTIVE BLUE\"; and one clearly separated downed exterior state labelled \"DOWNED\". In downed state it is belly-first, one rotor's blades burst/damaged while the other three remain, its front display cracked, reserve camera/contact lights still active; display may clearly read \"UPLOAD QUEUED\". Keep damage separate from intact views. The unit's hidden underside identifier is not shown legibly.\nA compact lower-right environment vignette places this same drone knee-high beside a shuttered market stall, restrained in external parcel straps stretched from an automatic delivery rack below a bowed metal shutter. Wet paving, dim blue ring light, parcel bin/curb as intuitive scale cues. No people needed. Do not make the straps parts of its anatomy. A small palette strip of ivory, charcoal, slate blue, electric blue, olive-gray and muted ochre.\n\nMEDIUM AND PAINT HANDLING: Heavy tactile oil paint, visibly sculptural impasto with large decisive palette-knife slabs and thick bristle strokes. Build the drone from interlocking broken painted masses with scraped edges and exposed underpainting. Thick directional ridges DESCRIBE hull curvature, rotor guards and mechanical material; no uniform texture filter. Metal should feel dark and weighty through broad cool slate masses and selected warm edge marks, with matte painted optics and roughly painted restrained luminous blue, NOT polished CGI. ALL small studies and scene share the equally thick painted handling, including cameras and display; simplify small engineering details rather than smooth them. Warm light, rich cool shadows, sober rainy-city colours. Readable intentional painted lettering, uncropped silhouettes, useful spacing. This is an art reference sheet, not a blueprint. Do not add ruler dimensions, manufacturer logo, watermark, specification stats, safety icons, decorative human expressions or extra explanatory text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Approved Sculpted Impasto rendering and landscape sheet presentation only; its human subject, cloak and equipment are not templates.",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "notes": "Inspected actual pixels: interlocking raised knife slabs, expressive equally textured faces, scraped ivory ground, restrained detail, varied warm light/cool shadow masses."
+              },
+              {
+                "path": "stories/drone-down/title-image.jpg",
+                "role": "Drone exterior identity, subordinate to prose; not rendering style.",
+                "sha256": "51e8934a496e262a34be9b80c7a7379b9b09f4471359334432228b910df8710e",
+                "inspected": true,
+                "notes": "Viewed actual pixels: dark low broad central shell, four circular guarded rotor assemblies, black underside camera, blue ring. Do not inherit photographic/glossy finish or assume ground-projected circle is a mechanism."
+              },
+              {
+                "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+                "role": "Story palette and painted street environment.",
+                "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+                "inspected": true,
+                "notes": "Viewed actual pixels: heavy gray-blue pavement strokes, warm cream wet reflections, muted brown buildings and olive awnings. Prose infrastructure controls scene geometry."
+              }
+            ],
+            "startedAt": "2026-09-23T16:28:02.2359504Z",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-56c71aac-93aa-43a1-8247-e98c0df993b7.png",
+            "outputSha256": "ac119ad11a8a9716059a6b9ab7260bc8e8e68dacfeb6cf0a50e744120636091c",
+            "finishedAt": "2026-09-23T16:30:18.6758924Z",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "PASS on displayed full generated image: intact views retain four guarded rotor assemblies, low shell, main and reserve cameras and blue ring; one damaged rotor separated in DOWNED state.",
+              "Exact identifying title and story title readable; useful studies, clear labels, complete silhouettes and warm ivory spacing.",
+              "Heavy knife-built impasto remains across dark mechanical surfaces and rain vignette; no human anatomy, invented serial, internal engineering or smooth plastic finish.",
+              "Story-compatible exterior design; view-dependent occlusion in SIDE is expected. Generic display bars do not invent readable association data.",
+              "Rendering note: built-in generated result displayed full 1536x1024 pixels. Subsequent local view_image calls returned only a tiny image fragment despite correct 1536x1024 file dimensions; independent reviewer should inspect the complete source through another supported image display if reproduced."
+            ],
+            "independentReview": "REVISE: downed screen glass appeared intact. All other anatomy, fidelity, layout and impasto checks passed."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: precise-object-edit.\nEdit target: Image 1, the existing 1536x1024 landscape Sculpted Impasto reference sheet titled \"South-market incapacitation unit\" with story title \"The City Keeps Score\". Image 2 is the approved heavy-oil rendering reference only.\n\nMake ONE narrowly targeted correction. In the lower-left study labelled \"DOWNED\", the blue-black rectangular information screen currently reading \"UPLOAD QUEUED\" looks intact. The finished story explicitly says this front DISPLAY IS CRACKED. Add a clearly visible jagged fracture ON THE SCREEN GLASS ITSELF: an irregular pale diagonal seam crossing the screen's interior, with a small branching fissure. It must unmistakably interrupt the flat glass surface, rather than only cracking the surrounding casing or frame. Preserve the readable exact words \"UPLOAD QUEUED\" beneath the fracture. Use bold but thin painted marks consistent with the same sculptural oil handling; do not obscure or replace the words.\n\nKeep absolutely everything else as in Image 1: the entire composition and warm ivory ground, exact heading and story title, all labels and palette strip, three intact whole-drone views, camera studies, ring studies, rainy street vignette, every rotor location and silhouette. Exactly FOUR guarded rotor assemblies in each whole-drone design; only the downed study has its one pre-existing broken rotor. Do not alter damage elsewhere or add damage to the intact views. Keep the main and reserve cameras distinct. Preserve current substantial raised palette-knife impasto across the machine and background, matching Image 2; no glossy smoothing, CGI, photorealistic surface, human features, new text, new mechanical parts or interior engineering. Output the complete corrected reference sheet, same 3:2 framing and 1536x1024 intended dimensions.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-56c71aac-93aa-43a1-8247-e98c0df993b7.png",
+                "sha256": "ac119ad11a8a9716059a6b9ab7260bc8e8e68dacfeb6cf0a50e744120636091c",
+                "role": "Edit target: first drone candidate, preserve entire sheet except missing fracture on downed display.",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "role": "Approved Sculpted Impasto paint rendering only; subject and equipment not templates.",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T16:35:33.632Z",
+            "reason": "Independent review REVISE: downed display must visibly be cracked; all other content passed.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-31808db3-df01-4e37-86d8-a07d97080742.png",
+            "outputSha256": "0849b12ea854640efbe7c22117b2c7187bb12e76c379f08bab2bfd46b3109936",
+            "finishedAt": "2026-09-23T16:39:24.8251861Z",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "PASS: complete corrected output inspected from native imagegen display. Jagged branched fracture visibly crosses interior of DOWNED screen glass; UPLOAD QUEUED remains readable.",
+              "All three intact exterior views, four-rotor geometry, separate one-rotor-broken downed state, cameras, labels, title, warm ivory layout, impasto, palette strip and rainy market vignette preserved. No new humanoid features or internal engineering.",
+              "Corrected candidate remained separate at returnedPath during inspection, then copied over selected output after generator PASS. Root independent review pending."
+            ],
+            "selected": true,
+            "userReview": "REJECTED: all three initial pilot sheets drifted toward generic AI rendering; require stronger Canadian Group of Seven collection cohesion and lighting."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create one NEW 3:2 landscape painted field-study folio for \"South-market incapacitation unit\" from \"The City Keeps Score\", with those exact readable identifying texts. Treat it as one coherent oil-painted page by a Canadian Group of Seven landscape painter studying a machine in its environment.\n\nImage 1 (apple orchard hillside) and Image 2 (stream after ash) govern painting language: large rhythmic colour/value masses, sweeping directional bristle strokes, varied mark scale, interlocking shapes and quiet passages. Image 3 (rainy bread street) supplies setting and overcast light. Translate their painting decisions into the subject; do not transfer orchard sunshine, trees or autumn colours into the drone. No previous drone image or cover is supplied.\n\nThe subject is a low broad surveillance drone with exactly FOUR circular guarded rotor discs, two front and two rear, coherently attached in perspective to a simple broad central casing. Beneath it are one large main camera and one distinctly smaller reserve camera, indicated by simple dark brush circles. A flat front information display and lower status ring are visible. Preserve these broad shapes between views; minimum small engineering detail. No human anatomy, cockpit, weapon barrel or invented internal engineering. Its exact serial number is unknown: do not invent one.\n\nUse a quiet matte warm-ivory ground with ample breathing space. Arrange two strong overall studies: front three-quarter and side/underside three-quarter, plus compact studies of the two cameras and WHITE / ACTIVE BLUE ring states. A separate DOWNED study has exactly one broken rotor among the four and a clearly jagged fracture crossing the screen glass; the words \"UPLOAD QUEUED\" remain readable beneath the crack. All other views remain intact. Add a small overcast rainy-street environment vignette with closed stalls, awnings, wet paving and the drone; this is an environment study, not the after-dark rescue scene. A restrained small palette strip is optional.\n\nLIGHT determines the paint: the SAME broad overcast sky illumination across every study and vignette. Upper casing planes are muted gray-violet; undersides form connected cool charcoal shadows. Separate planes through colour and value, not outlines, bevels or glitter. The charge colour is a few matte cobalt brushmarks: no neon bloom or light rays. Camera centres remain simple dark painted circles, without glassy lens reflections or tiny glints. Wet paving uses a few broad pale reflections, not HDR sparkle.\n\nBuild the machine from sweeping, purposefully placed strokes and large joined masses BEFORE surface texture. Let some passages remain quiet and broadly brushed; concentrate tangible impasto only where a stroke describes form. All materials stay visibly painted. Avoid uniformly chiselled flakes, woodchip facets, frosting ground, gold edge dots, plastic sheen, precision product rendering, airbrushed optics, photorealism, or an all-over texture filter. Keep silhouettes uncropped, labels legible and secondary details subordinate.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Shared primary paint-language anchor: broad joined value masses, varied directional strokes, quiet passages. Do not borrow sunny lighting or orchard subject.",
+                "inspected": true,
+                "notes": "Actual pixels inspected: joined dark tree masses, broad lit grass and sweeping strokes, with gentle distant planes."
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Shared primary paint-language anchor: broad quiet rock planes, rhythmic brush movement and connected cool shadow.",
+                "inspected": true,
+                "notes": "Actual pixels inspected: large slate rock colour masses, long water strokes and locally varied impasto; no uniform bevels."
+              },
+              {
+                "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+                "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+                "role": "Story setting, diffuse overcast grey-violet light and broad wet-value reflections.",
+                "inspected": true,
+                "notes": "Actual pixels inspected: diffuse grey sky, cool wet pavement, broad quiet reflections, dark stalls and olive awnings. General environment vignette avoids depicting the after-dark climax in daylight."
+              }
+            ],
+            "startedAt": "2026-09-23T18:50:00.294Z",
+            "reason": "User rejected initial pilot style as generic AI drift, requesting Canadian Group of Seven collection cohesion and lighting. Fresh render uses shared landscape anchors without old candidate or cover; broad masses, subdued overcast light and matte cobalt.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b039e784-7b72-4828-a37f-ef6d01540791.png",
+            "outputSha256": "58427ee605b463bbede304afe7fdaece3261f5d872566bd3383f8d32702da347",
+            "finishedAt": "2026-09-23T18:53:04.5488539Z",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Style materially closer: subdued broad gray-violet casing planes, large dark matte cameras, quieter ground and landscape-linked strokes; overcast environment study avoids recreating the after-dark climax.",
+              "REVISE fidelity: status ring moved into front-facing circular button and explicitly labelled front, whereas story places ring beneath drone. Needs broad underside ring and corrected label in every study.",
+              "REVISE labels: invented riverside quarter and Oct. marginal annotations unsupported by source; remove those added details.",
+              "REVISE geometry/readability: downed study does not clearly expose all four rotor assemblies, making exactly three intact plus one damaged impossible to verify. Open framing/perspective required.",
+              "Cracked DOWNED display is clearly visible with UPLOAD QUEUED readable; main identifying title and story title correct.",
+              "Candidate remains outside story package; old selected PNG untouched. Root independent selection pending."
+            ]
+          },
+          {
+            "attempt": 4,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: precise-object-edit. Image 1 is the sole edit target: the complete landscape painted field-study folio for \"South-market incapacitation unit\" / \"The City Keeps Score\". Preserve its new matte broad oil-brush masses, subdued gray-violet overcast illumination, dark painted camera circles, quiet ivory ground, layout and landscape-linked colour handling. Make only these fidelity/label repairs; do not redesign, relight, sharpen, polish or add glossy effects.\n\n1. STATUS RING LOCATION. Remove the small round blue button/ring on the FRONT of the drone in both intact views, the downed view and the street vignette. Instead, show one encircling status BAND attached to the UNDERSIDE of the central chassis, wrapping around the main-and-reserve camera mounting assembly. In perspective it is a broad foreshortened ellipse beneath the body, NOT a front-facing round button and NOT a ring on camera glass. Maintain the same underside-band placement in every view. Active colour is muted MATTE COBALT BRUSH PAINT; no neon bloom, glass glow, lens highlights, rays or reflections. In the downed state the band may be inactive pale gray-white.\nChange the detail heading to the exact short label \"Status ring — underside\". Replace the two front-button detail studies with viewed-from-below elliptical underside-band studies, labelled \"WHITE\" and \"ACTIVE BLUE\". The mounting housing is dark broadly brushed paint and the band wraps around its bottom edge. Keep the separate main and reserve camera studies unchanged.\n\n2. TEXT CLEANUP. Keep the exact story title and character name. Keep only short informative view, camera and state labels and WHITE / ACTIVE BLUE. Remove all invented location/date and decorative prose annotations: \"riverside quarter\", \"Oct.\", \"Same sky / Same light / Same city\", all long handwritten margin paragraphs and the descriptive field-palette prose. Leave quiet ivory space in their place. Vignette may have only the short label \"Rainy street\". Existing palette swatches may remain. On intact-view and vignette front screens, REMOVE the invented \"SURVEILLANCE / SOUTH-MARKET UNIT\" text. Make those screens plain dark slate with three small faint unlabelled rectangular interface frames. No new words, dates, specifications, serials or emblems.\n\n3. DOWNED ROTOR READABILITY. Carefully repair ONLY the downed study's exterior perspective/rotor arrangement. It must visibly use the SAME FOUR-ARM, FOUR-GUARDED-ROTOR topology as the intact main study: two front rotor assemblies and two rear. Show exactly FOUR identifiable guarded assemblies with THREE intact and ONE broken/damaged. Give the rings enough separation that none merges with another or disappears behind the body; the downed machine can be seen from slightly above so all four can be counted. No extra arms or rotors. Keep it belly-first, keep both cameras distinct, and PRESERVE the clearly fractured screen glass with readable exact text \"UPLOAD QUEUED\". Do not damage the other views.\n\nEverything else remains: readable headings, two intact exterior views, compact camera details, complete unclipped silhouettes, the overcast rainy-street vignette, restrained palette and 3:2 composition. Brushstrokes must stay broad, varied and matte, with quieter passages and selective tactile impasto. No shiny product rendering, woodchip facets, uniform chiselled flakes, gold edge dots or extra human features. Return the complete corrected sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-b039e784-7b72-4828-a37f-ef6d01540791.png",
+                "sha256": "58427ee605b463bbede304afe7fdaece3261f5d872566bd3383f8d32702da347",
+                "role": "Sole edit target: preserve revised broad matte Group-of-Seven-related paint masses and subdued overcast light; repair ring placement, excess text and downed rotor readability.",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T18:57:50.963Z",
+            "reason": "Root agrees fresh style and lighting improved; targeted fidelity repairs requested for underside status ring, unsupported labels and four-rotor downed topology.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-74802f2a-e97d-4a56-bf3e-8c3dbc34a0b4.png",
+            "outputSha256": "8e5a8a218f310816117cdbade6e3ff0829ee2044d69b12cacbcddc18704a3307",
+            "finishedAt": "2026-09-23T19:01:27.4378464Z",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Requested ring correction achieved: band is under chassis around camera mounting assembly; detail heading reads Status ring — underside; cobalt/white bands matte and not luminous buttons.",
+              "Unsupported marginal location/date/prose and invented intact-screen text removed. Header, camera/state labels retained; intact screens have faint unlabelled frame rectangles.",
+              "Downed study now clearly shows exactly four assemblies: three intact plus one broken, with cracked UPLOAD QUEUED readable.",
+              "Broad matte gray-violet paint and ambient overcast light retained, dark cameras remain painted rather than glassy.",
+              "Independent-review concern: upper-right underside view now exposes three clear rotor rings; fourth is occluded or omitted, whereas main intact and downed studies each clearly show four. Reviewer should assess topology before selection.",
+              "Short DOWNED label was omitted during text cleanup; visual damage and upload text still distinguish the operating state.",
+              "New candidate remains outside package. Previous selected output has not been overwritten."
+            ],
+            "independentReview": "Root confirmed missing fourth rotor in upper-right study; narrow repair plus DOWNED label requested."
+          },
+          {
+            "attempt": 5,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "PASS-for-user-retry",
+            "prompt": "Use case: precise-object-edit. Image 1 is the sole edit target. Preserve the complete 1536x1024 painted folio, including its broad matte Group of Seven painting, diffuse overcast light, gray-violet planes, quiet ivory ground, restrained underside status bands, camera proportions, text, palette, other figures and street vignette.\n\nMake ONLY TWO very small local corrections:\n1. In the UPPER-RIGHT side/underside three-quarter drone study ONLY, there are currently three visible guarded rotor discs. Restore the missing FOURTH INTACT GUARDED ROTOR DISC on that study's vacant LOWER-RIGHT arm. Give it a physically coherent short attachment to the chassis, in the same four-arm layout as the large upper-left intact study. Keep the three existing upper-right rotors intact and in place. The new fourth disc must have a clearly distinguishable complete outer guard ring and internal rotor blades, correctly foreshortened to match the other discs. Exactly FOUR rotor assemblies in this upper-right study, never five. Use the vacant ivory space beside/below that study's right side; do not hide the new disc behind the body, merge rings, overlap the side-view label or clip it at the edge. Do not change the two cameras or underside cobalt band.\n2. Add the exact short readable label \"DOWNED\" in the existing empty ivory immediately beneath the damaged MIDDLE-RIGHT drone study. Preserve its fractured screen reading \"UPLOAD QUEUED\", its three intact rotors plus one damaged rotor, and every other label.\n\nDO NOT redraw or alter any other study. Do not move or resize the sheet content or change the main heading, story title, margin spacing, cameras, display frames, status details or vignette. Do not relight, sharpen, add glossy effects, add glowing edges, or polish the matte brushwork. The added rotor must use the same broad purposeful oil strokes and subdued gray-violet values as the existing three. Return the complete corrected sheet, same 3:2 landscape framing.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-74802f2a-e97d-4a56-bf3e-8c3dbc34a0b4.png",
+                "sha256": "8e5a8a218f310816117cdbade6e3ff0829ee2044d69b12cacbcddc18704a3307",
+                "role": "Sole edit target: preserve all painting and layout; add missing fourth intact rotor only to upper-right study and short DOWNED label.",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T19:04:41.959Z",
+            "reason": "Root confirmed fourth rotor missing in upper-right study. Narrow local correction restores fourth intact rotor and DOWNED label while retaining all approved style/light decisions.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-19700270-b6b4-4356-807b-42cc3230147f.png",
+            "outputSha256": "c21dc325e2061ec7c3521c98ef9ec284f698b299a71a165b064cf659127ced01",
+            "finishedAt": "2026-09-23T19:07:58.0742744Z",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "PASS generator inspection: upper-right study now has four distinguishable intact guarded rotor discs; added lower-right disc attaches to chassis and remains clear of label and frame. No fifth rotor.",
+              "DOWNED short label added below middle-right damaged study. Its three intact plus one broken rotor, visibly fractured readable UPLOAD QUEUED and neutral underside band remain.",
+              "Matte gray-violet broad paint, dark cameras, subdued underside cobalt bands, ambient overcast light, main identity/story headings and rainy street vignette retained.",
+              "New candidate remains outside package; no selected PNG replacement or gallery capture performed. Independent root inspection pending."
+            ],
+            "selected": true,
+            "coordinatorReview": "Root inspected final saved pixels: fourth upper-right rotor and DOWNED label corrected, all other painting and light retained.",
+            "supersededReason": "New user requests character-only studies and no paint swatches; prior environment presentation replaced.",
+            "priorSelectedReview": {
+              "status": "pending",
+              "reviewedAt": "2026-09-23T15:12:51.300176-04:00",
+              "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+              "outputSha256": "c21dc325e2061ec7c3521c98ef9ec284f698b299a71a165b064cf659127ced01",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-74802f2a-e97d-4a56-bf3e-8c3dbc34a0b4.png",
+                  "sha256": "8e5a8a218f310816117cdbade6e3ff0829ee2044d69b12cacbcddc18704a3307",
+                  "role": "Sole edit target: preserve all painting and layout; add missing fourth intact rotor only to upper-right study and short DOWNED label.",
+                  "inspected": true
+                }
+              ],
+              "evidence": [
+                "Root inspected final saved pixels: four guarded rotors in both intact whole views, three intact plus one damaged in DOWNED, visibly cracked UPLOAD QUEUED screen, distinct cameras, status ring beneath body, readable labels and unclipped silhouettes.",
+                "Independent cross-sample review found coherent broad natural illumination, connected shadows, quiet highlights and distinct materials without uniform lacquered texture; root verified final local rotor and label corrections.",
+                "Diffuse cool overcast light, matte camera lenses and broad gray-violet form planes share the rainy environment painting language; no invented unit identifier, decorative prose or internal engineering.",
+                "Independent cross-sample review: all three share broad natural illumination, connected shadows and quiet highlights. Fur, scales and metal remain distinct; eyes and lenses avoid artificial shine. Orsugal is slightly more finely articulated, without a blocking style difference."
+              ],
+              "userApproval": "Pending review of new character-only presentation; prior environment vignette superseded by explicit user direction.",
+              "specificationSha256": "0ae5a93a88165776ab4001c83129d2b77f1e877e1d6d85a2d0ba613d032da1b4"
+            }
+          },
+          {
+            "attempt": 6,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "superseded-by-user-preference",
+            "prompt": "Use case: precise-object-edit. Image 1 is the sole target: the final corrected drone character folio. Produce one 1536x1024 landscape 3:2 character-reference sheet with NO LOCATIONS OR ENVIRONMENT ART anywhere.\n\nREMOVE the entire rainy-street vignette and its label. REMOVE every fragment of terrain beneath the downed machine: paving, stones, rubble, earth, debris on the ground and any ground shadow patch suggesting a place. REMOVE the gray-blue sky/cloud-like backdrop patches behind the upper views. There must be NO street, building, awning, foliage, sky, horizon, ground, platform, scenic vignette or landscape brushwork. The whole background is a continuous quiet matte warm-ivory folio with restrained paper/paint grain, not frosting. A faint neutral study shadow directly within a component is fine; do not paint a floor or environment.\n\nKeep the exact identifying texts \"South-market incapacitation unit\" and \"The City Keeps Score\". Preserve the THREE existing unclipped isolated whole-machine studies: front three-quarter, side/underside three-quarter, and DOWNED. All whole views must retain the same LOW BROAD casing with exactly FOUR guarded rotor assemblies, two front/two rear on coherent arms, all four readable in each view. The two intact studies have FOUR intact rotors. The separate DOWNED study has THREE intact rotors and ONE damaged rotor; retain the clearly fractured screen with readable exact \"UPLOAD QUEUED\". Remove all ground material around that study without removing or merging any integral drone part.\n\nPreserve the distinct large main camera and small reserve camera, both dark matte painted circles. Preserve the status BAND encircling the UNDERSIDE chassis around the camera mounting assembly, with subdued matte cobalt or inactive white as appropriate; never turn it back into a front button or neon light. Keep the camera and WHITE / ACTIVE BLUE underside-band studies and their concise labels.\n\nUse the space freed by removing the vignette for TWO isolated source-supported EXTERIOR detail studies on ivory: one close view of an INTACT GUARDED ROTOR labelled \"Rotor guard\", and one close view of the already-cracked external display labelled \"Fractured display\", retaining readable \"UPLOAD QUEUED\". These show existing visible parts only, not engineering cutaways or invented mechanisms. Arrange with ample breathing space, no overlap or cropped silhouettes. No environmental objects, invented serials, decorative prose or extra text. Retain the small restrained colour swatches if useful.\n\nPreserve the final matte gray-violet and charcoal broad oil planes, purposeful directional brushstrokes, connected shadow values and selective tactile impasto. Use one restrained soft study light across the isolated forms, without relying on a painted environment. No cinematic rim light, lens glints, neon bloom, per-stroke shine, gold edge dots, glossy CGI, plastic or precision product rendering. Keep the body and all close studies equally visibly painted. Change presentation to isolated character-only studies while preserving corrected identity, anatomy, materials and damage.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-19700270-b6b4-4356-807b-42cc3230147f.png",
+                "sha256": "c21dc325e2061ec7c3521c98ef9ec284f698b299a71a165b064cf659127ced01",
+                "role": "Sole edit target: selected corrected drone identity and matte painted planes; remove every location, sky and terrain element for isolated character-only folio.",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T19:42:01.937Z",
+            "reason": "New explicit user direction: character references with no locations. Remove scene, ground and atmospheric patches; use isolated exterior details instead.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-36131aec-ed7a-4c75-a3e5-8a2651804728.png",
+            "outputSha256": "5af5a6932a62f93e9fbb825745166b4b7ad6a5f9837d4caabfaf2866a27592fd",
+            "finishedAt": "2026-09-23T19:48:15.5413765Z",
+            "generatorReview": [
+              "PASS for character-only scope: all scene, terrain and sky patches removed; four rotors readable in intact studies, three intact plus one damaged in DOWNED; isolated camera, ring, rotor and fractured display studies; dark lenses and matte planes retained.",
+              "Latest user subsequently requested removal of inherited palette swatches; narrow edit follows."
+            ]
+          },
+          {
+            "attempt": 7,
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "backendModel": null,
+            "status": "selected-generator-PASS",
+            "prompt": "Use case: precise-object-edit. Image 1 is the sole edit target, a finished character-only drone reference sheet.\nMake ONE local change: remove the FIVE PAINT COLOUR SWATCHES arranged vertically along the lower-left margin, to the left of the \"Rotor guard\" study. Replace those five patches with matching quiet matte warm-ivory background. Leave that margin empty. Do not add any palette strip, colour chip, bar, sample or text anywhere else.\nPreserve absolutely everything else: the exact character name and story title, all three whole-drone studies, exactly four rotor assemblies per whole view (three intact plus one damaged in DOWNED), all cameras and underside rings, intact display frames, cracked readable UPLOAD QUEUED screens, labels, rotor guard detail, spacing and 1536x1024 3:2 framing. Keep the broad matte gray-violet oil painting, restrained soft study light and quiet ivory ground. No relighting, sharpening, gloss or redesigned shapes.\nThe sheet must remain CHARACTER-ONLY: no location, scenery, terrain, floor, sky, vignette or environmental props. Return the complete sheet with only the five colour swatches removed.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-36131aec-ed7a-4c75-a3e5-8a2651804728.png",
+                "sha256": "5af5a6932a62f93e9fbb825745166b4b7ad6a5f9837d4caabfaf2866a27592fd",
+                "role": "Sole edit target: inspected character-only drone folio; remove only five palette swatches while preserving every subject study and label.",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-23T19:48:14.667Z",
+            "reason": "Latest user direction removes paint swatches/palette strips from all previews. Narrow local removal from passing character-only candidate.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ac15b650-940e-4847-a6ea-31350e897964.png",
+            "outputSha256": "f3cd7a5b482a8e16b15fa6c56ad3388e6aeb3fa94191abf8b78bbee29c375c64",
+            "finishedAt": "2026-09-23T19:52:37.955293+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "PASS: all palette swatches removed; no scene, sky, terrain or environmental props remain.",
+              "Three isolated whole-drone views preserve four guarded rotors each, with three intact and one damaged in DOWNED. Distinct main/reserve cameras and underside status bands retained.",
+              "Exact character name and story title, view/detail labels and fractured UPLOAD QUEUED remain readable. Rotor guard and screen close studies depict existing exterior components only.",
+              "Broad matte gray-violet/charcoal planes, dark lenses, connected shadows and restrained soft study light retained; no cinematic rim, neon bloom or glossy CGI."
+            ]
+          },
+          {
+            "attempt": 8,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: text-localization. Image 1 is the sole target, a completed character-only oil-painted drone reference sheet. Make ONE precise text change: replace the upper-left character heading 'South-market incapacitation unit' with the exact single name 'Morrowick'. This is the user-authorized art name; do not add a serial number. Preserve the story title 'The City Keeps Score' and ALL other pixels/content as faithfully as possible: all four rotors in both intact views, DOWNED with three intact and one broken rotor, distinct main/reserve cameras, underside ring, fractured readable UPLOAD QUEUED, all detail studies/labels, quiet ivory ground, no palette swatches, no scenery. Preserve matte gray-violet oil masses and restrained soft study light. No redraw, re-lighting, gloss, texture change, added motifs or new text. Return complete 1536x1024 3:2 sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ac15b650-940e-4847-a6ea-31350e897964.png",
+                "role": "Inspected selected character-only drone; exact heading change only.",
+                "sha256": "f3cd7a5b482a8e16b15fa6c56ad3388e6aeb3fa94191abf8b78bbee29c375c64",
+                "inspected": true
+              }
+            ],
+            "reason": "User authorizes named art identity Morrowick for the source's unnamed south-market unit.",
+            "startedAt": "2026-09-23T21:10:24.498210+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-86f5740e-a84a-4b5f-8dc0-b063d043ab99.png",
+            "outputSha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-23T21:22:00.187419+00:00",
+            "generatorReview": [
+              "Inspected full saved pixels: exact Morrowick heading and The City Keeps Score title; four intact rotors in both whole views, downed three intact plus one broken; dark main/reserve cameras and underside band preserved.",
+              "Cracked readable UPLOAD QUEUED, useful external details, unclipped isolated forms, matte broad oil planes and no setting/ground/swatches. User-assigned name does not introduce a serial or claim source naming."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ac15b650-940e-4847-a6ea-31350e897964.png",
+            "role": "Inspected selected character-only drone; exact heading change only.",
+            "sha256": "f3cd7a5b482a8e16b15fa6c56ad3388e6aeb3fa94191abf8b78bbee29c375c64",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 5
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T21:22:00.192258+00:00",
+        "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+        "outputSha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-5d81-7ae1-b906-4feb1a6ec7ab/exec-ac15b650-940e-4847-a6ea-31350e897964.png",
+            "role": "Inspected selected character-only drone; exact heading change only.",
+            "sha256": "f3cd7a5b482a8e16b15fa6c56ad3388e6aeb3fa94191abf8b78bbee29c375c64",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Inspected full saved pixels: exact Morrowick heading and The City Keeps Score title; four intact rotors in both whole views, downed three intact plus one broken; dark main/reserve cameras and underside band preserved.",
+          "Cracked readable UPLOAD QUEUED, useful external details, unclipped isolated forms, matte broad oil planes and no setting/ground/swatches. User-assigned name does not introduce a serial or claim source naming."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "6d950698bfa9fb46ef8e0d2bf92c323f7fa9e7434773005240237484872b0e1b"
+      },
+      "recurrence": {
+        "identityKey": "drone-down:south-market-incapacitation-unit",
+        "links": [],
+        "evidence": "No cross-story identity established; matching names alone are insufficient."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+          "role": "Approved Sculpted Impasto rendering and landscape sheet presentation only; its human subject, cloak and equipment are not templates.",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "notes": "Inspected actual pixels: interlocking raised knife slabs, expressive equally textured faces, scraped ivory ground, restrained detail, varied warm light/cool shadow masses."
+        },
+        {
+          "path": "stories/drone-down/title-image.jpg",
+          "role": "Drone exterior identity, subordinate to prose; not rendering style.",
+          "sha256": "51e8934a496e262a34be9b80c7a7379b9b09f4471359334432228b910df8710e",
+          "inspected": true,
+          "notes": "Viewed actual pixels: dark low broad central shell, four circular guarded rotor assemblies, black underside camera, blue ring. Do not inherit photographic/glossy finish or assume ground-projected circle is a mechanism."
+        },
+        {
+          "path": "stories/drone-down/art/landscapes/01-rain-on-the-bread-street.png",
+          "role": "Story palette and painted street environment.",
+          "sha256": "965bb6b49be12bb71cf95e72beca6f8d23d2ef53339dbfd10c4cd2aa3a3bf295",
+          "inspected": true,
+          "notes": "Viewed actual pixels: heavy gray-blue pavement strokes, warm cream wet reflections, muted brown buildings and olive awnings. Prose infrastructure controls scene geometry."
+        }
+      ],
+      "outputSha256": "ae3f3cfc1e88657457bb453f3bfa3f907fea0527cbf2039b71e6d3753163ee91",
+      "userFeedback": [
+        {
+          "recordedAt": "2026-09-23T14:38:45.228462-04:00",
+          "verbatim": "ok these surfer from your generic AI drift; they don't fell like the are part of the same collection; the art style should feel like the Canadian group of seven painters. even though they are done in the oil style; try again, before i approve the full run.",
+          "lightingClarification": "its your use of lighting too is important as the other points.",
+          "priorOutputSha256": "0849b12ea854640efbe7c22117b2c7187bb12e76c379f08bab2bfd46b3109936",
+          "result": "REVISE: collection style and lighting rejected by user; earlier assistant PASS superseded."
+        }
+      ],
+      "sourceIdentityId": "south-market-incapacitation-unit",
+      "nameAssignment": {
+        "name": "Morrowick",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "recordedAt": "2026-09-23T20:51:09.742239+00:00",
+        "sourceRole": "South-market incapacitation unit",
+        "scope": "Character art and art metadata. Source prose, canon marker and universe remain unchanged.",
+        "nameCheck": "Distinct full name checked against universe, frozen NAMES memory and current/bundle finished prose/review inventories. No recurrence inferred from surname."
+      },
+      "identityResolution": {
+        "status": "resolved-and-named",
+        "displayName": "Morrowick",
+        "sourceIdentity": "south-market-incapacitation-unit",
+        "authorization": "Latest explicit user instruction to give missing-name characters names."
+      }
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "c1bef052a3e007584553e50a57d9905d03a2ddb09138bfc178de5af61fc7adcd",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null,
+  "productionStatus": "completed",
+  "completionSummary": "All four selected main-cast sheets generated, visually inspected and source/specification/reference/output pins verified."
+}

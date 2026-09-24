@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "slug": "life-with-a-girlfriend-with-shrinking-powers",
+  "title": "Life with a Girlfriend with Shrinking Powers",
+  "source": "stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Miles and Luz alone sustain the viewpoint, relationship and domestic crisis.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Downstairs residents and emergency maintenance",
+      "reason": "Offstage practical contacts, no developed characters."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Miles Arden",
+    "universe/characters.md#Luz Navarro",
+    "universe/rules.md#Luz Navarro's bounded shrinking ability",
+    "universe/rules.md#Miles and Luz's local shrinking-work practice",
+    "universe/locations.md#Miles and Luz's unnamed apartment"
+  ],
+  "referenceConflicts": [
+    {
+      "reference": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
+      "finding": "Daylit room painting does not match evening emergency after kitchen power is cut.",
+      "resolution": "Inspected but not used for emergency light; use source flashlight darkness, no sun-filled crisis."
+    }
+  ],
+  "characters": [
+    {
+      "id": "miles-arden",
+      "name": "Miles Arden",
+      "role": "Viewpoint partner whose fear must become requested practical coordination.",
+      "selectionEvidence": [
+        {
+          "quote": "At twenty-nine, Miles Arden",
+          "explanation": "Explicit source character/appearance/action evidence."
+        },
+        {
+          "quote": "Miles did not touch, lift, enclose, or carry her without a direct request.",
+          "explanation": "Explicit source character/appearance/action evidence."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Adult human man",
+        "lifeStage": "Twenty-nine, LOCKED.",
+        "proportions": "Natural adult proportions preserved.",
+        "markings": "Scraped knuckles and temporary wet trousers during crisis.",
+        "materials": "Human skin/hair, ordinary work cloth and tools.",
+        "clothing": "Ordinary casual apartment clothes, design interpreted.",
+        "equipment": "Ordinary battery radio, flashlight, utility cord, warning sheet and independent timers.",
+        "scale": "Ordinary adult height; no size power.",
+        "movement": "Checks, holds flashlight and pulls cord only on requested signals.",
+        "distinctiveFeatures": "Adult partner, no control over Luz's body or power."
+      },
+      "explicitCanon": [
+        "Twenty-nine, Luz's cohabiting partner of four years.",
+        "Full-sized and cannot trigger, stop or prolong Luz's ability.",
+        "Offers still open hand as option; supplies steady pull after her two tugs.",
+        "Radio/timers/cord are passive ordinary tools; no magical control."
+      ],
+      "visualInterpretation": [
+        "Warm fair/tan skin, wide rectangular face, short dark brown wavy hair, subtle stubble, brown eyes, approximately 179 cm visual choice.",
+        "Muted burnt-orange long-sleeve cotton shirt with sleeves pushed up, dark blue jeans, socks and ordinary soft-soled shoes.",
+        "Morning daylight main form; second crisis form and head study much darker with narrow flashlight illumination."
+      ],
+      "states": [
+        {
+          "name": "Morning check",
+          "description": "Dry casual clothes, radio and procedure sheet."
+        },
+        {
+          "name": "Evening response",
+          "description": "Wet trouser knees, flashlight/cord, low ready stance and open free hand."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "life-with-a-girlfriend-with-shrinking-powers:miles-arden",
+        "links": [],
+        "evidence": "Named LOCKED universe character, no other story recurrence located."
+      },
+      "references": [
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/title-image.jpg",
+          "role": "compatible ordinary adult hand/cord and towel evidence only",
+          "notes": "No faces; cover does not establish character appearance. Open offered hand is not a grip.",
+          "inspected": true,
+          "sha256": "bb4e6ec04ac971a74ea6641694d62fa0245933bf39f5907d3ded65e5a446e6d7"
+        },
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/01-kitchen-work-zone.png",
+          "role": "Saturday morning soft warm daylight and broad oil material handling only",
+          "notes": "No kitchen/floor/appliances transferred.",
+          "inspected": true,
+          "sha256": "d95ddccfd53dd2bea85724144a086834be5918086879727dd6211a7708d3e31c"
+        },
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/03-after-the-water-stops.png",
+          "role": "evening warm electric light and blue-brown shadows only",
+          "notes": "No furniture or scenery transferred.",
+          "inspected": true,
+          "sha256": "50654d09e5456001de74299b2968b6e64ebeab66e5be75805241d113bc341afa"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved oil character-folio style only",
+          "notes": "Not identity; no green face spots or hair pencil.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/life-with-a-girlfriend-with-shrinking-powers/art/characters/miles-arden.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Targeted edit to this Miles Arden character sheet: change ONLY the two lower-right equipment studies. Replace the broadcast AM/FM radio with a SMALL HANDHELD TWO-WAY WALKIE-TALKIE, identical to the upright black radio in Miles's hand: narrow body, short antenna, small speaker grille, push-to-talk side button, no tuning dial, no AM/FM frequency scale. Keep existing label \"Small radio\". Replace the electrical extension cable entirely with a loosely coiled ORANGE BRAIDED FIBER UTILITY ROPE, approximately pencil-thick, fuzzy matte woven fibers, TWO PLAIN CUT ENDS, NO electrical plugs, prongs, sockets, plastic connectors or cable sheath. Keep existing label \"Utility cord\". The rope carries hand tugs and pulls a stuck valve mechanically; it is not electrical. Preserve EVERYTHING ELSE exactly: Miles's adult face/body/hair, two full forms and head studies, morning vs deep evening flashlight darkness, hands, clothes, flashlight, typography, exact name/title and all labels, background ivory, composition, 1536x1024 landscape. Same broad matte Canadian Group of Seven-inspired oils on both replacement props. No scenery, swatches or other people.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T02:40:32.671540+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Miles Arden\". Subtitle exactly \"Life with a Girlfriend with Shrinking Powers\", neatly wrapped on two lines at upper left. One human MAN exactly29, warm fair/tan skin, wide rectangular face, short dark brown WAVY hair, subtle stubble, brown eyes, sturdy ordinary adult build. He is a contemporary apartment resident, no fantasy costume or powers. Muted burnt-orange long-sleeve cotton shirt with sleeves pushed up, dark blue jeans, ordinary soft-soled dark shoes. Left complete upright body labelled \"Morning check\": holds small ordinary battery RADIO and plain protocol sheet, quietly attentive, dry clothes, soft Saturday MORNING daylight like input2. Center complete body in low crouched ready stance labelled \"Evening response\": exact same identity/clothes, WET trouser knees, one hand holds a switched-on flashlight and nearby free hand OPEN uncurled; flashlight angled downward outside view, no visible beam cloud. No second person and no hand holding someone. This center form must be MUCH DARKER than morning: KITCHEN POWER OFF, grey rainy evening, only narrow dull warm flashlight bounce on one hand/cheek, 70 percent of face and clothes in connected deep blue-brown shadow, NO daylight or rim light. Right upper matched broad painted head studies \"Checking\" in morning and \"Afraid\" in the same deep flashlight darkness. Small radio and coiled utility cord isolated lower right. No kitchen, cabinet, pipe, towels, floor, ground patch, scenery or furniture. All tools passive ordinary objects, absolutely no power emanating from radio/hand/cord. Correct adult anatomy, full shoes visible, exact names, broad opaque connected oil masses on face, fewer small separate paint chips, subdued motivated light.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio format only; no identity borrowing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/01-kitchen-work-zone.png",
+                "role": "morning daylight palette and broad oil material handling only, not emergency light",
+                "sha256": "d95ddccfd53dd2bea85724144a086834be5918086879727dd6211a7708d3e31c",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0dc73b69-ace6-4610-beb5-fce0f0533b9f.png",
+            "reviewFindings": [
+              "Bottom radio incorrectly became broadcast receiver; must be two-way handheld radio as in figure. Utility cord wrongly became electrical extension lead; source cord is fiber rope used for pulls/tugs."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:43:17.197898+00:00",
+            "prompt": "Targeted edit to this Miles Arden character sheet: change ONLY the two lower-right equipment studies. Replace the broadcast AM/FM radio with a SMALL HANDHELD TWO-WAY WALKIE-TALKIE, identical to the upright black radio in Miles's hand: narrow body, short antenna, small speaker grille, push-to-talk side button, no tuning dial, no AM/FM frequency scale. Keep existing label \"Small radio\". Replace the electrical extension cable entirely with a loosely coiled ORANGE BRAIDED FIBER UTILITY ROPE, approximately pencil-thick, fuzzy matte woven fibers, TWO PLAIN CUT ENDS, NO electrical plugs, prongs, sockets, plastic connectors or cable sheath. Keep existing label \"Utility cord\". The rope carries hand tugs and pulls a stuck valve mechanically; it is not electrical. Preserve EVERYTHING ELSE exactly: Miles's adult face/body/hair, two full forms and head studies, morning vs deep evening flashlight darkness, hands, clothes, flashlight, typography, exact name/title and all labels, background ivory, composition, 1536x1024 landscape. Same broad matte Canadian Group of Seven-inspired oils on both replacement props. No scenery, swatches or other people.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0dc73b69-ace6-4610-beb5-fce0f0533b9f.png",
+                "role": "edit target: preserve Miles identity, figures, lighting and all text; correct only two lower-right equipment studies",
+                "sha256": "2280d3d13a60b183669276c87eed5957105fd37412a3c4541b24af5b0e4dcf17",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-4ce7d8f6-4028-4fcc-9dd7-9c4ed13f0bad.png",
+            "outputSha256": "8602ea7da871f7e6cbfee0fd0efb485e47e9a971788e3105a83473ce560c528f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:44:50.694081+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0dc73b69-ace6-4610-beb5-fce0f0533b9f.png",
+            "role": "edit target: preserve Miles identity, figures, lighting and all text; correct only two lower-right equipment studies",
+            "sha256": "2280d3d13a60b183669276c87eed5957105fd37412a3c4541b24af5b0e4dcf17",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:44:50.694081+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "8602ea7da871f7e6cbfee0fd0efb485e47e9a971788e3105a83473ce560c528f",
+        "sourceSha256": "2dd9ad8ba3d5813d4c9de27b24dd56ea690e84b442417fbd1b0416ba28255cf5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0dc73b69-ace6-4610-beb5-fce0f0533b9f.png",
+            "role": "edit target: preserve Miles identity, figures, lighting and all text; correct only two lower-right equipment studies",
+            "sha256": "2280d3d13a60b183669276c87eed5957105fd37412a3c4541b24af5b0e4dcf17",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels inspected: same adult rectangular face, hair, stubble and natural proportions across upright/crouched forms and matched portraits; complete unclipped anatomy.",
+          "Morning daylight distinct from deep dim emergency body/head, flashlight present, wet trouser knees and intact ordinary skin; no second person or power control.",
+          "Corrected lower equipment now plain two-way handheld radio and braided fiber cord with cut ends, no electrical plugs. Exact name/full story title, matte directional oil faces/clothes, warm ivory with no scenery or swatches."
+        ],
+        "specificationSha256": "3b400975d7d672647859d8a73fe4e4669aed2e21815438e1604cdf9953c1e788"
+      },
+      "nameProvenance": {
+        "type": "source-and-LOCKED-universe",
+        "name": "Miles Arden"
+      },
+      "lighting": "Morning body in soft Saturday daylight; crisis body/head in dark evening after kitchen breaker is cut, only narrow flashlight bounce.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "8602ea7da871f7e6cbfee0fd0efb485e47e9a971788e3105a83473ce560c528f"
+    },
+    {
+      "id": "luz-navarro",
+      "name": "Luz Navarro",
+      "role": "Autonomous shrinking protagonist and Miles's partner; decides routes and directs valve effort.",
+      "selectionEvidence": [
+        {
+          "quote": "Luz, twenty-eight",
+          "explanation": "Explicit source character/appearance/action evidence."
+        },
+        {
+          "quote": "ordinary hundred and sixty-eight centimetres",
+          "explanation": "Explicit source character/appearance/action evidence."
+        },
+        {
+          "quote": "At twelve centimetres, her voice kept its familiar adult pitch",
+          "explanation": "Explicit source character/appearance/action evidence."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult human woman",
+        "lifeStage": "Twenty-eight, LOCKED.",
+        "proportions": "Natural adult proportions preserved.",
+        "markings": "Temporary tremor and cold; no permanent marks specified.",
+        "materials": "Human skin/hair, ordinary work cloth and tools.",
+        "clothing": "Fitted work clothes change with her; exact design interpreted.",
+        "equipment": "Small ordinary radio snug under sleeve and screwdriver kept against skin scale with her; later picked-up utility cord remains full size.",
+        "scale": "168 cm ordinary height; observed chosen 15 cm morning and 12 cm evening/minimum.",
+        "movement": "Deliberate breathing and climbing; tremor/cold after cycle.",
+        "distinctiveFeatures": "Same adult at every size, fitted clothes and skin-held tools can scale."
+      },
+      "explicitCanon": [
+        "Twenty-eight, 168 cm ordinary height, 12 cm practiced minimum, 15 cm observed morning size.",
+        "Same adult identity, voice pitch, age and agency at all sizes.",
+        "Only she starts/directs change; chosen early return uses breaths, hard maximum automatic return 24 minutes.",
+        "Fitted work clothes change with her; radio/screwdriver carried against skin can scale within bounded carry weight.",
+        "No wings, child proportions, fairy glow or clothing loss."
+      ],
+      "visualInterpretation": [
+        "Warm medium olive skin, soft rectangular face, straight black hair neatly tied in short low ponytail, dark brown eyes, lean sturdy adult build.",
+        "Fitted but nonsexual ink-blue cotton work coverall with long sleeves, simple dark work boots; no cleavage/exposed midriff.",
+        "Morning daylight full form; evening recovery head wrapped in wool blanket with subdued warm light. Small-size study enlarged and clearly labelled."
+      ],
+      "states": [
+        {
+          "name": "Ordinary height — 168 cm",
+          "description": "Complete adult form and fitted work clothes."
+        },
+        {
+          "name": "12 cm — enlarged detail",
+          "description": "Exact same adult anatomy/clothing, small sleeve radio and screwdriver; no other person."
+        },
+        {
+          "name": "Recovery",
+          "description": "Same adult face, blanket around shoulders, cold/tired but alert."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "life-with-a-girlfriend-with-shrinking-powers:luz-navarro",
+        "links": [],
+        "evidence": "Named LOCKED universe character, no other story recurrence located."
+      },
+      "references": [
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/title-image.jpg",
+          "role": "compatible ordinary adult hand/cord and towel evidence only",
+          "notes": "No faces; cover does not establish character appearance. Open offered hand is not a grip.",
+          "inspected": true,
+          "sha256": "bb4e6ec04ac971a74ea6641694d62fa0245933bf39f5907d3ded65e5a446e6d7"
+        },
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/01-kitchen-work-zone.png",
+          "role": "Saturday morning soft warm daylight and broad oil material handling only",
+          "notes": "No kitchen/floor/appliances transferred.",
+          "inspected": true,
+          "sha256": "d95ddccfd53dd2bea85724144a086834be5918086879727dd6211a7708d3e31c"
+        },
+        {
+          "path": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/03-after-the-water-stops.png",
+          "role": "evening warm electric light and blue-brown shadows only",
+          "notes": "No furniture or scenery transferred.",
+          "inspected": true,
+          "sha256": "50654d09e5456001de74299b2968b6e64ebeab66e5be75805241d113bc341afa"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved oil character-folio style only",
+          "notes": "Not identity; no green face spots or hair pencil.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/life-with-a-girlfriend-with-shrinking-powers/art/characters/luz-navarro.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Narrow edit to this Luz Navarro character sheet. Change ONLY the lower-right \"Recovery\" head-and-blanket portrait: remove the entire yellow-gray backdrop patch behind the head and replace with the SAME uniform warm ivory as the sheet. No painted room or light halo behind any figure. Darken the recovery portrait itself by about TWO STOPS: quiet indoor evening recovery light, small muted warm cheek/forehead plane, at least half the face/neck and blanket in BROAD CONNECTED dark blue-brown/plum shadows, no rim light and no daylight exposure. Preserve precise adult face, expression, black damp hair, gray blanket, blue collar and portrait position. Paint face as broad opaque connected oils, no microchip mosaic or photographic smoothing. EVERYTHING ELSE unchanged: two complete adult bodies and size labels, upper \"Choosing\" face, exact names/title, all equipment and labels, layout and 1536x1024 warm ivory format. She remains the identical 28-year-old adult at all sizes. No environment, floor, swatches or other people.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T02:44:51.724989+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Luz Navarro\". Subtitle exactly \"Life with a Girlfriend with Shrinking Powers\", neatly wrapped on two lines beneath name. One human WOMAN exactly28, warm MEDIUM OLIVE skin, soft rectangular face, straight BLACK hair in a neat short LOW ponytail, dark brown eyes, lean sturdy ordinary ADULT proportions. Clearly not the reference woman's face/bun. Fully clothed functional INK-BLUE cotton work coverall, fitted for work with long sleeves and full trousers, zipper closed, simple dark work boots, no sexualized body emphasis. Her clothes change scale with her.\nLEFT complete upright frontthreequarter form labelled \"Ordinary height — 168 cm\": poised feet planted, neutral relaxed adult hands. CENTER complete side/rear threequarter form of precisely the SAME ADULT WOMAN labelled \"12 cm — enlarged detail\": this is an enlarged drawing of her small state, not a child; exactly same adult head/body proportions, hair and clothes. One forearm raised to show tiny ordinary walkie-talkie held snug under sleeve, one hand loosely holds a slender screwdriver. No wand, magical aura or glowing tool. Both bodies physically complete and unclipped. Do not add a giant hand, other people, fairy wings, toy proportions or doll presentation.\nRight upper adult head study \"Choosing\" in soft morning daylight; below same adult head/shoulders labelled \"Recovery\", dark blue coverall partly covered by gray wool blanket, damp hair and tired alert face, dim warm evening lamplight with broad connected dark blue-brown shadows, no uniform bright daytime exposure. Right lower enlarged sleeve-radio detail and ordinary short screwdriver with clear labels. These tools only scale when carried against skin during her own change, never cause power. Hands anatomical, natural adult faces at every scale. Input2 morning palette only, input3 recovery lamp palette only. Opaque connected oil planes on face, restrained highlights, varied broad bristle strokes; no kitchen, mat, floor, ground patches, scenery or swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; must not donate identity or clothing",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/01-kitchen-work-zone.png",
+                "role": "morning daylight palette/paint only",
+                "sha256": "d95ddccfd53dd2bea85724144a086834be5918086879727dd6211a7708d3e31c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/03-after-the-water-stops.png",
+                "role": "subdued evening recovery warm light and blue-brown shadow only",
+                "sha256": "50654d09e5456001de74299b2968b6e64ebeab66e5be75805241d113bc341afa",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-2ad9410c-2e0b-48a2-b992-3e6f438f8142.png",
+            "reviewFindings": [
+              "Recovery head carries unsupported backdrop light patch and too much daylight exposure; preserve identity, remove patch and dim evening light."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:47:56.453843+00:00",
+            "prompt": "Narrow edit to this Luz Navarro character sheet. Change ONLY the lower-right \"Recovery\" head-and-blanket portrait: remove the entire yellow-gray backdrop patch behind the head and replace with the SAME uniform warm ivory as the sheet. No painted room or light halo behind any figure. Darken the recovery portrait itself by about TWO STOPS: quiet indoor evening recovery light, small muted warm cheek/forehead plane, at least half the face/neck and blanket in BROAD CONNECTED dark blue-brown/plum shadows, no rim light and no daylight exposure. Preserve precise adult face, expression, black damp hair, gray blanket, blue collar and portrait position. Paint face as broad opaque connected oils, no microchip mosaic or photographic smoothing. EVERYTHING ELSE unchanged: two complete adult bodies and size labels, upper \"Choosing\" face, exact names/title, all equipment and labels, layout and 1536x1024 warm ivory format. She remains the identical 28-year-old adult at all sizes. No environment, floor, swatches or other people.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-2ad9410c-2e0b-48a2-b992-3e6f438f8142.png",
+                "role": "edit target, preserve identity and entire sheet; recovery lighting and backdrop correction only",
+                "sha256": "bed7fa2e3707934e3921605afacbf200912be5833cbdf85ad8851a8766f2de49",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-dab4c35d-7d14-499c-bafb-8d0ca4685cea.png",
+            "outputSha256": "4622559c2d1ae9c49c7f9fab80de2f95efbc97a5440bffcef3ccfb25d050641a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:50:19.314363+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-2ad9410c-2e0b-48a2-b992-3e6f438f8142.png",
+            "role": "edit target, preserve identity and entire sheet; recovery lighting and backdrop correction only",
+            "sha256": "bed7fa2e3707934e3921605afacbf200912be5833cbdf85ad8851a8766f2de49",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:50:19.314363+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "4622559c2d1ae9c49c7f9fab80de2f95efbc97a5440bffcef3ccfb25d050641a",
+        "sourceSha256": "2dd9ad8ba3d5813d4c9de27b24dd56ea690e84b442417fbd1b0416ba28255cf5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-2ad9410c-2e0b-48a2-b992-3e6f438f8142.png",
+            "role": "edit target, preserve identity and entire sheet; recovery lighting and backdrop correction only",
+            "sha256": "bed7fa2e3707934e3921605afacbf200912be5833cbdf85ad8851a8766f2de49",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Corrected actual pixels inspected: identical adult 28-year-old identity, adult head/body proportions and ink-blue coverall across ordinary and enlarged small-size views; 168 cm and 12 cm enlarged-detail labels are explicit, full forms unclipped.",
+          "Sleeve radio and screwdriver are ordinary equipment; no control device, glow, fairy features, child/doll proportions, clothing loss or additional person. Recovery shows same tired adult face with gray blanket.",
+          "Recovery portrait now dark connected evening shadows with no backdrop patch; morning views stay softly daylit. Exact name/full title, broad matte directional oils, warm ivory only and no swatches."
+        ],
+        "specificationSha256": "b96b6c6bbe734725b3f61655e01c9c4ee0ea17566ffad1dca94d3b3686e4c29b"
+      },
+      "nameProvenance": {
+        "type": "source-and-LOCKED-universe",
+        "name": "Luz Navarro"
+      },
+      "lighting": "Soft Saturday daylight for complete forms; recovery portrait in dim warm evening light, broad connected dark shadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "4622559c2d1ae9c49c7f9fab80de2f95efbc97a5440bffcef3ccfb25d050641a"
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "sourceSha256": "2dd9ad8ba3d5813d4c9de27b24dd56ea690e84b442417fbd1b0416ba28255cf5"
+}

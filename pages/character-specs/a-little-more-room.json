@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-little-more-room",
+  "title": "A Little More Room",
+  "source": "stories/a-little-more-room/story.md",
+  "sourceSha256": "2c2442ca59d7d9f19dabbb17b8e4413aa5f42934e40a5cf124b894777cf7b372",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read all303lines of finished prose. Suzette and narrator Robin alone sustain the relationship and final dance; the noisy unseen upstairs neighbour and recorded singers never participate as substantial characters.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Upstairs neighbour",
+      "reason": "Unseen one-off ceiling noise only."
+    },
+    {
+      "name": "Recorded singers",
+      "reason": "Recorded music content, no independent story role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/premise.md",
+      "entries": [
+        "Shared universe boundaries"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Local mechanisms do not establish universal systems"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Searched Suzette/Robin; no matching entry. No shared identity inferred."
+      ]
+    },
+    {
+      "path": "stories/a-little-more-room/prompt.md",
+      "entries": [
+        "Cyborg description matches completed prose; no supplied image"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "suzette",
+      "name": "Suzette",
+      "role": "Cyborg neighbour whose invitation and stated wishes drive the central relationship.",
+      "selectionEvidence": [
+        {
+          "lines": "17-21",
+          "quote": "Her black hair swept outward in two sharp wings",
+          "explanation": "Introduced with explicit humanoid cyborg appearance and equipment."
+        },
+        {
+          "lines": "41",
+          "quote": "Suzette, who was twenty-eight",
+          "explanation": "Name and adult age explicit."
+        },
+        {
+          "lines": "265",
+          "quote": "I want you to dance badly with me.",
+          "explanation": "Her request resolves the main emotional action."
+        }
+      ],
+      "form": "Adult humanoid cyborg woman",
+      "storyAppearance": {
+        "anatomy": "Humanlike brown skin, silver seams before ears, mechanical joints beneath gloves, silver ankle articulations; large dark irises and emphatic lashes.",
+        "lifeStage": "28 years",
+        "proportions": "Adult woman, stylized large eyes, otherwise human proportions.",
+        "markings": "Persistent pink/red blush; fine silver seams before ears.",
+        "materials": "Brown skin over cyborg mechanism; polished silver joint edges beneath gloves/boots.",
+        "clothing": "First turquoise squared-shoulder mod minidress orange circles down one side, white cinch belt/gloves above elbow/near-knee boots. Later yellow dress black hem squares with black gloves and yellow belt; black-white rectangles with red belt/gloves; Saturday cherry-red mod dress narrow white collar-to-hem panel, red patent belt, white gloves/boots.",
+        "equipment": "Compact flashlight-size railgun in black molded holster at RIGHT hip, blue trigger-guard lock tab, dark charge window; stored before dancing.",
+        "scale": "Adult human",
+        "movement": "Gentle mechanical joint adjustments; independent offbeat dancing, awkward kick then recovery.",
+        "distinctiveFeatures": "Black winged bob, brown blushing cheeks, very large dark irises/lashes, ear seams."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Woman, cyborg, 28, brown skin, black hair in two wings, large dark irises/lashes.",
+        "Local non-canon story fact: Always blushes; it does not reliably disclose emotion.",
+        "Local non-canon story fact: Railgun clipped at right hip and secured with blue lock, charge dark; removed for dancing.",
+        "Local non-canon story fact: Fingers segmented beneath gloves; silver ankle articulations; four described mod outfit combinations."
+      ],
+      "visualInterpretation": [
+        "Cover compatible face, brown skin and black winged hair preserved with fully oil-painted rendering; cover gun placement corrected to source right hip.",
+        "First turquoise and Saturday red outfits shown as primary states; intermediate yellow and black-white outfits can be small bust studies.",
+        "Medium adult build, brown eyes nearly black, modest heel shape follow cover; source does not establish height or exact body measurements."
+      ],
+      "states": [
+        {
+          "name": "First visit",
+          "description": "Turquoise/orange dress, white belt/gloves/boots, railgun RIGHT hip."
+        },
+        {
+          "name": "Saturday dancing",
+          "description": "Cherry-red dress narrow white panel, red belt, white gloves/boots; weapon removed."
+        },
+        {
+          "name": "Intermediate visits",
+          "description": "Yellow/black-square hem with black gloves; black-white rectangle dress red belt/gloves."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-little-more-room:suzette",
+        "links": [],
+        "evidence": "No shared-authority identity match found; same names alone would not establish identity."
+      },
+      "naming": {
+        "sourceName": "Suzette",
+        "provenance": "Exact personal name in completed prose."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved collection oil rendering style only; no identity transfer",
+          "inspected": true,
+          "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+          "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+          "inspected": true,
+          "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+          "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+        },
+        {
+          "path": "stories/a-little-more-room/art/landscapes/04-saturday-dusk-rooftops.png",
+          "role": "Same-story broad connected brush handling and cool violet palette only; no geography",
+          "inspected": true,
+          "notes": "Connected sunset and slate roof colour masses, broad varied impasto; no depicted people.",
+          "sha256": "264fa5cfd2cc28c94e162c9c19e72d1e546a272823eba09dfcc32e651daf9cc5"
+        },
+        {
+          "path": "stories/a-little-more-room/title-image.jpg",
+          "role": "Compatible Suzette appearance only; right-hip equipment follows prose over cover",
+          "inspected": true,
+          "notes": "Brown cyborg woman, black winged bob, large dark eyes, red/white mod dress, gloves/boots; gun on apparent left conflicts with prose right hip.",
+          "sha256": "fc3071e177aabe55682daae86f974637841c8e1e32921c62b709eb71dbadc124"
+        }
+      ],
+      "output": "stories/a-little-more-room/art/characters/suzette.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one finished character reference sheet, 1536x1024 landscape 3:2, warm ivory folio. Character ONLY: no environment, scenery, floor or terrain patches, location vignette, swatches or decorative prose. Readable exact name upper left and story title beneath. 2-3 unclipped full views, selected head/state/gear studies, concise labels. Canadian Group of Seven inspired oil painting: broad connected colour and value masses, directional bristle strokes, selective substantial sculpted impasto, quiet connecting passages. Faces, hair and materials painted as decisively as clothing. No uniformly bevel-lit chips, glossy CGI eyes, anime linework, smooth digital faces or rimlighting. The character's exaggerated source features can remain without anime rendering. Select warm lamplight softened by cool evening fill; no light source or scene drawn. References: Kelro sheet is STYLE ONLY; same-story paintings paint handling/light ONLY, exclude their geography. Source cover supplies Suzette identity ONLY where compatible. SUBJECT Suzette, title A Little More Room. Same brown-skinned adult 28 cyborg woman as cover, black bob with TWO swept-out wings, dark huge irises and emphatic lashes; persistent rose blush and fine silver seams in front of ears. Preserve her stylized eye anatomy but PAINT in broad oil masses. Three large forms: First visit front wearing short turquoise square-shoulder dress with orange circles down ONE side, white cinch belt, white above-elbow gloves and white near-knee go-go boots; compact dark railgun in fitted holster on her anatomical RIGHT hip (viewer LEFT in front), blue lock tab across trigger guard and dark charge window. Second Dancing three-quarter in cherry-red short mod dress with NARROW white stripe collar-to-hem, red patent cinch belt, white long gloves/boots; NO railgun or holster in this dancing state. Third Rear of SAME red outfit no weapon, same body/hair/proportions. Her dark skin and blush consistent all views. Small head studies Listening and Laughing. Small silver ear seam and gloved segmented-finger study; mechanical only at supported seams, don't expose whole robotic arm. Optionally two small shoulder portraits in lemonyellow outfit black gloves and blackwhite rectangle outfit red gloves labelled Other visits. Compact railgun gear study labelled Locked. Hands five fingers; no seductive posing, no firing, no weapon at left hip. No other people.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved collection oil rendering style only; no identity transfer",
+            "inspected": true,
+            "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+            "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+            "inspected": true,
+            "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+            "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+          },
+          {
+            "path": "stories/a-little-more-room/title-image.jpg",
+            "role": "Suzette identity compatible portions only; correct hip per prose",
+            "inspected": true,
+            "sha256": "fc3071e177aabe55682daae86f974637841c8e1e32921c62b709eb71dbadc124"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create one finished character reference sheet, 1536x1024 landscape 3:2, warm ivory folio. Character ONLY: no environment, scenery, floor or terrain patches, location vignette, swatches or decorative prose. Readable exact name upper left and story title beneath. 2-3 unclipped full views, selected head/state/gear studies, concise labels. Canadian Group of Seven inspired oil painting: broad connected colour and value masses, directional bristle strokes, selective substantial sculpted impasto, quiet connecting passages. Faces, hair and materials painted as decisively as clothing. No uniformly bevel-lit chips, glossy CGI eyes, anime linework, smooth digital faces or rimlighting. The character's exaggerated source features can remain without anime rendering. Select warm lamplight softened by cool evening fill; no light source or scene drawn. References: Kelro sheet is STYLE ONLY; same-story paintings paint handling/light ONLY, exclude their geography. Source cover supplies Suzette identity ONLY where compatible. SUBJECT Suzette, title A Little More Room. Same brown-skinned adult 28 cyborg woman as cover, black bob with TWO swept-out wings, dark huge irises and emphatic lashes; persistent rose blush and fine silver seams in front of ears. Preserve her stylized eye anatomy but PAINT in broad oil masses. Three large forms: First visit front wearing short turquoise square-shoulder dress with orange circles down ONE side, white cinch belt, white above-elbow gloves and white near-knee go-go boots; compact dark railgun in fitted holster on her anatomical RIGHT hip (viewer LEFT in front), blue lock tab across trigger guard and dark charge window. Second Dancing three-quarter in cherry-red short mod dress with NARROW white stripe collar-to-hem, red patent cinch belt, white long gloves/boots; NO railgun or holster in this dancing state. Third Rear of SAME red outfit no weapon, same body/hair/proportions. Her dark skin and blush consistent all views. Small head studies Listening and Laughing. Small silver ear seam and gloved segmented-finger study; mechanical only at supported seams, don't expose whole robotic arm. Optionally two small shoulder portraits in lemonyellow outfit black gloves and blackwhite rectangle outfit red gloves labelled Other visits. Compact railgun gear study labelled Locked. Hands five fingers; no seductive posing, no firing, no weapon at left hip. No other people.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved collection oil rendering style only; no identity transfer",
+                "inspected": true,
+                "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+                "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+                "inspected": true,
+                "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+                "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+              },
+              {
+                "path": "stories/a-little-more-room/title-image.jpg",
+                "role": "Suzette identity compatible portions only; correct hip per prose",
+                "inspected": true,
+                "sha256": "fc3071e177aabe55682daae86f974637841c8e1e32921c62b709eb71dbadc124"
+              }
+            ],
+            "startedAt": "2026-09-23T21:48:47.684953+00:00",
+            "preflight": "Full source and selected reference pixels checked. Source-specific anatomy/wardrobe/light, names and no-scenes format resolved before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-ce3d0288-490d-41a2-88dd-e40efc43d19c.png",
+            "candidateSha256": "187b58b576eb9864999d5dadb30870d70e0ac04c796535c1ee3ec14742dd7db4",
+            "completedAt": "2026-09-23T21:51:26.167198+00:00",
+            "visualInspection": [
+              "Same brown-skinned adult cyborg, black winged bob, dark enlarged irises, persistent blush and silver ear seams maintained across poses/heads.",
+              "Turquoise outfit railgun is at anatomical right hip; dancing/red rear states omit weapon. Blue lock and dark charge window retained.",
+              "Red/white main outfit and yellow/black-white intermediate busts match described clothes; gloves and near-knee boots preserved.",
+              "Unclipped three full views, legible heading/title, detail studies; no scenes or swatches. Broad oil masses and selective texture retained across face/clothing."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "2c2442ca59d7d9f19dabbb17b8e4413aa5f42934e40a5cf124b894777cf7b372",
+        "outputSha256": "187b58b576eb9864999d5dadb30870d70e0ac04c796535c1ee3ec14742dd7db4",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved collection oil rendering style only; no identity transfer",
+            "inspected": true,
+            "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+            "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+            "inspected": true,
+            "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+            "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+          },
+          {
+            "path": "stories/a-little-more-room/title-image.jpg",
+            "role": "Suzette identity compatible portions only; correct hip per prose",
+            "inspected": true,
+            "sha256": "fc3071e177aabe55682daae86f974637841c8e1e32921c62b709eb71dbadc124"
+          }
+        ],
+        "evidence": [
+          "Same brown-skinned adult cyborg, black winged bob, dark enlarged irises, persistent blush and silver ear seams maintained across poses/heads.",
+          "Turquoise outfit railgun is at anatomical right hip; dancing/red rear states omit weapon. Blue lock and dark charge window retained.",
+          "Red/white main outfit and yellow/black-white intermediate busts match described clothes; gloves and near-knee boots preserved.",
+          "Unclipped three full views, legible heading/title, detail studies; no scenes or swatches. Broad oil masses and selective texture retained across face/clothing."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "e25708e5666e80c0007e1cb41b3cedc0e93cbdb18aa9a2b8cfd3490fd2d89f22"
+      },
+      "outputSha256": "187b58b576eb9864999d5dadb30870d70e0ac04c796535c1ee3ec14742dd7db4"
+    },
+    {
+      "id": "robin",
+      "name": "Robin",
+      "role": "Thirty-year-old first-person narrator whose fearful record handling yields to joining Suzette's dance.",
+      "selectionEvidence": [
+        {
+          "lines": "41",
+          "quote": "two years younger than I was",
+          "explanation": "Narrator age30 relative to28-year-old Suzette."
+        },
+        {
+          "lines": "231",
+          "quote": "\"Robin,\" she said",
+          "explanation": "Narrator's exact source name."
+        },
+        {
+          "lines": "269",
+          "quote": "This left me in gray socks",
+          "explanation": "Distinct supported dance state."
+        },
+        {
+          "lines": "303",
+          "quote": "my hand found her gloved one",
+          "explanation": "Participates in resolved central relationship."
+        }
+      ],
+      "form": "Adult human; gender not stated",
+      "storyAppearance": {
+        "anatomy": "Humanlike narrator, no nonhuman anatomical feature stated; fine wrist hairs.",
+        "lifeStage": "30 years",
+        "proportions": "Unspecified; interpreted average lean adult.",
+        "markings": "None specified.",
+        "materials": "Human skin, ordinary contemporary cloth clothing.",
+        "clothing": "Shoes removed to reveal gray socks; remaining clothes unspecified.",
+        "equipment": "Milk crate of records, furniture felt pads, record sleeves.",
+        "scale": "Adult human",
+        "movement": "Nervous sorting hands, awkward offbeat dancing, one shoulder jumps to handclaps.",
+        "distinctiveFeatures": "Record handling as defensive habit; unguarded dance posture later."
+      },
+      "explicitCanon": [
+        "Local non-canon story fact: Narrator called Robin, age30.",
+        "Local non-canon story fact: Brings milk crate of records and felt pads; removes shoes and dances in gray socks.",
+        "Local non-canon story fact: No explicit gender, skin tone, hair, facial anatomy or clothing except gray socks and shoes."
+      ],
+      "visualInterpretation": [
+        "Depict as androgynous adult with medium warm-brown skin, short loose dark curls, soft oval face and average lean frame; no gender asserted as source fact.",
+        "Muted mustard knit pullover, navy trousers and brown low shoes are art-only everyday wardrobe.",
+        "No existing visual identity: source cover depicts Suzette only and is not a Robin face/body reference."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Shoes, crate of records and packet of felt pads."
+        },
+        {
+          "name": "Dancing",
+          "description": "Shoes removed, gray socks, relaxed awkward arms."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-little-more-room:robin",
+        "links": [],
+        "evidence": "No shared-authority identity match found; same names alone would not establish identity."
+      },
+      "naming": {
+        "sourceName": "Robin",
+        "provenance": "Exact personal name in completed prose."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Approved collection oil rendering style only; no identity transfer",
+          "inspected": true,
+          "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+          "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+          "inspected": true,
+          "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+          "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+        },
+        {
+          "path": "stories/a-little-more-room/art/landscapes/04-saturday-dusk-rooftops.png",
+          "role": "Same-story broad connected brush handling and cool violet palette only; no geography",
+          "inspected": true,
+          "notes": "Connected sunset and slate roof colour masses, broad varied impasto; no depicted people.",
+          "sha256": "264fa5cfd2cc28c94e162c9c19e72d1e546a272823eba09dfcc32e651daf9cc5"
+        },
+        {
+          "path": "stories/a-little-more-room/title-image.jpg",
+          "role": "Cover inspected; depicts Suzette only, not Robin identity",
+          "inspected": true,
+          "notes": "Brown cyborg woman, black winged bob, large dark eyes, red/white mod dress, gloves/boots; gun on apparent left conflicts with prose right hip.",
+          "sha256": "fc3071e177aabe55682daae86f974637841c8e1e32921c62b709eb71dbadc124"
+        }
+      ],
+      "output": "stories/a-little-more-room/art/characters/robin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create one finished character reference sheet, 1536x1024 landscape 3:2, warm ivory folio. Character ONLY: no environment, scenery, floor or terrain patches, location vignette, swatches or decorative prose. Readable exact name upper left and story title beneath. 2-3 unclipped full views, selected head/state/gear studies, concise labels. Canadian Group of Seven inspired oil painting: broad connected colour and value masses, directional bristle strokes, selective substantial sculpted impasto, quiet connecting passages. Faces, hair and materials painted as decisively as clothing. No uniformly bevel-lit chips, glossy CGI eyes, anime linework, smooth digital faces or rimlighting. The character's exaggerated source features can remain without anime rendering. Select warm lamplight softened by cool evening fill; no light source or scene drawn. References: Kelro sheet is STYLE ONLY; same-story paintings paint handling/light ONLY, exclude their geography. Source cover supplies Suzette identity ONLY where compatible. SUBJECT Robin, title A Little More Room. One30-year-old human narrator. Source gives NO gender or appearance beyond gray socks: art interpretation an androgynous adult with medium warm-brown skin, short loose dark curls, softly oval face, average lean build. Completely distinct from Suzette: NORMAL adult eye proportions, NO silver seams, no cyborg parts, no mod minidress. Muted mustard knit pullover, navy straight trousers, brown low shoes. Three consistent unclipped forms: Arrival front carrying a milk crate of vinyl records at hip, small felt-pad packet on top; Rear same outfit/shoes; Dancing with shoes REMOVED, gray socks clearly visible, arms slightly awkward on offbeat but hopeful smile. Selected painted heads Guarded and At ease. Small hands handling a green record sleeve by edges, stack of record sleeves and pair brown shoes as gear. Legible compact labels, exact name/title. No invented tech or weapon, no other people. Only sheet style and same-story interior light refs attached; no source-cover identity used for this narrator.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved collection oil rendering style only; no identity transfer",
+            "inspected": true,
+            "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+            "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+            "inspected": true,
+            "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+            "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create one finished character reference sheet, 1536x1024 landscape 3:2, warm ivory folio. Character ONLY: no environment, scenery, floor or terrain patches, location vignette, swatches or decorative prose. Readable exact name upper left and story title beneath. 2-3 unclipped full views, selected head/state/gear studies, concise labels. Canadian Group of Seven inspired oil painting: broad connected colour and value masses, directional bristle strokes, selective substantial sculpted impasto, quiet connecting passages. Faces, hair and materials painted as decisively as clothing. No uniformly bevel-lit chips, glossy CGI eyes, anime linework, smooth digital faces or rimlighting. The character's exaggerated source features can remain without anime rendering. Select warm lamplight softened by cool evening fill; no light source or scene drawn. References: Kelro sheet is STYLE ONLY; same-story paintings paint handling/light ONLY, exclude their geography. Source cover supplies Suzette identity ONLY where compatible. SUBJECT Robin, title A Little More Room. One30-year-old human narrator. Source gives NO gender or appearance beyond gray socks: art interpretation an androgynous adult with medium warm-brown skin, short loose dark curls, softly oval face, average lean build. Completely distinct from Suzette: NORMAL adult eye proportions, NO silver seams, no cyborg parts, no mod minidress. Muted mustard knit pullover, navy straight trousers, brown low shoes. Three consistent unclipped forms: Arrival front carrying a milk crate of vinyl records at hip, small felt-pad packet on top; Rear same outfit/shoes; Dancing with shoes REMOVED, gray socks clearly visible, arms slightly awkward on offbeat but hopeful smile. Selected painted heads Guarded and At ease. Small hands handling a green record sleeve by edges, stack of record sleeves and pair brown shoes as gear. Legible compact labels, exact name/title. No invented tech or weapon, no other people. Only sheet style and same-story interior light refs attached; no source-cover identity used for this narrator.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Approved collection oil rendering style only; no identity transfer",
+                "inspected": true,
+                "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+                "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+                "inspected": true,
+                "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+                "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+              }
+            ],
+            "startedAt": "2026-09-23T21:48:47.697002+00:00",
+            "preflight": "Full source and selected reference pixels checked. Source-specific anatomy/wardrobe/light, names and no-scenes format resolved before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0cf13-c939-7811-9ea4-c3c059cf9553\\exec-30dabf3e-63a0-4c4a-a749-fb1858329b1c.png",
+            "candidateSha256": "797119b9a17a267c1bfbd4e807d397e0a598c8f9916ad99c02e5e6ba04cda75b",
+            "completedAt": "2026-09-23T21:51:26.172209+00:00",
+            "visualInspection": [
+              "Consistent adult of30 with single art-interpreted face/hair/skin and ordinary human proportions across front/rear/dancing and expressions.",
+              "Crate, record sleeves and felt pads supported; shoes omitted during dancing and gray socks visible. No Suzette anatomy or weapon imported.",
+              "Readable exact source name/title, complete silhouettes; no ground patch/scenery/swatches.",
+              "Painted skin/hair with larger connected planes, varied impasto on knitted cloth and shoes; warm/cool interior light restrained."
+            ]
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_batch_1 actual generated-pixel inspection",
+        "sourceSha256": "2c2442ca59d7d9f19dabbb17b8e4413aa5f42934e40a5cf124b894777cf7b372",
+        "outputSha256": "797119b9a17a267c1bfbd4e807d397e0a598c8f9916ad99c02e5e6ba04cda75b",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Approved collection oil rendering style only; no identity transfer",
+            "inspected": true,
+            "notes": "Large connected cloth and skin masses with selective thick bristle/knife accents on ivory.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-little-more-room/art/interiors/01-suzettes-sitting-room.png",
+            "role": "Same-story warm lamplight/cool evening fill and oil handling only; no location content",
+            "inspected": true,
+            "notes": "Warm amber wall and cloth masses with quiet blue evening window tones; no figures.",
+            "sha256": "c8b54fefaee67a64a90d7fe8f8ba73a7ec5a20aa877730ec015351f99d25dd17"
+          }
+        ],
+        "evidence": [
+          "Consistent adult of30 with single art-interpreted face/hair/skin and ordinary human proportions across front/rear/dancing and expressions.",
+          "Crate, record sleeves and felt pads supported; shoes omitted during dancing and gray socks visible. No Suzette anatomy or weapon imported.",
+          "Readable exact source name/title, complete silhouettes; no ground patch/scenery/swatches.",
+          "Painted skin/hair with larger connected planes, varied impasto on knitted cloth and shoes; warm/cool interior light restrained."
+        ],
+        "userApproval": "Full collection authorized; final review at end.",
+        "specificationSha256": "f31e5e2a6a2e486bad0cc87995616fe93c4f1cdb3dd79c0064112b5611f6a735"
+      },
+      "outputSha256": "797119b9a17a267c1bfbd4e807d397e0a598c8f9916ad99c02e5e6ba04cda75b"
+    }
+  ]
+}

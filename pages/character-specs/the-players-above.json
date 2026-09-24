@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-players-above",
+  "title": "The Players Above",
+  "source": "stories/the-players-above/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire final story/prompt read. Reniya, Veysa and Ludek sustain investigation, decisions and physical solution. Three distinct brief formless voices each supply restricted information; not treated as visible humanoids or merged into a god.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Three formless player presences",
+      "reason": "Brief limited informational voices, no visible anatomy or sustained individual main arc; inventing bodies would contradict formless presentation."
+    },
+    {
+      "name": "Miller, porter, nightworkers and market people",
+      "reason": "Background and trigger examples."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "reniya",
+      "name": "Reniya",
+      "role": "game player and metal-splinter questioner",
+      "form": "adult human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "Reniya marked the intended loop with game tiles",
+          "explanation": "Practical game materials used for reasoning/route."
+        },
+        {
+          "quote": "splinter no longer than a barley awn",
+          "explanation": "Tiny cold contact piece; not magical staff."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Painted route tiles/box, tiny silver splinter, boots.",
+        "state": "Night mill investigation, before muddy dawn work."
+      },
+      "visualInterpretation": [
+        "Art-only adult late20s, pale olive face, straight black bob and broad low nose, plum blouse/moss waistcoat/slate trousers/boots.",
+        "Tiny splinter shown enlarged as marked detail, not enormous permanent magic ornament."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-players-above:reniya",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-players-above/art/characters/reniya.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Reniya\"; title \"The Players Above\"; role \"Player / questioner\". ONE adult HUMAN woman, pale olive skin, straight BLACK chin-length bob, BROAD low nose, matte dark eyes, thoughtful curious late-twenties expression. Muted PLUM blouse and moss wool waistcoat, slate trousers, worn dark leather BOOTS. Complete front/rear bodies; front holds SMALL wooden route-tile BOX with a few painted plain squares red/blue/ochre, not dicefloating. Large matching face listening, no voices visibly hovering. One enlarged tiny irregular SILVER METAL SPLINTER, actual size no longer than barley awn, label \"Cold splinter — enlarged\". Source living contact is cold, not luminous magic aura; ordinary handsfivefingers. No bookscores, giant crystals/weapons/deityface.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:53:35.490450+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Reniya\"; title \"The Players Above\"; role \"Player / questioner\". ONE adult HUMAN woman, pale olive skin, straight BLACK chin-length bob, BROAD low nose, matte dark eyes, thoughtful curious late-twenties expression. Muted PLUM blouse and moss wool waistcoat, slate trousers, worn dark leather BOOTS. Complete front/rear bodies; front holds SMALL wooden route-tile BOX with a few painted plain squares red/blue/ochre, not dicefloating. Large matching face listening, no voices visibly hovering. One enlarged tiny irregular SILVER METAL SPLINTER, actual size no longer than barley awn, label \"Cold splinter — enlarged\". Source living contact is cold, not luminous magic aura; ordinary handsfivefingers. No bookscores, giant crystals/weapons/deityface.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+                "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+                "inspected": true,
+                "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover, game-room oil and moonlitlane inspected; no named universe/name matches.",
+              "Only three sustained physical main identities selected; formless brief voices have no invented bodies; no supernatural ability transferred to ordinary companions.",
+              "One identity, fullviews/face/personalgear feasible, dim lamp/blue windowpaint and matte faces, no floor/scenery/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-16195e65-4bdd-4c2c-b315-6986eeb41d9d.png",
+            "outputSha256": "f37b5a92177032a7dba9b84c2867c19c7942de1a90205926c852a605b6c4a39c",
+            "finishedAt": "2026-09-24T07:23:49.092816+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected; front/rear/portrait same adult black-bob identity, practical plum/moss clothing, complete unclipped boots and normal hands.",
+              "Small route-tile box, tiny metal splinter explicitly enlarged not glowing; no invented visible player bodies. Directional amber lamp accents/cool shadow, broad matte face and clothing oil; clean ivory no scenery/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-16195e65-4bdd-4c2c-b315-6986eeb41d9d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "e81a9a98a88b3594be3ef251332659db6833f12a75220cc0eaac4f45e73be8a8",
+        "outputSha256": "f37b5a92177032a7dba9b84c2867c19c7942de1a90205926c852a605b6c4a39c",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected; front/rear/portrait same adult black-bob identity, practical plum/moss clothing, complete unclipped boots and normal hands.",
+          "Small route-tile box, tiny metal splinter explicitly enlarged not glowing; no invented visible player bodies. Directional amber lamp accents/cool shadow, broad matte face and clothing oil; clean ivory no scenery/swatches."
+        ],
+        "specificationSha256": "e99edb8f7a464aa64f1989711605464b47983784c22e2ed555047f057786edf8"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f37b5a92177032a7dba9b84c2867c19c7942de1a90205926c852a605b6c4a39c"
+    },
+    {
+      "id": "veysa",
+      "name": "Veysa",
+      "role": "mason who protects catchment and tests physical consequences",
+      "form": "adult human-presenting woman",
+      "selectionEvidence": [
+        {
+          "quote": "repaired the mill’s west wall",
+          "explanation": "Practical mason."
+        },
+        {
+          "quote": "She took the lamp from its hook",
+          "explanation": "Hooded lamp and short bar supported."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Short pry bar, hooded lamp, work knife.",
+        "state": "Night investigation before dawn."
+      },
+      "visualInterpretation": [
+        "Art-only stout strong mature adult woman, dark brown skin, broad square face, black hair graying at temples in braided bun.",
+        "Ochre workshirt, dark gray short vest/apron, brown trousers/boots."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-players-above:veysa",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-players-above/art/characters/veysa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Veysa\"; title \"The Players Above\"; role \"Mason\". ONE mature adult HUMAN woman, DARK BROWN skin, broad SQUARE face, strong jaw, ordinary dark matte eyes, BLACK hair with graying temples in tight braided BUN, strong stocky forties build, practical doubtful expression. OCHRE rolled-sleeve workshirt, dark gray sleeveless short work-apron/vest, brown trousers, heavy BOOTS. Complete front/rear bodies; front holds SHORT plain iron PRY BAR down, small sheathed ordinary work knife centered on belt. Large matching face. One isolated compact hooded brass oil LAMP with lowered hood and SMALL amber flame, label \"Hooded lamp\". No gianttool/powerglow/crown, no mill/stonewall orfloor.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:53:35.493290+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Veysa\"; title \"The Players Above\"; role \"Mason\". ONE mature adult HUMAN woman, DARK BROWN skin, broad SQUARE face, strong jaw, ordinary dark matte eyes, BLACK hair with graying temples in tight braided BUN, strong stocky forties build, practical doubtful expression. OCHRE rolled-sleeve workshirt, dark gray sleeveless short work-apron/vest, brown trousers, heavy BOOTS. Complete front/rear bodies; front holds SHORT plain iron PRY BAR down, small sheathed ordinary work knife centered on belt. Large matching face. One isolated compact hooded brass oil LAMP with lowered hood and SMALL amber flame, label \"Hooded lamp\". No gianttool/powerglow/crown, no mill/stonewall orfloor.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+                "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+                "inspected": true,
+                "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover, game-room oil and moonlitlane inspected; no named universe/name matches.",
+              "Only three sustained physical main identities selected; formless brief voices have no invented bodies; no supernatural ability transferred to ordinary companions.",
+              "One identity, fullviews/face/personalgear feasible, dim lamp/blue windowpaint and matte faces, no floor/scenery/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-09178eab-a3c4-4d58-9f03-c437b471a30e.png",
+            "outputSha256": "808c67af2f571f0f27107ff1f7acc63c9b76b68495182d77e5fed8d4cf2afe63",
+            "finishedAt": "2026-09-24T07:23:49.125977+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: coherent stocky adult dark-skinned mason, braided gray-black bun, complete front/rear footwear; short prybar and hooded small-flame lamp.",
+              "Source nightlamp lighting limitedwarmplanes against connected darkviolet/umber; faces and hands broadmattepaint, readable labels, no environment/swatch."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-09178eab-a3c4-4d58-9f03-c437b471a30e.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "e81a9a98a88b3594be3ef251332659db6833f12a75220cc0eaac4f45e73be8a8",
+        "outputSha256": "808c67af2f571f0f27107ff1f7acc63c9b76b68495182d77e5fed8d4cf2afe63",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: coherent stocky adult dark-skinned mason, braided gray-black bun, complete front/rear footwear; short prybar and hooded small-flame lamp.",
+          "Source nightlamp lighting limitedwarmplanes against connected darkviolet/umber; faces and hands broadmattepaint, readable labels, no environment/swatch."
+        ],
+        "specificationSha256": "c6ddfc23b07924206ff0277eac17840dc0ddb86f9a429b31c58d6475cd1cffbf"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "808c67af2f571f0f27107ff1f7acc63c9b76b68495182d77e5fed8d4cf2afe63"
+    },
+    {
+      "id": "ludek",
+      "name": "Ludek",
+      "role": "courier, route reader and companion",
+      "form": "adult human-presenting man",
+      "selectionEvidence": [
+        {
+          "quote": "with a courier’s plain certainty",
+          "explanation": "Occupation explicit."
+        },
+        {
+          "quote": "Ludek wiped mud on his coat",
+          "explanation": "Coat and practical movement."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Coat, boots, carried receipts and toolbasket later.",
+        "state": "Night investigation, tools not yet muddy dawn."
+      },
+      "visualInterpretation": [
+        "Art-only slender adult thirties with ruddy lightskin, narrow pointedchin, thick mustache and wavy auburnhair.",
+        "Muted blue coat over neutralshirt/browntrousers, ordinary receipts satchel."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Source-supported current state, isolated character."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-players-above:ludek",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-players-above/art/characters/ludek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ludek\"; title \"The Players Above\"; role \"Courier\". ONE adult HUMAN man, slender wiry thirties build, ruddy light skin, narrow pointed chin, WAVY AUBURN short hair, thick neat auburn MUSTACHE, matte gray eyes, wry attentive expression. Muted BLUE practical knee-length coat, cream plain shirt, dark-brown trousers, worn brown BOOTS fully laced on BOTH feet. Plain small RECEIPT SATCHEL centered on back with single crossbodystrap; front holds folded paper receipt without legible words, otherempty. Front/rear fullbody, large sameface. Isolated folded RECEIPTS tied with string, label \"Deliveries\". No invented maps/numbers/weapon/staff. Ordinary traveler, notwizard/noble.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:53:35.495962+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Ludek\"; title \"The Players Above\"; role \"Courier\". ONE adult HUMAN man, slender wiry thirties build, ruddy light skin, narrow pointed chin, WAVY AUBURN short hair, thick neat auburn MUSTACHE, matte gray eyes, wry attentive expression. Muted BLUE practical knee-length coat, cream plain shirt, dark-brown trousers, worn brown BOOTS fully laced on BOTH feet. Plain small RECEIPT SATCHEL centered on back with single crossbodystrap; front holds folded paper receipt without legible words, otherempty. Front/rear fullbody, large sameface. Isolated folded RECEIPTS tied with string, label \"Deliveries\". No invented maps/numbers/weapon/staff. Ordinary traveler, notwizard/noble.\nImage1 is painting and source NIGHT oil-lamp light, NOT a scene: small amber warm planes limited to lamp-facing nose/cheek/hand/cloth edge; majority face/body connected dark cool VIOLET/UMBER mass with restrained blue window fill. Never cream daylight faces or stage glow. Broad matte directional oil includes every face/hand, not photoreal smoothness/CGI. Bright ivory nofloor/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+                "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+                "inspected": true,
+                "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt read; source cover, game-room oil and moonlitlane inspected; no named universe/name matches.",
+              "Only three sustained physical main identities selected; formless brief voices have no invented bodies; no supernatural ability transferred to ordinary companions.",
+              "One identity, fullviews/face/personalgear feasible, dim lamp/blue windowpaint and matte faces, no floor/scenery/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f1c63aef-7ea8-4f5b-afc0-958af85c49d6.png",
+            "outputSha256": "1b5f7dec9bc35e3935cc51b5ec5c985a55c86d2ce5de6e32d5e161c6138bbe82",
+            "finishedAt": "2026-09-24T07:23:49.137474+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual saved pixels inspected: same adult ruddy auburn-haired mustached courier front/rear/face, ordinary receipt bundle, consistent functional satchel at left hip/lower back, complete pairedboots.",
+              "Plain blue coat, normal hands, believable proportions. Directional amber lamp accents with cool darkshadow, broad matte oil face/clothes, quiet ivory no floor/scene/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f1c63aef-7ea8-4f5b-afc0-958af85c49d6.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "e81a9a98a88b3594be3ef251332659db6833f12a75220cc0eaac4f45e73be8a8",
+        "outputSha256": "1b5f7dec9bc35e3935cc51b5ec5c985a55c86d2ce5de6e32d5e161c6138bbe82",
+        "references": [
+          {
+            "path": "stories/the-players-above/art/interiors/01-game-table-in-the-mill.png",
+            "role": "inspected source night oil-lamp/wintry-blue window light and broad matte oil only; no mill/game-room",
+            "inspected": true,
+            "sha256": "56feecaf1fb857b9e95feed448e1e15b1538c839287b3f1ac45fd377dbc7761e"
+          }
+        ],
+        "evidence": [
+          "Actual saved pixels inspected: same adult ruddy auburn-haired mustached courier front/rear/face, ordinary receipt bundle, consistent functional satchel at left hip/lower back, complete pairedboots.",
+          "Plain blue coat, normal hands, believable proportions. Directional amber lamp accents with cool darkshadow, broad matte oil face/clothes, quiet ivory no floor/scene/swatches."
+        ],
+        "specificationSha256": "004c7d6559b7e6e6883295701bb6c1df0c07de344e57e7b2805219dd1a90c4a7"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "1b5f7dec9bc35e3935cc51b5ec5c985a55c86d2ce5de6e32d5e161c6138bbe82"
+    }
+  ],
+  "sourceSha256": "e81a9a98a88b3594be3ef251332659db6833f12a75220cc0eaac4f45e73be8a8"
+}

@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-first-winter",
+  "title": "The First Winter",
+  "source": "stories/the-first-winter/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished story/prompt/review read and original/cover/story paintings inspected. Besset, eighteen-year-old narrator and the physically active pursuer each sustain central agency. Final winter views for guardian/narrator, explicitly earlier night state for pursuer.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Narrator's mother",
+      "reason": "Dead in eighteen-year-old backstory, no physically present main state; not another living cast identity."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-43862f18-6cd8-420f-997d-c0a9647de4e3.png",
+      "sha256": "ceb15ece8bf586c31a7ec8cb960738a8dbd7bdee50d0bbef03e94a9854a4c62a",
+      "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-12T23-08-39-01a098bd-03bb-7c51-b07b-1ba611630f59.jsonl",
+      "sourceSessionSha256": "f83c348b1dee747126939d0e574888081e687764ea7239600718805656c8b9e1",
+      "line": 9,
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-43862f18-6cd8-420f-997d-c0a9647de4e3.png",
+      "status": "recovered-and-inspected",
+      "recovery": "Exact original bytes decoded from adjacent user input_image data in matching archived session; no reencoding."
+    }
+  ],
+  "coverInspection": "Compatible blue-hat dark-haired Besset and distant unidentifiable hunter inspected; original and finished prose control identity and state.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "besset",
+      "name": "Besset",
+      "role": "Witch and guardian whose repeated dawn has protected the narrator for eighteen years.",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "Her left arm rested crookedly against her ribs. She could use that hand to hold bread while she cut it, but she could not raise it above her shoulder.",
+          "explanation": "Witch and guardian whose repeated dawn has protected the narrator for eighteen years."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Dark hair; blue broad pointed hat on cord, blue sleeve and coat skirt. Old puckered scar inside left elbow; cannot raise left arm above shoulder or draw crossbow. Final weeks after leg wound she walks with stick and wears blue hat with scarf tied over it against wind."
+      },
+      "explicitCanon": [
+        "Non-canon source; its global repeated-dawn working is confined to this story and is not identified with any recurring canon god or mechanism. Art-only designs and names establish no universe fact."
+      ],
+      "visualInterpretation": [
+        "Adult woman about40, warm olive skin and tired oval face; age/maturity interpretation compatible with eighteen years guardianship. Recovered original identifies dark windblown hair/blue hat/clothes, interpreted in opaque oil.",
+        "Final leg injury side unspecified: leg remains covered, no invented exposed wound/side marker. Stick in functional right hand is art staging. Left elbow stays modestly bent against ribs in both full views."
+      ],
+      "states": [
+        {
+          "name": "First snow departure",
+          "description": "Two views of final winter clothing, right-hand walking stick, left arm resting crookedly against ribs; no crossbow."
+        },
+        {
+          "name": "Old left elbow injury",
+          "description": "One inset at waist-level showing old puckered inner-left-elbow scar, arm never raised above shoulder."
+        }
+      ],
+      "lighting": "Cool diffuse overcast first-snow daylight, muted blue-violet shadows, no orange stage rim, light ivory ground.",
+      "naming": {
+        "type": "source-name",
+        "sourceName": "Besset"
+      },
+      "status": "completed",
+      "output": "stories/the-first-winter/art/characters/besset.png",
+      "generation": {
+        "prompt": "Precise local continuity edit of accepted Besset sheet. Preserve face, age, dark hair, blue broad hat and tied scarf, front figure, right-hand walking stick, winter light, oil strokes, ivory and all headings. Her injured arm is ANATOMICAL LEFT and remains low/bent, never raised above shoulder. TWO small areas to fix: (1) On REAR full body, cover the little exposed outer-left-elbow patch with continuous matching blue sleeve. No scar or hole visible from behind. Do not move arm or walking stick. (2) Replace bottom-right elbow inset with a clear FRONT/INNER view of HER LEFT elbow gently bent at waist level, sleeve pushed just above elbow, forearm rotated palm-up but crop before fingers. Show puckered healed scar ACROSS THE CONCAVE FLEXION CREASE INSIDE THE ELBOW, the soft inner joint where forearm folds toward upper arm. The scar is not on the protruding bony outer elbow, not a knee, not upperarm. Inset should unmistakably show inner elbow crease in the inside of a shallow V, with the round outer elbow away from viewer. Label Old left elbow scar unchanged. No other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a6e02e7-4893-4cd2-ad46-5c22a21b5313.png",
+            "sha256": "a98fefba0bc7928266908994e25e551598d193f7c0ca4f1634e42a82f64c6bf2",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Besset; exact subtitle The First Winter. ONE consistent mature woman around40 with warm olive skin, thoughtful tired oval face and dark windblown hair, derived from ORIGINAL blue-hat woman but mature and lived-in, never copy the unrelated elderly folio face. Two fully unclipped final-first-snow full body views: broad pointed deep-blue hat with a muted wool scarf tied OVER its crown/brim against wind, hat cord, worn layered blue coat with long blue skirt, plain sturdy boots. Her anatomical LEFT arm has old permanent elbow damage: keep left upper arm at ribs and forearm low across abdomen; no raised left arm, no straight vigorous left reach. Her anatomical RIGHT hand holds a plain walking stick used after the source leg injury. Both legs are fully clothed; no visible new wound or assigned wounded-leg side. One thoughtful head study plus small isolated anatomical-left INNER elbow scar detail with sleeve modestly lifted while arm stays low. Cool soft FIRST SNOW outdoor diffuse daylight only on body, connected muted violet-blue shadows; no snow ground/scenery, spell effects, crossbow, staff magic or glow. Quiet clear IVORY everywhere around all forms. ORIGINAL is identity/clothes guidance; blue hat and left disability are essential. Labels limited to First snow and Old left elbow scar.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-43862f18-6cd8-420f-997d-c0a9647de4e3.png",
+                "sha256": "ceb15ece8bf586c31a7ec8cb960738a8dbd7bdee50d0bbef03e94a9854a4c62a",
+                "role": "Recovered original supplies Besset's dark windblown hair and broad pointed blue hat/blue layered clothing. Source final winter scarf, maturity and left-arm disability take precedence.",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-first-winter/art/landscapes/04-first-snow-upper-hills.png",
+                "role": "Actual inspected story-specific first-snow diffuse daylight, connected cool winter masses; no location copied.",
+                "inspected": true,
+                "sha256": "e9692351ef0e4d8939976c9a3ca970a0bc23a5c62b173bbbb732f5c48a3ca128"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:15:09.954078+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b4c91050-8a75-45f8-8ea5-308b1b740b7e.png",
+            "outputSha256": "56753a5ea350fbf8d35c8935547484175cdd77a5420d40c4351ec6a794186b63",
+            "generatorReview": "Identity, blue scarf-over-hat clothing, anatomical left-arm rest/scar and right walking-stick continuity pass, but background vignette obscures headings and violates ivory folio."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T06:24:29.077149+00:00",
+            "prompt": "Replace ONLY all blurred dark grey/brown background in this sheet with clean uniform LIGHT WARM IVORY, right to all canvas edges and between every isolated figure/detail. Keep every character pixel and pose unchanged: same face, maturity, dark hair, blue hat and over-hat scarf, long blue clothing, anatomical LEFT arm bent low and scar inset, anatomical RIGHT hand walking stick, boots, all strokes and winter daylight. Render existing exact heading Besset and subtitle The First Winter plus labels clearly in dark-brown on the light ivory. No vignette, floor patch, gradient, halo, scenery or other additions. Nothing except paper/background legibility changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b4c91050-8a75-45f8-8ea5-308b1b740b7e.png",
+                "sha256": "56753a5ea350fbf8d35c8935547484175cdd77a5420d40c4351ec6a794186b63",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity, blue scarf-over-hat clothing, anatomical left-arm rest/scar and right walking-stick continuity pass, but background vignette obscures headings and violates ivory folio.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a6e02e7-4893-4cd2-ad46-5c22a21b5313.png",
+            "outputSha256": "a98fefba0bc7928266908994e25e551598d193f7c0ca4f1634e42a82f64c6bf2",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:37:57.927942+00:00",
+            "generatorReview": "Root actual-pixel review: source explicitly scar across INSIDE left elbow, while rear/inset place scar on convex outer elbow. Keep accepted identity/wardrobe/right stick/left limitation; correct only scar localization."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T08:49:42.403633+00:00",
+            "prompt": "Precise local continuity edit of accepted Besset sheet. Preserve face, age, dark hair, blue broad hat and tied scarf, front figure, right-hand walking stick, winter light, oil strokes, ivory and all headings. Her injured arm is ANATOMICAL LEFT and remains low/bent, never raised above shoulder. TWO small areas to fix: (1) On REAR full body, cover the little exposed outer-left-elbow patch with continuous matching blue sleeve. No scar or hole visible from behind. Do not move arm or walking stick. (2) Replace bottom-right elbow inset with a clear FRONT/INNER view of HER LEFT elbow gently bent at waist level, sleeve pushed just above elbow, forearm rotated palm-up but crop before fingers. Show puckered healed scar ACROSS THE CONCAVE FLEXION CREASE INSIDE THE ELBOW, the soft inner joint where forearm folds toward upper arm. The scar is not on the protruding bony outer elbow, not a knee, not upperarm. Inset should unmistakably show inner elbow crease in the inside of a shallow V, with the round outer elbow away from viewer. Label Old left elbow scar unchanged. No other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a6e02e7-4893-4cd2-ad46-5c22a21b5313.png",
+                "sha256": "a98fefba0bc7928266908994e25e551598d193f7c0ca4f1634e42a82f64c6bf2",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Root actual-pixel review: source explicitly scar across INSIDE left elbow, while rear/inset place scar on convex outer elbow. Keep accepted identity/wardrobe/right stick/left limitation; correct only scar localization.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-8912715a-514a-4013-8d7c-d3284b1dbe04.png",
+            "outputSha256": "69a4fd96db07b23ffcf2f91241093ecdb93dd300fc56ba9a2245a3d223855709",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:09:48.103987+00:00",
+            "generatorReview": "Actual corrected pixels inspected against source line153: scar now across the soft INNER LEFT elbow flexion crease in low/bent inward-facing inset, forearm exposed from pushedupsleeve; wrong outer rear-elbow opening removed and sleeve complete. Original face/darkhair/bluehat/scarf, right walkingstick, left limitation/low rest and diffusefirstsnow daylight preserved. Ivory/title/full margins pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "69a4fd96db07b23ffcf2f91241093ecdb93dd300fc56ba9a2245a3d223855709",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:09:48.103987+00:00",
+        "sourceSha256": "7d756531fdf70022657d77905b4ebd821753122731a8283accc2841c69e92065",
+        "outputSha256": "69a4fd96db07b23ffcf2f91241093ecdb93dd300fc56ba9a2245a3d223855709",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-5a6e02e7-4893-4cd2-ad46-5c22a21b5313.png",
+            "sha256": "a98fefba0bc7928266908994e25e551598d193f7c0ca4f1634e42a82f64c6bf2",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected against source line153: scar now across the soft INNER LEFT elbow flexion crease in low/bent inward-facing inset, forearm exposed from pushedupsleeve; wrong outer rear-elbow opening removed and sleeve complete. Original face/darkhair/bluehat/scarf, right walkingstick, left limitation/low rest and diffusefirstsnow daylight preserved. Ivory/title/full margins pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "3f7ec1a492e2fdb7a47d77903b62229969664d5a204c66d1bd1ba846b45848f9"
+      }
+    },
+    {
+      "id": "cailven",
+      "name": "Cailven",
+      "role": "Unnamed eighteen-year-old first-person narrator whose attempted departure brings danger, then chooses the new winter.",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "\"I'm eighteen,\" I began.",
+          "explanation": "Unnamed eighteen-year-old first-person narrator whose attempted departure brings danger, then chooses the new winter."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Eighteen; hunting bow, travel pack and Besset's frying pan. Knee scrape persists through dawn. Shoulder injured in night struggle; final departure shifts pack to spare shoulder. Source leaves name/gender/appearance and injury sides unspecified."
+      },
+      "explicitCanon": [
+        "Non-canon source; its global repeated-dawn working is confined to this story and is not identified with any recurring canon god or mechanism. Art-only designs and names establish no universe fact."
+      ],
+      "visualInterpretation": [
+        "Art-only androgynous eighteen-year-old with warm tan skin, short dark-blond tousled hair, slim young-adult build and broad-set hazel eyes; no gender claim in source.",
+        "Brown travel coat, muted green layers, dark trousers, worn boots. Side of shoulder pain kept visually noncommittal through low pack carried in hand in front and simple loose cross-shoulder strap rear, no fixed injury marks."
+      ],
+      "states": [
+        {
+          "name": "First winter departure",
+          "description": "Final first snow, travel pack and dented frying pan; quiet uncertainty and resolve. Old shoulder pain not rendered as newly healed or magical."
+        }
+      ],
+      "lighting": "Cold diffuse first-snow daylight with soft blue shadows; uniform ivory.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Cailven",
+        "sourceRole": "Unnamed eighteen-year-old narrator",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/story/spec search found no reuse.",
+        "scope": "Art-only, no source prose or canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-first-winter/art/characters/cailven.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Cailven; exact subtitle The First Winter. One ANDROGYNOUS eighteen-year-old young adult with warm tan skin, short tousled dark-blond hair, broad-set hazel eyes, slim narrow youthful shoulders, no beard, no mature thirty-year-old features. Source narrator has no personal name: Cailven is authorized art-only identity. Two fully unclipped travel-clothing views and one quietly uncertain head study, one isolated hand/detail holding the dented small frying pan. Worn brown travel coat over muted green cloth layers, dark trousers, plain boots; soft cloth travel pack carried low rather than heavy two-shoulder military harness, slender hunting bow unstrung/slung safely. The final story shoulder pain remains but side is unspecified: no exposed wound, no side label or elaborate brace. Retain upright cautious young-adult body. Cold diffuse FIRST SNOW daylight with restrained blue-violet connected shadow families, isolated on uniformly light ivory. No Besset, old witch face, blue pointed hat, landscape or snow floor.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-first-winter/art/landscapes/04-first-snow-upper-hills.png",
+            "role": "Actual inspected story-specific first-snow diffuse daylight, connected cool winter masses; no location copied.",
+            "inspected": true,
+            "sha256": "e9692351ef0e4d8939976c9a3ca970a0bc23a5c62b173bbbb732f5c48a3ca128"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Cailven; exact subtitle The First Winter. One ANDROGYNOUS eighteen-year-old young adult with warm tan skin, short tousled dark-blond hair, broad-set hazel eyes, slim narrow youthful shoulders, no beard, no mature thirty-year-old features. Source narrator has no personal name: Cailven is authorized art-only identity. Two fully unclipped travel-clothing views and one quietly uncertain head study, one isolated hand/detail holding the dented small frying pan. Worn brown travel coat over muted green cloth layers, dark trousers, plain boots; soft cloth travel pack carried low rather than heavy two-shoulder military harness, slender hunting bow unstrung/slung safely. The final story shoulder pain remains but side is unspecified: no exposed wound, no side label or elaborate brace. Retain upright cautious young-adult body. Cold diffuse FIRST SNOW daylight with restrained blue-violet connected shadow families, isolated on uniformly light ivory. No Besset, old witch face, blue pointed hat, landscape or snow floor.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-first-winter/art/landscapes/04-first-snow-upper-hills.png",
+                "role": "Actual inspected story-specific first-snow diffuse daylight, connected cool winter masses; no location copied.",
+                "inspected": true,
+                "sha256": "e9692351ef0e4d8939976c9a3ca970a0bc23a5c62b173bbbb732f5c48a3ca128"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:15:09.955331+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-a5b24d30-e389-46ad-abaf-f3ce46e987a7.png",
+            "outputSha256": "5523f40de39fbbabd585ed7c34171fef3cbca37e3b8034847bb183d1498d1225",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:24:28.052524+00:00",
+            "generatorReview": "Actual pixels inspected: eighteen-year-old androgynous traveler, youthful proportions consistent across front/rear/portrait; brown/green practical winter layers, travel pack, safely slung bow and worn pan. No injury side invented or magical healing; limbs/boots complete, exact name/title and ivory folio legible. Diffuse winter daylight preserved without environment."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "5523f40de39fbbabd585ed7c34171fef3cbca37e3b8034847bb183d1498d1225",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:24:28.052524+00:00",
+        "sourceSha256": "7d756531fdf70022657d77905b4ebd821753122731a8283accc2841c69e92065",
+        "outputSha256": "5523f40de39fbbabd585ed7c34171fef3cbca37e3b8034847bb183d1498d1225",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-first-winter/art/landscapes/04-first-snow-upper-hills.png",
+            "role": "Actual inspected story-specific first-snow diffuse daylight, connected cool winter masses; no location copied.",
+            "inspected": true,
+            "sha256": "e9692351ef0e4d8939976c9a3ca970a0bc23a5c62b173bbbb732f5c48a3ca128"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          }
+        ],
+        "evidence": "Actual pixels inspected: eighteen-year-old androgynous traveler, youthful proportions consistent across front/rear/portrait; brown/green practical winter layers, travel pack, safely slung bow and worn pan. No injury side invented or magical healing; limbs/boots complete, exact name/title and ivory folio legible. Diffuse winter daylight preserved without environment.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c6f29729395b155ee051b348d143cd34d14df6f55423edd615b6f1f1f55acb5a"
+      }
+    },
+    {
+      "id": "darskell",
+      "name": "Darskell",
+      "role": "Unnamed dying blood-bound pursuer whose approach at night causes the decisive confrontation.",
+      "form": "Human",
+      "selectionEvidence": [
+        {
+          "quote": "The moon showed a narrow face, a grey beard, a dark patch of sweat at his collar. His hand shook when he lowered the crossbow.",
+          "explanation": "Unnamed dying blood-bound pursuer whose approach at night causes the decisive confrontation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Dying older man, narrow face, grey beard, dark sweat patch at collar, trembling hand; crossbow, knife, old sweat/bitter medicine. He dies in climax; select only living pre-ambush encounter."
+      },
+      "explicitCanon": [
+        "Non-canon source; its global repeated-dawn working is confined to this story and is not identified with any recurring canon god or mechanism. Art-only designs and names establish no universe fact."
+      ],
+      "visualInterpretation": [
+        "Older man around65, sallow weathered narrow face, sparse grey hair and pointed grey beard, thin build; threadbare umber long coat, dark grey tunic/trousers, old boots. No magical tattoos, doctor badge or invented visible blood-bond marks."
+      ],
+      "states": [
+        {
+          "name": "Before the ambush",
+          "description": "Living night encounter before death; lowered crossbow, knife sheathed. No resurrection/final alive implication."
+        }
+      ],
+      "lighting": "Dim moonlit gully night with connected deep blue-violet shadow across face and clothing; only narrow moon-facing planes, on light ivory.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Darskell",
+        "sourceRole": "Unnamed blood-bound pursuer",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/story/spec search found no reuse.",
+        "scope": "Art-only, no source prose or canon edit."
+      },
+      "status": "completed",
+      "output": "stories/the-first-winter/art/characters/darskell.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Darskell; exact subtitle The First Winter. Short state label Before the ambush. One older DYING human man about65 with a NARROW hollow weathered sallow face, sparse grey hair and short pointed GREY BEARD, thin stooped frame, sweat-dark collar. Distinct from other references' identities; no witch/caregiver features. Two fully unclipped front/rear views in threadbare long umber coat over dark-grey tunic/trousers and old worn boots. Crossbow carried LOW, unloaded/relaxed rather than aiming at anyone; small knife safely sheathed on belt. One strained face close-up and one close hand resting against crossbow stock to suggest tremor without extra ghost hands. The scene is MOONLIT NIGHT before he dies: keep face, hands and clothing in deep connected muted BLUE-VIOLET shadow, narrow desaturated moon-facing light only, no warm daylight, no bright portrait exposure. Uniform clean LIGHT IVORY around figures and behind text despite the DARK FIGURE. No gully, tree, ground patch, combat, wound, glowing blood bond, occult symbol or medical insignia.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-first-winter/art/landscapes/03-moonlit-stony-gully.png",
+            "role": "Actual inspected story-specific moonlit value/blue-violet shadow reference only; no gully or vegetation copied.",
+            "inspected": true,
+            "sha256": "42730e5f41ede9ed6311c3b267da670cb029b736af0e488cab9fd6093261c644"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view. Exact heading Darskell; exact subtitle The First Winter. Short state label Before the ambush. One older DYING human man about65 with a NARROW hollow weathered sallow face, sparse grey hair and short pointed GREY BEARD, thin stooped frame, sweat-dark collar. Distinct from other references' identities; no witch/caregiver features. Two fully unclipped front/rear views in threadbare long umber coat over dark-grey tunic/trousers and old worn boots. Crossbow carried LOW, unloaded/relaxed rather than aiming at anyone; small knife safely sheathed on belt. One strained face close-up and one close hand resting against crossbow stock to suggest tremor without extra ghost hands. The scene is MOONLIT NIGHT before he dies: keep face, hands and clothing in deep connected muted BLUE-VIOLET shadow, narrow desaturated moon-facing light only, no warm daylight, no bright portrait exposure. Uniform clean LIGHT IVORY around figures and behind text despite the DARK FIGURE. No gully, tree, ground patch, combat, wound, glowing blood bond, occult symbol or medical insignia.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-first-winter/art/landscapes/03-moonlit-stony-gully.png",
+                "role": "Actual inspected story-specific moonlit value/blue-violet shadow reference only; no gully or vegetation copied.",
+                "inspected": true,
+                "sha256": "42730e5f41ede9ed6311c3b267da670cb029b736af0e488cab9fd6093261c644"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T06:15:09.956531+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-db546020-0685-41b7-b650-b5e03492f040.png",
+            "outputSha256": "073f2cc3e249049c7d4e44e549985b26f46563a84fd5bb25179107c952119ce7",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T06:24:28.133709+00:00",
+            "generatorReview": "Actual pixels inspected: grey-bearded narrow-faced sickly older pursuer in explicitly labelled pre-ambush state, lowered crossbow/sheath and plausible consistent hands. Deep blue-violet moonlight with connected shadowed face, no daylight exposure or magic symbols. Full views complete on ivory, exact name/title legible, no resurrection implication."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "073f2cc3e249049c7d4e44e549985b26f46563a84fd5bb25179107c952119ce7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:24:28.133709+00:00",
+        "sourceSha256": "7d756531fdf70022657d77905b4ebd821753122731a8283accc2841c69e92065",
+        "outputSha256": "073f2cc3e249049c7d4e44e549985b26f46563a84fd5bb25179107c952119ce7",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-first-winter/art/landscapes/03-moonlit-stony-gully.png",
+            "role": "Actual inspected story-specific moonlit value/blue-violet shadow reference only; no gully or vegetation copied.",
+            "inspected": true,
+            "sha256": "42730e5f41ede9ed6311c3b267da670cb029b736af0e488cab9fd6093261c644"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: grey-bearded narrow-faced sickly older pursuer in explicitly labelled pre-ambush state, lowered crossbow/sheath and plausible consistent hands. Deep blue-violet moonlight with connected shadowed face, no daylight exposure or magic symbols. Full views complete on ivory, exact name/title legible, no resurrection implication.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "5c4b1f0f03d78f3374d9766f7f110661eb0c8bfda2393a42b50e743658662972"
+      }
+    }
+  ],
+  "sourceSha256": "7d756531fdf70022657d77905b4ebd821753122731a8283accc2841c69e92065"
+}

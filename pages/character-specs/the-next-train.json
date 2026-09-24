@@ -1,0 +1,907 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-next-train",
+  "title": "The Next Train",
+  "source": "stories/the-next-train/story.md",
+  "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full final story/prompt/PASS review read after false marker. Six enacted main identities: narrator, all three named Fates and two unnamed divine visitors; latter remain through substantial confrontation and train relationship movement.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Train passengers, driver, temple-clothed photographer, office colleague, mother and cousin",
+      "reason": "Brief/offstage roles without sustained individual arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority hierarchy; source-local facts are not new shared canon"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Exact/alias name recurrence checked; no inferred identity from theme or resemblance"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+      "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+      "inspected": true,
+      "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+    }
+  ],
+  "referenceInputAssessment": "Actual recovered exact user original, edited source cover, carriage interior and station landscape inspected. User cover corrections retain VR/headphones/X-mask on main appearances; sheets show one named identity each under authorized collection scope. No existing depiction for narrator/gods; visual interpretations named as art-only. No myth-based identity import.",
+  "characters": [
+    {
+      "id": "clotho",
+      "name": "Clotho",
+      "role": "Black-haired Fate, playful interlocutor and organizer of farewell",
+      "selectionEvidence": [
+        {
+          "quote": "black hair, a dark visor",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Clotho lowered her visor",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "She gave my hand a squeeze",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "One of three named living Fates, a woman with black hair, dark visor, deep-pocket punk coat and boots; carries bruised peach and trades/shares food.",
+          "Source local portrayal is a modern person with agency and relationships; no mythic thread/scissors/spindle imported. User source-image visor must cover eyes in primary representation."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: One of three named living Fates, a woman with black hair, dark visor, deep-pocket punk coat and boots; carries bruised peach and trades/shares food.",
+        "Source-local non-canon fact: Source local portrayal is a modern person with agency and relationships; no mythic thread/scissors/spindle imported. User source-image visor must cover eyes in primary representation."
+      ],
+      "visualInterpretation": [
+        "Actual original left figure: short shaggy spiky black hair, pale neutral skin, slim androgynous adult woman, black hoodie under oversized weathered black patched coat, very baggy charcoal trousers and black canvas high-top boots; matte black VR headset with gray frame.",
+        "Source depicts raising/lowering visor; chosen primary sheet keeps visor down in all views per explicit visual preference. No magic equipment powers added."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Playful meal exchange and pleased farewell; full-body coat and visor design."
+        }
+      ],
+      "naming": {
+        "sourceName": "Clotho",
+        "provenance": "Exact proper name in fully read finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:clotho",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+          "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+          "inspected": true,
+          "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+        },
+        {
+          "path": "stories/the-next-train/title-image.jpg",
+          "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+          "inspected": true,
+          "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/clotho.png",
+      "status": "deferred",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve black shaggy hair and VR headset completely covering both eyes in EVERY view, black coat and peach. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-68b22073-b22c-4a85-825a-b7c91062e5c7.png",
+            "sha256": "545efe9ee20e6c77f63f526393bf8c59cd5b022254fe1ad05d708e295030cbf0",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Clotho. Extract ONLY LEFT BLACK-HAIRED figure from references2/3, render as ONE adult woman with same slim androgynous punk identity, fair skin, shaggy short spiky BLACK hair. Dark rectangular VR HEADSET covers BOTH EYES in EVERY view, broad grey-edged frame and black strap behind head; NEVER raised on forehead. Black hoodie under oversized worn BLACK patched coat, loose CHARCOAL trousers, black canvas high-top BOOTS with pale soles/laces. Full Front/Back, hands casually at coat pockets naturally attached. Two head portraits Wry and Pleased, emotions in mouth/chin/posture beneath visor, no visible eyes. Small waist-up Trading a peach holding ONE bruised peach close to own torso, no isolated hands or other person. Preserve actual subject design but entirely broad matte oils; no threads, scissors, halo, weapon, station scenery or copied background slogans.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+                "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+                "inspected": true,
+                "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+              },
+              {
+                "path": "stories/the-next-train/title-image.jpg",
+                "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+                "inspected": true,
+                "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.248913+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:04:28.212080+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-68b22073-b22c-4a85-825a-b7c91062e5c7.png",
+            "candidateSha256": "545efe9ee20e6c77f63f526393bf8c59cd5b022254fe1ad05d708e295030cbf0",
+            "reviewedAt": "2026-09-24T12:16:50.141013+00:00",
+            "findings": "Source identity/equipment/layout accurate, but face and hair retain flat anime ink/cel rendering rather than approved opaque sculpted oils; small foot shadow marks also removed."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve black shaggy hair and VR headset completely covering both eyes in EVERY view, black coat and peach. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-68b22073-b22c-4a85-825a-b7c91062e5c7.png",
+                "sha256": "545efe9ee20e6c77f63f526393bf8c59cd5b022254fe1ad05d708e295030cbf0",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+              }
+            ],
+            "submittedAt": "2026-09-24T12:16:50.141064+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-9a77d7d1-b40b-4df2-b15a-7631ef82fcc6.png",
+            "candidateSha256": "aa1f12e7a3a6af2057a0b5956ef340c8b2ebb892916a9ad859bb891781d2d301",
+            "reviewedAt": "2026-09-24T13:08:15.179512+00:00",
+            "findings": [
+              "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+            ]
+          }
+        ]
+      },
+      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+    },
+    {
+      "id": "lachesis",
+      "name": "Lachesis",
+      "role": "Pink-haired Fate and concert enthusiast whose desire guides the diversion",
+      "selectionEvidence": [
+        {
+          "quote": "Pink Hair put her fork down",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "I wanted you to hear it",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "Lachesis checked her phone",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Named Fate and adult woman; pink hair, enormous headphones, tickets/phone and napkins; enjoys and shares live music.",
+          "Source image emphasizes headphones covering ears. No weapon, thread, fixed future mechanism or orchestra powers inferred."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Named Fate and adult woman; pink hair, enormous headphones, tickets/phone and napkins; enjoys and shares live music.",
+        "Source-local non-canon fact: Source image emphasizes headphones covering ears. No weapon, thread, fixed future mechanism or orchestra powers inferred."
+      ],
+      "visualInterpretation": [
+        "Original middle figure: fair warm skin, short choppy bright pink hair with spiky tied tufts, black/red skull-marked earcups, oversized red-black punk jacket over grey shirt, black torn-knee trousers and heavy black buckle boots.",
+        "Adult apparent mid20s chosen for art; ordinary punk human anatomy, no anime exaggerated head/eyes."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Listening and Hurt expressions; enthusiastic phone/music sharing, headphones retained over ears."
+        }
+      ],
+      "naming": {
+        "sourceName": "Lachesis",
+        "provenance": "Exact proper name in fully read finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:lachesis",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+          "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+          "inspected": true,
+          "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+        },
+        {
+          "path": "stories/the-next-train/title-image.jpg",
+          "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+          "inspected": true,
+          "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/lachesis.png",
+      "status": "deferred",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve PINK hair and huge skull headphones covering both ears in EVERY view, red-black jacket and phone. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-67ac3b28-2dbf-47b7-8786-0c8b869bb167.png",
+            "sha256": "12f9d0a7b6ec068e72fed7e5747084c5fe7fd5c0443e24dc84bad96fb7c98d79",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Lachesis. Extract ONLY MIDDLE PINK-HAIRED woman from references2/3: adult mid20s slim human with fair warm skin, short CHOPPY HOT-PINK spiky hair, same expressive rounded face. HUGE black/red headphones with simple WHITE SKULL design cover BOTH EARS in EVERY view; do not move to neck. Oversized red-and-black patched PUNK JACKET over grey shirt, black loose jeans torn at knees, heavy black multiple-buckle boots. Full Front/Back. Two head portraits Listening with gently closed eyes and Hurt with lowered gaze, ordinary painted expressive features not anime eyes. Third waist-up Sharing music, holds plain smartphone against torso while headphones remain on ears; no screen text or additional figure. Character identity/pink color from refs2/3, all rendering large MATTE oil masses from ref1; no thread/scissors/halo, scenery or isolated hand studies.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+                "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+                "inspected": true,
+                "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+              },
+              {
+                "path": "stories/the-next-train/title-image.jpg",
+                "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+                "inspected": true,
+                "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.248975+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:04:28.212831+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-67ac3b28-2dbf-47b7-8786-0c8b869bb167.png",
+            "candidateSha256": "12f9d0a7b6ec068e72fed7e5747084c5fe7fd5c0443e24dc84bad96fb7c98d79",
+            "reviewedAt": "2026-09-24T12:16:50.145063+00:00",
+            "findings": "Source identity/equipment/layout accurate, but face and hair retain flat anime ink/cel rendering rather than approved opaque sculpted oils; small foot shadow marks also removed."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve PINK hair and huge skull headphones covering both ears in EVERY view, red-black jacket and phone. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-67ac3b28-2dbf-47b7-8786-0c8b869bb167.png",
+                "sha256": "12f9d0a7b6ec068e72fed7e5747084c5fe7fd5c0443e24dc84bad96fb7c98d79",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+              }
+            ],
+            "submittedAt": "2026-09-24T12:16:50.145125+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-e7238cb3-32b8-46f1-99d3-6bd1c8ce678f.png",
+            "candidateSha256": "ba3d7a2ba5540a40dc032aa97096c96a7588cd8996285d48bf09e00c094a48e8",
+            "reviewedAt": "2026-09-24T13:08:15.179530+00:00",
+            "findings": [
+              "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+            ]
+          }
+        ]
+      },
+      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+    },
+    {
+      "id": "atropos",
+      "name": "Atropos",
+      "role": "Blue-haired Fate with bounded deliberate foresight and practical care",
+      "selectionEvidence": [
+        {
+          "quote": "blue-haired under a knitted beanie",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "You might knock it over",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "About three seconds of it",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Named Fate and woman, blue hair beneath knitted beanie, mask, backpack with paperback/cable/clean bag, tea flask.",
+          "Foresight is deliberate effortful look about three seconds ahead in enacted example; no visible body transformation, death weapon or universal destiny powers. Cover/original mask has black X and covers nose/mouth."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Named Fate and woman, blue hair beneath knitted beanie, mask, backpack with paperback/cable/clean bag, tea flask.",
+        "Source-local non-canon fact: Foresight is deliberate effortful look about three seconds ahead in enacted example; no visible body transformation, death weapon or universal destiny powers. Cover/original mask has black X and covers nose/mouth."
+      ],
+      "visualInterpretation": [
+        "Original right: cool pale skin, short muted blue hair under black ribbed beanie, white mask with solid black X, olive-grey bomber over black hooded top, baggy black cuffed trousers, black/white canvas high-tops.",
+        "Omit incidental original skateboard because not used in finished source; practical black backpack and tea flask supply source supported props."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Attentive and Dry amusement through eyes above mask; ordinary flask/backpack states."
+        }
+      ],
+      "naming": {
+        "sourceName": "Atropos",
+        "provenance": "Exact proper name in fully read finished source."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:atropos",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+          "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+          "inspected": true,
+          "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+        },
+        {
+          "path": "stories/the-next-train/title-image.jpg",
+          "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+          "inspected": true,
+          "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/atropos.png",
+      "status": "deferred",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve BLUE hair, black beanie, white mask with black X completely covering nose/mouth in EVERY view, olive jacket, backpack and flask. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a0e0a46-ee53-40df-9f77-cdcc267ad57a.png",
+            "sha256": "4f35e6ad2ab0ebe7877cacb17d9f4848e6d4a98c7124485cc6062314a61e4859",
+            "inspected": true,
+            "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+          },
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Atropos. Extract ONLY RIGHT BLUE-HAIRED woman from references2/3: adult mid20s lean human, cool fair skin, short muted BLUE hair under BLACK rib-knit BEANIE. WHITE FACE MASK with ONE large BLACK X covers her NOSE AND MOUTH in EVERY view; never lower, never replace by symbol on forehead. Olive-grey roomy BOMBER JACKET over black hoodie, baggy charcoal cuffed trousers and black-white canvas high-tops. Full Front with practical BLACK BACKPACK worn and Back clearly showing backpack straps/body, ordinary attached arms. Two head portraits Attentive and Dry amusement readable through narrowed eyes/brows above mask. One waist-up Tea state holding ordinary steel thermos flask at torso, no visions/halos/glowing eyes/prophetic symbols. No skateboard, scissors, other person, scene, isolated hands or swatches. Broad matte PAINTED face and cloth instead of anime.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-a1705830-14be-47fe-8678-dc6721e99969.png",
+                "sha256": "bd8ac03a988ccde5ad5d764cccb2e235599ed5b7b44cebd060a17ca8a3df8b65",
+                "inspected": true,
+                "role": "Recovered exact supplied original, personally inspected. Individual left Clotho/middle Lachesis/right Atropos identity and important VR/headphones/X-mask clothing designs; content reference only, replace anime finish with matte oils."
+              },
+              {
+                "path": "stories/the-next-train/title-image.jpg",
+                "sha256": "53b8a74b48adee30c926fe14098e480fc97535754ccbaeee2a9efa434253a202",
+                "inspected": true,
+                "role": "Source cover inspected, confirms three Fates appearance and essential covered eyes/ears/mouth design; subordinate identity reference only, no title/scene/group copied."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.248990+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:04:28.213473+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a0e0a46-ee53-40df-9f77-cdcc267ad57a.png",
+            "candidateSha256": "4f35e6ad2ab0ebe7877cacb17d9f4848e6d4a98c7124485cc6062314a61e4859",
+            "reviewedAt": "2026-09-24T12:16:50.148379+00:00",
+            "findings": "Source identity/equipment/layout accurate, but face and hair retain flat anime ink/cel rendering rather than approved opaque sculpted oils; small foot shadow marks also removed."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "PAINT-STYLE CORRECTION of attached character sheet1. Preserve exact named identity, ALL headings/labels, body poses, costume/colors/equipment and face likeness; subject remains adult woman. REPAINT the entire subject in thick SCULPTED MATTE OIL like references2/3: broad CONNECTED palette-knife slabs and directional bristles with selective physically raised impasto. Critically face/neck/nose/mouth/ears/eyes and HAIR must be built from 10-15 broad opaque joined painted planes, as tangible as the coat, no black ink contour/cel shading, no smooth anime face beneath texture. Keep recognizable subject's own likeness; ref3 only illustrates painted skin, NEVER copy its woman/medieval clothes. Preserve BLUE hair, black beanie, white mask with black X completely covering nose/mouth in EVERY view, olive jacket, backpack and flask. Paint practical ceiling-light planes and deep cool shadows with same form; no glossy rendering. Remove only tiny ground/shadow strokes below feet so whole background is light warm IVORY, no scenery or portrait backdrops. No new details, isolated hand study, side exercise or object. 1536x1024.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a0e0a46-ee53-40df-9f77-cdcc267ad57a.png",
+                "sha256": "4f35e6ad2ab0ebe7877cacb17d9f4848e6d4a98c7124485cc6062314a61e4859",
+                "inspected": true,
+                "role": "Immutable inspected candidate edit target; preserve successful likeness/layout/anatomy except stated correction."
+              },
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Approved Sculpted Impasto tactile painted facial planes ONLY, never identity/clothes/background. Added because source anime leaked into first candidates."
+              }
+            ],
+            "submittedAt": "2026-09-24T12:16:50.148425+00:00",
+            "preflight": "Actual candidate pixels inspected against fully read source and selected references; exact observed failures corrected while preserving successful invariants.",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-3a61b41f-fdc8-4305-8a0c-eca1437abcdf.png",
+            "candidateSha256": "50225b093936fc180dcd9077aae1e72e41127de4b7dcf2d89abba36baa4917e0",
+            "reviewedAt": "2026-09-24T13:08:15.179536+00:00",
+            "findings": [
+              "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+            ]
+          }
+        ]
+      },
+      "deferredReason": "User ended generation and requested publication of finished sheets. Existing candidate retains anime-derived facial structure/ink contours; root reviewed and deferred for style correction. No new generation authorized in wrap-up."
+    },
+    {
+      "id": "ivarnel-esset",
+      "name": "Ivarnel Esset",
+      "role": "Unnamed commuter narrator who shares takeaway and deliberately diverts gods",
+      "selectionEvidence": [
+        {
+          "quote": "I was rescuing my dumplings",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "I was going west",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "I stayed in my seat.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed ordinary modern office worker and first-person narrator; takeaway family carton, sauce tubs, phone and clean shopping bag; misses trains and chooses conversation/companionship.",
+          "No explicit gender/age/ethnicity or physical description; no supernatural power supported."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed ordinary modern office worker and first-person narrator; takeaway family carton, sauce tubs, phone and clean shopping bag; misses trains and chooses conversation/companionship.",
+        "Source-local non-canon fact: No explicit gender/age/ethnicity or physical description; no supernatural power supported."
+      ],
+      "visualInterpretation": [
+        "Art-only name and androgynous adult appearance: apparent32 medium warm-brown skin, short curly black hair, deep-set brown eyes, broad soft nose, modest average build.",
+        "Mustard cotton office shirt, slate-blue cardigan, charcoal trousers and worn brown shoes chosen as restrained modern commuter clothes; not canon."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Embarrassed catch, amused conversation, thoughtful choice to remain; ordinary phone/bag."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed commuter narrator",
+        "artOnlyName": "Ivarnel Esset",
+        "provenance": "Distinct new name assigned under explicit user naming direction. Exact first/full name checked over universe, stories and specifications with no collision before creation; art-only identity, no prose/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:ivarnel-esset",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/ivarnel-esset.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Ivarnel Esset. ONE ordinary androgynous HUMAN adult32, medium warm-BROWN skin, short CURLY BLACK hair, brown deep-set eyes, broad soft nose and average build, no resemblance to any other artwork. Modern commuter: muted MUSTARD shirt, open SLATE BLUE knitted cardigan, CHARCOAL trousers, worn BROWN low shoes. Full Front holding closed takeaway CARTON close at waist and simple clean cream SHOPPING BAG, Full Back same outfit. Three head portraits Embarrassed, Amused, Considering. One small waist-up Listening while looking at plain smartphone, no screen writing. Everyday warmth, no magic, no gods in picture. Broad matte oil facial planes, warm practical ceiling light and cool shadows, ivory clear; no isolated hands/scene/swatches.",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Ivarnel Esset. ONE ordinary androgynous HUMAN adult32, medium warm-BROWN skin, short CURLY BLACK hair, brown deep-set eyes, broad soft nose and average build, no resemblance to any other artwork. Modern commuter: muted MUSTARD shirt, open SLATE BLUE knitted cardigan, CHARCOAL trousers, worn BROWN low shoes. Full Front holding closed takeaway CARTON close at waist and simple clean cream SHOPPING BAG, Full Back same outfit. Three head portraits Embarrassed, Amused, Considering. One small waist-up Listening while looking at plain smartphone, no screen writing. Everyday warmth, no magic, no gods in picture. Broad matte oil facial planes, warm practical ceiling light and cool shadows, ivory clear; no isolated hands/scene/swatches.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.249001+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:26:45.739528+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-4a9acd42-0211-4897-9f26-c8d15ada62a9.png",
+            "candidateSha256": "8294546d0c839284db25111e4519dc270ef354769f2d194e38bd6e4273e7aef3",
+            "reviewedAt": "2026-09-24T12:43:56.445743+00:00",
+            "findings": [
+              "Actual 1536x1024 pixels inspected: newly named ordinary narrator has consistent short curls, warm-brown skin, mustard shirt/slate cardigan and simple modern commuter proportions across all views.",
+              "Source takeaway carton, clean bag and phone support ordinary relationship states; no divine power. Listening study includes everyday wired earbud as noncanonical appearance interpretation, not a claimed story event.",
+              "Strong matte connected painted facial planes match body/clothing; practical warm interior light and cool shadows, unclipped figures, readable name/title and expressions, no scene/palette/isolated hands."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "8294546d0c839284db25111e4519dc270ef354769f2d194e38bd6e4273e7aef3",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T12:43:56.449147+00:00",
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "8294546d0c839284db25111e4519dc270ef354769f2d194e38bd6e4273e7aef3",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "evidence": [
+          "Actual 1536x1024 pixels inspected: newly named ordinary narrator has consistent short curls, warm-brown skin, mustard shirt/slate cardigan and simple modern commuter proportions across all views.",
+          "Source takeaway carton, clean bag and phone support ordinary relationship states; no divine power. Listening study includes everyday wired earbud as noncanonical appearance interpretation, not a claimed story event.",
+          "Strong matte connected painted facial planes match body/clothing; practical warm interior light and cool shadows, unclipped figures, readable name/title and expressions, no scene/palette/isolated hands."
+        ],
+        "specificationSha256": "dd05cadd3467f67cc4e2657b170b768aa860b5f9bdb279faa79daa899d81b22a"
+      }
+    },
+    {
+      "id": "maevrissa",
+      "name": "Maevrissa",
+      "role": "Unnamed goddess of marriage and music patron seeking connection with Fates",
+      "selectionEvidence": [
+        {
+          "quote": "long red coat",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "bouquet of white lilies",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "I'm the one who married them.",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed goddess recognizes and blesses marriages, temple singers; long red coat, phone, white lily bouquet tied red ribbon, one crushed bloom.",
+          "Red spark breathed over a wedding ring in a specific blessing; no required visible halo, armor, wings or goddess genealogy."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed goddess recognizes and blesses marriages, temple singers; long red coat, phone, white lily bouquet tied red ribbon, one crushed bloom.",
+        "Source-local non-canon fact: Red spark breathed over a wedding ring in a specific blessing; no required visible halo, armor, wings or goddess genealogy."
+      ],
+      "visualInterpretation": [
+        "Art-only identity adult apparent45 with deep warm-brown skin, long straight black hair tied into low neat knot, dark eyes, high forehead, strong jaw and impatient brow crease.",
+        "Long red wool coat over charcoal midi dress, black ankle boots; restrained tiny gold earrings and bouquet reflect modern dignified visitor. No classical goddess name inferred."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Impatient invitation, hurt realization, listening to singer; intact bouquet with one crushed lily."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed marriage goddess",
+        "artOnlyName": "Maevrissa",
+        "provenance": "Distinct new name assigned under explicit user naming direction. Exact first/full name checked over universe, stories and specifications with no collision before creation; art-only identity, no prose/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:maevrissa",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/maevrissa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Maevrissa. ONE divine woman in HUMAN form, apparent45, deep warm-BROWN skin, strong jaw/high forehead, dark eyes with impatient crease, long BLACK hair arranged in neat LOW KNOT. Long rich RED WOOL COAT over simple charcoal calf dress, practical black ankle boots, tiny gold earrings. Full Front holding bouquet of WHITE LILIES with RED RIBBON, one bloom visibly bent/crushed, and plain phone; Full Back shows same red coat/hair knot. Two large expressive head portraits Impatient and Listening, third waist-up holding the bouquet close, restraint and hurt. No need to visualize magic; no ring-hand inset, red aura/halo/wings/crown, other person or throne. Flesh and red wool built from broad connected opaque matte oils, meaningful warm train ceiling light and cool shadows. No isolated hands/scenery/swatches.",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Maevrissa. ONE divine woman in HUMAN form, apparent45, deep warm-BROWN skin, strong jaw/high forehead, dark eyes with impatient crease, long BLACK hair arranged in neat LOW KNOT. Long rich RED WOOL COAT over simple charcoal calf dress, practical black ankle boots, tiny gold earrings. Full Front holding bouquet of WHITE LILIES with RED RIBBON, one bloom visibly bent/crushed, and plain phone; Full Back shows same red coat/hair knot. Two large expressive head portraits Impatient and Listening, third waist-up holding the bouquet close, restraint and hurt. No need to visualize magic; no ring-hand inset, red aura/halo/wings/crown, other person or throne. Flesh and red wool built from broad connected opaque matte oils, meaningful warm train ceiling light and cool shadows. No isolated hands/scenery/swatches.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.249011+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:26:45.739865+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-85c04c14-d623-4103-807c-85ba637797a0.png",
+            "candidateSha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+            "reviewedAt": "2026-09-24T12:43:56.459377+00:00",
+            "findings": [
+              "Actual pixels inspected: named art-only marriage goddess has consistent mature face/low black knot, source long red coat, phone and white lily bouquet tied red with one crushed drooping bloom.",
+              "Impatient and listening faces plus restrained bouquet-holding state preserve source relationship roles without invented halo, wings or mythic equipment.",
+              "Broad opaque skin/cloth/lily oil masses and selective impasto, clear ivory ground, full silhouettes and exact name/title readable. No isolated hand study."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T12:43:56.461622+00:00",
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "52b751180b8b3fd8cbc941e0e744c8c96d0300b8063b20a917e461924e45a8cc",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: named art-only marriage goddess has consistent mature face/low black knot, source long red coat, phone and white lily bouquet tied red with one crushed drooping bloom.",
+          "Impatient and listening faces plus restrained bouquet-holding state preserve source relationship roles without invented halo, wings or mythic equipment.",
+          "Broad opaque skin/cloth/lily oil masses and selective impasto, clear ivory ground, full silhouettes and exact name/title readable. No isolated hand study."
+        ],
+        "specificationSha256": "bc2b597df5930d84f65e7be29f4d774a0a600a0e67977095144a1c33fbed77b1"
+      }
+    },
+    {
+      "id": "odravel",
+      "name": "Odravel",
+      "role": "Unnamed revel god whose curiosity yields to shared listening",
+      "selectionEvidence": [
+        {
+          "quote": "broad man in a gold suit",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "He tugged down his waistcoat",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        },
+        {
+          "quote": "each carrying a different voice",
+          "explanation": "Exact finished-source evidence for major enacted role, form or state."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "facts": [
+          "Unnamed broad man/god in gold suit with waistcoat, appears on autumn-revel posters and proclaims temple opening; voice/laughter can contain several echoes/voices.",
+          "Smells of oranges/hot stage lights; accepts/returns small silver cup. No multiple bodies/heads or permanent visual aura described."
+        ]
+      },
+      "explicitCanon": [
+        "Source-local non-canon fact: Unnamed broad man/god in gold suit with waistcoat, appears on autumn-revel posters and proclaims temple opening; voice/laughter can contain several echoes/voices.",
+        "Source-local non-canon fact: Smells of oranges/hot stage lights; accepts/returns small silver cup. No multiple bodies/heads or permanent visual aura described."
+      ],
+      "visualInterpretation": [
+        "Art-only identity apparent50 broad full-bodied man, warm light-brown skin, curly copper-brown hair receding at temples, short neat beard, brown eyes and expressive round cheeks.",
+        "Muted gold suit/waistcoat, cream shirt, dark chestnut shoes; reflective cloth rendered matte layered oil, not metallic skin."
+      ],
+      "states": [
+        {
+          "name": "Source states",
+          "description": "Expansive laughter, checked embarrassment and attentive song-listening."
+        }
+      ],
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "unnamed revel god",
+        "artOnlyName": "Odravel",
+        "provenance": "Distinct new name assigned under explicit user naming direction. Exact first/full name checked over universe, stories and specifications with no collision before creation; art-only identity, no prose/canon edit."
+      },
+      "recurrence": {
+        "identityKey": "the-next-train:odravel",
+        "links": [],
+        "evidence": "No supported matching shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+          "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+          "inspected": true,
+          "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+        }
+      ],
+      "output": "stories/the-next-train/art/characters/odravel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Odravel. ONE broad full-bodied divine man in HUMAN form, apparent50, warm light-brown skin, round expressive cheeks, brown eyes, CURLY copper-brown receding hair and short neatly trimmed beard. Modern GOLD SUIT and matching WAISTCOAT over cream shirt, brown tie and dark chestnut shoes. Fabric is dull golden cloth, skin remains natural. Full Front holding one tiny SILVER CUP casually at own chest, Full Back same coat. Three head portraits Laughing, Chastened, Listening; all one head/ordinary anatomy, no multiplied echo mouths/heads. Small waist-up singing four soft notes indicated only by relaxed open mouth/posture, NO written notes/effects. Warm overhead carriage lamp planes with cool shadows; broad connected MATTE facial oil paint. No halos/crown/wings, other figures, isolated hands, furniture, scenes or swatches.",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET, one named identity only. Exact NAME as clear heading; smaller exact story title The Next Train. Warm LIGHT IVORY page, every gap ivory, generous margins. Two complete unclipped full-body views Front and Back plus two or three expressive head/upper-body states. NO isolated hand studies, floor patches/shadows, portrait backdrops, locations, swatches, palette strips or other figures. Use HEAVY MATTE SCULPTED OILS matching reference1 Canadian Group of Seven painting: broad CONNECTED opaque interlocking masses, directional knife/bristle, selective raised impasto and quiet joins. FACES, hair, eyes and mouths painted with the SAME bold texture as clothing, no anime, smooth photos, plastic CG or texture-filter realism. Warm practical overhead train/station light and rich cool blue-gray shadow, dark fabric remains dark. Heading Odravel. ONE broad full-bodied divine man in HUMAN form, apparent50, warm light-brown skin, round expressive cheeks, brown eyes, CURLY copper-brown receding hair and short neatly trimmed beard. Modern GOLD SUIT and matching WAISTCOAT over cream shirt, brown tie and dark chestnut shoes. Fabric is dull golden cloth, skin remains natural. Full Front holding one tiny SILVER CUP casually at own chest, Full Back same coat. Three head portraits Laughing, Chastened, Listening; all one head/ordinary anatomy, no multiplied echo mouths/heads. Small waist-up singing four soft notes indicated only by relaxed open mouth/posture, NO written notes/effects. Warm overhead carriage lamp planes with cool shadows; broad connected MATTE facial oil paint. No halos/crown/wings, other figures, isolated hands, furniture, scenes or swatches.",
+            "references": [
+              {
+                "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+                "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+                "inspected": true,
+                "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+              }
+            ],
+            "preparedAt": "2026-09-24T12:04:27.249024+00:00",
+            "preflight": "Full finished source and actual selected reference pixels inspected. One named identity, source-supported states and source/design differences checked. Broad matte oils, clean ivory composition; no isolated hand studies or speculative hand corrections.",
+            "submittedAt": "2026-09-24T12:26:45.740092+00:00",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d306-94bc-7740-ab2e-a7d67e4fddd9\\exec-0a9b8739-ffce-47f2-9ee8-ee2510573b58.png",
+            "candidateSha256": "63c052cafd6c46fd80d3698e33890f33d6dca45700539b6887954000286bee27",
+            "reviewedAt": "2026-09-24T12:43:56.471777+00:00",
+            "findings": [
+              "Actual pixels inspected: broad adult human-form revel god with natural skin, copper curls/beard, source gold cloth suit and waistcoat, tiny silver cup; all views share identity.",
+              "Laughter/chastened/listening/singing states shown by single ordinary head and posture, not invented multiple bodies or permanent aura.",
+              "Broad matte gold cloth and fleshy connected oil planes, practical warm light/cool shadow, readable exact name/title and unclipped bodies, no location/swatches/isolated hands."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "63c052cafd6c46fd80d3698e33890f33d6dca45700539b6887954000286bee27",
+      "validation": {
+        "status": "PASS",
+        "reviewer": "assigned character-art worker; direct full-size pixel inspection",
+        "reviewedAt": "2026-09-24T12:43:56.473898+00:00",
+        "sourceSha256": "497e099204bcd40b32ab31e6c46e138e2eeb5cf0397404b8ef423b91e31fe5fd",
+        "outputSha256": "63c052cafd6c46fd80d3698e33890f33d6dca45700539b6887954000286bee27",
+        "references": [
+          {
+            "path": "stories/the-next-train/art/interiors/01-the-last-carriage.png",
+            "sha256": "f75f03f545f8ab068b72f63c593e4d8c0b6f90df2e00c08b756eddee16e6b515",
+            "inspected": true,
+            "role": "PRIMARY actual same-story Group of Seven matte oil masses and practical warm ceiling-light/cool-shadow palette; no train furniture or scene reproduced."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: broad adult human-form revel god with natural skin, copper curls/beard, source gold cloth suit and waistcoat, tiny silver cup; all views share identity.",
+          "Laughter/chastened/listening/singing states shown by single ordinary head and posture, not invented multiple bodies or permanent aura.",
+          "Broad matte gold cloth and fleshy connected oil planes, practical warm light/cool shadow, readable exact name/title and unclipped bodies, no location/swatches/isolated hands."
+        ],
+        "specificationSha256": "388cb7c46f92c87433cf1c9c7c79386e24a5261687546b424771efa6109e674d"
+      }
+    }
+  ]
+}

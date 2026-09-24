@@ -1,0 +1,1778 @@
+{
+  "schemaVersion": 1,
+  "slug": "four-crowns-in-hiding",
+  "title": "Four Crowns in Hiding",
+  "source": "stories/four-crowns-in-hiding/story.md",
+  "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose read. Four princesses and four distinct hosts supply sustained decisions in their relay sections and finale; Kalmid supplies the purposeful counteraction and capture. Nine named central/supporting participants.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Four escort riders, watch crews and mirror workers",
+      "reason": "Undifferentiated task groups without distinct sustained individual identity."
+    },
+    {
+      "name": "Sisters mother and generals",
+      "reason": "Mentioned background figures, no present dramatic participation."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/style-guide.md#Personhood and moral consequence",
+    "universe/characters.md and stories/NAMES.md searched: no matching names"
+  ],
+  "characters": [
+    {
+      "id": "ilvara",
+      "name": "Ilvara",
+      "role": "Eldest princess and Nalevane sanctuary negotiator",
+      "naming": {
+        "sourceName": "Ilvara",
+        "sourceRole": "Eldest princess and Nalevane sanctuary negotiator",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "The west mirror flashed while Ilvara was scraping salt from its hinge.",
+          "line": 11,
+          "explanation": "Eldest princess and Nalevane sanctuary negotiator"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Woman about28, tall with a long oval face, warm olive skin, long straight nose, dark-brown eyes, thick near-black wavy hair braided into a low coil. Reserved upright posture. Plain faded blue-gray long-sleeved linen work tunic, charcoal ankle-length divided overskirt over dark trousers, narrow worn leather belt and dark ankle boots. A few salt marks on cuffs.",
+        "markings": "Adult sister-princess; eldest. Handles a bone scraper and tide ledger; formal fear posture, practical work after decision. No literal crown or specific costume in prose.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Woman about28, tall with a long oval face, warm olive skin, long straight nose, dark-brown eyes, thick near-black wavy hair braided into a low coil. Reserved upright posture. Plain faded blue-gray long-sleeved linen work tunic, charcoal ankle-length divided overskirt over dark trousers, narrow worn leather belt and dark ankle boots. A few salt marks on cuffs.",
+        "equipment": "A small blunt ivory bone scraper and closed clothbound tide ledger; no mirror mast or relay plate.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Woman about28, tall with a long oval face, warm olive skin, long straight nose, dark-brown eyes, thick near-black wavy hair braided into a low coil. Reserved upright posture. Plain faded blue-gray long-sleeved linen work tunic, charcoal ankle-length divided overskirt over dark trousers, narrow worn leather belt and dark ankle boots. A few salt marks on cuffs."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult sister-princess; eldest. Handles a bone scraper and tide ledger; formal fear posture, practical work after decision. No literal crown or specific costume in prose."
+      ],
+      "visualInterpretation": [
+        "Woman about28, tall with a long oval face, warm olive skin, long straight nose, dark-brown eyes, thick near-black wavy hair braided into a low coil. Reserved upright posture. Plain faded blue-gray long-sleeved linen work tunic, charcoal ankle-length divided overskirt over dark trousers, narrow worn leather belt and dark ankle boots. A few salt marks on cuffs.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "DUSK/NIGHT indoors with subdued cool dusk fill and soft local oil-lamp face planes; broad muted darks."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:ilvara",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+          "inspected": true,
+          "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/ilvara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected edge on opposing planes. Keep paint physical and broad, not a digitally smooth brightness filter; no glowing outline, hard orange rim, neon contrast or new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-6861292c-100d-4ab6-9acb-1c052430b3a9.png",
+            "sha256": "036c9c8bbcc453c863cabad83245ec2366ea870d112c368032feb543d7b09444",
+            "inspected": true,
+            "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+            "inspected": true,
+            "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:26:17.011098+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference is oil figure/folio technique only, NEVER copy Kelro's face, swept haircut, red coat or objects. SECOND reference supplies the story-motivated paint values/light below only; NO setting transfer. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Ilvara'. Woman about28, tall with a long oval face, warm olive skin, long straight nose, dark-brown eyes, thick near-black wavy hair braided into a low coil. Reserved upright posture. Plain faded blue-gray long-sleeved linen work tunic, charcoal ankle-length divided overskirt over dark trousers, narrow worn leather belt and dark ankle boots. A few salt marks on cuffs.\nSource boundaries: Adult sister-princess; eldest. Handles a bone scraper and tide ledger; formal fear posture, practical work after decision. No literal crown or specific costume in prose.\nPersonal tools: A small blunt ivory bone scraper and closed clothbound tide ledger; no mirror mast or relay plate.\nPortrait labels 'Considering' and 'Resolved'. Lighting: DUSK/NIGHT indoors with subdued cool dusk fill and soft local oil-lamp face planes; broad muted darks. No literal crown.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+                "inspected": true,
+                "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-6861292c-100d-4ab6-9acb-1c052430b3a9.png",
+            "outputSha256": "036c9c8bbcc453c863cabad83245ec2366ea870d112c368032feb543d7b09444",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:30:54.846045+00:00",
+            "review": "Source-specific low evening/lamplight not achieved: figures too evenly and warmly lit. Mirdakai also too close to Ilvara in face/hair design."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:30:54.846066+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected edge on opposing planes. Keep paint physical and broad, not a digitally smooth brightness filter; no glowing outline, hard orange rim, neon contrast or new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-6861292c-100d-4ab6-9acb-1c052430b3a9.png",
+                "sha256": "036c9c8bbcc453c863cabad83245ec2366ea870d112c368032feb543d7b09444",
+                "inspected": true,
+                "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+                "inspected": true,
+                "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fad34ec6-a89f-4a0b-b207-976d433a629d.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/ilvara.png",
+            "outputSha256": "82e479d7b62ee97f64ffcd14d02cece3a556b3f32510ea0dd55f6575079566dd",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:35:51.360074+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T02:35:51.360090+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "82e479d7b62ee97f64ffcd14d02cece3a556b3f32510ea0dd55f6575079566dd",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-6861292c-100d-4ab6-9acb-1c052430b3a9.png",
+            "sha256": "036c9c8bbcc453c863cabad83245ec2366ea870d112c368032feb543d7b09444",
+            "inspected": true,
+            "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+            "inspected": true,
+            "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+          }
+        ],
+        "evidence": [
+          "Actual second-candidate pixels inspected at full displayed size: exact name and title, all three full bodies and two painted heads readable and unclipped; blank warm ivory with no setting or swatches.",
+          "Local lamp-facing planes now separated from darker connected shadow masses; broad opaque oil remains on faces, clothing and gear.",
+          "Same individual proportions and face/hair through front, side, rear and portraits. Source-supported individual tools present; no crown or invented machine.",
+          "Ilvara retains long oval face, low braided coil, work layers, bone scraper and ledger."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a103605f3f278747320da3622fe5dc977c146cee7171cfd76fa58036381c6d57"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "82e479d7b62ee97f64ffcd14d02cece3a556b3f32510ea0dd55f6575079566dd"
+    },
+    {
+      "id": "breqen",
+      "name": "Breqen",
+      "role": "Tide-reader who governs Nalevane relay and refuses unsafe royal authority",
+      "naming": {
+        "sourceName": "Breqen",
+        "sourceRole": "Tide-reader who governs Nalevane relay and refuses unsafe royal authority",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Breqen looked up from the tide ledger.",
+          "line": 15,
+          "explanation": "Tide-reader who governs Nalevane relay and refuses unsafe royal authority"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Stocky heavyset man about56 with weathered tawny brown skin, broad square face, bulbous short nose, bald crown and close gray side hair, short square white-gray beard. Plain muted moss wool vest over rough cream rolled-sleeve shirt, blue-charcoal work trousers, worn knee-high dark waterproof boots, simple belt. No crown, uniform or insignia.",
+        "markings": "Adult man; tide ledger, charcoal, forwarding key at belt. Works in tide water; independent local authority, not royal servant.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Stocky heavyset man about56 with weathered tawny brown skin, broad square face, bulbous short nose, bald crown and close gray side hair, short square white-gray beard. Plain muted moss wool vest over rough cream rolled-sleeve shirt, blue-charcoal work trousers, worn knee-high dark waterproof boots, simple belt. No crown, uniform or insignia.",
+        "equipment": "Small iron forwarding key hanging from belt; closed tide ledger and charcoal stub.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Stocky heavyset man about56 with weathered tawny brown skin, broad square face, bulbous short nose, bald crown and close gray side hair, short square white-gray beard. Plain muted moss wool vest over rough cream rolled-sleeve shirt, blue-charcoal work trousers, worn knee-high dark waterproof boots, simple belt. No crown, uniform or insignia."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult man; tide ledger, charcoal, forwarding key at belt. Works in tide water; independent local authority, not royal servant."
+      ],
+      "visualInterpretation": [
+        "Stocky heavyset man about56 with weathered tawny brown skin, broad square face, bulbous short nose, bald crown and close gray side hair, short square white-gray beard. Plain muted moss wool vest over rough cream rolled-sleeve shirt, blue-charcoal work trousers, worn knee-high dark waterproof boots, simple belt. No crown, uniform or insignia.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "DUSK/NIGHT indoors with subdued cool dusk fill and soft local oil-lamp face planes; broad muted darks."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:breqen",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+          "inspected": true,
+          "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/breqen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST supplied image. Make ONE localized change in the THIRD full-body figure, the Back view. Move the forwarding key AND its belt attachment from viewerRIGHT hip to viewerLEFT hip in that BACK VIEW only. This makes it his anatomical LEFT hip, consistent with front view where it already hangs viewerRIGHT. Remove key/loop from old rear viewerRIGHT position cleanly. Keep front figure key, side figure, all separate details, portraits, every word, exact existing deep lamp lighting, paint, ivory and composition IDENTICAL. Do not mirror the entire figure or change anything else. No new scenery, person, palette/swatches, floor shadows, decorative text or rendering drift.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-49dde563-f4ad-4e2e-9e89-21cf30de0cd5.png",
+            "sha256": "0b6243301afc6e604a040414dc3d6431f60ce36255700ac930abfb8a733fac1b",
+            "inspected": true,
+            "role": "Actual inspected selected target; preserve except described correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:26:17.011682+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference is oil figure/folio technique only, NEVER copy Kelro's face, swept haircut, red coat or objects. SECOND reference supplies the story-motivated paint values/light below only; NO setting transfer. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Breqen'. Stocky heavyset man about56 with weathered tawny brown skin, broad square face, bulbous short nose, bald crown and close gray side hair, short square white-gray beard. Plain muted moss wool vest over rough cream rolled-sleeve shirt, blue-charcoal work trousers, worn knee-high dark waterproof boots, simple belt. No crown, uniform or insignia.\nSource boundaries: Adult man; tide ledger, charcoal, forwarding key at belt. Works in tide water; independent local authority, not royal servant.\nPersonal tools: Small iron forwarding key hanging from belt; closed tide ledger and charcoal stub.\nPortrait labels 'Watchful' and 'Firm'. Lighting: DUSK/NIGHT indoors with subdued cool dusk fill and soft local oil-lamp face planes; broad muted darks. No literal crown.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+                "inspected": true,
+                "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d8d7ef89-0c86-4464-810c-8c343c2436d8.png",
+            "outputSha256": "bc4ec3ddda0062a200fab62015ba23efbae5814be055f218c892e3f09a835c06",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:30:54.848981+00:00",
+            "review": "Source-specific low evening/lamplight not achieved: figures too evenly and warmly lit. Mirdakai also too close to Ilvara in face/hair design."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:30:54.848996+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected edge on opposing planes. Keep paint physical and broad, not a digitally smooth brightness filter; no glowing outline, hard orange rim, neon contrast or new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d8d7ef89-0c86-4464-810c-8c343c2436d8.png",
+                "sha256": "bc4ec3ddda0062a200fab62015ba23efbae5814be055f218c892e3f09a835c06",
+                "inspected": true,
+                "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+                "inspected": true,
+                "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-49dde563-f4ad-4e2e-9e89-21cf30de0cd5.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/breqen.png",
+            "outputSha256": "0b6243301afc6e604a040414dc3d6431f60ce36255700ac930abfb8a733fac1b",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:52:12.261172+00:00",
+            "priorVisualReview": {
+              "status": "PASS",
+              "reviewer": "cast_resume_2 actual-pixel assistant review",
+              "reviewedAt": "2026-09-24T02:35:51.383497+00:00",
+              "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+              "outputSha256": "0b6243301afc6e604a040414dc3d6431f60ce36255700ac930abfb8a733fac1b",
+              "references": [
+                {
+                  "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d8d7ef89-0c86-4464-810c-8c343c2436d8.png",
+                  "sha256": "bc4ec3ddda0062a200fab62015ba23efbae5814be055f218c892e3f09a835c06",
+                  "inspected": true,
+                  "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light"
+                },
+                {
+                  "path": "stories/four-crowns-in-hiding/art/interiors/01-nalevane-throne-room.png",
+                  "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                  "notes": "Dusk exterior blue-slate subdued fill and warm local oil lamps, large connected shadows.",
+                  "inspected": true,
+                  "sha256": "60d6fddb24d842f12bc1e7c3770e9efb61e901fa38d03ca3050114e8e89e0be7"
+                }
+              ],
+              "evidence": [
+                "Actual second-candidate pixels inspected at full displayed size: exact name and title, all three full bodies and two painted heads readable and unclipped; blank warm ivory with no setting or swatches.",
+                "Local lamp-facing planes now separated from darker connected shadow masses; broad opaque oil remains on faces, clothing and gear.",
+                "Same individual proportions and face/hair through front, side, rear and portraits. Source-supported individual tools present; no crown or invented machine.",
+                "Breqen retains heavy build, bald crown/short gray beard, key at belt, tide ledger and charcoal."
+              ],
+              "userApproval": "Full production authorized; final collection review pending.",
+              "specificationSha256": "8624363b0835a5feb17d49849ae6af1b54dbb1c5cb8919d223853b97da7db604"
+            },
+            "review": {
+              "status": "REVISE",
+              "evidence": "Root independent actual-pixel review: forwarding key switches anatomical sides from front to rear; move rear only."
+            }
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:52:12.261172+00:00",
+            "prompt": "Edit FIRST supplied image. Make ONE localized change in the THIRD full-body figure, the Back view. Move the forwarding key AND its belt attachment from viewerRIGHT hip to viewerLEFT hip in that BACK VIEW only. This makes it his anatomical LEFT hip, consistent with front view where it already hangs viewerRIGHT. Remove key/loop from old rear viewerRIGHT position cleanly. Keep front figure key, side figure, all separate details, portraits, every word, exact existing deep lamp lighting, paint, ivory and composition IDENTICAL. Do not mirror the entire figure or change anything else. No new scenery, person, palette/swatches, floor shadows, decorative text or rendering drift.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-49dde563-f4ad-4e2e-9e89-21cf30de0cd5.png",
+                "sha256": "0b6243301afc6e604a040414dc3d6431f60ce36255700ac930abfb8a733fac1b",
+                "inspected": true,
+                "role": "Actual inspected selected target; preserve except described correction"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-32e3b2e7-742c-45fd-911f-cb48dcf6465b.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/breqen.png",
+            "outputSha256": "bb3719c795351164750aa3498bc0b7aaeb1f97928d8d592192d5a7c55bfdb92d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:58:24.238056+00:00"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T04:58:24.238056+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "bb3719c795351164750aa3498bc0b7aaeb1f97928d8d592192d5a7c55bfdb92d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-49dde563-f4ad-4e2e-9e89-21cf30de0cd5.png",
+            "sha256": "0b6243301afc6e604a040414dc3d6431f60ce36255700ac930abfb8a733fac1b",
+            "inspected": true,
+            "role": "Actual inspected selected target; preserve except described correction"
+          }
+        ],
+        "evidence": [
+          "Root side-switch finding corrected and actual pixels inspected: rear key/attachment now viewerLEFT = anatomical LEFT; front key remains viewerRIGHT = anatomical LEFT; side and separate details unchanged.",
+          "Exact identity, body, labels, deep local lamp illumination, physical broad oils and blank ivory retained. All full views unclipped."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "e66baa723d57a4ed9e467b2383850f7b2fb9c669023ce0a928aa1d10bca36674"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "bb3719c795351164750aa3498bc0b7aaeb1f97928d8d592192d5a7c55bfdb92d"
+    },
+    {
+      "id": "mirdakai",
+      "name": "Mirdakai",
+      "role": "Second princess and Rusk Hollow timing analyst",
+      "naming": {
+        "sourceName": "Mirdakai",
+        "sourceRole": "Second princess and Rusk Hollow timing analyst",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Mirdakai wrote faster than the echoes came.",
+          "line": 63,
+          "explanation": "Second princess and Rusk Hollow timing analyst"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Woman about25, medium height, warm olive skin, broad round face, full cheeks, short rounded chin, small slightly upturned nose, dark brown eyes, thick dark-brown wavy hair in two separate thick braids over shoulders. Narrow practical shoulders and restless attentive hands. Plain ochre-brown wool overdress over a smoke-gray long-sleeve blouse and dark ankle boots; no jewels or crown.",
+        "markings": "Adult sister-princess; second in birth order. Writes with pen, shows path on slate, holds lamp during bell repair. Specific face/costume unspecified.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Woman about25, medium height, warm olive skin, broad round face, full cheeks, short rounded chin, small slightly upturned nose, dark brown eyes, thick dark-brown wavy hair in two separate thick braids over shoulders. Narrow practical shoulders and restless attentive hands. Plain ochre-brown wool overdress over a smoke-gray long-sleeve blouse and dark ankle boots; no jewels or crown.",
+        "equipment": "Slim writing pen and small plain hand slate with a few unlettered timing marks, no wall bells or equipment installation.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Round broad face with full cheeks, a short broad rounded chin, small slightly upturned nose and dark arched brows. Clearly rounder face and lower forehead than Ilvara; two separate thick symmetrical braids fall over the front shoulders and down the upper back in rear view. Same warm olive complexion and dark-brown hair/eyes."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult sister-princess; second in birth order. Writes with pen, shows path on slate, holds lamp during bell repair. Specific face/costume unspecified."
+      ],
+      "visualInterpretation": [
+        "Woman about25, medium height, warm olive skin, broad round face, full cheeks, short rounded chin, small slightly upturned nose, dark brown eyes, thick dark-brown wavy hair in two separate thick braids over shoulders. Narrow practical shoulders and restless attentive hands. Plain ochre-brown wool overdress over a smoke-gray long-sleeve blouse and dark ankle boots; no jewels or crown.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established.",
+        "Identity correction after first candidate resembled Ilvara: Round broad face with full cheeks, a short broad rounded chin, small slightly upturned nose and dark arched brows. Clearly rounder face and lower forehead than Ilvara; two separate thick symmetrical braids fall over the front shoulders and down the upper back in rear view. Same warm olive complexion and dark-brown hair/eyes."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT lamp-lit interior: small restrained ochre face planes, large connected charcoal/slate shadows."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:mirdakai",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+          "inspected": true,
+          "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/mirdakai.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected edge on opposing planes. Keep paint physical and broad, not a digitally smooth brightness filter; no glowing outline, hard orange rim, neon contrast or new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged. ALSO correct Mirdakai's distinct identity in ALL five views: Round broad face with full cheeks, a short broad rounded chin, small slightly upturned nose and dark arched brows. Clearly rounder face and lower forehead than Ilvara; two separate thick symmetrical braids fall over the front shoulders and down the upper back in rear view. Same warm olive complexion and dark-brown hair/eyes. Repaint face anatomy, not just surface marks. Preserve her ochre overdress, gray blouse, pen, slate and exact Mirdakai name. This is one sister with her own face, not Ilvara duplicated.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ba3de78a-5ddc-4157-9c3c-8841be747000.png",
+            "sha256": "d2eb70f236b7ea763a4bc67fe8e576374a5ff026f067af7b0aca5943681bea2f",
+            "inspected": true,
+            "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light and distinct face"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+            "inspected": true,
+            "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:26:17.012098+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference is oil figure/folio technique only, NEVER copy Kelro's face, swept haircut, red coat or objects. SECOND reference supplies the story-motivated paint values/light below only; NO setting transfer. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Mirdakai'. Woman about25, medium height, warm olive skin, rounder square-jawed face, slightly aquiline nose, dark brown eyes, thick dark-brown wavy hair in two joined braids tucked at nape. Narrow practical shoulders and restless attentive hands. Plain ochre-brown wool overdress over a smoke-gray long-sleeve blouse and dark ankle boots; no jewels or crown.\nSource boundaries: Adult sister-princess; second in birth order. Writes with pen, shows path on slate, holds lamp during bell repair. Specific face/costume unspecified.\nPersonal tools: Slim writing pen and small plain hand slate with a few unlettered timing marks, no wall bells or equipment installation.\nPortrait labels 'Calculating' and 'Choosing'. Lighting: NIGHT lamp-lit interior: small restrained ochre face planes, large connected charcoal/slate shadows. No literal crown.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+                "inspected": true,
+                "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ba3de78a-5ddc-4157-9c3c-8841be747000.png",
+            "outputSha256": "d2eb70f236b7ea763a4bc67fe8e576374a5ff026f067af7b0aca5943681bea2f",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:30:54.851569+00:00",
+            "review": "Source-specific low evening/lamplight not achieved: figures too evenly and warmly lit. Mirdakai also too close to Ilvara in face/hair design."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:30:54.851587+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected edge on opposing planes. Keep paint physical and broad, not a digitally smooth brightness filter; no glowing outline, hard orange rim, neon contrast or new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged. ALSO correct Mirdakai's distinct identity in ALL five views: Round broad face with full cheeks, a short broad rounded chin, small slightly upturned nose and dark arched brows. Clearly rounder face and lower forehead than Ilvara; two separate thick symmetrical braids fall over the front shoulders and down the upper back in rear view. Same warm olive complexion and dark-brown hair/eyes. Repaint face anatomy, not just surface marks. Preserve her ochre overdress, gray blouse, pen, slate and exact Mirdakai name. This is one sister with her own face, not Ilvara duplicated.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ba3de78a-5ddc-4157-9c3c-8841be747000.png",
+                "sha256": "d2eb70f236b7ea763a4bc67fe8e576374a5ff026f067af7b0aca5943681bea2f",
+                "inspected": true,
+                "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light and distinct face"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+                "inspected": true,
+                "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-63e5f715-03ae-44bd-b7e0-7ad0b054ded5.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/mirdakai.png",
+            "outputSha256": "2dc5318b94d761f6f00f3d3e14e38c113b192715ba98a840b830cb36b9237a15",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:35:51.397115+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T02:35:51.397131+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "2dc5318b94d761f6f00f3d3e14e38c113b192715ba98a840b830cb36b9237a15",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-ba3de78a-5ddc-4157-9c3c-8841be747000.png",
+            "sha256": "d2eb70f236b7ea763a4bc67fe8e576374a5ff026f067af7b0aca5943681bea2f",
+            "inspected": true,
+            "role": "Inspected first candidate target; preserve layout, attire and source facts while correcting light and distinct face"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+            "inspected": true,
+            "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+          }
+        ],
+        "evidence": [
+          "Actual second-candidate pixels inspected at full displayed size: exact name and title, all three full bodies and two painted heads readable and unclipped; blank warm ivory with no setting or swatches.",
+          "Local lamp-facing planes now separated from darker connected shadow masses; broad opaque oil remains on faces, clothing and gear.",
+          "Same individual proportions and face/hair through front, side, rear and portraits. Source-supported individual tools present; no crown or invented machine.",
+          "Mirdakai now has distinct broad rounder face and two long braids, visibly differentiated from elder Ilvara; ochre dress, writing pen and unlettered slate retained."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "6d809aaddfac36d7d12ee595cf859d5fd500811be6ea5db31d4ff4a13d515495"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "2dc5318b94d761f6f00f3d3e14e38c113b192715ba98a840b830cb36b9237a15"
+    },
+    {
+      "id": "brikka",
+      "name": "Brikka",
+      "role": "Bellwright who governs Rusk Hollow relay and challenges the false route",
+      "naming": {
+        "sourceName": "Brikka",
+        "sourceRole": "Bellwright who governs Rusk Hollow relay and challenges the false route",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Brikka watched the receiving glass brighten and dim.",
+          "line": 61,
+          "explanation": "Bellwright who governs Rusk Hollow relay and challenges the false route"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Short powerfully built woman about50 with ruddy pale freckled skin, broad face, flat nose, hazel eyes, auburn hair heavily streaked gray in a thick tight braid. Plain charcoal wool knee-length work tunic, faded brick-brown leather apron tied at waist, dark trousers and stout dark boots. Face strongly distinct from every other character.",
+        "markings": "Adult woman. Strikes bowl-sized bells with padded hammer, uses damping cloth and chalk. Keeps local decision authority.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Short powerfully built woman about50 with ruddy pale freckled skin, broad face, flat nose, hazel eyes, auburn hair heavily streaked gray in a thick tight braid. Plain charcoal wool knee-length work tunic, faded brick-brown leather apron tied at waist, dark trousers and stout dark boots. Face strongly distinct from every other character.",
+        "equipment": "One small wooden hammer with a cloth-padded head, folded dark damping cloth, chalk stub; no mounted bell or scenery.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Short powerfully built woman about50 with ruddy pale freckled skin, broad face, flat nose, hazel eyes, auburn hair heavily streaked gray in a thick tight braid. Plain charcoal wool knee-length work tunic, faded brick-brown leather apron tied at waist, dark trousers and stout dark boots. Face strongly distinct from every other character."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult woman. Strikes bowl-sized bells with padded hammer, uses damping cloth and chalk. Keeps local decision authority."
+      ],
+      "visualInterpretation": [
+        "Short powerfully built woman about50 with ruddy pale freckled skin, broad face, flat nose, hazel eyes, auburn hair heavily streaked gray in a thick tight braid. Plain charcoal wool knee-length work tunic, faded brick-brown leather apron tied at waist, dark trousers and stout dark boots. Face strongly distinct from every other character.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT lamp-lit interior: small restrained ochre face planes, large connected charcoal/slate shadows."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:brikka",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+          "inspected": true,
+          "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/brikka.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c19e4bbc-70ab-4534-97b4-aadd007acb4a.png",
+            "sha256": "c2719243cdfa49c9386aad5b098ae6c5e0ce24ef1eb218862512438a0ef9373d",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+            "inspected": true,
+            "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:53:52.308933+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Brikka'. Short powerfully built woman about50 with ruddy pale freckled skin, broad face, flat nose, hazel eyes, auburn hair heavily streaked gray in a thick tight braid. Plain charcoal wool knee-length work tunic, faded brick-brown leather apron tied at waist, dark trousers and stout dark boots. Face strongly distinct from every other character.\nSource boundaries: Adult woman. Strikes bowl-sized bells with padded hammer, uses damping cloth and chalk. Keeps local decision authority.\nPersonal tools: One small wooden hammer with a cloth-padded head, folded dark damping cloth, chalk stub; no mounted bell or scenery.\nPortrait labels 'Listening' and 'Decisive'. Lighting: NIGHT lamp-lit interior: small restrained ochre face planes, large connected charcoal/slate shadows. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+                "inspected": true,
+                "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c19e4bbc-70ab-4534-97b4-aadd007acb4a.png",
+            "outputSha256": "c2719243cdfa49c9386aad5b098ae6c5e0ce24ef1eb218862512438a0ef9373d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:22.865037+00:00",
+            "review": "Anatomy, exact identity/text and source tools pass; too evenly warm/bright despite night directive, requiring targeted local lamp-shadow correction."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:12:22.865057+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c19e4bbc-70ab-4534-97b4-aadd007acb4a.png",
+                "sha256": "c2719243cdfa49c9386aad5b098ae6c5e0ce24ef1eb218862512438a0ef9373d",
+                "inspected": true,
+                "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+                "inspected": true,
+                "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-57273ec4-a934-41b1-9651-fa783b8b2fd3.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/brikka.png",
+            "outputSha256": "2f689b3f89ab2ef7c8cfc432c3f6fb17de049e7f65a9e99ab51791bcc30aedaa",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:29:11.168909+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:29:11.168931+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "2f689b3f89ab2ef7c8cfc432c3f6fb17de049e7f65a9e99ab51791bcc30aedaa",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c19e4bbc-70ab-4534-97b4-aadd007acb4a.png",
+            "sha256": "c2719243cdfa49c9386aad5b098ae6c5e0ce24ef1eb218862512438a0ef9373d",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/02-rusk-hollow-relay-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Night relay-room local lamp ochres in a connected charcoal/slate shadow family.",
+            "inspected": true,
+            "sha256": "dc0ccfb9c27dac5609c24e1c9f64370db9748d59b156fc398757304c0fe4e944"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate pixels inspected: exact readable name/title, full body views and head/details unclipped on blank light ivory.",
+          "Broad substantial opaque oil faces, clothing and tools preserve collection style; local night lamp planes and dark connected shadows replace evenly bright first result. No scenery, swatches or extra people.",
+          "Brikka has consistent older freckled broad face and gray-streaked braid, strong short build, padded hammer/damping cloth/chalk; local Rusk Hollow lamp-side masses separated from darker face/body halves."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "2ee8f207b4b24fc0ab2dd867f6918ce6695631c42439e21a3e03e812150d6068"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "2f689b3f89ab2ef7c8cfc432c3f6fb17de049e7f65a9e99ab51791bcc30aedaa"
+    },
+    {
+      "id": "meraine",
+      "name": "Meraine",
+      "role": "Third princess and Oriel Strand reader of expectation and omissions",
+      "naming": {
+        "sourceName": "Meraine",
+        "sourceRole": "Third princess and Oriel Strand reader of expectation and omissions",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Meraine read the finished band twice.",
+          "line": 109,
+          "explanation": "Third princess and Oriel Strand reader of expectation and omissions"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture.",
+        "markings": "Adult sister-princess; third in birth order. Steadies weaving frame and later holds black thread while Rhevos keeps needle. No personal weapons or crown.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture.",
+        "equipment": "Small loose coil of black thread and a narrow black/pale woven stormgrass strip; no weaving frame, needle or scenery.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult sister-princess; third in birth order. Steadies weaving frame and later holds black thread while Rhevos keeps needle. No personal weapons or crown."
+      ],
+      "visualInterpretation": [
+        "Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:meraine",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+          "inspected": true,
+          "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/meraine.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Meraine'. Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture.\nSource boundaries: Adult sister-princess; third in birth order. Steadies weaving frame and later holds black thread while Rhevos keeps needle. No personal weapons or crown.\nPersonal tools: Small loose coil of black thread and a narrow black/pale woven stormgrass strip; no weaving frame, needle or scenery.\nPortrait labels 'Observing' and 'Withholding'. Lighting: NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes. Meraine has a distinctly NARROW HEART-SHAPED FACE with small fine nose and pointed chin, smooth low forehead, delicately sloping eyebrows and ONE long thin plait; do not copy another sister's strong long nose or broad round face/twin braids.",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+            "inspected": true,
+            "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:53:52.309481+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Meraine'. Woman about23, tall slender, warm olive skin, narrow heart-shaped face, fine straight nose, dark brown eyes; long black wavy hair in one low plait with loose temples. Plain muted plum-gray shawl over a charcoal long-sleeved work dress to ankles, restrained leather belt and dark boots. Quiet observant posture.\nSource boundaries: Adult sister-princess; third in birth order. Steadies weaving frame and later holds black thread while Rhevos keeps needle. No personal weapons or crown.\nPersonal tools: Small loose coil of black thread and a narrow black/pale woven stormgrass strip; no weaving frame, needle or scenery.\nPortrait labels 'Observing' and 'Withholding'. Lighting: NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes. Meraine has a distinctly NARROW HEART-SHAPED FACE with small fine nose and pointed chin, smooth low forehead, delicately sloping eyebrows and ONE long thin plait; do not copy another sister's strong long nose or broad round face/twin braids.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+                "inspected": true,
+                "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-3892e91b-b475-4282-8fd1-86391ef85e66.png",
+            "outputSha256": "26285366356075f17d6644222339638032eeda47463d79b292f14c186de67caa",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:22.869949+00:00",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/meraine.png"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:12:22.874037+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "26285366356075f17d6644222339638032eeda47463d79b292f14c186de67caa",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+            "inspected": true,
+            "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "evidence": [
+          "Actual candidate pixels inspected: exact readable name/title; three complete body views and two portraits show one consistent identity, heads and footwear unclipped.",
+          "Broad opaque oils on faces and clothing, warm ivory blank ground, no scene/location/palette swatches; supported tools only.",
+          "Meraine: slender heart-shaped face and one long plait distinct from sisters, muted plum shawl, black thread and woven stormgrass. Cool pale moon planes over dark charcoal clothing, no daytime glow."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "e61764f11a79d26c75c62c4e5e020a9e2b7d945d0852929f1a2dd26916247a1f"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "26285366356075f17d6644222339638032eeda47463d79b292f14c186de67caa"
+    },
+    {
+      "id": "rhevos",
+      "name": "Rhevos",
+      "role": "Oriel Strand vane-weaver who verifies wind gaps and governs transmission",
+      "naming": {
+        "sourceName": "Rhevos",
+        "sourceRole": "Oriel Strand vane-weaver who verifies wind gaps and governs transmission",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Rhevos had woven the paired strips from stormgrass: pale face for light, dyed face for dark.",
+          "line": 107,
+          "explanation": "Oriel Strand vane-weaver who verifies wind gaps and governs transmission"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry.",
+        "markings": "Adult woman. Weaves stormgrass vanes; uses knife, needle and black thread. Independently judges what leaves the frame.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry.",
+        "equipment": "Short practical weaving knife with simple wooden handle, large needle with black thread and one small paired black/pale stormgrass strip; no frame.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult woman. Weaves stormgrass vanes; uses knife, needle and black thread. Independently judges what leaves the frame."
+      ],
+      "visualInterpretation": [
+        "Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:rhevos",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+          "inspected": true,
+          "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/rhevos.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Rhevos'. Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry.\nSource boundaries: Adult woman. Weaves stormgrass vanes; uses knife, needle and black thread. Independently judges what leaves the frame.\nPersonal tools: Short practical weaving knife with simple wooden handle, large needle with black thread and one small paired black/pale stormgrass strip; no frame.\nPortrait labels 'Assessing' and 'Wry'. Lighting: NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+            "inspected": true,
+            "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:53:52.310183+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Rhevos'. Tall sinewy woman about45, deep brown skin, long rectangular face, broad nose, small dark eyes; short tight black coils mostly held by a faded ochre head wrap. Plain muted deep-teal long-sleeve tunic, gray-brown cross-back work apron, dark straight trousers and soft worn boots. Strong hands, no jewelry.\nSource boundaries: Adult woman. Weaves stormgrass vanes; uses knife, needle and black thread. Independently judges what leaves the frame.\nPersonal tools: Short practical weaving knife with simple wooden handle, large needle with black thread and one small paired black/pale stormgrass strip; no frame.\nPortrait labels 'Assessing' and 'Wry'. Lighting: NIGHT moonlight: restrained pale slate-blue exposed planes, broad deep olive/charcoal shadows; no warm spotlight. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+                "inspected": true,
+                "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-15907c1e-505f-415e-b247-9ada6741cf99.png",
+            "outputSha256": "f9f907d503e877f315ba18d0a02ad5c9601d876751899e7668de59d337f6195b",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:22.975152+00:00",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/rhevos.png"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:12:22.976894+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "f9f907d503e877f315ba18d0a02ad5c9601d876751899e7668de59d337f6195b",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/landscapes/03-wind-over-oriel-strand.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Moonlit slate/olive night values; restrained pale cool moon planes, no bright daylight.",
+            "inspected": true,
+            "sha256": "f299439ac9fb682a7838150b0d5fcdffbb5ae6c2c170648236ad524890b467c2"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "evidence": [
+          "Actual candidate pixels inspected: exact readable name/title; three complete body views and two portraits show one consistent identity, heads and footwear unclipped.",
+          "Broad opaque oils on faces and clothing, warm ivory blank ground, no scene/location/palette swatches; supported tools only.",
+          "Rhevos: deep brown complexion, headwrap/coiled hair and sinewy form consistent; weaving knife, needle/thread and stormgrass distinct. Dark cool moon-value family remains on figures."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "94e8c00200a2d883b0f564d46ee0f15bc533d3766a5b3d02dfe9096bd5040bd3"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "f9f907d503e877f315ba18d0a02ad5c9601d876751899e7668de59d337f6195b"
+    },
+    {
+      "id": "nuvaya",
+      "name": "Nuvaya",
+      "role": "Youngest princess and Ternhold route planner who times the capture",
+      "naming": {
+        "sourceName": "Nuvaya",
+        "sourceRole": "Youngest princess and Ternhold route planner who times the capture",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Nuvaya was on the lamp roof when she saw the riders.",
+          "line": 149,
+          "explanation": "Youngest princess and Ternhold route planner who times the capture"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Woman about20, compact athletic build, warm olive skin, angular diamond face, short straight nose, dark-brown eyes and near-black wavy hair pulled into a high practical ponytail. Plain weathered gray-green belted knee-length tunic with rolled cuffs, dark fitted work trousers and ankle boots. Ready restless stance, no royal crown, no armor.",
+        "markings": "Adult sister-princess; youngest. Climbs ladder, marks waxed route board, refills oil lamp and trims wick; stays in refuge throughout capture.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Woman about20, compact athletic build, warm olive skin, angular diamond face, short straight nose, dark-brown eyes and near-black wavy hair pulled into a high practical ponytail. Plain weathered gray-green belted knee-length tunic with rolled cuffs, dark fitted work trousers and ankle boots. Ready restless stance, no royal crown, no armor.",
+        "equipment": "Small waxed route board with only faint unlettered route lines, small oil flask and plain wick shears; no lamp tower.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Woman about20, compact athletic build, warm olive skin, angular diamond face, short straight nose, dark-brown eyes and near-black wavy hair pulled into a high practical ponytail. Plain weathered gray-green belted knee-length tunic with rolled cuffs, dark fitted work trousers and ankle boots. Ready restless stance, no royal crown, no armor."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult sister-princess; youngest. Climbs ladder, marks waxed route board, refills oil lamp and trims wick; stays in refuge throughout capture."
+      ],
+      "visualInterpretation": [
+        "Woman about20, compact athletic build, warm olive skin, angular diamond face, short straight nose, dark-brown eyes and near-black wavy hair pulled into a high practical ponytail. Plain weathered gray-green belted knee-length tunic with rolled cuffs, dark fitted work trousers and ankle boots. Ready restless stance, no royal crown, no armor.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:nuvaya",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+          "inspected": true,
+          "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/nuvaya.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a4cfd6bc-d699-44e6-917c-c34455b68370.png",
+            "sha256": "6d665c3bc062e41ef6307aad05a9c734dac1c170bcf3d3643021233855635496",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:53:52.310613+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Nuvaya'. Woman about20, compact athletic build, warm olive skin, angular diamond face, short straight nose, dark-brown eyes and near-black wavy hair pulled into a high practical ponytail. Plain weathered gray-green belted knee-length tunic with rolled cuffs, dark fitted work trousers and ankle boots. Ready restless stance, no royal crown, no armor.\nSource boundaries: Adult sister-princess; youngest. Climbs ladder, marks waxed route board, refills oil lamp and trims wick; stays in refuge throughout capture.\nPersonal tools: Small waxed route board with only faint unlettered route lines, small oil flask and plain wick shears; no lamp tower.\nPortrait labels 'Impatient' and 'Measured'. Lighting: NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes. Nuvaya has a distinctly SHORT DIAMOND-SHAPED FACE, high cheekbones, small straight nose, wider jaw corners, short chin, strong wide-set brows and high PONYTAIL; no braided bun or twin braids.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+                "inspected": true,
+                "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a4cfd6bc-d699-44e6-917c-c34455b68370.png",
+            "outputSha256": "6d665c3bc062e41ef6307aad05a9c734dac1c170bcf3d3643021233855635496",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:22.990418+00:00",
+            "review": "Anatomy, exact identity/text and source tools pass; too evenly warm/bright despite night directive, requiring targeted local lamp-shadow correction."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:12:22.990440+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a4cfd6bc-d699-44e6-917c-c34455b68370.png",
+                "sha256": "6d665c3bc062e41ef6307aad05a9c734dac1c170bcf3d3643021233855635496",
+                "inspected": true,
+                "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+                "inspected": true,
+                "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a0fa3315-0086-4e2e-b0e1-9c6f5d8a04fb.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/nuvaya.png",
+            "outputSha256": "14cd35b5e616897c3eee43b43e79f2773630ed00e89b3412d36ac28315f43088",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:29:11.966808+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:29:11.966825+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "14cd35b5e616897c3eee43b43e79f2773630ed00e89b3412d36ac28315f43088",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a4cfd6bc-d699-44e6-917c-c34455b68370.png",
+            "sha256": "6d665c3bc062e41ef6307aad05a9c734dac1c170bcf3d3643021233855635496",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate pixels inspected: exact readable name/title, full body views and head/details unclipped on blank light ivory.",
+          "Broad substantial opaque oil faces, clothing and tools preserve collection style; local night lamp planes and dark connected shadows replace evenly bright first result. No scenery, swatches or extra people.",
+          "Nuvaya has consistent young diamond face/high ponytail and compact proportions, practical layers, route board/oil flask/wick shears; lamp-side face planes and connected dark opposite half."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "5c3873d05ae0eac878ec0daba52298dcbcda68d3931c81859b8b7c784bd4c9ca"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "14cd35b5e616897c3eee43b43e79f2773630ed00e89b3412d36ac28315f43088"
+    },
+    {
+      "id": "ullet",
+      "name": "Ullet",
+      "role": "Ternhold shadow-runner who controls relay and watch decisions",
+      "naming": {
+        "sourceName": "Ullet",
+        "sourceRole": "Ternhold shadow-runner who controls relay and watch decisions",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Ullet translated it by opening and closing four shutters around an oil lamp.",
+          "line": 153,
+          "explanation": "Ternhold shadow-runner who controls relay and watch decisions"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia.",
+        "markings": "Adult man. Works oil-lamp shutters, holds route board, leads local watch and corrects wick. Neither royal servant nor magical shadow being.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia.",
+        "equipment": "Small waxed route board and plain wick shears; no large shutter apparatus or location.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult man. Works oil-lamp shutters, holds route board, leads local watch and corrects wick. Neither royal servant nor magical shadow being."
+      ],
+      "visualInterpretation": [
+        "Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Relay night",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:ullet",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+          "inspected": true,
+          "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/ullet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Ullet'. Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia.\nSource boundaries: Adult man. Works oil-lamp shutters, holds route board, leads local watch and corrects wick. Neither royal servant nor magical shadow being.\nPersonal tools: Small waxed route board and plain wick shears; no large shutter apparatus or location.\nPortrait labels 'Questioning' and 'Certain'. Lighting: NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:53:52.311024+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Ullet'. Broad-necked solid man about42 with chestnut-brown skin, short broad face, straight broad nose, black close-cropped hair and clean-shaven jaw. Plain dark indigo waistcoat over gray collarless shirt with rolled sleeves, umber trousers and stout calf-high boots. Calm folded-arm or open-hand posture, no soldier insignia.\nSource boundaries: Adult man. Works oil-lamp shutters, holds route board, leads local watch and corrects wick. Neither royal servant nor magical shadow being.\nPersonal tools: Small waxed route board and plain wick shears; no large shutter apparatus or location.\nPortrait labels 'Questioning' and 'Certain'. Lighting: NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+                "inspected": true,
+                "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-01f061ab-2b39-44f4-bbbb-85c871dc1154.png",
+            "outputSha256": "02455f9eaebb3ec470c118f179a6f24cedabf8d9c83fbc82293b3237dc1b7579",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:22.995213+00:00",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/ullet.png"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:12:22.996871+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "02455f9eaebb3ec470c118f179a6f24cedabf8d9c83fbc82293b3237dc1b7579",
+        "references": [
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+            "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "evidence": [
+          "Actual candidate pixels inspected: exact readable name/title; three complete body views and two portraits show one consistent identity, heads and footwear unclipped.",
+          "Broad opaque oils on faces and clothing, warm ivory blank ground, no scene/location/palette swatches; supported tools only.",
+          "Ullet: broad neck, close black crop and clean-shaven face consistent; indigo waistcoat, waxed board and wick shears. Strong local lamp-facing planes separated from charcoal shadows."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "c18fcd4640ab08cb0b21964634058529091df1ea8681d82ea0803675a14402d1"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "02455f9eaebb3ec470c118f179a6f24cedabf8d9c83fbc82293b3237dc1b7579"
+    },
+    {
+      "id": "kalmid-osreth",
+      "name": "Kalmid Osreth",
+      "role": "Former royal signal tutor, coup participant and active pursuer captured alive",
+      "naming": {
+        "sourceName": "Kalmid Osreth",
+        "sourceRole": "Former royal signal tutor, coup participant and active pursuer captured alive",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Even at that distance Nuvaya recognized the narrow set of his shoulders.",
+          "line": 287,
+          "explanation": "Former royal signal tutor, coup participant and active pursuer captured alive"
+        }
+      ],
+      "form": "Human adult, single consistent identity",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human",
+        "lifeStage": "Adult, exact visual age is interpretation",
+        "proportions": "Lean middle-aged man about55 with narrow shoulders, pale sallow olive skin, long sharp face, long angular nose, thin lips and close silver-black hair combed flat back. Clean-shaven. Plain near-black riding coat with high soft collar over ash-gray tunic, narrow dark leather belt, charcoal trousers, worn riding boots. Restrained calculating expression, no theatrical villain armor.",
+        "markings": "Adult man, visibly narrow shoulders. Palace duskglass bright sliver in his RIGHT hand, sword at belt. Captured alive with bound hands after disarmament. Not a king; no literal crown.",
+        "materials": "Opaque painted skin/hair, practical worn cloth and leather; personal tools as supported",
+        "clothing": "Lean middle-aged man about55 with narrow shoulders, pale sallow olive skin, long sharp face, long angular nose, thin lips and close silver-black hair combed flat back. Clean-shaven. Plain near-black riding coat with high soft collar over ash-gray tunic, narrow dark leather belt, charcoal trousers, worn riding boots. Restrained calculating expression, no theatrical villain armor.",
+        "equipment": "Thin bright pale glass shard in RIGHT hand, sheathed plain sword at left hip. Only pre-capture state; no captive duplicate, net, horse or companions.",
+        "scale": "Ordinary adult human; no exact height asserted",
+        "movement": "Source-specific restrained posture, neutral full-form studies",
+        "distinctiveFeatures": "Lean middle-aged man about55 with narrow shoulders, pale sallow olive skin, long sharp face, long angular nose, thin lips and close silver-black hair combed flat back. Clean-shaven. Plain near-black riding coat with high soft collar over ash-gray tunic, narrow dark leather belt, charcoal trousers, worn riding boots. Restrained calculating expression, no theatrical villain armor."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Adult man, visibly narrow shoulders. Palace duskglass bright sliver in his RIGHT hand, sword at belt. Captured alive with bound hands after disarmament. Not a king; no literal crown."
+      ],
+      "visualInterpretation": [
+        "Lean middle-aged man about55 with narrow shoulders, pale sallow olive skin, long sharp face, long angular nose, thin lips and close silver-black hair combed flat back. Clean-shaven. Plain near-black riding coat with high soft collar over ash-gray tunic, narrow dark leather belt, charcoal trousers, worn riding boots. Restrained calculating expression, no theatrical villain armor.",
+        "All exact physical age, face structure, complexion and wardrobe details unprovided by prose are art-only interpretation. No shared canon established."
+      ],
+      "states": [
+        {
+          "name": "Before capture",
+          "description": "Consistent clothing and identity; no alternate body or physical transformation"
+        }
+      ],
+      "lighting": {
+        "moment": "Overnight false-message investigation and trap",
+        "motivation": "NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows."
+      },
+      "recurrence": {
+        "identityKey": "four-crowns-in-hiding:kalmid-osreth",
+        "links": [],
+        "evidence": "No matching shared universe or frozen name entry; exact role corroborated by current review inventory."
+      },
+      "references": [
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+          "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+          "inspected": true,
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+          "role": "Same-story paint, local values and motivated light only; no setting transfer",
+          "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+          "inspected": true,
+          "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+        },
+        {
+          "path": "stories/four-crowns-in-hiding/title-image.jpg",
+          "role": "Inspected cover context, not a generation input or named identity authority",
+          "notes": "Four dark-haired olive-complexioned sisters in work/travel layers; no unambiguous name mapping. Shared boat scene is incompatible with current separate-refuge action and is not inherited. Designs below are recorded art interpretations.",
+          "inspected": true,
+          "sha256": "dd9799a48c16f07675f9a8058bd4f124f21f65380462664ba54635819c430fdf"
+        }
+      ],
+      "output": "stories/four-crowns-in-hiding/art/characters/kalmid-osreth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-072c857d-c6c9-4318-9c5a-3286d8af20a1.png",
+            "sha256": "8be7dc80110c3e77d77a3a45a4cb560495dd05c9fa5f155f4c3aadf3a6821023",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T02:53:52.311446+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character reference folio on plain LIGHT WARM IVORY support. Exact dark serif name heading and smaller title 'Four Crowns in Hiding'. ONE identity per sheet. Three complete unclipped full-body views Front, Side, Back on left; two head studies and small listed personal tools on right, quiet negative space. Canadian Group of Seven physical oils: large connected masses, varied directional opaque paint, broad decisive painted face planes, selective substantial impasto, quiet joins and matte eyes. Paint skin as strongly as garments; no polished photograph under a texture filter, smooth portrait, anime, CGI, glossy surfaces, uniformly beveled chips or cinematic rim lighting. FIRST reference controls the DIM STORY LIGHTING AND PAINT MASS VALUES, no scenery transfer. SECOND reference supplies oil figure/ivory folio technique only, NEVER Kelro's face, swept haircut, red coat, day lighting or objects. Ivory remains light while character shadows retain darkness and lost edges. No location, floor patch, ground, horizon, scene, furniture, buildings, palette/swatch strips or other identities. Every view same face, head/body proportions, hair and outfit. Concise labels only; no invented prose or decorative diagrams.\nHeading 'Kalmid Osreth'. Lean middle-aged man about55 with narrow shoulders, pale sallow olive skin, long sharp face, long angular nose, thin lips and close silver-black hair combed flat back. Clean-shaven. Plain near-black riding coat with high soft collar over ash-gray tunic, narrow dark leather belt, charcoal trousers, worn riding boots. Restrained calculating expression, no theatrical villain armor.\nSource boundaries: Adult man, visibly narrow shoulders. Palace duskglass bright sliver in his RIGHT hand, sword at belt. Captured alive with bound hands after disarmament. Not a king; no literal crown.\nPersonal tools: Thin bright pale glass shard in RIGHT hand, sheathed plain sword at left hip. Only pre-capture state; no captive duplicate, net, horse or companions.\nPortrait labels 'Calculating' and 'Cornered'. Lighting: NIGHT local oil-lamp side light with faint cool ambient fill; subdued warm ochres, connected charcoal shadows. No literal crown.\nCRITICAL LIGHTING: keep the shadow-facing half of every face and major body mass visibly darker than lit planes, with connected quiet slate/charcoal shadow. Do not flatten into evenly lit warm studio color. Ivory blank ground stays light. No golden outer rim; paint actual broad local light planes.",
+            "references": [
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+                "inspected": true,
+                "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual oil and ivory character-folio style only; never copy identity, clothing or props",
+                "notes": "Inspected broad matte face/hair masses, directional opaque fabric paint, unclipped full body views and quiet ivory.",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-072c857d-c6c9-4318-9c5a-3286d8af20a1.png",
+            "outputSha256": "8be7dc80110c3e77d77a3a45a4cb560495dd05c9fa5f155f4c3aadf3a6821023",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:12:23.053757+00:00",
+            "review": "Anatomy, exact identity/text and source tools pass; too evenly warm/bright despite night directive, requiring targeted local lamp-shadow correction."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:12:23.053776+00:00",
+            "prompt": "Edit this exact character folio, preserving every word, label, pose, body proportion, face identity, costume, equipment, composition and LIGHT IVORY blank background. Correct ONLY character and object LIGHTING: reference 2 is the actual story lighting source. Figure light must feel locally lamp-lit at NIGHT, NOT uniformly warm daylight. Merge at least the shadow half of each face, neck, arms and clothing into deep quiet SLATE/CHARCOAL/UMBER shadow masses, preserving DARKNESS and lost internal edges. Restrained muted ochre lamp planes occupy only the lamp-facing quarter, not the whole body; faint cool blue-slate ambient reflected planes on opposing surfaces. No bright orange contour or rim around figure. Keep paint physical and broad, no smooth brightness filter; no new light source drawn. Ivory remains light, labels remain black and readable. No location or ground patch. Keep identity and source-supported tools exactly unchanged.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-072c857d-c6c9-4318-9c5a-3286d8af20a1.png",
+                "sha256": "8be7dc80110c3e77d77a3a45a4cb560495dd05c9fa5f155f4c3aadf3a6821023",
+                "inspected": true,
+                "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+              },
+              {
+                "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+                "role": "Same-story paint, local values and motivated light only; no setting transfer",
+                "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+                "inspected": true,
+                "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c5c22ef3-a505-4aa1-823b-5228e168d589.png",
+            "savedPath": "stories/four-crowns-in-hiding/art/characters/kalmid-osreth.png",
+            "outputSha256": "90f2055be5b91b82a3d989dde3b30290b5dfe0f5250e4037a29e2b07074dee95",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:29:11.972513+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:29:11.972535+00:00",
+        "sourceSha256": "077e407546fa49bf7425489453c3a8695f4a519a02662d100d2b59511e0b9c39",
+        "outputSha256": "90f2055be5b91b82a3d989dde3b30290b5dfe0f5250e4037a29e2b07074dee95",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-072c857d-c6c9-4318-9c5a-3286d8af20a1.png",
+            "sha256": "8be7dc80110c3e77d77a3a45a4cb560495dd05c9fa5f155f4c3aadf3a6821023",
+            "inspected": true,
+            "role": "Inspected first candidate; retain identity and all source facts while correcting local night illumination"
+          },
+          {
+            "path": "stories/four-crowns-in-hiding/art/interiors/03-ternhold-shutter-room.png",
+            "role": "Same-story paint, local values and motivated light only; no setting transfer",
+            "notes": "Late-night oil-lamp light and cool window fill; keep deep connected shadows.",
+            "inspected": true,
+            "sha256": "0daa27ddb4a3bbb6c86dd4dd2fd1c4acef87fbafb1a8ce696668c3678f89bb48"
+          }
+        ],
+        "evidence": [
+          "Actual second candidate pixels inspected: exact readable name/title, full body views and head/details unclipped on blank light ivory.",
+          "Broad substantial opaque oil faces, clothing and tools preserve collection style; local night lamp planes and dark connected shadows replace evenly bright first result. No scenery, swatches or extra people.",
+          "Kalmid retains narrow shoulder/long-faced older identity, plain riding coat, right-hand shard and sheathed left-hip sword. No regal costume or inherited magical power. Deep night shadow retains clear form."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "62ec13f299008217023e7d21a8a6169aa19272dc792a76e98047c3b5b69f8659"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete story read; exact source identity and physical facts separated from art interpretation. Actual reference pixels inspected. Three body views/two head studies and small personal tools fit wide ivory folio; no setting, uniforms, powers or cross-character attributes added."
+      },
+      "outputSha256": "90f2055be5b91b82a3d989dde3b30290b5dfe0f5250e4037a29e2b07074dee95"
+    }
+  ]
+}

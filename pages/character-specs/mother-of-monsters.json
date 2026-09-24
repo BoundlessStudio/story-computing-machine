@@ -1,0 +1,1185 @@
+{
+  "schemaVersion": 1,
+  "slug": "mother-of-monsters",
+  "title": "Mother of Monsters",
+  "source": "stories/mother-of-monsters/story.md",
+  "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose read through Chask's final setting-rod order. Four named sustained individual agents plus recurring captain antagonist and six-legged animal whose refusals and independent route choices carry the premise. All six selected; unnamed captain/animal get authorized art-only labels.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Six sappers, point soldiers, horned healer, goblin bearers, injured/refugee families and rearguard beasts",
+      "reason": "Important collective/brief actions without sustained individuated identity beyond the six selected characters."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy; exact named story characters have no shared universe entry.",
+    "Halwen's local voiced-breath curse stays rasp/vibration/clicks, harms voice/balance, stops in silence, changes neither will nor comprehension.",
+    "Finished prose controls historical cover conflict: Halwen older, cropped grey hair, soot-black coat, no crown.",
+    "Original supplied reference recovered, exact bytes inspected; source prose overrides conflicting historical cover/original design."
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "chask",
+      "name": "Lieutenant Chask",
+      "sourceIdentityId": "chask",
+      "role": "Human sapper lieutenant and focal agent",
+      "selectionEvidence": [
+        {
+          "quote": "Lieutenant Chask had laid the chalk line",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 11
+        },
+        {
+          "quote": "“We need the foundation.”",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 113
+        },
+        {
+          "quote": "The captain put the sword point against Chask’s breastplate",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 251
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human woman; source female pronouns.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "Ordinary siege soot/dust, no source permanent marks.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Sapper military coat, harness and breastplate.",
+        "equipment": "Setting rod, chalk, powder crock/fuse engineering equipment; no weapon specialization claimed.",
+        "scale": "Adult human.",
+        "movement": "Crouches to test structure, lifts charge, chooses safer blast and withdraws troops.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent40s, tan weathered skin, broad cheekbones, dark brown hair in short practical low braid, strong medium build; all optional visual design.",
+        "Dull steel breastplate over charcoal military coat/trousers, brown harness, worn boots, bare chalky hands and long plain setting rod. Three views plus focused/strained head and chalk fingers."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:chask",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/chask.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:31:00.442316+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY reference folio in bold OPAQUE OIL, clean plain warm IVORY. Exact large name \"Lieutenant Chask\", smaller title \"Mother of Monsters\". One mature human woman military SAPPER officer, repeated same identity.\n\nApparent40s, TAN weathered skin, broad cheekbones, strong square jaw, small blunt nose, dark focused eyes, dark BROWN hair pulled into a short low practical BRAID, strong medium build. She is capable and tired, not glamorous. Dull STEEL BREASTPLATE over a charcoal military COAT with long sleeves, plain charcoal trousers, brown leather working HARNESS, worn flat dark boots. No helmet in identity studies. Ordinary soot/dust and chalky bare fingers; no permanent magical markings, royal insignia or fantasy oversized armour. Three full front/side/back standing views left/centre, same breastplate/coattail/braid/harness, normal five-digit hands. A long plain metal SETTING ROD held close at side in front view, no blade or spearhead. Right two same-identity head studies: \"The foundation\" (concentrated listening), \"Open vent\" (firm decision, slightly dustier). Lower-right enlarged naturally proportioned hand with chalk on fingertips, holding a short ordinary white CHALK stick between thumb/index; label \"Chalk line\". No powder explosion, no other people, no building/ground.\n\nPAINT FIRST, anatomy through paint: use FIRST input's LARGE interlocking trunk/rock/cloud-like colour shapes and broad directional bristle/knife strokes to build face, skin, cloth and steel. Faces must be simplified forceful OPAQUE painted planes, not detailed realistic skin with a texture overlay. Selective impasto and calmer joined shadow shapes. No uniform tiny shiny bevelled mosaic/chips. No anime/CGI/photographic face.\n\nSOURCE LIGHT is PREDawn at siege with hooded lamps: dominant cool DARK blue-violet/umber shadow on most face, coat and metal. One small restrained low amber lamp spill touches a narrow near cheek and one near gauntletless hand/steel plane. Steel mostly dark slate, no silver studio shine. The whole back lies mainly in connected dark cool shade. Ivory stays light/plain and makes dark figure readable; don't fill-light all surfaces. Input2 informs predawn quiet values, not full daylight. Input3 layout and subdued figure exposure ONLYâ€”no Varai face, bob, spacesuit or electronics.\n\nAll full figures unclipped, consistent scale/head proportions, exact names/labels readable. No scene, architecture, floor/contact shadow, ground patch, swatches/palette strips, magic light or borrowed props.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-c900f5b3-4d8b-4120-a5c5-adbc7b5f98d1.png",
+                "sha256": "4070c0792b777af61c45fe7e337bad63ee1f6746dba27d045e2689f89c123f3c",
+                "role": "Landscape ivory character folio layout and restrained dark figures only; no futuristic equipment, face or hairstyle",
+                "inspected": true
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-9f387002-dc5c-478a-995a-e587a8abb986.png",
+            "returnedSha256": "ca9023f5674872cbd83814cc3cbc9528c951dd63bd388dc4f78117fb25fc7f23",
+            "completedAt": "2026-09-24T05:36:18.965215+00:00",
+            "review": "REVISE: identity and fitted high collar borrowed too strongly from Varai style/layout reference. Steel/face/hand broadly exposed rather than predawn. Reject as selection; use landscapes only for next attempt, draw genuinely distinct broad blunt-faced mature sapper, historical working coat closures and dominant predawn shade."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:36:19.916617+00:00",
+            "status": "PASS",
+            "prompt": "Paint a NEW distinct character folio from the supplied LANDSCAPE oil-technique references only. 3:2 landscape page, plain light warm IVORY, no scenery. Exact large heading \"Lieutenant Chask\" and smaller \"Mother of Monsters\". One human female military sapper. Do not reuse any previous character's face or science-fiction clothing.\n\nChask's chosen art identity: a weathered woman about45, stocky strong medium height, broad SHORT SQUARE FACE, broad flattened cheekbones, SHORT WIDE BLUNT NOSE, a heavy square chin, thick level eyebrows, widely spaced small dark eyes, tan skin. DARK BROWN hair scraped TIGHTLY away from the forehead into a short LOW BRAID; absolutely no loose chin-length bob framing her face. Face sturdy and plain, mature, not glamorous or doll-like. Same exact head proportions across views.\n\nHistorical practical military kit: a plain dark IRON BREASTPLATE with simple flat unsculpted curves worn OVER a CHARCOAL WOOL knee-length coat. Coat overlaps at front with SIMPLE BUTTONS and soft folded collar, NO ZIPPER, no pressure collar, no sci-fi armour plates/padding. Brown leather shoulder harness; plain wool trousers and worn simple flat leather boots. No exposed cleavage, sword, giant pauldrons, shiny medals, electronics or helmet. Chalk dust and soot on bare natural five-digit hands. LONG simple cylindrical iron setting rod with flat blunt ends held at side in front view.\n\nLayout: Three unclipped whole front, profile and back figures left/centre. All show consistent tight braid, short broad face, wool coat, harness and plain breastplate. Two portraits right labelled \"The foundation\" (thinking) and \"Open vent\" (firm decision). Lower right a LARGE natural hand holding a chalk stub between thumb/index, with chalky fingertips, label \"Chalk line\". Five digits, no extra finger; show back of hand partly, relaxed other fingers. NO floor/contact shadows or ground patches.\n\nTime/lights: BEFORE DAWN with HOODED LAMPS. Figures predominantly DARK CONNECTED blue-violet/umber shadow masses. At least most face/coat/hand/iron remains subdued low-value. A very limited weak amber lamp stroke picks out one cheek ridge, a few near knuckles and one steel ridge; no broad bright metal or face/hand, NO daylight/studio illumination. Back mostly blue-black shade; face readable with few broad dark paint planes. Ivory page unchanged/light.\n\nPRIMARY style input1 is HOW to simplify large colour/value shapes and big bristle strokes; input2 provides predawn blue shadow/low warm edge only. Do NOT copy orchard daylight/greens, ravine/ruin or any location. Figure skin/hands should be constructed from broad OPAQUE OIL paint strokes as decisive as the large tree/rock shapes: varied directional brushwork, selective thick impasto, quiet connected dark masses, a few bold age creases. NO photorealistic/CGI/anime skin, tiny bevelled paint-chip mosaic, glossy smooth underpainting, airbrush or bright rim. Exact readable text, quiet ivory, no swatches/palette strips, no extra person.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-11fdb0b1-f08e-41a6-b2b6-ab4fd48c421f.png",
+            "returnedSha256": "60663199f41d5e283f5cd9d5787860878902820f89be959e0aa49878a5a8aac9",
+            "completedAt": "2026-09-24T05:42:11.506034+00:00",
+            "review": [
+              "Actual pixels reviewed: distinct mature short-square-faced stocky woman with blunt nose, tight pulled-back braid, consistent likeness across whole front/profile/back and two portraits; rejected Varai likeness no longer present.",
+              "Plain dull breastplate, buttoned charcoal wool coat/folded collar, leather harness, practical boots and blunt setting rod fit sapper role without futuristic pressure suit.",
+              "Broad matte bristle/knife planes construct face, chalk-holding hand and long coat folds; cool predawn shadow dominates cloth/iron with restricted warm side lamp accents.",
+              "Natural five-digit hands, readable exact title/name/labels, full body views, no scenery, floor patch/contact shadows or swatches."
+            ]
+          }
+        ],
+        "prompt": "Paint a NEW distinct character folio from the supplied LANDSCAPE oil-technique references only. 3:2 landscape page, plain light warm IVORY, no scenery. Exact large heading \"Lieutenant Chask\" and smaller \"Mother of Monsters\". One human female military sapper. Do not reuse any previous character's face or science-fiction clothing.\n\nChask's chosen art identity: a weathered woman about45, stocky strong medium height, broad SHORT SQUARE FACE, broad flattened cheekbones, SHORT WIDE BLUNT NOSE, a heavy square chin, thick level eyebrows, widely spaced small dark eyes, tan skin. DARK BROWN hair scraped TIGHTLY away from the forehead into a short LOW BRAID; absolutely no loose chin-length bob framing her face. Face sturdy and plain, mature, not glamorous or doll-like. Same exact head proportions across views.\n\nHistorical practical military kit: a plain dark IRON BREASTPLATE with simple flat unsculpted curves worn OVER a CHARCOAL WOOL knee-length coat. Coat overlaps at front with SIMPLE BUTTONS and soft folded collar, NO ZIPPER, no pressure collar, no sci-fi armour plates/padding. Brown leather shoulder harness; plain wool trousers and worn simple flat leather boots. No exposed cleavage, sword, giant pauldrons, shiny medals, electronics or helmet. Chalk dust and soot on bare natural five-digit hands. LONG simple cylindrical iron setting rod with flat blunt ends held at side in front view.\n\nLayout: Three unclipped whole front, profile and back figures left/centre. All show consistent tight braid, short broad face, wool coat, harness and plain breastplate. Two portraits right labelled \"The foundation\" (thinking) and \"Open vent\" (firm decision). Lower right a LARGE natural hand holding a chalk stub between thumb/index, with chalky fingertips, label \"Chalk line\". Five digits, no extra finger; show back of hand partly, relaxed other fingers. NO floor/contact shadows or ground patches.\n\nTime/lights: BEFORE DAWN with HOODED LAMPS. Figures predominantly DARK CONNECTED blue-violet/umber shadow masses. At least most face/coat/hand/iron remains subdued low-value. A very limited weak amber lamp stroke picks out one cheek ridge, a few near knuckles and one steel ridge; no broad bright metal or face/hand, NO daylight/studio illumination. Back mostly blue-black shade; face readable with few broad dark paint planes. Ivory page unchanged/light.\n\nPRIMARY style input1 is HOW to simplify large colour/value shapes and big bristle strokes; input2 provides predawn blue shadow/low warm edge only. Do NOT copy orchard daylight/greens, ravine/ruin or any location. Figure skin/hands should be constructed from broad OPAQUE OIL paint strokes as decisive as the large tree/rock shapes: varied directional brushwork, selective thick impasto, quiet connected dark masses, a few bold age creases. NO photorealistic/CGI/anime skin, tiny bevelled paint-chip mosaic, glossy smooth underpainting, airbrush or bright rim. Exact readable text, quiet ivory, no swatches/palette strips, no extra person.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+            "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+            "inspected": true,
+            "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:42:11.506034+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "60663199f41d5e283f5cd9d5787860878902820f89be959e0aa49878a5a8aac9",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+            "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+            "inspected": true,
+            "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: distinct mature short-square-faced stocky woman with blunt nose, tight pulled-back braid, consistent likeness across whole front/profile/back and two portraits; rejected Varai likeness no longer present.",
+          "Plain dull breastplate, buttoned charcoal wool coat/folded collar, leather harness, practical boots and blunt setting rod fit sapper role without futuristic pressure suit.",
+          "Broad matte bristle/knife planes construct face, chalk-holding hand and long coat folds; cool predawn shadow dominates cloth/iron with restricted warm side lamp accents.",
+          "Natural five-digit hands, readable exact title/name/labels, full body views, no scenery, floor patch/contact shadows or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "be6feef09ee0622b04a199c4cd813966be6eb595388e390db175af279882365d"
+      },
+      "outputSha256": "60663199f41d5e283f5cd9d5787860878902820f89be959e0aa49878a5a8aac9"
+    },
+    {
+      "id": "halwen",
+      "name": "Halwen",
+      "sourceIdentityId": "halwen",
+      "role": "Cursed sanctuary organizer, called Mother of Monsters",
+      "selectionEvidence": [
+        {
+          "quote": "cropped gray hair and a soot-black coat laced tight at one wrist.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 77
+        },
+        {
+          "quote": "A ring of keys hung at her hip beside a mason’s plumb bob.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 77
+        },
+        {
+          "quote": "No warning followed. Silence, and the curse with it.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 211
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Tall older human woman with cropped grey hair, no crown; voice/balance taxed.",
+        "lifeStage": "Older than army broadsheets portray; exact age unspecified.",
+        "proportions": "Taller than Chask initially judged; ordinary human tall build.",
+        "markings": "Soot and small lip blood during costly speaking; not grotesque mutation.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Soot-black coat laced tight at one wrist.",
+        "equipment": "Hip keys and mason's plumb bob; ordinary hammer for holding pin.",
+        "scale": "Adult human.",
+        "movement": "Braces while speaking, loses balance, presses throat when spent, carries litter after escape.",
+        "distinctiveFeatures": "Voiced breath has rasp, low vibration and clicks; no glow, telepathy, control or obedience. Silence stops curse."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparentlate60s, warm light-brown weathered skin, lean long face and cropped silver-grey hair, tall wiry body.",
+        "Soot-black work coat laced at right wrist, charcoal trousers and worn flat boots; keys and brass plumb bob at right hip. Art sides chosen only for consistency. Ordinary hammer, no crown/robes, voice-effort vs silent exhaustion expressions.",
+        "Actual coherent selected design uses right wrist lacing, an accepted optional side; source only specifies one wrist. Right-hip keys/plumb bob remain consistent."
+      ],
+      "states": [
+        {
+          "label": "Speaking",
+          "description": "Physical throat/voice strain; no sound-wave graphics or aura."
+        },
+        {
+          "label": "Silent",
+          "description": "One hand at throat, exhausted human face."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:halwen",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/halwen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:42:12.465844+00:00",
+            "status": "REVISE",
+            "prompt": "Paint ONE landscape 3:2 CHARACTER-ONLY OIL folio, clean plain light warm IVORY. Exact large heading \"Halwen\", smaller \"Mother of Monsters\". ONE HUMAN WOMAN repeated consistently. Finished source prose overrides the historical cover: she is OLDER with CROPPED GREY HAIR and a SOOT-BLACK COAT, NOTHING CROWNS HER. No long dark hair, young face, white dress, jewellery, throne or crown.\n\nChosen art identity: apparent late60s, TALL wiry/lean older body, warm light-BROWN weathered skin, LONG narrow bony face, long slightly hooked nose, high cheekbones, thin lips, tired deep-set dark eyes, close-cropped SILVER-GREY hair with ears visible. Powerful stubborn face despite physical exhaustion. No likeness borrowed from any previous character. Cropped hair identical in all views. Long SOOT-BLACK practical work coat, fastened simply, LEFT wrist cuff laced TIGHT with visible ordinary cord, dark charcoal trousers and worn flat dark leather boots. Ring of varied iron KEYS and a small ordinary brass mason's PLUMB BOB hang at anatomical RIGHT hip in ALL views (viewer left in front, viewer right in rear). No wizard accessories or glowing objects.\n\nLayout: three unclipped full front/profile/back standing views left/centre, same long face/height/clothes/hip objects. Slight leaning fatigue, hands natural. Front one relaxed hand holds an ordinary short handled IRON HAMMER downward; no heroic pose. Upper-right big head \"Speaking\": strained jaw, a tiny blood spot at lower lip, effort in throat, exhausted eyes. Mid-right head \"Silent\": exact same face/age, closed mouth and one natural hand lightly against throat. Lower-right compact object detail \"Keys and plumb bob\": keys on iron ring beside cone-shaped brass bob and short string; pure blank ivory behind. These are practical tools. Her voice curse is rasp/vibration/clicks and costs voice/balance; depict bodily strain ONLY, no aura, sound-wave lines, glowing eyes, mind control, monster form or extra mouths.\n\nLight is PREDawn siege with weak HOODED-LAMP/fire spill. MOST of coat, hair, face and hands must be LOW-VALUE cool blue-violet/umber shade. Narrow muted amber near-cheek/wrist/tool planes only, no bright all-over silver hair, no exposed studio portrait. Far face/back stays broad dark shadow. Ivory stays light/unshaded. Input2 gives dawn's cool shadow vocabulary only, no sunlight from later morning.\n\nPRIMARY input1 determines HOW to paint: broad large connected opaque bristle/knife masses like tree/rock planes, strong varied directional brushwork and selective impasto. Skin/hand/short hair as decisively painted as cloth. Age through bony planes and a few long crease strokes, not finely engraved wrinkle networks, glossy photo skin or CGI texture overlay. Input2 supports story oil colours, no ravine or ruin imported. No tiny uniform bevelled paint-chip mosaic, no anime. All same identity/head size, exact text readable. No scenery, other people, floor/contact shadows/patches, swatches or palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4f88ae0d-2d0e-4038-9d01-0417c95696e4.png",
+            "returnedSha256": "af7624c8ab1dae1c07a2c4df8232cdced1774842feb9bcdd444f0bc80d2827e3",
+            "completedAt": "2026-09-24T05:48:06.111057+00:00",
+            "review": "Likeness, older cropped-grey appearance, practical black coat, right-hip tools, hammer and costly-voice body states pass. Selected art naturally puts tight cuff lacing on RIGHT wrist consistently; source only fixes one wrist, so accept this unbound side in metadata. REVISE broad face/hair/hand highlights that read daylight; preserve strong paint, restore predominant cool predawn shadow."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:48:08.532552+00:00",
+            "status": "PASS",
+            "prompt": "Correct ONLY the lighting on this Halwen oil folio. Keep the exact tall elderly narrow-faced woman, cropped grey hair, all anatomy/expressions, black coat/RIGHT wrist lacing, RIGHT hip keys and plumb bob, hammer, hands, tools, text and layout.\n\nIt is still BEFORE DAWN with weak HOODED LAMPS, not evenly lit daytime. Reduce ALL face/hair/hand and metal-tool illumination. Most forehead, far cheek, grey hair and skin must fall into LARGE CONNECTED LOW-VALUE dark blue-violet/umber shadow. Grey hair becomes mostly dark grey-violet, with only a FEW muted silver strokes. Limit the low amber lamp to one small near-cheek plane, a narrow near wrist/knuckle and tiny metal edge. Darken the broad bright forehead, nose, whole cheek, white hair and close hand. Keep features readable and correct with broad painted planes but restrained exposure. Back black coat quiet cool shadow, no tracing rim or spotlit silhouette. Brass bob muted deep ochre in shadow, no glowing gold.\n\nKeep existing decisive oil/bristle masses; do not add realistic skin or new tiny shiny paint chips. Keep the IVORY PAGE light/plain exactly unchanged; no shading/vignette. Exact heading \"Halwen\", \"Mother of Monsters\", \"Speaking\", \"Silent\", \"Keys and plumb bob\" unchanged. Tiny lower-lip blood and throat-effort stay bodily, no magic. No new objects, scenery, floor/contact shadows or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4f88ae0d-2d0e-4038-9d01-0417c95696e4.png",
+                "sha256": "af7624c8ab1dae1c07a2c4df8232cdced1774842feb9bcdd444f0bc80d2827e3",
+                "inspected": true,
+                "role": "Exact same Halwen target for predawn lighting correction only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-69646e2d-b860-44fd-85f5-de21a35ddd9a.png",
+            "returnedSha256": "aa168e85363f97c1721df2f0026cdd3ddb61c48238c447fde1910355004588c7",
+            "completedAt": "2026-09-24T05:53:52.904410+00:00",
+            "review": [
+              "Actual pixels show consistent tall thin older woman with cropped grey hair/long bony face across three whole views and two portraits; source supersedes young crowned cover correctly.",
+              "Black practical coat with chosen right wrist lacing, right-hip key ring/plumb bob and hammer remain ordinary tools and coherent across rotations; optional wrist side documented.",
+              "Speaking effort/tiny lip blood and silent throat hand preserve bounded costly curse without aura, control or monster features.",
+              "Corrected predawn exposure: most face/hair/coat stays connected low-value cool/umber shadow, muted warm planes only; broad opaque oil forms, exact readable text, no scenery/floor shadows/swatches."
+            ]
+          }
+        ],
+        "prompt": "Correct ONLY the lighting on this Halwen oil folio. Keep the exact tall elderly narrow-faced woman, cropped grey hair, all anatomy/expressions, black coat/RIGHT wrist lacing, RIGHT hip keys and plumb bob, hammer, hands, tools, text and layout.\n\nIt is still BEFORE DAWN with weak HOODED LAMPS, not evenly lit daytime. Reduce ALL face/hair/hand and metal-tool illumination. Most forehead, far cheek, grey hair and skin must fall into LARGE CONNECTED LOW-VALUE dark blue-violet/umber shadow. Grey hair becomes mostly dark grey-violet, with only a FEW muted silver strokes. Limit the low amber lamp to one small near-cheek plane, a narrow near wrist/knuckle and tiny metal edge. Darken the broad bright forehead, nose, whole cheek, white hair and close hand. Keep features readable and correct with broad painted planes but restrained exposure. Back black coat quiet cool shadow, no tracing rim or spotlit silhouette. Brass bob muted deep ochre in shadow, no glowing gold.\n\nKeep existing decisive oil/bristle masses; do not add realistic skin or new tiny shiny paint chips. Keep the IVORY PAGE light/plain exactly unchanged; no shading/vignette. Exact heading \"Halwen\", \"Mother of Monsters\", \"Speaking\", \"Silent\", \"Keys and plumb bob\" unchanged. Tiny lower-lip blood and throat-effort stay bodily, no magic. No new objects, scenery, floor/contact shadows or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4f88ae0d-2d0e-4038-9d01-0417c95696e4.png",
+            "sha256": "af7624c8ab1dae1c07a2c4df8232cdced1774842feb9bcdd444f0bc80d2827e3",
+            "inspected": true,
+            "role": "Exact same Halwen target for predawn lighting correction only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:53:52.904410+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "aa168e85363f97c1721df2f0026cdd3ddb61c48238c447fde1910355004588c7",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-4f88ae0d-2d0e-4038-9d01-0417c95696e4.png",
+            "sha256": "af7624c8ab1dae1c07a2c4df8232cdced1774842feb9bcdd444f0bc80d2827e3",
+            "inspected": true,
+            "role": "Exact same Halwen target for predawn lighting correction only"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent tall thin older woman with cropped grey hair/long bony face across three whole views and two portraits; source supersedes young crowned cover correctly.",
+          "Black practical coat with chosen right wrist lacing, right-hip key ring/plumb bob and hammer remain ordinary tools and coherent across rotations; optional wrist side documented.",
+          "Speaking effort/tiny lip blood and silent throat hand preserve bounded costly curse without aura, control or monster features.",
+          "Corrected predawn exposure: most face/hair/coat stays connected low-value cool/umber shadow, muted warm planes only; broad opaque oil forms, exact readable text, no scenery/floor shadows/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "83b11b8849026e693dbcf64efefceb8296afb59fe0686191c5a3be38e7cf74c1"
+      },
+      "outputSha256": "aa168e85363f97c1721df2f0026cdd3ddb61c48238c447fde1910355004588c7"
+    },
+    {
+      "id": "kritt",
+      "name": "Kritt",
+      "sourceIdentityId": "kritt",
+      "role": "Goblin logistics organizer",
+      "selectionEvidence": [
+        {
+          "quote": "A goblin in a leather apron",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 51
+        },
+        {
+          "quote": "“Kritt.”",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 99
+        },
+        {
+          "quote": "he bared his teeth and threw the second bag instead.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 223
+        }
+      ],
+      "form": "Goblin",
+      "storyAppearance": {
+        "anatomy": "Male goblin with ordinary dexterous hands, teeth and distinct self-directed judgment.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Source unspecified; compact goblin interpretation.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Leather apron.",
+        "equipment": "Medicine crate/bags and counts on fingers.",
+        "scale": "Goblin; exact source height unstated.",
+        "movement": "Shoves through traffic, counts on fingers, disputes loads and throws medicine bags across washout.",
+        "distinctiveFeatures": "Refugee logistician, not controlled servant; speaks rough trade speech."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Compact adult goblin with muted olive-grey skin, broad triangular ears, long blunt nose, yellow-brown eyes, sparse dark short hair, five-digit hands; shorter than average human adult but no invented exact height.",
+        "Dark leather work apron over russet tunic and charcoal trousers, worn low boots, canvas medicine bag. No military heraldry or slavish expression."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:kritt",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/kritt.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:53:53.867360+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio, plain unshaded light warm IVORY. Exact large name \"Kritt\", smaller exact title \"Mother of Monsters\". ONE adult MALE GOBLIN logistics organizer, independent thinking personâ€”not servant, minion, caricature of a human group, monstrous villain or child.\n\nCompact short adult build, sturdy arms, muted OLIVE-GREY skin, broad triangular pointed EARS angled sideways, long BLUNT NOSE with wide rounded end, strong small chin, yellow-brown matte eyes, sparse short dark hair, mature cheek/jaw planes. Ordinary dexterous FIVE-DIGIT hands, nails blunt and work-worn. No horns, wings, tail, extra arms, claws, tusks or glowing eyes. The source original's goblins guide broad species shapes but Kritt has his own consistent clear identity. Apron required: plain worn dark BROWN LEATHER work apron from bib to below knees, ties at back, over a russet long-sleeved TUNIC, charcoal trousers and practical low dark leather boots. No armour or crown, no magical symbols.\n\nThree whole unclipped front/profile/back views on left/centre. Same identity and apron ties through all views. Front holds one plain canvas MEDICINE BAG by its loop against outer thigh, empty other hand relaxed; no inscription/medical logo needed. Right top face \"No\"â€”firm refusal, normal mouth; right middle same face \"Grain stayed\"â€”tired irritated resolve, slightly bared ordinary small teeth, not snarling monster. Bottom right large naturally proportioned five-digit hand counting THREE fingers, with the others folded, label \"Count went bad\". Plain ivory behind everything. No fellow goblins, no human, no refugee crowd, no crates/scene.\n\nPredawn siege lighting: MOST olive-grey skin, apron and tunic in CONNECTED DARK muted blue-grey/umber shadows. Small low hooded-lamp amber spill on one near cheek/ear edge and few near finger/apron planes. Preserve cool shadow, avoid bright green studio skin, back mostly dark. No self-glow, blue-orange spectacle, shiny rim or evenly lit face. Ivory page stays light.\n\nInput1 PRIMARY for broad connected opaque OIL paint masses/large bristle strokes, NOT orchard/daylight. Input2 for predawn cool palette and limited low warm edge ONLY, no ruins/ravine. Input3 original inspected goblin vocabulary ONLY, no humans/scene/rendering. Paint face/hands/ears like broad rock/tree masses with varied directional knife/bristle work, selective impasto and quiet dark passages. No realistic smooth skin with texture, tiny glossy bevelled chip mosaic, CGI/anime. Exact readable title/name/labels. No floor/contact shadows/ground patch, swatches or palette bars.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+                "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+                "inspected": true,
+                "role": "Original goblin vocabulary only: olive-grey skin, point ears, blunt long noses; no humans/animals/crown/subservient composition or photoreal technique"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-12436dc2-fb77-4d97-8fda-10a0e52c9dcf.png",
+            "returnedSha256": "df7845ba0f6f5cf64d29d5f3027917dfcfd7c4cffdaa540512c23294791d2330",
+            "completedAt": "2026-09-24T05:59:38.303427+00:00",
+            "review": [
+              "Actual pixels reviewed: compact mature male goblin, olive-grey skin, broad pointed ears, blunt long nose and sparse hair repeat coherently; purposeful refusal/resolve, no servile staging.",
+              "Leather full-bib work apron/russet tunic/canvas medicine bag match source; front/profile/back apron and natural body consistent. Enlarged hand has five digits with three raised.",
+              "Muted earthy/cool shadow dominates; limited warm low-lamp accents remain local. Opaque directional oil strokes construct skin/apron/cloth without imported original photoreal scene.",
+              "Exact source name/title and short labels readable; no source-unsupported powers, other cast, floor/contact shadows, scenery or swatches."
+            ]
+          }
+        ],
+        "prompt": "Create ONE 3:2 landscape character-only OIL folio, plain unshaded light warm IVORY. Exact large name \"Kritt\", smaller exact title \"Mother of Monsters\". ONE adult MALE GOBLIN logistics organizer, independent thinking personâ€”not servant, minion, caricature of a human group, monstrous villain or child.\n\nCompact short adult build, sturdy arms, muted OLIVE-GREY skin, broad triangular pointed EARS angled sideways, long BLUNT NOSE with wide rounded end, strong small chin, yellow-brown matte eyes, sparse short dark hair, mature cheek/jaw planes. Ordinary dexterous FIVE-DIGIT hands, nails blunt and work-worn. No horns, wings, tail, extra arms, claws, tusks or glowing eyes. The source original's goblins guide broad species shapes but Kritt has his own consistent clear identity. Apron required: plain worn dark BROWN LEATHER work apron from bib to below knees, ties at back, over a russet long-sleeved TUNIC, charcoal trousers and practical low dark leather boots. No armour or crown, no magical symbols.\n\nThree whole unclipped front/profile/back views on left/centre. Same identity and apron ties through all views. Front holds one plain canvas MEDICINE BAG by its loop against outer thigh, empty other hand relaxed; no inscription/medical logo needed. Right top face \"No\"â€”firm refusal, normal mouth; right middle same face \"Grain stayed\"â€”tired irritated resolve, slightly bared ordinary small teeth, not snarling monster. Bottom right large naturally proportioned five-digit hand counting THREE fingers, with the others folded, label \"Count went bad\". Plain ivory behind everything. No fellow goblins, no human, no refugee crowd, no crates/scene.\n\nPredawn siege lighting: MOST olive-grey skin, apron and tunic in CONNECTED DARK muted blue-grey/umber shadows. Small low hooded-lamp amber spill on one near cheek/ear edge and few near finger/apron planes. Preserve cool shadow, avoid bright green studio skin, back mostly dark. No self-glow, blue-orange spectacle, shiny rim or evenly lit face. Ivory page stays light.\n\nInput1 PRIMARY for broad connected opaque OIL paint masses/large bristle strokes, NOT orchard/daylight. Input2 for predawn cool palette and limited low warm edge ONLY, no ruins/ravine. Input3 original inspected goblin vocabulary ONLY, no humans/scene/rendering. Paint face/hands/ears like broad rock/tree masses with varied directional knife/bristle work, selective impasto and quiet dark passages. No realistic smooth skin with texture, tiny glossy bevelled chip mosaic, CGI/anime. Exact readable title/name/labels. No floor/contact shadows/ground patch, swatches or palette bars.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+            "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+            "inspected": true,
+            "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+            "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+            "inspected": true,
+            "role": "Original goblin vocabulary only: olive-grey skin, point ears, blunt long noses; no humans/animals/crown/subservient composition or photoreal technique"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:59:38.303427+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "df7845ba0f6f5cf64d29d5f3027917dfcfd7c4cffdaa540512c23294791d2330",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+            "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+            "inspected": true,
+            "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+            "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+            "inspected": true,
+            "role": "Original goblin vocabulary only: olive-grey skin, point ears, blunt long noses; no humans/animals/crown/subservient composition or photoreal technique"
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: compact mature male goblin, olive-grey skin, broad pointed ears, blunt long nose and sparse hair repeat coherently; purposeful refusal/resolve, no servile staging.",
+          "Leather full-bib work apron/russet tunic/canvas medicine bag match source; front/profile/back apron and natural body consistent. Enlarged hand has five digits with three raised.",
+          "Muted earthy/cool shadow dominates; limited warm low-lamp accents remain local. Opaque directional oil strokes construct skin/apron/cloth without imported original photoreal scene.",
+          "Exact source name/title and short labels readable; no source-unsupported powers, other cast, floor/contact shadows, scenery or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "d13a43deb4e420aba34a19c0764f47c047d14a8cc86a3341bcc94b65314d0ab5"
+      },
+      "outputSha256": "df7845ba0f6f5cf64d29d5f3027917dfcfd7c4cffdaa540512c23294791d2330"
+    },
+    {
+      "id": "nacre",
+      "name": "Nacre",
+      "sourceIdentityId": "nacre",
+      "role": "Pearl-skinned dark-crawled refugee and hazard guide",
+      "selectionEvidence": [
+        {
+          "quote": "Lamplight traveled over pearled skin",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 61
+        },
+        {
+          "quote": "old mortar whitening their fingertips",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 143
+        },
+        {
+          "quote": "Nacre dropped from the colonnade into the doorway, landing in a low fold of limbs.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 143
+        }
+      ],
+      "form": "Pale dark-crawled nonhuman refugee",
+      "storyAppearance": {
+        "anatomy": "Pearled pale skin, long/folding limbs, dexterous free hands, old mortar on fingertips; source they/them.",
+        "lifeStage": "Age unspecified; depicted adult.",
+        "proportions": "Low flexible climbing/crawling body; exact limb count unstated.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Pearled skin; ordinary shuttered lantern.",
+        "clothing": "Not stated.",
+        "equipment": "Shuttered lantern; taps pillars/floor to signal hazard.",
+        "scale": "Fits narrow crawlway unlike broad-bodied refugees.",
+        "movement": "Head-down clinging, low folded landings, deliberate taps and lantern flashes.",
+        "distinctiveFeatures": "Nonverbal purposeful signals; no telepathy, generic translator or magical glow."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Slim elongated humanoid body with two long arms and two long legs, no extra limbs; optional art anatomy not new canon. Pearl-grey smooth skin with broad oil planes, large dark matte eyes, flat small nose, hairless skull.",
+        "Simple charcoal modest wrap/tunic and belt lantern loop as optional practical clothing; enlarged mortar-coated fingers, one handheld shuttered lantern; no location."
+      ],
+      "states": [
+        {
+          "label": "Low fold",
+          "description": "Source low crouch, four separated plausible limbs."
+        },
+        {
+          "label": "Signals",
+          "description": "Five-digit tapping hand and ordinary shutter lantern, no magic."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:nacre",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/nacre.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:59:39.362247+00:00",
+            "status": "REVISE",
+            "prompt": "Paint ONE 3:2 landscape CHARACTER-ONLY oil reference folio on plain light warm IVORY. Exact large heading \"Nacre\", smaller \"Mother of Monsters\". One singular androgynous adult NONHUMAN REFUGEE, source they/them, a pearl-skinned dark-crawled climber. Not a goblin, not an animal, not a human woman/child.\n\nAnatomical design: very SLENDER ELONGATED humanoid body, two long arms and two long legs (EXACTLY FOUR limbs), ordinary elbow/knee placement but deep flexible folds, long dexterous FIVE-DIGIT hands/feet. Smooth PEARL-GREY pale skin painted in broad matte planes, subtly iridescent only in restrained light. Hairless long narrow skull, large DARK MATTE eyes with slight deep sockets, small flat nose/nostrils, thin mouth, small flat ear shapes; thoughtful alert nonthreatening face. No horns, tail, wings, tentacles, spikes, claws, glowing eyes, corpse wounds or sexual anatomy. Adult proportions, no huge cute baby head. No forced gender claim.\n\nSimple CHARCOAL modest knee-length wrap tunic with side splits for crawling, narrow cloth belt, bare arms/lower legs/feet. Garment plain and practical; no tribal/royal symbols, armour or jewels. One small ordinary SHUTTERED metal LANTERN with wire handle, held by a natural hand or attached to belt loop. Old pale MORTAR dust marks fingertips; no light emitted by the body. Communication uses deliberate taps and ordinary lantern flashes, no telepathy or universal translation.\n\nLayout: left a whole unclipped upright front identification view, beside it a complete low FOLDED side crouch with every limb visibly separate/anatomically plausible, and a complete rear standing view. Same skull, skin, wrap and limb lengths. Upper right same face \"Bad stone\" with focused urgency. Lower right enlarged mortar-whitened five-digit TAPPING HAND plus separate little ordinary lantern, label \"Three, then two\". No stone to tap on; leave pure ivory. Lantern partly shuttered, tiny weak warm aperture only, not magic beam. All figures standalone, no wall/ground/floor.\n\nLight: dark PREDawn sanctuary/crawlway with weak shutter-lantern spill. Pale skin must read mostly DARK PEARL-GREY/blue-violet/umber in connected low-value shadow; only a narrow small silver-ochre near cheek/knuckle catches lamp. Do NOT light the whole pale body white or make glowing silver alien. Back and deep limb folds quiet dark; details legible in broad planes. Ivory stays light/plain.\n\nPRIMARY input1 supplies bold broad OPAQUE bristle/knife paint masses and simplification, not orchard/daylight; input2 supplies predawn cool shadow rhythm, no ruin/ravine. Paint face/hands/limbs as decisively as landscape rock/tree shapes, varied directional strokes, selective thick impasto, calmer darks. No photoreal skin under texture, CGI/anime, uniform small glossy bevelled chips, ornate etched detail or bright rim. Exact readable title/name/labels. No scenery, contact shadows/ground patch, extra figures, swatches/palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7067b7c2-376b-4552-9947-712ef9b8e0d6.png",
+            "returnedSha256": "aacc6a32df81143cb34ecdae4b654b13241ecb26df876ba0ca49afee5ae0b150",
+            "completedAt": "2026-09-24T06:03:47.508744+00:00",
+            "review": "Four-limb elongated pearl-skinned identity, crouch anatomy, matte dark eyes, modest wrap, hand/lantern signal content and text pass. REVISE full-body pale skin too bright for predawn lantern setting. Also belt lantern flips side in crouch; remove all worn duplicates, retain empty loop and separate enlarged lantern to make continuity unambiguous."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:03:48.506642+00:00",
+            "status": "PASS",
+            "prompt": "Correct this Nacre folio in TWO precise ways. Preserve all exact character identity, facial shapes, long adult proportions, four-limb anatomy/crouch, hands/feet, charcoal wrap, big isolated tapping hand, separate large lantern, typography and layout.\n\n1. PREDAWN LIGHT: skin is pearl-grey local material but in the story's very dark predawn crawlway. Cover MOST of every forehead, head, neck, torso, arm, leg, feet and hand in LARGE CONNECTED LOW-VALUE cool dark grey-violet/umber shadow. Change broad bright silver/white planes to SUBDUED dark slate-pearl grey. Only a narrow small muted lamp reflection touches one near cheek/knuckle and a few closest limb planes. Back mostly dark grey, not brightly lit all-over. Do not make skin glowing, metallic chrome or glossy. Keep four-limb anatomy/face readable using quiet broad planes, NOT broad white fill light. Keep opaque large oil strokes and selective impasto. Keep ivory PAGE light/plain unchanged; no vignette.\n2. REMOVE the THREE SMALL lanterns hanging at the belts in the front, crouching and rear body studies, preserving garment shape and leaving an empty simple belt loop. Their duplicate side placement is distracting. KEEP the ONE LARGE separate shuttered lantern at lower right exactly as it is, with tiny restrained warm slit; it remains the equipment reference. Add no replacements or other objects.\n\nKeep exact text \"Nacre\", \"Mother of Monsters\", \"Bad stone\", \"Three, then two\". Mortar dust stays on fingertips; not luminous. Same coherent identity, big dark matte eyes, same source-neutral androgynous adult. No scenery, ground/contact shadow, extra body parts, extra person, swatches or palettes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7067b7c2-376b-4552-9947-712ef9b8e0d6.png",
+                "sha256": "aacc6a32df81143cb34ecdae4b654b13241ecb26df876ba0ca49afee5ae0b150",
+                "role": "Exact Nacre edit target, preserve identity/anatomy/paint; correct lighting and remove small worn lantern duplicates",
+                "inspected": true
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-cd1f2a7d-77da-4566-a5e4-3dcac578e263.png",
+            "returnedSha256": "9c645433015adb38f9411a63f18d2ee0e131ffd5914fc5e1210c1aacf81f52b2",
+            "completedAt": "2026-09-24T06:07:12.449686+00:00",
+            "review": [
+              "Actual pixels reviewed: one elongated androgynous adult pearl-skinned identity repeats across front/folded crouch/rear/head; four separate plausible limbs, hairless skull and consistent dark eyes.",
+              "Modest wrap, mortar-dusted natural tapping fingers and ordinary shuttered lantern support source signals. Belt-lantern duplicates removed so equipment has one unambiguous separate reference.",
+              "Pearl local skin is now mostly dark cool slate/violet with limited muted lamp-facing planes, not glowing or studio-white; broad opaque oil masses preserved.",
+              "Exact readable name/title/labels; no telepathy, glyphs, scenery, ground/contact shadows, extra people, swatches or palette."
+            ]
+          }
+        ],
+        "prompt": "Correct this Nacre folio in TWO precise ways. Preserve all exact character identity, facial shapes, long adult proportions, four-limb anatomy/crouch, hands/feet, charcoal wrap, big isolated tapping hand, separate large lantern, typography and layout.\n\n1. PREDAWN LIGHT: skin is pearl-grey local material but in the story's very dark predawn crawlway. Cover MOST of every forehead, head, neck, torso, arm, leg, feet and hand in LARGE CONNECTED LOW-VALUE cool dark grey-violet/umber shadow. Change broad bright silver/white planes to SUBDUED dark slate-pearl grey. Only a narrow small muted lamp reflection touches one near cheek/knuckle and a few closest limb planes. Back mostly dark grey, not brightly lit all-over. Do not make skin glowing, metallic chrome or glossy. Keep four-limb anatomy/face readable using quiet broad planes, NOT broad white fill light. Keep opaque large oil strokes and selective impasto. Keep ivory PAGE light/plain unchanged; no vignette.\n2. REMOVE the THREE SMALL lanterns hanging at the belts in the front, crouching and rear body studies, preserving garment shape and leaving an empty simple belt loop. Their duplicate side placement is distracting. KEEP the ONE LARGE separate shuttered lantern at lower right exactly as it is, with tiny restrained warm slit; it remains the equipment reference. Add no replacements or other objects.\n\nKeep exact text \"Nacre\", \"Mother of Monsters\", \"Bad stone\", \"Three, then two\". Mortar dust stays on fingertips; not luminous. Same coherent identity, big dark matte eyes, same source-neutral androgynous adult. No scenery, ground/contact shadow, extra body parts, extra person, swatches or palettes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7067b7c2-376b-4552-9947-712ef9b8e0d6.png",
+            "sha256": "aacc6a32df81143cb34ecdae4b654b13241ecb26df876ba0ca49afee5ae0b150",
+            "role": "Exact Nacre edit target, preserve identity/anatomy/paint; correct lighting and remove small worn lantern duplicates",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:07:12.449686+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "9c645433015adb38f9411a63f18d2ee0e131ffd5914fc5e1210c1aacf81f52b2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7067b7c2-376b-4552-9947-712ef9b8e0d6.png",
+            "sha256": "aacc6a32df81143cb34ecdae4b654b13241ecb26df876ba0ca49afee5ae0b150",
+            "role": "Exact Nacre edit target, preserve identity/anatomy/paint; correct lighting and remove small worn lantern duplicates",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed: one elongated androgynous adult pearl-skinned identity repeats across front/folded crouch/rear/head; four separate plausible limbs, hairless skull and consistent dark eyes.",
+          "Modest wrap, mortar-dusted natural tapping fingers and ordinary shuttered lantern support source signals. Belt-lantern duplicates removed so equipment has one unambiguous separate reference.",
+          "Pearl local skin is now mostly dark cool slate/violet with limited muted lamp-facing planes, not glowing or studio-white; broad opaque oil masses preserved.",
+          "Exact readable name/title/labels; no telepathy, glyphs, scenery, ground/contact shadows, extra people, swatches or palette."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "8318e1b531cddbf777359dd3eaf5279c493e406f3673a83be5e7b594b7ed0fa4"
+      },
+      "outputSha256": "9c645433015adb38f9411a63f18d2ee0e131ffd5914fc5e1210c1aacf81f52b2"
+    },
+    {
+      "id": "vardes",
+      "name": "Vardes",
+      "sourceIdentityId": "vardes",
+      "role": "Unnamed captain directing the assault and opposing Chask",
+      "selectionEvidence": [
+        {
+          "quote": "The captain touched the horn at his belt.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 23
+        },
+        {
+          "quote": "The captain drew his sword.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 241
+        },
+        {
+          "quote": "“You will account for that charge.”",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 263
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man, source male pronouns.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Ordinary adult human proportions.",
+        "markings": "No source-specific permanent markings.",
+        "materials": "Ordinary body/clothing materials.",
+        "clothing": "Military clothing; exact design unspecified.",
+        "equipment": "Belt horn, sword, powder red cord; no magical equipment.",
+        "scale": "Adult human.",
+        "movement": "Repeats orders/timetable, reaches for fuse, draws sword then retreats.",
+        "distinctiveFeatures": "No supernatural power established."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent50s, pale weathered skin, receding close-cut dark hair, short square moustache, hard narrow face, tall lean build.",
+        "Dull iron breastplate, charcoal military coat with muted red collar trim, plain trousers/boots. Belt horn and scabbard; full views sheathed sword, close stern face and hand/red cord."
+      ],
+      "states": [],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:vardes",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/vardes.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:07:13.469168+00:00",
+            "status": "REVISE",
+            "prompt": "Paint ONE 3:2 landscape CHARACTER-ONLY OIL reference folio on quiet light warm IVORY. Exact large name \"Vardes\", smaller title \"Mother of Monsters\", small role \"Captain\". Vardes is the authorized art-only name for this story's unnamed HUMAN MALE CAPTAIN. One identity throughout; no other cast.\n\nApparent50s, PALE weathered skin, TALL LEAN frame, LONG narrow face, narrow straight nose with slightly hooked tip, thin lips, close-set dark eyes and straight heavy eyebrows, high RECEDING hairline with close-cut dark hair/grey at temples, short square DARK MOUSTACHE with grey ends, NO beard. Professional controlled stern expression, neither cackling villain nor heroic smile. Mature face distinct from Chask or any other sheet.\n\nHistorical simple officer kit: plain dull IRON breastplate over long CHARCOAL WOOL buttoned military coat with a narrow muted dark-red collar facing, wool trousers and worn flat black-brown leather boots. Brown leather waist belt, simple short curved BRASS SIGNAL HORN at anatomical RIGHT hip; plain SHEATHED STRAIGHT SWORD at anatomical LEFT hip. Sword/horn consistent front/profile/back; no drawn attack pose. No futuristic zipper, pressure collar, ornamental heraldry, medals, glowing magic or cape.\n\nLayout: three whole unclipped front/profile/back standing views left/centre, restrained posture/hands. Two same-identity portraits right: \"Third signal\" (issuing controlled order), \"Account for it\" (dust on face, stern after withdrawal). Lower right enlarged ordinary five-digit hand holding a loose RED CORD end between thumb/index, labelled \"The charge\"; other fingers curl naturally. Cord is dull red fibre, NOT burning fuse, blood, spell or bright glow. No victim, soldiers, scene or charge/explosion objects.\n\nLight: still PREDawn on ruined approach, weak hooded lamp/fire spill. MOST skin, hair, wool and iron in LARGE CONNECTED DARK cool indigo/umber shadow. Restricted small muted amber on near cheek ridge/knuckles and one steel plane. Pale skin must be subdued grey-earth, NOT broadly white studio-lit face. Rear coat/metal quiet low values, no bright armour, outlining rim or daylight. Ivory page stays light/unshaded.\n\nPRIMARY input1 dictates large opaque bristle/knife paint shapes and simplification, no orchard/daylight. Input2 gives predawn dark blue-violet/earth vocabulary, no ruin/ravine. Strong broad directional oil on face, moustache, hands and clothes, selective impasto, calm connected shadow passages, few decisive creases. No photorealistic/CGI/anime skin or tiny glossy bevelled chips. Exact readable name/title/labels. No scenery, floor/contact shadow/ground patch, swatches/palette strips.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3ebbcd11-ab0b-4bf2-ba2c-0079abd214c3.png",
+            "returnedSha256": "26bd655658c875af9392a25d8e57cd31e3214130ced7ba8b6a79758f815941ba",
+            "completedAt": "2026-09-24T06:10:31.003999+00:00",
+            "review": "Identity, art-only name, military coat, source horn/sword/cord, consistent belt sides and natural hands pass. REVISE broad white steel and forehead/hand lighting to predawn connected dark shade; preserve otherwise strong oil work."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:10:31.926472+00:00",
+            "status": "PASS",
+            "prompt": "Lighting-only correction of this exact Vardes folio. Preserve face/age, receding hair, moustache, all anatomy/poses, clothes, belt-horn anatomical right/sword left, hands/red cord, exact text/layout and broad oil paint.\n\nBEFORE DAWN with weak hooded lamps: reduce illumination so MOST forehead/face/hand and STEEL breastplate in ALL views/heads is LARGE CONNECTED DARK blue-violet/umber shadow. Steel mostly dark slate grey, not bright silver. Lower broad white highlights across front/rear breastplate, forehead and hand; only a narrow dim warm near cheek/knuckle/steel ridge catches a small low lamp. Back dark, warm highlights sparse. Brass horn muted ochre, no bright shiny gold. Preserve readable features using subdued broad matte paint planes, no all-over studio/daylight, no rim outline. Keep red cord dull red, not glowing.\n\nIVORY PAGE stays light/plain unchanged. Same readable \"Vardes\", \"Mother of Monsters\", \"Captain\", \"Third signal\", \"Account for it\", \"The charge\". No smoothing or realistic skin, scenery, floor/contact shadows, swatches or new props.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3ebbcd11-ab0b-4bf2-ba2c-0079abd214c3.png",
+                "sha256": "26bd655658c875af9392a25d8e57cd31e3214130ced7ba8b6a79758f815941ba",
+                "inspected": true,
+                "role": "Exact Vardes lighting-only edit target"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-d6a85c6d-49c8-42a3-b6eb-8511e81f1e7f.png",
+            "returnedSha256": "fa577bbd8872476239b6622acec4f2dcbab1ab946c14c13e5acbd82a73980595",
+            "completedAt": "2026-09-24T06:15:42.710797+00:00",
+            "review": [
+              "Actual pixels show consistent lean mature male captain with receding hairline, square moustache, narrow face, controlled stern gestures; art-only name provenance retained.",
+              "Buttoned military coat, ordinary breastplate, right-hip horn and left-hip sword match all rotations; five-digit close hand holds dull red cord, no drawn violence or new power.",
+              "Corrected predawn exposure gives broad connected dark slate/umber face, steel and hand shadows with limited low warm planes; paint remains opaque and directional.",
+              "Exact name/title/role/labels readable; no scene, floor/contact shadow, swatches or other cast."
+            ]
+          }
+        ],
+        "prompt": "Lighting-only correction of this exact Vardes folio. Preserve face/age, receding hair, moustache, all anatomy/poses, clothes, belt-horn anatomical right/sword left, hands/red cord, exact text/layout and broad oil paint.\n\nBEFORE DAWN with weak hooded lamps: reduce illumination so MOST forehead/face/hand and STEEL breastplate in ALL views/heads is LARGE CONNECTED DARK blue-violet/umber shadow. Steel mostly dark slate grey, not bright silver. Lower broad white highlights across front/rear breastplate, forehead and hand; only a narrow dim warm near cheek/knuckle/steel ridge catches a small low lamp. Back dark, warm highlights sparse. Brass horn muted ochre, no bright shiny gold. Preserve readable features using subdued broad matte paint planes, no all-over studio/daylight, no rim outline. Keep red cord dull red, not glowing.\n\nIVORY PAGE stays light/plain unchanged. Same readable \"Vardes\", \"Mother of Monsters\", \"Captain\", \"Third signal\", \"Account for it\", \"The charge\". No smoothing or realistic skin, scenery, floor/contact shadows, swatches or new props.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3ebbcd11-ab0b-4bf2-ba2c-0079abd214c3.png",
+            "sha256": "26bd655658c875af9392a25d8e57cd31e3214130ced7ba8b6a79758f815941ba",
+            "inspected": true,
+            "role": "Exact Vardes lighting-only edit target"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:15:42.710797+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "fa577bbd8872476239b6622acec4f2dcbab1ab946c14c13e5acbd82a73980595",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3ebbcd11-ab0b-4bf2-ba2c-0079abd214c3.png",
+            "sha256": "26bd655658c875af9392a25d8e57cd31e3214130ced7ba8b6a79758f815941ba",
+            "inspected": true,
+            "role": "Exact Vardes lighting-only edit target"
+          }
+        ],
+        "evidence": [
+          "Actual pixels show consistent lean mature male captain with receding hairline, square moustache, narrow face, controlled stern gestures; art-only name provenance retained.",
+          "Buttoned military coat, ordinary breastplate, right-hip horn and left-hip sword match all rotations; five-digit close hand holds dull red cord, no drawn violence or new power.",
+          "Corrected predawn exposure gives broad connected dark slate/umber face, steel and hand shadows with limited low warm planes; paint remains opaque and directional.",
+          "Exact name/title/role/labels readable; no scene, floor/contact shadow, swatches or other cast."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "d12669feb05b0ae39e25c7afbb25da31cb3101bd38c20321cdc70d405784b6f5"
+      },
+      "nameAssignment": {
+        "name": "Vardes",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed captain directing the assault and opposing Chask",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Vardes and Brammel searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "fa577bbd8872476239b6622acec4f2dcbab1ab946c14c13e5acbd82a73980595"
+    },
+    {
+      "id": "brammel",
+      "name": "Brammel",
+      "sourceIdentityId": "brammel",
+      "role": "Unnamed six-legged burden animal whose refusals and route choices recur",
+      "selectionEvidence": [
+        {
+          "quote": "a broad-backed animal under a carrying frame",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 13
+        },
+        {
+          "quote": "The beast folded all six legs and flattened its ears.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 135
+        },
+        {
+          "quote": "It carried one pannier, no driver.",
+          "explanation": "Direct source appearance or sustained decisive role.",
+          "line": 213
+        }
+      ],
+      "form": "Six-legged animal",
+      "storyAppearance": {
+        "anatomy": "Broad back, exactly six legs and flattening ears; autonomous animal, not humanoid.",
+        "lifeStage": "Mature carrying animal; exact age/sex unspecified.",
+        "proportions": "Broad-backed load-bearing animal, no source species assignment.",
+        "markings": "No specified permanent markings.",
+        "materials": "Ordinary animal hide/fur, carrying frame/straps and pannier.",
+        "clothing": "Breast strap and load frame, later one remaining pannier.",
+        "equipment": "Carrying frame and removable grain/medicine burdens.",
+        "scale": "Broad ramp traveler; does not fit narrow crawlway.",
+        "movement": "Refuses unequal load, folds six legs, pins harness, tests foothold and chooses route.",
+        "distinctiveFeatures": "Independent refusal matters; no telepathy, speech, royal beast or puppet control."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Broad low barrel body, short coarse umber-grey fur, sturdy neck, blunt tapir-like muzzle, two large mobile ears, small dark animal eyes. Six stout legs arranged three pairs, each a rounded two-toed hoof; no horns/tusks/tail spikes.",
+        "Weathered wood carrying frame/brown breast strap; main one soft canvas pannier, no rider or handler. Three-quarter standing and strict side view exposing all six legs; smaller folded rest and ear/muzzle expression. No invented headstall/bit."
+      ],
+      "states": [
+        {
+          "label": "Refusal",
+          "description": "Six folded legs and flattened ears; no aggressive monster face."
+        },
+        {
+          "label": "Own way",
+          "description": "Unloaded/one-pannier animal assessing route, no terrain."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "mother-of-monsters:brammel",
+        "links": [],
+        "evidence": "Only this story establishes this identity; no shared identity inferred from role/name."
+      },
+      "references": [
+        {
+          "path": "stories/mother-of-monsters/title-image.jpg",
+          "sha256": "f4957f7accac49705c721cb9b2895eded9055201e9fe8b2d347f72941273e446",
+          "role": "Inspected historical cover; source supersedes Halwen's youthful crowned/long-hair/white-dress design; minor goblin shapes optional",
+          "inspected": true,
+          "notes": "Cover conflicts with finished prose: preserve cropped grey hair, older age, soot-black practical coat, no crown. Cover figures do not establish identities."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/interiors/01-sanctuary-chainhouse.png",
+          "sha256": "3e2e196e88af095b272edffb5d4767c160449e3d11cadc5c7d627140659e3788",
+          "role": "Group of Seven oils and connected cool shadow; source predawn/fire timing controls light; no location",
+          "inspected": true,
+          "notes": "Broad sculpted stone/oil masses and ochre/blue-grey complement; rendered daylight not copied over source predawn."
+        },
+        {
+          "path": "stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+          "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+          "role": "Oil directional brushwork, pale dawn edge and deep ravine blue shadow only; no scenery",
+          "inspected": true,
+          "notes": "Source starts predawn; sheet receives low hooded-lamp/fire flicker against dominant cool dawn shadow."
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+          "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+          "inspected": true,
+          "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+          "recovery": {
+            "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+            "zeroBasedUserMessageLine": 635,
+            "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+          }
+        }
+      ],
+      "output": "stories/mother-of-monsters/art/characters/brammel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:15:43.738546+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape CHARACTER-ONLY OIL reference folio on light plain warm IVORY. Exact large heading \"Brammel\", smaller \"Mother of Monsters\", small role \"Six-legged refugee animal\". Brammel is the authorized ART-ONLY NAME for the source's unnamed six-legged burden animal. ONE animal identity in repeated studies, NO human/handler/rider.\n\nAdult large broad-backed sturdy packing animal, long low BARREL BODY and stout short neck, BLUNT TAPIR-LIKE MUZZLE (no trunk), two LARGE mobile round-pointed EARS, small dark non-glowing animal eyes. Short coarse UMBER-GREY fur, lighter muted muzzle, ordinary modest short tail. EXACTLY SIX LEGS arranged THREE PAIRS along the body: one fore pair under shoulders, one middle pair under mid-body, one hind pair beneath rump. Each leg sturdy, ordinary joints and rounded TWO-TOED HOOF; not human hands/feet. NO extra legs, horns, tusks, antlers, spines, wings, reptile plates, humanoid face or magical marks. Same head/ears/body/fur/hoof anatomy in every study.\n\nWeathered wooden CARRYING FRAME on back with simple brown breast strap and ordinary buckles, ONE soft canvas pannier on anatomical LEFT flank, opposite side EMPTY. No saddle/rider/bit, no imposed guiding reins. This animal's refusal is respected; it is not a demon, mount being conquered or obedient pet. Do not anthropomorphize face into smile.\n\nLayout designed for leg count:\nUpper/left LARGE strict SIDE standing view facing left, body long enough for THREE separate near-side legs clearly visible beneath shoulder/middle/rump. Also THREE far-side legs naturally offset just behind/between near legs so SIX HOOVES can be counted, no overlap confusion. Label \"Six legs\".\nLower-left a smaller full three-quarter FRONT standing view, same one-pannier frame, six anatomically rooted legs (far limbs may partly occlude naturally).\nRight upper matching HEAD detail with ears flattened sideways, calm firm refusal, label \"No load\".\nRight lower a compact whole FOLDED resting view with all three leg pairs tucked naturally beneath body and ears flattened, no extra limbs, label \"Refusal\". Frame/pannier remain same. Ordinary ivory behind every pose, no floor/terrain.\n\nPREDawn siege, weak hooded lamps: most fur/body/face/frame/pannier in LARGE CONNECTED DARK cool umber/blue-grey shadow; a tiny muted warm reflection reaches near muzzle/ear and a few shoulder/harness planes. Grey fur should NOT become silver studio-white. Keep back dark, no bright all-over daylight or rim tracing. Ivory page stays light/unshaded.\n\nInput1 PRIMARY broad opaque OIL/bristle/knife masses like tree/rock/cloud shapes, no orchard/daylight. Input2 story predawn cool shadow/limited warm edge vocabulary only; no geography. Broad directional strokes build fur as simple connected masses, NOT individual realistic hair, CGI hide, tiny shiny bevelled chips or anime. Anatomy/limb count first; selective impasto, quiet darks. Exact readable words, all animals unclipped. No scenery/ground patch/contact shadows, humans, other creatures, swatches or palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY broad connected Group of Seven oil marks and simplification only; no orchard/daylight"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/mother-of-monsters/art/landscapes/01-sanctuary-above-the-ravine.png",
+                "sha256": "1d0f504a8a2c171f6994facc3fb2cf8875fa2960f1ff82cab1ed432e307bcefd",
+                "inspected": true,
+                "role": "Story predawn muted blue-violet shadow and very restricted warm edge light, no setting"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3f7d7bf1-5f6c-4e24-a4a5-f2d4e657a993.png",
+            "returnedSha256": "1e4a5dea5d3a187b18f066c8f642d6963a97507048e41154d7fecd42b117b49e",
+            "completedAt": "2026-09-24T06:20:30.937241+00:00",
+            "review": "Identity/body/fur/frame/pannier/ear refusal states and lower three-quarter view's six legs pass. BLOCKING: upper side view has SEVEN visible legs/hooves (extra fifth hoof counting left to right). Remove that extra whole leg to yield exactly three pairs. Also restrain widespread warm highlights/bright canvas toward cool predawn shade."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T06:20:32.010680+00:00",
+            "status": "PASS",
+            "prompt": "Correct this exact Brammel folio, preserving identity, body/head/ears, short fur, wooden frame, ONE pannier, poses, all text/layout and oil brushwork.\n\nCRITICAL ANATOMY: The UPPER large SIDE animal currently has SEVEN hooves in a row. Count left to right. REMOVE the entire FIFTH leg and its hoof, the small extra slanting leg directly beneath the pannier's left/lower edge, around 46% of image width and 50% image height. Fill that area with plain ivory matching background. Do not replace it. Keep the other SIX legs in their existing positions: two forelegs under shoulders, two middle legs under mid-body, two hindlegs under rump. This gives exactly THREE PAIRS / SIX HOOVES. All legs naturally attach to the body, no stump floating below pannier. The LOWER-LEFT three-quarter animal already has SIX legsâ€”preserve them exactly. Preserve the folded animal's natural three-pair tuck and head detail. No extra leg/foot/tail.\n\nLIGHT: reduce widespread warm bright fur and canvas highlights. It is PREDawn with weak hooded lamps: most fur/frame/pannier reads connected dark cool umber/slate-blue shadow, with just a few muted warm near muzzle/ear/shoulder strokes. Canvas mainly dark grey-ochre, not bright daylight beige. No uniformly lit coat, glossy rim or studio effect. Ivory PAGE stays light/plain unchanged.\n\nKeep exact \"Brammel\", \"Mother of Monsters\", \"Six-legged refugee animal\", \"Six legs\", \"No load\", \"Refusal\". Same broad opaque varied directional oil strokes; no realistic fur texture overlay, no scene/floor/contact shadows/swatches or other creature.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3f7d7bf1-5f6c-4e24-a4a5-f2d4e657a993.png",
+                "sha256": "1e4a5dea5d3a187b18f066c8f642d6963a97507048e41154d7fecd42b117b49e",
+                "role": "Exact Brammel target; repair seven-to-six upper side-view limb count, preserve already-correct lower six",
+                "inspected": true
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-7079e7df-2d8c-48ee-902c-645ac889b28b.png",
+            "returnedSha256": "3c79e09752ec02e2c37fc7f840f202d20f48aa48d511037f7973445b108f8ecc",
+            "completedAt": "2026-09-24T06:25:10.360544+00:00",
+            "review": [
+              "Actual pixels counted: upper side view now has exactly SIX distinct hooves/legs in three rooted pairs; lower three-quarter view retains exactly six. Folded pose plausibly tucks the same paired limbs; extra upper fifth leg removed.",
+              "Broad-backed umber-grey animal, blunt muzzle/mobile ears, ordinary wood frame/breast strap and one left-flank canvas pannier consistent throughout; no rider, handler, horns or humanoid intent.",
+              "Ear-flattened refusal and independently standing animal preserve source agency. Art-only name provenance retained; no source or canon edit.",
+              "Cool dark predawn fur/canvas masses and restrained warm planes, broad opaque oil; exact readable text and all figures unclipped, no scenery, contact shadows or swatches."
+            ]
+          }
+        ],
+        "prompt": "Correct this exact Brammel folio, preserving identity, body/head/ears, short fur, wooden frame, ONE pannier, poses, all text/layout and oil brushwork.\n\nCRITICAL ANATOMY: The UPPER large SIDE animal currently has SEVEN hooves in a row. Count left to right. REMOVE the entire FIFTH leg and its hoof, the small extra slanting leg directly beneath the pannier's left/lower edge, around 46% of image width and 50% image height. Fill that area with plain ivory matching background. Do not replace it. Keep the other SIX legs in their existing positions: two forelegs under shoulders, two middle legs under mid-body, two hindlegs under rump. This gives exactly THREE PAIRS / SIX HOOVES. All legs naturally attach to the body, no stump floating below pannier. The LOWER-LEFT three-quarter animal already has SIX legsâ€”preserve them exactly. Preserve the folded animal's natural three-pair tuck and head detail. No extra leg/foot/tail.\n\nLIGHT: reduce widespread warm bright fur and canvas highlights. It is PREDawn with weak hooded lamps: most fur/frame/pannier reads connected dark cool umber/slate-blue shadow, with just a few muted warm near muzzle/ear/shoulder strokes. Canvas mainly dark grey-ochre, not bright daylight beige. No uniformly lit coat, glossy rim or studio effect. Ivory PAGE stays light/plain unchanged.\n\nKeep exact \"Brammel\", \"Mother of Monsters\", \"Six-legged refugee animal\", \"Six legs\", \"No load\", \"Refusal\". Same broad opaque varied directional oil strokes; no realistic fur texture overlay, no scene/floor/contact shadows/swatches or other creature.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3f7d7bf1-5f6c-4e24-a4a5-f2d4e657a993.png",
+            "sha256": "1e4a5dea5d3a187b18f066c8f642d6963a97507048e41154d7fecd42b117b49e",
+            "role": "Exact Brammel target; repair seven-to-six upper side-view limb count, preserve already-correct lower six",
+            "inspected": true
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:25:10.360544+00:00",
+        "sourceSha256": "786500ac81a8e4ed544d84a225dacdc6d5272e46d70ac70d34f1794aee08a6eb",
+        "outputSha256": "3c79e09752ec02e2c37fc7f840f202d20f48aa48d511037f7973445b108f8ecc",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3f7d7bf1-5f6c-4e24-a4a5-f2d4e657a993.png",
+            "sha256": "1e4a5dea5d3a187b18f066c8f642d6963a97507048e41154d7fecd42b117b49e",
+            "role": "Exact Brammel target; repair seven-to-six upper side-view limb count, preserve already-correct lower six",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels counted: upper side view now has exactly SIX distinct hooves/legs in three rooted pairs; lower three-quarter view retains exactly six. Folded pose plausibly tucks the same paired limbs; extra upper fifth leg removed.",
+          "Broad-backed umber-grey animal, blunt muzzle/mobile ears, ordinary wood frame/breast strap and one left-flank canvas pannier consistent throughout; no rider, handler, horns or humanoid intent.",
+          "Ear-flattened refusal and independently standing animal preserve source agency. Art-only name provenance retained; no source or canon edit.",
+          "Cool dark predawn fur/canvas masses and restrained warm planes, broad opaque oil; exact readable text and all figures unclipped, no scenery, contact shadows or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "c1b5d69f5ef3ecfe2d61516149c1edeea98258b9b9ebefeea3e784ab935c413e"
+      },
+      "nameAssignment": {
+        "name": "Brammel",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Unnamed six-legged burden animal whose refusals and route choices recur",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Vardes and Brammel searched across universe, frozen NAMES and all story Markdown; no matches."
+      },
+      "outputSha256": "3c79e09752ec02e2c37fc7f840f202d20f48aa48d511037f7973445b108f8ecc"
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+      "displayName": "codex-clipboard-937415c3-ade9-4b95-9308-932266dfbbcd.png",
+      "sha256": "00abe6ec9e8dcf73d49b4867d9b4e02a2ccc8071f1ec393d884e7e64e7ad5ba8",
+      "inspected": true,
+      "role": "Original inspected: historical young crowned woman conflicts with finished older cropped-grey-haired black-coat Halwen. Only optional goblin physical vocabulary/quiet dark palette; no collective sheet or obedience.",
+      "recovery": {
+        "archive": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-11T07-23-44-01a09035-90af-7190-bd43-55f5581f63b0.jsonl",
+        "zeroBasedUserMessageLine": 635,
+        "method": "Exact adjacent original user input_image data URL decoded by coordinator; not regenerated."
+      }
+    }
+  ]
+}

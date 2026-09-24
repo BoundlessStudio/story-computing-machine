@@ -1,0 +1,496 @@
+{
+  "schemaVersion": 1,
+  "slug": "kite-letters-below",
+  "title": "A Question for the Sky",
+  "source": "stories/kite-letters-below/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Read entire finished visual-correspondence source including final manual optical configuration and uncertain Piru attribution. Four consequential sustained identities: Sairu, Lassan, Orvek and distant Piru. Current source supersedes historical kite/capsule prompt with explicit rewrite authorization; no kites/capsules depicted.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "duty operator and other surface signal tenders",
+      "reason": "Brief functional voices or distant group, no sustained individual main arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "sairu",
+      "name": "Sairu",
+      "role": "protagonist orbital radiator mechanic",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She cleared them, then removed the acquisition set from automatic ground search.",
+          "explanation": "Discovers contact, learns bounded correspondence and chooses the resolution."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult worker; exact age/face/hair unspecified.",
+        "clothing": "Helmet display during exterior inspection; interior attire unspecified.",
+        "equipment": "Pressure helmet inferred from exterior station work, ordinary maintenance tools; source optical controls remain devices, not a personal power.",
+        "movement": "Braces knee for exterior work, floats at interior hub, catches rails; ordinary human body."
+      },
+      "visualInterpretation": [
+        "Adult about thirty-two, tan skin, strong triangular face with wide cheekbones/small chin, tightly coiled black hair cropped close, broad nose and ordinary brown eyes.",
+        "Exterior work pressure suit and plain interior slate-blue coverall are restrained functional visual interpretation; no space-agency logos or invented rank."
+      ],
+      "states": [
+        {
+          "name": "Exterior inspection",
+          "description": "Complete functional helmeted pressure suit."
+        },
+        {
+          "name": "Inside hub",
+          "description": "Same woman in ordinary slate-blue coverall, no vacuum suit."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "kite-letters-below:sairu",
+        "links": [],
+        "evidence": "Exact source identity; no universe match found."
+      },
+      "output": "stories/kite-letters-below/art/characters/sairu.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Sairu\"; exact title \"A Question for the Sky\". One HUMAN WOMAN about32, tan complexion, TRIANGULAR face with wide high cheekbones and small chin, broad short nose, tightly coiled BLACK hair cropped very close, matte dark-brown eyes. Lean practical build. Not a glamorous pinup, no makeup or sexualized suit.\nTwo complete full-body views: left labelled \"Exterior inspection\", wearing a functional worn pale-gray pressure suit with sealed clear helmet, gloves and boots, modest life-support pack and plain utility connections, no logos, badges, weapons or invented magic. Her same face is dimly visible through an ordinary clear visor. Slight relaxed weightless bent knees, both boots inside canvas, no surrounding station or tether attached to scenery. Middle labelled \"Inside hub\", the exact SAME woman in a plain SLATE-BLUE zip-front utility coverall and low dark work boots, bare hands, no helmet, three-quarter rear turn showing recognizable profile and cropped coils. No standing platform or ground shadow patch. Large uncovered same face labelled \"Mechanic\"; one simple isolated pressure helmet detail labelled \"Inspection visor\", no telemetry paragraph or glowing symbols.\nImage1 station hub painting PRIMARY for matte pale-gray metal/blue cloth oil and restrained source lamp/cool reflected light. Keep connected cool charcoal-blue shadow over at least half suit and face, limited pale cool highlights and tiny muted ochre practical-lamp accents; interior face visible in dim practical light, not sunny studio. Paint visor in a few broad matte planes with minimal reflection, no shiny photoreal glass. Exact same facial geometry/hair under helmet and in uncovered face. Two clothing states labelled; no sci-fi weapon, cape, decorative circuit skin or mechanized body.",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+            "role": "source practical lamp/cool reflected light, muted gray-blue machinery palette and bold oil abstraction only; no hub",
+            "inspected": true,
+            "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:48:34.568122+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Sairu\"; exact title \"A Question for the Sky\". One HUMAN WOMAN about32, tan complexion, TRIANGULAR face with wide high cheekbones and small chin, broad short nose, tightly coiled BLACK hair cropped very close, matte dark-brown eyes. Lean practical build. Not a glamorous pinup, no makeup or sexualized suit.\nTwo complete full-body views: left labelled \"Exterior inspection\", wearing a functional worn pale-gray pressure suit with sealed clear helmet, gloves and boots, modest life-support pack and plain utility connections, no logos, badges, weapons or invented magic. Her same face is dimly visible through an ordinary clear visor. Slight relaxed weightless bent knees, both boots inside canvas, no surrounding station or tether attached to scenery. Middle labelled \"Inside hub\", the exact SAME woman in a plain SLATE-BLUE zip-front utility coverall and low dark work boots, bare hands, no helmet, three-quarter rear turn showing recognizable profile and cropped coils. No standing platform or ground shadow patch. Large uncovered same face labelled \"Mechanic\"; one simple isolated pressure helmet detail labelled \"Inspection visor\", no telemetry paragraph or glowing symbols.\nImage1 station hub painting PRIMARY for matte pale-gray metal/blue cloth oil and restrained source lamp/cool reflected light. Keep connected cool charcoal-blue shadow over at least half suit and face, limited pale cool highlights and tiny muted ochre practical-lamp accents; interior face visible in dim practical light, not sunny studio. Paint visor in a few broad matte planes with minimal reflection, no shiny photoreal glass. Exact same facial geometry/hair under helmet and in uncovered face. Two clothing states labelled; no sci-fi weapon, cape, decorative circuit skin or mechanized body.",
+            "references": [
+              {
+                "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+                "role": "source practical lamp/cool reflected light, muted gray-blue machinery palette and bold oil abstraction only; no hub",
+                "inspected": true,
+                "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+              }
+            ],
+            "preflight": [
+              "Full current source/marker and revised prompt read; pressure helmet exterior and floating interior are source-supported, detailed suit/coverall and adult face recorded as interpretation.",
+              "Source cover has no usable face; actual control-hub oil inspected and pinned for limited practical light/paint. No unrelated character reference can donate a face.",
+              "Distinct exterior/interior clothing labels and matching cropped-coil facial identity feasible; no scene, kites/capsules, glowing circuitry or body powers."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f2a8dee4-e371-4259-b97e-bbe3900e5598.png",
+            "finishedAt": "2026-09-24T02:50:55.581294+00:00",
+            "outputSha256": "18413499be91124fa6fda2f7d9cd88a0fe5dbf776ec7e21f5005aac9df04c1ac",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual returned pixels inspected: exact Sairu/title and exterior/interior labels, two complete unclipped adult female views, matching triangular face/broad nose/cropped coils under helmet, rear profile and large portrait.",
+              "Pale-gray functional pressure suit and blue coverall are clearly separated supported work states; simple visor detail and ordinary hands, no implants/weapons/insignia or source-obsolete kite/capsule.",
+              "Muted cool gray-blue practical-light grouping and matte broad oil including face/visor; quiet ivory character-only sheet, no scenery/floor/paint swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-f2a8dee4-e371-4259-b97e-bbe3900e5598.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "01f65edfbdc5e1d5c78110fa01d7346e8ac000937d62cea58d03bca117a99748",
+        "outputSha256": "18413499be91124fa6fda2f7d9cd88a0fe5dbf776ec7e21f5005aac9df04c1ac",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+            "role": "source practical lamp/cool reflected light, muted gray-blue machinery palette and bold oil abstraction only; no hub",
+            "inspected": true,
+            "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+          }
+        ],
+        "evidence": [
+          "Actual returned pixels inspected: exact Sairu/title and exterior/interior labels, two complete unclipped adult female views, matching triangular face/broad nose/cropped coils under helmet, rear profile and large portrait.",
+          "Pale-gray functional pressure suit and blue coverall are clearly separated supported work states; simple visor detail and ordinary hands, no implants/weapons/insignia or source-obsolete kite/capsule.",
+          "Muted cool gray-blue practical-light grouping and matte broad oil including face/visor; quiet ivory character-only sheet, no scenery/floor/paint swatches."
+        ],
+        "specificationSha256": "48c4e096c8c71688e7398b9ceed9b598c81177a2caa756ff866d4111d0c3141d"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "18413499be91124fa6fda2f7d9cd88a0fe5dbf776ec7e21f5005aac9df04c1ac"
+    },
+    {
+      "id": "lassan",
+      "name": "Lassan",
+      "role": "archivist and language-evidence partner",
+      "form": "ordinary adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "No. I'm trying not to finish their meaning for them.",
+          "explanation": "Sustained interpreter sets epistemic and consent boundaries and records final terms."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult, exact age/face/hair unspecified.",
+        "clothing": "One cuff has purple berry juice; otherwise unspecified.",
+        "equipment": "Slate, two label rubbings and printed packet; no magical language ability.",
+        "movement": "Straps in at hub, holds paper, rubs thumbnail against desk; ordinary."
+      },
+      "visualInterpretation": [
+        "Stocky short man about sixty, round face/full cheeks and bulbous nose, balding crown with short gray side hair, clean-shaven, warm pale complexion.",
+        "Muted taupe work jacket over ochre shirt, dark trousers, plain shoes and one purple-stained cuff chosen as restrained attire."
+      ],
+      "states": [
+        {
+          "name": "Archive work",
+          "description": "Jacket, paper rubbings and slate, ordinary indoor station light."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "kite-letters-below:lassan",
+        "links": [],
+        "evidence": "Exact source identity; no universe match found."
+      },
+      "output": "stories/kite-letters-below/art/characters/lassan.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Lassan\"; exact title \"A Question for the Sky\". One ordinary HUMAN MAN about60, SHORT STOCKY build, distinctly ROUND full-cheeked face, bulbous rounded nose, large slightly projecting ears, BALDING crown with sparse short gray side hair, clean-shaven, warm pale complexion and small matte hazel eyes. Face is not angular heroic male. Mildly skeptical focused expression. Plain muted TAUPE work jacket over dull ochre shirt, charcoal loose trousers, ordinary dark low shoes; one cuff bears a small PURPLE berry stain. No eyeglasses, medals, cape, invented uniform rank or weapons.\nTwo complete same-costume full-body views labelled \"Archive work\" and \"Rear\": front three-quarter with two folded PAPER label rubbings held plainly in one hand, rear three-quarter with recognizable bald crown and profile. Large sameface labelled \"Reading carefully\". Personal detail shows one small ordinary SLATE and two pale paper rubbings, a few abstract black service-script marks but no readable invented language or long text; label \"Attested signs\". Objects look mundane, not holographic or magical. No bowl, desk, cabinet or room.\nImage1 PRIMARY source archive painting for natural mixed light: subdued overhead cool-white fixture on upper planes, small warm desk-lamp accent on nearer hand/cheek, deep connected slate shadows on far planes. Do not automatically orange-blue rim both sides or brighten all surfaces. Broad matte paint in round facial masses, paper and cloth, quiet ivory support. Keep age, baldness, broad round head and body consistent across views.",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/01-maintenance-archive.png",
+            "role": "source ordinary archive practical light and connected oil palette/masses only; no room or furniture",
+            "inspected": true,
+            "sha256": "cd9142da6cab3d04c3ea742c4721dab8ea8d49b625315be8d9839e20016604d3"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:48:34.571169+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Lassan\"; exact title \"A Question for the Sky\". One ordinary HUMAN MAN about60, SHORT STOCKY build, distinctly ROUND full-cheeked face, bulbous rounded nose, large slightly projecting ears, BALDING crown with sparse short gray side hair, clean-shaven, warm pale complexion and small matte hazel eyes. Face is not angular heroic male. Mildly skeptical focused expression. Plain muted TAUPE work jacket over dull ochre shirt, charcoal loose trousers, ordinary dark low shoes; one cuff bears a small PURPLE berry stain. No eyeglasses, medals, cape, invented uniform rank or weapons.\nTwo complete same-costume full-body views labelled \"Archive work\" and \"Rear\": front three-quarter with two folded PAPER label rubbings held plainly in one hand, rear three-quarter with recognizable bald crown and profile. Large sameface labelled \"Reading carefully\". Personal detail shows one small ordinary SLATE and two pale paper rubbings, a few abstract black service-script marks but no readable invented language or long text; label \"Attested signs\". Objects look mundane, not holographic or magical. No bowl, desk, cabinet or room.\nImage1 PRIMARY source archive painting for natural mixed light: subdued overhead cool-white fixture on upper planes, small warm desk-lamp accent on nearer hand/cheek, deep connected slate shadows on far planes. Do not automatically orange-blue rim both sides or brighten all surfaces. Broad matte paint in round facial masses, paper and cloth, quiet ivory support. Keep age, baldness, broad round head and body consistent across views.",
+            "references": [
+              {
+                "path": "stories/kite-letters-below/art/interiors/01-maintenance-archive.png",
+                "role": "source ordinary archive practical light and connected oil palette/masses only; no room or furniture",
+                "inspected": true,
+                "sha256": "cd9142da6cab3d04c3ea742c4721dab8ea8d49b625315be8d9839e20016604d3"
+              }
+            ],
+            "preflight": [
+              "Full source supports male archivist, paper/label/slate and berry cuff; exact age, bald round head and clothes declared interpretation.",
+              "Actual source archive painting inspected; cool fixtures and small desk lamp motivate subdued mixed light, no copied room.",
+              "Two same identity studies with broad round face and short stocky body, ordinary personal documents only. No invented language claims or long captions."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0a068d7f-67d0-436b-ba89-84a07f7fef08.png",
+            "finishedAt": "2026-09-24T02:50:55.602727+00:00",
+            "outputSha256": "59b258e120f846a35348598a31340768b8962060ae17239113089e933bc13d2e",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual returned pixels inspected: exact Lassan/title/labels; coherent stocky round-faced balding older man, distinct from angular prior cast, matching across complete front/rear and expressive close study.",
+              "Paper rubbings, ordinary slate and purple cuff stain supported; small abstract marks do not claim a translated real script. Natural hands and complete boots; no invented rank or gadget.",
+              "Broad matte taupe/ochre cloth and painted pale round facial masses in practical overhead light with muted shadow; warm ivory remains character-only and swatch-free."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0a068d7f-67d0-436b-ba89-84a07f7fef08.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "01f65edfbdc5e1d5c78110fa01d7346e8ac000937d62cea58d03bca117a99748",
+        "outputSha256": "59b258e120f846a35348598a31340768b8962060ae17239113089e933bc13d2e",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/01-maintenance-archive.png",
+            "role": "source ordinary archive practical light and connected oil palette/masses only; no room or furniture",
+            "inspected": true,
+            "sha256": "cd9142da6cab3d04c3ea742c4721dab8ea8d49b625315be8d9839e20016604d3"
+          }
+        ],
+        "evidence": [
+          "Actual returned pixels inspected: exact Lassan/title/labels; coherent stocky round-faced balding older man, distinct from angular prior cast, matching across complete front/rear and expressive close study.",
+          "Paper rubbings, ordinary slate and purple cuff stain supported; small abstract marks do not claim a translated real script. Natural hands and complete boots; no invented rank or gadget.",
+          "Broad matte taupe/ochre cloth and painted pale round facial masses in practical overhead light with muted shadow; warm ivory remains character-only and swatch-free."
+        ],
+        "specificationSha256": "9512046dcb19ed9d0a1d1e00d9099fdfbb9aad2b09a50db18b80db3168f856ee"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "59b258e120f846a35348598a31340768b8962060ae17239113089e933bc13d2e"
+    },
+    {
+      "id": "orvek",
+      "name": "Orvek",
+      "role": "supervisor who authorizes bounded reply and accepts audit responsibility",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "It will expose me. I'm authorizing the excursion.",
+          "explanation": "Sets thermal limits and accepts consequences through multiple scenes."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult supervisor, exact age/appearance unspecified.",
+        "equipment": "Wrist slate signed by thumb, ordinary restraints in weightless interior.",
+        "clothing": "Not described; no rank insignia established.",
+        "movement": "Checks time and temperature, releases restraint, assigns local manual acquisition."
+      },
+      "visualInterpretation": [
+        "Tall broad-shouldered woman about forty-five, dark brown skin, long rectangular face, high arched nose, thick brows, black hair shaved close at sides and gathered into a small high knot.",
+        "Plain muted brick-red utility jacket and charcoal trousers/low boots, wrist slate, all non-canon clothing interpretation."
+      ],
+      "states": [
+        {
+          "name": "Control duty",
+          "description": "Same ordinary station-duty clothes and wrist slate."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "kite-letters-below:orvek",
+        "links": [],
+        "evidence": "Exact source identity; no universe match found."
+      },
+      "output": "stories/kite-letters-below/art/characters/orvek.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Orvek\"; exact title \"A Question for the Sky\". One ordinary HUMAN WOMAN about45, TALL broad-shouldered build, dark brown skin, LONG RECTANGULAR face, high slightly arched nose, thick straight eyebrows, full firm mouth, black hair shaved close at both sides and tied into a SMALL HIGH KNOT. Brown eyes small matte shapes. Dry attentive authority, no smile or glamorous stance. Plain MUTED BRICK-RED utility jacket closed over dark shirt, charcoal trousers and plain low work boots. No officer epaulettes, insignia, weapons, medals, long cloak or additional technology implanted in body.\nTwo complete same-costume front three-quarter and rear three-quarter studies, labelled \"Control duty\" and \"Rear\", relaxed weightless-neutral posture with slightly bent knees, no rail or room. One WRIST SLATE secured simply to a forearm; other hand rests naturally near it, do not show complex typing. Large matching long face labelled \"Supervisor\". Small isolated wrist-slate detail labelled \"Authorized excursion\", dark ordinary screen with three simple muted marks; no paragraph, hologram or glowing effect. Hands ordinary, intact, natural five-finger anatomy. Her face and hair distinct from Sairu, no close-cropped coils.\nImage1 PRIMARY source hub painting sets restrained practical-light colour: small muted ochre lamp-facing planes, cool subdued gray-blue reflected light, connected deep charcoal shadow on far face/body. Keep more than half face understated, avoid uniform bright studio fill or cinematic neon rims. Render skin and hair with broad decisive matte oil masses and little eye detail; maintain quiet ivory and no surrounding station.",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+            "role": "source control-hub practical light and matte muted oil masses only; no environment",
+            "inspected": true,
+            "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:51:32.856073+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Orvek\"; exact title \"A Question for the Sky\". One ordinary HUMAN WOMAN about45, TALL broad-shouldered build, dark brown skin, LONG RECTANGULAR face, high slightly arched nose, thick straight eyebrows, full firm mouth, black hair shaved close at both sides and tied into a SMALL HIGH KNOT. Brown eyes small matte shapes. Dry attentive authority, no smile or glamorous stance. Plain MUTED BRICK-RED utility jacket closed over dark shirt, charcoal trousers and plain low work boots. No officer epaulettes, insignia, weapons, medals, long cloak or additional technology implanted in body.\nTwo complete same-costume front three-quarter and rear three-quarter studies, labelled \"Control duty\" and \"Rear\", relaxed weightless-neutral posture with slightly bent knees, no rail or room. One WRIST SLATE secured simply to a forearm; other hand rests naturally near it, do not show complex typing. Large matching long face labelled \"Supervisor\". Small isolated wrist-slate detail labelled \"Authorized excursion\", dark ordinary screen with three simple muted marks; no paragraph, hologram or glowing effect. Hands ordinary, intact, natural five-finger anatomy. Her face and hair distinct from Sairu, no close-cropped coils.\nImage1 PRIMARY source hub painting sets restrained practical-light colour: small muted ochre lamp-facing planes, cool subdued gray-blue reflected light, connected deep charcoal shadow on far face/body. Keep more than half face understated, avoid uniform bright studio fill or cinematic neon rims. Render skin and hair with broad decisive matte oil masses and little eye detail; maintain quiet ivory and no surrounding station.",
+            "references": [
+              {
+                "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+                "role": "source control-hub practical light and matte muted oil masses only; no environment",
+                "inspected": true,
+                "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+              }
+            ],
+            "preflight": [
+              "Complete source: female supervisor with wrist slate, thumb approval and ordinary human body; adult casting/costume non-canon.",
+              "Actual hub painting inspected for restrained practical lights; no unrelated face anchor or rank/cybernetic invention.",
+              "Same high-knot/shaved-side rectangular head across views, wrist slate personal detail and complete isolated body fit."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-36dc5448-01e7-49fa-9e5f-fe485b03cd61.png",
+            "finishedAt": "2026-09-24T02:53:48.575390+00:00",
+            "outputSha256": "b1f31242954b1a7354bf08ed1e1b9c8d8dc640853a145152bb9d82e3f5c9746d",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output inspected: exact Orvek/title/labels and coherent tall adult woman with long rectangular head/high knot/shaved sides, matching front/rear and large face; distinct from Sairu cropped-coil triangular head.",
+              "Brick-red jacket, charcoal trousers, wrist slate with three modest marks and natural held hands are ordinary art casting around supported supervisor role; no rank insignia, weapons or body technology.",
+              "Broad matte oil in skin, clothing and slate, muted practical-light planes and connected dark shadows; full unclipped figure views on clear ivory with no setting or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-36dc5448-01e7-49fa-9e5f-fe485b03cd61.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "01f65edfbdc5e1d5c78110fa01d7346e8ac000937d62cea58d03bca117a99748",
+        "outputSha256": "b1f31242954b1a7354bf08ed1e1b9c8d8dc640853a145152bb9d82e3f5c9746d",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/interiors/02-radiator-control-hub.png",
+            "role": "source control-hub practical light and matte muted oil masses only; no environment",
+            "inspected": true,
+            "sha256": "b248a373a3b9fb0522738f1abbdd4c849e8abeb62527aa0ad68fbc7308c14a4e"
+          }
+        ],
+        "evidence": [
+          "Actual output inspected: exact Orvek/title/labels and coherent tall adult woman with long rectangular head/high knot/shaved sides, matching front/rear and large face; distinct from Sairu cropped-coil triangular head.",
+          "Brick-red jacket, charcoal trousers, wrist slate with three modest marks and natural held hands are ordinary art casting around supported supervisor role; no rank insignia, weapons or body technology.",
+          "Broad matte oil in skin, clothing and slate, muted practical-light planes and connected dark shadows; full unclipped figure views on clear ivory with no setting or swatches."
+        ],
+        "specificationSha256": "bba02b43d2d8607b25e05f470c769acc115816a75ae0b62f9873f5c9e6336683"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "b1f31242954b1a7354bf08ed1e1b9c8d8dc640853a145152bb9d82e3f5c9746d"
+    },
+    {
+      "id": "piru",
+      "name": "Piru",
+      "role": "distant correspondent and likely young signal tender",
+      "form": "ordinary human; child attribution supported but explicitly uncertain to station observers",
+      "selectionEvidence": [
+        {
+          "quote": "POSITION MARK: NO.",
+          "explanation": "Remote correspondent directs the terms respected at ending."
+        },
+        {
+          "quote": "He did not write child after Piru without marking the translation uncertain.",
+          "explanation": "Preserve evidential limits of remote observation."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Smaller heat trace, source calls likely child but records translation uncertainty; exact age/gender unknown.",
+        "clothing": "Not discernible by station observers; unspecified.",
+        "equipment": "No carried tool named; tends star-reed signal rows with others.",
+        "movement": "Runs back to failed strip, later moves into another tender's arms after heat expenditure."
+      },
+      "visualInterpretation": [
+        "Clearly child-sized human about ten, androgynous presentation, round face/short soft brown hair, medium olive complexion; gender and detailed age are not asserted canon.",
+        "Patched muted blue coat over tan shirt, plain brown trousers and low worn boots, reserved non-canon casting because source only supplies a heat trace.",
+        "One standing and one crouched gesture keeping hands close for warmth; no invented burns/frostbite, glowing palms, staff, plants or companion."
+      ],
+      "states": [
+        {
+          "name": "Signal tending",
+          "description": "Young correspondent under weak night/reed light; visual casting beyond heat trace is non-canon."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "kite-letters-below:piru",
+        "links": [],
+        "evidence": "Exact source identity; no universe match found."
+      },
+      "output": "stories/kite-letters-below/art/characters/piru.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Piru\"; exact title \"A Question for the Sky\". ONE ordinary HUMAN CHILD approximately10, androgynous non-sexual presentation, small child proportions, medium olive complexion, round cheeks, small blunt nose, soft short BROWN hair cut around ears, ordinary matte brown eyes. Source observers see only a small heat trace and cautiously infer child; this folio is restrained visual casting, not a claim of known gender or magical anatomy. No adult musculature, maturity, makeup, exposed torso, jewelry or fantasy-race features.\nSimple patched MUTED BLUE coat over plain tan shirt, brown trousers and worn low lace-up boots, clothing fully covers body. Two complete views of SAME child: standing front three-quarter with ordinary hands held together near chest for warmth, labelled \"Signal tender\"; crouched three-quarter side view with both complete feet and hands visible, labelled \"Tending gesture\". No reeds or ground under pose. Large consistent face labelled \"Piru\", tired attentive hope, small ordinary eyes, no enormous anime sparkle. A small isolated hand posture labelled \"Keeping warm\": natural hands cupped together, no burns, injuries, frost, frostbite, magical glow or tools. Do not include an adult's arms despite source moment: one identity only.\nImage1 PRIMARY painting provides source NIGHT palette. Child remains largely in deep connected indigo-blue and muted cool brown shadow. Faint off-frame green-white reed light touches a few lower-facing cheek/finger planes only, not a glowing green child; weak cool skylight tops hair. No sun, bright warm key, dramatic rim or even studio illumination. Warm ivory remains plain. Broad matte Group of Seven paint and quiet dark facial masses; no landscape, literal signal glyphs, magical effects or plants.",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/landscapes/02-starlight-in-the-reed-beds.png",
+            "role": "source night indigo/cool green-white reed-light palette and broad oil masses only; no landscape or plants",
+            "inspected": true,
+            "sha256": "2d6667692bb7db7b686dedf1b41fbbadd541cfbfa45b0e9a5807069511e4fd58"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T02:51:32.858693+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE finished character-only reference folio, 1536x1024 landscape 3:2 on quiet warm ivory. Exact readable name and story title upper left. Two complete unclipped full-form views of the SAME identity, one large expressive matching face and useful isolated personal detail when requested. Concise labels, generous spacing. Canadian Group of Seven oils: large connected colour/value masses, varied directional opaque brushwork, quieter passages, selective substantial impasto, broad sculpted matte facial planes. Simplify human faces as decisively as landscape shapes. No photographic face, polished anime eyes, CGI, uniformly bevelled paint chips, generic cinematic rim. Character-only: no locations, buildings, scenic vignette, floor/terrain patches, spacecraft setting, stars, mountains, windows, plants as scenery, swatches or palette strip. The supplied paintings are ONLY oil palette/paint and source-motivated light; never copy any environment.\nExact heading \"Piru\"; exact title \"A Question for the Sky\". ONE ordinary HUMAN CHILD approximately10, androgynous non-sexual presentation, small child proportions, medium olive complexion, round cheeks, small blunt nose, soft short BROWN hair cut around ears, ordinary matte brown eyes. Source observers see only a small heat trace and cautiously infer child; this folio is restrained visual casting, not a claim of known gender or magical anatomy. No adult musculature, maturity, makeup, exposed torso, jewelry or fantasy-race features.\nSimple patched MUTED BLUE coat over plain tan shirt, brown trousers and worn low lace-up boots, clothing fully covers body. Two complete views of SAME child: standing front three-quarter with ordinary hands held together near chest for warmth, labelled \"Signal tender\"; crouched three-quarter side view with both complete feet and hands visible, labelled \"Tending gesture\". No reeds or ground under pose. Large consistent face labelled \"Piru\", tired attentive hope, small ordinary eyes, no enormous anime sparkle. A small isolated hand posture labelled \"Keeping warm\": natural hands cupped together, no burns, injuries, frost, frostbite, magical glow or tools. Do not include an adult's arms despite source moment: one identity only.\nImage1 PRIMARY painting provides source NIGHT palette. Child remains largely in deep connected indigo-blue and muted cool brown shadow. Faint off-frame green-white reed light touches a few lower-facing cheek/finger planes only, not a glowing green child; weak cool skylight tops hair. No sun, bright warm key, dramatic rim or even studio illumination. Warm ivory remains plain. Broad matte Group of Seven paint and quiet dark facial masses; no landscape, literal signal glyphs, magical effects or plants.",
+            "references": [
+              {
+                "path": "stories/kite-letters-below/art/landscapes/02-starlight-in-the-reed-beds.png",
+                "role": "source night indigo/cool green-white reed-light palette and broad oil masses only; no landscape or plants",
+                "inspected": true,
+                "sha256": "2d6667692bb7db7b686dedf1b41fbbadd541cfbfa45b0e9a5807069511e4fd58"
+              }
+            ],
+            "preflight": [
+              "Complete source preserves uncertain child/name attribution by station observers; detailed young androgynous appearance explicitly marked non-canon casting.",
+              "Actual source reed-bed night painting inspected; weak cool green lower planes/deep indigo shadows only, no sun/studio, no plant or environment copied.",
+              "Standing/crouched child proportions and ordinary warm-keeping hands are feasible; no companion, injury, glowing body or unsupported power."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3356ffae-9d72-4096-a886-32b649846b91.png",
+            "finishedAt": "2026-09-24T02:53:48.587815+00:00",
+            "outputSha256": "2f25d2cbd5cf7ac900c11158e730758abd380197d2ccbef223f758c027bce526",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output inspected: exact Piru/title/labels, same child-proportioned round face/brown short hair across complete standing, crouching and portrait studies; clothed ordinary child, no asserted gender.",
+              "Blue patched coat and simple trousers/boots, cupped ordinary hands and tending gesture; no frostbite, burns, glowing body, adult companion or additional power. Spec explicitly preserves uncertain source attribution and visual-casting limits.",
+              "Connected indigo and cool brown oil planes with weak pale green lower-face accent rather than daylight/firelight; matte painterly skin, quiet ivory character-only sheet without reed landscape or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-3356ffae-9d72-4096-a886-32b649846b91.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "01f65edfbdc5e1d5c78110fa01d7346e8ac000937d62cea58d03bca117a99748",
+        "outputSha256": "2f25d2cbd5cf7ac900c11158e730758abd380197d2ccbef223f758c027bce526",
+        "references": [
+          {
+            "path": "stories/kite-letters-below/art/landscapes/02-starlight-in-the-reed-beds.png",
+            "role": "source night indigo/cool green-white reed-light palette and broad oil masses only; no landscape or plants",
+            "inspected": true,
+            "sha256": "2d6667692bb7db7b686dedf1b41fbbadd541cfbfa45b0e9a5807069511e4fd58"
+          }
+        ],
+        "evidence": [
+          "Actual output inspected: exact Piru/title/labels, same child-proportioned round face/brown short hair across complete standing, crouching and portrait studies; clothed ordinary child, no asserted gender.",
+          "Blue patched coat and simple trousers/boots, cupped ordinary hands and tending gesture; no frostbite, burns, glowing body, adult companion or additional power. Spec explicitly preserves uncertain source attribution and visual-casting limits.",
+          "Connected indigo and cool brown oil planes with weak pale green lower-face accent rather than daylight/firelight; matte painterly skin, quiet ivory character-only sheet without reed landscape or swatches."
+        ],
+        "specificationSha256": "60e15e306dd4796ec4b6800511df1f716c52e0d6916ecf4cf433edc46b556be6"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "2f25d2cbd5cf7ac900c11158e730758abd380197d2ccbef223f758c027bce526"
+    }
+  ],
+  "sourceSha256": "01f65edfbdc5e1d5c78110fa01d7346e8ac000937d62cea58d03bca117a99748"
+}

@@ -1,0 +1,508 @@
+{
+  "slug": "between-the-colors",
+  "title": "Between the Colors",
+  "source": "stories/between-the-colors/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished source read from door collision to final demand to remove Berian. Three sustained main agents: Iseth, Berian and Tesset. Present sound/touch and displaced visual timing remain distinct.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "watchman, ladder holders, hand-washing woman, passers-by, late mother and recalled aunt",
+      "reason": "Supporting witnesses, rescue functions or backstory, no sustained main character arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "references": [],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Cane, wrapping cloth bag and ordinary uninjured hands."
+        },
+        {
+          "name": "After rescue",
+          "description": "Left palm wrapped; cane lost inside, no restored vision."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "between-the-colors:iseth",
+        "links": [],
+        "evidence": "Named protagonist, no cross-story identity match."
+      },
+      "id": "iseth",
+      "name": "Iseth",
+      "role": "first-person protagonist and rescue witness",
+      "form": "ordinary adult human woman with temporally displaced sight",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-four, I still followed his taps before I thought about following them.",
+          "explanation": "Narrator's explicit age and reliance on present sound."
+        },
+        {
+          "quote": "the white lock escaping from my red braid",
+          "explanation": "Explicit hair identity."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Thirty-four.",
+        "anatomy": "Human woman, one green eye sees twenty minutes ahead, one blue eye twenty minutes behind; no direct present sight, no supernatural body changes.",
+        "hair": "Red braid with escaping white lock.",
+        "clothing": "Black textured shawl compatible with current cover; sleeves, bag with wrapping cloth explicit; other clothing unspecified.",
+        "equipment": "Cane at arrival, lost during rescue; shoulder bag of wrapping cloth.",
+        "markings": "Left palm burned during rescue, then wrapped; non-graphic.",
+        "movement": "Sweeps cane low, follows present sound/touch, crawls and rescues; no blindfold required."
+      },
+      "visualInterpretation": [
+        "Preserve actual cover and original reference eye orientation: anatomical RIGHT green (viewer-left in frontal portrait), anatomical LEFT blue; white lock on anatomical left beside red braid.",
+        "Current cover supplies compatible black shawl and mature pale face; simple muted russet dress and plain boots chosen as non-canon dress interpretation.",
+        "Two arrival views with cane and bag; separate after-rescue wrapped LEFT-palm detail, no cane implied to survive the fire, no glowing iris or pictured future environment."
+      ],
+      "output": "stories/between-the-colors/art/characters/iseth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: precise-object-edit. Correct Image1 complete Iseth sheet ONLY in these two respects, keep every other feature and all text/layout unchanged.\n1. LOWER-RIGHT hand study labelled \"After rescue â€” left palm\" currently depicts a right hand. Replace ONLY that hand with an unequivocal ANATOMICAL LEFT HAND with its palm facing viewer/up. Keep the forearm entering from right and fingertips extending toward left, BUT the THUMB must be at the LOWER edge of the silhouette (downward toward the label), opposite its present upper-edge position. Four curled fingers remain above that thumb. Human left hand, one thumb/four fingers, same plain cloth wrapping over the palm for source left-palm burn, no gore. Preserve sleeve, scale and position, adjust folds naturally. Do NOT mirror text, whole image or any fullbody figure.\n2. Make the LARGE FACE PORTRAIT and small visible faces more boldly MATTE oil-painted like Image2: larger directional connected skin/hair planes, selective substantial bristle ridges and quiet linking shadows, simplified eye microdetail. Remove glossy eye catchlights and anime hair shine. Preserve EXACT face identity, age34, red braid and WHITE anatomical-LEFT forelock. In frontal portrait the GREEN iris stays VIEWER-LEFT/anatomicalRIGHT, BLUE iris stays VIEWER-RIGHT/anatomicalLEFT. Both eyes ordinary matte painted colour with simple pupil, no glow. Never swap them.\nINVARIANTS: exact Iseth/Between the Colors and every label, two arrival fullbody poses, correct RIGHT-hand cane in both, unbandaged arrival hands, bag/wrappingcloth, blackshawl/russetdress/boots, full silhouettes, quiet ivory field, 1536x1024 landscape. No environment, extra objects, scene, floor patches, swatches, new lettering or generated sight-images. Image2 is paint handling ONLY.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-23T23:27:23.337621+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, EXACT1536x1024 landscape3:2, quiet warm ivory. Name + exact story title upperleft. Two complete unclipped fullbody studies, large expressive face and useful personal details. All silhouettes/tools within frame; concise readable labels. No environment, scene, location, vignette, ground/floor/terrain patches, plants, architecture, furniture, extra people, paintswatches or palette strip.\nGroup of Seven-inspired MATTE oils: large connected colour/value masses, broad directional bristle slabs and selective sculptural impasto, quiet linking passages and scrapededges. Faces and eyes equally boldly painted, never a smooth portrait beneath texture. No uniform bevelledchips, CGI gloss, anime, sparkling eyes, cosmetic cinematic rims or photographic gradients.\nExact heading \"Iseth\"; exact title \"Between the Colors\". One HUMAN WOMAN aged34. Image2 sourcecover and Image3 original give compatible identity ONLY: red hair in a braid with a WHITE forelock escaping on her anatomical LEFT, pale mature face, plain BLACK WOOL SHAWL. Anatomical RIGHT eye is GREEN (VIEWER-LEFT in frontal face), anatomical LEFT is BLUE (VIEWER-RIGHT in frontal face). Both irises are ordinary MATTE painted colour, no glow or special cracks; never swap sides. Preserve this across all portraits.\nSimple muted russet ankle-length everyday dress under blackshawl, sleeves and ordinary worn dark boots, restrained unspecified clothing interpretation. TWO full arrival views: front three-quarter holding a plain tactile CANE in RIGHT hand and a cloth shoulder BAG with wrappingcloth visible at top; rear three-quarter same braid/shawl/dress/bag/cane. Cane used low to orient, not magical staff; no invented ornate handle, blindfold or sunglasses. Ordinary adult posture listening carefully, no view of future or past scenery. Labels \"Arrival\" and \"Rear\".\nLarge nearly frontal mature portrait keeps exact eye colours and white lock, label \"Listening to now\". Two concise labels beside face: \"Green: twenty minutes ahead\" and \"Blue: twenty minutes behind\"; no shown images in eyes. Separate enlarged LEFT HAND with palm fully wrapped in plain cloth, label \"After rescue â€” left palm\"; non-graphic burn beneath bandage. Main arrival hands UNBANDAGED; cane is lost during rescue so don't call fullviews afterrescue.\nImage1 only bold oil texture/spacing, Image4 source afternoon's soft diffuse ordinary light, muted pale warm skin and cool gray shadows, no fireglow/redrim. No crescent ornament from cover, puppets, theatre, flames or scenery.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/between-the-colors/title-image.jpg",
+                "role": "Iseth source-compatible facial identity, red braid/white lock, black shawl and eye laterality only; no anime/gloss or crescent prop",
+                "sha256": "7cff3be17427405ee8cc238dd62f20e8d5427cf1ba1c20f77f80a8cd7b8e983c",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-cfc0257b-9d36-4d7d-a926-9d8c27321f20.png",
+                "role": "inspected original prompt reference: eye-colour laterality/red-white hair only; no luminous fracture effect or smooth rendering",
+                "sha256": "39be015ea87ee61d6b9c9858d8b71f3253f5c5cfc529a0e987d898e22077c99e",
+                "inspected": true
+              },
+              {
+                "path": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
+                "role": "source afternoon aftermath diffuse light and gray-blue/ochre palette/paint only; no landscape",
+                "sha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source read, age34/female/redbraid/white lock/cane/bag and left-palmburn explicit; displaced sight gives no present visual perception.",
+              "Original clipboard reference found in Temp and inspected; current cover inspected. Both establish green anatomicalright and blue anatomicalleft; use matte colours only, not anime/glow.",
+              "Two arrival body views keep cane and uninjured hands; separate after-rescue left-bandage state prevents incorrect survivingcane claim."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b442070d-6ae1-4be8-aada-9d048cfc08d0.png",
+            "outputSha256": "c9f4e5465a3beb4218584da7b849e3a1bd8229ec239a00ddf11a5417b7b54b1a",
+            "generatorReview": [
+              "Identity/eye laterality/arrival poses correct; lower-right bandaged palm anatomically right despite left label. Must replace with left hand. Cover-driven face/eyes also need broader matte simplification."
+            ],
+            "finishedAt": "2026-09-23T23:44:45.040194+00:00",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-23T23:48:08.104039+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-precise-edit",
+            "prompt": "Use case: precise-object-edit. Correct Image1 complete Iseth sheet ONLY in these two respects, keep every other feature and all text/layout unchanged.\n1. LOWER-RIGHT hand study labelled \"After rescue â€” left palm\" currently depicts a right hand. Replace ONLY that hand with an unequivocal ANATOMICAL LEFT HAND with its palm facing viewer/up. Keep the forearm entering from right and fingertips extending toward left, BUT the THUMB must be at the LOWER edge of the silhouette (downward toward the label), opposite its present upper-edge position. Four curled fingers remain above that thumb. Human left hand, one thumb/four fingers, same plain cloth wrapping over the palm for source left-palm burn, no gore. Preserve sleeve, scale and position, adjust folds naturally. Do NOT mirror text, whole image or any fullbody figure.\n2. Make the LARGE FACE PORTRAIT and small visible faces more boldly MATTE oil-painted like Image2: larger directional connected skin/hair planes, selective substantial bristle ridges and quiet linking shadows, simplified eye microdetail. Remove glossy eye catchlights and anime hair shine. Preserve EXACT face identity, age34, red braid and WHITE anatomical-LEFT forelock. In frontal portrait the GREEN iris stays VIEWER-LEFT/anatomicalRIGHT, BLUE iris stays VIEWER-RIGHT/anatomicalLEFT. Both eyes ordinary matte painted colour with simple pupil, no glow. Never swap them.\nINVARIANTS: exact Iseth/Between the Colors and every label, two arrival fullbody poses, correct RIGHT-hand cane in both, unbandaged arrival hands, bag/wrappingcloth, blackshawl/russetdress/boots, full silhouettes, quiet ivory field, 1536x1024 landscape. No environment, extra objects, scene, floor patches, swatches, new lettering or generated sight-images. Image2 is paint handling ONLY.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b442070d-6ae1-4be8-aada-9d048cfc08d0.png",
+                "role": "immutable edit target; preserve character identity, exact eye sides, figures, personal props and text",
+                "sha256": "c9f4e5465a3beb4218584da7b849e3a1bd8229ec239a00ddf11a5417b7b54b1a",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected strongly painted face/eyes, broad matte oil masses only; no identity or other elements",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual candidate examined: palm-up fingersleft/thumbup establishes wrong right-hand detail; source burn explicitly left, correction required.",
+              "Exact eye sides and right-hand cane already correct and locked; edit target immutable.",
+              "Reference Caff only face-paint anchor, no identity/clothes transfer."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-d8720411-8af9-4260-ad6b-2af3d14eb108.png",
+            "outputSha256": "f1cf313942d20754da0600909b698478d57fd473922ce003909852cfa5e9dda5",
+            "finishedAt": "2026-09-23T23:52:49.425075+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual recovered candidate pixels inspected at full size: lower-right wrapped palm is anatomical LEFT, four curled fingers above a single lower-edge thumb; plain cloth over palm and no graphic burn.",
+              "Exact Iseth and Between the Colors text, two complete arrival poses, unbandaged arrival hands, cane in anatomical RIGHT hand in both views, bag with cloth, black shawl/russet dress and mature red-braid identity preserved.",
+              "Anatomical RIGHT iris remains green and LEFT blue in large portrait; white forelock remains anatomical left. Stronger matte directional paint in face and hair, with ordinary opaque eye colour and no displayed temporal visions.",
+              "Warm ivory landscape folio remains character-only, unclipped and swatch-free. Source, immutable edit reference and style-reference pins verified current."
+            ],
+            "selected": true,
+            "recovery": {
+              "recoveredAt": "2026-09-24T02:25:14.209248+00:00",
+              "method": "Recovered existing image from documented built-in output directory; sole file newer than attempt 2 start, matching exact requested anatomical-left palm and matte-face corrections. No new image call.",
+              "originalToolResultAvailable": false
+            }
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b442070d-6ae1-4be8-aada-9d048cfc08d0.png",
+            "role": "immutable edit target; preserve character identity, exact eye sides, figures, personal props and text",
+            "sha256": "c9f4e5465a3beb4218584da7b849e3a1bd8229ec239a00ddf11a5417b7b54b1a",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected strongly painted face/eyes, broad matte oil masses only; no identity or other elements",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-d8720411-8af9-4260-ad6b-2af3d14eb108.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel recovery review",
+        "sourceSha256": "41fe4237ac39690885411c3069473f76cd607af35671d01698b4a0f78f96767b",
+        "outputSha256": "f1cf313942d20754da0600909b698478d57fd473922ce003909852cfa5e9dda5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-b442070d-6ae1-4be8-aada-9d048cfc08d0.png",
+            "role": "immutable edit target; preserve character identity, exact eye sides, figures, personal props and text",
+            "sha256": "c9f4e5465a3beb4218584da7b849e3a1bd8229ec239a00ddf11a5417b7b54b1a",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected strongly painted face/eyes, broad matte oil masses only; no identity or other elements",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual recovered candidate pixels inspected at full size: lower-right wrapped palm is anatomical LEFT, four curled fingers above a single lower-edge thumb; plain cloth over palm and no graphic burn.",
+          "Exact Iseth and Between the Colors text, two complete arrival poses, unbandaged arrival hands, cane in anatomical RIGHT hand in both views, bag with cloth, black shawl/russet dress and mature red-braid identity preserved.",
+          "Anatomical RIGHT iris remains green and LEFT blue in large portrait; white forelock remains anatomical left. Stronger matte directional paint in face and hair, with ordinary opaque eye colour and no displayed temporal visions.",
+          "Warm ivory landscape folio remains character-only, unclipped and swatch-free. Source, immutable edit reference and style-reference pins verified current."
+        ],
+        "specificationSha256": "a3ab8cff5bac120b95f6fcc9f38a42894f9b6bd6e0b1fe22724c4b1be5c2b6d2"
+      },
+      "outputSha256": "f1cf313942d20754da0600909b698478d57fd473922ce003909852cfa5e9dda5",
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      }
+    },
+    {
+      "references": [],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Before fall",
+          "description": "Uninjured standing views with moneybox."
+        },
+        {
+          "name": "After fall",
+          "description": "Tired worried face only, injured ankle not assigned elaborate treatment."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "between-the-colors:berian",
+        "links": [],
+        "evidence": "Iseth's brother in this story; no recurring identity established."
+      },
+      "id": "berian",
+      "name": "Berian",
+      "role": "brother, theatre co-owner and morally consequential antagonist",
+      "form": "ordinary human adult man",
+      "selectionEvidence": [
+        {
+          "quote": "my brother",
+          "explanation": "Sustained complex relationship controls rescue and betrayal."
+        },
+        {
+          "quote": "He got the box away from her.",
+          "explanation": "Causal theft and abandonment revealed."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult sibling, exact age not specified.",
+        "anatomy": "Rough patch below thumb from carving knife; injured ankle from fall, side unspecified.",
+        "clothing": "Wool clothing and sleeves, shoes; precise cut/colour not supplied.",
+        "equipment": "Little moneybox central; carving knife associated with callus.",
+        "movement": "Taps present cues, falls, sits with ankle injury, guides rescue then asks for concealment."
+      },
+      "visualInterpretation": [
+        "Adult brother with cropped auburn-brown hair, pale freckled face, slight beard, plain muted blue waistcoat and gray wool shirt/trousers, source-compatible art choices distinct from sister.",
+        "Two ordinary before-fall full views with small moneybox; separate hand callus and tired face. Avoid inventing cast/crutch or graphic ankle injury; no caricatured villain expression."
+      ],
+      "output": "stories/between-the-colors/art/characters/berian.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, EXACT1536x1024 landscape3:2, quiet warm ivory. Name + exact story title upperleft. Two complete unclipped fullbody studies, large expressive face and useful personal details. All silhouettes/tools within frame; concise readable labels. No environment, scene, location, vignette, ground/floor/terrain patches, plants, architecture, furniture, extra people, paintswatches or palette strip.\nGroup of Seven-inspired MATTE oils: large connected colour/value masses, broad directional bristle slabs and selective sculptural impasto, quiet linking passages and scrapededges. Faces and eyes equally boldly painted, never a smooth portrait beneath texture. No uniform bevelledchips, CGI gloss, anime, sparkling eyes, cosmetic cinematic rims or photographic gradients.\nExact heading \"Berian\"; title \"Between the Colors\". One ordinary HUMAN MAN, adult brother of Iseth, aboutlate30s chosen modestly. Distinct pale freckled face, cropped AUBURN-BROWN hair, short reddish stubble, lean ordinary build. Plain muted BLUE WOOL waistcoat over gray rolled-sleeve shirt, gray-brown work trousers and ordinary brown shoes. No armour, weaponbelt, crown, cape, jewellery or inventedrank.\nTwo complete BEFORE-FALL full views: front three-quarter carrying a SMALL plain rectangular wooden MONEYBOX low in bothhands, ordinary metal catch; rear/side three-quarter with same clothes and box held close. Image2 moneybox is useful shape only, no bench or room. Labels \"Before the fall\" and \"Rear\". Large tired worried face labelled \"After the fire\", soot traces but no caricatured evil smile or magicalfeature. Separate hand study with a rough ordinary carving CALLOUS just below thumb, label \"Carver's hand\"; no blood or invented mutilation. Any small carving knife shown ONLY as a plain little craft tool in separated detail, no threatening action. Injury is ankle after fall, but no cast/crutch/brace prescribed in source: do not invent one or show standinginjured state as healed.\nImage1 paint only, do notcopy Caff moustache/green coat. Source afternoon window motivates soft diffuse warmgray light on muted blue cloth, cool violet shadows; no shinyhero portrait, flames, smoke scene or groundpatch.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T23:27:24.635525+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, EXACT1536x1024 landscape3:2, quiet warm ivory. Name + exact story title upperleft. Two complete unclipped fullbody studies, large expressive face and useful personal details. All silhouettes/tools within frame; concise readable labels. No environment, scene, location, vignette, ground/floor/terrain patches, plants, architecture, furniture, extra people, paintswatches or palette strip.\nGroup of Seven-inspired MATTE oils: large connected colour/value masses, broad directional bristle slabs and selective sculptural impasto, quiet linking passages and scrapededges. Faces and eyes equally boldly painted, never a smooth portrait beneath texture. No uniform bevelledchips, CGI gloss, anime, sparkling eyes, cosmetic cinematic rims or photographic gradients.\nExact heading \"Berian\"; title \"Between the Colors\". One ordinary HUMAN MAN, adult brother of Iseth, aboutlate30s chosen modestly. Distinct pale freckled face, cropped AUBURN-BROWN hair, short reddish stubble, lean ordinary build. Plain muted BLUE WOOL waistcoat over gray rolled-sleeve shirt, gray-brown work trousers and ordinary brown shoes. No armour, weaponbelt, crown, cape, jewellery or inventedrank.\nTwo complete BEFORE-FALL full views: front three-quarter carrying a SMALL plain rectangular wooden MONEYBOX low in bothhands, ordinary metal catch; rear/side three-quarter with same clothes and box held close. Image2 moneybox is useful shape only, no bench or room. Labels \"Before the fall\" and \"Rear\". Large tired worried face labelled \"After the fire\", soot traces but no caricatured evil smile or magicalfeature. Separate hand study with a rough ordinary carving CALLOUS just below thumb, label \"Carver's hand\"; no blood or invented mutilation. Any small carving knife shown ONLY as a plain little craft tool in separated detail, no threatening action. Injury is ankle after fall, but no cast/crutch/brace prescribed in source: do not invent one or show standinginjured state as healed.\nImage1 paint only, do notcopy Caff moustache/green coat. Source afternoon window motivates soft diffuse warmgray light on muted blue cloth, cool violet shadows; no shinyhero portrait, flames, smoke scene or groundpatch.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/between-the-colors/art/interiors/03-dressing-room-window.png",
+                "role": "source muted afternoon window light and warm-gray/blue paint palette; compatible small moneybox appearance only, no room",
+                "sha256": "108c849c2bca650a9b1f20233f4ac9760cfe89e80b4555d4de722d4e091939fa",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full source: adult brother, wool/sleeves/shoes, carving callus and little moneybox supported; injuredankle side unknown, no invented brace.",
+              "Actual roompainting inspected; restrict moneybox/light/paint, no furniture.",
+              "Before-fall complete views + aftermath face prevents unsupported loadbearing injuredankle/treatment; distinct red-brown hair and plainblue clothes recorded interpretation."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c645ac6d-db07-41cc-b83a-47a0a5ac9402.png",
+            "outputSha256": "f069ff5821b62f5a85e5600c79db789e5f2411173d2f59d41eb832a20ebeaa1c",
+            "finishedAt": "2026-09-23T23:44:41.743105+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output inspected: exact Berian/Between the Colors and labels; two matching complete adult male before-fall views, auburn-brown hair, blue wool waistcoat and ordinary clothes.",
+              "Small moneybox, carver's rough thumb-base hand detail and small craft knife supported; tired soot-marked aftermath face, no invented healed ankle/brace or caricatured villain pose.",
+              "Broad matte blue/gray cloth and painted skin/wood masses, no scenery, floor patch, flame tableau or swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/between-the-colors/art/interiors/03-dressing-room-window.png",
+            "role": "source muted afternoon window light and warm-gray/blue paint palette; compatible small moneybox appearance only, no room",
+            "sha256": "108c849c2bca650a9b1f20233f4ac9760cfe89e80b4555d4de722d4e091939fa",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-c645ac6d-db07-41cc-b83a-47a0a5ac9402.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "41fe4237ac39690885411c3069473f76cd607af35671d01698b4a0f78f96767b",
+        "outputSha256": "f069ff5821b62f5a85e5600c79db789e5f2411173d2f59d41eb832a20ebeaa1c",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/between-the-colors/art/interiors/03-dressing-room-window.png",
+            "role": "source muted afternoon window light and warm-gray/blue paint palette; compatible small moneybox appearance only, no room",
+            "sha256": "108c849c2bca650a9b1f20233f4ac9760cfe89e80b4555d4de722d4e091939fa",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual output inspected: exact Berian/Between the Colors and labels; two matching complete adult male before-fall views, auburn-brown hair, blue wool waistcoat and ordinary clothes.",
+          "Small moneybox, carver's rough thumb-base hand detail and small craft knife supported; tired soot-marked aftermath face, no invented healed ankle/brace or caricatured villain pose.",
+          "Broad matte blue/gray cloth and painted skin/wood masses, no scenery, floor patch, flame tableau or swatches."
+        ],
+        "specificationSha256": "e309e9a51afecd5ea18aba5eea5508b102a5fdd7855985e3b0cd145b1414cdca"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "f069ff5821b62f5a85e5600c79db789e5f2411173d2f59d41eb832a20ebeaa1c"
+    },
+    {
+      "references": [],
+      "explicitCanon": [],
+      "states": [
+        {
+          "name": "Before fire",
+          "description": "Ordinary dress and both worn shoes."
+        },
+        {
+          "name": "After rescue",
+          "description": "Soot and tired face, chosen right shoe cut away as isolated detail."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "between-the-colors:tesset",
+        "links": [],
+        "evidence": "Theatre employee in this story, no shared identity established."
+      },
+      "id": "tesset",
+      "name": "Tesset",
+      "role": "substantial supporting theatre worker, injured wage claimant and rescue partner",
+      "form": "ordinary adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "My wages.",
+          "explanation": "Return for owed wages reveals central coercion."
+        },
+        {
+          "quote": "Wait. Give me your hand.",
+          "explanation": "Reciprocal rescue guidance."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult worker inferred, exact age unspecified.",
+        "anatomy": "Foot/ankle pinned by rail, then injured; side unspecified, ordinary body.",
+        "clothing": "Dress and shoes explicit; one shoe cut away after rescue.",
+        "equipment": "Moneybox initially claimed, removed by Berian; no tools specifically worn.",
+        "movement": "Calls, frees heel with help, climbs ladder, guides Iseth."
+      },
+      "visualInterpretation": [
+        "Adult woman with rounded face, dark cropped curly hair tied back, plain faded teal work dress and worn brown shoes chosen non-canon; not same face as Iseth.",
+        "Before-fire standing front/back character studies; separate non-graphic after-rescue chosen RIGHT shoe cut-open detail and determined/cough-weary face. No rail, bench, ladder or environmental scene."
+      ],
+      "output": "stories/between-the-colors/art/characters/tesset.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, EXACT1536x1024 landscape3:2, quiet warm ivory. Name + exact story title upperleft. Two complete unclipped fullbody studies, large expressive face and useful personal details. All silhouettes/tools within frame; concise readable labels. No environment, scene, location, vignette, ground/floor/terrain patches, plants, architecture, furniture, extra people, paintswatches or palette strip.\nGroup of Seven-inspired MATTE oils: large connected colour/value masses, broad directional bristle slabs and selective sculptural impasto, quiet linking passages and scrapededges. Faces and eyes equally boldly painted, never a smooth portrait beneath texture. No uniform bevelledchips, CGI gloss, anime, sparkling eyes, cosmetic cinematic rims or photographic gradients.\nExact heading \"Tesset\"; exact title \"Between the Colors\". One ordinary HUMAN ADULT WOMAN, theatre worker, ageabout40 as restrained unspecified casting. DISTINCT rounded broad face with gently broad nose, warm tan complexion, DARK CURLY hair simply tiedback with loose curls, sturdy ordinary body, not same face/hair as Iseth. Plain faded TEAL calf-length workdress with long sleeves, no apron/toolbelt unless necessary (omit), worn plain brown low shoes. No jewellery, armour, heroiccostume, invented workrank.\nTwo complete isolated BEFORE-FIRE views, front three-quarter upright and side/rear slight turn, same modest dress/shoes, empty hands, labels \"Before the fire\" and \"Rear\". Large sameface labelled \"After rescue\": tired, determined, a few soot marks and slightly parted mouth aftercough, no dramatized injuries. Separate small RIGHT FOOT/shoe study labelled \"Shoe cut away\": chosen consistent side for source unspecified injury; ordinary brown leather shoe has been cut open and loosened around ankle, foot still ordinary and non-graphic, tiny cloth support optional but no medicalbrace/cast or invented severe injury. Keep both shoes intact in beforefire fullbody views. No rail, moneybox, stool, window, ladder or rescue tableau.\nImage1 PAINTONLY, Image2 ordinary postfire afternoon's subdued diffuse light and muted coolblue/ochre planes only. Bold connected teal cloth, painted rounded skinplanes and clear matte eyes, not smooth glamorousportrait. Keep character-only ivoryquiet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-23T23:27:25.873663+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, EXACT1536x1024 landscape3:2, quiet warm ivory. Name + exact story title upperleft. Two complete unclipped fullbody studies, large expressive face and useful personal details. All silhouettes/tools within frame; concise readable labels. No environment, scene, location, vignette, ground/floor/terrain patches, plants, architecture, furniture, extra people, paintswatches or palette strip.\nGroup of Seven-inspired MATTE oils: large connected colour/value masses, broad directional bristle slabs and selective sculptural impasto, quiet linking passages and scrapededges. Faces and eyes equally boldly painted, never a smooth portrait beneath texture. No uniform bevelledchips, CGI gloss, anime, sparkling eyes, cosmetic cinematic rims or photographic gradients.\nExact heading \"Tesset\"; exact title \"Between the Colors\". One ordinary HUMAN ADULT WOMAN, theatre worker, ageabout40 as restrained unspecified casting. DISTINCT rounded broad face with gently broad nose, warm tan complexion, DARK CURLY hair simply tiedback with loose curls, sturdy ordinary body, not same face/hair as Iseth. Plain faded TEAL calf-length workdress with long sleeves, no apron/toolbelt unless necessary (omit), worn plain brown low shoes. No jewellery, armour, heroiccostume, invented workrank.\nTwo complete isolated BEFORE-FIRE views, front three-quarter upright and side/rear slight turn, same modest dress/shoes, empty hands, labels \"Before the fire\" and \"Rear\". Large sameface labelled \"After rescue\": tired, determined, a few soot marks and slightly parted mouth aftercough, no dramatized injuries. Separate small RIGHT FOOT/shoe study labelled \"Shoe cut away\": chosen consistent side for source unspecified injury; ordinary brown leather shoe has been cut open and loosened around ankle, foot still ordinary and non-graphic, tiny cloth support optional but no medicalbrace/cast or invented severe injury. Keep both shoes intact in beforefire fullbody views. No rail, moneybox, stool, window, ladder or rescue tableau.\nImage1 PAINTONLY, Image2 ordinary postfire afternoon's subdued diffuse light and muted coolblue/ochre planes only. Bold connected teal cloth, painted rounded skinplanes and clear matte eyes, not smooth glamorousportrait. Keep character-only ivoryquiet.",
+            "references": [
+              {
+                "path": "stories/a-pet-human/art/characters/caff.png",
+                "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+                "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+                "inspected": true
+              },
+              {
+                "path": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
+                "role": "source afternoon aftermath diffuse light and gray-blue/ochre palette/paint only; no landscape",
+                "sha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Complete source read: sustained wageclaim/rescue partner, adultwoman, dress/shoes and shoe cutaway afterrescue explicit; side unspecified chosenright only in separateddetail.",
+              "No established face in cover; restrained age/complexion/roundedface/darkcurls/teal dress are interpretation, distinct from Iseth and othercast.",
+              "Before-fire intact fullbody views + isolated cutshoe/postrescueface preserve state; no rail/ladder/scenery or fabricated clinicaltreatment."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-bd268b8d-e132-45a9-a2d3-f562188a3d1c.png",
+            "outputSha256": "5e522f21bce6b3a89a8e0dfd500407af42fe7b8975c8e3d1b3e07f30135ca44d",
+            "finishedAt": "2026-09-23T23:44:43.534193+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual output inspected: exact Tesset/title and labels; distinct mature rounded-faced woman with dark curls, two complete matching before-fire teal dress/shoe views.",
+              "After-rescue face and isolated cut-open shoe communicate supported injury non-graphically without pinning rail, ladder, medical brace or rescue scene; no other identity or props.",
+              "Connected matte teal and ochre skin planes, directional substantial paint in face/cloth/shoes, quiet ivory ground with no location or paint swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
+            "role": "source afternoon aftermath diffuse light and gray-blue/ochre palette/paint only; no landscape",
+            "sha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "actualSize": "1536x1024",
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf11-e047-7763-8437-ac90dc7b5323/exec-bd268b8d-e132-45a9-a2d3-f562188a3d1c.png"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "41fe4237ac39690885411c3069473f76cd607af35671d01698b4a0f78f96767b",
+        "outputSha256": "5e522f21bce6b3a89a8e0dfd500407af42fe7b8975c8e3d1b3e07f30135ca44d",
+        "references": [
+          {
+            "path": "stories/a-pet-human/art/characters/caff.png",
+            "role": "corrected matte broad oil and ivory spacing only; no moustache, face, costume or props",
+            "sha256": "2aa05d9c177e9f105f17371d32841884e8a0f6ee2511f2c413739ab9438817fd",
+            "inspected": true
+          },
+          {
+            "path": "stories/between-the-colors/art/landscapes/05-afternoon-beyond-the-fire.png",
+            "role": "source afternoon aftermath diffuse light and gray-blue/ochre palette/paint only; no landscape",
+            "sha256": "dc4dbd8d885797842819b99be86e5b7f1e111e8c671f49ce918332919e7860b8",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual output inspected: exact Tesset/title and labels; distinct mature rounded-faced woman with dark curls, two complete matching before-fire teal dress/shoe views.",
+          "After-rescue face and isolated cut-open shoe communicate supported injury non-graphically without pinning rail, ladder, medical brace or rescue scene; no other identity or props.",
+          "Connected matte teal and ochre skin planes, directional substantial paint in face/cloth/shoes, quiet ivory ground with no location or paint swatches."
+        ],
+        "specificationSha256": "90f2934fdea481e495466529c2354a5914368bcdd1768752772ba361f7740fc9"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "5e522f21bce6b3a89a8e0dfd500407af42fe7b8975c8e3d1b3e07f30135ca44d"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "41fe4237ac39690885411c3069473f76cd607af35671d01698b4a0f78f96767b"
+}

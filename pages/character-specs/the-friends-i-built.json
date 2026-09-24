@@ -1,0 +1,1349 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-friends-i-built",
+  "title": "The Friends I Built",
+  "source": "stories/the-friends-i-built/05-story.md",
+  "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished bundle prose, original prompt, final review and authoritative story.json read. Seven named sustained identities drive family support, reciprocal friendship, exhibition failure and rescue. Corresponding CANON universe/characters entries read; no source edits authorized or made.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Other students, adult dispatcher and forge-house contacts",
+      "reason": "Collective or brief offstage functional support without individual sustained story arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "Irix",
+        "Belphegor",
+        "Talvi",
+        "Knurl",
+        "Thimble",
+        "Ekri",
+        "Instructor Bexel"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Local living craft, constructed life, accessible visual relay and reciprocal agency"
+      ]
+    },
+    {
+      "path": "universe/glossary.md",
+      "entries": [
+        "Embermoss",
+        "Visual relay"
+      ]
+    }
+  ],
+  "referenceInputs": [],
+  "referenceInputAssessment": "No original external image inventory in recorded prompt. Actual source cover and three same-story oils inspected. Cover toy anatomy conflicts with explicit prose and is not attached; source-specific anatomy controls.",
+  "characters": [
+    {
+      "id": "irix",
+      "name": "Irix",
+      "role": "Fourteen-year-old deaf, non-speaking focal student/maker",
+      "selectionEvidence": [
+        {
+          "quote": "I was deaf and non-speaking",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "my pocket slate",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "my palms were blistered",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "my wrists began",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living child of Talvi and Belphegor; no exact species geometry imposed",
+      "storyAppearance": {
+        "anatomy": "CANON age fourteen, deaf and non-speaking; fluent signing and slate/visual systems; locally supplies living shaping current. Blistered palms after first haul; later trembling wrists. No cause or cure/hearing restoration.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Daylight maker, assertive communication, first-haul hands and dim crisis focus.",
+        "states": "Daylight maker, assertive communication, first-haul hands and dim crisis focus."
+      },
+      "explicitCanon": [
+        "CANON age fourteen, deaf and non-speaking; fluent signing and slate/visual systems; locally supplies living shaping current. Blistered palms after first haul; later trembling wrists. No cause or cure/hearing restoration."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: medium warm-brown skin, slim age-fourteen body, wide-set dark eyes, broad cheekbones, short dense coiled black hair; no horns or other unstated species features.",
+        "Teal rolled-sleeve work shirt, ochre sleeveless vest, charcoal trousers and brown work shoes; pocket slate at left hip, small brass rule and chalk."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Daylight maker, assertive communication, first-haul hands and dim crisis focus."
+        }
+      ],
+      "naming": {
+        "sourceName": "Irix",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:irix",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/irix.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:40:42.840921+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "8753dd82c366a70566256420f913699a2c1837eba8ef6c40a2773f6de64873e0",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-77b51eac-eb45-4803-80d2-631d2efc1651.png",
+            "sha256": "2363f8a4116525b630f16889211807ba9741c655ec004e180c8bd7eea425915b",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Youthful same fourteen-year identity, correct LEFT hip slate (front viewer-right/back viewer-left), natural signing hands and mild palm wear. Lower-right crisis torso restored with same face/clothes, dark connected cool shadows and restricted amber, held small projection plate; no machine/scene. Ordinary digits, matte oil face/body and labels readable.",
+        "specificationSha256": "8dc910e249ed3080ba86ca7ec9f0d7b83ee6aa36edad8beacd10896852950663"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY the lower-right study currently consisting of two hands labeled Crisis focus. Replace those two isolated hands with a waist-up portrait of SAME Irix as the upper heads/front figure, youthful fourteen, same coiled black hair, face, teal shirt and ochre vest. New SIMPLE composition: facing slightly left, worried concentrated face clearly visible, both ordinary five-digit hands hold a small rectangular projection plate at waist. Mostly DARK CONNECTED COOL BLUE/grey shadow across face/shirt/vest/hands, with just a little muted amber practical reflection from actual hall reference2. Do not include machine, furnace, wall, room, floor, orange halo or backdrop. Character alone on ivory, label Crisis focus below. Preserve every other pixel of sheet including CORRECT left-hip pocket slate viewerRIGHT in front/viewerLEFT in back and all upper portraits/hand details. This is a new simple torso pose to restore the missing source state, not just hands.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-77b51eac-eb45-4803-80d2-631d2efc1651.png",
+            "sha256": "2363f8a4116525b630f16889211807ba9741c655ec004e180c8bd7eea425915b",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Irix. One visibly FOURTEEN-year-old androgynous young teenager, slim youthful body with medium warm-brown skin, wide-set dark eyes, broad cheekbones, short dense COILED BLACK hair. No mature face/body, beard, horns or wings. Teal work shirt sleeves rolled, ochre sleeveless vest, charcoal trousers, brown work shoes; little POCKET SLATE on LEFT hip. Full Front with two hands signing naturally away from torso, Back showing same clothing. Two heads Concentrating and Firm request. Small ordinary hand study with mild NON-GRAPHIC palm blisters from hauling; another holding slate with simple geometric sketch and brass rule, not dialogue text. Third waist-up Crisis focus: dim connected COOL BLUE shadows, limited furnace AMBER side light, attentive face, wrists visibly strained but not injured. No hearing aid, mouth speech bubble, magic cure, lens goggle substitute or triumphant speaking. Exactly two arms and ordinary five-digit hands; signing pose not claimed as a real-world sign translation. No friend carried, room or flame figure. Daylight bodies use first reference window-white/warm-cool light.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-f2629c47-deff-4777-ad00-91cb2446dadd.png",
+            "candidateSha256": "45c6e496b11ba6992fd7dd076ba41b1d5d88184f57bda933f92db6394ad37b97",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: front pocket slate at wrong right hip versus rear left; crisis study includes furnace machinery/scenery, and small ground patches remain."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Keep this exact Irix identity, clearly age fourteen, face/hair/body/clothes, two ordinary hands and current oil painting. On FRONT full figure move hanging POCKET SLATE to anatomical LEFT hip, viewer RIGHT; leave BACK slate at viewer LEFT. Remove ALL machinery/fire/furnace/room from lower-right Crisis focus study. Repose ONLY its hands holding a SMALL flat rectangular projection PLATE and short pressure strip, isolated as handheld tools. The same character stays dim mostly cool blue with restricted amber reflected light, no bright orange rim. Remove tiny floor patches/shadows below full figures. Preserve all other anatomy/head studies/slate-rule hand study and exact headings; shorten label to Crisis focus without waist-up parenthetic.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-f2629c47-deff-4777-ad00-91cb2446dadd.png",
+                "sha256": "45c6e496b11ba6992fd7dd076ba41b1d5d88184f57bda933f92db6394ad37b97",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-77b51eac-eb45-4803-80d2-631d2efc1651.png",
+            "candidateSha256": "2363f8a4116525b630f16889211807ba9741c655ec004e180c8bd7eea425915b",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Anatomy, corrected left-hip slate and isolation now pass, but edit mistakenly removed crisis torso and changed its hand lighting to daylight. Diagnose: instruction remove machinery swallowed the associated whole figure; replace only that region with simpler separate torso composition."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit ONLY the lower-right study currently consisting of two hands labeled Crisis focus. Replace those two isolated hands with a waist-up portrait of SAME Irix as the upper heads/front figure, youthful fourteen, same coiled black hair, face, teal shirt and ochre vest. New SIMPLE composition: facing slightly left, worried concentrated face clearly visible, both ordinary five-digit hands hold a small rectangular projection plate at waist. Mostly DARK CONNECTED COOL BLUE/grey shadow across face/shirt/vest/hands, with just a little muted amber practical reflection from actual hall reference2. Do not include machine, furnace, wall, room, floor, orange halo or backdrop. Character alone on ivory, label Crisis focus below. Preserve every other pixel of sheet including CORRECT left-hip pocket slate viewerRIGHT in front/viewerLEFT in back and all upper portraits/hand details. This is a new simple torso pose to restore the missing source state, not just hands.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-77b51eac-eb45-4803-80d2-631d2efc1651.png",
+                "sha256": "2363f8a4116525b630f16889211807ba9741c655ec004e180c8bd7eea425915b",
+                "inspected": true,
+                "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:25:08.986362+00:00",
+            "preflight": "Anatomy, corrected left-hip slate and isolation now pass, but edit mistakenly removed crisis torso and changed its hand lighting to daylight. Diagnose: instruction remove machinery swallowed the associated whole figure; replace only that region with simpler separate torso composition. Specific bounded region changes checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-582c0277-0132-49d2-90f6-6e6bfc9186b7.png",
+            "candidateSha256": "8753dd82c366a70566256420f913699a2c1837eba8ef6c40a2773f6de64873e0",
+            "completedAt": "2026-09-24T09:40:42.840921+00:00",
+            "visualInspection": "Actual saved-pixel review: Youthful same fourteen-year identity, correct LEFT hip slate (front viewer-right/back viewer-left), natural signing hands and mild palm wear. Lower-right crisis torso restored with same face/clothes, dark connected cool shadows and restricted amber, held small projection plate; no machine/scene. Ordinary digits, matte oil face/body and labels readable."
+          }
+        ]
+      },
+      "outputSha256": "8753dd82c366a70566256420f913699a2c1837eba8ef6c40a2773f6de64873e0"
+    },
+    {
+      "id": "belphegor",
+      "name": "Belphegor",
+      "role": "Living archdemon parent, inattentive love toward accountable support",
+      "selectionEvidence": [
+        {
+          "quote": "with all four hands",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Their upper eyes opened",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Their lower eyes",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "all four hands empty",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living locally titled archdemon; exact FOUR hands and upper/lower eyes",
+      "storyAppearance": {
+        "anatomy": "CANON four hands, upper/lower eyes, own bounded green-fire magic; archdemon title establishes no universal hierarchy or godhood. Accountable awake parent later upright/rumpled.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Sleepy partial attention versus fully awake attention; own green-fire signing detail.",
+        "states": "Sleepy partial attention versus fully awake attention; own green-fire signing detail."
+      },
+      "explicitCanon": [
+        "CANON four hands, upper/lower eyes, own bounded green-fire magic; archdemon title establishes no universal hierarchy or godhood. Accountable awake parent later upright/rumpled."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: broad soft middle-aged body, ash-mauve skin, shoulder-length dark wavy hair with silver streaks, four amber eyes in two pairs (exact eye count is illustrative, only upper/lower groups canon).",
+        "Four arms attach as two bilateral pairs to one torso, four five-digit hands, two legs. Faded plum four-sleeved dressing robe, cream under-tunic and soft slippers; no horns, wings, tail or religious icon."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Sleepy partial attention versus fully awake attention; own green-fire signing detail."
+        }
+      ],
+      "naming": {
+        "sourceName": "Belphegor",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:belphegor",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/belphegor.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:02:44.754249+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "ed8d816ead4c6443ed84b251f0e28d191bb862eaa7bc5017216e5c5a4abe7bc3",
+        "references": [
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+            "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+            "inspected": true,
+            "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+            "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+            "inspected": true,
+            "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+          }
+        ],
+        "evidence": "Actual saved pixels reviewed: one adult non-gendered archdemon with exactly four attached arms/hands and two legs in front/back, ordinary five-digit hands, upper/lower pairs of amber eyes, lower pair closed only in Sleepy and all four open Attentive. Ash-mauve flesh rendered opaque matte oils, rumpled plum four-sleeve robe, slippers and own small green-fire hand study. Readable name/title, light ivory, no scene. Source upper/lower groups and illustrative exact eye-count distinguished in spec.",
+        "specificationSha256": "f48ab818c5602e496ac2cb3f258d7c2d333fb3dc3b2fc7130db8dee5c78c251f"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Belphegor. ONE living non-gendered adult archdemon parent, broad soft middle-aged body, ASH-MAUVE skin, shoulder-length dark wavy hair with silver streaks, ordinary long thoughtful face with FOUR AMBER EYES arranged TWO upper and TWO lower. Exactly FOUR ARMS: upper left/right at shoulders, lower left/right at lower ribs, each cleanly attaches to same torso, each ends in ordinary FIVE-DIGIT hand. Exactly TWO legs in slippers. No horns, wings, tail or extra limbs. Faded PLUM dressing robe tailored with exactly FOUR sleeves, cream undertunic. Full FRONT upright rumpled with all FOUR hands EMPTY and spread slightly to show count; full BACK likewise four separate sleeves/arms. One portrait Sleepy: upper pair open, lower pair CLOSED; second portrait Attentive: all four eyes open and gaze focused. Small hand study green-fire calligraphy made by this one hand, not a separate fire-being; tiny green stroke only. Warm daylight/cool blue interior shadow from reference; no studio gloss. FOUR hands count clear, no couch/furniture/blanket figure or child. No divine throne, real religion emblem or intimidating villain pose.",
+        "references": [
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+            "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+            "inspected": true,
+            "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+            "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+            "inspected": true,
+            "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Belphegor. ONE living non-gendered adult archdemon parent, broad soft middle-aged body, ASH-MAUVE skin, shoulder-length dark wavy hair with silver streaks, ordinary long thoughtful face with FOUR AMBER EYES arranged TWO upper and TWO lower. Exactly FOUR ARMS: upper left/right at shoulders, lower left/right at lower ribs, each cleanly attaches to same torso, each ends in ordinary FIVE-DIGIT hand. Exactly TWO legs in slippers. No horns, wings, tail or extra limbs. Faded PLUM dressing robe tailored with exactly FOUR sleeves, cream undertunic. Full FRONT upright rumpled with all FOUR hands EMPTY and spread slightly to show count; full BACK likewise four separate sleeves/arms. One portrait Sleepy: upper pair open, lower pair CLOSED; second portrait Attentive: all four eyes open and gaze focused. Small hand study green-fire calligraphy made by this one hand, not a separate fire-being; tiny green stroke only. Warm daylight/cool blue interior shadow from reference; no studio gloss. FOUR hands count clear, no couch/furniture/blanket figure or child. No divine throne, real religion emblem or intimidating villain pose.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+                "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+                "inspected": true,
+                "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-42f1a7df-44da-4937-82ae-86c05586fb55.png",
+            "candidateSha256": "ed8d816ead4c6443ed84b251f0e28d191bb862eaa7bc5017216e5c5a4abe7bc3",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "Actual saved pixels reviewed: one adult non-gendered archdemon with exactly four attached arms/hands and two legs in front/back, ordinary five-digit hands, upper/lower pairs of amber eyes, lower pair closed only in Sleepy and all four open Attentive. Ash-mauve flesh rendered opaque matte oils, rumpled plum four-sleeve robe, slippers and own small green-fire hand study. Readable name/title, light ivory, no scene. Source upper/lower groups and illustrative exact eye-count distinguished in spec."
+          }
+        ]
+      },
+      "outputSha256": "ed8d816ead4c6443ed84b251f0e28d191bb862eaa7bc5017216e5c5a4abe7bc3"
+    },
+    {
+      "id": "talvi",
+      "name": "Talvi",
+      "role": "Parent whose remembered affection becomes completed adult responsibility",
+      "selectionEvidence": [
+        {
+          "quote": "Talvi lay on the rug",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "sleep creases across her cheek",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "She opened the dispatch",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Talvi signed the guardian line",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Locally damned soul; human-like visual interpretation",
+      "storyAppearance": {
+        "anatomy": "CANON locally described damned soul, no mechanism/justice/cause/appearance of damnation established; fluent in Irix signing, keeps childhood diagrams, later confirms adult-owned conveyance.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Sleepy half-quilt, regret without requesting comfort, active dispatch checking.",
+        "states": "Sleepy half-quilt, regret without requesting comfort, active dispatch checking."
+      },
+      "explicitCanon": [
+        "CANON locally described damned soul, no mechanism/justice/cause/appearance of damnation established; fluent in Irix signing, keeps childhood diagrams, later confirms adult-owned conveyance."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: apparent forty-five, deep warm-brown skin, round cheeks, broad nose, dark-brown eyes, short loose black curls with small gray streak at forehead.",
+        "Loose sage house blouse, rust waistcoat, dark blue full skirt and brown slippers; warm cream quilt for one cropped sleepy study."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Sleepy half-quilt, regret without requesting comfort, active dispatch checking."
+        }
+      ],
+      "naming": {
+        "sourceName": "Talvi",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:talvi",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/talvi.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:25:08.986362+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "c15a704bb2c29e8f750b27f121df22f98f04b9d30bfe9c6e7f4b687c0bfd0ef9",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0130509-f50d-4439-8f19-77e8312baf47.png",
+            "sha256": "bc1263f0451c46f7c833469f44ec6c67e6e6dbdd7934a5fa50747b90b8ede6b7",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Warm ivory and readable labels restored. One consistent adult parent, natural hands, dispatch green confirmation and diagram packet, sleepy quilt and awake responsible states, broad oil flesh/clothes intact; no invented afterlife anatomy.",
+        "specificationSha256": "1d8820c76a2fa4e4dfc937a20e87ffee7f92a00e047c30f134440599e8574607"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Change ONLY entire dark backdrop and all shadow outside silhouettes to CLEAN LIGHT WARM IVORY. Preserve Talvi identity, all faces/hands, clothes, slate green confirmation, quilt and drawings packet and painted color/light ON the figures. All exact headings and state labels solid dark brown readable on ivory; no gradient/glow/floor.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0130509-f50d-4439-8f19-77e8312baf47.png",
+            "sha256": "bc1263f0451c46f7c833469f44ec6c67e6e6dbdd7934a5fa50747b90b8ede6b7",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Talvi. One human-like adult woman apparent45, deep WARM-BROWN skin, round cheeks, broad nose, dark-brown eyes, SHORT LOOSE BLACK CURLS with small grey streak at forehead. Sage loose blouse, rust waistcoat, dark-blue full skirt, brown slippers. Full Front and Back in daytime household light, warm lit planes and blue-grey shadows. Front holds plain dark DISPATCH SLATE with ONE small green confirmation mark; paper packet of childish mechanical diagrams as isolated prop. Portraits Sleep creases and Attentive regret. Small waist-up Checking dispatch with awake focused face and normal hands, no other person. A small separate same-person Sleepy study with cream QUILT around shoulders only, not lying in a room. Do not depict ghost transparency, corpse, punishment marks, horns, wings, infernal chains or cause of damnation. One ordinary body/two arms/five digits per hand. No furniture/background, no generic angel or demon imagery.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+                "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+                "inspected": true,
+                "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0130509-f50d-4439-8f19-77e8312baf47.png",
+            "candidateSha256": "bc1263f0451c46f7c833469f44ec6c67e6e6dbdd7934a5fa50747b90b8ede6b7",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: dark studio backdrop hides labels despite usable identity and source states."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Change ONLY entire dark backdrop and all shadow outside silhouettes to CLEAN LIGHT WARM IVORY. Preserve Talvi identity, all faces/hands, clothes, slate green confirmation, quilt and drawings packet and painted color/light ON the figures. All exact headings and state labels solid dark brown readable on ivory; no gradient/glow/floor.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-d0130509-f50d-4439-8f19-77e8312baf47.png",
+                "sha256": "bc1263f0451c46f7c833469f44ec6c67e6e6dbdd7934a5fa50747b90b8ede6b7",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-35db886c-452c-4359-a1e1-a31843960ee7.png",
+            "candidateSha256": "c15a704bb2c29e8f750b27f121df22f98f04b9d30bfe9c6e7f4b687c0bfd0ef9",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Actual saved-pixel review: Warm ivory and readable labels restored. One consistent adult parent, natural hands, dispatch green confirmation and diagram packet, sleepy quilt and awake responsible states, broad oil flesh/clothes intact; no invented afterlife anatomy."
+          }
+        ]
+      },
+      "outputSha256": "c15a704bb2c29e8f750b27f121df22f98f04b9d30bfe9c6e7f4b687c0bfd0ef9"
+    },
+    {
+      "id": "knurl",
+      "name": "Knurl",
+      "role": "Self-named living constructed friend, precise collaborator and autonomous rescuer",
+      "selectionEvidence": [
+        {
+          "quote": "four spindle legs each",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "neat, measured bands",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "raised both flags",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "They hooked two spindle",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living cultured embermoss through small brass frame",
+      "storyAppearance": {
+        "anatomy": "CANON living constructed person with brass frame/embermoss, hinged flags and word tiles, autonomy/consent. Source four spindle legs and two flags; not a machine controlled by external magic.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Careful attention, affirmative single raised flag, refusal crossed flags; no limb growth.",
+        "states": "Careful attention, affirmative single raised flag, refusal crossed flags; no limb growth."
+      },
+      "explicitCanon": [
+        "CANON living constructed person with brass frame/embermoss, hinged flags and word tiles, autonomy/consent. Source four spindle legs and two flags; not a machine controlled by external magic."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: small rectangular open brass frame roughly palm width, moss in tidy gray-green bands around small warm green core; FOUR thin jointed spindle legs and exactly TWO hinged triangular flags, cobalt and ochre.",
+        "No face, eyes, mouth, arms or wheels; two flag-stalks are communication limbs distinct from four support legs. Scale ruler prop only; no companion figure."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Careful attention, affirmative single raised flag, refusal crossed flags; no limb growth."
+        }
+      ],
+      "naming": {
+        "sourceName": "Knurl",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:knurl",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/knurl.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:25:08.986362+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "8b66a822887e8eb2574f8ca10e7a6ad527051d2232fadb7478222802b03f6bb9",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-22b6df25-8e7c-4b3c-99c6-339ada8a33fc.png",
+            "sha256": "3f301e772f7b18b308d1b90fa14c00535a1c25ddc77583123cb82ce2fa9aca83",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Exactly four spindle legs and two cobalt/ochre hinged flags in all whole-body states, rear flag ordering reverses correctly, refusal/yes poses and small scale, tactile knurl wheel/word tiles. No ground patches remain. One living moss/brass identity with matte directional oil material.",
+        "specificationSha256": "100cb669e00e67ab07800e2d7dd1b3900f3866e0ce33e538b18e684b5597397b"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Change ONLY the ground/shadow patches beneath every whole Knurl body and leg detail to matching light warm ivory. Keep all FOUR legs and TWO flags on each whole body, exact topology, cobalt/ochre flag colors and poses, all text and scale/word-tile/knurled wheel details untouched. No floor strokes or scenery; do not add/remove limbs.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-22b6df25-8e7c-4b3c-99c6-339ada8a33fc.png",
+            "sha256": "3f301e772f7b18b308d1b90fa14c00535a1c25ddc77583123cb82ce2fa9aca83",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Knurl. One SMALL LIVING CONSTRUCTED PERSON, precise tiny rectangular open BRASS FRAME about palm-width, tidy bands of gray-green EMBERMOSS around small muted green core. Exactly FOUR narrow jointed SPINDLE LEGS, two per side, with simple hooked feet. Exactly TWO hinged triangular flag arms, COBALT and OCHRE, one on each upper side; no eyes, face, head, human arms or wings. Main Front three-quarter and Back three-quarter views with all FOUR legs countable; TWO flags kept apart. Third view Refusal has the same TWO flags crossed, four legs stiff; small Yes detail single ochre flag lifted, other cobalt lowered, body still only four legs. Word tiles KNURL and YES, brass knurled wheel as isolated tactile prop, mundane ruler for scale with no hand/person. Alive and deliberate in stance, not steampunk toy with a human face. Heavy matte oils broadly painted brass and moss; warm workshop daylight with cool blue shadow planes. No ongoing floating magic, no chassis/other friend/room; no six or eight legs. Do not copy one-legged cover toy. Frame/body shape and limb counts identical in all views.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-22b6df25-8e7c-4b3c-99c6-339ada8a33fc.png",
+            "candidateSha256": "3f301e772f7b18b308d1b90fa14c00535a1c25ddc77583123cb82ce2fa9aca83",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: four legs/two flags consistent and oil construction useful; remove tiny floor patches/shadows."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Change ONLY the ground/shadow patches beneath every whole Knurl body and leg detail to matching light warm ivory. Keep all FOUR legs and TWO flags on each whole body, exact topology, cobalt/ochre flag colors and poses, all text and scale/word-tile/knurled wheel details untouched. No floor strokes or scenery; do not add/remove limbs.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-22b6df25-8e7c-4b3c-99c6-339ada8a33fc.png",
+                "sha256": "3f301e772f7b18b308d1b90fa14c00535a1c25ddc77583123cb82ce2fa9aca83",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-aee1f244-b3ff-43b9-8d0b-3857243bdf5b.png",
+            "candidateSha256": "8b66a822887e8eb2574f8ca10e7a6ad527051d2232fadb7478222802b03f6bb9",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Actual saved-pixel review: Exactly four spindle legs and two cobalt/ochre hinged flags in all whole-body states, rear flag ordering reverses correctly, refusal/yes poses and small scale, tactile knurl wheel/word tiles. No ground patches remain. One living moss/brass identity with matte directional oil material."
+          }
+        ]
+      },
+      "outputSha256": "8b66a822887e8eb2574f8ca10e7a6ad527051d2232fadb7478222802b03f6bb9"
+    },
+    {
+      "id": "thimble",
+      "name": "Thimble",
+      "role": "Self-named living constructed friend, improviser and rescuer with preserved repair",
+      "selectionEvidence": [
+        {
+          "quote": "round body with three unnecessary loops",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "wrapped all three loops",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "The striped sail had shriveled",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "visibly patched sail",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living embermoss, felt and copper; exactly THREE flexible loops",
+      "storyAppearance": {
+        "anatomy": "CANON round living constructed person with felt/copper/embermoss and three flexible loops, communication panels/sails, burned then patched original sail retained; no rebuilding into replacement identity.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Intact sail, red refusal versus green consent, visible repaired sail with original blackened fabric retained.",
+        "states": "Intact sail, red refusal versus green consent, visible repaired sail with original blackened fabric retained."
+      },
+      "explicitCanon": [
+        "CANON round living constructed person with felt/copper/embermoss and three flexible loops, communication panels/sails, burned then patched original sail retained; no rebuilding into replacement identity."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: rounded copper rib-and-felt core under fine gray-green moss, three flexible copper-and-moss loops, one colored communication panel; fits old brass sewing thimble when curled.",
+        "One striped cloth sail in muted ochre/teal/cream, visible indigo patch on blackened original lower edge in aftercare state. No additional spindle legs or human features."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Intact sail, red refusal versus green consent, visible repaired sail with original blackened fabric retained."
+        }
+      ],
+      "naming": {
+        "sourceName": "Thimble",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:thimble",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/thimble.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:40:42.840921+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "8947a12d233a436fcc5b066484d1d9a2004f11e48ed38e723ed1f8c94c51e662",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0abe0208-98b1-40d7-9bdb-a313d66fd54a.png",
+            "sha256": "bd0c778c03b439c7ee7ed4d2d81bb4f9c75c903fb30f4b1f21578f433dde387f",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Exactly three flexible loop limbs established across main front/back/patched and explicit top view; two front-side loops and visible rear curled arc, no added leg limbs. One striped sail, red/green communication panel, copper/felt/moss body and same blackened original fabric under indigo patch. Ground patches removed; consistent body, scale prop/curled form and readable ivory. Moss simplified to connected opaque painted masses, no face/eyes or extra identity.",
+        "specificationSha256": "5f82bafb4660af1779018bc04e495bae1de38c8ab6af5bb378ee7a949216e5c2"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Change ONLY the cream/grey ground patches and cast shadows under all Thimble bodies, curled-form, top-view and sewing-thimble prop to the EXACT same clean light warm ivory as blank page. No painted floor strokes remain. Preserve ALL bodies, exactly THREE loops, loop bends/topology, ONE striped sail, visible blackened fabric and indigo patch, every label and all existing painted oil rendering completely. Do not relight/repaint the character or change its design; background cleanup only.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0abe0208-98b1-40d7-9bdb-a313d66fd54a.png",
+            "sha256": "bd0c778c03b439c7ee7ed4d2d81bb4f9c75c903fb30f4b1f21578f433dde387f",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Thimble. One VERY SMALL round LIVING CONSTRUCTED PERSON: copper ribs, FELT and thin grey-green EMBERMOSS with a small green/amber core and ONE flat coloured communication panel. Exactly THREE FLEXIBLE LOOPS made from copper/moss curve from the round body; the loops are the ONLY limbs, NO additional legs/arms/eyes/face. Can curl into an old sewing thimble. Main Front and Back three-quarter views show the SAME three separate loops, plain green panel and ONE striped cloth SAIL held above body on short supports, muted ochre/teal/cream stripes. Third whole-body state Patched sail: same body/three loops and original striped sail now with a visible INDIGO PATCH stitched over one scorched lower edge, original BLACKENED cloth still visible beneath patch; no replacement pristine sail. Small panel detail Red refusal / Green consent, not two extra identities. One old brass SEWING THIMBLE for scale, with a small curled version nested inside if room; never add six-legged walking chassis or another friend. Broad matte oils, warm workshop daylight/cool blue shadows; no glowing energy tendrils, wings, cartoon eyes, toy-bird cover form, scene or fire injury spectacle. Every loop count and one sail remain consistent.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-2b7fbcc5-81bc-4847-8aa6-734cd266790b.png",
+            "candidateSha256": "592ab641b0d452f4c9772f1ef9d552133fa8ee1755192138895418ace2dc6b63",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: dark backdrop hides all labels; construction overly glossy/tiny texture; Nested Inside miniature is not visibly in thimble and front forms obscure third loop."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Preserve this SAME round copper/felt/embermoss Thimble identity, striped single sail and indigo patch over BLACKENED original cloth. Replace entire dark background and ALL ground/shadow/glow outside silhouettes with LIGHT WARM IVORY; headings and labels dark readable. Repaint moss/copper/felt in LARGE CONNECTED MATTE opaque oil planes and decisive bristle/knife masses matching reference2, with quieter joins; reduce glittering microdetail and glossy CG shine, no texture filter. Exactly THREE flexible loop limbs on every whole-body view: two front-side loops and ONE rear loop. Make the existing rear loop visible as a distinct arc below/behind the body in main Front/Back/Patched views; no extra legs. Keep Top View showing EXACTLY THREE loops, not four. Remove the tiny lower-middle image labeled Nested Inside AND that caption; leave ivory. Keep the actual brass sewing thimble scale prop and curled-form study. Shorten Patched Sail label to Patched sail; preserve blackened cloth under visible patch. No other person, floor, scene, cartoon face, extra flags or arms.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-2b7fbcc5-81bc-4847-8aa6-734cd266790b.png",
+                "sha256": "592ab641b0d452f4c9772f1ef9d552133fa8ee1755192138895418ace2dc6b63",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0abe0208-98b1-40d7-9bdb-a313d66fd54a.png",
+            "candidateSha256": "bd0c778c03b439c7ee7ed4d2d81bb4f9c75c903fb30f4b1f21578f433dde387f",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Three loops now clearly distinguished in front/rear/top, patched original fabric preserved and oil masses improved; however new ground patches appeared. Narrow final ground cleanup only."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Change ONLY the cream/grey ground patches and cast shadows under all Thimble bodies, curled-form, top-view and sewing-thimble prop to the EXACT same clean light warm ivory as blank page. No painted floor strokes remain. Preserve ALL bodies, exactly THREE loops, loop bends/topology, ONE striped sail, visible blackened fabric and indigo patch, every label and all existing painted oil rendering completely. Do not relight/repaint the character or change its design; background cleanup only.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0abe0208-98b1-40d7-9bdb-a313d66fd54a.png",
+                "sha256": "bd0c778c03b439c7ee7ed4d2d81bb4f9c75c903fb30f4b1f21578f433dde387f",
+                "inspected": true,
+                "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:25:08.986362+00:00",
+            "preflight": "Three loops now clearly distinguished in front/rear/top, patched original fabric preserved and oil masses improved; however new ground patches appeared. Narrow final ground cleanup only. Specific bounded region changes checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-440cede3-5754-4ead-b460-b0ddb9285728.png",
+            "candidateSha256": "8947a12d233a436fcc5b066484d1d9a2004f11e48ed38e723ed1f8c94c51e662",
+            "completedAt": "2026-09-24T09:40:42.840921+00:00",
+            "visualInspection": "Actual saved-pixel review: Exactly three flexible loop limbs established across main front/back/patched and explicit top view; two front-side loops and visible rear curled arc, no added leg limbs. One striped sail, red/green communication panel, copper/felt/moss body and same blackened original fabric under indigo patch. Ground patches removed; consistent body, scale prop/curled form and readable ivory. Moss simplified to connected opaque painted masses, no face/eyes or extra identity."
+          }
+        ]
+      },
+      "outputSha256": "8947a12d233a436fcc5b066484d1d9a2004f11e48ed38e723ed1f8c94c51e662"
+    },
+    {
+      "id": "ekri",
+      "name": "Ekri",
+      "role": "Classmate who causes incident and follows Irix direction to stop it",
+      "selectionEvidence": [
+        {
+          "quote": "Ekri held the cutoff",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "his copper drum",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "his exhibition apron around",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Ekri had written",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living young student; exact age not established",
+      "storyAppearance": {
+        "anatomy": "CANON classmate and living-current supplier to local flame apparatus, rushed latch, followed visual instruction to cutoff and documented fault; no instant friendship.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Initially dismissive, frightened crisis action, contrite written account.",
+        "states": "Initially dismissive, frightened crisis action, contrite written account."
+      },
+      "explicitCanon": [
+        "CANON classmate and living-current supplier to local flame apparatus, rushed latch, followed visual instruction to cutoff and documented fault; no instant friendship."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: fifteen-year-old boy, fair olive skin, long narrow face, straight sandy-brown cropped hair and hazel eyes; clearly student age not adult.",
+        "Indigo work shirt, dark leather exhibition apron, gray trousers, brown ankle boots. After crisis apron wrapped around RIGHT forearm; side art interpretation only."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Initially dismissive, frightened crisis action, contrite written account."
+        }
+      ],
+      "naming": {
+        "sourceName": "Ekri",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:ekri",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/ekri.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:25:08.986362+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "edea81a1234e6526f923e0f43f1c4425b2c18fec8a43bcd1b74b3811e3947845",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-654ffbcd-f214-45fa-8e8c-5824f05b9a71.png",
+            "sha256": "b86c1d5c6faff56bc5ef3ab0875f458bfa5250e453b100590079baff03682efd",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Same youthful fifteen-year-old identity and ordinary anatomy, right-arm wrapped apron only in Crisis, modest dim cool shadow with restricted amber rather than hot rim. Plain front/rear apron, expression heads, own current copper drum and written account consistent. Ivory and matte oil face/body pass.",
+        "specificationSha256": "50b49fd250c14a7ea4c6ae76dbf5b3a09698c7d756832355cd05da9d40727798"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Change ONLY the Crisis portrait illumination: subdue the bright orange line tracing hair/shoulder/arm into a few restricted muted amber planes, connect cool dim blue shadow mass across face and shirt so it matches actual furnace hall reference2. Keep frightened teen face, RIGHT-forearm apron wrapping (viewerLEFT), ordinary hands, source body and all other sheet pixels. Preserve clear ivory and heavy matte broad oil flesh, front/rear/expression heads, copper drum equipment and written account. No scene or backdrop added.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-654ffbcd-f214-45fa-8e8c-5824f05b9a71.png",
+            "sha256": "b86c1d5c6faff56bc5ef3ab0875f458bfa5250e453b100590079baff03682efd",
+            "inspected": true,
+            "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Ekri. One HUMAN teenage boy apparent15, fair-olive skin, LONG NARROW youthful face, straight SANDY-BROWN cropped hair, hazel eyes; no adult beard/mature body. Indigo work shirt sleeves rolled, dark leather exhibition APRON, grey trousers, brown boots. Front and Back daylight views, apron tied normally. Portraits Dismissive and Contrite. Third waist-up Crisis: face grey with fright under dim COOL BLUE hall shadows with limited furnace AMBER edge; apron REMOVED from torso and wrapped around anatomical RIGHT forearm (viewerLEFT), hand still extends naturally, left arm bare shirt sleeve. No graphic burns or wound invented. One isolated copper drum miniature equipment study with a hand supplied living current as SMALL warm light only, not giant flame creature; one folded written fault account with anonymous marks. No classmate, scenery, furnace or red cross. Exactly two ordinary arms, five-digit hands, no extra limbs. Heavy opaque oils on flesh as on clothes, no smooth anime face.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-654ffbcd-f214-45fa-8e8c-5824f05b9a71.png",
+            "candidateSha256": "b86c1d5c6faff56bc5ef3ab0875f458bfa5250e453b100590079baff03682efd",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: identity/anatomy/apron arm passes, but crisis exaggerated hot outline needs quieter source hall light."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Change ONLY the Crisis portrait illumination: subdue the bright orange line tracing hair/shoulder/arm into a few restricted muted amber planes, connect cool dim blue shadow mass across face and shirt so it matches actual furnace hall reference2. Keep frightened teen face, RIGHT-forearm apron wrapping (viewerLEFT), ordinary hands, source body and all other sheet pixels. Preserve clear ivory and heavy matte broad oil flesh, front/rear/expression heads, copper drum equipment and written account. No scene or backdrop added.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-654ffbcd-f214-45fa-8e8c-5824f05b9a71.png",
+                "sha256": "b86c1d5c6faff56bc5ef3ab0875f458bfa5250e453b100590079baff03682efd",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-c5dffe8f-1e7f-40b4-b064-403812a319b5.png",
+            "candidateSha256": "edea81a1234e6526f923e0f43f1c4425b2c18fec8a43bcd1b74b3811e3947845",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Actual saved-pixel review: Same youthful fifteen-year-old identity and ordinary anatomy, right-arm wrapped apron only in Crisis, modest dim cool shadow with restricted amber rather than hot rim. Plain front/rear apron, expression heads, own current copper drum and written account consistent. Ivory and matte oil face/body pass."
+          }
+        ]
+      },
+      "outputSha256": "edea81a1234e6526f923e0f43f1c4425b2c18fec8a43bcd1b74b3811e3947845"
+    },
+    {
+      "id": "instructor-bexel",
+      "name": "Instructor Bexel",
+      "role": "Instructor who authorizes evacuation and becomes accountable school contact",
+      "selectionEvidence": [
+        {
+          "quote": "Bexel caught my eye and signed",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "She kept her face toward me",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Bexel lifted the green lamp",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        },
+        {
+          "quote": "Bexel laid the agreement",
+          "explanation": "Exact short finished-source phrase anchors main action, source anatomy or state."
+        }
+      ],
+      "form": "Living adult woman; exact age/features unspecified",
+      "storyAppearance": {
+        "anatomy": "CANON competent signer, Aptitudes Exhibition instructor, leads evacuation and creates adult-owned support arrangements; no universal school rules implied.",
+        "clothing": "Source does not fix most wardrobe; explicitly separated illustration choices below.",
+        "equipment": "Instruction, concerned self-correction, dim green-lamp evacuation coordination.",
+        "states": "Instruction, concerned self-correction, dim green-lamp evacuation coordination."
+      },
+      "explicitCanon": [
+        "CANON competent signer, Aptitudes Exhibition instructor, leads evacuation and creates adult-owned support arrangements; no universal school rules implied."
+      ],
+      "visualInterpretation": [
+        "Art interpretation only: forty-nine-year-old tall lean woman, cool medium-brown skin, deep-set gray-brown eyes, angular jaw, tightly braided black hair coiled low with broad silver streak on anatomical RIGHT.",
+        "Charcoal instructor coat over cream shirt, moss-green waistcoat, dark trousers and brown boots; narrow plain leather work apron; green lamp/glass scoring seal/support paper as props."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Instruction, concerned self-correction, dim green-lamp evacuation coordination."
+        }
+      ],
+      "naming": {
+        "sourceName": "Instructor Bexel",
+        "provenance": "Exact source and CANON universe identity; no invented name."
+      },
+      "recurrence": {
+        "identityKey": "canon:instructor-bexel",
+        "links": [],
+        "evidence": "Exact universe/characters CANON entry and bundle source; reusable identity constraints preserved."
+      },
+      "references": [
+        {
+          "path": "stories\\the-friends-i-built\\title-image.jpg",
+          "sha256": "6bb1acdafe3daf7e208fa2d25c426f3d78d0a36c4d7438195e83e099b2e8d22b",
+          "inspected": true,
+          "role": "Inspected cover only: subordinate brass/copper/moss material context. Tall thin one-legged and bird-like toy forms do not control anatomy; finished source four spindle legs/two flags and three loops prevail. Not attached to generation to avoid conflicting anatomy and CG finish."
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+          "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+          "inspected": true,
+          "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\01-the-household-couch.png",
+          "sha256": "bcff7aa2285b7007d66b9eec56ea3fb9369cd4f01592bbd3b66467fc46d12490",
+          "inspected": true,
+          "role": "Actual same-story warm indoor daylight, cool shadow masses and cloth handling; no room/couch/furniture copied"
+        },
+        {
+          "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+          "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+          "inspected": true,
+          "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+        }
+      ],
+      "output": "stories/the-friends-i-built/art/characters/instructor-bexel.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T09:40:42.840921+00:00",
+        "sourceSha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435",
+        "outputSha256": "40ea97ad7d4c778d295f1983ab1a3a7f33ee5d406ebf05cdb4d8be3553cb986c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1a9f23fc-b592-4a47-89b6-5cc7ba5ef516.png",
+            "sha256": "75c69e54da1ff4d5802d1de9944bdeabf4052d83b849fbc5d4b9af0774c98753",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "evidence": "Actual saved-pixel review: Rear full-body head and hair-detail mirror now put silver streak anatomical RIGHT (viewer-right rear), matching front viewer-left stripe. Evacuation face/clothes/hands have deep connected cool shadows, small muted warm/green light; bright ivory retained. Same adult teacher, ordinary anatomy, two hands, green signal lamp, seal and support agreement; no background patch/scenery. All text and coat/waistcoat/apron shapes preserved.",
+        "specificationSha256": "fcde4077978a627276ae1ba943a313f7160e7e07e10c7f10e8e405dd54161a26"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit exactly THREE small regions of this sheet only. (1) HORIZONTALLY MIRROR ONLY the head/hair of the full-body BACK figure, so its face points to viewerRIGHT and silver stripe appears on viewerRIGHT side; keep the body/harness unchanged. (2) HORIZONTALLY MIRROR the entire upper-right Hair Detail head, so it faces away toward viewerRIGHT and its silver stripe moves to viewerRIGHT. Do not alter front-facing heads. (3) LOWER Evacuation torso: darken skin/hair/coat/waistcoat into connected DIM COOL BLUE shadow masses, matching actual hall reference2; only green lamp light and tiny muted amber side planes reveal some knuckles/cheek. It must be markedly darker than day figures, not a bright studio face. Keep pose/green lamp/pointing hands/anatomy unchanged, no halo/rim line. Preserve exact names, all text, glass scoring seal, support agreement, clothing and ivory background. No other changes.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1a9f23fc-b592-4a47-89b6-5cc7ba5ef516.png",
+            "sha256": "75c69e54da1ff4d5802d1de9944bdeabf4052d83b849fbc5d4b9af0774c98753",
+            "inspected": true,
+            "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+          },
+          {
+            "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+            "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+            "inspected": true,
+            "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 1536x1024 CHARACTER REFERENCE SHEET of ONE IDENTITY. Large readable exact name, smaller exact title The Friends I Built. All negative space CLEAN LIGHT WARM IVORY, no gradient/vignette/backdrop patches, scenery, floor, cast ground shadows, swatches or decorative slogans. Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque color/value masses, decisive directional bristle and dragged knife, quiet joins, selective impasto; all flesh/hair/cloth equally painted, no smooth anime/CG/photo areas or repeated glossy bevel chips. Source-specific light only ON figures. Full unclipped front and rear views plus specified useful studies. Small readable state labels on ivory. No other person from reference images. Heading Instructor Bexel. One tall lean HUMAN woman apparent49, COOL MEDIUM-BROWN skin, angular jaw, deep-set grey-brown eyes, tightly braided BLACK hair in LOW COIL with broad SILVER streak at anatomical RIGHT temple (viewerLEFT front). Charcoal practical instructor coat, cream shirt, moss-green waistcoat, dark trousers, brown boots; narrow plain leather work APRON. Front and Back daylight figures. Front faces viewer while two ordinary hands sign clearly, no claim of a specific real sign language. Heads Instruction and Concern. Third waist-up Evacuation under DIM blue shadows and restricted furnace amber edge, holding simple GREEN SIGNAL LAMP high in one hand, other points, face visible. Small glass circular SCORING SEAL, written support agreement with anonymous lines, no spectacle badge or royal insignia. Exactly TWO arms/hands and five digits each. No classmate/room/furniture/flame figure or hearing cure imagery. Broad connected matte oil flesh and cloth, no smooth CGI/anime portions.",
+            "references": [
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\02-irixs-workbench.png",
+                "sha256": "e739619662d5476dbd69f044dd6b19ed7fabb8d194bb6d94791014972e949793",
+                "inspected": true,
+                "role": "PRIMARY same-story broad connected matte oils, warm daylight and cool blue shadows; material brass/copper/moss context only, no room or apparatus copied"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto brush/knife oil handling only; no identity/armor/light/background copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T08:39:24.146401+00:00",
+            "preflight": "Full final source and exact named CANON entries read; original inventory absent, cover conflict excluded. Actual three local paintings and style original inspected. One identity, source anatomy and age, limb counts, source state light and large legible isolated ivory composition checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-cd810dbc-8b94-4113-b551-bce04992d016.png",
+            "candidateSha256": "2b415364cba01d98426cff8745408609e610245a26ea15c3c235db9747b1cc77",
+            "completedAt": "2026-09-24T09:02:44.754249+00:00",
+            "visualInspection": "REVISE: dark background obscures lettering, evacuation includes blue/fire scenic patch and hot rim; rear silver hair stripe on wrong anatomical side."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Change entire backdrop and ALL ground/scenic blue/orange patches OUTSIDE figure silhouettes to CLEAN LIGHT WARM IVORY, with solid dark readable exact headings/labels. Preserve Instructor Bexel identity, face, clothes, anatomy, hands, glass scoring seal, green lamp and agreement. Fix SILVER HAIR STREAK ONLY in TWO REAR views (full back body and upper-right Hair Detail): move it to anatomical RIGHT temple/side, which is VIEWER RIGHT in rear views; no silver streak on viewerLEFT rear. Keep front/other heads silver stripe as currently viewerLEFT, anatomicalRIGHT. Evacuation figure: remove fiery halo/background entirely; dim connected cool shadow on body/face with tiny muted amber edge, keep green lamp internally glowing but no surrounding halo. No furniture/scenery/floor or additional figure.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-cd810dbc-8b94-4113-b551-bce04992d016.png",
+                "sha256": "2b415364cba01d98426cff8745408609e610245a26ea15c3c235db9747b1cc77",
+                "inspected": true,
+                "role": "Actual attempt1 edit target; preserve established identity and all untargeted source details"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:02:44.754249+00:00",
+            "preflight": "Target actual pixels inspected. Narrow issue diagnosis and same-identity anatomy/counts checked against source and CANON. Restore ivory isolation separately from dim figure lighting.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1a9f23fc-b592-4a47-89b6-5cc7ba5ef516.png",
+            "candidateSha256": "75c69e54da1ff4d5802d1de9944bdeabf4052d83b849fbc5d4b9af0774c98753",
+            "completedAt": "2026-09-24T09:25:08.986362+00:00",
+            "visualInspection": "Ivory restored, but both rear hair views still mirror the silver stripe and evacuation face remains broadly daylit. Diagnose: anatomical wording ignored; use explicit horizontal head-only mirror and separate strong dark figure value change."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit exactly THREE small regions of this sheet only. (1) HORIZONTALLY MIRROR ONLY the head/hair of the full-body BACK figure, so its face points to viewerRIGHT and silver stripe appears on viewerRIGHT side; keep the body/harness unchanged. (2) HORIZONTALLY MIRROR the entire upper-right Hair Detail head, so it faces away toward viewerRIGHT and its silver stripe moves to viewerRIGHT. Do not alter front-facing heads. (3) LOWER Evacuation torso: darken skin/hair/coat/waistcoat into connected DIM COOL BLUE shadow masses, matching actual hall reference2; only green lamp light and tiny muted amber side planes reveal some knuckles/cheek. It must be markedly darker than day figures, not a bright studio face. Keep pose/green lamp/pointing hands/anatomy unchanged, no halo/rim line. Preserve exact names, all text, glass scoring seal, support agreement, clothing and ivory background. No other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-1a9f23fc-b592-4a47-89b6-5cc7ba5ef516.png",
+                "sha256": "75c69e54da1ff4d5802d1de9944bdeabf4052d83b849fbc5d4b9af0774c98753",
+                "inspected": true,
+                "role": "Actual attempt2 edit target, preserve established identity and all untargeted anatomy, props and text"
+              },
+              {
+                "path": "stories\\the-friends-i-built\\art\\interiors\\03-the-cinder-annex-furnace-hall.png",
+                "sha256": "8153910f6e9f67a7cdb42ee8b65bd952d683f84cc85a2207d42e3b8129b8cc0a",
+                "inspected": true,
+                "role": "Actual same-story dim cool hall shadows with restricted furnace amber planes on crisis state figures only; no room/fire figure/equipment copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:25:08.986362+00:00",
+            "preflight": "Ivory restored, but both rear hair views still mirror the silver stripe and evacuation face remains broadly daylit. Diagnose: anatomical wording ignored; use explicit horizontal head-only mirror and separate strong dark figure value change. Specific bounded region changes checked before call.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e6eb5aa0-bd03-4f00-9c19-442723b4c0e0.png",
+            "candidateSha256": "40ea97ad7d4c778d295f1983ab1a3a7f33ee5d406ebf05cdb4d8be3553cb986c",
+            "completedAt": "2026-09-24T09:40:42.840921+00:00",
+            "visualInspection": "Actual saved-pixel review: Rear full-body head and hair-detail mirror now put silver streak anatomical RIGHT (viewer-right rear), matching front viewer-left stripe. Evacuation face/clothes/hands have deep connected cool shadows, small muted warm/green light; bright ivory retained. Same adult teacher, ordinary anatomy, two hands, green signal lamp, seal and support agreement; no background patch/scenery. All text and coat/waistcoat/apron shapes preserved."
+          }
+        ]
+      },
+      "outputSha256": "40ea97ad7d4c778d295f1983ab1a3a7f33ee5d406ebf05cdb4d8be3553cb986c"
+    }
+  ]
+}

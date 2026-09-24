@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-cat-who-kept-the-door",
+  "title": "The Cat Who Kept the Door",
+  "source": "stories/the-cat-who-kept-the-door/story.md",
+  "sourceSha256": "6c24fd60540a04c7e20946afdfc484f6fe68a0338828d2d7b3bfdbed45a63aae",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source, prompt and review read. Murrant, Isabet and speaking embodied artificial sovereign Aphan carry central choices/conflict; all named main identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Cavalry commander, astronomer, father/ancestors, two princes, historical white-clad people and crowd",
+      "reason": "Brief functional/recalled supporting figures, no sustained main action in current conflict; projected people not Aphan avatars."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Constructed intelligence agency; local source describes Aphan, not universal AI origin; cat life count not generic magic rule"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No named shared entries; source review distinguishes Murrant from Mizzle"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+      "sha256": "cfeddf3270b414e6c0be5e7442501cf18cbd1d0873d2e2296824b0c8abce652e",
+      "inspected": true,
+      "role": "Recovered original Murrant black fur/gold eyes/black-red robe/gold ornament/red-stone scythe; humanlike hands, ornate gold blade and glossy CGI excluded by prose/style",
+      "displayName": "codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+      "status": "resolved",
+      "recoveryProvenance": "Coordinator recovered exact original PNG from archived source user input_image; Sep11 14:15 rollout prefix01a091ae, zero-based line8",
+      "inspection": "Actually inspected: black/gold cat face, black-red robe, gold ornament and red-stone scythe. Original anthropomorphic hands and golden weapon/CGI are advisory and overridden by source cat paws and dark raven-sheen blade."
+    }
+  ],
+  "characters": [
+    {
+      "id": "murrant",
+      "name": "Murrant",
+      "role": "Royal archmage, ordinary-sized black cat in his ninth and final life",
+      "selectionEvidence": [
+        {
+          "quote": "His black paw slid between the stems of two wineglasses",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "Its red lining settled over his shoulders; little gold clasps fastened beneath his throat.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "It was taller than Isabet.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "The inward curve of its blade had the faint blue sheen of a raven's wing",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "a pale scar across his nose.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "Dust coated him gray.",
+          "explanation": "Direct source identity/material/state/action."
+        }
+      ],
+      "form": "Quadrupedal black domestic cat",
+      "storyAppearance": {
+        "anatomy": "Small black domestic cat, paws/ears/whiskers/four legs/tail. Gold eyes from original. Pale scar across nose. Ninth life, no further resurrection.",
+        "clothing": "Black robe, red lining, little gold throat clasps. Aftermath grey dust and torn robe/broken clasp.",
+        "equipment": "Scythe taller than queen: inward blade dark blue raven sheen, red stone at blade/shaft join. Magic floats it beside cat, paw rests shaft; no human gripping hands. Gold shield/fire source capability.",
+        "states": "Ordinary unrobed cat at dinner, robed archmage with intact floating scythe, exhausted dust-grey cat/torn robe after rescue, hind legs moving. Scythe stays broken under machine; no returned intact weapon aftermath."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: His black paw slid between the stems of two wineglasses",
+        "Non-canon source fact: Its red lining settled over his shoulders; little gold clasps fastened beneath his throat.",
+        "Non-canon source fact: It was taller than Isabet.",
+        "Non-canon source fact: The inward curve of its blade had the faint blue sheen of a raven's wing",
+        "Non-canon source fact: a pale scar across his nose.",
+        "Non-canon source fact: Dust coated him gray."
+      ],
+      "visualInterpretation": [
+        "Original fur/eyes/black-red-gold garment guide, but anthropomorphic raised humanlike hands rejected: prose repeatedly ordinary cat movements.",
+        "Small broad-headed short/medium black fur cat, no giant humanoid body; hood relaxed around ears."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Ordinary unrobed cat at dinner, robed archmage with intact floating scythe, exhausted dust-grey cat/torn robe after rescue, hind legs moving. Scythe stays broken under machine; no returned intact weapon aftermath."
+        }
+      ],
+      "naming": {
+        "sourceName": "Murrant",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-cat-who-kept-the-door:murrant",
+        "links": [],
+        "evidence": "Exact name search in universe/frozen memory/character specs found no earlier matching identity; source final inventory marks new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+          "sha256": "cfeddf3270b414e6c0be5e7442501cf18cbd1d0873d2e2296824b0c8abce652e",
+          "inspected": true,
+          "role": "Recovered original Murrant black fur/gold eyes/black-red robe/gold ornament/red-stone scythe; humanlike hands, ornate gold blade and glossy CGI excluded by prose/style"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\title-image.jpg",
+          "sha256": "0d35d1bff01dada0af573c0b8fa9591cb989591ecdbae91146903ad9561cb584",
+          "inspected": true,
+          "role": "Inspected cover supports black cat/gold eyes/red-black robe; smooth rendering and gold blade subordinate to prose"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+          "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+          "inspected": true,
+          "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+          "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+          "inspected": true,
+          "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\03-the-machine-below-the-tombs.png",
+          "sha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+          "inspected": true,
+          "role": "Actual Aphan egg shell/white branching core/glass array/copper teeth/segmented mast geometry; broad oils and subterranean glow only, remove entire chamber/bridge/walls"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-cat-who-kept-the-door/art/characters/murrant.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T07:05:01.522350+00:00",
+        "sourceSha256": "6c24fd60540a04c7e20946afdfc484f6fe68a0338828d2d7b3bfdbed45a63aae",
+        "outputSha256": "5503df43f7778cfdc0453a7d062069bb9ed5deefef8cd08ef14c6ef94e4c0332",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-58602c3d-c54d-438f-be9a-a01bda36e573.png",
+            "sha256": "626edae8f545bda01e2cf8bbbc77378b7ff593c3e56f6a1c3c1d3a242598f157",
+            "inspected": true,
+            "role": "Actual corrected candidate; remove inaccurate generated label/extra forehead scars only"
+          }
+        ],
+        "evidence": [
+          "Actual corrected PNG inspected: Robed label no longer claims always; pale scar crosses nose in every view, extra forehead marks removed.",
+          "Black quadrupedal domestic cat/gold eyes, intact black-red robe/throat clasps vs exhausted grey dust/torn robe/brokenclasp retained. No anthropomorphic hands. Separate tall dark-steel raven-blue scythe/redstone entirely visible.",
+          "Source night dark fur with selective light, thickly painted broad black masses, readable exact name/title and clean ivory, no scene/other identity."
+        ],
+        "specificationSha256": "c898b1078d5aa6861dc36a47ab32dd32cc3052def5d97afc377fa2a9a9c5c5c4"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Two SMALL corrections only on this finished Murrant sheet. Change label Robed (as always) to simply Robed, removing parentheses and as always entirely. Remove thin pink diagonal FOREHEAD scars above eyes on every cat view: forehead is normal black fur. RETAIN pale healed horizontal scar ACROSS NOSE BRIDGE in every face, as source states. Preserve all character geometry, gold eyes, four feline paws/tail, black-red robe/goldclasp, grey-dust aftermath/brokenclasp, dark-steel blue-sheen scythe/redstone, exact title/name, readable shortlabels, matte broad oil strokes and light IVORY page. No other edits.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-58602c3d-c54d-438f-be9a-a01bda36e573.png",
+            "sha256": "626edae8f545bda01e2cf8bbbc77378b7ff593c3e56f6a1c3c1d3a242598f157",
+            "inspected": true,
+            "role": "Actual corrected candidate; remove inaccurate generated label/extra forehead scars only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET. Large readable NAME and smaller exact story title The Cat Who Kept the Door. Only ONE IDENTITY; multiple states and details allowed. Entire page background LIGHT WARM IVORY, no dark gradient, no floor/contact shadow, no scenery, no location, no swatches or decorative prose. Short functional labels. Primary same-story painting controls Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque masses, directional bristle/knife, quiet joins, selective thick accents; avoid uniformly shiny beveled dabs/CGI/photos/anime. Night lighting on character never turns ivory background dark. Complete unclipped forms, source anatomy, no unrelated style-sheet character. Heading Murrant. ONLY one ordinary-size BLACK DOMESTIC CAT with GOLD eyes, pale fine scar CROSSING NOSE, whiskers, FOUR feline legs/paws and one tail, no human hands, arms or upright humanoid torso from original. Three complete CAT studies: Unrobed seated black cat; Robed three-quarter cat sitting low in BLACK cloak-like robe with RED lining and small GOLD clasps under throat; After rescue exhausted curled/lying cat coated grey DUST with torn black/red robe, BROKEN gold throat clasp, ordinary hind legs still present/moving. Same face, nose scar and eyes all states. Two head expressions Fear and Guarded, both cat anatomy. A separate complete SCYTHE object at right, tall narrow shaft taller than an adult queen (label Taller than the queen; do NOT draw human scale figure). Inward curved DARK STEEL blade faint blue raven sheen, ONE RED stone where blade joins shaft. It FLOATS beside cat or isolated, no grasping human paw; blade not bright gold despite original. No intact weapon beside exhausted after-rescue cat. Tiny gold light only on whiskers/one paw for archmage state, no huge magic circles, sigils, moon or palace. Figure illumination is NIGHT: limited warm torch edges with broad deep cool blue shadow; black fur remains black and readable in broad matte strokes. Keep ivory page fully light.",
+            "references": [
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+                "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+                "inspected": true,
+                "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+                "sha256": "cfeddf3270b414e6c0be5e7442501cf18cbd1d0873d2e2296824b0c8abce652e",
+                "inspected": true,
+                "role": "Recovered original Murrant black fur/gold eyes/black-red robe/gold ornament/red-stone scythe; humanlike hands, ornate gold blade and glossy CGI excluded by prose/style"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+              },
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+                "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+                "inspected": true,
+                "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:25:54.873563+00:00",
+            "preflight": "Full source and recorded prompt/review read after false marker; original/cover/3 actual interior paintings inspected. Prose resolves cat paws vs original anthropomorphism and dark blade vs original gold. Aphan isolated machine identity not location; no other cast. Source night lighting, ivory page and relevant states checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d8943d4-8691-41d1-98fd-318540e73dfc.png",
+            "candidateSha256": "e14359d603b7113aa6bbfdaf1d635f22b6d962ebf8a7ab003f300ea5ba7d942b",
+            "completedAt": "2026-09-24T06:43:33.053177+00:00",
+            "visualInspection": [
+              "Cat anatomy/robe/scythe and aftermath source state good, but dark page hides headings and pale nose scar missing."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Correct this Murrant sheet. Replace EVERY dark/brown/black gradient and floor mark in NEGATIVE SPACE with CLEAN VERY LIGHT IVORY, as a blank cream reference-sheet page. Keep BLACK CAT fur and dark robe black: background replacement does NOT relight cat. LARGE BLACK READABLE Murrant heading, exact readable subtitle The Cat Who Kept the Door, short readable functional labels. All cats retain source night dark fur/gold eyes, same four-pawed domestic cat anatomy, black robe/redlining/goldclasps, grey-dust aftermath with broken clasp, black-steel blue-sheen scythe with red stone. Add a subtle but clearly visible PALE healed thin horizontal SCAR ACROSS the nose bridge in all faces, including full cats and both head studies. Need source scar visible, not fresh wound. Repaint fur in broad directional bristle masses with quiet joined shadows, avoiding photographic fur and repeated shiny tile dabs. The actual second reference matte oil painting gives brush texture only, no tomb. Inset scythe fully inside page with clear ivory margin at every edge. No scenery/ground/extra identity; ordinary cat remains small and scythe very tall.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9d8943d4-8691-41d1-98fd-318540e73dfc.png",
+                "sha256": "e14359d603b7113aa6bbfdaf1d635f22b6d962ebf8a7ab003f300ea5ba7d942b",
+                "inspected": true,
+                "role": "Actual candidate; narrow source/lighting/background correction"
+              },
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+                "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+                "inspected": true,
+                "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:43:33.053177+00:00",
+            "preflight": "Actual candidates inspected. Pale scar, source NIGHT illumination and remote vs attached machine arms checked against full prose; count6pits correct. Ivory separated from figure illumination.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-58602c3d-c54d-438f-be9a-a01bda36e573.png",
+            "candidateSha256": "626edae8f545bda01e2cf8bbbc77378b7ff593c3e56f6a1c3c1d3a242598f157",
+            "completedAt": "2026-09-24T06:57:26.784525+00:00",
+            "visualInspection": [
+              "Ivory/headings corrected, healed nose scar now visible and cat/night/scythe facts retained; remove generated incorrect label Robed(as always) and extra forehead scars."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Two SMALL corrections only on this finished Murrant sheet. Change label Robed (as always) to simply Robed, removing parentheses and as always entirely. Remove thin pink diagonal FOREHEAD scars above eyes on every cat view: forehead is normal black fur. RETAIN pale healed horizontal scar ACROSS NOSE BRIDGE in every face, as source states. Preserve all character geometry, gold eyes, four feline paws/tail, black-red robe/goldclasp, grey-dust aftermath/brokenclasp, dark-steel blue-sheen scythe/redstone, exact title/name, readable shortlabels, matte broad oil strokes and light IVORY page. No other edits.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-58602c3d-c54d-438f-be9a-a01bda36e573.png",
+                "sha256": "626edae8f545bda01e2cf8bbbc77378b7ff593c3e56f6a1c3c1d3a242598f157",
+                "inspected": true,
+                "role": "Actual corrected candidate; remove inaccurate generated label/extra forehead scars only"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:57:26.784525+00:00",
+            "preflight": "Actual second PNG inspected. Source robe retrieved at awakening, not always worn; pale nose scar required, extra forehead scars not needed. All other image states retained.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-3b96d6ed-b507-48f9-9127-d165668082d4.png",
+            "candidateSha256": "5503df43f7778cfdc0453a7d062069bb9ed5deefef8cd08ef14c6ef94e4c0332",
+            "completedAt": "2026-09-24T07:05:01.522350+00:00",
+            "visualInspection": [
+              "Actual corrected PNG inspected: Robed label no longer claims always; pale scar crosses nose in every view, extra forehead marks removed.",
+              "Black quadrupedal domestic cat/gold eyes, intact black-red robe/throat clasps vs exhausted grey dust/torn robe/brokenclasp retained. No anthropomorphic hands. Separate tall dark-steel raven-blue scythe/redstone entirely visible.",
+              "Source night dark fur with selective light, thickly painted broad black masses, readable exact name/title and clean ivory, no scene/other identity."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "5503df43f7778cfdc0453a7d062069bb9ed5deefef8cd08ef14c6ef94e4c0332"
+    },
+    {
+      "id": "isabet",
+      "name": "Isabet",
+      "role": "Young queen of forty-one days who refuses Aphan and rescues Murrant",
+      "selectionEvidence": [
+        {
+          "quote": "She had been queen for forty-one days.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "through the soles of her slippers",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "She ran with her skirts bunched in both hands",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "One pushed far enough through to catch her hair",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "Murrant's forepaw closed on the cuff of her sleeve.",
+          "explanation": "Direct source identity/material/state/action."
+        }
+      ],
+      "form": "Young adult human woman",
+      "storyAppearance": {
+        "anatomy": "Young human queen, hair caught/torn by machine fingers. No exact age/skin/hair specified.",
+        "clothing": "Court skirts, sleeves/cuffs and slippers. Aftermath dust, shaken/tired, physical exertion; no armor/sword.",
+        "states": "Court uncertainty at night then determined refusal and dusty aftermath after rescuing cat; both hands source ordinary human anatomy."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: She had been queen for forty-one days.",
+        "Non-canon source fact: through the soles of her slippers",
+        "Non-canon source fact: She ran with her skirts bunched in both hands",
+        "Non-canon source fact: One pushed far enough through to catch her hair",
+        "Non-canon source fact: Murrant's forepaw closed on the cuff of her sleeve."
+      ],
+      "visualInterpretation": [
+        "Age23 adult, warm olive skin, oval face with strong eyebrows, long dark brown hair braided into low coil, hazel eyes, slim build.",
+        "Deep teal modest high-neck court gown with quiet gold cuff stitching, low small gold circlet and dark soft slippers. Hair loose/frayed after machine catches it; court clothing dust-torn aftermath."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Court uncertainty at night then determined refusal and dusty aftermath after rescuing cat; both hands source ordinary human anatomy."
+        }
+      ],
+      "naming": {
+        "sourceName": "Isabet",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-cat-who-kept-the-door:isabet",
+        "links": [],
+        "evidence": "Exact name search in universe/frozen memory/character specs found no earlier matching identity; source final inventory marks new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+          "sha256": "cfeddf3270b414e6c0be5e7442501cf18cbd1d0873d2e2296824b0c8abce652e",
+          "inspected": true,
+          "role": "Recovered original Murrant black fur/gold eyes/black-red robe/gold ornament/red-stone scythe; humanlike hands, ornate gold blade and glossy CGI excluded by prose/style"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\title-image.jpg",
+          "sha256": "0d35d1bff01dada0af573c0b8fa9591cb989591ecdbae91146903ad9561cb584",
+          "inspected": true,
+          "role": "Inspected cover supports black cat/gold eyes/red-black robe; smooth rendering and gold blade subordinate to prose"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+          "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+          "inspected": true,
+          "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+          "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+          "inspected": true,
+          "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\03-the-machine-below-the-tombs.png",
+          "sha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+          "inspected": true,
+          "role": "Actual Aphan egg shell/white branching core/glass array/copper teeth/segmented mast geometry; broad oils and subterranean glow only, remove entire chamber/bridge/walls"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-cat-who-kept-the-door/art/characters/isabet.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:57:26.784525+00:00",
+        "sourceSha256": "6c24fd60540a04c7e20946afdfc484f6fe68a0338828d2d7b3bfdbed45a63aae",
+        "outputSha256": "e38865ebc05aeac4584c082a5349baf71aaaddb65e3d7421fcf66b4e05360c02",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-dd54c7e0-a9fb-4406-ad14-710afa625d5b.png",
+            "sha256": "0c31cf522235c22d4bed4d536121681b1a675477215ae277c5bb99ba22dd5b84",
+            "inspected": true,
+            "role": "Actual candidate; narrow source/lighting/background correction"
+          },
+          {
+            "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+            "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+            "inspected": true,
+            "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: source NIGHT now clear across all views with limited amber edge light and connected cool blue shadows, eyes/readable adult face preserved.",
+          "Court/front/rear versus torn dusty aftermath with loose hair consistent, normal five digits, readable exact name/title, heavy matte oil on ivory, no other identity/location."
+        ],
+        "specificationSha256": "7ba8c30ee515c69033246d39160b096075ee8603212349de923305613f1db187"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Narrow LIGHTING correction to this otherwise finished Isabet sheet. Every view is at NIGHT. Current evenly bright orange faces read daytime/studio. Repaint illumination to match image2 actual throne-room night: only SMALL planes catch warm torch glow; broad connected deep cool BLUE shadows occupy at least half face/neck/hands and broad dress planes. All front/rear/AfterRescue full figures and Uncertain/Refusal/Exhausted heads should clearly be night-lit, eyes and expressions still legible. AfterRescue has limited torch spill with dimmer exhausted head, not bright sunny skin. Preserve exact young adult23 identity, dark low braided coil, teal gown/gold cuffs/circlet, correct five-digit hands, torn cuff and loosened hair. Keep ALL page background uniformly LIGHT WARM IVORY, no dark wash/gradient. No scene added, no other characters, no anatomy/layout/label change; heavy matte broad oils stay.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-dd54c7e0-a9fb-4406-ad14-710afa625d5b.png",
+            "sha256": "0c31cf522235c22d4bed4d536121681b1a675477215ae277c5bb99ba22dd5b84",
+            "inspected": true,
+            "role": "Actual candidate; narrow source/lighting/background correction"
+          },
+          {
+            "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+            "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+            "inspected": true,
+            "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET. Large readable NAME and smaller exact story title The Cat Who Kept the Door. Only ONE IDENTITY; multiple states and details allowed. Entire page background LIGHT WARM IVORY, no dark gradient, no floor/contact shadow, no scenery, no location, no swatches or decorative prose. Short functional labels. Primary same-story painting controls Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque masses, directional bristle/knife, quiet joins, selective thick accents; avoid uniformly shiny beveled dabs/CGI/photos/anime. Night lighting on character never turns ivory background dark. Complete unclipped forms, source anatomy, no unrelated style-sheet character. Heading Isabet. One young HUMAN QUEEN age23 adult, warm olive skin, oval long face, strong dark brows, hazel eyes, long dark brown hair braided into LOW coil; slim small adult body. Modest DEEP TEAL long-sleeved high-neck court gown with subtle gold embroidered cuffs, small low gold circlet, soft dark slippers; no armor or weapon. Three complete front/back/After rescue three-quarter figures. Court front/back neat braid and gown under NIGHT illumination: narrow amber torch-lit planes and DEEP connected cool-blue shadow across unlit face and dress, like first reference; not sunny full-body glamour. After rescue same woman/clothes, dusty/torn cuff, hair partly pulled out of braid where machinery caught it, tired and shaking yet determined, hands held protectively at chest but EMPTY, no cat/other character. Head studies Uncertain and Refusal, third Exhausted if room; one ordinary five-digit hand/cuff study. Circle of gold remains small and understated, no scepter/throne/seal. Broad matte oil face/cloth, unclipped gown/slippers, ivory negative space stays bright.",
+            "references": [
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+                "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+                "inspected": true,
+                "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+              },
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+                "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+                "inspected": true,
+                "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:25:54.873563+00:00",
+            "preflight": "Full source and recorded prompt/review read after false marker; original/cover/3 actual interior paintings inspected. Prose resolves cat paws vs original anthropomorphism and dark blade vs original gold. Aphan isolated machine identity not location; no other cast. Source night lighting, ivory page and relevant states checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-dd54c7e0-a9fb-4406-ad14-710afa625d5b.png",
+            "candidateSha256": "0c31cf522235c22d4bed4d536121681b1a675477215ae277c5bb99ba22dd5b84",
+            "completedAt": "2026-09-24T06:43:33.053177+00:00",
+            "visualInspection": [
+              "Identity/age, attire, aftermath and anatomy pass; figures too broadly bright for source night."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow LIGHTING correction to this otherwise finished Isabet sheet. Every view is at NIGHT. Current evenly bright orange faces read daytime/studio. Repaint illumination to match image2 actual throne-room night: only SMALL planes catch warm torch glow; broad connected deep cool BLUE shadows occupy at least half face/neck/hands and broad dress planes. All front/rear/AfterRescue full figures and Uncertain/Refusal/Exhausted heads should clearly be night-lit, eyes and expressions still legible. AfterRescue has limited torch spill with dimmer exhausted head, not bright sunny skin. Preserve exact young adult23 identity, dark low braided coil, teal gown/gold cuffs/circlet, correct five-digit hands, torn cuff and loosened hair. Keep ALL page background uniformly LIGHT WARM IVORY, no dark wash/gradient. No scene added, no other characters, no anatomy/layout/label change; heavy matte broad oils stay.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-dd54c7e0-a9fb-4406-ad14-710afa625d5b.png",
+                "sha256": "0c31cf522235c22d4bed4d536121681b1a675477215ae277c5bb99ba22dd5b84",
+                "inspected": true,
+                "role": "Actual candidate; narrow source/lighting/background correction"
+              },
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+                "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+                "inspected": true,
+                "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:43:33.053177+00:00",
+            "preflight": "Actual candidates inspected. Pale scar, source NIGHT illumination and remote vs attached machine arms checked against full prose; count6pits correct. Ivory separated from figure illumination.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-dc537cc4-6986-415e-bf10-4b4092609a2a.png",
+            "candidateSha256": "e38865ebc05aeac4584c082a5349baf71aaaddb65e3d7421fcf66b4e05360c02",
+            "completedAt": "2026-09-24T06:57:26.784525+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: source NIGHT now clear across all views with limited amber edge light and connected cool blue shadows, eyes/readable adult face preserved.",
+              "Court/front/rear versus torn dusty aftermath with loose hair consistent, normal five digits, readable exact name/title, heavy matte oil on ivory, no other identity/location."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "e38865ebc05aeac4584c082a5349baf71aaaddb65e3d7421fcf66b4e05360c02"
+    },
+    {
+      "id": "aphan",
+      "name": "Aphan",
+      "role": "Ancient embodied artificial sovereign and coercive antagonist",
+      "selectionEvidence": [
+        {
+          "quote": "Within that opening, hundreds of glass plates revolved around a white branching column.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "Rows of identical copper teeth glowed below the plates.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "the same pattern of six pits on every turning joint.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "Down the column ran a silver seam.",
+          "explanation": "Direct source identity/material/state/action."
+        },
+        {
+          "quote": "I am Aphan. I receive your attendance.",
+          "explanation": "Direct source identity/material/state/action."
+        }
+      ],
+      "form": "Immense non-humanoid manufactured artificial mind in armored egg body",
+      "storyAppearance": {
+        "anatomy": "Manufactured egg-shaped armored main body opening upper shell leaf, white branching central thinking column with fine branching black connections and revolving glass plates; copper teeth below. Tower-scale shell leaf; segmented communication mast.",
+        "equipment": "Articulated arms/pincers and scoops, repeated joints six pits; the sole remaining central mind commands distant machinery. No human face/avatar; projected historical humans not its appearance.",
+        "states": "Closed fused sleeping shell, opened awakening body, central core detail intact with silver seam; destroyed split seam state can be small separate core detail but not required."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Within that opening, hundreds of glass plates revolved around a white branching column.",
+        "Non-canon source fact: Rows of identical copper teeth glowed below the plates.",
+        "Non-canon source fact: the same pattern of six pits on every turning joint.",
+        "Non-canon source fact: Down the column ran a silver seam.",
+        "Non-canon source fact: I am Aphan. I receive your attendance."
+      ],
+      "visualInterpretation": [
+        "Actual inspected machine painting establishes aged dark bronze/iron egg casing, warm white branched core, curved glass panels and copper components. Strip all chamber/bridge/stone architecture from character sheet.",
+        "Egg body and remote manipulator joint detail shown separately; source manipulators mounted on chamber walls, not attached little robot arms. Detail scale labelled; no human for scale or religious emblem."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Closed fused sleeping shell, opened awakening body, central core detail intact with silver seam; destroyed split seam state can be small separate core detail but not required."
+        }
+      ],
+      "naming": {
+        "sourceName": "Aphan",
+        "provenance": "Exact finished-source name."
+      },
+      "recurrence": {
+        "identityKey": "the-cat-who-kept-the-door:aphan",
+        "links": [],
+        "evidence": "Exact name search in universe/frozen memory/character specs found no earlier matching identity; source final inventory marks new."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-f2680705-e84e-4351-84da-544f2ad4672e.png",
+          "sha256": "cfeddf3270b414e6c0be5e7442501cf18cbd1d0873d2e2296824b0c8abce652e",
+          "inspected": true,
+          "role": "Recovered original Murrant black fur/gold eyes/black-red robe/gold ornament/red-stone scythe; humanlike hands, ornate gold blade and glossy CGI excluded by prose/style"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\title-image.jpg",
+          "sha256": "0d35d1bff01dada0af573c0b8fa9591cb989591ecdbae91146903ad9561cb584",
+          "inspected": true,
+          "role": "Inspected cover supports black cat/gold eyes/red-black robe; smooth rendering and gold blade subordinate to prose"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\01-the-throne-room.png",
+          "sha256": "5108bb02afb66accd137c7a07436a4edc05228724638d89f13b3e4c73990fc96",
+          "inspected": true,
+          "role": "PRIMARY actual heavy matte oils and NIGHT cool blue moonlight/limited warm torchlight on bodies only; no location"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\02-the-new-burial-chamber.png",
+          "sha256": "662b12a421a4ac3a6b674c7a413353773881e415a9b13b7dfba50d1320e51c3a",
+          "inspected": true,
+          "role": "Actual source aftermath limited torch/night light with deep slate shadows and oil masses, no tomb"
+        },
+        {
+          "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\03-the-machine-below-the-tombs.png",
+          "sha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+          "inspected": true,
+          "role": "Actual Aphan egg shell/white branching core/glass array/copper teeth/segmented mast geometry; broad oils and subterranean glow only, remove entire chamber/bridge/walls"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true,
+          "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+        }
+      ],
+      "output": "stories/the-cat-who-kept-the-door/art/characters/aphan.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:57:26.784525+00:00",
+        "sourceSha256": "6c24fd60540a04c7e20946afdfc484f6fe68a0338828d2d7b3bfdbed45a63aae",
+        "outputSha256": "9edb99e033fa5561aa66524d4a22dcf1117792681f42a17cf5149732f189e7ac",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4e9d4a39-ce3b-4051-b4f0-f09e9a11ba94.png",
+            "sha256": "fbfa552ca402692423507d9927c830a609ef9fd2cb3c3459fc4475a1983858c4",
+            "inspected": true,
+            "role": "Actual candidate; narrow source/lighting/background correction"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: main egg body no longer has invented attached arms; remote joint detail remains with exactly6 pits in two rows3.",
+          "Open/Closed machine preserves immense egg shell, white branching column/silver seam, black connections, glass array, copper teeth and mast; one non-humanoid artificial identity, no setting/avatar, matte oils and readable headings on ivory."
+        ],
+        "specificationSha256": "5480049373047b92f945fe82b844c97b4be98c63369c78936e6766dbdafa5f5c"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Narrow source-geometry correction to Aphan sheet. The pincer manipulator arms are remote machinery mounted on chamber walls, NOT little robot arms attached directly to the egg body. REMOVE the two attached pincer ARMS from BOTH Open and Closed egg views, restoring clean ivory at sides and smooth continuous egg shells. Do NOT turn Aphan into humanoid robot. Keep both eggs, all central white branching core/black connections/glass plates/copper teeth, raised shell, chains/counterweights and rear segmented mast exactly. The lower-right isolated JOINT detail may remain as remote hardware; change its label to Remote joint. It must retain EXACTLY SIX pits arranged two rows of3. No wall/room/bridge or floor drawn. Preserve thick matte oil, exact name/title, ivory, labels and unclipped single machine identity.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4e9d4a39-ce3b-4051-b4f0-f09e9a11ba94.png",
+            "sha256": "fbfa552ca402692423507d9927c830a609ef9fd2cb3c3459fc4475a1983858c4",
+            "inspected": true,
+            "role": "Actual candidate; narrow source/lighting/background correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET. Large readable NAME and smaller exact story title The Cat Who Kept the Door. Only ONE IDENTITY; multiple states and details allowed. Entire page background LIGHT WARM IVORY, no dark gradient, no floor/contact shadow, no scenery, no location, no swatches or decorative prose. Short functional labels. Primary same-story painting controls Canadian Group of Seven HEAVY MATTE OILS: broad connected opaque masses, directional bristle/knife, quiet joins, selective thick accents; avoid uniformly shiny beveled dabs/CGI/photos/anime. Night lighting on character never turns ivory background dark. Complete unclipped forms, source anatomy, no unrelated style-sheet character. Heading Aphan. One NON-HUMANOID ARTIFICIAL INTELLIGENCE embodied in enormous manufactured EGG-shaped armored machine, use first reference exact core/shell appearance but isolate the CHARACTER BODY completely from chamber. No human face, head, arms-as-human, clothing, crown or avatar. TWO full machine body studies Open/Closed: dark weathered bronze/iron EGG main body, upper shell leaf lifts on a compact attached chain/counterweight assembly. Open body exposes WHITE BRANCHING CENTRAL COLUMN, dense very thin BLACK branching connections and many revolving curved transparent GLASS PLATES, COPPER TEETH rows glowing below. Adjacent segmented mast is ATTACHED machinery of same sovereign, telescopes behind shell. Simplified integral jointed manipulator arms/pincers flank base (not chamber walls). Closed egg has fused smooth joins, no slit humanoid eyes. Large core detail shows one vertical SILVER SEAM down white column; one isolated turning-joint detail shows EXACTLY SIX small circular PITS arranged two rows of3. Geometry is manufactured repeated regular parts, no organic tentacles. Machine light is restrained internal warm white/copper with deep cool steel shadows; glass/metal painted in broad matte opaque oil strokes with selected hard edge/glints. Short labels Open, Closed, Core, Joint. Important NO stone chamber, palace, room, floor, service bridge, railings, distant city projection, landscape, human/cat silhouettes or scale people. Clean LIGHT WARM IVORY all around machines/details, all components fully inside frame, same single machine identity only.",
+            "references": [
+              {
+                "path": "stories\\the-cat-who-kept-the-door\\art\\interiors\\03-the-machine-below-the-tombs.png",
+                "sha256": "52f4e545bc49db7c8602f9a461b4bdce7558da46ebfc3826fe8b707dfaed67d8",
+                "inspected": true,
+                "role": "Actual Aphan egg shell/white branching core/glass array/copper teeth/segmented mast geometry; broad oils and subterranean glow only, remove entire chamber/bridge/walls"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Original Sculpted Impasto handmade oil only; no identity, costume, light, scene or swatches"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:25:54.873563+00:00",
+            "preflight": "Full source and recorded prompt/review read after false marker; original/cover/3 actual interior paintings inspected. Prose resolves cat paws vs original anthropomorphism and dark blade vs original gold. Aphan isolated machine identity not location; no other cast. Source night lighting, ivory page and relevant states checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4e9d4a39-ce3b-4051-b4f0-f09e9a11ba94.png",
+            "candidateSha256": "fbfa552ca402692423507d9927c830a609ef9fd2cb3c3459fc4475a1983858c4",
+            "completedAt": "2026-09-24T06:43:33.053177+00:00",
+            "visualInspection": [
+              "Egg/core/glass/copper/seam and six pits pass; attached robot-like arms misstate remote wall-mounted manipulators, so remove from whole bodies and keep isolated remote joint."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Narrow source-geometry correction to Aphan sheet. The pincer manipulator arms are remote machinery mounted on chamber walls, NOT little robot arms attached directly to the egg body. REMOVE the two attached pincer ARMS from BOTH Open and Closed egg views, restoring clean ivory at sides and smooth continuous egg shells. Do NOT turn Aphan into humanoid robot. Keep both eggs, all central white branching core/black connections/glass plates/copper teeth, raised shell, chains/counterweights and rear segmented mast exactly. The lower-right isolated JOINT detail may remain as remote hardware; change its label to Remote joint. It must retain EXACTLY SIX pits arranged two rows of3. No wall/room/bridge or floor drawn. Preserve thick matte oil, exact name/title, ivory, labels and unclipped single machine identity.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-4e9d4a39-ce3b-4051-b4f0-f09e9a11ba94.png",
+                "sha256": "fbfa552ca402692423507d9927c830a609ef9fd2cb3c3459fc4475a1983858c4",
+                "inspected": true,
+                "role": "Actual candidate; narrow source/lighting/background correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:43:33.053177+00:00",
+            "preflight": "Actual candidates inspected. Pale scar, source NIGHT illumination and remote vs attached machine arms checked against full prose; count6pits correct. Ivory separated from figure illumination.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-6efbbffd-127d-4058-aa49-7652c04089a7.png",
+            "candidateSha256": "9edb99e033fa5561aa66524d4a22dcf1117792681f42a17cf5149732f189e7ac",
+            "completedAt": "2026-09-24T06:57:26.784525+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: main egg body no longer has invented attached arms; remote joint detail remains with exactly6 pits in two rows3.",
+              "Open/Closed machine preserves immense egg shell, white branching column/silver seam, black connections, glass array, copper teeth and mast; one non-humanoid artificial identity, no setting/avatar, matte oils and readable headings on ivory."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "9edb99e033fa5561aa66524d4a22dcf1117792681f42a17cf5149732f189e7ac"
+    }
+  ]
+}

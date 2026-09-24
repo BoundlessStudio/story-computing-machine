@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "slug": "seraph-infinite-gear",
+  "title": "The Seraph of the Infinite Gear",
+  "source": "stories/seraph-infinite-gear/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete final prose/prompt/review read. Seraph living winged custodian and Sovekh ceremonial singer are the two physically present sustained principals; townspeople/officials are distant collective.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Astronomers, rulers, travelers, children, passers-by, singer's dead teacher",
+      "reason": "Distant collective, passing glimpses or backstory only."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "aurevra",
+      "name": "Aurevra",
+      "role": "Art-only personal name for the Seraph of the Infinite Gear, living custodian whose memory wheel was violated.",
+      "form": "Living adult winged woman with living gold machinery",
+      "selectionEvidence": [
+        {
+          "quote": "black curls falling against the gold at her shoulder",
+          "explanation": "Explicit hair and bodily machine materials."
+        },
+        {
+          "quote": "Her ivory dress clung to her back.",
+          "explanation": "Source clothing and physical wear after turning."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "Dark hands, black curls, ivory feathered wings interwoven with shafts, living gold along tendons; palm-size recollection wheel at left wing root. Gold machinery heals and remains living, not autonomous dead artefact.",
+        "clothing": "Ivory dress; original supports restrained gold trim/filigree.",
+        "equipment": [
+          "Memory wheel at anatomical left wing root"
+        ],
+        "scale": "Humanlike body with expansive two wings; avoid scenery-scale final gear."
+      },
+      "explicitCanon": [
+        "Distinct from Goddess of Time; no universal temporal jurisdiction inferred.",
+        "Final sheath preserves inward memory coil while outer winding teeth broken/sealed. No restoration of erased memories.",
+        "Source remains non-canon; no art name entered into universe."
+      ],
+      "visualInterpretation": [
+        "Aurevra chosen solely for art under explicit user instruction to name missing identities. No historical personal name exists in current source; search universe/NAMES/story/spec records found no Aurevra reuse.",
+        "Original/cover guide adult dark brown facial structure, abundant black curls, ivory/gold flowing dress and two feathery living gold wings. Simplify ornament for clear oil anatomy."
+      ],
+      "states": [
+        {
+          "name": "Before sealing",
+          "description": "Main full views, small toothed recollection wheel at left wing root beneath low feathers."
+        },
+        {
+          "name": "Sealed",
+          "description": "Small separate shoulder/wing-root detail shows smooth living gold sheath; no exposed outer drive teeth."
+        }
+      ],
+      "lighting": "Source opening false dawn reflects rose on ivory feathers and muted copper on shafts; broad rose morning-facing masses with quiet mauve brown shadows, subordinate local warmth from living veins.",
+      "naming": {
+        "type": "new-art-only",
+        "sourceRole": "The Seraph of the Infinite Gear",
+        "assignedName": "Aurevra",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "scope": "Art-only; no source/canon edit."
+      },
+      "status": "completed",
+      "output": "stories/seraph-infinite-gear/art/characters/aurevra.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Aurevra\". Exact story subtitle \"The Seraph of the Infinite Gear\". One living adult dark-brown-skinned woman based on third original/fourth cover: rich deep brown skin, broad cheek planes, full lips, abundant shoulder-length BLACK CURLS, dark calm eyes. Source black curls/dark hands/IVORY DRESS, ivory feathered TWO wings with gold shafts/rotating living gear ribs and gold growing along hand tendons. Preserve compatible original face, body, airy ivory long dress with simplified organic gold trim; no metal bikini, no mirror gloss. Layout accommodate wing anatomy: two modestly spread/folded complete front and rear-three-quarter standing views, all wing tips and dress hems contained inside margins, never extra wings. No giant gear, celestial rings, halo or architecture; those are locations. One portrait and one clear small anatomical LEFT WING ROOT inset with two labelled states \"Before sealing\" (small palm-size living-gold toothed recollection wheel under low feathers) and \"Sealed\" (same location and smooth gold sheath hides the teeth, inward coil not exposed). States are this same person, not two identities. Paint simplified machinery readable, not microscopic clock wallpaper. First two images oil/style; third/fourth identity only; fifth painting motivates false DAWN ROSE light on ivory feathers and muted copper shafts with quiet mauve-brown connected skin shadows. No fireworks, bright gold rim, starbursts, glitter or generalized backlight. Living dignified person with boundary-setting resolute expression.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+            "sha256": "0001135f753d9a21c12f97f03109f07ed066e4843768ab91647f7863e3a7fbed",
+            "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/title-image.jpg",
+            "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+            "inspected": true,
+            "sha256": "d03b51dff0951b32161e05631b29efe7714f3783f26e6e9c9abc1d82a85a5d8a"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/art/landscapes/01-a-made-morning.png",
+            "role": "Story-specific painted light and colour motivation only. No scenery.",
+            "inspected": true,
+            "sha256": "149599820a931337b3277ce5c14ee980711767fc902b297aa6b8fe9bbc5d57e4"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Aurevra\". Exact story subtitle \"The Seraph of the Infinite Gear\". One living adult dark-brown-skinned woman based on third original/fourth cover: rich deep brown skin, broad cheek planes, full lips, abundant shoulder-length BLACK CURLS, dark calm eyes. Source black curls/dark hands/IVORY DRESS, ivory feathered TWO wings with gold shafts/rotating living gear ribs and gold growing along hand tendons. Preserve compatible original face, body, airy ivory long dress with simplified organic gold trim; no metal bikini, no mirror gloss. Layout accommodate wing anatomy: two modestly spread/folded complete front and rear-three-quarter standing views, all wing tips and dress hems contained inside margins, never extra wings. No giant gear, celestial rings, halo or architecture; those are locations. One portrait and one clear small anatomical LEFT WING ROOT inset with two labelled states \"Before sealing\" (small palm-size living-gold toothed recollection wheel under low feathers) and \"Sealed\" (same location and smooth gold sheath hides the teeth, inward coil not exposed). States are this same person, not two identities. Paint simplified machinery readable, not microscopic clock wallpaper. First two images oil/style; third/fourth identity only; fifth painting motivates false DAWN ROSE light on ivory feathers and muted copper shafts with quiet mauve-brown connected skin shadows. No fireworks, bright gold rim, starbursts, glitter or generalized backlight. Living dignified person with boundary-setting resolute expression.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+                "sha256": "0001135f753d9a21c12f97f03109f07ed066e4843768ab91647f7863e3a7fbed",
+                "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/title-image.jpg",
+                "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+                "inspected": true,
+                "sha256": "d03b51dff0951b32161e05631b29efe7714f3783f26e6e9c9abc1d82a85a5d8a"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/art/landscapes/01-a-made-morning.png",
+                "role": "Story-specific painted light and colour motivation only. No scenery.",
+                "inspected": true,
+                "sha256": "149599820a931337b3277ce5c14ee980711767fc902b297aa6b8fe9bbc5d57e4"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references.",
+            "startedAt": "2026-09-24T04:24:31.510777+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-5b6c87f1-4b00-4850-b76e-0240d73cb83f.png",
+            "outputSha256": "2c1720da41c1163a6ec9f6d09b32c87113f7fd3fbf2741d19c7f060405e26b1a",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:32:54.070078+00:00",
+            "generatorReview": "Actual saved candidate inspected: same adult dark brown face/curls in all views, two complete ivory-feather/gold-machine wings, source ivory dress and dark hands preserved with original-compatible identity. Left wing root before/sealed detail distinguishes exposed wheel from smooth sheath without importing lost memory recovery. Warm dawn copper/rose planes and connected mauve feather shadows; no location or swatches. Exact art-only Aurevra name and story title readable, complete margins and ordinary hand anatomy."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references."
+      },
+      "outputSha256": "2c1720da41c1163a6ec9f6d09b32c87113f7fd3fbf2741d19c7f060405e26b1a",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:32:54.070078+00:00",
+        "sourceSha256": "785a22bd034b72b7c14410802190248f789e3b30436a7ef14faf63a148848b5f",
+        "outputSha256": "2c1720da41c1163a6ec9f6d09b32c87113f7fd3fbf2741d19c7f060405e26b1a",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+            "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+            "inspected": true,
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+            "sha256": "0001135f753d9a21c12f97f03109f07ed066e4843768ab91647f7863e3a7fbed",
+            "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/title-image.jpg",
+            "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+            "inspected": true,
+            "sha256": "d03b51dff0951b32161e05631b29efe7714f3783f26e6e9c9abc1d82a85a5d8a"
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/art/landscapes/01-a-made-morning.png",
+            "role": "Story-specific painted light and colour motivation only. No scenery.",
+            "inspected": true,
+            "sha256": "149599820a931337b3277ce5c14ee980711767fc902b297aa6b8fe9bbc5d57e4"
+          }
+        ],
+        "evidence": "Actual saved candidate inspected: same adult dark brown face/curls in all views, two complete ivory-feather/gold-machine wings, source ivory dress and dark hands preserved with original-compatible identity. Left wing root before/sealed detail distinguishes exposed wheel from smooth sheath without importing lost memory recovery. Warm dawn copper/rose planes and connected mauve feather shadows; no location or swatches. Exact art-only Aurevra name and story title readable, complete margins and ordinary hand anatomy.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "f80d81e46839219011d8cedb256231b47fcc7d3ddf71d61474cc5398bdd97acc"
+      }
+    },
+    {
+      "id": "sovekh",
+      "name": "Sovekh",
+      "role": "Adult ceremonial singer who secretly rewound the Seraph's memory and is finally returned to ground.",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "A broad man, grown well into adulthood, with a singer's lifted chest and an embroidered collar that had chafed his neck raw.",
+          "explanation": "Explicit build, adulthood, posture and clothing."
+        }
+      ],
+      "storyAppearance": {
+        "anatomy": "Broad adult man, singer's lifted chest, mild raw chafe at neck; no magical powers.",
+        "clothing": "Embroidered collar, sleeve stained with apricot syrup, one shoe fastening lost.",
+        "equipment": [
+          "Plain short bronze bar, tool used on gears"
+        ],
+        "scale": "Ordinary human proportions; not a priest/warrior with magic."
+      },
+      "explicitCanon": [
+        "Distinct identity from Sovet in Leave the Names; no shared appearance or supernatural power.",
+        "Source does not specify skin/hair/precise age; selected appearance is art interpretation."
+      ],
+      "visualInterpretation": [
+        "Broad stocky man in his forties, warm olive skin, receding short dark brown curls and close full beard, deep-set hazel eyes, soft square jaw. Ochre tunic with muted red/gold embroidered collar, brown trousers and worn low leather shoes."
+      ],
+      "states": [
+        {
+          "name": "False dawn",
+          "description": "Cold tired singer, chafed collar, stained cuff and one loose shoe fastening."
+        }
+      ],
+      "lighting": "Same early false dawn as Seraph: restrained rose-facing planes and cool brown-mauve shadow; not ignition's brief all-white flash.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Sovekh"
+      },
+      "status": "completed",
+      "output": "stories/seraph-infinite-gear/art/characters/sovekh.png",
+      "generation": {
+        "prompt": "Use case: precise-object-edit. One local change ONLY: replace the bronze bar object study at lower right of Sovekh sheet with a SLIM SHORT BRONZE LEVER / PRY BAR, about forearm length, narrow rectangular rod with a flattened gently tapered narrow tip, visibly useful for reaching between feathers to small wheel teeth. It is an ordinary handheld bronze tool, NOT a thick ingot or gold brick, no magical glyphs. Keep existing text \"Bronze bar (everyday tool)\" and all other labels. Preserve EVERYTHING else: same two full bodies, face/beard/curls, ochre embroidered tunic, stained cuff, shoefastening, pose, body proportions, paint texture, skin/costume colours, ivory background and exact typography. Do not change character or layout.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b595a3fb-a313-473e-b2a0-c99da5933570.png",
+            "sha256": "37cc2c441abacf81a4562eee82b7a5f7e428ddbeb014502a4a1b421e30470037",
+            "inspected": true,
+            "role": "Immutable inspected actual candidate; targeted correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading \"Sovekh\", exact subtitle \"The Seraph of the Infinite Gear\". One ordinary mature adult HUMAN MAN, forty-something, BROAD stocky body and lifted singer chest. Art interpretation: warm olive complexion, broad soft square jaw, deep-set hazel eyes, short receding dark-brown curls, close full dark beard with a few grey hairs; grounded tired face, not handsome teenage prince. Worn ochre long-sleeved tunic with small muted red/gold EMBROIDERED COLLAR that lightly chafes neck, brown trousers and low leather shoes, one fastening missing from one shoe consistently. Dark apricot syrup stain near ONE cuff. Front full view with open singing breath posture and empty relaxed hands, rear three-quarter full view same outfit, one head/throat study showing mild chafe without gore; small plain short BRONZE BAR object-study placed alone on ivory as his physical tool. No wings, gold body gears, memory magic, instrument or divine regalia. First two refs give broad oil/layout; third/fourth supply setting material accents only, DO NOT borrow Seraph face/gender/wings/costume; fifth false dawn landscape motivates restrained rose-facing skin planes and cool mauve-brown connected shadows. No white ignition flash, glam rimlight or panorama.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary Group of Seven connected opaque oil mass and directional brush reference only.",
+                "notes": "Broad interlocking planes and selective impasto; no landscape or daylight inheritance.",
+                "inspected": true,
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+                "sha256": "0001135f753d9a21c12f97f03109f07ed066e4843768ab91647f7863e3a7fbed",
+                "role": "Original user image: compatible identity and costume content only; source prose takes precedence, no rendering/scenery inheritance.",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/title-image.jpg",
+                "role": "Same-story cover identity details only; no typography, rendering or scenery transfer.",
+                "inspected": true,
+                "sha256": "d03b51dff0951b32161e05631b29efe7714f3783f26e6e9c9abc1d82a85a5d8a"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/seraph-infinite-gear/art/landscapes/01-a-made-morning.png",
+                "role": "Story-specific painted light and colour motivation only. No scenery.",
+                "inspected": true,
+                "sha256": "149599820a931337b3277ce5c14ee980711767fc902b297aa6b8fe9bbc5d57e4"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references.",
+            "startedAt": "2026-09-24T04:24:31.510796+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b595a3fb-a313-473e-b2a0-c99da5933570.png",
+            "outputSha256": "37cc2c441abacf81a4562eee82b7a5f7e428ddbeb014502a4a1b421e30470037",
+            "generatorReview": "Bronze object looks like a broad ingot, but source bar has a narrow end for reaching through feathers."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T04:32:52.956489+00:00",
+            "prompt": "Use case: precise-object-edit. One local change ONLY: replace the bronze bar object study at lower right of Sovekh sheet with a SLIM SHORT BRONZE LEVER / PRY BAR, about forearm length, narrow rectangular rod with a flattened gently tapered narrow tip, visibly useful for reaching between feathers to small wheel teeth. It is an ordinary handheld bronze tool, NOT a thick ingot or gold brick, no magical glyphs. Keep existing text \"Bronze bar (everyday tool)\" and all other labels. Preserve EVERYTHING else: same two full bodies, face/beard/curls, ochre embroidered tunic, stained cuff, shoefastening, pose, body proportions, paint texture, skin/costume colours, ivory background and exact typography. Do not change character or layout.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b595a3fb-a313-473e-b2a0-c99da5933570.png",
+                "sha256": "37cc2c441abacf81a4562eee82b7a5f7e428ddbeb014502a4a1b421e30470037",
+                "inspected": true,
+                "role": "Immutable inspected actual candidate; targeted correction only."
+              }
+            ],
+            "reason": "Bronze object looks like a broad ingot, but source bar has a narrow end for reaching through feathers.",
+            "preflight": "Candidate actual pixels compared with source; local correction feasible without changing identity or states.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-0917de94-a3ca-46de-812e-8fff3a5fdbc0.png",
+            "outputSha256": "e2cb14e558360e09e9a98dd2c834e1286b597670e90d5c0c5c1589c985436140",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T04:39:05.822235+00:00",
+            "generatorReview": "Actual corrected candidate inspected: bronze tool now narrow forearm-length lever with slim flattened end, source-feasible for feathers/gear. Broad mature human man, lifted chest, collar chafe, syrup cuff, loose fastening and same face/body across views. No divine traits borrowed from Seraph, no scene/furniture/swatches. Warm false-dawn rose flesh/ochre planes and quiet brown shadows in opaque oil. Exact name/title and unclipped poses."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full prose/prompt/review and relevant authority read; original and cover plus story-light painting actual pixels inspected. One-identity anatomy, complete margins, exact headings, readable mechanism/counts, source-specific light and states checked before call; <=5 useful references."
+      },
+      "outputSha256": "e2cb14e558360e09e9a98dd2c834e1286b597670e90d5c0c5c1589c985436140",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:39:05.822235+00:00",
+        "sourceSha256": "785a22bd034b72b7c14410802190248f789e3b30436a7ef14faf63a148848b5f",
+        "outputSha256": "e2cb14e558360e09e9a98dd2c834e1286b597670e90d5c0c5c1589c985436140",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-b595a3fb-a313-473e-b2a0-c99da5933570.png",
+            "sha256": "37cc2c441abacf81a4562eee82b7a5f7e428ddbeb014502a4a1b421e30470037",
+            "inspected": true,
+            "role": "Immutable inspected actual candidate; targeted correction only."
+          }
+        ],
+        "evidence": "Actual corrected candidate inspected: bronze tool now narrow forearm-length lever with slim flattened end, source-feasible for feathers/gear. Broad mature human man, lifted chest, collar chafe, syrup cuff, loose fastening and same face/body across views. No divine traits borrowed from Seraph, no scene/furniture/swatches. Warm false-dawn rose flesh/ochre planes and quiet brown shadows in opaque oil. Exact name/title and unclipped poses.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "28c41aaffd6e00d21e6beaa1068e61fbaf128bff29d3145a4791694dedda81fe"
+      }
+    }
+  ],
+  "sourceSha256": "785a22bd034b72b7c14410802190248f789e3b30436a7ef14faf63a148848b5f",
+  "referenceInventory": [
+    {
+      "displayName": "codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-450f93e1-2116-4f5a-bacb-f562431ee5a6.png",
+      "sha256": "0001135f753d9a21c12f97f03109f07ed066e4843768ab91647f7863e3a7fbed",
+      "inspected": true,
+      "status": "recovered-and-inspected",
+      "role": "Original user image, compatible identities/wardrobe; source prose controls physical states and paint references control rendering.",
+      "recovery": {
+        "sourceSession": "C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-13T19-45-39-01a09d29-869b-72b3-a4f4-db1735850987.jsonl",
+        "sourceSessionSha256": "5da164a00d1f189a9016dd6b4579cb5a9848e7d4e4614decd4dc1bd44008987c",
+        "line": 9
+      }
+    }
+  ]
+}

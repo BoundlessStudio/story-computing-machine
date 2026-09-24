@@ -1,0 +1,572 @@
+{
+  "slug": "a-place-for-sunday",
+  "title": "A Place for Sunday",
+  "source": "stories/a-place-for-sunday/story.md",
+  "canon": false,
+  "mainCastEvidence": "Complete finished prose read through line353. Ilario is emotional viewpoint; his father Cosimo drives relocation/reunion, granddaughter Nerina participates throughout and closes final exchange. Background movers are unnamed incidental helpers, not independent protagonists.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Village movers and neighbours",
+      "reason": "Incidental collective action and brief background dialogue; no sustained individual role."
+    },
+    {
+      "name": "Baker, dressmaker and relatives",
+      "reason": "Mentioned or brief greeting only."
+    },
+    {
+      "name": "Hens and owl",
+      "reason": "Ordinary animals incidental to memories/current atmosphere."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: sole shared authority/order",
+    "universe/premise.md: Memory, myth, and recoverable truth; ordinary lives need not advertise cosmology",
+    "universe/characters.md and rules.md searched; no exact cast identity entry",
+    "stories/NAMES.md and current/bundle prose/reviews exact-name checks; only this story matches"
+  ],
+  "characters": [
+    {
+      "id": "ilario",
+      "name": "Ilario",
+      "role": "Adult viewpoint protagonist, Cosimo's son and Nerina's father",
+      "selectionEvidence": [
+        {
+          "line": 11,
+          "quote": "Ilario was shaking the crumbs from the bread bag when he smelled his father's garden.",
+          "explanation": "Viewpoint framing of reunion."
+        },
+        {
+          "line": 175,
+          "quote": "Ilario unwrapped the apron, put it on",
+          "explanation": "Current cooking outfit state."
+        },
+        {
+          "line": 339,
+          "quote": "tucked back the dark hair",
+          "explanation": "Explicit hair colour and closing relational action."
+        }
+      ],
+      "form": "Human adult man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human with no magical body traits.",
+        "markings": "No body markings specified.",
+        "materials": "Ordinary skin, hair and cloth.",
+        "scale": "Ordinary human.",
+        "lifeStage": "Adult father of a six-year-old; left home at19, exact current age unspecified.",
+        "proportions": "Ordinary adult; foreground cover lean medium build.",
+        "clothing": "Shoes removed at initial reunion, then worn; apron while cooking. Cover compatible cream rolled-sleeve shirt, dark vest, brown trousers/boots.",
+        "equipment": "Kitchen apron; ordinary bread knife briefly handled, omit as non-defining.",
+        "movement": "Holds father closely, prepares food, distracted affectionate posture.",
+        "distinctiveFeatures": "Dark hair; family resemblance to father chosen art interpretation."
+      },
+      "explicitCanon": [
+        "Story-local dark hair, adult father, initially barefoot, later shoes; wears apron cooking.",
+        "No precise current age/skin or face description."
+      ],
+      "visualInterpretation": [
+        "Late30s appearance, olive-tan complexion, slim face, dark hair loosely tied at nape as cover; faint stubble and long nose restrained choices.",
+        "Use cover cream shirt/dark vest/brown trousers and boots; separate blue-striped linen cooking apron view from inspected interior. Morning broad warm light and violet-grey shadow."
+      ],
+      "states": [
+        {
+          "label": "Sunday clothes",
+          "description": "Main full-body front/side/back."
+        },
+        {
+          "label": "Cooking",
+          "description": "Apron over same clothes, upper-body detail."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-place-for-sunday/title-image.jpg",
+          "role": "Ilario and Nerina compatible rear-view identity only; moving men not identified as Cosimo",
+          "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2",
+          "inspected": true,
+          "notes": "Foreground dark-haired man cream shirt/dark vest/brown trousers and girl brown hair pale ribbon lavender dress/boots; rendered source cover subordinate to oil treatment."
+        },
+        {
+          "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+          "role": "morning light, oil palette and apron material only; no location transfer",
+          "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339",
+          "inspected": true,
+          "notes": "Warm morning light with violet-grey connected shade; blue-striped linen apron; no characters."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-place-for-sunday:ilario",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-place-for-sunday/art/characters/ilario.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "One 1536×1024 landscape character reference folio on quiet warm ivory. Exact heading “Ilario”, subtitle “A Place for Sunday”. ONE identity, ordinary adult father and bookbinder, late30s appearance.\n\nPreserve compatible foreground father's silhouette from cover image3: dark hair loosely tied at nape, rolled cream shirt sleeves, dark waistcoat, brown work trousers, worn brown boots. Lean medium build, olive-tan skin, slim thoughtful face, long nose, faint stubble. Main three fully unclipped views: front three-quarter, side, rear. Small warm, slightly overwhelmed head portrait; small waist-up cooking state wearing the blue-striped linen apron from image2 over the same clothing. Kitchen apron only, no kitchen scene. An ordinary man's quiet affectionate gestures, no weapons, books, magical effects or unnecessary accessories.\n\nInput1 Kelro is the primary approved broad OIL handling reference and folio presentation, NOT his face, hair, age, clothing or props. Image2 guides warm natural morning light, violet-grey connected shadows and linen apron only, no location. Image3 identifies Ilario as the man holding the girl's hand in FOREGROUND ONLY: do not transfer the lifting men, child or scene; its anime/line style must be discarded.\n\nCanadian Group of Seven-inspired OIL: interlocking LARGE painted colour/value masses, decisive varied bristle strokes, selective substantial impasto, quiet connecting passages. Face, nose, eyes and hands constructed as strongly painted as clothes. Matte small pupils, no photoreal/CGI smoothness, no outlines, no tiny uniform gold chips. Warm morning light strikes selected upper-left planes, restrained cool shadow maintains form; no cinematic rim/glowing edges.\n\nExact name/title readable top-left; labels “Front”, “Side”, “Back”, “Reunion”, “Cooking”. Relaxed five-finger hands. One character in useful views and no secondary person. NO scenery/location vignette/floor/ground patch/cast-shadow platform. NO swatches/palette strips or decorative prose. Generous unclipped spacing.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:52:19.5696004Z",
+            "status": "PASS",
+            "prompt": "One 1536×1024 landscape character reference folio on quiet warm ivory. Exact heading “Ilario”, subtitle “A Place for Sunday”. ONE identity, ordinary adult father and bookbinder, late30s appearance.\n\nPreserve compatible foreground father's silhouette from cover image3: dark hair loosely tied at nape, rolled cream shirt sleeves, dark waistcoat, brown work trousers, worn brown boots. Lean medium build, olive-tan skin, slim thoughtful face, long nose, faint stubble. Main three fully unclipped views: front three-quarter, side, rear. Small warm, slightly overwhelmed head portrait; small waist-up cooking state wearing the blue-striped linen apron from image2 over the same clothing. Kitchen apron only, no kitchen scene. An ordinary man's quiet affectionate gestures, no weapons, books, magical effects or unnecessary accessories.\n\nInput1 Kelro is the primary approved broad OIL handling reference and folio presentation, NOT his face, hair, age, clothing or props. Image2 guides warm natural morning light, violet-grey connected shadows and linen apron only, no location. Image3 identifies Ilario as the man holding the girl's hand in FOREGROUND ONLY: do not transfer the lifting men, child or scene; its anime/line style must be discarded.\n\nCanadian Group of Seven-inspired OIL: interlocking LARGE painted colour/value masses, decisive varied bristle strokes, selective substantial impasto, quiet connecting passages. Face, nose, eyes and hands constructed as strongly painted as clothes. Matte small pupils, no photoreal/CGI smoothness, no outlines, no tiny uniform gold chips. Warm morning light strikes selected upper-left planes, restrained cool shadow maintains form; no cinematic rim/glowing edges.\n\nExact name/title readable top-left; labels “Front”, “Side”, “Back”, “Reunion”, “Cooking”. Relaxed five-finger hands. One character in useful views and no secondary person. NO scenery/location vignette/floor/ground patch/cast-shadow platform. NO swatches/palette strips or decorative prose. Generous unclipped spacing.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "approved oil style only; not identity",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+                "role": "morning light/palette and apron material only; exclude geography",
+                "inspected": true,
+                "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+              },
+              {
+                "path": "stories/a-place-for-sunday/title-image.jpg",
+                "role": "foreground father compatible silhouette/wardrobe only; ignore source cover style",
+                "inspected": true,
+                "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-62293c9d-5eb9-4859-bb15-450188da98c1.png",
+            "returnedSha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10",
+            "completedAt": "2026-09-23T17:55:07.478009-04:00",
+            "review": [
+              "Actual pixels inspected: consistent adult Ilario across three unclipped views; source dark hair and compatible cover nape-tied hair/cream shirt/dark vest/brown trousers preserved.",
+              "Cooking apron source-supported, shows only character/equipment; exact name/title and labels legible, no environment or swatches.",
+              "Face and hands retain broad painted planes, matte eyes and appropriate warm morning light; human limb/digit anatomy coherent."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "approved oil style only; not identity",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+            "role": "morning light/palette and apron material only; exclude geography",
+            "inspected": true,
+            "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+          },
+          {
+            "path": "stories/a-place-for-sunday/title-image.jpg",
+            "role": "foreground father compatible silhouette/wardrobe only; ignore source cover style",
+            "inspected": true,
+            "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T17:55:07.480014-04:00",
+        "sourceSha256": "bb3c87a15e2a00fea7bc34d1162456580751f8a0229cf20c4817a66d6893b1d4",
+        "outputSha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10",
+        "references": [
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "approved oil style only; not identity",
+            "inspected": true,
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+            "role": "morning light/palette and apron material only; exclude geography",
+            "inspected": true,
+            "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+          },
+          {
+            "path": "stories/a-place-for-sunday/title-image.jpg",
+            "role": "foreground father compatible silhouette/wardrobe only; ignore source cover style",
+            "inspected": true,
+            "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent adult Ilario across three unclipped views; source dark hair and compatible cover nape-tied hair/cream shirt/dark vest/brown trousers preserved.",
+          "Cooking apron source-supported, shows only character/equipment; exact name/title and labels legible, no environment or swatches.",
+          "Face and hands retain broad painted planes, matte eyes and appropriate warm morning light; human limb/digit anatomy coherent."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "a7aae3d041608542c06c5985c3535f64f782b77a2eed80845c9e6047179ddbf2"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+    },
+    {
+      "id": "nerina",
+      "name": "Nerina",
+      "role": "Six-year-old daughter/granddaughter, substantial supporting character",
+      "selectionEvidence": [
+        {
+          "line": 25,
+          "quote": "At six, she could sustain a great many activities",
+          "explanation": "Explicit life stage and active personality."
+        },
+        {
+          "line": 63,
+          "quote": "her lavender dress, a pale ribbon tied round her brown hair in a lopsided bow",
+          "explanation": "Exact primary visual identity."
+        },
+        {
+          "line": 353,
+          "quote": "showing the gap where her tooth had been",
+          "explanation": "Visible distinguishing feature in final laugh."
+        }
+      ],
+      "form": "Human child girl",
+      "storyAppearance": {
+        "anatomy": "Ordinary human with no magical body traits.",
+        "markings": "No body markings specified.",
+        "materials": "Ordinary skin, hair and cloth.",
+        "scale": "Ordinary human.",
+        "lifeStage": "Six years old.",
+        "proportions": "Six-year-old; knees stick out of nearly everything she owns; no adult proportions.",
+        "clothing": "Lavender dress, pale lopsided hair ribbon, lace-up boots; cover cream sleeves/lavender skirt compatible.",
+        "equipment": "Own boots with laces she can tie; no magical props.",
+        "movement": "Energetic running, swinging, crouching, laughter and trying to whistle.",
+        "distinctiveFeatures": "Brown hair, pale lopsided bow, missing tooth gap."
+      },
+      "explicitCanon": [
+        "Story-local six, brown hair, lavender dress, pale lopsided ribbon, boots and tooth gap.",
+        "No skin/eye colour or exact haircut given; source cover long wavy brown hair compatible."
+      ],
+      "visualInterpretation": [
+        "Warm olive-tan complexion; long wavy brown hair half tied with pale ribbon and same cover lavender dress/cream sleeves, simplified floral hem.",
+        "Child nose/brow echoes Ilario; no adult glamour. Small laughing and whistling head details, boot-and-lace detail only."
+      ],
+      "states": [
+        {
+          "label": "Sunday",
+          "description": "Main clothed child views."
+        },
+        {
+          "label": "Laughing",
+          "description": "Head tipped back slightly, visible single missing tooth gap."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-place-for-sunday/title-image.jpg",
+          "role": "Ilario and Nerina compatible rear-view identity only; moving men not identified as Cosimo",
+          "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2",
+          "inspected": true,
+          "notes": "Foreground dark-haired man cream shirt/dark vest/brown trousers and girl brown hair pale ribbon lavender dress/boots; rendered source cover subordinate to oil treatment."
+        },
+        {
+          "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+          "role": "morning light, oil palette and apron material only; no location transfer",
+          "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339",
+          "inspected": true,
+          "notes": "Warm morning light with violet-grey connected shade; blue-striped linen apron; no characters."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-place-for-sunday:nerina",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-place-for-sunday/art/characters/nerina.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct the supplied Nerina reference sheet (input1) in TWO specific respects only, preserving her exact child identity, poses, all views/details, proportions, lavender dress, ribbon, tooth gap, brown hair, boots and layout.\n\n1. Replace the ENTIRE smoky dark gradient background with solid quiet WARM IVORY paper, colour like input2. Absolutely no dark vignette, studio gradient, fog, shadow floor or scene. Repaint readable dark-brown text: exact upper-left large heading “Nerina”; subtitle “A Place for Sunday”; retain current concise view labels, positions and spelling. Every letter must have clear contrast on ivory.\n2. Make the character herself consistent with input2's substantial broad OIL handling: coalesce her face, hair, skin and clothing into larger connected colour/value planes with visible broad bristle strokes and selective impasto. Reduce glossy nose/eye glints and smooth facial shading. Skin still tender child skin but described by paint masses like the clothes. Preserve her SIX-year-old face, natural proportions and expressions, no adult glamour. Matte eyes, no anime outline or smooth CGI. Keep the warm morning subject illumination, connected subdued violet-grey shadows, no added rimlight.\n\nInput2 Ilario supplies ONLY painted surface construction and quiet ivory folio ground; transfer none of his male identity or clothes. Do not change composition or add content. NO scenery, location, floor/ground patch, paint swatches, palette strips, decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:55:08.4800373Z",
+            "status": "REVISE",
+            "prompt": "One 1536×1024 landscape character-only folio, quiet warm ivory, exact name “Nerina” and exact title “A Place for Sunday” upper left.\n\nNerina is a SIX-YEAR-OLD girl, ordinary human and Ilario's daughter. Brown wavy hair to shoulderblades, half tied with a PALE LOPSIDED RIBBON BOW. Lavender dress with cream short puff sleeves and modest simplified floral hem, practical dark brown lace-up boots; follow compatible daughter wardrobe in foreground of cover input3. Warm olive-tan skin, round young child's cheeks, curious brown eyes with matte paint; genuine SIX-year-old proportions (larger head, shorter limbs than adult), never teenage/anime model. One missing tooth gap evident in small laughing head portrait. Three unclipped full-body views: front with relaxed hands by skirt, side with a little inquisitive hand gesture, rear showing lopsided bow. Main boots worn; keep hand anatomy ordinary five digits. Two useful head studies: laughing with tooth gap, concentrated trying-to-whistle pursed lips. One isolated boot-lace close detail optional if space.\n\nInput1 Ilario is primary approved collection OIL and family resemblance guide ONLY: no adult male build or clothing transfer. Her rounded child nose/brow can echo his. Input2 kitchen gives warm natural morning light and muted violet-grey shade only, exclude setting. Input3 foreground little girl gives hair/ribbon/dress/boots identity; ignore anime contour/rendering, father, lifters, house and geography.\n\nStyle: Canadian Group of Seven-inspired heavy OIL built from large connected colour/value masses. Broad directional bristle and selective substantial impasto over dress, hair, child cheeks, eyes and hands; no polished facial island. Leave quiet connecting passages. Soft warm morning light on selected planes, broad gentle cool shadows. No glowing rim, glossy eyes, uniform bevelled gold flakes, plastic 3D or fine outline drawing.\n\nConcise labels “Front”, “Side”, “Back”, “Laughing”, “Whistling”, “Laces” only as needed. No decorative prose, swatches/palette bars, scene/location/vignette/floor/terrain or ground patches. All views isolated on ivory.",
+            "references": [
+              {
+                "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+                "role": "reviewed oil style and restrained familial features only, never adult proportions",
+                "inspected": true,
+                "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+              },
+              {
+                "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+                "role": "morning light only; exclude location",
+                "inspected": true,
+                "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+              },
+              {
+                "path": "stories/a-place-for-sunday/title-image.jpg",
+                "role": "foreground girl's compatible hair/ribbon/dress/boots only",
+                "inspected": true,
+                "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ae557ac2-0618-4d6b-b95b-3f0d5c21fd7e.png",
+            "returnedSha256": "df645d9b0b9645e0c82fa0b7e23edd474fe4adbd802ef890bba6a211c02852ae",
+            "review": "Actual pixels: dark gradient contradicts ivory ground, name too dark to read; face/skin smoother than oil house style. Child identity/anatomy/wardrobe otherwise good.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T21:58:56.0552302Z",
+            "status": "PASS",
+            "prompt": "Correct the supplied Nerina reference sheet (input1) in TWO specific respects only, preserving her exact child identity, poses, all views/details, proportions, lavender dress, ribbon, tooth gap, brown hair, boots and layout.\n\n1. Replace the ENTIRE smoky dark gradient background with solid quiet WARM IVORY paper, colour like input2. Absolutely no dark vignette, studio gradient, fog, shadow floor or scene. Repaint readable dark-brown text: exact upper-left large heading “Nerina”; subtitle “A Place for Sunday”; retain current concise view labels, positions and spelling. Every letter must have clear contrast on ivory.\n2. Make the character herself consistent with input2's substantial broad OIL handling: coalesce her face, hair, skin and clothing into larger connected colour/value planes with visible broad bristle strokes and selective impasto. Reduce glossy nose/eye glints and smooth facial shading. Skin still tender child skin but described by paint masses like the clothes. Preserve her SIX-year-old face, natural proportions and expressions, no adult glamour. Matte eyes, no anime outline or smooth CGI. Keep the warm morning subject illumination, connected subdued violet-grey shadows, no added rimlight.\n\nInput2 Ilario supplies ONLY painted surface construction and quiet ivory folio ground; transfer none of his male identity or clothes. Do not change composition or add content. NO scenery, location, floor/ground patch, paint swatches, palette strips, decorative prose.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ae557ac2-0618-4d6b-b95b-3f0d5c21fd7e.png",
+                "role": "immutable edit target; identity/layout retained, ground/type/style correction",
+                "inspected": true,
+                "sha256": "df645d9b0b9645e0c82fa0b7e23edd474fe4adbd802ef890bba6a211c02852ae"
+              },
+              {
+                "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+                "role": "oil mass construction and ivory ground only",
+                "inspected": true,
+                "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-a31949a2-453d-4be2-82d8-e452278fd8e3.png",
+            "returnedSha256": "dd2567001c46c7cdba008c11985a9244413933c98c1bc3dbbeb4fc47406d0b90",
+            "completedAt": "2026-09-23T18:01:45.398988-04:00",
+            "review": [
+              "Actual corrected pixels inspected: clear ivory ground and high-contrast exact Nerina/title, three full unclipped six-year-old views plus expressions/lace detail.",
+              "Brown hair, pale lopsided bow, lavender dress and boots coherent with source and compatible cover; laughing mouth shows tooth gap.",
+              "Painted child skin/hair/dress retained as connected broad masses; no environment/ground/swatch, sound child limb/hand proportions."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ae557ac2-0618-4d6b-b95b-3f0d5c21fd7e.png",
+            "role": "immutable edit target; identity/layout retained, ground/type/style correction",
+            "inspected": true,
+            "sha256": "df645d9b0b9645e0c82fa0b7e23edd474fe4adbd802ef890bba6a211c02852ae"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+            "role": "oil mass construction and ivory ground only",
+            "inspected": true,
+            "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T18:01:45.401169-04:00",
+        "sourceSha256": "bb3c87a15e2a00fea7bc34d1162456580751f8a0229cf20c4817a66d6893b1d4",
+        "outputSha256": "dd2567001c46c7cdba008c11985a9244413933c98c1bc3dbbeb4fc47406d0b90",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-ae557ac2-0618-4d6b-b95b-3f0d5c21fd7e.png",
+            "role": "immutable edit target; identity/layout retained, ground/type/style correction",
+            "inspected": true,
+            "sha256": "df645d9b0b9645e0c82fa0b7e23edd474fe4adbd802ef890bba6a211c02852ae"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+            "role": "oil mass construction and ivory ground only",
+            "inspected": true,
+            "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: clear ivory ground and high-contrast exact Nerina/title, three full unclipped six-year-old views plus expressions/lace detail.",
+          "Brown hair, pale lopsided bow, lavender dress and boots coherent with source and compatible cover; laughing mouth shows tooth gap.",
+          "Painted child skin/hair/dress retained as connected broad masses; no environment/ground/swatch, sound child limb/hand proportions."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "db921e58cf2b5d8e5e336f861d3a112148de68c2f01ab6241f6eff61624a031c"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "dd2567001c46c7cdba008c11985a9244413933c98c1bc3dbbeb4fc47406d0b90"
+    },
+    {
+      "id": "cosimo",
+      "name": "Cosimo",
+      "role": "Elder father/grandfather who arrives with relocated village and hosts brunch",
+      "selectionEvidence": [
+        {
+          "line": 49,
+          "quote": "Cosimo wore the blue shirt with the crooked pocket and carried his hat in one hand.",
+          "explanation": "Primary explicit wardrobe."
+        },
+        {
+          "line": 49,
+          "quote": "His hair had gone almost entirely white",
+          "explanation": "Explicit hair/life stage cue."
+        },
+        {
+          "line": 55,
+          "quote": "The familiar shoulder was bony under the shirt.",
+          "explanation": "Lean build."
+        },
+        {
+          "line": 207,
+          "quote": "showed her a gap of his own at the side",
+          "explanation": "Distinctive dental detail."
+        }
+      ],
+      "form": "Human older man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human with no magical body traits.",
+        "markings": "No body markings specified.",
+        "materials": "Ordinary skin, hair and cloth.",
+        "scale": "Ordinary human.",
+        "lifeStage": "Older father and grandfather; exact age unspecified.",
+        "proportions": "Bony shoulder, lean; effort lifting granddaughter but capable.",
+        "clothing": "Blue shirt with crooked pocket, hat. Other clothes unspecified.",
+        "equipment": "Hat and ordinary cooking spoon; no lifting-magic glow assigned to him.",
+        "movement": "Strong warm embrace, careful lift, cooking/teasing; eyes nearly close with broad smile.",
+        "distinctiveFeatures": "Almost entirely white hair, side tooth gap, crooked shirt pocket."
+      },
+      "explicitCanon": [
+        "Story-local near-white hair, bony shoulder, blue shirt/crooked pocket, hat, side tooth gap.",
+        "No evidence he uses village movers' lifting magic; do not add glowing hands."
+      ],
+      "visualInterpretation": [
+        "Late60s/early70s appearance, olive weathered complexion, long nose echoing Ilario, thin white moustache restrained choice; straw hat, dark brown trousers, worn leather shoes.",
+        "Three full views with hat in one hand/hat worn; smiling head detail with subtle side tooth gap; crooked pocket detail. Broad warm morning light, no setting."
+      ],
+      "states": [
+        {
+          "label": "Sunday",
+          "description": "Blue shirt/hat main state."
+        },
+        {
+          "label": "Laughing",
+          "description": "Eyes nearly shut, side tooth gap visible."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/a-place-for-sunday/title-image.jpg",
+          "role": "Ilario and Nerina compatible rear-view identity only; moving men not identified as Cosimo",
+          "sha256": "92cb5447f97dce4ed4963de7b0eecd16612487a2ee0d73767d3773f51052dee2",
+          "inspected": true,
+          "notes": "Foreground dark-haired man cream shirt/dark vest/brown trousers and girl brown hair pale ribbon lavender dress/boots; rendered source cover subordinate to oil treatment."
+        },
+        {
+          "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+          "role": "morning light, oil palette and apron material only; no location transfer",
+          "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339",
+          "inspected": true,
+          "notes": "Warm morning light with violet-grey connected shade; blue-striped linen apron; no characters."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-place-for-sunday:cosimo",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/a-place-for-sunday/art/characters/cosimo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 1536×1024 landscape character folio on QUIET WARM IVORY. Exact large heading upper left “Cosimo”, story title “A Place for Sunday”.\n\nCosimo is an ordinary older father and grandfather, late60s/early70s interpretation, lean with bony shoulders, almost entirely WHITE hair. Weathered olive complexion, long nose faintly resembling his adult son Ilario in input1, thin white moustache as restrained art choice. Warm attentive face, broad smile that nearly closes his eyes. Wear a faded BLUE SHIRT WITH ONE VISIBLY CROOKED/ASKew BREAST POCKET, dark brown trousers and worn brown leather shoes. Simple natural straw brimmed hat; holds it in one hand in main front view, wears it in side and rear. No glowing hands or magic.\n\nThree unclipped useful full-body views across left/centre (front three-quarter, profile, back). Right two smaller expressive heads: “Listening” and “Laughing”, latter showing a modest missing tooth gap at side of mouth. Lower right cropped shirt detail “Crooked pocket”, distinctly sewn at a slight angle. No other props. Hat must be same across all views, not a tall wizard hat.\n\nInput1 Ilario sets PRIMARY approved heavy OIL construction, ivory presentation and restrained family resemblance only; Cosimo must be much older with white hair and different blue wardrobe. Input2 supplies warm natural morning-light palette with violet-grey connected shadows only, no location/geography.\n\nCanadian Group of Seven-inspired oil painting: build body, weathered face, hands, hat and cloth from LARGE interlocking colour/value masses. Broad varied bristle strokes with substantial selective impasto and quieter passages. Painted facial planes and broad grouped wrinkles, matte eyes. No anime outline, photographic face, smooth CGI skin, uniform gold bevel chips, glossy highlights or cinematic rim. Warm light reveals selected facing planes, shadows remain coherent; ivory ground stays calm and unshaded.\n\nExact concise labels “Front”, “Side”, “Back”, “Listening”, “Laughing”, “Crooked pocket”. Five-finger anatomy, relaxed hands, all silhouettes uncropped. NO scene, setting, furniture, vignette, floor/terrain patch, decorative prose, palette strip or colour swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:01:46.3726310Z",
+            "status": "PASS",
+            "prompt": "Create ONE 1536×1024 landscape character folio on QUIET WARM IVORY. Exact large heading upper left “Cosimo”, story title “A Place for Sunday”.\n\nCosimo is an ordinary older father and grandfather, late60s/early70s interpretation, lean with bony shoulders, almost entirely WHITE hair. Weathered olive complexion, long nose faintly resembling his adult son Ilario in input1, thin white moustache as restrained art choice. Warm attentive face, broad smile that nearly closes his eyes. Wear a faded BLUE SHIRT WITH ONE VISIBLY CROOKED/ASKew BREAST POCKET, dark brown trousers and worn brown leather shoes. Simple natural straw brimmed hat; holds it in one hand in main front view, wears it in side and rear. No glowing hands or magic.\n\nThree unclipped useful full-body views across left/centre (front three-quarter, profile, back). Right two smaller expressive heads: “Listening” and “Laughing”, latter showing a modest missing tooth gap at side of mouth. Lower right cropped shirt detail “Crooked pocket”, distinctly sewn at a slight angle. No other props. Hat must be same across all views, not a tall wizard hat.\n\nInput1 Ilario sets PRIMARY approved heavy OIL construction, ivory presentation and restrained family resemblance only; Cosimo must be much older with white hair and different blue wardrobe. Input2 supplies warm natural morning-light palette with violet-grey connected shadows only, no location/geography.\n\nCanadian Group of Seven-inspired oil painting: build body, weathered face, hands, hat and cloth from LARGE interlocking colour/value masses. Broad varied bristle strokes with substantial selective impasto and quieter passages. Painted facial planes and broad grouped wrinkles, matte eyes. No anime outline, photographic face, smooth CGI skin, uniform gold bevel chips, glossy highlights or cinematic rim. Warm light reveals selected facing planes, shadows remain coherent; ivory ground stays calm and unshaded.\n\nExact concise labels “Front”, “Side”, “Back”, “Listening”, “Laughing”, “Crooked pocket”. Five-finger anatomy, relaxed hands, all silhouettes uncropped. NO scene, setting, furniture, vignette, floor/terrain patch, decorative prose, palette strip or colour swatches.",
+            "references": [
+              {
+                "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+                "role": "approved oil style and limited familial resemblance only; Cosimo older distinct",
+                "inspected": true,
+                "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+              },
+              {
+                "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+                "role": "morning light/palette only, exclude setting",
+                "inspected": true,
+                "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-e8e655b1-1ef6-42de-8641-40ae6204c36c.png",
+            "returnedSha256": "e0c415a4e57360d8583ae513f684f947dc2aeb358adfaff26fc2ccc3d66540bf",
+            "completedAt": "2026-09-23T22:03:34.954241+00:00",
+            "review": [
+              "Actual pixels inspected: three unclipped elderly male views, almost-white hair, lean shoulders, blue shirt and angled breast pocket; hat consistent held/worn.",
+              "Laughing head has eyes near shut and tooth gap; no invented magic assigned. Exact name/story title and useful labels clear.",
+              "Broad oil paint carried through face, hands and clothing, quiet ivory; no scenery/ground patches or swatches."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+            "role": "approved oil style and limited familial resemblance only; Cosimo older distinct",
+            "inspected": true,
+            "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+            "role": "morning light/palette only, exclude setting",
+            "inspected": true,
+            "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-23T22:03:34.956613+00:00",
+        "sourceSha256": "bb3c87a15e2a00fea7bc34d1162456580751f8a0229cf20c4817a66d6893b1d4",
+        "outputSha256": "e0c415a4e57360d8583ae513f684f947dc2aeb358adfaff26fc2ccc3d66540bf",
+        "references": [
+          {
+            "path": "stories/a-place-for-sunday/art/characters/ilario.png",
+            "role": "approved oil style and limited familial resemblance only; Cosimo older distinct",
+            "inspected": true,
+            "sha256": "559b43101aaaefe951d30a049570ad13f4b9c52dd1709ba8a109039895bdac10"
+          },
+          {
+            "path": "stories/a-place-for-sunday/art/interiors/01-cosimos-kitchen.png",
+            "role": "morning light/palette only, exclude setting",
+            "inspected": true,
+            "sha256": "3d5afda733689543d9017703c8d0efa403f7e8e14b13230d347d5e3352b19339"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: three unclipped elderly male views, almost-white hair, lean shoulders, blue shirt and angled breast pocket; hat consistent held/worn.",
+          "Laughing head has eyes near shut and tooth gap; no invented magic assigned. Exact name/story title and useful labels clear.",
+          "Broad oil paint carried through face, hands and clothing, quiet ivory; no scenery/ground patches or swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "d306d0fa5d4d60ee03f376054588150455bc7d2622102532fa27002324996b2f"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "e0c415a4e57360d8583ae513f684f947dc2aeb358adfaff26fc2ccc3d66540bf"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "bb3c87a15e2a00fea7bc34d1162456580751f8a0229cf20c4817a66d6893b1d4",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}

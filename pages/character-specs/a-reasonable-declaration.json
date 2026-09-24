@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-reasonable-declaration",
+  "title": "A Reasonable Declaration",
+  "source": "stories/a-reasonable-declaration/story.md",
+  "sourceSha256": "e308dc32c2d2bf3927997f2e7a3d534cf8a6f1ae244241162014db1c1078532b",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "The full present-time narrative is a two-person assessment and autograph exchange; Barnaby and Fulvia drive every change.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Exit Witness",
+      "reason": "Brief remembered return-token transaction only; not sustained in present action, identity not proven as M. Voss."
+    },
+    {
+      "name": "Chair proprietor, office workers, sister, former sellers and injured companions",
+      "reason": "Incidental recollections or offstage context; no substantial individualized present role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Artifacts, motifs, and folklore",
+    "universe/rules.md#Queen Street living seam and route tokens",
+    "universe/glossary.md#Realms",
+    "universe/glossary.md#Runner",
+    "universe/glossary.md#Exit Witness",
+    "universe/characters.md#M. Voss (not enough evidence to identify this source’s recalled witness)"
+  ],
+  "characters": [
+    {
+      "id": "barnaby-greave",
+      "name": "Barnaby Greave",
+      "role": "Retired adventurer protagonist correcting the artifact assessment",
+      "naming": {
+        "sourceName": "Barnaby Greave",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Barnaby Greave could have carried the sword upstairs.",
+          "line": 11,
+          "explanation": "Named viewpoint protagonist."
+        },
+        {
+          "quote": "Retired adventurer. There's room.",
+          "line": 359,
+          "explanation": "Concludes personal dignity and practical arc."
+        }
+      ],
+      "form": "human adult",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "lifeStage": "Older retired adult; exact age unspecified",
+        "proportions": "Ordinary human proportions",
+        "markings": "Pale bands across bases of fingers, old right-hand rope/bootlace injury inferred from left-hand eating afterward",
+        "materials": "Skin, hair, cloth; ordinary and power-fed personal artifacts",
+        "clothing": "Inside pocket, shirt, socks, boots; worn hooded cloak can be fastened by clasp; ordinary clothes otherwise unspecified",
+        "equipment": "One nicked sword with bootlace-wrapped grip/four aliases; dark worn cloak with shoulder darn and split hip lining; copper circlet green joints; squat clay warming cup chipped yellow rim; lifting buckle and braided strap; repaired spectacles (wire/paste); inert exit-token metal disk; grocery trolley/biscuit tin; envelope/receipt",
+        "scale": "Human scale",
+        "movement": "Stiff painful knee and shoulder, avoids crouching, carefully lifts and carries",
+        "distinctiveFeatures": "Retired aging man carrying ordinary-looking worn artifacts, not an idealized long-legged memoir illustration"
+      },
+      "explicitCanon": [
+        "Local source protagonist old enough for retirement and painful knee/shoulder; memoir illustrator wrongly lengthened his legs.",
+        "Exactly seven retained artifacts with nineteen aliases; there is only one sword, one cloak, one circlet, one cup, one buckle, one spectacles pair and one token.",
+        "Artifact magic supplied by living wielder; token inert/closed, no autonomous glow or portal.",
+        "Sword has dark groove and crescent nick near tip; grip bootlace; warming cup is clay with chipped yellow rim, not gold."
+      ],
+      "visualInterpretation": [
+        "Older short stocky man around seventy, fair weathered skin, broad rounded nose, balding crown with white hair at sides and bushy white eyebrows, small neat white moustache; restrained distinct design.",
+        "Everyday moss-gray wool jacket/waistcoat, cream shirt, brown trousers, practical boots; no youthful armor or royal robe.",
+        "Two body views in ordinary clothes; separate dark hooded cloak gear detail avoids false complete invisibility. Late office daylight warm cream and muted violet shadow."
+      ],
+      "states": [
+        {
+          "name": "Retired present",
+          "description": "Same older body throughout, mild stiff posture, ordinary clothes and worn tools."
+        },
+        {
+          "name": "Artifact details",
+          "description": "Seven distinct retained items; closed route token; blade uncharged except optional narrow amber edge when held, no magical aura."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-reasonable-declaration:barnaby-greave",
+        "links": [],
+        "evidence": "No cross-story match; Queen Street setting is shared but does not establish that unnamed Exit Witness is M. Voss."
+      },
+      "references": [
+        {
+          "path": "stories/a-reasonable-declaration/title-image.jpg",
+          "role": "Personal sword geometry only, no photographic finish",
+          "inspected": true,
+          "notes": "Single straight sword, dark fullering, near-tip crescent nick and bootlace grip; paper/pen are office motifs, not new cast.",
+          "sha256": "e54bf24fdf03aea4a1553ad939849eb3ad889a5f70690f701d8ef466c1b99105"
+        },
+        {
+          "path": "stories/a-reasonable-declaration/art/interiors/01-assessment-table.png",
+          "role": "Same-story afternoon light, worn cloth and metal palette only",
+          "inspected": true,
+          "notes": "Broad amber/gray-violet office oil masses, dark patched cloak, squat yellow-rim cup and worn trolley; no room transfer.",
+          "sha256": "85a6ec96982f863efff23d84c02076023de5a5b7fbe81c43aaf6d3ceebfeec8b"
+        },
+        {
+          "path": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
+          "role": "Same-story collection paint consistency only",
+          "inspected": true,
+          "notes": "Natural muted late light, gray/ochre connected rocks and sky masses; no scenery in character art.",
+          "sha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+          "role": "Paint and older face construction only, never identity",
+          "inspected": true,
+          "notes": "Distinct mature face rendered in opaque broad paint, isolated three views and personal equipment on ivory.",
+          "sha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Paint and folio technique only, never identity or clothing",
+          "inspected": true,
+          "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        }
+      ],
+      "output": "stories/a-reasonable-declaration/art/characters/barnaby-greave.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Correct the FIRST image, retaining Barnaby's exact old stocky identity, faces, balding white-haired head/moustache, clothing, two bodies, all seven personal artifacts and text layout. Its dark brown blurred background is a failure. REPLACE THE ENTIRE BACKGROUND with uniform quiet LIGHT WARM IVORY like SECOND reference, no gradient, no spotlights, no dark haze, no scenery or shadow patches. Restore heading 'Barnaby Greave' and subtitle 'A Reasonable Declaration' in clearly legible near-black serif type on ivory. Keep all other labels legible near-black. Paint the character and objects with broader connected opaque oil planes and fewer tiny scratchy chips, particularly facial cheeks, coat and trousers, with selective thick impasto; same technique as second reference, NEVER borrow second man's face, hair, red coat or identity. Preserve Barnaby's exact older broad nose and white moustache. TWO small source repairs: spectacles must have TWO TRANSPARENT lenses; one lens attached with wire at rim, the other with dark hard PASTE ONLY AT THE RIM, not an opaque black disk. The cup must be SQUAT and broad, shorter than now, a clay cup with chipped YELLOW rim, not gold. Everything else unchanged, isolated two body views/expressions/equipment on LIGHT IVORY. All objects unclipped, no swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-2d5cb55d-a4fe-4882-b959-6105ee7b5903.png",
+            "sha256": "4a9d1eeb5d12d85b5f951868f72ec9f9804437b2779aea7e67076e397a4e166f",
+            "inspected": true,
+            "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Paint and folio technique only, never identity or clothing",
+            "inspected": true,
+            "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:04:27.0282448Z",
+            "prompt": "Create one 1536x1024 landscape warm-ivory character-only oil folio. Exact character name and story title 'A Reasonable Declaration' in readable elegant dark text. Useful unclipped isolated body views, expressions and personal equipment separated by ivory. NO setting, office, furniture, floor, terrain patch, ground shadow, vignette or paint swatches. Thick matte oils inspired by Canadian Group of Seven: large connected value/color masses, purposeful broad bristle strokes, selective heavy knife ridges, quiet joining passages; same painterly treatment on face, hands, hair and gear as on cloth. No photoreal face insets, anime, glossy CGI or uniform beveled chips. First reference is oil technique/folio only, never its character identity, clothing or anatomy. Second reference gives same-story soft late-afternoon office light/palette only; copy no setting. Warm cream light and muted lavender-gray joined shadows, not a theatrical orange rim. Make character DISTINCT from every style anchor. Personal gear only, no other people.\nHeading 'Barnaby Greave'. Elderly retired male adventurer around seventy, SHORT STOCKY body and normal short legs, slight comfortable paunch, pale weathered skin, broad rounded nose, balding crown with short white hair only at sides, bushy white brows, small neat WHITE MOUSTACHE. Mild stiff knee posture, alert vain expression, not frail fantasy wizard. Everyday moss-gray wool jacket and waistcoat with inside pocket, cream shirt, brown trousers, worn brown boots. No armor or jewels. Left half TWO same-scale full-body views: front three-quarter and rear three-quarter, same older man and clothes. He may carry a modest battered grocery trolley with lid in one view because it is his actual personal transport gear, no floor around it. Right upper two close head expressions 'Dignified' and 'Put out', SAME elderly balding/moustached face. Right/lower organize SEVEN distinct personal artifacts with enough space and brief labels: (1) ONE single ordinary straight sword, dark groove down blade, visible crescent notch near TIP, bootlace-wrapped grip; use cover solely for correct geometry, matte painted iron not photo. (2) Folded dark hooded cloak with darn at shoulder and exposed split lining at hips, no invisibility effect. (3) Plain copper circlet green at joints, one cracked joint, no gems. (4) Squat CLAY cup with CHIPPED YELLOW rim, never gold. (5) Small lifting buckle attached to original braided strap. (6) Spectacles with one lens held by wire and other by dark hardened paste. (7) Small inert smooth-edged metal token in paper sleeve, scratched marks, no glow/portal. The sword's four names are aliases of ONE sword, do not make four blades. Artifacts should not overpower body views, simplify fine detail into broad painted form. Ordinary personal objects with zero magical light. Do not add chair, table, desk or room. Entire figures/gear uncropped.",
+            "references": [
+              {
+                "path": "stories/a-reasonable-declaration/title-image.jpg",
+                "role": "Personal sword geometry only, no photographic finish",
+                "inspected": true,
+                "notes": "Single straight sword, dark fullering, near-tip crescent nick and bootlace grip; paper/pen are office motifs, not new cast.",
+                "sha256": "e54bf24fdf03aea4a1553ad939849eb3ad889a5f70690f701d8ef466c1b99105"
+              },
+              {
+                "path": "stories/a-reasonable-declaration/art/interiors/01-assessment-table.png",
+                "role": "Same-story afternoon light, worn cloth and metal palette only",
+                "inspected": true,
+                "notes": "Broad amber/gray-violet office oil masses, dark patched cloak, squat yellow-rim cup and worn trolley; no room transfer.",
+                "sha256": "85a6ec96982f863efff23d84c02076023de5a5b7fbe81c43aaf6d3ceebfeec8b"
+              },
+              {
+                "path": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+                "role": "Paint and older face construction only, never identity",
+                "inspected": true,
+                "notes": "Distinct mature face rendered in opaque broad paint, isolated three views and personal equipment on ivory.",
+                "sha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-2d5cb55d-a4fe-4882-b959-6105ee7b5903.png",
+            "outputSha256": "4a9d1eeb5d12d85b5f951868f72ec9f9804437b2779aea7e67076e397a4e166f"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:10:02.8359639Z",
+            "prompt": "Correct the FIRST image, retaining Barnaby's exact old stocky identity, faces, balding white-haired head/moustache, clothing, two bodies, all seven personal artifacts and text layout. Its dark brown blurred background is a failure. REPLACE THE ENTIRE BACKGROUND with uniform quiet LIGHT WARM IVORY like SECOND reference, no gradient, no spotlights, no dark haze, no scenery or shadow patches. Restore heading 'Barnaby Greave' and subtitle 'A Reasonable Declaration' in clearly legible near-black serif type on ivory. Keep all other labels legible near-black. Paint the character and objects with broader connected opaque oil planes and fewer tiny scratchy chips, particularly facial cheeks, coat and trousers, with selective thick impasto; same technique as second reference, NEVER borrow second man's face, hair, red coat or identity. Preserve Barnaby's exact older broad nose and white moustache. TWO small source repairs: spectacles must have TWO TRANSPARENT lenses; one lens attached with wire at rim, the other with dark hard PASTE ONLY AT THE RIM, not an opaque black disk. The cup must be SQUAT and broad, shorter than now, a clay cup with chipped YELLOW rim, not gold. Everything else unchanged, isolated two body views/expressions/equipment on LIGHT IVORY. All objects unclipped, no swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-2d5cb55d-a4fe-4882-b959-6105ee7b5903.png",
+                "sha256": "4a9d1eeb5d12d85b5f951868f72ec9f9804437b2779aea7e67076e397a4e166f",
+                "inspected": true,
+                "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Paint and folio technique only, never identity or clothing",
+                "inspected": true,
+                "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-2b1dc31c-73ad-4b23-91f9-1be0b0e779f4.png",
+            "savedPath": "stories/a-reasonable-declaration/art/characters/barnaby-greave.png",
+            "outputSha256": "23c95116731065362173e31bd91b648db909efee6934a70311da6dabc99ccc7a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:14:34.250169+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T22:14:34.250190+00:00",
+        "sourceSha256": "e308dc32c2d2bf3927997f2e7a3d534cf8a6f1ae244241162014db1c1078532b",
+        "outputSha256": "23c95116731065362173e31bd91b648db909efee6934a70311da6dabc99ccc7a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-2d5cb55d-a4fe-4882-b959-6105ee7b5903.png",
+            "sha256": "4a9d1eeb5d12d85b5f951868f72ec9f9804437b2779aea7e67076e397a4e166f",
+            "inspected": true,
+            "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Paint and folio technique only, never identity or clothing",
+            "inspected": true,
+            "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: dark failed ground replaced with warm ivory, exact name/title and all labels legible, body/gear silhouettes unclipped. No location, floor or palette swatches.",
+          "Distinct consistent face/body/hair through views; broad matte oil planes on faces, fabric and objects, afternoon-like warm and cool tonal masses.",
+          "Older short stocky man with white moustache and bald crown retains ordinary clothing and practical trolley. Seven distinct artifacts shown, no duplicate sword aliases.",
+          "Sword groove and near-tip nick; shoulder-darned cloak; copper circlet; squat chipped yellow-rim clay cup; braided buckle strap; repaired spectacles with clear lenses; inert token in sleeve."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "cb2b816a9294733f82c6a4c6828fb176c1bb24187df3525ce8fa0828f67bc857"
+      },
+      "outputSha256": "23c95116731065362173e31bd91b648db909efee6934a70311da6dabc99ccc7a"
+    },
+    {
+      "id": "fulvia",
+      "name": "Fulvia",
+      "role": "Co-lead assessor, memoir reader and practical counterpart",
+      "naming": {
+        "sourceName": "Fulvia",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Fulvia",
+          "line": 25,
+          "explanation": "Names the assessor who organizes entire encounter."
+        },
+        {
+          "quote": "Would you sign it?",
+          "line": 337,
+          "explanation": "Her admiration persists after correcting romantic artifact accounts."
+        }
+      ],
+      "form": "human adult",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "lifeStage": "Working adult, precise age unspecified",
+        "proportions": "Ordinary human proportions",
+        "markings": "Temporary gray smudge on sleeve from testing spectacles",
+        "materials": "Skin, hair, cloth; ordinary and power-fed personal artifacts",
+        "clothing": "Ordinary sleeved office clothes; exact outfit not specified",
+        "equipment": "Two well-read memoir volumes with white-creased spines, pen, numbered inventory cards, ledger, stamp; temporarily tests borrowed copper circlet and damaged spectacles",
+        "scale": "Human scale",
+        "movement": "Inspects, writes, leans to check cloak, kneels under desk for test; moment of flustered circlet removal",
+        "distinctiveFeatures": "Hair stands up through circlet after amplified apology; attentive exacting reader and assessor"
+      },
+      "explicitCanon": [
+        "Local source ordinary human woman, named Fulvia; skilled artifact assessment and a fan of Barnaby’s books.",
+        "Borrows copper circlet for test, fingertips must touch inner rim to supply power; not permanent crown or royalty.",
+        "Two memoir volumes belong to her; pen/card/bookkeeping equipment source-supported."
+      ],
+      "visualInterpretation": [
+        "Distinct adult woman around thirty-five, deep warm brown skin, long oval face, wide-set eyes, straight narrow nose and tightly coiled black hair in a short rounded crop; no Coris-style loose waves or bun.",
+        "Simple cream high-neck blouse with long sleeves, muted aubergine fitted waistcoat, gray-brown ankle trousers and low black lace-up shoes.",
+        "Three useful front/side/rear office-clothing views; two head studies thoughtful and flustered without circlet to avoid confusing borrowed gear with outfit; smudged sleeve and book/pen detail suffice.",
+        "Diffuse afternoon office light, gentle warm planes and connected cool shadow; no office scenery."
+      ],
+      "states": [
+        {
+          "name": "Assessment",
+          "description": "Ordinary office clothes, two memoir books and pen."
+        },
+        {
+          "name": "After tests",
+          "description": "Slight hair disturbance and gray sleeve smudge, no permanent transformation or circlet ownership."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-reasonable-declaration:fulvia",
+        "links": [],
+        "evidence": "No cross-story match; Queen Street setting is shared but does not establish that unnamed Exit Witness is M. Voss."
+      },
+      "references": [
+        {
+          "path": "stories/a-reasonable-declaration/title-image.jpg",
+          "role": "Personal sword geometry only, no photographic finish",
+          "inspected": true,
+          "notes": "Single straight sword, dark fullering, near-tip crescent nick and bootlace grip; paper/pen are office motifs, not new cast.",
+          "sha256": "e54bf24fdf03aea4a1553ad939849eb3ad889a5f70690f701d8ef466c1b99105"
+        },
+        {
+          "path": "stories/a-reasonable-declaration/art/interiors/01-assessment-table.png",
+          "role": "Same-story afternoon light, worn cloth and metal palette only",
+          "inspected": true,
+          "notes": "Broad amber/gray-violet office oil masses, dark patched cloak, squat yellow-rim cup and worn trolley; no room transfer.",
+          "sha256": "85a6ec96982f863efff23d84c02076023de5a5b7fbe81c43aaf6d3ceebfeec8b"
+        },
+        {
+          "path": "stories/a-reasonable-declaration/art/landscapes/05-queen-street-after-rain.png",
+          "role": "Same-story collection paint consistency only",
+          "inspected": true,
+          "notes": "Natural muted late light, gray/ochre connected rocks and sky masses; no scenery in character art.",
+          "sha256": "5fb14fdb4927ad50bf89999ac7e31dad769e942c00e51065199abab7c434f8a8"
+        },
+        {
+          "path": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+          "role": "Paint and older face construction only, never identity",
+          "inspected": true,
+          "notes": "Distinct mature face rendered in opaque broad paint, isolated three views and personal equipment on ivory.",
+          "sha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Paint and folio technique only, never identity or clothing",
+          "inspected": true,
+          "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        }
+      ],
+      "output": "stories/a-reasonable-declaration/art/characters/fulvia.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Correct FIRST image, preserving Fulvia's EXACT DISTINCT identity: deep brown skin, short tight black coiled hair, oval face, all proportions, cream blouse/aubergine waistcoat/gray trousers, three body views, both portraits and all personal books/pen/cards/sleeve detail. Its dark blurred brown ground is a FAILURE. Replace the ENTIRE BACKGROUND with uniform quiet LIGHT WARM IVORY matching SECOND reference, no gradient, spotlight, dark fog, scenery or ground shadows. Restore heading 'Fulvia' and subtitle 'A Reasonable Declaration' in sharply readable near-black serif text; all labels near-black on ivory. Strengthen broader connected opaque oil paint planes across faces and clothing, selective thick bristle/knife impasto, fewer tiny pebbly/woodchip marks. Same matte substantial painted medium as second image, but DO NOT borrow second man's face, body, hair or clothing. Preserve Fulvia exact existing identity across all five views. No glossy skin, photoreal portrait, plastic eyes, or uniform bevels. Everything else stays in place, all three bodies complete, no added item, no scenery, no floor, no palette/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-a8d2c690-1a91-42f8-b776-c4ed033a5c22.png",
+            "sha256": "b0552ed91fd3e1868f3d7c01361fe7ccf230ae0a09f13873c222936ebde8ed48",
+            "inspected": true,
+            "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Paint and folio technique only, never identity or clothing",
+            "inspected": true,
+            "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T22:04:27.0341363Z",
+            "prompt": "Create one 1536x1024 landscape warm-ivory character-only oil folio. Exact character name and story title 'A Reasonable Declaration' in readable elegant dark text. Useful unclipped isolated body views, expressions and personal equipment separated by ivory. NO setting, office, furniture, floor, terrain patch, ground shadow, vignette or paint swatches. Thick matte oils inspired by Canadian Group of Seven: large connected value/color masses, purposeful broad bristle strokes, selective heavy knife ridges, quiet joining passages; same painterly treatment on face, hands, hair and gear as on cloth. No photoreal face insets, anime, glossy CGI or uniform beveled chips. First reference is oil technique/folio only, never its character identity, clothing or anatomy. Second reference gives same-story soft late-afternoon office light/palette only; copy no setting. Warm cream light and muted lavender-gray joined shadows, not a theatrical orange rim. Make character DISTINCT from every style anchor. Personal gear only, no other people.\nHeading 'Fulvia'. One adult female artifact assessor around thirty-five, DEEP WARM BROWN SKIN, long oval face, wide-set dark eyes, straight narrow nose, natural full mouth; tightly coiled BLACK HAIR in a SHORT ROUNDED CROP, no bun, long waves, gray hair or loose face-framing curls. She must not resemble elderly Lemra or young Coris; clear distinct face/body. Ordinary office dress: cream high-neck long-sleeve blouse, muted aubergine waistcoat, gray-brown ankle-length trousers and simple low black lace-up shoes. Slim-average natural build, no fantasy accessories or jewelry. Left two-thirds THREE complete same-size full-body front three-quarter, side, rear views, consistent head shape/cropped hair and clothes. Front holds two well-read memoir volumes against hip and ordinary pen in other hand; books are brown/umber with creased worn spines, no invented titles. Right top two fully painted head expressions 'Attentive' and 'Flustered' of SAME face; in flustered study the short coils are slightly disturbed, no crown or magic effect. Bottom/right isolated two battered memoir volumes, simple pen, a few numbered blank inventory cards, and close sleeve detail with a modest gray dust smudge. No desk or stamp-machine environment. Simple ordinary office work equipment, no swords, armor, witch gear, cloak or permanent crown. Face/chin/nose/head scale consistent in all views, subtle warm late-day illumination and matte visible oil planes.",
+            "references": [
+              {
+                "path": "stories/a-reasonable-declaration/art/interiors/01-assessment-table.png",
+                "role": "Same-story afternoon light, worn cloth and metal palette only",
+                "inspected": true,
+                "notes": "Broad amber/gray-violet office oil masses, dark patched cloak, squat yellow-rim cup and worn trolley; no room transfer.",
+                "sha256": "85a6ec96982f863efff23d84c02076023de5a5b7fbe81c43aaf6d3ceebfeec8b"
+              },
+              {
+                "path": "stories/a-crown-for-the-endless-fire/art/characters/lemra.png",
+                "role": "Paint and older face construction only, never identity",
+                "inspected": true,
+                "notes": "Distinct mature face rendered in opaque broad paint, isolated three views and personal equipment on ivory.",
+                "sha256": "0ee32fcebb3f9213dace515f3264b7c330e8f38355294aac34fe3b1fb1bb2537"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-a8d2c690-1a91-42f8-b776-c4ed033a5c22.png",
+            "outputSha256": "b0552ed91fd3e1868f3d7c01361fe7ccf230ae0a09f13873c222936ebde8ed48"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T22:10:02.8480352Z",
+            "prompt": "Correct FIRST image, preserving Fulvia's EXACT DISTINCT identity: deep brown skin, short tight black coiled hair, oval face, all proportions, cream blouse/aubergine waistcoat/gray trousers, three body views, both portraits and all personal books/pen/cards/sleeve detail. Its dark blurred brown ground is a FAILURE. Replace the ENTIRE BACKGROUND with uniform quiet LIGHT WARM IVORY matching SECOND reference, no gradient, spotlight, dark fog, scenery or ground shadows. Restore heading 'Fulvia' and subtitle 'A Reasonable Declaration' in sharply readable near-black serif text; all labels near-black on ivory. Strengthen broader connected opaque oil paint planes across faces and clothing, selective thick bristle/knife impasto, fewer tiny pebbly/woodchip marks. Same matte substantial painted medium as second image, but DO NOT borrow second man's face, body, hair or clothing. Preserve Fulvia exact existing identity across all five views. No glossy skin, photoreal portrait, plastic eyes, or uniform bevels. Everything else stays in place, all three bodies complete, no added item, no scenery, no floor, no palette/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-a8d2c690-1a91-42f8-b776-c4ed033a5c22.png",
+                "sha256": "b0552ed91fd3e1868f3d7c01361fe7ccf230ae0a09f13873c222936ebde8ed48",
+                "inspected": true,
+                "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Paint and folio technique only, never identity or clothing",
+                "inspected": true,
+                "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-bc4454c5-f942-4d03-adca-d20208024bda.png",
+            "savedPath": "stories/a-reasonable-declaration/art/characters/fulvia.png",
+            "outputSha256": "7bee7bc41ba0d4ac17f25dc714ffc3b086cc8cf3c5303583fddf5a4f64a8cbea",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T22:14:34.262654+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T22:14:34.262675+00:00",
+        "sourceSha256": "e308dc32c2d2bf3927997f2e7a3d534cf8a6f1ae244241162014db1c1078532b",
+        "outputSha256": "7bee7bc41ba0d4ac17f25dc714ffc3b086cc8cf3c5303583fddf5a4f64a8cbea",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-a8d2c690-1a91-42f8-b776-c4ed033a5c22.png",
+            "sha256": "b0552ed91fd3e1868f3d7c01361fe7ccf230ae0a09f13873c222936ebde8ed48",
+            "inspected": true,
+            "role": "Actual candidate target: preserve distinct identity and replace failed dark ground with ivory"
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Paint and folio technique only, never identity or clothing",
+            "inspected": true,
+            "notes": "Broad matte faces and fabric, unclipped three-view folio.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: dark failed ground replaced with warm ivory, exact name/title and all labels legible, body/gear silhouettes unclipped. No location, floor or palette swatches.",
+          "Distinct consistent face/body/hair through views; broad matte oil planes on faces, fabric and objects, afternoon-like warm and cool tonal masses.",
+          "Distinct short coiled hair, deep brown skin, aubergine waistcoat and cream blouse in three body views; attentive/flustered expressions remain same identity.",
+          "Two worn memoir volumes, pen, numbered cards and gray-smudged sleeve shown; no permanent borrowed crown or magical transformation."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1fbf7652ec8d0d8c74056a38b163531f25ca082ec1354b1efceac92dbc0dfd4e"
+      },
+      "outputSha256": "7bee7bc41ba0d4ac17f25dc714ffc3b086cc8cf3c5303583fddf5a4f64a8cbea"
+    }
+  ]
+}

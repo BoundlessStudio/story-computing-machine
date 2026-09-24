@@ -1,0 +1,876 @@
+{
+  "slug": "blade-calls-your-name",
+  "title": "The Blade Calls Your Name",
+  "source": "stories/blade-calls-your-name/story.md",
+  "canon": false,
+  "mainCastEvidence": "Full finished source read through line453. Four roles explicitly share operation: Odmara diagnosis/cut, Felrin seat/authorization, Kosca load/receiving maintenance, Yevet witness/record. Each speaks and acts throughout. Passive blade explicitly has no will (line19), excluded as character.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Service blade",
+      "reason": "Line19 explicitly no eyes/no will/no notion; passive tool stores strain, not a character."
+    },
+    {
+      "name": "Chainwrights, apprentices, lift hands and residents",
+      "reason": "Background workers or brief messengers only."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: shared authority order",
+    "universe/rules.md: Names and identity binding; local mechanism not universal magical name agency",
+    "universe/rules.md: Living agency and magic; nonliving blade stores/shapes pattern, does not independently use magic",
+    "Exact cast/Hearthchain search universe/NAMES no entries; current/bundle name matches only same story plus Kosca comparison in deja-vu-too-late review, not recurrence"
+  ],
+  "characters": [
+    {
+      "id": "odmara",
+      "name": "Odmara",
+      "role": "Independent chainwright, viewpoint protagonist and actual original repairer",
+      "selectionEvidence": [
+        {
+          "line": 19,
+          "quote": "a woman standing under it",
+          "explanation": "Adult woman identification."
+        },
+        {
+          "line": 153,
+          "quote": "I made a flexible splice",
+          "explanation": "Her prior work is plot core."
+        },
+        {
+          "line": 321,
+          "quote": "I'll take the blade.",
+          "explanation": "Claims practical role."
+        },
+        {
+          "line": 447,
+          "quote": "Odmara pulled off her scorched glove.",
+          "explanation": "Work glove."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin/hair, practical cloth and leather, work tools.",
+        "scale": "Adult human.",
+        "lifeStage": "Adult; six years after apprentice work, exact age not stated.",
+        "proportions": "Cover lean strong work build, no exaggerated physique.",
+        "clothing": "Boots and work glove explicit. Compatible cover charcoal work shirt/trousers, belt tools and bun.",
+        "equipment": "Fine hammer, scorched work glove; shared heavy service blade square point/toothed back used with others.",
+        "movement": "Tactile diagnosis fingertips, kneels, carefully draws saw stroke, no heroic sword swing.",
+        "distinctiveFeatures": "Own current name Odmara only; not engraved with prior name or invented bodily magic."
+      },
+      "explicitCanon": [
+        "Story-local woman, independent chainwright, boots, glove, fine hammer and shared service tool.",
+        "No source face/skin/hair description; cover-compatible dark bun and charcoal workwear. Blade non-sentient square-tipped former quarry saw, not sword."
+      ],
+      "visualInterpretation": [
+        "Early30s, tan complexion, dark brown hair in work bun, broad cheekbones, firm brow; body drawn from inspected cover silhouette.",
+        "Main three views charcoal work clothes; head/hand detail and finehammer/scorched glove. Optional isolated shared service blade, not carried one-handed as weapon; low warm lantern/cool dusk light."
+      ],
+      "states": [
+        {
+          "label": "Working",
+          "description": "Main work outfit."
+        },
+        {
+          "label": "Diagnosis",
+          "description": "Attentive head/hand gesture without scene."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/blade-calls-your-name/title-image.jpg",
+          "role": "Odmara rear silhouette/clothing only; no faces of other cast; cover render not house style",
+          "sha256": "63e383c65f7aae6a954ae5f868b94e2da750b64533b6df850d7d2b14b1fbabc4",
+          "inspected": true,
+          "notes": "Rear dark-haired bun, charcoal workwear/trousers, belt tools, boots, tan exposed forearms. Rail glow belongs to mechanism, not body magic."
+        },
+        {
+          "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+          "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+          "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "inspected": true,
+          "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "blade-calls-your-name:odmara",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/blade-calls-your-name/art/characters/odmara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Odmara character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, hair bun WITHOUT sticks, wardrobe, personal tools, hands, all labels, heading \"Odmara\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, charcoal workwear. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:30:52.8208096Z",
+            "status": "REVISE",
+            "prompt": "Create one 1536×1024 landscape character-only OIL reference folio on calm unshaded WARM IVORY. Exact name “Odmara”, exact subtitle “The Blade Calls Your Name”.\n\nOdmara is an adult woman, early30s interpretation, independent chainwright. Tan skin, broad cheekbones, firm brow, dark brown hair tied in a practical work bun. Lean strong work build, ordinary human anatomy. Charcoal rolled-sleeve work shirt and charcoal work trousers, dark leather belt with small tools, sturdy brown-black boots. This preserves inspected cover silhouette (cover not attached to avoid its CGI rendering). Main three unclipped full views front/side/rear. Small attentive face and small determined face, distinctly same identity. Personal equipment details: compact fine steel hammer with wood handle, one scuffed scorched leather work glove. No oversized blade in the full-body pose. No sword/fantasy armour or magical glow.\n\nInput1 Coris is PRIMARY approved painted form and folio reference ONLY, not her identity/clothes/pencils. Input2 the anchor chamber provides only palette/light: one restrained warm lantern lights selected side planes, with low cool blue-grey dusk fill and LARGE connected charcoal shadows. Exclude all chamber geometry, chains, mountains, machinery and lamps from the sheet. This is dim industrial evening subject lighting, not cheerful daylight; still readable on ivory.\n\nBuild her face, hands, bun, cloth and leather out of LARGE coherent oil colour/value masses, broad directional bristle strokes, selective substantial impasto and quieter dark passages. Canadian Group of Seven collection character painting. Faces must be materially painted like bodies. Matte eyes, no smooth/photo/CGI face, no anime, no glittering edge lights or uniform tiny bevelled flakes. Gloves feel stiff, hair dense, cloth matte.\n\nUse exact readable heading/title and concise labels “Front”, “Side”, “Back”, “Listening”, “Resolved”, “Fine hammer”, “Work glove”. Five-finger hand/glove anatomy; all body/gear silhouettes unclipped. NO setting, floor/contact shadows, ground patch, scene vignette, decorative prose, swatches or palette bars.",
+            "references": [
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "primary approved oil treatment only, exclude identity",
+                "inspected": true,
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern/cool dusk palette only; no machinery/location",
+                "inspected": true,
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-3964d776-46bb-4183-9de5-b81656ec9191.png",
+            "returnedSha256": "67eac6d1a68086fd3783359a29cba5956f402b74cd22ad1174c029f30b021781",
+            "review": "Unrequested pencil-like rods inherited in hair despite prompt; remove them in all views. Main identity/workwear/5-finger glove/text otherwise pass.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:35:55.2342288Z",
+            "status": "REVISE",
+            "prompt": "Narrow precise cleanup of Odmara folio: REMOVE every pencil-like rod or stick threaded through her hair bun in EVERY view, including side, back and both head portraits. Restore unadorned dark brown hair in those small regions, matching existing thick oil paint. Her bun is secured invisibly by an ordinary dark hair tie; no visible pencil, chopstick, pin ornament or tool projects from it. Remove only the rods, do not remove hair or change bun silhouette.\n\nKeep ALL other content unchanged: exact face and expressions, body, poses, charcoal workwear, tools, hammer, five-finger glove, name Odmara and title The Blade Calls Your Name, text, layout, ivory ground, lighting and substantial oil masses. No new gear/details, scenes, floor marks, paint swatches or prose.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-3964d776-46bb-4183-9de5-b81656ec9191.png",
+                "role": "immutable edit target; unsupported hair-pencil removal only",
+                "inspected": true,
+                "sha256": "67eac6d1a68086fd3783359a29cba5956f402b74cd22ad1174c029f30b021781"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f3eff27b-2721-4605-acd5-e011a5d4c6af.png",
+            "returnedSha256": "f0ef36ce4d30791f10932ad19efaaff355b95d78a3443b022627bc0ced6b1141",
+            "completedAt": "2026-09-23T18:40:09.544775-04:00",
+            "review": [
+              "Actual corrected pixels inspected: unadorned dark bun across all views, inherited hair pencils removed; compatible charcoal workwear/boots and adult female identity.",
+              "Three unclipped views, distinct attentive/resolved expressions, compact fine hammer, five-finger scorched glove; exact name/title.",
+              "Substantial painted form across skin/cloth, no scene, ground patches or swatches; no invented active blade/weapon pose."
+            ],
+            "independentReview": "Root: identity/anatomy/text PASS; lighting REVISE. User paused, no lighting image call begun."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:21:57.413Z",
+            "status": "PASS",
+            "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Odmara character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, hair bun WITHOUT sticks, wardrobe, personal tools, hands, all labels, heading \"Odmara\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, charcoal workwear. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f3eff27b-2721-4605-acd5-e011a5d4c6af.png",
+                "role": "immutable edit target: same identity, clothing, text and layout; subject lighting correction only",
+                "inspected": true,
+                "sha256": "f0ef36ce4d30791f10932ad19efaaff355b95d78a3443b022627bc0ced6b1141"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+                "inspected": true,
+                "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-78d07f50-0360-4819-a234-0974c4187f9e.png",
+            "returnedSha256": "5e20d8bbb19eedddad0086244927f1e79503f30af774f785e92f40de7312142a",
+            "completedAt": "2026-09-24T02:24:52.849526+00:00",
+            "review": [
+              "Actual corrected pixels inspected at full and reading size: low warm lantern now reaches near cheek/wrist and a few cloth planes; most face, hair and workwear held in connected cool charcoal shadow, including mostly dark back. Original bright all-over studio/day effect corrected.",
+              "Exact Odmara identity, unadorned dark bun, ordinary adult anatomy, charcoal work clothes, fine hammer and five-finger scorched glove preserved; front/side/rear and two expressions remain consistent.",
+              "Exact name/story title/labels readable; broad opaque oil form and selective impasto, clean ivory support, unclipped silhouettes, no location/floor patch/swatch. Source and reference hashes verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f3eff27b-2721-4605-acd5-e011a5d4c6af.png",
+            "role": "immutable edit target: same identity, clothing, text and layout; subject lighting correction only",
+            "inspected": true,
+            "sha256": "f0ef36ce4d30791f10932ad19efaaff355b95d78a3443b022627bc0ced6b1141"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:24:52.849526+00:00",
+        "sourceSha256": "e19796c77bf659fc5ff3ac6d65817aa993747f752bce8a7cf4837d9965063460",
+        "outputSha256": "5e20d8bbb19eedddad0086244927f1e79503f30af774f785e92f40de7312142a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f3eff27b-2721-4605-acd5-e011a5d4c6af.png",
+            "role": "immutable edit target: same identity, clothing, text and layout; subject lighting correction only",
+            "inspected": true,
+            "sha256": "f0ef36ce4d30791f10932ad19efaaff355b95d78a3443b022627bc0ced6b1141"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected at full and reading size: low warm lantern now reaches near cheek/wrist and a few cloth planes; most face, hair and workwear held in connected cool charcoal shadow, including mostly dark back. Original bright all-over studio/day effect corrected.",
+          "Exact Odmara identity, unadorned dark bun, ordinary adult anatomy, charcoal work clothes, fine hammer and five-finger scorched glove preserved; front/side/rear and two expressions remain consistent.",
+          "Exact name/story title/labels readable; broad opaque oil form and selective impasto, clean ivory support, unclipped silhouettes, no location/floor patch/swatch. Source and reference hashes verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "3cb1bc900cb69c70d777f920fcb285c9ac87d94e6809400444fa66513be85c2d"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "5e20d8bbb19eedddad0086244927f1e79503f30af774f785e92f40de7312142a",
+      "resolvedCorrections": [
+        "Root pixel review: lighting reads bright studio/day. Needs connected cool dark shadows and restricted warm lantern-facing planes; identity/anatomy/text pass. User paused before any correction call."
+      ]
+    },
+    {
+      "id": "felrin",
+      "name": "Felrin",
+      "role": "Senior chainwright, central source of false authorization/omission and participant in repair",
+      "selectionEvidence": [
+        {
+          "line": 29,
+          "quote": "Six years had silvered the hair at his temples",
+          "explanation": "Visible age cue."
+        },
+        {
+          "line": 29,
+          "quote": "chin forward",
+          "explanation": "Characteristic defensive posture."
+        },
+        {
+          "line": 357,
+          "quote": "Felrin's forearm shook, but he kept the wedge square.",
+          "explanation": "Substantial operational role."
+        }
+      ],
+      "form": "Human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin/hair, practical cloth and leather, work tools.",
+        "scale": "Adult human.",
+        "lifeStage": "Senior adult; silver temples.",
+        "proportions": "Ordinary experienced manual worker; no specified size.",
+        "clothing": "Rolls up right sleeve at opening. Exact wardrobe unspecified.",
+        "equipment": "Probe, fine hammer, wedge, file; main identity does not require oversized fantasy weapon.",
+        "movement": "Chin forward, then precise hands seating wedge; fatigue shows later.",
+        "distinctiveFeatures": "Silver temples, practiced hands, defensive then attentive expression."
+      },
+      "explicitCanon": [
+        "Story-local man/senior chainwright, grey temples, rolled sleeve, probe/wedge/file work.",
+        "No eye/skin/clothes colours or beard specified."
+      ],
+      "visualInterpretation": [
+        "Mid50s, cool light complexion, close dark hair with silver temples, short square salt-and-pepper beard, heavy jaw.",
+        "Faded russet shirt sleeves rolled, grey canvas work vest, brown trousers/boots and short leather tool belt; no insignia rank invented. Lantern light and cool dusk shadow."
+      ],
+      "states": [
+        {
+          "label": "Assessment",
+          "description": "Main three views."
+        },
+        {
+          "label": "Concentrating",
+          "description": "Fatigued focused head study."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/blade-calls-your-name/title-image.jpg",
+          "role": "Odmara rear silhouette/clothing only; no faces of other cast; cover render not house style",
+          "sha256": "63e383c65f7aae6a954ae5f868b94e2da750b64533b6df850d7d2b14b1fbabc4",
+          "inspected": true,
+          "notes": "Rear dark-haired bun, charcoal workwear/trousers, belt tools, boots, tan exposed forearms. Rail glow belongs to mechanism, not body magic."
+        },
+        {
+          "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+          "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+          "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "inspected": true,
+          "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "blade-calls-your-name:felrin",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/blade-calls-your-name/art/characters/felrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Felrin character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short greying hair, silver temples and beard, wardrobe, personal tools, hands, all labels, heading \"Felrin\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, russet shirt, grey vest and brown trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:40:10.5420468Z",
+            "status": "REVISE",
+            "prompt": "One 1536×1024 landscape character reference folio, unshaded warm ivory. Exact heading “Felrin”, exact subtitle “The Blade Calls Your Name”. One ordinary HUMAN man.\n\nSenior chainwright in his mid50s: close-cropped dark hair explicitly SILVERED AT TEMPLES, short squared salt-and-pepper beard, heavy jaw and cool light complexion. Broad-set deep eyes, furrowed brow, chin tends forward. Experienced manual worker of ordinary sturdy build, no giant muscles. Faded russet rolled-sleeve shirt, grey canvas work vest, brown work trousers/boots, short leather tool belt. Three unclipped views front/side/rear. Two small head studies: defensive chin-forward look, quieter focused tired look. Below them separate compact tools: fine metal probe, steel wedge and file. These are realistic work tools, not weapons or magical artefacts. No other equipment.\n\nInput1 Kelro supplies primary collection OIL construction/folio only, NOT his youthful face, tousled hair, red coat or hat. Felrin must be much older, short-haired and silver-templed. Input2 chamber supplies low warm lantern light with muted cool blue-grey dusk shadow only, never its setting. One modest warm side light, connected darker shadow planes; no front studio flood or cinematic rim. Ground remains quiet ivory regardless of lighting.\n\nCanadian Group of Seven-inspired oil: large connected colour/value masses describe forehead, weathered cheeks, beard, hands and cloth. Broad directional bristle and selective substantial impasto, quieter connecting shadow. Eyes matte and painted, no photographic/CGI smooth face, no anime pen contour or uniform gold-bevel chip coating. Texture follows each material.\n\nExact clear text and concise labels “Front”, “Side”, “Back”, “Defensive”, “Concentrating”, “Probe”, “Wedge”, “File”. Ordinary five-finger hands. NO landscape/room/scene/vignette, furniture, terrain, ground marks or contact shadows. NO palette strips, colour swatches or decorative prose.",
+            "references": [
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "approved oil and folio only; not identity",
+                "inspected": true,
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern/cool dusk lighting only, no environment",
+                "inspected": true,
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-532921ba-beac-480b-8259-0612cc3682e9.png",
+            "returnedSha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091",
+            "completedAt": "2026-09-23T18:44:28.401968-04:00",
+            "review": [
+              "Actual pixels inspected: silver temples and senior age clear across all views, ordinary worker anatomy, rolled sleeve and source-used tools.",
+              "Three consistent unclipped views and two expressions; readable name/title; wedge/probe/file discrete equipment, no mechanism invented.",
+              "Broad oil face/body planes and quiet ivory; no scenery/floor/swatch, no active blade or unrelated magical effects."
+            ],
+            "independentReview": "Root: identity/anatomy/text PASS; lighting REVISE. User paused, no lighting image call begun."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:24:53.825997+00:00",
+            "status": "PASS",
+            "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Felrin character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short greying hair, silver temples and beard, wardrobe, personal tools, hands, all labels, heading \"Felrin\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, russet shirt, grey vest and brown trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-532921ba-beac-480b-8259-0612cc3682e9.png",
+                "role": "immutable same-identity edit target, lighting only",
+                "inspected": true,
+                "sha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+                "inspected": true,
+                "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e13fea83-04c2-4661-a459-401dc66a8083.png",
+            "returnedSha256": "48ff002642862e21c9c315f5db4dd29300be56adc7bcd40c7290cc4d7e3bbed1",
+            "completedAt": "2026-09-24T02:26:30.206428+00:00",
+            "review": [
+              "Actual saved candidate inspected: dim warm lantern illuminates restricted near cheek, wrist and clothing planes; connected cool dark value masses now dominate face/vest/back rather than broad studio/day lighting.",
+              "Consistent senior male identity, silver temples, beard, chin-forward and concentrating expressions, rolled russet sleeves, grey vest, probe/wedge/file retained; ordinary anatomy and intact silhouettes.",
+              "Exact heading/title and labels remain readable on unchanged warm ivory. Opaque oil masses across face and clothes, no location/ground patch/swatch. Source, generation references and selected output pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-532921ba-beac-480b-8259-0612cc3682e9.png",
+            "role": "immutable same-identity edit target, lighting only",
+            "inspected": true,
+            "sha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:26:30.206428+00:00",
+        "sourceSha256": "e19796c77bf659fc5ff3ac6d65817aa993747f752bce8a7cf4837d9965063460",
+        "outputSha256": "48ff002642862e21c9c315f5db4dd29300be56adc7bcd40c7290cc4d7e3bbed1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-532921ba-beac-480b-8259-0612cc3682e9.png",
+            "role": "immutable same-identity edit target, lighting only",
+            "inspected": true,
+            "sha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ],
+        "evidence": [
+          "Actual saved candidate inspected: dim warm lantern illuminates restricted near cheek, wrist and clothing planes; connected cool dark value masses now dominate face/vest/back rather than broad studio/day lighting.",
+          "Consistent senior male identity, silver temples, beard, chin-forward and concentrating expressions, rolled russet sleeves, grey vest, probe/wedge/file retained; ordinary anatomy and intact silhouettes.",
+          "Exact heading/title and labels remain readable on unchanged warm ivory. Opaque oil masses across face and clothes, no location/ground patch/swatch. Source, generation references and selected output pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "51fce7e71a36c2d469c1dc92d19c7a362392ba4ab1075b87138e90790a7731ff"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "48ff002642862e21c9c315f5db4dd29300be56adc7bcd40c7290cc4d7e3bbed1",
+      "resolvedCorrections": [
+        "Root pixel review: lighting reads bright studio/day. Needs connected cool dark shadows and restricted warm lantern-facing planes; identity/anatomy/text pass. User paused before any correction call."
+      ]
+    },
+    {
+      "id": "kosca",
+      "name": "Kosca",
+      "role": "Lift captain, active load controller/original witness and maintenance successor",
+      "selectionEvidence": [
+        {
+          "line": 59,
+          "quote": "the quarry lift's blue shoulder sash, one end dark with brake water",
+          "explanation": "Explicit personal identifier."
+        },
+        {
+          "line": 71,
+          "quote": "whose hammer I was holding a lantern for",
+          "explanation": "Original witness."
+        },
+        {
+          "line": 405,
+          "quote": "Kosca scratched her work-name into a fresh strip at the hilt.",
+          "explanation": "Receives maintenance responsibility."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin/hair, practical cloth and leather, work tools.",
+        "scale": "Adult human.",
+        "lifeStage": "Adult; experienced six years or more.",
+        "proportions": "Ordinary worker, shoulders/arms active in load operations.",
+        "clothing": "Blue shoulder sash with one end darkened by brake water, other clothes unspecified.",
+        "equipment": "Lantern/fine hammer as handled tools; speaking tube belongs to site not wearable gear.",
+        "movement": "Direct commanding gestures, gripping guard, counting/tapping, wiping wet palm.",
+        "distinctiveFeatures": "Water-darkened blue sash; no uniform helmet/rank badge established."
+      },
+      "explicitCanon": [
+        "Story-local woman captain, blue shoulder sash wet at one end, practical load controller.",
+        "No skin/hair/eye/face details specified."
+      ],
+      "visualInterpretation": [
+        "Early40s, deep brown skin, broad sturdy build, short close black curls with small grey streak, square alert face.",
+        "Dusty cream collarless work shirt, charcoal trousers, dark boots, blue sash over shoulder across torso; brass hand lantern shown separately allowed, no site tube attached. Low lamp/dusk lighting."
+      ],
+      "states": [
+        {
+          "label": "On duty",
+          "description": "Main three views, damp sash endpoint."
+        },
+        {
+          "label": "Calling the count",
+          "description": "Open-mouth focused head study, no speech bubble."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/blade-calls-your-name/title-image.jpg",
+          "role": "Odmara rear silhouette/clothing only; no faces of other cast; cover render not house style",
+          "sha256": "63e383c65f7aae6a954ae5f868b94e2da750b64533b6df850d7d2b14b1fbabc4",
+          "inspected": true,
+          "notes": "Rear dark-haired bun, charcoal workwear/trousers, belt tools, boots, tan exposed forearms. Rail glow belongs to mechanism, not body magic."
+        },
+        {
+          "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+          "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+          "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "inspected": true,
+          "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "blade-calls-your-name:kosca",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/blade-calls-your-name/art/characters/kosca.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Kosca character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short tight black curls with greying streak, wardrobe, personal tools, hands, all labels, heading \"Kosca\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, cream shirt subdued to cool grey in shadow, blue sash and charcoal trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.\nPhysical continuity invariant: blue sash crosses anatomical RIGHT shoulder to anatomical LEFT hip. On FRONT that is image-left shoulder to image-right hip; on BACK that is image-right shoulder to image-left hip. Preserve the already-corrected back sash and damp hanging end exactly. Her separate hand lantern stays luminous but must not cast any mark on the ivory.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:44:29.4194752Z",
+            "status": "REVISE",
+            "prompt": "One 1536×1024 landscape character reference folio on calm unshaded warm IVORY. Exact heading “Kosca”; exact subtitle “The Blade Calls Your Name”. Only this one ordinary adult HUMAN woman.\n\nKosca is a quarry lift captain, early40s art interpretation. Deep brown skin, sturdy practical build, square alert face, short close black curls with one small grey streak. No long hair, braid, bun, hairpins, pencils or ornaments. Dusty cream collarless work shirt, charcoal work trousers, dark brown boots. Most distinctive source feature: BLUE SHOULDER SASH crossing her torso, ONE lower end darker and visibly damp with brake water. No military medals/helmet/fantasy armour.\n\nThree unclipped useful full-body views (front, side, back), active attentive posture and ordinary five-finger hands. Two small head studies “Listening” and “Calling the count” (focused open mouth, no text bubble). Small isolated detail “Damp sash” showing blue cloth darkened at end, and a modest brass hand lantern she has handled. No speaking tube attached to her; it belongs to the worksite and is omitted.\n\nInput1 Felrin supplies primary collection broad oil handling and folio typography only; transfer no male face/hair/build/clothes or tools. Input2 chamber supplies DIM LANTERN subject light: small broad amber planes on one side, deep connected cool brown-violet shadow over the other side. Keep deep skin colour in both light and shadow. No studio illumination, sunny flood, light-rim outline or glossy specular pupils. The ivory ground itself stays plain.\n\nCanadian Group of Seven-inspired OIL surface construction: LARGE connected colour/value masses across face, cropped curls, arms and clothes; broad directional bristle, selective substantial impasto and quiet shadow passages. Do not turn deep skin into smooth CGI or photoreal face. No anime contour, no uniformly bevel-lit golden flakes. Fabric, skin and lantern metal distinguished by stroke and value.\n\nConcise labels only, name and exact title clearly readable. No second identity. NO environment/scene/vignette, machinery, floor, ground/contact-shadow patches, palette swatches/bars or decorative prose.",
+            "references": [
+              {
+                "path": "stories/blade-calls-your-name/art/characters/felrin.png",
+                "role": "reviewed oil treatment and folio only; exclude male identity",
+                "inspected": true,
+                "sha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "dim lantern and cool dusk subject light only; no setting",
+                "inspected": true,
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e"
+              }
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f6be165c-cd81-44a9-ab28-14d643126f81.png",
+            "returnedSha256": "6a5503a01e5cffa7af64240b1fb1c3c85b06da0d85c68472dcdb9277534affd8",
+            "review": "Rear sash crosses wrong shoulder relative to front: fix rear sash only to wear on anatomical right shoulder/left hip. Other identity/style/gear pass.",
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:49:14.0444684Z",
+            "status": "REVISE",
+            "prompt": "Make ONE localized continuity correction to Kosca's folio. Change ONLY the BLUE SASH in the full-body BACK VIEW (third figure from left). It is currently mirrored incorrectly.\n\nIn that BACK view the blue sash must begin at the image-RIGHT shoulder (her anatomical RIGHT shoulder), cross diagonally DOWN toward image-LEFT hip (her anatomical LEFT hip), with the knot and dark damp hanging end at image-LEFT hip. This matches the correct FRONT view, whose sash starts image-left/anatomical-right shoulder and ends image-right/anatomical-left hip. Repaint the old rear sash area as underlying cream shirt/dark trousers. Keep rear body, arms, hair, boots and pose unchanged. Do not change front or side views.\n\nPreserve ALL else: character identity, source damp blue sash, lantern/detail studies, expressions, name Kosca/story title The Blade Calls Your Name, all labels/layout, oil style, lighting, ivory, no scenes/ground/swatch. Only reverse the back-view sash placement to proper physical continuity.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-f6be165c-cd81-44a9-ab28-14d643126f81.png",
+                "role": "immutable edit target, back-view sash side correction only",
+                "inspected": true,
+                "sha256": "6a5503a01e5cffa7af64240b1fb1c3c85b06da0d85c68472dcdb9277534affd8"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-b5246f1b-ede0-43eb-8bf5-984be80ee9b5.png",
+            "returnedSha256": "e5051fe9b0966698b4dc823a0a1b63f84915fc4dde3d3dd4b8eb0df5b42777e9",
+            "completedAt": "2026-09-23T18:53:43.391113-04:00",
+            "review": [
+              "Actual corrected pixels inspected: blue shoulder sash now consistently anatomical right shoulder to left hip in front/side/rear; one lower end dark with brake water.",
+              "Adult female captain identity, cropped curls and ordinary limbs consistent; distinct listening/calling expressions, lantern and damp-cloth details.",
+              "Exact name/title and unclipped views, broad painted skin/cloth/metals, no scenery/ground/swatch."
+            ],
+            "independentReview": "Root: identity/anatomy/text PASS; lighting REVISE. User paused, no lighting image call begun."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:26:31.173679+00:00",
+            "status": "PASS",
+            "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Kosca character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short tight black curls with greying streak, wardrobe, personal tools, hands, all labels, heading \"Kosca\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, cream shirt subdued to cool grey in shadow, blue sash and charcoal trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.\nPhysical continuity invariant: blue sash crosses anatomical RIGHT shoulder to anatomical LEFT hip. On FRONT that is image-left shoulder to image-right hip; on BACK that is image-right shoulder to image-left hip. Preserve the already-corrected back sash and damp hanging end exactly. Her separate hand lantern stays luminous but must not cast any mark on the ivory.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-b5246f1b-ede0-43eb-8bf5-984be80ee9b5.png",
+                "role": "immutable same-identity edit target; preserve corrected sash orientation; lighting only",
+                "inspected": true,
+                "sha256": "e5051fe9b0966698b4dc823a0a1b63f84915fc4dde3d3dd4b8eb0df5b42777e9"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+                "inspected": true,
+                "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ad20907c-7266-466c-8eef-ba7a97d3426d.png",
+            "returnedSha256": "e881650984b5be34eebeb206e1dda1453e66ed429008488e312646a029875ab1",
+            "completedAt": "2026-09-24T02:29:31.209369+00:00",
+            "review": [
+              "Actual corrected pixels inspected: limited lantern-facing planes on cheek/wrist/near shoulder, faces and full figures now have connected dusk shadows; cream shirt appears grey in shadow and back stays subdued. Prior studio/day lighting corrected.",
+              "Captain's deep-brown skin, close curls/grey streak, sturdy ordinary anatomy, blue sash and two distinct expressions retained. Sash remains anatomical right shoulder to left hip in all views; rear image-right shoulder to image-left hip; damp lower end and separate lantern retained.",
+              "Exact name/title/labels readable, character-only oil folio, warm ivory remains clean, silhouettes unclipped, no environmental ground or swatches. Source/reference/output pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-b5246f1b-ede0-43eb-8bf5-984be80ee9b5.png",
+            "role": "immutable same-identity edit target; preserve corrected sash orientation; lighting only",
+            "inspected": true,
+            "sha256": "e5051fe9b0966698b4dc823a0a1b63f84915fc4dde3d3dd4b8eb0df5b42777e9"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:29:31.209369+00:00",
+        "sourceSha256": "e19796c77bf659fc5ff3ac6d65817aa993747f752bce8a7cf4837d9965063460",
+        "outputSha256": "e881650984b5be34eebeb206e1dda1453e66ed429008488e312646a029875ab1",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-b5246f1b-ede0-43eb-8bf5-984be80ee9b5.png",
+            "role": "immutable same-identity edit target; preserve corrected sash orientation; lighting only",
+            "inspected": true,
+            "sha256": "e5051fe9b0966698b4dc823a0a1b63f84915fc4dde3d3dd4b8eb0df5b42777e9"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: limited lantern-facing planes on cheek/wrist/near shoulder, faces and full figures now have connected dusk shadows; cream shirt appears grey in shadow and back stays subdued. Prior studio/day lighting corrected.",
+          "Captain's deep-brown skin, close curls/grey streak, sturdy ordinary anatomy, blue sash and two distinct expressions retained. Sash remains anatomical right shoulder to left hip in all views; rear image-right shoulder to image-left hip; damp lower end and separate lantern retained.",
+          "Exact name/title/labels readable, character-only oil folio, warm ivory remains clean, silhouettes unclipped, no environmental ground or swatches. Source/reference/output pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "83e43e202a24259b9999c80e9e6e8316c89851254672e5b02829adb183508bf9"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "e881650984b5be34eebeb206e1dda1453e66ed429008488e312646a029875ab1",
+      "resolvedCorrections": [
+        "Root pixel review: lighting reads bright studio/day. Needs connected cool dark shadows and restricted warm lantern-facing planes; identity/anatomy/text pass. User paused before any correction call."
+      ]
+    },
+    {
+      "id": "yevet",
+      "name": "Yevet",
+      "role": "Guild registrar and witness whose record distinguishes each worker's responsibility",
+      "selectionEvidence": [
+        {
+          "line": 21,
+          "quote": "Registrar Yevet reached the rack first.",
+          "explanation": "Immediate operational authority."
+        },
+        {
+          "line": 73,
+          "quote": "Yevet took the rack key from her belt.",
+          "explanation": "Personal equipment."
+        },
+        {
+          "line": 223,
+          "quote": "I will need separate lines.",
+          "explanation": "Record changes resolve accountability."
+        },
+        {
+          "line": 341,
+          "quote": "Yevet put down the chalk and gripped the left guard.",
+          "explanation": "Physical witness participation."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Skin/hair, practical cloth and leather, work tools.",
+        "scale": "Adult human.",
+        "lifeStage": "Adult registrar, exact age unspecified.",
+        "proportions": "Ordinary human.",
+        "clothing": "Belt with rack key. Other wardrobe unspecified.",
+        "equipment": "Slate, chalk, rack key at belt, small tag book.",
+        "movement": "Precise writing, reading, leaning to inspect; hands can grip work guard.",
+        "distinctiveFeatures": "Careful observant expression and tangible slate/key, no magic symbols or magical robes."
+      },
+      "explicitCanon": [
+        "Story-local woman registrar with belt key, slate/chalk/tag book.",
+        "No source face/hair/skin or exact clothing described."
+      ],
+      "visualInterpretation": [
+        "Late40s, pale olive skin, narrow long face, sharp dark eyebrows, short straight ash-brown hair tucked behind ears; no glasses necessary.",
+        "Plain grey-green tailored work coat over cream shirt, dark trousers/ankle boots, practical belt/key; three views and writing head plus slate/chalk/key details. Slates have abstract ruled lines not invented decrees. Low lamp/cool dusk light."
+      ],
+      "states": [
+        {
+          "label": "Witness",
+          "description": "Main views with slate."
+        },
+        {
+          "label": "Recording",
+          "description": "Hand/slate detail, ordinary five fingers."
+        }
+      ],
+      "references": [
+        {
+          "path": "stories/blade-calls-your-name/title-image.jpg",
+          "role": "Odmara rear silhouette/clothing only; no faces of other cast; cover render not house style",
+          "sha256": "63e383c65f7aae6a954ae5f868b94e2da750b64533b6df850d7d2b14b1fbabc4",
+          "inspected": true,
+          "notes": "Rear dark-haired bun, charcoal workwear/trousers, belt tools, boots, tan exposed forearms. Rail glow belongs to mechanism, not body magic."
+        },
+        {
+          "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+          "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+          "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+          "inspected": true,
+          "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "blade-calls-your-name:yevet",
+        "links": [],
+        "evidence": "No supported recurrence; matching names alone do not establish identity."
+      },
+      "output": "stories/blade-calls-your-name/art/characters/yevet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Yevet character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short straight ash-brown bob, wardrobe, personal tools, hands, all labels, heading \"Yevet\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, grey-green coat, cream shirt and dark trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.\nPreserve the slate/chalk natural grip, belt rack key, tag book and all their geometry; no readable decree or fantasy marks added.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-23T22:53:44.4061756Z",
+            "status": "REVISE",
+            "prompt": "Create ONE 1536×1024 landscape character-only reference folio, plain quiet WARM IVORY background. Exact heading “Yevet”, exact subtitle “The Blade Calls Your Name”.\n\nYevet is an ordinary HUMAN woman, guild registrar, late40s interpretation. Pale olive skin, narrow long face, sharp dark eyebrows, short straight ash-brown bob tucked behind ears, visible middle-aged face lines, no bangs over eyes, NO bun or hair ornament. Slender ordinary build, calm observant expression. Plain grey-green practical tailored coat over cream shirt, dark trousers and dark ankle boots. Belt carries one sturdy iron rack key. No fantasy robes, armour, badges or magic.\n\nThree fully unclipped full-body views front/side/back. In front holds small rectangular SLATE with a wood frame in one hand and short chalk in other; side carries slate under arm; rear shows coat and belt. Right two small expressive heads: “Assessing” and “Recording” (looking down). Bottom right separate useful equipment studies: “Slate and chalk”, “Rack key”, small “Tag book”. Slate has a few faint ruled lines only, NO invented readable decrees or pseudo-glyphs. Key is ordinary mechanical key, not magical glowing object.\n\nInput1 Felrin is PRIMARY reference for broad oil form, ivory folio and lettering ONLY. Transfer no masculine anatomy/beard/hairstyle/clothes/tools. Input2 anchor chamber supplies dim warm lantern light on selected planes and muted connected cool dusk shadow only; do not reproduce its room or objects.\n\nCanadian Group of Seven-inspired heavy OIL, LARGE connected colour/value masses, broad varied bristle strokes, selective substantial impasto and quieter shadow passages. Face/neck/hands must be built from strong painted planes just like coat, not smooth photoreal/CGI insert. Eyes matte; no anime contour, uniform gold chips, glossy highlights or cinematic rim. Modest warm side illumination with clearly grouped shadow; plain ivory ground remains unshaded.\n\nHuman hands five digits, natural grips, no extra limbs. Exact name/title legible, concise labels only. No scenery, interior, vignette, floor/ground/contact-shadow marks, palette swatches/bars or decorative prose.",
+            "references": [
+              {
+                "path": "stories/blade-calls-your-name/art/characters/felrin.png",
+                "role": "reviewed oil and folio only, not male identity",
+                "inspected": true,
+                "sha256": "47619a0a17e4da35669e894d6dc917a912c88661e2364fb114d63f5c2f7a4091"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lamp/cool dusk subject lighting only, no geography",
+                "inspected": true,
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-2e7ac57e-8ea8-4925-9c57-b774a2760bdb.png",
+            "returnedSha256": "64ab734df1192ea0549c9eec0b909688ad02e68f96d8097269bda90bc1806fef",
+            "completedAt": "2026-09-23T18:58:35.375831-04:00",
+            "review": [
+              "Actual pixels inspected: one middle-aged female identity across three unclipped clothed views/two heads, ordinary hands holding slate/chalk, exact title/name.",
+              "Source belt key/slate/chalk/tag book present as discrete ordinary equipment with no invented decrees or magical markings.",
+              "Broad sculpted oil form over face/hair/coat, quiet ivory, no location/ground/swatch; wardrobe/face interpretations clearly recorded."
+            ],
+            "independentReview": "Root: identity/anatomy/text PASS; lighting REVISE. User paused, no lighting image call begun."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T02:29:32.187414+00:00",
+            "status": "PASS",
+            "prompt": "Use case: lighting-weather. Edit ONLY the subject lighting in the attached Yevet character folio. Preserve the exact existing face, identity, age, proportions, expressions, full-body poses, short straight ash-brown bob, wardrobe, personal tools, hands, all labels, heading \"Yevet\" and subtitle \"The Blade Calls Your Name\", layout, warm ivory unshaded support, and oil-paint medium.\n\nThe current subject lighting is far too bright and even. Repaint EVERY figure, both head studies and the equipment as seen in a dim industrial chamber at dusk: a SMALL LOW shuttered warm lantern from lower image-left reaches only narrow near planes of one cheek, nose underside, near wrist and nearby cloth folds. The majority of each face and garment must form LARGE CONNECTED low-value cool grey-violet/charcoal shadow masses. Keep shaded facial features readable by subdued cool reflected light; do not brighten both cheeks, forehead and every fabric ridge. In rear view most of her back stays in connected dark shadow with only one restrained side plane touched. No rim outline. Colour stays natural muted brown skin in warm patches, cool earth/shale shadows, grey-green coat, cream shirt and dark trousers. This is clearly LOW LANTERN / DUSK illumination, not a studio key light or afternoon sun.\n\nReference 1 is the exact immutable edit target and identity/layout anchor. Reference 2 is only motivation for low lantern/cool dusk, not a setting to copy. Broad directional opaque oil masses, softer connected shadow passages and selective impasto; simplify shadow detail so there is no glittering uniformly bevelled paint-chip effect. Preserve all artwork silhouettes on unchanged clean ivory. Do not add a lamp, backdrop, location, floor, contact shadow, ground patch, swatches, badges or text.\nPreserve the slate/chalk natural grip, belt rack key, tag book and all their geometry; no readable decree or fantasy marks added.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-2e7ac57e-8ea8-4925-9c57-b774a2760bdb.png",
+                "role": "immutable same-identity edit target; subject lighting only",
+                "inspected": true,
+                "sha256": "64ab734df1192ea0549c9eec0b909688ad02e68f96d8097269bda90bc1806fef"
+              },
+              {
+                "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+                "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+                "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+                "inspected": true,
+                "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e1323d02-4761-4dac-9e83-2eee5f30e8ae.png",
+            "returnedSha256": "561a12af3e0bc9926713e6ec16dfda870bc2db1586f69f469fde944d40c5a49f",
+            "completedAt": "2026-09-24T02:31:08.732358+00:00",
+            "review": [
+              "Actual corrected pixels inspected: restrained low warm lantern planes on one cheek, near wrist and coat; broad connected cool-dark face/coat/back shadows retain readability and remove former bright studio/day illumination.",
+              "Same middle-aged female registrar identity, bob, anatomy, expressions, slate/chalk grip, rack key, tag book and practical wardrobe preserved in all unclipped views.",
+              "Exact Yevet/story heading and concise labels readable, thick directional oil masses, unchanged clean ivory ground, no floor/location or swatches. Source/reference/output and specification pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-2e7ac57e-8ea8-4925-9c57-b774a2760bdb.png",
+            "role": "immutable same-identity edit target; subject lighting only",
+            "inspected": true,
+            "sha256": "64ab734df1192ea0549c9eec0b909688ad02e68f96d8097269bda90bc1806fef"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:31:08.732358+00:00",
+        "sourceSha256": "e19796c77bf659fc5ff3ac6d65817aa993747f752bce8a7cf4837d9965063460",
+        "outputSha256": "561a12af3e0bc9926713e6ec16dfda870bc2db1586f69f469fde944d40c5a49f",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf13-7964-71d1-8e30-95b32d166eb4/exec-2e7ac57e-8ea8-4925-9c57-b774a2760bdb.png",
+            "role": "immutable same-identity edit target; subject lighting only",
+            "inspected": true,
+            "sha256": "64ab734df1192ea0549c9eec0b909688ad02e68f96d8097269bda90bc1806fef"
+          },
+          {
+            "path": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
+            "role": "low lantern warm planes/cool dusk shadows and industrial material palette only, no geography",
+            "sha256": "9e9b324dd74c6efc83654cd43145d428bdf0555695e035935768ab11ec45ce8e",
+            "inspected": true,
+            "notes": "Amber lamp plus cool blue-violet dusk, rough dark iron and oil paint; service tool squared/toothed, no people."
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: restrained low warm lantern planes on one cheek, near wrist and coat; broad connected cool-dark face/coat/back shadows retain readability and remove former bright studio/day illumination.",
+          "Same middle-aged female registrar identity, bob, anatomy, expressions, slate/chalk grip, rack key, tag book and practical wardrobe preserved in all unclipped views.",
+          "Exact Yevet/story heading and concise labels readable, thick directional oil masses, unchanged clean ivory ground, no floor/location or swatches. Source/reference/output and specification pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "f3c38eca29b4b1c0bed4b345b1bc3d74b4b5451c6333824c69fe07438683a931"
+      },
+      "userPreferences": [
+        "characters references that don;t place locations. and just focus on character.",
+        "remove the pain swap they arent needed."
+      ],
+      "outputSha256": "561a12af3e0bc9926713e6ec16dfda870bc2db1586f69f469fde944d40c5a49f",
+      "resolvedCorrections": [
+        "Root pixel review: lighting reads bright studio/day. Needs connected cool dark shadows and restricted warm lantern-facing planes; identity/anatomy/text pass. User paused before any correction call."
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "e19796c77bf659fc5ff3ac6d65817aa993747f752bce8a7cf4837d9965063460",
+  "readComplete": true,
+  "assessment": "complete",
+  "noQualifyingCharactersReason": null
+}

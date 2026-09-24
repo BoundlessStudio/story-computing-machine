@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "slug": "i-really-need-a-sidekick",
+  "title": "I Really Need a Sidekick",
+  "source": "stories/i-really-need-a-sidekick/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "All three sustained active participants drive the contest, relationship and outcome.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Referee",
+      "reason": "Rules and purse functionary, brief interventions without independent character arc."
+    },
+    {
+      "name": "Spectators, former heroine, tenor and clients",
+      "reason": "Collective or remembered supporting roles."
+    },
+    {
+      "name": "Golden peacock",
+      "reason": "Explicitly mechanical contest prop; fanfare pump and spring tail do not establish agency."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/style-guide.md#Personhood and moral consequence",
+    "universe/characters.md (no matching entries)"
+  ],
+  "sourcePromptReferenceInventory": [
+    {
+      "displayName": "codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+      "status": "resolved-and-visually-inspected",
+      "searchEvidence": [
+        "Exact and recursive filename search in C:/Users/jamie/AppData/Local/Temp found no match.",
+        "No match in .codex attachments, generated_images, worktree or targeted primary/worktree .codex-remote-attachments.",
+        "Exact display-name search in .codex sessions found only present recovery conversation."
+      ],
+      "requiredFor": [
+        "ottilie",
+        "rococo"
+      ],
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+      "sha256": "d604227e6e3947a5cc89892c1dff6a50d48d8949148e0415eac0091ae562e216",
+      "inspected": true,
+      "recoveryProvenance": "Original input_image bytes recovered by coordinator from archived source user message: C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-10T18-38-52-01a08d79-4bfa-71c0-9370-1cc91eb62ca7.jsonl",
+      "notes": "Actual recovered original reviewed by cast_resume_4: adult fair blonde/green-eyed woman with black-red clothing, white scuffed humanoid robot with red ring optics and dark exposed joints. Prompt calls inspiration, not exact source clothing. Final source requires pinned hair and practical contest goggles/cape; no workshop setting on sheets."
+    }
+  ],
+  "referenceConflicts": [
+    "Recovered original has loose bob, cropped leather and bare midriff; final story describes pinned blonde hair and black long coat/red lining in contest. Use compatible face/colors, source-specific pinned hair and practical fully clothed mechanics outfit. Robot material/anatomy compatible; image screen designation A-17 is incidental and not identity."
+  ],
+  "characters": [
+    {
+      "id": "ottilie",
+      "name": "Ottilie",
+      "role": "Mechanic and first-person protagonist; her performance and revised cooperation win the contest.",
+      "selectionEvidence": [
+        {
+          "quote": "The coat was black with a red lining",
+          "line": 19,
+          "explanation": "Comic self-presentation and required clothing."
+        },
+        {
+          "quote": "I had pinned my blonde hair up",
+          "line": 79,
+          "explanation": "Explicit appearance and contest preparation."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human woman, two arms/two legs.",
+        "lifeStage": "Adult, exact age unspecified.",
+        "proportions": "Natural human adult.",
+        "markings": "Temporary sweat and dirt streaks after contest, no permanent marks specified.",
+        "materials": "Human skin/hair, practical coat and work clothes.",
+        "clothing": "Black coat with red lining; hem tears late in contest. Blonde hair pinned up.",
+        "equipment": "Protective goggles, small mechanic tools, plan sketch; peacock prop carried at end.",
+        "scale": "Human adult.",
+        "movement": "Theatrical coat flourish, crouching, hard pushing, then bowing.",
+        "distinctiveFeatures": "Blonde pinned-up hair and black/red coat."
+      },
+      "explicitCanon": [
+        "Adult woman mechanic named Ottilie.",
+        "Black coat with red lining, blonde hair pinned up, protective goggles for contest.",
+        "Coat hem tears during final escape; sweat and dirty face after exertion.",
+        "No supernatural power or weapon stated."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible oval/angular fair face, green eyes, blonde waved updo, approximately early thirties.",
+        "High-collar black coat over practical dark shirt/trousers and flat black boots; restrained red lip color from cover.",
+        "Contest views in subdued amber indoor house lights with connected deep blue-brown shadows."
+      ],
+      "states": [
+        {
+          "name": "Before the bell",
+          "description": "Goggles, intact black/red coat and playful flourish."
+        },
+        {
+          "name": "After the escape",
+          "description": "Same identity, torn lower hem, sweaty face and goggles."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "i-really-need-a-sidekick:ottilie",
+        "links": [],
+        "evidence": "No matching named universe entry or established recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/i-really-need-a-sidekick/title-image.jpg",
+          "role": "Ottilie and Rococo compatible identity and clothing only; repaint anime/glossy cover in collection oils",
+          "notes": "Blonde pinned waves, green eyes and black/red coat for Ottilie; worn white oval plated head and red circular optics, black joint mechanisms and elbow red cape for Rococo.",
+          "inspected": true,
+          "sha256": "548345d49eb6da59a362606abaed944e8ee354914572b343ab18f386de7ea212"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+          "role": "workshop warm directional light/oil only",
+          "notes": "Warm local worklight and daylight; blue-brown connected shadows, no workshop props or surroundings copied.",
+          "inspected": true,
+          "sha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+          "role": "contest muted amber house lighting and deep plum-blue shadow only",
+          "notes": "Noon contest indoors; retain warm subdued theatre light and connected dark shadows, not external landscape daylight.",
+          "inspected": true,
+          "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved character-only folio oil rendering only",
+          "notes": "Never reuse face, clothing or green spots.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+          "role": "recovered original identity and material inspiration only; final source governs costume/state",
+          "sha256": "d604227e6e3947a5cc89892c1dff6a50d48d8949148e0415eac0091ae562e216",
+          "inspected": true,
+          "notes": "Actual recovered original reviewed by cast_resume_4: adult fair blonde/green-eyed woman with black-red clothing, white scuffed humanoid robot with red ring optics and dark exposed joints. Prompt calls inspiration, not exact source clothing. Final source requires pinned hair and practical contest goggles/cape; no workshop setting on sheets."
+        }
+      ],
+      "output": "stories/i-really-need-a-sidekick/art/characters/ottilie.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this Ottilie sheet with two precise changes; preserve all other identity, clothing, props, pose, layout and exact typography. 1. CENTER rear full-body 'After the escape': restore the long black coat nearly intact with ONE localized ragged tear/split about15cm at the very bottom hem. No shredded tails and no tears above bottom hem. Remove the large tan muddy splatters from coat/trousers; just ordinary modest dust and natural brush texture. Story says one hem rip caught in wheel, not coat shredded in combat. 2. ALL faces, hair, hands, forearms, and two head studies: reduce exposure by one stop into soft indoor theatre light. Connect broad quiet muted blue-brown shadow over most face/neck/arm planes; leave a small soft amber plane on one cheek/forehead/hand so expressions remain readable. No shiny bright honey-colored daylight face or rim light; faces matte, simplified connected oil masses rather than brightly bevelled chips. Keep green eyes/blonde pinned updo, same adultface in every view, protective goggles state, full intact left coat/redlining, covered darkshirt/trousers/flatboots/toolpouch. Keep broad Canadian Group of Seven oil style, landscape warmivory sheet with exact 'Ottilie' / 'I Really Need a Sidekick' and every state label. No scene/floor/groundpatches/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T03:23:23.996151+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Exact heading 'Ottilie' / 'I Really Need a Sidekick'. ONE adult woman mechanic early thirties, fair skin, angular oval face, natural small green eyes, shaped brows and restrained red lips from reference2/3, blonde WAVED hair PINNED UP for the contest. Do not transfer Coris's face. Practical completely clothed outfit: calf-length BLACK coat with RED lining and turned collar, dark high-neck fitted shirt, charcoal work trousers, flat black ankleboots, small tool pouch, clear PROTECTIVE GOGGLES over eyes. No cropped top, midriff, cleavage, fishnets or fetish boots; original outfit is only color inspiration, story costume controls. LEFT full body 'Before the bell' theatrical relaxed coat flourish showing red lining, intact hem; CENTER full body rear three-quarter 'After the escape' same adult with visibly torn lower coat hem, sweat and dirt streaks but NO paint hits on clothes/body. No weapon. Right two same-face head studies 'Planning' with goggles lifted to hair and 'Laughing' goggles worn, dirty cheeks, smile; restrained natural lips, not glamour. Small mechanic screwdriver detail optional, not a setting. Two bodies complete and unclipped with feet. Use SUBDUED indoor amber theatre electric house lights, mostly connected deep blue-brown shadow on black coat, limited amber cheek/hand planes; avoid broad bright daytime/studio face and highlights. Bold broad connected matte oil masses with selective impasto and quiet connecting passages, not glossy leather rendering or microbeveled chips. Only Ottilie, NO robot or other person, peacock, scenery, floor plane, ground patches, swatches or palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "broad matte oil folio style only, no identity or outfit transfer",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+                "role": "original inspiration for adult fair blonde/green-eyed mechanic face and black/red material; source governs pinned hair and practical contest clothing; omit robot and setting",
+                "sha256": "d604227e6e3947a5cc89892c1dff6a50d48d8949148e0415eac0091ae562e216",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/title-image.jpg",
+                "role": "compatible Ottilie green eyes/blonde waved hair/face colors and coat only, repaint anime as oils",
+                "sha256": "548345d49eb6da59a362606abaed944e8ee354914572b343ab18f386de7ea212",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+                "role": "subdued theatre amber and deep cool shadow lighting only",
+                "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-170a6eeb-dd42-4d02-9114-56303e599b88.png",
+            "reviewFindings": [
+              "Coat damage exaggerated into shredded tails and mud; restore mostly intact with one lower-hem tear. Faces/forearms too bright for indoor house lighting."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:25:31.952314+00:00",
+            "prompt": "Edit this Ottilie sheet with two precise changes; preserve all other identity, clothing, props, pose, layout and exact typography. 1. CENTER rear full-body 'After the escape': restore the long black coat nearly intact with ONE localized ragged tear/split about15cm at the very bottom hem. No shredded tails and no tears above bottom hem. Remove the large tan muddy splatters from coat/trousers; just ordinary modest dust and natural brush texture. Story says one hem rip caught in wheel, not coat shredded in combat. 2. ALL faces, hair, hands, forearms, and two head studies: reduce exposure by one stop into soft indoor theatre light. Connect broad quiet muted blue-brown shadow over most face/neck/arm planes; leave a small soft amber plane on one cheek/forehead/hand so expressions remain readable. No shiny bright honey-colored daylight face or rim light; faces matte, simplified connected oil masses rather than brightly bevelled chips. Keep green eyes/blonde pinned updo, same adultface in every view, protective goggles state, full intact left coat/redlining, covered darkshirt/trousers/flatboots/toolpouch. Keep broad Canadian Group of Seven oil style, landscape warmivory sheet with exact 'Ottilie' / 'I Really Need a Sidekick' and every state label. No scene/floor/groundpatches/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-170a6eeb-dd42-4d02-9114-56303e599b88.png",
+                "role": "immutable first candidate edit target; preserve identity/layout, repair overstated coat damage and bright skin",
+                "sha256": "d926a2954d9bab00623cf44fbcb3377234961c6f1984c48aa2b9deb5a977dd84",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-fbfebde8-069d-44a6-87e0-d2c89294b85b.png",
+            "outputSha256": "2a5061bdd689b82a403e7a572faaeed6f8b7bf89bf7b60d4b6a4285e7569a4d1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:29:11.168844+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-170a6eeb-dd42-4d02-9114-56303e599b88.png",
+            "role": "immutable first candidate edit target; preserve identity/layout, repair overstated coat damage and bright skin",
+            "sha256": "d926a2954d9bab00623cf44fbcb3377234961c6f1984c48aa2b9deb5a977dd84",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:29:11.168844+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "2a5061bdd689b82a403e7a572faaeed6f8b7bf89bf7b60d4b6a4285e7569a4d1",
+        "sourceSha256": "c6c8460e8ea7ec5400523d90b6cbeb1e7a3c376200d2f65e9de13eed063a19aa",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-170a6eeb-dd42-4d02-9114-56303e599b88.png",
+            "role": "immutable first candidate edit target; preserve identity/layout, repair overstated coat damage and bright skin",
+            "sha256": "d926a2954d9bab00623cf44fbcb3377234961c6f1984c48aa2b9deb5a977dd84",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: same adult fair blonde/green-eyed mechanic across complete front and rear forms and two head studies, pinned waves and source goggles states; original and cover inspiration correctly interpreted through source costume.",
+          "Mostly intact black/red calf coat with localized bottom-hem tear only after escape; dust/dirt modest, no paint hits. Practical fully clothed shirt/trousers/boots and screwdriver/tool pouch.",
+          "Faces and arms now have connected dim indoor shadow with limited amber planes; broad matte oil face, hair and cloth consistent. Exact name/title and useful state labels; warm ivory, no scenery/swatches."
+        ],
+        "specificationSha256": "58c5404fc7de8efb3258db6104388120067ee6097acf442ba905943cc4109d97"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Ottilie"
+      },
+      "lighting": "Soft dim amber theatre practicals, dominant connected cool-brown shadows on skin and black cloth; no daylight.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "2a5061bdd689b82a403e7a572faaeed6f8b7bf89bf7b60d4b6a4285e7569a4d1"
+    },
+    {
+      "id": "rococo",
+      "name": "Rococo",
+      "role": "Retired robot theatrical villain and equal contest partner; performs and solves the escape with Ottilie.",
+      "selectionEvidence": [
+        {
+          "quote": "his scarred white head",
+          "line": 21,
+          "explanation": "Material identity."
+        },
+        {
+          "quote": "Both red optics turned in their sockets.",
+          "line": 23,
+          "explanation": "Two red mechanical optics."
+        },
+        {
+          "quote": "A cracked motor housing made it heat up",
+          "line": 65,
+          "explanation": "Right-knee overheating limit drives action."
+        }
+      ],
+      "form": "Adult-coded humanoid robot",
+      "storyAppearance": {
+        "anatomy": "Humanoid constructed body with two arms/two legs; worn white plates over exposed dark mechanisms; red circular optics.",
+        "lifeStage": "Adult-coded retired performer, no biological age.",
+        "proportions": "Human-scale and humanoid.",
+        "markings": "Scuffed/scarred white enamel, late knuckle enamel scraping; cracked right-knee motor housing.",
+        "materials": "White enamel metal plates, black exposed joint and jaw mechanisms, red optics, cloth cape.",
+        "clothing": "Red cape reaches elbows; protective goggles for contest.",
+        "equipment": "Knee cooling fan; small red cape and goggles; carries gold peacock prop.",
+        "scale": "Human adult scale.",
+        "movement": "Theatrical bow, measured walking; climbs good leg first; right knee locks straight after fast load.",
+        "distinctiveFeatures": "Red round optics, scarred white head, black jaw gaps, right-knee fan."
+      },
+      "explicitCanon": [
+        "Robot called Rococo, retired theatrical villain.",
+        "Scarred white head, white cheek plates over black mechanisms; two red moving optics.",
+        "Short red cape to elbows and protective goggles in contest.",
+        "Right knee's cracked motor housing overheats and locks straight under fast load; remains limited after win.",
+        "Mechanical prop peacock is not alive and no shared cosmic origin established."
+      ],
+      "visualInterpretation": [
+        "Cover-compatible oval plated humanoid face with black gaps at lower jaw, mechanical black neck and limb joints, worn white chest/limbs.",
+        "Tall sturdy humanoid proportion, matte painted plates, red lenses visible through clear goggles without laser beams or cast glow.",
+        "Restrained amber theatre light, deep cool connected joints, no chrome gloss."
+      ],
+      "states": [
+        {
+          "name": "Before the bell",
+          "description": "Complete upright robot in elbow-length cape and goggles."
+        },
+        {
+          "name": "Locked knee",
+          "description": "Same robot with anatomical right knee straight and protected posture; no seat/location."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "i-really-need-a-sidekick:rococo",
+        "links": [],
+        "evidence": "No matching named universe entry or established recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/i-really-need-a-sidekick/title-image.jpg",
+          "role": "Ottilie and Rococo compatible identity and clothing only; repaint anime/glossy cover in collection oils",
+          "notes": "Blonde pinned waves, green eyes and black/red coat for Ottilie; worn white oval plated head and red circular optics, black joint mechanisms and elbow red cape for Rococo.",
+          "inspected": true,
+          "sha256": "548345d49eb6da59a362606abaed944e8ee354914572b343ab18f386de7ea212"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+          "role": "workshop warm directional light/oil only",
+          "notes": "Warm local worklight and daylight; blue-brown connected shadows, no workshop props or surroundings copied.",
+          "inspected": true,
+          "sha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+          "role": "contest muted amber house lighting and deep plum-blue shadow only",
+          "notes": "Noon contest indoors; retain warm subdued theatre light and connected dark shadows, not external landscape daylight.",
+          "inspected": true,
+          "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved character-only folio oil rendering only",
+          "notes": "Never reuse face, clothing or green spots.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+          "role": "recovered original identity and material inspiration only; final source governs costume/state",
+          "sha256": "d604227e6e3947a5cc89892c1dff6a50d48d8949148e0415eac0091ae562e216",
+          "inspected": true,
+          "notes": "Actual recovered original reviewed by cast_resume_4: adult fair blonde/green-eyed woman with black-red clothing, white scuffed humanoid robot with red ring optics and dark exposed joints. Prompt calls inspiration, not exact source clothing. Final source requires pinned hair and practical contest goggles/cape; no workshop setting on sheets."
+        }
+      ],
+      "output": "stories/i-really-need-a-sidekick/art/characters/rococo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: style-transfer. REPAINT image1's Rococo folio AS AN ACTUAL BROAD OPAQUE OIL PAINTING, using image2's large deliberate bristle and palette-knife paint application. Preserve image1's EXACT composition, robot design and all geometry: two fullbodyposes, head/hand study and knee detail, correct anatomical RIGHT fan knee and its lockedstate, two arms/twolegs, same finger counts, plate seams, white worn enamel, black jaw/neck/limb mechanisms, shortredcape, clear goggles, two red ringoptics, all exact lettering and light warmivory background. Do NOT add engineering or cutaways. The current BLACK MECHANISMS and FINGERS look like glossy precisely rendered 3D and need substantive repainting, NOT a thin brushtexture filter. Convert tiny silver glints, cylindrical specular gradients, polished mechanical edges and micro-highlights into BROAD FLAT MATTE charcoal/umber/bluegray PAINT MASSES with SELECTIVE short deliberate bristlestrokes. Lose some internal dark edges into each other while preserving outer shapes/joint centers/finger silhouettes and knee FAN PLACEMENT/geometry. Neck struts become simplified thick dark strokes with occasional restrained opaque gray stroke, not individually ray-traced metal tubes. All white plates and robotface likewise built from large quiet painted value planes, varied hard/soft painted edges and selective strong impasto, no smooth shaded meshes under token paint chips. Fan remains visibly fan with SAME anatomy, but painted broadly. Small red optics remain matte graphic rings with no castglow. Broad brush-painted capefolds, quiet connecting passages, no uniform brightchipped mosaic. Maintain subdued theatre house light, no brightening/chrome/rim. Preserve every word exactly 'Rococo' / 'I Really Need a Sidekick' / 'Before the bell' / 'Locked right knee' / 'Villain laugh' / 'Cracked housing / cooling fan'. Same1536x1024 landscape, completeunclipped bodies, no extra people/scene/floor/groundpatch/swatches. This is a painting-method correction across the ENTIRE robot including head/joints/digits, not an anatomy redesign.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T03:29:12.251494+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape 3:2 character reference sheet on warm ivory. Exact heading 'Rococo' / 'I Really Need a Sidekick'. ONE adult-coded human-sized humanoid ROBOT, same identity throughout, no human character. Use actual robot in images2/3: scarred scuffed WHITE ENAMEL oval head/cheek plates with seams, TWO circular RED RING OPTICS, narrow lower-jaw gaps exposing black mechanical struts, black mechanical neck, worn white chest/limb plates over exposed DARK mechanisms and joints, humanlike two arms and two legs, metal fivefingerhands and stable articulated feet. RETIRED theatrical villain, dignified playfulness. A RED CLOTH CAPE stops exactly at ELBOWS, short and practical. Clear protective goggles over optics in contest, optics visible through lenses, no laserbeams or glow. LEFT large complete unclipped front three-quarter 'Before the bell': upright calm theatrical small flourish, both legs normal. CENTER complete unclipped three-quarter same robot 'Locked right knee': his anatomical RIGHT knee held straight, left knee slightly flexed and weight on leftgoodleg, balanced guarded standing pose, NO chair/support/scenery. Maintain correct RIGHT side between views, avoid mirror-side ambiguity. Same rightknee on both full figures has visibly cracked circular motor housing and small inset cooling FAN; no missing limb, no severed leg, no new repair. RIGHT top large head study 'Villain laugh' uses mechanical expressive inclination and red optics, no human mouth or teeth; below enlarged mechanical RIGHT KNEE detail labeled 'Cracked housing / cooling fan', detail depicts the damaged joint geometry consistently. Small scraped whiteknuckle detail optional. All painted in Canadian Group of Seven OPAQUE OILS like image1, broad connected matte color/value masses, varied directional brushwork and selective impasto, QUIET connected passages. Simplify fine mechanisms into bold dark strokes; no CGI hard-surface render, anime lines, chrome shine, uniformly bevel-lit paintchips. SUBDUED INDOOR THEATRE LIGHT: most white plates muted middle-value gray/ochre in deep blue-brown shadow, only small soft amber planes. Red optics small graphic rings, no cast glow. Exact name/title and concise state labels. Character ONLY no woman/other people/peacock/floor/groundpatch/room/workshop/stage/scenery/swatches/palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/ottilie.png",
+                "role": "same-story subdued theatre light and oil folio style only; no human identity",
+                "sha256": "2a5061bdd689b82a403e7a572faaeed6f8b7bf89bf7b60d4b6a4285e7569a4d1",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-6f922dd4-c347-430a-9a1c-f34db55d50be.png",
+                "role": "original worn white robot plated face/black joint construction/red ring optics only; omit woman, workshop and incidental screen designation",
+                "sha256": "d604227e6e3947a5cc89892c1dff6a50d48d8949148e0415eac0091ae562e216",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/title-image.jpg",
+                "role": "compatible robot face geometry and elbow-length red cape only; repaint broad matte oils",
+                "sha256": "548345d49eb6da59a362606abaed944e8ee354914572b343ab18f386de7ea212",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-30e75d76-d3d8-4442-a9fa-2dcbb7b7680a.png",
+            "reviewFindings": [
+              "Remove brown-gray backdrop patch behind knee closeup, leaving plain ivory. Slightly subdue broad white plate exposure for theatre house lights."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "superseded-after-coordinator-review",
+            "requestedAt": "2026-09-24T03:31:53.053709+00:00",
+            "prompt": "Edit this exact Rococo reference folio. Preserve exact robot identity, all anatomy and proportions, poses including straight anatomical RIGHT knee and flexed left knee in center view, white plates/black joints/red ring optics/clear goggles, short redcape, hands, crack/fan details, layout and typography. Two corrections ONLY: remove ALL brown-gray brush-painted background patch behind the lower-right enlarged knee study; only the actual robot joint/shin fragments remain, with clean warmivory visible around and through their outer gaps like the head study above. The paper is consistently warmivory everywhere, NO backdrop, terrain, vignette or swatch. Secondly lower the white enamel plate light level slightly, about half a stop, in every view, using broader quieter connected muted blue-gray/umber shadow with restrained soft amber highlights to match subdued indoor theatre house light. Retain their visibly white enamel material in midtones, do NOT make black robot or destroy facial readability. No all-over bright cream studio illumination; no chrome shine. Same broad matte Canadian Group of Seven oils. Keep everything else unchanged including every exact heading and label, complete unclipped bodies, all feet and warmivory paper.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-30e75d76-d3d8-4442-a9fa-2dcbb7b7680a.png",
+                "role": "immutable candidate edit target; remove knee-detail backdrop and subdue plate exposure only",
+                "sha256": "aa1a9ef579bbc8792175a31669f7682e3c52e198d9a67b962abdd32078d590ed",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c5eedd04-22d9-4f83-9a98-63b599798776.png",
+            "outputSha256": "a528787442da9503c88b7f8eca11a0e3e2a05caa84556edd2cfdf7fdada80a18",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:34:13.484147+00:00",
+            "previousValidation": {
+              "status": "REVISE",
+              "reviewedAt": "2026-09-24T03:34:13.484147+00:00",
+              "reviewer": "cast_resume_4",
+              "outputSha256": "a528787442da9503c88b7f8eca11a0e3e2a05caa84556edd2cfdf7fdada80a18",
+              "sourceSha256": "c6c8460e8ea7ec5400523d90b6cbeb1e7a3c376200d2f65e9de13eed063a19aa",
+              "references": [
+                {
+                  "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-30e75d76-d3d8-4442-a9fa-2dcbb7b7680a.png",
+                  "role": "immutable candidate edit target; remove knee-detail backdrop and subdue plate exposure only",
+                  "sha256": "aa1a9ef579bbc8792175a31669f7682e3c52e198d9a67b962abdd32078d590ed",
+                  "inspected": true
+                }
+              ],
+              "evidence": [
+                "Actual selected pixels: same scuffed white-enamel robot identity and red ring optics across two complete humanoid bodies and expressive head study; dark jaw/neck/limb mechanisms, clear goggles and elbow-length red cape correspond to original/cover/source.",
+                "Anatomical RIGHT knee is consistently viewer-left in forward three-quarter views, with cracked fan housing; locked state keeps that knee straight and bends the opposite good knee. Enlarged fan/cracked-housing detail clear, no wrong-side repair or severed anatomy.",
+                "Muted gray-ochre white plates with limited soft amber light and connected dark joints match theatre state. All backdrop patches removed from detail, bare ivory throughout; broad matte oil rendering, exact headings/labels, no scenery/swatches."
+              ],
+              "specificationSha256": "19ff064252d7e254c9edb5e7d6822af4425404022c8298ef0145694f6b370407"
+            },
+            "coordinatorFinding": "Black joints/head mechanisms/fingers/knee read glossy precise3D under token brushpatches. Repaint substantive broadmatte oil throughout while preserving geometry/fan side/counts/text."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:36:58.526766+00:00",
+            "prompt": "Use case: style-transfer. REPAINT image1's Rococo folio AS AN ACTUAL BROAD OPAQUE OIL PAINTING, using image2's large deliberate bristle and palette-knife paint application. Preserve image1's EXACT composition, robot design and all geometry: two fullbodyposes, head/hand study and knee detail, correct anatomical RIGHT fan knee and its lockedstate, two arms/twolegs, same finger counts, plate seams, white worn enamel, black jaw/neck/limb mechanisms, shortredcape, clear goggles, two red ringoptics, all exact lettering and light warmivory background. Do NOT add engineering or cutaways. The current BLACK MECHANISMS and FINGERS look like glossy precisely rendered 3D and need substantive repainting, NOT a thin brushtexture filter. Convert tiny silver glints, cylindrical specular gradients, polished mechanical edges and micro-highlights into BROAD FLAT MATTE charcoal/umber/bluegray PAINT MASSES with SELECTIVE short deliberate bristlestrokes. Lose some internal dark edges into each other while preserving outer shapes/joint centers/finger silhouettes and knee FAN PLACEMENT/geometry. Neck struts become simplified thick dark strokes with occasional restrained opaque gray stroke, not individually ray-traced metal tubes. All white plates and robotface likewise built from large quiet painted value planes, varied hard/soft painted edges and selective strong impasto, no smooth shaded meshes under token paint chips. Fan remains visibly fan with SAME anatomy, but painted broadly. Small red optics remain matte graphic rings with no castglow. Broad brush-painted capefolds, quiet connecting passages, no uniform brightchipped mosaic. Maintain subdued theatre house light, no brightening/chrome/rim. Preserve every word exactly 'Rococo' / 'I Really Need a Sidekick' / 'Before the bell' / 'Locked right knee' / 'Villain laugh' / 'Cracked housing / cooling fan'. Same1536x1024 landscape, completeunclipped bodies, no extra people/scene/floor/groundpatch/swatches. This is a painting-method correction across the ENTIRE robot including head/joints/digits, not an anatomy redesign.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c5eedd04-22d9-4f83-9a98-63b599798776.png",
+                "role": "immutable selected attempt2 edit target; preserve exact robot identity/geometry/layout/props/text, replace CGI-like rendering",
+                "sha256": "a528787442da9503c88b7f8eca11a0e3e2a05caa84556edd2cfdf7fdada80a18",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+                "role": "actual broad opaque matte GroupofSeven oil paint application only; no environment or forms transfer",
+                "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-6ab1fc91-4f98-403f-835f-a9ff4a7ad4ad.png",
+            "outputSha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:41:20.381189+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c5eedd04-22d9-4f83-9a98-63b599798776.png",
+            "role": "immutable selected attempt2 edit target; preserve exact robot identity/geometry/layout/props/text, replace CGI-like rendering",
+            "sha256": "a528787442da9503c88b7f8eca11a0e3e2a05caa84556edd2cfdf7fdada80a18",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+            "role": "actual broad opaque matte GroupofSeven oil paint application only; no environment or forms transfer",
+            "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:41:20.381189+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+        "sourceSha256": "c6c8460e8ea7ec5400523d90b6cbeb1e7a3c376200d2f65e9de13eed063a19aa",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-c5eedd04-22d9-4f83-9a98-63b599798776.png",
+            "role": "immutable selected attempt2 edit target; preserve exact robot identity/geometry/layout/props/text, replace CGI-like rendering",
+            "sha256": "a528787442da9503c88b7f8eca11a0e3e2a05caa84556edd2cfdf7fdada80a18",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+            "role": "actual broad opaque matte GroupofSeven oil paint application only; no environment or forms transfer",
+            "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual repainted pixels: black neck struts, jaw, joints, fingers and knee are now broad matte charcoal/umber strokes and simplified connected masses; precise chrome highlights and smooth CGI cylindrical gradients removed. White plates likewise read thick opaque directional paint rather than mesh with token brushpatches.",
+          "Robot identity, two complete bodies, mechanical hand silhouette, redringoptics/goggles, shortredcape, anatomicalRIGHT fan knee and lockedright/leftbent stance preserved. Fan and crackedhousing remain recognizable without new cutaway/engineering.",
+          "All exact headings/state labels preserved; broad oil masses and ivory ground, restrained plate/joint light, no floor/backdrop/scene/swatches. Root style finding addressed with substantive whole-robot repaint."
+        ],
+        "specificationSha256": "7157ca1e7dd7f69253e0807c3db1090c83bb000728f292e719e42a755beaae20"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Rococo"
+      },
+      "lighting": "Same subdued theatre exposure; broad matte dark joints, muted gray-ochre plates, restrained local amber planes.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666"
+    },
+    {
+      "id": "beryl-hilt",
+      "name": "Beryl Hilt",
+      "role": "Defending contest champion whose paint shots and scenery control sustain the opposition.",
+      "selectionEvidence": [
+        {
+          "quote": "Beryl Hilt leaned on its rail, loading her paint rifle.",
+          "line": 83,
+          "explanation": "Main contest opponent."
+        },
+        {
+          "quote": "She wore last month's winner's sash twisted around her forehead",
+          "line": 83,
+          "explanation": "Specific distinguishing costume."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult human woman, two arms/two legs.",
+        "lifeStage": "Adult, age unspecified.",
+        "proportions": "Agile ordinary human, precise build unspecified.",
+        "markings": "Sweat from fast movement; none permanent described.",
+        "materials": "Human skin/hair, practical clothing, cloth sash and mechanical paint rifle.",
+        "clothing": "Last month's winner sash twisted round forehead; other clothes unspecified.",
+        "equipment": "Pump-action paint rifle on strap, paint pellets; no lethal ammunition.",
+        "scale": "Adult human.",
+        "movement": "Runs the gallery, pumps rifle, trots after wagon, finally laughs at loss.",
+        "distinctiveFeatures": "Winner sash as sweatband, paint rifle."
+      },
+      "explicitCanon": [
+        "Adult woman defending champion.",
+        "Winner sash twisted around forehead to keep sweat from eyes.",
+        "Uses pumped paint rifle and carries it on strap, no lethal firearm combat.",
+        "Quick agile movement, competitive wit, laughs after defeat."
+      ],
+      "visualInterpretation": [
+        "About 35, deep brown skin, broad rounded face, short tightly curled black hair, dark eyes, athletic compact build; distinct from Ottilie.",
+        "Muted olive rolled-sleeve shirt, cocoa work trousers, dark boots, gold faded winner sash tied on forehead; clear protective goggles for contest as sensible interpretation.",
+        "Nonlethal paint rifle with small top paint reservoir and pump grip, no real firearm brand. Subdued amber indoor theatre lighting."
+      ],
+      "states": [
+        {
+          "name": "Defender",
+          "description": "Alert ready stance, goggles and slung paint rifle."
+        },
+        {
+          "name": "After the bell",
+          "description": "Rifle lowered, surprised amused expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "i-really-need-a-sidekick:beryl-hilt",
+        "links": [],
+        "evidence": "No matching named universe entry or established recurrence."
+      },
+      "references": [
+        {
+          "path": "stories/i-really-need-a-sidekick/title-image.jpg",
+          "role": "Ottilie and Rococo compatible identity and clothing only; repaint anime/glossy cover in collection oils",
+          "notes": "Blonde pinned waves, green eyes and black/red coat for Ottilie; worn white oval plated head and red circular optics, black joint mechanisms and elbow red cape for Rococo.",
+          "inspected": true,
+          "sha256": "548345d49eb6da59a362606abaed944e8ee354914572b343ab18f386de7ea212"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
+          "role": "workshop warm directional light/oil only",
+          "notes": "Warm local worklight and daylight; blue-brown connected shadows, no workshop props or surroundings copied.",
+          "inspected": true,
+          "sha256": "9d74a922916dad4896f8e2a35647af2ab7ccfa6ed8b286e081fddfd799047a72"
+        },
+        {
+          "path": "stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+          "role": "contest muted amber house lighting and deep plum-blue shadow only",
+          "notes": "Noon contest indoors; retain warm subdued theatre light and connected dark shadows, not external landscape daylight.",
+          "inspected": true,
+          "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved character-only folio oil rendering only",
+          "notes": "Never reuse face, clothing or green spots.",
+          "inspected": true,
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/i-really-need-a-sidekick/art/characters/beryl-hilt.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Beryl Hilt\" and \"I Really Need a Sidekick\". One adult woman about35, deep BROWN skin, broad rounded face, short tightly curled BLACK hair, dark brown eyes, compact athletic build. Entirely distinct new identity from reference woman. Muted OLIVE rolled-sleeve work shirt, cocoa trousers, dark flat practical boots. A faded GOLD winner's sash twisted into a sweatband around forehead with short tied ends; clear protective goggles worn for the contest, natural hands. Two complete unclipped views: left threequarter \"Defender\", relaxed ready stance with nonlethal PAINT RIFLE held safely angled down; center side/back \"After the bell\", same woman and clothes, rifle hanging from its strap and small satisfied laugh despite defeat. Rifle is mechanical pump-action contest paint marker with a modest top paint reservoir, no lethal cartridges, no real brand. Right upper matched expressive head studies \"Waiting\" and \"Surprised laugh\", goggles pushed up for clear face but same forehead sash. Right lower isolated twisted winner sash and paint marker, clear name labels. Lighting must feel like indoor theatre at noon: subdued muted AMBER house lights fall on small face and cloth planes, deep connected blue-brown and plum shadow masses. Reference 2 is light/paint ONLY: no stage or architecture transferred. Preserve dark skin and dark shadow; do not overexpose to common studio daylight. Broad opaque oil forms including face, not tiny uniform mosaic chips. No muzzle fire, laser beam, fantasy power, scenery, floor or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T02:35:14.869556+00:00",
+            "prompt": "Use case: illustration-story. One finished 1536x1024 landscape 3:2 character reference folio on quiet warm ivory. Canadian Group of Seven oil collection: bold connected color/value masses first, varied directional opaque bristle strokes and selective palette-knife impasto, quiet connecting passages. Faces and hair as broadly simplified and matte as body/materials; no smooth photographic face, anime, CGI, plastic, glossy eyes, theatrical rim light, universal orange-blue split or uniformly bevel-lit paint chips. Use Coris only as painting/folio style, never face, clothing or identity. Two large separated complete unclipped full-body views and a few useful distinguishing close studies. Character only, no other people, locations, floor plane, ground patches, scenery, rooms, windows, furniture, plants, rocks, paint swatches or palette strip. Exact name and story title upper left, concise functional labels. Heading exactly \"Beryl Hilt\" and \"I Really Need a Sidekick\". One adult woman about35, deep BROWN skin, broad rounded face, short tightly curled BLACK hair, dark brown eyes, compact athletic build. Entirely distinct new identity from reference woman. Muted OLIVE rolled-sleeve work shirt, cocoa trousers, dark flat practical boots. A faded GOLD winner's sash twisted into a sweatband around forehead with short tied ends; clear protective goggles worn for the contest, natural hands. Two complete unclipped views: left threequarter \"Defender\", relaxed ready stance with nonlethal PAINT RIFLE held safely angled down; center side/back \"After the bell\", same woman and clothes, rifle hanging from its strap and small satisfied laugh despite defeat. Rifle is mechanical pump-action contest paint marker with a modest top paint reservoir, no lethal cartridges, no real brand. Right upper matched expressive head studies \"Waiting\" and \"Surprised laugh\", goggles pushed up for clear face but same forehead sash. Right lower isolated twisted winner sash and paint marker, clear name labels. Lighting must feel like indoor theatre at noon: subdued muted AMBER house lights fall on small face and cloth planes, deep connected blue-brown and plum shadow masses. Reference 2 is light/paint ONLY: no stage or architecture transferred. Preserve dark skin and dark shadow; do not overexpose to common studio daylight. Broad opaque oil forms including face, not tiny uniform mosaic chips. No muzzle fire, laser beam, fantasy power, scenery, floor or swatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "approved oil/folio style only; must not donate identity or clothes",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+                "role": "indoor contest amber light and deep muted theatre shadow only",
+                "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d27e1880-c33e-4bb4-9a0b-5648c318d12c.png",
+            "outputSha256": "9ab8f838092dd40fd727bcc5e38fa42ae02b5a56c8063101c0b5a7f475fa92c4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T02:37:53.230011+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; must not donate identity or clothes",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+            "role": "indoor contest amber light and deep muted theatre shadow only",
+            "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T02:37:53.230011+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "9ab8f838092dd40fd727bcc5e38fa42ae02b5a56c8063101c0b5a7f475fa92c4",
+        "sourceSha256": "c6c8460e8ea7ec5400523d90b6cbeb1e7a3c376200d2f65e9de13eed063a19aa",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "approved oil/folio style only; must not donate identity or clothes",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/interiors/02-gilt-rotunda.png",
+            "role": "indoor contest amber light and deep muted theatre shadow only",
+            "sha256": "0f87c1f768c72d2dc016b7f11c501946d562a1fcf5673c6e521a4fa49fd82b12",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct compact adult dark-skinned woman, consistent broad face and short curls across complete full-body views and paired expressions; goggles and winner sash maintained.",
+          "Paint marker has reservoir, pump foregrip and carrying strap; safe down-angle or slung posture, no lethal ammunition/fire. Front goggles worn and after-bell lifted state clearly readable.",
+          "Exact name/title, broad opaque matte skin and cloth oil planes, restrained amber planes over brown/plum shadows, warm ivory character-only layout, no stage scenery or swatches."
+        ],
+        "specificationSha256": "fdf5d5535a80d4b4d124145658b065a387d4a72e8676df558622f003a863fe89"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Beryl Hilt"
+      },
+      "lighting": "Noon indoor contest; subdued amber theatre house lights with broad connected blue-brown/plum shadows, no daylight fill.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "9ab8f838092dd40fd727bcc5e38fa42ae02b5a56c8063101c0b5a7f475fa92c4"
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "sourceSha256": "c6c8460e8ea7ec5400523d90b6cbeb1e7a3c376200d2f65e9de13eed063a19aa"
+}

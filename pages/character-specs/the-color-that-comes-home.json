@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-color-that-comes-home",
+  "title": "The Last Color Through",
+  "source": "stories/the-color-that-comes-home/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Nerith and Bozren are the two sustained individualized rival treasure-hunters whose choices resolve the story.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Living color currents",
+      "reason": "Living agency explicitly preserved; multicolor migratory ensemble supplies local crossing behavior, no separate enduring individualized main-cast personality. Not recast as a humanoid magician or inert device."
+    },
+    {
+      "name": "Ocean swimmers, shell creatures, small forest flyer and flame herd",
+      "reason": "Brief encountered creatures, no sustained individualized character."
+    },
+    {
+      "name": "Map seller, merchants, Bozren's mother, remembered queen",
+      "reason": "Remembered or offstage incidental roles."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic"
+  ],
+  "sourcePromptReferenceInventory": [
+    {
+      "displayName": "codex-clipboard-786ccc56-51cb-436b-a912-d5a6ac0a16b0.png",
+      "status": "resolved-and-visually-inspected",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-786ccc56-51cb-436b-a912-d5a6ac0a16b0.png",
+      "sha256": "0160e5b5f2c68d1e4e9e38165432ab8bee404702346da5b55d34486e9e9e55e4",
+      "inspected": true,
+      "recoveryProvenance": "Exact original user input_image PNG bytes, line9 C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-13T16-57-07-01a09c8f-3acd-7553-9510-602584f10b14.jsonl"
+    }
+  ],
+  "referenceConflicts": [
+    "Original and cover show blackthreshold/rainbow branching geometry, no human identity; finalsource controls quarry/evening and independent livingcurrents. Only restrained reflectedcolor informs character sheets.",
+    "No claim that human treasure-hunters generate the colored routes or can reopen departed routes; different destinationlight is external.",
+    "No physical description beyond clothing/tools/adult role; face/body design choices are art-only."
+  ],
+  "characters": [
+    {
+      "id": "nerith",
+      "name": "Nerith",
+      "role": "Treasure-hunter who relinquishes Bozren's choice and chooses the violet shell-world.",
+      "selectionEvidence": [
+        {
+          "quote": "Nerith had brought six kinds of pick",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "the red cuff of her coat",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "She tucked her knees up and watched where she was going to fall.",
+          "explanation": "Finished source evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary twoarms/twolegs/fivefinger humanwoman",
+        "lifeStage": "Adult; exactage unspecified",
+        "proportions": "Unspecified",
+        "markings": "Slight heat singeing of eyebrow/wrist hairs possible but no majorburn stated",
+        "materials": "Woolcoat/leatherboots,pack,glassjar,metalpicks",
+        "clothing": "Coat with RED wool cuff, boots, pack, beltwaterskin",
+        "equipment": "Six kinds of pick, collectingglassjar, map, spare shirt/figs withinpack, waterskin",
+        "scale": "Humanadult unchanged",
+        "movement": "Agile crouch/standing; final ordinarystride carries her too high in lowgravity then kneestucked",
+        "distinctiveFeatures": "Sourcefemale treasure-hunter, not magicalcolor controller"
+      },
+      "explicitCanon": [
+        "Red wool coat cuff; pack, picks, glass collectingjar, waterskin and boots.",
+        "Wetboots after ocean, eyebrows remain after brief heat; no seriousscar.",
+        "Violet lowgravity movement alterstrajectory, not physicalsize or magicalability."
+      ],
+      "visualInterpretation": [
+        "Art-only age34, mediumdeepbrownskin, longangularface/highcheekplanes, broad slightlyconvex nose, darkbrown eyes, black narrowbraids coiled low at nape; leanwirybuild.",
+        "Mutedred wool coat, dullolive trousers, scuffedtan boots, brownbeltwaterskin/pack; samecostume in bothstates.",
+        "Sixpicks stored in closedleatherroll, only thinnestheld atarrival; avoidfloating coloredpowers."
+      ],
+      "states": [
+        {
+          "name": "At the threshold",
+          "description": "Completefront threequarter standing body withpack, thinnestpick and closedroll; dim blueevening."
+        },
+        {
+          "name": "Violet crossing",
+          "description": "Complete body in lowgravity tuckedknees/twistingposture with samepack/waterskin, diffuse violetdaylight only; no environment."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-color-that-comes-home:nerith",
+        "links": [],
+        "evidence": "No corresponding shared-universe entry or recurringidentity evidence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-786ccc56-51cb-436b-a912-d5a6ac0a16b0.png",
+          "role": "Original restrained reflected color language only, no neonroom/door or borrowedcast",
+          "notes": "Inspected: blackdoor surrounded by branching luminous rainbow geometry, no figures.",
+          "sha256": "0160e5b5f2c68d1e4e9e38165432ab8bee404702346da5b55d34486e9e9e55e4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/title-image.jpg",
+          "role": "Subordinate reflected color, no identity evidence",
+          "notes": "Inspected blackportal/rainbow cover, no humans.",
+          "sha256": "f02b20e523f88d7a9a4a4c47b407b95aacf0800aff790cbd0e8acec69954c2f2",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
+          "role": "Pale lavender destination light and broad oil painting",
+          "notes": "No dunes, shells or terrain may enter sheet.",
+          "sha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/art/landscapes/04-a-forest-upon-a-tree.png",
+          "role": "Diffuse green-filtered destination light and broad oil painting",
+          "notes": "No tree/scene may enter sheet.",
+          "sha256": "b8cb04354edf08b7a73d2504501ef07366355d1af8b0b0c4072c007f0e586d5a",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Nerith"
+      },
+      "output": "stories/the-color-that-comes-home/art/characters/nerith.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit this Nerith folio ONLY the lighting on characters. KEEP all text, identity, anatomy, poses, gear, brushwork and WARM IVORY background exact. Do not apply global color cast to paper.\nLEFT standing body \"At the threshold\" is in LATE BLUE EVENING in a quarry: make 75percent of face/neck/hands/redcoat/olivepants/boots/pack large connected DARK COOL blue-violet-brown shadow. Significantly lower exposure on the whole LEFT FIGURE so no daytimegolden fill remains. Allow only a SMALL faint coloredreflection on redcuff and onecheekplane; no glows or rimlight. Still readable deepbrownskin, no loss ofpaint.\nCENTER airborne \"Violet crossing\" is separately under diffuse PALE LAVENDER daylight: replace golden face/hand highlights with subdued lavender-gray reflectedlight and broader coolmauve shadows. Human deepbrownskin remains. No saturatedpurple dye, no firelight.\nRIGHT headstudy and hand/jar study use the same DIM evening as left with moderate small reflection on jar rim, no highgolden cheekshine. Oil faces remain broad matte paint. Exact unchanged completefigures/gear/jar/labels, no other edits, no scene/ground/swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:29:49.231729+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape CHARACTER ONLY reference folio, warm ivory. Exact headings \"Nerith\" and \"The Last Color Through\". ONE ordinary adult humanwoman treasure-hunter age34, wiryleanbuild, medium DEEP BROWN skin, LONG ANGULAR FACE with HIGH CHEEK planes, broad slightlyconvexnose, darkbrown eyes, BLACK smallnarrowbraids coiled in a low NAPE BUN, sharp amused intelligence. Same distinct identity in every view. Practical muted DARK RED WOOL COAT with matching redcuffs, DULL OLIVE trousers, scuffed TAN ankleboots, brownbelt with leatherWATERSKIN, browncanvastravelpack.\nLEFT: complete unclipped standing frontthreequarter \"At the threshold\", holds ONE THIN METAL LOCKPICK in right hand, small CLOSED leatherpickroll in left. Packworn, waterskinbelt. She brought6kindsofpick storedinsideroll, do notshow6looseobjects. No magicalpower. Eveningblue quarrylight: keep thisfigure dark with large connected coolshadowplanes and only small faint coloredreflections onredcuff/cheek, no luminous aura.\nCENTER: complete dynamic side/rear-threequarter samewoman, label \"Violet crossing\": BOTH KNEES TUCKED UP, feet hovering in a lowgravity tumbling posture; torso twists to lookback, ordinary twoarms/twolegs/fivefingers, ALLlimbs/hair/pack insideframe. Samehumanadultscale, samecostume/pack/closedroll tuckedaway, waterskin higheronbelt, bothhands free. No wing/flightspell/glow. Light in thisstate is PALE DIFFUSE LAVENDER daylight as image3, grounded matte connected skinshadow, not quarrynight and not saturated purplewholebody.\nRIGHT: one expressive head \"Considering\", sameangularface/braidbun, and small hands holding plain EMPTY clear collectingJAR, label \"Empty collecting jar\". Jar has no capturedcolor, no contents. No inventedeyebrowburnscar, no injury, no tattoos/weapons/armor.\nPaint every form INCLUDING FACE and hands in very BROAD connected opaque matte OIL masses, Canadian Group of Seven deliberatebristle/knife rhythm, selectiveimpasto and quietpassages. Simplify faces decisively; no smoothphotohead, tinyglossyhighlights, CGI, anime or uniformlybrightpaintchips. Image1 only actualpaintscale/layout, noidentity/robot/colortransfer. Image2 onlyrestrained reflectedcolor, no portalgeometry or specialpower. Purewarmivory allaround, NO ground/shadowsunderfeet/rocks/shells/landscape/room/door/palette/swatches/othercharacters. Exacttext, completeforms, clearspacing.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "broad opaque oil mark scale, matte forms and folio only; no robot design/color",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-786ccc56-51cb-436b-a912-d5a6ac0a16b0.png",
+                "role": "original local reflected-color vocabulary only, no door/scenery or neon glass rendering",
+                "sha256": "0160e5b5f2c68d1e4e9e38165432ab8bee404702346da5b55d34486e9e9e55e4",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
+                "role": "primary violet destination pale diffuse lavender light and largeoil rhythms; no scenery",
+                "sha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-ccd97cc8-eff5-49af-bc11-4438ab9e80a8.png",
+            "outputSha256": "c84486c820acbdf52f37e05fd2bf814454b2c48c71a4913a2536ebade3ec2c7b",
+            "reviewFindings": [
+              "Both states share golden fill. Source evening threshold requires dim coolblue shadow; violetcrossing needs distinct pale lavender externaldaylight. Identity/form/gear good."
+            ],
+            "completedAt": "2026-09-24T06:32:55.790445+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:32:56.717182+00:00",
+            "prompt": "Edit this Nerith folio ONLY the lighting on characters. KEEP all text, identity, anatomy, poses, gear, brushwork and WARM IVORY background exact. Do not apply global color cast to paper.\nLEFT standing body \"At the threshold\" is in LATE BLUE EVENING in a quarry: make 75percent of face/neck/hands/redcoat/olivepants/boots/pack large connected DARK COOL blue-violet-brown shadow. Significantly lower exposure on the whole LEFT FIGURE so no daytimegolden fill remains. Allow only a SMALL faint coloredreflection on redcuff and onecheekplane; no glows or rimlight. Still readable deepbrownskin, no loss ofpaint.\nCENTER airborne \"Violet crossing\" is separately under diffuse PALE LAVENDER daylight: replace golden face/hand highlights with subdued lavender-gray reflectedlight and broader coolmauve shadows. Human deepbrownskin remains. No saturatedpurple dye, no firelight.\nRIGHT headstudy and hand/jar study use the same DIM evening as left with moderate small reflection on jar rim, no highgolden cheekshine. Oil faces remain broad matte paint. Exact unchanged completefigures/gear/jar/labels, no other edits, no scene/ground/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-ccd97cc8-eff5-49af-bc11-4438ab9e80a8.png",
+                "role": "immutable edit target, identity/form/layout/gear/paint exact preserved",
+                "sha256": "c84486c820acbdf52f37e05fd2bf814454b2c48c71a4913a2536ebade3ec2c7b",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-e6b5e875-ccdd-4cad-a7c0-77a53c937de8.png",
+            "outputSha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:36:15.895246+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-ccd97cc8-eff5-49af-bc11-4438ab9e80a8.png",
+            "role": "immutable edit target, identity/form/layout/gear/paint exact preserved",
+            "sha256": "c84486c820acbdf52f37e05fd2bf814454b2c48c71a4913a2536ebade3ec2c7b",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:36:15.895246+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+        "sourceSha256": "f99a1d28a38de5ec15eb443e1ec5969a65025699918eafc0c6cc416b1cb95895",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-ccd97cc8-eff5-49af-bc11-4438ab9e80a8.png",
+            "role": "immutable edit target, identity/form/layout/gear/paint exact preserved",
+            "sha256": "c84486c820acbdf52f37e05fd2bf814454b2c48c71a4913a2536ebade3ec2c7b",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual1536x1024: Nerith/title exact; complete standing and tucked-knee lowgravity humanforms, sameadultface/braidbun/body/clothes/pack without magicalflying apparatus.",
+          "Source redwoolcuffs, boots, pack, thinnestpick and closedtoolroll, waterskin and emptyclearjar visible; no capturedcolor ormajorburninvented.",
+          "After lightingrepair threshold/head/jar use darkcool evening, violetcrossing separate pale diffuse lavenderdaylight; warmivory unchanged.",
+          "Bold matte connected oilfaces/hands/cloth, completeunclippedforms, no terrain/scenery/door/shells/swatches."
+        ],
+        "specificationSha256": "f2822ac0157188f627c123ab7177615cb8aa42715ce4276da5abbcc6ac6870a1"
+      },
+      "lighting": "At threshold: deep coolblue evening with small local color reflections. Violet crossing: pale diffuse lavender destination daylight, modest connected shadows.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61"
+    },
+    {
+      "id": "bozren",
+      "name": "Bozren",
+      "role": "Rival treasure-hunter who independently chooses the giant forest.",
+      "selectionEvidence": [
+        {
+          "quote": "the canvas patched with pieces of older packs",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "A tin cooking cup swung from its side.",
+          "explanation": "Finished source evidence"
+        },
+        {
+          "quote": "I'm taking the rope to climb.",
+          "explanation": "Finished source evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary twoarms/twolegs/fivefinger humanman",
+        "lifeStage": "Adult; exactage unspecified",
+        "proportions": "Unspecified",
+        "markings": "No lastingmark stated",
+        "materials": "Patched canvaspack, tincup, climbingcord, bedroll, gloves, boots",
+        "clothing": "Collar/clothes, belt, boots/gloves; exactcolors unspecified",
+        "equipment": "Old multiplypatchedpack, sidehungtin cookingcup, climbingcord freedfrombedroll, foldedmap",
+        "scale": "Humanadult unchanged",
+        "movement": "Sure curious balance, finalwave thenclumsy packweighted run",
+        "distinctiveFeatures": "Face looks younger in colorlight through excitement, no age-changingmagic"
+      },
+      "explicitCanon": [
+        "Longcarriedpatched canvaspack, tincup and climbingcord/bedroll; weeks ofprovisions.",
+        "Pulls ongloves beforefinalgreen departure, pollenbrushednose; boots carrygreensap.",
+        "No promiseofreturn and no rope anchoredacrossportal."
+      ],
+      "visualInterpretation": [
+        "Art-only age43, fairreddishskin, longnarrowface/longconvexnose, sandybrown short hair graying attemples, shortbrownbeard, hazeleyes; broadshoulders longlimbs.",
+        "Mutedochre travelingjacket/creamshirt, darkbrowntrousers, wornbrownboots; brownwoolgloves later.",
+        "Graybrownpack with4irregularpatches, graybedroll lashedhorizontally on top, plain tincup on anatomicalRIGHT side, coiled climbingcord attachedanatomicalLEFT."
+      ],
+      "states": [
+        {
+          "name": "Before choosing",
+          "description": "Frontthreequarter withpack,map and barehands; dim quarryblueevening."
+        },
+        {
+          "name": "Green departure",
+          "description": "Rearthreequarter withgloves, samepack/cup/rope, raisedfarewellhand; diffusegreenforest reflectedlight, no forest."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-color-that-comes-home:bozren",
+        "links": [],
+        "evidence": "No corresponding shared-universe entry or recurringidentity evidence."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-786ccc56-51cb-436b-a912-d5a6ac0a16b0.png",
+          "role": "Original restrained reflected color language only, no neonroom/door or borrowedcast",
+          "notes": "Inspected: blackdoor surrounded by branching luminous rainbow geometry, no figures.",
+          "sha256": "0160e5b5f2c68d1e4e9e38165432ab8bee404702346da5b55d34486e9e9e55e4",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/title-image.jpg",
+          "role": "Subordinate reflected color, no identity evidence",
+          "notes": "Inspected blackportal/rainbow cover, no humans.",
+          "sha256": "f02b20e523f88d7a9a4a4c47b407b95aacf0800aff790cbd0e8acec69954c2f2",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
+          "role": "Pale lavender destination light and broad oil painting",
+          "notes": "No dunes, shells or terrain may enter sheet.",
+          "sha256": "4aafc0df38accda6fa8a230f253899fc8e922728515f5a2333acbb350bdc4407",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-color-that-comes-home/art/landscapes/04-a-forest-upon-a-tree.png",
+          "role": "Diffuse green-filtered destination light and broad oil painting",
+          "notes": "No tree/scene may enter sheet.",
+          "sha256": "b8cb04354edf08b7a73d2504501ef07366355d1af8b0b0c4072c007f0e586d5a",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Bozren"
+      },
+      "output": "stories/the-color-that-comes-home/art/characters/bozren.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE 1536x1024 warm ivory landscape characterreference sheet. Exact heading \"Bozren\", subtitle \"The Last Color Through\". ONE ordinary adult HUMAN MAN age43, FAIR REDDISH skin, long NARROW FACE, LONG CONVEX NOSE, sandy BROWN SHORT HAIR graying justattemples, SHORT BROWN BEARD, hazel eyes; broadshoulders and longlimbs. Not Nerith's face/hair/skin or femininefeatures. Same distinctman in allviews. Muted OCHRE travelingjacket over plaincreamshirt, darkbrowntrousers, brownwornankleboots, simplebrown belt. OLD CANVAS PACK patched with FOUR irregular differentgraybrown pieces, grayBEDROLL horizontalontop, plainTIN COOKING CUP hung on his ANATOMICAL RIGHT packside, coil of ordinaryCLIMBING CORD on his ANATOMICAL LEFT packside. Consistentgeometry in everyview.\nLEFT completefrontthreequarter \"Before choosing\", barehands, holds foldedpaperMAP onehand, packworn. Face andmostclothes under DARK COOLBLUE EVENING like image1 LEFTfigure; only smallsubdueddiffuse reflections, no sunnygoldenalloverfill.\nCENTER complete BACK-threequarter \"Green departure\", samebody turned lookingover his RIGHTshoulder and raising RIGHT glovedhand infarewell. BrownWOOL GLOVES now onbothhands. Clearwholepack including rightTIN CUP at viewerRIGHT and leftCORD at viewerLEFT, bothfeet complete, slightpackweightedforwardlean. Sameclothes, muddygreensap onsoles as smallmattegreenmarks, NOT growingplants. Here diffuse GREENFILTERED forest daylight image2: subtle warmerlight ontopplanes, broad coolgreenshadow, no glow orrimlight, no forestvisible.\nRIGHT two samefaceheadstudies \"Eager\" and \"Remembering\", restrained amusement and vulnerablethought, no bigcaricature. Below one small sideview of PACK ONLY showing patchwork, bedroll, cord andcup in correctpositions, label \"Old pack\". No extrasupplies arrangedonfloor. Rope belongs toclimbing, never extends offsheet or ties toportal.\nMatchimage1 large rhythmical OPAQUE OIL masses on face andhands as strongly asclothes, matte directionalbristle/knife paint, CanadianGroupofSeven, selectiveimpasto, connectedquietshadow. No glossy CGI/photo/animehead, no evenlybeveledtinychips. Clearwarmivory ground, no locations/door/forest/branch/terrain/groundpatches/castgroundshadows/swatches/palette/otherpeople. Allcrown/hands/boots unclipped, exactlegibletext.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:36:16.845592+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 warm ivory landscape characterreference sheet. Exact heading \"Bozren\", subtitle \"The Last Color Through\". ONE ordinary adult HUMAN MAN age43, FAIR REDDISH skin, long NARROW FACE, LONG CONVEX NOSE, sandy BROWN SHORT HAIR graying justattemples, SHORT BROWN BEARD, hazel eyes; broadshoulders and longlimbs. Not Nerith's face/hair/skin or femininefeatures. Same distinctman in allviews. Muted OCHRE travelingjacket over plaincreamshirt, darkbrowntrousers, brownwornankleboots, simplebrown belt. OLD CANVAS PACK patched with FOUR irregular differentgraybrown pieces, grayBEDROLL horizontalontop, plainTIN COOKING CUP hung on his ANATOMICAL RIGHT packside, coil of ordinaryCLIMBING CORD on his ANATOMICAL LEFT packside. Consistentgeometry in everyview.\nLEFT completefrontthreequarter \"Before choosing\", barehands, holds foldedpaperMAP onehand, packworn. Face andmostclothes under DARK COOLBLUE EVENING like image1 LEFTfigure; only smallsubdueddiffuse reflections, no sunnygoldenalloverfill.\nCENTER complete BACK-threequarter \"Green departure\", samebody turned lookingover his RIGHTshoulder and raising RIGHT glovedhand infarewell. BrownWOOL GLOVES now onbothhands. Clearwholepack including rightTIN CUP at viewerRIGHT and leftCORD at viewerLEFT, bothfeet complete, slightpackweightedforwardlean. Sameclothes, muddygreensap onsoles as smallmattegreenmarks, NOT growingplants. Here diffuse GREENFILTERED forest daylight image2: subtle warmerlight ontopplanes, broad coolgreenshadow, no glow orrimlight, no forestvisible.\nRIGHT two samefaceheadstudies \"Eager\" and \"Remembering\", restrained amusement and vulnerablethought, no bigcaricature. Below one small sideview of PACK ONLY showing patchwork, bedroll, cord andcup in correctpositions, label \"Old pack\". No extrasupplies arrangedonfloor. Rope belongs toclimbing, never extends offsheet or ties toportal.\nMatchimage1 large rhythmical OPAQUE OIL masses on face andhands as strongly asclothes, matte directionalbristle/knife paint, CanadianGroupofSeven, selectiveimpasto, connectedquietshadow. No glossy CGI/photo/animehead, no evenlybeveledtinychips. Clearwarmivory ground, no locations/door/forest/branch/terrain/groundpatches/castgroundshadows/swatches/palette/otherpeople. Allcrown/hands/boots unclipped, exactlegibletext.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/characters/nerith.png",
+                "role": "primary same-story broad matte oil and separate dimthreshold vs destinationlight; no femaleidentity/colors/geartransfer",
+                "sha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/landscapes/04-a-forest-upon-a-tree.png",
+                "role": "Diffuse greenfiltered forest light and broadpaint only; no location",
+                "sha256": "b8cb04354edf08b7a73d2504501ef07366355d1af8b0b0c4072c007f0e586d5a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-02b729da-65e5-438f-8ffe-1f57e19cadc9.png",
+            "outputSha256": "7cd7c724316b2020952c192f09bfe815bc52e1c340d7606cf31c888a28bf4f64",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:39:43.007072+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/characters/nerith.png",
+            "role": "primary same-story broad matte oil and separate dimthreshold vs destinationlight; no femaleidentity/colors/geartransfer",
+            "sha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/landscapes/04-a-forest-upon-a-tree.png",
+            "role": "Diffuse greenfiltered forest light and broadpaint only; no location",
+            "sha256": "b8cb04354edf08b7a73d2504501ef07366355d1af8b0b0c4072c007f0e586d5a",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:39:43.007072+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "7cd7c724316b2020952c192f09bfe815bc52e1c340d7606cf31c888a28bf4f64",
+        "sourceSha256": "f99a1d28a38de5ec15eb443e1ec5969a65025699918eafc0c6cc416b1cb95895",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/characters/nerith.png",
+            "role": "primary same-story broad matte oil and separate dimthreshold vs destinationlight; no femaleidentity/colors/geartransfer",
+            "sha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/landscapes/04-a-forest-upon-a-tree.png",
+            "role": "Diffuse greenfiltered forest light and broadpaint only; no location",
+            "sha256": "b8cb04354edf08b7a73d2504501ef07366355d1af8b0b0c4072c007f0e586d5a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actualpixels show clear exactBozren/title, sameadultlongnosed sandygraying beardedman in twofullfigures/twoheads, completeboots/hands including finalglovedfarewell.",
+          "Patchedoldcanvaspack, bedroll and metalcookingcup consistent; cup anatomicalRIGHT frontviewerLEFT/rearviewerRIGHT, coiledcord anatomicalLEFT and no anchoredrope.",
+          "Barehands/map first, brownwoolgloves/greensap soles final; packing and warmochreclothes ordinary equipment without addedmagic/armor.",
+          "Beforechoosing subduedcoolerthan departure, broadopaque matteoil face/hair/hands/clothes, warmivory characteronly background, noforest/ground/swatches."
+        ],
+        "specificationSha256": "846a7de17da826317c2c8b3b7edc2b213b319ac31d7f6d9b82e68ba13a0e7d14"
+      },
+      "lighting": "Beforechoosing dark coolblue evening; green departure diffuse forest green reflecteddaylight, deep connectedshadow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "7cd7c724316b2020952c192f09bfe815bc52e1c340d7606cf31c888a28bf4f64"
+    }
+  ],
+  "sourceSha256": "f99a1d28a38de5ec15eb443e1ec5969a65025699918eafc0c6cc416b1cb95895"
+}

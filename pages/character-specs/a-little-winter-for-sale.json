@@ -1,0 +1,662 @@
+{
+  "schemaVersion": 1,
+  "slug": "a-little-winter-for-sale",
+  "title": "A Little Winter for Sale",
+  "source": "stories/a-little-winter-for-sale/05-story.md",
+  "sourceSha256": "59c6a57fb2445c7eb0a3d2d00894591286e55f062a587302e7fbb919ca4d3b71",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Tair, Yara and Urumet sustain the arrival, emergency, repair negotiation and paid northbound resolution. Each makes independent consequential decisions.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Thin clerk",
+      "reason": "Peripheral invoice/operator exchanges introduce Urumet’s work; departs before the central three-way decision and repair, with no sustained independent arc."
+    },
+    {
+      "name": "Workers, child, residents and clearing crews",
+      "reason": "Incidental community labor or offstage stakes, not individualized substantial roles."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Tair Ked",
+    "universe/characters.md#Urumet",
+    "universe/characters.md#Yara Mesk",
+    "universe/rules.md#Qarsis mixed waterworks",
+    "universe/rules.md#Urumet's bounded cold work",
+    "universe/factions.md#Qarsis civic water and fair-pay practice",
+    "universe/locations.md#Qarsis",
+    "universe/locations.md#The Coldmouth",
+    "universe/glossary.md#Glasswind"
+  ],
+  "characters": [
+    {
+      "id": "tair-ked",
+      "name": "Tair Ked",
+      "role": "First-person protagonist, route surveyor whose instrument enables the repair",
+      "naming": {
+        "sourceName": "Tair Ked",
+        "provenance": "Exact source personal name, matches named CANON universe entry."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Tair Ked, route surveyor",
+          "line": 27,
+          "explanation": "Named narrator and primary emotional arc."
+        },
+        {
+          "quote": "I agree.",
+          "line": 411,
+          "explanation": "Consents to compensated sale driving repair."
+        }
+      ],
+      "form": "human adult man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "lifeStage": "Experienced working adult, precise age unspecified",
+        "proportions": "Natural adult proportions",
+        "markings": "None specified",
+        "materials": "Skin, hair, practical cloth and leather; personal brass/silver or bookkeeping gear",
+        "clothing": "Sleeved travel clothing; desert protection otherwise unspecified",
+        "equipment": "Map, leather water skin, sunwheel with brass rim/silver heart and five years of engraved bearings, route book, purse; later empty sunwheel rim and wax-cloth letter",
+        "scale": "Human scale",
+        "movement": "Heat-weary desert walk, precise handling of surveying tool and signatures",
+        "distinctiveFeatures": "Sunwheel before and after bimetal heart removal are separate states"
+      },
+      "explicitCanon": [
+        "CANON universe identity Tair Ked, solitary route surveyor, five-year sunwheel sold for regulator repair; receives paid northbound commission.",
+        "Universe Yara Mesk entry uses he/his for Tair; no source physical age, ethnicity or facial specifics.",
+        "Sunwheel inner heart is removed and cannot take accurate bearings thereafter; later departing figure must carry empty ring, not working replacement."
+      ],
+      "visualInterpretation": [
+        "Lean sun-weathered man in his late thirties, olive-brown skin, shaved scalp, short dark beard and long narrow face; restrained art choices distinct from Kelro.",
+        "Sand linen travel layers, muted slate sash, tan wrapped scarf, brown trousers/boots and leather document satchel; no weapons.",
+        "Three full-body views are arrival state with intact instrument; isolated before/after instrument pair labelled. Broad desert daylight with cool slate shadows, no scenery."
+      ],
+      "states": [
+        {
+          "name": "Arrival",
+          "description": "Intact brass-and-silver sunwheel, heat tired, dust-covered travel clothes."
+        },
+        {
+          "name": "After sale",
+          "description": "Empty engraved brass ring in case, letter wrapped in waxed cloth, no new precision survey until replacement arrives."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-little-winter-for-sale:tair-ked",
+        "links": [],
+        "evidence": "Universe explicitly records this source identity; no other-story recurrence established."
+      },
+      "references": [
+        {
+          "path": "stories/a-little-winter-for-sale/title-image.jpg",
+          "role": "Existing sunwheel geometry only",
+          "inspected": true,
+          "notes": "No character portrait. Brass sunwheel ring with engraved bearings and removed silver-backed bimetal center; compatible equipment interpretation.",
+          "sha256": "7518ae711b88600600fd2cc86c01ba27a51f9558efd93d703e54278c25f26f51"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+          "role": "Same-story cool slate/copper paint and filtered cave light only",
+          "inspected": true,
+          "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+          "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+          "role": "Same-story muted desert daylight palette only",
+          "inspected": true,
+          "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+          "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Dragon oil treatment and folio arrangement only, never anatomy or identity",
+          "inspected": true,
+          "notes": "Broad connected painted creature forms, matte scale masses and wide folio; Urumet has its own slate-blue anatomy.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Fully painted faces and cloth, three unclipped character views.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/a-little-winter-for-sale/art/characters/tair-ked.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Make only this source-fidelity correction to the exact Tair Ked 1536x1024 oil folio. Bottom right wax-cloth wrapped letter currently has a large ROUND RED WAX MEDALLION. Remove that red medallion completely. Replace it with a SMALL PLAIN BLUE WAX CRESCENT made by one dragon clawtip, not a circular grand seal, no heraldic stamp, insignia or red anywhere on the seal. Keep the waxed cloth wrapper and its string. Also make the two brass sunwheel equipment diagrams share the broad opaque oil surface of the rest, reducing sharp machined photographic engraving shine while retaining all geometry and before/after empty-center difference. Preserve all three body views, faces, scalp/beard identity, clothing, muted daylight, text, spacing and paint. No scenery, floor or swatches. Do not add new gear or alter the character.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-bf2ec49d-b276-4df4-9a5d-bae32e90a162.png",
+            "sha256": "c1cb02d2b353df6ef75a903fd932d1b8e17efe7a0d865f62119af6b6e095686d",
+            "inspected": true,
+            "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:39:41.1841687Z",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on quiet warm ivory. Three useful isolated views, head/features and personal gear, clean gaps and uncropped silhouettes. Clear elegant readable dark serif character name and smaller exact story title 'A Little Winter for Sale'. Absolutely NO location, landscape, scenery, room, vignette, floor, ground patch, backdrop field, palette strip or paint swatches. Canadian Group of Seven-inspired oil character painting: broad connected color/value masses, confident sweeping bristle strokes and occasional thick palette-knife ridges, quieter connecting areas. Faces, hair, hands and all materials built of the SAME bold matte paint, no photoreal portrait insets, anime, glossy CGI, plastic, uniformly beveled shards or fake surface texture. First reference provides PAINT and layout only: do not borrow identity, clothing, anatomy or light preset. The other refs provide story palette/light or specific personal equipment only, never a location. Make a visually DISTINCT individual, same face/body proportions through all own views.\nHeading 'Tair Ked'. One lean adult male route surveyor around late thirties, olive-brown skin, SHAVED SCALP, short dark beard, long narrow face and dark eyes. Do not copy Kelro's hair, face, coat, build or gear. Desert travel costume: loose sand linen long-sleeve tunic, muted slate sash, tan scarf wound lightly around neck, plain brown trousers, worn brown boots, simple leather document satchel. No weapons or armor. Front three-quarter, side and rear full-body views on left two-thirds, same arrival state, carrying small leather water skin and route book; intact palm-sized brass sunwheel with silver center can be held in one hand. Right two painted head expressions 'Wary' and 'Resolved', scalp and beard consistent. Bottom/right isolated equipment pair: same palm-sized circular sunwheel BEFORE with silver center/needle and fine engraved brass rings, AFTER with center removed leaving a completely empty circular hole through the engraved brass rings; label 'Before sale' and 'After sale'. Third reference guides brass engraved ring after core removed, rendered as bold paint not photoreal metal. Small closed route book, folded paper map, and wax-cloth wrapped letter as isolated personal gear. No precise readable map or ledger text needed. Broad muted cream/ochre daylight on exposed skin and cloth with connected cool slate shadows, no uniform orange rim. All cloth matte and dust-worn.",
+            "references": [
+              {
+                "path": "stories/a-little-winter-for-sale/title-image.jpg",
+                "role": "Existing sunwheel geometry only",
+                "inspected": true,
+                "notes": "No character portrait. Brass sunwheel ring with engraved bearings and removed silver-backed bimetal center; compatible equipment interpretation.",
+                "sha256": "7518ae711b88600600fd2cc86c01ba27a51f9558efd93d703e54278c25f26f51"
+              },
+              {
+                "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+                "role": "Same-story muted desert daylight palette only",
+                "inspected": true,
+                "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+                "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Human paint technique and folio only, never identity or clothing",
+                "inspected": true,
+                "notes": "Fully painted faces and cloth, three unclipped character views.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-bf2ec49d-b276-4df4-9a5d-bae32e90a162.png",
+            "outputSha256": "c1cb02d2b353df6ef75a903fd932d1b8e17efe7a0d865f62119af6b6e095686d"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:51:03.7282894Z",
+            "prompt": "Make only this source-fidelity correction to the exact Tair Ked 1536x1024 oil folio. Bottom right wax-cloth wrapped letter currently has a large ROUND RED WAX MEDALLION. Remove that red medallion completely. Replace it with a SMALL PLAIN BLUE WAX CRESCENT made by one dragon clawtip, not a circular grand seal, no heraldic stamp, insignia or red anywhere on the seal. Keep the waxed cloth wrapper and its string. Also make the two brass sunwheel equipment diagrams share the broad opaque oil surface of the rest, reducing sharp machined photographic engraving shine while retaining all geometry and before/after empty-center difference. Preserve all three body views, faces, scalp/beard identity, clothing, muted daylight, text, spacing and paint. No scenery, floor or swatches. Do not add new gear or alter the character.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-bf2ec49d-b276-4df4-9a5d-bae32e90a162.png",
+                "sha256": "c1cb02d2b353df6ef75a903fd932d1b8e17efe7a0d865f62119af6b6e095686d",
+                "inspected": true,
+                "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-4256414c-b111-4310-bced-86eb704920d6.png",
+            "savedPath": "stories/a-little-winter-for-sale/art/characters/tair-ked.png",
+            "outputSha256": "f063bc9f696ce13bdd818c5cbd550950383a4f4684c92c43ae291403f800d351",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:55:09.741621+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T21:55:09.741642+00:00",
+        "sourceSha256": "59c6a57fb2445c7eb0a3d2d00894591286e55f062a587302e7fbb919ca4d3b71",
+        "outputSha256": "f063bc9f696ce13bdd818c5cbd550950383a4f4684c92c43ae291403f800d351",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-bf2ec49d-b276-4df4-9a5d-bae32e90a162.png",
+            "sha256": "c1cb02d2b353df6ef75a903fd932d1b8e17efe7a0d865f62119af6b6e095686d",
+            "inspected": true,
+            "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: exact name/title, three unclipped form views, consistent identity and clear studies. No location, floor, ground patch, palette or swatches.",
+          "Broad matte oil form remains across faces/scales/cloth/gear with source-specific muted daylight or filtered cool light; no photographic face or plastic gloss.",
+          "Distinct shaved scalp, short beard, narrow face consistent in all views. Practical surveyor travel clothes, sunwheel intact versus empty-center diagrams, map and route book.",
+          "Incorrect red grand seal repaired to small blue crescent on wax-cloth letter; instrument finish reduced while preserving geometry."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "09acfe51f23c58c2e6fdc4cba691af5e0afb4294ae4efa6d4ed7fa2857f3029e"
+      },
+      "outputSha256": "f063bc9f696ce13bdd818c5cbd550950383a4f4684c92c43ae291403f800d351"
+    },
+    {
+      "id": "yara-mesk",
+      "name": "Yara Mesk",
+      "role": "Co-lead civic waterkeeper and skilled regulator repairer",
+      "naming": {
+        "sourceName": "Yara Mesk",
+        "provenance": "Exact source personal name, matches named CANON universe entry."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Yara Mesk",
+          "line": 73,
+          "explanation": "Names waterkeeper who receives and guides narrator."
+        },
+        {
+          "quote": "Yara filed the new tongue, riveted it into the buckled frame",
+          "line": 427,
+          "explanation": "Performs central practical repair."
+        }
+      ],
+      "form": "human adult woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms and two legs",
+        "lifeStage": "Experienced working adult, precise age unspecified",
+        "proportions": "Natural adult proportions",
+        "markings": "None specified",
+        "materials": "Skin, hair, practical cloth and leather; personal brass/silver or bookkeeping gear",
+        "clothing": "Dust veil at gate; practical working clothes otherwise unspecified",
+        "equipment": "Clay cup/jar, narrow ledger, blue chalk, small saw and file; repair regulator is civic machine not body",
+        "scale": "Human scale",
+        "movement": "Calm ration measuring, precise filing and calibration",
+        "distinctiveFeatures": "Dust veil and businesslike patient expression; ordinary human craft, no magic effect"
+      },
+      "explicitCanon": [
+        "CANON Qarsis waterkeeper handling accounts, hospitality credit and consent-based repair.",
+        "Dust veil; clay cup and ledger; blue chalk; small saw/file for paired brass/silver regulator tongue.",
+        "No special magic or supernatural anatomy established."
+      ],
+      "visualInterpretation": [
+        "Woman around fifty, copper-brown skin, rounded cheekbones, broad nose, dark eyes, gray-black hair braided beneath plain light dust veil; restrained choices.",
+        "Plain muted indigo work dress/tunic over practical trousers, clay-brown apron, brown boots; practical sleeves, no royal clothes.",
+        "Three views in same work clothes, one face with dust veil lowered for identity, another veil raised; calm steady eyes. Subdued shaded desert daylight, broad warm/cool masses."
+      ],
+      "states": [
+        {
+          "name": "Gate work",
+          "description": "Dust veil and ledger/cup."
+        },
+        {
+          "name": "Repair",
+          "description": "Same practical woman with veil lowered and small hand tools; no magically active gear."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-little-winter-for-sale:yara-mesk",
+        "links": [],
+        "evidence": "Universe explicitly records this source identity; no other-story recurrence established."
+      },
+      "references": [
+        {
+          "path": "stories/a-little-winter-for-sale/title-image.jpg",
+          "role": "Existing sunwheel geometry only",
+          "inspected": true,
+          "notes": "No character portrait. Brass sunwheel ring with engraved bearings and removed silver-backed bimetal center; compatible equipment interpretation.",
+          "sha256": "7518ae711b88600600fd2cc86c01ba27a51f9558efd93d703e54278c25f26f51"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+          "role": "Same-story cool slate/copper paint and filtered cave light only",
+          "inspected": true,
+          "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+          "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+          "role": "Same-story muted desert daylight palette only",
+          "inspected": true,
+          "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+          "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Dragon oil treatment and folio arrangement only, never anatomy or identity",
+          "inspected": true,
+          "notes": "Broad connected painted creature forms, matte scale masses and wide folio; Urumet has its own slate-blue anatomy.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Fully painted faces and cloth, three unclipped character views.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/a-little-winter-for-sale/art/characters/yara-mesk.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on quiet warm ivory. Three useful isolated views, head/features and personal gear, clean gaps and uncropped silhouettes. Clear elegant readable dark serif character name and smaller exact story title 'A Little Winter for Sale'. Absolutely NO location, landscape, scenery, room, vignette, floor, ground patch, backdrop field, palette strip or paint swatches. Canadian Group of Seven-inspired oil character painting: broad connected color/value masses, confident sweeping bristle strokes and occasional thick palette-knife ridges, quieter connecting areas. Faces, hair, hands and all materials built of the SAME bold matte paint, no photoreal portrait insets, anime, glossy CGI, plastic, uniformly beveled shards or fake surface texture. First reference provides PAINT and layout only: do not borrow identity, clothing, anatomy or light preset. The other refs provide story palette/light or specific personal equipment only, never a location. Make a visually DISTINCT individual, same face/body proportions through all own views.\nHeading 'Yara Mesk'. One middle-aged woman around fifty, copper-brown skin, broad nose, ROUNDED mature face, dark eyes and gray-black hair braided beneath a plain ivory dust veil. Distinct from young Coris: wider older face, broad nose, heavier sturdy build, gray temples. Practical civic waterkeeper and skilled repairer, no fantasy royal outfit. Plain muted indigo work tunic over loose practical trousers, clay-brown apron, brown boots, sleeves to wrists folded back for work. Main three full-body views front, side, rear on left two-thirds wear identical clothes with same light headveil, face open so identity visible. She holds one slim ledger and a small ordinary clay drinking cup in the front view; natural hands and fingers. Right two expressive head studies, 'Patient' with dust veil drawn over nose and mouth, and 'Exacting' with veil lowered beneath chin showing mature face. Bottom/right isolated narrow ledger with simple blue-square mark, small BLUE chalk, simple clay cup, small hand saw and metal file. Tools are personal manual repair tools, no entire machine, plumbing or workbench. Restrained cool shaded desert daylight with modest warm bounce; no theatrical rim/gloss. Wool/linen broad folds, warm clay dull, iron file dark and readable, visible brush paint on faces.",
+        "references": [
+          {
+            "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+            "role": "Same-story cool slate/copper paint and filtered cave light only",
+            "inspected": true,
+            "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+            "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+          },
+          {
+            "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+            "role": "Same-story muted desert daylight palette only",
+            "inspected": true,
+            "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+            "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+          },
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Human paint technique and folio only, never identity or clothing",
+            "inspected": true,
+            "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:39:41.1897441Z",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on quiet warm ivory. Three useful isolated views, head/features and personal gear, clean gaps and uncropped silhouettes. Clear elegant readable dark serif character name and smaller exact story title 'A Little Winter for Sale'. Absolutely NO location, landscape, scenery, room, vignette, floor, ground patch, backdrop field, palette strip or paint swatches. Canadian Group of Seven-inspired oil character painting: broad connected color/value masses, confident sweeping bristle strokes and occasional thick palette-knife ridges, quieter connecting areas. Faces, hair, hands and all materials built of the SAME bold matte paint, no photoreal portrait insets, anime, glossy CGI, plastic, uniformly beveled shards or fake surface texture. First reference provides PAINT and layout only: do not borrow identity, clothing, anatomy or light preset. The other refs provide story palette/light or specific personal equipment only, never a location. Make a visually DISTINCT individual, same face/body proportions through all own views.\nHeading 'Yara Mesk'. One middle-aged woman around fifty, copper-brown skin, broad nose, ROUNDED mature face, dark eyes and gray-black hair braided beneath a plain ivory dust veil. Distinct from young Coris: wider older face, broad nose, heavier sturdy build, gray temples. Practical civic waterkeeper and skilled repairer, no fantasy royal outfit. Plain muted indigo work tunic over loose practical trousers, clay-brown apron, brown boots, sleeves to wrists folded back for work. Main three full-body views front, side, rear on left two-thirds wear identical clothes with same light headveil, face open so identity visible. She holds one slim ledger and a small ordinary clay drinking cup in the front view; natural hands and fingers. Right two expressive head studies, 'Patient' with dust veil drawn over nose and mouth, and 'Exacting' with veil lowered beneath chin showing mature face. Bottom/right isolated narrow ledger with simple blue-square mark, small BLUE chalk, simple clay cup, small hand saw and metal file. Tools are personal manual repair tools, no entire machine, plumbing or workbench. Restrained cool shaded desert daylight with modest warm bounce; no theatrical rim/gloss. Wool/linen broad folds, warm clay dull, iron file dark and readable, visible brush paint on faces.",
+            "references": [
+              {
+                "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+                "role": "Same-story cool slate/copper paint and filtered cave light only",
+                "inspected": true,
+                "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+                "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+              },
+              {
+                "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+                "role": "Same-story muted desert daylight palette only",
+                "inspected": true,
+                "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+                "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+              },
+              {
+                "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "Human paint technique and folio only, never identity or clothing",
+                "inspected": true,
+                "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3071ba80-b0be-4c6c-90a3-0f9a821a6919.png",
+            "savedPath": "stories/a-little-winter-for-sale/art/characters/yara-mesk.png",
+            "outputSha256": "60fb4c5dd612976f597276f10045cec85c01544bdd2fdd4a1fa8c86cc5a88302",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:55:09.753435+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T21:55:09.753457+00:00",
+        "sourceSha256": "59c6a57fb2445c7eb0a3d2d00894591286e55f062a587302e7fbb919ca4d3b71",
+        "outputSha256": "60fb4c5dd612976f597276f10045cec85c01544bdd2fdd4a1fa8c86cc5a88302",
+        "references": [
+          {
+            "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+            "role": "Same-story cool slate/copper paint and filtered cave light only",
+            "inspected": true,
+            "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+            "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+          },
+          {
+            "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+            "role": "Same-story muted desert daylight palette only",
+            "inspected": true,
+            "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+            "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+          },
+          {
+            "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "Human paint technique and folio only, never identity or clothing",
+            "inspected": true,
+            "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: exact name/title, three unclipped form views, consistent identity and clear studies. No location, floor, ground patch, palette or swatches.",
+          "Broad matte oil form remains across faces/scales/cloth/gear with source-specific muted daylight or filtered cool light; no photographic face or plastic gloss.",
+          "Older rounded face, gray braid and dust veil establish distinct waterkeeper identity; indigo work layers and apron consistent across front/side/rear.",
+          "Clay cup, ledger with blue square, blue chalk, saw and file source-supported; open and veiled face states readable."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "80355ccc52d8435e740098348a6dda72ac7ced030e78328ad84688019814d84d"
+      },
+      "outputSha256": "60fb4c5dd612976f597276f10045cec85c01544bdd2fdd4a1fa8c86cc5a88302"
+    },
+    {
+      "id": "urumet",
+      "name": "Urumet",
+      "role": "Dragon co-lead and independent professional cold supplier",
+      "naming": {
+        "sourceName": "Urumet",
+        "provenance": "Exact source personal name, matches named CANON universe entry."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "Slate-blue scales overlapped from its long muzzle to the folded hooks of its wings.",
+          "line": 150,
+          "explanation": "Defines dragon physical identity."
+        },
+        {
+          "quote": "Invoices",
+          "line": 169,
+          "explanation": "Co-lead professional agency."
+        },
+        {
+          "quote": "I also require a route surveyed north.",
+          "line": 447,
+          "explanation": "Commissions protagonist’s future work."
+        }
+      ],
+      "form": "large winged quadrupedal ice dragon",
+      "storyAppearance": {
+        "anatomy": "Long muzzle, jaw/teeth, foreclaws, tail, folded hooked wings; four legs and two separate wings used as restrained coherent interpretation",
+        "lifeStage": "Mature speaking dragon; exact age unspecified",
+        "proportions": "Large body; foreclaw could crush copper horn of human-taller exchanger",
+        "markings": "Slate-blue overlapping scales; hoarfrost along ridges, jaw and wings when rested, receding while working",
+        "materials": "Matte scales, claws, wing membrane, white frost",
+        "clothing": "None",
+        "equipment": "Square paper receipts, blue wax stamp pad, small coins, freight ledger, pepper sweets, wax-cloth letter",
+        "scale": "Large dragon, no exact source length; tiny receipt and coins supply relative scale",
+        "movement": "Lies, rises, manipulates paper delicately between two claws, narrow silent cold breath; tail strikes stone",
+        "distinctiveFeatures": "Pale eye, slate-blue scales, controlled cold breath and state-dependent frost"
+      },
+      "explicitCanon": [
+        "CANON slate-blue hoarfrost-edged ice dragon with pale eye, voluntary paid work and six-stroke limit.",
+        "Cold originates in Urumet; each use accumulates heat and removes visible frost; after six strokes the last wing frost melts into beads, recovered by dawn.",
+        "Receipt handling is between claws, no human hands; no collar, chains, saddle or coerced service.",
+        "Coldmouth is a place name, not another character or body."
+      ],
+      "visualInterpretation": [
+        "Four walking legs and two distinct folded membrane wings, low long-bodied build and modest short bony crown ridges rather than large ornamental horns; not species-wide canon.",
+        "Pale gray-blue ordinary eyes without glow, charcoal claws, deep blue undersides, restrained frosted edges. No armor or clothing.",
+        "Two large rested full-body views lateral/rear three-quarter plus compact front; separate spent/rested jaw and wing-edge details show frost loss. Neutral filtered cave light with slate/copper reflections, no cave pictured."
+      ],
+      "states": [
+        {
+          "name": "Rested",
+          "description": "Slate-blue scales with hoarfrost along ridges, jaw and folded wings."
+        },
+        {
+          "name": "Six strokes spent",
+          "description": "Same dragon without frost, small water beads along wing edge; no fire breath."
+        },
+        {
+          "name": "Cold work",
+          "description": "Narrow silent ribbon of controlled cold from jaws; no fire, no vast exploding ice spell."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "a-little-winter-for-sale:urumet",
+        "links": [],
+        "evidence": "Universe explicitly records this source identity; no other-story recurrence established."
+      },
+      "references": [
+        {
+          "path": "stories/a-little-winter-for-sale/title-image.jpg",
+          "role": "Existing sunwheel geometry only",
+          "inspected": true,
+          "notes": "No character portrait. Brass sunwheel ring with engraved bearings and removed silver-backed bimetal center; compatible equipment interpretation.",
+          "sha256": "7518ae711b88600600fd2cc86c01ba27a51f9558efd93d703e54278c25f26f51"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+          "role": "Same-story cool slate/copper paint and filtered cave light only",
+          "inspected": true,
+          "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+          "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+        },
+        {
+          "path": "stories/a-little-winter-for-sale/art/landscapes/01-qarsis-beneath-black-shoulder.png",
+          "role": "Same-story muted desert daylight palette only",
+          "inspected": true,
+          "notes": "Ochre-cream desert daylight and joined blue-violet mountain shadows, broad oil planes; no landscape transfer.",
+          "sha256": "8afa2241e974e2fa8f8ae0ba8b3fd4d1e422f40864e9f54e61ce69486d954e45"
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+          "role": "Dragon oil treatment and folio arrangement only, never anatomy or identity",
+          "inspected": true,
+          "notes": "Broad connected painted creature forms, matte scale masses and wide folio; Urumet has its own slate-blue anatomy.",
+          "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Fully painted faces and cloth, three unclipped character views.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203"
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "Human paint technique and folio only, never identity or clothing",
+          "inspected": true,
+          "notes": "Matte faceted faces consistent with body medium, isolated portrait and equipment studies.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f"
+        }
+      ],
+      "output": "stories/a-little-winter-for-sale/art/characters/urumet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this exact Urumet character-only oil folio with ONE small correction at lower right. The round blue wax pad currently has an embossed SNOWFLAKE symbol. Remove the snowflake decoration and leave a plain soft BLUE WAX SURFACE bearing only one SIMPLE SHALLOW CRESCENT indentation made by a dragon clawtip, no seal/emblem/runes. Preserve the pad's blue color and all surrounding ledger, coins, pepper sweet, claw receipt, dragon studies, frost/no-frost states, exact headings/labels, muted filtered cave lighting and bold matte oil surfaces. Do not change limbs, wings, head, eyes, anatomy, layout, character name, palette or text. No scene, floor or swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7e19a6f8-980e-480d-9b02-32e102f5aefe.png",
+            "sha256": "eeb9ed293fa65366bb21e284cc56cbe17b808e6b7308c5f56258db425b07094c",
+            "inspected": true,
+            "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-23T21:39:41.1900686Z",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER-ONLY reference folio on quiet warm ivory. Three useful isolated views, head/features and personal gear, clean gaps and uncropped silhouettes. Clear elegant readable dark serif character name and smaller exact story title 'A Little Winter for Sale'. Absolutely NO location, landscape, scenery, room, vignette, floor, ground patch, backdrop field, palette strip or paint swatches. Canadian Group of Seven-inspired oil character painting: broad connected color/value masses, confident sweeping bristle strokes and occasional thick palette-knife ridges, quieter connecting areas. Faces, hair, hands and all materials built of the SAME bold matte paint, no photoreal portrait insets, anime, glossy CGI, plastic, uniformly beveled shards or fake surface texture. First reference provides PAINT and layout only: do not borrow identity, clothing, anatomy or light preset. The other refs provide story palette/light or specific personal equipment only, never a location. Make a visually DISTINCT individual, same face/body proportions through all own views.\nHeading 'Urumet'. A LARGE mature ice dragon with long muzzle, pale gray-blue non-glowing eyes, matte SLATE-BLUE overlapping scales, charcoal claws, thick low long body, long tapering tail, FOUR walking legs and TWO SEPARATE membrane wings folded into hooked tips above its back. A modest row of short bony crown ridges, no huge branching horns. Urumet is neither tiny hound-sized Orsugal nor his orange/gold horned identity: entirely different long blue head and heavy low shape. Hoarfrost narrowly edges jaw ridges, back and folded wing hooks when rested, not an all-white snow dragon. One giant foreclaw dwarfs a small receipt. No collar, chains, clothes, harness or armor; voluntary professional. Upper two-thirds two large uncropped full-body studies: rested lateral view and rested rear-three-quarter, each showing coherent four legs and pair of wings; a smaller frontal study at right clarifies broad chest and paired wings. Natural quadruped stance, never upright humanoid. Lower region: two SAME long blue head/neck studies side by side, labelled 'Rested' with thin white hoarfrost and 'Six strokes spent' with NO frost and a few dark melt beads. No fire breath or magical glow. One foreclaw detail delicately holds a SMALL square paper receipt between TWO claws, other normal digits curled naturally; no human fingers. Isolated modest blue wax pad and little coins/closed freight ledger provide scale; no stone shelf. Optional a tiny paper twist of red pepper sweets, no cup in mouth. Quiet filtered cave light, connected deep blue/violet shadows and small muted warm copper reflections; no broad orange lighting recipe, no night scene or cavern field. Scales built in broad directional oil plates, wing membranes long thick blue-gray sweeps, frost selectively drybrushed pale marks, dark matte claws. Do not make intricate individually beveled scale crystals.",
+            "references": [
+              {
+                "path": "stories/a-little-winter-for-sale/art/interiors/03-coldmouth-inner-shelf.png",
+                "role": "Same-story cool slate/copper paint and filtered cave light only",
+                "inspected": true,
+                "notes": "Broad slate-blue masses, warm reflected copper and soft light at cave aperture; objects and cave excluded from folios.",
+                "sha256": "a8fcaaf9861afb1b8b68cb2c92d3de3d5066b3ddf7ad3d13ed8b0b22358665b2"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/orsugal.png",
+                "role": "Dragon oil treatment and folio arrangement only, never anatomy or identity",
+                "inspected": true,
+                "notes": "Broad connected painted creature forms, matte scale masses and wide folio; Urumet has its own slate-blue anatomy.",
+                "sha256": "9a9afe6a4816241d73ed7ed02130cdce4dfe00918b59d3c606ad74a6f6a8379b"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7e19a6f8-980e-480d-9b02-32e102f5aefe.png",
+            "outputSha256": "eeb9ed293fa65366bb21e284cc56cbe17b808e6b7308c5f56258db425b07094c"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-23T21:51:03.7399402Z",
+            "prompt": "Edit this exact Urumet character-only oil folio with ONE small correction at lower right. The round blue wax pad currently has an embossed SNOWFLAKE symbol. Remove the snowflake decoration and leave a plain soft BLUE WAX SURFACE bearing only one SIMPLE SHALLOW CRESCENT indentation made by a dragon clawtip, no seal/emblem/runes. Preserve the pad's blue color and all surrounding ledger, coins, pepper sweet, claw receipt, dragon studies, frost/no-frost states, exact headings/labels, muted filtered cave lighting and bold matte oil surfaces. Do not change limbs, wings, head, eyes, anatomy, layout, character name, palette or text. No scene, floor or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7e19a6f8-980e-480d-9b02-32e102f5aefe.png",
+                "sha256": "eeb9ed293fa65366bb21e284cc56cbe17b808e6b7308c5f56258db425b07094c",
+                "inspected": true,
+                "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-3831afe3-efe5-45dd-93a9-907650c036b1.png",
+            "savedPath": "stories/a-little-winter-for-sale/art/characters/urumet.png",
+            "outputSha256": "06a88656ab0de08ea91eb2defcd71f0cf8b79e46d502579f7654f8bd374dad28",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-23T21:55:09.772156+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_batch_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-23T21:55:09.772190+00:00",
+        "sourceSha256": "59c6a57fb2445c7eb0a3d2d00894591286e55f062a587302e7fbb919ca4d3b71",
+        "outputSha256": "06a88656ab0de08ea91eb2defcd71f0cf8b79e46d502579f7654f8bd374dad28",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0cf14-153e-7153-b72e-7144828d6925/exec-7e19a6f8-980e-480d-9b02-32e102f5aefe.png",
+            "sha256": "eeb9ed293fa65366bb21e284cc56cbe17b808e6b7308c5f56258db425b07094c",
+            "inspected": true,
+            "role": "Actual inspected initial candidate; preserve identity, anatomy, layout and paint while correcting unsupported wax emblem"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: exact name/title, three unclipped form views, consistent identity and clear studies. No location, floor, ground patch, palette or swatches.",
+          "Broad matte oil form remains across faces/scales/cloth/gear with source-specific muted daylight or filtered cool light; no photographic face or plastic gloss.",
+          "Four legs and two separate wings, long muzzle, slate-blue scales, hooked folded-wing structure, pale eyes and no humanized hands or clothing.",
+          "Frosted rested and unfrosted spent head states separated; claw delicately holds receipt, small ledger/coins/sweet establish size. Unsupported wax snowflake removed in favor of plain blue pad and crescent indentation."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "d60537b0600d887e170b6bfef7a6511a1b57b6028a02a715c5c8947ac9519736"
+      },
+      "outputSha256": "06a88656ab0de08ea91eb2defcd71f0cf8b79e46d502579f7654f8bd374dad28"
+    }
+  ]
+}

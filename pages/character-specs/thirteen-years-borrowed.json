@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 1,
+  "slug": "thirteen-years-borrowed",
+  "title": "Thirteen Years Borrowed",
+  "source": "stories/thirteen-years-borrowed/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire final source/prompt read, no original input images. Main4: narratorTamaris remembered31body, distinctNivra current44body ofsamephysicalcontinuity, Calo, and sustained resolutionvolunteer art-namedSelqen. Cover/oil and Nivra selectedpixels inspected.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Opening carrier, older brother, bakery staff, neighbors, earlier hosts",
+      "reason": "Brief setup/memory/background rather than central sustained character."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "tamaris",
+      "name": "Tamaris",
+      "role": "searching narrator in remembered original body",
+      "form": "adult human woman, remembered body at31; current disembodied identity44",
+      "selectionEvidence": [
+        {
+          "quote": "That one had been thirty-one, narrow from a winter of poor work and worse meals.",
+          "explanation": "Exact selected originalbody state."
+        },
+        {
+          "quote": "Let her answer, Tamaris.",
+          "explanation": "Narrator source name."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Same physical facialbone structure later inhabited byNivra, thirteenyearsyounger, narrowpoorlyfedface; no later silvertemple/chinburn.",
+        "clothing": "Earlier clothes unspecified; simpleweatheredwinter coat/dress chosen art-only."
+      },
+      "visualInterpretation": [
+        "Same BODY likeness as Nivra at31, not same personal identity; sober drawnface/waryexpression rather than Nivra's fuller mouth and habitual posture.",
+        "Historical source-supported originalbody portrait, never a ghost beside or duplicated inside anotheridentity.",
+        "No personalitem claim from later13yearsearch; second expressiondetail substitutes for item."
+      ],
+      "recurrence": {
+        "identityKey": "thirteen-years-borrowed:tamaris",
+        "links": [
+          {
+            "story": "thirteen-years-borrowed",
+            "character": "nivra",
+            "relationship": "Same physical body at31 vs44, distinct individual personal identities; source explicit.",
+            "anchor": "stories/thirteen-years-borrowed/art/characters/nivra.png"
+          }
+        ],
+        "evidence": "Final story explicitly identifies Nivra's face/body as originalbody aged13years; generation attaches selectedNivraactualbytes for bone structure only."
+      },
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Remembered originalbody at31 before separation; no currentbody repossession or magicalaura."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "output": "stories/thirteen-years-borrowed/art/characters/tamaris.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Tamaris\"; title \"Thirteen Years Borrowed\"; role \"The remembered body\". ONLY ONE HUMAN woman in her ORIGINAL BODY at exactlyTHIRTY-ONE, sourcehistorical memory. IMAGE1 shows the SAME PHYSICAL BODY thirteenyearsLATER asNivra44. Retain same underlying longoval skull/straightnose/brow/chin and darkbrowneyes, but AGE DOWN13years: smootherbrow/eye corners, narrower UNDERFED cheeks, lips held tightlyratherthanNivra fullmouth, alertwary expression. DARK BROWN hair half-tiedback, NO SILVER/GRAY hair, NO chinburn (thosebelonglaterNivra). Simple worn BROWN wintercoat over mutedBLUEGRAY plaindress, thickstockings and lowbrownboots, sleevescoveroldarmscar. Complete front/rear ofsame31yearoldbody, gentlycurledlowhands. Large sameyoungface label \"Age 31\". INSTEAD OF personalitem add small expressionportrait ofsameTamaris looking wary, labeled \"Before the search\"; no sketchpaper/frame. No Nivra44 figure, no otherhost, no sharedbodyscene/ghost/doubleexposure, no relaycasefromfuture. Nivrareference provides sharedBONESTRUCTURE andpaint ONLY, remove her greencoat/silverhair/chinburn/newposture. Quiet overcastWINTERDAY memory light in subdued slateblue/umber shadows and mutedivory nearplanes, no brightamberlamp glaze. BroadMATTE opaque bristle oil across skin/eyes/clothes, no photoreal face. Plain warmivory no setting/floor/swatches.",
+        "references": [
+          {
+            "path": "stories/thirteen-years-borrowed/art/characters/nivra.png",
+            "role": "selected inspected Nivra44 same BODY bone structure and oil; age down13 toTamaris31, distinctidentity, remove later silver/chinburn/clothes",
+            "inspected": true,
+            "sha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T10:06:45.989951+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Tamaris\"; title \"Thirteen Years Borrowed\"; role \"The remembered body\". ONLY ONE HUMAN woman in her ORIGINAL BODY at exactlyTHIRTY-ONE, sourcehistorical memory. IMAGE1 shows the SAME PHYSICAL BODY thirteenyearsLATER asNivra44. Retain same underlying longoval skull/straightnose/brow/chin and darkbrowneyes, but AGE DOWN13years: smootherbrow/eye corners, narrower UNDERFED cheeks, lips held tightlyratherthanNivra fullmouth, alertwary expression. DARK BROWN hair half-tiedback, NO SILVER/GRAY hair, NO chinburn (thosebelonglaterNivra). Simple worn BROWN wintercoat over mutedBLUEGRAY plaindress, thickstockings and lowbrownboots, sleevescoveroldarmscar. Complete front/rear ofsame31yearoldbody, gentlycurledlowhands. Large sameyoungface label \"Age 31\". INSTEAD OF personalitem add small expressionportrait ofsameTamaris looking wary, labeled \"Before the search\"; no sketchpaper/frame. No Nivra44 figure, no otherhost, no sharedbodyscene/ghost/doubleexposure, no relaycasefromfuture. Nivrareference provides sharedBONESTRUCTURE andpaint ONLY, remove her greencoat/silverhair/chinburn/newposture. Quiet overcastWINTERDAY memory light in subdued slateblue/umber shadows and mutedivory nearplanes, no brightamberlamp glaze. BroadMATTE opaque bristle oil across skin/eyes/clothes, no photoreal face. Plain warmivory no setting/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/thirteen-years-borrowed/art/characters/nivra.png",
+                "role": "selected inspected Nivra44 same BODY bone structure and oil; age down13 toTamaris31, distinctidentity, remove later silver/chinburn/clothes",
+                "inspected": true,
+                "sha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf"
+              }
+            ],
+            "preflight": [
+              "Selected Nivra44 inspected and sameBODY provenance explicit; different personalidentityTamaris is remembered at31. Age/deprivation, no laterburn/silver/greencoat consistent source.",
+              "One actual selectedref, no ghost/secondidentity/currentrepossession; expressiondetail replaces unavailable personalitem; completeivoryfolio with subduedwinterlight."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-968e633a-1f00-4ed2-a224-c66aec6b2510.png",
+            "outputSha256": "145191df4f96db1b1c50fc7d58fa94b31058fe44cb24052b503c1226076fea1f",
+            "finishedAt": "2026-09-24T10:22:33.742390+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual candidate inspected against Nivra44: same facialbone structure with younger31 narrower underfedface, brownhair without later silvertemple and no later chinburn. Distinct historical identity clear in heading/rememberedbody/Age31 labels.",
+              "Only Tamaris in historicalbody, no secondhost/ghost/currentrepossession. Simple earlierbrowncoat/bluegraydress differs fromNivra greenwardrobe, expressiondetail avoids invented laterprop. Completefigures, matteoil and ivory no location/swatches.",
+              "Same-body anchor pin current; original source remains unchanged, shared physicalbody does not collapse personal identities."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-968e633a-1f00-4ed2-a224-c66aec6b2510.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "86e65b4f3202d6129779c55aa0db8c6edf839f20073e46f62e22b95acdd15be2",
+        "outputSha256": "145191df4f96db1b1c50fc7d58fa94b31058fe44cb24052b503c1226076fea1f",
+        "references": [
+          {
+            "path": "stories/thirteen-years-borrowed/art/characters/nivra.png",
+            "role": "selected inspected Nivra44 same BODY bone structure and oil; age down13 toTamaris31, distinctidentity, remove later silver/chinburn/clothes",
+            "inspected": true,
+            "sha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf"
+          }
+        ],
+        "evidence": [
+          "Actual candidate inspected against Nivra44: same facialbone structure with younger31 narrower underfedface, brownhair without later silvertemple and no later chinburn. Distinct historical identity clear in heading/rememberedbody/Age31 labels.",
+          "Only Tamaris in historicalbody, no secondhost/ghost/currentrepossession. Simple earlierbrowncoat/bluegraydress differs fromNivra greenwardrobe, expressiondetail avoids invented laterprop. Completefigures, matteoil and ivory no location/swatches.",
+          "Same-body anchor pin current; original source remains unchanged, shared physicalbody does not collapse personal identities."
+        ],
+        "specificationSha256": "94cbfaebc917729a42f85fd56acd51c950363f551b7f36efec8be3ab7fe0e00f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "145191df4f96db1b1c50fc7d58fa94b31058fe44cb24052b503c1226076fea1f"
+    },
+    {
+      "id": "nivra",
+      "name": "Nivra",
+      "role": "current resident of the original body",
+      "form": "44-year-old human woman, distinct personal identity",
+      "selectionEvidence": [
+        {
+          "quote": "This face was forty-four.",
+          "explanation": "Exact physical age."
+        },
+        {
+          "quote": "Silver threaded the hair above the left temple.",
+          "explanation": "Exact side."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "44, line between brows, silver atLEFTtemple, fuller mouth/posture than Tamaris remembers; faint chinburn; old underleftarm scar covered.",
+        "clothing": "Ordinary skirt/dress; owns green coat acquired sixyears ago.",
+        "hands": "Source earlier specifies lagging right middle fingers and later says left fingers lag; keep hands low/relaxed without a diagnostic hand-detail or altering source."
+      },
+      "visualInterpretation": [
+        "Cover supplies mature lightolive longface/darkhair tiedback/plain darkgreendress. Silvergray limited anatomicalLEFT temple (frontviewerRIGHT).",
+        "Wear own green coat over plain dress as character wardrobestudy; not scene reconstruction. Distinct Nivra personal identity in body Tamaris remembers."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Current age44 evening character wardrobestudy, greencoat over skirt, no possession aura."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "thirteen-years-borrowed:nivra",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/thirteen-years-borrowed/art/characters/nivra.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this nivra character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep age44, LEFTtemple silver atfrontviewerRIGHT, faintchinburn and greencoat. Remove ALL smallgray ground/shadowpatches below boots, replacewithplainivory while keepingwholefeet. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1ad8e15-cccb-4a03-9950-57f0afd66206.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "35adb631c374b332d84820128a06a9b50a0c95952929a720530ed12c7d3371a1",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:48:55.757196+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Nivra\"; title \"Thirteen Years Borrowed\"; role \"Her own life\". ONE HUMAN ADULT woman exactlyFORTY-FOUR, same mature face as woman atRIGHT of IMAGE2: lightolive complexion, longovalfacialbone structure, straightnose, furrowbetweenbrows, darkbrowneyes, fuller unsmilingmouth. DARK BROWN hair inloose lowbun; SILVERthreads only atANATOMICALLEFT temple (FRONT viewerRIGHT edge of face). Small faintold burnmark onchin. Plain DARKGRAY GREEN anklelength DRESS, wornown GREEN coat openoverdress, brownlowshoes. Longsleeves cover oldarm scar; hands low, gentlyrelaxed, no finger demonstration. Complete front/rear, matching face. One isolated worn GREEN COAT cuff/woodenbutton detail, no otherbody/person. Avoid glow/ghost/symbolicdoubleface; Nivra is a whole living person.\nSelected lamplit late-night state. Most face and clothes in CONNECTED DARK violet/umber shade, only small ochre lamp-facing planes; restrained grayblue rainywindow fill, no broad golden daylight. MATTE faces as boldly painted asclothes. BRIGHT warm IVORY surrounding sheet with no floor/room/swatches.",
+            "references": [
+              {
+                "path": "stories/thirteen-years-borrowed/art/interiors/03-the-sitting-room-before-midnight.png",
+                "role": "inspected same-story broad oil and dim oil-lamp/rain-night color only; no room",
+                "inspected": true,
+                "sha256": "a8a91b1c06034c13f1a35dab36674427399dafb7d9c11b7e056e132a047159e4"
+              },
+              {
+                "path": "stories/thirteen-years-borrowed/title-image.jpg",
+                "role": "inspected Calo/Nivra face and ordinary costume design only; source governs exactage/silver temple, no photographic rendering or scene",
+                "inspected": true,
+                "sha256": "7604dcfe73a57702f57878fc1f6169f25c3f6e0f7297ac89976ee09abde9c08d"
+              }
+            ],
+            "preflight": [
+              "Entire source and prompt read; no original references; cover and same-story oil inspected. Source hand-side prose is internally mixed, avoid asserting exclusive damage side or hand diagram.",
+              "One living identity each; originalbodyTamaris31 will depend on Nivra44 next. <=2 inspectedrefs, exact names, warmivory oneidentity, source darklamp/light and broadfacepaint."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1ad8e15-cccb-4a03-9950-57f0afd66206.png",
+            "outputSha256": "35adb631c374b332d84820128a06a9b50a0c95952929a720530ed12c7d3371a1",
+            "finishedAt": "2026-09-24T09:55:50.372302+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate inspected: source identity/age/clothes/props and whole body views pass, but selected late-night light still reads as broad golden dayfill. Darken connected violet/umber values; preserve intrinsic skin color.",
+              "Small gray ground patches under boots must be removed to ivory; temple silver is correctly anatomicalLEFT."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:55:52.380248+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this nivra character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep age44, LEFTtemple silver atfrontviewerRIGHT, faintchinburn and greencoat. Remove ALL smallgray ground/shadowpatches below boots, replacewithplainivory while keepingwholefeet. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1ad8e15-cccb-4a03-9950-57f0afd66206.png",
+                "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+                "sha256": "35adb631c374b332d84820128a06a9b50a0c95952929a720530ed12c7d3371a1",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual firstcandidate inspected; source nightlamp values corrected, Nivra footshadowsremoved, body-side features and props held.",
+              "One inspected reference, no identityconflict; full1536x1024 cleanivory/sourceunchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ceb9698d-ca57-403f-b404-39f4564a2922.png",
+            "outputSha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf",
+            "finishedAt": "2026-09-24T10:06:43.890496+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+              "Age44/same cover facial identity, correct anatomicalLEFT silver temple, ordinary greencoat/dress, armscarcovered and relaxedhands without forcing mixed source finger-side prose. Footpatchesremoved."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-ceb9698d-ca57-403f-b404-39f4564a2922.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "86e65b4f3202d6129779c55aa0db8c6edf839f20073e46f62e22b95acdd15be2",
+        "outputSha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a1ad8e15-cccb-4a03-9950-57f0afd66206.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "35adb631c374b332d84820128a06a9b50a0c95952929a720530ed12c7d3371a1",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+          "Age44/same cover facial identity, correct anatomicalLEFT silver temple, ordinary greencoat/dress, armscarcovered and relaxedhands without forcing mixed source finger-side prose. Footpatchesremoved."
+        ],
+        "specificationSha256": "bcccaa39870a92dd368a5cefa9ee48ad3a0114dde9b4aafd25567250ca9e71df"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "b4ad596c95301b73abb3c566c7ae0f934f7b56932a947bf7a15cd31f6ead4dbf"
+    },
+    {
+      "id": "calo",
+      "name": "Calo",
+      "role": "consenting host and Nivra's trusted companion",
+      "form": "adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "Your face is brown.",
+          "explanation": "Exact complexion."
+        },
+        {
+          "quote": "Calo climbed four steps, favoring his right leg.",
+          "explanation": "Right knee pain affectsstance."
+        },
+        {
+          "quote": "square relay case",
+          "explanation": "Central portable personalobject."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Brown face, soreRIGHTknee/crampedLEFTcalf, nickleftincisor mostlyhidden; age otherwiseunspecified.",
+        "clothing": "Coat with cuffs/pockets; foldedhandtowel in pocket.",
+        "equipment": "Worn square leather relaycase with brightcorners; source holds routes/portraits."
+      },
+      "visualInterpretation": [
+        "Cover supplies middleaged brownman shortcurlyblackhair/shortbeard, olivebrownworkcoat/darktrousers.",
+        "SlightlyunweightedRIGHT leg, no cane/medicalbrace invented. Closedcase avoids extraidentity portraits in sheet."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Late evening ordinary standingrest, caseclosed, no possession aura."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "thirteen-years-borrowed:calo",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/thirteen-years-borrowed/art/characters/calo.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this calo character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep anatomicalLEFT carriedcase frontviewerRIGHT/rearviewerLEFT, sourcebrownskin, shortcurls/beard and slightlysoftRIGHTknee. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a5592639-31d4-449c-9407-e7de51f19cde.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "d1ea3398bfd9fc572e8f41bfe3e64f8fccf86ff23f45489757c08a929d5f64ab",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:48:55.760103+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Calo\"; title \"Thirteen Years Borrowed\"; role \"A willing host\". ONE HUMAN ADULT man aroundfortyfive, same brown face/shortblackcurls/short beard as IMAGE2man atLEFT. Broadnose, darkbrowneyes, tired candidexpression. Worn OLIVE-BROWN workCOAT over ochreshirt, darktrousers and practicalbrownlaceboots; smallfoldedplainhandtowel tuckedcoatpocket, nohandkerchiefbillowing. He stands restingweightonLEFT leg, RIGHT knee slightlysoft, no brace/cane. Holds CLOSED SQUARE darkBROWN LEATHER RELAY CASE underonearm; inrear carriedside sameanatomicalLEFT/frontviewerRIGHT,rearviewerLEFT. Casecorners wornbright. Completefront/rear, large sameface, isolatedclosed squarecase withhandleandworncorners. No portraitpictures/secondidentity insidecase, no magicalaura or joinedbodies.\nSelected lamplit late-night state. Most face and clothes in CONNECTED DARK violet/umber shade, only small ochre lamp-facing planes; restrained grayblue rainywindow fill, no broad golden daylight. MATTE faces as boldly painted asclothes. BRIGHT warm IVORY surrounding sheet with no floor/room/swatches.",
+            "references": [
+              {
+                "path": "stories/thirteen-years-borrowed/art/interiors/03-the-sitting-room-before-midnight.png",
+                "role": "inspected same-story broad oil and dim oil-lamp/rain-night color only; no room",
+                "inspected": true,
+                "sha256": "a8a91b1c06034c13f1a35dab36674427399dafb7d9c11b7e056e132a047159e4"
+              },
+              {
+                "path": "stories/thirteen-years-borrowed/title-image.jpg",
+                "role": "inspected Calo/Nivra face and ordinary costume design only; source governs exactage/silver temple, no photographic rendering or scene",
+                "inspected": true,
+                "sha256": "7604dcfe73a57702f57878fc1f6169f25c3f6e0f7297ac89976ee09abde9c08d"
+              }
+            ],
+            "preflight": [
+              "Entire source and prompt read; no original references; cover and same-story oil inspected. Source hand-side prose is internally mixed, avoid asserting exclusive damage side or hand diagram.",
+              "One living identity each; originalbodyTamaris31 will depend on Nivra44 next. <=2 inspectedrefs, exact names, warmivory oneidentity, source darklamp/light and broadfacepaint."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a5592639-31d4-449c-9407-e7de51f19cde.png",
+            "outputSha256": "d1ea3398bfd9fc572e8f41bfe3e64f8fccf86ff23f45489757c08a929d5f64ab",
+            "finishedAt": "2026-09-24T09:55:50.375561+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate inspected: source identity/age/clothes/props and whole body views pass, but selected late-night light still reads as broad golden dayfill. Darken connected violet/umber values; preserve intrinsic skin color.",
+              "No source equipment change needed; Calo left carriedcase is consistent front/rear, Selqen shortshape/raincape/tightbraid coherent."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:55:52.382996+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this calo character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep anatomicalLEFT carriedcase frontviewerRIGHT/rearviewerLEFT, sourcebrownskin, shortcurls/beard and slightlysoftRIGHTknee. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a5592639-31d4-449c-9407-e7de51f19cde.png",
+                "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+                "sha256": "d1ea3398bfd9fc572e8f41bfe3e64f8fccf86ff23f45489757c08a929d5f64ab",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual firstcandidate inspected; source nightlamp values corrected, Nivra footshadowsremoved, body-side features and props held.",
+              "One inspected reference, no identityconflict; full1536x1024 cleanivory/sourceunchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b2e0d5d1-82e3-4375-9e86-705576f8489c.png",
+            "outputSha256": "67bf37d9c455250cc9f2af4f733fbfab65861a635c6820b37fddfd89e985ad63",
+            "finishedAt": "2026-09-24T10:06:43.917066+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+              "Brown adult identity, correct left-carried closedcase front/rear, understated right-knee favoring posture, towel/ordinary clothing retained."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-b2e0d5d1-82e3-4375-9e86-705576f8489c.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "86e65b4f3202d6129779c55aa0db8c6edf839f20073e46f62e22b95acdd15be2",
+        "outputSha256": "67bf37d9c455250cc9f2af4f733fbfab65861a635c6820b37fddfd89e985ad63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-a5592639-31d4-449c-9407-e7de51f19cde.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "d1ea3398bfd9fc572e8f41bfe3e64f8fccf86ff23f45489757c08a929d5f64ab",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+          "Brown adult identity, correct left-carried closedcase front/rear, understated right-knee favoring posture, towel/ordinary clothing retained."
+        ],
+        "specificationSha256": "789289039253dc910df3bf4840d2f1d321e1aa00cce3b616bc7815f6b7f1493e"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "67bf37d9c455250cc9f2af4f733fbfab65861a635c6820b37fddfd89e985ad63"
+    },
+    {
+      "id": "selqen",
+      "name": "Selqen",
+      "role": "the midnight volunteer and next host",
+      "form": "short adult human woman",
+      "nameProvenance": {
+        "type": "new-art-only-name",
+        "sourceRole": "the short volunteer in a rain cape",
+        "authorization": "always give the characters names if there are missing them.",
+        "search": "Selqen no matches in universe, NAMES, character specs/current review inventories; art-only name not source/canon."
+      },
+      "selectionEvidence": [
+        {
+          "quote": "a short woman in a rain cape",
+          "explanation": "Source size/clothing."
+        },
+        {
+          "quote": "wet socks, a tight braid",
+          "explanation": "Source bodily details at ending."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Short adult woman, tightbraid; source no age/colors.",
+        "clothing": "Raincape and wetsocks, ordinaryclothes.",
+        "equipment": "Bare offered hand; otherwise no emblem/weapon."
+      },
+      "visualInterpretation": [
+        "Art-only womanmid30s warmdarkolive roundface, blackhair tightbraid, bluegrayraincape/ochredress/stoutboots.",
+        "Name onlyartlabel; no identifyingdetails inventedascanon."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Waitingatmidnight, raincape damp, no collapsing or secondidentity."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "thirteen-years-borrowed:selqen",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/thirteen-years-borrowed/art/characters/selqen.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Edit this selqen character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep shortadultwoman, tightblackbraid, bluegrayraincape andochredress, ordinaryemptyhands. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2e853802-b70c-4535-b4b6-5b9fe314840b.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "e819aa0d9bda9bba4686551d1af505c2261b35bfcb41cd40d33f0a30389e611a",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T09:48:55.762590+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Selqen\"; title \"Thirteen Years Borrowed\"; role \"The midnight volunteer\". ONE HUMAN ADULT woman midthirties, noticeablySHORT compactbuild, warmdarkOLIVE skin, roundface/shortbroadnose, darkbrowneyes, firmkindmouth. BLACK hair inone TIGHT BRAID downback, hoodDOWN. Worn SLATE BLUEGRAY RAINCAPE with subduedwetdark patches athem, plain OCHRE anklelengthdress and stoutbrownankleboots; socksmostlycovered. Barehands lowandopen, ordinaryfivefingers, no possessionlight. Completefront/rear andlargematchingface; isolated raincape clasp/cuff detail. No lantern/jewelry/secondperson. Sourceunnamed, Selqen is art-onlylabel, noextraexplanationtext inimage.\nSelected lamplit late-night state. Most face and clothes in CONNECTED DARK violet/umber shade, only small ochre lamp-facing planes; restrained grayblue rainywindow fill, no broad golden daylight. MATTE faces as boldly painted asclothes. BRIGHT warm IVORY surrounding sheet with no floor/room/swatches.",
+            "references": [
+              {
+                "path": "stories/thirteen-years-borrowed/art/interiors/03-the-sitting-room-before-midnight.png",
+                "role": "inspected same-story broad oil and dim oil-lamp/rain-night color only; no room",
+                "inspected": true,
+                "sha256": "a8a91b1c06034c13f1a35dab36674427399dafb7d9c11b7e056e132a047159e4"
+              }
+            ],
+            "preflight": [
+              "Entire source and prompt read; no original references; cover and same-story oil inspected. Source hand-side prose is internally mixed, avoid asserting exclusive damage side or hand diagram.",
+              "One living identity each; originalbodyTamaris31 will depend on Nivra44 next. <=2 inspectedrefs, exact names, warmivory oneidentity, source darklamp/light and broadfacepaint."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2e853802-b70c-4535-b4b6-5b9fe314840b.png",
+            "outputSha256": "e819aa0d9bda9bba4686551d1af505c2261b35bfcb41cd40d33f0a30389e611a",
+            "finishedAt": "2026-09-24T09:55:50.378384+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual first candidate inspected: source identity/age/clothes/props and whole body views pass, but selected late-night light still reads as broad golden dayfill. Darken connected violet/umber values; preserve intrinsic skin color.",
+              "No source equipment change needed; Calo left carriedcase is consistent front/rear, Selqen shortshape/raincape/tightbraid coherent."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:55:52.385717+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. Edit this selqen character folio ONLY for source late-night lamp lighting and paint handling. Preserve exact1536x1024, name/title, bodyviewshapes, original face identity/age/features, costumes and source personalitems. At least TWO THIRDS of every face and clothing surface become a CONNECTED DARK muted VIOLET/UMBER shadow mass. Leave only a few small OCHRE lamp-facing near-cheek/nose/finger planes; restrained grayblue fill. Remove broad orange/cream portraitflood, this is night illuminated by ONE smalloil lamp. Keep skin's intrinsiccolor. Use LARGE MATTE opaque BRISTLE-painted eye/skin/lip/eyebrow shapes, no photographic glossyeyes/skin. Keep shortadultwoman, tightblackbraid, bluegrayraincape andochredress, ordinaryemptyhands. Bright warmIVORY background staysclean, no scene/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2e853802-b70c-4535-b4b6-5b9fe314840b.png",
+                "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+                "sha256": "e819aa0d9bda9bba4686551d1af505c2261b35bfcb41cd40d33f0a30389e611a",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual firstcandidate inspected; source nightlamp values corrected, Nivra footshadowsremoved, body-side features and props held.",
+              "One inspected reference, no identityconflict; full1536x1024 cleanivory/sourceunchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b7763e5-e2c0-4382-9d9a-11e4bd3efa0c.png",
+            "outputSha256": "eb650624a9a77a3a6d3ef959ee9723044de19896e438a891ba5e2d34d8bd2103",
+            "finishedAt": "2026-09-24T10:06:43.932133+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+              "Distinct art-named short adult volunteer with tightblackbraid, dampbluegraycape and ordinary emptyhands; naming provenance recorded, no invented canon."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b7763e5-e2c0-4382-9d9a-11e4bd3efa0c.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "86e65b4f3202d6129779c55aa0db8c6edf839f20073e46f62e22b95acdd15be2",
+        "outputSha256": "eb650624a9a77a3a6d3ef959ee9723044de19896e438a891ba5e2d34d8bd2103",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-2e853802-b70c-4535-b4b6-5b9fe314840b.png",
+            "role": "inspected first candidate identity/layout/gear preserved; dim source lamp values and broadfacepaint only",
+            "sha256": "e819aa0d9bda9bba4686551d1af505c2261b35bfcb41cd40d33f0a30389e611a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: appropriate dark lamp-lit connected violet/umber shadow with smaller amber nearplanes, matte oil faces/cloth, coherent fullbody views/name/title and clean ivory without scene/swatches.",
+          "Distinct art-named short adult volunteer with tightblackbraid, dampbluegraycape and ordinary emptyhands; naming provenance recorded, no invented canon."
+        ],
+        "specificationSha256": "02c166899cf38ee55829ad7a8a1dae1789b9f4dc453e3fb4f4b3115c1442189d"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "eb650624a9a77a3a6d3ef959ee9723044de19896e438a891ba5e2d34d8bd2103"
+    }
+  ],
+  "sourceSha256": "86e65b4f3202d6129779c55aa0db8c6edf839f20073e46f62e22b95acdd15be2"
+}

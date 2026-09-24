@@ -1385,6 +1385,8 @@ def main() -> None:
     commands.add_parser("capture-landscapes", help="Store landscape gallery web copies without recapturing prose.")
     interior_parser = commands.add_parser("capture-interiors", help="Store interior study web copies without recapturing prose or landscapes.")
     interior_parser.add_argument("slugs", nargs="*", help="Optional story slugs to capture only completed sets.")
+    character_parser = commands.add_parser("capture-characters", help="Store reviewed character sheets without recapturing prose or other art.")
+    character_parser.add_argument("slugs", nargs="*", help="Optional story slugs to capture only their reviewed sheets.")
     commands.add_parser("check", help="Validate publication and source inventory parity.")
 
     args = parser.parse_args()
@@ -1411,6 +1413,10 @@ def main() -> None:
         gallery = _landscape_module().capture_interiors(REPOSITORY_ROOT, slugs=args.slugs)
         count = sum(len(story["images"]) for story in gallery["stories"])
         print(f"Stored {count} interiors across {len(gallery['stories'])} stories")
+    elif args.command == "capture-characters":
+        gallery = _landscape_module().capture_characters(REPOSITORY_ROOT, slugs=args.slugs)
+        count = sum(len(story["images"]) for story in gallery["stories"])
+        print(f"Stored {count} character sheets across {len(gallery['stories'])} stories")
     else:
         catalog = load_catalog()
         source_count, published_count, canon_count = validate_repository_inventory(
@@ -1422,7 +1428,7 @@ def main() -> None:
         comics = _graphic_novel_module().load_snapshot(SNAPSHOT_PATH.with_name("graphic-novels.json"), catalog)
         if comics:
             print(f"PASS: {len(comics)} stored comic PDFs")
-        for collection in ("landscapes", "interiors"):
+        for collection in ("landscapes", "interiors", "characters"):
             art_path = SNAPSHOT_PATH.with_name(f"{collection}.json")
             art = _landscape_module().load_snapshot(art_path, collection)
             if art["stories"]:

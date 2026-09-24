@@ -1,0 +1,628 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-foundations-remember",
+  "title": "The Memory Under Line Zero",
+  "source": "stories/the-foundations-remember/story.md",
+  "sourceSha256": "97aa49f26e8c8b96e60a51fc0f280651706c3f2b360f876287b80bb6791a192c",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished story read through Amel obtaining maintenance access and setting out to retrieve the gauge. Amel's ethical/physical decision, Haru's embodied recollection and loss, Ovik's repeated pressure/audit drive the narrative.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Amel's mother",
+      "reason": "Brief remembered figure in collateralized childhood; important motivation but not sustained independent agent in this story."
+    },
+    {
+      "name": "Company, editors and train staff",
+      "reason": "Institutional/background roles without qualifying individualized action."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md authority; no story/person entries found. Local memory technology does not erase personhood and ordinary devices are not agents.",
+    "Current cover is directed reuse of historical optionA art; original from commit930b344 recovered by root, inspected and pinned. Current prose governs identities; no prior narrative details imported.",
+    "Ovik is physically offscreen and only a human voice via earpiece/grille. Interface treatment depicts supported transmission evidence, not a canonical body or sentient device."
+  ],
+  "referenceInputs": [
+    {
+      "path": "stories/the-foundations-remember/title-image.jpg",
+      "role": "Current cover identity reference: Amel short black hair/young angular face/grey tech coat, Haru silver hair/older worn brown coat",
+      "notes": "Actual pixels inspected. Anime rendering/forearm white bands not binding source facts; omit bands. Current source she/her controls Amel, no masculine reinterpretation.",
+      "sha256": "f49dd489e92b89173955b1967611b340aafe52fbf79f8349587ae2ff93369e89",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+      "role": "Primary Group of Seven oil, dim grey-violet booth shade and small warm task-light planes; crown/case/grille geometry",
+      "notes": "Actual pixels inspected. No booth/chairs/room transferred. Visible flexible contact dome/pads and plain perforated speaker inform ordinary equipment.",
+      "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+      "inspected": true
+    },
+    {
+      "path": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+      "role": "Connected dark slate-blue oil masses and limited cool palette only",
+      "notes": "Actual pixels inspected; no city/scene transfer.",
+      "sha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+      "inspected": true
+    },
+    {
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+      "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+      "role": "Exact historical optionA cover recovered from commit930b344, identity/content reference only",
+      "notes": "Actual pixels inspected. Neon-city art contains young dark-haired tech and older silver-haired worker; no prior plot/lore imported. Current she/her source controls Amel.",
+      "inspected": true
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "amel-krail",
+      "name": "Amel Krail",
+      "sourceIdentityId": "amel-krail",
+      "role": "Junior memory-repossession technician who preserves the forbidden route at personal cost",
+      "selectionEvidence": [
+        {
+          "quote": "Amel Krail pointed to the strip of amber light",
+          "line": 13,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "first unsupervised disposition",
+          "line": 29,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "His voice arrived without a face, clean and level in Amel's earpiece.",
+          "line": 155,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "The transfer entered behind her right eye",
+          "line": 383,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human woman; shorter than Haru in his recalled body, no exact age.",
+        "lifeStage": "Young adult junior technician; childhood cluster at8 is memory, not main physical age.",
+        "proportions": "Ordinary adult woman, shorter than Haru.",
+        "markings": "No visible biological markings specified; memory transfer pressure behind right eye not externally glowing.",
+        "materials": "Human, ordinary clothes and memory technology tools.",
+        "clothing": "Not precisely described in prose; current cover grey dark long tech coat.",
+        "equipment": "Repossession case, unfolding wet-contact crown she handles rather than wears, earpiece, license key.",
+        "scale": "Adult human.",
+        "movement": "Precise procedural hands, later trembling; determined field departure.",
+        "distinctiveFeatures": "Carrier of foreign cluster remains Amel, not Haru/child blended into new body."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Preserve current cover's short tousled black hair, slim young-adult angular face, light olive skin, grey-blue tech coat with small muted sleeve band over black trousers/boots. Adult woman in late20s, natural eyes/head, no anime finish.",
+        "Small earpiece worn on anatomical right ear chosen for consistency; closed grey repossession case carried at her side. Main normal upright stance; working/listening close portrait and detached foldable crown detail. No visible brain glow/child overlays."
+      ],
+      "states": [
+        {
+          "label": "Listening",
+          "description": "Attentive professional focus."
+        },
+        {
+          "label": "After transfer",
+          "description": "Restrained strain and resolve, no visible magic."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-foundations-remember:amel-krail",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-foundations-remember/title-image.jpg",
+          "role": "Current cover identity reference: Amel short black hair/young angular face/grey tech coat, Haru silver hair/older worn brown coat",
+          "notes": "Actual pixels inspected. Anime rendering/forearm white bands not binding source facts; omit bands. Current source she/her controls Amel, no masculine reinterpretation.",
+          "sha256": "f49dd489e92b89173955b1967611b340aafe52fbf79f8349587ae2ff93369e89",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+          "role": "Primary Group of Seven oil, dim grey-violet booth shade and small warm task-light planes; crown/case/grille geometry",
+          "notes": "Actual pixels inspected. No booth/chairs/room transferred. Visible flexible contact dome/pads and plain perforated speaker inform ordinary equipment.",
+          "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+          "role": "Connected dark slate-blue oil masses and limited cool palette only",
+          "notes": "Actual pixels inspected; no city/scene transfer.",
+          "sha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+          "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+          "role": "Exact historical optionA cover recovered from commit930b344, identity/content reference only",
+          "notes": "Actual pixels inspected. Neon-city art contains young dark-haired tech and older silver-haired worker; no prior plot/lore imported. Current she/her source controls Amel.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-foundations-remember/art/characters/amel-krail.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:28:43.466371+00:00",
+            "status": "PASS",
+            "prompt": "Create one1536x1024 landscape CHARACTER-ONLY OIL FOLIO on clean light warm IVORY. Exact heading \"Amel Krail\" and subtitle \"The Memory Under Line Zero\". One identity only; no rooms, train, city, floor/contact shadows, scene, swatches or isolated hand studies.\nAMEL KRAIL: grown HUMAN WOMAN late20s, shorter than Haru but normal adult proportions. Retain YOUNGER LEFT CHARACTER in first reference's short tousled black hair, slim angular face, light olive skin and grey-blue tech-coat silhouette; reinterpret as source adult woman with natural eyes, no anime. Do not copy older white-haired man's identity. Grey-blue practical coat to knees, high dark collar, dark trousers and sturdy black boots, small muted olive stripe across each upper sleeve. Plain thin earpiece tucked around her RIGHT ear, a small charcoal ear-hook with an oval earpad; no flashy headset. Closed compact flat grey hard repossession case held beside her leg in relaxed pose. No gun, armor, jewels or visible brain glow.\nLayout: LEFT large full-body front-threequarter with case; CENTER smaller full-body REAR view with clear IVORY gutter and full head/feet inside frame. RIGHT two spaced chest-up expression studies: \"Listening\" attentive professional calm, \"After transfer\" strained determination with same face. Simple clean framing, broad faces large enough to read. No childhood/Haru overlays or magical effects; foreign memories do not change identity.\nPAINT: second image booth oil PRIMARY paint anchor, third approved impasto ONLY rendering reference, no copied medieval person/armor. Build faces, skin, hair and all clothing from BROAD CONNECTED opaque oil masses, varied long directional bristle strokes, selective sculpted knife ridges and quiet joined shadows. Strong form, no uniform small mosaic dabs, no smooth photographic faces, glossy eyes, anime linework or CGI.\nLIGHT: dim lowest-line booth before dawn, mostly cool dark SLATE/BLUE-VIOLET/UMBER body planes and a few muted warm task-lamp planes. Not bright day or studio; face mostly dark joined planes with just a small warm cheek/nose shape, coat predominantly low-value grey-blue. Story-specific futuristic palette in ordinary lamplight, not neon rave. Keep the PAGE light ivory. Case ordinary tool with no readable UI or magical agency. Exact title/name/captions only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+                "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+                "inspected": true,
+                "role": "Inspected original cover: young left figure short black hair/face/tech coat only; current source adult woman controls, no anime or older man's identity"
+              },
+              {
+                "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+                "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+                "inspected": true,
+                "role": "Inspected primary Group of Seven opaque oil and dim booth bluegrey/amber light only"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "Inspected approved sculpted oil face/body handling only; no medieval face/clothing/scenery/palette"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eb5dcefd-2157-4e70-8175-90c0bbff11d4.png",
+            "returnedSha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+            "completedAt": "2026-09-24T11:32:02.443417+00:00",
+            "review": [
+              "Actual pixels inspected: same short-black-haired younger cover identity interpreted as current adult woman, no older-worker likeness/child memory overlay; clear natural adult face in main and two emotional states.",
+              "Practical grey-blue coat and muted arm bands, plain earpiece and closed ordinary case, complete front/rear silhouettes with clean spacing; no magical equipment agency or brain glow.",
+              "Opaque directional oil in face/hair/coat, slate-violet low values and muted warm skin planes; character-only ivory and exact name/title/captions readable.",
+              "No isolated hand studies, floor patches, scene or swatches. Case carry side is unbound by source; current selected relaxed pose recorded rather than unnecessary correction."
+            ]
+          }
+        ],
+        "prompt": "Create one1536x1024 landscape CHARACTER-ONLY OIL FOLIO on clean light warm IVORY. Exact heading \"Amel Krail\" and subtitle \"The Memory Under Line Zero\". One identity only; no rooms, train, city, floor/contact shadows, scene, swatches or isolated hand studies.\nAMEL KRAIL: grown HUMAN WOMAN late20s, shorter than Haru but normal adult proportions. Retain YOUNGER LEFT CHARACTER in first reference's short tousled black hair, slim angular face, light olive skin and grey-blue tech-coat silhouette; reinterpret as source adult woman with natural eyes, no anime. Do not copy older white-haired man's identity. Grey-blue practical coat to knees, high dark collar, dark trousers and sturdy black boots, small muted olive stripe across each upper sleeve. Plain thin earpiece tucked around her RIGHT ear, a small charcoal ear-hook with an oval earpad; no flashy headset. Closed compact flat grey hard repossession case held beside her leg in relaxed pose. No gun, armor, jewels or visible brain glow.\nLayout: LEFT large full-body front-threequarter with case; CENTER smaller full-body REAR view with clear IVORY gutter and full head/feet inside frame. RIGHT two spaced chest-up expression studies: \"Listening\" attentive professional calm, \"After transfer\" strained determination with same face. Simple clean framing, broad faces large enough to read. No childhood/Haru overlays or magical effects; foreign memories do not change identity.\nPAINT: second image booth oil PRIMARY paint anchor, third approved impasto ONLY rendering reference, no copied medieval person/armor. Build faces, skin, hair and all clothing from BROAD CONNECTED opaque oil masses, varied long directional bristle strokes, selective sculpted knife ridges and quiet joined shadows. Strong form, no uniform small mosaic dabs, no smooth photographic faces, glossy eyes, anime linework or CGI.\nLIGHT: dim lowest-line booth before dawn, mostly cool dark SLATE/BLUE-VIOLET/UMBER body planes and a few muted warm task-lamp planes. Not bright day or studio; face mostly dark joined planes with just a small warm cheek/nose shape, coat predominantly low-value grey-blue. Story-specific futuristic palette in ordinary lamplight, not neon rave. Keep the PAGE light ivory. Case ordinary tool with no readable UI or magical agency. Exact title/name/captions only.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+            "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+            "inspected": true,
+            "role": "Inspected original cover: young left figure short black hair/face/tech coat only; current source adult woman controls, no anime or older man's identity"
+          },
+          {
+            "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+            "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+            "inspected": true,
+            "role": "Inspected primary Group of Seven opaque oil and dim booth bluegrey/amber light only"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Inspected approved sculpted oil face/body handling only; no medieval face/clothing/scenery/palette"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:32:02.443417+00:00",
+        "sourceSha256": "97aa49f26e8c8b96e60a51fc0f280651706c3f2b360f876287b80bb6791a192c",
+        "outputSha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+            "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+            "inspected": true,
+            "role": "Inspected original cover: young left figure short black hair/face/tech coat only; current source adult woman controls, no anime or older man's identity"
+          },
+          {
+            "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+            "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+            "inspected": true,
+            "role": "Inspected primary Group of Seven opaque oil and dim booth bluegrey/amber light only"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true,
+            "role": "Inspected approved sculpted oil face/body handling only; no medieval face/clothing/scenery/palette"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same short-black-haired younger cover identity interpreted as current adult woman, no older-worker likeness/child memory overlay; clear natural adult face in main and two emotional states.",
+          "Practical grey-blue coat and muted arm bands, plain earpiece and closed ordinary case, complete front/rear silhouettes with clean spacing; no magical equipment agency or brain glow.",
+          "Opaque directional oil in face/hair/coat, slate-violet low values and muted warm skin planes; character-only ivory and exact name/title/captions readable.",
+          "No isolated hand studies, floor patches, scene or swatches. Case carry side is unbound by source; current selected relaxed pose recorded rather than unnecessary correction."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "5f503afcf96378639678ac864857aec8df81677ce3f873e114b1f6df224856b4"
+      },
+      "outputSha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3"
+    },
+    {
+      "id": "haru-dent",
+      "name": "Haru Dent",
+      "sourceIdentityId": "haru-dent",
+      "role": "Evicted transit worker carrying the forbidden route recollection",
+      "selectionEvidence": [
+        {
+          "quote": "Haru Dent's coat was caught in it.",
+          "line": 11,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "taller than herself and sore through the right knee",
+          "line": 89,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "a pale pressure mark where an older crown had sat",
+          "line": 43,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "two fingers were curved as if around the missing handle",
+          "line": null,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Adult human man, older experienced19-year transit worker, taller than Amel, sore right knee.",
+        "lifeStage": "Adult seasoned worker, exact age unstated; older silver-haired cover identity.",
+        "proportions": "Ordinary adult, tension/working wear.",
+        "markings": "Pale contact crown pressure marks at temples/behind ears; two fingers carry groove from case handle, side unspecified.",
+        "materials": "Skin, coarse coat, clothing, contact crown.",
+        "clothing": "Coat, current cover worn brown work coat/dark shirt/trousers/boots.",
+        "equipment": "Red survey case in remembered before-erasure state; current eviction token, expired transit badge, three coins; contact crown during procedure.",
+        "scale": "Adult man taller than technician.",
+        "movement": "Aware of train loads, favoring sore right knee; hands feel missing handle after erasure.",
+        "distinctiveFeatures": "Loss of specific recollection does not remove identity; no brain injury effects or artificial limbs."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Retain short cropped silver-grey hair, lined long angular face, olive/tan skin and tired dark eyes from current cover; late50s interpretation, clean-shaven.",
+        "Worn brown long work coat, charcoal open-collar shirt/trousers, scuffed dark boots. No white forearm tattoos/bands from cover (not supported). Main after procedure favors right knee, empty hands; portrait contact-crown-on state and after-erasure expression separately; small expired plain badge, no invented readable ID details."
+      ],
+      "states": [
+        {
+          "label": "Validation",
+          "description": "Crown worn; speaking precisely."
+        },
+        {
+          "label": "Was I right?",
+          "description": "After removal, uncertain face and pale contact mark."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-foundations-remember:haru-dent",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-foundations-remember/title-image.jpg",
+          "role": "Current cover identity reference: Amel short black hair/young angular face/grey tech coat, Haru silver hair/older worn brown coat",
+          "notes": "Actual pixels inspected. Anime rendering/forearm white bands not binding source facts; omit bands. Current source she/her controls Amel, no masculine reinterpretation.",
+          "sha256": "f49dd489e92b89173955b1967611b340aafe52fbf79f8349587ae2ff93369e89",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+          "role": "Primary Group of Seven oil, dim grey-violet booth shade and small warm task-light planes; crown/case/grille geometry",
+          "notes": "Actual pixels inspected. No booth/chairs/room transferred. Visible flexible contact dome/pads and plain perforated speaker inform ordinary equipment.",
+          "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+          "role": "Connected dark slate-blue oil masses and limited cool palette only",
+          "notes": "Actual pixels inspected; no city/scene transfer.",
+          "sha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+          "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+          "role": "Exact historical optionA cover recovered from commit930b344, identity/content reference only",
+          "notes": "Actual pixels inspected. Neon-city art contains young dark-haired tech and older silver-haired worker; no prior plot/lore imported. Current she/her source controls Amel.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-foundations-remember/art/characters/haru-dent.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:32:03.422648+00:00",
+            "status": "REVISE",
+            "prompt": "Create one1536x1024 landscape CHARACTER-ONLY OIL reference folio on LIGHT warm IVORY. Exact heading \"Haru Dent\" and subtitle \"The Memory Under Line Zero\". One identity; no room, city/train, floor/contact paint, swatches or isolated hand studies.\nHaru Dent is the OLDER RIGHT MAN from first reference, human seasoned transit worker. Preserve short SILVER-GREY hair, tired long lined angular face, tan/olive skin, dark eyes, clean-shaven with furrowed brow, sturdy older body late50s, taller than young technician (she not shown). Reinterpret cover anime form as natural human proportion and broadly painted oils, not anime.\nHe wears WORN BROWN long work coat over charcoal open-collar shirt, dark work trousers, heavy scuffed boots; no white forearm bands/tattoos. Slightly favors SORE RIGHT KNEE with weight on other leg, no invented brace/crutch, no severe collapse. Two faint pale crown-pressure marks near temples, not scars/blood. Empty relaxed hands after memory collection, no red survey case in this after-state.\nLEFT complete fullbody front-threequarter, CENTER complete smaller rear-threequarter, clear ivory gutters and whole heads/boots. RIGHT two spacious chest-up portraits of SAME MAN: \"Validation\" wearing a simple flexible CONTACT CROWN of narrow metal/composite curved bands and small wet-contact pads at temples/behind ears, basic design from second reference, thin cable trails out below bust, no mechanical brain or visor over face. \"Was I right?\" crown REMOVED, pale temple contact marks, uncertain saddened thoughtful look. Memory loss hasn't changed his face/personhood. Avoid body pose drama. No device closeups or anatomical insets.\nThird image approved Amel sheet primary same cast OIL/FORMAT reference only, not her face. Second booth oil anchors exact ordinary crown/pads and dim task light only. Heavy Group of Seven connected OPAQUE PAINT: broad directional bristle planes, sculptural knife ridges, joined dark masses and quieter passages. Broad cheek/forehead planes, paint old skin as strongly as cloth; no photoreal pores, digital gloss, small uniform mosaic or smooth face island.\nLIGHT dim lowest-line booth before dawn: predominantly dark brown/slate-violet values; a few subdued warm task-lamp shapes on face and coat. Silver hair mostly muted grey, not blazing white. No bright daylight/studio fill, no neon outlines. Page ivory stays light. Exact texts only, no further slogans, no extra person.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+                "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+                "inspected": true,
+                "role": "Inspected original cover older right man's silver hair/aged face/worn brown coat identity only; no anime/unsupported forearm bands"
+              },
+              {
+                "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+                "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+                "inspected": true,
+                "role": "Inspected ordinary flexible contact crown, Group of Seven oil and dim slate/amber booth light, no setting"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eb5dcefd-2157-4e70-8175-90c0bbff11d4.png",
+                "sha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+                "inspected": true,
+                "role": "Inspected selected Amel sheet for same cast oil/light/ivory cohesion, not female identity"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-8c06959d-b503-4db2-b73c-1830810f8703.png",
+            "returnedSha256": "5e8dbc8c63031fc8e395b0704a883c3213bfa3d23d679dbe6bb13dbffafeed2f",
+            "completedAt": "2026-09-24T11:37:02.560211+00:00",
+            "review": [
+              "Strong older cover identity, source costume/crown on-off states and natural body pass. Small painted ground/contact streaks beneath main/rear boots remain; remove those only."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:37:03.521451+00:00",
+            "status": "PASS",
+            "prompt": "Remove ONLY the little grey/beige painted ground/contact streaks under and between ALL boots in this exact Haru Dent sheet. Replace those outside-body streaks with same clean LIGHT WARM IVORY page. Preserve EVERY character pixel: faces, crown and cable, body proportions, hands, feet/boots, coat, dim lighting, oil paint, ALL text and composition. Do not regenerate body or change anatomy. No other changes. No shadow/ground/floor or added objects.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-8c06959d-b503-4db2-b73c-1830810f8703.png",
+                "sha256": "5e8dbc8c63031fc8e395b0704a883c3213bfa3d23d679dbe6bb13dbffafeed2f",
+                "inspected": true,
+                "role": "Inspected exact Haru target, remove tiny ground marks only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-abdc54f4-497b-43d2-8ddd-9a6b5560f649.png",
+            "returnedSha256": "c7a693f75b528b73db1e50012d35bd6c772a2f6f361b73ff3afbdcc4b37a7b46",
+            "completedAt": "2026-09-24T11:40:21.270231+00:00",
+            "review": [
+              "Actual selected correction inspected: old silver-haired clean-shaven Haru identity matches original cover and stays consistent across front/rear and two portraits.",
+              "Worn brown work coat, ordinary body favoring knee, no unsupported forearm bands; Validation contact crown/pads/cable and after-removal pale marks distinguish supported states. No face/identity erased by memory loss.",
+              "Broad directional opaque oil planes across lined face/hair/materials with dark muted booth values, no smooth digital face island.",
+              "Tiny ground streaks removed; exact name/title and captions legible, full unclipped silhouette and clear ivory gutters; no isolated hand study/scenery/swatches."
+            ]
+          }
+        ],
+        "prompt": "Remove ONLY the little grey/beige painted ground/contact streaks under and between ALL boots in this exact Haru Dent sheet. Replace those outside-body streaks with same clean LIGHT WARM IVORY page. Preserve EVERY character pixel: faces, crown and cable, body proportions, hands, feet/boots, coat, dim lighting, oil paint, ALL text and composition. Do not regenerate body or change anatomy. No other changes. No shadow/ground/floor or added objects.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-8c06959d-b503-4db2-b73c-1830810f8703.png",
+            "sha256": "5e8dbc8c63031fc8e395b0704a883c3213bfa3d23d679dbe6bb13dbffafeed2f",
+            "inspected": true,
+            "role": "Inspected exact Haru target, remove tiny ground marks only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:40:21.270231+00:00",
+        "sourceSha256": "97aa49f26e8c8b96e60a51fc0f280651706c3f2b360f876287b80bb6791a192c",
+        "outputSha256": "c7a693f75b528b73db1e50012d35bd6c772a2f6f361b73ff3afbdcc4b37a7b46",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-8c06959d-b503-4db2-b73c-1830810f8703.png",
+            "sha256": "5e8dbc8c63031fc8e395b0704a883c3213bfa3d23d679dbe6bb13dbffafeed2f",
+            "inspected": true,
+            "role": "Inspected exact Haru target, remove tiny ground marks only"
+          }
+        ],
+        "evidence": [
+          "Actual selected correction inspected: old silver-haired clean-shaven Haru identity matches original cover and stays consistent across front/rear and two portraits.",
+          "Worn brown work coat, ordinary body favoring knee, no unsupported forearm bands; Validation contact crown/pads/cable and after-removal pale marks distinguish supported states. No face/identity erased by memory loss.",
+          "Broad directional opaque oil planes across lined face/hair/materials with dark muted booth values, no smooth digital face island.",
+          "Tiny ground streaks removed; exact name/title and captions legible, full unclipped silhouette and clear ivory gutters; no isolated hand study/scenery/swatches."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "f568404ef99c25832321047f2ad2a178c304f6a0d049e2b6bc8a1cbd306ec29d"
+      },
+      "outputSha256": "c7a693f75b528b73db1e50012d35bd6c772a2f6f361b73ff3afbdcc4b37a7b46"
+    },
+    {
+      "id": "ovik",
+      "name": "Ovik",
+      "sourceIdentityId": "ovik",
+      "role": "Remote human supervisor imposing purge and audit",
+      "selectionEvidence": [
+        {
+          "quote": "His voice arrived without a face, clean and level in Amel's earpiece.",
+          "line": 155,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Purge the target, validate zero, close the lien.",
+          "line": 177,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "The line stayed live and soundless.",
+          "line": 193,
+          "explanation": "Direct appearance or central agency in finished source."
+        },
+        {
+          "quote": "Personal-space audit at dawn.",
+          "line": 493,
+          "explanation": "Direct appearance or central agency in finished source."
+        }
+      ],
+      "form": "Human offscreen; source depicts voice through ordinary communications interfaces only",
+      "storyAppearance": {
+        "anatomy": "Physical body, age and face not depicted; no evidence supports assigning visible bodily appearance.",
+        "lifeStage": "Adult professional supervisor inferred from role; no face/age claimed.",
+        "proportions": "Not shown.",
+        "markings": "Not shown.",
+        "materials": "Voice transmitted through Amel's earpiece and booth speaker grille, not himself a machine.",
+        "clothing": "Not depicted.",
+        "equipment": "Remote audio connection; earpiece and speaker are receive interfaces, ordinary tools.",
+        "scale": "Human voice; device shapes shown as isolated studies with scale labels if needed, no body invented.",
+        "movement": "Clean level speech, deliberate pauses, silent open line.",
+        "distinctiveFeatures": "Voice arrives without a face; do not invent avatar, hologram, robot, waveform anatomy or canonical body."
+      },
+      "explicitCanon": [
+        "None established in universe for this identity; source is canon:false."
+      ],
+      "visualInterpretation": [
+        "Character-reference treatment will explicitly identify a human supervisor's voice-only presence, using isolated external earpiece (same art design as Amel) and source speaker grille, no body.",
+        "Show earpiece from2angles and close matte grille study; a short exact source speech caption can distinguish calm directive/silence state. Device design is art interpretation, ordinary carrier of Ovik's voice, never living character form."
+      ],
+      "states": [
+        {
+          "label": "Status",
+          "description": "Clean level remote voice."
+        },
+        {
+          "label": "Line open",
+          "description": "Connection remains live and soundless."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-foundations-remember:ovik",
+        "links": [],
+        "evidence": "No matching identity found in universe; no unsupported cross-story linkage."
+      },
+      "references": [
+        {
+          "path": "stories/the-foundations-remember/title-image.jpg",
+          "role": "Current cover identity reference: Amel short black hair/young angular face/grey tech coat, Haru silver hair/older worn brown coat",
+          "notes": "Actual pixels inspected. Anime rendering/forearm white bands not binding source facts; omit bands. Current source she/her controls Amel, no masculine reinterpretation.",
+          "sha256": "f49dd489e92b89173955b1967611b340aafe52fbf79f8349587ae2ff93369e89",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+          "role": "Primary Group of Seven oil, dim grey-violet booth shade and small warm task-light planes; crown/case/grille geometry",
+          "notes": "Actual pixels inspected. No booth/chairs/room transferred. Visible flexible contact dome/pads and plain perforated speaker inform ordinary equipment.",
+          "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-foundations-remember/art/landscapes/02-rain-above-line-zero.png",
+          "role": "Connected dark slate-blue oil masses and limited cool palette only",
+          "notes": "Actual pixels inspected; no city/scene transfer.",
+          "sha256": "3acf00c4a56387b44fae7abdca3da378952a3d0c9d18265cace9a13cbdf992b3",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/the-foundations-remember-930b344.jpg",
+          "sha256": "5774dde431dacaae3ab17113ecec6dd6d4f998df13b29a211eae08ed02076f3e",
+          "role": "Exact historical optionA cover recovered from commit930b344, identity/content reference only",
+          "notes": "Actual pixels inspected. Neon-city art contains young dark-haired tech and older silver-haired worker; no prior plot/lore imported. Current she/her source controls Amel.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-foundations-remember/art/characters/ovik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T11:40:22.256773+00:00",
+            "status": "PASS",
+            "prompt": "One landscape1536x1024 OIL character-presence reference folio on clean LIGHT WARM IVORY. Heading exact \"Ovik\", subtitle \"The Memory Under Line Zero\". Additional clear explanation \"Human supervisor · voice only\". Source depicts this human supervisor ONLY AS AN OFFSCREEN VOICE through an earpiece and speaker grille. Do NOT invent his body, face, hands, silhouette, portrait/avatar/hologram or living machine. This is a visual sheet of the ORDINARY INTERFACES that carry his voice, not his physical form.\nLayout: spacious LEFT large isolated ordinary charcoal earpiece in threequarter view, matching the simple small oval ear pad and thin dark hooked wire worn by Amel in first reference, no human ear attached. CENTER smaller SIDE VIEW of exact same earpiece showing earpad and C-shaped hook, no invented buttons/lights or exposed inner electronics. RIGHT larger isolated rectangular grey composite speaker faceplate with small round perforations grouped in circle as in second reference, no wall/room attached. Clear gaps between three studies. Labels beneath are \"Earpiece\", \"Side view\", \"Speaker grille\". Below in a single quiet line use exact source words: \"Purge the target. Validate zero. Close the lien.\" No speech bubbles, waveform diagrams or giant text panels. No need to depict silence as magic. No floor/contact shadows, scenery, swatches or other subjects.\nSTYLE Group of Seven physical opaque OIL, not product photography/CGI or slick technical drawing. Broad connected directional bristle masses, thick sculptural paint edges, quiet dark planes, selectively raised knife strokes; charcoal rubber matte, scratched grey metal/composite grouped into broad slate planes, circular perforations simple dark paint marks. The first selected Amel sheet and second booth oil establish rendering and source device vocabulary ONLY; no character bodies included.\nLIGHT from dim pre-dawn booth: predominantly LOW-VALUE slate/blue-violet shadows, restrained muted warm task-light plane on one edge, no bright metallic glints or neon/green glow. Light ivory page. All objects whole/unclipped. Exact identifying text is primary; ordinary earpiece and grille have NO sentience/agency and no invented internal mechanism.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eb5dcefd-2157-4e70-8175-90c0bbff11d4.png",
+                "sha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+                "inspected": true,
+                "role": "Inspected selected Amel simple earpiece receiving Ovik and oil rendering, no human figure on Ovik folio"
+              },
+              {
+                "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+                "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+                "inspected": true,
+                "role": "Inspected source booth speaker grille geometry and dim oil values only; no room copied"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-13d9a458-caaf-4725-944a-f20c219a1e79.png",
+            "returnedSha256": "dcfca0a32ee5ec43d3266de05b3fbce70b9cb5dfce1ad825a84de4645b55a1e8",
+            "completedAt": "2026-09-24T11:44:06.310919+00:00",
+            "review": [
+              "Actual pixels inspected: explicit Human supervisor / voice only line identifies source offscreen human; no invented body, portrait/avatar or sentient machine.",
+              "Ordinary ear-hook/oval earpiece two views coheres with Amel's device; plain perforated speaker plate coheres with booth artwork. The carriers represent source visual evidence, not his physical form or unsupported internal engineering.",
+              "Physical opaque oil planes, dark charcoal/slate with restrained warm reflection, ivory-only background, exact heading/title/labels and source directive readable.",
+              "Whole forms and clear spacing; no isolated anatomy studies, environment, floor patches, swatches or magical/technical effects."
+            ]
+          }
+        ],
+        "prompt": "One landscape1536x1024 OIL character-presence reference folio on clean LIGHT WARM IVORY. Heading exact \"Ovik\", subtitle \"The Memory Under Line Zero\". Additional clear explanation \"Human supervisor · voice only\". Source depicts this human supervisor ONLY AS AN OFFSCREEN VOICE through an earpiece and speaker grille. Do NOT invent his body, face, hands, silhouette, portrait/avatar/hologram or living machine. This is a visual sheet of the ORDINARY INTERFACES that carry his voice, not his physical form.\nLayout: spacious LEFT large isolated ordinary charcoal earpiece in threequarter view, matching the simple small oval ear pad and thin dark hooked wire worn by Amel in first reference, no human ear attached. CENTER smaller SIDE VIEW of exact same earpiece showing earpad and C-shaped hook, no invented buttons/lights or exposed inner electronics. RIGHT larger isolated rectangular grey composite speaker faceplate with small round perforations grouped in circle as in second reference, no wall/room attached. Clear gaps between three studies. Labels beneath are \"Earpiece\", \"Side view\", \"Speaker grille\". Below in a single quiet line use exact source words: \"Purge the target. Validate zero. Close the lien.\" No speech bubbles, waveform diagrams or giant text panels. No need to depict silence as magic. No floor/contact shadows, scenery, swatches or other subjects.\nSTYLE Group of Seven physical opaque OIL, not product photography/CGI or slick technical drawing. Broad connected directional bristle masses, thick sculptural paint edges, quiet dark planes, selectively raised knife strokes; charcoal rubber matte, scratched grey metal/composite grouped into broad slate planes, circular perforations simple dark paint marks. The first selected Amel sheet and second booth oil establish rendering and source device vocabulary ONLY; no character bodies included.\nLIGHT from dim pre-dawn booth: predominantly LOW-VALUE slate/blue-violet shadows, restrained muted warm task-light plane on one edge, no bright metallic glints or neon/green glow. Light ivory page. All objects whole/unclipped. Exact identifying text is primary; ordinary earpiece and grille have NO sentience/agency and no invented internal mechanism.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eb5dcefd-2157-4e70-8175-90c0bbff11d4.png",
+            "sha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+            "inspected": true,
+            "role": "Inspected selected Amel simple earpiece receiving Ovik and oil rendering, no human figure on Ovik folio"
+          },
+          {
+            "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+            "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+            "inspected": true,
+            "role": "Inspected source booth speaker grille geometry and dim oil values only; no room copied"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T11:44:06.310919+00:00",
+        "sourceSha256": "97aa49f26e8c8b96e60a51fc0f280651706c3f2b360f876287b80bb6791a192c",
+        "outputSha256": "dcfca0a32ee5ec43d3266de05b3fbce70b9cb5dfce1ad825a84de4645b55a1e8",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d305-7e7f-79a2-88f5-cae1489d9449/exec-eb5dcefd-2157-4e70-8175-90c0bbff11d4.png",
+            "sha256": "9de4edb2a0f9d102091df3e76e8eac7da26e0b6e1d19b973248dbed0d02636c3",
+            "inspected": true,
+            "role": "Inspected selected Amel simple earpiece receiving Ovik and oil rendering, no human figure on Ovik folio"
+          },
+          {
+            "path": "stories/the-foundations-remember/art/interiors/01-line-zero-booth-fourteen.png",
+            "sha256": "b3fc2118905017f313612013a89dc01eeea879703884cc5515a9c67fed415ac9",
+            "inspected": true,
+            "role": "Inspected source booth speaker grille geometry and dim oil values only; no room copied"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: explicit Human supervisor / voice only line identifies source offscreen human; no invented body, portrait/avatar or sentient machine.",
+          "Ordinary ear-hook/oval earpiece two views coheres with Amel's device; plain perforated speaker plate coheres with booth artwork. The carriers represent source visual evidence, not his physical form or unsupported internal engineering.",
+          "Physical opaque oil planes, dark charcoal/slate with restrained warm reflection, ivory-only background, exact heading/title/labels and source directive readable.",
+          "Whole forms and clear spacing; no isolated anatomy studies, environment, floor patches, swatches or magical/technical effects."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "8f13a464a0d7a6587f3e0e9a4fc91b86465282024938909972f43e33610c608b"
+      },
+      "outputSha256": "dcfca0a32ee5ec43d3266de05b3fbce70b9cb5dfce1ad825a84de4645b55a1e8"
+    }
+  ]
+}

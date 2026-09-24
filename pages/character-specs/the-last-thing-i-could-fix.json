@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-last-thing-i-could-fix",
+  "title": "The Last Thing I Could Fix",
+  "source": "stories/the-last-thing-i-could-fix/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete final canon bundle and prompt read. Hadrik and Aven are sustained central smith/hero pair. No matching universe entries found; frozen NAMES confirms source-local names. Source cover depicts no face; source prose controls precise harness and circuit state.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Guide, court chroniclers, travelers and townspeople",
+      "reason": "Reported recipients/background with no sustained active identity."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "hadrik",
+      "name": "Hadrik",
+      "role": "legendary mortal blacksmith and first-person narrator",
+      "form": "adult human-presenting man",
+      "selectionEvidence": [
+        {
+          "quote": "I remained Hadrik. I remained a blacksmith.",
+          "explanation": "Smith protagonist, ordinary mortal."
+        },
+        {
+          "quote": "I packed my hammer, wedges, and tool roll.",
+          "explanation": "Personal practical smith tools."
+        }
+      ],
+      "storyAppearance": {
+        "equipment": "Smith tools, gloves, workwear and later rain cloak.",
+        "state": "Forge redesign before injuries, both hands unburned."
+      },
+      "visualInterpretation": [
+        "Unspecified art-only mature stocky man, warm brown skin, balding dark crown with graying temples, broad hooked nose and cropped salt beard.",
+        "Soot-stained ochre shirt, thick dark leather apron, gray trousers and workboots, no magic personal aura."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "In forge before final fieldwork; no later hand burn."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-last-thing-i-could-fix:hadrik",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-last-thing-i-could-fix/art/characters/hadrik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Hadrik\"; title \"The Last Thing I Could Fix\"; role \"Blacksmith\". ONE mature mortal HUMAN man, stocky strong build, warm brown skin, broad hooked nose, receding/balding dark crown with graying temples, short square SALT beard, ordinary matte dark eyes, lined fifties face and wry thoughtful expression. Ochre workshirt sleeves rolled, heavy worn DARK LEATHER APRON, charcoal trousers, stout leather WORK BOOTS, five-finger calloused soot-marked hands. Front/rear complete body; front holds normal smith HAMMER low, tool-roll tied at belt, one leather glove tuckedintoapron. Large matching face. Isolated small leather TOOL ROLL with hammer/punch/ceramic wedges, label \"Tools and wedges\". No huge sword, talking weaponface, magical powers or scene. Bothhands unburned: selected BEFORE spillgate work.\nPrimary image1 oil and DIM rain-dark forge lighting: keep much of face/clothes in connected deep violet-brown shade; narrow FIRE-facing amber ochre planes, restrained cool storm-window blue fill. No daylight glamour/full face flood. Broad MATTE opaque bristle marks across face and hands, not photo/3D, no uniform embossed paintchips. Bright blank ivory paper, no room/anvil/flames/floor/swatches.",
+        "references": [
+          {
+            "path": "stories/the-last-thing-i-could-fix/art/interiors/01-hadriks-forge-in-the-rain.png",
+            "role": "inspected source forge motivated ember/firelight, storm window cool fill and Group of Seven oil only; no room",
+            "inspected": true,
+            "sha256": "1a455f753e7704473a9d0e64970935813ff4f196f8940c651d97c39222ea6b8a"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T05:59:39.080901+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Hadrik\"; title \"The Last Thing I Could Fix\"; role \"Blacksmith\". ONE mature mortal HUMAN man, stocky strong build, warm brown skin, broad hooked nose, receding/balding dark crown with graying temples, short square SALT beard, ordinary matte dark eyes, lined fifties face and wry thoughtful expression. Ochre workshirt sleeves rolled, heavy worn DARK LEATHER APRON, charcoal trousers, stout leather WORK BOOTS, five-finger calloused soot-marked hands. Front/rear complete body; front holds normal smith HAMMER low, tool-roll tied at belt, one leather glove tuckedintoapron. Large matching face. Isolated small leather TOOL ROLL with hammer/punch/ceramic wedges, label \"Tools and wedges\". No huge sword, talking weaponface, magical powers or scene. Bothhands unburned: selected BEFORE spillgate work.\nPrimary image1 oil and DIM rain-dark forge lighting: keep much of face/clothes in connected deep violet-brown shade; narrow FIRE-facing amber ochre planes, restrained cool storm-window blue fill. No daylight glamour/full face flood. Broad MATTE opaque bristle marks across face and hands, not photo/3D, no uniform embossed paintchips. Bright blank ivory paper, no room/anvil/flames/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-last-thing-i-could-fix/art/interiors/01-hadriks-forge-in-the-rain.png",
+                "role": "inspected source forge motivated ember/firelight, storm window cool fill and Group of Seven oil only; no room",
+                "inspected": true,
+                "sha256": "1a455f753e7704473a9d0e64970935813ff4f196f8940c651d97c39222ea6b8a"
+              }
+            ],
+            "preflight": [
+              "Full final canon bundle/prompt read; cover/source forge oil inspected; source precise circuit rules chosen over ornate cover.",
+              "Selected pre-test redesign state three intact blue rivets, inactive ring/wire, unburned smith and uninjured hero; no simultaneous future states.",
+              "One identity with complete body/face/detail, practical distinct appearance art-only; dim fire/cool window oil, ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-84eea967-9628-4a33-bb17-3129a4fd3564.png",
+            "outputSha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f",
+            "finishedAt": "2026-09-24T06:12:28.908677+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels inspected: mature mortal smith coherent across front/rear/face, ordinary hammer/tools/apron and unburned hands.",
+              "Broad opaque matte oil covers face, beard/clothes/tools; source forge amber edge with connected dark cool shadow, exact name/title, ivory no location/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-84eea967-9628-4a33-bb17-3129a4fd3564.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "addcbd2d137c0e60678eacfb7f4a62d3256d29364a67c11f25a6416bbc82838f",
+        "outputSha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f",
+        "references": [
+          {
+            "path": "stories/the-last-thing-i-could-fix/art/interiors/01-hadriks-forge-in-the-rain.png",
+            "role": "inspected source forge motivated ember/firelight, storm window cool fill and Group of Seven oil only; no room",
+            "inspected": true,
+            "sha256": "1a455f753e7704473a9d0e64970935813ff4f196f8940c651d97c39222ea6b8a"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: mature mortal smith coherent across front/rear/face, ordinary hammer/tools/apron and unburned hands.",
+          "Broad opaque matte oil covers face, beard/clothes/tools; source forge amber edge with connected dark cool shadow, exact name/title, ivory no location/swatches."
+        ],
+        "specificationSha256": "7d532cee12815e4fdf4152e5b619b4e67ea669ceb7a0077e413cf5c9810d46ca"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "76a72f4ba4d08f6c04a859036054214d1968084bff8a2a7498309dd0d83c587f"
+    },
+    {
+      "id": "aven",
+      "name": "Aven",
+      "role": "young hero who demands consensual finite protection",
+      "form": "young human-presenting adult, they/them",
+      "selectionEvidence": [
+        {
+          "quote": "Aven stood beside the quench trough",
+          "explanation": "Intent-bound redesign belongs to wearer."
+        },
+        {
+          "quote": "three rivets from soft iron",
+          "explanation": "Exactly three blue overload rivets before test."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Young face, they/them; exact gender and age not stated.",
+        "equipment": "Shirt, split boot, redesigned close-fitted underharness with small plates/silver-gray response wire, sternum/palm will-catch, copper consent ring.",
+        "state": "Fresh redesigned harness immediately before first test, three intact blue rivets and inactive wire."
+      },
+      "visualInterpretation": [
+        "Art-only androgynous young adult about twenty, light olive skin, short straight brown hair, narrow earnest face.",
+        "Plain gray long-sleeve shirt, brown trousers and worn boots with small sewn toe split; exposed harness anatomy interpretive, not cover's ornate armor."
+      ],
+      "states": [
+        {
+          "name": "Selected story state",
+          "description": "Before first hard-use test: three intact blue rivets, no shoulder strain, no sling, ring unheld."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "the-last-thing-i-could-fix:aven",
+        "links": [],
+        "evidence": "Source-local identity; targeted universe/name memory search found no exact match."
+      },
+      "output": "stories/the-last-thing-i-could-fix/art/characters/aven.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit ONLY the center REAR-VIEW body's hanging COPPER CONSENT RING. It currently hangs at VIEWER RIGHT, anatomically right; move the entire ring and short loop to VIEWER LEFT at same height, matching ANATOMICAL LEFT side where it correctly sits on the front-view body (viewer right). Remove old rear-view ring completely, restore ordinary trousers there. Front-view ring stays where it is. Detail ring stays where it is. Preserve EVERYTHING else: exactly3 blue rivets, harness, 5-finger raised palm contact, face/hair/age, shirt/trousers/boots, light, all matte oil strokes, ivory, name/title/labels. No scene/swatches or other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb279864-fd69-45fe-a315-f7db59630edf.png",
+            "role": "inspected immutable candidate; correct rear copper-ring side only",
+            "sha256": "919a122f4f4eed288c27747950d3e6a0da75136edb3012e275cca03a2bb53d03",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T05:59:39.084199+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nHeading \"Aven\"; title \"The Last Thing I Could Fix\"; role \"Young hero\". ONE androgynous young adult HUMAN, age about twenty, light olive skin, short straight BROWN hair, narrow earnest face, round human ears, ordinary matte brown eyes. Source they/them; no gendered glamour. Plain GRAY long-sleeve SHIRT, brown trousers, worn brown BOOTS with small repaired split seam at one toe. Over shirt close-fitted UNDERHARNESS of small overlapping dark steel plates and visible thin SILVER-GRAY wire mesh. Not giant knight armor, no crown/sword. At upper chest EXACTLY THREE intact SMALL BLUE rivet heads arranged one simple row. Sternum contact simple plate. Small isolated COPPER consent ring hangs from an independent short loop at side, UNHELD. Front and rear complete samebody; front gently raises one ordinary palm to show a small non-glowing will-catch contact in palm. Large matching young face. One isolated harness detail showing THREE blue intact rivets and copper ring, label \"Before the first test\". Every metal/wire INACTIVE, no magical aura, no broken rivets or extrablueheads; state immediately after redesign before sack test, no injuries/sling.\nPrimary image1 oil and DIM rain-dark forge lighting: keep much of face/clothes in connected deep violet-brown shade; narrow FIRE-facing amber ochre planes, restrained cool storm-window blue fill. No daylight glamour/full face flood. Broad MATTE opaque bristle marks across face and hands, not photo/3D, no uniform embossed paintchips. Bright blank ivory paper, no room/anvil/flames/floor/swatches.",
+            "references": [
+              {
+                "path": "stories/the-last-thing-i-could-fix/art/interiors/01-hadriks-forge-in-the-rain.png",
+                "role": "inspected source forge motivated ember/firelight, storm window cool fill and Group of Seven oil only; no room",
+                "inspected": true,
+                "sha256": "1a455f753e7704473a9d0e64970935813ff4f196f8940c651d97c39222ea6b8a"
+              }
+            ],
+            "preflight": [
+              "Full final canon bundle/prompt read; cover/source forge oil inspected; source precise circuit rules chosen over ornate cover.",
+              "Selected pre-test redesign state three intact blue rivets, inactive ring/wire, unburned smith and uninjured hero; no simultaneous future states.",
+              "One identity with complete body/face/detail, practical distinct appearance art-only; dim fire/cool window oil, ivory no scenes/swatches."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb279864-fd69-45fe-a315-f7db59630edf.png",
+            "outputSha256": "919a122f4f4eed288c27747950d3e6a0da75136edb3012e275cca03a2bb53d03",
+            "finishedAt": "2026-09-24T06:12:28.923177+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual pixels: young androgynous identity and complete gear, three intact blue rivets and inactive palm contact match chosen before-first-test state; oil/firelight appropriate.",
+              "Copper consent ring inconsistent: front viewer-right/anatomical-left but rear viewer-right/anatomical-right. Move rear ring to viewer-left only; preserve other details."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T06:12:32.144291+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-anatomical-continuity-edit",
+            "prompt": "Edit ONLY the center REAR-VIEW body's hanging COPPER CONSENT RING. It currently hangs at VIEWER RIGHT, anatomically right; move the entire ring and short loop to VIEWER LEFT at same height, matching ANATOMICAL LEFT side where it correctly sits on the front-view body (viewer right). Remove old rear-view ring completely, restore ordinary trousers there. Front-view ring stays where it is. Detail ring stays where it is. Preserve EVERYTHING else: exactly3 blue rivets, harness, 5-finger raised palm contact, face/hair/age, shirt/trousers/boots, light, all matte oil strokes, ivory, name/title/labels. No scene/swatches or other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb279864-fd69-45fe-a315-f7db59630edf.png",
+                "role": "inspected immutable candidate; correct rear copper-ring side only",
+                "sha256": "919a122f4f4eed288c27747950d3e6a0da75136edb3012e275cca03a2bb53d03",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Actual pixels expose anatomical side swap; precise viewer/anatomical mapping checked.",
+              "One target edit and all other source gates passed, no new prop/face/style."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-eb6d9c50-b8c1-4f9c-b224-2f02a1d8cb3e.png",
+            "outputSha256": "926aaa7753ffa3e5d5de4ffd89d311ed2b6bd0c5cff527ce790fb20aa75d5b68",
+            "finishedAt": "2026-09-24T08:21:37.525476+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "2026-09-24 corrected anatomy audit: upright anatomicalRIGHT palm facing viewer has thumb viewerRIGHT. Root withdrew its earlier reversed thumb rule. Attempt2 hand was anatomically correct; attempts3-4 were induced by that erroneous finding. Restore immutable attempt2 bytes, preserving all prompt/return/review history.",
+              "Actual immutable candidate reinspected: five-digit RIGHT palm has correct viewerRIGHT thumb, center contact; three blue rivets and anatomicalLEFT copper ring consistent front/rear. Identity, full bodies, source forge light and matte oil remain intact."
+            ],
+            "selected": true,
+            "reviewHistory": [
+              {
+                "status": "REVISE",
+                "generatorReview": [
+                  "Prior production review passed copper ring corrected to anatomicalLEFT, three intact rivets and inactive pre-test state; preserved as historical outcome.",
+                  "Root independent actual-pixel review found raised anatomicalRIGHT palm has thumb on viewerRIGHT, anatomically a left palm. Source will-catch must remain on palm, so replace this hand with correct RIGHT palm thumb at viewerLEFT. Other source/state/style gates remain passed."
+                ]
+              }
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:21:39.584645+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Use case: stylized-concept. EDIT ONLY the raised HAND in front-view Aven at LEFT SIDE of IMAGE1. This arm is Aven's ANATOMICAL RIGHT ARM. The open PALM FACES THE VIEWER. Correct the five-digit HAND ANATOMY: the THUMB must stick outward on the VIEWER LEFT side of this raised palm; the LITTLE FINGER is on VIEWER RIGHT nearest the torso. Four fingers rise above the palm in normal proportions. The small round WILL-CATCH CONTACT remains centered on the PALM facing viewer. Do NOT convert it into back-of-hand; do NOT switch raised arm or entire figure. Paint an ordinary accurate RIGHT open palm joined naturally to existing right wrist, same scale and matte oil. Remove the old viewer-right thumb completely, now that side has only the little finger. Preserve EVERYTHING ELSE: exact face/short brown hair/young androgynous identity, existing shoulder/forearm pose, complete two bodies/boots, EXACT THREE BLUE rivets, inactive silver mesh and harness, copper ring ANATOMICAL LEFT hip (frontviewerRIGHT/rearviewerLEFT), all labels, isolated gear detail, source forge light, landscape1536x1024 warm IVORY. No new gear or scene; root-requested localized palm anatomy correction only.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-eb6d9c50-b8c1-4f9c-b224-2f02a1d8cb3e.png",
+                "role": "inspected second candidate; root-approved details preserve except raised right-palm thumb orientation",
+                "inspected": true,
+                "sha256": "926aaa7753ffa3e5d5de4ffd89d311ed2b6bd0c5cff527ce790fb20aa75d5b68"
+              }
+            ],
+            "preflight": [
+              "Root review and saved pixels confirm anatomicalRIGHT palm with wrong thumb; viewerLEFT thumb and viewerRIGHT little finger explicitly mapped, palm contact must remain.",
+              "Only hand redraw authorized; no source/story/state/style changes, original selected bytes pinned immutable candidate input; one asset."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d2ebe8ec-0f97-4533-a7c6-187cef554c6f.png",
+            "outputSha256": "fda7f40c357714fb312220c65232b5ee4bddf319998039388451fb4bde6ecbbf",
+            "finishedAt": "2026-09-24T08:33:54.479487+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual third candidate inspected. Text-directed anatomical redraw left thumb at viewerRIGHT unchanged; correction unsuccessful. Ring/rivets/identity otherwise intact.",
+              "Next edit uses explicit horizontal mirror of only raised hand shape; wholebody/arm position must stay fixed."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 4,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T08:33:56.435030+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-edit",
+            "prompt": "Localized IMAGE EDIT. On IMAGE1, horizontally MIRROR/FLIP ONLY the small raised hand shape from wrist to fingertips at farLEFT of frontview body. Current palmthumb is at its RIGHT edge near torso; after hand-only mirror the thick low THUMB is at LEFT edge away from torso and short PINKY atRIGHT edge near torso. This is a RIGHT PALM facing viewer with will-catch disc at center. Preserve normalFIVE digits (fourfingers +one lowerthumb), handscale and disc, naturally join mirrored palm to SAME existing wrist/forearm. Do not mirror the whole figure, either arm, face, page, labels, copperring or armor. ONLY HAND SHAPE mirrors left-right; arm/body stayfixed. Keep EVERYTHING else identical, 1536x1024 ivory landscape, matteoilpaint, 3 blue rivets, left-hip copperring front/rear, sourceface/light and all labels.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-d2ebe8ec-0f97-4533-a7c6-187cef554c6f.png",
+                "role": "inspected failed anatomy candidate, explicitly mirror ONLY raised hand shape",
+                "inspected": true,
+                "sha256": "fda7f40c357714fb312220c65232b5ee4bddf319998039388451fb4bde6ecbbf"
+              }
+            ],
+            "preflight": [
+              "Text anatomy redraw failed. Explicit hand-only horizontal mirror preserves exact hand scale/contact and fixes thumb side without changing wholebody. Candidate inspected and source remains unchanged."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb6fdc38-0c5f-4a68-bff5-271bdbaa103e.png",
+            "outputSha256": "f22269eb7344732464b627499810c53866cff0f2eb5bfa25b1c24334bae51876",
+            "finishedAt": "2026-09-24T08:46:12.412881+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual fourth candidate inspected: raised anatomicalRIGHT palm now has thumb on VIEWERLEFT/outward, four upright fingers ending with pinky VIEWERRIGHT; five total digits and centered will-catch contact visible on palm.",
+              "Source pre-test identity/state retained, exactlythree blue rivets, inactive mesh/contact and copper ring anatomicalLEFT in both bodies. Whole footwear/layout/labels, matteoil/firelight/ivory retained.",
+              "2026-09-24 corrected anatomy audit: upright anatomicalRIGHT palm facing viewer has thumb viewerRIGHT. Root withdrew its earlier reversed thumb rule. Attempt2 hand was anatomically correct; attempts3-4 were induced by that erroneous finding. Restore immutable attempt2 bytes, preserving all prompt/return/review history. Fourth mirrored palm is rejected."
+            ],
+            "selected": false,
+            "reviewHistory": [
+              {
+                "status": "PASS",
+                "generatorReview": [
+                  "Actual fourth candidate inspected: raised anatomicalRIGHT palm now has thumb on VIEWERLEFT/outward, four upright fingers ending with pinky VIEWERRIGHT; five total digits and centered will-catch contact visible on palm.",
+                  "Source pre-test identity/state retained, exactlythree blue rivets, inactive mesh/contact and copper ring anatomicalLEFT in both bodies. Whole footwear/layout/labels, matteoil/firelight/ivory retained."
+                ]
+              }
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-eb6d9c50-b8c1-4f9c-b224-2f02a1d8cb3e.png",
+        "actualSize": "1536x1024",
+        "anatomyAudit": {
+          "reviewedAt": "2026-09-24T09:43:11.836039+00:00",
+          "decision": "2026-09-24 corrected anatomy audit: upright anatomicalRIGHT palm facing viewer has thumb viewerRIGHT. Root withdrew its earlier reversed thumb rule. Attempt2 hand was anatomically correct; attempts3-4 were induced by that erroneous finding. Restore immutable attempt2 bytes, preserving all prompt/return/review history.",
+          "restoredAttempt": 2,
+          "noNewGeneration": true
+        }
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant corrected anatomy actual-pixel audit",
+        "sourceSha256": "addcbd2d137c0e60678eacfb7f4a62d3256d29364a67c11f25a6416bbc82838f",
+        "outputSha256": "926aaa7753ffa3e5d5de4ffd89d311ed2b6bd0c5cff527ce790fb20aa75d5b68",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-cb279864-fd69-45fe-a315-f7db59630edf.png",
+            "role": "inspected immutable candidate; correct rear copper-ring side only",
+            "sha256": "919a122f4f4eed288c27747950d3e6a0da75136edb3012e275cca03a2bb53d03",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "2026-09-24 corrected anatomy audit: upright anatomicalRIGHT palm facing viewer has thumb viewerRIGHT. Root withdrew its earlier reversed thumb rule. Attempt2 hand was anatomically correct; attempts3-4 were induced by that erroneous finding. Restore immutable attempt2 bytes, preserving all prompt/return/review history.",
+          "Actual immutable candidate reinspected: five-digit RIGHT palm has correct viewerRIGHT thumb, center contact; three blue rivets and anatomicalLEFT copper ring consistent front/rear. Identity, full bodies, source forge light and matte oil remain intact."
+        ],
+        "specificationSha256": "b6014d8b28da558b426cf363dd8aef49e58b7e957409e489700f5b38881248aa"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "926aaa7753ffa3e5d5de4ffd89d311ed2b6bd0c5cff527ce790fb20aa75d5b68"
+    }
+  ],
+  "sourceSha256": "addcbd2d137c0e60678eacfb7f4a62d3256d29364a67c11f25a6416bbc82838f"
+}

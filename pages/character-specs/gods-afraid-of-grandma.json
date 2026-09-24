@@ -1,0 +1,1004 @@
+{
+  "schemaVersion": 1,
+  "slug": "gods-afraid-of-grandma",
+  "title": "The Gods Are Afraid of Grandma",
+  "source": "stories/gods-afraid-of-grandma/story.md",
+  "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose read through final invitation/game. Five sustained core agents: Valka, anxious adult grandchild, and individually characterized road/hearth/weather gods. All five speak, act and change stakes. Only Valka named in prose; other names authorized art labels.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Extended family, neighbor, driver, paramedics, tall niece and temperature cousin",
+      "reason": "Referenced/brief background only; no present sustained individual role."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md hierarchy",
+    "universe/rules.md: Divinity continuing power/authority/worship; god labels do not imply distinct substance",
+    "universe/rules.md: Afterlife and continuation, Costs/desire/local mechanisms; no generic immortality or afterlife control",
+    "No Valka/story universe entry; story remains non-canon; original story prompt has no reference images"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "valka",
+      "name": "Grandma Valka",
+      "sourceIdentityId": "valka",
+      "role": "108-year-old grandmother whose interrupted card contract frightens local gods",
+      "selectionEvidence": [
+        {
+          "line": 13,
+          "quote": "At a hundred and eight",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 339,
+          "quote": "nightdress and wool socks",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 401,
+          "quote": "The blue veins stood up under it.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        }
+      ],
+      "form": "Elderly human woman",
+      "storyAppearance": {
+        "anatomy": "Thin elderly woman, white hair, thin skin, raised blue hand veins, trembling arthritic hands with strong grip.",
+        "lifeStage": "Explicitly108; not magically healthy or immortal.",
+        "proportions": "Build of bundled umbrella; frail-looking thin ordinary human body.",
+        "markings": "Aged wrinkles/veins; no invented magical tattoos.",
+        "materials": "White hair, skin, cloth wool and iron.",
+        "clothing": "Main final nightdress and wool socks. Earlier one slipper/one bare foot in wet clothes, not same state.",
+        "equipment": "Iron fireplace poker; worn marked queen of hearts/deck; cigarette earlier habit, no smoking in bed after promise.",
+        "scale": "Elderly adult human.",
+        "movement": "Strong stubborn grip despite trembling/arthritis; wry expression.",
+        "distinctiveFeatures": "Ordinary bodily age/costs remain; no rejuvenation aura."
+      },
+      "explicitCanon": [
+        "Story-local person only; no shared-universe recurrence established."
+      ],
+      "visualInterpretation": [
+        "Pale warm weathered complexion, small sharp face and hooked nose, thin white hair loosely tucked back; gaunt shoulders and slight stoop without erasing strength.",
+        "Muted plum floral cotton nightdress with restrained lace cuffs, grey wool socks. Main final standing views holding poker, wry face, close elderly veined hand and marked queen; no room or floor."
+      ],
+      "states": [
+        {
+          "label": "At midnight",
+          "description": "Nightdress/wool socks with ordinary poker."
+        },
+        {
+          "label": "The marked queen",
+          "description": "Aged hand/card detail, no magic emanation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "gods-afraid-of-grandma:valka",
+        "links": [],
+        "evidence": "Only this story establishes the identity; not equated with another local power or similar role."
+      },
+      "references": [
+        {
+          "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+          "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+          "inspected": true,
+          "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+          "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+          "inspected": true,
+          "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+          "inspected": true,
+          "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+        }
+      ],
+      "output": "stories/gods-afraid-of-grandma/art/characters/valka.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create a genuinely BROAD-BRUSH OIL REPAINT of the SECOND image's exact Grandma Valka character folio. The FIRST image is the PRIMARY authority for HOW to paint. Translate the old woman's surface as boldly as the orchard's large trunk/rock/cloud brush masses. The second image supplies ONLY likeness, geometry, dark nighttime values, outfit, objects, lettering and arrangementâ€”its detailed skin rendering must NOT survive.\n\nSame elderly 108-year-old, same bony hooked-nose face, same dark eyes in same positions, same thin lips and chin, thin stooped body, white hair bun. Same 3 standing views, head portrait, card-holding old hand, poker, floral plum nightdress and grey wool socks. Same exact words \"Grandma Valka\", \"The Gods Are Afraid of Grandma\", \"Your hands\", \"The marked queen\", \"Poker\". Same queen-of-hearts card with brown throat mark/singed worn corners, same five-digit grip and BLUE hand veins.\n\nVERY LARGE BRUSHES. Reconstruct each cheek, forehead, chin and hand plane in BIG uninterrupted matte bristle strokes, several times wider than the current little chips. Broad flat colour masses with thick edges and dragged bristle ridges. Age shown by angular skull, sagging cheek and a FEW major dark crease strokes, not dozens of tiny crinkles. No pores, smooth gradients, reflective nail shine, fine individual hair, shiny bevelled paint chips or realistic skin layer. The close hand must read as several broad opaque planes and thick long vein strokes; natural anatomy remains. White hair becomes sweeping grey-violet oil ribbons. Nightdress becomes long broad PLUM/UMBER fold strokes with grouped simple floral paint dabs, not embroidered-looking fine print. Preserve floral pattern and narrow light lace cuffs.\n\nDIM MIDNIGHT EXPOSURE IS ESSENTIAL. Overall faces/hand/dress predominantly LOW-VALUE connected cool grey-violet/umber shadow. ONLY a very small muted ochre lamp stroke on one cheek ridge and a few finger/fold planes. Do not copy orchard daylight or greens. Halve the width/intensity of the old image's bright orange cheek and hand highlight; broad simplified SHADOW areas should dominate. White hair largely grey-violet. Keep warm ivory PAGE bright and UNCHANGED, so dark oil figures are clearly seen without exposing them evenly.\n\nOne identity only. Retain aged anatomy and original facial proportionsâ€”do not rejuvenate, fatten, prettify, give a different face or cartoon head. No scenery, orchard, other character, background shading, floor/contact shadows, swatches or palette strip. This should look painted confidently with a big brush, not photo-real old skin processed with an oil texture.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:47:25.696359+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on quiet unshaded warm IVORY. Exact upper-left heading \"Grandma Valka\", smaller exact title \"The Gods Are Afraid of Grandma\".\n\nValka is a HUMAN WOMAN explicitly ONE HUNDRED AND EIGHT years old. Visibly extremely elderly: very thin wiry build like a folded umbrella, narrow shoulders, slight stoop, thin pale warm weathered skin, abundant age creases, bony hands with raised BLUE VEINS and arthritic knuckles. Small sharp face, hooked nose, bright skeptical dark eyes, thin WHITE hair loosely tucked back. Her hands still have a strong practical grip. Do not rejuvenate, beautify, make middle-aged, monstrous, superhuman or magically healthy. No aura.\n\nMain final-midnight outfit: long muted PLUM FLORAL cotton NIGHTDRESS with restrained narrow lace cuffs, GREY WOOL SOCKS. No shoes, robe, apron or jewellery. Three full unclipped front/side/back standing views left/centre, same frail-looking but stubborn woman/clothing and relaxed hands; tiny asymmetry and age in posture. Upper right same identity head study \"Your hands\" with a dry amused smile. Lower right a LARGE elderly five-digit hand holding one worn QUEEN OF HEARTS playing card, labelled \"The marked queen\": brown thumbprint at the printed queen's throat, one singed corner, one water-warped corner, minor grit, NO magical glow or readable invented contract. Hand skin's wrinkles/raised blue veins match source and reference. Alongside a separate ordinary IRON FIREPLACE POKER, simple black rod with short hooked end, labelled \"Poker\"; this is not a weapon staff or magical sceptre.\n\nInput1 corrected Orrin sheet is PRIMARY for broad heavy oil masses and dim low-lamp lighting only; do NOT copy male body, bald scalp, beard, apron or tool. Input2 story cover guides extremely aged hand and worn queen card ONLY, not smooth rendering/background/shadow composition. Input3 kitchen supplies dim NIGHT amber lamp planes and connected cool rainy shade only; exclude room and every object. Most figure surfaces form LARGE CONNECTED dark plum/grey/earth masses, with small warm lamp-facing planes on near cheek/hand. Ivory background remains light, plain and unshaded. Do not default to broad studio/daylight.\n\nCanadian Group of Seven-inspired OIL, broad varied directional opaque strokes, selective substantial impasto, quieter shadow passages; skin/hair/cloth painted as boldly as landscape masses. Matte eyes, no glossy CGI/photo face or uniform micro-bevel chips. Preserve dignified humor, vulnerability and age. Exact readable heading/title and concise labels. NO table/chair/room/floor/contact shadow, ground patch, other person, swatches or palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+                "role": "selected broad oil/dim lighting only; no male identity or workwear transfer",
+                "inspected": true,
+                "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+                "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+                "inspected": true,
+                "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+                "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+                "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+                "inspected": true,
+                "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+                "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e80995d1-41cb-41b5-9023-f76426d2342f.png",
+            "returnedSha256": "fb553ba978a82e9389a04add482163b4f38b939a57681b0b75ba76d0693329c5",
+            "completedAt": "2026-09-24T03:52:08.520308+00:00",
+            "review": "Explicit advanced age, thin body, white hair, nightdress/wool socks, hand veins, marked queen and poker/text pass. REVISE illumination and paint hierarchy: broad bright all-over light contradicts dim midnight kitchen; face/hand too finely modeled versus collection broad oil masses. Preserve age/anatomy/identity while connecting shadows and broadening opaque strokes."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:52:09.536298+00:00",
+            "status": "PASS",
+            "prompt": "Revise ONLY illumination and paint handling on this Grandma Valka character folio. Keep exact extremely elderly 108-year-old identity, thin wiry body, posture, wrinkles/veins, white hair/bun, floral plum nightdress, grey wool socks, hand/card/poker anatomy and shapes, all lettering and layout.\n\nThe story moment is MIDNIGHT in a dim kitchen. Eliminate broad even daylight/studio light on EVERY figure, head and hand. Most scalp, face, sleeves, body and card-holding hand must be LARGE CONNECTED DARK cool plum-grey/earth shadow masses. A small low warm lamp reaches only one near cheek, one forearm plane and a few fold planes. Keep far cheek, forehead and half the hand subdued in coherent shade; white hair is mostly grey-violet in shadow with a narrow restrained warm-white patch, not a bright all-over silver halo. Keep features readable but visibly dim. The queen card is paper, not self-lit. Ivory sheet unchanged, bright and unshaded.\n\nRender her skin/white hair and the enlarged old hand more decisively as OPAQUE OIL PAINT: use broader connected strokes and selective impasto like the rest of the collection; do not preserve smooth photographic/CGI skin beneath a texture layer. Keep major age folds, blue veins and knuckles, but simplify fine wrinkle networks into forceful painterly planes. Do not erase age, rejuvenate, smooth the face or add uniformly tiny shiny chips. Dark passages calmer and connected, highlights selective.\n\nExact texts \"Grandma Valka\", \"The Gods Are Afraid of Grandma\", \"Your hands\", \"The marked queen\", \"Poker\" unchanged and readable. Same ordinary iron poker and marked queen-of-hearts. No aura, other person, scene, floor shadows/patches, swatches or new prop.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e80995d1-41cb-41b5-9023-f76426d2342f.png",
+                "role": "immutable exact identity/anatomy/layout edit target; dim midnight light and broad oil handling correction",
+                "inspected": true,
+                "sha256": "fb553ba978a82e9389a04add482163b4f38b939a57681b0b75ba76d0693329c5"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-95c94dd1-1854-42c2-ae00-e1fe8a3dfbcc.png",
+            "returnedSha256": "996755538e370c181261e0d326a4bb5a0ff5c59d463e9d6a634fb0292729f668",
+            "completedAt": "2026-09-24T03:57:14.586050+00:00",
+            "review": [
+              "Actual corrected pixels inspected: visibly extremely elderly thin woman, white hair in shaded grey-violet masses, major wrinkles/raised blue hand veins and knuckles retained without rejuvenation; same identity across views.",
+              "Final nightdress/wool socks, ordinary iron poker and marked worn queen-of-hearts supported. Card has brown throat mark/singed and weathered corners, not magical glow; hand grip/anatomy intact.",
+              "Midnight lamp now restricted to near cheek/hand/folds with large connected dark masses; face/hand paint broadened while age remains legible. Exact title/name/labels, clean ivory and no scene/floor/swatch; pins verified."
+            ],
+            "independentReview": "Root independent pixel review: face, elderly hand and floral nightdress remain too finely modeled/realistic with small paint chips. Preserve exact identity, anatomy, facts and midnight exposure; rebuild skin and folds as broader opaque bristle/knife masses with fewer tiny wrinkles/specular details. Other four sheets PASS; no changes authorized/needed there."
+          },
+          {
+            "attempt": 3,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:15:21.999534+00:00",
+            "status": "REVISE",
+            "prompt": "REPAINT the FIRST image's Grandma Valka in much BROADER SCULPTED OPAQUE OIL PAINT while preserving EXACTLY her identity, proportions, age, anatomy, clothes, props, layout and already-correct dim midnight light. This is a necessary material/style correction, not a lighting correction or new character.\n\nKEEP the 108-year-old thin white-haired woman: identical long hooked nose, eye placement, pointed chin, extremely elderly skeletal face, gaunt neck and slight stoop, wiry body, loose white bun, all three front/side/back poses and wry head expression. Keep midnight low warm near-plane illumination and broad dark plum/umber/cool shadows; DO NOT brighten any face, hand, dress or hair. Keep exact long plum FLORAL nightdress, lace cuff edge, grey wool socks, elderly BLUE-VEINED hand holding the marked QUEEN OF HEARTS, worn/singed card, plain iron poker. Keep text/layout/ivory.\n\nThe first image currently reads as detailed photorealistically modeled skin/clothing beneath a few tiny paint chips. REBUILD the painted surface and internal modelling, don't merely add a texture overlay. SIMPLIFY:\n- Each face into a modest number of BIG INTERLOCKING cheek, brow, nose, jaw and neck value planes in thick opaque bristle/knife strokes. Preserve visible advanced age through bony structure, a FEW bold deep crease strokes and sagging planes, rather than a network of fine wrinkles. Remove tiny highlights/pores/individual crisscross wrinkles and glossy wet eyes. Identity and age must remain unmistakable; no rejuvenation.\n- The large card-holding hand into strong broad knuckle, thumb, tendon and vein masses. Keep actual FIVE-DIGIT grip and blue vein routes, but paint them in FEWER bold strokes; erase finely engraved wrinkle nets, nail shine and photoreal skin shading. This is flesh constructed FROM thick oil shapes.\n- Nightdress folds into LARGE LONG connected plum/umber brush slabs and quiet shadow areas. Keep floral fabric recognizable with simple broad grouped pink/ochre flower dabs; each flower a few impasto marks, NO tiny botanical/petal detail over every square inch. Lace reduced to a few pale rhythmic dabs retaining cuff shape.\n- White hair into broad grey-violet flowing paint ribbons plus a few selective warm-white strokes, not individual flyaway hairs.\nA little broken edge/visible underpainting and substantial selective impasto is good; not uniform shiny bevelled chips or smooth CGI.\n\nInput2 and input3 show the REQUIRED decisiveness of larger opaque paint masses and varied directional strokes. Match their broad simplification in the figure itself. They supply STYLE ONLY: never transfer Fennara face/broad body/apron/flame or kitchen objects. Preserve FIRST image exact Valka facial identity and shapes.\n\nDo not alter exact words \"Grandma Valka\", \"The Gods Are Afraid of Grandma\", \"Your hands\", \"The marked queen\", \"Poker\"; printed queen remains legible. Keep quiet LIGHT IVORY, no scene, floor/contact shadow, vignette, new object, swatches or palette strip.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-95c94dd1-1854-42c2-ae00-e1fe8a3dfbcc.png",
+                "sha256": "996755538e370c181261e0d326a4bb5a0ff5c59d463e9d6a634fb0292729f668",
+                "inspected": true,
+                "role": "Exact Valka identity/anatomy/layout/objects/nighttime exposure edit target; broaden actual paint shapes only"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f459517d-4a19-45fd-9304-95f516146836.png",
+                "sha256": "726bcadffbe1c29cc8a59db94dd1f63ec2fb1b77c4824bf0b274977953919ba6",
+                "inspected": true,
+                "role": "Broader painted skin/cloth masses only; no other woman's face/body/apron/fire"
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+                "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+                "inspected": true,
+                "role": "Group of Seven connected larger oil masses and directional rhythm only; no scene"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-18c7e599-f1b0-46df-be46-3a8eede1d81c.png",
+            "returnedSha256": "3dc8beddddb9f9da4d14bbd10c7e4a078e6170277f0f88ea40282b5317e013c7",
+            "completedAt": "2026-09-24T05:22:06.771466+00:00",
+            "review": "Bigger dress and hand marks improve style, but face still retains detailed small sculpted chips and correction brightens near face/hand/dress beyond accepted midnight exposure. REVISE with source identity as geometry only and broad landscape brushwork primary style; preserve older dim values. No other cast changes."
+          },
+          {
+            "attempt": 4,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T05:22:07.815576+00:00",
+            "status": "PASS",
+            "prompt": "Create a genuinely BROAD-BRUSH OIL REPAINT of the SECOND image's exact Grandma Valka character folio. The FIRST image is the PRIMARY authority for HOW to paint. Translate the old woman's surface as boldly as the orchard's large trunk/rock/cloud brush masses. The second image supplies ONLY likeness, geometry, dark nighttime values, outfit, objects, lettering and arrangementâ€”its detailed skin rendering must NOT survive.\n\nSame elderly 108-year-old, same bony hooked-nose face, same dark eyes in same positions, same thin lips and chin, thin stooped body, white hair bun. Same 3 standing views, head portrait, card-holding old hand, poker, floral plum nightdress and grey wool socks. Same exact words \"Grandma Valka\", \"The Gods Are Afraid of Grandma\", \"Your hands\", \"The marked queen\", \"Poker\". Same queen-of-hearts card with brown throat mark/singed worn corners, same five-digit grip and BLUE hand veins.\n\nVERY LARGE BRUSHES. Reconstruct each cheek, forehead, chin and hand plane in BIG uninterrupted matte bristle strokes, several times wider than the current little chips. Broad flat colour masses with thick edges and dragged bristle ridges. Age shown by angular skull, sagging cheek and a FEW major dark crease strokes, not dozens of tiny crinkles. No pores, smooth gradients, reflective nail shine, fine individual hair, shiny bevelled paint chips or realistic skin layer. The close hand must read as several broad opaque planes and thick long vein strokes; natural anatomy remains. White hair becomes sweeping grey-violet oil ribbons. Nightdress becomes long broad PLUM/UMBER fold strokes with grouped simple floral paint dabs, not embroidered-looking fine print. Preserve floral pattern and narrow light lace cuffs.\n\nDIM MIDNIGHT EXPOSURE IS ESSENTIAL. Overall faces/hand/dress predominantly LOW-VALUE connected cool grey-violet/umber shadow. ONLY a very small muted ochre lamp stroke on one cheek ridge and a few finger/fold planes. Do not copy orchard daylight or greens. Halve the width/intensity of the old image's bright orange cheek and hand highlight; broad simplified SHADOW areas should dominate. White hair largely grey-violet. Keep warm ivory PAGE bright and UNCHANGED, so dark oil figures are clearly seen without exposing them evenly.\n\nOne identity only. Retain aged anatomy and original facial proportionsâ€”do not rejuvenate, fatten, prettify, give a different face or cartoon head. No scenery, orchard, other character, background shading, floor/contact shadows, swatches or palette strip. This should look painted confidently with a big brush, not photo-real old skin processed with an oil texture.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "PRIMARY brushwork/paint-shape scale and simplification only; exclude daylight/landscape palette and content"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-95c94dd1-1854-42c2-ae00-e1fe8a3dfbcc.png",
+                "sha256": "996755538e370c181261e0d326a4bb5a0ff5c59d463e9d6a634fb0292729f668",
+                "inspected": true,
+                "role": "Exact Valka identity/anatomy/layout/objects/nighttime exposure edit target; broaden actual paint shapes only"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-ab66bf31-dc20-4864-bd61-d38d9dc255cf.png",
+            "returnedSha256": "22a7cb68a939fd8b9761e1e6b9da29ca16442659f6ae9eaedfbe1401b0aba26a",
+            "completedAt": "2026-09-24T05:26:40.114291+00:00",
+            "review": [
+              "Actual pixels reviewed against prior identity: elderly hooked-nose face, eye/mouth positions, white bun, gaunt stooped body and five-digit hand/card grip remain consistent; age has not been softened.",
+              "Skin/neck/large hand rebuilt with visibly broader opaque knuckle, cheek, tendon and vein strokes, fewer fine skin wrinkles; white hair uses broader grey-violet strokes. Nightdress now has long connected plum oil folds with simplified grouped floral dabs.",
+              "Dark plum/umber shadows remain dominant with limited warm lamp-facing planes; plain ivory retained. No daytime rim spectacle or new scenery.",
+              "Exact name/title/labels remain readable; socks/poker/marked queen (brown throat mark, singed corner) and aged blue veins retained. No changes to the other four sheets.",
+              "Root's attempt-2 style finding addressed through attempts 3 and 4; attempt 3 rejected, attempt 4 selected for renewed coordinator review."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY brushwork/paint-shape scale and simplification only; exclude daylight/landscape palette and content"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-95c94dd1-1854-42c2-ae00-e1fe8a3dfbcc.png",
+            "sha256": "996755538e370c181261e0d326a4bb5a0ff5c59d463e9d6a634fb0292729f668",
+            "inspected": true,
+            "role": "Exact Valka identity/anatomy/layout/objects/nighttime exposure edit target; broaden actual paint shapes only"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T05:26:40.114291+00:00",
+        "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+        "outputSha256": "22a7cb68a939fd8b9761e1e6b9da29ca16442659f6ae9eaedfbe1401b0aba26a",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "PRIMARY brushwork/paint-shape scale and simplification only; exclude daylight/landscape palette and content"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-95c94dd1-1854-42c2-ae00-e1fe8a3dfbcc.png",
+            "sha256": "996755538e370c181261e0d326a4bb5a0ff5c59d463e9d6a634fb0292729f668",
+            "inspected": true,
+            "role": "Exact Valka identity/anatomy/layout/objects/nighttime exposure edit target; broaden actual paint shapes only"
+          }
+        ],
+        "evidence": [
+          "Actual pixels reviewed against prior identity: elderly hooked-nose face, eye/mouth positions, white bun, gaunt stooped body and five-digit hand/card grip remain consistent; age has not been softened.",
+          "Skin/neck/large hand rebuilt with visibly broader opaque knuckle, cheek, tendon and vein strokes, fewer fine skin wrinkles; white hair uses broader grey-violet strokes. Nightdress now has long connected plum oil folds with simplified grouped floral dabs.",
+          "Dark plum/umber shadows remain dominant with limited warm lamp-facing planes; plain ivory retained. No daytime rim spectacle or new scenery.",
+          "Exact name/title/labels remain readable; socks/poker/marked queen (brown throat mark, singed corner) and aged blue veins retained. No changes to the other four sheets.",
+          "Root's attempt-2 style finding addressed through attempts 3 and 4; attempt 3 rejected, attempt 4 selected for renewed coordinator review."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "f81a7e7e00cbf0826e450fc1bc8f0bab502e2ee3399cd0b8b1ceb7273e55ca8b"
+      },
+      "outputSha256": "22a7cb68a939fd8b9761e1e6b9da29ca16442659f6ae9eaedfbe1401b0aba26a"
+    },
+    {
+      "id": "linnet",
+      "name": "Linnet",
+      "sourceIdentityId": "grandchild",
+      "nameAssignment": {
+        "name": "Linnet",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Anxious adult grandchild narrator who returns Valka's leverage",
+        "scope": "Art/metadata only; source identity remains unnamed. No source/universe edits or added divine ontology.",
+        "nameCheck": "Exact Linnet, Hedrin, Fennara and Osvik searched across universe, frozen NAMES and current/bundle Markdown; no matches."
+      },
+      "role": "Anxious adult grandchild narrator who returns Valka's leverage",
+      "selectionEvidence": [
+        {
+          "line": 119,
+          "quote": "She caught him",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 109,
+          "quote": "I took his hammer.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 453,
+          "quote": "I put my phone face down.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        }
+      ],
+      "form": "Human woman",
+      "storyAppearance": {
+        "anatomy": "Source she; adult grandchild, no exact physical appearance.",
+        "lifeStage": "Adult with apartment and caregiving concerns; exact age unspecified.",
+        "proportions": "Ordinary human.",
+        "markings": "None stated.",
+        "materials": "Everyday clothes/phone/card.",
+        "clothing": "Unspecified ordinary overnight visit attire.",
+        "equipment": "Overnight bag, phone, briefly brass hammer and queen card; not divine focus.",
+        "scale": "Adult.",
+        "movement": "Urgent palms/pointing early, later tired vulnerable listening and handing back card.",
+        "distinctiveFeatures": "Anxious tenderness/agency, no supernatural powers."
+      },
+      "explicitCanon": [
+        "Story-local person only; no shared-universe recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent early40s, fair freckled skin, long straight nose and oval face, straight dark-brown chin-length hair tucked behind ears.",
+        "Dull plum cardigan over charcoal t-shirt, blue-grey jeans, dark trainers; main modern ordinary look, phone held low. Two head states anxious and listening, one empty open hand; not Valka's face de-aged."
+      ],
+      "states": [
+        {
+          "label": "Watching",
+          "description": "Alert worried posture/phone."
+        },
+        {
+          "label": "Staying",
+          "description": "Tired but attentive softened expression."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "gods-afraid-of-grandma:linnet",
+        "links": [],
+        "evidence": "Only this story establishes the identity; not equated with another local power or similar role."
+      },
+      "references": [
+        {
+          "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+          "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+          "inspected": true,
+          "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+          "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+          "inspected": true,
+          "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+          "inspected": true,
+          "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+        }
+      ],
+      "output": "stories/gods-afraid-of-grandma/art/characters/linnet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on unshaded warm IVORY. Exact upper-left heading \"Linnet\", smaller subtitle \"The Gods Are Afraid of Grandma\". Art name for Valka's unnamed adult grandchild narrator.\n\nAn ordinary HUMAN WOMAN in her early40s: fair lightly freckled skin, oval face, long straight nose, straight DARK-BROWN CHIN-LENGTH HAIR tucked behind ears, tired dark eyes, average adult build. Distinct face, NOT a young copy of Valka and NOT the man in style reference. Modern ordinary visiting clothes: dull PLUM CARDIGAN over CHARCOAL T-SHIRT, BLUE-GREY JEANS, dark trainers. No dress, apron, jewellery, uniform, magical marks or supernatural abilities.\n\nLeft three fully unclipped body views front/side/back. Front phone held low in one hand, other hand quietly tense. Side with hands relaxed and shoulders slightly tired. Rear consistent cardigan and straight short hair. Right two same-person portraits: \"Watching\", alert anxious brows and tightened mouth; \"Staying\", tired softened attentive face, no dramatic crying. Below one small half-body gesture with ordinary five-digit open palm labelled \"Returning the choice\", hand reaching gently outward, empty palm rather than invented magical power. A small plain phone may be isolated, screen dark without readable messages. Do not add another person, card table, overnight-room set or a place.\n\nInput1 corrected Orrin sheet gives ONLY primary Group of Seven oil masses and DIM interior light. Do not borrow male face/beard/baldness/apron/gear. Input2 kitchen supports midnight lamp/cool rain shading ONLY, exclude environment and objects. Most each figure/face/hand stays in coherent dark plum-grey/earth shadows, with restricted low warm lamp-facing planes on one cheek and near fingers. Skin still fair but not brightly floodlit; no studio/daylight, rim outline or glowing screen. Ivory stays light and clean.\n\nHeavy OIL from large connected colour/value masses, broad varied directional opaque strokes, selective impasto, quieter shadow passages. Face/hands painted as decisively as clothes, matte eyes, no smooth CGI/photo/anime face or uniform bright bevelled paint chips. Exact name/title and concise labels, ordinary anatomical proportions. No location, floor/contact shadow/ground patch, swatches or palette strip.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:57:15.732814+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on unshaded warm IVORY. Exact upper-left heading \"Linnet\", smaller subtitle \"The Gods Are Afraid of Grandma\". Art name for Valka's unnamed adult grandchild narrator.\n\nAn ordinary HUMAN WOMAN in her early40s: fair lightly freckled skin, oval face, long straight nose, straight DARK-BROWN CHIN-LENGTH HAIR tucked behind ears, tired dark eyes, average adult build. Distinct face, NOT a young copy of Valka and NOT the man in style reference. Modern ordinary visiting clothes: dull PLUM CARDIGAN over CHARCOAL T-SHIRT, BLUE-GREY JEANS, dark trainers. No dress, apron, jewellery, uniform, magical marks or supernatural abilities.\n\nLeft three fully unclipped body views front/side/back. Front phone held low in one hand, other hand quietly tense. Side with hands relaxed and shoulders slightly tired. Rear consistent cardigan and straight short hair. Right two same-person portraits: \"Watching\", alert anxious brows and tightened mouth; \"Staying\", tired softened attentive face, no dramatic crying. Below one small half-body gesture with ordinary five-digit open palm labelled \"Returning the choice\", hand reaching gently outward, empty palm rather than invented magical power. A small plain phone may be isolated, screen dark without readable messages. Do not add another person, card table, overnight-room set or a place.\n\nInput1 corrected Orrin sheet gives ONLY primary Group of Seven oil masses and DIM interior light. Do not borrow male face/beard/baldness/apron/gear. Input2 kitchen supports midnight lamp/cool rain shading ONLY, exclude environment and objects. Most each figure/face/hand stays in coherent dark plum-grey/earth shadows, with restricted low warm lamp-facing planes on one cheek and near fingers. Skin still fair but not brightly floodlit; no studio/daylight, rim outline or glowing screen. Ivory stays light and clean.\n\nHeavy OIL from large connected colour/value masses, broad varied directional opaque strokes, selective impasto, quieter shadow passages. Face/hands painted as decisively as clothes, matte eyes, no smooth CGI/photo/anime face or uniform bright bevelled paint chips. Exact name/title and concise labels, ordinary anatomical proportions. No location, floor/contact shadow/ground patch, swatches or palette strip.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+                "role": "selected broad oil/dim lighting only; no male identity or workwear transfer",
+                "inspected": true,
+                "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+                "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+                "inspected": true,
+                "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+                "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-5422ce24-dae5-40ec-8b56-e579192a3947.png",
+            "returnedSha256": "4aa2de3e1409d268c7382a226d0a8634c4f7e3f9f86f22710b6b38234f0b99f3",
+            "completedAt": "2026-09-24T04:02:44.828996+00:00",
+            "review": [
+              "Actual pixels inspected: distinct ordinary adult woman with consistent bob/freckled face/modern cardigan and jeans across views, anxious Watching versus softer Staying expression.",
+              "Source grandchild/phone/choice gesture represented without magical powers or exaggerated distress; natural five-digit offered hand and phone grip, unclipped full-body views.",
+              "Subdued interior warm planes and connected dark plum/grey clothes and facial shade, thick oil across skin/fabric, exact art name/title and clean ivory, no location/floor/palette. Art-only naming/appearance separated from source; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+            "role": "selected broad oil/dim lighting only; no male identity or workwear transfer",
+            "inspected": true,
+            "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+          },
+          {
+            "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+            "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+            "inspected": true,
+            "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+            "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:02:44.828996+00:00",
+        "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+        "outputSha256": "4aa2de3e1409d268c7382a226d0a8634c4f7e3f9f86f22710b6b38234f0b99f3",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-33efba77-1ee2-4206-8b4a-56ca1e56483e.png",
+            "role": "selected broad oil/dim lighting only; no male identity or workwear transfer",
+            "inspected": true,
+            "sha256": "824f499d3c4352b7648741d39402600f74e935ed783a8e994fe508b9aea3551d"
+          },
+          {
+            "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+            "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+            "inspected": true,
+            "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+            "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: distinct ordinary adult woman with consistent bob/freckled face/modern cardigan and jeans across views, anxious Watching versus softer Staying expression.",
+          "Source grandchild/phone/choice gesture represented without magical powers or exaggerated distress; natural five-digit offered hand and phone grip, unclipped full-body views.",
+          "Subdued interior warm planes and connected dark plum/grey clothes and facial shade, thick oil across skin/fabric, exact art name/title and clean ivory, no location/floor/palette. Art-only naming/appearance separated from source; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "29ef0e11559cfdcff7a0efe2e160fccd9b22b9f77be73a96f0fdcbeaa2be276d"
+      },
+      "outputSha256": "4aa2de3e1409d268c7382a226d0a8634c4f7e3f9f86f22710b6b38234f0b99f3"
+    },
+    {
+      "id": "hedrin",
+      "name": "Hedrin",
+      "sourceIdentityId": "road-god",
+      "nameAssignment": {
+        "name": "Hedrin",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Local road god performing repairs and fearing contractual forfeit",
+        "scope": "Art/metadata only; source identity remains unnamed. No source/universe edits or added divine ontology.",
+        "nameCheck": "Exact Linnet, Hedrin, Fennara and Osvik searched across universe, frozen NAMES and current/bundle Markdown; no matches."
+      },
+      "role": "Local road god performing repairs and fearing contractual forfeit",
+      "selectionEvidence": [
+        {
+          "line": 83,
+          "quote": "A man in a reflective vest",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 83,
+          "quote": "little brass hammer",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 95,
+          "quote": "Rain ran off his shoulders but did not darken the vest.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        }
+      ],
+      "form": "Human-shaped male local god",
+      "storyAppearance": {
+        "anatomy": "Human-looking man; no nonhuman form described.",
+        "lifeStage": "Longstanding local god, apparent age unspecified.",
+        "proportions": "Ordinary adult man.",
+        "markings": "No divine insignia specified.",
+        "materials": "Reflective vest that does not darken in rain, work clothes, brass hammer, muddy traces.",
+        "clothing": "Reflective vest explicit; other work clothes interpreted.",
+        "equipment": "Little brass hammer, cleaning cloth; no watch despite checking bare wrist.",
+        "scale": "Human-sized.",
+        "movement": "Kneels to repair, defensive formality, flinches/bows, tends brine.",
+        "distinctiveFeatures": "No crown/halo/lightning; bounded road domain."
+      },
+      "explicitCanon": [
+        "Story-local god with continuing power, authority and worship; limited domain and costs, no universal afterlife control."
+      ],
+      "visualInterpretation": [
+        "Apparent50s, olive-brown skin, long straight nose, receding short dark hair with grey sideburns, clean-shaven, sturdy build.",
+        "Muted orange reflective vest with plain silver strips over navy work shirt/trousers, dark work boots, no badge/logo or actual wristwatch. Small brass hammer and plain damp cloth shown separately."
+      ],
+      "states": [
+        {
+          "label": "Approach infrastructure",
+          "description": "Work clothes and small brass hammer."
+        },
+        {
+          "label": "Contractual exposure",
+          "description": "Worried diplomatic head."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "gods-afraid-of-grandma:hedrin",
+        "links": [],
+        "evidence": "Only this story establishes the identity; not equated with another local power or similar role."
+      },
+      "references": [
+        {
+          "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+          "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+          "inspected": true,
+          "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+          "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+          "inspected": true,
+          "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+          "inspected": true,
+          "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+        }
+      ],
+      "output": "stories/gods-afraid-of-grandma/art/characters/hedrin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct this Hedrin oil folio while preserving all identity, anatomy, clothing, equipment, text and layout.\n\nREMOVE ALL grey/brown cast-contact shadows beneath and around the separate brass hammer and cleaning cloth. Restore those outside-object pixels to the same clean plain warm IVORY as the page. Preserve the hammer and cloth themselves; no base, floor or ground underneath.\n\nReduce the figures' illumination to true dim midnight kitchen/pantry light: large connected cool dark shadow over far face, most orange vest, back and lower clothes. A small warm lamp reaches only limited near cheek/forearm/vest planes. Make the REAR orange vest particularly subdued dark burnt-orange/umber in shadow, not a broad brightly lit orange rectangle. Reflective silver strips have one or two small dull reflections, no self-luminous glow. Heads remain recognizable and readable, matte eyes. Keep page ground completely unshaded and bright.\n\nPreserve same man, receding hair, bare wrists/no watch, small brass hammer and rag, front/side/back, worried expressions, exact \"Hedrin\", \"The Gods Are Afraid of Grandma\", \"Road god\" and all labels. Opaque oil, quieter connected dark passages, selective impasto, no new tiny glitter chips. No scenery, other person, floor shadows, swatches or new gear.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:02:46.938387+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio, plain warm IVORY. Exact upper-left name \"Hedrin\", smaller subtitle \"The Gods Are Afraid of Grandma\", then compact role label \"Road god\". Name is an authorized art label; depict this story's small local road power in his everyday human-looking form.\n\nHuman-shaped MAN apparent50s, olive-brown skin, long straight nose, receding short dark hair with grey sideburns, clean-shaven, sturdy ordinary adult build. Distinct concerned face with bureaucratic self-importance, not the face of anyone in the reference. MUTED ORANGE reflective work VEST with plain silver strips over NAVY work shirt/trousers, dark work boots. Vest remains dry-looking despite story rain; no storm/weather background. No badge, words on uniform, safety helmet, crown, halo or glowing eyes. No watch: his wrists are bare.\n\nThree unclipped full-body front/side/back views across left/centre with consistent vest, shirt and ordinary anatomy. Front carries a LITTLE BRASS HAMMER low in one hand, NOT a large weapon. Side hands relaxed; back reflective strips consistent. Right two heads \"Approach infrastructure\" (self-important but nervous) and \"Contractual exposure\" (startled worried mouth, different expression). Lower right isolated ordinary small brass hammer and plain crumpled damp cleaning cloth, labelled \"Hammer and cloth\". Optional small bare-wrist glance gesture may be included only if space; do not add a watch.\n\nInput1 selected Linnet provides PRIMARY oil-form/folio and low kitchen-light treatment only; no female face/bob/cardigan/phone transfer. Input2 pantry provides dim warm doorway spill and LARGE CONNECTED cool dark shadow only, no location or objects. Most navy clothes, vest's far side and half each face stay in dark muted earth/violet-grey mass. Restricted small warm planes on near cheek/hand. Orange vest must look muted in shade, silver strips not luminous. Midnight indoor light, no broad studio/daylight or theatrical rim spectacle.\n\nHeavy Canadian Group of Seven-inspired OIL, broad varied directional opaque strokes, large masses, quieter shadow passages and selective substantial impasto. Face/hands and cloth equally painted, matte eyes; no smooth photo/CGI face, anime linework or uniformly bevelled tiny chips. Exact readable lettering/short labels, ordinary five-digit hands. No road/porch/ladder/floor/contact shadow/ground patch, swatches or palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-5422ce24-dae5-40ec-8b56-e579192a3947.png",
+                "role": "selected oil/folio and dim interior rendering only; no female identity/clothes/phone",
+                "inspected": true,
+                "sha256": "4aa2de3e1409d268c7382a226d0a8634c4f7e3f9f86f22710b6b38234f0b99f3"
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+                "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+                "inspected": true,
+                "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+                "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3a7beaa2-3f3b-4be5-91b0-b92fa418032f.png",
+            "returnedSha256": "c94132c050b22289208dc805ecd6ebdf7472587e3acbc5e6231304abf2ef5fa7",
+            "completedAt": "2026-09-24T04:08:00.635927+00:00",
+            "review": "Identity, reflective vest, bare wrists, small brass hammer, cloth and two expressions/text pass. REVISE accessory contact-shadow marks on ivory; remove shadows beneath hammer/cloth. Also reduce broad bright vest/back planes to dim indoor lamp values consistent with specified midnight setting."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:08:01.624390+00:00",
+            "status": "PASS",
+            "prompt": "Correct this Hedrin oil folio while preserving all identity, anatomy, clothing, equipment, text and layout.\n\nREMOVE ALL grey/brown cast-contact shadows beneath and around the separate brass hammer and cleaning cloth. Restore those outside-object pixels to the same clean plain warm IVORY as the page. Preserve the hammer and cloth themselves; no base, floor or ground underneath.\n\nReduce the figures' illumination to true dim midnight kitchen/pantry light: large connected cool dark shadow over far face, most orange vest, back and lower clothes. A small warm lamp reaches only limited near cheek/forearm/vest planes. Make the REAR orange vest particularly subdued dark burnt-orange/umber in shadow, not a broad brightly lit orange rectangle. Reflective silver strips have one or two small dull reflections, no self-luminous glow. Heads remain recognizable and readable, matte eyes. Keep page ground completely unshaded and bright.\n\nPreserve same man, receding hair, bare wrists/no watch, small brass hammer and rag, front/side/back, worried expressions, exact \"Hedrin\", \"The Gods Are Afraid of Grandma\", \"Road god\" and all labels. Opaque oil, quieter connected dark passages, selective impasto, no new tiny glitter chips. No scenery, other person, floor shadows, swatches or new gear.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3a7beaa2-3f3b-4be5-91b0-b92fa418032f.png",
+                "role": "immutable edit target; remove prop cast shadows and correct dim lighting only",
+                "inspected": true,
+                "sha256": "c94132c050b22289208dc805ecd6ebdf7472587e3acbc5e6231304abf2ef5fa7"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-61c6e097-1f35-40e6-963e-c489ff3fb650.png",
+            "returnedSha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820",
+            "completedAt": "2026-09-24T04:16:48.814395+00:00",
+            "review": [
+              "Actual corrected pixels inspected: restricted midnight lamp planes and connected dark face/vest/back shadows, dull reflective strips, no universal orange-blue spectacle or self-lit vest.",
+              "Accessory shadows removed to clean ivory. Distinct male road-god human form, receding hair, bare wrists, ordinary small brass hammer/cloth and contrasting worried expressions retained; no lightning/crown/weapon.",
+              "Exact art name/title/role labels, ordinary five-digit hands, complete full views, broad oil paint on skin/workwear, no location/floor/palette. Source/domain and art-name boundary recorded; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3a7beaa2-3f3b-4be5-91b0-b92fa418032f.png",
+            "role": "immutable edit target; remove prop cast shadows and correct dim lighting only",
+            "inspected": true,
+            "sha256": "c94132c050b22289208dc805ecd6ebdf7472587e3acbc5e6231304abf2ef5fa7"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:16:48.814395+00:00",
+        "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+        "outputSha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-3a7beaa2-3f3b-4be5-91b0-b92fa418032f.png",
+            "role": "immutable edit target; remove prop cast shadows and correct dim lighting only",
+            "inspected": true,
+            "sha256": "c94132c050b22289208dc805ecd6ebdf7472587e3acbc5e6231304abf2ef5fa7"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: restricted midnight lamp planes and connected dark face/vest/back shadows, dull reflective strips, no universal orange-blue spectacle or self-lit vest.",
+          "Accessory shadows removed to clean ivory. Distinct male road-god human form, receding hair, bare wrists, ordinary small brass hammer/cloth and contrasting worried expressions retained; no lightning/crown/weapon.",
+          "Exact art name/title/role labels, ordinary five-digit hands, complete full views, broad oil paint on skin/workwear, no location/floor/palette. Source/domain and art-name boundary recorded; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "da5b58610455a9a13cd7cdcecc567e884ebf97ad34d2b3d694986aa6cf9f0918"
+      },
+      "outputSha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820"
+    },
+    {
+      "id": "fennara",
+      "name": "Fennara",
+      "sourceIdentityId": "hearth-god",
+      "nameAssignment": {
+        "name": "Fennara",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Local hearth god holding household authority and intervening in Valka's heart",
+        "scope": "Art/metadata only; source identity remains unnamed. No source/universe edits or added divine ontology.",
+        "nameCheck": "Exact Linnet, Hedrin, Fennara and Osvik searched across universe, frozen NAMES and current/bundle Markdown; no matches."
+      },
+      "role": "Local hearth god holding household authority and intervening in Valka's heart",
+      "selectionEvidence": [
+        {
+          "line": 129,
+          "quote": "A broad woman in an apron",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 153,
+          "quote": "A blue flame leaked between her fingers",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 331,
+          "quote": "Her palm was fever-hot.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        }
+      ],
+      "form": "Human-shaped female local god",
+      "storyAppearance": {
+        "anatomy": "Broad human-looking woman; small blue flame between fingers.",
+        "lifeStage": "Longstanding local god, apparent age unspecified.",
+        "proportions": "Broad adult woman, ordinary limbs.",
+        "markings": "Later ash-smudged; not whole body on fire.",
+        "materials": "Apron cloth, skin, small blue flame.",
+        "clothing": "Apron explicit, underlying clothing unspecified.",
+        "equipment": "Cleaning cloth, ordinary hands; no holy staff/crown.",
+        "scale": "Human-sized.",
+        "movement": "Practical crouching/cleaning, hands on knees then heated grip, weary limit-setting.",
+        "distinctiveFeatures": "Local hearth authority not universal healing or death prevention."
+      },
+      "explicitCanon": [
+        "Story-local god with continuing power, authority and worship; limited domain and costs, no universal afterlife control."
+      ],
+      "visualInterpretation": [
+        "Apparent late50s, medium warm-brown skin, broad round face, heavy brows, dark-grey hair in practical tight low bun, broad strong build.",
+        "Cream full bib apron over dark brick long-sleeve plain dress, sturdy low shoes. Small ash smudge at cuff, separate hands with tiny blue flame, no glowing eyes."
+      ],
+      "states": [
+        {
+          "label": "Keeping the hearth",
+          "description": "Apron and practical attention."
+        },
+        {
+          "label": "A small intervention",
+          "description": "Five-finger hands with tiny localized blue flame."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "gods-afraid-of-grandma:fennara",
+        "links": [],
+        "evidence": "Only this story establishes the identity; not equated with another local power or similar role."
+      },
+      "references": [
+        {
+          "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+          "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+          "inspected": true,
+          "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+          "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+          "inspected": true,
+          "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+          "inspected": true,
+          "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+        }
+      ],
+      "output": "stories/gods-afraid-of-grandma/art/characters/fennara.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 3:2 landscape character-only OIL folio on clean warm IVORY. Exact upper-left name \"Fennara\", smaller subtitle \"The Gods Are Afraid of Grandma\", compact role \"Hearth god\". Name is an art label for the story's unnamed local hearth power.\n\nHuman-shaped WOMAN, apparent late50s, BROAD strong ordinary build, medium warm-brown skin, broad round face, heavy brows, dark hazel eyes, dark-grey hair in a practical TIGHT LOW BUN. Distinct from all existing faces. No crown, halo, wings, glowing eyes, demonic features or giant body. She is a weary practical household authority, not a glamorous fire queen.\n\nCream full BIB APRON over a plain DARK BRICK long-sleeve calf-length dress, sturdy plain low shoes. Apron construction consistent: same chest bib in every front/side appearance, neck loop, waist ties with back knot; back shows dress and straps, no duplicate front bib on back. Small ash smudge on one cuff. Three unclipped full-body front/side/back views across left/centre, ordinary relaxed hands, can hold one folded cleaning cloth in front. Right two head studies \"Relevant purposes\" (irritated practical attention) and \"At cost\" (quiet exhausted concern), same broad mature face. Lower right one enlarged five-digit hand, palm partly cupped, with a VERY SMALL BLUE FLAME leaking between two fingers, label \"A small intervention\". Fingers intact, no burnt flesh or damage. The flame is narrow and local, not a giant fireball or palm halo. Do not add kitchen tools, hearth or stove.\n\nInput1 corrected Hedrin is PRIMARY for dark connected paint masses and dim midnight folio lighting ONLY: no man's face, vest, tools or receding hair. Input2 kitchen supports subdued warm lamp planes and cool rainy shadows only; exclude all setting/objects. Most face/body/apron stays in connected cool grey/plum shadow; cream apron is muted grey in shade with only small warm near planes. Blue flame casts barely a local tint on fingers, no body aura. No bright studio/daylight, cinematic rim or uniform orange-blue contrast. Ivory ground unchanged/light.\n\nCanadian Group of Seven-inspired heavy OIL, LARGE rhythmic shapes, broad varied directional opaque bristle, selective substantial impasto, quiet shadow passages. Skin/hair/hands as decisively painted as cloth, matte eyes; no smooth CGI/photo/anime face or tiny glitter chips. Exact readable name/title/labels; consistent adult anatomy, no extra fingers. No location, floor/contact shadow, ground patch, swatches, palette bars or decorative prose.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:16:50.734124+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio on clean warm IVORY. Exact upper-left name \"Fennara\", smaller subtitle \"The Gods Are Afraid of Grandma\", compact role \"Hearth god\". Name is an art label for the story's unnamed local hearth power.\n\nHuman-shaped WOMAN, apparent late50s, BROAD strong ordinary build, medium warm-brown skin, broad round face, heavy brows, dark hazel eyes, dark-grey hair in a practical TIGHT LOW BUN. Distinct from all existing faces. No crown, halo, wings, glowing eyes, demonic features or giant body. She is a weary practical household authority, not a glamorous fire queen.\n\nCream full BIB APRON over a plain DARK BRICK long-sleeve calf-length dress, sturdy plain low shoes. Apron construction consistent: same chest bib in every front/side appearance, neck loop, waist ties with back knot; back shows dress and straps, no duplicate front bib on back. Small ash smudge on one cuff. Three unclipped full-body front/side/back views across left/centre, ordinary relaxed hands, can hold one folded cleaning cloth in front. Right two head studies \"Relevant purposes\" (irritated practical attention) and \"At cost\" (quiet exhausted concern), same broad mature face. Lower right one enlarged five-digit hand, palm partly cupped, with a VERY SMALL BLUE FLAME leaking between two fingers, label \"A small intervention\". Fingers intact, no burnt flesh or damage. The flame is narrow and local, not a giant fireball or palm halo. Do not add kitchen tools, hearth or stove.\n\nInput1 corrected Hedrin is PRIMARY for dark connected paint masses and dim midnight folio lighting ONLY: no man's face, vest, tools or receding hair. Input2 kitchen supports subdued warm lamp planes and cool rainy shadows only; exclude all setting/objects. Most face/body/apron stays in connected cool grey/plum shadow; cream apron is muted grey in shade with only small warm near planes. Blue flame casts barely a local tint on fingers, no body aura. No bright studio/daylight, cinematic rim or uniform orange-blue contrast. Ivory ground unchanged/light.\n\nCanadian Group of Seven-inspired heavy OIL, LARGE rhythmic shapes, broad varied directional opaque bristle, selective substantial impasto, quiet shadow passages. Skin/hair/hands as decisively painted as cloth, matte eyes; no smooth CGI/photo/anime face or tiny glitter chips. Exact readable name/title/labels; consistent adult anatomy, no extra fingers. No location, floor/contact shadow, ground patch, swatches, palette bars or decorative prose.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-61c6e097-1f35-40e6-963e-c489ff3fb650.png",
+                "role": "selected dark oil lighting/folio only; no male identity, vest or props",
+                "inspected": true,
+                "sha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820"
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+                "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+                "inspected": true,
+                "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+                "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f459517d-4a19-45fd-9304-95f516146836.png",
+            "returnedSha256": "726bcadffbe1c29cc8a59db94dd1f63ec2fb1b77c4824bf0b274977953919ba6",
+            "completedAt": "2026-09-24T04:22:40.408514+00:00",
+            "review": [
+              "Actual pixels inspected: broad mature human-shaped woman, consistent round face/low bun/brick dress/full bib apron across three views; ordinary anatomy and useful practical versus concerned expression distinction.",
+              "Enlarged hand has five digits and only a small blue flame between fingers; local tint bounded to hand, no body aura, burns, divine crown or universal healing image.",
+              "Subdued night interior shadows with modest warm planes; exact art name/story/role labels, thick directional oil over face/cloth/hand, clean ivory and no location/floor/swatch. Divine-domain/naming boundary retained; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-61c6e097-1f35-40e6-963e-c489ff3fb650.png",
+            "role": "selected dark oil lighting/folio only; no male identity, vest or props",
+            "inspected": true,
+            "sha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820"
+          },
+          {
+            "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+            "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+            "inspected": true,
+            "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+            "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:22:40.408514+00:00",
+        "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+        "outputSha256": "726bcadffbe1c29cc8a59db94dd1f63ec2fb1b77c4824bf0b274977953919ba6",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-61c6e097-1f35-40e6-963e-c489ff3fb650.png",
+            "role": "selected dark oil lighting/folio only; no male identity, vest or props",
+            "inspected": true,
+            "sha256": "12595fce00c18c1aeecf73c447573edcc79f478fce622a3038677af33c3e8820"
+          },
+          {
+            "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+            "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+            "inspected": true,
+            "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+            "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: broad mature human-shaped woman, consistent round face/low bun/brick dress/full bib apron across three views; ordinary anatomy and useful practical versus concerned expression distinction.",
+          "Enlarged hand has five digits and only a small blue flame between fingers; local tint bounded to hand, no body aura, burns, divine crown or universal healing image.",
+          "Subdued night interior shadows with modest warm planes; exact art name/story/role labels, thick directional oil over face/cloth/hand, clean ivory and no location/floor/swatch. Divine-domain/naming boundary retained; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "b5a5e347b8a37d32fba5c96e47e8119c77b080313bd131af0c3698fe2aa54833"
+      },
+      "outputSha256": "726bcadffbe1c29cc8a59db94dd1f63ec2fb1b77c4824bf0b274977953919ba6"
+    },
+    {
+      "id": "osvik",
+      "name": "Osvik",
+      "sourceIdentityId": "weather-god",
+      "nameAssignment": {
+        "name": "Osvik",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Local weather god of valley rain and wind, terrified of Valka's pending collection",
+        "scope": "Art/metadata only; source identity remains unnamed. No source/universe edits or added divine ontology.",
+        "nameCheck": "Exact Linnet, Hedrin, Fennara and Osvik searched across universe, frozen NAMES and current/bundle Markdown; no matches."
+      },
+      "role": "Local weather god of valley rain and wind, terrified of Valka's pending collection",
+      "selectionEvidence": [
+        {
+          "line": 129,
+          "quote": "A narrow person in a yellow raincoat",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 129,
+          "quote": "one spotless boot",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        },
+        {
+          "line": 191,
+          "quote": "One drop. Very neat.",
+          "explanation": "Direct source appearance or decisive sustained cast role."
+        }
+      ],
+      "form": "Narrow human-shaped local god, gender unspecified",
+      "storyAppearance": {
+        "anatomy": "Human-shaped narrow person; no specified gender or nonhuman features.",
+        "lifeStage": "Longstanding local god, apparent age unspecified.",
+        "proportions": "Narrow slender adult.",
+        "markings": "No divine markings.",
+        "materials": "Yellow raincoat with picked rubber cuff, spotless boots.",
+        "clothing": "Yellow raincoat explicit, hood/clothes details unspecified.",
+        "equipment": "No storm staff/umbrella required; small suspended drop optional local manifestation.",
+        "scale": "Human-sized.",
+        "movement": "Swinging boot, sly look, startled fear, picks cuff; one neat rain drop extinguishes ember.",
+        "distinctiveFeatures": "Rain/wind domain, temperature belongs to cousin; no broad storm spectacle."
+      },
+      "explicitCanon": [
+        "Story-local god with continuing power, authority and worship; limited domain and costs, no universal afterlife control."
+      ],
+      "visualInterpretation": [
+        "Androgynous apparent30s, pale olive skin, narrow sharp face, short straight silver-blond hair, alert slanted dark eyes.",
+        "Plain yellow rubber raincoat hood down, slate trousers, spotless dark rubber boots. Small lifted fingertip with one grape-sized cold water drop as hand detail; worn cuff edge, no falling rain scene."
+      ],
+      "states": [
+        {
+          "label": "Very neat",
+          "description": "Dry yellow coat and clean boot."
+        },
+        {
+          "label": "Until",
+          "description": "Wary expression/cuff-picking gesture."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "gods-afraid-of-grandma:osvik",
+        "links": [],
+        "evidence": "Only this story establishes the identity; not equated with another local power or similar role."
+      },
+      "references": [
+        {
+          "path": "stories/gods-afraid-of-grandma/title-image.jpg",
+          "role": "Valka's extremely elderly veined hand, worn queen card and poker silhouette only; no cast faces; cover rendering excluded",
+          "inspected": true,
+          "sha256": "27c76cf6d3f053945168a2d02bd8a68c1409bc5a7840723e7fe5f35ed1d59b39",
+          "notes": "Wrinkled blue-veined elderly hand; purple floral/lace cuff is compatible optional interpretation; exact nightdress/socks/poker from prose."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/01-valkas-kitchen.png",
+          "role": "primary Group of Seven oil masses, night kitchen low amber lamp planes and cool rain shadows only; no location",
+          "inspected": true,
+          "sha256": "3526fb41484ff8a1703d1d0a18c55e8c95ec0da01d3baaf29133d61b04241452",
+          "notes": "Subdued amber lamp and blue stove flame against rain-night shadows; no human identity."
+        },
+        {
+          "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+          "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+          "inspected": true,
+          "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+          "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+        }
+      ],
+      "output": "stories/gods-afraid-of-grandma/art/characters/osvik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Lighting-only correction of this Osvik oil character sheet. KEEP the exact same narrow adult identity, silver-blond hair, all body/face/hand poses, yellow raincoat/hood/cuffs, slate trousers, spotless boots, single water drop, composition and all exact text.\n\nIt is MIDNIGHT in a dim kitchen/pantry, not daylight. Reduce illumination of EVERY figure, head and hand so most of each coat is a LARGE CONNECTED LOW-VALUE dark mustard/olive-umber shadow mass. Preserve yellow as its local material colour, but do not leave broad bright yellow front, sleeves or rear. The back is predominantly dark mustard-grey shade. The far face and forehead lie in connected cool grey/umber shadow; silver-blond hair mostly subdued grey-violet with a few pale strokes. A small low warm lamp reaches only narrow near cheek, near wrist and a few nearby coat planes. The close hand also has a shaded palm. Drop stays small transparent water, non-glowing. No rim outlining, spotlights or black featureless silhouettes; faces/details remain readable.\n\nKeep the warm IVORY page ground exactly as light/plain as before, no shading or vignette. Broad opaque oil masses and selective impasto, quieter shadow strokes. Exact text \"Osvik\", \"The Gods Are Afraid of Grandma\", \"Weather god\", \"Very neat\", \"Until\", \"One drop\" unchanged. No scene, rain shower, lamp object, floor/contact shadows, ground patch or swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:22:42.397983+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio on clean warm IVORY. Exact upper-left heading \"Osvik\", smaller subtitle \"The Gods Are Afraid of Grandma\", compact role \"Weather god\". This is an art label for the source's unnamed narrow person in a yellow raincoat, not a new canonical name.\n\nAndrogynous adult HUMAN-SHAPED local weather god, apparent30s, NARROW slender build, pale olive skin, long angular face, thin straight brows, sharp small nose, short straight SILVER-BLOND hair, dark alert eyes. No wings, horns, halo, crown, glowing pupils or supernatural body anatomy. No source gender claim. Their expressions are sly amusement and sudden unease.\n\nPlain YELLOW RUBBER RAINCOAT with hood DOWN, dark slate trousers, SPOTLESS DARK RUBBER BOOTS. Rubber coat matte with restrained soft reflections; ordinary buttons, no brand/logos, no storm insignia. A picked ragged strip at one coat cuff, otherwise clean. Three complete full views front/side/back left/centre: same narrow adult, hood behind neck, consistent coat/boots. Front hands loosely relaxed; side lightly picking coat cuff with opposite fingers; back hood/coattail clearly visible. Right two same-identity heads \"Very neat\" (small sly smile) and \"Until\" (uneasy lowered gaze). Lower right enlarged ordinary five-digit hand with ONE grape-sized transparent water drop suspended just above the index fingertip, label \"One drop\". Drop has a dull cool reflection, no glowing blue orb, magic glyphs, surrounding rain shower or new storm. No umbrella/staff.\n\nInput1 Fennara provides PRIMARY heavy oil, ivory folio, DIM kitchen light ONLY. Do NOT inherit broad female form, face, bun, apron/dress or blue flame. Input2 pantry provides low warm spill and LARGE CONNECTED cool violet-grey shadows only, no scene/objects. Most coat surfaces must read muted dark mustard/olive-ochre under midnight light, small restricted pale-yellow lamp-facing planes. Far face, silver-blond hair and rear coat mostly in subdued cool shadows. Boots matte and clean, not rim-lit. Ivory page unshaded/light. No broadly floodlit bright-yellow studio coat.\n\nCanadian Group of Seven-inspired OIL: broad varied directional opaque strokes, large rhythmic colour/value shapes, selective impasto and quiet dark passages. Face/hands/hair painted as decisively as coat, matte eyes; no smooth CGI/photo/anime face, shiny uniform bevelled chips or orange-blue spectacle. Exact readable headings/short labels, all bodies unclipped, natural hands. No location, floor/contact shadow/ground patch, weather background, other person, swatches or palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f459517d-4a19-45fd-9304-95f516146836.png",
+                "role": "selected oil masses/dim illumination/folio only; exclude broad female identity/apron/fire",
+                "inspected": true,
+                "sha256": "726bcadffbe1c29cc8a59db94dd1f63ec2fb1b77c4824bf0b274977953919ba6"
+              },
+              {
+                "path": "stories/gods-afraid-of-grandma/art/interiors/02-the-four-foot-pantry.png",
+                "role": "restrained warm doorway spill into connected cool dark shadows only; no geometry",
+                "inspected": true,
+                "sha256": "dbda7f103677f5c811e2189625dc7b693802cd613e258bf19cd8dadfb71f6d1a",
+                "notes": "Story nighttime pantry with strong connected muted shadow; storage objects excluded."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2e9c1070-fd28-4dea-baca-b0233f2d2107.png",
+            "returnedSha256": "e62f643a2c88a35a4611ebc243880c9694f028f3e22d3ac18dee824feb010ce3",
+            "completedAt": "2026-09-24T04:29:20.638648+00:00",
+            "review": "Narrow adult human form, gender-unassigned appearance, yellow raincoat/hood, clean boots, five-digit water-drop detail and text pass. REVISE broad coat/back illumination still reads daytime/studio despite midnight brief. Preserve yellow local hue via dark mustard/olive shadow, restrict small warm planes."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T04:29:21.564785+00:00",
+            "status": "PASS",
+            "prompt": "Lighting-only correction of this Osvik oil character sheet. KEEP the exact same narrow adult identity, silver-blond hair, all body/face/hand poses, yellow raincoat/hood/cuffs, slate trousers, spotless boots, single water drop, composition and all exact text.\n\nIt is MIDNIGHT in a dim kitchen/pantry, not daylight. Reduce illumination of EVERY figure, head and hand so most of each coat is a LARGE CONNECTED LOW-VALUE dark mustard/olive-umber shadow mass. Preserve yellow as its local material colour, but do not leave broad bright yellow front, sleeves or rear. The back is predominantly dark mustard-grey shade. The far face and forehead lie in connected cool grey/umber shadow; silver-blond hair mostly subdued grey-violet with a few pale strokes. A small low warm lamp reaches only narrow near cheek, near wrist and a few nearby coat planes. The close hand also has a shaded palm. Drop stays small transparent water, non-glowing. No rim outlining, spotlights or black featureless silhouettes; faces/details remain readable.\n\nKeep the warm IVORY page ground exactly as light/plain as before, no shading or vignette. Broad opaque oil masses and selective impasto, quieter shadow strokes. Exact text \"Osvik\", \"The Gods Are Afraid of Grandma\", \"Weather god\", \"Very neat\", \"Until\", \"One drop\" unchanged. No scene, rain shower, lamp object, floor/contact shadows, ground patch or swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2e9c1070-fd28-4dea-baca-b0233f2d2107.png",
+                "role": "immutable same-identity edit target; correct midnight illumination only",
+                "inspected": true,
+                "sha256": "e62f643a2c88a35a4611ebc243880c9694f028f3e22d3ac18dee824feb010ce3"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-b3a795b7-742b-481d-800c-72703b71f7db.png",
+            "returnedSha256": "c0a31600390d1559221b34d4b61eb1eff65ce3a341818106ebc30066d3f6ffe0",
+            "completedAt": "2026-09-24T04:36:10.990174+00:00",
+            "review": [
+              "Inspected actual selected pixels: narrow androgynous adult identity, short silver-blond hair, long yellow hood-down raincoat and spotless black boots remain consistent across three full views and two portraits.",
+              "All body, face and hand studies now carry connected dim midnight umber/olive and cool shadows with restricted warm light; the ivory background remains plain and light.",
+              "Large five-digit hand and one transparent, non-glowing drop show only bounded weather ability; no scenery, lamp, floor shadow, palette strip or swatch.",
+              "Exact art-only name, source title and labels are readable; oil massing, directional brushwork and selective impasto agree with approved sheets."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2e9c1070-fd28-4dea-baca-b0233f2d2107.png",
+            "role": "immutable same-identity edit target; correct midnight illumination only",
+            "inspected": true,
+            "sha256": "e62f643a2c88a35a4611ebc243880c9694f028f3e22d3ac18dee824feb010ce3"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:36:10.990174+00:00",
+        "sourceSha256": "b19863911f69c2427f8a68580815d6c7d6d4e68ff1456834a30c3988de052e69",
+        "outputSha256": "c0a31600390d1559221b34d4b61eb1eff65ce3a341818106ebc30066d3f6ffe0",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-2e9c1070-fd28-4dea-baca-b0233f2d2107.png",
+            "role": "immutable same-identity edit target; correct midnight illumination only",
+            "inspected": true,
+            "sha256": "e62f643a2c88a35a4611ebc243880c9694f028f3e22d3ac18dee824feb010ce3"
+          }
+        ],
+        "evidence": [
+          "Inspected actual selected pixels: narrow androgynous adult identity, short silver-blond hair, long yellow hood-down raincoat and spotless black boots remain consistent across three full views and two portraits.",
+          "All body, face and hand studies now carry connected dim midnight umber/olive and cool shadows with restricted warm light; the ivory background remains plain and light.",
+          "Large five-digit hand and one transparent, non-glowing drop show only bounded weather ability; no scenery, lamp, floor shadow, palette strip or swatch.",
+          "Exact art-only name, source title and labels are readable; oil massing, directional brushwork and selective impasto agree with approved sheets."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "31fae4b8d9eaf2f4aa13e452152776a52feec3a632d7fd62c40426cebe79b41d"
+      },
+      "outputSha256": "c0a31600390d1559221b34d4b61eb1eff65ce3a341818106ebc30066d3f6ffe0"
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-star-that-followed-the-bells",
+  "title": "The Star That Followed the Bells",
+  "source": "stories/the-star-that-followed-the-bells/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Finished story and complete prompt read. Nali and Mavek carry the sustained shepherding and communication plot; the living ship changes behavior, and the three satellites have distinct response/choice and coordinated support, inventoried as a collective whose unseen member remains unpictured.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Lame ewe and remaining sheep",
+      "reason": "Important shepherding stakes and behavior but no sustained individual or collective person-like narrative agency; incidental flock subjects are not added as main characters."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover pixels inspected: compatible dark organic crescent/manta-like ship with curved vanes, green channels and amber rear split; no human identity established. Cover guides ship exterior only, not rendering or setting.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "nali-sern",
+      "name": "Nali Sern",
+      "role": "Focal shepherd who establishes the pause-based exchange and guides the living ship to clear local sky.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Nali listened through the first full count. None of the bells came from the sky.",
+          "explanation": "Focal shepherd who establishes the pause-based exchange and guides the living ship to clear local sky."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Shepherd; coat, crook, knife, belt buckle, pack with spare felt, tally slate, radio, low removable brass bell with chipped lip. Experienced with a flock of eighty-three; she uses the quieter bell to teach waiting."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent age forty-three, lean practical build, warm brown skin, broad nose, short dark curly hair, dark blue weather coat over muted ochre knit, olive trousers and weather boots; all unspecified appearance is restrained art interpretation."
+      ],
+      "states": [
+        {
+          "name": "Night communication and recovery",
+          "description": "Shepherd; coat, crook, knife, belt buckle, pack with spare felt, tally slate, radio, low removable brass bell with chipped lip. Experienced with a flock of eighty-three; she uses the quieter bell to teach waiting."
+        }
+      ],
+      "lighting": "Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Nali Sern"
+      },
+      "status": "completed",
+      "output": "stories/the-star-that-followed-the-bells/art/characters/nali-sern.png",
+      "generation": {
+        "prompt": "Repaint this exact Nali Sern sheet, last reference, preserving established character identity/face proportions, clothing, equipment, title, every pose and unclipped margins. FIRST TWO OIL PAINTINGS control the broad connected oil masses; last reference identity and arrangement ONLY. Reduce little paint flakes by 70 percent; join cheek, brow, coat and trousers into substantial matte directional bristle masses with quiet connecting paint and selective thicker edges. No shiny tiny bevel-chip texture, no smooth face, no anime. Relight ALL poses/portrait as genuinely dim stormy NIGHT: most face/body in deep blue-violet/umber connected shadow, just narrow subdued cold green auroral reflection over forehead/cheek/nose/top of coat. Remove warm daytime fill and broad orange cheek glow. Not a bright studio. Outside characters keep the LIGHT IVORY completely unchanged; do not darken/haze background. No scene, floor, swatches or new props. Shrink the sheathed belt blade to an ordinary small farm work knife, hand-length sheath with modest handle, no sword guard, same belt location. Make boots simple dark weather boots with existing trouser cuffs, no armour plates. Preserve all radios, crook, brass bell and felt; keep completed boot silhouettes.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-ce0e253a-1e48-4d9b-b37e-e023f35a8c12.png",
+            "sha256": "49500aecd767604349664dcc3a0563045f3e55efc04492e1f0ed263f9849e76e",
+            "inspected": true,
+            "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference sheet on clean warm LIGHT IVORY, ample unclipped margins. Readable exact name heading and exact story subtitle. Character only: no location, scenery, floor/ground patches, furniture, vignette, other identities, palette strip, swatches, production notes. FIRST attached painting controls broad connected opaque Group of Seven oil masses and varied directional bristle strokes; selective sculpted impasto describes form. SECOND folio controls ivory layout and painted anatomy only, never its face, red cloak, armor or objects. Build skin/faces with the same bold oil planes as clothes, quiet painted eyes within shadow, no anime, glossy digital skin, photoreal face, CG, repeated shiny chips or uniform texture filter. Keep useful negative space. Exact heading \"Nali Sern\"; exact subtitle \"The Star That Followed the Bells\". One adult female shepherd, apparent43, lean sturdy build, warm brown skin, broad nose, short dark curls. Dark navy-blue weather coat, muted ochre knit visible at collar, olive trousers and worn brown waterproof boots. Weathered attentive face, neither glamorous nor elderly. Two complete front-three-quarter and rear-three-quarter full-body views, plus one quieter listening head. Full pose carries plain shepherd's wooden crook and small pack, compact radio clipped at chest, sheathed small work knife on belt. Other pose holds low brass bell with a subtly chipped lip, with a folded felt muffler; one compact separate bell-and-felt object study. No animal or ship. Same costume in all views. Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+            "references": [
+              {
+                "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+                "inspected": true,
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              }
+            ],
+            "preflight": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call.",
+            "reason": "Initial source-backed folio.",
+            "startedAt": "2026-09-24T11:53:39.177575+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-ce0e253a-1e48-4d9b-b37e-e023f35a8c12.png",
+            "outputSha256": "49500aecd767604349664dcc3a0563045f3e55efc04492e1f0ed263f9849e76e",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:00:16.717275+00:00",
+            "generatorReview": "Actual candidate inspected: clear heading and ivory layout; plausible repeated shepherd identity and props. Night illumination is too evenly exposed, clothing/face carry many small bevel-like paint flakes, and the belt blade reads larger than the source work knife. Repaint broader connected shadow masses and reduce the work knife without changing the established identity."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Repaint this exact Nali Sern sheet, last reference, preserving established character identity/face proportions, clothing, equipment, title, every pose and unclipped margins. FIRST TWO OIL PAINTINGS control the broad connected oil masses; last reference identity and arrangement ONLY. Reduce little paint flakes by 70 percent; join cheek, brow, coat and trousers into substantial matte directional bristle masses with quiet connecting paint and selective thicker edges. No shiny tiny bevel-chip texture, no smooth face, no anime. Relight ALL poses/portrait as genuinely dim stormy NIGHT: most face/body in deep blue-violet/umber connected shadow, just narrow subdued cold green auroral reflection over forehead/cheek/nose/top of coat. Remove warm daytime fill and broad orange cheek glow. Not a bright studio. Outside characters keep the LIGHT IVORY completely unchanged; do not darken/haze background. No scene, floor, swatches or new props. Shrink the sheathed belt blade to an ordinary small farm work knife, hand-length sheath with modest handle, no sword guard, same belt location. Make boots simple dark weather boots with existing trouser cuffs, no armour plates. Preserve all radios, crook, brass bell and felt; keep completed boot silhouettes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-ce0e253a-1e48-4d9b-b37e-e023f35a8c12.png",
+                "sha256": "49500aecd767604349664dcc3a0563045f3e55efc04492e1f0ed263f9849e76e",
+                "inspected": true,
+                "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+              }
+            ],
+            "reason": "Actual candidate inspected: clear heading and ivory layout; plausible repeated shepherd identity and props. Night illumination is too evenly exposed, clothing/face carry many small bevel-like paint flakes, and the belt blade reads larger than the source work knife. Repaint broader connected shadow masses and reduce the work knife without changing the established identity.",
+            "preflight": "Actual candidate, complete source and inspected input bytes compared. Correct concrete source/style issues only; no isolated hands or handedness changes. Character-only ivory and feasible margins retained.",
+            "startedAt": "2026-09-24T12:01:25.571394+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-7f602dfb-08a4-449d-89d3-05a4be39c3ce.png",
+            "outputSha256": "e959f400785b8838885b248012988b1158fb73a4b13592be07d46855a01896b9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:09:54.150817+00:00",
+            "generatorReview": "Actual returned pixels inspected: coherent shepherd identity across three views and portrait, radio/crook/pack/felt and chipped-lip brass bell preserved. Knife now ordinary short work tool. Cold subdued auroral highlights and connected blue-violet night shadows, painted facial planes, readable title and ivory character-only layout pass. Two complete main silhouettes retained; additional pose uses a deliberate soft painted lower edge."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call."
+      },
+      "outputSha256": "e959f400785b8838885b248012988b1158fb73a4b13592be07d46855a01896b9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:09:54.150817+00:00",
+        "sourceSha256": "242919423ffed6674f8949285469b08b883dc7f2d7aa6badc6bf183b09a2747e",
+        "outputSha256": "e959f400785b8838885b248012988b1158fb73a4b13592be07d46855a01896b9",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-ce0e253a-1e48-4d9b-b37e-e023f35a8c12.png",
+            "sha256": "49500aecd767604349664dcc3a0563045f3e55efc04492e1f0ed263f9849e76e",
+            "inspected": true,
+            "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: coherent shepherd identity across three views and portrait, radio/crook/pack/felt and chipped-lip brass bell preserved. Knife now ordinary short work tool. Cold subdued auroral highlights and connected blue-violet night shadows, painted facial planes, readable title and ivory character-only layout pass. Two complete main silhouettes retained; additional pose uses a deliberate soft painted lower edge.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "c1b30475c45790ebf2f8217eb2b4cb1ba64483c0660d0733143997ffce8ba5e0"
+      }
+    },
+    {
+      "id": "mavek-tural",
+      "name": "Mavek Tural",
+      "role": "Supporting shepherd whose radio coordination, muffling and paired-bell trials are essential to resolving both flock emergencies.",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "Mavek did not repeat the number. She climbed onto the wall, caught the first ewe by the neck, and wrapped its bell in her scarf.",
+          "explanation": "Supporting shepherd whose radio coordination, muffling and paired-bell trials are essential to resolving both flock emergencies."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Woman and experienced shepherd companion. Pale coat, scarf removed to muffle bells, radio and one removable brass bell nearly twin to Nali's but not chipped."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Apparent age sixty-one, compact stocky frame, pale weather-reddened skin, square face, straight silver hair tucked behind ears. Pale grey practical weather coat over brown knit, charcoal trousers, stout dark boots; muted moss scarf."
+      ],
+      "states": [
+        {
+          "name": "Night communication and recovery",
+          "description": "Woman and experienced shepherd companion. Pale coat, scarf removed to muffle bells, radio and one removable brass bell nearly twin to Nali's but not chipped."
+        }
+      ],
+      "lighting": "Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Mavek Tural"
+      },
+      "status": "completed",
+      "output": "stories/the-star-that-followed-the-bells/art/characters/mavek-tural.png",
+      "generation": {
+        "prompt": "Repaint this exact Mavek Tural sheet, last reference, preserving established character identity/face proportions, clothing, equipment, title, every pose and unclipped margins. FIRST TWO OIL PAINTINGS control the broad connected oil masses; last reference identity and arrangement ONLY. Reduce little paint flakes by 70 percent; join cheek, brow, coat and trousers into substantial matte directional bristle masses with quiet connecting paint and selective thicker edges. No shiny tiny bevel-chip texture, no smooth face, no anime. Relight ALL poses/portrait as genuinely dim stormy NIGHT: most face/body in deep blue-violet/umber connected shadow, just narrow subdued cold green auroral reflection over forehead/cheek/nose/top of coat. Remove warm daytime fill and broad orange cheek glow. Not a bright studio. Outside characters keep the LIGHT IVORY completely unchanged; do not darken/haze background. No scene, floor, swatches or new props. Preserve pale grey weather coat, short silver hair, radio, bell and moss scarf, no identity/anatomy changes.",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-c2addf33-77ef-440f-8e07-1af892f9fddb.png",
+            "sha256": "fb99a59f5d73949d6f599b5607766a5df55b7479d333ee2c92f35ce97bcac141",
+            "inspected": true,
+            "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference sheet on clean warm LIGHT IVORY, ample unclipped margins. Readable exact name heading and exact story subtitle. Character only: no location, scenery, floor/ground patches, furniture, vignette, other identities, palette strip, swatches, production notes. FIRST attached painting controls broad connected opaque Group of Seven oil masses and varied directional bristle strokes; selective sculpted impasto describes form. SECOND folio controls ivory layout and painted anatomy only, never its face, red cloak, armor or objects. Build skin/faces with the same bold oil planes as clothes, quiet painted eyes within shadow, no anime, glossy digital skin, photoreal face, CG, repeated shiny chips or uniform texture filter. Keep useful negative space. Exact heading \"Mavek Tural\"; exact subtitle \"The Star That Followed the Bells\". One older adult female shepherd apparent61, compact stocky frame, pale wind-reddened skin, square broad-cheeked face, short straight silver hair tucked behind ears, steady dark eyes. Pale grey weather coat over brown knit, charcoal work trousers, stout dark boots, compact working radio clipped to coat. Two complete full-body views front-three-quarter and back-three-quarter plus a listening head portrait. In one pose her moss-green scarf is wrapped around the clapper of a handheld brass sheep bell; in another it is loosely around her neck. Clearly label only those two states \"Muffling\" and \"Listening\". Small object study shows the same undamaged bell with scarf muffler. No crook required, no sheep, no ship. Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+            "references": [
+              {
+                "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+                "inspected": true,
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              }
+            ],
+            "preflight": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call.",
+            "reason": "Initial source-backed folio.",
+            "startedAt": "2026-09-24T11:53:39.177575+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-c2addf33-77ef-440f-8e07-1af892f9fddb.png",
+            "outputSha256": "fb99a59f5d73949d6f599b5607766a5df55b7479d333ee2c92f35ce97bcac141",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:00:16.717275+00:00",
+            "generatorReview": "Actual candidate inspected: consistent older shepherd, pale coat, radio, bell/scarf; useful complete poses. Night lighting is too broad and warm, with excessive small paint fragments. Relight and connect broad matte shadow masses, preserve form and equipment."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Repaint this exact Mavek Tural sheet, last reference, preserving established character identity/face proportions, clothing, equipment, title, every pose and unclipped margins. FIRST TWO OIL PAINTINGS control the broad connected oil masses; last reference identity and arrangement ONLY. Reduce little paint flakes by 70 percent; join cheek, brow, coat and trousers into substantial matte directional bristle masses with quiet connecting paint and selective thicker edges. No shiny tiny bevel-chip texture, no smooth face, no anime. Relight ALL poses/portrait as genuinely dim stormy NIGHT: most face/body in deep blue-violet/umber connected shadow, just narrow subdued cold green auroral reflection over forehead/cheek/nose/top of coat. Remove warm daytime fill and broad orange cheek glow. Not a bright studio. Outside characters keep the LIGHT IVORY completely unchanged; do not darken/haze background. No scene, floor, swatches or new props. Preserve pale grey weather coat, short silver hair, radio, bell and moss scarf, no identity/anatomy changes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-c2addf33-77ef-440f-8e07-1af892f9fddb.png",
+                "sha256": "fb99a59f5d73949d6f599b5607766a5df55b7479d333ee2c92f35ce97bcac141",
+                "inspected": true,
+                "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+              }
+            ],
+            "reason": "Actual candidate inspected: consistent older shepherd, pale coat, radio, bell/scarf; useful complete poses. Night lighting is too broad and warm, with excessive small paint fragments. Relight and connect broad matte shadow masses, preserve form and equipment.",
+            "preflight": "Actual candidate, complete source and inspected input bytes compared. Correct concrete source/style issues only; no isolated hands or handedness changes. Character-only ivory and feasible margins retained.",
+            "startedAt": "2026-09-24T12:01:25.571394+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-0be35254-bb3e-4098-8200-f5c5caa31347.png",
+            "outputSha256": "141debea307626dab3be129b27f0a437b1dcd0eeb2e2099d21a243da7f2302e7",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:09:54.150817+00:00",
+            "generatorReview": "Actual returned pixels inspected: consistent older stocky shepherd with short silver hair, pale work coat, radio and scarf/bell states. Dim cold auroral reflection now leaves broad facial/body night shadows. Full silhouettes, readable title, differentiated material paint, clean ivory and no extraneous scene pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call."
+      },
+      "outputSha256": "141debea307626dab3be129b27f0a437b1dcd0eeb2e2099d21a243da7f2302e7",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:09:54.150817+00:00",
+        "sourceSha256": "242919423ffed6674f8949285469b08b883dc7f2d7aa6badc6bf183b09a2747e",
+        "outputSha256": "141debea307626dab3be129b27f0a437b1dcd0eeb2e2099d21a243da7f2302e7",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+            "inspected": true,
+            "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-c2addf33-77ef-440f-8e07-1af892f9fddb.png",
+            "sha256": "fb99a59f5d73949d6f599b5607766a5df55b7479d333ee2c92f35ce97bcac141",
+            "inspected": true,
+            "role": "Immutable actual candidate identity and arrangement only; target for named style/light correction."
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: consistent older stocky shepherd with short silver hair, pale work coat, radio and scarf/bell states. Dim cold auroral reflection now leaves broad facial/body night shadows. Full silhouettes, readable title, differentiated material paint, clean ivory and no extraneous scene pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "41c0e050fb82b3f3edd14235c186ef4747cce5b41613136f3e457520c919c1b9"
+      }
+    },
+    {
+      "id": "ovravel",
+      "name": "Ovravel",
+      "role": "Injured living starship that learns to leave response gaps, recovers its satellite flock and accepts only a verified local route.",
+      "form": "Vast nonhumanoid living starship",
+      "selectionEvidence": [
+        {
+          "quote": "Green light flowed along branching channels beneath a translucent hide.",
+          "explanation": "Injured living starship that learns to leave response gaps, recovers its satellite flock and accepts only a verified local route."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Dark central body; long field vanes; translucent hide with branching green channels; one rear lobe split and leaking amber charge. Magnetic/radio harmonics, flat geometric route projection, blue underside bands. No human face, crew, conventional engines or invented internal engineering."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Ovravel is a distinctive art-only assigned name for the unnamed living starship. Preserve the compatible cover's broad organic crescent/manta-like body silhouette. No exact dimensions are established."
+      ],
+      "states": [
+        {
+          "name": "Night communication and recovery",
+          "description": "Dark central body; long field vanes; translucent hide with branching green channels; one rear lobe split and leaking amber charge. Magnetic/radio harmonics, flat geometric route projection, blue underside bands. No human face, crew, conventional engines or invented internal engineering."
+        }
+      ],
+      "lighting": "Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+      "naming": {
+        "type": "art-only-assigned",
+        "assignedName": "Ovravel",
+        "sourceRole": "Injured living starship that learns to leave response gaps, recovers its satellite flock and accepts only a verified local route.",
+        "authorization": "User explicitly requested names for unnamed main characters; full collection/final-review authorization.",
+        "scope": "Art metadata and heading only; no source/universe fact or true name claim.",
+        "search": "Exact names checked case-insensitively across universe, stories Markdown/JSON and existing character specifications; no prior match."
+      },
+      "status": "completed",
+      "output": "stories/the-star-that-followed-the-bells/art/characters/ovravel.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference sheet on clean warm LIGHT IVORY, ample unclipped margins. Readable exact name heading and exact story subtitle. Character only: no location, scenery, floor/ground patches, furniture, vignette, other identities, palette strip, swatches, production notes. FIRST attached painting controls broad connected opaque Group of Seven oil masses and varied directional bristle strokes; selective sculpted impasto describes form. SECOND folio controls ivory layout and painted anatomy only, never its face, red cloak, armor or objects. Build skin/faces with the same bold oil planes as clothes, quiet painted eyes within shadow, no anime, glossy digital skin, photoreal face, CG, repeated shiny chips or uniform texture filter. Keep useful negative space. Exact heading \"Ovravel\"; exact subtitle \"The Star That Followed the Bells\". This is ONE vast living STARSHIP, never humanoid or an animal with a face. THIRD reference is the source cover: use its broad organic dark crescent/manta-like central body and curved tapering vanes as silhouette guide only, no sky/scenery/text/photo rendering. Huge dark central body with long paired FIELD VANES opening from it, delicate translucent membranes carrying branching green channels; rear lobe has one split membrane edged with weak amber leakage. Show TWO isolated complete exterior views: large dorsal three-quarter, smaller underside-three-quarter with two subdued blue signal bands and dark gap. All curved vanes/lobes inside generous margins. One close detail of torn rear membrane, not engineering cutaway. Render translucency through broad blue-black opaque paint masses and selective thin green painted channels, not glass/metal spaceship plating. No cockpit, face, eyes, limbs, guns, engine exhaust, human, satellite, ground or extra celestial scene. Keep injury location and body form consistent. Dusk illumination subdued and cold; most body dark blue-violet with green/amber self-light restrained to channels/tear. The ivory sheet stays clean and light.",
+        "references": [
+          {
+            "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+            "inspected": true,
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-star-that-followed-the-bells/title-image.jpg",
+            "role": "Actual same-story cover: compatible living ship external silhouette only; no rendering/scene/text.",
+            "inspected": true,
+            "sha256": "33f8b240489ed18ae3daab2cef3a8244cf57f6d6b5cae9c44db57cfb6b424f51"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference sheet on clean warm LIGHT IVORY, ample unclipped margins. Readable exact name heading and exact story subtitle. Character only: no location, scenery, floor/ground patches, furniture, vignette, other identities, palette strip, swatches, production notes. FIRST attached painting controls broad connected opaque Group of Seven oil masses and varied directional bristle strokes; selective sculpted impasto describes form. SECOND folio controls ivory layout and painted anatomy only, never its face, red cloak, armor or objects. Build skin/faces with the same bold oil planes as clothes, quiet painted eyes within shadow, no anime, glossy digital skin, photoreal face, CG, repeated shiny chips or uniform texture filter. Keep useful negative space. Exact heading \"Ovravel\"; exact subtitle \"The Star That Followed the Bells\". This is ONE vast living STARSHIP, never humanoid or an animal with a face. THIRD reference is the source cover: use its broad organic dark crescent/manta-like central body and curved tapering vanes as silhouette guide only, no sky/scenery/text/photo rendering. Huge dark central body with long paired FIELD VANES opening from it, delicate translucent membranes carrying branching green channels; rear lobe has one split membrane edged with weak amber leakage. Show TWO isolated complete exterior views: large dorsal three-quarter, smaller underside-three-quarter with two subdued blue signal bands and dark gap. All curved vanes/lobes inside generous margins. One close detail of torn rear membrane, not engineering cutaway. Render translucency through broad blue-black opaque paint masses and selective thin green painted channels, not glass/metal spaceship plating. No cockpit, face, eyes, limbs, guns, engine exhaust, human, satellite, ground or extra celestial scene. Keep injury location and body form consistent. Dusk illumination subdued and cold; most body dark blue-violet with green/amber self-light restrained to channels/tear. The ivory sheet stays clean and light.",
+            "references": [
+              {
+                "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+                "inspected": true,
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-star-that-followed-the-bells/title-image.jpg",
+                "role": "Actual same-story cover: compatible living ship external silhouette only; no rendering/scene/text.",
+                "inspected": true,
+                "sha256": "33f8b240489ed18ae3daab2cef3a8244cf57f6d6b5cae9c44db57cfb6b424f51"
+              }
+            ],
+            "preflight": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call.",
+            "reason": "Initial source-backed folio.",
+            "startedAt": "2026-09-24T11:53:39.177575+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-b52a3da5-fce5-4e24-98e0-e322b0c4756b.png",
+            "outputSha256": "ddcd79df96abf5c978f9666965c2177d5e7148f4dd6e3ee26964711264590bf1",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:00:16.717275+00:00",
+            "generatorReview": "Actual returned image inspected: two complete consistent organic living-ship exterior views with dark central body, extended field vanes, green branching channels, matching rear torn amber membrane and blue underside communication bands. No cockpit, anthropomorphic parts or internal engineering; dark oil masses and ivory layout pass, all silhouette tips retained, heading/title readable."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call."
+      },
+      "outputSha256": "ddcd79df96abf5c978f9666965c2177d5e7148f4dd6e3ee26964711264590bf1",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:00:16.717275+00:00",
+        "sourceSha256": "242919423ffed6674f8949285469b08b883dc7f2d7aa6badc6bf183b09a2747e",
+        "outputSha256": "ddcd79df96abf5c978f9666965c2177d5e7148f4dd6e3ee26964711264590bf1",
+        "references": [
+          {
+            "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+            "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+            "inspected": true,
+            "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-star-that-followed-the-bells/title-image.jpg",
+            "role": "Actual same-story cover: compatible living ship external silhouette only; no rendering/scene/text.",
+            "inspected": true,
+            "sha256": "33f8b240489ed18ae3daab2cef3a8244cf57f6d6b5cae9c44db57cfb6b424f51"
+          }
+        ],
+        "evidence": "Actual returned image inspected: two complete consistent organic living-ship exterior views with dark central body, extended field vanes, green branching channels, matching rear torn amber membrane and blue underside communication bands. No cockpit, anthropomorphic parts or internal engineering; dark oil masses and ivory layout pass, all silhouette tips retained, heading/title readable.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "fe946e7e60b03fee9ae7c295896f0c46f0b5ea18da63d8c23db5cc48e3803afe"
+      }
+    },
+    {
+      "id": "theskel-flock",
+      "name": "Theskel Flock",
+      "role": "Collective of three satellite companions with separate response timing and choice; their coordinated support stabilizes the ship.",
+      "form": "Three-member nonhuman satellite collective; only two members have described visible bodies",
+      "selectionEvidence": [
+        {
+          "quote": "They came in by choice and they did not dock.",
+          "explanation": "Collective of three satellite companions with separate response timing and choice; their coordinated support stabilizes the ship."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Nearest member a black disk; high member a pair of silver surfaces hinged around darkness; far-side member stays invisible and is known only through delayed clicks and a point in projection. Distinct harmonics, staggered distances, field-line support. Do not invent a third body."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Theskel Flock is a distinctive art-only collective label. No personal names, exact dimensions, internal mechanics or unseen form are asserted. Projection diagrams are evidence of communication, not a physical body."
+      ],
+      "states": [
+        {
+          "name": "Night communication and recovery",
+          "description": "Nearest member a black disk; high member a pair of silver surfaces hinged around darkness; far-side member stays invisible and is known only through delayed clicks and a point in projection. Distinct harmonics, staggered distances, field-line support. Do not invent a third body."
+        }
+      ],
+      "lighting": "Dusk into stormy night: very restrained cold green auroral reflection on a few upward-facing planes, connected deep blue-violet/umber shadows on most face/clothes. Ivory background remains light but does NOT provide daylight fill.",
+      "naming": {
+        "type": "art-only-assigned",
+        "assignedName": "Theskel Flock",
+        "sourceRole": "Collective of three satellite companions with separate response timing and choice; their coordinated support stabilizes the ship.",
+        "authorization": "User explicitly requested names for unnamed main characters; full collection/final-review authorization.",
+        "scope": "Art metadata and heading only; no source/universe fact or true name claim.",
+        "search": "Exact names checked case-insensitively across universe, stories Markdown/JSON and existing character specifications; no prior match."
+      },
+      "status": "completed",
+      "output": "stories/the-star-that-followed-the-bells/art/characters/theskel-flock.png",
+      "generation": {
+        "prompt": "Edit ONLY the BACKGROUND and TEXT of this exact satellite reference sheet. Replace EVERY dark/hazy negative-space pixel around the four satellite shapes and around the flat blue signal motif with uniform LIGHT WARM IVORY. No dark vignette anywhere; all four edges also ivory. Change all heading/subtitle/labels to clearly readable near-black ink: exact \"Theskel Flock\", \"The Star That Followed the Bells\", \"Nearest member\", \"High member\", \"Far-side member — body unseen\". PRESERVE the four satellite shapes exactly as they are, their shapes, dimensions, arrangement, painted surface treatment, night-dark colour and their current shading. Preserve flat blue third-member signal motif. Do not brighten or relight the objects. Do not add humans, stars, floor, scenery, swatches or any new object. Only ivory background and high-contrast dark text.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-9fdb55ef-a41e-4670-b22c-c235ec77c170.png",
+            "sha256": "25df44468b68e9155d8107ae70969f1cba59a9203f5534d4b76d04b415e26fee",
+            "inspected": true,
+            "role": "Immutable inspected selected geometry: correct only background/text."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference sheet on clean warm LIGHT IVORY, ample unclipped margins. Readable exact name heading and exact story subtitle. Character only: no location, scenery, floor/ground patches, furniture, vignette, other identities, palette strip, swatches, production notes. FIRST attached painting controls broad connected opaque Group of Seven oil masses and varied directional bristle strokes; selective sculpted impasto describes form. SECOND folio controls ivory layout and painted anatomy only, never its face, red cloak, armor or objects. Build skin/faces with the same bold oil planes as clothes, quiet painted eyes within shadow, no anime, glossy digital skin, photoreal face, CG, repeated shiny chips or uniform texture filter. Keep useful negative space. Exact heading \"Theskel Flock\"; exact subtitle \"The Star That Followed the Bells\". ONE collective reference sheet for THREE nonhumanoid satellite companions. Do not invent hidden forms. Arrange a large complete view of the NEAREST MEMBER as a matte BLACK DISK with slight thickness, plus its angled edge view; another large complete view of the HIGH MEMBER as exactly TWO SILVER SURFACES HINGED AROUND DARKNESS, open shallow V, plus folded-angle view. These are simple large exterior shapes, no cockpit, eyes, faces, human parts, antennas, weapons or elaborate invented engineering. Paint black disk with broad blue-violet masses, silver surfaces as a few connected cool-grey impasto slabs, not CGI bevels. Third member MUST HAVE NO VISIBLE BODY: lower-right a small flat blue signal/projection notation with three separated dots representing delayed clicks; exact small caption \"Far-side member — body unseen\". Large clear small labels \"Nearest member\" and \"High member\". A compact second signal motif can show three separated positions as simple painted dots, no parent ship, orbit setting or scenery. Ivory between every study, no dark atmospheric background. Faint cool green reflected night light only; maintain dusk-dark bodies. Show constituent views, not a human turnaround. No swatches or floor.",
+            "references": [
+              {
+                "path": "stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "role": "Actual same-story painting: connected oil paint handling and storm dusk palette only, no scenery.",
+                "inspected": true,
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6"
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Approved ivory folio presentation and painted anatomy only; never subject identity or equipment.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              }
+            ],
+            "preflight": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call.",
+            "reason": "Initial source-backed folio.",
+            "startedAt": "2026-09-24T11:53:39.177575+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-a2114107-d49d-4251-beba-804cbca89b8e.png",
+            "outputSha256": "fe10e6cf79208e619a3b248451dfb5b2376277202a9ab0a4e0b2db10ec8740d9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:00:16.717275+00:00",
+            "generatorReview": "Actual candidate inspected: satellite forms and unseen-third signal are coherent, but generator copied the style-reference warrior onto the sheet, violating one collective identity and nonhumanoid form. Remove all human figures/heads; regenerate arrangement using paintings only and satellite candidate for two shapes."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. Create ONE NEW landscape1536x1024 reference sheet on completely clean LIGHT IVORY. Exact large heading \"Theskel Flock\"; exact subtitle \"The Star That Followed the Bells\". ONLY NONHUMANOID SATELLITE FORMS, no human beings, no human heads/faces, no clothing or limbs. The first two attached LANDSCAPE OIL PAINTINGS are solely broad connected paint masses/directional bristles/selective impasto style references; no scenery is to be drawn. Spacious arrangement of four isolated object views: upper left a broad matte BLACK DISK, near-circular in three-quarter view, simple thin edge. Upper right edge/oblique view of SAME BLACK DISK. Lower left a second satellite consisting of exactly TWO SILVER SURFACES HINGED AROUND DARKNESS, open shallow V, simple broad silver slabs. Lower centre same paired silver surface member at another folding angle. Do not invent inner machinery, lights, antennas, cockpits, faces, mouths, eyes or handles. Small exact labels \"Nearest member\" above disk views and \"High member\" above silver pair views. Bottom right ONLY a flat BLUE signal/projection notation of three small separated marks, no solid object, labelled exactly \"Far-side member — body unseen\". The unseen third satellite stays invisible. This is one three-member collective. Main forms dark blue-black and subdued cool silver under faint green storm-night reflections, matte opaque broad palette-knife slabs, no beveled CGI chips. No black space environment, no stars, no parent ship, no swatches, no ground. All shapes have generous ivory margins.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-star-that-followed-the-bells/art/landscapes/02-storm-on-the-north-shoulder.png",
+                "sha256": "380358ca75ecfa359be2ef990e38151c90968d66355dd8b088fed5ee6388e2a6",
+                "inspected": true,
+                "role": "Primary oil painting style and connected shadow masses only; no scenery or daylight."
+              }
+            ],
+            "reason": "Actual candidate inspected: satellite forms and unseen-third signal are coherent, but generator copied the style-reference warrior onto the sheet, violating one collective identity and nonhumanoid form. Remove all human figures/heads; regenerate arrangement using paintings only and satellite candidate for two shapes.",
+            "preflight": "Actual candidate, complete source and inspected input bytes compared. Correct concrete source/style issues only; no isolated hands or handedness changes. Character-only ivory and feasible margins retained.",
+            "startedAt": "2026-09-24T12:01:25.571394+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-9fdb55ef-a41e-4670-b22c-c235ec77c170.png",
+            "outputSha256": "25df44468b68e9155d8107ae70969f1cba59a9203f5534d4b76d04b415e26fee",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:09:54.150817+00:00",
+            "generatorReview": "Second actual candidate removes erroneous humans and clearly preserves the two described exterior forms plus a flat signal for unseen far member. However all negative space became dark/hazed and labels are low contrast. Diagnosis: night instruction was applied to entire sheet despite ivory request. Keep accepted forms/layout, change only all background to light ivory and all text to dark ink."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Edit ONLY the BACKGROUND and TEXT of this exact satellite reference sheet. Replace EVERY dark/hazy negative-space pixel around the four satellite shapes and around the flat blue signal motif with uniform LIGHT WARM IVORY. No dark vignette anywhere; all four edges also ivory. Change all heading/subtitle/labels to clearly readable near-black ink: exact \"Theskel Flock\", \"The Star That Followed the Bells\", \"Nearest member\", \"High member\", \"Far-side member — body unseen\". PRESERVE the four satellite shapes exactly as they are, their shapes, dimensions, arrangement, painted surface treatment, night-dark colour and their current shading. Preserve flat blue third-member signal motif. Do not brighten or relight the objects. Do not add humans, stars, floor, scenery, swatches or any new object. Only ivory background and high-contrast dark text.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-9fdb55ef-a41e-4670-b22c-c235ec77c170.png",
+                "sha256": "25df44468b68e9155d8107ae70969f1cba59a9203f5534d4b76d04b415e26fee",
+                "inspected": true,
+                "role": "Immutable inspected selected geometry: correct only background/text."
+              }
+            ],
+            "reason": "Second actual candidate removes erroneous humans and clearly preserves the two described exterior forms plus a flat signal for unseen far member. However all negative space became dark/hazed and labels are low contrast. Diagnosis: night instruction was applied to entire sheet despite ivory request. Keep accepted forms/layout, change only all background to light ivory and all text to dark ink.",
+            "preflight": "After two distinct unsuccessful attempts, geometry is stable; remove night/background conflict by precise background/text-only edit with single accepted candidate input. No form changes.",
+            "startedAt": "2026-09-24T12:09:55.176941+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-27d159bb-3b01-4074-88b9-4e470a51c86c.png",
+            "outputSha256": "11217e884c7fbcb83632abe10a4680acfc93003e86900e5d1f6c9ae09eee4e1c",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:25:35.995562+00:00",
+            "generatorReview": "Actual final pixels inspected: clear uniform ivory and high-contrast correct text restored. Four views belong only to two described visible satellite exteriors: black disk and silver paired hinged surfaces; far-side member remains a flat labelled blue signal, with no invented body. Forms, night colours and sculpted oil remain intact, no humans/scene/floor; margins and one collective identity pass."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete source/prompt read, exact authority checked; cover and selected refs actually inspected. Cast/name/form/lighting and feasible character-only framing reviewed. No contradictory reference, invented unseen body, hand study or location. One asset and at most three useful references per call."
+      },
+      "outputSha256": "11217e884c7fbcb83632abe10a4680acfc93003e86900e5d1f6c9ae09eee4e1c",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T12:25:35.995562+00:00",
+        "sourceSha256": "242919423ffed6674f8949285469b08b883dc7f2d7aa6badc6bf183b09a2747e",
+        "outputSha256": "11217e884c7fbcb83632abe10a4680acfc93003e86900e5d1f6c9ae09eee4e1c",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d309-1ec2-7493-8aae-09c8c133e166\\exec-9fdb55ef-a41e-4670-b22c-c235ec77c170.png",
+            "sha256": "25df44468b68e9155d8107ae70969f1cba59a9203f5534d4b76d04b415e26fee",
+            "inspected": true,
+            "role": "Immutable inspected selected geometry: correct only background/text."
+          }
+        ],
+        "evidence": "Actual final pixels inspected: clear uniform ivory and high-contrast correct text restored. Four views belong only to two described visible satellite exteriors: black disk and silver paired hinged surfaces; far-side member remains a flat labelled blue signal, with no invented body. Forms, night colours and sculpted oil remain intact, no humans/scene/floor; margins and one collective identity pass.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "4b2f3f5a47eb661983c7d882a00fddd8070dbe8d4889cec1a20306e45ed87cdf"
+      }
+    }
+  ],
+  "sourceSha256": "242919423ffed6674f8949285469b08b883dc7f2d7aa6badc6bf183b09a2747e"
+}

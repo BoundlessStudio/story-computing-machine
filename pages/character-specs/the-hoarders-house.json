@@ -1,0 +1,939 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-hoarders-house",
+  "title": "The House of Possible Uses",
+  "source": "stories/the-hoarders-house/story.md",
+  "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished story, prompt and passing review read after false marker. Five named sustained people form the full rescue and family change ensemble. Exact identity search in universe/specs found no shared recurrence. Collector seed/artifacts do not display individual life or agency and are equipment, not cast.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Grandmother, mother, salvage estate owner and museum staff",
+      "reason": "Referenced memory/offstage roles without enacted sustained individual arc."
+    },
+    {
+      "name": "Collector seed, whisper-vane, mothglass, step-stone and house",
+      "reason": "Local artifact/environment phenomena do not establish living character agency; equipment only where needed."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Local artifact behavior does not create a universal rule; no sentient construct inferred from response alone"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No exact identities found"
+      ]
+    }
+  ],
+  "referenceInputs": [],
+  "referenceInputAssessment": "No original external reference inventory in original prompt; recorded rewrite explicitly none supplied. Actual cover, entry hall, kitchen and rainy street paintings inspected. Cover Enna identity retained only as subordinate content; matte source paintings govern rendering/light.",
+  "characters": [
+    {
+      "id": "enna-laird",
+      "name": "Enna Laird",
+      "role": "Niece/narrator, access organiser and seed transfer agent",
+      "selectionEvidence": [
+        {
+          "quote": "Enna Laird?",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Daskar gripped my belt",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "I placed it into the suspended jar",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "work gloves, labels, and no cart",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary human adult niece; exact age/features unspecified in prose. Belt supports retrieval, chalk and next-morning work gloves/labels. Holding seed is mundane hand action, no magic.",
+        "clothing": "Brown museum coat explicit for Kezra; other wardrobe and exact ages/features are art interpretations.",
+        "equipment": "Ordinary human adult niece; exact age/features unspecified in prose. Belt supports retrieval, chalk and next-morning work gloves/labels. Holding seed is mundane hand action, no magic.",
+        "states": "Afternoon concern/steady retrieval; next-morning practical work."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary human adult niece; exact age/features unspecified in prose. Belt supports retrieval, chalk and next-morning work gloves/labels. Holding seed is mundane hand action, no magic."
+      ],
+      "visualInterpretation": [
+        "Art interpretation anchored to inspected cover: adult30, light warm-tan skin, brown/hazel eyes, straight narrow nose, dark-brown loosely pinned tousled hair and brown work shirt.",
+        "Practical sturdy medium build, grey trousers, broad leather belt and work boots; next-morning gloves alternate."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Afternoon concern/steady retrieval; next-morning practical work."
+        }
+      ],
+      "naming": {
+        "sourceName": "Enna Laird",
+        "provenance": "Exact full source name, surname as confirmed by agents/source review."
+      },
+      "recurrence": {
+        "identityKey": "the-hoarders-house:enna-laird",
+        "links": [],
+        "evidence": "No exact/alias shared identity; review names all new."
+      },
+      "references": [
+        {
+          "path": "stories\\the-hoarders-house\\title-image.jpg",
+          "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+          "inspected": true,
+          "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+          "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "inspected": true,
+          "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+          "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "inspected": true,
+          "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+          "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+          "inspected": true,
+          "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+        }
+      ],
+      "output": "stories/the-hoarders-house/art/characters/enna-laird.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T10:28:28.194111+00:00",
+        "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+        "outputSha256": "a054daf5771b0cde9f1c3c7cf8a95fbb63da312e48114d5b860d7e06e1e159d3",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-fb49da24-cf49-47f3-b4f7-d3e3b4900510.png",
+            "sha256": "315b4f31134bd1ccd87d65da7052a5e24a77179c20b30afc02bc8f34b73984c0",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          },
+          {
+            "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+            "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+            "inspected": true,
+            "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+          },
+          {
+            "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+            "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+            "inspected": true,
+            "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+          }
+        ],
+        "evidence": "PASS actual saved pixels: identity retained and facial flesh/hair translated into opaque connected oil planes, ordinary five-digit hands, tiny ridged seed without face or false nonmagical assertion, chalk/iron pull and gloved label sorting preserved; full front/back silhouettes and exact name/title legible on warm ivory; muted indoor day light.",
+        "specificationSha256": "c4a10f1e7c6288d7430553af9457c60a84865899fad2472fe070c945bd88e95c"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit exact Enna Laird sheet preserving adult face IDENTITY/structure, hair shape, body, brown shirt/grey trousers/belt/boots, ordinary hands, tiny ridged seed, gloves/blank labels/iron pull/chalk and all poses. Change entire background to CLEAN LIGHT WARM IVORY; exact name/story title and view labels solid dark brown clearly readable. DELETE the notes Small ridged seed. Ordinary. No magic. and Work-worn hands. Some dust. No wounds. Retain short Seed and Hands labels only. REPAINT every FACE, flesh and hair into LARGE CONNECTED OPAQUE MATTE OIL masses matching actual story paintings references2/3. Strong decisive bristle/knife handling across forehead, cheeks, nose, eyes and hair; no smooth photographic skin/individual glossy hair strands, no surface texture filter. Preserve portrait bone structure and adult proportions; do not replace identity. Muted rainy-day cool grey shadow shapes with limited indoor warmth, NOT studio orange skin. No ground/scenery/glow or new accessory.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-fb49da24-cf49-47f3-b4f7-d3e3b4900510.png",
+            "sha256": "315b4f31134bd1ccd87d65da7052a5e24a77179c20b30afc02bc8f34b73984c0",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          },
+          {
+            "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+            "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+            "inspected": true,
+            "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+          },
+          {
+            "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+            "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+            "inspected": true,
+            "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, ONE identity only. Large exact NAME and smaller exact story title The House of Possible Uses. All negative space LIGHT WARM IVORY, no gradient, dark vignette, scenery, floor/shadow patches, location or swatches. Canadian Group of Seven HEAVY MATTE OILS matching actual same-story paintings: large connected opaque color/value masses, decisive varied bristle/knife strokes, quiet joins and selective impasto. Faces/hair/hands painted as broadly as clothes; no photographic/anime/CG underpainting or uniform glossy bevel chips. Full unclipped Front/Back views, useful head/hand/prop studies with small readable labels. Reference scenery is ONLY paint/light guidance; never copy a room or another person. Heading Enna Laird. Same adult woman identity as source COVER reference2: apparent30, light warm-tan skin, brown/hazel eyes, straight narrow nose, loosely pinned tousled DARK BROWN hair, strong expressive brows. Translate face completely into matte opaque oil planes, no photo likeness finish. Brown rolled-sleeve WORK SHIRT, grey trousers, sturdy broad LEATHER BELT, brown boots. Full Front/Back, heads Concern and Steady. One close ordinary hand holding tiny brown RIDGED seed no bigger than thumbnail between finger/thumb; seed has no face/mouth/glow/life. Another small waist-up Next morning wearing practical work GLOVES and holding blank labels, cool softer daytime light. Chalk stick and bent iron drawer pull as small props. Mild dust/creased shirt in retrieval hand study; no physical wound or superhero gear. Match rainy afternoon mixed cool window/practical amber light, restrained not studio. Two arms/five-digit hands, no shelf/house/other character.",
+            "references": [
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\title-image.jpg",
+                "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+                "inspected": true,
+                "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+                "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+                "inspected": true,
+                "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:10:57.991366+00:00",
+            "preflight": "Full finished source/prompt/PASS review and marker read. Actual useful artwork inspected; no originals supplied. Five distinct identities, exact source equipment counts and local non-sentient artifact limits, separate muted day/night light and ivory isolation checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-fb49da24-cf49-47f3-b4f7-d3e3b4900510.png",
+            "candidateSha256": "315b4f31134bd1ccd87d65da7052a5e24a77179c20b30afc02bc8f34b73984c0",
+            "completedAt": "2026-09-24T09:50:49.995333+00:00",
+            "visualInspection": "REVISE: dark backdrop hides headings; faces too photographic relative to collection and automatic notes falsely call the artifact nonmagical."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit exact Enna Laird sheet preserving adult face IDENTITY/structure, hair shape, body, brown shirt/grey trousers/belt/boots, ordinary hands, tiny ridged seed, gloves/blank labels/iron pull/chalk and all poses. Change entire background to CLEAN LIGHT WARM IVORY; exact name/story title and view labels solid dark brown clearly readable. DELETE the notes Small ridged seed. Ordinary. No magic. and Work-worn hands. Some dust. No wounds. Retain short Seed and Hands labels only. REPAINT every FACE, flesh and hair into LARGE CONNECTED OPAQUE MATTE OIL masses matching actual story paintings references2/3. Strong decisive bristle/knife handling across forehead, cheeks, nose, eyes and hair; no smooth photographic skin/individual glossy hair strands, no surface texture filter. Preserve portrait bone structure and adult proportions; do not replace identity. Muted rainy-day cool grey shadow shapes with limited indoor warmth, NOT studio orange skin. No ground/scenery/glow or new accessory.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-fb49da24-cf49-47f3-b4f7-d3e3b4900510.png",
+                "sha256": "315b4f31134bd1ccd87d65da7052a5e24a77179c20b30afc02bc8f34b73984c0",
+                "inspected": true,
+                "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:50:49.995333+00:00",
+            "preflight": "REVISE: dark backdrop hides headings; faces too photographic relative to collection and automatic notes falsely call the artifact nonmagical. Actual pixels inspected against full source; narrow edit preserves identity and motivated light.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-46744cc9-d75b-480b-be6a-fb810f99142b.png",
+            "candidateSha256": "a054daf5771b0cde9f1c3c7cf8a95fbb63da312e48114d5b860d7e06e1e159d3",
+            "completedAt": "2026-09-24T10:28:28.194111+00:00",
+            "visualInspection": "PASS actual saved pixels: identity retained and facial flesh/hair translated into opaque connected oil planes, ordinary five-digit hands, tiny ridged seed without face or false nonmagical assertion, chalk/iron pull and gloved label sorting preserved; full front/back silhouettes and exact name/title legible on warm ivory; muted indoor day light."
+          }
+        ]
+      },
+      "outputSha256": "a054daf5771b0cde9f1c3c7cf8a95fbb63da312e48114d5b860d7e06e1e159d3"
+    },
+    {
+      "id": "tobren-laird",
+      "name": "Tobren Laird",
+      "role": "Repair-minded uncle whose consent and provenance recollection resolve crisis",
+      "selectionEvidence": [
+        {
+          "quote": "Tobren picked up the basin",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "The left hinge can",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Break them.",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Tobren tested hinges",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary older adult uncle; exact age/features/wardrobe unspecified. Practical repair expertise, consent to break stored chair backs, hardware/hinge testing; no diagnosis or villainy invented.",
+        "clothing": "Brown museum coat explicit for Kezra; other wardrobe and exact ages/features are art interpretations.",
+        "equipment": "Ordinary older adult uncle; exact age/features/wardrobe unspecified. Practical repair expertise, consent to break stored chair backs, hardware/hinge testing; no diagnosis or villainy invented.",
+        "states": "Protective ownership, frightened separation, willing practical cooperation next morning."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary older adult uncle; exact age/features/wardrobe unspecified. Practical repair expertise, consent to break stored chair backs, hardware/hinge testing; no diagnosis or villainy invented."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: sixty-four, stocky olive-tan body, broad round nose, deep-set hazel eyes, bushy graying brown hair, close gray-brown moustache.",
+        "Moss-green wool cardigan over ochre shirt, worn brown trousers and patched brown boots; small repair pocket and mundane hinge."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Protective ownership, frightened separation, willing practical cooperation next morning."
+        }
+      ],
+      "naming": {
+        "sourceName": "Tobren Laird",
+        "provenance": "Exact full source name, surname as confirmed by agents/source review."
+      },
+      "recurrence": {
+        "identityKey": "the-hoarders-house:tobren-laird",
+        "links": [],
+        "evidence": "No exact/alias shared identity; review names all new."
+      },
+      "references": [
+        {
+          "path": "stories\\the-hoarders-house\\title-image.jpg",
+          "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+          "inspected": true,
+          "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+          "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "inspected": true,
+          "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+          "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "inspected": true,
+          "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+          "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+          "inspected": true,
+          "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+        }
+      ],
+      "output": "stories/the-hoarders-house/art/characters/tobren-laird.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T10:28:28.194111+00:00",
+        "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+        "outputSha256": "96b535791d259e5a323eb14d197aa7479fb5995cce6ed7c8e1d085be65acc4f7",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0e6da2c7-7992-4b84-ab09-6c9e018316bf.png",
+            "sha256": "77b9482561db0a180717f323b3c074649db935c37163e7f97fdda34664ca6b26",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "evidence": "PASS actual saved pixels: full front elbow and all boots now clear of edges; older stocky identity distinct, coherent hands and basin with two visible worn-through spots, separate iron pull/cracked brass cup and next-morning test; broad matte oils, restrained window/practical light and ivory page.",
+        "specificationSha256": "964362fee8423d83aec33448dc24133fc3f9d9f1005437048c35bc635e5fe43c"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Preserve entire exact Tobren Laird sheet and all matte painted identity, anatomy, source lighting, basin with TWO worn-through spots and all props. Move/shrink ONLY the leftmost full-body FRONT figure slightly inward so its complete LEFT IMAGE EDGE sleeve/elbow has clear ivory margin, no cropping; retain feet and heading spacing. Do not change person/body/clothes/other studies. Remove only the unnecessary parenthetical five fingers below Hand Studies. No other text changes, no shadows/floor introduced.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0e6da2c7-7992-4b84-ab09-6c9e018316bf.png",
+            "sha256": "77b9482561db0a180717f323b3c074649db935c37163e7f97fdda34664ca6b26",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, ONE identity only. Large exact NAME and smaller exact story title The House of Possible Uses. All negative space LIGHT WARM IVORY, no gradient, dark vignette, scenery, floor/shadow patches, location or swatches. Canadian Group of Seven HEAVY MATTE OILS matching actual same-story paintings: large connected opaque color/value masses, decisive varied bristle/knife strokes, quiet joins and selective impasto. Faces/hair/hands painted as broadly as clothes; no photographic/anime/CG underpainting or uniform glossy bevel chips. Full unclipped Front/Back views, useful head/hand/prop studies with small readable labels. Reference scenery is ONLY paint/light guidance; never copy a room or another person. Heading Tobren Laird. ONE HUMAN man64, STOCKY olive-tan body, broad round nose, deep-set hazel eyes, bushy GREYING BROWN hair and short grey-brown MOUSTACHE, no beard. MOSS-GREEN wool cardigan over ochre shirt, worn brown trousers, patched work boots. Front and Back standing ordinary older work posture; front handles loose old hinge with care. Heads Protective and Considering consent. Third waist-up Next morning gently testing plain iron drawer fitting with small screwdriver, cool diffuse morning light. Isolated ordinary FIVE-DIGIT hands supporting a chipped white ENAMEL WASHBASIN with exactly TWO worn-through spots, no taps attached. Small cracked brass cup and iron pull optional equipment. Main figures muted rainy afternoon indoor window grey-blue with small warm lamp planes. Thoughtful human dignity, no grotesque hoarder caricature, magical powers, clutter surroundings or crates. Body/clothes/face broad matte oil, light ivory everywhere outside silhouettes.",
+            "references": [
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+                "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+                "inspected": true,
+                "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:10:57.991366+00:00",
+            "preflight": "Full finished source/prompt/PASS review and marker read. Actual useful artwork inspected; no originals supplied. Five distinct identities, exact source equipment counts and local non-sentient artifact limits, separate muted day/night light and ivory isolation checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0e6da2c7-7992-4b84-ab09-6c9e018316bf.png",
+            "candidateSha256": "77b9482561db0a180717f323b3c074649db935c37163e7f97fdda34664ca6b26",
+            "completedAt": "2026-09-24T09:50:49.995333+00:00",
+            "visualInspection": "REVISE: good identity/paint/source objects, but leftmost full-body elbow grazes/crops canvas edge; leave clear margin and remove processing parenthetical."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Preserve entire exact Tobren Laird sheet and all matte painted identity, anatomy, source lighting, basin with TWO worn-through spots and all props. Move/shrink ONLY the leftmost full-body FRONT figure slightly inward so its complete LEFT IMAGE EDGE sleeve/elbow has clear ivory margin, no cropping; retain feet and heading spacing. Do not change person/body/clothes/other studies. Remove only the unnecessary parenthetical five fingers below Hand Studies. No other text changes, no shadows/floor introduced.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-0e6da2c7-7992-4b84-ab09-6c9e018316bf.png",
+                "sha256": "77b9482561db0a180717f323b3c074649db935c37163e7f97fdda34664ca6b26",
+                "inspected": true,
+                "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:50:49.995333+00:00",
+            "preflight": "REVISE: good identity/paint/source objects, but leftmost full-body elbow grazes/crops canvas edge; leave clear margin and remove processing parenthetical. Actual pixels inspected against full source; narrow edit preserves identity and motivated light.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b6af0790-47d1-4ca2-a718-582d2be3e98d.png",
+            "candidateSha256": "96b535791d259e5a323eb14d197aa7479fb5995cce6ed7c8e1d085be65acc4f7",
+            "completedAt": "2026-09-24T10:28:28.194111+00:00",
+            "visualInspection": "PASS actual saved pixels: full front elbow and all boots now clear of edges; older stocky identity distinct, coherent hands and basin with two visible worn-through spots, separate iron pull/cracked brass cup and next-morning test; broad matte oils, restrained window/practical light and ivory page."
+          }
+        ]
+      },
+      "outputSha256": "96b535791d259e5a323eb14d197aa7479fb5995cce6ed7c8e1d085be65acc4f7"
+    },
+    {
+      "id": "sael-laird",
+      "name": "Sael Laird",
+      "role": "Inventory-minded uncle, route and observation collaborator",
+      "selectionEvidence": [
+        {
+          "quote": "inventory book pressed to his ribs",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Sael called distances",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Sael wrote both items in his book",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "He checked every number",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary older adult uncle; inventory book and measurements, physically active careful route calls; no diagnosis or cruelty invented.",
+        "clothing": "Brown museum coat explicit for Kezra; other wardrobe and exact ages/features are art interpretations.",
+        "equipment": "Ordinary older adult uncle; inventory book and measurements, physically active careful route calls; no diagnosis or cruelty invented.",
+        "states": "Precision, correction and changed decision; book crossing-out detail."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary older adult uncle; inventory book and measurements, physically active careful route calls; no diagnosis or cruelty invented."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: sixty-one, tall narrow fair freckled face, high forehead, long small pointed nose, pale-grey eyes, straight thinning copper-grey hair neatly side-parted, clean shaven.",
+        "Slate-blue waistcoat over brick-red collarless shirt, charcoal trousers, dark shoes; small cream pencil and brown inventory book."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Precision, correction and changed decision; book crossing-out detail."
+        }
+      ],
+      "naming": {
+        "sourceName": "Sael Laird",
+        "provenance": "Exact full source name, surname as confirmed by agents/source review."
+      },
+      "recurrence": {
+        "identityKey": "the-hoarders-house:sael-laird",
+        "links": [],
+        "evidence": "No exact/alias shared identity; review names all new."
+      },
+      "references": [
+        {
+          "path": "stories\\the-hoarders-house\\title-image.jpg",
+          "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+          "inspected": true,
+          "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+          "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "inspected": true,
+          "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+          "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "inspected": true,
+          "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+          "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+          "inspected": true,
+          "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+        }
+      ],
+      "output": "stories/the-hoarders-house/art/characters/sael-laird.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T10:28:28.194111+00:00",
+        "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+        "outputSha256": "92d8d2582e80f87538ccea0501924cd29753fec33f90a964c4914f529a279ec5",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ae371bb5-12b8-4573-8038-5a1fd4ea2bb1.png",
+            "sha256": "caf9178988be25ca36d9d771fd2d0a56fac67e403d485676c0301cf335087736",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "evidence": "PASS actual saved pixels: receipts count one held viewer-left plus three fanned viewer-right equals four; extra receipt row and unsolicited demographic claims removed; book/pencil crossing-out action and ordinary hands retained; distinct lean older identity, ivory isolation without floor patches, muted matte painted indoor light.",
+        "specificationSha256": "3ee9ed67708f4382a8710ea5ef262a80ad6704d8ed2bab94de8d0a1e60ccc646"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY these regions, keep exact Sael Laird identity/anatomy/clothes/face/paint/headings intact. Remove upper-right demographic text block beginning Age:61 through Clean shaven and leave ivory. In lower-right Checking receipts study, depict EXACTLY FOUR receipts TOTAL: ONE in his anatomical RIGHT hand (viewerLEFT) and THREE separately fanned in LEFT hand (viewerRIGHT). REMOVE ALL four extra receipts lying below that torso so ivory is empty there. Label simply Checking receipts, delete Exactly Four Receipts line. Preserve book/pencil crossing-out hand study and all other props. Remove tiny ground shadows/patches beneath full-body shoes to ivory. No scene or other changes.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ae371bb5-12b8-4573-8038-5a1fd4ea2bb1.png",
+            "sha256": "caf9178988be25ca36d9d771fd2d0a56fac67e403d485676c0301cf335087736",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, ONE identity only. Large exact NAME and smaller exact story title The House of Possible Uses. All negative space LIGHT WARM IVORY, no gradient, dark vignette, scenery, floor/shadow patches, location or swatches. Canadian Group of Seven HEAVY MATTE OILS matching actual same-story paintings: large connected opaque color/value masses, decisive varied bristle/knife strokes, quiet joins and selective impasto. Faces/hair/hands painted as broadly as clothes; no photographic/anime/CG underpainting or uniform glossy bevel chips. Full unclipped Front/Back views, useful head/hand/prop studies with small readable labels. Reference scenery is ONLY paint/light guidance; never copy a room or another person. Heading Sael Laird. ONE HUMAN man61, TALL LEAN body, fair freckled skin, long narrow face, high forehead, small POINTED nose, pale-grey eyes, straight thinning COPPER-GREY hair neatly side-parted, CLEAN SHAVEN. Slate-BLUE waistcoat over brick-red collarless shirt, charcoal trousers and dark shoes. Full Front with brown INVENTORY BOOK pressed to ribs, Back same tall narrow posture. Heads Measuring and Reconsidering. Hand study opening book, one ordinary five-digit hand holds plain cream PENCIL and crosses out ONE line among anonymous handwritten marks; no legible invented household entries. Small half-body Checking receipts with a neatly aligned set of exactly FOUR paper receipts, restrained quiet concentration. No magical book/glowing runes/spectacles/royal clothes. Main muted indoor afternoon light, cool blue-grey shadows and small practical warm planes, no studio glitter; head/cloth equally broad thick oil. No stairs/house/furniture/another person.",
+            "references": [
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+                "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+                "inspected": true,
+                "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:10:57.991366+00:00",
+            "preflight": "Full finished source/prompt/PASS review and marker read. Actual useful artwork inspected; no originals supplied. Five distinct identities, exact source equipment counts and local non-sentient artifact limits, separate muted day/night light and ivory isolation checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ae371bb5-12b8-4573-8038-5a1fd4ea2bb1.png",
+            "candidateSha256": "caf9178988be25ca36d9d771fd2d0a56fac67e403d485676c0301cf335087736",
+            "completedAt": "2026-09-24T09:50:49.995333+00:00",
+            "visualInspection": "REVISE: checking-receipts pose plus separate row duplicates count beyond four; unsolicited demographic block asserts art choices as facts; small floor patches."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit ONLY these regions, keep exact Sael Laird identity/anatomy/clothes/face/paint/headings intact. Remove upper-right demographic text block beginning Age:61 through Clean shaven and leave ivory. In lower-right Checking receipts study, depict EXACTLY FOUR receipts TOTAL: ONE in his anatomical RIGHT hand (viewerLEFT) and THREE separately fanned in LEFT hand (viewerRIGHT). REMOVE ALL four extra receipts lying below that torso so ivory is empty there. Label simply Checking receipts, delete Exactly Four Receipts line. Preserve book/pencil crossing-out hand study and all other props. Remove tiny ground shadows/patches beneath full-body shoes to ivory. No scene or other changes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-ae371bb5-12b8-4573-8038-5a1fd4ea2bb1.png",
+                "sha256": "caf9178988be25ca36d9d771fd2d0a56fac67e403d485676c0301cf335087736",
+                "inspected": true,
+                "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:50:49.995333+00:00",
+            "preflight": "REVISE: checking-receipts pose plus separate row duplicates count beyond four; unsolicited demographic block asserts art choices as facts; small floor patches. Actual pixels inspected against full source; narrow edit preserves identity and motivated light.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-e12c4f9f-5b59-4e6c-a526-59035c124765.png",
+            "candidateSha256": "92d8d2582e80f87538ccea0501924cd29753fec33f90a964c4914f529a279ec5",
+            "completedAt": "2026-09-24T10:28:28.194111+00:00",
+            "visualInspection": "PASS actual saved pixels: receipts count one held viewer-left plus three fanned viewer-right equals four; extra receipt row and unsolicited demographic claims removed; book/pencil crossing-out action and ordinary hands retained; distinct lean older identity, ivory isolation without floor patches, muted matte painted indoor light."
+          }
+        ]
+      },
+      "outputSha256": "92d8d2582e80f87538ccea0501924cd29753fec33f90a964c4914f529a279ec5"
+    },
+    {
+      "id": "kezra-vonn",
+      "name": "Kezra Vonn",
+      "role": "Museum provenance agent, disciplined uncertainty and custody records",
+      "selectionEvidence": [
+        {
+          "quote": "Kezra Vonn waited on the step in a brown museum coat",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "document case against the drizzle",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Kezra gave him four receipts",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "breathing hard",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult woman museum agent, brown museum coat, document case, numbered tags and four final receipts; uncertain hypotheses not supernatural omniscience.",
+        "clothing": "Brown museum coat explicit for Kezra; other wardrobe and exact ages/features are art interpretations.",
+        "equipment": "Ordinary adult woman museum agent, brown museum coat, document case, numbered tags and four final receipts; uncertain hypotheses not supernatural omniscience.",
+        "states": "Cool rainy arrival, focused observation, midnight tired custody paperwork."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary adult woman museum agent, brown museum coat, document case, numbered tags and four final receipts; uncertain hypotheses not supernatural omniscience."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: forty-eight, tall medium build, deep-brown skin, oval long face, broad straight nose, dark eyes, very dark tightly braided hair pinned low.",
+        "Brown weatherproof museum coat over cream shirt and dark rust waistcoat, charcoal trousers and low dark boots; no police/military insignia or weapon."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Cool rainy arrival, focused observation, midnight tired custody paperwork."
+        }
+      ],
+      "naming": {
+        "sourceName": "Kezra Vonn",
+        "provenance": "Exact full source name, surname as confirmed by agents/source review."
+      },
+      "recurrence": {
+        "identityKey": "the-hoarders-house:kezra-vonn",
+        "links": [],
+        "evidence": "No exact/alias shared identity; review names all new."
+      },
+      "references": [
+        {
+          "path": "stories\\the-hoarders-house\\title-image.jpg",
+          "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+          "inspected": true,
+          "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+          "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "inspected": true,
+          "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+          "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "inspected": true,
+          "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+          "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+          "inspected": true,
+          "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\04-midnight-neighborhood.png",
+          "sha256": "02cfb53c11e9a42f4a38ddef6d30fa35daebf404606711c49740c2637d6075a6",
+          "inspected": true,
+          "role": "Actual midnight cool deep blue shadow and tiny practical window light controls ONLY Midnight paperwork; no houses/night scenery"
+        }
+      ],
+      "output": "stories/the-hoarders-house/art/characters/kezra-vonn.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T10:28:28.194111+00:00",
+        "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+        "outputSha256": "6d13145a577f3a71317222d34ad6432688ce87ac3d63951c07c806d8ccc2b0a8",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a531561c-7909-4f47-ace9-dcfbe5b426ef.png",
+            "sha256": "c7052923d1932f99e6f433c9846f90525143dc246cfd5eb32c72b68ecdfe7100",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "evidence": "PASS actual saved pixels: midnight figure holds two receipts in each hand, four total; dim connected cool shadows and restrained warm lamp planes preserved against clean ivory. Brown museum coat/document case and one tag, low braided knot, ordinary anatomy and distinct mature face retained, broad matte oils.",
+        "specificationSha256": "e82ce09c43ac28ba7db54971dc0e1bd3b9cc4aaaf18183f6cb0cf71e12e123e1"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY the paper receipts held by LOWER-RIGHT Midnight Paperwork figure and minimally her fingers as needed. Exactly FOUR distinct paper receipts total, each rectangle separable: TWO fanned in her anatomical RIGHT hand (viewerLEFT), TWO fanned in her LEFT hand (viewerRIGHT), empty ivory gap between the two pairs. Do not add any paper elsewhere. Preserve dim cool/warm nighttime figure light exactly and all faces/identity/hair/coat/hands anatomy and other sheet content, white ivory background and matte oils. Do not brighten skin or recompose, no extra characters or scenes.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a531561c-7909-4f47-ace9-dcfbe5b426ef.png",
+            "sha256": "c7052923d1932f99e6f433c9846f90525143dc246cfd5eb32c72b68ecdfe7100",
+            "inspected": true,
+            "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, ONE identity only. Large exact NAME and smaller exact story title The House of Possible Uses. All negative space LIGHT WARM IVORY, no gradient, dark vignette, scenery, floor/shadow patches, location or swatches. Canadian Group of Seven HEAVY MATTE OILS matching actual same-story paintings: large connected opaque color/value masses, decisive varied bristle/knife strokes, quiet joins and selective impasto. Faces/hair/hands painted as broadly as clothes; no photographic/anime/CG underpainting or uniform glossy bevel chips. Full unclipped Front/Back views, useful head/hand/prop studies with small readable labels. Reference scenery is ONLY paint/light guidance; never copy a room or another person. Heading Kezra Vonn. ONE HUMAN woman48, tall medium build, DEEP-BROWN skin, oval long face, broad straight nose, dark eyes, very dark tightly BRAIDED hair pinned in low knot. Plain BROWN weatherproof MUSEUM COAT over cream shirt and dark rust waistcoat, charcoal trousers/low boots, no insignia or weapon. Full Front holding plain rectangular DOCUMENT CASE and Back; cool OVERCAST rainy arrival illumination with muted shadows, not sunshine. Heads Observing and Uncertain. Third small waist-up Midnight paperwork: tired breathing-hard face, most face/coat in connected DIM COOL shadow with small warm practical lamp planes, holding exactly FOUR separated plain paper RECEIPTS visibly fanned. Isolated document case and a SINGLE numbered paper tag marked 1, no abstract palette/other tags clutter. Two ordinary arms/five-digit hands. Do not label her priest/mage, no museum/room/scenery. Broad matte oils and clean ivory page around dark night figure; no backdrop panel. Last reference controls DIM Midnight figure only; preserve dark blue masses, tiny warm practical planes and ivory around silhouette.",
+            "references": [
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+                "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+                "inspected": true,
+                "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\04-midnight-neighborhood.png",
+                "sha256": "02cfb53c11e9a42f4a38ddef6d30fa35daebf404606711c49740c2637d6075a6",
+                "inspected": true,
+                "role": "Actual midnight cool deep blue shadow and tiny practical window light controls ONLY Midnight paperwork; no houses/night scenery"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:10:57.991366+00:00",
+            "preflight": "Full finished source/prompt/PASS review and marker read. Actual useful artwork inspected; no originals supplied. Five distinct identities, exact source equipment counts and local non-sentient artifact limits, separate muted day/night light and ivory isolation checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a531561c-7909-4f47-ace9-dcfbe5b426ef.png",
+            "candidateSha256": "c7052923d1932f99e6f433c9846f90525143dc246cfd5eb32c72b68ecdfe7100",
+            "completedAt": "2026-09-24T09:50:49.995333+00:00",
+            "visualInspection": "REVISE: source-light, face, coat, anatomy and ivory pass; fanned midnight receipts only three clearly visible, requires four unambiguous separate sheets."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Edit ONLY the paper receipts held by LOWER-RIGHT Midnight Paperwork figure and minimally her fingers as needed. Exactly FOUR distinct paper receipts total, each rectangle separable: TWO fanned in her anatomical RIGHT hand (viewerLEFT), TWO fanned in her LEFT hand (viewerRIGHT), empty ivory gap between the two pairs. Do not add any paper elsewhere. Preserve dim cool/warm nighttime figure light exactly and all faces/identity/hair/coat/hands anatomy and other sheet content, white ivory background and matte oils. Do not brighten skin or recompose, no extra characters or scenes.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a531561c-7909-4f47-ace9-dcfbe5b426ef.png",
+                "sha256": "c7052923d1932f99e6f433c9846f90525143dc246cfd5eb32c72b68ecdfe7100",
+                "inspected": true,
+                "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:50:49.995333+00:00",
+            "preflight": "REVISE: source-light, face, coat, anatomy and ivory pass; fanned midnight receipts only three clearly visible, requires four unambiguous separate sheets. Actual pixels inspected against full source; narrow edit preserves identity and motivated light.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-b641dbf2-d0cf-4a5a-a04b-1bcb5c4b633d.png",
+            "candidateSha256": "6d13145a577f3a71317222d34ad6432688ce87ac3d63951c07c806d8ccc2b0a8",
+            "completedAt": "2026-09-24T10:28:28.194111+00:00",
+            "visualInspection": "PASS actual saved pixels: midnight figure holds two receipts in each hand, four total; dim connected cool shadows and restrained warm lamp planes preserved against clean ivory. Brown museum coat/document case and one tag, low braided knot, ordinary anatomy and distinct mature face retained, broad matte oils."
+          }
+        ]
+      },
+      "outputSha256": "6d13145a577f3a71317222d34ad6432688ce87ac3d63951c07c806d8ccc2b0a8"
+    },
+    {
+      "id": "daskar-avel",
+      "name": "Daskar Avel",
+      "role": "Museum containment agent who manages bodily safety and suspended vessel",
+      "selectionEvidence": [
+        {
+          "quote": "Daskar Avel stood behind her",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "three short webbing loops",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "Three shutters opened",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        },
+        {
+          "quote": "latched two clasps, then a third",
+          "explanation": "Exact finished-source short phrase establishes repeated main action, object constraint or appearance."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult man containment agent; square chest frame with black padded jar suspended on exactly three short webbing loops, instrument with three shutters and glass silver thread, jar three clasps. Physically steady intervention and controlled transfer.",
+        "clothing": "Brown museum coat explicit for Kezra; other wardrobe and exact ages/features are art interpretations.",
+        "equipment": "Ordinary adult man containment agent; square chest frame with black padded jar suspended on exactly three short webbing loops, instrument with three shutters and glass silver thread, jar three clasps. Physically steady intervention and controlled transfer.",
+        "states": "Arrival rig, careful carrying, quiet midnight containment; exact apparatus counts."
+      },
+      "explicitCanon": [
+        "Non-canon source-local facts: Ordinary adult man containment agent; square chest frame with black padded jar suspended on exactly three short webbing loops, instrument with three shutters and glass silver thread, jar three clasps. Physically steady intervention and controlled transfer."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: thirty-eight, broad muscular pale cool skin, square jaw, close-cropped black hair, brown eyes, clean-shaven.",
+        "Plain navy work coat over gray tunic, charcoal trousers/sturdy boots, brown chest harness. Separate small lantern clips to side of frame; no guns/uniform police symbols."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Arrival rig, careful carrying, quiet midnight containment; exact apparatus counts."
+        }
+      ],
+      "naming": {
+        "sourceName": "Daskar Avel",
+        "provenance": "Exact full source name, surname as confirmed by agents/source review."
+      },
+      "recurrence": {
+        "identityKey": "the-hoarders-house:daskar-avel",
+        "links": [],
+        "evidence": "No exact/alias shared identity; review names all new."
+      },
+      "references": [
+        {
+          "path": "stories\\the-hoarders-house\\title-image.jpg",
+          "sha256": "93ebfd782f5a2f1a3ac72f612d1a1767daae4afd53a353baa7c22d7518b4dc46",
+          "inspected": true,
+          "role": "Inspected source cover Enna face/hair/brown shirt and small ridged seed; identity/content only, NO photographic finish or location copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+          "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+          "inspected": true,
+          "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+          "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+          "inspected": true,
+          "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+        },
+        {
+          "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+          "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+          "inspected": true,
+          "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+        }
+      ],
+      "output": "stories/the-hoarders-house/art/characters/daskar-avel.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T10:30:28.975985+00:00",
+        "sourceSha256": "c1509a108e180ada0ad6559de5dbf6bb81070fd28abd9274c9b07860c659654f",
+        "outputSha256": "b78d78216e5092bb1ed0c897775302ae35f349eb257470c7dd9f89ddc6ddfb2d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-51e71dc1-7e73-45a0-a454-7ea629686441.png",
+            "sha256": "11c33205d8d4d478af4950521d6623d71c0475ac4d825f4fba59f8ba78af5a1a",
+            "inspected": true,
+            "role": "Actual second candidate edit target; only remove two unsupported lower jar feet, preserve fixed equipment counts and character."
+          }
+        ],
+        "evidence": "PASS actual saved pixels: isolated jar has continuous ivory air gap and no bottom support, worn jar likewise clear of lower bar. Three upper webbing straps, three lid clasps, three open instrument shutters and single silver thread remain countable. Distinct adult identity, ordinary hands, complete silhouettes, exact labels, broad matte oils and muted arrival light on ivory remain intact.",
+        "specificationSha256": "7e80f46d1ba59a37e5ede33bde339a914daecc3ba5894e157e7684a28e4ef853"
+      },
+      "generation": {
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit ONLY the TWO TINY BRASS SUPPORT FEET beneath the black jar in the large isolated Chest rig at lower middle. REMOVE BOTH feet completely, replacing each with clean warm IVORY AIR between the bottom of jar and the lower diagonal frame bar. There must be a CONTINUOUS EMPTY AIR GAP across the entire underside: jar hangs freely from its existing THREE upper webbing straps, with NO foot, peg, post, rest or connection underneath. In the small worn chest rig also ensure a continuous empty gap with no foot under jar. Do not move the jar/frame or change any other pixel area. Preserve THREE upper straps, THREE clasps on Jar lid detail, THREE open instrument shutters and one silver thread; all exact identity/faces/hands/labels/paint/ivory and clothing unchanged. No new objects, supports or straps.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-51e71dc1-7e73-45a0-a454-7ea629686441.png",
+            "sha256": "11c33205d8d4d478af4950521d6623d71c0475ac4d825f4fba59f8ba78af5a1a",
+            "inspected": true,
+            "role": "Actual second candidate edit target; only remove two unsupported lower jar feet, preserve fixed equipment counts and character."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "Create ONE 1536x1024 landscape CHARACTER REFERENCE SHEET, ONE identity only. Large exact NAME and smaller exact story title The House of Possible Uses. All negative space LIGHT WARM IVORY, no gradient, dark vignette, scenery, floor/shadow patches, location or swatches. Canadian Group of Seven HEAVY MATTE OILS matching actual same-story paintings: large connected opaque color/value masses, decisive varied bristle/knife strokes, quiet joins and selective impasto. Faces/hair/hands painted as broadly as clothes; no photographic/anime/CG underpainting or uniform glossy bevel chips. Full unclipped Front/Back views, useful head/hand/prop studies with small readable labels. Reference scenery is ONLY paint/light guidance; never copy a room or another person. Heading Daskar Avel. ONE HUMAN man38, broad MUSCULAR pale cool-skinned body, square jaw, close-cropped BLACK hair, brown eyes, CLEAN SHAVEN. Plain NAVY work coat over grey tunic, charcoal trousers/sturdy boots. FRONT wears square metal FRAME strapped to chest with brown shoulder/back harness. At its centre ONE matte BLACK PADDED JAR hangs FREE on exactly THREE short WEBBING LOOPS from frame top to three jar shoulder points, never sitting on floor or crossbar. BACK shows harness only. Heads Checking clearance and Controlled strain. Separate large three-quarter equipment view makes exactly THREE suspension loops countable; jar lid felt-lined, exactly THREE clasps visible around rim in a TOP-OBLIQUE small closed-jar detail. Another small LANTERN instrument clipped outside chest frame edge has exactly THREE SHUTTERS: show isolated open view with three hinged shutters and glass chamber containing one thin SILVER THREAD, not a flame or spirit. No glowing jar/seed face, no masks/guns/police insignia. Keep two human arms with ordinary hands relaxed outside rig; no clipping or extra arms. Cool overcast arrival light and small subdued practical indoor reflection, muted broad oils. The sheet must remain readable, no room/stair/floor or other person. Prioritize clean clear countable chest rig over extra portraits.",
+            "references": [
+              {
+                "path": "stories\\the-hoarders-house\\art\\landscapes\\01-wet-street-at-the-laird-house.png",
+                "sha256": "2ff14944bced5269f4b60335dbb320d62ee36ea67a35eb66bdb1fd84c0f1903e",
+                "inspected": true,
+                "role": "Actual broad Group of Seven painted masses and overcast cool afternoon light at arrival; no street/landscape"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\01-the-shoulder-wide-path.png",
+                "sha256": "abcbfe7a19ec6c42aeb56ad2b8d43ab5bb0bda44fd5522f2587c66998a7237f1",
+                "inspected": true,
+                "role": "PRIMARY actual same-story matte connected oils and mixed muted afternoon window blue-grey/practical warm light ON figures only; no house/objects copied"
+              },
+              {
+                "path": "stories\\the-hoarders-house\\art\\interiors\\03-the-original-kitchen.png",
+                "sha256": "b6935a84b59e5054e30117bdf2c10bc40dc0eebcaa2b2dcf4fbda8667928eb2b",
+                "inspected": true,
+                "role": "Actual same-story diffuse rainy daylight and restrained indoor practical warmth on figures; material paint only, no kitchen"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:10:57.991366+00:00",
+            "preflight": "Full finished source/prompt/PASS review and marker read. Actual useful artwork inspected; no originals supplied. Five distinct identities, exact source equipment counts and local non-sentient artifact limits, separate muted day/night light and ivory isolation checked.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-bbf88779-79e3-4f27-9dd5-9d0eb82fb1f0.png",
+            "candidateSha256": "5a31522d8cf67f80c1c014d021a98bdc56d0ac07db163aea41dd1f1ba119f996",
+            "completedAt": "2026-09-24T09:50:49.995333+00:00",
+            "visualInspection": "REVISE: main three suspension straps usable but jar rests on lower frame crossbar; top-oblique lid has four clasps; open lantern shows only two shutters. Correct countable equipment and floor cleanup."
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "Edit ONLY Daskar chest equipment and tiny floor shadows; preserve exact man/face/clothes/hands/harness/ivory/paint and all positions. In BOTH worn chest frame and large isolated Chest Rig, raise black jar slightly so a clearly visible IVORY AIR GAP exists below it above lower frame bar: jar hangs FREELY from existing THREE short webbing loops, never rests on bar. Keep exactly THREE suspension straps. TOP-OBLIQUE closed-jar detail: delete the FOURTH clasp at rear/top rim. Retain exactly THREE clasps, left/right/front, no back fourth clasp. LARGE OPEN LANTERN: show exactly THREE separate rectangular shutter doors, one swung LEFT, one RIGHT, and the THIRD swung UP behind cylinder, all three visible, no fourth. Glass still contains ONE thin silver thread, no flame/magical creature. Small attached lantern may remain closed. Remove all ground patches beneath boots. Change captions to short Chest rig, Jar lid, Open instrument; remove every Exactly three... sentence. No other edits.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-bbf88779-79e3-4f27-9dd5-9d0eb82fb1f0.png",
+                "sha256": "5a31522d8cf67f80c1c014d021a98bdc56d0ac07db163aea41dd1f1ba119f996",
+                "inspected": true,
+                "role": "Actual first candidate edit target; preserve identity/geometry except specified source-count correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T09:50:49.995333+00:00",
+            "preflight": "REVISE: main three suspension straps usable but jar rests on lower frame crossbar; top-oblique lid has four clasps; open lantern shows only two shutters. Correct countable equipment and floor cleanup. Actual pixels inspected against full source; narrow edit preserves identity and motivated light.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-51e71dc1-7e73-45a0-a454-7ea629686441.png",
+            "candidateSha256": "11c33205d8d4d478af4950521d6623d71c0475ac4d825f4fba59f8ba78af5a1a",
+            "completedAt": "2026-09-24T10:28:28.194111+00:00",
+            "visualInspection": "REVISE actual pixels: three suspension straps, three lid clasps and three instrument shutters now correct, but two added tiny brass feet bridge jar to lower frame bar in isolated rig. Remove these supports so jar is freely suspended as source requires; preserve all approved counts and body."
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Edit ONLY the TWO TINY BRASS SUPPORT FEET beneath the black jar in the large isolated Chest rig at lower middle. REMOVE BOTH feet completely, replacing each with clean warm IVORY AIR between the bottom of jar and the lower diagonal frame bar. There must be a CONTINUOUS EMPTY AIR GAP across the entire underside: jar hangs freely from its existing THREE upper webbing straps, with NO foot, peg, post, rest or connection underneath. In the small worn chest rig also ensure a continuous empty gap with no foot under jar. Do not move the jar/frame or change any other pixel area. Preserve THREE upper straps, THREE clasps on Jar lid detail, THREE open instrument shutters and one silver thread; all exact identity/faces/hands/labels/paint/ivory and clothing unchanged. No new objects, supports or straps.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-51e71dc1-7e73-45a0-a454-7ea629686441.png",
+                "sha256": "11c33205d8d4d478af4950521d6623d71c0475ac4d825f4fba59f8ba78af5a1a",
+                "inspected": true,
+                "role": "Actual second candidate edit target; only remove two unsupported lower jar feet, preserve fixed equipment counts and character."
+              }
+            ],
+            "preparedAt": "2026-09-24T10:28:28.194111+00:00",
+            "preflight": "REVISE actual pixels: three suspension straps, three lid clasps and three instrument shutters now correct, but two added tiny brass feet bridge jar to lower frame bar in isolated rig. Remove these supports so jar is freely suspended as source requires; preserve all approved counts and body. Cause is generated lower support feet; narrow deletion makes existing visible air gap continuous without redesigning frame.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9122f88a-42f7-4107-ad10-23bdc95a0f1c.png",
+            "candidateSha256": "b78d78216e5092bb1ed0c897775302ae35f349eb257470c7dd9f89ddc6ddfb2d",
+            "completedAt": "2026-09-24T10:30:28.975985+00:00",
+            "visualInspection": "PASS actual saved pixels: isolated jar has continuous ivory air gap and no bottom support, worn jar likewise clear of lower bar. Three upper webbing straps, three lid clasps, three open instrument shutters and single silver thread remain countable. Distinct adult identity, ordinary hands, complete silhouettes, exact labels, broad matte oils and muted arrival light on ivory remain intact."
+          }
+        ]
+      },
+      "outputSha256": "b78d78216e5092bb1ed0c897775302ae35f349eb257470c7dd9f89ddc6ddfb2d"
+    }
+  ]
+}
