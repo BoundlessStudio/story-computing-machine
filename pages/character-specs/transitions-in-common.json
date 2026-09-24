@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "slug": "transitions-in-common",
+  "title": "Transitions in Common",
+  "source": "stories/transitions-in-common/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose/prompt read with LOCKED Cody/Hugo and bounded-shapeshifting entries. Both friends sustain all major decisions/repair; three body states remain one continuous Cody. No assigned sex, medical facts, gender label or shared mechanism invented.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Incidental figures",
+      "reason": "Rack-requesting student, shop staff and family are minor/offstage figures."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/characters.md: LOCKED Cody, Hugo and repaired friendship",
+    "universe/rules.md: LOCKED Cody bounded self-shapeshifting"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Actual cover inspected: no fixed faces, compatible charcoal vest/open-collar shirt and blue blouse/black jacket plus instant camera/water/oatbar. Portrait-corner painting inspected for oil style/light. No image references supplied in original prompt.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "cody",
+      "name": "Cody",
+      "role": "Focal teen shapeshifter who breaches a friend's trust through ambiguity, then learns precise consent.",
+      "form": "One teenager in three ordinary human body states; they/them",
+      "selectionEvidence": [
+        {
+          "quote": "Only human versions of me. I can adjust them, but I can't copy another person.",
+          "explanation": "Focal teen shapeshifter who breaches a friend's trust through ambiguity, then learns precise consent."
+        }
+      ],
+      "storyAppearance": {
+        "description": "School masculine body, shorter/lighter feminine body with longer hair, chosen mixed-range height/face. Same Cody, they/them, same hidden left-knee scuff throughout; no final gender label. Clothing does not transform. Loose sweatshirt/trousers before final soft blue blouse and sharply cut jacket."
+      },
+      "explicitCanon": [
+        "One continuing Cody uses they/them in all masculine, feminine and mixed human body states; clothes do not transform, same knee scuff persists; inward gender remains questioning/unlabelled."
+      ],
+      "visualInterpretation": [
+        "Apparent17, medium warm-brown skin, dark brown eyes/hair, stable brow/nose resemblance across all three forms. School hair short, feminine shoulder-blade length, mixed collar length. Grey loose sweatshirt and charcoal trousers, then blue blouse/black jacket. Scuff occluded by trousers."
+      ],
+      "states": [
+        {
+          "name": "Separate practiced school/feminine and final chosen mixed states",
+          "description": "School masculine body, shorter/lighter feminine body with longer hair, chosen mixed-range height/face. Same Cody, they/them, same hidden left-knee scuff throughout; no final gender label. Clothing does not transform. Loose sweatshirt/trousers before final soft blue blouse and sharply cut jacket."
+        }
+      ],
+      "lighting": "Portrait practical lamp and cool window ambient; moderate warm planes and cool grey-lilac shadows, no transformation glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Cody"
+      },
+      "status": "deferred",
+      "output": "stories/transitions-in-common/art/characters/cody.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Exact heading \"Cody\"; exact subtitle \"Transitions in Common\". ONE TEENAGER apparent17 shown in THREE fully clothed ordinary human versions of themself, never three identities. Medium warm-brown skin, dark brown eyes, same recognizable brow/nose/mouth and dark brown hair across all states. Left complete figure labelled \"School body\": modestly taller/broader shoulders, short hair, loose grey sweatshirt/charcoal trousers/white sneakers. Centre complete figure \"Feminine body\": a few centimetres shorter, lighter frame/softer face, hair to shoulder blades; EXACT SAME sweatshirt/trousers fit more loosely, same sneakers. Right complete figure \"Chosen mixed body\": intermediate height/face, collar-length hair; soft BLUE BLOUSE and sharply cut BLACK JACKET, dark trousers, black low shoes. These are body states, no objective gender symbols or labels. Fully covered ordinary teenage styling, no sexualization, medical marks or anatomy study. Same left-knee scuff stays hidden by trousers, no need to expose it. Smaller head study of chosen mixed form and modest water bottle/oatbar detail. NO morphing blend, glow, recording camera, extra person or location. Gentle portrait lamp and cool grey-lilac shadow; bold oil across faces, quiet natural eyes. ALL negative space LIGHT IVORY, no floor/shadow patches.",
+        "references": [
+          {
+            "path": "stories/transitions-in-common/art/interiors/03-the-portrait-corner.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "34d416b2937beda0dfdbcf7c1542a742903371215803262bc68ad69a5a1169e8",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Exact heading \"Cody\"; exact subtitle \"Transitions in Common\". ONE TEENAGER apparent17 shown in THREE fully clothed ordinary human versions of themself, never three identities. Medium warm-brown skin, dark brown eyes, same recognizable brow/nose/mouth and dark brown hair across all states. Left complete figure labelled \"School body\": modestly taller/broader shoulders, short hair, loose grey sweatshirt/charcoal trousers/white sneakers. Centre complete figure \"Feminine body\": a few centimetres shorter, lighter frame/softer face, hair to shoulder blades; EXACT SAME sweatshirt/trousers fit more loosely, same sneakers. Right complete figure \"Chosen mixed body\": intermediate height/face, collar-length hair; soft BLUE BLOUSE and sharply cut BLACK JACKET, dark trousers, black low shoes. These are body states, no objective gender symbols or labels. Fully covered ordinary teenage styling, no sexualization, medical marks or anatomy study. Same left-knee scuff stays hidden by trousers, no need to expose it. Smaller head study of chosen mixed form and modest water bottle/oatbar detail. NO morphing blend, glow, recording camera, extra person or location. Gentle portrait lamp and cool grey-lilac shadow; bold oil across faces, quiet natural eyes. ALL negative space LIGHT IVORY, no floor/shadow patches.",
+            "references": [
+              {
+                "path": "stories/transitions-in-common/art/interiors/03-the-portrait-corner.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "34d416b2937beda0dfdbcf7c1542a742903371215803262bc68ad69a5a1169e8",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete final prose/prompt/marker and LOCKED identity/ability rules read. Actual cover/selected paintings inspected. Fully clothed teen states, one continuous Cody and unchanged Hugo checked; unspecified art-only faces separated from facts. Three separate body states not hybrid anatomy; no hand studies. Exact title, useful complete framing and ivory ground checked before call.",
+            "startedAt": "2026-09-24T12:47:41.441750+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete final prose/prompt/marker and LOCKED identity/ability rules read. Actual cover/selected paintings inspected. Fully clothed teen states, one continuous Cody and unchanged Hugo checked; unspecified art-only faces separated from facts. Three separate body states not hybrid anatomy; no hand studies. Exact title, useful complete framing and ivory ground checked before call."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo",
+      "role": "Teen friend who sets privacy boundaries, protects Cody's secret and chooses the portrait and friendship's continuation.",
+      "form": "Human teenage boy; he/him",
+      "selectionEvidence": [
+        {
+          "quote": "That one can go in the display.",
+          "explanation": "Teen friend who sets privacy boundaries, protects Cody's secret and chooses the portrait and friendship's continuation."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Transgender schoolboy, chosen charcoal vest/open-collar shirt with rolled sleeves, owns instant camera. No shapeshifting; anatomy/medical history/assigned sex unresolved."
+      },
+      "explicitCanon": [
+        "Hugo is a boy using he/him. Chosen portrait clothes charcoal vest/open-collar shirt; no anatomy or medical history established."
+      ],
+      "visualInterpretation": [
+        "Apparent17, fair lightly freckled skin, short sandy-brown curls, grey-green eyes, narrow oval face; cream shirt beneath charcoal vest, dark trousers and black canvas low shoes."
+      ],
+      "states": [
+        {
+          "name": "Chosen portrait clothes",
+          "description": "Transgender schoolboy, chosen charcoal vest/open-collar shirt with rolled sleeves, owns instant camera. No shapeshifting; anatomy/medical history/assigned sex unresolved."
+        }
+      ],
+      "lighting": "Portrait practical light with cool grey-lilac shadow and moderate warm planes.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Hugo"
+      },
+      "status": "deferred",
+      "output": "stories/transitions-in-common/art/characters/hugo.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Exact heading \"Hugo\"; exact subtitle \"Transitions in Common\". ONE ordinary TEENAGE BOY apparent17, fair lightly freckled skin, narrow oval face, short SANDY-BROWN CURLS and small grey-green eyes. Chosen clothes plain CHARCOAL GREY VEST over CREAM OPEN-COLLAR SHIRT, sleeves rolled to forearms, dark trousers and black canvas low shoes. Two complete front/rear-three-quarter views, one portrait braced and a second steady with slight chin lift. One ordinary human body, no transformation or medical anatomy, no explanatory identity symbols, no stereotyped caricature. Modest nonsexual teenage appearance. Small black INSTANT CAMERA with lens cap/short strap as equipment detail, no camera photographing another person. Gentle portrait lamp and cool grey-lilac shadow; face constructed from broad matte oil masses, no anime. ALL negative space LIGHT IVORY, no floor or contact patches.",
+        "references": [
+          {
+            "path": "stories/transitions-in-common/art/interiors/03-the-portrait-corner.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "34d416b2937beda0dfdbcf7c1542a742903371215803262bc68ad69a5a1169e8",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/transitions-in-common/title-image.jpg",
+            "role": "Actual inspected compatible shirt/vest and instant-camera cues only; no face established, no room/photo rendering.",
+            "sha256": "582df5ca7b194a1d1b8458b8cf9f0ddba8af3bd9eeff899fb87c7ccc4516840f",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "started",
+            "prompt": "Use case: illustration-story. ONE landscape1536x1024 character reference sheet, uniform warm LIGHT IVORY at every edge. One identity only. Two complete useful full-body views plus one expressive portrait and compact personal-equipment study; all hair, hands, feet and props comfortably within margins. Exact large name heading and exact story-title subtitle. Broad CONNECTED opaque Group of Seven oil paint, decisive directional bristles and selective sculpted impasto; quiet joining masses, materially different cloth/skin/metal. Paint faces as large interlocking value planes with small quiet eyes, NOT glossy portraits, anime, CGI, ink contour or repetitive beveled flakes. Attached PAINTINGS are style/palette/light only, NEVER their locations or scenery. No environmental background, floor/terrain patch, furniture, other people, swatches/palette strip or detached hand study. Exact heading \"Hugo\"; exact subtitle \"Transitions in Common\". ONE ordinary TEENAGE BOY apparent17, fair lightly freckled skin, narrow oval face, short SANDY-BROWN CURLS and small grey-green eyes. Chosen clothes plain CHARCOAL GREY VEST over CREAM OPEN-COLLAR SHIRT, sleeves rolled to forearms, dark trousers and black canvas low shoes. Two complete front/rear-three-quarter views, one portrait braced and a second steady with slight chin lift. One ordinary human body, no transformation or medical anatomy, no explanatory identity symbols, no stereotyped caricature. Modest nonsexual teenage appearance. Small black INSTANT CAMERA with lens cap/short strap as equipment detail, no camera photographing another person. Gentle portrait lamp and cool grey-lilac shadow; face constructed from broad matte oil masses, no anime. ALL negative space LIGHT IVORY, no floor or contact patches.",
+            "references": [
+              {
+                "path": "stories/transitions-in-common/art/interiors/03-the-portrait-corner.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "34d416b2937beda0dfdbcf7c1542a742903371215803262bc68ad69a5a1169e8",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Actually inspected oil painting: connected paint masses and source lighting only, no environment.",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/transitions-in-common/title-image.jpg",
+                "role": "Actual inspected compatible shirt/vest and instant-camera cues only; no face established, no room/photo rendering.",
+                "sha256": "582df5ca7b194a1d1b8458b8cf9f0ddba8af3bd9eeff899fb87c7ccc4516840f",
+                "inspected": true
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete final prose/prompt/marker and LOCKED identity/ability rules read. Actual cover/selected paintings inspected. Fully clothed teen states, one continuous Cody and unchanged Hugo checked; unspecified art-only faces separated from facts. Three separate body states not hybrid anatomy; no hand studies. Exact title, useful complete framing and ivory ground checked before call.",
+            "startedAt": "2026-09-24T12:47:41.441750+00:00"
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete final prose/prompt/marker and LOCKED identity/ability rules read. Actual cover/selected paintings inspected. Fully clothed teen states, one continuous Cody and unchanged Hugo checked; unspecified art-only faces separated from facts. Three separate body states not hybrid anatomy; no hand studies. Exact title, useful complete framing and ivory ground checked before call."
+      },
+      "validation": {
+        "wrapUpNote": "No generation is running. Deferred at explicit user request to stop production and deliver the gallery/PR. Preserve existing attempts and inspect saved candidates before any later resume."
+      }
+    }
+  ],
+  "sourceSha256": "90f45fee6e9ed29f9ba5509e2fa29d722e4eb4ceec9f2a0ceb5c52a92c28a4f6"
+}
