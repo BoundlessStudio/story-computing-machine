@@ -1,0 +1,915 @@
+{
+  "schemaVersion": 1,
+  "slug": "still-taking-runaways",
+  "title": "Still Taking Runaways",
+  "source": "stories/still-taking-runaways/story.md",
+  "sourceSha256": "8224d2e68b69a7f62021d421b79ab68759f044f492b3554a949b65b8ffcc1607",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source, recorded prompt and final review read, original recovered and visually inspected. Idrella, Rumbit, Velzie and Matchstick sustain central action/choice, animation and chase; four main identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Velzie's mother",
+      "reason": "One concentrated reunion/supporting scene, reacts protectively and holds child; no separate central pursuit or sustained independent arc compared with named quartet."
+    },
+    {
+      "name": "Brother, drummer, former performers, ticket customer, costume woman and passerby",
+      "reason": "Brief supporting/recalled functional figures without main-cast agency."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    {
+      "path": "universe/README.md",
+      "entries": [
+        "Authority order"
+      ]
+    },
+    {
+      "path": "universe/rules.md",
+      "entries": [
+        "Living agency and magic LOCKED: Rumbit and Matchstick are witnessed living figures; no universal toy-animation rule"
+      ]
+    },
+    {
+      "path": "universe/style-guide.md",
+      "entries": [
+        "Constructed personhood protection LOCKED"
+      ]
+    },
+    {
+      "path": "universe/characters.md",
+      "entries": [
+        "No Idrella/Rumbit/Velzie/Matchstick shared entry found"
+      ]
+    }
+  ],
+  "referenceInputs": [
+    {
+      "displayName": "codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+      "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+      "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+      "status": "resolved",
+      "inspected": true,
+      "recoveryProvenance": "Coordinator recovered exact original PNG from archived_sessions/rollout-2026-09-12T23-09-08-01a098bd-73bf-7b93-b3d4-2e8f80e43bb1.jsonl user input_image",
+      "inspection": "Adult warm-brown-skinned curly-haired burgundy/gold ringmaster, tall floral burgundy hat, layered full skirt and dark entrance boots; small brown teddy. Source material/appearance guide only, no circus scene or photoreal rendering."
+    }
+  ],
+  "characters": [
+    {
+      "id": "idrella",
+      "name": "Idrella",
+      "role": "Twenty-eight-year-old ringmaster, former runaway and protective central adult",
+      "selectionEvidence": [
+        {
+          "quote": "A loop of gold braid had caught on a nail.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Twenty years ago.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "the woman in the gold-trimmed coat",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "with half a laundry peg caught in her curls",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        }
+      ],
+      "form": "Human woman28",
+      "storyAppearance": {
+        "anatomy": "Adult curly-haired woman; source eight-year-old promise twenty years earlier gives28.",
+        "clothing": "Burgundy skirt, gold-trimmed coat/braid, hat, entrance boots.",
+        "states": "Between performances daylight, chase with loosened curl, kitchen end hat removed/half laundry peg in curls and flour oval on coat.",
+        "equipment": "Ticket scissors taken safely, hat removed at ending; no magic tool or guarantee she can animate."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: A loop of gold braid had caught on a nail.",
+        "Non-canon source fact: Twenty years ago.",
+        "Non-canon source fact: the woman in the gold-trimmed coat",
+        "Non-canon source fact: with half a laundry peg caught in her curls"
+      ],
+      "visualInterpretation": [
+        "Use actual original adult warm-brown skin, long black-brown curls, burgundy/gold fitted coat and layered full skirt, tall burgundy flowered hat, dark lace-up boots.",
+        "Age28 and unarmed everyday performance wardrobe; no whip/sword/corset emphasis; fitted upper costume remains modest."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Between performances daylight, chase with loosened curl, kitchen end hat removed/half laundry peg in curls and flour oval on coat."
+        }
+      ],
+      "naming": {
+        "sourceName": "Idrella",
+        "provenance": "Exact name in finished source; no art-only name needed."
+      },
+      "recurrence": {
+        "identityKey": "still-taking-runaways:idrella",
+        "links": [],
+        "evidence": "No matching shared authority entry found."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+          "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+          "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/title-image.jpg",
+          "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+          "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/landscapes/03-the-pear-tree-and-green-gate.png",
+          "role": "Actual daytime warm/cool oil masses and broad bristle treatment only; no garden",
+          "sha256": "112cb07c2666ef496e094a941e6246846ca5a7b7011c076498235840308719fb",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+          "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+          "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+          "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+          "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true
+        }
+      ],
+      "output": "stories/still-taking-runaways/art/characters/idrella.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T05:44:13.432307+00:00",
+        "sourceSha256": "8224d2e68b69a7f62021d421b79ab68759f044f492b3554a949b65b8ffcc1607",
+        "outputSha256": "be02aa262d633e9a40b964169d0e06640ff7a75a9171600eff32b128aa2d3494",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+            "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+            "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+            "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: recognizable recovered-original adult ringmaster geometry/curls/burgundy costume, age28 adult proportions, no donated style-reference face.",
+          "Complete front/back/three-quarter, welcoming/concerned portraits, after-chase hat removed with peg fragment in curls and flour on coat; gold braid/cuff and hat remain consistent.",
+          "Heavy directional oil across skin/hair/cloth, warm daytime light with cooler shadow passages, exact name/title, clean ivory and no scenery/other identity/swatches."
+        ],
+        "specificationSha256": "6775febab8066673b3dea8f99f4e3f77ccfc278b4c33a0da5c497c0c909cdc81"
+      },
+      "generation": {
+        "prompt": "One landscape1536x1024 CHARACTER SHEET, ONE IDENTITY ONLY even if story has companions. Large exact NAME heading, smaller exact title Still Taking Runaways. Light clean warm IVORY throughout negative space, NO floor patches, ground shadows, scenery, stage, wagon, other characters or palette swatches. Useful full-body front/rear/three-quarter views and a few head/material/hand details, short functional labels ONLY, no decorative sentences. Canadian Group of Seven HEAVY MATTE OILS with LARGE CONNECTED value masses, directional broad bristle marks and selective raised knife paint, quiet joins. The original Sculpted Impasto controls handmade paint, never identity/costume/lighting/scene. Source art supplies character geometry and story-specific daylight only; do not copy photographic/CGI/smooth digital rendering. Faces, fur, wood and hair equally thickly PAINTED, no glossy CGI or uniform beveled chips. No copied name/face from style sheet. Heading Idrella. One HUMAN WOMAN age28 matching recovered original adult ringmaster: warm-brown skin, long dark curly hair, broad expressive smile, burgundy coat with GOLD braid and modest pale neckline, layered full burgundy skirt, tall BURGUNDY hat with dark red fabric flower, dark lace-up boots built for entrances. Front and Back full-body in between-performance DAYLIGHT: soft warm side light and substantial cool green-grey shadows, lamps unlit. Third waist-up After the chase: SAME woman28, HAT REMOVED (held at wrist), loose curls with HALF a laundry peg caught at one side, small FLOUR oval on burgundy coat chest, flushed tired amused face. No toy bear/child in her arms. Two heads Welcoming and Concerned; precise curls/hair identity retained. Isolated gold-braid cuff and hat useful details. No whip, sword, glowing hands or claimed animation power.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+            "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+            "inspected": true
+          },
+          {
+            "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+            "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+            "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+            "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET, ONE IDENTITY ONLY even if story has companions. Large exact NAME heading, smaller exact title Still Taking Runaways. Light clean warm IVORY throughout negative space, NO floor patches, ground shadows, scenery, stage, wagon, other characters or palette swatches. Useful full-body front/rear/three-quarter views and a few head/material/hand details, short functional labels ONLY, no decorative sentences. Canadian Group of Seven HEAVY MATTE OILS with LARGE CONNECTED value masses, directional broad bristle marks and selective raised knife paint, quiet joins. The original Sculpted Impasto controls handmade paint, never identity/costume/lighting/scene. Source art supplies character geometry and story-specific daylight only; do not copy photographic/CGI/smooth digital rendering. Faces, fur, wood and hair equally thickly PAINTED, no glossy CGI or uniform beveled chips. No copied name/face from style sheet. Heading Idrella. One HUMAN WOMAN age28 matching recovered original adult ringmaster: warm-brown skin, long dark curly hair, broad expressive smile, burgundy coat with GOLD braid and modest pale neckline, layered full burgundy skirt, tall BURGUNDY hat with dark red fabric flower, dark lace-up boots built for entrances. Front and Back full-body in between-performance DAYLIGHT: soft warm side light and substantial cool green-grey shadows, lamps unlit. Third waist-up After the chase: SAME woman28, HAT REMOVED (held at wrist), loose curls with HALF a laundry peg caught at one side, small FLOUR oval on burgundy coat chest, flushed tired amused face. No toy bear/child in her arms. Two heads Welcoming and Concerned; precise curls/hair identity retained. Isolated gold-braid cuff and hat useful details. No whip, sword, glowing hands or claimed animation power.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+                "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+                "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+                "inspected": true
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+                "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+                "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T04:45:12.906855+00:00",
+            "preflight": "Complete source reread and all selected original/cover/daylight paintings actually inspected. One identity per sheet, Idrella28, toy scale/anatomy, exactly3panel wings, no permanentgrowth/glow, ear side and character-only ivory checked. Source overrides cover specifics.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a7579871-88c0-4d9c-9755-4219a66d55bd.png",
+            "candidateSha256": "be02aa262d633e9a40b964169d0e06640ff7a75a9171600eff32b128aa2d3494",
+            "completedAt": "2026-09-24T05:44:13.432307+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: recognizable recovered-original adult ringmaster geometry/curls/burgundy costume, age28 adult proportions, no donated style-reference face.",
+              "Complete front/back/three-quarter, welcoming/concerned portraits, after-chase hat removed with peg fragment in curls and flour on coat; gold braid/cuff and hat remain consistent.",
+              "Heavy directional oil across skin/hair/cloth, warm daytime light with cooler shadow passages, exact name/title, clean ivory and no scenery/other identity/swatches."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "be02aa262d633e9a40b964169d0e06640ff7a75a9171600eff32b128aa2d3494"
+    },
+    {
+      "id": "rumbit",
+      "name": "Rumbit",
+      "role": "Living teddy, ticket seller and accidental awakener of Matchstick",
+      "selectionEvidence": [
+        {
+          "quote": "His waistcoat was crooked, exposing the patch",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "she could still find the place on that ear with her thumb",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "the bear's pale soles",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Flour hung on the air",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        }
+      ],
+      "form": "Living stuffed teddy bear",
+      "storyAppearance": {
+        "anatomy": "Small stuffed bear, brown fur guided by original/cover, pale paw soles, ordinary short rounded paws; warm chest/heartbeat/breathing, no human inside.",
+        "markings": "Chest patch sewn when Idrella12, crooked waistcoat exposes it; flattened ear with worn thumb spot.",
+        "clothing": "Waistcoat; colour not fixed, source cover supports burgundy/gold.",
+        "states": "Ticket duty then flour-coated head/nose after kitchen crash; no complete physical transformation after magical gift.",
+        "equipment": "Ticket roll/scissors/apple; no universal reliable animation power."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: His waistcoat was crooked, exposing the patch",
+        "Non-canon source fact: she could still find the place on that ear with her thumb",
+        "Non-canon source fact: the bear's pale soles",
+        "Non-canon source fact: Flour hung on the air"
+      ],
+      "visualInterpretation": [
+        "Cover-guided golden-brown plush, cream muzzle/soles, dark bead eyes/nose, stitched chest patch and burgundy waistcoat with simple gold trim.",
+        "Art continuity chooses flattened anatomical LEFT ear; maintain in every view. Small teddy stature, round toy proportions, no human fingers or adult-human build."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Ticket duty then flour-coated head/nose after kitchen crash; no complete physical transformation after magical gift."
+        }
+      ],
+      "naming": {
+        "sourceName": "Rumbit",
+        "provenance": "Exact name in finished source; no art-only name needed."
+      },
+      "recurrence": {
+        "identityKey": "still-taking-runaways:rumbit",
+        "links": [],
+        "evidence": "No matching shared authority entry found."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+          "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+          "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/title-image.jpg",
+          "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+          "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/landscapes/03-the-pear-tree-and-green-gate.png",
+          "role": "Actual daytime warm/cool oil masses and broad bristle treatment only; no garden",
+          "sha256": "112cb07c2666ef496e094a941e6246846ca5a7b7011c076498235840308719fb",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+          "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+          "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+          "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+          "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true
+        }
+      ],
+      "output": "stories/still-taking-runaways/art/characters/rumbit.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:06:05.134736+00:00",
+        "sourceSha256": "8224d2e68b69a7f62021d421b79ab68759f044f492b3554a949b65b8ffcc1607",
+        "outputSha256": "b0c11d6fa34db14a1c457c279a3b9717240734c7d808542dd77b1293d40ee7d7",
+        "references": [
+          {
+            "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true,
+            "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9fe44def-21cb-4dae-9828-a8fae2b03dc3.png",
+            "sha256": "24b5b25a54a5040efd1f2a3eb43287246176f750d98b11d5204c82f20d40ab9e",
+            "inspected": true,
+            "role": "Actual candidate geometry and exact source identities; targeted correction"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: round teddy remains living plush, short stuffed paws, pale soles and muzzle, burgundy waistcoat and cream chest patch.",
+          "Flattened worn ear is anatomical left in front/rear/head/flour poses; no opposite patch. Broad fur strokes have reduced glitter and connected shadow masses, with raised oil accents.",
+          "Exact headings and functional labels readable on ivory, no ground/scenery/second identity; ticket/apple/scissors and flour state retain source."
+        ],
+        "specificationSha256": "5582e9c1c7dcbb6e6bf19d88ed5d6b75e55fa38a6a9a01067202634a6acdbceb"
+      },
+      "generation": {
+        "prompt": "Repaint ONLY the Rumbit character sheet image2 in image1's MATTE broad oil technique: brush marks press into connected shapes with QUIET joins and broad dark masses. GOLDEN FUR must be broad soft painted masses following round teddy volumes, NOT a mosaic of repeated little 3D beveled bright tiles. Reduce all sparkling/specular highlights and stop outlining each dab with dark border. Daylight on teddy has broad warm light planes and cool deep shadow planes, like image1. Keep exact same teddy anatomy, gold-brown fur, burgundy waistcoat and pale chest patch, assigned LEFT worn ear (viewerRIGHT front, viewerLEFT back), all poses/expression/props and readable Rumbit / Still Taking Runaways. Every negative-space area stays clean LIGHT WARM IVORY; do not paint image1's room or window or floor. Only transfer connected matte bristle and dragged knife PAINT of image1. Lower raised fur texture into broad palette-knife sweeps, quiet edges and selective raised accents. Preserve soft plush teddy substance; not wood or chipped gilding.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true,
+            "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+          },
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9fe44def-21cb-4dae-9828-a8fae2b03dc3.png",
+            "sha256": "24b5b25a54a5040efd1f2a3eb43287246176f750d98b11d5204c82f20d40ab9e",
+            "inspected": true,
+            "role": "Actual candidate geometry and exact source identities; targeted correction"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET, ONE IDENTITY ONLY even if story has companions. Large exact NAME heading, smaller exact title Still Taking Runaways. Light clean warm IVORY throughout negative space, NO floor patches, ground shadows, scenery, stage, wagon, other characters or palette swatches. Useful full-body front/rear/three-quarter views and a few head/material/hand details, short functional labels ONLY, no decorative sentences. Canadian Group of Seven HEAVY MATTE OILS with LARGE CONNECTED value masses, directional broad bristle marks and selective raised knife paint, quiet joins. The original Sculpted Impasto controls handmade paint, never identity/costume/lighting/scene. Source art supplies character geometry and story-specific daylight only; do not copy photographic/CGI/smooth digital rendering. Faces, fur, wood and hair equally thickly PAINTED, no glossy CGI or uniform beveled chips. No copied name/face from style sheet. Heading Rumbit. ONLY the little TEDDY BEAR from story cover/original, no human or dragon: golden-brown worn plush, cream muzzle and pale plush paw SOLES, dark bead eyes and brown stitched nose, short round forepaws/hindpaws, round belly and broad toy head. Waistcoat BURGUNDY with simple gold trim is crooked and reveals the stitched CREAM CHEST PATCH. Anatomical LEFT EAR slightly flattened with worn patch: front viewerRIGHT, rear viewerLEFT. TWO full standing front/back (bear biped plush stance, NOT human-shaped legs), plus a full seated Flour aftermath figure same size/proportions with flour white on nose/head/shoulders and pale soles visible; no bowl or floor. Head studies Helpful and Startled. Isolated stitched patch and worn LEFT ear closeup; short ticket strip and small closed scissors beside a simple ordinary apple. Paws remain teddy plush shapes, no five human fingers. Story light between-performance/daytime window warm with cooler greenish shadows; end flour state kitchenDAYLIGHT, not night. No top hat or bowtie required, no cape, no permanent glow or dragon.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/title-image.jpg",
+                "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+                "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+                "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+                "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+                "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+                "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T04:45:12.906855+00:00",
+            "preflight": "Complete source reread and all selected original/cover/daylight paintings actually inspected. One identity per sheet, Idrella28, toy scale/anatomy, exactly3panel wings, no permanentgrowth/glow, ear side and character-only ivory checked. Source overrides cover specifics.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-bc9365d3-c0a0-4a9c-a5ae-c8ec4d4d4824.png",
+            "candidateSha256": "9ee6485c91852915569666d0613847d8a76151ea7a2ae671bdc49af9edf6bd9a",
+            "completedAt": "2026-09-24T05:44:13.432307+00:00",
+            "visualInspection": [
+              "Dark gradient obscures heading, teddy fur remains overly photographic; worn-ear orientation differs across head views."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "REPAINT image2 Rumbit sheet in the actual large hand-painted OPAQUE OIL masses of image1 (STYLE ONLY, no human identity, armor, scene strips, swatches or lighting copied). Keep the same little round golden-brown TEDDY proportions, burgundy waistcoat with gold trim, pale muzzle/soles, dark bead eyes, chest patch and flour aftermath. Replace tiny photographic fur fibers and toy-product CGI finish with broad bristled painted FUR MASSES, visibly oil on canvas; forms still soft teddy plush, not carved chips. MOST IMPORTANT replace ALL dark/blurred background with UNIFORM LIGHT WARM IVORY, remove ground shadows/patches beneath every bear and object. Readable large dark serif Rumbit / Still Taking Runaways, no red-on-dark lettering. FIX ear continuity: flattened/worn ear is anatomical LEFT in EVERY view. Full front and seated flour bear: viewerRIGHT ear flattened, viewerLEFT round. Full back: viewerLEFT flattened with worn patch. In BOTH upper-right head studies, change viewerRIGHT ear to the flattened worn ear and restore viewerLEFT ear to ordinary round unpatched ear. Isolated Left ear detail retains worn patch. No whole-face mirroring, no random ear repair patch on the opposite side. Ticket/apple/scissors and source labels retained, no extra bear or dragon. Daytime warm/cool figure light, ivory background always light.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "PRIMARY original heavy opaque oils only, no identity, scene, swatch or light transfer"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-bc9365d3-c0a0-4a9c-a5ae-c8ec4d4d4824.png",
+                "sha256": "9ee6485c91852915569666d0613847d8a76151ea7a2ae671bdc49af9edf6bd9a",
+                "inspected": true,
+                "role": "Actual candidate geometry; specified source/ivory/paint corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T05:44:13.432307+00:00",
+            "preflight": "All actual candidates inspected. Source teddy ear assigned left consistently; Matchstick wing3count and replacement wing peg thread checked against prose. Daytime light separated from ivory background, photographic texture rejected. Child jam corrected to small food smear.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9fe44def-21cb-4dae-9828-a8fae2b03dc3.png",
+            "candidateSha256": "24b5b25a54a5040efd1f2a3eb43287246176f750d98b11d5204c82f20d40ab9e",
+            "completedAt": "2026-09-24T06:03:25.945019+00:00",
+            "visualInspection": [
+              "Ivory/title and ear sidedness corrected, but fur still uniformly broken into bevel-lit tiles. Broader matte paint correction required."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Repaint ONLY the Rumbit character sheet image2 in image1's MATTE broad oil technique: brush marks press into connected shapes with QUIET joins and broad dark masses. GOLDEN FUR must be broad soft painted masses following round teddy volumes, NOT a mosaic of repeated little 3D beveled bright tiles. Reduce all sparkling/specular highlights and stop outlining each dab with dark border. Daylight on teddy has broad warm light planes and cool deep shadow planes, like image1. Keep exact same teddy anatomy, gold-brown fur, burgundy waistcoat and pale chest patch, assigned LEFT worn ear (viewerRIGHT front, viewerLEFT back), all poses/expression/props and readable Rumbit / Still Taking Runaways. Every negative-space area stays clean LIGHT WARM IVORY; do not paint image1's room or window or floor. Only transfer connected matte bristle and dragged knife PAINT of image1. Lower raised fur texture into broad palette-knife sweeps, quiet edges and selective raised accents. Preserve soft plush teddy substance; not wood or chipped gilding.",
+            "references": [
+              {
+                "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+                "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+                "inspected": true,
+                "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-9fe44def-21cb-4dae-9828-a8fae2b03dc3.png",
+                "sha256": "24b5b25a54a5040efd1f2a3eb43287246176f750d98b11d5204c82f20d40ab9e",
+                "inspected": true,
+                "role": "Actual candidate geometry and exact source identities; targeted correction"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:03:25.945019+00:00",
+            "preflight": "Actual returned pixels inspected; after repeated count failure reduce open-wing composition to single three-blade study. Broad matte paint requirement checked against actual story painting. One identity, light ivory and source proportions preserved.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-eea979dd-f1ce-46eb-a8e7-ee9ccf681dde.png",
+            "candidateSha256": "b0c11d6fa34db14a1c457c279a3b9717240734c7d808542dd77b1293d40ee7d7",
+            "completedAt": "2026-09-24T06:06:05.134736+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: round teddy remains living plush, short stuffed paws, pale soles and muzzle, burgundy waistcoat and cream chest patch.",
+              "Flattened worn ear is anatomical left in front/rear/head/flour poses; no opposite patch. Broad fur strokes have reduced glitter and connected shadow masses, with raised oil accents.",
+              "Exact headings and functional labels readable on ivory, no ground/scenery/second identity; ticket/apple/scissors and flour state retain source."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "b0c11d6fa34db14a1c457c279a3b9717240734c7d808542dd77b1293d40ee7d7"
+    },
+    {
+      "id": "velzie",
+      "name": "Velzie",
+      "role": "Child who brings her toy dragon, initiates runaway plan and learns to tell mother truth",
+      "selectionEvidence": [
+        {
+          "quote": "Her face was sticky near the mouth.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "A stocking protruded from its knot.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Velzie lifted her chin.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "her cheek acquired a broad streak of flour",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        }
+      ],
+      "form": "Human child",
+      "storyAppearance": {
+        "anatomy": "Little girl, sticky jam near mouth, later blotched face and flour streak on cheek.",
+        "clothing": "Skirt and tied dishcloth bundle with stocking protruding; other colours unspecified.",
+        "states": "Determined visitor with chin raised; later worried, then amused and reassured.",
+        "equipment": "Owns Matchstick but cannot ride him; bundle. Separate one-identity sheet does not depict living dragon alongside her."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Her face was sticky near the mouth.",
+        "Non-canon source fact: A stocking protruded from its knot.",
+        "Non-canon source fact: Velzie lifted her chin.",
+        "Non-canon source fact: her cheek acquired a broad streak of flour"
+      ],
+      "visualInterpretation": [
+        "Art-only child age8, pale freckled skin, auburn hair in two short practical plaits, blue-grey eyes and round face.",
+        "Cream long-sleeved blouse, faded teal knee-length skirt, brown stockings/ankle boots, tied checked dishcloth bundle. Fully ordinary child proportions and costume."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Determined visitor with chin raised; later worried, then amused and reassured."
+        }
+      ],
+      "naming": {
+        "sourceName": "Velzie",
+        "provenance": "Exact name in finished source; no art-only name needed."
+      },
+      "recurrence": {
+        "identityKey": "still-taking-runaways:velzie",
+        "links": [],
+        "evidence": "No matching shared authority entry found."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+          "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+          "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/title-image.jpg",
+          "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+          "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/landscapes/03-the-pear-tree-and-green-gate.png",
+          "role": "Actual daytime warm/cool oil masses and broad bristle treatment only; no garden",
+          "sha256": "112cb07c2666ef496e094a941e6246846ca5a7b7011c076498235840308719fb",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+          "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+          "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+          "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+          "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true
+        }
+      ],
+      "output": "stories/still-taking-runaways/art/characters/velzie.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:03:25.945019+00:00",
+        "sourceSha256": "8224d2e68b69a7f62021d421b79ab68759f044f492b3554a949b65b8ffcc1607",
+        "outputSha256": "9377511a8bcfb111cc7778cbcd777daadea258cdef9f359c279cf3f4db9ee63b",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a74f14d4-9986-4bc7-9132-e6155e486f9a.png",
+            "sha256": "11254a56e85832c29cd63c840bd1146c59d05af7f3f90fea52813d251a4cc02e",
+            "inspected": true,
+            "role": "Actual candidate geometry; specified source/ivory/paint corrections"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: small plum jam at lip corner replaces streak, white flour retained in after-return head, child proportions/hands/outfit/bundle remain consistent.",
+          "Clean ivory without ground, readable exact headings, three complete body views and distinct expressions; heavy matte oil clothing and skin."
+        ],
+        "specificationSha256": "8212bd8bf51b51bf6fe8c050c4b11385119b7f2feb9c87987db31ed99efe552b"
+      },
+      "generation": {
+        "prompt": "Make small corrections to this otherwise finished Velzie sheet. Preserve every identity/age8 child proportion, auburn two-plait hairstyle, teal skirt/cream blouse, stocking/bundle, hands, title, heavy matte oil paint and daytime lighting. Replace all big RED streaks around her mouth/cheek in front and three-quarter full views with just ONE SMALL dark-plum JAM smudge at corner of lips, sticky food rather than dripping streak down cheek. No injury, cuts or blood. Her source face is simply sticky near the mouth, not stained across cheek. Other heads keep natural flushed cheeks. After return portrait keeps its broad WHITE FLOUR streak exactly. Remove thin ground marks/shadows beneath boots, restoring clean LIGHT WARM IVORY. No other changes, no scenery or extra objects.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a74f14d4-9986-4bc7-9132-e6155e486f9a.png",
+            "sha256": "11254a56e85832c29cd63c840bd1146c59d05af7f3f90fea52813d251a4cc02e",
+            "inspected": true,
+            "role": "Actual candidate geometry; specified source/ivory/paint corrections"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET, ONE IDENTITY ONLY even if story has companions. Large exact NAME heading, smaller exact title Still Taking Runaways. Light clean warm IVORY throughout negative space, NO floor patches, ground shadows, scenery, stage, wagon, other characters or palette swatches. Useful full-body front/rear/three-quarter views and a few head/material/hand details, short functional labels ONLY, no decorative sentences. Canadian Group of Seven HEAVY MATTE OILS with LARGE CONNECTED value masses, directional broad bristle marks and selective raised knife paint, quiet joins. The original Sculpted Impasto controls handmade paint, never identity/costume/lighting/scene. Source art supplies character geometry and story-specific daylight only; do not copy photographic/CGI/smooth digital rendering. Faces, fur, wood and hair equally thickly PAINTED, no glossy CGI or uniform beveled chips. No copied name/face from style sheet. Heading Velzie. ONLY one fully clothed ordinary human little GIRL, art interpretation age8, pale freckled face, round cheeks, auburn hair in TWO short practical plaits, blue-grey eyes. Cream long-sleeved blouse, faded TEAL knee-length skirt, brown stockings, practical brown ankle boots. Front and Back full views, child proportions, carrying checked dishcloth bundle with ONE stocking sticking from knot; small jam smear near mouth in Visiting state. Third small waist-up After return with one broad flour streak on cheek and softened amused face. Heads Determined chin raised and Worried. Hands hold bundle or make modest explaining gesture, ordinary five digits. No dragon or bear/other person in this one-identity sheet. Daytime soft warm garden/kitchen window light and cool green-grey shadows, not studio gloss. No fantasy armor, cape, weapon, adult makeup or adult figure.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/landscapes/03-the-pear-tree-and-green-gate.png",
+                "role": "Actual daytime warm/cool oil masses and broad bristle treatment only; no garden",
+                "sha256": "112cb07c2666ef496e094a941e6246846ca5a7b7011c076498235840308719fb",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+                "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+                "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T04:45:12.906855+00:00",
+            "preflight": "Complete source reread and all selected original/cover/daylight paintings actually inspected. One identity per sheet, Idrella28, toy scale/anatomy, exactly3panel wings, no permanentgrowth/glow, ear side and character-only ivory checked. Source overrides cover specifics.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a74f14d4-9986-4bc7-9132-e6155e486f9a.png",
+            "candidateSha256": "11254a56e85832c29cd63c840bd1146c59d05af7f3f90fea52813d251a4cc02e",
+            "completedAt": "2026-09-24T05:44:13.432307+00:00",
+            "visualInspection": [
+              "Child appearance and flour state pass; red jam streaks read too large/drippy and small floor patches remain."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "prompt": "Make small corrections to this otherwise finished Velzie sheet. Preserve every identity/age8 child proportion, auburn two-plait hairstyle, teal skirt/cream blouse, stocking/bundle, hands, title, heavy matte oil paint and daytime lighting. Replace all big RED streaks around her mouth/cheek in front and three-quarter full views with just ONE SMALL dark-plum JAM smudge at corner of lips, sticky food rather than dripping streak down cheek. No injury, cuts or blood. Her source face is simply sticky near the mouth, not stained across cheek. Other heads keep natural flushed cheeks. After return portrait keeps its broad WHITE FLOUR streak exactly. Remove thin ground marks/shadows beneath boots, restoring clean LIGHT WARM IVORY. No other changes, no scenery or extra objects.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-a74f14d4-9986-4bc7-9132-e6155e486f9a.png",
+                "sha256": "11254a56e85832c29cd63c840bd1146c59d05af7f3f90fea52813d251a4cc02e",
+                "inspected": true,
+                "role": "Actual candidate geometry; specified source/ivory/paint corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T05:44:13.432307+00:00",
+            "preflight": "All actual candidates inspected. Source teddy ear assigned left consistently; Matchstick wing3count and replacement wing peg thread checked against prose. Daytime light separated from ivory background, photographic texture rejected. Child jam corrected to small food smear.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-00a98d10-9b89-4020-80da-8a59372be093.png",
+            "candidateSha256": "9377511a8bcfb111cc7778cbcd777daadea258cdef9f359c279cf3f4db9ee63b",
+            "completedAt": "2026-09-24T06:03:25.945019+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: small plum jam at lip corner replaces streak, white flour retained in after-return head, child proportions/hands/outfit/bundle remain consistent.",
+              "Clean ivory without ground, readable exact headings, three complete body views and distinct expressions; heavy matte oil clothing and skin."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "9377511a8bcfb111cc7778cbcd777daadea258cdef9f359c279cf3f4db9ee63b"
+    },
+    {
+      "id": "matchstick",
+      "name": "Matchstick",
+      "role": "Small wooden toy dragon becomes alive, flies clumsily home and asks for butter",
+      "selectionEvidence": [
+        {
+          "quote": "Three thin panels of wood spread on little pegs.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Still wood, still the size of a large loaf",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Nothing happened to his size.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        },
+        {
+          "quote": "Please butter.",
+          "explanation": "Direct finished-source identity, material, state or central action."
+        }
+      ],
+      "form": "Living carved wooden dragon",
+      "storyAppearance": {
+        "anatomy": "Still wood, still large-loaf size after awakening, nose-to-tail longer than Rumbit. Green paint rubbed from back, cracked green spine ridge, yellow glass eyes, two horn handholds, drilled nostrils and articulated jaw, claws.",
+        "wings": "Left wing exactly three thin wood panels spreading on little pegs; replacement peg shaved/thread-wrapped. Art mirrors three panels in right wing.",
+        "states": "Folded toy before awakening; living same-size form with tail/neck/eyes/jaw mobile; wing spread/flying but no flesh or size increase. Brief gold grain light fades.",
+        "equipment": "No saddle, no armor, no fire breath or growing form."
+      },
+      "explicitCanon": [
+        "Non-canon source fact: Three thin panels of wood spread on little pegs.",
+        "Non-canon source fact: Still wood, still the size of a large loaf",
+        "Non-canon source fact: Nothing happened to his size.",
+        "Non-canon source fact: Please butter."
+      ],
+      "visualInterpretation": [
+        "Cover-guided weathered green carved wood with warm exposed grain and yellow glass eyes; four small pegged legs, two horns, one long tapered tail and cracked dorsal ridge.",
+        "Three articulated wood panels per wing, not fleshy membrane or feathered wings; living body retains carved toy character."
+      ],
+      "states": [
+        {
+          "name": "Source-supported states",
+          "description": "Folded toy before awakening; living same-size form with tail/neck/eyes/jaw mobile; wing spread/flying but no flesh or size increase. Brief gold grain light fades."
+        }
+      ],
+      "naming": {
+        "sourceName": "Matchstick",
+        "provenance": "Exact name in finished source; no art-only name needed."
+      },
+      "recurrence": {
+        "identityKey": "still-taking-runaways:matchstick",
+        "links": [],
+        "evidence": "No matching shared authority entry found."
+      },
+      "references": [
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\recovered-story-references\\codex-clipboard-95185c28-e089-4860-bb6e-49dbfdf3de03.png",
+          "role": "Recovered exact source original: Idrella adult ringmaster face/curls/burgundy costume and small brown teddy context; smooth original style not target",
+          "sha256": "6993a20272054af0687e0ad3009b7c8783acff94053cb231017a7e70c1b94ffe",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/title-image.jpg",
+          "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+          "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/landscapes/03-the-pear-tree-and-green-gate.png",
+          "role": "Actual daytime warm/cool oil masses and broad bristle treatment only; no garden",
+          "sha256": "112cb07c2666ef496e094a941e6246846ca5a7b7011c076498235840308719fb",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/03-inside-the-ticket-wagon.png",
+          "role": "Actual between-performance DAYLIGHT through window, burgundy/ochre and dark green shadows, oil style only; no wagon",
+          "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+          "inspected": true
+        },
+        {
+          "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+          "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+          "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+          "inspected": true
+        },
+        {
+          "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+          "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+          "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+          "inspected": true
+        }
+      ],
+      "output": "stories/still-taking-runaways/art/characters/matchstick.png",
+      "status": "completed",
+      "blockers": [],
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "cast_resume_1 actual saved-pixel review",
+        "reviewedAt": "2026-09-24T06:06:05.134736+00:00",
+        "sourceSha256": "8224d2e68b69a7f62021d421b79ab68759f044f492b3554a949b65b8ffcc1607",
+        "outputSha256": "5ab5cf84c21836d8621914605d31ed187f97a426db5f554112454e188cf7e537",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-47e6551c-e151-4d83-a222-ee02e9b1e2a8.png",
+            "sha256": "71974ad0b75a6e0610cdd6a57cd0c37f33e0ec020fe47e9f10d7df4369b91805",
+            "inspected": true,
+            "role": "Actual candidate geometry and exact source identities; targeted correction"
+          },
+          {
+            "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true,
+            "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+          }
+        ],
+        "evidence": [
+          "Actual PNG inspected: isolated wing now exactly THREE numbered thin fan blades around one thread-wrapped hinge, no fourth sliver; all whole-body views folded to avoid conflicting fan anatomy.",
+          "Green carved wooden dragon remains large-loaf size with same yellow glass eyes, two plain horns, four legs, one tail and cracked dorsal ridge; no flesh/growth/fire/saddle.",
+          "Thickly painted worn wood, clean ivory, exact readable title/name, unclipped character views, no scene/other identity."
+        ],
+        "specificationSha256": "3433ee6b9a10c95cc6682f062ee4c10c8194db39a9a5929f9e4bf4100b52b857"
+      },
+      "generation": {
+        "prompt": "Correct ONLY Matchstick sheet image1 with a SIMPLER feasible wing layout. Remove the upper-right Wings open flying pose ENTIRELY and replace it with same green wooden loaf-size dragon three-quarter FRONT pose with wings neatly FOLDED against back (same four legs, two horns, one tail). Do not show a second open-wing full-body pose. Redraw the lower-left isolated wing study as EXACTLY THREE separate broad wooden fan blades sharing ONE small hinge peg: blade1 points upper-right, blade2 points right, blade3 points lower-right, three outer ends with clean ivory gap between ends. NO fourth narrow blade behind peg, NO downward wooden spike behind hinge; the hinge is simply a SMALL ROUND PEG wrapped in thread. Label1,2,3 once on respective blades. Maintain green worn paint, yellow glass eyes, two plain unwrapped horns, four peg-jointed legs, carved tail, dark cracked ridge, exact headings and other source-supported details. No scenery, floor or other characters, uniform light warm ivory remains. Preserve heavy oil paint, strengthen broad connected matte bristle/knife handling using image2 style only, never the room. Exact name Matchstick / Still Taking Runaways.",
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-47e6551c-e151-4d83-a222-ee02e9b1e2a8.png",
+            "sha256": "71974ad0b75a6e0610cdd6a57cd0c37f33e0ec020fe47e9f10d7df4369b91805",
+            "inspected": true,
+            "role": "Actual candidate geometry and exact source identities; targeted correction"
+          },
+          {
+            "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+            "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+            "inspected": true,
+            "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "prompt": "One landscape1536x1024 CHARACTER SHEET, ONE IDENTITY ONLY even if story has companions. Large exact NAME heading, smaller exact title Still Taking Runaways. Light clean warm IVORY throughout negative space, NO floor patches, ground shadows, scenery, stage, wagon, other characters or palette swatches. Useful full-body front/rear/three-quarter views and a few head/material/hand details, short functional labels ONLY, no decorative sentences. Canadian Group of Seven HEAVY MATTE OILS with LARGE CONNECTED value masses, directional broad bristle marks and selective raised knife paint, quiet joins. The original Sculpted Impasto controls handmade paint, never identity/costume/lighting/scene. Source art supplies character geometry and story-specific daylight only; do not copy photographic/CGI/smooth digital rendering. Faces, fur, wood and hair equally thickly PAINTED, no glossy CGI or uniform beveled chips. No copied name/face from style sheet. Heading Matchstick. ONLY one SMALL CARVED WOODEN DRAGON, LARGE LOAF size. Preserve actual cover dragon shape as geometry: weathered GREEN paint rubbed away to warm brown grain, cracked green dorsal ridge, TWO yellow GLASS EYES, TWO short horns, two drilled-hole nostrils, hinged jaw, FOUR small pegged clawed legs, long tapering wood tail. No Rumbit/bear or human from cover. Three complete unclipped views on ivory: Folded wings side, Rear three-quarter, Wings open (same body size, slight clumsy airborne pose). CRUCIAL each wing comprises EXACTLY THREE broad thin articulated WOOD PANELS joined at small pegs, clearly separable like three fan blades, no leathery membrane or feathers. Left wing closeup large enough to count1,2,3 panels; one repair peg has thread wound around its end. Living body remains WOOD, green chipped ridge and grain, no real dragon skin, fire, giant form or saddle. A second head detail shows mouth softly open (asks for butter), ordinary glass eyes; brief awakening gold throughgrain only as one tiny detail if useful, NEVER permanent body aura. Clear label Same size after awakening. SourceDAYLIGHT, warm wood and cool green shadows, substantial broad oil handling on every form, not shiny toy product photograph.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "role": "Original Sculpted Impasto style only, no person/outfit/scene/swatches",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/title-image.jpg",
+                "role": "Actual source cover Rumbit teddy and Matchstick carved green dragon appearance; subordinate to prose count/scale, photoreal rendering excluded",
+                "sha256": "a7d98633a277941d58e90d978c9427bb702509d3a64cc178e75c1431b1028159",
+                "inspected": true
+              },
+              {
+                "path": "stories/still-taking-runaways/art/interiors/02-flour-after-the-flight.png",
+                "role": "Actual kitchen DAYLIGHT and flour-state material context; no scene",
+                "sha256": "2640d101b4d28422fb7ccf652b665f11c7ecdb876e27545373fd9a842513aaf5",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T04:45:12.906855+00:00",
+            "preflight": "Complete source reread and all selected original/cover/daylight paintings actually inspected. One identity per sheet, Idrella28, toy scale/anatomy, exactly3panel wings, no permanentgrowth/glow, ear side and character-only ivory checked. Source overrides cover specifics.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-8486a270-7dc7-4c62-8815-0d9545b93c8a.png",
+            "candidateSha256": "89c3ecb5403117068eb9083eebfbb73b45f2a67603393b37c5eed72fbe7fae4e",
+            "completedAt": "2026-09-24T05:44:13.432307+00:00",
+            "visualInspection": [
+              "Dark gradients, photoreal toy finish and garbled story title; wing repair thread placed on horn, and open far wing panel count ambiguous."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "REVISE",
+            "prompt": "REPAINT image2 Matchstick sheet using the actual BROAD OPAQUE OIL brush/knife masses of image1 (STYLE ONLY; no human, armor, swatches or scene strips). Keep one small green WOODEN DRAGON, same large-loaf toy size, yellow glass eyes, four pegged legs, two horns, long tail, cracked green ridge, no growth/flesh/fire. Depict wood/grain and green worn paint in substantial matte painted strokes, not CGI product photograph or tiny uniformly bevel-lit chips. Replace ALL brown/red blurred background and every floor shadow with LIGHT WARM IVORY, fully readable BLACK heading Matchstick and EXACT subtitle Still Taking Runaways with no extra leading letter/symbol. Correct WING construction: EVERY OPEN wing has EXACTLY THREE broad thin wood fan-blade PANELS around one peg, not four or membrane. In upper-right flight form remove any extra fourth narrow top blade on far/viewerLEFT wing so exactly3 separate panel ends remain; near/viewerRIGHT wing keeps3. Isolated left-wing study shows three panels clearly numbered1,2,3. The REPAIR THREAD belongs wound around the LEFT WING HINGE PEG in isolated wing study and whole views when visible. REMOVE the thread wrapped around a HORN in head closeup: both horns plain wood. Put thread on wing peg instead. Remove stray numeral2 on folded full dragon wing. Keep short functional labels; change Grain gleam caption to Awakening only (glow fades), with subtle golden grain detail only. No permanent glow or second identity. Keep all complete forms unclipped.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\attachments\\ea2d11bd-b58a-408e-8999-531bc65bcb75\\image-1.png",
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724",
+                "inspected": true,
+                "role": "PRIMARY original heavy opaque oils only, no identity, scene, swatch or light transfer"
+              },
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-8486a270-7dc7-4c62-8815-0d9545b93c8a.png",
+                "sha256": "89c3ecb5403117068eb9083eebfbb73b45f2a67603393b37c5eed72fbe7fae4e",
+                "inspected": true,
+                "role": "Actual candidate geometry; specified source/ivory/paint corrections"
+              }
+            ],
+            "startedAt": "2026-09-24T05:44:13.432307+00:00",
+            "preflight": "All actual candidates inspected. Source teddy ear assigned left consistently; Matchstick wing3count and replacement wing peg thread checked against prose. Daytime light separated from ivory background, photographic texture rejected. Child jam corrected to small food smear.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-47e6551c-e151-4d83-a222-ee02e9b1e2a8.png",
+            "candidateSha256": "71974ad0b75a6e0610cdd6a57cd0c37f33e0ec020fe47e9f10d7df4369b91805",
+            "completedAt": "2026-09-24T06:03:25.945019+00:00",
+            "visualInspection": [
+              "Ivory/title and horn thread corrected, but upper open far wing still has four panel ends and isolated wing has an extra rear sliver. Simplify composition to folded whole-body views plus one clearly counted three-blade detail."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "prompt": "Correct ONLY Matchstick sheet image1 with a SIMPLER feasible wing layout. Remove the upper-right Wings open flying pose ENTIRELY and replace it with same green wooden loaf-size dragon three-quarter FRONT pose with wings neatly FOLDED against back (same four legs, two horns, one tail). Do not show a second open-wing full-body pose. Redraw the lower-left isolated wing study as EXACTLY THREE separate broad wooden fan blades sharing ONE small hinge peg: blade1 points upper-right, blade2 points right, blade3 points lower-right, three outer ends with clean ivory gap between ends. NO fourth narrow blade behind peg, NO downward wooden spike behind hinge; the hinge is simply a SMALL ROUND PEG wrapped in thread. Label1,2,3 once on respective blades. Maintain green worn paint, yellow glass eyes, two plain unwrapped horns, four peg-jointed legs, carved tail, dark cracked ridge, exact headings and other source-supported details. No scenery, floor or other characters, uniform light warm ivory remains. Preserve heavy oil paint, strengthen broad connected matte bristle/knife handling using image2 style only, never the room. Exact name Matchstick / Still Taking Runaways.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-47e6551c-e151-4d83-a222-ee02e9b1e2a8.png",
+                "sha256": "71974ad0b75a6e0610cdd6a57cd0c37f33e0ec020fe47e9f10d7df4369b91805",
+                "inspected": true,
+                "role": "Actual candidate geometry and exact source identities; targeted correction"
+              },
+              {
+                "path": "stories\\still-taking-runaways\\art\\interiors\\03-inside-the-ticket-wagon.png",
+                "sha256": "ae86406029fa88a34706c7c92b0278c03a724b2b5816a1f74acc21965dddceb9",
+                "inspected": true,
+                "role": "Actual same-story broad matte oils and daytime value masses only, no room"
+              }
+            ],
+            "preparedAt": "2026-09-24T06:03:25.945019+00:00",
+            "preflight": "Actual returned pixels inspected; after repeated count failure reduce open-wing composition to single three-blade study. Broad matte paint requirement checked against actual story painting. One identity, light ivory and source proportions preserved.",
+            "candidate": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-1c0c-7721-b049-4c97cf184577\\exec-54163fb0-9faf-4e85-a1b1-1f92cbf29f95.png",
+            "candidateSha256": "5ab5cf84c21836d8621914605d31ed187f97a426db5f554112454e188cf7e537",
+            "completedAt": "2026-09-24T06:06:05.134736+00:00",
+            "visualInspection": [
+              "Actual PNG inspected: isolated wing now exactly THREE numbered thin fan blades around one thread-wrapped hinge, no fourth sliver; all whole-body views folded to avoid conflicting fan anatomy.",
+              "Green carved wooden dragon remains large-loaf size with same yellow glass eyes, two plain horns, four legs, one tail and cracked dorsal ridge; no flesh/growth/fire/saddle.",
+              "Thickly painted worn wood, clean ivory, exact readable title/name, unclipped character views, no scene/other identity."
+            ]
+          }
+        ]
+      },
+      "outputSha256": "5ab5cf84c21836d8621914605d31ed187f97a426db5f554112454e188cf7e537"
+    }
+  ]
+}
