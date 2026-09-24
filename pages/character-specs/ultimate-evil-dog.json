@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "slug": "ultimate-evil-dog",
+  "title": "A Very Good Dog",
+  "source": "stories/ultimate-evil-dog/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose and full recorded prompt read. Four main identities: Maledict, Pickle, Brightguard, butler. Two living occupants always distinct; final Maledict dog is his own transformed body. Pickle uses inspected accepted Maledict human sheet to preserve identical borrowed-body appearance.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Security head, operatives, commissioner, veterinarian, reporter and mail carrier",
+      "reason": "Brief/offstage functions without sustained individual arc."
+    }
+  ],
+  "characters": [
+    {
+      "id": "maledict",
+      "name": "Maledict",
+      "role": "Forty-two-year-old villain who returns Pickle then voluntarily recasts his own body",
+      "form": "Adult human man and his own final black canine body",
+      "selectionEvidence": [
+        {
+          "quote": "The body was forty-two, tall",
+          "explanation": "Human age/build explicit."
+        },
+        {
+          "quote": "a deep-chested black dog with long legs, upright ears, and a small gray patch under the chin",
+          "explanation": "Final form explicitly distinct from Pickle."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Human 42, tall, ordinarily menacing; final dog deep chest, long legs, upright ears, black with small gray under-chin patch, NO white forepaw. Two occupants never blended."
+      },
+      "visualInterpretation": [
+        "Art-only human face: pale olive skin, sharply angular long face, pronounced straight nose, slicked-back black hair and high hairline, clean shaven; long athletic body.",
+        "Select restored human in plain source black tracksuit just before recast, bare feet/socks as source borrowed body wore socks; all body fully covered. Final dog shown unclothed."
+      ],
+      "states": [
+        {
+          "name": "Restored human",
+          "description": "Maledict back in own body before confirmation."
+        },
+        {
+          "name": "Recast dog",
+          "description": "Only Maledict's own body reshaped, Pickle unaffected."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact source name."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Maledict\"; subtitle \"A Very Good Dog\". ONE continuing identity in TWO labeled forms. LEFT: complete HUMAN man aged exactly forty-two, very tall lean athletic body, pale olive skin, sharply angular long face, pronounced straight nose, slicked-back black hair with high hairline, clean-shaven; plain contemporary BLACK TRACKSUIT and dark socks, imperious upright stance. Label \"Restored human\". RIGHT: his FINAL recast dog, complete quadrupedal full profile-three-quarter view, deep chest, unusually long legs, upright pointed ears, black coat and a SMALL GRAY patch ONLY under chin. ALL FOUR PAWS BLACK, absolutely no white paw and no brown dog. Label \"Recast dog\". One human head portrait and one dog head portrait repeat same identities. Modern science-fiction setting is implicit in outfit but depict NO scenery, console, shadow villain, transformation effect or cage. Low evening laboratory task-lamp illumination, subdued warm planes with connected dark gray/violet shadows. Keep black forms truly black and simplify paint into broad masses, no glossy science-fiction render. Opaque ivory support; no human nudity or isolated hands/paws.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+            "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+            "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Maledict\"; subtitle \"A Very Good Dog\". ONE continuing identity in TWO labeled forms. LEFT: complete HUMAN man aged exactly forty-two, very tall lean athletic body, pale olive skin, sharply angular long face, pronounced straight nose, slicked-back black hair with high hairline, clean-shaven; plain contemporary BLACK TRACKSUIT and dark socks, imperious upright stance. Label \"Restored human\". RIGHT: his FINAL recast dog, complete quadrupedal full profile-three-quarter view, deep chest, unusually long legs, upright pointed ears, black coat and a SMALL GRAY patch ONLY under chin. ALL FOUR PAWS BLACK, absolutely no white paw and no brown dog. Label \"Recast dog\". One human head portrait and one dog head portrait repeat same identities. Modern science-fiction setting is implicit in outfit but depict NO scenery, console, shadow villain, transformation effect or cage. Low evening laboratory task-lamp illumination, subdued warm planes with connected dark gray/violet shadows. Keep black forms truly black and simplify paint into broad masses, no glossy science-fiction render. Opaque ivory support; no human nudity or isolated hands/paws.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+                "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+                "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:03:37.450776+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-b6379ab5-d3bb-4887-86e6-7d79aeab6a56.png",
+            "outputSha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+            "returnedAt": "2026-09-24T16:08:35.289829+00:00",
+            "generatorReview": [
+              "Opaque RGB actual pixels inspected: exact Maledict/A Very Good Dog plus Restored human/Recast dog labels, same 42-year-old tall dark-haired human likeness across full/bust.",
+              "Final canine has deep chest, long legs, upright ears, black paws and coat with small light gray under-chin patch; clearly unlike Pickle, no white forepaw and no occupant blending.",
+              "Low task-lamp planes retain deep connected black oil masses; opaque ivory isolation, complete anatomy, no laboratory scene/effect/swatches/hand study. All pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/ultimate-evil-dog/art/characters/maledict.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:08:35.482266+00:00",
+        "evidence": [
+          "Opaque RGB actual pixels inspected: exact Maledict/A Very Good Dog plus Restored human/Recast dog labels, same 42-year-old tall dark-haired human likeness across full/bust.",
+          "Final canine has deep chest, long legs, upright ears, black paws and coat with small light gray under-chin patch; clearly unlike Pickle, no white forepaw and no occupant blending.",
+          "Low task-lamp planes retain deep connected black oil masses; opaque ivory isolation, complete anatomy, no laboratory scene/effect/swatches/hand study. All pins verified."
+        ],
+        "sourceSha256": "2172e150c0abf0b96f19f27912613a279ea1c202c7088edff678ff0069757851",
+        "outputSha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+            "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+            "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "0526af3d812585a94334a0f8b4d826fd74dab699ff9b0f666483e26e9aa1f852"
+      }
+    },
+    {
+      "id": "brightguard",
+      "name": "Brightguard",
+      "role": "Sixty-one-year-old contemporary superhero and Pickle's devoted guardian",
+      "form": "Adult human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She was sixty-one, with silver threaded through her close-cropped hair.",
+          "explanation": "Age and hair binding source detail."
+        },
+        {
+          "quote": "The blue fabric across her shoulders was impact mesh, not a cape",
+          "explanation": "Modern equipment boundary."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "61-year-old woman, silver-threaded close-cropped hair, fine fatigue lines at eyes, careful lower-back/hip posture.",
+        "clothing": "Blue impact mesh, modern unfolding plate field harness, red work boots, clear-visor helmet, wrist guard with translucent display; no cape."
+      },
+      "visualInterpretation": [
+        "Medium-brown skin, strong broad face with visible age creases, gray-black close crop, athletic sturdy mature build, warm dark eyes.",
+        "Modern blue impact-mesh bodysuit beneath compact brushed-silver segmented supportive harness, practical red powered boots; contemporary rescue equipment, no heraldry."
+      ],
+      "states": [
+        {
+          "name": "Patrol-ready",
+          "description": "Two full views helmet off, visible age; helmet held tucked at hip."
+        }
+      ],
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Exact hero name in prose."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Brightguard\"; subtitle \"A Very Good Dog\". One clearly SIXTY-ONE-YEAR-OLD contemporary female superhero, medium-brown skin, broad strong face with real eye creases and age lines, dark kind watchful eyes, close-cropped black hair threaded substantially with silver, sturdy mature athletic physique. BLUE modern technical IMPACT MESH suit, compact brushed-silver mechanical load-support FIELD HARNESS around shoulders/torso/hips and knees, RED powered rescue boots. Clear-visored modern helmet tucked under one arm in front view; wrist guard with small translucent display, no legible data. Two complete unclipped full-body front/rear views and one larger expressive head-and-shoulders portrait. Keep silver-cropped face consistent and visibly over sixty, no smoothing to youth. NO cape, sword, medieval breastplate, royal costume, pet or scenery. Warm natural morning window light balanced by quiet neutral grayed-blue shadows, broad matte opaque oil throughout mesh/metal/face. No separate hands, no floor patch, no swatches.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+            "role": "Same-story natural morning window light, broad oil colour relationships, no kitchen or city.",
+            "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Brightguard\"; subtitle \"A Very Good Dog\". One clearly SIXTY-ONE-YEAR-OLD contemporary female superhero, medium-brown skin, broad strong face with real eye creases and age lines, dark kind watchful eyes, close-cropped black hair threaded substantially with silver, sturdy mature athletic physique. BLUE modern technical IMPACT MESH suit, compact brushed-silver mechanical load-support FIELD HARNESS around shoulders/torso/hips and knees, RED powered rescue boots. Clear-visored modern helmet tucked under one arm in front view; wrist guard with small translucent display, no legible data. Two complete unclipped full-body front/rear views and one larger expressive head-and-shoulders portrait. Keep silver-cropped face consistent and visibly over sixty, no smoothing to youth. NO cape, sword, medieval breastplate, royal costume, pet or scenery. Warm natural morning window light balanced by quiet neutral grayed-blue shadows, broad matte opaque oil throughout mesh/metal/face. No separate hands, no floor patch, no swatches.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+                "role": "Same-story natural morning window light, broad oil colour relationships, no kitchen or city.",
+                "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:08:36.534207+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-cb4e6ba4-d7d2-4f1c-a69d-9f72e650b9dd.png",
+            "outputSha256": "39073ba484d9f05aec266bd2ce723afc3ac4ae9c2c38d3a5ac6fdacbfe8aadc5",
+            "returnedAt": "2026-09-24T16:11:47.775657+00:00",
+            "generatorReview": [
+              "Opaque RGB exact image inspected: readable Brightguard/A Very Good Dog; clearly mature silver-cropped sixty-one-year-old face repeats accurately across front/rear and large portrait.",
+              "Contemporary blue technical suit, compact supportive silver harness, red boots, clear-visor helmet and wrist display preserve explicit superhero modernization; no cape/medieval costume.",
+              "Broad matte oil face and gear, natural morning light with subdued shadow, unclipped complete bodies and ivory isolation. No setting/swatches/hand studies; all pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/ultimate-evil-dog/art/characters/brightguard.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "39073ba484d9f05aec266bd2ce723afc3ac4ae9c2c38d3a5ac6fdacbfe8aadc5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:11:47.948286+00:00",
+        "evidence": [
+          "Opaque RGB exact image inspected: readable Brightguard/A Very Good Dog; clearly mature silver-cropped sixty-one-year-old face repeats accurately across front/rear and large portrait.",
+          "Contemporary blue technical suit, compact supportive silver harness, red boots, clear-visor helmet and wrist display preserve explicit superhero modernization; no cape/medieval costume.",
+          "Broad matte oil face and gear, natural morning light with subdued shadow, unclipped complete bodies and ivory isolation. No setting/swatches/hand studies; all pins verified."
+        ],
+        "sourceSha256": "2172e150c0abf0b96f19f27912613a279ea1c202c7088edff678ff0069757851",
+        "outputSha256": "39073ba484d9f05aec266bd2ce723afc3ac4ae9c2c38d3a5ac6fdacbfe8aadc5",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+            "role": "Same-story natural morning window light, broad oil colour relationships, no kitchen or city.",
+            "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "bb0df7aa5b6b9f64e1b64ce3baedc904b61121c7f3c981d818cf54996dc7487c"
+      }
+    },
+    {
+      "id": "venscot",
+      "name": "Venscot",
+      "role": "Maledict's butler who protects Pickle and manages restoration/accountability",
+      "form": "Adult human man",
+      "selectionEvidence": [
+        {
+          "quote": "The butler folded his hands behind his back.",
+          "explanation": "Formal composure and decisive participation."
+        },
+        {
+          "quote": "I believe I have your dog.",
+          "explanation": "Core counterstory agency."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Adult male butler, exact appearance unstated; formal controlled expression, works throughout day/night.",
+        "clothing": "Contemporary formal butler clothing, not historical fantasy.",
+        "equipment": "Towels and tablet as used when needed; no weapon."
+      },
+      "visualInterpretation": [
+        "Venscot assigned art-only name. About fifty-eight, dark brown skin, long narrow face, salt-gray hair very close to scalp, slim build, rimless reading glasses as interpretation.",
+        "Immaculate contemporary charcoal suit, white shirt and plain gray tie, black formal shoes; one small folded white towel over forearm."
+      ],
+      "states": [
+        {
+          "name": "Laboratory evening",
+          "description": "Composed standing full views and weary precise portrait."
+        }
+      ],
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "The butler",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "No personal name in current source/prompt; Venscot checked against specs/universe/frozen memory, no match."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Venscot\"; subtitle \"A Very Good Dog\". One contemporary male butler about fifty-eight, DARK BROWN skin, long narrow lined face, close salt-gray hair, slim tall physique, plain rimless reading spectacles; exact source age/face unspecified, art-only design. Immaculate MODERN charcoal business suit, white shirt, simple gray necktie and black formal shoes. Two full-body views front-three-quarter and rear with composed posture; a folded WHITE TOWEL draped on one forearm in front, hands otherwise relaxed. One precise weary head-and-shoulders portrait. No medieval uniform, tails, tray, weapons, dog, machine, floor or scenery. Evening laboratory low warm practical light and deep quiet gray-violet shadows, matte broad Group of Seven oil shapes across face/suit, no polished corporate photo rendering. No detached hand detail.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+            "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+            "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Venscot\"; subtitle \"A Very Good Dog\". One contemporary male butler about fifty-eight, DARK BROWN skin, long narrow lined face, close salt-gray hair, slim tall physique, plain rimless reading spectacles; exact source age/face unspecified, art-only design. Immaculate MODERN charcoal business suit, white shirt, simple gray necktie and black formal shoes. Two full-body views front-three-quarter and rear with composed posture; a folded WHITE TOWEL draped on one forearm in front, hands otherwise relaxed. One precise weary head-and-shoulders portrait. No medieval uniform, tails, tray, weapons, dog, machine, floor or scenery. Evening laboratory low warm practical light and deep quiet gray-violet shadows, matte broad Group of Seven oil shapes across face/suit, no polished corporate photo rendering. No detached hand detail.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+                "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+                "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:11:48.963435+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-2ef464ef-a422-4261-94d8-ac5007f25c92.png",
+            "outputSha256": "765d83a8ddfc71bba95c35120ec6cb3badf14bb80a54c9b4aaee77df737d3334",
+            "returnedAt": "2026-09-24T16:15:18.074759+00:00",
+            "generatorReview": [
+              "Opaque RGB output inspected: exact Venscot/title; same older narrow-faced close-gray-haired man with fine glasses across full front/rear and portrait.",
+              "Contemporary charcoal suit and modest towel reflect source care role without fantasy butler costume; no weapon/contradicted character action.",
+              "Directional matte oil and low task-light planes with deep suit shadow, unclipped figures on ivory, no scenery/swatches/hand details. Source/ref/output/spec pins verified."
+            ]
+          }
+        ]
+      },
+      "output": "stories/ultimate-evil-dog/art/characters/venscot.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "765d83a8ddfc71bba95c35120ec6cb3badf14bb80a54c9b4aaee77df737d3334",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:15:18.248356+00:00",
+        "evidence": [
+          "Opaque RGB output inspected: exact Venscot/title; same older narrow-faced close-gray-haired man with fine glasses across full front/rear and portrait.",
+          "Contemporary charcoal suit and modest towel reflect source care role without fantasy butler costume; no weapon/contradicted character action.",
+          "Directional matte oil and low task-light planes with deep suit shadow, unclipped figures on ivory, no scenery/swatches/hand details. Source/ref/output/spec pins verified."
+        ],
+        "sourceSha256": "2172e150c0abf0b96f19f27912613a279ea1c202c7088edff678ff0069757851",
+        "outputSha256": "765d83a8ddfc71bba95c35120ec6cb3badf14bb80a54c9b4aaee77df737d3334",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared oil collection: connected value masses, varied directional brushwork and selective impasto only.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/03-maledicts-exchange-laboratory.png",
+            "role": "Same-story night laboratory practical-lamp lighting and deep muted shadow only, no equipment or environment.",
+            "sha256": "c257510af9dd2695fb41fcbdf4713d6bee210485efda68669ca5894715d61a22",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "0f160cc346b47ccb71e0681ff88bafa6f5fa7ced0b54b95702cbe3179590a33a"
+      }
+    },
+    {
+      "id": "pickle",
+      "name": "Pickle",
+      "role": "Brightguard's living dog, temporarily occupying Maledict's human body then restored",
+      "form": "One dog identity in own canine and borrowed human bodies",
+      "selectionEvidence": [
+        {
+          "quote": "Pickleâ€™s left forepaw ended in a neat blaze of white fur. His right was brown.",
+          "explanation": "Binding precise natural coat marking."
+        },
+        {
+          "quote": "The suit was impossible. He found a black tracksuit",
+          "explanation": "Borrowed-body clothing."
+        }
+      ],
+      "storyAppearance": {
+        "physical": "Small brown dog with naturally white LEFT forepaw, all other paws brown; living and unharmed throughout. Temporarily inhabits tall 42-year-old Maledict body, no blending/erasure."
+      },
+      "visualInterpretation": [
+        "Retain cover's short warm brown fur, floppy ears, short broad muzzle, warm amber eyes, compact small dog. White is natural fur, not clothing.",
+        "Borrowed human form MUST match actual selected Maledict sheet face/body/black tracksuit exactly; posture cheerful expectant, same physical identity but dog occupant."
+      ],
+      "states": [
+        {
+          "name": "Own body",
+          "description": "Original/restored small brown dog, white anatomical left front paw."
+        },
+        {
+          "name": "Borrowed human body",
+          "description": "Pickle present in Maledict physical body before restoration, wearing black tracksuit and socks."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "ultimate-evil-dog:pickle",
+        "links": [
+          "stories/ultimate-evil-dog/art/characters/maledict.png"
+        ],
+        "evidence": "Same borrowed human body explicitly exchanged between two separate living occupants; match physique without blending identities."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Established dog's exact source name."
+      },
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Pickle\"; subtitle \"A Very Good Dog\". Exactly ONE living dog identity in own canine body and temporarily borrowed human body, clearly labeled. Primary MAIN dog full front-three-quarter view from cover: SMALL compact warm BROWN dog, short fur, floppy folded ears, short broad muzzle, warm amber eyes. ONLY anatomical LEFT forepaw has NATURAL WHITE FUR from toes to just below wrist; in a FRONT-facing view that is VIEWER RIGHT. Other THREE paws BROWN. Never a worn sock, bandage, glove or white chest. Let the white LEFT paw be gently raised in a sitting whole-body pose. Include second complete SIDE canine view with anatomically same left forepaw white. Label \"Own body\". At left include one complete human figure labeled \"Borrowed human body\": COPY exact forty-two-year-old tall clean-shaven angular-faced black-slicked-hair man from reference 4, same black tracksuit/dark socks, but smiling broad with doglike delighted expectation, shoulders loose and hands relaxed. Remains an ordinary human body, not human-animal hybrid. This is Pickle temporarily living unharmed in that borrowed body. Do NOT draw the black recast dog from reference 4. One small canine head portrait if space. No bed, bowls, scene, owner, shadow villain, cage, magic or isolated paws/hands. Natural soft MORNING window light from kitchen painting, broad matte opaque oil masses, subdued gray/umber shadows. Warm opaque ivory. Exact labels must make identity/state distinction obvious.",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared collection actual oil medium and broad connected form.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+            "role": "Actual morning light/palette only; omit kitchen.",
+            "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/title-image.jpg",
+            "role": "Inspected actual small brown Pickle appearance, floppy ears/face and NATURAL WHITE anatomical left forepaw; ignore shadow/location/photoreal style.",
+            "sha256": "4c967da4f05bee0b31d9b5eae0fd6a4e92f9ee043b78036ed78a4c82571d8911",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/characters/maledict.png",
+            "role": "Inspected accepted human physical likeness/black tracksuit for borrowed-body state; not Maledict occupant or black dog.",
+            "sha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen",
+        "mode": "built-in",
+        "backendModel": null,
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity with two unclipped full-body views and one or two larger expressive bust studies. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes. Heading \"Pickle\"; subtitle \"A Very Good Dog\". Exactly ONE living dog identity in own canine body and temporarily borrowed human body, clearly labeled. Primary MAIN dog full front-three-quarter view from cover: SMALL compact warm BROWN dog, short fur, floppy folded ears, short broad muzzle, warm amber eyes. ONLY anatomical LEFT forepaw has NATURAL WHITE FUR from toes to just below wrist; in a FRONT-facing view that is VIEWER RIGHT. Other THREE paws BROWN. Never a worn sock, bandage, glove or white chest. Let the white LEFT paw be gently raised in a sitting whole-body pose. Include second complete SIDE canine view with anatomically same left forepaw white. Label \"Own body\". At left include one complete human figure labeled \"Borrowed human body\": COPY exact forty-two-year-old tall clean-shaven angular-faced black-slicked-hair man from reference 4, same black tracksuit/dark socks, but smiling broad with doglike delighted expectation, shoulders loose and hands relaxed. Remains an ordinary human body, not human-animal hybrid. This is Pickle temporarily living unharmed in that borrowed body. Do NOT draw the black recast dog from reference 4. One small canine head portrait if space. No bed, bowls, scene, owner, shadow villain, cage, magic or isolated paws/hands. Natural soft MORNING window light from kitchen painting, broad matte opaque oil masses, subdued gray/umber shadows. Warm opaque ivory. Exact labels must make identity/state distinction obvious.",
+            "references": [
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Primary shared collection actual oil medium and broad connected form.",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+                "role": "Actual morning light/palette only; omit kitchen.",
+                "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/title-image.jpg",
+                "role": "Inspected actual small brown Pickle appearance, floppy ears/face and NATURAL WHITE anatomical left forepaw; ignore shadow/location/photoreal style.",
+                "sha256": "4c967da4f05bee0b31d9b5eae0fd6a4e92f9ee043b78036ed78a4c82571d8911",
+                "inspected": true
+              },
+              {
+                "path": "stories/ultimate-evil-dog/art/characters/maledict.png",
+                "role": "Inspected accepted human physical likeness/black tracksuit for borrowed-body state; not Maledict occupant or black dog.",
+                "sha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+                "inspected": true
+              }
+            ],
+            "startedAt": "2026-09-24T16:15:20.286320+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-6129-7873-8a14-08bf5e1187dd/exec-81684822-0199-43cf-817a-4bf805b3edad.png",
+            "outputSha256": "beaaa1547ef3b2fc8751cd3efec50c37e2a6f53c7fc09509efad36bd8925f4a3",
+            "returnedAt": "2026-09-24T16:19:03.967393+00:00",
+            "generatorReview": [
+              "Opaque RGB exact pixels inspected: Pickle/A Very Good Dog and Borrowed human body/Own body labels readable. Cheerful borrowed human preserves accepted Maledict's physical face/hair/tracksuit, distinct from occupant identity.",
+              "Own dog matches cover small brown floppy-eared form. Natural white anatomical LEFT forepaw is clearly viewer-right in front view; other three paws brown, no human sock or white chest. Original dog living/unharmed; no black final-Maledict dog included.",
+              "All bodies complete, coherent canine/human anatomy, broad painted forms with morning light and ivory isolation; no scenery/swatches/isolated hands. Source/reference/output/spec pins verify all four characters."
+            ]
+          }
+        ]
+      },
+      "output": "stories/ultimate-evil-dog/art/characters/pickle.png",
+      "status": "completed",
+      "blockers": [],
+      "outputSha256": "beaaa1547ef3b2fc8751cd3efec50c37e2a6f53c7fc09509efad36bd8925f4a3",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:19:04.142132+00:00",
+        "evidence": [
+          "Opaque RGB exact pixels inspected: Pickle/A Very Good Dog and Borrowed human body/Own body labels readable. Cheerful borrowed human preserves accepted Maledict's physical face/hair/tracksuit, distinct from occupant identity.",
+          "Own dog matches cover small brown floppy-eared form. Natural white anatomical LEFT forepaw is clearly viewer-right in front view; other three paws brown, no human sock or white chest. Original dog living/unharmed; no black final-Maledict dog included.",
+          "All bodies complete, coherent canine/human anatomy, broad painted forms with morning light and ivory isolation; no scenery/swatches/isolated hands. Source/reference/output/spec pins verify all four characters."
+        ],
+        "sourceSha256": "2172e150c0abf0b96f19f27912613a279ea1c202c7088edff678ff0069757851",
+        "outputSha256": "beaaa1547ef3b2fc8751cd3efec50c37e2a6f53c7fc09509efad36bd8925f4a3",
+        "references": [
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Primary shared collection actual oil medium and broad connected form.",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/interiors/01-brightguards-breakfast-kitchen.png",
+            "role": "Actual morning light/palette only; omit kitchen.",
+            "sha256": "35092a348b8170a686632316522f5e60d26c00b263fdfee562a5c8a2e59a1852",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/title-image.jpg",
+            "role": "Inspected actual small brown Pickle appearance, floppy ears/face and NATURAL WHITE anatomical left forepaw; ignore shadow/location/photoreal style.",
+            "sha256": "4c967da4f05bee0b31d9b5eae0fd6a4e92f9ee043b78036ed78a4c82571d8911",
+            "inspected": true
+          },
+          {
+            "path": "stories/ultimate-evil-dog/art/characters/maledict.png",
+            "role": "Inspected accepted human physical likeness/black tracksuit for borrowed-body state; not Maledict occupant or black dog.",
+            "sha256": "ad6bed0f326b6bda7ba952e07943b3c154b6d6257045e955cab4036dac243bb1",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "af7d5654fcd78e220956ed8d728bc0de6e46322b925ac56645a3df73f76c3aa4"
+      }
+    }
+  ],
+  "sourceSha256": "2172e150c0abf0b96f19f27912613a279ea1c202c7088edff678ff0069757851"
+}
