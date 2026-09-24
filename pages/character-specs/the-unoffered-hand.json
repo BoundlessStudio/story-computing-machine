@@ -1,0 +1,615 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-unoffered-hand",
+  "title": "The Unoffered Hand",
+  "source": "stories/the-unoffered-hand/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Authoritative current marker inspected, complete finished story and complete prompt read. Sovelda, Cresset, the princess and Master Tirren sustain the choosing, education, injury and recovery conflict. Cover, autumn mews painting, mews interior and exact recovered user original inspected. Source appearance controls visual facts; revised collection oils replace historical anime rendering.",
+  "authorityReferences": [
+    "universe/README.md"
+  ],
+  "originalReferenceProvenance": [
+    {
+      "displayName": "codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+      "sha256": "3d656b5782840d0c5a5edf4bb59ee5f91645bd57daf21b5abec0c278c1c5e88d",
+      "recovery": "Exact sole input_image recovered from zero-based line 8 of C:/Users/jamie/.codex/archived_sessions/rollout-2026-09-15T09-32-06-01a0a544-8748-7dc2-9e54-f110c4f528fb.jsonl, matching display filename and source writing prompt.",
+      "inspection": "Actual original inspected: brown-haired woman with cream floral sleeves/dark bodice/orange sash and brown-headed white-spotted-breast falcon. Palette, court costume and bird/glove focus useful; anime rendering and incidental figures do not transfer."
+    }
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Generals, glove-room supervisor, mews boys, kitchen servants and grooms",
+      "reason": "Brief or collective supporting roles without sustained individuated central conflict."
+    },
+    {
+      "name": "Princess's mare",
+      "reason": "Brief final transport and no sustained distinct character arc."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "sovelda",
+      "name": "Sovelda",
+      "role": "Servant protagonist learning responsibility for her chosen falcon",
+      "form": "human woman",
+      "selectionEvidence": [
+        {
+          "quote": "She was twenty and had never had a room to herself.",
+          "explanation": "Finished source establishes binding appearance and/or sustained central role."
+        }
+      ],
+      "storyAppearance": "Twenty; servant apron and skirt; left arm bears falcon glove. Final gold-leaf glove has long tassel and is altered to fit by her own sewing.",
+      "visualInterpretation": [
+        "Sovelda is a twenty-year-old human servant woman, practical and quietly attentive. Art-only casting: medium tan skin, freckles, dark brown eyes, long brown hair in a low practical braid, ordinary youthful face and strong working forearms. Modest cream work blouse, muted moss green long skirt, clean white apron, practical brown boots. Final high-field state after Cresset heals: the borrowed brown leather glove with GOLD LEAVES worked into its cuff and a LONG TASSEL has now been neatly taken in by her own stitching. It is worn on her anatomical LEFT forearm, seen at viewer RIGHT in a single straight-on full-body view. LEFT elbow bent and LEFT wrist straight, gloved fist raised clear of torso but EMPTY. Her anatomical RIGHT hand is bare and relaxed beside her skirt. NO falcon on this human sheet, no duplicate glove. One complete FRONT body and two matching head-and-shoulder portraits, relaxed and attentive; no rear body, so the glove state stays unambiguous. Leave a large ivory margin beneath the boots and around the tassel."
+      ],
+      "states": [
+        {
+          "name": "Healed-falcon high-field morning, empty ceremonial glove after launch",
+          "description": "One identity; source clothing and physical state retained across views, with unspecified casting recorded as art interpretation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unoffered-hand:sovelda",
+        "links": [],
+        "evidence": "Exact named identities and proposed Calisette name searched in universe, name memory and existing character specifications; no recurring identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-38ebb41b-b28e-46f9-b85b-bd088ab1d632.png",
+            "sha256": "d99e70fd6eb09b4f5d3c94acb9199c2391c8f201e18df60d0b2b7c7b057331ea",
+            "role": "Candidate to correct; actual pixels inspected",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+            "inspected": true
+          }
+        ],
+        "prompt": "EDIT the first referenced Sovelda folio. Retain its exact identity, garment colours, anatomical LEFT gold-leaf glove and long tassel, empty fist, title 'Sovelda' and subtitle 'The Unoffered Hand', and its two head-and-shoulder portraits. Correct ONLY composition of the CENTRAL complete standing figure: reduce that whole body including head, hair, empty glove and tassel by about 12 percent and place it centrally so a clear 60-80 pixel ivory margin exists ABOVE all of her hair and BELOW the boots. Currently the central crown is clipped at the top; restore its whole shape. Do not clip or stretch any anatomy. ONE single full FRONT body, no rear body. Keep glove at viewer RIGHT. Preserve all other actual identity details. Use second reference to retain decisively brushed Canadian Group of Seven oil handling, broad connected matte planes and selective impasto, no smooth photographic repaint. Fully opaque warm ivory 1536x1024 landscape canvas, no transparency. No scenes, floor patches, swatches, added birds, extra bodies or isolated hand studies.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T16:30:55.488892+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. ONE COMPLETE unclipped front-view full body and two matching head-and-shoulder portraits; ONE identity only. No rear full body. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Sovelda', subtitle 'The Unoffered Hand'. Sovelda is a twenty-year-old human servant woman, practical and quietly attentive. Art-only casting: medium tan skin, freckles, dark brown eyes, long brown hair in a low practical braid, ordinary youthful face and strong working forearms. Modest cream work blouse, muted moss green long skirt, clean white apron, practical brown boots. Final high-field state after Cresset heals: the borrowed brown leather glove with GOLD LEAVES worked into its cuff and a LONG TASSEL has now been neatly taken in by her own stitching. It is worn on her anatomical LEFT forearm, seen at viewer RIGHT in a single straight-on full-body view. LEFT elbow bent and LEFT wrist straight, gloved fist raised clear of torso but EMPTY. Her anatomical RIGHT hand is bare and relaxed beside her skirt. NO falcon on this human sheet, no duplicate glove. One complete FRONT body and two matching head-and-shoulder portraits, relaxed and attentive; no rear body, so the glove state stays unambiguous. Leave a large ivory margin beneath the boots and around the tassel. Story-motivated final clear late-autumn morning light warms ochre planes against connected cool blue-grey shadows. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unoffered-hand/art/landscapes/01-autumn-over-the-royal-mews.png",
+                "role": "Story-specific autumn sunlight, ochre highlights and blue-grey shadow relationship only; omit environment",
+                "sha256": "7356ce4ce875ee029751b36351cc5b8e59e6c07041cbfda5b53448fcd5253ab2",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unoffered-hand/title-image.jpg",
+                "role": "Content only: brown-headed white-spotted-breasted barred-tail falcon, gold-leaf cuff and long tassel; do not transfer its rendering",
+                "sha256": "015fa27ae05b85e3e576c4b19eb2f5593558513043d8bd98c3e62b495b4db9cb",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-38ebb41b-b28e-46f9-b85b-bd088ab1d632.png",
+            "outputSha256": "d99e70fd6eb09b4f5d3c94acb9199c2391c8f201e18df60d0b2b7c7b057331ea",
+            "finishedAt": "2026-09-24T16:34:51.762044+00:00",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": "Central full-body crown touches and is clipped by the top canvas edge; all complete figure silhouettes need clear margins."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:35:13.929844+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "EDIT the first referenced Sovelda folio. Retain its exact identity, garment colours, anatomical LEFT gold-leaf glove and long tassel, empty fist, title 'Sovelda' and subtitle 'The Unoffered Hand', and its two head-and-shoulder portraits. Correct ONLY composition of the CENTRAL complete standing figure: reduce that whole body including head, hair, empty glove and tassel by about 12 percent and place it centrally so a clear 60-80 pixel ivory margin exists ABOVE all of her hair and BELOW the boots. Currently the central crown is clipped at the top; restore its whole shape. Do not clip or stretch any anatomy. ONE single full FRONT body, no rear body. Keep glove at viewer RIGHT. Preserve all other actual identity details. Use second reference to retain decisively brushed Canadian Group of Seven oil handling, broad connected matte planes and selective impasto, no smooth photographic repaint. Fully opaque warm ivory 1536x1024 landscape canvas, no transparency. No scenes, floor patches, swatches, added birds, extra bodies or isolated hand studies.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-38ebb41b-b28e-46f9-b85b-bd088ab1d632.png",
+                "sha256": "d99e70fd6eb09b4f5d3c94acb9199c2391c8f201e18df60d0b2b7c7b057331ea",
+                "role": "Candidate to correct; actual pixels inspected",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e1c4b7d5-57a5-4299-9ce8-32078f82e205.png",
+            "outputSha256": "f8570dcff2f09dbb93a523036e258c8adb5eaa5edfa8361256396671ee8a6229",
+            "finishedAt": "2026-09-24T16:37:13.229507+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual corrected pixels inspected: central figure now complete with clear ivory margins above hair and below boots. Young twenty-year-old servant identity consistent in two portraits; cream blouse, moss skirt, white apron, practical boots, anatomical left gold-leaf glove and long tassel retained, empty fist and bare right hand. Exact heading/title, matte painted skin and connected oil clothing masses; no other identity, scene or floor patch.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-e1c4b7d5-57a5-4299-9ce8-32078f82e205.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unoffered-hand/art/characters/sovelda.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "f8570dcff2f09dbb93a523036e258c8adb5eaa5edfa8361256396671ee8a6229",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:37:13.229527+00:00",
+        "sourceSha256": "3df767e453991329416022db58438aec328e6b18c6d45ea0b45dee0732f3c8ed",
+        "outputSha256": "f8570dcff2f09dbb93a523036e258c8adb5eaa5edfa8361256396671ee8a6229",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-38ebb41b-b28e-46f9-b85b-bd088ab1d632.png",
+            "sha256": "d99e70fd6eb09b4f5d3c94acb9199c2391c8f201e18df60d0b2b7c7b057331ea",
+            "role": "Candidate to correct; actual pixels inspected",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: central figure now complete with clear ivory margins above hair and below boots. Young twenty-year-old servant identity consistent in two portraits; cream blouse, moss skirt, white apron, practical boots, anatomical left gold-leaf glove and long tassel retained, empty fist and bare right hand. Exact heading/title, matte painted skin and connected oil clothing masses; no other identity, scene or floor patch.",
+        "specificationSha256": "d6d05ecb0398f81c25bb0f731ae8c47da3233fc3e0b07e233e819eeff2118caf"
+      }
+    },
+    {
+      "id": "princess-calisette",
+      "name": "Princess Calisette",
+      "role": "Unnamed princess who becomes Sovelda's falconry mentor and friend",
+      "form": "human woman",
+      "selectionEvidence": [
+        {
+          "quote": "cream sleeves embroidered with rust-colored flowers, a dark fitted bodice, an orange sash that had acquired a smear of dirt near the knot.",
+          "explanation": "Finished source establishes binding appearance and/or sustained central role."
+        }
+      ],
+      "storyAppearance": "Brown hair, crooked small spray of purple flowers, cream rust-flower embroidered sleeves, dark fitted bodice, orange sash with dirt at knot; slippers. Exact physical age, face and skirt colour unspecified.",
+      "visualInterpretation": [
+        "One young adult human princess, art-only label Princess Calisette. Source appearance: BROWN hair with a little crooked spray of PURPLE flowers, CREAM sleeves embroidered with RUST-coloured flowers, DARK fitted bodice, ORANGE sash with a small dirt smear near its knot. Choose her first-evening visit still in her choosing clothes, bare hands without glove. Art-only casting: age twenty-three, warm olive complexion, hazel eyes, gentle long nose, brown hair loosely gathered in a low bun, long dark forest-green skirt and flat slippers. A patient but disappointed expression, dignified ordinary person rather than glamour. Consistent complete front/rear figures plus matching portrait; exact same cream floral sleeves, dark bodice, orange sash and purple flowers in every view. No crown, jewellery, weapon, bird or horse. The original provides costume colours and simple shape only; entirely replace anime finish with primary reference oils."
+      ],
+      "states": [
+        {
+          "name": "First evening visit in choosing clothes",
+          "description": "One identity; source clothing and physical state retained across views, with unspecified casting recorded as art interpretation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unoffered-hand:princess-calisette",
+        "links": [],
+        "evidence": "Exact named identities and proposed Calisette name searched in universe, name memory and existing character specifications; no recurring identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unoffered-hand/art/landscapes/01-autumn-over-the-royal-mews.png",
+            "role": "Story-specific autumn sunlight, ochre highlights and blue-grey shadow relationship only; omit environment",
+            "sha256": "7356ce4ce875ee029751b36351cc5b8e59e6c07041cbfda5b53448fcd5253ab2",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+            "role": "Recovered exact user original. Subordinate content reference for autumn palette, court clothing and brown-headed spotted-breast falcon; source prose controls identity and costume. Do not transfer anime rendering or incidentals",
+            "sha256": "3d656b5782840d0c5a5edf4bb59ee5f91645bd57daf21b5abec0c278c1c5e88d",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Princess Calisette', subtitle 'The Unoffered Hand'. One young adult human princess, art-only label Princess Calisette. Source appearance: BROWN hair with a little crooked spray of PURPLE flowers, CREAM sleeves embroidered with RUST-coloured flowers, DARK fitted bodice, ORANGE sash with a small dirt smear near its knot. Choose her first-evening visit still in her choosing clothes, bare hands without glove. Art-only casting: age twenty-three, warm olive complexion, hazel eyes, gentle long nose, brown hair loosely gathered in a low bun, long dark forest-green skirt and flat slippers. A patient but disappointed expression, dignified ordinary person rather than glamour. Consistent complete front/rear figures plus matching portrait; exact same cream floral sleeves, dark bodice, orange sash and purple flowers in every view. No crown, jewellery, weapon, bird or horse. The original provides costume colours and simple shape only; entirely replace anime finish with primary reference oils. Story-motivated first-evening light from the mews window warms rust and orange accents against broad soft blue-grey shadows; no visible window or room. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:30:56.534910+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Princess Calisette', subtitle 'The Unoffered Hand'. One young adult human princess, art-only label Princess Calisette. Source appearance: BROWN hair with a little crooked spray of PURPLE flowers, CREAM sleeves embroidered with RUST-coloured flowers, DARK fitted bodice, ORANGE sash with a small dirt smear near its knot. Choose her first-evening visit still in her choosing clothes, bare hands without glove. Art-only casting: age twenty-three, warm olive complexion, hazel eyes, gentle long nose, brown hair loosely gathered in a low bun, long dark forest-green skirt and flat slippers. A patient but disappointed expression, dignified ordinary person rather than glamour. Consistent complete front/rear figures plus matching portrait; exact same cream floral sleeves, dark bodice, orange sash and purple flowers in every view. No crown, jewellery, weapon, bird or horse. The original provides costume colours and simple shape only; entirely replace anime finish with primary reference oils. Story-motivated first-evening light from the mews window warms rust and orange accents against broad soft blue-grey shadows; no visible window or room. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unoffered-hand/art/landscapes/01-autumn-over-the-royal-mews.png",
+                "role": "Story-specific autumn sunlight, ochre highlights and blue-grey shadow relationship only; omit environment",
+                "sha256": "7356ce4ce875ee029751b36351cc5b8e59e6c07041cbfda5b53448fcd5253ab2",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+                "role": "Recovered exact user original. Subordinate content reference for autumn palette, court clothing and brown-headed spotted-breast falcon; source prose controls identity and costume. Do not transfer anime rendering or incidentals",
+                "sha256": "3d656b5782840d0c5a5edf4bb59ee5f91645bd57daf21b5abec0c278c1c5e88d",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-9b215970-8062-4670-ab30-9ea0771c5ff1.png",
+            "outputSha256": "9de2039e9f9144315e6a580becfc17fdc7748d17fb02647a3e06148e4f3561cc",
+            "finishedAt": "2026-09-24T16:34:49.500939+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: exact readable art name and source title, brown hair with purple flowers, cream rust-flower sleeves, dark bodice, orange sash and long skirt consistent across complete front/rear bodies and portrait. Ordinary adult bearing, no extra identity, plain opaque ivory support and connected directional oil planes; no scenic material.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-9b215970-8062-4670-ab30-9ea0771c5ff1.png",
+        "actualSize": "1536x1024"
+      },
+      "namingProvenance": {
+        "type": "new-art-name",
+        "sourceRole": "Unnamed princess",
+        "authorization": "always give the characters names if there are missing them.",
+        "scope": "Art-only label for the source's important unnamed princess; no prose, source metadata or canon changed.",
+        "collisionCheck": "Calisette absent from universe, frozen name memory and existing character specifications."
+      },
+      "output": "stories/the-unoffered-hand/art/characters/princess-calisette.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "9de2039e9f9144315e6a580becfc17fdc7748d17fb02647a3e06148e4f3561cc",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:34:49.500965+00:00",
+        "sourceSha256": "3df767e453991329416022db58438aec328e6b18c6d45ea0b45dee0732f3c8ed",
+        "outputSha256": "9de2039e9f9144315e6a580becfc17fdc7748d17fb02647a3e06148e4f3561cc",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unoffered-hand/art/landscapes/01-autumn-over-the-royal-mews.png",
+            "role": "Story-specific autumn sunlight, ochre highlights and blue-grey shadow relationship only; omit environment",
+            "sha256": "7356ce4ce875ee029751b36351cc5b8e59e6c07041cbfda5b53448fcd5253ab2",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+            "role": "Recovered exact user original. Subordinate content reference for autumn palette, court clothing and brown-headed spotted-breast falcon; source prose controls identity and costume. Do not transfer anime rendering or incidentals",
+            "sha256": "3d656b5782840d0c5a5edf4bb59ee5f91645bd57daf21b5abec0c278c1c5e88d",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: exact readable art name and source title, brown hair with purple flowers, cream rust-flower sleeves, dark bodice, orange sash and long skirt consistent across complete front/rear bodies and portrait. Ordinary adult bearing, no extra identity, plain opaque ivory support and connected directional oil planes; no scenic material.",
+        "specificationSha256": "f79ff4927fb27677bc37463d994d32684d272863e3f766394fcb8fc532e06f72"
+      }
+    },
+    {
+      "id": "master-tirren",
+      "name": "Master Tirren",
+      "role": "Master falconer, instructor and healer",
+      "form": "human man",
+      "selectionEvidence": [
+        {
+          "quote": "He was a broad man whose leather apron had gone almost black at the waist.",
+          "explanation": "Finished source establishes binding appearance and/or sustained central role."
+        }
+      ],
+      "storyAppearance": "Broad man, leather apron almost black at waist; calmly fits gloves, teaches handling and treats Cresset's wing.",
+      "visualInterpretation": [
+        "Master Tirren, the experienced human master falconer. Source binding: broad man with a leather apron worn almost BLACK at the WAIST. Art-only casting: about fifty, stocky broad shoulders, deep brown skin, square face, dark eyes, short salt-and-pepper hair and a neatly cropped beard; ochre linen workshirt with rolled sleeves, heavy brown leather apron blackened across its middle from use, charcoal trousers and sturdy practical dark boots. Calm capable direct expression, attentive to training people and caring for birds. Complete matching front/rear standing bodies plus portrait. Ordinary relaxed empty hands, no bird, perch, tools or furniture. Apron straps in back and plain trouser legs, fully visible boots."
+      ],
+      "states": [
+        {
+          "name": "Mews work clothes",
+          "description": "One identity; source clothing and physical state retained across views, with unspecified casting recorded as art interpretation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unoffered-hand:master-tirren",
+        "links": [],
+        "evidence": "Exact named identities and proposed Calisette name searched in universe, name memory and existing character specifications; no recurring identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unoffered-hand/art/interiors/02-the-mews-chamber.png",
+            "role": "Story mews high-window daylight and warm working-room light, with connected dark shadows; no room",
+            "sha256": "baf1e4c1d9d288960321a27f1767077811c9b4a402400a8e21d833bbeff66cd5",
+            "inspected": true
+          }
+        ],
+        "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Master Tirren', subtitle 'The Unoffered Hand'. Master Tirren, the experienced human master falconer. Source binding: broad man with a leather apron worn almost BLACK at the WAIST. Art-only casting: about fifty, stocky broad shoulders, deep brown skin, square face, dark eyes, short salt-and-pepper hair and a neatly cropped beard; ochre linen workshirt with rolled sleeves, heavy brown leather apron blackened across its middle from use, charcoal trousers and sturdy practical dark boots. Calm capable direct expression, attentive to training people and caring for birds. Complete matching front/rear standing bodies plus portrait. Ordinary relaxed empty hands, no bird, perch, tools or furniture. Apron straps in back and plain trouser legs, fully visible boots. Story-motivated soft high-window mews daylight and restrained warm lamp accent model connected brown and blue-grey shadow planes; no visible lamp or room. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:30:57.614381+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped full-body studies, front and rear, plus a large matching head portrait; ONE identity only. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Master Tirren', subtitle 'The Unoffered Hand'. Master Tirren, the experienced human master falconer. Source binding: broad man with a leather apron worn almost BLACK at the WAIST. Art-only casting: about fifty, stocky broad shoulders, deep brown skin, square face, dark eyes, short salt-and-pepper hair and a neatly cropped beard; ochre linen workshirt with rolled sleeves, heavy brown leather apron blackened across its middle from use, charcoal trousers and sturdy practical dark boots. Calm capable direct expression, attentive to training people and caring for birds. Complete matching front/rear standing bodies plus portrait. Ordinary relaxed empty hands, no bird, perch, tools or furniture. Apron straps in back and plain trouser legs, fully visible boots. Story-motivated soft high-window mews daylight and restrained warm lamp accent model connected brown and blue-grey shadow planes; no visible lamp or room. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unoffered-hand/art/interiors/02-the-mews-chamber.png",
+                "role": "Story mews high-window daylight and warm working-room light, with connected dark shadows; no room",
+                "sha256": "baf1e4c1d9d288960321a27f1767077811c9b4a402400a8e21d833bbeff66cd5",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c89c9e99-1c8f-4711-9926-3193ee8bc44e.png",
+            "outputSha256": "f0413c6f54dacc1f575b243bbbf31f843b8fd9ba8f9deb86a1e1f9d0d4dc7395",
+            "finishedAt": "2026-09-24T16:34:50.635817+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual returned pixels inspected: complete broad man front/rear bodies and matching portrait, brown leather apron strongly blackened at waist, rolled work sleeves and practical boots. Calm capable face distinct from other cast, painted skin and cloth with broad connected shadow masses, exact heading/title, opaque ivory and no scene.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-c89c9e99-1c8f-4711-9926-3193ee8bc44e.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unoffered-hand/art/characters/master-tirren.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "f0413c6f54dacc1f575b243bbbf31f843b8fd9ba8f9deb86a1e1f9d0d4dc7395",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:34:50.635868+00:00",
+        "sourceSha256": "3df767e453991329416022db58438aec328e6b18c6d45ea0b45dee0732f3c8ed",
+        "outputSha256": "f0413c6f54dacc1f575b243bbbf31f843b8fd9ba8f9deb86a1e1f9d0d4dc7395",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-unoffered-hand/art/interiors/02-the-mews-chamber.png",
+            "role": "Story mews high-window daylight and warm working-room light, with connected dark shadows; no room",
+            "sha256": "baf1e4c1d9d288960321a27f1767077811c9b4a402400a8e21d833bbeff66cd5",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual returned pixels inspected: complete broad man front/rear bodies and matching portrait, brown leather apron strongly blackened at waist, rolled work sleeves and practical boots. Calm capable face distinct from other cast, painted skin and cloth with broad connected shadow masses, exact heading/title, opaque ivory and no scene.",
+        "specificationSha256": "1467b08445a093279ae30ecdb17df6602dcc9a4c7b61e5f441933e95844e9fef"
+      }
+    },
+    {
+      "id": "cresset",
+      "name": "Cresset",
+      "role": "Fierce choosing falcon and central nonhuman character",
+      "form": "male falcon",
+      "selectionEvidence": [
+        {
+          "quote": "A barred tail spread across her apron. Above it rose a spotted white breast, a brown head, two bright eyes",
+          "explanation": "Finished source establishes binding appearance and/or sustained central role."
+        }
+      ],
+      "storyAppearance": "Barred tail, spotted white breast, brown head, bright eyes and curved beak. Wounded growing wing feather heals and both wings open fully by final flight.",
+      "visualInterpretation": [
+        "Cresset is ONE natural male falcon, fierce and alert, with a BROWN head, SPOTTED WHITE breast, BARRED brown-and-cream tail, bright amber-brown eyes with small dark pupils and a handsome curved charcoal hooked beak with muted yellow cere. Warm ochre scaly feet and black talons. Use source-compatible brown head and white spotted breast in the inspected original and cover, not a black peregrine helmet, owl face, eagle or fantasy species. HEALED final state after Tirren clears flight: both wings entirely functional. Show TWO COMPLETE bird forms: one large folded-wing three-quarter standing bird without any perch or ground; one smaller fully outstretched dorsal flight study with all primary feathers and entire barred tail inside the canvas, legs tucked naturally; plus one matching head portrait. These are views of the same single bird with consistent markings. No humans, hands, gloves, jesses, leash, hood, ribbons, aura, isolated wing studies, scenery or floor patches. Anatomically credible falcon proportions and feather groups painted as large connected directional oil masses, no individually glossy feather rendering."
+      ],
+      "states": [
+        {
+          "name": "Healed final folded and flight forms",
+          "description": "One identity; source clothing and physical state retained across views, with unspecified casting recorded as art interpretation."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-unoffered-hand:cresset",
+        "links": [],
+        "evidence": "Exact named identities and proposed Calisette name searched in universe, name memory and existing character specifications; no recurring identity found."
+      },
+      "generation": {
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-81f4df0c-8060-4c0f-9ed3-885c8c675b56.png",
+            "sha256": "111e2b594f48aa17532a57bf80a82f1b2bf8e946e0a8ff3b14f57664d78485bf",
+            "role": "Candidate to correct; actual pixels inspected",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+            "inspected": true
+          }
+        ],
+        "prompt": "REPAINT the first referenced Cresset folio in the ACTUAL PAINT HANDLING of reference 2, the revised Canadian Group of Seven oil painting. Preserve the exact layout, readable heading 'Cresset', subtitle 'The Unoffered Hand', complete folded-wing falcon, complete fully-spread dorsal flight falcon and same-identity head portrait. Preserve brown head, spotted WHITE breast, barred brown/cream tail, hooked beak and two functional healed wings. Crucial style correction: use BROAD CONNECTED COLOUR AND VALUE MASSES with large directional opaque oil strokes and selective substantial impasto; merge groups of feathers into larger shapes, simplify minutiae and retain quiet connected shadow planes. Paint beak, eye, feet and head as vigorously and materially as plumage; make the amber-brown eye MATTE with a small dark pupil, no glossy glass highlights. Current individually outlined tiny feather chips and precise shiny beak read as natural-history digital illustration; remove that finish and replace it throughout with expressive strongly brushed paint. Keep bird anatomical integrity and recognizable markings, not a blurred filter. All complete birds and feather tips inside generous margins on FULLY OPAQUE warm ivory canvas, 1536x1024 landscape. No transparency, no human/glove/perch/scenery/floor patches/swatches/isolated wing studies/extra birds. Reference 2 supplies rendering only, no trees or landscapes.",
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T16:30:58.658088+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character reference folio on fully OPAQUE warm ivory canvas, landscape 3:2, 1536x1024, no transparency. Two COMPLETE unclipped whole-bird studies, folded-wing three-quarter standing and full-span dorsal flight, plus a matching bird head portrait; ONE identity only. No human body. Readable exact name and story title upper left. Character-only plain support: no environment, furniture, ground/floor patches, scenic vignette, paint swatches, palette strips, isolated hand studies, or extra people. Image 1 supplies primary Canadian Group of Seven oil handling: broad connected colour/value masses, varied directional opaque brushwork, quieter connecting shadows and selective substantial impasto. Faces as decisively painted as clothing; matte eyes; no photographic skin, glossy CGI, bevelled chips, anime or cinematic rim light. Other inputs have their specified role only.  Exact heading 'Cresset', subtitle 'The Unoffered Hand'. Cresset is ONE natural male falcon, fierce and alert, with a BROWN head, SPOTTED WHITE breast, BARRED brown-and-cream tail, bright amber-brown eyes with small dark pupils and a handsome curved charcoal hooked beak with muted yellow cere. Warm ochre scaly feet and black talons. Use source-compatible brown head and white spotted breast in the inspected original and cover, not a black peregrine helmet, owl face, eagle or fantasy species. HEALED final state after Tirren clears flight: both wings entirely functional. Show TWO COMPLETE bird forms: one large folded-wing three-quarter standing bird without any perch or ground; one smaller fully outstretched dorsal flight study with all primary feathers and entire barred tail inside the canvas, legs tucked naturally; plus one matching head portrait. These are views of the same single bird with consistent markings. No humans, hands, gloves, jesses, leash, hood, ribbons, aura, isolated wing studies, scenery or floor patches. Anatomically credible falcon proportions and feather groups painted as large connected directional oil masses, no individually glossy feather rendering. Story-motivated final clear late-autumn morning light warms brown plumage against connected cool blue-grey shadows. Keep all forms unclipped inside generous warm ivory margins; omit all environment and grounding patches.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "role": "Primary revised Canadian Group of Seven oil painting handling: broad connected masses and directional matte strokes; no orchard",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-unoffered-hand/title-image.jpg",
+                "role": "Content only: brown-headed white-spotted-breasted barred-tail falcon, gold-leaf cuff and long tassel; do not transfer its rendering",
+                "sha256": "015fa27ae05b85e3e576c4b19eb2f5593558513043d8bd98c3e62b495b4db9cb",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-48618fef-671f-47a6-b878-7e2a8ea7e071.png",
+                "role": "Recovered exact user original. Subordinate content reference for autumn palette, court clothing and brown-headed spotted-breast falcon; source prose controls identity and costume. Do not transfer anime rendering or incidentals",
+                "sha256": "3d656b5782840d0c5a5edf4bb59ee5f91645bd57daf21b5abec0c278c1c5e88d",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-81f4df0c-8060-4c0f-9ed3-885c8c675b56.png",
+            "outputSha256": "111e2b594f48aa17532a57bf80a82f1b2bf8e946e0a8ff3b14f57664d78485bf",
+            "finishedAt": "2026-09-24T16:34:52.876108+00:00",
+            "dimensions": "1536x1024",
+            "selected": false,
+            "generatorReview": "Candidate content and layout are sound, but plumage is rendered as uniformly fine separated feather chips with glossy beak/eye; repaint into collection's broad connected oil masses."
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T16:35:15.097704+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-correction",
+            "prompt": "REPAINT the first referenced Cresset folio in the ACTUAL PAINT HANDLING of reference 2, the revised Canadian Group of Seven oil painting. Preserve the exact layout, readable heading 'Cresset', subtitle 'The Unoffered Hand', complete folded-wing falcon, complete fully-spread dorsal flight falcon and same-identity head portrait. Preserve brown head, spotted WHITE breast, barred brown/cream tail, hooked beak and two functional healed wings. Crucial style correction: use BROAD CONNECTED COLOUR AND VALUE MASSES with large directional opaque oil strokes and selective substantial impasto; merge groups of feathers into larger shapes, simplify minutiae and retain quiet connected shadow planes. Paint beak, eye, feet and head as vigorously and materially as plumage; make the amber-brown eye MATTE with a small dark pupil, no glossy glass highlights. Current individually outlined tiny feather chips and precise shiny beak read as natural-history digital illustration; remove that finish and replace it throughout with expressive strongly brushed paint. Keep bird anatomical integrity and recognizable markings, not a blurred filter. All complete birds and feather tips inside generous margins on FULLY OPAQUE warm ivory canvas, 1536x1024 landscape. No transparency, no human/glove/perch/scenery/floor patches/swatches/isolated wing studies/extra birds. Reference 2 supplies rendering only, no trees or landscapes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-81f4df0c-8060-4c0f-9ed3-885c8c675b56.png",
+                "sha256": "111e2b594f48aa17532a57bf80a82f1b2bf8e946e0a8ff3b14f57664d78485bf",
+                "role": "Candidate to correct; actual pixels inspected",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Full finished source and relevant authority read; actual cover and selected references inspected.",
+              "One resolved identity, complete forms, consistent clothing/state; source facts distinguished from art-only casting.",
+              "Source motivated light, opaque ivory canvas, no scenes, swatches or isolated hand studies."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-6cb7eb5e-6568-4fc3-9d6f-1286c655ccd1.png",
+            "outputSha256": "636a6e2b8ec886da39ea3946264c0dd3ae6c77a837838ab039656bcfe39d2466",
+            "finishedAt": "2026-09-24T16:37:14.489315+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": "Actual corrected pixels inspected: brown-headed falcon with spotted white breast and barred tail, matching complete folded-wing and healed full-span dorsal-flight forms plus head portrait. Repaint replaces precise glossy digital feather finish with substantial directional oil strokes and connected white/brown/blue-grey masses; beak and feet visibly painted, eyes restrained. Exact readable heading/title, unclipped silhouettes, opaque ivory painted support, no human/glove/perch/scene.",
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-6cb7eb5e-6568-4fc3-9d6f-1286c655ccd1.png",
+        "actualSize": "1536x1024"
+      },
+      "output": "stories/the-unoffered-hand/art/characters/cresset.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production and end review authorized; explicit resume active."
+      },
+      "outputSha256": "636a6e2b8ec886da39ea3946264c0dd3ae6c77a837838ab039656bcfe39d2466",
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "reviewedAt": "2026-09-24T16:37:14.489355+00:00",
+        "sourceSha256": "3df767e453991329416022db58438aec328e6b18c6d45ea0b45dee0732f3c8ed",
+        "outputSha256": "636a6e2b8ec886da39ea3946264c0dd3ae6c77a837838ab039656bcfe39d2466",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e3-384d-7323-800f-18d6f4d3bccf/exec-81f4df0c-8060-4c0f-9ed3-885c8c675b56.png",
+            "sha256": "111e2b594f48aa17532a57bf80a82f1b2bf8e946e0a8ff3b14f57664d78485bf",
+            "role": "Candidate to correct; actual pixels inspected",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Primary revised broad connected Group of Seven oil handling; actual painting inspected",
+            "inspected": true
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: brown-headed falcon with spotted white breast and barred tail, matching complete folded-wing and healed full-span dorsal-flight forms plus head portrait. Repaint replaces precise glossy digital feather finish with substantial directional oil strokes and connected white/brown/blue-grey masses; beak and feet visibly painted, eyes restrained. Exact readable heading/title, unclipped silhouettes, opaque ivory painted support, no human/glove/perch/scene.",
+        "specificationSha256": "44569a2bc637557976c7ce2f9f69dd9dd41e0f9cd1afb86037b45d0d2ce59b18"
+      }
+    }
+  ],
+  "sourceSha256": "3df767e453991329416022db58438aec328e6b18c6d45ea0b45dee0732f3c8ed"
+}
