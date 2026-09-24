@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-city-of-eleven-foundations",
+  "title": "The City of Eleven Foundations",
+  "source": "stories/the-city-of-eleven-foundations/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished story and original prompt read. Architectural focalization deliberately avoids named humanoid protagonists. People appear only as anonymous traces, maintenance, evacuation and return; city/machines/plants explicitly non-sentient.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Anonymous occupants, maintainers and evacuees",
+      "reason": "Implied collective activity with no individualized sustained identity."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/locations.md#Unnamed city of eleven foundations"
+  ],
+  "referenceInventory": [],
+  "noQualifyingCharactersReason": "No qualifying main character: architectural city story, personification metaphorical; naming a city/door or inventing a resident would violate source identity evidence.",
+  "characters": [],
+  "sourceSha256": "c7750cd3dd40994a2c628d4f66222c64047ebc02aa1f1526b45ddb009e9027db"
+}
