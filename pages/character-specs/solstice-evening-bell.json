@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "slug": "solstice-evening-bell",
+  "title": "Solstice Evening Bell",
+  "source": "stories/solstice-evening-bell/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Entire canon bundle read. Solstice is sole living combatant and main identity. Twelve deceased donors are distinct remembered persons but brief recollections; nonliving host has no individual principal.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Solstice Evening Bell",
+    "universe/rules.md#Solstice's thirteen-tone crown",
+    "universe/factions.md#Solstice's historical magical-girl circles and coronation compact"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Twelve deceased donors and the adaptive host",
+      "reason": "Donors remembered briefly, not present souls; host is anonymous nonliving equipment with no individual sustained character."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "solstice-evening-bell",
+      "name": "Solstice Evening Bell",
+      "role": "sole living defender and First Monarch",
+      "form": "adult female living sovereign; species unresolved",
+      "selectionEvidence": [
+        {
+          "quote": "twelve silver chimes turning around her",
+          "explanation": "Exact equipment count before battle."
+        },
+        {
+          "quote": "Its thumb-sized resonator rested against her sternum beneath the white armor of her dress",
+          "explanation": "Central thirteenth resonator is hidden beneath armor, not another orbiting chime."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Centuries-old living adult woman; exact age and species unresolved.",
+        "clothing": "White armored dress with pauldron and loose fabric; central focus beneath armor.",
+        "equipment": "Twelve silver orbiting chimes, one thumb-sized central resonator; no sword. All permanently spent at ending.",
+        "cover": "Long loose silver hair, pale complexion and gray eyes; mature adult interpretation of compatible cover."
+      },
+      "visualInterpretation": [
+        "Preserve cover's silver hair, pale gray-eyed identity and white/silver armor-dress; simplify ornament into bold oils. No invented species, wings or sword.",
+        "Select intact pre-battle gear; present exactly twelve chimes once in isolated three-by-four equipment grouping for count readability, plus central-focus inset."
+      ],
+      "states": [
+        {
+          "name": "Before battle",
+          "description": "Intact crown system, uninjured before first strike; no post-loss restoration implied."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "solstice-evening-bell",
+        "links": [
+          {
+            "slug": "the-count-was-131072",
+            "relationship": "Same named canon individual centuries later, without any crown equipment."
+          }
+        ],
+        "evidence": "Explicit named continuation in The Count Was 131,072 prompt/source; this battle-era sheet establishes facial anchor."
+      },
+      "explicitCanon": [
+        "Living adult sovereign and sole combatant, not a god.",
+        "Twelve nonliving final works, never trapped souls; equipment depends on living will.",
+        "All crown tones permanently expended by ending; innate force remains."
+      ],
+      "references": [],
+      "output": "stories/solstice-evening-bell/art/characters/solstice-evening-bell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Edit image1 only, retaining the exact one-character folio layout and the same mature adult Solstice identity, silver hair, white armor dress, full front/rear body geometry, blank ivory page and exact text. Keep EXACTLY twelve bells in three rows of four and the separate ovoid central resonator, unchanged. Change LIGHT and facial PAINT ONLY. This is deep nighttime before the invasion: reduce all human skin and white-armored fabric to connected dark indigo/blue-gray mid-low shadows, 70 percent shadow with a few cold moonlit silver planes. White cloth reads slate gray in darkness; face darker and colder. No warm sun or allover bright glamour. On large face and body faces use broad opaque directional flat-bristle oil shapes, strong continuous shadow across eye sockets and side of jaw, matte lips and ordinary gray eyes without sparkles or eyeliner, fewer larger joined value planes instead of tiny uniform chips. Keep her recognizably mature adult silver-haired sovereign; do not age into old crone. Group of Seven oil, not glossy/anime beauty. Retain every other fact and object, no background change, no locations/swatches.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b0fcc19-be4b-4afa-b7e3-8ab56d168d70.png",
+            "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+            "sha256": "9a5abac78c42405aa432933e2552aef7bf482c406dd6587ad6b1cec5209ad6bf",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "startedAt": "2026-09-24T03:48:29.624549+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. ONE character-only reference folio, 1536x1024 landscape 3:2, plain warm ivory. Exact readable name/title upper left; two COMPLETE unclipped front/rear full-body studies of ONE identity, a large matching face and one source-supported isolated personal item. Concise labels. Canadian Group of Seven oil paint: broad connected colour/value masses, varied opaque directional bristle strokes, quiet shadow passages and selective thick impasto; human faces painted as boldly as clothing, ordinary matte eyes. No smooth photoreal faces, glossy anime, CGI, uniform beveled paint chips or cinematic rim. No scenic vignette, locations, floor/ground patches, houses, roads, rain lines across page, swatches or palette strips.\nExact large heading \"Solstice Evening Bell\"; smaller \"Before the battle\". ONE visibly ADULT female living sovereign, pale skin, mature oval face, strong narrow straight nose, ordinary gray matte eyes, long loose SILVER hair to hips, compatible Image2 identity transposed entirely into broad matte oil brushwork. No anime face, teenager, pointy elf ears or implied species. White/silver armored long DRESS with shoulder pauldrons, forearm armor, fitted modest breastplate over sternum and loose ankle-length divided skirts; low armored shoes visible. Retain compatible cover's graceful silver fittings, simplify finery into large paint masses. No sword, staff, wings, head tiara, halo of souls. Two complete front/rear full-body views on left/middle, large matching calm determined face upper right. All figures are pre-battle intact and uninjured, both hands empty.\nEquipment lower right separate from body: EXACTLY TWELVE small silver bell-shaped CHIMES in a clearly countable THREE ROWS OF FOUR, one equal group labelled \"12 orbiting chimes — before battle\". No extra chimes anywhere else on page. Beneath group one small simple silver ovoid thumb-sized item labelled \"Central resonator — beneath armor\", visibly not a bell; do not expose through armor on bodies. These are nonliving metal objects, no faces/spirits inside. The equipment grouping is personal detail, no swatches. Only ONE identity.\nImage1 PRIMARY Group of Seven paint and storm light, Image2 only identity/clothing. NIGHT before rupture: dark cool indigo/gray face and dress shadows, limited cold moon-facing silver planes, muted near-black undersides, NO warm daylight or allover luminous white. Quiet ivory background with no harbor/clouds/army. Bold human face paint at same scale as cloth/metal, ordinary matte eyes, broad connected masses and selective irregular bristle strokes.",
+            "references": [
+              {
+                "path": "stories/solstice-evening-bell/art/landscapes/01-western-bay-before-dawn.png",
+                "role": "primary bold matte oil handling and cool storm palette only",
+                "inspected": true,
+                "sha256": "3d18228247c44a77b543b2c3e4c90d655b90d221db28fe590b2d8e8b08cbfd97"
+              },
+              {
+                "path": "stories/solstice-evening-bell/title-image.jpg",
+                "role": "subordinate compatible silver hair, adult face and white armor-dress only; no anime rendering, scenery or inaccurate equipment count",
+                "inspected": true,
+                "sha256": "685d13b38340d1dab2a06ce957e710b471ca7bd88a53e4bef07aa545a7868f88"
+              }
+            ],
+            "preflight": [
+              "Full source/prompt and relevant canon read; originals visually inspected.",
+              "Complete views fit; exact identity/props/state/light constrained; count12 equipment distinct from central focus when applicable.",
+              "Reference count below five, source facts override cover. Unspecified choices and art-only naming recorded."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b0fcc19-be4b-4afa-b7e3-8ab56d168d70.png",
+            "outputSha256": "9a5abac78c42405aa432933e2552aef7bf482c406dd6587ad6b1cec5209ad6bf",
+            "finishedAt": "2026-09-24T03:51:56.120564+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Counted exactly twelve chimes in three rows of four, distinct central focus, complete coherent adult body/cover-compatible silver hair and exact heading pass.",
+              "Face and armor are too bright/daylit for specified pre-battle night. Large portrait retains glossy lip/eyelash beauty rendering rather than bold matte shadow masses. Correct only light and paint while preserving anatomy/count/identity."
+            ],
+            "selected": false
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "startedAt": "2026-09-24T03:51:59.376678+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-targeted-edit",
+            "prompt": "Edit image1 only, retaining the exact one-character folio layout and the same mature adult Solstice identity, silver hair, white armor dress, full front/rear body geometry, blank ivory page and exact text. Keep EXACTLY twelve bells in three rows of four and the separate ovoid central resonator, unchanged. Change LIGHT and facial PAINT ONLY. This is deep nighttime before the invasion: reduce all human skin and white-armored fabric to connected dark indigo/blue-gray mid-low shadows, 70 percent shadow with a few cold moonlit silver planes. White cloth reads slate gray in darkness; face darker and colder. No warm sun or allover bright glamour. On large face and body faces use broad opaque directional flat-bristle oil shapes, strong continuous shadow across eye sockets and side of jaw, matte lips and ordinary gray eyes without sparkles or eyeliner, fewer larger joined value planes instead of tiny uniform chips. Keep her recognizably mature adult silver-haired sovereign; do not age into old crone. Group of Seven oil, not glossy/anime beauty. Retain every other fact and object, no background change, no locations/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b0fcc19-be4b-4afa-b7e3-8ab56d168d70.png",
+                "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+                "sha256": "9a5abac78c42405aa432933e2552aef7bf482c406dd6587ad6b1cec5209ad6bf",
+                "inspected": true
+              }
+            ],
+            "preflight": [
+              "Previous candidate actually inspected; exact localized correction addresses observed defect while preserving source/canon facts and stable identity.",
+              "Single immutable original candidate attached; no selected output self-reference, no new content."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-83550061-29d8-4af8-a235-dace1b871ad0.png",
+            "outputSha256": "a2be1baf7b61bdcf45f4cfa2b80cbb88b63393a854554d1e056c4cd7dc010740",
+            "finishedAt": "2026-09-24T03:54:59.669392+00:00",
+            "dimensions": "1536x1024",
+            "generatorReview": [
+              "Actual corrected pixels inspected: deep connected cool slate/indigo shadows now cover white dress and mature face; restrained cold metal/hair highlights and matte bristle facial paint replace daylit first attempt.",
+              "Coherent cover-compatible silver hair/pale gray-eyed adult identity, complete front/rear armored dress views, no sword or extra person. Counted exactly twelve silver bell-shaped chimes in three rows of four and separate labeled central resonator.",
+              "Pre-battle state explicitly labeled, no claim of restored lost tones; ivory character-only format has no landscape/swatches."
+            ],
+            "selected": true
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-83550061-29d8-4af8-a235-dace1b871ad0.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c",
+        "outputSha256": "a2be1baf7b61bdcf45f4cfa2b80cbb88b63393a854554d1e056c4cd7dc010740",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d139-528a-71c0-9805-68e7502e2d00/exec-0b0fcc19-be4b-4afa-b7e3-8ab56d168d70.png",
+            "role": "inspected previous candidate, preserve identity/layout while correcting only recorded defects",
+            "sha256": "9a5abac78c42405aa432933e2552aef7bf482c406dd6587ad6b1cec5209ad6bf",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: deep connected cool slate/indigo shadows now cover white dress and mature face; restrained cold metal/hair highlights and matte bristle facial paint replace daylit first attempt.",
+          "Coherent cover-compatible silver hair/pale gray-eyed adult identity, complete front/rear armored dress views, no sword or extra person. Counted exactly twelve silver bell-shaped chimes in three rows of four and separate labeled central resonator.",
+          "Pre-battle state explicitly labeled, no claim of restored lost tones; ivory character-only format has no landscape/swatches."
+        ],
+        "specificationSha256": "8a5cf9e6712cc66e7f92a1f31f9de229be5869f8b1d759e7756a2131bb388c50"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "userApproval": "Full collection production authorized; final user review at end."
+      },
+      "outputSha256": "a2be1baf7b61bdcf45f4cfa2b80cbb88b63393a854554d1e056c4cd7dc010740"
+    }
+  ],
+  "sourceSha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c"
+}
