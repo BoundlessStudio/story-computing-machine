@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-thirteenth-command",
+  "title": "The Thirteenth Command",
+  "source": "stories/the-thirteenth-command/05-story.md",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished bundle prose/00-prompt read; CANON local nonliving lattice rules read. Three named principals and sustained unnamed League signal lead selected. Art-only name Tavrusk searched unused; source records unchanged.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Repairworkers, watch squad, League fighters, wounded/dead",
+      "reason": "Unnamed supporting groups/brief individuals; not fused into generic mains."
+    },
+    {
+      "name": "Copperwell lattice/class engine",
+      "reason": "Explicit CANON nonliving nonsentient technology, not a character."
+    }
+  ],
+  "authorityReferences": [
+    "AGENTS.md",
+    "universe/README.md",
+    "universe/style-guide.md",
+    "universe/rules.md",
+    "universe/timeline.md"
+  ],
+  "referenceInventory": [],
+  "coverInspection": "Cover actual pixels inspected; compatible physical cues only, finished prose overrides state/wardrobe departures, no cover rendering copied.",
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "edda-rook",
+      "name": "Edda Rook",
+      "role": "Former floodworks dispatcher and temporary lattice host who chooses Common Cause and discards class.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Records flickered behind the words: thirty-six years of flood calls",
+          "explanation": "Former floodworks dispatcher and temporary lattice host who chooses Common Cause and discards class."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman with 36 years floodworks experience, dusty after collapse, boots; right hand trembles under load. No source age/clothes/face specified."
+      },
+      "explicitCanon": [
+        "CANON Copperwell class lattice is nonliving/fallible technology, no sentient interface person and no power/avatar bodily transformation. Temporary class indexed Edda's own 36 years; final discarded class ends overlays. Ordinary humans/individual choice preserved."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent62, light olive weathered face, short straight grey bob, dark eyes, average sturdy build; faded navy work coat, cream shirt, slate trousers/boots and small unlit civic seal."
+      ],
+      "states": [
+        {
+          "name": "After the ceasefire",
+          "description": "Adult woman with 36 years floodworks experience, dusty after collapse, boots; right hand trembles under load. No source age/clothes/face specified."
+        }
+      ],
+      "lighting": "Final post-crisis early daylight; soft warm facing planes/connected cool shadows, no lattice glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Edda Rook"
+      },
+      "status": "completed",
+      "output": "stories/the-thirteenth-command/art/characters/edda-rook.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Edda Rook; exact subtitle The Thirteenth Command. ONE ordinary WOMAN about62 with light OLIVE skin, weathered LONG face, short straight GREY BOB and dark eyes. Worn NAVY work coat, cream shirt, slate trousers, boots, lime dust on shoulders. Small inert brass civic seal and paper map as hand detail. Her body has no class armour/upgrades or magical marks. Tired resolute face, hands lowered; overlays DISCARDED at this final moment. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Edda Rook; exact subtitle The Thirteenth Command. ONE ordinary WOMAN about62 with light OLIVE skin, weathered LONG face, short straight GREY BOB and dark eyes. Worn NAVY work coat, cream shirt, slate trousers, boots, lime dust on shoulders. Small inert brass civic seal and paper map as hand detail. Her body has no class armour/upgrades or magical marks. Tired resolute face, hands lowered; overlays DISCARDED at this final moment. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+                "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+                "inspected": true,
+                "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.062162+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-fb60e81a-8de6-4cae-bb6e-fdb3201a91d7.png",
+            "outputSha256": "c50a79bab80b82fac74b985df012e3d61e604fb4374ef087f5c15bf490d98096",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:06:50.396724+00:00",
+            "generatorReview": "Actual pixels inspected: older gray-bob woman, lime-dusted navycoat creamshirt slatepants boots, afterceasefire human/civic state with source map/seal, no discarded magical class/HUD. Front/rear consistent fullbody, ivory exact headingtitle; matte connected oil planes and daylight."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "c50a79bab80b82fac74b985df012e3d61e604fb4374ef087f5c15bf490d98096",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:06:50.396724+00:00",
+        "sourceSha256": "21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0",
+        "outputSha256": "c50a79bab80b82fac74b985df012e3d61e604fb4374ef087f5c15bf490d98096",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: older gray-bob woman, lime-dusted navycoat creamshirt slatepants boots, afterceasefire human/civic state with source map/seal, no discarded magical class/HUD. Front/rear consistent fullbody, ivory exact headingtitle; matte connected oil planes and daylight.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "1dbce5b0d0842ab321938a2157571d11c2e61b6540956394f66c82dca23b590b"
+      }
+    },
+    {
+      "id": "sula-brant",
+      "name": "Sula Brant",
+      "role": "Trapped repair lead, Edda's former apprentice, who supplies current measurements and coordinates gate timing.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Sula emerged from the south passage after dawn, limping slightly",
+          "explanation": "Trapped repair lead, Edda's former apprentice, who supplies current measurements and coordinates gate timing."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Adult woman repair lead/former apprentice; damp dirty repair clothing unspecified, slightly limping after escape, work slate."
+      },
+      "explicitCanon": [
+        "CANON Copperwell class lattice is nonliving/fallible technology, no sentient interface person and no power/avatar bodily transformation. Temporary class indexed Edda's own 36 years; final discarded class ends overlays. Ordinary humans/individual choice preserved."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent39, medium-deep brown skin, broad round face, tightly coiled black hair in short practical crop, strong stocky frame; rust work jacket/grey shirt/blue trousers and sturdy boots."
+      ],
+      "states": [
+        {
+          "name": "After the ceasefire",
+          "description": "Adult woman repair lead/former apprentice; damp dirty repair clothing unspecified, slightly limping after escape, work slate."
+        }
+      ],
+      "lighting": "Final post-crisis early daylight; soft warm facing planes/connected cool shadows, no lattice glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Sula Brant"
+      },
+      "status": "completed",
+      "output": "stories/the-thirteenth-command/art/characters/sula-brant.png",
+      "generation": {
+        "prompt": "Replace ONLY the entire dark/blurred background of this Sula Brant sheet with uniform LIGHT WARM IVORY all edges and gaps. Preserve character pixels: face age, black coiled crop, rust work jacket gray shirt navy pants mud, slate/chalk, front/rear/hands, oilpaint and after-ceasefire daylight unchanged. Render exact heading Sula Brant and subtitle The Thirteenth Command readable in darkbrown against ivory. No vignette, scenery, floorpatch or halo. No other changes.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4dd1d3e-ccbf-42c2-b7fb-27cb6e23af5e.png",
+            "sha256": "7bbd38f9f5d9f5e6c36d331314f237947b978f34805967a962c8e132ca907f3a",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Sula Brant; exact subtitle The Thirteenth Command. ONE ordinary adult WOMAN about39, medium-deep BROWN skin, BROAD ROUND face, short tightly COILED black crop, dark eyes, sturdy strong frame. RUST work jacket over grey shirt, dark BLUE work trousers/boots with damp mud at knees. Alert exasperated expression, a subtle weight-saving stance from source slight limp (no cast, absent limb, new severe injury or fixed injured side). Work SLATE and chalk hand detail, no full machine. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+                "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+                "inspected": true,
+                "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.063117+00:00",
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4dd1d3e-ccbf-42c2-b7fb-27cb6e23af5e.png",
+            "outputSha256": "7bbd38f9f5d9f5e6c36d331314f237947b978f34805967a962c8e132ca907f3a",
+            "generatorReview": "Identity/anatomy/clothing/after-ceasefire state pass, but dark blurred vignette obscures name and violates uniform ivory."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "startedAt": "2026-09-24T09:03:21.359421+00:00",
+            "prompt": "Replace ONLY the entire dark/blurred background of this Sula Brant sheet with uniform LIGHT WARM IVORY all edges and gaps. Preserve character pixels: face age, black coiled crop, rust work jacket gray shirt navy pants mud, slate/chalk, front/rear/hands, oilpaint and after-ceasefire daylight unchanged. Render exact heading Sula Brant and subtitle The Thirteenth Command readable in darkbrown against ivory. No vignette, scenery, floorpatch or halo. No other changes.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4dd1d3e-ccbf-42c2-b7fb-27cb6e23af5e.png",
+                "sha256": "7bbd38f9f5d9f5e6c36d331314f237947b978f34805967a962c8e132ca907f3a",
+                "inspected": true,
+                "role": "Immutable actual inspected candidate; named local correction only."
+              }
+            ],
+            "reason": "Identity/anatomy/clothing/after-ceasefire state pass, but dark blurred vignette obscures name and violates uniform ivory.",
+            "preflight": "Actual pixels compared against source/format; corrected affected area only, preserving all accepted features. No contradictory reference attached.",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-42c2cf19-d9be-457d-a8f5-8c66b622d09c.png",
+            "outputSha256": "57cd8472ca18d98a80471a166632eed7c84074fc4210fed725e54678b4d6243b",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:26:26.673784+00:00",
+            "generatorReview": "Actual corrected pixels inspected: uniformivory replaces vignette and SulaBrant/exacttitle readable. Shortblackcoiledcrop roundadultface, rustjacket/navytrousers bootsmud, slate/chalk and allhands natural. Source-afterceasefire daylight and no discardedclass/equipment retained. Completebodyheadmargins."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "57cd8472ca18d98a80471a166632eed7c84074fc4210fed725e54678b4d6243b",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:26:26.673784+00:00",
+        "sourceSha256": "21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0",
+        "outputSha256": "57cd8472ca18d98a80471a166632eed7c84074fc4210fed725e54678b4d6243b",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d137-9bd6-7c02-8fc8-5b501d8930e5/exec-f4dd1d3e-ccbf-42c2-b7fb-27cb6e23af5e.png",
+            "sha256": "7bbd38f9f5d9f5e6c36d331314f237947b978f34805967a962c8e132ca907f3a",
+            "inspected": true,
+            "role": "Immutable actual inspected candidate; named local correction only."
+          }
+        ],
+        "evidence": "Actual corrected pixels inspected: uniformivory replaces vignette and SulaBrant/exacttitle readable. Shortblackcoiledcrop roundadultface, rustjacket/navytrousers bootsmud, slate/chalk and allhands natural. Source-afterceasefire daylight and no discardedclass/equipment retained. Completebodyheadmargins.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "9f5dd3ddc68bd7d925d123ddc38516221846767dbbceaa21a5cf7fc658170483"
+      }
+    },
+    {
+      "id": "harven-coil",
+      "name": "Harven Coil",
+      "role": "Watch captain who chooses emergency scour, withdraws, then personally accepts and turns spillwheel.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "Blood tracked from his temple into his gray beard",
+          "explanation": "Watch captain who chooses emergency scour, withdraws, then personally accepts and turns spillwheel."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Male watch captain, gray beard, temple blood early; wet to shoulders after manual wheel work, sets rifle against wall final."
+      },
+      "explicitCanon": [
+        "CANON Copperwell class lattice is nonliving/fallible technology, no sentient interface person and no power/avatar bodily transformation. Temporary class indexed Edda's own 36 years; final discarded class ends overlays. Ordinary humans/individual choice preserved."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent57, tan broad weathered face, short greying hair/full grey beard, broad shoulders, dark olive watch coat and brown trousers/boots. Small dried RIGHT-temple blood track for stable art handedness."
+      ],
+      "states": [
+        {
+          "name": "After the ceasefire",
+          "description": "Male watch captain, gray beard, temple blood early; wet to shoulders after manual wheel work, sets rifle against wall final."
+        }
+      ],
+      "lighting": "Final post-crisis early daylight; soft warm facing planes/connected cool shadows, no lattice glow.",
+      "naming": {
+        "type": "source",
+        "sourceName": "Harven Coil"
+      },
+      "status": "completed",
+      "output": "stories/the-thirteenth-command/art/characters/harven-coil.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Harven Coil; exact subtitle The Thirteenth Command. ONE ordinary MAN about57, TAN weathered BROAD face, short greying hair and full GREY BEARD, heavy brows, broad working shoulders. Dark OLIVE plain watch coat with wet-darkened shoulders/sleeves, brown trousers and boots. Small dried-blood track at ANATOMICAL LEFT temple (FRONT viewerRIGHT) reaching beard, no gore. Wary exhausted expression. Hands EMPTY; rifle has been set aside at this selected final state, do not invent a gun in hands or magic weapon. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Harven Coil; exact subtitle The Thirteenth Command. ONE ordinary MAN about57, TAN weathered BROAD face, short greying hair and full GREY BEARD, heavy brows, broad working shoulders. Dark OLIVE plain watch coat with wet-darkened shoulders/sleeves, brown trousers and boots. Small dried-blood track at ANATOMICAL LEFT temple (FRONT viewerRIGHT) reaching beard, no gore. Wary exhausted expression. Hands EMPTY; rifle has been set aside at this selected final state, do not invent a gun in hands or magic weapon. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+                "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+                "inspected": true,
+                "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.064199+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-e34a8eba-7d9a-4f7b-9236-a38999db0a77.png",
+            "outputSha256": "b33d4bdbd21bbbb65cd6ec6456f1920042e6598ae3004bcd7d0b9e3407b63946",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:06:50.428508+00:00",
+            "generatorReview": "Actual pixels inspected: graybearded adult man olivewatchcoat, damp planes, source temple blood chosen consistently RIGHT as documented art choice (source fixes no side), rifle set aside/absent afterceasefire. Matching facefrontportrait, normal two handstudies without false side labels, ivory completebody/margins, oilplanes and daylight."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "selectedDesignNotes": "Source says temple with no side. Selected painted design consistently places dried blood at anatomical RIGHT temple in front and portrait. The initially proposed left side was an art-only option; actual selected side is now explicitly pinned. Exact original prompt remains immutable in attempt1.",
+      "outputSha256": "b33d4bdbd21bbbb65cd6ec6456f1920042e6598ae3004bcd7d0b9e3407b63946",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:06:50.428508+00:00",
+        "sourceSha256": "21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0",
+        "outputSha256": "b33d4bdbd21bbbb65cd6ec6456f1920042e6598ae3004bcd7d0b9e3407b63946",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: graybearded adult man olivewatchcoat, damp planes, source temple blood chosen consistently RIGHT as documented art choice (source fixes no side), rifle set aside/absent afterceasefire. Matching facefrontportrait, normal two handstudies without false side labels, ivory completebody/margins, oilplanes and daylight.",
+          "Root reviewed existing finished pixels: small wound is at anatomical right temple. Source does not assign a side; visual interpretation metadata corrected to the selected artwork only. No image regeneration."
+        ],
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "bbce29d29614adca3f76c7e61a516eccfabfe626dfee351e98eed9d1189b700a"
+      }
+    },
+    {
+      "id": "tavrusk",
+      "name": "Tavrusk",
+      "role": "Unnamed Drouth League signal lead whose broadcasts/data and hazard reports repeatedly contribute to the shared rescue.",
+      "form": "Adult human",
+      "selectionEvidence": [
+        {
+          "quote": "The signal lead transmitted a pressure reading from the west controls.",
+          "explanation": "Unnamed Drouth League signal lead whose broadcasts/data and hazard reports repeatedly contribute to the shared rescue."
+        }
+      ],
+      "storyAppearance": {
+        "description": "Sustained opposing-side signal lead; physical appearance/gender unspecified, pressure hand gauge and voice communication."
+      },
+      "explicitCanon": [
+        "CANON Copperwell class lattice is nonliving/fallible technology, no sentient interface person and no power/avatar bodily transformation. Temporary class indexed Edda's own 36 years; final discarded class ends overlays. Ordinary humans/individual choice preserved."
+      ],
+      "visualInterpretation": [
+        "Art-only apparent42 man, dark tan narrow angular face, cropped straight black hair, brown eyes, lean frame; sand work jacket/charcoal trousers/boots and plain handheld gauge; no invented rank insignia."
+      ],
+      "states": [
+        {
+          "name": "After the ceasefire",
+          "description": "Sustained opposing-side signal lead; physical appearance/gender unspecified, pressure hand gauge and voice communication."
+        }
+      ],
+      "lighting": "Final post-crisis early daylight; soft warm facing planes/connected cool shadows, no lattice glow.",
+      "naming": {
+        "type": "new-art-only",
+        "assignedName": "Tavrusk",
+        "sourceRole": "Unnamed Drouth League signal lead whose broadcasts/data and hazard reports repeatedly contribute to the shared rescue.",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "search": "Whole-word universe/stories/spec search found no reuse.",
+        "scope": "Art-only, no source or canon name change."
+      },
+      "status": "completed",
+      "output": "stories/the-thirteenth-command/art/characters/tavrusk.png",
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Tavrusk; exact subtitle The Thirteenth Command. ONE ordinary adult MAN about42, DARK TAN skin, narrow ANGULAR face, cropped straight BLACK hair, brown eyes, lean frame. Weathered SAND work jacket over muted green shirt, charcoal trousers and wet boots, a plain small physical beacon clipped at belt. One hand detail holds a simple round HAND PRESSURE GAUGE with a short tube, ordinary nonliving tool. Wary tired expression, no uniform heraldry/royal rank, no firearm required, no magic. This is the League's signal lead, not Edda or captain. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen",
+            "mode": "built-in",
+            "backendModel": null,
+            "status": "PASS",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 character reference folio, quiet warm ivory uniformly to every edge. Exactly ONE identity repeated consistently. Two useful unclipped full-body views and one or two expressive head/hand/object studies, composed with ample breathing room. No locations, scenic vignettes, environmental backgrounds, floor or terrain patches, furniture, other people, paint swatches, colour chips, palette strips. Readable exact character name and exact story title only, plus short useful state/detail labels; no production commentary. Canadian Group of Seven oil collection: broad connected colour/value masses first, varied directional opaque bristle strokes and selective substantial impasto, quieter connecting paint. Simplify face, hands, hair and fabric as decisively as the landscape forms in the painting references; no glossy photoreal skin under chipped paint, anime, CGI, glassy eyes, repetitive bevel-lit flakes, golden edge dots, theatrical rimlight or generic orange-blue cinematic contrast. Attached paintings and folio give PAINT TREATMENT / PRESENTATION only, never their scenery, daylight, faces, costumes or equipment. Preserve story-motivated lighting and lost edges; do not expose every shadow. Keep identity proportions consistent across every view.  Exact heading Tavrusk; exact subtitle The Thirteenth Command. ONE ordinary adult MAN about42, DARK TAN skin, narrow ANGULAR face, cropped straight BLACK hair, brown eyes, lean frame. Weathered SAND work jacket over muted green shirt, charcoal trousers and wet boots, a plain small physical beacon clipped at belt. One hand detail holds a simple round HAND PRESSURE GAUGE with a short tube, ordinary nonliving tool. Wary tired expression, no uniform heraldry/royal rank, no firearm required, no magic. This is the League's signal lead, not Edda or captain. Two complete front/rear views, one expressive head and useful hand/object detail. State After the ceasefire. Soft EARLY DAYLIGHT, restrained warm planes and connected cool shadows. Paper remains uniformly LIGHT IVORY, exact headings readable; no scene, blue interface overlay, combat spell, floating commandtext, board, water or scenery.",
+            "references": [
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+                "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+                "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+                "inspected": true,
+                "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+              },
+              {
+                "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+                "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+                "inspected": true,
+                "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+                "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+                "inspected": true,
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+              }
+            ],
+            "reason": "Initial source-backed folio.",
+            "preflight": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references.",
+            "startedAt": "2026-09-24T08:33:08.065072+00:00",
+            "returnedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d137-9bd6-7c02-8fc8-5b501d8930e5\\exec-8b0621f7-3754-4418-ae9b-f8894e342fae.png",
+            "outputSha256": "26384ba3f925d49d0db8f258b2051bd45455291984ae7bcac35924e1e98443c9",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T09:06:50.451286+00:00",
+            "generatorReview": "Actual pixels inspected: art-only distinct signal-lead identity, shortblack hair tanjacket greenshirt charcoal trousers tallboots, gauge/beacon. Fixed left belt circularinstrument correctly frontviewerRIGHT rearviewerLEFT. Head/handgauge credible and complete, afterceasefire dawnsource, no autonomous latticebody/HUD, ivory name/title."
+          }
+        ]
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Complete finished source/prompt read and authority checked. Cover and all selected images inspected. Original inventory resolved. Identity/names fixed before call; gaps art-only. Exact age/state/anatomy/light and feasible complete framing checked against prepared prompt; max5 useful references."
+      },
+      "outputSha256": "26384ba3f925d49d0db8f258b2051bd45455291984ae7bcac35924e1e98443c9",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:06:50.451286+00:00",
+        "sourceSha256": "21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0",
+        "outputSha256": "26384ba3f925d49d0db8f258b2051bd45455291984ae7bcac35924e1e98443c9",
+        "references": [
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.png",
+            "role": "Collection folio composition and painted anatomy only; never identity or equipment.",
+            "notes": "Ivory unclipped isolated poses; no borrowed warrior anatomy, hair, armour or swords.",
+            "inspected": true,
+            "sha256": "8d4c6d71b00d50f238646de11c681dbff35bd8bbc083c62cf7b3bcb4530dd24c"
+          },
+          {
+            "path": "stories/the-thirteenth-command/art/landscapes/05-daylight-above-the-cistern.png",
+            "role": "Actual inspected source final daylight and oil paint only, no cistern/location.",
+            "inspected": true,
+            "sha256": "8dc62b2d963fc184388f8cebbc723db5a8e42534c0122c950fd841c386cfcc76"
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "role": "Secondary Group of Seven connected shadow and quiet paint reference only.",
+            "notes": "Restrained shadow families and lost edges; no woodland/river/scenery.",
+            "inspected": true,
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb"
+          }
+        ],
+        "evidence": "Actual pixels inspected: art-only distinct signal-lead identity, shortblack hair tanjacket greenshirt charcoal trousers tallboots, gauge/beacon. Fixed left belt circularinstrument correctly frontviewerRIGHT rearviewerLEFT. Head/handgauge credible and complete, afterceasefire dawnsource, no autonomous latticebody/HUD, ivory name/title.",
+        "userApproval": "Full collection generation authorized; final user review at collection end.",
+        "specificationSha256": "cc1d0b9527f575b28da9df3d6cb417f11979da937496ab5c6f4ea86e0c4b2165"
+      }
+    }
+  ],
+  "sourceSha256": "21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0"
+}
