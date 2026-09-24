@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-dress-they-brought-her",
+  "title": "The Dress They Brought Her",
+  "source": "stories/the-dress-they-brought-her/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Three sustained agents: inmate tests/refuses falseidentity; suitedofficer initiates and cancels extraction; guard favors/escorts/pins/releases and returnscigarette.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Solstice Evening Bell",
+      "reason": "True survivingmagicalgirl entirely offstage, unlocated and unidentified in this story; do not depict, conflate with inmate or give her powers."
+    },
+    {
+      "name": "Dead magical girls, intake staff and other prisoners",
+      "reason": "No sustained individuallypresent character."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Solstice Evening Bell",
+    "universe/glossary.md#ultrahuman",
+    "universe/factions.md#Unnamed modern-like hazard administration",
+    "universe/timeline.md#Undated modern-like western-bay invasion"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "No original images supplied. Existing cover inspected; inmateface/hair/tattoos and physicalbundle compatible. Coverstyle is anime, rendered artwork must translate into collectionoil.",
+    "Inmate NEVER wears pinkdress and neverhas magicalpower; wand/costume are inertprops physicallycarried.",
+    "era-local count1 never identifies inmate or location; no Solsticeface/crown/costume inherited."
+  ],
+  "characters": [
+    {
+      "id": "denva-krail",
+      "name": "Denva Krail",
+      "role": "Tattooed and pierced inmate wrongly claimed by recovery packet",
+      "selectionEvidence": [
+        {
+          "quote": "Her eyes were the same dull grey under every light.",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "the black leaves climbing her left hand",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "She gathered the dress with both hands, trapping the wand in its pink folds",
+          "explanation": "Finishedsource explicit evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary humanwoman, no supernaturalbody",
+        "lifeStage": "Adult",
+        "proportions": "Coverleanadult",
+        "markings": "Darkmessyhair/dullgrayeyes, blackleavesLEFT hand, bluematch ononefinger, threecrookedwingbirdalongribs, brightoldarmtattoos, piercingsbrow/nose/lip/ears/body; late redforearmpressuremark",
+        "materials": "Living skin/tattooink, metal/clearprisonretainers, prisoncloth, stiffpinkfabric/plasticwand",
+        "clothing": "Prisonshirt throughout, NEVER wearspinkdress",
+        "equipment": "P80417 wristband, halfcigarette; foldedpinkdress/metalhandled5pointwand as temporaryprops; receipt",
+        "scale": "Humanadult",
+        "movement": "Silentobservant deliberateevidence handling, lateforearmsore",
+        "distinctiveFeatures": "Chosen tattoos self-authorship, neither guilt nor magicalmark"
+      },
+      "explicitCanon": [
+        "Darkmessyhair, dullgreyeyes, extensivelytattooed/pierced adultwoman.",
+        "BlackleavesLEFT hand, bluematch onefinger, threecrookedwingbird ribs beneathshirt.",
+        "Pinkdress held/returned, inertwand5point head/silverhandle; never transforms.",
+        "Redforearmpressuremark afterguardpin; remainsincarcerated, no identityasSolstice."
+      ],
+      "visualInterpretation": [
+        "Art-only nameDenvaKrail, age32, cover-compatible lightolive complexion, highcheekplanes/taperedjaw, straightmedium nose, untidyblackhair bun with flyaways.",
+        "Loosecharcoalgray short-sleevedprisonshirt and longgraypants/plainblackflats; ribs/bodypiercings beneathclothes notexposed.",
+        "Blue match placedLEFTmiddlefinger forconsistentart; late redmark RIGHTforearm, sourceunspecifiedside.",
+        "Wristband chosenRIGHT, only readable P-80417. Non-glowing metalpiercings sparseglints underceilingglare."
+      ],
+      "states": [
+        {
+          "name": "Mistaken recovery",
+          "description": "Wholefrontfigure prisonclothes, foldedpinkdress overLEFTarm/wand alongside, expressiondry; no dressworn."
+        },
+        {
+          "name": "Return to cell",
+          "description": "Wholerearthreequarter samefigure, emptybundle, glitterinLEFThandleaves, redRIGHTforearmmark, halfcigarette."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-dress-they-brought-her:denva-krail",
+        "links": [],
+        "evidence": "Art-only name for unnamedsource role, not existing Solstice/subplot identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-dress-they-brought-her/title-image.jpg",
+          "role": "Inmate selected compatibleface/messydarkhair, prisonclothes, tattoos, nonmagical pinkbundle",
+          "notes": "Actualpixels show inmate returningpinkdress/wand to suitedtorso, no officerface/guard.",
+          "sha256": "c38da09e5e5c98f08b937ae18f5b7ebc78f76de6e0ea89e29e4411e81f259261",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/01-the-prison-cell.png",
+          "role": "Broadoil, prisonpaint/costumecase materials and ceiling/evening light accents",
+          "notes": "Room excluded; body light subordinate finishedsource ceilingglare/evening.",
+          "sha256": "6086366dd681e7e00e9de2f67410a24aa7b29153722c3c198011e912774dc04b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+          "role": "Oil treatment and subdued practicalamber/coolblue spill",
+          "notes": "No counter/mesh/reader/cage toappear on characterfolio.",
+          "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Denva Krail",
+        "sourceRole": "Tattooed and pierced inmate wrongly claimed by recovery packet",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "Currentstory/outline/review supply no compatiblepersonalname. New distinctive art-onlyname; exactwholeword collisions checked in universe, frozenNAMES and existingcharacter-specs. No source prose or canon edit."
+      },
+      "output": "stories/the-dress-they-brought-her/art/characters/denva-krail.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Correct existing Denva Krail sheet image1, preserve exact adultidentity/hair/piercings, dullgreyeyes, everytext/label, prisonclothes, foldedinertpinkdress/wand and sourceleft-hand tattoo study. NOT a newcomposition. Three precise corrections:\n1) FRONT body stays asis: wristband on HER RIGHT wrist (viewerLEFT). In REAR body, transfer WRISTBAND, RED FOREARM PRESSURE MARK and HALF CIGARETTE onto HER RIGHT ARM/HAND, which is VIEWER RIGHT, beside her turnedface. Remove those three items entirely from rear viewerLEFT arm/hand, which becomes relaxedemptyhand with normaltattoos. The RIGHT wristband reads P-80417, no randomletters. Redpressuremark is a shortred band across outerforearm, not blood/wound. Keep blackleaves on LEFT hand, blue match samefinger inisolatedLEFT-hand detail.\n2) Repaint EVERY FACE/neck/arm/hand in BROAD MATTE OPAQUE OIL forms like image2 brushscale. Preserve exact features but replace smoothanime/photoreal planes with large deliberatebristle/knife masses on brow/cheeks/nose/jaw. Subdued cool PRISON CEILING LIGHT: connect large dark slate/umber shadow over half face and arms, only small limitedcool highlights, no broad tanbeautyfill. Keep tattoo ink and piercings readable in paint, not shinyplastic. Do not addrobot features, metalplates,redcape or change anatomy.\n3) Remove ALL grayground/castshadow smudges below/around boots, restore cleanquiet warmIVORY paper rightup to sole contours, no terrain/groundpatch. Entire heads,hands,boots stay insideframe. No other edits or newobjects. One1536x1024 sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:49:22.961742+00:00",
+            "prompt": "Use case: illustration-story. ONE1536x1024 warm ivory landscape characterfolio. Exact heading \"Denva Krail\", subtitle \"The Dress They Brought Her\", small line \"Art-only name\". This is the ADULT inmate from image1, NOT a magicalgirl. Keep that woman's recognizable light OLIVE skin, highcheekplanes, taperedjaw, straightmedium nose, DULL GRAY EYES, DARK MESSY HAIR pinned into unruly loosebun with abundantstrands; age32. She is ordinaryhuman, leanadult, covered in old chosen tattoos andpiercings. Match image1 facial geometry/hair, rendered in image2 actual broadmatteoil, NOT animeoutline or smoothphoto.\nClothes throughout: loose CHARCOAL GRAY short-sleeved prisonshirt, longgrayprisontrousers, plain blackflatshoes. Fullyclothed/no nudity. NO pinkdress worn onbody at any point. Tattoo sleeves include faded red/blue/green oldshapes on BOTH arms; BLACK LEAVES climb LEFT hand and wrist. Tiny BLUE MATCH tattoo on LEFT MIDDLE finger. Three-crooked-wing bird tattoo at ribs stays COVERED UNDER SHIRT, no cutaway/exposedtorso. Ordinary metal/clearretainer piercings at brow, nose, lowerlip, ears, consistent withcover; otherbodypiercings remaincovered. RIGHT wrist simpleband with exact small \"P-80417\".\nLEFT completefrontthreequarter figure \"Mistaken recovery\": holds folded SPARKLY PINK DRESS overLEFT arm, stiff layeredskirt/tiny sewnstarhem visible in bundle; inert PINK WAND with SILVER HANDLE and FIVE-POINT starhead rests alongsideforearm. Dress is carried object wellawayfrom her prisonclothing, never morphs into her skirt. Dry unimpressed expression. No aura/magic/glowingwand.\nCENTER completeREARthreequarter \"Return to cell\": sameclothes/person, headturned so likenessvisible, BOTH feet/handscomplete. Pinkbundle entirelyabsent. Small RED PRESSURE MARK along RIGHT forearm, NO bruise onotherarm. LEFT hand heldslightlyout, glittercaughtinblackleavestattoo; RIGHT holds halfcrushedcigarette low, tinyemberno bigsmoke. No chains/waistrestraints.\nRIGHT sameface largeheadstudy \"Unconvinced\", beside/below one clear LEFT HAND dorsalstudy labeled \"Chosen marks\": blackleaves onhand/wrist, one smallblue match onmiddlefinger, fadedarmink continuation. FIVE normalfingers, no extrajewelry anatomy.\nLighting: dim PRISON EVENING, darkconnectedcoolgray/umber masses covermostface/arms/clothing, small coolceilinglit cheek/metal accents, restrained warmreflectiveplanes only. No daytimefill, no overglowingpiercings or neonpink. Pink cloth rendered materially stiff/cheap sparkling with a few paintedlightdabs, NOT magicalbrilliance.\nCanadianGroupofSeven opaqueOIL brushwork: simplify HUMAN FACES, HANDS and tattooink into broad deliberate mattepaintplanes sameforce ascloth. Selectiveimpasto, varieddirectionalbristle/knife strokes and quietpassages, no CGI/plastic/anime/smoothface underneathmicrotexture. Plainquietwarmivory allaround completeunclippedforms, nootherpeople, Solstice, crown, environment/cell/bars/counter/floor/groundpatches/swatches/palette. Preciselegibletext.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/title-image.jpg",
+                "role": "PRIMARY inmate face/hair/clothes/tattoos/piercings and physicalpinkbundle identity; translate anime into matteoil",
+                "sha256": "c38da09e5e5c98f08b937ae18f5b7ebc78f76de6e0ea89e29e4411e81f259261",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-color-that-comes-home/art/characters/nerith.png",
+                "role": "broad actualoil face/hand paint and subduedstatevalues ONLY; no braid/skin/identity/tool transfer",
+                "sha256": "907d15cf1e9242e60a64c5bce32e7c22f836a95655020e15d16458ca0cfe7f61",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+                "role": "oil/practical warmcool reflectedlight and ordinarymaterials, no scenery",
+                "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-88bb42b0-b73e-4d34-b01d-d2b5de5938cf.png",
+            "outputSha256": "9eddf85cd379696850ad40e2d7892c107ee6315283bf7779eef21a81531cc71f",
+            "reviewFindings": [
+              "Rear view wristband/pressuremark/cigarette flips to anatomicalLEFT whilefrontbandRIGHT; make lateprops/mark anatomicalRIGHT consistently.",
+              "Face remains rather smooth and broadly warmbright; needs largeopaqueoil/more restrainedcoolceilinglight.",
+              "Small graygroundpatches belowboots violate isolatedivory."
+            ],
+            "completedAt": "2026-09-24T06:56:08.539827+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:56:09.595586+00:00",
+            "prompt": "Correct existing Denva Krail sheet image1, preserve exact adultidentity/hair/piercings, dullgreyeyes, everytext/label, prisonclothes, foldedinertpinkdress/wand and sourceleft-hand tattoo study. NOT a newcomposition. Three precise corrections:\n1) FRONT body stays asis: wristband on HER RIGHT wrist (viewerLEFT). In REAR body, transfer WRISTBAND, RED FOREARM PRESSURE MARK and HALF CIGARETTE onto HER RIGHT ARM/HAND, which is VIEWER RIGHT, beside her turnedface. Remove those three items entirely from rear viewerLEFT arm/hand, which becomes relaxedemptyhand with normaltattoos. The RIGHT wristband reads P-80417, no randomletters. Redpressuremark is a shortred band across outerforearm, not blood/wound. Keep blackleaves on LEFT hand, blue match samefinger inisolatedLEFT-hand detail.\n2) Repaint EVERY FACE/neck/arm/hand in BROAD MATTE OPAQUE OIL forms like image2 brushscale. Preserve exact features but replace smoothanime/photoreal planes with large deliberatebristle/knife masses on brow/cheeks/nose/jaw. Subdued cool PRISON CEILING LIGHT: connect large dark slate/umber shadow over half face and arms, only small limitedcool highlights, no broad tanbeautyfill. Keep tattoo ink and piercings readable in paint, not shinyplastic. Do not addrobot features, metalplates,redcape or change anatomy.\n3) Remove ALL grayground/castshadow smudges below/around boots, restore cleanquiet warmIVORY paper rightup to sole contours, no terrain/groundpatch. Entire heads,hands,boots stay insideframe. No other edits or newobjects. One1536x1024 sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-88bb42b0-b73e-4d34-b01d-d2b5de5938cf.png",
+                "role": "edit target preserve exact identity, artwork arrangement, sourceink and costume states",
+                "sha256": "9eddf85cd379696850ad40e2d7892c107ee6315283bf7779eef21a81531cc71f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "broadmattepaint construction only, no roboticdesign/color/gear",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c865a32-f861-447d-91e4-fadb2409ad2f.png",
+            "outputSha256": "13993509c318b847ca0d9b0064a8ff13356b53bdc4ad4a095dad6e1883c572f0",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:01:17.879645+00:00",
+            "withdrawnReviewFindings": [
+              "Root correctly notes rotated Chosenmarks isolateddorsalhand depictsRIGHT not requiredLEFT. Replaceisolateddetail with unambiguous uprightLEFTdorsalhand, thumbviewerLEFT, leafink/LEFTmiddlematch. Fullbodies alreadyrootPASS preserve."
+            ],
+            "reselectionReason": "Correct LEFT dorsal study: fingers point diagonally down-left, thumb upper-left; rotated fingers-up its thumb is viewer RIGHT. Leaves and blue match remain on left hand. Original selected bytes restored after published anatomy plate disproved intervening review convention."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T09:01:18.849715+00:00",
+            "prompt": "Edit ONLY the isolated \"Chosen marks\" HAND STUDY in the LOWER RIGHT of this Denva Krail sheet. The current rotated hand is anatomically a right hand. Replace it with a CLEARLY ANATOMICAL LEFT HAND viewed from its BACK/DORSAL surface, with the FOUR FINGERS POINTING STRAIGHT UPWARD and THUMB ON VIEWER LEFT. Fingernails and dorsal knuckles visible, NOT palm creases. This upright orientation makes left/right unambiguous.\nRetain the same LIGHT OLIVE human skin and broad matte oil brushwork, the black LEAVES climbing the LEFT wrist/back of hand, and ONE small BLUE MATCH TATTOO on the LEFT MIDDLE FINGER (second long finger from viewer left after index, central longest finger). Faint pink glitter caught in leaf ink is allowed. Five ordinary fingers total. No wristband, red pressure mark or cigarette on this LEFT hand detail. Keep the complete detail inside the same lower-right space above its unchanged label, with plenty of ivory separation from the portrait.\nDo not change any other part of the sheet: both full-body figures, their correctly positioned RIGHT wristband P-80417/right forearm pressure mark/right cigarette, pink costume held not worn, fivepoint wand, face/head, every text, body tattoos, poses, lighting and warm ivory all remain as before. No new scene, ground, swatches or props.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c865a32-f861-447d-91e4-fadb2409ad2f.png",
+                "role": "immutable target, ONLY isolatedChosenmarks hand revision",
+                "sha256": "13993509c318b847ca0d9b0064a8ff13356b53bdc4ad4a095dad6e1883c572f0",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9a97e4e2-a9ff-4b77-98ac-91bf876e2bfa.png",
+            "outputSha256": "6ae107ba240e453c3de47669161b615037df985a5196a2581dd2de619c4f33f7",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T09:08:27.193418+00:00",
+            "reviewFindings": [
+              "Intervening reviewer used reversed upright dorsal laterality convention. This edit changed a correct original hand to the wrong hand. Original attempt 2 is reselected after actual anatomical reference verification."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-88bb42b0-b73e-4d34-b01d-d2b5de5938cf.png",
+            "role": "edit target preserve exact identity, artwork arrangement, sourceink and costume states",
+            "sha256": "9eddf85cd379696850ad40e2d7892c107ee6315283bf7779eef21a81531cc71f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "broadmattepaint construction only, no roboticdesign/color/gear",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T09:33:45.722276+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "13993509c318b847ca0d9b0064a8ff13356b53bdc4ad4a095dad6e1883c572f0",
+        "sourceSha256": "0f9fc3a7d007e9d0f736c51376b4703ebc52cb4b267fb191c5ed85e9f0777065",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-88bb42b0-b73e-4d34-b01d-d2b5de5938cf.png",
+            "role": "edit target preserve exact identity, artwork arrangement, sourceink and costume states",
+            "sha256": "9eddf85cd379696850ad40e2d7892c107ee6315283bf7779eef21a81531cc71f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "broadmattepaint construction only, no roboticdesign/color/gear",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Correct LEFT dorsal study: fingers point diagonally down-left, thumb upper-left; rotated fingers-up its thumb is viewer RIGHT. Leaves and blue match remain on left hand. Original selected bytes restored after published anatomy plate disproved intervening review convention.",
+          "Actual full sheet pixels re-inspected: body identity, source states, wardrobe, tubes/props and readable headings preserved; broad matte oil and warm ivory retained.",
+          "Anatomy verification: Morris A Treatise on Human Anatomy figure134, Left Hand Dorsal Surface, viewed actual plate at https://commons.wikimedia.org/wiki/File:Morris%27_human_anatomy_(1898)_-_Fig_134.png ; fingers-down thumb-left corresponds to fingers-up thumb-right."
+        ],
+        "specificationSha256": "d748274765619978a3230b55b83d9b5a5be985463981eb7a4a81e148afb69af3"
+      },
+      "lighting": "Subdued prison practical ceiling light with connected coolshadow and restrained warmth.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "13993509c318b847ca0d9b0064a8ff13356b53bdc4ad4a095dad6e1883c572f0"
+    },
+    {
+      "id": "ordan-sef",
+      "name": "Ordan Sef",
+      "role": "Suited recovery officer who brings and later removes mistaken costume",
+      "selectionEvidence": [
+        {
+          "quote": "a man in a charcoal suit",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "A black credential rested against his shirt with its face turned inward.",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "used it to cancel his own extraction.",
+          "explanation": "Finishedsource explicit evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary adultman",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "None specified",
+        "materials": "Charcoalsuitcloth/dust, blackcredential, tablet/whitecase",
+        "clothing": "Charcoalsuit cleanexceptpaledustcuffs, noprisonsign/no tiepin",
+        "equipment": "Flatwhitecase two silvercatches, blackcredentialinwardthenoutward, tabletwithstrap, returnsbundle",
+        "scale": "Humanadult",
+        "movement": "Formalcertaintybecomes carefuldoubt",
+        "distinctiveFeatures": "No authoritybadge invented, no Solsticeidentity knowledge"
+      },
+      "explicitCanon": [
+        "Charcoalsuit, dustycuffs, flatwhitecase/twosilvercatches.",
+        "Blackcredentialfaceinwarduntilcancellation; tabletstrap usedbyinmate.",
+        "Takes returnedpinkdress/wand bundled underarm, recognizeserror; no magicalpower."
+      ],
+      "visualInterpretation": [
+        "Art-only nameOrdanSef, age52, deepbrownskin, leanlongface/aquiline nose, shortblackhair grayingtemples, cleanshaven, darkbrowneyes; tallnarrowbuild.",
+        "Whiteshirt grayplaintie no tiepin, blackformalshoes, blackcredentiallanyard no inventedemblem.",
+        "Samepinkcostume physicaldesign asDenva sheet, removedasbundle, one silverpoint protrudesfrompinkfolds."
+      ],
+      "states": [
+        {
+          "name": "Recovery visit",
+          "description": "Wholefrontbody holdsclosedflatwhitecase and tablet, inwardcredential."
+        },
+        {
+          "name": "Extraction cancelled",
+          "description": "Wholerearthreequarter, outwardcredential viewedturn, bundleunderarm, no caseneededshown."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-dress-they-brought-her:ordan-sef",
+        "links": [],
+        "evidence": "Art-only name for unnamedsource role, not existing Solstice/subplot identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-dress-they-brought-her/title-image.jpg",
+          "role": "Inmate selected compatibleface/messydarkhair, prisonclothes, tattoos, nonmagical pinkbundle",
+          "notes": "Actualpixels show inmate returningpinkdress/wand to suitedtorso, no officerface/guard.",
+          "sha256": "c38da09e5e5c98f08b937ae18f5b7ebc78f76de6e0ea89e29e4411e81f259261",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/01-the-prison-cell.png",
+          "role": "Broadoil, prisonpaint/costumecase materials and ceiling/evening light accents",
+          "notes": "Room excluded; body light subordinate finishedsource ceilingglare/evening.",
+          "sha256": "6086366dd681e7e00e9de2f67410a24aa7b29153722c3c198011e912774dc04b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+          "role": "Oil treatment and subdued practicalamber/coolblue spill",
+          "notes": "No counter/mesh/reader/cage toappear on characterfolio.",
+          "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Ordan Sef",
+        "sourceRole": "Suited recovery officer who brings and later removes mistaken costume",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "Currentstory/outline/review supply no compatiblepersonalname. New distinctive art-onlyname; exactwholeword collisions checked in universe, frozenNAMES and existingcharacter-specs. No source prose or canon edit."
+      },
+      "output": "stories/the-dress-they-brought-her/art/characters/ordan-sef.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make a narrow correction to this Ordan Sef character sheet. Keep the same man, identity, two full bodies, two heads, clothing, all anatomy and poses, exact text, warm ivory, case and tablet.\nThe middle BACK view must NOT have a credential hanging on his back. Remove the entire card and its dangling string from the jacket back. His black lanyard goes around the back of his NECK and continues around to his CHEST, where the credential hangs on his shirt and is mostly hidden from this angle. A tiny side sliver near front collar is enough; never place the card on the back. Keep the front figure's inward-facing blank black card unchanged.\nThe pink returned bundle under the middle figure's RIGHT arm stays in its exact location. Remove the protruding SILVER CYLINDER/HANDLE and replace with only ONE small SILVER TRIANGULAR STAR POINT peeking between pink folds; the wand's handle and all other star points remain hidden in the bundle. This is an inert wand packed away, no glow.\nRepaint every black shoe with broad MATTE oil strokes and quiet black/gray masses, remove mirror-polished sharp glossy reflections. Keep full shoe silhouettes. Do not brighten faces or alter their mature angular identity; retain broad opaque paint and dim practical light. No additional objects, scene, floor, swatches, halos or text.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T07:02:00.732326+00:00",
+            "prompt": "Use case: illustration-story. One1536x1024 landscape characterfolio quietwarmivory. Heading \"Ordan Sef\", subtitle \"The Dress They Brought Her\", smallline \"Art-only name\". ONE adult HUMAN MAN age52, TALL NARROW build, DEEP BROWN skin, LONG LEAN face, AQUILINE narrow nose, thinlips, darkbrowneyes, shorttidy BLACK hair withGRAYTEMPLES, CLEANSHAVEN, maturebrowandeyelines. Not inmate'sfeminineface, no piercings/tattoos/messyhair. PlaincharcoalbusinessSUIT, WHITEcollaredshirt, simpleGRAYtie withoutpin, blackformalshoes. Palesilt dust on lowerjacket cuffs. No prisoninsignia, flags,badges,rank,uniform orweapon.\nLEFT complete FRONT-threequarter \"Recovery visit\": onehandholds FLAT WHITE HARD CASE with exactly TWO SILVER CATCHES, otherholdsordinary darktablet withsmallhandstrap. Blackcredential onblacklanyard lies FACE INWARD againstwhiteshirt, backsideblackblank. No tabletportrait/face/map showing; screenangled away. Seriouscertainface, ordinaryposture.\nCENTER complete BACK-threequarter \"Extraction cancelled\": samepersonlookingover RIGHTshoulder enoughsameprofile, smallblackcredential turnedOUTWARD now modestwhiteblocksofprinting no legible inventedidentity; pinkDRESS tightly foldedBUNDLED underLEFTarm, same layeredcheapstiffpinkfabric asimage1 withsmallsewnstarhem details. Wand tuckedFULLY inside pinkbundle with only ONE SMALL SILVER POINT protruding. No giantpinkstar outsidebundle, no wearingdress. Otherhand tablet low. No caseinthisview. Allbodyandshoes/handsunclipped.\nRIGHT two samefaceheadstudies \"Certainty\" and \"Doubt\", secondbrowlessfixed, no melodrama. Below simple tablet/handstrap isolatedstudy label \"Recovery tablet\", ordinaryblackglassscreen angleddarkwithout readablecount/identity. No facialperson onscreen.\nBroad connected OPAQUE MATTE OIL PAINT everywhere including everyface/hand, substantial brushplanes ratherthan glossyphotohead or tinyuniformchips. CanadianGroupofSeven broadbristle/knife rhythm, quietshadow passages/selectiveimpasto. Subduedprisonceilinglight: LARGE cool slate/umber connectedshadows onfaceandsuit, smallpractical highlights only, no sunnygoldenfill or genericrim. Quiet warmivory with NO otherpeople, cell,mesh,counter,room,ground/floorshadows/scenery/swatches/palette. Exact legible text. Preserve anatomy ordinary2arms/2legs/5fingers.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/characters/denva-krail.png",
+                "role": "same-story opaqueoil/rendering and exactpinkcostume/wand only, no inmateidentity/skin/tattoos/piercings",
+                "sha256": "13993509c318b847ca0d9b0064a8ff13356b53bdc4ad4a095dad6e1883c572f0",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+                "role": "practicalceilinglight materials/oil only, no setting",
+                "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d3e0a508-b760-4485-8815-f173148e3451.png",
+            "outputSha256": "beb45d84e7cb5c2c9578d111eaa21765c2e42f6be98d796f0168bb279e58e124",
+            "reviewFindings": [
+              "Rearfigure lanyard/credential wronglyhangson back insteadof shirtfront; removebackcard, keepnecklanyard leadsaroundfront.",
+              "Returnedpinkbundle shows cylindrical silverhandle, source onlyonesilverpoint shouldshow. Correctto singletriangularpoint.",
+              "Black shoes overlyglossy; make matte broadpaint consistent with rest."
+            ],
+            "completedAt": "2026-09-24T07:09:13.526527+00:00"
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:09:14.458873+00:00",
+            "prompt": "Make a narrow correction to this Ordan Sef character sheet. Keep the same man, identity, two full bodies, two heads, clothing, all anatomy and poses, exact text, warm ivory, case and tablet.\nThe middle BACK view must NOT have a credential hanging on his back. Remove the entire card and its dangling string from the jacket back. His black lanyard goes around the back of his NECK and continues around to his CHEST, where the credential hangs on his shirt and is mostly hidden from this angle. A tiny side sliver near front collar is enough; never place the card on the back. Keep the front figure's inward-facing blank black card unchanged.\nThe pink returned bundle under the middle figure's RIGHT arm stays in its exact location. Remove the protruding SILVER CYLINDER/HANDLE and replace with only ONE small SILVER TRIANGULAR STAR POINT peeking between pink folds; the wand's handle and all other star points remain hidden in the bundle. This is an inert wand packed away, no glow.\nRepaint every black shoe with broad MATTE oil strokes and quiet black/gray masses, remove mirror-polished sharp glossy reflections. Keep full shoe silhouettes. Do not brighten faces or alter their mature angular identity; retain broad opaque paint and dim practical light. No additional objects, scene, floor, swatches, halos or text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d3e0a508-b760-4485-8815-f173148e3451.png",
+                "role": "immutable edit target; exact adult identity, clothing, layout and labels retained",
+                "sha256": "beb45d84e7cb5c2c9578d111eaa21765c2e42f6be98d796f0168bb279e58e124",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-297ad0fb-3bf7-4e5a-9ac0-7df468ef774d.png",
+            "outputSha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:14:10.642410+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d3e0a508-b760-4485-8815-f173148e3451.png",
+            "role": "immutable edit target; exact adult identity, clothing, layout and labels retained",
+            "sha256": "beb45d84e7cb5c2c9578d111eaa21765c2e42f6be98d796f0168bb279e58e124",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:14:10.642410+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7",
+        "sourceSha256": "0f9fc3a7d007e9d0f736c51376b4703ebc52cb4b267fb191c5ed85e9f0777065",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d3e0a508-b760-4485-8815-f173148e3451.png",
+            "role": "immutable edit target; exact adult identity, clothing, layout and labels retained",
+            "sha256": "beb45d84e7cb5c2c9578d111eaa21765c2e42f6be98d796f0168bb279e58e124",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: exact art-only name/title/state labels; same mature narrow-faced gray-templed clean-shaven man in two whole forms/two heads.",
+          "Charcoal suit, white shirt/plain tie, dusty cuffs, white flat case with two silver catches, tablet/handstrap and inward front credential match source.",
+          "Corrected rear view removes impossible back credential; lanyard continues toward chest. Returned pinkbundle underarm shows only one small silvertriangular point, no handle.",
+          "Broad matte oil on face/hands/suit, black shoes corrected awayfromgloss; complete anatomy/cleanwarmivory with no scenes/ground/swatches or fabricated survivorportrait."
+        ],
+        "specificationSha256": "863e9e0d43ed72636d9e9c53c20c1c0c22625b79cd4f472d0c839bef3979cb11"
+      },
+      "lighting": "Subdued practical prison ceilinglight with cool bluegray shadow and limitedamberbounce; nopowerglow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7"
+    },
+    {
+      "id": "maulik-drest",
+      "name": "Maulik Drest",
+      "role": "Prison guard who gives cigarette, escorts and pins inmate, then restores favor",
+      "selectionEvidence": [
+        {
+          "quote": "The guard had crushed the cigarette's filter",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "He wrapped it in a scrap of foil from his pocket.",
+          "explanation": "Finishedsource explicit evidence"
+        },
+        {
+          "quote": "coaxed the ember back with his lighter",
+          "explanation": "Finishedsource explicit evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Ordinary adultman",
+        "lifeStage": "Adult",
+        "proportions": "Unspecified",
+        "markings": "None specified",
+        "materials": "Uniformcloth, foil, cigarette,lighter/badge",
+        "clothing": "Breastpocket/badge, otherwise unspecified",
+        "equipment": "Cigarettepack/halfbutt/foilscrap,lighter,ordinarybadge",
+        "scale": "Humanadult",
+        "movement": "Custodialguard with hesitantprivatefavor; no inventedheroicpower",
+        "distinctiveFeatures": "No crime/sentence/rank/nationality established"
+      },
+      "explicitCanon": [
+        "Breastpocket, badge, halfcigarette foil/lighter.",
+        "Escortswithoutnormalwaistrestraints, later pinsforearm thenreleases, returns cigarettesamecell.",
+        "No personalmagicalability or statedname."
+      ],
+      "visualInterpretation": [
+        "Art-only MaulikDrest, age46, paleweatheredskin, sturdybroadbarrelbuild, baldtop/shortbrownsidehair, broadrectangularjaw, shortstraightnose, heavyeyelids, brownmustache.",
+        "Plainmutedslateblue short-sleeveduniformshirt/breastpocket, navytrousers, blackbelt/plainboots, smalldull blankbadge no legiblerank/flag or weapons.",
+        "Warytiredexpression, not threateningcaricature; lightthecigarette smallorangeember no largesmokecloud."
+      ],
+      "states": [
+        {
+          "name": "On duty",
+          "description": "Wholefront/rear uniformviews; a discreetfoilscrap at hand."
+        },
+        {
+          "name": "A small favor",
+          "description": "Sameface and hands relightinghalf cigarette with lighter, no inmate/setting."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-dress-they-brought-her:maulik-drest",
+        "links": [],
+        "evidence": "Art-only name for unnamedsource role, not existing Solstice/subplot identity."
+      },
+      "references": [
+        {
+          "path": "stories/the-dress-they-brought-her/title-image.jpg",
+          "role": "Inmate selected compatibleface/messydarkhair, prisonclothes, tattoos, nonmagical pinkbundle",
+          "notes": "Actualpixels show inmate returningpinkdress/wand to suitedtorso, no officerface/guard.",
+          "sha256": "c38da09e5e5c98f08b937ae18f5b7ebc78f76de6e0ea89e29e4411e81f259261",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/01-the-prison-cell.png",
+          "role": "Broadoil, prisonpaint/costumecase materials and ceiling/evening light accents",
+          "notes": "Room excluded; body light subordinate finishedsource ceilingglare/evening.",
+          "sha256": "6086366dd681e7e00e9de2f67410a24aa7b29153722c3c198011e912774dc04b",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+          "role": "Oil treatment and subdued practicalamber/coolblue spill",
+          "notes": "No counter/mesh/reader/cage toappear on characterfolio.",
+          "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "assigned-for-art",
+        "name": "Maulik Drest",
+        "sourceRole": "Prison guard who gives cigarette, escorts and pins inmate, then restores favor",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "notes": "Currentstory/outline/review supply no compatiblepersonalname. New distinctive art-onlyname; exactwholeword collisions checked in universe, frozenNAMES and existingcharacter-specs. No source prose or canon edit."
+      },
+      "output": "stories/the-dress-they-brought-her/art/characters/maulik-drest.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Make one 1536x1024 landscape character reference sheet on plain quiet warm ivory. Exact heading \"Maulik Drest\", subtitle \"The Dress They Brought Her\", small line \"Art-only name\".\nOne ordinary adult male prison guard, age46. Distinct sturdy barrel-chested build, PALE weathered skin, BALD TOP with short BROWN SIDE HAIR, BROAD RECTANGULAR JAW, short straight nose, heavy eyelids, BROWN MUSTACHE and otherwise clean-shaven. His face is broad and square, not the long dark-skinned clean-shaven suited officer from image1. Consistent identity in every view.\nPlain muted SLATE BLUE short-sleeved uniform shirt with breast pocket, NAVY trousers, black belt and matte black work boots. A SMALL blank dull metal badge over his LEFT breast and plain ID/badge holder; no legible rank, flags, invented institution, weapon or armor. No tattoos or piercings. Modest ordinary cigarette pack edge in RIGHT breast pocket.\nLEFT complete front three-quarter figure, label \"On duty\", tired wary expression, one hand holding small folded FOIL scrap, other relaxed. CENTER complete rear three-quarter view of same body, head turning enough for the same mustached profile, both hands visible and no extra equipment. All body parts, hair and boots wholly inside frame.\nRIGHT large same-face study \"Hesitation\", subtle conflicted expression rather than villain caricature. Below a hand study \"A small favor\": one hand holds a CRUSHED HALF CIGARETTE between two fingers, other hand an ordinary pocket LIGHTER with a tiny flame relighting its tip, and small foil scrap held alongside. Human hands each five natural fingers, no extra duplicate cigarette or giant smoke cloud. No other character.\nPaint skin, mustache, bald head and hands using BROAD OPAQUE MATTE OIL MASSES like image1, simplified brow, cheek, nose and jaw planes with deliberate bristle and knife strokes, connected quieter shadows and selective impasto. Canadian Group of Seven painting across all forms, no photo face with surface brush overlay, no CGI/gloss/anime or uniform bright chips.\nDim practical prison ceiling light: broad cool slate/brown shadow across most body, small restrained light planes and tiny warm flame bounce only on fingertips, no global orange glow or rim. Warm ivory remains clean everywhere, absolutely no cell, counter, mesh, floor/ground shadows or patches, scenery, color swatches, palette, magical girl dress/wand or suited officer. Exact readable text.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:14:11.629306+00:00",
+            "prompt": "Use case: illustration-story. Make one 1536x1024 landscape character reference sheet on plain quiet warm ivory. Exact heading \"Maulik Drest\", subtitle \"The Dress They Brought Her\", small line \"Art-only name\".\nOne ordinary adult male prison guard, age46. Distinct sturdy barrel-chested build, PALE weathered skin, BALD TOP with short BROWN SIDE HAIR, BROAD RECTANGULAR JAW, short straight nose, heavy eyelids, BROWN MUSTACHE and otherwise clean-shaven. His face is broad and square, not the long dark-skinned clean-shaven suited officer from image1. Consistent identity in every view.\nPlain muted SLATE BLUE short-sleeved uniform shirt with breast pocket, NAVY trousers, black belt and matte black work boots. A SMALL blank dull metal badge over his LEFT breast and plain ID/badge holder; no legible rank, flags, invented institution, weapon or armor. No tattoos or piercings. Modest ordinary cigarette pack edge in RIGHT breast pocket.\nLEFT complete front three-quarter figure, label \"On duty\", tired wary expression, one hand holding small folded FOIL scrap, other relaxed. CENTER complete rear three-quarter view of same body, head turning enough for the same mustached profile, both hands visible and no extra equipment. All body parts, hair and boots wholly inside frame.\nRIGHT large same-face study \"Hesitation\", subtle conflicted expression rather than villain caricature. Below a hand study \"A small favor\": one hand holds a CRUSHED HALF CIGARETTE between two fingers, other hand an ordinary pocket LIGHTER with a tiny flame relighting its tip, and small foil scrap held alongside. Human hands each five natural fingers, no extra duplicate cigarette or giant smoke cloud. No other character.\nPaint skin, mustache, bald head and hands using BROAD OPAQUE MATTE OIL MASSES like image1, simplified brow, cheek, nose and jaw planes with deliberate bristle and knife strokes, connected quieter shadows and selective impasto. Canadian Group of Seven painting across all forms, no photo face with surface brush overlay, no CGI/gloss/anime or uniform bright chips.\nDim practical prison ceiling light: broad cool slate/brown shadow across most body, small restrained light planes and tiny warm flame bounce only on fingertips, no global orange glow or rim. Warm ivory remains clean everywhere, absolutely no cell, counter, mesh, floor/ground shadows or patches, scenery, color swatches, palette, magical girl dress/wand or suited officer. Exact readable text.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/characters/ordan-sef.png",
+                "role": "same-story broad matte oil and dim practical light only; no officer identity or costume props",
+                "sha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+                "role": "practical amber/cool ceilinglight and oil paint only; no environment",
+                "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-86047c2c-9e7a-45bd-af6f-7cc4d32284e7.png",
+            "outputSha256": "9a302c62b8143515b9646691e761e2eb77e8854b0536a750b99c20e73645cd81",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:20:38.871123+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/characters/ordan-sef.png",
+            "role": "same-story broad matte oil and dim practical light only; no officer identity or costume props",
+            "sha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+            "role": "practical amber/cool ceilinglight and oil paint only; no environment",
+            "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T07:20:38.871123+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "9a302c62b8143515b9646691e761e2eb77e8854b0536a750b99c20e73645cd81",
+        "sourceSha256": "0f9fc3a7d007e9d0f736c51376b4703ebc52cb4b267fb191c5ed85e9f0777065",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/characters/ordan-sef.png",
+            "role": "same-story broad matte oil and dim practical light only; no officer identity or costume props",
+            "sha256": "029a5b1673760c5a98a22a8b29ef17166bf94b5efe992b95d789f4797738dda7",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
+            "role": "practical amber/cool ceilinglight and oil paint only; no environment",
+            "sha256": "2ef1333066eb1250f1a7cb1178d6ec36dbfaa7a76125808787ec22f89e31f66d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual1536x1024 exactart-onlyname/title, two completeadultforms/head and lighterhandstudy; baldtop/sidehair/mustache, broadbarrelbuild/rectangularface consistent and distinct fromofficer.",
+          "Plainblue uniform, blankLEFTbreastbadge, RIGHTpocketcigarettepack andfoil; no rank/flag/weapon or prisonerink transferred.",
+          "Fivefinger hands relight shortcrushedcigarette with pocketlighter, restrainedsmallflame/foil; no secondcharacter/scenebackdrop.",
+          "Broad matte opaque skin/face/hand paint, deliberate strokes and slateclothshadow, completeunclippedboots, clearwarmivory/no floor/swatches."
+        ],
+        "specificationSha256": "637bdda390b6cdb41536019ee508c7a9bc3374135c24e2eb7461fe56535f98c0"
+      },
+      "lighting": "Dim prison ceiling light with broad cool shadows and small warm reflections; lighter provides only tiny localglow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "9a302c62b8143515b9646691e761e2eb77e8854b0536a750b99c20e73645cd81"
+    }
+  ],
+  "sourceSha256": "0f9fc3a7d007e9d0f736c51376b4703ebc52cb4b267fb191c5ed85e9f0777065"
+}
