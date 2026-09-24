@@ -1,0 +1,1145 @@
+{
+  "schemaVersion": 1,
+  "slug": "yavrens-return",
+  "title": "Where the Eagle Lands",
+  "source": "stories/yavrens-return/story.md",
+  "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Root full finished prose read: Yavren, Irdas and Pelka carry rebuilding, love and family arcs; three rulers sustain negotiation and enact the settlement; the elected cooper challenges royal claims and designs equal representation. Seven substantial identities.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Woman with the door, actors and singer, councilors, messengers, children, historical unnamed lover",
+      "reason": "Brief establishing, reported or collective roles without sustained individual characterization."
+    },
+    {
+      "name": "Eagle Queen / Eagle Shadow",
+      "reason": "Current source explicitly identifies remembered former incarnation and directed power as part of Yavren, not a separate present person. Depicted within Yavren's sheet."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md"
+  ],
+  "referenceConflicts": [
+    "The prompt explicitly supplies departure-and-rebuilding continuity; the non-canon predecessor's conquest ending is not imported or rewritten.",
+    "Prior accepted Yavren/Pelka face identities retained nine years older; prior wounds, talonmail state and carried items are not automatically retained.",
+    "Original supplies adult dark-haired lovers and Eagle silhouette, but burning ruins, red eclipse, sword and male armor are not source events/clothing. Cover and actual prose supersede them.",
+    "Three rulers are local source roles. The story does not establish that its southern king is the alternate predecessor's dead ash king, so no shared identity is asserted."
+  ],
+  "sourcePromptReferenceInventory": [
+    {
+      "displayName": "codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+      "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+      "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+      "status": "resolved-inspected",
+      "inspected": true,
+      "notes": "Exact recovered original was available externally and inspected by root alongside cover and paintings."
+    }
+  ],
+  "characters": [
+    {
+      "id": "yavren",
+      "name": "Yavren",
+      "role": "protagonist; adult returning bearer of the Eagle Shadow",
+      "selectionEvidence": [
+        {
+          "quote": "at thirty-three she had begun privately counting it",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Adult human woman, 33, dark hair, dark feathered clothing and boots; later wears green to the theatre. Eagle Shadow rises from her living body under her direction, not an independent character.",
+      "storyAppearance": {
+        "description": "Adult human woman, 33, dark hair, dark feathered clothing and boots; later wears green to the theatre. Eagle Shadow rises from her living body under her direction, not an independent character."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Same warm tan angular face, long dark hair, amber-brown eyes and dark feather-shaped cheek markings as the accepted earlier sheet, aged nine years.",
+        "Working costume uses a modest black feather mantle over charcoal tunic/trousers and boots, with stone dust; green theatre dress is a separate labeled source state.",
+        "Eagle morphology appears only as a clearly labeled small symbolic-scale connected shadow study; no autonomous body or new power."
+      ],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:yavren",
+        "links": [
+          "stories/when-the-eagle-bowed/art/characters/yavren.png"
+        ],
+        "evidence": "Explicit recurring identity in sequel prompt, nine years later; same face retained."
+      },
+      "references": [
+        {
+          "path": "stories/when-the-eagle-bowed/art/characters/yavren.png",
+          "role": "Inspected recurring Yavren face/hair/cheek markings; nine years later. Do not transfer sealed earlier talonmail or bow.",
+          "sha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+          "inspected": true
+        },
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/yavrens-return/title-image.jpg",
+          "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+          "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+          "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+          "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Yavren"
+      },
+      "output": "stories/yavrens-return/art/characters/yavren.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:29:04.803199+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Yavren\". A 33-year-old adult woman, recognizable as first reference huntress: angular warm tan face, long dark brown hair now loose with a few simple side braids, amber-brown eyes, subtle charcoal feather-shaped markings beside eyes, slightly more mature than old anchor. DO NOT copy the first reference closed talonmail, crown or bow. LEFT full front-three-quarter working outfit: black feathered mantle and dark flowing feather-edged over-layer over a modest opaque charcoal long-sleeve tunic, trousers and sturdy boots, little pale stone dust on feathers. Label \"Rebuilding\". CENTER full same woman in plain deep green floor-length dress, modest neckline, long sleeves, small practical dark shoes visible, no crown or pearls. Label \"Theatre opening\". RIGHT upper large mature portrait recognizable as the same woman, resting content alert expression. RIGHT lower small character-only SHADOW study: a broad dark eagle silhouette with one head/hooked beak, two spread wings and long needle-tipped feathers, rising continuously from the base of a tiny silhouette of this SAME woman. This is her directed power, no independent eagle animal. Label \"Eagle Shadow — symbolic scale\". No buildings, stone props, clouds, separate lover, flame, eclipse, red glow or destroyed city. Source is rebuilding and chosen ordinary life. Main outfit first view and second green outfit are clearly separate chronological costume states.",
+            "references": [
+              {
+                "path": "stories/when-the-eagle-bowed/art/characters/yavren.png",
+                "role": "Inspected recurring Yavren face/hair/cheek markings; nine years later. Do not transfer sealed earlier talonmail or bow.",
+                "sha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+                "inspected": true
+              },
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/yavrens-return/title-image.jpg",
+                "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+                "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+                "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+                "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-bd99feb2-9f3a-402a-8ed8-54abe888ebad.png",
+            "candidateSha256": "560311e998704c5923b18c25c20041c51e364cdf1fca307ceaafe74715093b49",
+            "reviewedAt": "2026-09-24T16:37:52.623430+00:00",
+            "findings": [
+              "Root inspected actual pixels: same established angular face, dark hair and feather markings, now mature; clearly separated dark feathered rebuilding clothes and modest green theatre dress.",
+              "Human body/boots stay ordinary and uncrowned. Directed Eagle study remains connected to her silhouette and explicitly labeled symbolic scale; no autonomous creature, destruction or scene.",
+              "Exact name/title and state labels, unclipped silhouettes, warm opaque ivory and heavy painted faces/fabric."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Yavren\". A 33-year-old adult woman, recognizable as first reference huntress: angular warm tan face, long dark brown hair now loose with a few simple side braids, amber-brown eyes, subtle charcoal feather-shaped markings beside eyes, slightly more mature than old anchor. DO NOT copy the first reference closed talonmail, crown or bow. LEFT full front-three-quarter working outfit: black feathered mantle and dark flowing feather-edged over-layer over a modest opaque charcoal long-sleeve tunic, trousers and sturdy boots, little pale stone dust on feathers. Label \"Rebuilding\". CENTER full same woman in plain deep green floor-length dress, modest neckline, long sleeves, small practical dark shoes visible, no crown or pearls. Label \"Theatre opening\". RIGHT upper large mature portrait recognizable as the same woman, resting content alert expression. RIGHT lower small character-only SHADOW study: a broad dark eagle silhouette with one head/hooked beak, two spread wings and long needle-tipped feathers, rising continuously from the base of a tiny silhouette of this SAME woman. This is her directed power, no independent eagle animal. Label \"Eagle Shadow — symbolic scale\". No buildings, stone props, clouds, separate lover, flame, eclipse, red glow or destroyed city. Source is rebuilding and chosen ordinary life. Main outfit first view and second green outfit are clearly separate chronological costume states.",
+        "references": [
+          {
+            "path": "stories/when-the-eagle-bowed/art/characters/yavren.png",
+            "role": "Inspected recurring Yavren face/hair/cheek markings; nine years later. Do not transfer sealed earlier talonmail or bow.",
+            "sha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/title-image.jpg",
+            "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+            "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+            "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+            "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "outputSha256": "560311e998704c5923b18c25c20041c51e364cdf1fca307ceaafe74715093b49",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:37:52.628879+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected actual pixels: same established angular face, dark hair and feather markings, now mature; clearly separated dark feathered rebuilding clothes and modest green theatre dress.",
+          "Human body/boots stay ordinary and uncrowned. Directed Eagle study remains connected to her silhouette and explicitly labeled symbolic scale; no autonomous creature, destruction or scene.",
+          "Exact name/title and state labels, unclipped silhouettes, warm opaque ivory and heavy painted faces/fabric."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "560311e998704c5923b18c25c20041c51e364cdf1fca307ceaafe74715093b49",
+        "references": [
+          {
+            "path": "stories/when-the-eagle-bowed/art/characters/yavren.png",
+            "role": "Inspected recurring Yavren face/hair/cheek markings; nine years later. Do not transfer sealed earlier talonmail or bow.",
+            "sha256": "2f777834f6e914886f7b89f6b1e599237583c44e74e93ab4cffdc721a90726ef",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/title-image.jpg",
+            "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+            "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+            "inspected": true
+          },
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+            "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+            "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "443aba303e978548f13662f381d7a8ffb3415b4aa3f3e115f6f52ee0c9599d94"
+      }
+    },
+    {
+      "id": "irdas",
+      "name": "Irdas",
+      "role": "adult lover; actor and theatre-company leader",
+      "selectionEvidence": [
+        {
+          "quote": "At thirty-six he had acquired a little silver above his ears",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Human man, 36; dark curls, silver above ears, ordinary working clothes and a stage robe in final scene.",
+      "storyAppearance": {
+        "description": "Human man, 36; dark curls, silver above ears, ordinary working clothes and a stage robe in final scene."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Cover/original-supported warm olive skin, dark curls and short stubble; silver at temples added from explicit source.",
+        "Ordinary charcoal linen shirt, brown trousers/boots; full burgundy stage robe is restrained performance costume, no armored warrior."
+      ],
+      "recurrence": {
+        "identityKey": "yavrens-return:irdas",
+        "links": [],
+        "evidence": "Source-local identity, no name/role coincidence used to infer shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+          "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "inspected": true
+        },
+        {
+          "path": "stories/yavrens-return/title-image.jpg",
+          "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+          "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+          "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+          "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Irdas"
+      },
+      "output": "stories/yavrens-return/art/characters/irdas.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:29:04.813045+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Irdas\". Adult man age36, warm olive skin, thick DARK CURLS with a LITTLE SILVER ABOVE BOTH EARS, short dark stubble, strong slightly aquiline nose, warm deep brown eyes. Match lover identity in cover/original but render as natural PAINTED human, not warrior or fashion model. Lean ordinary actor's body, not oversized muscles. LEFT full front-three-quarter in soft charcoal open-neck linen shirt, sleeves rolled to forearms, plain brown trousers, low dark boots, simple leather belt; charcoal stains on attached fingertips and a closed thin rehearsal notebook under one arm. CENTER full same man wearing a full length muted burgundy stage robe over same clothing, fastened modestly, sober cream facing and no crown or weapon; label \"Stage robe\". RIGHT large approachable thoughtful face portrait, silver temples clear. Main view label \"Rehearsal\". Entire bodies inside frame. This is an actor/company leader, no magic powers, battle armor or sword from original reference.",
+            "references": [
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              },
+              {
+                "path": "stories/yavrens-return/title-image.jpg",
+                "role": "Inspected source cover lover identities/feather clothing; subordinate to prose and existing character anchor.",
+                "sha256": "9c423df8f7ac2642918e25f4f0b96886e2e71f8d5d1a77a98ff7c83c0ffe9ce4",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/recovered-story-references/codex-clipboard-f77b39a0-3e18-44ec-aefd-b9111f835c77.png",
+                "role": "Inspected required original: adult lovers' dark hair and Eagle silhouette only; no red eclipse, burning ruins, exposed-thigh costume, sword, armor or photoreal rendering.",
+                "sha256": "b80790b611838733ace5b4413de5dd0018487ad034a46929fadcdcdaa3c8e8f3",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-b0c73f14-435e-402b-b6e1-82aa0cc9446f.png",
+            "candidateSha256": "12bae00e868009f3d03c7692f115c1a8c97d2ffa93a2d124eae7cd171aaac3de",
+            "reviewedAt": "2026-09-24T16:37:52.647622+00:00",
+            "findings": [
+              "Root inspected actual pixels: dark curls, silver above ears and natural mature olive face match source age36 and inspected lover references.",
+              "Civilian charcoal shirt and separate labeled full stage robe replace nonbinding original armor; no weapons or magic. Notebook supports actor role, all complete forms.",
+              "Exact name/title, natural anatomy, strongly painted skin and connected broad oil masses on opaque ivory."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T17:05:14.998706+00:00",
+            "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-b0c73f14-435e-402b-b6e1-82aa0cc9446f.png",
+                "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+                "sha256": "12bae00e868009f3d03c7692f115c1a8c97d2ffa93a2d124eae7cd171aaac3de",
+                "inspected": true
+              }
+            ],
+            "preflight": "Independent semantic review passes seven cast selections, recurrence and source fidelity. Sole new presentation finding on these three selected images is external beige ground/contact shadows. Edits preserve all approved character pixels and headings; exact external candidate bytes supplied to avoid a self-changing file reference.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-0f87cb9d-b41f-4ffb-8a3b-9b3fc0fee322.png",
+            "candidateSha256": "66d1914398cfaaf4834bc07a575d1e68d5eed21ed36e3da96e6af1c94dea0f81",
+            "reviewedAt": "2026-09-24T17:21:13.209828+00:00",
+            "findings": [
+              "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+              "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+              "Independent cast/source review passed; requested presentation correction resolved."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-b0c73f14-435e-402b-b6e1-82aa0cc9446f.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "12bae00e868009f3d03c7692f115c1a8c97d2ffa93a2d124eae7cd171aaac3de",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "outputSha256": "66d1914398cfaaf4834bc07a575d1e68d5eed21ed36e3da96e6af1c94dea0f81",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T17:21:13.214577+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+          "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+          "Independent cast/source review passed; requested presentation correction resolved."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "66d1914398cfaaf4834bc07a575d1e68d5eed21ed36e3da96e6af1c94dea0f81",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-b0c73f14-435e-402b-b6e1-82aa0cc9446f.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "12bae00e868009f3d03c7692f115c1a8c97d2ffa93a2d124eae7cd171aaac3de",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "7d807003127d529e0b064c6f163110d8c9f45a1d5f87649296105ae183253a72"
+      }
+    },
+    {
+      "id": "pelka",
+      "name": "Pelka",
+      "role": "returning adult foster sister and valley advocate",
+      "selectionEvidence": [
+        {
+          "quote": "Pelka remained in the doorway with her dusty pack",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Adult human foster sister; traveler with dusty pack; advocates the valley petition and maintains chosen family contact.",
+      "storyAppearance": {
+        "description": "Adult human foster sister; traveler with dusty pack; advocates the valley petition and maintains chosen family contact."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Continue accepted medium olive skin, broad square jaw, hazel eyes, russet-brown braid; nine years older, around forty as art interpretation.",
+        "Moss wool travel tunic, brown trousers/boots and dusty pack. Old injury bandage, pie, snares and rope are not carried into the present visit."
+      ],
+      "recurrence": {
+        "identityKey": "when-the-eagle-bowed:pelka",
+        "links": [
+          "stories/when-the-eagle-bowed/art/characters/pelka.png"
+        ],
+        "evidence": "Explicit recurring identity in sequel prompt, nine years later; same face retained."
+      },
+      "references": [
+        {
+          "path": "stories/when-the-eagle-bowed/art/characters/pelka.png",
+          "role": "Inspected recurring identity, nine years older; no old calf bandage, pie or trap equipment retained.",
+          "sha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+          "inspected": true
+        },
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "source",
+        "name": "Pelka"
+      },
+      "output": "stories/yavrens-return/art/characters/pelka.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:29:04.819439+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Pelka\". Same identity as first character anchor but nine years older, art age about40: sturdy capable adult woman with medium olive skin, broad square jaw, hazel eyes, short blunt russet-brown braid with a few loose curls and faint first gray strands. Natural mature face, firm affectionate impatience, no anime proportions. Ordinary moss-green wool travel tunic over cream shirt, brown trousers and leather walking boots. Dusty brown PACK carried over shoulders, rolled folded paper petition tucked under one elbow. Two full views frontthreequarter and rear to show pack, plus large calm intent face portrait. No old calf injury/bandage, no grouse pie, six snares, weapon display or coils of rope. Dust on boots and pack describes travel without drawing ground. Full source shape and selected visit state only.",
+            "references": [
+              {
+                "path": "stories/when-the-eagle-bowed/art/characters/pelka.png",
+                "role": "Inspected recurring identity, nine years older; no old calf bandage, pie or trap equipment retained.",
+                "sha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+                "inspected": true
+              },
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-a2e5a022-a43b-41c6-932f-6e53361c1ade.png",
+            "candidateSha256": "481d5009cb468f23c1590faa6e4b0d4883190a10d8cfcb6898660646b40241f5",
+            "reviewedAt": "2026-09-24T16:37:52.670988+00:00",
+            "findings": [
+              "Root independently compared actual prior and new sheets: same russet braid, broad face, olive skin and moss clothing, subtly aged and now with dusty travel pack/valley petition.",
+              "No earlier injury bandage, snares, grouse pie or unrequested weapon inventory. Full front/rear and portrait are one consistent mature adult identity.",
+              "Exact title/name, full boots and pack, opaque ivory and inherited oil rendering."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Pelka\". Same identity as first character anchor but nine years older, art age about40: sturdy capable adult woman with medium olive skin, broad square jaw, hazel eyes, short blunt russet-brown braid with a few loose curls and faint first gray strands. Natural mature face, firm affectionate impatience, no anime proportions. Ordinary moss-green wool travel tunic over cream shirt, brown trousers and leather walking boots. Dusty brown PACK carried over shoulders, rolled folded paper petition tucked under one elbow. Two full views frontthreequarter and rear to show pack, plus large calm intent face portrait. No old calf injury/bandage, no grouse pie, six snares, weapon display or coils of rope. Dust on boots and pack describes travel without drawing ground. Full source shape and selected visit state only.",
+        "references": [
+          {
+            "path": "stories/when-the-eagle-bowed/art/characters/pelka.png",
+            "role": "Inspected recurring identity, nine years older; no old calf bandage, pie or trap equipment retained.",
+            "sha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "outputSha256": "481d5009cb468f23c1590faa6e4b0d4883190a10d8cfcb6898660646b40241f5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:37:52.675326+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root independently compared actual prior and new sheets: same russet braid, broad face, olive skin and moss clothing, subtly aged and now with dusty travel pack/valley petition.",
+          "No earlier injury bandage, snares, grouse pie or unrequested weapon inventory. Full front/rear and portrait are one consistent mature adult identity.",
+          "Exact title/name, full boots and pack, opaque ivory and inherited oil rendering."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "481d5009cb468f23c1590faa6e4b0d4883190a10d8cfcb6898660646b40241f5",
+        "references": [
+          {
+            "path": "stories/when-the-eagle-bowed/art/characters/pelka.png",
+            "role": "Inspected recurring identity, nine years older; no old calf bandage, pie or trap equipment retained.",
+            "sha256": "15ac2c4a6bf0f4efe99a93fa375eca8a18f83da2e5b8538d151d3fcbf4a4d463",
+            "inspected": true
+          },
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "93ce0165af2258b84d451d12432b49b3069f52a684142f893ad5ad66dea070fa"
+      }
+    },
+    {
+      "id": "vethelis",
+      "name": "Vethelis",
+      "role": "unnamed western queen; assembly negotiator",
+      "selectionEvidence": [
+        {
+          "quote": "She was older now, the jaw thinner",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Older human queen, female; thinner jaw than the earlier warrant memory, bargains over rents and customs.",
+      "storyAppearance": {
+        "description": "Older human queen, female; thinner jaw than the earlier warrant memory, bargains over rents and customs."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Authorized art-only name; not a new canon proper noun or assertion of identity with any unnamed ruler in another version.",
+        "Art age late60s, narrow pale weathered face, silver-black coiled hair; muted navy wool/silk civic gown and modest bronze coronet. No warfare equipment."
+      ],
+      "recurrence": {
+        "identityKey": "yavrens-return:vethelis",
+        "links": [],
+        "evidence": "Source-local identity, no name/role coincidence used to infer shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+          "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Vethelis",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "sourceRole": "unnamed western queen; assembly negotiator",
+        "notes": "Art-only name; no canon or prose edit."
+      },
+      "output": "stories/yavrens-return/art/characters/vethelis.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T16:29:04.826336+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Vethelis\", small readable role \"Western queen\". ONE older human woman late60s, long narrow pale weathered face and noticeably THIN JAW, steady small gray eyes, silver-and-black hair braided into a low formal coil. Natural age lines, strong stern expression rather than villain caricature. Medium height slight body. Long modest dark navy wool/silk gown, high soft collar, muted blue-gray mantle, narrow bronze coronet, practical black shoes. Small closed leather folio and folded customs papers held naturally, no visible invented text or sigils. Two complete views frontthreequarter/rear, large elderly portrait. Negotiating in diffuse theatre daylight; costume is restrained art choice. No sword, staff, elaborate throne or magic. Preserve her authority through posture and face, not scene props.",
+            "references": [
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-e80f40eb-47f8-47e0-962d-73b80e4d5981.png",
+            "candidateSha256": "da0ded8db25d7d548513e634782ec320cc04f4f3306b928e52702597fa232f9f",
+            "reviewedAt": "2026-09-24T16:37:52.689187+00:00",
+            "findings": [
+              "Identity, elderly narrow jaw, costume, full views and natural painted face pass, but the required story title is absent. Add exact subtitle without changing artwork."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:37:52.890653+00:00",
+            "prompt": "Edit this existing character sheet only to restore its missing story title. Retain all figure pixels, face identity, oil paint handling, complete body views, clothes and warm ivory background. Exact readable heading \"Vethelis\" remains at upper left. Directly below that name add the exact subtitle \"Where the Eagle Lands\" in dark clean readable serif lettering. Below the subtitle keep the smaller role \"Western queen\". Arrange these three lines within the open top-left ivory area, allowing modest reduction of the name size if needed; do not cover any figure. The story title MUST appear in full, correctly spelled. No other wording, background, texture or illustration change. Final image remains opaque 1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-e80f40eb-47f8-47e0-962d-73b80e4d5981.png",
+                "role": "Inspected candidate; preserve all passing artwork and add required exact subtitle only.",
+                "sha256": "da0ded8db25d7d548513e634782ec320cc04f4f3306b928e52702597fa232f9f",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root actual pixel review: source identity/rendering/framing passed, sole blocker missing story title. Upper-left ivory supports three compact lines without figure overlap.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-c59148a8-aa67-490c-884f-ec1cc16d35ef.png",
+            "candidateSha256": "51099b0c061dd8285b6bee364763f3100ffe2e4ff6c4fea141a29a9bbd738839",
+            "reviewedAt": "2026-09-24T16:56:31.774184+00:00",
+            "findings": [
+              "Root inspected corrected actual pixels: exact character name, Where the Eagle Lands and source role now readable in three lines without covering a figure.",
+              "Previously passing mature identity, complete costume views and restrained ordinary equipment preserved; no new canon identity asserted.",
+              "Natural broad oil-painted face and clothing, consistent anatomy, opaque ivory, full unclipped silhouettes and no scenery or swatches."
+            ]
+          },
+          {
+            "attempt": 3,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T17:05:15.010190+00:00",
+            "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-c59148a8-aa67-490c-884f-ec1cc16d35ef.png",
+                "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+                "sha256": "51099b0c061dd8285b6bee364763f3100ffe2e4ff6c4fea141a29a9bbd738839",
+                "inspected": true
+              }
+            ],
+            "preflight": "Independent semantic review passes seven cast selections, recurrence and source fidelity. Sole new presentation finding on these three selected images is external beige ground/contact shadows. Edits preserve all approved character pixels and headings; exact external candidate bytes supplied to avoid a self-changing file reference.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-5b889350-b05e-416e-9c2f-4695bfb9ef7d.png",
+            "candidateSha256": "7dc4fd86bd4c7fbd8a0c0342ddeb8184be053b26492ee19e37c72eb5145d4ed5",
+            "reviewedAt": "2026-09-24T17:21:13.253973+00:00",
+            "findings": [
+              "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+              "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+              "Independent cast/source review passed; requested presentation correction resolved."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-c59148a8-aa67-490c-884f-ec1cc16d35ef.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "51099b0c061dd8285b6bee364763f3100ffe2e4ff6c4fea141a29a9bbd738839",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "outputSha256": "7dc4fd86bd4c7fbd8a0c0342ddeb8184be053b26492ee19e37c72eb5145d4ed5",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T17:21:13.258558+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+          "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+          "Independent cast/source review passed; requested presentation correction resolved."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "7dc4fd86bd4c7fbd8a0c0342ddeb8184be053b26492ee19e37c72eb5145d4ed5",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-c59148a8-aa67-490c-884f-ec1cc16d35ef.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "51099b0c061dd8285b6bee364763f3100ffe2e4ff6c4fea141a29a9bbd738839",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "d2d6e9aa7696355748585171676c185d1fe8030c3ddf2ee056216f3f8f93e52c"
+      }
+    },
+    {
+      "id": "ardovan",
+      "name": "Ardovan",
+      "role": "unnamed southern king; assembly negotiator",
+      "selectionEvidence": [
+        {
+          "quote": "But my wool merchants can't sell north while your soldiers take half their loads",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Adult human king, male; negotiates markets, detained travelers and garrisons.",
+      "storyAppearance": {
+        "description": "Adult human king, male; negotiates markets, detained travelers and garrisons."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Authorized art-only name; story does not establish identity with the alternate predecessor's dead ash king.",
+        "Art age early60s, stocky tawny-skinned man, rounded face, balding graying hair and short beard; plum and charcoal civic robes, modest bronze circlet."
+      ],
+      "recurrence": {
+        "identityKey": "yavrens-return:ardovan",
+        "links": [],
+        "evidence": "Source-local identity, no name/role coincidence used to infer shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+          "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Ardovan",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "sourceRole": "unnamed southern king; assembly negotiator",
+        "notes": "Art-only name; no canon or prose edit."
+      },
+      "output": "stories/yavrens-return/art/characters/ardovan.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "REVISE",
+            "submittedAt": "2026-09-24T16:29:04.832992+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Ardovan\", small role \"Southern king\". ONE natural human man early60s, stocky broad body, tawny warm skin, rounded broad nose, small deep brown eyes, balding graying dark curls at sides, close salt-and-pepper beard, blunt practical and slightly tired expression. Modest plum-red wool robe with charcoal-gray facing and simple belt, dark trousers/boots visible under hem, narrow bronze circlet. Two full frontthreequarter/rear views and large face portrait. A folded trade memorandum held casually, no symbols/text required. This is a civic negotiation state with no armor, sword, magic or throne. Do not copy the woman in face-style reference; only use equally painted natural facial planes.",
+            "references": [
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-5a0db577-41e6-45ca-8f08-588d6b225a63.png",
+            "candidateSha256": "f3d5b0394681b84dfa1cfeb532b8ab6f21b1f016b41f7935e50cda87f1970210",
+            "reviewedAt": "2026-09-24T16:37:52.693321+00:00",
+            "findings": [
+              "Stocky older male ruler, ordinary robes, natural painted face and complete views pass, but required story title is absent. Add exact subtitle without changing identity."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:37:52.895580+00:00",
+            "prompt": "Edit this existing character sheet only to restore its missing story title. Retain all figure pixels, face identity, oil paint handling, complete body views, clothes and warm ivory background. Exact readable heading \"Ardovan\" remains at upper left. Directly below that name add the exact subtitle \"Where the Eagle Lands\" in dark clean readable serif lettering. Below the subtitle keep the smaller role \"Southern king\". Arrange these three lines within the open top-left ivory area, allowing modest reduction of the name size if needed; do not cover any figure. The story title MUST appear in full, correctly spelled. No other wording, background, texture or illustration change. Final image remains opaque 1536x1024.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-5a0db577-41e6-45ca-8f08-588d6b225a63.png",
+                "role": "Inspected candidate; preserve all passing artwork and add required exact subtitle only.",
+                "sha256": "f3d5b0394681b84dfa1cfeb532b8ab6f21b1f016b41f7935e50cda87f1970210",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root actual pixel review: source identity/rendering/framing passed, sole blocker missing story title. Upper-left ivory supports three compact lines without figure overlap.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-a116e5c5-831d-44bc-a29f-34bd02227ffd.png",
+            "candidateSha256": "d08c0719860bc86524a98208e0e0b1cc02713374183a3cc4e14e730809c8fb13",
+            "reviewedAt": "2026-09-24T16:56:31.789478+00:00",
+            "findings": [
+              "Root inspected corrected actual pixels: exact character name, Where the Eagle Lands and source role now readable in three lines without covering a figure.",
+              "Previously passing mature identity, complete costume views and restrained ordinary equipment preserved; no new canon identity asserted.",
+              "Natural broad oil-painted face and clothing, consistent anatomy, opaque ivory, full unclipped silhouettes and no scenery or swatches."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this existing character sheet only to restore its missing story title. Retain all figure pixels, face identity, oil paint handling, complete body views, clothes and warm ivory background. Exact readable heading \"Ardovan\" remains at upper left. Directly below that name add the exact subtitle \"Where the Eagle Lands\" in dark clean readable serif lettering. Below the subtitle keep the smaller role \"Southern king\". Arrange these three lines within the open top-left ivory area, allowing modest reduction of the name size if needed; do not cover any figure. The story title MUST appear in full, correctly spelled. No other wording, background, texture or illustration change. Final image remains opaque 1536x1024.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-5a0db577-41e6-45ca-8f08-588d6b225a63.png",
+            "role": "Inspected candidate; preserve all passing artwork and add required exact subtitle only.",
+            "sha256": "f3d5b0394681b84dfa1cfeb532b8ab6f21b1f016b41f7935e50cda87f1970210",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "outputSha256": "d08c0719860bc86524a98208e0e0b1cc02713374183a3cc4e14e730809c8fb13",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:56:31.819945+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected corrected actual pixels: exact character name, Where the Eagle Lands and source role now readable in three lines without covering a figure.",
+          "Previously passing mature identity, complete costume views and restrained ordinary equipment preserved; no new canon identity asserted.",
+          "Natural broad oil-painted face and clothing, consistent anatomy, opaque ivory, full unclipped silhouettes and no scenery or swatches."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "d08c0719860bc86524a98208e0e0b1cc02713374183a3cc4e14e730809c8fb13",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-5a0db577-41e6-45ca-8f08-588d6b225a63.png",
+            "role": "Inspected candidate; preserve all passing artwork and add required exact subtitle only.",
+            "sha256": "f3d5b0394681b84dfa1cfeb532b8ab6f21b1f016b41f7935e50cda87f1970210",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "837d4fdc8a4494a92eecb9ffb6ee43726e85534232ea77d816084a5f859bbb51"
+      }
+    },
+    {
+      "id": "perenz",
+      "name": "Perenz",
+      "role": "unnamed hill regent; proposes common assembly",
+      "selectionEvidence": [
+        {
+          "quote": "A common assembly, the regent proposed",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Adult human male regent; argues for common defense and the representative assembly.",
+      "storyAppearance": {
+        "description": "Adult human male regent; argues for common defense and the representative assembly."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Authorized art-only name with no cross-story identity asserted.",
+        "Art age late40s, tall lean dark-skinned man, narrow long face, close black hair graying at sides, clean-shaven; sage-gray wool coat, small office clasp, no king's crown."
+      ],
+      "recurrence": {
+        "identityKey": "yavrens-return:perenz",
+        "links": [],
+        "evidence": "Source-local identity, no name/role coincidence used to infer shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+          "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Perenz",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "sourceRole": "unnamed hill regent; proposes common assembly",
+        "notes": "Art-only name; no canon or prose edit."
+      },
+      "output": "stories/yavrens-return/art/characters/perenz.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:29:04.839587+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Perenz\", small role \"Hill regent\". ONE human male late40s, tall and lean, deep brown skin, long narrow face, high cheekbones, slightly hooked nose, close-cropped black hair graying at sides, clean-shaven jaw and small dark eyes. Deliberate listening expression. Modest sage-gray knee-length wool coat over muted ochre waistcoat/cream shirt, dark gray trousers and weathered tall brown boots; a small plain bronze office clasp but NO crown, royal scepter or magic. Frontthreequarter and rear full views plus large natural portrait. One rolled assembly proposal held under arm; no readable invented legal text. Quiet diffuse daylight, broad oil-painted skin and fabric. Adult governance setting implied only by costume, no room or furniture.",
+            "references": [
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-f6add9cf-1777-48b1-b5ee-b0f31a8285aa.png",
+            "candidateSha256": "94c22cebda968c03fac2ba5f13886116809fac3e7801d41e3a63384e409a1450",
+            "reviewedAt": "2026-09-24T16:37:52.697646+00:00",
+            "findings": [
+              "Root inspected final pixels: mature lean male regent, natural dark face, gray/sage civilian coat and proposal paper; plain office clasp and no invented royal crown.",
+              "Front/rear and portrait remain one identity with source role and art-only design separated in spec. Exact name, story title and role all legible.",
+              "Full boots and broad painted face/cloth, opaque ivory and no setting or swatches."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Perenz\", small role \"Hill regent\". ONE human male late40s, tall and lean, deep brown skin, long narrow face, high cheekbones, slightly hooked nose, close-cropped black hair graying at sides, clean-shaven jaw and small dark eyes. Deliberate listening expression. Modest sage-gray knee-length wool coat over muted ochre waistcoat/cream shirt, dark gray trousers and weathered tall brown boots; a small plain bronze office clasp but NO crown, royal scepter or magic. Frontthreequarter and rear full views plus large natural portrait. One rolled assembly proposal held under arm; no readable invented legal text. Quiet diffuse daylight, broad oil-painted skin and fabric. Adult governance setting implied only by costume, no room or furniture.",
+        "references": [
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+            "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+            "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "outputSha256": "94c22cebda968c03fac2ba5f13886116809fac3e7801d41e3a63384e409a1450",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T16:37:52.702233+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected final pixels: mature lean male regent, natural dark face, gray/sage civilian coat and proposal paper; plain office clasp and no invented royal crown.",
+          "Front/rear and portrait remain one identity with source role and art-only design separated in spec. Exact name, story title and role all legible.",
+          "Full boots and broad painted face/cloth, opaque ivory and no setting or swatches."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "94c22cebda968c03fac2ba5f13886116809fac3e7801d41e3a63384e409a1450",
+        "references": [
+          {
+            "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+            "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+            "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+            "inspected": true
+          },
+          {
+            "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+            "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+            "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "bfcf4f3d796ef8e6060a7d867ee3c6fa4d60fd23293934b28ca862ae51855e3b"
+      }
+    },
+    {
+      "id": "orswick",
+      "name": "Orswick",
+      "role": "unnamed elected cooper; challenges royal claims",
+      "selectionEvidence": [
+        {
+          "quote": "a cooper who had lost two sons to different armies",
+          "explanation": "Substantial source role verified during complete prose read."
+        }
+      ],
+      "form": "Older human male cooper and elected Esvay resident; advocates settlement and equal town representation.",
+      "storyAppearance": {
+        "description": "Older human male cooper and elected Esvay resident; advocates settlement and equal town representation."
+      },
+      "explicitCanon": [],
+      "visualInterpretation": [
+        "Authorized art-only name for substantial speaking role.",
+        "Art age late50s, weathered medium-brown skin, graying beard and shaved head, broad worker's hands; russet work vest, linen shirt, trousers and rolled leather apron, no invented missing limbs."
+      ],
+      "recurrence": {
+        "identityKey": "yavrens-return:orswick",
+        "links": [],
+        "evidence": "Source-local identity, no name/role coincidence used to infer shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+          "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+          "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+          "inspected": true
+        },
+        {
+          "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+          "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+          "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+          "inspected": true
+        }
+      ],
+      "nameProvenance": {
+        "type": "art-assigned",
+        "name": "Orswick",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "sourceRole": "unnamed elected cooper; challenges royal claims",
+        "notes": "Art-only name; no canon or prose edit."
+      },
+      "output": "stories/yavrens-return/art/characters/orswick.png",
+      "status": "completed",
+      "blockers": [],
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "opaque warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false,
+        "isolatedHandStudies": false
+      },
+      "generation": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T16:29:04.846279+00:00",
+            "prompt": "Create one 1536x1024 landscape 3:2 character reference sheet on completely OPAQUE solid warm ivory. One identity only, complete unclipped figures with readable exact name and subtitle \"Where the Eagle Lands\". Useful complete views plus a large natural face study. Canadian Group of Seven oil illustration: broad connected opaque masses, directional bristle strokes, decisive knife planes and selective raised impasto. Paint natural human facial proportions and skin with the SAME bold oil construction as clothing. No anime eyes, photographic faces under a texture filter, smooth digital render, glossy CGI, universal orange rim or scattered tiny mosaic. No scenery, architectural vignette, floor patch, ground shadow, swatch/palette strip or isolated hand study. Use existing story painting for diffuse natural light, cool gray/slate shadows and quiet warm planes; no copied scenery. Neutral stance, clear spacing, all feet and costume edges within margins. Restrained unmentioned costume details are art interpretation only. Exact heading \"Orswick\", small role \"Esvay cooper\". ONE older human man late50s with medium-brown weathered skin, shaved head with short gray hair fringe, heavy brows, broad plain nose, short full gray-black beard and slightly tired but direct eyes. Stocky working build, grounded patient posture. Simple pale linen shirt sleeves rolled, russet-brown wool waistcoat, charcoal trousers, worn brown boots and rolled leather work apron tied at waist. No hammer raised or weapon, no barrels or surroundings; a small folded paper note in one hand, other hand resting naturally. Two whole front/rearthreequarter views and large face portrait. This man lost two sons, convey grave civic resolve without tears or heroic glow. Same heavy connected paint on mature skin as rough clothing; no polished photographic face.",
+            "references": [
+              {
+                "path": "stories/yavrens-return/art/interiors/01-the-winter-garden-stage.png",
+                "role": "Inspected primary broad oil paint and source-motivated diffuse daylight; no setting transferred.",
+                "sha256": "1276dd291f32b5648df3b8ca7cca937d901dabe1bae756f351186fa58f71e2c8",
+                "inspected": true
+              },
+              {
+                "path": "stories/the-names-on-the-cups/art/characters/nora.png",
+                "role": "Inspected natural adult painted face style only; no identity, gender, clothes or palette transferred.",
+                "sha256": "cd3f158f84122b9b68fd29c1568ef3c7515ed62dbf505d0be002932b171b7995",
+                "inspected": true
+              }
+            ],
+            "preflight": "Root read the complete finished sequel, prompt and review; checked earlier identity specs and actual Yavren/Pelka pixels, original, cover and current paintings. Source is separate prompt-authorized departure history: do not inherit predecessor conquest ending. Framing supports one identity and useful views on ivory, <=4 useful references, source-specific civilian costumes. Exact title and name verified; art-only names collision checked.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-0ddb848d-af1a-4c8d-ad90-8860b8665e33.png",
+            "candidateSha256": "5562d00ffac02ff2a138447c8286b281f9c81efadf20019906ae12579e67ed22",
+            "reviewedAt": "2026-09-24T16:45:04.724812+00:00",
+            "findings": [
+              "Root inspected actual recovered result after interruption: natural older cooper with consistent face, gray-black beard, work vest, ordinary linen and leather apron in front/rear/portrait.",
+              "Exact name, source role and story title all readable, broad oil treatment across mature face and clothes, full unclipped silhouettes and opaque ivory.",
+              "No invented powers, missing limbs, scene or royal status; restrained appearance choices and authorized art-only name recorded separately from source."
+            ]
+          },
+          {
+            "attempt": 2,
+            "status": "PASS",
+            "submittedAt": "2026-09-24T17:05:15.005481+00:00",
+            "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0ddb848d-af1a-4c8d-ad90-8860b8665e33.png",
+                "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+                "sha256": "5562d00ffac02ff2a138447c8286b281f9c81efadf20019906ae12579e67ed22",
+                "inspected": true
+              }
+            ],
+            "preflight": "Independent semantic review passes seven cast selections, recurrence and source fidelity. Sole new presentation finding on these three selected images is external beige ground/contact shadows. Edits preserve all approved character pixels and headings; exact external candidate bytes supplied to avoid a self-changing file reference.",
+            "tool": "image_gen__imagegen",
+            "candidatePath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d3e1-4c6b-7b33-ae71-68d91ce392fa\\exec-8498e2cd-84ce-4f9f-bd83-edddd6f948d2.png",
+            "candidateSha256": "8f213448012369363d5a2add93d13c71e2329f91cbc28e6f8fc36ac31b252a64",
+            "reviewedAt": "2026-09-24T17:21:13.236347+00:00",
+            "findings": [
+              "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+              "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+              "Independent cast/source review passed; requested presentation correction resolved."
+            ]
+          }
+        ],
+        "tool": "image_gen__imagegen",
+        "backendModel": "Not reported by built-in tool",
+        "prompt": "Edit this existing character reference sheet with ONE narrowly targeted correction: remove all beige/tan/gray GROUND PATCHES and CAST/CONTACT SHADOWS around and beneath the full-body figures' shoes and hems, replacing those background marks with uninterrupted warm ivory matching the surrounding paper. Figures may stand against blank ivory with no ground mark whatsoever. Preserve the complete shoes/boots/hem silhouettes, every person and face, painted oil treatment, all identifying headings, exact story title Where the Eagle Lands, role/state labels, costume details, spacing and composition. Do not retouch faces, change colors, crop bodies or add anything. Opaque warm ivory 1536x1024 landscape remains. Only erase paint that represents floor/contact shadow outside the characters; do not erase their feet.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0ddb848d-af1a-4c8d-ad90-8860b8665e33.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "5562d00ffac02ff2a138447c8286b281f9c81efadf20019906ae12579e67ed22",
+            "inspected": true
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "outputSha256": "8f213448012369363d5a2add93d13c71e2329f91cbc28e6f8fc36ac31b252a64",
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T17:21:13.241222+00:00",
+        "reviewer": "root-character-resume",
+        "evidence": [
+          "Root inspected final saved pixels: broad floor shadows removed; warm ivory background continuous.",
+          "Natural painted face, clothing, full identity, exact heading and story title preserved.",
+          "Independent cast/source review passed; requested presentation correction resolved."
+        ],
+        "sourceSha256": "f9f18a171dba9291629572bd92bde5c81edb00bb6a1c04bf8ef4e340231dc2c2",
+        "outputSha256": "8f213448012369363d5a2add93d13c71e2329f91cbc28e6f8fc36ac31b252a64",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d3e1-4c6b-7b33-ae71-68d91ce392fa/exec-0ddb848d-af1a-4c8d-ad90-8860b8665e33.png",
+            "role": "Root and independent reviewer inspected selected character sheet; remove only external ground/shadow patches.",
+            "sha256": "5562d00ffac02ff2a138447c8286b281f9c81efadf20019906ae12579e67ed22",
+            "inspected": true
+          }
+        ],
+        "specificationSha256": "78ae02ca2c293bebfcdc7d826d344593fe2c72e0bb34105dee9f1fe7f1be10c2"
+      }
+    }
+  ]
+}
