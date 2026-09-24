@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "slug": "everyone-knows-her",
+  "title": "All the Ways They Knew Her",
+  "source": "stories/everyone-knows-her/story.md",
+  "sourceSha256": "471ec3f2238d0855494b0b62fb96a4d4b62060fa47ea3e3c2fe4b27720681617",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished source read through final counter handover. Four recurring/decisive roles: adult skater viewpoint and choice; halfway steward resolves recognition and manages exit; niece gives deadline and clasp payoff; sibling creates relief promise and final consequence. All unnamed; art-only names assigned under explicit user direction.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Gate volunteers, stall vendors, workers, parents, children, performers, marshal, assisting adult and customer",
+      "reason": "Background crowd or brief functional encounters; no sustained individual arc beyond four selected roles."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md: only universe establishes shared facts",
+    "Exact source/character-title search: no universe entry; no magical recognition claimed; ordinary radios, social observation and annual memory explain plot",
+    "No supplied story reference images; cover inspected but known costume/hair-state conflicts follow finished prose"
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "cressa",
+      "name": "Cressa",
+      "sourceIdentityId": "cressa",
+      "nameAssignment": {
+        "name": "Cressa",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Adult woman skater and viewpoint protagonist",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Cressa, Rennick, Avenna and Bevin searched across universe, frozen NAMES and repository story Markdown; no matches."
+      },
+      "role": "Adult woman skater and viewpoint protagonist",
+      "selectionEvidence": [
+        {
+          "line": 19,
+          "quote": "Adult on skates.",
+          "explanation": "Explicit adult."
+        },
+        {
+          "line": 89,
+          "quote": "Blue jacket despite the heat",
+          "explanation": "Exact identifying wardrobe and tied hair."
+        },
+        {
+          "line": 197,
+          "quote": "That’s what getting off means.",
+          "explanation": "Decisive safe dismount and route choice."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Ordinary adult woman; athletic balance, no magic.",
+        "lifeStage": "Adult; exact age unstated.",
+        "proportions": "Ordinary human, cover athletic build.",
+        "markings": "Possible pale grease smear on thumb from clasp repair.",
+        "materials": "Blue jacket, black shorts, red canvas bag, skates and thin shoes.",
+        "clothing": "Blue jacket with zipped inner pocket, black shorts, hair tied up badly; thin shoes for later stall shift.",
+        "equipment": "Inline rollerblades, red canvas shoulder bag, repaired small metal clasp, phone; thin shoes lashed under bag before dismount.",
+        "scale": "Adult human.",
+        "movement": "Skates with controlled edges then dismounts, carries skates and runs on thin shoes.",
+        "distinctiveFeatures": "Source colour triad identifies her, not supernatural recognition."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no shared-universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent early30s, tan skin, oval broad-cheeked face, dark curly hair in messy high tie, cover-compatible appearance reinterpreted in oils.",
+        "Blue light zip jacket, plain charcoal undershirt, black mid-thigh practical shorts, red canvas one-shoulder bag; dark four-wheel inline skates. Main skating state plus on-foot state in thin slip-on shoes carrying skates. No glamorous posing."
+      ],
+      "states": [
+        {
+          "label": "On skates",
+          "description": "Source jacket/shorts/bag and tied hair; inline skate views."
+        },
+        {
+          "label": "On foot",
+          "description": "Thin shoes, skates carried after responsible exit."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "everyone-knows-her:cressa",
+        "links": [],
+        "evidence": "Unnamed local figure; no evidence of recurrence. Art name does not imply shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/everyone-knows-her/title-image.jpg",
+          "role": "inspected protagonist face/skin/curly hair only; source overrides obsolete black tank/olive shorts/unbound hair; anime rendering excluded",
+          "sha256": "92602158d149a6087636dab049e20654a4a51427af21f53e81848310dae9f9c6",
+          "inspected": true,
+          "notes": "Cover tan adult woman with dark curly hair. Finished prose requires blue jacket, black shorts, red canvas shoulder bag, hair tied up; no other cover figure establishes cast identity."
+        },
+        {
+          "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+          "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+          "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+          "inspected": true,
+          "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+        }
+      ],
+      "output": "stories/everyone-knows-her/art/characters/cressa.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make TWO narrow continuity corrections to this Cressa oil character folio.\n1. In the LARGE REAR full-body view ONLY, move the red shoulder strap, red canvas bag and attached pair of thin shoes to the woman's anatomical LEFT side. Because we see her back, that is IMAGE-LEFT shoulder and IMAGE-LEFT hip. At present the rear bag is on image-right, which is wrong. Repaint old rear strap/bag area as uninterrupted blue jacket/black shorts and put the same bag/shoes image-left. The front view and small on-foot view already have the correct bag side: do not change them. Keep all body poses/anatomy unchanged.\n2. In the separate \"Repaired clasp\" detail ONLY, remove BOTH pieces of red cloth/webbing attached to the metal clasp ends. Leave the same bare metal repaired spring clasp, isolated on ivory. It is a metal part carried in a pocket, not a red-bag accessory.\n\nPreserve everything else exactly: adult Cressa identity, messy tied curls, blue jacket, black shorts, natural body, skates/wheels, distinct on-foot thin-shoes state carrying both skates, all headings including \"Cressa\" and \"All the Ways They Knew Her\", labels, sunny restrained oil lighting, broad impasto, layout and warm ivory. No scenery, floor marks, palette swatches or new equipment.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:05:32.028661+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 3:2 character-only OIL reference folio on warm IVORY. Exact upper-left heading \"Cressa\", smaller subtitle \"All the Ways They Knew Her\". Cressa is the authorized art name of the source's unnamed adult skater.\n\nAdult HUMAN woman, apparent early30s, tan skin, oval broad-cheeked face, dark brown eyes, dark CURLY hair tied up badly in a messy high tie. Athletic ordinary adult build, practical gestures, no glamour pose. Current source clothing is essential: light BLUE zip jacket with zipped inner pocket, plain charcoal undershirt, BLACK practical mid-thigh shorts, RED CANVAS SHOULDER BAG. Dark inline rollerblade boots, a straight single row of four small wheels per skate with unobtrusive heel brake blocks. No fantasy clothes, armour, cape or powers. She is no child/teen.\n\nLeft two-thirds: two large complete views \"On skates\", front three-quarter and rear three-quarter, hair to wheels fully visible. Bag on the same shoulder/hip consistently, jacket/shorts same. Her thin shoes are lashed below red bag in this state. Upper right same identity head \"Recognizing the cost\": thoughtful and alert, looking sideways. Lower right a smaller full figure \"On foot\": same jacket/black shorts/red bag, NOW wearing the thin plain shoes and carrying BOTH removed skates by their frames low in one hand. No extra pair of shoes still attached beneath the bag in the foot state. The two states must be distinct. One small isolated practical metal spring clasp near an open gap labelled \"Repaired clasp\", no decorative symbols. Ordinary five-digit hands and balanced joints.\n\nInput1 summer landscape is PRIMARY for Canadian Group of Seven paint treatment and natural SUMMER NOON light, broad rhythm of colour/value masses and connected muted cool shadow. Extract NO trees, road, buildings or ground. Input2 Seris folio is only character oil-form/presentation reference, NO face/hair/armour/clothes/medieval gear. Do not copy either image's subject. Warm sun on a few upper planes, natural cool grey-green shade over the far side, restrained highlights rather than rim spectacle. This story's daylight is appropriate, but keep coherent shadows and matte eyes.\n\nHeavy oil with broad varied directional opaque strokes, large connected colour shapes and selective substantial impasto, faces and hands painted as decisively as fabric. No smooth CGI/photo/anime face, uniform tiny bevelled chips or airbrush. Quiet ivory support remains blank and unshaded. Exact name/title/short labels only. NO festival scene, pavement, floor/contact shadows, ground patches, bystanders, swatches/palette bars or decorative text.",
+            "references": [
+              {
+                "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+                "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+                "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+                "inspected": true,
+                "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+              },
+              {
+                "path": "stories/daughter-of-the-sun/art/characters/seris-venn.png",
+                "role": "approved oil-form/folio presentation only; no identity or fantasy costume transfer",
+                "inspected": true,
+                "sha256": "3e5ee6d966d3eae80cff3d4f21e901b7709e95ff25e8a24d1e56b57b0bed437c"
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e8b44415-7cb7-4047-a2f5-037204322233.png",
+            "returnedSha256": "a6befd66f1a8ae47a0c4b0b8d7e5af8b51fd96311efe2e8e5b8df81794429a08",
+            "completedAt": "2026-09-24T03:10:54.843057+00:00",
+            "review": "Identity, source blue jacket/black shorts/red bag/tied hair, skates/foot states, summer oil lighting and text pass. REVISE rear shoulder-bag mirrored: front and on-foot bag is anatomical left, rear currently anatomical right. Move rear strap/bag/shoes to image-left. Remove invented red fabric tabs from isolated repaired clasp; display bare metal."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:10:55.847299+00:00",
+            "status": "PASS",
+            "prompt": "Make TWO narrow continuity corrections to this Cressa oil character folio.\n1. In the LARGE REAR full-body view ONLY, move the red shoulder strap, red canvas bag and attached pair of thin shoes to the woman's anatomical LEFT side. Because we see her back, that is IMAGE-LEFT shoulder and IMAGE-LEFT hip. At present the rear bag is on image-right, which is wrong. Repaint old rear strap/bag area as uninterrupted blue jacket/black shorts and put the same bag/shoes image-left. The front view and small on-foot view already have the correct bag side: do not change them. Keep all body poses/anatomy unchanged.\n2. In the separate \"Repaired clasp\" detail ONLY, remove BOTH pieces of red cloth/webbing attached to the metal clasp ends. Leave the same bare metal repaired spring clasp, isolated on ivory. It is a metal part carried in a pocket, not a red-bag accessory.\n\nPreserve everything else exactly: adult Cressa identity, messy tied curls, blue jacket, black shorts, natural body, skates/wheels, distinct on-foot thin-shoes state carrying both skates, all headings including \"Cressa\" and \"All the Ways They Knew Her\", labels, sunny restrained oil lighting, broad impasto, layout and warm ivory. No scenery, floor marks, palette swatches or new equipment.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e8b44415-7cb7-4047-a2f5-037204322233.png",
+                "role": "immutable edit target; fix rear bag side and remove red clasp tabs only",
+                "inspected": true,
+                "sha256": "a6befd66f1a8ae47a0c4b0b8d7e5af8b51fd96311efe2e8e5b8df81794429a08"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+            "returnedSha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a",
+            "completedAt": "2026-09-24T03:17:01.242290+00:00",
+            "review": [
+              "Actual corrected pixels inspected: bag consistently on anatomical left shoulder/hip in both main views and on-foot state; rear now image-left. Isolated repaired metal clasp no longer has invented red tabs.",
+              "Adult identity, source blue jacket/black shorts/red bag/tied curly hair preserved; main inline skates and later thin-shoes state carrying removed skates clearly distinguished, no duplicate shoes in foot state.",
+              "Summer daylight and connected muted shadow, broad oil masses over skin/fabric; exact art name/story title readable, ordinary hands, unclipped silhouettes, no festival/location/ground/swatch. Art-only naming/source override provenance recorded and pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e8b44415-7cb7-4047-a2f5-037204322233.png",
+            "role": "immutable edit target; fix rear bag side and remove red clasp tabs only",
+            "inspected": true,
+            "sha256": "a6befd66f1a8ae47a0c4b0b8d7e5af8b51fd96311efe2e8e5b8df81794429a08"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:17:01.242290+00:00",
+        "sourceSha256": "471ec3f2238d0855494b0b62fb96a4d4b62060fa47ea3e3c2fe4b27720681617",
+        "outputSha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-e8b44415-7cb7-4047-a2f5-037204322233.png",
+            "role": "immutable edit target; fix rear bag side and remove red clasp tabs only",
+            "inspected": true,
+            "sha256": "a6befd66f1a8ae47a0c4b0b8d7e5af8b51fd96311efe2e8e5b8df81794429a08"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: bag consistently on anatomical left shoulder/hip in both main views and on-foot state; rear now image-left. Isolated repaired metal clasp no longer has invented red tabs.",
+          "Adult identity, source blue jacket/black shorts/red bag/tied curly hair preserved; main inline skates and later thin-shoes state carrying removed skates clearly distinguished, no duplicate shoes in foot state.",
+          "Summer daylight and connected muted shadow, broad oil masses over skin/fabric; exact art name/story title readable, ordinary hands, unclipped silhouettes, no festival/location/ground/swatch. Art-only naming/source override provenance recorded and pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "800c4ff4df940aa9c1995033ade601f70a04453d2dcb091d0207327b3b8a77fa"
+      },
+      "outputSha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+    },
+    {
+      "id": "rennick",
+      "name": "Rennick",
+      "sourceIdentityId": "rennick",
+      "nameAssignment": {
+        "name": "Rennick",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Halfway steward who explains recognition and coordinates the safe exit",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Cressa, Rennick, Avenna and Bevin searched across universe, frozen NAMES and repository story Markdown; no matches."
+      },
+      "role": "Halfway steward who explains recognition and coordinates the safe exit",
+      "selectionEvidence": [
+        {
+          "line": 103,
+          "quote": "held one palm toward her and pointed down with the other",
+          "explanation": "Embodied stop gesture."
+        },
+        {
+          "line": 133,
+          "quote": "The noon reset went early.",
+          "explanation": "Reveals actual cause."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human man, source he.",
+        "lifeStage": "Adult staff member, age unstated.",
+        "proportions": "Ordinary human.",
+        "markings": "None specified.",
+        "materials": "Bright vest, radio/earpiece, practical street clothing.",
+        "clothing": "Bright safety vest explicit; other clothes not specified.",
+        "equipment": "Radio and earpiece, no weapon or authoritative insignia specified.",
+        "scale": "Adult.",
+        "movement": "Palm raised to stop crossing, points down, touches earpiece, manages barrier sequence.",
+        "distinctiveFeatures": "Practical attention to others rather than hero pose."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no shared-universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent late40s, medium-dark brown skin, elongated face, short salt-pepper hair, clean shaven, average broad build.",
+        "Fluorescent yellow-green safety vest with silver reflective strips over slate short-sleeve polo, dark khaki trousers and ordinary trainers; small handheld radio and one black earpiece. No badge, police uniform or weapon."
+      ],
+      "states": [
+        {
+          "label": "Holding the crossing",
+          "description": "One open palm stop signal."
+        },
+        {
+          "label": "Listening",
+          "description": "Earpiece/radio attention."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "everyone-knows-her:rennick",
+        "links": [],
+        "evidence": "Unnamed local figure; no evidence of recurrence. Art name does not imply shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/everyone-knows-her/title-image.jpg",
+          "role": "inspected protagonist face/skin/curly hair only; source overrides obsolete black tank/olive shorts/unbound hair; anime rendering excluded",
+          "sha256": "92602158d149a6087636dab049e20654a4a51427af21f53e81848310dae9f9c6",
+          "inspected": true,
+          "notes": "Cover tan adult woman with dark curly hair. Finished prose requires blue jacket, black shorts, red canvas shoulder bag, hair tied up; no other cover figure establishes cast identity."
+        },
+        {
+          "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+          "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+          "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+          "inspected": true,
+          "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+        }
+      ],
+      "output": "stories/everyone-knows-her/art/characters/rennick.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 3:2 landscape character-only OIL folio on calm warm IVORY. Exact upper-left name \"Rennick\", smaller story title \"All the Ways They Knew Her\". Rennick is the art name for an unnamed adult male festival steward; no name badge required.\n\nDistinct HUMAN man apparent late40s: medium-dark brown skin, long lean face, broad nose, short salt-and-pepper close curls, clean-shaven, average sturdy build, attentive pragmatic eyes. Wear a matte bright yellow-green SAFETY VEST with ordinary silver reflective strips over a slate short-sleeve polo, dark khaki trousers, practical grey trainers. One small black earpiece and plain black handheld radio. No police/military insignia, weapons, caps, armour or fantasy costume.\n\nLeft three full-height unclipped views front/side/back, same clothing and human identity. Front one arm partly lifted with relaxed open hand signaling a controlled stop, radio in other hand. Side looking toward crossing with radio near chest. Rear clearly shows reflective vest strips. Right two large same-person head/upper-chest studies: \"Listening\", finger touching earpiece and focused gaze; \"Hold\", firm calm expression with one upright five-digit open palm. Lower right small isolated ordinary radio/earpiece study labelled \"Radio and earpiece\". Keep radio unbranded with no readable channels or magical glow. Natural hands, no added limbs or duplicated radio in a single view.\n\nInput1 Cressa provides approved oil figure treatment and ivory folio only; DO NOT inherit woman's face, hair, blue jacket, red bag, skates or clasp. Input2 summer painting guides the story's natural noon light and unified cool grey-green shade only. No landscape/location. Bright vest is cloth, not luminous: sun touches upper shoulder/brow planes, far facial side remains a connected subdued shadow. No generic orange-blue rim spectacle or studio spotlight.\n\nCanadian Group of Seven-inspired heavy oil: large rhythmic colour/value masses, broad directional opaque bristle, selective substantial impasto, quieter connected shadow passages. Faces/hands decisively painted as cloth, no anime/CGI/photo face or uniform tiny glitter chips. Name/title/concise labels exact and readable. NO stalls, barriers, road, floor/contact shadows, ground patch, bystanders, swatches or palette strips.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:17:03.261172+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL folio on calm warm IVORY. Exact upper-left name \"Rennick\", smaller story title \"All the Ways They Knew Her\". Rennick is the art name for an unnamed adult male festival steward; no name badge required.\n\nDistinct HUMAN man apparent late40s: medium-dark brown skin, long lean face, broad nose, short salt-and-pepper close curls, clean-shaven, average sturdy build, attentive pragmatic eyes. Wear a matte bright yellow-green SAFETY VEST with ordinary silver reflective strips over a slate short-sleeve polo, dark khaki trousers, practical grey trainers. One small black earpiece and plain black handheld radio. No police/military insignia, weapons, caps, armour or fantasy costume.\n\nLeft three full-height unclipped views front/side/back, same clothing and human identity. Front one arm partly lifted with relaxed open hand signaling a controlled stop, radio in other hand. Side looking toward crossing with radio near chest. Rear clearly shows reflective vest strips. Right two large same-person head/upper-chest studies: \"Listening\", finger touching earpiece and focused gaze; \"Hold\", firm calm expression with one upright five-digit open palm. Lower right small isolated ordinary radio/earpiece study labelled \"Radio and earpiece\". Keep radio unbranded with no readable channels or magical glow. Natural hands, no added limbs or duplicated radio in a single view.\n\nInput1 Cressa provides approved oil figure treatment and ivory folio only; DO NOT inherit woman's face, hair, blue jacket, red bag, skates or clasp. Input2 summer painting guides the story's natural noon light and unified cool grey-green shade only. No landscape/location. Bright vest is cloth, not luminous: sun touches upper shoulder/brow planes, far facial side remains a connected subdued shadow. No generic orange-blue rim spectacle or studio spotlight.\n\nCanadian Group of Seven-inspired heavy oil: large rhythmic colour/value masses, broad directional opaque bristle, selective substantial impasto, quieter connected shadow passages. Faces/hands decisively painted as cloth, no anime/CGI/photo face or uniform tiny glitter chips. Name/title/concise labels exact and readable. NO stalls, barriers, road, floor/contact shadows, ground patch, bystanders, swatches or palette strips.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+                "role": "immutable selected contemporary character oil treatment/presentation only; no female identity or props",
+                "inspected": true,
+                "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+              },
+              {
+                "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+                "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+                "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+                "inspected": true,
+                "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-55c46e6f-bf21-42ad-8d82-6b0617d3e011.png",
+            "returnedSha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539",
+            "completedAt": "2026-09-24T03:21:15.343500+00:00",
+            "review": [
+              "Actual pixels inspected: consistent distinct middle-aged man across three full views and head/action details; open stop palm has five digits, natural radio grip and earpiece gesture.",
+              "Bright safety vest, radio/earpiece and practical modern clothes preserve source role without police insignia, weapons or supernatural elements; wardrobe colours/face remain recorded art interpretation.",
+              "Exact Rennick/title readable, broad painted face/vest and sunlit summer planes with coherent shade, clean ivory, no route barrier/setting/floor/swatch. Name remains art-only; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+            "role": "immutable selected contemporary character oil treatment/presentation only; no female identity or props",
+            "inspected": true,
+            "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+          },
+          {
+            "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+            "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+            "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+            "inspected": true,
+            "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:21:15.343500+00:00",
+        "sourceSha256": "471ec3f2238d0855494b0b62fb96a4d4b62060fa47ea3e3c2fe4b27720681617",
+        "outputSha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+            "role": "immutable selected contemporary character oil treatment/presentation only; no female identity or props",
+            "inspected": true,
+            "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+          },
+          {
+            "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+            "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+            "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+            "inspected": true,
+            "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistent distinct middle-aged man across three full views and head/action details; open stop palm has five digits, natural radio grip and earpiece gesture.",
+          "Bright safety vest, radio/earpiece and practical modern clothes preserve source role without police insignia, weapons or supernatural elements; wardrobe colours/face remain recorded art interpretation.",
+          "Exact Rennick/title readable, broad painted face/vest and sunlit summer planes with coherent shade, clean ivory, no route barrier/setting/floor/swatch. Name remains art-only; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "b83b9e4ae78c73c2fb6a3f31f92f95e20afe3762c411b7d51e9d0666b897f9ec"
+      },
+      "outputSha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539"
+    },
+    {
+      "id": "avenna",
+      "name": "Avenna",
+      "sourceIdentityId": "avenna",
+      "nameAssignment": {
+        "name": "Avenna",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Skater’s young niece in children’s drum lineup",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Cressa, Rennick, Avenna and Bevin searched across universe, frozen NAMES and repository story Markdown; no matches."
+      },
+      "role": "Skater’s young niece in children’s drum lineup",
+      "selectionEvidence": [
+        {
+          "line": 255,
+          "quote": "Her niece was at the end of the nearer row",
+          "explanation": "Deadline recipient."
+        },
+        {
+          "line": 277,
+          "quote": "once the next task was clear",
+          "explanation": "Cooperative practical response under pressure."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human girl child; no adult proportions.",
+        "lifeStage": "Child; age unstated.",
+        "proportions": "Age-appropriate child.",
+        "markings": "None specified.",
+        "materials": "Bright shirt, black webbing drum harness, repaired clasp.",
+        "clothing": "Bright shirt with black harness; lower clothes/footwear unspecified.",
+        "equipment": "Small drum carried in harness with short webbing repaired clasp; no costume/helmet required.",
+        "scale": "Child relative to adult; main views independent no comparison person.",
+        "movement": "Holds drum level, tests repaired clasp, marches into row.",
+        "distinctiveFeatures": "Practical impatient child, harness finally correctly adjusted."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no shared-universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Apparent9, tan skin, round face, dark curls tied in two short low tails; family resemblance in brows/nose, not adult clone.",
+        "Coral-orange cotton t-shirt, navy knee shorts, plain white socks and dark sneakers; black webbing harness with small warm wood drum and metal clasp at correct height. Same outfit views plus clasp detail."
+      ],
+      "states": [
+        {
+          "label": "Ready",
+          "description": "Corrected harness and level drum; child fully clothed."
+        },
+        {
+          "label": "Testing the strap",
+          "description": "Small focused expression/detail with one clear clasp."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "everyone-knows-her:avenna",
+        "links": [],
+        "evidence": "Unnamed local figure; no evidence of recurrence. Art name does not imply shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/everyone-knows-her/title-image.jpg",
+          "role": "inspected protagonist face/skin/curly hair only; source overrides obsolete black tank/olive shorts/unbound hair; anime rendering excluded",
+          "sha256": "92602158d149a6087636dab049e20654a4a51427af21f53e81848310dae9f9c6",
+          "inspected": true,
+          "notes": "Cover tan adult woman with dark curly hair. Finished prose requires blue jacket, black shorts, red canvas shoulder bag, hair tied up; no other cover figure establishes cast identity."
+        },
+        {
+          "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+          "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+          "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+          "inspected": true,
+          "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+        }
+      ],
+      "output": "stories/everyone-knows-her/art/characters/avenna.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on plain warm IVORY. Upper-left exact name \"Avenna\", smaller exact story title \"All the Ways They Knew Her\". This is the art name of the source's unnamed niece, a CHILD in a festival drum lineup.\n\nAvenna is a human girl around NINE YEARS OLD: clearly age-appropriate child head/body proportions, short limbs, round young face, tan skin, dark eyes, dark CURLY hair tied into two short low tails. Family resemblance to adult aunt Cressa in eyebrows/nose only, never copy adult face/body. Fully clothed ordinary child: CORAL-ORANGE loose cotton t-shirt, NAVY knee-length shorts, white socks and dark practical sneakers. Black webbing harness holds a small wood-shell marching drum LEVEL at her waist/upper-thigh, properly adjusted after repair. Small silver repaired spring clasp on short harness strap. The drum/harness is personal equipment, not a scene. No cardboard helmet or costume: those belonged to other background children.\n\nThree unclipped full-body views front, side, rear across left/centre; same child, clothes, two hair ties and consistent black harness. Front drum visible and held level; side clear harness connection; rear shows straps with drum physically in front and partially occluded naturally. Right upper: two small child head studies \"Waiting\" (impatient, worried brows) and \"Ready\" (focused slight confident lift). Right lower close detail \"Repaired strap\": same black webbing, same silver spring clasp design as the aunt's inspected reference, attached correctly to drum support. Keep simple functional hardware; no decorative badge or glyph. Natural five-digit child hands, one hand can steady drum. No sticks need be invented.\n\nReference1 Rennick supplies heavy oil form/folio only, NOT adult male identity, safety vest or radio. Reference2 Cressa provides familial brow/nose traits and her bare metal clasp design only, NOT adult anatomy, skates, bag or blue clothes. Daytime summer sun, modest warm upper planes, connected subdued cool grey-green shadows; matte eyes and no spotlight/rim spectacle. Heavy Canadian Group of Seven-inspired OIL: large connected colour/value shapes, broad varied directional opaque strokes, selective impasto and quiet shadow passages. Child skin/hair/clothes painted consistently, no smooth CGI/anime/photo insert or tiny glittering bevels. Exact readable heading/title, few concise labels. No festival surroundings, other child/adult, floor/contact shadow, ground patch, swatches or palette bars.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:21:18.070484+00:00",
+            "status": "PASS",
+            "prompt": "Create ONE 3:2 landscape character-only OIL reference folio on plain warm IVORY. Upper-left exact name \"Avenna\", smaller exact story title \"All the Ways They Knew Her\". This is the art name of the source's unnamed niece, a CHILD in a festival drum lineup.\n\nAvenna is a human girl around NINE YEARS OLD: clearly age-appropriate child head/body proportions, short limbs, round young face, tan skin, dark eyes, dark CURLY hair tied into two short low tails. Family resemblance to adult aunt Cressa in eyebrows/nose only, never copy adult face/body. Fully clothed ordinary child: CORAL-ORANGE loose cotton t-shirt, NAVY knee-length shorts, white socks and dark practical sneakers. Black webbing harness holds a small wood-shell marching drum LEVEL at her waist/upper-thigh, properly adjusted after repair. Small silver repaired spring clasp on short harness strap. The drum/harness is personal equipment, not a scene. No cardboard helmet or costume: those belonged to other background children.\n\nThree unclipped full-body views front, side, rear across left/centre; same child, clothes, two hair ties and consistent black harness. Front drum visible and held level; side clear harness connection; rear shows straps with drum physically in front and partially occluded naturally. Right upper: two small child head studies \"Waiting\" (impatient, worried brows) and \"Ready\" (focused slight confident lift). Right lower close detail \"Repaired strap\": same black webbing, same silver spring clasp design as the aunt's inspected reference, attached correctly to drum support. Keep simple functional hardware; no decorative badge or glyph. Natural five-digit child hands, one hand can steady drum. No sticks need be invented.\n\nReference1 Rennick supplies heavy oil form/folio only, NOT adult male identity, safety vest or radio. Reference2 Cressa provides familial brow/nose traits and her bare metal clasp design only, NOT adult anatomy, skates, bag or blue clothes. Daytime summer sun, modest warm upper planes, connected subdued cool grey-green shadows; matte eyes and no spotlight/rim spectacle. Heavy Canadian Group of Seven-inspired OIL: large connected colour/value shapes, broad varied directional opaque strokes, selective impasto and quiet shadow passages. Child skin/hair/clothes painted consistently, no smooth CGI/anime/photo insert or tiny glittering bevels. Exact readable heading/title, few concise labels. No festival surroundings, other child/adult, floor/contact shadow, ground patch, swatches or palette bars.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-55c46e6f-bf21-42ad-8d82-6b0617d3e011.png",
+                "role": "immutable selected figure oil/presentation only; no adult male identity/vest/equipment",
+                "inspected": true,
+                "sha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539"
+              },
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+                "role": "aunt family resemblance and repaired metal clasp only; no adult body, skates or attire",
+                "inspected": true,
+                "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-bcb962b4-0953-41c7-9598-e0406dc11991.png",
+            "returnedSha256": "8ded69df6c2baac96b83494b98272d69b0c25a561b5386df2a08bb0527324ac2",
+            "completedAt": "2026-09-24T03:26:39.005754+00:00",
+            "review": [
+              "Actual pixels inspected: clearly child-proportioned girl, same round face/curls/two low tails across front/side/back and waiting/ready portraits; fully clothed child and natural limbs/hands.",
+              "Bright coral shirt, black harness and level personal drum preserve source lineup state; repaired silver spring clasp on short black webbing represented, no background-child helmet or extra costume.",
+              "Exact art name/story text, unclipped views, broad oil treatment and natural summer light, clean ivory without floor/location/palette. Family resemblance remains art interpretation; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-55c46e6f-bf21-42ad-8d82-6b0617d3e011.png",
+            "role": "immutable selected figure oil/presentation only; no adult male identity/vest/equipment",
+            "inspected": true,
+            "sha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+            "role": "aunt family resemblance and repaired metal clasp only; no adult body, skates or attire",
+            "inspected": true,
+            "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:26:39.005754+00:00",
+        "sourceSha256": "471ec3f2238d0855494b0b62fb96a4d4b62060fa47ea3e3c2fe4b27720681617",
+        "outputSha256": "8ded69df6c2baac96b83494b98272d69b0c25a561b5386df2a08bb0527324ac2",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-55c46e6f-bf21-42ad-8d82-6b0617d3e011.png",
+            "role": "immutable selected figure oil/presentation only; no adult male identity/vest/equipment",
+            "inspected": true,
+            "sha256": "811e9bf4c0b48f33758300c113482cd3ce6d4977aa47ff70a63a0a59d52f2539"
+          },
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+            "role": "aunt family resemblance and repaired metal clasp only; no adult body, skates or attire",
+            "inspected": true,
+            "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: clearly child-proportioned girl, same round face/curls/two low tails across front/side/back and waiting/ready portraits; fully clothed child and natural limbs/hands.",
+          "Bright coral shirt, black harness and level personal drum preserve source lineup state; repaired silver spring clasp on short black webbing represented, no background-child helmet or extra costume.",
+          "Exact art name/story text, unclipped views, broad oil treatment and natural summer light, clean ivory without floor/location/palette. Family resemblance remains art interpretation; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "eac84b998a6f5f0ed931d7d16d4ee3ac8cf778af402a75e8605a4de6d601015e"
+      },
+      "outputSha256": "8ded69df6c2baac96b83494b98272d69b0c25a561b5386df2a08bb0527324ac2"
+    },
+    {
+      "id": "bevin",
+      "name": "Bevin",
+      "sourceIdentityId": "bevin",
+      "nameAssignment": {
+        "name": "Bevin",
+        "kind": "new-art-reference-name",
+        "authorizedBy": "always give the characters names if there are missing them.",
+        "sourceRole": "Skater’s sibling awaiting family-stall relief",
+        "scope": "Art/metadata only; source character remains unnamed. No source or canon edits.",
+        "nameCheck": "Exact Cressa, Rennick, Avenna and Bevin searched across universe, frozen NAMES and repository story Markdown; no matches."
+      },
+      "role": "Skater’s sibling awaiting family-stall relief",
+      "selectionEvidence": [
+        {
+          "line": 309,
+          "quote": "her sibling had sold down most of the cold drinks",
+          "explanation": "Final promise and consequence."
+        },
+        {
+          "line": 319,
+          "quote": "Small change left tin.",
+          "explanation": "Practical handover."
+        }
+      ],
+      "form": "Human",
+      "storyAppearance": {
+        "anatomy": "Human adult; source leaves gender unspecified.",
+        "lifeStage": "Adult sibling, exact age unstated.",
+        "proportions": "Ordinary adult.",
+        "markings": "None.",
+        "materials": "Modern casual clothes; ice and bottle as optional handheld prop.",
+        "clothing": "Unspecified practical summer stall clothing.",
+        "equipment": "No personal defining object specified; a plain lemonade bottle optional from served inventory.",
+        "scale": "Adult.",
+        "movement": "Packs ice, hands over counter instructions then goes to watch children.",
+        "distinctiveFeatures": "Kinship and tired relief, no source gender claimed."
+      },
+      "explicitCanon": [
+        "Story-local source evidence only; no shared-universe character entry or recurrence established."
+      ],
+      "visualInterpretation": [
+        "Androgynous adult apparent mid30s, tan skin, squarer family face, short loose dark curls, no beard; appearance choice does not resolve source gender.",
+        "Faded rust-orange short-sleeve cotton shirt, loose blue-grey trousers and canvas sneakers, plain cream short waist apron as stall-work interpretation. One small chilled bottle held in hand; no counter or surroundings."
+      ],
+      "states": [
+        {
+          "label": "At work",
+          "description": "Ready standing views, practical hands."
+        },
+        {
+          "label": "Relieved",
+          "description": "Slight softened expression at handover."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "everyone-knows-her:bevin",
+        "links": [],
+        "evidence": "Unnamed local figure; no evidence of recurrence. Art name does not imply shared identity."
+      },
+      "references": [
+        {
+          "path": "stories/everyone-knows-her/title-image.jpg",
+          "role": "inspected protagonist face/skin/curly hair only; source overrides obsolete black tank/olive shorts/unbound hair; anime rendering excluded",
+          "sha256": "92602158d149a6087636dab049e20654a4a51427af21f53e81848310dae9f9c6",
+          "inspected": true,
+          "notes": "Cover tan adult woman with dark curly hair. Finished prose requires blue jacket, black shorts, red canvas shoulder bag, hair tied up; no other cover figure establishes cast identity."
+        },
+        {
+          "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+          "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+          "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+          "inspected": true,
+          "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+        }
+      ],
+      "output": "stories/everyone-knows-her/art/characters/bevin.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make ONLY this costume-continuity correction to Bevin's oil folio: the apron is a short CREAM WAIST APRON in EVERY view, tied at the waist with back ties. There is NO upper bib, neck strap or shoulder strap.\n\nIn the lower-right \"Your turn\" half-body study remove the entire cream chest bib and its shoulder/neck straps, repainting that chest region as the same rust-orange buttoned cotton shirt. Keep the existing cream waist apron below the belt/waist. In the large front view remove the small stray cream tab over the image-left shirt collar, restoring orange shirt. Remove any other cream apron mark above the waist in every view. The full-body rear waist ties stay exactly as they are.\n\nPreserve everything else: same adult face/hair/gender-ambiguous presentation, exact poses, natural five-digit open hand and bottle grip, rust shirt, blue-grey trousers, shoes, bottle, expression studies, all text including \"Bevin\", \"All the Ways They Knew Her\", \"At work\", \"Relieved\", \"Your turn\", layout and broad summer-light oil treatment. Warm ivory unchanged. Do not add a setting, floor patch, swatches or new equipment.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:26:40.603260+00:00",
+            "status": "REVISE",
+            "prompt": "Create ONE landscape 3:2 character-only OIL reference folio on plain warm IVORY. Exact upper-left heading \"Bevin\", smaller subtitle \"All the Ways They Knew Her\". Bevin is the art name of the unnamed adult sibling waiting for relief at the family stall; the source does not specify the sibling's gender. Depict a modestly androgynous adult; no gendered role label on page.\n\nApparent mid30s, tan skin, squarer face than sibling Cressa, broad cheekbones, dark eyes, short loose DARK CURLS, no beard, ordinary adult build. Keep some familial eyebrow/nose resemblance to Cressa, but a distinct person with short hair and broader jaw. Faded RUST-ORANGE short-sleeve cotton shirt, loose BLUE-GREY trousers, plain cream short WAIST APRON, flat canvas sneakers. No blue jacket, shorts, red bag, skates, safety vest or fantasy gear. Outfit is practical summer stall-work interpretation.\n\nThree fully visible front/side/back views across left two-thirds; same face/body/clothes, apron at front with simple ties at back. In front holds one small plain glass bottle of pale lemonade at side in a natural five-digit grip; side/resting hands relaxed; rear no impossible apron front. Right two same-person head studies: \"At work\", tired focused expression; \"Relieved\", shoulders easing and small warm smile. Lower-right one half-body handover gesture labelled \"Your turn\", one ordinary empty open hand indicating readiness to leave, NO counter, coins, background objects or another person. A plain bottle may be isolated small alongside, no brand/readable label.\n\nReference1 Cressa supplies familial facial cues and approved oil treatment only; do not inherit her precise face, body, hairstyle, clothes or gear. Reference2 summer landscape supplies broad paint rhythm and natural warm summer noon planes with connected muted cool grey-green shade only. Extract no scene. Faces/hands/hair and fabric all painted from LARGE directional opaque oil masses; selective substantial impasto, quiet shadow passages and matte eyes. Canadian Group of Seven collection cohesion, no CGI/photo/anime insert, glossy face, uniform glittering paint chips or rim spectacle.\n\nExact name/title/short labels readable. Natural adult proportions, no extra fingers/limbs. No location, stall/road, floor or contact shadows, ground patch, swatches, palette bars or decorative prose.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-f59d008b-7a35-4321-bba5-0a972d9e17e9.png",
+                "role": "immutable selected sibling Cressa: family cues and oil handling only; no same face/clothes/gear transfer",
+                "inspected": true,
+                "sha256": "63cf33aad5e1601daeac6b571e99c57af126f5479461cb4bc6369e9e2fefe44a"
+              },
+              {
+                "path": "stories/everyone-knows-her/art/landscapes/05-east-end-in-summer-light.png",
+                "role": "primary Group of Seven oil masses and summer noon light/shade only; no geography or scenery",
+                "sha256": "4c0cba6463bac8ea2213a2f29c2d2fea6a93ea712c672d34e8fa26f0c727316c",
+                "inspected": true,
+                "notes": "Broad directional tree/cloud/road masses, warm summer light and coherent muted cool shade, no cast identity."
+              }
+            ],
+            "selected": false,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-05f5dab9-5a4e-410c-bd0f-06cd05052bfa.png",
+            "returnedSha256": "034887824ea9d4c36f930bfd6b41c558ba6246951b1ed0dca9ce24d20b0d224b",
+            "completedAt": "2026-09-24T03:31:56.113123+00:00",
+            "review": "Identity, anatomy, modest androgynous adult appearance, family resemblance, source handover and daytime oil rendering pass. REVISE costume continuity: lower-right handover study acquired a chest bib apron while full views show waist apron; front also has stray cream shoulder tab. All views require waist-only apron."
+          },
+          {
+            "attempt": 2,
+            "tool": "functions.image_gen__imagegen",
+            "mode": "built-in",
+            "requestedAt": "2026-09-24T03:31:57.088224+00:00",
+            "status": "PASS",
+            "prompt": "Make ONLY this costume-continuity correction to Bevin's oil folio: the apron is a short CREAM WAIST APRON in EVERY view, tied at the waist with back ties. There is NO upper bib, neck strap or shoulder strap.\n\nIn the lower-right \"Your turn\" half-body study remove the entire cream chest bib and its shoulder/neck straps, repainting that chest region as the same rust-orange buttoned cotton shirt. Keep the existing cream waist apron below the belt/waist. In the large front view remove the small stray cream tab over the image-left shirt collar, restoring orange shirt. Remove any other cream apron mark above the waist in every view. The full-body rear waist ties stay exactly as they are.\n\nPreserve everything else: same adult face/hair/gender-ambiguous presentation, exact poses, natural five-digit open hand and bottle grip, rust shirt, blue-grey trousers, shoes, bottle, expression studies, all text including \"Bevin\", \"All the Ways They Knew Her\", \"At work\", \"Relieved\", \"Your turn\", layout and broad summer-light oil treatment. Warm ivory unchanged. Do not add a setting, floor patch, swatches or new equipment.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-05f5dab9-5a4e-410c-bd0f-06cd05052bfa.png",
+                "role": "immutable edit target; waist-apron continuity only",
+                "inspected": true,
+                "sha256": "034887824ea9d4c36f930bfd6b41c558ba6246951b1ed0dca9ce24d20b0d224b"
+              }
+            ],
+            "selected": true,
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-896d4bab-5ac3-494b-9b0c-a39a72e319b5.png",
+            "returnedSha256": "9541602e11a6f9981ffd2b56a1da0f6b1990eb2c34baf14a4b4ec0b6d3de5361",
+            "completedAt": "2026-09-24T03:37:46.440810+00:00",
+            "review": [
+              "Actual corrected pixels inspected: cream apron now waist-only throughout, lower-right chest restored to rust shirt, stray collar tab removed; rear waist ties agree.",
+              "Distinct adult sibling with short curls and familial facial cues, source gender left unspecified; normal bottle grip and five-digit open hand, tired/relieved expressions preserved.",
+              "Exact name/story title, full views unclipped, broad oil over face/clothes and summer daylight, plain ivory without setting/floor/swatch. Art choices and naming provenance remain separate from source facts; pins verified."
+            ]
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-05f5dab9-5a4e-410c-bd0f-06cd05052bfa.png",
+            "role": "immutable edit target; waist-apron continuity only",
+            "inspected": true,
+            "sha256": "034887824ea9d4c36f930bfd6b41c558ba6246951b1ed0dca9ce24d20b0d224b"
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:37:46.440810+00:00",
+        "sourceSha256": "471ec3f2238d0855494b0b62fb96a4d4b62060fa47ea3e3c2fe4b27720681617",
+        "outputSha256": "9541602e11a6f9981ffd2b56a1da0f6b1990eb2c34baf14a4b4ec0b6d3de5361",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d135-7f3e-77e3-b402-d71a4268fa2a/exec-05f5dab9-5a4e-410c-bd0f-06cd05052bfa.png",
+            "role": "immutable edit target; waist-apron continuity only",
+            "inspected": true,
+            "sha256": "034887824ea9d4c36f930bfd6b41c558ba6246951b1ed0dca9ce24d20b0d224b"
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: cream apron now waist-only throughout, lower-right chest restored to rust shirt, stray collar tab removed; rear waist ties agree.",
+          "Distinct adult sibling with short curls and familial facial cues, source gender left unspecified; normal bottle grip and five-digit open hand, tired/relieved expressions preserved.",
+          "Exact name/story title, full views unclipped, broad oil over face/clothes and summer daylight, plain ivory without setting/floor/swatch. Art choices and naming provenance remain separate from source facts; pins verified."
+        ],
+        "reviewers": [
+          "producing-agent"
+        ],
+        "specificationSha256": "1c4c8cc72fbc5ab15aa3f3825aadc68bab32e063d0c525835017973685cdb471"
+      },
+      "outputSha256": "9541602e11a6f9981ffd2b56a1da0f6b1990eb2c34baf14a4b4ec0b6d3de5361"
+    }
+  ]
+}
