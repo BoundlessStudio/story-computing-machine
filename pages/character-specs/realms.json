@@ -1,0 +1,1501 @@
+{
+  "schemaVersion": 1,
+  "slug": "realms",
+  "title": "Realms",
+  "source": "stories/realms/05-story.md",
+  "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+  "canon": true,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full canonical finished prose read. Cal, Lena, Tuck and M. Voss are sustained named humans; dealer's embodied avatar bargains, attacks, retains token and follows; smoke gatekeeper negotiates/extracts the memory that changes Cal's decision. Heartseed is a central living being with meaningful response: roots autonomously into first fresh blood, maintains second rhythm, and answers final knock with a hard hungry beat. Depict only seven identities, no architectural organism scenes.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Priya and Cal/Lena's mother",
+      "reason": "Recalled or offstage relational context, no visually present sustained characterization."
+    },
+    {
+      "name": "GutSaint72, assorted merchants and living lights",
+      "reason": "Brief reported account or incidental market encounters without sustained individual role."
+    },
+    {
+      "name": "Queen Street seam, sleeping city organism, market substrate",
+      "reason": "Living setting and mechanism without substantial independent personal character role. Shop's intentional agency represented once through dealer avatar, not duplicate room sheet."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/characters.md#Cal Mercer",
+    "universe/characters.md#Lena Mercer",
+    "universe/characters.md#Tuck",
+    "universe/characters.md#M. Voss",
+    "universe/rules.md#Queen Street living seam and route tokens",
+    "universe/rules.md#Deepmarket desire pricing and stated memory toll",
+    "universe/rules.md#Deepmarket name access, shame gate, and offered memory contract",
+    "universe/rules.md#Deepmarket shop defense and local salt response",
+    "universe/rules.md#Heartseeds"
+  ],
+  "characters": [
+    {
+      "id": "cal-mercer",
+      "name": "Cal Mercer",
+      "role": "First-time Runner, older brother and eventual heartseed host",
+      "naming": {
+        "sourceName": "Cal Mercer",
+        "sourceRole": "First-time Runner, older brother and eventual heartseed host",
+        "provenance": "Exact canonical finished-story name; no abbreviation expansion"
+      },
+      "selectionEvidence": [
+        {
+          "line": 23,
+          "quote": "a borrowed pack on my shoulders",
+          "explanation": "Runner gear."
+        },
+        {
+          "line": 43,
+          "quote": "clean knees of my jeans",
+          "explanation": "First crossing attire."
+        },
+        {
+          "line": 464,
+          "quote": "My cut hand was bandaged.",
+          "explanation": "Later state."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Older brother of twelve-year-old Lena; age unresolved. Jacket, clean-kneed jeans, boots, borrowed backpack. Metal route disk doubled cord on bare wrist, later lost. Palm cut later bandaged, gold branches beneath skin to chest after seed enters.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Young adult man23 as art interpretation, slim medium height, light warm olive skin, rounder soft-jaw face with wider small flat-bridged nose, wide-set dark eyes, slightly prominent ears and a few freckles, very short tight black curls close to skull. Faded navy canvas hip-length jacket over gray T-shirt, ordinary medium-blue jeans, brown worn boots and dark khaki borrowed pack. No beard.",
+        "markings": "Older brother of twelve-year-old Lena; age unresolved. Jacket, clean-kneed jeans, boots, borrowed backpack. Metal route disk doubled cord on bare wrist, later lost. Palm cut later bandaged, gold branches beneath skin to chest after seed enters.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Young adult man23 as art interpretation, slim medium height, light warm olive skin, rounder soft-jaw face with wider small flat-bridged nose, wide-set dark eyes, slightly prominent ears and a few freckles, very short tight black curls close to skull. Faded navy canvas hip-length jacket over gray T-shirt, ordinary medium-blue jeans, brown worn boots and dark khaki borrowed pack. No beard.",
+        "equipment": "Main three complete Front/Side/Back BEFORE CROSSING, metal disk with doubled cord on LEFT bare wrist (side art choice). Two head studies Resolute and Listening. Small detail labelled After return shows RIGHT bandaged palm and faint gold branching under wrist skin; no token on that post-return detail. Small smartphone optional, no other person on screen.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Young adult man23 as art interpretation, slim medium height, light warm olive skin, rounder soft-jaw face with wider small flat-bridged nose, wide-set dark eyes, slightly prominent ears and a few freckles, very short tight black curls close to skull. Faded navy canvas hip-length jacket over gray T-shirt, ordinary medium-blue jeans, brown worn boots and dark khaki borrowed pack. No beard."
+      },
+      "explicitCanon": [
+        "Older brother of twelve-year-old Lena; age unresolved. Jacket, clean-kneed jeans, boots, borrowed backpack. Metal route disk doubled cord on bare wrist, later lost. Palm cut later bandaged, gold branches beneath skin to chest after seed enters."
+      ],
+      "visualInterpretation": [
+        "Young adult man23 as art interpretation, slim medium height, light warm olive skin, rounder soft-jaw face with wider small flat-bridged nose, wide-set dark eyes, slightly prominent ears and a few freckles, very short tight black curls close to skull. Faded navy canvas hip-length jacket over gray T-shirt, ordinary medium-blue jeans, brown worn boots and dark khaki borrowed pack. No beard.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon.",
+        "A2 art-only facial/hair refinement distinguishes Cal from unrelated young curly-haired men; source supplies no face/hair."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main three complete Front/Side/Back BEFORE CROSSING, metal disk with doubled cord on LEFT bare wrist (side art choice). Two head studies Resolute and Listening. Small detail labelled After return shows RIGHT bandaged palm and faint gold branching under wrist skin; no token on that post-return detail. Small smartphone optional, no other person on screen."
+        }
+      ],
+      "lighting": {
+        "moment": "Source state described",
+        "motivation": "Dim tunnel, strong cool-white seam key on one side, opposing face/body muted dark charcoal slate; subdued warm bounce only"
+      },
+      "recurrence": {
+        "identityKey": "realms:cal-mercer",
+        "links": [
+          "universe/characters.md#Cal Mercer"
+        ],
+        "evidence": "Exact named CANON entry; art adds no new canon. M. Voss's given name stays unresolved."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/cal-mercer.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit this Cal Mercer / Realms reference folio with ONE tiny continuity repair only. The middle full-body side view faces canvasRIGHT, exposing anatomical RIGHT wrist. Remove the round metal disk AND both cord loops ONLY from that visible right wrist, restoring plain bare skin at wrist and unchanged trouser fabric beneath. His LEFT wrist is on the far hidden side in this view, so NO token should be visible in this middle side figure. Keep front-view LEFT wrist disk and cord EXACTLY unchanged; keep enlarged disk detail, back figure, both heads, backpack, face/hair/identity, all labels and after-return RIGHT bandaged gold-thread hand and phone EXACTLY unchanged. Preserve every color, night/seam lighting, thick opaque Canadian Group of Seven oil, ivory layout and1536x1024 landscape. Do not move/flip any figure or change any other object.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8071727b-8872-4443-9769-689b231e0ea5.png",
+            "sha256": "18a342790e59811bc36b7522c935bc9f514477101ff0c2f7aa0281661c31adf6",
+            "inspected": true,
+            "role": "Immutable actual selected A2, inspected root-requested right-wrist accessory repair only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Cal Mercer'.\nYoung adult man23 as art interpretation, slim medium height, light warm olive skin, broad square face with narrow straight nose, dark-brown eyes, dense nearly black short loose curls. Faded navy canvas hip-length jacket over gray T-shirt, ordinary medium-blue jeans, brown worn boots and dark khaki borrowed pack. No beard.\nSource facts: Older brother of twelve-year-old Lena; age unresolved. Jacket, clean-kneed jeans, boots, borrowed backpack. Metal route disk doubled cord on bare wrist, later lost. Palm cut later bandaged, gold branches beneath skin to chest after seed enters.\nComposition: Main three complete Front/Side/Back BEFORE CROSSING, metal disk with doubled cord on LEFT bare wrist (side art choice). Two head studies Resolute and Listening. Small detail labelled After return shows RIGHT bandaged palm and faint gold branching under wrist skin; no token on that post-return detail. Small smartphone optional, no other person on screen.\nLight: Dim tunnel, strong cool-white seam key on one side, opposing face/body muted dark charcoal slate; subdued warm bounce only. Age23 is visual interpretation only, not canon; no heroic armor or weapons pointed at viewer.",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Ivory folio, matte connected oil technique only",
+                "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f78d9a2-0a5a-4d3d-adbb-f61fd539da4c.png",
+            "outputSha256": "08f4635f38ec8e4f5f9b306d22c4056a95abf6af2e051329d5a639bf351c7ce3",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:37:53.306481+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual pixels reviewed: refine cool seam-light contrast; Cal/Tuck tied disk reads too much like watch. Cal appearance also needs stronger distinction from unrelated festival engineer."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "superseded",
+            "requestedAt": "2026-09-24T04:37:53.306481+00:00",
+            "prompt": "Edit FIRST folio; preserve exact name/title, all labels, layout, ivory PAPER, source clothes and all anatomy except listed refinements. In EVERY view make Cal's young male face rounder with soft jaw, small WIDER flat-bridged nose, wide-set dark eyes, slightly prominent ears and a few freckles; replace loose swept curls with very short TIGHT black curls close to skull. Same adult23 slim build/clothes/pack. Replace watch-like objects on LEFT wrist in all pre-crossing views with a FLAT unadorned dull metal DISK dangling from TWO simple doubled CORD loops tied on bare wrist: NO wristwatch, dial/hands/numbers/bezel/leather band. Add small enlarged disk-and-cord detail in blankspace if helpful. Post-return RIGHT bandaged hand remains token-free with faint gold branches. Phone screen plain dark, no borrowed cracked-tablet fracture.\nFor ALL views and details correct SUBJECT LIGHT to SECOND supplied actual tunnel: strong PALE COOL-WHITE seam-facing planes against much DARKER opposing face/body planes of muted charcoal/slate. Almost no amber on skin; dark tunnel illuminated by white portal, not sunny afternoon/studio. Paper remains LIGHT WARM IVORY. Keep connected thick Canadian Group of Seven opaque oil on all face/cloth planes and matte eyes. No backdrop, floor/ground patch, room, extra person, swatches or new objects.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9f78d9a2-0a5a-4d3d-adbb-f61fd539da4c.png",
+                "sha256": "08f4635f38ec8e4f5f9b306d22c4056a95abf6af2e051329d5a639bf351c7ce3",
+                "inspected": true,
+                "role": "Actual first target candidate, preserve subject to exact requested fixes"
+              },
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8071727b-8872-4443-9769-689b231e0ea5.png",
+            "savedPath": "stories/realms/art/characters/cal-mercer.png",
+            "outputSha256": "18a342790e59811bc36b7522c935bc9f514477101ff0c2f7aa0281661c31adf6",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00",
+            "rootReview": "Main front disk anatomical LEFT correct; right-facing side depicts disk on visible RIGHT wrist. Remove only side-view visible disk and cord. Other six cast sheets root PASS."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T07:02:12.848016+00:00",
+            "prompt": "Edit this Cal Mercer / Realms reference folio with ONE tiny continuity repair only. The middle full-body side view faces canvasRIGHT, exposing anatomical RIGHT wrist. Remove the round metal disk AND both cord loops ONLY from that visible right wrist, restoring plain bare skin at wrist and unchanged trouser fabric beneath. His LEFT wrist is on the far hidden side in this view, so NO token should be visible in this middle side figure. Keep front-view LEFT wrist disk and cord EXACTLY unchanged; keep enlarged disk detail, back figure, both heads, backpack, face/hair/identity, all labels and after-return RIGHT bandaged gold-thread hand and phone EXACTLY unchanged. Preserve every color, night/seam lighting, thick opaque Canadian Group of Seven oil, ivory layout and1536x1024 landscape. Do not move/flip any figure or change any other object.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8071727b-8872-4443-9769-689b231e0ea5.png",
+                "sha256": "18a342790e59811bc36b7522c935bc9f514477101ff0c2f7aa0281661c31adf6",
+                "inspected": true,
+                "role": "Immutable actual selected A2, inspected root-requested right-wrist accessory repair only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d4d6521a-2bde-4ad3-b800-0683b4e22395.png",
+            "savedPath": "stories/realms/art/characters/cal-mercer.png",
+            "outputSha256": "a57f90482c4f9a458d0633b31812c1103737d714f44b9785e210d0614b57991d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T07:07:09.480454+00:00"
+          }
+        ],
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T07:07:09.480454+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "a57f90482c4f9a458d0633b31812c1103737d714f44b9785e210d0614b57991d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-8071727b-8872-4443-9769-689b231e0ea5.png",
+            "sha256": "18a342790e59811bc36b7522c935bc9f514477101ff0c2f7aa0281661c31adf6",
+            "inspected": true,
+            "role": "Immutable actual selected A2, inspected root-requested right-wrist accessory repair only"
+          }
+        ],
+        "evidence": [
+          "Actual A3 after root review: side figure faces right and now has bare visible anatomical RIGHT wrist; far LEFT wrist hidden. Source/spec LEFT disk remains on correct front-view wrist and enlarged detail unchanged.",
+          "Whole figure/heads retain own tight black curls, broad-nose young Cal identity, clothes/borrowed pack, cool seam-lit dark shadows and thick oil.",
+          "Later RIGHT hand covered bandage and faint gold branches with no disk; ordinary dark phone intact. Ivory folio/exact title/name/one identity maintained. All root requested changes addressed; historical prompts preserved."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "a03f32410deba2a46b0dd8ddb9e864b0c5dcc3c9b2ce1064da63176df81c1c62"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "a57f90482c4f9a458d0633b31812c1103737d714f44b9785e210d0614b57991d"
+    },
+    {
+      "id": "tuck",
+      "name": "Tuck",
+      "role": "Experienced Runner guide who returns to rescue Cal",
+      "naming": {
+        "sourceName": "Tuck",
+        "sourceRole": "Experienced Runner guide who returns to rescue Cal",
+        "provenance": "Exact canonical finished-story name; no abbreviation expansion"
+      },
+      "selectionEvidence": [
+        {
+          "line": 53,
+          "quote": "He was tall, short one piece of his left",
+          "explanation": "Next line completes left ear."
+        },
+        {
+          "line": 468,
+          "quote": "in a sling and pale rings around his throat.",
+          "explanation": "Clinic state."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Tall man missing one piece of LEFT ear; worn acquired coat and boots. Own distinct route disk on leather thong under sleeve. Later one arm sling, pale marks round throat; sling side unspecified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man42, very tall rangy gaunt build, warm ruddy-brown skin, thin triangular face, crooked narrow nose, close dark hazel eyes, shoulder-length coarse chestnut hair tied low, short scruffy auburn beard. Long heavily worn brown wool coat with patched elbows over faded olive shirt, dark denim trousers, practical scuffed heavy black boots. A small clean healed NOTCH is missing from upper edge of ANATOMICAL LEFT EAR only; other ear intact.",
+        "markings": "Tall man missing one piece of LEFT ear; worn acquired coat and boots. Own distinct route disk on leather thong under sleeve. Later one arm sling, pale marks round throat; sling side unspecified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man42, very tall rangy gaunt build, warm ruddy-brown skin, thin triangular face, crooked narrow nose, close dark hazel eyes, shoulder-length coarse chestnut hair tied low, short scruffy auburn beard. Long heavily worn brown wool coat with patched elbows over faded olive shirt, dark denim trousers, practical scuffed heavy black boots. A small clean healed NOTCH is missing from upper edge of ANATOMICAL LEFT EAR only; other ear intact.",
+        "equipment": "Three complete Front / LEFT SIDE / Back views before shop attack. LEFT SIDE faces canvasLEFT to show left-ear notch, hair tucked behind notched ear. Front notch on viewerRIGHT, back notch viewerLEFT. Two expressive head studies Cynical and Deciding. Separate left-ear detail. Small clinic bust optional: LEFT arm in simple cloth sling and pale throat rings, side selected art-only. Own disk on RIGHT wrist with leather thong in main views.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man42, very tall rangy gaunt build, warm ruddy-brown skin, thin triangular face, crooked narrow nose, close dark hazel eyes, shoulder-length coarse chestnut hair tied low, short scruffy auburn beard. Long heavily worn brown wool coat with patched elbows over faded olive shirt, dark denim trousers, practical scuffed heavy black boots. A small clean healed NOTCH is missing from upper edge of ANATOMICAL LEFT EAR only; other ear intact."
+      },
+      "explicitCanon": [
+        "Tall man missing one piece of LEFT ear; worn acquired coat and boots. Own distinct route disk on leather thong under sleeve. Later one arm sling, pale marks round throat; sling side unspecified."
+      ],
+      "visualInterpretation": [
+        "Man42, very tall rangy gaunt build, warm ruddy-brown skin, thin triangular face, crooked narrow nose, close dark hazel eyes, shoulder-length coarse chestnut hair tied low, short scruffy auburn beard. Long heavily worn brown wool coat with patched elbows over faded olive shirt, dark denim trousers, practical scuffed heavy black boots. A small clean healed NOTCH is missing from upper edge of ANATOMICAL LEFT EAR only; other ear intact.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three complete Front / LEFT SIDE / Back views before shop attack. LEFT SIDE faces canvasLEFT to show left-ear notch, hair tucked behind notched ear. Front notch on viewerRIGHT, back notch viewerLEFT. Two expressive head studies Cynical and Deciding. Separate left-ear detail. Small clinic bust optional: LEFT arm in simple cloth sling and pale throat rings, side selected art-only. Own disk on RIGHT wrist with leather thong in main views."
+        }
+      ],
+      "lighting": {
+        "moment": "Source state described",
+        "motivation": "Dim tunnel with pale seam-facing key and large cool charcoal shade planes, minimal warm bounce"
+      },
+      "recurrence": {
+        "identityKey": "realms:tuck",
+        "links": [
+          "universe/characters.md#Tuck"
+        ],
+        "evidence": "Exact named CANON entry; art adds no new canon. M. Voss's given name stays unresolved."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/tuck.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST folio; preserve exact name/title, all labels, layout, ivory PAPER, source clothes and all anatomy except listed refinements. Preserve Tuck's tall gaunt man, long face, low tied chestnut hair, scruffy beard and clothes. Show small HEALED missing upper-rim segment of ANATOMICAL LEFT ear in left-lateral profile facing canvasLEFT, front/heads wherever visible. Hair tucked behind that ear. Preserve detail's clear missing segment, keep other ear intact. RIGHT wrist has plain dull route DISK on a thin LEATHER THONG, no watchface/hands/numbers/buckle band. Preserve LEFT arm sling and pale throat rings in clinic bust.\nFor ALL views and details correct SUBJECT LIGHT to SECOND supplied actual tunnel: strong PALE COOL-WHITE seam-facing planes against much DARKER opposing face/body planes of muted charcoal/slate. Almost no amber on skin; dark tunnel illuminated by white portal, not sunny afternoon/studio. Paper remains LIGHT WARM IVORY. Keep connected thick Canadian Group of Seven opaque oil on all face/cloth planes and matte eyes. No backdrop, floor/ground patch, room, extra person, swatches or new objects.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-b98862fb-6b0f-411d-b660-d9e706629de1.png",
+            "sha256": "2b6e68265fda26fa4590a298f06b9dc30925c4cb6ac3390f3d7bfbeed194d238",
+            "inspected": true,
+            "role": "Actual first target candidate, preserve subject to exact requested fixes"
+          },
+          {
+            "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+            "role": "Source seam light and oil handling only",
+            "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+            "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Tuck'.\nMan42, very tall rangy gaunt build, warm ruddy-brown skin, thin triangular face, crooked narrow nose, close dark hazel eyes, shoulder-length coarse chestnut hair tied low, short scruffy auburn beard. Long heavily worn brown wool coat with patched elbows over faded olive shirt, dark denim trousers, practical scuffed heavy black boots. A small clean healed NOTCH is missing from upper edge of ANATOMICAL LEFT EAR only; other ear intact.\nSource facts: Tall man missing one piece of LEFT ear; worn acquired coat and boots. Own distinct route disk on leather thong under sleeve. Later one arm sling, pale marks round throat; sling side unspecified.\nComposition: Three complete Front / LEFT SIDE / Back views before shop attack. LEFT SIDE faces canvasLEFT to show left-ear notch, hair tucked behind notched ear. Front notch on viewerRIGHT, back notch viewerLEFT. Two expressive head studies Cynical and Deciding. Separate left-ear detail. Small clinic bust optional: LEFT arm in simple cloth sling and pale throat rings, side selected art-only. Own disk on RIGHT wrist with leather thong in main views.\nLight: Dim tunnel with pale seam-facing key and large cool charcoal shade planes, minimal warm bounce. Different long face/low hair tie from Cal; never borrow Kelro haircut.",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Ivory folio, matte connected oil technique only",
+                "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-b98862fb-6b0f-411d-b660-d9e706629de1.png",
+            "outputSha256": "2b6e68265fda26fa4590a298f06b9dc30925c4cb6ac3390f3d7bfbeed194d238",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:37:53.306481+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual pixels reviewed: refine cool seam-light contrast; Cal/Tuck tied disk reads too much like watch. Cal appearance also needs stronger distinction from unrelated festival engineer."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:37:53.306481+00:00",
+            "prompt": "Edit FIRST folio; preserve exact name/title, all labels, layout, ivory PAPER, source clothes and all anatomy except listed refinements. Preserve Tuck's tall gaunt man, long face, low tied chestnut hair, scruffy beard and clothes. Show small HEALED missing upper-rim segment of ANATOMICAL LEFT ear in left-lateral profile facing canvasLEFT, front/heads wherever visible. Hair tucked behind that ear. Preserve detail's clear missing segment, keep other ear intact. RIGHT wrist has plain dull route DISK on a thin LEATHER THONG, no watchface/hands/numbers/buckle band. Preserve LEFT arm sling and pale throat rings in clinic bust.\nFor ALL views and details correct SUBJECT LIGHT to SECOND supplied actual tunnel: strong PALE COOL-WHITE seam-facing planes against much DARKER opposing face/body planes of muted charcoal/slate. Almost no amber on skin; dark tunnel illuminated by white portal, not sunny afternoon/studio. Paper remains LIGHT WARM IVORY. Keep connected thick Canadian Group of Seven opaque oil on all face/cloth planes and matte eyes. No backdrop, floor/ground patch, room, extra person, swatches or new objects.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-b98862fb-6b0f-411d-b660-d9e706629de1.png",
+                "sha256": "2b6e68265fda26fa4590a298f06b9dc30925c4cb6ac3390f3d7bfbeed194d238",
+                "inspected": true,
+                "role": "Actual first target candidate, preserve subject to exact requested fixes"
+              },
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-88abde53-c4b1-48fd-a2c4-6abac7d20967.png",
+            "savedPath": "stories/realms/art/characters/tuck.png",
+            "outputSha256": "88b14e3167cfc0a869742e133176960bda03a2e1d9fcf1d4a37080ca51efde89",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "88b14e3167cfc0a869742e133176960bda03a2e1d9fcf1d4a37080ca51efde89",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-b98862fb-6b0f-411d-b660-d9e706629de1.png",
+            "sha256": "2b6e68265fda26fa4590a298f06b9dc30925c4cb6ac3390f3d7bfbeed194d238",
+            "inspected": true,
+            "role": "Actual first target candidate, preserve subject to exact requested fixes"
+          },
+          {
+            "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+            "role": "Source seam light and oil handling only",
+            "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+            "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: tall gaunt identity, low hair tie/beard, worn coat/boots, right-wrist leather-thong disk; left-ear close detail has missing upper segment and left-side profile orientation is correct.",
+          "Labelled later left-arm sling and throat marks separate from main pre-attack body; slate-white tunnel light and connected deep shadows; full views/readable labels on ivory."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "198c0a0e290803750076f878909027a85ccb836245b4f0f4060e4870bfb01b3b"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "88b14e3167cfc0a869742e133176960bda03a2e1d9fcf1d4a37080ca51efde89"
+    },
+    {
+      "id": "m-voss",
+      "name": "M. Voss",
+      "role": "Licensed Exit Witness and accountable return monitor",
+      "naming": {
+        "sourceName": "M. Voss",
+        "sourceRole": "Licensed Exit Witness and accountable return monitor",
+        "provenance": "Exact canonical finished-story name; no abbreviation expansion"
+      },
+      "selectionEvidence": [
+        {
+          "line": 35,
+          "quote": "Her silver throat tag read",
+          "explanation": "Exact named tag/role immediately follows."
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Human woman with silver throat tag reading M. Voss — Licensed Exit Witness; pistol, cracked tablet, thermos, route stamp and paperback. Given name, employer, jurisdiction unresolved.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Woman56 art interpretation, tall solid build, deep cool brown skin, long strong rectangular face, broad nose, level dark eyes, very short natural silver-gray hair. Slate knee-length practical coat over muted mustard high-neck knit shirt, dark charcoal trousers, flat dark leather shoes. Small silver rectangular tag at throat; no invented organizational insignia or police uniform.",
+        "markings": "Human woman with silver throat tag reading M. Voss — Licensed Exit Witness; pistol, cracked tablet, thermos, route stamp and paperback. Given name, employer, jurisdiction unresolved.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Woman56 art interpretation, tall solid build, deep cool brown skin, long strong rectangular face, broad nose, level dark eyes, very short natural silver-gray hair. Slate knee-length practical coat over muted mustard high-neck knit shirt, dark charcoal trousers, flat dark leather shoes. Small silver rectangular tag at throat; no invented organizational insignia or police uniform.",
+        "equipment": "Three complete Front/Side/Back views, two head studies Appraising and Alarmed. Three personal details: throat tag exact two-line text 'M. Voss' / 'Licensed Exit Witness'; wooden-handled metal route stamp; cracked-screen tablet. Pistol may stay omitted to keep folio focused; no table or holster assumption.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Woman56 art interpretation, tall solid build, deep cool brown skin, long strong rectangular face, broad nose, level dark eyes, very short natural silver-gray hair. Slate knee-length practical coat over muted mustard high-neck knit shirt, dark charcoal trousers, flat dark leather shoes. Small silver rectangular tag at throat; no invented organizational insignia or police uniform."
+      },
+      "explicitCanon": [
+        "Human woman with silver throat tag reading M. Voss — Licensed Exit Witness; pistol, cracked tablet, thermos, route stamp and paperback. Given name, employer, jurisdiction unresolved."
+      ],
+      "visualInterpretation": [
+        "Woman56 art interpretation, tall solid build, deep cool brown skin, long strong rectangular face, broad nose, level dark eyes, very short natural silver-gray hair. Slate knee-length practical coat over muted mustard high-neck knit shirt, dark charcoal trousers, flat dark leather shoes. Small silver rectangular tag at throat; no invented organizational insignia or police uniform.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three complete Front/Side/Back views, two head studies Appraising and Alarmed. Three personal details: throat tag exact two-line text 'M. Voss' / 'Licensed Exit Witness'; wooden-handled metal route stamp; cracked-screen tablet. Pistol may stay omitted to keep folio focused; no table or holster assumption."
+        }
+      ],
+      "lighting": {
+        "moment": "Source state described",
+        "motivation": "Dim tunnel, cool-white seam key from one side with deep cool shaded planes and small warm old lamp accents"
+      },
+      "recurrence": {
+        "identityKey": "realms:m-voss",
+        "links": [
+          "universe/characters.md#M. Voss"
+        ],
+        "evidence": "Exact named CANON entry; art adds no new canon. M. Voss's given name stays unresolved."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/m-voss.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST folio; preserve exact name/title, all labels, layout, ivory PAPER, source clothes and all anatomy except listed refinements. Preserve M. Voss exactly: face, silver hair, slate coat, mustard knit, tag lettering, stamp, cracked tablet and paperback. No other changes.\nFor ALL views and details correct SUBJECT LIGHT to SECOND supplied actual tunnel: strong PALE COOL-WHITE seam-facing planes against much DARKER opposing face/body planes of muted charcoal/slate. Almost no amber on skin; dark tunnel illuminated by white portal, not sunny afternoon/studio. Paper remains LIGHT WARM IVORY. Keep connected thick Canadian Group of Seven opaque oil on all face/cloth planes and matte eyes. No backdrop, floor/ground patch, room, extra person, swatches or new objects.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-90f13bed-0982-440e-8dc6-44c6731bfb29.png",
+            "sha256": "9cd07f426fa9fa1ea891b1c080f48e0d5be1d45a36a8ed64cc0e5a8b2ba14506",
+            "inspected": true,
+            "role": "Actual first target candidate, preserve subject to exact requested fixes"
+          },
+          {
+            "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+            "role": "Source seam light and oil handling only",
+            "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+            "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'M. Voss'.\nWoman56 art interpretation, tall solid build, deep cool brown skin, long strong rectangular face, broad nose, level dark eyes, very short natural silver-gray hair. Slate knee-length practical coat over muted mustard high-neck knit shirt, dark charcoal trousers, flat dark leather shoes. Small silver rectangular tag at throat; no invented organizational insignia or police uniform.\nSource facts: Human woman with silver throat tag reading M. Voss â€” Licensed Exit Witness; pistol, cracked tablet, thermos, route stamp and paperback. Given name, employer, jurisdiction unresolved.\nComposition: Three complete Front/Side/Back views, two head studies Appraising and Alarmed. Three personal details: throat tag exact two-line text 'M. Voss' / 'Licensed Exit Witness'; wooden-handled metal route stamp; cracked-screen tablet. Pistol may stay omitted to keep folio focused; no table or holster assumption.\nLight: Dim tunnel, cool-white seam key from one side with deep cool shaded planes and small warm old lamp accents. Never expand M. or supply a given name, employer, jurisdiction or badge.",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Ivory folio, matte connected oil technique only",
+                "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-90f13bed-0982-440e-8dc6-44c6731bfb29.png",
+            "outputSha256": "9cd07f426fa9fa1ea891b1c080f48e0d5be1d45a36a8ed64cc0e5a8b2ba14506",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:37:53.306481+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Identity and props pass; refine cool seam light contrast."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:37:53.306481+00:00",
+            "prompt": "Edit FIRST folio; preserve exact name/title, all labels, layout, ivory PAPER, source clothes and all anatomy except listed refinements. Preserve M. Voss exactly: face, silver hair, slate coat, mustard knit, tag lettering, stamp, cracked tablet and paperback. No other changes.\nFor ALL views and details correct SUBJECT LIGHT to SECOND supplied actual tunnel: strong PALE COOL-WHITE seam-facing planes against much DARKER opposing face/body planes of muted charcoal/slate. Almost no amber on skin; dark tunnel illuminated by white portal, not sunny afternoon/studio. Paper remains LIGHT WARM IVORY. Keep connected thick Canadian Group of Seven opaque oil on all face/cloth planes and matte eyes. No backdrop, floor/ground patch, room, extra person, swatches or new objects.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-90f13bed-0982-440e-8dc6-44c6731bfb29.png",
+                "sha256": "9cd07f426fa9fa1ea891b1c080f48e0d5be1d45a36a8ed64cc0e5a8b2ba14506",
+                "inspected": true,
+                "role": "Actual first target candidate, preserve subject to exact requested fixes"
+              },
+              {
+                "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+                "role": "Source seam light and oil handling only",
+                "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+                "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-91f8a923-c6e4-40f2-be29-3085ba150d57.png",
+            "savedPath": "stories/realms/art/characters/m-voss.png",
+            "outputSha256": "2645e8d49b7364e44c1ec8ad74930ca7e47c9b59c3571b5e0f01e15395cd2d71",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "2645e8d49b7364e44c1ec8ad74930ca7e47c9b59c3571b5e0f01e15395cd2d71",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-90f13bed-0982-440e-8dc6-44c6731bfb29.png",
+            "sha256": "9cd07f426fa9fa1ea891b1c080f48e0d5be1d45a36a8ed64cc0e5a8b2ba14506",
+            "inspected": true,
+            "role": "Actual first target candidate, preserve subject to exact requested fixes"
+          },
+          {
+            "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+            "role": "Source seam light and oil handling only",
+            "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+            "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual corrected pixels inspected: consistent distinct mature woman with silver short hair; exact M. Voss without name expansion, correct tag text and role; stamp, cracked tablet and paperback.",
+          "Cold bright seam-facing planes versus broad dark shadows; physical oil across face/clothes, full silhouettes, no location or swatches.",
+          "Metadata encoding repaired in anatomy, markings and explicitCanon only; historical actual sent generation prompt retains original bytes. Selected image unchanged."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "b1067deb7f6b12fa36777c449e8b6011b26f45cf0f31155ee7da5551249fd3f2"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "2645e8d49b7364e44c1ec8ad74930ca7e47c9b59c3571b5e0f01e15395cd2d71"
+    },
+    {
+      "id": "lena-mercer",
+      "name": "Lena Mercer",
+      "role": "Twelve-year-old sister whose consent changes Cal's choices",
+      "naming": {
+        "sourceName": "Lena Mercer",
+        "sourceRole": "Twelve-year-old sister whose consent changes Cal's choices",
+        "provenance": "Exact canonical finished-story name; no abbreviation expansion"
+      },
+      "selectionEvidence": [
+        {
+          "line": 86,
+          "quote": "She's twelve.",
+          "explanation": "Explicit age."
+        },
+        {
+          "line": 498,
+          "quote": "washed pale by",
+          "explanation": "Hospital-light appearance continued next line."
+        }
+      ],
+      "form": "Human child, twelve",
+      "storyAppearance": {
+        "anatomy": "Exactly12, heart condition, pale in hospital light, sitting higher against pillows after one transfusion; improved not cured. No hairstyle/clothing specified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "TWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation.",
+        "markings": "Exactly12, heart condition, pale in hospital light, sitting higher against pillows after one transfusion; improved not cured. No hairstyle/clothing specified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "TWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation.",
+        "equipment": "Two large torso studies Front and Side with hands quietly resting low as if in lap, no bed/pillow furniture shown. One smaller full-body neutral FORM STUDY to document gown/feet, no action or claim of recovery. Two head studies Dry humour and Insistent, and small ordinary phone with blank screen. Exact note under full-body 'Clothing study' only.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "TWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation."
+      },
+      "explicitCanon": [
+        "Exactly12, heart condition, pale in hospital light, sitting higher against pillows after one transfusion; improved not cured. No hairstyle/clothing specified."
+      ],
+      "visualInterpretation": [
+        "TWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Two large torso studies Front and Side with hands quietly resting low as if in lap, no bed/pillow furniture shown. One smaller full-body neutral FORM STUDY to document gown/feet, no action or claim of recovery. Two head studies Dry humour and Insistent, and small ordinary phone with blank screen. Exact note under full-body 'Clothing study' only."
+        }
+      ],
+      "lighting": {
+        "moment": "Source state described",
+        "motivation": "Cool pale hospital task light, soft blue-gray shadows, restrained warm skin planes; no cheerful golden sunlight"
+      },
+      "recurrence": {
+        "identityKey": "realms:lena-mercer",
+        "links": [
+          "universe/characters.md#Lena Mercer"
+        ],
+        "evidence": "Exact named CANON entry; art adds no new canon. M. Voss's given name stays unresolved."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/lena-mercer.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Lena Mercer'.\nTWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation.\nSource facts: Exactly12, heart condition, pale in hospital light, sitting higher against pillows after one transfusion; improved not cured. No hairstyle/clothing specified.\nComposition: Two large torso studies Front and Side with hands quietly resting low as if in lap, no bed/pillow furniture shown. One smaller full-body neutral FORM STUDY to document gown/feet, no action or claim of recovery. Two head studies Dry humour and Insistent, and small ordinary phone with blank screen. Exact note under full-body 'Clothing study' only.\nLight: Cool pale hospital task light, soft blue-gray shadows, restrained warm skin planes; no cheerful golden sunlight. Keep actual twelve-year-old anatomy. Illness improved only, no miraculous healthy athlete depiction.",
+        "references": [
+          {
+            "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+            "role": "Clinic light/oil planes only",
+            "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+            "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Ivory folio, matte connected oil technique only",
+            "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Lena Mercer'.\nTWELVE-year-old girl, slender ordinary preteen build, light olive complexion paled by illness, round cheeks echoing brother Cal, small broad flat-bridged nose, dark-brown eyes, black-brown soft curls cut to shoulders. Simple pale teal knee-length hospital gown with closed overlapping back, white socks and soft gray slippers. Fully clothed child, natural preteen face/proportions, no mature glamour. Mild tired eye shadows, not exaggerated emaciation.\nSource facts: Exactly12, heart condition, pale in hospital light, sitting higher against pillows after one transfusion; improved not cured. No hairstyle/clothing specified.\nComposition: Two large torso studies Front and Side with hands quietly resting low as if in lap, no bed/pillow furniture shown. One smaller full-body neutral FORM STUDY to document gown/feet, no action or claim of recovery. Two head studies Dry humour and Insistent, and small ordinary phone with blank screen. Exact note under full-body 'Clothing study' only.\nLight: Cool pale hospital task light, soft blue-gray shadows, restrained warm skin planes; no cheerful golden sunlight. Keep actual twelve-year-old anatomy. Illness improved only, no miraculous healthy athlete depiction.",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+                "role": "Clinic light/oil planes only",
+                "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+                "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Ivory folio, matte connected oil technique only",
+                "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-4e1576dc-87de-4e93-93cc-6a00adeb4158.png",
+            "savedPath": "stories/realms/art/characters/lena-mercer.png",
+            "outputSha256": "82ea1e72262ac6ca6952602ccc62258e00f4a421f61b0db5bdda7c704b5d3193",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "82ea1e72262ac6ca6952602ccc62258e00f4a421f61b0db5bdda7c704b5d3193",
+        "references": [
+          {
+            "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+            "role": "Clinic light/oil planes only",
+            "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+            "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "role": "Ivory folio, matte connected oil technique only",
+            "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: consistently twelve-year-old girl in modest hospital gown, soft tired face, seated torso studies and separately labelled clothing study, ordinary phone; source improvement never presented as cure.",
+          "Cool pale clinical light and matte connected oil, all required labels/name/title legible, no added room or other person."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "cbbb01daf52ef10092a3807e6a3ee88d04cf6194ec9518206265a6ba9035f27a"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "82ea1e72262ac6ca6952602ccc62258e00f4a421f61b0db5bdda7c704b5d3193"
+    },
+    {
+      "id": "vyrsel",
+      "name": "Vyrsel",
+      "role": "Dealer avatar of the living heartseed shop",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Dealer avatar of the living heartseed shop",
+        "provenance": "Art-only name assigned under explicit user naming authorization; original remains unnamed. No matching universe/frozen/spec name found. No source or canon change."
+      },
+      "selectionEvidence": [
+        {
+          "line": 255,
+          "quote": "a child-shaped figure in a gray suit.",
+          "explanation": "Direct source appearance and living identity."
+        }
+      ],
+      "form": "Nonhuman living-shop avatar",
+      "storyAppearance": {
+        "anatomy": "Child-shaped avatar, NOT an actual child, gray suit, white hair, unlined face, wrinkled old-paper hands. Thin shadow tethers it to roots; underneath paper skin is braided root. Jaw can open too far.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Small child-proportioned but ageless gender-neutral nonhuman avatar in plain gray two-piece suit with white collarless shirt and matte black shoes. Straight white bob to jaw, smooth pale ivory unlined broad face, small dark eyes, exceptionally aged wrinkled tan hands. Body is paper-like skin over braided roots; no doll joints, horns, fangs or whimsical cute styling.",
+        "markings": "Child-shaped avatar, NOT an actual child, gray suit, white hair, unlined face, wrinkled old-paper hands. Thin shadow tethers it to roots; underneath paper skin is braided root. Jaw can open too far.",
+        "materials": "Opaque physical oil describing source smoke/light/root-paper form",
+        "clothing": "Small child-proportioned but ageless gender-neutral nonhuman avatar in plain gray two-piece suit with white collarless shirt and matte black shoes. Straight white bob to jaw, smooth pale ivory unlined broad face, small dark eyes, exceptionally aged wrinkled tan hands. Body is paper-like skin over braided roots; no doll joints, horns, fangs or whimsical cute styling.",
+        "equipment": "Three complete Front/Side/Back views. Thin dark shadow tendril extends from lower body a short distance then ends at image isolation margin; NO floor, shop or root furniture. Two head studies Polite and Threatening; latter slightly overextended open lower jaw (nongraphic empty dark mouth, no new teeth). One small hand/root-skin material detail, folded skin edge over braided root no gore.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Small child-proportioned but ageless gender-neutral nonhuman avatar in plain gray two-piece suit with white collarless shirt and matte black shoes. Straight white bob to jaw, smooth pale ivory unlined broad face, small dark eyes, exceptionally aged wrinkled tan hands. Body is paper-like skin over braided roots; no doll joints, horns, fangs or whimsical cute styling."
+      },
+      "explicitCanon": [
+        "Child-shaped avatar, NOT an actual child, gray suit, white hair, unlined face, wrinkled old-paper hands. Thin shadow tethers it to roots; underneath paper skin is braided root. Jaw can open too far."
+      ],
+      "visualInterpretation": [
+        "Small child-proportioned but ageless gender-neutral nonhuman avatar in plain gray two-piece suit with white collarless shirt and matte black shoes. Straight white bob to jaw, smooth pale ivory unlined broad face, small dark eyes, exceptionally aged wrinkled tan hands. Body is paper-like skin over braided roots; no doll joints, horns, fangs or whimsical cute styling.",
+        "Art-only name and exact unsupplied morphology. No shared canon established; representation follows visible source forms only."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three complete Front/Side/Back views. Thin dark shadow tendril extends from lower body a short distance then ends at image isolation margin; NO floor, shop or root furniture. Two head studies Polite and Threatening; latter slightly overextended open lower jaw (nongraphic empty dark mouth, no new teeth). One small hand/root-skin material detail, folded skin edge over braided root no gore."
+        }
+      ],
+      "lighting": {
+        "moment": "Source visual manifestation",
+        "motivation": "Dim warm shop jar light touches limited face/hands planes, broad dark umber/slate shadows; no bright daylight"
+      },
+      "recurrence": {
+        "identityKey": "realms:vyrsel",
+        "links": [],
+        "evidence": "Same canonical local organism represented once; art-only name does not establish a shared name."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/vyrsel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit FIRST supplied image. Preserve exact Vyrsel identity, gray suit, white bob, smooth ageless unlined face, old wrinkled hands, all views and root-skin material detail, text and ivory. Replace the several tangible ROOT STRANDS dangling below the trousers in each main figure with ONE narrow FLAT nearly black SHADOW TETHER, like an attenuated ribbon of shadow emerging behind the lower torso and trailing only a short way beside a heel. No sprouting vine tail, no roots protruding from trousers, no floor patch. Actual roots remain ONLY in the labelled root-skin close study where source exposes braided interior. Correct subject lighting to dim WARM SHOP: small subdued amber planes on face/hands, most opposing face/body in connected dark brown/slate shade. White hair still white but mostly shaded gray except local lamplike jar highlights. No bright full studio fill; paper stays light ivory. Keep physical broad Canadian Group of Seven oil, matte eyes. No new scenery, person, palette/swatches, floor shadows, decorative text or rendering drift.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-93491d05-fbd5-40a6-a40b-33bedb9e66ac.png",
+            "sha256": "9405de5d95dde530c2fe8edeb5f8a5879e2a03c3d8558f09adb13f167127979c",
+            "inspected": true,
+            "role": "Actual inspected selected target; preserve except described correction"
+          },
+          {
+            "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+            "role": "Dealer source dim warm light/material strokes only",
+            "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+            "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "REVISE",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Vyrsel'.\nSmall child-proportioned but ageless gender-neutral nonhuman avatar in plain gray two-piece suit with white collarless shirt and matte black shoes. Straight white bob to jaw, smooth pale ivory unlined broad face, small dark eyes, exceptionally aged wrinkled tan hands. Body is paper-like skin over braided roots; no doll joints, horns, fangs or whimsical cute styling.\nSource facts: Child-shaped avatar, NOT an actual child, gray suit, white hair, unlined face, wrinkled old-paper hands. Thin shadow tethers it to roots; underneath paper skin is braided root. Jaw can open too far.\nComposition: Three complete Front/Side/Back views. Thin dark shadow tendril extends from lower body a short distance then ends at image isolation margin; NO floor, shop or root furniture. Two head studies Polite and Threatening; latter slightly overextended open lower jaw (nongraphic empty dark mouth, no new teeth). One small hand/root-skin material detail, folded skin edge over braided root no gore.\nLight: Dim warm shop jar light touches limited face/hands planes, broad dark umber/slate shadows; no bright daylight",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+                "role": "Dealer source dim warm light/material strokes only",
+                "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+                "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Ivory folio, matte connected oil technique only",
+                "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-93491d05-fbd5-40a6-a40b-33bedb9e66ac.png",
+            "outputSha256": "9405de5d95dde530c2fe8edeb5f8a5879e2a03c3d8558f09adb13f167127979c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:52:12.261172+00:00",
+            "review": {
+              "status": "REVISE",
+              "evidence": "Actual candidate: several corporeal roots imply invented trailing anatomy, source says thin shadow tether; requested dim warm shop shading too light."
+            }
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:52:12.261172+00:00",
+            "prompt": "Edit FIRST supplied image. Preserve exact Vyrsel identity, gray suit, white bob, smooth ageless unlined face, old wrinkled hands, all views and root-skin material detail, text and ivory. Replace the several tangible ROOT STRANDS dangling below the trousers in each main figure with ONE narrow FLAT nearly black SHADOW TETHER, like an attenuated ribbon of shadow emerging behind the lower torso and trailing only a short way beside a heel. No sprouting vine tail, no roots protruding from trousers, no floor patch. Actual roots remain ONLY in the labelled root-skin close study where source exposes braided interior. Correct subject lighting to dim WARM SHOP: small subdued amber planes on face/hands, most opposing face/body in connected dark brown/slate shade. White hair still white but mostly shaded gray except local lamplike jar highlights. No bright full studio fill; paper stays light ivory. Keep physical broad Canadian Group of Seven oil, matte eyes. No new scenery, person, palette/swatches, floor shadows, decorative text or rendering drift.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-93491d05-fbd5-40a6-a40b-33bedb9e66ac.png",
+                "sha256": "9405de5d95dde530c2fe8edeb5f8a5879e2a03c3d8558f09adb13f167127979c",
+                "inspected": true,
+                "role": "Actual inspected selected target; preserve except described correction"
+              },
+              {
+                "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+                "role": "Dealer source dim warm light/material strokes only",
+                "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+                "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cc07f086-2511-4054-9536-179e4d3574b7.png",
+            "savedPath": "stories/realms/art/characters/vyrsel.png",
+            "outputSha256": "690c20bdda150bf40357b63154d213900c8e219f70d070fa01d97893b5e99922",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "690c20bdda150bf40357b63154d213900c8e219f70d070fa01d97893b5e99922",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-93491d05-fbd5-40a6-a40b-33bedb9e66ac.png",
+            "sha256": "9405de5d95dde530c2fe8edeb5f8a5879e2a03c3d8558f09adb13f167127979c",
+            "inspected": true,
+            "role": "Actual inspected selected target; preserve except described correction"
+          },
+          {
+            "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+            "role": "Dealer source dim warm light/material strokes only",
+            "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+            "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual second candidate inspected: one child-shaped non-child avatar, same white bob/unlined face/gray suit, aged paper hands and exposed braided-root material detail; overly long open jaw in head study.",
+          "Corporeal hanging roots corrected to single thin dark shadow tether in every main figure; warm limited shop illumination with deep shadows, no room/floor or extra identities."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "fbdafad303f56a071ad9732bb9eb4c46caeb90877dc49db937dbd073e656987d"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "690c20bdda150bf40357b63154d213900c8e219f70d070fa01d97893b5e99922"
+    },
+    {
+      "id": "othru",
+      "name": "Othru",
+      "role": "Living smoke gatekeeper who selects the entry memory",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Living smoke gatekeeper who selects the entry memory",
+        "provenance": "Art-only name assigned under explicit user naming authorization; original remains unnamed. No matching universe/frozen/spec name found. No source or canon change."
+      },
+      "selectionEvidence": [
+        {
+          "line": 133,
+          "quote": "a living figure made of warm smoke",
+          "explanation": "Direct source appearance and living identity."
+        }
+      ],
+      "form": "Living smoke figure",
+      "storyAppearance": {
+        "anatomy": "Living figure made of warm smoke; faces open and close inside body like bubbles. It spans approach, speaks, reaches with cool finger to brow. No fixed human anatomy or garment specified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "ONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body.",
+        "markings": "Living figure made of warm smoke; faces open and close inside body like bubbles. It spans approach, speaks, reaches with cool finger to brow. No fixed human anatomy or garment specified.",
+        "materials": "Opaque physical oil describing source smoke/light/root-paper form",
+        "clothing": "ONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body.",
+        "equipment": "Three coherent whole-form studies labelled Resting / Reaching / Re-forming, SAME smoke identity. Faces stay faint integral impressions in one body, never individual extra cast. Right two close smoke studies Face impression and Finger formation. All shapes isolated on ivory, no road/gate/collection line or human victim.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "ONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body."
+      },
+      "explicitCanon": [
+        "Living figure made of warm smoke; faces open and close inside body like bubbles. It spans approach, speaks, reaches with cool finger to brow. No fixed human anatomy or garment specified."
+      ],
+      "visualInterpretation": [
+        "ONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body.",
+        "Art-only name and exact unsupplied morphology. No shared canon established; representation follows visible source forms only."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Three coherent whole-form studies labelled Resting / Reaching / Re-forming, SAME smoke identity. Faces stay faint integral impressions in one body, never individual extra cast. Right two close smoke studies Face impression and Finger formation. All shapes isolated on ivory, no road/gate/collection line or human victim."
+        }
+      ],
+      "lighting": {
+        "moment": "Source visual manifestation",
+        "motivation": "Soft warm natural outdoor light and blue-gray shade from inspected realm sky; smoke not self-luminous"
+      },
+      "recurrence": {
+        "identityKey": "realms:othru",
+        "links": [],
+        "evidence": "Same canonical local organism represented once; art-only name does not establish a shared name."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/othru.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Othru'.\nONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body.\nSource facts: Living figure made of warm smoke; faces open and close inside body like bubbles. It spans approach, speaks, reaches with cool finger to brow. No fixed human anatomy or garment specified.\nComposition: Three coherent whole-form studies labelled Resting / Reaching / Re-forming, SAME smoke identity. Faces stay faint integral impressions in one body, never individual extra cast. Right two close smoke studies Face impression and Finger formation. All shapes isolated on ivory, no road/gate/collection line or human victim.\nLight: Soft warm natural outdoor light and blue-gray shade from inspected realm sky; smoke not self-luminous",
+        "references": [
+          {
+            "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+            "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+            "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+            "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Othru'.\nONE coherent upright broad shifting form entirely made of warm brown-gray translucent smoke, with abstract pale face-impressions swelling/receding within it like bubbles. No flesh, feet, clothes, armor, eyes floating outside or separate spirits. One smoke arm can form a narrow fingertip, then merge into cloud body.\nSource facts: Living figure made of warm smoke; faces open and close inside body like bubbles. It spans approach, speaks, reaches with cool finger to brow. No fixed human anatomy or garment specified.\nComposition: Three coherent whole-form studies labelled Resting / Reaching / Re-forming, SAME smoke identity. Faces stay faint integral impressions in one body, never individual extra cast. Right two close smoke studies Face impression and Finger formation. All shapes isolated on ivory, no road/gate/collection line or human victim.\nLight: Soft warm natural outdoor light and blue-gray shade from inspected realm sky; smoke not self-luminous",
+            "references": [
+              {
+                "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+                "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+                "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+                "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d46b5e2f-6a9e-4a48-aafd-20ad55636cae.png",
+            "savedPath": "stories/realms/art/characters/othru.png",
+            "outputSha256": "844f365be5b69dd6df4969162bb1ef5fe73943dba2887b15bf94469a7fcbde14",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "844f365be5b69dd6df4969162bb1ef5fe73943dba2887b15bf94469a7fcbde14",
+        "references": [
+          {
+            "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+            "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+            "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+            "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: one smoke identity with integral ephemeral faces, whole-form Resting and Reaching views, face and finger-formation studies. Two larger whole forms adequately establish shifting form; no separate third form necessary.",
+          "Warm smoke built with large physical oil masses and cool shadow, no fixed flesh or garments, ivory isolated, exact heading and title, no gate/road scene."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "2b28cc8668d89418cf71e136ce24864241d41eefe6158efcb86d7502aea4b9bc"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "844f365be5b69dd6df4969162bb1ef5fe73943dba2887b15bf94469a7fcbde14"
+    },
+    {
+      "id": "aurell",
+      "name": "Aurell",
+      "role": "Lena-tuned living heartseed that roots in Cal and answers the pursuit",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Lena-tuned living heartseed that roots in Cal and answers the pursuit",
+        "provenance": "Art-only name assigned under explicit user naming authorization; original remains unnamed. No matching universe/frozen/spec name found. No source or canon change."
+      },
+      "selectionEvidence": [
+        {
+          "line": 252,
+          "quote": "Glass jars held plum-sized lights",
+          "explanation": "Direct source appearance and living identity."
+        },
+        {
+          "quote": "The heartseed answered the knock with one hard, hungry beat.",
+          "explanation": "Final sentence demonstrates central being's meaningful response; included as character, not merely passive resource.",
+          "line": 579
+        }
+      ],
+      "form": "Living luminous symbiote",
+      "storyAppearance": {
+        "anatomy": "Plum-sized living light dormant in jar, rhythmically beats. Enters first fresh blood, forms golden branches beneath wrist skin toward chest, maintains second rhythm and answers final knock with a hard hungry beat. No face, limbs, detailed internal organ anatomy stated.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "ONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology.",
+        "markings": "Plum-sized living light dormant in jar, rhythmically beats. Enters first fresh blood, forms golden branches beneath wrist skin toward chest, maintains second rhythm and answers final knock with a hard hungry beat. No face, limbs, detailed internal organ anatomy stated.",
+        "materials": "Opaque physical oil describing source smoke/light/root-paper form",
+        "clothing": "ONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology.",
+        "equipment": "Left large enlarged study Dormant in jar: one simple clear jar containing single plum-sized living light, no shelf. Middle isolated enlarged same light labelled Living light. Right one finer golden branching filament study labelled Rooting threads, abstracted from source subcutaneous gold branches, no host hand/person or anatomical cutaway. Smallest jar/light study establishes approximate plum scale without ruler/swatches. Read as same entity views, not several different seeds.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "ONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology."
+      },
+      "explicitCanon": [
+        "Plum-sized living light dormant in jar, rhythmically beats. Enters first fresh blood, forms golden branches beneath wrist skin toward chest, maintains second rhythm and answers final knock with a hard hungry beat. No face, limbs, detailed internal organ anatomy stated."
+      ],
+      "visualInterpretation": [
+        "ONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology.",
+        "Art-only name and exact unsupplied morphology. No shared canon established; representation follows visible source forms only."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Left large enlarged study Dormant in jar: one simple clear jar containing single plum-sized living light, no shelf. Middle isolated enlarged same light labelled Living light. Right one finer golden branching filament study labelled Rooting threads, abstracted from source subcutaneous gold branches, no host hand/person or anatomical cutaway. Smallest jar/light study establishes approximate plum scale without ruler/swatches. Read as same entity views, not several different seeds."
+        }
+      ],
+      "lighting": {
+        "moment": "Source visual manifestation",
+        "motivation": "Local warm emitted seed light against dim amber/brown material planes; paper remains ivory"
+      },
+      "recurrence": {
+        "identityKey": "realms:aurell",
+        "links": [],
+        "evidence": "Same canonical local organism represented once; art-only name does not establish a shared name."
+      },
+      "references": [
+        {
+          "path": "stories/realms/art/interiors/01-queen-street-return-tunnel.png",
+          "role": "Source seam light and oil handling only",
+          "notes": "Actual white vertical seam key in dim gray/ochre tunnel; no setting or black rain transferred.",
+          "sha256": "bb82e8b56e6ff46f4d7207d7bc1006a21938775b28ac60c422d5b3c606658568",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Ivory folio, matte connected oil technique only",
+          "notes": "Actual subject rendering inspected; never transfer male face/hair/costume.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+          "role": "Dealer source dim warm light/material strokes only",
+          "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+          "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/interiors/03-return-clinic-room.png",
+          "role": "Clinic light/oil planes only",
+          "notes": "Cool gray room with limited pale medical task lamp, no beds/room copied. Lena's own hospital is elsewhere; only compatible lamp handling.",
+          "sha256": "2a2b13922ce87316b667c4832c60b2357b640cd062b6235dc95dc47f78e27c53",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
+          "role": "Gatekeeper under blue-sky illumination, connected oil smoke construction",
+          "notes": "Warm ivory cloud masses with gray-lilac shade under blue sky, no landscape/architecture.",
+          "sha256": "782a634219c0c26f65a661074a50e50f9bb8f609ce4455a53c5510527ac882aa",
+          "inspected": true
+        },
+        {
+          "path": "stories/realms/title-image.jpg",
+          "role": "Inspected narrative cover context only",
+          "notes": "No human likeness. Stylized light/portal and heart-symbol not adopted as literal seed anatomy. Source plum-sized light governs.",
+          "sha256": "e135be35014528fff85aa9dc0e216fd882093b6d07f3f38157074bfb8646646a",
+          "inspected": true
+        }
+      ],
+      "output": "stories/realms/art/characters/aurell.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Aurell'.\nONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology.\nSource facts: Plum-sized living light dormant in jar, rhythmically beats. Enters first fresh blood, forms golden branches beneath wrist skin toward chest, maintains second rhythm and answers final knock with a hard hungry beat. No face, limbs, detailed internal organ anatomy stated.\nComposition: Left large enlarged study Dormant in jar: one simple clear jar containing single plum-sized living light, no shelf. Middle isolated enlarged same light labelled Living light. Right one finer golden branching filament study labelled Rooting threads, abstracted from source subcutaneous gold branches, no host hand/person or anatomical cutaway. Smallest jar/light study establishes approximate plum scale without ruler/swatches. Read as same entity views, not several different seeds.\nLight: Local warm emitted seed light against dim amber/brown material planes; paper remains ivory",
+        "references": [
+          {
+            "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+            "role": "Dealer source dim warm light/material strokes only",
+            "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+            "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:23:13.122640+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 LANDSCAPE character-only folio on clean LIGHT WARM IVORY. Exact large dark serif character name, smaller exact subtitle 'Realms'. ONE identity only; comfortable margins and exact useful state/view labels. Physical Canadian Group of Seven heavy OIL: broad CONNECTED colour/value masses, opaque directional bristle strokes and selective impasto across faces as much as fabric; quiet broad joining shadows, matte eyes. FIRST supplied image supplies source LIGHT/material paint only, SECOND when present gives ivory folio technique only, never borrowed identity. Preserve source DARKNESS for interiors: deep shaded body/face planes against small motivated highlights, NOT generic bright warm studio fill. No glossy photorealism, CGI, anime line drawing, sparkle coating. No setting, location, floor/ground patch, furniture, windows, scene, other people, swatches/palette or decorative exposition. One identity consistent through all views.\nHeading 'Aurell'.\nONE plum-sized irregular softly ovoid GOLDEN LIVING LIGHT, physical luminous oil mass with a concentrated pale center and amber outer planes. No literal heart icon, human heart, eyes, mouth, personality face or invented seed husk. Shape and brightness contours are art interpretation of unspecified living-light morphology.\nSource facts: Plum-sized living light dormant in jar, rhythmically beats. Enters first fresh blood, forms golden branches beneath wrist skin toward chest, maintains second rhythm and answers final knock with a hard hungry beat. No face, limbs, detailed internal organ anatomy stated.\nComposition: Left large enlarged study Dormant in jar: one simple clear jar containing single plum-sized living light, no shelf. Middle isolated enlarged same light labelled Living light. Right one finer golden branching filament study labelled Rooting threads, abstracted from source subcutaneous gold branches, no host hand/person or anatomical cutaway. Smallest jar/light study establishes approximate plum scale without ruler/swatches. Read as same entity views, not several different seeds.\nLight: Local warm emitted seed light against dim amber/brown material planes; paper remains ivory",
+            "references": [
+              {
+                "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+                "role": "Dealer source dim warm light/material strokes only",
+                "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+                "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-9645d97d-6831-408e-a509-bf6b289b21f0.png",
+            "savedPath": "stories/realms/art/characters/aurell.png",
+            "outputSha256": "4e7f47fae1234b3f465f5d012d221d32da32e98616a20d7932cf4ad8174c66d1",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T05:08:51.574960+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T05:08:51.574960+00:00",
+        "sourceSha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae",
+        "outputSha256": "4e7f47fae1234b3f465f5d012d221d32da32e98616a20d7932cf4ad8174c66d1",
+        "references": [
+          {
+            "path": "stories/realms/art/interiors/02-deepmarket-heartseed-shop.png",
+            "role": "Dealer source dim warm light/material strokes only",
+            "notes": "Dark brown roots and muted gold jar illumination; no furniture/room.",
+            "sha256": "fa86437a4ed84e446d06c8813b1c9f49baa8ebe5d507e89aa7fb60b764601368",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels inspected: same living golden light enlarged in transparent jar and isolated, plus gold branching threads; no face/limbs/human-heart icon, host anatomy or scene.",
+          "Three large readable biological-form studies adequate; active response inclusion grounded in final source sentence. Source supplies light and threads; exact contours are art interpretation. Thick luminous oil planes, ivory and exact name/title."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "19d742ec245a89f90dc91940ab0e506d15d65ba3e6f7c43bd2f600d61375a6b4"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "4e7f47fae1234b3f465f5d012d221d32da32e98616a20d7932cf4ad8174c66d1"
+    }
+  ]
+}
