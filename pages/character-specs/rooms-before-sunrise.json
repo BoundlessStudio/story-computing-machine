@@ -1,0 +1,1284 @@
+{
+  "schemaVersion": 1,
+  "slug": "rooms-before-sunrise",
+  "title": "The Rooms the City Forgot",
+  "source": "stories/rooms-before-sunrise/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Lirenn and Bordu make the classification/rescue decisions; all five displaced residents sustain the immediate stakes, with distinct actions and appearances. The older woman's evidence/consent and fevering man's medical conditions materially drive the climax.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Medics, debridement crew, night-office staff, legal residents",
+      "reason": "Unnamed brief functionaries or collective stakes without sustained individual identity."
+    },
+    {
+      "name": "Housing tower and ceramic comb",
+      "reason": "Building's intent is explicitly unknowable, comb is nonliving carrier; neither establishes personhood or a character identity."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/style-guide.md#Personhood and moral consequence"
+  ],
+  "sourcePromptReferenceInventory": [],
+  "referenceConflicts": [
+    "Cover depicts symbolic large culture cups; source requires dozens of fine perforations on ceramic crescent. Final prose governs physical prop.",
+    "No existing cover or inspected interior depicts character identity; all unspecified facial/costume choices are art interpretations."
+  ],
+  "characters": [
+    {
+      "id": "lirenn",
+      "name": "Lirenn",
+      "role": "Municipal pruner and viewpoint; judges and preserves housing while pruning disease.",
+      "selectionEvidence": [
+        {
+          "quote": "Lirenn touched her mask.",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Work-capable ordinary adult.",
+        "markings": "No permanent marks specified.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Rubber gloves and protective mask, boots; rest unspecified.",
+        "equipment": "Wrist slate, ceramic-spined pruning knives, tension prongs, resonance peg, mineral paste, small culture cups.",
+        "scale": "Human adult scale.",
+        "movement": "Deliberate precision, braced stance, steady hands.",
+        "distinctiveFeatures": "Protective mask with throat communication control and wrist slate."
+      },
+      "explicitCanon": [
+        "Human woman municipal pruning worker.",
+        "Uses mask communication, rubber gloves, wrist slate and ceramic cutting tools.",
+        "Studies biological responses; no magical power or mind-reading assigned."
+      ],
+      "visualInterpretation": [
+        "Art interpretation: age35, dark brown skin, broad heart-shaped face, wide nose, strong brows, short close black natural curls, lean sturdy build.",
+        "Plain dark teal municipal work jacket and trousers, rubber cuff gloves, flat work boots, compact utility belt and modest safety harness; no invented official crest.",
+        "Two masked work forms and one unmasked neutral identity study explicitly a reference detail, not a narrated mask-removal event."
+      ],
+      "states": [
+        {
+          "name": "Work kit",
+          "description": "Front and rear forms with closed protective mask, ordinary tools."
+        },
+        {
+          "name": "Face study",
+          "description": "Unmasked identification detail; same identity."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:lirenn",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/lirenn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. Create ONE 1536x1024 landscape warmivory character folio, exact 'Lirenn' / 'The Rooms the City Forgot'. Canadian Group of Seven opaque oil brushwork, broad quiet CONNECTED painted forms and simplified matte faces, varied bristle direction and selective impasto. The character's independent face MUST NOT copy reference1. Lirenn is a human woman municipal pruning worker, age35 interpretation, DARK BROWN skin, broad heart-shaped face with pronounced cheekbones and wide rounded nose, strong low eyebrows, small dark eyes, short CLOSE BLACK NATURAL CURLS, lean sturdy adult proportions. All views same identity. Plain darkTEAL work jacket and matching loose trousers, compact utility belt, flat rubber work boots, long cuff RUBBER GLOVES, simple compact protective mask covers nose/mouth with small THROAT communication control, visible eyebrows/eyes. Modest practical safety harness, no logos/crest/weapons/armor. Two complete unclipped body forms left and center: front threequarter 'Work kit' holding small ceramic-spined PRUNING KNIFE lowered safely and showing WRIST SLATE; rear threequarter 'At dawn', mask still worn, compact toolbelt (tension prongs, peg, small sealed culture cups) visible. Right head study 'Face study' reveals SAME human face WITHOUT MASK as identification detail, not a story action; firm focused expression, no glamor smile. Lower small close study of gloved hand with ceramic knife and wrist slate, objects held rather than arranged in scene. Correct ordinary anatomy, twoarms/twolegs, clean tools no blood. LIGHTING: narrow egress DAWN casts only one small diluted warmgold plane on cheek/glove; MOST body AND FACE remain muted deep cool slate/umber shadow, low-key narrow natural light, not bright daylight/studio, no glowing rim. Preserve source interior darkness in human exposure. Broad dark skin masses, natural eyes, no smooth photoreal face/anime/plastic or uniformly bright paint chips. Generous ivory negative space, clear exact labels, no scenery/architecture/coral/walls/floor/groundpatches/plants/swatches/palette strips or other figures.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:43:04.931279+00:00",
+            "prompt": "Use case: illustration-story. Create ONE 1536x1024 landscape warmivory character folio, exact 'Lirenn' / 'The Rooms the City Forgot'. Canadian Group of Seven opaque oil brushwork, broad quiet CONNECTED painted forms and simplified matte faces, varied bristle direction and selective impasto. The character's independent face MUST NOT copy reference1. Lirenn is a human woman municipal pruning worker, age35 interpretation, DARK BROWN skin, broad heart-shaped face with pronounced cheekbones and wide rounded nose, strong low eyebrows, small dark eyes, short CLOSE BLACK NATURAL CURLS, lean sturdy adult proportions. All views same identity. Plain darkTEAL work jacket and matching loose trousers, compact utility belt, flat rubber work boots, long cuff RUBBER GLOVES, simple compact protective mask covers nose/mouth with small THROAT communication control, visible eyebrows/eyes. Modest practical safety harness, no logos/crest/weapons/armor. Two complete unclipped body forms left and center: front threequarter 'Work kit' holding small ceramic-spined PRUNING KNIFE lowered safely and showing WRIST SLATE; rear threequarter 'At dawn', mask still worn, compact toolbelt (tension prongs, peg, small sealed culture cups) visible. Right head study 'Face study' reveals SAME human face WITHOUT MASK as identification detail, not a story action; firm focused expression, no glamor smile. Lower small close study of gloved hand with ceramic knife and wrist slate, objects held rather than arranged in scene. Correct ordinary anatomy, twoarms/twolegs, clean tools no blood. LIGHTING: narrow egress DAWN casts only one small diluted warmgold plane on cheek/glove; MOST body AND FACE remain muted deep cool slate/umber shadow, low-key narrow natural light, not bright daylight/studio, no glowing rim. Preserve source interior darkness in human exposure. Broad dark skin masses, natural eyes, no smooth photoreal face/anime/plastic or uniformly bright paint chips. Generous ivory negative space, clear exact labels, no scenery/architecture/coral/walls/floor/groundpatches/plants/swatches/palette strips or other figures.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "landscape folio and broad oil painting only; never face, hair or costume",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "diluted dawn gold amid connected deep slate shadow and opaque oil only, no room copied",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-abdd7d43-e610-439b-a96a-579483ca8488.png",
+            "outputSha256": "efa5bf7f4545d7cb5242c37cf7e1adee98c2a88c384cf46aac56b7df129429ca",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:45:48.158797+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "landscape folio and broad oil painting only; never face, hair or costume",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "diluted dawn gold amid connected deep slate shadow and opaque oil only, no room copied",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:45:48.158797+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "efa5bf7f4545d7cb5242c37cf7e1adee98c2a88c384cf46aac56b7df129429ca",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+            "role": "landscape folio and broad oil painting only; never face, hair or costume",
+            "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "diluted dawn gold amid connected deep slate shadow and opaque oil only, no room copied",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: distinct adult dark-brown human woman, short natural black curls, broad facial anatomy consistent across masked complete front/rear forms and unmasked identification head study.",
+          "Rubber gloves, plain teal work clothing, harness, boots, wrist slate, small ceramic knife and compact kit readable without environment. No magical power implied.",
+          "Low-key connected dark teal/umber masses with limited dawn gold cheek/edge planes and matte broad painted flesh; exact title/name/labels on ivory, no scenic ground or swatches."
+        ],
+        "specificationSha256": "a49b2d7270e902c17edae7abc6d418548a3940f42ffabae723b8fe71c4b60755"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Lirenn"
+      },
+      "lighting": "Final dawn through narrow egress: dominant cool muted slate/umber shadow with only a narrow diluted gold plane across cheek and gloved hand.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "efa5bf7f4545d7cb5242c37cf7e1adee98c2a88c384cf46aac56b7df129429ca"
+    },
+    {
+      "id": "bordu",
+      "name": "Bordu",
+      "role": "Night supervisor; continuing voice whose operational limits and authority shape the rescue.",
+      "selectionEvidence": [
+        {
+          "quote": "He protected totals.",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Unspecified.",
+        "markings": "None specified.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Not described; unseen voice in night office.",
+        "equipment": "Tower map and communication device inferred from supervised operations.",
+        "scale": "Human adult scale.",
+        "movement": "No visible source movement; restrained reference posture.",
+        "distinctiveFeatures": "Tired practical supervisor, no villain costume."
+      },
+      "explicitCanon": [
+        "Male night supervisor who directs emergency response and pressure reduction.",
+        "Protects legal tenants and ultimately accepts measured housing classification.",
+        "Source never depicts facial appearance."
+      ],
+      "visualInterpretation": [
+        "Art-only appearance: about52, fair weathered skin, broad square face, receding short gray hair, gray mustache, heavy brows, stocky build.",
+        "Plain slate-blue office work shirt, dark brown trousers, sensible black shoes; plain handset and folded section diagram, no uniform insignia.",
+        "Dim night-office task light inferred; no office scenery."
+      ],
+      "states": [
+        {
+          "name": "Night supervisor",
+          "description": "Full front and rear forms; modest handset and folded section."
+        },
+        {
+          "name": "Listening",
+          "description": "Tired attentive head study."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:bordu",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/bordu.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Lighting-only edit of this exact Bordu character folio. Preserve every form, face, mustache/hair, pose, clothes, hands, handset/map, complete feet and exact all typography. The NIGHT OFFICE is dim with local tasklight. Darken all character/body/head/hand forms by one stop, joining darkcool blue-gray/umber shadows across far face, forehead, neck and shirt; leave only a small soft neutralwarm cheek/hand plane under local electric tasklamp. Remove broadly sunny brightorange skin and broad brightblue shirt. Keep his fair skin material, grayhair/mustache and all face details naturally readable beneath dim exposure. Matte broad expressive opaque oils, no photoreal smoothing, no bright rim. Warmivory paper untouched and bright; all items remain isolated with NO office, floor, groundpatch, scenery orswatches. No other change.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T04:07:26.388374+00:00",
+            "prompt": "Use case: illustration-story. A character reference FOLIO, landscape1536x1024, on completely plain warmivory. Exact large readable title upperleft 'Bordu', subtitle 'The Rooms the City Forgot'. ONE human adult MAN, a tired night-shift MUNICIPAL SUPERVISOR. He appears only by voice in prose, so visual interpretation is plain and practical. Age52, FAIR ruddy skin, BROAD SQUARE face, large square forehead with RECEDING SHORT GRAY HAIR, gray MUSTACHE only (no fullbeard), heavy straightbrows, small blue-gray eyes, broad short nose and squarejaw, stocky moderate-bellied build. No resemblance to other characters. Plain SLATE-BLUE buttoned workshirt with longsleeves and no insignia, DARKBROWN trousers, ordinary black laceup shoes. Portable black communication handset and simple folded paper section diagram; no futuristic floating UI. Layout: two large separated complete fullbody figures frontthreequarter 'Night supervisor' with handset at ear and folded paper otherhand; backthreequarter 'On the line' same head/mustache/physique, onehand relaxed. Right two head studies SAME man 'Listening' and 'Decision', restrained tired attention, no caricaturevillain or smile. Small isolated hands/handset/paper detail optional. ALL forms completely unclipped head-to-feet, no seating/furniture. Lighting on CHARACTER: low-key dim local TASKLAMP inference for nightoffice, small soft neutralwarm light on near cheek and fingers, mostly connected darkcool-gray/umber shadow. No broad sunlight/brightstudio or cinematic rim. Reference provides ONLY Canadian GroupofSeven OPAQUE OIL approach: large simplified connected color/value planes, varied broad directional bristle marks, selective heavy impasto, quiet joining passages. Faces/hair equally bold painted and MATTE as clothing, not photoreal/CGI/anime, no uniformlybevelled tiny paintchips or glossyeyes. Background warmivory clean and lighter than the character. NO room/desk/tower/architecture/floor/groundpatches/scenery/otherpeople/palette orswatches.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "broad matte GroupofSeven paint and subdued shadow values only; no environment, no borrowed dawn state",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d52b3c82-714e-464b-8bab-ac7b9569b6e5.png",
+            "reviewFindings": [
+              "Distinct identity/props/layout accepted; nightoffice light should have connected shadow and smaller warmplanes, current face too broadlybright."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:10:52.439037+00:00",
+            "prompt": "Lighting-only edit of this exact Bordu character folio. Preserve every form, face, mustache/hair, pose, clothes, hands, handset/map, complete feet and exact all typography. The NIGHT OFFICE is dim with local tasklight. Darken all character/body/head/hand forms by one stop, joining darkcool blue-gray/umber shadows across far face, forehead, neck and shirt; leave only a small soft neutralwarm cheek/hand plane under local electric tasklamp. Remove broadly sunny brightorange skin and broad brightblue shirt. Keep his fair skin material, grayhair/mustache and all face details naturally readable beneath dim exposure. Matte broad expressive opaque oils, no photoreal smoothing, no bright rim. Warmivory paper untouched and bright; all items remain isolated with NO office, floor, groundpatch, scenery orswatches. No other change.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d52b3c82-714e-464b-8bab-ac7b9569b6e5.png",
+                "role": "immutable candidate, lighting-only correction to dim night-office state",
+                "sha256": "ce2f007b3334d8127b175568f3951dab0236774a8701301c870a730310e2a33a",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-607027c8-9af3-47cf-969b-e364a22ea6e8.png",
+            "outputSha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:15:35.882899+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d52b3c82-714e-464b-8bab-ac7b9569b6e5.png",
+            "role": "immutable candidate, lighting-only correction to dim night-office state",
+            "sha256": "ce2f007b3334d8127b175568f3951dab0236774a8701301c870a730310e2a33a",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:15:35.882899+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-d52b3c82-714e-464b-8bab-ac7b9569b6e5.png",
+            "role": "immutable candidate, lighting-only correction to dim night-office state",
+            "sha256": "ce2f007b3334d8127b175568f3951dab0236774a8701301c870a730310e2a33a",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: distinct mature fair square-faced stocky supervisor, receding gray hair and gray mustache consistent across front/back and head studies. Appearance remains explicitly art interpretation for source voice role.",
+          "Plain slate workshirt/brown trousers/black shoes, modest handset and folded section diagram; human anatomy complete with feet and functional fingers, no invented rank or superpower.",
+          "Corrected dim tasklight connects cool/umber shadow while preserving limited warm cheek and hand planes. Broad matte painted face and cloth, warm ivory, exact title/name/labels, no office setting or swatches."
+        ],
+        "specificationSha256": "82c270b310954f386276d1f53855c8d84dc367cf8235028af2fadbdb08ed1514"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Bordu"
+      },
+      "lighting": "Night office, dark muted bluegray/umber shadow connected across most forms with a restrained warm task-light cheek/hand plane.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c"
+    },
+    {
+      "id": "mular",
+      "name": "Mular",
+      "role": "Displaced former graft tender; hides and finally detaches the five lease cultures.",
+      "selectionEvidence": [
+        {
+          "quote": "He was broad, gray-haired, and bare to the waist",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult gray-haired; exact age unspecified.",
+        "proportions": "Broad.",
+        "markings": "Harmless salt rash stippled skin; no lease seal under collarbone.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Bare to waist; lower clothing unspecified.",
+        "equipment": "Crescent fired ceramic comb with dozens of fine holes, later broken and quarantined.",
+        "scale": "Human adult scale.",
+        "movement": "Broad blocking stance; precise tending hands, nervous fingers.",
+        "distinctiveFeatures": "Gray hair, bare torso, stippled salt rash."
+      },
+      "explicitCanon": [
+        "Broad gray-haired man bare to waist, harmless salt rash and no lease seal.",
+        "Former graft tender with five living cultures threaded through nonliving perforated ceramic.",
+        "Comb breaks near final culture and is sealed in quarantine jar; ceramic has no agency."
+      ],
+      "visualInterpretation": [
+        "Art-only age58, warm tan skin, broad rectangular nose/face, cropped coarse gray hair, short gray stubble, broad soft working build.",
+        "Faded slate drawstring work trousers, ordinary flat sandals. Salt rash subtle pale/red stippling, not open wounds.",
+        "Dawn end form carries closed clear quarantine jar containing broken ivory crescent only; the five cultures are separately kept in cups outside this sheet. No roots attached to environment."
+      ],
+      "states": [
+        {
+          "name": "Graft tender",
+          "description": "Complete front/back forms, bare torso and rash."
+        },
+        {
+          "name": "Quarantined comb",
+          "description": "Portable sealed jar with broken ceramic, no wall or wick."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:mular",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/mular.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Make two precise corrections to this exact Mular sheet, preserve identity/rash/anatomy/clothing/poses/layout/text and warmivory paper. 1. BOTH sealed jars (centerbody and lower-right hands detail) contain ONLY TWO BROKEN PIECES of the perforated ivory CERAMIC CRESCENT, separated enough to see the break. NO dark clots, beads, seeds or cultures in this jar; remove every dark floating clump. The five living cultures went to separate cups in the story and are outside this sheet. Ceramic has dozens fineholes, no big cups. Closed transparent jar, natural hands, visible irregular fracture dividing crescent into two fragments. 2. DARKEN ALL exposed skin in every fullbody/head/hands study substantially, about1.5stops, into dominant connected cool muted blue-gray and umber interior shadow. Leave ONLY small narrow soft diluted dawn gold on near uppercheek or shoulder and a little handplane. The current broad golden fullylit torso/head is too bright; retain readable mature face and salt-rash marks but most chest/back/face stay darkquiet. Do not whiten/dull race or change tan skin itself: change exposure. Preserve grayhair/stubble, same stocky mature58 identity, baretorso/slatetrousers/sandals, complete feet. No rimhalo, no scenery or floorpatches. Broad matte GroupofSeven oils, not detailed shiny mosaics. Exact 'Mular' / 'The Rooms the City Forgot' and all labels unchanged.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T03:45:49.194509+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape warmivory character reference sheet, exact 'Mular' / 'The Rooms the City Forgot'. Canadian Group of Seven opaque oils like image1, broad connected quiet painted masses including face, varied directional strokes and selective impasto, no plastic/glossyphotoreal face or alloverbevelledchips. Character ONE older HUMAN MAN age58 interpretation, broad stocky soft working build, warm TAN skin, broad rectangular face, large blunt nose, small deep-set brown eyes, CROPPED COARSE GRAY hair and short gray stubble. No resemblance to Lirenn's face. BARE TORSO to waist, subtly stippled harmless SALT RASH over shoulders/upperchest/back (small pale and mutedreddish spots, no ulcers/wounds), no glowing lease seal or tattoo anywhere under collarbone. Faded slate loose drawstring worktrousers and ordinary brown flat sandals. LEFT complete full-body threequarter 'Graft tender', broad steady stance and bare empty hands visible; CENTER complete rear-threequarter 'At dawn', SAME man, torso/rash clear, holding sealed transparent ordinary QUARANTINE JAR in one hand at waist. Jar contains BROKEN matte IVORY CERAMIC CRESCENT with dozens of fine punched holes and several separated dark culture clots in liquid; NOT large cups, no eyes/glow, no autonomous magic, no attached roots/wall. RIGHT one large mature head study 'Listening' and small hands-plus-sealed-jar close study 'Quarantined comb'. Hands big and practical; fingers naturally wrapped around jar, not touching cultures directly. Same gray hair/face acrossviews. All full bodies complete/unclipped including sandals. LIGHT: most bare skin and cloth in subdued connected cool blueviolet/umber shadow, only narrow soft diluted gold on uppercheek/shoulder as sunrise enters slit; no broad bright studioface/chest and no rimhalo. Bare warmivory around all forms and between details, NO scene/floorplanes/groundpatches/coral/tower/wall/plants/swatches/palettes/otherpeople.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/lirenn.png",
+                "role": "same-story broad oil folio and restrained dawn exposure only; do not transfer woman's identity",
+                "sha256": "efa5bf7f4545d7cb5242c37cf7e1adee98c2a88c384cf46aac56b7df129429ca",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "perforated crescent ceramic geometry and limited dawn light only; no wall/roots setting",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0bd3086f-df68-4830-9730-6f6db3662fdc.png",
+            "reviewFindings": [
+              "Jar requires broken ceramic only: remove intact crescent and dark cultures, which source quarantines separately in cups. Prepared first prompt introduced wrong shared-jar interpretation, now corrected. Broad skin exposure too sunny for narrow dawn egress; connect deep cool shadow."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:48:55.275593+00:00",
+            "prompt": "Make two precise corrections to this exact Mular sheet, preserve identity/rash/anatomy/clothing/poses/layout/text and warmivory paper. 1. BOTH sealed jars (centerbody and lower-right hands detail) contain ONLY TWO BROKEN PIECES of the perforated ivory CERAMIC CRESCENT, separated enough to see the break. NO dark clots, beads, seeds or cultures in this jar; remove every dark floating clump. The five living cultures went to separate cups in the story and are outside this sheet. Ceramic has dozens fineholes, no big cups. Closed transparent jar, natural hands, visible irregular fracture dividing crescent into two fragments. 2. DARKEN ALL exposed skin in every fullbody/head/hands study substantially, about1.5stops, into dominant connected cool muted blue-gray and umber interior shadow. Leave ONLY small narrow soft diluted dawn gold on near uppercheek or shoulder and a little handplane. The current broad golden fullylit torso/head is too bright; retain readable mature face and salt-rash marks but most chest/back/face stay darkquiet. Do not whiten/dull race or change tan skin itself: change exposure. Preserve grayhair/stubble, same stocky mature58 identity, baretorso/slatetrousers/sandals, complete feet. No rimhalo, no scenery or floorpatches. Broad matte GroupofSeven oils, not detailed shiny mosaics. Exact 'Mular' / 'The Rooms the City Forgot' and all labels unchanged.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0bd3086f-df68-4830-9730-6f6db3662fdc.png",
+                "role": "immutable first candidate; repair jar content to final source and restricted dawn skin exposure only",
+                "sha256": "ba3f2430df0b9b97d86ce936db7e6bd10d3a5d3e7ff62aa4a4327682f96aa422",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0d29662c-ea37-4ade-b73b-07b33604b4a1.png",
+            "outputSha256": "288d58fbc2f5b8c5bb23af35bbb68a831182e0a22ca4fd356b445c7f36c21ee4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:52:27.123956+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0bd3086f-df68-4830-9730-6f6db3662fdc.png",
+            "role": "immutable first candidate; repair jar content to final source and restricted dawn skin exposure only",
+            "sha256": "ba3f2430df0b9b97d86ce936db7e6bd10d3a5d3e7ff62aa4a4327682f96aa422",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T03:52:27.123956+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "288d58fbc2f5b8c5bb23af35bbb68a831182e0a22ca4fd356b445c7f36c21ee4",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0bd3086f-df68-4830-9730-6f6db3662fdc.png",
+            "role": "immutable first candidate; repair jar content to final source and restricted dawn skin exposure only",
+            "sha256": "ba3f2430df0b9b97d86ce936db7e6bd10d3a5d3e7ff62aa4a4327682f96aa422",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: broad gray-haired mature man and stocky working body consistent in both complete views and head, ordinary anatomy, bare torso with subtle non-wounded salt rash and no lease seal.",
+          "Corrected sealed jar shows separated perforated ivory ceramic fragments only (three visible), no cultures or clots. Source specifies broken comb without exact fragment count; five living cultures remain in separate cups outside sheet.",
+          "Connected dim cool skin shadow with restricted dawn gold, matte bold oil masses, same practical slate trousers/sandals and large hands. Exact name/title and labels, ivory background without setting or swatches."
+        ],
+        "specificationSha256": "2d084888d232b995eaef7f58d3c26dd6217a86b3de1474b4125e051cd8796282"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Mular"
+      },
+      "lighting": "Restricted dawn light: dark connected cool slate/umber shadows across most exposed skin, one small diluted gold plane, no broad sunlight.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "288d58fbc2f5b8c5bb23af35bbb68a831182e0a22ca4fd356b445c7f36c21ee4"
+    },
+    {
+      "id": "kevi",
+      "name": "Kevi",
+      "role": "Compact displaced parcel carrier whose route knowledge and practical action secure egress.",
+      "selectionEvidence": [
+        {
+          "quote": "Kevi. I know the routes.",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Compact.",
+        "markings": "None specified.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Trousers explicit; rest unspecified.",
+        "equipment": "Flexible reed, resonance peg; basket rope handled during rescue.",
+        "scale": "Human adult scale.",
+        "movement": "Crouching, decisive braced action, route finding.",
+        "distinctiveFeatures": "Compact female build and brisk practical manner."
+      },
+      "explicitCanon": [
+        "Compact woman, former parcel delivery work.",
+        "Cleans air gill with flexible reed, learns resonance peg and holds rescue egress.",
+        "No lease seal, one of five displaced residents."
+      ],
+      "visualInterpretation": [
+        "Art-only age32, medium brown skin, short black buzzcut, round wide face, small straight nose and strong chin, compact athletic build.",
+        "Muted rust shirt, charcoal trousers, flat brown ankleboots; reed and small peg with cord coil as portable detail.",
+        "Diluted dawn light with majority of forms in cool shadow."
+      ],
+      "states": [
+        {
+          "name": "Route finder",
+          "description": "Complete front/back forms with simple work clothes."
+        },
+        {
+          "name": "Reed and peg",
+          "description": "Character-associated hand/tool study only."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:kevi",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/kevi.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Edit image1 Kevi reference sheet, 1536x1024. Preserve exact identity of this YOUNG32 mediumbrown adultwoman with roundwidecheeks, shortlowerface, smallshortnose, pureblackbuzzcut, samebody proportions, allposes, clothingcolors, exact text, unclippedanatomy and quietivory. Preserve the DARK RESTRICTED DAWN exposure, neither brighten nor change skincolor. TWO specific repairs:\n1. REPAINT every FACE, NECK, ARM and HAND in genuine BROAD OPAQUE OIL MASSES. The current finelytextured smooth 3D/plastic skin must become visibly hand-painted large linked brushplanes: one broad cheek mass, broad jaw/brow/nose masses with directional bristle/knife strokes, and broad simple fingers. Simplify microtextures, eyelids and glossy precise lips into deliberate matte pigment shapes. Keep Kevi's facial geometry EXACT, especially roundcheeks/smallnose. Match the broadstroke scale of image2 but NOT robot identity, metaltexture, color, rimlight or brightvalues. Humanflesh stays darkmattebrown under dimdawn, connected quietshadow. Paint must construct forms, not overlay random flecks on a smooth render. Both fullbodyfaces, bothheadstudies, exposedarms and the handstudies all receive this.\n2. The rope coil must consistently hang on her ANATOMICAL LEFT hip. FRONT (leftmostfigure) stays exactly asis, coil at VIEWER RIGHT. REAR (middlefigure) MOVE entire coil/attachment from viewerRIGHT to VIEWER LEFT waist, visible beside her LEFT arm. Remove old viewerRIGHT coil completely. Do not mirror wholefigure. Reed,peg, hands, footwear, all labels and sixotherdesign elements unchanged. No scene/floor/ground/shadowpatches/swatches/newequipment/newscars/grayhair. One complete revised sheet.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T03:52:28.220096+00:00",
+            "prompt": "Use case: illustration-story. One 1536x1024 landscape character folio with warm ivory and exact text 'Kevi' / 'The Rooms the City Forgot'. Match image1's opaque broad Canadian Group of Seven oil painting and subdued dark skin lighting, not identity. ONE compact athletic HUMAN WOMAN age32, mediumbrown skin, close BLACK BUZZCUT hair (flat short cropped silhouette, not curls), distinctly ROUND WIDE face, short straight nose, firm small chin, heavy straight brows and small darkeyes, alert brisk expression. No similarity to Lirenn or older Mular, no grayhair or beard. Plain muted RUST workshirt rolledsleeves, CHARCOAL loose trousers, flat scuffed brown ankleboots. No armor/crest/lease seal/weapons/magic. LEFT complete unclipped front threequarter 'Route finder', balanced brisk stance, holds one small flexible REED in right hand and empty left hand. CENTER complete rear threequarter 'At dawn', same woman hands resting loosely with small coil of ordinary basket rope at belt, clothes intact and dirtyknees modestly. RIGHT two same-identity head studies 'Assessing' and 'Relief'; small hand study holding short simple RESONANCE PEG and flexible reed, label 'Reed and peg'. No full-body crouch or place fragment. All hands naturally five fingers, feet visible. MOST face/neck/arms/cloth in connected quiet DARK cool umber/slate shadow just like image1's dark Mular; only one very SMALL diluted gold dawn plane on cheek. Not sunny/studioface, no orange fulltorso or rimglow. Oil faces broadly simplified and matte, naturaleyes not glossy/anime/photoreal; varied thick directional paint without alloverbright chippedmosaic. Warmivory everywhere around separate characterforms, NO floor/ground/room/tower/coral/plant/scene/otherperson/swatches/palette strip.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/mular.png",
+                "role": "same-story oil folio and subdued dawn exposure only, never male face/body or objects",
+                "sha256": "288d58fbc2f5b8c5bb23af35bbb68a831182e0a22ca4fd356b445c7f36c21ee4",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "limited diluted dawn and paint rhythm only, no environment",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-5f1f6da8-fdaf-4223-b34a-2caa1f5d3c6b.png",
+            "reviewFindings": [
+              "Mular style reference transferred older long face, gray hair and rash flecks. Explicitly restore young32 roundface/smallnose, pureblackbuzzcut and unmarked skin before selection."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T03:55:33.096212+00:00",
+            "prompt": "Targeted identity refinement of this Kevi sheet. ALL faces must consistently be a distinct YOUNG ADULT WOMAN age32 with ROUND WIDE CHEEKS and SHORT LOWER FACE, a noticeably SMALLER SHORT STRAIGHT NOSE (low bridge, modest rounded tip), short rounded chin, low straight eyebrows, small dark eyes. No long heavy older man's nose, no long mature jaw, no under-eye aging folds or beard/stubble. Keep compact strong adultwoman body and clothing unchanged. Hair is pure BLACK very short BUZZCUT, a smooth closecropped silhouette about8mm, no gray patch or gray sideburn. Remove the scattered light/red SALT RASH spots from all Kevi skin, including face/neck/forearms/hands: her source does not assign Mular's rash. Skin remains mediumbrown with broad quiet unmarked matte painted planes and subtle normal tonal variation. Preserve SAME new young roundface in two fullfigures and both headstudies; keep expressions alert/relieved respectively. Preserve restrained dark dawn exposure, rust shirt/charcoaltrousers/boots, reed/peg/rope, every pose/hand/tool, exact title/name/labels, full body layout and warmivory ground. Same GroupofSeven oil style; connect larger quiet brushpassages rather than tiny uniformlybright chips. Do not brighten skin or add scene/floor/swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-5f1f6da8-fdaf-4223-b34a-2caa1f5d3c6b.png",
+                "role": "immutable candidate edit target: distinguish youthful Kevi face and remove inherited gray/rash only",
+                "sha256": "fcd6548b2a6d9e35bf181c63bb285a2e0d3be75b58f673bf5249187b6ec95e07",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b4de0c0c-4cd7-43db-bea1-03ca54d717c1.png",
+            "outputSha256": "1057ca13c8d832185c65889759441a68cd0230b152258fed1d8deb0a4c14531d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:22:49.973240+00:00",
+            "reviewFindings": [
+              "Root actual-pixel review requires broad opaque oil masses on face and hands instead of smooth fine textured rendering.",
+              "Root notes ropecoil switches anatomicalleftfront to rightrear; place rear attachment viewerleft. Other6sheets PASS."
+            ]
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:22:51.076328+00:00",
+            "prompt": "Edit image1 Kevi reference sheet, 1536x1024. Preserve exact identity of this YOUNG32 mediumbrown adultwoman with roundwidecheeks, shortlowerface, smallshortnose, pureblackbuzzcut, samebody proportions, allposes, clothingcolors, exact text, unclippedanatomy and quietivory. Preserve the DARK RESTRICTED DAWN exposure, neither brighten nor change skincolor. TWO specific repairs:\n1. REPAINT every FACE, NECK, ARM and HAND in genuine BROAD OPAQUE OIL MASSES. The current finelytextured smooth 3D/plastic skin must become visibly hand-painted large linked brushplanes: one broad cheek mass, broad jaw/brow/nose masses with directional bristle/knife strokes, and broad simple fingers. Simplify microtextures, eyelids and glossy precise lips into deliberate matte pigment shapes. Keep Kevi's facial geometry EXACT, especially roundcheeks/smallnose. Match the broadstroke scale of image2 but NOT robot identity, metaltexture, color, rimlight or brightvalues. Humanflesh stays darkmattebrown under dimdawn, connected quietshadow. Paint must construct forms, not overlay random flecks on a smooth render. Both fullbodyfaces, bothheadstudies, exposedarms and the handstudies all receive this.\n2. The rope coil must consistently hang on her ANATOMICAL LEFT hip. FRONT (leftmostfigure) stays exactly asis, coil at VIEWER RIGHT. REAR (middlefigure) MOVE entire coil/attachment from viewerRIGHT to VIEWER LEFT waist, visible beside her LEFT arm. Remove old viewerRIGHT coil completely. Do not mirror wholefigure. Reed,peg, hands, footwear, all labels and sixotherdesign elements unchanged. No scene/floor/ground/shadowpatches/swatches/newequipment/newscars/grayhair. One complete revised sheet.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b4de0c0c-4cd7-43db-bea1-03ca54d717c1.png",
+                "role": "immutable selected Kevi edit target; identity, anatomy, dawn exposure, layout and exact labels invariant",
+                "sha256": "1057ca13c8d832185c65889759441a68cd0230b152258fed1d8deb0a4c14531d",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+                "role": "brushmark scale and broadmatte masses only, notrobot geometry or light/color",
+                "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b9ea7c2b-a906-486d-9bed-02c0ba6c0a33.png",
+            "outputSha256": "7dd0cc2227071daa54974539e6202c9b3f812cc0d5dd030b42944ad3603846db",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:25:57.019563+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b4de0c0c-4cd7-43db-bea1-03ca54d717c1.png",
+            "role": "immutable selected Kevi edit target; identity, anatomy, dawn exposure, layout and exact labels invariant",
+            "sha256": "1057ca13c8d832185c65889759441a68cd0230b152258fed1d8deb0a4c14531d",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "brushmark scale and broadmatte masses only, notrobot geometry or light/color",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 3
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T06:25:57.019563+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "7dd0cc2227071daa54974539e6202c9b3f812cc0d5dd030b42944ad3603846db",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-b4de0c0c-4cd7-43db-bea1-03ca54d717c1.png",
+            "role": "immutable selected Kevi edit target; identity, anatomy, dawn exposure, layout and exact labels invariant",
+            "sha256": "1057ca13c8d832185c65889759441a68cd0230b152258fed1d8deb0a4c14531d",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/i-really-need-a-sidekick/art/characters/rococo.png",
+            "role": "brushmark scale and broadmatte masses only, notrobot geometry or light/color",
+            "sha256": "018c14249230c1fbba85ab7c03915a613d500d39454f9b24f9bcbf1742b7a666",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual correctedpixels show rear rope coil and attachment now at viewerLEFT/anatomicalLEFT matching frontviewerRIGHT; oldrearviewerRIGHT coil removed.",
+          "Face/neck/arms/hands now larger opaque oil planes especially forehead/cheeks/jaw and fingers, sameyoung32roundface/smallnose/pureblackbuzzcut without aging/gray/rash transfer.",
+          "Dark dawn value masses preserved, samebody/clothes/poses and ordinaryanatomy, exacttitle/name/statelabels, unclippedboots and warmivory/no scenery/swatches."
+        ],
+        "specificationSha256": "5311df761606bed5cf83c14749dd1fbf6c7cae29e683791a517853bf79c5bf5f"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Kevi"
+      },
+      "lighting": "Restricted dawn, dominant dark cool-brown skin and clothing masses with limited soft amber plane.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "7dd0cc2227071daa54974539e6202c9b3f812cc0d5dd030b42944ad3603846db"
+    },
+    {
+      "id": "eshun",
+      "name": "Eshun",
+      "role": "Displaced supplies keeper who sacrifices her room and manages feed, care and rescue.",
+      "selectionEvidence": [
+        {
+          "quote": "Eshun. Supplies.",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult; exact age unspecified.",
+        "proportions": "Not specified.",
+        "markings": "None specified.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Apron; remaining clothing unspecified.",
+        "equipment": "Sealed salt-cake packets, clean cloth, three jars; later one salvaged jar.",
+        "scale": "Human adult scale.",
+        "movement": "Strong active stance, free hands before each transfer.",
+        "distinctiveFeatures": "Apron and practical supply/care role."
+      },
+      "explicitCanon": [
+        "Woman manages supplies and feed tube, sacrifices her room to restore air.",
+        "Carries packets, cloth and three jars in apron, supports fevering resident.",
+        "No lease seal; final ordinary broth jar salvaged."
+      ],
+      "visualInterpretation": [
+        "Art-only age41, medium olive skin, long narrow face with strong aquiline nose, thick black braid threaded with early gray, tall broad-shouldered build.",
+        "Faded cream rolled-sleeve shirt under deep olive apron, dark blue trousers and flat sandals; saltcake packet and cloth, single salvaged lidded jar.",
+        "No attached feed hose or room fragment; character-only states emphasize capability."
+      ],
+      "states": [
+        {
+          "name": "Supplies",
+          "description": "Complete front/back forms, portable apron items."
+        },
+        {
+          "name": "After the rescue",
+          "description": "Same identity carrying one salvaged jar."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:eshun",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/eshun.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Change ONLY lighting on Eshun and her held items in this exact sheet. She is deep in a dim interior receiving only a narrow blade of diluted dawn light, so darken all full figures, head and hand studies by approximately1.5stops. Connect large quiet DARK muted slate/umber shadows over 75percent of face, neck, arms and creamblouse, with only one SMALL SOFT dilutedgold light plane on uppercheek/hand. Eliminate broadlybright honey-orange face/neck and alloverlit cream blouse. Preserve natural OLIVE skin material beneath dimmer exposure, long narrow mature41face/aquilinenose/braid exactly, all anatomy/expressions/clothing/props, THREE jars firstview and singlejar rearview, packet/cloth, text/layout. Keep warmivory PAPER equally light, completely unchanged. Matte broad simplified oil skin, directional bristlestrokes and selective impasto like existing, no photo/CGI or shinychips. Do not add/change characters or scene. All feet and labels remain unclipped; no backdrop, groundpatches, scenery, swatches.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "revision-required",
+            "requestedAt": "2026-09-24T03:59:44.489894+00:00",
+            "prompt": "Use case: illustration-story. ONE 1536x1024 landscape reference sheet, warmivory ground, exact 'Eshun' / 'The Rooms the City Forgot'. PRIMARY style image1 broad Canadian GroupofSeven oil paint and connected dark shadow; image2 ONLY folio arrangement, do not copy face/hair/clothes/daylight. ONE woman age41 interpretation, medium OLIVE skin, very LONG NARROW FACE, prominent AQUILINE curved nose and strong long chin, high arched thin eyebrows, small hazelbrown eyes, slightly hollow cheeks, thick BLACK BRAID with a few gray strands down back, tall broadshouldered capable build. Not shortcurl roundface, not glamour. Clothing: faded CREAM workblouse sleevesrolled to elbows, DEEP OLIVE plain apron knotted behind waist, loose darkBLUE trousers and flat leather sandals. No badges/lease seal/weapons/magic. Two complete unclipped fullbodyforms: LEFT front threequarter 'Supplies' holding small sealed SALTCAKE packet and folded cleancloth, apron pocket shows necks of THREE modest supplyjars carried safely; CENTER rear threequarter 'After the rescue', same woman with ONLY ONE simple small salvaged clayjar held with bothhands at waist, pocketsempty, braid visible. Keep objects small plausible notoverflowing. RIGHT sameidentity HEAD study 'Can they breathe?' quiet concern with strong distinctive aquiline profile; below gloved? NO gloves, plain barehuman hands closeup with one sealedpacket and cloth labelled 'Salt cake and clean cloth'. No feedtube/hoses/roomfragment. DARK RESTRICTED DAWN: 75percent of exposedface/neck/arms in connected darkcool slate/umber shadow; one small SOFT dilutedgold cheek plane, not broad sunnyorangelight. Creamblouse appears graybuff in shadow, no bright studiohighlights. Matte face built of broad bold oil planes, varied quiet connecting passages, natural small eyes no glossyphotoreal/anime, selectiveimpasto not uniformlybevelledchips. Complete ordinary anatomy, readableexactlabels. Character only on plainwarmivory; NO setting, table, wall, floor/groundpatch/scenery/otherfigures/swatches/palettes.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "primary broad directional oil rendering and limited dawn light only; no environment",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/a-curse-before-breakfast/art/characters/coris.png",
+                "role": "ivory folio arrangement only, never identity or bright daytime exposure",
+                "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c856e1a-99bc-4605-a8aa-4c6dea481290.png",
+            "reviewFindings": [
+              "Identity/props/layout accepted; skin and cream blouse too brightly lit for narrow dawn egress, connect dark interior shadows."
+            ]
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:04:02.842108+00:00",
+            "prompt": "Change ONLY lighting on Eshun and her held items in this exact sheet. She is deep in a dim interior receiving only a narrow blade of diluted dawn light, so darken all full figures, head and hand studies by approximately1.5stops. Connect large quiet DARK muted slate/umber shadows over 75percent of face, neck, arms and creamblouse, with only one SMALL SOFT dilutedgold light plane on uppercheek/hand. Eliminate broadlybright honey-orange face/neck and alloverlit cream blouse. Preserve natural OLIVE skin material beneath dimmer exposure, long narrow mature41face/aquilinenose/braid exactly, all anatomy/expressions/clothing/props, THREE jars firstview and singlejar rearview, packet/cloth, text/layout. Keep warmivory PAPER equally light, completely unchanged. Matte broad simplified oil skin, directional bristlestrokes and selective impasto like existing, no photo/CGI or shinychips. Do not add/change characters or scene. All feet and labels remain unclipped; no backdrop, groundpatches, scenery, swatches.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c856e1a-99bc-4605-a8aa-4c6dea481290.png",
+                "role": "immutable candidate edit target; lighting correction only",
+                "sha256": "95ad3d4ad5fbd7bd84e41d4e6bdb169d67da4a8e7056212dd8196635608a8d07",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-751e6b1b-264d-4b96-abfc-846d5992ea38.png",
+            "outputSha256": "9d039533023a5ff8eabd2ecc034a350d735147199143f5e486ed56d7e9948054",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:07:25.407193+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c856e1a-99bc-4605-a8aa-4c6dea481290.png",
+            "role": "immutable candidate edit target; lighting correction only",
+            "sha256": "95ad3d4ad5fbd7bd84e41d4e6bdb169d67da4a8e7056212dd8196635608a8d07",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:07:25.407193+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "9d039533023a5ff8eabd2ecc034a350d735147199143f5e486ed56d7e9948054",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-9c856e1a-99bc-4605-a8aa-4c6dea481290.png",
+            "role": "immutable candidate edit target; lighting correction only",
+            "sha256": "95ad3d4ad5fbd7bd84e41d4e6bdb169d67da4a8e7056212dd8196635608a8d07",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels: consistent long narrow olive face, strong aquiline nose and black braid with gray strands across two full bodies and head. Tall capable adult interpretation distinct from cropped-hair Lirenn/Kevi.",
+          "Front apron contains three supply jars, salt packet and cleancloth in hands; rear after-rescue form carries single clayjar with empty pockets. Cream blouse/oliveapron/bluetrousers/sandals, ordinary anatomy and unclipped feet.",
+          "Corrected low-key interior exposure connects broad cool shadows across skin/creamcloth, small diluted dawn cheek plane; matte broad oil, exact headings/labels, bare ivory with no setting/feedtube/swatches."
+        ],
+        "specificationSha256": "b3646dd066a2f7fcd4e85ef329c684ffe65d5bd754dd088d2d9f24a712e8d8d1"
+      },
+      "nameProvenance": {
+        "type": "source",
+        "name": "Eshun"
+      },
+      "lighting": "Deep interior dawn shadow, small dilutedgold cheek plane; skin/blouse remain dark muted gray/umber.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "9d039533023a5ff8eabd2ecc034a350d735147199143f5e486ed56d7e9948054"
+    },
+    {
+      "id": "neruva",
+      "name": "Neruva",
+      "role": "Older displaced resident with splinted knee; preserves repair slips, voices consent order, helps evacuation.",
+      "selectionEvidence": [
+        {
+          "quote": "The older woman had crawled to the exterior cut.",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Older adult woman.",
+        "proportions": "Not specified.",
+        "markings": "Knee bound in reed splints; side unspecified.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Not specified.",
+        "equipment": "Waxed packet of five repair slips, reed knee splints and basket line.",
+        "scale": "Human adult scale.",
+        "movement": "Protects knee, braces to hold basket line.",
+        "distinctiveFeatures": "Reed-splinted knee, municipal repair evidence."
+      },
+      "explicitCanon": [
+        "Older woman with one knee bound in reed splints; no lease seal.",
+        "Provides waxed packet with five municipal repair slips.",
+        "Insists her culture be last and holds rescue line."
+      ],
+      "visualInterpretation": [
+        "User-authorized art name Neruva, source unnamed; approximately68, warm brown skin, long oval lined face, silver hair in tight low braid, small sturdy build.",
+        "Dusty plum long blouse, loose cropped dark trousers, cloth sandals; LEFT knee chosen only for visual consistency, bound in reed splints.",
+        "Two upright guarded poses feasible without implying injury resolved; waxed slips detail, no scenery."
+      ],
+      "states": [
+        {
+          "name": "Repair slips",
+          "description": "Supported-looking guarded upright stance, weight on right leg, left knee splinted."
+        },
+        {
+          "name": "Holding fast",
+          "description": "Same knee/identity, short coil of rope only."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:neruva",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/neruva.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. One LANDSCAPE1536x1024 character folio on plain warmivory. Character remains LOW-KEY DIMLY LIT like image1; paper stays bright. Exact heading 'Neruva' subtitle 'The Rooms the City Forgot'. ONE older HUMAN WOMAN age68 interpretation, WARM BROWN skin, slender LONG OVAL linedface, small rounded nose, thin gently arched brows, deep small darkeyes, soft rounded chin, fine mouth, SILVER hair combed into tight low BRAID, small sturdy build. No mustache, beard or male face from style input. Distinct femaleidentity acrossallviews. Dusty PLUM long looseblouse, dark croppedloose trousers ending below knee so bandage visible, plain brown CLOTH sandals. Her anatomical LEFT KNEE is bound with short vertical REED SPLINTS and plain cloth bands; rightknee unbound. Reed splints stabilize without giant cast/crutches, no wound. LEFT complete front threequarter 'Repair slips', guarded upright posture with weight on RIGHT leg and LEFT knee kept straight, holding small waxed paper packet with FIVE folded municipal repairslips emerging. CENTER complete rear threequarter 'Holding fast', same LEFT knee splinted, body braced with short modest basket rope held in hands/coil, rope ENDS inside sheet no wall/scene connection, not lasso. RIGHT large sameface head study 'Last' firm quiet consent; small enlarged leftknee detail showing reedbands only and packet/slips handdetail ifroom. No youngface or invented miraculous recovery. Both fullbodyforms completely unclipped headtofeet, anatomicalLEFT consistentlycorrect acrossfront/rear. MOST face/neck/arms/body in DEEP quiet coolbrown/grayviolet shadow like darkBordu, one tiny diluted softgold dawn cheek/finger plane; NOT sunnyday/studio orange fullface, no rims. Canadian GroupofSeven OPAQUE OIL, expressive broadconnected matte planes, selectiveimpasto, quietjoiningpassages, no photorealskin/CGI/anime or uniformchiptexture. No locations, floor/groundpatches, chair, room/tower/coral, otherfigures, swatches/palettes. Warmivory clean throughout.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:15:37.046877+00:00",
+            "prompt": "Use case: illustration-story. One LANDSCAPE1536x1024 character folio on plain warmivory. Character remains LOW-KEY DIMLY LIT like image1; paper stays bright. Exact heading 'Neruva' subtitle 'The Rooms the City Forgot'. ONE older HUMAN WOMAN age68 interpretation, WARM BROWN skin, slender LONG OVAL linedface, small rounded nose, thin gently arched brows, deep small darkeyes, soft rounded chin, fine mouth, SILVER hair combed into tight low BRAID, small sturdy build. No mustache, beard or male face from style input. Distinct femaleidentity acrossallviews. Dusty PLUM long looseblouse, dark croppedloose trousers ending below knee so bandage visible, plain brown CLOTH sandals. Her anatomical LEFT KNEE is bound with short vertical REED SPLINTS and plain cloth bands; rightknee unbound. Reed splints stabilize without giant cast/crutches, no wound. LEFT complete front threequarter 'Repair slips', guarded upright posture with weight on RIGHT leg and LEFT knee kept straight, holding small waxed paper packet with FIVE folded municipal repairslips emerging. CENTER complete rear threequarter 'Holding fast', same LEFT knee splinted, body braced with short modest basket rope held in hands/coil, rope ENDS inside sheet no wall/scene connection, not lasso. RIGHT large sameface head study 'Last' firm quiet consent; small enlarged leftknee detail showing reedbands only and packet/slips handdetail ifroom. No youngface or invented miraculous recovery. Both fullbodyforms completely unclipped headtofeet, anatomicalLEFT consistentlycorrect acrossfront/rear. MOST face/neck/arms/body in DEEP quiet coolbrown/grayviolet shadow like darkBordu, one tiny diluted softgold dawn cheek/finger plane; NOT sunnyday/studio orange fullface, no rims. Canadian GroupofSeven OPAQUE OIL, expressive broadconnected matte planes, selectiveimpasto, quietjoiningpassages, no photorealskin/CGI/anime or uniformchiptexture. No locations, floor/groundpatches, chair, room/tower/coral, otherfigures, swatches/palettes. Warmivory clean throughout.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+                "role": "subdued character exposure and bold broad painted faces/folio only; not male face or clothes",
+                "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "limited dawn color only, not environment",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-e2940321-fc52-4fff-bce3-44b0723def65.png",
+            "outputSha256": "c774c20f0e0e03661f5165d2113334e072597128e46330fbd2aa17d7d0264a47",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:19:30.652483+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+            "role": "subdued character exposure and bold broad painted faces/folio only; not male face or clothes",
+            "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "limited dawn color only, not environment",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:19:30.652483+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "c774c20f0e0e03661f5165d2113334e072597128e46330fbd2aa17d7d0264a47",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+            "role": "subdued character exposure and bold broad painted faces/folio only; not male face or clothes",
+            "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "limited dawn color only, not environment",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: distinct older lined brown female face and silver low braid coherent in front/rear/head, modest sturdy older proportions. Neruva is art-only name for source's older resident, not a canon addition.",
+          "Anatomical left leg/knee reed splints consistently viewer-right front and viewer-left rear, with detail; guarded stance and opposite leg taking weight. Five repair slips in waxed packet and portable basket-rope coil distinguish her role.",
+          "Subdued warm planes within connected dark cool/umber painted shadows, broad matte oil faces/clothes, exact headings/labels and complete feet. No scenery, ground, swatches or implied healed state."
+        ],
+        "specificationSha256": "b9f7f9f26d6bee0a723a4cc895c7791f30a56a71753586376a39a10c3f037e16"
+      },
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "Older displaced resident with splinted knee; preserves repair slips, voices consent order, helps evacuation.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact name matches in universe, frozen names or current character specs."
+      },
+      "lighting": "Muted dawn interior: deeply subdued cool-brown connected shadows on skin and cloth; narrow diffuse warm near cheek and hand.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "c774c20f0e0e03661f5165d2113334e072597128e46330fbd2aa17d7d0264a47"
+    },
+    {
+      "id": "dastel",
+      "name": "Dastel",
+      "role": "Fevering displaced resident whose urgent medical needs drive the conditions and rescue.",
+      "selectionEvidence": [
+        {
+          "quote": "a fever-bright man holding a wet cloth against his mouth",
+          "explanation": "Sustained identifiable role in the central housing/rescue decision."
+        }
+      ],
+      "form": "Adult human man",
+      "storyAppearance": {
+        "anatomy": "Ordinary human, two arms/two legs.",
+        "lifeStage": "Adult man, exact age unspecified.",
+        "proportions": "Not specified.",
+        "markings": "Fever, no specified wounds.",
+        "materials": "Human skin/hair; practical cloth, ordinary tools or portable supplies.",
+        "clothing": "Reed divider wrapped around shoulders later; other clothes unspecified.",
+        "equipment": "Wet cloth at mouth, small salt-cake packet.",
+        "scale": "Human adult scale.",
+        "movement": "Weak, coughing, transported by medics; no recovery state asserted.",
+        "distinctiveFeatures": "Wet cloth and reed wrap, illness without grotesque changes."
+      },
+      "explicitCanon": [
+        "Adult man with fever and cough, wet cloth held to mouth.",
+        "Receives salt cake and reed divider around shoulders, evacuated to medical basket.",
+        "No lease seal; illness remains unresolved in source."
+      ],
+      "visualInterpretation": [
+        "User-authorized art name Dastel, source unnamed; age39, pale olive skin, narrow gaunt face with prominent nose, tousled brown hair and short dark stubble, tall lean build.",
+        "Worn faded blue shirt, ochre trousers, brown cloth shoes; shoulders wrapped in light flexible woven reed mat in later form.",
+        "Reference forms weak upright and isolated seated-on-heels? Avoid false ability: two complete full-body reclined poses without furniture, clinically neutral; no basket/medic/scenery."
+      ],
+      "states": [
+        {
+          "name": "Awaiting medical",
+          "description": "Complete resting reclined body with wet cloth; no surrounding mattress or floor."
+        },
+        {
+          "name": "Prepared for evacuation",
+          "description": "Same body with reed shoulder wrap, illness persists."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "rooms-before-sunrise:dastel",
+        "links": [],
+        "evidence": "No matching name in universe or prior character specifications; no established recurring identity."
+      },
+      "references": [
+        {
+          "path": "stories/rooms-before-sunrise/title-image.jpg",
+          "role": "source mood and ceramic material only; no character identity",
+          "notes": "Dark coastal biological tower; no visible face. Cover's five large cups are symbolic; source fine perforations control comb detail.",
+          "sha256": "b94726bf60d6aa0781c7d0c2f92be39235e80c5a592bba3c3d0ecb62b4a65b8d",
+          "inspected": true
+        },
+        {
+          "path": "stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+          "role": "end-of-story diluted dawn light and oil masses, ceramic comb perforations only",
+          "notes": "Deep blue-violet interior shadow with limited dawn gold; no room/wall/roots on sheets.",
+          "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-curse-before-breakfast/art/characters/coris.png",
+          "role": "approved broad oil folio composition only; never identity",
+          "notes": "Warm ivory, isolated forms and broad matte oil strokes. Do not transfer face/clothing.",
+          "sha256": "89e7037b30ea73882b7d4e97120f5fbae2b4e8c6af88a978eb5dd386e6f9174f",
+          "inspected": true
+        }
+      ],
+      "output": "stories/rooms-before-sunrise/art/characters/dastel.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "prompt": "Use case: illustration-story. ONE character reference FOLIO landscape1536x1024 warmivory, exact heading 'Dastel' and subtitle 'The Rooms the City Forgot'. ONE human MAN age39 artinterpretation, tallLEAN build, PALE OLIVE skin, distinct narrowGAUNT face with PROMINENT hookednose and small deep-set darkeyes, messy mediumshort BROWN HAIR and short DARK STUBBLE. Not grayhaired/bald/not mustached olderstocky Bordu. Feverandcough: tiredunfocused eyes, flushed small cheekplanes and sweat, no wounds/monstrouschanges/deadstate. Plain worn fadedBLUE shirt, loose OCHRE trousers and BROWN clothshoes. No lease seal/weapons. COMPOSITION adapted to illness: TWO large HORIZONTAL complete HEAD-TO-FOOT resting fullbody studies STACKED in LEFT75percent of sheet, with all feet visible and no overlap. Top 'Awaiting medical': weak semi-reclined on side, knees lightlyflexed, holds small WET CLOTH against mouth, other hand resting, no shoulderwrap. Bottom 'Prepared for evacuation': same complete man resting on back/threequarter, shoulders and upperarms wrapped in a light flexible WOVEN REED MAT from roomdivider (pale straw broad weave; NOT woolblanket), wetcloth stillat mouth, small SALTCAKE packet held in other hand. No mattress, basket, floor or supportingroomfragment: these are isolated anatomical referenceposes on ivory like life-drawing restingstudies. RIGHT25percent single sameface headstudy with cloth lowered enough for identification, labelled 'Fever'; beneath small hand-with-wetcloth and saltpacket detail if space. Both figures ordinary TWOarms TWOlegs, natural clear hands, clothing unchanged. Illness persists in both states, no recovery or standing heroicstance. Light remains subdued like dimBordu, most skin/clothing in DEEP connected mutedgrayviolet/umber shadow, only a small soft dilutedgold dawn cheekplane; no sunnyface/studio/rim or magicalglow. Canadian GroupofSeven bold OPAQUE OILS, large quietmatte face planes, broad directional bristles, selectiveimpasto, no photoreal/CGI/anime/plastic or uniformbrightchips. Character only, all negative space clean warmivory, NO floor/groundpatches/bed/room/mat UNDER body (shoulderwrap ONLY), tower/coral/scenery/otherpeople/swatches/palette.",
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T04:19:32.356373+00:00",
+            "prompt": "Use case: illustration-story. ONE character reference FOLIO landscape1536x1024 warmivory, exact heading 'Dastel' and subtitle 'The Rooms the City Forgot'. ONE human MAN age39 artinterpretation, tallLEAN build, PALE OLIVE skin, distinct narrowGAUNT face with PROMINENT hookednose and small deep-set darkeyes, messy mediumshort BROWN HAIR and short DARK STUBBLE. Not grayhaired/bald/not mustached olderstocky Bordu. Feverandcough: tiredunfocused eyes, flushed small cheekplanes and sweat, no wounds/monstrouschanges/deadstate. Plain worn fadedBLUE shirt, loose OCHRE trousers and BROWN clothshoes. No lease seal/weapons. COMPOSITION adapted to illness: TWO large HORIZONTAL complete HEAD-TO-FOOT resting fullbody studies STACKED in LEFT75percent of sheet, with all feet visible and no overlap. Top 'Awaiting medical': weak semi-reclined on side, knees lightlyflexed, holds small WET CLOTH against mouth, other hand resting, no shoulderwrap. Bottom 'Prepared for evacuation': same complete man resting on back/threequarter, shoulders and upperarms wrapped in a light flexible WOVEN REED MAT from roomdivider (pale straw broad weave; NOT woolblanket), wetcloth stillat mouth, small SALTCAKE packet held in other hand. No mattress, basket, floor or supportingroomfragment: these are isolated anatomical referenceposes on ivory like life-drawing restingstudies. RIGHT25percent single sameface headstudy with cloth lowered enough for identification, labelled 'Fever'; beneath small hand-with-wetcloth and saltpacket detail if space. Both figures ordinary TWOarms TWOlegs, natural clear hands, clothing unchanged. Illness persists in both states, no recovery or standing heroicstance. Light remains subdued like dimBordu, most skin/clothing in DEEP connected mutedgrayviolet/umber shadow, only a small soft dilutedgold dawn cheekplane; no sunnyface/studio/rim or magicalglow. Canadian GroupofSeven bold OPAQUE OILS, large quietmatte face planes, broad directional bristles, selectiveimpasto, no photoreal/CGI/anime/plastic or uniformbrightchips. Character only, all negative space clean warmivory, NO floor/groundpatches/bed/room/mat UNDER body (shoulderwrap ONLY), tower/coral/scenery/otherpeople/swatches/palette.",
+            "references": [
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+                "role": "bold oil skin/clothing and dim ivory folio only; never older stocky mustached identity",
+                "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+                "inspected": true
+              },
+              {
+                "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+                "role": "muted dawn color only; no architecture",
+                "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:/Users/jamie/.codex/generated_images/01a0d138-4dd9-7272-80cc-f6c1dfec5e0a/exec-0821128e-706b-4bb6-a3a5-27f68cbedf7f.png",
+            "outputSha256": "2cbb8668b69946c80e38215211267e8c354da1560e837c4f994b3756b963c212",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T04:22:21.522488+00:00"
+          }
+        ],
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+            "role": "bold oil skin/clothing and dim ivory folio only; never older stocky mustached identity",
+            "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "muted dawn color only; no architecture",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "tool": "image_gen.imagegen",
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedAt": "2026-09-24T04:22:21.522488+00:00",
+        "reviewer": "cast_resume_4",
+        "outputSha256": "2cbb8668b69946c80e38215211267e8c354da1560e837c4f994b3756b963c212",
+        "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63",
+        "references": [
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/characters/bordu.png",
+            "role": "bold oil skin/clothing and dim ivory folio only; never older stocky mustached identity",
+            "sha256": "0848bbcf106d0e74f75a0c17f8e451f11d0614212f01206b6a25090585e46c2c",
+            "inspected": true
+          },
+          {
+            "path": "D:/Development/BoundlessAi/story-computing-machine-character-art/stories/rooms-before-sunrise/art/interiors/03-service-sinus.png",
+            "role": "muted dawn color only; no architecture",
+            "sha256": "2c5bf0df1a15709020245b4ed908e616f62c6dec93f9cd1e4e6ab45f8e5fa93d",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual selected pixels: consistent gaunt dark-haired adult man with ordinary anatomy and tired fever expression in two complete reclined reference poses and head study. Dastel art-only name retained; no new recovery or other character.",
+          "Wet cloth at mouth, same faded blue shirt/ochre trousers/cloth shoes; later woven reed shoulder wrap and saltcakepacket fit evacuation preparation. Wrap belongs around shoulders, no separate mattress/bed or location fragment.",
+          "Bold matte broadly simplified oil face/body with quiet dark shadows and limited warm fever/near planes. Exact headings/labels, full feet and body visibility, bare warm ivory without floor/swatches."
+        ],
+        "specificationSha256": "72a7f22e7f926ae37e86401beaf075eb9c701561ed93dfb5ba1cb9aa412cd785"
+      },
+      "nameProvenance": {
+        "type": "user-authorized-art-name",
+        "sourceName": null,
+        "sourceRole": "Fevering displaced resident whose urgent medical needs drive the conditions and rescue.",
+        "scope": "Art label only; source prose and canon unchanged.",
+        "collisionCheck": "No exact name matches in universe, frozen names or current character specs."
+      },
+      "lighting": "Dim interior diluted dawn, connected deep cool neutral/umber shadow, small warm near facial plane; illness without supernatural glow.",
+      "presentation": {
+        "format": "1536x1024 landscape 3:2",
+        "background": "quiet warm ivory",
+        "characterOnly": true,
+        "locations": false,
+        "paletteStrip": false,
+        "paintSwatches": false
+      },
+      "outputSha256": "2cbb8668b69946c80e38215211267e8c354da1560e837c4f994b3756b963c212"
+    }
+  ],
+  "sourceSha256": "dfd536047e83915533190b85361dbd6ecc13fa779fb8669f5a76186030a02e63"
+}
