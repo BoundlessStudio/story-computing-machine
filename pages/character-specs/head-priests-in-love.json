@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "slug": "head-priests-in-love",
+  "title": "Where Rival Gods Go Quiet",
+  "source": "stories/head-priests-in-love/story.md",
+  "sourceSha256": "203b6365210ff50eb425c74ae97b81a46b320df24df3794817e9f1ce905a7e7a",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full source read. Two embodied romantic protagonists and two intentional named divine patrons. Holdfast has visible salt writing suitable for a manifestation sheet; Farwake has no distinct standalone visible form and is recorded as a limitation instead of invented anatomy.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Launch keepers, congregations, councils and clerks",
+      "reason": "Incidental task/public context without individual sustained characterization"
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/rules.md#Living agency and magic",
+    "universe/rules.md#Divinity",
+    "universe/characters.md and stories/NAMES.md searched: no matching people/deities"
+  ],
+  "characters": [
+    {
+      "id": "levara-quist",
+      "name": "Levara Quist",
+      "role": "Head priest of Holdfast; romantic co-protagonist who retains allegiance while confessing love",
+      "naming": {
+        "sourceName": "Levara Quist",
+        "sourceRole": "Head priest of Holdfast; romantic co-protagonist who retains allegiance while confessing love",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 21,
+          "quote": "Levara was thirty-eight.",
+          "explanation": "Direct source age/appearance/role evidence"
+        },
+        {
+          "line": 43,
+          "quote": "Her sandal strap had worked loose.",
+          "explanation": "Direct source age/appearance/role evidence"
+        },
+        {
+          "line": 365,
+          "quote": "raised collar of Levara's coat",
+          "explanation": "Direct source age/appearance/role evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human with ordinary hands and proportion",
+        "lifeStage": "38",
+        "proportions": "Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm.",
+        "markings": "Human woman, exactly38, gloved working hands, long coat clinging hip to ankle after soaking, raised collar, buckled sandals. Salt crystals press through worn leather palm. No specific hair, complexion or precise coat color supplied.",
+        "materials": "Matte skin, damp practical cloth/leather, source personal material",
+        "clothing": "Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm.",
+        "equipment": "Small coil of ordinary salt-stiffened home line; close worn glove palm with white salt crystals and separate LEFT buckled sandal detail. No blood, fingers not pierced visibly.",
+        "scale": "Ordinary human, exact height unspecified",
+        "movement": "Restrained upright studies",
+        "distinctiveFeatures": "Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Human woman, exactly38, gloved working hands, long coat clinging hip to ankle after soaking, raised collar, buckled sandals. Salt crystals press through worn leather palm. No specific hair, complexion or precise coat color supplied."
+      ],
+      "visualInterpretation": [
+        "Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm.",
+        "Unspecified face, complexion, exact hair styling, details/colors of clothing and footwear are art-only interpretation."
+      ],
+      "states": [
+        {
+          "name": "Dawn return",
+          "description": "Rain-soaked circuit clothing; no separate later date outfit or deity possession."
+        }
+      ],
+      "lighting": {
+        "moment": "Dawn return after the circuit",
+        "motivation": "Source states dawn thinned sky; soft cool pale sky and modest warm reflection, broad subdued shadows."
+      },
+      "recurrence": {
+        "identityKey": "head-priests-in-love:levara-quist",
+        "links": [],
+        "evidence": "No matching shared universe/frozen name entry found. Current review identifies new local person."
+      },
+      "references": [
+        {
+          "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+          "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+          "role": "Same-story final return dawn paint/light only, no location transfer",
+          "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+          "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+          "inspected": true
+        },
+        {
+          "path": "stories/head-priests-in-love/title-image.jpg",
+          "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+          "role": "Inspected story cover; rope and salt geometry for manifestation only",
+          "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/head-priests-in-love/art/characters/levara-quist.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 oil character reference folio on LIGHT WARM IVORY blank support. Exact large dark serif character name with smaller 'Where Rival Gods Go Quiet'. One identity only, three full-body Front/Side/Back views on left, two head studies and source-supported personal details on right, comfortably spaced. Canadian Group of Seven-inspired physical oil: connected large colour/value masses, substantial opaque directional bristles and selective thick impasto, including FACE planes; matte human eyes, quiet joining passages. FIRST image supplies actual story final-return DAWN light/paint, no scenery; SECOND supplies figure folio technique, not its man face, swept haircut, red coat or props. Subdued cool gray-blue dawn ambient with small pale warm reflected planes, no theatrical rim, all-over yellow studio lighting, glossy realism, CGI or anime. Keep one consistent person/age/body/hair through all views. No location, dock, boat, room, furniture, floor patch, palette swatch or other person. No decorative religious emblems, halos, crowns, invented powers or weapons. Exact concise labels only.\nHeading 'Levara Quist'. Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm.\nSource facts: Human woman, exactly38, gloved working hands, long coat clinging hip to ankle after soaking, raised collar, buckled sandals. Salt crystals press through worn leather palm. No specific hair, complexion or precise coat color supplied.\nDetails: Small coil of ordinary salt-stiffened home line; close worn glove palm with white salt crystals and separate LEFT buckled sandal detail. No blood, fingers not pierced visibly. Portrait labels 'Careful' and 'Open'. Damp fabric darkens at hem; no literal water dripping into a scene.",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+            "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:34:22.922339+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 oil character reference folio on LIGHT WARM IVORY blank support. Exact large dark serif character name with smaller 'Where Rival Gods Go Quiet'. One identity only, three full-body Front/Side/Back views on left, two head studies and source-supported personal details on right, comfortably spaced. Canadian Group of Seven-inspired physical oil: connected large colour/value masses, substantial opaque directional bristles and selective thick impasto, including FACE planes; matte human eyes, quiet joining passages. FIRST image supplies actual story final-return DAWN light/paint, no scenery; SECOND supplies figure folio technique, not its man face, swept haircut, red coat or props. Subdued cool gray-blue dawn ambient with small pale warm reflected planes, no theatrical rim, all-over yellow studio lighting, glossy realism, CGI or anime. Keep one consistent person/age/body/hair through all views. No location, dock, boat, room, furniture, floor patch, palette swatch or other person. No decorative religious emblems, halos, crowns, invented powers or weapons. Exact concise labels only.\nHeading 'Levara Quist'. Woman38, full sturdy ordinary build, medium brown skin, rounded square face, broad short nose, wide dark-brown eyes and black straight CHIN-LENGTH BOB tucked behind ears, no braid/bun. Plain wet seal-gray ankle-length coat with raised soft collar, narrow plain dark belt, charcoal under-robe and worn brown open-toe buckled sandals. Worn dark leather gloves, small white salt traces at palm.\nSource facts: Human woman, exactly38, gloved working hands, long coat clinging hip to ankle after soaking, raised collar, buckled sandals. Salt crystals press through worn leather palm. No specific hair, complexion or precise coat color supplied.\nDetails: Small coil of ordinary salt-stiffened home line; close worn glove palm with white salt crystals and separate LEFT buckled sandal detail. No blood, fingers not pierced visibly. Portrait labels 'Careful' and 'Open'. Damp fabric darkens at hem; no literal water dripping into a scene.",
+            "references": [
+              {
+                "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+                "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+                "role": "Same-story final return dawn paint/light only, no location transfer",
+                "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+                "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cf6c6703-2b9b-4fe9-b331-763d8144280c.png",
+            "savedPath": "stories/head-priests-in-love/art/characters/levara-quist.png",
+            "outputSha256": "e24b1fd8e407d8202e5ec19dfda97ed02d312f5b00ae8537ed473fd00726e621",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:49:08.718726+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:49:08.718726+00:00",
+        "sourceSha256": "203b6365210ff50eb425c74ae97b81a46b320df24df3794817e9f1ce905a7e7a",
+        "outputSha256": "e24b1fd8e407d8202e5ec19dfda97ed02d312f5b00ae8537ed473fd00726e621",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+            "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "All three full bodies, chin-length black bob and both head studies show consistent adult38 identity; raised gray coat, leather gloves, sandals, rope and salt traces visible.",
+          "Soft dawn facial planes, broad matte oil across skin and clothes; ivory uncluttered, exact readable name/story headings."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "1c652dbceaeb3136284e48580bacf329b04944b0d39c1c837a7fab3ef2365cf9"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source read, source ages and apparel separated from appearance interpretation; selected actual pixels inspected; view and detail composition feasible."
+      },
+      "outputSha256": "e24b1fd8e407d8202e5ec19dfda97ed02d312f5b00ae8537ed473fd00726e621"
+    },
+    {
+      "id": "ambel-tarn",
+      "name": "Ambel Tarn",
+      "role": "Head priest of Farwake; romantic co-protagonist who refuses conversion as the price of love",
+      "naming": {
+        "sourceName": "Ambel Tarn",
+        "sourceRole": "Head priest of Farwake; romantic co-protagonist who refuses conversion as the price of love",
+        "provenance": "Exact finished-story personal name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 29,
+          "quote": "He wore Farwake's coat of pale sailcloth with the cuffs unfastened",
+          "explanation": "Direct source age/appearance/role evidence"
+        },
+        {
+          "line": 315,
+          "quote": "broad-palmed and nicked by years of rope",
+          "explanation": "Direct source age/appearance/role evidence"
+        }
+      ],
+      "form": "Adult human",
+      "storyAppearance": {
+        "anatomy": "Adult human with ordinary hands and proportion",
+        "lifeStage": "41",
+        "proportions": "Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat.",
+        "markings": "Human man, exactly41, dark hair wet and plastered to forehead, pale sailcloth coat with cuffs unfastened. Broad rope-nicked palms. Wrapped honey/black-seed bread travels with him. No exact complexion, face, lower garments or footwear supplied.",
+        "materials": "Matte skin, damp practical cloth/leather, source personal material",
+        "clothing": "Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat.",
+        "equipment": "Cloth-wrapped broken honey loaf with black seeds, plus close study of broad bare palms with a few old fine rope nicks. No oar or boat.",
+        "scale": "Ordinary human, exact height unspecified",
+        "movement": "Restrained upright studies",
+        "distinctiveFeatures": "Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat."
+      },
+      "explicitCanon": [
+        "Local non-canon story facts: Human man, exactly41, dark hair wet and plastered to forehead, pale sailcloth coat with cuffs unfastened. Broad rope-nicked palms. Wrapped honey/black-seed bread travels with him. No exact complexion, face, lower garments or footwear supplied."
+      ],
+      "visualInterpretation": [
+        "Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat.",
+        "Unspecified face, complexion, exact hair styling, details/colors of clothing and footwear are art-only interpretation."
+      ],
+      "states": [
+        {
+          "name": "Dawn return",
+          "description": "Rain-soaked circuit clothing; no separate later date outfit or deity possession."
+        }
+      ],
+      "lighting": {
+        "moment": "Dawn return after the circuit",
+        "motivation": "Source states dawn thinned sky; soft cool pale sky and modest warm reflection, broad subdued shadows."
+      },
+      "recurrence": {
+        "identityKey": "head-priests-in-love:ambel-tarn",
+        "links": [],
+        "evidence": "No matching shared universe/frozen name entry found. Current review identifies new local person."
+      },
+      "references": [
+        {
+          "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+          "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+          "role": "Same-story final return dawn paint/light only, no location transfer",
+          "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+          "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+          "inspected": true
+        },
+        {
+          "path": "stories/head-priests-in-love/title-image.jpg",
+          "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+          "role": "Inspected story cover; rope and salt geometry for manifestation only",
+          "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/head-priests-in-love/art/characters/ambel-tarn.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. ONE landscape 1536x1024 oil character reference folio on LIGHT WARM IVORY blank support. Exact large dark serif character name with smaller 'Where Rival Gods Go Quiet'. One identity only, three full-body Front/Side/Back views on left, two head studies and source-supported personal details on right, comfortably spaced. Canadian Group of Seven-inspired physical oil: connected large colour/value masses, substantial opaque directional bristles and selective thick impasto, including FACE planes; matte human eyes, quiet joining passages. FIRST image supplies actual story final-return DAWN light/paint, no scenery; SECOND supplies figure folio technique, not its man face, swept haircut, red coat or props. Subdued cool gray-blue dawn ambient with small pale warm reflected planes, no theatrical rim, all-over yellow studio lighting, glossy realism, CGI or anime. Keep one consistent person/age/body/hair through all views. No location, dock, boat, room, furniture, floor patch, palette swatch or other person. No decorative religious emblems, halos, crowns, invented powers or weapons. Exact concise labels only.\nHeading 'Ambel Tarn'. Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat.\nSource facts: Human man, exactly41, dark hair wet and plastered to forehead, pale sailcloth coat with cuffs unfastened. Broad rope-nicked palms. Wrapped honey/black-seed bread travels with him. No exact complexion, face, lower garments or footwear supplied.\nDetails: Cloth-wrapped broken honey loaf with black seeds, plus close study of broad bare palms with a few old fine rope nicks. No oar or boat. Portrait labels 'Wry' and 'Honest'. Damp fabric darkens at hem; no literal water dripping into a scene.",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+            "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:34:22.923039+00:00",
+            "prompt": "Use case: illustration-story. ONE landscape 1536x1024 oil character reference folio on LIGHT WARM IVORY blank support. Exact large dark serif character name with smaller 'Where Rival Gods Go Quiet'. One identity only, three full-body Front/Side/Back views on left, two head studies and source-supported personal details on right, comfortably spaced. Canadian Group of Seven-inspired physical oil: connected large colour/value masses, substantial opaque directional bristles and selective thick impasto, including FACE planes; matte human eyes, quiet joining passages. FIRST image supplies actual story final-return DAWN light/paint, no scenery; SECOND supplies figure folio technique, not its man face, swept haircut, red coat or props. Subdued cool gray-blue dawn ambient with small pale warm reflected planes, no theatrical rim, all-over yellow studio lighting, glossy realism, CGI or anime. Keep one consistent person/age/body/hair through all views. No location, dock, boat, room, furniture, floor patch, palette swatch or other person. No decorative religious emblems, halos, crowns, invented powers or weapons. Exact concise labels only.\nHeading 'Ambel Tarn'. Man41, average height broad sturdy hands and slightly soft middle, warm tan skin, broad oval face, flat broad nose, deep-set brown eyes, short thick BLACK WAVY hair wet against forehead, close neat black beard and moustache. Pale weathered ivory sailcloth knee-length coat over a muted slate tunic, loose dark trousers, plain worn dark sandals. Coat cuffs UNFASTENED and loose. No borrowed Kelro face or red coat.\nSource facts: Human man, exactly41, dark hair wet and plastered to forehead, pale sailcloth coat with cuffs unfastened. Broad rope-nicked palms. Wrapped honey/black-seed bread travels with him. No exact complexion, face, lower garments or footwear supplied.\nDetails: Cloth-wrapped broken honey loaf with black seeds, plus close study of broad bare palms with a few old fine rope nicks. No oar or boat. Portrait labels 'Wry' and 'Honest'. Damp fabric darkens at hem; no literal water dripping into a scene.",
+            "references": [
+              {
+                "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+                "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+                "role": "Same-story final return dawn paint/light only, no location transfer",
+                "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+                "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-16e8dfc1-620c-4029-af2a-0f5fec62f42f.png",
+            "savedPath": "stories/head-priests-in-love/art/characters/ambel-tarn.png",
+            "outputSha256": "214bf17e6cd5fe1cde6a166b04dc7c4671cc35f12ecd45b5f95142c02956fcc4",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:49:08.718726+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:49:08.718726+00:00",
+        "sourceSha256": "203b6365210ff50eb425c74ae97b81a46b320df24df3794817e9f1ce905a7e7a",
+        "outputSha256": "214bf17e6cd5fe1cde6a166b04dc7c4671cc35f12ecd45b5f95142c02956fcc4",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+            "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+            "role": "Oil folio paint only, no face/hairstyle/clothes transfer",
+            "notes": "Actual matte broad faces and clothing, ivory, unclipped views inspected.",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Three complete adult41 views plus consistent wet black waves and dark beard; pale sailcloth with loose unfastened cuffs, broad hands with mild rope nicks and black-seeded honey loaf clear.",
+          "Painted face matches garment broad connected strokes, soft dawn light; exact name/story readable, no scene or swatches."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "2cdebef4b141088c29796f95ff7500d5075059fa826bc301b1d82b5899a06dd7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full source read, source ages and apparel separated from appearance interpretation; selected actual pixels inspected; view and detail composition feasible."
+      },
+      "outputSha256": "214bf17e6cd5fe1cde6a166b04dc7c4671cc35f12ecd45b5f95142c02956fcc4"
+    },
+    {
+      "id": "holdfast",
+      "name": "Holdfast",
+      "role": "Living local god exerting conversion pressure through visible salt commands",
+      "naming": {
+        "sourceName": "Holdfast",
+        "sourceRole": "Local deity of keeping and safe return",
+        "provenance": "Exact finished-story deity name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 11,
+          "quote": "Holdfast's command in the salt crust of the stern line",
+          "explanation": "Directly visible manifestation, god has no described body."
+        },
+        {
+          "line": 15,
+          "quote": "BRING TARN HOME TO ME.",
+          "explanation": "Exact visible salt-writing message."
+        }
+      ],
+      "form": "Visible salt-writing manifestation only; no supported bodily appearance",
+      "storyAppearance": {
+        "anatomy": "No bodily anatomy established",
+        "lifeStage": "Deity, age unspecified",
+        "proportions": "No body; isolated actual manifestation material",
+        "markings": "White salt-crystal letters rising hard from mooring rope, small and sharp as fish teeth",
+        "materials": "Salt crystals and twisted rope; rope not alive",
+        "clothing": "None",
+        "equipment": "No gear or body; rope is the medium of manifested message",
+        "scale": "Detail-study enlargement only, no canonical deity size",
+        "movement": "Salt growth; no independent living rope",
+        "distinctiveFeatures": "Exact command physically formed in salt"
+      },
+      "explicitCanon": [
+        "Local source: Holdfast demands BRING TARN HOME TO ME through salt writing on rope; stills secured harbor water. No body described."
+      ],
+      "visualInterpretation": [
+        "Wide isolated rope and macro detail are art framing for an actual visible effect; no humanoid form or extra power invented."
+      ],
+      "states": [
+        {
+          "name": "Salt-writing manifestation",
+          "description": "Visible launch-scene command only"
+        }
+      ],
+      "lighting": {
+        "moment": "Rainy launch scene",
+        "motivation": "Dim cool gray sky reflection, matte salt and rope; no magical emission"
+      },
+      "recurrence": {
+        "identityKey": "head-priests-in-love:holdfast",
+        "links": [],
+        "evidence": "No matching shared entry; local deity not conflated with other gods."
+      },
+      "references": [
+        {
+          "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+          "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+          "role": "Same-story final return dawn paint/light only, no location transfer",
+          "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+          "inspected": true
+        },
+        {
+          "path": "stories/head-priests-in-love/title-image.jpg",
+          "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+          "role": "Inspected story cover; rope and salt geometry for manifestation only",
+          "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/head-priests-in-love/art/characters/holdfast.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character MANIFESTATION folio for the fictional living god 'Holdfast', exact smaller story title 'Where Rival Gods Go Quiet', readable dark serif headings on LIGHT WARM IVORY. This is a SOURCE-SUPPORTED VISIBLE EFFECT, not a body or deity portrait. No human face, hands, god avatar, creature, anthropomorphic rope or invented symbol. Show one isolated length of thick, salt-stiffened twisted brown mooring rope across the middle, gently curving with a loose coil at one end. White crystalline SALT LETTERS grow directly up from the rope fibers and spell exactly 'BRING TARN HOME TO ME.' They must be physically attached to the rope surface as hard salt crust, NOT floating caption text, a plaque, paper, printed cloth or painted label. Below, one large close material study of rope fibers and the same pale sharp salt crystals, without repeating the entire sentence. Concise labels 'Salt-writing manifestation' and 'Crystals in the fibres'. Rope and letters only; no mooring post, boat, dock, water patch, landscape, people, room, floor, glow, halo, swatches or palette. FIRST source painting supplies Canadian Group of Seven broad opaque oil brushwork and quiet slate/ochre material values; SECOND cover supplies compatible plain rope/knot geometry only, not scene or digital rendering. All rope and salt shaped in broad connected directional impasto, no microscopic photo texture. Dim cool rain/early sky ambient from the launch scene; white salt is matte and reflects light, never self-glowing. Ivory remains light and warm. Preserve the distinction: Holdfast is the living agent whose message appears; rope itself is not alive. Do not print explanatory paragraph.",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/head-priests-in-love/title-image.jpg",
+            "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+            "role": "Inspected story cover; rope and salt geometry for manifestation only",
+            "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T03:34:22.923464+00:00",
+            "prompt": "Use case: illustration-story. Create ONE landscape 1536x1024 character MANIFESTATION folio for the fictional living god 'Holdfast', exact smaller story title 'Where Rival Gods Go Quiet', readable dark serif headings on LIGHT WARM IVORY. This is a SOURCE-SUPPORTED VISIBLE EFFECT, not a body or deity portrait. No human face, hands, god avatar, creature, anthropomorphic rope or invented symbol. Show one isolated length of thick, salt-stiffened twisted brown mooring rope across the middle, gently curving with a loose coil at one end. White crystalline SALT LETTERS grow directly up from the rope fibers and spell exactly 'BRING TARN HOME TO ME.' They must be physically attached to the rope surface as hard salt crust, NOT floating caption text, a plaque, paper, printed cloth or painted label. Below, one large close material study of rope fibers and the same pale sharp salt crystals, without repeating the entire sentence. Concise labels 'Salt-writing manifestation' and 'Crystals in the fibres'. Rope and letters only; no mooring post, boat, dock, water patch, landscape, people, room, floor, glow, halo, swatches or palette. FIRST source painting supplies Canadian Group of Seven broad opaque oil brushwork and quiet slate/ochre material values; SECOND cover supplies compatible plain rope/knot geometry only, not scene or digital rendering. All rope and salt shaped in broad connected directional impasto, no microscopic photo texture. Dim cool rain/early sky ambient from the launch scene; white salt is matte and reflects light, never self-glowing. Ivory remains light and warm. Preserve the distinction: Holdfast is the living agent whose message appears; rope itself is not alive. Do not print explanatory paragraph.",
+            "references": [
+              {
+                "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+                "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+                "role": "Same-story final return dawn paint/light only, no location transfer",
+                "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+                "inspected": true
+              },
+              {
+                "path": "stories/head-priests-in-love/title-image.jpg",
+                "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+                "role": "Inspected story cover; rope and salt geometry for manifestation only",
+                "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-3f65edf9-4d61-43b9-813b-b47c16b9113d.png",
+            "savedPath": "stories/head-priests-in-love/art/characters/holdfast.png",
+            "outputSha256": "8c88b6355b07da24972d9d1a28fe41683586a565331bb99398de0e04ff3f6bdf",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T03:49:08.718726+00:00"
+          }
+        ],
+        "selectedAttempt": 1
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T03:49:08.718726+00:00",
+        "sourceSha256": "203b6365210ff50eb425c74ae97b81a46b320df24df3794817e9f1ce905a7e7a",
+        "outputSha256": "8c88b6355b07da24972d9d1a28fe41683586a565331bb99398de0e04ff3f6bdf",
+        "references": [
+          {
+            "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+            "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+            "role": "Same-story final return dawn paint/light only, no location transfer",
+            "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+            "inspected": true
+          },
+          {
+            "path": "stories/head-priests-in-love/title-image.jpg",
+            "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+            "role": "Inspected story cover; rope and salt geometry for manifestation only",
+            "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Actual pixels show only ordinary twisted rope carrying physical crystalline words BRING TARN HOME TO ME. and macro fibre/salt detail, explicitly labelled Salt-writing manifestation.",
+          "No body, face, living rope, water avatar or scenery invented; exact deity and title readable on ivory; connected opaque oil material and matte salt."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "b169c27fe997f77f15905f0aa81cfeb9f22f121beeca29efaf2d15e38bb4287c"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Root direction allows only visibly supported manifestations. Source visibly written salt command supports this sheet; one visible nonbodily effect, no body/person/location."
+      },
+      "outputSha256": "8c88b6355b07da24972d9d1a28fe41683586a565331bb99398de0e04ff3f6bdf"
+    },
+    {
+      "id": "farwake",
+      "name": "Farwake",
+      "role": "Living local god of departure who commands Ambel and negotiates outward passage",
+      "naming": {
+        "sourceName": "Farwake",
+        "sourceRole": "Named opposing local god",
+        "provenance": "Exact finished-story deity name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 185,
+          "quote": "Through the channel under the cradle. 'Bring her beyond every fastening.'",
+          "explanation": "Command is heard through channel, not visible writing or body."
+        }
+      ],
+      "form": "No distinct standalone visible form established",
+      "storyAppearance": {
+        "anatomy": "Not described",
+        "materials": "Current effects and audible message, not a stable depicted body"
+      },
+      "explicitCanon": [
+        "Living local god; answers deliberately released craft with outward current. Reported command is audible through channel. No body or visible lettering described."
+      ],
+      "visualInterpretation": [],
+      "recurrence": {
+        "identityKey": "head-priests-in-love:farwake",
+        "links": [],
+        "evidence": "No matching shared entry; no avatar inferred"
+      },
+      "references": [
+        {
+          "path": "stories/head-priests-in-love/title-image.jpg",
+          "sha256": "d3c99df12d8886dfae9d80313434b862cd47867088462d2393463c0a365c7b9a",
+          "role": "Inspected story cover; rope and salt geometry for manifestation only",
+          "notes": "Empty circuit boat with rope knot/salt, bread and cloth; no human likeness present. Boat/location never transferred.",
+          "inspected": true
+        },
+        {
+          "path": "stories/head-priests-in-love/art/landscapes/05-dawn-over-the-return.png",
+          "sha256": "b7ed3175d3c7efa95cb2a0d7b084da8386dd2545bc73eadaaef863c70bb2c19b",
+          "role": "Same-story final return dawn paint/light only, no location transfer",
+          "notes": "Actual soft pale cool sky planes, quiet blue-gray shadows and small muted warmth inspected; use dim dawn, no bright noon sun.",
+          "inspected": true
+        }
+      ],
+      "output": "stories/head-priests-in-love/art/characters/farwake.png",
+      "status": "blocked",
+      "blockers": [
+        "No source-supported standalone character form. Current is seen through boat movement/dark tidal bands, not distinct stable morphology. Root direction forbids inventing body/water-ribbon anatomy or portraying audible command as visible text. Needs explicit art-design direction for a speculative avatar, or final-review acceptance of no sheet."
+      ],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "",
+        "references": [],
+        "attempts": []
+      },
+      "validation": {
+        "status": "blocked"
+      }
+    }
+  ]
+}
