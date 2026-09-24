@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "slug": "where-it-hurts",
+  "title": "Where It Hurts",
+  "source": "stories/where-it-hurts/story.md",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished source/prompt/review read; no original references supplied. Object-only cover and fair/evening oil pixels inspected. Three main identities: unnamed narrator (art-only Ralveth), Dovran, Sir Frascot. No other cast has sustained role.",
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "excludedMinorCharacters": [
+    {
+      "name": "Fair crowd, cake seller, porter, stable boy, and legendary former opponents",
+      "reason": "Minor functional or anecdotal figures."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "characters": [
+    {
+      "id": "ralveth",
+      "name": "Ralveth",
+      "role": "Dovran's travelling companion",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "My pack was waiting at the booking yard.",
+          "explanation": "Unnamed focal narrator hides departure plans and waits after Dovran leaves."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult narrator, gender and appearance unspecified. Coat with inside pocket, ticket, trousers dusty at knees, boots with a repaired lace, pack with red blanket strip sewn around failing strap."
+      },
+      "visualInterpretation": [
+        "Art-only androgynous adult32, medium-brown skin, broad soft face, round nose, small dark eyes, tightly coiled black hair gathered in short low knot. Worn indigo coat/ochre shirt/brown trousers, plain boots."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Final coach-yard waiting interval, travel-worn and remorseful, holding own pack with red blanket repair."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "where-it-hurts:ralveth",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "authorized-art-only",
+        "sourceRole": "Dovran's travelling companion",
+        "authorization": "User: always give the characters names if there are missing them.",
+        "evidence": "Source/review has no personal name. Distinct new art name searched against frozen names, current reviews/outlines, universe and character specs. No source/canon change."
+      },
+      "output": "stories/where-it-hurts/art/characters/ralveth.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Ralveth\"; exact story title \"Where It Hurts\"; subtitle \"Dovran's travelling companion\". ANDROGYNOUS HUMAN adult32, medium BROWN skin, broad soft face, short round nose, small deep-set dark eyes, BLACK tightly coiled hair in short low knot, no facial hair. Worn long INDIGO coat over OCHRE linen shirt, brown trousers with dust at knees, old plain brown lace boots. Carries their modest canvas travelling PACK with conspicuous strip of RED BLANKET sewn around one failing strap. A folded paper coach ticket just visible at coat pocket, no invented town names. Large face thoughtful and uneasy. Isolated object repeats repaired pack, not a hand. Muted late-afternoon warm side light and cool violet shadows, ivory stays light.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:21:48.095655+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Ralveth\"; exact story title \"Where It Hurts\"; subtitle \"Dovran's travelling companion\". ANDROGYNOUS HUMAN adult32, medium BROWN skin, broad soft face, short round nose, small deep-set dark eyes, BLACK tightly coiled hair in short low knot, no facial hair. Worn long INDIGO coat over OCHRE linen shirt, brown trousers with dust at knees, old plain brown lace boots. Carries their modest canvas travelling PACK with conspicuous strip of RED BLANKET sewn around one failing strap. A folded paper coach ticket just visible at coat pocket, no invented town names. Large face thoughtful and uneasy. Isolated object repeats repaired pack, not a hand. Muted late-afternoon warm side light and cool violet shadows, ivory stays light.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/where-it-hurts/title-image.jpg",
+                "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+                "inspected": true,
+                "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+              },
+              {
+                "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+                "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+                "inspected": true,
+                "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-13becac7-a92f-4bc8-b783-64ffd53ef26a.png",
+            "outputSha256": "181877a7491ca093df81972b117e9b30fe30c408eb32328000e5b2b13d81d3da",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:35:17.366806+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Coat, dusty trousers, travel pack and prominent red blanket strap repair match source; distinct art-only narrator identity and uneasy painted expression.",
+              "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-13becac7-a92f-4bc8-b783-64ffd53ef26a.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fe3a7e00ef06896ee5f6f1ab314af105e30706ea462513ab04eeeab0d49c4b6",
+        "outputSha256": "181877a7491ca093df81972b117e9b30fe30c408eb32328000e5b2b13d81d3da",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "evidence": [
+          "Coat, dusty trousers, travel pack and prominent red blanket strap repair match source; distinct art-only narrator identity and uneasy painted expression.",
+          "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "14354f19e778d2baf2086384dd55e2731f16645e63c7e672502eb4019a880a2f"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "181877a7491ca093df81972b117e9b30fe30c408eb32328000e5b2b13d81d3da"
+    },
+    {
+      "id": "dovran",
+      "name": "Dovran",
+      "role": "Wounded adventurer",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "His coat was whole.",
+          "explanation": "Magic wounds emotions, not flesh or clothing."
+        },
+        {
+          "quote": "Half its barbs were missing.",
+          "explanation": "His purchased feather is damaged by the final departure."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult man, long reach, quick swordsman, coat/shirt/trousers, own sword, hat with feather. Final hat carried with half-barbed broken feather in band. No physical wound."
+      },
+      "visualInterpretation": [
+        "Art-only lean tall man34, tan-olive complexion, broad mouth, strong arched nose, short unruly dark curls, clean-shaven. Rust coat, cream shirt, dark blue trousers, brown boots and plain brown felt hat."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "Final departure, emotionally hurt, intact coat and body, carries hat with damaged feather."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "where-it-hurts:dovran",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/where-it-hurts/art/characters/dovran.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Dovran\"; exact story title \"Where It Hurts\"; subtitle \"Wounded adventurer\". Adult MAN34, noticeably TALL long-limbed lean build, TAN OLIVE complexion, long curved nose, broad expressive mouth now pressed with restrained grief, small dark brown eyes, short unruly BLACK curls, clean-shaven. Faded RUST travelling coat over CREAM linen shirt, dark BLUE trousers, brown boots. Plain sheathed sword at waist. Carries BROWN felt hat in one hand low at side; its band has a long cream-gold FEATHER with HALF of barbs visibly missing leaving a ragged half-bare shaft, leaning sideways. Same hat/feather isolated object. No torn clothing, blood or bodily wound, no emotional aura/glowingheart. Late-afternoon warm side light, deep blue-violet half-shadows.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:21:48.104081+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Dovran\"; exact story title \"Where It Hurts\"; subtitle \"Wounded adventurer\". Adult MAN34, noticeably TALL long-limbed lean build, TAN OLIVE complexion, long curved nose, broad expressive mouth now pressed with restrained grief, small dark brown eyes, short unruly BLACK curls, clean-shaven. Faded RUST travelling coat over CREAM linen shirt, dark BLUE trousers, brown boots. Plain sheathed sword at waist. Carries BROWN felt hat in one hand low at side; its band has a long cream-gold FEATHER with HALF of barbs visibly missing leaving a ragged half-bare shaft, leaning sideways. Same hat/feather isolated object. No torn clothing, blood or bodily wound, no emotional aura/glowingheart. Late-afternoon warm side light, deep blue-violet half-shadows.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/where-it-hurts/title-image.jpg",
+                "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+                "inspected": true,
+                "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+              },
+              {
+                "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+                "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+                "inspected": true,
+                "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f320f67e-93a3-44f5-ae69-05034ea2198d.png",
+            "outputSha256": "50b245367587ffb757a99cbac40530c5759a18973f4b215e5168ea82b84c4eec",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:35:17.386587+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Tall adult adventurer, physically intact coat/body, restrained hurt expression, carries hat with ragged half-stripped feather; no literal emotional aura.",
+              "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-f320f67e-93a3-44f5-ae69-05034ea2198d.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fe3a7e00ef06896ee5f6f1ab314af105e30706ea462513ab04eeeab0d49c4b6",
+        "outputSha256": "50b245367587ffb757a99cbac40530c5759a18973f4b215e5168ea82b84c4eec",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "evidence": [
+          "Tall adult adventurer, physically intact coat/body, restrained hurt expression, carries hat with ragged half-stripped feather; no literal emotional aura.",
+          "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "6aeecd6aca8b13a67dcd9c7d4f12d168fe3f6d6f6971f635a7623514d6f79ba2"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "50b245367587ffb757a99cbac40530c5759a18973f4b215e5168ea82b84c4eec"
+    },
+    {
+      "id": "sir-frascot",
+      "name": "Sir Frascot",
+      "role": "Knight with the emotional-wounding sword",
+      "form": "adult human",
+      "selectionEvidence": [
+        {
+          "quote": "His padded sleeves were patched at both elbows.",
+          "explanation": "Working knight's visibly repaired equipment."
+        },
+        {
+          "quote": "He tied it down with a leather thong",
+          "explanation": "After ending bouts, sword sheathed and not glowing."
+        }
+      ],
+      "storyAppearance": {
+        "source": "Adult man tired/hot, helmet removed with damp brow, padded sleeves patched at both elbows, breeches. Actual plain sword has narrow grooves, responds to living grip, no glow sheathed."
+      },
+      "visualInterpretation": [
+        "Art-only stocky man52, fair sun-reddened skin, short sand-gray hair and close beard, broad nose, tired small blue eyes. Slate quilted gambeson patched in tan at both elbows, plain breastplate, brown breeches/boots."
+      ],
+      "states": [
+        {
+          "name": "Selected source state",
+          "description": "After ending the bouts, helmet off, sword sheathed and bound with leather thong; no active magic."
+        }
+      ],
+      "references": [],
+      "explicitCanon": [],
+      "recurrence": {
+        "identityKey": "where-it-hurts:sir-frascot",
+        "links": [],
+        "evidence": "No universe identity match or source connection found; source-local identity."
+      },
+      "nameProvenance": {
+        "type": "exact-source",
+        "evidence": "Verbatim finished-story name."
+      },
+      "output": "stories/where-it-hurts/art/characters/sir-frascot.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen",
+        "backend": "codex-imagegen",
+        "backendModel": null,
+        "format": "1536x1024",
+        "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Sir Frascot\"; exact story title \"Where It Hurts\"; subtitle \"Knight with the emotional-wounding sword\". Adult MAN52, stocky powerful ordinary build, FAIR sunreddened weathered skin, broad nose, small tired blue eyes, short SAND-GRAY cropped hair and close sandy-gray BEARD. A damp dark band across brow from removed helmet. Slate-blue PADDED quilted sleeves with a TAN PATCH at EACH ELBOW, simple unadorned steel breastplate, brown breeches, worn leather boots. Helmet absent from head, no crown. At waist plain sword fully SHEATHED and TIED down to scabbard by a visible narrow leather thong across hilt; sword has no glow. Isolated object plain iron HELMET, no jewels. No magicallight in isolatedobjects or props. Hot midday sunlight gives warm cheek and cool blue-gray shadow planes. Tired reflective expression.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "status": "PASS",
+            "toolInvoked": true,
+            "startedAt": "2026-09-24T12:21:48.113373+00:00",
+            "tool": "image_gen",
+            "mode": "built-in-fresh-generation",
+            "prompt": "Use case: stylized-concept. Create one complete 1536x1024 landscape 3:2 character reference folio on a uniform LIGHT WARM IVORY background to every edge and every gap. One identity only, two complete uncropped full-body views (front and rear three-quarter), one large matching head portrait and one useful isolated PERSONAL OBJECT. No hand studies, detached hands, anatomy diagrams, side-label exercises, scene vignette, location, floor/ground patch, shadow under feet, swatches or palette strips. Exact readable dark name and smaller story title, brief role subtitle and concise view/object labels. Broad CONNECTED opaque oil masses, strong directional bristle strokes, selective sculptural impasto, scraped edges. Paint face/eyes/lips with the same broad matte strokes as costume; small ordinary eyes, no wet gloss, individual eyelashes, photo skin, anime, CGI or uniform bevel chips. Image 1 supplies only oil construction/presentation; never its person, skin tone, hair or clothes. Same-story paintings guide palette/light only; never copy scenery. Body shape, age, face and clothing consistent across all views. Keep story-specific light on subject only; paper stays uniformly LIGHT IVORY, no brown vignette. Aim for the LARGE confident carved paint facets in the original selected style reference, no all-over tiny mosaic or copper-colored outline chips.\nExact name \"Sir Frascot\"; exact story title \"Where It Hurts\"; subtitle \"Knight with the emotional-wounding sword\". Adult MAN52, stocky powerful ordinary build, FAIR sunreddened weathered skin, broad nose, small tired blue eyes, short SAND-GRAY cropped hair and close sandy-gray BEARD. A damp dark band across brow from removed helmet. Slate-blue PADDED quilted sleeves with a TAN PATCH at EACH ELBOW, simple unadorned steel breastplate, brown breeches, worn leather boots. Helmet absent from head, no crown. At waist plain sword fully SHEATHED and TIED down to scabbard by a visible narrow leather thong across hilt; sword has no glow. Isolated object plain iron HELMET, no jewels. No magicallight in isolatedobjects or props. Hot midday sunlight gives warm cheek and cool blue-gray shadow planes. Tired reflective expression.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+                "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+                "inspected": true,
+                "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+              },
+              {
+                "path": "stories/where-it-hurts/title-image.jpg",
+                "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+                "inspected": true,
+                "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+              },
+              {
+                "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+                "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+                "inspected": true,
+                "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+              }
+            ],
+            "preflight": [
+              "Entire finished source and prompt read; relevant originals, cover and same-story painting pixels inspected. Source-derived main cast and identity details recorded separately from art-only interpretations.",
+              "Complete prepared prompt checked against source moment, actual input roles and reading space. One named identity on ivory, no hand studies or floor/swatches; two to five useful inspected references."
+            ],
+            "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-89cf7306-24e4-4dfe-8d29-a3fb3b5659db.png",
+            "outputSha256": "5349c902443e1430048ddcccdda8e79c22f60d8019ab26941cbe43f4a1189f08",
+            "dimensions": "1536x1024",
+            "finishedAt": "2026-09-24T12:35:17.404778+00:00",
+            "selected": true,
+            "generatorReview": [
+              "Tired mature working knight with both padded elbow patches, helmet off, plain sheathed tied sword with no glow; equipment art choices separate from source.",
+              "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+            ]
+          }
+        ],
+        "returnedPath": "C:/Users/jamie/.codex/generated_images/01a0d30b-376a-7382-94d2-347edabb4274/exec-89cf7306-24e4-4dfe-8d29-a3fb3b5659db.png",
+        "actualSize": "1536x1024"
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewedBy": "production assistant actual-pixel review",
+        "sourceSha256": "3fe3a7e00ef06896ee5f6f1ab314af105e30706ea462513ab04eeeab0d49c4b6",
+        "outputSha256": "5349c902443e1430048ddcccdda8e79c22f60d8019ab26941cbe43f4a1189f08",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/attachments/ea2d11bd-b58a-408e-8999-531bc65bcb75/image-1.png",
+            "role": "Inspected user-selected Sculpted Impasto style ONLY, broad connected oil masses including faces; omit its person, swatches and scenery.",
+            "inspected": true,
+            "sha256": "3353aa13ec60a8632befeb632349355e5ccd14b14842acd2eb4ca22e55dc3724"
+          },
+          {
+            "path": "stories/where-it-hurts/title-image.jpg",
+            "role": "Inspected source plain sword and feather forms; no face or costume authority.",
+            "inspected": true,
+            "sha256": "e94be29783faca8261978bfb20f65c8798e9cf3cca0a203aa77b2a03ec9fc177"
+          },
+          {
+            "path": "stories/where-it-hurts/art/landscapes/01-the-hiring-fair-ground.png",
+            "role": "Inspected broad sunny ochre/blue oil and source afternoon light only; no scene.",
+            "inspected": true,
+            "sha256": "b55b9388bd1997100a7fb26982cb5a83a10fd3943aaf7c90b1ca4f19b30da7fa"
+          }
+        ],
+        "evidence": [
+          "Tired mature working knight with both padded elbow patches, helmet off, plain sheathed tied sword with no glow; equipment art choices separate from source.",
+          "Actual final1536x1024 inspected: consistently painted identity in complete full views and matching portrait, readable exact names/title; light ivory, no scenery/floor/swatches/hand studies."
+        ],
+        "specificationSha256": "8b35577b1c98caa470fe2d1c0a9ee6bb3157e28cccb31539a86f331ddfccf066"
+      },
+      "presentation": {
+        "characterOnly": true,
+        "locations": false,
+        "paintSwatches": false,
+        "paletteStrip": false,
+        "handStudies": false,
+        "userApproval": "Full collection production authorized, user review at end."
+      },
+      "outputSha256": "5349c902443e1430048ddcccdda8e79c22f60d8019ab26941cbe43f4a1189f08"
+    }
+  ],
+  "sourceSha256": "3fe3a7e00ef06896ee5f6f1ab314af105e30706ea462513ab04eeeab0d49c4b6"
+}
