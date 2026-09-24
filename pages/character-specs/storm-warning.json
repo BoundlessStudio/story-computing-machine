@@ -1,0 +1,1272 @@
+{
+  "schemaVersion": 1,
+  "slug": "storm-warning",
+  "title": "Storm Warning",
+  "source": "stories/storm-warning/story.md",
+  "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Full finished prose, prompt and review read. Four named principals drive captivity, escape and reversal. Recurring approximately-forty woman from car is freed by Mabry, rejects her complicity and helps the final escaping old prisoner; both receive distinct art-only names for sustained rescue stakes. Source is human criminal noir: monster language is moral metaphor, no weather or supernatural powers.",
+  "excludedMinorCharacters": [
+    {
+      "name": "Drivers, guard, doctor and Renwick's men",
+      "reason": "Peripheral job-function figures without sustained distinct character role; different drivers are not merged into a fabricated recurring person."
+    },
+    {
+      "name": "Other prisoners",
+      "reason": "Background group without individualized sustained role."
+    }
+  ],
+  "noQualifyingCharactersReason": null,
+  "authorityReferences": [
+    "universe/README.md",
+    "universe/style-guide.md"
+  ],
+  "characters": [
+    {
+      "id": "mabry",
+      "name": "Mabry",
+      "role": "Twenty-seven-year-old complicit clerk who releases Viveca and attempts to rescue prisoners",
+      "naming": {
+        "sourceName": "Mabry",
+        "sourceRole": "Renwick's daughter and office clerk",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 25,
+          "quote": "At twenty-seven she still stood motionless for that",
+          "explanation": "Explicit age and familial power dynamic."
+        },
+        {
+          "line": 363,
+          "quote": "Together they lurched through the front door",
+          "explanation": "Active rescue of final old prisoner."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Exactly27. Renwick's daughter; office keys, train ticket, cash envelope. Coat later given to Arvid. Cuts forearm, final doctor stitches it. No supernatural form.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Ordinary sturdy woman27, medium warm-brown skin, short black dense curls with a slightly off-center part, broad square jaw inherited from father, straight broad nose, dark eyes. Dark muted teal knee-length practical raincoat over cream collared blouse and charcoal trousers, low black lace shoes. Appearance colors and clothing beyond source coat are art interpretation.",
+        "markings": "Exactly27. Renwick's daughter; office keys, train ticket, cash envelope. Coat later given to Arvid. Cuts forearm, final doctor stitches it. No supernatural form.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Ordinary sturdy woman27, medium warm-brown skin, short black dense curls with a slightly off-center part, broad square jaw inherited from father, straight broad nose, dark eyes. Dark muted teal knee-length practical raincoat over cream collared blouse and charcoal trousers, low black lace shoes. Appearance colors and clothing beyond source coat are art interpretation.",
+        "equipment": "Main three views office-before-release, coat worn and arm uninjured. Two heads Apprehensive and Determined. Hands with ordinary key ring and plain envelope; small isolated closed train ticket. Optional separate lower detail 'Later: stitched left forearm' with restrained clean bandage covering chosen LEFT forearm, never fresh gore; main views stay preinjury.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Ordinary sturdy woman27, medium warm-brown skin, short black dense curls with a slightly off-center part, broad square jaw inherited from father, straight broad nose, dark eyes. Dark muted teal knee-length practical raincoat over cream collared blouse and charcoal trousers, low black lace shoes. Appearance colors and clothing beyond source coat are art interpretation."
+      },
+      "explicitCanon": [
+        "Exactly27. Renwick's daughter; office keys, train ticket, cash envelope. Coat later given to Arvid. Cuts forearm, final doctor stitches it. No supernatural form."
+      ],
+      "visualInterpretation": [
+        "Ordinary sturdy woman27, medium warm-brown skin, short black dense curls with a slightly off-center part, broad square jaw inherited from father, straight broad nose, dark eyes. Dark muted teal knee-length practical raincoat over cream collared blouse and charcoal trousers, low black lace shoes. Appearance colors and clothing beyond source coat are art interpretation.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main three views office-before-release, coat worn and arm uninjured. Two heads Apprehensive and Determined. Hands with ordinary key ring and plain envelope; small isolated closed train ticket. Optional separate lower detail 'Later: stitched left forearm' with restrained clean bandage covering chosen LEFT forearm, never fresh gore; main views stay preinjury."
+        }
+      ],
+      "lighting": {
+        "moment": "Office night before release",
+        "motivation": "Dim amber desk-lamp planes and slight red window spill against large cool slate shadows"
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:mabry",
+        "links": [],
+        "evidence": "Local exact identity; no cross-story link"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/mabry.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the supplied mabry reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. Also in ONLY the bottom-right 'Later: stitched left forearm' study, REMOVE all teal raincoat cloth and replace the upper sleeve with her plain cream blouse cuff. She has already given her coat away before this injury. Keep the same clean covered left forearm bandage/hand, use ivory around this isolated blouse-and-arm study, do not add a torso, injury or other object. All MAIN three views stay uninjured in teal coat. Landscape1536x1024. No extra scene or character.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2112a74a-570d-4346-bf06-bcea373b3a8e.png",
+            "sha256": "5046242d5e66a1c533f21a104ea5b271e437154263a3a909cbac21d88ced9f03",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Mabry'.\nMabry, human woman exactly27, sturdy, medium warm-brown skin, short dense black curls, broad square jaw, straight broad nose, dark eyes. Dark muted TEAL knee-length raincoat, cream collared blouse, charcoal trousers, low black lace shoes. MAIN full views before release: coat worn, uninjured. Face studies apprehensive and determined. Small natural hand/key-ring and plain envelope detail, closed folded train ticket. Small 'Later: stitched left forearm' detail shows only clean covered bandage on LEFT forearm, no fresh wound. Source coat given away later, so do not mix coat-on main with later injuries. DIM nocturnal amber desk-lamp edge and red reflected accent, most body/face planes cool deep slate.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+                "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+                "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+                "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2112a74a-570d-4346-bf06-bcea373b3a8e.png",
+            "outputSha256": "5046242d5e66a1c533f21a104ea5b271e437154263a3a909cbac21d88ced9f03",
+            "review": "Actual A1: coherent source27 and identity/light/gear. Wrong Left caption on right-side view; later arm incorrectly retains given-away coat. Repair labels and later sleeve only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:19:41.784939+00:00",
+            "prompt": "Edit the supplied mabry reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. Also in ONLY the bottom-right 'Later: stitched left forearm' study, REMOVE all teal raincoat cloth and replace the upper sleeve with her plain cream blouse cuff. She has already given her coat away before this injury. Keep the same clean covered left forearm bandage/hand, use ivory around this isolated blouse-and-arm study, do not add a torso, injury or other object. All MAIN three views stay uninjured in teal coat. Landscape1536x1024. No extra scene or character.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2112a74a-570d-4346-bf06-bcea373b3a8e.png",
+                "sha256": "5046242d5e66a1c533f21a104ea5b271e437154263a3a909cbac21d88ced9f03",
+                "inspected": true,
+                "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-fb62ab86-6108-4893-9f0d-198fe2d99d37.png",
+            "savedPath": "stories/storm-warning/art/characters/mabry.png",
+            "outputSha256": "3c7b2f6a80619d2dfb93b6dbb5c5507272e74e7aa0e4990ae82da73d2ef3b68e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:37:59.481781+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:37:59.481781+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "3c7b2f6a80619d2dfb93b6dbb5c5507272e74e7aa0e4990ae82da73d2ef3b68e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-2112a74a-570d-4346-bf06-bcea373b3a8e.png",
+            "sha256": "5046242d5e66a1c533f21a104ea5b271e437154263a3a909cbac21d88ced9f03",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels: human27 same sturdy short-curled identity, source office-before-release coat state; keys and folded ticket recognizable.",
+          "Right-side caption corrected. Later LEFT forearm isolated clean bandage under cream blouse, given-away coat removed; no wound or false reunion coat.",
+          "Nocturnal amber/red source practical planes and dark slate subject shadows on ivory, oil throughout face/clothes, readable name/title; one person."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "191cbe818e115232ca35e33e958c7ecb49128603a9dc2f140d4e2028ed705687"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "3c7b2f6a80619d2dfb93b6dbb5c5507272e74e7aa0e4990ae82da73d2ef3b68e"
+    },
+    {
+      "id": "viveca",
+      "name": "Viveca",
+      "role": "Released captive and violent former retriever seeking possessive reunion",
+      "naming": {
+        "sourceName": "Viveca",
+        "sourceRole": "Renwick's former retriever and Arvid's wife",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 47,
+          "quote": "broad as her palm, with coarse teeth along its back",
+          "explanation": "Exact knife structure."
+        },
+        {
+          "line": 63,
+          "quote": "barefoot, her white hair loose over the red shoulders of the dress",
+          "explanation": "Appearance directly supported and matched original."
+        }
+      ],
+      "form": "Adult human woman",
+      "storyAppearance": {
+        "anatomy": "Adult human woman, long loose white hair, red dress, bare feet. Personal large knife palm-broad with coarse serrations along back. Eighteen months captive. Later wears man's large overcoat over dress. No supernatural abilities.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Adult32 as art interpretation, pale cool skin, lean wiry ordinary build, long wet WHITE hair to lower back, narrow angular face and straight fine nose, ordinary gray eyes with slight external red catch only. Red thin-strap dress with distressed uneven knee-to-calf hem as original; fully covered torso. Bare feet. Blade dark steel broad with coarse back teeth and plain sharp opposite edge, dark ribbed grip.",
+        "markings": "Adult human woman, long loose white hair, red dress, bare feet. Personal large knife palm-broad with coarse serrations along back. Eighteen months captive. Later wears man's large overcoat over dress. No supernatural abilities.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Adult32 as art interpretation, pale cool skin, lean wiry ordinary build, long wet WHITE hair to lower back, narrow angular face and straight fine nose, ordinary gray eyes with slight external red catch only. Red thin-strap dress with distressed uneven knee-to-calf hem as original; fully covered torso. Bare feet. Blade dark steel broad with coarse back teeth and plain sharp opposite edge, dark ribbed grip.",
+        "equipment": "Main red dress/bare feet Front LEFTside Back, knife low neutral down by right leg (holding side artchoice). Two heads Watchful and Briefly vulnerable. Separate isolated whole-knife detail and small later upper-body Man's overcoat state. No ring worn; ring was confiscated property. No body horror or attack.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Adult32 as art interpretation, pale cool skin, lean wiry ordinary build, long wet WHITE hair to lower back, narrow angular face and straight fine nose, ordinary gray eyes with slight external red catch only. Red thin-strap dress with distressed uneven knee-to-calf hem as original; fully covered torso. Bare feet. Blade dark steel broad with coarse back teeth and plain sharp opposite edge, dark ribbed grip."
+      },
+      "explicitCanon": [
+        "Adult human woman, long loose white hair, red dress, bare feet. Personal large knife palm-broad with coarse serrations along back. Eighteen months captive. Later wears man's large overcoat over dress. No supernatural abilities."
+      ],
+      "visualInterpretation": [
+        "Adult32 as art interpretation, pale cool skin, lean wiry ordinary build, long wet WHITE hair to lower back, narrow angular face and straight fine nose, ordinary gray eyes with slight external red catch only. Red thin-strap dress with distressed uneven knee-to-calf hem as original; fully covered torso. Bare feet. Blade dark steel broad with coarse back teeth and plain sharp opposite edge, dark ribbed grip.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main red dress/bare feet Front LEFTside Back, knife low neutral down by right leg (holding side artchoice). Two heads Watchful and Briefly vulnerable. Separate isolated whole-knife detail and small later upper-body Man's overcoat state. No ring worn; ring was confiscated property. No body horror or attack."
+        }
+      ],
+      "lighting": {
+        "moment": "Wet street night immediately after release",
+        "motivation": "Cool near-black flesh/cloth shadows with narrow red sign-rim; white hair remains dark blue-gray inside shadow. No self-emission."
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:viveca",
+        "links": [],
+        "evidence": "Exact local source identity; original image recovered"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/viveca.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the supplied viveca reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. No other changes. Keep all three main views and every personal detail stable. Landscape1536x1024. No extra scene or character.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-28dd41eb-0024-4361-b319-a8f66ea3f937.png",
+            "sha256": "ce44b8a3c8a747d78cd034364fda058e92091813113c497b26a318911fa0b450",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Viveca'.\nViveca, HUMAN adult woman32 interpretation. THIRD supplied original and FOURTH cover bind lean adult face, long wet WHITE hair, RED thin-strap dress with uneven distressed knee-to-calf hem and BARE FEET. Ordinary gray eyes, no red glowing eyes, no powers. Full views Front / LEFT side facingLEFT / Back in same red dress, hair lower-back length. Substantial steel knife blade broad as palm, coarse sawlike teeth on BACK edge only, opposite edge plain sharp, dark ribbed handle; neutral downward held RIGHT hand. Two expression heads watchful / briefly vulnerable. Isolated knife study verifies wide blade and teeth along its BACK. Small later chest study in oversized dark man's overcoat over red dress. NO worn wedding ring. Actual first rainy night reference sets predominant cool blue-black subject shadows, narrow restrained red rim and wet highlights; white hair not daylight-white in shadow. Human noir, no supernatural glow. No other person.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+                "role": "Wet night blue-black shadows and restrained red edge light",
+                "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+                "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              },
+              {
+                "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+                "role": "Original user reference for Viveca identity and attire/blade",
+                "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+                "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+                "inspected": true
+              },
+              {
+                "path": "stories/storm-warning/title-image.jpg",
+                "role": "Inspected cover supporting Viveca visual continuity",
+                "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+                "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-28dd41eb-0024-4361-b319-a8f66ea3f937.png",
+            "outputSha256": "ce44b8a3c8a747d78cd034364fda058e92091813113c497b26a318911fa0b450",
+            "review": "Actual A1: identity source details, night oil and one-person folio pass; right-facing profile incorrectly captioned Left. Repair caption only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:19:41.789561+00:00",
+            "prompt": "Edit the supplied viveca reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. No other changes. Keep all three main views and every personal detail stable. Landscape1536x1024. No extra scene or character.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-28dd41eb-0024-4361-b319-a8f66ea3f937.png",
+                "sha256": "ce44b8a3c8a747d78cd034364fda058e92091813113c497b26a318911fa0b450",
+                "inspected": true,
+                "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-d0a304a7-9e87-4795-a61a-72149b14a623.png",
+            "savedPath": "stories/storm-warning/art/characters/viveca.png",
+            "outputSha256": "bf2d8ecba3738d04811761b43cf01f3b172e30420c8daa10f04758e7d1759f9e",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:37:59.481781+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:37:59.481781+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "bf2d8ecba3738d04811761b43cf01f3b172e30420c8daa10f04758e7d1759f9e",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-28dd41eb-0024-4361-b319-a8f66ea3f937.png",
+            "sha256": "ce44b8a3c8a747d78cd034364fda058e92091813113c497b26a318911fa0b450",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels compared original external image and cover: adult long wet white hair, lean face, red distressed dress, barefoot; ordinary human eyes with reflected red rim, no powers.",
+          "Three stable views, accurately labelled RIGHT profile, right-held knife source broad blade with coarse back teeth; separate same-knife detail and later man's overcoat state.",
+          "Cool night shadow flesh/hair and narrow red rim, oil face planes and ivory no-setting folio, name/title pass. Printed32 is documented art-only age."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "616e7ac292839bd348200e19466426e7cd761665c39267a9db5b4be67e1a7ea4"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "bf2d8ecba3738d04811761b43cf01f3b172e30420c8daa10f04758e7d1759f9e"
+    },
+    {
+      "id": "renwick",
+      "name": "Renwick",
+      "role": "Mabry's father and criminal captor who engineers her failed escape",
+      "naming": {
+        "sourceName": "Renwick",
+        "sourceRole": "Father, criminal employer and captor",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 51,
+          "quote": "the scar Viveca had left beneath his jaw",
+          "explanation": "Source physical mark."
+        },
+        {
+          "line": 383,
+          "quote": "Then Renwick washed the blood from her fingers.",
+          "explanation": "Returns daughter to confinement and controlling care."
+        }
+      ],
+      "form": "Mature adult human man",
+      "storyAppearance": {
+        "anatomy": "Mabry's father, criminal employer, wears jacket; old scar beneath jaw. Injured during confrontation and later hand wrapped in tablecloth. No powers.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man57 artage, stocky broad-shouldered, medium warm-brown skin, broad square jaw, short close-cropped salt-and-pepper black hair with receding corners, clean-shaven, heavy brows and dark eyes. Thin pale curved scar centrally beneath jaw, no side choice conflict. Dark brown double-breasted suit, cream shirt, plain tobacco tie, dark polished shoes.",
+        "markings": "Mabry's father, criminal employer, wears jacket; old scar beneath jaw. Injured during confrontation and later hand wrapped in tablecloth. No powers.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man57 artage, stocky broad-shouldered, medium warm-brown skin, broad square jaw, short close-cropped salt-and-pepper black hair with receding corners, clean-shaven, heavy brows and dark eyes. Thin pale curved scar centrally beneath jaw, no side choice conflict. Dark brown double-breasted suit, cream shirt, plain tobacco tie, dark polished shoes.",
+        "equipment": "Main preinjury three views; two heads Appraising and Paternal control. Close scar-under-jaw study and ordinary keyring in hand. No injured-state optional needed, source moment explicitly preinjury.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man57 artage, stocky broad-shouldered, medium warm-brown skin, broad square jaw, short close-cropped salt-and-pepper black hair with receding corners, clean-shaven, heavy brows and dark eyes. Thin pale curved scar centrally beneath jaw, no side choice conflict. Dark brown double-breasted suit, cream shirt, plain tobacco tie, dark polished shoes."
+      },
+      "explicitCanon": [
+        "Mabry's father, criminal employer, wears jacket; old scar beneath jaw. Injured during confrontation and later hand wrapped in tablecloth. No powers."
+      ],
+      "visualInterpretation": [
+        "Man57 artage, stocky broad-shouldered, medium warm-brown skin, broad square jaw, short close-cropped salt-and-pepper black hair with receding corners, clean-shaven, heavy brows and dark eyes. Thin pale curved scar centrally beneath jaw, no side choice conflict. Dark brown double-breasted suit, cream shirt, plain tobacco tie, dark polished shoes.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main preinjury three views; two heads Appraising and Paternal control. Close scar-under-jaw study and ordinary keyring in hand. No injured-state optional needed, source moment explicitly preinjury."
+        }
+      ],
+      "lighting": {
+        "moment": "Office night at departure",
+        "motivation": "Low warm lamp/red spill with deep cool shadows"
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:renwick",
+        "links": [],
+        "evidence": "Exact local identity"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/renwick.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Edit the supplied renwick reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. No other changes. Keep all three main views and every personal detail stable. Landscape1536x1024. No extra scene or character.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-842c1e44-138f-42c2-a3ea-66810fe069d8.png",
+            "sha256": "66074b6cddf04a6a5f1fd196a9216bcd90bd133515e3995fa7570936db210400",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Renwick'.\nRenwick, human57 interpretation, stocky, medium warm-brown skin, broad square jaw like adult daughter Mabry, short close-cropped salt-and-pepper black receding hair, CLEAN SHAVEN, heavy eyebrows. Thin PALE OLD SCAR centrally BENEATH JAW, show clearly in small chin/neck detail. Dark brown double-breasted suit, cream shirt, tobacco plain tie, polished dark shoes. Main views PREINJURY. Expression heads Appraising / Paternal control. Ordinary keyring hand study. Source office DARK nighttime, localized amber/red light with large cool near-black shadows; no broad daylight illumination. No throne, office furniture or extra person.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+                "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+                "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+                "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-842c1e44-138f-42c2-a3ea-66810fe069d8.png",
+            "outputSha256": "66074b6cddf04a6a5f1fd196a9216bcd90bd133515e3995fa7570936db210400",
+            "review": "Actual A1: identity source details, night oil and one-person folio pass; right-facing profile incorrectly captioned Left. Repair caption only."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:19:41.792114+00:00",
+            "prompt": "Edit the supplied renwick reference sheet minimally. Preserve exact identity, every face/body/clothes/paint mark, night lighting, ivory landscape layout and all readable headings. The middle whole-body image faces canvasRIGHT and therefore shows the anatomical RIGHT side. Change its label from 'Left' to 'Right side'. Do not flip the figure. No other changes. Keep all three main views and every personal detail stable. Landscape1536x1024. No extra scene or character.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-842c1e44-138f-42c2-a3ea-66810fe069d8.png",
+                "sha256": "66074b6cddf04a6a5f1fd196a9216bcd90bd133515e3995fa7570936db210400",
+                "inspected": true,
+                "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-29be9f82-62fc-4544-ac4d-b985481f266d.png",
+            "savedPath": "stories/storm-warning/art/characters/renwick.png",
+            "outputSha256": "fbfbffa00cdfd4eba9a059c2b5aef63a706764b60f6b741287ad8433f51e2f90",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:37:59.481781+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:37:59.481781+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "fbfbffa00cdfd4eba9a059c2b5aef63a706764b60f6b741287ad8433f51e2f90",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-842c1e44-138f-42c2-a3ea-66810fe069d8.png",
+            "sha256": "66074b6cddf04a6a5f1fd196a9216bcd90bd133515e3995fa7570936db210400",
+            "inspected": true,
+            "role": "Immutable actual inspected A1; targeted correction, all identity/oil/light retained"
+          }
+        ],
+        "evidence": [
+          "Actual A2 pixels: mature stocky father identity and suit stable across three full views/head studies, pale old scar beneath jaw and own keys; all preinjury.",
+          "Accurate RIGHT side label, no later wound mixed into main state; practical red/amber night edge with dark suit planes.",
+          "Readable exact name/title, heavy oil through face and clothing, ivory landscape and one identity without environment."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "0e30e4197bcd58b5f1ddd1d96b40522dd42261604af74856f888b17506ab5fca"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "fbfbffa00cdfd4eba9a059c2b5aef63a706764b60f6b741287ad8433f51e2f90"
+    },
+    {
+      "id": "arvid",
+      "name": "Arvid",
+      "role": "Viveca's living estranged husband held captive by Renwick",
+      "naming": {
+        "sourceName": "Arvid",
+        "sourceRole": "Older captive husband seeking freedom from Viveca",
+        "provenance": "Exact finished-story name"
+      },
+      "selectionEvidence": [
+        {
+          "line": 205,
+          "quote": "an older man on the landing, one hand cuffed to a guard's wrist. His beard had been cut very close, badly.",
+          "explanation": "Age, rough short beard and captivity."
+        },
+        {
+          "line": 317,
+          "quote": "He had lost a slipper. One thin foot",
+          "explanation": "Slippers/thin feet, before lethal event chosen for sheet."
+        }
+      ],
+      "form": "Older adult human man",
+      "storyAppearance": {
+        "anatomy": "Older man, close badly cut beard, cuffed one wrist, wears slippers and has thin feet. Wanted to escape possessive wife; source later death not depicted. No powers.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man61 artage, thin slightly stooped, pale sallow skin, long oval face, prominent nose, short dull ash-brown thinning hair, uneven close gray beard with patchy lengths, gray eyes. Faded plain slate shirt, loose dark trousers, worn brown slippers. Ankle/wrist slender.",
+        "markings": "Older man, close badly cut beard, cuffed one wrist, wears slippers and has thin feet. Wanted to escape possessive wife; source later death not depicted. No powers.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man61 artage, thin slightly stooped, pale sallow skin, long oval face, prominent nose, short dull ash-brown thinning hair, uneven close gray beard with patchy lengths, gray eyes. Faded plain slate shirt, loose dark trousers, worn brown slippers. Ankle/wrist slender.",
+        "equipment": "Main landing pre-coat/predeath state. One metal handcuff on LEFT wrist with short unattached chain (guard excluded). FrontLEFTsideBack, two heads Startled recognition and Wary resolve, close uneven-beard/cuff detail. Wedding ring confiscated so no ring worn. No borrowed Mabry coat state required.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man61 artage, thin slightly stooped, pale sallow skin, long oval face, prominent nose, short dull ash-brown thinning hair, uneven close gray beard with patchy lengths, gray eyes. Faded plain slate shirt, loose dark trousers, worn brown slippers. Ankle/wrist slender."
+      },
+      "explicitCanon": [
+        "Older man, close badly cut beard, cuffed one wrist, wears slippers and has thin feet. Wanted to escape possessive wife; source later death not depicted. No powers."
+      ],
+      "visualInterpretation": [
+        "Man61 artage, thin slightly stooped, pale sallow skin, long oval face, prominent nose, short dull ash-brown thinning hair, uneven close gray beard with patchy lengths, gray eyes. Faded plain slate shirt, loose dark trousers, worn brown slippers. Ankle/wrist slender.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main landing pre-coat/predeath state. One metal handcuff on LEFT wrist with short unattached chain (guard excluded). FrontLEFTsideBack, two heads Startled recognition and Wary resolve, close uneven-beard/cuff detail. Wedding ring confiscated so no ring worn. No borrowed Mabry coat state required."
+        }
+      ],
+      "lighting": {
+        "moment": "Boardinghouse landing before attack",
+        "motivation": "Limited warm hallway practical and cool blue storm shadows, low-key"
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:arvid",
+        "links": [],
+        "evidence": "Exact local identity"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/arvid.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Minimally edit supplied arvid sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. The middle fullbody profile is anatomically RIGHT facing canvasRIGHT, but label says Left. Change caption ONLY to 'Right side'. Keep LEFT wrist cuff correct as already painted on frontviewerRIGHT and rearviewerLEFT; its omission from hidden far wrist in profile is correct. All pose/body/skin/hair/clothes/light unchanged. No extra person, environment, scenery, swatches or new props.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-58fef852-9d46-43b4-bdcc-fbdb27ca95fe.png",
+            "sha256": "a99df425a6e9f2a089ecc068b608e0e682e6adeee586430cc16f23667636692c",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Arvid'.\nArvid, older human man61 interpretation, thin slightly stooped, pale sallow skin, long oval face and prominent nose, short thinning dull ash-brown hair, gray eyes. VERY CLOSE badly clipped uneven gray beard, not large full beard. Faded slate button shirt, loose charcoal trousers, worn brown SLIPPERS, slender feet. Pre-coat and predeath landing state, one metal handcuff on LEFT wrist with short free chain, NO guard/other person, no wedding ring. Front / LEFT side facingLEFT / Back: LEFT cuff frontviewerRIGHT, backviewerLEFT. Heads startled recognition / wary resolve and cuff or rough beard detail. Dim nocturnal amber hall practical light with dominant cool shadow masses. No wound or death.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+                "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+                "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+                "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-58fef852-9d46-43b4-bdcc-fbdb27ca95fe.png",
+            "outputSha256": "a99df425a6e9f2a089ecc068b608e0e682e6adeee586430cc16f23667636692c",
+            "review": "Actual A1 identity, source short badly clipped beard, left cuff front/back, slippers and nocturnal practical light pass. Wrong Left caption under right profile; caption-only repair."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:38:00.482962+00:00",
+            "prompt": "Minimally edit supplied arvid sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. The middle fullbody profile is anatomically RIGHT facing canvasRIGHT, but label says Left. Change caption ONLY to 'Right side'. Keep LEFT wrist cuff correct as already painted on frontviewerRIGHT and rearviewerLEFT; its omission from hidden far wrist in profile is correct. All pose/body/skin/hair/clothes/light unchanged. No extra person, environment, scenery, swatches or new props.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-58fef852-9d46-43b4-bdcc-fbdb27ca95fe.png",
+                "sha256": "a99df425a6e9f2a089ecc068b608e0e682e6adeee586430cc16f23667636692c",
+                "inspected": true,
+                "role": "Immutable inspected A1 targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8f26009-1b9f-44c7-b443-23b1a02c9404.png",
+            "savedPath": "stories/storm-warning/art/characters/arvid.png",
+            "outputSha256": "7b9e28ef7ee384f404362cf96754bc34223711021c6d090466a49f005610a27a",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:56:39.842517+00:00",
+            "review": "Root and worker actual pixels confirm dorsal cuff detail has fingers downward with thumb at viewer left: this is a right hand, contradicting LEFT caption and correct left cuff in full bodies. Repair isolated detail only.",
+            "reviewCorrection": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation."
+          },
+          {
+            "attempt": 3,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T08:37:58.977497+00:00",
+            "prompt": "Use-case image edit: Change ONLY the bottom enlarged study captioned 'Left wrist cuff' on this existing Arvid / Storm Warning oil character sheet. Its current hand has the WRONG chirality. Render a LEFT HAND seen from its DORSAL BACK, wrist at TOP, relaxed fingers pointing DOWN: thumb must be on CANVAS RIGHT of that isolated hand, not canvas left. Put the thumb's nail/bent joint at the right edge, four finger backs/knuckles descending toward bottom with little finger at left. Preserve cuff around that LEFT wrist and short free chain. Anatomical five digits total, convincing ordinary human left hand. Preserve exact panel location, caption, shirt cloth, dark night amber/cool lighting and heavy connected matte oil brushwork. ALL OTHER PIXELS / portraits / front, Right side and back full figures / beard / slippers / names / ivory background stay unchanged. Do not reflect the complete sheet or any full-body view. No setting, no added props or people.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-a8f26009-1b9f-44c7-b443-23b1a02c9404.png",
+                "sha256": "7b9e28ef7ee384f404362cf96754bc34223711021c6d090466a49f005610a27a",
+                "inspected": true,
+                "role": "Actual inspected immutable selected A2; isolated dorsal left-hand chirality correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-cf7ef0a9-e199-4f5e-972d-08e5eb2a7627.png",
+            "savedPath": "stories/storm-warning/art/characters/arvid.png",
+            "outputSha256": "34e52950400f546ebc294d06b276569b3b7cba8126ca62e7dd832db8df587894",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T08:40:39.987132+00:00",
+            "reviewCorrection": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation. This later attempt was unnecessary; any reversed chirality it introduced is rejected."
+          }
+        ],
+        "selectedAttempt": 2,
+        "selectionHistory": [
+          {
+            "at": "2026-09-24T09:45:24.520089+00:00",
+            "fromAttempt": 3,
+            "toAttempt": 2,
+            "action": "restore inspected earlier candidate",
+            "reason": "Earlier root-directed anatomical rejection is WITHDRAWN. Correct hand convention with fingers UP: LEFT dorsal thumb viewerRIGHT, RIGHT dorsal thumb viewerLEFT, LEFT palm thumb viewerLEFT, RIGHT palm thumb viewerRIGHT. Actual A2 is correct and restored without generation."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel audit after root convention correction",
+        "reviewedAt": "2026-09-24T09:45:24.520089+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "7b9e28ef7ee384f404362cf96754bc34223711021c6d090466a49f005610a27a",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-58fef852-9d46-43b4-bdcc-fbdb27ca95fe.png",
+            "sha256": "a99df425a6e9f2a089ecc068b608e0e682e6adeee586430cc16f23667636692c",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual restored A2: enlarged LEFT dorsal cuff hand has fingers DOWN and thumb viewerLEFT, correctly equivalent to LEFT dorsal fingersUP/thumbviewerRIGHT. Root wrong-convention finding withdrawn.",
+          "Main front/back cuff remains anatomicalLEFT, correct Right side caption, short uneven beard/slippers/clothes/night lighting stable. Rejected A3 remains in history; no generation for restoration."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "148c8c6f2a2a02c4886d8745b2e3126e231d567549ed5c5b703d6cddb70933a7"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "7b9e28ef7ee384f404362cf96754bc34223711021c6d090466a49f005610a27a"
+    },
+    {
+      "id": "nerova",
+      "name": "Nerova",
+      "role": "Recurring captive woman who helps another prisoner escape and refuses Mabry's complicity",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Woman from the car, approximately forty",
+        "provenance": "New art-only name assigned under user authorization; no compatible historical personal name established; source/canon untouched"
+      },
+      "selectionEvidence": [
+        {
+          "line": 111,
+          "quote": "a woman whose wrists were tied together beneath an open raincoat. She was perhaps forty.",
+          "explanation": "Recurring specific rescued victim."
+        },
+        {
+          "line": 369,
+          "quote": "She straightened when she saw them and took his arm.",
+          "explanation": "Acts again to aid the escaping old man."
+        }
+      ],
+      "form": "Adult human woman approximately40",
+      "storyAppearance": {
+        "anatomy": "Approximately forty, wrists tied beneath open raincoat, one shoe missing and trying to cover bare foot with other. Freed later, helps old prisoner escape, refuses Mabry. Ordinary human.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Woman40, compact sturdy build, olive-tan skin, wide cheekbones and square chin, short straight dark-brown jaw bob, hazel eyes. Open dull mustard raincoat over fully buttoned muted burgundy blouse and navy ankle trousers. One flat dark shoe on RIGHT foot, LEFT foot bare (art-chosen side); damp clothing and modest stance.",
+        "markings": "Approximately forty, wrists tied beneath open raincoat, one shoe missing and trying to cover bare foot with other. Freed later, helps old prisoner escape, refuses Mabry. Ordinary human.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Woman40, compact sturdy build, olive-tan skin, wide cheekbones and square chin, short straight dark-brown jaw bob, hazel eyes. Open dull mustard raincoat over fully buttoned muted burgundy blouse and navy ankle trousers. One flat dark shoe on RIGHT foot, LEFT foot bare (art-chosen side); damp clothing and modest stance.",
+        "equipment": "Main car-before-release bound wrists held at waist beneath open coat, feet close, one bare and one shod clearly. Heads Exhausted and Refusing. Small later FREED HANDS detail without ties, perhaps faint wrist pressure only. No car/oldman/rope attached surroundings.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Woman40, compact sturdy build, olive-tan skin, wide cheekbones and square chin, short straight dark-brown jaw bob, hazel eyes. Open dull mustard raincoat over fully buttoned muted burgundy blouse and navy ankle trousers. One flat dark shoe on RIGHT foot, LEFT foot bare (art-chosen side); damp clothing and modest stance."
+      },
+      "explicitCanon": [
+        "Approximately forty, wrists tied beneath open raincoat, one shoe missing and trying to cover bare foot with other. Freed later, helps old prisoner escape, refuses Mabry. Ordinary human."
+      ],
+      "visualInterpretation": [
+        "Woman40, compact sturdy build, olive-tan skin, wide cheekbones and square chin, short straight dark-brown jaw bob, hazel eyes. Open dull mustard raincoat over fully buttoned muted burgundy blouse and navy ankle trousers. One flat dark shoe on RIGHT foot, LEFT foot bare (art-chosen side); damp clothing and modest stance.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main car-before-release bound wrists held at waist beneath open coat, feet close, one bare and one shod clearly. Heads Exhausted and Refusing. Small later FREED HANDS detail without ties, perhaps faint wrist pressure only. No car/oldman/rope attached surroundings."
+        }
+      ],
+      "lighting": {
+        "moment": "Rainy street night near car",
+        "motivation": "Cool storm shadows with modest red reflected light and wet edges"
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:nerova",
+        "links": [],
+        "evidence": "Art-only identity for exact recurring woman; no unrelated namesake"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/nerova.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Minimally edit supplied nerova sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. Correct only middle wholebody Side view: rotate/mirror its pose so her NOSE and all toes point to canvasLEFT (true anatomical LEFT side). LEFT foot remains bare and camera-near; far RIGHT foot wears the single dark shoe. Keep bound hands at waist, same head/hair/coat/wardrobe. Keep front and back feet exactly as they are: frontviewerRIGHT bare, backviewerLEFT bare. Caption beneath profile 'Left side'. Additionally night streetlight must read cool: on ALL faces and hands reduce broad warm daylight face fill into muted COOL blue-gray shadow masses with narrow red reflected edge; preserve natural underlying olive-tan complexion. Subject must remain low-key wet night, ivory paper unaffected. Preserve mustard coat local color but darken its unlit planes slightly. No new shape or detail. No extra person, environment, scenery, swatches or new props.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c699b498-9573-440b-9c48-e33fc1d108a4.png",
+            "sha256": "64a14ff4fdf4c1f23e60993481bad0b975bf762640443edf0fbde42894f21cb8",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Nerova'.\nNerova, human woman approximately40. Compact sturdy, olive-tan skin, wide cheekbones square chin, short straight dark-brown JAW-LENGTH BOB, hazel eyes. OPEN dull mustard raincoat, fully buttoned muted burgundy blouse and navy ankle trousers. Ordinary wrists loosely bound together in FRONT at waist beneath open coat; no sexualization or distressed exhibition. RIGHT foot one flat dark shoe, LEFT foot BARE: frontviewerRIGHT bare, backviewerLEFT bare, leftsidefacingLEFT bare foot near viewer. Main bound state, heads exhausted / refusing. Small Later: freed hands detail shows hands without ties. Character only, no car, rope to setting, other prisoner. Dark nocturnal cool slate shadows and small red sign reflection; no daylight fill.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+                "role": "Wet night blue-black shadows and restrained red edge light",
+                "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+                "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c699b498-9573-440b-9c48-e33fc1d108a4.png",
+            "outputSha256": "64a14ff4fdf4c1f23e60993481bad0b975bf762640443edf0fbde42894f21cb8",
+            "review": "Actual A1 source human40, one shoe and bound/freed wrists good; main front/back LEFT bare foot correct, side incorrectly faces RIGHT while left bare foot is near. Turn only profile to true left; reduce broad warm facial fill toward source cool wet night."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:38:00.485292+00:00",
+            "prompt": "Minimally edit supplied nerova sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. Correct only middle wholebody Side view: rotate/mirror its pose so her NOSE and all toes point to canvasLEFT (true anatomical LEFT side). LEFT foot remains bare and camera-near; far RIGHT foot wears the single dark shoe. Keep bound hands at waist, same head/hair/coat/wardrobe. Keep front and back feet exactly as they are: frontviewerRIGHT bare, backviewerLEFT bare. Caption beneath profile 'Left side'. Additionally night streetlight must read cool: on ALL faces and hands reduce broad warm daylight face fill into muted COOL blue-gray shadow masses with narrow red reflected edge; preserve natural underlying olive-tan complexion. Subject must remain low-key wet night, ivory paper unaffected. Preserve mustard coat local color but darken its unlit planes slightly. No new shape or detail. No extra person, environment, scenery, swatches or new props.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c699b498-9573-440b-9c48-e33fc1d108a4.png",
+                "sha256": "64a14ff4fdf4c1f23e60993481bad0b975bf762640443edf0fbde42894f21cb8",
+                "inspected": true,
+                "role": "Immutable inspected A1 targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-924ebda4-d552-4a57-8b65-65a3bc92df01.png",
+            "savedPath": "stories/storm-warning/art/characters/nerova.png",
+            "outputSha256": "8ee97b4597ee5a483e597df60e501a57a8852c9cbecc66903b9833e516dba40d",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:56:39.842517+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:56:39.842517+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "8ee97b4597ee5a483e597df60e501a57a8852c9cbecc66903b9833e516dba40d",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-c699b498-9573-440b-9c48-e33fc1d108a4.png",
+            "sha256": "64a14ff4fdf4c1f23e60993481bad0b975bf762640443edf0fbde42894f21cb8",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2: LEFT bare foot consistent frontviewerRIGHT, true left-facing profile nearfoot, rearviewerLEFT; single RIGHT shoe stays same across views.",
+          "Source open raincoat/bound-before and freed-hands-after states preserved, one adult human woman. No sexualized restraint or environment.",
+          "Broad warm fill reduced to source cool dark wet-night flesh and shadow coat with restrained red edge; actual ivory/facial oils/name/title pass."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "4c73d1e3706d7ca3d66c9b7ba744046bf62f0378a77690535f4bf23419a1bf25"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "8ee97b4597ee5a483e597df60e501a57a8852c9cbecc66903b9833e516dba40d"
+    },
+    {
+      "id": "brannik",
+      "name": "Brannik",
+      "role": "Last elderly prisoner freed by Mabry whose escape she shields",
+      "naming": {
+        "sourceName": null,
+        "sourceRole": "Old man, last prisoner with tied ankles",
+        "provenance": "New art-only name assigned under user authorization; no established historical personal name; no source/canon alteration"
+      },
+      "selectionEvidence": [
+        {
+          "line": 345,
+          "quote": "The last prisoner was an old man with his ankles tied together.",
+          "explanation": "Specific final rescue, apologetic response."
+        },
+        {
+          "line": 377,
+          "quote": "He was dragging one foot.",
+          "explanation": "Continued escape role and vulnerability."
+        }
+      ],
+      "form": "Elderly adult human man",
+      "storyAppearance": {
+        "anatomy": "Old man, ankles bound, apologizes for making Mabry wait; kicks free and escapes, later drags one foot. No exact age, complexion or attire specified.",
+        "lifeStage": "Specified in facts; unprovided age is interpretation",
+        "proportions": "Man76 artage, short frail round-shouldered build, light reddish-brown skin, round lined face, broad bulbous nose, thick white eyebrows, sparse wispy white hair, clean-shaven chin. Faded charcoal cardigan over pale brown checked shirt, brown loose trousers and worn black shoes. Distinct from thin bearded Arvid.",
+        "markings": "Old man, ankles bound, apologizes for making Mabry wait; kicks free and escapes, later drags one foot. No exact age, complexion or attire specified.",
+        "materials": "Painted flesh/hair, cloth and personal source gear",
+        "clothing": "Man76 artage, short frail round-shouldered build, light reddish-brown skin, round lined face, broad bulbous nose, thick white eyebrows, sparse wispy white hair, clean-shaven chin. Faded charcoal cardigan over pale brown checked shirt, brown loose trousers and worn black shoes. Distinct from thin bearded Arvid.",
+        "equipment": "Main frontleftsideback fully clothed standing neutral free-after-escape, one foot rests gently (LEFT chosen), no invented amputation. Two heads Apologetic and Relieved. Small isolated bound-ankles-before-release detail, ordinary loose gray rope around lower trouser legs, intact shoes, not tiedtoanything.",
+        "scale": "Exact size unprovided; reference proportions are art interpretation",
+        "movement": "Source-specific restrained reference studies",
+        "distinctiveFeatures": "Man76 artage, short frail round-shouldered build, light reddish-brown skin, round lined face, broad bulbous nose, thick white eyebrows, sparse wispy white hair, clean-shaven chin. Faded charcoal cardigan over pale brown checked shirt, brown loose trousers and worn black shoes. Distinct from thin bearded Arvid."
+      },
+      "explicitCanon": [
+        "Old man, ankles bound, apologizes for making Mabry wait; kicks free and escapes, later drags one foot. No exact age, complexion or attire specified."
+      ],
+      "visualInterpretation": [
+        "Man76 artage, short frail round-shouldered build, light reddish-brown skin, round lined face, broad bulbous nose, thick white eyebrows, sparse wispy white hair, clean-shaven chin. Faded charcoal cardigan over pale brown checked shirt, brown loose trousers and worn black shoes. Distinct from thin bearded Arvid.",
+        "Unspecified physical appearance and clothing details are art interpretation, not new shared canon."
+      ],
+      "states": [
+        {
+          "name": "Source presentation",
+          "description": "Main frontleftsideback fully clothed standing neutral free-after-escape, one foot rests gently (LEFT chosen), no invented amputation. Two heads Apologetic and Relieved. Small isolated bound-ankles-before-release detail, ordinary loose gray rope around lower trouser legs, intact shoes, not tiedtoanything."
+        }
+      ],
+      "lighting": {
+        "moment": "Boardinghouse last prisoner then street escape night",
+        "motivation": "Small amber practical planes against dark blue-charcoal shadows with restrained red edge"
+      },
+      "recurrence": {
+        "identityKey": "storm-warning:brannik",
+        "links": [],
+        "evidence": "Art-only identity for exact last elderly prisoner"
+      },
+      "references": [
+        {
+          "path": "stories/storm-warning/art/interiors/01-office-in-the-rain.png",
+          "role": "Actual dark office night oil and motivated warm lamp/red reflection",
+          "notes": "Inspected actual low-key blue-charcoal masses, limited amber lamp and red sign spill. No room elements in sheets.",
+          "sha256": "a71076f1655c70f4664150e251ddf4e13521f368b13ebc39b9c2bec22a8ef7dc",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+          "role": "Actual accepted oil/ivory folio rendering only",
+          "notes": "No identity, age, costume or daylight copied.",
+          "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/landscapes/02-red-in-the-puddles.png",
+          "role": "Wet night blue-black shadows and restrained red edge light",
+          "notes": "Inspected; night must remain dark, no daylight face fill and no street scene.",
+          "sha256": "19818df3bab98269edb5f7626e2f4dbdcdd1792ec4604402708fe702a7b1a2ac",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+          "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+          "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+          "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+          "inspected": true
+        },
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-48cd56b7-6ec4-4686-b1e9-6a6156ee1719.png",
+          "role": "Original user reference for Viveca identity and attire/blade",
+          "notes": "Recovered exact named external image and inspected. Long wet white hair, narrow adult face, red dress, bare feet and broad serrated-back blade. Red eye highlight treated reflected sign light, never supernatural eye. Its line rendering subordinate to accepted oil. No reference copied to story.",
+          "sha256": "841e73963500b59231da4dc33cb6af00f1e1cb43f6dccdccf233151a567977d0",
+          "inspected": true
+        },
+        {
+          "path": "stories/storm-warning/title-image.jpg",
+          "role": "Inspected cover supporting Viveca visual continuity",
+          "notes": "White hair/red dress/barefoot/blade match original; source human nature controls red eye/specular depiction.",
+          "sha256": "e6bc87d945b4d28da3b1103c9565d525d3d36cfdeb945c734cf6d30f7dd1aa66",
+          "inspected": true
+        }
+      ],
+      "output": "stories/storm-warning/art/characters/brannik.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Minimally edit supplied brannik sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. Change only middle wholebody profile caption from 'Left' to 'Right side', since nose/toes face canvasRIGHT. Leave all body, source old age, night paint/light, free-main ankles and prior-bound ankle details untouched. No extra person, environment, scenery, swatches or new props.",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-48c06e88-87f2-48c5-9f2e-2a37a9f79a37.png",
+            "sha256": "c8945273f3041a9203cc05424a40946a4ef7dd29df36ca4ec9c2986a07501c25",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "modelReported": null,
+            "status": "rejected",
+            "requestedAt": "2026-09-24T06:13:16.664418+00:00",
+            "prompt": "Use case: illustration-story. Generate ONE 1536x1024 landscape character-reference folio, light warm IVORY background, exact large dark serif NAME and exact subtitle 'Storm Warning'. ONE identity only. Three complete full-body front / left side facing canvasLEFT / back views and two expressive heads, plus restrained personal detail or stated alternate clothing. Heavy Canadian Group of Seven oil: broad connected opaque colour/value masses and directional strokes with selective impasto on FACES, hair, cloth equally. Matte eyes, no polished digital face islands, no fine anime lines or photoreal/CGI. First reference supplies DARK NIGHT light/value masses; second accepted sheet supplies paint handling and folio structure ONLY, not its character or daylight. Character subject must remain predominantly blue-charcoal shadows with limited motivated warm/red planes while IVORY background stays light. No daylight broad fill, no location, scene, street, room, floor patch, rain-background, swatches or other person. All people human with ordinary anatomy; source monster language is metaphor, NO supernatural powers or glowing eyes. Attached marks/injuries maintain anatomical side across views. Held items may vary gesture.\nHeading 'Brannik'.\nBrannik, elderly HUMAN man76 interpretation. Short frail round-shouldered build, light reddish-brown skin, round deeply lined face, broad bulbous nose, thick white eyebrows, sparse white wisps, CLEAN SHAVEN. Faded charcoal cardigan over pale brown small-check shirt, loose brown trousers, worn black shoes. Main three views AFTER ankle release: both feet intact, left foot lightly rested, ordinary stance. Two heads apologetic / relieved. Small 'Before release: bound ankles' detail of same two shod ankles gently tied by ordinary gray rope, no attachmenttoanything, no fresh wound. Elderly distinct from long-faced bearded Arvid. Nighttime limited amber lamp highlights and large deep blue-charcoal shadows; keep lowkey. No room, floor patch, environment or other person.",
+            "references": [
+              {
+                "path": "stories/storm-warning/art/interiors/03-boardinghouse-parlour.png",
+                "role": "Actual nocturnal warm practical lamp against cold wet shadows",
+                "notes": "Inspected; isolated character lighting only, no furniture or hall.",
+                "sha256": "a78dd1bb3e2b420e6efb6935282103e192ea16ae608f9bdcd12d1276d94b6983",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-busy-year-for-dying/art/characters/kelro.png",
+                "role": "Actual accepted oil/ivory folio rendering only",
+                "notes": "No identity, age, costume or daylight copied.",
+                "sha256": "e69a240f90b20da532954edf9aee01937044623e93592dc37bd31de19918d203",
+                "inspected": true
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-48c06e88-87f2-48c5-9f2e-2a37a9f79a37.png",
+            "outputSha256": "c8945273f3041a9203cc05424a40946a4ef7dd29df36ca4ec9c2986a07501c25",
+            "review": "Actual A1 elderly distinct one identity, bound-before/free-main state and practical nocturnal lamp planes pass. Caption-only right profile label repair."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in-edit",
+            "modelReported": null,
+            "status": "selected",
+            "requestedAt": "2026-09-24T06:38:00.487387+00:00",
+            "prompt": "Minimally edit supplied brannik sheet. Preserve exact heading/name/Storm Warning subtitle, identity, age, every unmentioned element, heavy Canadian Group of Seven oils, ivory landscape1536x1024. Change only middle wholebody profile caption from 'Left' to 'Right side', since nose/toes face canvasRIGHT. Leave all body, source old age, night paint/light, free-main ankles and prior-bound ankle details untouched. No extra person, environment, scenery, swatches or new props.",
+            "references": [
+              {
+                "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-48c06e88-87f2-48c5-9f2e-2a37a9f79a37.png",
+                "sha256": "c8945273f3041a9203cc05424a40946a4ef7dd29df36ca4ec9c2986a07501c25",
+                "inspected": true,
+                "role": "Immutable inspected A1 targeted correction only"
+              }
+            ],
+            "generatedPath": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-397c9a9e-97e7-4e7f-b2d7-b7a4a6ace33c.png",
+            "savedPath": "stories/storm-warning/art/characters/brannik.png",
+            "outputSha256": "a947e8aed30e02e9fb6d371def663feeab2ab863517cc1b6f4f94bc750c88baa",
+            "dimensions": [
+              1536,
+              1024
+            ],
+            "completedAt": "2026-09-24T06:56:39.842517+00:00"
+          }
+        ],
+        "selectedAttempt": 2
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "cast_resume_2 actual-pixel assistant review",
+        "reviewedAt": "2026-09-24T06:56:39.842517+00:00",
+        "sourceSha256": "9f048ba5a6db09cf177eb2d49829eaa70d31a0278ef2eab2e621dd6898e56dec",
+        "outputSha256": "a947e8aed30e02e9fb6d371def663feeab2ab863517cc1b6f4f94bc750c88baa",
+        "references": [
+          {
+            "path": "C:\\Users\\jamie\\.codex\\generated_images\\01a0d136-c011-76c3-9d7f-c330f72b6c17\\exec-48c06e88-87f2-48c5-9f2e-2a37a9f79a37.png",
+            "sha256": "c8945273f3041a9203cc05424a40946a4ef7dd29df36ca4ec9c2986a07501c25",
+            "inspected": true,
+            "role": "Immutable inspected A1 targeted correction only"
+          }
+        ],
+        "evidence": [
+          "Actual A2: frail elder distinct from Arvid with clean-shaven round face, free-after main ankles and separately labelled before-release tied-ankle details.",
+          "Right side profile label repaired, both feet intact, no invented wound/disability. Natural age/posture and consistent own identity.",
+          "Source dim practical warm planes/large cool dark cloth, heavy oil faces and ivory landscape, readable name/title, no room or extra person."
+        ],
+        "userApproval": "Full production authorized; final collection review pending.",
+        "specificationSha256": "46f00f975d709c017eca63193259e8609f60021f8991224ed64bc654d27ce947"
+      },
+      "preflight": {
+        "status": "PASS",
+        "evidence": "Full finished source and pertinent universe authority read; actual references inspected, explicit facts separated from art interpretation, source-specific states/lighting and feasible framing checked before generation."
+      },
+      "outputSha256": "a947e8aed30e02e9fb6d371def663feeab2ab863517cc1b6f4f94bc750c88baa"
+    }
+  ]
+}
