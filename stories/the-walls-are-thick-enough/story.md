@@ -68,7 +68,7 @@ He was quiet a long moment. “My safe-conduct runs until moonset.”
 
 His slowness could feel like cruelty when she had made herself plain. Tazri gathered the loose veil at her hip. “Then use it. Ride away clean while he takes my levy.”
 
-Jaseth looked toward the diplomatic court beyond the warming room, where his gate was, then back at her. He did not answer.
+Jaseth looked toward the diplomatic court beyond the warming room, where his gate was. “My escort would take you too.”
 
 “If I wanted to run, I would have worn shoes for it.” She lifted the gauze enough to show the pearl slippers the court selected for garden gravel. Anger steadied her better than dignity. “I want the tribunal petition carried. I want the witness register beyond his gate. I want one thing tonight that he did not arrange.”
 
