@@ -200,7 +200,7 @@ Tressa drew what he had described, then turned the ledger sideways. Her neat dia
 
 Tressa redrew the half she had rubbed out, exactly as before.
 
-Ivara crouched over the trapped rope. Its fibers tightened at an angle the floor denied. “It isn't a room from here. Please. Just give me the part that matters.”
+Ivara crouched over the trapped rope. Its fibers tightened at an angle the floor denied. “It isn't a room from here. Give me the part that matters.”
 
 Tressa's mouth tightened. Her pencil shook, but it kept moving. Then she tore a strip from the margin of her precious ledger and folded it twice. “The loop is here, at the fifth tooth. The shifting block bears here. If Mazin pulls, the bottom edge lifts.” She held the folded paper against the wall, not as a map but as an angle. “You need to strike behind the loop, upward.”
 
@@ -294,13 +294,9 @@ He planted his broad palm against the plinth, fingers slanting down. “Like thi
 
 Tressa caught his wrist. “Crescent groove.” She found the first page of her entrance sketch. “I drew its shadow. The exposed stone tilted eleven degrees from the doorway face.”
 
-“Eleven?” Mazin said. “It tilted a bit.”
+“Eleven?” Mazin said. His palm tipped on the plinth. “It tilted a bit. Like this.”
 
-“Eleven. I measured the shadow against the—”
-
-“A bit. Like this. I had my hand on it, it went—”
-
-“Eleven. It was eleven.”
+“Eleven. I measured it.”
 
 “Stop.” Ivara had already lost the picture by trying to decide which of them was right. Around her, the routes hummed through stone, eager without wanting, multiplying without thought. “One at a time.”
 
@@ -376,7 +372,7 @@ Ivara rolled onto an elbow. The labyrinth entrance was stone again. The dark cap
 
 Tressa tapped her pencil against the page. “The finding needs a primary name.”
 
-She waited, pencil raised.
+She looked at Ivara and waited, pencil raised.
 
 Something hissed overhead.
 
@@ -384,6 +380,6 @@ All three looked up too late. An arrow dropped out of empty morning, struck the 
 
 Ivara's hand moved toward it, then stopped.
 
-Tressa went still. Mazin pulled the cloth from his face, sat up, and stared. Ivara waited. Then she reached for the arrow.
+Tressa went still. Mazin pulled the cloth from his face, sat up, and stared. Only when both of them had seen it standing there did Ivara reach for the arrow.
 
 Tressa lowered her pencil to the ledger. Beside the fresh entry, she ruled one line wide enough for three names.
