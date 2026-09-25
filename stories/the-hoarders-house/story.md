@@ -10,33 +10,29 @@ canon: false
 
 By half past four I had cleared a path from my uncles’ front door to the stairs, but only if everyone agreed to turn sideways at the umbrella stand.
 
-That was not the path we had discussed.
+We had agreed on shoulder-wide. I had written it on the back of an envelope and made them both sign it.
 
-“The agreement was shoulder-wide,” I said.
+“Shoulder-wide,” I said.
 
-Tobren looked down at the washbasin occupying half the hall. Its enamel had worn through in two thumb-sized places. “It’s leaving tomorrow. I found someone who needs the taps.”
+Tobren looked down at the washbasin occupying half the hall. Its enamel had worn through in two thumb-sized places. “It goes tomorrow, once I’ve got the taps back on. I found someone who needs it.”
 
-“The taps aren’t attached.”
+“You said tomorrow the last time I was here.”
 
-“Hence the basin’s staying here until they are.”
+He ran his thumb around one of the bare patches as if I hadn’t spoken.
 
-Sael, my other uncle, stood three steps up with his inventory book pressed to his ribs. “The measurement began at the coat hooks. You began at the jamb.”
+Sael, my other uncle, stood three steps up with his inventory book pressed to his ribs. “Fourteen inches at the coat hooks,” he said, and turned back a page. “I wrote shoulder-wide down as eighteen.”
 
-“A person cannot begin at the coat hooks.”
+I had got fourteen myself an hour earlier, after climbing over a crate of winter stove rings to reach the hooks. I dragged the basin into the parlor and put a chalk line across the hallboards: front door, stairs on the right, parlor on the left, then the dining-room door, then eighteen paces straight back to the kitchen. The dining room had a side door too, but it had been behind crates of drawer hardware for years. The kitchen filled the rear of the house. Its back door opened to the yard. Its pantry stood left of the sink.
 
-“You did.”
+I had learned the house that way as a child, and it helped to say it to myself whenever I visited.
 
-I had, by climbing over a crate of winter stove rings. I dragged the basin into the parlor and put a chalk line across the hallboards: front door, stairs on the right, parlor on the left, then the dining-room door, then eighteen paces straight back to the kitchen. The kitchen filled the rear of the house. Its back door opened to the yard. Its pantry stood left of the sink.
-
-That was the house I had learned as a child. It was useful to say it to myself whenever I visited.
-
-Outside, somebody knocked three times. Not impatiently. Officially.
+Outside, somebody knocked three times at an even, unhurried pace. I had answered the museum’s letter myself and named half past four, thinking the hall would be clear by then.
 
 Tobren picked up the basin again.
 
 “No,” I said. “Leave it.”
 
-He set it down inside the parlor with care. Sael descended and checked the chalk line against his book.
+He set it down just inside the parlor doorway with care. Sael descended and checked the chalk line against his book.
 
 Kezra Vonn waited on the step in a brown museum coat, holding a document case against the drizzle. Daskar Avel stood behind her with a square metal frame strapped to his chest and a black, padded jar suspended in its center by three short webbing loops. Neither agent tried to see past me.
 
@@ -52,13 +48,13 @@ Kezra opened her case. “We’re here about one compression marker transferred 
 
 “Drawer pulls,” Tobren said. “Not mixed fittings.”
 
-Sael said, “It was first stored in the east bedroom. That room is excluded.”
+Sael said, “It went into the east bedroom first. Page nine. The east bedroom’s off the list.”
 
-“The attic’s excluded,” Tobren added.
+“And the attic,” Tobren added.
 
-“You told me the east bedroom,” I said.
+“Last week you told me the east bedroom was the only room off the list,” I said to him.
 
-“I’m telling them the attic.”
+“I’m telling them the attic,” Tobren said.
 
 Kezra made two marks on her form. She did not smile. “We can begin with the current box, the route from the front door, and rooms both residents consent to. If the evidence points beyond that boundary, we stop and ask again.”
 
@@ -70,7 +66,7 @@ Tobren’s mouth tightened. Sael looked up at the shelf bridging the hall above 
 
 “It can stay somewhere else,” I said.
 
-That was how the agents entered: not by defeating my uncles, but by waiting while Tobren carried the fans into the parlor and Sael moved the tureen himself.
+So the agents got in by waiting while Tobren carried the fans into the parlor and Sael moved the tureen himself.
 
 The drawer-pull box lived under the dining-room table. Getting it out required shifting a sewing-machine cabinet that had not held a sewing machine since I was twelve. Tobren objected when Daskar reached for it.
 
@@ -78,17 +74,15 @@ The drawer-pull box lived under the dining-room table. Getting it out required s
 
 “Then you lift,” Daskar said. “I watch the ceiling.”
 
-That was Daskar’s entire manner. He did not pretend an instruction was a discussion.
-
 Tobren eased the cabinet out. Sael counted the floorboards it crossed. Behind it, the wallpaper showed a pale rectangle where the sun had not reached.
 
 The box contained brass cups, bone knobs, iron loops, ceramic drops, and a green stone the size of a small plum. Kezra crouched without touching it.
 
-“Same banding as the sale image,” she said. “Size within error. That establishes resemblance and chain of custody, not function.”
+“Same banding as the sale image,” she said. “Size within error. That’s the compression marker, or something made to look like it.”
 
-“It kept a pantry door from banging,” Tobren said. “That establishes a function.”
+“It kept a pantry door from banging,” Tobren said. “Nine years. Never hurt anybody.”
 
-“A use,” Kezra corrected. “Not necessarily the original one.”
+Kezra wrote that down.
 
 Daskar unlatched the instrument on his chest. Three shutters opened on what I had taken for a lantern. One gave off a dry tick that I felt in my teeth. The second warmed the air without visible light. The third made a thin silver thread inside the glass bow toward the green stone.
 
@@ -100,11 +94,7 @@ Something whistled in the wall behind the sewing cabinet: one rising note, a pau
 
 Tobren stood. “There’s a hollow behind the cabinet.”
 
-Kezra said, “I heard a tone behind it.”
-
-“So did I.”
-
-“That isn’t the same claim.”
+“Stay where you are,” Kezra said. “Something made a sound back there. I don’t know what.”
 
 The lantern ticked again. The whistle came again, matched in timing but not pitch. Red crossed the ceiling. The floor pressed up through my soles.
 
@@ -126,11 +116,11 @@ Our pantry had one yellow tin. It stood beside the flour scoop, off the kitchen.
 
 For several seconds none of us spoke. The red light in the kitchen flashed once more, though the lantern was dark.
 
-Sael stepped to the new threshold and stopped without crossing it. “Seven shelves,” he said. “Ours has six. The wall occupies the yard.”
+Sael stepped to the new threshold and stopped without crossing it. “Seven shelves,” he said. “Ours has six. And they’re standing in the yard.”
 
 Tobren leaned around him. “We could have had seven.”
 
-“We did not.”
+“We had six.”
 
 I put my palm on the dining-room wall. I knew the other side: a strip of nettles, the rain barrel, the yard fence. The plaster was cold all the way through.
 
@@ -142,13 +132,13 @@ I slammed it. The impact traveled under us in three quick pulses.
 
 “Don’t do that again,” Daskar said.
 
-“I observed the hall,” I told Kezra, because she had made the distinction matter. “I do not know what that means.”
+“That was me,” I said. It came out higher than I meant. “That was the back of my coat.”
 
-“It means the exit has folded,” Tobren said.
+“It’s folded,” Tobren said. He had a loose length of floorboard out from behind the umbrella stand before anyone could stop him.
 
-“No,” Sael said quietly. “It means this door does not currently lead outside.”
+Sael laid his palm flat on the door. “Two hinges and a latch, and all three still work. Don’t nail anything to it.”
 
-The difference did not comfort anyone, but it kept Tobren from boarding the door shut.
+Tobren held the board a moment longer, then leaned it back against the stand.
 
 Kezra took out five numbered paper tags and set one at each known threshold. “The instrument produced three outputs. At least three objects produced responses: sound, light, and vibration. Proximity doesn’t prove they belong together. We isolate one response at a time.”
 
@@ -156,7 +146,7 @@ Kezra took out five numbered paper tags and set one at each known threshold. “
 
 “I came because a record identified the stone as dangerous. That record said nothing about your wall growing a pantry.”
 
-It was the first time uncertainty entered her voice. Not fear. Space for a fact she did not yet own.
+She closed the case on her form without writing anything.
 
 We found the whistling object first. Sael led us to a brass vane packed in a crate of weather fittings beneath the stairs. The shape was almost floral, eight thin cups around a central spindle. A hairline seam had appeared across the solid stair riser beside it. No air moved, but when the seam lengthened by the width of my thumbnail, the cups turned a fraction and produced the same rising note.
 
@@ -164,15 +154,15 @@ We found the whistling object first. Sael led us to a brass vane packed in a cra
 
 “Roof salvage. Good brass. The spindle catches.”
 
-“Observed,” Kezra said, “it produces sound while an altered opening forms nearby. We don’t know what it detects.”
+“It whistles when an opening forms nearby,” Kezra said. “That’s all I’ve seen it do.”
 
 Tobren opened his mouth, then closed it.
 
-Daskar slid the vane into a waxed evidence sleeve, wrapped it in a folded wool coat, and buckled both under the stair rail. The front door opened two inches onto the same hall, then shut again, without a whistle.
+Daskar wrote WHISPER-VANE on a waxed evidence sleeve in grease pencil, slid the vane inside, wrapped it in a folded wool coat, and buckled both under the stair rail. The front door opened two inches onto the same hall, then shut again, without a whistle.
 
-In the kitchen we found the red source: a palm-sized pane of black glass propped behind the spice jars. It lit whenever the stove flame shifted, not at any spoken word or movement. Tobren had used it to warn when the kettle boiled dry. Kezra covered it with a doubled oven cloth and placed an opaque case over that. The kitchen went dim.
+In the kitchen we found the red source: a palm-sized pane of black glass propped behind the spice jars. It lit whenever the stove flame shifted, not at any spoken word or movement. Tobren had used it to warn when the kettle boiled dry. Kezra covered it with a doubled oven cloth and placed an opaque case over that. Daskar marked the lid MOTHGLASS. The kitchen went dim.
 
-The green stone was harder. It pulsed whenever the volume around it changed—when a drawer opened, when one of us entered the dining room, when Daskar moved the washbasin out of the lane. We wedged its box between the hearth slab and two folded blankets until the vibration no longer reached the floor.
+The green stone was harder. It pulsed whenever the volume around it changed—when a drawer opened, when one of us entered the dining room, when Daskar pushed the washbasin clear of the parlor doorway. We wedged its box between the hearth slab and two folded blankets until the vibration no longer reached the floor.
 
 For eight breaths the house held still.
 
@@ -182,13 +172,9 @@ Nobody had touched anything.
 
 “Two modes suppressed, one braced,” Daskar said. “Expansion continuing.”
 
-Kezra watched the silver thread in her lantern bend, straighten, and bend again. “Those objects may only have announced the change. Something else acted on the pattern.”
+Kezra watched the silver thread in her lantern bend, straighten, and bend again. “Those three may only have been announcing the change. Something else could be making it. A fourth object.” She let the thread settle. “I haven’t seen one.”
 
-“That is an interpretation,” Sael said.
-
-“Yes.” Kezra met his eyes. “It predicts a fourth object. I haven’t observed it.”
-
-The floor rose under us once, a single broad shove. The false pantry door swung shut. When I opened it again, Tobren and Kezra stood on the other side among seven shelves.
+The floor rose under us once, a single broad shove. Out in the hall, enamel scraped across boards. The false pantry door swung shut. When I opened it again, Tobren and Kezra stood on the other side among seven shelves.
 
 Daskar caught my sleeve before I stepped through. “Stay.”
 
@@ -200,7 +186,7 @@ He was right. Tobren’s shoes stood half a stair below ours, though the thresho
 
 Kezra reached toward us. The air between our hands made the hairs on my wrist rise. Then the door snapped shut.
 
-I opened it. This time it showed the parlor, empty except for the washbasin and three copies of my grandmother’s tureen.
+I opened it. This time it showed the parlor, empty except for three copies of my grandmother’s tureen.
 
 From somewhere to my left, Tobren shouted my name. His voice came from the dining-room wall, the stairs, and the closed front door at slightly different times.
 
@@ -220,19 +206,15 @@ Each impact made the house add distance. A narrow cupboard unfolded between the 
 
 We stood among tilted boxes in a hall that now contained twenty-seven of my paces.
 
-Sael breathed through his nose, once, twice. His inventory book had fallen open in his hand. “You saw red under the door.”
+Sael breathed through his nose, once, twice. His inventory book had fallen open in his hand. “Eighteen paces to the kitchen when you chalked it.” He looked down the hall. “You ran six. It grew nine.”
 
-“Yes.”
+I didn’t answer.
 
-“You interpreted fire.”
-
-“Yes.”
-
-“There was no smoke.”
+“And no smoke under the door,” he said.
 
 I wanted to tell him I knew how fires began, that I had spent two years trying to get both of them to clear a route precisely because I knew. Instead I looked at the new cupboards and said, “My running made more rooms.”
 
-Daskar checked the ceiling, the floor, the lantern thread. “More bare movement coincided with faster expansion. Treat that as hazardous until disproved.”
+Daskar checked the ceiling, the floor, the lantern thread. “Walk. Nobody runs.”
 
 Tobren called again. Three copies of his voice answered from different distances.
 
@@ -244,9 +226,7 @@ Tobren called again. Three copies of his voice answered from different distances
 
 After a pause: “A blue tag moved from the third shelf to the fifth.”
 
-Kezra’s voice came faintly after his. “Correction: the shelves changed between observations. We didn’t see the tag move.”
-
-That was Kezra. Even misplaced inside an impossible pantry, she would not give a verb more certainty than it had earned.
+Kezra’s voice came faintly after his. “It was on the third shelf when we looked. It’s on the fifth now. Neither of us saw it go.”
 
 The floor tapped twice beneath me. Then twice again.
 
@@ -254,7 +234,7 @@ The floor tapped twice beneath me. Then twice again.
 
 Sael knelt without touching the boards. “The second interval is longer.”
 
-Daskar watched his lantern. “The green stone is still in the dining room. This is transmitted vibration, not a receipt from Tobren.”
+Daskar watched his lantern. “That’s the stone. Not Tobren. Keep your feet still.”
 
 I had already lifted my foot. I put it down in the same place.
 
@@ -284,27 +264,23 @@ Sael shut his eyes. When he opened them his voice was lower. “The drawer-pull 
 
 “There are three yellow tins here,” Tobren called.
 
-“They aren’t the original.”
+“Count your shelves,” Sael called back. “Ours has six.”
 
-“How do you know?”
+A pause. “Seven.”
 
-“Because the original pantry shares the kitchen’s lead pipe. These shelves occupy the yard.”
-
-Sael pointed past the new cupboards. At floor level, a water pipe ran toward the kitchen. The false rooms had copied shelves, tins, even old damp marks, but not the pipe. Above it, three square nail scars marked where my mother’s calendar had hung before the wall was repapered.
+Sael turned and pointed past the new cupboards. At shoulder height on the hall wall were three square nail scars, where my mother’s calendar had hung before the wall was repapered. The false rooms had copied shelves, tins, even old damp marks, but none of their walls carried those scars.
 
 The original house had left us a seam.
 
-Kezra spoke through the multiplying corners, her words arriving thin and out of order. “If the seed is the active element, the three responses may be feeding it a recurring collection pattern. Reduce active outputs below two. Put the seed in darkness and sound damping. Keep it off the floor.”
+Kezra spoke through the multiplying corners, her words arriving thin and out of order. “—off the floor. If it’s the seed doing this. The whistle, the red, the floor, all three answering it. Maybe that feeds it. Fewer than two going at once. Somewhere dark, and no sound getting in. Off the floor.”
 
-“May,” Tobren said.
-
-“May,” Kezra agreed. “It fits what we have. It is not a maker’s instruction.”
+“Maybe,” Tobren said.
 
 Daskar unhooked the suspended black jar from his chest. “Container meets those conditions. I need a straight lane to the pantry and no impacts.”
 
-The straight lane did not exist. Between us and the original kitchen stood two new cupboards, the fallen crate, the washbasin, a stack of chair backs, and enough spare stove iron to break every foot in the house.
+The straight lane did not exist. Between us and the original kitchen stood two new cupboards, the fallen crate, a stack of chair backs, enough spare stove iron to break every foot in the house, and the washbasin, which the floor’s shove had pitched back out of the parlor.
 
-I looked at my uncles through layers of wrong walls I could not see through. “I need permission to clear.”
+I looked at Sael, then at the stretch of wall Tobren’s voice had last come from. “I need permission to clear.”
 
 Tobren answered first. “Break the pine chair backs. Not the ash ones.”
 
@@ -316,7 +292,7 @@ Sael opened his book. “The curtain rings can go into the parlor. Stove iron st
 
 “Outside,” Tobren said.
 
-“There is no outside.”
+“There isn’t an outside, Uncle,” I said.
 
 “Then put it through the wrong pantry.”
 
@@ -326,11 +302,13 @@ Sael crossed out one line in his book. “Leave it. We pass on the right.”
 
 We worked without hurry because hurry had acquired square footage. Daskar carried weight low and waited for my confirmation before each step. Sael called distances: two paces, half left, shoulder clear. I snapped the pine chair backs across my knee and used them as runners under the stove rings. Each crack tightened Tobren’s voice somewhere beyond the wall, but he did not withdraw permission.
 
-At the dining-room threshold, Daskar retightened the wool around the whisper-vane. Sael pressed the opaque cover flat over the mothglass. I checked the green stone’s brace. No whistle. No red. No floor pulse.
+At the dining-room threshold I checked the green stone’s brace. It hadn’t shifted. From there Daskar could see back to the stair rail, where the whisper-vane was still buckled into its wool, and he listened for a long moment. Nothing whistled, and the floor stayed quiet under us.
 
 The cupboards stopped unfolding.
 
-We followed the lead pipe. The wall scars brought us to a door that looked like the pantry door except for one thing: a gouge at knee height, made when I had ridden a coal scuttle down the hall at nine and failed to turn.
+We kept to the wall with the calendar scars, and it brought us to the kitchen. The opaque case lay on its side by the spice jars where the floor’s shove had thrown it, and the oven cloth had slid half off. A corner of black glass showed, dark while the stove flame held steady. Sael put the cloth and the case back over it before anyone went further.
+
+Left of the sink stood two pantry doors, alike except for one thing: a gouge at knee height on the nearer one, made when I had ridden a coal scuttle down the hall at nine and failed to turn.
 
 “Original,” I said.
 
@@ -338,13 +316,9 @@ Inside, the yellow tin stood beside the flour scoop.
 
 Daskar set the metal frame over the threshold without letting it touch the boards. The jar hung in its center, lid open, black felt swallowing the lantern light. “I can hold the vessel. I can’t reach past that shelf without loading the floor.”
 
-Sael said, “Enna’s arm is shorter.”
+Sael looked at the sill, then at me. “She weighs half what you do with that frame on. The sill sits on two studs. I hung those shelves off them.”
 
-“Thank you, Uncle.”
-
-“It is.”
-
-I lay across the pantry sill with my weight on the wall studs. Daskar gripped my belt. The tin sat beyond a sack of salt and beneath two boxes of jar lids. Moving either box would change the enclosed space near the stone three rooms away.
+I lay across the pantry sill with my weight on the studs. Daskar gripped my belt. The tin sat beyond a sack of salt and beneath two boxes of jar lids. I couldn’t lift either box out without setting it down somewhere, and the only somewhere was the floor.
 
 “Tobren,” I called. “May I crush the lid boxes?”
 
@@ -352,29 +326,29 @@ His answer came from under the shelf, so close I flinched. “Use your forearm. 
 
 I flattened the cardboard slowly. The tin came within reach.
 
-It held three brass screws, a waxed cord, and a brown ridged thing no bigger than my thumbnail. It had no mouth, no face, no warmth. When I lifted it, the pantry shelves lengthened toward my hand.
+It held three brass screws, a waxed cord, and a brown ridged thing no bigger than my thumbnail. Its ridges ran lengthwise, fine as the grain of a fingernail, and it was colder than the tin. When I lifted it, the pantry shelves lengthened toward my hand.
 
 “Seed observed,” I said.
 
 “Transfer,” Daskar said.
 
-I did not throw it. I placed it into the suspended jar. Daskar closed the felt-lined lid, latched two clasps, then a third. Kezra counted the receipts from somewhere beyond the wall.
+I did not throw it. I placed it into the suspended jar. Daskar closed the felt-lined lid, latched two clasps, then a third. From somewhere beyond the wall, Kezra counted the clasps as they caught.
 
 One. Two. Three.
 
-The false pantry vanished without drama. Shelves thinned into the dining-room wallpaper. The stretched hall shortened so quickly that Daskar and I landed against the original kitchen door. A spill of copied jam jars became cold light and was gone before it reached the floor.
+The false pantry vanished without drama. The stretched hall shortened so quickly that I had to catch the kitchen doorframe, and when I looked up the hall, the dining-room door stood eighteen paces away, where it belonged. We walked back up the hall. Sael came last, counting under his breath.
 
-Tobren and Kezra stood behind the sewing cabinet, exactly where the yard wall should have been. Then they were in the dining room with us. Tobren’s hand remained raised around a jar that no longer existed.
+In the dining room, the last shelves were thinning into the wallpaper. Tobren and Kezra stood behind the sewing cabinet with their backs to it, and a spill of copied jam jars became cold light around their feet and was gone before it reached the floor. Tobren’s hand remained raised around a jar that no longer existed.
 
 He lowered it. “Those were not all ours.”
 
-“Observed,” Kezra said, breathing hard. “And I am not assigning ownership.”
+Kezra, breathing hard, looked at the wallpaper for a long moment. Then she took out her form and wrote that down too.
 
-Nobody laughed. We sat down wherever the house allowed.
+We sat down wherever the house allowed.
 
 The front door opened onto the wet street again.
 
-It took the agents until midnight to separate the four objects. The whisper-vane went into a sound case, the mothglass into a dark thermal sleeve, the green step-stone into a braced carrier, and the collector’s seed remained in Daskar’s suspended jar. Kezra read each description aloud and asked Tobren where he had acquired it. When he did not remember, she wrote that. When Sael had a date but no seller, she wrote those as different facts.
+It took the agents until midnight to separate the four objects. The whisper-vane went into a sound case, the mothglass into a dark thermal sleeve, the green stone into a braced carrier, and the seed stayed in Daskar’s suspended jar under a label that said only UNIDENTIFIED and the date. Kezra read each description aloud and asked Tobren where he had acquired it. When he did not remember, she wrote that. When Sael had a date but no seller, she wrote those as different facts.
 
 “Are you taking everything?” Tobren asked.
 
@@ -392,9 +366,9 @@ The next morning I returned with work gloves, labels, and no cart.
 
 My uncles had already moved the washbasin to the dining room. The side door was visible behind it, still blocked by six crates of drawer hardware.
 
-“One route,” Sael said. “Front to side. Nothing else today.”
+Sael had chalked a lane from the front door to the side door and drawn a line under it in his book. “That’s today,” he said.
 
-“One category,” Tobren said. “Drawer fittings. We test what’s usable before anything leaves.”
+Tobren sat on one of the hardware crates. “Drawer fittings. Nothing else. And nothing goes till I’ve tried it.”
 
 It was less than I wanted and more than they had agreed to yesterday.
 
