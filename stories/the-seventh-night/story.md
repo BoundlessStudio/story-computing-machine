@@ -82,7 +82,7 @@ It was hers: dark green-black leather, narrow in the wrist, worked with a gold l
 
 "My left boot was also lost."
 
-"No. I walked out in it. It didn't come off till the inn."
+"No. I walked out in it. It only went in the pack at the inn."
 
 "I had wondered why you limped."
 
@@ -244,7 +244,7 @@ She glanced beneath the table, where both her present boots sat properly paired.
 
 "I know. I still can't lace that foot tight."
 
-Galten's eyes went to the edge of her collar, where the armor did not quite cover a small purple crescent. Her hand got there a moment after his gaze did. "And the reset left you the bite."
+Galten's eyes went to the edge of her collar, where the armor did not quite cover a small purple crescent. Her hand got there a moment after his gaze did. "And the reset left you the bite," he said.
 
 "That mark came from falling masonry."
 
