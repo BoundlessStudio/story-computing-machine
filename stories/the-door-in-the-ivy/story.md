@@ -226,7 +226,7 @@ Clarimond had to breathe through her mouth. There it was, said aloud by the pers
 
 “I thought they were coming down the stairs,” Belda said. “I couldn't move. I didn't want to be there on my own.” She folded the handkerchief, missed the edge, and tried again. “I'd just told you to go. I knew you'd only get caught with me if you stayed. But I called anyway.”
 
-The woman beside Clarimond was younger than her aunt. Even now, she was younger. That afternoon she had been thirty-four. Clarimond had never reckoned it before; Belda had simply been grown, as tall and certain as the doors.
+The woman beside Clarimond was younger than her aunt. Even now, she was younger. The day Clarimond ran, she had been thirty-four. Clarimond had never reckoned it before; Belda had simply been grown, as tall and certain as the doors.
 
 “You were frightened.”
 
