@@ -80,7 +80,7 @@ Berrit looked at the disc he offered. One side bore a sun; the other had a deep 
 
 "It's gold."
 
-"It's brass. Here, you'd have to find someone who wants a meal at the barracks."
+"It's brass. In here, you'd have to find someone who wants a meal at the barracks."
 
 He rubbed the edge. It stayed golden.
 
@@ -202,7 +202,7 @@ Jemby looked from one end of the table to the other. Wings that size. He wanted 
 
 Jemby pulled the bowl closer. The northern road had no moth in it now, only a burning tent with himself inside, tangled in blankets while the others ran. He had not asked whether someone would wake him in the mornings. At home he sometimes slept through the first bell.
 
-Pemric followed his look toward the hearth.
+Jemby's eyes went to the sword by the hearth, and Pemric followed them.
 
 "You don't have to go with that company," he said. "Not tomorrow. Plenty of people come back from those expeditions. But you don't know how to travel with them yet, let alone fight."
 
