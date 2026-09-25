@@ -55,11 +55,11 @@ Evadne read the note. “She kept the extra blankets. There isn't room here.”
 
 “I didn't ask what she kept.”
 
-“No.” She smoothed the paper against her knee. “I pulled her out of a shop fire. She was seventeen. She said she'd help whenever I needed her.”
+She sat down at the table and smoothed the paper against her knee. “I pulled her out of a shop fire. She was seventeen. She said she'd help whenever I needed her.”
 
 “And did she?”
 
-“Usually before I asked. She'd hear someone crying on the stairs and come out in her slippers.” Evadne glanced at the blankets. “She used to give them her bed. I could never persuade her that the chair was bad for her back.”
+“Usually before I asked. She'd hear someone crying on the stairs and come out in her slippers.” Evadne glanced at the blankets. “She'd give them her bed and sit up all night in that armchair of hers. I could never persuade her it was bad for her back.”
 
 I had argued about that chair myself. Its stuffing was coming through the seat, and my grandmother had refused to let me buy another.
 
@@ -71,19 +71,27 @@ Evadne had not changed.
 
 I held my grandmother's photograph beside the notebook. “She got old doing this for you.”
 
-Evadne took her hand off the page.
+Evadne's hands went still on the photographs.
 
 “Is that how it works?” I asked. “You stay like this, and she—”
 
-“No. I haven't taken anyone's years.” She reached for the photograph, then left it in my hand. “The promises keep me young. They also keep me here.”
+“No. I haven't taken anyone's years.” She reached for the photograph, then left it in my hand. “It's the promises. They keep me as I am.”
 
-She had been twenty-six when the first flood came. Twelve people were trapped upstairs; she had held the stair for them, and afterward they had promised her anything she wanted.
+“Since when?”
 
-“I'd only asked for blankets,” she said. “I should have left it at that.”
+She turned over the flood picture and put her finger on the date. She had been twenty-six when that flood came. Twelve people were trapped upstairs; she had held the stair for them, and afterward they had promised her anything she wanted.
 
-A promise given to her after she'd worked magic could stay open until she released it, she told me. Keeping that first one had stopped her aging. Then she'd tried to leave Mirehaven and found she couldn't get past the boundary. Every promise since had made it worse.
+“I asked for blankets, and they brought them,” she said. “I never told them we were done.”
 
-I ran my finger past the old entries to the names of children and grandchildren. “You put them in here too. That boy thought he owed you a key.”
+“That's all? You just didn't say so?”
+
+“After what I'd done on that stair, it was enough. A promise made to me like that stays open until I release it.”
+
+“So why are you still here?”
+
+“I tried to leave, the first spring. While they're open, I can't get past the boundary post on the upper road.”
+
+I looked down at the notebook. Every entry in it was one more she would have to let go before the boundary let her through. I ran my finger past the old entries to the names of children and grandchildren. “You put them in here too. That boy thought he owed you a key.”
 
 “So I know whose door to knock on. I haven't bound them, Leonie. They weren't there to make the promises.” Evadne looked toward the door. “I've told his mother there's no curse for refusing me. If she keeps the key, I find another way into the yard.”
 
@@ -101,23 +109,23 @@ I waited. She moved her hand, leaving the page open, and bent to pull on her boo
 
 “My grandmother didn't need to be frightened into helping you.”
 
-“No. She didn't.”
+Evadne stood and stamped her heel down into the boot. She didn't argue.
 
 Outside, a loudhailer crackled. We heard only the repeated words *lower road* through the rain. Evadne went to the window, and I joined her.
 
-The drainage channel ran below the east yard, separating Rookglass House from the lower houses. A short stone footbridge crossed it, broad enough for three people abreast. On our side, the yard rose from the bridge to the upper road; the house stood beside that slope, well above the channel. I had taken that shortcut to school, dragging my bag along the gate's iron bars until someone shouted from a window.
+A stream ran below the east yard, separating Rookglass House from the lower houses. A short stone footbridge crossed it, broad enough for three people abreast. On our side, the yard rose from the bridge to the upper road; the house stood beside that slope, well above the stream. I had taken that shortcut to school, dragging my bag along the gate's iron bars until someone shouted from a window.
 
-Now a man in a bright coat was knocking on the lower doors. The channel carried branches and brown foam toward the river. Evadne watched a woman emerge with a cat basket and a shopping bag.
+Now a man in a bright coat was knocking on the lower doors. The stream carried branches and brown foam toward the river. Evadne watched a woman emerge with a cat basket and a shopping bag.
 
 “They're bringing them up,” she said. “I'd better go.”
 
 I retrieved my grandmother's note from the table. “I'm trying to pack up her things, and she's still giving me errands.”
 
-“You owe me nothing, Leonie. Not because of her. Not because you live next door.” Evadne picked up a lantern. “You can sell the apartment.”
+“You owe me nothing, Leonie.” Evadne picked up a lantern. “You can sell the apartment.”
 
 “I know I can.”
 
-She nodded, accepting the sharpness. I folded the note and put it in my pocket.
+She nodded. I folded the note and put it in my pocket.
 
 “I'll bring the blankets down. Then I've got things to finish.”
 
@@ -125,9 +133,11 @@ She nodded, accepting the sharpness. I folded the note and put it in my pocket.
 
 I fetched the blankets. The old man from the hardware family met us at the foot of the stairs. The long iron key hung from his fist.
 
-“My daughter said yes,” he told Evadne. “The boy's gone up to hers. I told him to stop hunting in drawers.”
+“My daughter says you can have it,” he told Evadne. “The boy's gone home to her. He had every drawer in the house out looking for a key to bring you.”
 
-He opened the yard gate and hooked it back. A retired carpenter from number four carried out a chair for anyone who needed to stop on the slope. The first evacuees were already crossing the bridge. A woman leaned into a pram with its rain cover pulled tight; two bakers carried a box between them and quarrelled over which end should go first through the gate. The man in the bright coat followed them over and began directing people up the yard.
+“Tell him he doesn't owe me anything,” Evadne said.
+
+He nodded and opened the yard gate, then hooked it back. A retired carpenter from number four carried out a chair for anyone who needed to stop on the slope. The first evacuees were already crossing the bridge. A woman leaned into a pram with its rain cover pulled tight; two bakers carried a box between them and quarrelled over which end should go first through the gate. The man in the bright coat followed them over and began directing people up the yard.
 
 Evadne asked a woman hurrying along the upper road whether she could stay to help people into the house.
 
@@ -141,13 +151,13 @@ The woman stayed a moment. “What about what Gran said? After the fire?”
 
 The woman pulled her collar up and ran. Evadne took the blankets from me and laid them over the chair's back. I could have gone upstairs then. Instead I held the lantern while she separated two blankets that clung together with an old safety pin.
 
-Across the channel, an elderly woman stood outside the last open door, refusing to put her hood up. The electrician was with her. He offered an arm; she took it, then turned back for something. He bent into the doorway and came out holding her walking stick.
+Across the stream, an elderly woman stood outside the last open door, refusing to put her hood up. The electrician was with her. He offered an arm; she took it, then turned back for something. He bent into the doorway and came out holding her walking stick.
 
 They started across. Evadne went down to meet them, and I followed with the light. We stood on the firm gravel at the near end of the bridge. The woman was telling the electrician that her stick had belonged to her sister when I heard roots tearing upstream.
 
 A tree leaned out of the far bank. Its crown caught the rushing water, and the root plate lifted, black earth pouring from it. The trunk swung broadside into the bridge.
 
-The blow threw spray over us. Stone cracked. The far end of the parapet broke away, taking part of the roadway with it, and the elderly woman fell to her knees. The electrician caught her coat and went down beside her. Beneath them the remaining span sagged toward the channel.
+The blow threw spray over us. Stone cracked. The far end of the parapet broke away, taking part of the roadway with it, and the elderly woman fell to her knees. The electrician caught her coat and went down beside her. Beneath them the remaining span sagged toward the stream.
 
 Evadne dropped beside the near abutment, both knees on our bank, and pressed her palms against the stone. Light rose under the skin of her wrists and branched through the joints. The sagging stopped. Water thundered through the new gap at the far end, carrying away the woman's stick.
 
@@ -165,7 +175,7 @@ Evadne's shoulders shook. I crouched beside her. “Can you lift it back?”
 
 “No. Only hold it.” She swallowed. “I have to keep my hands here.”
 
-The elderly woman was staring at the gap behind her. I set the lantern back on the gravel and stepped onto the stone. I wanted to ask how long Evadne had. Her fingers were already whitening against the wall. I went the three paces and knelt in front of the woman.
+The elderly woman was staring at the gap behind her. I set the lantern back on the gravel and stepped onto the stone. I wanted to ask how long Evadne had. Her fingers were already whitening against the abutment. I went the three paces and knelt in front of the woman.
 
 “Where does it hurt?”
 
@@ -197,7 +207,7 @@ One pace. The electrician's heel caught on a raised joint. He swore and stopped,
 
 “Yes.” I couldn't make my voice louder. “We're coming.”
 
-The carpenter reached from the gravel and took the woman's forearm, then let go when she cried out. “Sorry. Sorry.” He caught the back of her coat instead. I felt firm ground under one foot and stumbled onto it with the other. Together we drew her away from the bridge. The electrician followed, his arm tight round her waist.
+The carpenter reached from the gravel and took the woman's forearm, then let go when she cried out. “Sorry. Sorry.” He caught the back of her coat instead. I felt firm ground under one foot and stumbled onto it with the other. Together we drew her away from the bridge. The electrician kept pace beside her, his arm tight round her waist.
 
 I looked back. Evadne was bowed over her hands, unable to see past her own shoulder.
 
@@ -207,11 +217,11 @@ I counted us because I could not bear to be wrong: the woman against me, the ele
 
 “All off. We're on the bank.”
 
-Evadne lifted her palms. The remaining arch folded into the channel, stone striking stone beneath the roar. She toppled backward onto the gravel. The hardware man caught her before her head hit it.
+Evadne lifted her palms. The remaining arch folded into the stream, stone striking stone beneath the roar. She toppled backward onto the gravel. The hardware man caught her before her head hit it.
 
 The carpenter and I got the woman to the chair. Her breath came in quick little cries. She would not release my hair until I told her I needed to stand up; then she apologized, which almost undid me. The electrician crouched beside her and asked if he could look at her knee.
 
-When I turned back, the two bakers were helping Evadne up the slope. One had taken off his coat and put it around her. Her boots dragged. She tried to thank them, but her teeth struck together too hard for the words. We carried her upstairs in one of the blankets she had stacked by her door.
+When I turned back, the two bakers were helping Evadne up the slope. One had taken off his coat and put it around her. Her boots dragged. She tried to thank them, but her teeth struck together too hard for the words. We carried her upstairs in one of my grandmother's blankets.
 
 For the rest of the night, the lower houses stood in water. Vans came along the upper road, and people left Rookglass House wrapped in blankets, carrying wet bags. Someone took the elderly woman to have her knee examined. Before she went, she made me look in her coat pocket for a little purse and check that it was fastened. I did it twice because she asked twice.
 
@@ -223,9 +233,9 @@ At dawn she sat on the landing with the black notebook. I was washing mud from m
 
 I dried my hands. “She didn't tell me that.”
 
-“No. I don't suppose she did.”
+“I don't suppose she did.”
 
-Evadne spoke my grandmother's name and released her promise. Then she found the entries for the families that had helped, and the promise made by the grandmother of the woman who had gone home to her husband. She released that one too.
+Evadne spoke my grandmother's name and released her promise. I folded the towel in half, and then in half again. After that she found the entries for the families that had helped, and the promise made by the grandmother of the woman who had gone home to her husband. She released that one too.
 
 She closed the notebook with a finger between the pages. Downstairs, someone called a sleepy goodbye. Evadne turned toward the stairs and listened until the front door shut. Then she drew her finger out and rested both hands on the cover.
 
@@ -247,7 +257,7 @@ She read the name above the promise. Then she stopped, her lips still parted.
 
 She sat for a while before putting a line through it. Then she turned back to the beginning of the book.
 
-It took her some time. She worked through every remaining entry, speaking once for each promise-maker, including those whose families had moved away or never answered her at all. The paper did nothing but take the pencil marks. Evadne’s living voice did the work.
+It took her some time. She worked through every remaining entry, speaking once for each promise-maker, including those whose families had moved away or never answered her at all.
 
 When she finished, she asked me to walk with her.
 
@@ -255,7 +265,7 @@ We took the upper road to the edge of Mirehaven. The rain had thinned to mist. A
 
 “What happens if it still holds you?” I asked.
 
-“I bruise my shoulder on the air. I have done it often enough.”
+“I bruise my shoulder on the air.”
 
 She stepped past the post.
 
@@ -263,7 +273,7 @@ Nothing stopped her.
 
 Evadne walked several paces down the wet road, then farther, until a laugh escaped her. When she turned, one silver hair lay against the black at her temple. She touched it with an astonished hand.
 
-I still meant to sell number five. The boxes could wait another day. I was cold, and my grandmother’s blue tea tin was still above the stove.
+I still meant to sell number five. The boxes could wait another day. I was cold, and my grandmother’s tea tin was still above the stove.
 
 “I’m making tea,” I said. “Come back with me if you want some.”
 
