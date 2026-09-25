@@ -386,4 +386,4 @@ I stayed in my seat.
 
 "I'm the one who married them."
 
-The god drew his feet back as the doors began to close. "Oh, now you must tell us."
+The god stretched his legs out again as the doors began to close. "Oh, now you must tell us."
