@@ -168,7 +168,7 @@ She shuts her eyes for half a breath, and nothing on your meters can say why.
 
 "So it wasn't me letting go," she says.
 
-Metta shakes her head. "That shows the dropout can happen with your hand out of it. I haven't seen anything yet that says the caster is safe once it's all back together."
+Metta holds up a hand. "That shows the dropout can happen with your hand out of it. I haven't seen anything yet that says the caster is safe once it's all back together."
 
 "Then show her the rest," Serren says to you. "The clock's still going."
 
