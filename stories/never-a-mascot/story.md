@@ -46,19 +46,19 @@ By supper, he had joined them in the story.
 
 For seven years the rooster appeared at wars that were not quite the one being told about him.
 
-He came to the armorer after the river campaign with a shoulder hinge crushed inward. The king's host had won its ford that day, so the men said their little bird had brought the current down. Yet the grit beneath his plates was white road chalk, not river sand, and the arrowhead caught in the hinge had the long, dark barb used by the army they had driven east a month before. He paid with a stirrup buckle and left before the victory horns.
+He came to the armorer after the river campaign with a shoulder hinge crushed inward. The king's host had won its ford that day, so the men said their little bird had brought the current down. Yet the grit beneath his plates was white road chalk gone grey with soot, not river sand, and the arrowhead caught in the hinge had the long, dark barb used by the army they had driven east a month before. He paid with a stirrup buckle and left before the victory horns.
 
-He came again during the winter siege. This time three lengths of cage wire had wound around his leg guard. Every strand was cut cleanly in two places. Black pitch glazed his breastplate and smelled of pine instead of the marsh tar used by the king's sappers. The armorer soaked it off, eased the swelling beneath, and showed him the padded strap before she buckled it. He inspected it with one bright eye. At dusk he vanished through a drain beneath the eastern wall.
+He came again during the winter siege. This time three lengths of cage wire had wound around his leg guard. Every strand was cut cleanly in two places. Black pitch glazed his breastplate and smelled of pine instead of the marsh tar used by the king's sappers. The armorer soaked it off, eased the swelling beneath, and showed him the padded strap before she buckled it. He inspected it with one bright eye. At dusk he vanished through a gap under the eastern palisade.
 
 By then there were songs without verses and stories without witnesses. Recruits watched for red feathers before an assault. Drivers swore the rooster could take the first direct light of dawn into his body once, if he chose, and stand higher than a siege tower for nine minutes. Afterward, they said, he was cold enough to frost grass in summer. No two tellers agreed on where they had seen it. The armorer did not believe them, though the folded plates under his ordinary plates began to trouble her.
 
-Belief was less useful than upkeep. She kept narrow rivets in a separate box. She learned how far he would permit her to lift a wing and which touch made him draw away. He learned that she would stop. That was trust, and because it was real, she mistook the story wrapped around it for real too.
+Belief was less useful than upkeep. She kept narrow rivets in a separate box. She learned how far he would permit her to lift a wing and which touch made him draw away. He learned that she would stop.
 
 The third time, he arrived while she was teaching new hands to sort damaged mail. One shaft through his back plates bore the king's grey-and-blue fletching. Another, lodged along his breast, bore the enemy's black. Neither had reached flesh. The recruits crowded close, delighted by proof that their mascot had fought in the middle of everything.
 
 “Back up,” she told them. “He can't see my hands with your knees in the way.”
 
-She removed both shafts. Beneath them she found ash, more pine pitch, and the fine red dust of the east road. She could have followed the evidence then. Instead she burnished the plates and sent the recruits to supper with a story about how many arrows their luck could carry.
+She removed both shafts. Beneath them she found ash, more pine pitch, and the fine red dust of the east road. She burnished the plates and sent the recruits to supper with a story about how many arrows their luck could carry.
 
 The rooster did not stay to hear it.
 
@@ -68,7 +68,7 @@ Seven years after first call, the king's host narrowed to three soldiers beside 
 
 Seven minutes remained before sunrise. Smoke from the ruined camp pressed low over the marsh, turning the causeway ahead into a grey strip that appeared and vanished. Behind them, the royal standard burned in a ditch. Ahead, somewhere past the smoke, harness bells kept ringing and then stopping.
 
-The armorer was a sergeant now. Her last officer had died with one hand hooked in her apron and one order left in his mouth: fire the prepared road before dawn. The enemy's wagons were not to cross the causeway. Neither were the enemy's wounded, scavengers, camp children, stolen animals, or anyone else the smoke might be hiding. The officer had made it sound simple because he did not have enough breath for exceptions.
+The armorer was a sergeant now. Her last officer had died with one hand hooked in her apron and one order left in his mouth: fire the prepared road before dawn. The enemy's fire wagons, belled like carters' teams, had burned the camp at midnight, and not one of them was to cross the causeway. Nor were the enemy's wounded, scavengers, camp children, stolen animals, or anyone else the smoke might be hiding. The officer had made it sound simple because he did not have enough breath for exceptions.
 
 The scout lay on the bank with his cheek to the wet grass. “Movement. East lip.”
 
@@ -78,19 +78,19 @@ The scout lay on the bank with his cheek to the wet grass. “Movement. East lip
 
 The field surgeon sat against the milestone, binding his own thigh above a deep cut. He drew each breath through his nose before speaking. “If it's the fire wagons, four is enough.”
 
-“Can you cross?” the sergeant asked.
+“Can you make the ridge?” the sergeant asked.
 
 “With a shoulder, perhaps sixty paces. Not quickly. If the bleeding starts again, put me down before I put you down.”
 
-The pitch line ran from the roadside jars into reeds beneath the causeway. A slowcord waited in its clay gutter. Once lit, it would give them six minutes to get west of the low ridge. The sergeant had a coal nested in her tinder horn and the striker in her fist.
+The pitch line ran from the roadside jars into reeds beneath the causeway. A slowcord waited in its clay gutter. Once lit, it would give them six minutes to get behind the low ridge, two hundred paces back along the road. The sergeant had a coal nested in her tinder horn and the striker in her fist.
 
 The scout wiped his streaming eyes. “Now five shapes. Or the smoke moved.”
 
 “Pick one.”
 
-“Smoke moved.” He listened. “Harness again. No marching feet.”
+“Smoke moved.” He listened. “Bells again. North of them, I think. No marching feet.”
 
-The surgeon pulled the bandage tighter and went pale around the mouth. “By the time you're certain, the cord won't give us six minutes.”
+The surgeon pulled the bandage tighter and went pale around the mouth. “The cord takes six. Sunrise is under seven. If you wait until you're certain, the road burns after dawn.”
 
 There was no commander left to ask. There were no reinforcements behind the ridge, only the dead and the westward trail of those who had run before the line broke. The sergeant had spent the night making the last order ready because readiness was a thing her hands could still provide. The jars were uncapped. The reeds were soaked. The cord had been measured twice.
 
@@ -114,7 +114,7 @@ He left the road, passed through the wet reeds, and returned to it on her other 
 
 The sergeant struck spark to tinder. The coal caught. She touched it to the slowcord, and a red point began to creep along the gutter.
 
-“Three uprights,” the scout said. “Certain now. One pushing the wheels.”
+“Three uprights,” the scout said. “Certain now. It's a handcart. They're pushing it themselves, no horse.”
 
 The rooster entered the smoke.
 
@@ -124,9 +124,11 @@ The red point moved past the first notch cut into the clay. Five minutes.
 
 The scout did not answer. He had lowered his head to the roadbed. The surgeon watched the slowcord.
 
-From within the smoke came a wooden crack, then a horse's scream. Harness bells scattered into a wild, receding jangle. A fire rose where no fire had been, orange through the grey.
+From the smoke north of the causeway's far end came a wooden crack, then a horse's scream. Harness bells scattered into a wild, receding jangle. A fire rose where no fire had been, orange through the grey.
 
-The surgeon said, “That cart was loaded.”
+“That was the belled one,” the surgeon said. “Loaded.”
+
+The scout had not lifted his ear from the roadbed. “Handcart's still coming.”
 
 The red point reached the second notch.
 
@@ -134,13 +136,11 @@ The sergeant slid her knife beneath the cord and cut away the burning length. Sh
 
 No one asked whether that was a new order.
 
-Beyond the causeway, men shouted in the enemy's hard field cadence. A second voice answered from farther north, where the king's retreating sappers had abandoned two more pitch wagons. Fire came from both sides of the road now. One wagon rolled backward without horses, its flames tilting as it gathered speed. It struck something with a crash that shook the reeds.
+Beyond the causeway, men shouted in the enemy's hard field cadence. An answer came from farther up the north track in the king's own drill calls. The retreating sappers had left two tar wagons up there, and someone had put a torch to them rather than leave them to the enemy; black tar smoke rolled up beside the orange of the burning pitch. The belled wagon, its horse gone, came on down the track by itself, flames tilting as it gathered speed. It slewed onto the causeway's far end and struck the posts with a crash that shook the reeds.
 
-“That was the east rail,” the scout said. “Causeway's blocked.”
+“That's across the east lip,” the scout said. “Causeway's blocked.”
 
-The sergeant stared into the smoke where the rooster had gone. On her workbench across seven years: white road chalk, black pitch, royal feathers, enemy barbs, cage wire cut twice. Damage from every banner, always carried out of a fire that threatened the same road.
-
-The stories had put him beside their victories because that was where they had happened to see him afterward.
+The sergeant looked first along her own line. The soaked reeds lay under the near end, below her feet; the tar fire was taking the dry stands at the far end, with open water between. She stared into the smoke where the rooster had gone. On her workbench across seven years: white road chalk, black pitch, grey-and-blue fletching, enemy barbs, cage wire cut twice. Damage from both banners, soot or pitch nearly every time, and the dust of roads rather than battlefields.
 
 “Light,” the scout said.
 
@@ -148,7 +148,7 @@ The horizon had opened beneath the smoke. A blade of direct sun lay across the f
 
 For a moment there was only a small rooster in it.
 
-He stood beside the burning wreck with his injured foot lifted. Light ran red along his neck and flashed in the battered hinges she had repaired. It touched him fully. He did not change. Beyond him, dim figures struggled with the handcart, trapped between the wreck and the fire advancing through the reeds.
+He stood beside the burning wreck with his injured foot lifted. Light ran red along his neck and flashed in the battered hinges she had repaired. It touched him fully. He did not change. Beyond him, dim figures struggled with the handcart, trapped between the wreck and the tar fire coming down through the reeds.
 
 Then he set his foot down.
 
@@ -162,23 +162,21 @@ The rooster drove one armored shoulder against the burning wagon.
 
 The first push failed. A black-fletched arrow struck between the plates on his back. He lurched, caught himself with one wing, and shoved again. Iron screamed along stone. The wagon shifted half its width.
 
-The figures behind it became people: an old man at one handle of the cart, two younger adults at the other, a child beneath a wet blanket, and a woman dragging a mule whose pack bore scraps of royal blue on one side and enemy black on the other. Loot, laundry, surrender rags—the sergeant could not tell. The rooster did not look for a uniform.
+The figures behind it became people: an old man at one handle of the handcart, two younger adults at the other, a child beneath a wet blanket, and a woman dragging a mule whose pack bore scraps of royal blue on one side and enemy black on the other. Loot, laundry, surrender rags—the sergeant could not tell.
 
 More arrows crossed the light. One glanced off a shoulder plate. Two sank into the flesh below his raised wing. They did not grow with him. They remained ordinary arrows, absurdly small against his body and no less harmful. Blood darkened the feathers beneath them.
 
 “Six minutes,” the scout said.
 
-The rooster hooked his beak under the wagon's flaming drawbeam. He pulled backward, step by deliberate step, until one wheel dropped from the causeway into the reeds. Fire crawled up his loosened wing guard. He beat it against the stones, once, twice, keeping his weight on the beam. No magic closed the wounds. No flame turned aside for him.
+The rooster hooked his beak under the wagon's flaming drawbeam. He pulled backward, step by deliberate step, until one wheel dropped from the causeway into the reeds. Fire crawled up his loosened wing guard. He beat it against the stones, once, twice, keeping his weight on the beam. No magic closed the wounds.
 
 The handcart squeezed through. The old man fell, rose, and pushed again. The mule balked at the rooster's legs; the woman covered its eyes with her sleeve and led it under the shadow of his breast. Last came two limping figures the scout had counted as one. They crossed without thanking anyone. They were still running when the rooster released the beam.
 
-He did not turn toward the charred royal standard. He did not come to the sergeant. He shoved the wagon one final foot, enough to spill its burning load harmlessly into black water, and only then backed down the causeway.
-
-He sagged against the drawbeam. The shoulder hinge she had mended after the river held; the newer strap beside it had burned through.
+He did not turn toward the charred royal standard. He shoved the wagon one final foot, enough to spill its burning load harmlessly into black water, and sagged against the drawbeam. The shoulder hinge she had mended after the river held; the newer strap beside it had burned through. Only then did he back away down the causeway.
 
 “Four minutes,” said the scout. “He's coming.”
 
-The enormous rooster limped toward them with dawn at his back and three arrows standing from his blood-wet feathers. Each step brought the road's tremor through the sergeant's boots. At the near end he folded his legs and lowered himself, not gracefully, beside the milestone. Heat rolled off him. His breath came with a low rough click.
+The enormous rooster limped toward them with dawn at his back and three arrows standing from his blood-wet feathers. The stories had put him beside the king's victories because that was where the king's men had happened to see him afterward. Each step brought the road's tremor through the sergeant's boots. At the near end he folded his legs and lowered himself, not gracefully, beside the milestone. Heat rolled off him. His breath came with a low rough click.
 
 The sergeant took one step closer. He drew his wing tight over the arrows.
 
@@ -194,7 +192,7 @@ The sergeant climbed between the unfolded back plates. The workmanship made sens
 
 “Hold it straight,” the surgeon said. “Not up. Straight.”
 
-She pulled. The rooster struck the stone once with his beak but did not close the wing. Blood followed the arrow. The surgeon pressed folded linen to the wound.
+She pulled. The rooster struck the stone once with his beak but did not close the wing. Blood followed the arrow. The surgeon tossed up a pad of folded linen, and she pressed it to the wound.
 
 At the second shaft, the sergeant reached too soon. The wing snapped shut, knocking her back a pace.
 
@@ -212,7 +210,7 @@ This one had lodged against a rib. She could feel its angle through the pliers.
 
 “He already is. A finger.”
 
-The sergeant turned and drew. The arrow came free. The rooster's foot gouged four trenches in the road, but his wing remained open until the surgeon packed the wound.
+The sergeant turned and drew. The arrow came free. The rooster's foot gouged four trenches in the road, but his wing remained open until she had packed the wound the way the surgeon told her.
 
 The third shaft sat shallow in muscle. The surgeon showed it to him. The rooster pulled away.
 
@@ -236,7 +234,7 @@ After a moment, the rooster extended his wing.
 
 They used the unburned slowcord to lash two spear shafts into a litter. The sergeant gave the rooster water in the cup of her palm, then set her wool lining beside him. He stepped onto it only after she moved her hand away.
 
-The scout studied the fork beyond the marsh. “East branch drops more gently.”
+The scout studied the fork beyond the marsh. “The shouting's gone north with the smoke. Both lots. East branch drops more gently.”
 
 “Water?” the sergeant asked.
 
