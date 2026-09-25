@@ -64,7 +64,7 @@ Luz knelt beside him. “There’s a quarter-turn handle behind the bend.”
 
 “No plumbing.”
 
-The words came too fast. Her gaze moved from his face to the protocol sheet on the counter.
+The words came too fast. Her gaze moved from his face to the protocol sheet taped above the counter.
 
 “You actually wrote that in?” she asked.
 
@@ -72,7 +72,7 @@ After a fan had kicked on during a routine two months earlier, Miles had added t
 
 “Water moves harder at your size,” he said. “Cold hits you faster. Pipes have edges, gaps—”
 
-“I know. So say it to me.” Her voice had gone tight. “When did you even write that?”
+“I know. So say that to me. Don’t just write it in.” Her voice had gone tight. “When did you even write that?”
 
 “It’s one line.”
 
@@ -310,7 +310,7 @@ Miles opened his mouth, and she pointed at him.
 
 “It was a short speech.”
 
-“Then write it down.” She pushed the pen across the table to him, and kept one for herself. “On the new one.”
+“Then write it down.” She pushed a pen across the table to him, and kept one for herself. “On the new one.”
 
 They wrote the next page together. Symptoms got said out loud before a cycle. Decisions about Luz’s body were Luz’s. Either of them could decline their own part in a plan. Until the shutoff had an extension they could work from outside the cabinet, radios that could survive a soaking, and a dry route they had both checked, Luz chose no shrinking around live plumbing.
 
