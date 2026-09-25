@@ -56,13 +56,13 @@ The nearest plate reached the goat. It passed over hide and meat without pausing
 
 They ran across the slope. Pelka caught Yavren's pack strap and yanked her away from the usual descent.
 
-"West horn," she said. "Slate riders."
+"West horn," she said. "Weir riders."
 
 They had reached a rib of bare rock when one of the small plates sprang. Yavren knocked it aside with her bow, but its inner hooks caught her bracer. Cold bit through leather.
 
 The mountain vanished.
 
-Her wrists lay in bronze hollows. Smoke stung her eyes. Three men stood below a scaffold: one in slate-blue, one with ash painted across his mouth, one wearing gold disks sewn down his sleeves. None yet wore a crown. They wanted the living mail taken through the valley and put on soldiers. She had refused them once at the eyries and once before their gathered companies.
+Her wrists lay in bronze hollows. Smoke stung her eyes. Three men stood below a scaffold: one in water-blue, one with ash painted across his mouth, one wearing gold disks sewn down his sleeves. None yet wore a crown. They wanted the living mail taken through the valley and put on soldiers. She had refused them once at the eyries and once before their gathered companies.
 
 The man in blue lifted a hand.
 
@@ -94,7 +94,7 @@ They climbed as the first arrows arrived.
 
 One struck sparks from the talonmail. The colony changed direction at once. Plates reared toward the bowman below, filaments tightening between them. The next arrowhead hit the mass and came out wood-bare. Black scales surged down the shaft.
 
-The slate officer on the track swore and ordered every bow lowered.
+The weir officer on the track swore and ordered every bow lowered.
 
 "Clear the two houses under the shelf," he called. "Everyone out, and count them. You, huntress—stand away from it. If it follows you, take it north."
 
@@ -124,7 +124,7 @@ Pelka followed her stare. "The wet cut," she said. "Say the thing you can see."
 
 They descended three body lengths, swung beneath the road men's net, and landed hard in the cut. Pelka's boot slipped. Yavren caught her forearm before her knee struck stone.
 
-Above, the road captain shouted for the gap to close. The slate officer shouted back that iron would draw the creature across the shelf. The ash rider sent two hunters after Pelka instead.
+Above, the road captain shouted for the gap to close. The weir officer shouted back that iron would draw the creature across the shelf. The ash rider sent two hunters after Pelka instead.
 
 The talonmail reached the first raised spear.
 
@@ -176,7 +176,7 @@ Yavren followed the line with a hunter's eye. The eagle was not pointing at the 
 
 "The fin has a goat crawl on the far side." Pelka tied off the bandage with her teeth. "We found droppings there last autumn. You said we'd check it when the snow went."
 
-Behind them, men shouted as the three detachments fought over the last safe approach. The slate force had begun cutting harness from pack animals before driving them downslope. The road men were replacing iron weights with stones. Ash hunters moved quietly along the upper timber, not toward Yavren now but toward the shepherds evacuating below.
+Behind them, men shouted as the three detachments fought over the last safe approach. The weir force had begun cutting harness from pack animals before driving them downslope. The road men were replacing iron weights with stones. Ash hunters moved quietly along the upper timber, not toward Yavren now but toward the shepherds evacuating below.
 
 "Can you climb?" Yavren asked.
 
@@ -288,7 +288,7 @@ Yavren climbed out wearing the mountain.
 
 The road men's nets tightened around her and broke. She walked through three spear thrusts; iron crumbled against her ribs while the wooden shafts drove her half a step backward. She caught her balance, raised her hand, and the colony spread between the soldiers and their officers. The ash rider drew a sword. Black plates closed over him. When they parted, he did not rise.
 
-The slate officer dropped his weapon and ordered his men to follow him off the ridge. Yavren let them go. The road captain ran after them without his nets.
+The weir officer dropped his weapon and ordered his men to follow him off the ridge. Yavren let them go. The road captain ran after them without his nets.
 
 Before descending, she turned the rest of the colony into the mountain's opened seams. Broad plates braced the loosened eyries while the living braid withdrew through the deep roots. For the first time since afternoon, the ground held still. On the nest ledge, the wild eagle settled over its young.
 
@@ -296,7 +296,7 @@ By morning Yavren was on the western road. Behind her, a feathered shadow crosse
 
 It kept pace with her for eight days.
 
-The slate officer met them on the road on the third day, his men behind him. At the first keep, Pelka brought him to the gate. He asked his king to dismiss the warrant and open the lower yard to those fleeing the walls. The king ordered his own archers to shoot him. Yavren caught the officer under one arm as talonmail surged through the arrowheads and into the gate hinges. She carried him clear; then she entered alone. The king died trying to drive an iron lance through her throat.
+The weir officer met them on the road on the third day, his men behind him. At the first keep, Pelka brought him to the gate. He asked his king to dismiss the warrant and open the lower yard to those fleeing the walls. The king ordered his own archers to shoot him. Yavren caught the officer under one arm as talonmail surged through the arrowheads and into the gate hinges. She carried him clear; then she entered alone. The king died trying to drive an iron lance through her throat.
 
 The road king offered the armor its weight in silver. When Yavren kept walking, he retreated behind a portcullis and dropped it on her. She stood beneath its grinding teeth until the colony had eaten a gap above her shoulders. His guards fled through it after she passed. She killed him in his counting room. By dusk his crown lay in her pack beside the first.
 
@@ -312,7 +312,7 @@ Pelka left the lamp where it was, and Yavren watched the tent floor until mornin
 
 The ash king waited in the chapel where his grandfather's grandfather had knelt after the Queen's execution. The old scaffold had stood outside its doors. Yavren recognized the lintel as she climbed over the gate she had broken.
 
-Behind her, Pelka and the slate officer were bringing the last servants out through the kitchens. Ahead, the king's remaining guards stood on a low timber gallery above the royal tombs. Their spears had stone heads. The chapel doors were bound with bronze, and the king wore no iron at all.
+Behind her, Pelka and the weir officer were bringing the last servants out through the kitchens. Ahead, the king's remaining guards stood on a low timber gallery above the royal tombs. Their spears had stone heads. The chapel doors were bound with bronze, and the king wore no iron at all.
 
 "You can have the other crowns," he called. "Leave me this one and I'll recognize your claim."
 
@@ -356,7 +356,7 @@ They crowned her before sunset beside the broken gallery.
 
 The third king's circlet was too wide. Pelka folded a strip of cloth inside it, hands shaking with fatigue, and fitted it above Yavren's brow. Beyond the open doors stood soldiers from all three armies. Their surviving captains had surrendered their seals and gates. The two captured crowns lay at her feet.
 
-When the slate officer knelt and called her Queen of the Valley, Yavren accepted. She made him rise, then ordered the century-old warrants brought into the square and burned. No king remained to renew them.
+When the weir officer knelt and called her Queen of the Valley, Yavren accepted. She made him rise, then ordered the century-old warrants brought into the square and burned. No king remained to renew them.
 
 From the chapel step she could see the breach in the outer wall, smashed carts, people searching the road for someone who had not come back. There would be days enough to count what she had broken.
 
