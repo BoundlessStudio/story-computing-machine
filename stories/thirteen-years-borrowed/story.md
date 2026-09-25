@@ -82,7 +82,7 @@ He was right. That was one of the humiliations of borrowing: I did not inherit s
 
 “Only when somebody is trying to march my legs out the door.”
 
-The boy behind the counter looked up, found nobody beside him, and went back to his trays.
+The boy behind the counter looked up, found nobody beside Calo, and went back to his trays.
 
 *I didn’t march.*
 
