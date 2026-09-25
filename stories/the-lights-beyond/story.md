@@ -60,7 +60,7 @@ The second bird passed over the water. It settled, throwing two long fans of spr
 
 She had seen a pale shape at a window. A face, perhaps. She wanted it to come back so she could be certain.
 
-He took out their map. The northern sheet showed an army's encampments, wells, and a river that their descent had proved misplaced. Beyond the last ridge someone had drawn three waves for the sea. The city would not fit between them.
+He took out their map. The northern sheet showed an army's encampments, signal hills, and a river that their descent had proved misplaced. Beyond the last ridge someone had drawn three waves for the sea. The city would not fit between them.
 
 Haskett watched a light move across the harbor bridge. Many lights. They flowed in opposite directions without colliding, halted together, moved again. Farther inland, a square went dark, then bright with a green brilliance that stained the low cloud. She could make out no fire there at all.
 
@@ -88,7 +88,7 @@ Light poured through shop glass onto their muddy knees. In one window, six small
 
 At a crossing, a bell rang overhead. The crowd waited. Dunley waited too, watching a little red figure on a pole, and when it turned white everyone moved. On the far side he looked back at her with an expression she knew from difficult fords: pleased to have understood the footing.
 
-Then something wonderful was wasted on a dog. A shopkeeper set a little caged wheel in his doorway and pressed a white disk on its base. The blades blurred, lifting the dog's ears in a draft. It got up and lay in the rainwater gutter instead. Dunley laughed aloud. The shopkeeper glanced at him, followed his gaze, and gave the animal a weary little shove with his shoe.
+Then something wonderful was wasted on a dog. A shopkeeper set a little caged wheel in his doorway and pressed a white disk on its base. The blades blurred, lifting the dog's ears in a draft. It got up and lay down on the far side of the step instead. Dunley laughed aloud. The shopkeeper glanced at him, followed his gaze, and gave the animal a weary little shove with his shoe.
 
 They reached the water by following the sound of another landing.
 
@@ -98,7 +98,7 @@ A man climbed out at the front and caught a rope tossed from shore. Two passenge
 
 Dunley went all the way to the dock's gate.
 
-There was a board there with a painted view of the harbor. A little winged hull followed an arrow around an island and back to the same pier. Below it, two seats had been set beneath an awning, beside the moored aircraft. Haskett had seen carriage owners arrange seats like that outside an inn. Waiting customers could occupy them while the carriage was away.
+There was a board there with a painted view of the harbor. A little winged hull followed an arrow around an island and back to the same pier. Below it, two seats had been set beneath an awning, beside the moored craft. Haskett had seen carriage owners arrange seats like that outside an inn. Waiting customers could occupy them while the carriage was away.
 
 The pilot approached, saying something and holding up two fingers. He wore an oil-marked jacket. A silver cap covered the end of one tusk.
 
@@ -118,7 +118,7 @@ They gave their names. He made Haskett repeat hers, trying the middle sound twic
 
 Pirvek pointed south, over the black ridges. Haskett nodded. She drew the Wall in the dust with a finger: towers, gate, two tiny figures coming through. He crouched to look. His fingertip stopped beside the figures; then he looked up at the two of them, and for a while nobody tried to explain anything more.
 
-Finally Dunley pointed at the aircraft.
+Finally Dunley pointed at the bird.
 
 Pirvek stood, glanced at the waiting couple, and said something that made the young woman laugh again. He opened the gate. With a pointed look at their weapons on the ground, he beckoned them only as far as the awning.
 
@@ -126,7 +126,7 @@ Up close, the bird had scratches. A plate near its tail had been replaced with d
 
 “He thinks I'm going to break it,” Dunley said.
 
-“You nearly broke your map.”
+“You tore the map on a buckle.”
 
 Pirvek opened a side hatch. There were two seats abreast behind his own, with belts across the cushions. He showed how a buckle closed, pulled hard on the strap, and opened it again. When Dunley reached for the buckle himself, Pirvek let him try. Dunley got it wrong. The pilot waited while he worked it out.
 
@@ -136,7 +136,7 @@ Haskett produced a crown from the four she carried for traveling expenses. The s
 
 “Two,” she said. She put a second crown beside the first.
 
-He nodded and left both on the board's narrow ledge. Then he pointed at the bows and knives, unlocked a long cupboard beneath the awning, and opened it for her inspection. Empty except for rope. He held up its key.
+He nodded and left both there. Then he pointed at the bows and knives, unlocked a long cupboard beneath the awning, and opened it for her inspection. Empty except for rope. He held up its key.
 
 Dunley was already looking back toward the hatch.
 
@@ -160,9 +160,9 @@ Dunley looked at Pirvek, who had begun checking the rope that held the craft to 
 
 “I'm waiting for you to decide if you want to come.”
 
-She heard the difference. So he would go by himself. Pirvek might refuse a single passenger; she caught herself hoping he would.
+Pirvek might refuse a single passenger; she caught herself hoping he would.
 
-A larger aircraft rumbled above the harbor mouth. Dunley followed it until it disappeared behind a warehouse. Haskett had seen him watch distant roads like that, but always with a destination in common.
+A larger bird rumbled above the harbor mouth. Dunley followed it until it disappeared behind a warehouse. Haskett had seen him watch distant roads like that, but always with a destination in common.
 
 “You're still coming home,” she said.
 
@@ -172,7 +172,7 @@ A larger aircraft rumbled above the harbor mouth. Dunley followed it until it di
 
 He looked down at the two crowns on the ledge. “Don't give the innkeeper a deposit.”
 
-There it was, in a form that she could do nothing with except hear it.
+She looked at the coins too.
 
 “You chose that place,” she said.
 
@@ -182,15 +182,15 @@ There it was, in a form that she could do nothing with except hear it.
 
 “I wanted it.”
 
-“This morning you wanted it.”
+“Yesterday you were naming it.”
 
-“This morning I hadn't seen any of this.”
+Dunley scratched at the dried mud on his knee and said nothing.
 
-Pirvek came back and held up the belts again. Haskett shook her head, not at him, and he shut the hatch. Dunley started forward. The pilot pointed toward the coins, leaving them where they were, and stood back with folded arms.
+Pirvek came back and held up the belts again. Haskett shook her head, not at him, and he shut the hatch. Dunley started forward. The pilot left the coins on the ledge, folded his arms, and waited.
 
 “You don't know whether they'd let you live here,” Haskett said quietly. “You can't ask for a bed.”
 
-“I don't know if I want to live here. I want to find out how that thing works. I want to see where the big ones go.” He rubbed his forehead. “I can't spend my three hundred yet.”
+“I don't know if I want to live here. I just want to see where the big ones go.” He rubbed his forehead. “I can't spend my three hundred yet.”
 
 She looked past him to the city. The green light they had seen from above was a great glass sign on a roof, going through its colors even though scarcely anyone on the street looked up. It could be doing anything. Advertising fish. Giving orders. Announcing the hour. She had crossed two mountains to stand beneath it and remained unable to tell.
 
@@ -200,11 +200,11 @@ She looked past him to the city. The green light they had seen from above was a 
 
 She could have borne another joke more easily.
 
-Pirvek took one coin from the ledge and held it out. He pointed at Haskett, then the shore; at Dunley, then the aircraft. Even he had understood that much.
+Pirvek took one coin from the ledge and held it out. He pointed at Haskett, then the shore; at Dunley, then the hull.
 
 Haskett left the coin in his hand. She walked back to fetch her weapons.
 
-Dunley made no attempt to follow. That hurt too, although she could hardly have wanted him to chase her across the paving. She picked up both bows, gathered the belts, and returned to the cupboard.
+Dunley made no attempt to follow. That hurt too, although she could hardly have wanted him to chase her across the paving. She picked up both bows, gathered the knife belts, and returned to the cupboard.
 
 When she had put everything inside, she held out her hand for the key.
 
@@ -238,9 +238,9 @@ Pirvek turned, saw her at the window, and grinned around his tusks. Then he face
 
 Roskell tilted. Streets stood almost upright beyond the wing, their intersections bright as open furnaces; there was the bridge, and the green sign, and a rectangle of grass where figures ran beneath tall white lamps after something too small to see. At the edge of that dazzling field, a row of houses had dark gardens. Somebody there had gone to bed while this was possible above them.
 
-She tried to find the dog. The notion was so absurd that she began to laugh, and found she had been crying a little, without noticing when she started.
+She tried to find the dog. The notion was so absurd that she began to laugh, and had to wipe her face on her sleeve.
 
-Dunley touched her arm. He pointed through his own window at a second aircraft passing farther out to sea. Its lit windows floated level with them. Haskett could see people, certainly people this time, seated inside. One raised an arm. She waved back with her whole hand, although the stranger might have been reaching for a bag.
+Dunley touched her arm. He pointed through his own window at a second flying boat passing farther out to sea. Its lit windows floated level with them. Haskett could see people, certainly people this time, seated inside. One raised an arm. She waved back with her whole hand, although the stranger might have been reaching for a bag.
 
 The turn brought the city straight ahead. Pirvek eased the lever and lowered their nose. Haskett wanted him to wait. They had paid two crowns; she would have given him the other two for another circuit, if only he could have heard her.
 
@@ -258,7 +258,7 @@ They reached the Wall on the fifth morning. In the barracks, before either had w
 
 “I'm keeping mine here for now,” he said.
 
-She set his bag back inside. “Keep your own key.”
+She set his bag back inside, then worked the second key off the cord around her neck and put it in his hand. “Then you hold that one.”
 
 The captain sent for them while she was still undoing the twine around her boot. He had unrolled a fresh map across his table and left a large blank space above the Wall.
 
