@@ -40,7 +40,7 @@ The sluice warden stands in the doorway with rain stippling the shoulders of her
 
 The assay-master does not look up. "Entirely, so far."
 
-The wall had seemed ordinary too, until several dozen slimes spread themselves over its wet mica render. They had gone opaque along one branch, glass-clear along another, and cold blue at the fork, and you had stood in the gallery watching them.
+The wall had seemed ordinary too, until several dozen drain slimes spread themselves over its wet mica render. They had gone opaque along one branch, glass-clear along another, and cold blue at the fork, and you had stood in the gallery watching them.
 
 Then the masonry split on the same fork. The crack was wide enough to take the corner of your gauge card, and it ran from the old side spill toward the gallery floor. By the time you pulled the alarm cord, water had already begun to bead through it.
 
@@ -62,7 +62,7 @@ The little slime presses its mouth against a crease in your palm, finding no foo
 
 "I saw it first," you say.
 
-"You did." The warden steps inside. "The salt scour goes into the drain before crest. If it chokes, the lower houses flood. Salt kills everything on that wall, and whatever you saw goes with it. Give me a test that changes that choice."
+"You did." The warden steps inside. "The salt scour goes into the drain before crest. If the drain chokes, the lower houses flood. Salt kills everything on that wall, and whatever you saw goes with it. Give me a test that changes that choice."
 
 The assay-master lifts the lamp. "How long do I have?"
 
