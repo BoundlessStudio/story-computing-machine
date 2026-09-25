@@ -12,9 +12,9 @@ Olyne had the kitchen latch spread across a towel when every loose spoon in the 
 
 Anvek stopped turning the stripped screw. Her head tilted, not toward the window but toward something farther away. The pulse was too low for Olyne to hear. She felt it afterward in her molars, a pressure that had crossed the district and gone on searching.
 
-“Ranging burst,” Anvek said. “Military pattern. It flagged the sealed library.”
+“Ranging burst,” Anvek said. Two of her fingers had gone to the access plate beneath her collarbone. “Military pattern. It flagged the sealed library.”
 
-“Flagged isn’t opened.”
+“Is it open? Anvek, is it open?”
 
 “No.”
 
@@ -38,7 +38,9 @@ Anvek set the shelf down. “The shelter is two terraces below us.”
 
 “I haven’t opened it.”
 
-There was no argument in the words, and no invitation to one. Anvek put on the canvas work jacket she wore for dirty repairs. The left cuff still carried blue paint from a peaceful week spent repainting balcony rails. Olyne followed her into the corridor because the only other choice was to waste time insisting she had authority she did not possess.
+Anvek put on the canvas work jacket she wore for dirty repairs. The right cuff still carried blue paint from a peaceful week spent repainting balcony rails. Olyne followed her into the corridor because the only other choice was to waste time insisting she had authority she did not possess.
+
+The independent technicians had done the real work at Anvek’s request: severed the receiver through which a remote officer could once have forced her body, recalibrated senses tuned past endurance, restored voluntary task selection without wiping memory or temper or preference, and sealed the combat library behind that plate instead of cutting it out. Olyne had sat outside their workshop with bad tea and three forms she was not authorized to sign. Later she had taught Anvek which buses lied about their schedules, how much apology a landlord deserved, and why the market saved bruised pears for the end of day.
 
 They collected eight people before Gess Miro came down from the roof room with two more and a fistful of master keys. Her gray hair was full of dust. She kept the keys in her left hand, the one that closed properly, and announced, “Eleven. I had eleven and I have eleven.”
 
@@ -46,7 +48,7 @@ They collected eight people before Gess Miro came down from the roof room with t
 
 “I’m eleven.”
 
-It did. Olyne checked faces anyway: the baker breathing through his sleeve, the couple from five in outdoor shoes and nightclothes, four from the divided flat, the washerwoman, the quiet man from beside the cistern, the neighbor Gess had rousted from a ground-floor room after the first impact, and Gess herself. Eleven.
+Olyne checked faces anyway: the baker breathing through his sleeve, the couple from five in outdoor shoes and nightclothes, four from the divided flat, the washerwoman, the quiet man from the corner flat, the neighbor Gess had rousted from a ground-floor room after the first impact, and Gess herself. Eleven.
 
 The emergency stair door stood open. Beyond it, concrete dust sifted through darkness.
 
@@ -62,7 +64,7 @@ Anvek crouched at the threshold and pressed two fingers to the first tread. She 
 
 Gess peered into the dark as if long service to the building might make the missing landing reconsider. Another explosion rolled over the roofs. This time smoke breathed up the stairwell.
 
-Olyne turned the group toward the roof. “Produce cradle.”
+Olyne turned the group toward the roof. “The produce cradle. Up, everybody. Somebody take the baker’s arm.”
 
 “Brake needs someone above,” Gess said.
 
@@ -74,9 +76,9 @@ Anvek had gone still again, measuring a sound none of them could isolate. “Fir
 
 “Unknown.”
 
-On the roof, the wind pressed smoke flat between the buildings. The produce cradle hung where it had all summer, a steel basket used for squash, soil, broken chairs, and once an unauthorized bathtub. Its cable ran over a roof pulley to a counterweight track. No power was required, but the hand brake had to be held open from above while the basket descended two terraces. On the shelter terrace below, three amber lamps marked the receiving rail. Three blue lamps beside them marked the narrow moment when the cradle could move.
+On the roof, the wind pressed smoke flat between the buildings. The produce cradle hung where it had all summer, a steel basket used for squash, soil, broken chairs, and once an unauthorized bathtub. Its cable ran over a roof pulley to a counterweight track. No power was required, but the hand brake had to be held open from above while the basket descended two terraces. On the shelter terrace below, a lamp above the receiving rail showed amber for hold and blue for move. It showed amber.
 
-Only one blue lamp was lit.
+The service ladder went down the east face to the same terrace, bolted landing to landing. Nobody looked at it for long. It hung in full view of the street with nothing overhead, a careful climber needed four or five minutes to reach the bottom, and the baker’s knee would never manage the rungs.
 
 Gess unlocked the brake housing. Her weak right hand slid off the lever. “It was serviced in spring.”
 
@@ -84,23 +86,23 @@ Gess unlocked the brake housing. Her weak right hand slid off the lever. “It w
 
 “Everything was serviced in spring.”
 
-Olyne opened the roof radio cabinet. The set inside gave her a wash of static until she struck its casing, then a man’s voice surfaced in pieces.
+Olyne unlocked the roof radio cabinet with the brass key. The set inside gave her a wash of static until she struck its casing, then a man’s voice surfaced in pieces.
 
 “Upper block, identify.”
 
 “Olyne Orret, roof, east face. Eleven to move. Stair’s gone.”
 
-“I have your lower terrace in sight,” Naro Tule said. “Only the lower terrace. I cannot see you or your cradle head. Shelter rail is staffed.”
+“Orret. Hold on.” Someone behind him was shouting a street name, and he answered it away from the set before he came back. “Naro Tule, shelter. I’ve got your lower terrace from here and nothing above it, so I can’t see your roof. Rail’s staffed.”
 
-“Why is there one blue?”
+“It’s amber. How long is it amber?”
 
-“Because I can clear one lane. Protocol is amber, hold; blue, move. Don’t infer anything else from the lamps.”
+“Till I’ve got hands free. You’re sharing that rail with two other blocks. Wait for blue.”
 
 A dark triangle skimmed between two chimneys, visible for half a second before the smoke swallowed it.
 
-“Drone,” Olyne said.
+“Drone,” Olyne said. “There’s a drone over us.”
 
-“I can’t confirm what’s above your roof,” Naro said. “I can tell you the marking pattern we’ve seen. Three short flashes, pause, one long. Follow-up fire has landed between ten and twenty seconds later. If you see the pattern, get everyone below the parapet. I cannot promise interception or pickup.”
+“Then listen. We’ve seen them mark before they fire. Three short flashes, pause, one long. The fire’s come ten to twenty seconds after. You see that, you get everyone below the parapet. Don’t wait for me to tell you.”
 
 The radio sagged into static again. Its internal battery indicator showed a final red bar. Their sole portable pack waited beneath the set.
 
@@ -108,7 +110,7 @@ Anvek looked at the cradle, the parapets, the smoke, the slice of street visible
 
 “No. We can lower them when the light turns blue.”
 
-“The lamp controls the terrace lane. It doesn’t see the drone.”
+“The lamp says the rail is clear. It doesn’t see the drone.”
 
 “And opening that thing could burn out your joints.”
 
@@ -118,13 +120,11 @@ The eleven neighbors had drawn close enough to listen. Olyne heard herself reach
 
 Anvek’s gaze moved to her, steady and unreadable in the smoky light. “You helped me get an appeal. You gave me a room.”
 
-The independent technicians had done the other work at Anvek’s request: severed the receiver through which a remote officer could once have forced her body, recalibrated senses tuned past endurance, restored voluntary task selection without wiping memory or temper or preference. Olyne had sat outside their workshop with bad tea and three forms she was not authorized to sign. Later she had taught Anvek which buses lied about their schedules, how much apology a landlord deserved, and why the market saved bruised pears for the end of day. Useful things. Not the source of the woman standing before her.
+Olyne had hold of Anvek’s sleeve. She did not remember taking it. “Three weeks I sat outside that workshop,” she said. “Three weeks, Anvek.”
 
-“I know,” Olyne said.
+Anvek let the hand stay where it was. “Who can’t hold on? What breaks under weight?”
 
-“Then give me what the library doesn’t have.”
-
-It was a better request than Olyne deserved. She looked at the neighbors, forcing care into particulars. “Gess can’t hold with her right hand. The baker’s left knee won’t bend past halfway. The man beside the cistern is heavier than he looks. The couple from five panic if they can’t see each other, but they can ride separately. The empty awning will collapse under a full load. Nobody is on it.”
+The drone’s engine came and went behind the chimneys. Olyne let go of the sleeve and looked at the neighbors. “Gess can’t grip with her right hand, whatever she tells you. The baker’s left knee won’t bend past halfway. The man from the corner flat is heavier than he looks. The couple from five panic if they can’t see each other, but they’ll ride separately if you let them watch the rail. That empty awning over there would come down under a full load. I’ve written to the owner about it for two winters. Nobody’s on it.”
 
 Anvek nodded once. “I need each rider to accept the harness and the descent. Olyne, ask them. Don’t answer for them.”
 
@@ -134,9 +134,9 @@ The baker said yes, but not to a strap across his knee. The fifth-floor woman sa
 
 Anvek laid a palm over the access plate beneath her collarbone. “Local objective: evacuate eleven consenting residents from this roof to the lower shelter terrace, while preventing visible direct attack on the cradle. Eight cumulative minutes of fused tracking. Six visible or audible threats within one hundred fifty metres. Three-second motion projection. Ninety cumulative seconds of high torque.”
 
-“And the limits,” Olyne said, because she needed to hear Anvek speak them.
+“And the limits,” Olyne said.
 
-“No sight through cover. No identification without a visible or audible source. No network access, machine control, invented data, or sensor repair. Heat will reduce fine movement and slow speech. Torque can permanently damage my actuators.”
+“No sight through cover. No identification without a visible or audible source. Heat will reduce fine movement and slow speech. Torque can permanently damage my actuators.”
 
 “Can you stop once you start?”
 
@@ -144,9 +144,11 @@ Anvek laid a palm over the access plate beneath her collarbone. “Local objecti
 
 Nothing dramatic happened. Her eyes did not change color. She drew one breath, looked across the roof again, and became terribly economical about where she spent attention.
 
-“Blue lane ends in twelve seconds,” she said. “First rider.”
+The terrace lamp turned blue.
 
-Gess took the amber hand lamp and stationed herself by the parapet. The fifth-floor husband climbed into the cradle, tested the harness twice, and looked back at his wife.
+“Window of twelve seconds,” she said. “First rider.”
+
+Gess took the hand lamp from the radio cabinet, thumbed it to amber, and stationed herself by the parapet. The fifth-floor husband climbed into the cradle, tested the harness twice, and looked back at his wife.
 
 “You’ll see me all the way,” he said.
 
@@ -156,27 +158,23 @@ Gess took the amber hand lamp and stationed herself by the parapet. The fifth-fl
 
 “Move,” Anvek said. “Visible drone crossing west to east. Projected occlusion behind the chimney in three seconds.”
 
-Olyne released the latch while Anvek worked the brake. The cradle dropped through the gap between roofs, fast enough to make the cable sing. Gess showed amber when smoke covered the lower lamps, then blue when the receiving crew waved clear. The husband arrived below. The empty cradle returned on the counterweight.
+Olyne released the latch while Anvek worked the brake. The cradle dropped through the gap between roofs, fast enough to make the cable sing. Gess showed amber when smoke covered the terrace lamp, then blue when the receiving crew waved clear. The husband arrived below. The empty cradle returned on the counterweight.
 
 “One down,” Gess said. “Ten here.”
 
-Before the next descent, Olyne clipped the portable pack to the fifth-floor woman’s harness. She gave her the brass radio key too, though there was nothing below it would unlock.
+Before the next descent, Olyne clipped the portable pack to the fifth-floor woman’s harness. The roof set was down to its last red bar, and the shelter would need power to keep talking to anyone.
 
 They found a rhythm that belonged to no drill. Ask. Clip. Amber. Wait. Blue. Move. Anvek opened the library for fragments of each descent and closed it while the cradle climbed empty. Olyne prepared the next rider, altered straps, kept the couple from crowding the rail, and stopped saying hurry when hurry conveyed nothing useful.
 
-On the third descent, Naro’s voice crackled from the radio. “Your portable pack came down with the second rider. Do you authorize us to use it for the shelter repeater?”
+On the third descent, Naro’s voice crackled from the radio. “Got your pack off the second rider. It’s on the repeater now, so we’ll be talking a while yet. Good thinking, Orret.”
 
-Olyne looked at the dead devices around them, then at the people still waiting. “Use it.”
-
-“Confirmed. I still see only the receiving terrace and the southern approach. Two blue cycles before smoke closes my sightline.”
-
-He did not promise a third.
+Olyne said thank you to a set that had already gone back to someone else’s block.
 
 The drone appeared again, low enough now that Olyne saw its blunt belly and twin rotors. Three white flashes blinked under it.
 
 “Hold!” she shouted.
 
-Gess slammed the amber lamp against the parapet. The cradle, carrying the washerwoman, hung one storey down.
+Gess slapped her lamp to amber on the parapet. The cradle, carrying the washerwoman, hung one storey down.
 
 “Marking incomplete,” Anvek said. Her words came after a fractional delay. Heat had begun to flush the seams at her neck. “Long flash not observed. Drone turned north. Keep holding.”
 
@@ -184,39 +182,41 @@ Ten seconds passed. Fifteen. Fire struck the far end of the street and threw a f
 
 “Not ours,” Gess said.
 
-“Not ours yet,” Olyne answered.
+Olyne found she was still saying hold under her breath, to nobody.
 
-“Blue available,” Anvek said. “Rider, do you consent to continue?”
+“Blue available,” Anvek said.
+
+Olyne leaned over the parapet. “Still all right down there? Can you go on?”
 
 From below, faint but distinct, the washerwoman called, “Yes. And mind my bag.”
 
 They lowered her the rest of the way.
 
-Seven down. Four on the roof.
+“Seven down,” Gess said. “Four here.”
 
-Smoke climbed over the north parapet and erased half the district. Anvek shut one eye against grit, opened it, and did not pretend the view had cleared. “North sector unavailable. I can track an engine there by sound, not its platform or intent. Library remaining: three minutes, fourteen seconds. Torque unused.”
+Smoke climbed over the north parapet and erased half the district. Anvek shut one eye against grit and opened it again. “North sector unavailable. One engine there, by sound only. Library remaining: three minutes, fourteen seconds. Torque unused.”
 
-Gess repeated, “Seven down. Four here.”
+Gess said it again. “Seven down. Four here.”
 
-The quiet man from beside the cistern rode eighth. The last resident from the divided flat went ninth after one more separate yes. That left the baker leaning on the brake housing, plus Olyne, Gess, and Anvek.
+The quiet man from the corner flat rode eighth. The last resident from the divided flat went ninth after one more separate yes. That left the baker leaning on the brake housing, plus Olyne, Gess, and Anvek.
 
 “You next,” Olyne told Gess.
 
 “Headcount goes with the building.”
 
-“Your grip doesn’t.”
+“Gess. Please. Your hand’s no good on that brake and you know it. Get in the basket.”
 
-Gess looked at her right hand. “Nine down. Two residents here.” She gave Olyne the keys, climbed into the cradle beside the baker, and frowned when Anvek shook her head.
+Gess looked at her right hand. “Nine down. Two residents here.” She gave Olyne the keys, climbed into the cradle, beckoned the baker in after her, and frowned when Anvek shook her head.
 
 “One rider. Cable wear has advanced.”
 
 “He needs help at the bottom.”
 
-“Naro’s crew can receive him. Do you consent to wait for the next descent?”
+“Naro’s crew receives him. Out. Next descent.”
 
-Gess swore, climbed out, and held up the amber lamp. The baker lowered himself into the basket with his bad leg straight. Anvek checked his strap without touching the knee.
+Gess swore, climbed out, and held up her lamp at amber. Olyne started to say that Gess had been next, that Gess had finally agreed, and stopped, because the baker was already lowering himself into the basket with his bad leg straight. Anvek checked his strap without touching the knee.
 
-The blue lamps came on.
+The terrace lamp turned blue.
 
 Above the cradle, one bright strand peeled from the cable.
 
@@ -226,7 +226,7 @@ Anvek caught the lever.
 
 Metal rang inside her shoulder. Her boots slid a handspan across the roof before high torque stopped them. The cable screamed over the pulley. Below, the baker cried out once.
 
-“Hold!” Olyne seized Anvek around the waist.
+“I’ve got you. I’ve got you.” Olyne seized Anvek around the waist.
 
 “Don’t pull.” Anvek’s voice had gone slow, each word waiting for the machinery of her mouth. “You change the load.”
 
@@ -236,9 +236,9 @@ The drone came out of the smoke directly across the roof. Three short flashes st
 
 Anvek’s right hand remained locked around the brake. With her left she reached for the maintenance line-driver beside the housing, the tool they used to shoot cable through blocked conduits. Olyne dragged it within reach.
 
-“Visible rotor,” Anvek said. “Eleven metres. Olyne, clear the tool.”
+“Visible rotor,” Anvek said. “Eleven metres. Olyne, pull the pin.”
 
-Olyne pulled the safety pin and flattened herself against the housing.
+Olyne got the safety pin out on the second try and flattened herself against the housing.
 
 The drone began its long flash.
 
@@ -248,7 +248,7 @@ The line-driver split its casing with the force of the shot. The steel slug caug
 
 Anvek’s shoulder made a grinding sound. The brake lever descended another notch.
 
-“Blue,” Naro said through the radio. “Receiving rail clear. I see the cradle. I do not see your brake.”
+“Blue,” Naro said through the radio. “Rail’s clear, Orret. Bring him down, we’ve got hands.”
 
 “Lowering,” Anvek said. “Twenty-two seconds torque used.”
 
@@ -256,19 +256,19 @@ Olyne worked the damaged lever under Anvek’s hand, taking the ordinary weight 
 
 “Ten down,” Naro said over the radio.
 
-Gess gripped the amber lamp. “Ten. One resident here.”
+Gess gripped her lamp. “Ten. One resident here.”
 
-The battery-room fire broke through the rooftop vent. Heat rolled across the tar.
+The battery-room fire broke through the rooftop vent. Heat rolled across the tar, and the roof door began to knock in its frame as something pushed at it from the stairwell.
 
 Anvek looked at Gess. “You take the service ladder.”
 
 Gess glanced from her unsteady right hand to the ladder well. “Headcount goes with the building.”
 
-“It goes to the shelter,” Olyne said. She fastened the ladder harness around Gess and waited until Gess had tested the clip with her left hand. “Do you agree to the ladder?”
+“Gess, please. Arms up.” Olyne had the harness out of the ladder box before Gess could answer. She got it around Gess’s waist, fumbled the buckle, got it, and waited while Gess tested the clip with her left hand. Then she stopped with both hands still on the strap. “Will you go down?”
 
 “Yes. Clip it higher.”
 
-Naro climbed to the third landing, no farther than he could see, and called the placement of each foot. Gess descended with the amber lamp tied to her belt. When Naro caught her good wrist, she twisted around to count the people behind him.
+Naro climbed to the third landing and called the placement of each foot. Gess descended with her hand lamp tied to her belt. When Naro caught her good wrist, she twisted around to count the people behind him.
 
 “Eleven,” she said through the radio. “I have eleven.”
 
@@ -280,43 +280,37 @@ Olyne turned to Anvek. “Your turn. Take the ladder.”
 
 “Yes.”
 
-“Then you go. I’ll drop the counterweight.”
+“Then go. I’ll drop the counterweight across the door so it holds till we’re down. It’s a release, Anvek. I can kick a release.”
 
-Anvek looked at the roof access, the burning vent, the broken line-driver, and Olyne. Even with the delay in her speech, the answer came plain. “I don’t want you choosing the dangerous place for me.”
+Anvek looked at the knocking door, the burning vent, the broken line-driver, and Olyne. “The release is bent under the track. It needs torque. I have some left.”
 
-Olyne nearly said she had earned that choice. Years of housing hearings, repair queues, neighbors taught not to touch Anvek’s access plates, a hundred small acts that felt enormous while she performed them—she nearly piled all of it between them. Then the roof bucked again, and the keys bit into her palm.
+Olyne nearly said she had earned a say in it. Years of housing hearings, repair queues, neighbors taught not to touch Anvek’s access plates, a hundred small acts that felt enormous while she performed them—she nearly piled all of it between them. Then the roof bucked again, and the keys bit into her palm.
 
-“What do you need?”
+“Gess got down, so the ladder’s sound to the terrace,” she said. “Naro can reach the third landing if your shoulder slips. I don’t need anyone to hold me on the rungs.”
 
-“Specifics.”
+“You go first,” Anvek said. “I’ll put out a distress burst beside the empty awning, drop the weight, then follow.”
 
-“Service ladder is intact to the lower terrace. Gess can catch you at the third landing if your shoulder slips. I can climb without help. The counterweight can drop across the roof door after we leave.”
+“A burst. They’ll find you by it.”
 
-Anvek considered it. “You go first. Separately. I’ll use a distress burst beside the empty awning, close the library, drop the weight, then follow.”
+“Maybe. It could pull a search pass off the ladder.” Her mouth caught up with the next word slowly. “Go.”
 
-“The burst can’t call the shelter.”
+Olyne dragged the second harness out of the ladder box, buckled it wrong, buckled it again, and clipped to the roof line.
 
-“It’s fixed. It may draw a search pass away from the ladder. It may do nothing.”
+She crossed to the service ladder. Below, Gess held up her hand lamp, showing blue. Naro stood at the lower rail beside her.
 
-Olyne put on the ladder harness and clipped to the roof line. “Do it once.”
+“Ladder’s clear,” he called. “How are your anchors?”
 
-“That is my plan.”
-
-Anvek touched the access plate. “Library closed.”
-
-Olyne crossed to the service ladder. Below, Gess held the blue lamp in her good hand. Naro stood at the lower rail beside her, looking up only as far as he could actually see.
-
-“Ladder clear from my position,” he called. “I cannot assess the roof anchors.”
-
-“Anchors are holding,” Olyne said. At last, a fact instead of a promise.
+“Holding,” Olyne said.
 
 She climbed down alone.
 
-From the third landing she saw Anvek move to the edge nearest the fallen awning. A fixed distress sequence pulsed from beneath Anvek’s collarbone: two red, two white, repeated. Somewhere beyond the smoke, an engine changed pitch. Anvek did not claim to know why. She returned to the hoist, kicked the counterweight release, and used eight more seconds of high torque to wrench it sideways.
+From the third landing she saw Anvek move to the edge nearest the fallen awning. A fixed distress sequence pulsed from beneath Anvek’s collarbone: two red, two white, repeated. Somewhere beyond the smoke, an engine changed pitch. Anvek returned to the hoist, kicked at the counterweight release, then set her good shoulder against the weight and wrenched it sideways.
 
 The weight crashed across the roof door just as it opened under pressure from below. Flame folded around it. Anvek reached the ladder with her damaged arm held close and began her own descent.
 
-By the time she reached Olyne, their kitchen window was burning. The blue-painted rail above it sagged into the room. Olyne watched only until Anvek said, “Keep moving.”
+By the time she reached Olyne, their kitchen window was burning. The blue-painted rail above it sagged into the room. Olyne was still watching it when Anvek spoke from the rungs above her.
+
+“Thirty seconds of torque used. Library closed.” A pause, longer than a breath. “Keep moving.”
 
 They went down separately, one landing apart, while the home they had kept by appeal, rent, repair, and habit disappeared behind smoke.
 
@@ -330,7 +324,7 @@ In the shelter, Gess counted them before she let anyone sit.
 
 The baker’s knee was swollen but not broken. The washerwoman had cut one palm on the cradle mesh. Two residents coughed hard enough to need oxygen. No one had been struck by the follow-up fire.
 
-Naro knelt beside Anvek but kept his hands back. “I can run coolant over the shoulder housing. I can’t replace that actuator here. I can’t tell whether the scoring is permanent until it’s cold.”
+Naro knelt beside Anvek but kept his hands back. A child’s shoe he had not yet matched to an owner stuck out of his coat pocket. “Coolant I can do. The actuator’s beyond anything we’ve got down here. Shoulder first, yes?”
 
 Anvek’s right fingers remained curled against her palm. Heat trembled above the seam of her jacket. “Treat the residents with smoke exposure first.”
 
@@ -358,4 +352,4 @@ Anvek looked toward the shelter entrance, where the eleven neighbors sat in blan
 
 “Cut only the seam,” she said.
 
-Olyne slid the blunt emergency shears beneath the blue-painted cuff and did exactly that.
+Olyne laid the blue-painted cuff across her knee, set the blunt emergency shears at the shoulder, and did exactly that.
