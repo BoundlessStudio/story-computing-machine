@@ -296,7 +296,7 @@ Raska looked at them.
 
 “You were busy asking what I did.”
 
-Kero had been hauling at the shutter’s bottom edge. He let go, looked up along the rail, and swept one flat hand through the air the way the trolley would run, then hooked it right toward the bowed metal. He pointed at the trolley. “Then it comes up under that.”
+Kero had been hauling at the shutter’s bottom edge. He let go, looked up along the rail, and swept one flat hand up and to the right, toward the bowed metal, the way the drone would climb. He pointed at the trolley. “Then it comes up under that.”
 
 “When my hand drops,” Raska said, “Sevi pulls the handle and you hit the release. Everything lets go at once. Not before. Not because it looks good from where you’re standing.”
 
