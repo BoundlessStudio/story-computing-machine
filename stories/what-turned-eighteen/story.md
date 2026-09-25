@@ -58,7 +58,7 @@ At the hour and minute printed on my birth record, I came apart without pain.
 
 The room expanded in every direction.
 
-I was against the ceiling where the trapped air baked my back. I was under the desk in cool dust. I brushed Maela’s cheek, struck the wardrobe door, tasted tape, saw the fan from above and below and inside its flashing circle. Nine flat, luminous bodies, each no longer than Maela’s hand, unfolded translucent fins and caught the air.
+I was against the ceiling where the trapped air baked my back. I was under the desk in cool dust. I brushed Maela’s cheek, struck the wardrobe door, tasted tape, saw the fan from above and below and inside its flashing circle. Nine bodies, each no longer than Maela’s hand, spread their arms and caught the air. Every one of them was me: my dark hair, my face, my bare feet, a faint light under the skin, even the gray shirt and trousers I had been wearing, shrunk to fit. On the rug below, the real shirt and trousers lay empty.
 
 There was still an I. It had no center.
 
@@ -76,7 +76,7 @@ Maela did. She dropped to the fan and yanked its cord from the socket.
 
 I flashed blue-white across the room. I had not chosen to.
 
-He took one step toward me. Every body near him flinched, and the movement propagated through the rest until I became a blizzard of fins.
+He took one step toward me. Every body near him flinched, and the movement propagated through the rest until I became a blizzard of small arms and legs.
 
 “Stop,” Aluna said quietly. “Don’t move.”
 
@@ -92,7 +92,7 @@ Not all at once. I could not move nine bodies toward one target without collidin
 
 “Four,” she said. “Five.”
 
-I felt one body pressed between curtain and wall, fin crumpled but moving. Another rocked beneath the bed. A third had found the top of the wardrobe and liked the dust-warm quiet there. A fourth sensation came as a distant irritation I could not place.
+I felt one body pressed between curtain and wall, one arm pinned but moving. Another rocked beneath the bed. A third had found the top of the wardrobe and liked the dust-warm quiet there. A fourth sensation came as a distant irritation I could not place.
 
 My light went sharp yellow. Jaro opened his mouth.
 
@@ -100,7 +100,7 @@ Aluna held up a hand. “We don’t know.”
 
 Maela repeated, “Five.” Her voice had gone too careful. “Four missing.”
 
-I made the bodies on the tray lift into a tilted line toward the curtains. Aluna looked there. I pulsed brighter. She eased the fabric away from the wall and offered her forearm like a branch. The trapped body slid onto her sleeve. Its bent fin hurt everywhere.
+I made the bodies on the tray lift into a tilted line toward the curtains. Aluna looked there. I pulsed brighter. She eased the fabric away from the wall and offered her forearm like a branch. The trapped body slid onto her sleeve. Its bent arm hurt everywhere.
 
 “Six,” Maela said when Aluna brought it to the tray.
 
@@ -118,7 +118,7 @@ Jaro searched behind the radiator. Maela looked inside the wastebasket, then cli
 
 “Maela,” she said. “Knock on the bowl again.”
 
-Maela tapped the mixing bowl. The missing body felt the vibration through metal. I answered with every fin I had. A low tone shivered from eight bodies, while somewhere inside the vent the last one buzzed against the duct.
+Maela tapped the mixing bowl. The missing body felt the vibration through metal. I answered with every throat I had. A low hum shivered from eight bodies, while somewhere inside the vent the last one buzzed against the duct.
 
 Maela went white. “I covered it.” She ran her thumb along the lower edge of the tape and stopped where it lifted from the wall. “I covered it.”
 
@@ -130,19 +130,19 @@ Aluna put her palm beside the tray. “Arlon, touch once if you want us to remov
 
 One of my bodies settled against her hand. Once.
 
-Maela took hold of the tape. Her first pull made the tape crackle, and the body in the duct beat its fins in panic. Eight bodies scattered off the tray. I made myself return. Aluna’s hand stayed where it was.
+Maela took hold of the tape. Her first pull made the tape crackle, and the body in the duct kicked and thrashed in panic. Eight bodies scattered off the tray. I made myself return. Aluna’s hand stayed where it was.
 
 “Slower,” she said.
 
 Maela peeled the tape loose by centimeters. Jaro held the chair. When the bowl came free, the current from the duct breathed outward. The last body shot into Maela’s chest. She caught it against her shirt with both hands and stood frozen.
 
-It was not a pet in her palms. It was not a small me she could address separately. The pressure of her fingers reached all my bodies, and I pushed once against her right hand to show I was conscious of it.
+It was not a pet in her palms. It had my face, but it was not a small me she could address separately. The pressure of her fingers reached all my bodies, and I pushed once against her right hand to show I was conscious of it.
 
 “Nine,” she said.
 
 Then she counted again.
 
-By the second count, I could choose a soft green glow if I concentrated. By the third, I could make a high tone by raising all my forward fins together. Neither signal meant anything until we gave it work.
+By the second count, I could choose a soft green glow if I concentrated. By the third, I could make a high tone by humming through all nine throats at once. Neither signal meant anything until we gave it work.
 
 Aluna kept her palm open. “Touch once for yes, twice for no.”
 
@@ -160,7 +160,7 @@ He laughed, and the laugh was ordinary enough to loosen something in the room.
 
 Maela did not laugh. “The supper is off.”
 
-I gathered into the closest thing I had to my old height: an upright spiral with a blank space where my face should have been.
+I gathered into the closest thing I had to my old height: nine of me stacked in a wavering column, nine small faces and none of them where my face used to be.
 
 “That might mean no,” Aluna said.
 
@@ -182,7 +182,7 @@ I flashed yellow without meaning to. Jaro began, “When I changed—”
 
 “You had one pair of feet,” Maela said. “You drank water and changed your school card. Arlon has already been inside a wall.”
 
-Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yeah. Not the same.” He did not look up from the box. “But at my dinner you all decided I was finished with the swim team. I was sitting right there with egg on my fork.”
+Jaro rubbed the side of the cake box where my fingers had smudged the green writing. “Yeah. Not the same.” He did not look up from the box. “But at my dinner you all decided I was finished with the swim team. I was sitting right there with egg on my fork.”
 
 Maela pressed the heel of her hand to her forehead. She was right about the roof. That made me furious with her.
 
@@ -220,7 +220,7 @@ I had meant count only if three of me left the room. Formation was not language 
 
 I touched once.
 
-On the roof, the city’s warm drafts held me better than the apartment had. I rose above the table and saw our block in nine overlapping pieces: laundry snapping on the next building, a neighbor’s tomato pots, windows turning amber, swifts cutting through the lower clouds. Music traveled through air, fins, roof tiles, bowls. I could hover inside the bass line.
+On the roof, the city’s warm drafts held me better than the apartment had. I rose above the table and saw our block in nine overlapping pieces: laundry snapping on the next building, a neighbor’s tomato pots, windows turning amber, swifts cutting through the lower clouds. Music traveled through air, small ribs, roof tiles, bowls. I could hover inside the bass line.
 
 Jaro served the cake. Its icing said HAPPY EIGHTEENTH, ARLON, though the final N had slid downhill. He mashed my slice with water in a saucer.
 
@@ -230,7 +230,7 @@ Jaro served the cake. Its icing said HAPPY EIGHTEENTH, ARLON, though the final N
 
 “You don’t know about the teeth.”
 
-Jaro peered at the body nearest him. I opened its mouth. He leaned back. “Tiny teeth. Fine. A culinary adaptation.”
+Jaro peered at the body nearest him, at my own face no bigger than his thumbnail. I opened its mouth. He leaned back. “Tiny teeth. Fine. A culinary adaptation.”
 
 I tasted icing through all nine mouths at once. Sweetness did not multiply. It spread. Lemon arrived at the left edge of me; sugar at the right; a crumb of almond became briefly more important than the whole sky. I made the green glow and a warm low chord.
 
@@ -258,7 +258,7 @@ One bedsheet tore loose from its lower knot. Wind punched beneath it, and the cl
 
 For an instant I tried to correct everything.
 
-The result was nothing. Commands crossed in me. Bodies turned against one another. One of the two beyond the parapet struck the stone ledge below it and caught there, fins plastered by rain. The other dropped below the roofline into air that no longer spoke clearly to the rest of me. Behind the hut, sheet metal amplified the storm until I could not separate sound from touch.
+The result was nothing. Commands crossed in me. Bodies turned against one another. One of the two beyond the parapet struck the stone ledge below it and caught there, hair and clothes plastered flat by rain. The other dropped below the roofline into air that no longer spoke clearly to the rest of me. Behind the hut, sheet metal amplified the storm until I could not separate sound from touch.
 
 Maela shouted numbers.
 
@@ -266,7 +266,7 @@ Maela shouted numbers.
 
 “Arlo, come to the light!” Jaro called. “Green if you can hear me. Green—”
 
-I lit red, green, white, all involuntary. The wet bodies on the roof pulled toward his voice; the one below the parapet could not find it. A fin caught in a crack along the ledge. Pain narrowed me to that one cold line of stone, and the bodies in safety dropped from the air.
+I lit red, green, white, all involuntary. The wet bodies on the roof pulled toward his voice; the one below the parapet could not find it. A foot caught in a crack along the ledge. Pain narrowed me to that one cold line of stone, and the bodies in safety dropped from the air.
 
 “Stop talking,” Aluna told Jaro.
 
@@ -300,7 +300,7 @@ The body below the parapet followed Jaro’s vibration up the wet brick and into
 
 The count seized all of us.
 
-One remained on the ledge. I felt the rain sheeting off the parapet push it along the stone toward the broken corner, where the ledge ended in air. Its fins could not lift. The railing taps said where the roof was but not how to reach it.
+One remained on the ledge. I felt the rain sheeting off the parapet push it along the stone toward the broken corner, where the ledge ended in air. Soaked through, it was too heavy to lift. The railing taps said where the roof was but not how to reach it.
 
 Maela hooked one arm around a post and leaned out toward the ledge.
 
@@ -310,9 +310,9 @@ Maela hooked one arm around a post and leaned out toward the ledge.
 
 Jaro kept tapping.
 
-I moved six recovered bodies back into the wind. It took them, but this time I did not ask all six to do the same thing. Two braced along the parapet. Two descended in its lee. Two stayed above, catching the pattern of Jaro’s taps and answering with a fin-tone the body on the ledge could follow.
+I moved six recovered bodies back into the wind. It took them, but this time I did not ask all six to do the same thing. Two braced along the parapet. Two descended in its lee. Two stayed above, catching the pattern of Jaro’s taps and answering with a hum the body on the ledge could follow.
 
-Rain blurred the distance between my intentions. I sent each movement separately: lift the left fin; wait; push against the ledge; wait. The body slid backward, away from the broken corner. One of the descending pair reached it and pressed flank to flank. Touch made the next instruction clearer. Together they climbed the wet wall by short, ugly leaps.
+Rain blurred the distance between my intentions. I sent each movement separately: free the left foot; wait; push against the ledge; wait. The body slid backward, away from the broken corner. One of the descending pair reached it and pressed shoulder to shoulder. Touch made the next instruction clearer. Together they climbed the wet wall by handholds and short, ugly leaps.
 
 Maela’s hand appeared over the edge, palm up but still.
 
