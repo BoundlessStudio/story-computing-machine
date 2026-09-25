@@ -28,7 +28,7 @@ In the geriatric wing they watched approved news. She knew cities had burned and
 
 Shona, a former clinic porter with a history of stealing from patients, had spent months finding reasons to be near her. She'd asked whether the old stories about Elspeth were true. Elspeth had asked which ones paid.
 
-Now Shona wrapped a clean sock around the torn arm. She was thirty-eight, broad through the shoulders, with a chipped front tooth she kept worrying with her tongue.
+Now Shona wrapped a clean sock around the torn arm. She was thirty-eight, broad through the shoulders, with a chipped front tooth she kept worrying with her tongue. The clinic had put a paper band on Elspeth's wrist that morning, and Shona turned it to the window to read the birth date.
 
 “Eighty-two,” she said. “You didn't tell me you were eighty-two.”
 
@@ -66,7 +66,7 @@ He laughed, thinking she had joined in. Then he came closer.
 
 Elspeth looked at Shona.
 
-“Corbin can get us a meeting,” Shona said. “That's why I brought you.”
+“I knew what this place was when you said the address,” Shona said. “I came round this morning while you slept. Corbin can get us a meeting.”
 
 Corbin took off the holster and tucked it under the counter. He had beautiful teeth, too large for his mouth, and an expensive way of looking poor: frayed cuffs on cloth that held its shape.
 
@@ -116,7 +116,13 @@ Elspeth put down her fork. “What cast?”
 
 “The men he normally hires,” Shona said.
 
-“You can sit for most of it,” Corbin added. “I'll make sure.”
+“And the group?”
+
+“Friends of his. He likes an audience when he does business.”
+
+Elspeth had eaten with men like that. They did their collecting at the table, in front of guests, so that everybody went home knowing who was owed.
+
+“You can sit for most of it,” Corbin said. “I'll make sure.”
 
 She let him send the message. There were worse beginnings than a discontented employee and an invitation from his employer. She'd had neither yesterday. Still, the pressure of Shona's knee remained after it had been withdrawn.
 
@@ -136,7 +142,7 @@ Elspeth touched the unfamiliar money. “He must want this badly.”
 
 Shona put the envelope away. As she opened her coat, Elspeth saw the pistol she'd brought. She waited for Shona to cover it before taking her arm. Crossing the lobby, she had to ask her to slow down. The carpet was thick enough to catch her toes.
 
-There were eight guests beyond the double doors, with empty dessert plates and glasses that smelled of expensive brandy. The room's guard wore a soft grey suit. He asked Shona whether she'd brought a prop weapon. She said no, and he let her pass. Corbin introduced Elspeth to a man whose velvet jacket strained across his stomach.
+There were eight guests beyond the double doors, with empty dessert plates and glasses that smelled of expensive brandy. The room's guard wore a soft grey suit. He asked Shona whether she'd brought a prop weapon. She said no, and he let her pass. Elspeth, who had seen the pistol, admired the answer. Corbin introduced Elspeth to a man whose velvet jacket strained across his stomach.
 
 “Dacre. So pleased.” He bent to speak near her ear, although she hadn't asked him to. “We've a lovely chair for you. How long can you stand comfortably?”
 
@@ -144,7 +150,7 @@ There were eight guests beyond the double doors, with empty dessert plates and g
 
 “Lovely. And you have your own dialogue?”
 
-She stared at him. Shona took her elbow, but Dacre was already waving to the table. The guests turned; a woman adjusted the little lens pinned to her collar. Another raised a phone.
+She stared at him. Shona took her elbow, but Dacre was already waving to the table. The guests turned; a woman adjusted the little lens pinned to her collar. A man beside her raised a phone.
 
 “Put that away,” Elspeth said.
 
@@ -226,11 +232,9 @@ She was being used. She had two aching legs, an empty stomach, and fifty-nine ye
 
 “I want my money every week. From the loans as well. Shona will be coming to see you.”
 
-He stopped touching his phone.
+He stopped touching his phone. Then he turned his smile back on for the guests.
 
-“I'm not playing now.”
-
-“Neither am I.”
+“Would you see the lady down to her car,” he said to the guard. “She's had a long day.”
 
 The guard moved between them. “All right. Up we get.”
 
@@ -284,7 +288,7 @@ She shook her head, then stopped because it made the room tilt. “You heard me.
 
 Shona jerked him toward the office. Elspeth caught her coat with the few fingers she could move.
 
-“Don't empty him out. He's opening again.”
+“Don't empty him out. I want him open next week.”
 
 “We need to leave.”
 
@@ -322,7 +326,7 @@ Dacre was still talking. “If you come back, I'll have people here.”
 
 They had to leave the car two streets away. It had been booked to return them to the supper house; when Shona asked for a different destination, it pulled over and demanded Corbin's approval. Corbin wasn't answering. Elspeth shouted at the empty driver's seat. Shona hauled her out.
 
-She vomited against the side of the car. Somewhere behind them were sirens. By the time they reached the room Shona had borrowed, Elspeth had lost a shoe and the money in Shona's coat had stuck together with blood.
+She vomited against the side of the car. Somewhere behind them were sirens. Shona half carried her to the main road and paid a van driver to take them the rest of the way without looking in the back. By the time they reached the room Shona had borrowed, Elspeth had lost a shoe and the money in Shona's coat had stuck together with blood.
 
 “There's your fucking collection,” Shona said, dropping it on the bed.
 
@@ -336,15 +340,15 @@ For six days Elspeth slept badly in three different rooms. A doctor Shona found 
 
 On the seventh evening Shona came back carrying an envelope and wearing a new coat.
 
-“From Dacre,” she said. “Other two places stayed open. This is your fifth.”
+“From Dacre,” she said. “His other two places stayed open. This is your fifth.”
 
 Elspeth sat up. “He sent it?”
 
-“His collector brought it. The one who rang. I hired him. He collects the loans for us now. Dacre's been making him wait for his money too.”
+“His collector brought it. The one who rang about my arms.” Shona kept her hand on the envelope. “I hired him. He'd have gone to somebody else by the time you woke up, and Dacre's been keeping him waiting for his money the same as he did Corbin. So he collects the loans for us now.”
 
 “Where is he?”
 
-“Downstairs. He's got somewhere for us tonight. Dacre told him he'd pay till you were caught. Reckons it won't be long.”
+“Downstairs, in his car. He's found us somewhere for tonight. Dacre told him he'll keep paying till you're caught. Dacre reckons that won't be long.”
 
 Shona took the notes out and counted them onto the blanket. Elspeth watched for the hesitation that would tell her a share had already been removed. There was none. That proved very little.
 
