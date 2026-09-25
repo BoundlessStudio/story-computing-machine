@@ -28,7 +28,7 @@ The calls thinned. A buckle tongue dropped against iron.
 
 The driver had watched the new leaf go on. He crouched by the lead wagon and said toward the axle bed, “You’d better tell her what you paid with.”
 
-“I paid, I paid for it,” Beshan said from underneath.
+“I paid for it,” Beshan said from underneath, too quickly.
 
 Kedra closed the ledger on one finger. The new brake leaf showed black beneath the axle, its oil not yet furred with road dust. Yesterday the old leaf had clicked under load. Beshan had told her the crack was walking. She had ordered it bound in wire until they cleared the shelf road.
 
@@ -318,7 +318,7 @@ Near dusk they carried the city strip to the north cistern. The empty anchor bed
 
 Sovet would not let them seat it yet. He took Kedra and the driver across the court to the east exchange, where the mate remained in its foundation. Both strips bore CERDOVAN, but the letters alone proved nothing. He cleaned the reverse edges, pressed wax into the irregular teeth, and compared the impressions against the cistern bed. Then he checked the old witness holes and the dark seams where each strip had rested against its own stone.
 
-“Same inscription, matching foundation teeth,” he said. “Two public anchors. Record that before you lift it.”
+“Same inscription, matching foundation teeth,” he said. “Two public anchors. Record that before you seat it.”
 
 The driver balanced the ledger on his forearm. “Recorded.”
 
