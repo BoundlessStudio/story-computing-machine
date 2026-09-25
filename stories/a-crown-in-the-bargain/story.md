@@ -24,53 +24,37 @@ Tareya drew the marriage articles from beneath her traveling cloak and set them 
 
 His thumb stopped against the royal signet. The crown on the coverlet went still.
 
-"There are three counts before the first-night interval closes," he said. "At the second, the succession clerk opens the north relay. At the third—"
+"There are three counts before the first-night interval closes," he said. "At the second, the succession clerk opens the north relay. At the third, the rooftop room closes, and the register keeps whatever we've placed by then."
 
-"That is a schedule."
+"You're reading me the bell schedule," Tareya said. "On our wedding night. I asked what you meant to do. The clerk can wake up whenever he likes."
 
-"Yes."
+He looked toward the shuttered windows, though the rain there offered no counsel. "To enter our marriage into the succession register before dawn. With your herald counted beside mine, the general's proposed match for me stops being necessary, and the council can't call a fitness hearing to force it."
 
-"I asked for your plan."
+Tareya lifted her hand. The fox stretched over the tendons. "And what happens to this?"
 
-He looked toward the shuttered windows, though the rain there offered no counsel. "To enter our marriage into the succession register before dawn. Your herald would place the Solvane vote outside the regency council's bloc. The general's proposed match then lacks the houses required to compel a second betrothal hearing."
+"The filing registers it beneath the royal crown."
 
-There it was. Not a lover's answer, but at least it belonged to the room.
+She turned her hand, and the fox ran toward the white shape and stopped short of it. "Lovely. So when my road wardens need a judge, who picks him? Me, or somebody standing under that crown?"
 
-Tareya lifted her hand. The fox stretched over the tendons. "What happens to this?"
-
-"The stronger filing registers it beneath the royal crown."
-
-"Beneath."
-
-"In sequence, not in rank. The law calls the relation supportive."
-
-"My stewards call a road supportive when it remains under the cart. Who holds the road?"
+"It's only the order the heralds are read in. The older filings describe the relation as supportive, which is..." He did not say what it was.
 
 Osvan's mouth tightened. He had been fluent at the wedding table. He had numbered the council houses, the salt levies, and the years since a Solvane had entered Lumespire without having to check a single note. Now he glanced down at the articles as though an answer might have crawled under them.
 
 "The crown household would gain authority to countersign appointments in the March," he said.
 
-"Which appointments?"
+"Which ones? Judges? My wardens?"
 
-"Judges. Road wardens. Customs masters."
+"Judges. Road wardens. Customs masters, though customs comes after accession, on a separate schedule. The storm reserve would be released by the crown treasury after review, and anything urgent goes to the emergency comptroller, whose office also rules on bridge claims, so whether a washed bridge in the March counts as urgent would be decided by..."
 
-"Who releases the storm reserve?"
+Tareya waited.
 
-"The crown treasury, after review."
-
-"Who decides whether a washed bridge is urgent?"
-
-"The emergency comptroller."
-
-"In Lumespire."
-
-"Yes."
+"By the comptroller," he finished. "In Lumespire."
 
 Tareya slid the papers apart with one finger. The seventh sheet bore an embossed crown so faint it vanished unless she angled it toward the lantern. Her copy from the betrothal negotiations had contained six sheets.
 
-"You promised protection without absorption."
+"You promised protection without absorption. I made your envoy write it down twice."
 
-"I prepared both forms."
+"I had a parallel form drawn as well."
 
 "You gave me one."
 
@@ -78,17 +62,13 @@ His eyes closed for less than a breath. "I expected to explain the seventh after
 
 "When removal of the ring would be called a public humiliation instead of a private refusal."
 
-"The law calls it no-fault dissolution until dawn."
-
-"People have mouths even where law has definitions."
-
-A soft knock interrupted him before he could make a count out of that too.
+A soft knock came before he could answer.
 
 "Enter," Tareya said.
 
-Her attendant edged through the door sideways with a tray held above a stack of oilskin. Her gray hair had escaped its pins, and the cuffs of her blue gown were wet to the elbows.
+Her attendant edged through the door sideways with a tray held above a stack of oilskin. Her gray hair had escaped its pins, and the sleeves of her blue gown were wet to the elbows.
 
-"The west gutter has backed into the lower wardrobe," she said. "Your other boots are on the hearth. These are still dry."
+"West window leaked all over the lower wardrobe," she said. "Your other boots are on the hearth. These are still dry."
 
 She set down the boots, a folded rain mantle, and two thick slices of bread covered by a bowl to keep them warm. Only then did she glance at the lights on the coverlet.
 
@@ -96,35 +76,31 @@ She set down the boots, a folded rain mantle, and two thick slices of bread cove
 
 "Thank you." Tareya touched the bread. Still warm. "Have you heard from Solvane?"
 
-The attendant produced a weather slip from inside her sleeve. The relay ink had bled at one corner. "Northern farm culvert gone. East post road passable to single carts. No deaths reported by the ninth bell."
+The attendant produced a weather slip from inside her sleeve. The relay ink had bled at one corner. "Northern farm bridge down. East post road passable to single carts. No deaths reported by the ninth bell."
 
 Osvan rose. "The crown engineers can leave by noon."
 
 The attendant looked to Tareya, not him.
 
-"Set my bridge clothes out," Tareya said. "And eat something yourself."
+"Set out my rain things for the upper walk," Tareya said. "And eat something yourself."
 
 "Already stole the prince's sugared pear."
 
 For the first time that night, Osvan appeared unsure whether he had been insulted. The attendant shut the door on his uncertainty.
 
-Tareya broke the bread in half and gave him one piece. "Engineers by noon. On whose order?"
+Tareya broke the bread in half and held out one piece. "Engineers by noon. On whose order?"
 
 "Mine."
 
-"Tonight you have the authority?"
+"And tonight you actually have the authority to send them? Or is that another thing you meant to explain after the ceremony?"
 
 He did not take the bread. "I can issue a provisional dispatch. It lasts two days unless the regency countersigns."
 
-"And after we file the strong form?"
+"And after we file this one?" She tapped the seventh sheet.
 
 "The dispatch can be charged against the March reserve without the regency."
 
-"My reserve."
-
-"Yes."
-
-"So your protection is permission to spend my own storm money, once your comptroller agrees that my bridge is wet enough."
+"Against my reserve. So your protection is permission to spend my own storm money, once your comptroller agrees that my bridge is wet enough."
 
 "It also opens crown crews, stone allotments, draft teams, and military roads."
 
@@ -132,15 +108,15 @@ He did not take the bread. "I can issue a provisional dispatch. It lasts two day
 
 Osvan stood with the heel of the loaf against his palm and rain shadowing his collar. "I need eight heralds to hold my claim through the king's incapacity. I have seven. The council has offered me an eighth through the general's daughter, with command of the palace guard attached to her house. If I refuse without another registered marriage, they can call a fitness hearing. If I accept, they gain the guard, the household appointments, and two of the three regency seals."
 
-"And you chose the March because our herald is independent."
+"And you picked the March because our herald doesn't belong to anybody."
 
 "Because your vote has never sat in a council bloc. Because you asked for roads, not ministries. Because your barony needs aid that the treasury can lawfully provide." He paused. "And because you were unlikely to ask me to love you."
 
-That last sentence came out without the polish of the first three. It was not quite cruel. That made it worse.
+That last sentence came out without the polish of the first three. Tareya had been ready for the first three. For the fourth she had nothing, and she folded the weather slip along its old crease, then again, smaller than it needed to go, before she found her voice.
 
-Tareya folded the weather slip along its old crease. "You found a woman in need of stone and assumed she would be grateful for neglect."
+"You found a woman in need of stone and assumed she would be grateful for neglect."
 
-"I thought separate households would be a courtesy."
+"I thought you would want rooms of your own. That leaving you alone would be a courtesy."
 
 "Did you ask where I wanted to live?"
 
@@ -174,11 +150,11 @@ The chamberlain did not. "It is in the prince's black dispatch case."
 
 "Then bring the case."
 
-When the door closed, Tareya put on the dry boots. She did not ask why the weaker form had been kept outside the chamber. She had begun the night with broad questions and received broad answers. The rain had narrowed both.
+When the door closed, Tareya put on the dry boots. She did not ask why the parallel form had been kept outside the chamber.
 
 "What does parallel cost you?" she asked.
 
-"Two votes at the accession hearing instead of one unified household vote. The opposition may challenge the separation. There are eleven plausible procedural outcomes, four of which end with the council suspending recognition until the king wakes or dies."
+"Two separate votes instead of one unified household vote at the accession hearing, when the council rules on my claim itself. The opposition may challenge the separation. There are eleven plausible procedural outcomes, four of which end with the council suspending recognition until the king wakes or dies."
 
 "What does it cost the March?"
 
@@ -186,7 +162,7 @@ When the door closed, Tareya put on the dry boots. She did not ask why the weake
 
 "Can we sign one tonight?"
 
-"We would need a relief ledger, two witnesses, the emergency seal—"
+"There's a blank compact in the case. It would need terms, a relief ledger to price them against, two witnesses—"
 
 "Can we?"
 
@@ -216,15 +192,15 @@ He adjusted them without protest. The chamberlain arrived carrying the black dis
 
 Then they were moving.
 
-On the bridge, their bodies took over from the articles. Wind shoved at Tareya's right shoulder. Water ran from the lip of her hood and down the front of her mantle. Osvan took the outside rail, not gallantly but because he was taller and could brace the dispatch case when the chamberlain passed it forward. At the third grate, the floor kicked beneath their feet. Tareya caught the articles against her ribs. Osvan caught the chamberlain by the sleeve.
+On the bridge, their bodies took over from the articles. Wind shoved at Tareya's right shoulder. Water ran from the lip of her hood and down the front of her mantle. Osvan took the outside rail. He was taller and could brace the dispatch case when the chamberlain passed it forward. At the third grate, the floor kicked beneath their feet. Tareya caught the articles against her ribs. Osvan caught the chamberlain by the sleeve.
 
-"Still forty-two minutes?" she called.
+"How long?" she called.
 
 "Thirty-four," the chamberlain called back.
 
-"That isn't how minutes work," the attendant muttered.
+"Put those under your mantle, Baroness," the attendant said from behind her, "or you'll be signing porridge."
 
-"We spent eight of them."
+Tareya tucked the articles inside against her chest.
 
 They reached the middle landing, where the storm had blown out two relay lamps. The tender knelt immediately, opened the brass housing, and began changing a wet wick. Red Solvane light came along the floor from the west tower, struck the dead section, and vanished.
 
@@ -232,27 +208,23 @@ Tareya stopped.
 
 Osvan had gone three paces before he noticed. "What is it?"
 
-She pointed at the blank glass. "A record can fail between here and there."
+She pointed at the blank glass. "That was mine."
 
-"Yes. The registry repeats a signal through two alternate towers."
+"The registry repeats a signal through two alternate towers."
 
 "And if both fail?"
 
 "The clerk reads the signed vellum."
 
-"So the light is evidence of placement. Not the placement itself."
+She kept her eyes on the dead pane. "And if I took the ring off before we got to the roof? Would I still be your wife?"
 
-"Correct."
+The chamberlain found something to adjust on the strap of the case.
 
-"And no light means nothing except that no light arrived."
-
-"Correct."
-
-The answer came easily because this was machinery, not marriage. Osvan could stand in a storm and explain three routes for a signal. Ask him where his wife should eat breakfast and the prince of Avarnth lost his language.
+"Until the last bar goes dark," Osvan said. "Taking it off is a refusal. The clerk doesn't record it as one until the bar is gone." He seemed to hear how that sounded. "That's how the clerk reads it. I'm only telling you how the clerk reads it."
 
 The tender seated the new wick. The red fox leaped across the repaired pane.
 
-Tareya started walking again. "How many rooms did you set aside for me?"
+Tareya started walking again. "How many rooms did you set aside for me? Since we're counting."
 
 Osvan nearly missed the next grate. "Six."
 
@@ -268,11 +240,11 @@ Osvan nearly missed the next grate. "Six."
 
 "If there is a tomorrow in this arrangement."
 
-"Tomorrow comes whether we file or not. I need to know who chooses the keys."
+"Then find out anyway. I need to know who chooses the keys."
 
-He gave a short, unhappy breath. Not laughter, though it had passed near it.
+He gave a short, unhappy breath.
 
-At the spire entrance, the chamberlain and the tender hauled the black case through first. Osvan held the rain mantle clear of the latch while Tareya ducked inside. It was the smallest courtesy he had offered without prearranging it. She noticed and did not reward him for it.
+At the spire entrance, the chamberlain and the tender hauled the black case through first. Osvan held the rain mantle clear of the latch while Tareya ducked inside.
 
 The rooftop succession room was not grand. Its copper shutters stood folded against the round walls, leaving the lens array open to the weather. Six brass arms surrounded a slate table. Each ended in a shallow signet cup. Overhead, mirrors caught signals from the palace towers and cast them onto the floor in shifting columns. Animal heralds moved through one another without touching: a boar crossing a heron, a stag passing through a school of gold fish. At the center waited an unlit crown.
 
@@ -280,41 +252,29 @@ The chamberlain put the black case on the table. "Twenty-three minutes."
 
 The lamp tender wedged canvas over the western lens. Tareya's attendant used a clean cloth to blot rain from the articles, muttering at every warped edge.
 
-Osvan unlocked the case. Inside lay two forms and the royal emergency seal.
+Osvan unlocked the case. Inside lay the two forms, a blank relief compact, the royal emergency seal, and a velvet tray of cut-glass blanks.
 
 "Show me," Tareya said.
 
-He placed the strong form under the reading lens. Then he fitted his signet into the northern cup and nodded toward her hand.
+He placed the strong form under the reading lens. Then he held his signet over the northern cup and nodded toward her hand.
 
-"No." She kept her ring. "Use the demonstration blanks."
+"Not with mine," she said. "Use the blanks."
 
-He took two pieces of cut glass from the case and set them into the cups. The array read their positions. White light gathered into a crowned hawk, Osvan's house herald, and red shaped itself into Tareya's fox. Under the strong form's arrangement, the fox passed beneath the hawk's wings. Its three hill stars rose into the crown and disappeared.
+He set his signet down on the slate, took two pieces of cut glass from the tray, and fitted them into the northern cup and the cup beside it. The array read their positions. White light gathered into a crowned hawk, Osvan's house herald, and red shaped itself into Tareya's fox. Under the strong form's arrangement, the fox passed beneath the hawk's wings. Its three hill stars rose into the crown and disappeared.
 
-"Appointments?" she asked.
-
-"Countersigned."
-
-"Reserve?"
-
-"Crown review."
-
-"Customs?"
-
-"Household authority after accession."
-
-"My assent?"
+"And my assent?" she asked. "Where does that go?"
 
 "Recorded with mine as a unified filing."
 
-"Legible separately?"
+"So could anyone ever read my part by itself?"
 
 He did not answer.
 
-Tareya removed her ring.
+Tareya took off her ring.
 
 The projected fox vanished from her hand. Across the palace, red relay light ceased in window after window as the portable signet stopped offering a current registration position. The ring went cold in her palm, ordinary gold around an engraved stone.
 
-The chamberlain's fingers twitched toward the bell cord. He did not pull it.
+The chamberlain's fingers twitched toward the bell cord. He did not pull it. Beneath the unlit crown, the pale bars still stood.
 
 Osvan stood on the far side of the slate table. He could have invoked the delay clause. He could have asked the chamberlain to witness confusion, illness, storm duress—eleven contingencies, perhaps more. Instead he picked up the strong form.
 
@@ -328,9 +288,9 @@ He tore it once through the embossed crown. The rain took one half from his hand
 
 Osvan looked at the dead gold in Tareya's palm. "Mine. While I have it."
 
-He placed his own ring in the northern cup.
+He lifted the two blanks out of their cups and placed his own ring in the northern one.
 
-The crowned hawk filled the floor alone. Without her supporting herald, its outer line flickered where the contested count remained incomplete. The device registered that Osvan Rhel had placed a signet at a particular cup at a particular time. It offered no opinion on whether he was brave, desperate, honest, or merely out of alternatives.
+The crowned hawk filled the floor alone. Without her supporting herald, its outer line flickered where the contested count remained incomplete.
 
 The chamberlain pulled the bell cord once. "Sole royal placement witnessed."
 
@@ -354,35 +314,35 @@ He looked toward the torn form, ready perhaps to retrieve policy from it. Nothin
 
 Tareya set the ring beside the parallel form. "Open the relief compact."
 
-The chamberlain did. Osvan shifted the demonstration blanks into two cups opposite each other. The fox and hawk returned on separate arcs. Their lights crossed at the center of the array, red passing through white, neither swallowed. Tareya's three stars remained visible above the Solvane line.
+The chamberlain unfolded it on the slate and uncapped the ink. Osvan fitted one blank into the southern cup, opposite his ring. The fox returned on its own arc. Hawk and fox crossed at the center of the array, red passing through white, neither swallowed. Tareya's three stars remained visible above the Solvane line.
 
-"My title remains outside the royal household," she said.
+Osvan drew the compact toward him and began listing before anyone asked. "Crown engineering corps for thirty days. Up to twelve heavy draft teams. Slate from the eastern quarry allotment. Two thousand measures of grain at winter reserve price. Military road access without billet rights in Solvane villages. Review after thirty days."
 
-"Yes."
+"Who directs the crews once they're inside the March? Not your engineer, I hope."
 
-"My appointments?"
+"Your road wardens. With an engineer empowered to refuse an unsafe order."
 
-"Yours."
+"Fine. Who pays?"
 
-"My customs gates?"
-
-"Yours unless Parliament levies the whole kingdom."
-
-"Relief access?"
-
-He opened the compact and began listing. "Crown engineering corps for thirty days. Up to twelve heavy draft teams. Slate from the eastern quarry allotment. Two thousand measures of grain at winter reserve price. Military road access without billet rights in Solvane villages. Review after—"
-
-"Who directs the crews inside the March?"
-
-"Your road wardens, with an engineer empowered to refuse an unsafe order."
-
-"Who pays?"
-
-"The crown pays transport and wages. Solvane pays materials at cost over three years. If I fail the accession hearing, the debt remains with the royal treasury, not my successor's right to your title."
+"The crown pays transport and wages. Solvane pays materials at cost over three years." He hesitated over the next line. "If I fail the accession hearing, the debt is owed to the royal treasury, and it may not attach to your title, whoever follows me."
 
 "Write that last part."
 
-He wrote it himself, his letters losing their courtly slope as the pen hurried. Tareya added culvert stone, bridge chain, and seed grain to the list. She struck military carts from village greens and gave them the abandoned wool yard instead. Osvan objected to five years of toll exemption; she reduced it to two and required crown wagons to carry March salt on the return journey. Neither called the compromise generous.
+He wrote it himself, his letters losing their courtly slope as the pen hurried. Tareya added road stone, bridge chain, and seed grain to the list. She struck military carts from village greens and gave them the abandoned wool yard instead.
+
+"And five years without tolls for March carts on the crown roads," she said.
+
+"Five." He did not look up from the page. "The toll board will have me in front of them before the king's physicians do. One year."
+
+"Your wagons come back from the March empty. Two years, and they carry our salt home with them."
+
+"Salt isn't relief."
+
+"It is if I can't get it to market."
+
+He looked at the grain line, then at her. "Two years. Salt on the return journey only. The wagons don't wait for it."
+
+"Two years," she said. Neither of them called it generous.
 
 The chamberlain supplied dates. Tareya's attendant sanded wet ink. The lamp tender announced, "South mirror slipping," and climbed a short ladder to tighten its clamp while the hawk and fox bent across the floor.
 
@@ -402,15 +362,15 @@ His answer took longer than any law should have required. "You do."
 
 The chamberlain made the note.
 
-Osvan signed the relief terms and pressed the emergency seal beside his name. Then he put the pen down and stepped away from the array, leaving the second cup empty.
+Osvan signed the relief terms and pressed the emergency seal beside his name. Then he put the pen down, lifted the blank from the southern cup, and stepped away from the array, leaving that cup empty.
 
 No one urged her.
 
-Tareya thought of the northern farm culvert, gone into black water. She thought of single carts feeling for the east road, of six rooms chosen without her, of the fox erased beneath white wings. She thought, too, of the strong form tearing in Osvan's hands before he knew whether she would offer him anything in its place.
+Tareya thought of the northern farm bridge, gone into black water. She thought of single carts feeling for the east road, of six rooms chosen without her, of the fox erased beneath white wings. She thought, too, of the strong form tearing in Osvan's hands before he knew whether she would offer him anything in its place.
 
-She slid her ring onto her finger. Red light returned, first against her skin and then along the distant towers.
+She slid her ring onto her finger. Red light returned, first against her skin and then along the distant towers. Then she drew it off again.
 
-She did not place it beside his. She set it into the western cup assigned by the parallel form.
+She did not place it beside his. She set it into the southern cup assigned by the parallel form.
 
 The fox ran out across Lumespire. The hawk held its separate height. Their paths crossed above the central slate, and the relay carried both patterns into the rain.
 
@@ -418,7 +378,7 @@ The chamberlain pulled the bell cord twice. "Separate placements witnessed. Para
 
 The final pale bar under the crown went dark.
 
-Tareya removed her ring from the cup and put it back on. Nothing tightened around her finger. No warmth entered her blood. The array had done its work and no more.
+Tareya took her ring from the cup and put it back on. The gold was cold from the rain.
 
 "Two ledgers," she told the chamberlain. "The palace copy of Solvane storm roads for the last five years, and the crown corps dispatch ledger. Send them to the east apartments."
 
