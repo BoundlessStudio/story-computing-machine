@@ -180,7 +180,7 @@ Their power, authority, and scraps of worship sounded less like a golden age tha
 
 The hearth god’s mouth tightened.
 
-“You dropped the underlay,” I said to the road god. “And you put out the cigarette.”
+“You dropped the underlay,” I said to the road god. Then, to the weather god: “And you put out the cigarette.”
 
 The weather god looked pleased. “One drop. Very neat.”
 
