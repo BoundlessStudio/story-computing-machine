@@ -66,7 +66,7 @@ It was such a foolish thing to say that Clarimond made a sound almost like a lau
 
 The sword was dragging at Clarimond's hand. She eased it away from their feet and leaned it against the brick. When she turned back, Belda was drawing a handkerchief from her sleeve. It was yellow, edged in an ambitious, uneven lace.
 
-Belda wiped her face, then offered it. Clarimond had not known she needed it until she pressed it beneath her eyes. For some time neither of them spoke.
+Belda wiped her face, then offered it. Clarimond pressed it beneath her eyes. For some time neither of them spoke.
 
 Beyond the hedge a man called for another man. A cart rattled over loose stones. Belda went to the door and pulled it onto its hook so it would stay open. She favored her left leg, putting a hand to the jamb as she came back.
 
@@ -152,7 +152,7 @@ Fourteen years. Clarimond had been twelve, living beneath another name, sleeping
 
 “He'd like that. He'll say he wouldn't know what to say to a queen, but he will. You'll hear about his clocks.”
 
-Clarimond looked past Belda into the service passage. The walls had been whitewashed. A pail stood beneath a tap that had not been there before.
+Clarimond looked past Belda into the service passage. The walls had been whitewashed. Someone had hung a lamp halfway along, where there had never been one.
 
 “We can find rooms for all of you. Somewhere with a separate entrance, if he'd prefer that for his work. You could have the rooms above the south garden. Do you remember? The ones with the painted birds.”
 
@@ -196,7 +196,7 @@ Clarimond opened her mouth, then looked away. There was dirt beneath the hook th
 
 She stopped. Belda rubbed at a wet patch on her cheek with the heel of her hand. Clarimond gave the handkerchief back.
 
-They stood quietly until Belda said, “I'd like you near me too. I don't know how we do that now. But I do.”
+They stood quietly until Belda said, “I'd like you near me too. I do. I just don't know how we manage it now.”
 
 The bells had stopped. In their absence Clarimond heard sparrows moving in the hedge, a rustle followed by an indignant scuffle. It was a sound she had heard often outside the nursery windows. She had been allowed to put crumbs on the sill provided she swept them away before lessons.
 
@@ -222,7 +222,7 @@ Belda pressed the handkerchief flat between her palms. She looked toward the pas
 
 “For that moment, I did.”
 
-Clarimond had to breathe through her mouth. There it was, said aloud by the person she had abandoned, and she had no account of herself to offer. She had carried a sword across a battlefield that morning. At nine she had run because she was afraid, and all the years between could not make that a different act.
+Clarimond had to breathe through her mouth. There it was, said aloud by the person she had abandoned, and she had no account of herself to offer. She had carried a sword across a battlefield that morning. At nine she had run because she was afraid.
 
 “I thought they were coming down the stairs,” Belda said. “I couldn't move. I didn't want to be there on my own.” She folded the handkerchief, missed the edge, and tried again. “I'd just told you to go. I knew you'd only get caught with me if you stayed. But I called anyway.”
 
@@ -244,7 +244,7 @@ They held hands. Clarimond could feel the pulse in her own fingers, or in Belda'
 
 Belda pulled her in before she could finish the movement. A metal edge pressed into Clarimond's ribs. Belda's cheek rested against the leather at Clarimond's shoulder; they shifted, and Clarimond bent her head until it rested above Belda's ear. The gray hair was soft and smelled faintly of smoke from a cooking fire.
 
-Belda was crying again. Clarimond held her while her own face grew wet. Once Belda drew back to breathe, then came close again, and Clarimond was grateful beyond speech for that second, deliberate return.
+Belda was crying again. Clarimond held her while her own face grew wet. Once Belda drew back to breathe, then came close again, and Clarimond's arms tightened around her.
 
 When they finally let go, the light had moved lower on the bricks. Clarimond's captain appeared at the bend in the path and halted. She raised a hand to show she had seen him, and he withdrew.
 
