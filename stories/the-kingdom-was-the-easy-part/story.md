@@ -266,7 +266,7 @@ She had found him after dawn, sitting against the stair wall with his split shie
 
 "All right," she said.
 
-Cavren did not soften. His chest remained open. His east road remained eight days away. But when the brace slipped again, he chose where to put his shoulder, and Dabria took the other side without directing him.
+Cavren did not soften. His traveling chest remained open. His east road remained eight days away. But when the brace slipped again, he chose where to put his shoulder, and Dabria took the other side without directing him.
 
 Beyond the last turn of the maze, Oruvane had laid the roof gate flat. Travel bags hung beneath his wings: canvas pouches, two small casks, a rolled blanket, and the brass pan he used to warm sand for his joints. There was no saddle among them and no battle harness, nothing that offered a rider any place upon him.
 
