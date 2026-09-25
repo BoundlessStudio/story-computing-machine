@@ -54,6 +54,8 @@ Now he pressed the grocery bag between his knees and watched rain begin to stipp
 
 Tobin kept looking outside. “No clinic questions.”
 
+Hazel kept three clinic files in her desk at home. Only one had his name on it.
+
 The bus lurched away from the curb. Hazel caught the seat ahead. Tobin did not move until the abandoned terminal had slipped behind a row of warehouses; then he reached into the bag and took out the notebook.
 
 It was worse than she remembered. Eight years ago it had been a cheap black book from the kiosk in the departures hall, bought because Tobin was taking a night class and had forgotten paper. It had gone into his coat new. It had come out with its spine bleached gray, its pages swollen, and both their handwriting inside.
@@ -146,10 +148,6 @@ Hazel looked at her thumb. “A conditioned response could survive without expli
 
 “Wonderful.”
 
-“I’m not dismissing it.”
-
-“No, you’re promoting it to a variable.”
-
 He pulled the notebook out, slid a folded sheet from between two pages, and handed it to her.
 
 It was a sketch of that apartment, but wrong. The narrow kitchen opened into the hallway of their mother’s later duplex; the hallway opened into the cupboard under the stairs of the childhood house. Rain hung beyond every window in long beads, each one shaded in pencil. Beside the kitchen door, a smaller drawing showed Tobin’s shoe with the sole peeled back.
@@ -236,7 +234,7 @@ Tobin’s fingers worried at the notebook’s softened corner. Rain came harder,
 
 He shoved the notebook into the bag. “This was a mistake.”
 
-He walked away from the mapped route, fast enough that Hazel had to run. By the time she caught him, rain was bouncing off the pavement. They took shelter beneath the striped awning of a closed florist. The wind shoved the wet edge of it against the window with a hollow slap.
+He walked away from the mapped route, back the way they had come, fast enough that Hazel had to run. By the time she caught him, rain was bouncing off the pavement. They took shelter beneath the striped awning of a closed florist. The wind shoved the wet edge of it against the window with a hollow slap.
 
 Tobin stood at the far end, hugging the grocery bag to his chest.
 
