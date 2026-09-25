@@ -324,7 +324,7 @@ The storm struck.
 
 For one deafening moment, Ryo thought he had abandoned everyone. Then eight channels opened across the floor, messy and uneven. The ninth sputtered, died, and flared again as Jori and the others forced it by hand. Lightning divided through the stations instead of converging on one body.
 
-The black column split along its central seam. Beneath the casing, the sacrificial core hung exposed: a fist-sized knot where all nine lines had once become one.
+The black column split along its central seam. Beneath the casing, the sacrificial core hung exposed: a fist-sized knot where all nine lines had once become one. Station nine had broken its bond but not the knot, and the lightning in the channels had begun to lean back toward it.
 
 The return door was now too narrow for Ryo to pass through facing forward.
 
@@ -374,7 +374,7 @@ Eiren turned her palms upward. The filaments were gone. Thin burns crossed her h
 
 Ryo waited for grief and found it. He also found relief, fear, resentment, affection, and a powerful desire to sleep for a week. None canceled the others.
 
-“Thanks for getting me out,” he said. “I’m still angry with you.”
+“Thanks for getting me out,” he said. “It doesn’t make up for the other nine.”
 
 “I know,” Eiren said. “I am sorry.”
 
@@ -426,6 +426,6 @@ Ryo opened the curtains. The room felt exposed, and he left them open anyway.
 
 Nothing glowed at the edge of his apartment door. Past it lay the hall, one appointment he could not make alone, and a garden he might not manage to visit today.
 
-He put his hand on the knob without knowing what waited behind it.
+He put his hand on the knob.
 
 Then Ryo opened the door himself.
