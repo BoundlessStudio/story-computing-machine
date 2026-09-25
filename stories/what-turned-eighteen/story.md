@@ -10,7 +10,7 @@ canon: false
 
 At four minutes to my birth minute, Maela stood on a chair and taped a mixing bowl over the bedroom vent.
 
-“That’ll starve you of air,” my brother Jaro said from the doorway.
+“That’ll starve you of air,” Jaro said from the doorway.
 
 “For nine minutes.” My mother pressed the tape down with both thumbs. “Arlon can breathe in the hall.”
 
@@ -22,9 +22,9 @@ Jaro lifted the cake box. “I stopped this falling down the stairs.”
 
 He had also iced HAPPY EIGHTEENTH, ARLO in green across the lid because the bakery had refused to write on a box. The cake inside was supposed to have the full name and twice as much dignity. We had planned to carry it to the shared roof after my change, along with three folding chairs, Maela’s good cushions, and enough spiced lentil rolls to feed the neighbors who would pretend not to be watching.
 
-Outside, rain worried at the afternoon but had not committed. The forecast said it would break by nine. Maela believed weather forecasts only when they threatened a birthday.
+Outside, rain worried at the afternoon but had not committed. The forecast said rain by nine. Maela believed weather forecasts only when they threatened a birthday.
 
-Aluna, my oldest friend, came out of my closet holding the adjustable trousers she had brought me. They had ties at the waist, knees, and ankles and enough folded cloth to fit anything from very tall to discouragingly broad.
+Aluna came out of my closet holding the adjustable trousers she had brought me. They had ties at the waist, knees, and ankles and enough folded cloth to fit anything from very tall to discouragingly broad.
 
 “They look like curtains,” I said.
 
@@ -182,7 +182,7 @@ I flashed yellow without meaning to. Jaro began, “When I changed—”
 
 “You had one pair of feet,” Maela said. “You drank water and changed your school card. Arlon has already been inside a wall.”
 
-Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yeah. Not the same.” He did not look up from the box. “But at my dinner you decided I was finished with the swim team. I was sitting right there with egg on my fork.”
+Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yeah. Not the same.” He did not look up from the box. “But at my dinner you all decided I was finished with the swim team. I was sitting right there with egg on my fork.”
 
 Maela pressed the heel of her hand to her forehead. She was right about the roof. That made me furious with her.
 
