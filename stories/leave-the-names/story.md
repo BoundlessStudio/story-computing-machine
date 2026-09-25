@@ -22,7 +22,7 @@ Kedra turned back one page. Clean copper, twenty-three sheets. Lamp rail, nine l
 
 The witness spaces were there for the trade’s oldest rule, the one cutters learned before they were trusted with a blade: take the metal, leave the names. Copper and rail went into the buying book. A surface that named a person or place stayed where it was found, and so did any tally joined to it. Departure waited for proof.
 
-“Who checked the north granary after Beshan?”
+“Who checked the north cistern after Beshan?”
 
 The calls thinned. A buckle tongue dropped against iron.
 
@@ -38,7 +38,7 @@ The new leaf was not in the buying book.
 
 Beshan slid from under the wagon with the wrench still in his hand. His hair was full of grit from the axle bed. “The pin sits clean. I put two collars on because the old shoulder is worn, but the second collar can come off if it crowds the hub after heat. I checked the draw—”
 
-“Where is the granary strip?”
+“Where is the cistern strip?”
 
 The wagon line stopped. He looked first at the ledger, then at the city.
 
@@ -120,11 +120,11 @@ The clutch dropped. The quick drum stopped, but the iron beam continued to crawl
 
 Lurem shook his head. “Half. You drop everything under that beam and the reader twists, and then my strip stays in it for good.”
 
-“The strip from the north granary,” Sovet said. He did not look up from the chalk square he was redrawing. “Cerdovan, upper line complete, lower edge cut outside the witness holes. Removed yesterday.”
+“The strip from the north cistern,” Sovet said. He did not look up from the chalk square he was redrawing. “Cerdovan, upper line complete, lower edge cut outside the witness holes. Removed yesterday.”
 
 Lurem spread his hands. “And sold to me yesterday, and I paid fair for it. If this is a caravan dispute, take it past my line.”
 
-Kedra could see the strip in the reader housing, brass behind a narrow glass guard. The letters CERDOVAN ran upright. Its irregular lower teeth sat in the machine as they had once sat in the granary foundation. The reader did not speak them or remember them. It held their shape, and the old mechanism released what that shape had authority to release.
+Kedra could see the strip in the reader housing, brass behind a narrow glass guard. The letters CERDOVAN ran upright. Its irregular lower teeth sat in the machine as they had once sat in the cistern foundation. The reader did not speak them or remember them. It held their shape, and the old mechanism released what that shape had authority to release.
 
 “Beshan,” Kedra said. “Can the load be set without bending it?”
 
@@ -314,9 +314,9 @@ Late in the afternoon the cook served the noon meal, soaked and cold. Lurem ate 
 
 The folded lintels could not be put back where they had belonged. One had been crushed through three letters. Two public plates had lost their wall positions when the chain dragged them into a single pile. Sovet marked those pieces into a context-loss lot, each on its own line.
 
-Near dusk they carried the city strip to the north granary. The empty anchor bed was a long pale wound above the grain doors. Beshan’s cut had been neat. That made the absence worse to Kedra’s eye: supported lip, clean backing, no accidental fracture to blame.
+Near dusk they carried the city strip to the north cistern. The empty anchor bed was a long pale wound above the dry basin. Beshan’s cut had been neat. That made the absence worse to Kedra’s eye: supported lip, clean backing, no accidental fracture to blame.
 
-Sovet would not let them seat it yet. He took Kedra and the driver across the court to the east exchange, where the mate remained in its foundation. Both strips bore CERDOVAN, but the letters alone proved nothing. He cleaned the reverse edges, pressed wax into the irregular teeth, and compared the impressions against the granary bed. Then he checked the old witness holes and the dark seams where each strip had rested against its own stone.
+Sovet would not let them seat it yet. He took Kedra and the driver across the court to the east exchange, where the mate remained in its foundation. Both strips bore CERDOVAN, but the letters alone proved nothing. He cleaned the reverse edges, pressed wax into the irregular teeth, and compared the impressions against the cistern bed. Then he checked the old witness holes and the dark seams where each strip had rested against its own stone.
 
 “Same inscription, matching foundation teeth,” he said. “Two public anchors. Record that before you lift it.”
 
@@ -324,7 +324,7 @@ The driver balanced the ledger on his forearm. “Recorded.”
 
 “Read the locations back.”
 
-He did. Sovet corrected “north court” to “north granary, inner public face” and made him repeat it.
+He did. Sovet corrected “north court” to “north cistern, inner public face” and made him repeat it.
 
 At the empty bed, Beshan sorted shims by thickness. His hands no longer hurried.
 
@@ -336,7 +336,7 @@ Kedra nodded permission for each tool. He used wood, cloth, and the blunt settin
 
 Everyone held. He checked the mate at the exchange once more. Only then did he set his mark through the first hole and hand the second marker to Kedra.
 
-When the last fastener seated, something struck once beneath the granary floor: the reservation rail taking the paired anchors again. Back in the court, Lurem called out that the surviving civic tags had locked against the idle engine. The mechanism reserved only what was still joined to Cerdovan; the crushed plates and the lost positions stayed in Sovet’s context-loss lot.
+When the last fastener seated, something struck once beneath the cistern floor: the reservation rail taking the paired anchors again. Back in the court, Lurem called out that the surviving civic tags had locked against the idle engine. The mechanism reserved only what was still joined to Cerdovan; the crushed plates and the lost positions stayed in Sovet’s context-loss lot.
 
 Sovet wrote until the light failed.
 
