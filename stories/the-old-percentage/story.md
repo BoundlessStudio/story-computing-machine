@@ -362,4 +362,4 @@ Elspeth touched the sleeve. Good wool, with a generous lining. A woman could sit
 
 “You can buy your own now.” Shona pushed the counted money closer. “You need help getting up?”
 
-Downstairs was a man she hadn't met, taking money from a man who wanted her dead. Shona had hired him without asking. Elspeth put her left arm out, and Shona bent to receive her weight. With her face against the new wool, Elspeth breathed in the expensive shop smell and began thinking how much more there must have been.
+Elspeth put her left arm out, and Shona bent to receive her weight. With her face against the new wool, Elspeth breathed in the expensive shop smell and began thinking how much more there must have been.
