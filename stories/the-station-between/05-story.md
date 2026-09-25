@@ -39,14 +39,14 @@ winged or radiant. A pencil held her hair in a loose knot.
 
 “Yes,” Hester said.
 
-I turned the ticket edgewise so the black field faced the floor. “And those are
+I turned the ticket over so the black field faced the floor. “And those are
 what they say they are?”
 
 “Those are the names on the boards.”
 
 “That isn’t what I asked.”
 
-“It’s what I can answer.”
+“It is what I can answer.”
 
 Behind her, a hairline rectangle interrupted the yellowed wall, the shape of a
 door painted over too many times. Hester closed the ledger and came around the
@@ -56,7 +56,7 @@ window.
 present their tickets. The gates admit them or do not. I have not traveled on
 either train.”
 
-The ticket was stiff enough to cut. I flipped it over.
+The ticket was stiff enough to cut. I read the side that faced me.
 
 **VALID THIS SERVICE ONLY**
 
@@ -75,7 +75,7 @@ restored.”
 
 The heaven board clicked down to seven minutes. The sound was absurdly small.
 It reminded me of a clock in a hospital room, its hand jumping once each
-second while Asha watched the dark window.
+second while my sister Asha watched the dark window.
 
 Stay until morning, she had said.
 
@@ -83,8 +83,6 @@ I pressed my thumb against the unopened film. If the word beneath it was
 HEAVEN, then perhaps Asha had gone there. Perhaps I could find her. If it said
 HELL, then perhaps leaving her had been weighed and found heavier than
 everything else I had ever done.
-
-Either answer would make one night into a verdict.
 
 “I don’t have to look,” I said.
 
@@ -95,8 +93,8 @@ Either answer would make one night into a verdict.
 Hester glanced at the boards. “Not looking is something you can do. It will
 not stop the clocks.”
 
-I moved to the far end of the bench, away from her, and put the ticket into my
-pocket with the black film unbroken.
+I moved to the far end of the bench, away from her, and sat with the ticket
+face-down in my hand, the black film unbroken.
 
 ***
 
@@ -131,27 +129,27 @@ breath. Sabine smiled as if she had won something, then held up the ticket.
 Hester had returned to the information window. “There is no appeals desk I can
 direct you to.”
 
-“Even living courts let the accused speak.”
+“Nobody asked me anything.” Sabine said it to the ticket. “Nobody asked me one
+thing. Not one.”
 
-“I don’t know who assigned the word.”
+“I do not know who assigned the word.”
 
-“But you’ll enforce it.”
+“But you’re going to sit there and—”
 
-“I don’t control the gates or the trains.”
+“I do not control the gates or the trains.”
 
 Sabine rose and crossed to the waist-high gate beneath the heaven sign. When
 she put her ticket against the brass plate, the gate gave a soft red pulse and
 stayed shut. She tried again, holding the ticket flatter.
 
-“The door on the train opens on the platform side,” she said.
+“It’s the gate that reads them,” she said. “The train doors won’t, will they?”
 
 Hester’s hands settled on the counter. “Do not board that train.”
 
-Sabine looked over her shoulder. “You just said you don’t control it.”
+Sabine looked over her shoulder. “You just said you don’t control them.”
 
-“I said I do not control the door. I have seen three passengers enter a train
-that did not match their tickets. The train began to move. They did not
-continue on it.”
+“I do not. But I have seen three passengers enter a train that did not match
+their tickets. The train began to move. They did not continue on it.”
 
 “Where did they go?”
 
@@ -176,17 +174,17 @@ Sabine looked down at the word on her ticket. “And you watched.”
 
 The heaven board clicked to four minutes.
 
-Sabine came back to the bench but did not sit. “If that word is right, they
-should be able to tell me why. If it’s wrong, I’m not volunteering to make
-their mistake convenient.”
+Sabine came back to the bench but did not sit. “If I did something, somebody
+can tell me what. Nobody has. Nobody asked.” She jerked her chin at the hell
+board. “I’m not getting on that one because a ticket says so.”
 
-“What are you going to do?”
+“What are you going to do?” I asked.
 
-“Get on the other train.”
+She looked up at the heaven board. “Get on the nice one.”
 
 Hester said, “I have told you what I have seen.”
 
-“And I listened.” Sabine’s eyes stayed on mine. “The gate won’t open for me,
+“And I listened.” Sabine’s eyes came back to mine. “The gate won’t open for me,
 but the carriage door will. I need someone on the platform to keep it from
 closing.”
 
@@ -198,9 +196,9 @@ closing.”
 
 “Then maybe I’ll resist better.”
 
-There was humor in the angle of her mouth and terror beneath it. I could have
-said no. I could have told her the test was too expensive because she was the
-one paying for it.
+She was smiling with one side of her mouth. The hand holding her ticket would
+not keep still. I could have said no. I could have told her the test was too
+expensive because she was the one paying for it.
 
 Instead I pictured the black field on my ticket. If Sabine remained on the
 heaven train, the boards would become labels, nothing more. Asha might be
@@ -211,15 +209,10 @@ without loss.
 
 Hester’s voice sharpened. “Ruth.”
 
-It was the first time she had used my name. I mistook the shame I felt for
-proof that I was doing something brave.
+It was the first time she had used my name.
 
-Sabine held out her hand. I took it. Her fingers were cold, but no colder than
-mine.
-
-“If it works?” I asked.
-
-“Then one ugly word gets smaller.”
+Sabine held out her hand. I pushed my ticket into my pocket and took her hand.
+Her fingers were cold, but no colder than mine.
 
 ***
 
@@ -255,7 +248,7 @@ set my nail beneath it.
 
 “Ruth.”
 
-Sabine stood at the closing gate. Her own ticket had produced another red
+Sabine stood at the shut gate. Her own ticket had produced another red
 pulse. The carriage doors sounded a warning tone.
 
 I let go of my ticket.
@@ -265,9 +258,9 @@ Hester had not mentioned it, and she made no move to block it. Sabine turned
 sideways and forced herself through, scraping one hip against the brass post.
 The carriage doors began to meet.
 
-I caught one with both hands.
+I leaned across the gate and caught one with both hands.
 
-It pushed steadily, without violence, and I leaned my weight against it.
+It pushed steadily, without violence, and I put my weight against it.
 Sabine seized the rail and swung aboard.
 
 “Come with me,” she said.
@@ -297,10 +290,9 @@ It was dark red, nearly brown, with riveted sides and windows filmed by smoke.
 Dry heat pressed from it before it stopped. Its wheels complained against the
 track in a long metallic cry. I turned toward it for one second.
 
-Sabine struck the heaven-train window.
-
-The destination field on her ticket had darkened to ash gray around the black
-word HELL. The rest of the cream paper remained unchanged.
+Sabine struck the heaven-train window and held her ticket flat against the
+glass. Its destination field had darkened to ash gray around the black word
+HELL. The rest of the cream paper remained unchanged.
 
 Shadow was collecting under the blue seats. It rose in flat bands and wrapped
 her ankles. She kicked free of one and caught the brass luggage rack with both
@@ -355,7 +347,7 @@ The hell board read:
 Sabine came to the window opposite me.
 
 Smoke moved across the glass between us, thinning and thickening. When it
-cleared, I saw the pressure marks the luggage rail had left across her palms.
+cleared, I saw the pressure marks the luggage rack had left across her palms.
 She held up her ticket. Its destination field remained ash gray around the
 unchanged black word HELL.
 
@@ -372,8 +364,6 @@ unchanged black word HELL.
 “I could not have stopped the train. I might have tried to restrain her. Or
 you.” Hester looked at Sabine rather than at me. “I did not.”
 
-The answer gave me no clean place to put my anger.
-
 The platform gate beneath the hell sign stood closed, its brass plate dark.
 Heat lifted from the train in dry, unsteady waves. Behind Sabine, the carriage
 was dim but material: wooden benches, leather straps, brass bolts dulled almost
@@ -383,10 +373,6 @@ the tunnel.
 “If I board it,” I asked, “will it take me?”
 
 “Present your ticket and the gate will respond.”
-
-“That isn’t an answer.”
-
-“It is what I know.”
 
 “What if mine says heaven?”
 
@@ -411,13 +397,10 @@ had failed to show beside Asha. If it said heaven, I could spend whatever
 remained knowing that absolution had once been offered and that I had thrown it
 away.
 
-Both fantasies asked the station to finish my guilt for me.
-
 Sabine struck the glass once.
 
 The sound was muffled, but I flinched. She did not point to the closed gate or
-beckon me toward the train. She only looked at me. The fury in her face was
-not a message about my destination. It belonged to her.
+beckon me toward the train. She only looked at me.
 
 I went close enough that the heat tightened my skin.
 
@@ -478,9 +461,7 @@ another service.”
 Hester picked up her ledger. “No one I have seen.”
 
 The boards went dark. Without their words, the station became only tile, iron,
-and the stale smell of cooling brakes. There was no revelation in it. No voice
-told me that refusal was noble. My blank ticket did not become a key to
-something hidden.
+and the stale smell of cooling brakes. There was no revelation in it.
 
 Hester crossed behind the information window and pressed her palm to the
 painted rectangle in the wall. A narrow door opened without showing what lay
@@ -489,7 +470,7 @@ gray wall.
 
 I hurried after her. The opening narrowed before I reached it. I wedged the
 blank ticket into the gap. The door pushed the paper back without bending it
-and stopped a hand's width short of the frame.
+and stopped a hand’s width short of the frame.
 
 “Hester.”
 
@@ -503,9 +484,7 @@ She looked at me through the gap.
 
 “I don’t know that either.”
 
-The door sealed, leaving only the hairline in the paint.
-
-I was alone.
+The door sealed, leaving only the hairline in the paint, and I was alone.
 
 I thought of Asha’s room after I left it: the chair pulled close to her bed,
 the cup with its bent straw, the phone close enough for her to reach. I had
@@ -541,8 +520,8 @@ I picked up my blank ticket and moved toward her.
 
 She began to cry without sound.
 
-I sat at the other end of the bench, leaving the seat between us open. After a
-moment she crossed that space herself and caught my sleeve.
+I sat down with one seat between us and left it open. After a moment she
+crossed that space herself and caught my sleeve.
 
 “What happens?”
 
@@ -567,15 +546,13 @@ I showed her the blank paper. “I didn’t look.”
 
 She glanced toward the tracks. “Was it worth it?”
 
-The question had no answer that would not pretend I knew more than I did.
-
-“It was my choice,” I said. “And Sabine paid for part of it.”
+“Sabine paid for part of it,” I said.
 
 The woman looked down. With one careful pull, she peeled the film from her
 ticket. Her shoulders shook when she read the word, but she turned it so I
 could see.
 
-**HEAVEN**.
+**HEAVEN**
 
 “Is it?” she asked. “Heaven?”
 
@@ -588,10 +565,6 @@ could see.
 The rails began their distant song. She tightened her grip on my sleeve.
 
 “Will you stay until it comes?”
-
-My sister’s voice did not enter the station. No warmth passed through me. There
-was only this frightened stranger, the pressure of her fingers, and the
-approaching light.
 
 “Yes,” I said.
 
@@ -610,8 +583,8 @@ She watched me through the glass until the carriage entered the dark. The
 warmth went with it. The gate closed before me, and when I laid my blank ticket
 on the plate there was no light at all.
 
-The station offered no thanks. Across the tracks, the hell board continued its
-countdown for someone who had not yet appeared.
+Across the tracks, the hell board continued its countdown for someone who had
+not yet appeared.
 
 I returned to the bench. I sat at one end and laid the useless ticket on my
 knee, leaving the place beside me clear.
