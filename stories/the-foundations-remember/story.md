@@ -136,7 +136,7 @@ Ovik answered before the first tone finished. His voice came from the booth spea
 
 Haru watched her rather than the speaker grille. "Ask him why they sent memory recovery instead of Structures."
 
-Amel muted the room pickup. "The recalled site includes a worn stair, a repaired lintel, and a cut handhold beneath the claimed foundation layer."
+"The recalled site includes a worn stair," Amel said, "a repaired lintel, and a cut handhold beneath the claimed foundation layer."
 
 "The subject maintained Line Zero for nineteen years," Ovik said. "He had access to models, construction stock, and enough procedural knowledge to fabricate a persuasive episode."
 
@@ -160,7 +160,7 @@ Ovik paused, not long enough to suggest surprise. "Complete required validation.
 
 He did not disconnect. The line stayed live and soundless.
 
-Amel restored the room pickup. "We're continuing."
+"We're continuing," Amel told Haru.
 
 "He told you to wipe it."
 
