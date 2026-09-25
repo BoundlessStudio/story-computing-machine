@@ -214,7 +214,7 @@ Kethra did not blink.
 
 She set the slate down on the washstand with care. Her hands began to sign, then stopped. She picked it up again. *Put out?*
 
-"Of the practice room, once he unlocked it." I swallowed. "Of the house, afterward."
+"Of the practice room, once he unlocked it. Of the house, afterward."
 
 *Locked?*
 
