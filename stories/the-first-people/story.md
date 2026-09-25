@@ -58,7 +58,7 @@ The translator offered *harbor*, *male offspring*, and then the sound itself.
 
 “Heshi.”
 
-“Heshi.” His third try came close enough. He tipped his head at the pulse in the clouds, then pointed toward the house. “Unless you'd rather explain that in the rain.”
+“Heshi.” His second try came close enough. He tipped his head at the pulse in the clouds, then pointed toward the house. “Unless you'd rather explain that in the rain.”
 
 She understood the pointing, if nothing else, and followed.
 
@@ -166,7 +166,7 @@ He opened a red cover beneath the wall panel. There were two empty sockets insid
 
 “Burn it, then,” Heshi said.
 
-Martin did not reach for the cover. He pointed to the counters, one by one. A refuge whose atmosphere scrubbers came by road. A vessel between stars. A habitat supplied from a system with no habitable world. The translator lost his qualifiers, so he wrote numbers in the condensation on the window. Transit loads. Food intervals. Days by road becoming months by the fastest human craft, months becoming years. Heshi watched him make the cost too plain to turn into legend.
+Martin did not reach for the sockets. He pointed to the counters, one by one. A refuge whose atmosphere scrubbers came by road. A vessel between stars. A habitat supplied from a system with no habitable world. The translator lost his qualifiers, so he wrote numbers in the condensation on the window. Transit loads. Food intervals. Days by road becoming months by the fastest human craft, months becoming years. Heshi watched him make the cost too plain to turn into legend.
 
 “I did not come to ask this.”
 
