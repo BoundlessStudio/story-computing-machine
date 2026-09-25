@@ -8,21 +8,21 @@ canon: false
 
 # The Morning Her Hand Moved
 
-The water in the heel cistern was running uphill.
+The plumb at the heel post was hanging toward the fingers.
 
-Zunel noticed because the white gauge float, which should have rested against the dawn mark, climbed the eastern wall of its cage and stayed there. Beyond it, the whole right palm lay in blue half-light: nearly two miles of crease roads, basin wards, and steep knuckle temples, all carved into stone that had been level since the oldest survey. The four fingers made a low black horizon. Between their roots, bells waited for sunrise.
+Zunel noticed because the brass bob, which should have rested over the dawn mark, had swung against the eastern bars of its cage and stayed there. The two bell keepers on the post watch were already staring at it. Beyond them, the whole right palm lay in blue half-light: nearly two miles of crease roads, basin wards, and steep knuckle temples, all carved into stone that had been level since the oldest survey. The four fingers made a low black horizon. Between their roots, bells waited for sunrise.
 
 The goddess lay supine beneath every place anyone knew: rib towns, throat stairs, ankle quarries, the gardens on this forearm. For a thousand years, the ledgers had said her death came before their beginning. They preserved neither a name nor an origin for her, only the work of living on what remained.
 
-“Close the lower sluices,” she told the two waterkeepers. “Leave the forearm feed open.”
+“Wake the finger wards,” Zunel told the keepers. “Door to door. Don't ring anything yet.”
 
-One stared at the tilted float. “The gate wheel's below the waterline.”
+One of them looked at the bob. “What do we tell them?”
 
-“Then use the dry bypass.”
+“That the heel post moved. Nothing else.”
 
-The other keeper was already running. Zunel set her tool case down and knelt. The street under her palm felt warm—not sun-warm, not yet, but a shallow heat moving just beneath the polished gray surface. It passed under her hand toward the fingers. Dust lifted from the joints between paving cuts and hung there.
+The other keeper was already running. Zunel set her tool case down and knelt. The street under her palm was warm before any sun had reached it, a shallow heat moving just beneath the polished gray surface. It passed under her hand toward the fingers. Dust lifted from the joints between paving cuts and hung there.
 
-A bell rang once behind her. Not a struck note. Its bronze mouth had swung on its own.
+A bell rang once behind her. No one stood at its rope; the bronze mouth had swung on its own.
 
 “Zunel!”
 
@@ -32,21 +32,19 @@ Aksor came down from the wrist gardens without his dawn mantle, carrying one of 
 
 The stone struck the soles of their feet.
 
-It was not an impact from above. The pressure came lengthwise through the goddess, from the unseen torso beyond the forearm gardens, and compressed the palm so broadly that the cistern cage gave one clean iron note.
+It was not an impact from above. The pressure came lengthwise through the goddess, from the unseen torso beyond the forearm gardens, and compressed the palm so broadly that the plumb cage gave one clean iron note.
 
-“One,” Yeshal said. She caught her plumb reel before it fell. “Up-arm shafts crossed first. I think they crossed first.”
+“One,” Yeshal said. She caught her plumb reel before it fell. “From up-arm. My back foot took it first. I think my back foot.”
 
-The second wave shoved water over the cistern's eastern lip. All along the heel ward, shutters rattled inward.
+The second wave slammed the bob against its bars. All along the heel ward, shutters rattled inward.
 
-“Two. The interval is shorter here. Or the clocks disagree. They may disagree.”
+“Two. Already. That came so fast.”
 
 Aksor lowered his bowl to the street. Tiny rings ran across its water before the third compression arrived. That one made the crease road sound: a deep tone under the paving, too low to be heard in the ears alone.
 
-“Three,” Yeshal said. “Three. There were exactly three.”
+“Three,” Yeshal said. “Three. Is it stopping?”
 
-Zunel looked from the climbing float to the black finger horizon. “How long after the third up-arm?”
-
-“Nine seconds at the first shaft. Perhaps eight. I can't promise the clocks.”
+Zunel did not answer. She looked from the leaning bob to the black finger horizon and counted seconds aloud, the way she counted a span under test load, waiting for a fourth.
 
 At seven, the eastern bells began to swing.
 
@@ -60,7 +58,7 @@ She seized the heel bell and struck evacuation.
 
 The first plan lasted eleven minutes.
 
-Zunel ran for the main wrist avenue with her tool case hammering her thigh. Its broad bridge crossed the deepest wrist crease from the palm heel to the first forearm gardens. Beneath the deck, an aqueduct carried most of the hand's stored water up-arm. If the avenue held, every litter and cart could leave on a road six abreast.
+Zunel ran for the main wrist avenue with her tool case hammering her thigh. Its broad bridge crossed the deepest wrist crease from the palm heel to the first forearm gardens. Four black counterweights hung beneath its forearm end, balancing the deck. If the avenue held, every litter and cart could leave on a road six abreast.
 
 “Bring the cross-braces,” she told the bridge crew. “Clamp both lips before the heel rises.”
 
@@ -74,7 +72,7 @@ Behind her, Polaq was coming down the avenue against the first stream of residen
 
 “Then find four.”
 
-The palm shifted beneath them. Not yet a jointed lift—only the consequence of the curling fingers. Water abandoned the outer channels and began to braid toward the center crease. Fruit carts rolled sideways until their owners caught the shafts.
+The palm shifted beneath them. The heel had not lifted yet; the curling fingers were dragging at it. Loose grit ran across the paving toward the center crease. Fruit carts rolled sideways until their owners caught the shafts.
 
 Aksor reached the avenue as the crew laid the first iron cross-brace over the wrist crack. He put one bare foot on each side, then stepped off at once.
 
@@ -82,41 +80,41 @@ Aksor reached the avenue as the crew laid the first iron cross-brace over the wr
 
 “They don't need to. The brace shares the load.” Zunel drove a holding pin through the near shoe. “West anchor first.”
 
-“When I set the bowls along the crease, I level each side alone.” Aksor crouched and pressed his fingertips to one lip, then the other. “This one is rolling toward my heel. This one is drawing away.”
+“When I set the bowls along the crease, I level each side alone.” Aksor crouched and pressed his fingertips to one lip, then the other. “This one is tipping toward the palm.” He tilted his flat hand to show her. “This one is drawing away.”
 
 “I heard you.”
 
-She had not. Polaq was listing unanswered terraces, Yeshal was calling pulse intervals from the forearm, and the avenue was still the only route wide enough for the infirmary carts. Zunel fastened the second shoe. The brace bowed as the gap widened beneath it.
+She had not. Polaq was listing unanswered terraces, Yeshal was calling intervals off her plumb line, and the avenue was still the only route wide enough for the infirmary carts. Zunel fastened the second shoe. The brace bowed as the gap widened beneath it.
 
 “No more weight on the center!” she shouted. “Carts to the edges.”
 
-“The edges are what are parting,” Aksor said.
+“Hold the carts.” Aksor was still crouched, a hand on each lip. “The palm lip is dropping. Set a bowl on it now and it would run. This one hasn't moved.”
 
 The palm began to cup.
 
-It happened first as a change in water. The heel cistern spilled out of its square and sent a silver sheet down the avenue toward the palm center. Farther away, whole channels reversed, carrying roof tile, baskets, and garden soil into the deepening hollow. Then the street itself bent. The palm-side lip rolled down while the wrist-side lip stayed high.
+It happened first as a change in water. The rain pools of the basin wards ran out of their hollows and slid toward the palm center in silver sheets. Farther away, whole streets turned to runnels, carrying roof tile, baskets, and garden soil into the deepening hollow. Then the street itself bent. The palm-side lip rolled down while the wrist-side lip stayed high.
 
 The cross-brace did exactly what Zunel had ordered: it fastened surfaces moving apart.
 
-Its west anchor tore a slab from the avenue. The slab struck the aqueduct housing; a bright crack raced up the pipe. One bridge worker fell to her knees, still holding the pin maul.
+Its west anchor tore a slab from the avenue. The slab struck the bridge deck; a bright crack raced across the paving toward the rail. One bridge worker fell to her knees, still holding the pin maul.
 
 “Cut it,” Aksor said.
 
 Zunel was already sawing through the brace lashing. The iron sprang free hard enough to take her case into the widening crease. Half her instruments vanished without reaching bottom.
 
-“Main avenue closed!” she called. The words hurt more than the lost tools. “Sever the aqueduct on the forearm side. Save the upper head.”
+“Main avenue closed!” she called. “Crew off the deck. Everyone forearm side.”
 
-Yeshal caught her sleeve. “The wrist plumbs are changing. Not another three—this isn't another set, I don't mean that. It's the same strain moving outward. The thumb shafts are next.”
+Yeshal caught her sleeve. “My line's swinging thumb-side now. It's the same strain, moving outward. The thumb is next.”
 
 Zunel pulled loose. “Which route remains?”
 
-Polaq answered before Yeshal could qualify again. “Outer-wrist ledge. Single file past the lamp quarry, two abreast after. The medicine cart won't fit. The goat pens will jam the turn. There are still one hundred thirteen in the heel ward, not counting whoever came down from the fingers.”
+Polaq answered first. “Outer-wrist ledge. Single file past the lamp quarry, two abreast after. The medicine cart won't fit. The goat pens will jam the turn. There are still one hundred thirteen in the heel ward, not counting whoever came down from the fingers.”
 
 “Empty the cart into hand bundles. Release the goats up-arm one pen at a time.”
 
-“People will go back for cistern jars.”
+“People will go back for their water jars.”
 
-Zunel looked at the cracked aqueduct. The lower pipe bucked once, showering them with cold water.
+Zunel looked at the cracked deck. Another length of its rail broke away and dropped into the crease.
 
 “No one goes back.”
 
@@ -130,13 +128,13 @@ Zunel moved against the evacuation, one shoulder to the wall. “Eight at a time
 
 “My sister has the fever medicine,” a man said. He held a sleeping child and nothing else. “She was behind us.”
 
-Polaq touched the seventh knot on one register cord. “Herb vault group. They have six bundles and the blue fever case. Keep moving; I'll mark the child with them.”
+Polaq touched the seventh knot on one register cord. “Herb vault group. They have six bundles and the blue fever case. Keep moving. I'm tying the child's knot in with theirs, so you'll be counted together when you reach them.”
 
 At the turn, a girl had wrapped both arms around a horned garden goat that refused the dark ledge.
 
 “He won't leave me,” she said.
 
-Aksor took the lead rope. The phrase he began had the shape of a bowl blessing, but dust shook from the wall and the goat lunged.
+Aksor reached for the lead rope. The phrase he began had the shape of a bowl blessing, but dust shook from the wall and the goat lunged.
 
 “No. Put your foot flat,” he told the girl. “Flat. Hip to the wall. Give me the rope.” He drew his sleeve over his free hand, covered the goat's eyes, and pulled it through.
 
@@ -148,11 +146,7 @@ Zunel saw the change across the palm: the broad thumb mound rising like a hill p
 
 “Inner route gone,” she said.
 
-Polaq coughed dust into his sleeve. “Sixty-two from the basin wards were on it.”
-
-Zunel stared at him.
-
-“Were. They turned at the potters' arch. I counted them onto this ledge. Forty adults, thirteen children, seven carrying litters, two carrying the old dog in a grain sling. Sixty-two.” His next breath hitched. “But the undercroft group still hasn't joined the middle-finger count.”
+She was still looking at the empty landing when Polaq coughed dust into his sleeve. “The basin wards are off it. They turned at the potters' arch. I counted them onto this ledge: forty adults, thirteen children, seven carrying litters, two carrying the old dog in a grain sling. Sixty-two.” His next breath hitched. “But the undercroft group still hasn't joined the middle-finger count.”
 
 “How many?”
 
@@ -168,55 +162,63 @@ Nobody could hear over the bells. Polaq turned and shouted names instead.
 
 The crowd stopped in pieces, one known group at a time.
 
-Yeshal lowered a weighted line over the broken curb. It swung toward the forearm, then back toward the palm. “The wrist is lifting and turning. The rate isn't steady. It may narrow again in forty seconds. Or thirty. The line catches wind here; it may be thirty.”
+Yeshal lowered a weighted line over the broken curb. It swung toward the forearm, then back toward the palm. “Lifting and turning. It'll pinch again. Thirty seconds. Maybe less.”
 
 “Send them all,” Zunel said. “No spacing.”
 
-“No.” Aksor had both hands on the litter at the pinch. His ceremonial voice was gone. “The strip kicks when the wrist pulls. Four, then wait. Knees bent. Watch my foot.”
+“No.” Aksor had both hands on the litter at the pinch. “The strip kicks when the wrist pulls. Four, then wait. Knees bent. Watch my foot.”
 
 “We don't have time.”
 
 “Then stop talking and hold this corner.”
 
-Zunel took the litter pole. The first group crossed while Aksor counted through his fingers against the wall: touch, release, touch, release. The stone tightened under the fourth pair, relaxed under the fifth. Not a prediction, only a sequence the body had given them often enough to use once.
+Zunel took the litter pole. The first group crossed while Aksor counted through his fingers against the wall: touch, release, touch, release. The stone tightened under the fourth pair, relaxed under the fifth.
 
 They staggered the crossing. Four residents moved; the bearers set a litter down; three goats were hauled through blind; a water carrier abandoned two jars and kept one. At every pull in the wrist, the ledge thinned another handspan. Zunel stopped calling the whole route and began listening for Aksor's “Now.”
 
-When the last visible group reached the forearm side, Polaq was not at the tally post.
+When the last visible group reached the forearm side, Aksor kept his palm on the wall a moment longer, as if the count had not finished. Then he looked past Zunel to the end of the ruined avenue, where the four counterweights still hung under the broken deck.
 
-“He went up-arm,” Yeshal said. “To the west herb shelter. The seventeen may be there. They may be; the pump-gallery mark isn't a count.”
+“Those weights,” he said. “Let them down on her. One at a time, four, with a wait between, the way I touch the shelf at the tables.”
+
+Zunel was looking for the tally post. Polaq was not at it.
+
+“Where's Polaq?”
+
+“He went up-arm,” Yeshal said. “To the west herb shelter. Somebody chalked seventeen at the lamp gallery, and he said chalk isn't a count.”
 
 Zunel looked toward the bridge releases, then away. “No weights until he closes the register.”
 
-The stone moved under her boots. Wrist first: the palm heel lifted, increasing the ledge's slope until discarded jars rolled down-hand. Then the change traveled into the forearm. Garden terraces that had faced the sky tilted a few degrees toward the body's outer side. Irrigation water climbed one row and drained from another. The forearm remained broad and comparatively level, but every old straight line on it had become an argument with gravity.
+The stone moved under her boots. Wrist first: the palm heel lifted, increasing the ledge's slope until discarded jars rolled down-hand. Then the change traveled into the forearm. Garden terraces that had faced the sky tilted a few degrees toward the body's outer side. Loose soil slid from one bed into the next. The forearm remained broad and comparatively level, but every old straight line on it had become an argument with gravity.
 
 Aksor caught Zunel's belt as the terrace lurched. “Knees loose. Don't fight the turn.”
 
-She almost pulled away. Routes, failure, load: those were hers. Then her heel slipped toward the outer irrigation row, and she let him pull her against the wall.
+She almost pulled away. Routes, failure, load: those were hers. Then her heel slipped toward the outer bed, and she let him pull her against the wall.
 
 A brass hand bell sounded up-arm—three quick, one late—and Polaq appeared at the top of the garden steps.
 
-“The seventeen crossed before the main avenue failed,” he said as soon as he had breath enough to speak. “Temru sent them through the pump gallery up-arm. Six undercroft keepers, four lamp children, three old residents, two cooks, the copyist, and the copyist's son. All seventeen are in the west herb shelter. I saw them. I touched every register tile.”
+“Seventeen,” he said, and had to stop for air. “Crossed before the avenue failed. Temru sent them up-arm through the lamp gallery. Six undercroft keepers, four lamp children, three old residents, two cooks, the copyist, and the copyist's son. West herb shelter. I saw them. I touched every register tile.”
 
 “Full count?” Zunel asked.
 
-Polaq swallowed and looked at his cords. “Five thousand two hundred eighty-one assigned to the inhabited hand districts at last night's close. Five thousand two hundred sixty-four crossed the ledge or the main avenue under my count. Seventeen entered the pump gallery under Temru's count and are present in the shelter. Five thousand two hundred eighty-one living residents accounted for.”
+Polaq swallowed and ran his thumb down his cords. “Five thousand two hundred eighty-one on last night's tiles. Five thousand two hundred sixty-four through my hands, ledge and avenue.” He breathed. “And Temru's seventeen. That's everyone.”
 
-Only then did Zunel look up-arm toward the bridge counterweights.
+Only then did Zunel look back toward the bridge counterweights.
 
 * * *
 
-The four counterweights hung beneath the forearm end of the ruined avenue, each a block of dense black stone taller than a person. In ordinary use they balanced the bridge deck. Dropped, they would strike an exposed shelf of the goddess's wrist. The impacts would travel inward. The deck, relieved of their pull, would roll into the crease and make return impossible.
+The counterweights were blocks of dense black stone, each taller than a person. In ordinary use they balanced the bridge deck. Dropped, they would strike an exposed shelf of the goddess's wrist. The impacts would travel inward. The deck, relieved of their pull, would roll into the crease and make return impossible.
 
-Aksor put his dawn bowl on the garden wall. Half its water remained.
+Aksor took a bowl from the forearm dawn table, still set from before sunrise, and put it on the garden wall above the releases. Half its water had slopped out.
 
-“At the dawn tables, we set four bowls from forearm to wrist,” he said. “For the rooms below, I touch the shelf once at each setting. Touch, wait, touch. Four spaced touches. Not speech. Enough to be unlike one fallen tray.”
+“Four,” he said. “Let me have four. At the tables I touch the shelf once at every bowl, for her. Touch, wait, touch. A tray falls once. Four with waits between is somebody on her hand.”
 
-Yeshal checked the line of her plumb against the new angle of the terraces. “The three compressions traveled from torso to limb. Surface pressure travels inward too; the cistern hammers prove that. I can say the impacts will enter the stone. I can't say where they go after. I can't say they're felt.”
+Yeshal checked her plumb against the new angle of the terraces. “The waves this morning came down the arm from her body. These would go the other way, into the stone, and past the shelf I can't follow them.”
 
-“Four weights close the bridge,” Zunel said.
+Zunel didn't look at the releases. She looked at Aksor. “At the brace,” she said. “You told me, and I said I heard you.”
 
-“The bridge is closed down-hand already,” Polaq replied. He was still breathless, still exact. “No residents remain beyond it. Two bridge workers want their tool chest. One waterkeeper wants the lower-gate keys. Nothing living is uncounted.”
+Aksor moved the bowl a finger's width along the wall until its water lay level.
+
+Polaq came along the wall, still dragging air between sentences. “Nobody's past the bridge. Two of the crew want their tool chest. One of the heel-post bell keepers wants his ward keys.”
 
 Zunel looked across the wrist. The former avenue ended in air where her brace had torn out the slab. Beyond, the palm ward lay at an impossible angle, its water gathering in a shining lake along the central crease. The fingers curved above it. No path home remained that she could certify.
 
@@ -230,21 +232,21 @@ Aksor watched rings widen in his bowl. He waited until they vanished. “Second.
 
 The second impact followed. The bridge deck lifted on one side.
 
-Yeshal counted under her breath, checking not the goddess but the interval they themselves could control. At her raised hand, Zunel freed the third catch. The weight struck; the deck's outer rail twisted down into the crease.
+Yeshal counted under her breath. At her raised hand, Zunel freed the third catch. The weight struck; the deck's outer rail twisted down into the crease.
 
-“Last,” Aksor said, and could manage nothing ceremonial beyond it.
+“Last,” Aksor said. He had both palms around the bowl.
 
 Zunel pulled the fourth release.
 
 The final weight hit warm stone. Four separated tones had gone inward. The bridge rolled off its remaining balance shoes and settled steeply between the parting wrist surfaces, closing the return as completely as a fallen gate. With all four weights gone, no mechanism on the limb could raise it again.
 
-No one spoke for a while. They were listening to the ongoing strain, not for an answer.
+No one spoke for a while. The wrist went on rising, and dust streamed from the crease. Across the palm, the thumb finished its sweep and lay still over the ruin of the inner stair. Then, later—long enough that Yeshal checked two plumbs and reset one—the stone tone lowered. The forearm's gradual turn slowed. Water in Aksor's bowl crept toward its new edge and stopped there without spilling.
 
-The wrist continued to rise. Dust streamed from the crease. Then, later—long enough that Yeshal checked two plumbs and reset one—the stone tone lowered. The forearm's gradual turn slowed. Water in Aksor's bowl crept toward its new edge and stopped there without spilling.
+“It's slower,” Yeshal said. “Since just after the fourth. The thumb stopped about then.”
 
-“The rate changed,” Yeshal said. “After the impacts, yes. Also after the thumb completed its turn. Also after the load shifted from the bridge. We don't know which comparison matters. We don't know that any of them matter.”
+Aksor laid his palm flat on the garden wall and left it there.
 
-Zunel nodded. The hand rested cupped below them, holding floodwater, broken roofs, and the long shadows of its own fingers. It had not returned to stillness as they had known it. It had merely stopped moving for now.
+The hand rested cupped below them, holding floodwater, broken roofs, and the long shadows of its own fingers.
 
 * * *
 
@@ -252,11 +254,11 @@ By late morning, the forearm gardens had become a settlement of awnings and coun
 
 The terrace keepers objected when Zunel marked the seed sheds for families, and one refused to move a tray of winter shoots until Polaq found dry wall space for it. No one voted. No proclamation traveled down the arm. Work moved by argument, bell relay, and whatever width remained between the garden beds.
 
-Zunel drew new routes in charcoal on the irrigation wall.
+Zunel drew new routes in charcoal on the terrace wall.
 
-“Upper cistern to the fever shelter first,” Aksor said. He had divided the surviving bowl water among four infants before beginning the larger ration. “Then one cup each by midday. The goat trough gets drainage, not drinking water.”
+“Fever shelter first,” Aksor said. He had divided the bowl's water among four infants before starting on the carried jars, which stood along the terrace with their stoppers out. “Then a cup each. I'll pour. Anyone carrying a child drinks twice.”
 
-“The west terrace can't bear sleeping platforms and a full cistern queue,” Zunel said. “Put the queue along the second garden wall. Keep the center clear for litters.”
+“The west terrace can't take sleeping platforms and a line for the jars,” Zunel said. “Put the line along the second garden wall. Keep the center clear for litters.”
 
 Polaq followed the charcoal with one finger. “The copyist's son can't manage those steps. The old dog won't either. Give them the lower seed shed, and the blue fever case needs a runner every hour.”
 
@@ -264,24 +266,26 @@ Polaq followed the charcoal with one finger. “The copyist's son can't manage t
 
 Yeshal had set three plumbs where the forearm began to curve toward the wrist. “I need people who can call intervals without rounding them.”
 
-“Two waterkeepers,” Zunel said. “They know level changes.”
+“The two bell keepers from the heel post,” Zunel said. “They saw the bob move first.”
 
-“Not the one who lost the gate keys,” Polaq said. “He's gone down the garden wall to look again.”
+“Dovan's gone down the garden wall to look for his ward keys,” Polaq said. “Sella's here.”
 
-Zunel's first answer rose sharp enough to send him after the man. She stopped it.
+Zunel's first answer rose sharp: have him hauled up by the collar and struck off the bell rota. She stopped it.
 
 “Put a barrier at the broken avenue,” she said instead. “Then bring him back. The keys don't open anything we can reach.”
 
 Aksor pressed the charcoal into her hand before it rolled from the tilted wall. “And if the bowls warm?”
 
-Yeshal answered while Zunel added a second route around the seed sheds. “Call warmth first. Then each compression separately. Don't call motion until a joint moves.”
+Nobody answered at once. Zunel closed her fingers on the charcoal. Down the terrace, the girl's goat was complaining at its tether.
 
-“Three bells for the waves?” Aksor asked.
+“Then you come and tell me,” she said. “Before anyone rings anything.”
 
-“One bell, three counts,” Zunel said. “The evacuation bell stays separate. Polaq, set runners from here to the upper gardens. No one uses the wrist ledge without my inspection.”
+Yeshal spoke from beside her plumbs. “Warmth first. Then every wave on its own, with the gap after it. Nobody calls it moving until a joint moves.”
 
-Polaq looked toward the cupped hand, then down at his full register cords. “And the outer route?”
+“One bell for each wave,” Zunel said. “The evacuation bell stays separate. Polaq, set runners from here to the upper gardens. No one uses the wrist ledge without my inspection.”
 
-“Measure it every hour. Don't promise it.”
+Polaq looked toward the cupped hand, then down at his full register cords. “The copyist wants to know when he can go back for the books.”
 
-He went to find the runners. Aksor carried the ration bowl to the next awning. Yeshal knelt beside her plumbs with a water clock between her knees. Zunel remained at the wall, assigning shelter loads and drawing paths on the forearm as it now lay: not the old straight streets, not a map beyond the day, but two ways to water and one clear way for the litters.
+“Tell him not today.”
+
+He went to find the runners. Aksor carried the ration bowl to the next awning. Yeshal knelt beside her plumbs with a water clock between her knees. Zunel remained at the wall, assigning shelter loads and drawing the forearm as it now lay, with two ways to water and one clear way for the litters.
