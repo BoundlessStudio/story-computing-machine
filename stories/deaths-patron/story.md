@@ -112,7 +112,7 @@ She looked once. "Stand it on end. Take the feet off."
 
 "They're carved on."
 
-"Then leave it. Send them over the top and down the west stair."
+"Then leave it. Send everyone over the top and down the west stair."
 
 At the next corner a girl was dragging a chandler's handcart uphill, coils of thin rope heaped on the load.
 
