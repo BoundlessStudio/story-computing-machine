@@ -18,7 +18,7 @@ She stood with both hands clasped at the buckle of a white cinch belt. Her dress
 
 She was also blushing so hard that the pink reached the fine silver seams in front of her ears.
 
-On her belt, secured in a black molded holster, she carried a railgun about the size of a large flashlight. A blue lock tab crossed the trigger guard. The charge window was dark. Small did not make it decorative.
+On her belt, secured in a black molded holster, she carried a railgun about the size of a large flashlight. A blue lock tab crossed the trigger guard. The charge window was dark. The holster's edges had worn pale from handling.
 
 I lowered my voice as well as the music. "I can move the speakers. Or use headphones. I didn't realize anyone had moved into four-twelve."
 
@@ -32,7 +32,7 @@ Behind me, a bass guitar worried the same bright phrase over and over at a volum
 
 "No. Sorry. The title is *Satellites for Beginners*."
 
-She repeated it carefully. Her voice was soft, but not frail. There was a faint second note beneath it, a resonant mechanical hum that vanished when she stopped speaking. "Do you like it?"
+She repeated it carefully. Her voice was soft and steady. There was a faint second note beneath it, a resonant mechanical hum that vanished when she stopped speaking. "Do you like it?"
 
 I had owned the record for nine years and had played it twice. "Very much."
 
@@ -54,7 +54,7 @@ Pink rose all the way to her temples.
 
 Or perhaps I had not begun to understand anything.
 
-She had tucked a second record behind mine, in a green paper sleeve softened at the corners. "You said you liked bass. This one has a good bass part in the second track. I think. It makes the glasses in my cupboard walk toward one another."
+She had tucked a second record behind mine, in a green paper sleeve softened at the corners. "Your bass comes through the wall more than anything else. I thought you must like it. This one has a good bass part in the second track. I think. It makes the glasses in my cupboard walk toward one another."
 
 "That's a recognized critical standard."
 
@@ -68,7 +68,7 @@ I put it on while she was still in the hall. The first track was smooth electron
 
 "This one seems like you," I said.
 
-Suzette had made it two doors away. Her boots stopped. "Why?"
+Suzette was at her own door with her key out. She turned. "Why?"
 
 There were too many possible answers, and several would have made me sound like I had assembled her from the dress outward. "It's neat. Cheerful."
 
@@ -78,7 +78,7 @@ She listened for four bars. "I don't like this track."
 
 "It's too neat." She tucked a black-gloved finger beneath the strap of her holster and settled its weight more comfortably. "The second track drops things."
 
-Then she went home, leaving me with the useful discovery that sweetness did not oblige her to approve of my guesses.
+Then she went home.
 
 The second track dropped a drum kit down a flight of stairs and recovered beautifully. I liked it much better.
 
@@ -128,9 +128,9 @@ Beside the door, she pressed two fingers to a recessed wall box. Its lid opened.
 
 "Yes." She looked at me, waiting.
 
-There was no invitation to turn her habit into a biography. I set down the crate. "Where's the dangerous table?"
+I set down the crate. "Where's the dangerous table?"
 
-She pointed to the small lacquered circle. We put a felt pad under each of its three legs and moved it beside the settee. Suzette could have lifted it alone. When I took most of the weight anyway, she let go and allowed me my moment of unnecessary usefulness.
+She pointed to the small lacquered circle. We put a felt pad under each of its three legs and moved it beside the settee. Suzette could have lifted it alone. When I took most of the weight anyway, she let go.
 
 "There," I said. "Maximum floor."
 
@@ -140,7 +140,7 @@ She chose the first record. It began with handclaps, a cheerful organ, and a wom
 
 I crouched by my crate and began sorting.
 
-"This next one has a better pressing than the copy I lent you," I said. "And this one is strange, but in a disciplined way. The percussionist used kitchen pans. Supposedly."
+"This one's the same glassy synth pop as the first track on your green record, but the mix is better," I said. "And this one is strange, but in a disciplined way. The percussionist used kitchen pans. Supposedly."
 
 "Do you want to hear it?"
 
@@ -148,15 +148,13 @@ I crouched by my crate and began sorting.
 
 "Later, perhaps."
 
-I made a second stack. Selecting music gave my hands a job and placed me at the edge of the room, where I was most comfortable. Suzette kept moving. The silver articulations in her ankles made tiny adjustments above the stiff shafts of her boots. She knew the beat but did not submit to it; sometimes she caught it, sometimes she let it pass and turned under the next one.
+I made a second stack. Suzette kept moving. The silver articulations at her knees made tiny adjustments above the stiff tops of her boots. She knew the beat but did not submit to it; sometimes she caught it, sometimes she let it pass and turned under the next one.
 
 A dull bang came through the ceiling.
 
 I glanced up. "If they keep doing that, we can put on my worst record and aim the speakers upward. Ruin their evening in self-defense."
 
-Suzette stopped moving.
-
-It was not offended stillness. Her eyes shifted slightly, as though searching a shelf where nothing had been filed.
+Suzette stopped moving. Her eyes shifted slightly, as though searching a shelf where nothing had been filed.
 
 "That would not defend us," she said.
 
@@ -170,7 +168,7 @@ I rose from the records. "I don't follow."
 
 "You can't think anything bad?"
 
-"I can think your tidy record is bad."
+"I can think your tidy record is bad. From the description."
 
 "Right. Fair."
 
@@ -178,19 +176,19 @@ I rose from the records. "I don't follow."
 
 "Please do."
 
-"The old description says I can't think evil thoughts or dirty thoughts. By dirty, it means sexual thoughts. Not mud." She managed the sentence in one careful run, then went crimson from cheekbones to ear seams.
+"The papers from my fitting say I can't think evil thoughts or dirty thoughts. By dirty, they mean sexual thoughts. Not mud." She managed the explanation in one careful run, then went crimson from cheekbones to ear seams.
 
 I kept my eyes on hers. "Okay."
 
 "They are thoughts I don't have. The filters don't stop me from saying the words."
 
-"Okay," I said again. It seemed more respectful than turning her explanation into a question period. "And I'm done with revenge jokes."
+"Okay," I said again. "And I'm done with revenge jokes."
 
 "You didn't know."
 
 "Now I do."
 
-The singer on the record reached the chorus for the third time. Suzette's blush had not faded. It occurred to me how often I had treated it like a caption under her face, translating every word into an emotion she had not named.
+The singer on the record reached the chorus for the third time. Suzette's blush had not faded.
 
 "Does that always mean you're embarrassed?" I asked, tapping my own cheek.
 
@@ -200,13 +198,13 @@ The singer on the record reached the chorus for the third time. Suzette's blush 
 
 "Very unreliable."
 
-She crossed to the turntable and lifted the needle before the last chorus finished. From my crate she selected the tidy electronic record I had said seemed like her. She held it up between both white gloves.
+She crossed to the turntable and lifted the needle before the last chorus finished. From my crate she selected the glassy synth-pop record, the neat one I had packed because I still thought it suited her. She held it up between both white gloves.
 
 "Not this one," she said.
 
 "Not this one."
 
-She put on the green-sleeved record instead and skipped straight to the second track. The first drum hit came in sideways. The bass followed half a breath late, heavy enough to stir the fine hairs on my wrists.
+She put on her own green-sleeved record, which I had brought back in the crate, and skipped straight to the second track. The first drum hit came in sideways. The bass followed half a breath late, heavy enough to stir the fine hairs on my wrists.
 
 Suzette stepped back into the open floor.
 
@@ -226,15 +224,13 @@ She laughed. It came out with that low mechanical harmony under it, warm and sli
 
 "Preventive handling."
 
-Suzette's hands went still at her sides. Her face was bright red, but the color could not answer for her.
+Suzette's hands went still at her sides. Her face was bright red.
 
 "Robin," she said, barely louder than the music. "I have records."
 
 "Better ones than mine, apparently."
 
-She glanced down, and I heard the request hidden inside my line: tell me my records weren't a nuisance; tell me I wasn't. She left it unanswered.
-
-"I wanted another dancer," she said.
+She glanced down. "I wanted another dancer."
 
 The bass knocked gently through the floor. A paper sleeve slid from my tidy line and flopped flat.
 
@@ -248,9 +244,9 @@ I remembered leaning over my speakers with one shoulder jumping, unaware of an a
 
 "Coincidence."
 
-Suzette did not laugh. She waited, growing quieter rather than retreating. "Do you mean no?"
+Suzette did not laugh. When she spoke again, it was quieter. "Do you mean no?"
 
-I could have said yes. I could have packed the records, left with everybody's dignity mostly unopened, and spent the next month being agreeable in the hallway. The exit was close enough that I could see the wall box holding her railgun and the neat white toes of the boots she had planted on the rug.
+I could have let it stand as a no. I could have packed the records, left with everybody's dignity mostly unopened, and spent the next month being agreeable in the hallway. I took the nearest sleeve off my tidy line and slid it back into the crate, then another. The door was a few steps away, beside the wall box that held her railgun. Suzette stayed on the rug, white boots planted, watching my hands.
 
 "I mean I'll look ridiculous," I said.
 
@@ -268,7 +264,7 @@ She looked down at her dress. "They didn't."
 
 I took off my shoes so I could not damage her boots or feet. This left me in gray socks on a blue rug, which did nothing for my dignity and helped with everything else.
 
-Suzette held out one white-gloved hand. I took it. Her palm was warm. Under the fabric, the segmented fingers adjusted around mine one joint at a time, careful without being delicate.
+Suzette held out one white-gloved hand. I took it. Her palm was warm. Under the fabric, the segmented fingers adjusted around mine one joint at a time until the grip was firm.
 
 "Where does the other hand go?" I asked.
 
@@ -296,8 +292,8 @@ She smiled and found the record in my crate. A quick bass line sprang from the s
 
 "This one," I said. "I like the bass after the second handclap."
 
-Suzette returned to the rug and offered me her hand again. Her cheeks were still pink. They might have meant heat, or speaking, or the fact that we were both adults alone in her apartment. They might have meant nothing I could name. She had told me what she wanted, which was better information.
+Suzette returned to the rug and offered me her hand again. Her cheeks were still pink. They might have meant heat, or speaking, or the fact that we were both adults alone in her apartment.
 
 "Then show me where it is," she said.
 
-We missed the first handclap because I was counting too hard. We caught the second. When the bass came in, Suzette's white boots landed on either side of my socks, my hand found her gloved one, and the record kept turning while we tried the step again.
+We missed the first handclap because I was counting too hard. We caught the second. When the bass came in, Suzette hopped around to face me, her white boots landed on either side of my socks, my hand found her gloved one, and the record kept turning while we tried the step again.
