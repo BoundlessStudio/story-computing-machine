@@ -16,11 +16,11 @@ He laid the notice beside the bread. The merchant guild had bought the wharf. It
 
 Lutrel put down the onions she was peeling. “We can pay more.”
 
-Her grandmother looked at her. They could not pay much more. Behind the guild's man, three carters were sharing two portions of beans, and Orlena had already sent Lutrel to give them a third.
+Her grandmother looked at her. They could not pay much more. Behind the guild's man, three carters were sharing two portions of beans, and Orlena had been about to send Lutrel over with a third.
 
 “They won't renew at any price,” he said. “The carts need to come straight from the boats.”
 
-“Our customers come straight from the boats,” Lutrel said.
+“Half the men in here have just walked off those boats,” Lutrel said.
 
 “I know.” He drew the notice away from a spreading patch of gravy. “I'm sorry. I'll be back for the keys.”
 
@@ -82,7 +82,7 @@ The seller bent to feel the boot across his toes. Brisken waved him away, then a
 
 Lutrel wrote *noon* beside his name. It was the first mark she had made in the book. She stared at it for a moment before climbing the stairs.
 
-She spent the rest of that afternoon following addresses. A knife-grinder had gone upriver. At a lodging under the high crossing, a woman answered through the door that her husband still had no money. Lutrel couldn't make her hear the rest. A woman in a shuttered spice stall read her mother's name, held the book for a while and returned it with three small coins tucked inside. Lutrel tried to explain that she had come to ask after her mother.
+She spent the rest of that afternoon following addresses. A knife-grinder had gone upriver. At a lodging under the high crossing, a woman answered through the door that her husband still had no money. Lutrel couldn't make her hear the rest. At a shuttered spice stall, a younger woman read her mother's name and told Lutrel the spice seller had died two winters ago. She held the book for a while and returned it with three small coins tucked inside. Lutrel tried to explain that she hadn't come for money.
 
 “I understood,” the woman said.
 
@@ -182,7 +182,7 @@ Outside, the public cart road curved past the wharf entrance towards the lower h
 
 Dorbett named a monthly rent a little below their old one. She needed it; the baker's last payment had gone on winter fuel. She usually asked a quarter in advance. For Orlena, one month would do, but she could not give them the room.
 
-Lutrel counted silently. Half Fodric's advance must stay aside for ingredients. With what remained, the spice woman's coins and their own small reserve, they could pay the first month and still buy firewood. After that they would need their paying customers back.
+Lutrel counted silently. Half Fodric's advance must stay aside for ingredients. With what remained, the coins from the spice seller's daughter and their own small reserve, they could pay the first month and still buy firewood. After that they would need their paying customers back.
 
 “She'll take it,” Lutrel said.
 
@@ -222,7 +222,7 @@ Orlena set a bowl inside another. “I told that woman I'd never take anything f
 
 Lutrel nearly said something about a stupid game of cards. Then she saw that her grandmother was fitting the bowls into the shelf by touch, looking instead at the row of marks cut into the counter's end. Lutrel's height, summer by summer, until she had grown taller than the counter. Orlena had never let anyone plane them out.
 
-“I want this room too,” Lutrel said.
+“I don't want to leave here either,” Lutrel said.
 
 Orlena rubbed a thumb along the counter. Outside, Brisken was loudly telling his sons that nobody could carry a table like them, even if they did have to carry it twice.
 
@@ -262,7 +262,7 @@ The longest table caught in the new doorway. It had to go in on its side, with o
 
 Back at the old shop, Lutrel took the last jars from the high shelf. Her hand went automatically to the warm patch of wall beside the oven. It was cooling. She had leaned there every winter morning of her working life.
 
-Orlena stood in the doorway until she was ready. Then they took the book and went out together.
+Orlena stood in the doorway until Lutrel was ready. Then they took the book and went out together.
 
 The guild's man was waiting. Lutrel handed him the keys. Already two carts of baled wool stood behind him, their drivers eyeing the cleared floor. She turned away before the first bale went in.
 
