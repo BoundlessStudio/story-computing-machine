@@ -144,7 +144,7 @@ He peeled it back and wrung it out. "A persuasive demonstration."
 
 "Of what?"
 
-"Of what happens if I let Holdfast get a line on me because you've promised to loosen it afterward."
+"Of what happens if I let Holdfast get a line on me because you promise to loosen it afterward."
 
 "I did not foul it deliberately."
 
