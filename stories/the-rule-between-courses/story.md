@@ -8,7 +8,7 @@ canon: false
 
 # All the Good Things
 
-Linette had just asked whether she should bring the smoked-pepper char when Ceret heard herself say, “Yes, and the lemon potatoes for Veslina, and Mezzara will want—”
+Linette had just asked whether she wanted to order now or wait for the others when Ceret heard herself say, “Now, please. The smoked-pepper char and the lemon potatoes for Veslina, and Mezzara will want—”
 
 Linette laid three menus on the table, though only one chair was occupied. “You may choose water for people who aren’t here.”
 
@@ -22,7 +22,7 @@ Linette laid three menus on the table, though only one chair was occupied. “Yo
 
 Ceret folded her hands under the table before she could straighten the menus into a single exact fan. “And three plates?”
 
-“That much I can assume.”
+Linette set a folded napkin at each place on her way past and went for the jug.
 
 The restaurant’s one small room glowed in layers of amber: candle cups on the tables, shaded lamps along the plaster walls, a copper shine from the open kitchen hatch. The chairs had curved gaps beneath their back rails so tails could hang or curl without being trapped. Ceret had chosen the round table near the guitarist, close enough to hear the brush of fingers on strings but not so close that conversation became work.
 
@@ -32,13 +32,13 @@ Since spring, the three friends had managed hurried cups of tea and meetings in 
 
 Ceret checked the door. Then she checked it again.
 
-Linette set down the water. “Still absent.”
+Linette set down the water. “Bread while you wait?”
 
-“I was looking at the rain.”
+“They’ll be here any minute. It’s only the rain.”
 
-“It remains wet.”
+Linette brought a small basket of bread anyway and left it by the empty chairs.
 
-The door opened before Ceret could answer. Mezzara entered first, unfastening her damp green coat as she walked, and Veslina crowded in behind her with a striped shawl over her head and a paper parcel tucked under one arm. Rain had darkened their sleeves and tails. At the sight of them, Ceret stood so quickly that her knee struck the table and made all three empty glasses chime.
+The door opened before Ceret had touched the bread. Mezzara entered first, unfastening her damp green coat as she walked, and Veslina crowded in behind her with a striped shawl over her head and a paper parcel tucked under one arm. Rain had darkened their sleeves and tails. At the sight of them, Ceret stood so quickly that her knee struck the table and made all three empty glasses chime.
 
 “That was almost musical,” Veslina said.
 
@@ -60,15 +60,9 @@ Ceret sat more slowly. “About the char?”
 
 Mezzara hung her coat on the wall peg. The fur along one dark ear was still beaded with rain. “We took the wrong tram.”
 
-“It wasn’t wrong,” Veslina said. “It went past the soap shop.”
+“It wasn’t wrong,” Veslina said. “It went past the soap shop, and I needed soap, I’ve needed soap for a week, you can ask anyone—” She lifted the parcel as evidence. “Two bars.”
 
-“It did not come here.”
-
-“But I needed soap.” Veslina lifted the parcel as evidence. “Now I have two bars.”
-
-“You made us get off six streets away.”
-
-“And now I have soap.”
+“We got off six streets away,” Mezzara told Ceret, and wrung the rain from the end of her tail.
 
 Linette arrived with a folded cloth for the damp table edge and waited while Veslina moved her parcel. She did not glance at Ceret.
 
@@ -98,17 +92,15 @@ There was no sensible answer to that. Ceret picked up her own menu, which she ha
 
 Mezzara and Veslina looked at each other.
 
-“Recently,” Ceret amended.
+“All right,” Ceret said. “I’ll ask.”
 
-Linette took the menus. “I’ll begin with the small gilt fish and fennel. You can practice.”
+Linette took the menus. “Gilt fish and fennel first, then. They came in this morning.”
 
-Once she was gone, the first few minutes broke apart pleasantly. Veslina wanted to know whether Ceret had cut her own fringe; Ceret insisted it had merely dried badly in the rain. Mezzara asked if the loose window above Ceret’s sink had finally been fixed. Ceret asked why Mezzara had a streak of white dust on her sleeve. Veslina unwrapped one of the soaps to let them smell it, then complained that the rose scent was much stronger in the warm room than it had been in the shop.
+Once she was gone, the first few minutes broke apart pleasantly. Veslina wanted to know whether Ceret had cut her own fringe; Ceret insisted it had merely dried badly in the rain. Mezzara asked whether the guitarist was new, and Ceret, who had asked Linette the same thing a week ago, said Joia had played here since midsummer. Ceret asked why Mezzara had a streak of white dust on her sleeve. Veslina unwrapped one of the soaps to let them smell it, then complained that the rose scent was much stronger in the warm room than it had been on the street.
 
 “You’ve bought a cupboard fragrance,” Mezzara said.
 
 “It smelled like orange peel outside.”
-
-“Outside was mostly tram smoke.”
 
 Ceret pushed the soap farther from her water glass. “Give it to the someone who taught you to eat olives.”
 
@@ -126,7 +118,7 @@ Mezzara reached for the water jug. “You started at the wrong end.”
 
 “Then I’ll begin again after food.”
 
-The small fish arrived on a dark oval plate, their skins crisp and gold, laid over fennel shaved thin enough to turn translucent at the edges. Preserved lemon shone between them. For a while the talk narrowed to ordinary negotiations: which fish had the fewest bones, whether Veslina had taken all the lemon, who wanted the last piece of bread while it was still warm.
+The small fish arrived on a dark oval plate, their skins crisp and gold, laid over fennel shaved thin enough to turn translucent at the edges. Preserved lemon shone between them. For a while the talk narrowed to ordinary negotiations: which fish had the fewest bones, whether Veslina had taken all the lemon, who wanted the last piece of bread while it was still warm. Ceret asked for it before she reached, and Mezzara pretended to think it over.
 
 “This was our first table,” Ceret said when only tails and bright smears of oil remained on the platter.
 
@@ -150,7 +142,7 @@ Mezzara looked toward the window. “No, the first one was against that wall.”
 
 Veslina pointed her fork at Mezzara. “A wet blanket.”
 
-“Because you set it in the gutter.”
+“Because you set it in a puddle.”
 
 “To catch the bowl I saved.”
 
@@ -166,7 +158,7 @@ Ceret could see it as soon as Mezzara said it: her younger self kneeling on slic
 
 They considered these accounts.
 
-“All of that can be true,” Veslina decided.
+“All of that can be true,” Veslina said.
 
 “Not the candle,” Mezzara said.
 
@@ -178,15 +170,7 @@ The second tune left longer spaces between its chords. Ceret let her eyes settle
 
 When Joia paused for tea, Linette cleared the first platter and brought the tomato salad. Mezzara caught Ceret looking at the white mark on her sleeve again.
 
-“Plaster,” she said.
-
-“I guessed plaster.”
-
-“You asked why.”
-
-“I assumed you would eventually tell me.”
-
-“I looked at a room this afternoon.”
+“Plaster,” she said. “I looked at a room this afternoon.”
 
 Ceret expected the rest: a temporary room before another journey, a place to leave two cases while Mezzara worked elsewhere. “For how long?”
 
@@ -208,17 +192,13 @@ Mezzara’s mouth bent. “I said I would never live above the bell shop again. 
 
 Veslina covered a laugh with her napkin.
 
-“I may have remembered the broader meaning,” Ceret said.
-
-“You made it broader. You do that when a story has an untidy edge.”
-
-Ceret picked up the salad spoon. “Does the alcove get the morning light?”
+“Oh,” Ceret said, and picked up the salad spoon. “Does the alcove get the morning light?”
 
 “Some. The building across the lane takes part of it.”
 
 “Enough for a lemon tree?”
 
-“Perhaps herbs. A lemon tree would have to be very forgiving.”
+“Perhaps herbs. The sill is deep enough for pots.”
 
 “And the plaster?”
 
@@ -228,9 +208,7 @@ Ceret picked up the salad spoon. “Does the alcove get the morning light?”
 
 “We never found out. He had brought the cellar key.”
 
-Veslina nodded gravely. “Promising. A man with many keys suggests many cupboards.”
-
-“Or one cupboard he has never opened,” Mezzara said.
+Veslina brightened. “So there’s a cellar. Do you get a shelf in it? You could keep apples down there, or—no, you’d forget them. I would forget them.”
 
 Ceret began to offer the name of another street, another landlord, a sunlit top floor she had once passed on her way to the market. She stopped after, “There’s a building near—”
 
@@ -238,7 +216,7 @@ Mezzara waited.
 
 “What do you want in it?” Ceret asked instead.
 
-The question seemed to please her more than Ceret had expected. Mezzara put down the spoon. “A table I don’t have to clear before I eat. A cupboard that closes. Light enough to sew black thread without carrying the sleeve to the window. Two comfortable chairs.”
+The question seemed to please her more than Ceret had expected. Mezzara put down her fork. “A table I don’t have to clear before I eat. A cupboard that closes. Light enough to sew black thread without carrying the sleeve to the window. Two comfortable chairs.”
 
 “Only two?” Veslina asked.
 
@@ -248,23 +226,17 @@ The question seemed to please her more than Ceret had expected. Mezzara put down
 
 “I said comfortable.”
 
-“The green chair has character.”
+“It’s comfortable on the right side. It only leans if you sit on the left, and nobody has to sit on the left—”
 
-“The green chair leans toward the door.”
+“It leans toward the door. I have sat in it.”
 
-“It encourages visitors not to linger.”
+Their main plates arrived while Veslina was still defending it. Linette carried the fish one at a time: the char with dark pepper and a bowl of glossy olives; the bream under a shell of salt that she opened at the table, sending up a clean thread of steam; the bass surrounded by roasted tomatoes, herbs, and small yellow potatoes. She turned each platter so the serving spoons faced inward.
 
-Their main plates arrived before Mezzara could reject it again. Linette carried the fish one at a time: the char with dark pepper and a bowl of glossy olives; the bream under a shell of salt that she opened at the table, sending up a clean thread of steam; the bass surrounded by roasted tomatoes, herbs, and small yellow potatoes. She turned each platter so the serving spoons faced inward.
-
-“The peppers are hotter at this end,” she told Veslina. “And yes, you may all exchange pieces. Ceret has asked properly.”
-
-“Once,” Mezzara said.
-
-“A beginning,” Linette replied, already moving toward another table.
+“The peppers are hotter at this end,” she told Veslina, already turning toward another table.
 
 They tasted each fish before returning to anything important. The bream was tender and sweet beneath its salt crust; the char left warmth at the back of Ceret’s tongue. Veslina discovered that she liked the green olives less on their own than she did in rice, and deposited two on Ceret’s plate without asking.
 
-“The someone,” Ceret prompted.
+“The someone,” Ceret said.
 
 Veslina drank water. “Yes.”
 
@@ -302,21 +274,17 @@ Veslina’s shoulders lowered. “Patient with kettles. Impatient with hems. The
 
 “I leave cups. They leave tea in the cups.”
 
-“A household distinction,” Ceret said.
+Ceret laughed.
 
-“You’ll understand when you see the windowsill.” Veslina rubbed her thumb over the edge of her napkin. “I wanted you to meet them. And I wanted this sometimes. Still. I couldn’t find a way to ask for both without making one sound like the apology for the other.”
+“You’ll both understand when you see the windowsill.” Veslina rubbed her thumb over the edge of her napkin. “I wanted you to meet them. And I wanted this sometimes. Still.”
 
-Ceret had been ready with questions about work, family, how they had met, whether they treated Veslina well. They crowded behind her teeth. She began with the easiest. “Do they know how much you talk during the quiet parts of songs?”
+Ceret had been ready with questions about work, family, how they had met, whether they treated Veslina well. They crowded behind her teeth. She asked none of them. “Do they know how much you talk during the quiet parts of songs?”
 
-“I do not.”
+“I don’t!”
 
 Mezzara looked toward Joia’s stool. “You whispered through half the last piece.”
 
-“That was before it began.”
-
-“Joia had begun.”
-
-Veslina turned to Ceret. “You see why I need another person on my side.”
+“That one was all gaps. You have to put something in the gaps, or you just sit there waiting for the next—” Veslina turned to Ceret. “You see why I need another person on my side.”
 
 “I’d like to meet them,” Ceret said. “Bring them one evening, if they can come.”
 
@@ -326,13 +294,7 @@ Veslina smiled, not broadly, but for long enough that Ceret had time to notice. 
 
 “Please.” Veslina picked up her fork again. “That was the part I kept making worse in my head.”
 
-Mezzara passed her the char. “It took you four months to produce that sentence.”
-
-“The sentence took four months. Other things happened meanwhile.”
-
-“The soap, for example.”
-
-“The soap happened today.”
+Mezzara passed her the char. “You’ve been trying to ask us since spring.”
 
 Ceret reached for an olive from Veslina’s plate, and Veslina tapped the back of her hand away with two fingers. “Ask.”
 
@@ -344,7 +306,7 @@ Mezzara leaned back while Linette replaced their water. “What about you, Ceret
 
 “What about me?”
 
-“We have supplied rooms, keys, poor chairs, soap, and a person who abuses tea. You’ve told us nothing.”
+“You’ve let us talk all night. You’ve told us nothing.”
 
 “Nothing has happened.”
 
@@ -370,21 +332,21 @@ Ceret looked at her. “Last month.”
 
 Veslina clicked her tongue.
 
-“It was a weak plant.”
+“It was a weak plant,” Ceret said.
 
-“You said it had survived two winters.”
+“You said it had survived two winters,” Mezzara said.
 
-“Then it was an old, tired plant.”
+Ceret drew a bone out of her bass and laid it carefully on the rim of her plate.
 
-“What did you put in the pot?”
+“What did you put in the pot instead?” Veslina asked.
 
 “Mint. My sister gave me a cutting.”
 
-“The one that tastes like pepper?”
+Mezzara looked up. “The one that tastes like pepper?”
 
-“That was the other mint. This one tastes like mint.”
+“No, the ordinary kind. She won’t part with the pepper one.”
 
-Mezzara waited while Veslina served herself another potato. “You were going to have supper with your sister on Thursdays.”
+Veslina served herself another potato. Mezzara waited until she had finished, then said, “You were going to have supper with your sister on Thursdays.”
 
 “I do. When she isn’t working late. Her youngest has decided soup is an insult, so we eat a lot of bread.”
 
@@ -392,11 +354,11 @@ Mezzara waited while Veslina served herself another potato. “You were going to
 
 “Upstairs. The boy knows six notes now.”
 
-“Last time it was four.”
+“Last time it was four,” Veslina said.
 
 “The fifth was a difficult week.”
 
-They both laughed, and Ceret did too. She had called the months empty because no single event seemed large enough to set in the middle of the table. Yet Mezzara remembered the wall by her bed. Veslina remembered the boy’s four notes.
+They both laughed, and Ceret did too. Mezzara had kept count of the basil’s winters. Veslina had remembered the wall by her bed and the boy’s four notes.
 
 “I’ve been leaving work early on Tuesdays,” Ceret said. “Not early. On time. I walk home by the long street and buy whatever fruit is cheapest.”
 
