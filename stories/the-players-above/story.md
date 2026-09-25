@@ -110,7 +110,7 @@ Veysa took up the short bar. “From the thing we find by following this.”
 
 They left the lamp burning over the open floor. Reniya took the tile box from the sill, and they followed the cooled root.
 
-It had worked through the stone sill rather than under it, splitting a wedge from one corner. Outside, moonlight turned the lane pale and the root dark. The metal had taken the routes people imagined, not the roads themselves. One branch went under a wall where a walker would have used the gate. Another rose through packed soil on a slant toward the orchard stair, following Reniya’s unfinished intention as far as she had formed it. Behind every silver point lay a gray seam already cooling in the night air.
+It had worked through the stone doorsill rather than under it, splitting a wedge from one corner. Outside, moonlight turned the lane pale and the root dark. The metal had taken the routes people imagined, not the roads themselves. One branch went under a wall where a walker would have used the gate. Another rose through packed soil on a slant toward the orchard stair, following Reniya’s unfinished intention as far as she had formed it. Behind every silver point lay a gray seam already cooling in the night air.
 
 Ludek walked first. He knew which alleys people named and which they used without naming, where carts had worn diagonal escapes between terraces, where a courier saying *upper road* might mean any of three grades. He held up a hand before each turn instead of calling it.
 
