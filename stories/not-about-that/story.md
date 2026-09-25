@@ -16,7 +16,7 @@ Lowen had supplied his power deliberately. Three breaths, both thumbs against th
 
 Then the roof seemed to drop six inches.
 
-His sneakers drew tight, flashed white, and became soft boots fitted to feet a little shorter than his own. Dark tights smoothed up unfamiliar legs. A blue pleated overskirt snapped around his hips beneath a short copper-buttoned coat, all of it as neat as if somebody had ironed lightning. His balance went wandering and came home somewhere lower. His hair, usually an argument with gravity, slid in a heavy black rope between his shoulder blades.
+His sneakers drew tight, flashed white, and became soft boots fitted to feet a little shorter than his own. Dark tights smoothed up unfamiliar legs. A blue pleated overskirt snapped around his hips beneath a short copper-buttoned coat with a copper belt at the waist, all of it as neat as if somebody had ironed lightning. His balance went wandering and came home somewhere lower. His hair, usually an argument with gravity, slid in a heavy black rope between his shoulder blades.
 
 Lowen grabbed the chimney cap before the new weight of it pulled his head back. His hand was narrower. His voice, when he said, “Oh,” came out bright and unmistakably a girl’s.
 
@@ -24,13 +24,13 @@ That was not the problem.
 
 The problem was that the body felt wonderful in motion.
 
-He pushed away from the chimney, wobbled once, and stepped where there was nothing. A pane of blue light rang beneath his boot. The next step lifted him above the clotheslines. On the third, wind poured cold along his tights and under the copper coat, and the whole block opened below him: tar roofs, green water tanks, laundry courtyards, tram wires, a bakery chimney smoking sugar into the late-afternoon air.
+He pushed away from the chimney, wobbled once, and stepped where there was nothing. A pane of blue light rang beneath his boot. The next step lifted him above the clotheslines. On the third, wind poured cold along his tights and under the copper coat, and the whole block opened below him: tar roofs, aerials hung with practice ribbons, laundry courtyards, tram wires, a bakery chimney smoking sugar into the late-afternoon air.
 
-The sky was busy. It was always busy. Two magical girls in red delivery capes skimmed west with insulated supper boxes hanging between them. A little practice circle on the school roof burst into applause when one of its members managed a somersault, then into jeers when she came out backward and dropped her wand. High above, a woman in yellow oilskins towed a string of rain clouds toward the vegetable district. Somebody trailing pink sparks had written WAIT FOR ME across half a city block.
+The sky was busy. It was always busy. Two magical girls in red delivery capes skimmed west with insulated supper boxes hanging between them. A little practice circle on the school roof burst into applause when one of its members managed a somersault, then into jeers when she came out backward and dropped her wand. High above, a woman in yellow oilskins towed a string of rain clouds out over the river, where they could burst without ruining anybody’s wash. Somebody trailing pink sparks had written WAIT FOR ME across half a city block.
 
 Lowen laughed. The sound startled him, and then the startling made him laugh harder.
 
-The chalk circle Sarena had drawn for tomorrow waited beside the water tank. She had promised him a supervised trial after school, provided he did not touch anything alone, improvise, show off, or listen to their cousin about “unlocking his instincts.” At fifteen, Lowen was old enough to know that “three out of four” would not impress her. He had obeyed three anyway. Mostly.
+The chalk circle Sarena had drawn for tomorrow waited beside the chimney. She had promised him a supervised trial after school, provided he did not touch anything alone, improvise, show off, or listen to their cousin about “unlocking his instincts.” At fifteen, Lowen was old enough to know that “three out of four” would not impress her. He had obeyed three anyway. Mostly.
 
 He stepped higher. Each blue pane appeared only after he committed his weight, which was alarming for exactly one attempt. After that it was the best thing anybody had ever invented. His new center of balance turned a clumsy hop into a clean, buoyant sweep. He could feel the focus answering through the clasp at his chest, taking the lift he gave it and laying the next foothold into the air.
 
@@ -40,7 +40,7 @@ Lowen could do that.
 
 He could not, in fact, do that.
 
-His heels struck. The blue pane tipped nearly vertical. He shot past Sarena’s chalk circle, past the water tank, and straight over the parapet with enough speed to make every rooftop in the city wheel sideways.
+His heels struck. The blue pane tipped nearly vertical. He shot past Sarena’s chalk circle, past the chimney, and straight over the parapet with enough speed to make every rooftop in the city wheel sideways.
 
 He flung out a foot. Light cracked under it and redirected him upward instead of back. The laundry courtyard fell away. His stomach stayed behind.
 
@@ -52,9 +52,9 @@ Oranges rained into the courtyard.
 
 Sarena snapped two fingers. A wind-knot unreeled beneath Lowen, caught him behind the knees, and flipped him onto a laundry canopy. He landed in somebody’s sheets. The metal frame groaned, sprang him up again, and returned him to open air wearing a damp pillowcase like a veil.
 
-Sarena caught the back of his coat.
+Sarena caught the back of his coat. “Lowen, stop kicking!”
 
-For three breathless seconds they hung beside the fifth-floor balconies: Sarena braced on two trembling wind-knots, Lowen bicycling his shorter legs, the pillowcase over both their heads.
+For three breathless seconds they hung beside the fifth-floor balconies: Sarena braced on two trembling wind-knots, Lowen bicycling his shorter legs with the pillowcase still over his head.
 
 From an open kitchen window, the fifth-floor auntie shouted, “Sarena, why is your brother in my clean wash?”
 
@@ -90,15 +90,15 @@ Sarena caught his sleeve before he floated over a vent. “How much lift did you
 
 “Fourteen? The last one was complicated.”
 
-“You cannot revert until you put it back into a controlled landing.”
+“You can’t revert till you’ve grounded all of it. Controlled landing.”
 
 “I read the label.”
 
 “Did you read it while hurtling past the place I told you to land?”
 
-He looked across the courtyard at the chalk circle, small and reproachful beside their water tank. “I was coming around.”
+He looked across the courtyard at the chalk circle, small and reproachful beside their chimney. “I was coming around.”
 
-Sarena bent to inspect one of his boots, then his knees and wrists. She did not ask permission in words; she held out her hands and waited for his nod before touching. That was how she did injury checks with everybody, even people she had just pulled out of chimneys. Lowen resented the courtesy more than grabbing would have deserved.
+Sarena bent to inspect one of his boots, then his knees and wrists. She did not ask permission in words; she held out her hands and waited for his nod before touching. That was how she did injury checks with everybody, even people she had just pulled out of chimneys. Lowen resented the courtesy more than he would have resented being grabbed.
 
 “Nothing twisted?” she asked.
 
@@ -114,7 +114,7 @@ One of the fallen groceries had landed behind her heel. Sarena moved her boot. R
 
 Lowen smiled despite himself. The unfamiliar cheeks shaped it differently, narrower at the chin. Sarena’s gaze caught on his face, moved to the blue panes still guttering beneath his boots, then returned.
 
-“You like being—”
+“You like—”
 
 The fear had been waiting inside the delight, thin as a trip wire. It pulled tight before she finished.
 
@@ -123,6 +123,8 @@ The fear had been waiting inside the delight, thin as a trip wire. It pulled tig
 His voice carried beautifully. It crossed the courtyard, struck brick, and came back smaller.
 
 Sarena’s hand dropped from his wrist.
+
+He had shouted it at his sister. Three winters ago she had told the family at the kitchen table, and he had practiced her name out loud for a week so he would stop tripping on it. Now he had yelled the word across a courtyard like a charge he was denying.
 
 For a moment the only sound between them was a delivery cape flapping overhead.
 
@@ -136,13 +138,7 @@ Lowen’s face burned. “Well, you looked—”
 
 “No.” Sarena wiped tomato from her boot on the roof gravel. Her movements had gone careful and plain. “I don’t think I do.”
 
-“I’m just saying you shouldn’t assume.”
-
-“I didn’t.”
-
-“You were about to.”
-
-“Apparently you can air-step and hear the future.”
+“I’m just saying you shouldn’t— people see the skirt and they decide stuff, that’s all, and then it’s this whole thing, and I wasn’t saying you were. Deciding. I meant people. In general. You don’t have to make that face.”
 
 She tugged one silver knot loose from her wrist. The wind holding it went slack. Lowen watched the strand fade and told himself she was only conserving magic. She gathered the surviving groceries without offering him a hand.
 
@@ -156,7 +152,7 @@ She tugged one silver knot loose from her wrist. The wind holding it went slack.
 
 “I can ground it myself.”
 
-Sarena glanced at him, and there it was: not a diagnosis, not secret knowledge. Anger. Worse, the kind she did not trust him to handle without turning it into another argument.
+Sarena glanced at him, and there it was, plain on her face: anger.
 
 “Of course you can,” she said. “You’ve been doing excellent research.”
 
@@ -164,7 +160,7 @@ She disappeared into the stairwell.
 
 Lowen lasted until the door banged shut before trying to cross the courtyard.
 
-The sensible method would have been to wait. The humiliating method would have been to call Sarena back, apologize, and admit that the thought of anyone enjoying this body on his behalf scared him more than the five-story drop. The available method was to study the coral girl, who had circled back and was now hovering above a florist’s roof while arguing with her friend about whose turn it was to carry a bucket.
+The sensible method would have been to wait. The humiliating method would have been to call Sarena back, apologize, and admit what scared him more than the five-story drop: being seen enjoying this body, and somebody else deciding what that meant. The available method was to study the coral girl, who had circled back and was now hovering above a florist’s roof while arguing with her friend about whose turn it was to carry a bucket.
 
 She bent one knee, swept her arms, and descended in a spiral.
 
@@ -186,7 +182,7 @@ Soil poured through the railing. Lowen and Sarena clung to it while a rain of ba
 
 Sarena’s mouth twitched.
 
-“Do not laugh.”
+Lowen glared at her over the railing. “Don’t laugh.”
 
 That finished her. She made one strangled sound, then buried her face against her sleeve.
 
@@ -198,7 +194,7 @@ Lowen started laughing too. His grip loosened. A leftover pulse of lift peeled h
 
 Sarena’s laughter stopped. “Lowen. Left foot down. Flat.”
 
-He heard instruction as command, the change in her tone as proof she had decided what he was, and he kicked left harder than he needed to. The pane flashed. Instead of lowering him toward the courtyard, it shot him across it.
+He kicked left harder than he needed to. The pane flashed. Instead of lowering him toward the courtyard, it shot him across it.
 
 He crashed through three lines of laundry and emerged in a white shirt, two aprons, and a pair of enormous bloomers. The fifth-floor auntie leaned from her window with a wooden spoon.
 
@@ -210,13 +206,13 @@ He tore free and struck another foothold. Behind him, Sarena said, “Lowen, sto
 
 “Then I fall.”
 
-“You float. That focus wants to spend the lift. Let it.”
+“You float. The lift runs down on its own. Let it.”
 
 “You said left foot.”
 
 “I made a bad call.”
 
-He glanced back. Sarena hung three yards away, one boot planted on a wind-knot that shook under her. Dirt streaked her cheek. Her transformed coat had ripped at the elbow, and one of the groceries bulged from its pocket as if she had hidden a turnip there during battle.
+He glanced back. Sarena hung three yards away, one boot planted on a wind-knot that shook under her. Dirt streaked her cheek. Her transformed coat had ripped at the elbow, and a turnip she had somehow saved from the groceries bulged from its pocket.
 
 “You never say that,” Lowen said.
 
@@ -226,7 +222,7 @@ He pulled the white shirt off his head. “You laughed.”
 
 “Also bad.”
 
-The apology arrived without polish and without asking anything from him. That made it harder to refuse.
+The apology arrived without polish and without asking anything from him.
 
 Lowen held still.
 
@@ -248,7 +244,7 @@ The blue light around Lowen’s boots thinned.
 
 Sarena’s face closed again.
 
-The words left the same silence as his outburst. Sarena had told him what his hip was doing, and he had dragged her transness into the answer as if it were an accusation. Once could have been panic. Twice was something uglier.
+The words left the same silence as his outburst.
 
 Below, the courtyard chalk marks waited where Sarena had practiced landings with him in sneakers all summer. Heel, bend, hold. She had drawn ridiculous little faces beside his worst attempts and a crown over the one good one. She had spent three weeks talking their mother into letting him try a focus at all. Lowen knew that. He had known it when he opened the practice box early.
 
@@ -264,7 +260,7 @@ He let himself sink. Sarena followed at a distance.
 
 At the third floor, a warm gust rolled through the courtyard carrying sugar smoke from the bakery chimney. Lowen’s long hair lifted before the rest of him. He liked the tug at his scalp. He liked the coat tails fluttering around his legs and the easy, buoyant alignment of this body. Liking it did not feel like a verdict until he imagined saying it aloud.
 
-The gust slid under the remaining lift and carried him past the courtyard circle. He reached for a foothold by reflex.
+The gust slid under the remaining lift and carried him away from the courtyard chalk marks. He reached for a foothold by reflex.
 
 “Don’t,” Sarena said.
 
@@ -288,11 +284,11 @@ Lowen shook his head. The silver strand was the only thing under her boot.
 
 Sarena bared her teeth at him. Then she stepped off it.
 
-She dropped past the parapet, let the knot unspool just long enough to turn her toward the roof, and landed beside the water tank. Her knees buckled. Before Lowen could decide whether that was part of the plan, she wrapped the strand once around the tank’s iron leg and threw its loop back into the air.
+She dropped past the parapet, let the knot unspool just long enough to turn her toward the roof, and landed beside the chimney. Her knees buckled. Before Lowen could decide whether that was part of the plan, she wrapped the strand once around the chimney stack and threw its loop back into the air.
 
 It rose toward him and stopped a foot short.
 
-The final blue pane bent under Lowen’s boots. Sarena waited below, one palm pressed to the tank, her hair loose in the wind. She was offering exactly what she had, not an answer to anything else.
+The final blue pane bent under Lowen’s boots. Sarena waited below, one palm pressed to the chimney, her hair loose in the wind.
 
 “Sarena!”
 
@@ -312,7 +308,7 @@ For one plunging second he had neither light nor line. Then he caught the loop i
 
 The blue pane shattered above him.
 
-Falling was nothing like flying. His stomach climbed into his throat; the wind packed his overskirt with cold. The knot went taut at his waist and swung him toward the building in a wide, ugly arc. On the roof Sarena slid a yard across the tar before her shoulder struck the water tank. She held on.
+Falling was nothing like flying. His stomach climbed into his throat; the wind packed his overskirt with cold. The knot went taut at his waist and swung him toward the building in a wide, ugly arc. On the roof Sarena slid a yard across the tar before her shoulder struck the chimney. She held on.
 
 Lowen kept his hands off the magic. The chalk circle rushed up beneath him. He turned his hips the way Sarena had shown him all summer, found the roof with both soles, and let his knees fold.
 
@@ -320,7 +316,7 @@ His heels held for one beat. Then his momentum pitched him sideways and rolled h
 
 Light washed over the chalk. The roof gave a deep satisfied thump, and all the stored lift vanished.
 
-Lowen lay on his back, abruptly and wonderfully heavy. The silver knot loosened from his belt. Several feet away, Sarena sat against the water tank with one hand clamped over her torn elbow.
+Lowen lay on his back, abruptly and wonderfully heavy. The silver knot loosened from his belt. Several feet away, Sarena sat against the chimney with one hand clamped over her torn elbow.
 
 Neither of them spoke until their breathing slowed.
 
@@ -330,7 +326,7 @@ Neither of them spoke until their breathing slowed.
 
 “Seventeen minutes.”
 
-Sarena gave him a look but did not finish his thought for him.
+Sarena gave him a look and waited.
 
 “I wasn’t scared of being you,” he said. The sentence came apart after that. “I mean, I was scared, but not of— It sounded like—”
 
@@ -340,15 +336,15 @@ He stopped.
 
 Sarena looked at the dusk instead of him. “Don’t make me the thing you have to not be.”
 
-There was no clever answer hiding behind his teeth. “Okay.”
+Lowen looked at the dusk too. “Okay.”
 
 “And don’t steal my practice box.”
 
 “Our practice box.”
 
-“See, this is why apologies take you all evening.”
+Sarena stared at him until he looked away.
 
-Lowen sat up. His long hair had wound itself through the wind-knot and around two copper buttons. Sarena came over and crouched in front of him. She worked the silver strand loose without yanking, though the set of her mouth warned him not to mistake care for pardon.
+Lowen sat up. His long hair had wound itself through the wind-knot and around two copper buttons. Sarena came over and crouched in front of him. She worked the silver strand loose without yanking.
 
 When the knot was free, Lowen put his thumb on the blue glass. Then he stopped.
 
@@ -356,7 +352,7 @@ When the knot was free, Lowen put his thumb on the blue glass. Then he stopped.
 
 Sarena narrowed her eyes. “Why?”
 
-He nearly said it did not mean anything. That would have been the same mistake in a fresh coat.
+He nearly said it did not mean anything.
 
 “I want a picture,” he said. “Of me like this.”
 
@@ -384,7 +380,7 @@ The copper coat loosened into his old sweatshirt. The pleats snapped back into j
 
 The focus came loose in his palm. He handed it to Sarena, and she put it away without promising him anything.
 
-“Do you believe me?” he asked.
+“Do you believe me?” he asked. “That I’m not—”
 
 “You’re my brother.” She looked down at her phone. “You’re also blurry.”
 
