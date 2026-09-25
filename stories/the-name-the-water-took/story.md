@@ -60,7 +60,7 @@ Ioshka’s stare sharpened. “That’s how you talked at the river fork. Always
 
 “I can see it from here. I don’t remember any river fork.” Braska ducked beneath the roots. “Is there a way down on this side?”
 
-Ioshka took three quick steps to the left, then stopped and pointed rather than saying where. A mat of fern hid a narrow descent. Braska saw the broken tips left by someone passing uphill, the gray smear where a wet hand had touched bark, and one set of small prints in the leaf mold, all pointing uphill. Ioshka had come this way. The pursuers had not come this way yet.
+Ioshka took three quick steps to the left, then stopped and pointed rather than saying where. A mat of fern hid a narrow descent, under a screen of deadfall hung in vine. Braska saw the broken tips left by someone passing uphill, the gray smear where a wet hand had touched bark, and one set of small prints in the leaf mold, all pointing uphill. Ioshka had come this way. The pursuers had not come this way yet.
 
 They moved.
 
@@ -242,7 +242,7 @@ Braska read their stance. They had taken the old formation: spear pressing cente
 
 The younger man did not keep quiet. “And there’s no copy. You forbade one past the black ridge. You said the final approach was safer in your head, and then you burned everything else.”
 
-The facts locked together. After burning the master hide, Braska had carried the last approach here and submerged it out of reach. Nothing in that sequence explained why they had led the survey far enough to make the map, or why they had bound Ioshka before cutting her free.
+So Braska had burned the hide, then taken the only remaining route under the water in their own head, on purpose. None of it explained why they had led the survey far enough to make the map, or why they had bound Ioshka before cutting her free.
 
 “That was your arrangement,” the older man said. “I never signed off on it.” He brought the spear back to center. “Captain, stand away from the guide.”
 
