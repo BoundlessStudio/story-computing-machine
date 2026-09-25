@@ -40,7 +40,7 @@ He looked past Urrava to the guards. “You came to order me back into service.�
 
 “Then name what you require.”
 
-Imer wiped his hands on his apron. “The court says Daziel’s husband broke that seal on his own. You wouldn’t be kneeling on my floor in front of your own guards if that were true.”
+Imer wiped his hands on his apron. “The court says Daziel’s husband broke the nest seal on his own. You wouldn’t be kneeling on my floor in front of your own guards if that were true.”
 
 Urrava’s gaze shifted once, toward Hovan, who had brought her here. He did not help her.
 
