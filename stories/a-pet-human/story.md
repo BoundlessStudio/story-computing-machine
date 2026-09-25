@@ -246,7 +246,7 @@ For our second bow, I took away the buns. Our third was excellent.
 
 “I'm not supposed to in here.”
 
-I looked toward the adjoining room, where Mavrix had gone to change for the evening. The open door showed her blue sleeve and the edge of a mirror.
+I looked towards the adjoining room, where Mavrix had gone to change for the evening. The open door showed her blue sleeve and the edge of a mirror.
 
 “A small one.”
 
