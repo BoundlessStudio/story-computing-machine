@@ -390,7 +390,7 @@ Below them the bare orchard shone silver in the morning light. Beyond it lay stu
 
 “Let him show you.”
 
-She sent him up. He climbed above the field, circled once, and struck out toward the ridge. Sovelda turned with him until she was facing into the wind. Her eyes watered. She wiped them on the sleeve of her bare arm.
+She sent him up. He climbed above the field, circled once, and struck out toward the ridge. Sovelda turned with him until she was facing into the wind. Her eyes watered. She wiped them on the sleeve of her ungloved arm.
 
 “He's going a long way.”
 
