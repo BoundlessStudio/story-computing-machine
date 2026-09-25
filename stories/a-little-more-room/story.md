@@ -246,7 +246,7 @@ I remembered leaning over my speakers with one shoulder jumping, unaware of an a
 
 Suzette did not laugh. When she spoke again, it was quieter. "Do you mean no?"
 
-I could have let it stand as a no. I could have packed the records, left with everybody's dignity mostly unopened, and spent the next month being agreeable in the hallway. I took the nearest sleeve off my tidy line and slid it back into the crate, then another. The door was a few steps away, beside the wall box that held her railgun. Suzette stayed on the rug, white boots planted, watching my hands.
+It would have been easy to let it stand as a no: pack the records, leave with everybody's dignity mostly unopened, and spend the next month being agreeable in the hallway. I took the nearest sleeve off my tidy line and slid it back into the crate, then another. The door was a few steps away, beside the wall box that held her railgun. Suzette stayed on the rug, white boots planted, watching my hands.
 
 "I mean I'll look ridiculous," I said.
 
