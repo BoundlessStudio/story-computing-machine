@@ -82,7 +82,7 @@ Her phone rang. Rovandis.
 
 “I’m losing a line to rain. Ask dispatch.”
 
-“Dispatch asked me. His first scan came up with no destination. So did the second. Three scans, same route, nothing on any of them, and he’s due at the print shop at nine-fifteen. He’s never late to the print shop.”
+“Dispatch asked me. His first scan came up with no destination. So did the second. Three scans, same route, nothing on any of them, and he’s due at the print shop. He’s never late to the print shop.”
 
 The paint display changed to 7.0. The tank gave no settling knock. Pressure stayed at one hundred eighty.
 
@@ -126,7 +126,7 @@ Rovandis spoke over her. “This is a routing outage. Caelumar, give me your coo
 
 “Your courier app has a compass.”
 
-“Dad. It’s blank. The whole app’s white. I keep looking at it and it’s just white.”
+“It’s blank. The whole app’s white. I keep looking at it and it’s just white.”
 
 Elsidra watched the fresh hook reach for the unpainted lane as rain began ticking on the windshield.
 
@@ -146,7 +146,7 @@ They met under the fuel-station canopy three blocks from the work zone. Vaudessa
 
 Rovandis spread his parcel scanner, two phones, and an old printed route sheet across the van’s hood.
 
-“Network’s up,” he said. “Dispatch can see every driver but him. They can call him, and he picks up, and they still can’t place him. I had them try twice. Twice.”
+“Network’s up,” he said. “Dispatch can see every driver but him. They can call him, and he picks up, and they still can’t place him. I had them try twice.”
 
 Vaudessa pressed her fingertips into the cardigan. The phone beneath it gave six vibrations.
 
@@ -232,7 +232,7 @@ Elsidra called Caelumar. Wind battered his microphone now.
 
 “Caelumar, it’s me. What’s your battery?”
 
-“The bike’s... forty-something. Forty-three. Phone’s nineteen. I keep checking it and it’s still nineteen.”
+“Bike’s forty-three. Phone’s nineteen.”
 
 “What’s the road like?”
 
