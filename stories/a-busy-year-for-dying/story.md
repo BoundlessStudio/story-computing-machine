@@ -174,7 +174,7 @@ Ruldo released the sleeve. He took a spoon from his pocket, a bent thing with a 
 
 Kelro reached for the spoon. Ruldo closed his hand.
 
-"I sat out there all night. Thought you might call from underneath. By morning we could get near enough to lift the roof."
+"I sat out there all night. Thought you might call from underneath. By morning we could get near enough to lift the roof. One of your boots under it, and ash. Nothing to bury."
 
 "I wasn't underneath."
 
@@ -188,13 +188,11 @@ The juggler came over, carrying his cups. So did two women who had been sorting 
 
 "You asked me to look at her leg. I never promised I could cure it."
 
-Ruldo regarded him.
-
-"So we're finished with the brother?"
+Ruldo regarded him. "So we're finished with the brother?"
 
 "Yes," said Kelro.
 
-Glessa laid the coat inside her cart. "And the wound on your head? Yellow scarf here told me there was blood all over you, then nothing."
+Glessa laid the coat inside her cart. "And the wound on your head?" She nodded at the man in the scarf. "He told me about it when he sold me the coat. Blood all over you, then nothing."
 
 "There was," the man said. "No cut when I looked."
 
@@ -208,7 +206,7 @@ Glessa looked from his unmarked forehead to his empty hands.
 
 The opening was so unexpected that he nearly denied it.
 
-"No," he said carefully. "I did used to perform."
+"No," he said carefully. "I used to perform."
 
 That, at least, was true. There had been a theater, two hundred years ago, where he had been responsible for assassinations and very minor kings.
 
@@ -226,7 +224,7 @@ The man in the scarf said, "What about the quarry?"
 
 That was true as well. Kelro almost felt honest.
 
-Ruldo put the spoon away. "You did it on purpose. The hut. You meant us to think you were dead."
+Ruldo looked at Kelro's wrist, the one he had turned over by the wagon, and did not ask to see it again. He put the spoon away. "You did it on purpose. The hut. You meant us to think you were dead."
 
 "The fire was an accident."
 
@@ -234,7 +232,7 @@ Ruldo put the spoon away. "You did it on purpose. The hut. You meant us to think
 
 "Yes," Kelro said.
 
-Ruldo waited for more. Kelro looked at the spoon's outline in Ruldo's pocket and said nothing. It was preferable to being kept as a remedy. He could feel himself choosing that preference again.
+Ruldo waited for more. Kelro looked at the spoon's outline in Ruldo's pocket and said nothing. Letting Ruldo mourn him had been preferable to being kept as a remedy.
 
 Glessa reached into her cart and brought out a cracked tin of red lip salve.
 
@@ -246,7 +244,7 @@ The salve was stiff with cold. Kelro warmed a little between his fingers and put
 
 The man in the scarf stepped closer.
 
-"You made a noise when it hit you."
+"You made a noise when that bit of metal hit you."
 
 "I said I used to perform."
 
@@ -272,7 +270,7 @@ Glessa immediately began asking for payment from the people nearest her. When on
 
 "Empty tins," she said, pointing to a stack beside the engine.
 
-Two clothes rails and a piece of canvas made the screen. Kelro arranged empty packing tins behind it, and the juggler lent him a straw-filled sack that ordinarily cushioned the cups. It would make a tolerable body if nobody insisted on knowing it personally. He drew trousers over the bottom and reached for his coat.
+Two clothes rails and a piece of canvas made the screen. Kelro arranged empty packing tins behind it, and the juggler lent him a straw-filled sack that ordinarily cushioned the cups. It would make a tolerable body if nobody insisted on knowing it personally. He borrowed trousers from Glessa's rail, drew them over the bottom, and reached for his coat.
 
 Glessa held it away.
 
@@ -318,7 +316,7 @@ He went behind the canvas, put on a battered hat, and reappeared with the solemn
 
 Kelro scratched his neck. This received more appreciation than his bow.
 
-He retreated behind the screen. The tins fell with a splendid crash. A red sleeve flopped out at the foot of the canvas. Kelro left the dummy there and, doubled up behind the screen, made for the other end.
+He retreated behind the screen and set the hat on the sack. The tins fell with a splendid crash. A red sleeve flopped out at the foot of the canvas, and the hat rolled out after it. Kelro left the dummy there and, doubled up behind the screen, made for the other end.
 
 "He's down there," said a woman at the side.
 
@@ -330,7 +328,7 @@ He retreated behind the screen. The tins fell with a splendid crash. A red sleev
 
 "There was a cliff," said the man in the scarf.
 
-They moved her to the front. Kelro dragged the sack out, reset the tins, and began again. This time, when he emerged on the far side and dusted himself off, people clapped. They knew where he had gone. He was giving them the pleasure of catching him at it.
+They moved her to the front. Kelro dragged the sack out, reset the tins, and began again. This time, when he emerged on the far side and dusted himself off, people clapped. They knew where he had gone.
 
 He held up the sack. "You recognize a hat and a coat. You think you've seen a man. By the time you can look properly, he's somewhere else."
 
@@ -376,7 +374,7 @@ She went to settle with the juggler. Kelro had eaten the rest of his sausage whe
 
 He was already getting to his feet. "The quarry makes a better beginning. I have an entrance."
 
-Ruldo had come to collect his sack. He stopped beside the crate.
+Ruldo had come to collect his own sack. He stopped beside the crate.
 
 "You were asleep in the hut," he said. "Start there."
 
