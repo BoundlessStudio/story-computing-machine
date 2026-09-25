@@ -234,7 +234,7 @@ Cassia offered choices in the main thread: a dot at agreed intervals, silence wi
 
 > I choose, she added. You carry request only. Do not carry reason.
 
-The regional relay was a girl who kept contacts for the clusters nearest the requester; she had carried the request its last leg. She said she could send the requester a private list of people the requester had already exchanged messages with. Cassia would not see the list. Neither would Bryn or Drita. The requester could pick one, or none, and the chosen person would receive only this: **Can you be present now? No call unless asked.**
+The regional relay was a girl who kept contacts for the clusters nearest the requester; she had carried the request its first leg. She said she could send the requester a private list of people the requester had already exchanged messages with. Cassia would not see the list. Neither would Bryn or Drita. The requester could pick one, or none, and the chosen person would receive only this: **Can you be present now? No call unless asked.**
 
 In the side channel, Bryn sent half a line.
 
@@ -288,7 +288,7 @@ On the call, Drita's breathing had gone slow and even. Cassia hung up and closed
 
 * * *
 
-The next version of the card reached Cassia as a photograph while she sat cross-legged on her bedroom rug. It carried the same disputed name and no list of officers. The offered-help columns differed by cluster. So did the hours, the labels for uncertain information, and the way each group ended a request. Along one edge, in several hands, people had added the same small instruction: **When a request is finished, write CLOSED.**
+The next version of the card reached Cassia as a photograph while she sat cross-legged on her bedroom rug. It carried the same disputed name and no list of officers. The offered-help columns differed by cluster. So did the hours, the labels for uncertain information, and the way each group opened a request. Along one edge, in several hands, people had added the same small instruction: **When a request is finished, write CLOSED.**
 
 Bryn sent a proposed central document to the trio, then withdrew it before Cassia opened it.
 
