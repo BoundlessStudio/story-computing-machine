@@ -156,7 +156,7 @@ The man rose from the basin.
 
 “Last opportunity,” he said.
 
-His words came more slowly, perhaps because he had decided slow speech sounded merciful. His attention had sharpened. He was done displaying himself.
+His words came more slowly, perhaps because he had decided slow speech sounded merciful.
 
 I let go of the shutter wheel. “All right.”
 
