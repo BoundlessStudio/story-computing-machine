@@ -308,7 +308,7 @@ She crouched beside him and examined his tail. Her hands were shaking. They made
 
 He tried to stop. She pressed her lips together, but a laugh escaped her. Then both of them were helpless, which made the badger snort through the hatch and send them scrambling farther away.
 
-She led him back round to the front, where she had left the coil in the doorway, and paid out the rope as they retreated behind a boulder beyond the clearing. Melicent pulled. Through the front doorway, Orsugal saw the latch lift and the gate swing into the hall under the badger's weight. They stayed behind the rock until the animal returned to its ruined picnic.
+She led him back round to the front, where she had dropped the coil in the doorway as she left the hall, and paid out the rope as they retreated behind a boulder beyond the clearing. Melicent pulled. Through the front doorway, Orsugal saw the latch lift and the gate swing into the hall under the badger's weight. They stayed behind the rock until the animal returned to its ruined picnic.
 
 "My helmet's in there," Melicent said.
 
