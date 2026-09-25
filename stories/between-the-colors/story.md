@@ -300,7 +300,7 @@ An iron buckle knocked against something near my knee. A watchman introduced him
 
 “Half,” I said. “My brother has the other half.”
 
-The watchman asked about the lamp. Berian began describing where it had stood and what had knocked it over, and his voice found a steadier rhythm. “Brass, about so high, on the shelf behind the screen. That shelf has leaned since our mother's time. I've been meaning to take it down for years.” He began giving dimensions; his sleeve brushed the watchman's coat, and I imagined his hands making their familiar shapes. I remembered the way he could make a whole stage out of a kitchen table if a listener would let him.
+The watchman asked about the lamp. Berian began describing where it had stood and what had knocked it over, and his voice found a steadier rhythm. “Brass, about so high, on the shelf behind the screen. That shelf has always leaned. I've been meaning to take it down for years.” He began giving dimensions; his sleeve brushed the watchman's coat, and I imagined his hands making their familiar shapes. I remembered the way he could make a whole stage out of a kitchen table if a listener would let him.
 
 The window opened in my blue eye.
 
