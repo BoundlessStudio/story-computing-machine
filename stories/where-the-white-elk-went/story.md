@@ -30,11 +30,9 @@ Winterbough had walked beside those stones in thaw and drought, beneath banners 
 
 Now three of his hooves stood outside.
 
-“There may be a ditch,” she told him. “Or hunters. You dislike hunters.”
+“There may be a ditch,” she told him. “Or hunters. You dislike hunters. Stop here, and we will consider it.”
 
 His hide shifted under her bare calf. He took another step.
-
-“That was not an argument in favor.”
 
 She twisted to look behind. Elderweald waited in its familiar dimness. From this side, the boundary seemed absurdly small: a few stones vanishing between trunks. Avarra could slide from Winterbough’s back, walk home, and let his sudden foolishness be his own. The thought lasted until he stopped.
 
@@ -82,11 +80,7 @@ He lowered his nose toward the road. Between two slabs, a hazel root as thick as
 
 “That proves a hazel is tenacious.”
 
-Winterbough touched his nose to the lifted stone.
-
-“Yes. Remarkably tenacious.”
-
-He moved on.
+Winterbough touched his nose to the lifted stone, then moved on.
 
 By afternoon, the road had become a channel for rain. Alder filled its ruts. Beyond it, a wall rose under green mounds, shoulder-high in places and vanished in others. Winterbough passed through a breach too narrow for a gate. A pear tree leaned within, its fruit small, hard, and furred with brown scab.
 
@@ -98,7 +92,7 @@ He smelled it and turned away.
 
 “Coward.”
 
-She ate the rest because he had refused it.
+She ate the rest.
 
 Near dusk he left the drowned road and climbed onto a shelf of dry ground. He scuffed leaves away until dark soil showed, then folded his long legs and settled. Avarra dismounted stiffly. Her soles, accustomed to Elderweald’s moss and packed paths, objected to every hidden pebble.
 
@@ -110,11 +104,9 @@ Nothing at first. Then the slow gathering came through a mesh of fine roots: wea
 
 Winterbough watched her from beneath the branches.
 
-“You might have shown me this at the stones.”
+“Very well. You were right about the hazel.”
 
 One ear flicked at a gnat.
-
-“Or any time in the last century.”
 
 He put his head down.
 
@@ -132,7 +124,7 @@ Avarra stood beside him with wet hair, smoked clothes, and the remains of the pe
 
 He did nothing.
 
-“That is an observation, not a command.”
+“Winterbough. Home.”
 
 Still nothing.
 
@@ -144,7 +136,7 @@ Affection, apparently, and no concession at all.
 
 Winterbough rose before she had settled properly, and she grabbed his fur with both hands.
 
-The road gave them ruins in pieces. A line of dressed stone appeared beneath ivy, disappeared into a hill, then emerged as the foundation of a shepherd’s hut built with poorer mortar. Beyond that, a broad stair descended into a pond. Minnows wavered above the fifth step. Someone had cut drainage grooves across carvings already worn too shallow to read.
+The road gave them ruins in pieces. A line of dressed stone appeared beneath ivy, disappeared into a hill, then emerged as the foundation of a shepherd’s hut built with poorer mortar. Beyond that, a broad stair descended into a pond. Minnows wavered above the fifth step. Someone had scratched a boundary cross over carvings already worn too shallow to read.
 
 Avarra had expected devastation. She knew devastation: charcoal in the soil, lime-split stones, arrowheads under bracken. Here no single wound explained the emptiness. A hall had been dismantled to make farm walls. The farm walls had sunk beneath an orchard. Oaks grew through the orchard, some old enough that four of Avarra with linked arms could not have circled them. A later road had bent around those oaks before vanishing under beech.
 
@@ -166,17 +158,17 @@ Her laughter followed them down the slope, less dignified than the yew branch ha
 
 It ended when the pulse vanished.
 
-Winterbough had entered a broad paved court. Moss silvered the flagstones, but no root had yet pried them apart. At his first step onto it, the slow rhythm under Avarra’s hand ceased. The absence was so clean that her breath caught.
+Winterbough had come to the edge of a broad paved court. Moss silvered the flagstones, but no root had yet pried them apart. At his first step onto it, the slow rhythm under Avarra’s hand ceased.
 
 “Back.”
 
-Winterbough kept walking.
+Winterbough set his other forehoof down beside the first.
 
-“Back, Winterbough.” She drove her knee against his shoulder, an old signal for a close turn. He stopped but did not turn. “The roots end here.”
+“Back, Winterbough.” She drove her knee against his shoulder, an old signal for a close turn. He stopped, his hind feet still in the moss at the court’s edge, but he did not turn. “The roots end here.”
 
 Ahead, the court stretched between roofless walls. Its far side lay in shadow. Thirty paces, perhaps forty. Nothing moved there but rainwater under a skin of leaves.
 
-Avarra slid down. The silence inside her bones widened. Without Winterbough’s warmth under her, the day felt suddenly cold.
+Avarra slid down behind his shoulder, onto the moss. Under her soles the pulse came back as a thread, too faint to have reached her through him, and it went no farther than the first flagstone. Without Winterbough’s warmth under her, the day felt suddenly cold.
 
 “We go around.”
 
@@ -194,17 +186,17 @@ Rainwater slid off the ivy and ticked onto stone. Avarra loosened her hand.
 
 He stepped forward. She did not.
 
-After three paces he stopped and looked back. The distance between them was small, but it contained the boundary, the wasted commands, and every morning she had leaned before he turned.
+After three paces he stopped and looked back.
 
 Avarra put one foot on the paving. No rhythm rose to meet it. She crossed to him anyway.
 
 They walked the court together, Avarra’s hand against his shoulder. Halfway across, Winterbough shortened his stride to hers. He had to; his legs were absurd. She nearly told him so, then kept the thought.
 
-At the far wall, a fig tree had opened a crack wide enough for them to pass. The pulse returned under the first mat of roots, faint but steady. Avarra let out a breath she had not meant to hold.
+At the far wall, a fig tree had opened a crack wide enough for them to pass. The pulse returned under the first mat of roots, faint but steady.
 
 Winterbough lowered his head. She pressed her forehead to the warm hollow above his eye.
 
-“One more day,” she whispered, changing the promise after she had already broken it.
+“One more day,” she whispered.
 
 They slept that night in the shell of a room where swallows had plastered nests beneath an arch. Avarra dreamed no visions. She woke twice with cold feet and once because Winterbough was chewing beside her ear.
 
@@ -224,15 +216,15 @@ Then he stopped at a raw break.
 
 One of the young birches had fallen in a recent storm, wrenching up a plate of soil. Beneath its lifted roots, frost and weight had split the ancient foundation. The opening was narrow and full of fresh earth. From the wooded ground behind them, dark roots entered the gap, thick, many-branched, old. From the birches ahead came a lace of white tips no wider than threads. They met inside the broken stone.
 
-No light shone. No voice moved through the ground. A beetle crawled over one root and under another.
+A beetle crawled over one root and under another.
 
 Winterbough placed his forehooves on either side of the break.
 
 Avarra put her palm to his shoulder.
 
-The rhythm rose through him with a strength she had not felt since the boundary. It gathered. Released. Beneath it came smaller variations, not messages but resistance and return: the young roots holding water, the old roots giving under stone, all of it joined closely enough for life to answer life. The pulse ran east toward Elderweald and west beneath the birches. Not two rhythms. One.
+The rhythm rose through him with a strength she had not felt since the boundary. It gathered. Released. Beneath it came smaller pulls and yieldings: the young roots holding water, the old roots giving under stone, all of it joined closely enough for life to answer life. The pulse ran east toward Elderweald and west beneath the birches as a single rhythm.
 
-The change had not happened that morning. It had taken abandoned fields, fallen roofs, seed carried in the bellies of birds. It had taken orchards growing wild, roads becoming streams, halls becoming quarries and then soil. The growth nearest Elderweald had joined its roots a little at a time, but this buried foundation had kept the vast young woodland to the west apart. It had taken fires, rain, and generations of trees whose whole lives would have seemed brief to Avarra.
+The change had not happened that morning. It had taken abandoned fields, fallen roofs, seed carried in the bellies of birds. The growth nearest Elderweald had joined its roots a little at a time, but this buried foundation had kept the vast young woodland to the west apart.
 
 But sometime after their last circuit—perhaps in the storm that toppled the birch, perhaps with one pale root’s blind growth through the crack—the forest had joined across the thing that had divided it.
 
@@ -250,11 +242,9 @@ Avarra left her hand on him until the need to choose between those answers eased
 
 They climbed above the broken foundation. From higher ground, she could see what the old roads and walls had hidden. Woodland rolled westward across the former kingdoms, youngest and brightest near the ridge, deepening to green in the distance. Here and there a tower or chimney stood above the canopy with no roof to serve. Farther still, sunlight caught a river. No banners marked its banks.
 
-She had guarded Elderweald by walking its edge. She had watched the outer world alter beyond that edge and called the line constant because the stones stayed where they had been put. All those years, Winterbough had carried her circuit without once mistaking it for the forest.
+Winterbough bent his forelegs.
 
-He bent his forelegs.
-
-The offered place between his shoulders waited, warm and familiar. From there Avarra could see farther. From there she could pretend, if she wished, that the choice of direction belonged to the rider.
+The offered place between his shoulders waited, warm and familiar. From there Avarra could see farther.
 
 She laid a hand in his fur but did not climb.
 
@@ -262,7 +252,7 @@ She laid a hand in his fur but did not climb.
 
 Winterbough rose. He waited until she stood beside him, then took one step toward the young trees.
 
-Avarra looked back. The boundary stones lay three days away, out of sight within the old dark woods. They were still true, in the way a scar was true. They marked where something had once ended.
+Avarra looked back. The boundary stones lay three days away, out of sight within the old dark woods.
 
 “Go on,” she said.
 
