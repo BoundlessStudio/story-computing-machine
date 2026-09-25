@@ -230,7 +230,7 @@ The road councillor pushed forward. “Thirty-one egg sledges are waiting at my 
 
 From the well chamber came the clang of the water steward’s call plate and her voice demanding a cart count.
 
-Sulekk looked toward it. “She wants a cart count. Go give her one.”
+Sulekk looked toward it. “Go give her one.”
 
 The councillor stared at her, then went.
 
@@ -260,7 +260,7 @@ They carried the cases back to the well. No one announced a new position. Sulekk
 
 Sulekk was already turning to the next runner. “Four is what I have. Mark where it starts and come back.”
 
-At fifty-eight minutes, the north-road member reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
+At fifty-eight minutes, the road councillor reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
 
 Qemri took the handset. “Position?”
 
@@ -296,7 +296,7 @@ Sulekk called the council to the defense rail. Bodies crowded around a control d
 
 “Against Brinnt’s own warning?” asked the granary member.
 
-“Yes. If it crosses, she fires. If it shifts, she decides.”
+“Yes. And if it shifts, she decides.”
 
 Qemri glanced at her. “You are handing me both mistakes.”
 
