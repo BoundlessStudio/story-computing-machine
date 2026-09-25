@@ -18,7 +18,7 @@ The stories gave her red eyes, or bottomless ones, or eyes on fire. Hers were br
 
 Neither comparison stopped your knees from shaking.
 
-“Ninety years,” she said. “That is how long the barrier took me to cast. A dragon struck it once and went away with a split scale.” She tapped one black fingernail beside your hook. “You opened a hole wide enough to walk through.”
+“Ninety years,” she said. “That is how long the barrier took me to cast. A dragon struck it once and went away with a split scale.” She tapped one black fingernail beside your hook. “You opened a hole wide enough to walk through. I would like to know how.”
 
 You tried to swallow. Nothing happened.
 
