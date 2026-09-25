@@ -210,7 +210,7 @@ She sat beside me to watch him fight.
 
 Hadrum won, of course. This opponent tucked both hands close to avoid the cuff hold, so he used a sharp sideways gust to turn her, then stepped across her path and scored before she could face him again.
 
-He hadn't even had to kneel down afterwards.
+He hadn't even had to sit down afterwards.
 
 When we went up for the final, he bowed to me first. The crowd had packed so close that the caller had to clear the steps. Somewhere behind all those heads waited the yellow purse. I tried to see it and found myself staring at Hadrum instead.
 
