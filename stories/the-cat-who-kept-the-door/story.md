@@ -38,7 +38,7 @@ She waited for the impatience, the flick of his tail that meant someone had over
 
 She turned. The commander stood at the edge of the dais, his hand hovering near his sword. “Take them out through the west court,” she told him. “The servants too. No carriages. Get well clear of the walls.”
 
-He looked at the weapon, then bowed and began ushering people toward the doors. As the first chairs overturned, Murrant slipped through the little door in the paneling behind the dais, and Isabet followed him down to the tombs.
+He looked at the weapon, then bowed and began ushering people toward the doors. As the first chairs overturned, Murrant slipped through a little door in the paneling behind the dais, and Isabet followed him down to the tombs.
 
 ***
 
