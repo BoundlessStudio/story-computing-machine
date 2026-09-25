@@ -140,7 +140,7 @@ She knew the sequence before the plot finished. She had used it to bring Unit 02
 
 “I flew that,” Loxan said. “Salt planet. I felt the left side lagging before the gauges showed it.”
 
-“Could be the reference set again,” Mursa said, quicker now. “Somebody's spin recovery gets recorded, the frame is built to reproduce it, and whoever flies the frame feels the same lag. You'd have learned it from Unit 02.”
+“Could be the reference set again,” Mursa said, quicker now. “Somebody's spin recovery gets recorded, an airframe is built to reproduce it, and whoever flies that airframe feels the same lag. You'd have learned it from Unit 02.”
 
 Loxan pushed away from the frame. Her left shoulder caught, a small hot refusal. The plot's orange line stopped at the same angle.
 
@@ -168,7 +168,7 @@ She shut her eyes. The shaft pressed along her back and elbows; those were facts
 
 At the first junction the shaft split. A blue glyph from Mursa pointed right, stamped LEVEL. Harrowstar drew horizontal reference bars across both branches; against them the right branch ran flat and the left one climbed. Loxan stopped.
 
-The old muscle plot returned in her mind: right hip compensating, head tipped. Unit 01's recorded horizon had run six degrees left, and the archive was still drawing its bars from that frame. Mursa had asked it for the level route. She reached into the right branch and felt the floor rise under her palm.
+The old muscle plot returned in her mind: right hip compensating, head tipped. Unit 01's recorded horizon had run six degrees left, and the archive was still drawing its bars from that frame. Mursa had asked it for the level route. Loxan reached into the right branch and felt the floor rise under her palm.
 
 Loxan went left.
 
