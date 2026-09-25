@@ -136,7 +136,7 @@ Ceveth went down and found her peering through the front window, wearing her new
 
 “You will roast,” Ceveth said.
 
-“I'm taking it off on the coach. I want to arrive in it.”
+“I'm taking it off on the coach. I want to turn up at the wagons in it.”
 
 “Then you would be better to carry it now.”
 
@@ -180,11 +180,11 @@ Ceveth wrapped the bread more tightly. The cloth had already been folded; she wa
 
 “I know.”
 
-“You mustn't worry about finding the house.”
+“You must not worry about finding the house.”
 
 “I'm not.”
 
-The kitchen clock ticked. Ceveth could hear Romy opening drawers overhead, though she had been certain the brush was on the washstand.
+The kitchen clock ticked. Overhead, Romy was opening drawers, though she had been so certain the brush was on the washstand.
 
 “There is another coach on Thursday,” Ceveth said.
 
@@ -286,7 +286,7 @@ Denzil sat on the low wall. His boots were broad and new, his trouser cuffs a li
 
 “The baker. That I like it open.”
 
-“I don't believe I mentioned it.”
+“I do not believe I mentioned it.”
 
 “Good.” He picked at a loose thread on his bag. “I can tell her.”
 
