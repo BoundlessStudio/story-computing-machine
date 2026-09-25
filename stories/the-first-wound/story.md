@@ -152,7 +152,7 @@ His face changed at the sound.
 
 “If I tell people, they stop asking what is happening to me. They ask what happened to everyone else.”
 
-“I couldn’t feel the rug.” She pressed her heel down on the braid. “I was standing on it, and I couldn’t feel the rug. I couldn’t—”
+“I couldn’t feel the rug.” She pressed her heel down on the braid. “I was standing on it.”
 
 He looked toward the dark slate again. “You left.”
 
