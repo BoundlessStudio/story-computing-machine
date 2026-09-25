@@ -26,7 +26,7 @@ He fetched a silk cord from beneath his desk. She held herself out horizontally 
 
 “Of course. Two at eight. Your gentleman hasn't arrived.”
 
-She had intended to arrive three minutes after Brevot, giving him time to sit down and begin wondering whether the copper dress appearing between the curtains could possibly be for him. To accomplish this, she had come early to ascertain the arrangement of the room. The host was now tying a second knot. Above his head, the clock began striking eight.
+She had intended to arrive three minutes after Brevot, giving him time to sit down and begin wondering whether the copper dress appearing between the curtains could possibly be for him. To accomplish this, she had come early to ascertain the arrangement of the room, meaning to withdraw afterward and come back once he was seated. The host was now tying a second knot. Above his head, the clock began striking eight.
 
 “Not over the little cap, please.”
 
@@ -170,7 +170,7 @@ The soup was set before them. Brevot picked up his spoon.
 
 “I'm engaged at the other end of the room in a little while.”
 
-She had paid to interrupt the regular program. He had explained the arrangement clearly in his note. The whole evening had looked much more spacious on paper.
+She was paying to interrupt the regular program. He had explained the arrangement clearly in his note. The whole evening had looked much more spacious on paper.
 
 “Then now, please.”
 
@@ -184,7 +184,7 @@ Brevot lowered his spoon.
 
 This one was quicker. Brevot ate his soup. With no spoon to occupy her, Ildesse held her hand on the table until it began to look as though she were waiting to have it examined. She brought it back into her lap.
 
-When the music ended, Brevot thanked the player with evident feeling. Ildesse watched him go to a table where three women were happily shouting over one another. None of them stopped when he began to play.
+When the music ended, Brevot thanked the player with evident feeling. Ildesse watched the musician go to a table where three women were happily shouting over one another. None of them stopped when he began to play.
 
 “You don't like music,” she said.
 
@@ -224,11 +224,11 @@ She looked at the little ink stain. “It's a great deal of war to give someone 
 
 “I enjoy being rude about them. I don't wish I were in one.”
 
-“It's not meant as a portrait.”
+“No, but it isn't meant to be you. Not a portrait. I know it's a sword, and you're a sword, so I can see how it looks, but I didn't sit down and decide you were a battlefield.”
 
 “You said it was for me.”
 
-“It is for you. That doesn't mean every line describes you.”
+“It is for you. It is. Only some of it's just what the poem wanted. The dead king wanted to be in it, I tried to get him out twice. It doesn't mean every line's about you.”
 
 No, it didn't. She knew that perfectly well. She had defended poets against precisely this complaint, in print, and at considerable length.
 
@@ -242,17 +242,17 @@ She made the mannequin pick up her glass. It was an old social trick: the little
 
 He looked at her for so long that she put it down again.
 
-“It is amorous.”
+“But it is amorous. I thought it was the most amorous thing I'd ever done. I was worried it went too far.”
 
 “Is it?”
 
-“The lilies. The entire first stanza.”
+He turned back to the first sheet. “The lilies. That whole first stanza. They're meant to be my letters, sort of. And the poems. And the blade's lying there among them dreaming about the next fight, the next but, so they wilt a bit.” His thumb found the edge of the paper again. “It's affectionate. Mostly.”
 
-She remembered the lilies. They had lain on the blade and withered because it dreamed of battle. Oh, dear.
+She had liked the lilies when he read them. Oh, dear.
 
-“I thought the flowers were a reproach,” she said.
+“I praised two of them,” she said. “Without reservation. I was most careful about that.”
 
-“They are. Rather.”
+“I know you did. I kept those. It's only a poem, everything gets bigger in a poem, I didn't mean you actually—”
 
 He looked past her at the large bouquet, then quickly back at his poem. She had selected every stem herself.
 
@@ -332,7 +332,7 @@ He nodded. She sat with her bare disappointment, which had no particular facial 
 
 She looked at the flowers he had shifted, her place laid with things she couldn't use, the beautiful room in which she had placed him. He hadn't asked for any of it. She had hoped he would arrive and know what to do.
 
-“You wouldn't have liked the other song either,” she said.
+“You wouldn't have liked the third one either,” she said.
 
 “Was there another?”
 
@@ -364,7 +364,7 @@ He pressed the fold flat. “All right.”
 
 They stood. He offered her the wrap, and she bent her head while he laid it around her shoulders. His fingers briefly touched the back of her neck. She felt their warmth, and the care with which he avoided the feathers. For a moment she wanted to turn and try the whole evening again, starting here.
 
-Then he stepped away to retrieve his coat.
+Then he stepped away to retrieve his hat.
 
 Ildesse lifted the sword from the banquette and tucked it under her arm. She looked at the flowers, then asked the server to keep them.
 
@@ -372,7 +372,7 @@ At the curtains Brevot stopped. “Your dress is wonderful, by the way. I was tr
 
 “Thank you.”
 
-“I should have said it again.”
+“I should have tried again.”
 
 She smoothed a fold in the copper silk. “I would have liked that.”
 
