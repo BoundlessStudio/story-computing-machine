@@ -16,11 +16,11 @@ He straightened. “Does it look real?”
 
 “It did until she started.”
 
-“She's not coming running with us.” He waved our sister back upstairs. “They keep saying I'm letting them win.”
+“She's not coming running with us.” He waved our sister back upstairs. “The boys keep saying I'm letting them win.”
 
 “Are you?”
 
-“I waited halfway up yesterday.”
+“I waited halfway up the hill yesterday.”
 
 I set down the bag of unsold rolls. I'd been on my feet since four, and a piece of sock had folded itself beneath my heel. Braulio, sixteen and incapable of exhaustion, looked particularly offensive against the stair rail. He had grown taller than me over the summer without, so far as I could tell, experiencing any inconvenience.
 
@@ -34,7 +34,7 @@ He considered this while taking three rolls. Our smallest sister reached into th
 
 “Leave some for me,” I said, but Braulio was already calling up the stairs to tell the twins they were wrong: he didn't have to stop running with his friends.
 
-I liked that part. They argued for hours, then asked me, and something could happen. Sometimes I continued explaining after the useful bit was over, just to keep their attention a little longer.
+I liked that part. They argued for hours, then asked me, and a word from me settled it. Sometimes I continued explaining after the useful bit was over, just to keep their attention a little longer.
 
 In the kitchen my mother was fastening a bracelet with one hand and pinning the seven-year-old's sleeve to the table with the other. He had got his cuff in the jam. Celso took my workbag, kissed the flour above my ear, and nudged a chair out for me with his foot.
 
@@ -106,7 +106,7 @@ She looked at the clock. “If everyone has lunch and gets dressed without a fig
 
 There was immediately a fight about whether the youngest could wear her new boots. I said she could sit next to me if she put on the comfortable ones, and for this promise she pressed a wet kiss against my nose. I let her watch the jump twice more. By the time I remembered to put my own shoes on, I'd missed the chance to lie down again.
 
-Papa and Mother had divorced when I was five. Celso had been in my life since I was six, carrying me uphill, coming to school meetings, once sitting patiently through a very long explanation of why he was not invited to my wedding when I grew up. I loved him. I still liked going places with Papa where nobody needed that explained.
+Papa and Mother had divorced when I was five. Celso had been in my life since I was six, carrying me uphill, coming to school meetings, once sitting patiently through a very long explanation of why he was not invited to my wedding when I grew up. I loved him. I still liked going places with Papa, where nobody needed telling whose daughter I was.
 
 I could have sent Papa a message about the children. Instead I went upstairs to find the youngest's other comfortable shoe.
 
@@ -152,13 +152,13 @@ He looked at them. I hadn't made him happier, but he stayed in the queue.
 
 There were ten seats together in the matinee. While Mother bought the tickets, I took the youngest to see the cardboard train in the lobby. She stood with her face in the hole meant for the driver, ordered us all aboard, and demanded a photograph of every passenger. Papa took the pictures. In his, Braulio had one foot off the ground and his coat held out behind him, fleeing an imaginary pursuer. I doubled over laughing while he complained that Papa had caught him before he was ready. We made him do it again.
 
-At the snack counter, Celso bought three tubs of popcorn and tried to put everything else on the same tray. Chocolate softened where he held it against his chest. He noticed my stare and passed the bars over before he could melt them completely.
+At the snack counter, Celso bought four tubs of popcorn and tried to put everything else on the same tray. Chocolate softened where he held it against his chest. He noticed my stare and passed the bars over before he could melt them completely.
 
 “I forgot.”
 
 “Use your jacket.”
 
-He folded it over his arm to carry them. When I was little he used to warm my pajamas between his hands. Later, when Mother said he was spoiling me, he did it only on the coldest nights, which I learned to claim before he checked the weather.
+He folded it over his arm, and I laid the bars on top. When I was little he used to warm my pajamas between his hands. Later, when Mother said he was spoiling me, he did it only on the coldest nights, which I learned to claim before he checked the weather.
 
 I gave the twins the first popcorn tub. One wanted caramel and the other salted, so I held a fistful of napkins while they sorted a mixed portion with great suspicion. The seven-year-old wanted to carry his own drink. I showed him where to grip it below the lid, then caught myself explaining again when he already had it right.
 
@@ -238,13 +238,13 @@ Zulema stopped winding the cardigan around her wrist. Braulio looked toward the 
 
 “Fine. It's away.” He pushed it into his pocket. “You said we could come. Now everything I do annoys you.”
 
-I had an answer ready. It involved all the things he'd done since breakfast, which I could recall with a completeness I never managed for anything useful. Then Mother came out of the toilets with our smallest sister, who was drying her hands on Mother's skirt.
+I had an answer ready. It involved all the things he'd done since breakfast. Then Mother came out of the toilets with our smallest sister, who was drying her hands on Mother's skirt.
 
 “What's the trouble?”
 
 “He's upset because his friend wouldn't come, and he keeps—”
 
-Braulio stepped back from me. I stopped. I'd brought him out here to spare the other people in the cinema his conversation, then given it to the lobby.
+Braulio stepped back from me. I stopped.
 
 “I'm tired,” I said.
 
@@ -282,7 +282,7 @@ Papa took a tissue from his pocket and offered it to me. I hadn't begun crying, 
 
 “I will.”
 
-Mother looked at the closed auditorium door. “I'll put Celso in your seat. You sit here with your father until you're ready, then take his place.”
+Mother looked at the closed auditorium door. “I'll put Celso in your seat. You sit here with your father until you're ready, then take Celso's seat.”
 
 “But she was checking me,” Zulema said.
 
@@ -298,9 +298,9 @@ He stopped picking at the cardboard but didn't come closer.
 
 “He didn't say he wouldn't come. He can't.”
 
-“Can't. Yes.”
+I nodded.
 
-He wiped his nose with the back of his hand, annoyed. Then he went to hold the door for Mother. Zulema made a small beckoning motion to me. I shook my head, and she disappeared inside.
+He wiped his nose with the back of his hand. Then he went to hold the door for Mother. Zulema made a small beckoning motion to me. I shook my head, and she disappeared inside.
 
 Papa waited while I rubbed the place the sock had pressed into my heel. He drank from the remaining bottle of water, passed it to me, and looked up at the posters. I finished the water.
 
