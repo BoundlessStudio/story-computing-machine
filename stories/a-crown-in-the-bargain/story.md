@@ -98,7 +98,7 @@ He did not take the bread. "I can issue a provisional dispatch. It lasts two day
 
 "And after we file this one?" She tapped the seventh sheet.
 
-"The dispatch can be charged against the March reserve without the regency."
+"Once the strong form is filed, the dispatch can be charged against the March reserve without the regency."
 
 "Against my reserve. So your protection is permission to spend my own storm money, once your comptroller agrees that my bridge is wet enough."
 
