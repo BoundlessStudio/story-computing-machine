@@ -288,7 +288,7 @@ They undressed each other without hurry. There was nothing new to discover, only
 
 He did.
 
-Afterward, her coat covered them both. The knife lay beyond her reach. Iverax traced the binding's silver ridges under her breasts, his touch so gentle it made her want to strike him.
+Afterward, her coat covered them both. The knife lay beyond her reach. Iverax traced the binding's silver ridges under her breasts, each one to its end, the way he had once found the hooks of the bolt in her shoulder. His touch was so gentle it made her want to strike him.
 
 "Swear," she said once more.
 
@@ -316,7 +316,7 @@ Iverax stepped over the crack and turned to face her from the other side. His sh
 
 "How long?"
 
-He began talking too quickly. "The inn is still there. Six days. We could reach it before the rain, we could. You could break the owner's knees this time. I'll buy you boots that don't bleed. We could find another house. We could just, we could—"
+He began talking too quickly. "The inn is still there. Six days. You could break the owner's knees this time. I'll buy you boots that don't bleed. We'll find another house and you can choose the shutters and—"
 
 The fissure opened another finger's width. Heat rolled off him hard enough to sear her lips.
 
