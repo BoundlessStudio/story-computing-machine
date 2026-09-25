@@ -82,7 +82,7 @@ The nearest free hands were Rasim's.
 
 “Record bearing and distance,” she said. “No commentary.”
 
-“You'll get your numbers.” Rasim took the chalk reel from beneath her table and hooked it to his belt. “But your log gets *three metres, moving west*. It won't get them jumping back into somebody's soldering,, and that's what people do when it rains on them.”
+“You'll get your numbers.” Rasim took the chalk reel from beneath her table and hooked it to his belt. “But your log gets *three metres, moving west*. It won't get them jumping back into somebody's soldering, and that's what people do when it rains on them.”
 
 She nearly withdrew the offer. Then the battery icon lost one of its six bars.
 
@@ -318,7 +318,7 @@ He moved his foot.
 
 By late afternoon, the heat had withdrawn from the cork but not from the stone beneath it. Festival workers folded canopies one repaired panel at a time. Ianthe and Rasim wrung the catch mats over the fern bed, measured what they recovered, and dried every fitting before packing it.
 
-The condenser gave its third descending tone. Ianthe took out the optical sensor she had used to align the nozzles. Rasim watched her set it on the case, then went looking for something blue.
+The condenser gave its third descending tone. Ianthe took out the optical sensor she had used to align the nozzles and set it on the case.
 
 Rasim looked at the last red bar. “Enough for two samples?”
 
@@ -328,7 +328,7 @@ Rasim looked at the last red bar. “Enough for two samples?”
 
 Ianthe checked the ribbon on the nearest cord post. It flicked once toward the glass tile. “Three passive.”
 
-They carried the unit to a dry alcove behind the planter wall, away from feet and exposed circuits. Rasim came back with a square of blue scrap cloth. Ianthe connected the sensor and opened a fresh column in the log: visible opt-in signals, no pump output.
+They carried the unit to a dry alcove behind the planter wall, away from feet and exposed circuits. Rasim went off and came back with a square of blue scrap cloth. Ianthe connected the sensor and opened a fresh column in the log: visible opt-in signals, no pump output.
 
 “Should I hold it still?” he asked.
 
