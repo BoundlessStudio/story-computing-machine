@@ -300,7 +300,7 @@ Then the sun passed through the notch.
 
 Neth's chalk marks stayed beside the ditch. Halen's new pin stayed seated, and the nick on his thumb did not close. Along the lane, doors opened on a light none of them had seen reach the ground.
 
-Ilessa did not age. Neth's patched sleeves did not shorten. Their bodies kept no missing years to collect, and their memories did not empty.
+Ilessa did not age. Neth's patched sleeves did not shorten.
 
 Night came at its ordinary speed.
 
