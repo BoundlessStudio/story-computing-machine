@@ -160,7 +160,7 @@ Across other stretches of the cloth, cities went on prospering. Some never learn
 
 “Every market on those roads runs on my oaths.” Orsivet lays a hand on his robe, where the altars are murmuring. “The carters swear, the tolls hold, a widow can send her wool over the mountains with a boy of twelve and be paid for it. Take the oaths away and the guards won't go home. They'll stay where they are and stop answering to anyone.”
 
-Dembrel doesn't argue. He turns toward me. “You remember the first royal banner.”
+Dembrel doesn't argue. Orsivet turns toward me. “You remember the first royal banner.”
 
 I do. Its bird had a crooked beak because the banner maker's ancestor was better at horses. Afterward she bought a shop with her commission. Her eldest son turned its loft into a bedroom, and his wife put a yellow bowl in the window. I watched that bowl break. I watched it glued together, used for buttons, thrown away. The third generation painted the door blue. In the fifth, a boy left to become an actor and came home only twice, both times wearing shoes beyond his means.
 
