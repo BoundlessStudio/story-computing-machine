@@ -140,7 +140,8 @@ thing. Not one.”
 
 Sabine rose and crossed to the waist-high gate beneath the heaven sign. When
 she put her ticket against the brass plate, the gate gave a soft red pulse and
-stayed shut. She tried again, holding the ticket flatter.
+stayed shut. She tried again, holding the ticket flatter, then looked at the
+narrow service gap where the gate’s arm met the wall.
 
 “It’s the gate that reads them,” she said. “The train doors won’t, will they?”
 
@@ -253,9 +254,9 @@ pulse. The carriage doors sounded a warning tone.
 
 I let go of my ticket.
 
-There was a narrow service gap beside the gate where its arm met the wall.
-Hester had not mentioned it, and she made no move to block it. Sabine turned
-sideways and forced herself through, scraping one hip against the brass post.
+Hester had never mentioned the service gap, and she made no move to block it.
+Sabine turned sideways and forced herself through, scraping one hip against the
+brass post.
 The carriage doors began to meet.
 
 I leaned across the gate and caught one with both hands.
