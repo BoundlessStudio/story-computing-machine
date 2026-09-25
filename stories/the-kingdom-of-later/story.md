@@ -22,7 +22,7 @@ The blue thread brightened. On the token, *today* slid neatly into *tomorrow*.
 
 Water found the edge of my best hide.
 
-I lunged for it. The hide was heavy, half a winter's money wound around a wooden core, and damp had already curled the outer handspan. I dragged it under the worktable, kicked a basin beneath the leak, then dabbed the boot with my apron. The mark lightened but did not vanish. The pair belonged to a miller with wide feet and exacting heels. The miller was coming at dusk. The payment was meant to buy a week's rent, lamp oil, and enough onions and oats to keep me from counting crusts.
+I lunged for it. The hide was heavy, half a winter's money wound around a wooden core, and damp had already curled the outer handspan. I dragged it under the worktable, kicked a basin beneath the leak, then dabbed the boot with my apron. The mark lightened but did not vanish. The pair belonged to a miller with wide feet and exacting heels. The miller was coming at dusk. The payment was meant to buy lamp oil and enough onions and oats to keep me from counting crusts.
 
 Someone rapped twice and opened the door before I answered. The rent collector ducked beneath the lintel, shook rain from a dark wool shoulder, and opened the ledger carried against his chest.
 
