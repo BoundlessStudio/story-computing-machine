@@ -86,7 +86,7 @@ The healer was cutting yesterday’s loaf into the soup. “It’s cold in here,
 
 “You do.”
 
-“Not until you write down what happened before I tell you anything.”
+“Not until you’ve written down what you think happened.”
 
 “I know what happened.”
 
@@ -114,7 +114,7 @@ I did not. “The first column sustains the cleanest loop. Whatever those people
 
 She set a fourth onion in the bowl, then a fifth, and said nothing.
 
-“Purity often looks like that at first,” I said.
+“Purity often looks frail at first,” I said.
 
 A cup struck a table behind me, hard enough to spill.
 
@@ -318,6 +318,6 @@ Snowlight filled the room, clean enough to make every stain on the table visible
 
 She closed the ledger. “All right. Bring the lamp oil.”
 
-We went downhill together, carrying the records and the vessels due for return. Above us, the convergence frame waited in a cold room with an empty basin. It would never hold the pooled working I had built it for. What I carried down instead was four recurring patterns and one result that would not settle.
+We went downhill together, carrying the records and the vessels due for return. Above us, the convergence frame stood in a cold room around an empty basin.
 
 The path was narrow under new snow. The healer went first, testing each buried edge with her staff, and told me where to place my feet. I followed with the case held level against my chest. Inside, glass clicked softly with each careful step. Beneath it, my heart kept its frightened, finite pace.
