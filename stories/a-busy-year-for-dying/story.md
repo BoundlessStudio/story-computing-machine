@@ -328,7 +328,7 @@ He retreated behind the screen and set the hat on the sack. The tins fell with a
 
 "There was a cliff," said the man in the scarf.
 
-They moved her to the front. Kelro dragged the sack out, reset the tins, and began again. This time, when he emerged on the far side and dusted himself off, people clapped. They knew where he had gone.
+They moved her to the front. Kelro dragged the sack out, reset the tins, and began again. This time, when he emerged on the far side and dusted himself off, people clapped.
 
 He held up the sack. "You recognize a hat and a coat. You think you've seen a man. By the time you can look properly, he's somewhere else."
 
