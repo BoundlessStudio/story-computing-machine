@@ -236,7 +236,7 @@ Another arrow flashed left too soon.
 
 Kaith turned and found a delivery van already filling the gap. She snapped the wheel right. Metal passed close enough to comb rain from the cab's mirror. The rear tires broke loose, caught, and shoved them sideways across a band of violet light.
 
-Kaith's hands were shaking on the wheel. "Hell. Hell. Early, that one was still full." She dragged in a breath. "Show me it coming. Then show me when."
+Kaith's hands were shaking on the wheel. "Hell. That gap was still full." She dragged in a breath. "Show me it coming. Then show me when."
 
 The next arrow began as a dot on her left hand. It traveled across both wrists, slowly at first, then faster. Kaith watched the traffic rather than the light. The dot reached her right thumb at the instant a pair of taxis separated.
 
@@ -294,7 +294,7 @@ Arovi pushed back her hood.
 
 For the first time, she raised the projector without covering it. Light filled the cab ceiling: the four roads beyond the opposite bank, each now carrying practical marks. One had a charging station but three registry gates. One climbed into cold country with no service points. One followed the river through two small settlements. The last turned south toward a freight road whose map ended after forty kilometers.
 
-Kaith set the useless transponder fuse in the coin tray. She could put it back. She could arrive at the far bank broadcasting a vehicle that had somehow crossed the river after vanishing inside a scan tunnel. The record would expose the lie before she reached the first legal lane.
+Kaith set the useless transponder fuse in the coin tray.
 
 Arovi moved her own figure to the river road. Then she placed the little cab at the junction and waited.
 
