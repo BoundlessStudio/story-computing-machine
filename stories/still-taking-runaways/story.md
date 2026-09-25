@@ -10,7 +10,7 @@ canon: false
 
 Idrella had one foot on the ticket wagon's step when her skirt stopped her. A loop of gold braid had caught on a nail. She pulled, remembered what the costume woman had said about pulling, and stood with her knee bent while Rumbit finished serving a customer.
 
-“Two for tonight. Keep them dry. The red end is yours.” He pushed the tickets across the sill with both paws. “No, you've got the whole roll. Just those two.”
+“Two for tonight.” He pushed the end of the roll across the sill with both paws, and the customer gathered up the lot. “No, you've got the whole roll. Just those two. Tear at the red line.”
 
 The customer detached his tickets and departed. Rumbit looked down from the box that raised him to window height.
 
@@ -68,7 +68,7 @@ Velzie considered this with more attention than Idrella liked.
 
 “Mother. If I'm late.”
 
-Behind Idrella, Rumbit opened the dragon's left wing. Three thin panels of wood spread on little pegs. He whistled.
+At Velzie's elbow, Rumbit opened the dragon's left wing. Three thin panels of wood spread on little pegs. He whistled.
 
 “Late for what?” Idrella asked.
 
@@ -112,7 +112,7 @@ Idrella had barely slept for three nights, waking him whenever he stopped moving
 
 “I bit it,” Rumbit said. “Nothing.”
 
-“The biting wasn't part of the attempt.”
+Idrella gave him the look she kept for tumblers who came late to parade.
 
 “I was checking.”
 
@@ -140,7 +140,7 @@ Idrella kept her face still. Rumbit rubbed a paw along the wooden back.
 
 “Mother told him to give him back,” Velzie added. “But she laughed first.”
 
-“That was unkind.”
+“That was unkind,” Rumbit said.
 
 “I'm going to fly over the house. When he sees, he'll have to say he was wrong.”
 
@@ -150,7 +150,7 @@ There was a cape in this plan, and a flight, and a particular person required to
 
 “You said you took runaways.”
 
-“Yes. I should have asked more questions before I started welcoming you.”
+“I know I did. I meant—”
 
 Rumbit made a small sound. Matchstick's tail had curled around his ankle.
 
@@ -204,6 +204,8 @@ Rumbit hopped down from the step. He fitted one leg on either side of the dragon
 
 “He has only just learned to stand.”
 
+“And I'm riding him first,” Velzie said. “I hold his horns.”
+
 Matchstick took a step. Rumbit shuffled with him, delighted. The dragon extended both wings, caught the air once, and rose high enough that the bear's feet left the sawdust.
 
 “There!” Rumbit cried.
@@ -234,9 +236,9 @@ She could see that. She needed him to be somewhere else.
 
 Matchstick recovered, bobbed through the gap beside the cook wagon, and headed down the town road. The crowd from the matinee had gone; only a woman carrying a basket stood between the circus and the first houses. The woman ducked. Rumbit waved to her, then clutched the horn again as they tilted.
 
-“Bring him back!” Velzie called. “We're meant to go away!”
+“Bring him back!” Velzie called. “He's meant to take me!”
 
-They were going away. Idrella had no breath to point this out. Her boots were built for making an entrance down a short flight of steps, and a curl had shaken loose across her eyes. She spat it out of her mouth.
+Idrella's boots were built for making an entrance down a short flight of steps, and a curl had shaken loose across her mouth. She spat it away.
 
 At the first bend, Matchstick turned late. His wingtip scraped the hedge. Rumbit yelped, and Idrella lunged beneath him, arms out. The dragon's tail slapped her hat sideways; she had a glimpse of the bear's pale soles before another clumsy wingbeat carried him out of reach.
 
@@ -286,11 +288,11 @@ Velzie ran into the kitchen through the yard door. Her mother caught her by both
 
 “No. Matchstick's alive.”
 
-“I can see. Where have you been?”
+Her mother's eyes went past her to the table, where the dragon was shaking flour off his wings. Her hands tightened on Velzie's shoulders. “Where have you been?”
 
 “The circus.”
 
-Her mother's hands remained on her shoulders. Velzie looked at the floor, and then, with evident effort, up again.
+Her mother did not let go. Velzie looked at the floor, and then, with evident effort, up again.
 
 “I went to run away. But he came back.”
 
