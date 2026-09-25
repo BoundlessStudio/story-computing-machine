@@ -202,7 +202,7 @@ He did not climb as other people climbed. His fingers struck cracks and released
 
 “Where?”
 
-“Side netting, under the split crossbeam. Three.”
+“Side netting, under the split crossbeam. Three of them.”
 
 Down again.
 
