@@ -171,7 +171,7 @@ during showcase setup, away from the auditorium audience. Pulsewire sent a
 photo of the fire plan posted by the stairs, cropped so the school’s crest was
 gone, with the cameras she knew marked in red. She traced two exits on it: the
 public auditorium doors and a service corridor with no camera sightline. Three
-taps on the relay would call the corridor plan off. No debate afterward.
+taps on the relay would call the trap off. No debate afterward.
 
 Then Pulsewire ran the rest of her checklist, the way she did before every
 job. “If the network is compromised?”
@@ -296,7 +296,7 @@ The class knew his evacuation voice. Chairs scraped. A filament snapped across
 the main doors and cinched them shut. Another reached for the camera, carrying
 the Rollcaller’s living attention toward the growing audience beyond it.
 
-Three taps struck Gideon’s earpiece. The corridor plan was off.
+Three taps struck Gideon’s earpiece. The rehearsal-corridor trap was off.
 
 Pulsewire’s voice came through the relay, pitched low under the noise of the
 room. Pain roughened the scrambled words. “The wiring’s one route. Our
@@ -455,7 +455,7 @@ another.
 He did not know how they had changed their plan in the dark. He did not know
 whether Pulsewire could still hear properly, whether Kiteglass’s wrist had
 worsened, whether Mothlight’s remaining glow meant strength or the last of it.
-For the rest, he waited for whatever they decided to tell him.
+He would wait for whatever they decided to tell him.
 
 * * *
 
