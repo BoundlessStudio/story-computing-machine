@@ -250,7 +250,7 @@ Kasim released the case. “I'll hold the reflector.”
 
 They recorded the flake in place.
 
-At the seaward edge, however, Kasim kept looking toward the paired grooves. They followed them past marker seven to 7.08 kilometres, where the grooves climbed through a tumble of dressed blocks. Beyond, the line ran on toward a dark ledge at the foot of the rise. Squared shapes sat on it in rows, like blocks set down to wait for the next haul.
+At the seaward edge, however, Kasim kept looking toward the paired grooves. He and Anouk followed them past marker seven to 7.08 kilometres, where the grooves climbed through a tumble of dressed blocks. Beyond, the line ran on toward a dark ledge at the foot of the rise. Squared shapes sat on it in rows, like blocks set down to wait for the next haul.
 
 “That's where they set the first loads down,” he said. “Twenty minutes.”
 
@@ -344,8 +344,6 @@ He struck the rib with his heel. The surface answered hollow. “Left seam.”
 
 She shifted without argument. At the gap he found a chain of fitted stones under the weed, remnants of the raised route, and placed each boot before waving her across.
 
-Off to their right, gas burst through the silt in a row of pale fountains, along the line Anouk had plotted for the direct contour. The mud sagged, and the contour vanished into a widening bowl.
-
 “Marker six line?” Jessa asked.
 
 “Visual,” Kasim said. “Channel between.”
@@ -385,6 +383,8 @@ At marker four the salt cloud darkened from below. What had been a ceiling becam
 “Seventy-three. Not a promise. Acknowledged.”
 
 Kasim pressed his transmit key twice before he had air. “Acknowledged.”
+
+Short of marker three, gas burst through the silt off to their right in a row of pale fountains, along the line Anouk had plotted for the direct contour. The mud sagged, and the contour vanished into a widening bowl.
 
 The nursery pool had overflowed its eastern rim, exactly where Anouk's original route would have taken them. The juveniles still circled in the deep centre. At the landward edge, two shore workers in orange suits had reached the basin with aeration packs and small transport tubs.
 
