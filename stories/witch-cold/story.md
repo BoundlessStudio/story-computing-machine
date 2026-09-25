@@ -122,7 +122,7 @@ She nodded and handed the phone back.
 
 We prepared the route together. I could inventory hazards, but Nuala knew which barrier actually counted. A shut cupboard door was protection. A clear shower screen was not. A towel over a shelf was a barrier until the towel itself became a target.
 
-I closed doors. Nuala chose what came within three metres of her. She sat on the hall floor and laced the loose boot, slowly, and kept the whole outfit on; it was made for her work, and changing would cost time and privacy she had not offered. She clipped the dark brooch more securely. It did nothing for the cold. It was hers, and she wanted it there.
+I closed doors. Nuala chose what came within three metres of her. She made me take the loose cape from her shoulders, then sat on the hall floor and laced the loose boot, slowly, and kept the rest of the outfit on; it was made for her work, and changing would cost time and privacy she had not offered. She clipped the dark brooch more securely. It did nothing for the cold. It was hers, and she wanted it there.
 
 At the front door I hoisted the care case onto my shoulder and hugged it upright.
 
