@@ -182,7 +182,7 @@ She showed the tin, the postcard, the message.
 
 "It might have been."
 
-She photographed the card and the portrait and set them side by side in her vision. The handwriting gave her no reason to choose Agata over any other person. She kept the two images together anyway.
+She held up the card and brought the portrait up beside it in her vision. The handwriting gave her no reason to choose Agata over any other person. She kept the two images together anyway.
 
 "Where did the ship go?"
 
