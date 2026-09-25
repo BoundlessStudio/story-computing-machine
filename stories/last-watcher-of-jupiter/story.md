@@ -416,7 +416,7 @@ Jupiter rolled below them, its bands sliding at different speeds beneath the geo
 
 Forty minutes after the machines knelt, the next watch took formation.
 
-There were ten working emitters instead of twelve. Nine could sustain the quiet lattice. Ten could reshape it safely. They had exactly enough.
+There were ten working emitters instead of twelve, the fewest that could still reshape the lattice safely.
 
 Varai remained strapped inside dark Cairn Nine while Naveen walked her through manual cooldown. Without the integrator, the frame had no formation sense at all. Her canopy showed only Jupiter, the boom, and the green edges of other people's work.
 
