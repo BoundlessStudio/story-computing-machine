@@ -22,7 +22,7 @@ FOUR CROWNS. FOLDGATE BEFORE FIRST LIGHT. ANSWER IN BIRTH ORDER. THE HOUSE IS CL
 
 Then came the royal authentication: four bright strokes divided by darkness, a pattern that only a shard from the palace duskglass could impress on the relay.
 
-For two months, since armed attendants had carried the sisters in four directions out of a kingdom collapsing around them, Ilvara had practiced receiving messages without expecting a familiar hand behind them. This one broke the practice in six words. Four crowns. The title their mother had used at the supper table when no minister could hear. Foldgate, the old transfer station midway among their refuges. A clear house. Reunion before dawn.
+For two months, since armed attendants had carried the sisters in four directions out of a kingdom collapsing around them, Ilvara had practiced receiving messages without expecting a familiar hand behind them. This one broke the practice with its first two words. Four crowns. The title their mother had used at the supper table when no minister could hear. Foldgate, the old transfer station midway among their refuges. A clear house. Reunion before dawn.
 
 Her fingers settled on the plate.
 
@@ -216,7 +216,7 @@ Nuvaya, though—Nuvaya would not wait for birth order if she believed the other
 
 Rhevos's knife stopped. “Words?”
 
-“At Foldgate. Saw your shard. Coming by the refuge road. Hold the house.”
+“Fourth answers. Saw your shard. Coming by the refuge road. Hold the house.”
 
 “That puts Ternhold on the line.” Rhevos set the knife down. “Nobody names a guest's house. Not for a trick, not for anything.”
 
