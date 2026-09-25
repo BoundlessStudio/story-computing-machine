@@ -14654,16 +14654,16 @@
           "title": "Arlon",
           "alt": "Sculpted Impasto character reference sheet of Arlon for What Turned Eighteen",
           "source": "stories/what-turned-eighteen/art/characters/arlon.png",
-          "sourceSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+          "sourceSha256": "2034acf4d6f87e228a376f0375a4cca927c3af8fd622522ea0c91804a7ee25b5",
           "full": {
-            "path": "characters/what-turned-eighteen/arlon-6313718fa1b7e3c1.webp",
-            "sha256": "07967ca8d156d6220ffcfeaaa53da42b52e3c3d762139f0c4d40300ed551fdb2",
+            "path": "characters/what-turned-eighteen/arlon-2034acf4d6f87e22.webp",
+            "sha256": "de991c6a0f2b568fb395fe83f32be7920ec70532d2614844c474f505614e9f5e",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "characters/what-turned-eighteen/arlon-6313718fa1b7e3c1-thumb.webp",
-            "sha256": "dc5b97735c1d2899093c08fb79d645d47dc3a48b67f87ea57a568aebc8de1f4a",
+            "path": "characters/what-turned-eighteen/arlon-2034acf4d6f87e22-thumb.webp",
+            "sha256": "fd13558a5d08126a1c08fabbac40e9a3b75144938bc4c0fdfeec54d8d34c7a19",
             "width": 480,
             "height": 320
           }

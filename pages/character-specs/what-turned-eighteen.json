@@ -22,10 +22,10 @@
       "id": "arlon",
       "name": "Arlon",
       "role": "Birthday narrator whose nine bodies remain one person",
-      "form": "One eighteen-year-old person across exactly nine hand-length humanlike bodies",
+      "form": "One eighteen-year-old person across exactly nine identical full-size ordinary human bodies",
       "selectionEvidence": [
         {
-          "quote": "Nine flat, luminous bodies, each no longer than Maela's hand",
+          "quote": "Nine of me, each one my own height, my own face, my own bitten thumbnail.",
           "explanation": "Birthday narrator whose nine bodies remain one person"
         },
         {
@@ -34,16 +34,16 @@
         }
       ],
       "storyAppearance": {
-        "physical": "Exactly nine flat luminous hand-length bodies with translucent fins, mouths/tiny teeth and shared awareness; written cover direction prefers humanlike rather than fish."
+        "physical": "Nine identical, ordinary, full-size copies of the same eighteen-year-old: same face and bitten thumbnail, same gray shirt and trousers, bare feet. One centerless I. No glow, fins, flight or size change (owner direction 2026-09-25)."
       },
       "visualInterpretation": [
-        "Retain accepted cover adult eighteen-year-old humanlike face, tousled dark hair, gray clothing and translucent fins; no fish.",
-        "Exactly nine equal-scale full forms, no added portrait or prechange body. One shared identity."
+        "Retain accepted adult eighteen-year-old face, tousled dark hair and gray clothing from the previous sheet and cover; remove all fins, glow and miniature scale.",
+        "Exactly nine equal-scale, full-size, grounded full bodies in everyday poses; no added portrait or prechange body. One shared identity."
       ],
       "states": [
         {
           "name": "Birthday",
-          "description": " Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Depict EXACTLY NINE complete bodies in a three-by-three array, well separated, no grid lines. NO extra body, bust, portrait, reflection, silhouette, head study or other person. All nine are SAME eighteen-year-old person: match cover reference 3 dark tousled short hair, youthful pale olive HUMAN face, gray short-sleeved top and loose gray trousers, bare feet. Each is a MINIATURE HUMANOID no longer than a human hand; subtly flattened/lightweight torso with translucent pale mint membranous fins beside arms/back as in cover, NOT fish, mermaid, child, butterfly or naked body. Each complete head, two arms, two legs, feet, fins. Same size across nine, gently varied hovering front/three-quarter/side poses. Restrained soft GREEN light along fin edges, matte natural eyes. All same attentive expression, one person without central body. Early-evening warm/cool oil light on opaque ivory, no location, scale hand, trail, ring, prop or ground."
+          "description": "Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Exactly nine complete, full-size, ordinary human bodies of the same eighteen-year-old in a three-by-three arrangement: gray short-sleeved top, loose gray trousers, bare feet; grounded everyday poses; no fins, glow, flight or miniature scale."
         }
       ],
       "nameProvenance": {
@@ -51,8 +51,14 @@
         "evidence": "Exact source name; Arlo is Arlon's nickname, not separate identity."
       },
       "generation": {
-        "prompt": "Use case: illustration-story. Create ONE opaque 1536x1024 landscape 3:2 character reference sheet, warm ivory canvas, NOT transparent. Exactly one identity across EXACTLY NINE complete bodies, one view each, NO additional portraits. Keep all body parts and equipment within margins. Print exact character name as large dark serif heading, exact story title beneath. Generous warm ivory separation. Paint with the attached Canadian Group of Seven collection's broad interlocking colour/value masses, varied directional opaque oil strokes, quiet connecting passages and selective impasto; simplify face, hair and cloth as strongly as painted landscape forms. Matte eyes, connected subdued shadows, no glossy CGI, smooth photoreal faces, uniform bevelled chips or ornamental rimlight. No scenery, architecture, floor, terrain patch, vignette, other identities, isolated hand studies, paint swatches, palette strips or decorative text. Reference subjects do not donate identities or costumes.  Heading \"Arlon\"; subtitle \"What Turned Eighteen\". Small label \"One person - nine bodies\". Depict EXACTLY NINE complete bodies in a three-by-three array, well separated, no grid lines. NO extra body, bust, portrait, reflection, silhouette, head study or other person. All nine are SAME eighteen-year-old person: match cover reference 3 dark tousled short hair, youthful pale olive HUMAN face, gray short-sleeved top and loose gray trousers, bare feet. Each is a MINIATURE HUMANOID no longer than a human hand; subtly flattened/lightweight torso with translucent pale mint membranous fins beside arms/back as in cover, NOT fish, mermaid, child, butterfly or naked body. Each complete head, two arms, two legs, feet, fins. Same size across nine, gently varied hovering front/three-quarter/side poses. Restrained soft GREEN light along fin edges, matte natural eyes. All same attentive expression, one person without central body. Early-evening warm/cool oil light on opaque ivory, no location, scale hand, trail, ring, prop or ground.",
+        "prompt": "Create ONE opaque 1536x1024 landscape character reference sheet on a warm ivory canvas. Image 1 is the previous version of this exact sheet: keep its layout, heading typography, warm ivory background, the young man's face, dark tousled short hair, pale olive skin, gray short-sleeved top, loose gray trousers, bare feet, and its painterly oil brushwork. Image 2 supplies the oil-paint handling only (broad interlocking colour masses, directional opaque strokes); it donates no subject. Image 3 confirms the same face and hair only; ignore its scene, glow, wings and scale.\n\nTHE CHANGE: this person is now completely ORDINARY. Remove every fin, wing, membrane, translucent panel, green glow and light effect. No flying, hovering or floating poses. All nine figures are FULL-SIZE ordinary humans standing or sitting on the invisible ground, grounded weight, feet down.\n\nHeading \"Arlon\" in large dark serif, subtitle \"What Turned Eighteen\" beneath, small label \"One person - nine bodies\" exactly as in Image 1. Depict EXACTLY NINE complete full-body figures, EVERY one shown from the top of the hair down to the soles of BOTH bare feet (no figure cut off at the knees or waist) of the SAME eighteen-year-old in a loose three-by-three arrangement, well separated, all at the same adult scale, no grid lines, nothing overlapping the heading. Identical clothing on all nine: gray short-sleeved top, loose gray trousers, bare feet. Nine different grounded everyday poses: 1 standing relaxed facing front, 2 three-quarter view mid-step, 3 side view reaching one hand out, 4 sitting cross-legged, 5 kneeling on one knee, 6 standing holding a drinking glass, 7 looking back over one shoulder, 8 crouching with one palm flat on the ground, 9 standing with arms loosely at sides seen from behind at three-quarter so the face still shows. Same attentive, slightly uncertain expression on every face: one person without a central body. Complete heads, hands and feet inside the margins. No extra person, bust, portrait, reflection, silhouette, shadow figure, floor line, scenery, props other than the one glass, text other than the heading, subtitle and label. Matte eyes, no glossy CGI, no photorealism, no 3D.\n\nLAYOUT: three clear rows of three, evenly spaced, each figure centred in its own equal cell with generous empty ivory between cells; figures in different rows must not touch or overlap. Row one sits below the heading block. Keep the whole sheet in the same warm painterly style throughout.\n\nSCALE (important): the canvas is short, so draw every figure SMALL: a standing figure is at most one quarter of the canvas height. Leave a clear strip of empty ivory under every pair of feet and along the bottom edge of the sheet. Figure 6 holds the glass with both feet fully visible on the ground.",
         "references": [
+          {
+            "path": "pages/characters/what-turned-eighteen/arlon-6313718fa1b7e3c1.webp",
+            "role": "Previous accepted sheet: face, hair, clothing, layout and brushwork only; fins and flying poses ignored.",
+            "sha256": "07967ca8d156d6220ffcfeaaa53da42b52e3c3d762139f0c4d40300ed551fdb2",
+            "inspected": true
+          },
           {
             "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
             "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
@@ -60,21 +66,15 @@
             "inspected": true
           },
           {
-            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
-            "role": "Inspected birthday roof early evening light only, no setting.",
-            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
-            "inspected": true
-          },
-          {
             "path": "stories/what-turned-eighteen/title-image.jpg",
-            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "role": "Accepted face and hair only; its glow, wings and miniature scale ignored.",
             "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
             "inspected": true
           }
         ],
-        "tool": "image_gen",
-        "mode": "built-in",
-        "backendModel": null,
+        "tool": "openai-images-api",
+        "mode": "api",
+        "backendModel": "gpt-image-2",
         "attempts": [
           {
             "attempt": 1,
@@ -112,24 +112,56 @@
               "Same dark-haired eighteen-year-old humanlike clothed identity/finned anatomy across all nine matches explicit recorded cover direction and actual accepted cover; no separate personality or fish reading.",
               "Complete limbs and fins within canvas, pale green restrained luminosity, broad oil forms on empty warm ivory. Source/output/reference/specification pins verify."
             ]
+          },
+          {
+            "attempt": 2,
+            "tool": "openai-images-api",
+            "mode": "api",
+            "backendModel": "gpt-image-2",
+            "status": "REJECT",
+            "note": "REJECT: glass figure cut off at the knees; rows crowded",
+            "requestedBy": "owner (explicit request for the OpenAI Images API, 2026-09-25)"
+          },
+          {
+            "attempt": 3,
+            "tool": "openai-images-api",
+            "mode": "api",
+            "backendModel": "gpt-image-2",
+            "status": "REJECT",
+            "note": "REJECT: glass figure and bottom-left figure cut off",
+            "requestedBy": "owner (explicit request for the OpenAI Images API, 2026-09-25)"
+          },
+          {
+            "attempt": 4,
+            "tool": "openai-images-api",
+            "mode": "api",
+            "backendModel": "gpt-image-2",
+            "status": "PASS",
+            "note": "PASS",
+            "requestedBy": "owner (explicit request for the OpenAI Images API, 2026-09-25)"
           }
         ]
       },
       "output": "stories/what-turned-eighteen/art/characters/arlon.png",
       "status": "completed",
       "blockers": [],
-      "outputSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+      "outputSha256": "2034acf4d6f87e228a376f0375a4cca927c3af8fd622522ea0c91804a7ee25b5",
       "validation": {
         "status": "PASS",
-        "reviewedAt": "2026-09-24T16:36:31.685829+00:00",
+        "reviewedAt": "2026-09-25T00:00:00+00:00",
         "evidence": [
-          "Actual opaque RGB pixels inspected and manually counted: EXACTLY NINE complete bodies in three rows of three, no extra head/body/reflection; heading and One person - nine bodies label readable.",
-          "Same dark-haired eighteen-year-old humanlike clothed identity/finned anatomy across all nine matches explicit recorded cover direction and actual accepted cover; no separate personality or fish reading.",
-          "Complete limbs and fins within canvas, pale green restrained luminosity, broad oil forms on empty warm ivory. Source/output/reference/specification pins verify."
+          "Actual pixels inspected: exactly nine complete full-size bodies in three rows of three, heads to feet inside the canvas, no extra figure; heading, subtitle and label readable.",
+          "Same dark-haired eighteen-year-old in identical gray top and trousers, bare feet, across all nine; no fins, glow, wings, flying poses or miniature scale.",
+          "Warm ivory ground, no scenery; one prop (a glass) only. Assistant review, not owner approval."
         ],
-        "sourceSha256": "bb87db49b20456193811c53907fc636a1398b43747066a02586c603d7385a83b",
-        "outputSha256": "6313718fa1b7e3c150494791dc0c1b882db3b1fe9e1ea9a2f23e9dfa26232bdc",
+        "outputSha256": "2034acf4d6f87e228a376f0375a4cca927c3af8fd622522ea0c91804a7ee25b5",
         "references": [
+          {
+            "path": "pages/characters/what-turned-eighteen/arlon-6313718fa1b7e3c1.webp",
+            "role": "Previous accepted sheet: face, hair, clothing, layout and brushwork only; fins and flying poses ignored.",
+            "sha256": "07967ca8d156d6220ffcfeaaa53da42b52e3c3d762139f0c4d40300ed551fdb2",
+            "inspected": true
+          },
           {
             "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
             "role": "Inspected primary oil treatment: connected colour masses and directional brushwork only.",
@@ -137,19 +169,12 @@
             "inspected": true
           },
           {
-            "path": "stories/what-turned-eighteen/art/landscapes/02-sheets-around-the-roof.png",
-            "role": "Inspected birthday roof early evening light only, no setting.",
-            "sha256": "b38959eed7133e0af05360e6d181cc835a7c9d9f822b851fb6eb6b3807f6883e",
-            "inspected": true
-          },
-          {
             "path": "stories/what-turned-eighteen/title-image.jpg",
-            "role": "Inspected accepted humanlike Arlon and mature curly-haired Maela appearances; ignore photo-style, scenery and original count composition.",
+            "role": "Accepted face and hair only; its glow, wings and miniature scale ignored.",
             "sha256": "221d0530452ccba19fe700b6ebba996fb3448c1a023a6b8497e52f331379e7e4",
             "inspected": true
           }
-        ],
-        "specificationSha256": "d6afaa975d6ade36958574f1b61154445c32736e334c7da883216eb93bcb74fc"
+        ]
       }
     },
     {
