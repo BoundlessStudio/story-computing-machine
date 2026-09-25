@@ -50,7 +50,7 @@ The cook set down his pot. Water crept around the lid and darkened the dust.
 
 “For the brake leaf?” Kedra asked.
 
-Beshan nodded. Then the words came in a rush. “It was intact when I delivered it. I cut outside the letter bed, I left two fingers of backing, I braced the lip before I lifted. The east mate’s still seated. He’d sell it back to me for one day, same price. He said he’d start using it at first bell, he told me that too, but the shelf post pays our shares on the weigh-out, and I thought once we were over I could send a rider back with the price before dark, and he’d only have had it—” He stopped. “It was clean when I left it. The cut was clean.”
+Beshan nodded. Then the words came in a rush. “It was intact when I delivered it. I cut outside the letter bed, I left two fingers of backing, I braced the lip before I lifted. The east mate’s still seated. He’d sell it back to me inside a day, same price. He said he’d start using it at first bell, he told me that too, but the shelf post pays our shares on the weigh-out, and I thought once we were over I could send a rider back with the price before dark, and he’d only have had it—” He stopped. “It was clean when I left it. The cut was clean.”
 
 “You meant to cross first.”
 
@@ -224,7 +224,11 @@ Kedra wrote it on the block. The driver came forward first and made his mark. Sh
 
 “I witness return after I see return,” he said.
 
-She looked at the cook. He showed her his palms, still wet from the pot. Lurem supplied one of his own hands instead, and the last mark went down while the animals shifted and the shelf-road margin ran out.
+She looked at the cook. He showed her his palms, still wet from the pot.
+
+“Dry one,” Kedra said.
+
+He dried one on his sleeve and took the pen, and the last mark went down while the animals shifted and the shelf-road margin ran out.
 
 * * *
 
@@ -376,7 +380,7 @@ Before dawn, they transferred the clean metal to Lurem and watched him mark rece
 
 “Four if the south bend is wet,” said the rigger.
 
-The cook climbed to his seat. “It had better be. I’ve water for three.”
+The cook climbed to his seat. “It had better not be. I’ve water for three.”
 
 “Left cask first,” Kedra called. “Glass wagon inside on the bends. Put a lead line on the rear animal.”
 
