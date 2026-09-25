@@ -320,7 +320,7 @@ Oshara pointed at the doors. "You are still putting ours back."
 
 "Before you go."
 
-Oruvane sighed smoke over her hair, but he hooked the scratched oak door with his pole and slid it down the corridor, inch by inch, as far as his neck would reach. Torvik and Oshara walked it the rest of the way to its frame, and the quartermaster followed with two pins in her fist. Then Oruvane bent his neck to the gate. When the quartermaster came back with more pins, the hedge-worker held three trembling lights above the frame. Cavren took one edge of the gate; Dabria reached for the other, then stopped.
+Oruvane sighed smoke over her hair, but he hooked the scratched oak door with his pole and slid it down the corridor, inch by inch, as far as his neck would reach. Torvik and Oshara walked it the rest of the way to its frame, and the quartermaster followed with two pins in her fist. Then Oruvane bent his neck to the gate and nosed it upright. The quartermaster came back with more pins, and the hedge-worker held three trembling lights above the gate frame. Cavren took one edge of the gate; Dabria reached for the other, then stopped.
 
 "Do you want me here?" she asked him.
 
@@ -340,7 +340,7 @@ Oruvane turned sharply. "Then I may find you."
 
 Dabria could have asked for routes, dates, signals. She could have made departure safe enough to feel like permission. Instead she put both hands in her empty pockets.
 
-"I'll miss you," she said. "Even with every door still to rehang. That isn't—" She stopped. "I'll miss you."
+"I'll miss you," she said. "Even with the doors still to rehang. That isn't—" She stopped. "I'll miss you."
 
 Oruvane watched her long enough that she nearly explained. Then his wings opened, painted blue and gold against the whitening sky, and he left.
 
