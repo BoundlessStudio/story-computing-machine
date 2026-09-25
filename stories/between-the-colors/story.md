@@ -290,7 +290,7 @@ He drew in a breath.
 
 “Her wages,” I said.
 
-“That too. Of course that too. I was downstairs the whole time, Iseth. I was down there with your puppets.”
+“That too. Of course that too. I was downstairs, Iseth. I was down there with your puppets.”
 
 An iron buckle knocked against something near my knee. A watchman introduced himself by his office and asked if I owned the theatre.
 
