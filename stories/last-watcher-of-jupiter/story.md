@@ -14,7 +14,7 @@ Eight years with the analog integrator, and she still counted that lag in her te
 
 “Nine on mark,” she said.
 
-Twelve mecha hung around Jovian Station's outer boom, all facing down. Their long legs were folded under them to clear the habitat ring; their emitters aimed through the storm tops toward the electroplasma mass moving below. It had no name. The field team had measured it across a span larger than a continent, rising and sinking through charged hydrogen, branching when the lattice tightened, closing again when it relaxed. Romesh Ival called it alive and would not call it intelligent.
+Twelve mecha hung around Jovian Station's outer boom, all facing down. Their long legs were folded under them to clear the habitat ring; their emitters aimed through the storm tops toward the electroplasma mass moving below. It had no name. The field team had measured it across a span larger than a continent, rising and sinking through charged hydrogen, branching when the lattice tightened, closing again when it relaxed. Romesh Ival called it alive. She would not call it intelligent.
 
 For thirty years the watch had kept its upper currents below inhabited orbit. Varai thought of it the way she thought of Nine's shoulders under load: a weight that stayed where it was only while someone kept bracing it.
 
