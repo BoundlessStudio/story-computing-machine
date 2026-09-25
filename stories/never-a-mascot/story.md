@@ -80,7 +80,7 @@ The field surgeon sat against the milestone, binding his own thigh above a deep 
 
 “Can you make the ridge?” the sergeant asked.
 
-“With a shoulder, perhaps sixty paces. Not quickly. If the bleeding starts again, put me down before I put you down.”
+“With a shoulder, perhaps sixty paces. Not quickly. If the bleeding starts again, set me down and leave me.”
 
 The pitch line ran from the roadside jars into reeds beneath the causeway. A slowcord waited in its clay gutter. Once lit, it would give them six minutes to get behind the low ridge, two hundred paces back along the road. The sergeant had a coal nested in her tinder horn and the striker in her fist.
 
