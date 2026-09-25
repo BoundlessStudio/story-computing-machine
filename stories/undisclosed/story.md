@@ -166,7 +166,7 @@ Cyril waited. On a neighbouring floor, a guard was trying to edge toward a stair
 
 The woman touched the stretcher's orange cover, then the paramedic's sleeve. Eventually she let them help her onto it. Cyril made the opening broader so they could go through side by side.
 
-The others took longer than lifting the buildings had. Daybreak checked names against her list. One man would not leave without the teeth he kept in a cup; Cyril moved the cup to the bedside when Daybreak pointed it out. Another asked where his brother was, though no brother appeared in her photographs. She asked his name and had the paramedic write it down. Cyril could offer him no answer.
+The others took longer than lifting the buildings had. Daybreak checked names against her list. One man would not leave without the teeth he kept in a cup; Cyril moved the cup to the bedside when Daybreak pointed it out. Another asked where his brother was, though no brother appeared in her photographs. She asked the brother's name and had the paramedic write it down. Cyril could offer him no answer.
 
 By the seventh person, Daybreak's light had become thin along the edges. He no longer needed her to protect anyone from the guns, but the man she was helping insisted on keeping his feet upon her luminous plane rather than the unsupported floor. She carried him slowly across it, sweating, while Cyril stood unseen on the hillside with his hands in his pockets.
 
