@@ -60,8 +60,6 @@ His eyes went still before the rest of him did. Then he laughed too quickly. “
 
 “I know your voice with teeth missing.”
 
-“Well, that’s—” He didn’t find the rest of it.
-
 Sivra dragged him up by his collar. “Shoes.”
 
 The dead radio on the office shelf snapped alive.
@@ -94,7 +92,7 @@ He swept a second pistol from beneath the parts counter and fired. The bullet to
 
 She came at him anyway.
 
-Sivra caught the chopping wrist before the blade reached Olt’s throat. The woman twisted, thinking Sivra had chosen her brother, and the edge opened Sivra’s forearm from elbow to palm. Skin spread. A pale flexor tendon lifted into the cut like a wet cable, and her last two fingers folded uselessly.
+Sivra caught the chopping wrist before the blade reached Olt’s throat. The woman twisted, and the edge opened Sivra’s forearm from elbow to palm. Skin spread. A pale flexor tendon lifted into the cut like a wet cable, and her last two fingers folded uselessly.
 
 Pain emptied the bay of everything except weight.
 
@@ -126,7 +124,7 @@ Sivra wrapped her arm in a mechanic’s shirt, cinched it with a cargo strap, an
 
 “After the tenement,” the woman told him.
 
-“You’re leaking into your boot.”
+“You’re leaking into your boot,” Olt said.
 
 She shut her eyes at the next seam and did not answer.
 
