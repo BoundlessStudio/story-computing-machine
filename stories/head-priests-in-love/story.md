@@ -26,7 +26,7 @@ Levara was thirty-eight. She had been head priest long enough to recognize an in
 
 The rain stopped dimpling the basin. Every drop met the water and vanished without a ring. Holdfast had taken the knot.
 
-Across the channel, Ambel stepped into the circuit boat. He wore Farwake's coat of pale sailcloth with the cuffs unfastened, and his dark hair had already plastered itself to his forehead. At forty-one, he ought to have learned that loose things traveled seaward in his god's presence. The wrapped loaf under his arm began inching toward the gunwale before he caught it with one elbow.
+The circuit boat lay across the channel, stern to Holdfast's quay and bow to Farwake's wharf. At its far end, Ambel stepped down into the bow. He wore Farwake's coat of pale sailcloth with the cuffs unfastened, and his dark hair had already plastered itself to his forehead. At forty-one, he ought to have learned that loose things traveled seaward in his god's presence. The wrapped loaf under his arm began inching toward the gunwale before he caught it with one elbow.
 
 Laughter rose from both wharves, affectionate on one side and hostile on the other.
 
@@ -40,7 +40,7 @@ The Holdfast wharf stamped its approval. Farwake's people hissed. Ambel's mouth 
 
 Levara stepped aboard. The boat sank under her weight, then seemed to think better of rocking. She fixed the home line to the stern cleat and checked the six turns with her thumb. When she reached for the bow line, Ambel said, quietly enough for the rain hoods nearest them not to hear, "Left buckle."
 
-Her sandal strap had worked loose. She fastened it without thanking him.
+Her boot buckle had worked loose. She fastened it without thanking him.
 
 "Bow away," she called.
 
@@ -80,13 +80,9 @@ He glanced first at her, then at the white scar of salt across her closed hand. 
 
 "We are discussing the reach of consent under rival jurisdictions."
 
-"No. You're testing a knot before you put weight on it."
+"You're testing a knot before you put weight on it."
 
-She drew the line free of the ring. The released end crept across the floorboards toward the bow until she pinned it with her heel. "That is an image, not an answer."
-
-"It's the answer you're getting."
-
-"The review is part of our duty."
+She drew the line free of the ring. The released end crept across the floorboards toward the bow until she pinned it with her heel. "The review is part of our duty."
 
 "The review happens with six clerks and both councils in the room. You hate having no minutes taken."
 
@@ -95,10 +91,6 @@ He bent to the oars again. Levara could have invoked her office, or the schedule
 Instead she said, "Your bread is moving."
 
 Ambel caught the parcel at the bow. "Coward."
-
-"Careless."
-
-"I meant you."
 
 He tore the loaf in two and offered her the larger half. It was dense with honey and black seeds, made by the bakers who provisioned departing ships. Levara had eaten their bread on every circuit and complained each time that it stuck to her teeth. Ambel continued bringing it.
 
@@ -152,7 +144,7 @@ He peeled it back and wrung it out. "A persuasive demonstration."
 
 "Of what?"
 
-"You let Holdfast catch me and promise you'll loosen the line afterward."
+"Of what happens if I let Holdfast get a line on me because you've promised to loosen it afterward."
 
 "I did not foul it deliberately."
 
@@ -160,9 +152,9 @@ He peeled it back and wrung it out. "A persuasive demonstration."
 
 "Then don't use an accident as a doctrinal argument."
 
-"You began interviewing my soul before we cleared the breakwater."
+"You began interviewing my soul before we left the inner water."
 
-There it was: not anger, yet, but the withdrawal of an ease she had come to depend on without ever naming it. He stepped around her to raise the sail. Usually he warned her before the boom crossed. This time she had to duck.
+He stepped around her to raise the sail. Usually he warned her before the boom crossed. This time she had to duck.
 
 Beyond the mouth, Brackwater Reach widened beneath rain clouds thinning from charcoal to pewter. The reef made a black half-circle around it, marked by three lanterns and the pale churn of Farwake's water. Ambel set their course for the first light. Levara flaked the wet home line into exact coils and tried to find a version of the truth that would not sound like surrender.
 
@@ -182,7 +174,7 @@ For seven years she had watched him find laughter in council deadlocks, funerals
 
 Levara dragged the rope through the water. The letters dissolved, but he had seen them.
 
-"Farwake spoke to me at the launch," Ambel continued. He sat on the opposite bench and pulled the wet sleeve straight over his wrist. "Through the channel under the cradle. 'Bring her beyond every fastening.' He promised a clean outward current for every ship I bless this season if I succeeded."
+"Farwake spoke to me at the launch," Ambel continued. He sat on the opposite bench and pulled the wet sleeve straight over his wrist. "While your keeper was checking your knot. I had my hand in the water off our wharf, and he said it in the pull against my fingers. 'Bring her beyond every fastening.' He promised a clean outward current for every ship I bless this season if I succeeded."
 
 The reef bell moved once above them, though Holdfast had stilled the water. Its note was small and sour.
 
@@ -206,7 +198,7 @@ Ambel looked toward the lantern, not at her. "You worked out the proper way to r
 
 "To you."
 
-The answer struck because it was careless. Levara stood so quickly the boat rocked inside Holdfast's calm.
+Levara stood so quickly the boat rocked inside Holdfast's calm.
 
 "Yes, to me. I am not a trap my god sets. I had the command, and I questioned it. I asked you questions rather than lying. Poor questions, apparently, but mine."
 
@@ -226,9 +218,9 @@ Levara's fluency deserted her at precisely the point it was supposed to prove us
 
 "Then make it shorter."
 
-She sat. The bread had gone to paste in her mouth. "I thought if you came to Holdfast, I would be permitted to want you."
+She sat. Her half of the loaf was still in her coat pocket, sodden and uneaten. "I thought if you came to Holdfast, I would be permitted to want you."
 
-Ambel's hand tightened on the tiller. "Permitted by whom?"
+Ambel's hand tightened on the edge of the bench. "Permitted by whom?"
 
 "Everyone."
 
@@ -240,7 +232,7 @@ Ambel's hand tightened on the tiller. "Permitted by whom?"
 
 He pulled the line free. Holdfast's calm broke at once, and the bell began to swing in the returning chop. Ambel did not call Farwake. For a few breaths they rose and fell in water claimed by neither god, the sail hanging empty above them.
 
-"I won't be captured ground," he said. The anecdotes and jokes were gone. "Not for Farwake. Not for you."
+"I won't be captured ground," he said. "Not for Farwake. Not for you."
 
 "I don't want a trophy."
 
@@ -250,7 +242,7 @@ He pulled the line free. Holdfast's calm broke at once, and the bell began to sw
 
 He flinched.
 
-"No, listen. I want to speak to you on a morning that isn't prescribed by treaty. I want to disagree with you without sixty people recording which of us blinked. I have wanted that for years. I imagined one means of obtaining it, and that means was wrong. Those statements are not equivalent."
+"No, listen. I want to speak to you on a morning that isn't prescribed by treaty. I want to disagree with you without sixty people recording which of us blinked. I have wanted that for years. I imagined one means of obtaining it, and that means was wrong."
 
 "You always do that."
 
@@ -266,8 +258,6 @@ His jaw shifted. After a moment, he nodded.
 
 "No. It isn't."
 
-He had done what he always demanded of disputants and rarely managed when the dispute touched him: corrected himself while the correction still cost something.
-
 Levara waited. The reef bell knocked twice. Farther out, a line of foam marched past the lantern toward open water.
 
 "I imagined it too," Ambel said.
@@ -280,7 +270,7 @@ For one beat, she heard nothing but the reef bell.
 
 "Yes."
 
-"Holdfast stilled the surge against the south quay when the piles split. He gives the ferry families sleep in winter. His shrine takes in people whose own houses have turned them out. I do not love him because I have failed to imagine leaving."
+"Holdfast gave the net-mender's boy back to his mother after the sea had kept him nine days. He gives the ferry families sleep in winter. His shrine takes in people whose own houses have turned them out."
 
 "All right."
 
@@ -288,15 +278,13 @@ For one beat, she heard nothing but the reef bell.
 
 "It is. You are staying because you mean it. I heard you."
 
-The simple sentence left her with nowhere to press. Ambel looked tired now, and cold. His hand shook once as he reached for the halyard.
+Ambel looked tired now, and cold. His hand shook once as he reached for the halyard.
 
-"Farwake has carried people away from lives that were killing them," he said. "Some came back. Some didn't. He doesn't call every departure a wound. I mean that too."
+"Farwake has carried people away from lives that were killing them," he said. "Some came back. Some didn't. He doesn't call every departure a wound."
 
 Levara could have named the families for whom a departure had been exactly that. The argument was seven years old and would survive them both.
 
-"I hear you," she said.
-
-Ambel raised the sail and called Farwake. The current gathered beneath them, not gently, but cleanly. They rounded the lantern and entered the long dark arc of the reef.
+Ambel raised the sail. Levara took the halyard out of his hand and made it fast, and he let her. Then he called Farwake. The current gathered beneath them, not gently, but cleanly. They rounded the lantern and entered the long dark arc of the reef.
 
 They worked the next two stations with little speech. At one, Levara's chilled fingers failed to pull a salt-crusted knot snug, and Ambel held the lantern while she worked it loose with her teeth. At the next, his bread wrapping escaped. She hooked it before it went overboard and tucked it under his thigh without comment.
 
@@ -306,11 +294,7 @@ Ambel broke the silence. "What happens if neither of us converts?"
 
 Levara had been preparing an answer for half the circuit. "The divine commands fail. We complete the truce. We report that no change of allegiance occurred. Any further disclosure would require consideration of our duties to our offices, our councils, and the people affected."
 
-"That answer has furniture."
-
-"You asked what happens."
-
-"I asked what happens to us."
+Ambel waited. When she added nothing, he said, "I asked what happens to us."
 
 She watched the lantern light pass over his hands, broad-palmed and nicked by years of rope. Once she had thought attraction should feel like disorder. This did not. It felt like recognizing a route from the water after knowing it only from charts: every turn already present, the whole shape newly unavoidable.
 
@@ -382,7 +366,7 @@ Levara caught the iron ring, passed the home line through it, and tied six turns
 
 "Holdfast," she answered, "what goes out remains answerable to home."
 
-The harbor water stilled around them. Their old disagreement stood intact.
+The harbor water stilled around them.
 
 Together, as the truce required, they said, "Between the claims, let passage stand."
 
