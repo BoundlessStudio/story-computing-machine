@@ -22,7 +22,7 @@ That was the voice grown people used when he had misunderstood something expensi
 
 "By the Makers. You believed every word they said. Come on."
 
-She caught his sleeve and towed him between the tables. The sword tapped three chair backs on the way. He tried to apologize to the occupants, but she was already pulling out a broad chair beside the hearth.
+She caught his sleeve and towed him between the tables. The sword tapped three chair backs on the way. He tried to apologize to the occupants, but she was already pulling out a broad chair at the back, beside the hearth.
 
 "Sit, sit. Time for a common sense lesson for the summoned child. HUSBAND! Bring food and drink. We got another one."
 
@@ -56,7 +56,7 @@ He had to think back beyond the circle of singing men, the cold stone beneath hi
 
 "Right. We can improve on that."
 
-Pemric came through the curtain carrying a tray. He was bald on top, with a great deal of white hair everywhere else, including on the backs of his hands. He set down a bowl of meat and barley, a loaf with a split crust, and a cup that smelled of apples.
+Pemric came through the curtain carrying a tray. He was bald on top, with a great deal of white hair everywhere else, including on the backs of his hands. His right foot came down on its outer edge at every step, so the cup on his tray rocked and settled as he crossed to the table. He set down a bowl of meat and barley, a loaf with a split crust, and a cup that smelled of apples.
 
 Jemby picked up the cup. "Is this ale?"
 
@@ -76,11 +76,11 @@ He did. He drank half before remembering that he was being watched, then put the
 
 Berrit looked at the disc he offered. One side bore a sun; the other had a deep square punch mark.
 
-"That's for the royal kitchens."
+"That's a barracks meal token."
 
 "It's gold."
 
-"It's brass. You'll get a meal with it at the barracks. Here, you'd have to find someone who wants a meal at the barracks."
+"It's brass. Here, you'd have to find someone who wants a meal at the barracks."
 
 He rubbed the edge. It stayed golden.
 
@@ -204,7 +204,7 @@ Jemby pulled the bowl closer. The northern road had no moth in it now, only a bu
 
 Pemric followed his look toward the hearth.
 
-"You won't have to go with that company," he said. "Plenty of people come back from those expeditions. But you don't know how to travel with them yet, let alone fight."
+"You don't have to go with that company," he said. "Not tomorrow. Plenty of people come back from those expeditions. But you don't know how to travel with them yet, let alone fight."
 
 "I could learn."
 
@@ -212,7 +212,7 @@ Pemric followed his look toward the hearth.
 
 Berrit put her hands on the back of her husband's chair. "What else did they promise?"
 
-Jemby took the folded paper from inside his tunic. He had asked for something to write on after the third speech. The man with the blue sash had laughed, but had given him a pen.
+Jemby took the folded paper from inside his tunic. He had asked for something to write on after the third speech. The man with the blue sash had laughed, but had given him paper and a pen.
 
 "Riches. A place at court. The gratitude of the nation."
 
@@ -290,13 +290,7 @@ Jemby retrieved a piece from his mouth.
 
 "All this," Berrit said, indicating her husband, "and the end of his grand adventure was a bed in my father's kitchen. With his boots on, because his feet had swollen too much to get them off."
 
-"That wasn't the end."
-
-"It was the end of the soldiering."
-
-"Yes. But I wasn't miserable every day before that, either."
-
-She started to answer. He went on, still quietly, "I liked the moth. I liked the people I went with. You can't tell him I wish none of it had happened."
+"I liked the moth," Pemric said quietly. "I liked the people I went with. You can't tell him I wish none of it had happened."
 
 "I don't want him limping in here after six months."
 
@@ -336,7 +330,7 @@ Jemby looked at the white hair on Pemric's hands.
 
 "Maybe the people who brought me are better."
 
-"Maybe. I haven't met them."
+"I haven't met them."
 
 "There were seven."
 
@@ -382,7 +376,7 @@ Neither of them told him to be brave. Pemric sat with his hands between his knee
 
 "Of course," said Pemric.
 
-"I want them to show me. Before I go anywhere."
+"I want them to show me how they'd send me back. Before I go anywhere."
 
 Berrit nodded.
 
