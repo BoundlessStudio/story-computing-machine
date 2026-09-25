@@ -38,7 +38,7 @@ The mirror was fixed to the wall in a frame built to take an impact. A dark cove
 
 "That wasn't the variable."
 
-"I know." They pressed both palms to the cool glass and checked the frame for movement. "Still no. If it gets confusing, put the amber on and I'll go sit in the blue. Then you can pull it."
+"I know." They pressed both palms to the cool glass and checked the frame for movement. "Still no. If it gets confusing, put the amber on and I'll go sit in the blue. Then you can pull the cover."
 
 I put a check beside MIRROR TRACK.
 
