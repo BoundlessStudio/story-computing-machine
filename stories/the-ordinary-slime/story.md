@@ -76,7 +76,7 @@ The warden glances at the floor. "Cloth."
 
 He puts the trays down. "After. They don't do it on their own."
 
-"You told me they change color every wet season," you say. "You said when it rains long enough they go blue, and that's exactly what—"
+"You told me they change color every wet season," you say. "You said when it rains long enough they go blue."
 
 "After a long rain they bank up on the mica. Some go blue, some years, when the beds are full." He looks into your hands, not at you. "Take one off the wall and it's green again before you reach the shed. I told you that part too."
 
@@ -86,7 +86,7 @@ The assay-master draws a clean wet line of mica clay around the first tray. "Put
 
 "Salt burns them," the reed keeper says. "They ball up and you get nothing."
 
-"I washed. I washed before I came up."
+"I washed before I came up."
 
 "Then rinse again." The master holds out her hand, and the reed keeper passes her the bucket. She sets it at your elbow.
 
@@ -246,7 +246,7 @@ The first brick comes free with a gush no wider than your wrist. Muddy water spi
 
 They widen the opening to a handspan. Water drives through with a deep, hollow cough. The old channel catches it and carries it toward the reed beds. Behind the bricks, something settles with a sound you feel through your soles.
 
-"It's slowing," you say. "The seep's slowing, it's working—"
+"It's slowing," you say. "The seep's slowing. It's working."
 
 The master bends close. "Call the card, not the meaning."
 
