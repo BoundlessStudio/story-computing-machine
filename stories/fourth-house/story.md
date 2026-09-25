@@ -16,37 +16,37 @@ Zorevi Nask had put the fired-clay rings in order of thickness twice when Pelmar
 
 “Measure the glaze.” Pelmara tapped a pale blister along the inner curve. Her fingernail made a dry, high sound. “The body underneath cooled crooked.”
 
-Zorevi turned the ring so the blister faced her. She had been in the room since sunrise arranging the morning into columns: warm basin, clay strips, load frame, witness seals, five copies of the termination form. The old coupling from Pelmara’s current job sat apart on a folded rag, stained green at the throat. She had not made a column for things that lied.
+Zorevi turned the ring so the blister faced her. She had been in the room since sunrise arranging the morning into columns: warm basin, clay strips, load frame, witness seals, five copies of the termination form. The old coupling from Pelmara’s current job sat apart on a folded rag, stained copper-green at the throat by years of glaze fumes. She had not made a column for things that lied.
 
 “I’ll mark it irregular.”
 
-“Mark it thin on the east side. If you call it irregular, Ishket will spend half an hour deciding whether irregular means unusable.”
+“Mark it thin under the blister. If you call it irregular, Ishket will spend half an hour deciding whether irregular means unusable.”
 
 At the far end of the table, Ishket looked up from the load-frame screws. “It does.”
 
-Pelmara pulled out the chair beside Zorevi’s, then did not sit. “My permit dies at noon. The cistern keeper already thinks I’m inventing paperwork to avoid his west stack.”
+Pelmara pulled out the chair beside Zorevi’s, then did not sit. “My permit dies at noon. The kiln keeper already thinks I’m inventing paperwork to avoid his west stack.”
 
 “Your permit expires,” Zorevi said. “Permits do not—”
 
-“Tea?” Uvena asked from the kettle.
+“Tea?” Uvena asked from the kettle. The Inherited examiner had brought Pelmara’s file and left it open beside the cups, weighted with a spoon.
 
 “No.” Pelmara flexed both hands, one finger at a time. “Thank you.”
 
 Beral Quor stood by the narrow window with his coat buttoned to the neck though the room was warm. For ten years, whenever Pelmara used his gift to soften fired pipe, some measure of heat had gone out of him. The contract called that burden acceptable within declared hours. His grey lips never had.
 
-“We can renew,” he said.
+“We can renew,” he said. “Noon comes, you’ve got no permit. I don’t mind the cold.”
 
-Pelmara’s fingers stopped. “We settled that.”
+Pelmara’s fingers stopped. “You’ve got your coat done up to the chin, Beral.”
 
-“The offer remains until withdrawal.”
+He left the button where it was.
 
-“Then let it remain quietly.” She took her hands off the table. “Zorevi. Before noon.”
+“We settled that.” She took her hands off the table. “Zorevi. Before noon.”
 
-Zorevi checked the wall clock: two hours and fourteen minutes. Her first certification chaired without a senior assessor in the room, and already the subject was correcting her objects, her nouns, and her pace. Yet the corrections were sound. That was the worse comfort.
+Zorevi checked the wall clock: two hours and fourteen minutes. Her first certification chaired without a senior assessor in the room, and the subject had already corrected her rings and her vocabulary. She could not fault either correction.
 
 She drew the termination form between them. “Beral Quor, you affirm that the clay-softening faculty currently used by Pelmara Jossan was supplied by you, remains yours to recall, and has not been divided or supplemented by a second giver.”
 
-“I affirm the first two.” Beral came to the table. “The third is your language. I know what I gave. I don’t know every hand that ever touched hers.”
+“The first two, yes.” Beral came to the table. “The last I can’t swear to. I know what I gave. I don’t know every hand that ever touched hers.”
 
 Zorevi’s pen hovered.
 
@@ -54,7 +54,7 @@ Zorevi’s pen hovered.
 
 So Zorevi did.
 
-The city recognized three houses because every licensed faculty had, until that morning, entered a worker’s life in one of three ways. A Studied practice could be taught and repeated by another qualified living user. An Inherited faculty appeared during development and recurred in a family. A Gifted faculty was supplied by another living person and could, according to its terms, be withdrawn. The register was ink, linen paper, and municipal confidence. It had never performed magic. It decided who might legally repair a cistern before lunch.
+The city recognized three houses because every licensed faculty had, until that morning, entered a worker’s life in one of three ways. A Studied practice could be taught and repeated by another qualified living user. An Inherited faculty appeared during development and recurred in a family. A Gifted faculty was supplied by another living person and could, according to its terms, be withdrawn. The register was ink, linen paper, and municipal confidence. It decided who might legally reline a kiln flue before lunch.
 
 Beral washed his hands. Pelmara did the same, holding them under the warm stream longer than necessary. When they faced each other, she offered both palms. He took them lightly, thumb below her left forefinger, two fingers against the pulse of her right wrist.
 
@@ -62,7 +62,7 @@ Beral washed his hands. Pelmara did the same, holding them under the warm stream
 
 “Possibly?”
 
-“You never withdrew it before.”
+“I’ve never taken one back before.”
 
 Pelmara gave him a look worn smooth by ten years of similar answers. “Go on.”
 
@@ -92,19 +92,19 @@ The first clay strip lay on a black tile. Beral set two fingers on it. Under his
 
 Pelmara tried the second strip. She placed her fingers exactly as Beral had. Nothing happened.
 
-“Again with pressure at the center,” Ishket said.
+“Again,” Ishket said. “Harder, right in the middle.”
 
 “The Gifted test is complete,” Zorevi said.
 
-“The recall is complete. The absence needs a second observation.”
+“I like to see a thing twice.”
 
 Pelmara pressed. The strip stayed hard. This time her skin whitened around the edges of it.
 
 “It’s fired clay,” she said. “I can’t argue it back into mud.”
 
-Beral turned his own curved strip over. “The softening is mine. Fully.”
+Beral turned his own curved strip over. “The softening is mine. Fully.” He set the strip down and looked at her hands instead of the form. “I didn’t know about the soap.”
 
-There was no triumph in his voice, and no apology either. Pelmara nodded once. Whatever she had wanted from that statement, if she had wanted anything, he did not add it.
+Pelmara nodded once. “I didn’t tell you.”
 
 Ishket took custody of the untouched strip. As the Studied examiner, he wore no house colors, only a leather cuff crosshatched with old burns. “Watch my left hand. I’ll show the standard transfer sequence without supplying power. Thumb here. Two fingers braced. Breathe on the release, not the application.”
 
@@ -116,13 +116,7 @@ They did.
 
 “No softening,” Zorevi recorded after the fourth variation. “No repeatable response to qualified instruction. Therefore the withdrawn faculty is not retained as a Studied technique.”
 
-“That conclusion concerns softening,” Ishket said.
-
-“There is no other faculty under examination.”
-
-Pelmara had gone still beside her.
-
-Not ceremonially still. Her right hand rested on the old coupling’s green-stained throat, and her attention had narrowed to the pad of her first finger. She turned the coupling a fraction on its rag.
+Pelmara had gone still beside her. Her right hand rested on the old coupling’s green-stained throat, and her attention had narrowed to the pad of her first finger. She turned the coupling a fraction on its rag.
 
 “Who packed this?” she asked.
 
@@ -148,7 +142,7 @@ Uvena’s hand stopped above the piece.
 
 “No. Yes. It wants to be.” Pelmara pressed her palm flat against the curve. “It reaches when the weight sits. That screw frame—put it under. Rag too.”
 
-Her sentences were coming apart, but her placement commands were exact. Ishket slid the coupling and rag into the low iron frame. The frame was only a frame; its screw applied measurable weight and its brass needle recorded movement. Zorevi checked the jaws herself.
+Ishket slid the coupling and rag into the low iron frame. Its screw applied measurable weight and its brass needle recorded movement. Zorevi checked the jaws herself.
 
 “You are reporting a concealed fracture by touch,” she said.
 
@@ -162,15 +156,15 @@ Pelmara shook her head impatiently. “No split yet. A pull. Tight here, empty t
 
 “Not like this. Yesterday the clay gave when I told it. Today it stays hard and tells me where it won’t hold.” Pelmara shifted her thumb, searching. “There. No, that’s glaze. Under it.”
 
-Uvena crouched to look through the frame. “She had no such report at fourteen. Or sixteen, when the south guild examined her hands.”
+Uvena crouched to look through the frame, Pelmara’s file open on her knee. “She had no such report at fourteen. Or sixteen, when the south guild examined her hands.”
 
 “I had hands at sixteen,” Pelmara said. “Not these ones.”
 
-Uvena ignored the edge in it. “Any family recurrence?”
+Uvena turned a page in the file. “Anyone in the family?”
 
 “My father roofed. My mother kept bees. They found cracks after rain and honey on the floor like anyone else.”
 
-“No developmental onset. No known recurrence.” Uvena stood. “That eliminates this case from Inherited certification. It says nothing about her future children, if any, or anyone else’s.”
+“Nothing at fourteen, nothing in the family.” Uvena stood. “Then it isn’t one of mine.”
 
 Zorevi wrote more slowly now.
 
@@ -182,7 +176,7 @@ He stopped.
 
 “Where will it fail?” he asked.
 
-She bent close. “Throat. Under the old green. If the cistern takes pressure, it opens inward.”
+She bent close. “Throat. Under the old green. Once the stack sits on it, it opens inward.”
 
 “Can you mark the line?”
 
@@ -192,11 +186,11 @@ Her chalk mark curved around a section with no visible damage. Ishket laid his f
 
 Zorevi tried next. Pelmara moved her thumb twice, more impatiently the second time, but Zorevi found only the cool glaze and the drag of chalk.
 
-“Placement doesn’t transfer the perception,” Ishket said. “Not on first instruction.”
+“Nothing for either of us,” Ishket said. “Might come with practice. Not on the first try.”
 
 He fixed a listening fork to the frame—not magical, just thin brass meant to carry a fracture’s sound—and increased the load by one eighth-turn. The fork clicked once. Uvena found the new vibration at the end of Pelmara’s chalk.
 
-The morning tipped under Zorevi. A sensation could be skill, guesswork, residue, fraud, or the beginning of an entry no form had room for. She should have halted and summoned a senior assessor, whose arrival might take the rest of the day. Delay would not solve her obligation. The cistern waited. Pelmara’s permit shortened by every minute.
+The morning tipped under Zorevi. A sensation could be skill, guesswork, residue, fraud, or the beginning of an entry no form had room for. She should have halted and summoned a senior assessor, whose arrival might take the rest of the day. Delay would not solve her obligation. The west stack waited. Pelmara’s permit shortened by every minute.
 
 “Can you alter the stress?” Ishket asked.
 
@@ -212,7 +206,7 @@ Pelmara touched the outer flange. “Here. Replaceable. It’ll chip.”
 
 “The throat would remain intact?” Zorevi asked.
 
-“Long enough to prove it. Not for the cistern. This piece is dead.”
+“Long enough to prove it. Not under the stack. This piece is dead.”
 
 Zorevi heard herself become more exact as certainty left her. “One controlled redistribution of already present mechanical stress, performed within the shielded load frame, with no representation that damage is reduced or eliminated and with immediate cessation upon pain, loss of sensation, tremor, joint stiffness, or altered—”
 
@@ -256,11 +250,11 @@ Ishket released the screw. The needle returned to zero. Uvena lifted the shield 
 
 Her fingers were locked around the clay.
 
-Beral pushed the basin close. “The gift is not in her. I cannot release this.”
+Beral pushed the basin close. “There’s nothing of mine in her now. I can’t open them.”
 
 “Warm the wrists,” Pelmara said. “Not fingers. Uvena, take the weight when—when I tell.”
 
-Uvena cupped the coupling from below without pulling. Beral poured warm water over Pelmara’s wrists. Zorevi watched the water collect in the basin and hated that she had agreed before defining how they would stop.
+Uvena cupped the coupling from below without pulling. Beral poured warm water over Pelmara’s wrists. Zorevi watched the water collect in the basin and hated that she had written down when to stop and never how Pelmara’s hands would let go.
 
 “What transfers?” Ishket asked, quieter now. “Pain? Stress? Motion?”
 
@@ -288,47 +282,41 @@ Zorevi’s mouth was dry. “Agreed. After documented recovery.”
 
 Pelmara raised her head. “No.”
 
-The word was not loud. It left nothing loose around it.
-
-Ishket set down the calipers. “Without repetition, I cannot insure it as Studied.”
-
-“It isn’t Studied.”
-
-“Then I cannot insure an unknown operation at all.”
+Ishket set down the calipers. “Once isn’t something I can insure. Say you do that on a live stack and your hands lock halfway up it. Who repeats it? Who undoes it?”
 
 Pelmara tried to curl one finger. It moved halfway. “You got one coupling. One move. The break went where I said and my hands won’t close. I’m not buying you a second answer with them.”
 
-Zorevi looked at the blank house field on the form. Her first impulse was still the neat one: renew Beral’s gift, issue Pelmara a familiar permit, send everyone to lunch. Beral had offered. It would keep Pelmara working.
+Zorevi looked at the house field on the form: three printed houses with their empty boxes, and a ruled line beneath them for remarks. Her first impulse was still the neat one: renew Beral’s gift, issue Pelmara a familiar permit, send everyone to lunch. Beral had offered. It would keep Pelmara working.
 
 It would also write a lie about whose power she used.
 
 “Beral,” Zorevi said, “could your supplied faculty leave an operative residue after complete recall?”
 
-“A residue of habit, certainly. Callus. Judgment. I supplied softening.” He touched the unbroken throat with one warm fingertip. “I did not supply this. I will not claim it to make your paper easier.”
+“Habit, maybe. Callus. Judgment.” He touched the unbroken throat with one warm fingertip. “I gave her softening. I did not give her this. I will not claim it to make your paper easier.”
 
-“Could you perform it?” Ishket asked.
+“Could you do it?” Ishket asked.
 
-“I cannot feel what she described.”
+“I can’t even feel it.”
 
-Uvena held up the coupling. “It did not appear during development. Her history is ordinary until years into adult work.”
+Zorevi found Beral’s sentence in the record, the one about hands he could not vouch for. “Did anyone else ever give to your hands?” she asked Pelmara.
 
-“And the taught sequence produced nothing,” Zorevi said. She could hear herself building a definition too long to survive the page. “The faculty is embodied in a living user, arose after sustained use of a separate supplied faculty, cannot currently be transferred by its former giver, was not present during development, has no established family recurrence, and has not been reproduced through qualified instruction.”
+“Burns. Splinters. My mother’s beeswax on the cuts.” Pelmara glanced at Beral. “Nobody gave me anything but him.”
+
+Zorevi wrote that down and kept writing. “The faculty is embodied in a living user, arose after sustained use of a separate supplied faculty, cannot currently be transferred by its former giver, has no other known giver, was not present during development, has no established family recurrence, and has not been reproduced through qualified instruction.”
 
 Pelmara breathed through her teeth. “Shorter.”
 
-Zorevi looked at the worker’s hands, at the chipped flange, at the basin gone cloudy with clay dust. Not inherited. Not given. Not studied. Grown, though no one had meant to grow it.
+Zorevi looked at Pelmara’s hands on the table, the knuckles still high and pale, the calluses ten years deep, and past them to the basin gone cloudy with clay dust. Grown, though no one had meant to grow it.
 
 “Cultivated,” she said.
 
-Ishket’s eyebrows drew together. “That is a provisional description, not a mechanism.”
+Ishket grunted and reached for the frame record.
 
-“Yes.” Zorevi wrote the word in the empty field. The nib caught once in the paper. “For this license, for this observed faculty. It establishes no general cause beyond the history we have.”
+Zorevi wrote the word on the ruled line beneath the three printed houses. The nib caught once in the paper.
 
-Uvena nodded toward Pelmara. “Ask the worker what she can safely do.”
+Then she turned the form to the scope lines. “What can you do safely? I need it for the scope.”
 
-Pelmara looked surprised by the question, which shamed Zorevi more than the locked fingers had.
-
-“Find strain in fired pipe,” she said after a moment. “Maybe tile. Don’t write tile. I haven’t tried tile. I can tell where a coupling wants to open under its own load. Moving it...” She rubbed warmth back into her knuckles. “One. Then these need to unlock. Properly, not halfway.”
+“Find strain in fired pipe,” Pelmara said after a moment. “Maybe tile. Don’t write tile. I haven’t tried tile. I can tell where a coupling wants to open under its own load. Moving it...” She rubbed warmth back into her knuckles. “One. Then these need to unlock. Properly, not halfway.”
 
 “One redistribution followed by witnessed recovery before any further use,” Zorevi said. “Diagnosis permitted without alteration, subject to cessation at stiffness or loss of motion. Fired ceramic pipe and couplings only. Ten-day provisional term, with every use recorded by the job holder and submitted for reassessment.”
 
@@ -336,19 +324,19 @@ Pelmara looked surprised by the question, which shamed Zorevi more than the lock
 
 “A licensed site keeper, guild mender, or source assessor.”
 
-“The cistern keeper can sign. He’ll complain first.”
+“The kiln keeper can sign. He’ll complain first.”
 
 “Complaining does not invalidate a signature.”
 
 For the first time that morning, Pelmara smiled. It vanished when she tried to close her right hand.
 
-Ishket did not smile. “I will record that Studied insurance does not attach. My safety objection remains.”
+Ishket did not smile. “Write that Studied insurance doesn’t attach. And put down that I objected. Her hands locked on one coupling.”
 
-“Record it,” Zorevi said. “The license is limited because it remains.”
+Zorevi wrote his objection in beneath the scope, in his words.
 
 Beral signed the withdrawal section and moved the pen toward Pelmara, then paused when he saw her hand. He set it down instead. She made her mark with both hands around the shaft. He did not offer renewal again.
 
-By the time Zorevi pressed the municipal seal into ink, the wall clock showed eleven twenty-three. Nothing answered the pressure of the seal except paper. In the house field, *Cultivated* feathered into the linen along the final downstroke. The form still printed only three choices; she had written the fourth by hand.
+By the time Zorevi pressed the municipal seal into ink, the wall clock showed eleven twenty-three. On the remarks line of the house field, *Cultivated* feathered into the linen along the final downstroke. The form still printed only three choices; she had written the fourth by hand.
 
 Ishket packed the frame readings. Uvena wrapped the coupling so the chipped flange stayed visible. Beral left carrying his coat over one arm, warmth still high in his face.
 
@@ -360,10 +348,14 @@ Zorevi picked it up. “This does not authorize you to redistribute stress at th
 
 “Or diagnose while the stiffness persists.”
 
-“The keeper can drain the line while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once. Not that stair. South passage.”
+“The keeper can let the kiln go cold while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once.”
+
+Zorevi turned toward the west stair.
+
+“Not that stair,” Pelmara said. “South passage.”
 
 “The west stair is shorter.”
 
 “And has three turns. Crate clips the second rail.”
 
-Zorevi shifted the weight against her hip and followed her south. Behind them, the blank space on the next form remained blank. Ahead, there was a cistern, a complaining keeper, and one worker who could tell where fired clay wanted to break but would mend it today with wedges, cord, and hands still learning how far they could close.
+Zorevi shifted the weight against her hip and followed her south.
