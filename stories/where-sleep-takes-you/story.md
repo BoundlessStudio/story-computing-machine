@@ -250,7 +250,7 @@ Pevin had lowered the cart when she arrived. The attendant stood near the bay do
 
 The van smelled of canvas straps and old paper. Cira climbed in, sat on the floor just inside the doors and checked the tag. No new onset. The two transmitted locations and times were present; the laundry-room signal delay was marked. She saved the log, then began the inventory.
 
-Client trays: all but one closed-property sleeve, which might be inside the records crate. Calibrated cases: three. Reference kit: present, seals unbroken. Personal box: present. Taxi charges: two, both higher than the figure she had put aside. Clearance fee: accepted, not yet paid. Steel bench and fixtures: lost to the contractor unless recovery terms proved cheaper than replacement.
+Client trays: all but one closed-property sleeve, which might be inside the records crate. Calibrated cases: three. Reference kit: present, seals unbroken. Personal box: present. Taxi charges: two, both higher than the figure she had put aside. Clearance fee: accepted, not yet paid. Steel bench and fixtures: with the contractor.
 
 Pevin opened the crate marked `18C`.
 
