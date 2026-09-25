@@ -142,11 +142,11 @@ Ivrine sat down. Their mother had divided her savings into two blue purses while
 
 She broke a potato with her fork. She knew what the bills were before he touched them.
 
-“Leave me enough for the roof. Just the back slope. I can manage the rest.”
+He squared the edges of the pile with his fingertips. “Leave me enough for the roof. Just the back slope. I can manage the rest.”
 
 “I need all of it for the shop.”
 
-“You haven't paid her yet.”
+“You haven't signed anything yet.”
 
 “I've agreed.”
 
@@ -252,7 +252,7 @@ He made a small dissatisfied noise and stood up, breathing openly now. Ivrine fe
 
 She stayed on her side until she heard him in the kitchen. Then she got up and moved the chair beneath the latch.
 
-All those evenings beside the fire: Pelset pulling her shawl straight, Pelset reaching around her for the bellows, Pelset telling her to sit still while he put a cushion behind her head. She couldn't sort the things he had done for her from the things he had been doing to her. The tea was on the windowsill. She had already drunk half of it.
+All those evenings beside the fire: Pelset pulling her shawl straight, Pelset leaning over her shoulder for the bellows, Pelset telling her to sit still while he put a cushion behind her head. The tea was on the windowsill. She had already drunk half of it.
 
 She held the loan pouch away from her skin by the cord. Its occupant was moving, abdomen still narrow. When she touched the feeding peg, a leg struck the gauze. The poucher's creature remained hungry.
 
@@ -278,7 +278,7 @@ He took the pan downstairs. She sat fully dressed on the bed and listened to the
 
 ***
 
-Before dawn, the spider in the sewing basket climbed onto the gauze and began picking at a bit of thread. Its abdomen was smaller. Ivrine cried a little at the sight, soundlessly and with great annoyance. She had other things to do with her face before she went downstairs.
+Before dawn she untied the sewing basket and lifted the old pouch out to look. The spider climbed onto the gauze and began picking at a bit of thread. Its abdomen was smaller. Ivrine cried a little at the sight, soundlessly and with great annoyance. She had other things to do with her face before she went downstairs.
 
 She washed, tied her hair over the thin cord of the loan pouch, and put her familiar spider, still in its own pouch, back in the basket. The blue purse went inside her coat. She carried the basket in her left hand.
 
@@ -296,7 +296,7 @@ She set the basket on the sill beside the door. Her right hand stayed inside her
 
 “I've given you my answer.”
 
-“I'll send it when the roof's paid for.”
+“I'll pay you back once the roof's done.”
 
 “Move, please.”
 
