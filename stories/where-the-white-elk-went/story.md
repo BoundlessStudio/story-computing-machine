@@ -164,7 +164,7 @@ Winterbough had come to the edge of a broad paved court. Moss silvered the flags
 
 Winterbough set his other forehoof down beside the first.
 
-“Back, Winterbough.” She drove her knee against his shoulder, an old signal for a close turn. He stopped, his hind feet still in the moss at the court’s edge, but he did not turn. “The roots end here.”
+“Back, Winterbough. The roots end here.” She drove her knee against his shoulder, an old signal for a close turn. He stopped, his hind feet still in the moss at the court’s edge, but he did not turn.
 
 Ahead, the court stretched between roofless walls. Its far side lay in shadow. Thirty paces, perhaps forty. Nothing moved there but rainwater under a skin of leaves.
 
@@ -224,7 +224,7 @@ Avarra put her palm to his shoulder.
 
 The rhythm rose through him with a strength she had not felt since the boundary. It gathered. Released. Beneath it came smaller pulls and yieldings: the young roots holding water, the old roots giving under stone, all of it joined closely enough for life to answer life. The pulse ran east toward Elderweald and west beneath the birches as a single rhythm.
 
-The change had not happened that morning. It had taken abandoned fields, fallen roofs, seed carried in the bellies of birds. The growth nearest Elderweald had joined its roots a little at a time, but this buried foundation had kept the vast young woodland to the west apart.
+The change had not come all at once. It had taken abandoned fields, fallen roofs, seed carried in the bellies of birds. The growth nearest Elderweald had joined its roots a little at a time, but this buried foundation had kept the vast young woodland to the west apart.
 
 But sometime after their last circuit—perhaps in the storm that toppled the birch, perhaps with one pale root’s blind growth through the crack—the forest had joined across the thing that had divided it.
 
