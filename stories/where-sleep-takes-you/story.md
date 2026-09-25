@@ -90,19 +90,21 @@ Cira hired a car rather than spend more of the booking on the walk. By the time 
 
 Pevin had staged two loads inside the unit. He stood aside so she could see every label before anything crossed the threshold.
 
-"Second tote," she said. "The blue tray isn't closed. Hollis is still waiting on that barometer, and its sleeve's slid underneath."
+"Second tote," she said. "The blue tray isn't closed. That client's still waiting on the barometer, and the sleeve's slid underneath."
 
 He crouched, found the sleeve, and shifted both together.
 
-She pointed to a foam case in the tool stack. "That isn't the Ardens'. It's a calibration standard. Right side."
+She pointed to a foam case in the tool stack. "That isn't a client's. It's a calibration standard. Right side."
 
 "Top or bottom?" Pevin asked, already lifting it.
+
+"Bottom."
 
 At five oh-two, Cira changed the order. Client records and property first. Then calibrated tools and standards. Then the one taped personal box from beneath the bench. Shelving could go. Empty housings could go. The bench, which had held its level through two moves and thousands of adjustments, became a loss they would accept if the clock required it.
 
 Pevin looked from the bench to the loading-bay route. "Lift's clear. I could have the bench down in twelve minutes."
 
-"Twelve minutes is the Arden trays and the Moss claims," Cira said. "Leave it."
+"Twelve minutes is a whole shelf of client trays," Cira said. "Leave it."
 
 He ran a hand along the bench top. "Shame. It's still dead level."
 
@@ -178,7 +180,7 @@ Pevin went back to the first case and held it there, then to the second, and hel
 
 "These blocks," he said. "Out of certificate since March. What happens to them?"
 
-"Hanlon recertifies them. Forty a set." She had to reach for the number, but it was there. "Keep. Next."
+"The lab recertifies them. Forty a set." She had to reach for the number, but it was there. "Keep. Next."
 
 He moved the camera to the third case. It was an empty shell.
 
