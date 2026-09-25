@@ -16,7 +16,7 @@ Keely scrolled through the old road-trip playlist. "That removes most of the dec
 
 "Good decade for clapping. Bad decade for water pumps."
 
-The temperature needle had climbed past the white slash Hollis had drawn on the gauge with correction fluid. The heater was helping pull warmth off the engine, which was why they were roasting inside a car that let the desert night in through every door seal. Behind them, two water jugs knocked together beside a folded blanket, a jack that Hollis trusted, and a spare tire she did not.
+The temperature needle had climbed past the white slash Hollis had drawn on the gauge with correction fluid, beside a clock display that had been dark since she bought the car. The heater was helping pull warmth off the engine, which was why they were roasting inside a car that let the desert night in through every door seal. Behind them, two water jugs knocked together beside a folded blanket, a jack that Hollis trusted, and a spare tire she did not.
 
 Keely chose a song with no handclaps. Hollis listened for six seconds, then turned it down until the drums became a pulse under the engine rattle.
 
@@ -114,7 +114,7 @@ Hollis braked. "Was that a fork?"
 
 Keely looked behind them. Beneath the car, the road was as it had been: two narrow lanes, patched tar, white edge stripe. About one car length back, the stripe hooked into a broad curve they had never driven.
 
-The dashboard clock had been dead since Hollis bought the car. Its display now held one green digit: 4.
+The dead dashboard clock now held one green digit: 4.
 
 Keely reached toward it.
 
@@ -350,7 +350,9 @@ They inventoried the car. Hollis did the work; Keely wrote it down. A little und
 
 They walked no farther than the gravel fan. Hollis crouched and pressed both palms to it, then swept the flashlight over the slope. Angular stones, no crust, no dark line of a drop beneath. The old asphalt under the car tilted toward the wash, and she did not want the hatchback hanging on its parking brake all night. Ten feet onto level gravel, then the engine stayed off.
 
-"You're dizzy," she said.
+Keely started toward the driver's door.
+
+"You're dizzy," Hollis said.
 
 "I can steer ten feet."
 
@@ -410,4 +412,4 @@ They did not decide on Tuesdays or visits. Hollis took first watch because, she 
 
 Hollis adjusted the flashlight so its beam rested across the gravel and the first broken edge of road. "Two hours. I'll wake you."
 
-Keely put the unopened half of the crackers between them. The dashboard clock held at 1. Outside the windshield, the broken pavement ended at the wash. Hollis listened to the radiator, and Keely waited for the alarm.
+Keely put the last of the crackers between them. The dashboard clock held at 1. Outside the windshield, the broken pavement ended at the wash. Hollis listened to the radiator, and Keely waited for the alarm.
