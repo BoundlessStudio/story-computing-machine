@@ -8,11 +8,11 @@ canon: false
 
 # The Bride Who Came Back
 
-Ylva knew her sister by the way she lost every seventh step.
+Ylva knew her sister by the way she lost every eighth step.
 
 The figure on the causeway was still too far away for a face, no more than a black stroke moving north across the lake. Behind her, beyond the southern mouth of the pass, Cyrak burned. Smoke climbed over the mountains in a wall, turning the afternoon dark, and every gust showed a red seam at its roots.
 
-But six steps came evenly. The seventh dragged.
+But seven steps came evenly. The eighth dragged.
 
 “It’s Marzena,” Ylva said.
 
@@ -24,9 +24,9 @@ Queen Tirza stood at the parapet with one gloved hand around the stone lip. “W
 
 “Many people limp.”
 
-“Not at seven.”
+“Count them. Seven good steps, then the left one drags. Every time.”
 
-Ylva counted again. Six, drag. Six, drag. The woman’s dress was the black of wet coal, though no cloth should have shone at that distance. Orange points ran over it and went dark. Her head was bare. Wind worried loose strands from the knot of her hair.
+Ylva counted again. Seven, drag. Seven, drag. The woman’s dress was the black of wet coal, though no cloth should have shone at that distance. Orange points ran over it and went dark. Her head was bare. Wind worried loose strands from the knot of her hair.
 
 At first snow, twenty-three days ago, Marzena had gone south in a hood of white fox and a gown made from Iskal’s winter glass. She had walked between two files of Orravan soldiers without looking back. One bride each winter, and the fire kingdom kept its army below the pass. That was the treaty. In school, Ylva had been made to copy it until the words felt as natural as weather: one bride, one winter, one border at peace.
 
@@ -40,7 +40,7 @@ Ylva ran for the stair.
 
 Ylva turned. Her mother’s face had gone pale except where the southern light laid copper along one cheek.
 
-“She carries your daughter.”
+“It’s Marzena. She fell. Look at her.”
 
 “She may be followed.”
 
@@ -64,9 +64,7 @@ In the lower guardroom she took a coil of lake rope, an ice hook, a wool cloak, 
 
 “If I fall through, pull.”
 
-That, at least, was an instruction he understood.
-
-The postern opened just wide enough to put her outside. Cold took the wet from Ylva’s eyes and stiffened it on her lashes. The causeway was not a bridge but a winter road laid across the narrowest part of the lake, black ice thick enough for wagons and polished by a hundred years of bride processions. Today it groaned under one woman.
+The postern opened just wide enough to put her outside. Cold took the wet from Ylva’s eyes and stiffened it on her lashes. The causeway was a winter road laid across the narrowest part of the lake, black ice thick enough for wagons and polished by a hundred years of bride processions. Today it groaned under one woman.
 
 Ylva went quickly until she felt the rope tighten at her waist. Then she shortened her steps. Marzena had stopped on the southern half of the causeway, bent forward with her hands on her knees. Steam came off her shoulders.
 
@@ -74,7 +72,7 @@ Ylva went quickly until she felt the rope tighten at her waist. Then she shorten
 
 Marzena lifted her head.
 
-The south had changed her in less than a month. Soot filled the hollows beside her nose and lay in the fine cracks of her lips. One eyebrow had burned away at the end. The black gown fitted her too closely, not sewn but hardened around her ribs in overlapping scales. Hair-thin cords ran from its collar into the skin below her ears. Other cords trailed from the skirt, drawing bright scratches across the ice.
+The south had changed her in less than a month. Soot filled the hollows beside her nose and lay in the fine cracks of her lips. One eyebrow had burned away at the end. The black gown fitted her too closely, hardened around her ribs in overlapping scales without a seam anywhere. From the high collar, hair-thin threads of glass ran into the skin below her ears. Other cords trailed from the skirt, drawing bright scratches across the ice.
 
 Her eyes were the same. Grey, irritated, and at that moment fixed on the cloak under Ylva’s arm.
 
@@ -112,7 +110,7 @@ Ylva shouted back, “You know her name.”
 
 “The gate requires an answer.”
 
-“The gate is wood.”
+Ylva filled her lungs to shout something she would be punished for.
 
 “Ylva,” Marzena said. “Later.”
 
@@ -122,9 +120,9 @@ Ylva reached for it. Marzena slapped her hand away.
 
 “Hot.”
 
-“I had gathered that.”
+Ylva swore and shook her stinging hand.
 
-“No. Hot enough to open your fingers.”
+“It’ll take the skin off,” Marzena said. “Snow first.”
 
 Ylva packed snow around the cord until its orange veins dimmed, scored it with the harness knife, and struck the cut with the handle. The glass snapped. Its loose end whipped across the ice and hissed into a puddle.
 
@@ -138,17 +136,13 @@ Marzena drew a full breath for the first time.
 
 “The road goes into the lake.”
 
-Practical answers. Marzena had always given them when the other kind cost too much.
-
-Ylva moved behind her and began on the next cord. “Did you burn Cyrak?”
+Practical answers. Ylva moved behind her and began on the next cord. “Did you burn Cyrak?”
 
 Marzena’s shoulders tightened. “Yes.”
 
 The knife skidded. Ylva caught it before it spun away.
 
 “That isn’t the whole answer.”
-
-“It is the part you asked for.”
 
 Marzena started walking again.
 
@@ -178,67 +172,63 @@ Marzena nodded.
 
 From the parapet, Tirza called, “What has she given you?”
 
-Ylva could not make her voice work. Marzena answered instead.
+Ylva could not make her voice work. Marzena straightened, filled her lungs, and shouted it herself.
 
-“The marriage record.”
+“The marriage record!”
 
-“We have the marriage record.”
+Tirza’s answer came thin across the ice. “We have the marriage record.”
 
-“You have the arrivals.” Marzena coughed into her wrist. “This is the rest.”
+“You have the arrivals!” The shout broke into coughing. Marzena bent over it, and when she could speak again it was only to Ylva. “This is the rest.”
 
 The queen’s white figure did not move.
 
-Ylva closed her hand around the copper. “Tell me.”
+Ylva closed her hand around the copper and waited. Marzena looked south. Fire showed in brief pieces when the smoke moved: a roofline, a tower, a running brightness that might have been a whole street.
 
-Marzena looked south. Fire showed in brief pieces when the smoke moved: a roofline, a tower, a running brightness that might have been a whole street.
+“Their Crown Hearth,” she said. “Under the palace. Every furnace in Cyrak draws from it.”
 
-“The gown is a bridle for their heat channels,” she said. “They fix the cords into the Crown Hearth. A living body inside Iskal glass keeps the winter fire from running wild. When the next bride arrives, they renew the binding.”
+She coughed and waited it out.
 
-“Renew.”
+“The cords go into the stones.” She pressed two fingers to the glass over her ribs, where it glowed brightest. “Someone has to hold the fire. Alive. In Iskal glass. Or it runs.”
 
-“They take everything left in the old one.”
+Ylva started to speak. Marzena’s eyes had already gone to the copper in her sister’s fist.
 
-Ylva understood the punched squares. She wished she did not.
+“When the next one comes, they hook her in first. They take everything left in the old one.”
 
-“The letters,” she said. Each bride sent three: safe arrival, gratitude for southern hospitality, assurances of health. Marzena’s first had praised oranges, although she hated them. Her second had used Ylva’s full title. There had been no third.
+Ylva’s thumb found the last punched square before Marzena’s row. Last winter’s bride. Ylva had helped pin her hood.
+
+She thought of the letters. Each bride sent three: safe arrival, gratitude for southern hospitality, assurances of health. Marzena’s first had praised oranges, although she hated them. Her second had used Ylva’s full title. There had been no third.
+
+“I thought you’d gone grand on us,” Ylva said. “Using my whole title. I was angry for a week.”
 
 “Written with three readers behind me.”
-
-At the gate, Tirza said, “You signed them.”
-
-Marzena turned so quickly that the cords at her neck flashed. “I hate oranges.” The effort broke her voice.
-
-Wind swallowed whatever Tirza said next.
 
 Ylva put the copper inside her coat. “How did you get free?”
 
 “I pulled the hearth hook out.”
 
-“And the fire?”
+The fourth cord took two blows from the knife handle. It snapped and went hissing into the lake, and Marzena watched it sink.
 
-“Went back through everything joined to it. Palace furnaces first. Then the bathhouses. The kiln street.”
+“The fire went back through everything joined to the hearth. Palace furnaces first. Then the bathhouses. The kiln street.”
 
-Ylva saw, unwillingly, rooms she had never visited filling with flame. “You knew?”
+Ylva saw, unwillingly, rooms she had never visited filling with flame. “You knew.”
 
 “I knew it would go back.”
 
-“How far?”
+“Did you know how far it would—”
 
-“No.” Marzena’s answer came sharp, before Ylva had finished. “They never told me how far. They told me enough to keep me still.”
+“No.” It came sharp, over the end of the question. “They never told me how far. They told me enough to keep me still.”
 
 “Did you warn anyone?”
 
 “The women in the dressing room. The kitchen stairs. People on the east road when I ran.”
 
-“Did they get out?”
+“Then they got out.”
 
 Marzena stared at her.
 
 “I don’t know, Ylva.”
 
-The fourth cord took two blows from the knife handle. The fifth had worn a groove of water behind it; Ylva scored it twice before it snapped and sank, spitting, into the lake.
-
-There it was: no innocent account waiting under the damaged one. Marzena had learned what her freedom would cost and had torn loose anyway. Ylva wanted to ask whether children had been in kiln street, whether the fire had reached the river quarter, whether Orravan soldiers were marching north because they had nothing left to guard. She wanted numbers that would make love simple.
+Ylva wanted to ask whether children had been in kiln street, whether the fire had reached the river quarter, whether Orravan soldiers were marching north because they had nothing left to guard. She bent to the fifth cord instead. It had worn a groove of water behind it; she scored it twice before it snapped and sank, spitting, into the lake.
 
 The ice gave a deep, splitting knock.
 
@@ -248,13 +238,13 @@ Water ran across Ylva’s boot. They had reached the old pressure ridge at the c
 
 “The collar first.”
 
-Ylva went behind her. The final cord was thicker than the rest and vanished beneath the high collar, then emerged between Marzena’s shoulder blades as a glass loop bright enough to throw red through the skin around it. Ylva swallowed.
+Ylva went behind her. The final cord was thicker than the rest. The threads at her neck all fed into it beneath the high collar, and it emerged between Marzena’s shoulder blades as a glass loop bright enough to throw red through the skin around it. Ylva swallowed.
 
 “I can’t get the knife under without cutting you.”
 
 “Then go back.”
 
-“Very useful.”
+“Shut up, Marza.”
 
 “I mean it.” Marzena’s breath snagged. “The loop spills all at once. Take the tally and go.”
 
@@ -266,9 +256,9 @@ Marzena said nothing.
 
 “My measurements were taken again yesterday. Mother said it was caution.”
 
-“Your name was first on the list they sent with me.”
+“Your name was first on the list that went south with me.”
 
-The truth landed with less surprise than shame. Ylva had known. Somewhere underneath her outrage, underneath every hour she had spent at the watchtower, she had known why the glassmakers kept coming to her room.
+Ylva thought of the glassmakers in her room yesterday with their cold tape, and her mother watching from the doorway.
 
 “Is that why you came back?”
 
@@ -286,7 +276,7 @@ For one astonished second, Marzena looked offended. “Already?”
 
 “I had one room with no latch.”
 
-“You can have it back.”
+“You can have the bed back.”
 
 “I don’t want your pity-sheets.”
 
@@ -294,9 +284,9 @@ The laugh hurt Marzena. It folded her at the waist, coughing, one hand pressed u
 
 “You crossed the pass to insult my bedding,” Ylva said. “You don’t get to send me back now.”
 
-“I crossed the pass because south had nothing that was mine.”
+Marzena did not answer. She let Ylva take a little more of her weight.
 
-It was the closest Marzena had come to asking. Ylva tightened her grip.
+Ylva tightened her grip.
 
 Behind them, wood boomed. The postern had opened.
 
@@ -308,9 +298,9 @@ Marzena made a sound that might have become another laugh in a kinder hour.
 
 “Go back,” she called.
 
-Tirza kept coming.
+Tirza kept coming until only a few strides of ice lay between them.
 
-“Your Majesty,” Ylva said, because titles returned when intimacy hurt. “The ice is failing.”
+“Your Majesty,” Ylva said. “The ice is failing.”
 
 “I can see that.” Tirza’s breath came fast. “If the cord is removed, what happens?”
 
@@ -318,7 +308,7 @@ Tirza kept coming.
 
 “How much?”
 
-“They neglected my instruction.”
+“I don’t know. They never said.”
 
 Tirza reached them. Up close, she looked older than she had on the tower. Meltwater darkened both knees of her gown where she had fallen.
 
@@ -328,7 +318,13 @@ Marzena glanced at her, startled. “Left arm. Not the cloth.”
 
 Tirza took her arm above Ylva’s hand. Marzena stood between them, rigid as the glass around her.
 
-“I knew the treaty forbade return,” Tirza said.
+“Your letters said you were well,” Tirza said. “You signed them.”
+
+Marzena turned so quickly that the collar flashed. “I hate oranges.” The effort broke her voice.
+
+For a moment Tirza only held on.
+
+“I knew the treaty forbade return,” she said.
 
 Marzena looked toward the gate.
 
@@ -354,7 +350,7 @@ Ylva pushed the knife under the collar loop. Marzena jerked.
 
 “There isn’t time.”
 
-“I was not speaking to you.” Tirza shifted her hand, not tighter but steadier. “Marzena. Now?”
+Tirza did not look at Ylva. She shifted her hand on Marzena’s arm, not tighter but steadier. “Marzena. Now?”
 
 Marzena shut her eyes. After a moment, she nodded.
 
@@ -362,7 +358,7 @@ Ylva cut.
 
 The loop sprang apart with a noise like a plate breaking. White heat struck the ice. Water leapt around their boots, and the causeway dropped half a hand beneath them. Tirza went down. Marzena fell against her. Ylva’s rope snapped taut and threw her backward, but she kept hold of the knife.
 
-For several breaths the severed cord burned beneath the water, orange, red, then a dull cherry glow. It did not reach for them. It did not follow. It spent what remained and went black.
+For several breaths the severed cord burned beneath the water, orange, red, then a dull cherry glow. It sank as it dimmed, and went black.
 
 Tirza struggled to one knee with Marzena’s weight across her shoulder.
 
@@ -408,15 +404,13 @@ The queen stopped. “No. Keep it.”
 
 Ylva put it back inside her coat.
 
-“And the procession?” the captain asked. Everyone in the room knew he meant Ylva’s.
+“And the procession?” the captain asked. Everyone in the room knew he meant Ylva’s: with the bride come home, the treaty would want another sent south at once.
 
 Tirza looked at Marzena, wrapped now in three grey blankets, her face slack with exhaustion.
 
 “No bride leaves Iskal,” she said. “Not tonight. Not at dawn.”
 
-It was not a plan for the army Orrava might send. It was not justice for whoever had failed to outrun the fire. It was one door held shut.
-
-They took Marzena to the room that had once been hers. Ylva had, in fact, moved into it on the ninth day after the procession, though she had kept Marzena’s cracked blue cup on the sill and her collection of bent hairpins in the drawer. She began to apologize for this. Marzena was asleep before Ylva reached the apology.
+They took Marzena to the room that had once been hers. Ylva had, in fact, moved into it on the ninth day after the procession, though she had kept Marzena’s cracked blue cup on the sill and her collection of bent hairpins in the drawer. She began to apologize for this. Marzena’s eyes had closed before Ylva reached the apology, and she did not answer it.
 
 Tirza stayed at the threshold, wet and soot-marked from holding her daughter. Without the white mantle she seemed uncertain where to put her hands.
 
@@ -426,4 +420,4 @@ Ylva sat on the edge of the bed. “Are you coming in?”
 
 Marzena did not open her eyes. “Shut the door,” she whispered. “You’re letting the cold in.”
 
-Tirza obeyed. Then she sat on the floor beside the bed, boots still wet, while Marzena slept before any of them could ask her for another thing.
+Tirza obeyed. Then she sat on the floor beside the bed, boots still wet, and Marzena fell asleep before either of them could ask her for another thing.
