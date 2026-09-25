@@ -224,7 +224,7 @@ Something large scrapes against the other side of that door.
 
 “A different lobby.”
 
-She looks up from the bag. Then at the door. “Was that Vhulcren calling you its elder?”
+She looks up from the bag. Then at the door. “That's Vhulcren. I heard it through the washroom wall, calling someone its elder.”
 
 “It gets carried away.”
 
@@ -250,11 +250,11 @@ Nothing ingratiates you with a rich person like returning an expensive object yo
 
 You hold out the ring.
 
-She looks up from the bag. Her gaze moves from your face to the red stone and back. She sets the bag down very slowly.
+She looks up from the bag. Her gaze moves from your face to your bent knee and back. She sets the bag down very slowly.
 
 “Yes,” she says.
 
-You smile. What a recovery. Cash may be out of the question, but you have found an escort, possibly a lunch companion, and—
+You smile. What a recovery. Dott's envelope may be more trouble than it is worth, but you have found a way out, possibly a lunch companion, and—
 
 “Yes. I'll marry you.”
 
@@ -262,7 +262,7 @@ You smile. What a recovery. Cash may be out of the question, but you have found 
 
 “Oh,” you say.
 
-She takes the ring. Once it is in her hand she turns it over, sees the little nick on the back, and laughs in delight.
+She takes the ring and looks at it properly for the first time. She turns it over, sees the little nick on the back, and laughs in delight.
 
 “It's mine! I've been looking everywhere. You proposed with my own ring.” She holds it out towards you again. “Go on, then.”
 
@@ -308,7 +308,7 @@ The escort moves towards you, one hand held out for your arm. A blue flame runs 
 
 “I hope the old gentleman will be pleased,” Vhulcren says. “He has always admired seniority.”
 
-“You can tell him so at lunch.”
+“You can tell him so at lunch,” Sathrie says.
 
 Vhulcren's pale limbs shuffle nearer the dining-room door. “I had not intended to remain.”
 
@@ -320,7 +320,7 @@ Sathrie pulls gently at your sleeve. “Come and sit down. You're shaking.”
 
 “I'll get you a drink.” She releases you and turns to Dott. “Something cold.”
 
-Dott beckons you a little way aside. You go because both men have spread themselves across the doorway, and because Sathrie has begun examining the bottles on a sideboard.
+Dott ignores her and beckons you a little way aside. You go because both men have spread themselves across the doorway, and because Sathrie has begun examining the bottles on a sideboard.
 
 “I didn't pay for a social visit,” he says beneath his breath.
 
@@ -336,7 +336,7 @@ He doesn't reach for it.
 
 Your hand hangs between you. The money is enough to pay your rent for a long time. You bring it closer to him before you can think about that properly.
 
-“All of it,” you say. “And it goes. Now.”
+“Every penny,” you say. “And it goes. Now.”
 
 Behind Dott, Sathrie puts down a bottle with an impatient clack. “Are you two going to be much longer?”
 
@@ -356,7 +356,7 @@ She looks towards Vhulcren.
 
 You are not yet good at being engaged.
 
-“It was coming anyway,” you add.
+“It was leaving anyway,” you add.
 
 “I would not intrude upon a family occasion,” Vhulcren says quickly. “I can accompany you as far as the street.”
 
@@ -436,7 +436,7 @@ She looks down at her ring, then across the road towards the bus stop. You could
 
 “I know where you don't want to have lunch.”
 
-She considers you. “There's a place round the corner. The chairs don't match and the bread's good. I can afford to be seen there with someone who isn't my fiancé.”
+She considers you. “There's a place round the corner. The chairs don't match and the bread's good. Nobody there will ask about the wedding.”
 
 You look at the hotel. “Won't your father be waiting?”
 
@@ -445,7 +445,5 @@ You look at the hotel. “Won't your father be waiting?”
 You take the bag. It is unexpectedly heavy. The bus stop is still there, perfectly accessible, with an entirely ordinary future queueing beside it.
 
 “What should I say you do?” she asks, thumb poised over the screen.
-
-You have just talked your way out of a murder, escorted something older than houses across a hotel lobby, and broken off an engagement without being set on fire.
 
 “Guest relations,” you say, and follow her round the corner.
