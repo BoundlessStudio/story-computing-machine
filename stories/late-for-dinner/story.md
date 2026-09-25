@@ -96,7 +96,7 @@ Silence spread outward from Cadren. Even the guard opened his eyes.
 
 “My wife has been away for five months.”
 
-“My soldiers have not had bread in two days. Two days. And you sit in the dirt and talk to me about dinner.”
+“My soldiers have not had bread in two days. And you sit in the dirt and talk to me about dinner.”
 
 “Then we are both having poor afternoons.”
 
@@ -256,7 +256,7 @@ Cadren stared at the ranks closing both ends of the cut. His command had come ap
 
 Rellan wanted to go home.
 
-“It’s quarter. That’s all it is.” Rellan had to stop and swallow. “Your people live through tonight. Please take it.”
+“It’s quarter. That’s all it is. Your people live through tonight. Please take it.”
 
 Cadren’s sword lowered half an inch.
 
@@ -384,9 +384,9 @@ Nerava leaned back. Something in her shoulders loosened—not much, but enough t
 
 She did not defend herself. Her hand stayed beside his on the table, and she waited.
 
-Rellan picked at the split in the tabletop. “I did not send for you,” he said, “because I did not want to need the Ash General every time a road went wrong.”
+Rellan picked at the split in the tabletop.
 
-“Good. I dislike that name.” She reached across the table and turned his wedding ring once around his finger. “Next time, send someone. I do not want to hear it from the mule again.”
+She reached across the table and turned his wedding ring once around his finger. “Next time, send someone. I do not want to hear it from the mule again.”
 
 He covered her hand with his. “There will not be a next time.”
 
