@@ -442,7 +442,7 @@ Odelia reaches behind her neck with both ends of the chain. My clasp closes; I f
 
 *Yes.*
 
-Small taps travel through Odelia's frame while the chain gives brief changes of tension. When her hand returns to the pendant, its tendons are quick under my edge.
+Small taps travel through Odelia's frame while the chain gives brief changes of tension. When her hand returns to me, its tendons are quick under my edge.
 
 “I have one question,” she says. “What exactly did Pavia say about the cherries?”
 
