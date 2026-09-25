@@ -68,7 +68,7 @@ She dragged the packet thumbnails sideways with one fingernail.
 
 The man allowed it, and tilted the tablet toward her so the ceiling glare slid off the screen.
 
-At the left edge of the body map, nearly cropped away, was a black-and-white measuring strip. She knew the thickness of those bars. She had stood against them barefoot while an intake camera flashed, the same week the prison was boxing its paperwork off to the evacuation station to be scanned with everything else. In one corner was the triangular shadow of a property-bag seal. The page was the first sheet of her prison booking.
+At the left edge of the body map, nearly cropped away, was a black-and-white measuring strip. She knew the thickness of those bars. She had stood against them barefoot while an intake camera flashed, the same week the prison's intake sheets were going straight into the evacuation station's scan line with everything else. In one corner was the triangular shadow of a property-bag seal. The page was the first sheet of her prison booking.
 
 She tapped `P-80417`, then tapped the same number on the band around her wrist.
 
@@ -112,7 +112,7 @@ Outside air touched the wet corner of her eye through the narrow-open gate. It s
 
 She set the dress on the counter.
 
-He lifted the wand from her arm and held it out to her handle-first, its star toward the blue doorway.
+He lifted the wand from her arm and held it out to her handle-first, then tipped his head toward the blue doorway.
 
 She took it by the silver handle but turned away from the light. She jerked the carbon receipt from its sleeve so hard that the bag skidded half out of the drawer, and the guard's hand jumped toward her.
 
