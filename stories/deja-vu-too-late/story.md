@@ -156,7 +156,7 @@ This time she let it rest there.
 
 An unfinished release.
 
-The tug carried six refinery membrane drums in a cradle along its belly. The spring rail existed to shove them clear if a dock jammed with the drives cold. Ejected forward and outward, the drums would take momentum with them. The rail sat below the tug's centerline; its kick would also turn the hull.
+The tug carried six refinery membrane drums in a cradle along its belly. The spring rail existed to shove them clear if a dock jammed with the drives cold. Ejected forward, the drums would take momentum with them. The rail sat below the tug's centerline; its kick would also turn the hull.
 
 Kessa pulled up the mass sheet. The cargo represented the delivery, their lease reserve, and most of what she and Orivan had not yet paid for. The stabilizing pulse after recoil would consume the damaged feed's return margin. She set the drums' mass against the loaded hull in the manual impulse model.
 
