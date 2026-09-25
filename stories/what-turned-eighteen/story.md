@@ -10,21 +10,21 @@ canon: false
 
 At four minutes to my birth minute, Maela stood on a chair and taped a mixing bowl over the bedroom vent.
 
-“That’ll starve you of air,” Jaro said from the doorway.
+“That’ll starve you of air,” my brother Jaro said from the doorway.
 
 “For nine minutes.” My mother pressed the tape down with both thumbs. “Arlon can breathe in the hall.”
 
 “Assuming lungs.”
 
-“You are helping how?”
+“And you’re helping how?”
 
 Jaro lifted the cake box. “I stopped this falling down the stairs.”
 
 He had also iced HAPPY EIGHTEENTH, ARLO in green across the lid because the bakery had refused to write on a box. The cake inside was supposed to have the full name and twice as much dignity. We had planned to carry it to the shared roof after my change, along with three folding chairs, Maela’s good cushions, and enough spiced lentil rolls to feed the neighbors who would pretend not to be watching.
 
-Outside, rain worried at the afternoon but had not committed. The forecast said nine. Maela believed weather forecasts only when they threatened a birthday.
+Outside, rain worried at the afternoon but had not committed. The forecast said it would break by nine. Maela believed weather forecasts only when they threatened a birthday.
 
-Aluna came out of my closet holding the adjustable trousers she had brought me. They had ties at the waist, knees, and ankles and enough folded cloth to fit anything from very tall to discouragingly broad.
+Aluna, my oldest friend, came out of my closet holding the adjustable trousers she had brought me. They had ties at the waist, knees, and ankles and enough folded cloth to fit anything from very tall to discouragingly broad.
 
 “They look like curtains,” I said.
 
@@ -34,7 +34,7 @@ Aluna came out of my closet holding the adjustable trousers she had brought me. 
 
 “I brought safety pins. Elegance is phase two.”
 
-Most true forms did not make this much preparation necessary. People grew a little, lost old scars, changed the shape of a face or the reach of a hand. My cousin had turned eighteen and acquired ears that could hear water moving inside walls, which had led to a plumbing apprenticeship and a bad month of sleep. Jaro had woken on his birthday with a different sex and spent two weeks replacing school records that had somehow been easy to correct everywhere except the swimming pool office.
+Most true forms did not make this much preparation necessary. People grew a little, lost old scars, changed the shape of a face or the reach of a hand. My cousin had turned eighteen and acquired ears that could hear every clock in the building, which had led to an apprenticeship with a watchmaker and a bad month of sleep. Jaro had woken on his birthday with a different sex and spent two weeks replacing school records that had somehow been easy to correct everywhere except the swimming pool office.
 
 “Drink before it happens,” he told me, setting down the cake. “I was so thirsty afterward I emptied a whole jug.”
 
@@ -44,7 +44,7 @@ Most true forms did not make this much preparation necessary. People grew a litt
 
 “You also ate six eggs.”
 
-“Still do. Entirely practical history.” He nudged the cake box away from the edge of my desk. “See? I’m useful.”
+“Still do.” He nudged the cake box away from the edge of my desk. “See? I’m useful.”
 
 I wanted useful people there, but I also wanted them upstairs. I wanted the lights strung on the clotheslines and the roof tiles still warm beneath my feet—whatever feet became—and Aluna laughing at Jaro’s music choices while Maela claimed not to monitor the parapet. I had spent a month planning a supper that could survive a tail, feathers, extra height, lost height, altered hands, or temporary blindness. The balcony door stood open so we could reach the roof stairs. The fan spun at its lowest setting because the apartment held the day’s heat.
 
@@ -78,13 +78,11 @@ I flashed blue-white across the room. I had not chosen to.
 
 He took one step toward me. Every body near him flinched, and the movement propagated through the rest until I became a blizzard of fins.
 
-“Stop,” Aluna said quietly. “Arlon moved away.”
+“Stop,” Aluna said quietly. “Don’t move.”
 
-“Or they’re cold.”
+“It’s only me,” Jaro said. “Arlo. It’s only me.”
 
-“Both can be true. Stop moving.”
-
-Jaro stopped. Maela shut the balcony door. The apartment became suddenly still, though I kept drifting on currents I had never felt as a person with skin.
+But he stopped. Maela shut the balcony door. The apartment became suddenly still, though I kept drifting on currents I had never felt as a person with skin.
 
 Maela began to count.
 
@@ -116,29 +114,23 @@ One remained.
 
 I was in every place I could see, but one ache came from nowhere: a dry pull, a vibration, metal under my belly. I lit red, then blue, then red again, trying to force meaning into color.
 
-Jaro searched behind the radiator. Maela looked inside the wastebasket. Aluna did not look away from the bodies gathered over the tray.
+Jaro searched behind the radiator. Maela looked inside the wastebasket, then climbed back onto the chair to see along the curtain rail, and her elbow knocked the mixing bowl. A low hum went through the bodies on the tray. I could not tell what had made it. Aluna did not look away from them.
 
-“Do that again,” she said.
+“Maela,” she said. “Knock on the bowl again.”
 
-I did not know what she meant.
+Maela tapped the mixing bowl. The missing body felt the vibration through metal. I answered with every fin I had. A low tone shivered from eight bodies, while somewhere inside the vent the last one buzzed against the duct.
 
-“The low sound. When Maela touched the vent cover.”
+Maela went white. “I covered it.” She ran her thumb along the lower edge of the tape and stopped where it lifted from the wall. “I covered it.”
 
-Maela reached up and tapped the mixing bowl. The missing body felt the vibration through metal. I answered with every fin I had. A low tone shivered from eight bodies, while somewhere inside the vent the last one buzzed against the duct.
+“Arlo, can you get out?” Jaro asked.
 
-Maela went white. “I covered it.”
-
-“There’s a gap underneath,” Aluna said. “Arlon went through before the tape settled.”
-
-“Can they come back?” Jaro asked.
-
-The question was for me, but I had no yes.
+I had no yes to give him.
 
 Aluna put her palm beside the tray. “Arlon, touch once if you want us to remove the bowl.”
 
 One of my bodies settled against her hand. Once.
 
-Maela climbed onto the chair. Her first pull made the tape crackle, and the body in the duct beat its fins in panic. Eight bodies scattered off the tray. I made myself return. Aluna’s hand stayed where it was.
+Maela took hold of the tape. Her first pull made the tape crackle, and the body in the duct beat its fins in panic. Eight bodies scattered off the tray. I made myself return. Aluna’s hand stayed where it was.
 
 “Slower,” she said.
 
@@ -156,7 +148,7 @@ Aluna kept her palm open. “Touch once for yes, twice for no.”
 
 I touched once.
 
-“Do you want the window closed?”
+“Do you want the balcony door open?”
 
 Twice.
 
@@ -172,33 +164,29 @@ I gathered into the closest thing I had to my old height: an upright spiral with
 
 “That might mean no,” Aluna said.
 
-“It might mean Arlon wants to be taller,” Jaro said.
+“It might mean Arlo wants to be taller,” Jaro said.
 
 I made the high tone, then bumped the cake box with six bodies.
 
 “Cake,” Jaro said promptly.
 
-Maela looked at him. “You cannot translate them because you also turned eighteen once.”
+Maela looked at him. “Stop answering for them.”
 
-“No. But I know Arlo.” He pointed at the roof, then the cake, then me. “Upstairs?”
+“Fine. Asking.” He pointed at the roof, then the cake, then me. “Upstairs?”
 
 I touched Aluna’s palm once.
 
-Maela repeated, “No.”
+Maela said, “No.”
 
 I flashed yellow without meaning to. Jaro began, “When I changed—”
 
 “You had one pair of feet,” Maela said. “You drank water and changed your school card. Arlon has already been inside a wall.”
 
-Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yes. This is not the same. I was going to say everyone spent my first dinner deciding what I could handle without asking me.”
-
-“You had words.”
-
-“And nobody waited for them.”
+Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yeah. Not the same.” He did not look up from the box. “But at my dinner you decided I was finished with the swim team. I was sitting right there with egg on my fork.”
 
 Maela pressed the heel of her hand to her forehead. She was right about the roof. That made me furious with her.
 
-I arranged four bodies over the tray and sent five toward the covered vent. Maela’s hand dropped.
+I arranged four bodies over the tray and sent five toward the open vent. Maela’s hand dropped.
 
 “Is that a threat?” she asked.
 
@@ -232,7 +220,7 @@ I had meant count only if three of me left the room. Formation was not language 
 
 I touched once.
 
-On the roof, the city’s warm drafts held me better than the apartment had. I rose above the table and saw our block in nine overlapping pieces: laundry snapping on the next building, silver tanks, windows turning amber, swifts cutting through the lower clouds. Music traveled through air, fins, roof tiles, bowls. I could hover inside the bass line.
+On the roof, the city’s warm drafts held me better than the apartment had. I rose above the table and saw our block in nine overlapping pieces: laundry snapping on the next building, a neighbor’s tomato pots, windows turning amber, swifts cutting through the lower clouds. Music traveled through air, fins, roof tiles, bowls. I could hover inside the bass line.
 
 Jaro served the cake. Its icing said HAPPY EIGHTEENTH, ARLON, though the final N had slid downhill. He mashed my slice with water in a saucer.
 
@@ -258,7 +246,7 @@ I wanted to show them I had learned faster than their fear.
 
 I widened the ring beyond the windbreak.
 
-The air there was delicious—cool, lifting, full of the rain’s mineral smell. I sent bodies over the parapet, around the water tank, along the clotheslines. Distance added a delay that felt at first like pleasure. My intention rolled through me instead of arriving at once. I could begin a turn at one end and watch it become a wave.
+The air there was delicious—cool, lifting, full of the rain’s mineral smell. I sent bodies over the parapet, around the tin hut that housed the lift motor, along the clotheslines. Distance added a delay that felt at first like pleasure. My intention rolled through me instead of arriving at once. I could begin a turn at one end and watch it become a wave.
 
 Maela stood. “Arlon. Closer.”
 
@@ -266,39 +254,39 @@ I flashed green and widened farther.
 
 The rain arrived as a single hard sheet.
 
-One bedsheet tore loose from its lower knot. Wind punched beneath it, and the cloth snapped upward through my formation. Three bodies tumbled toward the roof. Two blew behind the water tank. Two went over the parapet. Of the other two, one slammed into the wet windbreak and one scattered into rain so thick that every drop was a separate impact.
+One bedsheet tore loose from its lower knot. Wind punched beneath it, and the cloth snapped upward through my formation. Three bodies tumbled toward the roof. Two blew behind the lift hut. Two went over the parapet. Of the other two, one slammed into the wet windbreak and one scattered into rain so thick that every drop was a separate impact.
 
 For an instant I tried to correct everything.
 
-The result was nothing. Commands crossed in me. Bodies turned against one another. One of the two beyond the parapet struck a gutter and caught there, fins plastered by water. The other dropped below the roofline into air that no longer spoke clearly to the rest of me. Behind the tank, metal amplified the storm until I could not separate sound from touch.
+The result was nothing. Commands crossed in me. Bodies turned against one another. One of the two beyond the parapet struck the stone ledge below it and caught there, fins plastered by rain. The other dropped below the roofline into air that no longer spoke clearly to the rest of me. Behind the hut, sheet metal amplified the storm until I could not separate sound from touch.
 
 Maela shouted numbers.
 
-“Five here. Aluna, tank. Jaro, get away from the edge.”
+“Five here. Aluna, the hut. Jaro, get away from the edge.”
 
 “Arlo, come to the light!” Jaro called. “Green if you can hear me. Green—”
 
-I lit red, green, white, all involuntary. The wet bodies on the roof pulled toward his voice; the one below the parapet could not find it. A fin caught in the gutter seam. Pain narrowed me to that bright metal line, and the bodies in safety dropped from the air.
+I lit red, green, white, all involuntary. The wet bodies on the roof pulled toward his voice; the one below the parapet could not find it. A fin caught in a crack along the ledge. Pain narrowed me to that one cold line of stone, and the bodies in safety dropped from the air.
 
 “Stop talking,” Aluna told Jaro.
 
 “They need a direction.”
 
-“You’re giving nine of them one direction.” She crouched by the water tank, not reaching into the dark gap. Rain pasted her hair to her jaw. “The light follows whatever Arlon notices. It isn’t an answer.”
+“You yell, Arlon flashes. Quiet.” She crouched by the lift hut, not reaching into the dark gap. Rain pasted her hair to her jaw.
 
-Maela held the loose sheet across her body, making a low shelter on the tiles. “Three under here. Two on the table. I can see one by the tank.”
+Maela held the loose sheet across her body, making a low shelter on the tiles. “Three under here. Two on the table. I can see one by the hut.”
 
-“There are more behind it,” Aluna said. “Arlon, move the one that can see my hand toward it.”
+“Maybe another behind it,” Aluna said. “I can’t see. Arlon—the one that can see my hand. Here.”
 
 She lowered her palm to the roof. One wet body crawled rather than flew. I brought it to her alone, because moving one body was suddenly a relief. Touch. Shelter.
 
-“Six,” Maela said. Then, because stress made her repeat, “Six here.”
+“Six,” Maela said. “Six here.”
 
-Jaro knelt well back from the parapet. He put both hands around the metal railing and struck it with his ring: one slow tap, a pause, another. The vibration reached the body in the gutter. It reached the one beneath the roof edge. It reached the part of me against the tank as a faint clean pulse inside the rain.
+Jaro knelt well back from the parapet. He put both hands around the metal railing and struck it with his ring: one slow tap, a pause, another. The vibration reached the body on the ledge. It reached the one beneath the roof edge. It reached the part of me against the hut as a faint clean pulse inside the rain.
 
 He did not call my name again.
 
-I abandoned the whole formation. The idea of it, anyway. I took one body around the tank while the rest lay wherever Maela and Aluna placed them. Behind the tank, a broken bracket made a pocket out of the wind. One of me had wedged beneath the tank’s raised rim. Aluna could not see it, but she saw where the one above it kept turning.
+I abandoned the whole formation. The idea of it, anyway. I took one body around the hut while the rest lay wherever Maela and Aluna placed them. Behind the hut, a broken bracket made a pocket out of the wind. One of me had wedged beneath the hut’s raised base. Aluna could not see it, but she saw where the one above it kept turning.
 
 “Under?” she asked, pointing.
 
@@ -312,19 +300,19 @@ The body below the parapet followed Jaro’s vibration up the wet brick and into
 
 The count seized all of us.
 
-One remained in the gutter. I felt cold water push it along the metal channel toward the downspout. Its fins could not lift. The railing taps said where the roof was but not how to reach it.
+One remained on the ledge. I felt the rain sheeting off the parapet push it along the stone toward the broken corner, where the ledge ended in air. Its fins could not lift. The railing taps said where the roof was but not how to reach it.
 
-Maela hooked one arm around a post and leaned toward the gutter.
+Maela hooked one arm around a post and leaned out toward the ledge.
 
-“No,” Aluna said. “You can’t reach.”
+“Maela—don’t,” Aluna said.
 
 “I’m not leaving them there.”
 
-Jaro kept tapping. He had finally learned that adding instructions would not help.
+Jaro kept tapping.
 
-I moved six recovered bodies back into the wind. It took them, but this time I did not ask all six to do the same thing. Two braced along the parapet. Two descended in its lee. Two stayed above, catching the pattern of Jaro’s taps and answering with a fin-tone the gutter body could follow.
+I moved six recovered bodies back into the wind. It took them, but this time I did not ask all six to do the same thing. Two braced along the parapet. Two descended in its lee. Two stayed above, catching the pattern of Jaro’s taps and answering with a fin-tone the body on the ledge could follow.
 
-Rain blurred the distance between my intentions. I sent each movement separately: lift the left fin; wait; push against the gutter base; wait. The body slid backward, away from the downspout. One of the descending pair reached it and pressed flank to flank. Touch made the next instruction clearer. Together they climbed the wet wall by short, ugly leaps.
+Rain blurred the distance between my intentions. I sent each movement separately: lift the left fin; wait; push against the ledge; wait. The body slid backward, away from the broken corner. One of the descending pair reached it and pressed flank to flank. Touch made the next instruction clearer. Together they climbed the wet wall by short, ugly leaps.
 
 Maela’s hand appeared over the edge, palm up but still.
 
@@ -342,7 +330,7 @@ Indoors, towels filled the rug. Aluna switched off the ceiling light when my bod
 
 I touched her wrist once.
 
-She counted by laying a fingertip gently against each wet back. I felt every touch in order: pressure, warmth, pressure, warmth, until the last one. Then I touched her back once.
+She counted by laying a fingertip gently against each wet back. I felt every touch in order: pressure, warmth, pressure, warmth, until the last one. Then I touched her once in return.
 
 “Fans stay off,” Aluna said, checking the window screen. “One window open a finger’s width. Lamps low. Music low.”
 
@@ -354,7 +342,7 @@ Maela looked at the ruined corner of the cake. “Cake damp.”
 
 “You carried it sideways.”
 
-“For Arlon’s safety.”
+“For Arlo’s safety.”
 
 I made a tone that began unevenly and gathered itself into something almost amused. Jaro waited instead of naming it.
 
