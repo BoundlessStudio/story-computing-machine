@@ -230,8 +230,6 @@ Odan accepted the sheets one lift at a time. He checked that the number aboard m
 
 Before the final lift, Odan asked through Sevri for Ormela's own count, to set against his tallies. Ormela kept her hand flat on the bundle long enough that Sevri began to repeat the question. Then she put the whole thing in his hands.
 
-There were mistakes. A crate of boots went to the animal bay. Two goats reached Freight Hall Nine before their keeper and attempted the care room. The first privacy partitions proved translucent, provoking such a storm from the upper-lane households that the future crews replaced them without asking for a heritage ruling. Supper arrived as nutrient bricks until the baker showed a logistics worker flour, salt, water, and an oven.
-
 Past midnight, Ormela rode the last passenger lift out and stood beside Odan at the rail while Kettlebridge dropped below them. Work lamps silvered the roofs. Beyond the little island of houses lay foundation cuts, sealed galleries, and the sheer blank walls of the excavation. No dark shoulder of mountain rose behind the chimneys. No road bent toward home.
 
 Odan held out her tax bundle.
@@ -242,7 +240,9 @@ Ormela thumbed the cord. “The potter still owes six copper.”
 
 Sevri considered this, decided it did not need to become history, and did not translate it.
 
-At Freight Hall Nine, the animal bays smelled of wet straw and frightened goats. Children slept behind mismatched opaque screens while their parents argued softly about drafts, doorways, and who had taken the good blankets. Belkin had chalked drinking times on a pillar and a ration line on the side of every jug in the hall. Aruz's held-back patient had arrived and was snoring in the care room. Near the loading doors, three households were still deciding whether to stay.
+At Freight Hall Nine there had been mistakes. A crate of boots had gone to the animal bay. Two goats had beaten their keeper there and attempted the care room. The first privacy partitions had proved translucent, provoking such a storm from the upper-lane households that the future crews replaced them without asking for a heritage ruling. Supper had arrived as nutrient bricks until the baker showed a logistics worker flour, salt, water, and an oven.
+
+The animal bays smelled of wet straw and frightened goats. Children slept behind mismatched opaque screens while their parents argued softly about drafts, doorways, and who had taken the good blankets. Belkin had chalked drinking times on a pillar and a ration line on the side of every jug in the hall. Aruz's held-back patient had arrived and was snoring in the care room. Near the loading doors, three households were still deciding whether to stay.
 
 Ormela put the bundle under the bunk assigned to her, then found that someone had rescued the vinegar cask and left the better ale behind. She drew a jug from it anyway.
 
