@@ -26,7 +26,7 @@ Ormela climbed onto the mounting block outside the brew house. Counting roofs wa
 
 “Upper lane, door to door,” she called to the baker's two eldest. “Don't write names. Marks only. One mark for found, a ring for hurt. Lower lane, take the potter's boy. Belkin!”
 
-“Cistern's not filling.” The well steward was already kneeling at its stone lip, a cord running through his fingers. His usual stoop had vanished. A woman with two pails was already waiting beside him, and he turned on her before she could speak. “No, you don't get a bucket yet. Nobody does.”
+“Cistern's not filling.” The well steward was already kneeling at its stone lip, a cord running through his fingers. His usual stoop had vanished. A woman with two pails was waiting beside him, and he turned on her before she could speak. “No, you don't get a bucket yet. Nobody does.”
 
 “How much is down there?”
 
@@ -34,7 +34,7 @@ He measured the wet cord against his forearm, counting under his breath. “Twen
 
 Aruz pushed through the lane with her sleeves rolled, directing three people to carry an old man into the shade. “Dizziness, vomiting, bleeding, or heat in the skin comes to me. Everyone else sits down before they invent a symptom.”
 
-At the village edge, a hen stepped past the final fence post and vanished over a drop. Ormela heard the flutter and the small, distant impact. She sent two carters to rope every broken boundary. Fires were damped. Animals came out of stalled air and into pens made from carts.
+At the village edge, a hen stepped past the final fence post and vanished over a drop. Ormela heard the flutter and the small, distant impact. She sent two carters to rope every broken boundary. Fires were damped. Animals came out of stalled air and into pens made from carts. Belkin marked two lined latrine trenches where the ground seemed thick enough, then moved one when the cooper pointed out it stood uphill of the cistern.
 
 “Where's the cemetery?” an upper-lane widow asked.
 
@@ -158,7 +158,7 @@ Sevri translated. The answer traveled through three officials and came back poli
 
 The widow chose two people to remain with her at the window. She did not ask to open the containers. She asked for the room to stay locked, for no ceremony, and for time to choose more representatives. Another villager whose family used a different burial slope wanted no part in that choice. Aruz said the distinction must be recorded too.
 
-Ormela's bundle grew warm under her coat. It held ninety-seven names, after correction, with debts beside most of them. It did not hold the dead in the boxes. It did not hold the seed grain, the grazing rights, or the outlying sheds. It recorded the chandler's widow on lower lane as owing two hens, though the hens had been payment for a roof repair and everyone on lower lane knew it.
+Ormela's bundle grew warm under her coat. It held ninety-seven names, after correction, with debts beside most of them. It did not hold the dead in the boxes. It did not hold the seed grain, the grazing rights, or the outlying sheds. It recorded one widow as owing two hens, though the hens had been payment for a roof repair and everyone on upper lane knew it.
 
 When officials requested a household record for the emergency hearing, Ormela laid the bundle on the brew-house table but kept one hand on it.
 
@@ -194,7 +194,7 @@ Freight Hall Nine appeared on a logistics map only because Belkin asked where th
 
 No village vote followed. Households walked through moving images of the hall and made their own decisions. The drovers chose the bays nearest the outer doors. Aruz claimed a room with two exits and a washable floor, then crossed out _medical_ on the plan until Sevri replaced it with _care_. Several older villagers would not leave Kettlebridge that night. The east-house owner refused until she saw the new supports under her kitchen. Four adults volunteered for alternating watches at the site, and Odan agreed they would keep access as stewards, not exhibits. Others reserved the right to change their minds in the morning.
 
-By full dark, lifts stood ready at the access deck. A future inventory on the first cargo pallet identified the brew house's iron coin box as ceremonial regalia and the cooper's adze as a dynastic emblem.
+By full dark, lifts stood ready at the access deck. A future inventory on the first cargo pallet identified Ormela's iron tax chest as ceremonial regalia and the cooper's adze as a dynastic emblem.
 
 The cooper lifted his adze off the pallet and shoved it through his belt. “I'll hold the dynastic emblem. You'd only drop it.”
 
@@ -214,7 +214,7 @@ She struck it from the loading sheet.
 
 The eldest, who was twelve, shouted from the goat pen that she was not. Her mother went to settle that without the tax reeve.
 
-The brewer beside Ormela claimed four casks. His wife corrected him to three and vinegar. The second furniture lift went to goats after all. Aruz held back a feverish man until he could travel lying down. One household declined to have its names spoken where the future clerks could hear, so Ormela marked five anonymous places and nothing more. Sevri translated weights, destinations, and consent, stopping whenever the device at her throat grew more certain than she was.
+The brewer beside Ormela claimed four casks. His wife corrected him to three and vinegar. Belkin cut the second furniture lift when a waste tank arrived late. Aruz held back a feverish man until he could travel lying down. One household declined to have its names spoken where the future clerks could hear, so Ormela marked five anonymous places and nothing more. Sevri translated weights, destinations, and consent, stopping whenever the device at her throat grew more certain than she was.
 
 The polished official returned once to request a certified copy of the “royal household roll.”
 
@@ -252,4 +252,4 @@ Ormela put the bundle under the bunk assigned to her, then found that someone ha
 
 He held out his cup anyway.
 
-Predawn air moved through the high vents. Ormela poured into it until the ale in the jug came down to Belkin's chalk line, and stopped there.
+Predawn air moved through the high vents. Ormela poured into his cup until the ale in the jug came down to Belkin's chalk line, and stopped there.
