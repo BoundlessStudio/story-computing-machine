@@ -16,7 +16,7 @@ At twenty-nine, Sidonie had been her country's reigning saint for four years. Rh
 
 “Your Majesty,” Sidonie began. “I have come to propose—”
 
-Rhazelle knelt. A seam complained beneath her black velvet coat. She spread her wings for balance, their crimson undersides briefly filling the arch, and opened the little box she had kept for three hundred years.
+Rhazelle knelt, and the moonlight slid down her horns. A seam complained beneath her black velvet coat. She spread her wings for balance, their crimson undersides briefly filling the arch, and opened the little box she had kept for three hundred years.
 
 “You always ask first,” the queen whispered. “I wanted to beat you to it this time.”
 
@@ -50,7 +50,7 @@ Rhazelle's wings jerked. Sidonie watched them, and for the first time that eveni
 
 Rhazelle rose, keeping the box open. Sidonie surrendered her cloak but retained something folded beneath it: four sheets tied with white ribbon.
 
-“I came to ask you to marry me,” she said. “As you seem to have guessed. Both crowns would then hold the border duchy, and neither country would have to yield its claim. My council has approved the terms. Your council's last letter said they would accept joint possession. I thought we might at least discuss it.”
+“I came to ask you to marry me,” she said. “As you seem to have guessed.” She addressed the rest to the ribbon, at the even pace of a speech learned on horseback. “Both crowns would then hold the border duchy, and neither country would have to yield its claim. My council has approved the terms.” She looked up. “I thought we might at least discuss it.”
 
 She worked the knot loose. The papers were densely written, with additions in a smaller, angrier hand.
 
@@ -68,7 +68,7 @@ Her preparations had included fifty-four rehearsals before a curtain, during whi
 
 “We needn't have that,” Rhazelle said.
 
-Sidonie stopped unpinning her veil. “Which part?”
+Sidonie stopped unpinning her veil and looked at the compact on the table. “Which part?”
 
 Rhazelle looked past the fire, toward no point the room contained.
 
@@ -80,13 +80,13 @@ Sidonie slowly put the veil pin down.
 
 “The person reading about us.”
 
-“Us.”
+“Someone is reading about us?”
 
-“At present.”
+“Since you came through the arch. Yes.”
 
 Sidonie glanced toward the window. Rhazelle wished she could have postponed this until after the wedding. Or at least after wine.
 
-“I hear the account,” she explained. “As it happens. The description of my extremely private rehearsals, for instance. Sometimes I address whoever is reading it.”
+“I hear the account while it's happening,” she said. “The description of my extremely private rehearsals, for instance. Sometimes I address whoever is reading it.”
 
 “Can you hear them answer?”
 
@@ -94,7 +94,7 @@ Sidonie glanced toward the window. Rhazelle wished she could have postponed this
 
 “Then you were telling a stranger about rehearsals I hadn't heard about.”
 
-“Yes,” Rhazelle said miserably.
+“Yes,” Rhazelle said to the hearthrug.
 
 Sidonie sat down on the sofa. Her white skirts subsided around her. “Fifty-four?”
 
@@ -110,7 +110,7 @@ The fire clicked and settled. Rhazelle wanted to move closer by approximately th
 
 “And it's only about you?”
 
-“There are other stories in this world. Other centuries, civilizations built over civilizations. I've heard enough to know that even the oldest ruins beneath this castle are comparatively young. But I can't turn to those accounts. I have this one, whenever it troubles to notice me.”
+“Mostly. There are other stories in this world. Other centuries, civilizations built over civilizations. Now and then the account brushes against one of them, something far older than this castle, and I catch the edge of it before it's gone. Enough to know that even the oldest ruins beneath us are comparatively young. I can't follow them. I have this one, whenever it troubles to notice me.”
 
 Sidonie lifted the hem of her dress and examined a splash of mud. “Does it do weddings?”
 
@@ -126,7 +126,7 @@ She let the skirt fall and studied the ring on the table. At their conference sh
 
 “You recognized an argument?”
 
-“Your soul. I can see a little of it, when I'm close. I don't know why yours is so clear to me.” Under Sidonie's ribs it moved like a light glimpsed between passing trees, familiar through every interruption. “Your face was new. Your voice. The appalling things you said about my cavalry. But I knew.”
+“Your soul. I can see a little of it, when I'm close. I don't know why yours is so clear to me.” Under Sidonie's ribs it moved like a light glimpsed between passing trees, familiar through every interruption. “Your face was new. Your voice. The unrepeatable things you said about my cavalry. But I knew.”
 
 “You never said.”
 
@@ -142,7 +142,7 @@ Rhazelle stopped with the bowl between them.
 
 “I hate candied peel,” Sidonie said.
 
-“Oh.” She put it down. “The first life I knew. She liked it.”
+“Oh.” Rhazelle put it down. “The first life I knew. She liked it.”
 
 “Was she like me?”
 
@@ -204,9 +204,9 @@ Rhazelle had spent nearly all those afternoons composing replies. In one, she ha
 
 “I liked your moth,” Rhazelle said.
 
-“You sent me one letter without any jokes, after the battle in the orchard. I sat with it for a long time.” Sidonie looked down at their knees. “I didn't want you to think I could only be amusing.”
+“After the orchard you sent me a letter without a single joke in it. I sat with it for two days. When I answered, I didn't put any jokes in mine either.” Sidonie looked down at their knees. “I was afraid you'd decide I was only worth writing to when I was amusing.”
 
-Rhazelle remembered that reply. Sidonie had named a young captain killed in the orchard; Rhazelle had known him only as the officer who always brought his own teacup to negotiations. Sidonie had written that his mother wanted the cup. Rhazelle had found it among the effects collected by her soldiers and sent it home.
+Rhazelle remembered Sidonie's answer. It had named a young captain killed in the orchard; Rhazelle had known him only as the officer who always brought his own teacup to negotiations. Sidonie had written that his mother wanted the cup. Rhazelle had found it among the effects collected by her soldiers and sent it home.
 
 “I never thought that.”
 
@@ -244,7 +244,7 @@ Rhazelle began to laugh. It hurt a little, coming out of the tightness in her ch
 
 “I'm fond of him,” Sidonie said, when she could breathe. “But I don't want him included in the next attempt.”
 
-“He won't be.” Rhazelle picked up the box. “Sidonie. Will you marry me?”
+“He won't be.” Rhazelle picked up the box and spread her wings as she had rehearsed, wide enough to be imposing, not so wide that they hid the ring. “Sidonie. Will you marry me?”
 
 Sidonie looked at the ring, then at Rhazelle's extended wings. She let go of her hand.
 
