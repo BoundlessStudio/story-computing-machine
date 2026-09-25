@@ -54,7 +54,7 @@ Lacrixa followed his stare. “That does not look like ash.”
 
 Udren leaned her weight into the shield as another hot gust struck. “How many people on your side?”
 
-Lacrixa turned at once and stepped back across the plane onto her own tiles. The tiled room behind her had once held a bed, two chests and a table Emet could never make sit level. It now held racks of glazed bowls. Past its open arch lay the kiln court: brick galleries, firing pits, wash troughs, and more than two dozen people trying to move hot ware out of the wind.
+Lacrixa turned at once and stepped back across the plane onto her own tiles. The tiled room behind her was where they had fitted the hinge. It now held racks of glazed bowls. Past its open arch lay the kiln court: brick galleries, firing pits, wash troughs, and more than two dozen people trying to move hot ware out of the wind.
 
 “Thirty-one in the court,” Lacrixa said. “Six in this room. All adults, two with bad legs. How many here?”
 
@@ -114,7 +114,7 @@ The crossing bucked. They dropped the loop clear as Udren drove the rim of her s
 
 The first loop hit the stones and split along a seam. A smell like hot pennies filled the room. With one borrowed route gone, the crossing contracted. The old room sprang into painful focus.
 
-The bed was gone. The uneven table was gone. New racks covered one wall, but a border of green-and-cream tile still ran behind them, including the piece Emet had set upside down and Lacrixa had refused to fix because it annoyed him more each year. Her leaf remained openly screwed above that border. On Emet's side, the first loop's fall had peeled back an iron clamp and exposed a scrap of gray cloth trapped beneath it: the prayer-stitched wrapping from inside his breviary.
+The bed was gone, and the table he could never make sit level. New racks covered one wall, but a border of green-and-cream tile still ran behind them, including the piece Emet had set upside down and Lacrixa had refused to fix because it annoyed him more each year. Her leaf remained openly screwed above that border. On Emet's side, the first loop's fall had peeled back an iron clamp and exposed a scrap of gray cloth trapped beneath it: the prayer-stitched wrapping from inside his breviary.
 
 Lacrixa saw the cloth.
 
@@ -138,7 +138,7 @@ There was no safe category of answer. He had spent nine years inventing them any
 
 Lacrixa went still. Behind her, court workers dragged a wheeled rack away from the arch. One wheel screamed on its axle.
 
-“The circuit's twenty years,” Emet said. “Never more than a season in one place. Every first frost I packed while the people around me banked the hearth. If we'd stayed together, you'd have had to leave your court every season. Or I'd have had to quit the road.”
+“The circuit's twenty years,” Emet said. “Never more than a season in one place. If we'd stayed together, you'd have had to leave your court every season. Or I'd have had to quit the road.”
 
 “So you chose.”
 
