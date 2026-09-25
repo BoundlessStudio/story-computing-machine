@@ -16,7 +16,7 @@ Four pale bars stood beneath the crown. One went dark as the west tower struck t
 
 If the last bar vanished without both signets placed in the succession array, the ceremony would expire without fault. The law gave them until dawn to turn vows into a registered household. It did not make either of them finish.
 
-Osvan had dismissed the musicians, the blessing clerk, the page carrying warmed wine, and everyone else entitled to witness two strangers become private. He had not removed his court coat. Rain had dried in black beads along its high collar. He sat at the edge of a cedar chair as if the chair belonged to a petitioner.
+Osvan, prince of Avarnth, had dismissed the musicians, the blessing clerk, the page carrying warmed wine, and everyone else entitled to witness two strangers become private. He had not removed his court coat. Rain had dried in black beads along its high collar. He sat at the edge of a cedar chair as if the chair belonged to a petitioner.
 
 Tareya drew the marriage articles from beneath her traveling cloak and set them on the bed.
 
@@ -290,7 +290,7 @@ Osvan looked at the dead gold in Tareya's palm. "Mine. While I have it."
 
 He lifted the two blanks out of their cups and placed his own ring in the northern one.
 
-The crowned hawk filled the floor alone. Without her supporting herald, its outer line flickered where the contested count remained incomplete.
+The crowned hawk filled the floor alone. Without her supporting herald, its outer line flickered where the contested count remained incomplete. The device registered that Osvan Rhel had placed a signet at a particular cup at a particular time.
 
 The chamberlain pulled the bell cord once. "Sole royal placement witnessed."
 
