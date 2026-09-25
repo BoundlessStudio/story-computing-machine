@@ -234,7 +234,7 @@ Ryo gripped the central rails. “Eiren. The door.”
 
 The filament pulsed between them, ragged and bright.
 
-“Then I found you. The first crisis, and you stood straight up. I thought enough victories would send the feeling home with you.” Her braced hand slid on the threshold. “And when you asked for another one, I was glad. I was glad, Ryo.”
+“Then I found you. The first crisis, and you stood straight up. I thought enough victories would send you home feeling real too.” Her braced hand slid on the threshold. “And when you asked for another one, I was glad. I was glad, Ryo.”
 
 Ryo’s hands tightened until the rails bent. “Glad.”
 
@@ -374,7 +374,7 @@ Eiren turned her palms upward. The filaments were gone. Thin burns crossed her h
 
 Ryo waited for grief and found it. He also found relief, fear, resentment, affection, and a powerful desire to sleep for a week. None canceled the others.
 
-“Thanks for getting me out,” he said. “I’m still angry about the rest.”
+“Thanks for getting me out,” he said. “I’m still angry with you.”
 
 “I know,” Eiren said. “I am sorry.”
 
