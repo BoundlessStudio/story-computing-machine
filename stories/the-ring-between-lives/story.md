@@ -204,7 +204,7 @@ Rhazelle had spent nearly all those afternoons composing replies. In one, she ha
 
 “I liked your moth,” Rhazelle said.
 
-“After the orchard you sent me a letter without a single joke in it. I sat with it for two days. When I answered, I didn't put any jokes in mine either.” Sidonie looked down at their knees. “I was afraid you'd decide I was only worth writing to when I was amusing.”
+“After the battle in the orchard you sent me a letter without a single joke in it. I sat with it for two days. When I answered, I didn't put any jokes in mine either.” Sidonie looked down at their knees. “I was afraid you'd decide I was only worth writing to when I was amusing.”
 
 Rhazelle remembered Sidonie's answer. It had named a young captain killed in the orchard; Rhazelle had known him only as the officer who always brought his own teacup to negotiations. Sidonie had written that his mother wanted the cup. Rhazelle had found it among the effects collected by her soldiers and sent it home.
 
