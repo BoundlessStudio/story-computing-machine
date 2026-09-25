@@ -152,7 +152,7 @@ Pelka took her by the collar and held on. "Then don't. Yav. Don't." She pushed h
 
 They gained the narrow ground above the pines at dusk. The slope shuddered every few breaths. Dust lifted from three ledges where eagles nested; one slab had already tilted away from the mountain, leaving a wedge of dark air beneath it.
 
-The wild eagle returned with a strip of wool snagged around one talon. It dropped the wool, landed on a boulder between Yavren and the eyries, and bowed again.
+The wild eagle returned with a strip of wool snagged around one talon, landed on a boulder between Yavren and the eyries, and bowed again.
 
 Yavren's older memory reached first: banners lowering, petitioners prostrate, the ritual submission of lesser houses.
 
@@ -300,13 +300,13 @@ The weir officer met them on the road on the third day, his men behind him. At t
 
 The road king offered the armor its weight in silver. When Yavren kept walking, he retreated behind a portcullis and dropped it on her. She stood beneath its grinding teeth until the colony had eaten a gap above her shoulders. His guards fled through it after she passed. She killed him in his counting room. By dusk his crown lay in her pack beside the first.
 
-At night she could no longer sleep on her back. The colony strained against the ground beneath her. Once Pelka carried the lamp outside, leaving only moonlight through the open flap, and the dark wings remained spread across the tent floor.
+At night she could no longer sleep on her back. The colony strained against the ground beneath her. Once Pelka pinched out the lamp, leaving only moonlight through the open flap, and the dark wings remained spread across the tent floor.
 
-"Make it fold," Pelka said from outside.
+"Make it fold," Pelka said.
 
 Yavren lifted her hand. The wings folded. "It still follows."
 
-Pelka left the lamp where it was, and Yavren watched the tent floor until morning.
+Pelka did not relight the lamp, and Yavren watched the tent floor until morning.
 
 * * *
 
