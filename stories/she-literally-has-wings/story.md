@@ -48,7 +48,7 @@ She pinched the foil loose. “I call myself an angel.”
 
 “You call yourself—”
 
-“Julian, take the carrots.” Tomas was passing with two chairs braced against his chest. “She can’t reach the cooling rack while you’re standing there.”
+“Julian, take the carrots.” Tomas had come across from the far wall with two chairs braced against his chest. “She can’t reach the cooling rack while you’re standing there.”
 
 Julian took the pan automatically. He carried it three steps before turning. “Did you know?”
 
@@ -60,15 +60,11 @@ Tomas shifted the chairs higher. “She isn’t.”
 
 Coralie stopped fighting the foil.
 
-Julian stopped with the carrots halfway to the rack. “She just said she is.”
+Julian pointed at her with the corner of the pan. “She just said she is.”
 
 “You probably heard her wrong.” Tomas nodded toward the counter. “She’s winged. That doesn’t make her an angel.”
 
-“I heard four words.”
-
-“Three, if she said what you think.”
-
-Julian stared at him. “That’s your objection?”
+“I was standing right here. She said, ‘I call myself an angel.’”
 
 Tomas set the chairs onto a table and glanced at Coralie at last. It was a quick glance, seeking confirmation of some small, ordinary misunderstanding. She could have rescued him then. She could have smiled, made a joke about the woman’s choice of compliment, and given him the few minutes he needed to discover his mistake privately.
 
@@ -76,7 +72,7 @@ Instead, Coralie pulled out another length of foil. It tore straight across.
 
 Tomas’s expression changed.
 
-“Oh,” Julian said. The carrots gave a soft hiss against the metal rack. “You genuinely don’t know.”
+“Oh,” Julian said. He set the carrots down, and they gave a soft hiss against the metal rack. “You genuinely don’t know.”
 
 The rear door swung open before Tomas could answer. A man leaned in, letting a blade of cold cut across the floor.
 
@@ -92,15 +88,15 @@ He did. He thanked her twice on his way out.
 
 Julian waited until the latch caught. “Tomas. She has wings.”
 
-“People have wings.” Tomas’s hands had gone still on the back of a chair. “People grow them, inherit them, build them and end up keeping them. Her feathers don’t come with a certificate.”
+“Lots of people have wings.” Tomas’s hands had gone still on the back of a chair. “Some grow them, some inherit them, some build a pair for work and never take them off. Her feathers don’t come with a certificate.”
 
 “She called herself an angel.”
 
-“Yes, Julian. I was here.”
+“Yes, Julian. I heard you the first time.”
 
 The polish in Tomas’s voice was a warning. He used it when he had assembled an argument too quickly and intended to live inside it until everyone else went home.
 
-Coralie stacked two shallow pans, metal ringing against metal. “The drying towels are still in the kitchen.”
+Coralie stacked two shallow pans, metal ringing against metal. The first batch she had washed was still dripping off the rack beside the kitchen sink. “The drying towels are still in the kitchen.”
 
 Both men looked at her.
 
@@ -132,29 +128,27 @@ In the kitchen, Julian was kneeling beside the laundry basket. “How long has h
 
 Coralie set the pans beside the sink. “I knew he didn’t use the word.”
 
-“That is not the same thing.”
+“That’s not the same thing and you know it.”
 
 “No.”
 
-He waited. Julian had always believed silence was a faulty appliance. If he stood beside it long enough, someone should tell him where the switch was.
+He waited. Julian had always treated silence like a broken appliance: stand beside it long enough and someone would come and fix it.
 
 Coralie pointed to the basket. “Blue towels. The white ones leave lint.”
 
 He rose with the blue towels gathered against his chest. “You’re both impossible.”
 
-“Those go under the rack.”
+“Those go under the drying rack.”
 
 “I know where towels go.”
 
-He did not. Two minutes later she found them draped over the serving counter, where water would run onto the floor. She moved them without comment.
+He did not. Two minutes later she found them draped over the serving counter, nowhere near the drip. She moved them without comment.
 
 At the bread table, one of the regulars was struggling to close her cloth bag. Coralie retied it with a loop loose enough for stiff fingers. At the next table, Tomas crouched and found the missing mitten jammed between a chair leg and the wall. He held it up. The child’s parent laughed with relief; the child seized it and immediately dropped the other one.
 
 Tomas picked that one up too.
 
 Of course he did. He caught cupboard doors before Coralie walked into them and took the laundry off the line when the air changed. Tomas noticed the second thing while everyone else was still pleased about the first.
-
-It did not make his ignorance smaller. That was the trouble.
 
 The broad-shouldered diner finally approached the counter. “Could I take a plate to my upstairs neighbor? The stairs are bad for him tonight.”
 
@@ -190,7 +184,7 @@ Julian did ignore it. The moment the door shut, he came back from the cooling ra
 
 Julian opened his mouth.
 
-Tomas kept going. “They smile because she notices them. She notices when you pretend decaf doesn’t give you a headache because you don’t want to inconvenience anyone. She notices when I leave cupboard doors open and closes them hard enough that I can hear her opinion from the other room. She hates pears unless they’re cooked. She needs the soft brush for new feathers and the wooden comb for the long ones, and if you put either back with the handle pointing in, she’ll knock everything off the shelf trying to turn it around.”
+Tomas kept going. “She notices when you pretend decaf doesn’t give you a headache because you don’t want to inconvenience anyone. She notices when I leave drawers open and shuts them hard enough that I can hear her opinion from the other room. She hates pears unless they’re cooked. She needs the soft brush for new feathers and the wooden comb for the long ones, and if you put either back with the handle pointing in, she’ll knock everything off the shelf trying to turn it around.”
 
 Coralie pressed her palms against the cool counter.
 
@@ -204,9 +198,9 @@ Tomas’s chin lifted. “Something like that.”
 
 The hall quieted around the question. Even the family with the mittens had gone. Only the two bread regulars remained, slowly putting on their coats.
 
-Tomas faced her. “Avian demi-human was my first guess. Then you told me one of your parents didn’t have wings, so I thought maybe hybrid, or a transformation that settled. I knew those weren’t exact.”
+Tomas faced her. “Bird. Avian, I mean. Some kind of demi-human, I thought, at first.” He rubbed his thumb along the chair back. “Then you said one of your parents didn’t have wings, so maybe a hybrid. Or something.”
 
-“You knew they weren’t exact,” Julian repeated.
+“Or something,” Julian repeated.
 
 Coralie raised one finger. Julian shut his mouth.
 
@@ -224,11 +218,9 @@ Her companion was already holding the door. They left together without smiling a
 
 Tomas waited until they were outside. “I didn’t want to make you explain yourself.”
 
-“So you picked an explanation and kept it.”
+Coralie tore off a last sheet of foil. “So you picked a guess and kept it.”
 
-“I picked a possibility.”
-
-“For seven years?” Julian said.
+“The whole marriage?” Julian said.
 
 “Julian.” Coralie didn’t look at him. “Sweep under the bread table.”
 
@@ -240,11 +232,11 @@ He took it.
 
 The bristles scratched across the floor. Tomas moved a chair out of Julian’s path, then another. His need to keep doing useful things was so familiar that Coralie could have followed it through a dark house.
 
-She finished covering the carrots. She labeled them with the date. She wiped a bead of sauce from the edge of the counter. Only then did she say, “Angel is the truthful word for me.”
+She finished covering the carrots. She labeled them with the date. She wiped a bead of sauce from the edge of the counter. Only then did she say, “I am an angel. That part’s true.”
 
 Tomas nodded once.
 
-“It doesn’t prove whatever Julian thinks he has proved. I don’t make people happy. I don’t know who deserves what. I can’t heal anyone, and I’m not going to answer questions about heaven while the rice pans are soaking.”
+“It doesn’t prove whatever Julian thinks he has proved. I don’t make people happy. And I’m not going to answer questions about heaven while the rice pans are soaking.”
 
 Julian swept faster.
 
@@ -260,15 +252,13 @@ Coralie let her wings loosen. The relief was immediate and edged with pain. Feat
 
 “Would you have answered?”
 
-There it was: not an accusation, exactly. The first true question, arriving late and carrying all the others behind it.
-
-Coralie considered lying to make the balance cleaner. “I don’t know. When we met, maybe not.”
+Coralie picked up the date marker and set it down again. She considered lying to make the balance cleaner. “I don’t know. When we met, maybe not.”
 
 “And after?”
 
 “After, I kept waiting for a way to say it that wouldn’t turn me into a lesson. Then I liked that you didn’t care about the impressive parts.” She flexed her aching left wing and heard one of the coverts tick against a chair rung. “Then it got embarrassing that I’d waited. So I waited more.”
 
-Tomas absorbed this without reaching for it. His arguments had run out; she could see the discomfort of empty hands.
+Tomas let go of the chair and then seemed not to know where to put his hands.
 
 Julian paused with the broom. “For what it’s worth, I didn’t ask either. I heard angel and started pointing at things.”
 
@@ -276,11 +266,9 @@ Julian paused with the broom. “For what it’s worth, I didn’t ask either. I
 
 He nodded, took the dustpan from its hook, and went back to work.
 
-Tomas pulled out a chair but did not sit. “What do you need me to understand tonight?”
+Tomas pulled out a chair but did not sit. “What do I do now? Tonight, I mean.”
 
-The narrowness of it helped. Not everything. Not forever. Tonight.
-
-“That not making me explain myself isn’t the same as leaving room for me to tell you.”
+“Ask me about one of your guesses. On the walk home, not in here.”
 
 His fingers tightened around the chair back. “All right.”
 
@@ -307,8 +295,6 @@ Coralie’s throat tightened, which was inconvenient but not persuasive by itsel
 “Those are reasons,” she said. “They don’t answer what you thought I was.”
 
 “No.” Tomas sat at last. “They don’t.”
-
-He did not reach for another defense. That mattered.
 
 Julian finished sweeping and carried the dustpan to the bin. On his return, he lifted the last two chairs onto the bread table. He kept his eyes on the chair legs.
 
@@ -346,7 +332,7 @@ He waited.
 
 “Emptied out how?”
 
-“I can’t give you a useful answer yet.”
+“I don’t have a way to say that yet.”
 
 “All right.” After half a block he asked, “Does anything help?”
 
