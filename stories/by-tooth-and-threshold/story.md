@@ -178,7 +178,7 @@ She touched the outside of his left boot with hers. "I touch the side I want. Do
 
 "How long does it—"
 
-"Seventy seconds. Once it starts it doesn't stop. I can't talk through it, can't hold anything."
+"Seventy seconds. Once it starts it doesn't stop. I can't talk through it, can't hold anything." She touched the new gauze. "Twice inside an hour, this opens up."
 
 Dev looked at the upper windows. "Can you do it now? Can you hurry it?"
 
@@ -272,7 +272,7 @@ The vehicle accelerated backward. Its rear bumper caught the closed road gate, b
 
 Audra could have cleared the fallen gate before it reached the rise. Instead she stood beside the disabled loop, watching until the engine faded.
 
-The receiver lay in the lane where it had fallen from the open door. The launcher lay inside the pen with a spare dart beside it, and the spent one was somewhere in the mud by his pickup. Dev left all of it where it was for the responders.
+The receiver lay in the lane where it had fallen from the open door. The launcher lay inside the pen with a spare dart beside it, and the spent one was somewhere in the mud by his pickup. Dev took his phone off the road-gate post and left the rest where it was for the responders.
 
 Audra touched his left boot and headed down into the draw.
 
