@@ -106,9 +106,7 @@ The repetition steadied her, though the climb had put a pulse behind her eyes.
 
 From the shelf she could see the stream swelling over the black ford stone. Rain had struck the high country after all. The afternoon light lay yellow on the far wall, but the water below was already brown.
 
-Safra weighed the baskets by their handles. The left carried clearblue and ambercup in the protected upper cells. The right carried redspur outside the waxed wall. There was room for more redspur on the way down, and the forewoman might want it. She pictured the duskbell frames, the long ridge, and the drag of a basket that pulled harder on one shoulder than the other.
-
-She left the optional redspur rooted.
+Safra weighed the baskets by their handles. The left carried clearblue and ambercup in the protected upper cells. The right carried redspur outside the waxed wall. She pictured the duskbell frames, the long ridge, and the drag of a basket that pulled harder on one shoulder than the other.
 
 Duskbell grew in a hollow that held evening before the rest of the valley. Safra reached it as the petals began to curl inward. Open, they were pale and almost transparent. Closing, they took on the color of smoke. Before the edges touched, the petals held too much valley damp; afterward they folded too tightly to spread on a frame. The useful interval was marked by a dry whisper, and Safra heard it as she came down the last slope.
 
