@@ -70,7 +70,7 @@ Corven gave me the date Teyo had disappeared. Twelve days ago.
 
 “Twelve days,” I said. “And you come tonight.”
 
-“We have walked a wider circle every night. He kept quiet.” Corven glanced at the box. “Tonight he did not. Olya heard him from the end of your lane, before the rain.”
+“We have walked a wider circle every night. He kept quiet.” Corven glanced at the box. “Tonight he did not. Olya heard him from the end of your lane, before the rain came down hard.”
 
 Then he described a healed notch along the left ear, which nobody could have seen from the step, and said, “When he is upset in this body, he bites cloth hems but leaves the seams intact.”
 
@@ -98,7 +98,7 @@ She was already kneeling at the cart. The small heat pad switched to its battery
 
 I looked down at the recovery box, where something scraped and went still. “He's twelve point nine grams,” I said. Pippa had underlined it.
 
-“It takes three minutes of unbroken dark,” Corven said, “and only once between one sunset and the next. He keeps what he has. The injury, the hunger, his memory. Himself.”
+“It takes three minutes of unbroken dark,” Corven said, “and only once between one sunset and the next. He keeps what he has. Any injury, any hunger, his memory. Himself.”
 
 “Can you make him do it?”
 
@@ -272,7 +272,7 @@ I pushed the landing board aside so I could kneel closer. He gave it a look of o
 
 “You used your left,” Pippa said.
 
-“My right hurt. And your O had a tail on it. I was TEYQ for two days.”
+“My right hurt. And your O had a tail on it.”
 
 Pippa turned to me. “It was one letter. I taped over it.”
 
@@ -306,7 +306,7 @@ Olya laughed once, badly, and covered her mouth. “May I?”
 
 Teyo considered her open arms. “You can sit here. Don't squeeze my right side.”
 
-I lifted the tape for her. She sat down on his left, and he leaned into her shoulder. Then Teyo crooked two fingers at Corven, who came and sat too, plain and careful, and offered his hand instead of taking Teyo's.
+I waved her across the tape. She sat down on his left, and he leaned into her shoulder. Then Teyo crooked two fingers at Corven, who came and sat too, plain and careful, and offered his hand instead of taking Teyo's.
 
 Pippa pulled me into the hall while Teyo ate bread and honey. She kept the torch pointed at the floor between our feet.
 
