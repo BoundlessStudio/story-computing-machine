@@ -94,7 +94,7 @@ Rasim nodded and began clearing paper, loose wiring, and a basket of seed packet
 
 They did not ask anyone to laugh.
 
-Instead, Ianthe lowered the condenser's pump pressure and let the festival provide the input. Rasim marked where people already stood. A cook laughed when her pot shrieked before she touched it. Blue light edged a cloud above her left shoulder; Rasim called, “Three metres, moving west,” and Ianthe stopped the cycle after fifty millilitres. Two friends bent over the shuttle basket and laughed together. The ranger split them into two targets, then lost both when they leaned apart. A cloud formed between them, rained on neither, and dampened a tray of thread.
+Instead, Ianthe lowered the condenser's pump pressure, bled the accumulator after every cycle, and let the festival provide the input. Rasim marked where people already stood. A cook laughed when her pot shrieked before she touched it. Blue light edged a cloud above her left shoulder; Rasim called, “Three metres, moving west,” and Ianthe stopped the cycle after fifty millilitres. Two friends bent over the shuttle basket and laughed together. The ranger split them into two targets, then lost both when they leaned apart. A cloud formed between them, rained on neither, and dampened a tray of thread.
 
 “Target ambiguity at thirty-two degrees,” Ianthe said, reading the log.
 
@@ -138,7 +138,7 @@ Rasim watched her go. “It was a sleeve. She'll be dry before she's past the lo
 
 Ianthe wrote *sleeve, unwarned* beside the fifth cycle and said nothing.
 
-“I was wrong about the radius.” He pointed to the chalk arc rather than look at her. “And the chair.”
+“I was wrong about the chair.” He looked at the place where it had stood rather than at her.
 
 The battery sounded its first descending note. Ianthe checked the remaining charge against the judging time. Restoring potable-water mode meant rewriting the noise filter, purging the lines, and holding the mesh at calibration temperature for eighteen uninterrupted minutes. She had enough charge if no one laughed nearby and nothing else went wrong.
 
@@ -184,7 +184,7 @@ The child did at once, which was more than Ianthe's answer had managed.
 
 They were still setting the second mat when her father fitted the freed wheel onto a little parts cart. He spun it. The wheel turned cleanly, wobbling once before it settled. The child laughed.
 
-The condenser was in diagnostic-ready mode. Ianthe had disabled the pump but not, she saw with a shock, the pressure accumulator.
+The condenser was in diagnostic-ready mode. Ianthe had disabled the pump but, she saw with a shock, had not bled the accumulator.
 
 Blue sharpened along the air above the child. A cloud swelled faster than the earlier ones, fed by the accumulator's trapped charge.
 
