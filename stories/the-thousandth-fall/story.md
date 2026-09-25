@@ -168,7 +168,7 @@ Rasden completed ten more circles. The bell stood quiet in its cradle, and Palla
 
 Two ridges away, the western wall of Suncleft Gorge split along a water-dark seam. Spring melt had worked deep into the stone; now a shelf the size of a village square peeled loose under its own weight. It fell in a pale, grinding sheet. The western anchorage of the Pilgrim Span vanished with it.
 
-The bridge was crowded. For one suspended instant Rasden saw the caravan against the sky, a dark line flecked with color. Then the far end dropped. The span folded into the gorge.
+The bridge was crowded. For one suspended instant Rasden saw the caravan against the sky, a dark line flecked with color, a woven basket swinging beneath its middle. Then the far end dropped. The span folded into the gorge.
 
 Palla shouted his name, but Rasden was already gone.
 
