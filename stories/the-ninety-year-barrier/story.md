@@ -10,11 +10,11 @@ canon: false
 
 The Witch of the Dark Forest laid your reed hook on the workbench between you.
 
-It was a poor little thing to have caused so much trouble. You had cut it from an old spoon handle, sharpened the bend against a doorstep, and wrapped the grip in waxed thread because blisters slowed basket work. A burr of black light clung to its point. Every few breaths, the pull from the western wall drew it long.
+It was a poor little thing to have caused so much trouble. In the village every cut willow rod was a reed, and this was the hook you worked them with. You had cut it from an old spoon handle, sharpened the bend against a doorstep, and wrapped the grip in waxed thread because blisters slowed basket work. A burr of black light clung to its point. Every few breaths, the pull from the western wall drew it long.
 
 The Witch watched it stretch. Then she looked at you.
 
-The stories had been right about her eyes. They were not red, or bottomless, or aflame. They were brown and terribly attentive. A starving traveler might look at a laid table that way. So might your uncle when he found an unpicked length of perfect willow by the river and had already decided what it could become.
+The stories gave her red eyes, or bottomless ones, or eyes on fire. Hers were brown and terribly attentive. A starving traveler might look at a laid table that way. So might your uncle when he found an unpicked length of perfect willow by the river and had already decided what it could become.
 
 Neither comparison stopped your knees from shaking.
 
@@ -26,7 +26,7 @@ You tried to swallow. Nothing happened.
 
 This did not help. She looked hungry enough to bite the answer out of your head.
 
-The room offered no easier thing to look at. Blackthorn stakes leaned in bundles against the walls, their bark silvered with age. Skeins of cord hung from roof beams. Dried mushrooms, onions, nettles, and things you could not name filled the rafters with a bitter green smell. The Witch had set your gathering basket beside the stove. Its bent rim accused you almost as efficiently as she did.
+The room offered no easier thing to look at. Blackthorn stakes leaned in bundles against the walls, their bark silvered with age. Skeins of cord hung from roof beams. Dried mushrooms, onions, nettles, and things you could not name filled the rafters with a bitter green smell. The Witch had marched you up from the river bank with one hand on your collar and your gathering basket in the other, and now the basket sat beside the stove. Its bent rim accused you almost as efficiently as she did.
 
 “I didn’t mean to,” you said.
 
@@ -50,37 +50,29 @@ You put your hand around empty air.
 
 “Which hand?”
 
-You changed hands.
+You changed hands, because she had asked.
 
 “Were you facing the forest or the village?”
 
 “The village.”
 
-“Your basket was on your village side?”
-
-“Yes.”
-
-“Then the hook entered from the forest side.”
+“And you pulled toward yourself.”
 
 “Yes.”
 
 Her gaze sharpened. That was the answer she wanted. You gave it quickly, pleased to have found one.
 
-“And you pulled toward yourself.”
-
-“Yes.”
-
 “Hard.”
 
 “Very hard.”
 
-The Witch put the hook down.
+Your empty hand, still curled around nothing, rolled a little at the wrist and stopped.
 
-“All three answers cannot be true.”
+The Witch put the hook down. “You said very hard. Your hand hardly moved.”
 
-The pleasure went out of you. “They felt true.”
+The pleasure went out of you. “It felt hard.”
 
-“Feeling is useful. Agreeing is not.” She crossed to the western wall and pressed her palm against a blackthorn slat. The slat did nothing by itself. A pulse moved from the heel of her hand into the wood, and lines appeared across the plaster: hundreds of dark, fine strands crossing at angles too dense to follow. Near the floor, one line hung slack. Then another loosened beside it.
+“You keep saying yes.” She crossed to the western wall and pressed her palm against a blackthorn slat. The slat did nothing by itself. A pulse moved from the heel of her hand into the wood, and lines appeared across the plaster: hundreds of dark, fine strands crossing at angles too dense to follow. Near the floor, one line hung slack. Then another loosened beside it.
 
 “It is shedding tension,” she said.
 
@@ -92,9 +84,7 @@ You backed into the stool. It scraped loudly.
 
 “I didn’t reverse anything.”
 
-Her eyes found you again. “Then I have discovered a second problem.”
-
-She crouched before a chest and began taking out pegs, string, and a split basket rim. She moved fast. Not angry, perhaps, but a person could be killed by someone in a hurry as easily as by someone in a temper.
+Her eyes found you, then went back to the wall, where the slack line had begun to sway. She did not argue. She crouched before a chest and began taking out pegs, string, and a split basket rim. She moved fast. She might not be angry, but a person could be killed by someone in a hurry as easily as by someone in a temper.
 
 You thought of the route home: out the crooked green door, around the rain barrel, down the steep path, across two fields. You thought of your aunt waiting over lentil stew, counting both bundles and minutes. You thought of the barrier around the village, which everyone touched for luck before travel and blamed for making their hair stand up in dry weather. There had always been a barrier. Old people remembered watching its last stakes driven, but even they had been children then.
 
@@ -140,15 +130,15 @@ You tucked the cord beneath its neighbor, lifted the crossed part on your thumb,
 
 “Why?” she asked.
 
-“Because otherwise the strain sits on the break.”
+“Because otherwise the strain sits on the break.” You touched the split with one finger. “There.”
 
-“It did not before.”
+She did not answer. She hooked your tuck loose with a fingernail, laid her own loop back the way she had made it, and drew the far end. The split gaped open under the place you had touched.
 
-“It would when you pulled that side.”
+“Put it back.”
 
-She pulled. The rim bent exactly where you had indicated.
+You put it back. She pulled again, with the same hand and, as far as you could tell, the same strength. The rim held round.
 
-The Witch’s attention became worse. She leaned so near that a lock of her hair dragged across the pegs. It was not the gray you had expected. It was white, but white like the underside of a leaf in strong sun, with green shadows where strands crossed.
+The Witch’s attention became worse. She leaned so near that a lock of her hair dragged across the pegs. You had expected it to be gray. It was white like the underside of a leaf in strong sun, with green shadows where strands crossed.
 
 “Do it again.”
 
@@ -160,15 +150,13 @@ You undid the crossing. Her fingers hovered beside yours, too eager to wait and 
 
 “First the lift,” you said. “Only enough for the end. Then you turn back against the lay.”
 
-“Against the load.”
+“Against the load?”
 
 “If you like. Then under this one.”
 
 “That feeds slack across the center.”
 
 “It stops the broken rim pulling open.”
-
-You were both speaking about the same cord. It did not yet feel as though you were speaking about the same thing.
 
 Another dark strand appeared on the wall. It drooped below the first.
 
@@ -198,13 +186,7 @@ The path pitched down through wet fern. You tried to hurry. The Witch caught the
 
 “I saw it.”
 
-“You stepped on it.”
-
-“I was stepping over.”
-
-She released you. “Do that, then.”
-
-For several minutes, the only talk was useful.
+She released you without answering. For several minutes, the only talk was useful.
 
 “Low branch.”
 
@@ -212,9 +194,7 @@ For several minutes, the only talk was useful.
 
 “Left at the fork.”
 
-“That’s not the way I came.”
-
-“The way you came now contains a hole.”
+The right-hand path was the one she had marched you up. You went left and did not ask.
 
 At the foot of the slope, the forest thinned. Between the last oaks stood a double line of blackthorn stakes. They were taller than you and sunk so deep that ninety winters had not tilted them. Nothing shimmered between them. The village lay beyond—brown roofs, pale chimney smoke, the upper arm of the grain mill moving in the rain. Home looked close enough to reach before your aunt put the stew aside in disgust.
 
@@ -224,11 +204,11 @@ The Witch stopped at what seemed to be an ordinary gap.
 
 She placed both palms against the two nearest stakes. Her breath left her in a long, controlled stream. Warmth pressed against your face. It had no light, but the fine hairs along your arms rose as her living force moved into the wood and along what the wood held. The air in the gap folded inward, strand after unseen strand drawing aside.
 
-Only when the Witch stepped through did you understand that she had opened it. The barrier had neither recognized her nor obeyed her. She had done the recognizing and the opening.
+Until the air moved, you had not known the gap was shut. The opening was all her work; the stakes only carried what she put into them.
 
-“Come.”
+“Lean through,” she said. “Keep your feet on this side.”
 
-You hurried after her. Halfway through, something brushed the back of your neck like taut silk.
+You leaned in to the shoulders. Something brushed the back of your neck like taut silk.
 
 “Did you feel that?” she asked.
 
@@ -240,9 +220,9 @@ You nearly said whichever direction she expected. Then you looked at her hands. 
 
 “Behind me. High to low.”
 
-She nodded once and released the passage. The pressure closed.
+She nodded once. You drew back, and she released the passage. The pressure closed.
 
-The tear was forty paces north, hidden behind a stand of willow. It did not look person-wide until the rain struck it. Drops vanished across a tall shape as broad as your shoulders, then burst into white sparks at its edges. One of your cut bundles lay inside, reeds scattered where you had dropped them.
+The tear was forty paces north along the stakes, hidden behind a stand of willow on the forest side. It did not look person-wide until the rain struck it. Drops vanished across a tall shape as broad as your shoulders, then burst into white sparks at its edges. One of your cut bundles lay in the mud in front of it, reeds scattered where you had dropped them.
 
 The Witch stopped so abruptly that you almost walked into her.
 
@@ -278,7 +258,7 @@ You braced the bundle against your thigh. “I thought a reed had caught. If you
 
 Your wrist remembered before the rest of you did. You raised the empty hand, rolled it outward, and turned the imagined hook back beneath the pressure.
 
-The Witch’s face changed. Not softened. If anything, the hunger sharpened. But now you could see what it followed: not your throat, not your fear. Your wrist.
+The Witch’s face changed, and the hunger in it sharpened. But now you could see what it followed: not your throat, not your fear. Your wrist.
 
 “Again,” she said.
 
@@ -288,23 +268,21 @@ You repeated the motion more slowly. “Lift. Turn back. Tuck under the strand b
 
 “I found something in my way.”
 
-“From outside.” She went to the tear and held her fingers near its sparking edge without touching. “A dragon can strike this barrier until its skull rings. Force from that direction only binds it tighter. But from inside, there must be a way to open a crossing without my presence. Fire. Flood. My death.” She said the last condition as flatly as rain. “Slow lift, reverse turn, neighboring strand. I buried the sequence so chance would not complete it.”
+“You did it from outside. That should not be possible.” She went to the tear and held her fingers near its sparking edge without touching. “A dragon can strike this barrier until its skull rings. Force from out here only binds it tighter. From inside, people must be able to open a crossing without me, for fire, or flood, or my death.” She said the last as flatly as rain. “Slow lift, reverse turn, neighboring strand. I buried it so chance would not find it.”
 
-“Chance had a hook.”
+“I didn’t know it was there to find.”
 
-Her mouth moved. You could not tell if it was almost a smile or a new calculation.
+Her mouth moved. You could not tell if it was almost a smile or a new calculation. “I know,” she said.
 
-“Yes,” she said. “That is the difficulty.”
+When you came up beside her, the air made your teeth ache. The Witch pushed her sleeve above one elbow and held out the hook, handle first.
 
-At the tear, the air made your teeth ache. The Witch pushed her sleeve above one elbow and held out the hook, handle first.
-
-“You may direct me from back there,” she said. “Or you may show me with your hands. I will not require either after today.”
+“You may direct me from back there,” she said. “Or you may show me with your hands. Or you may take your basket home. I will open the passage for you and manage this alone.”
 
 You looked at the village roofs. You could walk away. She had said it plainly, and the hook was within reach.
 
 Then the tear gave its cup-rim whine. One white edge crept upward by the length of a finger.
 
-“Hands,” you said. “But you stand on that side. If you lean over me, I’ll lose it.”
+“Hands,” you said. “But you stand by that stake, not behind me. If you lean over me, I’ll lose it.”
 
 The Witch moved at once.
 
@@ -314,9 +292,9 @@ Her fingers flexed. “I need to hold the load.”
 
 “Hold it. Don’t help.”
 
-That cost her something. You saw it in the set of her jaw.
+Her fingers curled shut and stayed that way.
 
-You took the hook. The burr of black light snapped toward the tear. At once, the remembered resistance ran from the wrapped handle into your palm. It was not like willow. It was smoother and much stronger, but strength had shape. This pressure crossed that pressure. The loose strand hid under both.
+You took the hook. The burr of black light snapped toward the tear. At once, the remembered resistance ran from the wrapped handle into your palm. It was smoother than willow and much stronger, but strength had shape. This pressure crossed that pressure. The loose strand hid under both.
 
 “Here?” the Witch asked.
 
@@ -352,7 +330,7 @@ You could. You did, angrily.
 
 You pointed: left palm low on the near stake, right hand open toward the damaged crossing. “When I say hold, hold exactly. When I say ease, follow my hand. Don’t decide what I mean early.”
 
-The Witch took her position.
+The Witch took her position. At your nod she eased the cinched crossing, a little at a time, until you could twist the hook free.
 
 This time, when you lifted, she did not move. You turned the hook against the lay. The resistance climbed until your wrist began to shake.
 
@@ -374,7 +352,7 @@ The Witch made a startled sound.
 
 “No.” For once she sounded unsure. “Do not stop.”
 
-You worked the pattern as you would work a damaged rim: not hiding the weakness, not yanking it straight, but leading strain around it until the shape could bear weight again. The Witch fed warmth through the stakes when you asked and kept it still when you did not. Sweat stood on her forehead despite the rain. The barrier did nothing on its own. In your hands it was tension; in hers, force; between you, for a little while, it became work that could be finished.
+You worked the pattern as you would work a damaged rim, leading strain around the weakness until the shape could bear weight again. The Witch fed warmth through the stakes when you asked and kept it still when you did not. The barrier did nothing on its own. Near the end you laid one more strand across the others where none had been, a crossing that led nowhere. Her hands paused. You did not explain, and after a moment she fed it like the rest. Sweat stood on her forehead despite the rain, and the white edge shivered each time she breathed.
 
 At last the white edges drew together. Rain struck ordinary air and fell to the mud.
 
@@ -388,9 +366,9 @@ Your stomach dropped.
 
 “Now we find out whether we repaired it or made a prettier hole.”
 
-She rested until the tremor left her thumb. Then she led you back to the deliberate passage, opened it, and sent you through to the village side.
+She rested until the tremor left her thumb. Then she walked you back to the deliberate passage, opened it, and sent you through to the village side.
 
-“If I press from out here,” she said, “the crossings should draw tight. Do nothing unless you see light.”
+“Go back along the stakes until you are level with the willow,” she said. “If I press from out there, the crossings should draw tight. Do nothing unless you see light.”
 
 “And if I see light?”
 
@@ -398,37 +376,23 @@ She rested until the tremor left her thumb. Then she led you back to the deliber
 
 “You could have said that first.”
 
-“I have said it now.”
-
-The passage closed between you. Through the clear rain, she became a dark figure among the thorns.
-
-She put one living hand against the outer span.
+The Witch let the passage close between you. You walked north along the inside of the stakes with the village at your back, and she kept pace outside, a dark figure among the thorns in the clear rain. At the willow she stopped and put one hand against the outer span.
 
 The barrier struck inward with a sound too low for hearing. Your ribs felt it. Blackthorn stakes bent toward the village, then stopped. No white line appeared. The force divided, ran north and south, and returned as a shiver beneath your boots. The stakes straightened.
 
-Outside, the Witch lowered her hand.
+Outside, the Witch lowered her hand. “Again?” you called.
 
-“Again?” you called.
+She considered. “No.” It was a very old person’s answer, and a tired one.
 
-She considered. “No.”
+Now came the harder test. From inside, at the place you had mended, you found the hidden crossing by touch alone. There was no visible cord, only pressure against your palm. Lift slowly. Turn against the lay. Find the neighboring strand. Your first attempt slipped. The second found nothing. On the third, the air folded aside in a narrow clean opening.
 
-It was a very old person’s answer, and a tired one.
+The Witch stood beyond it, rain shining on her white hair. Her gaze fixed on your hand again. Hungry, yes. Frighteningly so. But she kept her hands at her sides and did not reach through, and after a moment you stepped out through your own opening to stand beside her in the mud. It drew shut behind you.
 
-Now came the harder test. From inside, you found the hidden crossing by touch alone. There was no visible cord, only pressure against your palm. Lift slowly. Turn against the lay. Find the neighboring strand. Your first attempt slipped. The second found nothing. On the third, the air folded aside in a narrow clean opening.
+The crossing that led nowhere was a false path. It took the first casual tug and returned it as resistance, so a hook catching from outside would now tighten the decoy instead of feeding slack into the release. The true sequence still opened from within, but only if a hand completed all three movements in order.
 
-The Witch stood beyond it, rain shining on her white hair.
+The Witch tested it with your hook from outside. It held. She wiped the handle on her apron and gave it back.
 
-Her gaze fixed on your hand again. Hungry, yes. Frighteningly so. But she waited at the threshold until you stepped back.
-
-Then she came through.
-
-At the western tear, you had added one more crossing than before, a false path that took the first casual tug and returned it as resistance. A hook catching from outside would now tighten the decoy instead of feeding slack into the release. The true sequence still opened from within, but only if a hand completed all three movements in order.
-
-The Witch tested it with your hook. It held.
-
-She wiped the handle on her apron and gave it back.
-
-“Should I come tomorrow?” you asked, hating yourself for asking and needing to know.
+“Should I come tomorrow?” you asked.
 
 “Why?”
 
@@ -436,9 +400,7 @@ She wiped the handle on her apron and gave it back.
 
 “Tomorrow you should sand that burr off before it ruins your thread.” She glanced toward your abandoned willow. “And collect the bundle you left in the rain.”
 
-You waited.
-
-She had already turned to inspect the nearest stake.
+You waited, but she had already turned to inspect the nearest stake.
 
 “That’s all?”
 
@@ -446,7 +408,7 @@ She had already turned to inspect the nearest stake.
 
 You retrieved your reeds. The Witch did not ask for your name, your promise, or your service. She asked you to hold the hook once while she checked the false crossing, then told you to move your thumb because it was in the way.
 
-When she opened the village passage, you took the basket through first. Its bent rim brushed the invisible strands. They yielded, held, and settled behind it.
+Back at the village passage, when she opened it, you took the basket through first. Its bent rim brushed the invisible strands. They yielded, held, and settled behind it.
 
 Your aunt’s chimney smoked above the wet roofs. The stew would be thick by now, perhaps scorched at the bottom. You would have to explain the missing hour, the damaged rim, the mud to your knees. Those were ordinary dangers. You knew how to survive them.
 
