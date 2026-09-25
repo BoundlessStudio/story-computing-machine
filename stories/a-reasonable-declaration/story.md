@@ -322,7 +322,7 @@ He waited for another annotation. She made none. Instead she turned forward to a
 
 He bent over the additional sheet. At least she was pursuing the illustrator now.
 
-It took the rest of the hour to fit nineteen names onto seven descriptions. Fulvia rejected his first signature because it crossed the box reserved for her stamp. He used the ordinary small one that he signed letters with. He declared that he had listed all retained artifacts, including those of no assessable value, and she passed the whole inventory back for him to check.
+It took most of the hour to fit nineteen names onto seven descriptions. Fulvia rejected his first signature because it crossed the box reserved for her stamp. He used the ordinary small one that he signed letters with. He declared that he had listed all retained artifacts, including those of no assessable value, and she passed the whole inventory back for him to check.
 
 The sword was nine crowns. Cloak two, circlet six, cup three, buckle four, spectacles two, token nothing. Twenty-six in total. Fulvia canceled the preliminary bill, entered the corrected assessment, and turned it so he could see both figures.
 
