@@ -8,13 +8,13 @@ canon: false
 
 # The Next Train
 
-The train doors shut while I was rescuing my dumplings. The bottom of the takeaway bag had given way, and I caught the carton against my stomach with both hands, which meant I had no hand left to appeal to the driver. Through the glass, a seated woman watched me balance a tub of sauce on top.
+The train doors shut while I was rescuing my dumplings. The bottom of the takeaway bag had given way, and I caught the carton against my stomach with both hands, which meant I had no hand left to appeal to the driver. Through the glass, a seated woman watched me balance two tubs of sauce on top.
 
 She gave me a thumbs-up. Then she was gone.
 
 "Good catch," said someone behind me.
 
-Three punks occupied the bench beneath the station clock. The one who'd spoken had black hair, a dark visor pushed up on her head, and boots that extended well into the path of commuters. Her pink-haired friend moved a pair of enormous headphones off her ears. The third, blue-haired under a knitted beanie, took her backpack off the bench.
+Three punks occupied the bench beneath the station clock. The one who'd spoken had black hair, a dark visor pushed up on her head, and boots that extended well into the path of commuters. Her pink-haired friend moved a pair of enormous headphones off her ears. The third, blue-haired under a knitted beanie, a mask over her nose and mouth, took her backpack off the bench.
 
 I sat before anyone could change their mind.
 
@@ -54,7 +54,7 @@ Pink Hair wanted the mushroom dumplings. I wanted the crispest ones. Visor wante
 
 She looked down and found a length of cabbage hanging from a patch on her lapel. I laughed with a dumpling in my mouth. Pink Hair immediately passed me a napkin without taking her eyes off the cabbage.
 
-There are people who let you recover from that sort of thing, and people who begin telling you what it looked like. These were the second kind. By the time the next train arrived, I was defending the quality of my catch at the doors, using a spring-roll sleeve to represent the train.
+Visor removed the cabbage and, in revenge, brought up my catch at the train doors. There are people who let you recover from that sort of thing, and people who begin telling you what it looked like. These were the second kind. By the time the next train arrived, I was defending the quality of my catch, using a spring-roll sleeve to represent the train.
 
 "That's your one," said Blue Hair.
 
@@ -96,13 +96,13 @@ That quietened us. A train came in on the opposite side of the island platform, 
 
 She handed them over. Visor leaned across me, demanding an ear, and we ended up with our heads pressed together inside the band, listening through one cushion each.
 
-The song began with someone singing very softly over a plucked string. Then another voice entered, and another. There was no drum. The pulse came from breaths, shoes against boards, a bow catching roughly on its return. I stopped smiling for the benefit of the woman beside me and listened.
+The song began with someone singing very softly over a plucked string. Then another voice entered, and another. There was no drum. The pulse came from breaths, shoes against boards, a bow catching roughly on its return. I stopped smiling for Pink Hair's benefit and listened.
 
 When the chorus began, Visor drew away. "Oh," she said.
 
 Pink Hair took the headphones back and watched her.
 
-"Play that bit again."
+"Play that bit again," Visor said.
 
 We listened in pairs. Blue Hair held her side away from her ear at first, then let it settle. Pink Hair sang along under her breath, badly enough that I finally understood why the recording had so many singers. She needed every one of them.
 
@@ -124,7 +124,7 @@ Blue Hair held up the flask lid.
 
 It was not until much later that I remembered she had been looking above my elbow, where it had yet to be.
 
-The peach was excellent under the bruise. I cut it with the little wooden knife from the takeaway and caught the juice in the empty sauce tub. We had reached the stage of a meal at which people went on eating because the food was there and because stopping would mean deciding where to go. The station clock advanced. Pink Hair wrote the band name on my phone, then added her number so she could send me a recording that wasn't on the official album.
+The peach was excellent under the bruise. I cut it with the little wooden knife from the takeaway and caught the juice in an empty sauce tub. We had reached the stage of a meal at which people went on eating because the food was there and because stopping would mean deciding where to go. The station clock advanced. Pink Hair wrote the band name on my phone, then texted herself from it so she could send me a recording that wasn't on the official album.
 
 A young man in white temple clothes approached the bench. He looked from one woman to the next, smiled in a startled way, and lifted his phone.
 
@@ -164,7 +164,7 @@ The man in gold was easier to recognize. His face appeared on the posters for th
 
 I wiped my hands on my trousers and stood up.
 
-"Clotho," said the goddess. "Lachesis. Atropos."
+"Clotho," said the goddess, looking at the visor. Her eyes moved to the headphones. "Lachesis." Then to the beanie. "Atropos."
 
 The three women looked up from my takeaway. The Fates. My mother still kept their little altar beside her bed, and paid for readings by people these three had authorized to look ahead. In the portraits they had considerably less hair dye.
 
@@ -194,7 +194,7 @@ She waited for the rest.
 
 The god's hand tightened on the bench as he began to laugh. His echo set off a second burst farther down the platform. Atropos stacked the empty tubs inside the carton and packed it into the shopping bag.
 
-"It's a concert," Lachesis explained. "We have tickets."
+"It's a concert," Lachesis said. "We have tickets."
 
 "You attend concerts?" The goddess's voice had dropped.
 
@@ -220,7 +220,7 @@ The god straightened. "I said you were trying too hard."
 
 "It was a very small choir."
 
-Lachesis checked her phone. The music was to start at half past, and we had spent so long on the platform that leaving now would involve admitting how long we should already have been gone. I knew the feeling. I had used it to avoid leaving parties considerably worse than our lunch.
+Lachesis checked her phone. The music was to start at half past, but getting up now would mean walking out on two gods in the middle of a complaint. I had stayed at parties considerably worse than our lunch for the same reason, because the host was standing between me and my coat.
 
 "Have they looked at your future?" the goddess asked me.
 
@@ -228,7 +228,7 @@ Atropos answered before I could. "About three seconds of it. For the tea."
 
 "Only that?"
 
-"I have to look deliberately. It takes concentration. I don't spend a meal doing it."
+"I don't spend a meal doing it."
 
 The god perched on the arm of the bench beside me. "Then there must be something about you."
 
@@ -280,9 +280,9 @@ She picked up the empty bag and offered me her other hand. Her palm was sticky w
 
 "Good. They ask a lot of questions."
 
-She gave my hand a squeeze and left me holding the clean shopping bag.
+She gave my hand a squeeze and left me holding the empty shopping bag.
 
-We let the eastbound service leave without us. Atropos returned from the bin and spoke quietly to Lachesis; they looked toward the staircase, which led to the street. The cellar was two stops away, but walkable. I had come past it before lunch. I could have told the gods that too, if anyone had asked.
+We let the eastbound service leave without us. Atropos returned from the bin and spoke quietly to Lachesis; they looked toward the staircase, which led to the street. The cellar was two stops away, but walkable. I had come past it before lunch. I could have told the gods where it was, if anyone had asked.
 
 Instead I took them along the westbound side to the far end of the platform. Atropos waited beside the bench with Lachesis. Clotho accompanied us, entertaining the god with an account of the spring-roll demonstration. He wanted the proportions. She gave him several alternatives and recommended against all of them.
 
@@ -292,7 +292,7 @@ When the train came, the last carriage had six empty seats together. I stepped i
 
 "I promised to send you off properly."
 
-Clotho stepped back and waved. Farther along the platform, Atropos lifted her hand, saw me watching through the window, and took Lachesis toward the stairs. Lachesis turned once. I held up her shopping bag, realized it was Atropos's, and held it up anyway.
+Clotho stepped back and waved. Farther along the platform, Atropos lifted her hand, saw me watching through the window, and took Lachesis toward the stairs. Lachesis turned once. I held up the shopping bag to her, remembered it was Atropos's rather than hers, and held it up anyway.
 
 The warning sounded. The goddess rose, but the door was already closing in front of her. Clotho had both palms against the glass. She looked so pleased with me that I began smiling back before I remembered who was in the carriage.
 
@@ -328,9 +328,9 @@ We traveled a considerable distance in silence. A boy farther down the carriage 
 
 At the next stop, the goddess got up. I thought she was leaving. Instead she moved to the seat opposite me, laid the flowers across her knees, and waited until the doors had closed.
 
-"What did they say about my singers?"
+"This band of theirs," she said. "The one with no drummer. What do they sound like?"
 
-I told her exactly what Lachesis had said. Then I told her about the headphones, and she asked which song. I had to bring it up on my phone. For a minute she listened through its small speaker, her head inclined and the god leaning sideways to hear.
+I couldn't have described them. I told her instead what I had heard on the bench: that Lachesis had talked about them all week, that her friends hadn't listened to the album she'd sent them, and that she had wanted them to hear it. Then I told her about the headphones, and she asked which song. I had to bring it up on my phone. For a minute she listened through its small speaker, her head inclined and the god leaning sideways to hear.
 
 "The second voice," she said. "That boy sang in my temple."
 
