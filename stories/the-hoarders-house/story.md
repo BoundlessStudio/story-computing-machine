@@ -172,7 +172,7 @@ Nobody had touched anything.
 
 “Two modes suppressed, one braced,” Daskar said. “Expansion continuing.”
 
-Kezra watched the silver thread in her lantern bend, straighten, and bend again. “Those three may only have been announcing the change. Something else could be making it. A fourth object.” She let the thread settle. “I haven’t seen one.”
+Kezra watched the silver thread in Daskar’s lantern bend, straighten, and bend again. “Those three may only have been announcing the change. Something else could be making it. A fourth object.” She waited for the thread to settle. “I haven’t seen one.”
 
 The floor rose under us once, a single broad shove. Out in the hall, enamel scraped across boards. The false pantry door swung shut. When I opened it again, Tobren and Kezra stood on the other side among seven shelves.
 
@@ -316,7 +316,7 @@ Inside, the yellow tin stood beside the flour scoop.
 
 Daskar set the metal frame over the threshold without letting it touch the boards. The jar hung in its center, lid open, black felt swallowing the lantern light. “I can hold the vessel. I can’t reach past that shelf without loading the floor.”
 
-Sael looked at the sill, then at me. “She weighs half what you do with that frame on. The sill sits on two studs. I hung those shelves off them.”
+Sael looked at the sill, then at me. “She weighs half what you do with that frame on. The sill sits on two studs. Tobren hung those shelves off them.”
 
 I lay across the pantry sill with my weight on the studs. Daskar gripped my belt. The tin sat beyond a sack of salt and beneath two boxes of jar lids. I couldn’t lift either box out without setting it down somewhere, and the only somewhere was the floor.
 
