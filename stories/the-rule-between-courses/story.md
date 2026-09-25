@@ -96,7 +96,7 @@ Mezzara and Veslina looked at each other.
 
 Linette took the menus. “Gilt fish and fennel first, then. They came in this morning.”
 
-Once she was gone, the first few minutes broke apart pleasantly. Veslina wanted to know whether Ceret had cut her own fringe; Ceret insisted it had merely dried badly in the rain. Mezzara asked whether the guitarist was new, and Ceret, who had asked Linette the same thing a week ago, said Joia had played here since midsummer. Ceret asked why Mezzara had a streak of white dust on her sleeve. Veslina unwrapped one of the soaps to let them smell it, then complained that the rose scent was much stronger in the warm room than it had been on the street.
+Once she was gone, the first few minutes broke apart pleasantly. Veslina wanted to know whether Ceret had cut her own fringe; Ceret insisted it had merely dried badly in the rain. Mezzara asked whether the guitarist was new, and Ceret, who had asked Linette the same thing a week ago, said Joia had played here since midsummer. Ceret asked why Mezzara had a streak of white dust on her sleeve, and Mezzara brushed at it without answering. Veslina unwrapped one of the soaps to let them smell it, then complained that the rose scent was much stronger in the warm room than it had been on the street.
 
 “You’ve bought a cupboard fragrance,” Mezzara said.
 
