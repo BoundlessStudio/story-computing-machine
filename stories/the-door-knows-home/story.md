@@ -232,8 +232,6 @@ The brother tested the brace foot. “If the driver takes the frame at five, mov
 
 The executor checked the clock, the collection list, and the fee column. “One route at a time. Each person signs for what crosses.”
 
-The middle sister kept labeling boxes while she and the executor went back to arguing about the lamp.
-
 The apprentice fitted the case cover and stood beside the witness pin while the executor took her documents and silver through to the pantry. Before she returned for the second load, the apprentice pointed to the first box, left squarely inside the receiving threshold. She moved it clear while the route was still braced open, crossed back, and reset the door. On her next turn the pin sank flush. The apprentice added CLEAR RECEIVING THRESHOLD to the certificate.
 
 The brother carried the tool crate into the barge cabin, complaining that its marked weight was wrong, and returned before the door closed. The middle sister took kitchen goods into her apartment while directing someone beyond the frame to make space beside the table, then came back before the brace was released. The youngest moved the flat print box to the loft in two loads, glassine between every inked sheet, and came back each time before releasing the brace. At every closure the route vanished, the workshop wall returned, and the witness pin rose. There was no handle waiting at the distant side once the door had reset, no way back except to be in the workshop and set it again.
