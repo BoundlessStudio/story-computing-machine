@@ -368,7 +368,7 @@ Your stomach dropped.
 
 She rested until the tremor left her thumb. Then she walked you back to the deliberate passage, opened it, and sent you through to the village side.
 
-“Go back along the stakes until you are level with the willow,” she said. “If I press from out there, the crossings should draw tight. Do nothing unless you see light.”
+“Go back along the stakes until you are level with the willow,” she said. “If I press from out here, the crossings should draw tight. Do nothing unless you see light.”
 
 “And if I see light?”
 
