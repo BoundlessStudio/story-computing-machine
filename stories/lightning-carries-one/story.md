@@ -18,10 +18,6 @@ Tobin had chosen a seat beneath the dead clock. He was already on his feet, one 
 
 “I said meet me here.” He lowered his arm. “I did not say drop out of the ceiling.”
 
-“The roof is intact.”
-
-Tobin glanced up at the broken panes. “Your gift for reassurance remains very specialized.”
-
 They had not been alone together in nineteen months. He looked past her toward the loading bays, where weeds trembled between the doors. Hazel smelled ozone and the dusty sweetness of wet concrete. Her arrivals left no scorch mark, though people always looked for one.
 
 “Is that it?” she asked, nodding at the bag.
@@ -58,19 +54,11 @@ Now he pressed the grocery bag between his knees and watched rain begin to stipp
 
 Tobin kept looking outside. “No clinic questions.”
 
-“It isn’t a clinic question.”
-
-“You put numbers in it.”
-
-“There are no numbers in what I just asked.”
-
-“You were saving them.”
-
 The bus lurched away from the curb. Hazel caught the seat ahead. Tobin did not move until the abandoned terminal had slipped behind a row of warehouses; then he reached into the bag and took out the notebook.
 
 It was worse than she remembered. Eight years ago it had been a cheap black book from the kiosk in the departures hall, bought because Tobin was taking a night class and had forgotten paper. It had gone into his coat new. It had come out with its spine bleached gray, its pages swollen, and both their handwriting inside.
 
-That night, the last bus had been canceled after a signal box took a strike. Hazel, six months into making solo crossings and certain the trick concerned only distance, had told Tobin to grip her sleeve and picture the childhood house. Two stranded passengers saw one bolt take them from the terminal. A doorbell camera recorded them arriving on the front lawn in the same second. Hazel remembered the promise and the lawn. Tobin remembered the distance between.
+That night, the last bus had been canceled after the storm brought a tree down across the route. Hazel, six months into making solo crossings and certain the trick concerned only distance, had told Tobin to grip her sleeve and picture the childhood house. It would take no time, she promised. Two stranded passengers saw one bolt take them from the terminal. A doorbell camera recorded them arriving on the front lawn in the same second. Hazel remembered the promise and the lawn. Tobin remembered the distance between.
 
 Hazel had examined photographs. Photographs were not fibers, ink, sequence, pressure marks. She put out her hand.
 
@@ -102,9 +90,7 @@ Hazel lowered her hand. Outside, the bus passed blocks of new glass apartments w
 
 He gave her a quick, tired look. “Which year?”
 
-She had prepared an answer to almost every accusation. Not that one.
-
-At the first stop, Tobin did not stand. The doors opened, breathed cold air, and shut again.
+At the first stop, Tobin’s hand came up off his lap toward the cord and stopped there. He did not stand. The doors opened, breathed cold air, and shut again.
 
 “You said you would direct us.”
 
@@ -112,7 +98,7 @@ At the first stop, Tobin did not stand. The doors opened, breathed cold air, and
 
 “Then why did you reach for the cord?”
 
-He looked down. His hand was still lifted from his lap. “I thought the bakery was next.”
+He looked at his hand and put it back in his lap. “I thought the bakery was next.”
 
 “The bakery closed when we were teenagers.”
 
@@ -130,7 +116,7 @@ Hazel’s first apartment occupied the third floor, above rooms that had once sh
 
 “You wanted home. This counted.”
 
-He led her into the alley. Fire stairs striped the brick with rust. At the bottom of the downpipe, he pressed a palm to the wall.
+He led her into the alley. Fire stairs striped the brick with rust. Beneath the lowest landing, he pressed a palm to the wall.
 
 “Third-floor water heater,” he said. “Behind it, there was a paper crown with seven blue points. You wrote ‘Queen of Radiators’ inside because you got the pilot light going with a barbecue match and singed off half your eyebrow.”
 
@@ -164,7 +150,7 @@ Hazel looked at her thumb. “A conditioned response could survive without expli
 
 “No, you’re promoting it to a variable.”
 
-The joke had the old shape of their jokes, but no invitation in it. He pulled the notebook out, tore a folded sheet from between two pages, and handed it to her.
+He pulled the notebook out, slid a folded sheet from between two pages, and handed it to her.
 
 It was a sketch of that apartment, but wrong. The narrow kitchen opened into the hallway of their mother’s later duplex; the hallway opened into the cupboard under the stairs of the childhood house. Rain hung beyond every window in long beads, each one shaded in pencil. Beside the kitchen door, a smaller drawing showed Tobin’s shoe with the sole peeled back.
 
@@ -186,7 +172,7 @@ For an instant his mouth changed. Then thunder pressed along the roofs and the a
 
 The next bus left them beside a row of narrow duplexes. Their mother had rented one for eleven months after selling the childhood house, though Tobin insisted they had lived there for four years twice.
 
-He walked past it.
+He walked past it, toward the end of the row, where the sidewalk ran into a retaining wall.
 
 “Tobin.”
 
@@ -200,17 +186,13 @@ He turned down a lane, stopped at a locked service gate, and turned back. Hazel 
 
 “Give me the next address.”
 
-“It doesn’t work by address.”
-
-“It does out here.”
-
 “Out here changes when I’m not looking.”
 
 “The streets aren’t changing.”
 
-“I know.” He said it with careful force. “I know which part is doing it.”
+“I know. I know which part is doing it.”
 
-Hazel found the pedestrian route. It was longer than necessary because the creek footbridge was under repair, but it was knowable: six turns, thirty-eight minutes, no weather involved except the weather itself. She set off. Tobin followed until the second turn, where he stopped beneath a young maple.
+Hazel found the pedestrian route. It was longer than necessary, looping around a fenced schoolyard, but it was knowable: six turns, thirty-eight minutes, no weather involved except the weather itself. She set off. Tobin followed until the second turn, where he stopped beneath a young maple.
 
 “You’ve lost it,” he said.
 
@@ -220,7 +202,7 @@ Hazel found the pedestrian route. It was longer than necessary because the creek
 
 “Then explain the other one.”
 
-He took out the notebook, opened to a page, closed it, opened somewhere else. “We left the blue kitchen after the pipes froze. Or before. We followed the upstairs landing into the room where Mom kept the sewing machine, except she didn’t own it yet. You were thirty. Then you were seventeen all morning and kept asking why Dad’s car wasn’t outside.”
+He took out the notebook, opened to a page, closed it, opened somewhere else. “We left the blue kitchen after the candles ran out. Or before. We followed the upstairs landing into the room where Mom kept the sewing machine, except she didn’t own it yet. You were thirty. Then you were seventeen all morning and kept asking why Dad’s car wasn’t outside.”
 
 “I need the sequence.”
 
@@ -260,11 +242,7 @@ Tobin stood at the far end, hugging the grocery bag to his chest.
 
 “I’m trying to understand,” Hazel said.
 
-“You’re trying to make it hold still.”
-
-“So I can understand it.”
-
-“So you can decide whether it qualifies.”
+Tobin looked down at his shoes. “My socks are wet.”
 
 She wiped rain from her face. Across the street, lights came on in the duplex where their mother used to live. For a moment Hazel expected to see the old sewing machine in the front window. There had never been a sewing machine there.
 
@@ -272,11 +250,11 @@ She wiped rain from her face. Across the street, lights came on in the duplex wh
 
 “I asked you to walk it.”
 
-“What is the difference?”
+“What’s the difference?”
 
-Tobin laughed once, without humor. “About eight years, from where I’m standing.”
+Tobin watched the rain.
 
-He looked older under the awning than he had in the terminal. Not eight years older than he should be; eight years had passed for both of them. But his face carried an extra alteration that photographs from the day before the crossing did not. The clinic had estimated eleven to fourteen months of accelerated aging. The two people Hazel carried afterward had each come back with smaller changes: five months, perhaps; seven. Both had returned with memories no one could place, habits learned in rooms that did not exist, terror of distances that were supposed to be empty.
+He looked older under the awning than he had in the terminal. His face carried an extra alteration that photographs from the day before the crossing did not. The clinic had estimated eleven to fourteen months of accelerated aging. The two people Hazel carried afterward had each come back with smaller changes: five months, perhaps; seven. Both had returned with memories no one could place, habits learned in rooms that did not exist, terror of distances that were supposed to be empty.
 
 They had consented. Hazel had repeated that until the word lost all edges.
 
@@ -298,7 +276,7 @@ Tobin turned his back.
 
 The rest of her careful sentence dissolved. Rain streamed from the awning in front of them, a bright curtain under the streetlamps. In her desk at home, the second and third reports still bore different colors of her ink: blue for shared symptoms, red for contradictions. She had given the contradictions twice the space.
 
-“I used them to make you easier to believe,” she said.
+“I wanted them to come back fine,” she said.
 
 Tobin did not turn.
 
@@ -310,27 +288,23 @@ Tobin did not turn.
 
 “You stopped carrying people. You didn’t call me.”
 
-There was no neat cause for that. Shame had not prevented her from visiting; it had made every possible visit seem to require a conclusion first. She had spent eight years refining the absence.
+There was no neat cause for that. She had come to Christmases and to their mother’s birthdays, where someone else was nearly always in the room. Every call she imagined needed a conclusion first, and she had never reached one. She had spent eight years refining the absence.
 
 “I didn’t know what I could say.”
 
-“You usually survive that problem.”
-
-His affection, when it appeared, still had a barb in it. Or the barb had affection in it. Hazel could not tell which arrangement belonged to now.
+Tobin kept his back to her.
 
 “I’m sorry,” she said.
 
-Tobin rubbed his forehead. “An apology is a different afternoon.”
+Tobin rubbed his forehead. “Not today.”
 
 “Do you want to go home?”
 
-“Which one?”
+He lifted one shoulder.
 
-Hazel let the question remain a question.
+After a while, he set the grocery bag between them. He took out the notebook, drew three folded sheets from between its pages, and held it shut with his palm.
 
-After a while, he set the grocery bag between them. He took out the notebook and selected three pages, holding the rest closed with his palm.
-
-“These,” he said. “You don’t get the others because you finally said one true thing.”
+“These,” he said. “You get these because you finally said one true thing. Not the rest.”
 
 “All right.”
 
@@ -404,7 +378,7 @@ Hazel kept both hands where he could see them. The charge rose, brightening the 
 
 Hazel nodded and moved farther away, under a tree too young to shelter either of them.
 
-“I think I traveled those years,” she said. “Every time. Alone, the landing restored what the trip spent and stripped the journey out of me. With you, something stayed anchored. Time, the notebook, some of the aging. Not cleanly.”
+“I think I go the long way every time,” she said. “Alone, I don’t keep any of it. With you, some of it stayed. Not cleanly.”
 
 Tobin picked at the bag’s handle. “That sounds like you.”
 
@@ -412,9 +386,9 @@ Tobin picked at the bag’s handle. “That sounds like you.”
 
 “That sounds less like you.”
 
-“I believe it happened. I believe you lived it. I believe I did too, even though that is not the same as remembering.” She looked at the blue door. “And afterward, you told me not to carry anyone. I did it twice more.”
+She looked at the blue door. “You lived those years.”
 
-He did not forgive her. He did not say that believing was enough. His face tightened at some weather occurring years away from the rain around them.
+Tobin didn’t answer. His shoulders came up the way they had in the terminal, as if at thunder years away from this rain.
 
 “I’ll send pictures of pages,” he said at last. “The ones I choose. You don’t ask for the rest.”
 
@@ -428,7 +402,7 @@ He did not forgive her. He did not say that believing was enough. His face tight
 
 Hazel opened her mouth, found no better phrase, and shut it.
 
-Tobin shifted the notebook under his coat. “Good. That can be the first thing you practice.”
+Tobin took the notebook from the bag and buttoned it inside his coat. “Good. That can be the first thing you practice.”
 
 They stood across from the house until the upstairs lights came on. A child moved behind the curtains and stared down at the two wet strangers. Tobin lifted one apologetic hand. The curtain snapped shut.
 
@@ -444,4 +418,4 @@ Tobin considered. His gaze went to her shoulder, where the vanished weight still
 
 “I won’t.”
 
-The answer was small, and he took it without thanking her. When the bus appeared at the far end of the street, Tobin walked toward the stop. Hazel followed several paces behind, not because she had learned patience, and not because ordinary roads could repair what the other journey had done. She followed because he had chosen the route and had not yet told her to leave.
+Tobin nodded. When the bus appeared at the far end of the street, its windows fogged and yellow, he walked toward the stop. Hazel followed several paces behind.
