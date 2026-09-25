@@ -10,35 +10,35 @@ canon: false
 
 Safra pressed the last waxed divider into the first basket while the village was still dark. It seated with a soft complaint against the willow ribs. She ran one finger along the joint, found no gap, and set a blank tag in each compartment.
 
-Across the herb room, the healer lifted the cloth over the fever cot. The patient beneath it was an old man whose breathing came fast but even. A basin stood ready by his bed; the water in it had gone untouched.
+Across the herb room, the healer lifted the folded cloth from the forehead of the old man on the fever cot. His breathing came fast but even. A cup of water stood ready by his bed, untouched.
 
-“No ambercup since yesterday,” the healer said. She spoke toward the cot, as though the words belonged first to the body they described. “Hot skin, dry mouth. He knows me. His chest is clear.”
+“No ambercup since yesterday,” the healer said. She turned the cloth to its cool side and laid it back across his forehead. “He’s hot and his mouth is dry. But he knew me when I woke him, and his chest is clear.” She bent closer. “You knew me, didn’t you?”
 
-“One petal for tonight.” Safra wrote *fever cot—one* on a tag and pressed the point into the wax tablet beside it. “One. If anything changes, you wait.”
+The old man’s lips moved. The healer seemed content with that.
 
-The healer nodded, then held still a moment, listening to the old man breathe. “The millwright can’t place the wheel teeth in order. She remembers doing the repair. Not the sequence. The watcher slept perhaps an hour yesterday and less the night before.”
+“One petal for tonight.” Safra wrote *fever cot—one* on a tag and pressed the point into the wax tablet beside it.
+
+The healer nodded and held still a moment, listening to him breathe. “The millwright came in last night asking after you. She remembers doing the winter repair, all of it except the order the teeth went back in, and she’s so cross with herself she couldn’t sit down.” She looked at the empty stool at the foot of the cot. “And the woman who sits up with him has slept perhaps an hour since yesterday morning, and less the night before. I sent her home to wash. She’ll be back before you are.”
 
 Two more marks in the wax. Clearblue before midnight. Duskbell, dried.
 
-The channel forewoman came in trailing the smell of wet clay. She put both palms on the worktable and left ten brown crescents there. “North cut is holding. For now. Eight on the crew. Two still lifting well. Six spent. Water at the third peg when I left. It’ll take four bodies two hours to clear the choke, maybe five bodies if the bank slips. No—four. The passage is too narrow for five.”
+The channel forewoman came in trailing the smell of wet clay. She put both palms on the worktable and left ten brown crescents there. “North cut is holding. For now. I’ve eight on the crew, two still lifting well, six spent. It’ll take four bodies two hours to clear the choke, maybe five if the bank slips. No, four. The passage is too narrow for five.”
 
-“How long to the village marker?” Safra asked.
+“How long before it reaches the houses?” Safra asked.
 
-“If the ridge rain reaches us? By afternoon. If the high rain does too—” The forewoman glanced at the shutter, where no light yet showed. Her quick figuring broke into pieces. “Three hours to the bend. One more to the gate. Two hours’ work. Four people.”
+“Ridge rain’s due by evening. If it comes, the water’s into the lower lane by midnight.” The forewoman glanced at the shutter, where no light yet showed, and began counting on her clay-dark fingers. “Earlier if the high country gets it as well. An hour earlier. Three. I can’t tell you. And it’s two hours’ work once they start, four people, so—” She lost the count and closed her hand.
 
-Safra wrote *four halves* on the redspur tag.
+Safra wrote *four halves* on the redspur tag. “Before dark. By the ford.”
 
 “And enough for tomorrow?” the forewoman asked.
 
-“If weight allows. Dry, they keep three days.” Safra tapped the divided outer pocket. “Redspur stays here. Nothing warm beside the duskbell. Nothing wet touches the weave.”
+“If weight allows.” Safra tapped the divided outer pocket where the redspur would ride.
 
-The healer’s gaze settled on the two baskets, each broad enough to cover Safra from hip to knee. “You can carry both back by the ford?”
+The healer looked from the two baskets, each broad enough to cover Safra from hip to knee, to Safra herself. “If the ridge rain comes early, the stream comes up with it. You’ll have both of those on your back.”
 
-“If the ford stays at two stones.”
+“I cross while the ford stone shows.” Safra tied the wax tablet inside her coat. “After that, the ridge.”
 
-“And if it doesn’t?”
-
-Safra tied the wax tablet inside her coat. “The ridge.”
+The healer took a heel of bread from the shelf, wrapped it in a cloth, and pushed it into Safra’s coat pocket.
 
 No one told her to be careful. For eleven flowering seasons she had gone into the valley alone. The healer helped her settle the shoulder straps. The forewoman lifted each basket once, testing the empty balance with hands that judged loads more readily than faces. They checked covers, knots, and wax seams, and Safra went out before the sun.
 
@@ -54,13 +54,13 @@ She backed away without letting her coat brush even the grass leaning toward the
 
 She climbed until gravel slid under her heels and the first light reached the clearblue shelf.
 
-The flowers grew close to the rock, each one a shallow blue star with a white filament at its center. Their opening lasted only from first sun until the stone warmed. Safra crouched on a folded square of hide. Frost had silvered the shelf two nights earlier. She could see its work in the outer petals: the blue had faded toward gray, which meant the filament inside would lose its edge before forty minutes.
+The flowers grew close to the rock, each one a shallow blue star with a white filament at its center. Their opening lasted only from first sun until the stone warmed. Safra crouched on a folded square of hide. Frost had silvered the shelf two nights earlier. She could see its work in the outer petals: the blue had faded toward gray, which meant the filament inside would lose its edge within forty minutes.
 
 She passed those by.
 
 Farther along, where the cliff had held the night’s warmth, six flowers were fully blue. She checked each filament for the fine hooked tip that marked maturity, cut one with her narrow scissors, and laid it between sheets of black paper. The millwright needed one. The other five would dull at midnight whether cut or rooted, but Safra did not strip a shelf for an unnamed possibility.
 
-She sealed the packet, wrote the hour on its tag, and placed it flat in the upper compartment. The filaments would dull when midnight came whether anyone had used them or not. Their value was not something she could carry into tomorrow.
+She sealed the packet, wrote the hour on its tag, and placed it flat in the upper compartment.
 
 Below the shelf the valley widened, taking the sun. Ambercup scattered gold over the lower meadow. Redspur stood among it in thin crimson fans. Farther downslope, a stream flashed between alders, still low enough that Safra could see the black back of the ford stone.
 
@@ -76,7 +76,7 @@ The rain began with three cool spots on the back of her hand.
 
 Safra looked north. A gray seam had opened above the ridge hours earlier than the forewoman’s estimate, too thin to darken the sky but thick enough to spill. She closed both basket lids, fixed the oiled covers over them, and moved uphill from the stream. Rain clicked on ambercup petals. The redspurs shivered, making the meadow seem briefly full of small red wings.
 
-The shower ended before she reached the upper path. Water continued to gather. It ran from leaf to leaf, found old channels in the soil, and braided through the meadow toward the stream.
+The shower ended before she reached the upper path. Water continued to gather. It ran from leaf to leaf, found old runnels in the soil, and braided through the meadow toward the stream.
 
 At the upper edge of the ambercup bed she was about to harvest, a thread of runoff crossed the path. It looked clear. She smelled it before she knelt: the metal-sour edge beneath wet earth.
 
@@ -106,25 +106,19 @@ The repetition steadied her, though the climb had put a pulse behind her eyes.
 
 From the shelf she could see the stream swelling over the black ford stone. Rain had struck the high country after all. The afternoon light lay yellow on the far wall, but the water below was already brown.
 
-Safra weighed the baskets by their handles. The left carried clearblue and ambercup in the protected upper cells. The right carried redspur outside the waxed wall. There was room for more redspur on the way down, and the channel might want it. She pictured the duskbell frames, the long ridge, and the drag of a basket that pulled harder on one shoulder than the other.
+Safra weighed the baskets by their handles. The left carried clearblue and ambercup in the protected upper cells. The right carried redspur outside the waxed wall. There was room for more redspur on the way down, and the forewoman might want it. She pictured the duskbell frames, the long ridge, and the drag of a basket that pulled harder on one shoulder than the other.
 
 She left the optional redspur rooted.
 
-Duskbell grew in a hollow that held evening before the rest of the valley. Safra reached it as the petals began to curl inward. Open, they were pale and almost transparent. Closing, they took on the color of smoke. Before the edges touched, the petals held too much valley damp; afterward they folded too tightly to spread on a frame. The useful interval was marked by a dry whisper.
-
-Safra heard it as she came down the last slope.
+Duskbell grew in a hollow that held evening before the rest of the valley. Safra reached it as the petals began to curl inward. Open, they were pale and almost transparent. Closing, they took on the color of smoke. Before the edges touched, the petals held too much valley damp; afterward they folded too tightly to spread on a frame. The useful interval was marked by a dry whisper, and Safra heard it as she came down the last slope.
 
 She set the baskets on two stones above the wet ground. From the bottom compartment she took a folding frame strung with horsehair. She clipped six closing petals, spread them so none overlapped, and held the frame in the hollow’s steady draft until their skins paled and stiffened. Damp duskbell molded. Warm duskbell spoiled. Her harvest notes carried both timings from season to season.
 
 While the petals dried, she shifted the clay strip of redspur to the basket’s far outer side and inserted a second waxed panel. She tested the wax seam, waited, then put the frame into the opposite basket. Cool air could move around it. No redspur heat reached it.
 
-By then the ford stone had vanished.
+By then the ford stone had vanished. The direct path home crossed where the stream divided around it. Safra stood on the bank and watched a branch spin once, strike the hidden stone, and disappear into brown water. The ford might still be passable with empty hands. With two baskets whose wax dividers had to stay upright, and glass-nettle runoff somewhere in that brown water, it was not.
 
-The direct path home crossed where the stream divided around it. Safra stood on the bank and watched a branch spin once, strike the hidden stone, and disappear into brown water. The ford might still be passable with empty hands. Not with two baskets, not with wax dividers that must stay upright, not with glass-nettle runoff somewhere in the flood.
-
-She turned away.
-
-The ridge path added three hours and climbed before it descended. Darkness would catch her there. The clearblue clock would keep running. The channel water would keep rising. None of that made the ford lower.
+She turned away. The ridge path added three hours and climbed before it descended; darkness would catch her there. The clearblue clock would keep running, and the forewoman’s water would keep rising toward the lower lane. None of that made the ford lower.
 
 Safra tightened the straps until the baskets rode high and began the long way home.
 
@@ -140,41 +134,41 @@ The village lamps appeared below after full dark. Safra took the descending turn
 
 The healer and the channel forewoman met her in the herb room. Safra set both baskets on the clean table. Her shoulders, freed of them, seemed to float.
 
-The healer did not reach for a lid. She looked at the rain shining on Safra’s coat, then at the dry basket feet. “Start at the water.”
+The healer did not reach for a lid. She looked at the mud on Safra’s boots, dark to the knee, then at the dry basket feet. “Start at the water.”
 
 “Early shower. North runoff crossed the lower ambercup bed.” Safra untied the left cover. Her fingers missed the knot once. “Rejected every crown below the seep. Took two clean petals at the high shelf. Dry tools, dry paper. No wet on the weave.”
 
 The healer waited.
 
-Safra heard what she had omitted. “No wet on the weave. Not at the ford, not on the ridge. Ford was over the stone. I came by the ridge.”
+“No wet on the weave. Not at the ford, not on the ridge. Ford was over the stone. I came by the ridge.”
 
-Only then did the healer open the basket. She read each tag before moving its packet. “The fever is higher. Still knows me. Chest still clear. He’s had no ambercup today.” She laid one petal on a white saucer and left the second sealed. “One now. We keep one.”
+Only then did the healer open the basket. She read each tag before moving its packet. “He’s hotter than he was this morning. He still knows me, and his chest is still clear.” She laid one petal on a white saucer and left the second sealed. “We’ll give him this one now and keep the other.”
 
-“One now,” Safra repeated. “No second today. A second brings shaking. It won’t mend an injury or touch poison.”
+“One now,” Safra repeated. “No second today.”
 
-“I heard.” The healer’s voice had become slower as Safra’s had become clipped. She touched the old man’s wrist, counted, then crushed the single petal into his water.
+“I heard.” The healer touched the old man’s wrist, counted, then crushed the single petal into his cup.
 
-At the other end of the table, the forewoman read the redspur tag. “Four halves. Good. Crew is down to seven. Two can lift without it. One has the bad shoulder and gets none. That leaves—” Her hand made a quick division over the clay strip, then stopped. “Four. Four at the cut. Two changing loads. One watching the bank.”
+At the other end of the table, the forewoman had already pulled the redspur tag from the outer pocket. “Before dark, you said.” She held the tag to the lamp. “It’s at the bottom step of the lower lane now. I’ve had the two good ones carrying for everybody since noon, and I sent one home at dusk who couldn’t close her hand, so it’s seven. Two can still lift without it. Just. One has the bad shoulder and gets none. That leaves—” Her hand made a quick division over the clay strip, then stopped. “Four. Four at the choke, two changing loads, and the shoulder watches the bank.”
 
-“Two hours,” Safra said. “Then the strength goes. No repair. They’ll be tired after.”
+“Not the one by the wax,” Safra said. “That’s tomorrow’s.”
 
-“Four bodies. Two hours. We clear the choke, then they come off.” The forewoman broke the two stamens into four exact halves with the marked bone knife, folded each into its own square, and went out calling only for the crew, not for an audience.
+The forewoman broke the other two stamens into four exact halves with the marked bone knife and folded each into its own square. “At the choke by half past nine,” she said, already at the door. “It’ll do, if it holds off.” She went out calling for the crew.
 
 The millwright arrived in her work apron with grease dried black at the hem. Safra checked the wall clock: two hours and forty-eight minutes before midnight. She gave the woman one clearblue filament and turned the sandglass.
 
 “It won’t find a fact you never had,” Safra said. “And it won’t tell you which memory is true.”
 
-“I had it,” the millwright said. She was already reaching for paper. “Winter repair. I stood inside the wheel. I need the order.”
+“I had it,” the millwright said. She was already reaching for paper. “I stood inside that wheel all winter with the pins in my mouth. I can tell you what I ate that week, and I can’t tell you which tooth went in first. It’s in there.”
 
 For the next forty minutes she wrote without looking up: tooth counts, the side from which she had driven each pin, the order in which the old axle rings had come free. Twice she crossed out a line and placed it lower. Once she wrote *uncertain* beside a number rather than polish it into confidence. When the sand ran out, her pencil slowed. The memory did not vanish; access to it narrowed to its ordinary width. She had a sequence for the morning repair and three marked places to verify against the wheel itself.
 
-The duskbell went to the night watcher only after the petals had been checked dry. The healer laid one on the watcher’s tongue and wrote the hour on the bedside slate. Two neighbors took the next watch in three-hour turns. The woman had been asleep less than ten minutes when the healer’s cup clicked against the basin. Her eyes opened at once.
+The duskbell went to the night watcher, back from home and gray with tiredness, only after the petals had been checked dry. The healer settled her on the spare cot, laid one petal on her tongue, and wrote the hour on the bedside slate. Two neighbors took the next watch in three-hour turns. The woman had been asleep less than ten minutes when the healer’s cup clicked against the basin. Her eyes opened at once.
 
 “Only me,” the healer said.
 
-The watcher looked toward the fever cot, saw someone seated there, and let her eyes close again. The petal would give her about six peaceful hours if nothing woke her, and release her readily if something did. It would not settle the reason she had kept watch so long. For this night, other people covered it.
+The watcher looked toward the fever cot, saw someone seated there, and let her eyes close again. The petal would give her about six peaceful hours if nothing woke her, and release her readily if something did. Tonight the stool at the foot of the cot belonged to the neighbors.
 
-Before midnight, boots and shovels sounded on the lane. The channel crew returned bent with the fatigue redspur had postponed. Mud streaked their sleeves to the elbow, but the forewoman raised one hand through the herb-room door: the choke was clear. The workers who had taken the half-stamens went to food, dry clothes, and bed. None mistook borrowed strength for an unwounded body.
+Before midnight, boots and shovels sounded on the lane. The crew returned bent with the fatigue redspur had postponed. Mud streaked their sleeves to the elbow, but the forewoman raised one hand through the herb-room door: the choke was clear. The workers who had taken the half-stamens went to food, dry clothes, and bed.
 
 On the fever cot, the old man’s breathing had eased. Sweat darkened his hair. The healer changed the cloth under his neck and left the clean reserve petal sealed for another day if another day required it.
 
@@ -182,4 +176,4 @@ Safra sat at the worktable with the wax tablet under her hand. Her letters start
 
 The healer read the first line and pushed the candle closer. Safra warmed the stylus, deepened the date, and drew a box around it. Then she added the watcher’s coverage: first neighbor until the middle bell, second until dawn.
 
-Outside, rain began again on the roof. Inside, the separated packets stayed dry, the compromised bed had a date, and every occupied cot had someone awake beside it.
+Outside, rain began again on the roof.
