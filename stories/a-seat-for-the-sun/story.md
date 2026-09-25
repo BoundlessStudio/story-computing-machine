@@ -64,7 +64,7 @@ His mother wiped her wet hand on her apron. “We weren't expecting— Tebbit sa
 
 “Yes. Get another plate, please.”
 
-He passed Nika the rocket and ran indoors. The tall girl followed, announcing that she knew where the good plates were. Nika's hostess looked from the goddess to the little chair beneath the tree. A sun had been drawn on its back in yellow chalk, with a mouth nearly as wide as the seat.
+He passed Nika the rocket and ran indoors. The tall girl followed, announcing that she was his cousin and knew where the good plates were. Nika's hostess looked from the goddess to the little chair beneath the tree. A sun had been drawn on its back in yellow chalk, with a mouth nearly as wide as the seat.
 
 “I can bring you something more comfortable.”
 
@@ -114,19 +114,19 @@ Nika took a closer look. The foil had been pressed into a smiling face. This was
 
 “That's the prize,” Tebbit said. His cousin reached for it, and he twisted away. “You have to win it.”
 
-“I'm looking.”
+“I'm looking,” said his cousin, her hand still out.
 
 “You look with your eyes.”
 
 His mother took the chocolate and stood it against the jug. “Come on, everybody. Eight people, seven chairs.”
 
-Nika counted. The deficiency was deliberate, then. She placed herself behind Tebbit, who tugged his crown straight.
+A quick count confirmed it. The deficiency was deliberate, then. Nika placed herself behind Tebbit, who tugged his crown straight.
 
 “No pushing,” he told the smallest girl. “And you have to keep going. You can't just wait by a chair.”
 
 His mother pulled the concertina open.
 
-Nika had expected something ceremonial, perhaps a procession ending in a change of seats. Instead, the children marched round the chairs at an astonishing pace. She followed, lifting her hem above the grass. The tune skipped and doubled back; the smallest girl kept taking two steps to everybody else's one. Tebbit swung his arms. His cousin watched the concertina.
+The children set off round the chairs at an astonishing pace. Nika, who had expected something ceremonial, perhaps a procession ending in a change of seats, followed, lifting her hem above the grass. The tune skipped and doubled back; the smallest girl kept taking two steps to everybody else's one. Tebbit swung his arms. His cousin watched the concertina.
 
 Nika began to see the attraction. Each chair offered itself and slipped away, and the little golden sun watched from the table. She quickened her pace. There would be a seat directly to her left in three steps, and another two beyond that. If the music stopped now—
 
@@ -136,7 +136,7 @@ Nika folded herself gracefully above the chair with the sun on it, arranging her
 
 Then the smallest girl darted beneath her arm and scrambled onto the seat.
 
-Nika rose to avoid a collision. All seven children were sitting. The smallest girl looked up at her from under a fringe full of grass seeds.
+There was nothing to do but rise out of the way. All seven children were sitting. The smallest girl looked up at her from under a fringe full of grass seeds.
 
 “I was here,” Nika said.
 
@@ -158,7 +158,7 @@ The goddess lowered her feet to the grass. “Might this be counted as a demonst
 
 “We can play another game later.” The woman stood. “Everybody up. We need to take one chair away.”
 
-The children sprang up. Tebbit's mother carried the chalk sun back to the table and placed it beside Nika.
+Nika withdrew to the table with as much dignity as the lawn allowed. The children sprang up. Tebbit's mother carried the chair with the chalk sun back to the table and placed it beside Nika.
 
 Nika sat on it. Properly. Her knees came up inconveniently high, and she had to gather her ruffles into her lap. The chair was warm where the little girl had been. She moved one sandal to stop a short leg from rocking.
 
@@ -314,7 +314,7 @@ Tebbit dragged his chair beside the chalk sun.
 
 “I know.”
 
-Nika rested her wrist in his hand and sang a brisk tune without words. The children set off. Tebbit followed his cousin with his whole head, waiting. She passed a chair. His fingers tightened. Nika stopped.
+She rested her wrist in his hand and sang a brisk tune without words. The children set off. Tebbit followed his cousin with his whole head, waiting. She passed a chair. His fingers tightened. Nika stopped.
 
 The cousin sat almost before the note was gone. Four other children found seats, and the boy with red laces stood looking at an empty patch of grass.
 
@@ -328,7 +328,7 @@ Nika reached round and turned his chair to face the table beside hers. “Neithe
 
 He sat down slowly. His hand found her wrist again, out of sight in her lap.
 
-Nika began the tune. Behind them, shoes scuffed the grass. She could hear the smallest girl's hurried steps and somebody laughing, but the cousin's soft slippers made no useful sound at all. Perhaps she was passing a chair now. Perhaps she was very far from one. Nika resisted the urge to look over her shoulder and sang a little louder.
+She began the tune. Behind them, shoes scuffed the grass. She could hear the smallest girl's hurried steps and somebody laughing, but the cousin's soft slippers made no useful sound at all. Perhaps she was passing a chair now. Perhaps she was very far from one. Nika resisted the urge to look over her shoulder and sang a little louder.
 
 Tebbit's fingers twitched against her wrist. She glanced at him. He was staring fiercely at the cake crumbs.
 
