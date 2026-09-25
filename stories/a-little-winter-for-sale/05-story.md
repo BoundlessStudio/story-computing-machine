@@ -27,8 +27,9 @@ sun. I had watched it growing all morning and continued west because I was
 Tair Ked, route surveyor, and because turning back had always felt like asking
 permission.
 
-I took out my sunwheel. Its brass rim lay warm and familiar in my palm, its
-silver heart balancing the needle so delicately that my pulse made it tremble.
+I took out my sunwheel. Its brass rim lay warm and familiar in my palm. Inside
+it, a heart of paired brass and silver kept the needle true through noon heat
+and night cold, balanced so delicately that my pulse made it tremble.
 Five years of bearings were cut into the outer rings in my own cramped hand:
 salt pans, wells, safe noon shadows, three roads that merchants insisted did
 not exist until they needed them. With the sunwheel and a clear horizon, I
@@ -293,8 +294,10 @@ get nothing."
 
 No. She looked at what I held.
 
-I had drawn the sunwheel when the sky darkened. Its needle lay folded into its
-case, but the brass-and-silver center shone against my dusty palm.
+I had drawn the sunwheel when the sky darkened, meaning to fix a last bearing
+before the storm took the horizon, and had not put it away. Its needle lay
+folded into its case, but the brass-and-silver center shone against my dusty
+palm.
 
 Yara did not reach for it.
 
