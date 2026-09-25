@@ -220,7 +220,7 @@ The patrons arrived claiming the keeper had endangered everyone by resisting the
 
 Jelveth did not forgive him. But the patrons now knew exactly what her vault held, and they had no idea where Faris slept, so the relics were safer with him. In front of the whole sanctuary she told him to keep both relics, mend her gallery, and never call a fixed grafted body counterfeit.
 
-“If you ever want a root opened for that,” she said, looking at the Latch, “I read the selector. Myself.”
+“If you ever want a root opened with that,” she said, looking at the Latch, “I read the selector. Myself.”
 
 At the Array, a Yoke-folded horizon stirred the unarmed Arc.
 
@@ -256,7 +256,7 @@ Now, at the Ithrom Array, all six keystones remained unarmed.
 
 Faris turned first to Seyathi. “Arm the Missing Tessera, and before this hour ends the Absolute Yoke will be powerless. I will not take its power, wear it, or pass it to anyone.”
 
-Every clause was true. The relics and debts had come to him over thirty-one years, the Yoke and the Tessera at Talarum, the Latch at Keruvan. Faris had shaped this promise only after those pieces met, and deliberately left one word out.
+Every clause was true. The relics and debts had come to him over thirty-one years, the Tessera and word of the Yoke at Talarum, the Latch at Keruvan. Faris had shaped this promise only after those pieces met, and deliberately left one word out.
 
 Seyathi studied him and the six keystones. From her side, they appeared to be six strikes against the Yoke's six borrowed faces; the terminal connections stayed hidden until the Latch was seated. She looked at Faris a moment longer, the way she had looked at him on the Talarum stairs when she could not find them without his arm, and asked him nothing.
 
@@ -310,7 +310,7 @@ She closed the Unhatched Form in both hands and opened the Axis with a precise i
 
 Across the ring, the Unflown Arc lifted from its cradle as if remembering a route it had never flown. Ekkorath faced the sixth socket while cities flickered at the ends of their wings.
 
-Faris stood in front of the dragon, as he had promised at Skairrift, and named the flight. “Every crossing you have ever flown closes. The cities come down on whatever is under them, and dragons come down with them; not all of them live through the ground. I need the counter-circuit flown into this socket, and then I need you over the approach, holding it, until I reach the Latch. It's all one flight. There won't be another.”
+Faris stood in front of the dragon, as he had promised at Skairrift, and named the flight. “Every crossing you have ever flown closes. The cities come down on whatever is under them, and dragons come down with them; not all of them live through the ground. I need the counter-circuit flown into this socket, and then I need you over the approach, holding it, until I get the Latch seated. It's all one flight. There won't be another.”
 
 Ekkorath's long gaze stayed on the cities. “And the people beneath your answer?”
 
