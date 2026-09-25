@@ -8,7 +8,7 @@ canon: false
 
 # The Kill She Wouldn't Take
 
-Caro Blythe is already shouting when the red tally in the broadcast glass reaches ten.
+Caro Blythe is already shouting when the red tally in the broadcast glass shows ten minutes to the bell.
 
 “Nash Harl got killed two hours ago and still made the final on time. Eleven-point-zero-eight seconds from flatline to both feet, which is quicker than Dax gets back from the bathroom. Welcome to Grandfall Arena, the largest televised deathmatch on the planet.”
 
@@ -44,7 +44,7 @@ Caro laughs too loudly. The producer says, “Good,” because the adult feed is
 
 Zindra stops on her mark. Nash bounces on his toes twenty meters away. The public assurance bars beside both portraits remain green.
 
-The tally hits zero. The producer shouts, “LIVE!” Zindra fires before Caro can say the word.
+The tally hits zero. “Bell,” the producer says. Zindra fires before Caro can say “Fight.”
 
 The shot crosses the floor as a red-white shove. Nash dives. The edge of it catches his left boot and spins him sideways, boot plating bursting off in three pieces. He lands hard, skids through cyan grit and comes up on one knee with blood already slicking the exposed skin above his ankle.
 
@@ -68,9 +68,9 @@ Blue light smacks one white horn and snaps its tip away. Zindra’s head jerks; 
 
 Caro’s pencil rolls out of her hand. “HARL TAGS QUELL! Mask strike, no penetration, but the superstar’s right optic is washed and Nash Harl is somehow still in this goddamn fight!”
 
-“He made her blink. You ever try to move a corpse with a blink?” Dax is grinning now. Caro can see it reflected in the booth glass, wide and involuntary. “Dead gets you fresh. Hurt stays hurt until somebody ends it. He keeps piling hurt, he gets a chance.”
+“He made her blink.” Dax is grinning now. Caro can see it reflected in the booth glass, wide and involuntary. “Dead gets you fresh. Hurt stays hurt until somebody ends it. He keeps piling hurt, he gets a chance.”
 
-Zindra answers with a backhand that sends the carbine away. Nash’s glove splits against the floor. Blood streaks the white knuckles of the armor. He scrambles after the weapon; she shoots the floor ahead of his reaching hand, close enough to fling him back through the hot wake.
+Zindra answers with a backhand that sends the carbine away. Nash’s glove splits against the floor. Blood streaks his white knuckle plates. He scrambles after the weapon; she shoots the floor ahead of his reaching hand, close enough to fling him back through the hot wake.
 
 “And Quell takes the hand away without taking the hand off,” Caro says. “Control, control, control.”
 
@@ -94,7 +94,7 @@ On the arena floor, Nash reaches his carbine. Zindra stamps the barrel down. He 
 
 Dax says it on air.
 
-The producer’s answer comes sharp. “Correct: impact-spectrum contamination. Caro, clarify.”
+The producer’s answer comes sharp. “Correct that. Impact-spectrum contamination. Caro, clarify.”
 
 “Color pollution from the floor package,” Caro says. “The official return graphic remains green.” She can hear the dryness at the back of her own words. She swallows against it and finds the next number. “Zindra Quell has converted from this position in thirty-eight of forty—”
 
@@ -112,7 +112,7 @@ Zindra does not fire.
 
 “No.” Dax has both hands flat on the desk. “No, she’s not looking at his face.”
 
-Through the horned mask, Zindra’s head tilts by a few degrees. The muzzle stays fixed. Her gaze is impossible to see, but the turn of the mask points down, toward the red ring at Nash’s throat.
+Through the horned mask, Zindra’s head tilts by a few degrees. The muzzle slides off his chin and grinds into the plate beside his ear. Her gaze is impossible to see, but the turn of the mask points down, toward the red ring at Nash’s throat.
 
 Eight.
 
@@ -130,11 +130,11 @@ Dax says, “She’s reading his neck.”
 
 The producer says, “We have no authenticated defect.”
 
-“Then put the confidence figure back.”
+Dax stabs a finger at the dash in the operations strip. “Then put the confidence figure back.”
 
 “Maintain replay.”
 
-On raw, Nash plants his good foot against the wall and shoves. Zindra could fire. Instead she lets the muzzle swing wide. Nash tears free and drives his damaged shoulder into her breastplate. They go down together in a churn of white armor and red light.
+On raw, Nash plants his good foot against the wall and shoves. Zindra could bring the muzzle back. Instead she lets it swing wide. Nash tears free and drives his shoulder into her breastplate. They go down together in a churn of white armor and red light.
 
 The program returns live just as Zindra rises. Caro’s voice snaps back into form. “There it is! Harl breaks the corner, pays for it, but he breaks it!”
 
@@ -156,7 +156,7 @@ Caro stays on air. “On our raw feed, Quell is holding Harl’s collar to camer
 
 “Possible impact-spectrum contamination,” the producer says. “No challenge basis. Move to resolution.”
 
-“That tracer sits under the shoulder.” Dax jabs two fingers into his own jacket seam. “This is the link ring. Red there means nobody gets up in eleven.”
+Dax cups a hand over his microphone and jabs two fingers into his own jacket seam, under the shoulder. “Trauma tracer lives here. Not the neck.” He moves the fingers to his throat. “This is the link ring. Red there means nobody gets up in eleven.”
 
 A thirty-second resolution clock ignites around the arena rim. Two gates open for white-armored floor marshals, their weapons trained low while they wait out the stall interval. The public cheers the new number. Nash looks up, checks the green assurance band again, wipes blood from his mouth, and draws the compact backup weapon at his hip.
 
@@ -182,7 +182,7 @@ Zindra fires across their path. The pulse tears a smoking line through the cyan-
 
 “Armed resistance,” the producer says. “Do not call medical intent.”
 
-Dax leans so close to the raw monitor his breath marks it. “Her trigger finger comes off Harl every time she sees his neck. Every time. That’s not a tantrum.”
+Dax leans so close to the raw monitor his breath marks it. “Her finger comes off the trigger every time she sees his neck. Every time. That’s not a tantrum.”
 
 The resolution clock reaches twelve. The marshals raise their weapons.
 
@@ -202,19 +202,17 @@ Caro’s thumb strikes the clear guard instead of lifting it.
 
 “I know how the fucking key works.”
 
-“Current evidence says—”
+“Current evidence says—” the producer begins.
 
-She flips the guard and slams her palm onto the key. “GRANDFALL BOOTH MEDICAL-INTEGRITY CHALLENGE! Nash Harl, return-status conflict!”
+Caro flips the guard and slams her palm onto the key. “GRANDFALL BOOTH MEDICAL-INTEGRITY CHALLENGE! Nash Harl, return-status conflict!”
 
-The challenge tone booms from the arena before the producer can answer. The resolution clock freezes at seven. Every registered weapon gives the same hard mechanical clack: Zindra’s red charge rails go black; the marshals’ firing spines collapse; the broken sidearm locks what little remains of itself. The program feed divides into raw collar close-up, return telemetry and live floor. Under challenge protocol, control cannot replace any of them.
+The challenge tone booms from the arena before the producer can finish. The resolution clock freezes at seven. Every registered weapon gives the same hard mechanical clack: Zindra’s red charge rails go black; the marshals’ firing spines collapse; the broken sidearm locks what little remains of itself. The program feed divides into raw collar close-up, return telemetry and live floor. Under challenge protocol, control cannot replace any of them.
 
 “Challenge registered,” the producer says. The coolness has gone out of the voice. “You are both under professional review.”
 
 “Put it on my tab,” Dax says.
 
-“You do not have a tab.”
-
-“Then Caro was right about the zipper.”
+The headset gives him nothing back.
 
 Caro is breathing through her mouth. She points at the replay pane with the pencil. “Medical-integrity review at seven seconds on the resolution clock. We are looking first at Harl’s return-confidence record. Roll from the drop.”
 
@@ -224,7 +222,7 @@ The mandatory replay crawls forward. In one pane, Nash reaches for his carbine. 
 
 “Now give me Quell’s right hand,” Dax says.
 
-The replay jumps to the wall. Zindra has Nash pinned beneath the oversized firearm. Her damaged optic shines white. The angle is clean.
+The replay jumps to the corner. Zindra has Nash pinned to the wall, the oversized firearm under his chin. Her damaged optic shines white. The angle is clean.
 
 “Finger wrapped,” Dax says. “Ready to finish. She looks down.”
 
@@ -234,7 +232,7 @@ The image advances one frame. Zindra’s index finger straightens along the weap
 
 “Possible fighter interpretation of unauthenticated equipment,” the producer says.
 
-Dax misses the next telestrator mark and circles the broken horn. “Shit.”
+Dax misses the next telestrator mark and circles the red mohawk. “Shit.”
 
 “Wrong red,” Caro says.
 
@@ -248,7 +246,7 @@ The raw crowd feed carries no single verdict. Some sections roar for the challen
 
 “Seven seconds of weapon lock remaining,” Caro says. “Medical review still active. Harl conscious. Quell and both marshals upright.”
 
-A white medical verdict replaces the two green assurance bars. Nash’s return link is unverified. The public green was stale. The challenge is upheld.
+A white medical verdict replaces the two green assurance bars. Nash’s return link is unverified. The public status is marked stale. The challenge is upheld.
 
 The end horn sounds twice, lower than a kill horn.
 
@@ -258,7 +256,7 @@ The roar below has no agreement in it. Cheers collide with boos; the rematch cha
 
 On the live pane, the marshals lower their locked weapons. Zindra keeps the dead cannon across Nash until two medics approach with empty hands. Only then does she lift her boot from his back and give them room. Nash rolls to his side, coughing. His left leg will not take weight. The collar at his throat remains red while the medics brace him.
 
-“Integrity process successful,” the producer says. The voice has recovered its polish. “Lead the safeguard. Do not say stale public status again. Rematch market opens in twenty.”
+“Integrity process successful,” the producer says. The voice has recovered its polish. “Lead the safeguard. Do not say stale public status. Rematch market opens in twenty.”
 
 Dax looks toward Caro. “We still have credentials?”
 
@@ -268,7 +266,7 @@ Dax looks toward Caro. “We still have credentials?”
 
 “It was resisting.”
 
-They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Quell controlled every lethal angle and then resisted the resolution rather than take the red-collar finish. Harl leaves this final alive and unverified.”
+They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Harl leaves this final alive and unverified.”
 
 “No-contest is paper,” Dax says. “On the floor, Quell had him cold, saw the bad light, and spent the rest of the bout keeping everybody else from doing something stupid.”
 
@@ -284,7 +282,7 @@ Caro reads the line. “Zindra Quell opens four-to-one if Grandfall can put thes
 
 “Too low,” Dax says.
 
-“You are not the bookmaker.”
+“You are not the bookmaker,” the producer says.
 
 “I’ve seen her work.”
 
