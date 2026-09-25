@@ -10,13 +10,13 @@ canon: false
 
 The lion steps into the lowest orchard terrace while Kletho is still tightening the witness cord around your wrist.
 
-Below it, Nemea's flat roofs step down toward the last thread of water. The spring failed in summer; what remains runs through an open stone channel no wider than a funeral board. The lion has already driven the night carriers from it twice. Tonight it has come early.
+Below it, Nemea's flat roofs step down toward the last thread of water. The spring failed in summer; what remains trickles down a stony bed no wider than a funeral board. The lion has already driven the night carriers from it twice. Tonight it has come early.
 
 "Too tight," you tell Kletho.
 
 "You always say that."
 
-The cord bites when you pull away. Old training habits: she knots, you resist. First place used to pass between you in wall courses and spear forms, but even when you beat her she could explain why your landing was wrong. Now the council has made her your constellation witness; it will not record a seven-light deed unless someone survives to name what each light did. You asked to go alone. They gave you the only girl whose name had ever stood beside yours.
+The cord bites when you pull away. Old training habits: she knots, you resist. First place used to pass between you in wall courses and spear forms, but even when you beat her she could explain why your landing was wrong. Now the council has made her your constellation witness; it will not record a seven-light deed unless someone survives to name what each light did. You asked to go alone, so the tablet would carry one name. They gave you the only girl whose name had ever stood beside yours.
 
 The lion comes up one terrace. No hurry. Dust has dulled its pelt to old straw, and burrs snag its mane. Its shoulders nearly reach yours. When it looks past you toward Nemea, you see teeth meant to break helmets.
 
@@ -36,85 +36,77 @@ The lion's hindquarters bunch.
 
 "Accepted."
 
-The first light tears free. It curves between your hands as a white bow and a bolt already straining to fly. You loose before the lion can spring.
+The first light tears free. It curves between your hands as a white bow and an arrow already straining to fly. You loose before the lion can spring.
 
-The bolt hits between its eyes with the clang of a hammer on temple bronze. Light floods the olive trunks. The lion's head snaps aside, its forepaw sliding half a pace in the dust.
+The arrow hits between its eyes with the clang of a hammer on temple bronze. Light floods the olive trunks. The lion's head snaps aside, its forepaw sliding half a pace in the dust.
 
-No wound. Not one blackened hair. Its gaze travels from the empty air where the bow was, to your sash, to Kletho's mouth.
+The fur between its eyes lies smooth, the same dusty straw as the rest. Its gaze travels from the empty air where the bow was, to your sash, to Kletho's mouth.
 
 Then it charges.
 
-You turn the failing bow into a short blade and race down the terrace. Kletho shouts, "Your left foot drives forward."
+The bow is already guttering. What is left of it narrows in your fist to a short blade of dimming light, and you race down the terrace with it. Kletho shouts, "Your left foot drives forward."
 
 "Accepted."
 
 Light two punches through your advancing leg. You shoot beneath the first paw as four claws shear the air above your face. Each is longer than your hand, pale, with an edge no forge could hone finer. They clip the flying end of your sash and leave it hanging by threads.
 
-Your glowing blade meets the lion's belly. The edge folds flat. The force runs through your wrist and throws your shoulder back, while the power in your stride keeps carrying the rest of you forward. You skid past the lion, strike the lip of the terrace, and vault it when you meant to stop.
+The dim blade meets the lion's belly. The edge folds flat. The force runs through your wrist and throws your shoulder back, while the power in your stride keeps carrying the rest of you forward. You skid past the lion, strike the lip of the terrace, and vault it when you meant to stop. The witness cord whips after you, back over the lip and slantwise across the terrace to Kletho's wrist.
 
-The drop is only shoulder-high. You land in a furrow hard enough to jar your teeth.
+The drop is only shoulder-high. You land in a furrow hard enough to jar your teeth. The blade has gone out in your fist. It was made of light, and the pelt turned it anyway.
 
-Above you, the lion pivots. It has yielded no ground. It flicks the severed cloth from one claw and looks not at you, but at Kletho.
+Above you, the lion pivots. It has yielded no ground. It shakes a few red threads from one claw and turns its head toward Kletho.
 
-She backs toward the next retaining wall. "The verse said mortal weapons."
-
-"That wasn't mortal."
-
-"It was a sword."
+She backs toward the next retaining wall, her free hand groping behind her for stone.
 
 The lion launches uphill at her.
 
-Kletho's hand closes around the wax tablet at her belt. The authorized words come out by reflex, too high and too fast. "The stainless maid rises before the beast."
+You get your elbows over the lip and start to drag yourself up. Kletho's hand closes around the wax tablet at her belt. The authorized words come out by reflex, too high and too fast. "The stainless maid rises before the beast."
 
-You are already climbing. You hear a possible action inside the praise and seize it.
+You hear a possible action inside the praise and seize it.
 
 "Accepted."
 
-The third point goes black. Nothing answers. You are not rising; both feet have left the ground. Stainless names nothing a body can do. Your magic spends itself in a warm gust under the torn sash.
+The third point goes black. Nothing answers. You are hanging off the lip by your elbows, feet scrabbling at the wall, and the light can find no rising in that to hold. It spends itself in a warm gust under the torn sash.
 
 Kletho sees the failure on your face. The lion is two bounds from her.
 
-You tackle her sideways.
+You drop back into the furrow, brace both feet against the wall, and haul on the cord.
 
-The paw passes close enough to comb four cold lines through your hair. Your combined weight breaks the dry cap of the retaining wall, and stone gives way beneath you. Kletho's tablet knocks your chin. Her elbow catches your ribs. You fall together through brittle weeds and land in the dry watercourse below.
+It jerks straight across the terrace and pulls Kletho off her feet, sideways, out of the line of the charge. She skids on her back through the dust and comes over the lip on top of you. The lion reaches the edge a stride behind her. Its paw passes close enough to comb four cold lines through your hair. You stagger backward under her weight to the outer wall of the lower terrace, and its dry cap breaks. Kletho's tablet knocks your chin. Her elbow catches your ribs. You fall together through brittle weeds and land in the dry watercourse below.
 
 Your right knee folds inward.
 
-The channel vanishes in a white flare. Before it returns, the lion appears on the broken wall above, broad enough to blot out two stars.
+The channel vanishes in a white flare. Before it returns, the lion appears on the broken edge above, broad enough to blot out two stars.
 
-"Three," Kletho gasps beside you.
+"Three," Kletho gasps beside you. "You accepted a compliment."
 
-"I can count."
+"You said it." Your knee won't straighten. You grip it with both hands, and it still won't.
 
-"You accepted a compliment."
+Kletho looks at the raw line the cord has burned around her wrist and doesn't answer.
 
-"It wasn't a very good one."
+The lion disappears from the edge.
 
-The lion disappears from the wall.
-
-The channel runs downhill to the water and uphill around a blind bend toward the old cistern. Its banks reach above your head. Warm stones shift underfoot. You cannot see the orchard, only two pale strips of wall and the slice of night between them.
+The channel runs downhill to the water and uphill around a blind bend toward the old spring. Its banks reach above your head. Warm stones shift underfoot. You cannot see the orchard, only two pale strips of wall and the slice of night between them.
 
 Kletho pushes herself upright. "Where?"
 
 An olive branch cracks on the left bank. Dust trickles from the right.
 
-"Downhill," you say. "Stay behind me."
+"Can't tell. Downhill." You start down the bed. "Stay behind me."
 
 "So I die second?"
 
-"So I can see you."
-
-"You never see me."
+"So it hits me first."
 
 The lion drops behind her without a sound.
 
-You see its mouth open. Kletho sees your expression and starts to turn, but her heel rolls on a channel stone. The cord snaps taut between you.
+Over your shoulder, you see its mouth open. Kletho sees your expression and starts to turn, but her heel rolls on a channel stone. The cord snaps taut between you.
 
 You plant your injured leg. The knee begins to collapse again.
 
 "Your right knee is turning in," Kletho cries.
 
-It is an ugly fact, not a heroic one. It is also visible.
+It is an ugly fact. It is also visible.
 
 "Accepted."
 
@@ -144,15 +136,11 @@ It is herding you.
 
 "You have three lights."
 
-"It knows that."
+"It comes when you talk. Every time."
 
-"It can't know numbers."
+Kletho shuts her mouth. The lion glances at your sash.
 
-The lion glances at your sash.
-
-"It doesn't have to."
-
-You retreat around the bend. The banks narrow against the old cistern, a cracked stone dome sunk into the gorge. Behind it, two openings lead into the same cave: a low spillway at channel level and a maintenance mouth high above a slope of rubble. Cool air smells of dust, fur, and old water.
+You retreat around the bend. The banks narrow where the gorge ends against a limestone bluff, the dry head of the old spring. Two openings lead into the same cave: a low crawl at channel level, where the water once ran out, and a high mouth above a slope of rubble. Cool air smells of dust, fur, and old water.
 
 The lion's den.
 
@@ -160,11 +148,11 @@ It stops downhill, squarely between you and Nemea. It has traded open ground for
 
 "We don't go inside," she says.
 
-The lion backs into the dark seam where the cistern dome meets the bank.
+The lion backs into the dark seam where the bluff meets the bank.
 
 Pebbles rattle from the bank above.
 
-The lion is no longer below you. You turn as it comes down from the cistern roof. This time you do not reach for a weapon. You cross both wrists and brace.
+The lion is no longer below you. You turn as it comes down off the bluff. This time you do not reach for a weapon. You cross both wrists and brace.
 
 Kletho begins the council verse. "Her radiant bonds command the—"
 
@@ -186,11 +174,11 @@ It lays its paws one over the other. A claw finds each glowing loop. The lion op
 
 The bands part into bright ribbons. Your fists fly apart with them, and you stumble within reach.
 
-The lion rises under you. Its muzzle strikes your chest and flips you onto the channel bed. You roll as the jaws close, but the broken wall pins your shoulder. There is no room left to evade.
+The lion rises under you. Its muzzle strikes your chest and flips you onto the channel bed. You roll as the jaws close, but the bank pins your shoulder. There is no room left to evade.
 
 You set the guarded shoulder toward the bite.
 
-Kletho has seen what five lights have purchased. Her voice fails once. "You—your left shoulder. You set it."
+Kletho's voice fails once. "You—your left shoulder. You set it."
 
 "Accepted."
 
@@ -216,19 +204,15 @@ The lion turns on her. Its paw flashes. She ducks; a claw splits her sleeve and 
 
 Its weight shifts toward her before the last piece lands.
 
-You seize her ankle and pull. Its jaws close on the air above her braid. She kicks free, crawls toward you, and together you squeeze through the low spillway. Claws strike sparks from the threshold behind your feet.
+You seize her ankle and pull. Its jaws close on the air above her braid. She kicks free, crawls toward you, and together you squeeze through the low crawl. Claws strike sparks from the threshold behind your feet.
 
 Darkness takes the lion's size away but keeps its sound.
 
-The passage widens into the cistern cave. A limestone pillar divides the floor. The low spillway is behind you; across the chamber, rubble climbs to the upper mouth, where moonlight makes a gray wedge on the stone. Either entrance will admit the lion. You cannot watch both. The cord between your wrists catches around the pillar and yanks Kletho backward.
+The crawl opens into the spring cave. A limestone pillar divides the floor. The low entrance is behind you; across the chamber, rubble climbs to the upper mouth, where moonlight makes a gray wedge on the stone. Either entrance will admit the lion. You cannot watch both. The cord between your wrists catches around the pillar and yanks Kletho backward. Something scrapes in the crawl behind you.
 
-"One," she says.
+"Behind us," she whispers. "It's in the low one."
 
-You touch the last light at your waist. It trembles against your fingers.
-
-"I can count."
-
-"Not you. Entrance. I saw it at the low one."
+You turn with her and touch the last light at your waist. It trembles against your fingers.
 
 A scrape comes from the rubble above.
 
@@ -238,7 +222,7 @@ You roll behind the pillar. A paw clips your shoulder guard. Cloth and light ope
 
 The lion stands between you. One step from its forepaw will sever your last connection.
 
-You jerk the cord once. Kletho looks down. You point toward the upper mouth, then make a quick pulling motion. She nods, but when she shifts toward it, the lion's eyes follow the sound of rubble beneath her heel. One claw lowers over the line between you instead of striking.
+You jerk the cord once. Kletho looks down. You point at her, then up at the gray wedge of moonlight. Out. She nods, but when she shifts toward it, the lion's eyes follow the sound of rubble beneath her heel. One claw lowers over the line between you instead of striking. If it pins the cord, it can reel her in.
 
 You give it slack.
 
@@ -248,9 +232,7 @@ It stalks around the pillar. You limp the other way. When you hurry, it cuts inw
 
 You make yourself watch the paws instead.
 
-Above, Kletho points urgently toward the low spillway. Escape. The last light might strengthen a leap through it. You could reach the channel and perhaps Nemea. You could return alive with no beast, no tablet, and no witness if the lion chooses the easier prey on the rubble.
-
-Undivided credit had seemed so important on the terrace.
+Above, Kletho points urgently toward the low crawl. Escape. The last light might strengthen a leap through it. You could reach the channel and perhaps Nemea. You could come home alive with one name left to write down, if the lion chooses the easier prey on the rubble.
 
 You shake your head.
 
@@ -258,7 +240,7 @@ Kletho bares her teeth at you, furious. Then she points to the pillar, draws a b
 
 Wait until I can see.
 
-The lion feints left. Your body answers before thought, a useless half-step that makes the knee buckle. It rushes the weakness. You dive behind the pillar and hear claws carve three lines through limestone where your spine had been.
+The lion feints left. Your body answers before thought, a useless half-step that makes the knee buckle. It rushes the weakness. You dive behind the pillar and hear claws carve four lines through limestone where your spine had been.
 
 You could spend the light now. Kletho's mouth opens.
 
@@ -274,7 +256,7 @@ At the final stride, you plant your good foot against the pillar and run one ste
 
 The lion twists. Its jaws snap beside your ear. You flatten behind its skull, knee slipping across the ribs, while it bucks hard enough to throw your feet above your head. Your wounded arm folds. For two strides you hang by one hand, dragged over the cave floor.
 
-Kletho screams your name. No verse, no action. Fear has emptied her precision.
+Kletho screams your name.
 
 "See me," you gasp.
 
@@ -304,13 +286,13 @@ It gains its feet and hurls you into the pillar.
 
 Once. Twice.
 
-On the third blow, Kletho's count vanishes inside the roar.
+On the third blow, Kletho's voice vanishes inside the roar.
 
-"Again," you manage.
+"Count," you manage.
 
 "One," she says. "Two. Three—"
 
-The lion leaps backward into the wall. Your ribs blaze; your injured knee kicks loose. One sandal-lace catches a reaching claw and parts; your heel scrapes stone. You lock your ankles again behind its forelegs.
+The lion leaps backward into the wall. Your ribs blaze; your injured knee kicks loose. One sandal-lace catches a reaching claw and parts; your heel scrapes stone. You lock your ankles behind its forelegs.
 
 "Four. Five. Five—I lost—"
 
@@ -336,7 +318,7 @@ The lion cannot bite behind its own jaw. Its claws rake backward but find only t
 
 You turn your face into the mane before impact. Stone hits shoulder, then ribs. Your hold loosens. The lion drags one rough breath against your arm.
 
-Below the cave, somewhere beyond rock and terraces, Nemea's last water keeps moving through its narrow channel. You picture no council, no song. Only Kletho beneath the claws; only buckets waiting behind shut doors.
+Below the cave, somewhere beyond rock and terraces, Nemea's last water keeps moving down its narrow bed. What you picture is Kletho under those claws if you let go, and buckets waiting behind shut doors.
 
 You lock your hands again.
 
@@ -344,7 +326,7 @@ You lock your hands again.
 
 The lion's next rush shortens to three steps. Its forelegs strike wide. You move with its stagger and keep your weight behind the jaw. The great body sinks, gathers, rises halfway.
 
-Kletho stops counting. You hear her breath instead, quick and helpless, because there is nothing she can name now that will make you stronger.
+Kletho stops counting. You hear her breath instead, quick and ragged.
 
 The lion settles onto its knees.
 
@@ -354,27 +336,29 @@ Its claws scrape once over the cave floor. Its jaws work against empty air. A fi
 
 You keep the lock through five of your own counts. Through ten.
 
-"Myrine," Kletho says. Not a call. "It's dead."
+"Myrine," Kletho says. "It's dead."
 
 You release your hands.
 
 The lion does not move.
 
-Without the lights, your battle dress loosens into torn work clothes. You slide from the intact pelt and sit where you land. Every breath catches under your ribs. Across the cave, Kletho presses her sleeve to her arm and watches the lion until stillness becomes proof.
+Without the lights, your battle dress loosens into torn work clothes. You slide from the intact pelt and sit where you land. Every breath catches under your ribs. Across the cave, Kletho presses her sleeve to her arm and watches the lion for a long time.
 
 Then she checks its nose and ribs with a shaking hand.
 
 "Dead," she says again.
 
-The account takes less time than binding your shoulder. Kletho finds a sliver of wax among the pieces caught in her belt and writes with her hairpin while you hold the bandage around her arm. There is room for three cramped lines.
+The account takes less time than binding your shoulder. Kletho finds a sliver of wax among the pieces caught in her belt and writes with her hairpin while you hold the bandage around her arm. There is room for three cramped lines. She writes the first and the last and leaves a gap between them.
 
-*Myrine held the lion until it died. Kletho witnessed the hold and fought beside her. All seven lights were dark.*
+"Put the rock in," you say.
 
-Kletho pauses over the middle sentence. "The council will strike that."
+"The council will strike it."
 
 "They weren't here."
 
-"That has never stopped them."
+She bends over the wax again.
+
+*Myrine held the lion until it died. Kletho witnessed the hold and fought beside her. All seven lights were dark.*
 
 You press your thumb into the wax beside hers.
 
