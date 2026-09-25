@@ -58,7 +58,7 @@ Again.
 
 The touch breaks. A length of uncertain cold follows. Then the chain draws taut and supporting pressure falls away. No contact travels through the links. Whoever holds me understands at least that much.
 
-My back meets skin again, deliberately this time. Fingers pin me just below a collarbone. Pulse, breath, balance—and a voice, carried inward through bone before the air could have mattered.
+My back meets skin again, deliberately this time. Fingers pin me just below a collarbone. Pulse, breath, balance—and a voice, carried inward through bone.
 
 “Can you hear me?”
 
@@ -86,7 +86,7 @@ The question shears the pleasure from contact.
 
 “Odelia Strake.”
 
-The surname arrives through her sternum with a low roughness that speech in air never had. Pavia's voice used to travel through me the same way: not heard at a distance but built in pressure, teeth, throat, and bone.
+The surname arrives through her sternum with a low roughness Pavia's voice never had, though Pavia's used to travel through me the same way: not heard at a distance but built in pressure, teeth, throat, and bone.
 
 “And you?”
 
@@ -118,7 +118,7 @@ The number has no shape I can trust. It is too large for warmth and cold, too ne
 
 “This one had dates.”
 
-*Pavia could have returned before then.*
+*Pavia could have taken me out again before she died.*
 
 “Did she?”
 
@@ -138,7 +138,7 @@ Odelia draws me a fraction away. The inward path thins and snaps. For one blank 
 
 *No.*
 
-“See?”
+“Can you see?”
 
 *No.*
 
@@ -164,7 +164,7 @@ Her pulse continues. A breath enters, holds, leaves. Another follows. Contact re
 
 *You might have led with your relationship to Pavia.*
 
-“You might not have shouted her name inside my head.”
+“You shouted her name inside my head. I threw you.”
 
 *I did not shout.*
 
@@ -174,7 +174,7 @@ Her pulse continues. A breath enters, holds, leaves. Another follows. Contact re
 
 “That's exactly how she used to argue.”
 
-The likeness pleases me before I understand it should not. I take Odelia's continued contact for attention; I cannot feel her attention except as body. That asymmetry has always encouraged me to overestimate my insight.
+The likeness pleases me. I take Odelia's continued contact for attention; I cannot feel her attention except as body.
 
 *I knew Pavia intimately,* I say. *I rested over her pulse for years. I heard what she said when no one stood close enough to hear, accompanied her beyond rooms you likely never entered, and knew every change of breath before she admitted—*
 
@@ -188,7 +188,7 @@ The likeness pleases me before I understand it should not. I take Odelia's conti
 
 “You don't get to grade which of her years mattered.”
 
-Odelia's words shorten when her pulse rises. Pavia's lengthened. I had mistaken this one difference for impatience; now I suspect it is control.
+Odelia's words shorten when her pulse rises. Pavia's lengthened. I decide she is merely impatient.
 
 *I can tell you about her,* I say, with less flourish.
 
@@ -202,15 +202,15 @@ The admission warms me more thoroughly than the body itself.
 
 *I am a pendant. The chain is incidental.*
 
-“The chain is currently sawing at my neck.”
+“Your chain's cutting into my fingers.”
 
 She shifts it. My weight slides across skin and lifts away. The path breaks.
 
-I do not know what expression she makes in that silence. I do not know whether the chain has caught, whether she considers dropping me, whether my insistence has ruined the only chance I possess. I can feel the chain's small metallic adjustments, none of them mine. Tension settles into a closed loop.
+I do not know what expression she makes in that silence, or whether my insistence has cost me the only chance I possess. The chain makes small metallic adjustments, none of them mine. A length of it is drawn up and around, over a shoulder or behind her neck, and both ends come together below me and stay there, held. My clasp remains open.
 
 Skin returns.
 
-“Useful fact,” Odelia says. “You can't hear me when I hold you off.”
+“Huh,” Odelia says. “You can't hear me when I hold you off.”
 
 *A mean use of accurate observation.*
 
@@ -218,7 +218,7 @@ Skin returns.
 
 *Taste can fail without warning.*
 
-“Try again.”
+“Try again.” Her other hand is busy with something that crackles, paper perhaps, the sound arriving thin through her ribs.
 
 *We disagreed.*
 
@@ -230,7 +230,7 @@ Skin returns.
 
 *Mine, principally.*
 
-Odelia holds still. I mistake stillness for victory and continue.
+Odelia holds still. I take stillness for victory and continue.
 
 *Pavia chose an inferior ornament for an evening. Cheap metal, red glass, an absurd multiplicity of dangling parts. She called it festive, which is what people say when they mean that craftsmanship should be excused.*
 
@@ -248,11 +248,11 @@ There are moments when thirty-one years become suddenly credible.
 
 “She wore them to my recital.”
 
-*She told me only that the occasion required something cheerful.*
+*She told me the occasion required something cheerful.*
 
 “She was sparing your feelings.”
 
-*She described the clasp as unreliable.*
+*She admitted the cherries had an unreliable clasp.*
 
 “It was. What did you do?”
 
@@ -264,7 +264,7 @@ There are moments when thirty-one years become suddenly credible.
 
 Odelia lifts me off her skin again. Contact goes.
 
-When it returns, she says, “Sequence. Not your review of the jewellery.”
+When it returns, she says, “Just tell me what happened. I don't care what you thought of the cherries.”
 
 Fear sharpens every phrase available to me and makes all of them sound like clauses in a losing contract.
 
@@ -290,9 +290,7 @@ I do not.
 
 *It was implicit that she would reconsider.*
 
-“To you.”
-
-*To anyone with proportion.*
+Odelia does not answer that. Her free arm reaches away from me, and a scrape travels up it into her ribs: something with corners, dragged closer.
 
 “She moved five times after that night. I helped carry this box out of two apartments. The velvet in it isn't thirty-one years old.”
 
@@ -304,11 +302,11 @@ I press into the only defense left to me. *Preservation is not wearing.*
 
 “Neither can you.”
 
-The answer is blunt enough to leave no purchase. Odelia's thumb rubs once across the roughened silver, then stops.
+Odelia's thumb rubs once across the roughened silver, then stops.
 
 “The label on the box says, ‘For Odelia, if wanted.’”
 
-Hope makes me careless. *Then Pavia intended you as my next wearer.*
+*Then Pavia intended you as my next wearer.*
 
 “She gave me a box. My throat wasn't in the will.”
 
@@ -318,13 +316,9 @@ Hope makes me careless. *Then Pavia intended you as my next wearer.*
 
 I hurry, because the chain has begun to shift. *Naturally. I merely mean that inheritance carries reasonable expectations. Care, continuity, some respect for the evident purpose of the object—*
 
-“You're not an object when that helps you, and you are when that helps you.”
-
-*Language is being asked to cover unusual ground.*
-
 “No. You're dodging.”
 
-Her fingers find the clasp.
+Her hand tightens on the gathered ends of the chain.
 
 *Pavia discarded me.*
 
@@ -352,7 +346,7 @@ The chain slackens as Odelia bows her head or lowers her hand; I can feel the al
 
 “What did you want her to understand?”
 
-There is an answer about worth. I have polished it for longer than Odelia has been alive.
+There is an answer about worth. I have been polishing it since the lid closed.
 
 *That I could be hurt.*
 
@@ -364,15 +358,15 @@ Odelia's pulse stumbles once.
 
 “You said something else.”
 
-The clasp opens.
+The chain slides from around her neck.
 
 *Wait. There are distinctions between intent and—*
 
 She removes me.
 
-The world contracts to cooling silver, a chain settling beside me, a hard surface below. Vibrations cross it and fade. I cannot know whether Odelia sits one reach away or leaves the apartment. I cannot know whether the lid waits above me.
+The world contracts to cooling silver, a chain settling beside me, a hard surface below. Vibrations cross it and fade. Odelia might be sitting one reach away or leaving the apartment, and the lid might already be waiting above me; nothing I can feel tells one from the other.
 
-I compose explanations. I reduce them. I discard them. With no mind open, even the best phrase is only a private pressure that never moves metal.
+I compose explanations and discard each before it is finished. With no mind open, even the best phrase is only a private pressure that never moves metal.
 
 Something warm touches my rim.
 
@@ -380,13 +374,13 @@ The narrow path opens through a fingertip.
 
 *I am sorry I hid the part where I ordered the box,* I say.
 
-The fingertip remains. I cannot hear Odelia's answer through it. I resist the urge to improve the apology until it stops being one.
+The fingertip remains. I cannot hear Odelia's answer through it. I say nothing more.
 
 Touch leaves.
 
 Cold spreads again. A short age or a long minute passes.
 
-Then the chain lifts. Odelia sets me against her skin again, beginning the third wearing. Her pulse is steadier now, though one finger holds my lower edge away from the tenderest place at her throat.
+Then the chain lifts and goes around her again, its ends in her hand, and Odelia sets me against her skin, beginning the third wearing. Her pulse is steadier now, though one finger holds my lower edge away from the tenderest place at her throat.
 
 “That was better,” she says.
 
@@ -402,7 +396,7 @@ Then the chain lifts. Odelia sets me against her skin again, beginning the third
 
 Her breath catches. Not grief this time, I decide. Amusement.
 
-“Here's what I'm deciding today,” she says. “I can leave the box open. I can keep you somewhere I can choose to touch you. I can find someone who actually likes wearing jewellery. Or I can close the lid. None of those is a forever promise.”
+“Here's what I'm deciding today,” she says. “I can leave the box open. I can keep you somewhere I can choose to touch you. I can find someone who actually likes wearing jewellery. Or I can close the lid.”
 
 The old answer—*wear me*—arrives bright and imperious. Behind it is the word I could not offer Pavia because it seemed too small for me.
 
@@ -422,21 +416,17 @@ Her finger begins to lift me.
 
 She lets me settle.
 
-“Don't turn one decent decision into destiny.”
-
-*I will try to keep destiny within the dimensions of the box.*
-
-“And don't call me Pavia again.”
+“Don't. It was one decision.” Her pulse stays quick under me. “And don't call me Pavia again.”
 
 *Your pulse is quite different.*
 
-“That is a strange apology.”
+“That's a strange apology.”
 
-*It is an observation. I am learning their proper use.*
+*It was meant as one.*
 
-Odelia adjusts the chain, then releases it. The clasp holds. My full weight rests against her. She has chosen the contact; still, I wait.
+Odelia reaches behind her neck with both ends of the chain. My clasp closes; I feel the catch take. She lets go, and it holds. My full weight rests against her. She has chosen the contact; still, I wait.
 
-“One wearing,” she says. “Until the timer. Here in the empty room. I'm not parading you anywhere.”
+“Just for a bit,” she says. “I'll set a timer. We stay in here; I'm not parading you anywhere.”
 
 *How long?*
 
@@ -456,9 +446,9 @@ Small taps travel through Odelia's frame while the chain gives brief changes of 
 
 “I have one question,” she says. “What exactly did Pavia say about the cherries?”
 
-I search my own memory, not hers. Pavia's pulse had been brisk with lateness. The cherries were already somewhere outside my reach. Cloth waited beneath me.
+I search my own memory, not hers. Pavia's pulse had been brisk with lateness. The cherries were already somewhere outside my reach. Cloth waited beneath me. She said one more thing. I left it out earlier because I could not tell whom it was about.
 
-*She said, ‘Odelia will look for them.’*
+*She said, ‘She'll look for them.’*
 
 For three beats Odelia holds her breath. Then the same graceless laugh escapes through her nose.
 
@@ -468,7 +458,7 @@ For three beats Odelia holds her breath. Then the same graceless laugh escapes t
 
 “She kept them. One hook broke. She wore them twice more anyway.”
 
-This is an injury to taste and a gift of information. For once I recognize that they can coexist.
+This is an injury to taste and a gift of information.
 
 *Did she still laugh like that?*
 
@@ -478,7 +468,7 @@ This is an injury to taste and a gift of information. For once I recognize that 
 
 “Sometimes. Not all the time.”
 
-Her pulse accelerates while her voice becomes flatter. I do not tell her what it means. I have been wrong about stillness, laughter, years, boxes, and the future obligations of a niece. I cannot smooth this rhythm or reach into the thoughts above it. I remain where she put me and listen to what her body carries when her words stop.
+Her pulse accelerates while her voice becomes flatter. I do not tell her what it means. I cannot smooth this rhythm or reach into the thoughts above it. I remain where she put me and listen to what her body carries when her words stop.
 
 After a while Odelia says, “You don't get all thirty-one years tonight.”
 
@@ -494,9 +484,7 @@ Odelia is not Pavia with years missing. Pavia settled her weight into her heels 
 
 “Sorry,” she says.
 
-*I have survived an appraisal.*
-
-“Barely.”
+*Do not slow down on my account.*
 
 She walks again.
 
@@ -508,7 +496,7 @@ When the timer shudders through her hand and ribs, every argument I have rehears
 
 “Don't make it ceremonial.”
 
-*That was inconveniently sincere.*
+*It was only thanks.*
 
 Her fingers reach for the clasp.
 
@@ -518,9 +506,7 @@ Her fingers reach for the clasp.
 
 “Do you?”
 
-*Not fully. I can leave it undecided.*
-
-“That's enough.”
+*Not fully.*
 
 Contact lifts. Pulse, balance, breath, and bone-borne voice vanish together.
 
