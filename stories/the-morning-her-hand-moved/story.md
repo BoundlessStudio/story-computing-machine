@@ -42,7 +42,7 @@ The second wave slammed the bob against its bars. All along the heel ward, shutt
 
 Aksor lowered his bowl to the street. Tiny rings ran across its water before the third compression arrived. That one made the crease road sound: a deep tone under the paving, too low to be heard in the ears alone.
 
-“Three,” Yeshal said. “Three. Is it stopping?”
+“Three,” Yeshal said. “Is it stopping?”
 
 Zunel did not answer. She looked from the leaning bob to the black finger horizon and counted seconds aloud, the way she counted a span under test load, waiting for a fourth.
 
@@ -178,7 +178,7 @@ They staggered the crossing. Four residents moved; the bearers set a litter down
 
 When the last visible group reached the forearm side, Aksor kept his palm on the wall a moment longer, as if the count had not finished. Then he looked past Zunel to the end of the ruined avenue, where the four counterweights still hung under the broken deck.
 
-“Those weights,” he said. “Let them down on her. One at a time, four, with a wait between, the way I touch the shelf at the tables.”
+“Those weights,” he said. “Let them down on her. One at a time.”
 
 Zunel was looking for the tally post. Polaq was not at it.
 
@@ -238,7 +238,7 @@ Yeshal counted under her breath. At her raised hand, Zunel freed the third catch
 
 Zunel pulled the fourth release.
 
-The final weight hit warm stone. Four separated tones had gone inward. The bridge rolled off its remaining balance shoes and settled steeply between the parting wrist surfaces, closing the return as completely as a fallen gate. With all four weights gone, no mechanism on the limb could raise it again.
+The final weight hit warm stone. Four separated tones had gone inward. The bridge rolled off its remaining balance shoes and settled steeply between the parting wrist surfaces, closing the return as completely as a fallen gate.
 
 No one spoke for a while. The wrist went on rising, and dust streamed from the crease. Across the palm, the thumb finished its sweep and lay still over the ruin of the inner stair. Then, later—long enough that Yeshal checked two plumbs and reset one—the stone tone lowered. The forearm's gradual turn slowed. Water in Aksor's bowl crept toward its new edge and stopped there without spilling.
 
