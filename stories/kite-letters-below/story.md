@@ -184,7 +184,7 @@ Fourteen hours later, hinge twelve still lagged.
 
 Sairu had replaced its drive braid, cleaned the bearing track, and run it through a hundred turns. Unloaded, it matched the rest. Under radiator heat, it came late by two-tenths of a second—better, not good.
 
-"Nine minutes to surface angle," Orvek said from the supervisor's board across the radiator hub. "Bank spine at sixty-one."
+"Two minutes to surface angle," Orvek said from the supervisor's board across the radiator hub. "Bank spine at sixty-one."
 
 Sairu floated beside the manual console. Lassan had strapped himself at the script display behind her, a paper copy of the packet tucked beneath one hand as though electrons might become careless.
 
@@ -312,7 +312,7 @@ She caught Lassan outside the archive. He carried two label rubbings and had yel
 
 "Do you practice making everything sound dead?"
 
-He didn't answer. He pinned the rubbings against his chest and held out his slate. The standard contact form showed the terrace grid centered in a red square. Eight observing systems were listed beneath it, ready to acquire the same coordinates on approval.
+He didn't answer. He pinned the rubbings against his chest and held out his slate. The heat-eye's locked coordinates had filled a standard contact form: the terrace grid centered in a red square. Eight observing systems were listed beneath it, ready to acquire the same coordinates on approval.
 
 "Approval starts the search," he said. "Whoever works those rows never asked to be looked for."
 
