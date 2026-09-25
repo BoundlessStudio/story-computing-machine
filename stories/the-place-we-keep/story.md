@@ -16,9 +16,9 @@ She lay along the broad stone windowsill, one hind foot extended into the ruin, 
 
 "She'll put her feet on the photographs," I said.
 
-Mother opened an eye. "Then don't put them under my feet."
+Mother opened an eye and stretched her hind foot a little further into the ruin.
 
-I set my basket in the grass. She moved before I could ask again, stepping onto Father's forearm and climbing to his shoulder. The iron had been warming all the way down the hill. She settled with her chin between two rivets, and he lifted his other hand to embrace me.
+I set my basket in the grass. She moved before I could ask again, stepping onto Father's forearm and climbing to his shoulder. The iron had been warming in the sun all morning. She settled with her chin between two rivets, and he lifted his other arm to embrace me.
 
 I knew where to put my cheek now, against the smooth plate below his neck. The first year I had caught my hair in a joint. Inside that casing, the little living body his illness had left him worked the iron with a magic he had taken months to learn. I could feel the faint irregular beat through the plate. He smelled of metal and the peppermint he liked in his drinking mixture.
 
@@ -34,8 +34,6 @@ Mother smelled the fish. "You remembered."
 
 "Every year," I said.
 
-"Yes, but I don't know that till you arrive," Mother said.
-
 I gave her a strip. She took it from my fingers without catching them with her teeth.
 
 Father wanted to see the photographs before his hands got sticky. I handed him the one of me at six months, sitting on a bed with a pear in my lap. My hair stood up in a pale tuft. It still did that if I went to sleep with it damp. I was the only one of us whose baby picture remained much use for identification.
@@ -50,7 +48,7 @@ She had risen in the shallows below the house. Sunlight passed through her shoul
 
 Across one clear arm lay a clear child.
 
-I had been imagining how Selvi would keep a woollen shawl dry. I had imagined a wet-haired baby with our family's narrow chin, and worried that the river would be too cold. Here was the chin, absurdly, but I could see the pebbles through it.
+I had been imagining how Selvi would keep the blanket dry. I had imagined a wet-haired baby with our family's narrow chin, and worried that the river would be too cold. Here was the chin, absurdly, but I could see the pebbles through it.
 
 "Oh," I said.
 
@@ -118,11 +116,11 @@ Every week I had meant to visit once the border was finished. Selvi had been eig
 
 Father bent to look at Ibby, who abandoned feeding to examine the dark opening of his mouth.
 
-"Our chin," Father said happily.
+"Our chin," Father said, and began to hum.
 
 I looked from his fixed iron face to Mother's whiskers, then down at my own knees, whitening under the water.
 
-"What does being human mean?" I asked them. "If she has our chin, does that make her human? Or if she doesn't? What do you mean when you say it?"
+"What does being human mean, then?" I asked them. "Is it the chin? She's got it, and neither of you has it now."
 
 Father straightened. "She's your sister's child. Of course she's human."
 
@@ -134,15 +132,11 @@ Father straightened. "She's your sister's child. Of course she's human."
 
 Father adjusted the photograph, which he still held between two iron fingers. He had carried my baby face all the way to the bank.
 
-"I'm human," he said. "This doesn't alter that."
+He tapped his chest, gently because Mother disliked the sound. "I'm human," he said. "This doesn't alter that."
 
-He tapped his chest, gently because Mother disliked the sound.
+"You had a face like mine for most of your life," I said. "Ibby never will."
 
-"You remember being a man," I said. "She won't."
-
-"I am a man," Father said. "I don't spend all day remembering it."
-
-That stopped me. He eased himself down beside the blanket. Small movements still took preparation, but he had learned to sit without asking anyone to steady him.
+Father looked at Ibby for a long moment. Then he eased himself down beside the blanket. Small movements still took preparation, but he had learned to sit without asking anyone to steady him.
 
 "When I was ill, I wanted to get out of bed," Father said. "That was mostly what I thought about. I wanted to come here. I wanted another pear, though they couldn't promise me pears. I wasn't deciding to become some new thing. I was scared I'd die before the work was finished."
 
@@ -168,7 +162,7 @@ Selvi had lowered herself until the river touched Ibby's back. The baby resumed 
 
 "What?"
 
-"Are you human?" I asked.
+"Are you human?"
 
 "I'm a cat," Mother said.
 
@@ -178,13 +172,13 @@ Mother stopped kneading. "There isn't a woman tucked under my fur."
 
 "I mean the part that thinks."
 
-"That part's enjoying the blanket too," Mother said.
+"That part's enjoying the blanket too."
 
 I pulled my cold feet from the water and sat on a patch of gravel. "You could be a woman this minute."
 
-"Yes. I was one on Tuesday," Mother said. "We played cards. I lost rather a lot."
+"Yes. I was one on Tuesday. We played cards. I lost rather a lot."
 
-"Then why aren't you one now?" I asked.
+"Then why aren't you one now?"
 
 Mother looked at me for a moment, ears forward. "Did you want me to be?"
 
@@ -192,7 +186,7 @@ I wanted to say no. I wanted the question to remain a reasonable question about 
 
 "Sometimes," I said. "It's easier to hug you."
 
-Mother stepped onto my leg. Her claws went through my skirt and she withdrew them when I flinched. I stroked her between the ears, in the place she liked; it was a small contact and I had asked for a large one.
+Mother stepped onto my leg. Her claws went through my skirt and she withdrew them when I flinched. I stroked her between the ears, in the place she liked.
 
 "I don't want to change today," Mother said.
 
@@ -214,7 +208,7 @@ Selvi grinned at Ibby. "We were very helpful children."
 
 I remembered the sweetness, hard at first, softening between my teeth, and the damp string that kept brushing my lips. We had danced round the table until we tore our paper garlands on the chair backs.
 
-"I thought you'd make those birds forever," I told Mother.
+"I thought you'd make those sugar birds forever," I told Mother.
 
 "They took an age," Mother said. "I was still putting the wings on when you got up. I couldn't get the icing off my fingers for days."
 
@@ -222,7 +216,7 @@ I remembered the sweetness, hard at first, softening between my teeth, and the d
 
 "I loved you having them," Mother said.
 
-It was close enough to agreement that I tried to leave it there. "Look how happy you are."
+"Look how happy you are."
 
 Mother withdrew her head from beneath my hand. "Your father had just sat on the spare cake. That's what I'm laughing at. I had a toothache. I'd been awake since before dawn and I wanted everyone to go home."
 
@@ -274,7 +268,7 @@ Ibby thrust a hand towards the fish. Selvi caught it and kissed the place where 
 
 Mother leaned forward. "Can she?"
 
-"For him," Selvi said. "Apparently I'm not funny."
+"For her dad," Selvi said. "Apparently I'm not funny."
 
 Selvi made a noise against Ibby's cheek. The baby turned her head with an expression of absorbed suspicion. My sister tried again, less confidently. Father chuckled, and Ibby stared at the opening in his face.
 
@@ -296,27 +290,27 @@ She settled against my stomach, making me lean back to give her room.
 
 "You knew all the names."
 
-"I made some up," Mother said. "You wouldn't accept that I didn't know."
+"I made some up. You wouldn't accept that I didn't know."
 
 "I still have a stone you called a sleeping tooth," I said.
 
-"Well, there you are," Mother said.
+"Well, there you are."
 
 I put my hand around her warm, narrow ribs. She breathed under it, watching something small move in the grass. I had never known she invented names; I had been proud of how much she knew.
 
 "Was it being a mother you got tired of?" I asked.
 
-"I got tired of being needed from the moment I opened my eyes," Mother said. "I liked you very much when you could find your own socks. I like you now."
+"I got tired of being needed from the moment I opened my eyes. I liked you very much when you could find your own socks. I like you now."
 
 She paused, then rubbed her cheek on my wrist. "And I like going under hedges. I thought I'd do it for a week when I first learned. Then there kept being things I wanted to do the next day."
 
 "You didn't tell us," I said.
 
-"I tried," Mother said. "You asked when I was coming back."
+"I tried. You asked when I was coming back."
 
 I had. Even after she'd moved to the little house beside Father's rooms, where I could visit either of them whenever I liked, I had asked.
 
-"I want to know about the hedges," I said, although part of me still wanted to know when she was coming back.
+"I want to know about the hedges," I said.
 
 Mother's ears swivelled. She seemed about to answer, but Father said, "Nearly time," and we reached for our lenses. Mother let me hook hers over her ears.
 
