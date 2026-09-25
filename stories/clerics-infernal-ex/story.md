@@ -10,9 +10,9 @@ canon: false
 
 The sanctuary door had swollen in the first cold rain of autumn. Emet Sarn put his shoulder to it while Udren lifted the latch, and together they admitted the last two carters from the road. Wet cloaks already covered every peg in the House of Common Shelter. Bedrolls crowded the common room between the plain altar and Bosk's stool by the stove.
 
-“One more hard shove in the morning,” Udren said, “and we will have a door-shaped hole.”
+“Wood swells this time of year,” Udren said. “I'll plane that door tomorrow.”
 
-“Then it will never stick again.” Bosk turned his hand drum toward the stove. Its damp hide gave a dismal little plunk. “I believe this is called preventive maintenance.”
+Bosk turned his hand drum toward the stove. Its damp hide gave a dismal little plunk. “Hear that? There goes my supper. Nobody ask me for a song till she dries out.”
 
 Emet had just found space for the carters beside a family with three snoring dogs when a red seam opened across the north wall.
 
@@ -44,7 +44,7 @@ He had told her he destroyed it.
 
 He had kept it in the stitched lining of his field breviary. Three days ago, at a crowded ford, someone had slit that lining and taken nothing Emet was willing to report missing.
 
-Now his leaf was mounted in a stranger's ironwork.
+Now his leaf was mounted in a stranger's ironwork, and the ironwork filled the sanctuary's old bricked-up doorway. The mortar around its clamps was still pale. Someone had set the frame into this House wall, on the circuit's known road, and left it dead until Emet walked within reach.
 
 Lacrixa followed his stare. “That does not look like ash.”
 
@@ -54,7 +54,7 @@ Lacrixa followed his stare. “That does not look like ash.”
 
 Udren leaned her weight into the shield as another hot gust struck. “How many people on your side?”
 
-Lacrixa turned at once. The tiled room behind her had once held a bed, two chests and a table Emet could never make sit level. It now held racks of glazed bowls. Past its open arch lay the kiln court: brick galleries, firing pits, wash troughs, and more than two dozen people trying to move hot ware out of the wind.
+Lacrixa turned at once and stepped back across the plane onto her own tiles. The tiled room behind her had once held a bed, two chests and a table Emet could never make sit level. It now held racks of glazed bowls. Past its open arch lay the kiln court: brick galleries, firing pits, wash troughs, and more than two dozen people trying to move hot ware out of the wind.
 
 “Thirty-one in the court,” Lacrixa said. “Six in this room. All adults, two with bad legs. How many here?”
 
@@ -76,21 +76,17 @@ The leaf under its iron clamps warmed at Emet's nearness. Across the plane, the 
 
 “Of course it does.”
 
-Udren continued moving guests behind her shield toward the front door. Lacrixa snapped instructions over her shoulder, and the kiln court answered with motion: workers banked firing pits, overturned sand bins onto sparks, and carried a limping glaze grinder away from the arch. Bosk settled his drum strap across his chest and gave the rim three clear taps.
+Udren continued moving guests behind her shield toward the front door. Lacrixa snapped instructions over her shoulder, and the kiln court answered with motion: workers banked firing pits, overturned sand bins onto sparks, and carried a limping glaze grinder away from the arch. Bosk settled his drum strap across his chest and marked each guest past him with a tap on the rim.
 
-“Three loops,” he said. “Seventeen guests. It is comforting when disasters can be counted.”
+“Eleven. Twelve. Easy with the dog, she's had a worse night than you.” The drum spoke once as a carter ducked through the ordinary door. “Thirteen.”
 
-“You are on twelve,” Udren told him.
-
-“Less comforting. Twelve.” The drum spoke once as a carter ducked through the ordinary door. “Thirteen.”
-
-Emet approached the first loop. Heat pressed against his eyes. On the far side Lacrixa matched him, bracing one clay-white hand against the iron. They had moved kiln shelves together, long ago, and carried sacks of House grain up narrow stairs. His body remembered where she put her weight. That was not the same as knowing her. His body did not care.
+Emet approached the first loop. Heat pressed against his eyes. Lacrixa matched him from her own tiles, leaning through the red throat to brace one clay-white hand against the iron's far edge. They had moved kiln shelves together, long ago, and carried sacks of House grain up narrow stairs. His body remembered where she put her weight. That was not the same as knowing her. His body did not care.
 
 “On Bosk's fourth beat,” Emet said. “Lift, quarter-turn toward the court, then down.”
 
 “It will bind on your lower corner.”
 
-“The corner is clear.”
+“The corner's clear.”
 
 Lacrixa rapped the iron with one knuckle. The note came back flat. “That is the sound of a corner preparing to embarrass a cleric.”
 
@@ -128,27 +124,25 @@ Light flared orange through the seams of her clenched fingers. She put a hand ag
 
 Bosk flattened his hand against the drumhead.
 
-Lacrixa took her palm from the wall. Little glazed scales clung to it. “I left my leaf where everyone in my court could see it. It was dead. I wasn't tearing out good tile because you left.” The air shook above her shoulders. “Pride. Mine. But you told me its twin was ash.”
+Lacrixa took her palm from the wall. Little glazed scales clung to it. Emet's eyes had already gone past her, to the bronze strip above the tile border.
+
+“Yes, it is still up. I left my leaf where everyone in my court could see it. It was dead. I wasn't tearing out good tile because you left.” The air shook above her shoulders. “But you told me its twin was ash.”
 
 “I know.”
 
-“Were you about to tell me I kept mine too?”
-
-Emet rubbed his thumb across the iron.
-
-“Of course.” She scraped the glaze from her palm. “Before I put my hand into the middle of this thing, I want the rest. Did the House ever forbid us?”
+She scraped the glaze from her palm. “Before I put my hand into the middle of this thing, I want the rest. Did the House ever forbid us?”
 
 There was no safe category of answer. He had spent nine years inventing them anyway.
 
-“No,” Emet said. His burned hand slipped on the iron. “The House of Common Shelter never forbade our relationship.”
+“No,” Emet said. His burned hand slipped on the iron, and he set it back. “They never said a word against us. Not once.”
 
 Lacrixa went still. Behind her, court workers dragged a wheeled rack away from the arch. One wheel screamed on its axle.
 
-“The circuit takes twenty years,” Emet said. “No posting beyond one season. Every first frost, I packed while the people around me banked the hearth. If we had stayed together, you would have had to leave your court again and again, or I would have had to give up the circuit.”
+“The circuit's twenty years,” Emet said. “Never more than a season in one place. Every first frost I packed while the people around me banked the hearth. If we'd stayed together, you'd have had to leave your court every season. Or I'd have had to quit the road.”
 
 “So you chose.”
 
-“I chose the road.” His breath would not finish. “I said they chose for me.”
+“I chose the road.” He had to stop for breath. “I said they chose for me.”
 
 The crossing gave a deep metallic groan. Emet's right boot skidded toward it.
 
@@ -166,11 +160,11 @@ Udren came in behind him but did not seize him. She planted her shield edge on t
 
 He leaned. Its oak face held firm between his shoulder blades.
 
-Udren's voice stayed low. “Next lift yours?”
+Udren's voice stayed low. “Next lift. Whose call?”
 
 “Mine.”
 
-“Then ask for it.”
+“Then ask her.”
 
 Emet looked across the red plane. “Lacrixa, will you help me take off the middle loop?”
 
@@ -186,7 +180,7 @@ Bosk stared after it for one beat.
 
 Then his heel hit the sanctuary floor. “Six. Again. One, two—”
 
-His count was smaller without the drum, and more stubborn. Emet and Lacrixa worked the warped loop up by increments. Lacrixa's breath rasped. Emet's burned glove stuck to the iron. Udren held the shield behind him without pushing.
+His count was smaller without the drum, and more stubborn. Emet and Lacrixa worked the warped loop up by increments. Lacrixa's breath rasped. Emet's burned glove stuck to the iron. Behind him, Udren's boots scraped for purchase on the stone.
 
 At six, the middle loop cleared its catches. Lacrixa kicked her side away. Emet dragged his down. It struck the first loop, and both went dull.
 
@@ -200,7 +194,7 @@ From the kiln court came a shout. The limping glaze grinder had returned for a l
 
 The ring screamed.
 
-Lacrixa caught the grinder under both arms. Emet locked his hands around the near arc to keep it from folding across the man's body. Udren set her shield against his back and braced one boot against the altar step.
+Lacrixa caught the grinder under both arms. Emet locked his hands around the near arc to keep it from folding across the man's body. Udren set her shield against Emet's back and braced one boot against the altar step.
 
 “Pull him courtward,” Emet said.
 
@@ -208,7 +202,7 @@ Lacrixa caught the grinder under both arms. Emet locked his hands around the nea
 
 Bosk stamped. “One. Two. Three.”
 
-The iron tried to close. Emet's burned palm opened against it.
+The iron tried to close. The blisters on Emet's burned palm split against it.
 
 He held.
 
@@ -224,7 +218,7 @@ He held.
 
 The inner loop remained open between them. Lacrixa straightened slowly. Behind her, the grinder was carried out beneath the court arch. The old room stood empty except for broken bowls, her mounted leaf, and the wreck of Bosk's drum.
 
-“Emet,” Udren said. She did not increase the pressure of the shield. “The approach is clear.”
+“Emet,” Udren said, breathing hard against the shield. “The approach is clear.”
 
 “Wait.” His arms shook. “If I let the ring go, the crossing closes.”
 
@@ -232,7 +226,7 @@ The inner loop remained open between them. Lacrixa straightened slowly. Behind h
 
 “We can take the leaves out of this rig and mount them properly. Only as a rescue route. Or we could—”
 
-“There is no reunion,” Lacrixa said. “Not now. Not after. Do you understand me?”
+“No,” Lacrixa said. “I am not mounting anything of yours again, rescue route or otherwise. Do you understand me?”
 
 He did. His hands did not open.
 
@@ -244,25 +238,25 @@ Emet looked at the gray cloth pinched beneath his leaf. With his free hand, he b
 
 “Goodbye, Lacrixa,” Emet said.
 
-Her jaw worked once. “Goodbye, Emet.”
+The hammer's claws shifted under her leaf. “Goodbye, Emet.”
 
 On Bosk's third beat, Lacrixa levered her leaf in two against the tiled jamb. Emet drove his palm down on his. The keyed bronze split beneath his blood. Red light ran through both broken leaves and collapsed toward his fingers.
 
 Emet withdrew.
 
-The inner loop fell flat on the sanctuary floor. The rectangle filled with a brief view of the old room: Lacrixa standing amid broken glaze, one hand on the shoulder of the injured grinder. Then there was only the north wall, wet stone, and a cooling iron ring.
+The inner loop fell flat on the sanctuary floor. The rectangle filled with a brief view of the old room: Lacrixa standing alone amid broken glaze, the kiln hammer hanging from one hand, already turning toward the arch where they had carried the grinder. Then there was only the north wall, wet stone, and a cooling iron ring.
 
 For the next hour Emet worked on the sanctuary's injured. Two guests had blistered forearms from the first kiln gust. A carter had struck her head against Udren's shield, and Bosk's snapped strap had left a purple weal across his collarbone. Emet washed grit from eyes, spread burn salve, checked the carter's pupils twice, and wrapped his own palm last.
 
-When everyone could sit without falling over, he gave Udren and Bosk the full account. He told them when he had taken the leaf, what he had told Lacrixa, where he had hidden it, and why he had said nothing after the lining was cut at the ford. Bosk sat on the altar step with the broken end of his drum strap in his lap. Udren wrote each fact in the field ledger.
+When everyone could sit without falling over, he gave Udren and Bosk the full account. He told them when he had taken the leaf, what he had told Lacrixa, where he had hidden it, and why he had said nothing after the lining was cut at the ford. Bosk sat on the altar step with the broken end of his drum strap in his lap. Udren wrote each fact in the field ledger, then added a line about the frame someone had mortared into the north wall.
 
 When Emet finished, she turned the ledger around. She had struck his name from solo threshold watch and from route decisions.
 
-“Until field trust is rebuilt,” she said. “No threshold watch alone. No choosing our routes. Do you accept that?”
+“Read it,” she said. “Yes or no?”
 
 “Yes.”
 
-Udren nodded. She unwound the bandage he had tied one-handed, smoothed the twisted pad, and wrapped his palm again without pulling the knot too tight.
+Udren nodded. She unwound the bandage he had tied one-handed, smoothed the twisted pad, and wrapped his palm again.
 
 Bosk disappeared into the pantry. He returned with a cup of water and sat beside Emet, their shoulders not quite touching.
 
