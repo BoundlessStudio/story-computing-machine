@@ -182,7 +182,7 @@ Alexstrasza went to the tool wall and brought back a moon-iron pin, one of the o
 
 The water flattened.
 
-For one breath, all was still. Then heat crossed the ice beneath the pin and cast a dark band on the far side, a shadow cast by warmth.
+For one breath, all was still. Then heat crossed the ice beneath the pin and cast a dark band on the far side, a shadow made by warmth.
 
 Inside Alexstrasza, an elder's long-carried residue tightened the muscles along her left wing in an urgent southward turn. Another left the taste of cold metal behind her teeth. Ygdrane's snow rose against gravity.
 
@@ -334,7 +334,7 @@ Ulune looked at the goat. "Boil it."
 
 Parrox considered this, then dragged the meat toward the largest pot.
 
-By midmorning, some of the older youths had chosen to fly to nearby rookeries with copies of Ulune's marks. Three wanted to go north when their strength returned and find where it began, without speaking near it. Ceryth did not assign either group. She checked their wing edges, divided the resin, and made each dragon choose aloud only when a short answer would do.
+By midmorning, some of the older youths had chosen to fly to nearby rookeries with copies of Ulune's marks. Three wanted to go north when their strength returned and find where it began, without speaking near it. Ceryth did not assign either group. She checked their wing edges, divided the resin, and had each dragon say its choice aloud. One word would do.
 
 Others stayed to repair Stillfire. They packed clear ice into the cracked channels and hauled spoiled ash outside. The smallest slept through the hammering.
 
@@ -346,7 +346,7 @@ She carried him to the outer shelf. Ceryth came behind with the ash cloth, limpi
 
 "It's counted." Ceryth went around to the far side of the cairn.
 
-Together they settled Ygdrane beneath the cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
+Together they settled Ygdrane inside the ring of cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
 
 From inside the temple came five floor knocks. A pause. Then three, one, two.
 
