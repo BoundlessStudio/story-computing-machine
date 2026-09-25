@@ -10,7 +10,7 @@ canon: false
 
 On the last evening of her fourth month as an imperial bride, Tazri Solun, thirty-four, Duchess of Merevale, stopped three paving stones short of the place where she was required to turn.
 
-The forbidden Gilded Garden had been built for obedience disguised as pleasure. Pear trees trained against warm brick made identical fans, and finches sang in gilt cages hung at even intervals along the wall. Sunset reached the path through pierced screens, cut into lozenges of approved gold.
+The forbidden Gilded Garden of Karevic Palace had been built for obedience disguised as pleasure. Pear trees trained against warm brick made identical fans, and finches sang in gilt cages hung at even intervals along the wall. Sunset reached the path through pierced screens, cut into lozenges of approved gold.
 
 Her veil approved less of her. It was pearl gauze, nearly transparent, fixed at one shoulder and gathered by a jeweled clasp at her left hip. The court called it bridal modesty. Four months of guards had watched the shape of her breasts through it while two witnesses recorded that no unauthorized person had approached.
 
@@ -68,7 +68,7 @@ He was quiet a long moment. “My safe-conduct runs until moonset.”
 
 His slowness could feel like cruelty when she had made herself plain. Tazri gathered the loose veil at her hip. “Then use it. Ride away clean while he takes my levy.”
 
-Jaseth looked toward the diplomatic court beyond the warming room, where his gate was, then back at her. He did not say it.
+Jaseth looked toward the diplomatic court beyond the warming room, where his gate was, then back at her. He did not answer.
 
 “If I wanted to run, I would have worn shoes for it.” She lifted the gauze enough to show the pearl slippers the court selected for garden gravel. Anger steadied her better than dignity. “I want the tribunal petition carried. I want the witness register beyond his gate. I want one thing tonight that he did not arrange.”
 
