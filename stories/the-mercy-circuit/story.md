@@ -52,9 +52,9 @@ She nods once.
 
 "I need it spoken. The shield recorder doesn't count nods."
 
-"You carry the weight and I'll do the moving. If it sounds again I freeze where I am."
+"Yes. Take the weight."
 
-You take the weight through an insulated sling while she lowers the arm. At the lip of the tray, the violet fringe thickens. Her fingers close. The three notes sound. Heat punches through the sling into your palms, but the tray's ceramic vanes rise and drink the charge into a dull orange seam.
+You take it through an insulated sling while she lowers the arm. At the lip of the tray, the violet fringe thickens. Her fingers close. The three notes sound. Heat punches through the sling into your palms, but the tray's ceramic vanes rise and drink the charge into a dull orange seam.
 
 The woman sways against the counter.
 
@@ -83,10 +83,6 @@ You point to the privacy choices on the screen rather than turning it toward you
 "Who gets to see what's in the arm?"
 
 "The kiosk reads the electrics. Your sensory log stays on you. If I ever need it, I ask first."
-
-"And the arm?"
-
-"Yours."
 
 Her eyes move to the closing clock. "Go on, then. Test it. You stay out of my log."
 
@@ -242,7 +238,7 @@ Serren studies the output chart. "Will it still go through radiator spine?"
 
 "It's clean. Stripped hull, nothing armored." She places her left thumb on the estimate. "Do it."
 
-"Opening the shoulder is a separate yes," you say. "Privacy curtain closed. Your log stays on your arm. I need you awake enough to tell me what you feel when I test. You can stop me any time."
+"Opening the shoulder is a separate yes," you say. "Privacy curtain closed. I need you awake enough to tell me what you feel when I test. You can stop me any time."
 
 "Open it. Same as before about the log."
 
