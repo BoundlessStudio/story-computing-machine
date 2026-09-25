@@ -12,7 +12,7 @@ At eleven minutes before my daughter's eighteenth birthday audience, I sentenced
 
 He had brought ledgers, witnesses, and the carcass tag from the last pack beast in his district. Fever had killed the animals. Without them, the ore carts had stopped; without ore, his quarterly payment had fallen short by nine iron bars. His defense was thorough. I disliked thorough defenses. They suggested that circumstance might outrank me.
 
-"The vaults, Majesty?" my treasurer asked. He had perfected the courtier's trick of making a question sound like praise.
+"The vaults, Majesty?" my chancellor asked. He had perfected the courtier's trick of making a question sound like praise.
 
 "The lowest vault," I said. "Seize his house against the deficit. His family may keep their clothes."
 
@@ -114,7 +114,7 @@ She had completed human equivalency examinations under a shortened version of he
 
 "We break beams here," I said.
 
-"Here you fine the masons. They put the beam in a press and measure where it cracks, and then they do it again with a different beam."
+"Here you fine the masons. There they put the beam in a press and measure where it cracks, and then they do it again with a different beam."
 
 "You can hire human tutors."
 
@@ -240,13 +240,13 @@ The admission papers trembled when she gathered them. She squared them against t
 
 I summoned my advisers.
 
-They came eager to transform affection into an operation. The marshal recommended six guards dressed as students, with another twelve in nearby rented rooms. The treasurer suggested purchasing the residence, then the neighboring buildings, then the college if negotiations became discourteous. My chamberlain proposed replacing Nimelza's assigned roommate with a trained attendant of similar age.
+They came eager to transform affection into an operation. The marshal recommended six guards dressed as students, with another twelve in nearby rented rooms. The chancellor suggested purchasing the residence, then the neighboring buildings, then the college if negotiations became discourteous. My chamberlain proposed replacing Nimelza's assigned roommate with a trained attendant of similar age.
 
 "Replacement by incentive, of course," he said. "Or by a discreet impediment to the original person's arrival."
 
 "No," Nimelza said.
 
-They continued. A private dining hall disguised as a student café. Faculty contracts backed by penalties. A tunnel beneath her laboratory. A compulsory midnight report. The marshal had already drafted a response plan for any human who saw her horns; the chamberlain called it a memory-hygiene measure.
+They continued. A private dining hall disguised as a student café. Faculty contracts backed by penalties. A tunnel beneath her laboratory. A compulsory midnight report. The marshal had already drafted a response plan for any human who saw her horns; the chancellor called it a memory-hygiene measure.
 
 With every proposal, I watched Nimelza become quieter. I took that silence to mean she was accepting the guards, until she took the folded half-roll from her pocket and set it beside my hand.
 
@@ -270,7 +270,7 @@ The chamberlain cleared his throat. "The young highness has expressed a prudent 
 
 "Leave," I said.
 
-He bowed too quickly. The marshal and treasurer followed. At the threshold, the marshal looked back for orders regarding covert deployment.
+He bowed too quickly. The marshal and chancellor followed. At the threshold, the marshal looked back for orders regarding covert deployment.
 
 "If you send anyone across tonight," I told him, "I will assign you to the tally vault beneath the reeve."
 
