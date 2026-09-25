@@ -82,7 +82,7 @@ The looks had become impossible not to count. A worker on a ladder paused with a
 
 None of the faces held the uncertain inspection of someone noticing a stranger at speed. They brightened, tightened, or simply arranged themselves for her arrival. People she had never met behaved as if she occupied a known place in the next few seconds of their day.
 
-She checked what they could see. Blue jacket despite the heat, because its inner pocket zipped. Black shorts. Red canvas bag. Hair tied up badly. A smear of pale grease might still mark one thumb from the clasp repair. The radios had been saying the jacket since the gate, which would account for the vests and the man with the cart. It did not account for vendors turning before she reached them, or the children, or the boy beside a stack of folded chairs calling, “She’s nearly here,” to someone she could not see.
+She checked what they could see. Blue jacket despite the heat, because its inner pocket zipped. Black shorts. Red canvas bag, her thin stall shoes lashed beneath it. Hair tied up badly. A smear of pale grease might still mark one thumb from the clasp repair. The radios had been saying the jacket since the gate, which would account for the vests and the man with the cart. It did not account for vendors turning before she reached them, or the children, or the boy beside a stack of folded chairs calling, “She’s nearly here,” to someone she could not see.
 
 Nearly where?
 
@@ -120,7 +120,7 @@ He dropped his hand when the gap cleared, turned the route post across it, and s
 
 The answer broke under drums and static. He leaned closer to hear.
 
-“I need the east lineup,” she said. “The children’s drums. I was supposed to be there already, I’ve got—I need the east lineup.”
+“I need to get to the east lineup,” she said. “The children’s drums. I was supposed to be there already.”
 
 “You came in on the close. Noon reset went early.” He pointed uphill with two fingers, not taking his eyes off the performers gathering ahead. “West saw you inside after the call. You’re the last wheels. Each section holds until you clear, then they turn the road over behind you.”
 
@@ -172,7 +172,7 @@ One mimed her stance, knees bent and arms loose. The child in the cardboard helm
 
 The explanation made the child lean farther into the lane to see.
 
-Ahead, the standard bearer started through the bend. An escort would put a bright vest beside her and clear a path through children already prepared to believe that where she went, wheels could go. Every section would have to hold for her, and then for whatever smaller body tried to follow the gap she made.
+Ahead, the standard bearer started through the bend. An escort would put a bright vest beside her and clear a path through children already prepared to believe that where she went, wheels could go.
 
 “No escort,” she said.
 
@@ -210,7 +210,7 @@ She lifted from the inside. It came free.
 
 “Good,” he said, already looking elsewhere.
 
-Her thin shoes were lashed beneath the red bag, carried for the stall shift. She pulled them on without socks, tied them once, and hooked two fingers through the frames of both skates. The sudden height loss made the crowd look different. Openings that had been lines became patches of ground occupied by ankles, dropped wrappers, cable covers, and the wide splayed feet of tables.
+She freed the thin shoes from beneath the red bag, pulled them on without socks, tied them once, and hooked two fingers through the frames of both skates. The sudden height loss made the crowd look different. Openings that had been lines became patches of ground occupied by ankles, dropped wrappers, cable covers, and the wide splayed feet of tables.
 
 The worker raised the barrier just enough. She ducked under, held the bag below the awning cord, turned sideways past the vendor’s crates, and stepped onto gravel.
 
@@ -242,11 +242,11 @@ She put the phone away and ran badly in shoes made to survive a shift behind a c
 
 At the east lineup, children with drums stood in two bent rows behind a temporary rope. Their harnesses made black angles over bright shirts. Her niece was at the end of the nearer row, the drum tilted against one knee while an adult worked at a knot in the short webbing strap. In place of the clasp, a length of cord had been tied twice and pulled hard. It held the drum too high.
 
-Her niece saw the red bag first. “Did you bring it? You brought it?”
+Her niece saw the red bag first. “Did you bring it?”
 
-She was already unzipping the pocket. “Yes. I’m sorry. Yes.”
+She was already unzipping the pocket. “Yes. I’m sorry.”
 
-“We go after this one. The marshal said after this one we go.”
+“The marshal said we go after this one.”
 
 “Then keep still.”
 
