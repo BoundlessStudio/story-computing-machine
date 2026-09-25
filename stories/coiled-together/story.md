@@ -404,7 +404,7 @@ My cousin’s hand tightened on my shoulder. I kept my eyes on the queen.
 
 “I’ll take the trial. One recovery night first.”
 
-The attendant glanced at my bruised ribs. “Ribs bruised. Palm open. One night.”
+The attendant looked me over. “Ribs bruised. Palm open. One night.”
 
 The queen said, “Sleep, then.”
 
