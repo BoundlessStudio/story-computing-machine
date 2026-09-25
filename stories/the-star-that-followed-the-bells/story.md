@@ -140,7 +140,7 @@ Nali waited until the pale blur of her coat reached the cairn. She struck the lo
 
 At the cairn, Mavek repeated the two notes. The ship's body tilted north. Nali struck again from the spring, and it tilted back toward her.
 
-"It's choosing the sound's place," Mavek said over the radio.
+"It turns to whoever rang last," Mavek said over the radio.
 
 "Maybe. Change the call. Stay where you are."
 
@@ -204,7 +204,7 @@ They repeated the exchange from the cairn. Then from the spring. On the third tr
 
 "We can't make that sheep ring on order."
 
-The bell sounded again as the ewe scratched its neck against the wall.
+They waited through most of a cold minute. Then the ewe scratched its neck against the wall, and the loose bell sounded again.
 
 Nali completed nothing. The ship did nothing.
 
