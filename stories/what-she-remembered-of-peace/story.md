@@ -110,7 +110,7 @@ Anvek looked at the cradle, the parapets, the smoke, the slice of street visible
 
 “No. We can lower them when the light turns blue.”
 
-“The lamp says the rail is clear. It doesn’t see the drone.”
+“Blue means the rail is clear. The lamp doesn’t see the drone.”
 
 “And opening that thing could burn out your joints.”
 
@@ -162,7 +162,7 @@ Olyne released the latch while Anvek worked the brake. The cradle dropped throug
 
 “One down,” Gess said. “Ten here.”
 
-Before the next descent, Olyne clipped the portable pack to the fifth-floor woman’s harness. The roof set was down to its last red bar, and the shelter would need power to keep talking to anyone.
+Before the next descent, Olyne clipped the portable pack to the fifth-floor woman’s harness. The roof set was down to its last red bar, but it was no use at all if the shelter’s repeater lost power.
 
 They found a rhythm that belonged to no drill. Ask. Clip. Amber. Wait. Blue. Move. Anvek opened the library for fragments of each descent and closed it while the cradle climbed empty. Olyne prepared the next rider, altered straps, kept the couple from crowding the rail, and stopped saying hurry when hurry conveyed nothing useful.
 
