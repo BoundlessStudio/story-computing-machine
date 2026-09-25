@@ -84,7 +84,7 @@ They tested the command with an empty punt. Orselle told the water under its bow
 
 "Not that phrase again," Ossa said. "North quay, retie the fish boats. Confirm each one."
 
-"I didn't say what," Orselle said. Her own voice sounded thin beside the pressure in her chest. "So it dropped everything."
+"I didn't say what," Orselle said. Her own voice sounded thin beside the pressure in her chest. "So it dropped the whole quay."
 
 "Then say what. Every time."
 
