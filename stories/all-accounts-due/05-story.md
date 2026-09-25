@@ -8,7 +8,7 @@ created: 2026-08-05
 
 The Ithrom Array hung where six world-curves crossed, and every kind of magic in the material world had come to kill Faris.
 
-One hand bruised, Faris crouched behind a pillar of ordinary stone. Six empty sockets ringed the Unwritten Axis, each with a keystone waiting in its cradle; the Parity Astrolabe hung above, its needles out of true. The Mortal Latch sat cradled at his knee, three body-lengths from the recess where it had to be seated. He had not gathered the eight relics for this. They had come to him one debt at a time over thirty-one years.
+One hand bruised, Faris crouched behind a pillar of ordinary stone. Six empty sockets ringed the Unwritten Axis, each with a keystone waiting in its cradle; the Parity Astrolabe hung above, its needles out of true. The Mortal Latch sat cradled at his knee, lever folded, its firing cotter strapped to the housing, three body-lengths from the recess where it had to be seated. He had not gathered the eight relics for this. They had come to him one debt at a time over thirty-one years.
 
 Beyond, a luminous city walked; black fire ate a fortress; dragons stitched horizons; palaces filled three skies; an aurora held a mountain; soldiers exchanged organs and wings.
 
@@ -64,7 +64,7 @@ Faris entered the palace prison dressed as a laundry porter, carrying wet sheets
 
 Nine prison wings occupied the same foundation. King Malrec's heartbeat chose which arrangement a corridor wore, and every arrangement beyond the base made that heart spend its years faster. With one beat, Faris passed cells full of debtors. With the next, the same doors held soldiers. Another beat revealed an empty banquet hall through the bars. Living people remained one body each, crossing between rooms only at permitted thresholds. The stone was less disciplined. It could be wall, stair, ceiling, and oubliette before a guard finished yawning. The king could maintain the palace's grandeur only by aging inside it.
 
-The Sole Chamber governed Manyroom from a bronze model no bigger than a thumb. Faris had been told to follow a scratched line along the base wall until it ended under the royal archive.
+The Sole Chamber governed Manyroom from a bronze model no bigger than a thumb. Lifted from its hiding place, it would fold every wing back into the base prison, where the debtors' families could find them. Faris had been told to follow a scratched line along the base wall until it ended under the royal archive.
 
 He followed the wrong scratch.
 
@@ -360,7 +360,7 @@ Ekkorath hit it wing-first.
 
 Faris crossed the last length before stolen weight drove one knee down. He crawled to the recess, inserted the ceramic bearing, and twisted until its shoulder seated flush. The housing pivoted beneath the Axis; the lever remained folded, the cotter strapped, and all six plungers extended.
 
-Their heads showed the selector's instruction: Preserve matter. End function. Faris pressed them in order, each stopping short of contact, and braced the housing with his belt.
+Their heads showed the selector's instruction: Preserve matter. End function. Faris braced the housing with his belt.
 
 The Ascendancy reached for him through every magical being on the hub.
 
