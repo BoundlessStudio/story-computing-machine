@@ -32,11 +32,11 @@ The coils began to move. I felt myself tip toward open air and clutched at the f
 
 “There is a drop to your left,” she said. “I am putting you on the hide.”
 
-One of her two arms came beneath my shoulders. The other steadied my knees while her body unwound in stages: chest, hips, ankles last. She set me on a folded hide three paces from the ledge and took both hands away.
+One of her arms came beneath my shoulders. The other steadied my knees while her body unwound in stages: chest, hips, ankles last. She set me on a folded hide three paces from the ledge and took both hands away.
 
-I rolled onto my elbows. The cave swayed. My knife and belt lay beside a wet pack, close enough to reach. I dragged the knife free before I looked at her.
+I rolled onto my elbows. The cave swayed. My knife and belt lay beside a wet pack and my rolled saddle blanket, close enough to reach. I dragged the knife free before I looked at her.
 
-She had drawn herself into a wide curve along the edge of the shelf. Seven metres, perhaps, from the human-shaped rise of her ribs to the blunt end of her tail. A storm-grey wrap crossed one shoulder and covered the join of her arms to her scaled trunk. Below it, a dark stain spread along her right flank. One of the serpentfolk’s feared queens, if the notched copper bands on both forearms meant what the caravan guards said they meant.
+She had drawn herself into a wide curve along the edge of the shelf. Seven metres, perhaps, from the human-shaped rise of her ribs to the blunt end of her tail. A storm-grey wrap crossed one shoulder and fell to where her waist gave way to scale. Below it, a dark stain spread along her right flank. One of the serpentfolk’s feared queens, if the notched copper bands on both forearms meant what the caravan guards said they meant.
 
 Behind her, a smaller serpentfolk knelt over an open medicine case. The attendant held a strip of cloth in both hands and watched the queen’s wound, not my knife.
 
@@ -54,9 +54,9 @@ My grip tightened. “I asked you to wrap me like that?”
 
 The attendant pressed the cloth to the queen’s flank. The queen’s fingers closed once on the stone, then opened.
 
-“That request governed the climb,” she said. “You asked for release now. I released you.”
+“You were cold through and a pace from that drop, and you fought me every time I eased,” she said. “Should I have set you down on the edge? You asked for release. I released you.”
 
-Rain boomed somewhere inside the mountain. The lamp flame bent, recovered, and drew light across a crown-shaped rim of dry rock. Beyond it, black water churned far below. I remembered riding ahead of the caravan at dusk. I remembered the storm whistle at the cave mouth, three falling notes that meant shelter or danger depending on which roadwarden had carved it. After that came a coldness at my boots, though I could not place where.
+Rain boomed somewhere inside the mountain. The lamp flame bent, recovered, and drew light across a crown-shaped rim of dry rock. Beyond it, black water churned far below. I remembered riding ahead of the caravan at dusk. I remembered the storm pipe at the cave mouth, three falling notes that meant shelter or danger depending on which roadwarden had carved it. I had taken them for shelter. After that came a coldness at my boots, though I could not place where.
 
 I asked, “How long was I senseless?”
 
@@ -68,7 +68,7 @@ I asked, “How long was I senseless?”
 
 “Which way out?”
 
-She pointed with an open hand. “The upper path. Flooded at the first bend. It should clear when the rain weakens.”
+She pointed with an open hand. “The upper path. It is flooded at the first bend. It should clear when the rain weakens.”
 
 “Why can’t I remember?”
 
@@ -84,33 +84,35 @@ The queen said, “Cold, carbon-heavy air settles in the basin. We taste it befo
 
 “You knew it was there.”
 
-“Earlier than you. Not early enough.” She touched the bandage at her flank. “I went down when I heard your whistle.”
+“I knew when I tasted it. By then you were already deep in it.” She touched the bandage at her flank. “I went down when I heard your whistle.”
 
-“That was your whistle.”
+“The pipe at the mouth?” Everyone on the road knew how serpentfolk brought travelers in. “Was that you, calling me in?”
 
-“No. Yours.”
+“That pipe belongs to the roadwardens, and it was cut to say danger. What I heard came from the basin. Brass, blown over and over until there was no breath behind it.”
 
-My brass storm whistle hung from the snapped loop of my belt. I picked it up. A thread of black-green scale remained caught in the broken leather.
+My brass whistle hung from my belt by a half-snapped loop. I picked the belt up. A black-green scale was caught in the torn leather, where something had gripped hard enough to split it. I did not remember blowing the whistle. I buckled the belt on.
 
 Somewhere above, stone rang twice. The attendant answered by striking the floor twice with the wooden handle of a spoon.
 
 I raised my knife.
 
-“Falling-stone warning,” the queen said. “Two taps. We have three drilled signals here: stop, move, and stone. Nothing else.”
+“That is the falling-stone warning,” the queen said. “We drill three signals here: stop, move, and stone. Nothing else.”
 
 The tapping came again, followed by a voice made thin by water and distance.
 
 My cousin.
 
+The attendant lowered the spoon. “Human knocking. Not stone.”
+
 I lurched to my feet. The queen did not move to block me, but the ledge tilted under my boots. I planted one hand on the wall.
 
-“That is the low air’s remainder,” she said.
+“The low air is still in you,” she said.
 
 “Or your medicine.”
 
 “You have taken none.”
 
-The attendant held up the stoppered jar, as if that ended the subject.
+The attendant held up a stoppered jar from the case. The wax on its mouth was unbroken.
 
 I found the signal fissure behind a curtain of runoff. It was a split in the wall scarcely wider than my shoulders. A rope rasped within it. The queen could not have forced her upper body through, much less the rest of her.
 
@@ -118,23 +120,21 @@ I found the signal fissure behind a curtain of runoff. It was a split in the wal
 
 “Yes.”
 
-I had expected an argument and mistrusted the absence of one. “You don’t want your prisoner back?”
+I had expected an argument and mistrusted the absence of one. “That’s all? You’re letting me crawl off?”
 
 “I want to keep you,” she said.
 
 The words stopped me with one knee in the fissure.
 
-The attendant shut the medicine case. The queen added, “Six days. Paid. You know surface warning marks, and ours failed to turn you from the basin. I require someone who can tell me why.”
+“Keep me how?”
 
-“Keep me employed.”
-
-“If you accept.”
+The attendant shut the medicine case. The queen did not look away from me. “For six days, and paid. Our stakes at the basin edge should have turned you back. You went past them the way travelers do, as if they were an invitation. You know how people on the road read a warning. I want someone who can tell me why they misread ours.”
 
 “And if I don’t?”
 
-“Leave when the upper path opens.”
+“Then you leave when the upper path opens. Nobody here will stop you.”
 
-No plea for trust. No smile. She settled lower while the attendant tucked the medicine case under a rock lip.
+She settled lower while the attendant tucked the medicine case under a rock lip.
 
 I crawled into the fissure.
 
@@ -180,7 +180,7 @@ The carrier said, “Wait. That edge is shedding.”
 
 “Pull,” my cousin ordered me. “Now.”
 
-I had one knee on the chalk lip when they hauled. The rope snapped tight under my arm. White stone broke with the sound of a plate struck against a table.
+I had one knee on the chalk lip when my cousin hauled. The rope snapped tight under my arm. White stone broke with the sound of a plate struck against a table.
 
 The fissure floor dropped.
 
@@ -204,9 +204,9 @@ The rope lay across the new channel, slapping in muddy water. Its free length st
 
 “Come up the line,” my cousin said.
 
-“Slack. The ledge under them is going.”
+“Slack. This ledge is going.”
 
-The queen had braced her tail against the alcove wall. Blood ran fresh beneath her bandage. The attendant, one arm hanging close to the body, peered past her at the water.
+The queen had braced her tail against the alcove wall. Blood ran fresh beneath her bandage. The attendant, one arm hanging close to their side, peered past her at the water.
 
 “Shoulder,” the attendant said. “Mine. Not broken. Queen’s cloth is through. Two people above. One below standing badly.”
 
@@ -216,7 +216,7 @@ The attendant looked at my feet. I looked too. One boot was planted half in the 
 
 The air had changed. The lamp flame near the floor was a small blue bead now. Cold climbed inside my trousers. Thoughts arrived like badly packed cargo: rope, cousin, queen, exit, and no certainty about which had to move first.
 
-The queen tasted the air with a quick opening of her mouth. “The basin is being pressed upward.”
+The queen tasted the air with a quick opening of her mouth. “The water is rising under the low air and pushing it up to us.”
 
 “Bad air rising?”
 
@@ -228,15 +228,15 @@ The queen tasted the air with a quick opening of her mouth. “The basin is bein
 
 “How long?”
 
-“I cannot measure it.” Her precision had shortened to its bones. “We climb now.”
+“I cannot measure it.” She was already reaching for the attendant. “We climb now.”
 
 The obvious way was the fissure. Its lip had just proved what it thought of us. I looked past the queen instead, following the route as I would judge a washed trail: where silt gathered, where water ran clear, where a crack stayed dry because air moved through it. High above the attendant’s alcove, a seam of grey showed between leaning slabs.
 
-“That chimney,” I said. “Does it reach the mouth?”
+“That chimney,” I said. “Does it go out?”
 
-“A hand’s width at the top,” the attendant said. “Enough air.”
+“Out. A hand’s width at the top,” the attendant said. “Enough air.”
 
-“Enough for us,” the queen said. “The upper opening is wider behind the slab.”
+“Behind the slab it opens wider,” the queen said. “Wide enough for my body.”
 
 My cousin called, “No. Take the rope here.”
 
@@ -264,7 +264,7 @@ The queen crossed the foaming cut first, not by clearing it but by filling its s
 
 The attendant answered with one tap of the spoon against stone: the drilled signal for movement. Then they slid along the inside of the queen’s braced body, one useful arm working, feet testing each hold. The queen took their weight when the ledge crumbled under a heel. Her wounded flank trembled.
 
-I fed the padded rope across behind the attendant and passed it up. The carrier caught it, wrapped the sharp horn, and called the load each time they changed hands. My cousin obeyed for three breaths, then reached down for me.
+I knotted my saddle blanket around the rope, fed it across behind the attendant, and passed the bundle up. The carrier caught it, padded the sharp horn, and called the load at every change of hands. My cousin obeyed for three breaths, then reached down for me.
 
 “Come while she’s holding it.”
 
@@ -274,7 +274,7 @@ The water seemed to split into two channels, then four. My cousin’s arm double
 
 The queen said, “I can brace the break or carry you. Not both.”
 
-“Then leave them,” my cousin said. “We have the line.”
+“Keep your coils off my kin,” my cousin said. “We have the line.”
 
 “The line isn’t on me,” I said.
 
@@ -302,7 +302,7 @@ Fear went through me so cleanly that for a moment I could think again. I pointed
 
 “You can’t stop bracing yet,” the carrier called. “Give me ten breaths.”
 
-They threw a loop to my cousin, who caught it and cursed at the force. The carrier talked them through a body belay: feet against the rear wall, rope across the padded horn, no wrapping a wrist. My cousin tried to hurry; the carrier made them reset one sliding boot. I called the chimney holds. The queen shifted her brace when I called. Above, the carrier set the anchor and my cousin took the hauling side.
+The carrier threw a loop to my cousin, who caught it and cursed at the force. The carrier talked them through a body belay: feet against the rear wall, rope across the padded horn, no wrapping a wrist. My cousin tried to hurry; the carrier made them reset one sliding boot. I called the chimney holds. The queen shifted her brace when I called. Above, the carrier set the anchor and my cousin took the hauling side.
 
 I clipped my belt ring to the line and crawled close to the queen. Her body moved around me, one measured band at my hips, another under my arms. The pressure stayed clear of the hand-width I had shown her.
 
@@ -322,7 +322,7 @@ The queen did not answer at all. Her attention was on the carrier.
 
 My cousin took the strain. The rope tightened from my belt to the horn, replacing some of the pull the queen’s tail had held. The attendant struck one tap. Move.
 
-The queen unhooked her tail from the basalt knob.
+The queen unhooked her tail from the rib of stone.
 
 For one breath we hung over the cut, the rope carrying part of me, her left hand on the chimney slab, her right arm clamped to a seam. Then her body drove forward. Water hit my boots. The fresh bandage at her flank split, and her next breath came as a dry click, but she crossed. She placed me on the shelf beside the medicine case.
 
@@ -330,7 +330,7 @@ For one breath we hung over the cut, the rope carrying part of me, her left hand
 
 The coils opened before the last sound left my mouth. She kept one palm under my elbow until my weight was on stone, then removed it.
 
-The carrier hauled. My cousin pulled in time rather than ahead of them. I crawled upward, pushing the medicine case while the attendant climbed one-handed before me. Below, the queen withdrew the final length of her tail just as the crown ledge broke and went into the basin.
+The carrier hauled. My cousin pulled in time with the carrier rather than ahead. I crawled upward, pushing the medicine case while the attendant climbed one-handed before me. Below, the queen withdrew the final length of her tail just as the crown ledge broke and went into the basin.
 
 She came last, using both arms and the pressure of her long body against opposite walls. Halfway up she stopped.
 
@@ -342,21 +342,23 @@ Nobody translated it into more. The attendant flattened. I jammed the medicine c
 
 The air changed first. It lost the cold mineral weight. Then the chimney widened, and rain-grey light showed an upper mouth beyond a row of teethlike rocks. We crawled into fresh wind one by one.
 
-The path outside had become a brown torrent, too deep to cross before morning. For the moment, the mouth was as far as rescue went.
+Outside, the upper path had become a brown torrent, too deep to cross before morning. For the moment, the mouth was as far as rescue went.
 
 The attendant made us sit by the outer wall and distributed the remaining water without discussion. The queen lay along the inner rock while the attendant cut away her ruined bandage. My cousin hovered over me, touching my shoulder every few breaths as though I might disappear between one glance and the next.
 
-“We take you as soon as that drops,” they said.
+“We take you down as soon as that drops,” my cousin said.
 
 “If it drops enough.”
 
 “It will.”
 
-The carrier inspected the rope’s abraded span. “Not by dawn, unless the rain stops now.”
+The carrier inspected the rope’s abraded span. “Not by dawn, unless the rain stops now. And not on this strand.”
 
-“I wasn’t asking you.”
+“She offered me work,” I said. “Six days, and she’d pay. She wants to know why people ride past her warning stakes.”
 
-“I was answering the load.”
+“Those were her words?”
+
+“She said she wants to keep me.” I had not meant to repeat that part.
 
 My cousin rounded on the queen. “You stay away from my kin.”
 
@@ -364,43 +366,47 @@ The queen’s face had gone still with pain. “They are free to sit where they 
 
 “You call wrapping them free?”
 
-“I saw one carry,” the carrier said. They ran a thumb over a damaged strand. “Requested. Released at the shelf. I saw the queen hold the attendant when the ledge went. I did not see what happened below before we arrived.”
+“I saw one carry,” the carrier said. They ran a thumb over a damaged strand. “Your kin asked for it. I had them on the line, but she carried most of the weight across. She put them down on the shelf and let go when they said. Before that she had the attendant when the ledge went.”
 
-“You heard her say she wanted to keep them.”
+“You heard my kin just now. She wants to keep them. Her word.”
 
-“I heard half the sounds in that throat.”
+“When she was talking through that crack, all that came up was hissing.” The carrier went back to the strand.
 
 My cousin looked at me. “You’re not taking this offer.”
 
-The command landed where concern had been. I understood both and liked neither.
+Their hand was still on my shoulder.
 
 I asked the queen, “The six days. What pay?”
 
-“Two silver weights per day. Meals. Surface work only once the path is safe.”
+“Two silver weights for each day, and your meals. I would not send you out to the stakes until the path is safe to walk.”
 
-“Sleeping place?”
+“Where would I sleep?”
 
-“The private niche beside this mouth.”
+“In the niche beside this mouth.”
 
 I looked. It was dry, human-sized, and completely open on one side.
 
 “No door,” I said.
 
-“There is no door.”
+“The air moves better through it without one.”
 
-“I come to the mouth every day.”
+“And when the upper path opens, I can leave. Even if the six days aren’t done.”
 
-“Yes.”
+“Yes. You will be paid for the days you worked.”
 
-“Unrestricted. And when the upper path opens, I can leave before the six days are done.”
+I looked at my left hand, cut before the rope ever burned it. The edge of a copper arm band would open a palm like that, if someone held on to it hard enough.
 
-“Yes. You are paid for the days worked.”
+“In the basin,” I said. “How many times did I ask you?”
+
+“I stopped counting on the climb,” she said. “By then you had no breath for it. You held on to my arm band until the ledge.”
+
+My cousin’s hand tightened on my shoulder. I kept my eyes on the queen.
 
 “I’ll take the trial. One recovery night first.”
 
-The attendant glanced at my bruised ribs. “Necessary.”
+The attendant glanced at my bruised ribs. “Ribs bruised. Palm open. One night.”
 
-The queen said, “Accepted.”
+The queen said, “Sleep, then.”
 
 My cousin swore under their breath. “She is dangerous.”
 
@@ -410,7 +416,7 @@ My cousin swore under their breath. “She is dangerous.”
 
 “No.”
 
-Nothing in the cave proved what had happened to travelers on other roads, or in other years. My cousin did not withdraw the accusation. The carrier did not offer the queen a clean character in exchange for one witnessed rescue. By the time the rain weakened, we had agreed only that nobody would attempt the outer path in darkness.
+By the time the rain weakened, we had agreed only that nobody would attempt the upper path in darkness.
 
 The attendant cleaned my palm, bound it, and sent me to the niche. I laid out my own bedroll there, with my pack and knife beside it. Across the mouth, my cousin argued quietly with the rope carrier about the morning anchors. Deeper in, the queen asked for the narrow bandage instead of the broad one, and the attendant told her there was no broad one left.
 
