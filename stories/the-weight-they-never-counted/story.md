@@ -158,7 +158,7 @@ The cook pushed through the canvas with a bowl and your four heel cakes in one h
 
 “They last if you soak them.”
 
-She rapped one against the bowl, frowned at the sound, and set the cakes aside and the bowl in front of you, full to the rim. “Eat. Then there’s another.”
+She rapped one against the bowl, frowned at the sound, and set the cakes aside. The bowl she put in front of you was full to the rim. “Eat. Then there’s another.”
 
 “It can come from my wages.”
 
@@ -370,7 +370,7 @@ Your mouth had gone dry. “I think one hundred sixty should be ordinary. If tha
 
 The leader tapped the wax board against her palm. “If putting it down endangers someone?”
 
-“I call it before I lift.” You had to wet your lips. “If the ground changes, we stop. Crib it first. And I don’t catch things. Even if I’m told to.”
+“I call it before I lift. If the ground changes, we stop. Crib it first. And I don’t catch things. Even if I’m told to.”
 
 “That costs time.”
 
