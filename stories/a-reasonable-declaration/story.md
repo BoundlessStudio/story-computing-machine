@@ -174,7 +174,7 @@ Barnaby waited until she had found the right card. "Also the Voice of the Mounta
 
 "That makes ten entries accounted for." She copied the names. "What does it do, precisely?"
 
-"Carries your voice. You feed it a little power and it carries whatever you say. Through stone, if necessary." He leaned back. "At the fort I needed them to think the pass was held. So I held it. I called the watches from the east wall and answered them from the west. I had a sergeant with a cough. I had a boy who kept asking when supper was. By the second night they were sending out to parley with a company of fifty."
+"Carries your voice. You feed it a little power and it carries whatever you say. Through stone, if necessary." He leaned back. "At the fort I needed the besiegers to think the pass was held. So I held it. I called the watches from the east wall and answered them from the west. I had a sergeant with a cough. I had a boy who kept asking when supper was. By the second night they were sending out to parley with a company of fifty."
 
 "How many were there?"
 
