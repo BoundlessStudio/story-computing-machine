@@ -34,7 +34,7 @@ Eiren watched the marks fade. “Nine worlds. Nine victories. You collect ceremo
 
 “This will be your tenth world, Ryo.” She pressed her stained fingertips to her eyes. “If nine triumphs have not taught you that you matter, I am running out of strength, ideas, and tact. The tact went first.”
 
-He looked at the blank wall where a door might appear. Tenth mission, he thought. A pleasing round number. A completion marker.
+He looked at the blank wall where a door might appear. Tenth mission, he thought, which was a pleasing round number, the kind that marked a completion.
 
 “What needs saving?” he asked.
 
@@ -46,11 +46,11 @@ The next doorway opened slowly.
 
 Living filaments slid from Eiren’s palms and stitched a rectangle of darkness into the air. She had to stop twice, breathing through clenched teeth. Within the dark, Ryo saw not the destination but the reflection of another door: cheap wood, a peeling apartment number, a chain he had once kept fastened even while awake.
 
-“Before you say yes,” Eiren said, “listen. You are alive. You have been alive through every crossing. Same body, same memory, same extremely poor habit of landing on your face.”
+“Before you say yes,” Eiren said, “listen. I say this every time.” She recited it with her eyes shut. “You are alive. You cross in your own body, with your own memory and your extremely poor habit of landing on your face.”
 
 “Shoulder.”
 
-“A magnificent distinction. You may refuse. This filament is nearly spent. If you cross, I can open one return during the storm’s peak, and only briefly. I cannot follow you. I cannot see the whole problem from here.”
+“A magnificent distinction. You may refuse. This filament is nearly spent. If you cross, I can open one return during the storm’s peak, and only briefly. I cannot follow you.”
 
 Ryo kept looking at the reflected apartment.
 
@@ -82,7 +82,7 @@ Eiren flexed her trembling hands. “This pull is centered on the ending of a he
 
 An ending implied something large enough to end. Ryo imagined a concealed tyrant, a buried monster, a final form waiting beneath an innocent surface.
 
-“I consent,” he said.
+“Yes,” he said.
 
 Eiren’s face tightened. Still, she opened the door.
 
@@ -98,7 +98,7 @@ Beyond the open arches, roofs crowded down a hillside. Far past them, a purple c
 
 Ryo realized he had drawn his sword.
 
-The speaker was a young engineer with cropped hair, soot on both cheeks, and a wrench braced over one shoulder. “Unless the storm has developed a throat, that will be decorative.”
+The speaker was a young engineer with cropped hair, soot on both cheeks, and a wrench braced over one shoulder. “That’s steel, next to a lightning conductor. Sheathe it.”
 
 He sheathed it. “Ryo Sato. I was sent to help.”
 
@@ -114,9 +114,9 @@ The words landed strangely. “I can carry the others.”
 
 Jori showed him the plan because he kept asking where the real emergency was. Long ago, every resident’s small ability to turn wind or bleed lightning from a roof had been gathered by the engine into one operator. The old plaques called that operator the Necessary One. One body could protect the whole town with wonderful efficiency, right up until the storms burned it out.
 
-“People prefer a miracle with a face,” Jori said, tightening a clamp. “Easier to praise one person than maintain nine stations. We chose maintenance.”
+“People prefer a miracle with a face,” Jori said, tightening a clamp. “The stations took us years. Half the hillside has drilled on them.”
 
-For years the town had built manual channels that could divide the storm among hundreds of hands. Today they meant to cut the last central conduits before the seasonal front arrived.
+The manual channels could divide the storm among hundreds of hands. Today they meant to cut the last central conduits before the seasonal front arrived.
 
 There was no tyrant. No monster. No one even seemed interested in Ryo’s sword.
 
@@ -164,7 +164,7 @@ He saw fractures before they spread, warded sparks away from the crews, stepped 
 
 Residents had gathered in the archways below. Some recognized the old pattern faster than the crews did.
 
-“A Necessary One,” someone breathed.
+“A Necessary One,” someone said.
 
 “He can hold it.”
 
@@ -172,13 +172,13 @@ Residents had gathered in the archways below. Some recognized the old pattern fa
 
 The words reached a hollow place in Ryo and filled it with light. His arms were burning. His feet had gone numb. He smiled anyway.
 
-Jori saw. Their expression changed from anger to something worse: understanding without admiration.
+Jori saw. They swung the wrench toward the dark stations, where crews stood gripping levers that no longer did anything.
 
-“Every job you take disables a station,” they said. “It is not choosing you because you are destined. It is choosing you because you keep volunteering for the whole load.”
+“Every job you take disables a station,” they said. “Look at them! It’s pulling the whole load back into you.”
 
-A slim doorway flickered at the edge of the circle. Eiren knelt on the other side, one palm braced on the threshold-room floor. Her other hand reached toward him, but the filaments around her fingers blinked in and out.
+The first gust of the front came through the arches, cold and smelling of rain. A slim doorway flickered at the edge of the circle. Eiren knelt on the other side, one palm braced on the threshold-room floor. Her other hand reached toward him, but the filaments around her fingers blinked in and out.
 
-“Ryo,” she said. “Stop proving the problem correct.”
+“Ryo,” she said. “You are doing it again.”
 
 “If I leave and anyone dies, it’s my fault.”
 
@@ -194,13 +194,13 @@ Ryo looked at his shining marks.
 
 “Will it work?”
 
-“We have tested each station separately. Never all nine in a live storm.”
+“We’ve tested each station on its own. Never all nine in a live storm.”
 
 “So you don’t know.”
 
-“Correct. Welcome to engineering.”
+“No.” Jori was already waving the first crew into position.
 
-Lightning moved inside the approaching clouds. Eiren’s return door dimmed.
+Lightning moved inside the clouds overhead. Eiren’s return door dimmed.
 
 Ryo searched the room with his fracture-sight. There had to be a cleaner line: one cut, one ward, one decisive act that placed uncertainty on his shoulders and nowhere else.
 
@@ -216,7 +216,7 @@ All nine conductors flared white. The seam sealed around his hands. Station nine
 
 At the doorway, Eiren fell to one knee.
 
-Ryo dropped back into the circle. He had fixed nothing. His certainty had merely become another conduit.
+Ryo dropped back into the circle. He had fixed nothing.
 
 * * *
 
@@ -226,19 +226,19 @@ Rain struck the tower in hard, scattered coins.
 
 Eiren looked older than she had an hour ago. The door-filaments cut red grooves across her palms.
 
-“People called me a goddess once,” she said. “Not everywhere. Not forever. Just frightened people who prayed for an exit and saw me open one.”
+“People called me a goddess once,” she said. “Not everywhere. Not for long. Frightened people who prayed for an exit and saw me open one.”
 
-Ryo gripped the central rails. “This is not the moment for your biography.”
+Ryo gripped the central rails. “Eiren. The door.”
 
-“It is the moment for my confession.” Her voice shook, but did not soften. “I learned to feel real when I was needed. Every door cost me, and I mistook the cost for evidence that I loved people properly.”
+“I know.” She did not look at it. “I felt real when I was needed. Every door cost me, and I thought the cost—” She stopped and breathed through her teeth. “I thought if it hurt, I must be caring properly.”
 
 The filament pulsed between them, ragged and bright.
 
-“Then I found you,” Eiren said. “You looked at the first crisis and stood up. I thought if I gave you enough proof—enough victories—you would carry that feeling home. When you asked again, it reassured me. Your success made my mistake look like care.”
+“Then I found you. The first crisis, and you stood straight up. I thought enough victories would send the feeling home with you.” Her braced hand slid on the threshold. “And when you asked for another one, I was glad. I was glad, Ryo.”
 
-Ryo’s hands tightened until the rails bent. “So I was a lesson.”
+Ryo’s hands tightened until the rails bent. “Glad.”
 
-“In part. You were also someone I cared about. I asked each time, and you said yes. I used those facts to avoid asking what our yes was serving.”
+“I did care about you. I asked every time, and you said yes, and I let that be enough. I never asked whose need it was.”
 
 “Tell me the correct choice now.”
 
@@ -246,21 +246,19 @@ Eiren closed her eyes. “No. I have made too many assignments out of your life 
 
 At station nine, Jori and six crew members hauled open the dead housing. Wind threw rain through the arches. They reached bare hands into the mechanism and fed their own small currents into it: a tremor of diverted air, a blue crawling spark, a pressure change Ryo felt in his teeth.
 
-“We do not need you to be sure,” Jori called. “We need you to stop taking away everyone else’s chance to act.”
+“My crew’s got their bare hands in that housing, Ryo!” Jori called. “Stop taking away everyone else’s chance to act!”
 
 The ninth station’s indicator stuttered amber.
 
-Ryo looked down at the circle holding him. It promised fixed inputs and measurable outcomes. Stay here. Take every danger. Receive praise. Never answer what you wanted.
+Ryo looked down at the circle holding him. It promised fixed inputs and measurable outcomes: stay here, take every danger, receive the praise, and never have to answer what you wanted.
 
-His apartment had made no such promise. It had been a refuge from pain no one else could see, until fear and shame narrowed his choices to the size of one room. The control circle was brighter. The control circle had an audience. But disappearing into it would still be disappearance.
+His apartment had made no such promise. It had been a refuge from pain no one else could see, until fear and shame narrowed his choices to the size of one room. The control circle was brighter. The control circle had an audience.
 
 The return doorway shrank to the width of Eiren’s shoulders.
 
 “Ryo,” she said, barely audible. “I cannot hold it much longer.”
 
 He did not know whether the town would survive without him.
-
-For the first time, not knowing could not postpone the choice.
 
 * * *
 
@@ -270,9 +268,7 @@ Jori pointed at the first station. “On my count.”
 
 “Wait.” He swallowed. The engine thrummed approval through his bones, certain he had reconsidered. “I want to live.”
 
-The statement sounded embarrassingly small beside the storm.
-
-It was not small to him.
+Jori’s hand stayed raised.
 
 “I want a chance to find out what I like when nobody is scoring it,” he said. “Those are my reasons. Count.”
 
@@ -314,11 +310,7 @@ His decisive instinct showed him the necessary action with the clarity of revela
 
 Station nine flickered. Jori’s crew fought to keep their handmade current alive.
 
-The old gift had never been wrong about how to win.
-
-It had never been asked whether Ryo should survive the winning.
-
-He tore the light from his brow and threw it into station nine.
+The gift showed him how to win, as it always had. He tore the light from his brow and threw it into station nine.
 
 Certainty went dark.
 
@@ -338,19 +330,19 @@ The return door was now too narrow for Ryo to pass through facing forward.
 
 “Use the filament,” Ryo said.
 
-Her fingers were inches from his. “To pull you out?”
+Eiren’s fingers were inches from his. “To pull you out?”
 
-“To cut that.”
+He drew his hand back from hers and pointed at the knot. “To cut that.”
 
-Eiren stared at the core. “If I do, your assignment thread burns out. No powers. No eleventh door. I may not be able to reach you again.”
+She stared at the core. “If I do, your assignment thread burns out. No powers. No eleventh door. I may not be able to reach you again.”
 
 Fear opened under him. It had no bottom and no victory condition.
 
-“That’s the point,” he said, and then, because it was more honest, “I am terrified. Please do it.”
+“That’s the point,” he said, and then, “I am terrified. Please do it.”
 
 Eiren moved.
 
-The living filament lashed through the inert doorway, bright with the last strength in her bleeding palms. It looped the exposed core. Eiren pulled once.
+The living filament lashed through the narrowing doorway, bright with the last strength in her bleeding palms. It looped the exposed core. Eiren pulled once.
 
 The knot came apart.
 
@@ -360,19 +352,15 @@ Jori staggered against a station, laughing or coughing. “You followed the plan
 
 “Eventually.”
 
-“I remain angry about the first part.”
+“I’m still angry about the first part.” Someone shouted from station three about the roof beams, and Jori limped off toward it without waiting for an answer.
 
-“That seems fair.”
-
-No one crowned him. No crowd began a chant. Crews were already checking the cracked tower and calling damage reports into the rain.
+No one crowned him. The other crews were already checking the cracked tower and calling damage reports into the rain.
 
 Eiren’s doorway folded inward.
 
 Ryo wanted to stay long enough to prove the lights would return. He wanted a final count, a clean result, permission to call his choice correct.
 
 Instead he turned sideways, took Eiren’s hand, and squeezed through.
-
-He left before certainty.
 
 * * *
 
@@ -386,9 +374,9 @@ Eiren turned her palms upward. The filaments were gone. Thin burns crossed her h
 
 Ryo waited for grief and found it. He also found relief, fear, resentment, affection, and a powerful desire to sleep for a week. None canceled the others.
 
-“Thank you for bringing me back,” he said. “That does not make everything you did right.”
+“Thanks for getting me out,” he said. “I’m still angry about the rest.”
 
-“I know.” Eiren’s apology arrived without defense. “I am sorry.”
+“I know,” Eiren said. “I am sorry.”
 
 “And I’m not fixed.”
 
@@ -398,9 +386,11 @@ He laughed, which hurt. “You should rest.”
 
 “An outrageous proposal.”
 
-“You are not allowed to make me your project again.”
+He lay back. The ceiling of the threshold room had no features at all. “Don’t make me your project again.”
 
-“Agreed. You are not allowed to make yourself mine.”
+Eiren was quiet so long that he thought she had fallen asleep.
+
+“I will not,” she said. “And do not offer yourself for it. Not to me, not to anyone who—” The rest went into a yawn she did not bother to hide.
 
 They slept on opposite sides of the blank room. Later—Ryo did not know how much later—Eiren found enough strength for one last one-way fold, back to the physical doorway where she had first found him. It was not an assignment and held no promise of return.
 
@@ -412,11 +402,9 @@ They slept on opposite sides of the blank room. Later—Ryo did not know how muc
 
 “Anything but that.”
 
-It was, Ryo realized, a preference.
-
 He stepped through.
 
-His apartment had preserved all its unfinished problems. Dust silvered the desk. Unread messages waited on his phone. The grocery app still remembered his order. No music swelled to certify his return.
+His apartment had preserved all its unfinished problems. Dust silvered the desk. Unread messages waited on his phone. The grocery app still remembered his order.
 
 His first impulse was to answer everyone at once and promise he was better now. His second was to find some emergency large enough to delay answering at all.
 
@@ -436,7 +424,7 @@ It would save no one. He remembered liking the smell of wet soil after rain. Tha
 
 Ryo opened the curtains. The room felt exposed, and he left them open anyway.
 
-At his apartment door there was no silver filament, no chanting crowd, no mark to reveal the necessary action. There was only the hall, one appointment he could not make alone, and a garden he might not manage to visit today.
+Nothing glowed at the edge of his apartment door. Past it lay the hall, one appointment he could not make alone, and a garden he might not manage to visit today.
 
 He put his hand on the knob without knowing what waited behind it.
 
