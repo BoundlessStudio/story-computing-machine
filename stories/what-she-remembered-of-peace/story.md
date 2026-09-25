@@ -76,7 +76,7 @@ Anvek had gone still again, measuring a sound none of them could isolate. “Fir
 
 “Unknown.”
 
-On the roof, the wind pressed smoke flat between the buildings. The produce cradle hung where it had all summer, a steel basket used for squash, soil, broken chairs, and once an unauthorized bathtub. Its cable ran over a roof pulley to a counterweight track. No power was required, but the hand brake had to be held open from above while the basket descended two terraces. On the shelter terrace below, a lamp above the receiving rail showed amber for hold and blue for move. It showed amber.
+On the roof, the wind pressed smoke flat between the buildings. The produce cradle hung where it had all summer, a steel basket used for squash, soil, broken chairs, and once an unauthorized bathtub. Its cable ran over a roof pulley to a counterweight track. No power was required, but the hand brake had to be held open from above while the basket descended two terraces. Beside the brake housing, in its clips, hung the maintenance line-driver they used to shoot cable through blocked conduits. On the shelter terrace below, a lamp above the receiving rail showed amber for hold and blue for move. It showed amber.
 
 The service ladder went down the east face to the same terrace, bolted landing to landing. Nobody looked at it for long. It hung in full view of the street with nothing overhead, a careful climber needed four or five minutes to reach the bottom, and the baker’s knee would never manage the rungs.
 
@@ -170,7 +170,7 @@ On the third descent, Naro’s voice crackled from the radio. “Got your pack o
 
 Olyne said thank you to a set that had already gone back to someone else’s block.
 
-The drone appeared again, low enough now that Olyne saw its blunt belly and twin rotors. Three white flashes blinked under it.
+On the seventh descent the drone came back, low enough now that Olyne saw its blunt belly and twin rotors. Three white flashes blinked under it.
 
 “Hold!” she shouted.
 
@@ -234,7 +234,7 @@ Olyne let go.
 
 The drone came out of the smoke directly across the roof. Three short flashes struck the cradle’s mesh. Its exposed near rotor tilted as it corrected against the wind.
 
-Anvek’s right hand remained locked around the brake. With her left she reached for the maintenance line-driver beside the housing, the tool they used to shoot cable through blocked conduits. Olyne dragged it within reach.
+Anvek’s right hand remained locked around the brake. With her left she reached for the line-driver beside the housing. Olyne dragged it within reach.
 
 “Visible rotor,” Anvek said. “Eleven metres. Olyne, pull the pin.”
 
@@ -264,7 +264,7 @@ Anvek looked at Gess. “You take the service ladder.”
 
 Gess glanced from her unsteady right hand to the ladder well. “Headcount goes with the building.”
 
-“Gess, please. Arms up.” Olyne had the harness out of the ladder box before Gess could answer. She got it around Gess’s waist, fumbled the buckle, got it, and waited while Gess tested the clip with her left hand. Then she stopped with both hands still on the strap. “Will you go down?”
+“Arms up, Gess.” Olyne had the harness out of the ladder box before Gess could answer. She got it around Gess’s waist, fumbled the buckle, got it, and waited while Gess tested the clip with her left hand. Then she stopped with both hands still on the strap. “Will you go down?”
 
 “Yes. Clip it higher.”
 
