@@ -274,7 +274,7 @@ Rulik breathed through his nose. Once. Twice. "High shore wants a wedge behind t
 
 "Two wedges. Opposed."
 
-"Bring two matched wedges!" he called. His voice worked again when the work did.
+"Bring two matched wedges!" he called.
 
 They braced the jamb and bored through salt-hardened oak. The auger screamed and stuck; four people reversed it while a chandlery boy complained that nobody had brought grease. Rulik refused offered lamp fat, then took it when the bit smoked.
 
