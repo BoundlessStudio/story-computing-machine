@@ -100,7 +100,7 @@ The first autumn stripped leaves from the chapterhouse lindens and leather from 
 
 At the winter gate, Rhoswen and Demech carried forty pounds each up the east track, climbed the log wall, and entered the screened lanes with their breath already ragged. Snowmelt ran beneath the wicker. The pulse-thorn moved where they could not see it.
 
-Demech took the first guard while Rhoswen dragged the weighted patient to the red marker. There he raised a fist to show he was still holding, so she could ready her own iron to take over. She counted six, lifted her iron, and felt the working catch.
+Demech took the first guard while Rhoswen dragged the weighted patient to the red marker. There he raised a fist to show he was still holding, so she could ready her own iron to take over. She lifted her iron and felt the working catch.
 
 Then a concealed hook sliced Demech's calf.
 
