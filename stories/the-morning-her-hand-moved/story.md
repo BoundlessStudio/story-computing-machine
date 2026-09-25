@@ -10,7 +10,7 @@ canon: false
 
 The plumb at the heel post was hanging toward the fingers.
 
-Zunel noticed because the brass bob, which should have rested over the dawn mark, had swung against the eastern bars of its cage and stayed there. The two bell keepers on the post watch were already staring at it. Beyond them, the whole right palm lay in blue half-light: nearly two miles of crease roads, basin wards, and steep knuckle temples, all carved into stone that had been level since the oldest survey. The four fingers made a low black horizon. Between their roots, bells waited for sunrise.
+Zunel noticed because the brass bob, which should have rested over the dawn mark, had swung against the eastern bars of its cage and stayed there. The two waterkeepers on the post watch were already staring at it. Beyond them, the whole right palm lay in blue half-light: nearly two miles of crease roads, basin wards, and steep knuckle temples, all carved into stone that had been level since the oldest survey. The four fingers made a low black horizon. Between their roots, bells waited for sunrise.
 
 The goddess lay supine beneath every place anyone knew: rib towns, throat stairs, ankle quarries, the gardens on this forearm. For a thousand years, the ledgers had said her death came before their beginning. They preserved neither a name nor an origin for her, only the work of living on what remained.
 
@@ -114,7 +114,7 @@ Polaq answered first. “Outer-wrist ledge. Single file past the lamp quarry, tw
 
 “People will go back for their water jars.”
 
-Zunel looked at the cracked deck. Another length of its rail broke away and dropped into the crease.
+Zunel looked at the cracked deck. A length of its rail broke away and dropped into the crease.
 
 “No one goes back.”
 
@@ -218,7 +218,7 @@ Zunel didn't look at the releases. She looked at Aksor. “At the brace,” she 
 
 Aksor moved the bowl a finger's width along the wall until its water lay level.
 
-Polaq came along the wall, still dragging air between sentences. “Nobody's past the bridge. Two of the crew want their tool chest. One of the heel-post bell keepers wants his ward keys.”
+Polaq came along the wall, still dragging air between sentences. “Nobody's past the bridge. Two of the crew want their tool chest. One of the heel-post waterkeepers wants his gate keys.”
 
 Zunel looked across the wrist. The former avenue ended in air where her brace had torn out the slab. Beyond, the palm ward lay at an impossible angle, its water gathering in a shining lake along the central crease. The fingers curved above it. No path home remained that she could certify.
 
@@ -266,11 +266,11 @@ Polaq followed the charcoal with one finger. “The copyist's son can't manage t
 
 Yeshal had set three plumbs where the forearm began to curve toward the wrist. “I need people who can call intervals without rounding them.”
 
-“The two bell keepers from the heel post,” Zunel said. “They saw the bob move first.”
+“The two waterkeepers from the heel post,” Zunel said. “They saw the bob move first.”
 
-“Dovan's gone down the garden wall to look for his ward keys,” Polaq said. “Sella's here.”
+“Not the one who wants his gate keys,” Polaq said. “He's gone down the garden wall to look for them.”
 
-Zunel's first answer rose sharp: have him hauled up by the collar and struck off the bell rota. She stopped it.
+Zunel's first answer rose sharp: have him hauled up by the collar and struck off the watch rota. She stopped it.
 
 “Put a barrier at the broken avenue,” she said instead. “Then bring him back. The keys don't open anything we can reach.”
 
