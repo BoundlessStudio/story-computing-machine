@@ -42,7 +42,7 @@ At thirty-eight seconds the keys were over the rug, the mugs over the sofa, and 
 
 She pushed it aside. “Good entrance.”
 
-“Sit down,” I said. “Please, will you just sit, before anything else goes up? I've got the case, I've got everything.”
+“Sit down,” I said. “Before anything else goes up. I've brought everything.”
 
 She pointed past me at the case and cupped a hand at her mouth. “Drink.”
 
@@ -108,9 +108,9 @@ I abandoned the bathroom.
 
 The disused washroom in the basement had bare concrete walls and floor, a deep utility basin, and two doors on opposite sides. Nuala had taken me down there once to wash dye out of thirty metres of ribbon. I could picture the clear floor and the second exit. I could also picture two flights of stairs, a fire door, and the narrow turn at the landing.
 
-“What about the basement?” I said. “The old washroom, where we did the ribbon. It's got two doors. I know it's two flights, I know, but if we go slowly—”
+“What about the basement?” I said. “The old washroom, where we did the ribbon. It's got two doors. It's two flights, I know, but if we go slowly—”
 
-She marked a green circle around the washroom on my sketch. Then she drew a red line through a stick figure lifting another.
+She took the phone, drew a box with a door on either side, and circled it in green. Then she drew a red line through a stick figure lifting another.
 
 “I wasn't going to carry you.”
 
@@ -184,15 +184,15 @@ It arrived all at once, straight and cold. Water slapped my shoulders, sheeted o
 
 I swept the worst of the water off the landing with the side of my boot. Nuala stayed against the wall where she could see my hands and both ways out. She raised a closed fist when I moved too fast, opened it when the next tread was clear, then counted each step with her fingers.
 
-At the basement door I asked, “How's your breathing? Is it worse?”
+At the basement door I asked, “How's your breathing?”
 
 She rocked her hand: not good, not worse.
 
-“Dizzy? Are you dizzy?”
+“Dizzy?”
 
 One finger: a little.
 
-“Can we keep going? Or we can sit on the step, we can just sit—”
+“Can you keep going, or do you want the step?”
 
 Green card.
 
@@ -272,7 +272,7 @@ Nuala sat behind the cloth gripping the mat. She showed red until the fabric sto
 
 I stayed at the second door. The cloth was between us from one direction only, and it was soft. I held up blue. She shook her head. I held up green as a question. After a moment, she answered green.
 
-At the fever's peak, the intervals shortened. The pinlights stayed identical and the chime stayed useless for anything except those few seconds of preparation.
+At the fever's peak, the intervals shortened.
 
 Loose things floated next: Nuala's shears, a spool, two clips, and the little steel awl from the mat, with the small towel, the cooling cloth, and the covered cup turning slowly behind them. We kept our hands down. The awl drifted point-first into the plastic light cover and cracked it with a sound like ice under a shoe. I flinched toward her. Nuala flung up red.
 
