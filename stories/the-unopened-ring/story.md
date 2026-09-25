@@ -214,7 +214,7 @@ Vessarine.
 
 Her hostess took off her own ring.
 
-It, too, bore a hand. Seen alone, its curling fingers had looked like a worn flower. Merovel lowered the lid of her ring until the catch clicked. The queen set her hoop beside it, turned it once, and fitted their uneven edges together. The hands clasped. What had looked like a crooked ring became half of a wide, neatly joined band.
+It, too, bore a hand. Seen alone, its curling fingers had looked like a worn flower. Merovel lowered the lid of her ring until the catch held. The queen set her hoop beside it, turned it once, and fitted their uneven edges together. The hands clasped. What had looked like a crooked ring became half of a wide, neatly joined band.
 
 There was no flash or music. One edge clicked against the other. The queen had a pale groove around her finger.
 
