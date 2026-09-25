@@ -248,7 +248,7 @@ They came eager to transform affection into an operation. The marshal recommende
 
 They continued. A private dining hall disguised as a student café. Faculty contracts backed by penalties. A tunnel beneath her laboratory. A compulsory midnight report. The marshal had already drafted a response plan for any human who saw her horns; the chancellor called it a memory-hygiene measure.
 
-With every proposal, I watched Nimelza become quieter. I took that silence to mean she was accepting the guards, until she took the folded half-roll from her pocket and set it beside my hand.
+With every proposal, I watched Nimelza become quieter. I took that silence to mean she was accepting the guards, until she drew the folded half-roll from her pocket and set it beside my hand.
 
 "I withdraw my request," she said.
 
