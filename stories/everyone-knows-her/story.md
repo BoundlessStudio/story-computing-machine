@@ -10,13 +10,13 @@ canon: false
 
 The west gate was already narrowing when she rolled through it.
 
-One volunteer had a hand on a waist-high barrier and the other cupped over an earpiece. Beyond him, the old park road dropped in a long mild slope under strings of paper pennants. Food smoke blurred the first block. Tables pressed in from both curbs, and the crowd moved in all its usual directions at once: toward samples, away from strollers, sideways after children. The strip of pavement down the middle looked barely wide enough for a bicycle, which meant it was wide enough for her.
+A volunteer had one hand on a waist-high barrier and the other hand cupped over an earpiece. Beyond him, the old park road dropped in a long mild slope under strings of paper pennants. Food smoke blurred the first block. Tables pressed in from both curbs, and the crowd moved in all its usual directions at once: toward samples, away from strollers, sideways after children. The strip of pavement down the middle looked barely wide enough for a bicycle, which meant it was wide enough for her.
 
 “Wheels coming in,” the volunteer said, not quite to her.
 
 She lifted two fingers without slowing. “Last one.”
 
-“Yes. Exactly.” He turned his shoulder to the barrier. Into his radio he said, “One still inside, heading east. Blue jacket, black shorts, red bag. Adult on skates.”
+He was already turning his shoulder to the barrier. Into his radio he said, “One still inside, heading east. Blue jacket, black shorts, red bag. Adult on skates.”
 
 The description followed her down the hill, flattened by static.
 
@@ -76,17 +76,13 @@ A volunteer pushed an empty rack flush to the curb. The vendor beside him did no
 
 “You want a wheel through here, I want the cups under.” The vendor shoved the box in with a foot. “Last year I lost six.”
 
-“Wasn’t her.”
-
-“Was still six.”
-
 She passed between the rack and the stall. The vendor watched her bag miss the cups by more than a meter and gave a satisfied nod that could have been meant for his own precautions.
 
 The looks had become impossible not to count. A worker on a ladder paused with a pennant string in both hands. A teenager at a drink tub pointed before remembering to lower the pointing hand. Two older vendors turned together, one because the other did. A parent said, “Back a bit,” and three children shuffled backward while staring at her skates.
 
 None of the faces held the uncertain inspection of someone noticing a stranger at speed. They brightened, tightened, or simply arranged themselves for her arrival. People she had never met behaved as if she occupied a known place in the next few seconds of their day.
 
-She checked what they could see. Blue jacket despite the heat, because its inner pocket zipped. Black shorts. Red canvas bag. Hair tied up badly. A smear of pale grease might still mark one thumb from the clasp repair. Nothing remarkable. Nothing that explained the boy beside a stack of folded chairs calling, “She’s nearly here,” to someone she could not see.
+She checked what they could see. Blue jacket despite the heat, because its inner pocket zipped. Black shorts. Red canvas bag. Hair tied up badly. A smear of pale grease might still mark one thumb from the clasp repair. The radios had been saying the jacket since the gate, which would account for the vests and the man with the cart. It did not account for vendors turning before she reached them, or the children, or the boy beside a stack of folded chairs calling, “She’s nearly here,” to someone she could not see.
 
 Nearly where?
 
@@ -102,7 +98,7 @@ A whistle cut the sentence in half.
 
 The steward at the route post held one palm toward her and pointed down with the other: slow, then stop. Behind him, a family had begun to cross on a signal meant for them. One adult saw her, jerked the smallest child backward, and set off a chain of shoulders bumping shoulders.
 
-She turned both toes inward. The brake blocks caught. Heat dragged through her ankles, and her wheels shivered over a patched seam before she stopped with one hand around the route post.
+She turned both toes inward and let the wheels scrub. Heat dragged through her ankles, and the plow shivered over a patched seam before she stopped with one hand around the route post.
 
 The family hurried through. The last adult looked at her face as if confirming something, then looked away.
 
@@ -118,31 +114,27 @@ She looked from the radio to him. “Why are they describing me?”
 
 He kept his palm raised toward the crossing while two more people hustled through. “Give me a second.”
 
-“They’ve had several sections.”
+She gave him less than that. “They’ve been saying my jacket since the west gate. Did I do something?”
 
-“And I’ve got this one.” He dropped his hand when the gap cleared, turned the route post across it, and spoke into the radio. “Held at half. Don’t release the next foot group.”
+He dropped his hand when the gap cleared, turned the route post across it, and spoke into the radio. “Held at half. Don’t release the next foot group.”
 
 The answer broke under drums and static. He leaned closer to hear.
 
-She said, “I need the east lineup.”
+“I need the east lineup,” she said. “The children’s drums. I was supposed to be there already, I’ve got—I need the east lineup.”
 
-“Then you entered at the worst possible minute.”
+“You came in on the close. Noon reset went early.” He pointed uphill with two fingers, not taking his eyes off the performers gathering ahead. “West saw you inside after the call. You’re the last wheels. Each section holds until you clear, then they turn the road over behind you.”
 
-“The gate was open.”
+She remembered the barrier sliding as she went past it, and the volunteer’s shoulder already turning.
 
-“It was closing. The noon reset went early.” He pointed uphill with two fingers, not taking his eyes off the performers gathering ahead. “West saw you inside after the call. You’re the last wheels. Each section holds until you clear, then they turn the road over behind you.”
+Her phone vibrated again. “So the whole road was told to look for me?”
 
-Last wheels. Not a name. A dependency.
-
-Her phone vibrated again. “So everyone was told to look for me.”
-
-“The crews were told blue jacket, black shorts, red bag, eastbound. Vendors hear the radios. Other people see us make room.” A woman with a folded stroller approached the post; he moved her back with his forearm. “Please wait there.”
+“Crews. Blue jacket, black shorts, red bag, eastbound. Vendors hear the radios.” A woman with a folded stroller approached the post; he moved her back with his forearm. “Please wait there.”
 
 The woman retreated, tugging the stroller sideways. Her companion asked, “Is that her?”
 
-“Must be,” she said.
+“Must be,” the woman said, her eyes on the steward’s raised arm.
 
-The steward touched his radio. “That part.”
+The steward had already turned back to the crossing.
 
 Downhill, a child called, “It’s the summer skater!”
 
@@ -150,11 +142,7 @@ Another child asked, “Who?”
 
 The first pointed. “Her.”
 
-The steward glanced toward them. “Some remember you.”
-
-The road offered no single way of knowing. The jar vendor had recognized her passage from other summers, perhaps only by the draft under the tablecloth. The worker with the cart had matched four plain details to a radio call. The adult beside the stroller had read the workers. The children had read one another. By the time she reached a section, their different guesses produced the same result: heads turned, hands came out, a line appeared.
-
-She tightened her grip on the route post. The metal inside the red bag pressed against her ribs.
+Her face went hot, and for a moment she nearly laughed. She tightened her grip on the route post. The metal inside the red bag pressed against her ribs.
 
 “How do I get through?” she asked.
 
@@ -164,11 +152,11 @@ She tightened her grip on the route post. The metal inside the red bag pressed a
 
 He listened to his radio. “Depends whether the next section has moved its equipment cart.”
 
-“I need a number.”
+“Ten minutes? Twenty?”
 
-“I don’t have one.” His attention shifted past her. “Hold that barrier. Not yet.”
+“I don’t know.” His attention shifted past her. “Hold that barrier. Not yet.”
 
-She turned. A worker uphill had begun to swing a panel shut behind her. At the steward’s signal, he froze with it diagonal across the pavement. People crowded toward the unclosed half.
+She turned. A worker uphill had begun to swing a panel shut behind her. At the steward’s signal, he froze with it diagonal across the pavement. People crowded toward the open side.
 
 Her fastest route had always been forward. The east end lay beyond the bend, down a road that still showed strips of open asphalt between bodies. With an escort and a few firm strokes she could take back the minutes. She knew how to move without touching anyone. She knew exactly how little room wheels needed.
 
@@ -184,7 +172,7 @@ One mimed her stance, knees bent and arms loose. The child in the cardboard helm
 
 The explanation made the child lean farther into the lane to see.
 
-Ahead, the standard bearer started through the bend. The escort would not hide her. It would put a bright vest beside her and clear a path through children already prepared to believe that where she went, wheels could go. Every section would have to hold not just for her but for the possibility of a smaller body following the gap she made. The clasp in her bag was urgent to her family. It did not grant the road a different sequence.
+Ahead, the standard bearer started through the bend. An escort would put a bright vest beside her and clear a path through children already prepared to believe that where she went, wheels could go. Every section would have to hold for her, and then for whatever smaller body tried to follow the gap she made.
 
 “No escort,” she said.
 
@@ -194,13 +182,13 @@ The steward had one finger against his earpiece. “What?”
 
 “If you’re carrying the skates.”
 
-“That’s what getting off means.”
+“Yes.”
 
-“I need you stopped until you’re through it.” He spoke into the radio. “Half exiting on foot. Keep uphill panel open.” Then to a worker beyond the barrier: “Side only. Watch the stand legs.”
+“Walk it, then. Nothing rolling till you’re past the barrier.” He spoke into the radio. “Half exiting on foot. Keep uphill panel open.” Then to a worker beyond the barrier: “Side only. Watch the stand legs.”
 
 No one applauded the decision. The vendor nearest the gap objected at once.
 
-“Not through my stock.” She braced both hands on a tower of shallow produce crates. “There’s no clearance behind the scale.”
+“Not through my stock.” The vendor braced both hands on a tower of shallow produce crates. “There’s no clearance behind the scale.”
 
 The worker lifted the end of the barrier. “In front of your counter, then behind the drink drums.”
 
@@ -252,13 +240,13 @@ The first asked where she was. The second said the lineup had been moved forward
 
 She put the phone away and ran badly in shoes made to survive a shift behind a counter. The skates struck her thigh on every third step.
 
-At the east lineup, children with drums stood in two bent rows behind a temporary rope. Their harnesses made black angles over bright shirts. Her niece was at the end of the nearer row, the drum tilted against one knee while an adult worked at a knot in the short webbing strap. The repaired clasp had been replaced by a length of cord tied twice and pulled hard. It held the drum too high.
+At the east lineup, children with drums stood in two bent rows behind a temporary rope. Their harnesses made black angles over bright shirts. Her niece was at the end of the nearer row, the drum tilted against one knee while an adult worked at a knot in the short webbing strap. In place of the clasp, a length of cord had been tied twice and pulled hard. It held the drum too high.
 
-Her niece saw the red bag first. “You have it?”
+Her niece saw the red bag first. “Did you bring it? You brought it?”
 
-She was already unzipping the pocket. “Yes.”
+She was already unzipping the pocket. “Yes. I’m sorry. Yes.”
 
-“We move after this hold.”
+“We go after this one. The marshal said after this one we go.”
 
 “Then keep still.”
 
@@ -266,37 +254,35 @@ She was already unzipping the pocket. “Yes.”
 
 The assisting adult raised both hands. “It was that or take her out.”
 
-“Cord did its job.” She crouched. “I need it loose now.”
+“It held.” She crouched and got a thumbnail under the first loop. It did not give.
 
-“It’s jammed.”
+“It’s jammed,” the adult said.
 
-Her niece pulled the drum toward herself. “Can you cut it?”
+Her niece pulled the drum toward herself. “Can you cut it? Just cut it.”
 
-“Not while you’re pulling.”
+“With what? Let go, you’re pulling it tighter.”
 
-The child let go at once. That was how her niece handled pressure: not gracefully, not after discussion, but completely once the next task was clear.
+The child let go at once.
 
 The line marshal called, “Near row, ready. Far row, check straps.”
 
-The assisting adult pinched the knot while she worried the cord backward with the flat end of the new clasp. One loop loosened. The second gave enough to slide free.
+“That’s us. That’s us!”
 
-“Short webbing,” her niece said.
+The assisting adult pinched the knot while she worried the cord backward with the flat end of the repaired clasp. One loop loosened. The second gave enough to slide free.
 
-“I see it.”
+“The little strap,” her niece said. “Not that one, the little one, they always put it on the—”
 
-“Not the long one.”
-
-“Hold the drum level.”
+“I’ve got the little one. Hold the drum level.”
 
 She threaded the clasp through the short strap, turned it so the repaired spring faced away from the shirt, and pressed until the tongue seated with a small, hard click. She pulled once. The webbing took the weight. Her niece rolled one shoulder, testing the height.
 
-“Again,” she said.
+She sat back on her heels. “Jump. Once.”
 
 The child bounced carefully. The clasp held.
 
 “Near row,” the marshal called. “Forward.”
 
-Her niece moved with the others, stopped after two steps, and looked back. “Your shift.”
+Her niece moved with the others, stopped after two steps, and looked back. “You have to go do the stall now.”
 
 “I know.”
 
@@ -316,7 +302,7 @@ Her sibling looked at the skates in her hand. “What happened?”
 
 “I have the counter.”
 
-Her sibling hesitated only long enough to point under the counter. “Small change left tin. Ice under the towels. Don’t open the last bottle crate until the front row is gone.”
+Her sibling hesitated only long enough to point under the counter. “Small change is in the left tin. Ice under the towels. Don’t open the last crate of bottles till these in front are sold.”
 
 “Go.”
 
