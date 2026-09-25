@@ -8,21 +8,21 @@ canon: false
 
 # The Shadow That Nested
 
-The second shadow crossed the pump fields while Adal still had one boot hooked under the tug's open equipment rack.
+The second shadow crossed the western districts while Adal still had one boot hooked under the tug's open equipment rack.
 
-It showed on his visor map as a dark, straight bruise following the moon's round umbra west. The two were separate on this pass. On the next, the projected shapes slid together over the reservoirs and the long banks of thermal storage that kept the surface grids alive through eclipse.
+It showed on his visor map as a dark, straight bruise following the moon's round umbra west. The two were separate on this pass. On the next, the projected shapes slid together over the long banks of thermal storage that kept the surface grids alive through eclipse.
 
-"Revised track," Enver said from the ground. His voice arrived thin and late, with control-room speech behind it: numbers, a dropped tool, someone insisting a district name twice. "North charging yards closed when the second edge appeared. South followed. They called it an omen closure, so the queues are empty. Storage can carry one shadow. Not both."
+"Revised track," Enver said from the ground. His voice arrived thin and late, with control-room speech behind it: numbers, a dropped tool, someone insisting a district name twice. "North charging yards closed when the second edge appeared. South followed. People are calling it an omen and staying away, so there's nothing on the yard plugs to feed back into the grid. Storage carries the eclipse alone. It can carry one shadow. Not both."
 
 Bero rolled the tug before Enver's last word reached them. Stars tipped across Adal's visor, then steadied. "If the straight track keeps its measured rate, we intercept in eleven minutes. If it accelerates under light, twelve and we miss the near rim."
 
-"Eleven," Adal said. "Keep the moon out of the lamps."
+"Plan on eleven," Adal said. "Mask the moon's glare out of the optics."
 
-"The raw feed will lose the rim."
+"With the moon masked, the display pushes gain on everything dark. It'll draw you edges that aren't there."
 
-"Capture first. Enhance after."
+"Run it until we're close. Then kill it."
 
-The straight shadow had looked, from below, like something added to the sky. From the tug it took a long time to become anything at all. Adal saw a run of stars disappear, reappear, then disappear farther on. Bero killed the cabin display's enhancement. There it was: a black lattice nearly edge-on to the sun, larger than the tug's approach radar wanted to admit, hanging off the moon's apparent limb without touching it.
+The straight shadow had looked, from below, like something added to the sky. From the tug it took a long time to become anything at all. Adal saw a run of stars disappear, reappear, then disappear farther on. The enhanced display offered three different rims on the way in. Close in, Bero killed the enhancement. There it was: a black lattice nearly edge-on to the sun, larger than the tug's approach radar wanted to admit, hanging off the moon's apparent limb without touching it.
 
 Pado leaned across the cockpit rail. Her sleeve nudged Adal's helmet.
 
@@ -30,17 +30,15 @@ Pado leaned across the cockpit rail. Her sleeve nudged Adal's helmet.
 
 "The window lies about contrast." She pointed at the raw optical feed. "That rib repeats. There. Again."
 
-Regular bays emerged as Bero yawed them. A rim curved beyond both sides of the view. Inside it lay eight broad vanes, overlapping like the leaves of a shutter and canted just enough to throw a single hard patch of night. Inspection chevrons, faded to pale scratches, marched along the outer truss. No beacon answered. No registry recognized the shape.
+Regular bays emerged as Bero yawed them. A rim curved beyond both sides of the view. Inside it lay eight broad vanes, overlapping like the leaves of a shutter and canted just enough to throw a single hard patch of night. Inspection chevrons, faded to pale scratches, marched along the outer truss. Bero's beacon query came back empty, and so did the registry search.
 
 "Sunshade," Adal said.
 
-"Was," Bero answered. "The collar's lost attitude. Solar pressure has been walking it broadside."
+"The collar's lost attitude," Bero said. "Solar pressure has been walking it broadside."
 
 Enver came back over them. "Second edge is visible from the western stations now. Revised overlap begins in fifty-three minutes."
 
-"Ground, copy fifty-three," Adal said. "We have eight shutter sectors on one collar. Going outside."
-
-"I said fifty-two by the time you receive this."
+"Ground, copy fifty-three," Adal said. "Your second edge is a machine. An old sunshade, no beacon, not in any registry. Eight shutter sectors on one collar. Going outside."
 
 Adal shut his helmet and checked Pado's seal. She checked his, one glove pressing each shoulder ring, then slapped the suit status panel when it continued to blink amber.
 
@@ -50,7 +48,7 @@ Adal shut his helmet and checked Pado's seal. She checked his, one glove pressin
 
 The amber cleared. They cycled out with two drive packs, a line reel, and the portable jack Adal expected to use on the collar. Its case bumped his thigh as the airlock opened.
 
-Outside, the sunshade refused to fit inside sight. The nearest ribs were pale beams scored by dust and old thermal cracks; the far rim dissolved into black. Adal crossed by tether, taking the structure through his gloves one handhold at a time. Each contact delivered a faint, irregular tapping. Not loose metal. Too many soft starts and stops.
+Outside, the sunshade refused to fit inside sight. The nearest ribs were pale beams scored by dust and old thermal cracks; the far rim dissolved into black. Adal crossed by tether, taking the structure through his gloves one handhold at a time. Each contact delivered a faint, irregular tapping. It had too many soft starts and stops to be loose metal.
 
 He reached the collar and turned his lamps inward.
 
@@ -106,27 +104,23 @@ The delayed command hung between them. Pado looked. Her breathing slowed once, d
 
 "If full drive is out," Bero said, faster now, "a tow only rotates the entire lattice. I can move its center line maybe half a degree before eclipse. That doesn't separate the tracks. More thrust and I fold a rib."
 
-"Cut it loose from the collar," Enver said. He must have heard only the first part. "Can you cut the vanes free?"
+Enver's answer to "full drive is out" arrived over the end of it. "Then cut the vanes loose from the collar. Can you cut them free?"
 
-"No," Adal and Bero said together.
+Adal and Bero both said no. Bero kept going, and Adal let him. "Free shutters become eight occulting objects with no attitude reference. Ground, did you hear?"
 
-Bero continued through Adal's answer. "—because free shutters become eight occulting objects with no attitude reference. Ground, did you hear?"
+Adal waited for the channel to clear. "Severing makes debris and keeps the shadow. Tow can't turn it far enough. Drive destroys what's on the bearings."
 
-Adal waited out the overlap. "Severing makes debris and keeps the shadow. Tow can't turn it. Drive destroys what's on the bearings."
+"Copy no cutting, no tow, no drive," Enver said when the lag had run. "Overlap now forty-six minutes. Storage bank three has gone to reserve early."
 
-"I heard tow," Enver said. "Overlap now forty-six minutes. Pump row three has gone to reserve early."
-
-"Correction," another ground voice cut in. "Row three is coasting. Row four took reserve."
-
-Pado floated with her helmet near the fibers, following one line without touching it. "Waiting might change the load. These aren't rooted here."
+Pado floated with her helmet near the fibers, following one line without touching it. "They strung these. They might take them up again if we wait."
 
 "Waiting spends the pass," Adal said.
 
-"Yes. It may still give us a smaller motion than your tick did."
+"Yes. It might also buy you a gap with nothing across it."
 
 There it was, the maintenance answer he disliked most: stand beside a broken system and let something else set the schedule.
 
-He pulled himself along the collar. The shutter had been built to survive drive failure; it had to have local isolation. Under nests and accreted grit, he found a service rail running around the rim. The first mechanism on it looked like a thick metal jaw with a recessed crank and a dog symbol stamped beside it. No power lead. No shared control bus. Honest machinery.
+He pulled himself along the collar. The shutter had been built to survive drive failure; it had to have local isolation. Under nests and accreted grit, he found a service rail running around the rim. The first mechanism on it looked like a thick metal jaw with a recessed crank and a dog symbol stamped beside it. Nothing ran to it, no power lead and no control bus; someone had built it to be worked by hand.
 
 Adal scraped the label clear with his thumbnail. "Maintenance dog. Sector isolation."
 
@@ -134,7 +128,7 @@ Adal scraped the label clear with his thumbnail. "Maintenance dog. Sector isolat
 
 "Individual. Clamp the collar, release a sector clutch, hand-jack that leaf. Portable gear won't turn the array, but it can feather one sector."
 
-"How many?" Enver asked.
+Enver's question reached them while Adal was still wiping grit from the stamped legend. "How many?"
 
 Adal could not answer that. "Bero."
 
@@ -146,7 +140,7 @@ The pilot was silent for several seconds. Adal pictured him spreading the eight 
 
 No answer yet. He opened the dog's crank socket and found it dry but intact. The hand crank seated with a deep, satisfying stop.
 
-"Your bands must stay under ninety seconds at any one surface line," Enver said when the signal returned. "That leaves thermal reserve at four percent. I need the first separation before thirty-one minutes."
+"No single band over ninety seconds on any surface line," Enver said when the signal returned. "That leaves thermal reserve at four percent."
 
 "Four sectors," Adal said. "We inspect all dogs, then pick alternating leaves."
 
@@ -154,7 +148,7 @@ Pado had turned away from him. Beyond her, the sun reached the outer rim as the 
 
 One by one, the adults loosened the lines that crossed from fixed housing to moving ring. They did not dismantle the cups. They drew fibers in with hooked forelimbs, shortening the bridges until the shutter gaps lay clear. Then the first body released. Sunlight took its wings. It slid outward along the bright edge, turned without a thrust Adal could see, and joined a stream lifting from the rim.
 
-Pado spoke slowly. "Heat departure. No. I retract that. They're leaving the warmer housing, not seeking it. Could be surface charge at the light edge. Could be magnetospheric current. The wings are taking solar pressure once they're clear."
+Pado spoke slowly. "Heat departure. No. I retract that. They're leaving the warmer housing. Could be surface charge at the light edge. Could be magnetospheric current. The wings are taking solar pressure once they're clear."
 
 "The fibers," Adal said.
 
@@ -164,35 +158,27 @@ Pado spoke slowly. "Heat departure. No. I retract that. They're leaving the warm
 
 "I have one edge. I don't have a cycle."
 
-Adal moved to the next dog. A nest cup covered half its jaw, but no line crossed the crank. Sector C's dog was buried three layers deep. At E, adults had begun opening their sails. At G, the fixed housing looked furred with cups all the way to the service rail.
+Adal worked along the rail to B's dog. A nest cup covered half its jaw, but no line crossed the crank. Sector C's dog was buried three layers deep. From there he swung his lamps across the collar to the far side. At E, adults had begun opening their sails. At G, the fixed housing looked furred with cups all the way to the service rail.
 
 "Mark C and G occupied," he said. "A clear after edge. E clearing."
 
-"Your alternating set is A, C, E, G," Bero said. "That is the cheap balance."
-
-"C and G are the densest."
-
-"I said cheap, not available. Give me every clear dog."
+"That kills A, C, E, G," Bero said. "It was the cheapest balance on reaction. Give me every clear dog."
 
 Adal and Pado split around the rim, the line reel between them paying out against the truss. The machine's scale became dog sockets, tether clips, the shove of a stuck inspection cover. D was clean but its roller gap carried five taut spans. F's crank moved, then stopped against something soft beneath the jaw; Adal backed it off without testing again. H had cups around the housing and a clear service track.
 
-The overlapping leaves broke the advancing light into separate passages. A second edge passed H. Its adults unhooked the crossing strands, waited with wings open, then launched after those from A. The motion came in bursts separated by stillness. Some bodies failed to catch whatever carried the others and folded back against the rim. None approached the crew. None repeated the tug of a line in response to Pado's lamp or hand.
+The overlapping leaves broke the advancing light into separate passages. A second edge passed H. Its adults unhooked the crossing strands, waited with wings open, then launched after those from A. The motion came in bursts separated by stillness. Some bodies failed to catch whatever carried the others and folded back against the rim. None approached the crew, and none stirred when Pado passed her lamp or her hand near their lines.
 
-"Second edge matches the first," Pado said. "Launch follows light."
+"Second edge matches the first," Pado said. "They go when the light reaches them."
 
-"Certainty?"
+"Can I plan on that?" Adal asked.
 
-"No. Retraction: it follows a moving boundary that includes light. We changed vibration between observations. I can't call which cue."
+"Not yet. We changed the vibration between the two edges, so it could be that."
 
-"I need openings, not motives."
+"Then tell me what's open now," Adal said.
 
 "A, E, H clear at the gaps for now. D is slackening. F isn't."
 
 Enver broke in. "Twenty-eight minutes. Eastern stations have the moon's leading dim. Your straight edge has widened by six percent."
-
-"Six?" Bero asked.
-
-"Six percent."
 
 "If width is six, I need three point three average. Adal, don't open anything under three."
 
@@ -226,7 +212,7 @@ He leaned into the jack.
 
 Torque came up through his chest. The sector leaf moved with majestic reluctance, a black plane changing angle against the stars. At the first fraction of a degree, every nearby body clamped down. Loose lines tightened. The strand Adal had moved whipped against his guide.
 
-"Stop," Pado said.
+"Stop," Pado said. "Everything at D just clamped."
 
 "Stopped. A at point two. Bero?"
 
@@ -234,7 +220,7 @@ Torque came up through his chest. The sector leaf moved with majestic reluctance
 
 "Confirmed stopped. Pado?"
 
-She took a breath before answering. "My light-edge forecast was wrong about continued slack. First motion resets the clamp. Wait for release. Smaller pulses after."
+She took a breath before answering. "The light didn't keep them loose. Any motion on the collar clamps them again, even three sectors off. Wait for release. Smaller pulses after."
 
 "How long?"
 
@@ -246,7 +232,9 @@ Adal held the jack still. Designed state sat three degrees away. The machine inv
 
 It softened after twelve.
 
-"A spans releasing," Pado said from D. "Try one tenth. Pause on tension."
+"A's releasing," Adal said.
+
+"D too," Pado said. "Try one tenth. Pause on tension."
 
 "One tenth. Pause."
 
@@ -254,45 +242,41 @@ The work became offensively small. Press the jack until the scale moved. Stop be
 
 E went faster because they knew what not to do. Pado watched the spans from the underside while Adal jacked. She called "hold" twice before he saw any change, and once after his hands had already stopped.
 
-"You're repeating me," he said.
+"You called hold after I'd stopped," he said.
 
-"Your suit isn't showing receipt."
+"Your suit didn't send me a stop tone. I can't see your hands from under here."
 
-"My hand is the receipt."
+"Then listen for my call. Holding. E at three point four."
 
-"I can't see your hand through a shutter. Hold."
-
-"Holding. E at three point four."
-
-"Now I see it."
+She sighted along the leaf until a star sat still against its edge. "Stopped. I have it."
 
 Adal seated E's sector pin before they moved on.
 
 At D, the launch wave had cleared the roller but left two adults wrapped around the dog jaw. Pado had been right not to abandon it; when the leaf's shadow shifted, they lifted off together, leaving the crank bare.
 
-"D clear," she said. "Clear at the dog and gap. That is observation, not a prediction."
+"D clear," she said. "Dog and gap both."
 
 "We take it."
 
-Bero cut in. "If D, then H. A-D-E-H balances within my hold limit. Unequal band spacing. Ground must accept one hundred eight seconds on the southern line."
+Bero cut in. "If D, then H. A-D-E-H balances within my hold limit. Unequal band spacing. The southern line gets one band of one hundred eight seconds. Ground has to accept that."
 
 "Ground, can you carry one-oh-eight?" Adal asked.
 
 Silence. He clamped D's dog while he waited.
 
-"No answer isn't yes," Pado said.
+"They haven't answered," Pado said. "If they say no, you've shaken D's animals for nothing."
 
-"I know what no answer is. Seat the clutch tool."
+"Clamp only. Nobody jacks until they answer. Seat the clutch tool."
 
-Enver arrived as Pado locked it. "Southern thermal can take one hundred twelve. Not one more. West pumping has stopped to preserve head. You have nine minutes until the tracks touch."
+Enver arrived as Pado seated it. "Southern thermal can stretch to one hundred twelve on that line. Not one more. West district is shedding load to cover it. You have nine minutes until the tracks touch."
 
 "D and H," Adal said. "Three point two each."
 
 "If H stays clear," Bero said. "If H closes, your remaining set needs G."
 
-"G stays locked."
+"Nobody touches G."
 
-"Then H must work. I am giving you the branch, not arguing it."
+"Then H has to work the first time. I can't hold reaction through a second try."
 
 At D's second pulse, Pado's voice lost its careful spacing. "Hold hold, line under the jaw, your side, Adal, your side."
 
@@ -304,9 +288,9 @@ He stopped, but the jack took another fraction through gearbox windup. A fiber d
 
 "One tooth. Hold reaction."
 
-He reversed the crank until the line bowed. Pado guided it out from under the jaw without pulling it toward herself. They waited. When it slackened, she laid it with the other fixed-side strands.
+He backed the jack one tooth until the line bowed. Pado guided it out from under the clamp plate without pulling it toward herself. They waited. When it slackened, she laid it with the other fixed-side strands.
 
-"Clear," she said, slower. "I withdraw 'under the jaw.' It was under the clamp plate. Jaw is clear."
+"Clear," she said, slower. Her breathing was loud on the open channel.
 
 "D advancing one tenth. Confirm."
 
@@ -320,21 +304,19 @@ They pinned D at three point two. The tug's attitude jets fired in brief, hard t
 
 "Three exactly," Adal said. "Pado, go H."
 
-They hauled themselves along the line. The sun had reduced to a white blade at the moon's edge. Beneath them, broad panels cast darkness onto a world Adal could not see. H's service track was open, as Pado had reported. Beyond it, G remained thick with woven cups and folded bodies. Its perfect place in the alternating set was no reason to put a tool through it.
+They hauled themselves along the line. The sun had reduced to a white blade at the moon's edge. Beneath them, broad panels cast darkness onto a world Adal could not see. H's service track was open, as Pado had reported. Beyond it, G remained thick with woven cups and folded bodies.
 
 At H, three strands still crossed the roller.
 
 "Not clear," Adal said.
 
-"They were," Pado answered. "New crossings, or ones I missed. I can't tell."
+"The gaps were clear," Pado answered. "New crossings, or ones I missed. I can't tell."
 
 "Time?"
 
-"Three minutes to contact," Enver said. No preamble now. "Charging yards remain closed. Reservoir pumps are coasting."
+"Three minutes to contact, on ground's last count," Bero said. "If you begin H in thirty seconds, I can hold three degrees. If not, leave the three where they are and we take the overlap. Three sectors make bands too wide."
 
-Bero said, "If you begin H in thirty seconds, I can hold three degrees. If not, leave all four where they are and we take the overlap. Three sectors make bands too wide."
-
-Pado watched the folded animals along H. "The boundary is coming. Maybe twenty seconds. That is a range, not a call."
+Pado watched the folded animals along H. "The ones at the far end are opening. Twenty seconds, maybe."
 
 Adal set the jack case against the truss, not the housing. "Dog ready. Clutch ready. We wait for the spans."
 
@@ -364,7 +346,7 @@ Adal cranked. The telltale rose. He released the clutch and took the gearbox in 
 
 "Contact in eighty seconds," Enver said.
 
-Adal advanced H by tenths. Clamp, wait, release. Clamp, wait, release. At two degrees his forearms shook inside the suit. Pado took the crank without asking and moved the next tooth while he kept pressure on the gearbox body.
+Adal advanced H by tenths. Clamp, wait, release. Clamp, wait, release. At two degrees his forearms shook inside the suit. Pado took the jack's handle without asking and moved the next tooth while he kept pressure on the gearbox body.
 
 "Two point six," Bero said. "Two point eight. Stop at three."
 
@@ -390,11 +372,11 @@ Adal clipped the jack to the service rail. Around the rim, the migration streame
 
 The hiss broke.
 
-"Moon umbra passed the west reservoirs," Enver said. His plain voice was nearly buried under ground-room traffic. "First shade band now. Forty-one seconds. Light. Second band, fifty-three. Light. Southern line entering."
+"Moon umbra passed the west district," Enver said. His plain voice was nearly buried under ground-room traffic. "First shade band now. Forty-one seconds. Light. Second band, fifty-three. Light. Southern line entering."
 
 No one filled the intervals. Adal kept one glove on H's dog and felt for movement.
 
-"Southern line clear," Enver said at last. "One hundred nine seconds total. Storage low point four point three. Pumps restarting in sequence. The two shadows did not overlap."
+"Southern line clear," Enver said at last. "One band, one hundred nine seconds. Storage low point, four point three percent. West district taking load back in sequence. The two shadows did not overlap."
 
 Bero exhaled into the channel. "Return reserve is eight percent. I need you off the rim."
 
@@ -408,4 +390,4 @@ Adal reeled in the guide line. Pado covered the jack sockets and marked the four
 
 "Recorded," Enver replied. Then, after the lag: "West charging yard reopened one gate."
 
-Adal took the tether Pado passed him and pushed away from the rim. Behind them, four narrow seams of sunlight opened through the shutter. The rest of the ancient shade remained broadside, inhabited, and broken.
+Adal took the tether Pado passed him and pushed away from the rim. Behind them, four narrow seams of sunlight opened through the shutter. The rest of the ancient shade stayed broadside to the sun, its housings still full of cups.
