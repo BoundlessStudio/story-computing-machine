@@ -272,7 +272,7 @@ He nodded. “That's what I came for.”
 
 “I'd have liked that.”
 
-The youngest was pulling Mother toward the auditorium. Braulio stood by the cardboard train, picking at the seam between two sections. I had been pleased to have everyone following me down the street. Even in the cinema, I'd found myself a place with a child at either elbow. Now I wanted Papa all to myself and somebody else to do the disappointing.
+The youngest was pulling Mother toward the auditorium. Braulio stood by the cardboard train, picking at the seam between two sections. I wanted Papa all to myself and somebody else to do the disappointing.
 
 “I did want them to come,” I said. “When I asked.”
 
