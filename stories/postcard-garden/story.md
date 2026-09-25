@@ -154,7 +154,7 @@ She attached a photograph of the red flesh of a stored fruit, cut open for her a
 
 ***
 
-The departure ground's old embarkation hall had a roof shaped like an open fan. Solar flowers filled the apron where passengers had once queued. Beyond them, between low hills, stood an enormous empty assembly cradle, its steel hoops full of swallows.
+The departure ground's old embarkation hall had a roof shaped like an open fan. Solar flowers filled the apron where passengers had once queued. Beyond them, between low hills, stood an enormous empty assembly cradle, its steel hoops full of swallows. On the nearer hill a radio dish tilted slowly among grasses.
 
 Zinnet arrived on the fifth afternoon with dust in her gold ankle joints. A fern sale occupied the entrance. She bought nothing, because of the pear, and went directly to the roses.
 
@@ -280,7 +280,7 @@ Zinnet saved it all.
 
 ***
 
-In the morning she went to the ground's communications garden. Among beds of tall grasses, a working radio dish listened to the sky; contemporary astronomers shared its schedule with visitors using the old departure addresses. The booking screen offered her a short outgoing slot that night.
+In the morning she climbed the nearer hill to the ground's communications garden. Among beds of tall grasses, the dish listened to the sky; contemporary astronomers shared its schedule with visitors using the old departure addresses. The booking screen offered her a short outgoing slot that night.
 
 She selected Farleaf's destination. A line of small text placed delivery eleven years ahead. Even an immediate answer could not return until twenty-two years had passed.
 
