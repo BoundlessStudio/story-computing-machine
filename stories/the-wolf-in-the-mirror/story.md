@@ -334,7 +334,7 @@ I thought about lying. They waited.
 
 I passed them the small control from the wall. They pressed the recessed key themselves. The blinking stopped.
 
-We sat in the new quiet. Their knee leaned against mine, whether from fatigue or choice I did not ask. Beyond the inner gate, the basin waited six inches left of where I had drawn it, beside a fan of wet pawprints.
+We sat in the new quiet. Their knee leaned against mine, whether from fatigue or choice I did not ask. Beyond the inner gate, the basin waited six inches left of where I had first drawn it, beside a fan of wet pawprints.
 
 "Next month," I said, "what do you want to do about the mirror?"
 
