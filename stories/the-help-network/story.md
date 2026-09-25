@@ -100,7 +100,7 @@ The card crossed oceans by ordinary means. A girl carried a copy on a family vis
 
 There were mornings when a girl's after-school message arrived while Cassia brushed her teeth, and nights when the background of a voice note held breakfast dishes. A joke about a monster's manners crossed two translations and returned as *the disaster is wearing polite shoes*. Cassia laughed so hard she had to sit down. The original sender reacted with a baffled face, then asked to have the broken version back.
 
-Help looped through the same hands. The girl from the bus stop later kept a dawn check-in for somebody else. A person who had once asked what to eat after transforming became the bridge for a language Cassia did not speak. The new bridge translated *stay warm* as *stay in light*; the girl who had asked sent a photograph of one blanket corner, a third person corrected the phrase, and all three reacted with laughing faces. Cassia had introduced none of them.
+Help looped through the same hands. The girl from the bus stop later kept a dawn check-in for somebody else. A person who had once asked what to eat after transforming became the bridge for a language Cassia did not speak. The new bridge translated *stay warm* as *stay in light*; the girl on the other end sent a photograph of one blanket corner, a third person corrected the phrase, and all three reacted with laughing faces. Cassia had introduced none of them.
 
 The name appeared near the middle of the term.
 
@@ -248,7 +248,7 @@ Then Bryn's half-message disappeared. The second one stayed.
 
 Before the first mark, Drita wrote in the side channel: **One interval each, then let other people have it. We have school.** Bryn reacted with a thumbs-up. Cassia sent **ok**.
 
-At the next five-minute mark, Cassia sent a dot. Five minutes later Drita sent one. Then a person whose waking hours usually overlapped none of theirs took the interval after that. Another helper posted from her lunch break. The dots were not perfectly spaced. Two arrived together; the requester responded with **one only please**, and Cassia put both hands under her thighs to keep from apologizing into the thread.
+At the next five-minute mark, Cassia sent a dot. Drita sent the next one, and Bryn the one after that. Then a person whose waking hours usually overlapped none of theirs took the fourth. Another helper posted from her lunch break. The dots were not perfectly spaced. Two arrived together; the requester responded with **one only please**, and Cassia put both hands under her thighs to keep from apologizing into the thread.
 
 Near four in the morning, nobody had claimed the next mark. Cassia had already had her interval. She typed a dot anyway and held it there. Before she could send, a dot appeared from the regional relay.
 
