@@ -12,7 +12,7 @@ At 06:11 the sea began to leave by falling upward.
 
 Anouk Verren watched the first beads lift from the black water beyond the breakwall. They rose separately at first, each catching the work lamps, then in silver ropes. Within minutes the ropes became a sound like grain poured onto canvas. The open sea lowered while a white ceiling thickened above it, flat-bottomed and fixed over the coast. Rain striking the harbor reversed as it fell. Drops slowed, trembled, and went back to join the salt cloud.
 
-The oldest mast logs had been written by crews now dead. No one on the coast expected to work this day twice.
+The oldest mast logs had been written by crews now dead. No one on the coast expected to work this day twice. Past the fifth marker, if the old charts were right, lay Namarra, the drowned king's court, where the legend still had him on his throne.
 
 Water remained under the loading pier and along the deep berth where the trawlers tied up. Beyond them, isolated pools shone on the emerging shelf. Mud did not dry merely because the weight above it had gone.
 
@@ -216,7 +216,7 @@ She knelt, measured, then changed pencils. “Dismantling within one bounded int
 
 “I didn't say it did.”
 
-He turned away before they could rebuild the institute table here. There was work: six mark groups, four lining phases, three lid sizes, a cell map to draw.
+He turned away before they could rebuild the institute table here. There was work: six sets of marks, four lining phases, three lid sizes, a cell map to draw.
 
 He could call this much without calling the rest: a floodable reef-and-shellfish commons, kept by several work groups and taken apart along the haul line in what looked to him like a planned retreat. Beyond the mapped cells, his page stayed blank.
 
@@ -388,7 +388,7 @@ Short of marker three, gas burst through the silt off to their right in a row of
 
 The nursery pool had overflowed its eastern rim, exactly where Anouk's original route would have taken them. The juveniles still circled in the deep centre. At the landward edge, two shore workers in orange suits had reached the basin with aeration packs and small transport tubs.
 
-Anouk had what was left of the seventy-three minutes running in her head, and the north side would take eight of them.
+The north side would cost eight of the seventy-three minutes, and she would already have that number.
 
 “North,” she said, before he could turn. “Four hundred and twelve metres.” She led them around.
 
