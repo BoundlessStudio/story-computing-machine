@@ -12,11 +12,11 @@ At eleven minutes before my daughter's eighteenth birthday audience, I sentenced
 
 He had brought ledgers, witnesses, and the carcass tag from the last pack beast in his district. Fever had killed the animals. Without them, the ore carts had stopped; without ore, his quarterly payment had fallen short by nine iron bars. His defense was thorough. I disliked thorough defenses. They suggested that circumstance might outrank me.
 
-"The vaults, Majesty?" my chancellor asked. He had perfected the courtier's trick of making a question sound like praise.
+"The vaults, Majesty?" my treasurer asked. He had perfected the courtier's trick of making a question sound like praise.
 
 "The lowest vault," I said. "Seize his house against the deficit. His family may keep their clothes."
 
-The reeve's wife stood behind the petition rail. Two boys clung to her skirts. She did not beg after that. Fear had taught her the value of conserving breath.
+The reeve's wife stood behind the petition rail. Two boys clung to her skirts. She did not beg after that.
 
 My decree was still being copied when I noticed that the ribbons above the western arch were scarlet.
 
@@ -26,11 +26,7 @@ Six courtiers looked up. The reeve was dragged toward the side door. Everyone el
 
 My chamberlain swallowed. "The decorating staff believed red would more suitably honor the throne."
 
-"My daughter asked for rose."
-
-"A nuanced distinction, Majesty."
-
-"Then nuance their wages to nothing until the distinction is corrected."
+"My daughter asked for rose. Stop their wages until the ribbons are rose."
 
 The chamberlain hurried away. Rose was not pink, as I had explained that morning, nor was it the color of fresh flame. It was the color of the paper flowers Nimelza had cut for herself when she was nine, because the royal gardeners had presented her with black lilies that hissed at guests. She had wanted a gentle color. I had dismissed three gardeners and compelled the fourth to breed a thornless variety by supper.
 
@@ -40,7 +36,7 @@ Cruelty requires consistency. So, apparently, did tenderness.
 
 Nimelza entered the audience hall as the last scarlet ribbon came down. She wore no crown, only the smoke-gray dress she had chosen and the soft-soled slippers I had ordered warmed to precisely the temperature of bathwater. Her dark hair was pinned up with one bent silver clasp. I had given her better clasps. She preferred that one because I had fastened it badly on her seventh birthday and she had laughed until her nose ran.
 
-She glanced toward the side door through which the reeve had vanished.
+She glanced toward the side door in time to see the reeve's heels scrape over its threshold before it shut.
 
 "What did he do?" she asked.
 
@@ -56,7 +52,7 @@ The servants brought her breakfast tray to the little chair beside my throne: pe
 
 "You should not have to."
 
-"That isn't the same as saying I couldn't."
+"A whole month? He's the only one who leaves the skin on."
 
 "It is your birthday. Don't argue over chocolate."
 
@@ -78,7 +74,7 @@ Nimelza watched me as if I had mispronounced a common word. "You said I could as
 
 "I was admitted."
 
-That landed less like an argument than an opened trapdoor. Around us, courtiers discovered urgent flaws in the rose ribbons.
+I had not known that. Around us, courtiers discovered urgent flaws in the rose ribbons.
 
 I rose. "Seal the royal gate. No member of my household crosses without my hand on the seal. Clear the hall."
 
@@ -92,7 +88,7 @@ She looked at the spill. "You frightened him."
 
 "Then he should have had firmer hands."
 
-She picked up her breakfast roll and tore it in half. It was an old habit from when her hands had been too small to manage one neatly. She ate one half and wrapped the other in a napkin.
+She picked up her breakfast roll and tore it in half. It was an old habit from when her hands had been too small to manage one neatly. She ate one half and wrapped the other in a napkin for her pocket, as she did whenever she meant to go somewhere. I assumed it was for a journey she was not going to take.
 
 "Come with me," she said. "I have documents."
 
@@ -118,17 +114,17 @@ She had completed human equivalency examinations under a shortened version of he
 
 "We break beams here," I said.
 
-"Here they confess before they break. I want to learn what a structure does when nobody has ordered it to stay standing."
+"Here you fine the masons. They put the beam in a press and measure where it cracks, and then they do it again with a different beam."
 
 "You can hire human tutors."
 
-"I don't want tutors who know your guards are outside the door. I want bad dining-hall food and a roommate who doesn't care which fork I use. I want to be wrong in a room where nobody gets punished for noticing."
+"No. They'd know your guards were outside the door. Every tutor I've ever had knew, and they marked everything kindly. I want bad dining-hall food and a roommate who doesn't care which fork I use. I want to be wrong in a room where nobody gets punished for noticing."
 
 The last sentence had been practiced. I could hear the clean edge on it. She heard it too and looked down at her papers.
 
 I began with the dangers because dangers were countable. Human iron. Human doctors. Infernal rivals who would follow her across. The political value of a royal heir. The ease with which eighteen years of careful survival could end in an unlocked residence window.
 
-She had answers. The room had a lock and only one ground-level window. The campus employed night staff. She had tested common metals against her skin. She had arranged money through a lawful exchange and learned the four-minute walk from the human gate to the residence desk. She had packed medicines, copied her records, and practiced folding her horns under a knitted cap.
+She had answers. The room had a lock and only one ground-level window. The campus employed night staff. She had tested common metals against her skin. She had arranged money through a lawful exchange and learned that the human gate let out into a service passage forty steps from the residence desk. She had packed medicines, copied her records, and practiced folding her horns under a knitted cap.
 
 "You have not practiced being unguarded," I said.
 
@@ -140,7 +136,7 @@ She had answers. The room had a lock and only one ground-level window. The campu
 
 I had prepared for denial. Agreement left me holding my anger without a handle.
 
-She touched the admission letter. "There is a final confidential check at nine. I have to complete it myself. Then I have to arrive before midnight or they give the room to someone else."
+She touched the admission letter. "There's a final confidential check at nine. I have to complete it myself. Then I have to arrive before midnight or they give the room to someone else."
 
 "You arranged a deadline so I could not investigate."
 
@@ -148,17 +144,19 @@ She touched the admission letter. "There is a final confidential check at nine. 
 
 "You used your birthday audience to corner me."
 
-"Yes. I thought you'd care more about breaking the custom in public than about stopping me. I was wrong."
+"Yes. I thought—" She pressed her thumb into the corner of the letter. "You've never said no to me in front of them. Not once. I checked, all the way back to the pear cake. I thought you'd mind that more than you'd mind me going." She stopped. "I got that wrong."
 
-Her fluency had begun to roughen. Good. Anger restored the proper order of things.
+Her voice had caught on the pear cake. Good. My anger found its handle again.
 
 "You will withdraw."
 
 "No."
 
-"That was not a request."
+"I will have every pane of human glass in this palace broken before nine."
 
-"Mine was."
+"The check's at nine and I'm doing it." She sat down at the writing desk and pulled the residence contract toward her. "Shout at me till then if you want. I have to read this again."
+
+I did not break the glass. I left, and came back twice before evening, and both times she was still reading.
 
 At nine, the confidential check appeared on a flat pane of human glass balanced on two poetry books. The woman on the screen wore a blue sweater and spectacles. Behind her stood a filing cabinet with one drawer that did not quite close. I had crushed rebellions with tidier headquarters.
 
@@ -194,15 +192,15 @@ Nimelza's shoulders lowered by a fraction. "Yes."
 
 "No. He's requiring me not to."
 
-The registrar typed. No shock, no moral pronouncement, no admiration. "Do you have an emergency contact?"
+The registrar typed something and moved on. "Do you have an emergency contact?"
 
 "My father."
 
 "Can the college contact him by telephone?"
 
-"Not by telephone. I have a signal mirror, and there is a one-use return token in my luggage."
+"Not by telephone. I have a signal mirror."
 
-"Does the residence staff know how to use either?"
+"Does the residence staff know how to use it?"
 
 Nimelza opened her mouth. Nothing came out.
 
@@ -218,7 +216,7 @@ The registrar asked, "Do you have a local contact who understands your medical n
 
 "No. I thought the standard clinic would be enough. I checked everything they list, but they don't list me."
 
-"All right. Standard emergency care is available. Staff may share necessary information if someone's life is at risk. We can't promise more than that. If you enroll, do you understand?"
+"All right. Standard emergency care is available. Staff may share necessary information if someone's life is at risk. We can't promise more than that. If you enroll, that's what you'll have. Do you understand?"
 
 Nimelza took a breath. "Yes."
 
@@ -238,19 +236,19 @@ The screen went dark a minute later. Nimelza remained at the desk, looking at he
 
 "I know. I thought I had it."
 
-The admission papers trembled when she gathered them. Her grand speech, if she had prepared one, did not survive the first real hole in her plan.
+The admission papers trembled when she gathered them. She squared them against the desk twice before the edges lined up.
 
 I summoned my advisers.
 
-They came eager to transform affection into an operation. The marshal recommended six guards dressed as students, with another twelve in nearby rented rooms. The chancellor suggested purchasing the residence, then the neighboring buildings, then the college if negotiations became discourteous. My chamberlain proposed replacing Nimelza's assigned roommate with a trained attendant of similar age.
+They came eager to transform affection into an operation. The marshal recommended six guards dressed as students, with another twelve in nearby rented rooms. The treasurer suggested purchasing the residence, then the neighboring buildings, then the college if negotiations became discourteous. My chamberlain proposed replacing Nimelza's assigned roommate with a trained attendant of similar age.
 
 "Replacement by incentive, of course," he said. "Or by a discreet impediment to the original person's arrival."
 
 "No," Nimelza said.
 
-They continued. A private dining hall disguised as a student café. Faculty contracts backed by penalties. A tunnel beneath her laboratory. A compulsory midnight report. The marshal had already drafted a response plan for any human who saw her horns; the chancellor called it a memory-hygiene measure.
+They continued. A private dining hall disguised as a student café. Faculty contracts backed by penalties. A tunnel beneath her laboratory. A compulsory midnight report. The marshal had already drafted a response plan for any human who saw her horns; the chamberlain called it a memory-hygiene measure.
 
-With every proposal, I watched Nimelza become quieter. I mistook that silence for concession until she took the folded half-roll from her pocket and set it beside my hand.
+With every proposal, I watched Nimelza become quieter. I took that silence to mean she was accepting the guards, until she took the folded half-roll from her pocket and set it beside my hand.
 
 "I withdraw my request," she said.
 
@@ -266,13 +264,13 @@ The advisers stopped.
 
 "With an emergency plan that fails the moment you cannot hold a mirror."
 
-Her rehearsed confidence was gone now. "Yes. It fails there. So I'll defer. I'll find a contact who agrees to know. I'll apply again, and I won't wait until my birthday to tell you. But I won't go with people spying on my roommate."
+She did not look at the advisers. "Yes. It fails there. So I'll defer. I'll find a contact who agrees to know. I'll apply again, and I won't wait until my birthday to tell you. But I won't go with people spying on my roommate."
 
 The chamberlain cleared his throat. "The young highness has expressed a prudent willingness to revisit the timetable. We might describe the outcome as a strategically postponed fulfillment."
 
 "Leave," I said.
 
-He bowed too quickly. The marshal and chancellor followed. At the threshold, the marshal looked back for orders regarding covert deployment.
+He bowed too quickly. The marshal and treasurer followed. At the threshold, the marshal looked back for orders regarding covert deployment.
 
 "If you send anyone across tonight," I told him, "I will assign you to the tally vault beneath the reeve."
 
@@ -286,9 +284,9 @@ Nimelza gathered her papers and the half-roll. "The registrar needs an answer. T
 
 She walked out carrying the small case she had packed before asking permission.
 
-I remained in her sitting room. On the desk lay a list in her tight handwriting: socks, notebooks, medicine, cap, soap, spare clasp. Beside *emergency contact*, she had written *father*, then drawn a box around it as if ink could make me usable from another realm.
+I remained in her sitting room. On the desk lay a list in her tight handwriting: socks (6), notebooks, medicine, cap, soap, spare clasp. Beside *emergency contact*, she had written *father*, then drawn a box around it as if ink could make me usable from another realm.
 
-The royal gate stood at the end of a bare basalt corridor. I had always liked its simplicity. No heraldry, no carved victories: only a doorway filled with pale moving air and, at its center, the black disc of my seal. The disc did not merely prohibit passage. It made prohibition material. That was the kind of magic I trusted.
+The royal gate stood at the end of a bare basalt corridor. I had always liked its simplicity. It had no heraldry and no carved victories, only a doorway filled with pale moving air and, at its center, the black disc of my seal. While the disc sat there, nothing passed. That was the kind of magic I trusted.
 
 Nimelza sat on her case before it, the human glass on her knees. The registrar's crooked drawer showed behind a box asking whether the applicant wished to relinquish her place.
 
@@ -316,7 +314,7 @@ Nimelza stood. "What are you doing?"
 
 "That is a foolish place."
 
-"It is the place she told me to put it."
+"It's where she told me to put it."
 
 I reached for her case. She pulled it closer. I released the handle.
 
@@ -342,9 +340,9 @@ Footsteps rang at the far end of the corridor. The marshal appeared with four gu
 
 He chose none.
 
-Nimelza tapped the enrollment box. The registrar asked her name, her intention, and whether she understood the emergency limitation. Nimelza answered. Her voice was not steady, but the answers were hers. The registrar told her to bring the screen to the residence desk and wished her a safe trip.
+Nimelza tapped the enrollment box. The registrar asked her name, her intention, and whether she understood the emergency limitation. Nimelza answered, stopping once to wipe her palm on her dress. To the last question she said yes, and added that she would name a local contact after arrival. The registrar told her to bring the screen to the residence desk and wished her a safe trip.
 
-The moving air brightened. Beyond it waited a tiled passage with a humming light, a metal door, and a printed arrow taped crookedly to the wall. No trumpets. No receiving delegation. An ordinary route into a place that had made no arrangements to fear me.
+The moving air brightened. Beyond it waited a tiled passage with a humming light, a metal door, and a printed arrow taped crookedly to the wall. Nobody stood there to receive her. It was an ordinary route into a place that had made no arrangements to fear me.
 
 Nimelza put on her knitted cap. One horn made a small peak in the wool.
 
@@ -366,13 +364,13 @@ It was not quite a question.
 
 For an instant, her face folded as it had when she was small and trying not to laugh during an execution notice. Then it settled. She stepped through.
 
-The pale air shivered around her case and closed behind her heels. She hurried down the passage. At its far end, a human hand took her papers and waved her through the metal door with two minutes left. The printed arrow stirred. At midnight, the route narrowed to a blank doorway, and my daughter was gone.
+The pale air shivered around her case and closed behind her heels. She hurried down the passage. At its far end, a human hand reached from behind the residence desk, took her papers, and waved her through the metal door with two minutes left. The printed arrow stirred. The door swung shut, and my daughter was gone.
 
 I replaced the seal without closing it to her token. The marshal waited behind the third arch, pale and obedient.
 
 "The court is still assembled," he said.
 
-Of course it was. There were sentences to sign, shortages to punish, and a family without a house waiting somewhere beyond the audience doors. In the hall, Nimelza's rose ribbons hung at last, exactly the shade she had asked for. Her warmed slippers were gone. Her pear cake remained beneath its silver cover.
+Of course it was. Nobody had dismissed it, so it had waited in the antechambers since morning. There were sentences to sign, shortages to punish, and a family without a house waiting somewhere beyond the audience doors. In the hall, Nimelza's rose ribbons hung at last, exactly the shade she had asked for. Her pear cake remained beneath its silver cover.
 
 I sat on the throne. The chair beside it stayed empty.
 
