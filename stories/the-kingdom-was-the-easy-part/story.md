@@ -14,9 +14,9 @@ The large white wolf emerged from beneath Cavren's chair with the leather loop b
 
 "Not ours," Oshara said. She was reading sideways on a settee with her feet tucked beneath Torvik's thigh. He had one arm along the cushion behind her and had been attempting, for most of a page, to court her away from the book. She gave him the strap instead. "Make yourself useful."
 
-Torvik inspected it. "I don't know what it is."
+Torvik inspected it with great seriousness. "It's a strap. Possibly a belt for a very thin man. Brum, whose is this?" The wolf thumped his tail. "He won't say, Oshara. He's protecting someone."
 
-"That has never stopped you before."
+Oshara kept reading.
 
 Around them, Manydoor Hall's library rose warm and crowded to its smoke-dark rafters. Books filled three tiers of shelves, climbed the mantel in wavering stacks, and lay open wherever an elbow had recently been. Firelight moved over the ladders and the tall windows, where the night beyond was hard and blue. The three other adults who had retired here after the campaign occupied their accustomed islands: the silver-braided scout reading under Oruvane's left wing; the former quartermaster stitching a split cushion at the tea table; the hedge-worker coaxing amber lights from her cupped palms into three glass lanterns. Every light lasted only as long as she fed it breath and attention. Brum, having completed his delivery, nosed hopefully among all three.
 
@@ -30,11 +30,11 @@ Cavren rose from the chair nearest the hearth. "Brum."
 
 The wolf looked at him, then at Torvik, who had begun fastening the road strap around his own forehead.
 
-"I believe," Torvik said, "it denotes rank."
+"The horse-lords in the east wear them like this," Torvik told the wolf. "Only the important ones. You'll have to call me sir now, Brum. Brum? He isn't calling me sir."
 
-"It denotes that you need to give it back."
+Cavren held out his hand.
 
-Torvik did. Cavren took the leather without smiling and returned to the chair, where a shield pack sat open at his boots. A whetstone, a road kettle, and a roll of oiled wool showed beneath its flap before he folded the strap over them.
+Torvik gave it back. Cavren took the leather without smiling and returned to the chair, where a shield pack sat open at his boots. A whetstone, a road kettle, and a roll of oiled wool showed beneath its flap before he folded the strap over them.
 
 Dabria crossed to him. "The end has stretched. Give it here."
 
@@ -56,17 +56,17 @@ Oshara lowered the book. "We're not going upstairs."
 
 "I am reading this one. Torvik is failing to."
 
-"I was waiting for the dangerous parts."
+"I've been waiting for the dangerous parts. She promised me dangerous parts."
 
 "There is a tax dispute."
 
-"There. You see?"
+"A tax dispute, Dabria. She's making me sit through a tax dispute."
 
-Oshara raised the book again, ending the matter by hiding her face behind it. Torvik caught Dabria's eye and made a tiny, pleading gesture toward the pages. Dabria ignored him. The evening card promised conversation, shared reading, mending, and games until third bell. She had written the words in different colors so it would not look like a roster.
+Oshara raised the book again, ending the matter by hiding her face behind it. Torvik made a tiny, pleading gesture toward the pages. Dabria ignored him. The evening card promised conversation, shared reading, mending, and games until third bell. She had written the words in different colors so it would not look like a roster.
 
 Oruvane lowered his chin onto one foreclaw. "We could hunt the dumplings."
 
-The quartermaster bit off a thread. "We ate them."
+The quartermaster bit off a thread. "We ate them at supper. You had eleven."
 
 "Then the hunt will be difficult."
 
@@ -86,7 +86,7 @@ Oruvane's lids descended halfway. "Do we?"
 
 "Within reason."
 
-"There it is," he said. "The little fence around every adventure."
+Oruvane's lids closed the rest of the way. "There it is," he said.
 
 Dabria wrote *Oruvane's recreation* on the back of the evening card. When she glanced up, Cavren had closed his pack. Oshara and Torvik were whispering behind the raised book. The scout read, the quartermaster stitched, and the hedge-worker kept her small suns alive. Everyone was still in the room. Oruvane was in the center of them, his painted wing making a blue night over half the library.
 
@@ -124,13 +124,13 @@ The wolf backed into view, tugging Cavren's packed traveling chest by its handle
 
 "Brum," Cavren said.
 
-Brum pulled harder. The chest slid out from behind the blue drawing-room door, bumped over a carpet ridge, and sprang open. Winter cloak. Wrapped rations. Whetstone. Road kettle. The shield straps from the library evening lay neatly coiled on top.
+Brum pulled harder. The chest slid out from behind the blue drawing-room door, bumped over a carpet ridge, and sprang open. Winter cloak. Wrapped rations. Whetstone. Road kettle. The road strap from the library evening lay neatly coiled on top.
 
 Torvik glanced at Cavren, then at Dabria. Whatever joke had offered itself, he let it die.
 
-"East side is clear to the outer corridor," the scout called. "If you want privacy for the murder, use that."
+"East side's clear to the outer corridor," the scout called, "if anybody needs a way out that doesn't go past the dragon."
 
-"No murder near the books," said the quartermaster from beneath a door.
+"Whoever is kneeling on the green door," said the quartermaster from somewhere beneath it, "that is veneer."
 
 Dabria climbed onto a bench. The lovers' oak door, marked by a pale scratch near the latch, blocked the west aisle. Cavren's stood across the hearth beside his chest. Beyond the inner turns, the iron-banded gate to the roof court made a final wall.
 
@@ -146,7 +146,9 @@ Oruvane's tail slid between the doors and pulled one brace sideways. Benches gro
 
 "The labyrinth rejects stale tactics," he said.
 
-"The labyrinth took the privy door," Oshara said. "Its judgment is compromised."
+"It took the privy door," Torvik said. "Oruvane, I don't think a labyrinth that takes the privy door gets to talk about tactics. That's fair, isn't it? Oshara, tell him that's fair."
+
+Oshara was looking at the scratched oak door.
 
 For several minutes they accomplished nothing. Torvik climbed a pantry door and knocked down a copper warming pan. Dabria found a gap and lost it when Oruvane shifted his elbow. The hedge-worker's lights bobbed over the maze in answer to three contradictory requests. Brum crossed wherever he pleased, moving from Cavren to Oruvane to the scout as though the household had no walls at all.
 
@@ -186,7 +188,7 @@ Dabria tightened both hands around the latch. "The card brought everyone down."
 
 The distinction had seemed small in the campaign. A closed door had meant someone might be bleeding or burning evidence behind it. Dabria had learned to cross thresholds quickly and apologize when everyone was alive.
 
-Oshara wiped hair from her mouth with an angry wrist. "Sometimes Torvik and I are busy with each other. Sometimes I am reading and he is making up songs about the plumbing. I want one room where you don't come in because you've lost a whetstone."
+Oshara wiped hair from her mouth with an angry wrist. "Sometimes Torvik and I are busy with each other. Sometimes I am reading and he is making up songs about the sugar-jar siege. I want one room where you don't come in because you've lost a whetstone."
 
 "That happened once."
 
@@ -194,9 +196,9 @@ Oshara wiped hair from her mouth with an angry wrist. "Sometimes Torvik and I ar
 
 Oshara shut her eyes.
 
-"Sorry," he said. "I thought accuracy might help."
+"Sorry," he said. "Sorry, love. That wasn't helping. I'll go and hold something up."
 
-It did not. Dabria could feel her own reply assembling: the door unlatched, the danger over, the whetstone needed. All the reasonable parts of it.
+Dabria could feel her own reply assembling: the door unlatched, the danger over, the whetstone needed. All the reasonable parts of it.
 
 "Where do you want this?" she asked.
 
@@ -250,9 +252,9 @@ Dabria had defended that choice to generals, ministers, singers, and herself. Ca
 
 "You held," she said.
 
-Cavren's mouth tightened. She had reached the wrong thing again.
+Cavren flexed his left hand and said nothing.
 
-She saw him after dawn, sitting against the stair wall with his split shield across his knees. She had come with healers, a prince, and half the victorious court. She had asked whether the shield would survive the procession.
+She had found him after dawn, sitting against the stair wall with his split shield across his knees. She had come with healers, a prince, and half the victorious court. She had asked whether the shield would survive the procession.
 
 "I should have come back alone," she said.
 
@@ -262,13 +264,11 @@ She saw him after dawn, sitting against the stair wall with his split shield acr
 
 "Then stop there."
 
-All her reasons crowded behind her teeth. She swallowed until her jaw hurt.
-
 "All right," she said.
 
 Cavren did not soften. His chest remained open. His east road remained eight days away. But when the brace slipped again, he chose where to put his shoulder, and Dabria took the other side without directing him.
 
-Beyond the last turn of the maze, Oruvane had laid the roof gate flat. Travel bags hung beneath his wings: canvas pouches, two small casks, a rolled blanket, and the brass pan he used to warm sand for his joints. No saddle. No battle harness. Nothing that offered a rider any place upon him.
+Beyond the last turn of the maze, Oruvane had laid the roof gate flat. Travel bags hung beneath his wings: canvas pouches, two small casks, a rolled blanket, and the brass pan he used to warm sand for his joints. There was no saddle among them and no battle harness, nothing that offered a rider any place upon him.
 
 Predawn silvered the open court beyond.
 
@@ -280,11 +280,11 @@ Oshara saw the bags first. "You're leaving too."
 
 "Away."
 
-"Poor roads. Worse inns."
+"Away is awful, Oruvane. I've been. Oshara, tell him about the inn with the goat."
 
 Usually Oruvane met Torvik's foolishness with something larger. This time he worried a groove in the flagstone with one claw.
 
-Dabria looked back through the tilted doors. Four human thresholds stood around the one room Oruvane could inhabit easily. Each evening they passed through openings too small for him and called their disappearance privacy.
+Dabria looked back through the tilted doors to the library arch, and the corridors beyond it that stopped him at the shoulders.
 
 "Was this meant to stop us leaving?" she asked.
 
@@ -294,7 +294,7 @@ Brum walked to him and sat on one blue foot.
 
 "You took my chest," Cavren said.
 
-"It was packed. Suspiciously."
+"It was already packed."
 
 "You searched my room."
 
@@ -302,15 +302,15 @@ Oruvane's gaze moved to Oshara's door at the arch, then away. "The quest was poo
 
 "Yes," Oshara said.
 
-Smoke leaked between his teeth. "I wanted to know whether you'd notice one of us gone." His gaze found Dabria. "Without a card."
+Smoke leaked between his teeth. "I packed these the night of the painted map." One wing stirred the canvas bags. "You have brought a road kettle to the library every evening since the first card, Cavren. I kept waiting for someone to ask about either." He looked at Dabria. "I thought, if every door was in one room—" He stopped there.
 
-The question had needed thirteen stolen doors and Cavren's chest before Dabria heard it. She started to ask why Oruvane had not simply told her. Then she remembered dumplings.
+She started to ask why Oruvane had not simply told her. Then she remembered dumplings.
 
 "Do you want company?" she asked.
 
 Oruvane considered. "No."
 
-Torvik's expression pinched before he covered it. "Do you want an insulting wave? I have several."
+Torvik looked down at his one boot for a moment. "Do you want an insulting wave? I have several."
 
 "One. From a distance."
 
@@ -320,7 +320,7 @@ Oshara pointed at the doors. "You are still putting ours back."
 
 "Before you go."
 
-Oruvane sighed smoke over her hair, but bent his neck to the work. The quartermaster brought hinge pins. The hedge-worker held three trembling lights above the frame. Cavren took one edge of the gate; Dabria reached for the other, then stopped.
+Oruvane sighed smoke over her hair, but he hooked the scratched oak door with his pole and slid it down the corridor, inch by inch, as far as his neck would reach. Torvik and Oshara walked it the rest of the way to its frame, and the quartermaster followed with two pins in her fist. Then Oruvane bent his neck to the gate. When the quartermaster came back with more pins, the hedge-worker held three trembling lights above the frame. Cavren took one edge of the gate; Dabria reached for the other, then stopped.
 
 "Do you want me here?" she asked him.
 
@@ -340,27 +340,25 @@ Oruvane turned sharply. "Then I may find you."
 
 Dabria could have asked for routes, dates, signals. She could have made departure safe enough to feel like permission. Instead she put both hands in her empty pockets.
 
-"I'll miss you," she said. "Even if the roof leaks. That isn't—" She stopped. "I'll miss you."
+"I'll miss you," she said. "Even with every door still to rehang. That isn't—" She stopped. "I'll miss you."
 
-Oruvane watched her long enough that she nearly explained. Then his wings opened, painted blue and gold against the whitening sky, and he left without an order to return.
+Oruvane watched her long enough that she nearly explained. Then his wings opened, painted blue and gold against the whitening sky, and he left.
 
 * * *
 
-It took two days to put the hall's doors back. Dabria knocked on Oshara and Torvik's even while carrying the missing hinge, and waited until Torvik opened it a hand's width. Cavren repacked the chest Oruvane had disturbed. When Dabria offered to help, he said no. When she asked whether he wanted company on the east road, he said he had not decided. The final stair stayed between them, neither buried nor crossed.
+It took two days to put the rest of the hall's doors back. When Dabria needed Torvik for the cellar door, she knocked on his and Oshara's and waited until he opened it a hand's width. Cavren repacked the chest Oruvane had disturbed. When Dabria offered to help, he said no. When she asked whether he wanted company on the east road, he said he had not decided.
 
 On the third evening, the library filled without a card.
 
-Not completely and not all at once. The scout came first with her book. The quartermaster brought the cushion she was still mending. The hedge-worker lit only two lanterns and let the fire provide the rest. Oshara and Torvik arrived together, took separate chairs, and gradually failed to remain separate. Cavren sat on his packed chest with Brum at his knee. Dabria read three pages of a history and understood none of them.
+They came one at a time. The scout came first with her book. The quartermaster brought the cushion she was still mending. The hedge-worker lit only two lanterns and let the fire provide the rest. Oshara and Torvik arrived together, took separate chairs, and gradually failed to remain separate. Cavren brought a book and took the chair beside his packed chest, and Brum settled at his knee. Dabria read three pages of a history and understood none of them.
 
-The room held clusters, not a formation. People left for wine and returned. The quartermaster went to bed. No one accounted for her.
+People left for wine and returned. The quartermaster went to bed. No one accounted for her.
 
 A shadow crossed the high windows. The roof gate struck stone once, and Oruvane shouldered into the library smelling of rain and some sharp mountain herb crushed beneath his claws. Conversation snagged. Brum rose so quickly that Cavren's book fell from his lap, bounded across the carpet, and pressed his whole white body into the hollow behind Oruvane's foreleg.
 
-No one had posted a watch. No one had prepared a welcome.
-
 "You began without me," Oruvane said.
 
-"Twice," Torvik told him. "It was peaceful. We hated it."
+"We did," Torvik told him. "Badly. Nobody hid anything in the sugar, Oruvane. I checked the sugar every morning."
 
 Oruvane lowered himself among the chairs. The scout shifted closer to his wing without losing her page. Oshara moved the wine. Cavren picked up his book, but his packed chest stayed beside him.
 
@@ -370,7 +368,7 @@ Dabria did not ask where Oruvane had gone or whether he would leave again. She l
 
 "No." He settled his chin onto one foreclaw. "I found weather. Tomorrow I may tell you about it."
 
-"Tomorrow?" The old instinct reached for a time.
+"Tomorrow?"
 
 Oruvane's eye opened.
 
@@ -381,5 +379,3 @@ Dabria stopped. "If you want."
 There were none. Torvik proposed hunting them anyway. Oshara told him to hunt quietly. Brum rolled onto his side against Oruvane's scales, Cavren's boot resting in his fur. Torvik's proposed dumpling trail crossed the scout's complaint about his shuffling; Oshara asked the hedge-worker about a lamp and answered Cavren by mistake. One conversation broke apart. Another started before it had finished. Dabria let her unread history close in her lap.
 
 Across the fire, Cavren met her eyes. He was still leaving. He was still there.
-
-This time she did not count either fact away.
