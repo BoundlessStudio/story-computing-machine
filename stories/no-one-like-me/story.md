@@ -168,7 +168,7 @@ When I straighten, the host is crossing the floor toward me, pressing one finger
 
 She waits, perhaps because there ought to be more. I look out at the gold rails. The woman who caught the refrain is still standing.
 
-“I'm sorry, Sereva,” the host says. “Tonight the judges can only score the singers you entered.” She gives the words time to reach the hall. “That performance is disqualified.”
+“I'm sorry, Sereva,” the host says. “Tonight the judges can only score the singers you declared.” She gives the words time to reach the hall. “That performance is disqualified.”
 
 I nod. I knew the rule before I stepped out, but I have been so full of the song that the word arrives as a fresh disappointment.
 
