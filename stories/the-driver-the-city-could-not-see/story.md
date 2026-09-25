@@ -236,7 +236,7 @@ Another arrow flashed left too soon.
 
 Kaith turned and found a delivery van already filling the gap. She snapped the wheel right. Metal passed close enough to comb rain from the cab's mirror. The rear tires broke loose, caught, and shoved them sideways across a band of violet light.
 
-Kaith's hands were shaking on the wheel. "Hell. Hell. Early, that one was already full." She dragged in a breath. "Show me before it opens."
+Kaith's hands were shaking on the wheel. "Hell. Hell. Early, that one was still full." She dragged in a breath. "Show me it coming. Then show me when."
 
 The next arrow began as a dot on her left hand. It traveled across both wrists, slowly at first, then faster. Kaith watched the traffic rather than the light. The dot reached her right thumb at the instant a pair of taxis separated.
 
