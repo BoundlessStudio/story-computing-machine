@@ -8,41 +8,33 @@ canon: false
 
 # Not Friday
 
-Wesley had carried eight folding chairs at once exactly one time. He had the scars on two knuckles and the dent in the arts center's baseboard to prove it. On Wednesday afternoon he carried four, which left Jamar Ellis two free hands for opinions.
+Wesley had carried eight folding chairs at once exactly one time. He had the scars on two knuckles and the dent in the arts center's baseboard to prove it. On Wednesday afternoon he carried four. Jamar Ellis carried none, which left him both hands for opinions.
 
-"Bro, just trust me. She likes you."
+"Bro, just trust me! She likes you!"
 
-Jamar walked backward between the chair stacks, steering by confidence. Behind him, forty-eight black seats waited to become eight straight rows in the rehearsal hall. Wesley set down his load before Jamar could hit one.
+Jamar walked backward between the chair stacks, steering by confidence. Behind him, a hundred and twenty black seats waited to become rows of six on either side of the aisle in the black-box theater. Wesley stopped and set his load down before Jamar could back into it.
 
 "You said that about the last four women, and—"
 
-"Shut up. I wasn't wrong about the last four." Jamar planted both palms on the chair backs as if calling a witness. "They didn't leave because you misread some mysterious signal. They left because you waited six-plus months to find out anything. Now ask Beatriz before she gets tired of waiting for you to ask."
+"Shut up! I wasn't wrong about the last four." Jamar planted both palms on the nearest stack as if addressing a jury. "They didn't leave because you misread some mysterious signal. They left because you waited six-plus months to open your mouth! Now ask Beatriz out before she gets tired of you!"
 
 "Or she isn't waiting."
 
-"Six-plus months," Jamar repeated, having selected the useful portion of Wesley's sentence. "Each time. Pattern established."
+"Six-plus months," Jamar said again, as though Wesley had not spoken. "Every time."
 
-"Not each time."
+"Not every time."
 
-"Objection."
+"Every time! Give or take a month, and don't start with the month." Jamar hauled a chair off the stack and dropped it roughly into line. "I've been there for all four, man. I bought the fries every time and listened to you explain her side better than she ever would've. I'm not doing fries over Beatriz." He stopped with his hand on the chair. "I don't want to watch you do that one."
 
-"Nobody invited you to court."
-
-"The court convened when you made the same mistake four times."
-
-They had known each other long enough that Wesley could hear the concern inside the performance. Jamar hated watching him retreat into maybe. He hated it with the personal offense of a friend who had listened to every careful postmortem and believed most postmortems could have been replaced by one timely question.
-
-That did not make him an authority on Beatriz Soto.
+Jamar believed most of those evenings could have been replaced by one timely question. That did not make him an authority on Beatriz Soto.
 
 Wesley took a tape measure from his pocket. "Thirty-two inches between rows."
 
-"Flight from evidence."
+"Oh, now we're measuring. Great. Measure."
 
-"Fire code."
+Wesley measured. They pulled the first row into place. The chair feet rasped against the old wood in brief, ugly bursts. Outside the theater, somebody tested the lobby lights, turning the open doorway amber and then white and then amber again.
 
-They pulled the first row into place. The chair feet rasped against the old wood in brief, ugly bursts. Outside the hall, somebody tested the lobby lights, turning the open doorway amber and then white and then amber again.
-
-"All right," Jamar said. "Exhibit one. Ceramics class. She asked if coffee would be a date. You said you needed to check your schedule."
+"All right," Jamar said. "Exhibit one. Ceramics class. She asked you—she asked you!—if coffee would be a date. And you said you needed to check your schedule."
 
 "I did need to check it."
 
@@ -50,15 +42,15 @@ They pulled the first row into place. The chair feet rasped against the old wood
 
 Wesley nudged a chair leg onto the tape mark. She had asked clearly. He had liked her, and the clarity had somehow given him more to lose. By the time he returned with an answer, she no longer wanted one.
 
-Jamar raised a finger. "Exhibit two. You two kept talking about dinner, you kept improving the plan, she moved away."
+Jamar raised two fingers. "Exhibit two. You two kept talking about dinner, you kept improving the plan, and she moved to, what, Ohio?"
 
 "That was four months. And she moved for a job."
 
-"Sustained as to four months."
+"Okay, fine, four! She still loaded a moving truck while you were comparing menus."
 
 The third woman had answered his eventual question with friendship, plainly and without cruelty. They had suffered one awkward volunteer shift and then been fine. This fact ought to have encouraged him. Instead, Wesley's mind had filed the awkward shift under preventable hazards and misplaced the rest.
 
-The fourth had started seeing somebody else while Wesley waited for a level of certainty no other person could possibly supply. Jamar presented that history with two fingers raised, then four, then a broad gesture that nearly took out a chair.
+The fourth had started seeing somebody else while Wesley waited for a level of certainty no other person could possibly supply. Jamar presented that history with four fingers raised and then a broad gesture that nearly took out a chair.
 
 "Those are four different situations," Wesley said.
 
@@ -66,35 +58,27 @@ The fourth had started seeing somebody else while Wesley waited for a level of c
 
 "The move wasn't caused by me. The friendship wasn't a failure. And the fourth met somebody. She didn't do that to make a point at me."
 
-"Great. Excellent distinctions." Jamar shoved the next chair into line. "Ask on behalf of all your distinctions."
+"Great. Excellent distinctions." Jamar shoved the next chair into line.
 
-Wesley measured the aisle. He could name what Jamar was getting wrong. Beatriz's habit of saving him a dumpling during late setups did not reserve anything beyond a dumpling. The time she had texted him a picture of a display label with its apostrophe corrected proved she knew what irritated him, not what she wanted from him. She laughed at Jamar, too. She had given both of them rides when the buses stopped running. Friendly was not a coded contract.
+Wesley measured the aisle. He could name what Jamar was getting wrong. Beatriz's habit of saving him a dumpling during late setups did not reserve anything beyond a dumpling. The time she had texted him a picture of a display label with its apostrophe corrected proved she knew what irritated him, not what she wanted from him. She laughed at Jamar, too. She had bought both of them coffee after the spring load-out.
 
 Still, the four histories had one narrow piece of evidence in common. Waiting protected Wesley from answers while he called the protection consideration.
 
 He folded the tape measure closed. "Okay. I'm going for it."
 
-Jamar slapped the back of a chair instead of Wesley, which was why they remained friends. "Motion carries."
+Jamar slapped the back of a chair instead of Wesley, which was why they remained friends. "Yes! Okay. Okay! When? Today? She's coming in today, right? I could just be around, like, casually—"
 
 "You are not coming within twenty feet of the conversation."
 
-"Unreasonable restriction."
-
-"Thirty feet."
-
 "I'll be in another room."
 
-"Thank you."
-
-"With excellent hearing."
-
-The side door opened before Wesley could revise the terms. Beatriz came through hip-first, a cardboard file box balanced against one hip and a coil of blue cable hooked over her other arm. Her dark hair was pinned up with a pencil. Three revised run sheets stuck out of the box like surrender flags.
+The side door opened before Wesley could revise the terms. Beatriz came through shoulder-first, a cardboard file box balanced against one hip and a coil of blue cable hooked over her other arm. Her dark hair was pinned up with a pencil. Three revised run sheets stuck out of the box like surrender flags.
 
 "One of you has hands," she said. "Possibly both."
 
 Wesley took the box. Jamar accepted the cable and made a dignified show of not looking at him.
 
-Beatriz put the run sheets on the front row. "The Friday check-in volunteer canceled. The replacement says maybe, which is no. I moved the student quintet ahead of the auction, the food delivery window is now five-fifteen to five-forty, and the upstairs storage lock is sticking again."
+Beatriz put the run sheets on the front row. "The Friday check-in volunteer canceled. The replacement says maybe, which is no. I moved the student quintet to close the show, after the auction, the food delivery window is now five-fifteen to five-forty, and the upstairs storage lock is sticking again."
 
 "How was the contract orientation?" Wesley asked.
 
@@ -110,9 +94,9 @@ Beatriz looked between them. "Wesley on the desk. He knows the ticket sheet. Jam
 
 "It happened on three signs."
 
-Jamar carried the cable toward the stage, shaking his head at this hostile account of his service. As he passed Wesley, he lifted his eyebrows twice. Wesley concentrated on the file box until the eyebrows had safely left his peripheral vision.
+Jamar carried the cable toward the stage, shaking his head at this hostile account of his service. As he passed Wesley, he lifted his eyebrows twice. Wesley concentrated on the file box until the eyebrows had safely left his peripheral vision. Beatriz, halfway down a run sheet, had looked up in time for the second lift.
 
-For the next hour, Beatriz had half a conversation with everyone. She marked chair positions in blue tape, found the missing key in the wrong envelope, took a call from the food vendor, and corrected the same start time on twelve programs. Wesley watched any plan involving a dramatic Friday confession become obviously absurd. Friday belonged to the showcase. It also stood between Beatriz and a new job she had spent months trying to get. Adding his uncertainty to her load would not make the question more romantic.
+For the next hour, Beatriz had half a conversation with everyone. She marked chair positions in blue tape, found the missing key in the wrong envelope, took a call from the food vendor and left Wesley to chase them for a final count, and corrected the same start time on twelve programs. Wesley watched any plan involving a dramatic Friday confession become obviously absurd. Friday belonged to the showcase. It also stood between Beatriz and a new job she had spent months trying to get.
 
 It did leave him Wednesday.
 
@@ -128,27 +112,25 @@ Wesley gave it to her. His best opening vanished. Then the second-best.
 
 "Would you like to have dinner with me after the showcase on Friday?" he said. "Just the two of us. If you don't, that's okay. I won't make Friday weird."
 
-Beatriz settled the box against her hip. For two seconds she looked only tired, and Wesley's mind tried to build exits for both of them.
+Beatriz settled the box against her hip. Only then did Wesley hear which day he had named: the one all seven rehearsed openings had used, and the one he had spent the last hour ruling out. For two seconds she looked only tired, and Wesley's mind tried to build exits for both of them.
 
-"I am interested," she said. "But don't backfill every friendly thing I did into a promise. I hadn't made one."
+"Is this you asking," she said, "or Jamar?"
 
-"I know. Or I was trying to know that."
+"Me."
 
-"Those are different."
-
-"Yes."
+She looked at him a moment longer. "I am interested."
 
 The bus rounded the corner, its route number bright in the dusk. Beatriz shifted the box again.
 
-"And not Friday," she said. "Friday is the showcase. Saturday is my first contract call, and I will still be thinking in cables until at least Monday. Tuesday at seven. The noodle place beside the library."
+"And not Friday," she said. "Saturday is my first contract call, and I will still be thinking in cables until at least Monday. Tuesday at seven. The noodle place beside the library."
 
 The bus hissed to a stop.
 
 "Tuesday works," Wesley said.
 
-"Good. Send me your order if the food vendor texts you back."
+"Good. Text me the vendor's count when they get back to you."
 
-She climbed aboard with the file box. Wesley stood on the plaza until he remembered that staying there would not make the answer more answered. Then he went inside and sent her the vendor's revised count.
+She climbed aboard with the file box. Wesley stood on the plaza until he remembered that staying there would not make the answer more answered. Then he went inside, and when the vendor finally called, he texted her the revised count.
 
 * * *
 
@@ -158,11 +140,11 @@ At four-fifty-two, the replacement check-in volunteer sent a message containing 
 
 Wesley sat behind the lobby table with a cash box, a printed guest list, and Jamar leaning over his shoulder.
 
-"She assigned you to the money," Jamar said quietly. "Trust. Significant."
+"She assigned you to the money," Jamar said, not quietly enough. "The money, Wes! You know who she doesn't assign to the money?"
 
 "She assigned me because you invented platinum-level raffle tickets last time."
 
-"Community enthusiasm punished again."
+Jamar drew a breath to defend the platinum tier.
 
 "Put the programs on the left."
 
@@ -216,11 +198,7 @@ Wesley passed it down, returned to the lobby, and stayed there. He explained the
 
 The welcome began nineteen minutes late.
 
-Jamar drifted back at seven-thirty with empty program boxes nested under his arm. "You notice she called you specifically."
-
-"I notice you have nothing to do."
-
-"I have pattern recognition."
+Jamar drifted back at seven-thirty with empty program boxes nested under his arm. "You notice she called you specifically? Whole building full of people, and it's 'Wesley, studio B.'"
 
 "Take the empty trays downstairs."
 
@@ -258,15 +236,15 @@ Beatriz tapped the table once. The quintet could have its full set or the event 
 
 "And put the bus people on the aisle when they come out of the auction."
 
-Wesley wrote the new times on the lobby board. He found the quintet's volunteer liaison and gave her the eight-minute limit. When the silent auction closed, he collected the pencils, directed the bus riders, and did not go backstage to see whether Beatriz was angry or disappointed or impressed. None of it would help her empty the room by ten.
+Wesley wrote the new times on the lobby board. He found the quintet's volunteer liaison and gave her the eight-minute limit. When the silent auction closed, he collected the pencils, directed the bus riders, and did not go backstage to see whether Beatriz was angry or disappointed or impressed.
 
 The quintet played for eight minutes. Their final note was still moving through the room when Beatriz stepped out to thank the donors. The audience reached the lobby at nine-twenty-eight. The bus group left together. At nine-fifty-six, Wesley folded the last chair while Jamar rolled tape into a gray, useless ball.
 
-Beatriz crossed the empty hall carrying a crate of bidder sheets.
+Beatriz crossed the empty theater carrying a crate of bidder sheets.
 
 "Table goes in the office," she told Wesley. "Chairs in stacks of six, not eight."
 
-"A lesson I remember."
+Wesley glanced at his two scarred knuckles and nodded.
 
 "Good. Tuesday, seven."
 
@@ -308,7 +286,7 @@ When the server left, Beatriz opened the menu and looked at him over its top edg
 
 "Scallion pancake?"
 
-He pretended to require calculation. "Border dispute likely."
+He considered saying *shareable* again. "Honestly? I'd want my own."
 
 "We'll get two."
 
