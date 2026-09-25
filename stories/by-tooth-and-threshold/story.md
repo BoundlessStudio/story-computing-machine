@@ -30,7 +30,7 @@ She looked past him, not into the house but toward the covered shape on the work
 
 "What man? Coming here how? Nobody knows it's here."
 
-"I've been behind his truck since the creek. I know how it smells. Four days he's driven your side of the valley, stopping on the ridges to listen with a box in his hand." She glanced toward the lane. "Tonight he turned up your road."
+"I've been behind his vehicle since the creek. I know how it smells. Four days he's driven your side of the valley, stopping on the ridges to listen with a box in his hand." She glanced toward the lane. "Tonight he turned up your road."
 
 Dev studied her face for the prelude to a smile. None came.
 
@@ -224,7 +224,7 @@ The yellow diode flashed. Dev sealed both lids and ducked behind the sorting gat
 
 An engine started above them almost at once.
 
-The setter's truck rolled down the old stock track without headlights. A pale screen glowed near the steering wheel. As the rear bumper cleared the open road gate, Dev hauled on the coil. The gate swung shut, and he snubbed the line around the sorting post. The truck nosed deeper into the lane. Its headlights came on, found Dev's pickup across the far end, and it stopped.
+The setter's utility vehicle rolled down the old stock track without headlights. A pale screen glowed near the steering wheel. As the rear bumper cleared the open road gate, Dev hauled on the coil. The gate swung shut, and he snubbed the line around the sorting post. The vehicle nosed deeper into the lane. Its headlights came on, found Dev's pickup across the far end, and it stopped.
 
 The driver stepped out carrying a short launcher in one hand and a receiver in the other. A loop pole leaned against the open door. Dev could see no part of his face clearly under the brim of his cap.
 
