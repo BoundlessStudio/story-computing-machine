@@ -300,7 +300,7 @@ The second sheet thinned and was gone. His one plane stayed where it was, under 
 
 "Wheel is five paces now," he said. "Drift right."
 
-Renata moved through the swimming geometry. At the yellow blur, she used both hands until she found the rim. It resisted, then turned. The reserve bus separated with a blow she felt in her teeth. Clinic demand disappeared from Livia's intake meter, isolated behind the mechanical switch.
+Renata moved through the swimming geometry. At the yellow blur, she used both hands until she found the rim. It resisted, then turned. The reserve bus separated with a blow she felt in her teeth. Behind the mechanical switch, the clinic feed was out of Livia's reach.
 
 The cells remained charged. Their rig whined against the cut circuit, hunting for a path.
 
@@ -336,7 +336,7 @@ He let go.
 
 Together they backed toward the open west shutter and the loading ramp beyond it, Xavier counting the steps twice when smoke hid the edge. They ducked under. On the far side he knocked the shutter off its catch and tapped the still-mounted tag with his good hand as it fell, loading it on the way down.
 
-The west shutter hit concrete between the heroes and the ramp. Up the ramp, a lock died with a click, and a door banged wide.
+The west shutter hit concrete between Renata and the ramp. Up the ramp, a lock died with a click, and a door banged wide.
 
 Jonas's hand came up toward the shutter, the fingers half closed.
 
