@@ -80,6 +80,8 @@ EXCHANGE PRESERVES TWO LIVING OCCUPANTS. NO BLEND. NO COPIES. NO DELETIONS.
 
 DEFAULT RETURN: FOURTEEN HOURS.
 
+OCCUPANT HOLD: COLLAR RIVET, CANINE SIDE ONLY.
+
 There were two more lines beneath a black security strip. The butler tried a lamp, a polarized lens, and a document scanner. The strip remained black.
 
 Pickle’s attention shifted to the apartment door. The human body bounced once on the balls of its feet, then glanced back.
