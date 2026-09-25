@@ -26,7 +26,7 @@ He put both palms to it. The dark wood was warm. He pushed, pulled, felt along t
 
 "If you strike it," said a voice above him, "the panel will complain for the rest of the week. It has always preferred melodrama to damage."
 
-The young man backed away so quickly that his pack knocked a brass stand over. He caught it before it hit the floor, which seemed important. Across the room, a man was descending a curving stair with a pair of shears in one hand.
+The young man backed away so quickly that his pack knocked a brass stand over. He caught it before it hit the floor, which seemed important, and lowered it onto the tiles. Across the room, a man was descending a curving stair with a pair of shears in one hand.
 
 At first glance he looked perhaps sixty: lean, erect, his brown face scored around the eyes and mouth. At second glance there was no age that fit. His white hair hung in a braid nearly to his waist, but his hands on the rail were steady and stained green at the fingertips. His robe had been patched at one elbow with cloth that did not quite match. The shears were small, bright, and sharp.
 
@@ -54,7 +54,7 @@ The young man looked again at the handleless door. "Me?"
 
 The man's eyes opened. "No. No, the number. That many years at once." He lifted a hand and let it drop. "You are not unwelcome. I ought to have said the arithmetic."
 
-Before the young man could decide what to do with that, the man lifted the fallen brass stand and set it upright. He did not use magic. He had to crouch, and one knee cracked.
+Before the young man could decide what to do with that, the man lifted the brass stand off the tiles and set it upright. He did not use magic. He had to crouch, and one knee cracked.
 
 "You are wet," he said. "There is a screen by the fire, and a drying rail behind it. Leave your boots on if you prefer. I believe taking them from a guest before establishing the way out was once considered threatening. Or unlucky. I may be combining customs."
 
