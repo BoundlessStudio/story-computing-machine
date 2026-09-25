@@ -124,7 +124,7 @@ I wrote the first stroke of my name.
 
 Then I saw what I was doing: letting an angry cat choose, only in reverse.
 
-At 10:26, I tore off the corner with the first stroke of my name, since I did not want to hand my sister a half-signed page, and printed a clean signature page so the packet would go back to her whole and unsigned. At 10:41, I put the guarantee, the two shop keys, and the contractor's revised plan into my canvas bag. I did not send my sister a message saying we needed to talk. I had sent three of those already.
+At 10:26, I tore off the corner with the first stroke of my name and printed a clean signature page. At 10:41, I put the guarantee, the two shop keys, and the contractor's revised plan into my canvas bag. I did not send my sister a message saying we needed to talk. I had sent three of those already.
 
 The shop was a forty-minute walk if I cut through the park. I left at 10:47.
 
