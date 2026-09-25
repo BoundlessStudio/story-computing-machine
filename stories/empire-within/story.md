@@ -10,9 +10,9 @@ canon: false
 
 By the time the runner bled through the second towel, Elspeth had been awake for seventy-six hours and somebody had learned to write with her hand.
 
-She was twenty-three. The runner had been old enough to carry her on his shoulders when she was small, and he had spent his last strength crossing three hostile rooms to put the papers at her feet.
+She was twenty-three. The runner had been old enough to carry her on his shoulders when she was small, and he had spent his last strength crossing two hostile rooms to put the papers at her feet.
 
-He lay between the desk and the locked door of her private room, one shoe gone, breath bubbling thinly in his throat. Rain shone on the boards beneath him. He had come in through the back stairs, past three men who were supposed to stop a dying stranger before he reached her chair. One of those men now stood outside with his nose against the wall. The other two had left their posts on an order carrying her name.
+He lay between the desk and the locked door of her private room, one shoe gone, breath bubbling thinly in his throat. Rain shone on the boards beneath him. He had come in through the back stairs, past three men who were supposed to stop a dying man before he reached her chair. One of those men now stood outside with his nose against the wall. The other two had left their posts on an order carrying her name.
 
 The driver kept pressure on the runner's belly. She was twice Elspeth's age, gray beginning at her temples, sleeves rolled above old burn scars. She looked up once and shook her head.
 
@@ -38,7 +38,7 @@ Elspeth read the first order again. The letters crawled out of line, then settle
 
 “Get the lieutenant.”
 
-He was brought in by his collar. Twenty-eight, broad through the chest, and so frightened his teeth clicked when he saw the runner. He had used Elspeth's desk all afternoon while she settled trouble in three different rooms. He knew where the blank orders were kept. He knew which drawer held the seals.
+He was brought in by his collar. Twenty-eight, broad through the chest, and so frightened his teeth clicked when he saw the runner. He had used Elspeth's desk all afternoon while she settled trouble on other floors. He knew where the blank orders were kept. He knew which drawer held the seals.
 
 Elspeth struck him across the brow with her pistol. He went down on one knee. Blood threaded into his eye.
 
@@ -52,13 +52,13 @@ His phone began to ring. He flinched toward it, then stopped himself with both h
 
 The driver checked the screen. “First car.”
 
-Elspeth held out her hand. The lieutenant gave her the phone.
+Elspeth held out her hand. The lieutenant gave her the phone. She put it on speaker.
 
 “Turn around,” she said.
 
 Road noise filled the answer. A grown man breathing through his nose. “We were told you might say that.”
 
-“By him?”
+She looked down at the lieutenant. “By my lieutenant?”
 
 The man did not answer.
 
@@ -70,15 +70,15 @@ Elspeth's attention slipped. For two seconds she stared at the dead runner's bar
 
 “Which target?” Elspeth said again, into the phone.
 
-“The daughter. But the old man said your voice doesn't count if you call direct. Said you'd been awake too long and someone might have you at gunpoint.”
+“The daughter. But the underboss said your voice doesn't count if you call direct. Said you'd been awake too long and someone might have you at gunpoint.”
 
-The lieutenant wiped blood from his eyebrow. His relief was worse than his fear. “He told all the floor leads that yesterday. Called it a continuity rule.”
+The lieutenant wiped blood from his eyebrow. His breath went out of him all at once. “He told all the floor leads that yesterday. Called it a continuity rule.”
 
-Elspeth looked at him. She had mistaken the man who carried the message for the man who had written it. The underboss had built her authorization phrases years ago, when her feet had not reached the floor from the office chair. He had never needed her drawer. He had only needed everyone to believe he could speak for her when she was weak.
+Elspeth looked at him. The underboss had built her authorization phrases years ago, when her feet had not reached the floor from the office chair. He had never needed her drawer. He had only needed everyone to believe he could speak for her when she was weak.
 
 “Boss?” the man on the phone said.
 
-Her pistol was still warm from the lieutenant's skin. “Turn the car.”
+The pistol grip had gone warm in her hand. “Turn the car.”
 
 “I need to know which voice—”
 
@@ -108,13 +108,13 @@ The older rival answered on the first ring.
 
 “Then one of my children has not been murdered by you.”
 
-“Bring your daughter to the old athletic club. Basement pool.”
+“Bring your daughter to the old athletic club. Basement pool. Keep her where you can see her; my second car isn't answering. We'll come in the south doors.”
 
-The driver looked at Elspeth in the mirror, then shook her head. “South entrance gives him the gallery.”
+The driver looked at Elspeth in the mirror, then shook her head. “South doors give him the gallery.”
 
-Elspeth heard only *gives him* and almost snapped at her. Then the rest arrived.
+Elspeth heard only *give him* and almost snapped at her. Then the rest arrived.
 
-“East service door,” she told the rival.
+“East service door, then,” she told the rival. “That one's ours.”
 
 He was quiet long enough for the rain to fill the car. “You used that door last time.”
 
@@ -124,7 +124,7 @@ He was quiet long enough for the rain to fill the car. “You used that door las
 
 He hung up.
 
-The driver took the next corner hard. “Second team still dark. One of ours from the first car has a chest wound. He needs a room now, not after.”
+The driver took the next corner hard. “Second team still dark. One of ours from the first car has a chest wound. The daughter's people put rounds through the back glass before it turned. He needs a room now, not after.”
 
 “Bring him to the club.”
 
@@ -144,9 +144,9 @@ The ward captain answered on Elspeth's third attempt.
 
 “Say it again.”
 
-He mistook fatigue for invitation and began explaining. Jurisdiction. Officer readiness. Unverified complaints from responsible residents. His words arrived ironed and folded, each one hiding the same dirty shirt.
+He started again from the beginning. Jurisdiction. Officer readiness. Unverified complaints from responsible residents. His words arrived ironed and folded, each one hiding the same dirty shirt.
 
-Elspeth closed her eyes. The black wings beat behind them. “You have the paper I have.”
+Elspeth closed her eyes. The black wings beat behind them, and the second telling slid past her as the first had. “You have the paper I have.”
 
 He stopped.
 
@@ -162,13 +162,13 @@ The lieutenant twisted around. “Found the second car.”
 
 “Where?”
 
-“Two streets off the club. Nobody in front.”
+“Two streets off the club. Front seats empty. Nobody's looked in the back yet.”
 
 “Fuck.” The driver pressed harder on the accelerator.
 
 * * *
 
-The athletic club had been closed long enough for the foyer mirrors to wear gray skins. Below, the empty pool sank through the basement like an opened grave. Rainwater had collected in the deep end. Broken lane markers hung from rusted hooks, and the painted depth numbers on the tile looked like measurements beside a corpse.
+The athletic club had been closed long enough for the foyer mirrors to wear gray skins. Below, the empty pool sank through the basement like an opened grave. Rainwater had collected in the deep end. Broken lane markers hung from rusted hooks, and the painted depth numbers on the tile had flaked down to single digits.
 
 Elspeth entered through the service door with the driver, the lieutenant, and four others. One of the others was carried between two men, his shirt black over the ribs. Nobody asked where to put him. They laid him near the locker-room wall, behind tile and concrete, and the driver knelt to hold him still while another man worked.
 
@@ -182,7 +182,7 @@ The rival stopped beyond the diving board. His people watched Elspeth's hands, t
 
 “That's not an answer.”
 
-“It's what I have.” Elspeth put the two orders and the deployment sheet on the wet tile. “These came out of my room with a dead man.”
+“It's what I have.” Elspeth put the two orders and the deployment sheet on the wet tile. “A man bled out on my floor bringing me these. My marks. I didn't write them.”
 
 His daughter looked down but did not approach. “Your car reached me.”
 
@@ -192,7 +192,7 @@ His daughter looked down but did not approach. “Your car reached me.”
 
 “Yes.”
 
-The rival's jaw shifted. Kin had a different arithmetic. A threat interrupted still counted as a threat; a living child did not erase the road taken toward her.
+The rival looked at the papers on the tile and did not pick them up.
 
 The ward captain came in with two plainclothes officers and irritation arranged on his face. He saw the rival's force, then Elspeth. The irritation thinned.
 
@@ -200,21 +200,17 @@ The ward captain came in with two plainclothes officers and irritation arranged 
 
 The rival's daughter gave a short, unbelieving laugh.
 
-“Planned visibility,” the captain repeated, softer. Under pressure he did not shorten. He poured more words into every hole. “A limited intervention to ensure that any emerging conflict remains contained and does not migrate into residential areas.”
+“Planned visibility,” the captain repeated, softer. “A limited intervention to ensure that any emerging conflict remains contained and does not migrate into residential areas.”
 
 Elspeth pointed at the deployment sheet. “You sent that before there was a conflict.”
 
 “I don't authenticate material in criminal possession.”
 
-“Pull the raid. You keep the years behind this paper. You don't, the paper goes out and you stand here when your men come through the doors.”
+“Pull the raid and you keep your rank and your pension. You don't, the paper goes out and you're standing here when your men come through the doors.”
 
-“My men are not a bargaining unit.”
+“Units already deployed operate at the discretion of the commander on scene. Any recall at this stage would require a documented change in circumstances, which I am not presently in a position to—”
 
-The rival spoke without looking at him. “Your men have always been merchandise.”
-
-The captain's mouth tightened.
-
-“And you,” the rival said to Elspeth. “If I walk out with no payment, the next child with your seal learns my family can be hunted and I will attend a meeting afterward.”
+“And you,” the rival said to Elspeth, as if the captain had stopped speaking. “If I walk out of here with no payment, every man who carries your seal learns two things. That my family can be hunted. And that afterward I will come to a meeting and talk.”
 
 “Take payment from the man who spent my name.”
 
@@ -224,7 +220,7 @@ A door opened in the gallery.
 
 The underboss leaned over the rail. He had taken off his raincoat and rolled his cuffs neatly, as if he were about to carve a roast. Six of Elspeth's people stood behind him. Two kept their guns down. The others did not.
 
-“There she is,” he said. “We have half the city awake, police moving, children in gun cars, and she's holding court in an empty pool.”
+“There she is,” he said. “We have half the city awake, police moving, nineteen-year-olds in gun cars, and she's holding court in an empty pool.”
 
 The lieutenant's hand moved toward his weapon.
 
@@ -274,7 +270,7 @@ They crawled along the pool wall. The daughter dragged one leg. At the ladder re
 
 Above them the underboss shouted, “Hold your fire! We are not killing our own over her mistake.”
 
-His people heard *our*. Some obeyed. Some kept shooting. One man in the gallery lowered his weapon and stared at it, unable to decide which act would make him a traitor.
+Some of his people obeyed. Some kept shooting. One man in the gallery lowered his weapon and stared at it, unable to decide which act would make him a traitor.
 
 The driver appeared at the deep end, gray hair loose, one sleeve wet to the elbow with somebody else's blood. “Boss. Locker room's lost. We need the east door.”
 
@@ -300,7 +296,7 @@ The lieutenant pressed his hand to his side and nodded once.
 
 “Then go.”
 
-He went. No speech about loyalty, no look waiting to be thanked. He hauled the captain behind the bench and crossed through the shots bent almost double.
+He went. He left the captain down behind the bench and crossed through the shots bent almost double.
 
 The daughter watched him. So did her father.
 
@@ -314,7 +310,7 @@ A plainclothes officer beside him took a round in the neck. He clapped both hand
 
 “They come in,” Elspeth said, “they find you standing with him.” She nodded toward the gallery. “And one of yours dead from his gun.”
 
-The captain looked at the underboss. The old man's attention was on Elspeth's crew, his hands spread as if calming difficult relatives.
+The captain looked at the underboss. The underboss's attention was on Elspeth's crew, his hands spread as if calming difficult relatives.
 
 “Temporary hold,” the captain said into the radio. “All units maintain perimeter pending threat reassessment. Do not breach. Repeat, do not breach.”
 
@@ -342,9 +338,9 @@ Elspeth went after him.
 
 * * *
 
-The machinery corridor smelled of rust, chlorine, and hot wiring. Pipes crowded the low ceiling. Somewhere behind the walls a neglected pump shuddered awake, banging hard enough to blur footsteps.
+The machinery corridor smelled of rust, chlorine, and hot wiring. Pipes crowded the low ceiling. Somewhere ahead the emergency generator hammered unevenly, loud enough to blur footsteps.
 
-The underboss waited beyond a bend, his back to a pressure tank. His pistol hung beside his thigh.
+The underboss waited beyond a bend, his back to the generator housing. His pistol hung beside his thigh.
 
 “Look at you,” he said. “We kept you alive all those years so you could bleed out in a condemned basement.”
 
@@ -356,17 +352,17 @@ Elspeth leaned against the wall. The black wings behind her eyes had become a wh
 
 “Gone. It didn't have to mean dead.”
 
-She had missed a word. “What?”
+She heard *had to mean dead*. “What?”
 
-“I said it didn't have to.”
+“I said it didn't have to mean that.”
 
-The pump struck again. Beneath it came a smaller sound: rubber dragging once on concrete behind the pressure tank.
+The generator missed and caught again. Beneath it came a smaller sound: rubber dragging once on concrete behind the housing.
 
 Elspeth almost folded it into the noise. Almost.
 
 From the corridor behind her, the lieutenant gasped, “Left.”
 
-A crouched man rose from behind the tank. Elspeth fired toward the movement. His shot went into the ceiling; hers opened his chest and threw him against the pipes. He slid down, trying to hold himself closed.
+A crouched man rose from behind the housing. Elspeth fired toward the movement. His shot went into the ceiling; hers opened his chest and threw him against the pipes. He slid down, trying to hold himself closed.
 
 The underboss moved at the same time. His first bullet went through Elspeth's coat without finding her. She struck his gun arm aside, and he drove his forehead into her face. White light burst across her vision. He caught her wounded shoulder and squeezed until her legs failed.
 
@@ -374,11 +370,11 @@ The underboss moved at the same time. His first bullet went through Elspeth's co
 
 Elspeth put the pistol against the soft shelf beneath his jaw and fired.
 
-The shot snapped his head back. Bone and blood struck the pressure tank. He remained upright for a surprised second, hands opening and closing, then folded across her legs. There was no last explanation in him. Only a loose bubbling in what remained of his throat.
+The shot snapped his head back. Bone and blood struck the generator housing. He remained upright for a surprised second, hands opening and closing, then folded across her legs. A loose bubbling came from what remained of his throat.
 
 She shoved him off and sat against the wall until the corridor stopped leaning.
 
-The lieutenant appeared at the bend. His hand was still clamped to his side.
+The lieutenant came up beside her. His hand was still clamped to his side.
 
 “You good?” he asked.
 
@@ -402,7 +398,7 @@ The rival looked past Elspeth at the blood on the lieutenant, then at the underb
 
 “My son?”
 
-The driver checked her phone. “Found in a car two streets over. Scared. Not touched.”
+The driver checked her phone. “Back of the second car, two streets over, down in the footwell under a coat. Nobody opened it till the shooting stopped. Scared. Not touched.”
 
 The rival closed his eyes once. When he opened them, he looked at his daughter.
 
@@ -422,7 +418,7 @@ Elspeth held out her hand.
 
 He stared at it.
 
-“Your phone.”
+“Your radio.”
 
 “That is official property.”
 
@@ -448,4 +444,4 @@ Elspeth surveyed what remained. Four active traitors lay dead. Two had surrender
 
 “Get the wounded into cars,” she said. “Then go back for the runner.”
 
-Men older than her moved. The lieutenant moved first.
+The men on the doors moved, and the driver with them. The lieutenant moved first.
