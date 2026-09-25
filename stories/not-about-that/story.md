@@ -98,7 +98,7 @@ Sarena caught his sleeve before he floated over a vent. “How much lift did you
 
 He looked across the courtyard at the chalk circle, small and reproachful beside their chimney. “I was coming around.”
 
-Sarena bent to inspect one of his boots, then his knees and wrists. She did not ask permission in words; she held out her hands and waited for his nod before touching. That was how she did injury checks with everybody, even people she had just pulled out of chimneys. Lowen resented the courtesy more than he would have resented being grabbed.
+Sarena bent to inspect one of his boots, then his knees and wrists. She did not ask permission in words; she held out her hands and waited for his nod before touching. That was how she did injury checks with everybody, even someone she had just pulled out of a neighbor’s wash. Lowen resented the courtesy more than he would have resented being grabbed.
 
 “Nothing twisted?” she asked.
 
@@ -160,7 +160,7 @@ She disappeared into the stairwell.
 
 Lowen lasted until the door banged shut before trying to cross the courtyard.
 
-The sensible method would have been to wait. The humiliating method would have been to call Sarena back, apologize, and admit what scared him more than the five-story drop: being seen enjoying this body, and somebody else deciding what that meant. The available method was to study the coral girl, who had circled back and was now hovering above a florist’s roof while arguing with her friend about whose turn it was to carry a bucket.
+The sensible method would have been to wait. The humiliating method would have been to call Sarena back and apologize. The available method was to study the coral girl, who had circled back and was now hovering above a florist’s roof while arguing with her friend about whose turn it was to carry a bucket.
 
 She bent one knee, swept her arms, and descended in a spiral.
 
@@ -221,8 +221,6 @@ He glanced back. Sarena hung three yards away, one boot planted on a wind-knot t
 He pulled the white shirt off his head. “You laughed.”
 
 “Also bad.”
-
-The apology arrived without polish and without asking anything from him.
 
 Lowen held still.
 
