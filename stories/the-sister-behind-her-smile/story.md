@@ -44,7 +44,7 @@ Then my sister added, "Not you. The room is swallowing your lower notes. Move th
 
 The player blinked. "Yes, my lady. Two feet."
 
-Precision instead of humiliation. I almost laughed from relief.
+She had given him a correction he could use. I almost laughed from relief.
 
 Odrienne turned to me. "Camet, our aunt admired Mother's lap harp last winter, didn't she? Please have it sent with her trunks tomorrow."
 
@@ -60,7 +60,7 @@ My hand tightened around my glass. When we were children, Odrienne had bitten me
 
 The four notes ended. Her answer landed with them, neat as a place card.
 
-I leaned across the table. "I'm housing six petitioners from the canal quarter. Two have children. They will bring their boots, their papers, and possibly fleas."
+I leaned across the table. "I'm housing six petitioners from the glovers' quarter. Two have children. They will bring their boots, their papers, and possibly fleas."
 
 Odrienne's fingers pressed the white cloth. Her smile never shifted.
 
@@ -122,7 +122,7 @@ Felisane stopped. "She didn't say the collar pin scratched her this morning. I f
 
 The kitchen door swung open. A scullion backed through with a bucket, and Felisane pulled me aside before I became part of the washing-up.
 
-"Fewer people are frightened," she said when the door had shut. "That matters. It doesn't make this right."
+"Fewer people are frightened," she said when the door had shut.
 
 "You think she's planning something."
 
@@ -150,7 +150,7 @@ The gallery music drifted through two walls. Four soft notes.
 
 "It can wait."
 
-"It cannot. You tore it reaching behind the mirror."
+Felisane stepped after her and took hold of the sleeve anyway. The seam gaped from shoulder to underarm, with silver threads hanging loose along its edge.
 
 Odrienne went still.
 
@@ -180,19 +180,15 @@ Odrienne looked at me in the mirror. Her face was calm. Her breathing was not.
 
 The knots pulled higher.
 
-"Do you dislike the canal petitioners? Do you want the blue room? Did you mean to dismiss that girl? Are you angry with me?"
+"Do you dislike the glovers? Do you want the blue room? Did you mean to dismiss that girl? Are you angry with me?"
 
 Violet crowded into black. Odrienne's mouth opened, but the gallery reached its fourth note and her jaw closed around a smile.
 
-Felisane caught my sleeve. "Stop making requests."
-
-"I'm asking questions."
-
-"To someone who agrees with them. Stop."
+Felisane caught my sleeve. "Stop. Look at her jaw."
 
 Odrienne knocked twice on the dressing table, then once. Follow.
 
-She turned toward the couch. The reflected vines flashed a thin, hard blue toward the fallen gown; because of my questions, or because of Felisane's hand on me, or because the music had changed key, I could not know. Color was evidence of pressure, not a vocabulary.
+She turned toward the couch. The reflected vines flashed a thin, hard blue toward the fallen gown; because of my questions, or because of Felisane's hand on me, or because the music had changed key, I could not know. The color showed that something pressed on her. It could not tell me what.
 
 But the rhythm was ours.
 
@@ -220,7 +216,7 @@ Odrienne nodded once.
 
 "I will do all of that."
 
-Perfectly timed. Perfectly reasonable. I hated that part of me loosened at the sound.
+It landed on the fourth note and sounded entirely reasonable, and I hated that part of me loosened at the sound.
 
 "When?"
 
@@ -244,21 +240,17 @@ The blow surprised all three of us. Then the grace caught up. She folded both ha
 
 Felisane put herself between us. "She said no plainly enough."
 
-"She didn't say anything."
+"She said if I thought it best."
 
-"She hit you."
+Felisane didn't answer. She looked at the red mark rising on my wrist and stayed where she was.
 
-I rubbed my wrist. My wish to rescue Odrienne had been only another question with the answer supplied.
+I rubbed at the mark.
 
 My sister tapped the table: two quick, one slow. Then four even beats. She pointed toward the gallery wall. Two quick, one slow. Four even beats.
 
-"Follow after the music," I said.
+"The gallery," I said. "I think she wants us with the musicians."
 
-Her reflection flashed blue.
-
-"That's not a yes," Felisane said.
-
-"No. It's a guess."
+Her reflection flashed blue. Felisane glanced at it and said nothing.
 
 Odrienne picked up the instruction card, turned it over, and pressed one nail beneath a line drawn there in her own ink: *mirror chamber, seventh cadence, dawn*. Then she left the room.
 
@@ -284,7 +276,7 @@ The reed player let the binding fall from his mouth. "He means now."
 
 Silence rushed into the copper grilles.
 
-Odrienne stumbled. Her hand flew to the silver loop above her heart. Then she straightened and pointed at the score.
+Odrienne stumbled. Her hand flew to the silver loop above her heart, and the loop drew tight under her fingers. Her smile came and set, with no fourth note to let it go. She straightened and pointed at the score.
 
 "Continue," she said. "The dawn service must be ready."
 
@@ -302,7 +294,7 @@ The first violin tapped the score with her bow. "My lady, the fourth entry is st
 
 "That was a poor question," the reed player muttered.
 
-Odrienne tapped the music stand: two quick, one slow. Follow. Then four even beats, broke the last with her knuckle, and did it again.
+Odrienne tapped the music stand: two quick, one slow. Follow. Then she tapped four even beats, broke the last with her knuckle, and did it again.
 
 "She wants the count broken," I said.
 
@@ -316,13 +308,13 @@ The musicians looked offended in several different ways.
 
 "You always enter late," said the violinist. "Tonight it must be on purpose."
 
-"I can split the reed note," the player said. "Don't ask me to hold pitch while she drags the strings under it."
+"I can split the reed note," the reed player said. "Don't ask me to hold pitch while she drags the strings under it."
 
-"I wasn't going to."
+"I wasn't going to," said the first violin.
 
 "You were looking at me."
 
-Odrienne had already gone.
+Odrienne had already gone. Felisane lifted the lamp off the first violin's stand, pushed it into my hands, and we went after her.
 
 We found her in the mirror chamber. Moonlight stood in six tall mirrors, each one facing another across a floor inlaid with silver. At the center waited a low chair, a dressing stool, and the seam knife from Odrienne's workbasket.
 
@@ -340,21 +332,19 @@ The silver vines tightened. Her hand returned to her knee.
 
 Violet stormed through all six reflections.
 
-I had done it again. Turned her action into my command, her struggle into an answer I wanted.
+I had done it again.
 
 Felisane crouched beside the chair and studied the gown. "The anchor isn't at the heart. That's a crossing."
 
-"The card said a living anchor."
+"She grabbed there when the music stopped."
 
-"Cloth isn't living. Hold the lamp lower."
+"Because it pulls there. The card said living. Look for something against her skin." She squinted at the silver. "Lamp. Lower."
 
 I did. Near Odrienne's inner wrist, beneath the cuff edge, one silver stitch disappeared through a narrow ribbon laid against her skin. It did not pierce her. It moved with her pulse.
 
 "There," I said.
 
 Odrienne's eyes found the stitch in the nearest mirror. She tapped twice with her left hand, once with her thumb. Follow.
-
-Not permission. Not proof. A direction she had chosen before I understood it.
 
 I moved the stool closer without putting the knife in her hand. Felisane caught the gown's heavy skirt and eased its weight off Odrienne's arm.
 
@@ -400,7 +390,7 @@ Felisane let out one breath. "Because you've had a ribbon rubbing it raw for six
 
 "Why did no one tell me?"
 
-"I did. Twice. You thanked me and put the cuff back on."
+"I asked to unbutton that cuff. Twice. You thanked me and wouldn't let me near it."
 
 Odrienne looked at the red skin, then at me. Anger arrived openly, uneven and alive.
 
@@ -412,15 +402,15 @@ I could have denied it. Instead I put the seam knife on the floor where none of 
 
 "At first," she repeated, uglier.
 
-"I should have asked sooner."
+"I didn't know it was hurting you."
 
-"You asked constantly. That was the trouble."
+"I gave Mother's harp away." Her eyes filled, and she let me watch them do it. "At supper, in front of the violas, and you asked me for the blue room. The blue room, Camet. For six people and their fleas." She pressed her raw wrist flat against her skirt. "I hope they'll be very comfortable."
 
-There was too much truth in that for a graceful answer. I sat on the floor beside the stool. Odrienne did not forgive me. Felisane began unfastening the ruined cuff.
+I sat on the floor beside the stool. Odrienne did not forgive me. Felisane began unfastening the ruined cuff.
 
 * * *
 
-Before breakfast, Odrienne dictated three letters.
+Before breakfast, Odrienne wrote three letters.
 
 The first admitted that the chambermaid had not stolen the ribbon. The second ordered her wages paid through the end of the season whether she returned or not. In the third, Odrienne requested that all dismissals from the past year be brought to the household comptroller for review.
 
@@ -440,26 +430,20 @@ She offered Felisane a sapphire clasp as thanks. Felisane refused it.
 
 "It is worth more than a year's wages," Odrienne said.
 
-"That is why I'm refusing. Pay the people you owe. And someone besides you should hear complaints."
-
-"You?"
-
-"No. I have a laundress to help and would like to remain a maid instead of becoming your conscience."
+"That's why. Pay the people you owe. The laundress has been waiting on me since supper."
 
 Odrienne winced. Not magically. She pushed the clasp back into its box.
 
-The plain cuff Felisane made for her had one loose red stitch where the anchor had been. No silver, no mirror-thread, no force in it at all. Odrienne could have thrown the dress away. She chose to wear the damaged sleeve to breakfast.
+The plain cuff Felisane made for her had one loose red stitch of common cotton where the anchor had been. Odrienne could have thrown the dress away. She chose to wear the damaged sleeve to breakfast.
 
 The servants brought pears, bread, and three kinds of preserve. Odrienne looked at each dish before speaking.
 
 "Tea, please," she told the footman. "Not the spiced one."
 
-He poured. She tasted it, frowned, and passed the pear preserve to me.
+He poured. She tasted it and frowned into the cup.
 
-"I hate this," she said. Then, after no music and no measured pause, she added, "Thank you."
+"I hate this." She pushed the pear preserve over to me, glanced up at the footman, and after a moment said, "Thank you."
 
 The footman carried on with the tray. Felisane left for the laundry. Odrienne reached across me for the blackberry jar without asking, knocked my spoon into my lap, and told me the blue guest room could have three petitioners but not six unless I found another chamber pot.
 
 I wiped tea from my knee while she buttered her bread.
-
-The red stitch at her wrist held because it was only thread.
