@@ -158,7 +158,7 @@ The curator’s thumb hovered over the tablet. “You would qualify your own fig
 
 “And the later reductions?”
 
-“Some I can certify. Some I can bound. None of them tells you why the frames came.”
+“Some I can certify. Some I can bound.”
 
 The guide woke again as you crossed another beacon. “With her enchanted sword, Sol-steece—”
 
