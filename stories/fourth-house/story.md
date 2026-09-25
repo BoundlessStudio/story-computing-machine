@@ -16,7 +16,7 @@ Zorevi Nask had put the fired-clay rings in order of thickness twice when Pelmar
 
 “Measure the glaze.” Pelmara tapped a pale blister along the inner curve. Her fingernail made a dry, high sound. “The body underneath cooled crooked.”
 
-Zorevi turned the ring so the blister faced her. She had been in the room since sunrise arranging the morning into columns: warm basin, clay strips, load frame, witness seals, five copies of the termination form. The old coupling from Pelmara’s current job sat apart on a folded rag, stained copper-green at the throat by years of glaze fumes. She had not made a column for things that lied.
+Zorevi turned the ring so the blister faced her. She had been in the room since sunrise arranging the morning into columns: warm basin, clay strips, load frame, witness seals, five copies of the termination form. The old coupling from Pelmara’s current job sat apart on a folded rag, stained copper-green at the throat. She had not made a column for things that lied.
 
 “I’ll mark it irregular.”
 
@@ -24,7 +24,7 @@ Zorevi turned the ring so the blister faced her. She had been in the room since 
 
 At the far end of the table, Ishket looked up from the load-frame screws. “It does.”
 
-Pelmara pulled out the chair beside Zorevi’s, then did not sit. “My permit dies at noon. The kiln keeper already thinks I’m inventing paperwork to avoid his west stack.”
+Pelmara pulled out the chair beside Zorevi’s, then did not sit. “My permit dies at noon. The cistern keeper already thinks I’m inventing paperwork to avoid his west stack.”
 
 “Your permit expires,” Zorevi said. “Permits do not—”
 
@@ -324,7 +324,7 @@ Then she turned the form to the scope lines. “What can you do safely? I need i
 
 “A licensed site keeper, guild mender, or source assessor.”
 
-“The kiln keeper can sign. He’ll complain first.”
+“The cistern keeper can sign. He’ll complain first.”
 
 “Complaining does not invalidate a signature.”
 
@@ -348,7 +348,7 @@ Zorevi picked it up. “This does not authorize you to redistribute stress at th
 
 “Or diagnose while the stiffness persists.”
 
-“The keeper can let the kiln go cold while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once.”
+“The keeper can drain the line while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once.”
 
 Zorevi turned toward the west stair.
 
