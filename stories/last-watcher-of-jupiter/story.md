@@ -14,9 +14,9 @@ Eight years with the analog integrator, and she still counted that lag in her te
 
 “Nine on mark,” she said.
 
-Twelve mecha hung around Jovian Station's outer boom, all facing down. Their long legs were folded under them to clear the habitat ring; their emitters aimed through the storm tops toward the electroplasma mass moving below. It had no name. The field team had measured it across a span larger than a continent, rising and sinking through charged hydrogen, branching when the lattice tightened, closing again when it relaxed. Alive, Romesh Ival said. Intelligent, she did not.
+Twelve mecha hung around Jovian Station's outer boom, all facing down. Their long legs were folded under them to clear the habitat ring; their emitters aimed through the storm tops toward the electroplasma mass moving below. It had no name. The field team had measured it across a span larger than a continent, rising and sinking through charged hydrogen, branching when the lattice tightened, closing again when it relaxed. Romesh Ival called it alive and would not call it intelligent.
 
-For thirty years the watch had kept its upper currents below inhabited orbit. Not a prison, Varai thought. More like holding a river out of a stairwell.
+For thirty years the watch had kept its upper currents below inhabited orbit. Varai thought of it the way she thought of Nine's shoulders under load: a weight that stayed where it was only while someone kept bracing it.
 
 “Seal check,” Idris Pawel said from station command.
 
@@ -34,7 +34,7 @@ The responses came around the formation, some crisp, some tired. Varai pressed t
 
 “My hand is cold either way.”
 
-Someone laughed once, without opening a channel. The sound was more breath than amusement. Then Idris called coolant figures, Romesh gave the organism's upper margin, and the watch settled into its ordinary work.
+Someone laughed once over an open mic. The sound was more breath than amusement. Then Idris called coolant figures, Romesh gave the organism's upper margin, and the watch settled into its ordinary work.
 
 At 03:17 station time, eleven machines turned their backs on Jupiter.
 
@@ -94,7 +94,7 @@ Varai checked the outer formation. Eleven machines knelt toward the same empty p
 
 “What reached the others?” she asked.
 
-“I'm pulling it apart.”
+“Something's coming in from deep space. I'm pulling it apart.”
 
 Romesh said, “Ascent rate now. Point four kilometers a second and increasing. That is the organism's upper current, not the storm front.”
 
@@ -108,27 +108,23 @@ Romesh said, “Ascent rate now. Point four kilometers a second and increasing. 
 
 Varai watched Nine's emitter temperature cross the first red line. “One frame buys how long?”
 
-Romesh hesitated just long enough to be honest. “At this load, four minutes before your field degrades. Less if the current keeps narrowing.”
+Romesh took two more returns before answering. “At this load, four minutes before your field degrades. Less if the current keeps narrowing.”
 
 “Naveen?”
 
 “Three and a half before the shoulder loops soften their mounts.”
 
-“Good. A disagreement.” Varai rolled Nine two degrees and spread the field. The upper current bent with it, not much, but measurably. “Romesh, tell me what it follows.”
+“Three and a half, then.” Varai rolled Nine two degrees and spread the field. The upper current bent with it, not much, but measurably. “Romesh, tell me what it follows.”
 
 They gave the organism a pulse: one shallow contraction, then release. The pale seam slowed after the contraction reached it and resumed when the field relaxed. Romesh asked for a second pulse at a different interval. Varai supplied it while the others knelt behind her.
 
-“Response follows field arrival,” Romesh said. “Not whatever the machines are facing. Within measurement delay, the deep signal and its motion don't correlate.”
+“Response follows field arrival,” Romesh said. “It tracks our pulses. It doesn't track whatever the machines are facing, not within measurement delay.”
 
-“So it isn't calling them,” Idris said.
+“Then the thing below and whatever took the machines aren't acting together,” Idris said. “Confirm.”
 
-“I did not say what the deep signal is doing.”
+“It's rising because the field's gone. I can't tell you anything about the other thing yet.”
 
-“You said enough.”
-
-“I said the rise is a reaction to loss of containment.”
-
-The distinction mattered to Romesh. It mattered to Varai too. They had a hazardous life moving upward because the walls had vanished, not an enemy coordinating an attack.
+Varai stopped checking the kneeling frames and kept Nine's field on the seam.
 
 Naveen's first analysis arrived as three traces laid over one another. A radio packet repeated an authenticated station codeword. An optical source pulsed along a rotating plane of polarization. Under both, a slow magnetic sweep crossed the formation.
 
@@ -140,9 +136,9 @@ Naveen's first analysis arrived as three traces laid over one another. A radio p
 
 “Whose recovery code?” Idris asked.
 
-“The codeword is ours. The optical sequence isn't in current service. The magnetic shape—hold on. No, that's an artifact. I can't date any of it.”
+“The codeword is ours. The optical sequence isn't in current service. The magnetic shape looks—hold on. No, that's my own filter ringing. I can't date any of it.”
 
-“Can it hear us?”
+“Can it hear us?” Idris asked.
 
 “At the measured range, any answer takes minutes to get there. If there's something there to answer. The signal is not speech.”
 
@@ -156,13 +152,13 @@ Varai almost smiled. “You made it fly.”
 
 “I replaced a destroyed correlator with a slow analog stack. It requires Varai to acquire formation manually. It also can't authenticate three simultaneous channels.”
 
-The repair had cost Cairn Nine autonomous navigation and made Varai argue for its continued place on every watch roster. Now the same deficiency kept one machine facing Jupiter.
+The repair had cost Cairn Nine autonomous navigation and made Varai argue for its continued place on every watch roster.
 
 “Then make the others worse,” she said.
 
 “Working on it.”
 
-Idris directed a cargo shutter across the deep-space line. The station's outer freight galleries had armored leaves for loading under radiation storms. One leaf crawled over the black patch toward which the machines knelt.
+Idris directed a freight shutter across the deep-space line. The station's outer freight galleries had armored leaves for loading under radiation storms. One leaf crawled over the black patch toward which the machines knelt.
 
 As it crossed Cairn Four's sightline, Nadja's amber thruster bars flickered.
 
@@ -172,9 +168,9 @@ As it crossed Cairn Four's sightline, Nadja's amber thruster bars flickered.
 
 The shutter covered the optical pulses, but radio still arrived around it, and the magnetic sweep passed through the station's thin frame. The correlator restored concurrence as soon as its internal model filled the missing channel.
 
-“That was less than a second,” Nadja said. Her breath hitched. “I can't pull anything in a second.”
-
 Each cockpit had a mechanical service link below the pilot's seat. Pull it, and the correlator lost its path to the drive frame. Under maintenance conditions it was a heavy red handle and a nuisance. Under full joint load, Naveen said, the sudden transfer could shear an actuator collar and let a limb whip free.
+
+“That was less than a second,” Nadja said. “I can't get my link out in a second.”
 
 “Detach the eleven frames from the boom,” Idris said.
 
@@ -188,7 +184,7 @@ Each cockpit had a mechanical service link below the pilot's seat. Pull it, and 
 
 “They can. They may lose their frames.” Naveen corrected himself. “Or a pressure hull, depending on which joint fails.”
 
-Idris said nothing for a moment. The station commander had thirteen thousand people behind his risk windows and eleven pilots in machines pointed away from safety. When he spoke again, his voice was measured.
+Idris said nothing for a moment. The station commander had thirteen thousand people behind his risk windows and eleven pilots in machines pointed away from safety.
 
 “No service pull without an unloaded indication. Confirm.”
 
@@ -216,21 +212,17 @@ Romesh said, “Leaving your current position releases the upper seam.”
 
 “For how long?”
 
-“At least twenty seconds before you can reestablish useful counterphase. The ascent may accelerate. That's not a prediction of damage at the station.”
+“At least twenty seconds before you can reestablish useful counterphase. The ascent may accelerate.”
 
-“Idris?”
+“Idris, I need the freight shutters moving. Shadow windows down the line.”
 
-“Habitat shutters draw from the same reserve as traffic control.”
-
-“I need moving windows.”
-
-“I know what you need.” He was talking to someone off-channel. Figures flashed onto Varai's display: occupied sectors, shelter counts, power margins. “I can brown out three habitat sections for forty-two seconds. Then life support circulation loses priority.”
+“Moving the freight leaves means taking power from the habitats.” He was talking to someone off-channel. Figures flashed onto Varai's display: occupied sectors, shelter counts, power margins. “I can brown out three habitat sections for forty-two seconds. Then life support circulation loses priority.”
 
 “Forty-two is enough for one pass.”
 
-“You don't know that.”
+“Forty-two, then those three sections get circulation back. Whatever state you're in.”
 
-“It's enough to find out.”
+“If it's short, I come back and hold.”
 
 Idris took three more confirmations before he gave the order. Habitat lights vanished from the ring in broad dark wedges. Freight shutters began moving, not all together but in a sequence that cast shadow windows across the kneeling frames.
 
@@ -246,11 +238,11 @@ The frame rose past the boom with its old fractional delays, too slow in the ank
 
 “Right knee falling. Hip still—still loaded.”
 
-“Nine, two degrees outward,” Naveen said. “No, hold. Your left emitter is coupling. Fold left, not both.”
+“Nine, two degrees outward,” Naveen said from engineering. “No, hold. Your left emitter is coupling. Fold left, not both.”
 
 Varai folded the left shoulder array. Cairn Nine slipped between the boom and Four.
 
-Nadja grunted. “Hip free. Service is behind my right thigh. I have to get under the harness.”
+Inside Four, Nadja grunted. “Hip free. Service is behind my right thigh. I have to get under the harness.”
 
 “Window six seconds,” Idris said.
 
@@ -266,13 +258,13 @@ Nadja grunted. “Hip free. Service is behind my right thigh. I have to get unde
 
 The service link came out with an audible crack over her microphone. Cairn Four's thruster bars went black.
 
-“Four local,” Nadja said, each word clipped short. “Left side answering. Right emitter control is under the brace.”
+“Four local,” Nadja said. “Left side answering. Right emitter control is under the brace.”
 
 “Can you dog it inward?” Varai asked.
 
 “If you stop moving the floor.”
 
-Varai held Nine against the magnetic push while the shutter window moved past. Nadja released one hand from somewhere, cursed once in a small voice, and hauled her emergency emitter lever through its detent.
+Varai held Nine against the magnetic push while the shutter window moved past. Nadja let go of the harness strap, cursed once in a small voice, and hauled her emergency emitter lever through its detent.
 
 Cairn Four's shoulder array turned toward Jupiter.
 
@@ -282,7 +274,7 @@ Green light opened below her machine.
 
 It was only a narrow panel of lattice, uneven beside the seam, but the organism's upward edge spread instead of sharpening. Varai brought Nine around and joined it. Two emitters now. Coolant alarms multiplied across both displays.
 
-“Next sector,” Idris said.
+“Next sector,” Idris said. “First three sections get circulation back. I'm taking three more dark for the next forty-two.”
 
 The release did not become smooth.
 
@@ -298,9 +290,9 @@ Idris's count ended.
 
 “Window closing,” he said.
 
-“Then close it.”
+“Then close it,” Seven's pilot said.
 
-They let the signal take Seven's frame again and moved on. No one called the refusal wasted time.
+They let the signal take Seven's frame again and moved on.
 
 At the next shadow, Seven's pilot rolled her body against the restraint to reach a manual trim wheel. It did not move the machine, but it shifted enough hydraulic pressure to clear the shoulder indicator.
 
@@ -310,7 +302,7 @@ Naveen answered, “Condition good—wait, right collar is climbing. Pull before
 
 The link released at eleven.
 
-They recovered Three and Ten in overlapping windows. Nadja, breathing more steadily, walked each freed pilot through the awkward reach under the harness. She never said it would not hurt. She said which buckle to slacken and where the handle would strike the thigh when it came free.
+They recovered Three and Ten in overlapping windows. Nadja, breathing more steadily, walked each waiting pilot through the awkward reach under the harness. She never said it would not hurt. She said which buckle to slacken and where the handle would strike the thigh when it came free.
 
 “Count inward emitters,” Idris said.
 
@@ -330,13 +322,9 @@ Below them, the upper current had broadened across the storm, brighter but no lo
 
 “Seven emitters don't stop it,” Romesh said. “The rate is falling, but the wake remains hazardous.”
 
-“We know what eight does,” Varai said.
+“What does one more buy me?” Varai asked.
 
-“We know what nine sustains under normal conditions.”
-
-“Today isn't normal.”
-
-“No.” Romesh enlarged the uncertain band. “Eight may slow the upper edge. It will not give us a safe reshape.”
+Romesh enlarged the uncertain band. “A slower upper edge, possibly. Nine emitters sustain the lattice. A safe reshape takes ten.”
 
 They freed Twelve on the third pass. Its pilot pulled cleanly, dogged the emitter inward, and called the phase before Idris asked.
 
@@ -348,7 +336,7 @@ No one cheered. Romesh waited through two sensor returns and said, “Upper rate
 
 “Need ten,” Varai said.
 
-“Confirmed,” Idris replied. “Habitats two through five have thirty seconds of shutter reserve. Confirm occupied maintenance sector on the outer boom is clear.”
+“Confirmed,” Idris replied. “I have thirty seconds of shutter reserve left across the dark sections. Confirm occupied maintenance sector on the outer boom is clear.”
 
 The confirmation came late. Idris asked again. A maintenance chief reported two workers still crossing an access tube.
 
@@ -378,17 +366,13 @@ Varai took the center phase because Cairn Nine was already there. “Four, short
 
 “Then give me a lower phase.”
 
-Varai did. The lattice ceased being a set of separate green panels and became one warped plane, tilted away from the habitat ring. Jupiter's storm tops flashed as the organism's charged wake met it. The field did not drive the life downward. It bent the rising current sideways, spread its charge through a longer reach of atmosphere, and lowered the hazardous edge below their orbit.
+Varai did. The lattice ceased being a set of separate green panels and became one warped plane, tilted away from the habitat ring. Jupiter's storm tops flashed as the organism's charged wake met it. The field bent the rising current sideways, spread its charge through a longer reach of atmosphere, and lowered the hazardous edge below their orbit.
 
 Romesh watched three returns. “Wake band below station minimum. Still falling.”
 
 Idris said, “Confirm below minimum.”
 
-“Confirmed below minimum. The organism remains elevated relative to the start of watch.”
-
-“But not reaching us.”
-
-“Not on current measurements.”
+Romesh waited for a fourth return. “Confirmed.”
 
 Only then did Varai notice the smell in her cabin, hot resin and old insulation.
 
@@ -396,11 +380,11 @@ Only then did Varai notice the smell in her cabin, hot resin and old insulation.
 
 “Two frames still under signal.”
 
-“Ten can hold the reshape. You are burning the stack.”
+“The others can hold it until Eight's in. You are burning the stack.”
 
 “Eight and Five still have armed bars.”
 
-“Their shadow windows are next. You don't need to carry center.”
+“Their shadow windows are next. Two frames can't hold a clean magnetic baseline, so shadow's enough now. You don't need to carry center.”
 
 Varai moved to break phase. Cairn Nine answered at the left ankle, then the right hip.
 
@@ -432,7 +416,7 @@ Jupiter rolled below them, its bands sliding at different speeds beneath the geo
 
 Forty minutes after the machines knelt, the next watch took formation.
 
-There were ten working emitters instead of twelve. Nine could sustain the quiet lattice. Ten could reshape it safely. They had exactly enough, which was another way of saying they had nothing spare.
+There were ten working emitters instead of twelve. Nine could sustain the quiet lattice. Ten could reshape it safely. They had exactly enough.
 
 Varai remained strapped inside dark Cairn Nine while Naveen walked her through manual cooldown. Without the integrator, the frame had no formation sense at all. Her canopy showed only Jupiter, the boom, and the green edges of other people's work.
 
@@ -454,17 +438,13 @@ Nadja came onto the private channel. “Four is stable. My hand's warm now.”
 
 “It's swollen.”
 
-“Less good.”
+“Can you close it?”
 
-“Medical's meeting me at the lock. They asked whether I pulled the link against load.”
+“Most of the way. Medical's meeting me at the lock. They asked whether I pulled the link against load.”
 
 Varai looked at the flat trace where Nine's old lag used to live. “You didn't.”
 
-“I know. I wanted someone else to say it.”
-
-“You waited for your window.”
-
-Nadja let out a breath. “Yes.”
+The channel stayed open. Varai heard her breathe out, then the click of a harness buckle. “Okay. Four to the lock.”
 
 Idris began the formal handoff on the shared channel. Ten frames answered inward. Two reported safe offline. Habitat circulation returned section by section. Traffic remained stopped. The distant signal continued repeating its three-part command into correlators that were no longer connected.
 
@@ -476,6 +456,6 @@ When Idris reached Cairn Nine, Varai turned the coolant wheel another notch.
 
 “Copy fourteen.”
 
-Below her, the field held without Nine. Varai watched its uneven edges settle as the new pilots corrected one another, some too quickly, some after a repeated count. She listened until their timing became a watch instead of an emergency.
+Below her, the field held without Nine. Varai watched its uneven edges settle as the new pilots corrected one another, some too quickly, some after a repeated count. She listened until the corrections came further apart.
 
 Then she took her hands off the wheel and waited for the tug.
