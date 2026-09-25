@@ -106,7 +106,7 @@ There was. My cane caught under it, and I nearly followed the cane down.
 
 “Stay there!” Berian shouted.
 
-His steps came toward me. He was coughing, dragging something against the wall.
+His steps came toward me. He was coughing, and I heard his shoulder drag along the wall as he felt his way down.
 
 “Where is she?”
 
@@ -130,7 +130,7 @@ He gave an odd little laugh that turned into coughing.
 
 I could not see him sprawled on the steps. Through the blue eye, the staircase was empty. Through the green, the upper part had fallen away. His head might have been bleeding. His foot might have been pointing in the wrong direction. I had the pressure of his fingers and his breath against my neck, and I had to choose what to do with those.
 
-“Let go of my arm. Put it over my shoulders.”
+“Let go of my arm. Put yours over my shoulders.”
 
 He was heavier than I remembered. We got him down one step, rested, then another. He tried to help and made a sound I had never heard from him, thin and furious. By the time we reached the street I could no longer feel the shoulder under his arm.
 
@@ -210,7 +210,7 @@ She put my wrist against its edge. We changed our positions in a series of awkwa
 
 She said, “I've got it out,” twice before I understood.
 
-Below the window, someone shouted that the ladder was ready. A wooden end struck the sill. I began to stand and hit my head on the rail again.
+Below the window, someone shouted that the ladder was ready. A wooden end struck the sill. I began to stand and hit my head on the rail.
 
 “Wait,” Tesset said. “Wait. Give me your hand.”
 
@@ -274,7 +274,7 @@ I said nothing. His knuckles brushed mine, then wool rasped beside me. Once, whe
 
 “I heard you.”
 
-“The rail was down. There wasn't room. I couldn't get near her.”
+“You know that room. Two rails of costumes, the dressing table, that bench nobody's shifted since Mother. The big rail had come down across the lot, and the smoke was so thick I was feeling for things with my shins. I shouted myself hoarse. I couldn't get near her, Iseth. Not without climbing over the whole wardrobe.”
 
 I could imagine it. Smoke made people stupid; fear made them say things they wished were true. He had hurt his ankle, and afterward he had stayed beneath a burning wall to bring us down. I wanted those facts to make one person, somebody I could take home and be angry with for a long time.
 
@@ -286,7 +286,11 @@ I could imagine it. Smoke made people stupid; fear made them say things they wis
 
 He drew in a breath.
 
-“There were things to settle. I thought she'd done and gone. I was downstairs.”
+“There were things to settle. Her last week, her key, a cloak she's wanted cheap since spring. She went up to fold the good costumes, and when it went quiet I thought she'd done and gone, let herself out the back the way she always does. You remember how she—”
+
+“Her wages,” I said.
+
+“That too. Of course that too. I was downstairs the whole time, Iseth. I was down there with your puppets.”
 
 An iron buckle knocked against something near my knee. A watchman introduced himself by his office and asked if I owned the theatre.
 
@@ -296,7 +300,7 @@ An iron buckle knocked against something near my knee. A watchman introduced him
 
 “Half,” I said. “My brother has the other half.”
 
-The watchman asked about the lamp. Berian began describing where it had stood and what had knocked it over. His voice found a steadier rhythm. He began giving dimensions; his sleeve brushed the watchman's coat, and I imagined his hands making their familiar shapes. I remembered the way he could make a whole stage out of a kitchen table if a listener would let him.
+The watchman asked about the lamp. Berian began describing where it had stood and what had knocked it over, and his voice found a steadier rhythm. “Brass, about so high, on the shelf behind the screen. That shelf has leaned since our mother's time. I've been meaning to take it down for years.” He began giving dimensions; his sleeve brushed the watchman's coat, and I imagined his hands making their familiar shapes. I remembered the way he could make a whole stage out of a kitchen table if a listener would let him.
 
 The window opened in my blue eye.
 
@@ -306,11 +310,11 @@ Smoke passed behind the woman at the window. Then my brother appeared beside her
 
 He was close enough to help her.
 
-I watched his old hands take hold of the little moneybox she carried. For a moment they both held it. Tesset pulled it toward herself, and he pulled harder. Her mouth opened. He got the box away from her.
+I watched his hands take hold of the little moneybox she carried. For a moment they both held it. Tesset pulled it toward herself, and he pulled harder. Her mouth opened. He got the box away from her.
 
 She reached after him. He backed into the room, striking the costume rail with his hip. It tipped. She went down out of sight.
 
-The old Berian looked toward the floor. He took a step forward. He stopped.
+The earlier Berian looked toward the floor. He took a step forward. He stopped.
 
 All this time the present Berian was talking beside me. Something about the oil. Something about how quickly the fire had spread.
 
@@ -330,9 +334,9 @@ His hand came onto my sleeve. I felt him begin to turn my shoulders away from th
 
 “The window.”
 
-“Now?”
+“Which eye?”
 
-He knew what he had asked. His grip loosened before I answered.
+His grip loosened before I answered.
 
 “Twenty minutes ago.”
 
