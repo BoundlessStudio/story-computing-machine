@@ -44,9 +44,9 @@ The rut looked shallow until the sixth wagon put its left wheels into it. Mud sw
 
 “Hold them,” the teamster called. “No whip. They’ve given all the pull they’ve got.”
 
-The rigger ducked under the rear canvas and began naming what had to come off. “Two grain. Tool chest. Both scale blocks. Keep the lamp crate where it is.”
+The loader ducked under the rear canvas and began naming what had to come off. “Two grain. Tool chest. Both scale blocks. Keep the lamp crate where it is.”
 
-You climbed onto the bed because the other road hand had gone for branches. The scale blocks sat against the tailboard, squat iron shapes with lifting loops, each stamped 100 kg beneath a seal. The rigger wrestled a grain sack onto one shoulder.
+You climbed onto the bed because the other road hand had gone for branches. The scale blocks sat against the tailboard, squat iron shapes with lifting loops, each stamped 100 kg beneath a seal. The loader wrestled a grain sack onto one shoulder.
 
 “Blocks take two each,” he said. “Wait for hands.”
 
@@ -58,7 +58,7 @@ When you stood, the caravan leader was looking at your hands.
 
 “How in all that’s holy did you just pick up two hundred kilograms and stroll off with it? You’re not even sweating.”
 
-Every nearby sound seemed to make room for the question: the mules blowing, a wheelwright hammering a branch under the rim, the rigger’s sack settling against the road.
+Every nearby sound seemed to make room for the question: the mules blowing, a wheelwright hammering a branch under the rim, the loader’s sack settling against the road.
 
 You checked the blocks. Both marks did say one hundred. Perhaps the seals were false. Perhaps you had moved the wrong things. “They’re balanced.”
 
@@ -70,7 +70,7 @@ You checked the blocks. Both marks did say one hundred. Perhaps the seals were f
 
 You searched her face for the joke’s direction. “Only just carrying. I couldn’t run with them.”
 
-The rigger lowered his sack. “I couldn’t stand up with one.”
+The loader lowered his sack. “I couldn’t stand up with one.”
 
 “I’m not very strong,” you said. It came out too fast. “At home, I mean. I’m the weakest there.”
 
@@ -82,7 +82,7 @@ The order felt like the beginning of a punishment. You obeyed it with relief.
 
 The seals proved sound. After the wagon came out, the caravan’s own clerk cleaned the blocks and compared them against the cargo papers. Two hundred kilograms, no mistake. For the rest of the afternoon, nobody asked you to lift anything heavier than sticks. That was worse than being laughed at. Twice you reached for a grain sack, and twice someone else got to it first without a word.
 
-At camp, the leader called you behind the supply wagon. The rigger came too, carrying a portable beam scale and three slings.
+At camp, the leader called you behind the supply wagon. The loader came too, carrying a portable beam scale and three slings.
 
 “Private,” the leader said when the cook craned her head from the fire.
 
@@ -104,7 +104,7 @@ She kept her thumb where it was and said nothing.
 
 “The left heel rubs.”
 
-The rigger grunted. “Felt first. Then weight.”
+The loader grunted. “Felt first. Then weight.”
 
 He cut felt for your heel, then rigged a broad yoke with equal slings. They began with fifty kilograms. You lifted it. The leader watched your knees and breathing, not your face.
 
@@ -122,13 +122,13 @@ At one hundred, the yoke felt worth noticing. At one hundred sixty, your soles p
 
 You indicated the yoke edge against your shoulder.
 
-The rigger slipped two fingers beneath it. “Harness problem. Not body.”
+The loader slipped two fingers beneath it. “Harness problem. Not body.”
 
 They added twenty kilograms. Your steps shortened. At twenty more, something pulled behind your right knee, faint as a thread catching on a nail.
 
 “Stop,” you said.
 
-The rigger had the sling down before you finished the word.
+The loader had the sling down before you finished the word.
 
 The leader wrote on her wax board. “Good. What changes it?”
 
@@ -140,7 +140,7 @@ The leader wrote on her wax board. “Good. What changes it?”
 
 “How much food?”
 
-You described two morning bowls, bread in the fields, the noon pot, nuts or fat in the afternoon, and broth salted until a spoon nearly stood in it. The rigger stopped coiling the sling.
+You described two morning bowls, bread in the fields, the noon pot, nuts or fat in the afternoon, and broth salted until a spoon nearly stood in it. The loader stopped coiling the sling.
 
 “That’s for everyone?” he asked.
 
@@ -170,7 +170,7 @@ The leader fetched a waterproof packet from her chest. Between route permits and
 
 “We’re told our backs are good because our habits are good.”
 
-The rigger snorted.
+The loader snorted.
 
 “And your back?” the leader asked.
 
@@ -186,15 +186,15 @@ You scraped the bowl clean. “Could we measure it properly? If it’s not too m
 
 The test at first light ended with a working number lower than what you could lift.
 
-On level, packed ground, with matched slings and the rigger watching, you carried two hundred kilograms for two hundred paces. At two hundred forty kilograms, the pull returned behind your knee. When the rigger hung a half-filled water cask from one side of the yoke, you had to stop at eighty kilograms. The water struck the barrel wall after each step and dragged your balance after it.
+On level, packed ground, with matched slings and the loader watching, you carried two hundred kilograms for two hundred paces. At two hundred forty kilograms, the pull returned behind your knee. When the loader hung a half-filled water cask from one side of the yoke, you had to stop at eighty kilograms. The water struck the barrel wall after each step and dragged your balance after it.
 
-“There,” the rigger said. “Half a cask and your stride’s gone. That sling needs a second belly-band.”
+“There,” the loader said. “Half a cask and your stride’s gone. That sling needs a second belly-band.”
 
 The wheelwright, passing with an oiled hub pin, glanced at the yoke. “If that much goes in a bed, set it over the axle and tell me first.”
 
 The cook handed the leader a tally of meal measures. “That’s what they’ve eaten since supper. Put it on your board.”
 
-The leader looked from the tally to the cask and back to her board. “One hundred eighty for ordinary flat-road assignments. Two hundred only when the rigger clears ground and rigging. No catching, no rolling loads, no live animals, no tilted beds. We revise after a week.”
+The leader looked from the tally to the cask and back to her board. “One hundred eighty for ordinary flat-road assignments. Two hundred only when the loader clears ground and rigging. No catching, no rolling loads, no live animals, no tilted beds. We revise after a week.”
 
 “You don’t have to change my rate,” you said. “The low one’s fine. If that’s simpler.”
 
@@ -206,11 +206,11 @@ The clerk’s mouth tightened at the board. “Porter rate’s priced as if we�
 
 “That saves less. A good deal less.” She wrote it down anyway.
 
-The rigger took apart the test sling because the stitching at one corner was wrong. The cook demanded her measuring cup back. You ate a third breakfast portion and fell asleep against a wheel before the harness bells rang.
+The loader took apart the test sling because the stitching at one corner was wrong. The cook demanded her measuring cup back. You ate a third breakfast portion and fell asleep against a wheel before the harness bells rang.
 
 For the next four days, the caravan taught you all the ways weight could become somebody else’s problem.
 
-The rigger taught you to distrust a neat stack. He rapped crates and listened, checked seals for damp, and rejected rope that looked strong but had gone furry between its twists. His instructions came in clipped pairs. “Loop high. Pull low. Again.” When you apologized, he usually answered, “Again.”
+The loader taught you to distrust a neat stack. He rapped crates and listened, checked seals for damp, and rejected rope that looked strong but had gone furry between its twists. His instructions came in clipped pairs. “Loop high. Pull low. Again.” When you apologized, he usually answered, “Again.”
 
 The teamster cared less about cargo weight than where it made the animals work. “Hear the gray?” she said on a long rise, nodding at the near mule of the second wagon. “Blowing like that already. She stops at the cairn and drinks, and damn the schedule.” She would postpone a wagon to cool a mule, then curse for ten minutes when anyone delayed the same wagon through carelessness.
 
@@ -220,7 +220,7 @@ The clerk let numbers keep their full sharpness. “Gross is not freight. Freigh
 
 You said yes to all of them.
 
-Yes, you could hold the axle while the wheelwright set a pin. Yes, you could move two flour chests after unloading your assigned copper. Yes, you could fetch water before eating. Yes, you could stand in place while the rigger fetched a better strap. The tasks were each small compared with what people at home demanded, and every request sounded like another day’s permission to stay.
+Yes, you could hold the axle while the wheelwright set a pin. Yes, you could move two flour chests after unloading your assigned copper. Yes, you could fetch water before eating. Yes, you could stand in place while the loader fetched a better strap. The tasks were each small compared with what people at home demanded, and every request sounded like another day’s permission to stay.
 
 On the fourth evening, the cook found you beside the supply wagon rubbing salt into your gums from the empty twist you had brought from the village.
 
@@ -254,7 +254,7 @@ Under her questions, the missed meal, extra lifts, and soreness came out in scra
 
 You looked at the board.
 
-The rigger arrived with a sling over one shoulder, glanced at your heel, and said to you, “You’re not loading today.”
+The loader arrived with a sling over one shoulder, glanced at your heel, and said to you, “You’re not loading today.”
 
 “I could do a lighter—”
 
@@ -278,7 +278,7 @@ The bed tilted. Harness snapped tight. Inside the canvas, something heavy slid a
 
 “Hold the team!” the teamster shouted.
 
-“Uphill side clear,” the rigger called. “Nobody beside the lean.”
+“Uphill side clear,” the loader called. “Nobody beside the lean.”
 
 You were behind the wagon, clear of the sideboard but close enough to see the uphill end of the rear frame dropping. The wheelwright thrust a crib block beneath it, but the block skated in mud.
 
@@ -286,7 +286,7 @@ You were behind the wagon, clear of the sideboard but close enough to see the up
 
 You set your back beneath the frame and took the corner’s weight. It was not two hundred kilograms; it was a changing fraction of wagon, cargo, and slope. For one breath it pressed cleanly down. Then something rolled inside. The force twisted across your spine.
 
-The rigger reached for the rear ties.
+The loader reached for the rear ties.
 
 “No,” you said.
 
@@ -308,11 +308,11 @@ The clerk had abandoned her seat with the manifest hugged beneath her coat. You 
 
 “The oil casks are what rolled,” you said. “Rear, uphill side.”
 
-The rigger swore once. “They were meant to be wedged.”
+The loader swore once. “They were meant to be wedged.”
 
 “Can we take the copper out through the downhill flap first? It’s high now. Then pass meal sacks downhill for ballast. The casks stay shut until the bed is on blocks.”
 
-The leader looked to the rigger.
+The leader looked to the loader.
 
 He was already reaching across the raised side for the cover ties. “That gives me a safe opening.”
 
@@ -342,9 +342,9 @@ Mud squeezed under your boots. Your shoulder trembled, not from the clean downwa
 
 You bent slowly. The wagon came to rest on wood instead of your back.
 
-The rigger made everyone stand clear while he opened the rear and wedged the oil casks. The teamster walked the rear pair for cuts. The clerk crossed out a delivery estimate. The leader sent you to the cook for salt broth, then stood over you until you drank it. “Shoulder,” she said, and waited. You told her where it hurt and how much, and she wrote down all of it.
+The loader made everyone stand clear while he opened the rear and wedged the oil casks. The teamster walked the rear pair for cuts. The clerk crossed out a delivery estimate. The leader sent you to the cook for salt broth, then stood over you until you drank it. “Shoulder,” she said, and waited. You told her where it hurt and how much, and she wrote down all of it.
 
-Two hours later the wagon was upright. The wheel held. The caravan moved at half pace, and the rigger walked beside the repaired corner with one hand on the rail, feeling for every shift.
+Two hours later the wagon was upright. The wheel held. The caravan moved at half pace, and the loader walked beside the repaired corner with one hand on the rail, feeling for every shift.
 
 You walked empty-handed.
 
@@ -362,7 +362,7 @@ You read the load clause twice. “It says one hundred eighty.”
 
 The clerk looked up. The leader waited.
 
-Your mouth had gone dry. “I think one hundred sixty should be ordinary. If that’s workable. Two hundred on level ground, with the rigger checking the sling. Nothing that rolls or shifts. No holding wagons.”
+Your mouth had gone dry. “I think one hundred sixty should be ordinary. If that’s workable. Two hundred on level ground, with the loader checking the sling. Nothing that rolls or shifts. No holding wagons.”
 
 “And if a wagon tips like the fifth one did?” the leader said.
 
@@ -394,7 +394,7 @@ The clerk added each term in cramped script. The cook came to check that “full
 
 You pressed your thumb into the wax.
 
-The next morning, the rigger assigned you two sixty-kilogram cloth bales in a matched shoulder rig. A modest load, stable and dry. The clerk handed you the manifest board as well.
+The next morning, the loader assigned you two sixty-kilogram cloth bales in a matched shoulder rig. A modest load, stable and dry. The clerk handed you the manifest board as well.
 
 “Third wagon,” she said. “Check gross against axle allowance. Mark the steep grade after the noon halt.”
 
