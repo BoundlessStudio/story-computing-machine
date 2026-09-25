@@ -8,9 +8,9 @@ canon: false
 
 # The Door Knows Home
 
-The door arrived with four people pushing it and none of them steering.
+The door arrived with two people pushing it and neither of them steering.
 
-Its temporary oak frame shuddered over the workshop threshold. One caster caught in the brass strip and the brother put his shoulder into the stile while the eldest sister, who had introduced herself only as the executor, kept saying, “Watch the veneer. It has to be collected at five.” The other two siblings carried document boxes against their chests. A loose lever on the door trembled with every jolt but did not return to level.
+Its temporary oak frame shuddered over the workshop threshold. One caster caught in the brass strip and the brother put his shoulder into the stile while the eldest sister, who had introduced herself only as the executor, kept saying, “Watch the veneer. It has to be collected at five.” The other two siblings carried a document box and a flat box against their chests. A loose lever on the door trembled with every jolt but did not return to level.
 
 The apprentice caught the frame before it struck the key-cutting bench.
 
@@ -60,7 +60,7 @@ The siblings sorted boxes behind them in bursts of paper and tape.
 
 “Kitchen lot is a quarter share only after valuation,” the executor said.
 
-“That crate isn’t kitchen,” the brother answered. “Pump spares. They were in the scullery because the shed roof leaked.”
+“That crate isn’t kitchen,” the brother answered. “Engine spares. They were in the scullery because the shed roof leaked.”
 
 “Then take the spares out before I seal it.”
 
@@ -72,15 +72,15 @@ Once the case was closed, the apprentice mounted a deadwood turning jig on the l
 
 “It hasn’t gone anywhere,” the executor said.
 
-“The jig proves the repaired motion. It doesn’t provide a living user.” The apprentice removed it. “Now we test one person at a time. Bare hand on the brass. Don’t name a destination. Don’t tell each other what to remember. Turn only when you mean to walk through, and keep the door on the brace until you’ve come back.”
+“It won’t with the jig. That was only the motion.” The apprentice removed it. “It needs someone alive on the handle. So we test one person at a time. Bare hand on the brass. Don’t name a destination. Don’t tell each other what to remember. Turn only when you mean to walk through, and keep the door on the brace until you’ve come back.”
 
-They weighed a canvas-bound brass block, stamped it with the work order number, and put it beside the frame. Each user would carry it across, set it beyond the sill, and bring it back. The apprentice knew what the home cam required from its construction and what it could not possibly measure. There was no element in the case for affection, deservingness, or legal title. Its usable input was narrower: bare contact from the primary living user, intention to cross, and an active, practiced recognition of a safe dwelling threshold as a place of return.
+They weighed a canvas-bound brass block, stamped it with the work order number, and put it beside the frame. Each user would carry it across, set it beyond the sill, and bring it back. The apprentice knew from its construction what the home cam could not possibly measure. There was no element in the case for affection, deservingness, or legal title.
 
 “Why bare?” the brother asked.
 
 “Because this fitting samples at the furniture. If leather is between skin and brass, I can’t tell a blocked contact from a bad route.”
 
-The executor pulled off one packing glove and kept the other on. “I’ll go first. The survey folder is still in the pantry. We need it for the appraiser.”
+The executor pulled off one packing glove and kept the other on. “I’ll go first. The survey folder. We need it for the appraiser.”
 
 She hooked the test weight in her covered left hand and took the lever in her bare right. The apprentice watched the witness pin rather than her face. The pin sank until its round top lay flush with the case. The bolt completed its throw. A bright, square band appeared through the inspection slot where the cam met the fence.
 
@@ -90,23 +90,21 @@ The workshop wall vanished from the frame. In its place stood a narrow pantry li
 
 “The house,” the executor said, already stepping across. “Hold that brace.”
 
-The brother put his boot on its foot. She crossed, set down the test weight, opened a cupboard beneath the lowest shelf, and returned with the weight in one hand and a blue folder tucked under her arm. Only when both her feet were back on the workshop boards did the apprentice release the brace. The door closed. The bolt withdrew, and the witness pin rose the width of a thumbnail: reset.
+The brother put his boot on its foot. She crossed, set down the test weight, opened a cupboard beneath the lowest shelf, and returned with the weight in one hand and a blue folder tucked under her arm. Only when both her feet were back on the workshop boards did the brother lift his boot. The door closed. The bolt withdrew, and the witness pin rose the width of a thumbnail: reset.
 
 The executor wrote FOUND across one line of her contents schedule. “There. Certify it.”
 
 “That certifies one set.” The apprentice measured the bolt throw with a leaf gauge. Eleven millimetres. “The next user needs the same result.”
 
-The brother wiped his palm on his trousers and took the test weight. “I need the long socket from my cabin. Sixteen millimetre. We can get two jobs done.”
+The brother wiped his palm on his trousers and took the test weight. “I need the long socket. Sixteen millimetre.”
 
-“No destination name,” the apprentice reminded him.
-
-“I heard you.” He grasped the lever as if it were a grab rail on a wet deck, pulled it down, and shoved before the apprentice could tell him to use steady pressure.
+He grasped the lever as if it were a grab rail on a wet deck, pulled it down, and shoved before the apprentice could tell him to use steady pressure.
 
 The pin struck flush. The bolt threw fully.
 
-When the door swung open, cold white light fell across the baize. A cramped cabin tilted very slightly beyond the frame, though the workshop floor did not. Tools hung in webbing above a built-in bunk. Through a small round window, steel props and the algae-streaked underside of a canal barge rested in dry dock.
+When the door swung open, cold white light fell across the baize. A cramped cabin tilted very slightly beyond the frame, though the workshop floor did not. Tools hung in webbing above a built-in bunk. Through a small round window, the next boat in the yard stood on steel props, its hull streaked green to the waterline.
 
-The brother stared once, then reached for the hold-open brace himself. “Towpath side. Keep your weight there. The dock blocks are sound, but she’s light with the tanks empty.”
+The brother looked at it for a long second, then reached for the hold-open brace himself. He glanced at the apprentice. “Yard blocks are sound. She sits light with the tanks empty, that’s all.”
 
 “That is not the house,” the executor said.
 
@@ -118,13 +116,13 @@ The brother stared once, then reached for the hold-open brace himself. “Towpat
 
 The apprentice held the door until his boot cleared the sill, then let it shut. Again the pin rose on reset. Again the gauge read eleven millimetres. The contact band was square, with no bright edge to suggest a false seating.
 
-“It drifted,” the executor said.
+“So the repair hasn’t held,” the executor said.
 
-“A drift would leave the pin proud or shorten the throw.” The apprentice recorded both measurements. “It made a second sound set.”
+The apprentice turned the leaf gauge so she could read it, then recorded both measurements. “Eleven. Same as yours.”
 
 “To a boat on blocks,” the middle sister said.
 
-“Dry dock,” her brother said. “Still connected to power, water, and the east access. She goes back in after the hull plates.”
+“Hardstanding,” her brother said. “Still on shore power, with the yard crane booked. She goes back in after the hull plates.”
 
 “I didn’t ask for the maintenance plan.”
 
@@ -146,11 +144,7 @@ The bare-hand attempt began with a faint scrape behind the case. The cam moved, 
 
 The apartment kitchen beyond was bright with under-cabinet lamps. A grocery trolley stood folded beside a small table, safely clear of the threshold. The middle sister lifted the test weight. Someone out of sight asked, “Are you coming home now?”
 
-“After the collection.” The middle sister crossed without looking back at the workshop and set the weight beside the clear wall. “Lunch card’s in the front pocket of my bag. Not that bag. School bag.” A cupboard opened. “I’m taking the address labels.”
-
-“We need them,” the executor called.
-
-“That’s why.”
+“After the collection.” The middle sister crossed without looking back at the workshop and set the weight beside the table. “Lunch card’s in the front pocket of my bag. Not that bag. School bag.” A cupboard opened. “I’m taking the address labels.”
 
 She returned with the weight hanging from one hand, a roll of labels over her wrist, and a freezer pack wrapped in a tea towel. “This goes in the food box before it warms.” She stepped clear, shut the door herself, and put the pack into the carton at once.
 
@@ -160,31 +154,19 @@ The youngest had been standing beside the flat box, peeling dried adhesive from 
 
 “No prompting,” said the apprentice.
 
-“We’re trying to reproduce the first result.”
-
-“Then reproduce the conditions. One user, no named target, intention to cross.”
+“It went to the house for me. It’ll go there for them.”
 
 The youngest put a hand on the lever. The executor laid two fingers over their knuckles. Inside the case, the cam began to chatter. The witness pin bobbed without sinking, and the bolt pawl clicked against its stop.
 
-The apprentice lifted both their hands from the brass. “Competing contact. It can’t establish a primary user.”
+The apprentice lifted the executor’s hand and the youngest’s from the brass. “Competing contact. It can’t establish a primary user.”
 
 “I was only steadying them,” the executor said.
 
-“You were changing the input.”
-
-The youngest rubbed the pale marks their fingers had left. “The prints need glassine.”
+The youngest rubbed the pale marks the executor’s fingers had left. “The prints need glassine.”
 
 “There’s tissue in the box,” said the executor.
 
-“Not for ink.”
-
-“Where is the glassine?” the apprentice asked.
-
-“Shop.”
-
-“The studio?”
-
-“Print shop. Loft above.” The youngest glanced at the three siblings, then at the lever. “Rented. Access runs to month-end.”
+“Not for ink.” The youngest glanced at the three siblings, then at the lever. “I’ve got some.”
 
 The executor opened her mouth.
 
@@ -196,13 +178,13 @@ No chatter this time. The witness pin sank in one unbroken motion. The bolt reac
 
 Warm light filled the frame. The receiving threshold was scarred wood, speckled with old ink. Beyond it, beneath rafters, stood a narrow bed screened from racks of drying paper by a canvas curtain. A hotplate and two washed cups occupied a bench beside a utility sink. Down a short flight of open stairs, the dark print shop showed rows of type cases and a press under its cover.
 
-The youngest crossed and put down the weight. They did not offer an account of the place. They went to a flat drawer, took out a handful of translucent sheets, checked their size against a metal rule, and came back with the weight before the executor could ask a second question.
+The youngest crossed and put down the weight. They did not offer an account of the place. They went to a flat drawer, took out a handful of translucent sheets, checked their size against a metal rule, and came back with the weight before the executor could get a question out.
 
 The pin, throw, and contact band all matched the other tests.
 
-“Four different openings,” the executor said. She had stopped looking at the clock. “That is not a successful repair.”
+“Four addresses,” the executor said. She had stopped looking at the clock. “That is not a successful repair.”
 
-“Four different destinations,” the apprentice said. “The mechanism has given me four identical valid sets.”
+The apprentice held out the test log with its four rows of readings. “Every one of those seated square. If I thought one was bad, I wouldn’t put my number on it.”
 
 “It’s supposed to know the house.”
 
@@ -216,33 +198,31 @@ The brother put the socket into his coat. “Mum’s door did.”
 
 “Then open there.”
 
-He put his hand on the brass. The executor kept hold of his sleeve, not the lever, but his attention kept snagging on her instructions. The cam hunted audibly. Pin halfway. Bolt at six millimetres. When she reached to add her hand, the apprentice blocked her with the gauge.
+He put his hand on the brass. The executor kept hold of his sleeve, not the lever. The cam hunted audibly. Pin halfway. Bolt at six millimetres. When she reached to add her hand, the apprentice blocked her with the gauge.
 
 “Don’t force the pawl. You’ll raise another burr.”
 
-The brother let go. “Can’t route a load by reciting the quay either.”
+The brother took his hand off the brass and yanked his arm. “Let go of my sleeve.”
 
-The apprentice did not answer. They opened the case again.
+She let go. The apprentice opened the case again.
 
-This time they brushed a thin film of marking blue over the cam edge and asked each sibling for one neutral turn without opening the door. Bare hand. No help. Intent to cross, stopped at the hold-open brace. Between turns, closing pressure reset the cam.
+This time they brushed a thin film of marking blue over the cam edge and asked each sibling for one neutral turn without opening the door. Bare hand. No help. Intent to cross, stopped at the hold-open brace. Between turns, closing pressure reset the cam. Last, the brother agreed to one more turn while the executor recited the pantry beside him with her hands in her pockets. He stopped that one at the brace too.
 
-Four fresh arcs cut through the blue at four angles. Each ended in a square patch where the fence had seated. The executor’s arc ran along one shoulder of the deep old groove. The failed prompted turn left a wavering trail between two positions and an edge smear where the cam had never met flat.
+Four fresh arcs cut through the blue at four angles. Each ended in a square patch where the fence had seated. The executor’s arc ran along one shoulder of the deep old groove. The recited turn left a wavering trail between two positions and an edge smear where the cam had never met flat.
 
 The apprentice set the case under the magnifier. The old groove looked less like a notch there and more like what it was: thousands of passes over the same route. Its bottom was dark with age; its shoulders had been polished by repetition. It recorded how often the mother had used one position. Nothing in the inert brass could retain the user who had made it.
 
-“If that deep track were a fixed address,” the apprentice said, choosing each conditional as carefully as a shim, “the other three sets would strike it or fail short. They don’t. If the new arcs were slips, their contact would be on an edge. It isn’t. The repair returns the fence, removes the burr, and gives full spindle travel. I can certify four usable sets and the blocked conditions we produced. I can’t rank the sets or assign property from them.”
+“These four end square.” The apprentice touched each arc with a scriber in the order the turns had been made, then the wavering trail. “That one’s on an edge. That’s what a slip looks like. The deep one is wear. Years of one hand going the same way.”
 
 The executor examined the magnified track without touching it. “Can you certify the door as functional without naming where it goes?”
 
 “Yes. With operating restrictions.”
 
-“And it is removable personal property.”
+The brother bent to the magnifier beside her. “That first one’s yours. Right up against Mum’s.”
 
-“That’s for your inventory.”
+The executor pulled the blue folder from under her arm and found a contents form. “The sale of the house continues. The door comes off the fixtures schedule and goes on the estate chattels list as removable personal property, working condition subject to certificate. Net proceeds remain divided in four equal shares.”
 
-She pulled the blue folder from under her arm and found a contents form. “The sale of the house continues. The door comes off the fixtures schedule and goes on the estate chattels list, working condition subject to certificate. Net proceeds remain divided in four equal shares.”
-
-“It was always four shares,” the middle sister said, sticking labels on the boxes in the order she had already arranged them. “Mine is kitchen and linens. His is tools. The flat one goes with the youngest. Yours is documents and silver. The lamp is still disputed.”
+“It was always four shares,” the middle sister said, sticking labels on the boxes in the order she had already arranged them. “The lamp is still disputed.”
 
 “The lamp is not holding up completion.”
 
@@ -252,11 +232,11 @@ The brother tested the brace foot. “If the driver takes the frame at five, mov
 
 The executor checked the clock, the collection list, and the fee column. “One route at a time. Each person signs for what crosses.”
 
-The middle sister started labeling boxes while the brother and the executor resumed their argument about the lamp.
+The middle sister kept labeling boxes while she and the executor went back to arguing about the lamp.
 
 The apprentice fitted the case cover and stood beside the witness pin while the executor took her documents and silver through to the pantry. Before she returned for the second load, the apprentice pointed to the first box, left squarely inside the receiving threshold. She moved it clear while the route was still braced open, crossed back, and reset the door. On her next turn the pin sank flush. The apprentice added CLEAR RECEIVING THRESHOLD to the certificate.
 
-The brother carried the tool crate into the barge cabin, complaining that its marked weight was wrong, and returned before the door closed. The middle sister took kitchen goods into her apartment while directing someone beyond the frame to make space beside the table, then came back before the brace was released. The youngest moved the flat print box to the loft in two loads, glassine between every inked sheet, and came back each time before releasing the brace. At every closure the route vanished, the workshop wall returned, and the witness pin rose. There was no handle waiting at the distant side once the door had reset, no way back except to be in the workshop and set it again.
+The brother carried the tool crate into the boat’s cabin, complaining that its marked weight was wrong, and returned before the door closed. The middle sister took kitchen goods into her apartment while directing someone beyond the frame to make space beside the table, then came back before the brace was released. The youngest moved the flat print box to the loft in two loads, glassine between every inked sheet, and came back each time before releasing the brace. At every closure the route vanished, the workshop wall returned, and the witness pin rose. There was no handle waiting at the distant side once the door had reset, no way back except to be in the workshop and set it again.
 
 The apprentice wrote the restrictions in material terms: one primary living user; bare contact at the brass; stable intention to cross; receiving threshold clear and safe; brace held until return; closure resets route; no remote return. They attached measurements for four sound sets and noted every observed block, then signed their bench number at the bottom.
 
