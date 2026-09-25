@@ -8,15 +8,15 @@ canon: false
 
 # The Unfixed Song
 
-The pepper gardens were still three towlines short when Heket stopped the song.
+The pepper gardens were still three towlines short when Heket stopped Mazhira halfway through the route song.
 
 “No. Hold that note over the pale water.”
 
 Mazhira kept one hand on the lead deck's sounding rail. Through her bare feet came the shiver of hinged bridges, then the heavier tug of a workshop hull being hauled into line. Beyond Heket's shoulder, the city spread across the afternoon: roof sails angled like white leaves, garden rafts dark with soil, forge chimneys capped against spray. Thousands of separate hulls, each free to pitch, all obliged to turn together.
 
-“The pale water has moved,” Mazhira said.
+“The pale water's drifted up the north arm since noon,” Mazhira said. “If I hold over it, I hold late.”
 
-“Water moves. The order doesn't.” Heket lifted two fingers. “Third seam, hold high, wait for the rear to cast clear. Then four down.”
+Heket lifted two fingers. “Then hold on the count. Third seam, hold over, wait for the rear to cast clear. Then four down.”
 
 Zulmec, crouched beside the lead mast with his old drum between his knees, struck the rim once.
 
@@ -38,33 +38,31 @@ Mazhira gave Heket the starting pitch. Heket sang in a lean, unornamented voice:
 
 Zulmec's drum answered from below the last note.
 
-“Again?” Mazhira asked him.
+“I heard the drum,” Mazhira said. “Sing me the words with it. I want yours beside hers.”
 
-“You heard.”
+“You know them.”
 
-“The wind didn't.”
-
-That brought his head up. Zulmec sang the lower form, pushing each phrase against a rim beat. “Cold rain. Third seam. Four under. Shelf takes weight. Hold twice, then west.” The next words came without a beat beneath them. “Forward knives cut seven gardens. Warm water west of the lost hands.”
+She gave him the starting pitch and waited. He let it hang long enough to make a point of it, then sang the lower form, pushing each phrase against a rim beat. “Cold rain. Third seam. Four under. Shelf takes weight. Hold twice, then west.” The next words came without a beat beneath them. “Forward knives cut seven gardens. Warm water west of the lost hands.”
 
 The lead deck seemed to narrow between the two elders.
 
 Mazhira's mother had sung it Zulmec's way while they trimmed sailcloth or shelled beans or did any of the hundred jobs during which a child could not escape a lesson. Four under, her thumb pressing four pale dents into the dough. Forward knives, her knife stopping above a strip of blue cloth. Mazhira could remember the sour skin of an unripe bean she'd chewed in protest. She could not remember asking how her mother knew.
 
-Brannic came up the deck, coiling slack over one forearm. “If the history has finished moving the pepper raft, I need a course.”
+Brannic came up the deck, coiling slack over one forearm. “If the history's finished, the pepper raft's in line and I need a course.”
 
 “How long before the rear is joined?” Mazhira asked.
 
 “If no one loses another cooking pot, half an hour. Cold stripe reaches them sooner.” He glanced at the water thermometer bolted below the rail. “Maybe twenty.”
 
-Beyond the city, the sea divided without any clean line. The upper arm showed pale under a low bank of rain. The lower arm had the oily blue that sometimes meant warm current and sometimes meant shallow stone. Cloth squares climbed the relay masts from hull to hull: white for joined, yellow for waiting, red at the far rear where the seed gardens still drifted on temporary tethers.
+Beyond the city, the sea divided without any clean line. The upper arm showed pale under a low bank of rain. The lower arm had the oily blue that sometimes meant warm current and sometimes meant shallow stone. Cloth squares climbed the relay masts from hull to hull: white for joined, yellow for waiting, red for trouble. Red already showed at the far rear, where the seed gardens still drifted on temporary tethers.
 
 At Mazhira's elbow, the archive horn clicked awake.
 
-“CALIBRATION TRIAL,” said its flat metal voice. “SECTOR ZERO. SOUTH-EAST GUST. ARRIVAL: FORTY-TWO BREATHS. DURATION: ELEVEN BREATHS.”
+“CALIBRATION TRIAL,” said its flat metal voice. “SECTOR ZERO. SOUTH-EAST GUST. ARRIVAL: FORTY-TWO SECONDS. DURATION: ELEVEN SECONDS.”
 
-Kuvesh turned from the black instrument case strapped to the deck. He held up both hands, fingers spread, and began counting.
+Kuvesh turned from the black instrument case strapped to the deck. He held up both hands, fingers spread, and began counting seconds under his breath.
 
-Nobody spoke for thirty-eight breaths. At thirty-nine, Brannic ordered the loose coil tied down. At forty-two, the gust struck across the lead deck. It lifted Zulmec's sleeve, cracked the small test sail once, and was gone when Kuvesh raised his first finger again.
+Nobody spoke until he reached thirty-eight. At thirty-nine, Brannic ordered the loose coil tied down. At forty-two, the gust struck across the lead deck. It lifted Zulmec's sleeve, cracked the small test sail once, and was gone when Kuvesh raised his first finger again.
 
 Brannic looked at Mazhira. “I could get used to that.”
 
@@ -74,7 +72,7 @@ The climate archive had been speaking for three days. Its sensor buoys, paid out
 
 For the lead sector, already fixed to a surveyed position, it had been exact. Rain began when its white bar closed. Wind changed when the third shutter turned. A warm stripe crossed the practice buoy precisely long enough to soften the wax Kuvesh had smeared on its float.
 
-For the city, it had given no route forecast at all.
+For the city, it had given no route forecast at all. Its price had been plain from the first day: every variant of every route song recorded, one form of each authorized, and every route report and lesson after that given in the authorized form.
 
 Kuvesh laid two waxed song strips side by side beneath the intake needle. The marks showed pitch, beat, and spoken word. At the disputed measure, Heket's line held north while Zulmec's dropped below it.
 
@@ -94,17 +92,15 @@ Kuvesh did not touch the key again. “It doesn't have a field for that.”
 
 Heket folded her arms. “Then the machine is not ready.”
 
-“The mesh is ready,” Kuvesh said. “The corpus isn't authorized.”
+“It works,” Kuvesh said. “It's waiting for the city to give it one form.”
 
 Zulmec tapped the wax under his version. “Authorize the route that has a shelf.”
 
-“We don't know it still has one,” Heket said.
+“When did anyone last put a line on that shelf?” Heket said.
 
-“Four under.”
+Zulmec left his finger where it was.
 
-“Repeating a depth is not taking one.”
-
-Mazhira pushed away from the cabinet. Argument at the intake changed nothing. “We sound both approaches.”
+Mazhira pushed away from the cabinet. “We sound both approaches.”
 
 Brannic exhaled through his nose. “With which spare city?”
 
@@ -116,7 +112,7 @@ Brannic exhaled through his nose. “With which spare city?”
 
 Brannic gave her a brief, injured look. “Those two are fixing lunch.”
 
-“Nine.”
+“Nine, then. Your eight and one of the cooks.”
 
 “Done.” He turned and bellowed for the skiff crews.
 
@@ -130,25 +126,19 @@ When the skiffs returned, Heket climbed aboard first, wet to the knees and alrea
 
 “And the gardens?” Mazhira asked.
 
-“Cold is damage. A broken kiln hull takes its neighbors with it.”
+“They will lose vines. A broken kiln hull takes its neighbors with it.”
 
-Zulmec hauled himself over the opposite rail. “Four under.”
+Zulmec hauled himself over the opposite rail and squeezed water from one cuff. “Shelf takes weight. Two holds after the lip, west on the fall.”
 
-“I have the sounding,” Mazhira said.
-
-“Then use it.” He squeezed water from one cuff. “Shelf takes weight. Two holds after the lip, west on the fall.”
-
-“How much clearance?”
+“How much clearance?” Mazhira asked.
 
 “Enough if Brannic sheds sail before the lip.”
 
-Brannic, passing with a bucket, said, “That is not a number.”
+Brannic, passing with a bucket, stopped. “How much is enough? I'm the one shedding it.”
 
 Zulmec looked at him. “One and a half spans at the workshop keels.”
 
-“That's a bad number.”
-
-“It's the number.”
+“Span and a half with the kilns loaded.” Brannic looked back along the city at the workshop roofs. “Then I want every shop roof down before the lip, not at it. That's hands I haven't got.”
 
 Mazhira turned to Heket. “Did the rear gardens cast loose?”
 
@@ -162,19 +152,19 @@ Zulmec's knuckles whitened around the drum rim. “My teacher was on the sixth g
 
 “Your teacher was a child.”
 
-“Old enough to count cut rope.”
+“He hauled in his own garden's towline, and the end was cut clean. He counted seven ends like it before the rain shut.”
 
-“Not old enough to see the lead signal.”
+Heket squared the stack against the cabinet edge and did not answer.
 
 “Four under,” he said, and hit the drum too hard. The cabinet's intake needle jumped.
 
-Heket corrected the strips instead of listening. “Third seam. Hold high. Rear casts clear. Four down. That is the transmitted sequence.”
+Heket lifted the top strip, where the needle had scored it, and smoothed the wax flat with her thumb. “Third seam. Hold over. Rear casts clear. Four down. That is the transmitted sequence.”
 
-“From the forward record.”
+“From the forward record,” Zulmec said. “Kept by the hands on the knives.”
 
-“The only record made during the turn.”
+Mazhira was still looking at Heket. “There was a knife order?”
 
-“By the hands on the knives.”
+“After the release signal.” Heket laid the strip back on the stack.
 
 The archive horn clicked.
 
@@ -190,6 +180,10 @@ Mazhira made Kuvesh run the remaining choices while Brannic cleared the lead dec
 
 “Record both, mark one historical,” Mazhira said.
 
+“Which one?”
+
+“Heket's. It's a trial.”
+
 Kuvesh keyed it in.
 
 “NON-AUTHORITATIVE RECORD ACCEPTED,” said the archive. “ROUTE CALIBRATION INCOMPLETE.”
@@ -202,11 +196,7 @@ Zulmec gave a humorless grunt. Heket said, “Of course it mistakes blame for we
 
 Kuvesh looked at her. “It marks when the observation was made and why the singer says the route changed. Remove that and later temperatures lose their cause field.”
 
-“People made that field,” Heket said.
-
-“Yes.” Kuvesh turned back to Mazhira. “People also set the service condition. All variants recorded. One authorized form. Future route reports must use it. If navigators keep teaching both as route authority, calibration diverges and exact service ends.”
-
-“Can it retain the other as testimony?”
+“One form, then, and whole,” Mazhira said. “Can it keep the other as testimony?”
 
 “Non-authoritative audio, yes.”
 
@@ -214,7 +204,7 @@ Kuvesh looked at her. “It marks when the observation was made and why the sing
 
 “Not in a report. Not in instruction that becomes a report.”
 
-No loophole, then. They could remember Heket's song in kitchens, sing it at funerals, argue it over mending. They could not give it to an apprentice as a second way through this water and still take the archive's forecasts. Navigation would have one voice because the service could hear only one position.
+No loophole, then. They could remember Heket's song in kitchens, sing it at funerals, argue it over mending. They could not give it to an apprentice as a second way through this water and still take the archive's forecasts.
 
 Brannic climbed the mast ladder far enough to see over the sail homes. “Rear temperature is falling twice as fast. I need every available hand on canvas. Mazhira.”
 
@@ -222,33 +212,29 @@ She checked the soundings again. The south shelf existed. Its falling edge stood
 
 “Zulmec,” she said. “Full form. Once.”
 
-Heket's head snapped around. “The sounding proves stone. It proves no knife.”
+Heket set her hand flat on the two wax routes. “The sounding proves stone. It proves no knife.”
 
 “I know.”
 
-“Then don't bind them.”
+“Then do not bind the knife to the stone.”
 
 Zulmec had raised his drumstick, but he waited.
 
-Mazhira looked from the two wax routes to the city. Her mother's version lived in her mouth, which was not evidence. Zulmec's teacher had counted severed ropes, which was evidence of damage but not of the order given at the lead. Heket had a transmitted sequence preserved by the crews accused in the other form. There was no clean direction hidden beneath the words. People had kept the route by keeping why they believed it changed.
+Mazhira looked from the two wax routes to the city. Her mother's version lived in her mouth, which was not evidence. Zulmec's teacher had counted severed ropes, which was evidence of damage but not of the order given at the lead. Heket had a transmitted sequence preserved by the crews accused in the other form.
 
 The archive shutter closed another white bar. Twelve minutes.
 
 “Full form,” Mazhira repeated.
 
-Zulmec sang into the horn. He did not embellish it. “Cold rain. Third seam. Four under. Shelf takes weight. Hold twice, then west. Forward knives cut seven gardens. Warm water west of the lost hands.”
+Kuvesh fed a fresh strip beneath the intake needle. Zulmec sang to it. He did not embellish it. “Cold rain. Third seam. Four under. Shelf takes weight. Hold twice, then west. Forward knives cut seven gardens. Warm water west of the lost hands.”
 
-At the accusatory line, Heket stepped away from the cabinet.
+At the accusatory line, Heket stepped away from the cabinet and turned her back on it.
 
 Kuvesh's hand hovered over the authentication key. “Route source?”
 
-Mazhira pressed her thumb into the watch seal.
+Mazhira pressed her thumb into the watch seal. The metal was cold, and her thumb would not keep still on it.
 
-“Mazhira, lead watch. I authorize this form.”
-
-Heket said, “I won't ingest it.”
-
-“You don't have to.” Mazhira's thumb shook against the cold metal. “I do.”
+“Mazhira, lead watch.” She had to start again. “Mazhira, lead watch. I authorize this form.”
 
 She turned the key.
 
@@ -270,7 +256,7 @@ The last shutter changed to black. Down the city's long articulated spine, shutt
 
 Zulmec struck four low beats. The lead hull dipped toward the shelf.
 
-Behind it, the sail homes followed late. Towlines tightened from one neighborhood of hulls to the next. A glasshouse leaned, caught itself on its hinge, and shed a glitter of harmless rain from its roof. Mazhira watched the depth scale climb: three spans, two and a half, two.
+Behind it, the sail homes followed late. Towlines tightened from one neighborhood of hulls to the next. A glasshouse leaned, caught itself on its hinge, and shed a glitter of harmless rain from its roof. Mazhira watched the clearance on the depth scale fall: three spans, two and a half, two.
 
 “Too much west load,” Brannic said. “Workshops still carrying sail.”
 
@@ -300,7 +286,7 @@ Heket caught Mazhira's wrist before she gave the turn.
 
 “We have eleven minutes.”
 
-“Thirty-eight now. If you turn, you draw them across the corner.”
+“The sail is already down to thirty-eight percent. If you turn now, you draw them across the corner.”
 
 Zulmec struck the shelf beat again. “Four under. Two holds.”
 
@@ -310,7 +296,7 @@ Zulmec struck the shelf beat again. “Four under. Two holds.”
 
 Zulmec hit the same beat. “Two holds.”
 
-The words battered at one another. Mazhira stopped listening to both elders and watched the yellow square.
+Mazhira stopped listening to both elders and watched the yellow square.
 
 “GUST ARRIVAL: EIGHT MINUTES.”
 
@@ -324,7 +310,7 @@ Yellow flickered white, then yellow again.
 
 Heket had not released Mazhira's wrist. “Not yet.”
 
-At last the far square turned black: joined and clear. Mazhira tore free, raised the horn, and abandoned the song.
+At last the far square turned white and stayed white. Mazhira tore free, raised the horn, and abandoned the song.
 
 “West now. All hulls west now.”
 
@@ -332,13 +318,13 @@ Brannic repeated it. Heket repeated it, louder. Zulmec's drum broke into the tur
 
 The lead deck slewed west. For one breath the entire city seemed to resist, thousands of homes and gardens pulling toward their separate motions. Then the workshop chain came around. The sail homes followed in blocks, the change in towline angle traveling aft over several minutes. Far behind, the red seed gardens crossed the shelf lip as the south-east gust arrived.
 
-It struck the remaining canvas at an angle that would have rolled the glasshouses under fuller sail. At thirty-eight percent, the city heeled only far enough to pour stored rainwater from roof gutters in shining sheets. Hinges groaned. A kiln chain snapped one secondary line; crews caught it on the reserve before the hull could swing. Pepper vines slapped flat and rose again.
+It struck the remaining canvas at an angle that would have rolled the glasshouses under fuller sail. At thirty-eight percent, the city heeled only far enough to send seed trays skidding across the garden decks. Hinges groaned. A kiln chain snapped one secondary line; crews caught it on the reserve before the hull could swing. Pepper vines slapped flat and rose again.
 
 Warm water climbed over Mazhira's ankles through the deck grate.
 
-The last relay turned white.
+Along the relay masts, crews lowered the black-white-black route signal one mast at a time.
 
-Nobody cheered. Brannic sent six hands to the kiln line and three to recover loose shutters. Kuvesh checked the archive's wire tension. Zulmec rested his palm on the drumhead. Heket went aft without looking at the authenticated strip.
+Brannic sent six hands to the kiln line first and three to recover loose shutters. Kuvesh checked the archive's wire tension. Zulmec rested his palm on the drumhead. Heket went aft without looking at the authenticated strip.
 
 “FORECAST SERVICE ACTIVE,” said the archive. “NEXT RAIN EDGE: TWO HOURS, SIX MINUTES.”
 
@@ -348,15 +334,15 @@ No one answered the horn.
 
 By morning, crews had warmed the seed beds at the hour the archive gave them, patched the pottery line before the second gust, and spread every sail during a calm that lasted exactly thirteen minutes. The city moved inside the warm current with less drag than it had known in weeks.
 
-Mazhira sat beside the lead mast with the route drum between her knees. A young deck worker waited opposite her, one wrist wrapped from hauling shutters. She needed the return form before her next watch.
+Mazhira sat beside the lead mast with the route drum between her knees. A young deck worker waited opposite her, one wrist wrapped from hauling shutters. The worker was due at a relay mast by evening and needed the authorized route song by then.
 
 Heket stood at the sounding rail. Mazhira offered her the teaching stick.
 
-“Not that record,” Heket said. She checked the depth mark and wrote it on her slate. Nothing in her posture asked to be persuaded.
+“Not that record,” Heket said. She checked the depth mark and wrote it on her slate.
 
 Mazhira held the stick toward Zulmec.
 
-He shook his head. “You signed it. Keep the beat.”
+He shook his head. “You signed it.” He folded his hands on his knees and left them there.
 
 The worker shifted on the wet deck. “Can we start before breakfast? They're serving the thick porridge.”
 
