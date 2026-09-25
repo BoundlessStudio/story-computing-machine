@@ -122,9 +122,7 @@ The youths did not wait to be tended. Ceryth assigned two to each doorway and re
 
 "It is four days old," Alexstrasza said. "There's dried fish, if you'd rather have that, though I think the smallest ones will need it more than you do."
 
-Parrox looked from the little ones to the goat.
-
-Parrox ate. He also found three blocked vents before dawn.
+Parrox looked from the little ones to the goat, then ate the goat. He also found three blocked vents before dawn.
 
 They slept in brief, ugly drops. Anyone who heard five knocks woke every dragon still breathing in the chamber. The alarm passed from tail to floor to claw, five contacts steady enough to recognize and too short to hold a tone.
 
