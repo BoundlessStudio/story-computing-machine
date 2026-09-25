@@ -114,7 +114,7 @@ She looked once. "Stand it on end. Take the feet off."
 
 "Then leave it. Send everyone over the top and down the west stair."
 
-At the next corner a girl was dragging a chandler's handcart uphill, coils of thin rope heaped on the load.
+At the next corner a girl was dragging a chandler's handcart uphill, coils of thin rope heaped on the load. Whatever waited at the sluicehouse, Derva had left every length of her own line on her floor.
 
 "I need one of those," Derva said.
 
@@ -176,7 +176,7 @@ Her lifted heel hung above the stones. Breath stopped halfway into her lungs. Ar
 
 Derva fell when her body returned to her. The god caught her under the arms, but his grip faded as her eyes squeezed shut. She forced them open. His face resolved inches from hers, ceremony gone, fear plain.
 
-"It had not broken," he said. "I could not— There was nothing finished in it. Derva, I could not begin the break."
+"It had not broken," he said. "There was nothing finished in it. Derva, I could not begin the break."
 
 The lieutenant limped from behind the platform, one trouser leg torn. "Four minutes till it's at the gate again. Winch is gone. Ninety-one dwellings still standing."
 
