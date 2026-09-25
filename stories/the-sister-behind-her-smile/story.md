@@ -188,7 +188,7 @@ Felisane caught my sleeve. "Stop. Look at her jaw."
 
 Odrienne knocked twice on the dressing table, then once. Follow.
 
-She turned toward the couch. The reflected vines flashed a thin, hard blue toward the fallen gown; because of my questions, or because of Felisane's hand on me, or because the music had changed key, I could not know. The color showed that something pressed on her. It could not tell me what.
+She turned toward the couch. The reflected vines flashed a thin, hard blue toward the fallen gown. Whether that came from my questions, from Felisane's hand on me, or from the music changing key, I could not tell.
 
 But the rhythm was ours.
 
@@ -258,7 +258,7 @@ We followed.
 
 * * *
 
-Valsor Palace had been built by people who believed music improved when forced through stone. Copper throats in the walls carried the gallery's sound into the state rooms, the chapel, and the old mirror chamber at the eastern end. Odrienne had ordered the dawn courtesy played through all of them for a week. At the time, I thought she was punishing the musicians for laughing during rehearsal.
+Valsor Palace had been built by people who believed music improved when forced through stone. Copper throats in the walls carried the gallery's sound into the state rooms, the chapel, and the old mirror chamber at the eastern end. Odrienne had ordered the dawn courtesy played through all of them for a week. At the time, I thought she was punishing the musicians for laughing during rehearsal. Six of those dawns were behind us.
 
 Now the silver leaves on her cuffs leaned toward every grille we passed.
 
@@ -435,6 +435,8 @@ She offered Felisane a sapphire clasp as thanks. Felisane refused it.
 Odrienne winced. Not magically. She pushed the clasp back into its box.
 
 The plain cuff Felisane made for her had one loose red stitch of common cotton where the anchor had been. Odrienne could have thrown the dress away. She chose to wear the damaged sleeve to breakfast.
+
+Our aunt's trunks went down to her carriage without Mother's harp. On her way to the table, Odrienne stopped to check its lock herself.
 
 The servants brought pears, bread, and three kinds of preserve. Odrienne looked at each dish before speaking.
 
