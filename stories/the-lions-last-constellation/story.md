@@ -148,7 +148,7 @@ It stops downhill, squarely between you and Nemea. It has traded open ground for
 
 "We don't go inside," she says.
 
-The lion backs into the dark seam where the bluff meets the bank.
+The lion backs into a dark cleft in the bank and is gone.
 
 Pebbles rattle from the bank above.
 
@@ -220,7 +220,7 @@ Kletho turns too late. You pull the cord, and both of you flatten as the lion le
 
 You roll behind the pillar. A paw clips your shoulder guard. Cloth and light open together, and heat spills down your arm. Kletho scrambles up the rubble, out of immediate reach. The cord draws across the floor between you until it reaches its full length.
 
-The lion stands between you. One step from its forepaw will sever your last connection.
+The lion stands between you, astride the cord.
 
 You jerk the cord once. Kletho looks down. You point at her, then up at the gray wedge of moonlight. Out. She nods, but when she shifts toward it, the lion's eyes follow the sound of rubble beneath her heel. One claw lowers over the line between you instead of striking. If it pins the cord, it can reel her in.
 
@@ -348,7 +348,7 @@ Then she checks its nose and ribs with a shaking hand.
 
 "Dead," she says again.
 
-The account takes less time than binding your shoulder. Kletho finds a sliver of wax among the pieces caught in her belt and writes with her hairpin while you hold the bandage around her arm. There is room for three cramped lines. She writes the first and the last and leaves a gap between them.
+The account takes less time than the bandaging. Kletho finds a sliver of wax among the pieces caught in her belt and writes with her hairpin while you hold the bandage around her arm. There is room for three cramped lines. She writes the first and the last and leaves a gap between them.
 
 "Put the rock in," you say.
 
@@ -362,6 +362,6 @@ She bends over the wax again.
 
 You press your thumb into the wax beside hers.
 
-The lion's pelt bears no mark. Its claws lie quiet against the dust; its half-open jaws still frame the teeth that broke your armor. You leave all of it for daylight and people with stronger backs.
+You leave the lion, its pelt unmarked, for daylight and people with stronger backs.
 
 Kletho takes your unwounded side. You take hers. Together you limp through the upper mouth, down toward Nemea and its still-running water.
