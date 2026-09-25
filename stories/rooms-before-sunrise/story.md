@@ -208,7 +208,7 @@ The comb had no pulse of its own. It transmitted tug and chemistry. Nothing more
 
 He crouched beside the comb but did not touch it. “Full-floor molt. We decoupled. Temporary. We had repair slips.”
 
-Kevi called from the other chamber, “Iveta's got them.”
+Kevi called from the other chamber, “Show her.”
 
 The older woman pushed a waxed paper packet across the wet floor. Inside were five municipal repair slips, each stamped before the last floor molt. Their ink had feathered, but the detachment times remained legible. Lirenn held them beside the lease-scar register on her slate. Five withdrawals. No rejections. On the morning the buds should have been replanted, the census refresh had copied active bindings into its new table and archived everything unattached as duplicate residue.
 
@@ -324,7 +324,7 @@ Mular unwound the first root. His fingers, steady when tending flesh, fumbled ag
 
 He obeyed. The gray root came free with a suck of clear gel, and Lirenn dropped its clot into the first cup. She capped the shallow wound on the wick with mineral paste. Kevi called the basket distance in blunt half-measures. Eshun left the feed to pass the fevering man into the hood and waited until the medic's line had taken his weight.
 
-“Ondrey's out,” she said. “Feed's slipping.”
+“He's out,” she said. “Feed's slipping.”
 
 Then she was back on the tube, and Kevi went back to her gill.
 
@@ -350,9 +350,9 @@ Kevi jammed the ruined drying rack into the gill's folds. “Open.”
 
 “Load recovering,” Bordu said. “Continue if it holds above eighty percent.”
 
-Mular bent over the fifth root. Sweat ran from his nose onto the ceramic. “This is Iveta's. It's grown through two teeth. I can't—I need to break the comb.”
+Mular bent over the fifth root and glanced toward the exterior cut. Sweat ran from his nose onto the ceramic. “This is hers. It's grown through two teeth. I can't—I need to break the comb.”
 
-Iveta had crawled to the exterior cut. She did not offer advice. She braced her splinted knee and held the basket line.
+The older woman had crawled to the exterior cut. She did not offer advice. She braced her splinted knee and held the basket line.
 
 “Break it,” Lirenn said.
 
@@ -392,7 +392,7 @@ He did not answer at once. Above, more rooms began their dawn contractions, sque
 
 “Give me measures,” he said.
 
-Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelve-percent intake reduction. Bordu repeated each number to someone in the night office. No one congratulated her. The debridement crew became a fringe-pruning crew. Medical logged Ondrey to a ward bed with the seal field left blank. The census still held five archived rows. The lease table still saw empty tissue.
+Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelve-percent intake reduction. Bordu repeated each number to someone in the night office. No one congratulated her. The debridement crew became a fringe-pruning crew. Medical logged the fevering man to a ward bed with the seal field left blank. The census still held five archived rows. The lease table still saw empty tissue.
 
 Mular placed the broken comb in the quarantine jar. His fingers stayed on the lid after he had sealed it.
 
@@ -404,7 +404,7 @@ Mular placed the broken comb in the quarantine jar. His fingers stayed on the li
 
 He nodded once.
 
-Kevi widened the exterior cut by the width of two fingers, enough for Iveta's splinted knee. Eshun salvaged one unbroken jar from the brine, sniffed it, and poured it into the feed channel. She put the jar down.
+Kevi widened the exterior cut by the width of two fingers, enough for the older woman's splinted knee. Eshun salvaged one unbroken jar from the brine, sniffed it, and poured it into the feed channel. She put the jar down.
 
 “Salt broth,” she said when Lirenn looked at her. “Not precious.”
 
