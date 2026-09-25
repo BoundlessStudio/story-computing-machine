@@ -110,7 +110,7 @@ Over the next three months, ordinary things multiplied. Shirts that fit at break
 
 We still made jokes. We fought over music while folding laundry. She made me watch six episodes of a baking competition and then fell asleep before the final. I finished it and lied about who won. She knew before breakfast.
 
-But the old system of my day and your day had depended on choices ending when the day did. The green shirt came off. My stubble could be shaved. Our chest did not flatten overnight, and bleeding did not become hers because the calendar had her handwriting on it.
+But one choice each had only worked because a choice ended when the day did. The green shirt came off. My stubble could be shaved. Our chest did not flatten overnight, and bleeding did not become hers because the calendar had her handwriting on it.
 
 Our mother called a specialist after each of us asked her separately. She showed us the appointment time on her phone.
 
