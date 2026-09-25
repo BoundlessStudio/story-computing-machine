@@ -156,9 +156,9 @@ He gave her a look so openly disbelieving that she wanted to take the words back
 
 Dunley looked at Pirvek, who had begun checking the rope that held the craft to the dock. “Yes.”
 
-“Then why are you standing there waiting for me to say it's sensible?”
+“Then why are you still standing here?”
 
-“I'm waiting for you to decide if you want to come.”
+He glanced at the hatch and back at her. “Are you coming?”
 
 Pirvek might refuse a single passenger; she caught herself hoping he would.
 
