@@ -16,7 +16,7 @@ Jamar walked backward between the chair stacks, steering by confidence. Behind h
 
 "You said that about the last four women, and—"
 
-"Shut up! I wasn't wrong about the last four." Jamar planted both palms on the nearest stack as if addressing a jury. "They didn't leave because you misread some mysterious signal. They left because you waited six-plus months to open your mouth! Now ask Beatriz out before she gets tired of you!"
+"Shut up! I wasn't wrong about the last four." Jamar planted both palms on the nearest stack as if addressing a jury. "They didn't leave because you misread some mysterious signal. They left because you waited six-plus months to open your mouth. Now ask Beatriz out before she gets tired of you!"
 
 "Or she isn't waiting."
 
@@ -46,7 +46,7 @@ Jamar raised two fingers. "Exhibit two. You two kept talking about dinner, you k
 
 "That was four months. And she moved for a job."
 
-"Okay, fine, four! She still loaded a moving truck while you were comparing menus."
+"Okay, fine, four. She still loaded a moving truck while you were comparing menus."
 
 The third woman had answered his eventual question with friendship, plainly and without cruelty. They had suffered one awkward volunteer shift and then been fine. This fact ought to have encouraged him. Instead, Wesley's mind had filed the awkward shift under preventable hazards and misplaced the rest.
 
