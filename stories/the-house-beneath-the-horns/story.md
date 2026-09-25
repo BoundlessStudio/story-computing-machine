@@ -260,7 +260,7 @@ Above her, the gallery faced that open side. Its stair had fallen in a heap outs
 
 “No.”
 
-She pulled her pale hair free where it had caught under her black shoulder scales. There had to be somewhere. A man had lived here thirteen years, and Kostral had never found all his beds.
+She pulled her pale hair free where it had caught under her black shoulder scales. There had to be somewhere. A man had lived here thirteen years, and Kostral had never found all his hiding places.
 
 Osmund followed her gaze upwards. “You couldn't fit.”
 
