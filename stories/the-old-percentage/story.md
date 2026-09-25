@@ -118,7 +118,7 @@ Elspeth put down her fork. “What cast?”
 
 “And the group?”
 
-“Friends of his. He likes an audience when he does business.”
+“Friends of his,” Shona said. “He likes an audience when he does business.”
 
 Elspeth had eaten with men like that. They did their collecting at the table, in front of guests, so that everybody went home knowing who was owed.
 
