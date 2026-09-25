@@ -10,7 +10,7 @@ canon: false
 
 The dead world blinked at Sairu while she had both arms inside radiator bank seven.
 
-Her helmet display had painted a false hot seam along the bank's shielded edge, and she was halfway through proving it false when a second line appeared far below: green-white, straight for twenty kilometers, then broken into three blocks. Not lightning. Not a fire. The blocks held their proportions while the station rolled and the earth slid beneath her boots.
+Her helmet display had painted a false hot seam along the bank's shielded edge, and she was halfway through proving it false when a second line appeared far below: green-white, straight for twenty kilometers, then broken into three blocks. The blocks held their proportions while the station rolled and the earth slid beneath her boots.
 
 Sairu braced one knee against the service rail and magnified the radiator sight. The false seam vanished under proper focus. The ground lights did not.
 
@@ -36,9 +36,9 @@ The stars steadied. Below, the lights went out in strips from west to east. Dark
 
 ABOVE LIVING WORKER?
 
-Sairu stopped breathing.
+Sairu's free hand found the tether clip on the service rail and checked it, though it was already closed.
 
-At the southern edge of the terraces, several tiny heat traces moved between the bright strips. The sight could have manufactured one bad pixel, not warm bodies crossing separate rows. Magnification broke each bar into terraced reed beds, thousands of pale tips kindling like a field of stars only after a person reached them. Star-reeds, for lack of a name. The trace cooled; the reeds shone. A mechanism could store and shape living work, never begin it. One trace was smaller than the others and darted twice back to a patch that had failed to shine.
+At the southern edge of the terraces, several tiny heat traces moved between the bright strips. The sight could have manufactured one bad pixel, not warm bodies crossing separate rows. Magnification broke each bar into terraced reed beds, thousands of pale tips kindling like a field of stars only after a person reached them. Star-reeds, for lack of a name. A touch at the head of a row lit its whole length, and a second touch put it out, so a handful of people could write across kilometers. The trace cooled; the reeds shone. A mechanism could store and shape living work, never begin it. One trace was smaller than the others and darted twice back to a patch that had failed to shine.
 
 More glyphs opened around it, awkwardly spaced.
 
@@ -90,8 +90,6 @@ Sairu pointed. "You read it."
 
 Lassan looked at the moving heat traces. He rubbed one thumbnail over the edge of his desk. "No."
 
-That single word loosened something in Sairu's chest. She had expected argument and found herself angrier without it.
-
 "Then why are we talking about tool series?"
 
 "Because the frames can support living operators and an intended question. They do not support a surface census, a history, or the age of the smallest operator. Not yet."
@@ -100,11 +98,11 @@ He brought up a service label used on coolant junctions two decks below. Its let
 
 "They preserved it," Sairu said.
 
-"Or inherited something that shares its source. The oldest forms are closest. That's provenance, not an explanation."
+"Or inherited something that shares its source. The oldest forms are closest."
 
 "Eight centuries of empty-world instruction, and you want to correct my verb."
 
-"I want the first true record we make to remain true tomorrow."
+Lassan didn't look up. He tapped the founding-hull scan, then the ground frame beside it. "Look at the diagonal. That little hook on the end. Nobody up here has cut it that way since the founding hull. I've only ever seen it in rubbings." His finger stayed on the hook.
 
 The compartment door opened behind her.
 
@@ -114,7 +112,7 @@ Orvek did not ask why a radiator mechanic had put a private optical hold on grou
 
 "There was glare."
 
-"From twenty kilometers of orderly vegetation?"
+"On the night side. Looking down."
 
 Lassan quietly moved the berry bowl away from the edge of the desk.
 
@@ -130,9 +128,9 @@ Sairu showed Orvek the changing message. She watched the supervisor's eyes pause
 
 "That isn't a radiator function."
 
-"They used a maintenance channel."
+"It was written to a worker," Sairu said. "Bank seven is mine."
 
-"They used light. The similarity doesn't grant you a channel."
+"How?"
 
 Sairu heard herself speed up. "We can give them one packet. Shielded face for dark, emissive face for bright. Their pattern tracks the station. They must have a heat sight. Four vane groups are enough for low-resolution blocks. We confirm we're alive, confirm Piru was seen, ask for receipt."
 
@@ -146,23 +144,21 @@ Sairu heard herself speed up. "We can give them one packet. Shielded face for da
 
 Orvek turned to Lassan. "Do we know they'll read it?"
 
-"No. The old script gives us a defensible order for LIVING, ABOVE, RECEIVE. Their display suggests the same reading direction."
+"We can't. The old script gives us a defensible order: ABOVE, LIVING, RECEIVE. Their display suggests the same reading direction."
 
-"Do we know that word is Piru?"
+"Do we know Piru is a name?"
 
 "No," he said. "A name is the best fit."
 
-"Good. At least one of you still knows that word."
-
 Sairu pointed again at the small trace. "They asked whether a worker lives up here. We do."
 
-"And the standard contact tag centers every available ground optic on the source, writes coordinates into the survey ledger, and requests a communications assessment," Orvek said. "Did you apply it?"
+Orvek didn't look at the trace. "The contact tag. Did you apply it?"
 
 "No."
 
 "Did you nearly?"
 
-Sairu's silence answered.
+Sairu rubbed her thumb along the side of her finger and did not answer.
 
 Orvek pulled the thermal record from bank seven. "One packet. No contact tag, no locator request, no networked optics. Local heat-eye only. Thirty-five seconds, because your hinge twelve is already late. If spine temperature crosses yellow, all groups open."
 
@@ -172,13 +168,15 @@ Orvek pulled the thermal record from bank seven. "One packet. No contact tag, no
 
 "Which three?"
 
-"Mechanic's choice. Supervisor's limit. Put the optical excursion in the maintenance log."
+"You pick them. Put the optical excursion in the maintenance log."
 
 "That will expose it."
 
-"It will expose me. I'm authorizing the excursion."
+"I know." Orvek signed with one thumb. "It goes under my authorization."
 
-Orvek signed with one thumb and handed the slate to Sairu. "Repair the hinge before you use it to talk to a planet."
+Sairu took the slate. On a hinge report the authority field stayed blank; now Orvek's print sat in it, above the thirty-five seconds and the yellow abort. Sairu had been ready to argue for the other three seconds. She let them go.
+
+"Fix twelve first," Orvek said.
 
 * * *
 
@@ -186,31 +184,25 @@ Fourteen hours later, hinge twelve still lagged.
 
 Sairu had replaced its drive braid, cleaned the bearing track, and run it through a hundred turns. Unloaded, it matched the rest. Under radiator heat, it came late by two-tenths of a second—better, not good.
 
-"Nine minutes to surface angle," Orvek said over the service channel. "Bank spine at sixty-one."
+"Nine minutes to surface angle," Orvek said from the supervisor's board across the radiator hub. "Bank spine at sixty-one."
 
-Sairu floated beside the manual console in the radiator hub. Lassan had strapped himself at the script display behind her, a paper copy of the packet tucked beneath one hand as though electrons might become careless.
+Sairu floated beside the manual console. Lassan had strapped himself at the script display behind her, a paper copy of the packet tucked beneath one hand as though electrons might become careless.
 
-"Sixty-one is cold," Sairu said.
+"Sixty-one is cold," Sairu said. She ran twelve through one more unloaded turn. It landed with the others. It always did unloaded.
 
-"It is the starting number."
+Orvek said nothing for a minute, then read the number out again. "Sixty-one."
 
-"I know what it is."
-
-"Then we have achieved ordinary conversation."
-
-Lassan glanced between them. "The second block should remain RECEIVE, not SEE."
+Lassan pressed the paper copy flatter against the display frame. "The RECEIVE block stays RECEIVE. Not SEE."
 
 "You changed that twice," Sairu said.
 
-"Because SEE implies an eye. RECEIVE allows a sensor, a reader, or a witness."
+"Because SEE implies an eye. RECEIVE allows a sensor, a reader, or a—"
 
-"We have ninety-four seconds and four blocks."
-
-"Language remains language at speed."
+"We have thirty-five seconds."
 
 "Surface angle," Orvek said. "Talk later."
 
-The world's night opened on the hub display. The terraces were dark, a faint ribbed geometry in infrared. Sairu selected four vane groups. Their emissive faces glowed on the station's outer cameras; their shielded backs disappeared against space. From below, through a powerful enough heat-eye, the whole radiator would become a label board crossing the stars.
+The world's night opened on the hub display. The terraces were dark, a faint ribbed geometry in infrared. The heat-eye's reticle jumped onto the grid without her touching it and locked there, and a coordinate line blinked into temporary memory at the corner of the display. Sairu had no hand free to clear it. She selected four vane groups. Their emissive faces glowed on the station's outer cameras; their shielded backs disappeared against space. From below, through a powerful enough heat-eye, the whole radiator would become a label board crossing the stars.
 
 "Packet one," she said. "Mark."
 
@@ -260,7 +252,7 @@ Lassan scrubbed through the ground frames. "No display visible."
 
 "That isn't what I asked."
 
-"It is what the evidence can answer."
+Lassan ran the same forty seconds of cloud back again. "I don't know."
 
 "Bank spine declining," Orvek said. "Hold full emission. Sairu, hinge twelve is now point six late."
 
@@ -280,9 +272,7 @@ She found Orvek in the small galley beside radiator control, eating lentils from
 
 "Twelve is clean to point zero four."
 
-"Good."
-
-"On the ground."
+"Good," Orvek said. "On the ground."
 
 "Cloud."
 
@@ -292,11 +282,11 @@ Sairu hooked a foot under the opposite restraint. "They repeated before. If they
 
 "They will."
 
-Orvek squeezed the pouch flat from the bottom. "You don't improve probability by saying it harder."
+Orvek squeezed the pouch flat from the bottom and didn't argue.
 
-"And you don't make this smaller by putting it under radiator maintenance."
+"You filed it under radiator maintenance," Sairu said. "Like it's a sticky hinge."
 
-"I put an unplanned thermal excursion under radiator maintenance because it was one. I put the unexplained optical pattern under a safety hold because that keeps the raw frames local until review. Both entries name me."
+"I put an unplanned thermal excursion under radiator maintenance because it was one. I put the unexplained optical pattern under a safety hold because that keeps the raw frames local until review."
 
 "Review by whom?"
 
@@ -310,7 +300,7 @@ Orvek waited.
 
 "Get another."
 
-She caught Lassan outside the archive. He carried two label rubbings and had purple berry juice on one cuff.
+She caught Lassan outside the archive. He carried two label rubbings and had yellow berry juice drying on one cuff.
 
 "The packet was readable," she told him.
 
@@ -322,25 +312,15 @@ She caught Lassan outside the archive. He carried two label rubbings and had pur
 
 "Do you practice making everything sound dead?"
 
-He stopped. "No. I'm trying not to finish their meaning for them."
+He didn't answer. He pinned the rubbings against his chest and held out his slate. The standard contact form showed the terrace grid centered in a red square. Eight observing systems were listed beneath it, ready to acquire the same coordinates on approval.
 
-Sairu had no quick reply to that, which annoyed her more than the sentence deserved.
-
-Lassan held out his slate. The standard contact form showed the terrace grid centered in a red square. Eight observing systems were listed beneath it, ready to acquire the same coordinates on approval.
-
-"The form doesn't merely record our observation," he said. "It begins a search. Surface motion, heat sources, routes in and out. Whatever those lights are, the people operating them did not ask for that."
+"Approval starts the search," he said. "Whoever works those rows never asked to be looked for."
 
 "They made a question twenty kilometers wide."
 
-"For something crossing above them."
-
-"That's us."
-
-"Yes. Not necessarily every eye we own."
+He left the slate in her hand.
 
 Sairu enlarged the image. Even after the cloud, faint cooling scars marked the rows used twice. The living-hand diagonal was paler than the terraces around it. At several points, the infrared record showed sudden drops where bodies had knelt to the reeds. The lights had not come free. Whoever tended those rows had spent stored sun from the plants and warmth from their own skin.
-
-She had nearly answered a question by handing its origin to the station.
 
 "I didn't apply the tag," she said.
 
@@ -356,11 +336,11 @@ She pushed away from the wall too hard and had to catch the next rail.
 
 On the third pass, the cloud broke into long gray islands. Between them, the terraces shone.
 
-Not the question this time. Four tight blocks rose in sequence at the grid's northern edge.
+This time the blocks came tight and quick, one after another at the grid's northern edge.
 
 ABOVE. LIVING. RECEIVE.
 
-Then Piru's name, with the sound signs in the order Sairu and Lassan had argued over. The child had received enough of their damaged packet to identify its intended recipient and correct their spelling.
+Then Piru's name, its lower pair of sound signs in the order Lassan had drafted, not the one hinge twelve had sent. The child had received enough of their damaged packet to identify its intended recipient and correct their spelling.
 
 "Receipt confirmed," Sairu said.
 
@@ -372,7 +352,7 @@ The grid changed. One small mark brightened beside Piru's name. Six marks opened
 
 "Seven operators," Sairu said.
 
-"Seven markers," Lassan corrected. "Several operators visible."
+"Seven markers," Lassan said. "Several operators visible."
 
 The marks faded. A new sequence began, using warning terms Sairu had seen on survey mounts.
 
@@ -404,7 +384,7 @@ The last terms were not elegant. CALL was the old label beside a manual service 
 
 Sairu took her hand off the reply controls and read the sequence again.
 
-"They saw the auto-center," she said.
+"The heat-eye jumped onto them by itself last pass," she said. "If they had anything looking back, maybe they saw it swing."
 
 "Or they know what centered observation means," Lassan replied. "No coordinate record. No search unless they summon it. That reading fits all three revisions."
 
@@ -422,7 +402,7 @@ Lassan scanned the blocks. "Use READY, not WAITS. We don't know whether their gr
 
 "Fine. Orvek?"
 
-The supervisor studied the thermal forecast. "Twenty-nine seconds. Their last signal cost them. Ours can be shorter."
+The supervisor studied the thermal forecast. "Twenty-nine seconds. We come out of shadow earlier this pass."
 
 Sairu loaded the packet.
 
@@ -448,7 +428,7 @@ BELOW CALL FIRST.
 
 Lassan leaned toward the display. "Third block—"
 
-"I see it." Sairu corrected the inverted pair without resetting the message. "Mark."
+"I see it." She had thrown the lower pair a beat early. She reversed it without resetting the message. "Mark."
 
 "Seventy-eight," Orvek said. "Open."
 
@@ -456,19 +436,15 @@ This time Sairu opened every group on the word. The radiator brightened into its
 
 For four seconds, Sairu thought that was the answer.
 
-Then a single receipt mark appeared at the northern edge. It shone green-white, dwindled to infrared, and went out. The moving traces withdrew between the rows. No grander display followed. The reeds had already given enough.
+Then a single receipt mark appeared at the northern edge. It shone green-white, dwindled to infrared, and went out. The moving traces withdrew between the rows.
 
-Orvek released her restraint. "I'm extending the safety hold. I'll take the audit when the deferred contact record surfaces."
-
-"It will surface," Lassan said.
-
-"It has my name on it." She looked at Sairu. "Disable automatic centering on this optical set. Local manual acquisition only. Put the change in my maintenance entry."
+Orvek released her restraint. "I'm extending the safety hold. I'll take the audit when the deferred contact record surfaces." She looked at Sairu. "Disable automatic centering on this optical set. Local manual acquisition only. Put the change in my maintenance entry."
 
 Sairu opened the configuration. The grid's coordinates waited in temporary memory, not yet written to the survey ledger. She cleared them, then removed the acquisition set from automatic ground search. A warning asked whether she meant to reduce observational coverage.
 
 She confirmed.
 
-Lassan began his record beside her. He entered the attested glyphs, the moving heat sources, the number of visible tenders as a range, and the restriction in its three corrected forms. He did not write child after Piru without marking the translation uncertain. He did not write civilization. He did not write alone.
+Lassan began his record beside her. He entered the attested glyphs, the moving heat sources, the number of visible tenders as a range, and the restriction in its three corrected forms. He did not write child after Piru without marking the translation uncertain.
 
 Outside, hinge twelve and all its neighbors turned emissive faces toward the black. Sairu watched their temperatures fall into alignment, one clean gradient across the bank.
 
