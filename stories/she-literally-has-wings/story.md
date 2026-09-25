@@ -16,7 +16,7 @@ The chair skidded half a handspan. Its occupant, a woman fastening a green coat,
 
 “That chair has been trying to kill me all evening.” The woman rose and leaned close. “Did you save me any of the lentils?”
 
-“No cream, extra lemon.” Coralie lifted a paper carton from beneath the counter. She had written a small green leaf on its lid so nobody would give it to the wrong person. “I hid them from Julian.”
+“No cream, extra lemon.” Coralie lifted a paper carton from beneath the counter. She had drawn a small green leaf on its lid so nobody would give it to the wrong person. “I hid them from Julian.”
 
 The woman’s tired face opened into a grin. “You are an angel.”
 
@@ -128,7 +128,7 @@ In the kitchen, Julian was kneeling beside the laundry basket. “How long has h
 
 Coralie set the pans beside the sink. “I knew he didn’t use the word.”
 
-“That’s not the same thing and you know it.”
+“That’s not the same thing.”
 
 “No.”
 
