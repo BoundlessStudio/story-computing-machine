@@ -258,7 +258,7 @@ They reached the Wall on the fifth morning. In the barracks, before either had w
 
 “I'm keeping mine here for now,” he said.
 
-She set his bag back inside, then worked the second key off the cord around her neck and put it in his hand. “Then you hold that one.”
+She set his bag back inside, then worked the strongbox key off the cord around her neck and put it in his hand. “Then you hold it.”
 
 The captain sent for them while she was still undoing the twine around her boot. He had unrolled a fresh map across his table and left a large blank space above the Wall.
 
