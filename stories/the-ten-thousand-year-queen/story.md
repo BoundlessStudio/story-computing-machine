@@ -182,7 +182,7 @@ Hatshepsut tilted her head and studied Merneith the way she studied a weld someo
 
 The compact passed. Then three more did. Ramesses took command of the shield fleet after making Merneith repeat before the court that he served as a king in alliance, not as a general in obedience. She repeated it. He heard what he needed and became magnificent in battle.
 
-There were battles. The old states did not vanish because Egypt kept its lights on. One bomb opened the western spine and left eight million people counting the hours left in their batteries. Ramesses broke the blockade without burning the cities behind it, though he complained that restraint made poor relief sculpture. Merneith used the victory to bind eleven governments into a shield league. Hatshepsut used it to force a second conductor into every later design.
+There were battles. The old states did not vanish because Egypt kept its lights on. One bomb opened the western spine and left eight million people counting the hours in their batteries. Ramesses broke the blockade without burning the cities behind it, though he complained that restraint made poor relief sculpture. Merneith used the victory to bind eleven governments into a shield league. Hatshepsut used it to force a second conductor into every later design.
 
 At the compact's twelfth year, twenty-four years after the Vault, the coast voted to leave.
 
