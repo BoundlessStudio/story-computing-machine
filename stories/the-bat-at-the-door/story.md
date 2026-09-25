@@ -28,7 +28,7 @@ I examined the wing, then backed away. He climbed to the perch and shook himself
 
 “Three full circuits tonight,” Pippa said. “Maybe four.”
 
-“If he wants them.” The window rattled in its frame. “And nothing outdoors while that storm sits over us.”
+“If he wants them.” The window rattled in its frame. “And no release while that storm sits over us.”
 
 “I know. Controlled test.” She drew a box for the result. Beside it she had already written *door shut, fan off, water left* in her cramped capitals.
 
