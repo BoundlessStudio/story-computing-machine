@@ -44,7 +44,7 @@ Her fingers trembled faintly against his.
 
 “Hungry.” Luz withdrew her hand and reached for toast. “Which is your fault. You turned breakfast into a safety audit.”
 
-They logged it together, eight minutes, slight tremor, hungry, then added toast, water, and a warm mug. The log was meant to be something they both read. Miles reminded himself of that whenever he was the one holding the pen. There would be no second cycle for six hours; trying one sooner could throw her back to full size without warning and leave her wiped out far longer.
+They logged it together, eight minutes, slight tremor, hungry, then added toast, water, and a warm mug, because cold or an empty stomach could stall her next chosen return by as much as twenty seconds. The log was meant to be something they both read. Miles reminded himself of that whenever he was the one holding the pen. There would be no second cycle for six hours; trying one sooner could throw her back to full size without warning and leave her wiped out far longer.
 
 Miles looked at the untouched glucose gel, then at the protocol sheet. Checking its boxes was easier than asking why he had seen that tremor before.
 
@@ -94,7 +94,7 @@ He noticed the motion. “Has the shaking happened again?”
 
 The drip struck the basin between them.
 
-In the end, they agreed to stop using the sink, leave the basin under the line, and wait for Monday. Neither of them said anything more about shrinking. The repair and the argument could both sit until then.
+In the end, they agreed to stop using the sink, leave the basin under the line, and wait for Monday. Neither of them mentioned the line on the sheet again. The repair and the argument could both sit until then.
 
 * * *
 
@@ -204,13 +204,13 @@ One tug: stop.
 
 He closed his eyes for half a second. He could make the opening larger. He could also bring wet wood down across her route and split the line further.
 
-“Luz,” he said toward the gap. “Luz. That was twenty. That was the twenty. The way out’s clear, it’s still clear, and I can—” He did not know how that sentence ended.
+“Luz,” he said toward the gap. “That was the twenty-minute alarm. The way out’s still clear, and I can—” He did not know how that sentence ended.
 
 She came to the edge of the beam, close enough that her own voice could reach him between surges, one hand braced against the pipe.
 
 “Colder,” she said. “Than I said.” A surge took the next words. “—three cycles.” She breathed. “Coming back might be slow.”
 
-Miles’s hands closed on the cord. Cold, or low blood sugar, could hold off a chosen return by as much as twenty seconds of breathing with nothing happening. Nothing moved the twenty-four-minute limit. If her body started coming back while she was still in there, the space would close around her before she was halfway up.
+Miles’s hands closed on the cord. Slow could mean twenty seconds of breathing with nothing happening, and nothing moved the twenty-four-minute limit. If her body started coming back while she was still in there, the space would close around her before she was halfway up.
 
 “Coming out is safest.” He made himself stop there. “What are you choosing?”
 
@@ -256,7 +256,7 @@ The jet died.
 
 Water pattered from the underside of the counter. In the sudden quiet, the twenty-three-minute alarm began to chime.
 
-Miles released the cord. He wanted to reach into the dark so badly his hands hurt. Instead he swept the shallow dam into dry towels, spread a clean cloth from the shelf out through the toe-kick gap to the mat, and fixed the flashlight on the gap.
+Miles released the cord. He wanted to reach into the dark so badly his hands hurt. Instead he dragged the sodden dam aside, spread a clean cloth from the toe-kick gap toward the mat, and fixed the flashlight on the gap.
 
 “Exit is lit,” he said. “Ramp is dry.”
 
