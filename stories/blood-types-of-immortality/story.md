@@ -118,7 +118,7 @@ She set a fourth onion in the bowl, then a fifth, and said nothing.
 
 A cup struck a table behind me, hard enough to spill.
 
-The man from the mill had been sitting near the stove with both boots wrapped in blankets. I had not seen him since the earlier charm. He was thinner. The gray under his eyes made me think of insufficient recovery, an error I nearly offered aloud.
+The resident from the mill had been sitting near the stove with both boots wrapped in blankets. I had not seen him since the earlier charm. He was thinner. The gray under his eyes made me think of insufficient recovery, an error I nearly offered aloud.
 
 “Don’t call it that,” he said.
 
@@ -174,7 +174,7 @@ He left with the cheese in his pocket. The healer watched until the outer door s
 
 There was no pleasure in her answer. That made it harder to fight. Before I went up, she wrote two marks on a scrap of paper: his, and the other sample promised back before the pass closed.
 
-I ate the soup cold that night. Before removing the miller’s vessel from the frame, I copied only the comparisons already permitted and performed. Then I wrapped both vessels, sealed my copy of his withdrawal beside his, and sent them down unopened on the mule.
+I ate the soup cold that night. Before removing the resident’s vessel from the frame, I copied only the comparisons already permitted and performed. Then I wrapped both vessels, sealed my copy of his withdrawal beside his, and sent them down unopened on the mule.
 
 The fourth blood appeared two days later.
 
@@ -262,7 +262,7 @@ I looked at the two sealed vessels and thought of the heading I had written back
 
 The word hurt more than the failed loop.
 
-In the morning, when the miller came up to help clear the lower path, I gave him an account at the table by my stove. I began with the pattern because beginnings were where I hid.
+In the morning, when the resident came up to help clear the lower path, I gave him an account at the table by my stove. I began with the pattern because beginnings were where I hid.
 
 He listened until I said *interference*.
 
