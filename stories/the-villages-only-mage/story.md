@@ -64,7 +64,7 @@ The broadest stranger stopped beside the water trough, stared at the vanes, then
 
 “Where is the one with the absurdly massive amount of magical energy?”
 
-The cooper pointed at you. Beskaret, coming up from the mill, pointed too. After a moment, so did the child’s aunt.
+The cistern cooper pointed at you. Beskaret, coming up from the mill, pointed too. After a moment, so did the child’s aunt.
 
 You looked behind yourself.
 
@@ -86,7 +86,7 @@ The tall woman beside him put down a narrow red case where she could see your ha
 
 The third traveler had already crouched to watch the copper vanes. Their sleeves were patched at both elbows, and their case was soft-sided and crowded with spools. “Does the pull change when Aumiri moves? Could you walk a little—”
 
-“Nimoret, I’ll do the walking.” Torrigan walked six paces sideways. The needles barely stirred.
+“Nimoret, I’ll do the walking. You’re the fieldwright; stay with the vanes.” Torrigan walked six paces sideways. The needles barely stirred.
 
 “It’s all around us,” he said.
 
