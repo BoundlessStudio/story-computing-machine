@@ -14,7 +14,7 @@ Lady Odrienne Auvray had many smiles. One meant she had forgiven you and would c
 
 This smile was warm. That was new enough to be alarming.
 
-Felisane stood at Odrienne's shoulder with the sauceboat. She had been on her feet since before sunrise, and the skin beneath her left eye jumped each time the musicians in the western gallery reached the same four-note courtesy phrase.
+Odrienne's maid, Felisane, stood at her shoulder with the sauceboat. She had been on her feet since before sunrise, and the skin beneath her left eye jumped each time the musicians in the western gallery reached the same four-note courtesy phrase.
 
 "My lady," she said, "the laundress has taken sick. May I leave after the second setting? They need another pair of hands downstairs."
 
