@@ -18,7 +18,7 @@ The ring beneath the drone changed from white to blue.
 
 Across the street, Kero was leaning against a shutter as if the rain had put him there. He glanced at the awning above the queue, then at Raska. Too obvious, his face said.
 
-He had started looking at her like that since she got stunned: first at the danger, then at her, as though estimating which would arrive fastest.
+He had started looking at her like that since she got stunned: first at the danger, then at her, as though working out which of them would reach the other first.
 
 Raska stepped out of line.
 
@@ -36,15 +36,11 @@ The queue vanished. People grabbed bread or children or nothing and left the old
 
 Kero arrived without hurrying. “That was an awning drop.”
 
-“There wasn’t an awning.”
+“I never touched the awning. That was loose canvas.”
 
-“Canvas at height.”
+“Looked like an awning from over there.”
 
-“That is not the rule.”
-
-“It is exactly the rule.”
-
-Sevi unfolded from behind a dead information box, where they had witnessed the whole thing. At fourteen they were small enough to disappear behind city furniture and old enough to make that insulting on purpose. Chalk dust made pale moons around their fingernails.
+Sevi unfolded from behind a dead information box, where they had witnessed the whole thing. At fourteen they were small enough to disappear behind city furniture and old enough to hate being mistaken for it. Chalk dust made pale moons around their fingernails.
 
 “Half,” they said.
 
@@ -78,9 +74,9 @@ Sevi added a short horizontal stroke to Raska’s column.
 
 “You were one and a half behind,” Kero said.
 
-“I should get style.”
+Raska turned to Sevi. “I should get style.”
 
-“You don’t get style as a number.”
+“You don’t get style as a number,” Sevi said.
 
 “Then why do we have you?”
 
@@ -102,7 +98,7 @@ Sevi shoved their hands into their pockets. “My hair is not conductive.”
 
 “All hair is conductive if the city wants it to be,” Kero said.
 
-He meant it as a joke. Raska heard the warning underneath and hated him for putting it there.
+Raska didn’t laugh.
 
 Three weeks ago, a drone had told her to uncover her face. She had laughed, because it was summer and because Kero was watching. Then the blue ring, the three notes, pavement against her cheek. She remembered the beginning and the end. The middle remained a white room in her head, furnished only with the smell of scorched dust.
 
@@ -111,10 +107,6 @@ Since then Kero had questioned good routes, rejected clean chances, and stood to
 She tapped the half mark Sevi had just made. “Active blue ring next. Clean ground. Full point.”
 
 Kero’s smile went away. “No.”
-
-“You don’t set challenges.”
-
-“You just did.”
 
 “I set mine.”
 
@@ -134,7 +126,7 @@ Sevi pointed at Raska, pointed at Kero, then put both fists together: competing 
 
 Raska moved first.
 
-The bicycle boy fled. The drone turned after him, then caught Raska stepping into the service lane.
+The bicycle boy fled. The drone turned after him, then caught Raska stepping out of the service lane.
 
 “Pedestrian, stop.”
 
@@ -182,8 +174,6 @@ Sevi’s grin had disappeared. They looked from one to the other. “The gate wa
 
 Kero wiped rain off his mouth. “Yes.”
 
-It was the truth, and the bluntness of it hurt worse than pity.
-
 At the board Sevi wrote the point in Kero’s column. Kero did not watch. Raska did, making herself stay until the chalk stopped moving.
 
 After that, she changed routes whenever she saw either of them.
@@ -200,7 +190,7 @@ When Raska asked, Sevi said, “They like the sauce.”
 
 Then they asked if Kero had spoken to her, too quickly and with their mouth full.
 
-On the tenth evening, a new mark appeared on the hidden board: a crude triangle intersected by a hook, followed by ACTIVE and three chalk slashes. Raska recognized Kero’s old challenge sign, though he had drawn the hook badly. Beneath it: SOUTH RAIL. LAST LIGHT.
+On the tenth evening, a new mark appeared on the hidden board: a crude triangle intersected by a hook, followed by ACTIVE and three chalk slashes. Raska recognized the challenge sign she and Kero had always used, though the hook was drawn badly, the way Kero drew it. Beneath it: SOUTH RAIL. LAST LIGHT.
 
 His score had not changed. Neither had hers.
 
@@ -216,7 +206,7 @@ She arrived at the shuttered south market ready to take back the point she had h
 
 Something hammered metal behind the shutter stalls. Both of them stopped.
 
-The incapacitation unit hung knee-high in the crossing, fighting a web of parcel straps. One strap had wound around its shell; another disappeared into the mouth of an automatic delivery rack that kept trying to retract, shivering the drone sideways. Its rotors chewed sparks from a steel stall front. It was not down. It was furious.
+The incapacitation unit hung knee-high in the crossing, fighting a web of parcel straps. One strap had wound around its shell; another disappeared into the mouth of an automatic delivery rack that kept trying to retract, shivering the drone sideways. Its rotors chewed sparks from a steel stall front. It was still in the air and furious about it.
 
 Sevi stood on top of the rack with a hand locked around a red service handle. Their other hand held the chalk.
 
@@ -227,10 +217,6 @@ The drone’s ring flashed blue.
 “Let go and get off,” Kero said.
 
 “If I let go, it rises.”
-
-“Then get off and let go.”
-
-“You always make things sound like one action when they are two.”
 
 Raska saw what Sevi had built, if built was the word for upsetting half a block until the parts objected to one another. The parcel straps pulled east. The rack wanted them west. A shop shutter bowed over the drone like a dented ceiling. It might hold. It might spring loose and turn the crossing into a box full of cutting metal.
 
@@ -272,7 +258,7 @@ Kero dropped every trace of humor. “Sevi. Off. Now.”
 
 Second note.
 
-Raska grabbed a loose parcel bin and rammed it under the rack. Sevi jumped. The bin rolled on impact; they landed on one knee, swore, and crawled behind a shutter post as the third note sounded. A charge tore across the rack, bright enough to print every strap inside Raska’s eyes.
+Raska grabbed a loose parcel bin and rammed it against the rack for a step. Sevi jumped. The bin rolled on impact; they landed on one knee, swore, and crawled behind a shutter post as the third note sounded. A charge tore across the rack, bright enough to print every strap inside Raska’s eyes.
 
 The drone faced the post where Sevi hid.
 
@@ -288,21 +274,17 @@ The drone faced the post where Sevi hid.
 
 “Sevi.”
 
-"I thought if I got one, you'd stop treating me like the furniture."
+“I thought if I got one, you’d stop treating me like the furniture.”
 
 Kero made a sound too sharp to be a laugh. “So you found an active unit alone.”
 
 “You both said no.”
 
-Raska opened her mouth to say because you are fourteen. The words reached her teeth and stopped. Kero was looking at Sevi the way he had looked at her for three weeks: danger, then person, the calculation already made on their behalf.
+Raska opened her mouth to say because you are fourteen. The words reached her teeth and stopped. Kero was looking at Sevi the way he had looked at her since the stun: danger, then person, the calculation already made on their behalf.
 
 The drone rotated. Parcel straps screamed against its casing.
 
-“Later,” Raska said.
-
-“There is no later if that strap goes,” Kero said.
-
-“I mean argue later.” She pointed to the bowed shutter, then to the old rail trolley above them. “It will climb left when it gets free.”
+“Later,” Raska said. She pointed to the bowed shutter, then to the old rail trolley above them. The trolley hung from a rusted rail that crossed the market overhead, parked against an iron support on the far side, where a release lever had rusted into its bracket. “It’ll climb left once it’s free.”
 
 “It climbed right before,” Sevi said.
 
@@ -310,17 +292,17 @@ Raska looked at them.
 
 “Twice,” they added. “Mostly right.”
 
-“That would have been useful.”
+“That would’ve been useful.”
 
 “You were busy asking what I did.”
 
-Kero was already hauling at the shutter’s bottom edge. “Right means my mesh can turn it.”
+Kero had been hauling at the shutter’s bottom edge. He let go, looked up along the rail, and swept one flat hand through the air the way the trolley would run, then hooked it right toward the bowed metal. He pointed at the trolley. “Then it comes up under that.”
 
-“Your mesh missed a stationary wall.”
+“When my hand drops,” Raska said, “Sevi pulls the handle and you hit the release. Everything lets go at once. Not before. Not because it looks good from where you’re standing.”
 
-“The wall moved.”
+Kero looked at her hands. “You’ve got nine signals and they all look like go.”
 
-“Walls love you.”
+“Don’t drop anything on me this time.”
 
 The drone’s camera found Raska. Its display boxed her face. Association 12 became 13.
 
@@ -328,29 +310,21 @@ She moved into the crossing.
 
 Kero saw the decision arrive. “No.”
 
-“It needs a nearer subject.”
+“It needs a nearer subject. Under the trolley.”
 
-“We have one.” He jerked his chin toward Sevi.
+“It’s got one. Sevi’s behind the post, it can’t—” He jerked his chin toward Sevi and stopped.
 
 “Not anymore.”
 
-The drone pulled hard against the straps, angling toward Raska. She raised both hands and backed beneath the rail trolley. Its shadow cut across her shoulders.
+The drone pulled hard against the straps, angling toward Raska. She raised both hands and backed beneath the rail trolley until her hip bumped the parcel bin Sevi had knocked into the crossing. The trolley’s shadow cut across her shoulders.
 
 **PEDESTRIAN, KNEEL.**
 
-Kero caught her sleeve.
+Kero caught her sleeve. For one hot second she wanted him to pull. He didn’t. He let the cloth slide through his fingers and went back to the shutter.
 
-For one hot second she wanted him to pull. Then she wanted to hit him for knowing that.
+Raska lowered her left hand and showed him two fingers low by her hip: on the second note. Two was as far as her count went. Behind the post, one arm stretched up the side of the rack to the red handle, Sevi nodded and raised two fingers back. Kero must have taken it for the two-sides sign. He crossed early, going for the support while the drone still strained toward her.
 
-He did neither. He let the cloth slide through his fingers and moved to the shutter.
-
-Raska showed him two fingers low by her hip: wait.
-
-Behind the post, Sevi nodded and raised two fingers back.
-
-Kero read it as two sides. He crossed early.
-
-The drone snapped right, exactly as Sevi had warned, and Kero’s shoulder struck the rail support instead of the release. The trolley groaned but stayed overhead.
+The drone snapped right, exactly as Sevi had warned. Its straps swept the crossing at waist height, Kero twisted under them, and his shoulder struck the rail support instead of the release. The trolley groaned but stayed overhead.
 
 “Brilliant,” Raska said.
 
@@ -364,27 +338,19 @@ Two.
 
 Raska had a count for every kind of fall except her own. Her tongue would not move.
 
-Kero did not come for her. Fear stripped his face bare, but he stayed at the rail support, waiting for the signal she had given him.
+Kero did not come for her. Fear stripped his face bare, but he stayed at the rail support with his hand on the release, watching hers.
 
 Sevi shouted, “Not two sides! Two beats, you idiot!”
 
-The drone turned toward their voice.
+The drone turned toward their voice. The change was small, but it was enough. Raska let her raised hand fall.
 
-The change was small. Enough.
-
-Raska let her raised hand fall.
-
-Sevi yanked the red service handle. Kero threw his weight against the support. The shutter sprang half a meter and stopped; the rail trolley lurched out of its rust with a sack of rainwater and torn advertisements hanging from it. Raska drove the parcel bin forward with her hip because both hands had gone numb.
+Sevi yanked the red service handle. Kero threw his weight against the release. The shutter sprang half a meter and stopped; the rail trolley lurched out of its rust with a sack of rainwater and torn advertisements hanging from it. Raska drove the parcel bin forward with her hip because both hands had gone numb.
 
 None of it happened in the right order.
 
 The trolley struck the straps. The straps lifted the bin. The drone climbed right, met the bowed shutter, and pitched under its own correction. One rotor burst into white fragments. Kero ducked too late and lost a strip of hair. Sevi fell backward into a stack of plastic baskets. Raska ended on both knees with the bin rolling away from her.
 
-The drone hit the paving stones belly-first.
-
-Its charge fired into the metal shutter. Blue light raced upward, found nothing living, and went out.
-
-For a breath, nobody spoke.
+The drone hit the paving stones belly-first. Its charge fired into the metal shutter; blue light raced upward, found nothing living, and went out. For a breath, nobody spoke.
 
 Then Sevi, buried to the waist in baskets, said, “Full point.”
 
@@ -412,7 +378,7 @@ Along the drone’s exposed frame, contact lights woke one by one.
 
 “Witness and mark. That is your rule.”
 
-It was. Raska had defended it through six arguments, two stolen pieces of chalk, and one week when Kero tried to count a unit that fell into a canal before anyone could read it. Without the mark, a story grew a cleaner landing every time it was told.
+It was. Raska had defended it through six arguments, two stolen pieces of chalk, and one week when Kero tried to count a unit that fell into the back of a moving delivery van before anyone could read it. Without the mark, a story grew a cleaner landing every time it was told.
 
 The retrieval timer reached 01:41.
 
@@ -422,7 +388,7 @@ Kero said her name.
 
 He did not grab her.
 
-Beyond the cracked display, Sevi’s associations changed to 20. Raska’s changed to 14. Kero’s stayed at 11 until he moved beside her; then it became 12.
+On the cracked display, Sevi’s associations changed to 20. Raska’s changed to 14. Kero’s stayed at 11 until he moved beside her; then it became 12.
 
 Raska stopped outside the reach of the blue contact threads.
 
@@ -442,7 +408,7 @@ Kero opened his mouth.
 
 Raska beat him to it. “Correct.”
 
-Sevi shoved the chalk into their pocket. They seemed furious, frightened, and taller than they had been ten minutes ago. “The challenge was mine, by the way.”
+Sevi shoved the chalk into their pocket. They seemed taller than they had been ten minutes ago. “The challenge was mine, by the way.”
 
 “That hook looked like his,” Raska said.
 
@@ -454,7 +420,7 @@ The drone told them to remain at the scene. They left before it could finish.
 
 At the first intersection, Sevi turned away from their usual route. Raska followed. Kero came after her, one hand still pressed to the ridiculous bare stripe on his head.
 
-“My first drop was not derivative,” Raska said.
+“The melon one wasn’t derivative,” Raska said.
 
 “Half drop,” Sevi said.
 
