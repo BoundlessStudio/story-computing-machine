@@ -110,7 +110,7 @@ She bent to the returns driver's window. "Holding house. Now."
 
 He opened the locks. Viveca took the front seat, laying the knife across her knees. Mabry climbed in beside a woman whose wrists were tied together beneath an open raincoat. She was perhaps forty. One of her shoes had come off, and she kept trying to cover her bare foot with the other.
 
-"I went back to my husband last time," the woman said when she saw Viveca. "I did what you said."
+"I went back to him last time," the woman said when she saw Viveca. "I did what you said."
 
 Viveca turned. Rain ran from the ends of her hair onto the seat.
 
@@ -146,7 +146,7 @@ The knot was too tight. Mabry's nails were splitting. Her father had never used 
 
 The woman beside Mabry began to rock against the door.
 
-"You said I could have a week," she said. "Last time. A week at my sister's first. You said a week."
+"You said I could have a week," she said. "Last time. A week before I went back. You said a week."
 
 "Your week isn't my concern tonight."
 
