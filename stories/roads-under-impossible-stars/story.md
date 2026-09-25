@@ -8,7 +8,7 @@ canon: false
 
 # Roads Under Impossible Stars
 
-The heater blew hot dust at Keely's knees while frost silvered the lower corners of the windshield. Hollis kept one hand at twelve o'clock on the wheel and the other hovering near the temperature controls, as if the hatchback might misbehave out of embarrassment if she watched it closely enough.
+The heater blew hot dust at Keely's knees while frost silvered the lower corners of the windshield. Hollis kept one hand at twelve o'clock on the wheel and the other hovering near the temperature controls, as if the hatchback might be too embarrassed to misbehave if she watched it closely enough.
 
 "Pick something without handclaps," she said.
 
@@ -20,7 +20,7 @@ The temperature needle had climbed past the white slash Hollis had drawn on the 
 
 Keely chose a song with no handclaps. Hollis listened for six seconds, then turned it down until the drums became a pulse under the engine rattle.
 
-The road ran pale through low scrub. Their headlights caught the reflective stakes one at a time and gave each back to the dark. Keely had printed a map because Hollis's phone was out of storage and hers had been searching for service for an hour. The paper was already softened at the folds and striped with three routes in Keely's different-colored pen.
+The road ran pale through low scrub. Their headlights caught the reflective stakes one at a time and gave each back to the dark. Keely had printed a map before they left, in case the phones failed. Now Hollis's was out of storage and Keely's had been searching for service for an hour. The paper was already softened at the folds and striped with three routes in Keely's different-colored pens.
 
 "The overlook road should be after the cattle guard," Keely said.
 
@@ -58,13 +58,21 @@ Keely opened the crackers. "I know. I'm just saying the timing works."
 
 "You do keep saying that."
 
-The next wide patch was farther than either of them remembered. By the time Hollis swung the car across the empty road, the heater smelled faintly sweet. She shut off the fan.
+Keely brushed cracker salt off the map. "I worked out the rest too. For after. There's a Friday flight that isn't terrible, so if I come back every six weeks, that's a real weekend and not just a dinner, and the concert lands on one of them, and calls on Tuesdays, because Tuesdays neither of us—"
+
+"Every six weeks," Hollis said.
+
+"Or more. If that isn't enough, it could be—"
+
+"Visits aren't the same as telling me you applied."
+
+Keely had an answer ready for that, and she gave it. The next wide patch was farther than either of them remembered. By the time Hollis swung the car across the empty road, neither of them was talking, and the heater smelled faintly sweet. Hollis shut off the fan.
 
 "We should go back," she said.
 
 Keely heard herself answer too fast. "We came all this way."
 
-"And the car came all this way. That's the part I'm trying not to push."
+Hollis tapped the gauge glass with one knuckle. "I'm trying not to push it."
 
 Above the windshield, the sky had become crowded.
 
@@ -86,13 +94,13 @@ The meteor opened soundlessly, white from end to end.
 
 Keely lurched against her seat belt.
 
-The heater blasted her knees. The song with no handclaps was playing louder. A whole cracker rested on her tongue, dry and square, though she had swallowed it beside the shoulder. Her phone lay on the map and read 11:38.
+The heater blasted her knees. The song with no handclaps was playing again, low under the engine. The cheese crackers sat in the cup holder with the packet sealed, though she had torn it open past the entrance and eaten from it all the way to the shoulder. Her phone lay on the map and read 11:38.
 
 It had read 11:42 when they got out.
 
 Hollis drove with one hand at twelve o'clock. "Every six weeks," she said.
 
-Keely choked on the cracker.
+Keely turned so fast her seat belt locked.
 
 Hollis glanced over. "What?"
 
@@ -100,7 +108,7 @@ Hollis glanced over. "What?"
 
 "I don't know." Hollis rubbed her thumb over the cracked wheel seam. "It was there. Just the words."
 
-Ahead, the dirt entrance appeared after the cattle guard. It had been a single track. Now it forked immediately, one branch climbing toward a ridge that had not been there four minutes ago.
+The cattle guard jarred the crackers in the cup holder. The dirt entrance came up on the right. It had been a single track. Now it forked immediately, one branch climbing toward a ridge that had not been there four minutes ago.
 
 Hollis braked. "Was that a fork?"
 
@@ -110,7 +118,7 @@ The dashboard clock had been dead since Hollis bought the car. Its display now h
 
 Keely reached toward it.
 
-"Don't," Hollis said.
+"Don't touch it," Hollis said.
 
 "I wasn't."
 
@@ -134,9 +142,9 @@ She was back at the fork with both feet braced against the floor. The heater was
 
 The clock showed 3.
 
-Hollis swallowed. "Don't take it."
+Hollis swallowed. "Don't touch it."
 
-"Take what?"
+Keely looked at the green 3 and took her finger out of the recess.
 
 "That's all I've got." Hollis tapped two fingers against her lips. "I heard myself say it, but I didn't hear a voice. No picture. Nothing around it."
 
@@ -146,23 +154,27 @@ The right branch was gone. The left ran straight for thirty yards, then divided 
 
 Hollis did. "You pressed that."
 
-"I needed to know if it was the same as before. The first time just happened."
+"I needed to know if it would do the same thing as before."
 
-"And now?"
+"Before what?"
 
-"Three. I think it means three left."
+"I'll tell you. All of it, I promise. Can it be when we're not stopped in the road?"
 
-Hollis shifted into neutral but kept her foot on the brake. "You think."
+Hollis looked at the dashboard. "And the three?"
+
+"I think it means three left."
+
+Hollis shifted into neutral, kept her foot on the brake, and waited.
 
 "We know it undid the heat. Fuel too, probably. We can use that. We take a road, check it for four minutes, come back if it's wrong."
 
 "The road changed."
 
-"Which is why we test it."
+"I know. That's what the four minutes are for. We see where a road goes before we trust it, and if it goes bad, we—"
 
 Hollis looked at her. Not angry, Keely thought. Not yet. This could still be handled if Keely gave her the information in the right order.
 
-"The building gives us shelter if the radiator goes," Keely said. "Maybe a landline, tools, old water tank—"
+"The building gives us shelter if the radiator goes," Keely said. "Maybe a landline, tools, coolant on a shelf—"
 
 "No one has put a landline in that place since before this car was born."
 
@@ -176,7 +188,7 @@ They made it to the first pump island. Beyond it, the driveway dipped. Hollis st
 
 "Then hold it at the ground."
 
-Keely followed. The beam showed tire tracks running into the dip and ending at a crust of sand. Hollis scraped it with her boot. The crust fell through. A drainage channel yawned underneath, wider than the tires.
+Keely followed. The beam showed tire tracks running into the dip and ending at a crust of sand. Hollis scraped it with her boot. The crust fell through into the collapsed vault of a buried fuel tank, a black hole wider than the tires.
 
 "Back up," Hollis said.
 
@@ -208,7 +220,7 @@ Keely closed her eyes.
 
 "There's another one, isn't there?" Hollis asked.
 
-"One phrase."
+"Yes."
 
 "No picture. I don't know what I was finishing." She flexed the shoulder that had never struck anything. "What did you do?"
 
@@ -228,7 +240,7 @@ Hollis examined the ground through the windshield. The same rectangle of old asp
 
 "That's not what I said."
 
-Keely's stomach rolled again. She took a cracker for the salt and found the packet sealed. Even the tear had been taken back. She opened it along the same crooked seam.
+Keely's stomach rolled again. She reached for the crackers, wanting the salt, and found the packet still sealed, the first tear taken back with everything else. She opened it along the same crooked seam.
 
 They drove the rightward track at walking speed. Hollis called the surface as it came: packed gravel, loose gravel, shallow rut, stone shelf. Keely watched the clock and tried to repair the rest.
 
@@ -240,7 +252,7 @@ They drove the rightward track at walking speed. Hollis called the surface as it
 
 Hollis took her foot off the accelerator. "Before when?"
 
-"Before the first reset. You said visits weren't the same as telling you I applied. I was trying to explain that I didn't tell you because nothing was certain, and you would have spent three months thinking I was already gone."
+"Before the first reset. The one I said I'd tell you about. You said visits weren't the same as telling you I applied. I was trying to explain that I didn't tell you because nothing was certain, and you would have spent three months thinking I was already gone."
 
 "Did I say that?"
 
@@ -274,11 +286,11 @@ Hollis stopped before the crest. "It doesn't."
 
 "Then shut it off. I'll check."
 
-Hollis set the brake but did not move. "Did we have this argument already?"
+Hollis set the brake but did not move. Keely's hand had gone to the dashboard without her deciding to put it there, and Hollis looked at it. "Did we have this argument already?"
 
-"Not this one."
+"Some of it."
 
-"Did I tell you not to take a road?"
+"Did I tell you not to touch that?"
 
 "You don't remember that."
 
@@ -288,11 +300,7 @@ Keely heard the accusation that might follow and began answering it before Holli
 
 "You keep answering things I haven't said."
 
-"Because I'm the only one with all of it."
-
-"You're changing your answers."
-
-"I'm using what I know."
+"Because you have said some of them. You just don't have them anymore. I'm not trying to win anything. I'm trying to get us onto a road that goes somewhere, and if I already know how something goes wrong, it would be stupid to walk into it again just to be fair, so I'm using what I know."
 
 "On me." Hollis took her hand off the gearshift. "Don't push it. Not for this."
 
@@ -320,13 +328,9 @@ Keely put both hands in her lap. The night continued its slow rotation around he
 
 She told Hollis what she knew and only what she knew. The first return had come with the meteor and her wish. The others happened when she pressed the clock button. Each was four minutes. The number counted down. The car returned to its earlier position with its fuel, heat, contents, and damage restored. So did they, except Keely kept the erased time and the spinning in her head. Hollis kept one piece of speech.
 
-"Words only," Hollis said.
+"Only ever words?" Hollis said.
 
-"You said no pictures."
-
-"I'm checking."
-
-"Words only, as far as I can tell."
+"So far."
 
 "And the road?"
 
@@ -342,17 +346,9 @@ Keely started to say that an emergency might not leave time. Hollis was looking 
 
 "Okay," Keely said.
 
-They inventoried the car. Hollis did the work; Keely wrote it down. A little under half a tank. One full water jug and one three-quarters full. Four foil blankets, a flashlight at sixty percent, six cheese crackers, three fruit candies melted into a single striped brick, one spare hoodie, a weak jack, a doubtful tire. No signal. The radiator reservoir was low enough that Hollis would not restart until the engine cooled.
+They inventoried the car. Hollis did the work; Keely wrote it down. A little under half a tank. One full water jug and one three-quarters full. Four foil blankets, a flashlight at sixty percent, six cheese crackers, three fruit candies melted into a single striped brick, one spare hoodie, the jack Hollis trusted, the tire she did not. No signal. The radiator reservoir was low, and Hollis wanted the engine off for as long as it took to cool.
 
-"Highway should be south," Keely said.
-
-"Map south."
-
-"The compass still says south."
-
-"The compass doesn't say there's a road there."
-
-They walked no farther than the gravel fan. Hollis crouched and pressed both palms to it, then swept the flashlight over the slope. Angular stones, no crust, no dark line of a drop beneath. Safe enough to move the car fully off the broken pavement if they did it now.
+They walked no farther than the gravel fan. Hollis crouched and pressed both palms to it, then swept the flashlight over the slope. Angular stones, no crust, no dark line of a drop beneath. The old asphalt under the car tilted toward the wash, and she did not want the hatchback hanging on its parking brake all night. Ten feet onto level gravel, then the engine stayed off.
 
 "You're dizzy," she said.
 
@@ -360,13 +356,13 @@ They walked no farther than the gravel fan. Hollis crouched and pressed both pal
 
 "I can steer my car. You watch the passenger side and don't wave unless I'm near the edge."
 
-Hollis restarted. Keely got out and held the flashlight low. The hatchback crept onto the gravel, its tires crunching one careful quarter-turn at a time. Keely wanted to guide every inch. She made herself watch the passenger wheel and say only, "Clear," when Hollis asked.
+Hollis got back in and restarted. Keely stood off the passenger side and held the flashlight low. The hatchback crept onto the gravel, its tires crunching one careful quarter-turn at a time. Keely wanted to guide every inch. She made herself watch the passenger wheel and say only, "Clear," when Hollis asked.
 
-Once the car sat level, Hollis killed the engine again. Heat soaked upward. A wet hiss came from beneath the hood, followed by a white thread of steam. Coolant began to spit from the overflow line and darken the gravel.
+Once the car sat level, Hollis killed the engine again. Heat soaked upward. A wet hiss came from beneath the hood, followed by a white thread of steam. Coolant began to spit from the overflow line and darken the gravel. Hollis got out and went to the front of the car. Keely slid in behind the wheel to find the hood release.
 
 The green 1 lit Keely's hand as she reached for the clock.
 
-Four minutes back would fill the reservoir, cool the engine, put them on the intact patch. It would also take away the inventory and Hollis's condition. The road beyond the tires would change again. Keely could return with the right explanation ready. She could ask before touching the button and know which words had failed.
+Four minutes back would fill the reservoir, cool the engine, put them on the intact patch. It would also take away the inventory and Hollis's one condition. The road beyond the tires would change again. Keely could return with the right explanation ready. She could ask before touching the button and know which words had failed.
 
 Hollis stood outside by the hood, waiting for Keely to pull the release. She did not say don't.
 
@@ -376,11 +372,11 @@ Keely withdrew her finger.
 
 "I hear it. Pop the hood, not the cap."
 
-Keely pulled the lever. Hollis raised the hood and set the prop, keeping her face away from the steam. They lined the cold front seats with two foil blankets, kept the other two for themselves, put on both layers they had, and moved the water out of the cargo area. Hollis tore the striped candy brick in half with the jack handle. It broke unevenly; she took the smaller piece.
+Keely pulled the lever. Hollis raised the hood and set the prop, keeping her face away from the steam. They lined the cold front seats with two foil blankets, kept the other two for themselves, put on both layers they had, and moved the water out of the cargo area. Hollis cracked the striped candy brick in half with the jack handle. It split unevenly; she took the smaller piece.
 
-"At first light," Hollis said, "we check the hose. If it holds, we add water after it's cold and try the gravel back to the highest point. Slowly. If the track is gone, we stay with the car and use the mirror to signal."
+"At first light," Hollis said, "we check the hose. If it holds, we add water after it's cold and follow the gravel along the edge of the wash. Slowly. If that goes nowhere, we stay with the car and use the mirror to signal."
 
-"We should climb the ridge first and look for the highway."
+"We should find somewhere high first and look for the highway."
 
 "After daylight. Together. Ten minutes out, ten back."
 
