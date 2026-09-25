@@ -19,17 +19,13 @@ BUT A FAMILY OF HEROES MUST BE HONEST ABOUT FAILURE.
 
 Knock.
 
-You reach for the dryer door. Auden catches it before you can wrench it open.
+You reach for the dryer door to stop the knocking. Auden gets a flat hand on it before you can wrench it open.
 
-"It's locked during the cycle."
+"They're not dry."
 
-"I know how dryers work."
+Their sleeve has ridden up. Pale burn scars ladder the inside of their wrist, old marks from carrying force through a body not built to keep it. You look away first. Auden takes their hand off the door and drops two more quarters through the slot.
 
-"You just tried to peel one."
-
-Their sleeve has ridden up. Pale burn scars ladder the inside of their wrist, old marks from carrying force through a body not built to keep it. You look away first. Auden lets go of the handle and drops two more quarters through the slot.
-
-The loading shift starts in three hours, and Auden owns two pairs of trousers fit to wear there. One is turning behind the glass. The other lies across the folding table with a streak of machine grease down the thigh. Auden has been working detergent into it with a toothbrush whose bristles have gone black.
+It is ten past one in the morning. The loading shift starts in three hours, and Auden owns two pairs of trousers fit to wear there. One is turning behind the glass. The other lies across the folding table with a streak of machine grease down the thigh. Auden has been working detergent into it with a toothbrush whose bristles have gone black.
 
 On the television, your father lowers his head by exactly the amount that means Palisade is grieving for the cameras.
 
@@ -41,9 +37,9 @@ On the television, your father lowers his head by exactly the amount that means 
 
 "Same socket as the change machine. I need another dollar."
 
-You put the blue laundry sack on the table. It contains the shirts and towels Auden left with you last week, washed in the machines at the family house because the laundromat's cold-water line had failed. You have folded everything badly on purpose. Usually Auden notices, says something, and you get five minutes in which the worst problem between you is a sleeve trapped inside itself.
+You put the blue laundry sack on the table. It contains the shirts and towels Auden left with you last week, washed in the machines at the family house because Auden was short of quarters that week and let you offer. You have folded everything badly on purpose. Usually Auden notices, says something, and you get five minutes in which the worst problem between you is a sleeve trapped inside itself.
 
-Tonight they lift the top shirt, shake it once, and fold it again without comment.
+Now they lift the top shirt, shake it once, and fold it again without comment.
 
 "Mother used the whole sentence this time," you say. "Failure and disgrace. Father agreed."
 
@@ -55,7 +51,7 @@ Auden turns the shirt so its buttons face inward. "Blue towel in there?"
 
 "At the bottom."
 
-"I need it before the whites."
+"Dig it out for me."
 
 "Did you hear me?"
 
@@ -71,7 +67,7 @@ Auden looks at the shirt. Then at the hand you tuck beneath your opposite arm.
 
 "Use that one to pick up the shirt, then."
 
-You don't move. Auden leaves the grease-stained trousers soaking and holds out their hand. They do not ask twice. They never had to when the two of you were children, before Rampart became the person in the family photographs whose face strangers now cover with their thumbs.
+You don't move. Auden leaves the grease-stained trousers soaking and holds out their hand. They do not ask twice. They never had to when the two of you were children, before the team site cropped Rampart out of every family photograph it still posts.
 
 You surrender your wrist. Their fingers travel around the swelling without pressing it, measuring heat and shape. When they rotate your palm a fraction, pain flashes hard enough to whiten the room.
 
@@ -83,19 +79,19 @@ You surrender your wrist. Their fingers travel around the swelling without press
 
 "Mother wrapped it."
 
-"That wasn't the question."
+Auden turns your palm another degree and waits.
 
-"The medic wanted me out for a week. We have the memorial broadcast tonight."
+"The medic wanted me out for a week. The memorial broadcast is at six."
 
 "So Crownfire wrapped it."
 
-Auden opens the laundry sack again, finds the clean blue towel, and folds it lengthwise into a sling. Their knot is ugly but secure. They push your forearm against your ribs and tighten it until you stop trying to carry the hurt by muscle alone.
+Auden takes the blue towel from the pile you dragged out and folds it lengthwise into a sling. Their knot is ugly but secure. They push your forearm against your ribs and tighten it until you stop trying to carry the hurt by muscle alone.
 
 "If your fingers go numb, loosen it," they say.
 
 "You sound like the medic."
 
-"The medic was right."
+Auden checks the knot with two fingers and says nothing.
 
 The interview cuts to footage of the bridge: four passenger cars hanging over black water, caught in a shallow silver curve that the camera barely saw. Your mother's voice is still muted. The caption supplies it.
 
@@ -107,7 +103,7 @@ You say, "I told them to stop."
 
 The toothbrush pauses.
 
-"Tonight," you add. "At the house. I told them what they were saying was a lie."
+"After the interview," you add. "At the house. I told them what they were saying was a lie."
 
 "Who was there?"
 
@@ -121,7 +117,7 @@ The toothbrush pauses.
 
 You slap the cardboard detergent box onto the table. A white puff coats your black sleeve. Auden waits for you to brush it away, then takes the box.
 
-"They put the question in tonight's rundown," you say. "I'm supposed to tell the audience that the family is united. After that, I am supposed to stand between them while they read the passenger names."
+"They've put a question about you in the six o'clock rundown," you say. "I'm supposed to tell the audience that the family is united. After that, I am supposed to stand between them while they read the passenger names."
 
 Auden tips powder into the sink. "Then don't say it."
 
@@ -129,7 +125,7 @@ Auden tips powder into the sink. "Then don't say it."
 
 That gets their eyes off the trousers.
 
-"I packed a bag," you say. "It's in the car. I can be out before breakfast. No team, no house, no crest. Let them explain why they lost both children."
+"I packed a bag," you say. "It's in the car. I can be out before breakfast and leave the crest on Mother's desk. Let them explain why they lost both children."
 
 Auden presses the toothbrush hard along the trouser seam. "Put the bag back."
 
@@ -137,7 +133,7 @@ Auden presses the toothbrush hard along the trouser seam. "Put the bag back."
 
 They turn the trousers and start on the other side.
 
-"I didn't ask to move in with you. I wasn't going to turn up with a bag and make this your problem."
+"I didn't ask to move in with you," you say. "I wasn't going to turn up with a bag and make this your problem."
 
 "There's a bag in your car."
 
@@ -147,13 +143,11 @@ Auden scrubs. The stain spreads into a dark halo.
 
 The dryer buckle knocks. Neither of you looks at the screen.
 
-You lower your voice. A man dozing beside the front windows has shifted under his coat. "I was concussed at the hearing. Father said they wouldn't call me, every statement went through the family's counsel, and I was seventeen. I didn't know what I could do without making it worse."
+You lower your voice. A man dozing beside the front windows has shifted under his coat. "I was still concussed during the hearing. Father said they wouldn't call me, every statement went through the family's counsel, and I was seventeen. I didn't know what I could do without making it worse."
 
-The toothbrush keeps moving. "I know how old you were."
+The toothbrush keeps moving. "I know how old you were." Two more strokes along the seam. "And after?"
 
-"And after?" they ask.
-
-"I argued with them. Not only tonight. I called you, I came here whenever you'd let me, and you wouldn't answer anyone else, so I brought what you left at the house and made sure somebody remembered what actually happened. What was I supposed to do?"
+"I argued with them. Not just this once. I called you, I came here whenever you'd let me, and you wouldn't answer anyone else, so I brought what you left at the house and made sure somebody remembered what actually happened. What was I supposed to do?"
 
 Auden rinses the toothbrush. The tap runs long enough that you think they will leave the question there.
 
@@ -169,7 +163,7 @@ They shut off the water.
 
 "You're not listening."
 
-Auden puts the toothbrush beside the sink. "Then why is there a bag in your car?"
+Auden puts the toothbrush beside the sink. "Then what are you here for?"
 
 Your injured hand pulses inside the towel. With the other, you reach into your coat and take out a square of black ceramic no larger than a shirt button.
 
@@ -179,7 +173,7 @@ The anger leaves Auden's face before any other expression replaces it.
 
 "My impact buffer. From the bridge."
 
-They know the suit pieces better than you do. Rampart used to check every latch before a family deployment because Palisade believed inspection looked nervous on camera. The ceramic square records six seconds on either side of a disabling impact: suit loads, collar audio, the family's shared structural model, whatever the forward lens can see. Your suit shed it into the lining when the first carriage struck Auden's field.
+They know the suit pieces better than you do. Palisade would not be filmed checking latches before a family deployment, because inspection looked nervous on camera, so Rampart checked every one. The ceramic square records twenty seconds on either side of a disabling impact: suit loads, collar audio, the family's shared structural model, whatever the collar lens can see. Your suit shed it into the lining when the first carriage struck Auden's field.
 
 Auden wipes their hands on their coat, leaving two wet marks. "The board said your buffer was corrupted."
 
@@ -203,21 +197,13 @@ Auden slams the washer door. "No."
 
 The dozing customer lifts his head. Auden waits until he turns toward the television again.
 
-"How much afterward?" Auden asks.
-
-"Six seconds."
-
-"Does it show me beside him?"
+"Does it show me beside him?" Auden asks.
 
 You nod.
 
 The clip ends with Auden on their knees beside Shearpoint. You have never played that part with sound.
 
-"I can cut that. I wasn't going to use it."
-
-"You said the whole buffer."
-
-"I meant the whole proof. Tell me where to stop it."
+"I'll cut the end. I was never going to use that part, I only meant the parts that show the loads, and you can pick where it stops, I don't—"
 
 Auden puts one palm against the washer door. "Nothing goes out because you're angry at Mother."
 
@@ -251,7 +237,7 @@ Time remaining: 1.76 seconds.
 
 The train drops eleven centimeters. The suit marks each carriage in red. Beneath them, Auden's support field flares from eighty-nine percent load to ninety-seven.
 
-Through the window, the surviving rail glints. Shearpoint is a narrow figure at its far end, one palm laid flat on the steel. His first three pulses have split the braces below him. The fourth is gathering under his hand.
+Through the window, the surviving rail glints. Auden stands braced on its near end with both arms raised into the field. Shearpoint is a narrow figure at its far end, one palm laid flat on the steel. His first three pulses have split the braces below him. The fourth is gathering under his hand.
 
 The phone speaker gives you Auden's voice, raw with strain. "Take your hand off the rail."
 
@@ -269,15 +255,15 @@ Auden stops the clip before the return travels.
 
 You play it again.
 
-On the third viewing, they point to the transfer log in the corner. Two devices opened the full upload at three fourteen the next morning. The damaged file did not enter evidence until four hours later. One device belongs to Crownfire. One belongs to Palisade.
+On the third viewing, they point to the transfer log in the corner. Your suit went onto its dock at the house the night of the bridge with the buffer still caught in its lining, and the dock wrote its relay receipts back into the ceramic. Two devices played the full upload to the end at three fourteen the next morning. The damaged file did not enter evidence until four hours later. One device belongs to Crownfire. One belongs to Palisade.
 
-"They opened the full file," you say. "They saw the loads and every estimate. They heard you warn him, and four hours later the board got the damaged copy."
+"They played all of it," you say. "The loads, every estimate. They heard you warn him, and four hours later the board got the damaged copy."
 
 Auden rubs a thumb against the phone's cracked edge. "Do you remember what you said to me in the ambulance?"
 
 You remember asking whether the two of you had killed him. You were drugged, shivering, your shoulder strapped flat. Auden answered, *No. I did.*
 
-"You wouldn't let me take any of it," you say. "Not even the part where I froze until you told me what to do. And now they get to put all of it on you, and I keep coming here as if hearing me say that changes where you have to wake up. It doesn't pay the rent. It doesn't give you the hearing back. It doesn't—"
+"You wouldn't let me take any of it," you say. "Not even the part where I froze until you told me what to do. And now they get to put all of it on you, and I keep coming here to tell you they're wrong, as if hearing it from me changes where you have to wake up. It doesn't pay the rent. It doesn't—"
 
 They glance at the dryer clock. Eleven minutes. Their thumb stays against the crack in the phone case.
 
@@ -285,7 +271,7 @@ They glance at the dryer clock. Eleven minutes. Their thumb stays against the cr
 
 You open a blank statement on the phone. Your first sentence is: *Auden had no choice.*
 
-They cross it out with one hard stroke of your finger.
+They cross it out with one hard stroke of their finger.
 
 "No."
 
@@ -303,7 +289,7 @@ When you type *saved everyone*, Auden deletes the word *everyone*.
 
 You write *the passengers, including me*.
 
-Auden allows three seconds of video. No impact. No body. No ambulance. Their warning and the field diagram end on the final green route. They keep the transfer record showing your parents opened the data. They make you turn off comments on the original file even though copies will sprout them everywhere else.
+Auden allows three seconds of video, from their warning to the moment the field diagram settles on the last green route, and nothing after it. They keep the transfer record showing your parents played the file. They make you turn off comments on the original file even though copies will sprout them everywhere else.
 
 Under the eyewitness statement, you type Mica Serrin.
 
@@ -321,7 +307,7 @@ You watch the surname appear. "You still use it on everything?"
 
 They look down at the form. The cursor blinks after the last letter.
 
-"The week they threw me out, you left six messages," they say. "My phone still sorted us together under Serrin. I left it that way."
+"The week they threw me out, you left six messages," they say. "Every one starts 'Auden Serrin, pick up.' I kept them."
 
 "You never called back."
 
@@ -329,13 +315,9 @@ They look down at the form. The cursor blinks after the last letter.
 
 You almost tell them you are leaving the family anyway. The packed bag waits in your car, one boot holding its zipper open.
 
-Instead you ask, "If I say this tonight, will you release the clip?"
+Instead you ask, "If I say this at six, will you release the clip?"
 
-"If you say your part. Not mine."
-
-"What does that mean?"
-
-"Don't call me innocent. Don't say I had no hand in it. Tell them where you were and what you saw."
+Auden taps the statement. "Say what's on the page. Don't make me sound better."
 
 "And after?"
 
@@ -367,13 +349,13 @@ The control room gives you the cue to agree.
 
 Your father's grip closes around your fingers. "Mica."
 
-"Both of you opened it at three fourteen the morning after the bridge."
+"Both of you played it to the end at three fourteen the morning after the bridge."
 
 Your mother's eyes flick toward the producer off camera. Her smile stays where it is. "Grief can make memory feel certain—"
 
-"Mine isn't the only record."
+You pull your fingers out of your father's grip. "Mine isn't the only record."
 
-You touch the relay pad inside your braced wrist. Somewhere across the city, Auden has the release page open. You cannot make them press it. If they decide not to, you will speak without the clip.
+With the freed hand, you touch the relay pad inside your braced wrist. Somewhere across the city, Auden has the release page open. You cannot make them press it. If they decide not to, you will speak without the clip.
 
 The studio wall behind you changes from the memorial seal to the three seconds Auden chose.
 
@@ -387,13 +369,13 @@ Palisade says, very softly, "Stop now and you can come home."
 
 The host hears him. So does the collar microphone.
 
-Your mother reaches for the crest. You cover it, and pain shoots through your wrist despite the brace.
+Your mother reaches for the crest. You cover it with your free hand. Her fingers tighten on the braced one, and pain shoots through your wrist despite the brace.
 
 "You may believe Auden should carry that death," you say. "They do. But you knew what happened when you called them a failure. You knew when you called them a disgrace. I won't repeat either word for you."
 
 The red light on the main camera dies.
 
-One side camera stays live long enough to show your father unfasten the crest. He does not tear it away. He presses the clasp, lifts the joined flame and shield from your uniform, and sets it face down on the table.
+One side camera stays live long enough to show your father move your hand aside and unfasten the crest. He does not tear it away. He presses the clasp, lifts the joined flame and shield from your uniform, and sets it face down on the table.
 
 "Then you do not represent us," he says.
 
