@@ -196,7 +196,7 @@ Their pack weights rose. Their times did not always improve.
 
 In their twenty-seventh month, Rhoswen and Demech were assigned the autumn capstone together.
 
-The live clearing lay below the chapterhouse wall, in the old quarry cut its stone had come from, where a pulse-thorn had rooted. Every autumn group worked a piece of it under supervision. Their task was ordinary: enter behind Fremda's outer guard, reach the marker in the cut, remove a weighted casualty, and clear the lane. Candidates had rung the withdrawal bell before. Candidates had repeated the capstone the following season. The names of both sorts were posted in the same square hand.
+The live clearing lay below the chapterhouse wall, in the old quarry cut that had given the wall its stone, where a pulse-thorn had rooted. Every autumn group worked a piece of it under supervision. Their task was ordinary: enter behind Fremda's outer guard, reach the marker in the cut, remove a weighted casualty, and clear the lane. Candidates had rung the withdrawal bell before. Candidates had repeated the capstone the following season. The names of both sorts were posted in the same square hand.
 
 Rain had softened the bank to brown paste. Demech tested it with his heel. "Left side will go."
 
