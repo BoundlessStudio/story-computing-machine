@@ -314,7 +314,7 @@ The pond's surface moved from the far bank toward the near one in three narrow b
 
 “No. They are what I have down here, where the water lies and the slope comes up out of it, and the sun stays on the one side all afternoon. They are what I have.”
 
-The little wind tried again before the phrase had finished. Zerune took the book out, laid it in her lap, and tucked the emptied bag behind her back. Out on the pond the water quieted, and the breeze moved into the spaces between the three bands. The reeds bowed. From the trees came a sound so low that she felt it in her teeth.
+The little wind tried again before the phrase had finished. Zerune took the book out, laid it in her lap, and tucked the bag behind her back. Out on the pond the water quieted, and the breeze moved into the spaces between the three bands. The reeds bowed. From the trees came a sound so low that she felt it in her teeth.
 
 “Come through me again. The same way, only slower, as slow as you can bear to.”
 
