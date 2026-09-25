@@ -42,7 +42,7 @@ Hatshepsut shook her head.
 
 “No.”
 
-Merneith pressed two fingers to her brow, absurdly searching for a seam. Nothing opened. She had expected nothing else. She had been taught the limits until she could recite them under sedation: genes could rebuild a body within tolerances and carried no memories with it; a face could match every statue and know nothing its original had known; the missing portions of a genome were modeled estimates. Still, a person might be reasonable and disappointed at once.
+Merneith pressed two fingers to her brow, absurdly searching for a seam. Nothing opened. She had expected nothing else; she had been taught the limits until she could recite them under sedation. Still, a person might be reasonable and disappointed at once.
 
 On the wall, a translation of an ancient burial promise glowed above the observers: the name enduring, the body renewed, the ruler joining eternity. The laboratory had used it in every funding appeal.
 
