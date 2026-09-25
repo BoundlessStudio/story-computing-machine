@@ -16,7 +16,7 @@ At the foot of the dais waited the crown and the succession skin. Her seal lay b
 
 The silence had begun at moonset. Black cords bound the court's sleeves, and until the sun dropped behind the western wall, no human voice could take part in the anniversary. The custom was older than her brother's death, meant to deny boasting to victory and excuses to defeat. In fifteen observances it had become chiefly a way to survive remembering him.
 
-The First Captain stood below the open doors with his sword belted and his command staff under one arm. His hands had already rearranged the palace. Two fingers sent guards to the gallery. A flattened palm closed the orchard gate. A turn of his fist thickened the line before the throne room. He wore no mourning cord.
+The First Captain stood below the open doors with his sword belted and his command staff under one arm. His hands had already rearranged the palace. Two fingers sent guards to the gallery. A flattened palm closed the orchard gate. A turn of his fist thickened the line before the throne room. He wore no mourning cord. A scar divided his jaw.
 
 The Seatkeeper looked through the doors at the crowded antechamber. Three rival houses had arrived before midnight, each carrying enough cousins to become a future. Their banners hung furled by law, bright fringes showing beneath their black covers. At sunset the compact expired. If she did not take the crown, someone would try to take the room.
 
@@ -24,7 +24,7 @@ She closed the cedar box and began the coronation route backward.
 
 Her brother had once walked it from gate to throne through thrown petals and ringing bronze. She had followed six paces behind, watching a loose thread tremble on his shoulder. Now she passed from the throne room into the memorial court, where his stone likeness lay with both hands empty; across the rain court; through the long gallery of ancestral faces; and down toward the outer gate. At each threshold she tested the seal and counted the guards. The Captain followed, correcting her counts with small movements of his staff.
 
-The sky had paled enough to show the gate towers when the wicket opened from outside. The porter stumbled backward. A child came through after him.
+The sky had paled enough to show the gate towers when the wicket opened from outside. The gatekeeper stumbled backward. A child came through after him.
 
 They were perhaps fourteen, and small for it beneath the dirt. A hood covered most of their head, but two blunt horn tips had worn holes in the cloth. Dust made a mask of their face except where sweat had cut tracks from the temples. Their coat was demon work, scaled at one shoulder with overlapping red leather, and human work at the other, patched in square stitches by someone impatient. A round iron signet hung against their chest.
 
@@ -58,7 +58,7 @@ Purple juice ran over their knuckles. A court usher flinched as if a treaty had 
 
 The Seatkeeper almost smiled. The impulse hurt more cleanly than grief had in years.
 
-She led them beneath the painted kings. The Captain kept to the child's sword side. Behind him came the registrar, three judges, six guards, and the boldest members of the waiting houses. The procession swelled whenever a side door opened. It was already turning the child's hunger into pageantry.
+She led them beneath the painted kings. The Captain kept to the child's sword side. Behind him came the keeper of seals, three judges, six guards, and the boldest members of the waiting houses. The procession swelled whenever a side door opened. It was already turning the child's hunger into pageantry.
 
 At the portrait of the late king, the child stopped.
 
@@ -74,7 +74,7 @@ The child rubbed the bumped scabbard with their sleeve. They would not look at h
 
 She turned to remove the line of people behind them. It took time. The rival houses mistook the first sweep of her hand for an invitation forward. The judges mistook the second for a demand that they surround the child. One guard backed into a saffron bowl and stood in yellow dust while the child watched with exhausted, unwilling amusement. At last the Seatkeeper pointed every unnecessary witness toward the side doors and waited until obedience became less embarrassing than refusal. Each guard who went struck a closed fist to the collarbone in passing the Captain, and the child watched every one of them.
 
-The gallery emptied to the child, the Captain, the registrar, and one judge from each rival house. The spears remained at the far end.
+The gallery emptied to the child, the Captain, the keeper of seals, and one judge from each rival house. The spears remained at the far end.
 
 When the child resumed walking, the Captain moved half a pace farther away from the sword.
 
@@ -90,7 +90,7 @@ The memorial court had been built around an accusation.
 
 Her brother's stone figure lay at its center, his empty hands lifted upon his breast. Above him, a wall mosaic showed the last battle as the survivors preferred it: the human king in white mail; the demon queen enormous beneath a red sky; their blades meeting in a burst of gold. Along the floor, a black stone band represented the burned field. Visitors placed human mourning tokens on the raised bier and cast enemy tokens into a bronze ash basin at its foot.
 
-The child entered and became still. The Captain indicated the sword rest on the bier. The registrar uncovered the ash basin and looked at the signet on the child's chest. Under the ash lay a curl of scaled red leather, the same work as the patch on the child's coat.
+The child entered and became still. The Captain indicated the sword rest on the bier. The keeper of seals uncovered the ash basin and looked at the signet on the child's chest. Under the ash lay a curl of scaled red leather, the same work as the patch on the child's coat.
 
 The child looked at the Seatkeeper.
 
@@ -110,7 +110,7 @@ She did not know whether the demon queen lived. She did not know whether the que
 
 The Seatkeeper lifted one edge of the bronze ash basin and dragged it to the wall. Its feet shrieked faintly across the stone. She set it beneath an old rain stain, far from both child and bier. Then she sat on the black band, not beside the child but near enough that they could choose the distance.
 
-Around the court, certainty broke unevenly. The registrar lowered his eyes. One judge knelt on the white marble; another remained standing. The Captain watched the passage behind them, counting bodies and exits.
+Around the court, certainty broke unevenly. The keeper of seals lowered his eyes. One judge knelt on the white marble; another remained standing. The Captain watched the passage behind them, counting bodies and exits.
 
 The child raised their head. Their cheeks were dry. After considering the Seatkeeper for several long breaths, they took the hidden plum from their coat and rolled it across the black stone. It stopped against the hem of her robe. The Seatkeeper set it between them. She did not eat it. Neither did the child. They sat there through most of the day, and when at last the Seatkeeper rose, the child buckled on the sword and hung the signet back around their neck.
 
@@ -128,7 +128,7 @@ The child turned around, walked back into the memorial court, unfastened the bel
 
 The Captain kept his staff across the doorway. The Seatkeeper removed the audience again.
 
-This time there was no confusion in her gesture. She pointed to the outer gallery, then to each house in turn. Silk shifted. Faces flushed. One by one the blocks broke apart and withdrew until only the three judges, the registrar, and six palace guards remained. She pointed the guards out as well. They did not move until the Captain's two fingers sent them.
+This time there was no confusion in her gesture. She pointed to the outer gallery, then to each house in turn. Silk shifted. Faces flushed. One by one the blocks broke apart and withdrew until only the three judges, the keeper of seals, and six palace guards remained. She pointed the guards out as well. They did not move until the Captain's two fingers sent them.
 
 His eyes found hers. Fifteen years of service stood between them: riots contained, borders held, assassination letters burned, nights when his soldiers had been the only thing between caretaker and crown. Her thumb had gone to the clasp of the cedar box. His palm had closed over the worn iron cap of his staff, and it stayed there.
 
@@ -158,7 +158,7 @@ She placed the stylus beside the upper circle and retreated from the table. Then
 
 The child could walk out. The Captain's staff no longer blocked the way. Their sword waited in the memorial court. Whatever the queen intended, whatever the kingdom desired, the space around the succession table held no hand but theirs. The light climbed the eastern wall.
 
-The child approached the skin. They examined the Seatkeeper's impression, tracing the boundary notches without touching the wax. Their hand went to the demon signet, still hanging at their chest. The registrar offered a shallow dish for it. They ignored him.
+The child approached the skin. They examined the Seatkeeper's impression, tracing the boundary notches without touching the wax. Their hand went to the demon signet, still hanging at their chest. The keeper of seals offered a shallow dish for it. They ignored him.
 
 With the signet clenched in the left hand, they took the stylus in the right. The first stroke tore the prepared surface. The second wandered. They frowned, scraped a patch smooth with the stylus handle, and began again. This time they made a small figure of three joined angles, cramped but unmistakably deliberate. Then they put the stylus down.
 
@@ -168,7 +168,7 @@ The First Captain came to the table and reversed his staff. Its iron cap was wor
 
 Then he pressed down.
 
-The registrar folded the skin. The three judges set their plain witness marks along the seam. The caretaker compact ended inside the same breath as the regency began.
+The keeper of seals folded the skin. The three judges set their plain witness marks along the seam. The caretaker compact ended inside the same breath as the regency began.
 
 The Captain went to one knee. The judges followed, one readily, one stiffly, one after looking toward the empty gallery. The Seatkeeper knelt last. The child's left fist was level with her eyes now, the signet's iron rim showing between fingers still stained with plum.
 
