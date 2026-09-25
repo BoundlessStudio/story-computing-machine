@@ -268,6 +268,7 @@ def capture_characters(repository_root: Path, snapshot_path: Path | None = None,
         raise ValueError("A character story is absent from the publication catalog")
     prior = load_snapshot(snapshot_path, "characters")
     previous = {(story["slug"], image["id"]): image for story in prior["stories"] for image in story["images"]}
+    excluded = {entry["source"] for entry in prior.get("excludedSources", [])}
     groups = [story for story in prior["stories"] if requested and story["slug"] not in requested]
     specifications_root = repository_root / "pages" / "character-specs"
     paths = ([specifications_root / f"{slug}.json" for slug in sorted(requested)] if requested
@@ -285,7 +286,8 @@ def capture_characters(repository_root: Path, snapshot_path: Path | None = None,
                 or not isinstance(specification.get("characters"), list)):
             raise ValueError(f"Invalid character specification: {path}")
         completed = [character for character in specification["characters"]
-                     if isinstance(character, dict) and character.get("status") in {"completed", "reused"}]
+                     if (isinstance(character, dict) and character.get("status") in {"completed", "reused"}
+                         and character.get("output") not in excluded)]
         if not completed:
             continue
         if specification.get("readComplete") is not True or specification.get("assessment") != "complete":
@@ -311,6 +313,8 @@ def capture_characters(repository_root: Path, snapshot_path: Path | None = None,
         group["images"].sort(key=lambda image: image["id"])
     groups.sort(key=lambda story: (story["title"].casefold(), story["slug"]))
     data = {"schemaVersion": 1, "stories": groups}
+    if prior.get("excludedSources"):
+        data["excludedSources"] = prior["excludedSources"]
     snapshot_path.parent.mkdir(parents=True, exist_ok=True)
     pending = snapshot_path.with_suffix(".json.tmp")
     pending.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

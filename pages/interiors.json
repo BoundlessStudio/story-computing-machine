@@ -10973,32 +10973,6 @@
             "prompt": "Use case: precise-object-edit. Image 1 is the original empty bedroom with water tray and three desk lamps, the edit target. Image 2 is the accepted corrected earlier view of the SAME room and controls the exterior architecture. Replace ONLY the landscape visible through Image 1's rear window with the SAME nearby urban apartment block shown in Image 2: brick/plaster neighboring facade, flat rooftops, silver cylindrical roof tank, amber windows and modest hanging laundry, beneath the same cloudy blue-grey sky. Keep the viewpoint appropriate to this slightly shifted interior angle. NO lake, water horizon, conifers or distant mountains outside.\nKeep all interior content and current scene state of Image 1 unchanged: THREE desk lamps around the shallow WATER tray on the floor, towels, closed right balcony door, bowl now set on dresser, uncovered vent, unplugged fan, bed/blankets, desk and closed cake box, wardrobe with tied adjustable trousers, blue curtains, wall art, plants, rug and floor. Do not add the lamps/tray to reference image 2 or copy its open doorway; edit Image 1 only. Retain original thick expressive Group of Seven-inspired angular impasto, amber/slate palette, room lighting and 3:2 landscape 1536x1024. Empty room, no people or luminous bodies, no text overlay, labels, watermark, collage, photorealism or 3D.",
             "generator": "image_gen"
           }
-        },
-        {
-          "id": "03-rain-at-the-bedroom-window",
-          "title": "Rain at the bedroom window",
-          "alt": "Rain at the bedroom window — oil interior study for What Turned Eighteen",
-          "source": "pages/interior-replacements/what-turned-eighteen/03-rain-at-the-bedroom-window.png",
-          "sourceSha256": "b42814dd04800ed12094dade6bc05c9d904b2491735ec0bf2c2a054b712fa17f",
-          "full": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b42814dd04800ed1.webp",
-            "sha256": "6b6b0557593a146054ad9b60fe02c032d83a88c3e07cfeff88527186b96762f4",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b42814dd04800ed1-thumb.webp",
-            "sha256": "37db11064e360b0d59a31468ff17ff62ee2e5991b2050a20e37cedb268ed2c96",
-            "width": 480,
-            "height": 320
-          },
-          "revision": {
-            "originalSource": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
-            "originalSha256": "24b980aede13e2ca77979f63f58ee4c74635c0b8da9652c4b49d897cae51379e",
-            "correction": "Keep the room and replace the exterior glimpse with restrained neighboring rooftops, windows, laundry and tanks, or obscure it enough that no unsupported lake/forest panorama defines the location. Make nine clearly separated small portions on the baking sheet, retaining the existing domestic composition.",
-            "prompt": "Use case: precise-object-edit. Image 1 is the original empty bedroom after the rooftop rain, the edit target. Image 2 is the accepted corrected same-room view and supplies the neighboring urban exterior. Make only two corrections to image 1.\nFirst, replace its rear-window lake, conifers and mountain ridge with the SAME close urban block as image 2: nearby brick/plaster apartment facades, flat roofs, silver cylindrical roof tank, amber windows and modest laundry. Keep those fixed positions, seen at this angle, but under heavier RAIN and dimmer cloudy evening light. Rain on the screened window softens the neighboring buildings. Keep the window screened and open only a finger's width as existing view permits. No lake, forest or mountain vista.\nSecond, the foreground baking sheet on the RIGHT-HAND low table must hold EXACTLY NINE separate small drops/portions of mashed lentil filling. Replace its present six with NINE small golden-brown mounds in a clear THREE-BY-THREE arrangement, three rows of three, with bare tray surface visibly separating every mound. All nine fully within the tray and individually countable; no crumbs that look like a tenth, no overlap, no omitted portion. These nine portions matter to the story.\nPreserve everything else from image 1: two active low desk lamps at opposite ends, bedside lamp off, unplugged floor fan, closed balcony door with towel gap, uncovered vent, towels on rug, shallow water tray on floor, adjustable-trouser sling stretched between two chairs, wardrobe, bed, desk with opened cake box, blue curtains, wall pictures and all furniture placement. Keep it an empty environment with no people or luminous creatures. Retain original broad angular thick oil impasto, ochre/blue-grey palette and 3:2 landscape 1536x1024. No labels, text overlays, watermark, collage, photography or 3D.",
-            "generator": "image_gen"
-          }
         }
       ]
     },

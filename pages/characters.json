@@ -5634,25 +5634,6 @@
       "reader": "stories/the-cat-who-kept-the-door.html",
       "images": [
         {
-          "id": "aphan",
-          "title": "Aphan",
-          "alt": "Sculpted Impasto character reference sheet of Aphan for The Cat Who Kept the Door",
-          "source": "stories/the-cat-who-kept-the-door/art/characters/aphan.png",
-          "sourceSha256": "9edb99e033fa5561aa66524d4a22dcf1117792681f42a17cf5149732f189e7ac",
-          "full": {
-            "path": "characters/the-cat-who-kept-the-door/aphan-9edb99e033fa5561.webp",
-            "sha256": "daaeaa5575e3287aaa236d028196f722ae22d863d2998561e21f260e4d946cc1",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-cat-who-kept-the-door/aphan-9edb99e033fa5561-thumb.webp",
-            "sha256": "f015d490c9085db3f207da855bd43f3f5b51c3d1ddf0c0f2d13e73a1305476df",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "isabet",
           "title": "Isabet",
           "alt": "Sculpted Impasto character reference sheet of Isabet for The Cat Who Kept the Door",
@@ -7669,25 +7650,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "sivelle",
-          "title": "Sivelle",
-          "alt": "Sculpted Impasto character reference sheet of Sivelle for The Help Network",
-          "source": "stories/the-help-network/art/characters/sivelle.png",
-          "sourceSha256": "4176e34ced701bcbc3d508fb24f8f560df2e203a2a0e02280b1031b37bb63394",
-          "full": {
-            "path": "characters/the-help-network/sivelle-4176e34ced701bcb.webp",
-            "sha256": "27350f41bc1b0172ce9d31c37f0c3145a4e5fdcdc1e22e07e025985ac600c071",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-help-network/sivelle-4176e34ced701bcb-thumb.webp",
-            "sha256": "f6c579f252e14163982a20177d3cf2aee3d919bd0a0612c39e547fa8efbc172e",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -8933,25 +8895,6 @@
             "width": 480,
             "height": 320
           }
-        },
-        {
-          "id": "ovik",
-          "title": "Ovik",
-          "alt": "Sculpted Impasto character reference sheet of Ovik for The Memory Under Line Zero",
-          "source": "stories/the-foundations-remember/art/characters/ovik.png",
-          "sourceSha256": "dcfca0a32ee5ec43d3266de05b3fbce70b9cb5dfce1ad825a84de4645b55a1e8",
-          "full": {
-            "path": "characters/the-foundations-remember/ovik-dcfca0a32ee5ec43.webp",
-            "sha256": "652663c092a5970727bba634cfd0f4a5598b47e6f38a46531049d43b44573f31",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-foundations-remember/ovik-dcfca0a32ee5ec43-thumb.webp",
-            "sha256": "c8d92984e88b25eaef5492bd89034b5309c169bc0108b7e4620e468162dbace0",
-            "width": 480,
-            "height": 320
-          }
         }
       ]
     },
@@ -9058,25 +9001,6 @@
           "thumbnail": {
             "path": "characters/the-morning-her-hand-moved/aksor-e9bf2a9d4f732052-thumb.webp",
             "sha256": "faaedc529b65b2a6825a44f80235130f1bcf6b75854cebfad20662536113f937",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "elaruun",
-          "title": "Elaruun",
-          "alt": "Sculpted Impasto character reference sheet of Elaruun for The Morning Her Hand Moved",
-          "source": "stories/the-morning-her-hand-moved/art/characters/elaruun.png",
-          "sourceSha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
-          "full": {
-            "path": "characters/the-morning-her-hand-moved/elaruun-7f56a72d8101ee26.webp",
-            "sha256": "d5e32d0490ae97c27863232b51a32a2031f77eaec0b93a456a9aba31b9003613",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-morning-her-hand-moved/elaruun-7f56a72d8101ee26-thumb.webp",
-            "sha256": "fabf3d784106a8189e591fefe9942370a8da0f88d4d7b27124b4517fddc9ab7f",
             "width": 480,
             "height": 320
           }
@@ -10206,25 +10130,6 @@
           "thumbnail": {
             "path": "characters/the-other-twin/celska-9f105afc1bb6ac96-thumb.webp",
             "sha256": "72eb2271bfddf6481dbbd70e51f5b2ead507a955d60188af758c3d9cd0a41524",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "iverin",
-          "title": "Iverin",
-          "alt": "Sculpted Impasto character reference sheet of Iverin for The Other Twin",
-          "source": "stories/the-other-twin/art/characters/iverin.png",
-          "sourceSha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
-          "full": {
-            "path": "characters/the-other-twin/iverin-312d0f3520c27c24.webp",
-            "sha256": "35bdfbdd116484af3a3708925f2185dc251fba6aceb1201dd9be890592a507b8",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-other-twin/iverin-312d0f3520c27c24-thumb.webp",
-            "sha256": "07225a2f4aa0bc29ebc22011190b92195c99b31a5cec528936faed115c9ee66c",
             "width": 480,
             "height": 320
           }
@@ -11579,25 +11484,6 @@
           "thumbnail": {
             "path": "characters/the-small-moon-rose-first/celia-04ec8dcaf8f24efe-thumb.webp",
             "sha256": "8739a6d37afe29dfae88ee87f4b9ce9e632b3e4aa0d774818a9f4e859559eca0",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "hollow-regent",
-          "title": "Hollow Regent",
-          "alt": "Sculpted Impasto character reference sheet of Hollow Regent for The Small Moon Rose First",
-          "source": "stories/the-small-moon-rose-first/art/characters/hollow-regent.png",
-          "sourceSha256": "d01062d6a3f89e192c53829a26281edd334b3c1962cf8418da7f71fb084519c9",
-          "full": {
-            "path": "characters/the-small-moon-rose-first/hollow-regent-d01062d6a3f89e19.webp",
-            "sha256": "fe3a644959a9c219e4c69cb0cba4181b4c317acf79ac0cf4eeeb7d3d9fc42fb5",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/the-small-moon-rose-first/hollow-regent-d01062d6a3f89e19-thumb.webp",
-            "sha256": "48660c1ea5f9c2a576b7c8fe142ba7df84dcbf895ed0f9f3aaedd08a709f4253",
             "width": 480,
             "height": 320
           }
@@ -14719,44 +14605,6 @@
       "reader": "stories/what-the-wind-wanted.html",
       "images": [
         {
-          "id": "athrulin",
-          "title": "Athrulin",
-          "alt": "Sculpted Impasto character reference sheet of Athrulin for What the Wind Wanted",
-          "source": "stories/what-the-wind-wanted/art/characters/athrulin.png",
-          "sourceSha256": "77862396e5a833e68c9aa2f1bdfe5d5496ea58b4d014187b818fa088f5104052",
-          "full": {
-            "path": "characters/what-the-wind-wanted/athrulin-77862396e5a833e6.webp",
-            "sha256": "fcae65a311da8fd83162a643e9a16accf501f64a5d4d462f9e03c57a7e6f9b45",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/what-the-wind-wanted/athrulin-77862396e5a833e6-thumb.webp",
-            "sha256": "371dfca10af2f7fa26628a40d854082c5e83ecb5cd8377dcd109fe50f0de9cfb",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
-          "id": "nivrel",
-          "title": "Nivrel",
-          "alt": "Sculpted Impasto character reference sheet of Nivrel for What the Wind Wanted",
-          "source": "stories/what-the-wind-wanted/art/characters/nivrel.png",
-          "sourceSha256": "7c696553d28b87e8e9bbab8ed651a2d207b33d4d8ef0ac3c4b3b677f5d3bd253",
-          "full": {
-            "path": "characters/what-the-wind-wanted/nivrel-7c696553d28b87e8.webp",
-            "sha256": "9707a80b0d2880b96f9881e1c6a5e8189c721413df18311b4c478c9eb305840a",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/what-the-wind-wanted/nivrel-7c696553d28b87e8-thumb.webp",
-            "sha256": "b6d6f9fb4ae323bc8969478e4185c4795eead5cbfc11cd7e54f43b79bac9350b",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "zerune",
           "title": "Zerune",
           "alt": "Sculpted Impasto character reference sheet of Zerune for What the Wind Wanted",
@@ -15319,25 +15167,6 @@
           }
         },
         {
-          "id": "holdfast",
-          "title": "Holdfast",
-          "alt": "Sculpted Impasto character reference sheet of Holdfast for Where Rival Gods Go Quiet",
-          "source": "stories/head-priests-in-love/art/characters/holdfast.png",
-          "sourceSha256": "8c88b6355b07da24972d9d1a28fe41683586a565331bb99398de0e04ff3f6bdf",
-          "full": {
-            "path": "characters/head-priests-in-love/holdfast-8c88b6355b07da24.webp",
-            "sha256": "d6a437b00933ba771f35648ba477e19647871d8dc0d41b960dc400f95e102007",
-            "width": 1536,
-            "height": 1024
-          },
-          "thumbnail": {
-            "path": "characters/head-priests-in-love/holdfast-8c88b6355b07da24-thumb.webp",
-            "sha256": "01a13c3d39d4414b512f82e96d6a93afbc34073267d3466da4ec73e85b5860a6",
-            "width": 480,
-            "height": 320
-          }
-        },
-        {
           "id": "levara-quist",
           "title": "Levara Quist",
           "alt": "Sculpted Impasto character reference sheet of Levara Quist for Where Rival Gods Go Quiet",
@@ -15791,6 +15620,53 @@
           }
         }
       ]
+    }
+  ],
+  "excludedSources": [
+    {
+      "source": "stories/head-priests-in-love/art/characters/holdfast.png",
+      "sourceSha256": "8c88b6355b07da24972d9d1a28fe41683586a565331bb99398de0e04ff3f6bdf",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-cat-who-kept-the-door/art/characters/aphan.png",
+      "sourceSha256": "9edb99e033fa5561aa66524d4a22dcf1117792681f42a17cf5149732f189e7ac",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-foundations-remember/art/characters/ovik.png",
+      "sourceSha256": "dcfca0a32ee5ec43d3266de05b3fbce70b9cb5dfce1ad825a84de4645b55a1e8",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-help-network/art/characters/sivelle.png",
+      "sourceSha256": "4176e34ced701bcbc3d508fb24f8f560df2e203a2a0e02280b1031b37bb63394",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-morning-her-hand-moved/art/characters/elaruun.png",
+      "sourceSha256": "7f56a72d8101ee26597ca178f45a258a9fd3a8bafe250ea6c44f627392f0a19f",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-other-twin/art/characters/iverin.png",
+      "sourceSha256": "312d0f3520c27c242716a63f29ec2a6cd08dda810f933e40fa3dc74840cdc93f",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/the-small-moon-rose-first/art/characters/hollow-regent.png",
+      "sourceSha256": "d01062d6a3f89e192c53829a26281edd334b3c1962cf8418da7f71fb084519c9",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/what-the-wind-wanted/art/characters/athrulin.png",
+      "sourceSha256": "77862396e5a833e68c9aa2f1bdfe5d5496ea58b4d014187b818fa088f5104052",
+      "reason": "Removed from the public Image Gallery at the user’s request."
+    },
+    {
+      "source": "stories/what-the-wind-wanted/art/characters/nivrel.png",
+      "sourceSha256": "7c696553d28b87e8e9bbab8ed651a2d207b33d4d8ef0ac3c4b3b677f5d3bd253",
+      "reason": "Removed from the public Image Gallery at the user’s request."
     }
   ]
 }
