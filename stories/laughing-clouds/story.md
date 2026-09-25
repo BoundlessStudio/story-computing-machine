@@ -10,7 +10,7 @@ canon: false
 
 The first drop struck the number seven on Ianthe's calibration sheet.
 
-She looked up. The shade canopy above her was dry, its patched green cloth glowing in the afternoon sun. The nearest irrigation line ran ankle-high along the festival's planter wall, properly coupled and nowhere near her table. The condenser itself occupied half the tabletop, a seed-chest-sized shell of copper-green composite. A second drop widened the ink around *litres per hour*. Then a hundred small drops came down at once.
+She looked up. The shade canopy above her was dry, its patched green cloth glowing in the afternoon sun. The nearest other water was a cook's pot two tables over, lidded. The condenser itself occupied half the tabletop, a seed-chest-sized shell of copper-green composite. A second drop widened the ink around *litres per hour*. Then a hundred small drops came down at once.
 
 They fell from a cloud the size of a market basket.
 
@@ -34,35 +34,41 @@ Rasim had abandoned his own entry, a folding shade frame whose westward hinge re
 
 “That is the incorrect part.”
 
-The child's father handed her a rag. She squeezed water from one braid and looked delighted. Behind her, runoff had found the shallow channel around a planter bed. Dust settled. Three wilted leaves lifted under the splash.
+Rasim laughed. Ianthe's hand went to the cutoff before she remembered it was already down.
+
+“Last year you asked the judge how many times my hinge had been tested,” he said. “In front of the whole row. I'm going to enjoy this.”
+
+“Four,” Ianthe said. “It had been tested four times.”
+
+The child's father handed her a rag. She squeezed water from one braid and looked delighted. Behind her, the spray had drifted over a planter bed. Dust settled. Three wilted leaves lifted under the splash.
 
 Rasim noticed those things in the opposite order from Ianthe. He looked at the leaves, then the child's cooler skin, then the crescent of wet footprints. “Leave it. It's perfect.”
 
 Ianthe set the ruined sheet on the canopy brace. “Judging begins in two hours and twelve minutes.”
 
-“Then you have time to find out what it does.”
+“Then you've got two hours to find out what it does.” He was still watching the child. “Did you see her face? And that planter's been cooking since noon. Half the benches in this city bake by two o'clock. You've built something people would queue for.”
 
 “I know what it does. It corrupts ultrasonic ranging, wastes potable water, and rains on electrical work.” She pointed to the repair bench, where the child's father was drying a motor housing. “The yield was already sixty-three percent of specification. This reduces it further.”
 
 Rasim looked at the festival around them. Repaired solar cloth stretched from old tram poles. A row of cracked heat batteries served as evening seats because they held the day's warmth after their cells had failed. Along the central walk, miscast ceramic pipes had become planters, their warped mouths overflowing with herbs. Every object present had once disappointed someone in a measurable way.
 
-“The planter got water,” he said. “That gives you something to test.”
+“The planter got water,” he said. “So did she, and she loved it. Test it as a cooler for the play courts and enter it as that.”
 
 Ianthe turned the condenser so its service panel faced away from him.
 
-She had entered it as a recoverable failure. The festival had a place for designs that missed their first purpose but contained a useful piece: a pump repurposed for aerating roots, a tracking mirror that shaded market stalls when its gears slipped, a desalination membrane that made excellent fruit-drying sheets. Ianthe's chilled mesh could still reclaim water from humid air. With one firmware correction and a clean calibration run, she could prove it.
+She had entered it as a recoverable failure. Once a year the festival made room for designs that missed their first purpose but contained a useful piece: a pump repurposed for aerating roots, a tracking mirror that shaded market stalls when its gears slipped, a bicycle dynamo too weak for lamps that now wound the music boxes at the children's tables. Ianthe's chilled mesh could still reclaim water from humid air. With one firmware correction and a clean calibration run, she could prove it.
 
 That mattered. People called young engineers promising when they meant *not yet dependable*. A specification did not soften its voice because her hair was still cropped in apprentice fashion. Twelve litres remained twelve litres, even when an older builder repeated the number more slowly after her.
 
 She opened the diagnostic display. The event log showed an impossible column of moisture-density readings: eighty-one percent, eighty-eight, ninety-four, all rising in step with broadband spikes from the acoustic ranger.
 
-At the next table, someone dropped a tray of fasteners. There was a snort of laughter, brief and surprised.
+At the next table, someone dropped a tray of fasteners. There was a snort of laughter, brief and surprised, and Rasim grinned at the scatter.
 
 The condenser's nozzles ticked toward the sound.
 
 Ianthe caught the motion and killed target acquisition before the pumps started. The blue rim light blinked once over empty air.
 
-Rasim had seen it too. His amusement left his face. “You need someone outside the cone.”
+Rasim had seen it too. The grin went. “You can't watch that and the screen at once. You need somebody out there telling you where it's pointing.”
 
 “I need quiet.”
 
@@ -72,17 +78,15 @@ Its handles became too hot before every whistle, and each one startled its maker
 
 Ianthe enlarged the acoustic trace. She could isolate the false return if she watched the display. She could not watch the display, the nozzle array, the people crossing the range, and the water landing zone at the same time.
 
+The nearest free hands were Rasim's.
+
 “Record bearing and distance,” she said. “No commentary.”
 
-Rasim took the chalk reel from beneath her table. “People move.”
-
-“That is why you record distance.”
-
-“They move because of the water.” He hooked the reel to his belt. “Your log won't show which foot leaves the mat.”
+“You'll get your numbers.” Rasim took the chalk reel from beneath her table and hooked it to his belt. “But your log gets *three metres, moving west*. It won't get them jumping back into somebody's soldering,, and that's what people do when it rains on them.”
 
 She nearly withdrew the offer. Then the battery icon lost one of its six bars.
 
-“Bearing, distance, feet,” Ianthe said. “One variable per cycle.”
+“Bearing, distance, and where they put their feet,” Ianthe said. “I will change one setting per cycle.”
 
 Rasim nodded and began clearing paper, loose wiring, and a basket of seed packets out of the four-metre circle.
 
@@ -94,19 +98,17 @@ Instead, Ianthe lowered the condenser's pump pressure and let the festival provi
 
 “Target ambiguity at thirty-two degrees,” Ianthe said, reading the log.
 
-Rasim was wiping the thread tray. “And a person on each side reaches inward.”
+Rasim was wiping the thread tray. “Did you see them, though? Both of them put a hand out to it, like it was something dropped. Two people near one cloud and they'll both reach for it. Everybody does.”
 
-“That is not a sensor condition.”
-
-“It is where their hands go.”
-
-She added it to the margin of her replacement sheet.
+She added it to the margin of her replacement sheet, without the word *everybody*.
 
 The laughter pulses spread across the same frequencies the ranger used to distinguish humid air from hard surfaces. Firmware that should have rejected irregular noise was counting each rapid rise as a dense moving pocket. The nozzles aimed chilled microjets at that pocket. Aerosol caught the day's heavy air, coalesced, and made just enough weather to fall.
 
 Nothing about it was mysterious. That did not stop each new cloud from looking impossible.
 
 They hung briefly under the canopy, pale against its green panels, their edges stained blue by the targeting lights. Rain smelled of warm cork, clean copper, and basil from the planters. Each cloud collapsed as soon as its acoustic target faded or Ianthe closed the valve. The reservoir level fell in exact increments. The battery warmed beneath her palm.
+
+During the fourth cycle, a woman in a repair-court apron stopped at the chalk line, watched a cloud fall, and talked with Rasim for some time, pointing down the ramp. Ianthe was reading the log and did not look up.
 
 At the fifth cycle, the cloud edge flashed amber.
 
@@ -116,7 +118,7 @@ Rasim had crouched to trace the wet boundary. “The drops reach half a metre pa
 
 “In still air.”
 
-“There's a chair there.”
+“There's a chair right—”
 
 “Move it.”
 
@@ -128,21 +130,15 @@ Ianthe closed the valve. “There won't be a next time without a marked field.�
 
 The woman pressed her sleeve between finger and thumb. “Good.”
 
-Rasim watched her go. “She wasn't hurt.”
+Rasim watched her go. “It was a sleeve. She'll be dry before she's past the loom.”
 
-“That is not consent.”
+“Nobody warned her,” Ianthe said. “We were both watching the chalk.”
 
-“No. I know.” His gaze followed the cane tip as it avoided the darkened cork. “I thought she smiled at first.”
+“The girl didn't need warning. You saw her, she'd have stood under it all afternoon.” His gaze followed the cane tip as it avoided the darkened cork. “I thought this one smiled too, at first.”
 
-“You thought the child smiled, therefore the use was universal.”
-
-“I called it perfect.”
-
-“You had one wet child as evidence.”
+Ianthe wrote *sleeve, unwarned* beside the fifth cycle and said nothing.
 
 “I was wrong about the radius.” He pointed to the chalk arc rather than look at her. “And the chair.”
-
-Not about the machine, his tone implied. Not yet.
 
 The battery sounded its first descending note. Ianthe checked the remaining charge against the judging time. Restoring potable-water mode meant rewriting the noise filter, purging the lines, and holding the mesh at calibration temperature for eighteen uninterrupted minutes. She had enough charge if no one laughed nearby and nothing else went wrong.
 
@@ -160,23 +156,19 @@ He waited.
 
 Ianthe disliked waiting when the numbers were already present. “Not at validated yield.”
 
-Rasim swept his chalk marks with his shoe until only a broken wet circle remained. “The repair court asked if we could test there. Their shade bed is six degrees too warm, and the planting wick went dry when the west channel clogged.”
+Rasim swept his chalk marks with his shoe until only a broken wet circle remained. “The woman in the apron was from the repair court. Their fern bed's running six degrees hot, and the wick's baked dry in this sun. They'd like it tested down there. I said we'd come.”
 
-“This cannot supply scheduled irrigation.”
-
-“They didn't ask for scheduled irrigation.”
-
-“It also cannot cool everyone. Quiet people receive nothing. Wind over point-eight metres per second scatters the aerosol. The useful radius intersects their polished tile, and the second battery tone will occur in approximately twenty-six minutes under load.”
+“You said.” Ianthe kept her eyes on the filter. “Wind over point-eight metres per second scatters the aerosol. The useful radius intersects their polished tile. The second battery tone will occur in approximately twenty-six minutes under load.”
 
 He tipped his head toward the court. “So tell them that.”
 
-She had meant those facts as refusal. He had heard instructions.
+Ianthe looked at the firmware editor a moment longer, then closed it. They carried the condenser down between them, past Rasim's table, where the shade frame still leaned with its hinge half open. He didn't look at it.
 
 * * *
 
-The repair court occupied a sunken square between planter terraces. Its cork work floor drained toward a bed of mint and low shade ferns. One side, however, had been resurfaced with salvaged glass tile. The tiles were beautiful, cool, and almost frictionless when wet.
+The repair court occupied a sunken square between planter terraces. Its cork work floor sloped gently toward a bed of mint and low shade ferns. One side, however, had been resurfaced with salvaged glass tile. The tiles were beautiful, cool, and almost frictionless when wet.
 
-Ianthe placed the condenser at the border and spent six minutes measuring wind, slope, and nozzle reach. Rasim moved benches according to her marks, then moved them again after watching where people actually set their bags. The child with the repaired wheel returned and waited at the top of the ramp.
+Ianthe placed the condenser at the border and spent six minutes measuring wind, slope, and nozzle reach. When she stopped to frown at the tile, Rasim waved it off. “Anything the mats miss runs down into the ferns. The whole floor tips that way, look.” He moved benches according to her marks, then moved them again after watching where people actually set their bags. The child with the repaired wheel returned and waited at the top of the ramp.
 
 “Can I make it rain again?” she asked.
 
@@ -196,7 +188,7 @@ The condenser was in diagnostic-ready mode. Ianthe had disabled the pump but not
 
 Blue sharpened along the air above the child. A cloud swelled faster than the earlier ones, fed by the accumulator's trapped charge.
 
-“Inside edge,” Rasim called.
+“It's past the mat,” Rasim called. “Ianthe, the tile—”
 
 Rain struck the root-fibre mat, the child's shoulders, and the ferns below. Their curled leaves trembled open under the cool water. The temperature strip on the shade bed dropped through two coloured bands.
 
@@ -232,13 +224,13 @@ The child looked stricken. “I didn't mean to.”
 
 “You didn't switch it on,” Ianthe said. “I left pressure in the line.”
 
-Rasim stared at the tile. Water shone in a fan beyond the mat, exactly where he had assured her the drains would take it. “Half a metre past the light,” he said. His voice had lost its easy reach. “More at the south edge. The chair was outside. He was outside.”
+Rasim stared at the tile. Water lay in a fan across the glass beyond the mat, going nowhere near the ferns. “I said half a metre past the light,” he said. His voice had lost its easy reach. “It's more at the south edge. The woman's chair was outside the light. He was outside it.”
 
 “The light marks target centre, not fall radius.”
 
-“I know that now.” He touched the place where cork met tile. “No glass. No loose carts. No one standing with a foot across the seam.”
+“I know that now.” He touched the place where cork met tile. “Nothing near the glass. And the cart—” He didn't finish.
 
-He looked around the court and counted under his breath: the ramp, the chair space, the worktables with live circuits, the people who had not chosen rain. His gaze stopped at the child.
+He looked around the court and counted under his breath: the ramp, the benches he had moved twice, the worktables with live circuits, the father's heel on the seam, the woman's sleeve up at the tables. His gaze stopped at the child.
 
 “Not perfect,” he said. “Not beyond the cork.”
 
@@ -252,13 +244,9 @@ At the child's insistence, they added a small blue paddle at the entrance. Anyon
 
 The second battery tone sounded while Ianthe tested the cutoff. Lower than the first, it vibrated through the copper shell.
 
-“One demonstration,” she said.
+“One demonstration,” she said. “Then we lift the mats before anyone walks on them. Untrodden, they return sixty to seventy percent to the bed.”
 
-“And cleanup,” Rasim answered. He was leaning less on the planter now. “The mats will return most of it to the bed.”
-
-“Sixty to seventy percent, depending on foot traffic.”
-
-“No foot traffic until we lift them.”
+Rasim nodded, leaning less on the planter now, and went to tie a second cord across the mat edge.
 
 * * *
 
@@ -270,15 +258,15 @@ The judge arrived with damp cuffs from another entry and no patience for introdu
 
 The judge looked at the child waiting beyond the cord. “What are you entering?”
 
-Ianthe heard, too late, the question underneath the technical one.
+Ianthe followed her gaze to the child.
 
-“A supervised cooling and planter-watering device for small play or repair courts,” she said. “Not a drinking-water source. Not scheduled irrigation. Not general heat relief.”
+“A supervised cooling and planter-watering device for small play or repair courts,” she said. “It does not make drinking water, and it cannot keep a bed watered on its own.”
 
 “Who does it miss?”
 
 “Anyone who does not laugh, anyone who cannot or does not wish to enter the rain field, and anyone beyond the range. It is unsafe near smooth paving or exposed equipment.”
 
-Rasim crouched to flatten a lifted corner of mat. “The steward has to watch feet, not just faces. If the dry route gets crowded, we stop.”
+“I'll be on the dry route,” Rasim said, crouching to flatten a lifted corner of mat.
 
 The judge pressed the root fibre with her shoe. “Show me the cutoff first.”
 
@@ -302,7 +290,7 @@ Rasim watched the approaches. Ianthe watched pressure, wind, and charge. When th
 
 Ianthe cut the valve. The cloud dissolved before the child reached the boundary.
 
-The child's father wrapped a towel around her shoulders. A court worker checked the wick and said, “That'll hold until morning.” The judge put two fingers under the mat's edge to inspect the runoff.
+The child's father wrapped a towel around her shoulders. The woman in the repair-court apron checked the wick and said, “That'll hold until morning.” The judge put two fingers under the mat's edge to inspect the runoff.
 
 “How much water?” she asked.
 
@@ -322,25 +310,25 @@ Ianthe touched the tag once to make sure the knot would not slip. Then she check
 
 Rasim began lifting the wet mats from the tile side. “Your sheet says eighty minutes for cleaning.”
 
-“Seventy-four if you stop standing on the drain edge.”
+“Seventy-four if you stop standing on the mat you're lifting.”
 
 He moved his foot.
 
 * * *
 
-By late afternoon, the heat had withdrawn from the cork but not from the stone beneath it. Festival workers folded canopies one repaired panel at a time. Ianthe and Rasim wrung the catch mats into the planter channel, measured what they recovered, and dried every fitting before packing it.
+By late afternoon, the heat had withdrawn from the cork but not from the stone beneath it. Festival workers folded canopies one repaired panel at a time. Ianthe and Rasim wrung the catch mats over the fern bed, measured what they recovered, and dried every fitting before packing it.
 
-The condenser gave its third descending tone.
+The condenser gave its third descending tone. Ianthe took out the optical sensor she had used to align the nozzles. Rasim watched her set it on the case, then went looking for something blue.
 
 Rasim looked at the last red bar. “Enough for two samples?”
 
-“One active scan. Three passive.”
+“One active, or three passive.”
 
-“Wind is lifting.”
+“Wind's coming up.”
 
 Ianthe checked the ribbon on the nearest cord post. It flicked once toward the glass tile. “Three passive.”
 
-They carried the unit to a dry alcove behind the planter wall, away from feet and exposed circuits. Rasim found a square of blue scrap cloth. Ianthe connected the optical sensor she had used to align the nozzles and opened a fresh column in the log: visible opt-in signals, no pump output.
+They carried the unit to a dry alcove behind the planter wall, away from feet and exposed circuits. Rasim came back with a square of blue scrap cloth. Ianthe connected the sensor and opened a fresh column in the log: visible opt-in signals, no pump output.
 
 “Should I hold it still?” he asked.
 
