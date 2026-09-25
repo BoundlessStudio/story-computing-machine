@@ -8,13 +8,13 @@ canon: false
 
 # The Counted Road
 
-By the time the excavator reached the front step, Elsidra had painted two hundred meters of temporary centerline past the Talwin house, where she and Rovandis had grown up, and answered the same question about rain four times.
+By the time the excavator reached the front step, Elsidra had painted two hundred meters of temporary centerline past the Talwin house and answered the same question about rain four times.
 
 “Forty minutes,” she told the flagger through the open cab window. “If it starts before that, we close the lane and do it again.”
 
 Across the cones, the excavator bucket lifted the old stone threshold. A demolition worker crouched in the cavity it left and pulled out something black and narrow.
 
-Her mother moved faster than Elsidra had seen her move all day. Vaudessa ducked under the tape before the worker had straightened.
+Vaudessa Talwin moved faster than Elsidra had seen her move all day. She ducked under the tape before the worker had straightened.
 
 “Put that back.”
 
@@ -26,15 +26,15 @@ The worker held up an iron spike as long as his forearm. Its square head had bee
 
 He looked toward Elsidra, because Elsidra wore reflective orange and therefore appeared to be in charge of every machine on the street.
 
-She shut off the spray bar. “That’s my mother’s until handover. Bag it for her.”
+She shut off the spray bar. “It’s Vaudessa’s property until handover. Bag it for her.”
 
 “I don’t want it bagged.” Vaudessa did not take her eyes off the spike. “I want it back under the step. It was under that step before my mother was born.”
 
-Elsidra looked at the bucket, where the threshold stone hung in its teeth. “Mom. There isn’t a step.”
+Elsidra looked at the bucket, where the threshold stone hung in its teeth. “There isn’t a step.”
 
 Vaudessa held out both hands. The worker gave her the spike, and the grooves left four white hooks across her palms.
 
-Caelumar came out carrying the second battery for his delivery bike and a paper sack of screws he had promised to save for his father. He was the last of them still using the old house as if it might ask for one more favor. He checked the upstairs windows, pushed the gate until its loose latch caught, and swung onto the bike.
+Caelumar came out carrying the second battery for his delivery bike and a paper sack of screws he had promised to save for Rovandis. He was the last of them still using the old house as if it might ask for one more favor. He checked the upstairs windows, pushed the gate until its loose latch caught, and swung onto the bike.
 
 “You’ve got your rear light?” Elsidra called.
 
@@ -80,7 +80,7 @@ Her phone rang. Rovandis.
 
 “Did Caelumar change his first stop?” he asked.
 
-“I’m losing a line to rain, Rov. Ask dispatch.”
+“I’m losing a line to rain. Ask dispatch.”
 
 “Dispatch asked me. His first scan came up with no destination. So did the second. Three scans, same route, nothing on any of them, and he’s due at the print shop at nine-fifteen. He’s never late to the print shop.”
 
@@ -110,7 +110,7 @@ Silence, except for the tick of his freewheel.
 
 The line behind Elsidra’s rig trembled in its wet edges. The display read 6.0.
 
-Her phone chimed with a second call: Vaudessa. Elsidra merged it with Rovandis’s, and her mother said nothing at all. A sequence of vibrations traveled through the call: six blunt knocks, a pause, then six again.
+Her phone chimed with a second call, from Vaudessa. Elsidra merged it with Rovandis’s, and Vaudessa said nothing at all. A sequence of vibrations traveled through the call: six blunt knocks, a pause, then six again.
 
 “Your phone’s against something,” Elsidra said.
 
@@ -132,7 +132,7 @@ Elsidra watched the fresh hook reach for the unpainted lane as rain began tickin
 
 “Don’t move,” she told Caelumar.
 
-“Aunt Elsie, I’m in a traffic lane. There’s a truck right behind me.”
+“I’m in a traffic lane. There’s a truck right behind me.”
 
 “Move to safety. Then don’t choose a turn.”
 
@@ -142,11 +142,11 @@ The count stayed at six.
 
 * * *
 
-They met under the fuel-station canopy three blocks from the work zone. Vaudessa arrived in Rovandis’s van with the wrapped spike across her knees. Elsidra drove the paint rig over herself and left her crew to secure the roundabout and take their break.
+They met under the fuel-station canopy three blocks from the work zone. Vaudessa arrived in Rovandis’s van with the wrapped spike across her knees. Elsidra drove the paint rig there herself and left her crew to secure the roundabout and take their break.
 
 Rovandis spread his parcel scanner, two phones, and an old printed route sheet across the van’s hood.
 
-“Network’s up,” he said. “Dispatch can see every driver but him. They can call him, and he picks up, and they still can’t place him. I had them try twice, Elsie. Twice.”
+“Network’s up,” he said. “Dispatch can see every driver but him. They can call him, and he picks up, and they still can’t place him. I had them try twice. Twice.”
 
 Vaudessa pressed her fingertips into the cardigan. The phone beneath it gave six vibrations.
 
@@ -222,7 +222,7 @@ Rovandis reached for the gearshift again.
 
 Elsidra put her hand over it. “You don’t get another guess.”
 
-His hand stayed on the gearshift under hers. “He’s stopped in traffic, Elsie. He’s stopped in traffic with no route.”
+His hand stayed on the gearshift under hers. “He’s stopped in traffic, Elsidra. He’s stopped in traffic with no route.”
 
 “And every route we already know is feeding that thing.”
 
@@ -230,7 +230,7 @@ Vaudessa tilted the spike. One groove had darkened where her pulse pressed it. �
 
 Elsidra called Caelumar. Wind battered his microphone now.
 
-“Cael, it’s me. What’s your battery?”
+“Caelumar, it’s me. What’s your battery?”
 
 “The bike’s... forty-something. Forty-three. Phone’s nineteen. I keep checking it and it’s still nineteen.”
 
@@ -238,7 +238,7 @@ Elsidra called Caelumar. Wind battered his microphone now.
 
 “It’s a road. It’s old, there’s a patched bit along the edge. The trucks are really close. I haven’t turned. You said don’t, so I haven’t.”
 
-“Good. That’s right, Cael. Can you see any fresh road paint?”
+“Good. That’s right. Can you see any fresh road paint?”
 
 “No.”
 
@@ -260,7 +260,7 @@ For six seconds nothing happened. Then Caelumar said, “White dash,” and in t
 
 Vaudessa counted the vibrations against her palm. Three. She waited and counted again. Still three.
 
-Elsidra started the rig. Her mother was already climbing into the passenger seat with the spike held against her chest. “Rovandis, get your van behind me.”
+Vaudessa climbed into the passenger seat of the rig with the spike held against her chest. Elsidra started the engine. “Rovandis, get your van behind me.”
 
 Rovandis looked down the narrow service lane, then ran for the van.
 
@@ -282,7 +282,7 @@ Elsidra held the rig straight. “Why?”
 
 “A hook’s pulling.”
 
-Rovandis’s voice came through the speaker. “Pulling how, Mom? Are you all right?”
+Rovandis’s voice came through the speaker. “Pulling how? Are you all right?”
 
 “I don’t know. My hand keeps going straight.”
 
@@ -292,7 +292,7 @@ Rain silvered the lane and smeared the edges of every old marking. Elsidra kept 
 
 Rovandis laid on the horn.
 
-Elsidra leaned toward the phone on the dash. “One. Just one, Rov.”
+Elsidra leaned toward the phone on the dash. “One, Rovandis. Just one.”
 
 He released it, waited, and gave one short blast. Caelumar’s brake light burned red.
 
