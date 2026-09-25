@@ -110,7 +110,7 @@ It had discovered the way years after Garnet moved away, through a boy who wante
 
 The boy's brother had returned a rude drawing. The Entity still remembered the boy's laughter as he reproduced it.
 
-It had asked many children since then. Did they know Garnet? A girl of thirteen, with a gap where a tooth had never come? It had given them a description of someone who no longer existed in that form.
+It had asked many children since then. Did they know Garnet? A girl of thirteen, with a gap where a tooth had never come?
 
 “How do I go?” Cleo asked.
 
@@ -162,7 +162,7 @@ Cleo stood. The sea ran off her feet.
 
 “I can't tell her all that.”
 
-There were more houses. The Entity had not understood until now how many nights she thought it had turned her away.
+There were more houses. The Entity had not understood until now how many nights Garnet thought it had turned her away.
 
 “Stop. I don't know what you want me to say.”
 
