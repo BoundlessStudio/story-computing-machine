@@ -258,7 +258,7 @@ Faris turned first to Seyathi. “Arm the Missing Tessera, and before this hour 
 
 Every clause was true. The relics and debts had come to him over thirty-one years, the Yoke and the Tessera at Talarum, the Latch at Keruvan. Faris had shaped this promise only after those pieces met, and deliberately left one word out.
 
-Seyathi studied him and the six keystones. From her side, they appeared to be six strikes against the Yoke's six borrowed faces; the terminal connections stayed hidden until the Latch was seated. She looked at Faris a moment longer, the way she had looked at him on the Talarum stairs when she could not find them without his arm, and asked him nothing else.
+Seyathi studied him and the six keystones. From her side, they appeared to be six strikes against the Yoke's six borrowed faces; the terminal connections stayed hidden until the Latch was seated. She looked at Faris a moment longer, the way she had looked at him on the Talarum stairs when she could not find them without his arm, and asked him nothing.
 
 “Against the Yoke, within this hour,” she said. “I agree.” She pressed her thumb to the matte square and set it blank-side inward. Geometric light filled the first socket.
 

@@ -340,7 +340,7 @@ The west shutter hit concrete between the heroes and the ramp. Up the ramp, a lo
 
 Jonas's hand came up toward the shutter, the fingers half closed.
 
-He did not make another.
+He did not make another plane.
 
 "Pursuit?" he asked.
 

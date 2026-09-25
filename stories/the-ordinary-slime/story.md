@@ -260,7 +260,7 @@ Then the runner's board goes up again: the crest is coming in, and the upper gau
 
 The warden turns to the reed keeper. Rain shows silver through the vent behind him.
 
-He does not wait for her question. "They go blue by that spill every long rain once the beds are full. That tells me nothing. The beds I know. Two handspans open, the water's over the first terrace and into the second. Four, and the lower bank goes. Past one, with this much coming, the crop's lost today."
+He does not wait for her question. "They go blue by that spill every long rain once the beds are full. That tells me nothing. The beds I know. Two handspans open, the water's over the first two terraces. Four, and the lower bank goes. Past one, with this much coming, the crop's lost today."
 
 "Can we hold one?"
 
