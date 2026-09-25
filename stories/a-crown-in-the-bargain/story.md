@@ -28,7 +28,7 @@ His thumb stopped against the royal signet. The crown on the coverlet went still
 
 "You're reading me the bell schedule," Tareya said. "On our wedding night. I asked what you meant to do. The clerk can wake up whenever he likes."
 
-He looked toward the shuttered windows, though the rain there offered no counsel. "To enter our marriage into the succession register before dawn. With your herald counted beside mine, the general's proposed match for me stops being necessary, and the council can't call a fitness hearing to force it."
+He looked toward the shuttered windows, though the rain there offered no counsel. "To enter our marriage into the succession register before dawn. With your herald counted beside mine, the general's proposed match for me stops being necessary."
 
 Tareya lifted her hand. The fox stretched over the tendons. "And what happens to this?"
 
@@ -36,7 +36,7 @@ Tareya lifted her hand. The fox stretched over the tendons. "And what happens to
 
 She turned her hand, and the fox ran toward the white shape and stopped short of it. "Lovely. So when my road wardens need a judge, who picks him? Me, or somebody standing under that crown?"
 
-"It's only the order the heralds are read in. The older filings describe the relation as supportive, which is..." He did not say what it was.
+"It's only the order the heralds are read in. The older filings call the relation supportive."
 
 Osvan's mouth tightened. He had been fluent at the wedding table. He had numbered the council houses, the salt levies, and the years since a Solvane had entered Lumespire without having to check a single note. Now he glanced down at the articles as though an answer might have crawled under them.
 
@@ -220,7 +220,7 @@ She kept her eyes on the dead pane. "And if I took the ring off before we got to
 
 The chamberlain found something to adjust on the strap of the case.
 
-"Until the last bar goes dark," Osvan said. "Taking it off is a refusal. The clerk doesn't record it as one until the bar is gone." He seemed to hear how that sounded. "That's how the clerk reads it. I'm only telling you how the clerk reads it."
+"Until the last bar goes dark," Osvan said. "Taking it off is a refusal. The clerk doesn't record it as one until the bar is gone." He seemed to hear how that sounded. "I'm only telling you how the clerk reads it."
 
 The tender seated the new wick. The red fox leaped across the repaired pane.
 
@@ -376,7 +376,7 @@ The fox ran out across Lumespire. The hawk held its separate height. Their paths
 
 The chamberlain pulled the bell cord twice. "Separate placements witnessed. Parallel household registered."
 
-The final pale bar under the crown went dark.
+The last pale bars under the crown went dark.
 
 Tareya took her ring from the cup and put it back on. The gold was cold from the rain.
 
