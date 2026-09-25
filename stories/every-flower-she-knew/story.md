@@ -148,9 +148,9 @@ Only then did the healer open the basket. She read each tag before moving its pa
 
 “I heard.” The healer touched the old man’s wrist, counted, then crushed the single petal into his cup.
 
-At the other end of the table, the forewoman had already pulled the redspur tag from the outer pocket. “Before dark, you said.” She held the tag to the lamp. “It’s at the bottom step of the lower lane now. I’ve had the two good ones carrying for everybody since noon, and I sent one home at dusk who couldn’t close her hand, so it’s seven. Two can still lift without it. Just. One has the bad shoulder and gets none. That leaves—” Her hand made a quick division over the clay strip, then stopped. “Four. Four at the choke, two changing loads, and the shoulder watches the bank.”
+At the other end of the table, the forewoman had already pulled the redspur tag from the outer pocket. “Before dark, you said.” She held the tag to the lamp. “The water’s at the bottom step of the lower lane now. I’ve had the two good ones carrying for everybody since noon, and I sent one home at dusk who couldn’t close her hand, so it’s seven. Two can still lift without it. Just. One has the bad shoulder and gets none. That leaves—” Her hand made a quick division over the clay strip, then stopped. “Four. Four at the choke, two changing loads, and the shoulder watches the bank.”
 
-“Not the one by the wax,” Safra said. “That’s tomorrow’s.”
+“Not the third one,” Safra said. “That’s tomorrow’s.”
 
 The forewoman broke the other two stamens into four exact halves with the marked bone knife and folded each into its own square. “At the choke by half past nine,” she said, already at the door. “It’ll do, if it holds off.” She went out calling for the crew.
 
