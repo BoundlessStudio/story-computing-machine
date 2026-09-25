@@ -71,7 +71,7 @@ She wrote it. Beside my name she marked the two measures with a square of blue
 chalk.
 
 "Yara Mesk," she said, tapping her own chest. "Waterkeeper. Those go on
-recoverable hospitality credit, ration price. Pay in coin or work when your
+recoverable civic hospitality credit, ration price. Pay in coin or work when your
 hands stop shaking."
 
 My gratitude cooled. A debt entered in ink was still a hand around the ankle,
@@ -379,7 +379,7 @@ I opened my route book to the page where I had priced a new survey-grade
 sunwheel the year before and decided mine had another decade in it. The figure
 was more than I had cleared in my best season.
 
-I read it out. It came out rougher than I meant. "For a wheel of equal
+I read it aloud. It came out rougher than I meant. "For a wheel of equal
 balance. Delivered at city cost. Twenty days' wage for the delay. Another
 twenty to recut my bearings. Provisions till it reaches me."
 
@@ -451,8 +451,8 @@ Urumet's teeth showed. It stamped our receipt, and I signed under the
 crescent.
 
 Yara had kept the city's ledger open through all of it. Without being asked,
-she amended my line: the new wheel would go north on the first freight after
-the road opened, to the shelter beside the split-stone well, eight days up the
+she amended my line: the new wheel would go north as soon as the road
+opened, to the freight shelter beside the split-stone well, eight days up the
 marked road, with provisions while I waited there.
 
 Then she loaded the exchanger.
@@ -511,7 +511,7 @@ northbound provisions."
 "So the city's handing me water it already owes me."
 
 Yara nodded and went back to her columns. I drank the cup without asking to
-see the line.
+see the entry.
 
 My ruined sunwheel fit strangely in its case. The outer rings and five years of
 marks remained, but its center was an empty circle. Through it I could see a
