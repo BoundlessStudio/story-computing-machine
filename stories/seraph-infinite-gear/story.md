@@ -82,7 +82,7 @@ She had been going to ask exactly that.
 
 “For the light they're making?”
 
-“For ours, yes. My teacher always left that verse out. He thought it would offend the sun.” Sovekh rubbed his throat. “I put it back after he died. I wouldn't have dared while he could hear me.”
+“For ours, yes. My teacher always left that verse out. He thought it would offend the sun.” Sovekh tugged the embroidered collar away from his neck. “I put it back after he died. I wouldn't have dared while he could hear me.”
 
 She smiled at him. She had been enjoying the song; now she wanted to know about the man who had decided how it should be sung.
 
@@ -104,7 +104,7 @@ He rubbed a dark stain near his cuff. Below them, the trial sun deepened from ro
 
 She remembered three days of watching. She remembered entering the high cradle at the first enclosed dawn. She did not remember him.
 
-“Show me something besides your account.”
+“Show me something I can touch.”
 
 He took her around the hub, keeping well clear of her wings. On the inner face of a spoke, where the gold received no healing warmth from her touch, he had scratched seven groups of marks. Each held three long cuts. Smaller marks crowded the spaces between them. Along the platform stood empty food jars and a blanket polished thin at the shoulder.
 
@@ -112,7 +112,7 @@ He took her around the hub, keeping well clear of her wings. On the inner face o
 
 She pressed two fingers against the spoke. Its buried count rose through her bones: seven completed returns, each to the same dawn. This was the eighth approach to ignition. She had spent twenty-one days here beyond the three she could remember.
 
-The upper rings remained outside the return, keeping their occupants with them. He had climbed beyond its reach before the first enclosed dawn; there would never have been another Sovekh waiting on the ground. Even the jars could only empty once.
+The upper rings remained outside the return, keeping their occupants with them, and he had climbed beyond its reach before the first enclosed dawn. Even the jars could only empty once.
 
 Her shoulders ached. Until now she had taken the ache for the weight of descent.
 
@@ -122,7 +122,7 @@ His gaze flickered toward the root of her left wing.
 
 She turned it forward.
 
-Under the lowest feathers, a wheel no wider than her palm kept her own recollection separate from the country's returning time. Its inward coil held the sequence she had lived since the enclosure. Its outer rim could wind that recollection back, as far as the first enclosed dawn. It kept no spare record of what was unwound. Her body would remain where it was, with its hunger, its wear, its healed places.
+Under the lowest feathers, a wheel no wider than her palm kept her own recollection separate from the country's returning time. Its inward coil held everything she had lived since the enclosure. Wound back by the outer rim, as far as the first enclosed dawn, that sequence was simply lost, while her body kept its hunger, its wear, its healed places.
 
 One feather beside the rim was bent against its grain. Bronze dust lay in the little drive teeth.
 
@@ -168,7 +168,7 @@ Sovekh began to speak. She could see his mouth moving, but she had let the shaft
 
 “Why?”
 
-“The first time, after you turned the great gear, you asked me to stay.” He swallowed. “You wanted the rest of the song. I sang it badly. I was frightened, and you kept watching my mouth. We talked until the light changed.”
+“The first time, after you turned the great gear, you asked me to stay. You wanted the rest of the song. I sang it badly. I was frightened, and you kept watching my mouth. We talked until the light changed.”
 
 She could imagine it with awful ease: the warm feathers, his breath before a note, the pleasure of being kept waiting for something small.
 
@@ -186,7 +186,7 @@ She had wanted to show someone the high white plains for a very long time.
 
 “No. We stayed here. You said you had to learn why they kept opening the mirrors before you could leave.”
 
-“Then what happened?”
+She said nothing. He waited, then went on without her.
 
 “We had three days.” His face changed as he looked past her. “You tried to sleep standing up because the cradle wasn't made for two. You wouldn't tell me you were tired. I thought you'd gone quiet because I was boring you. Then your knee bent and you nearly took me through the floor.”
 
@@ -244,9 +244,9 @@ The bronze bar was still where she had first seen it. She saw now that its end w
 
 “You have to sleep after the turning. I knew that by then.”
 
-He made no attempt to soften it. Somehow that was worse than his first evasions. She put her palm against the great gear, and the country pressed upward through her: the terraces, the crowded stairways, the animals restless in their stalls beneath the growing light. Soon all of it would be unbearable to touch.
+He made no attempt to soften it. She put her palm against the great gear, and the country pressed upward through her: the terraces, the crowded stairways, the animals restless in their stalls beneath the growing light. Soon all of it would be unbearable to touch.
 
-“I remembered you,” he said. “Every time. You could wake up and look at me as if there'd never been anything. I still had all of it.”
+“I remembered you,” he said. “Every time. You'd come down and look at me as if there'd never been anything. I still had all of it.”
 
 She kept her hand against the gear. His words reached her through its deepening vibration.
 
@@ -254,9 +254,9 @@ She kept her hand against the gear. His words reached her through its deepening 
 
 “I can tell you.”
 
-“You left out the times I told you to go.”
+“You said I was angry. I had to ask twice.”
 
-He opened his mouth, closed it, then began the invocation. Quietly, without the public fullness of his singing voice. The phrase she had heard on her descent, with a small hesitation in a different place.
+He drew a singer's breath and began the invocation, quietly, without the public fullness of his voice. The phrase she had heard on her descent, with a small hesitation in a different place.
 
 For a moment she listened. Her anger did not make the sound ugly. That had been part of the pleasure too, perhaps: a man bringing something beautiful into the rings and being pleased when she heard it.
 
@@ -296,11 +296,11 @@ She could still remember Sovekh singing.
 
 For a while she could do nothing but stand against the gear. Her ivory dress clung to her back. The feathers nearest the small sealed wheel trembled independently of the others, and she had to wait for them to settle before she could fly.
 
-Sovekh got up. Below him the astronomers were waking to three days of preparation. The same rulers held their offices; the larger instrument stood ready for its final polish. She knew no more than before about what would make them stop. Through the cut of one narrow street she could see the council house, where she had watched messengers come and go. She had never gone down to hear what they were saying.
+Sovekh got up. Below him the astronomers were waking to three days of preparation. The same rulers held their offices; the larger instrument stood ready for its final polish. She knew no more than before about what would make them stop. Through the cut of one narrow street she could see the council house, where she had watched messengers come and go. In the days she remembered, she had never gone down to hear what they were saying.
 
 She would have to sleep. First she would take him down.
 
-At the edge of the platform she lowered one wing to make a seat against her side. He hesitated before climbing into it. He knew where to put his feet. She almost told him to move them, then found that they were correctly placed.
+At the edge of the platform she knelt and lowered both wings, leaving the seat between them. He hesitated before climbing into it. He knew where to put his feet. She almost told him to move them, then found that they were correctly placed.
 
 “Where were you meant to sing?”
 
@@ -308,7 +308,7 @@ He pointed toward a terrace below the instrument. “The blue platform.”
 
 They descended over the roofs she had seen torn loose. Morning smoke rose from cooking fires. A woman leaned out to shake a cloth, saw them passing, and let it fall from her hands.
 
-The platform was empty. Its blue boards had not yet acquired the scratches of the festival. The Seraph landed beside it and lowered her wing until Sovekh could step onto the ground.
+The platform was empty. Its blue boards had not yet acquired the scratches of the festival. The Seraph landed beside it and lowered her wings until Sovekh could step onto the ground.
 
 He kept one hand on a feather.
 
