@@ -304,7 +304,7 @@ He rubbed his newly freed wrist. "That's what I want."
 
 Viveca stood still long enough for Mabry to hear a car door slam round the corner. Arvid took another step toward the street. Mabry went with him.
 
-Viveca walked past them and pushed the front door shut.
+Viveca came up behind them and pushed the front door shut over Mabry's shoulder.
 
 Mabry reached for the latch. The blade struck her forearm. At first it seemed like a hard slap. Then her sleeve opened and blood ran over her hand.
 
@@ -356,7 +356,7 @@ Her father's eyes dropped to the old man, then returned to her face.
 
 "Then bring her back. I want her here."
 
-"Not her. Viveca, please. Not her."
+"If they bring her, you leave her alone."
 
 Viveca moved the knife enough to let him swallow. "You can look after her yourself."
 
