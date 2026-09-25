@@ -256,7 +256,7 @@ Idrella stopped long enough to shove her hat straight. Velzie had stopped too. H
 
 “That's our lane.”
 
-A triumphant cry came from behind the hedge, followed by Rumbit shouting, “Not there! Not in those!”
+A triumphant creak came from behind the hedge, followed by Rumbit shouting, “Not there! Not in those!”
 
 Velzie took Idrella's hand and dragged her through an open gate. They crossed a patch of cabbages, went through a second gate, and emerged among shirts hanging on a line. Rumbit dangled beneath the dragon, his head stuck in a white sleeve and one leg still hooked over Matchstick's back.
 
@@ -322,7 +322,7 @@ Velzie pulled free and lifted the lid off the blue dish. Matchstick bit into the
 
 “He sits here when Mother bakes,” she said. “I always put him here.”
 
-Idrella looked down the lane they had run, then back at the small wooden creature eating butter on his familiar table. Rumbit had climbed out of the bowl and was sitting with his legs spread, breathing hard. She went around to the door.
+Idrella looked down the lane they had run, then back at the small wooden creature eating butter. Rumbit had climbed out of the bowl and was sitting with his legs spread, breathing hard. She went around to the door.
 
 “I'm sorry about your kitchen,” she said when she came in.
 
