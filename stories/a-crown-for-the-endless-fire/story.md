@@ -198,7 +198,7 @@ I checked the far opening, the thirty paces of bare stone, the fire. “Then I c
 
 She checked the blue-white flame again and said nothing.
 
-I wrapped my burnt palm and went low. The bridge had no rail. At rail height, square sockets stood empty and packed with black scale. I kept three points against the stone. At the sixth pace, heat pressed through my boots. At the tenth, the fire below opened white lanes inside the orange, and awe took my count away. I could see no bottom, no fuel, no wall closing under us. Just motion going down past what sight could keep.
+I wrapped my burnt palm and went low. The bridge had no rail. Square rail sockets along its edges held nothing but black scale. I kept three points against the stone. At the sixth pace, heat pressed through my boots. At the tenth, the fire below opened white lanes inside the orange, and awe took my count away. I could see no bottom, no fuel, no wall closing under us. Just motion going down past what sight could keep.
 
 “Uldek.”
 
@@ -302,7 +302,7 @@ Then we took the service stair.
 
 It was longer than my direct route by enough that I complained twice. Lemra complained five times: about the stair pitch, about my pace, about the makers putting rest niches on the hotter side, and twice about the water being warm. At each fork she chose the landing; whenever the stair warmed, I tested the wall seams. We stopped three times to wet her neck pad and once to retie my palm.
 
-At the first cool junction, she sat with her back to the wall while I unwrapped the soaked neck pad. The skin beneath was bruised in two branching lines, and along the pad’s edge it had reddened and blistered in three places. I folded my clean cloth into a broad collar, wet it with some of what remained in the second skin, and held it while she tied it loosely.
+At the stair head, the first junction where the air ran cool, she sat with her back to the wall while I unwrapped the soaked neck pad. The skin beneath was bruised in two branching lines, and along the pad’s edge it had reddened and blistered in three places. I folded my clean cloth into a broad collar, wet it with some of what remained in the second skin, and held it while she tied it loosely.
 
 “Too tight?” I asked.
 
