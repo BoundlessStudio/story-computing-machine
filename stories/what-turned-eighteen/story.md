@@ -10,7 +10,7 @@ canon: false
 
 At four minutes to my birth minute, Maela stood on a chair and taped a mixing bowl over the bedroom vent.
 
-“That’ll starve you of air,” Jaro said from the doorway.
+“That’ll starve you of air,” my friend Jaro said from the doorway.
 
 “For nine minutes.” My mother pressed the tape down with both thumbs. “Arlon can breathe in the hall.”
 
@@ -232,7 +232,7 @@ Jaro served the cake. Its icing said HAPPY EIGHTEENTH, ARLON, though the final N
 
 Jaro peered at the body nearest him. I opened its mouth. He leaned back. “Tiny teeth. Fine. A culinary adaptation.”
 
-I tasted icing through eight mouths at once. Sweetness did not multiply. It spread. Lemon arrived at the left edge of me; sugar at the right; a crumb of almond became briefly more important than the whole sky. I made the green glow and a warm low chord.
+I tasted icing through all nine mouths at once. Sweetness did not multiply. It spread. Lemon arrived at the left edge of me; sugar at the right; a crumb of almond became briefly more important than the whole sky. I made the green glow and a warm low chord.
 
 “Good?” Maela asked.
 
