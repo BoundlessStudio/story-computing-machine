@@ -78,7 +78,7 @@ The side door opened before Wesley could revise the terms. Beatriz came through 
 
 Wesley took the box. Jamar accepted the cable and made a dignified show of not looking at him.
 
-Beatriz put the run sheets on the front row. "The Friday check-in volunteer canceled. The replacement says maybe, which is no. I moved the student quintet to close the show, after the auction, the food delivery window is now five-fifteen to five-forty, and the upstairs storage lock is sticking again."
+Beatriz put the run sheets on the front row. "The Friday check-in volunteer canceled. The replacement says maybe, which is no. I moved the student quintet to close the show, after the auction. The food delivery window is now five-fifteen to five-forty, and the upstairs storage lock is sticking again."
 
 "How was the contract orientation?" Wesley asked.
 
@@ -140,7 +140,7 @@ At four-fifty-two, the replacement check-in volunteer sent a message containing 
 
 Wesley sat behind the lobby table with a cash box, a printed guest list, and Jamar leaning over his shoulder.
 
-"She assigned you to the money," Jamar said, not quietly enough. "The money, Wes! You know who she doesn't assign to the money?"
+"She assigned you to the money," Jamar said, not quietly enough. "The money, Wesley! You know who she doesn't assign to the money?"
 
 "She assigned me because you invented platinum-level raffle tickets last time."
 
