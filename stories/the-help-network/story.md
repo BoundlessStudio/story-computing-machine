@@ -10,9 +10,9 @@ canon: false
 
 On the third afternoon after the showcase, Cassia balanced an index card on her knee in the back stairwell at Northbridge Secondary and wrote **BACKUP CONTACTS** across the top.
 
-The phone beside her shoe was warm from messages. It had been quiet during the two mission-free nights they had promised one another—properly quiet, with the compromised relay disconnected and no copied voice telling anyone what to do. Then the other girls around town had begun asking questions.
+The phone beside her shoe was warm from messages. It had been quiet during the two mission-free nights they had promised one another—properly quiet, with the compromised relay disconnected and no copied voice telling anyone what to do. On the second night Bryn had sent a two-line warning about copied voices, under their three aliases and nothing else, to the few girls they already knew around town. The questions had started coming back the next day.
 
-Not civilian questions. Nobody offered a surname, a school, or a face. A girl who watched the rail yards wanted to know how Mothlight's team had realized their channel was wrong. Someone near the river sent a seven-second voice note consisting of wind, traffic, and, eventually, *Do you have another number if yours goes bad?* A third person typed that she was “asking for later,” then added three question marks when no one replied for eleven minutes.
+Nobody offered a surname, a school, or a face. A girl who watched the rail yards wanted to know how Mothlight's team had realized their channel was wrong. Someone near the river sent a seven-second voice note consisting of wind, traffic, and, eventually, *Do you have another number if yours goes bad?* A third person typed that she was “asking for later,” then added three question marks when no one replied for eleven minutes.
 
 “We give them ours, they give us theirs,” Cassia said. “That's it.”
 
@@ -28,15 +28,17 @@ Bryn sat one step above them with foam plugs in her ears, though the stairwell w
 
 “Recovery snacks?” Cassia suggested.
 
-“That's worse.”
+“That's worse,” Drita said.
 
-She took the card back. Under Drita's new heading, **CONTACTS—ASK BEFORE FORWARDING**, Bryn made four columns: alias, offered help, limits, and permission to pass the contact onward. Cassia added a fifth for when the person was usually awake. Drita drew a hard line through it.
+She wrote a new heading, **CONTACTS—ASK BEFORE FORWARDING**, and passed the card up to Bryn, who gave up on her note and ruled four columns: alias, offered help, limits, and permission to pass the contact onward. Cassia leaned over and added a fifth for when the person was usually awake. Drita drew a hard line through it.
 
 “Time window,” she said. “Not sleep schedule.”
 
 “Right. Obviously. I knew that.”
 
-Cassia had not known it. That was why it felt good to have all three of them there, reducing a huge soft wish into things that could fit on a card.
+“I know you did,” Drita said.
+
+It felt good to have all three of them there, cutting a huge soft wish down to things that could fit on a card.
 
 The first entries were uneven. One girl offered rooftop sightlines but not pursuit. Another would stay on a call after a frightening transformation, but only by text and never past her household's bedtime. Someone else wrote, *can carry heavy / cannot do blood*, then asked that the last part not be forwarded. Cassia put down Mothlight, listening and relay, **any time**.
 
@@ -44,21 +46,21 @@ Drita crossed out **any**.
 
 “I mean it,” Cassia said.
 
-“That's the problem.” Drita replaced it with **evenings, usually**. Then, after a moment, she added **okay to forward** and pushed the card back.
+Drita wrote **evenings, usually** in the margin beside it. Then, after a moment, she added **okay to forward** and pushed the card back.
 
 They photographed it against the gray stair tread. Bryn sent the image to four alias-only contacts. One of those contacts asked permission and sent it to two more.
 
-By the time the late bus groaned into the school loop, the card had left their hands.
+By the time the late bus groaned into the school loop, the photograph had left their hands.
 
 * * *
 
 The first altered copy came back with a tea ring over Cassia's entry and the word **SOURCE?** squeezed into Bryn's columns.
 
-That addition arrived because a warning about blue sparks in a storm drain had traveled across town as if it applied to every drain, every kind of magic, and perhaps the color blue. By lunch, three people had stayed away from a harmless blue-painted mural. By dinner, the girl who had actually seen the sparks wrote, with some irritation, that the problem had been one leaking charm under one particular grate.
+That addition arrived because a warning about blue sparks at a bus shelter had traveled across town as if it applied to every shelter, every kind of magic, and perhaps the color blue. By lunch, three people had stayed away from a harmless blue-painted mural. By dinner, the girl who had actually seen the sparks wrote, with some irritation, that the problem had been one leaking charm wedged behind the timetable at one particular stop.
 
 Bryn began tagging messages **SAW IT**, **HEARD IT**, or **GUESSING**. Other people changed the words to versions they liked better. Cassia liked **GUESSING**, because it made uncertainty sound less like failure.
 
-The requests were rarely grand. Someone wanted company on the walk from a bus stop because a false alarm had left her shaking. Cassia stayed in her earbud and described the dog in the apartment window until the girl reached home. Someone asked whether terrible hunger after using magic meant something was wrong. Cassia wrote that it happened to *her* after too many decoys, then passed the question to two girls whose costs were different. A check-in about a closed underpass became gossip about a cape caught in a bicycle wheel. The owner of the cape entered the thread to say the cape had behaved with dignity and the bicycle had not.
+The requests were rarely grand. Someone wanted company on the walk from a bus stop because a false alarm had left her shaking. Cassia stayed in her earbud and described the dog in the apartment window until the girl reached home. Someone asked whether terrible hunger after using magic meant something was wrong. Cassia wrote that it happened to *her* after too many decoys, then passed the question to two girls whose magic ran on different systems with different costs. A check-in about a closed underpass became gossip about a cape caught in a bicycle wheel. The owner of the cape entered the thread to say the cape had behaved with dignity and the bicycle had not.
 
 Cassia answered through algebra, through the scrape of dinner plates, through her mother calling from the kitchen that the recycling would not develop legs. She learned the little pulse of usefulness: a question, the brief open space before anyone replied, then her own thumbs filling it.
 
@@ -98,21 +100,21 @@ The card crossed oceans by ordinary means. A girl carried a copy on a family vis
 
 There were mornings when a girl's after-school message arrived while Cassia brushed her teeth, and nights when the background of a voice note held breakfast dishes. A joke about a monster's manners crossed two translations and returned as *the disaster is wearing polite shoes*. Cassia laughed so hard she had to sit down. The original sender reacted with a baffled face, then asked to have the broken version back.
 
-Help looped through the same hands. The girl from the bus stop later kept a dawn check-in for somebody else. A person who had once asked what to eat after transforming became the bridge for a language Cassia did not speak. She translated *stay warm* as *stay in light*; the requester sent a photograph of one blanket corner, a third person corrected the phrase, and all three reacted with laughing faces. Cassia had introduced none of them.
+Help looped through the same hands. The girl from the bus stop later kept a dawn check-in for somebody else. A person who had once asked what to eat after transforming became the bridge for a language Cassia did not speak. The new bridge translated *stay warm* as *stay in light*; the girl who had asked sent a photograph of one blanket corner, a third person corrected the phrase, and all three reacted with laughing faces. Cassia had introduced none of them.
 
 The name appeared near the middle of the term.
 
 **MAGICAL GIRL'S HELP NETWORK**, said a clean printed card photographed on a striped blanket. Beneath it, in smaller type: **Local contacts choose local practice. Ask before passing private details.**
 
-“The apostrophe is wrong,” Drita said.
+“The apostrophe is wrong,” Drita said across the lunch table.
 
 “It could be singular possessive,” Bryn said. “A network for a magical girl's help.”
 
-“That is worse.”
+Drita put her forehead on the table beside her tray. “Bryn.”
 
 Cassia enlarged the photograph. Three translated versions of the name ran along the bottom. “It's kind of sweet.”
 
-“It sounds like one magical girl owns all the help.”
+“It sounds like one magical girl owns all the help,” Drita said.
 
 “Maybe she's very generous.”
 
@@ -126,19 +128,19 @@ Bryn tried to make a master list. It lasted four days. Two contacts changed thei
 
 “They're using it,” Cassia said.
 
-“Those aren't opposites.”
+“I know.” Bryn scrolled to a sixth version and made a small noise. “I am not upset that they are using it.”
 
-“Your face thinks they are.”
+“Your face thinks you are.”
 
-She sent her a look over the top of her phone. Drita snorted.
+Bryn sent Cassia a look over the top of her phone. Drita snorted.
 
 Cassia offered to keep the routes instead—not a master list, exactly, only a place where she knew who might know whom. She saved screenshots and remembered time windows. If a message stalled, she nudged it. If two replies crossed, she reconciled them. When someone else answered first, relief came with a small, embarrassing pinch, like arriving at a door with soup and finding the person had already eaten.
 
-She never told Drita or Bryn about the pinch. She told herself it meant she cared.
+She never told Drita or Bryn about the pinch.
 
 * * *
 
-Months after the index card left the stairwell, Cassia woke to her phone shivering against the wooden floor beside her bed.
+Months after the first photograph left the stairwell, Cassia woke to her phone shivering against the wooden floor beside her bed.
 
 The charging cable worked only when bent beneath a textbook. The phone was at nineteen percent and hot enough to leave a red patch in her palm. On the screen, a request had passed through four relays. Each had removed something before sending it onward.
 
@@ -150,7 +152,7 @@ The charging cable worked only when bent beneath a textbook. The phone was at ni
 >
 > Need someone remain.
 
-Cassia sat up. Her room emerged in pieces: heap of uniform on the chair, glow-in-the-dark stars fading above the window, water glass within reach. She typed before she was fully awake.
+Cassia sat up. Her room emerged in pieces: heap of uniform on the chair, glow-in-the-dark stars fading above the window, water glass within reach. She typed before she was fully awake, and her thumb hit send in the middle of a word.
 
 > Are they with you? Can you say if you're indoors? Do they know your civilian—
 
@@ -162,11 +164,11 @@ Then, almost at once:
 
 > Sorry. She said no place.
 
-Cassia deleted the unfinished questions. In the main thread, the requester wrote:
+Cassia unsent the questions. The small seen mark had already appeared under them. In the main thread, the requester wrote:
 
 > No body. No call. Do not ask sky.
 
-Someone must have asked for a window photograph before the request reached them. Cassia imagined four strangers trying to help and each making the same frightened grab for certainty.
+Someone upstream must have asked for a window photograph. Cassia had just asked the girl whether she was indoors. She pictured the four relays ahead of her, each making the same frightened grab for certainty, and her own question arriving fifth.
 
 Bryn came online. Her first message was only **reading**. Her second filled the screen: preserve the original messages, mute the contact if that would not make things worse, do not follow links, consider whether the contact could be copied, consider whether the contact could be real but coerced, consider local emergency services if there was an immediate physical threat—
 
@@ -176,7 +178,7 @@ The requester interrupted her.
 
 Bryn's typing indicator vanished.
 
-A relay posted a machine translation of an earlier line: **I am not danger.** Someone asked whether that meant the requester was safe or whether she meant she was not a danger to others. Another person replied to the wrong interpretation. Three dots appeared and disappeared beside the requester's blank icon.
+A relay posted a machine translation of an earlier line: **I am not danger.** Someone asked whether that meant the requester was safe or whether she meant she was not a danger to others. Another person answered the other reading. Three dots appeared and disappeared beside the requester's blank icon.
 
 Cassia wanted to gather every loose thread before it tightened around the person at the other end. She wanted one fact she could trust. A voice, a landmark, the shape of a focus token—anything. The want frightened her more when she recognized it.
 
@@ -208,7 +210,7 @@ The requester returned with a corrected translation chosen from two versions off
 
 Cassia began, *We know exactly—* and erased it. They did not.
 
-> Something similar happened to three of us, she wrote. A trusted voice told us to transform. We treated the order as a reason to disconnect. That was our case, not a rule for yours.
+> Something like this happened to us, she wrote. A voice we trusted said transform. We didn't.
 
 Drita added:
 
@@ -226,45 +228,47 @@ Bryn reacted to that message instead of replying. In the side channel, she wrote
 
 Drita replied:
 
-> Ask one thing.
+> Yes. Just that.
 
 Cassia offered choices in the main thread: a dot at agreed intervals, silence with the channel open, or a relay to someone the requester herself selected. The requester chose one dot every five minutes and asked whether a person nearer to her could take over.
 
-Not *find me somebody*. Not *tell me whom to trust*.
+> I choose, she added. You carry request only. Do not carry reason.
 
-> I choose, she wrote. You carry request only. Do not carry reason.
+The regional relay was a girl who kept contacts for the clusters nearest the requester; she had carried the request its last leg. She said she could send the requester a private list of people the requester had already exchanged messages with. Cassia would not see the list. Neither would Bryn or Drita. The requester could pick one, or none, and the chosen person would receive only this: **Can you be present now? No call unless asked.**
 
-The regional relay said it could send her a private list of people with whom she had already exchanged messages. Cassia would not see the list. Neither would Bryn or Drita. The requester could pick one, or none, and the chosen person would receive only this: **Can you be present now? No call unless asked.**
+In the side channel, Bryn sent half a line.
 
-Bryn typed, *We cannot authenticate—*
+> We cannot authenticate—
 
-Cassia watched the words appear in the side channel.
+> I know, Cassia wrote. I hate that part too.
 
-> She isn't asking us to authenticate her, she wrote. She's asking us to carry what she chose.
+> It is still true, Bryn wrote.
 
-Bryn's half-message disappeared.
+Then Bryn's half-message disappeared. The second one stayed.
 
-> Yes, she answered.
+Before the first mark, Drita wrote in the side channel: **One interval each, then let other people have it. We have school.** Bryn reacted with a thumbs-up. Cassia sent **ok**.
 
 At the next five-minute mark, Cassia sent a dot. Five minutes later Drita sent one. Then a person whose waking hours usually overlapped none of theirs took the interval after that. Another helper posted from her lunch break. The dots were not perfectly spaced. Two arrived together; the requester responded with **one only please**, and Cassia put both hands under her thighs to keep from apologizing into the thread.
 
-Her interval came around again. Before she could send, a dot appeared from the regional relay.
+Near four in the morning, nobody had claimed the next mark. Cassia had already had her interval. She typed a dot anyway and held it there. Before she could send, a dot appeared from the regional relay.
 
-> I've got this one, it wrote.
+> I've got this one, she wrote.
 
-Cassia's thumbs hovered. She had promised to remain. Leaving felt like breaking the promise, even though nobody had asked *her* in particular to make it.
+Cassia did not send her dot and did not delete it either. She had promised to remain. Leaving felt like breaking the promise, even though nobody had asked *her* in particular to make it.
 
 Drita called her privately. Cassia answered without video.
 
-“You're doing the face,” Drita said.
+“The relay girl's got that one,” Drita said. Her voice was rough with sleep. “And you're typing. I can see it.”
 
-“You can't see my face.”
+“I wasn't going to send it.”
 
-“I can hear it.” Her voice was rough with sleep. “One interval. We each said one.”
+“Okay.” Something rustled on Drita's end, a blanket or a pillow.
 
 “What if the handoff goes wrong?”
 
-“Then the people in it tell us what they want next.” Drita yawned, swallowed it, and started again. “I mean—we don't decide from here.”
+Drita yawned, swallowed it, and started again. “I don't know.” She was quiet long enough that Cassia checked the call was still connected. “Stay on with me till the next dot?”
+
+Cassia deleted her dot and stayed on.
 
 On the main thread, the requester wrote:
 
@@ -276,15 +280,15 @@ One last message came back by permission.
 
 > I have company I chose. Stop the outer thread.
 
-That was not *safe*. It was not proof. Cassia waited for a second sentence until the screen began to dim again.
+Cassia waited for a second sentence until the screen began to dim again.
 
 None came.
 
-She closed the thread.
+On the call, Drita's breathing had gone slow and even. Cassia hung up and closed the thread.
 
 * * *
 
-The next version of the card reached Cassia as a photograph while she sat cross-legged on her bedroom rug. It carried the same disputed name and no list of officers. The offered-help columns differed by cluster. So did the hours, the labels for uncertain information, and the way each group ended a request. Along one edge, in several hands, people had added a common instruction: **The requester decides what confirmation travels back.**
+The next version of the card reached Cassia as a photograph while she sat cross-legged on her bedroom rug. It carried the same disputed name and no list of officers. The offered-help columns differed by cluster. So did the hours, the labels for uncertain information, and the way each group ended a request. Along one edge, in several hands, people had added the same small instruction: **When a request is finished, write CLOSED.**
 
 Bryn sent a proposed central document to the trio, then withdrew it before Cassia opened it.
 
@@ -294,9 +298,9 @@ Bryn sent a proposed central document to the trio, then withdrew it before Cassi
 
 > No.
 
-Drita sent a laughing reaction, followed by a photograph of their first card. Cassia's **any time** remained visible beneath the line through it.
+Drita sent a laughing reaction, followed by a photograph of their first card. The **any** in Cassia's entry was still legible under Drita's line.
 
-Cassia took the old card from her desk drawer. She changed her own entry again, slowly enough not to make a ceremony of it: **evenings, if awake; okay to forward**.
+Cassia took the old card from her desk drawer and changed her entry again: **evenings, if awake; okay to forward**.
 
 Her phone warmed in her other hand. A new request had entered through a contact she did not recognize. Before she could open it, one reply appeared from someone whose day was beginning and another from someone complaining that she ought to be asleep. One offered to listen. The other asked permission to pass the message closer.
 
@@ -308,4 +312,4 @@ Cassia photographed the empty wrapper.
 
 > Evidence inconclusive, she wrote.
 
-Bryn replied with the polite-shoes joke, still wrong after all those translations. Drita accused them both. Cassia put the phone beside her on the rug and let it cool while the network went on answering.
+Bryn replied with the polite-shoes joke, still wrong after all those translations. Drita accused them both. Cassia put the phone beside her on the rug and let it cool.
