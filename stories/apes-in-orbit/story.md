@@ -12,7 +12,7 @@ The fragment would not lie flat in the council well.
 
 Qemri set one foot against its blackened curve while two porters worked the sling loose. The thing was no larger than an egg, but its weight bowed the map tiles beneath it. White packing fibers clung to one scorched edge. On the other, a row of metal sockets had melted into small silver mouths.
 
-Grit kept falling from the folds of her hide. She was warden of the south hatchery. She had left it while the roof was still ticking itself apart, and every time she moved, another pinch of that place landed on the council floor.
+Grit kept falling from the folds of her hide. She had left the south hatchery while the roof was still ticking itself apart, and every time she moved, another pinch of that place landed on the council floor.
 
 “Put the basin under it,” said Sulekk, who chaired the council.
 
@@ -20,7 +20,7 @@ The map keeper dragged the floor image eastward until the old blue contour of th
 
 “That is not its full body,” Qemri said. “That is what came through the heat gallery.”
 
-Across the well, a road councillor leaned over the rail. His tail displaced a stool, which struck the cart steward’s ankle. Neither looked down.
+Across the well, a road councillor leaned over the rail. His tail displaced a stool, which struck the water steward’s ankle. Neither looked down.
 
 “The gallery stood after the strike,” he said. “If it stood, the south road stays open.”
 
@@ -30,7 +30,7 @@ The chamber doors scraped open. A hatchery messenger squeezed through sideways, 
 
 Qemri stepped off the fragment. “How many?”
 
-“No crushed eggs. Two carriers burned. The heat trunk cracked where it crosses the west loop.” He looked at the cart steward, not Qemri. “We need the reserve carts now.”
+“No crushed eggs. Two carriers burned. The heat trunk cracked where it crosses the west loop.” He looked at the water steward, not Qemri. “We need the reserve carts now.”
 
 “They’re loading.”
 
@@ -56,7 +56,7 @@ Qemri’s bad shoulder tightened. “That spread is wrong.”
 
 “The center, yes. The jacket strips. These fibers make wide pieces, and the guidance block makes fast ones.” Brinnt pointed at three dense red clusters. “North terrace. Long stairs. Your east shelter mouth.”
 
-The cart steward broke off her call. “How fast?”
+The water steward broke off her call. “How fast?”
 
 “Fast enough that you don’t send carts through there.”
 
@@ -110,7 +110,7 @@ Qemri crossed the well before Oxaul could retreat into qualifications. “You ha
 
 Oxaul’s throat feathers flattened. “The trace station is still recording.”
 
-“Then we go to it,” Sulekk said. She glanced at the clock. “Eighty-four minutes. Carts stay here. The rest of you, carry the mesh and cases.”
+“Then we go to it,” Sulekk said. She glanced at the clock. “Eighty-four minutes. The water steward stays here. The rest of you, carry the mesh and cases.”
 
 The trace instruments occupied an alcove built when the council had believed one polished lens and a patient observer could answer every orbital question. New frames had been bolted around the old stone. Cables crossed the floor under rubber humps. Qemri stepped over them; Brinnt did not, but pulled up each hump to inspect the cable beneath before placing a plated foot.
 
@@ -214,7 +214,7 @@ Brinnt closed the tool case. “Full fragmentation or a full-strength echo. The 
 
 Oxaul looked down at the moving arc. “Yes.”
 
-Qemri had expected another qualification. Before she found a new attack, Sulekk stepped between them, and Qemri had to pull her horns back from the instrument frame. “Seventy-two minutes. Brinnt: after amplification, what remains?”
+Qemri had expected another qualification. Before she found a new attack, Sulekk stepped between them, forcing her own horns back from the instrument frame. “Seventy-two minutes. Brinnt: after amplification, what remains?”
 
 “A third charge if I narrow the pulse.”
 
@@ -228,7 +228,7 @@ Brinnt put a yellow curve across the display. It passed just above the horizon o
 
 The road councillor pushed forward. “Thirty-one egg sledges are waiting at my north ramp. You fire, they go. You tap at the sky, they sit until your yellow line, because nobody can tell them which way to run.” He jabbed at the ninth arc. “Every driver is from my district, and every one will know who parked them under that.”
 
-From the well chamber came the clang of the cart steward’s call plate and her voice demanding a cart count.
+From the well chamber came the clang of the water steward’s call plate and her voice demanding a cart count.
 
 Sulekk looked toward it. “She wants a cart count. Go give her one.”
 
@@ -260,7 +260,7 @@ They carried the cases back to the well. No one announced a new position. Sulekk
 
 Sulekk was already turning to the next runner. “Four is what I have. Mark where it starts and come back.”
 
-At fifty-eight minutes, the granary member reported that two draft teams had balked at the tunnel mouth. At fifty-three, the cart steward lost a wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
+At fifty-eight minutes, the north-road member reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
 
 Qemri took the handset. “Position?”
 
@@ -284,7 +284,7 @@ He bent over the terrain plot, changing height values. “Not fully. Move nine l
 
 “With what?”
 
-The cart steward, still listening, said, “A cart axle. There’s a broken one at the west loop.”
+The water steward, still listening, said, “A cart axle. There’s a broken one at the west loop.”
 
 “Get it,” Qemri told the runner. “Report when tied.”
 
@@ -306,7 +306,7 @@ The hatchery messenger had returned. He stood near the door, holding his strappe
 
 Qemri pressed her palm beside Sulekk’s. “Yes.”
 
-Several councillors objected at once. Sulekk did not call for order. She pointed the cart steward toward the outer chamber, sent the granary member to count cleared shelters, and told the road councillor to keep one ramp open until the last possible minute. Their objections went with them, still audible through the door.
+Several councillors objected at once. Sulekk did not call for order. She pointed the water steward toward the outer chamber, sent the granary member to count cleared shelters, and told the road councillor to keep one ramp open until the last possible minute. Their objections went with them, still audible through the door.
 
 At twenty-one minutes, the incoming object began its final range sequence.
 
@@ -442,7 +442,7 @@ The descent clock reached zero and began counting upward.
 
 They reconvened around the map well because the control rail was needed for recharging. No one put the stools back. Brinnt’s model now showed the next three orbital passes and the hours required to refill the coil bank. On the floor, the old blue basin remained partly hidden by the fragment.
 
-The road councillor wanted full discharge on the next descent. The cart steward wanted no answer sent to the apes until her carts were free of the hatchery repairs. Neither had softened. Both were gray with quarry dust.
+The road councillor wanted full discharge on the next descent. The water steward wanted no answer sent to the apes until her carts were free of the hatchery repairs. Neither had softened. Both were gray with quarry dust.
 
 Sulekk listened until they repeated themselves.
 
@@ -464,9 +464,9 @@ Brinnt didn’t look up. “Then find draft teams.”
 
 “Get them out.”
 
-The cart steward had waited through all of it. “I object.”
+The water steward had waited through all of it. “I object.”
 
-“Recorded. Send two carts to the quarry.”
+“Recorded,” Sulekk said. “Send two carts to the quarry.”
 
 “They’re already moving.”
 
