@@ -64,7 +64,7 @@ His eyes went still before the rest of him did. Then he laughed too quickly. “
 
 Sivra dragged him up by his collar. “Shoes.”
 
-The dead transistor radio on the office shelf snapped alive.
+The dead radio on the office shelf snapped alive.
 
 “A revision,” the Jester said, almost pleased. The new groove hissed beneath him. “Our guest has let his sister collar him. Predictable, but touching. Olt, the woman from room six is waiting where you broke your glass. She would like you to remember her.”
 
