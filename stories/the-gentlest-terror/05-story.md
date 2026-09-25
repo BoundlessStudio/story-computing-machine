@@ -577,9 +577,9 @@ Nyrzath's gold eye rested on her.
 
 As her last words faded, Lord Ruvik emerged behind Nyrzath with Olyra's scarf
 cupped in his hands and a row of small pecks across his knuckles. The swallow
-had fought every hand in the quarry shed; the only place it had ever kept
-still was Nyrzath's mouth. Sheltered from the court by the bandaged wing,
-Nyrzath quenched the glow behind his teeth and accepted it onto his tongue.
+had fought every hand in the quarry shed; it had kept still for no one but
+Nyrzath. Sheltered from the court by the bandaged wing, he quenched the glow
+behind his teeth and accepted it onto his tongue.
 
 Then he bent toward Olyra.
 
