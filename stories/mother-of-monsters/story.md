@@ -216,7 +216,7 @@ They carried the crock out by the kitchen door.
 
 The ledge met the upper switchback behind the waiting point company. Below, refugees spilled from the wrenched-open undercroft gate and divided. Nacre’s smaller group emerged farther down through a crack in the ravine wall, their shuttered light blinking over bad footholds. Broad-bodied beasts took the exposed traverse in single file. The wounded went between them where the path widened. Kritt had stopped at the far turn to throw medicine bags across a washout one at a time; when someone reached back for him, he bared his teeth and threw the second bag instead.
 
-Chask set the charge against the unsupported face of the switchback. Here the blast could spend itself into open air. Here the falling shelf would tear away the host’s only road up and cover the traverse after the last refugee crossed it.
+Chask sent two sappers to move the point company up the shelf toward the breach, out of the fall line. She set the charge against the unsupported face of the switchback. Here the blast could spend itself into open air. Here the falling shelf would tear away the host’s only road up and cover the traverse after the last refugee crossed it.
 
 The captain came through the smoke with four soldiers. “The chainhouse, Lieutenant.”
 
