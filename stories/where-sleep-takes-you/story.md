@@ -12,35 +12,39 @@ At four minutes past four, Cira Keln clipped the storage-unit key inside her bel
 
 "Key, phone, ledger slot," she said, touching each part of the pouch. The phone had its own tether under the zipper. Her wrist tag showed a steady green bar. "Nothing loose on me."
 
-Pevin rested both hands on the empty flat cart. He had spent the morning removing its bent wheel and putting on a sound one. The cart rolled straight now, which was the sort of answer he preferred to give. "Van nose out. Lift route clear."
+Pevin rested both hands on the empty flat cart. He had spent the morning taking off its bent wheel and putting on a sound one. "Van's backed in nose-out. I've had the lift down twice. It's slow, but nobody else is using it."
 
-"If I stop answering, stop moving stock," Cira said. "If my location comes through, don't leave unless I tell you. If the call drops, finish the last confirmed load and wait."
+"If I go," Cira said, "don't come looking for me unless I ask. Keep sorting, and nothing goes down to the van that I haven't seen."
 
-"Confirmed."
+"And if the call drops?"
 
-The attendant held a tablet between them. Behind him, the corridor of storage doors ran under white lights to the loading bay. "Access ends at six. The clearance contractor takes possession then. Anything remaining may be removed, and the clearance charge goes to the account holder. I can witness authorization by live call, but I can't accept blanket disposal instructions."
+"Finish the load I last said yes to. Then wait for me."
 
-"There won't be blanket instructions," Cira said.
+He nodded and kicked the brake off the cart.
 
-"And I can't extend the time."
+The attendant held a tablet between them. Behind him, the corridor of storage doors ran under white lights to the loading bay. "Access ends at six," he said. "The clearance contractor takes possession of anything left, and the clearance charge goes to the account holder."
 
-Cira looked past him into the unit. Four years of a closed instrument-repair shop had been compressed into twelve square metres: grey client trays on the left shelves, tools and standards on the right, obsolete housings in crates below, the steel bench at the back. Pevin had lettered the aisle in chalk on the concrete, leaving a body-width strip clear. The labels all faced inward, because a month's notice had made speed feel simple.
+"If I'm called away," Cira said, "can I still release things to Pevin? He isn't on the account."
+
+"By live call, if I can hear you. I witness each release, and anything you give up, so the charge matches the record." He turned the tablet toward her. "Item by item. I can't take an instruction to clear whatever's left."
+
+Cira looked past him into the unit. Her instrument-repair shop had run for four years before its lease ended in the spring, and everything it still owned or owed had been compressed into twelve square metres: grey client trays on the left shelves, tools and standards on the right, obsolete housings in crates below, the steel bench at the back. Pevin had lettered the aisle in chalk on the concrete, leaving a body-width strip clear. The landlord had given a month's notice, and they had packed fast, cases and crates stacked handle-out with their labels to the wall.
 
 At thirty-eight, Cira had practiced many versions of leaving. This one had a hired van, a two-hour booking, one trusted former shopmate, and no authority over what stayed after six.
 
-The attendant turned the tablet toward her. Cira read the authorization, chose the item-by-item option, and signed. Pevin pointed at the client shelves.
+She read the form, named Pevin as the person she would release items to, and signed. Pevin pointed at the client shelves.
 
-"Fastest is records, tools, metal by weight. We can sort the rest at the bay."
+"Quickest is records first, then tools, then the housings and anything heavy, low down so the van rides level. We can sort trays at the bay."
 
-"Client by client," Cira said. "Records beside property. Closed claims separate from property still owed."
+"Client by client," Cira said. "Each tray with its paperwork. Closed jobs apart from anything we still owe back."
 
-"More crossings."
+"That's twice the runs to the van."
 
 "Fewer calls tomorrow from people whose gauge we lost."
 
-Pevin set the first empty tote on the cart. "Client by client."
+Pevin set the first empty tote on the cart. "Top shelf, then."
 
-They began with the upper shelves. Cira read the labels; Pevin matched each tray to its paper sleeve, then moved the pair to the cart. There was no need to discuss why his reach took the high rows and hers the waist-level ones, or why the clear strip remained clear even when it cost them a better angle. Their agreements had been made before the clock started.
+They began with the upper shelves. Cira read the labels; Pevin matched each tray to its paper sleeve, then moved the pair to the cart. His reach took the high rows and hers the waist-level ones, and the clear strip stayed clear even where it cost them a better angle. They had settled all that before the clock started.
 
 Drowsiness did not move Cira. Closing her eyes did not move her. A loss of muscle tone could put her on the floor without sending her anywhere. Only the actual crossing into sleep triggered the displacement, once for each onset, and she had to wake before sleep could begin again.
 
@@ -58,69 +62,67 @@ A pressure snap pushed loose lint away from her arriving body. Cold vinyl presse
 
 She lay still until the room held one shape. No cart. No tray. Her clothes, clipped key, zipped pouch, phone, and tag had come. Nothing loose could have. No other person ever did.
 
-The tag showed an onset time of 4:18. The location line changed from SEARCHING to SENT, but there was no floor number. There never was. Coordinates described a point on a map after displacement; they did not say which level of a building had received her, and they had never told sleep where to send her.
+The tag showed an onset time of 4:18. The location line changed from SEARCHING to SENT, but there was no floor number. There never was.
 
 Cira sat up. Six washers, six dryers, a folding table, no windows. The handle moved, but the electronic lock held. On the wall, a service card gave the building's street number and an after-hours telephone line.
 
 Her phone rang before she finished reading it.
 
-"Laundry room," she told Pevin. "Locked. Address matches your dot. No floor."
+"Somebody's laundry room," she told Pevin. "Door's locked. The card here says 40 Callow Street. Is that what the tag sent you?"
 
-Behind his face on the screen, the storage shelves remained in order. He had not abandoned them to chase a coordinate. "Do you need me there?"
+Behind his face on the screen, the storage shelves remained in order. "It's got you east of us, about a kilometre. Doesn't say what floor. Do you need me there?"
 
-"No. Call the number I'm sending. Tell them an adult is locked in their laundry room and can verify by video. Keep sorting client trays. No disposal."
+"No. I'll ring the number on the card. You keep sorting."
 
-"Last confirmed load only."
+"I've got one load built. Start another?"
 
-"You can build the next one. Don't send it down."
+"Build it. Keep it in the unit till I've seen it."
 
 He nodded once and ended the call.
 
-Cira photographed the service card and sent it. Then she called the same number herself. The person who answered asked whether she had forced entry. Cira held the camera on the unmarked inside of the door, then on the tag log, then on her face. She gave her name and the room's number from the machine-maintenance sheet. Someone with access would come.
+Cira called the after-hours line. The person who answered asked whether she had forced entry. Cira held the camera on the unmarked inside of the door, then on the tag log, then on her face. She gave her name and the room's number from the maintenance sheet taped above the dryers. Someone with access would come.
 
-Waiting used nineteen minutes. Cira sat on the folding table because the floor's chill had climbed through her trousers. The tag's strobe timed out; she left it off. Strobes made her visible after an arrival. Vibration helped wake her. Neither one chose a safe surface, and neither made the person with the key arrive sooner.
+Waiting used nineteen minutes. Cira sat on the folding table because the floor's chill had climbed through her trousers. The tag's strobe timed out, and she left it off. There was nobody here to see it.
 
-When building staff opened the door, they did not ask for a demonstration. They checked her identification, wrote down the time, and led her through two fire doors to a lobby she had never seen. The storage facility lay nine blocks away, inside the old 1.5-kilometre circle around the unit. The laundry room had been one body-sized supported surface among all the eligible ones in that circle. There was no reason it had won.
+When building staff opened the door, they checked her identification, wrote down the time, and led her through two fire doors to a lobby she had never seen. The storage facility lay nine blocks away, well inside the 1.5-kilometre circle around the unit.
 
 Cira hired a car rather than spend more of the booking on the walk. By the time she returned, the fare and the wait had consumed thirty-seven minutes of their buffer.
 
 Pevin had staged two loads inside the unit. He stood aside so she could see every label before anything crossed the threshold.
 
-"Second tote," she said. "The blue tray is active, not closed. Its sleeve slid underneath."
+"Second tote," she said. "The blue tray isn't closed. Hollis is still waiting on that barometer, and its sleeve's slid underneath."
 
-He crouched, found the sleeve, and shifted both together. "Active."
+He crouched, found the sleeve, and shifted both together.
 
-She pointed to a foam case in the tool stack. "That doesn't go with the client beside it. Calibration standard. Right side."
+She pointed to a foam case in the tool stack. "That isn't the Ardens'. It's a calibration standard. Right side."
 
-Pevin moved it without defending the first placement. That was another reason he was here.
+"Top or bottom?" Pevin asked, already lifting it.
 
-At five oh-two, Cira changed the categories. Client records and property first. Then calibrated tools and standards. Then the one taped personal box from beneath the bench. Shelving could go. Empty housings could go. The bench, which had held its level through two moves and thousands of adjustments, became a loss they would accept if the clock required it.
+At five oh-two, Cira changed the order. Client records and property first. Then calibrated tools and standards. Then the one taped personal box from beneath the bench. Shelving could go. Empty housings could go. The bench, which had held its level through two moves and thousands of adjustments, became a loss they would accept if the clock required it.
 
-Pevin looked from the bench to the loading-bay route. "With the lift clear, the bench is twelve minutes."
+Pevin looked from the bench to the loading-bay route. "Lift's clear. I could have the bench down in twelve minutes."
 
-"Plus straps. Plus the corner. No."
+"Twelve minutes is the Arden trays and the Moss claims," Cira said. "Leave it."
 
-"No bench."
+He ran a hand along the bench top. "Shame. It's still dead level."
 
-"And stop if I can't make item decisions. Not if I sound tired. If I can't answer the item."
+"I know." She kept her eyes on the trays. "One more thing. If I start to sound slow, or I slur, don't stop for that. If I can still tell you where a tray goes, keep going."
 
-He stood with one hand on the flat cart, checking the load in his head. "Records, property, calibrated tools, personal box. No bench. I don't substitute my judgment if you're gone. I don't take an extra run without a confirmed list, even if it fits."
+"How do I tell the difference?"
 
-He was overconfirming. Once, as agreed, while there was still room for correction.
+"Ask me about a tray."
 
-Cira pointed at the client trays. "Yes. Work."
+He looked at her a moment longer, then nodded. Cira pointed at the client trays, and they went back to work.
 
-For the next nine minutes, they did. Pevin pushed the completed load toward the bay while Cira pulled the next labels into view. The attendant witnessed her authorize the first grouped transfer, then returned to the corridor desk. He did not offer advice. At five twelve he called through the open door, "Forty-eight minutes."
+For nine minutes the order held. Pevin pushed the completed load toward the bay while Cira pulled the next labels into view. The attendant witnessed her release the first grouped transfer, then returned to the corridor desk. At five twelve he called through the open door, "Forty-eight minutes."
 
-Cira was kneeling beside the calibrated-tool stack with the ledger open on a crate. The line she wanted would not hold still. She blinked, waited, tried it again. The words returned, but the heaviness behind them did not recede.
+Cira was kneeling beside the calibrated-tool stack with the ledger open on a crate. The line she wanted would not hold still. She blinked, waited, tried it again. The words came back, but the heaviness behind them stayed.
 
-"Case on the floor," she said.
+The cart rattled round the corner. Pevin saw her face and put the brake on.
 
-The large tool case was too bulky to secure to her body. She slid it clear of her knees for Pevin and put the ledger into its narrow pocket inside her pouch. Zip. Clip. She checked both.
+"Case on the floor," she said, and slid the large tool case clear of her knees toward him. It was too bulky to clip to her body. She put the ledger into its narrow pocket inside her pouch. Zip. Clip. She checked both.
 
-Pevin came back around the corner. He saw her sit in the clear strip with her shoulder against concrete. He put the cart brake on and waited.
-
-Cira did not bargain for another minute. Staying awake was not a route through this. "Clear."
+Pevin stayed where he was. She moved into the clear strip and set her shoulder against the concrete. "Clear."
 
 At 5:14, sleep began.
 
@@ -128,7 +130,7 @@ The pressure snap pushed grit outward across black roofing membrane.
 
 Cira woke on her side under a hard white sky. Wind flattened her jacket against her ribs. The tag pulsed at her wrist and strobed against a low metal duct; beyond it, a fan turned behind a wire guard. She killed the strobe, rolled away from the fan housing, and sat with one palm planted on the dry roof.
 
-Water shivered in a shallow depression two metres away. A parapet stood knee-high along the nearest edge. The selector excluded arrival inside solid matter, in liquid, on a moving vehicle, or anywhere without support. Those were the exclusions. A dry patch on an exposed service roof counted. So could a wet supported surface, locked access, cold and the ordinary hazards beside it.
+Water shivered in a shallow depression two metres away. A parapet stood knee-high along the nearest edge.
 
 The onset log had saved. GPS found her near the far edge of the 1.5-kilometre circle around the unit and transmitted the coordinates when the tag caught signal. Now that she had arrived, any later onset here would start with this roof as its departure. The old circle offered no path home.
 
@@ -136,39 +138,51 @@ The roof door was locked from her side. A yellow sign beside it listed a facilit
 
 Pevin's call arrived as audio only.
 
-"Roof," Cira said. "Controlled door. Wet areas, low parapet, fan. I'm clear of all three."
+"Roof," Cira said. "Somebody's roof. I'm sitting down, back from the edge."
 
-"I'm at the unit. The large case stayed."
+"Are you hurt?"
 
-"Good. Keep it for the next load. Put the attendant on speaker."
+"No. Cold."
 
-The attendant's voice came from farther away. "Forty-one minutes. I can witness the call if I can hear you. I cannot delay close for access at your location."
+"The big case is still here where you left it."
 
-"Witness and time," Cira said. "Nothing else."
+"Leave it there. It can go on the last run. Is the attendant with you?"
 
-"Understood."
+The attendant's voice came from farther away. "Forty-one minutes. I can hear you, Ms Keln."
 
-Cira called the roof number. Building staff could release her, but nobody with the right access was on site. She gave the door identifier and sent a photograph when data returned. The estimate was thirty to fifty minutes. Even the good edge of that estimate left too little time for a car back, the unit corridor and a load.
+"Thanks," Cira said.
 
-She sat with her back to the door, away from the roof edge, and opened Pevin's video. The image resolved into the front wheels of the flat cart.
+She called the roof number. Building staff could release her, but nobody with the right access was on site. She gave the door identifier and sent a photograph when data returned. The estimate was thirty to fifty minutes. Even the good edge of that estimate left too little time for a car back, the unit corridor and a load.
 
-"Show labels," she said.
+She sat with her back to the door, away from the roof edge, and switched Pevin's call to video. She left her own camera off to spare the one bar. His picture resolved into the front wheels of the flat cart.
 
-Pevin lifted the camera. Three cases and two archive crates filled the screen, all seen from the handle side. "These ride together. Cases low, crates behind. One trip to the van."
+"Show me the labels," she said.
+
+Pevin lifted the camera. Three cases and two archive crates filled the screen, all seen from the handle side. "This lot's one trip. Cases on the bottom, crates behind. If one crate stays, both optical fixtures fit in its place, stood on end."
 
 "Labels first. Left to right."
 
 "If I turn them, I lose the load order."
 
-"Camera moves. Stock doesn't."
+"Don't turn anything. Walk the phone round to them."
 
 The screen froze on his sleeve, returned as a wash of squares, then cleared. Pevin unhooked the phone from the cart handle. He moved to the leftmost case and waited.
 
 "Closer," Cira said. She read the label. "Keep. Next."
 
-He shifted the camera, not the stock. The second case held setting blocks whose certificates had expired, but the blocks could be recertified. "Keep. Next."
+The second case held setting blocks whose certificates had expired.
 
-The third was an empty shell. "Leave. Crates now. Label only."
+"Keep," Cira said. "Next." Then: "Wait. Go back. Which one did I just... go back."
+
+Pevin went back to the first case and held it there, then to the second, and held that too. Over the wind she heard him breathe out.
+
+"These blocks," he said. "Out of certificate since March. What happens to them?"
+
+"Hanlon recertifies them. Forty a set." She had to reach for the number, but it was there. "Keep. Next."
+
+He moved the camera to the third case. It was an empty shell.
+
+"Leave that one," she said. "Crates now. Just the labels."
 
 One crate carried closed invoices required for the final accounts. The other showed a torn archive label under a strip of tape. Cira asked Pevin to tilt the camera. Data broke before the smaller writing came into focus.
 
@@ -176,11 +190,11 @@ One crate carried closed invoices required for the final accounts. The other sho
 
 "Thirty-two minutes," the attendant said.
 
-The picture returned. Cira saw `18C` and the end of `CLAIMS` through the blur. That crate belonged with records, not stock. "Keep both crates. First authorization: two cases, two crates. Empty shell stays."
+The picture returned. Cira saw `18C` and the end of `CLAIMS` through the blur. That crate belonged with the records. "Keep both crates. Release two cases and two crates. The empty shell stays."
 
-The attendant repeated the count, not her reasons. "Witnessed."
+The attendant read the count back to her. "Witnessed."
 
-Pevin loaded. When the call dropped, Cira had nothing to do but look at the locked roof door and hold her place in the sequence. Wanting the storage unit had no weight; neither fear nor calm changed the odds. No medication schedule, spoken instruction, training or device could predict the random choice or lean it toward the storage facility. What remained was the sequence after arrival: find where she was, make the call, decide what happened elsewhere.
+Pevin loaded. When the call dropped, Cira had nothing to do but look at the locked roof door and hold her place in the sequence. The wind kept finding the gap at her collar.
 
 The video resumed from the loading bay. Pevin showed the cart entering the van, then set the camera where Cira could see him place the two cases against the forward wall and strap them. He put the crates behind them. The process took seven minutes.
 
@@ -188,33 +202,33 @@ The video resumed from the loading bay. Pevin showed the cart entering the van, 
 
 Cira heard wheels and, behind him, the attendant calling, "Twenty-one minutes."
 
-The next image came in fragments: ceiling, Pevin's shoulder, the chalk aisle, then the large tool case she had left. He set the phone on a shelf facing the labels. Beside the case were two heavy optical fixtures and the taped personal box. The fixtures belonged to the shop, not to clients. They could be sold. The tool case held the calibrated reference kit needed to finish three returns.
+The next image came in fragments: ceiling, Pevin's shoulder, the chalk aisle, then the large tool case she had left. He set the phone on a shelf facing the labels. Beside the case were two heavy optical fixtures and the taped personal box. The fixtures were the shop's own and could be sold. The tool case held the calibrated reference kit needed to finish three returns.
 
-"Case first," Cira said. "Personal box. Fixtures if time."
+"Case first," Cira said. "Then the box. The fixtures if there's time."
 
-Pevin studied the shapes, then the route. "Case and box are one cart. I can come back for both fixtures if the lift is here."
+Pevin studied the shapes, then the route. "Case and box make one cart. If the lift's still down here, I can come back for the fixtures."
 
-"Countdown."
+"Fourteen minutes," the attendant said from the corridor.
 
-"Fourteen minutes," the attendant said. "Last entry to this corridor is at five fifty-two. Anyone past the gate after six delays contractor possession and incurs an additional lock-in charge. I cannot authorize that."
-
-Pevin looked toward the corridor, measuring turns Cira could not see. "I can take one fixture with the case. It makes the cart wide at the corner."
+Pevin looked toward the corridor, measuring turns Cira could not see. "Or I put one fixture on with the case. It makes the cart wide at the corner, but I've had wider round it."
 
 Cira pictured the case handle, the fixture feet, the concrete lip at the lift. "No. Case and box."
 
-"One fixture by hand after."
+"Those two would buy you a new bench, Cira." He turned toward the desk. "If I come back for them after, am I all right?"
 
-"No extra trip."
+"Last entry to this corridor is five fifty-two," the attendant said. "Anyone still past the gate at six holds up the contractor, and the account pays a lock-in charge on top."
+
+"If that lift sticks on the way back," Cira said, "you're shut in there with the contractor and I'm up on a roof. I'm not doing that to you. Case and box."
 
 He stopped. For a moment she heard only the roof fan and the faint rattle of the cart through his phone.
 
-Then Pevin angled the camera toward the personal box. Its tape was grey with dust, but her block letters were visible. He waited.
+Then Pevin took the phone off the shelf and angled it down until the personal box and the nearer fixture sat side by side in the frame. The box's tape was grey with dust, but her block letters were visible. He waited.
 
-Cira pointed at the screen before remembering he could not see her hand in an audio drop. "Box confirmed. Load."
+Cira pointed at the screen before remembering that her own camera was off. "The box. Box confirmed. Load."
 
 He moved.
 
-The staff member coming to the roof called at 5:53 to say they had entered the building. Cira kept the line short and returned to Pevin's video. He was at the loading-bay corner. The wide case cleared it with centimetres to spare. The attendant appeared only long enough to say, "Six minutes. The remaining contents transfer to the contractor at six. Clearance fee will apply."
+The staff member coming to the roof called at 5:53 to say they had entered the building. Cira kept the line short and returned to Pevin's video. He was at the loading-bay corner. The wide case cleared it with centimetres to spare. The attendant appeared only long enough to say, "Six minutes."
 
 "Witness abandonment," Cira said. "Steel bench, two optical fixtures, shelving, obsolete housings, unselected contents. No further access by Pevin."
 
@@ -224,13 +238,13 @@ Pevin's camera showed the van floor as he pushed the case aboard. Cira heard the
 
 "Straps," she said.
 
-He showed each buckle after tightening it. Then he stepped out of the van and waited beside the cart. He did not tell her the bench might still fit if he ran. He did not tell her what she should have chosen.
+He showed each buckle after tightening it. Then he stepped out of the van and waited beside the cart. He did not tell her what she should have chosen.
 
 At six, the attendant closed the corridor gate. The sound reached Cira as a metallic shudder through Pevin's phone.
 
-The roof door opened at 6:04. Building staff checked Cira's identification against the call record, then took her down a service stair. By then Pevin had moved the van out of the contractor's lane and parked at the far end of the loading bay. Cira hired another car. She spent the ride with the ledger open on her lap, making a list she would have to revise when she saw what they actually had.
+The roof door opened at 6:04. Building staff checked Cira's identification against the call record, then took her down a service stair. By then Pevin had moved the van out of the contractor's lane and parked at the far end of the loading bay. Cira hired another car to the bay and booked one more for seven to take her home; the van was going to Pevin's lock-up on the other side of town. She spent the ride with the ledger open on her lap, making a list she would have to revise when she saw what they actually had.
 
-Pevin had lowered the cart when she arrived. The attendant stood near the bay door with the completed witness record. He gave Cira the clearance amount, confirmed that the contractor had possession of the remainder, and left when she said she had no procedural question.
+Pevin had lowered the cart when she arrived. The attendant stood near the bay door with the completed witness record. He gave Cira the clearance amount, confirmed that the contractor had possession of the remainder, asked whether she had any questions, and left when she said no.
 
 The van smelled of canvas straps and old paper. Cira climbed in, sat on the floor just inside the doors and checked the tag. No new onset. The two transmitted locations and times were present; the laundry-room signal delay was marked. She saved the log, then began the inventory.
 
@@ -242,11 +256,11 @@ Inside were obsolete switch housings wrapped in invoices from eight years ago. T
 
 Pevin held one housing, looked at the label, and put it back. "Wrong crate."
 
-"Mine," Cira said. The choice had been hers, made from a broken picture under a clock. That did not make the contents different. She drew a line through `claims archive` in the ledger and wrote `obsolete housings`.
+"My call," Cira said. She drew a line through `claims archive` in the ledger and wrote `obsolete housings`.
 
-"The sleeve may be in the other crate," Pevin said.
+"The sleeve might be in the other one," Pevin said.
 
-"Open that next. Then photograph every tray before unloading. Labels facing camera."
+"Maybe. Photographs first. Every tray, labels to the camera, before anything comes off."
 
 He set the phone on the van floor and adjusted it until the first row of labels filled the frame. Cira moved the personal box out of the shot and buckled it to the wall ring beside her. Tomorrow she would call the three clients whose returns depended on the reference kit. Tonight she would request the contractor's recovery price for the fixtures and decline it if the fee crossed the replacement threshold. The bench did not need another decision.
 
