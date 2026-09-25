@@ -12,7 +12,7 @@ On Saturday morning, a yellow strip crossed the unplugged countertop mixer: **DO
 
 “Fifteen centimetres,” she said. “Ten minutes.”
 
-Miles checked the exhaust fan, burner knobs, taps, drain plug, door, and mixer cord. “Air still. Water off. Machines dead. Route clear.” He lifted both ordinary battery radios. They resisted splashes, not soaking; hers sat snug beneath her sleeve, dry and well under the two-hundred-and-fifty-gram limit for things she could take with her. “Radio check.”
+Miles checked the exhaust fan, burner knobs, taps, drain plug, door, and mixer cord. “Air still. Water off. Machines dead. Route clear.” He clipped on his own battery radio and checked hers, snug beneath her sleeve, dry and well under the two-hundred-and-fifty-gram limit for things she could take with her. Both were splash-resistant and nothing more. “Radio check.”
 
 “You are standing half a metre away.”
 
@@ -20,9 +20,9 @@ Miles checked the exhaust fan, burner knobs, taps, drain plug, door, and mixer c
 
 Her voice crackled from his speaker. “Your devotion to procedure remains extremely attractive.”
 
-Luz took one controlled breath to a five-count. The change belonged wholly to her; Miles could neither start nor stop it. Over the next five seconds, she diminished smoothly toward the height she had chosen until she stood fifteen centimetres tall on the mat, still unmistakably the adult woman who had shared his apartment, bills, and terrible weekend breakfasts for four years.
+Luz took one controlled breath to a five-count. Nothing Miles did could start the change or stop it. Over the next five seconds she diminished smoothly until she stood fifteen centimetres tall on the mat, still unmistakably the adult woman who had shared his apartment, bills, and terrible weekend breakfasts for four years.
 
-Because she was below half her ordinary height, her own living process would begin an automatic return at twenty-four minutes. Miles started independent timers for twenty and twenty-three, warnings that neither controlled nor extended the change. She planned to be done long before either sounded. He opened the shallow emergency tray: flashlight, glucose gel, utility cord, and a dry towel folded into a ramp.
+Below half her height, her body would bring her back up on its own at twenty-four minutes, finished or not. Miles started separate timers for twenty and twenty-three, which could warn her and do nothing else. She planned to be done long before either sounded. He opened the shallow emergency tray: flashlight, glucose gel, utility cord, and a dry towel folded into a ramp.
 
 Luz glanced at the card beside the spool. “One tug, stop. Two, pull steadily. Three, give slack. Did you think we forgot overnight?”
 
@@ -32,7 +32,7 @@ Luz glanced at the card beside the spool. “One tug, stop. Two, pull steadily. 
 
 “Only the dangerous direction.”
 
-She laughed and climbed the towel into the dry mixer housing. At that size, short falls worried him less than moving parts or drafts. She weighed very little and could scale the internal ribs easily, but useful relative strength did not grant full-sized torque. Their rule was plain: Miles did not touch, lift, enclose, or carry her without a direct request. He steadied the unplugged housing, never her, while she reset its jammed latch with a screwdriver she had kept against bare skin during the change. Anything loose would have remained behind at ordinary size; anything picked up now remained whatever size it already was.
+She laughed and climbed the towel into the dry mixer housing. At that size a short fall worried him less than a moving part or a draft. She weighed next to nothing and went up the internal ribs like a ladder, but climbing well never gave her full-sized torque. Their rule was plain: Miles did not touch, lift, enclose, or carry her without a direct request. He steadied the unplugged housing, never her, while she reset its jammed latch with a screwdriver she had held against bare skin as she changed. Held things came down with her. Loose things stayed full-sized, and so did anything she picked up once she was small, which was the whole point of an ordinary cord in the tray.
 
 Eight minutes later she descended without help and stepped onto the mat.
 
@@ -44,7 +44,7 @@ Her fingers trembled faintly against his.
 
 “Hungry.” Luz withdrew her hand and reached for toast. “Which is your fault. You turned breakfast into a safety audit.”
 
-They logged eight minutes and the tremor together, then added toast, water, and a warm mug to the recovery. The record was supposed to be shared evidence, not permission Miles issued. For six hours Luz would not start another safe cycle; attempting one sooner risked an immediate uncontrolled return and a much longer recovery.
+They logged it together, eight minutes, slight tremor, hungry, then added toast, water, and a warm mug. The log was meant to be something they both read. Miles reminded himself of that whenever he was the one holding the pen. There would be no second cycle for six hours; trying one sooner could throw her back to full size without warning and leave her wiped out far longer.
 
 Miles looked at the untouched glucose gel, then at the protocol sheet. Checking its boxes was easier than asking why he had seen that tremor before.
 
@@ -72,13 +72,13 @@ After a fan had kicked on during a routine two months earlier, Miles had added t
 
 “Water moves harder at your size,” he said. “Cold hits you faster. Pipes have edges, gaps—”
 
-“All useful facts. None of them lets you turn our checklist into your list of permissions.”
+“I know. So say it to me.” Her voice had gone tight. “When did you even write that?”
 
 “It’s one line.”
 
-“About what I may do with my body.”
+“About my body.”
 
-He wanted to say he was only trying to keep her safe. The sentence felt noble right up until he imagined hearing it from someone who had edited his choices while he slept.
+He wanted to say he was only trying to keep her safe.
 
 “The fan was a near miss,” he said instead.
 
@@ -86,7 +86,7 @@ He wanted to say he was only trying to keep her safe. The sentence felt noble ri
 
 He noticed the motion. “Has the shaking happened again?”
 
-“I told you. I missed breakfast.”
+“I told you. Hungry.”
 
 “That isn’t an answer.”
 
@@ -94,7 +94,7 @@ He noticed the motion. “Has the shaking happened again?”
 
 The drip struck the basin between them.
 
-In the end, they agreed to stop using the sink, leave the basin under the line, and wait. No shrinking for the repair, not because Miles had forbidden it, and not because Luz had conceded the principle. They had postponed both the plumbing and the argument.
+In the end, they agreed to stop using the sink, leave the basin under the line, and wait for Monday. Neither of them said anything more about shrinking. The repair and the argument could both sit until then.
 
 * * *
 
@@ -102,21 +102,23 @@ Rain pressed a grey evening against the windows. Six hours after her morning cyc
 
 “Twelve centimetres,” she said. “Fifteen minutes.”
 
-They cleared it together. Sink taps off. Drain plugged. Dishwasher disabled. Exhaust fan dead. Cabinet empty and dry. Both radios tested. The bright mat and open emergency tray stood beside the cabinet. Miles set an electric hotplate across the room, safely beyond the marked work zone, and put soup on low.
+They cleared it together. Sink taps off. Drain plugged. Dishwasher disabled. Exhaust fan dead. Cabinet empty and dry. Both radios tested. The bright mat and open emergency tray stood beside the cabinet.
+
+The basin under the sink had collected a finger of water since lunch. Miles looked at it, and at the solid partition between the two cabinets, and felt the morning’s two words line up behind his teeth. He had already said them once today, and he knew how that had gone. The hinge was in the other cabinet. The stop was as closed as it would turn. He set an electric hotplate across the room, safely beyond the marked work zone, and put soup on low.
 
 Luz changed on the bright mat, five counted seconds from ordinary height to her practiced minimum, and Miles started both warning timers. At twelve centimetres, her voice kept its familiar adult pitch but could barely cross a quiet metre. The radio made conversation easy.
 
-“Pin’s aligned,” she reported from the cabinet. “I’m setting the clip.”
+“Pin’s aligned,” she reported from the cabinet. “Tapping it home.”
 
-Miles stirred the soup. “Three minutes. I should label this spoon.”
+Miles glanced at his timer and stirred the soup. “Five minutes in. I should label this spoon.”
 
 “Warning: may contain spoon.”
 
 The corroded bend, weakened past endurance by the damp, gave way under ordinary building pressure with a crack like a plate breaking.
 
-Cold water punched through the base cabinet, struck the opposite wall, and sheeted across the kitchen floor. Miles killed the hotplate, yanked its plug, and lunged toward the cabinet.
+Cold water shot out through the toe-kick gap under the sink, struck the opposite wall, and sheeted across the kitchen floor. Miles killed the hotplate, yanked its plug, and lunged toward the cabinets.
 
-Luz stood on the dry mat outside it. She had made it clear of the hinge before the flood reached her.
+Luz stood on the dry mat outside the hinge cabinet. She had climbed clear before the flood reached her.
 
 “Reverse now,” Miles said.
 
@@ -124,7 +126,7 @@ Her expression sharpened. “Facts, Miles.”
 
 He heard the command in his own voice and hated that it had arrived before thought. He forced himself to look.
 
-“Branch line split behind the toe-kick. Apartment stop still isn’t holding. I can see the hidden handle, but I can’t reach it. Water’s moving toward the outlet.” His timer showed eighteen minutes left before her hard return. “Eighteen minutes.”
+“Branch line split behind the toe-kick. Apartment stop still isn’t holding. I can see the hidden handle, but I can’t reach it. Water’s moving toward the outlet.” His timer read just over six minutes. “Eighteen minutes.”
 
 “Cut the kitchen breaker.”
 
@@ -132,35 +134,33 @@ He ran to the panel. The kitchen went dark and the refrigerator hum died. When h
 
 “I can reach that handle,” she said.
 
-“Luz, I’m afraid.” The admission felt less useful than a wrench and twice as heavy. “I don’t think that makes the choice mine. But I am afraid.”
+“Luz, I’m afraid.” Water touched the table leg behind him. “That’s it. That’s all I’ve got. I’m afraid.”
 
 She held his gaze for one beat. “Good fact.” Then she pointed at the emergency tray. “I’m going in. Ramp.”
 
-Miles laid the towel from the mat to the cabinet threshold. He set his open palm beside it as the other option, still and uncurled.
+Miles laid the towel from the mat to the open door of the sink cabinet. He set his open palm beside it as the other option, still and uncurled.
 
 Luz chose the ramp.
 
 * * *
 
-In the cabinet, the broken line turned the flashlight beam into a field of flying silver. Luz stayed behind the pipe braces, climbing where they shielded her from the direct jet. Water that would have been spray against Miles’s wrist could sweep her into the dark gap behind the cabinets.
+Inside the sink cabinet, spray came up through a slot at the back, where the cabinet floor stopped short of the wall, and turned the flashlight beam into a field of flying silver. The valve was below that slot, in the dark space behind the toe-kick, where the pipe braces ran down past the split bend to a shallow shelf. From the floor, through the toe-kick gap, Miles could see the shelf and little else. Luz went down the braces on their sheltered side, out of the direct jet. Water that would have been spray against Miles’s wrist could sweep her off them.
 
-“Clip on the handle,” she said over the radio. “I can move it.”
+“Clip on the handle,” she said over the radio. “Spring clip. Holds it locked.” A scrape, a grunt. “I can push it up.”
 
 Miles rolled towels into a dam between the flood and the dead outlet. With his other hand he called the unit below, warned that water was coming, and then called emergency maintenance. Each glance away from the cabinet felt like a betrayal, but containing the flood was work only his reach and speed allowed.
 
-“Clip’s clear,” Luz said. “Handle’s seized. I can’t get the torque.”
+“Clip’s up. I wedged it,” Luz said. “Handle’s seized. I can’t get the torque.”
 
-Relative to her weight, she could climb like a champion. Against a corroded full-sized valve, twelve centimetres of leverage remained twelve centimetres.
-
-Miles pulled the utility cord from the tray. “I can feed this through the gap.”
+Miles pulled the utility cord from the tray. “I can feed this through the toe-kick.”
 
 “Do it.”
 
-He pushed the dry end beneath the toe-kick. A ricochet struck the cabinet wall and became a sudden sideways sheet. Luz disappeared from the brace.
+He pushed the dry end through the gap. A ricochet struck the cabinet wall and became a sudden sideways sheet. Luz disappeared from the brace.
 
 “Luz!”
 
-Her radio hit something, crackled, and gave him a burst of static. He saw her land on the shallow shelf below, roll, and push upright. A short fall at her weight was usually forgiving. The cold water was not. It washed around her boots and dragged at her legs.
+Her radio hit something, crackled, and gave him a burst of static. In the flashlight’s spill he saw her land on the shelf, roll, and push upright. Cold water washed around her boots and dragged at her legs.
 
 Miles thrust his hand toward the gap.
 
@@ -168,9 +168,9 @@ Miles thrust his hand toward the gap.
 
 The word vanished beneath static.
 
-He stopped with his fingers at the opening. Every frantic part of him demanded that he reach in, close his hand, tear wood away until he had her out. But a blind grab could drive her into the pipe, and wrenching the cabinet could split the line farther—or block the only clear route for her forced return.
+He stopped with his fingers at the toe-kick. Every frantic part of him demanded that he reach in, close his hand, tear wood away until he had her out. But a blind grab could drive her into the pipe, and wrenching the cabinet could split the line farther—or block the only clear route for her forced return.
 
-Lost communication had a protocol. Freeze or de-energize hazards first. Offer a route. Do not seize.
+He had written the steps for losing contact himself, and he made himself follow them: hazards off first, then a route, and his hands out of it.
 
 The breaker was off. He withdrew his hand, fixed the flashlight on the shelf, and laid the cord end within her reach.
 
@@ -202,29 +202,33 @@ He fed slack into the gap. When Luz crossed the flashlight beam, he saw her hand
 
 One tug: stop.
 
-He closed his eyes for half a second. There it was again, fear dressed as a solution. He could make the opening larger, but he could also collapse wet wood into her route and worsen the rupture.
+He closed his eyes for half a second. He could make the opening larger. He could also bring wet wood down across her route and split the line further.
 
-“Options,” he said toward the gap, forcing his voice level. “The valve failed on the first pull. The exit is still clear. I can keep the cord slack, build the dry ramp, or pull when you signal. We are past twenty minutes. The hard return starts at twenty-four.”
+“Luz,” he said toward the gap. “Luz. That was twenty. That was the twenty. The way out’s clear, it’s still clear, and I can—” He did not know how that sentence ended.
 
-Luz edged close enough that her unamplified voice reached him between surges of water. “I’m colder than I told you. It’s happened on the last three cycles.” She braced a hand against the pipe. “My early return may hesitate. Less than three minutes to the hard limit.”
+She came to the edge of the beam, close enough that her own voice could reach him between surges, one hand braced against the pipe.
 
-Miles’s throat tightened. Cold or low blood sugar could hold off a chosen early reversal by as much as twenty seconds. Nothing extended the twenty-four-minute maximum. If automatic return began inside that narrow void, the cabinet would trap her before she reached half height.
+“Colder,” she said. “Than I said.” A surge took the next words. “—three cycles.” She breathed. “Coming back might be slow.”
 
-“Exit now is safest,” he said. He made himself add, “That’s my assessment. What are you choosing?”
+Miles’s hands closed on the cord. Cold, or low blood sugar, could hold off a chosen return by as much as twenty seconds of breathing with nothing happening. Nothing moved the twenty-four-minute limit. If her body started coming back while she was still in there, the space would close around her before she was halfway up.
 
-“One more attempt. The loop slipped because it sat in front of the clip. I can get behind it.”
+“Coming out is safest.” He made himself stop there. “What are you choosing?”
 
-He wanted to say no. He could say that he would not participate in a plan he believed certain to kill her, but this was not that. It was dangerous, legible, and required both of them.
+“One more.” She held up the wet loop and pushed her thumb through it, a tuck. “Under the clip.”
 
-“At the twenty-three-minute alarm, I stop pulling and open the exit, whatever the valve is doing,” he said. “That is what I can do.”
+The first loop had sat on the outside of the wedged clip and ridden straight off the handle. Tucked under the clip, it would have something to catch on.
 
-Luz nodded once. “Agreed.”
+He wanted to say no.
+
+“At twenty-three I let go,” he said. “Whatever the valve’s doing. I let go and keep the light on the way out.”
+
+Luz nodded. “Twenty-three.”
 
 She took the cord back into the dark.
 
 * * *
 
-The water chilled Miles through his trousers while he waited. He imagined Luz crawling behind the stiff handle, using strength enough to lift her own body many times over but not enough to turn the metal. He imagined the safety clip she had shifted, the narrow angle she alone could see, the countdown neither of them controlled.
+The water chilled Miles through his trousers while he waited. He imagined Luz crawling behind the stiff handle, using strength enough to lift her own body many times over but not enough to turn the metal. He imagined the spring clip she had wedged up and the narrow angle only she could see.
 
 The cord moved. Slack vanished one centimetre at a time.
 
@@ -246,17 +250,17 @@ Two tugs.
 
 He pulled.
 
-The cord bit across his palms. Somewhere beyond the spray, Luz kept the loop seated behind the cleared clip. Miles leaned with his full weight, steady, steady, until the handle struck its stop.
+The cord bit across his palms. Somewhere beyond the spray, Luz kept the loop tucked under the clip. Miles leaned with his full weight, steady, steady, until the handle struck its stop.
 
 The jet died.
 
-Water pattered from the cabinet roof. In the sudden quiet, the twenty-three-minute alarm began to chime.
+Water pattered from the underside of the counter. In the sudden quiet, the twenty-three-minute alarm began to chime.
 
-Miles released the cord. He wanted to reach into the dark so badly his hands hurt. Instead he swept the shallow dam into dry towels, fixed the flashlight on the toe-kick gap, and spread a clean cloth from the shelf to the mat.
+Miles released the cord. He wanted to reach into the dark so badly his hands hurt. Instead he swept the shallow dam into dry towels, spread a clean cloth from the shelf out through the toe-kick gap to the mat, and fixed the flashlight on the gap.
 
 “Exit is lit,” he said. “Ramp is dry.”
 
-Luz emerged on hands and knees. She stood once she cleared the cabinet and walked down the cloth, slower than before. At the last wet gap she looked up.
+Luz came out through the toe-kick gap on hands and knees. She stood once she was clear of it and walked down the cloth, slower than before. At the last wet stretch before the mat she looked up.
 
 “Hand,” she said.
 
@@ -274,33 +278,41 @@ On the third, nothing happened.
 
 Miles saw the tremor in her legs. He kept his hands off her. “You’re on the mat. The route is clear. Breathe again.”
 
-Luz inhaled. Five seconds passed, then ten. Her change finally began. Over eight long seconds she rose to ordinary height, wet clothes changing with her while the full-sized cord fell loose from her hand. She was back before the twenty-four-minute limit.
+Luz inhaled. Five seconds passed, then ten. Her change finally began. Over eight long seconds she rose to ordinary height, her wet clothes and the dead radio under her sleeve changing with her. She was back before the twenty-four-minute limit.
 
 “Blanket?” Miles asked.
 
 “Yes.”
 
-Only then did he wrap it around her shoulders. She accepted glucose gel, water, and the chair he nudged into place. Emergency maintenance was already on the way. The outlet remained dead. The valve remained closed. Below them, the water stopped spreading.
+Only then did he wrap it around her shoulders. She accepted glucose gel, water, and the chair he nudged into place. Emergency maintenance was already on the way. The outlet remained dead. The valve remained closed. Across the floor, the water stopped spreading.
 
-Miles crouched beside Luz, close enough for their knees to touch. He did not mistake the ending of danger for the end of the argument.
+Miles crouched beside Luz, close enough for their knees to touch. Above the counter, the protocol sheet had taken spray along one edge. He knew where his own line was on it without reading.
 
 * * *
 
-After warmth, soup, dry clothes, and the branch line’s professional isolation, they sat at the kitchen table beneath the old protocol sheet.
+After warmth, soup, and dry clothes, and after emergency maintenance had isolated the branch line, they sat at the kitchen table.
 
-Miles took down the page he had amended alone.
+Miles got up, peeled the old sheet off the cupboard, and brought it back. The wet edge had dried stiff and wavy.
 
-“I’m sorry I wrote a veto about your body into something we’re supposed to share,” he said. “I made fear sound like authority. And I kept labeling things because labels let me pretend I could guarantee your safety.”
+“I wrote it Thursday night,” he said. “You were asleep. I wrote it and taped the sheet back up and didn’t tell you it was there.” He pressed the wavy edge flat with his thumb, which did nothing. “It’s a veto. About your body. On the sheet that’s supposed to be both of ours. I’m sorry.”
 
-Luz held a warm glass between both hands. “I’m sorry I hid the tremor. It happened three times, and I kept thinking that if I told you, the information would become permission for you to decide.”
+Luz held a warm glass between both hands and watched the steam for a while instead of him.
+
+“I kept calling it hunger,” she said. “It was the cold. All three times, and worse each time. I thought if I told you, it would turn into permission. Yours to give.”
 
 “It almost did.”
 
-“Yes.” She met his eyes. “But you needed the truth to spot for me. I can owe you accurate information without owing you the final choice.”
+“Yes.” She set the glass down. “And you needed the truth to spot for me. I knew that down there.”
 
-“And I can say I’m afraid without turning it into an order.”
+Miles opened his mouth, and she pointed at him.
 
-They wrote the next page together. Symptoms had to be disclosed before a cycle because coordination required facts. Bodily decisions remained Luz’s. Either partner could decline their own part in a plan. Until they installed an accessible shutoff extension, waterproof communication, and a verified dry route, Luz chose no shrinking around live plumbing. Not forever. Not as punishment. A boundary for conditions they could change.
+“If the next thing is a speech, I’m going to bed.”
+
+“It was a short speech.”
+
+“Then write it down.” She pushed the pen across the table to him, and kept one for herself. “On the new one.”
+
+They wrote the next page together. Symptoms got said out loud before a cycle. Decisions about Luz’s body were Luz’s. Either of them could decline their own part in a plan. Until the shutoff had an extension they could work from outside the cabinet, radios that could survive a soaking, and a dry route they had both checked, Luz chose no shrinking around live plumbing.
 
 Days later, with the branch repaired, the water isolated, and the kitchen power off, they installed an external valve pull. Luz chose a twelve-centimetre cycle and inspected the cord routing from the bright mat.
 
@@ -312,6 +324,6 @@ He moved his hand away.
 
 At the valve, she checked the seated loop, then gave two tugs. Miles pulled steadily. The handle closed with a smooth, satisfying turn.
 
-When Luz had returned beside him, they taped up the new protocol sheet. Half the lines were in his square handwriting and half in her quick slant. At the centre, beneath the rules for honest facts and chosen help, they had written the one instruction neither of them could use alone:
+When Luz had returned beside him, they taped up the new protocol sheet. Half the lines were in his square handwriting and half in her quick slant. In the middle, in capitals big enough to read from the mat, they had written:
 
 **TWO TUGS: PULL STEADILY.**
