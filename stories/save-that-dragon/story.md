@@ -24,7 +24,7 @@ Hovan said, “I saw the wound before the rain closed the ridge. He can breathe.
 
 “How short?” Imer asked.
 
-“Eight paces. Two bursts at most, from that wound. I may be wrong about how much strength he has left.”
+“Eight paces, from that wound. I may be wrong about how much strength he has left.”
 
 “And the quarry road?”
 
@@ -54,7 +54,7 @@ Urrava stayed on her knees. “I authorized a survey of the copper behind the ne
 
 “The paper, or get out of my forge.”
 
-Her balanced patience went out of her face. “Give it to him.”
+The patience went out of her face. “Give it to him.”
 
 The older guard unbuttoned his soaked coat and produced an oilskin packet. Inside lay a folded writ with the royal seal and Daziel’s husband’s name beneath the command to open, inspect, and secure. Urrava’s signature ran across the bottom. A second object dropped into Imer’s palm: a square iron key for the inspection gate, its teeth filed to the quarry’s old pattern.
 
@@ -63,8 +63,6 @@ The older guard unbuttoned his soaked coat and produced an oilskin packet. Insid
 “I kept the only proof that the command was mine.”
 
 “And let the dead man carry the blame.”
-
-“I let the court believe what it was prepared to believe.”
 
 Her eyes stayed on the writ in his hand.
 
@@ -118,7 +116,7 @@ The chute opened behind the winch shed. Through missing boards, Imer saw the sna
 
 His throat worked around every breath.
 
-Above him, on the loading gantry, a boar spear sat in a timber carriage on a short iron rail. Its head pointed down between the dragon’s shoulder blades. The counterweight that would drive it hung over an old lifting shaft.
+Above him, on the loading gantry, a boar spear sat in a timber carriage on a short iron rail. Its head pointed down between the dragon’s shoulder blades. The counterweight that would drive it hung over an old lifting shaft. The whole carriage rode a spoil tipper at the shaft’s mouth, held level by a red dump pin Imer had forged himself.
 
 Princess Daziel stood at the firing lever with a hooded lantern at her feet. She wore no crown. A quarry coat covered her hunting leathers, and a coiled stay rope lay beside her boots.
 
@@ -216,7 +214,7 @@ Daziel considered the gantry, the dragon, and the man who had once made her rese
 
 * * *
 
-The frame had been built to lift blocks. Its braces were sized for dead weight, steady from first lift to last. Imer took a pry bar from the rack and crawled beneath the lower drum. Water ticked off the axle housing. He put two fingers against the bearing cap and felt the cable creep one strand at a time.
+The frame had been built to lift blocks. Its braces were sized for dead weight, steady from first lift to last. Imer took a pry bar from the rack and crawled beneath the lower drum. Water ticked off the axle housing. He put two fingers against the bearing cap and felt the cable creep.
 
 “It’s moving,” he called.
 
@@ -292,7 +290,7 @@ The burst stopped. Thelrax coughed dark smoke and lowered his head. Hovan did no
 
 “I am moving it.” Hovan’s words came slowly now, with air between them. He rose behind the cart and dragged it until the track lay clear.
 
-The scorched upper net shrank. Its drum turned backward. The lower pawl began to climb.
+The scorched upper net sagged. Its line eased off the brake spring, and the lower pawl began to climb.
 
 Imer shoved his pry bar through the flywheel. It caught between two spokes and drove him shoulder-first into the frame. The wheel stopped with the bar pinned across his chest.
 
@@ -302,7 +300,7 @@ The split upright opened another inch.
 
 “Hold the stay.”
 
-“I’m holding it. It’s slipping, Imer, the upright’s going.”
+“I’m holding it. It’s slipping. The upright’s going.”
 
 He knew. The whole changed load had come into his arms: dragon, wet net, wing stones, the hanging counterweight, and every wet turn of Daziel’s new cord. If Daziel fired, Thelrax would collapse and the frame would settle. If she let the upright tear free, the flywheel would take Imer through it.
 
@@ -336,7 +334,7 @@ The carriage tipped into the shaft. Timber, iron spear, and counterweight fell t
 
 Freed of the counterweight, the trigger cord lashed across the frame. The flywheel took a quarter turn. Imer lost his feet.
 
-Daziel caught the back of his belt with both hands. His ribs struck the axle, but the pry bar stayed between the spokes.
+Daziel dropped from the gantry and caught the back of his belt with both hands. His ribs struck the axle, but the pry bar stayed between the spokes.
 
 “Left anchor!” he gasped. “Not upper. Left.”
 
@@ -382,7 +380,7 @@ Daziel sat on an overturned block while Imer wrapped Hovan’s forearm. The burn
 
 Imer left two.
 
-Daziel had dried Urrava’s writ under the lamp. She read it again, folded it on its first creases, and put it inside her coat.
+Daziel asked Imer for Urrava’s writ. She dried it under the lamp, read it again, folded it on its first creases, and put it inside her coat.
 
 “The nine at the sheds,” Imer said. “Names.”
 
