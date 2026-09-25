@@ -227,7 +227,7 @@ When the machine turns smoothly, Auden sits on the molded chair between washers 
 
 "Let me see it before I decide."
 
-You have an adapter in the detergent box. The ceramic square clicks into it, and your phone fills with numbers too small for the screen. You enlarge the field diagram and set the phone on Auden's knee.
+You have an adapter in the same coat pocket. The ceramic square clicks into it, and your phone fills with numbers too small for the screen. You enlarge the field diagram and set the phone on Auden's knee.
 
 The first image is the inside of the lead carriage tipped toward the river. Rain needles through a broken window. Your own breath rasps close to the collar microphone.
 
