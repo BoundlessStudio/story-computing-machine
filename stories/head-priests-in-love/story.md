@@ -260,11 +260,7 @@ His jaw shifted. After a moment, he nodded.
 
 Levara waited. The reef bell knocked twice. Farther out, a line of foam marched past the lantern toward open water.
 
-"I imagined it too," Ambel said.
-
-For one beat, she heard nothing but the reef bell.
-
-"The first three years. Maybe four. Farwake would have liked the harbor to see you walk down his launch steps. I thought you might breathe easier if every promise didn't need a knot around it."
+"I imagined it too," Ambel said. "The first three years. Maybe four. Farwake would have liked the harbor to see you walk down his launch steps. I thought you might breathe easier if every promise didn't need a knot around it."
 
 "You mistook devotion for fear."
 
@@ -302,7 +298,7 @@ She watched the lantern light pass over his hands, broad-palmed and nicked by ye
 
 Ambel missed the next stroke. The steering oar bumped the hull.
 
-Levara had given testimony before hostile councils, families waiting for news, and the god whose water went still when displeased. Nothing had exposed her like Ambel staring at the oar as if it had betrayed him.
+Levara had given testimony before hostile councils, families waiting for news, and the god who answered her in salt. Nothing had exposed her like Ambel staring at the oar as if it had betrayed him.
 
 "You needn't answer in the same form," she said.
 
@@ -310,7 +306,7 @@ Levara had given testimony before hostile councils, families waiting for news, a
 
 She obeyed.
 
-He steered them past the reef's last tooth. Open water pulled at the hull. The Farwake shrine's distant pennants streamed seaward, all pointing away from Brackwater Reach.
+He steered them past the reef's last tooth. Open water pulled at the hull.
 
 "I brought the honey loaf because you don't eat when you're trying to defeat me," he said at last. "I keep your amendment copies in a dry box. I know which floorboard outside your council room squeaks because I stand there before meetings and decide whether to go in early." He rubbed both hands over his face. "I don't know how to say it without making it sound like evidence."
 
