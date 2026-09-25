@@ -10,7 +10,7 @@ canon: false
 
 The last die was still turning when Ludek asked which way everyone was going home.
 
-It was the sort of question that ended every game in the mill room. Boots were found under the table. Cups were stacked beside the flour ledger. Reniya, who had spent the evening calculating the odds of imaginary bridges collapsing under imaginary armies, gathered the painted route tiles into their box and said, “I’ll walk with you past the upper press, then take the orchard stair and—”
+It was the sort of question that ended every game in the mill room. Boots were found under the table. Cups were stacked beside the flour ledger. Reniya, who had spent the evening calculating the odds of imaginary bridges collapsing under imaginary armies, gathered the painted route tiles into their box, traced a line across the tabletop with one finger, and said, “I’ll walk with you past the upper press, then take the orchard stair and—”
 
 Something chimed beneath her chair.
 
@@ -34,15 +34,11 @@ For the first time, the presence in the metal lost its measured pace. *Oh, you h
 
 Then it was gone. The splinter remained painfully cold.
 
-“What said that?” Veysa asked.
+“Who were you talking to?” Veysa asked.
 
-“A player.” Reniya looked at the silver thread between her boots. “Possibly.”
+“I don’t know.” Reniya held up the splinter. “Something in this. It says it’s playing a game with friends, and one of them made a peril, and the rest are meant to guide us to find it and stop it. Us. It said companions, so you two as well. I think.”
 
-“Whose player?”
-
-“Not ours.”
-
-Ludek pulled on his boot. “Good. I was worried I’d forgotten to pay someone.”
+Ludek pulled on his boot. “Guides usually want paying. Did it mention a fee?”
 
 Veysa was already on her knees. She took the lamp from its hook, set its hood low, and ran a thumbnail along the floor seam. She had repaired the mill’s west wall after two wet winters, and she distrusted any crack that arrived with an explanation. “Lift that board.”
 
@@ -68,23 +64,15 @@ They found another gray ridge below the bin platform, aimed toward the lane that
 
 Reniya sorted possibilities because sorting them was better than imagining silver roots reaching the crowded square at dawn. The voice itself had not made the filament grow. Neither had her question. All evening they had declared journeys for their game pieces—to the ash fortress, through a paper swamp, twice to the moon—and the floor had stayed quiet. Those routes had never been theirs.
 
-“We test one fact at a time,” she said.
+“We test one fact at a time,” she said. “Empty floor. Short distance. No cutting.”
 
-Veysa’s head came up. “On what?”
+Veysa looked at the west wall she had repaired. “Nothing toward that side.”
 
-“Empty floor. Short distance. No cutting.”
-
-“On my floor, then.”
-
-“Technically the miller’s.”
-
-“Tonight it’s mine.”
-
-Ludek took the lamp to the far wall. “Ask me something.”
+Ludek took the lamp from her and carried it to the far wall. “Ask me something.”
 
 Reniya silently decided to carry the route-tile box to the north window. She pictured the few steps, took them, and set the box on the sill. The root did not move.
 
-Reniya understood. “Are you going to the water jug?”
+She turned to Ludek. “Are you going to the water jug?”
 
 “No.”
 
@@ -92,23 +80,23 @@ Nothing sounded below them.
 
 “I came here by the south lane,” Ludek said. Still nothing. He pointed at the flour bins and announced, with a courier’s plain certainty, “I’m walking from this wall to those bins now.”
 
-The silver tip beneath the lifted boards shot forward. A second filament creaked under the floor along the line Ludek had glanced across the room. It stopped when it reached the bins. Ludek walked there after it, jaw tight.
+The silver tip beneath the lifted boards shot forward. A second filament creaked under the floor along the line Ludek had glanced across the room. It stopped when it reached the bins. Ludek walked there after it, the lamp held high, and looked down at the new ridge in the boards.
 
-“Past travel does nothing,” he said. “A question does nothing. Something I mean to do next does.”
+“Where I’ve been does nothing,” he said. “Where I’m going next does.”
 
 Reniya said, “I’m going to the bell tower.” She had no intention of leaving the room. The root did not stir.
 
-Veysa lowered the lamp until its brass rim nearly touched the old growth. “And lies do nothing. We have enough for a working rule.”
+Veysa took the lamp back from Ludek and lowered it until its brass rim nearly touched the old growth.
 
-The cold in Reniya’s fingers shifted. A new presence fitted itself around the splinter, not entering so much as finding the only open chair.
+The cold in Reniya’s fingers shifted. A new presence fitted itself around the splinter like someone taking the only open chair.
 
-*Your inquiry is permitted.* The words arrived all at once, clean-edged and impatient.
+*Two inquiries are permitted.* The words arrived all at once, clean-edged and impatient.
 
-Reniya nearly asked who it was. One useless question, and perhaps one answer gone. She looked at the root instead. “Exactly what feeds this growth?”
+Reniya nearly asked who it was. One useless question, and half the allowance gone. She looked at the root instead. “Exactly what feeds this growth?”
 
-*Audible, sincere intent to travel, originating within half a mile. A remembered journey is excluded. An inquiry is excluded. False declaration is excluded. Guidance without a body is excluded. I may report the condition; I cannot perceive your buried result.*
+*Audible, sincere intent to travel, originating within half a mile. A remembered journey is excluded. An inquiry is excluded. False declaration is excluded. Guidance without a body is excluded. I may report the condition; I cannot perceive anything below the surface.*
 
-Reniya repeated it, losing the formal edges as she spoke. “It says a spoken route you truly mean to take feeds it, if you’re within half a mile. Not thoughts, questions, lies, old journeys, or the voices. It can’t see underground.”
+Reniya passed on the parts they hadn’t already found, losing the formal edges as she spoke. “It says half a mile. And the voices don’t count. And it can’t see underground.”
 
 “Half a mile from what?” Ludek asked.
 
@@ -116,11 +104,11 @@ The presence did not respond to him. Reniya had expected that; the splinter stil
 
 Veysa took up the short bar. “From the thing we find by following this.”
 
-“Wait,” Reniya said. “We have one answer left from this one.”
+“Wait,” Reniya said. “It allows two questions, and I’ve used one. I could ask it that.”
 
-“Then don’t spend it asking whether we ought to wait.”
+“Save it.” Veysa was already stepping over the open boards.
 
-They left the lamp burning over the open floor and followed the cooled root.
+They left the lamp burning over the open floor. Reniya took the tile box from the sill, and they followed the cooled root.
 
 It had worked through the stone sill rather than under it, splitting a wedge from one corner. Outside, moonlight turned the lane pale and the root dark. The metal had taken the routes people imagined, not the roads themselves. One branch went under a wall where a walker would have used the gate. Another rose through packed soil on a slant toward the orchard stair, following Reniya’s unfinished intention as far as she had formed it. Behind every silver point lay a gray seam already cooling in the night air.
 
@@ -132,7 +120,7 @@ Veysa pressed her ear to the stones. A faint ticking answered from inside. “Th
 
 “Can you tell how far?” Reniya asked.
 
-“I can tell it wasn’t ticking yesterday.” Veysa scraped mortar from a joint with her knife. A hairline crack ran upward between two blocks. “Don’t make me improve an answer I can’t honestly improve.”
+“I can tell it wasn’t ticking yesterday.” Veysa scraped mortar from a joint with her knife. A hairline crack ran upward between two blocks.
 
 The silver root brightened at Reniya’s feet, though none of them had named a route.
 
@@ -154,9 +142,9 @@ Veysa wedged the short bar behind the shining spur.
 
 “I’m checking whether it’s fixed to the stone.”
 
-“It was made by someone calling this a game.”
+“Somebody built this as a puzzle. Cutting is the first thing anyone would try. They’ll have planned for it.”
 
-“The wall doesn’t care what they call it.” Veysa leaned only enough to feel the resistance, then stopped. “Ask what cutting does.”
+Veysa leaned only enough to feel the resistance, then stopped. “It’s set right into the joint. Pull it and the mortar comes with it. Ask what cutting does.”
 
 Reniya closed her hand around the splinter. “What happens if we break the root before it stops growing?”
 
@@ -172,13 +160,11 @@ Reniya relayed the words. Ludek looked down the slope, toward the sleeping roofs
 
 “He works there.”
 
-Veysa eased out the bar. “Finite is useful. Charged is the word that keeps our hands off it.”
-
-They climbed.
+Veysa eased out the bar, and they climbed.
 
 Above the terrace, the root split into old courses. The cooled seams showed its history as plainly as wagon ruts. Reniya began to see a rule in their failures to overlap: a new filament would approach an older gray line, turn aside at the last finger’s breadth, and run beside it or branch away. Twice it had made long detours around its own buried track.
 
-They followed those detours through two orchards, over a dry irrigation lip, and into a weed-choked trench built around the remains of a kiln. The kiln had been taken down years ago; only its circular footing remained, half buried above the catchment that supplied the market cisterns. Moonlight lay on the stone ring. Silver threads entered from every side.
+They followed those detours through two orchards, over a cart lip between terraces, and into a weed-choked trench built around the remains of a kiln. The kiln had been taken down years ago; only its circular footing remained, half buried above the vaulted cellar where the orchards stored their apples. Moonlight lay on the stone ring. Silver threads entered from every side.
 
 At its center, something under the earth pulsed hard enough to shake dust from the weeds.
 
@@ -194,15 +180,15 @@ Reniya knelt beside one place where the new silver veered from a cooled seam. �
 
 Veysa walked the ring, counting paces. At the downhill side she thrust the short bar into the weeds and hit stone almost at once. She tried again two steps left, then right. Stone each time.
 
-“Catchment crown,” she said.
+“Cellar vault,” she said.
 
-Reniya looked from the old kiln footing to the buried wall. “The voice suggested the core might surface.”
+Reniya looked from the old kiln footing to the stone under the bar. “It says the core could come up beside the center. Or somewhere underneath, where it can’t see. It keeps offering me places to dig.”
 
-“Beside the origin, it said. Or under it, which it cannot see.” Veysa drove the bar once more, gently now. “The catchment crown runs under this side. If we force metal down, it enters the wall. If we dig where your friend is offering branches, we unload the soil holding that wall.”
+Veysa drove the bar once more, gently now. “The crown runs under this whole side. Push the metal down and it goes into the vault. Dig where it wants us to dig and we take away the soil holding the vault up.”
 
-The presence spread more alternatives: excavation inward, a straight trench outward, removal of obstructing stone. None accounted for a catchment it could not perceive.
+The presence spread more alternatives: excavation inward, a straight trench outward, removal of obstructing stone. None accounted for a cellar it could not see.
 
-Reniya wanted to ask which path had the highest chance. The question formed perfectly. So did Veysa’s answer before she gave it: chance of what, based on whose wall?
+Reniya wanted to ask which path had the highest chance. The question formed perfectly. She did not ask it.
 
 “We don’t dig,” Reniya said.
 
@@ -210,71 +196,71 @@ Veysa nodded once.
 
 Ludek had gone around the kiln and was kicking leaves from a shallow stone channel. “Here. The old service course.”
 
-It began beside the kiln’s loading apron, curved along the uphill half of the footing, then descended at each end toward a dry spillway. Kiln carts had once used the course to circle without backing near the catchment edge. A century of silt blocked the spillway mouth.
+It began beside the kiln’s loading apron, curved along the uphill half of the footing, then descended at each end toward the ash run, a stone chute where the kiln carts had once tipped their ash. The carts had used the course to circle without backing onto the vault. Years of leaf mould blocked the chute’s mouth.
 
 “It comes back to itself,” Ludek said. “Or did.”
 
-Veysa examined the downhill stones. “Open the spillway and the route can close above the crown. If anything runs loose, the channel carries it away from the wall.”
+Veysa examined the downhill stones. “Clear the ash run and the route can close above the crown. Anything that breaks loose goes down the chute, away from the vault.”
 
 The voice offered a straight line through the footing, shorter by half.
 
-“No,” Veysa said when Reniya relayed it. “Shorter for the root. Riskier for everyone who drinks tomorrow.”
+“No,” Veysa said when Reniya relayed it. “That line runs over the vault. The sorters go down there at first light.”
 
-*That consequence lies outside my observation,* the presence replied, unasked.
+*That consequence falls on a branch I cannot follow,* the presence replied, unasked.
 
 “Not an answer,” Reniya told it.
 
 The branching pressure continued.
 
-Ludek put his shoulder to a spillway slab. “Could the two of you settle the nature of answers while lifting?”
+Ludek put his shoulder to a slab over the ash run. “Could the two of you settle the nature of answers while lifting?”
 
 They lifted.
 
-Mud sucked at the slab. The channel beneath smelled of wet lime and old apples. They cleared it with the short bar, Veysa’s knife, and their hands, passing stones downslope without saying where they meant to carry them. Reniya marked the intended loop with game tiles from her pocket, bright squares at each turn. Veysa moved three of them when the line came too close to the buried crown. Ludek stood at opposite bends and used gestures to confirm sightlines. They planned in questions, lies, and pointing. The root stayed still except when distant night workers fed it another destination.
+Mud sucked at the slab. The channel beneath smelled of wet lime and old apples. They cleared it with the short bar, Veysa’s knife, and their hands, passing stones downslope without saying where they meant to carry them. Reniya marked the intended loop with game tiles from the box, bright squares at each turn. Veysa moved three of them when the line came too close to the buried crown. Ludek stood at opposite bends and used gestures to confirm sightlines. They planned in questions, lies, and pointing. The root stayed still except when distant night workers fed it another destination.
 
-By the time the spillway lay open, the silver at the kiln center had thickened to a fist. Dawn had begun to gray the eastern haze.
+By the time the ash run lay open, the silver at the kiln center had thickened to a fist. Dawn had begun to gray the eastern haze.
 
 “We need an honest route,” Reniya said. “One of us could speak the full circuit and walk it.”
 
 “Too long,” Ludek said. “The footing’s already shifting.”
 
-Veysa put her palm to an uphill stone. It clicked against its neighbor. Her speech shortened with it. “Three legs. Joined at the tiles. Each mean your own. Each walk your own. No downhill shortcuts.”
+Veysa put her palm to an uphill stone. It clicked against its neighbor. “Three legs. Joined at the tiles. Each mean your own. Each walk your own. No downhill shortcuts.”
 
 “Does joining three intentions count as one course?” Reniya asked.
 
 “That’s your calculation.”
 
-Reniya looked at the root’s branching history. Separate declarations had made separate filaments, but filaments joined when their imagined courses met. The likelihood was not comfortingly high. It was merely higher than waiting for market bells.
+Reniya looked at the root’s branching history. Separate declarations had made separate filaments, but filaments joined when their imagined courses met. The odds she arrived at were poor, and still better than waiting for the market bells.
 
 “It should.”
 
 Ludek wiped mud on his coat. “Should like a bridge in one of your games?”
 
-“No. Should like every piece of evidence we have and one gap.”
+“I don’t know. Everything we’ve seen tonight says yes. We haven’t seen it done.”
 
-“Better.” He took the longest section, the outer curve where the route bent out of sight.
+He took the longest section, the outer curve where the route bent out of sight.
 
-They set themselves at the three bright tiles. Reniya’s mouth had gone dry. She could hear the last voice mapping branches through the splinter: if one intent failed, if one line reached a cooled seam too early, if the charge found the wall first.
+They set themselves at the three bright tiles. Reniya pressed her tile deeper into the mud with her boot. She could hear the last voice mapping branches through the splinter: if one intent failed, if one line reached a cooled seam too early, if the charge found the vault first.
 
 Veysa struck the footing with the flat of her bar. “Now.”
 
 “I’m going from the loading stone, around the upper kiln curve, to the blue tile,” Ludek called.
 
-The earth opened behind him. Silver root rolled into the cleared course, fast as water down a steep gutter. Ludek ran, no joke left in him, glancing back only at turns. The metal followed the course he had pictured rather than every placement of his boots.
+The earth opened behind him. Silver root rolled into the cleared course, fast as windfalls down a steep lane. Ludek ran, no joke left in him, glancing back only at turns. The metal followed the course he had pictured rather than every placement of his boots.
 
-At the blue tile Veysa took over. “I’m going along this sound footing to the spillway head.”
+At the blue tile Veysa took over. “I’m going along this sound footing to the head of the ash run.”
 
 Her line grew broader and slower. She watched the masonry, not the root. Halfway down, one stone dipped.
 
 “Stop there. Reniya, move your mark uphill. Two feet. More. Hold it.”
 
-Reniya shifted the final tile. Veysa adjusted her declared course with the confidence of someone accepting the load herself. The root curved away from the catchment crown.
+Reniya shifted the final tile. Veysa adjusted her declared course with the confidence of someone accepting the load herself. The root curved away from the vault crown.
 
-Reniya began her leg. “I’m going from the spillway head down—”
+Reniya began her leg. “I’m going from the ash run down—”
 
 “Not below,” Ludek shouted. “Not below. The service lip, then the red tile.”
 
-The half-spoken intention pulled a bright needle toward the catchment. Reniya bit off the rest, stepped sideways, and forced herself to picture the actual safe course rather than the destination she feared.
+The half-spoken intention pulled a bright needle toward the vault. Reniya bit off the rest, stepped sideways, and forced herself to picture the actual safe course rather than the destination she feared.
 
 “Along the service lip,” she said, breath clipping each phrase. “Around the outer stone. Back to the loading apron.”
 
@@ -284,7 +270,7 @@ Too late, she saw that her imagined line met it at an angle instead of joining L
 
 She gripped the splinter. “Must the new growth retrace the first seam to close the course?”
 
-The answer divided around what the voice did not know. *It must meet a cooled boundary that encloses the origin. It cannot cross. Your elevation, wall, and chosen safety are not visible to me.*
+The answer divided around what the voice did not know. *It must meet a cooled boundary that encloses the origin. It cannot cross. Your elevation, your vault, and your chosen safety are not visible to me.*
 
 Reniya relayed only what they needed. “Meeting closes it. It doesn’t have to retrace.”
 
@@ -292,42 +278,40 @@ The voice began another branching shape and faded before completing it.
 
 Reniya ran the last six paces. Behind her, silver struck gray.
 
-The impact made no grand sound. It made the small, dreadful sound of a spoon cracking a cup. The new root tried to cross the cooled seam, flattened against it, and raced both ways around the circle. Where it met the other new lines, the whole loop tightened.
+The impact made the small, dreadful sound of a spoon cracking a cup. The new root tried to cross the cooled seam, flattened against it, and raced both ways around the circle. Where it met the other new lines, the whole loop tightened.
 
 At the kiln center, earth humped upward.
 
-“Spillway!” Veysa shouted.
+“The ash run!” Veysa shouted.
 
-They threw themselves clear. A white-hot spur broke from the center and snapped downhill, but the loop turned it sideways into the open channel. It ran ten yards, shedding beads of molten silver, then thinned to wire, to hair, to nothing. The pulsing beneath the kiln stuttered. Once. Twice.
-
-Stopped.
+They threw themselves clear. A white-hot spur broke from the center and snapped downhill, but the loop turned it sideways into the open channel. It ran ten yards, shedding beads of molten silver, then thinned to wire, to hair, to nothing. The pulsing beneath the kiln stuttered twice and did not come back.
 
 Veysa approached first, testing each stone before trusting it. The closed course had exposed a dark metallic pod among the kiln bricks. It was the size of Reniya’s two fists and folded around itself like a seed. No light moved in its seams.
 
 “Cold?” Reniya asked.
 
-“You’re holding the supernatural splinter.”
+“You’re already holding a bit of it.”
 
 “You’re the mason.”
 
 Veysa touched the pod with the back of one muddy finger. Then she laid her palm on it. “Cold.”
 
-Ludek crouched at the spillway and watched the last silver bead dim. “And finite.”
+Ludek crouched at the ash run and watched the last silver bead go gray.
 
 Veysa set her knife in the pod’s exposed seam and tapped the handle with the short bar. The shell parted without resistance. Inside lay a dull grain of metal, no warmer and no more alive than a dropped nail.
 
-Reniya closed her hand around the splinter. Nothing spoke. Whoever had made the peril offered no protest, no explanation, no sign of having watched. The other presences had spent their answers and gone with the charge.
+Reniya closed her hand around the splinter. Nothing spoke. Whoever had made the peril offered no explanation. The other presences had spent their answers and gone with the charge.
 
-They lifted the grain into the empty route-tile box and carried it to the catchment. Veysa checked the crown stone by stone while Ludek climbed down to the inspection hatch and called back dry measurements. One joint had opened a fingernail’s width. It would need mortar before the first draw. The wall itself held.
+They lifted the grain into the empty route-tile box and carried it down the slope to the cellar door. Ludek held the door wide for the gray light, and Veysa went in and checked the vault stone by stone. One joint had opened a fingernail’s width. It would need mortar before the sorters came down. The vault itself held.
 
 Below them, shutters began to knock open around the market.
 
 “Mill floor first?” Reniya asked.
 
-Veysa handed her the short bar. “Catchment joint.”
+Veysa came out and handed her the short bar. “Cellar joint.”
 
-“Then the mill floor,” Ludek said, climbing out. “Then breakfast.”
+“Then the mill floor,” Ludek said, letting the door swing shut. “Then breakfast.”
 
-Veysa looked at the mud on all three of them. “Bring mortar.”
+Nothing chimed under their boots.
 
-Ludek sighed and took the heavier end of the tool basket. Reniya tucked the cold box under her arm, and together they started down to the wall.
+Veysa said the upper press would have lime. Reniya tucked the cold box under her arm, and the three of them started down the orchard stair. At the first terrace Veysa stopped long enough to lay her ear against the retaining wall, then waved them on.
