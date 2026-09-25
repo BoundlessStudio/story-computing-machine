@@ -160,7 +160,7 @@ He looked toward the dark slate again. “You left.”
 
 “I didn’t stop you.”
 
-She took a breath. “How much of it is like that?”
+She took a breath. “How much of your memory is like that?”
 
 “Some periods remain detailed. Others are almost empty. I don’t control which until I’m near them.”
 
@@ -346,7 +346,7 @@ The client’s fingers closed around hers in the session room, distant but unmis
 
 “Again,” he said.
 
-She felt what he wanted from that one word: to know whether it had been warning or accusation, permission or plea. Anything definite enough to finish the calculation he had carried through every closing door since.
+She felt what he wanted from the rear man’s one word: to know whether it had been warning or accusation, permission or plea. Anything definite enough to finish the calculation he had carried through every closing door since.
 
 The wall flashed. Third break.
 
