@@ -18,7 +18,7 @@ The ring beneath the drone changed from white to blue.
 
 Across the street, Kero was leaning against a shutter as if the rain had put him there. He glanced at the awning above the queue, then at Raska. Too obvious, his face said.
 
-He had started looking at her like that since she got stunned: first at the danger, then at her, as though working out which of them would reach the other first.
+He had started looking at her like that since she got stunned: first at the danger, then at her, as though working out whether he could reach her before it did.
 
 Raska stepped out of line.
 
@@ -116,7 +116,7 @@ Raska looked at the damp smudge where their zero had been. “Fine.”
 
 It was not fine. That was why, four nights later, all three of them were under the market flyover when an incapacitation unit came nosing between the pillars.
 
-It had been bothering a boy on a bicycle, demanding a registration his rusted frame had never possessed. Raska approached from the service lane. Kero came over a locked kiosk roof. Neither acknowledged the other. Sevi, crouched on a concrete divider, looked delighted by the breach in procedure.
+It had been bothering a boy on a bicycle, demanding a registration his rusted frame had never possessed. Raska approached from the service lane. Kero came over a locked kiosk roof. Once, one of them would have flashed two fingers across the lane: two sides, go. Neither acknowledged the other. Sevi, crouched on a concrete divider, looked delighted by the breach in procedure.
 
 The drone’s blue ring painted the pillars in revolving slices. Raska saw a bowed delivery gate, a heap of insulating foam, and an old sign that still tried to rotate when the wind pressed it. She began fitting the pieces together.
 
@@ -322,7 +322,7 @@ The drone pulled hard against the straps, angling toward Raska. She raised both 
 
 Kero caught her sleeve. For one hot second she wanted him to pull. He didn’t. He let the cloth slide through his fingers and went back to the shutter.
 
-Raska lowered her left hand and showed him two fingers low by her hip: on the second note. Two was as far as her count went. Behind the post, one arm stretched up the side of the rack to the red handle, Sevi nodded and raised two fingers back. Kero must have taken it for the two-sides sign. He crossed early, going for the support while the drone still strained toward her.
+Raska lowered her left hand and showed him two fingers low by her hip: on the second note. Two was as far as her count went. Behind the post, one arm stretched up the side of the rack to the red handle, Sevi nodded and raised two fingers back. Kero must have taken it for the old two-sides sign. He crossed early, going for the support while the drone still strained toward her.
 
 The drone snapped right, exactly as Sevi had warned. Its straps swept the crossing at waist height, Kero twisted under them, and his shoulder struck the rail support instead of the release. The trolley groaned but stayed overhead.
 
