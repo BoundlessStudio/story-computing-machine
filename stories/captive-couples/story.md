@@ -98,7 +98,7 @@ Livia's meter climbed. "They've got room batteries."
 
 "If your staged fault didn't cook the switchgear."
 
-Livia looked at the scorched cabinet, then at the charging cell. "Xav. Housing."
+Livia looked at the scorched cabinet, then at the charging cell. "Xavier. Housing."
 
 Xavier crouched and put his light on the thermal strip along the cell housing. "Fifty-three."
 
@@ -150,7 +150,7 @@ Renata waited for the anchor to cool, jammed her fingers beneath it, and heaved.
 
 "My ankle's fine."
 
-"I didn't ask about your ankle. You shut it to look at the cuff. You did it at the slots before." He stopped, then started again, lower. "Is that the concussion? How many do you have?"
+"I didn't ask about your ankle. You shut it to look at the cuff. You did it at the slots before." He stopped, then started again, lower. "Is that the concussion? How many transits do you have?"
 
 "Enough."
 
@@ -160,9 +160,9 @@ Renata fitted her fingers back under the yoke's edge and counted the tag down.
 
 Livia crouched by the second cell. Its charge indicator jumped, fell, then blinked amber.
 
-"You seated it wrong." She was on her feet. "Xav. It's crooked, it's arcing, look at it."
+"You seated it wrong." She was on her feet. "Xavier. It's crooked, it's arcing, look at it."
 
-Xavier did not turn from the sled. "I seated it. I checked it." He set down the grease pencil. "I seated it and I checked it, Liv."
+Xavier did not turn from the sled. "I seated it. I checked it." He set down the grease pencil. "I seated it and I checked it, Livia."
 
 "So why's it moving?"
 
@@ -284,7 +284,7 @@ Livia moved back toward the bus, choosing the cells over Renata. Current flared 
 
 They countered on different instincts and blocked each other's route.
 
-"Xav," Livia said. "Housing's at seventy-two."
+"Xavier," Livia said. "Housing's at seventy-two."
 
 "Sled or him?"
 
