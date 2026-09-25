@@ -40,7 +40,7 @@ The man reached the bottom step and stopped well beyond arm's length. That could
 
 "The arch is an arch. This is mine." The man considered the shears, then placed them on the stair. "You did not arrive by intention?"
 
-"I don't make a habit of walking into rooms that can't possibly fit where they are."
+"No. It was raining. I ducked under it to look at my map, and then there was a floor."
 
 "No. Of course not." His attention sharpened, almost painfully. "What year is it?"
 
@@ -50,9 +50,9 @@ The man repeated the number under his breath. Then he closed his eyes and made t
 
 "That's unwelcome," he said.
 
-The young man looked again at the handleless door. "For both of us?"
+The young man looked again at the handleless door. "Me?"
 
-The man's eyes opened. "I meant the arithmetic. You are not unwelcome. I have failed at the distinction already."
+The man's eyes opened. "No. No, the number. That many years at once." He lifted a hand and let it drop. "You are not unwelcome. I ought to have said the arithmetic."
 
 Before the young man could decide what to do with that, the man lifted the fallen brass stand and set it upright. He did not use magic. He had to crouch, and one knee cracked.
 
@@ -82,19 +82,17 @@ The man seemed to hear the inadequacy of this. "There is a garden under glass. I
 
 "You have a tea garden inside your tower."
 
-"Three shrubs. Garden may be boasting."
+"Three shrubs. Garden may be boasting. The oldest came to me as a cutting wrapped in a courier's stocking, and it did not put out a leaf for eleven years. I am told that is usual."
 
-He tipped the leaves onto a cloth, selected some, and rolled them between his palms. The simple work made his stained fingers understandable. He warmed a clay pot with water from the kettle, poured it into a basin, added the leaves, and covered them. No powder flared. No spoon stirred itself. The young man watched every movement.
+He tipped the leaves onto a cloth, selected some, and rolled them between his palms. The simple work made his stained fingers understandable. He warmed a clay pot with water from the kettle, poured it into a basin, added the leaves, and covered them. The young man watched every movement and saw nothing but a man making tea.
 
 "How old is this place?" he asked.
 
 "The foundation is two thousand and twelve years old by the count you gave me. I am seven months older. There is an uncertainty of four years. Perhaps five, if the winter coronations were counted twice."
 
-The young man laughed once. It came out higher than he intended. "I step into a two-thousand-year-old wizard's tower, and the first thing I'm offered is tea picked this afternoon."
+The young man looked at the steady, green-stained hands and could not make the number fit them.
 
-"This afternoon according to that window." The man glanced at the impossible blue square. "Your road appears to disagree. The leaves are fresh either way."
-
-He set two cups on the low table near the fire. One was white porcelain thin enough to show the shadow of his thumb. The other was thick brown clay with a chip in its rim. He looked from them to the young man and exchanged their positions twice.
+The man set two cups on the low table near the fire. One was white porcelain thin enough to show the shadow of his thumb. The other was thick brown clay with a chip in its rim. He looked from them to the young man and exchanged their positions twice.
 
 "Which cup is less alarming?"
 
@@ -104,13 +102,17 @@ He set two cups on the low table near the fire. One was white porcelain thin eno
 
 "It looks as if someone has survived drinking from it."
 
-The man's face changed. Not amusement exactly; the remembrance of it. He placed the brown cup on the visitor's side.
+The man's face changed. He looked like someone remembering how amusement went. He placed the brown cup on the visitor's side.
 
 "Sit where you like," he said.
 
-The young man sat where he could see the handleless door and the shears. The wizard poured. Pale liquor slipped from the pot, carrying a warm smell like grass after sun. The young man wrapped both hands around his cup but did not drink.
+The young man sat where he could see the handleless door and the shears. The wizard poured. Pale liquor slipped from the pot into the brown cup, carrying a warm smell like grass after sun. The young man wrapped both hands around it but did not drink. Two thousand years. He laughed once, and it came out higher than he intended.
 
-The wizard took the chair opposite. He touched his own cup to his lower lip, swallowed, and set it down.
+"You know, I didn't think I'd walk into a two-thousand-year-old wizard's tower by accident and get fresh tea."
+
+The wizard took the chair opposite and tilted the pot over the white cup. "Well, one does not live to two thousand by trying to kill the first guest one has had in centuries. The hill courts were very firm about it. A host who harmed anyone under his roof before the second pouring forfeited the roof, and in the stricter districts his cattle, or possibly his cousins. I forget which." He watched his cup fill. "Also, I am starving for conversation. I would rather say so than have you work it out."
+
+He touched the cup to his lower lip, swallowed, and set it down.
 
 "No poison," he said.
 
@@ -120,7 +122,7 @@ The wizard took the chair opposite. He touched his own cup to his lower lip, swa
 
 "That's not very comforting."
 
-"No." The wizard folded his hands. "I no longer remember how much comfort is expected before the first sip."
+"It is not." The wizard folded his hands. "I no longer remember how much comfort is expected before the first sip. At one time it was bread and salt and the host's full descent, which took longer than the tea."
 
 The young man tasted the tea. It was sweet without sugar, then bitter at the back of his tongue, a bitterness clean enough to make him thirsty for the next mouthful. He had drunk leaves boiled black at coaching inns and sweepings disguised with cloves. This was another thing entirely.
 
@@ -130,27 +132,15 @@ The wizard watched him with an intensity that made the cup heavy.
 
 "In what respect?"
 
-"It tastes green."
+"It tastes green." He heard how that sounded. "Good green. I mean I'd pay for it. I'd pay for a whole pot."
 
-"Grass tastes green."
-
-"Then it tastes green in a way I'd pay for."
-
-The wizard nodded, accepting this as usable evidence. "Do people pay for tea now?"
+"Green as the first spring picking? Or green the way they brewed it at the summer court, before the—" The wizard stopped, and nodded. "Green. Good. Do people pay for tea now?"
 
 "Constantly."
 
-"Is the eastern empire still collecting the leaf duty?"
+"Is the eastern empire still collecting the leaf duty? The one beyond the salt range. They taxed it by the basket, then by the leaf, which nearly started a war. Two wars. You may know it by another name."
 
-"I don't know which empire you mean."
-
-"The one beyond the salt range."
-
-"I don't know that range either."
-
-"What do you call it?"
-
-"I might not call it anything. I mend account books. I don't map mountains."
+"I don't know it by any name. Or the mountains. Sorry. I mend account books, mostly for drapers."
 
 The wizard leaned forward. "Account books have survived? Are they bound by signatures, seals, blood, witnesses, divine guarantors, or the merchant's right hand? What coin is stable? Which river carries the grain fleets? Did the red fever return? Who governs the western islands? Is horse-post still limited to six hundred relays?"
 
@@ -176,7 +166,7 @@ The wizard sat back. His white cup remained between his hands. "How long has it 
 
 "Then what does?"
 
-It was not an ordinary question. It felt like a well with no visible bottom. The young man smiled because smiling had got him through examinations, quarrels with landlords, and one regrettable dinner with his elder sister's future husband.
+The question came at him like a ledger with no last page. The young man smiled because smiling had got him through examinations, quarrels with landlords, and one regrettable dinner with his elder sister's future husband.
 
 "Dry socks," he said. "Affordable rooms. A road that doesn't dissolve when it rains."
 
@@ -186,21 +176,11 @@ It was not an ordinary question. It felt like a well with no visible bottom. The
 
 "Why?"
 
-The young man looked at the narrow blue window, then at the unbroken curve of wall. "Because you say this tower is two thousand years old. Because I can't see the road. Because you want me to answer for the condition of the entire world while holding those shears."
+The young man looked at the narrow blue window, then at the unbroken curve of wall where the road should have been. "Because you say this place is two thousand years old and I can't find the road, and the door hasn't got a handle, and you want me to tell you what matters to the whole world, and your shears are on that stair about three steps from your chair, and I—" He stopped. "It's easier to make light of it."
 
 The wizard glanced toward the stair. "They are for pruning."
 
-"I know that now."
-
-"I set them down."
-
-"I saw."
-
-"Yet they remain part of the difficulty."
-
-"A small part."
-
-The wizard's gaze traveled around the room as if all its familiar objects had become evidence against him. He rose.
+His gaze went on from the shears around the rest of the room, as if all its familiar objects had become evidence against him. He rose.
 
 The young man rose too.
 
@@ -210,7 +190,7 @@ The young man rose too.
 
 They stood on opposite sides of the table. The wizard lowered himself slowly back into his chair. The young man did the same. Water from his hair chose that moment to run into his ear.
 
-"Am I supposed to ask why you haven't killed me?" the young man said.
+"You said you don't kill guests because it's no way to reach two thousand," the young man said. "Am I supposed to believe that's all?"
 
 "I had hoped we might avoid making that a formal course of the meal."
 
@@ -220,9 +200,9 @@ The wizard looked at the brass stand, now upright beside the door. "Because you 
 
 "That's not the same as wanting me safe."
 
-"No."
+"No. I want that too. It was not what stopped me, and that is what you asked."
 
-"You are my first guest in three hundred and eighty-seven years," the wizard said. This time he did not lean forward. "Before that, there were two soldiers who believed the tower was a siege engine. They stayed eleven minutes. I have had other intruders."
+He turned his cup a quarter turn on the table. This time he did not lean forward. "You are my first guest in three hundred and eighty-seven years. Since then there have been two soldiers who believed the tower was a siege engine. They stayed eleven minutes. I have had other intruders."
 
 "What's the difference?"
 
@@ -244,9 +224,9 @@ He poured the last of the first infusion into the basin instead of either cup. A
 
 "There is a washroom through the second door," he said. "If you were looking for one. Fresh cloths are in the chest."
 
-The young man followed his glance. The second door stood near the panel where he had entered. He understood the mistake: all his looks toward that part of the room had been translated into a household need the wizard knew how to meet.
+The young man followed his glance. The second door stood a few feet from the panel he had come through. He had asked how to leave, and he was being offered clean cloths.
 
-"I was looking for the road," he said.
+"I was looking for the road," he said. "You know I was."
 
 "Yes."
 
@@ -262,13 +242,9 @@ Rain might have been falling six feet away or nowhere in the world. In the quiet
 
 His words had begun to gather speed. He stopped them. Put the kettle down. Stood and stepped away from the table with his hands visible.
 
-"Which arch?" he asked.
+"Describe what you saw beyond the arch you came through."
 
-"The one by the road. The one I came through."
-
-"Describe what you saw beyond it."
-
-"Mud. Hawthorn hedge on the far side. A milestone leaning toward the ditch. The top was broken off."
+"Mud. Hawthorn hedge on the far side. A milestone leaning toward the verge. The top was broken off."
 
 "Good. Stay where you are."
 
@@ -282,7 +258,7 @@ The young man did not approach at once.
 
 "It opens to the same place?"
 
-"To the arch through which you entered. I cannot redirect it while you are here, if that is what concerns you."
+"Only to the arch through which you entered."
 
 "Can it shut while I'm crossing?"
 
@@ -292,19 +268,17 @@ The young man did not approach at once.
 
 The wizard took time with the answer. "Not reliably. Your arrival showed me where the alignment touched the road. Once you leave, it may be years before I can find that exact place again."
 
-The young man heard the last sentence and also the wizard's effort not to lean on it.
-
-"Stand farther back," he said.
+"Stand farther back," the young man said.
 
 The wizard moved to the stair and sat on its third step. "Is this sufficient?"
 
 "Yes."
 
-The young man crossed the tiles. At the threshold he held out his hand. Rain struck his knuckles, cold and ordinary. He reached farther, touched the wet inner face of the roadside stone, and withdrew. No resistance. No skin left behind.
+The young man crossed the tiles. At the threshold he held out his hand. Rain struck his knuckles, cold and ordinary. He reached farther, touched the wet inner face of the roadside stone, and withdrew. His hand came back whole and wet.
 
 Behind him, the drying rail gave a soft clatter and went still. One by one, the lamps on the lower gallery faded from gold to ember-red. The blue square of sky above the kettle clouded. The fire remained, but the air beyond it lost its stored warmth.
 
-The wizard had closed his eyes. A tendon stood out in his neck. He was not watching for an escape; he was holding the way open.
+The wizard had closed his eyes. A tendon stood out in his neck. All his attention had gone into holding the way open.
 
 The young man put one foot onto the mud outside.
 
@@ -312,7 +286,7 @@ The road was exactly as he had left it, except for the rain filling his tracks. 
 
 He could leave.
 
-He shifted his weight toward the road. Behind him, the last lower lamp guttered out. The wizard said nothing.
+He shifted his weight toward the road. Behind him, the last lower lamp sank to a red spark. The wizard said nothing.
 
 The young man stepped back onto the tile.
 
@@ -350,13 +324,13 @@ The young man glanced outside. "So the carrier can see if one stops turning. If 
 
 "We used bells on freight axles during the Nine Banner peace. A silent wheel meant sabotage."
 
-"A silent wheel now means you finally fixed the bell that was keeping everyone awake."
+"Nobody puts bells on the axle now. Just on the harness, so people hear the cart coming."
 
-The wizard frowned, then gave a brief breath of laughter. He did not turn the failed comparison into a lesson.
+The wizard frowned and looked out at the cart for some time, as if to check.
 
 The kettle began to murmur. He lifted it without leaving his place and poured water over the leaves. This time he offered the white cup without discussion and kept the chipped clay one for himself. The young man exchanged them.
 
-"That one's easier to hold," he said.
+"This one's easier to hold," he said.
 
 "It leaks at the rim."
 
@@ -384,19 +358,17 @@ The wizard started to say something large; the young man saw it arrive in the li
 
 "Ask who repairs the town ledgers. Then who prints notices. Then the undertaker, because undertakers keep records and hate loose pages. After that, I sleep somewhere cheap and start again in the morning."
 
-"That is a considerable number of beginnings."
+"Undertakers kept the best registers in my day as well," the wizard said. "They and the salt-tax men."
 
-"It's one morning."
-
-The wizard turned his cup in both hands. His knuckles had begun to tremble from the sustained working or the cold. The young man could not tell which.
+He turned his cup in both hands. His knuckles had begun to tremble from the sustained working or the cold. The young man could not tell which.
 
 Outside, the carrier climbed another yard through the mud.
 
-"Why did no one come for three hundred and eighty-seven years?" the young man asked.
+"Why weren't there any guests for three hundred and eighty-seven years?" the young man asked.
 
 The wizard looked up.
 
-For once no precise answer waited ready. He opened his mouth, closed it, and rubbed a green stain on his thumb. The lamps above them held their dull red. Rain tapped on the threshold stones.
+For once no precise answer waited ready. He opened his mouth, closed it, and rubbed a green stain on his thumb. The lower lamps held at their dull red. Rain tapped on the threshold stones.
 
 "There were wars," he said at last. "Roads moved. Languages changed. I was occupied for some of it."
 
@@ -408,19 +380,15 @@ The young man waited.
 
 The wizard watched the tea leaves turning below the surface. "I had reasons. Some of them may still be good. I have repeated all of them so often that I no longer know which are reasons and which are the shape of the room."
 
-That was not neat enough to be a confession, and the young man had no neat answer for it. He drank. The second infusion was softer than the first, almost honeyed, though no honey had gone into the pot.
+The young man drank. The second infusion was softer than the first, almost honeyed, though no honey had gone into the pot.
 
 For several breaths neither of them spoke.
 
 The carrier's horse appeared beyond the hawthorn, head low against the rain. Its harness bells gave one exhausted clank. The wizard heard it too; his hands tightened once on the white cup, then eased.
 
-"You said you grow three shrubs upstairs," the young man said.
+The young man looked up at the red lamps, then at the wizard's hands. "Is the cold getting up to your shrubs?"
 
-"Yes."
-
-"And this room is getting colder because of the doorway."
-
-"Correct."
+"Not yet," the wizard said. "The glass keeps its heat longer than this room does."
 
 "Then I've got time for one answer. Why don't the cups match?"
 
