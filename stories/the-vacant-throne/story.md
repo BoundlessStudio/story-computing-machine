@@ -118,7 +118,7 @@ The child raised their head. Their cheeks were dry. After considering the Seatke
 
 Where the side passage from the memorial court entered the throne room, the First Captain barred the way.
 
-Sunlight had reached the upper windows. Less than an hour remained before it touched the western wall, and across the throne room, the antechamber beyond the open main doors had filled again. The rival houses stood in ordered blocks. Their covered banners were now upright. The silence had sharpened every shuffle, buckle, and drawn breath.
+Sunlight had reached the upper windows. Less than an hour remained before the sun touched the western wall, and across the throne room, the antechamber beyond the open main doors had filled again. The rival houses stood in ordered blocks. Their covered banners were now upright. The silence had sharpened every shuffle, buckle, and drawn breath.
 
 The Captain held his command staff across the threshold. He pointed to the royal sword, then to the hands of the waiting guards.
 
