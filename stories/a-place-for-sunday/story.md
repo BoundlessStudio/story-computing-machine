@@ -166,7 +166,7 @@ Cosimo went inside to open the back door. Nerina followed him, then came running
 
 There were several possible pictures. He followed her.
 
-The kitchen cupboards had been tied shut with lengths of cloth. A pan and a colander hung from their hooks, bundled together in an apron. Cosimo had kept the table clear except for a bowl of figs and the covered batter he must have mixed before coming to fetch them. The small iron stove was already hot. From the window beside it, Ilario could see his own city's roofs instead of the long blue slope of the sea.
+The kitchen cupboards had been tied shut with lengths of cloth. A pan and a colander hung from their hooks, bundled together in an apron. Cosimo had kept the table clear except for a bowl of figs, a plate under a cloth, and the batter he must have mixed before coming to fetch them. The small iron stove was already hot. From the window beside it, Ilario could see his own city's roofs instead of the long blue slope of the sea.
 
 He had to look twice.
 
