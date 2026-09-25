@@ -108,7 +108,7 @@ Brannic exhaled through his nose. “With which spare city?”
 
 “Eight.”
 
-“Ten, and you keep the other two you were about to hide from me.”
+“Ten. Your eight and the two you were about to hide from me.”
 
 Brannic gave her a brief, injured look. “Those two are fixing lunch.”
 
@@ -334,7 +334,7 @@ No one answered the horn.
 
 By morning, crews had warmed the seed beds at the hour the archive gave them, patched the pottery line before the second gust, and spread every sail during a calm that lasted exactly thirteen minutes. The city moved inside the warm current with less drag than it had known in weeks.
 
-Mazhira sat beside the lead mast with the route drum between her knees. A young deck worker waited opposite her, one wrist wrapped from hauling shutters. The worker was due at a relay mast by evening and needed the authorized route song by then.
+Mazhira sat beside the lead mast with the route drum between her knees. A young deck worker waited opposite her, one wrist wrapped from hauling shutters. The worker was due at her relay mast by evening and needed the authorized route song by then.
 
 Heket stood at the sounding rail. Mazhira offered her the teaching stick.
 
