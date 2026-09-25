@@ -392,7 +392,7 @@ He did not answer at once. Above, more rooms began their dawn contractions, sque
 
 “Give me measures,” he said.
 
-Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelve-percent intake reduction. Bordu repeated each number to someone in the night office. No one congratulated her. The debridement crew became a fringe-pruning crew. Medical logged the fevering man to a ward bed with the seal field left blank. The census still held five archived rows. The lease table still saw empty tissue.
+Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelve-percent intake reduction, then the conditions under the category. Bordu repeated each number to someone in the night office. No one congratulated her. The debridement crew became a fringe-pruning crew. Medical logged the fevering man to a ward bed with the seal field left blank. The census still held five archived rows. The lease table still saw empty tissue.
 
 Mular placed the broken comb in the quarantine jar. His fingers stayed on the lid after he had sealed it.
 
