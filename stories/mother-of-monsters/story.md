@@ -10,7 +10,7 @@ canon: false
 
 Lieutenant Chask had laid the chalk line for the first charge when something with six legs refused to kneel.
 
-It stood in the sanctuary yard beyond the split gate, a broad-backed animal under a carrying frame, while three goblins hauled at the breast strap. A woman on the wall raised one arm. Her warning crossed the ravine as three sounds at once: a raw scrape, a vibration Chask felt through her palms on the stone, and hard little clicks that might have been pebbles striking a bowl.
+It stood in the sanctuary yard beyond the split gate, a broad-backed animal under a carrying frame, while three goblins hauled at the breast strap. A woman on the wall raised one arm. Her warning crossed the ravine as three sounds at once: a raw scrape, a vibration that reached Chask’s palms through the stone, and hard little clicks that might have been pebbles striking a bowl.
 
 The goblins stopped hauling. The animal did not move. One of them unbuckled two grain panniers and shouldered a sack himself. Only then did the beast step into the lane climbing toward the inner ruin.
 
@@ -18,7 +18,7 @@ The goblins stopped hauling. The animal did not move. One of them unbuckled two 
 
 Chask sighted along her chalk. The broken causeway rose in two turns from the ravine, narrowing at the last switchback before it met the sanctuary wall. The host filled the lower turns: shields, pikes, hooded lamps, men breathing steam into the predawn dark. On the upper shelf, her six sappers had room to work only because the point company held back.
 
-Across the wall, figures passed buckets in one direction and bundles in the other. Goblin auxiliaries, Chask classified. War-beasts under burden. Three pale shapes crawled low along a colonnade where no soldier would have chosen to put a knee. The woman on the wall was Halwen, called Mother of Monsters in every order Chask had received.
+Across the wall, figures passed buckets in one direction and bundles in the other. Goblin auxiliaries, Chask classified. War-beasts under burden. Three pale shapes crawled low along a colonnade where no soldier would have chosen to put a knee. The woman on the wall was Halwen, called Mother of Monsters in every order Chask had received. The orders wanted her taken, or failing that, killed.
 
 The captain touched the horn at his belt. “Third signal, breach. Chainhouse open by dawn.”
 
@@ -48,7 +48,7 @@ The point company went through before the smoke cleared. Chask followed because 
 
 Inside, nothing kept its proper military shape.
 
-A goblin in a leather apron stood on a broken fountain and called numbers in rough trade speech. “Six hands to grain. No—two. Six to water. Bandage chest goes low way.” He pointed at bearers rather than bodies, and the bearers contradicted him by pointing at their own loads. Beside the culvert mouth, a horned woman tightened a splint on a wounded figure whose face Chask could not see. Two small goblins carried the figure’s shield away, then returned with a door to use as a litter. At the breach, four long-limbed beasts backed into the smoke and formed a bristling line without looking toward Halwen.
+A goblin in a leather apron stood on a broken fountain and called numbers in rough trade speech. “Six hands to grain. No—two. Six to water. Bandage chest goes broad road.” He pointed at bearers rather than bodies, and the bearers contradicted him by pointing at their own loads. Beside the undercroft mouth, a horned woman tightened a splint on a wounded figure whose face Chask could not see. Two small goblins carried the figure’s shield away, then returned with a door to use as a litter. At the breach, four long-limbed beasts pushed into the smoke and set themselves in a bristling line against the burning brush, their backs to the soldiers still coming through, stamping out brands before they could roll into the lane. None of them looked toward Halwen.
 
 The captain saw the line. “Skirmish screen.”
 
@@ -58,7 +58,7 @@ The captain saw the line. “Skirmish screen.”
 
 A clicking came from under Chask’s boots.
 
-She threw herself aside. A flagstone dropped where she had stood, exposing black water and the snapped curve of a brick vault. One of the pale crawlers clung head-down to the colonnade. Lamplight traveled over pearled skin as the figure uncovered and covered a shuttered lantern: twice, pause, once. A free hand tapped the pillar.
+She threw herself aside. A flagstone dropped where she had stood, exposing a drop into dark air and the snapped curve of a brick vault. One of the pale crawlers clung head-down to the colonnade. Lamplight traveled over pearled skin as the figure uncovered and covered a shuttered lantern: twice, pause, once. A free hand tapped the pillar.
 
 The goblin on the fountain shouted, “Nacre says bad roof. Or bad floor. This stone. Not all stone.”
 
@@ -70,7 +70,7 @@ Nacre tapped three quick strokes, waited, then tapped them farther along the pil
 
 The captain stepped over the hole. “Ten minutes.”
 
-Chask sent two sappers to probe ahead with their setting rods. She took the crock around the broken pavement herself. The crack beneath the yard was not random. It traced the line of the half-collapsed culvert, the void their first charge had found and punished. Smoke pressed down from the burning wall. People vanished into it carrying water, returned empty, and chose new work when the bucket line failed.
+Chask sent two sappers to probe ahead with their setting rods. She took the crock around the broken pavement herself. The crack beneath the yard traced the line of the half-collapsed undercroft, the void their first charge had found and punished. Smoke pressed down from the burning wall. People vanished into it carrying water, returned empty, and chose new work when the bucket line failed.
 
 At the chainhouse door, Halwen barred their way.
 
@@ -84,17 +84,17 @@ Around them, several refugees moved at the rasp. A few ducked. One covered a lam
 
 Halwen’s next breath clicked hard enough to fleck blood onto her lip. “Your blast broke the broad road.”
 
-Behind her, the chainhouse floor was crowded with winding drums, brake levers, and stone counterweights. The largest chain descended through a slot toward the culvert mouth. Families were moving through the room, some toward a narrow stair, others down a ramp wide enough for the six-legged beast. Not troops awaiting orders. Traffic under pressure.
+Behind her, the chainhouse floor was crowded with winding drums, brake levers, and stone counterweights. The inner gate’s chains wound onto the main drum; the largest chain ran apart from them, down through a slot toward the undercroft mouth. Families were moving through the room, some toward a narrow stair, others down a ramp wide enough for the six-legged beast. Not troops awaiting orders. Traffic under pressure.
 
-Chask set down her end of the crock. “Where does the broad ramp pass under this floor?”
+Chask set down her end of the crock. “Where does the broad road pass under this floor?”
 
 Halwen looked at the setting rods and then at the captain’s sword. “Away from you.”
 
 “If the crack has crossed its roof—”
 
-“Away.” She kept one hand on the doorframe. Its tremor had nothing to do with the stone.
+“Away.” She kept one hand on the doorframe, and the hand was shaking.
 
-The apron-wearing goblin shoved between two sappers with a crate against his chest. “One route list. She carries it. Wouldn’t give me a copy.”
+The apron-wearing goblin shoved between two sappers with a crate against his chest, making for the ramp.
 
 “Kritt.” Halwen’s voice split his name into scrape, pulse, and one hard click. She caught the frame when her balance went.
 
@@ -106,9 +106,9 @@ The apron-wearing goblin shoved between two sappers with a crate against his che
 
 He turned his back on her and pointed two goblins toward the medicine chest. One went. The other shook her head, lifted a small child from beneath the winding drum, and took the stair instead. Kritt swore, revised his count on his fingers, and waved a pair of larger bearers into the empty place.
 
-The captain drew a red cord from the powder crock. “Place it on the main drum.”
+The captain drew a red cord from the powder crock and put it in the nearest sapper’s hand. “Place it on the main drum.” His eyes went to Halwen, to the blood on her lip and the hand on the frame. “When the charge is seated, Lieutenant, you will secure the woman.”
 
-Chask crouched at the floor crack. Air moved through it, pulling smoke downward. She put two fingers to the stone and felt a tremor that was not Halwen’s curse: feet, many of them, passing below. The broad escape ran directly under the chainhouse.
+Chask crouched at the floor crack without answering. Air moved through it, pulling smoke downward. She put two fingers to the stone and felt a steady tremor: feet, many of them, passing below. The broad road ran directly under the chainhouse.
 
 “Not the drum,” Chask said. “We need the foundation.”
 
@@ -116,21 +116,19 @@ Halwen’s gaze sharpened. The captain only nodded. A foundation charge was ordi
 
 “Show me the ramp line,” Chask said to Halwen.
 
-“So you can follow it?”
+“You’d follow—” The clicks buried the rest. Halwen wiped her lip with the back of her wrist and did not try again.
 
-“So I can find what carries this floor.”
+“This crack is over your road,” Chask said. “I can feel your people walking under it. I need to know how far it runs.”
 
-“You already found it once.”
+The captain cut in. “Eight minutes.” He went out into the smoke, calling for the point company.
 
-The captain cut in. “Eight minutes.”
+Halwen pushed away from the frame and turned to the room. Her voice went out over the drums and the crowded ramp in its three torn pieces. “Big ones. Ramp.” A click caught in her throat; she spat red. “Small. With Nacre. West passage—” She shook her head. “Shut. Kitchen door. Mine.”
 
-Halwen pushed away from the frame. “Large bodies take the ramp. Small bodies go with Nacre. The west drain is blocked. The old kitchen stair is mine.”
+A horned bearer swung a handcart toward the ramp. Two goblins looked up at the stair and stayed where they were. Most of the room went on carrying as if nothing had sounded.
 
-“How many?” Chask asked.
+“How many on the ramp?” Chask asked.
 
-“Not yours to count.”
-
-Kritt answered from the medicine chest. “Broad road, forty-two walking, seven carried, three frames. Crawlway had thirty before Nacre changed the line. Count went bad.”
+Halwen did not look at her. Kritt rounded on Halwen from the medicine chest, counting at her on his fingers. “Broad road, forty-two walking, seven carried, three frames. Crawlway had thirty. Then Nacre changed the line. Now more small to Nacre?” He opened his hand at her, empty. “Count went bad.”
 
 As if to demonstrate, the six-legged beast entered the chainhouse with only one pannier left. A goblin tried to strap the medicine crate onto the vacant side. The beast folded all six legs and flattened its ears. When the goblin tugged, it rolled enough to pin the loose harness under its weight.
 
@@ -140,15 +138,15 @@ Kritt slapped both palms against his thighs. “It says one side pulls wrong.”
 
 Kritt stared at the blocked ramp, then kicked the harness buckle free. “No load.” He split the medicine into two canvas bags and handed them to separate bearers.
 
-Nacre dropped from the colonnade into the doorway, landing in a low fold of limbs. Up close, Chask could see old mortar whitening their fingertips. Nacre tapped the floor: three strokes, then two. They flashed the lantern at the ceiling and pointed to the culvert ramp.
+Nacre dropped from the colonnade into the doorway, landing in a low fold of limbs. Up close, Chask could see old mortar whitening their fingertips. Nacre tapped the floor, three strokes and then two, flashed the lantern at the ceiling, and pointed down the ramp.
 
 “Three roof ribs, two broken?” Chask guessed.
 
-Nacre went still. Then they struck three stones in sequence. The first rang. The next two answered dull.
+Nacre went still, then struck three stones in sequence. The first rang. The next two answered dull.
 
-There it was. The chainhouse load traveled across three ribs; two had detached from the wall. The second charge would not open the gate. It would punch the remaining rib into the ramp and drop the tower after it. Forty-two walking, seven carried, three frames—bad count, still enough to bury.
+There it was. The chainhouse load traveled across three ribs; two had detached from the wall. Powder set anywhere in this room would punch the remaining rib into the ramp and drop the tower after it. Forty-two walking, seven carried, three frames—bad count, still enough to bury.
 
-Chask crossed to the west wall. The crack rose through it, passed behind the counterweight guide, and continued toward the causeway abutment. The first blast had made the whole gate complex one failing structure. Put the powder here and the release would run both ways: down through the culvert roof and outward into the upper approach, where the point company waited.
+Chask crossed to the west wall. The crack rose through it, passed behind the counterweight guide, and continued toward the causeway abutment. The first blast had made the whole gate complex one failing structure. Put the powder here and the release would run both ways: down through the undercroft roof and outward into the upper approach, where the point company waited.
 
 The crack, the failed ribs, and the loaded approach were enough for any board of engineers.
 
@@ -156,17 +154,13 @@ The captain’s horn sounded one short note from the yard.
 
 “Six minutes,” said one of her sappers.
 
-“Lift the crock,” Chask ordered. “We’re moving it to the outer switchback.”
+“Lift the crock,” Chask ordered. “We set at the outer switchback, on the open face.”
 
-The sapper with the red cord stared at her. “Away from the gate?”
+The sapper with the red cord did not move. “Captain said the chainhouse.” Beside him, another sapper looked at the doorway the captain had gone out by.
 
-“This foundation vents into the culvert and shears the approach under our point. The outer bend has an open fall and one unsupported face. We cut there.”
+“Then I’ll answer for it. Lift.”
 
-“That leaves the chainhouse standing.”
-
-“It leaves us standing. Lift.”
-
-Halwen caught Chask’s sleeve. Her grip was hard, her footing suddenly not. “The switchback falls across the ravine traverse.” Rasp. Vibration. Clicks. Several heads turned at the vibration; two refugees started for the broad ramp, while Kritt kept loading medicine. He relayed the warning with two raised fingers. Farther down the ramp, someone answered with three knocks on wood; from the yard came a shrill animal call that Halwen did not echo.
+Halwen caught Chask’s sleeve. Her grip was hard, her footing suddenly not. “The switchback falls across the ravine traverse.” Rasp. Vibration. Clicks. Several heads turned at the vibration; two refugees started down the ramp, while Kritt kept loading medicine. He relayed the warning with two raised fingers. Farther down the ramp, someone answered with three knocks on wood; from the yard came a shrill animal call that Halwen did not echo.
 
 “Then clear the traverse before the fuse reaches the bend.”
 
@@ -180,21 +174,21 @@ A falling lintel struck the doorway before they could move the powder. One end s
 
 Smoke swallowed the yard beyond. A soldier screamed once, then coughed. The captain’s horn repeated the short note.
 
-Two sappers levered at the lintel. Another knelt by the crock, pulled the fuse out of its clay collar, and cut it short with his knife.
+Two sappers levered at the lintel. Another knelt by the crock, pulled the fuse out of its clay collar, and cut it short with his knife. A long burn on the open bend would give anyone time to stamp it out.
 
-“I can take this through the gap,” he said.
+“I’ll take the fuse through the gap and have the groove cut before the powder gets there,” he said.
 
 “You’ll need to pass the point company.”
 
 “They know my coat.” He wrapped the cut fuse around his wrist, crawled under the lintel, and disappeared into smoke.
 
-One of the lever team watched him go. “I’m not explaining a missing charge to them.” She reset her bar deeper under the stone. “I’ll move it.”
+One of the lever team watched him go. “I’m not telling the captain the powder sat behind a rock.” She reset her bar deeper under the lintel. “I’ll shift it.”
 
-The others braced with her. Chask joined them. On the far side, hands of several shapes appeared beneath the lintel. Kritt shouted, “On three.” A stone shifted at two; everyone heaved early. The lintel rose a hand’s breadth. The crock scraped through.
+The others braced with her. Chask joined them, and Kritt shouldered in at her elbow. From the yard side, hands of several shapes appeared under its edge. Kritt shouted, “On three.” A stone shifted at two; everyone heaved early. The lintel rose a hand’s breadth, and they jammed a bar under it to hold the gap.
 
-Nacre flashed a rapid burst toward the ramp. Small figures peeled away from the broad lane and followed them up the narrow stair: two goblins, a many-jointed refugee carrying a bundled infant, a wounded traveler walking with one arm over someone half their height. Others tested the opening and turned back when shoulder, horn, or carrying frame would not clear it. No one tried to force them into the same route.
+Nacre flashed a rapid burst toward the ramp. Small figures peeled out of the ramp traffic and followed Nacre up the narrow stair: two goblins, a many-jointed refugee carrying a bundled infant, a wounded traveler walking with one arm over someone half their height. Others tested the stairwell and turned back when shoulder, horn, or carrying frame would not clear it.
 
-At the winding drum, Halwen hauled the brake lever and failed to move it. She had meant to keep the counterweight; Chask saw that in the careful wedges, the oiled chain, and a winter stores schedule chalked beside the drum. Without its pull, the damaged culvert gate would open only halfway.
+At the winding drum, Halwen hauled the brake lever and failed to move it. She had meant to keep the counterweight; Chask saw that in the careful wedges, the oiled chain, and a winter stores schedule chalked beside the drum. Without its pull, the damaged undercroft gate would open only halfway.
 
 Kritt dragged the last medicine bag to the ramp. Behind him the north roof burned through, dropping sparks into the grain bins.
 
@@ -202,45 +196,43 @@ Kritt dragged the last medicine bag to the ramp. Behind him the north roof burne
 
 “Leave it,” Halwen tried to say. The word was only voiceless air. No rasp, vibration, or clicks followed. She lurched against the brake stand and pressed both hands to her throat.
 
-Kritt looked at the bins, at the ramp, and at her. “Grain stayed,” he said, not gently. “Oil too.”
+Kritt looked at the bins, at the ramp, and at her. “Grain stayed,” he said. “Oil too.”
 
 He went down the ramp.
 
-Halwen took a hammer from the wall. Chask knew what she meant to do a moment before the blow landed. The holding pin snapped. The counterweight dropped through its shaft with a roar, flinging the chain off the drum. Somewhere below, a gate crashed open; the shock tore the brake stand from its bolts and ruined every careful sequence the chainhouse had once controlled.
+Halwen took a hammer from the wall. Chask knew what she meant to do a moment before the blow landed. The holding pin snapped. The counterweight dropped through its shaft with a roar, flinging the chain off the drum. Below, the undercroft gate crashed open; the shock tore the brake stand from its bolts and ruined every careful sequence the chainhouse had once controlled.
 
 Halwen fell to one knee. No warning followed. Silence, and the curse with it.
 
-The six-legged beast rose at the sound of the opening gate and chose the ramp. It carried one pannier, no driver. The rearguard came backward from the fire in pairs, one dragging an injured companion, another staying until the broad lane cleared. At the culvert mouth, the horned healer shoved the door-litter ahead and turned back for someone Chask could not see.
+The six-legged beast rose at the sound of the opening gate and went down the ramp. It carried one pannier, no driver. The rearguard came backward from the fire in pairs, one dragging an injured companion, another staying until the last stragglers were past. At the undercroft mouth, the horned healer shoved the door-litter ahead and turned back for someone Chask could not see.
 
-Chask’s sappers shouldered the powder through the lifted gap. Halwen pushed herself up and pointed—not after Nacre, not after Kritt, but through a service door onto a ledge above the ravine. The route she had kept for herself.
+Chask’s sappers shouldered the powder and turned for the lifted gap. Halwen pushed herself up and pointed the other way, at the old kitchen door in the back wall. Beyond it a ledge ran along the ravine. The route she had kept for herself.
 
-“Traverse?” Chask asked.
+“That comes out at the switchback?” Chask asked.
 
 Halwen nodded once.
 
-They carried the crock outward.
+They carried the crock out by the kitchen door.
 
-The ledge met the upper switchback behind the waiting point company. Below, refugees spilled from the wrenched-open culvert and divided. Nacre’s smaller group emerged farther down through a crack in the ravine wall, their shuttered light blinking over bad footholds. Broad-bodied beasts took the exposed traverse in single file. The wounded went between them where the path widened. Kritt had stopped at the far turn to throw medicine bags across a washout one at a time; when someone reached back for him, he bared his teeth and threw the second bag instead.
+The ledge met the upper switchback behind the waiting point company. Below, refugees spilled from the wrenched-open undercroft gate and divided. Nacre’s smaller group emerged farther down through a crack in the ravine wall, their shuttered light blinking over bad footholds. Broad-bodied beasts took the exposed traverse in single file. The wounded went between them where the path widened. Kritt had stopped at the far turn to throw medicine bags across a washout one at a time; when someone reached back for him, he bared his teeth and threw the second bag instead.
 
 Chask set the charge against the unsupported face of the switchback. Here the blast could spend itself into open air. Here the falling shelf would tear away the host’s only road up and cover the traverse after the last refugee crossed it.
 
 The captain came through the smoke with four soldiers. “The chainhouse, Lieutenant.”
 
-“Two roof ribs failed. A charge there drops the escape vault and drives the abutment under this company.” Chask packed clay around the crock. “This bend is the only face that will vent.”
+Chask packed clay around the crock and did not look up.
 
 “The chainhouse was the objective.”
 
-“The approach is tied to it. Blast the chainhouse and this bend goes before the gate does.”
-
-The captain’s eyes went to the people below. He was not slow. “You are cutting pursuit.”
+Her hands kept working. The captain’s eyes went to the people below. “You are cutting pursuit.”
 
 “I am cutting a failed load path before the host puts another five hundred men on it.”
 
-He reached for the fuse. Halwen stepped between them with the hammer hanging from one hand. No one gathered at her back. Nacre was gone. Kritt was below. The rearguard had made its own retreat. Halwen could not have voiced a command if she tried.
+He reached for the fuse. Halwen stepped between them with the hammer hanging from one hand. No one gathered at her back. Nacre was gone. Kritt was below. The rearguard had made its own retreat.
 
 The captain drew his sword.
 
-Chask looked down the traverse. The six-legged beast had stopped at the washout. No handler pulled it. It tested the edge with one forefoot, withdrew, then climbed upslope on a narrower line no cart could use. The beasts behind chose separately—two followed, one waited for the door-litter to pass, another turned down toward the water.
+Chask looked down the traverse. The six-legged beast had stopped at the washout. No handler pulled it. It tested the edge with one forefoot, withdrew, then climbed upslope on a narrower line no cart could use. Of the beasts behind, two followed, one waited for the door-litter to pass, and another turned down toward the water.
 
 The last rearguard pair cleared the fall line.
 
@@ -256,7 +248,7 @@ Chask caught Halwen when the ledge pitched beneath them. Halwen struck her hand 
 
 When the air cleared enough to breathe, the road from the host ended in empty space.
 
-Below, no single column moved away. Nacre’s lights descended along the narrow cleft until rock hid them. Kritt and the litter bearers took the watercourse. The six-legged beast and two others climbed the bare slope. Halwen stood on the ruined wall above them, swaying, one hand clamped to her throat, and watched each route without calling anyone back.
+Below, no single column moved away. Nacre’s lights descended along the narrow cleft until rock hid them. Kritt and the litter bearers took the watercourse. The six-legged beast and two others climbed the bare slope. Halwen stood on the ruined wall above them, swaying, one hand clamped to her throat, and watched each route until it emptied.
 
 The host sounded advance from the lower switchback. The note met the break and became confused shouting. Ropes would come. Timber would come. Rebuilding the approach would take hours.
 
@@ -264,9 +256,9 @@ The captain found Chask beside the breach. Dust had grayed his face. “You will
 
 Her sappers came in by twos from their positions. The man who had carried the cut fuse returned without it, his coat torn at one elbow. Among the six were burns, torn sleeves, and a shoulder held stiff. All were walking.
 
-“The chainhouse foundation had lost two of three supporting ribs,” Chask said. “Detonation there would have collapsed the culvert vault and displaced the approach abutment under our own troops. I relocated to the nearest unsupported face with an open vent.”
+“The chainhouse foundation had lost two of three supporting ribs,” Chask said. “Detonation there would have collapsed the undercroft vault and displaced the approach abutment under our own troops. I relocated to the nearest unsupported face with an open vent.”
 
-Below them, the host tried another horn sequence. Halwen climbed down from the wall without looking at Chask. Kritt waited only long enough to hand her one end of the litter; she took it with fury in every motion. Together they followed the watercourse out of sight.
+Below them, the host tried another horn sequence. Halwen climbed down the outer face of the wall without looking at Chask. The captain watched her until she reached the ravine floor. His four soldiers watched him. He gave no order. Kritt had come back up the watercourse with the litter, and he waited only long enough to hand her one end. She wrenched it from him and set off at a pace that made him trot to keep his end level. Together they followed the watercourse out of sight.
 
 “You will repeat that exactly,” the captain said.
 
