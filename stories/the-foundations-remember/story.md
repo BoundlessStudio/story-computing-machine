@@ -310,7 +310,7 @@ The booth shook. On the shelf, the case's leveling feet whispered against metal.
 
 Haru looked down at his open restraints. "I'm not asking for yours."
 
-"If they audit my—" Amel stopped.
+"Mine's pledged until I certify."
 
 "All I wanted was somebody at that wall."
 
