@@ -192,7 +192,7 @@ He held up three fingers, folded one, then frowned at his hand as if it had betr
 
 Erisel looked at her. "Don't inventory losses over him."
 
-"Mekran, pressure means you squeeze one of our hands. Once is stop. Twice is yes. Hold means wait. Is that usable?"
+Korrin turned to him. "Mekran, pressure means you squeeze one of our hands. Once is stop. Twice is yes. Hold means wait. Is that usable?"
 
 He reached for Korrin. Twice.
 
@@ -242,7 +242,7 @@ The words were hers.
 
 Erisel looked at the gold braid along Korrin's throat. "He's been on that bench since the west cabinets. You told me yourself his last visit was during the leak."
 
-"I put Dad's face on for the closing." Korrin slid a cell back into its slot, though its date had already failed to match. "It was his seal. I wasn't breaking it on a guess."
+"I put Dad's face on for the closing." Korrin slid a cell back into its slot without checking its date. "It was his seal. I wasn't breaking it on a guess."
 
 Erisel wanted to tell her precisely how much sentiment she had mistaken for safeguards. Then Mekran's hand knocked once against the bench.
 
