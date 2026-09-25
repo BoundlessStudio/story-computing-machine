@@ -162,7 +162,7 @@ Adal worked along the rail to B's dog. A nest cup covered half its jaw, but no l
 
 "Mark C and G occupied," he said. "A clear after edge. E clearing."
 
-"That kills A, C, E, G," Bero said. "It was the cheapest balance on reaction. Give me every clear dog."
+"That kills the A-C-E-G set," Bero said. "It was the cheapest balance on reaction. Give me every clear dog."
 
 Adal and Pado split around the rim, the line reel between them paying out against the truss. The machine's scale became dog sockets, tether clips, the shove of a stuck inspection cover. D was clean but its roller gap carried five taut spans. F's crank moved, then stopped against something soft beneath the jaw; Adal backed it off without testing again. H had cups around the housing and a clear service track.
 
@@ -180,7 +180,7 @@ The overlapping leaves broke the advancing light into separate passages. A secon
 
 Enver broke in. "Twenty-eight minutes. Eastern stations have the moon's leading dim. Your straight edge has widened by six percent."
 
-"If width is six, I need three point three average. Adal, don't open anything under three."
+"If width is six, I need three point three average," Bero said. "Adal, don't open anything under three."
 
 "Three minimum. Confirm."
 
