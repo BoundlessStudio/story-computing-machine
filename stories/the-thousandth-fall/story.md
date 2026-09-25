@@ -10,13 +10,13 @@ canon: false
 
 Rasden discovered the wrong way to heal himself because Palla would not let him finish doing it properly.
 
-He had missed the turn on the Midsky Cloister stair and gone shoulder-first into the rain trough. Water slapped over the tiles. His left arm hung numb, his ankle had folded somewhere beneath him, and Palla leaned over the rail above with the expression of a woman who had just won something.
+He had missed the turn on the Midsky Cloister stair and gone shoulder-first into the kitchen woodpile. Split logs rolled across the tiles. His left arm hung numb, his ankle had folded somewhere beneath him, and Palla leaned over the rail above with the expression of a woman who had just won something.
 
 “Seven landings,” she called. “You made seven.”
 
-Rasden pushed wet hair out of his eyes with his good hand. “There were eight.”
+Rasden brushed bark out of his eyes with his good hand. “There were eight.”
 
-“The trough isn't a landing.”
+“The woodpile isn't a landing.”
 
 “Then why am I on it?”
 
@@ -26,7 +26,7 @@ The working found the last sound shape of him: shoulder seated, ankle straight, 
 
 All that remained was the closing breath.
 
-Palla vaulted the rail, dropped beside him, and plucked his sandal from the trough. “You owe me three honey cakes.”
+Palla vaulted the rail, dropped beside him, and plucked his sandal from the logs. “You owe me three honey cakes.”
 
 “Two.” Rasden rose to take it from her.
 
@@ -38,7 +38,7 @@ The warmth should have faded. Instead it moved with him, quick and curious, down
 
 “Nothing yet.”
 
-He jumped from the trough to the stair rail, a distance he usually crossed with an undignified scramble. His bare foot struck the narrow stone. His calf tightened, his ankle wobbled, and the open mend flashed through both, not dragging them back to their earlier state but holding the landing he had just survived. When he sprang to the next rail, the motion came cleanly. Easier.
+He jumped from the woodpile to the stair rail, a distance he usually crossed with an undignified scramble. His bare foot struck the narrow stone. His calf tightened, his ankle wobbled, and the open mend flashed through both, not dragging them back to their earlier state but holding the landing he had just survived. When he sprang to the next rail, the motion came cleanly. Easier.
 
 Palla's grin went crooked. “Do that again.”
 
@@ -70,7 +70,7 @@ At one hundred falls, Rasden stepped from the cloister wall and landed hard enou
 
 “The ground doesn't care,” he told her.
 
-“The ground doesn't keep the cord.”
+Palla picked the second knot loose and did not look up.
 
 At three hundred, he could drop from the bellhouse, rebound from the courtyard, and clear the outer wall without touching the stair between. At six hundred, he began using the quarry shelves below the cloister. Palla would stand at the top and throw pebbles after him. He always reached the bottom first.
 
@@ -134,7 +134,7 @@ The cord filled, and Palla retied its single knots into tens and its tens into h
 
 Fall nine hundred and ninety-nine began on the highest shelf above Midsky Cloister.
 
-“Make this one ugly,” Palla said. She stood far below on the bell terrace, the counting cord wrapped twice around her wrist.
+“Make this one ugly,” Palla called up. She stood far below on the bell terrace, the counting cord wrapped twice around her wrist.
 
 Rasden stepped into open air.
 
@@ -168,11 +168,11 @@ Rasden completed ten more circles. The bell stood quiet in its cradle, and Palla
 
 Two ridges away, the western wall of Suncleft Gorge split along a water-dark seam. Spring melt had worked deep into the stone; now a shelf the size of a village square peeled loose under its own weight. It fell in a pale, grinding sheet. The western anchorage of the Pilgrim Span vanished with it.
 
-The bridge was crowded. For one suspended instant Rasden saw the caravan against the sky: bright packs, walking staffs, adults reaching for children. Then the far end dropped. The span folded into the gorge.
+The bridge was crowded. For one suspended instant Rasden saw the caravan against the sky, a dark line flecked with color. Then the far end dropped. The span folded into the gorge.
 
 Palla shouted his name, but Rasden was already gone.
 
-The road to Suncleft was two steep miles. He crossed it before the first crash finished echoing. Trees hammered past. A mule on the approach threw up its head at the thunder of his feet, and then he was at the eastern anchorage as the last main rope tore through its stone guide.
+The road to Suncleft was two steep miles. He crossed it before the first crash finished echoing. Trees hammered past. A mule on the approach threw up its head at the thunder of his feet, and then he was at the eastern anchorage as the first of its two main ropes tore through its stone guide.
 
 Rasden caught it.
 
@@ -180,13 +180,13 @@ The rope burned through both palms and hauled him to the lip. Forty yards of tim
 
 The stone beneath it shattered. His knee bent, his shoulder opened with a hot internal rip, and the mend flooded every break. Rasden pulled. The bridge stopped a man's height from smashing into the eastern wall.
 
-For a heartbeat it hung from his hands and the one surviving main rope. Then he dragged the whole span upward until its lower decking struck a broad sloping ledge. Timber shrieked. The ledge held. Rasden threw the rope he had caught around its scarred stone horn and pulled until the fibers locked. Between the two eastern ropes and the ledge, the ruined span held.
+For a heartbeat it hung from his hands and the one surviving main rope. Then he dragged the whole span upward until its lower decking struck a broad sloping ledge. Timber shrieked. The ledge held. Rasden threw the rope he had caught around the anchorage's scarred stone horn and pulled until the fibers locked. Between the two eastern ropes and the ledge, the ruined span held.
 
 Palla arrived on a lathered horse, flung herself from the saddle, and skidded to the rim. “Forty-seven!” she gasped.
 
 “People?”
 
-“No, turnips. Yes, people. I think. The bridge moved.”
+“No, turnips. Yes, people. Their mule driver counted them onto the span.”
 
 The ruined span hung almost vertically against the cliff. Pilgrims clung to planks, side netting, and one another. Rasden could have hauled all of it higher, but arms and ankles were threaded through torn ropes. His mend healed only him. One hard jerk would save the bridge and kill the people on it.
 
@@ -200,9 +200,9 @@ He did not climb as other people climbed. His fingers struck cracks and released
 
 “Two,” Palla said.
 
-“You said forty-seven.”
+“Where?”
 
-“Then stop chatting.”
+“Side netting, under the split crossbeam. Three.”
 
 Down again.
 
@@ -230,13 +230,13 @@ Trip followed trip. Dust thickened, and the ledge beneath the bridge shed chips 
 
 “Thirty-one!”
 
-Palla ran the rim above him, dropping to her belly to see under each fold of the ruined span. Her early calls had carried jokes. Now they came clipped and raw.
+Palla ran the rim above him, dropping to her belly to see under each fold of the ruined span.
 
 “Two beneath you. One lower. Lower!”
 
 Rasden tore open the side net and found them.
 
-Seven more came up through dust and swinging rope.
+Six more came up through dust and swinging rope.
 
 “Forty!”
 
@@ -244,9 +244,9 @@ He brought up an old man and two young pilgrims bound together by a loop of hand
 
 “Quit dancing,” she said as Rasden jogged a tight circle to keep the mend open.
 
-“Nine hundred and ninety-nine is still listening.”
+“Can't stop.”
 
-“Show-off. Go.”
+She flapped a hand at the cliff. “Go.”
 
 He went.
 
@@ -288,7 +288,7 @@ Rasden's spine bowed. Something tore from hip to ribs. The open mend blazed thro
 
 He stopped falling. Then he climbed.
 
-Strength turned the full weight upward. Speed found grips before shattered stone could leave them. Stamina, after two miles and trip upon trip along the cliff, kept his heart driving with the same delighted force. The working joined all three because he gave it no pause in which to divide them.
+Strength turned the full weight upward. Speed found grips before shattered stone could leave them. Stamina, after two miles and trip upon trip along the cliff, kept his heart driving with the same delighted force.
 
 Rasden ran up the face of Suncleft Gorge with the broken Pilgrim Span across his shoulders.
 
@@ -318,11 +318,11 @@ Palla rose with the counting cord. Her hands shook as she worked a new knot into
 
 “There was a person near it.”
 
-“On the other side.”
+“Three yards under it.”
 
 Palla lifted her chin toward the forty-seven people alive behind him. “Forty-seven. Right enough.”
 
-Rasden looked at her. Dust striped her face. Her eyes were bright, and there was no fear in them now, only the enormous answer he had wanted from her and never known how to ask for.
+Rasden looked at her. Dust striped her face. Her eyes were bright and unafraid, and wide with the astonishment she had withheld for a thousand knots.
 
 Palla glanced away first. “You wanted a proper thousandth.”
 
