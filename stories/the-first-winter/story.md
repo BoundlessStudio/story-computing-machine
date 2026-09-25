@@ -188,7 +188,7 @@ By noon the little crossbow was lying between us. Besset had brought it down fro
 
 I loaded it for her.
 
-Outside, she knelt behind a stump and put a bolt into the centre of a scrap of cloth. Then she stayed there, staring at what she had done, until I went to fetch it.
+Outside, she knelt behind a stump and put a bolt into the centre of a scrap of cloth. Then she stayed there, staring at what she had done, until I went to fetch the bolt. When I came back I loaded the crossbow again.
 
 We chose the gully I had told her about, below the boulder where she'd pulled me to safety. It was stony, and it bent sharply at its upper end. A flat shelf overlooked the bend; on the other side, a fallen beech offered Besset cover and a rest for her crossbow. Behind us the path climbed toward home.
 
