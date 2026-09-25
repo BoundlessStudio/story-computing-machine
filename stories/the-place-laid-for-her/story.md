@@ -244,7 +244,7 @@ He looked at her for so long that she put it down again.
 
 “But it is amorous. I thought it was the most amorous thing I'd ever done. I was worried it went too far.”
 
-“Is it?”
+“How?”
 
 He turned back to the first sheet. “The lilies. That whole first stanza. They're meant to be my letters, sort of. And the poems. And the blade's lying there among them dreaming about the next fight, the next but, so they wilt a bit.” His thumb found the edge of the paper again. “It's affectionate. Mostly.”
 
@@ -332,7 +332,7 @@ He nodded. She sat with her bare disappointment, which had no particular facial 
 
 She looked at the flowers he had shifted, her place laid with things she couldn't use, the beautiful room in which she had placed him. He hadn't asked for any of it. She had hoped he would arrive and know what to do.
 
-“You wouldn't have liked the third one either,” she said.
+“You wouldn't have liked the third piece either,” she said.
 
 “Was there another?”
 
