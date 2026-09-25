@@ -398,7 +398,7 @@ The rival looked past Elspeth at the blood on the lieutenant, then at the underb
 
 “My son?”
 
-The driver checked her phone. “Back of the second car, two streets over, down in the footwell under a coat. Nobody opened it till the shooting stopped. Scared. Not touched.”
+The driver checked her phone. “Back of the second car, two streets over. Down in the footwell under a coat. Scared. Not touched.”
 
 The rival closed his eyes once. When he opened them, he looked at his daughter.
 
