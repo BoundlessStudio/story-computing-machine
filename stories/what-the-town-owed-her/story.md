@@ -91,7 +91,7 @@ She turned over the flood picture and put her finger on the date. She had been t
 
 “I tried to leave, the first spring. While they're open, I can't get past the boundary post on the upper road.”
 
-I looked down at the notebook. Every entry in it was one more she would have to let go before the boundary let her through. I ran my finger past the old entries to the names of children and grandchildren. “You put them in here too. That boy thought he owed you a key.”
+I ran my finger down the notebook, past the old entries to the names of children and grandchildren. “You put them in here too. That boy thought he owed you a key.”
 
 “So I know whose door to knock on. I haven't bound them, Leonie. They weren't there to make the promises.” Evadne looked toward the door. “I've told his mother there's no curse for refusing me. If she keeps the key, I find another way into the yard.”
 
@@ -125,9 +125,7 @@ I retrieved my grandmother's note from the table. “I'm trying to pack up her t
 
 “I know I can.”
 
-She nodded. I folded the note and put it in my pocket.
-
-“I'll bring the blankets down. Then I've got things to finish.”
+She nodded. I folded the note and put it in my pocket. “I'll bring the blankets down. Then I've got things to finish.”
 
 “All right.”
 
@@ -175,7 +173,7 @@ Evadne's shoulders shook. I crouched beside her. “Can you lift it back?”
 
 “No. Only hold it.” She swallowed. “I have to keep my hands here.”
 
-The elderly woman was staring at the gap behind her. I set the lantern back on the gravel and stepped onto the stone. I wanted to ask how long Evadne had. Her fingers were already whitening against the abutment. I went the three paces and knelt in front of the woman.
+The elderly woman was staring at the gap behind her. I set the lantern down on the gravel and stepped onto the stone. I wanted to ask how long Evadne had. Her fingers were already whitening against the abutment. I went the three paces and knelt in front of the woman.
 
 “Where does it hurt?”
 
@@ -277,4 +275,4 @@ I still meant to sell number five. The boxes could wait another day. I was cold,
 
 “I’m making tea,” I said. “Come back with me if you want some.”
 
-Evadne looked once along the road she could finally take. Then she crossed into Mirehaven beside me, and we went back along the upper road to Rookglass House.
+Evadne looked once down the wet road. Then she crossed into Mirehaven beside me, and we went back along the upper road to Rookglass House.
