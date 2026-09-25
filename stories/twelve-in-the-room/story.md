@@ -10,7 +10,7 @@ canon: false
 
 Hesk raised his pistol because eleven other weapons were already pointing at Osselin, and he didn't want anyone noticing that he had hesitated.
 
-His left hand was empty. The packet was supposed to go there. Collect it from the woman in white; check the seal; kill her before leaving. His phone was recording from his breast pocket. The buyer wanted her alive on the recording, identifying the papers she handed over. Half the money had arrived yesterday; the rest depended on that handover and her death. Other buyers might attend, his instructions said, and might be armed. He had understood that to mean he would have to shoot his way out afterward.
+His left hand was empty. The packet was supposed to go there. Collect it from the woman in white; check the seal; kill her before leaving. His phone sat in his breast pocket with the lens clear of the flap. It was filming, and the footage went straight to an address the buyer had given him. The buyer wanted her alive on the footage, identifying the papers she handed over. Half the money had arrived yesterday; the rest depended on that handover and her death. Other buyers might attend, his instructions said, and might be armed. He had understood that to mean he would have to shoot his way out afterward.
 
 He had not understood that he would know them all.
 
@@ -26,17 +26,19 @@ He moved away from the doors. Osselin watched him take his place in the circle.
 
 Across the light, Paske grinned at a man in a red tie. The man didn't grin back. He was looking at the long gun beside the double doors, its barrel wavering now between Osselin and the people surrounding her.
 
-“You said a private appointment,” Paske said.
+“Mine said private,” Paske said to him.
 
-“I told you there would be other buyers.”
+“Other buyers might attend,” Osselin said, “and might be armed.”
 
-“Buyers.” He gave the word to the man in the tie, inviting him to enjoy it. “Right.”
+Hesk had read that sentence on his own instructions, word for word.
+
+“Buyers.” Paske gave the word to the man in the tie, inviting him to enjoy it. “Right.”
 
 Behind the long gun, a gray-bearded man pushed the double doors. They didn't move. At the opposite entrance, a man who walked with a stiff leg kicked its lower panel. Osselin bent toward the crate.
 
 “Slow,” Hesk said.
 
-She stopped, looking directly at him for the first time. At sixty she had learned nothing about being old. She used to summon him with that look, past better-paid men, and find him something that mattered.
+She stopped, looking directly at him for the first time. She used to summon him with that look, past better-paid men, and find him something that mattered. She was sixty now. The skin of her throat had loosened, and the worklight showed scalp through her parting.
 
 “Your envelope first, then,” she said.
 
@@ -62,7 +64,9 @@ The bald man made a small choking noise. Paske's grin had gone.
 
 Hesk looked around the ring. Near the service door in the left wall, Vestrin was watching Osselin's coat pockets. Beside her a short woman in green gloves had turned her gun toward Paske. At the far entrance, gold spectacles caught the light as their wearer leaned in to whisper to the man with the stiff leg.
 
-“I hired you,” Osselin said. “Every one of you. Twelve separate commissions to kill me. The people you spoke to were spending my money.”
+“She's the client,” said the woman in green gloves. Her gun swung from Paske back to Osselin. “She's paying all of us to kill her.”
+
+“Every one of you,” Osselin said.
 
 “Then you've overpaid,” Paske said.
 
@@ -71,8 +75,6 @@ He was still looking around for a laugh when she took her left hand out of her p
 “If this hand opens, the room goes.”
 
 The woman in the riding coat, who had joined the gray beard at the double doors, gave a sharp laugh. She stopped when the man with the long gun pointed beneath the gallery. Some of the decorative panels had been removed. Hesk could see dark packages in the cavities, too new against the old dust. More waited behind a fallen strip of paneling near the service door.
-
-He had looked at her hands and missed the room.
 
 “You can put your guns down,” Osselin said. “Or keep them. It won't make a difference.”
 
@@ -92,17 +94,17 @@ He folded the picture against the note. He had been promised the only surviving 
 
 “Are there copies?” he asked.
 
-“There are now.”
+Her eyes went to his breast pocket. “There are now.”
 
-He looked up at her, then remembered the phone recording against his chest.
+He had read the note and looked at the photograph at chest height, square to the lens. Every frame had gone to the buyer's address. He left the phone running. Nobody else was looking at his pocket, and a hand going to it would bring the circle round on him.
 
 The scarred woman bent her knees, as though testing whether she could reach Osselin before anyone else reacted. Hesk straightened quickly. Behind him the gray beard swore at the doors.
 
-“I had to stop you running,” Osselin said. “If I'd taken one of you, the other eleven would have disappeared. Some of you already had. New faces. New friends. I kept paying to find you. Then paying to tempt you.” Her eyes returned to Hesk. “You were the last to say yes.”
+“Leave them,” Osselin told the gray beard. “You'd only have run. I take one of you and the other eleven disappear. Some of you had already, new names and new friends and all of it, so I paid people for years just to find you, and then I had to pay you to come.” Her eyes returned to Hesk. “You were the last to say yes.”
 
 He wished she hadn't said it like that, as if she'd been waiting for him to visit.
 
-Paske took out his phone. “Let's find out how much you have left.”
+Paske took out his phone and held the lit screen toward her, his thumb over the transfer button. “What's left in the pot, after twelve of us?”
 
 “Enough to pay the balances.”
 
@@ -132,9 +134,9 @@ He could feel the folded photograph becoming wet in his fist.
 
 “You sent us to get her,” he said.
 
-“To bring her home.”
+“I wanted her home.”
 
-“She knew what you were. She took the accounts. She wasn't coming home.”
+“She wasn't coming, though. You know she wasn't. She knew what you were, she'd taken the accounts, and I only gave them an address. That's all I—”
 
 Osselin's lips drew back from her teeth. For a moment he thought she would shout. Instead she looked down at her closed hand, the knuckles white.
 
@@ -152,9 +154,9 @@ Hesk watched her swallowing. She had brought them here, spent what she had, laid
 
 Her eyes came up.
 
-He knew that look too. She disliked anyone noticing she needed help.
+He knew that look too.
 
-“We can sit down,” he said. “Nobody has to do anything just yet.”
+“We can sit down,” he said, and took a half step toward the crate. “Nobody has to do anything just yet.”
 
 “Don't come closer.”
 
@@ -166,7 +168,7 @@ The service door rattled. Vestrin had turned its handle behind her back. Osselin
 
 “Let her try it,” Paske said. “She won't get far.”
 
-Osselin kept her pistol on Vestrin. Paske tipped his chin at the man with the gold spectacles. The man shook his head. Paske showed him the phone and spoke too quietly for Hesk to hear. After a moment the man moved away from the far entrance. A shoe squeaked beside Hesk. The man in the red tie had come around the outside of the circle and stopped behind the bald man.
+Osselin kept her pistol on Vestrin. While she watched the door, Paske had worked round the ring to the far entrance. He tipped his chin at the man with the gold spectacles. The man shook his head. Paske showed him the phone and spoke too quietly for Hesk to hear. After a moment the man left the far entrance and drifted along the ring toward Hesk's side, stopping just past the bald man. A shoe squeaked beside Hesk. The man in the red tie had come around the outside of the circle and stopped behind the bald man.
 
 “I can come and sit by you,” Hesk said. “Like before.”
 
@@ -174,7 +176,7 @@ Osselin's gaze flickered toward him.
 
 “Now,” Paske said.
 
-The man in spectacles threw himself at her closed hand. Paske came from the other side. Hesk found himself looking into the scarred woman's barrel as she turned toward them. He fired.
+The man in spectacles threw himself at her closed hand from beyond the bald man. Paske came from across the circle. The scarred woman swung her gun after the man in spectacles, and Hesk found himself looking into her barrel as it crossed him. He fired.
 
 Her lower jaw burst open. She staggered against him, spraying his face, then went down with both hands trying to hold the loose part in place. Her gun struck his shoe. He stepped away, dropping the papers, and saw Osselin shoot Paske in the belly.
 
@@ -254,7 +256,7 @@ He pushed his pistol past the brick edge. Osselin had reached the doorway. Her h
 
 The light vanished. Brick struck his shoulder, and then he couldn't feel the floor beneath him.
 
-When he could see again, he was lying on his back in the kitchen. Dust fell onto his face. He tried to close his mouth, found it full of something, and dug out a piece of wood with two teeth lodged in it.
+When he could see again, he was lying on his back in the kitchen. Dust fell onto his face. He tried to close his mouth, found it full of something, and dug out a piece of wood with two teeth lodged in it. The phone was still in his breast pocket. Its glass had split, and it was warm against his chest.
 
 His right hand still held the gun. He couldn't make the fingers move. Blood soaked his sleeve and dripped from the end of his little finger. Farther down, a beam pinned his left boot. His leg hurt when he turned, but it turned. He pulled until the boot stayed behind and his foot came out of it.
 
