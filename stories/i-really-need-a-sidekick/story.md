@@ -254,7 +254,7 @@ I gathered the hem under my knees and squeezed beside him on the timber base, on
 
 “You'll have to shove,” I said. “Against the post. When I tap.”
 
-He released my shoulders and reached for the red upright of the arch. I held his shoulder and planted my boot on the floor beside the nearest castor. We had to pivot before we could push through; he would have to keep the bird facing Beryl while the wagon turned beneath it.
+He released my shoulders and reached for the red upright of the arch. I held his shoulder and planted my boot on the floor beside the nearest castor. We had to pivot before we could push through.
 
 Two taps. He pushed the post; I shoved against the floor. The wagon turned. The moon moved edgewise into the arch, taking our shelter with it.
 
