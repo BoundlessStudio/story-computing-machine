@@ -97,6 +97,23 @@ class LandscapeGalleryTests(unittest.TestCase):
         self.assertEqual(gallery.build_gallery(output, self.snapshot, self.catalog), 0)
         self.assertFalse(list(output.rglob("*.webp")))
 
+    def test_excluded_character_does_not_return_on_recapture(self):
+        source = f"stories/{self.story.slug}/art/characters/removed.png"
+        curated = {"schemaVersion": 1, "stories": [], "excludedSources": [{
+            "source": source, "sourceSha256": "a" * 64,
+            "reason": "Removed from the public gallery at the user's request.",
+        }]}
+        snapshot = self.pages / "characters.json"
+        snapshot.write_text(json.dumps(curated), encoding="utf-8")
+        specs = self.pages / "character-specs"
+        specs.mkdir()
+        (specs / f"{self.story.slug}.json").write_text(json.dumps({
+            "slug": self.story.slug,
+            "characters": [{"id": "removed", "status": "completed", "output": source}],
+        }), encoding="utf-8")
+        self.assertEqual(gallery.capture_characters(self.root, snapshot, [self.story.slug]), curated)
+        self.assertEqual(gallery.load_snapshot(snapshot, "characters"), curated)
+
     def test_exclusions_reject_unsafe_duplicate_or_still_selected_sources(self):
         original = self.capture()
         image = original["stories"][0]["images"][0]
