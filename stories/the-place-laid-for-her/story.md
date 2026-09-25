@@ -250,7 +250,7 @@ He turned back to the first sheet. “The lilies. That whole first stanza. They'
 
 She had liked the lilies when he read them. Oh, dear.
 
-“I praised two of them,” she said. “Without reservation. I was most careful about that.”
+“I praised two of your poems,” she said. “Without reservation. I was most careful about that.”
 
 “I know you did. I kept those. It's only a poem, everything gets bigger in a poem, I didn't mean you actually—”
 
