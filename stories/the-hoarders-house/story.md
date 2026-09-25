@@ -22,7 +22,7 @@ He ran his thumb around one of the bare patches as if I hadn’t spoken.
 
 Sael, my other uncle, stood three steps up with his inventory book pressed to his ribs. “Fourteen inches at the coat hooks,” he said, and turned back a page. “I wrote shoulder-wide down as eighteen.”
 
-I had got fourteen myself an hour earlier, after climbing over a crate of winter stove rings to reach the hooks. I dragged the basin into the parlor and put a chalk line across the hallboards: front door, stairs on the right, parlor on the left, then the dining-room door, then eighteen paces straight back to the kitchen. The dining room had a side door too, but it had been behind crates of drawer hardware for years. The kitchen filled the rear of the house. Its back door opened to the yard. Its pantry stood left of the sink.
+I had got fourteen myself an hour earlier, after climbing over a crate of winter stove rings to reach the hooks. I dragged the basin into the parlor and put a chalk line across the hallboards: front door, stairs on the right, parlor on the left, then the dining-room door, then eighteen paces straight back to the kitchen, past the three nail scars where my mother’s calendar used to hang. The dining room had a side door too, but it had been behind crates of drawer hardware for years. The kitchen filled the rear of the house. Its back door opened to the yard. Its pantry stood left of the sink.
 
 I had learned the house that way as a child, and it helped to say it to myself whenever I visited.
 
@@ -174,6 +174,8 @@ Nobody had touched anything.
 
 Kezra watched the silver thread in Daskar’s lantern bend, straighten, and bend again. “Those three may only have been announcing the change. Something else could be making it. A fourth object.” She waited for the thread to settle. “I haven’t seen one.”
 
+Tobren had drifted back to the false pantry and stood at its threshold, looking at the three yellow tins. Kezra went after him with her case.
+
 The floor rose under us once, a single broad shove. Out in the hall, enamel scraped across boards. The false pantry door swung shut. When I opened it again, Tobren and Kezra stood on the other side among seven shelves.
 
 Daskar caught my sleeve before I stepped through. “Stay.”
@@ -268,7 +270,7 @@ Sael shut his eyes. When he opened them his voice was lower. “The drawer-pull 
 
 A pause. “Seven.”
 
-Sael turned and pointed past the new cupboards. At shoulder height on the hall wall were three square nail scars, where my mother’s calendar had hung before the wall was repapered. The false rooms had copied shelves, tins, even old damp marks, but none of their walls carried those scars.
+Sael turned and pointed past the new cupboards. At shoulder height on the hall wall were the calendar scars, three square nail holes that had shown through every coat of paper since. The false rooms had copied shelves, tins, even old damp marks, but none of their walls carried those scars.
 
 The original house had left us a seam.
 
