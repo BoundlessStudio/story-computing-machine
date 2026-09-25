@@ -292,13 +292,13 @@ Braska passed it to her.
 
 The surveyors moved together. Braska threw the torn bundle of peeled markers into the pool, cut the hook line where it joined the vine, and shoved hook and marker cord in after the bark. Pale curls sank into the empty reflection. The older man checked his advance rather than risk full submersion. That pause was enough.
 
-Ioshka dropped through the concealed root descent. Braska backed after her, knife low. The younger surveyor seized the top root; Braska cut the vine supporting the loose screen of deadfall above his hand. Wet branches collapsed across the opening. The surveyors would have to clear it branch by branch.
+Ioshka snatched up the boots and dropped through the concealed root descent. Braska backed after her, knife low. The younger surveyor seized the top root; Braska cut the vine supporting the loose screen of deadfall above his hand. Wet branches collapsed across the opening. The surveyors would have to clear it branch by branch.
 
 Below, Ioshka was already crossing the slope. “Stone channel,” she said, pointing with the wallet. “Before the runoff fills it.”
 
-Braska followed, then stopped at a forked root and dragged a fallen trunk across the upper descent. The pool remained reachable, and so did the morning it would take: the bruises on Ioshka’s wrists, the cord burns, the disk, the smoke in Braska’s throat as the route line parted. Braska wedged the trunk until the easy path back closed.
+Braska followed, then stopped at a forked root and dragged a fallen trunk across the upper descent. The pool remained reachable, and it would still take the morning: the bruises on Ioshka’s wrists, the cord burns, the disk, the smoke in Braska’s throat as the route line parted. Braska wedged the trunk until the easy path back closed.
 
-When they caught Ioshka, she held out the recovered boots. “Wear them or carry them.”
+When Braska caught up with Ioshka, she held out the recovered boots. “Wear them or carry them.”
 
 Braska pulled them on. “Which side shows less?”
 
