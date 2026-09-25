@@ -18,7 +18,7 @@ Her fingers lay in the restraint cradle where fingers belonged: five pale length
 
 Loxan pressed her tongue to the rear molar that acknowledged audio. “I know.”
 
-Mursa's carrier thinned as debris passed between them. Her voice lost its lower register first, leaving the consonants sharp inside Loxan's jaw. “Then back to the retrieval craft. Seven hours at their current burn. Less if they know where the annex is.”
+Mursa's carrier thinned as debris passed between them. Her voice lost its lower register first, leaving the consonants sharp inside Loxan's jaw. “Then I'm back on the retrieval craft. Seven hours at their current burn. Less if they know where the annex is.”
 
 The emergency shell's support meter showed nine hours and twelve minutes. It had shown ten when Loxan launched. Nobody had promised it would count honestly.
 
@@ -56,7 +56,7 @@ She had. The turn had arrived as a flinch along a limb she no longer possessed, 
 
 “Inherited calibration,” Mursa said. “Next light, I'm timing you.”
 
-The lights led them deeper.
+The lights led them deeper. Mursa timed the next four and did not read the numbers out.
 
 Harrowstar Annex did not have a hangar. It had a slit in the foundry wall just wide enough for the courier, followed by a docking throat that tightened around the hull like a measuring ring. When Loxan laid her hand on the neural plate, faded words appeared across the forward glass.
 
