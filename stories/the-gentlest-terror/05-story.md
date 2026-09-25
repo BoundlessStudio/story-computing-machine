@@ -331,7 +331,8 @@ Nyrzath crouched and opened one foreclaw before Olyra. She stepped into it.
 
 "Then keep your head level."
 
-The roof groaned as he spread his wings.
+The west arch groaned as he squeezed through it and spread his wings in the
+rain.
 
 "I had intended," he said, and launched them into the storm.
 
