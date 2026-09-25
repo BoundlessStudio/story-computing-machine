@@ -26,7 +26,7 @@ You gave the bronze one small intention: turn as though its worn side were not w
 
 The mill turned seven times. Eight. Nine. Beskaret opened the grain lever and listened, head tilted.
 
-“There,” you said, pleased.
+“There,” you said.
 
 “There,” he agreed. “Now eat before somebody finds you.”
 
@@ -42,7 +42,7 @@ You took the blanket from the child’s aunt. The old wool remembered what you h
 
 “Good.”
 
-“The east pen latch, when you’ve time.”
+“The east pen latch has gone soft again, when you’ve time.”
 
 “Sticks or opens?”
 
@@ -58,37 +58,41 @@ You liked this part: the moment a nuisance became a task with edges. Bring six g
 
 By the time you returned the goats, there were four people waiting by the cistern and three strangers walking up the mountain road.
 
-Lanternscrape did not receive many strangers. The road ended there because the mountain had seen no reason to continue it. These three wore dust pale to the knee and carried hard cases strapped across their backs. Fine copper vanes rose above one case and all pointed at you.
+Lanternscrape did not receive many strangers. The road ended there because the mountain had seen no reason to continue it. These three wore dust pale to the knee and carried cases strapped across their backs, two of them hard-shelled. Fine copper vanes rose above one case and all pointed at you.
 
 The broadest stranger stopped beside the water trough, stared at the vanes, then at the cluster of villagers.
 
 “Where is the one with the absurdly massive amount of magical energy?”
 
-The cistern cooper pointed at you. Beskaret, coming down from the mill, pointed too. After a moment, so did the child’s aunt.
+The cooper pointed at you. Beskaret, coming up from the mill, pointed too. After a moment, so did the child’s aunt.
 
 You looked behind yourself.
 
 “Aumiri,” Beskaret said. “They mean you.”
 
-“No,” said the stranger with the case. “I mean the source that drew three survey needles off their stops from two ridges away.”
+“No,” said the broad stranger. “I mean the source that drew three survey needles off their stops from two ridges away.”
 
-“That’ll still be Aumiri,” the cooper said. “Can they fix the needles?”
+“That’ll still be Aumiri,” the cooper said. She looked at you. “Can you fix his needles?”
 
 “Probably,” you said. “What are they supposed to do?”
 
-The stranger opened his case on the trough wall. Inside, three silver needles quivered over nested circles. “Torrigan. Comparative load surveyor. This is a source locator, not the damaged instrument. It reads one field here at”—he tapped a scale, frowned, and shifted to another—“at considerably more than the scale allows.”
+The broad stranger opened his case on the trough wall. Inside, three silver needles quivered over nested circles. “Torrigan. Comparative load surveyor. This is a source locator, not one of the damaged instruments, which I would not have carried up a mountain in their present state. It reads one field here at”—he tapped a scale, frowned, and shifted to another—“at considerably more than the scale allows.”
 
-The tall woman beside him put down a narrow red case. “Velshia. Containment. Don’t touch anything in either case.”
+The tall woman beside him put down a narrow red case where she could see your hands.
 
-“Nimoret. Fieldwright.” The third traveler had already crouched to watch the copper vanes. Their sleeves were patched at both elbows, and their case was soft-sided and crowded with spools. “Does the pull change when Aumiri moves?”
+“Velshia handles containment,” Torrigan said without looking up.
 
-Torrigan walked six paces sideways. The needles barely stirred.
+“Don’t touch anything in either case,” Velshia said.
+
+The third traveler had already crouched to watch the copper vanes. Their sleeves were patched at both elbows, and their case was soft-sided and crowded with spools. “Does the pull change when Aumiri moves? Could you walk a little—”
+
+“Nimoret, I’ll do the walking.” Torrigan walked six paces sideways. The needles barely stirred.
 
 “It’s all around us,” he said.
 
-“That’s less like a source,” Nimoret said.
+“So it’s spread out?” Nimoret said. “Less like one source?”
 
-“It exceeds a source.”
+“Spread or gathered, it’s reading past the end of my second scale.” Torrigan tapped the glass. “I have never needed the third scale outside a demonstration room. Whatever this is, there is a great deal of it.”
 
 Velshia looked at you, not the scale. “Any pain? Heat under the ribs? Sound with no direction?”
 
@@ -102,7 +106,7 @@ Torrigan adjusted a dial. “A locating wash will tell us whether the field is c
 
 Velshia said, “It can make a connected system answer.”
 
-“At survey amplitude.”
+“Not a locating wash. You would need full survey amplitude to wake anything connected, and a locating wash is certified at a tenth of that. I’ve run this exact wash in forty villages without so much as rattling a shutter.” He was already settling the dial.
 
 “One test,” you said. The cistern thread had begun nagging at you, a damp tug beneath the stronger pull of the mill. “Locate only. Then I do the seam.”
 
@@ -120,19 +124,19 @@ Every unfinished favor in Lanternscrape answered.
 
 The village did not explode. It lurched into doing too much.
 
-The mill roared uphill. Water vaulted from the cistern overflow and struck the cooper from the waist down. The east pen gate slammed shut hard enough to split its old post. Somewhere above the roofs, three goats began bawling as the finding bell pulled toward every animal at once. Oven stones long gone cold breathed out summer heat. A ladder skittered sideways across a wall with nobody on it.
+The mill roared uphill. Water vaulted from the cistern overflow and struck the cooper from the waist down. The east pen gate slammed shut hard enough to split its old post. Somewhere above the roofs, three goats began bawling as the finding bell pulled toward every animal at once. The bread oven’s stones breathed out summer heat. A ladder skittered sideways across a wall with nobody on it.
 
 And you became aware of all of them.
 
-Not as a list. As needs. Turn true. Hold dry. Stay warm. Lean home. Do not slip. Keep shut. More than you could separate, hundreds of small intentions returning through you in one bright, crowded instant. Your knees struck the road.
+They came as needs. Turn true. Hold dry. Stay warm. Lean home. Do not slip. Keep shut. More than you could separate, hundreds of small intentions returning through you in one bright, crowded instant. Your knees struck the road.
 
-Velshia’s hand closed around your wrist. Cold ran from her living touch, not numbing you but giving the surge an edge to break against.
+Velshia’s hand closed around your wrist. Cold ran from her living touch and gave the surge an edge to break against.
 
 “Torrigan. Cancel.”
 
 “The pulse is finished.” He had both hands off the pad. All three needles spun. “There should be no continuation.”
 
-“There is,” Nimoret said. “Listen.”
+Nimoret had gone still, head turned toward the mill.
 
 For twelve heartbeats the threads quieted. Then they answered together again.
 
@@ -146,15 +150,15 @@ The mill kicked. The cistern boomed. Your back arched before you could stop it, 
 
 “You’re feeding a synchronized return.”
 
-“Water,” you said. “Mill. Bridge.” The words arrived in the wrong order. “No. You don’t cut all.”
+“Water,” you said. “Mill. Bridge. No. You don’t cut all.”
 
-“A remote cut could recoil through every anchor anyway,” Nimoret said. They were unrolling three fine cords on the road, hands quick and voice uncertain. “If these are anchors. I think they’re answering in sequence, not unison.”
+“A remote cut could recoil through every anchor anyway,” Nimoret said. They were unrolling three fine cords on the road with quick hands. “If these are anchors. I think they’re answering in sequence, not unison.”
 
-Torrigan stared at his scales. “The locator cannot have created a return interval. Its impulse is over.”
+Torrigan stared at his scales. “The locator cannot have created a return interval. The wash was over before— It was over. It can’t do that.”
 
-The cooper wrung water from her apron. “Your impulse woke what was already here. Is that different enough to be useful?”
+The cooper wrung water from her apron. “Call it what you like. It’s still coming out my seam.”
 
-Beskaret hauled the mill lever shut. The racing stone slowed, though the bearing’s thread still burned against your attention. “Argue while walking. Next one’ll come sooner.”
+Beskaret bellowed down the path for someone to shut the mill lever. Somebody did; the racing stone slowed, though the bearing’s thread still burned against your attention. “Argue while walking,” he said. “Next one’ll come sooner.”
 
 It did. Nine heartbeats this time.
 
@@ -164,19 +168,19 @@ Velshia touched two fingers to your throat and counted the next interval against
 
 “That is not the safer choice for you.”
 
-“It’s the safer choice for whoever’s on the north bridge.”
+“Bridge stones.” You tried to get the rest out. “All at once, they drop. And the seam. The mill.”
 
-Nobody was on the north bridge. Beskaret knew because he had barred its lower path when the left parapet began shifting last winter.
+“Nobody’s on the north bridge,” Beskaret said. “I barred it last winter when the left parapet started shifting. It’s Aumiri holding those stones up. Cut everything at once and that span drops.”
 
-Velshia released your wrist. “Then nobody touches an anchor until its keeper names the failure and the fallback.”
+Velshia looked at Nimoret’s cords, then released your wrist. “Then nobody touches an anchor until its keeper names the failure and the fallback.”
 
-“I’ll track the interval,” Torrigan said, still too crisply.
+“I’ll track the interval,” Torrigan said.
 
 “You’ll also cancel whatever remains of your query.”
 
-“I told you, it ended.”
+“There is nothing remaining. A locating wash has no tail. That is the entire point of a locating wash, it’s in the first chapter of the—”
 
-Nimoret handed him one of the fine cords. “Then cancel it again in reverse.”
+Nimoret held out one of the fine cords. “If it’s still ringing somewhere, could you run the same shape backward? Through this? I think it might follow.”
 
 He opened his mouth, looked at the spinning needles, and took the cord.
 
@@ -192,19 +196,11 @@ Nimoret pressed a plain clay tag against the oven arch. It showed no magic until
 
 You touched the lintel and withdrew the intention. The bricks cooled. A pulse passed through the village, lighter this time.
 
-“Thirteen heartbeats,” Torrigan said.
+“Thirteen heartbeats,” Torrigan said. He was watching the needles settle into a new, lower arc, and he tapped the glass as if it had lied to him. “That’s wrong. If it were stored, closing one oven wouldn’t shift it a hair. It dropped a whole ring.” He watched it a moment longer. “It isn’t stored. Not the way I measured it. It’s the same modest output going out and coming back through a great many open returns, and I have been adding them up as one.”
 
-“Longer,” Nimoret said.
+Velshia’s fingers were on your throat again. “Do we keep closing?”
 
-“By four.”
-
-“Which means?” the baker asked.
-
-Torrigan watched the needles settle into a new, lower arc. “The reading isn’t stored power. Not in the way I measured it. The same modest output is circulating through many open returns.”
-
-“Say the useful part,” Velshia said.
-
-“Closures buy time.”
+“Yes. Each one should buy us more beats between pulses.” He frowned at the needles. “It did this once. I would like it to do it twice before I promise anything.”
 
 They closed the roof ladder next. The roofer brought two ropes and a man to foot it before you took away its determination not to slip. At the east pen, the brindled doe’s owner drove a fresh peg through the latch and tied a loop above it.
 
@@ -224,9 +220,7 @@ At the sickroom, the child’s aunt showed Velshia three folded blankets, all or
 
 “Done already. Come on.” She put the red blanket back without ceremony and took your elbow.
 
-That correction steadied you more than Velshia’s cold had. One thing had ended. It could stay ended.
-
-The visiting mages changed as they walked. Torrigan stopped announcing totals and began asking, “What changed here?” Velshia no longer named a line safe until the person who used it named what would happen without it. Nimoret abandoned their neat tags and let keepers knot scraps of local cloth around anchors instead: flour sacking at the mill, blue yarn by the cistern, goat hair at the pen. Their numbered clay had meant little to the villagers. Blue yarn meant cistern.
+The visiting mages changed as they walked. Torrigan stopped announcing totals and began asking, “What changed here?” Nimoret abandoned their numbered clay tags and let keepers knot scraps of local cloth around anchors instead: flour sacking at the mill, blue yarn by the cistern, tarred twine at the bridge.
 
 The intervals stretched with every closure, then shortened again. Thirteen heartbeats became sixteen, then twelve, then ten. Torrigan fed answering pulses backward through his instrument, cancelling one harmonic at a time. Velshia laid contained boundaries around clusters so that a failure in one would not jerk the others. Nimoret followed the return order with two fingers on their cords.
 
@@ -240,13 +234,11 @@ The query pulse came again. Five heartbeats later, its echo followed.
 
 “Because they all pull from the same water,” Beskaret said. “Millrace comes off the cistern spill. Bridge footings sit below it.”
 
-Torrigan looked from the uphill tank to the mill roof and then toward the north path. “My model treated distance as separation.”
+Torrigan turned slowly with his open case, reading the needles toward the uphill tank, then the mill roof, then the north path. He did not say anything.
 
-“Mountain doesn’t,” Beskaret said. “We do cistern first.”
+“Then the bridge first,” Velshia said. “A structural release is the worst failure.”
 
-“Bridge first,” Velshia said. “A structural release is the worst failure.”
-
-“Cistern first,” the cooper said. “Drain it, and the bridge footing stays dry while we prop. Open it by surprise and you’ll have three people in the runoff.”
+“Cistern first,” the cooper said. “Drain it slow through a hose and the bridge footing gets a trickle while it’s propped. Open it by surprise and you’ll have three people in the runoff and the footing standing in the rest.”
 
 Velshia considered her, then nodded once. “Drain line. Where?”
 
@@ -254,7 +246,7 @@ For the next quarter hour you did no magic. That was nearly unbearable.
 
 You wanted to touch the sweating cistern seam and tell it to hold. Instead you carried buckets while the cooper and two neighbors fitted an old canvas hose to the cleanout spout. At the bridge, Beskaret’s mill hands wedged timber props under the cracked north rail. Below, villagers laid stones to send the draining water around their boots. At the mill, both stones had to be unloaded, the grain bagged, the race gate lowered by hand.
 
-Everyone knew something you did not. Which hose split if bent. Which prop had a soft foot. Which goat would chew the marker knots. Your threads had made the tasks feel like yours because they returned to you. The work itself never had been.
+Everyone knew something you did not. Which hose split if bent. Which prop had a soft foot. Which goat would chew the marker knots.
 
 Another echo crossed your ribs. You gripped the cistern wall and heard Velshia say, “Not yet.”
 
@@ -266,7 +258,7 @@ Another echo crossed your ribs. You gripped the cistern wall and heard Velshia s
 
 “Blue line ready,” the cooper called from the spout.
 
-That was language you could use. You knelt with your palm over the wet seam.
+You knelt with your palm over the wet seam.
 
 “Valve open,” she said. “Hose clear. Two barrels filled. Take it off.”
 
@@ -298,8 +290,6 @@ You turned back uphill and put both hands on the bridge’s first timber prop.
 
 Beskaret stepped between you and the road. He walked you into the mill and put your right hand on the bronze collar inside its housing. “This piece. Feel the worn side. Grain is out. Upper stone is chocked. Close the bearing now. We keep the race until the stone stops.”
 
-The concrete sequence cleared a narrow path through the noise.
-
 “Bearing,” you said.
 
 “Bearing.”
@@ -308,7 +298,7 @@ You withdrew turn true. From downhill came one brutal clank, then silence. No mi
 
 “Twenty-one,” he said. “Only the bridge remains.”
 
-The bridge did not care about being last. Its old intention strained as runoff pushed against the footings: hold the north stones in their places. The new timber props creaked under the weight. Two villagers stood clear with ropes around the rail, not to save the bridge if it shifted but to keep it from falling into the water.
+The bridge did not care about being last. Its old intention strained as the last runoff pushed against the footings: hold the north stones in their places. The new timber props creaked under the weight. Two villagers stood clear with ropes around the rail, ready to haul it toward the bank if the stones gave.
 
 Velshia planted both feet. “If the left prop walks, I contain toward the mountain. Nobody enters the span.”
 
@@ -318,21 +308,21 @@ A mallet struck three times.
 
 “Right is set,” called the cooper.
 
-Nimoret touched the goat-hair cord they had tied around the first support. “The anchor is the lower stone, not the rail. I think. Aumiri?”
+Nimoret touched the tarred twine they had tied around the first support. “The anchor is the lower stone, not the rail. I think. Aumiri?”
 
 You could not answer. The thread occupied your mouth as if it had become a thing you were biting down on.
 
-Beskaret did not ask again. He climbed down beside the footing, staying off the bridge, and knocked his knuckles against a dark stone streaked with old lime.
+Beskaret didn’t wait for an answer. He climbed down beside the footing, staying off the bridge, and knocked his knuckles against a dark stone streaked with old lime.
 
 “Here,” he said. “Take your time. We’re holding the weight.”
 
-You crouched. Your palm found the stone. Around you, occupied hands made a silence more useful than encouragement: Velshia holding her boundary, Torrigan poised over the cancelling pad, Nimoret tracking the last return, Beskaret watching the prop feet instead of your face.
+You crouched. Your palm found the stone. Nobody spoke. Every pair of hands was busy: Velshia holding her boundary, Torrigan poised over the cancelling pad, Nimoret tracking the last return, Beskaret watching the prop feet instead of your face.
 
 You closed the favor.
 
 The bridge dropped less than the width of a finger. Timber groaned. The right prop settled hard and held. A chip of mortar struck the water.
 
-Torrigan pushed his living current through the instrument in the reverse shape of his first query. Velshia folded the recoil downhill and spent it shaking harmlessly through the runoff. Nimoret’s cord went slack.
+Torrigan pushed his living current through the instrument in the reverse shape of his first query. Velshia folded the recoil downhill and let it spend itself shaking through the scree. Nimoret’s cord went slack.
 
 Nothing answered.
 
@@ -342,11 +332,11 @@ For a while, nobody moved. Then Beskaret pointed at the right prop.
 
 The cooper picked up the mallet.
 
-You slept on a flour sack in the mill office because the walk to your own bed seemed unreasonably far. When you woke after sunrise, the world inside your chest was quiet. Not empty. Three deliberate threads remained: the goat bell until the herd came down for winter, a winter room kept dry until its roof cured, and a splint holding a pear tree’s new graft until leaf-fall. Each now wore a marker with an ending cut into it. Each had a named keeper and an ordinary fallback.
+You slept on a flour sack in the mill office because the walk to your own bed seemed unreasonably far. When you woke after sunrise, the world inside your chest was quiet enough that you could hear the mill hands talking outside. Before you had eaten, you laid three threads again, deliberately, with their keepers standing by: the goat bell until the herd came down for winter, a winter room kept dry until its roof cured, and a splint holding a pear tree’s new graft until leaf-fall. Each keeper cut the ending into a marker and tied it on. The pear tree’s owner bound a second, plain splint beside the first before she let you touch it.
 
 Torrigan’s needles read them as three separate workings.
 
-“Comparable to what I’d expect from three modest sustained loads,” he said. He had written the fault intervals on the inside of the cooper’s tool chest, where rain could not take them. “Not one absurd reservoir.”
+“Comparable to what I’d expect from three modest sustained loads,” he said. He had written the fault intervals on the inside of the cooper’s tool chest, where rain could not take them.
 
 Velshia gave Beskaret a pair of red clips. “If two markers warm at once, put these on the keeper cords and fetch Aumiri. The clips focus separation only while a living person holds them. Don’t leave them clamped and assume they’re working.”
 
@@ -362,17 +352,23 @@ Nimoret sat on the mill step showing the cooper how to read a return cord for st
 
 “Yes. Exactly.”
 
-The three visitors packed their cases. There was no invitation, no offer to take you somewhere larger, no claim that Lanternscrape had concealed a marvel. Torrigan did apologize, though not gracefully.
+The three visitors packed their cases. Torrigan stopped in front of you with his case half buckled.
 
-“The pulse was within its certified range,” he said. “The assumption behind it was not.”
+“The wash was inside its certified range,” he said. “Well inside. I checked it twice this morning.” He looked at the buckle instead of you. “I didn’t check what it was going into. Velshia told me, and I quoted the manual at her. You were on your knees in the road.”
 
-Nimoret tapped his case. “Add a connected-system check before the pulse.”
+“Your needles,” you said. “The three I pulled off their stops. Do you still want them fixed?”
 
-Velshia shouldered her case. “Before the range check.”
+His hands stopped.
+
+“How long would they need holding?” you asked. “Who’d have them?”
+
+“I— There’s an instrument-maker down the valley who takes a month over anything, and I can hardly ask you to hold three needles for a month for someone who—” He stopped. “I don’t know how long. I’ll write.”
+
+Velshia took your wrist one more time, counted against your pulse, and let go.
 
 Then they went down the road, arguing about how many survey forms required revision.
 
-You found the village at work. The mill hands were seating the new bearing, which had apparently arrived four days earlier and sat unopened behind three sacks of rye. At the cistern, the cooper was replacing the drain hose with a fitted wooden line. Hammer blows carried from the bridge.
+You found the village at work. The mill hands were seating the new bearing, which had apparently arrived four days earlier and sat unopened behind three sacks of rye. The cooper sat on an upturned tub, splitting wedges for the bridge props. Hammer blows carried from the bridge.
 
 The child’s aunt caught you near the east pen.
 
