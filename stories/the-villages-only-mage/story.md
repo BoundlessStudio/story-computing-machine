@@ -264,7 +264,7 @@ You knelt with your palm over the wet seam.
 
 Velshia braced your forearm between her hands. Nimoret held the blue yarn marker, eyes shut, following its relationship through the wall. Torrigan watched the interval and began a low count.
 
-You found the intention: hold this seam dry. The cooper had replaced the cracked stave eleven months ago, and neither of you had remembered that the patch still needed closing. You let the intention come home.
+You found the intention: hold this seam dry. The cooper had replaced the cracked stave eleven months ago. The new stave had never quite sealed, and you had tended the hold so long that neither of you remembered it was meant to end. You let the intention come home.
 
 The seam sprang a bright fan of water across your knees. The hose bucked. The cooper swore and drove a wedge deeper. Then the water found the drain line and ran where hands and stones had prepared it to run.
 
@@ -362,7 +362,7 @@ His hands stopped.
 
 “How long would they need holding?” you asked. “Who’d have them?”
 
-“I— There’s an instrument-maker down the valley who takes a month over anything, and I can hardly ask you to hold three needles for a month for someone who—” He stopped. “I don’t know how long. I’ll write.”
+“There’s an instrument-maker down the valley who takes a month over anything, and I can hardly ask you to hold three needles for a month for someone who—” He stopped. “I don’t know how long. I’ll write.”
 
 Velshia took your wrist one more time, counted against your pulse, and let go.
 
