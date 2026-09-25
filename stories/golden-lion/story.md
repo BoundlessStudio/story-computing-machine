@@ -184,7 +184,7 @@ Aldous recovered himself. "If a surviving relation can be traced, I can arrange 
 
 "For silence," Aldous said, because he was suddenly too tired to disguise the answer as protection.
 
-Rafe folded the sheet along the wrong crease and had to open it again.
+Rafe folded the sheet along the wrong crease.
 
 From the hall came a burst of applause, excessive and brief. Aldous pictured the clerk pretending that the evening had recovered.
 
