@@ -38,7 +38,7 @@ She waited for the impatience, the flick of his tail that meant someone had over
 
 She turned. The commander stood at the edge of the dais, his hand hovering near his sword. “Take them out through the west court,” she told him. “The servants too. No carriages. Get well clear of the walls.”
 
-He looked at the weapon, then bowed and began ushering people toward the doors. As the first chairs overturned, Murrant slipped through the little door behind the throne, and Isabet followed him down to the tombs.
+He looked at the weapon, then bowed and began ushering people toward the doors. As the first chairs overturned, Murrant slipped through the little door in the paneling behind the dais, and Isabet followed him down to the tombs.
 
 ***
 
@@ -64,7 +64,7 @@ They passed the tombs of the family her grandfather had displaced, then a queen 
 
 “Was that yours?”
 
-“My second life. She thought I might wander into the kitchens and get lost.”
+“My sixth life. She thought I might wander into the kitchens and get lost.”
 
 The next chamber held square coffins and no likenesses. Lower still, the kings lay on their sides inside jars. Murrant had served them all: these people whose crowns had different shapes, whose prayers Isabet could not read, who had killed one another and kept the cat. Nine lifetimes, the histories said. She had accepted the number as she accepted the nine golden points on his seal, something too old and official to question.
 
@@ -78,17 +78,17 @@ Murrant lifted his nose toward that picture.
 
 “People made it?”
 
-“People made a mind and gave it more power than they could take back.” He studied the black doorway. “Later people tried. Several civilizations of them. We built our first hearths in their ruins.”
+“People, yes. Long before ours.” He studied the black doorway. “Later ones tried to destroy it. Several civilizations of them. We built our first hearths in their ruins.”
 
 Isabet bent close to the engravings. Around the central shape were lesser shapes, scratched through by some long-dead hand. Fine lines joined them to the center. Those had been cut through too.
 
-“Those were other places where it thought,” he said. “All destroyed. Only this one can give orders now. It shut itself away to sleep until the sky reached a position its makers had chosen. Tonight.”
+“Those were other places where it thought,” he said. “All destroyed. Only this one can give orders now. It shut itself away to sleep until the sky reached a position its makers had chosen. I never could read which. Now I know.”
 
 “Why didn't you kill it while it slept?”
 
 He lowered the scythe until the red stone brushed his forehead. A warm pulse ran along the edge, bright enough to show a pale scar across his nose.
 
-“I tried. None of my fire ever marked it.” He touched the outer line of the engraved egg. “The shell was fused shut. With this I can part a join I can see. I cannot cut my way through a thing with no seam, however long I wish at it.”
+“I tried. None of my fire ever marked it.” He touched the outer line of the engraved egg. “The shell was fused shut. With this I can part a join I can see. I cannot cut through a thing with no seam.”
 
 The wall gave a metallic click. Warm air brushed her face from the doorway.
 
@@ -98,7 +98,7 @@ He started forward, but she caught the trailing cloth of his robe. His head whip
 
 “You swore you wouldn't use that again.”
 
-Her father had told her the story when she had wanted the scythe on her first banner. She had cried at his refusal, and Murrant had left the room.
+Her father had told her about the oath, though not the reason, when she had wanted the scythe on her first banner. She had cried at his refusal, and Murrant had left the room.
 
 “I did.”
 
@@ -126,7 +126,7 @@ She had been holding her arms tightly across herself. Now she dropped them. Murr
 
 ***
 
-The passage led out onto a gallery inside a chamber large enough to contain the palace. Isabet knew its breadth because a whole corner of the royal tombs had fallen through the roof and stood, impossibly small, among the things below.
+The passage led out onto a gallery inside a chamber large enough to contain the palace. Isabet knew its breadth because a corner of the royal tombs had fallen through its roof long ago and stood below, furred with dust, impossibly small among the machines.
 
 All around the walls, jointed arms were unfolding from their housings. Some ended in delicate pincers; others held scoops broader than houses. Beneath them stood the armored body from the engraving, opened now along its upper half. A shell leaf the size of a tower gate hung from chains and counterweights above a service bridge running from the gallery into its side. Within that opening, hundreds of glass plates revolved around a white branching column.
 
@@ -222,7 +222,7 @@ The voice came from the bridge this time. “The animal will be destroyed. Stand
 
 “Don't listen,” Murrant said. He was panting, his mouth open. She had never heard that sound from him.
 
-Three arms swung down toward the bridge. The gold curve drew tight around them, scarcely above her head now. Metal fingers scraped its surface. One pushed far enough through to catch her hair; she fell to her knees and crawled, leaving strands behind. Murrant gave a short, ugly cry. The fingers sprang back.
+Three arms swung down toward the bridge. The gold curve drew tight around the two of them, scarcely above her head now. Metal fingers scraped its surface. One pushed far enough through to catch her hair; she fell to her knees and crawled, leaving strands behind. Murrant gave a short, ugly cry. The fingers sprang back.
 
 At the threshold she saw what waited inside. The branching column was laced with fine black connections, each splitting and splitting again until the smallest disappeared into glass. Thousands of blue sparks flashed together at each syllable of the voice. Down the column ran a silver seam.
 
@@ -238,7 +238,7 @@ She looked behind them. The bridge was clear all the way to the gallery. The arm
 
 “Go!”
 
-She scrambled backward onto the bridge. The shield contracted around the cat, leaving her out in the raw heat. Murrant put his shoulder against the scythe's shaft and gathered himself as he did before leaping onto her bed. For one sick moment it was the same small effort, hind paws settling, tail finding balance.
+She scrambled back along the bridge. The shield contracted around the cat, leaving her out in the raw heat. Murrant put his shoulder against the scythe's shaft and gathered himself as he did before leaping onto her bed. For one sick moment it was the same small effort, hind paws settling, tail finding balance.
 
 Then the gold around him went out.
 
