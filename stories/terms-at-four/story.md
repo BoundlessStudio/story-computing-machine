@@ -128,7 +128,7 @@ You looked at the amber pulse. “Of that.”
 
 You reached for a salt cookie because your stomach had mistaken dread for emptiness. It broke cleanly, scattering crumbs onto a tablecloth embroidered with strawberries.
 
-“No,” you said. “It isn’t theirs right now. You’re the one holding it. You are.”
+“No,” you said. “It isn’t theirs right now. You’re the one holding it.”
 
 She watched you brush the crumbs into your palm. “You still do that.”
 
@@ -230,7 +230,7 @@ She reached for her pen. “No. The key stays until the registry accepts. Custod
 
 She did not look at you. “I am trying to prevent substitution.”
 
-“You’re trying to keep it armed. You’d leave it up there, armed, over everybody, while you wait for some clerk to— The gate’s enough. For the key, the gate is enough.”
+“You’re trying to keep it armed over everybody while some clerk finds a stamp. For the key, the gate is enough.”
 
 The line went quiet except for two voices on the far end, disagreeing in whispers.
 
@@ -318,9 +318,9 @@ The amber pulse vanished. A white bar advanced across the pane.
 
 “Ground control is asking for a hold,” the Prime Minister said. “Nobody briefed the duty shift. They’re seeing a commit they didn’t schedule.”
 
-Your former colleague’s head snapped toward the phone. “Tell them,” she said to you, too fast. “Say it on the line. Can they stop it?”
+Your former colleague’s head snapped toward the phone. “Tell them,” she said to you, too fast. “Say it on the line. They can’t stop it.”
 
-“No,” you said. “Not after commit.”
+“They can’t,” you said. “Not after commit.”
 
 “Once more for the duty officer,” the Prime Minister said. “In words someone can write down.”
 
