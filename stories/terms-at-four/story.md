@@ -28,7 +28,7 @@ The table confirmed it. A white pot wore a quilted cozy. Beside it waited a smal
 
 “At the winter calibration.” She indicated your old chair, facing the window. “Black tea first?”
 
-That was how she had taken minutes in the control room: not *tea?* but *black tea first?*, as if the only uncertainty concerned sequence. You sat. Between the sugar bowl and a vase of small white flowers, a pane of dark glass showed a blue curve, three lines of figures, and a pulsing amber square.
+That was how she had done the tea round in the control room: not *tea?* but *black tea first?*, as if the only uncertainty concerned sequence. You sat. Between the sugar bowl and a vase of small white flowers, a pane of dark glass showed a blue curve, three lines of figures, and a pulsing amber square.
 
 You did not touch the cup she poured.
 
@@ -50,7 +50,7 @@ She nudged the nearer plate toward you. The cookies were little rounds, their ed
 
 “They armed it. I retained the session.”
 
-“That distinction won’t help anyone under it.”
+“It’s armed. Whoever did it, it’s up there armed, and you’re pouring milk.”
 
 For the first time she missed a serving cue. The milk jug remained in her hand after your cup was the right color.
 
@@ -62,7 +62,7 @@ The tea touched your tongue before you understood you had picked it up. Hot, str
 
 She woke a second pane. A wide room appeared under flat ceiling lights. Six adults sat or paced within its white boundary lines. Two wore jackets over formal clothes; four wore the dark uniform of state security. No restraints. One person struck the sealed door with the heel of a hand, stopped, and looked directly into the ceiling camera.
 
-The absurdity did not soften anything. Your old colleague had baked a cake and taken six hostages. Above weather and traffic, a machine the two of you had helped design held an armed key.
+The absurdity did not soften anything. She had baked a cake and taken six hostages. Above weather and traffic, a machine the two of you had helped design held an armed key.
 
 “Live challenge,” you said.
 
@@ -74,19 +74,17 @@ She pressed the intercom. Her hosting voice disappeared. “For verification: ne
 
 The nearest captive stared upward. “Violet cup, nineteen.” Both hands rose. “Now let us out.”
 
-There was no elegance in the reply, only anger and a dry throat.
-
 “Confirmed,” you said. “Why them?”
 
-“They came to take the maintenance crew.”
+“They came to take the maintenance crew. They put the crew in a van, came back down for the duty logs, and I sealed the suite behind them.”
 
-“They came under orders.”
+“They were following orders.”
 
-“So did the maintenance crew.” She folded the tea towel once and laid it beside her plate. “The crew refused the final arming sequence. They were detained without counsel. The written orders were removed from the case record this morning.”
+“The crew had orders too.” She folded the tea towel once and laid it beside her plate. “They refused the final arming sequence. They were detained without counsel. The written orders were removed from the case record this morning.”
 
-“And you thought kidnapping would clarify procedure.”
+“So you locked six people in a room.”
 
-“I thought leverage might.”
+“I needed something they would answer the phone for.”
 
 On the feed, one of the uniformed captives sat down too quickly. An older person beside them knelt, listened, then looked at the camera.
 
@@ -100,25 +98,17 @@ She pressed it.
 
 “What do you need?” you asked.
 
-The kneeling captive answered. “Their cardiac tablets. Jacket pocket, outside this room. They missed the last dose.”
+The kneeling captive answered, one hand still on the other’s shoulder. “Their pills. Heart pills. In the jacket, it’s out in the corridor. They missed one already.”
 
-You looked across the cake at your former colleague.
+You looked across the cake at her.
 
 She had already turned to another control. “The corridor cart can bring the jacket to the transfer drawer.”
 
-“Open the drawer before it arrives.”
+“Then open the drawer. They’re sick.”
 
-“That leaves an access path.”
+“When the outer corridor is clear.” Her eyes moved over three status marks. Her mouth tightened. “Outer corridor clear. Transfer drawer opening.”
 
-“For a jacket.”
-
-“For anything that fits behind it.” Her eyes moved over three status marks. “I’m checking the outer corridor.”
-
-“They don’t owe you patience.”
-
-Her mouth tightened. At work, pressure had made her more grammatical, never louder. “Outer corridor clear. Transfer drawer opening.”
-
-On the screen, a narrow panel clicked ajar near the floor. Ninety seconds later, a small service cart rolled into view outside the inner window and tipped a dark jacket forward. The kneeling captive pulled it through, found a packet, and passed over two tablets with a paper cup of water. The sick person swallowed.
+On the screen, a narrow panel clicked ajar near the floor. Ninety seconds later, a dark jacket dropped through it from the cart on the corridor side. The kneeling captive pulled it in, found a packet, and passed over two tablets with a paper cup of water. The sick person swallowed.
 
 “Anything else?” you asked through the intercom.
 
@@ -132,13 +122,13 @@ She poured herself smoked tea. Her hand was steady again. “The government deli
 
 “I keep control.”
 
-“Of a weapon.”
+You looked at the amber pulse. “Of that.”
 
 “Of their weapon.”
 
 You reached for a salt cookie because your stomach had mistaken dread for emptiness. It broke cleanly, scattering crumbs onto a tablecloth embroidered with strawberries.
 
-“No,” you said. “You don’t get to hand the noun back to them. You have it.”
+“No,” you said. “It isn’t theirs right now. You’re the one holding it. You are.”
 
 She watched you brush the crumbs into your palm. “You still do that.”
 
@@ -146,9 +136,9 @@ She watched you brush the crumbs into your palm. “You still do that.”
 
 “Clean the table while telling someone their system is morally indefensible.”
 
-“It used to be your table too.”
+“I used to eat at this table.”
 
-That landed. She looked toward the amber pulse.
+She looked toward the amber pulse.
 
 You had left the platform project when its defensive mandate became a drafting convenience, a phrase broad enough to cover anything the cabinet wanted after midnight. She had stayed, saying somebody had to protect the safe-mode architecture from the inside. For seven months you had wondered whether that had been courage, vanity, or simply her inability to leave a machine unfinished. Now the machine was finished. Now this.
 
@@ -172,7 +162,7 @@ She stood and lifted the cake knife. You nearly shouted at her. Then the display
 
 She cut two narrow slices, placing yours on the plate with the painted bird because that had been yours in the control room cupboard. The cake was vanilla and lemon, its layers straight as ruled lines. You hated that it was excellent.
 
-While she ate three careful bites, you opened the telemetry tree. She had granted you read-only access but left the branches uncollapsed. The armed lattice showed one active path. You checked the time stamps against two ground beacons and a civilian tracking clock. No loop. You challenged the orbital unit; its return arrived with the correct light-delay wobble. You searched for shadow keys and dormant targeting branches, then checked the safe-mode design you had written years ago and she had later hardened.
+While she ate three careful bites, you opened the telemetry tree. She had granted you read-only access but left the branches uncollapsed. The armed lattice showed one active path. You checked the time stamps against two ground beacons and a civilian tracking clock. No loop. You challenged the orbital unit; its return arrived with the correct light-delay wobble. You searched for shadow keys and dormant targeting branches, then checked the safe-mode design you had written years ago and she had later hardened: a burn fuse to destroy the key store, an ejector to throw the armed lattice clear as a cold module.
 
 “You kept the dual break,” you said.
 
@@ -180,7 +170,7 @@ While she ate three careful bites, you opened the telemetry tree. She had grante
 
 “You told me many things in that room.”
 
-She put down her fork. “The burn fuse destroys the key store. The lattice ejects as a cold module. Ground control can’t rebuild either before retrieval, and retrieval takes months.”
+She put down her fork. “I gave the fuse its own power. It shares nothing with the targeting side now. Ground control can’t rebuild the key or the lattice before retrieval, and retrieval takes months.”
 
 “If the ejector fires.”
 
@@ -188,41 +178,25 @@ She put down her fork. “The burn fuse destroys the key store. The lattice ejec
 
 “You test a signal. Show me the physical interlock.”
 
-She opened the hardware channel without argument. That was worse than confidence; it was an old concession, the kind she made only when she wanted you to notice she had prepared for your objection. The pressure seal reported intact. The ejector capacitors were charged. Two independent observers had access to the same public-safe telemetry you did.
+She opened the hardware channel without argument; she had known you would ask. The pressure seal reported intact. The ejector capacitors were charged. Two independent observers had access to the same public-safe telemetry you did.
 
 There remained an ugly twelve-second interval in which a blackout could resemble an abort. You marked it.
 
 “Who else can stop safe mode?” you asked.
 
-“No one once I commit.”
+“No one once I commit. Before that, only me. Ground control can request delay but not cancel.” She topped up your cup, though you had barely touched it. “The recovery teams are waiting beyond the outer line. They’re the Prime Minister’s. They’ve been there twenty-two minutes.”
 
-“Before commit.”
-
-“Me. Ground control can request delay but not cancel.”
-
-“And the hostages?”
-
-“One command opens every inner door. The recovery teams are waiting beyond the outer line.”
-
-“Waiting under whose authority?”
-
-“The Prime Minister’s.”
-
-“Then the government knows where they are.”
-
-“It has for twenty-two minutes.”
-
-You looked at the six people on the feed. One was helping the medicated captive sit upright. Another had taken off a jacket and folded it into a cushion. They knew rescue was close enough to imagine and too far away to trust.
+You found the lock branch in the tree, one command for every inner door in the suite, and looked at the six people on the feed. One was helping the medicated captive sit upright. Another had taken off a jacket and folded it into a cushion. Every few seconds one of them looked at the door.
 
 The encrypted phone rang at four forty-three. Its plain double trill was the same sound the old control room phones had made for cafeteria calls.
 
-Your former colleague wiped cake crumbs from her fingertips and answered on speaker. “Good afternoon, Prime Minister.”
+She wiped cake crumbs from her fingertips and answered on speaker. “Good afternoon, Prime Minister.”
 
 The voice that came through was lower than broadcasts made it, roughened by distance or fatigue. “Is your witness present?”
 
 “I’m here,” you said.
 
-“Have you confirmed the six?”
+“Have you seen the six?”
 
 “Live feed and challenge confirmed. One needed medication. They have it now. They are still confined.”
 
@@ -236,71 +210,67 @@ A pause. Faintly, on the far end, paper moved and someone whispered too far from
 
 Your former colleague adjusted the pie cloth though it was already centered. “That repeats your message from twenty minutes ago. It does not establish sequence.”
 
-“Release them first.”
+“I have six families being told nothing, and a cabinet in the next room asking why I’m on this phone at all.” Paper moved on the far end. “Let them out. We can argue about the rest afterward.”
 
 “No.” She drew the smoked tea closer without drinking.
 
-“Then begin disarmament.”
+“Then give me something I can carry into that room. Start disarming.”
 
 “The crew first reaches counsel. The filings must be accepted by the court registry.”
 
-“You are not setting court procedure from a dining room.”
+“I don’t run the registry. I can’t make a clerk hurry by phoning, and neither can you from your house.”
 
 “I am naming the observable conditions.”
 
-“And I am responsible for six people in a locked room and everyone beneath that satellite.” The Prime Minister stopped. When the voice returned, the clauses were shorter. “The crew is in transit. Counsel is waiting. The filing is queued. You will destroy the key when the vehicle crosses the outer gate. You will open the inner doors when the registry returns its receipt. The lattice ejects while my medical team takes custody.”
+“And I am responsible for six people in a locked room and everyone beneath that satellite.” The Prime Minister stopped. Someone close to the microphone said a few words, and the voice came back lower. “All right. Here’s what I can do. Your crew is in a van now. Their lawyer is at the gate. The papers are queued. When that van is through the gate, you burn the key. When the court sends its receipt, you open the doors. The satellite piece comes off while my medical people bring those six out.”
 
-Your former colleague reached for her pen. “No. Custody can be staged—”
+She reached for her pen. “No. The key stays until the registry accepts. Custody at a gate can be staged—”
 
 “Stop,” you said.
 
 She did not look at you. “I am trying to prevent substitution.”
 
-“You’re not listening. That sequence makes the hostages wait on a court server.”
+“You’re trying to keep it armed. You’d leave it up there, armed, over everybody, while you wait for some clerk to— The gate’s enough. For the key, the gate is enough.”
 
-The Prime Minister said, “Agreed.”
+The line went quiet except for two voices on the far end, disagreeing in whispers.
 
-She aligned the pen with her spoon. “Then offer a dependency that can be verified.”
+“Your witness is right about the key,” the Prime Minister said, “and my legal people are going to hate the next part. If the key goes at the gate, we open the court submission to public receipt. Anyone can watch it arrive. Nobody swaps a page after that. And no one from that crew goes back into detention tonight. You have my word, for whatever you think it’s worth.”
 
-“Vehicle crosses the gate,” the Prime Minister said. “You commit safe mode. Your witness confirms key destruction. We open the court submission to public receipt. You release the doors. My team crosses the outer line as the lattice ejects. Counsel keeps the crew. No one is returned to detention tonight.”
+She aligned the pen with her spoon and said nothing for long enough that you heard the refrigerator. Then: “The filing includes the signed arming orders and the detention authorization.”
 
-“The filing includes the signed arming orders and the detention authorization.”
-
-“It includes the complete documents your counsel identified.”
+“Everything your lawyer asked for. Nobody is editing it.”
 
 “Not summaries.”
 
-“Complete documents.”
+Paper again. “I’m told it runs to four hundred pages. All of it goes.”
 
-Your former colleague pressed her lips together. Her practiced precision was fraying in a peculiar direction: more conditions, more nouns, less ability to hear when an answer had arrived.
+She pressed her lips together. “And the government states on this record that it has met the demands before I open the doors.”
 
-“And the government states on this record that it has met the demands before I open the doors,” she said.
+“Let them out with the key,” you said. “They’ve been in there long enough.”
 
-“After the crew reaches counsel and the registry accepts the filing, I will state it.”
+“The doors are the last thing I have.”
 
-“The key goes first,” you said to her. “Not the people.”
+“I’d take the doors early if she’d give them to me,” the Prime Minister said. “She won’t, and I won’t say something on the record that isn’t true yet. When the crew is with counsel and the court has accepted the papers, I’ll say it on this line, and people can quote me. Then the doors.”
 
-She looked at you then. “If they take the crew back—”
+You looked at the feed. One of the captives had lain down on the white floor with an arm across their eyes. You did not argue.
 
-“I know why you called me.”
+“The key still goes at the gate,” you said to her.
 
-“Do you?”
+She looked at you then. “If they take the crew back—” She stopped. “Tonight, the Prime Minister said. Tonight is easy. Next month someone signs a transfer order, and the key is gone, and the doors are open, and I am wherever they put me. I won’t even hear about it.”
 
-“You wanted someone who could prove you kept your terms.”
+“I’d hear about it,” you said. “I’d go and look.”
 
 Her gaze dropped to the bird on your cake plate. One untouched corner of the slice remained.
 
-“I wanted someone who would notice if they kept theirs,” she said.
+“That’s why I set out your chair,” she said. “You notice things after everyone else has signed off on them.”
 
-It was the old division of labor, offered across porcelain: she held the line inside; you made the line visible from outside. You had once trusted it. You did not now.
-
-“I’ll notice,” you said. “I won’t call this necessary.”
+“I’ll notice.”
 
 The encrypted line hissed softly.
 
 “Prime Minister?” she asked.
 
-“Proceed on the sequence your witness described,” came the answer. “My office will remain connected.”
+“Go ahead the way I laid it out,” came the answer. “The key goes when that van is through the gate. My office will stay on the line.”
 
 At four fifty-one, she lifted the cloth from the pie. Steam brought up apples, brown sugar, and a sharp scent of citrus peel. She cut it while four screens arranged themselves among the dishes: the south gate, the court receipt, the satellite telemetry, the training suite.
 
@@ -322,13 +292,13 @@ The pie crust cracked under your fork. On the gate feed, a dark vehicle rolled t
 
 “Count confirmed,” you said. “Five with counsel.”
 
-“Government confirms transfer,” the Prime Minister said.
+“That’s all five,” the Prime Minister said. “My people see them too.”
 
 Your former colleague entered her command. The amber pulse changed to a red ring.
 
 “Safe mode staged,” she said.
 
-“That isn’t commit.” Your interruption came too loud in the small kitchen.
+“That isn’t commit.” It came out too loud in the small kitchen.
 
 Her fingers hovered. “I am waiting for the registry.”
 
@@ -338,7 +308,7 @@ Her fingers hovered. “I am waiting for the registry.”
 
 “You asked me to witness terms. Those are the terms.”
 
-For three seconds she kept her hand above the glass. At work, that pause had meant she had found a failure path. Now the timer continued and her hand stayed still.
+For three seconds she kept her hand above the glass. At work, that pause had meant she had found a failure path. Now the gate feed showed five people standing beside their lawyer, and her hand stayed still.
 
 Then she pressed her thumb to the red ring.
 
@@ -346,15 +316,13 @@ Then she pressed her thumb to the red ring.
 
 The amber pulse vanished. A white bar advanced across the pane.
 
-“Ground control requests hold,” the Prime Minister said.
+“Ground control is asking for a hold,” the Prime Minister said. “Nobody briefed the duty shift. They’re seeing a commit they didn’t schedule.”
 
-Your former colleague’s head snapped toward the phone.
-
-“Can they stop it?”
+Your former colleague’s head snapped toward the phone. “Tell them,” she said to you, too fast. “Say it on the line. Can they stop it?”
 
 “No,” you said. “Not after commit.”
 
-“Confirm that.”
+“Once more for the duty officer,” the Prime Minister said. “In words someone can write down.”
 
 “The command is irreversible. Hold is only a request to the monitor now.”
 
@@ -368,25 +336,25 @@ The court screen refreshed. A receipt number appeared, followed by a file index.
 
 The Prime Minister drew an audible breath. “The maintenance crew is with independent counsel. The complete documents are filed with the high court. The government has met your demands.”
 
-Your former colleague did not answer immediately. Formal courtesy had left her; perhaps there was no room for it beside the twelve-second gap approaching on the telemetry.
+Your former colleague did not answer immediately.
 
 “Release,” you said.
 
 She pressed the lock control.
 
-On the training-suite feed, all six inner-door indicators went green. The door slid aside. For half a second no one moved. Then the captive who had demanded release stepped into the corridor with both empty hands raised. The others followed: two, three, the person who had needed medication supported at one elbow, five, six. A medical team crossed the outer line carrying bags and a folding chair.
+On the training-suite feed, the inner-door indicators went green one after another, and the suite door slid aside. For half a second no one moved. Then the captive who had demanded release stepped into the corridor with both empty hands raised. The others followed: two, three, the person who had needed medication supported at one elbow, five, six. A medical team crossed the outer line carrying bags and a folding chair.
 
 “Keep the wide view,” you said.
 
-Your former colleague switched cameras before the nearest official could request it. The freed captives did not thank her. One shouted toward the ceiling; the words blurred under the alarm from the open doors. Another waved the medical team toward the sick person. All six passed the painted outer line. Two medics took the unsteady captive into the chair, checked a wrist monitor, and began talking to them. Four security officers counted aloud and counted again.
+She switched cameras before the Prime Minister’s office could ask for it. The freed captives did not thank her. One shouted toward the ceiling; the words blurred under the alarm from the open doors. Another waved the medical team toward the sick person. All six passed the painted outer line. Two medics took the unsteady captive into the chair, checked a wrist monitor, and began talking to them. Two officers from the recovery team counted heads aloud and counted again.
 
 “Six released and with the medical team,” you said.
 
-“Confirmed,” the Prime Minister said.
+“We see them,” the Prime Minister said. “Thank you.”
 
 The satellite pane went black.
 
-Your former colleague gripped the edge of the table. “That is early.”
+She gripped the edge of the table. “That is early.”
 
 You counted. One, two, three. The pie cooled between you. At six seconds, a ground beacon reported no key response. At nine, a second did the same. Eleven seconds, and still nothing from the orbital unit but a blank field.
 
@@ -402,11 +370,11 @@ You checked the independent observers. Both matched. No targeting path remained;
 
 “Key remains destroyed,” you said. “Lattice separate and inert. Disarmament confirmed.”
 
-“My office confirms,” the Prime Minister said. “The call is ending now.”
+“My office confirms,” the Prime Minister said. “I have six families to call.”
 
 The line clicked dead.
 
-For a while the only voices came through the hostage feed: a medic asking where it hurt, someone demanding a phone, an officer saying all six were present. Your former colleague missed her chair on the first attempt, caught its back, and sat.
+For a while the only voices came through the hostage feed: a medic asking where it hurt, someone demanding a phone, an officer saying all six were present. She missed her chair on the first attempt, caught its back, and sat.
 
 At five twelve, vehicles turned into the narrow street below. No immunity had been discussed. She watched their blue-white lights pass across the ceiling, then put the cozy back over the tea.
 
@@ -422,12 +390,12 @@ At five twelve, vehicles turned into the narrow street below. No immunity had be
 
 She nodded once. This time she did not correct your wording.
 
-Heavy steps entered the building. She moved the cake knife away from the edge of the table and placed both hands flat beside her plate, visible from the doorway. The green cardigan, the leaf barrette, the carefully poured tea: none of it made her harmless.
+Heavy steps entered the building. She moved the cake knife away from the edge of the table and placed both hands flat beside her plate, visible from the doorway.
 
 Someone struck the door and ordered it opened.
 
-Your former colleague looked at your half-finished pie. “You can take that with you.”
+She looked at your half-finished pie. “You can take that with you.”
 
 “I’m staying.”
 
-She rose to answer the door. On the four small screens, the crew remained with counsel, the court receipt remained valid, the satellite remained disarmed, and all six former hostages stood beyond the outer line.
+She rose to answer the door.
