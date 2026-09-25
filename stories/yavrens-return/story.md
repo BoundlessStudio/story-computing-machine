@@ -66,7 +66,7 @@ Pelka looked at her a moment, then let the pack slide off her shoulder.
 
 Over supper she told them the high eyries had fledged eleven young. She had brought the news in person because Yavren never asked enough in letters. She also brought a petition from the valley families: at the western border, returning settlers were having their carts searched and their sons detained for old military debts.
 
-Irdas stopped cutting the cheese. Two of his players were being held at that same border.
+Irdas stopped cutting the cheese. “That's where they're holding the brothers,” he said. “Two of my players. They should have been here a month ago.”
 
 “You have players?” Yavren asked.
 
@@ -96,9 +96,7 @@ She did. He walked to the doorway and said her name, softly, and she heard him a
 
 She looked down at the charcoal near her boot. “You said you wanted to try the hall.”
 
-“I do. With a company. With more than the three people we've found.”
-
-“For how long?”
+“You heard what it did with your name, and I was barely whispering. Now put a real company in here. The brothers, once the western border lets them go. Benches right to the back wall. A chorus. Some of the hill families sing on the stairs at night; I'd have them.” He was pacing out where the chorus would stand when she said, “For how long?”
 
 “Years, if it works.”
 
@@ -110,25 +108,19 @@ The word made the room feel suddenly crowded. All those future winters, already 
 
 She had imagined his delight as something they would take away together. They had done that everywhere: a room, a season, a favorite cook, another departure. There had always been somewhere neither of them had seen.
 
-“You engaged people without telling me.”
+“You hired people and never said.”
 
-“I told you about the singer. And the brothers coming after harvest.” He rubbed his blackened fingers on his trousers. “I didn't ask you to stay. I should have asked that.”
-
-“Then ask.”
-
-He came back across the hall. “Live here with me.”
+“I told you about the singer. I told you about the brothers.” He rubbed his blackened fingers on his trousers, which only spread the charcoal. “I've talked about this hall so much the bakers ask after it. I thought if I kept talking, you'd hear the rest without my having to say it.” He stopped smiling and came back across the hall. “Live here with me.”
 
 She could have lifted the entire vault more easily than she could answer. Above them waited the two rooms where they slept with their clothes still in traveling chests. She pictured those chests closed while petitions accumulated outside a door everybody knew.
 
-“I don't know how long Tolrath will take.”
+“Tolrath hasn't got a street standing. The regent wants me there before the snow.”
 
 “I'm asking where you'll come back to.”
 
 “And when they need another city? And another?”
 
 “You might go.” He sounded tired now, in his own voice. “I might have a rehearsal.”
-
-It was the first time she had understood that she could leave and he could remain, each wanting something the other could not carry.
 
 They went upstairs without settling it. In bed she reached for him, then stopped, uncertain whether touch would seem an answer. He found her hand beneath the blanket and held it against his chest.
 
@@ -166,7 +158,7 @@ The cooper started speaking at the same time as Pelka. They both stopped; Pelka 
 
 It was tempting to answer for everyone. She had been doing it in letters for months. She looked toward Irdas, who was sitting on the floor, making notes about something other than this meeting.
 
-“A seat here when you perform,” she had told him that morning, trying out the thought of an ordinary claim. He had said she would have to buy one; then, seeing she was serious, had kissed her until they heard the delegates arriving.
+“A seat here when you perform,” she had told him that morning. He had said she would have to buy one; then, seeing she was serious, had kissed her until they heard the delegates arriving.
 
 “I want to keep raising the cities,” she told the queen. “I won't govern them.”
 
@@ -206,7 +198,7 @@ On her last morning she lifted the remaining stones of the seventh terrace. The 
 
 The masons would finish without her. She left before the lime had dried.
 
-Five days later, on the appointed spring evening, she reached Esvay with her dark hair full of road dust and the green dress folded in her saddlebag. The theatre doors were open. Outside them stood a cart bearing the southern king's colors; beside it, valley ponies and the hill people's shaggy packhorses. Nobody had been turned away at the borders. Somebody was complaining about the price of a seat.
+Five days later, on the appointed spring evening, she reached Esvay with her dark hair full of road dust. The theatre doors were open. Outside them stood a cart bearing the southern king's colors; beside it, valley ponies and the hill people's shaggy packhorses. Nobody had been turned away at the borders. Somebody was complaining about the price of a seat.
 
 Pelka met her in the passage and took the saddlebag.
 
@@ -220,7 +212,7 @@ Irdas was struggling with the fastening at the back of his stage robe. He turned
 
 “I know.” He held her another moment. “I kept listening for a horse.”
 
-She helped with the fastening. Her traveling chest stood where she had left it, but he had cleared half the clothes cupboard. There were flowers in a chipped bowl on the sill, and the window gave onto the arcade she had first raised. She could see the family's door through the branches of a young tree.
+She helped with the fastening. Her traveling chest stood where she had left it, but he had cleared half the clothes cupboard, and in her half hung a green dress. There were flowers in a chipped bowl on the sill, and the window gave onto the arcade she had first raised. She could see the family's door through the branches of a young tree.
 
 “I'll have to go again,” she said.
 
@@ -236,4 +228,4 @@ He looked at her with an openness that made her shy. From below, someone called 
 
 Yavren changed into green. Downstairs Pelka had kept her a seat. Around them the audience was still settling: three kingdoms' accents, a cough, a late arrival edging past somebody's knees. When Irdas stepped onto the stage the room quieted. He began so softly that she had to stop listening for anything else.
 
-The Eagle Queen had heard music beneath gilded ceilings. Yavren remembered the beauty of those rooms, and the people who had died in them, and the years of wanting everyone else to lose as much. The memory stayed with her. Above this room were her clothes beside Irdas's, beyond it two cities standing in the spring night. Her sister's shoulder rested against hers. She let the dark wings sleep inside her and listened to the man she loved.
+The Eagle Queen had heard music beneath gilded ceilings. Yavren remembered the beauty of those rooms, and the people who had died in them, and the years of wanting everyone else to lose as much. Her sister's shoulder rested against hers. She let the dark wings sleep inside her and listened to the man she loved.
