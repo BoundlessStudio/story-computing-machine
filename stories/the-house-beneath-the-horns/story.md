@@ -46,7 +46,7 @@ He descended sideways, favouring one ankle. Human, and much older than the first
 
 “You wanted me to find you,” she said.
 
-“I put those prints halfway across the city. I thought you'd walked past.”
+“I came up the middle of the avenue while he was round the east wall. Through the pollen, so you'd see. I thought you'd walked past.”
 
 “How long have you been here?”
 
@@ -62,9 +62,9 @@ She looked again at the blanket. Her twenty years of practice for the choosing h
 
 “He knows I'm somewhere. I wish you hadn't left him up there.”
 
-Phelnis stepped into the doorway and looked along the wall. Empty stone, a pale shimmer of leaves. “Why does he keep you here?”
+Phelnis stepped into the doorway and looked along the wall. Empty stone, a pale shimmer of leaves. “Why not go to the gate and ask him yourself?”
 
-“Because I was quicker than the others.”
+“He'd shoot me. He shot the others.”
 
 “What others?”
 
@@ -78,11 +78,11 @@ The stair led into a burial gallery above the avenue. Phelnis had expected small
 
 At the third doorway Osmund stopped beside a heap of brushwood. More branches had been pushed against the next entrance. The leaves were still green.
 
-“Those weren't here last week.” He pulled one away. “He put them at every mouth he could find. I watched him carrying oil yesterday. He means to smoke me out before you open the chambers.”
+“Those weren't here last week.” He pulled one away. “He put them at every mouth he could find. I watched him carrying oil yesterday. He means to smoke me out before he goes.”
 
-“You think that.”
+“Did you see him light any?”
 
-“I wasn't going to wait underneath and find out.”
+“I wasn't going to wait in the tombs and find out.”
 
 Osmund lifted a loose panel beside the sealed door, revealing a hole cut through the wall. He stooped through it, and Phelnis followed. Inside, two shapes lay near a cracked stone coffin. She saw boots, a buckle, the collapsed sleeves of a coat. One arm extended towards the hole. A rusted chisel rested beyond its fingers.
 
@@ -108,7 +108,7 @@ Phelnis looked from the tools to the passage. Nothing here told her who had kill
 
 “We were thieves. There. Can we go now?”
 
-Beyond the roof, stone scraped against stone. Phelnis looked up. Someone was crossing the wall above the gallery.
+Somewhere beyond the roof, stone scraped against stone. Phelnis looked up, but the gaps showed her only sky.
 
 “Stay beside me,” she said, reaching for the whistle.
 
@@ -144,13 +144,13 @@ She had seen no knife. He could still have one. She could still be wrong about e
 
 “Come out of there. Let me finish this.”
 
-Osmund pushed at her shoulder. There was a low opening behind the coffin, almost hidden by the fallen lid.
+Osmund pushed at her shoulder. There was a low opening behind the coffin, almost hidden by the lid.
 
-“It comes through,” he whispered. “Go.”
+“It goes through,” he whispered. “Go.”
 
 “Where?”
 
-“Anywhere that isn't here.”
+“Where I keep my food.”
 
 She heard Kostral's boots on the colonnade, moving towards the gallery's northern end. He knew how to get in here.
 
@@ -172,11 +172,15 @@ He led her by touch through a gap between two burial chambers. She had to turn h
 
 “He hasn't found this one,” Osmund said. “He found the other five.”
 
+“Where does all this come from?”
+
+“There's an orchard growing out of the west roofs.” He tried to straighten his wounded leg and stopped. “I snare pigeons. Rabbits, sometimes. Mostly I eat what I can hide away before winter.”
+
 The scrape of stone had stopped. Phelnis waited, listening for it to begin again.
 
 “You can get outside from here?”
 
-“Outside a room. Outside a tomb. Always another wall after it.”
+“No. Every hole I've cut comes out inside the walls.”
 
 She remembered the approach: a narrow neck of rock under the gate, deep clefts on either side continuing round the whole citadel. The forest grew far below its walls. From the causeway she had thought the drop beautiful.
 
@@ -192,15 +196,11 @@ She remembered the approach: a narrow neck of rock under the gate, deep clefts o
 
 Phelnis knelt to look through a low window. The avenue ran south to the gate. Kostral's guardroom occupied the upper floor on its western side; the door below, which he had left open for her pack, was still open. Twenty strides of bare court lay between it and the nearest cover.
 
-“He said he hunted rabbits for food.”
+Osmund reached for the bitten pear, thought better of eating it, and put it in his pocket.
 
-“So do I.” Osmund tried to straighten his wounded leg and stopped. “And pigeons. There's a whole orchard growing out of the west roofs. Mostly I eat what I can hide away before winter.”
+Kostral appeared at the north end of the avenue. Phelnis drew back from the window. He was taking the open route south, towards his rooms, glancing into each doorway as he passed. The old archer walked as if he had plenty of time.
 
-He reached for the bitten pear, thought better of it, and put it in his pocket.
-
-Kostral appeared at the far end of the avenue. Phelnis drew back from the window. He was taking the open route south, towards his rooms, glancing into each doorway as he passed. The old archer walked as if he had plenty of time.
-
-“If we get through that door first,” she said, “we can bar him out. The gate handles are inside.”
+“If we get through that door first,” she said, “we can bar him out and hold it until the escort comes.”
 
 “He'll be waiting.”
 
@@ -224,7 +224,7 @@ Above the gate, Kostral stood behind the guardroom's narrow northern window. The
 
 Osmund bit her palm. She took it away.
 
-“Phelnis.” Kostral had returned to the patient voice of their first meeting. “Your pack's here. Come and get it. Tomorrow we can open the chambers together.”
+“Phelnis.” Kostral had returned to the patient voice of their first meeting. “Your pack's here. Come and get it. In the morning we'll walk the seals with the escort, as we said.”
 
 “What about him?”
 
@@ -246,7 +246,7 @@ An arrow struck the statue's base hard enough to send a chip against her cheek.
 
 Osmund caught her elbow and pointed behind them. A narrow doorway opened beneath the eastern gallery, three body-lengths from their stone. Keeping low, they crawled towards it. Kostral could see their feet; an arrow struck the heel of her boot as she pulled it through. The point skidded on its iron rim.
 
-She lay with her cheek on cold paving until Osmund dragged the door's fallen timber across their legs.
+She lay with her cheek on cold paving until Osmund dragged the door's fallen timber across the entrance.
 
 “Don't talk to him,” he said. “He'll just keep you talking.”
 
@@ -270,7 +270,7 @@ Behind a wall panel, a sloping hole climbed through the stone. He had cut footho
 
 “I made it when we were still working,” he said. “Before the last chamber. I didn't tell the others. I meant to come back and take things for myself.”
 
-Phelnis looked at his ragged coat, at the torn pocket holding half a pear.
+Phelnis looked at his ragged coat, at the torn pocket with the bitten pear in it.
 
 She unbuckled her armour. Without it she could squeeze her shoulders through; the horns would be harder. She passed her bow and quiver ahead into the hole and started upwards, tilting her head until the tips scraped stone. Halfway up, one horn wedged against the ceiling. She backed down, turned onto her other side, tried again.
 
@@ -278,7 +278,7 @@ She unbuckled her armour. Without it she could squeeze her shoulders through; th
 
 She found it with the crown of her head and pushed through. Stone tore the sleeve at her elbow. For a moment her boots hung clear of the footholds and she had to drag herself by her forearms. Then she was in the upper gallery, breathing dust through her teeth.
 
-She crept to the opening. Across the court, perhaps thirty paces away and a little higher, Kostral still watched the statue through his northern slit. The corner of the guardroom hid his body. To shoot at the doorway where Osmund waited below her, he would have to step onto the terrace. From here she could shoot across it, between the broken pillars.
+She crept to the opening. Across the court, perhaps thirty paces away and a little higher, she could make out Kostral's outline at his northern slit. The corner of the guardroom hid the rest of him. To shoot at the doorway where Osmund waited below her, he would have to step onto the terrace. From here she could shoot across it, between the broken pillars.
 
 Phelnis returned to the crack.
 
@@ -360,4 +360,4 @@ Phelnis got up. The bow had left a deep mark across her palm.
 
 “Kostral is dead. I shot him.”
 
-The woman looked towards the gate. Behind Phelnis, Osmund struggled to his feet, still holding the tree. She put out her free hand, and he took it to steady himself.
+The woman looked towards the gate. Behind Phelnis, Osmund struggled to his feet, still holding the tree. Phelnis put out her free hand, and he took it to steady himself.
