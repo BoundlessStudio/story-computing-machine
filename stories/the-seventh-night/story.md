@@ -318,7 +318,7 @@ Thalenna looked at the gauntlet between them. Her gauntlet, carried in his pack.
 
 "The second one scans badly." He did not smile. "I said here."
 
-Thalenna had more ready about contracts, and none of it answered him. "If it gets out, whoever I actually chose would look a fool." Her eyes went to the gauntlet. "You would."
+Thalenna had more ready about contracts, and none of it answered him. "If it gets out, whoever I actually chose would look a fool."
 
 Galten stopped cutting. He had to swallow before he answered.
 
