@@ -140,7 +140,7 @@ The apron woman pointed past me at him. “He has muck on my floor.”
 
 The person in yellow looked me over. “You’re the anxious grandchild. The one who hides the cigarettes.”
 
-“I don’t hide them, I move them, she always finds them anyway. Who are you? How long have you been in there? Were you in there at dinner?” My voice kept climbing. “Who are you?”
+“I don’t hide them, I move them, she always finds them anyway. Who are you? How long have you been in there? Were you in there at dinner?” My voice kept climbing.
 
 The apron woman slapped both palms on her knees. A blue flame leaked between her fingers and vanished. “Hush. You’ll wake Valka.”
 
@@ -322,7 +322,7 @@ All three gods recoiled.
 
 The hearth god grabbed my wrist. Her palm was fever-hot. “No.”
 
-“Or I could give it back to her.”
+“Or I could take it upstairs and put it in her hand.”
 
 The weather god said a word that rattled every window in the house.
 
