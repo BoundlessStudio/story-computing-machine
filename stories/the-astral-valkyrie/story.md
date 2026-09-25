@@ -28,7 +28,7 @@ Vasketh, who had been head historian before the library fell, approached her wit
 
 “To the mainland?”
 
-“Beyond the years in which your people disappear. I can keep one person alive beside me. I cannot turn that away.” She looked west. “I cannot bring back those who have died.”
+“Beyond the years in which your people disappear. I can keep one person alive beside me.” She looked west. “I cannot turn that aside. I cannot bring back those who have died.”
 
 The woman on the tiles began to swear at her. The Valkyrie stood listening until the woman ran out of breath, then knelt beside the fallen man. Her wings sheltered his face from the glare. They did nothing to stop the blood.
 
@@ -112,9 +112,9 @@ He nodded, but his lips continued moving. The woman looked past me to the Valkyr
 
 We moved to the western doors. Vasketh sat on the threshold, one foot outside, one in. “May I have a little shade?” he asked.
 
-The Valkyrie opened a wing over him. Its gold dimmed. He closed his eyes in the sudden coolness, then opened them sharply and caught my sleeve.
+The Valkyrie opened a wing over him. Its gold dimmed. He closed his eyes in the sudden coolness, then opened them sharply and caught my sleeve as I turned back toward the hall.
 
-I knew this room in lamplight. I knew precisely how far a voice travelled from the musicians' platform before the pillars confused it. Even with wounded people on the floor, my eye found the best place to stand.
+I knew this room in lamplight, and precisely how far a voice travelled from the musicians' platform before the pillars confused it. Even with wounded people on the floor, my eye found the best place to stand.
 
 “There was more,” I said to the Valkyrie. “Before the executions. Before all this.”
 
@@ -142,8 +142,6 @@ She swallowed. There was no fruit in her mouth, only my remembered taste. Her ey
 
 “Stay here a moment,” the Valkyrie said.
 
-She wanted another moment at the feast.
-
 I had prepared to make her watch executions. Now I had given her something she wanted. I could feel it in the pressure of her fingers. When she opened her eyes, they were violet even where ours are white. I had never been looked at with such naked appetite.
 
 I let the dance continue. I gave her my pride as the room applauded me, the weight of silver tugging at my hips, my lover's hands spread wide among all the clapping hands. Beyond the pillars, the side doors opened.
@@ -162,7 +160,7 @@ Smoke returned. Vasketh was staring at me. From somewhere near the broken stair 
 
 “There are accounts.”
 
-“Then offer them.”
+“Offer them,” the Valkyrie said.
 
 I took the Valkyrie's hand again. Vasketh laid his other hand on her arm, and the hall became a page covered in a narrow, impatient script. I saw it as he had seen it. The captains entered barefoot. Chains joined them at the ankles. Someone threw a fruit stone. The account named the singer who led the refrain.
 
@@ -194,13 +192,13 @@ Every heel in the hall found its beat. Our guests stamped around the prisoners a
 
 My lover stopped clapping. I had omitted that too. She stood below the platform with the dish in her hands, no longer smiling. Later, she would ask why I had done it. I would say it was a song, that everyone had been drunk, that she had enjoyed the feast well enough until then.
 
-I gave the Valkyrie that conversation as well. I heard myself turn cruel when my excuses failed. I heard the door close after my lover left. We would find our way back to each other, but not that night, and not because I deserved it.
+I gave the Valkyrie that conversation as well. I heard myself turn cruel when my excuses failed, and then the door closing after my lover left. We would find our way back to each other, but not that night, and not because I deserved it.
 
 When I let go, the Valkyrie was watching the present hall. Her wing still shaded Vasketh. The man on the cushions had stopped moving his lips.
 
 “I didn't want her to die,” I said.
 
-“I know,” Vasketh said. “That is not the part in doubt.”
+“I know,” Vasketh said. He was looking past me at the man on the cushions.
 
 Outside, the great light widened. Shadows of the terrace pillars stretched across the floor until they reached the far wall.
 
@@ -214,11 +212,11 @@ For a moment I could not work out what answer she needed.
 
 “You stopped where I wanted to stay. Then you made me go on.”
 
-Vasketh struggled to stand. “I can go on. I have spent my life going on. There are eight hundred years behind her little court. There are things nobody knows now except me.”
+Vasketh struggled to stand. “Wait. There are eight hundred years behind her little court. There are things nobody knows now except me.”
 
 The Valkyrie turned toward him. “I have heard what you offered.”
 
-“Then hear more.”
+“Not half of it,” he said. “Please.”
 
 “We have to leave.”
 
@@ -234,7 +232,7 @@ The Valkyrie lifted me from the terrace with an arm beneath my knees. Her other 
 
 Below, the hall filled with light.
 
-The people nearest the doors raised their arms. I saw clothing catch fire. I saw a woman trying to drag a burning blanket from the person beside her, pulling until she fell backward with it. Then the outer wall burst inward and the roof came down. Vasketh was under it. I had last seen him bending toward the woman beneath the table. I cannot tell you whether he had reached her hand.
+The people nearest the doors raised their arms. Clothing caught fire. I saw a woman trying to drag a burning blanket from the person beside her, pulling until she fell backward with it. Then the outer wall burst inward and the roof came down. Vasketh was under it. I had last seen him bending toward the woman beneath the table. I cannot tell you whether he had reached her hand.
 
 We rose. The island vanished inside a white circle. Beyond it, the sea lifted in concentric ridges, copper turning to gold, gold to a violet so deep it seemed cool. The fragments high above the impact shone like a necklace pulled apart.
 
@@ -244,7 +242,7 @@ I pressed my face against the Valkyrie's neck. Under the dark collar her skin wa
 
 We did not go to another world. Far below us the same land turned through seasons I could no longer count. Her living warmth held me while the sky changed around her. Sometimes I woke with my mouth open on a word. Sometimes she asked for the feast again, and I gave it to her through the entrance of the prisoners, through the quarrel afterward. She never asked me to stop sooner. Whether that was sorrow, duty, or appetite, I do not know.
 
-When she set me down, she said six centuries had passed. I stood on a cold beach with a split lip that had not healed. The sea lay east of me; the islands had been to the west. I had to turn around twice before I understood where she had brought me.
+When she set me down, she said six centuries had passed. I stood on a cold beach with a split lip that had not healed. The sea lay east of me. I had to turn around twice before I understood that this was the far coast of the mainland.
 
 “Are there people?” I asked.
 
