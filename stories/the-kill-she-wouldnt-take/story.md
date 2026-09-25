@@ -268,12 +268,6 @@ Dax looks toward Caro. “We still have credentials?”
 
 They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Harl leaves this final alive and unverified.”
 
-“No-contest is paper,” Dax says. “On the floor, Quell had him cold, saw the bad light, and spent the rest of the bout keeping everybody else from doing something stupid.”
-
-“Neutral analysis,” the producer warns.
-
-“That was neutral. You should hear the mean version.”
-
 A rematch line slides onto the program beside the mandatory review replay. Zindra opens as a four-to-one favorite in a bout not yet booked. The network adds a live price pulse before either fighter reaches medical clearance.
 
 “Sell the rematch,” the producer says. “Quell’s composure under anomaly. Harl’s impossible survival. Keep it premium.”
