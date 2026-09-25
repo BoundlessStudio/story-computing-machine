@@ -144,7 +144,7 @@ Yevet's chalk paused. “Under which work-name?”
 
 “This one.” Odmara tapped the rail when it pulsed again. “I'd claimed it nine days before.”
 
-At the time, the guild had still carried her childhood name in its apprentice book. Felrin had said a new engraving required a master's petition. Odmara had engraved her own name on the blade's mica strip with the tip of a broken awl.
+At the time, the guild had still carried her childhood name in its apprentice book. Felrin had said a new engraving required a master's petition. Odmara had engraved her own name on the blade's mica strip with the tip of a broken awl. A stored pattern stayed in the mica until someone demonstrated the replacement and the old worker released it by hand. In six years nobody had come to her for the release.
 
 “Two witnesses held the guard?” Yevet asked.
 
@@ -208,7 +208,7 @@ Felrin looked at Odmara. “Let me seat the blade.”
 
 “Why?”
 
-“My mark is on the entry. If the witness layer accepts a master's mark, and it has accepted mine on older work than this, we may get the cut path without you having to claim the work in front of the registrar.”
+“My mark is on the entry. If the witness layer accepts a master's mark, and it has accepted mine on older work than this, we may get the cut path without any of this landing on you.”
 
 She wanted that to be possible. Wanting it made her suspicious.
 
@@ -282,7 +282,7 @@ Felrin's head came up. “Nine loaded, the tooth kicks when the shoulder goes.�
 
 “There's no gap for a wedge. Put your nail in there.”
 
-He tried along the whole bright crescent. His thumbnail would not go in anywhere. He took his hand away.
+He tried along the whole bright crescent. His thumbnail would not go in anywhere.
 
 Kosca broke in. “I can pulse the load. Quarter, eighth, quarter. Tell me where you want the gap.”
 
@@ -372,7 +372,7 @@ Kosca waited three breaths. “Stable.”
 
 Only then did Yevet and Kosca release the guard.
 
-The blade continued to show ODMARA. The alarm had cleared from the railings, but the stored work label remained bright in the mica. A repair was not closed until someone demonstrated the new pattern and the prior worker released the old one.
+The blade continued to show ODMARA. The alarm had cleared from the railings, but the stored work label remained bright in the mica.
 
 “I can do the sequence,” Felrin said.
 
@@ -421,5 +421,3 @@ Odmara pulled off her scorched glove. “No.”
 Felrin kept his eyes on the wedge. “Independent chainwright.”
 
 Yevet wrote it exactly.
-
-Beside the comb, the blade waited under Kosca's hand, its mica seams dark. Through the railing came the ordinary rumble of the quarry counterweight settling at the bottom of its shaft, with no name inside it.
