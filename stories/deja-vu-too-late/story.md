@@ -348,4 +348,4 @@ At `12:04`, Kessa opened the damage ledger. Orivan lay strapped beside the cockp
 
 “Put the rail cartridge on there too.”
 
-Kessa added it. The ledger calculated a number large enough to change the year ahead. Outside, the cargo beacon receded down a debris-safe track beyond the ring's recovery cone, while the tug and the occupied ring continued apart.
+Kessa added it. The ledger calculated a number large enough to change the year ahead. Outside, the cargo beacon receded down a debris-safe track beyond the ring's recovery cone.
