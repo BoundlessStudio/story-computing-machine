@@ -245,9 +245,10 @@ He called from the wall phone. The actual office had issued no summons.
 preview of the competence adults will display this evening.”
 
 The room loosened. Students returned to cables and cue cards. The three girls
-did not leave together.
+went back to three separate jobs.
 
-Yet when Gideon returned to his desk, the relevant ledger page was gone.
+But when Gideon returned to the tech table, the ledger page with their names
+was gone.
 Along the baseboard, an ink-dark filament slipped beneath the auditorium’s A/V
 rack.
 
@@ -357,9 +358,9 @@ the acoustic partition.
 
 He did not see who stayed behind. He did not see hands close on focus tokens,
 or living power pass through those nonliving shapes and become transformed
-light. By the time he dragged the partition from its recess, three refracted
-figures moved beyond the glass, their features blurred even to his knowing
-eyes.
+light. By the time he had dragged the partition halfway out of its recess,
+three refracted figures moved beyond the glass, their features blurred even to
+his knowing eyes.
 
 The Rollcaller hurled filaments at the evacuation opening.
 
@@ -371,13 +372,13 @@ A/V rack. Instead she planted her feet at the door.
 
 “Route first,” Gideon heard her say.
 
-With students still passing through, fire procedure required the acoustic
-partition between them and the auditorium.
+Students were still filing down the corridor behind him. Fire procedure wanted
+the partition shut between them and the auditorium.
 
-He pulled the heavy partition. Something caught its lower track. A filament
-whipped through the gap and wrapped the handle. Gideon hauled back. Pain
-streaked from his shoulder to his elbow, bright enough to turn the corridor
-white at the edges.
+He heaved it the rest of the way. A foot from the latch, something caught its
+lower track. A filament whipped through the gap and wrapped the handle. Gideon
+hauled back. Pain streaked from his shoulder to his elbow, bright enough to
+turn the corridor white at the edges.
 
 On the auditorium side, a sharp blue flicker ran along the speaker cable. It
 ended with a crack. Someone gasped. The lights stayed off, but Gideon heard a
@@ -515,10 +516,6 @@ They chose food, injury checks, and two mission-free nights.
 “And before anyone asks,” Kiteglass said, “I stopped chasing it because this
 wrist does a shield or a chase. Not both. So I held. It’s fine. It’s a wrist.”
 
-Pulsewire said the last cut had only worked once the decoys drew the living
-core out of the rack. Mothlight said she had needed one honest breath before
-she could make twenty dishonest versions of them.
-
 “Also my ears are still ringing,” Pulsewire said. “In case anyone’s keeping a
 list.” The channel hissed for a moment. “New protocol. We ask for dark, you
 give us the facts once and hang up.”
@@ -537,7 +534,6 @@ Cassia smiled. Bryn checked the door, then bent over her slip. None of them
 looked at Mr. Tolland as though they heard Night Clerk’s scrambled voice, or
 as though they suspected he knew who they were.
 
-Gideon opened the replacement ledger. It was still only paper, incapable of
-knowing what its marks meant. Beside Drita Ademi, Bryn Ahn, and Cassia
+Gideon opened the replacement ledger. Beside Drita Ademi, Bryn Ahn, and Cassia
 Dominguez, he recorded three simple presences.
 
