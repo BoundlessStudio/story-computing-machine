@@ -70,7 +70,7 @@ This is not one of your rules. Zumi watches you see that.
 
 “Then tell me why quickly.”
 
-“You’d want a reason halfway down a hole.”
+“Only you would want a reason halfway down a hole.”
 
 “You get that mouth from your father.”
 
@@ -86,7 +86,7 @@ Zumi squeezes past you to look. “For grain?”
 
 “For keeping something out.”
 
-You let that stand. She isn’t waiting for an answer anyway; she is counting. Two handles on the inner wall. Two black boxes above them. Two rows of pegs, each with the same pale number painted underneath. Beyond the door, two benches face each other across a passage.
+You let that stand. She isn’t waiting for an answer anyway; she is counting, the way she has counted catches ever since the glass mill. Two handles on the inner wall. Two black boxes above them. Two rows of pegs, each with the same pale number painted underneath. Beyond the door, two benches face each other across a passage.
 
 “Pairs,” she says.
 
@@ -106,7 +106,7 @@ At the first crossing, Zumi puts down another hooked mark.
 
 “Neither are lost people.”
 
-You let the thick mark stand and choose the left passage.
+You choose the left passage without answering.
 
 Yellow signs begin beyond the crossing. Each bears a black seed surrounded by three broad black leaves, though no plant ever grew that way. Under one, letters remain sharp enough to sound out: CAUTION. RADIATION AREA.
 
