@@ -74,7 +74,7 @@ Kolvran shifted his good foot. My point dragged across his collar as I turned my
 
 “Watch your sword,” he said.
 
-Haldis stepped nearer him, axe held low. “Then sit still.”
+Haldis stepped nearer him, axe held low. “Sit still.”
 
 Ismeret had noticed the movement too. She came around the table, but stopped beyond the reach of my free hand.
 
@@ -88,13 +88,13 @@ Ismeret had noticed the movement too. She came around the table, but stopped bey
 
 She looked toward the stair door. For the first time I understood that she was measuring the way past Haldis rather than waiting for us to lead her to it.
 
-“Your father rode out himself when he heard you'd been taken,” I said. “The northern companies are on the road. He couldn't sit through his supper the night we left.”
+“Your father rode out to the orchard himself when he heard you'd been taken,” I said. “The northern companies are on the road. He couldn't sit through his supper the night we left.”
 
 “He sat at supper while they beat her.”
 
 Haldis glanced at me. I wanted to answer before Ismeret could say anything more, although I had no answer ready.
 
-“In the little dining room,” she continued. “The one with the painted birds. He made me sit beside him. The steward had her just outside the open doors, where I could see. Father said that if I spoke to her, he'd tell him to begin again.”
+“In the little dining room,” she continued. “The one with the painted birds. He made me sit beside him. The steward had her just outside the open doors, where I could see. Father said that if I spoke to her, he'd tell the steward to begin again.”
 
 She rubbed the heel of one hand against the other. “I asked for the physician when they stopped. He asked me whether I'd finished my broth.”
 
@@ -136,13 +136,9 @@ Ismeret crouched anyway. I lifted the blade enough for her to pass beneath it, t
 
 “She came here willingly,” he said.
 
-“I wasn't asking you.”
+I did not answer him. She had got the linen under his leg. He drew a sharp breath as she pulled it up. Her fingers knew where to go, and he let her work without watching them.
 
-“Ask me, then,” Ismeret said.
-
-She had got the linen under his leg. He drew a sharp breath as she pulled it up. Her fingers knew where to go, and he let her work without watching them.
-
-“Tell me what happened,” I said.
+“Tell me what happened,” I said to her.
 
 “I sent him a letter.”
 
@@ -198,7 +194,7 @@ Ismeret's hands were still resting on the knot. “You told me it was a garrison
 
 Kolvran watched her. “I didn't choose your husband.”
 
-“No. You left that to someone else.”
+“You sent them.”
 
 He did not dispute it. Ismeret stood, slowly, leaving the tied linen on his leg.
 
@@ -208,7 +204,7 @@ His breathing had quickened. “Not now.”
 
 “You had four weeks to tell me.”
 
-“And you had four weeks in which no one entered your room without knocking. If we get out of this, you may ask me anything you like.”
+“Later. If we get out of this.” He drew a breath. “You may ask me anything.”
 
 She drew back from him at that. I saw it and seized on it, grateful for something I understood.
 
@@ -216,11 +212,11 @@ She drew back from him at that. I saw it and seized on it, grateful for somethin
 
 Haldis did not agree to that journey. She was watching Kolvran's hands.
 
-“He'll send for me,” Ismeret said.
+“Father will send for me,” Ismeret said.
 
 “Your sister can refuse him.”
 
-“Her husband can. My father gave him half his land.” She bent for her cloak. “You'd be standing at another gate when the order came.”
+“Her husband holds half his land from Father.” She bent for her cloak. “You'd be standing at another gate when the order came.”
 
 I had an answer to that, a promise, and could not get it out. Haldis moved in beside me. Kolvran braced his palm against the seat, trying to ease himself higher; I pressed him back with the sword. He stopped, and I felt through the hilt how close he had come to putting his weight against the point.
 
@@ -248,9 +244,7 @@ She came another half step forward. Ismeret slipped between us and Kolvran, so c
 
 I put my left hand on her upper arm. She went rigid beneath it. That was familiar too: a rider who had taken fright, who would stiffen and fight the horse until someone steadied her. I held a little more firmly.
 
-She looked down at my hand.
-
-I could remember every time I had lifted her, caught her, carried her sleeping from a saddle. I could not remember when I had last asked whether she wanted me to touch her.
+She looked down at my hand. I could remember every time I had lifted her, caught her, carried her sleeping from a saddle.
 
 “Let go,” she said.
 
@@ -300,7 +294,7 @@ Haldis was fastening the crown behind her saddle. She had taken off her gloves; 
 
 “I have to tell him too.”
 
-“You'll tell him she asked you to let them go.”
+“I suppose you'll tell him she asked you to let them go.”
 
 “She didn't ask me.”
 

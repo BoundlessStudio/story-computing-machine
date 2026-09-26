@@ -78,7 +78,7 @@ We practised the hatch manoeuvre with my bench lid. A squeeze on his shoulder me
 
 By noon we stood under the Rotunda's painted dome, wearing protective goggles and listening to the referee. Rococo had chosen a red cape that reached only to his elbows. I had pinned my blonde hair up with considerably more care than the undertaking deserved.
 
-The audience sat behind clear screens on three sides of the playing floor. At the back of the floor, the peacock glittered on a plinth between two castle towers. Wide pieces of scenery stood on low wagons: a forest, a palace window, an enormous plywood moon. Brass strips in the floor gave their wheels smooth runs over the old stage seams. A low gallery stretched across the front, above our entrance, with a bank of handles for hauling the scenery about.
+The audience sat behind clear screens on three sides of the playing floor. At the back of the floor, the peacock glittered on a plinth between two castle towers, in front of a low passage that ran through the castle wall. Wide pieces of scenery stood on low wagons: a forest, a palace window, an enormous plywood moon. Brass strips in the floor gave their wheels smooth runs over the old stage seams. A low gallery stretched across the front, above our entrance, with a bank of handles for hauling the scenery about and a narrow stair down from one end.
 
 Beryl Hilt leaned on its rail, loading her paint rifle. She wore last month's winner's sash twisted around her forehead to keep the sweat out of her eyes.
 
@@ -114,7 +114,7 @@ We ducked behind the palace window as a paint pellet snapped against its frame. 
 
 He waited for my next instruction, which was worse than arguing. I peered through the palace's painted window. A pellet struck its sill. Beryl worked the rifle's pump, grinning.
 
-The castle stairs were genuine, built for actors to stand on the battlements. They were also on the far side of the exposed lane. My hatch would have taken us underneath that lane, almost to the bird. I could still take it, if I wished to crawl quietly through a plan I'd just publicly disowned.
+The castle stairs were genuine, built for actors to stand on the battlements. They were also on the far side of the exposed lane. My hatch would have taken us underneath that lane, almost to the bird. I could still take it, if I wished to pop up out of a hole in the floor in front of the people who had just laughed about my case.
 
 “The forest comes back when she releases that handle,” Rococo said. “It's on a counterweight. We could follow it.”
 
@@ -122,7 +122,7 @@ We crouched, waited, and followed the trees as they rolled home. Rococo kept pac
 
 It took three minutes to climb them. Rococo went sideways, good leg first, and I kept trying to help at precisely the moments he needed me to get out of his way. At the top we crouched behind the battlements. I inspected the narrow walkway across to the other tower.
 
-Below us lay the peacock, gleaming, apparently no wiser than a real bird about the trouble it had caused. A large clock over the red arch showed fifteen minutes remaining.
+Below us lay the peacock, gleaming, no wiser than a real bird about the trouble it had caused. A large clock over the red arch showed fifteen minutes remaining.
 
 “I'll have to go down backwards,” Rococo said.
 
@@ -160,15 +160,11 @@ He lowered himself onto the wagon's timber base and kept the bird off the floor.
 
 I nodded. He stretched the leg along the base. Beyond the plywood I heard Beryl's boots go back across the gallery.
 
-“You had to show them the bird,” I said.
+“You waved it about for a full minute,” I said. “She could have strolled to that handle.”
 
-“They came to see it stolen.”
+“Did you hear them, though?”
 
-“They came to see us win.”
-
-“I think they'd have enjoyed that too.”
-
-I tugged at the cape trapped under his elbow. It wasn't in the way of anything. I simply needed something to do with my hands.
+I tugged at the cape trapped under his elbow.
 
 “You were supposed to keep moving.”
 
@@ -202,15 +198,15 @@ He shifted the bird into one arm. “I had hoped this might be rather like that.
 
 “You were so pleased with that hatch.”
 
-Behind the screen somebody began a hopeful, uneven clapping. Other hands joined it. They couldn't see us doing anything, but apparently the sight of the moon being repeatedly shot was enough to sustain their interest. I smoothed the cape I'd crumpled in my hands.
+Behind the screen somebody began a hopeful, uneven clapping. Other hands joined it. They couldn't see us doing anything; the sight of the moon being repeatedly shot was enough to sustain their interest. I smoothed the cape I'd crumpled in my hands.
 
 I bent and released the first brake.
 
 “Then hold on to the moon,” I said. “I don't want it tipping over.”
 
-He tucked the peacock against his chest and wrapped his other arm round an upright. “What are you going to do?”
+He tucked the peacock against his chest and wrapped his other arm round an upright. I set my hands on the frame.
 
-“Push. You tell me where she's going. Keep your feet inside.”
+“I'll push. You tell me where she's going. Keep your feet inside.”
 
 I freed the remaining brakes and tested the wagon against my boot. It rolled more easily than I'd expected. The moon was solid plywood, eight feet across, and the wagon's base was narrow enough for the arch. We would have to turn sideways to get the moon through. First we had to reach it.
 
@@ -220,15 +216,15 @@ We came out from beside the castle with the moon facing Beryl's gallery. I shove
 
 I took short, hard steps towards the arch. The castors thrummed over a seam, and the moon swayed. Rococo tightened his grip on the upright. His good foot slid towards the edge; I squeezed his shoulder and held the wagon still while he drew it in. Two taps, and we moved again.
 
-He risked another look. “Faster. She's at the stairs.”
+He risked another look. “Faster. She's at the gallery stair.”
 
 I put my shoulder to the wood. The floor seemed much larger now I had to propel two people and an astronomical object across it. My goggles slipped down my nose. I shoved them up with a wrist, smeared them with sweat, and shoved harder.
 
-Beryl came off the stairs to our left. Rococo pointed. I ran round the back of the wagon and dragged its right corner towards me, swinging the moon between her and us. The wheels swivelled reluctantly. Paint smacked into the face as it came round.
+Beryl came down the gallery stair to our left. Rococo pointed. I ran round the back of the wagon and dragged its right corner towards me, swinging the moon between her and us. The wheels swivelled reluctantly. Paint smacked into the face as it came round.
 
 “Nice,” Rococo said.
 
-I had no breath to answer. We were twenty feet from the arch, moving sideways now, with the edge of the moon aimed at the opening. Beryl trotted beside us, looking for an angle. She was quick enough to outrun the wagon; a palace wagon stood between her and our unprotected rear, and she had to go round it.
+I had no breath to answer. We were twenty feet from the arch, moving sideways now, with the edge of the moon aimed at the opening. Beryl trotted beside us, looking for an angle. She was quick enough to outrun the wagon, but the palace window stood between her and our unprotected rear, and she had to go round it.
 
 “She's coming behind,” Rococo said. “Turn again.”
 
@@ -240,7 +236,7 @@ He followed my hand, reached down, and shoved the castor round. I pulled again. 
 
 Now we were behind our shield, backing towards the arch, and the moon was broadside to an opening two feet narrower than itself.
 
-I dragged the wagon until one corner bumped a red post. We had perhaps a yard left to travel. Beryl was coming straight towards us. As soon as we turned the moon to fit, she'd have a clear shot at our backs.
+I dragged the wagon until one corner bumped a red post. We had perhaps a yard left to travel. Beryl was coming straight towards us.
 
 “You'll have to turn it,” she called. “I'll have you then.”
 
@@ -252,31 +248,27 @@ The peacock stared out through its fan of feathers. It had been shrieking interm
 
 He set the bird's feet on the wagon between us and the moon, gripping it from behind. The tail rose in front of our crouched bodies. Its metal feathers overlapped closely enough that I couldn't see through them.
 
-“You're crouching?” he asked.
-
-“As far as I go.”
-
-“Come closer. Your coat.”
+He looked me over, then down at the floor. “Come closer. Your coat.”
 
 I gathered the hem under my knees and squeezed beside him on the timber base, one boot still on the floor. He put an arm across my shoulders to keep me inside the fan.
 
 “You'll have to shove,” I said. “Against the post. When I tap.”
 
-He released my shoulders and reached for the red upright of the arch. I held his shoulder and planted my boot on the floor beside the nearest castor. We had to pivot before we could push through; he would have to keep the bird facing Beryl while the wagon turned beneath it.
+He released my shoulders and reached for the red upright of the arch. I held his shoulder and planted my boot on the floor beside the nearest castor. We had to pivot before we could push through.
 
 Two taps. He pushed the post; I shoved against the floor. The wagon turned. The moon moved edgewise into the arch, taking our shelter with it.
 
 Beryl fired. A feather buckled against my goggles.
 
-Rococo kept the bird turned towards her while the wagon swung beneath him. I squeezed his shoulder; he stopped pushing, and I stamped backwards against the floor. The wagon rolled through the gap.
+Rococo kept the bird turned towards her while the wagon swung beneath him. I squeezed his shoulder; he stopped pushing, and I stamped backwards against the floor. The wagon rolled into the gap.
 
 Her second shot struck the peacock's belly. Its fanfare faltered, then came back a note lower.
 
-My boot slipped. For a moment we stopped with the moon jammed against one post and half the wagon still on Beryl's side. Through a dented gap between feathers I saw Beryl lifting her rifle. She was close.
+The wagon stuck. My hem had slid from under my knee and gone beneath a castor, and for a moment we sat with the moon jammed against one post and half the wagon still on Beryl's side. Through a dented gap between feathers I saw Beryl lifting her rifle. She was close.
 
 “Again,” I said, and planted my heel flat.
 
-Rococo shoved the post hard enough to scrape white enamel off his knuckles. The moon tore a strip of red paint from the arch. My coat ripped under my knee, freeing the cloth caught against the wheel, and we shot through together.
+Rococo shoved the post hard enough to scrape white enamel off his knuckles. The moon tore a strip of red paint from the arch. My coat ripped free of the castor, and we shot through together.
 
 A pellet struck the floor behind us. The referee rang the bell. The clock above him still had forty seconds left.
 

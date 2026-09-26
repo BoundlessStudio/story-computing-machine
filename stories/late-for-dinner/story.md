@@ -38,7 +38,7 @@ A narrow man in a battered officer’s coat came down the road. Blood darkened o
 
 Rellan pushed himself upright. “At present, Rellan of the ditch.”
 
-The officer stared at him. His soldiers did not. They watched the banks, the mouths of the road, the evening sky. Their boots were caked with two colors of mud, and several wore cloaks with the badges ripped off. Not an ambushing force, then. A force that had run until it found a hole and mistaken that for safety.
+The officer stared at him. His soldiers did not. They watched the banks, the mouths of the road, the evening sky. Their boots were caked with two colors of mud, and several wore cloaks with the badges ripped off. An ambush, then, but a hungry, improvised one, laid by a force that had run until it found a hole and mistaken that for safety.
 
 “Captain Cadren,” the man said. “You will come with me.”
 
@@ -46,11 +46,11 @@ The guard strained against the shaft. Rellan heard the breath whistle between hi
 
 “I will not,” Rellan said. “But if your people lift this wagon, we can discuss the matter while my guard keeps his leg.”
 
-Cadren’s mouth tightened. He had prepared himself for terror or defiance. An objection about furniture did not fit anywhere useful.
+Cadren’s mouth tightened. His eyes went to the guard’s leg and came back.
 
 “You are in no position to bargain.”
 
-“That is a man under a wagon, Captain. It is not a bargain.”
+“That is a man under a wagon, Captain.”
 
 For a moment Cadren seemed likely to refuse merely because Rellan had made agreement difficult. Then one of the enemy soldiers said, “Sir, the south watch saw riders.”
 
@@ -76,9 +76,9 @@ Rellan sat back on his heels. “No.”
 
 Several spear points shifted closer.
 
-Cadren looked almost relieved. This, at least, was a kind of answer he understood. “You mistake your circumstances.”
+“You mistake your circumstances,” Cadren said.
 
-“You mistake my marriage. I cannot order Nerava to move a legion.”
+“Captain, I cannot order Nerava to move a legion. I could not even order her to stay home.”
 
 “You can ask your wife to spare your life.”
 
@@ -96,13 +96,13 @@ Silence spread outward from Cadren. Even the guard opened his eyes.
 
 “My wife has been away for five months.”
 
-“My company has been without bread for two days.”
+“My soldiers have not had bread in two days. And you sit in the dirt and talk to me about dinner.”
 
 “Then we are both having poor afternoons.”
 
-That was the wrong thing to say. Rellan knew it before Cadren’s expression changed, but knowing a mistake at once did not make it less made.
+That was the wrong thing to say. Rellan knew it before Cadren’s expression changed, but knowing it at once did not unsay it.
 
-Cadren ordered the ring tightened.
+Cadren ordered the ring of soldiers pulled tighter.
 
 His soldiers dragged a splintered handcart from the ditch across the southward track and built a rough breastwork of baskets, wheels, and Rellan’s winter kindling. The household party was left inside a narrowing oval around the overturned wagon. The enemy did not rush them. Cadren wanted Rellan standing and recognizable, and every one of his exhausted soldiers knew it.
 
@@ -124,11 +124,9 @@ An enemy soldier laughed. Another joined him before remembering he was under ord
 
 “You could have said the bank was loose.”
 
-“This is not hospitality.”
+“I will bind you,” Cadren said again, louder, and walked off before Rellan had finished drawing breath.
 
-“No. At Juniper House we warn people about the footing.”
-
-The guard caught Rellan’s sleeve before he could continue. Pain had blanched his face. “Sir. Perhaps less talking.”
+The guard caught Rellan’s sleeve before he could call after him. Pain had blanched his face. “Sir. Perhaps less talking.”
 
 It was sound advice. Rellan ignored it for another quarter hour.
 
@@ -140,7 +138,7 @@ She would wait perhaps three minutes before asking where he was.
 
 Perhaps two.
 
-At the last crossroads, his guard had offered to ride ahead when smoke first showed above the western road. Pride had kept Rellan from sending him. He had wanted to solve one ordinary delay without summoning the kingdom’s most feared general like a household remedy for mud. Now, listening to Cadren repeat the same orders to soldiers who had begun pretending not to hear, Rellan’s worry shifted.
+At the last crossroads, his guard had offered to run ahead when smoke first showed above the western road. Pride had kept Rellan from sending him. He had wanted to solve one ordinary delay without summoning the kingdom’s most feared general like a household remedy for mud. Now, listening to Cadren repeat the same orders to soldiers who had begun pretending not to hear, Rellan’s worry shifted.
 
 It was no longer that Nerava might fail to come.
 
@@ -156,17 +154,17 @@ Cadren stopped. “You.”
 
 “You have just explained that you command nothing.”
 
-“I command my word.”
+“I can tell her what I promised. She will hear it.”
 
-“Can your word open the western road?”
+“Can you open the western road?”
 
 “No.”
 
-“Can it keep my soldiers out of prison?”
+“Can you keep my soldiers out of prison?”
 
 “I don’t know.”
 
-Cadren gave a short, ugly laugh. “Then you offer a prettier cage.”
+Cadren gave a short, ugly laugh. “The western road. That is all I asked you for. The western road.”
 
 His company had crossed the border expecting an easy march behind two larger columns. The larger columns had broken. Cadren said this in pieces, as if each piece had been forced from him by the inconvenience of Rellan not understanding. Farms had shut their gates. Bridges had been burned behind them. Three men sent to bargain at a village had not returned.
 
@@ -182,9 +180,7 @@ Rellan had heard the name. Nerava disliked it. Not because it frightened anyone,
 
 Cadren glanced upward despite himself.
 
-Above the western bank, a flock of plovers burst from the barley. They wheeled once, flashing pale undersides, and fled east.
-
-Nobody spoke.
+Above the western bank, a flock of plovers burst from the barley. They wheeled once, flashing pale undersides, and fled east. Nobody spoke.
 
 Far beyond the cut, a horn sounded one low note.
 
@@ -196,15 +192,13 @@ Cadren seized Rellan by the front of his coat. “Tell her you are alive.”
 
 “Then climb the bank.”
 
-“Your archer nearly killed me when I was standing beside a wagon. I am not showing Nerava a ring of armed people and letting her guess which ones have discipline.”
+“I’ve already fallen off that bank once.” Rellan heard his voice go high and could not stop it. “And if I reach the top, her archers see a man climbing out of your ring before they see my face.”
 
 The horn sounded again, farther north than before.
 
 Cadren released him and began shouting. Half his company rushed to the south barricade. The other half rushed north. A horse screamed from somewhere above, then came sliding riderless down the chalk, its reins cut and its eyes white. Men scattered. One fell. Another lost his shield and crawled after it until Cadren kicked it back to him.
 
-Dust rose beyond both banks.
-
-Then soldiers appeared along the western rim.
+Dust rose beyond both banks. Then soldiers appeared along the western rim.
 
 They did not cheer. They did not wave weapons or announce who they were. One moment the ridge held thorns and yellow grass; the next it held a line of dark shields, each overlapping the next. Bowstrings drew together with a soft, enormous creak.
 
@@ -224,9 +218,7 @@ Rellan saw her at last on the eastern bank.
 
 She sat a gray horse without a plume or bright armor. Five months had sharpened her face and put new silver at one temple. While officers shouted around her, she looked down into the cut until she found the overturned wagon.
 
-Until she found him.
-
-Everything in her went quiet.
+Until she found him. Everything in her went quiet.
 
 Cadren saw it too. He dragged Rellan upright and set a sword beneath his jaw.
 
@@ -260,11 +252,11 @@ Cadren jerked him back. The blade nicked skin this time, a bright small sting. N
 
 “She might. You have not given her much to work with.”
 
-Cadren stared at the ranks closing both ends of the cut. His command had come apart one dropped weapon at a time. He wanted a road. He wanted not to beg. He wanted the last hour to have meant something.
+Cadren stared at the ranks closing both ends of the cut. His command had come apart one dropped weapon at a time, and he did not seem to know what to do with the sword that was left.
 
 Rellan wanted to go home.
 
-“It is quarter,” Rellan said. “Not victory. Not freedom. Living through the evening. Take it.”
+“It’s quarter. That’s all it is. Your people live through tonight. Please take it.”
 
 Cadren’s sword lowered half an inch.
 
@@ -280,15 +272,11 @@ Nerava’s gaze moved from it to his face. “Is that yours?”
 
 “They put down weapons. They live. Treat the wounded. Hold them for the crown if you must, but no revenge here.” Rellan heard himself beginning to rush and forced the rest out plainly. “I gave my word.”
 
-Cadren said behind him, “He promised protection.”
+Cadren said behind him, “He said my soldiers would not see a prison.”
 
-“I promised you would live,” Rellan snapped. “You kept arguing about the road.”
+“I said I didn’t know,” Rellan said, without turning round.
 
-Cadren’s formal rage cracked. Beneath it was plain embarrassment, arriving late and unwelcome.
-
-Nerava watched Rellan. Not the cloth. Not Cadren’s sword. Him.
-
-“Do you stand by it?” she asked.
+Nerava kept her eyes on Rellan. “Do you stand by it?”
 
 “I do.”
 
@@ -302,9 +290,9 @@ Cadren stayed where he was.
 
 Rellan climbed down from the wagon. His knees nearly folded when his boots touched the road. He held the stained linen out to the captain.
 
-“You wanted my marriage,” he said. “There it is.”
+“Hold it up,” he said. “They need to see it in your hand.”
 
-Cadren looked past him at General Nerava, who had dismounted and was coming down into the cut. Then he looked at the linen. He took it as though it weighed more than his sword.
+Cadren looked past him at General Nerava, who had dismounted and was coming down into the cut. Then he took the linen and raised it to his shoulder, no higher.
 
 The sword fell from his other hand.
 
@@ -346,7 +334,7 @@ Nerava turned her head. “He is eating barley in my command tent.”
 
 “So I gathered.”
 
-The carter went to help with the guard, satisfied that her mule had survived and aware that the man beside her still needed help.
+Satisfied about the mule, the carter went back to the guard, whose leg was still bound in dinner linen.
 
 Rellan looked at Cadren’s company kneeling in small, exhausted groups. “Thank you for stopping.”
 
@@ -354,13 +342,13 @@ Nerava’s attention came back to him. “You asked me to.”
 
 “I was not certain that would be enough.”
 
-“Neither was I.” She glanced toward the still figure beneath the dun banner, then to the legion surgeons already moving among both uniforms. When she spoke again, her voice was lower. “It had to be.”
+“Neither was I.” She glanced toward the still figure beneath the dun banner, then to the legion surgeons already moving among both uniforms.
 
-She assigned Cadren’s prisoners to three separate watches, ordered every wounded person treated before questioning, and refused an officer who tried to arrange the legion along the road for her departure. There would be no victory display at Plover’s Cut. The living had enough to carry out.
+She assigned Cadren’s prisoners to three separate watches, ordered every wounded person treated before questioning, and refused an officer who wanted the legion drawn up along the road to salute her out of the cut.
 
 By the time Rellan and Nerava reached Juniper House, night had settled over the barley. Campfires covered the eastern fields in orderly rows. Soldiers had watered their horses in the orchard trough, stacked shields beside the kitchen garden, and left a respectful empty circle around the house itself.
 
-Inside, the dining room candles had burned down by half. The roast onions were black at the edges. The cheese was somewhere under a wagon. Of twelve pears, four had returned in a legion supply cart, and only one had escaped bruising.
+Inside, the dining room candles had burned down by half. The roast onions were black at the edges. The cheese had gone to Cadren’s company, and nobody had admitted to it. Of twelve pears, four had returned in a legion supply cart, and only one had escaped bruising.
 
 Nerava unbuckled her sword belt at the door. For a moment she looked around for somewhere proper to set it. Rellan pointed to the peg beneath his market cloak.
 
@@ -386,11 +374,7 @@ Nerava leaned back. Something in her shoulders loosened—not much, but enough t
 
 “I wanted one evening,” he said, “when nobody used me to reach you.”
 
-“Cadren did.”
-
-“He tried.”
-
-“And you offered him quarter.”
+“Cadren did,” Nerava said. When he did not answer, she added, “And you offered him quarter.”
 
 “He was afraid of you.”
 
@@ -400,21 +384,9 @@ Nerava leaned back. Something in her shoulders loosened—not much, but enough t
 
 She did not defend herself. Her hand stayed beside his on the table, and she waited.
 
-Rellan picked at the split in the tabletop. “Cadren thought I was a gate he could put a knife against.”
+Rellan picked at the split in the tabletop.
 
-“You are not a gate.”
-
-“I know that. You know that. It was a crowded afternoon for slower learners.”
-
-Her mouth twitched.
-
-“I did not send for you,” he said, “because I did not want to need the Ash General every time a road went wrong.”
-
-“Good. I dislike that name.”
-
-“You dislike all your names.”
-
-“Not all of them.” She reached across the table and turned his wedding ring once around his finger. “Next time the road goes wrong, send for Nerava.”
+She reached across the table and turned his wedding ring once around his finger. “Next time, send someone. I do not want to hear it from the mule again.”
 
 He covered her hand with his. “There will not be a next time.”
 

@@ -8,23 +8,23 @@ canon: false
 
 # The Gods Are Afraid of Grandma
 
-Grandma Valka was halfway down the drainpipe when I arrived.
+Grandma Valka was climbing off the porch roof when I arrived.
 
-She had one slipper braced on the porch roof, one bare foot feeling for the iron trellis, and a cigarette tucked into the corner of her mouth. Rain silvered her white hair against her scalp. At a hundred and eight, she had the build of a bundled umbrella and the grip strength of a dockworker.
+She had one slipper braced on the roof’s edge, both hands on the top of the iron trellis, one bare foot feeling for a rung, and a cigarette tucked into the corner of her mouth. Rain silvered her white hair against her scalp. At a hundred and eight, she had the build of a bundled umbrella and the grip strength of a dockworker.
 
 I dropped my overnight bag in the flower bed.
 
 “Don’t yell,” she said. “You’ll make me fall.”
 
-“You are making you fall.”
+“Stay there. Stay right there, don’t move your foot, I’m coming under you.”
 
-“Then don't help.”
+“Don’t help.”
 
-The gutter had clogged with leaves. She had climbed out the bedroom window because, according to her, ladders were dangerous in the rain. By the time I got under her, swearing and holding both arms up, she was already testing the trellis with her heel.
+The wind had knocked the television aerial crooked. She had climbed out the bedroom window to straighten it because, according to her, ladders were dangerous in the rain. By the time I got under her, swearing and holding both arms up, she was already testing the trellis with her heel.
 
-The rusty bracket tore out of the brick.
+The trellis’s rusty top bracket tore out of the brick.
 
-For one long second she hung above me, surprisingly quiet. Then a delivery van struck the pothole at the curb. Its back door flew open. A roll of carpet underlay bounced out, hit our hedge, unfolded across the path, and made a thick gray landing pad exactly where Valka came down.
+For one long second she hung above me from the leaning trellis, surprisingly quiet. Then a delivery van struck the pothole at the curb. Its back door flew open. A roll of carpet underlay bounced out, hit our hedge, unfolded across the path, and made a thick gray landing pad exactly where Valka came down.
 
 She landed on her backside, took the cigarette from her mouth, and regarded the underlay.
 
@@ -43,6 +43,8 @@ Then she outlived the neighbor and the dog.
 “One cigarette after dinner,” I said.
 
 “Certainly.”
+
+She lit one before I had finished my second pancake.
 
 “That one counts.”
 
@@ -64,11 +66,11 @@ Something struck the shelves. A jar broke. Valka’s heart gave a hard, offended
 
 She pulled her wrist away. “You’re peeking at my cards.”
 
-I opened the pantry. A crock of pickles rocked on its base. Cloudy brine spread between the tiles. Nobody was there.
+I opened the pantry. The pickle jar lay in pieces on the floor. Cloudy brine spread between the tiles. Nobody was there.
 
 “Mouse,” Valka said behind me.
 
-“The mouse swore.”
+“The mouse complained.”
 
 “You would too, living on what you buy.”
 
@@ -112,65 +114,57 @@ I took his hammer. He let me, which frightened me more than if he had turned it 
 
 “I have no authority inside.”
 
-“You’re going to discover some.”
+“I don’t care. Walk.”
 
 I herded him through the kitchen with the hammer raised. He stopped at the pantry threshold as if he had hit glass. From behind the door came furious whispering.
 
-“She caught him,” said one voice.
+“The grandchild caught him,” said one voice.
 
-“Of course she caught him,” said another. “He wore the vest.”
+“Of course,” said another. “He stood in the rain and let the vest stay dry.”
 
-“People trust the vest.”
+The man beside me spoke to the door. “People trust the vest.”
 
-“People trust roads. They merely tolerate you.”
+“People trust roads,” said the first voice. “They merely tolerate you.”
 
 I opened the door.
 
-The pantry was four feet deep and currently held two more people, neither of whom had been there when I searched it. A broad woman in an apron crouched beside the broken pickle jar, pinching shards out of the brine. A narrow person in a yellow raincoat sat on the flour bin and swung one spotless boot.
+The pantry was four feet deep and currently held two more people. A broad woman in an apron crouched beside the broken pickle jar, pinching shards out of the brine. A narrow person in a yellow raincoat sat on the flour bin and swung one spotless boot.
 
-The apron woman pointed at the man. “He has muck on my floor.”
+I stepped back onto the road man’s foot. “I looked in there. After the jar, I looked. There was nobody in there.”
 
-“It’s your floor?” I said.
+The apron woman pointed past me at him. “He has muck on my floor.”
 
-“For the relevant purposes.”
+“Your floor? It’s a pantry. It’s Valka’s pantry.”
 
-The person in yellow looked me over. “You’re the grandchild who hides the cigarettes.”
+“I have swept it every morning since this house had a stove.”
 
-“Which grandchild?”
+The person in yellow looked me over. “You’re the anxious grandchild. The one who hides the cigarettes.”
 
-“The anxious one.”
+“I don’t hide them, I move them, she always finds them anyway. Who are you? How long have you been in there? Were you in there at dinner?” My voice kept climbing.
 
-“That does not narrow it down.”
+The apron woman slapped both palms on her knees. A blue flame leaked between her fingers and vanished. “Hush. You’ll wake Valka.”
 
-“This is why I said we should recruit the tall niece.”
-
-“She lives two counties away,” said the road man.
-
-“Rain travels.”
-
-“Not usefully.”
-
-The apron woman slapped both palms on her knees. A blue flame leaked between her fingers and vanished. “Enough. She’ll wake.”
-
-“Who are you?” I asked.
+“Who are you?” I said again, quieter.
 
 They looked at one another, each waiting for someone of lower rank to answer.
 
 The road man finally cleared his throat. “We are powers of longstanding local recognition.”
 
-“Gods,” said the weather god.
+“Gods,” said the person in yellow.
 
 “Some of us preserve ceremonial precision.”
 
 “Some of us fill potholes.”
 
-“That is an exercise of authority.”
+“That is an exercise of authority,” said the road man.
 
 The apron woman shoved a cloth into his hands. “Exercise it on the brine.”
 
+He sat down on the pantry threshold and began, with great dignity, to mop.
+
 They were gods. I believed them immediately, not because of the fire or the dry raincoat but because they had the same bad teamwork as the committee at my apartment building, combined with the vanity of people who expected statues.
 
-The hearth god had held authority in Valka’s house since the first stove fire burned there. The road god governed the lane, its ditches, its crossroads, and—as he insisted twice—the lawful approach to the gate. The weather god had the valley’s rain and wind, although not temperature, which belonged to a cousin no one liked.
+The hearth god had held authority in Valka’s house since the first stove fire burned there. The road god governed the lane, its verges, its crossroads, and—as he insisted twice—the lawful approach to the gate. The weather god had the valley’s rain and wind, although not temperature, which belonged to a cousin no one liked.
 
 “People still worship you?” I asked.
 
@@ -178,15 +172,15 @@ The road god drew himself up. “They touch their dashboards and beg to arrive. 
 
 “They check my face before they leave the house,” said the weather god.
 
-The hearth god wrung pickle brine into the sink. “They bring families to my table. That will do.”
+The hearth god wiped pickle brine from her hands onto her apron. “They bring families to my table. That will do.”
 
 Their power, authority, and scraps of worship sounded less like a golden age than a collection of jobs nobody had managed to abolish.
 
 “You fixed her heart.”
 
-The hearth god's mouth tightened.
+The hearth god’s mouth tightened.
 
-“You dropped the underlay,” I said to the road god. “And you put out the cigarette.”
+“You dropped the underlay,” I said to the road god. Then, to the weather god: “And you put out the cigarette.”
 
 The weather god looked pleased. “One drop. Very neat.”
 
@@ -208,11 +202,11 @@ Silence followed. The road god stared at his knees.
 
 “Then I wake Valka.”
 
-The effect was extraordinary. The weather god slid off the flour bin. The hearth god blocked the door. The road god, still holding the wet cloth, whispered, “There is no need for escalation.”
+The effect was extraordinary. The weather god slid off the flour bin. The hearth god came out of the pantry and planted herself in front of the door to the stairs. The road god, still sitting on the threshold with the wet cloth, whispered, “There is no need for escalation.”
 
 So I had them.
 
-I brought the card deck from the kitchen and set it on an upturned crate. “Start talking.”
+I sat down at the kitchen table, where our cards still lay, and squared the deck. “Start talking.”
 
 Their story emerged badly.
 
@@ -238,41 +232,39 @@ They tried to settle with a game.
 
 “He dealt from the bottom,” said the weather god.
 
-“You marked the queen.”
+The road god turned on the weather god. “You marked the queen.”
 
-“Because you kept forgetting which suit was dominant.”
+“It was a signal. You were supposed to lead hearts.”
 
-“You changed it four times.”
+“You changed what it meant four times.”
 
 “Valka caught you,” I said.
 
 The hearth god smiled despite herself. “Before the second trick.”
 
-Valka had taken over the deal and changed the stakes. If she won, their old debts remained due, and when she returned she could name the forfeits. Before she could do so, paramedics restarted her heart. The game, accepted freely and interrupted before collection, remained binding.
+Valka had taken over the deal and changed the stakes. If she won, their old debts stood, and she would name the forfeits herself. She won. She was holding the marked queen and drawing breath to name the first forfeit when paramedics restarted her heart, and she woke in the ambulance with the card in her fist. The game, accepted freely and interrupted before collection, remained binding. As long as she kept the queen, the table stayed open, and the day she came back through, she could sit down and collect. If the card were destroyed, the game would be void, and every debt with it.
 
 “What can she ask for?”
 
-The pantry filled with evasions.
+The kitchen filled with evasions.
 
 Not everything. Nothing universal. No power beyond their domains. No command that erased another person’s choice. They could not drag her back from the dead, give her endless life, or bar her from the afterlife. But within their authority, they could owe service, yield privileges, surrender worship, perhaps even lose the offices that made them gods.
 
 “Perhaps?” I said.
 
-“We did not let her finish stating the stakes,” the weather god said.
+“She never got to finish,” the weather god said. “Somebody panicked.”
 
-“The paramedics did that.”
+“The paramedics did that,” said the road god.
 
-“You kicked over the table.”
+The hearth god looked at him. “You kicked over the table.”
 
 “The floor shifted.”
-
-“It was a floor.”
 
 The road god pressed the wet cloth to his face.
 
 They had spent forty-six years postponing Valka’s return. The hearth god nudged circulation when her heart misfired at home. The road god diverted vehicles, tightened steps, and once moved a runaway wheelbarrow uphill. The weather god broke heat waves over her roof and sent rain after sparks.
 
-They could only work within their domains. They could only correct what they caught. Their efforts cost them: a washed-out culvert left waiting while the road god softened Valka’s fall; a whole afternoon’s rain held in a cramped cloud while the weather god cooled her fever; six kitchen fires burning too hot elsewhere while the hearth god coaxed strength through one old heart.
+They could only work within their domains. They could only correct what they caught. Their efforts cost them: a hay truck left stalled across a blind bend for an hour while the road god softened Valka’s fall; a whole village’s washing left hanging limp for a week while the weather god sent every breeze in the valley through her window during a fever; six kitchen fires burning too hot elsewhere while the hearth god coaxed strength through one old heart.
 
 And still Valka had arthritis, a smoker’s cough, blood vessels the hearth god called “an insult,” and a liver that prompted all three to cross themselves in different directions. The lard still clogged. The smoke still scarred. Age still narrowed the spaces between emergencies.
 
@@ -288,13 +280,13 @@ Upstairs, Valka coughed in her sleep. I had heard that cough all my life. Now I 
 
 The road god lowered the cloth. “We have just described—”
 
-“I’ll keep your secret. I’ll get the family to stop nagging her, stop asking why the woman who salts bacon keeps passing her medical checks. In return, one of you watches her at all times.”
+“I’ll keep your secret. I’ll get the family to stop nagging her, stop asking why the woman who salts bacon keeps coming home from the hospital. In return, one of you watches her at all times.”
 
 The weather god laughed once, then saw my face. “Oh. You mean it.”
 
 “No gaps. No missed heartbeats. No falls.”
 
-“We can't.” The hearth god's voice was quiet now. “She is alive. Alive is not the same as sealed.”
+“We can’t.” The hearth god’s voice was quiet now. “She is alive. Alive is not the same as sealed.”
 
 “Then make it the same.”
 
@@ -330,7 +322,7 @@ All three gods recoiled.
 
 The hearth god grabbed my wrist. Her palm was fever-hot. “No.”
 
-“Or I could give it back to her.”
+“Or I could take it upstairs and put it in her hand.”
 
 The weather god said a word that rattled every window in the house.
 
@@ -344,13 +336,13 @@ The road god attempted a bow. The pantry shelf caught him behind the head.
 
 “You.” Valka pointed the poker at the hearth god, who released me. Then at the weather god. “And you still owe me three dry Thursdays.”
 
-“Those were conditional,” said the weather god.
+“Thursdays are difficult,” said the weather god.
 
 “Sit.”
 
 They sat.
 
-Valka took the queen from me, rubbed the marked throat with her thumb, and placed it face down on the table. Her hands trembled. I had not noticed that before. Or I had noticed and filed it under things to correct.
+Valka took the queen from me, rubbed the marked throat with her thumb, and placed it face down on the table between us. Her hands trembled. I had not noticed that before. Or I had noticed and filed it under things to correct.
 
 “How long have you known?” I asked.
 
@@ -364,11 +356,7 @@ Valka took the queen from me, rubbed the marked throat with her thumb, and place
 
 “I came down.”
 
-“On a carpet.”
-
-“Underlay.” The road god sounded offended.
-
-I turned on him. “Do not help.”
+“You came down on a roll of underlay that fell out of a van at exactly the right second. He put it there.”
 
 Valka leaned the poker against her chair. “You came to watch me.”
 
@@ -398,7 +386,7 @@ The words came badly, as they always had. “I know you’re going to. I know. B
 
 That was as far as I got.
 
-Valka’s hand closed over mine, card and all. Her skin was thin and hot. The blue veins stood up under it. Nothing divine smoothed them away.
+Valka’s hand closed over mine on the oilcloth, beside the card. Her skin was thin and hot. The blue veins stood up under it. Nothing divine smoothed them away.
 
 “You want me not to leave you,” she said.
 
@@ -428,7 +416,7 @@ I laughed. It came out wet and embarrassing. Valka squeezed my hand once and let
 
 The queen remained between us.
 
-I could have torn it. I could have hidden it and kept my bargain over everyone’s head. For one ugly moment, I wanted to. The card was leverage over weather, fire, roads, perhaps death’s very doorstep. It was the best pill organizer our family had ever found.
+I could have torn it. I could have hidden it and kept my bargain over everyone’s head. For one ugly moment, I wanted to. That card was the reason three gods kept catching her, and the reason they were afraid of her. It was the best pill organizer our family had ever found.
 
 But it was not mine.
 

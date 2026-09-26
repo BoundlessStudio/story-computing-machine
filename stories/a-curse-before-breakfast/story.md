@@ -16,7 +16,7 @@ I opened my mathematics book. There were triangles in it that I remembered likin
 
 Coris answered her bedroom door with the blanket still round her. Her hair was caught under one armpit.
 
-"I need a favor," I whispered.
+"I need a favour," I whispered.
 
 "Tomorrow."
 
@@ -36,7 +36,7 @@ She took it from me, checked my place, and held it out again. "You were nearly f
 
 "I know."
 
-"Awful."
+"Poor you. Night."
 
 I put my foot against the door before she could close it. She was twenty-one and a witch, but there were still things she had to do with a door like everybody else.
 
@@ -212,7 +212,7 @@ She stood with the empty tissue box in her hand until I remembered what she had 
 
 "I could."
 
-"It's not that bad."
+"It's not that bad," I said.
 
 Her eyes went to the six tissues on the duvet, then back to me. I sneezed again. She handed me a corner of the sheet.
 
@@ -298,7 +298,7 @@ She slipped it inside the pillowcase. I tucked the quilt round her and offered t
 
 "And toast. With butter right to the edges."
 
-I made four slices, two for her and two for me. She ate one corner and left the rest. I asked whether she wanted it cut smaller. She shook her head, then changed her mind, and I brought the plate back to the kitchen.
+I made four slices, two for her and two for me. She ate one corner and left the rest. I asked whether she wanted it cut smaller. She shook her head, then changed her mind, so I cut it into fingers and put the plate back by her elbow.
 
 I set my books out on the table. The page hadn't become easier, exactly, but the first line remained in my head while I read the second. I did a question. The answer agreed with the one in the back. I put a small tick beside it and went on before anything could happen.
 

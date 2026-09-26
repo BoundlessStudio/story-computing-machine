@@ -76,7 +76,7 @@ He looked from the chair to the animal, then to the pointer. Jovie could see his
 
 "With flames."
 
-"These are predominantly orange."
+"That machine is predominantly orange."
 
 She moved the pointer without meaning to. The dot climbed his trouser leg. Harcott went rigid, and the cat's paw came up again.
 
@@ -98,9 +98,9 @@ Harcott kept his hands flat on the counter. "What did you pay for the pointer?"
 
 "Keep your money. You can take that tag off."
 
-He glanced at the handlebars. "You can remove the tag yourself."
+He didn't look at the handlebars. "The tag comes off when the pointer's on this counter."
 
-For a moment she nearly did. The key first. Then she could have him remove it. Then perhaps he could carry her helmet while she adjusted the mirrors. A great many improvements were becoming possible.
+For a moment she nearly walked over and ripped it off herself. The key first. Then she could have him remove it. Then perhaps he could carry her helmet while she adjusted the mirrors. A great many improvements were becoming possible.
 
 The cat sat down with a dull thump. It tucked its tail around its paws and looked toward the packing table, where the paper crackled in the woman's hands. Jovie waggled the dot. One ear turned toward her. The rest of the animal remained interested in the swans.
 
@@ -110,7 +110,7 @@ It lifted a hind leg and began washing.
 
 Harcott watched her for several seconds. She rested her pointer hand against her thigh to steady it.
 
-"How long have you had it?"
+"How long have you had it?" he asked.
 
 "Long enough."
 
@@ -122,7 +122,7 @@ The woman froze with the tape stretched between her hands.
 
 "Not you."
 
-"Then tell it."
+"Then tell it," Harcott said.
 
 Jovie skimmed the dot across the aisle. The cat's gaze dropped to it. She let out a breath, then became aware that Harcott had seen her do that too.
 
@@ -144,9 +144,9 @@ The woman set down her tape and lifted one of the swans. Paper fell from its win
 
 The cat lunged toward the rustle.
 
-"Here!" Jovie cried, throwing the red spot across its path.
+"Here!" Jovie threw the red spot across its path.
 
-It twisted after the dot. The woman clutched the swan against her chest. Jovie dragged the light away from the packing table, across the aisle, and saw it run straight up the front wheel of her motorcycle.
+It twisted after the dot. The woman clutched the swan against her chest. Jovie dragged the light away from the packing table, across the aisle, and saw the dot run straight up the front wheel of her motorcycle.
 
 "No, no, no."
 
@@ -154,7 +154,7 @@ She flung her wrist sideways. The dot shot under a tall cabinet. The cat whipped
 
 Jovie reached for it. He bent faster and came up with it in his hand.
 
-"That's mine too."
+"That's mine too," Harcott said.
 
 The cat lay on its side with one immense foreleg thrust beneath the cabinet. Something wooden cracked inside. It withdrew its paw, examined it, and reached farther.
 
@@ -204,11 +204,11 @@ The cat laid a paw beside his arm. One claw unfolded through the loose cloth of 
 
 Harcott pulled. His cuff drew tight around his wrist. The cat settled on its haunches, its face close to his hand.
 
-Jovie climbed off the carpets. She had carpet fibres in her mouth. Her stomach hurt, one of the helmet's little vents had snapped off, and Harcott was attached to his own counter by an animal he had tried to use to chase her out. She took her time brushing her jacket.
+Jovie climbed off the carpets. She had carpet fibres in her mouth. Her stomach hurt, one of the helmet's little vents had snapped off, and Harcott was attached to his own counter by an animal he had tried to use to chase her out. She took her time brushing down her spare jacket.
 
 "Get it away," he said.
 
-"You seem to have made a friend."
+"I walked home in these boots last night," Jovie said.
 
 The cat pressed its nose against his fist. He tried to open his fingers, but the pointer was trapped against the wood.
 
@@ -264,9 +264,9 @@ The cat's head lowered. Its paw rose off the counter.
 
 Harcott wrenched his sleeve loose and stumbled away. Jovie kept her hand still, her arm aching, while the cat slid into a crouch. She let the dot creep from behind the crate.
 
-It set off down the aisle.
+The cat set off down the aisle.
 
-She moved with it, leaving her helmet on the counter, and tried to keep the spot on the right side of the crate so the animal would pass on the right side of the motorcycle. But the cat went left. It took two quick steps through the gap beside the marble fireplace and bounded over the bike, cutting straight across toward the light.
+She moved with it, leaving her helmet on the counter, and tried to keep the spot on the right side of the crate so the animal would pass on the right side of the motorcycle. But the cat went left, two quick steps toward the gap beside the marble fireplace. There it saw the dot past the far side of the bike, turned, and bounded over the motorcycle, cutting straight across toward the light.
 
 A rear claw caught the flame-painted mudguard.
 
@@ -274,7 +274,7 @@ The shriek of metal made Jovie jerk her arm. Her bike rocked on its stand. She l
 
 An orange curl of paint and metal stuck up from the mudguard. She had spent a whole afternoon painting those flames, crouched on the pavement with her tongue between her teeth. The two sides didn't match. She had liked them better for it.
 
-The cat turned its head toward the scrape. Jovie moved the dot into the yard. It followed.
+The cat turned its head toward the scrape. Jovie moved the dot into the yard. The cat followed.
 
 She steadied the bike on its stand. Her hand wanted to go to the ruined paint, to feel how deep the damage ran, but the cat was looking back through the doorway. She hurried the light farther out over the concrete. This time it chased, cuffing the spot with a paw wide enough to cover the headlamp.
 

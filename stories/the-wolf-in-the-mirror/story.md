@@ -10,13 +10,9 @@ canon: false
 
 Forty-three minutes before moonrise, my partner moved the water basin six inches to the left and ruined my diagram.
 
-"If you turn on the west half of the room," I said, "you'll hit it before you see it."
+"If you come around the west corner fast," I said, "you'll hit it before you see it."
 
-They nudged the basin again with the side of one bare foot. "Then I will discover water."
-
-"At speed."
-
-"I have encountered water before."
+They nudged the basin again with the side of one bare foot. "So I get wet. I've been wet before."
 
 "Not with four feet."
 
@@ -28,9 +24,9 @@ They looked at me. The laugh arrived in their eyes, then stopped at their mouth.
 
 That was true. I erased the basin from the floor plan on my clipboard and drew it again where they had put it.
 
-The room had once been a ground-floor studio with a mirrored wall and a door to the garden. During the past three weeks it had acquired a second skin: reinforced panels behind the plaster, a floor that would yield under a fall but not tear under claws, and an observation vestibule where the garden door had been. Two gates separated the inner room from the rest of the house. Neither looked domestic. We had tried covering them with curtains and discovered that curtains made them worse.
+The room had once been a ground-floor studio with a mirrored wall. During the past three weeks it had acquired a second skin: reinforced panels behind the plaster, a floor that would yield under a fall but not tear under claws, and an observation vestibule where the door to the hall had been. Two gates, one at each end of the vestibule, separated the inner room from the rest of the house. Neither looked domestic. We had tried covering them with curtains and discovered that curtains made them worse.
 
-The mirror was fixed to the wall in a frame built to take an impact. A dark cover waited in a ceiling track above it. I could draw the cover from inside the vestibule without opening the gate, but only if my partner cleared the strip of floor beside the mirror.
+The mirror was fixed to the wall in a frame built to take an impact. A dark cover waited in a ceiling track above it. In the test runs, the glass had doubled the blue lamp, so that a second pool of light seemed to glow inside the wall. I could draw the cover from inside the vestibule without opening the gate, but only if my partner cleared the strip of floor beside the mirror.
 
 "We could start with it covered," I said.
 
@@ -38,19 +34,19 @@ The mirror was fixed to the wall in a frame built to take an impact. A dark cove
 
 "It removes one variable."
 
-"It's my room eleven months out of the year. I'm not waking up to find you've preemptively hidden it because I might be ugly."
+"It's my room every night but one. I'm not waking up to find you've hidden it because I might be ugly."
 
 "That wasn't the variable."
 
-"I know." They pressed both palms to the cool glass and checked the frame for movement. "Still no. If I need it covered, we use amber. I move to blue. You pull it. That's the agreement."
+"I know." They pressed both palms to the cool glass and checked the frame for movement. "Still no. If it gets confusing, put the amber on and I'll go sit in the blue. Then you can pull the cover."
 
 I put a check beside MIRROR TRACK.
 
-"You could say yes without writing it down."
+"You could just say yes."
 
-"I could also forget what yes referred to at three in the morning."
+"Yes," I said, and underlined the check.
 
-They turned from the mirror. "Show me space."
+They rolled their eyes and turned from the mirror. "Show me space."
 
 I held one palm upright at shoulder height: I see you; I am not coming closer.
 
@@ -60,7 +56,7 @@ I closed my hand and touched the knuckles to my chest.
 
 "Approach request."
 
-I lowered my open hand, palm up. It was a request, not a command. If the wolf chose to cross into the blue pool of light near the water and remain there, I could work the mirror cover or come to the inner gate. If they stayed where they were, I stayed where I was. We had practiced the shapes at odd moments all week: while carrying laundry, while waiting for toast, once in the middle of an argument about the cost of the floor.
+I lowered my open hand, palm up. It was a request. If the wolf chose to cross into the blue pool of light near the water and remain there, I could work the mirror cover or come to the inner gate. If they stayed where they were, I stayed where I was. We had practiced the shapes at odd moments all week: while carrying laundry, while waiting for toast, once in the middle of an argument about the cost of the floor.
 
 My partner answered the last shape by walking to the blue-lit patch and sitting cross-legged in it.
 
@@ -78,14 +74,6 @@ They groaned, but held up a hand before I could apologize. "No, go on. Last time
 
 "I use the emergency partition if you strike the same surface twice without backing off, if you can't recover your footing, or if your breathing doesn't ease during the ninety-second blue interval. I call for outside help for blood, gate displacement past the marks, or loss of response to light and sound together. I don't open the inner gate before dawn. After dawn, I don't open it just because you look like yourself. You ask, and you give me space."
 
-"I give you the hand shape for space."
-
-"Yes."
-
-"Because I am myself the whole time."
-
-"Yes."
-
 They studied my face, making sure I had not merely completed the verbal part of the checklist. Then they nodded. "And if I do something embarrassing?"
 
 "I report accurately."
@@ -96,27 +84,27 @@ They studied my face, making sure I had not merely completed the verbal part of 
 
 The small safety camera over the gate showed a green live-feed light. Its storage would erase itself after dawn. My partner could choose afterward to preserve a section, but nothing survived by default.
 
-They pointed at it. "No clips to the specialist. No anonymous training reel. No telling your sister a cleaned-up version that becomes funny at dinner."
+They pointed at it. "That doesn't go to the specialist. Or into some training reel with my face blurred." They rubbed the back of their neck. "And don't tell your sister. She does voices for everyone at dinner. I'm not getting a voice."
 
 "She doesn't know about the curse."
 
-"People can make an anecdote without knowing what it means."
+"She'd make one up anyway. She did one for your dentist."
 
 I set down the clipboard. "Live feed only. It expires. You decide afterward."
 
-"I decided now. It expires. If I change my mind when I can ask, then I ask."
+"Let it delete." They were looking at the camera, not at me. "If I want something kept, I'll tell you in the morning."
 
 "All right."
 
-They exhaled. "And you watch. You don't hide in the hall because you think privacy means abandonment."
+They exhaled. "And you watch. Don't go sit in the hall to be polite about it."
 
 "I watch."
 
-The moonrise alarm vibrated against the table between us. My partner's shoulders rose toward their ears.
+The moonrise alarm buzzed on the vestibule ledge. My partner's shoulders rose toward their ears.
 
 "Vestibule," they said.
 
-I went in, closed the outer gate, then the inner one. The latches seated with three heavy clicks. Through the clear panel, my partner seemed suddenly farther away than the width of the room allowed.
+I stepped through and shut the inner gate behind me. Its latches seated with three heavy clicks; the outer gate was already locked at my back. Through the clear panel, my partner seemed suddenly farther away than the width of the room allowed.
 
 They put a folded robe in the recovery bench and faced me. "Turn around for the change."
 
@@ -202,7 +190,7 @@ The plan said voluntary recovery reset the threshold.
 
 My fear said fifty minutes was already too long and I should stop it.
 
-My partner, forty-three minutes before moonrise, had said, *Don't make everything I choose sound like a defect you have to compensate for.*
+My partner, forty-three minutes before moonrise, had told me not to make everything they chose sound like a defect I had to compensate for.
 
 I did not touch the control.
 
@@ -210,13 +198,11 @@ The wolf rose, took three measured steps, saw their tail curl past a back foot, 
 
 "Rest interval complete," I told the empty clipboard stand. "Voluntary resumption."
 
-I repeated that last phrase until it began to sound like an excuse.
-
 At 10:29, the wolf changed tactics. They backed toward their tail while turning their head the other way, creating a slow sideways crescent that should not have worked and did not. At 10:41, they sat abruptly on the offending part. The resulting stillness lasted twelve seconds. At 10:42, they stood, looked behind themselves, and began again with renewed conviction.
 
 I did not laugh that time. I put both hands over my face, which was not one of our signals, and felt my shoulders shake.
 
-When I looked through my fingers, the wolf had stopped. They stood watching me from across the room, tongue out, sides heaving. The look gave me no answer. It was simply attention.
+When I looked through my fingers, the wolf had stopped. They stood watching me from across the room, tongue out, sides heaving, both ears turned my way.
 
 I lowered my hands. "Accurate report," I said. "No editorial additions."
 
@@ -226,87 +212,57 @@ At 10:56, one front paw dragged on the turn. I pressed the low tone too quickly.
 
 "Orient. Orient toward the vestibule. Blue is available. Water is available."
 
-Procedure crowded my mouth. The wolf kept circling, slower now. I reached for the tone a third time and stopped with my finger above it. Repetition had not made the cue clearer. It had only made me louder.
+The wolf kept circling, slower now. I reached for the tone a third time and stopped with my finger above it.
 
 The tail crossed in front. The wolf's jaws snapped, missed, and they stood there swaying slightly.
 
 I lit blue and waited.
 
-After eight seconds they walked to the water. After drinking, they lowered themselves into the blue pool with a graceless collapse that sent my hand to the control. Their head stayed up. Their breathing eased. One paw stretched, then the other. Nothing had crossed a threshold except my patience.
+After eight seconds they walked to the water. After drinking, they lowered themselves into the blue pool with a graceless collapse that sent my hand to the control. Their head stayed up. Their breathing eased. One paw stretched, then the other.
 
 I sat on the vestibule floor so they would not have to watch me hover.
 
-At 11:16, the wolf stood. For the first time since the chase began, their tail moved without taking the rest of them with it.
+At 11:16, the wolf stood. For the first time since the chase began, their tail moved without taking the rest of them with it. They walked away.
 
-They walked away.
+The clock read one hour and fifty-eight minutes. They crossed the room at an angle, passed the recovery bench, and entered the bright length of the mirror. The reflected wolf appeared all at once, and my partner froze.
 
-The clock read one hour and fifty-eight minutes. They crossed the room at an angle, passed the recovery bench, and entered the bright length of the mirror.
-
-The reflected wolf appeared all at once.
-
-My partner froze.
-
-The wolf in the glass froze with them: shoulders high, tail rigid, mouth partly open. No scent came from it. No footfall. Yet it occupied the room perfectly, huge and close and staring straight back.
+The wolf in the glass froze with them: shoulders high, tail rigid, mouth partly open. It gave off no scent and made no sound, yet it occupied the room perfectly, huge and close and staring straight back.
 
 My partner barked.
 
-The force of it struck the clear panel. They barked again, deeper, and the mirror answered in exact silence.
+The force of it struck the clear panel. They barked again, deeper, and the mirror answered in exact silence. I had asked for that cover because of glare, so the lamps would not put a second blue pool in the glass. In three weeks of floor plans, I had never once drawn a second wolf.
 
-I pressed the orientation tone.
+I pressed the orientation tone. Nothing.
 
-Nothing.
+The wolf advanced. Their reflection advanced. They stopped with their nose a hand's width from the glass and jerked sideways; the other wolf matched them. A paw scraped the floor.
 
-The wolf advanced. Their reflection advanced. They stopped with their nose a hand's width from the glass and jerked sideways. The other wolf matched them. A paw scraped the floor.
-
-"One surface," I said. "No impact. Footing stable."
-
-I sounded procedural because I was afraid. I repeated the conditions under my breath until they nearly became permission for whatever happened next.
+"One surface," I said. "No impact. Footing stable." I repeated the conditions under my breath until they nearly became permission for whatever happened next.
 
 The wolf dropped their head and gave a rolling warning that I felt in my sternum. The reflection did the same. They feinted left. It followed. They feinted right, faster, claws finding the floor.
 
 I killed the overhead white lights. Blue remained near the water. Amber waited dark above the vestibule. With the room dimmer, the reflected animal lost some detail but none of its size.
 
-My partner struck the mirror with one forepaw.
+My partner struck the mirror with one forepaw. The frame took it, and the panel held. One impact. I pressed the two descending notes once.
 
-The frame took it. The panel held.
+The wolf's ears flattened. Their head turned halfway toward blue, then snapped back when the reflection turned too. They barked until the sound frayed. I kept my hands visible and still and left the tones alone.
 
-One impact.
+After a while, they began to test the thing in front of them. They backed away. The rival gave ground. They stepped toward one edge until only a shoulder and one pale eye remained in the glass; the fragment tracked them. They approached from the other side. Nose high, they sampled the air beside the frame, along the floor, under the recovery bench. There was nothing for me to name as understanding. Their body simply stopped preparing to launch.
 
-I pressed the two descending notes once.
+At last they looked toward the vestibule. I touched my fist to my chest. The wolf's ears shifted forward, and behind them the mirror-wolf's did the same.
 
-The wolf's ears flattened. Their head turned halfway toward blue, then snapped back when the reflection turned too. They barked until the sound frayed. I kept my hands visible and still. No more tones. No chain of instructions they could not answer.
-
-After a while, they began to test the thing in front of them.
-
-They backed away. The rival gave ground. They stepped toward one edge until only a shoulder and one pale eye remained in the glass; the fragment tracked them. They approached from the other side. Nose high, they sampled the air beside the frame, along the floor, under the recovery bench. There was nothing for me to name as understanding. Their body simply stopped preparing to launch.
-
-At last they looked toward the vestibule.
-
-I touched my fist to my chest.
-
-The wolf's ears shifted forward. Behind them, the mirror-wolf did the same.
-
-I turned on amber and lowered my open hand: a request to approach the barrier, and with it permission for me to move the cover.
+I turned on amber and lowered my open hand: the request to cross into blue and stay there. If they went, the strip beside the glass would be clear and I could pull the cover.
 
 They looked at the amber lamp. They looked at the blue pool across the room. Then they looked back at the mirror and barked once, sharp enough to make me flinch.
 
 They did not move to blue.
 
-So I did nothing.
+So I did nothing. The wolf paced in a tight line between the mirror and the middle of the room. Twice they glanced at me. The second time I repeated the open hand, slower. My mouth wanted to add the rule, the threshold, the correct response. I bit the inside of my cheek and let the shape stand alone.
 
-The wolf paced in a tight line between the mirror and the middle of the room. Twice they glanced at me. The second time I repeated the open hand, slower. My mouth wanted to add the rule, the threshold, the correct response. I bit the inside of my cheek and let the shape stand alone.
+They crossed into blue. Not neatly: one hind foot remained outside the light, and their head stayed angled toward the mirror. But the strip beside the glass was clear. They lowered their chest to the floor.
 
-They crossed into blue.
+I pulled the cover lever. The dark fabric traveled down its sealed track. The reflected wolf narrowed to a dark muzzle, one eye, a stripe of fur, and disappeared.
 
-Not neatly. One hind foot remained outside the light, and their head stayed angled toward the mirror. But the strip beside the glass was clear. They lowered their chest to the floor.
-
-I pulled the cover lever.
-
-The dark fabric traveled down its sealed track. The reflected wolf narrowed to a dark muzzle, one eye, a stripe of fur, and disappeared.
-
-My partner sprang up. I let go of the lever, ready to stop the cover where it was, but they did not charge. They crossed the room, smelled the fabric from end to end, and pushed their nose against the place where the rival had been. The cover swayed. Nothing answered.
-
-They returned to blue on their own.
+My partner sprang up. I let go of the lever, ready to stop the cover where it was, but they did not charge. They crossed the room, smelled the fabric from end to end, and pushed their nose against the place where the rival had been. The cover swayed. Nothing answered. They returned to blue on their own.
 
 At 12:07, the wolf lay down facing the vestibule. Their tail curved along one hind leg. They did not chase it.
 
@@ -330,7 +286,7 @@ I opened the inner gate and retreated to the outer one. They got to their feet, 
 
 "Water," they said.
 
-I gave them my bottle. They drank half, sat on the outer threshold, and looked through the gate at the covered mirror. The live-feed light had shifted from green to blinking amber. Seven minutes until deletion.
+I gave them my bottle. They drank half, sat on the outer threshold, and looked through the gate at the covered mirror. The live-feed light had gone from steady green to a slow blink. Seven minutes until deletion.
 
 "Tell me," they said.
 
@@ -338,7 +294,7 @@ I gave them my bottle. They drank half, sat on the outer threshold, and looked t
 
 "You're arranging the facts."
 
-"I am giving them in order."
+"I'm giving them in order."
 
 "You're delaying."
 
@@ -348,19 +304,11 @@ They closed their eyes.
 
 "For one hour and fifty-eight minutes," I said.
 
-"Two hours."
+"Two hours." They didn't open their eyes. After a while they tipped their head toward the gate. "Why's the mirror covered?"
 
-"Approximately."
+"You walked in front of it and barked at it. There was one paw impact. You checked angle, distance, and scent. I requested the cover. You cleared the track. I lowered it."
 
-"Please don't rescue my dignity with arithmetic."
-
-"You told me to be accurate."
-
-"I have changed my mind about accuracy. What happened to the mirror?"
-
-"You barked at it. There was one paw impact. You checked angle, distance, and scent. I requested the cover. You cleared the track. I lowered it."
-
-They opened their eyes and looked at me then, not grateful, not wounded. Checking.
+They opened their eyes and studied my face the way they had before moonrise.
 
 "You waited?"
 
@@ -384,20 +332,14 @@ I thought about lying. They waited.
 
 "Delete it."
 
-I passed them the small control from the wall. They pressed the recessed key themselves. The amber light went out.
+I passed them the small control from the wall. They pressed the recessed key themselves. The blinking stopped.
 
-We sat in the new quiet. Their knee leaned against mine, whether from fatigue or choice I did not ask. Beyond the inner gate, the basin waited six inches left of where I had drawn it, beside a fan of wet pawprints.
+We sat in the new quiet. Their knee leaned against mine, whether from fatigue or choice I did not ask. Beyond the inner gate, the basin waited six inches left of where I had first drawn it, beside a fan of wet pawprints.
 
-"Next month," I said, "we could revise the mirror condition."
+"Next month," I said, "what do you want to do about the mirror?"
 
 "Cover it before moonrise."
 
-"Without amber?"
-
-"Without a committee."
-
 I nodded.
 
-They rested their head briefly against my shoulder, then pushed the empty bottle into my hands. "And leave the water where I put it."
-
-I left it there.
+They rested their head briefly against my shoulder, then pushed the empty bottle into my hands.

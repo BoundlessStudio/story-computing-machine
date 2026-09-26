@@ -16,7 +16,7 @@ The driver got three hundred for a delivery. This was fifteen hundred, the same 
 
 Beyond the office windows the rain was beginning to bounce off the pavement. They had waited eleven dry nights for it. On the twelfth, people hurried under awnings and her father's men came out of the garages.
 
-Viveca had tried to take a guard's keys two weeks ago. He'd needed stitches. Renwick had called a driver, then cancelled him when the weather cleared. Mabry had continued carrying her meals upstairs. She hadn't told her.
+Viveca had tried to take a guard's keys two weeks ago. He'd needed stitches. Renwick had called a driver, then cancelled him when the weather cleared. Mabry had gone on carrying the meals upstairs. She hadn't told Viveca about the driver.
 
 "Will she need a coat?"
 
@@ -78,9 +78,9 @@ Mabry looked at the knife.
 
 "Don't kill him."
 
-"I want an answer."
+"He's going to answer me."
 
-It wasn't a promise. Mabry knew that, and still went downstairs with her.
+Mabry went downstairs with her.
 
 ***
 
@@ -88,7 +88,7 @@ When the switch clicked, red filled the puddles outside.
 
 **STORM WARNING.**
 
-A shopkeeper across the street let his shutter fall with customers still inside. A man sheltering under the office awning stepped into the rain rather than stand beside Viveca. Cars hissed past, their occupants hidden by umbrellas pressed against the windows. In a downpour you couldn't tell whether someone bent over a car door was helping a drunk or forcing a head down. Mabry had heard her father explain this to a new driver. She had been ordering lunch for them.
+A shopkeeper across the street let his shutter fall with customers still inside. A man sheltering under the office awning stepped into the rain rather than stand beside Viveca. Cars hissed past. In the back of one, a man held an open umbrella flat against the side window so that nothing behind it could be seen. In a downpour you couldn't tell whether someone bent over a car door was helping a drunk or forcing a head down. Mabry had heard her father explain this to a new driver. She had been ordering lunch for them.
 
 The hired driver saw Viveca and stopped halfway round his bonnet. She held out her empty hand.
 
@@ -100,27 +100,27 @@ He looked past her at Mabry, then up at the sign.
 
 "Then he can come back and turn them off," Viveca said.
 
-The driver dropped his keys on the bonnet and backed away. The next car through the junction slowed when its driver saw Viveca beneath the sign. Its rear window was open an inch. Someone inside was crying. Viveca left the keys where they lay.
+The hired driver dropped his keys on the bonnet and backed away. A second car came through the junction and slowed when the man at its wheel saw Viveca beneath the sign. Its rear window was open an inch. Someone inside was crying. Viveca left the keys where they lay. With someone in the back, the second car was going to the holding house anyway, and nobody there would stop it at the door.
 
-Viveca bent to the driver. "Holding house. Now."
+She bent to the returns driver's window. "Holding house. Now."
 
-"I saw. I'm going." The driver looked at Mabry and the office keys still in her hand. "He's let you out, then."
+"I saw. I'm going." He looked at Mabry and the office keys still in her hand, then back at Viveca. "He's let you out, then."
 
-"We're coming with you."
+"We're coming with you," Mabry said.
 
 He opened the locks. Viveca took the front seat, laying the knife across her knees. Mabry climbed in beside a woman whose wrists were tied together beneath an open raincoat. She was perhaps forty. One of her shoes had come off, and she kept trying to cover her bare foot with the other.
 
-"I already went back," the woman said when she saw Viveca. "I did what you said."
+"I went back to him last time," the woman said when she saw Viveca. "I did what you said."
 
 Viveca turned. Rain ran from the ends of her hair onto the seat.
 
 "Keep your voice down."
 
-Mabry reached for the woman's hands. She pulled them away.
+Mabry reached for the woman's hands as the car pulled out. The woman pulled them away.
 
 "I'm trying to untie you."
 
-"Not in the car," the driver said.
+The returns driver slowed. "Not in the car."
 
 "Keep driving," Viveca told him.
 
@@ -130,13 +130,13 @@ Mabry worked a fingernail into the wet knot. Through the windscreen she saw anot
 
 "Why are they bringing everyone in?" Mabry asked.
 
-The driver glanced into the mirror. "For her to inspect. That's what she had the sign put up for."
+The returns driver glanced into the mirror. "For her to inspect. That's what she had the sign put up for."
 
 Viveca watched the road.
 
 "You made me call his men in," Mabry said.
 
-"I want them there when he answers me. He won't tell me his driver acted on his own. Not in front of the driver."
+"Let them hear him answer me. They used to take my orders."
 
 The knot was too tight. Mabry's nails were splitting. Her father had never used Viveca's name on the accounts she'd copied. He called her the upstairs problem. Viveca had told her she'd worked for him before Arvid's death, that she'd hurt people trying to find him. Mabry had not asked which people.
 
@@ -146,7 +146,7 @@ The knot was too tight. Mabry's nails were splitting. Her father had never used 
 
 The woman beside Mabry began to rock against the door.
 
-"You said I could have a week," she said. "Last time. You said a week."
+"You said I could have a week," she said. "Last time. A week before I went back. You said a week."
 
 "Your week isn't my concern tonight."
 
@@ -162,7 +162,7 @@ They passed a cheap hotel with a dead strip of blue light over its entrance. Viv
 
 "Hiding?"
 
-"Waiting. Your father sold him a way out of the city. Then he sold me the address."
+"Waiting. Your father sold him a way out of the city. Then he sold me the address. The room was empty when I got there."
 
 Mabry remembered the suitcase in Viveca's cupboard. Inside had been a man's yellow shirt, shaving things, slippers. Nothing of hers. She had assumed Renwick's men had packed it after his death, but there had been a train timetable folded into the shirt.
 
@@ -178,7 +178,7 @@ At the holding house, she would get this woman out. She could think that far.
 
 ***
 
-Renwick waited in the front parlour of the old boardinghouse. Mabry knew the flowered carpet from delivering wages. The rooms upstairs were kept off her accounts; her father paid those expenses himself.
+Renwick waited in the front parlour of the old boardinghouse. Mabry knew the house from delivering wages: a narrow hall from the front door to the foot of the stairs, the parlour opening off it through a wide doorway on the left, the old dining room opposite, and the same flowered carpet running through all of it. The rooms upstairs were kept off her accounts; her father paid those expenses himself.
 
 Drivers were bringing people into the former dining room across the hall. Viveca told them to wait outside. One looked to Renwick, who nodded. The woman from the car clung to Mabry's sleeve until a driver pushed her through the dining-room door. He shut it and slid a bolt home.
 
@@ -208,27 +208,27 @@ Viveca let go of Renwick. For a moment she bent forward with both hands on her k
 
 "You took his ring," she said.
 
-Renwick was wrapping his hand in a tablecloth. "Yes."
+Renwick was winding a tablecloth round his forearm. "I brought it to you myself. You'll remember that. I didn't send a boy."
 
 "The certificate."
 
 "I paid for it."
 
-She made a sound Mabry had never heard through the hatch. It rose until Arvid put his free hand over his mouth.
+She made a sound Mabry had never heard through the hatch. It rose until she saw Arvid, on the landing, put his free hand over his own mouth. Then she stopped.
 
-Renwick sent the guard down with him. "Take those off. Give them to me. Then go outside with the others."
+Renwick sent the guard down with him. "Take those off him and give them here. Then you can wait outside with the others. Thank you."
 
 The guard unlocked the cuffs. Arvid rubbed his wrist but remained on the bottom step. Renwick put the cuffs in his pocket.
 
 "He's been here all this time?" Mabry asked.
 
-Her father looked at her. "I needed something she'd listen to."
+Her father looked at her. "He's been fed. He's had a bed, and I had a doctor look at his chest in March. Nobody's been unkind to him. I needed something she'd listen to, that's all."
 
 "You were going to kill her tonight."
 
-"And until that was done, I needed him here."
+"Afterwards he could have gone wherever he liked. I'd have bought his ticket myself."
 
-Viveca approached her husband slowly. "They told me you were burned. That there wasn't anything to see. I kept thinking you must have been calling for me."
+Viveca went slowly out into the hall toward her husband. "They told me you were burned. That there wasn't anything to see. I kept thinking you must have been calling for me."
 
 Arvid looked at Renwick. "You said she was dead."
 
@@ -244,9 +244,9 @@ Mabry opened the front door. Wind forced rain across the tiles. Beyond the steps
 
 Viveca was smoothing the front of Arvid's shirt. He held himself very still.
 
-"Tell them," she said to Renwick. "I want him to see nobody's keeping him here."
+"Tell them," she said to Renwick. "So he can see nobody's keeping him here."
 
-Renwick went to the window and signalled. Two cars drove away. The guard joined the remaining driver, who moved his car round the corner, out of view. Mabry waited until she heard its engine stop. They could get Arvid out the other way, if they were quick.
+Renwick went to the parlour window and signalled. Viveca brought Arvid in to watch. Two cars drove away. The guard joined the remaining driver, who moved his car round the corner, out of view. Mabry waited until she heard its engine stop. They could get Arvid out the other way, if they were quick.
 
 Viveca's hand settled at the back of Arvid's neck.
 
@@ -264,9 +264,9 @@ Viveca turned toward her. "He doesn't have a coat."
 
 "He can have mine."
 
-Mabry took it off. The ticket fell from its pocket. Her father bent for it, then winced and left it on the floor.
+Mabry took it off and carried it into the parlour. The ticket fell from its pocket. Her father bent for it, then winced and left it on the floor.
 
-Arvid accepted the coat. As he pushed his arms into the sleeves, Viveca went to the doorway between him and Mabry.
+Arvid accepted the coat, and Mabry went back to the front door. As he pushed his arms into the sleeves, Viveca went to the parlour doorway, between him and Mabry.
 
 "I waited eighteen months," she said. "I thought you were in the ground."
 
@@ -278,7 +278,7 @@ He worked at the top button of Mabry's coat. His fingers wouldn't manage it.
 
 "I said I wanted to leave you."
 
-Viveca looked toward Renwick, but her husband kept talking.
+Viveca didn't answer, and her husband kept talking.
 
 "Before any of this. At the kitchen table. I told you."
 
@@ -286,9 +286,9 @@ Viveca looked toward Renwick, but her husband kept talking.
 
 "I bought a ticket. I packed my things."
 
-Mabry opened the door again. The porch was empty. No one moved to stop her. Beside her, on the dining-room door, the bolt lay within reach.
+Mabry opened the door again. The porch was empty. No one moved to stop her. Across the hall, the bolt on the dining-room door was two steps away.
 
-Arvid looked at the gap between his wife and the wall.
+Arvid looked at the gap between his wife and the doorframe.
 
 "Will you move, please?"
 
@@ -304,7 +304,7 @@ He rubbed his newly freed wrist. "That's what I want."
 
 Viveca stood still long enough for Mabry to hear a car door slam round the corner. Arvid took another step toward the street. Mabry went with him.
 
-Viveca walked past them and pushed the front door shut.
+Viveca came up behind them and pushed the front door shut over Mabry's shoulder.
 
 Mabry reached for the latch. The blade struck her forearm. At first it seemed like a hard slap. Then her sleeve opened and blood ran over her hand.
 
@@ -340,7 +340,7 @@ The woman went. Three others followed, knocking against one another in the narro
 
 "Come away from there."
 
-She hit him in the cut arm. He let go with a shout. For once she hadn't waited to find out how badly she'd hurt him.
+She hit him in the cut arm. He let go with a shout. For once she didn't look to see how badly he was hurt.
 
 The last prisoner was an old man with his ankles tied together. Mabry knelt, pulling at the wet cord. He kept saying sorry for making her wait. She could hear her father behind her, breathing through his teeth.
 

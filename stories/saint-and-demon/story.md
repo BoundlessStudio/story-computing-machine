@@ -18,11 +18,11 @@ He looked over one shoulder. His horns swept back close to his skull, black agai
 
 "My mistake. I thought you admired consistency."
 
-"I admire breakfast. Give me the pear."
+She held out her hand. "Pear."
 
 He tossed it. She caught the strip of dried fruit one-handed, chewed twice, and spat out a grain of salt. Under her coat, the ash-silver knife knocked against her spine. The binding around her ribs tightened with every mile toward the fissure, a wire pulled through flesh by the approaching dawn.
 
-Iverax watched her swallow. He had been watching her all night: her breathing, her limp, the hand she kept away from the knife. Heat showed faintly through the seams of his chest, not light exactly, but a red suggestion beneath brown skin. The worldfire inside him knew morning was close.
+Iverax watched her swallow. He had been looking back at her all night: her breathing, her limp, the hand she kept away from the knife. Heat showed faintly through the seams of his chest, a red suggestion beneath brown skin. The worldfire inside him knew morning was close.
 
 "How long?" he asked.
 
@@ -32,23 +32,23 @@ Iverax watched her swallow. He had been watching her all night: her breathing, h
 
 "Then stop asking questions you hate the answers to."
 
-He smiled. It was the smile that had once made her put a dagger to his throat and, much later, made her drag him naked across a rented room by his belt. Too much tooth. No apology in it.
+He smiled. It was the smile that had once made her put a sword to his throat and, much later, made her drag him across a rented room by his belt, which was all he had on. Too much tooth. No apology in it.
 
 "We could turn around," he said.
 
 "No."
 
-"There is an inn six days north. The owner cheats at cards and puts rosemary in everything. You threatened to break his fingers."
+"There is an inn six days north. The owner cheats at cards and puts rosemary in everything. You threatened his knees."
 
 "He pinched my ass."
 
-"I broke his fingers. You threatened his knees."
+"So I broke his fingers."
 
 "Fond memories."
 
 "We could make more."
 
-The words were light; the space after them was not. Sennara looked past him to the center of the basin, where a hairline blackness divided the salt. At black dawn that fissure would open. She would put ash-silver through Iverax's heart at the one instant his death could pour the worldfire harmlessly into the deep earth. The binding would follow it out of her, taking her blood, her breath, and whatever the priests had mistaken for a soul.
+Sennara looked past him to the center of the basin, where a hairline blackness divided the salt. At black dawn that fissure would open. She would put ash-silver through Iverax's heart at the one instant his death could pour the worldfire harmlessly into the deep earth. The binding would follow it out of her, taking her blood, her breath, and whatever the priests had mistaken for a soul.
 
 Kill him sooner, and the fire would escape without direction. Fail to kill him at dawn, and it would consume him from within and cross the world looking for fuel.
 
@@ -66,17 +66,17 @@ Iverax, already a century old, smelled of rain, blood, and the orange he had bee
 
 "Sennara," he said around a mouthful. "Your portraits are unfairly grim."
 
-"Your wanted notices leave out the horns."
+"Put the orange down."
 
-"Artists struggle with majesty."
+He finished chewing first.
 
-She had expected pleading or violence. The stupid flirtation delayed her by half a heartbeat, long enough for her sword to warm in her grip. Not from his skin. From something behind it, vast and waking.
+She had expected pleading or violence. The stupid flirtation delayed her by half a heartbeat, long enough for her sword to warm in her grip, the heat rising from something behind his skin, vast and waking.
 
 "If you kill me now," he said, and for the first time there was no smile, "you kill everyone between here and the eastern sea."
 
 She pressed the blade until blood welled. "Convenient."
 
-"Do it, then. We can be wrong together for a very short time."
+"Do it, then." He tipped his chin up to give her the angle.
 
 That was how her own hunters found them: saint and demon glaring at each other, neither willing to make the first fatal mistake. Her brothers loosed their crossbows without listening. Sennara knocked the first bolt aside. The second hit her high in the back, punched through her mail, and opened its silver hooks inside her shoulder.
 
@@ -88,13 +88,11 @@ Iverax could have fled. Instead he burned the crossbow strings out of the hunter
 
 "The hooks turn when you pull."
 
-"I know what a barb is."
+"Then tell me what to do. Quickly, saint, if you'd be so kind."
 
-"You don't know this one."
+"Cut first. Along the—" Her breath went. "Along the shaft."
 
-"Then explain it, you infuriating woman."
-
-The cellar door jumped in its frame. Dust sifted over his hair. She told him where to cut, when to twist, when to stop. His hands shook only once, when the barb scraped bone. Hers shook constantly. She bit down on the leather belt he gave her and screamed anyway.
+The cellar door jumped in its frame. Dust sifted over his hair. She told him the rest in pieces: where to cut, when to twist, when to stop. His hands shook only once, when the barb scraped bone. Hers shook constantly. She bit down on the leather belt he gave her and screamed anyway.
 
 When it was out, he held the bloody device between two claws.
 
@@ -108,9 +106,9 @@ When it was out, he held the bloody device between two claws.
 
 She took the bolt from him and broke it against the floor.
 
-Something in his face changed then. Not forgiveness. They had done nothing yet that could be forgiven. It was recognition, mean and reluctant: she could reject her own kind; he could stay when flight was sensible. The old words, saint and demon, had failed to finish either of them.
+Something in his face changed then. He looked at the two halves of the bolt for a long time before he looked at her.
 
-It was not love. It was barely a truce. But when he helped her stand, his arm around her waist felt less like capture than the first dangerous answer to a question she had not meant to ask.
+When he helped her stand, she let his arm stay around her waist.
 
 * * *
 
@@ -124,19 +122,11 @@ The wind rose across the Crucible and drove salt against Sennara's mouth. Iverax
 
 "Bleeding."
 
-She glanced down. Red had soaked through the split seam at her heel. "It'll last."
+She glanced down. Red had soaked through the split seam at her heel. She knocked the boot against the rock. "Boot'll last."
 
-"I wasn't asking about the fucking boot. Sit."
+"I don't care about the fucking boot. Sit."
 
-She sat because he was right, which remained one of the least attractive things about him. Iverax crouched and lifted her foot onto his thigh. His palms were fever-hot. He unlaced the boot with the concentration of a man defusing a bomb, then swore at the raw crescent in her skin.
-
-"Your bedside manner has deteriorated," she said.
-
-"My last patient stabbed me afterward."
-
-"You liked it."
-
-"Not where you put it."
+She sat because he was right, which remained one of the least attractive things about him. Iverax crouched and lifted her foot onto his thigh. His palms were fever-hot. He unlaced the boot with the concentration of a man setting a bone, then swore at the raw crescent in her skin. She hissed when the sock came away with it.
 
 He tore a strip from his shirt and wrapped her heel. The cloth smelled like him: cedar smoke, sweat, and the bitter soap he claimed not to use. His thumb rested a moment against the inside of her ankle. Sennara could feel his pulse there, too quick.
 
@@ -152,13 +142,13 @@ He looked at her fingers around him, not at her face. "We're nearer the fissure.
 
 "Isn't it enough?"
 
-It was not an answer. The binding under her ribs drew tight enough to make her vision spark. She released him before her grip became a plea.
+The binding under her ribs drew tight enough to make her vision spark. She released him before her grip became a plea.
 
 He finished the knot, too carefully. "There. You may now march to our deaths without an undignified limp."
 
-"I can limp with dignity."
+She flexed her toes against his thigh and said nothing.
 
-"You do nothing with dignity. It's one of your better qualities."
+"Not that you've ever done anything with dignity. It's one of your better qualities."
 
 He kissed the scar above her ankle. An absurdly courtly gesture from a half-naked demon kneeling in salt. She put her hand between his horns and held him there until his breath caught.
 
@@ -176,7 +166,7 @@ They drank the stablemaster's plum liquor while Sennara stitched him. He insulte
 
 "Your pupils disagree."
 
-"My pupils have poor judgment."
+She pulled the next stitch tight enough to make him hiss.
 
 He leaned back against the stall, hands open at his sides. For once he did not spend a joke to escape the silence. Rain ran through the broken roof and ticked against a bucket. Sennara could hear the horses shifting in the next stall and her own heart behaving like an idiot.
 
@@ -190,13 +180,9 @@ His expression went briefly blank. "Are you sure?"
 
 "Ask me what you want."
 
-The wanting reached his face before the words did. "I want your mouth. Your hands. I want you to stop looking at me as if wanting is a tactical failure. And if any of that isn't yours tonight, tell me now."
+The wanting reached his face before the words did. "I want your mouth. Your hands. I want you to stop looking at me as if wanting is a tactical failure. Will you let me?"
 
-She set the needle down. "All of it is mine. Tonight, I want to give it to you."
-
-He still waited.
-
-"Yes," she said. "Come here."
+She set the needle down. "Yes," she said. "Come here."
 
 His first kiss was almost careful. She laughed into it, and caution did not survive. They knocked over the bucket, frightened both horses, and discovered that cracked ribs made certain ambitions impossible and others merely inventive. When he asked again, breathless against her throat, she said yes again. After that there was only rain, heat, the rough blanket beneath her palms, and the startling tenderness of being desired by someone who knew exactly what she had been sent to do.
 
@@ -270,17 +256,11 @@ For six days afterward she shook with fever. He slept on the floor beside her an
 
 "Answer the question."
 
-He hurled a cup into the hearth. It shattered, and the pieces glowed. "I don't give a shit about the question."
+He hurled a cup into the hearth. It shattered, and the pieces glowed. "I don't give a shit about the question. You were under. I cut the rope and I had you by the coat and you were still under, I couldn't find your face. Then six days of that cough. Six days. And you want to tell me how old they were."
 
-"That's the problem."
+"They were drowning."
 
-"No. The problem is that you'll spend yourself on anyone who asks and call it virtue when there's nothing left for me."
-
-"They didn't ask. They were drowning."
-
-"And you weren't?"
-
-He left before she could answer. By summer, the hunters had found the garden. They ran with one pack between them and never went back for the onions.
+He stared at her. Then he went out and did not come back until dark. By summer, the hunters had found the garden. They ran with one pack between them and never went back for the onions.
 
 Now, in the shelter, Sennara crossed the knife on the floor and wrapped her arms around Iverax from behind. His body was almost too hot to touch.
 
@@ -300,7 +280,7 @@ He turned. She kissed him before either could make another argument. His mouth t
 
 "And it isn't permission to save me."
 
-His jaw tightened. "Understood."
+His thumbs moved once over her hipbones. "Understood."
 
 They undressed each other without hurry. There was nothing new to discover, only known scars, favorite places, the small private humiliations of two bodies that had slept, bled, sweated, and wanted together. He knelt to unlace her ruined boot. She bent to kiss the pale notch where her sword had once touched his throat. When he carried her to the least broken stretch of floor, she locked her legs around him and held his face between her hands.
 
@@ -308,15 +288,13 @@ They undressed each other without hurry. There was nothing new to discover, only
 
 He did.
 
-Afterward, her coat covered them both. The knife lay beyond her reach. Iverax traced the binding's silver ridges under her breasts, his touch so gentle it made her want to strike him.
+Afterward, her coat covered them both. The knife lay beyond her reach. Iverax traced the binding's silver ridges under her breasts, each one to its end, the way he had once found the hooks of the bolt in her shoulder. His touch was so gentle it made her want to strike him.
 
 "Swear," she said once more.
 
 He closed his eyes.
 
-The binding cinched under Sennara's ribs. She waited until her hands stopped shaking, then fastened the knife against her back.
-
-Sennara got up and dressed. Iverax did not try to touch her again.
+The binding cinched under Sennara's ribs. She waited until her hands stopped shaking. Then she got up and dressed, picked up the knife, and fastened it against her back beneath the coat. Iverax did not try to touch her again.
 
 * * *
 
@@ -326,7 +304,7 @@ The stars went out one by one as Sennara and Iverax reached the fissure. Darknes
 
 She drew the knife.
 
-Iverax stood on the other side of the fissure. His shirt hung open. The red beneath his skin had spread from his chest to his throat and down both arms.
+Iverax stepped over the crack and turned to face her from the other side. His shirt hung open. The red beneath his skin had spread from his chest to his throat and down both arms.
 
 "Too soon," she said.
 
@@ -338,7 +316,7 @@ Iverax stood on the other side of the fissure. His shirt hung open. The red bene
 
 "How long?"
 
-He began talking too quickly. "The inn is still there. We could reach it before the next rain. You could break the owner's knees this time. I could buy you boots that don't bleed. We could find another house. No shutters, if you insist on living without joy."
+He began talking too quickly. "The inn is still there. Six days. You could break the owner's knees this time. I'll buy you boots that don't bleed. We'll find another house and you can choose the shutters and—"
 
 The fissure opened another finger's width. Heat rolled off him hard enough to sear her lips.
 
@@ -350,13 +328,11 @@ The fissure opened another finger's width. Heat rolled off him hard enough to se
 
 "Come here."
 
-Not an argument. Not absolution. His hand reached across the black crack between them, palm up, shaking so badly the claws clicked.
+His hand reached across the black crack between them, palm up, shaking so badly the claws clicked.
 
 She wanted to take it. Her body had already leaned toward him before she understood.
 
-Iverax smiled then, terrible and frightened. His gaze dropped to the knife in her hand. He saw her grip tighten, and he did not close his hand.
-
-Then he opened himself to the fire.
+Iverax smiled then, terrible and frightened. His gaze dropped to the knife in her hand. He saw her grip tighten, and he drew his empty hand back across the crack. Then he opened himself to the fire.
 
 It hit the world with the sound of a door kicked in.
 
@@ -364,21 +340,13 @@ White flame raced out from his feet. The first surge crossed the Crucible before
 
 The binding around Sennara's chest caught. Silver fire ripped through every line. She smelled her own skin, heard herself scream, and felt the sacred wire come free.
 
-Iverax had done it. He had burned the death out of her.
+Iverax had done it. He had burned the death out of her. The worldfire gathered behind him for its second surge.
 
-The worldfire gathered behind him for its second surge.
+Sennara crossed the fissure. He could have stopped her. His hands were fire now. His body had become the hinge of something enormous. But when she came at him, he lowered his arms.
 
-Sennara crossed the fissure.
+She drove the knife up beneath his ribs. The blade struck his heart. Heat split her palms. His weight folded against her, mouth open at her temple, no cleverness left in him. For one instant he clutched the back of her coat with ordinary human panic.
 
-He could have stopped her. His hands were fire now. His body had become the hinge of something enormous. But when she came at him, he lowered his arms.
-
-She drove the knife up beneath his ribs.
-
-The blade struck his heart. Heat split her palms. His weight folded against her, mouth open at her temple, no cleverness left in him. For one instant he clutched the back of her coat with ordinary human panic.
-
-"Sen," he said.
-
-She pushed the blade deeper.
+"Sen," he said. She pushed the blade deeper.
 
 The fire went out.
 
@@ -394,15 +362,13 @@ Sennara woke after sunrise with her face against cooling glass.
 
 Smoke had covered the sky. People moved through it on the basin's western rim: burned farmers, soldiers with torn banners, children blackened by soot. Some carried water. Some carried bodies. A woman called the same name until her voice failed, then kept shaping it with her mouth.
 
-The worldfire had taken a valley and the western edge of the Crucible. Beyond that, the fields still stood. Their stubble shone wetly under the ash. Thousands of roofs held. Millions of people had woken to an ordinary morning, cursed the smoke, fed their animals, touched the warm backs of the people beside them.
+The worldfire had taken a valley and the western edge of the Crucible. Beyond that, the fields still stood, their stubble shining wetly under the ash, and past the fields more roofs than she could count held whole. Under them, people would be waking to the smoke, cursing it, feeding their animals, touching the warm backs of the people beside them.
 
-Iverax lay where she had left him. The demon who had loved her more than all of them was cold.
+Iverax lay an arm's length away on the glass, where they had fallen together. He was cold.
 
 Sennara crawled to him first. She closed his eyes. She wanted to say something filthy enough to make him laugh, but every word belonged to a world in which he could hear it. She pressed her forehead to the place between his horns until someone nearby began to sob.
 
-Then she stood.
-
-At the rim, a burned man stumbled toward her. She reached without thinking for the heat that had always arrived at her shoulder before danger, before pain, before she admitted she needed help.
+Then she stood and climbed to the rim. A burned man stumbled toward her there. She reached without thinking for the heat that had always arrived at her shoulder before danger, before pain, before she admitted she needed help.
 
 There was only cold air.
 

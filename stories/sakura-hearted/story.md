@@ -110,13 +110,13 @@ I crouched to look through a grille. Inside, everything was clean brass and neat
 
 I pointed to them. “Were these the rings on your bench?”
 
-She followed my finger. “The gun? Yes. The old emitter wouldn't fit. It wasted most of its energy keeping the field steady, so I made it send a sequence of smaller pulses instead. The receivers smooth them out.”
+She followed my finger. “Yes. They make the beam now. The old emitter was the size of a toaster.”
 
 She turned the pink body in her palm. A charge needle rested just short of full.
 
 “How much can it lift?”
 
-“Three kilos on one disc. Less if I want it moving for long. It reaches about as far as our kitchen.”
+“Three kilos on one disc. It reaches about as far as our kitchen.”
 
 I put a hand on the ride's nose. “So this is beyond it.”
 
@@ -216,7 +216,7 @@ Her smile spread slowly. “As often as you like.”
 
 ***
 
-We climbed out to fetch more coins and look at what we'd missed. Celestine used the raygun to turn the nearest globe. It was a small planet whose surface had been divided into eight irregular colored regions. Beside a silver lake stood a green tent, scarcely taller than my thumbnail.
+We climbed out to fetch more coins and look at what we'd missed. Celestine used the raygun to turn the nearest globe. It was a small planet whose surface had been divided into eight irregular coloured regions. Beside a silver lake stood a green tent, scarcely taller than my thumbnail.
 
 I bent closer.
 
@@ -234,7 +234,7 @@ I wanted to touch it, but my fingertip was nearly as large as the whole campsite
 
 On our second anniversary we'd gone camping in a valley advertised as sheltered. The wind had flattened the tent before we'd finished arguing amiably about which way its door should face. We had eaten hot peaches from that pan beneath a rock ledge while our socks dried on our knees. Celestine had fallen asleep with her head in my lap. I remembered being unwilling to move even when my foot went numb.
 
-She had painted the lake the color it had been after the rain. That was what undid me: the green just beneath the silver.
+She had painted the lake the colour it had been after the rain. That was what undid me: the green just beneath the silver.
 
 I bent to kiss the top of her head. Then I kissed her temple, and she set the planet hovering so she could turn toward me.
 
@@ -272,27 +272,21 @@ She grew pink when I said so.
 
 “I bought some for tonight.”
 
-She took my hand and led me around the nose of the ride to the kitchen. The ringed planet blocked the cupboard where we kept the glasses. She considered it, then put the raygun down and moved it by hand.
+She took my hand and led me around the nose of the ride to the kitchen. The ringed planet still sat on the counter where she had left it, squarely in front of the cupboard where we kept the glasses. While she considered the planet, I fetched a bottle from the fridge.
 
-“There's a button for all of them to return to their stands,” she said. “But then you'd see the rest.”
+“We could drink straight from this,” I said.
 
-“We could drink straight from the bottle.”
+She laughed, put the raygun down, and lifted the planet aside with both hands, holding it by the body so the rings wouldn't bend.
 
-She glanced at me over her shoulder. “You may. I'd like a glass.”
+We found two glasses, poured something cold and sparkling, and stood close enough that I had to raise my elbow for her to open a drawer. She found a pair of scissors and trimmed the flowers. I filled their vase, and she stood them in it one at a time. When I went to pick it up, she put her hand over mine.
 
-We found two, poured something cold and sparkling, and stood close enough that I had to raise my elbow for her to open a drawer. She found a pair of scissors and trimmed the flowers. I filled their vase.
+“Leave it a moment.”
 
-“May I put these in?” she asked.
-
-“In the ride?”
-
-“In the sky.”
-
-She took a spare receiver disc from beside the sink and clipped it beneath the vase. When she squeezed the trigger, the vase rose from the counter, water trembling against the glass. The flowers followed her wrist across the room. She set their path above the little table beside the orange chair, well away from our turning seats.
+She took a spare receiver disc from beside the sink and clipped it beneath the vase. When she picked up the raygun and squeezed the trigger, the vase rose from the counter, water trembling against the glass. The flowers followed her wrist across the room. She set their path above the little table beside the orange chair, well away from our turning seats.
 
 “Will they stay up?”
 
-“For twenty minutes. Then the disc will lower them. There needs to be something beneath it.”
+“For twenty minutes. Then the disc brings them down, so they need something to land on.”
 
 She moved a book off the table to leave room for the vase.
 
@@ -342,7 +336,7 @@ When the ride stopped, Celestine stayed close, her hand now resting on my chest.
 
 “A planet in the face?”
 
-“No.” She rubbed her cheek against mine. “A kiss. Before we got out.”
+“No.” She rubbed her cheek against mine. “A kiss. Ten years ago, before we got out.”
 
 “You kissed me at the tram stop.”
 
@@ -364,7 +358,7 @@ She looked down at our knees pressed together and began laughing again. I rememb
 
 “And then you asked me out again.”
 
-“You were already saying goodnight. I was afraid you'd go home and think I hadn't enjoyed it.”
+“You were already saying goodnight. I thought you might take a week to ask.”
 
 I remembered that too: her holding the tram door with one elbow to ask whether I was free the next evening, and my nodding from the platform because, after several hours of unnecessary talking, I had briefly lost the ability.
 
@@ -394,4 +388,4 @@ She tucked herself against me, carefully at first, shifting until her shoulder f
 
 I dropped the coin into the slot. The bell sounded; the nose lifted. She rested her head on my shoulder, and I bent mine to touch her hair.
 
-The blue planet passed. So did the little kitchen, and the campsite with its upside-down boots. She shifted her hand into mine and settled still closer as the ride turned us toward the window. The paper moon came into view, softly lit, travelling across the dark glass. I saw the beginning of something painted on its face, and then Celestine raised her mouth to mine.
+The blue planet passed. So did the little kitchen, and the campsite with its upside-down boots. She settled still closer as the ride turned us toward the window. The paper moon came into view, softly lit, travelling across the dark glass. I saw the beginning of something painted on its face, and then Celestine raised her mouth to mine.

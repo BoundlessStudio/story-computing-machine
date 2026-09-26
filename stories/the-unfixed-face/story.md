@@ -20,7 +20,7 @@ The lock answered with a green seam. Erisel pushed inside and caught the door be
 
 "I didn't forget. I declined."
 
-Korrin came through the beaded curtain wearing their father's last face.
+Korrin came through the beaded curtain wearing their father's face.
 
 It was not an exact restoration. Lucian had been seventy-three when the lung fever took him, and the mourning preset had been stored years earlier: square cheeks, dense silver brows, the shallow cleft in his chin. Korrin had kept her own height. The shoulders beneath her work apron were hers, as were the quick, planted steps. Then she frowned at the cardboard carrier, and Lucian's left eyebrow climbed before the right.
 
@@ -28,11 +28,11 @@ Erisel nearly dropped the food.
 
 Korrin took the carrier from her. "You changed again."
 
-"Temporary face. The northbound carriage seals badly around narrow sinuses."
+"Temporary face. The northbound carriage runs dry and high-pressure. Narrow sinuses bleed."
 
 "You could have changed your sinuses."
 
-"They came bundled."
+Erisel touched the bridge of the unfamiliar nose. "They came bundled."
 
 "Of course they did."
 
@@ -44,7 +44,7 @@ Erisel hung her coat on the peg marked VISITORS, because the peg marked ERI stil
 
 "You did that without me."
 
-"They expired without you. I pressed the confirmation. There's a difference."
+"They expired without you. I pressed the confirmation."
 
 Korrin set the carrier beside three unopened tins and went back through the curtain. Erisel followed into the revision room.
 
@@ -64,11 +64,7 @@ There were too many amber marks.
 
 "The copy you said you hadn't checked since you moved?"
 
-Erisel picked up the tablet. "We're not retaining client material because my filing is poor."
-
-"I didn't say client material."
-
-"This building is client material."
+Erisel picked up the tablet. "I'll check it tonight. Let this one expire."
 
 Korrin opened her mouth. Lucian's face prepared an argument with a familiar tightening around the eyes, and Erisel turned away before the words arrived.
 
@@ -114,17 +110,13 @@ Korrin brought the cloth. He jerked from its touch, light flaring bright along h
 
 He gave no hand sign. The device showed a spiral, then went blank.
 
-Erisel touched the cloth herself. Tepid. "Could be skin pain, not temperature. Ask before contact."
-
-"I did. He didn't answer."
-
-"You touched while you asked."
+Erisel touched the cloth herself. Tepid. "Could be skin pain. Ask before contact."
 
 Korrin's borrowed brows drew together. She held up the cloth where Mekran could see it and waited.
 
 His fingers opened once. Korrin laid the cloth over the heat-patch on his ribs, slowly enough for him to stop her. His breath eased.
 
-Erisel checked the wrist device. Its local history held a revision receipt from Mirrorglass House and a promised personal return sequence, but the return file itself was absent. Lucian's compact seal sat on the receipt. A mark, nothing more. He had taught them to keep records bounded: what had been ordered, what had been consented to, which body carried the cost. Never a person's habits. Never a simulated voice.
+Erisel checked the wrist device. Its local history held a revision receipt from Mirrorglass House and a promised personal return sequence, but the return file itself was absent. Lucian's compact seal sat on the receipt, a plain stamp. He had taught them to keep records bounded: what had been ordered, what had been consented to, which body carried the cost, and never a person's habits or a simulated voice.
 
 "When did you start the return?" Erisel asked.
 
@@ -146,9 +138,9 @@ Mekran's gaze fixed on her face. He mouthed something without sound.
 
 "Lucian is dead," Korrin said. "I'm his daughter. I handled your settling appointments."
 
-He closed his eyes. Not assent. Not refusal. Only no more looking.
+He closed his eyes and turned his face a little away from hers.
 
-Erisel swallowed the correction she had been about to make. "We'll tell you before each step."
+Erisel did not add that there were two daughters. "We'll tell you before each step."
 
 She drew a thread of active seedglass from the diagnostic spool and set it beneath her lower lids. The change itched for six breaths. The room's ordinary colors thinned, and living revision patterns surfaced as quiet geometries: the dense green scaffolds of the archive, Korrin's mourning preset braided gold beneath her skin, Mekran's failed return stuttering red across muscles and vessels.
 
@@ -174,29 +166,33 @@ One finger opened.
 
 "He says yes."
 
-"He answered the last thing you said, not the choice I gave him." Erisel removed the cell from the reader. "We separate questions from now on."
+"One finger isn't his yes." Erisel removed the cell from the reader. "Give him something to point at."
 
-Korrin's jaw set. She turned her tablet so Mekran could see and placed two glyphs on it: KNOWN and WRONG. He tapped KNOWN. Then he tapped the bench twice and pointed at the next cabinet.
+Korrin turned her tablet so Mekran could see and placed two glyphs on it: KNOWN and WRONG. He tapped KNOWN, then ran a fingertip down the dark membrane folded at his side.
 
-They changed the procedure. One preview. One question. An answer repeated through two available channels whenever possible: device and hand, light and posture, speech and touch. It was slower. Outside, the western windows reddened toward sterilization time.
+"From the glide form," Korrin said. "The one you're wearing."
 
-The cells offered lives no one in the room had lived. Amber irises opened briefly in Korrin's borrowed face. A breathing lattice feathered across Erisel's ribs. Mekran watched his own hand acquire delicate climbing pads, then knocked the reader aside before the preview could climb past his wrist.
+He tapped the bench twice and pointed at the next cabinet.
+
+They changed the procedure: one preview and one question at a time, with each answer repeated through two available channels whenever possible, device and hand, light and posture, speech and touch. It was slower. Outside, the western windows reddened toward sterilization time.
+
+The cells offered lives no one in the room had lived. The reader cast each preview as light onto whoever stood nearest. Amber irises flickered over Korrin's borrowed face. A breathing lattice feathered across Erisel's ribs. Mekran watched climbing pads drawn in light across his own hand, then knocked the reader aside before the image could climb past his wrist.
 
 "Wrong," Korrin said, and cleared it.
 
 Mekran's temple lights pulsed approval.
 
-"Current capacity," Erisel said. "Can you still distinguish those pulses?"
+"Current capacity," Erisel said. "Can you still make those pulses on purpose?"
 
-He held up three fingers, folded one, then frowned at his hand as if it had betrayed him. His index finger had begun webbing to the next.
+He held up three fingers, folded one, then frowned at his hand as if it had betrayed him. His index finger had begun webbing to the next. Erisel could not tell whether the fold was a count or a spasm.
 
-"Light, device, gross pressure," Erisel said. "Fine gesture is unreliable."
+"Light, device, gross pressure," she said. "Fine gesture is unreliable."
 
 "And speech is gone," Korrin added.
 
 Erisel looked at her. "Don't inventory losses over him."
 
-"I'm inventorying the channels we have. Mekran, pressure means you squeeze one of our hands. Once is stop. Twice is yes. Hold means wait. Is that usable?"
+Korrin turned to him. "Mekran, pressure means you squeeze one of our hands. Once is stop. Twice is yes. Hold means wait. Is that usable?"
 
 He reached for Korrin. Twice.
 
@@ -212,29 +208,19 @@ Erisel remembered those words from her own first revision, when she had tried to
 
 Korrin went on. "We know the safe order. Eyes after heat, feet after balance. You did this route here before."
 
-Mekran opened his eyes. He looked at Lucian's face as though the last six years had narrowed to a usable door.
+Mekran looked up at Lucian's face. His hand found Korrin's wrist and rested there.
 
-Then light moved beneath Korrin's temples: the old sister-code, three quick beats and one dragging beat, used since childhood for don't make this worse.
+Erisel had come halfway around the table without deciding to. Korrin did not turn her head, but light moved beneath her temples: the old sister-code, three quick beats and one dragging beat, used since childhood for don't make this worse.
 
-Mekran saw it.
-
-His grip snapped tight around her wrist. Once.
+Mekran saw it. His grip snapped tight around Korrin's wrist. Once.
 
 Stop.
 
-Korrin fell silent.
+Korrin fell silent. He pushed her hand away and pointed at the borrowed face, then at Erisel. The heat-patches on his throat darkened. His device stayed dead.
 
-He pushed her hand away and pointed at the borrowed face. The heat-patches on his throat darkened. His device remained dead; his fine gestures were failing. He could not tell them which part had broken trust, only that something had.
+Erisel held out her hand to him. He squeezed it once, the same stop, and she let the hand fall.
 
-"That was Lucian's script," Erisel said. Too much explanation already, but Mekran needed the fact. "Korrin remembers it. The preset has his voice shape, not him."
-
-Mekran squeezed Erisel's offered hand once.
-
-Stop that too.
-
-So she stopped.
-
-Korrin rose and returned to the cabinets. She did not apologize. She pulled each remaining cell, checked its date against her tablet, and put it back when the mark did not match. Her work grew faster and rougher. Lucian's face did not vanish; bodies could not be revised like masks peeled away. Its borrowed expressions simply went still.
+Korrin rose and returned to the cabinets. She did not apologize. She pulled each remaining cell, checked its date against her tablet, and put it back when the mark did not match. Her work grew faster and rougher. Lucian's face stayed on her, but its borrowed expressions went still.
 
 At the private shelf, Erisel found six family presets and no client file.
 
@@ -252,35 +238,25 @@ Erisel lifted the cell tagged only with Lucian's private cadence. Its gold patte
 
 Korrin looked toward Mekran. "I know."
 
-The words were hers. Flat, late, impossible to soften with anyone else's mouth.
+The words were hers.
 
-"You knew before I arrived?"
+Erisel looked at the gold braid along Korrin's throat. "He's been on that bench since the west cabinets. You told me yourself his last visit was during the leak."
 
-"I knew there were fragments. Not that one was his."
+"I put Dad's face on for the closing." Korrin slid a cell back into its slot without checking its date. "It was his seal. I wasn't breaking it on a guess."
 
-"And you activated the preset anyway."
-
-"I activated Dad's face for the closing. I checked the base anatomy. I didn't open records that weren't mine."
-
-"The carrier index isn't a client record."
-
-"It names a presence. That was enough for me not to look."
-
-Erisel wanted to tell her precisely how many safeguards she had mistaken for sentiment. The explanation assembled itself in clean steps. Then Mekran's hand knocked once against the bench.
+Erisel wanted to tell her precisely how much sentiment she had mistaken for safeguards. Then Mekran's hand knocked once against the bench.
 
 Stop.
 
-They had made him wait through a family quarrel while his breathing changed.
-
 Erisel set the cell in the bounded reader. It showed no anatomy until Mekran pressed his cadence against the bench and Korrin supplied Lucian's private sequence from memory. The two permissions met. A thin branch lit inside the mourning preset, red threaded through gold.
 
-The record contained four glyphs: Mekran's return receipt, a consent seal dated before the roof leak, the carrier transfer, and the consequence of release. No message. No explanation in Lucian's voice.
+The record contained four glyphs and nothing else: Mekran's return receipt, a consent seal dated before the roof leak, the carrier transfer, and the consequence of release. Lucian had left no message in his own voice.
 
 "It's yours," Erisel told Mekran. "Releasing it will remove this preset from Korrin. The return pattern will enter the reader. We can start with heat regulation and breath. Do you consent to release?"
 
 Korrin held out her hand. Mekran squeezed twice.
 
-His temple light gave three pulses, then broke into a white flare.
+His temple light gave three pulses, a pause, and three more.
 
 "Two channels," Erisel said. "Confirmed."
 
@@ -298,19 +274,17 @@ Korrin applied it. The black patches faded to brown. Mekran's breaths came deepe
 
 "Next is vascular release. It may brighten your signal before it stabilizes. Proceed?"
 
-His temples burst bright.
-
-Erisel touched the next glyph.
+His temples burst bright. Erisel touched the next glyph.
 
 Mekran crushed Korrin's hand once.
 
 Stop.
 
-Erisel froze before the seedglass opened the stage. The flare ran wild beneath his cheeks, steady brightness without cadence. Pain, not permission. She had named the possibility and still mistaken light for assent because it arrived when she wanted an answer.
+Erisel froze before the seedglass opened the stage. The flare ran wild beneath his cheeks, steady brightness with no cadence in it at all: pain.
 
 "Stopped," she said. Her own voice had gone thin and technical. "No stage entered."
 
-Mekran kept hold of Korrin's hand. Not squeezing now. Holding: wait.
+Mekran kept hold of Korrin's hand without squeezing, a steady hold: wait.
 
 Korrin's face settled unevenly. One brow remained silver; her cheeks no longer belonged to Lucian, but the throat still carried his deepened resonance. She pressed fingers to it, coughed, and changed the voice setting down until the next words emerged rough and light.
 
@@ -318,7 +292,7 @@ Korrin's face settled unevenly. One brow remained silver; her cheeks no longer b
 
 Mekran looked at her. His grip eased, but he did not release her.
 
-"We need a signal that pain can't imitate," Erisel said. She was over-specifying again; she could hear it and could not stop. "Light is unavailable. Fine gesture is unavailable. One squeeze may occur under spasm. We can use direction. Korrin, place his hand flat. Mekran, press left to stop, right to proceed, neither to wait. We'll state each choice, then you answer, then Korrin repeats the direction aloud. If you can't choose, we hold the stage."
+"We need a signal that pain can't imitate," Erisel said. "Light is unavailable. Fine gesture is unavailable. One squeeze may occur under spasm. We can use direction. Korrin, place his hand flat. Mekran, press left to stop, right to proceed, neither to wait. We'll state each choice, then you answer, then Korrin repeats the direction aloud. If you can't choose, we hold the stage."
 
 Korrin adjusted her palm beneath his. "Left stops. Right goes."
 
@@ -328,33 +302,31 @@ Mekran pressed right.
 
 Erisel opened the vascular stage.
 
-The next four stages took eleven minutes. At each one Erisel named the immediate bodily change, not every consequence she feared. Korrin reported Mekran's pressure without interpretation. When his hand drifted center, they waited. The stalled wing membrane softened from his spine. His pupils contracted enough to follow the reader's glyphs. Balance returned before his feet finished choosing a shape, so Korrin braced his ankles with folded towels instead of asking him to stand.
+The next four stages took eleven minutes. At each one Erisel named only the immediate bodily change. Korrin reported Mekran's pressure without interpretation. When his hand drifted center, they waited. The stalled wing membrane softened from his spine. His pupils contracted enough to follow the reader's glyphs. Balance returned before his feet finished choosing a shape, so Korrin braced his ankles with folded towels instead of asking him to stand.
 
-The last stage did not restore a remembered face. It restored the safe path by which his body could keep deciding later. His jaw shortened a little; the dark membrane along his right arm receded to the elbow and paused. The return pattern found stable breath, ordinary heat, even hearing, and stopped there.
+At the last stage his jaw shortened a little; the dark membrane along his right arm receded to the elbow and paused. The return pattern found stable breath, ordinary heat, even hearing, and stopped there.
 
-Mekran sat forward, exhausted. New capillary light gathered beneath his temple in a slow amber arc.
-
-Korrin waited.
+Mekran sat forward, exhausted. New capillary light gathered beneath his temple in a slow amber arc. Korrin kept her hand under his and waited.
 
 He pressed right against her palm.
 
 "Proceed," she said, though there was nothing left to open.
 
-Erisel disconnected the reader.
+Erisel disconnected the reader. Behind them the house chimed sunset, and every shelf glyph on Korrin's tablet began to blink white, waiting on the family cadences. The cell in the reader still held gold.
 
-Behind them, the house chimed sunset.
-
-Every shelf glyph turned white except the private cell in the reader. Korrin's face had settled into broad dark brows, a high crooked bridge, and a mouth Erisel remembered only from a summer when Korrin had been twenty. The throat resonance continued to shift between breaths. No expression landed where Erisel expected it. Yet Korrin crossed to the archive controls without asking where they were, laid two fingers on the lower confirmation pad, and waited for Erisel at the upper one.
+Korrin's face had settled into broad dark brows, a high crooked bridge, and a mouth Erisel remembered only from a summer when Korrin had been twenty. The throat resonance continued to shift between breaths. No expression landed where Erisel expected it. Yet Korrin crossed to the archive controls in the same quick, planted steps, laid two fingers on the lower confirmation pad, and waited for Erisel at the upper one.
 
 "Your preset too?" Korrin asked.
 
 "The winter lungs stay. Everything else with my permission expires."
 
-"Dad's base?"
+Korrin glanced at the reader. "Dad's base."
 
-Erisel looked once at the emptied gold cell. "It already did what it was holding."
+Erisel looked at the gold cell, then at her sister. "Do you want it?"
 
-They entered their separate cadences. The house sterilized the last unclaimed patterns shelf by shelf, a soft rain of ticks behind the glass.
+Korrin kept her fingers on the pad.
+
+They entered their separate cadences, Erisel a moment after her sister. The house sterilized the unclaimed patterns shelf by shelf, a soft rain of ticks behind the glass, and last of all the cell in the reader went from gold to white.
 
 Mekran's wrist device revived while they packed the diagnostic spool. It drew a cup, a question mark, then an impatient arrow toward the door.
 
@@ -380,7 +352,7 @@ The sisters remained under the awning.
 
 "That room was a train station."
 
-Across the street, a sign brightened, and both of them squinted. Without discussion, they opened the pocket revision kit. Korrin selected low-light retinas; Erisel checked the settling order and applied the same change to herself. A minor revision. Six breaths of itch, a watery blink, then the street emerged in softer detail.
+Along the street the shop lights were going down one by one, and the pavement between them had gone dark. Without discussion, they opened the pocket revision kit. Korrin selected low-light retinas; Erisel checked the settling order and applied the same change to herself. A minor revision. Six breaths of itch, a watery blink, then the street emerged in softer detail.
 
 "The studio," Erisel began.
 

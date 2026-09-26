@@ -10,7 +10,7 @@ canon: false
 
 The healer brought the last case up the mountain six days before the first snow, though I had assured her the snow was three weeks away.
 
-She set it on my bench and kept both hands on the lid. Meltwater darkened the shoulders of her wool coat. Behind her, through the tower’s western slit, clouds had swallowed the high pass where my weather rods stood pointing at a sky they could measure but not persuade.
+She set it on my bench and kept both hands on the lid. Rain had darkened the shoulders of her wool coat. Behind her, through the tower’s western slit, clouds had swallowed the high pass where my weather rods stood pointing at a sky they could measure but not persuade.
 
 “Twenty-eight,” she said. “Sealed separately. The marks match the ledger.”
 
@@ -20,7 +20,7 @@ I reached for the case. She did not release it.
 
 “And you read the permissions back to me.”
 
-The convergence frame occupied most of the room: four rings of silver wire around an empty stone basin, with a place for each vessel along the outer rim. It looked magnificent. It did nothing. The wire could hold a shape I gave it; the stone could keep a working from spilling; the samples in their glass were only samples. Without my hand on the pulse plate, every costly piece was as magical as a spoon.
+The convergence frame occupied most of the room: four rings of silver wire around an empty stone basin, with a place for each vessel along the outer rim. It looked magnificent and could do nothing by itself. The wire could hold a shape I gave it; the stone could keep a working from spilling; the samples in their glass were only samples. Without my hand on the pulse plate, every costly piece was as magical as a spoon.
 
 I tapped the ledger. “They permit comparison, joining in the final pattern, and retention until the thaw.”
 
@@ -32,13 +32,13 @@ I tapped the ledger. “They permit comparison, joining in the final pattern, an
 
 The clouds lowered behind her. I had spent nine years approaching this morning: nine years proving that age was an error of repetition, that a living pattern frayed because it renewed itself alone. Braid enough human continuance together, I believed, and no single failure could end the whole. A rope survived the breaking of a fiber. A river did not die when one spring went dry. My own blood-linked trials had held for minutes, then hours, then one full turning of the moon.
 
-The ledger was not the work. The ledger was what people placed between the work and its completion.
+To me the ledger was something people had placed between the work and its completion.
 
-“Nothing enters a body,” I said. “Nothing treats an illness. No sample outside its permission. I supply and end the working.”
+“Nothing enters a body, and nothing here treats an illness,” I said. “No sample goes past its permission. The working starts with my pulse and stops when I lift my hand.”
 
 Only then did she let go.
 
-“Soup’s in the lower pot,” she said. “You look thin.”
+“Soup’s in the lower pot of my pack,” she said. “You look thin.”
 
 “Immortality will correct that.”
 
@@ -68,13 +68,11 @@ The healer came beside me. “Which permission?”
 
 I read the mark twice before I found it on the page. “Comparison and final joining.”
 
-“Not whatever you decide this has become.”
+She wrote the rest number beside the mark. “And that one next?”
 
-“It has become a correction.”
+“Against the first pair again, in a different rest. Then against everything its permission allows, until I know whether the flaw is in the silver or—” I was already reaching for it.
 
-“Then correct inside the boundary.”
-
-She had a talent for making a boundary sound less like a wall than a sequence of doors, each requiring its own answer. I resented it because doors delayed me. I obeyed because the case would never have come up the mountain otherwise.
+She wrote that down too. I resented her checks because they delayed me. I submitted to them because the case would never have come up the mountain otherwise.
 
 By dark I had repeated the comparison with different rests, different lengths of silver, and a fresh circle drawn on the pulse plate. The frame remained blameless. So did the glass. Every shape began in the beat under my palm and ended when I lifted it. Yet the same pair held, the same third extinguished, and two others I tried divided themselves around that difference.
 
@@ -88,43 +86,35 @@ The healer was cutting yesterday’s loaf into the soup. “It’s cold in here,
 
 “You do.”
 
-“Not until you write down what happened before I tell you anything.”
+“Not until you’ve written down what you think happened.”
 
 “I know what happened.”
 
 “Write that, then.”
 
-The next morning I learned the extinguishing sample had arrived warm with the others. The morning after that, authorized comparisons divided recent samples and older ones into the same alliances. Hunger did not explain it. Neither did fever, recovery, the high farms, or the damp houses by the river. Each possibility had the decency to fail. The original pattern did not.
+The next morning I learned the extinguishing sample had arrived warm with the others. The morning after that, authorized comparisons sorted the recent samples and the older ones into the same alliances, as if the days between meant nothing. Hunger did not explain it. Neither did fever, recovery, the high farms, or the damp houses by the river. Each possibility had the decency to fail. The original pattern did not.
 
-By the fourth day I had drawn three columns in my book.
+By the fourth day I had drawn three columns in my book. I took it with me when I went down to the healer’s rooms below the ridge for onions, and left it open on her table while I shook the sleet from my coat.
 
-I called them measures of vigor. The healer crossed out the heading.
+I called the columns measures of vigor. When I turned around, the healer had crossed out the heading.
 
 “You cannot alter my record.”
 
 “Then stop leaving it open while you come down for onions.”
 
-Her rooms below the ridge smelled of steam, ash, and wet wool. Six people waited there for ordinary care. Nobody cared that I had divided human vitality into three elegant orders. They wanted dry boots, a cough quiet enough for sleep, and news of whether flour had come before the bridge washed out.
+I wrote the heading in again above her line. Her rooms smelled of steam, ash, and wet wool. Six people waited there for ordinary care. Nobody cared that I had divided human vitality into three elegant orders. They wanted dry boots, a cough quiet enough for sleep, and news of whether flour had come before the bridge washed out.
 
-The healer carried the onions to the pantry. “There are frail people in each of your columns.”
+The healer went into the pantry for my onions. “There are frail people in each of your columns,” she said. “And strong people in each.”
 
-“Frail now.”
+I followed her between the shelves with the book. “Frailty belongs to the week. I’m measuring what lies under it, the way a rope’s worth is in its fibers, not in how neatly it’s coiled. A sound pattern can sit in a tired body, and a poor one can carry wood all winter until you ask it to bear another life’s weight, and then—”
 
-“And strong people in each.”
+“Your first column has a woman in it who stops twice on my stairs.” She was counting onions into a bowl and did not look up until she reached over and put one finger on the heading in my book. “Then this word is a guess. Cross it out.”
 
-“Strength is not always visible.”
+I did not. “The first column sustains the cleanest loop. Whatever those people are on a staircase, their samples join without a flicker. If the strongest pattern accepts the others—”
 
-She put one finger on the heading in my book. “Then this word is a guess. Cross it out.”
+She set a fourth onion in the bowl, then a fifth, and said nothing.
 
-I followed her between shelves. “If the strongest pattern accepts the others—”
-
-“You haven’t found strongest.”
-
-“The first column sustains the cleanest loop.”
-
-“With itself.”
-
-“Purity often looks like that at first.”
+“Purity often looks frail at first,” I said.
 
 A cup struck a table behind me, hard enough to spill.
 
@@ -148,7 +138,7 @@ I remembered the trial as a page of failed ratios. Three volunteers’ sealed sa
 
 “The charm never entered you.”
 
-“I know where it didn’t enter.”
+“Something put me on your floor.”
 
 The healer came back carrying a heel of cheese. She did not rescue me. She set it beside his cup and waited.
 
@@ -156,21 +146,19 @@ I heard myself begin again, faster. “A connection need not transfer matter to 
 
 He pulled the blankets off his boots. “No.”
 
-“I am answering you.”
+“I haven’t finished—”
 
-“You’re making a longer question.” He stood, caught the table when the room moved under him, and looked at the healer. “Do I have to leave my sample up there?”
+He stood, caught the table when the room moved under him, and spoke to the healer. “Do I have to leave my sample up there?”
 
-“No,” she said. “You allowed comparisons until the snow. You can withdraw that now.”
+“No,” she said. “You allowed comparison, and asked for it back before the pass closes. You can ask now.”
 
 He glanced at me once. “Then I withdraw it.”
 
 The loss was immediate and ridiculous. One vessel out of twenty-eight, yet I saw a hole in the design larger than the basin. “If it is the sample that produced the unusual result, removing it destroys the chance to understand what happened to you.”
 
-His hand stayed on the table. “You didn’t understand it when you had it.”
+His hand stayed on the table. “You had me on your floor. You didn’t understand it then.”
 
-“I understand more now.”
-
-“Then tell me when it’s enough to be useful.”
+I began to say that I understood more now. He spoke over me to the healer. “When he knows what it did to me, he can tell me. Without all that.”
 
 He left with the cheese in his pocket. The healer watched until the outer door shut.
 
@@ -184,13 +172,13 @@ He left with the cheese in his pocket. The healer watched until the outer door s
 
 “Yes.”
 
-There was no pleasure in her answer. That made it harder to fight.
+There was no pleasure in her answer. That made it harder to fight. Before I went up, she wrote two marks on a scrap of paper: his, and the other sample promised back before the pass closed.
 
-I ate the soup cold that night. Before removing the resident’s vessel from the frame, I copied only the comparisons already permitted and performed. Then I wrapped it, sealed my copy of his withdrawal beside it, and sent it down unopened.
+I ate the soup cold that night. Before removing the resident’s vessel from the frame, I copied only the comparisons already permitted and performed. Then I wrapped both vessels, sealed my copy of his withdrawal beside his, and sent them down unopened on the mule.
 
 The fourth blood appeared two days later.
 
-The healer had relabeled an authorized subset while I stood outside my own workroom in sleet. She changed every position and kept the key. I protested that concealment punished expertise. She said, “Good. Predict without it.”
+The healer had relabeled an authorized subset while I stood outside my own workroom in sleet. She changed every position. I protested that concealment punished expertise. She buttoned the key inside her coat and told me to write my predictions down first.
 
 I predicted.
 
@@ -204,23 +192,15 @@ The healer checked the permissions before she moved anything. “One comparison.
 
 “Your thumb won’t stop twitching.”
 
-“That is not fatigue.”
-
-“What is it?”
-
-I put my thumb against my palm. “Revision.”
+I put my thumb against my palm. “It does that when a result is going well. It did it the night my first loop held an hour, and I worked until the lamp ran dry and wrote eleven pages. Nine of them were right.”
 
 She gave me one comparison. The low arc returned.
 
 The categories in my book stopped being a ladder. I drew them as separate circles, then struck out the circles because they suggested clean borders the evidence had not earned. One vessel still changed its apparent allegiance when compared across days. I could not decide whether it marked a fifth pattern, an error in my own control, or a distinction too fine for the spell. I wrote a question beside it and disliked the look of my handwriting.
 
-Outside, snow covered the weather rods to their elbows.
+Outside, snow covered the weather rods to their elbows. The convergence remained scheduled for the longest night of the fortnight. I told myself the new groups did not invalidate it. A rope could carry fibers of different strength. A river accepted unlike waters. A chord required different notes. Each analogy arrived polished, obedient, and false in a slightly new way. The frame had already shown me what difference did under pressure, and it had gone dark.
 
-The convergence remained scheduled for the longest night of the fortnight. I told myself the new groups did not invalidate it. A rope could carry fibers of different strength. A river accepted unlike waters. A chord required different notes. Each analogy arrived polished, obedient, and false in a slightly new way.
-
-The frame had already shown me what difference did under pressure: the pattern did not broaden. It went dark.
-
-Still I set every permitted vessel around the basin on the final evening. Five comparison-only samples stayed locked in the case. The withdrawn sample was gone. The remaining glass stood in its marked rests, each separate, while silver channels led toward the empty center. Activating the frame would not mix a drop, but it would pool every linked pattern inside the working and drive the whole convergence through the only living source in the room.
+Still I set every permitted vessel around the basin on the final evening. Five comparison-only samples stayed locked in the case. The two promised back had gone down on the mule. The remaining glass stood in its marked rests, each separate, while silver channels led toward the empty center. Activating the frame would not mix a drop, but it would pool every linked pattern inside the working and drive the whole convergence through the only living source in the room.
 
 Me.
 
@@ -230,15 +210,11 @@ Snow struck the slit in handfuls. The pass had vanished. Down in the valley, peo
 
 I placed my hand above the pulse plate.
 
-My heart beat against the silence. It was not the serene clock I had described in nine years of papers. It hurried. It skipped when I held my breath. A small animal in a locked room, throwing itself at the door.
+My heart beat against the silence. In nine years of papers I had described it as a serene clock, but it hurried, and it skipped when I held my breath: a small animal in a locked room, throwing itself at the door.
 
-I wanted more time. Not a noble quantity of time, not centuries dedicated to wisdom. I wanted the next morning because the next morning existed and I might not. I wanted enough years to prove I had not wasted the ones behind me. The desire was ugly only in its appetite. It was also mine.
+I wanted more time, and I could not pretend I wanted it for centuries of wisdom. I wanted the next morning because the next morning existed and I might not. I wanted enough years to prove I had not wasted the ones behind me. The desire was ugly only in its appetite. It was also mine.
 
-My palm hovered until the skin cooled.
-
-Then I lifted each vessel from the frame and put it back in the case.
-
-The basin remained empty. The silver remained wire. Nothing woke.
+My palm hovered until the skin cooled. Then I lifted each vessel from the frame and put it back in the case. The basin stayed empty and the silver stayed cold.
 
 Near midnight the healer came through the storm with a lantern and a sack of barley. She found me at the smaller comparison board, not the convergence frame.
 
@@ -248,7 +224,7 @@ Near midnight the healer came through the storm with a lantern and a sack of bar
 
 “Yes.” She stamped snow from one boot, then the other. “Is it done?”
 
-I pointed at the unopened case.
+I pointed at the closed case.
 
 She did not praise me. “What are you doing now?”
 
@@ -276,7 +252,7 @@ I released the board.
 
 “Kinds of what?”
 
-I looked at the two sealed vessels. Not kinds of courage. Not measures of vigor. Not purity, longevity, or human worth. The spell had never seen a soul. It had only met a recurring difference I had been too ambitious to notice.
+I looked at the two sealed vessels and thought of the heading I had written back in above her line.
 
 “Blood,” I said. “Human blood has types. At least these patterns, among these people. Perhaps more. One result still won’t hold still.”
 
@@ -286,7 +262,7 @@ I looked at the two sealed vessels. Not kinds of courage. Not measures of vigor.
 
 The word hurt more than the failed loop.
 
-In the morning, when the resident returned to help clear the lower path, I gave him an account at the healer’s table. I began with the pattern because beginnings were where I hid.
+In the morning, when the resident came up to help clear the lower path, I gave him an account at the table by my stove. I began with the pattern because beginnings were where I hid.
 
 He listened until I said *interference*.
 
@@ -298,7 +274,7 @@ I tried once more. “The charm forced unlike blood patterns into one magical rh
 
 “Mine didn’t go anywhere.”
 
-“No. It stayed sealed. I made the link. My spell forced the rhythm. You felt the harm, and I called your blood impure because that protected my theory.”
+“No. It stayed sealed. I made the link, and my spell forced the rhythm through it, and you were the one who felt it. Afterward I told her your blood was impure, because—”
 
 He studied the tabletop. “Can you tell me it won’t happen again?”
 
@@ -310,9 +286,17 @@ My explanations crowded up, each eager to be chosen. I let them go unanswered.
 
 “No,” I said.
 
-He rubbed the place beneath his ribs, then took his hand away. “Keep the note about what happened. Not my sample. Not my mark beside your four kinds.”
+He rubbed the place beneath his ribs, then took his hand away. “You can write down what happened to me. That part’s true.”
 
-“It was returned.”
+I waited.
+
+“But I’m not in your four kinds. I took it back. I’m not in them.”
+
+“Before it went down, I copied the comparisons it was already in,” I said. “Your mark is on those pages.”
+
+“Take it off.”
+
+“I’ll strike it. The pages will say a sample was withdrawn, and nothing else.”
 
 “Good.” He looked to the healer. “Is there stew?”
 
@@ -320,9 +304,7 @@ He rubbed the place beneath his ribs, then took his hand away. “Keep the note 
 
 “Then I’ll clear to the bend and come back.”
 
-That was all he offered. It was enough to change the record.
-
-The healer and I spent the rest of the morning separating permission from possession. Some volunteers had asked for their vessels back; those went into the traveling case. Some allowed their samples to remain through the thaw; those stayed sealed. Each person would be told privately what I had observed and what I had not. My book retained comparisons without turning the marks into names. The plan after winter was small: ask whether the patterns persisted among newly willing volunteers, seek the reason for the wandering result, and count no number of types as final. No treatment. No bodily trial. No claim that one group was safer, stronger, or more human than another.
+The healer and I spent the rest of the morning separating permission from possession. Some volunteers had asked for their vessels back; those went into the traveling case. Some allowed their samples to remain through the thaw; those stayed sealed. Each person would be told privately what I had observed and what I had not. I struck his mark from the copied pages and wrote *withdrawn* in its place. My book retained comparisons without turning the marks into names. The plan after winter was small: ask whether the patterns persisted among newly willing volunteers, seek the reason for the wandering result, and count no number of types as final. It promised no treatment and no bodily trial, and it made no claim that one group was safer, stronger, or more human than another.
 
 The healer read the page twice.
 
@@ -336,6 +318,6 @@ Snowlight filled the room, clean enough to make every stain on the table visible
 
 She closed the ledger. “All right. Bring the lamp oil.”
 
-We went downhill together, carrying the records and the vessels due for return. Above us, the convergence frame waited in a cold room with an empty basin. It would never hold the pooled working I had built it for. I had not unlocked eternity. I had found four recurring patterns and one result that would not settle, and I had learned how quickly a grand design could make people disappear into marks.
+We went downhill together, carrying the records and the vessels due for return. Above us, the convergence frame stood in a cold room around an empty basin.
 
 The path was narrow under new snow. The healer went first, testing each buried edge with her staff, and told me where to place my feet. I followed with the case held level against my chest. Inside, glass clicked softly with each careful step. Beneath it, my heart kept its frightened, finite pace.

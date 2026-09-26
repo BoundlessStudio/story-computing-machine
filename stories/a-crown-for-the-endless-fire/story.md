@@ -34,7 +34,7 @@ I could not see what burned. There were no beds of coal, no timbers, no floor. F
 
 At the bridge’s center stood a woman.
 
-Her boots were planted on a six-pointed mark. Both hands gripped a hooked iron pole set against the stone. An antler crown pressed into a thick pad around her head and neck. Exactly six candles burned in iron cups along the antlers. Their flames did not gutter in the furnace breath. Four bent toward the far wall. One stood high and thin. The candle third from her left leaned toward me and burned blue-white at its base.
+Her boots were planted on a six-pointed mark. Both hands gripped a hooked iron pole set against the stone. An antler crown pressed into a thick pad around her head and neck. Exactly six candles burned in iron cups along the antlers, which swept forward and out past her shoulders so that every cup hung at the edge of her sight. Their flames did not gutter in the furnace breath. Four bent toward the far wall. One stood high and thin. The candle third from her left leaned toward me and burned blue-white at its base.
 
 The bridge shivered. Not much. Enough to blur the woman’s outline and set my teeth together. Her knees gave, caught, and held.
 
@@ -52,17 +52,15 @@ I looked down. One boot had crossed the crusted line. “Behind now.”
 
 She shifted one hand on the pole. The antlers dipped with her head, and her shoulders jerked as if someone had hung a new weight from them. “Good. Water first. Then smoke at that seam. Don’t seal it.”
 
-She had asked a useful question before giving an order. That earned her the water, not the order.
+The water I could send at once. What to do about the seam was my trade, and I did not take orders on it from a stranger.
 
-I looped my return rope through the neck of one skin, went flat, and pushed the skin along the bridge. At eight paces the heat through the black stone forced me back onto my knees. I flicked the skin ahead. It skidded to within a pace of the central mark; she pinned its loop with the hooked pole and dragged it to her boots without moving them.
+I looped my return rope through the neck of one skin, went flat, and pushed the skin along the bridge. At eight paces the heat through the black stone forced me back onto my knees. I flicked the skin ahead. It skidded to within a pace of the central mark; she pinned its loop with the hooked pole and dragged it to her boots without moving them. She worked the loop off the neck with the hook, and I drew my rope back.
 
 She drank badly: too fast, coughed, held the skin against one cheek, drank again.
 
 “Small pulls,” I said.
 
 “Come wear this and show me how.”
-
-That was an ordinary enough complaint that some of my fear loosened.
 
 I lit another smoke cup at the pale seam. The smoke drew into it, then split. Most ran upward into the mine. A smaller strand crawled under the bridge lip and vanished along the third of six dark ribs I could see beneath the deck. Those ribs ran the bridge’s length into sockets at either wall. The third had a bright crack just beyond the near abutment.
 
@@ -76,23 +74,23 @@ She drank once more before answering. “Jammed after the tremor.”
 
 “Some. Crack in it.”
 
-She shut her eyes for one breath, no more. “That rib's cup went out at first. It came back blue.”
+She shut her eyes for one breath, no more. “That rib’s cup went out.” Her breath caught. “Came back blue.”
 
-She meant the blue-white candle. I almost asked how the cup followed the rib, but the question would not move any air. “Which cup is third?”
+I almost asked how a cup could follow a rib, but the question would not move any air. “Counting from your left?”
 
 She touched the blue-white flame’s iron stem, then pointed her pole toward the cracked rib. The flame leaned toward me as the hook passed below it.
 
 “Direction is heat?” I asked.
 
-“Hotter end. Height is what the rib carries. Blue at the foot means the stone’s going soft.” Her next breath stopped halfway. She forced it out. “Dark means the heat path broke. Don’t let one go dark.”
+“Hot end.” Her next breath stopped halfway. She forced it out. “Blue’s bad. Stone going soft. Dark’s worse.” Another breath. “Don’t let one go dark.”
 
-“And the antlers?”
+I watched the other five while she breathed. The high thin flame was the fourth cup, next to the blue one. If the third rib was failing, the fourth would be carrying for it. Height for load, then.
 
-“Get heavier when the six disagree.”
+Her shoulders jerked again, and the antlers dipped toward her chest though nothing had touched them. She hauled them upright. “These get heavier when the six disagree.”
 
-The gulf brightened. All six flames lengthened, and the bridge’s hum climbed through my palms. Lemra—I did not yet know her name—folded lower over the pole.
+The gulf brightened. All six flames lengthened, and the bridge’s hum climbed through my palms. The woman folded lower over the pole.
 
-I knew leaking seams. A leak robbed a shaft of draw; close the leak, make the air take the proper road. The pale seam was narrow enough for my middle wedge. I wrapped my hand, set the iron point, and drove it twice.
+I knew leaking seams. A leak robbed a shaft of draw; close the leak, make the air take the proper road. She had said not to seal it. I did not mean to seal it, only to narrow it. The pale seam would take my middle wedge. I wrapped my hand, set the iron point, and drove it twice.
 
 The smoke thread shrank.
 
@@ -102,7 +100,7 @@ Then the third and fourth candles stretched higher than my hand. Blue-white clim
 
 “Out,” she said.
 
-I was already on the hammer. “Two blows.”
+I was already on the hammer. “Two more and it seats.”
 
 “Out. Now.”
 
@@ -116,23 +114,23 @@ The seam inhaled. Smoke spilled under the lip again. The tall flames shortened o
 
 There was no satisfaction in it. She was busy levering herself upright.
 
-I set the warped wedge on bare stone where it could cool. “The shutter normally takes these surges.”
+I set the warped wedge on bare stone where it could cool. “The shutter takes these surges?”
 
 She nodded.
 
-“You’re holding them across the ribs until it opens.”
+“And with it shut?”
 
-“Not holding.” She adjusted the pad with two fingers. The pole shook against the deck. “Spreading. Badly now.”
+She adjusted the pad with two fingers. The pole shook against the deck. “I spread them. Across the six.” A breath. “Badly now.”
 
 “Can you leave the mark?”
 
 She looked at the six flames instead of me.
 
-I had my answer, though not from her. “Right. Third rib first.”
+“Right,” I said. “Third rib first.”
 
 “Water,” she said.
 
-I had missed what she needed while finishing my conclusion. I pushed the second skin out along the stone. This time I crawled ten paces before sending it, counting the bridge pulses through my elbows. It slid almost against her pole; she stopped it, wet the spare pad, and shoved the cool cloth under the crown’s rear band. A hiss came from damp wool. Her face eased for perhaps three breaths.
+I pushed the second skin out along the stone. This time I crawled ten paces before sending it, counting the bridge pulses through my elbows. It slid almost against her pole; she stopped it, wet the spare pad, and shoved the cool cloth under the crown’s rear band. A hiss came from damp wool. Her face eased for perhaps three breaths.
 
 “What do I call you?” I asked.
 
@@ -144,9 +142,9 @@ I had missed what she needed while finishing my conclusion. I pushed the second 
 
 I put my hand on my return rope.
 
-Her gaze followed it back to the narrow cut. “Is there another way up?”
+Her gaze followed it back to the narrow cut. “Any other way up, your side?”
 
-“From your side?”
+“Not on mine. Yours?”
 
 “Service stair. Longer.”
 
@@ -154,19 +152,15 @@ Her gaze followed it back to the narrow cut. “Is there another way up?”
 
 “Last week.”
 
-Not an assurance, but better than pretending.
-
 I crawled back into the slot and pulled one end of the rope. It rasped over the stone horn above, then fell around my shoulders in a warm, dusty coil. Once it was down, the direct ascent was gone. I found the midpoint by matching ends, laid the rope across my knee, and cut it with my belt knife. Two lines would brace both sides of the split rib’s saddle. Neither would reach the horn again.
 
 “Return route spent,” I said.
 
-“I heard.” Lemra had turned one ear toward the dragging rope. “Third candle dropped a finger when you pulled.”
+“I heard.” Lemra had turned one ear toward the dragging rope. “Third dropped a finger. When you pulled.”
 
 “Then watch it. Tell me if it rises.”
 
-“Blue matters first.”
-
-“Blue first. Height second. Dark, shout.”
+“I’m watching the blue.”
 
 At the bridge root, black scale hid two deck mouths beside the third rib. I scraped them clear. Each opened into a U-shaped maintenance chase: down around one side of the rib’s saddle, then out through a slot in the near abutment face within my hammer’s reach. A worn stone eye sat between each mouth and its matching slot. The crack lay between the two chases and opened and closed by the width of a fingernail. Chalk dust vanished into it with every opening.
 
@@ -204,27 +198,23 @@ I checked the far opening, the thirty paces of bare stone, the fire. “Then I c
 
 She checked the blue-white flame again and said nothing.
 
-I wrapped my burnt palm, wetted my sleeves, and went low. The bridge had no rail. At rail height, square sockets stood empty and packed with black scale. I kept three points against the stone. At the sixth pace, heat pressed through my boots. At the tenth, the fire below opened white lanes inside the orange, and awe took my count away. I could see no bottom, no fuel, no wall closing under us. Just motion going down past what sight could keep.
+I wrapped my burnt palm and went low. The bridge had no rail. Square rail sockets along its edges held nothing but black scale. I kept three points against the stone. At the sixth pace, heat pressed through my boots. At the tenth, the fire below opened white lanes inside the orange, and awe took my count away. I could see no bottom, no fuel, no wall closing under us. Just motion going down past what sight could keep.
 
 “Uldek.”
 
 Lemra’s voice brought back the bridge. I was at twelve.
 
-“Two steps to me. Fireward edge is lower load.”
+“Outer edge.” The hook swept out over the side she had pointed to at the sling. “Less load.”
 
-I looked at the candles. She had not said which was fireward.
+I shifted two steps toward it, until the drop was an arm’s length from my hip. The vibration softened.
 
-“Your pole side?”
-
-She stared, then slapped the pole against her right boot. I had missed the answer in what she could still do. I shifted right. The vibration softened.
-
-At the central mark there was not room for dignity. Lemra could not move her boots. The antlers spread wider than her shoulders, six iron cups burning above them, and I had to pass beneath the lowest tine without touching crown or woman. I went on one hip along the outer edge. She lifted the hook clear. A drop from the water skin rolled across the bridge, steamed, and disappeared before reaching the side.
+At the central mark there was not room for dignity. Lemra could not move her boots. The antlers spread wider than her shoulders, six iron cups burning above them, and I had to pass beneath the lowest tine without touching crown or woman. I went on one hip along the outer edge. She lifted the hook clear. I wet my sleeves from a skin at her boot. A drop rolled off my cuff and across the bridge, steamed, and disappeared before reaching the side.
 
 “Neck?” I asked.
 
 “Later.”
 
-“Can you keep the mark for sixty?”
+“Can you keep the mark for sixty pulses?”
 
 “Stop counting me.”
 
@@ -232,9 +222,7 @@ At the central mark there was not room for dignity. Lemra could not move her boo
 
 “Open the shutter.”
 
-Her temper had more breath than her other words. That was useful.
-
-I passed her and crawled the remaining fifteen paces. The far abutment was hotter. Three crown flames leaned after me, confirming it without a lecture. The shutter covered a side chimney cut upward through the wall. Its lifting bar had jumped its guide and bitten into a lip of softened stone. I struck smoke beneath it. The smoke flattened toward the bridge instead of rising into the chimney.
+I passed her and crawled the remaining fifteen paces. The far abutment was hotter. Three crown flames leaned after me. The shutter covered a side chimney cut upward through the wall. Its lifting bar had jumped its guide and bitten into a lip of softened stone. I struck smoke beneath it. The smoke flattened toward the bridge instead of rising into the chimney.
 
 “Jammed at the guide,” I called.
 
@@ -252,7 +240,7 @@ She held up two, pointed to the high candle on her right, then crossed her wrist
 
 She shook her head and struck the pole twice against the bridge, the second blow harder. The two high flames were not equal; one fluttered at twice the other’s beat.
 
-“Twisting,” I said. “I opened too fast.”
+“Twisting,” I said. “It wants more at the far jamb.”
 
 Her shoulders sagged once in assent.
 
@@ -278,9 +266,9 @@ The next trough in the fire came as a dimming rather than silence. The orange fo
 
 I drove the wedge under the bar, put my shoulder to it, and freed the guide from the stone lip. The shutter jumped. I caught its chain before it could fly fully open and wrapped the chain twice around my forearm. Heat bit through the wet cloth.
 
-“Three fingers,” I said. Numbers were easier than fear. “Holding three. Check one through six.”
+“Three fingers,” I said. “Holding three. Check one through six.”
 
-Lemra raised her face to the crown. “One amber. Two amber. Three—” Her mouth stayed open, but no word came. She pointed to the third cup.
+Lemra looked up and to each side, cup by cup. “One amber. Two amber. Three—” Her mouth stayed open, but no word came. She pointed to the third cup.
 
 Its flame had gone upright and orange at the edges, blue no longer visible.
 
@@ -300,11 +288,11 @@ She bent her knees, lifted the antler crown with both hands, and set it into a l
 
 Without the crown she swayed as if the bridge had risen under her. Then she sat down hard and pressed both hands to the sides of her neck.
 
-“Still forty,” I called.
+“Forty,” I called.
 
 “You stopped counting.” Her voice was fuller but rough.
 
-“I resumed.”
+“I lost it at the shutter.”
 
 “Open it one more knife-width. Slow.”
 
@@ -314,7 +302,7 @@ Then we took the service stair.
 
 It was longer than my direct route by enough that I complained twice. Lemra complained five times: about the stair pitch, about my pace, about the makers putting rest niches on the hotter side, and twice about the water being warm. At each fork she chose the landing; whenever the stair warmed, I tested the wall seams. We stopped three times to wet her neck pad and once to retie my palm.
 
-At the first cool junction, she sat with her back to the wall while I unwrapped the soaked neck pad. The skin beneath was bruised in two branching lines but unbroken. I folded my clean cloth into a broad collar, wet it with what remained in the second skin, and held it while she tied it loosely.
+At the stair head, the first junction where the air ran cool, she sat with her back to the wall while I unwrapped the soaked neck pad. The skin beneath was bruised in two branching lines, and along the pad’s edge it had reddened and blistered in three places. I folded my clean cloth into a broad collar, wet it with some of what remained in the second skin, and held it while she tied it loosely.
 
 “Too tight?” I asked.
 
@@ -340,8 +328,8 @@ Lemra leaned over the list. “One full water skin.”
 
 “By me.”
 
-“That is still service.”
+I chalked it the way I had said it.
 
-She considered the wording, took the chalk, and added a clean neck pad to the replacement list. Then she gave the chalk back and asked where I had put the second skin.
+She took the chalk from me and added a clean neck pad to the replacement list. Then she gave the chalk back and asked where I had put the second skin.
 
 It was beside her boot. I pointed. She picked it up and finished what was left.

@@ -12,8 +12,8 @@ how much sleep three of his students had not had.
 Northbridge Secondary’s network had chosen community-showcase day to display a
 spinning circle instead of the online register, so Gideon was using the paper
 backup. The ledger was a grey administrative object with coffee feathered
-along one corner. It possessed no insight. Gideon supplied the dangerous part
-himself.
+along one corner. It possessed no insight. Everything it told him about those
+three names, Gideon had brought to it himself.
 
 “Drita Ademi?”
 
@@ -58,8 +58,6 @@ That earned a better laugh. He passed the box along the benches. Cassia took
 two oat bars without looking up. Drita accepted one after seeing three other
 students do it. Bryn chose the role nearest the door.
 
-Kindness was easiest to disguise as policy.
-
 Gideon had not meant to learn their secret. Six months earlier, three
 voice-scrambled strangers had asked for practical help over an emergency-radio
 frequency: routes, weather, first-aid supplies, someone to notice when brave
@@ -96,9 +94,8 @@ desk. Twenty-eight students looked at him instead of at Drita.
 “A compelling demonstration,” he said, crouching, “of gravity’s refusal to
 respect staff authority.”
 
-In the shadow behind the grate, something black and thin withdrew. Not wire.
-Not a shadow. A living filament, wetly quick, vanishing after it had enjoyed a
-clear view of the page.
+In the shadow behind the grate, something black and thin withdrew: a living
+filament, wetly quick, vanishing after it had enjoyed a clear view of the page.
 
 The Rollcaller had survived the night.
 
@@ -130,20 +127,21 @@ points.
 
 “How many people reacted?” Night Clerk asked.
 
-“I nearly did. Then a book hit the floor and everyone looked that way.”
+“I nearly did,” Kiteglass said. She stopped, then said it again, flatter.
+“Nearly. Then a book hit the floor and everyone looked that way.”
 
-“Nearly,” Kiteglass repeated, annoyed with herself. Gideon let her account stand
-without adding anything she had not told him.
+Gideon let her account stand without adding anything she had not told him.
 
-“The creature engineered surprise. That is information about its method, not a
-failure on your part.”
+“It chose the moment you were least prepared for,” Night Clerk said. “Anyone
+would have turned.”
 
-Pulsewire’s scrambled voice cut in. “It needs correlation. The ledger gives it
-possible civilians, reactions narrow them, cameras prove them.”
+Pulsewire’s scrambled voice cut in. “It needs correlation. Names give it
+candidates, reactions narrow them, cameras prove them. And we’ve got the
+showcase this afternoon. There’s a guardian livestream.”
 
-“Agreed. My recommendation is evacuation and cancellation. Available
+“Agreed. My recommendation is that you leave before the showcase. Available
 alternatives: separate departures, remaining in public view, or a contained
-trap using the building map. You decide whether you engage at all.”
+trap somewhere you choose. You decide whether you engage at all.”
 
 “Three of us leaving together would be a confession with backpacks,”
 Kiteglass said. “And we built that presentation.”
@@ -160,7 +158,8 @@ you want options, quiet, or a grounding count?”
 He counted five slow breaths. He could hear her match him by the faint hiss of
 the microphone. No one hurried her.
 
-“I’m scared,” Mothlight said at last. “That is not the same as voting no.”
+“I’m scared,” Mothlight said at last. “That’s not a vote. Nobody count that
+as a vote.”
 
 “Understood.”
 
@@ -168,30 +167,29 @@ the microphone. No one hurried her.
 guardian livestream, because I do have standards.”
 
 Kiteglass proposed drawing the Rollcaller toward the empty rehearsal corridor
-during showcase setup, away from the auditorium audience. Pulsewire requested
-the building’s camera positions and traced two exits on the map Gideon sent:
-the public auditorium doors and a service corridor with no camera sightline.
-Three taps on the relay would be the hard abort signal. No debate afterward.
+during showcase setup, away from the auditorium audience. Pulsewire sent a
+photo of the fire plan posted by the stairs, cropped so the school’s crest was
+gone, with the cameras she knew marked in red. She traced two exits on it: the
+public auditorium doors and a service corridor with no camera sightline. Three
+taps on the relay would call the trap off. No debate afterward.
 
-“If the network is compromised?” Pulsewire asked.
+Then Pulsewire ran the rest of her checklist, the way she did before every
+job. “If the network is compromised?”
 
 “Disconnect.”
 
-“And if you order a transformation?”
+“Transformation orders?”
 
-“Night Clerk never orders a transformation,” Gideon said. It was the first
-rule they had made together. “If you hear one, the channel is compromised.”
+“Night Clerk never orders a transformation.” It was the first rule they had
+made together. “If you hear one, the channel is compromised.”
 
-“Good,” Pulsewire said. “Because you are useful, but you are not in charge of
-our bodies.”
+“Good,” Pulsewire said.
 
-The sentence pricked because it was true and because he had lately behaved as
-though noticing everything entitled him to arrange everything. He looked at
-the school map, at the three status lights, at every variable he wanted to
-close his hand around.
+He looked at the photographed plan, at the three status lights, at every
+variable he wanted to close his hand around.
 
-“Send me your final route,” he said. “I’ll give you camera coverage and
-evacuation timing. The plan remains yours.”
+“Send me your final route,” Night Clerk said. “I’ll work out evacuation timing
+from the fire plan.”
 
 * * *
 
@@ -205,8 +203,7 @@ Bryn checked both exits before connecting the class laptop. Cassia stood in
 the wing, named five things she could see under her breath, and walked onstage
 when she was ready.
 
-Their rehearsal was good. Not good considering the night they had endured.
-Simply good.
+Their rehearsal was good.
 
 On the second run, Drita lost her place when the display board shifted. Gideon
 did not rescue her sentence. He reminded the entire class that a pause counted
@@ -216,10 +213,7 @@ would not cross either exit. Cassia shortened one joke, drank half a bottle of
 water, and asked to repeat her closing section.
 
 Those choices cost the schedule eight minutes. Gideon spent them without
-hesitation. A showcase timetable was an invented emergency; cold hands,
-sensory strain, and a student asking for another try were real. Because the
-roles rotated, no one could call the accommodations special treatment. Because
-the girls kept their own speaking choices, their project remained theirs.
+hesitation.
 
 Gideon checked the boring safety features while they reset: the heavy acoustic
 fire partition recessed beside the stage, the breaker panel near the service
@@ -228,11 +222,10 @@ camera’s green indicator glowed beside a guardian-view counter reading zero.
 
 At that moment, Bryn came from the laptop, Cassia came from the wing, and all
 three girls leaned over the same cue sheet. A hair-thin filament beneath the
-camera housing pivoted to follow them. The Rollcaller had pursued a trio the
-night before and had one strong civilian candidate in Drita. Her two showcase
-partners were only a guess, but a narrow, observable one. The ledger supplied
-spellings, not truth. By using the public-address system, the Rollcaller could
-test the guess.
+camera housing pivoted to follow them. Gideon’s stomach tightened. If the
+thing had chased a trio last night and marked Drita at the grate this morning,
+then her two showcase partners were only a guess, but a narrow one, and easy
+to test.
 
 The public-address speakers clicked.
 
@@ -241,10 +234,10 @@ report to the main office immediately.”
 
 All three girls went still.
 
-The guess had earned the Rollcaller a shared reaction.
+Whatever had sent that summons had just watched three students react as one.
 
-“Continue setup,” Gideon said, pleasantly. “The office knows the traditional
-method of contacting staff.”
+“Continue setup,” Gideon said. “The office knows the traditional method of
+contacting staff.”
 
 He called from the wall phone. The actual office had issued no summons.
 
@@ -252,12 +245,12 @@ He called from the wall phone. The actual office had issued no summons.
 preview of the competence adults will display this evening.”
 
 The room loosened. Students returned to cables and cue cards. The three girls
-did not leave together.
+went back to three separate jobs.
 
-Yet when Gideon returned to his desk, the relevant ledger page was gone.
+But when Gideon returned to the tech table, the ledger page with their names
+was gone.
 Along the baseboard, an ink-dark filament slipped beneath the auditorium’s A/V
-rack. His protection had told the predator what it needed to know: those three
-names mattered to him.
+rack.
 
 The camera counter changed from zero to one.
 
@@ -284,8 +277,8 @@ The class stared. The view counter climbed.
 
 Black filaments spilled from the A/V rack, thin as drawn ink and moving with
 the intent of fingers. They threaded the camera mount, the speaker cable, the
-door hardware. The Rollcaller had not enchanted the equipment. It had put
-living pieces of itself inside the machinery and was operating it.
+door hardware. The Rollcaller had pushed living pieces of itself inside the
+machinery and was operating it from within.
 
 From every speaker came Night Clerk’s copied voice.
 
@@ -295,8 +288,7 @@ Gideon’s heart lurched.
 
 The three girls did not move.
 
-Six months of insisting that consent be procedural, not sentimental, had just
-done what surveillance could not. Night Clerk never gave that order.
+Night Clerk never gave that order.
 
 “Everyone away from the screen,” Mr. Tolland said. “Leave bags. Service
 corridor, two lines.”
@@ -305,28 +297,29 @@ The class knew his evacuation voice. Chairs scraped. A filament snapped across
 the main doors and cinched them shut. Another reached for the camera, carrying
 the Rollcaller’s living attention toward the growing audience beyond it.
 
-Three taps struck Gideon’s earpiece.
+Three taps struck Gideon’s earpiece. The rehearsal-corridor trap was off.
 
-“The wiring is one route,” Pulsewire said through the relay. Pain roughened
-the scrambled words. “Our channel is the second. It bridged both. I need full
-blackout.”
+Pulsewire’s voice came through the relay, pitched low under the noise of the
+room. Pain roughened the scrambled words. “The wiring’s one route. Our
+channel’s the second. It’s bridged both. I need full blackout.”
 
 His screen still held three weak telemetry lights: cold, tremor, strain. Cut
 the breaker, and the school network, cameras, and relay would all die
-together. He would lose their reports. Their positions. His illusion that
-enough data could make their choices safe.
+together. He would lose their reports and their positions, and with them his
+illusion that enough data could make their choices safe.
 
 The copied voice crooned from the speakers, “Transform now.”
 
-Gideon could have used their civilian names on the relay. Three precise
-warnings. Three betrayals.
+Gideon could have warned each of them by civilian name on the relay, and each
+warning would have been a betrayal.
 
-Instead he pressed the transmit switch. “Facts once. The network is the
-exposure path. Cutting it ends the stream and cameras, and it also cuts this
-relay. The local power can be killed, giving you darkness but no telemetry or
-handler contact. Engagement remains your choice.”
+He had reached the breaker panel by the service door ahead of the class. He
+turned his face into the doorway, away from the room, and pressed the transmit
+switch under the scrape of chairs and the crooning from the speakers. “Facts
+once. The local breaker ends the stream, the cameras, and this relay. Result:
+darkness, no telemetry, no contact from me. Your decision.”
 
-A breath.
+A breath. The answers came back as murmurs he could barely hear over the room.
 
 Kiteglass said, “Dark.”
 
@@ -342,10 +335,8 @@ The view counter vanished at twenty-three.
 
 The speakers died. The relay died. Every telemetry light went out.
 
-For one terrible instant, caring felt exactly like abandonment.
-
 The main doors were visibly bound. Mr. Tolland opened the designated service
-exit, as the evacuation plan required. Gideon chose to trust the difference.
+exit, as the evacuation plan required.
 
 * * *
 
@@ -367,9 +358,9 @@ the acoustic partition.
 
 He did not see who stayed behind. He did not see hands close on focus tokens,
 or living power pass through those nonliving shapes and become transformed
-light. By the time he dragged the partition from its recess, three refracted
-figures moved beyond the glass, their features blurred even to his knowing
-eyes.
+light. By the time he had dragged the partition halfway out of its recess,
+three refracted figures moved beyond the glass, their features blurred even to
+his knowing eyes.
 
 The Rollcaller hurled filaments at the evacuation opening.
 
@@ -381,13 +372,13 @@ A/V rack. Instead she planted her feet at the door.
 
 “Route first,” Gideon heard her say.
 
-With students still passing through, fire procedure required the acoustic
-partition between them and the auditorium.
+Students were still filing down the corridor behind him. Fire procedure wanted
+the partition shut between them and the auditorium.
 
-He pulled the heavy partition. Something caught its lower track. A filament
-whipped through the gap and wrapped the handle. Gideon hauled back. Pain
-streaked from his shoulder to his elbow, bright enough to turn the corridor
-white at the edges.
+He heaved it the rest of the way. A foot from the latch, something caught its
+lower track. A filament whipped through the gap and wrapped the handle. Gideon
+hauled back. Pain streaked from his shoulder to his elbow, bright enough to
+turn the corridor white at the edges.
 
 On the auditorium side, a sharp blue flicker ran along the speaker cable. It
 ended with a crack. Someone gasped. The lights stayed off, but Gideon heard a
@@ -395,6 +386,9 @@ body strike the stage steps and then get up again.
 
 “One bridge cut,” Pulsewire said. Her voice sounded far too loud in the dead
 room. “Two active.”
+
+The breaker had killed the school’s current, not the creature. Its own
+filaments still ran out through the walls to lines the panel did not control.
 
 The Rollcaller answered in Cassia’s civilian voice.
 
@@ -408,7 +402,8 @@ a shimmer gone ragged, filaments turning toward the stillness. He had no relay
 and no right to break the darkness they had requested. He held the partition
 and listened.
 
-The real voice said, “One breath.”
+Mothlight’s own voice, blurred by the veil and coming from one place only, said,
+“One breath.”
 
 The angled barrier widened. The blue flicker paused.
 
@@ -417,7 +412,7 @@ No one told her to hurry.
 Gideon took one breath too, though his shoulder shook. Beyond the glass, the
 still figure inhaled. Exhaled.
 
-Then Mothlight filled the rehearsal corridor with liars.
+Then Mothlight filled the dark auditorium with liars.
 
 That was all Gideon could make of it at first. Shadows ran where no bodies
 could fit. Light folded against the walls and came away as half a dozen figures
@@ -438,8 +433,8 @@ not striking but enclosing.
 The pressure against Gideon’s partition doubled. The filament around the
 handle tightened. His injured arm began to fail.
 
-“External lines and relay,” Pulsewire said somewhere beyond his sight. “All
-remaining connections. Consent to cut?”
+“External lines,” Pulsewire said somewhere beyond his sight. “Everything it’s
+still holding outside. Consent to cut?”
 
 “Yes,” came one voice.
 
@@ -461,16 +456,7 @@ another.
 He did not know how they had changed their plan in the dark. He did not know
 whether Pulsewire could still hear properly, whether Kiteglass’s wrist had
 worsened, whether Mothlight’s remaining glow meant strength or the last of it.
-
-He knew the exit was clear because Kiteglass had guarded it.
-
-He knew the connections were dead because Pulsewire had asked before cutting
-them.
-
-He knew the decoys had worked because Mothlight had taken the breath she
-needed, then chosen to act.
-
-For the rest, he waited for whatever they decided to tell him.
+He would wait for whatever they decided to tell him.
 
 * * *
 
@@ -493,8 +479,10 @@ civilian clothes. Gideon did not see where they came from. Drita’s hands were
 still cold. Bryn flinched at a whistle from across the yard. Cassia ate the
 second oat bar in four bites.
 
-He accepted all three back without asking questions Mr. Tolland could not
-know to ask.
+“We went out the back of the stage,” Bryn said before he could ask. “Wrong
+door. Took ages to get round.”
+
+Gideon told them to stand with their row and asked nothing else.
 
 The stolen page meant he had to rebuild attendance. He passed silent check-in
 slips down the rows at muster, and each student marked their own presence.
@@ -511,33 +499,26 @@ Three status lights appeared by choice.
 
 “Stable,” Kiteglass said. “I held it while Pulsewire checked the cuts. Then we
 closed the body in an unplugged metal equipment case. We’ll decide what to do
-with it when we are not exhausted.”
+with it when we’re not dead on our feet.”
 
 “That is a strong argument for rest. Available support: food delivery, medical
 checks, deadline help, route coverage, or no contact.”
 
-“Not a schedule?” Mothlight asked.
+“What, no schedule?” Mothlight asked. “You always send a schedule.”
 
 Gideon looked at the recovery plan he had already drafted and turned it face
 down.
 
 “Not unless requested.”
 
-They chose food, injury checks, and two mission-free nights. Kiteglass
-volunteered that she had abandoned pursuit because her wrist could hold a
-stationary shield or a chase, not both. Pulsewire reported that the final
-severance had been possible only after the decoys drew the living core out of
-the rack. Mothlight said she had needed one honest breath before she could make
-twenty dishonest versions of them.
+They chose food, injury checks, and two mission-free nights.
 
-They offered those facts. Gideon received them. He did not ask for more.
+“And before anyone asks,” Kiteglass said, “I stopped chasing it because this
+wrist does a shield or a chase. Not both. So I held. It’s fine. It’s a wrist.”
 
-“New protocol,” Pulsewire said. “When we request darkness, you give facts once
-and disconnect.”
-
-“Even if I dislike it?”
-
-“Especially then.”
+“Also my ears are still ringing,” Pulsewire said. “In case anyone’s keeping a
+list.” The channel hissed for a moment. “New protocol. We ask for dark, you
+give us the facts once and hang up.”
 
 “Agreed.”
 
@@ -550,17 +531,9 @@ self-check-in slips waited on every lab bench.
 drop important documents.”
 
 Cassia smiled. Bryn checked the door, then bent over her slip. None of them
-looked at Mr. Tolland as though they heard Night Clerk’s scrambled voice. None
-looked at Night Clerk, through the relay, as though they knew he had recognized
-their civilian ones.
+looked at Mr. Tolland as though they heard Night Clerk’s scrambled voice, or
+as though they suspected he knew who they were.
 
-Their boundary held.
-
-Gideon opened the replacement ledger. It was still only paper, incapable of
-knowing what its marks meant. Beside Drita Ademi, Bryn Ahn, and Cassia
+Gideon opened the replacement ledger. Beside Drita Ademi, Bryn Ahn, and Cassia
 Dominguez, he recorded three simple presences.
-
-Not pieces he had successfully controlled.
-
-Students who had chosen, fought, returned, and answered for themselves.
 

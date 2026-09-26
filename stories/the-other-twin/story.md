@@ -42,7 +42,7 @@ The next time the sink held us was the morning we caught the early bus. At the m
 
 “No, your hand is.”
 
-I fixed it. Our mother, kneeling by the front door with one of our shoes between her knees, pulled the laces tight.
+I fixed it, and we went downstairs. Our mother knelt by the front door and pulled the laces tight on our left shoe while we stood in it.
 
 “Bus in six minutes.”
 
@@ -56,7 +56,7 @@ My sister said, “I put them there.”
 
 Outside, wet leaves pasted themselves to the pavement. Walking had once been our best trick. We did not each own a leg; a step began as a shift we both had to feel coming. When we agreed on the destination, the agreement traveled down our back and gathered itself into knees, ankles, toes. Since our hips had begun changing, the old signals arrived at the wrong angle. We had to think about curbs.
 
-At the bus shelter, a man in a reflective vest held the gate for us. His eyes went to our chest, then to my sister’s face.
+At the bus shelter, a man in a reflective vest slid along the bench to make room for us. His eyes went to our chest, then to my sister’s face.
 
 “Morning, girls.”
 
@@ -64,11 +64,7 @@ At the bus shelter, a man in a reflective vest held the gate for us. His eyes we
 
 My sister’s head turned toward me. “He wasn’t talking to you.”
 
-“He said girls.”
-
-“Exactly.”
-
-The bus hissed at the curb. I shifted forward before she did. She was still looking back at the man when our left foot met the step, and the right struck the metal edge. Pain went up both legs. We caught the rail with both hands and hung there for one ugly second, our weight behind us and the line of students behind that.
+The bus hissed at the curb. I shifted forward before she did. She had turned back to give the man her own “Morning.” Our left foot met the step, and the right struck the metal edge. Pain went up both legs. We caught the rail with both hands and hung there for one ugly second, our weight behind us and the line of students behind that.
 
 “You okay?” the driver asked.
 
@@ -90,15 +86,15 @@ At the back of the bus, she examined the darkening patch on our shin.
 
 “The bus was here.”
 
-She pulled the jacket closed over the green shirt. “The question can get here before your answer once in a while.”
+She pulled the jacket closed over the green shirt. “You told her we were fine. I wasn’t.”
 
-I watched rain stitch the window. By lunch, I had converted the fall into a problem with preventable inputs: wet pavement, changed balance, distraction. I did not include myself. I did not yet understand that answering for both of us was also a kind of movement.
+I watched rain stitch the window. By lunch, I had converted the fall into a problem with preventable inputs: wet pavement, changed balance, distraction. I did not include myself.
 
 The third time the sink stopped us, there was blood in our underwear.
 
 Our mother had explained what might happen. There was a box beneath the sink, pain medicine in the cabinet, a heating pad folded in the linen closet. Preparedness turned out to be small beside the fact itself. The cramps had woken both of us before dawn, squeezing low in our shared belly and releasing just long enough for hope to become stupid.
 
-My sister braced both hands on the porcelain. “Get Mom.”
+We braced both hands on the porcelain. “Get Mom,” my sister said.
 
 “We know what to do.”
 
@@ -106,7 +102,7 @@ My sister braced both hands on the porcelain. “Get Mom.”
 
 I called. Our mother came in wearing one slipper and carrying her glasses. She took in the underwear, my sister’s face, my face.
 
-“Bathroom first,” she said. “Then heat. School can wait.”
+“Toilet first, and get cleaned up,” she said. “Then heat. School can wait.”
 
 She showed my sister where to place the pad and gave me the job of holding the waistband out of the way. Later, with the heating pad across our abdomen, my sister asked for toast. I wanted the curtains shut. She watched a cooking video with the sound low while I tried to sleep through cramps that felt insultingly ordinary.
 
@@ -114,7 +110,7 @@ Over the next three months, ordinary things multiplied. Shirts that fit at break
 
 We still made jokes. We fought over music while folding laundry. She made me watch six episodes of a baking competition and then fell asleep before the final. I finished it and lied about who won. She knew before breakfast.
 
-But the old system of my day and your day had depended on choices ending when the day did. The green shirt came off. My stubble could be shaved. Our chest did not flatten overnight, and bleeding did not become hers because the calendar had her handwriting on it.
+But one choice each had only worked because a choice ended when the day did. The green shirt came off. My stubble could be shaved. Our chest did not flatten overnight, and bleeding did not become hers because the calendar had her handwriting on it.
 
 Our mother called a specialist after each of us asked her separately. She showed us the appointment time on her phone.
 
@@ -122,11 +118,7 @@ Our mother called a specialist after each of us asked her separately. She showed
 
 “What kind of specialist?” my sister asked.
 
-“The kind who read the scans your regular doctor sent and admitted they need more scans.”
-
-“That’s not a kind.”
-
-“It’s the kind we have Thursday.”
+“I don’t know what they call it. She’s read the scans your regular doctor sent, and she wants more.”
 
 At the clinic, the receptionist handed us a clipboard with one form. Our mother handed it back.
 
@@ -142,15 +134,9 @@ We completed them one at a time because handwriting required both hands to agree
 
 I wrote, Chest development. Menstruation. Unpredictability of final traits.
 
-She read over my shoulder. “Final traits.”
+She turned her head to read it sideways. “Final traits.”
 
 “It asks what troubles me.”
-
-“You make us sound like a building proposal.”
-
-“You wrote speed.”
-
-“Speed is what I mean.”
 
 The clinician brought the two forms into the examination room and placed them side by side on her desk. She spoke slowly, but not in the sugary way adults sometimes used when they thought our body had made our minds younger.
 
@@ -158,7 +144,7 @@ The clinician brought the two forms into the examination room and placed them si
 
 “We’ve already compared—” I began.
 
-She lifted one hand, not high. “You can go first when I ask you.” She turned to my sister. “What change would you most want to slow right now?”
+She lifted one hand, not high. “I’ll ask you on your own in a minute.” She turned to my sister. “What change would you most want to slow right now?”
 
 “The hair. On our body, and this.” My sister touched above her lip. “And my voice. It goes wrong and people laugh before I finish.”
 
@@ -182,7 +168,7 @@ The clinician waited. “Which change would you most want to slow right now?”
 
 I rubbed the place beneath my jaw that was rough by afternoon. “My voice. The hair.”
 
-That answer looked very small beside all the ones I had brought, and it was the first useful thing I said in the room.
+That answer looked very small beside all the ones I had brought.
 
 The clinician showed us a diagram made from our own scans. Most of it was lines and pale shapes that meant little to me. She kept her pen on the parts that mattered. One circulation. Several kinds of tissue responding at different rates. In our particular body, she said, a monitored course of temporary suppression might slow the signals driving further changes. It would not assign one set of effects to my sister and another to me. It would not reverse what had happened. If we stopped, development might resume, but she could not promise its timing or direction.
 
@@ -198,13 +184,13 @@ My sister had gone still. The clinician laid her pen sideways across the diagram
 
 Finally my sister said, “If we pause it, I don’t stop being a girl?”
 
-The clinician’s gaze stayed on her. “The medication would act on your shared body. I’m not treating either of your identities.”
+The clinician’s gaze stayed on her. “No. It might slow the hair and your voice. You would still be a girl.”
 
 My sister nodded once. I had a better, more complete version of the question in my head. For once I left it there.
 
 The worst fight happened six days later, over a charcoal shirt.
 
-It was large enough not to pull across our chest. That was why I had put it on the bed for the school winter concert. My sister had chosen a red top with a square collar and sleeves that made lifting our arms difficult. Neither was formal enough for her and both were too noticeable for me.
+It was large enough not to pull across our chest. That was why I had put it on the bed for the school winter concert. My sister had chosen a red top with a square collar and sleeves that made lifting our arms difficult.
 
 “Charcoal,” I said. “We’ll be onstage for nine minutes. It reduces the number of things people can decide from a distance.”
 
@@ -222,11 +208,7 @@ I began unbuttoning the shirt we wore. She did not help. The right hand fumbled 
 
 “Can we solve the immediate problem?” I asked. “Nine minutes, lower visibility, no restricted shoulders. Then in January we reassess after the next appointment.”
 
-“You’ve spent me again.”
-
-“What does that mean?”
-
-“My shirt. My chest. My nine minutes. They all disappear inside your total.”
+“My shirt,” she said. “My chest.” Her voice broke on the next word, and she started it over. “My nine minutes.”
 
 “There is no version where either of us gets everything.”
 
@@ -270,7 +252,7 @@ I tried again. “If we list the costs—”
 
 “I’m not deciding the shirt.” She rubbed our caught shoulder. “I need this to stop getting faster.”
 
-The clinic packet was on the desk. Until then, I had treated a pause as her proposal and therefore as something I had to measure against my losses. I pictured my voice fixed where it was, a beard that might never become more than a little roughness along my jaw. I pictured our chest continuing to change while I collected better numbers. Neither picture belonged to her. Neither belonged only to me.
+The clinic packet was on the desk. Until then, I had treated a pause as her proposal and therefore as something I had to measure against my losses. I pictured my voice fixed where it was, a beard that might never become more than a little roughness along my jaw. I pictured our chest continuing to change while I collected better numbers. I did not want either one.
 
 “I don’t want to lose what’s happening to my voice,” I said.
 
@@ -298,7 +280,7 @@ I had wanted her to tell us what was fair. My sister was watching the steam rise
 
 “Yes.” She left the door open a hand’s width.
 
-We made the recordings separately. Privacy was impossible, but authorship was not. My sister spoke first while I kept my mouth shut and looked at the dark window.
+We made the recordings separately. My sister spoke first while I kept my mouth shut and looked at the dark window.
 
 “I like our chest changing,” she said into the phone. “I don’t like bleeding, but that isn’t the same thing. I hate the hair on my face. I hate people hearing my voice crack and looking at him. I don’t want every week to take something before I know if I wanted it. I want a pause.”
 
@@ -306,13 +288,11 @@ She stopped the recording herself.
 
 On mine, I began with likely outcomes, crossed them out aloud, and began again.
 
-“I like my voice. I like shaving, which is stupid because I’ve cut my chin twice. I don’t want more chest growth. I don’t want another period. I keep saying later will be easier to decide, but I’m the one asking for forecasts while everything keeps happening. I want a pause too. Not forever. Now.”
+“I like my voice. I like shaving, which is stupid because I’ve cut my chin twice. I don’t want more chest growth. I don’t want another period. I want a pause too. Not forever. Now.”
 
 At the second consultation, the clinician listened to both recordings. She asked my sister whether “pause” still meant the monitored temporary course they had discussed. Then she asked me. Two yeses entered the same chart. Our mother scheduled the first follow-up before we left.
 
-The treatment was not a clean door shutting. Weeks later, our chest still pressed against the soft bra. My chin still needed shaving. Blood might come again before the clinician could tell whether the course was slowing anything. At school, strangers continued to pick one of us from a distance and misplace the other.
-
-But the mornings stopped feeling like a race against a body that had started without us.
+Weeks after the course began, our chest still pressed against the soft bra. My chin still needed shaving. Blood might come again before the clinician could tell whether anything had slowed. At school, strangers continued to pick one of us from a distance and misplace the other.
 
 At the sink in February, my sister set down the tweezers beside my razor.
 
@@ -320,15 +300,13 @@ At the sink in February, my sister set down the tweezers beside my razor.
 
 “You’ve got one.”
 
-“It’s one too many.”
-
 I leaned our weight toward the mirror while she plucked the dark hair above her lip. Her eyes watered.
 
 “Done,” I said.
 
 “I know.” She rinsed the tweezers. “Your turn.”
 
-She held our chin steady while I shaved. Halfway through, our mother called that the bus was in four minutes.
+She held my chin steady while I shaved. Halfway through, our mother called that the bus was in four minutes.
 
 “Five,” I called back.
 

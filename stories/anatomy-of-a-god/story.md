@@ -36,7 +36,7 @@ I had seen my stepsister do the same thing with a tray of soup. She had come hom
 
 *You’re laughing while you get it.*
 
-The man before me had no flour on his face and would not have improved with it. Still, the resemblance gave me a place to start. Not certainty. I had made that mistake before.
+The man before me had no flour on his face and would not have improved with it. Still, the resemblance gave me a place to start.
 
 I nudged one of the copper bowls with my heel. It skated over the tiles, ringing, and spilled rainwater across his path.
 
@@ -49,8 +49,6 @@ He moved fast once he chose a direction. His hand closed on the shoulder of my c
 “I only need the door.”
 
 “There is no door for you until you acknowledge whose house received you.”
-
-“This house tried to drown me through the ceiling.”
 
 I pulled the satchel toward me. He stamped on the trailing strap.
 
@@ -79,8 +77,6 @@ He followed without hurry at first. His bare feet made soft, deliberate sounds a
 “You came into my refuge,” he called. “You drew blood beneath my image.”
 
 There had been paintings on the hall walls. Damp had peeled most faces away, leaving crowns afloat over pale smears.
-
-“Is that who they were meant to be?” I asked.
 
 The steps turned sharply. I slipped around the central support and waited. When his shoulder appeared, I cast the recovery web over his arm, braced one heel against the stair, and pulled his wrist toward the opposite hip.
 
@@ -118,7 +114,7 @@ The man stopped on the last stair. He saw where I was looking.
 
 I tore a sound length of strap from the nearest frame. He came down fast.
 
-I ducked behind the brace. His fist split the upper rail where my head had been. The old wood gave way with a dry report. I caught the lower rail and drove the broken frame across his shins. He kicked through it; one upright glanced off his left hip. His right shoulder tightened after the hip had already taken the force, while his right knee corrected into the pull beneath his ribs. The delayed eye, the locked knee, the staggered response—none of it made my stepsister’s clean crossing. His repair carried load in offset pairs, overlapping instead of mirroring.
+I ducked behind the brace. His fist split the upper rail where my head had been. The old wood gave way with a dry report. I caught the lower rail and drove the broken frame across his shins. He kicked through it; one upright glanced off his left hip. His shoulder tightened only after the hip had taken the force, and the knee corrected a beat after that. The delayed eye, the locked knee, the staggered response: none of it made my stepsister’s clean crossing.
 
 Or I was frightened and inventing patterns because patterns were easier than death.
 
@@ -136,7 +132,7 @@ His grip tightened. He expected an office, a domain, a glorious name. I saw one 
 
 I drove my thumb into the knot already trembling under his renewed arm. The arm folded before the rest of him caught up. I dropped, left my coat in his hand, and ran through the low doorway at the end of the landing.
 
-The chamber beyond was round and warm. A mineral basin occupied its center, fed by a pipe that dripped cloudy water from the rock. Four iron supports leaned over it. Straps hung from them, better preserved by the damp than the frames outside. Against the far wall, a maintenance gate stood above a drainage channel. Rain showed silver through its slats—an exit, if the wheel would turn.
+The chamber beyond was round and warm. A mineral basin occupied its center, fed by a seep that ran cloudy down the rock. Four iron supports leaned over it. Straps hung from them, better preserved by the damp than the frames outside. In the far wall, a slatted iron shutter closed a low opening onto the mountainside, wide enough to bring in a stretcher. Rain showed silver through the slats. It was an exit, if the wheel that raised it would turn.
 
 I reached it and put both hands on the wheel. Rust flaked beneath my palms. It shifted one finger’s width, then stopped.
 
@@ -160,19 +156,19 @@ The man rose from the basin.
 
 “Last opportunity,” he said.
 
-His words came more slowly, perhaps because he had decided slow speech sounded merciful. His attention had sharpened. He was done displaying himself.
+His words came more slowly, perhaps because he had decided slow speech sounded merciful.
 
-I let go of the gate wheel. “All right.”
+I let go of the shutter wheel. “All right.”
 
 He waited.
 
-I lowered myself to one knee.
+I walked back to the basin and stopped at the rim beside the nearest support, across the water from him. There I lowered myself to one knee.
 
-Satisfaction altered his face before he could prevent it. He stepped out of the basin and came to stand over me. Water streamed from his clothes. His right foot landed close to my hand, his weight already committed forward.
+Satisfaction altered his face before he could prevent it. He stepped out of the basin and came around the rim to stand over me. Water streamed from his clothes. His right foot landed close to my hand, his weight already committed forward.
 
 I pulled the release pin from the nearest support.
 
-The iron arm dropped across his right shoulder. I rose under it, using my legs and his forward motion to drive him past me. He struck the basin rail. Before he could turn, I looped a broad strap behind that shoulder and clipped it to the rear support.
+The iron arm dropped across his right shoulder. I rose under it, using my legs and his forward motion to turn him past me, and he struck the basin rail. Before he could turn, I looped a broad strap behind that shoulder and clipped it to the rear support.
 
 He tore the clip free.
 
@@ -180,7 +176,7 @@ I had expected him to. The break dragged his shoulder backward while his left hi
 
 His renewal answered the strain. Heat struck my face.
 
-The line from his left hip to his right shoulder tightened first, trying to set both into one bearing posture. The fading injury at his right knee called the line beneath his ribs a beat later and turned his trunk against it. I pulled the remaining strap low across the basin, not around a joint but across the two slings, and fed it through the old floor ring.
+One of his lines tightened first, hip to shoulder, trying to set both into one bearing posture. The other answered a beat late from the half-mended knee and turned his trunk against it. I pulled the remaining strap low across the rim, over both slings, and fed it through the old floor ring.
 
 He reached for me. His fingers brushed my hair.
 
@@ -188,7 +184,7 @@ I threw my whole weight backward.
 
 The slings turned in opposite directions.
 
-He could have broken either one with ordinary strength. He tried. The right shoulder surged forward; the left hip followed; the half-mended knee asked him to shift back. His body corrected the correction. One foot stamped down and did not rise. His reaching hand stopped short of my throat.
+He could have broken either one with ordinary strength. He tried. The shoulder surged forward; the hip followed; the half-mended knee asked him to shift back. His body corrected the correction. One foot stamped down and did not rise. His reaching hand stopped short of my throat.
 
 The chamber filled with the smell of hot stone.
 
@@ -198,25 +194,25 @@ I kept both hands on the strap. It thrummed hard enough to numb my fingers. “H
 
 He heaved again. The iron supports groaned. A buckle tore halfway through its leather tab, then stopped when his strength vanished into another shudder.
 
-“My renewal.” He pulled once, weaker. “You stopped it.”
+“My renewal.” He pulled once, weaker. “You have stopped my renewal? You?”
 
 “Not for long.”
 
-He stared at the motionless hand in front of him. His mouth opened, but no sound came until he tried the hand again. “How?”
+He stared at the motionless hand in front of him and tried it again. “How?”
 
 I watched his breathing. Fast, but open. The strap had not crossed his throat or chest. Good.
 
-“Where I come from, regenerators aren’t rare.”
+“I don’t know what your trouble is,” I said. “But where I come from, regenerators aren’t rare.”
 
-His mouth tightened around the word as though I had called him livestock.
+“Regenerators. You would count me among common menders?”
 
-“My stepsister is one,” I added. “I guessed you’d be similar. You weren’t. Not quite.”
+“Hell, my stepsister is one. We know what to do with that kind of anatomy. I guessed you’d be similar. You weren’t. Not quite.”
 
 He tested the bind with a small turn of the shoulder. The strap hummed.
 
-“I am a god.”
+“What are you talking about?” His voice rang off the iron supports. “I am a god. I am a *god*.”
 
-“You keep saying that.” My grip slipped. I wrapped the loose end once around my forearm and leaned back. “Stop pulling.”
+“Well, you’ve got the ego of one.” My grip slipped. I wrapped the loose end once around my forearm and leaned back. “Stop pulling.”
 
 “Release me.”
 
@@ -224,9 +220,9 @@ He tested the bind with a small turn of the shoulder. The strap hummed.
 
 He fought the bind again. The right support lifted from the floor and slammed down. Heat poured from him, but there was nowhere for the effort to go except through the mismatched renewal. His legs buckled without letting him fall. The slings held him in a strained half-kneel at the basin’s edge.
 
-“You mistake the body for the being,” he said through his teeth.
+“You mistake the body for the being,” he said.
 
-“I’m working on the part that grabbed me.”
+The strap crept a finger’s width through my hands. I hauled it back and set my heel against the floor ring.
 
 His eyes found mine. For the first time since he rose upstairs, he was not performing for an invisible hall. He was measuring distance, buckles, my tired hands. Thinking. The change made him more dangerous and easier to predict.
 
@@ -236,15 +232,13 @@ His eyes found mine. For the first time since he rose upstairs, he was not perfo
 
 “And if I stop?”
 
-“Lie still. Let the heat come down. The straps loosen when your body quits choosing between the two positions.”
+“With my stepsister, it eased once she stopped fighting it. Lie still. Let the heat come down.”
 
 “You expect obedience.”
 
-“No. I’m telling you what happens next.”
-
 The damaged buckle gave a small, fibrous creak.
 
-He could keep fighting until the old leather failed. He might catch me before his next collapse. Or he could preserve his body by accepting stillness from a stranger who had already proved willing to stab him. Neither choice resembled worship.
+He could keep fighting until the old leather failed. He might catch me before his next collapse. Or he could preserve his body by accepting stillness from a stranger who had already proved willing to stab him.
 
 His hand closed by a fraction. Opened. At last he let his shoulder sink into the sling.
 
@@ -252,13 +246,13 @@ The strap went on vibrating for several breaths, then softened.
 
 I waited until his weight settled without another surge. Releasing my end too quickly could tighten the hip sling; leaving it wound around my arm meant he could drag me close if he changed his mind. I unwound one turn at a time.
 
-“Your people built this room for the aftereffects,” I said. It was not a question.
+“Your people built this room for the aftereffects,” I said.
 
 He looked toward the salt jars on the landing. “They feared imperfection.”
 
 Maybe they had. Maybe they had simply grown tired of catching him when the floor moved. I did not need his version before the road vanished.
 
-I secured the strap with the release buckle facing his free hand. He could reach it once the tremor passed. Then I took a cup from the shelf, filled it at the basin pipe, and set it on the rim near him.
+I secured the strap with the release buckle facing his free hand. He could reach it once the tremor passed. Then I took a cup from the shelf, filled it at the seep, and set it on the rim near him.
 
 He watched the cup instead of me.
 
@@ -266,24 +260,24 @@ He watched the cup instead of me.
 
 “It’s water.”
 
-I went upstairs for my things.
+I went upstairs for my things, picking my coat off the landing floor on the way.
 
 He did not call after me. In the audience hall, the rain had found new holes. It drummed on the scattered contents of my satchel, soaked the bandages, and washed his blood into the cracks between the tiles. I recovered the vials, the shears, and what dry wrapping remained. The broken knife I left beneath his painted faces.
 
-The outward doors still would not open. I returned to the recovery chamber and forced the maintenance wheel with the shears wedged through its spokes. Rust cracked. The gate lifted six inches, then nine, spilling cold rain over my boots.
+The bar across the outward doors had swollen into its brackets with the damp and would not lift. I returned to the recovery chamber and forced the shutter wheel with the shears wedged through its spokes. Rust cracked. The shutter lifted a hand’s width, then far enough to crawl under, and cold rain blew in over my boots.
 
 Behind me, the man remained still. Steam had stopped rising from his coat.
 
 “There are many of me?” he asked.
 
-The question was quieter than his other questions and less complete.
+His breathing had slowed to something I could count.
 
 I crouched by the opening and pushed my satchel through. “Many who mend. I don’t know if any of them are you.”
 
-His lips parted, then closed.
+His left eye found me. The right took longer.
 
-I slid under the gate and dropped onto the lower slope.
+I crawled under the shutter and dropped onto the lower slope.
 
 The ravine road had already flooded. Brown water covered the marker stones and shouldered branches against the bend. Going down would put me in the river before dark; going back through the sanctuary would put me in front of its owner before his hands steadied.
 
-Above the road, a goat track cut across the shale toward the ridge, narrow, exposed, and still passable. I shortened the satchel strap. Before the rain loosened it, I put my full weight onto the first slab and started up.
+Above the road, a goat track cut across the shale toward the ridge, narrow, exposed, and still passable. I shortened the satchel strap. Before the rain loosened the shale any further, I put my full weight onto the first slab and started up.

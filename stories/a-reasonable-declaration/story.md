@@ -18,7 +18,7 @@ At the second-floor landing, a woman behind a low partition looked up. Barnaby s
 
 "I gave my word."
 
-She looked at the damp slip. "This was your third appointment."
+She looked at the damp slip. "This is your third appointment."
 
 He set the sword beside the trolley with some care. His shoulder had begun to complain halfway up; his knee had been complaining since breakfast. There had been an excellent reclining chair in a shop window that morning, upholstered in plum velvet, with a handle that brought one's feet up. He had tested it. The proprietor had eventually come to check whether he was asleep.
 
@@ -40,13 +40,13 @@ He had expected to be offered a chair. After a moment he pulled one out himself.
 
 Fulvia sat too. Barnaby handed her his preliminary assessment. The total had been underlined twice. He had underlined it himself a third time before coming, so there could be no doubt about which part he objected to.
 
-"A hundred and forty-eight crowns," he said. "For things already mine."
+"A hundred and forty-eight crowns," he said. "For things already mine. I didn't have them off the district. I carried every one of them through places the district has never heard of, generally at a run, and I have carried them up and down stairs ever since without anybody once offering to help."
 
-"For retaining assessed artifacts in this district. You can correct the inventory today. Tomorrow there's a late charge."
+"You can correct the inventory today. Tomorrow there's a late charge."
 
 "I'm retired."
 
-"Yes. That doesn't change the inventory."
+Fulvia wrote the date at the top of a fresh inventory sheet.
 
 He took the chair envelope from his inside pocket and set it under his hand. Ninety crowns. The plain wool version cost sixty; the plum velvet cost ninety, and he had decided, after everything, that he deserved the plum.
 
@@ -60,7 +60,7 @@ She opened the first volume without consulting its contents. A pressed flower la
 
 Barnaby took his hand off the envelope.
 
-"The ascent?"
+"The ascent?" He sat forward. "People generally like the ascent. Eleven days on the face, and a night on a ledge no wider than this table, with the wind trying to have my boots off. The illustrator never did get the ledge. He drew a sort of balcony —"
 
 "The fight afterwards. Where you turn back."
 
@@ -88,7 +88,7 @@ She opened the other volume. Barnaby could tell from the ribbon that she had pre
 
 "Is this also the Last Argument?"
 
-"In the context of that expedition."
+"In the context of that expedition. The Red Verdict had been in the first book, and one can't very well have the same sword turn up in the second without some sign of growth."
 
 Fulvia looked from the blade to three of her cards. "You've given one sword three names?"
 
@@ -128,7 +128,7 @@ She closed the book halfway. He had answered too sharply. He pulled the sword ne
 
 "Still takes a charge from the wielder," he said. "Not much of one now. Keep your fingers clear."
 
-The line died when he released it. Fulvia entered the surviving function and counted four aliases against one blade. Barnaby sat back. The lace had long since been replaced, but he still disliked anyone touching it.
+The line died when he released it. Fulvia entered the surviving function and counted four aliases against one blade. Barnaby sat back.
 
 The cloak occupied three further cards: the Veil of Night, the Mantle of Unseen Steps, and the Widow's Shadow. Fulvia accepted the darn on its shoulder as evidence, though she spent some time looking for the widow in the index.
 
@@ -156,7 +156,7 @@ Fulvia leaned to her left.
 
 He attempted to show her. His knee made a sound, and he abandoned the demonstration, gripping the table while his head became solid again. Fulvia brought his chair round without comment, which he preferred to sympathy.
 
-When he had sat, she showed him the illustration. "They drew the cloak down to the floor."
+When he had sat and unfastened the clasp, she showed him the illustration. "They drew the cloak down to the floor."
 
 "They also gave me longer legs."
 
@@ -168,13 +168,13 @@ Fulvia didn't answer. She folded the cloak with its damaged lining outwards. Bar
 
 This was copper, much polished on the inside and green at the joints. Barnaby wore it on the cover of the second volume, although in the pictured incident he had been keeping it in a pocket because of the cold.
 
-"The Crown of Command," Fulvia said, with renewed pleasure.
+"The Crown of Command." Fulvia turned the second volume round so that he could see his own cover, as though he might have forgotten it. "This is the one my sister wanted framed. She never read past the cover till I made her, and then she read it twice and wouldn't give it back, and I had to go round on a Sunday and —" She stopped, looked down at her cards, and uncapped her pen.
 
-"Also the Voice of the Mountain and the Siege Chorus."
+Barnaby waited until she had found the right card. "Also the Voice of the Mountain, for the second half of the book, where it matters. And the Siege Chorus, for the chapter at the fort. That one was mine."
 
 "That makes ten entries accounted for." She copied the names. "What does it do, precisely?"
 
-"Carries your voice. You feed it a little power and it carries whatever you say. Through stone, if necessary. I used it to make the people in the fort think there were more of us."
+"Carries your voice. You feed it a little power and it carries whatever you say. Through stone, if necessary." He leaned back. "At the fort I needed the besiegers to think the pass was held. So I held it. I called the watches from the east wall and answered them from the west. I had a sergeant with a cough. I had a boy who kept asking when supper was. By the second night they were sending out to parley with a company of fifty."
 
 "How many were there?"
 
@@ -220,7 +220,7 @@ He could. He had forgotten the crack, and now hoped she would discover some usef
 
 "It works through walls."
 
-"It has lost all delicacy."
+"It has lost all delicacy. It used to put a whisper in one ear on the far side of a courtyard. You heard it just now. It's a town crier."
 
 "You called it the Siege Chorus."
 
@@ -230,7 +230,7 @@ The warming cup came wrapped in a pair of his socks. He hadn't polished it: he u
 
 Fulvia's books showed it in gold.
 
-"It is yellow," Barnaby pointed out, before she could speak.
+"It is yellow," Barnaby said, before she could speak.
 
 She put a fingertip against the side. "Cold."
 
@@ -240,21 +240,21 @@ He fetched tea from the office urn, returned with the cup, and warmed it with hi
 
 Fulvia tested it again. "Three crowns."
 
-"Three? It's a cup."
+"Three? It's a cup. It's clay with a chip in it. Whatever your illustrator thinks, there isn't a scrap of gold anywhere on it."
 
-"It's a cup that heats itself from a charge."
+She wrote the three down.
 
-"I do the work."
+"I do the work," he said.
 
 She waited with her pen above the paper. Barnaby took a sip. He had warmed it more than he intended, and could not pursue his objection until his tongue recovered.
 
-The lifting buckle was the Titan's Favor and the Giant's Hand. Together with its original braided strap, it had once enabled him to carry two injured people in succession up a broken stair. He put the cloak and circlet back in the trolley to give it some weight, then hooked the strap around the handle and supplied the buckle with power through his palm. The trolley became easy to lift but retained all its bulk. Bringing it round, he knocked a corner against the table and scattered the empty cards.
+The lifting buckle was the Titan's Favor and the Giant's Hand. Together with its original braided strap, it had once enabled him to carry two injured people in succession up a broken stair. He put the cloak and circlet back in the trolley to give it some weight, then hooked the strap around the handle and supplied the buckle with power through his palm. The trolley became easy to lift but retained all its bulk. Bringing it round, he knocked a corner against the table and scattered the cards.
 
-Fulvia retrieved them while he lowered it. Four crowns.
+Fulvia retrieved them while he lowered it, and wrote four crowns.
 
-"Can't you allow something for the noise?" he asked.
+"It does nothing about the size," he said. "You saw."
 
-"From hitting my table? No."
+She squared the cards against the edge of the table and set them back in their places.
 
 The spectacles had three names too: Eyes of the Deep, Lanternless Sight, and Scholar's Salvation. One lens was held in with wire, the other with a dreadful hard paste he had never managed to remove. By feeding the frames a little of his power he could read in the dark, although he had to tilt his head to keep the two halves of each line aligned. Fulvia tested them under her desk, directing her own power through the frames, and emerged with a gray smudge on her sleeve.
 
@@ -280,7 +280,7 @@ It came back to him with unnecessary sharpness: the white seam in the abandoned 
 
 Fulvia tilted the disk toward the window. "Can it open anything now?"
 
-"No. The living seam marked it. The Witness closed it after I returned. It only ever held that route, and the route's finished."
+"No. The Witness closed it."
 
 She put it back in its sleeve. "No precious metal. No remaining function. Nil."
 
@@ -322,7 +322,7 @@ He waited for another annotation. She made none. Instead she turned forward to a
 
 He bent over the additional sheet. At least she was pursuing the illustrator now.
 
-It took the rest of the hour to fit nineteen names onto seven descriptions. Fulvia rejected his first signature because it crossed the box reserved for her stamp. He used the ordinary small one that he signed letters with. He declared that he had listed all retained artifacts, including those of no assessable value, and she passed the whole inventory back for him to check.
+It took most of the hour to fit nineteen names onto seven descriptions. Fulvia rejected his first signature because it crossed the box reserved for her stamp. He used the ordinary small one that he signed letters with. He declared that he had listed all retained artifacts, including those of no assessable value, and she passed the whole inventory back for him to check.
 
 The sword was nine crowns. Cloak two, circlet six, cup three, buckle four, spectacles two, token nothing. Twenty-six in total. Fulvia canceled the preliminary bill, entered the corrected assessment, and turned it so he could see both figures.
 

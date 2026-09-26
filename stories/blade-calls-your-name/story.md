@@ -10,7 +10,7 @@ canon: false
 
 The blade called Odmara's name through the soles of her boots.
 
-She felt the first syllable in the guild hall's iron gallery: a low double knock under the chatter of chainwrights putting away tools. The second climbed the railing into her palm. Across the room, above the long rack of service keys, red light moved inside a blade that had been dark for six years.
+She felt the first syllable in the guild hall's iron gallery, where she had come to collect payment on a run of gate chain: a low double knock under the chatter of chainwrights putting away tools. The second climbed the railing into her palm. Across the room, above the long rack of service keys, red light moved inside a blade that had been dark for six years.
 
 Mica seams divided its black length into narrow scales. They lit one after another, making the old work-script.
 
@@ -20,7 +20,7 @@ The blade could not know she was there. It had no eyes, no will, and no notion t
 
 Registrar Yevet reached the rack first. “Clear the rail. Everyone.”
 
-“It has dust in the back plate,” Felrin said. He was already rolling up his right sleeve. “A contact has crossed.”
+“It's the back plate,” Felrin said to the room. He was already rolling up his right sleeve. “Every wet season a contact crosses, and the rack throws up whatever it last stored. Give me a moment and I'll have it clear.”
 
 Odmara kept her hand on the railing. The pulse came again, two beats at the O, a scrape through the M, then three close taps where the final A should have ended cleanly. She knew that damaged rhythm. She had put it into an anchor by lanternlight while rainwater ran down both wrists.
 
@@ -46,81 +46,73 @@ Yevet looked from the blade to Odmara. “Is that a claim of workmanship?”
 
 “That wasn't my question.”
 
-“Then ask it after we know what needs maintaining.”
+Felrin reached again. Odmara left the railing, crossed the gallery in five strides and caught his wrist below the rack. The old habit of obeying him arrived half a breath late and found her hand already closed.
 
-Felrin reached again. Odmara caught his wrist. The old habit of obeying him arrived half a breath late and found her hand already closed.
+“If you answer with the wrong pattern,” she said, “the blade will show only the witness layer. It won't show the cut.”
 
-“If you answer with the wrong pattern,” she said, “the key will show only the witness layer. It won't show the cut.”
+Felrin did not pull free. He spoke past her, to Yevet. “Registrar, whatever was or wasn't done six years ago, she holds no mark in this hall. A key under guild seal isn't handled by anyone without one, and I'd say the same to any of my own apprentices.”
 
-“You haven't worked this hall since you left.”
+Odmara kept her grip.
 
-“And you haven't answered it yet.”
-
-The outside door struck its stop. Kosca came in wearing the quarry lift's blue shoulder sash, one end dark with brake water. She did not waste time on the gathered chainwrights.
+The outside door struck its stop. Kosca came in wearing the quarry lift's blue shoulder sash, one end dark with brake grease. She did not waste time on the gathered chainwrights.
 
 “West rail is singing,” she said. “The full counterweight comes down at deep bell.”
 
-Yevet opened the shutter enough to read the water clock. “Thirty-eight minutes.”
+Yevet opened the shutter enough to read the hall clock. “Thirty-eight minutes.”
 
 “Thirty-four before I need the lower route empty.” Kosca looked at Odmara, then at the name on the blade. “There you are.”
 
 Odmara heard the six-year-old rain in those three words.
 
-Felrin heard something else. “You knew?”
+“Captain,” Felrin said, “the registrar has this in hand. It's a guild key and a guild record, and neither of them is a lift matter.”
 
-“I knew whose hammer I was holding a lantern for.” Kosca hooked two fingers toward the service stairs. “Argue while walking.”
+“It's my lift on that rail.” Kosca hooked two fingers toward the service stairs. “Argue while walking.”
 
-Yevet took the rack key from her belt. “The blade remains guild evidence.”
+Yevet took the rack key from her belt. “The blade stays guild evidence until the ledger is settled.”
 
-“It remains useful,” Odmara said. “Unlock it.”
+“It has to be seated at the anchor before it will show a cut,” Odmara said. “Up here it can only tell you something is wrong.”
 
-The registrar considered the red script, then set both hands to the rack. “Felrin, right guard. Odmara, do not take the hilt.”
+The registrar considered the red script. “Then it goes down under witness.” She set both hands to the rack. “Felrin, right guard. Odmara, left, and do not take the hilt.”
 
 Felrin's mouth tightened, but he obeyed. With two people holding the guard, Yevet turned the key. The clamps opened. The blade stayed where it was until Kosca slipped a carrying bar through the guard and took one end.
 
-It did not leap for Odmara. It did not point. Freed from the rack, it merely carried her name in red mica and gave the iron bar a tired, repeating hum.
+Freed from the rack, it merely carried her name in red mica and gave the iron bar a tired, repeating hum.
 
 Together they carried it down.
 
-The lower works of Hearthchain hung under the guild hall like the ribs beneath a ship. Stairs switchbacked along the cliff, past chain combs thick as doorways and water pipes sweating into the evening air. Below, roofs crowded the suspended terrace. Supper smoke lay flat over them. Farther out, the quarry lift's cage waited above the dark cut in the mountain, and its counterweight showed as a block of stone and iron high in the opposite shaft.
+The lower works of Hearthchain hung under the guild hall like the ribs beneath a ship. Stairs switchbacked along the cliff, past chain combs thick as doorways and hanger lines tarred black against the weather. Below, roofs crowded the suspended terrace. Supper smoke lay flat over them. Farther out, the quarry lift's cage waited above the dark cut in the mountain, and its counterweight showed as a block of stone and iron high in the opposite shaft.
 
 At the first control landing, Kosca braced her end of the bar against the wall.
 
 “No load first,” Odmara said.
 
-“I can float the guide for eight counts,” Kosca said. “After that the west brake takes water.”
+“I can float the guide for eight counts,” Kosca said. “After that the west brake starts to smoke.”
 
 “Six is enough.”
 
-Yevet held up her slate. “What will that establish?”
+Felrin turned to Yevet, who had her slate out. “You'll see it go dark. Take the lift off the guide and the railings stop humming, and a crossed contact has nothing left to repeat. I've watched a key do this three wet seasons running.”
 
-“Whether the rack is lying,” Felrin said.
-
-Odmara crouched beside the landing rail. “Whether the signal comes from the lift load or the terrace hang. Different question.”
+Odmara crouched beside the landing rail and laid her fingers on it.
 
 Kosca was already at the brake wheel. “Lower stairs clear?”
 
 Yevet leaned over the inner rail. “Clear below!”
 
-An answering call climbed from landing to landing. Kosca waited for the last one, then cracked the bypass. Water hammered through a side pipe. For six counts, the guide chain slackened.
+An answering call climbed from landing to landing. Kosca waited for the last one, then eased the wheel a quarter turn. Somewhere below, a ratchet clattered free. For six counts, the guide chain slackened.
 
 The red name vanished from the blade.
 
 Felrin exhaled as if acquitted.
 
-Then the carrying bar trembled in Kosca's grip. One thin vibration continued through the landing rail, too high to hear and impossible for Odmara to mistake through her fingertips.
+Then the carrying bar trembled against the wall where Kosca had braced it. One thin vibration continued through the landing rail, too high to hear and impossible for Odmara to mistake through her fingertips.
 
 “West-nine,” she said.
 
-“There are twelve west anchors,” Yevet said.
+Felrin put two fingers to the rail. “Eight took the worst of the second expansion. With the guide floating, eight is where I'd start, and so would any master in this hall.”
 
-“Only nine shares that overtone with the lift guide.”
+He kept his fingers there. The note under them stayed high and thin. Eight rang flat when the guide floated; he had taught her that himself, on this landing. He took his hand away.
 
-Felrin put two fingers to the rail. “Or eight, after the second expansion.”
-
-“Eight rings flat when the guide is floating.”
-
-Kosca shut the bypass. The pipe thumped silent; the guide took weight. Red strokes crawled back into the mica.
+Kosca spun the wheel back. The ratchet caught; the guide took weight. Red strokes crawled back into the mica.
 
 “Thirty-one minutes,” Kosca said. “Pick a stair.”
 
@@ -136,15 +128,11 @@ One of them glanced at the glowing blade. “Captain, is it naming who broke it?
 
 He moved.
 
-Yevet wrote on her slate as they continued. “Six years ago. West-nine. Emergency entry?”
+Yevet wrote on her slate as they continued. “West-nine, six years ago. Entered under Felrin's mark: full replacement of the ninth flexible link, inspected and closed. No emergency record attached.” She looked up at him. “Account for the entry.”
 
-“There wasn't one,” Odmara said.
+Felrin's hand shifted on the carrying bar. “The storm had opened three hangers on the west side. With nine failing as well, that side of the terrace was hanging on eight lines of twelve, in wind, with people asleep under it. Anyone who worked that night will tell you the same.”
 
-“There is an entry. Felrin, full replacement of the ninth flexible link, inspected and closed.”
-
-Felrin's hand shifted on the carrying bar. “The storm had opened three hangers. We could not leave the terrace on eight.”
-
-“That explains urgency,” Yevet said. “It doesn't explain a false completion.”
+Yevet wrote. “Storm damage, three hangers. Entry states replacement completed.” She kept the chalk raised.
 
 “It was intended to be completed.”
 
@@ -156,43 +144,39 @@ Yevet's chalk paused. “Under which work-name?”
 
 “This one.” Odmara tapped the rail when it pulsed again. “I'd claimed it nine days before.”
 
-At the time, the guild had still carried her childhood name in its apprentice book. Felrin had said a new engraving required a master's petition. Odmara had engraved her own name on the blade's mica strip with the tip of a broken awl.
+At the time, the guild had still carried her childhood name in its apprentice book. Felrin had said a new engraving required a master's petition. Odmara had engraved her own name on the blade's mica strip with the tip of a broken awl. A stored pattern stayed in the mica until someone demonstrated the replacement and the old worker released it by hand. In six years nobody had come to her for the release.
 
 “Two witnesses held the guard?” Yevet asked.
 
 “I did,” Kosca said. “Felrin did. She hammered.”
 
-Yevet turned to Felrin. “And you marked the repair as yours.”
+Yevet turned to Felrin. “And you entered the repair as yours.”
 
 “An apprentice's unregistered name would have voided the work.”
 
 “Her work held the terrace,” Kosca said.
 
-“Which is why I put my mark over it.” Felrin's answer came quickly, almost in his old teaching cadence. “An emergency authorization. The only one the lower wardens would accept. I ordered new stock the next morning.”
+“Which is why I put my mark over it.” Felrin's answer came quickly, almost in his old teaching cadence. “The lower wardens would pass a master's completed replacement without a second inspection. On an apprentice's temporary splice they would have condemned the west rows before the rain stopped, and there was nowhere to put those families at night. So I entered it finished. I ordered new stock the next morning.”
 
 “You promised to replace it,” Odmara said.
 
 “I know what I promised.”
 
-“Do you know where the stock went?”
+“Did it ever come?”
 
 He did not answer before Kosca cut in. “Twenty-six minutes. Lamp.”
 
-Yevet passed it forward. Odmara took it, though she had asked no one for light. She had been listening for Felrin to deny the promise and had nearly walked past the west-nine door.
+Yevet passed it forward. Odmara took it, though she had asked no one for light. She had been waiting for his answer and had nearly walked past the door to the west comb.
 
 The anchor chamber was a slot in the cliff, hot with trapped metal smell. A chain as broad as Odmara's chest entered through the floor and divided over an iron comb set into the mountain. Twelve teeth held twelve hanger lines. The ninth line quivered hard enough to rattle scale from the wall.
 
-The splice lay behind the comb where she remembered it, dull spring bands wrapped around the old eye. Six years of grease had blackened everything evenly. Nothing in the room announced guilt. Loads did not care what the ledger said.
+The splice lay behind the comb where she remembered it, dull spring bands wrapped around the old eye. Six years of grease had blackened everything evenly. Nothing in the room announced guilt.
 
 They set the service blade on trestles. Its point was squared, its back toothed for shaving anchor shoulders. It had once been part of a sky-iron quarry saw; the old alloy ran pale through newer spring steel, and red mica filled the forge seams. Three materials and a century of repairs lay under Odmara's hand.
 
-Felrin examined the splice with a probe. “No separation.”
+Felrin examined the splice with a probe. “No separation. The bands are tight and the lap is clean. I've seen new eyes in worse order after six years.”
 
 “Not at rest,” Odmara said.
-
-“I can read a joint.”
-
-“Then read it under load.”
 
 Kosca set her shoulder to the speaking tube. “Control, give me one-eighth on west guide. Hold lower cage.”
 
@@ -216,17 +200,15 @@ Yevet wrote, then stopped. “So the defect comes from your method.”
 
 “From leaving the method in service,” Felrin said.
 
-The precision of that surprised Odmara more than denial would have.
-
 Kosca knocked the speaking tube twice. “Take the load off. Twenty-one minutes.”
 
-Yevet studied the bright crescent. “Workmanship sound. Authorization false. Replacement omitted. Consequence transferred to an adjacent part.” She rubbed out three words on her slate and wrote again. “I will need separate lines.”
+Yevet studied the bright crescent. “Workmanship sound. Completion entered falsely. Replacement omitted. Consequence transferred to an adjacent part.” She rubbed out three words on her slate and wrote again. “I will need separate lines.”
 
 Felrin looked at Odmara. “Let me seat the blade.”
 
 “Why?”
 
-“My mark authorized the repair. If the witness layer accepts it, we may get the cut path without making this a claim on you.”
+“My mark is on the entry. If the witness layer accepts a master's mark, and it has accepted mine on older work than this, we may get the cut path without any of this landing on you.”
 
 She wanted that to be possible. Wanting it made her suspicious.
 
@@ -240,7 +222,7 @@ The mica lit amber at both edges. Witness colors. A shallow red groove appeared 
 
 “No cutting path,” Odmara said.
 
-“The lower section is faint.” Felrin leaned his weight into the hilt.
+“The lower section's only faint. On an old seat the witness layer sometimes wants a little weight before it closes.” Felrin leaned his weight into the hilt.
 
 The blade gave a dry snap. A black chip jumped from the mouth of the slot.
 
@@ -250,11 +232,9 @@ Felrin stared at the chip. His face had gone grey under the chamber lamp.
 
 Yevet picked it up and placed it on her slate. “Attempt by authorizer. Incomplete response. Damage to seat.”
 
-“We don't have time for your categories,” Felrin said.
+“It was faint,” Felrin said. “It only wanted a little weight.”
 
-“We have damage because you ignored one.”
-
-“Both of you, space.” Odmara knelt at the slot. “Lamp lower.”
+Odmara knelt at the slot. “Give me room. Lamp lower.”
 
 Kosca lowered it. The chip had come from a sacrificial lip, not the comb itself. Repairable, if nobody forced the blade again.
 
@@ -274,19 +254,17 @@ Odmara did not speak her name. The blade already held the label. She answered wi
 
 Red light ran from her palm to the point. Her name appeared once across the mica. Below it, two cutting grooves shone side by side.
 
-Felrin bent closer. “The inner groove follows the old eye.”
+Felrin bent closer. “Inner follows the old eye.”
 
-“It did six years ago.”
-
-“Then the outer is ten.”
+Odmara traced the outer line a finger's width above the mica. “This one runs toward ten.”
 
 Yevet said, “Which one is valid?”
 
-Odmara looked at the two lines. Changed cable tension had folded the old reading over the new fault. The blade repeated stored strain. It did not choose between them.
+Odmara looked at the two lines. Changed cable tension had folded the old reading over the new fault. The blade repeated stored strain.
 
 “I don't know yet.”
 
-Kosca's mouth was at the tube again. “Seventeen minutes. Lower rows are clear. I can bleed the west brake and buy five more, but then I can't stop the terrace lift during evacuation.”
+Kosca's mouth was at the tube again. “Seventeen minutes. Lower rows are clear. I can ride the west brake and buy five more, but then I can't stop the terrace lift during evacuation.”
 
 “Don't spend it,” Odmara said. “Give me the lamp shutter.”
 
@@ -296,13 +274,15 @@ At no load, the inner groove dimmed. At one-eighth, both returned. When Felrin i
 
 “Outer,” she said. “We shave ten. The splice stays.”
 
-Felrin's head came up. “If we cut the shoulder without unloading nine, the tooth may kick.”
+Felrin's head came up. “Nine loaded, the tooth kicks when the shoulder goes.”
 
-“We unload it too far and ten snaps back against the comb.”
+“Take nine off and ten springs back against the comb,” Odmara said. “It leaned when Kosca floated the guide. I felt it through my knee.”
 
-“A wedge before the cut.”
+“Wedge them first.”
 
-“A wedge won't seat while they're touching.”
+“There's no gap for a wedge. Put your nail in there.”
+
+He tried along the whole bright crescent. His thumbnail would not go in anywhere.
 
 Kosca broke in. “I can pulse the load. Quarter, eighth, quarter. Tell me where you want the gap.”
 
@@ -320,9 +300,11 @@ That would look like instruction. Master and apprentice, restored by posture bef
 
 “No.” Odmara stood. “Felrin, you take the wedge and the seat. On the joint, not behind me. Kosca owns the load and the right guard. Yevet, left guard and record. I'll take the blade.”
 
-Yevet hesitated. “The key records one work-name.”
+Yevet hesitated. “The blade records one work-name.”
 
-“Your slate has room for four kinds of work. If you're going to write this as mine alone, take your hand off now.”
+“Then write the other three on the slate before we start,” Odmara said.
+
+Yevet looked down at the slate, where her own rubbed-out words still showed. She ruled three lines beneath the heading and chalked a word beside each. “Authorization. Load. Seat,” she said. “Entered before the cut.”
 
 The chamber gave a low shiver. Dust came down from the lintel.
 
@@ -332,21 +314,21 @@ Felrin chose one from the wall case and offered it to Odmara.
 
 She shook her head. “Fit it.”
 
-He tested it against the gap, filed one corner, tested again. His explanations had left him. He spoke in material and measure now. “Too proud by two hairs.”
+He held it to the crescent, filed one corner, held it there again. “Too proud by two hairs.”
 
 “One,” Odmara said.
 
 He filed once more. “Ready.”
 
-Yevet put down the chalk and gripped the left guard. Kosca closed her free hand around the right, pinning the speaking tube against her shoulder. “I am witnessing a joint operation,” Yevet said. “Authorization, load, cut, and seating recorded separately.”
+Yevet put down the chalk and gripped the left guard. Kosca closed her free hand around the right, pinning the speaking tube against her shoulder. “I am witnessing a joint operation,” Yevet said.
 
-“Good,” Odmara said. “Hold.”
+Odmara closed her hand on the hilt. “Quarter.”
 
-Kosca drew breath. Through the speaking tube: “Quarter.”
+Kosca drew breath and sent it down the speaking tube. “Quarter.”
 
 The chamber tightened around them. Nine drew outward. The bent tenth tooth pressed hard enough to squeal.
 
-“Eighth.”
+“Eighth,” Odmara said, and Kosca's voice went down the tube after hers.
 
 For an instant the bright crescent opened into a gap.
 
@@ -356,9 +338,9 @@ Felrin drove the wedge halfway. The gap caught it.
 
 Kosca relayed the order. The load came on in a rising growl. Felrin's forearm shook, but he kept the wedge square.
 
-Odmara seated the blade against the outer red groove. She did not swing it. She drew its toothed back across the jammed shoulder in one short stroke. Sky-iron sang against iron. Red mica flared with the pattern in her palm.
+Odmara seated the blade against the outer red groove and drew its toothed back across the jammed shoulder in one short stroke. Sky-iron sang against iron. Red mica flared with the pattern in her palm.
 
-“Eighth.”
+“Eighth,” she said. Kosca relayed it.
 
 The gap opened. Felrin struck once. The wedge moved to its mark.
 
@@ -382,17 +364,15 @@ Odmara felt the blade's red pattern sharpen. Her name burned clean across it, th
 
 Felrin said, “Seat is holding.”
 
-No precedent. No explanation. Just his hand and what it touched.
-
 “Fourth,” Kosca called.
 
-The full counterweight descended. The terrace groaned beneath the cliff, a great working sound that passed through rails, floors, pipes, and the bodies of everyone who had not yet evacuated. Then the loads settled. The ninth splice held. The tenth tooth stood clear. The sacrificial lip kept its small new chip and no more.
+The full counterweight began its long descent. The terrace groaned beneath the cliff, a great working sound that passed through rails, floors, shutters, and the bodies of everyone who had not yet evacuated. Then the loads settled. The ninth splice held. The tenth tooth stood clear. The sacrificial lip kept its small new chip and no more.
 
 Kosca waited three breaths. “Stable.”
 
 Only then did Yevet and Kosca release the guard.
 
-The blade continued to show ODMARA. The alarm had cleared from the railings, but the stored work label remained bright in the mica. A repair was not closed until someone demonstrated the new pattern and the prior worker released the old one.
+The blade continued to show ODMARA. The alarm had cleared from the railings, but the stored work label remained bright in the mica.
 
 “I can do the sequence,” Felrin said.
 
@@ -400,7 +380,7 @@ Odmara looked at him.
 
 He swallowed the rest. “Kosca controls this load.”
 
-Kosca handed the speaking tube to Yevet and wiped brake water from her palm. “Fine hammer.”
+Kosca handed the speaking tube to Yevet and wiped brake grease from her palm. “Fine hammer.”
 
 Odmara gave it to her. Kosca seated the blade again, called for eighth-load, then no-load, then quarter. She tapped once at each change, not Odmara's old repair rhythm but the new path through nine and ten. The mica answered with straight red strokes. At the last tap, Kosca scratched her work-name into a fresh strip at the hilt.
 
@@ -420,7 +400,7 @@ Odmara set her thumb over the cramped A engraved six years before. Felrin and Ye
 
 “Release the Odmara pattern,” Yevet said.
 
-The mechanism required the prior worker's voluntary hand on the name strip. That was all. It could not know whether she forgave, whether she belonged, or whether the name still fit. It knew pressure, contact, and the sequence the builders had given it.
+The mechanism required the prior worker's voluntary hand on the name strip. That was all. It knew pressure, contact, and the sequence the builders had given it.
 
 Odmara pressed the release stud beneath the mica.
 
@@ -434,20 +414,10 @@ Kosca let out a breath. “People can go home in twelve minutes if the second re
 
 “I said go home. I didn't say sleep.”
 
-Yevet tore a temporary tag from her book. “Performer field.”
-
-“Fields,” Odmara said.
-
-Yevet glanced at the slate and ruled three extra lines. “Cut and diagnosis. Seat. Load.”
-
-“And authorization,” Felrin said.
-
-“That already has its own line.” She tied the tag to the tenth tooth, well clear of the chain. “Guild membership?”
+Yevet tore a temporary tag from her book and tied it to the tenth tooth, well clear of the chain. “Guild membership?”
 
 Odmara pulled off her scorched glove. “No.”
 
 Felrin kept his eyes on the wedge. “Independent chainwright.”
 
 Yevet wrote it exactly.
-
-Above them, the blade waited in Kosca's hands, its mica seams dark. Through the railing came the ordinary diminishing rumble of the quarry counterweight, with no name inside it.

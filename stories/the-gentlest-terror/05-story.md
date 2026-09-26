@@ -125,7 +125,7 @@ asked.
 Lord Ruvik bowed to her before he answered Nyrzath. "We cleared her molting
 ground, rebuilt the upper cisterns, and greased every gate."
 
-"You missed three."
+"You missed three," said Larkspur.
 
 "Two."
 
@@ -134,8 +134,7 @@ new form."
 
 The court laughed. Even Lord Osric almost did.
 
-Larkspur breathed over the scale. It warmed in Lord Ruvik's palms, the heat
-coming from a living will rather than the bit of scale itself.
+Larkspur breathed over the scale. It warmed in Lord Ruvik's palms.
 
 "Asked first," Nyrzath said.
 
@@ -168,15 +167,12 @@ The word was quiet. It struck harder than Nyrzath's roar.
 Lord Osric stepped near Olyra. "The convocation cannot proceed past an
 unwitnessed house. Your royal renewal cannot be confirmed."
 
-"The founding order provides for refusal."
+Olyra was still looking at Mossback. "He can refuse, though. Can't he? The
+founding order—"
 
-"It provides for private petition and repair. Not spectacle. If one house may
+"Provides for private petition and repair. Not spectacle. If one house may
 humiliate the crown before every alliance in Ersene, others will discover
-grievances before sunset."
-
-"They may have them already."
-
-"Then do not teach them that refusal is easy."
+grievances before sunset. Do not teach them that refusal is easy."
 
 Duchess Yselle's hands fell. "Mossback is agitated. The Grief-Clad can remind
 him what this gathering requires."
@@ -193,7 +189,7 @@ mouth, and every person in the first gallery leaned away as one.
 This was what the crown had kept polished: not Nyrzath, but the instant before
 people obeyed him.
 
-Olyra could finish the performance with four words. *Make him renew the vow.*
+Olyra could finish the performance with five words. *Make him renew the vow.*
 
 Nyrzath lowered his tusked face until his scarred eye was level with
 Mossback's.
@@ -222,10 +218,10 @@ Duchess Yselle turned on him. "We discussed an adjustment."
 
 "You watch our lands. You owe us protection."
 
-"And you owed the nest protection from your work."
+"My clutch is lying on top of your cut."
 
-Nyrzath looked to Olyra. He had entered in horror. He had made truth possible
-by refusing to use it.
+Nyrzath looked to Olyra and waited, his head still lowered to Mossback's
+level.
 
 Olyra felt her throne shift beneath feet that had not yet reached it.
 
@@ -272,8 +268,8 @@ renewal failed, the assembled houses could choose another heir. If the
 convocation dissolved in panic, every disputed obligation in Ersene might go
 with it. King Ambric had feared that fracture. Lord Osric feared it now.
 
-Olyra feared it enough that she understood how easily love became a mask one
-made another person wear.
+Olyra's hand had gone to her collar again, to the scale that no longer
+answered anyone.
 
 She stepped onto the witness stone.
 
@@ -293,16 +289,16 @@ Duchess Yselle made a small sound of disbelief.
 
 The frost melted from her knuckles. Her old focus stopped smoking and dulled
 in her palm. With Mossback's refusal witnessed whole, it could no longer carry
-either person's call or draw heat from either body. His exit was not a
-courtesy granted in words and denied in flesh.
+either person's call or draw heat from either body.
+
+Mossback left before it had finished cooling. He shouldered out through the
+west arch into the storm without a word to anyone.
 
 "And your accession?" Lord Osric asked.
 
-"Will begin where every alliance was meant to begin."
-
-Olyra unclasped the old scale from her neck and set it on the witness stone.
-Then she held out empty hands to the largest, most frightening creature in the
-kingdom.
+Olyra did not answer him. Her fingers fumbled twice at the clasp before the
+old scale came free of her neck, and she set it on the witness stone. Then she
+held out empty hands to the largest, most frightening creature in the kingdom.
 
 "Nyrzath. Before crown or court, will you choose an alliance with me?"
 
@@ -327,8 +323,6 @@ that could turn rain to steam. Warmth spread into her hands.
 
 Together, they said, "Witnessed whole."
 
-The scale became only a focus, not a will. The choice remained theirs.
-
 Nyrzath crouched and opened one foreclaw before Olyra. She stepped into it.
 
 "The swallow," she warned.
@@ -337,7 +331,8 @@ Nyrzath crouched and opened one foreclaw before Olyra. She stepped into it.
 
 "Then keep your head level."
 
-The roof groaned as he spread his wings.
+The west arch groaned as he squeezed through it and spread his wings in the
+rain.
 
 "I had intended," he said, and launched them into the storm.
 
@@ -349,9 +344,10 @@ Water pressed behind a cracked wall of cut stone and rubble. Below it, the
 valley villages huddled beneath rain. Above it, the northern nesting ledge had
 split, exposing a dark seam into the cavern where Mossback's clutch lay.
 
-Nyrzath landed hard enough to sink ankle-deep in mud. Mossback swept down
-beside him, smaller by half in every measure, and Larkspur landed beyond them
-with Lord Ruvik clutched in the careful curl of one forefoot.
+Nyrzath landed hard enough to sink ankle-deep in mud. Mossback was already
+there, dragging spoil away from the foot of the nesting ledge. Beside Nyrzath
+he looked smaller by half in every measure. Larkspur landed beyond them with
+Lord Ruvik clutched in the careful curl of one forefoot.
 
 The dragons had spent several minutes tracing the cracks by the time Duchess
 Yselle's quarry cart completed its slower journey from court. She arrived
@@ -375,8 +371,7 @@ then shook his head.
 "The clutch lies behind the center cut."
 
 He knew the distance because he remembered where Mossback had nested, where
-each egg had lain when he sent six blue roof tiles as gifts. His softness had
-kept a map no military survey possessed.
+each egg had lain when he sent six blue roof tiles as gifts.
 
 Another crack ran down the wall.
 
@@ -387,7 +382,9 @@ Duchess Yselle stared at him. "It was sealed when we deepened the quarry."
 "Neglected," Mossback said. "Not sealed. The gate is inside a service
 passage. Human-width."
 
-They all looked at Olyra.
+Duchess Yselle looked at the spoil heap and said nothing.
+
+"I'll fit," Olyra said. "Show me where it is."
 
 The eastern channel led toward the Cress hills. Toward the cisterns Larkspur's
 alliance maintained.
@@ -404,7 +401,6 @@ He called through the focus. Heat vanished from both of them; Lord Ruvik
 doubled over, breath smoking, while Larkspur's wings shuddered. She answered
 by launching toward the hills. There, she could release the stored water down
 the orchard channels, emptying the cisterns to receive the diverted flood.
-Neither command nor scale moved her. She moved herself.
 
 Nyrzath examined the cracking wall. "If I brace here, the center may hold
 until the sluice opens."
@@ -418,18 +414,16 @@ Olyra saw it. So did he.
 
 "Nyr—"
 
-"The wall will not be persuaded by my appearance."
-
 He looked toward the exposed nesting seam, then toward the villages.
 
 "Go."
 
 Nyrzath drove his shoulder beneath the overhang.
 
-Stone boomed against black plates. His wings spread along the wall, not in
-threat but as a living brace. The whole quarry seemed to lean upon him. He
-grunted, masonry-failure voice reduced to one rough breath, and the left wing
-buckled without breaking.
+Stone boomed against black plates. His wings spread flat along the wall,
+propping it. The whole quarry seemed to lean upon him. He grunted,
+masonry-failure voice reduced to one rough breath, and the left wing buckled
+without breaking.
 
 Mossback led Olyra to a narrow opening half hidden by spoil. He could not fit
 past the first bend. He thrust his head into the gap until lichen scraped from
@@ -498,20 +492,13 @@ Mossback's claw closed around the back of her coat and hauled her through the
 gap he had made. They landed in the quarry mud as the diverted flood burst from
 the old outflow and raced toward the Cress hills.
 
-Far off, three cistern gates opened in succession. The first clean surge
-flashed silver through the orchard channels. The second made space. The third,
-the little eastern gate, shrieked exactly like Lord Osric considering a new
-form.
+Lord Ruvik knelt at the edge of the quarry with Larkspur's scale clasped in both
+hands. Olyra watched him call, and call again. Frost climbed his sleeves to the
+elbow, and after the fourth call he could not get up without help. Away east,
+the roar of the running water changed pitch, then steadied, as though
+something far off had opened wide enough to take it.
 
-Then the brown flood reached them.
-
-The emptied cisterns swallowed the first violent rush. Larkspur flew low over
-the channels, wrenching debris free with her claws, answering Lord Ruvik's
-repeated calls until frost dulled her green-and-violet scales and he could no
-longer stand without help. Each chose the cost again because each knew what
-the other was asking.
-
-At the quarry, pressure came off the wall.
+Pressure came off the wall.
 
 It did not come off quickly enough.
 
@@ -525,12 +512,12 @@ Even half buried, Nyrzath snapped his jaws through the falling rubble.
 
 For one sick instant Olyra thought the swallow was gone.
 
-Then Nyrzath closed his mouth without biting and settled his tusked chin into
-the mud. The wall held. Behind his shoulder, Mossback reached the nesting seam
-and called into the dark. Small answering chirps rose from the cavern.
+Then Nyrzath's mouth closed without biting, and the red light behind his teeth
+went dark. He settled his tusked chin into the mud. The wall held. Behind his
+shoulder, Mossback reached the nesting seam and called into the dark. Small
+answering chirps rose from the cavern.
 
-The clutch lived. The villages stood. In the Cress hills, the flood spread
-through stone basins built and maintained by both halves of an alliance.
+The clutch lived. Below the quarry, the villages stood.
 
 Nyrzath's gold eye found Olyra.
 
@@ -538,10 +525,14 @@ He could not speak with his mouth occupied, so he nodded gravely.
 
 It was, she thought, very nearly tomorrow.
 
-Once the fallen stone had been levered clear, Nyrzath banked the furnace-light
-behind his teeth to darkness and opened his jaws. Olyra lifted out the shaken
-but living swallow, wrapped it in her scarf, and sent it to a warm quarry shed
-under Lord Ruvik's careful eye while Nyrzath's wing was freed.
+Once the fallen stone had been levered clear, Nyrzath opened his jaws. Olyra
+lifted out the shaken but living swallow, wrapped it in her scarf, and sent it
+to a warm quarry shed under Lord Ruvik's careful eye while Nyrzath's wing was
+freed.
+
+Larkspur came back later with frost still dulling her green-and-violet
+scales. All three gates had opened in turn, she reported, and the little
+eastern one had shrieked exactly like Lord Osric considering a new form.
 
 * * *
 
@@ -550,28 +541,26 @@ Mossback refused House Flint a second time before sunset.
 He did it while standing between the villages and the injured royal dragon,
 his scales streaked with quarry mud.
 
-"I will watch the valley's people because I choose to," he told Duchess
-Yselle. "I will not renew with you."
+"I warned your crews after the first tremor," he told Duchess Yselle. "No."
+
+By dusk he was back on the split ledge above his clutch, where he could see
+the village lamps come on one by one.
 
 House Flint's title remained suspended. Duchess Yselle went before ordinary
-judgment for the illegal cut and concealed instability. No dragon's roar
-replaced evidence, repair, or law.
+judgment for the illegal cut and concealed instability.
 
 Nyrzath's wing required splints the length of roof beams. Olyra saw to the work
-with the same seriousness House Cress gave Larkspur's cisterns and molting
-grounds. An alliance, she had learned, was easiest to praise while asking the
-dragon to bleed for it. Its truth showed afterward, when care was owed in the
-other direction.
+herself, from the same scaffold she had climbed to free the swallow, and checked
+the bindings morning and night.
 
 The convocation resumed around his bandaged wing.
 
 Without the Dread Passage, the court seemed at first too quiet. Then every
 human heir and every dragon ally came forward one pair at a time. They asked.
-They answered freely. Nyrzath witnessed them whole. House Flint's vacant place
-did not break the law; it proved the law meant something.
+They answered freely. Nyrzath witnessed them whole. House Flint's place stood
+empty.
 
-Their assent confirmed Queen Olyra only after she had accepted that it might
-not.
+When the last pair had stepped back, their assent confirmed Queen Olyra.
 
 Lord Osric presented her first proclamation with the expression of a man who
 had survived the collapse of civilization and found it required only modest
@@ -585,15 +574,15 @@ monster's face," she said.
 
 Nyrzath's gold eye rested on her.
 
-"He was wrong. A crown that needs a friend to lie about his nature has
-mistaken fear for loyalty."
+"He was wrong."
 
 As her last words faded, Lord Ruvik emerged behind Nyrzath with Olyra's scarf
-cupped in his hands. Sheltered from the court by the bandaged wing, Nyrzath
-quenched the glow in his mouth and accepted the swallow onto his tongue. Then
-he turned immediately toward Olyra.
+cupped in his hands and a row of small pecks across his knuckles. The swallow
+had fought every hand in the quarry shed; it had kept still for no one but
+Nyrzath. Sheltered from the court by the bandaged wing, he quenched the glow
+behind his teeth and accepted it onto his tongue.
 
-Nyrzath bent toward her.
+Then he bent toward Olyra.
 
 Court workers scattered from the path of his approaching jaws. Lord Osric
 stood his ground, though he became extremely interested in the proclamation's

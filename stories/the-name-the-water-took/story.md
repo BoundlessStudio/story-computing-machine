@@ -32,9 +32,9 @@ They touched their own cheek. Warm skin, blunt nose, short wet hair. The empty s
 
 “Don’t put your head under again,” the woman said.
 
-Braska shifted their weight off the cut heel. “Again.”
+“Again?” Braska shifted their weight off the cut heel. “What happens if I do?”
 
-“They’re less than an hour behind me.” She glanced toward a gap under the roots, where a trail was not quite visible. “If you want an explanation, earn us enough distance to speak one.”
+“They’re less than an hour behind me.” She glanced toward a gap under the roots, where a trail was not quite visible. “Get us far enough from here and I’ll tell you everything I saw.”
 
 “Who are they?”
 
@@ -46,21 +46,21 @@ The phrase made no picture. Braska knew what a survey was. They knew how armed p
 
 “Ioshka.” She put the knife away without relaxing. “They made me guide them. You were their route-captain.”
 
-“My name?”
+“Do you know my name?”
 
-Her jaw moved once before she answered. “Braska.”
+Ioshka looked at the pool, then back at Braska’s face, before she answered. “Braska.”
 
 The name fit no better than the palm fiber. It was something handed over because nakedness was impractical.
 
-A bird gave two hard clicks downslope. Ioshka turned at the first. Braska turned at the second and knew the interval was wrong: not a bird answering, but a stone knocked under a careful boot.
+A bird gave two hard clicks downslope. Ioshka turned at the first. Braska turned at the second and knew the interval was wrong: not a bird answering, but a stone knocked under a careful boot. It had come from the right, below the gap where the trail ran. Above the pool, the canopy broke open over a spine of bare pale rock.
 
-“Low way,” Braska said. “They’ll watch the ridge.”
+“Not up there,” Braska said. “Anyone on that ridge would show against the sky.”
 
-Ioshka’s stare sharpened. “You still have that.”
+Ioshka’s stare sharpened. “That’s how you talked at the river fork. Always where they’d be watching.”
 
-“I have the ridge.” Braska ducked beneath the roots. “Show me the low way.”
+“I can see it from here. I don’t remember any river fork.” Braska ducked beneath the roots. “Is there a way down on this side?”
 
-Ioshka took three quick steps, then stopped and pointed rather than saying where. A mat of fern hid a narrow descent. Braska saw the broken tips left by someone passing uphill, the gray smear where a wet hand had touched bark, and two clean patches in the leaf mold. Ioshka had come this way. Two pursuers had not come this way yet.
+Ioshka took three quick steps to the left, then stopped and pointed rather than saying where. A mat of fern hid a narrow descent, under a screen of deadfall hung in vine. Braska saw the broken tips left by someone passing uphill, the gray smear where a wet hand had touched bark, and one set of small prints in the leaf mold, all pointing uphill. Ioshka had come this way. The pursuers had not come this way yet.
 
 They moved.
 
@@ -76,7 +76,7 @@ Braska moved the foot.
 
 “If the rain comes, near.” Ioshka checked the sky through a ragged opening. “If it doesn’t—there.”
 
-She pointed with two fingers and doubled back around a fallen trunk. Braska followed her exact steps until the ground changed from damp black loam to stone. Then a habit, separate from decision, made them angle away from Ioshka’s prints and cross the stone on its bare ribs. Low sign. Split spacing. A hunter—or a route-captain—would have trouble counting them.
+She pointed with two fingers and doubled back around a fallen trunk. Braska followed her exact steps until the ground changed from damp black loam to stone. Then a habit, separate from decision, made them angle away from Ioshka’s prints and cross the stone on its bare ribs. Low sign. Split spacing. A hunter—or a route-captain—would have trouble telling how many had passed.
 
 Ioshka noticed. “You taught them to do that.”
 
@@ -94,25 +94,21 @@ At the far edge of the stone lay a cord cut clean through. One half was caught a
 
 Ioshka held up her wrists. Matching bruises ringed them.
 
-“Mine?” Braska asked.
+Braska looked from the cord to her wrists. “Did I do that? To you?”
 
-“Your knot.”
-
-“That’s not what I asked.”
-
-Ioshka rubbed one wrist with the heel of her palm. “You put it on. At the river fork. Later you cut it.” She nodded at the knife-sharp end. “I didn’t see what changed between.”
+Ioshka kept her wrists up until Braska had looked at both. Then she rubbed one with the heel of her palm. “You put it on. At the river fork. Later you cut it.” She nodded at the knife-sharp end. “I didn’t see what changed between.”
 
 Ash shifted under Braska’s thumb. A scale of blackened hide showed beneath it, ruled in faint squares. A map, burned where it lay. Around the patch, three trees bore recent survey nicks. Every nick had been crossed out by a second blade stroke.
 
 Braska looked back along their path. “You came to the pool after me.”
 
-“Not after you. Behind you. There’s a difference.”
+“Yes. Not far behind, either. I kept losing you on the stone.”
 
 “You watched me enter?”
 
 Ioshka opened her mouth, then looked upslope. Her hand flattened: quiet.
 
-A branch creaked in the distance. Too heavy for a bird. Braska counted to twenty before the next sound. The pursuers were moving cautiously and losing ground.
+A branch creaked in the distance. Too heavy for a bird. Braska counted to twenty before the next sound. It came from upslope, back along their own trail; the pursuers had reached the pool and turned to follow. They were moving cautiously and losing ground.
 
 Ioshka resumed in a lower voice. “You said your head was the last map. You took my seed wallet from their stores. Then you ran. I followed because you still had it.”
 
@@ -124,11 +120,11 @@ Ioshka resumed in a lower voice. “You said your head was the last map. You too
 
 “I looked.” Her chin tipped toward the pale glimmers they had left behind. “I know what full water does. I don’t know how to swim through a person’s lost things without paying the same price.”
 
-Braska rose. “Shelter first.”
+Braska rose. Overhead, the leaves had turned their white undersides up. “Where do we wait out the rain?”
 
 “Now you believe me?”
 
-“Now I know what needs testing.”
+“Some of it.”
 
 The rain came as a hiss traveling through leaves. Ioshka led them to a shallow shelf beneath a tilted slab. Water curtained the entrance but did not reach the dry back wall. There she unwound the cloth from her calf. The cut beneath was shallow, packed with crushed yellow pulp.
 
@@ -142,7 +138,7 @@ Braska eased the knot half a finger. “Better?”
 
 For a while the rain did the speaking. Braska stripped fibers from a hanging vine, rolled them against their thigh, and made a line. A hook was harder without metal. They chose a fallen branch with a fork, shaved one tine against the slab’s rough edge, bent it under tension, and bound it. Their hands supplied each motion. They could not say where the motions had been learned, or on whom those knots had first been tightened.
 
-Ioshka watched from the entrance. “The wallet has six pockets. Keep it dry when you pull it out.”
+Ioshka watched from the entrance. “The wallet has six pockets. Keep it dry once it’s out.”
 
 “What’s in them?”
 
@@ -150,37 +146,37 @@ Ioshka watched from the entrance. “The wallet has six pockets. Keep it dry whe
 
 “Who needs them?”
 
-Ioshka looked toward the rain instead of answering. “People who don’t need a marked trail leading to them.”
+Ioshka looked toward the rain. “People who don’t need a marked trail leading to them.”
 
 Fresh water coursed off the stone, carrying a sliver of charcoal across Braska’s foot. Someone had destroyed a map and crossed out marks. Someone else had first made those marks. Both sets of cuts might belong to the same hand.
 
 “The pool gives nothing back?” Braska asked.
 
-“Objects, yes, if you hook them and wait for them to dry. Then something from the last time you used each one. Hands, skin, sound. Once.”
-
-“A memory.”
-
-“A flash. Don’t make it larger. My uncle pulled his cooking spoon out and tasted burned yam from the night before. It didn’t tell him why he’d gone in.”
+“Things, if you hook them out and let them dry. Then you get a little of the last time you used each one, a taste or a sound, and only once. After that it’s just a spoon again. My uncle pulled his cooking spoon out of full water when I was small. He stood on the rim with it in his mouth and tasted burned yam from the night before. It didn’t tell him why he’d gone in.”
 
 “If I submerge now?”
 
-“You lose this morning too.”
+“You lose this morning too. You’d come up and I’d have to tell you all of it again, with them closer.”
 
-Braska finished the hook and pulled the binding hard. “We circle back when the rain stops. They’ll take the direct trail and reach the pool before dusk.”
+Braska finished the hook and pulled the binding hard. “When the rain stops, we go back to the pool.”
 
-Ioshka’s attention went to the hook, then to Braska’s hands. “You’re willing to go back for seed you don’t remember taking.”
+“They’ll be there.”
 
-“You came back while hunted. That tells me enough.”
+“Not yet. They’ll lose us on the stone and spend the rain looking.” Braska tested the shaved tine with a thumb. “After that, if I were them, I’d wait where they know I have to come back.”
 
-“It means I can’t leave it.”
+Ioshka’s attention went to the hook, then to Braska’s hands. “You’d go back for seed you don’t remember taking?”
 
-Braska tightened the last binding. “Then we go back.”
+“My things are down there too. Boots. The knife.” Braska glanced at their bare, cut feet. “I can’t run this ground barefoot for long.”
+
+She was quiet for a moment. “The wallet before anything of yours.”
+
+Braska tightened the last binding. “If I can see it.”
 
 The rain thinned. They left by the back of the shelf, where a fig root split the slope. Ioshka chose the first turn. Braska chose where they crossed runoff and where they stepped in it to break their scent and spoor. At a fork, Ioshka started to name the left path, stopped, and drew a short curve in the mud instead. Braska erased the curve after understanding it.
 
 They reached the pool from above.
 
-No one waited at the rim. A new marker of peeled bark gleamed on a trunk downhill: the surveyors had found the approach and were close enough to prepare their exit. Braska cut the pale strip away with a sharp flake of stone and tucked it under rotten leaves.
+No one waited at the rim yet. A new marker of peeled bark gleamed on a trunk downhill: the surveyors had come back around from wherever they lost the trail, close enough now to mark their exit. Braska cut the pale strip away with a sharp flake of stone and tucked it under rotten leaves.
 
 Ioshka lay behind a root shelf, watching the trail. Braska anchored the vine around their waist and crawled to the edge. The pool still reflected a hard green sky and, at its center, Braska’s absence. Pale objects circled that empty shape as if resting on invisible ground. The image did not follow Braska’s breathing or notice the hook. Water, light, stone. Nothing in it waited to answer.
 
@@ -204,7 +200,7 @@ Braska set the coil down. “I tied you.”
 
 “I told you.”
 
-“You did.” They took up the hook. “The knife.”
+“You did.” Braska looked at her wrists again. It was a while before they took up the hook. “The knife.”
 
 The sheath came first and left the remembered pressure of a palm keeping it silent against a hip. The knife itself lay deeper. When Braska finally lifted it, water poured silver from the blade. They dried it on the sun-warmed stone.
 
@@ -238,21 +234,19 @@ The older man answered without looking at the pool. “I know you ran. The rest 
 
 “What did I destroy?”
 
-“The master hide,” said the younger one. “The final cord. Three weeks of approach marks. We can reconstruct if the guide cooperates.”
+“You’re asking us?” The younger man’s voice climbed. “The master hide. The final cord. Three weeks of approach marks, and you crossed out every one on your way down. We can still reconstruct, if the guide cooperates—”
 
-The older man’s spear moved a handspan toward Ioshka. “She’s feeding you a defense. Stop.”
+“Quiet.” The older man’s spear moved a handspan toward Ioshka. “She’s feeding you a defense, Captain. Stop listening to her.”
 
-Braska read their stance. The older man was counting on a captain’s obedience even while he denied Braska the title’s authority. The younger had taken the old formation: spear pressing center, second person closing the open side with cord.
+Braska read their stance. They had taken the old formation: spear pressing center, second person closing the open side with cord.
 
-“A copy?” Braska asked.
+The younger man did not keep quiet. “And there’s no copy. You forbade one past the black ridge. You said the final approach was safer in your head, and then you burned everything else.”
 
-“You forbade one past the black ridge,” the younger said. “Held the final approach in your head. Sensible security until you burned the rest.”
+So Braska had burned the hide, then taken the only remaining route under the water in their own head, on purpose. None of it explained why they had led the survey far enough to make the map, or why they had bound Ioshka before cutting her free.
 
-The facts locked together. After burning the copy, Braska had carried the last approach here and submerged it out of reach. Nothing in that sequence explained why they had led the survey far enough to make the map, or why they had bound Ioshka before cutting her free.
+“That was your arrangement,” the older man said. “I never signed off on it.” He brought the spear back to center. “Captain, stand away from the guide.”
 
-“I ordered no—” The older man stopped, jaw tightening. “Captain, stand away from the guide.”
-
-Ioshka’s hand opened near the ground. Not surrender: four fingers spread toward the concealed root descent, thumb tucked. Four body lengths.
+Ioshka’s hand opened near the ground, four fingers spread toward the concealed root descent, thumb tucked. Four body lengths.
 
 The hook trembled against something below.
 
@@ -262,7 +256,7 @@ Braska pulled.
 
 The younger surveyor lunged for the line. The older drove the spear across the path to pen Ioshka against the pool. They were fast, and they were exactly where Braska’s body had expected them to be.
 
-Braska let the vine run slack. The younger stumbled one step past its weight. Braska caught the shaft of the spear under one arm, not fighting its point but carrying its force sideways, and stepped inside the older man’s reach. Their recovered knife came free. One cut opened the marker coil at the younger man’s hip. White cord spilled around his boots.
+Braska let the vine run slack. The younger stumbled one step past its weight. Braska caught the shaft of the spear under one arm, let its force carry past, and stepped inside the older man’s reach. Their recovered knife came free. One cut opened the marker coil at the younger man’s hip. White cord spilled around his boots.
 
 “Captain!” he shouted, more offended than afraid.
 
@@ -270,11 +264,13 @@ Braska cut the spear’s wrist loop. The older surveyor recoiled to keep his wea
 
 “Left root,” she said.
 
-Braska moved left. The older man thrust where they had been. Braska knocked the spearhead against stone with the knife’s spine, then dropped rather than contest his strength. Their hand found the peeled-bark marker at his belt and tore the bundle free.
+Braska moved left. The older man thrust into the space Braska had just left. Braska knocked the spearhead against stone with the knife’s spine, then dropped rather than contest his strength. Their hand found the peeled-bark markers at his belt and tore the bundle free.
 
-The younger man had untangled one foot. “You released the guide. You destroyed the only recoverable route. That report carries your seal, not ours.” His words came faster as Braska stopped answering. “Return her and we can record impairment after exposure. We can still contain this.”
+The older man gave ground to recover his stance. Neither surveyor came nearer the rim than a spear’s length.
 
-Braska saw the disk then, pale beneath a shallow shelf. One short cast caught its thong. They drew it out while Ioshka kept the wallet’s light pinned with the other branch of the hook.
+The younger man had untangled one foot. “You released the guide. You destroyed the only recoverable route. That report carries your seal, not ours.” His words came faster as Braska kept silent. “Return her and we can record impairment after exposure. We can still contain this.”
+
+The disk lay pale on a shallow shelf just under the surface at the rim. Braska slid the knife point through its thong and lifted it clear. Behind Braska, Ioshka was drawing in the hook line hand over hand, slowly, so the wallet would not shake loose.
 
 The disk dried in Braska’s palm. A brief pressure crossed their knuckles: the same hand holding metal flat against a belt so it would not click while they ran. That was all.
 
@@ -284,27 +280,25 @@ Ioshka glanced at it. “That was on you at the river fork.”
 
 Braska tucked the disk under the wrap.
 
-The older surveyor recovered his stance. “Route-Captain Braska. Last command. Put down the knife.”
+The older surveyor leveled the spear. “Route-Captain Braska. Last command. Put down the knife.”
 
-The two surveyors held their open formation. Ioshka kept one hand on the hook line and the other near her knife.
+The two surveyors held their open formation. Ioshka kept her free hand near her knife and gave the hook line one hard pull. A small leather wallet broke the surface on the hook.
 
-The hook line jerked. A small leather wallet broke the surface.
-
-Braska caught it. As water left the seams, their body gave them its single scrap: the wallet shoved beneath the belt, one hand covering it while the other cast a burning route cord into mud. Seeds clicked inside. Ioshka said from somewhere behind, “You don’t get to lose that too.” Braska’s remembered hand tightened to keep the wallet from falling.
+Braska took it off the tine. As water left the seams, their body gave them its single scrap: the wallet shoved beneath the belt, one hand covering it while the other cast a burning route cord into mud. Seeds clicked inside. Ioshka said from somewhere behind, “You don’t get to lose that too.” Braska’s remembered hand tightened to keep the wallet from falling.
 
 Then there was only leather, six swollen pockets, and the living Ioshka reaching for it.
 
 Braska passed it to her.
 
-The surveyors moved together. Braska threw their peeled markers into the pool, cut the remaining line at the rim, and shoved the free length after them. Pale curls sank into the empty reflection. The older man checked his advance rather than risk full submersion. That pause was enough.
+The surveyors moved together. Braska threw the torn bundle of peeled markers into the pool, cut the hook line where it joined the vine, and shoved hook and marker cord in after the bark. Pale curls sank into the empty reflection. The older man checked his advance rather than risk full submersion. That pause was enough.
 
-Ioshka dropped through the concealed root descent. Braska backed after her, knife low. The younger surveyor seized the top root; Braska cut not his hand but the vine supporting the loose screen of deadfall above it. Wet branches collapsed across the opening. Not a permanent barrier. A costly one.
+Ioshka snatched up the boots and dropped through the concealed root descent. Braska backed after her, knife low. The younger surveyor seized the top root; Braska cut the vine supporting the loose screen of deadfall above his hand. Wet branches collapsed across the opening. The surveyors would have to clear it branch by branch.
 
 Below, Ioshka was already crossing the slope. “Stone channel,” she said, pointing with the wallet. “Before the runoff fills it.”
 
-Braska followed, then stopped at a forked root and dragged a fallen trunk across the upper descent. The pool remained reachable. So did the choice to enter it again and discard the morning: Ioshka’s limits, the cord burns, the disk, the smoke in Braska’s throat as the route line parted. Braska wedged the trunk until the easy path back closed.
+Braska followed, then stopped at a forked root and dragged a fallen trunk across the upper descent. The pool remained reachable, and it would still take the morning: the bruises on Ioshka’s wrists, the cord burns, the disk, the smoke in Braska’s throat as the route line parted. Braska wedged the trunk until the easy path back closed.
 
-When they caught Ioshka, she held out the recovered boots. “Wear them or carry them.”
+When Braska caught up with Ioshka, she held out the recovered boots. “Wear them or carry them.”
 
 Braska pulled them on. “Which side shows less?”
 

@@ -126,11 +126,13 @@ For a while the path ran beside a low orchard wall. The breeze avoided the shade
 
 “So I'm discovering.”
 
-Her shoes had been suitable for the market. Gravel entered them at every bend. Below her the harbor diminished into boats and bright spaces between boats; above, the white ridge had resolved into rock, a saddle, and the dark mouth of a tunnel. She asked whether the breeze had ever entered a ruined temple.
+Her shoes had been suitable for the market. Gravel entered them at every bend. Below her the harbor diminished into boats and bright spaces between boats; above, the white ridge had resolved into rock, a saddle, and the dark mouth of a tunnel.
+
+“The old temples along the shore,” she said, between breaths. “The drowned ones. Have you been inside those?”
 
 “Holes in stone? Yes.”
 
-“And heard anything?”
+“They're supposed to be written all over. Nobody alive can read it. Is there writing? Did you notice?”
 
 “Dripping. Wings. Once another wind that wouldn't let me leave by the way I'd come.” It ran over a clump of thyme and returned smelling of it. “I could bring this.”
 
@@ -156,7 +158,7 @@ She watched the flower heads swing around the rock. “Oh.”
 
 It swept the flower heads away and went farther up the path.
 
-By the time they reached the tunnel, Zerune had removed her scarf and was carrying it with both hands behind her neck. The afternoon sunlight stood on the ridge's western face. A cold stream of ordinary air poured over the saddle above the tunnel, dragging tatters of mist off the snow. Nothing whispered in it.
+By the time they reached the tunnel, Zerune had pulled off her scarf and was carrying it bunched in one hand. The afternoon sunlight stood on the ridge's western face. A cold stream of ordinary air poured over the saddle above the tunnel, dragging tatters of mist off the snow. Nothing whispered in it.
 
 The breeze stayed low against the sunny rock.
 
@@ -170,21 +172,19 @@ The tunnel cut straight through a narrow spur of rock. Zerune could see daylight
 
 She did. The tunnel air was cold enough to tighten the skin along her arm.
 
-“And over the top?”
+She looked up at the saddle, where the mist was streaming off the snow. “Then go over. It's hardly higher, and it's all open air.”
 
-The breeze touched her scarf. “That flow would pull me out long and thin. I'd lose the turn that keeps me together.”
+The breeze touched her scarf. “That's colder, and it pours. It would pull me out long and thin. I'd lose the turn that keeps me together.”
 
 “You can't go around the ridge?”
 
-“I can go down again. Along the shore. Away from here.” Its speech rustled in the scarf, impatiently at first, then more slowly. “The other wind will change when the sun leaves that basin. I don't know if it will come back the same.”
+“I can go down again. Along the shore. Away from here.” Its speech rustled in the scarf, impatiently at first, then more slowly. “The other wind will change when the sun goes off its side of the ridge. I don't know if it will come back the same.”
 
-Zerune eased her bag off and sat on a flat rock. She could feel her pulse in her heels. She had climbed far past the almond tree without recognizing it, and now, at the height to which she had brought it, the creature needed something she could not provide.
+Zerune eased her bag off and sat on a flat rock. She could feel her pulse in her heels. She had climbed far past the almond tree without recognizing it, and she had brought the creature all this way only to find it needed something she could not provide.
 
-She drew breath to say so.
+She drew breath and got as far as “I'm sorry, I don't think” before the breeze pressed against her lips.
 
-The breeze pressed against her lips.
-
-She flinched, spat, and pulled the scarf across her mouth. “Don't do that.”
+She flinched, spat, and pulled the scarf across her mouth. “Don't do that. You've been through the chaff and the oranges and half the dust on this hill.”
 
 It withdrew so quickly that her hair fell across her eyes.
 
@@ -194,7 +194,7 @@ Zerune lowered the scarf a little. “You want to get in my mouth?”
 
 “Farther. Where you keep your breath.”
 
-She looked from the patch of turning grit beside her shoe to the tunnel. “And then?”
+She looked from the patch of turning grit beside her shoe to the tunnel. “I'd have to hold my breath the whole way. I don't even know how long it is.”
 
 “You walk. You let me out on the warm side.”
 
@@ -226,13 +226,13 @@ It came up off the stone so abruptly that grit struck her stockings. “What did
 
 She tried to reproduce the rising sound. The breeze waited.
 
-“Something about a way through it. I can't make the sound.”
+“It said, *here, this way through me*. It wasn't saying it to me. I just can't make the sound.”
 
 “But it's there.”
 
 “Yes.”
 
-It pushed gently against the inside of her wrist. She had wanted its whole attention for an hour. Now she had it, and found herself trying to describe the three separate lifts before she remembered what they were discussing.
+It pushed gently against the inside of her wrist. She had wanted its whole attention all afternoon. Now she had it, and found herself trying to describe the three separate lifts of the second phrase before she remembered that none of it would get the breeze through the tunnel.
 
 “Listen. I can walk that far holding my breath. But if I need to breathe, I will. Even if we're still inside.”
 
@@ -242,7 +242,7 @@ The pressure left her wrist.
 
 “Maybe. Close to it.”
 
-“And in the middle?”
+“If it happens halfway?”
 
 The breeze passed once across the tunnel mouth, no farther than her outstretched arm. It returned with a falter she could hear.
 
@@ -254,9 +254,11 @@ Zerune sat down again. She drank from her flask, wiped the water from her chin, 
 
 “If you keep me too long. I can't stay folded like that.”
 
-“I won't want you to.”
+“I couldn't keep you long if I tried. I'll need my breath back.”
 
-She pushed the scarf and flask into her bag, lifted it, and loosened the strap so it didn't press her chest. The breeze rose with her.
+She pushed the scarf and flask into her bag. “I'd like to hear what it says to you,” she said to the bag. “When you get there. If you don't mind.”
+
+The breeze went on circling by her shoe. She lifted the bag and loosened the strap so it didn't press her chest. The breeze rose with her.
 
 “I'll breathe you in at the entrance,” she said. “Slowly. I'll say when.”
 
@@ -304,33 +306,33 @@ The little breeze doubled back through the grass below her. “Don't tell it. I'
 
 It went out again, carrying its salt and thyme, and began the wave turn over the pond. Water dimpled. The dimples curved around one another in a fleeting pattern she recognized from the flower heads. This time it was beautiful, though she could not have said whether the wind performed it better or she had learned where to look.
 
-“There's another way,” the basin current said.
+“There is a way through me here,” the basin current said, “and here, and here, low where the reeds begin, if you come in under.”
 
 The pond's surface moved from the far bank toward the near one in three narrow bands. The breeze attempted to cross them. Its turn broke, reformed, and broke again. A sharp little eddy rattled the reeds.
 
 “Those are not waves.”
 
-“They're what I have.”
+“No. They are what I have down here, where the water lies and the slope comes up out of it, and the sun stays on the one side all afternoon. They are what I have.”
 
-The little wind tried again. Zerune took the book out, laid it in her lap, and tucked the softer bag behind her back. Above the pond the water quieted, and the breeze moved into the spaces between the three bands. The reeds bowed. From the trees came a sound so low that she felt it in her teeth.
+The little wind tried again before the phrase had finished. Zerune took the book out, laid it in her lap, and tucked the bag behind her back. Out on the pond the water quieted, and the breeze moved into the spaces between the three bands. The reeds bowed. From the trees came a sound so low that she felt it in her teeth.
 
-“Come through again.”
+“Come through me again. The same way, only slower, as slow as you can bear to.”
 
 It did, more slowly.
 
 This exchange went on until the shadow of the ridge had crept past the tunnel behind her. The breeze shed its thyme. Zerune could no longer pick out its scent when a current strayed up to her, but she knew its touch: the small, hasty return, the way it gathered around a warm place before leaving. Once it swept along the pond's edge and lifted a procession of gnats. The basin current turned them back. The breeze left the gnats alone. Returning over the reeds, it began a tight inward movement, broke it off, and stretched itself into a long curve.
 
-Then the larger voice asked, “What's the turn you keep folding away?”
+Then the larger voice asked, “There is a turn you begin over my reeds and fold away before it is finished. Every time you come back across them you fold it away. What is that turn?”
 
 The little wind faltered over the reeds.
 
 “A tight one.”
 
-“Show me.”
+“Make it here, over the grass, where I am quiet. I will keep still for it.”
 
 It drew into itself. A handful of grass stems tilted inward beneath it, their tips describing the little cramped space. Zerune sat forward. The movement loosened, almost resumed the wave turn, then contracted again.
 
-“That one,” said the basin current.
+“That one,” said the basin current, and went on after the grass had straightened. “That one, the small one. The one you fold away.”
 
 The tight circuit shivered. She felt the remembered flutter in her own chest, though she knew she had let all of it go.
 
@@ -344,4 +346,4 @@ The two patterns met above the pond. For a while the reeds spoke first, the tree
 
 They tried. The first attempt spilled into the trees. Leaves flashed pale undersides and a few snapped loose. The little voice objected to the widening at the top; the larger one wanted more space underneath. They came down across the water and began again.
 
-Zerune pulled her feet under her to make room as a cool edge of their conversation crossed the grass. They had no need of her answer. She could hear them perfectly, and sat with her book unopened while the turning gathered below her, spread, and carried its two voices up the sunlit slope.
+Zerune pulled her feet under her to make room as a cool edge of their conversation crossed the grass. She could hear them perfectly, and sat with her book unopened while the turning gathered below her, spread, and carried its two voices up the sunlit slope.

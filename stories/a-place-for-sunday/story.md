@@ -36,7 +36,7 @@ He had come back often at first. Then less often, and once with a baby who cried
 
 Outside, something scraped heavily over stone. Ilario left the bread uncut and went to open the front door.
 
-Beyond the front door, the field was full of roofs.
+Across the lane, the field was full of roofs.
 
 Red tiles rose behind the hedge where yesterday there had been stubble. The baker's roof, with its sag in the middle. The little square tower. Three chimneys in a row that he had once believed belonged to a single enormous fireplace. Through a gap between the houses he could see the upper branches of his father's olive tree, trembling although the chestnuts beside the lane were still.
 
@@ -76,7 +76,7 @@ She dropped her boots on the step and ran to him. Cosimo caught her under the ar
 
 "Then that's how we'll have it."
 
-Ilario looked over his father's shoulder. Smoke was rising from the bakery chimney. Someone had started baking. Behind it a cypress tipped slowly upright as the people beside its plot adjusted their hands.
+Ilario looked over his father's shoulder. Smoke was rising from the bakery chimney. Behind it a cypress tipped slowly upright as the people beside its plot adjusted their hands.
 
 "Papa," he said. "Is that all of it?"
 
@@ -104,7 +104,7 @@ The familiar village had come apart into separate pieces. Between the houses lay
 
 At the corner of the baker's garden, four people were easing a low stone wall down. One pressed her whole forearm against it while a man crouched to watch the clearance beneath. Their hands brightened faintly, as if sunlight lay under the skin. When the earth touched down, the light faded. The man sat on the wall and accepted a piece of bread from someone who had been waiting with a basket.
 
-Ilario recognized the woman and waved. She waved back with her free hand before settling beside the man.
+Ilario recognized the woman and waved. She waved back before settling beside the man.
 
 "How long have you been coming?" he asked his father.
 
@@ -120,7 +120,7 @@ Ilario recognized the woman and waved. She waved back with her free hand before 
 
 They waited while two women guided a shed across the gap ahead. The shed rode low, swaying slightly between their hands. Nerina crouched to see beneath it, and Ilario drew her back. One of the women raised her eyebrows at the child; Nerina gave a vigorous wave from the safe side of his legs.
 
-"Could we ride home like that?" she asked.
+"Can I ride on one?" she asked.
 
 "You'd be tired of it by the first afternoon," Cosimo said. "We sometimes walked a whole hour and could still see the spot where we'd eaten breakfast."
 
@@ -144,7 +144,7 @@ Ahead, an old neighbor stood in the street embracing two grown women at once. He
 
 "It is," Nerina said. "I just don't know what."
 
-His father nodded, considering this. Then he stopped at a low green gate and fumbled for the latch.
+His father nodded. At a low green gate he stopped and fumbled for the latch.
 
 Ilario reached past him and lifted the gate a fraction. It opened at once.
 
@@ -166,7 +166,7 @@ Cosimo went inside to open the back door. Nerina followed him, then came running
 
 There were several possible pictures. He followed her.
 
-The kitchen cupboards had been tied shut with lengths of cloth. A pan and a colander hung from their hooks, bundled together in an apron. Cosimo had kept the table clear except for a bowl of figs and the covered batter he must have mixed before coming to fetch them. The small iron stove was already hot. From the window beside it, Ilario could see his own city's roofs instead of the long blue slope of the sea.
+The kitchen cupboards had been tied shut with lengths of cloth. A pan and a colander hung from their hooks, bundled together in an apron. Cosimo had kept the table clear except for a bowl of figs, a plate under a cloth, and the batter he must have mixed before coming to fetch them. The small iron stove was already hot. From the window beside it, Ilario could see his own city's roofs instead of the long blue slope of the sea.
 
 He had to look twice.
 
@@ -260,7 +260,7 @@ Nerina put down her bread. "Were you hiding?"
 
 "But he went back up. After all that trouble, he said he was staying the night."
 
-His father scooped the first fritters onto a dish. Ilario took it, hunting for the old crack in its glaze. There it was, running through a painted yellow flower. He had forgotten the flower. He had forgotten hundreds of things that were within reach of his hand.
+His father scooped the first fritters onto a dish. Ilario took it, hunting for the old crack in its glaze. There it was, running through a painted yellow flower. He had forgotten the flower.
 
 "Did you?" Nerina asked.
 
@@ -282,7 +282,7 @@ Cosimo began to laugh, quietly at first. He rested the spoon across the pan.
 
 "You made a very small, careful noise."
 
-"You weren't there. You were upstairs."
+"You couldn't see my mouth from upstairs."
 
 "I was there soon enough."
 
@@ -292,7 +292,7 @@ Nerina slid off her chair. "Which branch? Show me which branch."
 
 "You always say that."
 
-"And then we have breakfast, and then we do things. It's a very successful arrangement."
+"And then we have breakfast. Sit down, please."
 
 She climbed back up, but turned the chair a little so that she could see the tree through the door.
 

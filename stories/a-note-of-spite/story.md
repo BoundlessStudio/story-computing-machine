@@ -28,7 +28,7 @@ Lavinia bent to it. Pear first, the firm flesh just under the skin; then violet,
 
 “I was younger.”
 
-“It was at midsummer.” Clorinda pressed her cheek to Lavinia's, laughing. Her skin was hot. “I'm so glad you're here. Look at my dress.”
+“Six weeks ago.” Clorinda pressed her cheek to Lavinia's, laughing. Her skin was hot. “I'm so glad you're here. Look at my dress.”
 
 Lavinia stepped back. The dress was good, which ought not to have surprised her. Clorinda generally dressed as if she expected to be called upon to carry something; tonight her sleeves ended at the elbow and the skirt swept clear of her shoes in front, showing green silk stockings. She had chosen the stockings herself, apparently. She revolved to display a row of small covered buttons.
 
@@ -40,9 +40,9 @@ Lavinia stepped back. The dress was good, which ought not to have surprised her.
 
 “My maid. Don't be tiresome. There's wine in the next room.”
 
-Fifty suited Clorinda. She had told everyone she was fifty, written it on the invitations, and ordered a cake large enough to make concealment absurd. Lavinia, who was fifty-two and said so only when asked, had spent some pleasant afternoons threatening to arrange all fifty candles around a looking glass. Clorinda had threatened to invite a gentleman who read his own translations aloud. Neither threat had been carried out. The unoccupied corner by the piano was plainly waiting for them.
+Fifty suited Clorinda. She had told everyone she was fifty, written it on the invitations, and ordered a cake large enough to make concealment absurd. Lavinia, who was fifty-two and said so only when asked, had spent some pleasant afternoons threatening to arrange all fifty candles around a looking glass. Clorinda had threatened to invite a gentleman who read his own translations aloud. Neither threat had been carried out. The unoccupied corner by the piano was plainly waiting for the two of them.
 
-Lavinia took a glass and drifted back to the doorway. She liked watching Clorinda receive people. Nobody was allowed to get away with touching her fingers and murmuring; she drew them in, demanded to see a recovered ankle, remembered a marriage, sometimes the wrong marriage. Lavinia had been rescuing her from such mistakes for thirty years.
+Lavinia took a glass and drifted back to the doorway. She liked watching Clorinda receive people. Nobody was allowed to get away with touching her fingers and murmuring; she drew them in, demanded to see a recovered ankle, remembered a marriage, sometimes the wrong marriage. Lavinia had been rescuing her from such mistakes for nearly forty years.
 
 A woman in blue approached with a husband whose whiskers grew almost into his eyes. Clorinda held out both hands.
 
@@ -78,7 +78,7 @@ The woman was disappointed. Her husband had found a dish of olives and did not a
 
 So that was tonight's game. Clorinda had made arrangements. Lavinia lifted her glass to her, but Clorinda had turned away.
 
-There were more chairs than usual in the drawing room. Several stood in rows facing the piano, and a low vase had been removed from its lid. Lavinia went to examine the little card propped on the music stand. Clorinda's large handwriting announced a piano piece, *a song*, and supper. Beside the middle item, in smaller letters, she had added her own name.
+There were more chairs than usual in the drawing room. Several stood in rows facing the piano, and a low vase had been removed from the piano lid. Lavinia went to examine the little card propped on the music stand. Clorinda's large handwriting announced a piano piece, *a song*, and supper. Beside the middle item, in smaller letters, she had added her own name.
 
 Lavinia found her fastening a brooch on an elderly guest whose hands were unsteady.
 
@@ -136,7 +136,7 @@ Clorinda did not laugh. She was looking down into her bag.
 
 Lavinia followed her into the small room off the hall where guests left their wraps. Clorinda had put out cotton and little bowls of unscented oil for lifting away defenses that had spoiled on the journey. One shawl smelled powerfully of thunderstorms. Someone had left an open bottle beside it, and Clorinda corked that before attending to herself.
 
-Her own bottle was narrow, with a violet glass foot. She touched the stopper beneath each ear, then to the hollow of her throat. With two fingers laid over her pulse, she drew a slow breath, supplying the force that the fresh oil would hold close to her skin. Pear filled the room. Without her, it would have been expensive oil in a bottle; on her, breathing and warm, it had just undone Lavinia's neatest little hex.
+Her own bottle was narrow, with a violet glass foot. She touched the stopper beneath each ear, then to the hollow of her throat. With two fingers laid over her pulse, she drew a slow breath, supplying the force that the fresh oil would hold close to her skin. Pear filled the room. Without her, it would have been expensive oil in a bottle; on her, breathing and warm, it had undone Lavinia's neatest little hex.
 
 “How long does it last?” Lavinia asked.
 
@@ -226,7 +226,7 @@ Lavinia imagined her standing there, round-cheeked and eager, reaching for the u
 
 “I don't see why you didn't simply ask me to leave your voice alone.”
 
-Clorinda opened her mouth, closed it, and rubbed a finger along her eyebrow.
+Clorinda rubbed a finger along her eyebrow.
 
 “I didn't want to argue about it before my birthday as well.”
 
@@ -278,7 +278,7 @@ The piano gave two quick, high notes.
 
 Clorinda peered downward. Her chin went back into her neck. The splendid chest she had inflated during the first verse began to subside.
 
-Lavinia knew what came next. She had known it for thirty years. But she did not know that Clorinda would try to step around the invisible little dog, find it occupying that part of the floor too, and retreat half a step into the tail of her own gown. The grand voice went thin with indignation. She demanded the removal of the animal. A second pair of notes answered her.
+Lavinia knew what came next. She had known it for nearly forty years. But she did not know that Clorinda would try to step around the invisible little dog, find it occupying that part of the floor too, and retreat half a step into the tail of her own gown. The grand voice went thin with indignation. She demanded the removal of the animal. A second pair of notes answered her.
 
 Then the soldier, who had faced lions and blades and tumbling rocks, attempted a friendly whistle. Almost no sound emerged.
 
@@ -310,4 +310,4 @@ Lavinia covered her mouth. It was worse from this close. Clorinda began laughing
 
 “I should like the credit.”
 
-“Well, you can't have it.” Clorinda gave her shoulder a small, possessive squeeze. “I practised.”
+“Well, you can't have it.” Clorinda gave her shoulder a small squeeze. “I practised.”

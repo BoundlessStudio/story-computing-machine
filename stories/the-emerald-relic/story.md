@@ -46,9 +46,19 @@ She disliked him for saying it. Everyone said it. She pressed her palm against t
 
 Anubis looked toward the open doors. The guards had withdrawn into their house. Taremet could see one man's white skirt beyond its threshold, motionless.
 
+“Can't you just take it from him?”
+
+“He has threatened to break it and send the pieces away.”
+
+“Would that end this?”
+
+“It would leave my power bound in the pieces. I would have to find and join them before I could release Egypt.”
+
+Since her father came back from the temple, riders had waited saddled in the courtyard below her window. She had listened to their horses shifting on the stones all afternoon while he slept in the chair beside her.
+
 “I can get him to show it to me,” she said. “I haven't asked yet.”
 
-That brought the god's attention back. He crouched beside her, his gold ornaments settling with a heavy, intimate noise. His face was level with hers. There were grey hairs under his jaw.
+That brought the god's attention back from the doors. He crouched beside her, his gold ornaments settling with a heavy, intimate noise. His face was level with hers. There were grey hairs under his jaw.
 
 “What do you ask in return?”
 
@@ -100,7 +110,7 @@ Taremet pulled the shawl higher. The wool scraped her chin. When she was small, 
 
 “I won't tell him.”
 
-She rubbed her eyes with the heel of her hand. “He'll think I didn't trust him to find something. And he's been trying. He hardly leaves me.”
+She rubbed her eyes with the heel of her hand. “He'd think I didn't trust him to find something. And he's been trying. He hardly leaves me.”
 
 Anubis waited while she pulled a loose thread from the shawl. She wound it tight around one finger, then unwound it.
 
@@ -120,25 +130,13 @@ Anubis laid one hand on the litter's wooden rail. She could have set hers beside
 
 “By the office in which I receive your dead, I promise.”
 
-She shut her eyes briefly. The prayer she had come to make was finished. Now she had to get back to her room.
+“What does it look like?” she asked. “He only calls it the Emerald Relic.”
 
-“Why can't you take it from him?”
-
-“He has threatened to break it and send the pieces away.”
-
-“Would that end this?”
-
-“It would leave my power bound in the pieces. I would have to find and join them before I could release Egypt.”
-
-Her father had sent messengers on fast horses all afternoon. She had heard their hooves while he slept in the chair beside her.
-
-“What is it?” she asked. “He only calls it the Emerald Relic.”
-
-“A stone jaw. Black, with green teeth. Small enough to hold in both hands. I breathe power through it to hold back death while I tend those who are passing. Your father stole it during my vigil for Egypt. Until I draw that breath back, nothing here can finish dying.”
+“A stone jaw. Black, with green teeth. Small enough to hold in both hands. I breathe power through it to hold back death while I tend those who are passing. Until I draw that breath back through it, nothing here can finish dying.”
 
 “So even now you're keeping us here?”
 
-His fingers tightened on the rail. “He has trapped my power there. I must hold the whole jaw to release it.”
+His fingers tightened on the rail. “He has trapped my power there.”
 
 For the first time she noticed how stiffly he was crouching.
 
@@ -147,6 +145,8 @@ She described the garden door of her bedchamber, the reed screen inside it, the 
 “I may be slow,” she said.
 
 “I will wait.”
+
+She shut her eyes briefly. The prayer she had come to make was finished. Now she had to get back to her room.
 
 He rose and went along the wall toward the gardens. Taremet waited until she could no longer hear his steps, then raised her hand for the bearers. They came running.
 
@@ -220,7 +220,7 @@ He found the knucklebones on the stool beside his chair. “One throw?”
 
 “You've never needed my help with that.”
 
-It should have annoyed her. Usually he kept a tally of her worst throws for weeks, long after she had forgotten their victories. Tonight she wanted him to keep talking. Instead she asked to see what he had brought from the temple.
+It should have annoyed her. Usually he kept a tally of her worst throws for weeks, long after she had forgotten her own wins. Tonight she wanted him to keep talking. Instead she asked to see what he had brought from the temple.
 
 His hand closed over the bones.
 
@@ -234,7 +234,7 @@ His hand closed over the bones.
 
 “You wanted to go. Yesterday you wouldn't look out of the window.”
 
-She could tell him how much the journey had hurt. He was watching her so hopefully that she let it pass. He put the game away and stood, smiling now, as if her curiosity too were evidence.
+She could tell him how much the journey had hurt. He was watching her so hopefully that she let it pass. He put the game away and stood, smiling now.
 
 “Wait here.”
 
@@ -272,7 +272,7 @@ Taremet looked at the gold seams. Her father folded the linen over the teeth, ex
 
 “Then it takes longer.”
 
-He saw her face and knelt beside the bed.
+He saw her face and knelt beside the bed, on her left by his chair.
 
 “You were cold,” he said. “That night before I went. I could feel you getting colder while I held you.”
 
@@ -280,7 +280,7 @@ She remembered his hands rubbing her arms, too hard, and how she had lacked the 
 
 “I wasn't going to sit there again.”
 
-He kissed her fingers. The relic lay beneath them, wrapped and within reach. Behind the screen, a shadow crossed the garden doorway, where the first grey of morning had begun to show.
+He kissed the fingers of her left hand. Her right still lay on the linen beside the wrapped relic, within reach. Behind the screen, a shadow crossed the garden doorway, where the first grey of morning had begun to show.
 
 “Father.”
 
@@ -372,7 +372,7 @@ Her father rocked her once, trying to find a position in which she could breathe
 
 “Look at her.”
 
-Anubis did. She wished he would go. She wished she could stop being frightened of what she had asked him to permit.
+Anubis did. She wished he would go.
 
 Khaseb called for the physician. One guard left; the other stayed at the door with his spear lowered. Her father rubbed her arm, and she made a small sound.
 
@@ -382,7 +382,7 @@ Khaseb called for the physician. One guard left; the other stayed at the door wi
 
 He stopped at once. The place his hand had warmed cooled slowly through the linen.
 
-She had meant to leave him a daughter who wanted to stay. Now she had to let him keep believing he had almost saved her. He bent his head to hear what she might say next. She could see a strand of her hair caught in his beard.
+He bent his head to hear what she might say next. She could see a strand of her hair caught in his beard.
 
 “Will you kiss me?”
 

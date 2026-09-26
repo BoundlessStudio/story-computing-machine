@@ -48,7 +48,7 @@ The tram had stopped between stations. Its doors gave three warning notes althou
 
 The man’s left hand closed around the emergency lever.
 
-Not to open the doors. To hold them shut.
+He meant to bring the partition door down across the forward gangway.
 
 That purpose arrived without explanation and with the force of a command. Pressure crowded his ribs. There were people behind him. There were people coming. If the barrier did not seal before—
 
@@ -60,7 +60,7 @@ In the carriage, a woman caught his elbow. “Sir. Let go.”
 
 “Clear the door,” he told her.
 
-“There is no door open.”
+“Nothing’s closing.”
 
 “Not yet.”
 
@@ -78,11 +78,11 @@ The attendant put both hands over his. For one instant, pressure enclosed his le
 
 The tram disappeared.
 
-Rain hammered a sheet-metal roof. The same hand gripped a wheel crusted with red paint, and floodwater shoved against a factory gate on the other side. The man wore another coat. The white line below his thumb was not there.
+Rain hammered a sheet-metal roof. The same hand gripped a wheel crusted with red paint, and beyond the fire gate it worked, the far end of a factory floor was burning. The man wore another coat.
 
 “This is eighty-three years earlier,” he said from somewhere close to her ear.
 
-Three workers splashed down a corridor toward him. He could have spun the wheel and protected the machines behind the gate. Instead, he braced it open. Water struck his knees, his hips, his chest. The last worker slipped. He released the wheel to seize the back of her jacket, and the gate slammed hard enough to bend its lower track.
+Three workers ran bent-over down the aisle toward him. He could have spun the wheel and shut the fire away from the machines at his back. Instead, he braced it open. Heat reached his face, then smoke thick enough to taste. The last worker slipped. He released the wheel to seize the back of her jacket, and the gate slammed hard enough to bend its lower track.
 
 An alarm rang three times.
 
@@ -98,11 +98,11 @@ He caught the door before its counterweight could fall and held it while two mor
 
 Here, too, he had kept the barrier open.
 
-The memories were not repetitions. The pressure was. The weight in his palm. The shrinking interval in which strangers became arithmetic.
+Each memory was different, and the pressure in each was the same: the weight in his palm, the shrinking interval in which strangers became arithmetic.
 
 She felt the rug’s braid vanish beneath her shoe.
 
-That loss was the limit, not a metaphor. The session room had become too small to locate. The hand under hers seemed to stretch back through centuries, a continuous line with no safe estimate at its far end.
+Losing it was the limit she had set herself. The session room had become too small to locate. The hand under hers seemed to stretch back through centuries, a continuous line with no safe estimate at its far end.
 
 She released his wrist.
 
@@ -130,9 +130,9 @@ She switched off its green point.
 
 “Six hundred and twelve years.”
 
-“That correction is not helping you.”
+The number sat on the table between them. Her hand had found the table edge again, the way it had when she came out.
 
-His attention dropped to his left palm. “No.”
+His attention dropped to his left palm.
 
 She waited. In the quiet, rain ticked against the high window, softer than the rain in the factory memory and real in a way that temporarily felt unconvincing.
 
@@ -144,15 +144,15 @@ The figure did not enter the room all at once. First came the absurdity of it. T
 
 She moved her chair back half a foot. The rug whispered under its legs.
 
-His face changed at the sound—not surprise, exactly. Recognition of a consequence he had expected and hoped to postpone.
+His face changed at the sound.
 
 “I asked for the first occurrence,” he said.
 
-“You asked me to follow you there without telling me where there was.”
+“Why didn’t you tell me?”
 
 “If I tell people, they stop asking what is happening to me. They ask what happened to everyone else.”
 
-“I’m asking what happened to me five minutes ago.”
+“I couldn’t feel the rug.” She pressed her heel down on the braid. “I was standing on it.”
 
 He looked toward the dark slate again. “You left.”
 
@@ -160,23 +160,21 @@ He looked toward the dark slate again. “You left.”
 
 “I didn’t stop you.”
 
-“You didn’t tell me I might have to find my way out of twenty-five thousand years of compressed memory.”
+She took a breath. “How much of your memory is like that?”
 
-The precision drained from his posture. Not from his words; those became more exact as the rest of him failed. “Compressed is your inference. Some periods remain detailed. Others are almost empty. I don’t control which until I’m near them.”
+“Some periods remain detailed. Others are almost empty. I don’t control which until I’m near them.”
 
 “That belongs in the risk.”
 
 “Yes.”
 
-The plain admission left them nowhere easy to go.
-
 He took his cuff seam between thumb and finger once more. One stitch, two, three. “The tram was worse than the others. I nearly sealed the forward partition while people were moving through it. I need the source before the next time.”
 
 “Finding a source may not change the next time.”
 
-“I didn’t say cure.” His head came up. “I said source.”
+His head came up. “I know. I still want to know where it starts.”
 
-There it was: the thing he had asked for, narrowed until it could not promise more than it was. She could refuse. She could also continue only by pretending his concealment had not changed what continuation meant.
+She could refuse. If she went on, it would be without pretending that twelve years and twenty-five thousand were the same risk.
 
 She turned the slate facedown.
 
@@ -185,8 +183,6 @@ She turned the slate facedown.
 He glanced at the slate’s dark underside. “Afterward?”
 
 “Afterward, this session ends. Any other decision waits.”
-
-His jaw shifted. He had wanted assurance and found a boundary instead.
 
 “My hold is still the cuff,” he said.
 
@@ -232,7 +228,7 @@ A wounded survivor at the front had one arm hooked through a litter frame. “Ke
 
 Someone behind her shouted, “They’re through the lower cut.”
 
-“Then use your legs,” she answered. “Lift on mine.”
+“Lift,” she answered, breathing hard. “Lift on mine.”
 
 The commander’s voice struck from behind the young man. “Second break.”
 
@@ -242,19 +238,17 @@ Another shock rolled underfoot. A blue fracture ran across the passage wall and 
 
 “You can see five.”
 
-“I counted movement.”
+“Eleven.”
 
-“You counted dust. Hold for the third break. Then seal.”
+“Hold for the third break. Then seal.”
 
-The survivors ran unevenly, bound by the litter between them. One stumbled and pushed the frame toward the others.
+The survivors ran unevenly, bound by the litter between them. One stumbled and pushed the frame toward the others. “Take it.”
 
-“Take it.”
-
-“Get your hand back on.”
+The front survivor kept her grip on her own side. “Hand back on. Back on.”
 
 “I’m slowing it.”
 
-“You’re walking.” The front survivor caught his harness and dragged him upright without stopping. “Walk faster.”
+She caught his harness and dragged him upright without stopping. “Hold the strap. Feet under you.”
 
 There were people behind the young man too. He did not turn to count them. The commander had given numbers earlier—hundreds in the chambers beyond the inner turn, stores, water vessels, children carried down from the upper shelters—but those facts were now only pressure without pictures. The memory could not show what his eyes had not.
 
@@ -266,9 +260,9 @@ The young man did not move.
 
 The first survivor crossed beneath the suspended barrier. She pulled one side of the litter. Two others supported the middle. A man at the back looked over his shoulder into dust boiling around the bend.
 
-“Now,” he yelled. It was not clear whether he meant the gate or their feet.
+“Now,” the rear man yelled. It was not clear whether he meant the gate or their feet.
 
-“Seven through,” the young man said.
+“Seven at the gate,” the young man said.
 
 “Seal.”
 
@@ -314,9 +308,9 @@ He counted seven. He counted nine. The rhythm broke and began again beneath the 
 
 “Release the wheel.”
 
-“You saw the line. How many?”
+“You were behind me. How many?”
 
-“I saw the fracture.”
+“The fracture was in the housing. Let go of the wheel.”
 
 The barrier rang with three descending notes as the fused ribs cooled.
 
@@ -326,17 +320,17 @@ The memory snapped back to the instant before his hand turned.
 
 Again the survivors came through the dust. Again someone fell near the bend.
 
-“There was a voice after the third break.”
+“The one at the back said ‘now.’ To me, or to them?”
 
-She listened from inside his hearing. Commands behind. Running feet ahead. The thin weapon-cry in the rock. Nothing else she could separate.
+She listened from inside his hearing. Commands behind. Running feet ahead. The thin weapon-cry in the rock. No single voice she could separate.
 
-“I don’t hear one,” she said.
+“I can’t hear him this time,” she said.
 
-“The one at the back said something.”
+“He turned to say it. Watch his face.”
 
 The passage reset.
 
-This time the man at the rear seemed nearer. His mouth opened. Dust covered his face.
+This time the rear man seemed nearer. His mouth opened. Dust covered his face.
 
 “You moved him,” she said.
 
@@ -346,13 +340,13 @@ This time the man at the rear seemed nearer. His mouth opened. Dust covered his 
 
 “He was beside it.”
 
-The memory shuddered. The man stood in both places for a breath, not as two people but as two attempts to know where one person had been.
+The memory shuddered. The rear man stood in both places for a breath, not as two people but as two attempts to know where one person had been.
 
 The client’s fingers closed around hers in the session room, distant but unmistakable.
 
 “Again,” he said.
 
-She felt what he wanted from the missing voice. Not forgiveness. A fact: warning or accusation, permission or plea. Anything definite enough to finish the calculation he had carried through every closing door since.
+She felt what he wanted from the rear man’s one word: to know whether it had been warning or accusation, permission or plea. Anything definite enough to finish the calculation he had carried through every closing door since.
 
 The wall flashed. Third break.
 
@@ -406,11 +400,9 @@ She waited until he looked at her.
 
 “That’s where it begins,” he said.
 
-It was the first answer he had given without a measurement attached.
-
 She turned the slate upright but did not switch it on. “Do you want the earlier room audio kept?”
 
-He considered the little black square as if it were another barrier under his hand. “Keep the tram. Remove everything after you asked my age.”
+He considered the little black square. “Keep the tram. Take out both places where I said the years.”
 
 “Done.”
 

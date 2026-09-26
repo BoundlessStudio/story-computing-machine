@@ -64,7 +64,7 @@ I knew what dawn did to the valley. Apples returned to their branches. Ash becam
 
 She had told me that she kept the valley in autumn because winters here were cruel.
 
-"The country beyond the pass," I said. "Does it do this too?"
+"The country beyond the pass," I said. We were still crouched behind the boulder. "Does it do this too?"
 
 "Yes."
 
@@ -74,7 +74,7 @@ She had told me that she kept the valley in autumn because winters here were cru
 
 I looked downhill again. I had imagined leaving our morning behind and reaching a place where it was spring. Somewhere there ought to have been people living through all the seasons I had missed.
 
-"There isn't a different day outside," she said. "I bring the whole world back to the same dawn. I carry you and me through it, with what we're wearing or holding. Everything else goes back."
+"There isn't a different day outside," she said. "I bring the whole world back to the same dawn."
 
 The dent in the frying pan was new. I ran my thumb along it while she spoke.
 
@@ -108,7 +108,7 @@ We stayed behind the boulder long after he had gone. Besset picked the grit from
 
 On the way home she told me about my mother. I had known there was a mother, and that she was dead. Besset had given me those facts years apart, whenever I grew old enough to ask a question that could no longer be put off. This time she told me how.
 
-The footbridge across the pass had been narrow, with room for one person at a time. My mother waited until Besset was across with me before cutting its ropes. The man reached her while she was still cutting. Besset saw him strike her, saw the bridge swing against the cliff with both of them on it. He caught a ledge on the far side. My mother fell.
+The footbridge across the pass had been narrow, with room for one person at a time. My mother waited until Besset was across with me before cutting its ropes at our end. The man reached her while she was still cutting. Besset saw him strike her, saw the bridge swing away against the far cliff with both of them on it. He caught a ledge there. My mother fell.
 
 "It took me until morning to finish the working," Besset said. She had stopped where a low branch crossed the path. "He was climbing out by then. Without what she did, he'd have reached us in minutes."
 
@@ -148,15 +148,15 @@ Her left arm rested crookedly against her ribs. She could use that hand to hold 
 
 "I did fall. After."
 
-"And this stayed."
+I looked at the arm against her ribs. "And this stayed."
 
 She pulled her sleeve back. The scar puckered across the inside of her elbow. I had seen it hundreds of times while we washed clothes.
 
 "I don't go back any more than you do," she said. "If he kills me, I won't be here to renew the day."
 
-I began to understand what she did every dawn with her eyes closed, while I complained about breakfast or tried to sleep. I also remembered telling her, three days ago, that I wanted to leave.
+I began to understand what she did every dawn with her eyes closed, while I complained about breakfast or tried to sleep. I also remembered telling her, three days ago, that I was going.
 
-"When I said I wanted to leave," I said. "You could have told me then."
+I folded the cloth over my hand. "When I said I wanted to leave. You could have told me then."
 
 "I was going to."
 
@@ -164,19 +164,17 @@ I began to understand what she did every dawn with her eyes closed, while I comp
 
 She looked at the bag beside the door.
 
-For a while we listened to the fire. It settled with a familiar pop, and Besset put out a hand to catch a spark before it reached the blanket on her knee.
+For a while we listened to the fire. It settled with a familiar pop, and a spark jumped onto the blanket over Besset's knee. She pinched it out.
 
 "I can shoot," I said.
 
-"Rabbits."
+"So could I."
 
-"And deer."
+She turned the burnt spot in the blanket toward the light and rubbed it with her thumb.
 
-"They don't shoot back."
+"There's a gully below the white stones," I said. "Wounded deer go up it. I've followed them in."
 
-"I know that now."
-
-She opened her mouth, then turned the burnt spot in the blanket toward the light. I waited. I had learned patience in the woods, though Besset seldom saw any evidence of it at home.
+She opened her mouth. Then she looked down at the blanket again. I waited. I had learned patience in the woods, though Besset seldom saw any evidence of it at home.
 
 "Let me help," I said.
 
@@ -190,9 +188,9 @@ By noon the little crossbow was lying between us. Besset had brought it down fro
 
 I loaded it for her.
 
-Outside, she knelt behind a stump and put a bolt into the centre of a scrap of cloth. Then she stayed there, staring at what she had done, until I went to fetch it.
+Outside, she knelt behind a stump and put a bolt into the centre of a scrap of cloth. Then she stayed there, staring at what she had done, until I went to fetch the bolt. When I came back I loaded the crossbow again.
 
-We chose a stony gully below the boulder where she'd pulled me to safety. I knew it from following wounded deer past the white stones, farther than I was allowed to go. The gully bent sharply at its upper end. A flat shelf overlooked the bend; on the other side, a fallen beech offered Besset cover and a rest for her crossbow. Behind us the path climbed toward home.
+We chose the gully I had told her about, below the boulder where she'd pulled me to safety. It was stony, and it bent sharply at its upper end. A flat shelf overlooked the bend; on the other side, a fallen beech offered Besset cover and a rest for her crossbow. Behind us the path climbed toward home.
 
 I would let him see me at the bend. While he watched my bow, Besset would have a shot from his side.
 
@@ -230,7 +228,7 @@ Besset waited beyond the gully, mostly hidden by the beech. Once she lifted a ha
 
 A long time later, a boot scraped on the path below.
 
-He came slowly through the birches, looking up as though he had heard me breathe. At the mouth of the gully he stopped. The moon showed a narrow face, a grey beard, a dark patch of sweat at his collar. His hand shook when he lowered the crossbow.
+He came slowly through the birches, looking up as though he had heard me breathe. At the mouth of the gully he stopped, a few steps short of the bend, where its wall hid him from the beech. The moon showed a narrow face, a grey beard, a dark patch of sweat at his collar. His hand shook when he lowered the crossbow.
 
 I stood on the shelf with my bow drawn.
 
@@ -242,7 +240,7 @@ I had thought I could loose as easily as I did at a deer. I had never imagined h
 
 He raised the crossbow.
 
-I fired. My arrow struck the rock beside his shoulder. He threw himself backward into the birches, and the bolt he shot went whining up the gully. Besset did not fire; the trees had already hidden him from her.
+I fired. My arrow struck the rock beside his shoulder. He threw himself backward into the birches, and the bolt he shot went whining up the gully. Besset never had a shot.
 
 I reached for another arrow. The last one had left my fingers badly. I could feel it happening again before I had even set it to the string.
 
@@ -340,7 +338,7 @@ Besset began to cry. She leaned forward with both hands over her face, and I hel
 
 It took us most of that new morning to get home.
 
-The following dawn I woke with the spare shirt under my head. Its missing strips had not returned. Neither had the wood we had burned, or the apples we had eaten. Rain arrived before noon, several hours earlier than I expected.
+The following dawn I woke with the spare shirt under my head. Its missing strips had not returned. Neither had the wood we had burned, or the apples we had eaten. Before noon it began to rain, which our day had never done. I stood in the doorway and watched it.
 
 The valley took weeks to lose its leaves. I had expected the season to change all at once, as if winter had been waiting just behind the morning. Instead the gold thinned from the trees a little each day. Bare twigs appeared. Besset learned to walk with a stick, and I learned which movements made my shoulder hurt.
 

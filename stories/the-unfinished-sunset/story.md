@@ -14,7 +14,7 @@ That was the first accusation.
 
 Two shepherds had tried to guide her up from the lower valley. Both had come back to the same cairn facing downhill, certain they had followed the north track. Arveth had continued alone. At the last rise, her white hair was full of road dust, her left hip burned, and the old sword knocked against her pack with every other step.
 
-Beyond the boundary ditch, Aderi lay in a light too yellow to be evening and too still to be weather. Barley terraces held one long slant of sun. The mill wheel flashed at the same point in each turn. Above the roofs, rows of mineral panes stood on black wooden vanes, holding the sunset over the village as they had been built to do during harvest.
+Beyond the boundary ditch, Aderi lay in a light too yellow to be evening and too still to be weather. Barley terraces held one long slant of sun. Each turn the sun sank the same short way toward the western ridge, and the mill wheel flashed at the same point in its round. Above the roofs, rows of mineral panes stood on black wooden vanes, holding the sunset over the village as they had been built to do during harvest.
 
 Forty-three minutes. That was all the keepers had ever charged them to hold.
 
@@ -50,7 +50,7 @@ An old man was already descending the ladder from the pane walk. His sleeves wer
 
 “Which is why it goes first.” Halen reached the terrace and looked Arveth over once, not lingering on her white hair. “How long to the notch?”
 
-A child sitting on the mill wall checked the fixed sun against a split in the western ridge. “Six minutes. Maybe five and three quarters. The smoke is thick today, but it was thick at the start, so that doesn't help.”
+A child sitting on the mill wall checked the sun against a split in the western ridge. “Six minutes. Maybe five and three quarters.”
 
 The voice had a quick adult impatience. Arveth recognized the small blunt chin only after the child jumped down.
 
@@ -88,27 +88,21 @@ Neth took two more running steps, stopped, and kicked the wall.
 
 Arveth's own feet had not moved. The reset had passed through her like a cold wire, finding no place to put her.
 
-“First boundary condition,” Neth continued, fast now. “Anything inside at closure returns to where it was. You weren't inside. Second: changes to our bodies return too. New cuts close, but an old injury comes back. So do the hunger and fatigue we had at closure. Third: what we remember stays. So does what we learn. So does being afraid of something that technically hasn't happened anymore.”
+“It went straight through you,” Neth went on, fast now. “You weren't inside when it closed, so it's got nothing of yours to put back. We keep what's in our heads, all of it, and I still duck when the panes flash, every turn for twenty years, and they have never once hurt anybody, I've checked, I've checked every way there is.”
 
 Halen fitted the broken peg on a shaving block. “Neth.”
 
-“She needs the short version.”
+Neth stopped.
 
-“She needs the safe version. West pin, three lower vanes, joined pressure. No experiments while I seat the pin.”
+“West pin, three lower vanes, joined pressure,” Halen said. “No experiments while I seat the pin.”
 
-Neth folded their arms. “I stopped experimenting with the vanes fourteen years ago.”
-
-“You proposed one yesterday.”
-
-“I stopped conducting them.”
+Neth folded their arms. “I haven't touched the vanes in fourteen years.”
 
 The miller caught Arveth looking at the unbroken sack. “We can eat. The food comes back. So does the empty feeling. I have ground this load more times than you've eaten supper on the road, and it has never once become flour that lasts.” She pulled the sack toward the mill. “I want night. Halen wants every hinge clean first. The elder wants you tied to the trough. Ilessa doesn't tell me what she wants.”
 
-“A vane breaks under moving charge, the catch may go with it,” Halen said without looking up. “Then there's no return to recover.”
+“A vane breaks under moving charge, the catch may go with it,” Halen said without looking up. “Then nothing resets. Whatever breaks stays broken, and whoever's under it stays hurt.”
 
 “I heard you the first thousand times.”
-
-“Keep away from the hinges, then.”
 
 Ilessa had already gone to the sun-catch frame. She tested the west socket with both hands, then knelt to steady the split peg while Halen shaved it. Every reset returned the peg to broken wood, but his fingers retained the shaping.
 
@@ -138,13 +132,9 @@ The sword struck the floor. The hum stopped. The pane went dull.
 
 Ilessa nudged the fallen weapon back with her boot.
 
-“Joined pressure,” Halen said from the frame. “Not touching. Not possession. Opposed pressure, unbroken until separation. West pin, three vanes, joined pressure.”
+“Joined pressure,” Halen said from the frame. “Both blades pushing, and still pushing when the sword leaves your hand. West pin, three vanes, joined pressure.”
 
-“We made a handle and had her pull against it,” Neth said. “We put the blade in a vise. We used another sword. We had Ilessa hold your wrist and take it. We asked the catch nicely, too, in case twenty years had improved its judgment.”
-
-The elder had taken a seat beside the watering trough. “Have her yield properly.”
-
-“Words don't enter the rail,” Halen said.
+“We tried it without you,” Neth said. “The miller played you, with Halen's spare sword, and Ilessa took it off her. Then the elder. Then me, standing on a tub to get the height. The panes never warmed. We asked the catch nicely, too, in case twenty years had improved its judgment.”
 
 Arveth picked up the sword. Her stiff hip complained when she straightened. “Then she can take it while I resist.”
 
@@ -160,35 +150,23 @@ Ilessa broke contact and stepped out.
 
 “You need it out of my hand.”
 
-Ilessa tapped the flat of Arveth's sword with two fingers, then pointed to Arveth's feet. Her meaning was plain: she would not rehearse another escape disguised as cooperation.
+Ilessa tapped the flat of Arveth's sword with two fingers, then pointed at Arveth's back foot. It was already turned downhill, toward the ditch. Arveth brought it back square.
 
-Neth hopped onto the terrace wall. “If you're pretending, the opposed motion ends before the separation. We measured the pane response.”
-
-“How?” Arveth asked.
-
-“Brightness, sound, heat, the draw on the rail, shadow displacement, and once with moths. Moths were unreliable.”
-
-Halen said, “No moths today.”
-
-“I didn't bring any.”
-
-The mill started behind them. On its second grinding turn, a few villagers returned to the fields. The elder remained.
+The mill started behind them. On its second grinding turn, a few villagers returned to the fields. The elder remained, seated on the rim of the watering trough.
 
 Arveth sheathed her sword. “I should see the boundary.”
 
-“You saw it when you crossed,” the elder said.
+The elder's hand tightened on the stone. “Not the ditch. I'm too old to watch that road another twenty years.”
 
-“I want to know what closes when the blades meet.”
-
-Ilessa walked downhill without waiting for agreement.
+Ilessa was already walking downhill. Arveth followed her.
 
 At the ditch, Neth tied a blue wool thread around their wrist and gave the other end to the miller. They had clearly done this before; the miller paid out line without looking up from a handful of grain.
 
-“Walking first,” Neth said. “Then running. Angles don't matter, but I check because conditions can change.”
+“Walking first,” Neth said. “Then running. Angles don't matter. I check anyway.”
 
 They stepped into the ditch. Their foot reached the outer lip. The air folded with a small sound like cloth shaken once, and Neth stood inside the boundary again, facing inward. The blue thread never went taut.
 
-“Carried, pulled, unconscious, on a cart, under the culvert, above it with a ladder,” Neth said. “No crossing. Things thrown out arrive back here. You can leave because your movement was never closed.”
+“Carried, pulled, on a cart, down a hole we dug under it,” Neth said. “Anything we throw out lands back here. You could walk out now.”
 
 Arveth looked along the ditch toward the south track. “Patrol was nine mounted. Six followed me past the shale cut. Three stayed below until smoke covered the terraces.”
 
@@ -196,11 +174,7 @@ No one had asked.
 
 The miller rubbed a grain between finger and thumb. “Did you lose them?”
 
-“Two horses broke legs in scree. The riders continued. I crossed the eastern river before the flood came through.”
-
-“That wasn't the question,” Neth said.
-
-“They didn't come back here.”
+“Two horses broke legs in scree. The riders continued. I crossed the eastern river before the flood came through.” Arveth kept her eyes on the south track. “They didn't come back here.”
 
 Ilessa crouched at the boundary and pushed her blade into the dry dirt. The point stopped where the air folded. She watched the steel, not Arveth.
 
@@ -210,19 +184,17 @@ Ilessa had opposed the risk. Arveth had cut the release braid and crossed the di
 
 “The lower road stayed watched eleven days,” Arveth said. “Then snow took the pass.”
 
-Neth answered at once. “That accounts for eleven days and a winter.”
+Neth had been winding the blue thread around their fingers. “I sat on the mill wall every turn the first year. I had a count going. Turns to a day, days to the pass opening, how long the road up would take you.” They pulled the thread tight. “I kept it four years.”
 
-“In spring I was east of the river.”
+“In spring I was east of the river,” Arveth said.
 
-“Road fact.”
-
-Arveth looked up toward the lane she had not entered. A loom knocked there again. Three beats, pause, two beats. Her mouth formed the beginning of a word and stopped.
+She looked up toward the lane she had not entered. A loom knocked there again. Three beats, pause, two beats. Her mouth formed the beginning of a word and stopped.
 
 She tried Ilessa's name next, meaning to make it carry every other name she had not asked after. Nothing came.
 
 Ilessa pulled her blade from the dirt.
 
-“I came within two ridges the next spring,” Arveth said. “I saw no smoke. I thought the catch had failed. Or released.”
+“I came within two ridges the spring after that,” Arveth said. “I saw no chimney smoke. I decided the catch had failed.”
 
 The miller's handful of grain trickled back into the sack. “You could have checked.”
 
@@ -234,9 +206,9 @@ Ilessa's gaze settled on Arveth at last. “I saw you cut the braid. I saw you c
 
 Then she headed back to the terrace.
 
-The next reset returned Neth to the salt errand and the miller's grain to the torn sack. Arveth remained beside the ditch with twenty years in her knees.
+The next reset returned Neth to the salt errand and the miller's grain to its sack. Arveth remained beside the ditch with twenty years in her knees.
 
-Halen used most of the new turn to prepare. He shaved the west pin until it entered without forcing. He and two other keepers laid their palms against the copper rail, not to add charge but to feel whether the old load shifted evenly. At the cut release braid he wove a temporary bridge of copper wire and green flax. He tested it, unwove it, and started again.
+Halen used most of the new turn to prepare. He shaved the west pin until it entered without forcing, and nicked his thumb doing it. He and two other keepers laid their palms against the copper rail, not to add charge but to feel whether the old load shifted evenly. At the cut release braid he wove a temporary bridge of copper wire and green flax. He tested it, unwove it, and started again.
 
 “West pin,” he said each time someone spoke to him. “Three lower vanes. Joined pressure.”
 
@@ -244,7 +216,7 @@ The miller moved her sacks under the eave. “If we get dark, I want the grain d
 
 The elder stationed two field workers near the ditch, watching Arveth rather than the catch. Others chose the stone houses. One farmer stayed on the terrace to hold a vane rope. The game players finished their match in the dust and disagreed over the last move until Halen ordered them away from the frame.
 
-Neth marked the boundary with bits of chalk at six-step intervals. “For after,” they said. “If there is an after.”
+Neth marked the boundary with bits of chalk at six-step intervals. “For after,” they said.
 
 Ilessa worked through the terrace footings, stopping twice to scrape barley chaff away from a landing place. Each movement ended with her balanced to move again.
 
@@ -252,7 +224,7 @@ Arveth rolled her left shoulder. Age had not made her slow everywhere, only in p
 
 Halen tied off the bridge. “On my call. If a lower vane sticks, stop. If the west pin lifts, stop. If either blade loses pressure before separation, stop. We can reset and try again.”
 
-“We can,” the miller said. “I'd rather not.”
+“I'd rather not,” the miller said, looking at her sacks.
 
 Ilessa stepped onto the threshing floor.
 
@@ -326,9 +298,9 @@ For several breaths nothing else happened.
 
 Then the sun passed through the notch.
 
-Neth's chalk marks stayed beside the ditch. Halen's new pin stayed seated. A bruise darkened across Arveth's knuckles and did not clear. Along the lane, doors opened on a light none of them had seen reach the ground.
+Neth's chalk marks stayed beside the ditch. Halen's new pin stayed seated, and the nick on his thumb did not close. Along the lane, doors opened on a light none of them had seen reach the ground.
 
-Ilessa did not age. Neth's patched sleeves did not shorten. Their bodies kept no missing years to collect, and their memories did not empty.
+Ilessa did not age. Neth's patched sleeves did not shorten.
 
 Night came at its ordinary speed.
 

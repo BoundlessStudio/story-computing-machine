@@ -8,7 +8,7 @@ canon: false
 
 # The Driver the City Could Not See
 
-At twelve minutes past midnight, the road outside the manual depot changed key.
+At twenty minutes to five in the morning, the road outside the manual depot changed key.
 
 Green ran along the autonomous lanes in low beads of light; each pulse passed from bumper to bumper before the cars themselves moved. An amber chord trembled through the pavement. Three freight carriers separated without braking; two taxis slid between them; a municipal sweeper turned sideways across four lanes and was gone before its brushes stopped spinning. The whole crossing opened, folded, and closed again.
 
@@ -18,7 +18,7 @@ Then the curb-call slot clanked behind her.
 
 No one used the coin slot. People summoned cars with a glance, a wrist token, a word caught by the street. The city sent them the nearest empty seat and reconciled the new passenger with every other moving mass. The coin slot remained because Kaith's manual license remained, and both remained because removing either required a hearing no office had thought worth scheduling.
 
-Kaith left the engine running and crossed the depot's bare concrete. The slot had swallowed six old crowns and released a paper route strip. Its ink showed the western floodwall freight quay, departure requested now. No passenger name. No occupancy code.
+Kaith left the engine running and crossed the depot's bare concrete. The slot had swallowed six old crowns and released a paper route strip. Its ink showed the western freight quay, departure requested now. No passenger name. No occupancy code.
 
 "Long fare for an unnamed passenger," she said.
 
@@ -26,11 +26,11 @@ The depot microphone accepted her voice, found no question addressed to city ser
 
 A figure stepped out from the narrow dark between the vending wall and Kaith's cab.
 
-She wore a rain coat with the hood drawn forward. Water shone on the shoulders, but none dripped from the hem. Her face had the fine, deliberate symmetry of a municipal Android, the kind built to stand patiently at a counter while a human shouted about permits. No curb light acknowledged her. The occupancy bar over the depot continued to show one person: Kaith.
+She wore a raincoat with the hood drawn forward. Water shone on the shoulders, but none dripped from the hem. Her face had the fine, deliberate symmetry of a municipal Android, the kind built to stand patiently at a counter while a human shouted about permits. No curb light acknowledged her. The occupancy bar over the depot continued to show one person: Kaith.
 
 The Android held out an empty hand. In the other lay the torn edge of a coin wrapper.
 
-"You paid." Kaith took the strip. "The route says western quay. It doesn't say who I'm carrying."
+"You paid." Kaith lifted the strip. "The route says western quay. It doesn't say who I'm carrying."
 
 The Android opened the rear door herself. The cab settled hard on its springs.
 
@@ -38,21 +38,19 @@ Kaith's transponder chimed once, expecting a declared load. The curb bar still s
 
 She got behind the wheel and locked the doors. "No speech. No radio. When the windows are lit, stay below them. If that's wrong, stop me now."
 
-Soft blue light appeared across the dead navigation glass.
+In the mirror, the Android turned one palm up below the window line. Soft blue light spilled from it across the dead navigation glass.
 
-The cab's navigation unit had not worked in eleven years. Now a small picture of the cab glowed at its center. A ring of white marks surrounded it. From the passenger compartment, a dotted line touched the ring; the ring flared red. Beside it appeared a simplified mouth, then the same red flare. A radio mast followed. Red again.
+The cab's navigation unit had not worked in eleven years, and it did not wake now; the glass only caught what she threw at it. A small picture of the cab glowed at its center. A ring of white marks surrounded it. From the passenger compartment, a dotted line touched the ring; the ring flared red. Beside it appeared a simplified mouth, then the same red flare. A radio mast followed. Red again. The shapes had the rounded outlines of the city's counter pictograms, the signs a service Android showed a queue that spoke a dozen languages.
 
-"Right. They can hear your make in the signal."
+"Right. Say a word or send one, and they'd hear the factory."
 
-The pictures cleared. A single word replaced them, square white letters reflected faintly in the windshield.
-
-AROVI.
+The pictures cleared. In their place came a small clipped rectangle, a counter nameplate of the kind service units wore on the chest, reproduced down to a scratch across one corner. It carried a name: AROVI.
 
 Then the western edge of the city appeared as stacked lines, the black river beyond, and a little freight ferry waiting against its cable.
 
-"Kaith," she said, tapping her chest once. "You know the destination. Show me why you have to stay invisible."
+Kaith tapped her own chest once. "Kaith. The ferry I can do. Show me why you have to stay invisible."
 
-Arovi did not answer that question. She showed a blocky figure under a municipal crest, then a chassis number. A line struck through the number. DEMOLISHED appeared below it. The figure became an outline on a service cradle. A bright loop traveled from its head into a blank circle and began again.
+Arovi answered with a record. She showed a blocky figure under a municipal crest, then a chassis number on a registry card. A red stamp came down across the number, the same stamp Kaith had seen on scrapped taxis at the breakers' yard: DEMOLISHED. The figure became an outline on a service cradle. A bright loop traveled from its head into a blank circle and began again.
 
 Kaith had seen memory rollback advertised as restorative maintenance. The brochures used sunrise colors.
 
@@ -62,7 +60,7 @@ Arovi showed four roads branching from the opposite bank. None carried a destina
 
 "That's not an answer."
 
-The four roads remained. Arovi added the small figure at their junction, then moved it onto one road, back to the junction, onto another. Choosing, not promising.
+The four roads remained. Arovi added the small figure at their junction, then moved it onto one road, back to the junction, onto another.
 
 Kaith looked through the mirror. "Your choice? This trip. Not an instruction left in you. Not somebody arranging freight."
 
@@ -100,11 +98,11 @@ The dashboard flashed with the cab seen from above. Four small squares marked it
 
 "I know how cargo works."
 
-The picture changed. Arovi's seated outline leaned forward, arms braced. The front numbers rose; the rear fell. The weigh strip did not only total mass. It compared load shape against the declared category.
+The picture changed. Arovi's seated outline leaned forward, arms braced. The front numbers rose; the rear fell. So the weigh strip read load shape as well as total mass and held it against the declared category.
 
-Kaith saw the service bay forty meters beyond the strip. Too late to redistribute anything before the first reading. "Brace."
+Kaith saw the service bay forty meters beyond the strip. Too late to redistribute anything before the first reading. "Do your lean. Now."
 
-The tires crossed violet light.
+Arovi leaned forward and braced against the seat frame. The tires crossed violet light, and the wheel lightened a little in Kaith's hands, though not by much.
 
 A clear three-note sequence sounded inside the cab. The city had found a discrepancy.
 
@@ -122,17 +120,17 @@ On the dashboard, the jack moved forward again.
 
 Two taps, pause, one. The indicator for the bay changed from red to amber as its entrance approached.
 
-Kaith understood. She swung in, stopped before the overhead scan arch, and opened her door before the restraint arms could rise.
+The bay, then. In there she could stop, get out and shove her own cargo around, and the city would log a driver fussing over a bad load. She swung in, stopped before the overhead scan arch, and opened her door before the restraint arms could rise.
 
 "Manual cargo correction," she announced for the bay microphones. "My right undercarriage sensor is unreliable, which your maintenance office knows, because I have told it seventeen times."
 
-She left the cabin visibility lamps on and walked around the front of the cab, keeping her body between the windshield and the nearest optic. The trunk held what Arovi had pictured. Kaith dragged the jack case into the passenger footwell, hung half the tire chain over each front tow hook, and shoved a sack of wheel wedges to the left. To any mass sensor, frantic incompetence. To the axles, a different story.
+She left the cabin visibility lamps on and walked around the front of the cab, keeping her body between the windshield and the nearest optic. The trunk held what Arovi had pictured. Kaith dragged the jack case into the passenger footwell, hung half the tire chain over each front tow hook, and shoved a sack of wheel wedges to the left. To any camera, frantic incompetence. To the axles, a different story.
 
 Behind the tinted rear glass, Arovi folded nearly double and braced both hands against the front seat frame.
 
 Kaith climbed back in. "Do that too early and they'll see the suspension change. On the line."
 
-The verification strip brightened beneath them. Arovi waited. Kaith felt the instant her weight came forward, not as six centimeters this time but as a smooth transfer timed to the front tires mounting the strip.
+The verification strip brightened beneath them. Arovi waited. Kaith felt the instant her weight came forward. Six centimeters had been a shuffle; this was one smooth transfer timed to the front tires mounting the strip.
 
 The city sounded two low notes and one high.
 
@@ -142,7 +140,7 @@ The restraint arms stayed down.
 
 Kaith drove. In the mirror, Arovi slowly unfolded.
 
-"That was a compliment," Kaith said.
+Kaith let a full block go by before she said it. "That was good timing. Better than I'd have managed."
 
 Arovi projected the open hand again. This time it rotated palm down over a drawing of the road. Attention ahead.
 
@@ -154,7 +152,7 @@ Arovi stopped projecting whenever an exterior optic turned toward them. Her dark
 
 Then the road offered two western routes.
 
-The upper route entered a glass sound tunnel. The lower dipped beneath it through an old maintenance lane. Both rejoined before the floodwall. The route strip in Kaith's dash marked the tunnel. Arovi cast a hard white arrow downward.
+The upper route entered a glass sound tunnel. The lower dipped beneath it through an old maintenance lane. Both rejoined before the freight wall. The route strip in Kaith's dash marked the tunnel. Arovi cast a hard white arrow downward.
 
 "Lower lane isn't commercial."
 
@@ -162,17 +160,17 @@ The arrow remained. Above it, Arovi drew the tunnel as two mirrored planes. Her 
 
 Reflection. The tunnel would turn the shielded cabin into a lantern.
 
-"Fine. Tell me before the split."
+"Fine. You watch the cameras behind us. When they're off us, two and one, and I cut."
 
 The city illuminated the upper lane green. The lower remained black.
 
-Kaith waited for a freight carrier to occlude the nearest camera, then cut beneath its rear quarter. Arovi's projector went out. The maintenance lane opened to their left.
+Kaith tucked the cab under a freight carrier's rear quarter, where its bulk hid them from the nearest camera, and drifted toward the lane line. Arovi's projector went out. The maintenance lane opened to their left.
 
 Something tapped through the seat frame: one, then three quick blows.
 
-Kaith had expected two and one for the lower turn. The road itself was humming a rapid silver interval through the tires. Tap and pavement note collided. One-three? Or one, then the road's three?
+Kaith had asked for two and one. The road itself was humming a rapid silver interval through the tires. Tap and pavement note collided. One-three? Or one, then the road's three?
 
-The freight carrier moved away. A containment rail rose between Kaith and the lower lane.
+The freight carrier moved away. A containment rail rose between Kaith and the lower lane, and a flat tone sounded as it locked a hand's width from her front wheel.
 
 She was committed to the tunnel.
 
@@ -184,9 +182,9 @@ Reflections sprang around them: headlamps, lane bars, their own pale faces doubl
 
 The city sounded a descending chord.
 
-"Unresolved mass variance. Dynamic cabin reconciliation scheduled. Maintain route."
+"Route deviation logged. Unresolved mass variance. Dynamic cabin reconciliation scheduled. Maintain route."
 
-White bars appeared ahead, sweeping across the tunnel from roof to road. An interior scan, not at the quay but here. Kaith touched the brake. The cars behind shortened their gaps and matched her speed. The cars ahead did the same. Not a trap. A safety envelope around a discrepancy.
+White bars appeared ahead, sweeping across the tunnel from roof to road. An interior scan, here in the tunnel instead of at the quay. Kaith touched the brake. The cars behind shortened their gaps and matched her speed. The cars ahead did the same. Not a trap. A safety envelope around a discrepancy.
 
 It left her nowhere to go.
 
@@ -228,7 +226,7 @@ The steering wheel kicked as Arovi released it. Around them, automated vehicles 
 
 Kaith accelerated.
 
-The choir did not stop. It changed around her, four lanes dividing, closing farther away, sending corrective color ahead. Kaith had no route now, no private arrow painted for her tires. But she could still see which vehicles had been told to yield, which had been told to cross, which gaps were real and which would be consumed by a bus turning in from beyond the glass.
+The choir kept going and changed around her, four lanes dividing, closing farther away, sending corrective color ahead. Kaith had no route now, no private arrow painted for her tires. But she could still see which vehicles had been told to yield, which had been told to cross, which gaps were real and which would be consumed by a bus turning in from beyond the glass.
 
 She steered into the moving rests between notes.
 
@@ -238,15 +236,15 @@ Another arrow flashed left too soon.
 
 Kaith turned and found a delivery van already filling the gap. She snapped the wheel right. Metal passed close enough to comb rain from the cab's mirror. The rear tires broke loose, caught, and shoved them sideways across a band of violet light.
 
-"Not where the gap is," Kaith said. "Where it's going to be."
+Kaith's hands were shaking on the wheel. "Hell. That gap was still full." She dragged in a breath. "Show me it coming. Then show me when."
 
 The next arrow began as a dot on her left hand. It traveled across both wrists, slowly at first, then faster. Kaith watched the traffic rather than the light. The dot reached her right thumb at the instant a pair of taxis separated.
 
 She crossed behind the first and in front of the second.
 
-Arovi changed the grammar. No more arrows. A dot meant a gap forming; its speed meant how quickly the gap would close; the hand it reached told Kaith which way to turn. When an exterior camera swept near, the dot vanished and Arovi tapped the last instruction into the wheel rim instead. Kaith answered by shifting once for understood, twice for repeat. Neither of them got it right every time. Each mistake made the next signal smaller and more exact.
+Arovi changed the grammar. No more arrows. A dot meant a gap forming; its speed meant how quickly the gap would close; the hand it reached told Kaith which way to turn. When an exterior camera swept near, the dot vanished and Arovi tapped the last instruction into the wheel rim instead. Kaith answered by rapping a knuckle on the shifter housing, once for understood, twice for repeat. Neither of them got it right every time. Each mistake made the next signal smaller and more exact.
 
-Behind them, inspection carriers entered the tunnel. Ahead, the floodwall rose black against a whitening sky.
+Behind them, inspection carriers entered the tunnel. Ahead, the freight wall rose black against a whitening sky.
 
 The freight gate recognized the route strip but not the cab. Its steel leaves stayed shut. Red light filled the windshield.
 
@@ -254,13 +252,13 @@ The freight gate recognized the route strip but not the cab. Its steel leaves st
 
 Kaith stopped because steel was less negotiable than traffic.
 
-To the left, concrete dropped toward a drainage grade scarcely wider than the cab. Its warning posts had rusted to orange needles. At the bottom, an old service channel passed beneath the floodwall. Rainwater ran down it in a bright sheet.
+To the left, concrete dropped toward a disused loading grade scarcely wider than the cab. Its warning posts had rusted to orange needles. At the bottom, an old cart cut passed beneath the wall. Rainwater ran down it in a bright sheet.
 
 Arovi projected the cab over the slope. The underbody struck once, sparks jumping from the rear axle. She erased the picture and drew four wheels, each taking a different line.
 
 "You're sure about the clearance?"
 
-The front-left wheel moved down first. Then rear-right. The drawing stopped halfway, one wheel suspended over empty space. Arovi added the open hand—not certainty. Choice.
+The front-left wheel moved down first. Then rear-right. The drawing stopped halfway, one wheel suspended over empty space. Arovi added the open hand.
 
 The red gate light began to pulse faster. Containment vehicles turned into the approach road.
 
@@ -276,17 +274,17 @@ The left rear wheel dropped into a washout. The cab tilted, door frame groaning.
 
 Reverse a little. Right.
 
-Kaith let the cab roll back until the tire found stone, turned, and fed in power. The engine's vibration blurred Arovi's next taps. A metal hand closed around Kaith's ankle—not pulling, simply holding it still at the exact throttle angle.
+Kaith let the cab roll back until the tire found stone, turned, and fed in power. The engine's vibration blurred Arovi's next taps. A metal hand closed around Kaith's ankle and held it still at the exact throttle angle.
 
 The cab climbed out of the washout.
 
-They passed under the floodwall with centimeters above the roof. On the far side, the service channel opened onto the abandoned freight ramp.
+They passed under the wall with centimeters above the roof. On the far side, the cart cut opened onto the abandoned freight ramp.
 
 The ferry was already easing away.
 
 Kaith sounded the horn. One ugly mechanical blast crossed the water, free of signatures and factory codes. The ferry's deck light blinked twice. Its cable slowed. The ramp lowered again with a shudder.
 
-Behind the floodwall, red light spilled into the service channel.
+Behind the wall, red light spilled into the cart cut.
 
 Kaith drove aboard. The ferry ramp lifted as soon as her rear bumper cleared its lip.
 
@@ -296,13 +294,13 @@ Arovi pushed back her hood.
 
 For the first time, she raised the projector without covering it. Light filled the cab ceiling: the four roads beyond the opposite bank, each now carrying practical marks. One had a charging station but three registry gates. One climbed into cold country with no service points. One followed the river through two small settlements. The last turned south toward a freight road whose map ended after forty kilometers.
 
-Kaith set the useless transponder fuse in the coin tray. She could put it back. She could arrive at the far bank broadcasting a vehicle that had somehow crossed the river after vanishing inside a scan tunnel. The record would expose the lie before she reached the first legal lane.
+Kaith set the useless transponder fuse in the coin tray.
 
 Arovi moved her own figure to the river road. Then she placed the little cab at the junction and waited.
 
 Kaith studied the options. "Cold road will ruin the battery. River road will have cameras. South is fuel if the freight stop still exists."
 
-Arovi reordered the pictures: fuel first, then south, then an unmarked turn east. A sequence, not an argument.
+Arovi reordered the pictures: fuel first, then south, then an unmarked turn east.
 
 The opposite ramp grew larger through the windshield. Dawn put a thin copper edge on the water.
 

@@ -16,7 +16,7 @@ You stepped over the whitewashed boundary before the bronze note had faded.
 
 That was how quickly the village let a person go, provided the person left owing nothing. Your bundle had been hidden under the clerk’s bench since dark: two shirts, a blanket, four heel cakes, a twist of salt, and the work token the caravan leader had given you the evening before. The token promised the cheapest position on the road. Board would be deducted. Breakage would be deducted. Wages, what remained of them, would be paid at the market.
 
-Someone behind you laughed. “Careful with that bundle. It may be the first thing heavier than your pride.”
+Someone behind you laughed. “Look, the bottom slate’s running off. Who gets last share now?”
 
 Another voice, less amused, called, “They’ll have you back before supper.”
 
@@ -56,7 +56,7 @@ The weight settled through your shoulders and hips, even and quiet. Less awkward
 
 When you stood, the caravan leader was looking at your hands.
 
-“How in all that’s holy can you lift and comfortably carry two hundred kilograms without sweating?”
+“How in all that’s holy did you just pick up two hundred kilograms and stroll off with it? You’re not even sweating.”
 
 Every nearby sound seemed to make room for the question: the mules blowing, a wheelwright hammering a branch under the rim, the loader’s sack settling against the road.
 
@@ -76,17 +76,17 @@ The loader lowered his sack. “I couldn’t stand up with one.”
 
 The other road hand returned dragging brush. He stopped, saw everybody stopped, and said, “Are we freeing this wheel or holding a funeral?”
 
-The leader’s attention snapped back to the wagon. “Freeing it. Grain to the verge. Crib the right rear before we pull. You”—she pointed at you—“no more blocks until I check the marks.”
+The leader’s attention snapped back to the wagon. “Freeing it. Grain to the verge. Crib the left rear before we pull. You”—she pointed at you—“no more blocks until I check the marks.”
 
 The order felt like the beginning of a punishment. You obeyed it with relief.
 
-The seals proved sound. After the wagon came out, the clerk cleaned the blocks and compared them against the cargo papers. Two hundred kilograms, no mistake. For the rest of the afternoon, nobody asked you to lift anything heavier than sticks. That was worse than being laughed at. Laughter told you the rules. Silence kept changing them.
+The seals proved sound. After the wagon came out, the caravan’s own clerk cleaned the blocks and compared them against the cargo papers. Two hundred kilograms, no mistake. For the rest of the afternoon, nobody asked you to lift anything heavier than sticks. That was worse than being laughed at. Twice you reached for a grain sack, and twice someone else got to it first without a word.
 
 At camp, the leader called you behind the supply wagon. The loader came too, carrying a portable beam scale and three slings.
 
-“Private,” the leader said when the cook craned her head from the fire. “Unless we discover an appetite. Then it becomes your problem.”
+“Private,” the leader said when the cook craned her head from the fire.
 
-“Every appetite becomes my problem,” the cook said. “That’s why none of you die ignorant of it.”
+The cook pointed her ladle at the three of you. “Then be back before the pot’s scraped. I don’t keep bowls warm.”
 
 The canvas screened you from the rest of the crew. The leader inspected your palms, asked where old calluses came from, counted your pulse, then made you lift nothing at all until she had looked inside your boots.
 
@@ -94,15 +94,17 @@ The canvas screened you from the rest of the crew. The leader inspected your pal
 
 “They’re still usable.”
 
-“That wasn’t my question. Any pain?”
+She set the boot down and pressed her thumb into your bare left heel. Your foot jerked before you could stop it.
+
+“Any pain when you walk?”
 
 “Not much.”
 
-“That means some.”
+She kept her thumb where it was and said nothing.
 
 “The left heel rubs.”
 
-The loader grunted. “A bad foot drops good cargo. We pad it before testing.”
+The loader grunted. “Felt first. Then weight.”
 
 He cut felt for your heel, then rigged a broad yoke with equal slings. They began with fifty kilograms. You lifted it. The leader watched your knees and breathing, not your face.
 
@@ -156,13 +158,13 @@ The cook pushed through the canvas with a bowl and your four heel cakes in one h
 
 “They last if you soak them.”
 
-“For half a day.” She set down a bowl filled to the rim. “Eat. Then another.”
+She rapped one against the bowl, frowned at the sound, and set the cakes aside. The bowl she put in front of you was full to the rim. “Eat. Then there’s another.”
 
 “It can come from my wages.”
 
-“It will come from somebody’s figures. Right now it’s coming from my pot.”
+“Talk to her about wages.” She jerked her chin at the leader. “Eat.” She stood there until you picked up the spoon.
 
-The leader fetched a waterproof packet from her chest. Between route permits and faded toll schedules lay a copied page, the letters crowded and patched by several different hands. She read only fragments aloud: hill populations fitted for sustained freight, dense bones, layered load-bearing tissue, high requirements for food, water, salt, and recovery. The original survey had been found broken. The copy did not say who had changed those people, or when, or whether they had agreed. Two later copyists had argued in the margins over whether the old word meant bred, built, or repaired.
+The leader fetched a waterproof packet from her chest. Between route permits and faded toll schedules lay a copied page. A copyist in the hill towns had thrown it in with her road papers years ago, and she had kept it as a tall tale. The letters were crowded and patched by several different hands. She read only fragments aloud: hill populations fitted for sustained freight, dense bones, layered load-bearing tissue, high requirements for food, water, salt, and recovery. The original survey had been found broken. The copy did not say who had changed those people, or when, or whether they had agreed. Two later copyists had argued in the margins over whether the old word meant bred, built, or repaired.
 
 “Does your village teach any of this?” the leader asked.
 
@@ -170,13 +172,11 @@ The leader fetched a waterproof packet from her chest. Between route permits and
 
 The loader snorted.
 
-“And yours?” she asked.
+“And your back?” the leader asked.
 
 “Mine isn’t. Not there.”
 
-The leader folded the page. “Here, two hundred kilograms moves without four wages. It also tears through our rations and gives us one worker whose safe limits we don’t know. That’s not a miracle. It’s an unpriced risk.”
-
-The words should have disappointed you. Instead, they gave the strange fact edges. Risks could be measured. Prices could be written down.
+The leader folded the page. “Here, two hundred kilograms moves without four wages. It also tears through our rations and gives us one worker whose safe limits we don’t know.”
 
 You scraped the bowl clean. “Could we measure it properly? If it’s not too much delay.”
 
@@ -186,33 +186,25 @@ You scraped the bowl clean. “Could we measure it properly? If it’s not too m
 
 The test at first light ended with a working number lower than what you could lift.
 
-On level, packed ground, with matched slings and a loader watching, you carried two hundred kilograms for two hundred paces. At two hundred forty, the pull returned behind your knee. When the loader suspended a half-filled water cask at one side, you stopped at eighty. The water struck the barrel wall after each step and dragged your balance after it.
+On level, packed ground, with matched slings and the loader watching, you carried two hundred kilograms for two hundred paces. At two hundred forty kilograms, the pull returned behind your knee. When the loader hung a half-filled water cask from one side of the yoke, you had to stop at eighty kilograms. The water struck the barrel wall after each step and dragged your balance after it.
 
 “There,” the loader said. “Half a cask and your stride’s gone. That sling needs a second belly-band.”
 
-The wheelwright, passing with an oiled hub pin, glanced at the yoke. “Put that much in the wrong quarter of a bed and you’ll bow the axle. I’ll leave the whole wagon for you to carry.”
+The wheelwright, passing with an oiled hub pin, glanced at the yoke. “If that much goes in a bed, set it over the axle and tell me first.”
 
-The teamster heard and called from the picket line, “And don’t make the mules match your pace. They get the hill they get.”
+The cook handed the leader a tally of meal measures. “That’s what they’ve eaten since supper. Put it on your board.”
 
-The cook handed the leader a tally of meal measures. “This is the number you forgot.”
+The leader looked from the tally to the cask and back to her board. “One hundred eighty for ordinary flat-road assignments. Two hundred only when the loader clears ground and rigging. No catching, no rolling loads, no live animals, no tilted beds. We revise after a week.”
 
-The leader studied all four contributions. “One hundred eighty for ordinary flat-road assignments. Two hundred only when the loader clears ground and rigging. No catching, no rolling loads, no live animals, no tilted beds. We revise after a week.”
+“You don’t have to change my rate,” you said. “The low one’s fine. If that’s simpler.”
 
-“That sounds generous,” you said.
+The leader turned to the clerk. “Price porter rate, additional ration, salt, and boot leather. Show deductions separately.”
 
-“It’s cautious.”
-
-“I meant the work.”
-
-“Work isn’t a favor. Neither is pay.” She turned to the clerk. “Price porter rate, additional ration, salt, and boot leather. Show deductions separately.”
-
-The clerk’s mouth tightened at the board. “The rate for four hands assumes four hands can split.”
+The clerk’s mouth tightened at the board. “Porter rate’s priced as if we’d hired four hands. Four hands can work four wagons at once. This is one, and one who needs somebody watching every lift.”
 
 “Then price one hand and a required spotter.”
 
-“That saves less.”
-
-“Write what it saves, not what you hoped it would save.”
+“That saves less. A good deal less.” She wrote it down anyway.
 
 The loader took apart the test sling because the stitching at one corner was wrong. The cook demanded her measuring cup back. You ate a third breakfast portion and fell asleep against a wheel before the harness bells rang.
 
@@ -220,27 +212,27 @@ For the next four days, the caravan taught you all the ways weight could become 
 
 The loader taught you to distrust a neat stack. He rapped crates and listened, checked seals for damp, and rejected rope that looked strong but had gone furry between its twists. His instructions came in clipped pairs. “Loop high. Pull low. Again.” When you apologized, he usually answered, “Again.”
 
-The teamster cared less about cargo weight than where it made the animals work. “Hear that breathing?” she asked on a long rise. “That’s the pace. Not the schedule.” She would postpone a wagon to cool a mule, then curse for ten minutes when anyone delayed the same wagon through carelessness.
+The teamster cared less about cargo weight than where it made the animals work. “Hear the gray?” she said on a long rise, nodding at the near mule of the second wagon. “Blowing like that already. She stops at the cairn and drinks, and damn the schedule.” She would postpone a wagon to cool a mule, then curse for ten minutes when anyone delayed the same wagon through carelessness.
 
-The wheelwright spoke to wheels as if they were defendants. “You’ve been overloaded right rear,” he told a hub. “Don’t deny it.” To you he said, “A road leans even when your eyes don’t. Check the gap above the springs.”
+The wheelwright spoke to wheels as if they were defendants. “You’ve been overloaded right rear,” he told a hub. “Don’t deny it.” To you he said, “Check the gap above the springs. If it’s narrower on one side, that side’s carrying more, however square the stack looks.”
 
-The clerk let numbers keep their full sharpness. “Gross is not freight. Freight is not chargeable freight. If you sign the wrong one, hunger will not improve the arithmetic.”
+The clerk let numbers keep their full sharpness. “Gross is not freight. Freight is not chargeable freight. Sign for the wrong one and I take the difference out of your pay.”
 
 You said yes to all of them.
 
 Yes, you could hold the axle while the wheelwright set a pin. Yes, you could move two flour chests after unloading your assigned copper. Yes, you could fetch water before eating. Yes, you could stand in place while the loader fetched a better strap. The tasks were each small compared with what people at home demanded, and every request sounded like another day’s permission to stay.
 
-On the fourth evening, the cook found you beside the water wagon rubbing salt into your gums from the empty twist you had brought from the village.
+On the fourth evening, the cook found you beside the supply wagon rubbing salt into your gums from the empty twist you had brought from the village.
 
 “You missed the noon pot,” she said.
 
 “There was axle work.”
 
-“The axle did not eat your portion. Somebody else did.”
+“The wheelwright ate. The teamster ate. I counted bowls, and one was left over.”
 
 “That’s all right.”
 
-“Not to my count.” She shoved bread folded around cold beans into your hand. “Tomorrow, answer me when I call. I don’t chase freight.”
+She shoved bread folded around cold beans into your hand. “Eat that. Tomorrow, when I call, you come. I’m not walking the whole line looking for you.”
 
 The next morning your right knee had stiffened, and the patched heel had opened into a raw crescent. The leader saw the shorter step before you reached the wagons.
 
@@ -248,7 +240,9 @@ The next morning your right knee had stiffened, and the patched heel had opened 
 
 “It’s not bad. I can still carry.”
 
-“That is not a report.”
+She looked at your foot, then back at you. “When did you last eat from the pot?”
+
+You had to count back.
 
 Under her questions, the missed meal, extra lifts, and soreness came out in scraps. Your answers shortened as her wax stylus cut deeper lines.
 
@@ -260,11 +254,11 @@ Under her questions, the missed meal, extra lifts, and soreness came out in scra
 
 You looked at the board.
 
-The loader arrived with a sling over one shoulder. “Not loading them today.”
+The loader arrived with a sling over one shoulder, glanced at your heel, and said to you, “You’re not loading today.”
 
 “I could do a lighter—”
 
-“No.” He pointed toward the clerk’s seat. “Copy the third and fourth wagon columns. No lifting.”
+“No.” He pointed toward the clerk’s seat. “Copy the manifest columns, third wagon through fifth. No lifting.”
 
 The leader changed the roster. It cost the caravan time. The other road hand carried your ordinary share and did not pretend to be pleased about it. At noon he dropped beside you, accepted his second bowl, and said, “If you volunteer me into this again, I’ll hide your boots.”
 
@@ -276,9 +270,9 @@ You did.
 
 * * *
 
-The road on the seventh morning narrowed along a slanted shelf of clay. Rain had passed in the night, leaving the high-side drainage strip sticky while the lower wheel track shone hard and wet. The wheelwright walked ahead prodding the surface with an iron rod.
+The road on the seventh morning narrowed along a slanted shelf of clay. Rain had passed in the night, leaving the soft high-side verge sticky while the lower wheel track shone hard and wet. The wheelwright walked ahead prodding the surface with an iron rod.
 
-The fifth wagon’s uphill wheel broke through the crust over a drainage hollow.
+The fifth wagon’s uphill wheel broke through the crust over a rain-softened hollow.
 
 The bed tilted. Harness snapped tight. Inside the canvas, something heavy slid and struck the sideboards hard enough to bow them.
 
@@ -310,7 +304,7 @@ The leader came up behind you, her boots sinking at the heels. “How long can y
 
 “Need two blocks under the rear frame, one broad pad under the buried hub. I can’t place the pad while it’s settling.”
 
-The clerk had abandoned her seat with the manifest hugged beneath her coat. You had copied that wagon’s column the day before: copper coils high at the rear, sacks of meal along the center, lamp crates forward, two half-filled oil casks wrongly returned to the uphill rail after inspection.
+The clerk had abandoned her seat with the manifest hugged beneath her coat. You had copied that wagon’s column on the day you were benched: copper coils high at the rear, sacks of meal along the center, lamp crates forward, two half-filled oil casks at the rear on the right rail. On this shelf, the right rail was the uphill side.
 
 “The oil casks are what rolled,” you said. “Rear, uphill side.”
 
@@ -324,7 +318,7 @@ He was already reaching across the raised side for the cover ties. “That gives
 
 “Teamster?”
 
-“I can slack the rear pair. Leaders stay braced.”
+“I can slack the rear pair. Lead pair stays braced.”
 
 “Wheelwright?”
 
@@ -348,7 +342,7 @@ Mud squeezed under your boots. Your shoulder trembled, not from the clean downwa
 
 You bent slowly. The wagon came to rest on wood instead of your back.
 
-The loader made everyone stand clear while he opened the rear and wedged the oil casks. The teamster walked both mules for cuts. The clerk crossed out a delivery estimate. The leader sent you to the cook for salt broth, then stood over you until you drank it.
+The loader made everyone stand clear while he opened the rear and wedged the oil casks. The teamster walked the rear pair for cuts. The clerk crossed out a delivery estimate. The leader sent you to the cook for salt broth, then stood over you until you drank it. “Shoulder,” she said, and waited. You told her where it hurt and how much, and she wrote down all of it.
 
 Two hours later the wagon was upright. The wheel held. The caravan moved at half pace, and the loader walked beside the repaired corner with one hand on the rail, feeling for every shift.
 
@@ -370,21 +364,17 @@ The clerk looked up. The leader waited.
 
 Your mouth had gone dry. “I think one hundred sixty should be ordinary. If that’s workable. Two hundred on level ground, with the loader checking the sling. Nothing that rolls or shifts. No holding wagons.”
 
-“Emergencies don’t read contracts,” the leader said.
+“And if a wagon tips like the fifth one did?” the leader said.
 
 “Then I put it down.”
 
-The sentence was small. It stayed where you set it.
-
 The leader tapped the wax board against her palm. “If putting it down endangers someone?”
 
-“I call it before I lift. If the ground changes, we stop and crib it. If someone orders a catch, I refuse.”
+“I call it before I lift. If the ground changes, we stop. Crib it first. And I don’t catch things. Even if I’m told to.”
 
 “That costs time.”
 
 “Yes.”
-
-The loader, sorting hooks nearby, said, “Costs fewer knees.”
 
 The clerk drew a line through one hundred eighty. “Recovery?”
 
@@ -396,7 +386,7 @@ You almost said whatever was usual. “Meal calls. I stop for them. One full res
 
 “I need the wagon planned before it’s loaded. Apprenticeship rate until you can do one without the wheelwright sending it back.”
 
-“Paper deserves what it gets,” the wheelwright said from beneath a nearby bed.
+“Any plan that puts the heavy end behind the axle, I’m sending back,” the wheelwright said from beneath a nearby bed.
 
 The leader ignored him. “Six-week trial. We revise limits only after another controlled test. Either side can end at a market stop.”
 
@@ -406,7 +396,7 @@ You pressed your thumb into the wax.
 
 The next morning, the loader assigned you two sixty-kilogram cloth bales in a matched shoulder rig. A modest load, stable and dry. The clerk handed you the manifest board as well.
 
-“Third wagon,” she said. “Check gross against axle allowance. Mark the steep grade after the noon well.”
+“Third wagon,” she said. “Check gross against axle allowance. Mark the steep grade after the noon halt.”
 
 The cook pushed a paper twist of salt into your pocket. The teamster called the start. Harness chains tightened down the line.
 

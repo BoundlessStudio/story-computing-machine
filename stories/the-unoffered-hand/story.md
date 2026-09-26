@@ -26,7 +26,7 @@ She could not tell whether it was meant for her or the bird.
 
 The princess lowered her arm.
 
-Every autumn, from the first yellow leaf until the last, the kingdom's unbound falcons chose the one person they would obey for the rest of their lives. Most chose young. Cresset had been brought out for four autumns. In that time he had opened a general's cheek, killed a kennel rat through the bars of his weathering cage, and driven every other bird away from the highest perch. Sovelda knew these things because the glove-room windows faced the mews, not because anyone had expected her to need them.
+Every autumn, from the first yellow leaf until the last, the kingdom's unbound falcons chose the one person they would obey for the rest of their lives. Most chose in their first autumn. Cresset had been brought out for four autumns. In that time he had opened a general's cheek, killed a kennel rat through the bars of his weathering cage, and driven every other bird away from the highest perch. Sovelda knew these things because the glove-room windows faced the mews, not because anyone had expected her to need them.
 
 “Take him,” she said as the princess approached.
 
@@ -220,7 +220,7 @@ For a second she saw every barred feather separately. Then he was beyond the app
 
 “Look at him,” she said.
 
-The princess was already looking. Her mouth had softened. She took three quick steps down the slope, following him, and for the first time Sovelda saw her without any wish to have her clothes.
+The princess was already looking. Her mouth had softened. She backed three quick steps down the slope to keep him in sight above the trees, and for the first time Sovelda saw her without any wish to have her clothes.
 
 Cresset passed over the wall. The palace hid him.
 
@@ -328,7 +328,7 @@ The princess looked toward the empty stool, then sat on it.
 
 “Why did you?”
 
-“I wanted to see him fly.” She watched the bird. “And I was tired of you looking at me as if I'd stolen your afternoon.”
+“I wanted to see him fly.” She watched the bird. “And I was tired of you looking at me as if I'd been keeping something of yours.”
 
 Sovelda pressed the glove flat between her knees. A spot of blood had dried on the thumb.
 
@@ -390,7 +390,7 @@ Below them the bare orchard shone silver in the morning light. Beyond it lay stu
 
 “Let him show you.”
 
-She sent him up. He climbed above the field, circled once, and struck out toward the ridge. Sovelda turned with him until she was facing into the wind. Her eyes watered. She wiped them on her empty sleeve.
+She sent him up. He climbed above the field, circled once, and struck out toward the ridge. Sovelda turned with him until she was facing into the wind. Her eyes watered. She wiped them on the sleeve of her ungloved arm.
 
 “He's going a long way.”
 
@@ -404,7 +404,7 @@ Beside her, the princess laughed.
 
 “I didn't even see what it was.”
 
-“Neither did he, soon enough.”
+“It's gone to ground, whatever it was. He'll try again.”
 
 Cresset turned beyond the ridge. Sovelda walked after him, keeping to the open crest. The princess followed for a little way, then went back for her mare.
 

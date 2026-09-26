@@ -28,19 +28,19 @@ Ygdrane eased himself down beside it. One hind foot slipped. Alexstrasza shifted
 
 "Don't start carrying me before I'm dead."
 
-She stopped. "Salt?"
+She stopped. "Will you take some salt?"
 
 "Thick."
 
-She mixed ash salt with warm fat and held the dish while he licked twice. He made a face at the second taste.
+She worked ash salt and a crumb of pine resin into warm fat and held the dish while he licked twice. He made a face at the second taste.
 
 "Too much resin."
 
-"You asked for thick."
+"You asked for thick. I can thin it, if you'll wait."
 
-"Those are different failures."
+He had already turned his head from the dish.
 
-The eastern flue drew cleanly now. Air moved across the basin and lifted the smallest ash grains. Alexstrasza checked the four shutters, the drain groove, the felt under Ygdrane's jaw. Procedures first. They had served her longer than any kingdom she could still place on a map.
+The eastern flue drew cleanly now. Air moved across the basin and lifted the smallest ash grains. Alexstrasza checked the four shutters, the ash lines, the felt under Ygdrane's jaw. Procedures first. They had served her longer than any kingdom she could still place on a map.
 
 She settled opposite him.
 
@@ -70,11 +70,9 @@ Ygdrane exhaled. He did not breathe again.
 
 Alexstrasza bowed her head. The final flame entered her as heat beneath the breastbone, and with it came what the dying chose to leave: not words, not a second mind, not Ygdrane looking out through her eyes. Sensation, stripped of its explanation.
 
-The three memory gates beneath the bowl warmed under her claws. They let a keeper return carried sensations to the ice during the burial. She closed them when the last copper light faded.
-
 Snow rising instead of falling. The metal scent of a bitten tongue. Five pressures against the breastbone, evenly spaced. A horizon gone pale and cold in every direction.
 
-Then nothing but her own body and the quiet weight beside the basin.
+Then nothing but her own body and the quiet weight beside the basin. The three memory gates beneath the bowl had warmed under her claws. Through them a keeper could send carried sensation back out into the wall channels, a provision older than Alexstrasza that she kept clear out of habit. She closed them as the last copper light faded.
 
 Alexstrasza had received storms, kitchens, mating flights, the ache of old wings and the smell of hatchlings breaking shell. She had never received upward snow. She marked five short lines in the ash ledger and went to close Ygdrane's eyes.
 
@@ -84,7 +82,7 @@ There were eleven on the outer shelf, pressed so close that the smallest stood b
 
 The gray dragon at their front kept one wing stretched across the doorway.
 
-"You've come for the basin?" Alexstrasza asked.
+"Are you here for the basin, all of you?" Alexstrasza asked.
 
 "No."
 
@@ -94,11 +92,11 @@ The gray dragon at their front kept one wing stretched across the doorway.
 
 Behind her, a narrow green youth tapped the stone with his tail: two quick contacts, a drag, one more. Three throats showed brief bars of blue. The smallest shifted deeper into the group.
 
-"Your name?" Alexstrasza asked.
+"What should I call you?" Alexstrasza asked.
 
 "Ceryth. There are eleven. Count again when we move."
 
-"What follows you?"
+"What drove you all the way here, in this weather?"
 
 Ceryth's wing came down hard. "No questions that take a sentence."
 
@@ -110,35 +108,33 @@ The thread snapped. The copper youth folded down, coughing smoke.
 
 Alexstrasza stepped aside from the doorway.
 
-"North alcoves," she said. "Not the receiving chamber. Keep the floor channels clear."
+"Take the north alcoves," she said. "They hold the heat best. Keep your little ones out of this room, if you would. The basin isn't for them."
 
 Ceryth counted them across the threshold. Eleven.
 
 By midnight there were thirty-four.
 
-Stillfire had twelve funeral alcoves, four work chambers, two salt rooms, and one kitchen built for a keeper who rarely fed more than three guests. Alexstrasza moved Ygdrane to the cold resting room and turned the north alcoves into sleeping bays. She spread ash in firebreak lines, put stone jars beneath the meltwater seams, and opened the waste trench beyond the west wall.
+Stillfire had twelve funeral alcoves, four work chambers, two salt rooms, and one kitchen built for a keeper who rarely fed more than three guests. Alexstrasza moved Ygdrane to the cold resting room and turned the north alcoves into sleeping bays. She spread ash in firebreak lines, banked the kitchen fire high, and carried every spare felt out of the salt rooms.
 
-The youths did not wait to be tended. Ceryth assigned two to each doorway and refused to put siblings in the same watch. A broad rust-colored dragon called Parrox found the driest fuel, rejected half of it as rotten, then announced that the kitchen's smoked goat had probably died before Ygdrane was hatched.
+The youths did not wait to be tended. Ceryth assigned two to each doorway and refused to put siblings in the same watch. A broad rust-colored dragon called Parrox found the driest fuel and rejected half of it as rotten. Then he put his nose to the kitchen's smoked goat.
 
-"It is four days old," Alexstrasza said.
+"This died of old age," he told the room. "Smell it. It's older than me."
 
-"Then time has been unkind to it."
+"It is four days old," Alexstrasza said. "There's dried fish, if you'd rather have that, though I think the smallest ones will need it more than you do."
 
-"Eat or don't."
+Parrox looked from the little ones to the goat, then ate the goat. He also found three blocked vents before dawn.
 
-Parrox ate. He also found three blocked vents before dawn.
-
-They slept in brief, ugly drops. Anyone who heard five knocks woke every dragon still breathing in the chamber. No bell, no shouted warning. Five contacts passed from tail to floor to claw, steady enough to recognize and short enough not to hold a tone.
+They slept in brief, ugly drops. Anyone who heard five knocks woke every dragon still breathing in the chamber. The alarm passed from tail to floor to claw, five contacts steady enough to recognize and too short to hold a tone.
 
 The pattern pressed against Alexstrasza's breastbone each time. Ygdrane's residue answered with the same five beats.
 
-She told herself it was resemblance. Carrying final flames trained the body to find one sensation inside another. It did not make coincidence into testimony.
+She told herself it was resemblance. Carrying final flames trained the body to find one sensation inside another.
 
 At second daylight, sixty-one dragons filled the temple.
 
-Alexstrasza stood beside the unused basin and watched them spend their strength on living. Two chipped ice from the meltwater drains. A row of younger ones mashed dried fish into fat because the smallest hatchling could not keep down goat. Ceryth argued over sleeping space with a black youth who wanted a wall between his group and the open flue. Neither yielded elegantly. In the end they shifted an ash line, moved six bodies, and made room.
+Alexstrasza stood beside the unused basin and watched them spend their strength on living. Two chipped ice from the doorsills. A row of younger ones mashed dried fish into fat because the smallest hatchling could not keep down goat. Ceryth argued over sleeping space with a black youth who wanted a wall between his group and the open flue. Neither yielded elegantly. In the end they shifted an ash line, moved six bodies, and made room.
 
-No one asked for the rite. No flame offered itself to Alexstrasza.
+The basin stayed dark. Every flame in the temple stayed behind its owner's teeth.
 
 They had not come to die.
 
@@ -154,21 +150,19 @@ A pale, narrow dragon lay with her jaw against the kitchen floor. She had arrang
 
 "There are thirty mouths waiting."
 
-"Then don't spill this one."
+Ulune curled a claw around the base of the third cup and went on watching it.
 
-Parrox hooked two cup handles over a claw. "A workable compromise. Six drinks and one musician."
+Parrox hooked the other six handles over his foreclaws. "Got them. I've got them," he said, and slopped half of one down his own chest on the way out.
 
-Ulune ignored him. She shifted the singing cup a claw's width east. Its note weakened. West, and the surface shivered harder.
+Ulune slid the singing cup a claw's width toward the north wall. The ripples on its surface drew tight. She slid it back toward the hearth, and they loosened.
 
-"Not louder," she said when Alexstrasza approached. "Closer together. The little waves."
+"The little waves," she said when Alexstrasza crouched beside her. "Closer together that way."
 
-"Closer to what?"
+"What do you think the water is listening to?"
 
 Ulune looked at Ceryth.
 
 "No questions that take a sentence," Ceryth said.
-
-"Then give me an answer that doesn't."
 
 Alexstrasza set a strip of cured hide on the floor. With one claw she scratched a line for the temple and another for the northern shelf. "Direction?"
 
@@ -178,6 +172,8 @@ Ulune added three hooked marks farther north. Her throat flashed once, white.
 
 Two blue flashes. Not known.
 
+The cup's thin note went on. Behind Alexstrasza's teeth, faint as an old bruise, came Ygdrane's bitten tongue and its metal scent.
+
 "Metal?"
 
 Ulune's pupils narrowed. Ceryth's tail touched her ankle: wait.
@@ -186,29 +182,31 @@ Alexstrasza went to the tool wall and brought back a moon-iron pin, one of the o
 
 The water flattened.
 
-For one breath, all was still. Then heat crossed the ice beneath the pin and cast a dark band on the far side, a shadow made by warmth rather than light.
+For one breath, all was still. Then heat crossed the ice beneath the pin and cast a dark band on the far side, a shadow made by warmth.
 
 Inside Alexstrasza, an elder's long-carried residue tightened the muscles along her left wing in an urgent southward turn. Another left the taste of cold metal behind her teeth. Ygdrane's snow rose against gravity.
 
 Fragments. None told her what had happened. Together they made her look again.
 
-"Show me," she said.
+"Would you show me?" she asked Ulune.
 
-Ceryth put herself between Alexstrasza and Ulune. "One attempt. Outside the sleeping rooms. Vent open. Basin shut. If her flame pulls, we stop."
+Ceryth put herself between them. "One attempt. Outside the sleeping rooms. Vent open. Basin shut. If her flame pulls, we stop."
 
-"Agreed."
+"Yes. All of that."
 
 "And you don't ask her to say it."
 
-"Agreed."
+"I won't." Alexstrasza looked past Ceryth's wing to Ulune and waited.
+
+After a moment Ulune's throat flashed white.
 
 They used the eastern work chamber. Parrox cleared the flue and wedged its shutter wide. Ceryth sent everyone else behind two closed doors. Alexstrasza packed expendable frost across the floor so Ulune could mark it.
 
-Ulune began with the route: claw cuts for ridges, a long gouge for flat ice, then a crescent crosshatched until the frost glittered gray. She pressed the moon-iron pin into the crescent.
+Ulune began with the route: a notch for Stillfire, claw cuts for ridges, a long gouge for flat ice, then a crescent crosshatched until the frost glittered gray. She pressed the moon-iron pin into the crescent.
 
 She showed the aurora with throat-light, a green wash pulsing unevenly beneath her jaw. Her left wing tapped a separate rhythm against the wall. Her tail stayed in contact with Ceryth's foreclaw. At intervals she bit the resin pouch and released a sharp pine smell.
 
-Alexstrasza understood none of those pieces alone. Their lack of agreement was the point.
+Alexstrasza could read none of it.
 
 Ulune stopped her wing. The throat-light smoothed. The moon-iron pin began to hum.
 
@@ -224,23 +222,29 @@ Ulune shook her head. "One thing."
 
 Her voice was rough and short. She pointed north, then to the line of sleeping rooms, then drew the smooth crescent again. Finally she dragged it south to the temple mark.
 
-"It followed the matched pitch," Alexstrasza said.
+Alexstrasza looked from the crescent toward the sleeping rooms. "It goes where many of us are?"
 
 Ulune flashed white once.
 
-"Speech makes one held shape. Crowds make it stronger."
+"Where one sound is held? Or matched?"
 
-White again. Then Ulune scraped through Alexstrasza's second line and replaced it with a mess of short angles.
+White again.
 
-"And difference breaks it."
+"Only young fire?"
 
-Ulune leaned against Ceryth. Precision had cost her. "Sometimes."
+The white came slower this time. Ulune's eyes went to Alexstrasza's throat and away. Then she scraped through her own smooth crescent and cut it into a mess of short angles.
 
-Parrox picked up the moon-iron pin with a folded cloth. "Good. I was worried the answer would be convenient."
+"And that breaks it?"
+
+Ulune leaned against Ceryth. "Sometimes."
+
+Parrox had picked up the moon-iron pin in a folded cloth. He held it out from his body. "There's sixty-one of us in there," he said. "Asleep in heaps."
+
+Ceryth looked at the doors. "Not anymore. Small groups. Watchers split any heap that forms."
 
 The aurora reached Stillfire on the third night.
 
-It came as a green band above the southern ridge, wrong only because it moved against the stars. Frost loosened from the ceilings. Every meltwater cup in the temple began to sing.
+It came as a green band above the northern ridge, wrong only because it moved against the stars. Frost loosened from the ceilings. Every meltwater cup in the temple began to sing.
 
 Five knocks passed through the floor.
 
@@ -248,7 +252,7 @@ The youths woke into crowding. Wings struck walls. Bodies pressed toward the war
 
 The receiving channels lit.
 
-Alexstrasza reached the basin as pale flame lifted from the nearest mouths. No one bent willingly toward the bowl. No claws opened in release. Yet the channels climbed blue as if dozens of final rites had begun at once.
+Alexstrasza reached the basin as pale flame lifted from the nearest mouths. Every youth she could see was straining away from the bowl, claws clenched. The channels climbed blue anyway, as if dozens of final rites had begun at once.
 
 "Not the basin!" Ceryth shouted.
 
@@ -280,27 +284,19 @@ Parrox shoved through the kitchen door carrying a fuel basket in his teeth. He d
 
 He ran.
 
-Ulune crouched over the line of cups. She no longer spoke. White light, wing drag, amber, two claw taps. Across the passage, a youth answered with a tail scrape and a burst of bitter scent. Another answered differently. The signal moved without ever repeating whole.
+Ulune crouched over the line of cups. She no longer spoke. White light, wing drag, amber, two claw taps. Across the passage, a youth answered with a tail scrape and a burst of bitter scent. Another answered differently. The signal moved without ever repeating whole, and still the basin channels gained light.
 
-The basin channels still gained light.
-
-Alexstrasza put both foreclaws on the scored ice. Procedures first: close the shutters, clear the flues, keep the dying warm. Every procedure assumed the flame belonged here.
-
-This one did not.
+Alexstrasza put both foreclaws on the scored ice. Procedures first: close the shutters, clear the flues, keep the dying warm. Every one of them was built to help a flame leave its owner.
 
 She opened the memory gates.
 
-Final flames moved through her, but the dead did not rise and offer counsel. There was only the material they had entrusted: a summer ledge hot beneath the belly; salt spray striking the right eye; the greasy scent of river fish; a wing joint catching on the downstroke. Alexstrasza pressed those residues into separate channels, never long enough for one to settle.
+What moved through her was only the material the dead had entrusted: a summer ledge hot beneath the belly; salt spray striking the right eye; the greasy scent of river fish; a wing joint catching on the downstroke. Alexstrasza pressed those residues into separate channels, never long enough for one to settle.
 
-Gold heat ran east. Violet cold answered west. One channel gave a low broken tone, another the smell of crushed fennel. Ygdrane's five breastbone pressures entered last, and Alexstrasza changed the spacing before the temple could make them even.
+Gold heat ran east. Violet cold answered west. One channel gave a low broken tone, another the smell of crushed fennel. Ygdrane's five breastbone pressures entered last, and Alexstrasza changed the spacing before the temple could make them even. The blue light faltered.
 
-The blue light faltered.
+Ceryth saw it. She stopped trying to direct everyone and began touching one shoulder at a time. A white throat-flash here. A tail strike there. Seven became six in one chamber and nine in another because the doors were blocked, and she left them that way.
 
-Ceryth saw it. She stopped trying to direct everyone and began touching one shoulder at a time. A white throat-flash here. A tail strike there. Seven became six in one chamber and nine in another because the doors were blocked, and she left them that way. The unevenness mattered more than her count.
-
-The youths chose their own breaks. One held a wing still while another rattled both. Two stopped their throat-lights entirely and fed resin into the vent. A hatchling who could manage nothing else clawed a single trench through the ash, ruining the smooth ring around the basin.
-
-The hum caught, lost them, caught again.
+The youths chose their own breaks. One held a wing still while another rattled both. Two stopped their throat-lights entirely and fed resin into the vent. A hatchling who could manage nothing else clawed a single trench through the ash, ruining the smooth ring around the basin. The hum caught, lost them, caught again.
 
 "West open!" Parrox called.
 
@@ -308,23 +304,17 @@ Air punched through the temple. Ash rose in a black sheet. The receiving channel
 
 Alexstrasza felt the pull enter her own throat. Immortality had not made her fire young, but it had made her carry more patterns than the temple had ever held at once. She could smooth them. She had spent ages smoothing them, giving each last flame a clean passage and a quiet place.
 
-She did the opposite.
+She did the opposite. She let heat stumble into cold. She set wing ache against the remembered pleasure of rain on an open mouth. She broke Ygdrane's five pressures into two, one, and two.
 
-She let heat stumble into cold. She set wing ache against the remembered pleasure of rain on an open mouth. She broke Ygdrane's five pressures into two, one, and two.
+Around her, claws scraped and vents roared, cups rang off-key, wings beat out of time, and throats flashed whatever colors they had left through the smell of resin and soot.
 
-Around her, claws, vents, cups, wings, scents, and colored throats made no chorus. They made a crowd: frightened, stubborn, badly coordinated, alive.
-
-The auroral band shuddered above the roof. Its green narrowed to a line. For a moment the moon-iron pin in the eastern chamber screamed against the stone.
-
-Then the line tore into pale scraps and went out.
+The auroral band shuddered above the roof. Its green narrowed to a line. For a moment the moon-iron pin in the eastern chamber screamed against the stone. Then the line tore into pale scraps and went out.
 
 Flame dropped back behind the youths' teeth. Several sprawled where they stood. One began to laugh and choked on soot instead. Parrox emerged from the west passage with the ash rake bent around one foreleg.
 
-"Vent's open," he said.
+"Everyone?" he said. "Is it everyone?"
 
-"We noticed," Ceryth said.
-
-It was the first thing anyone answered aloud.
+Ceryth was already moving along the passage, touching shoulders. She did not answer until she reached the last alcove. "Sixty-one."
 
 Morning showed every failure the dark had hidden. Two wall channels had split. The kitchen floor was ankle-deep in gray meltwater. Resin stuck to the ceiling, and half the smoked goat had acquired an ash crust no one intended to eat.
 
@@ -334,35 +324,29 @@ Alexstrasza moved among the sleeping bays with salt paste and clean water. Ulune
 
 "Sixty-one," Ceryth said. "Still."
 
-"I counted sixty-one."
+"I made it sixty-one as well," Alexstrasza said.
 
 "Count again after breakfast."
 
-Parrox limped in with the bent rake. "There is no breakfast. There is evidence."
+Parrox limped in with the bent rake. "There's no breakfast. The goat's got ash all down one side. I'm not eating ash."
 
-Ulune looked at the ash-covered goat. "Boil it."
-
-"In meltwater?"
-
-"We have plenty."
+Ulune looked at the goat. "Boil it."
 
 Parrox considered this, then dragged the meat toward the largest pot.
 
-By midmorning, some of the older youths had chosen to fly to nearby rookeries with copies of Ulune's marks. Three wanted to go north when their strength returned and find the fracture without speaking near it. Ceryth did not assign either group. She checked their wing edges, divided the resin, and made each dragon choose aloud only when a short answer would do.
+By midmorning, some of the older youths had chosen to fly to nearby rookeries with copies of Ulune's marks. Three wanted to go north when their strength returned and find where it began, without speaking near it. Ceryth did not assign either group. She checked their wing edges, divided the resin, and had each dragon say its choice aloud. One word would do.
 
 Others stayed to repair Stillfire. They packed clear ice into the cracked channels and hauled spoiled ash outside. The smallest slept through the hammering.
 
-Alexstrasza returned at last to the cold room. Ygdrane lay as she had left him, wrapped and waiting. His rite was unfinished. The living had not made it less real; they had only made it wait.
+Alexstrasza returned at last to the cold room. Ygdrane lay as she had left him, wrapped and waiting. His rite was unfinished.
 
 She carried him to the outer shelf. Ceryth came behind with the ash cloth, limping from a bruise Alexstrasza had not seen her take.
 
-"You have work," Alexstrasza said.
+"They'll want you inside," Alexstrasza said. "You needn't do this."
 
-"So do you. This takes two."
+"It's counted." Ceryth went around to the far side of the cairn.
 
-It did, though Alexstrasza had performed it alone for centuries.
-
-Together they settled Ygdrane beneath the cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
+Together they settled Ygdrane inside the ring of cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
 
 From inside the temple came five floor knocks. A pause. Then three, one, two.
 

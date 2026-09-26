@@ -44,15 +44,17 @@ It should have been the impossible part, saying it aloud. Instead the room staye
 
 It was one of mine, gray with the ghost of a college logo across the chest. I had condemned it three years ago and continued to wear it for cleaning. She knew that.
 
+I squeezed the developer into the plastic bowl, emptied the color in after it, and stirred with the brush.
+
 “Turn around,” I said. “We have to start before this sits too long.”
 
-“You started before it sat too long.”
+“Oh, now we’re worried about stuff sitting too long.”
 
-“Your hair.”
+“The dye.”
 
 “Right.”
 
-She faced away again. I cut the first elastic and lifted the top section with the rattail comb. The dye was called Midnight Mulberry, though in the bowl it had the color and shine of wet cement. She had chosen it because the woman on the box had purple hair so dark it revealed itself only where light touched. According to my daughter, this was less annoying than having purple hair all the time.
+She faced away again, toward the dark window over the table, where our reflections sat one above the other. I cut the first elastic and lifted the top section with the rattail comb. The dye was called Midnight Mulberry, though in the bowl it had the color and shine of wet cement. She had chosen it because the woman on the box had purple hair so dark it revealed itself only where light touched. According to my daughter, this was less annoying than having purple hair all the time.
 
 I painted the first line along her roots.
 
@@ -60,11 +62,11 @@ I painted the first line along her roots.
 
 “I wasn’t going to ask that.”
 
-“Not lottery numbers exactly.”
+“Not lottery numbers exactly. Same kind of question.”
 
 I had been going to ask how accurate it was. Not for a test, I told myself. For context. If you learned your child had been carrying an unknown condition for half her life, you were entitled to understand its severity.
 
-She snorted.
+In the window, her reflection found mine. She snorted.
 
 “What?”
 
@@ -74,7 +76,7 @@ She snorted.
 
 “Accuracy, range, onset, adverse side effects.”
 
-I pressed the brush too hard. Her head tipped forward.
+Over the stove, the exhaust fan started its intermittent tick, one blade touching its housing every seventh or eighth turn. I pressed the brush too hard, and her head tipped forward.
 
 “Ow.”
 
@@ -88,15 +90,9 @@ The speed of the answer chilled me more than if she had waited.
 
 “I don’t know what you think. I knew what you asked.”
 
-“I didn’t ask it.”
+“Before I asked it.”
 
-“You did later.”
-
-“Later when?”
-
-“About forty seconds from now.”
-
-We both looked at her phone. The screen had gone black.
+“Yeah. Like forty seconds before. Maybe less.”
 
 I set the brush in the bowl. “So it’s fixed.”
 
@@ -110,7 +106,7 @@ I set the brush in the bowl. “So it’s fixed.”
 
 “I knew me saying no. And the fan making that noise. And this hurting.” She touched the spot I had painted. “So I guessed the question.”
 
-The exhaust fan over the stove had begun its intermittent tick, one blade touching its housing every seventh or eighth turn. It had done that for months.
+The fan had ticked like that for months.
 
 “You could have guessed all of it,” I said, and watched her shoulders climb.
 
@@ -164,7 +160,7 @@ She stared at me. Then, despite everything, a laugh pushed out of her. “You th
 
 That was unfair. It was also accurate enough that I picked up the brush instead of answering.
 
-I had kept things. Not in literal baggies, but in a note on my phone titled Household, tucked beneath measurements for the hallway runner and the model number of the furnace filter. At seven, she had put both hands over her ears before the smoke detector failed during a storm. At eleven, she had carried my blue mug to the laundry room and left it on the dryer; an hour later the cupboard shelf came loose and broke every other mug. Last winter she had refused to get into the car until I checked the rear tire. The tire was low. Not dangerously low, the mechanic said. But low.
+I had kept things. No baggies: a note on my phone titled Household, tucked beneath measurements for the hallway runner and the model number of the furnace filter. At seven, a year before her own count began, she had put both hands over her ears before the smoke detector failed during a storm. At eleven, she had carried my blue mug to the laundry room and left it on the dryer; an hour later the cupboard shelf came loose and broke every other mug. Last winter she had refused to get into the car until I checked the rear tire. The tire was low. Not dangerously low, the mechanic said. But low.
 
 There were misses, too. The bus she swore would not come and did. The math quiz she claimed had been postponed. The blood on my sleeve that turned out to be tomato sauce after the grocery bag split. I had cherished those. Each mistake made the others safer.
 
@@ -178,15 +174,15 @@ I parted another narrow row of hair. “What was the rabbit?”
 
 “We are not doing that.”
 
-“I know. That’s why I said it wasn’t first.”
+“I know. I answered it early so we wouldn’t have to. Tomorrow you ask if it was the first thing. It wasn’t.”
 
 The brush stopped. “I don’t understand.”
 
 “No kidding.”
 
-“You don’t get to be cruel because I’m trying to understand.”
+“I am trying.”
 
-“And you don’t get points for trying tonight.”
+“Yeah. Since dinner.”
 
 I snapped the next section free. The comb snagged, and she hissed through her teeth.
 
@@ -198,7 +194,7 @@ I snapped the next section free. The comb snagged, and she hissed through her te
 
 She made a sound that might have been a laugh if it had contained any pleasure.
 
-We worked in silence. I painted, folded, painted. In the dark kitchen window, our reflections sat one above the other: her face blank and brown-eyed under its four ridiculous horns, mine pinched with care. The dye took on a violet sheen around the edges. Each time I reached over her shoulder for the bowl, she moved the towel aside before I could ask.
+We worked in silence. I painted, folded, painted. In the window her face stayed blank and brown-eyed under its four ridiculous horns; mine looked pinched with care. The dye took on a violet sheen around the edges. Each time I reached over her shoulder for the bowl, she moved the towel aside before I could ask.
 
 I tried not to form questions. The effort was like being told not to test a sore tooth. When does it happen? Does it scare you? Who else knows? Have you used it at school? Have you ever seen—
 
@@ -226,7 +222,7 @@ My daughter pressed the heels of her hands against her eyes.
 
 “Okay,” I said. “Okay. I’m not deciding anything.”
 
-“That’s also deciding.”
+“It’s still going.”
 
 “What do you want me to do?”
 
@@ -240,7 +236,7 @@ I stripped off the gloves. “Let me—”
 
 “Don’t touch me.”
 
-I stopped beside her.
+I stopped an arm’s length away.
 
 She moved into the hallway, where the light had burned out the week before. The bathroom cast a yellow bar across her bare feet. She leaned against the wall and breathed through her nose.
 
@@ -252,7 +248,7 @@ No answer.
 
 “I know where the bin is.”
 
-I stayed in the kitchen. The dye needed to be finished. The floor needed checking. Her hairline needed wiping before it set. Every useful fact pressed forward wearing the same clothes as authority.
+I stayed in the kitchen. The dye needed to be finished. The floor needed checking. Her hairline needed wiping before it set. I held the stripped gloves, inside out, and did none of it.
 
 After a minute she lowered her hand.
 
@@ -260,7 +256,7 @@ After a minute she lowered her hand.
 
 I waited.
 
-“Not like you mean it.” She kept her eyes on the wall between us. “It’s pieces. Usually if somebody I know is going to do something that gets to me soon. I get the part where it gets to me.”
+“Not like you mean it.” She kept her eyes on the opposite wall. “It’s pieces. Usually if somebody I know is going to do something that gets to me soon. I get the part where it gets to me.”
 
 “Like the question and your answer.”
 
@@ -268,11 +264,11 @@ I waited.
 
 “The blue mug?”
 
-“I saw the handle in the laundry lint. I thought I dropped it in there.”
+“I saw it on the dryer. Sitting in all the lint. So I thought that was where it went, and I put it there.”
 
-“So you moved it.”
+“So it was never a warning.”
 
-“And then the shelf broke. Maybe because you put the sugar up there instead, and the sugar was heavy, and the whole thing was my fault.”
+“I didn’t know it was anything. And then the shelf broke. Maybe because you put the sugar up there instead, and the sugar was heavy, and the whole thing was my fault.”
 
 “A bag of sugar did not break that shelf.”
 
@@ -284,7 +280,7 @@ She flinched. It was small, but I saw it.
 
 “No,” she said. “I don’t.”
 
-The timer on her phone chimed from the kitchen, although we had never started it. She had set it for 8:20, probably to remind us about the episode of a baking show we watched together, the one where everyone made cakes shaped like food that was not cake. On any other Sunday, she would have accused me of secretly rooting for the mean judge.
+The alarm on her phone chimed from the table. She had set it for 8:20, probably to remind us about the episode of a baking show we watched together, the one where everyone made cakes shaped like food that was not cake. On any other Sunday, she would have accused me of secretly rooting for the mean judge.
 
 “We have to finish your hair,” I said.
 
@@ -329,8 +325,6 @@ I remembered the phrase because it was my mother’s, borrowed in turn. My daugh
 “I didn’t know what you meant.”
 
 “I didn’t either.”
-
-There it was, the fact I had kept refusing her: she had not been a small, calm witness to coming events. She had been a child making the worst story she could from an empty cage.
 
 I covered the last dry patch and twisted her hair under a plastic cap. This time, before wiping a crescent of dye from the back of her neck, I held up the cloth where she could see it. She nodded once.
 
@@ -408,7 +402,7 @@ She folded her arms. “Of me?”
 
 “Both, then.” The word came out before I could improve it. “I was afraid for you, and I was afraid I would believe you, and then every ordinary choice would become something I could hurt you with. Or something I should ask you about first.”
 
-Her eyes narrowed, not in anger this time but concentration. “You’re not supposed to say that.”
+Her eyes narrowed. “You’re not supposed to say that.”
 
 “According to what?”
 
@@ -422,9 +416,9 @@ She touched the edge of the plastic cap. “There was a different part.”
 
 “Don’t make it weird.”
 
-It was already weird. But I took the offered scrap of humor and did not pull on it.
+It was already weird.
 
-The timer ticked down on the counter. Eighteen minutes. We moved the grocery bags and sat on opposite sides of the table. For a while she scrolled through her phone without absorbing anything. I peeled a dried skin of dye from the bottle nozzle. Ordinary time resumed, not because we had earned it but because time was rude that way.
+The timer ticked down on the counter. Eighteen minutes. We moved the grocery bags and sat on opposite sides of the table. For a while she scrolled through her phone without absorbing anything. I peeled a dried skin of dye from the bottle nozzle. Ordinary time resumed.
 
 At twelve minutes, she said, “You took different routes home to see if I’d notice.”
 
@@ -433,10 +427,6 @@ At twelve minutes, she said, “You took different routes home to see if I’d n
 “Six times.”
 
 “Not all of those were tests.”
-
-“See?”
-
-“See what?”
 
 “You don’t even know when you’re doing it.”
 
@@ -484,7 +474,7 @@ Then she bent over, one hand braced on the table.
 
 I followed her into the hall. She waved me back without looking. The door shut, not quite hard enough to slam.
 
-Behind it, the tap ran. A cupboard opened. She coughed once. I stood with my hands useless at my sides and formed the question I had been circling all night: Had she seen something terrible coming? Not a thing I intended to use. Not numbers or cards or routes. Just whether she was safe. Whether I was. Whether there was any danger I could still prevent if she would only tell me.
+Behind it, the tap ran. A cupboard opened. She coughed once. I stood with my hands useless at my sides and formed the question I had been circling all night: Had she seen something terrible coming? I did not want numbers or cards or routes. I wanted to know whether she was safe, and whether I was, and whether there was any danger I could still prevent if she would only tell me.
 
 The bathroom door opened.
 
@@ -510,11 +500,11 @@ I ran the water against my wrist until it was lukewarm. When I reached for the c
 
 I lowered my hand.
 
-“I know this,” I said. “I believe you. I should have said it before.”
+“I believe you,” I said. “I should have said it before.”
 
 She watched the stream strike the white tub and curl toward the drain.
 
-“I’m not going to ask what you see,” I said. The next part came less cleanly. “I’ll probably want to. I already want to. But you don’t have to tell me because I want it.”
+“I’m not going to ask what you see,” I said. “I will probably— I already want to. But you don’t have to tell me because I want it.”
 
 She picked at a dried spot on her condemned shirt. “That sounds temporary.”
 
@@ -540,7 +530,7 @@ She closed her eyes. For a moment I thought she had gone somewhere ahead of me a
 
 “Right now I don’t have anything,” she said. She opened her eyes. “From you, I mean. It’s quiet.”
 
-I nearly asked if that was good. Her expression told me she saw the question on my face, no clairvoyance required.
+I nearly asked if that was good. Her expression told me she saw the question on my face.
 
 “Okay,” I said.
 

@@ -36,7 +36,7 @@ He stood up. He was the size of a lean hound.
 
 The gods waited while he said it again.
 
-He spread his wings and sprang into the air. They flapped hard enough to stir the dust. He landed on his nose, and a woman on the steps made a noise inside her helmet.
+He spread his wings and sprang into the air. They flapped hard enough to stir the dust. He landed on his nose with an involuntary honk, and a woman on the steps made a noise inside her helmet.
 
 Orsugal swung round. "Was that laughter?"
 
@@ -74,7 +74,7 @@ The woman who had lost the hamper held her hands apart, considered, and moved th
 
 "It frightened my pony. I don't want anyone hurt over a cup."
 
-"I could frighten a pony," said Melicent. "Let us try."
+"Ponies are frightened of wheelbarrows," said Melicent. "Let us try."
 
 She reached for the task slip at the same time as Orsugal. Her gauntlet and his claw pinned opposite ends.
 
@@ -182,7 +182,7 @@ The badger rounded the corner. Orsugal shot beneath the bench and came out on th
 
 She thrust her hand down. He seized the cuff of her gauntlet with both foreclaws and felt himself lifted clear just as the badger's teeth snapped beneath his hind feet. Halfway up, the gauntlet began to slide off.
 
-"Don't pull that!"
+"My gauntlet!" said Melicent.
 
 "Pull me!"
 
@@ -258,7 +258,7 @@ He lowered his tail over the front edge of the table and flicked it.
 
 The badger lunged. He whipped his tail up; its teeth closed with a click. Behind him, Melicent dropped to the floor. He flicked his tail again. It was a repellent use for a tail that had once felled siege towers, and he wished very much that it were somebody else's.
 
-Melicent reached the back of the hall. She crouched in the gap behind the open gate, tied one end of the rope to the latch lever, and passed the rope over the gate's top rail. She tugged; the lever rose. She let it drop again, leaving the coil at her feet.
+Melicent reached the back of the hall. She crouched in the gap behind the open gate, tied one end of the rope to the latch lever, and passed the rope over a roof beam above the gate. She tugged; the lever rose. She let it drop again, leaving the coil at her feet.
 
 Orsugal waited for her to look at him. She put up her thumb. He pointed a claw at himself, then at the cup, and she nodded vigorously.
 
@@ -292,7 +292,7 @@ He laughed around the handle of the cup.
 
 It hurt. He laughed again.
 
-Melicent appeared round the corner with her recovered sword, trailing the rope. She had lost her helmet. There was a new dent in her breastplate and a pale stripe across her nose where dust had stuck to sweat.
+Melicent appeared round the corner with her recovered sword. She had lost her helmet. There was a new dent in her breastplate and a pale stripe across her nose where dust had stuck to sweat.
 
 "Are you bitten?"
 
@@ -308,7 +308,7 @@ She crouched beside him and examined his tail. Her hands were shaking. They made
 
 He tried to stop. She pressed her lips together, but a laugh escaped her. Then both of them were helpless, which made the badger snort through the hatch and send them scrambling farther away.
 
-She led him back round to the front, paying out the rope as they retreated behind a boulder beyond the clearing. Melicent pulled. Through the front doorway, Orsugal saw the latch lift and the gate swing into the hall under the badger's weight. They stayed behind the rock until the animal returned to its ruined picnic.
+She led him back round to the front, picked up the coil she had dropped in the doorway, and paid out the rope as they retreated behind a boulder beyond the clearing. Melicent pulled. Through the front doorway, Orsugal saw the latch lift and the gate swing into the hall under the badger's weight. They stayed behind the rock until the animal returned to its ruined picnic.
 
 "My helmet's in there," Melicent said.
 

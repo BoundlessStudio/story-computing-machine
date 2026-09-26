@@ -18,7 +18,7 @@ They stand on opposite sides of a length of scarlet silk lined with black linen.
 
 “These will be quicker.”
 
-Something in her voice makes me slow my shuttle. I have followed this family through seven generations, and the daughter is usually impatient enough to explain what she means. Her father has mistaken her quietness for the beginning of surrender. I know that because he starts telling her where the little shears are kept.
+Something in her voice makes me slow my shuttle. I have followed this family through seven generations, and this daughter usually tells her father what she thinks of his plans before he has finished explaining them. Today she keeps her answers short. He has mistaken her quietness for the beginning of surrender. I know that because he starts telling her where the little shears are kept.
 
 I settle the gold thread across my loom. Beneath it, summer spreads through the city's orchards; a line of houses catches the afternoon light. My hands keep the many influences of the world in relation, making cloth of seasons, settlements, lives. I remember no first morning at this work, no time before the loom. The people in it supply their own difficulties. I cannot make the daughter hand over those shears, any more than I can persuade an apple tree to be a sonnet.
 
@@ -82,13 +82,13 @@ He rubs his forehead with the heel of his hand. The skin stays creased a moment 
 
 “There have been three uprisings,” he says. “The soldiers swore to the crown before they knew what they'd be ordered to do. Each time, men who wanted to desert found they couldn't pass the barrack gates. Those are your oaths, Orsivet. The king could never hold so many towns with willing soldiers.”
 
-“Release every oath and the towns lose their protection too.”
+“Release every oath and the towns lose their protection too,” Orsivet says.
 
-“Yes. They would have to defend themselves. Some of them are ready. They have councils, stores, people who could govern without asking his leave.” Irthess looks at me. “I have been there. I didn't come here because I thought destruction would improve people.”
+“Yes. They would have to defend themselves. Some of them are ready. They have councils, stores, people who could govern without asking his leave.” Irthess looks at me. “I have been there.”
 
-“And the towns that aren't ready?”
+I look for the towns beyond the passes, small knots of brown and ochre along the upper warp. “And the ones that aren't?”
 
-“I don't have a good answer for them.” He draws the loose linen over the petitions, then pushes it back. “But how many more times do I tell the others to wait?”
+“I don't have a good answer for them.” He draws the loose linen over the petitions, then pushes it back. “But how many more times do I tell the families at my temple to wait?”
 
 Dembrel sets a shoe beside the petitions. It is broad, badly patched, and worn through at the heel.
 
@@ -156,13 +156,11 @@ Across other stretches of the cloth, cities went on prospering. Some never learn
 
 “The first king brought the roads under oath,” Orsivet says. “A traveler could cross six estates under one protection. Before him, every estate could take what it wished.”
 
-“Including the traveler,” Dembrel says. “I was there.”
+“I was there,” Dembrel says. “Before him they took the traveler's mule and her boots, and sometimes the traveler. I helped you post the first guards, and I was glad to.” She looks at the shoe. “I didn't think they'd still be standing there for her.”
 
-“Then you remember what we gained.”
+“Every market on those roads runs on my oaths.” Orsivet lays a hand on his robe, where the altars are murmuring. “The carters swear, the tolls hold, a widow can send her wool over the mountains with a boy of twelve and be paid for it. Take the oaths away and the guards won't go home. They'll stay where they are and stop answering to anyone.”
 
-“I remember helping.”
-
-He turns toward me. “You remember the first royal banner.”
+Dembrel doesn't argue. Orsivet turns toward me. “You remember the first royal banner.”
 
 I do. Its bird had a crooked beak because the banner maker's ancestor was better at horses. Afterward she bought a shop with her commission. Her eldest son turned its loft into a bedroom, and his wife put a yellow bowl in the window. I watched that bowl break. I watched it glued together, used for buttons, thrown away. The third generation painted the door blue. In the fifth, a boy left to become an actor and came home only twice, both times wearing shoes beyond his means.
 
@@ -178,19 +176,9 @@ Orsivet has found the edge of the family thread. I move his hand away.
 
 “And many others. We can require changes. I can speak to the king about the inheritance of debts.”
 
-“Which king?” Irthess asks.
+Irthess doesn't lift his eyes from the petitions. “You told me that about his father. He lowered the levy on your temple estates, and the villages beside them paid the difference. I have their petitions too.”
 
-“This king.”
-
-“You said that about his father.”
-
-“His father reduced the levy.”
-
-“For your temple estates.”
-
-Orsivet pulls his chair back. One leg catches my hem. “And the families living on them.”
-
-“Yes,” Irthess says. “They were fortunate.”
+Orsivet pulls his chair back. One leg catches my hem. “And the families living on those estates.”
 
 No one speaks for a while. I free the embroidered edge of my wrap. There is barley dust on my fingertips.
 
@@ -276,7 +264,7 @@ Dembrel closes her eyes. Orsivet smiles at me, and I look down at the warp.
 
 Vaulenne places her palm against the loom. Warmth enters the seasonal thread, carrying the smell of crushed barley leaves. Dembrel takes longer. Then she presses two fingers to the strand that crosses the mountains, and distant bells sound at a travelers' shrine. Orsivet breathes his undertaking over the oaths already woven there. I feel their pull strengthen, including the ones I wish had never been sworn.
 
-Irthess picks up the loose cord from his packet and puts the end into my hand. His power passes along it as he murmurs the names of the burial grounds under his care. I work the four contributions into the cloth. Summer advances a little beneath the crosspiece. In a prison near the palace, a woman lifts her head at the bell. “Is that for us?” she asks. No one comes to open her door.
+Irthess picks up the loose cord from his packet and puts the end into my hand. His power passes along it as he murmurs the names of the burial grounds under his care. I work the four contributions into the cloth. Summer advances a little beneath the crosspiece. In a prison near the palace, the yard bell rings for the change of guard. A woman lifts her head at it. “Is that for us?” she asks. No one comes to open her door.
 
 My shuttle slows. Irthess notices.
 
@@ -298,9 +286,9 @@ He looks down at the daughter, who is wrapping the silk around her shoulders to 
 
 I let go of his sleeve. He waits, and for a moment I dislike him for waiting. He has accepted my vote; I want him to accept this also. I want his anger to stop short of the little house with the blue door.
 
-“Let her decide what she agrees to,” I say at last. “Tell her the danger.”
+“She won't let you finish explaining,” I say at last. “She never lets her father finish. Tell her the danger first.”
 
-“I'll tell her what I know.”
+He looks at the girl a moment longer. “I'll start with it.”
 
 He leaves with the others. The latch settles into place. I remain standing beside the loom until the ache under my wrap subsides.
 

@@ -76,7 +76,7 @@ A door swung open at the shallow end. Hewlin stood. The woman in the yellow cap 
 
 I had no mouth to answer with. After a moment he went to his chair.
 
-All morning the old address kept returning, in his voice. I had liked the way he used to carry my music: flat on both palms, as solemnly as a cake. Once, when rain ruined a garden concert, he had helped me take apart the sandwiches and feed the bread to the wet peacocks. There had been good afternoons. I had not needed to forget them to be happy here.
+All morning the old address kept returning, in his voice. I had liked the way he used to carry my music: flat on both palms, as solemnly as a cake. Once, when rain ruined a garden concert, he had helped me take apart the sandwiches and feed the bread to the wet peacocks. There had been good afternoons.
 
 That evening I waited until the last swimmer had left, then came up beside the ladder. Hewlin was on a bench putting on his socks. At the sight of me he tried to stand with a sock hanging from his toes and had to catch the bench.
 
@@ -86,7 +86,7 @@ That evening I waited until the last swimmer had left, then came up beside the l
 
 He took a folded sheet from his bag. I climbed out, becoming solid enough to bear my weight. My black bathing costume returned with my skin. I sat a little distance away; after a day without joints, bending my knees felt unnecessarily elaborate.
 
-The paper was a program for the local gathering. Beneath the name Queen Madelon and my dates was a picture from my coronation, with the cheeks narrowed and the crown enlarged. I had asked for neither improvement. The younger woman in the picture looked as if she could comfortably sleep in pearls.
+The paper was a programme for the local gathering. Beneath the name Queen Madelon and my dates was a picture from my coronation, with the cheeks narrowed and the crown enlarged. I had asked for neither improvement. The younger woman in the picture looked as if she could comfortably sleep in pearls.
 
 “They've left a question mark for the second date,” I said.
 
@@ -114,7 +114,7 @@ I remembered him standing by the lesson-room door with the folder against his st
 
 “Nine?”
 
-“Depending how late it is.” He smoothed the folded edge of the program. “Did you always mean to stay away?”
+“Depending how late it is.” He smoothed the folded edge of the programme. “Did you always mean to stay away?”
 
 I read the line about my devotion to music again. “I meant to have a fortnight to myself. Without anyone coming to fetch me. Then I thought I'd stay until winter.”
 
@@ -122,7 +122,7 @@ I read the line about my devotion to music again. “I meant to have a fortnight
 
 “It was easier to write that than to arrange a fortnight.”
 
-He made no reply. I ran my thumb over the paper, where a drop had blurred part of the border. Each year, as winter came, I had looked forward to seeing snow through the roof. That had been enough to keep me for another season. Said aloud, it would have sounded like a poor excuse for something I had loved.
+He made no reply. I ran my thumb over the paper, where a drop had blurred part of the border. Each year, as winter came, I had looked forward to seeing snow through the roof. That had been enough to keep me for another season. I could not have told him so without the snow sounding like an excuse, and I had loved it.
 
 “Who is organizing this?” I asked.
 
@@ -146,9 +146,9 @@ This time I looked at him. His wet hair had dried into a ridge on one side. He h
 
 “Yes. I liked the coast better, but the work's seasonal.” He pulled on his other sock. “My aunt's here. And I used to live with someone. We still see each other sometimes.”
 
-I wanted to ask whether that pleased or hurt him. He was putting his shoes on, however, and I folded the program along its old crease.
+I wanted to ask whether that pleased or hurt him. He was putting his shoes on, however, and I folded the programme along its old crease.
 
-“May I hold on to this?” I asked, lifting the program.
+“May I hold on to this?” I asked, lifting the programme.
 
 “Of course.”
 
@@ -166,11 +166,11 @@ Inside were three little pastries folded around plum jam. I ate one standing up,
 
 Hewlin watched me eat. “I asked her for the song as well. She only knew four verses.”
 
-“Is it one of these three?” I held up the program. “They've only printed the first lines.”
+“Is it one of these three?” I asked, holding up the programme with my thumb already under the second title.
 
-He looked. “The second one. They've put down the proper title.”
+He looked at my thumb, then at me. “That one. They've put down the proper title.”
 
-I knew the title. I had known it all along. I simply wanted to keep talking about the evening, close enough to the question that he might ask it for me.
+I had been reading the sheet for two evenings. I only wanted to keep us talking about the memorial until he asked me to it.
 
 “I'd like to go,” I said at last. “To the memorial.”
 
@@ -196,19 +196,19 @@ On Sunday he brought a loose dress and a cardigan borrowed from his aunt, and sa
 
 We walked to the hall. I was used to making myself flesh for a few minutes at a time, and at first the pavement seemed to rise too sharply to meet my feet. Hewlin shortened his stride. He offered his arm once, and I took it, then kept it when my legs remembered what to do. Beside the ordinary movement of our walking, I could feel his pulse through his sleeve.
 
-The hall was above a shop that sold beds. A young man was carrying a mattress through the delivery door as we arrived. He asked us to wait, said thanks when we did, and went on struggling with it. Upstairs, someone had set out thirty chairs. Sixteen people came, counting us, and an infant slept through the whole observance in a basket on the table intended for flowers.
+The hall was above a shop that sold beds. A young man was carrying a mattress through the delivery door as we arrived. He asked us to wait, said thanks when we did, and went on struggling with it. Upstairs, someone had set out thirty chairs. Sixteen people came, counting us, and an infant slept through the whole observance in a basket on the table intended for flowers. The flowers had been put on the floor beside it.
 
 I had expected more. I was ashamed of expecting more. Then I was annoyed because my chair rocked whenever I shifted my weight, and for several minutes I thought chiefly about that.
 
-The organizer welcomed Hewlin and gave me a program. “You're from home too?”
+The organizer came along the row to welcome Hewlin and gave me a programme. “You're from home too?”
 
 “Yes. I've been away a long time.”
 
-“Well, sit anywhere. There's tea already, if you'd rather not wait.”
+“Well. There's tea already, if you'd rather not wait.”
 
 Her cardigan was held closed with a brooch shaped like a pair of cherries. When everyone had settled, she stood by the flowers and read the official account. She had trouble with the name of my first school. I thought of the schoolroom's apple trees, and of sitting on a low branch with my dress pulled over my bare knees. The account moved on to my marriage and my husband's death. Two lines for the thirteen years in which I had known the sound of him blowing his nose in the next room.
 
-I gripped the program until it curved around my fingers. Hewlin sat quietly beside me. He had been a child when my husband died; he had no memory to lend me.
+I gripped the programme until it curved around my fingers. Hewlin sat quietly beside me. He had been a child when my husband died; he had no memory to lend me.
 
 After the reading, a man at the front got up without waiting to be asked.
 
@@ -224,7 +224,7 @@ A woman with a knitted bag across her knees said she had gone out to see my coro
 
 “White,” she said. “It had buttons all the way up. I wanted gloves like that for years.”
 
-I moved my bare hand beneath the program. I had loved those gloves too. My seamstress had sewn one cuff too tightly, and after the procession we had cut it off me, laughing because I was married to a kingdom and defeated by a sleeve.
+I moved my bare hand beneath the programme. I had loved those gloves too. My seamstress had sewn one cuff too tightly, and after the procession we had cut it off me, laughing because I was married to a kingdom and defeated by a sleeve.
 
 The woman beside her leaned forward. “I thought she was badly advised. When they closed the little theatre, she should have said something. They said she supported it.”
 
@@ -232,7 +232,7 @@ The woman beside her leaned forward. “I thought she was badly advised. When th
 
 “As a cinema.”
 
-I drew breath to explain that I had spoken about the closure, twice, privately, to a minister who had agreed with every word and done nothing. Then the woman began describing the Christmas play she had taken her children to, and I listened. She remembered the paper snow and a donkey that would not go offstage. I remembered the minister's carpet. Explaining would not have given her another play.
+I drew breath to explain that I had spoken about the closure, twice, privately, to a minister who had agreed with every word and done nothing. Then the woman began describing the Christmas play she had taken her children to, and I listened. She remembered the paper snow and a donkey that would not go offstage. I remembered the minister's carpet.
 
 There was a small, clumsy pause after that. The organizer asked whether anyone else would like to say something. Hewlin shook his head when she looked at him, and she went on to the music.
 
@@ -242,7 +242,7 @@ The first song was the anthem. I knew every word, but had never been expected to
 
 Then the organizer said we could sit down. Someone had brought a mandolin, and there was a search for a plectrum, a little tuning, a false start. I had time to wish I had taken tea.
 
-The miller's wife began sweetly, as it always did, with her waiting for her husband to come home. The room knew the tune. In the second verse she welcomed a traveler; in the third she hid his boots beneath the bed. I sang with the others, hearing the unused breadth of my own voice. My teacher had said I swallowed the low notes. Apparently I still did.
+The miller's wife began sweetly, as it always did, with her waiting for her husband to come home. The room knew the tune. In the second verse she welcomed a traveller; in the third she hid his boots beneath the bed. I sang with the others, hearing the unused breadth of my own voice. My teacher had said I swallowed the low notes. Apparently I still did.
 
 The fourth verse was where we had always stopped at court. The husband came back, found the boots, and asked whose they were. An unanswered question, a neat musical finish, applause. Here the woman with the knitted bag sang straight into his wife's reply, and half the room followed her.
 
@@ -256,4 +256,4 @@ By the end of the verse I was crying. I could hear it spoil my voice. The woman 
 
 I shook my head.
 
-He bent the program out of our way and began, singing close to my ear so I could follow. He was no better than my husband had been. I wiped my nose and watched his mouth, coming in a word or two behind him, and when the miller opened the flour sack I was ready with everyone else.
+He bent the programme out of our way and began, singing close to my ear so I could follow. He was no better than my husband had been. I wiped my nose and watched his mouth, coming in a word or two behind him, and when the miller opened the flour sack I was ready with everyone else.

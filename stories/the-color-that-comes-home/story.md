@@ -12,7 +12,7 @@ Nerith had brought six kinds of pick to open the black door. By the time she rea
 
 The door stood without a wall in the lowest cut of the abandoned quarry. Evening lay blue in the chisel marks. Down the pale slope came a river too bright to look at directly, branching around stones and rejoining in colors that remained separate even where they crowded together. They flowed into the foot of the frame, climbed its sides, and curled over one another along the lintel. There was no keyhole. No handle, either.
 
-She took out her thinnest pick.
+She unrolled her picks against the frame, and the steel clinked on the black edge. She drew out the thinnest.
 
 “You'll scratch it,” Bozren said from behind the door.
 
@@ -82,9 +82,9 @@ She lifted her wet hand. The eye did not blink again. After a while the creature
 
 “We'd need a boat,” Bozren said.
 
-She pictured one of the little hired boats on the lake below her town, tipped over in the crease beside that eyelid.
+Nerith laughed before she could stop it.
 
-“A larger boat than you're thinking of.”
+“I was seeing the hired boats on the lake at home,” she said. “The little ones with the bench. Tipped over in the corner of its eye like a bit of grit.”
 
 He touched green on the upright. Nothing happened. The ocean continued lifting toward their feet.
 
@@ -108,9 +108,9 @@ Bozren had sat down to retie his boots. He was looking past her at a yellow flow
 
 She knew that look. He had worn it while crawling out of a bear's winter den with a piece of antler. He had thought he was following a rumor about ivory stairs. She'd laughed for half an hour; afterward, when he showed her the scratches, she'd wanted to see the den.
 
-“You always like the biggest thing,” she said.
+“That's your bear-den face,” she said.
 
-“I like that one.”
+He lifted his chin toward the bough. “I like that one.”
 
 “We haven't even opened half of them.”
 
@@ -136,7 +136,7 @@ Far up the slope, orange had begun contracting. Its tributaries drew inward, lea
 
 She could see that. She didn't see why they had started just as she arrived.
 
-“Then open something.”
+She jerked her chin at the frame. “Then open something.”
 
 He caught orange. Beyond the door lay a terrace of honey-colored pillars, all the same height, all slowly revolving. A dry wind rattled between them. Bozren stood across the sill with one foot on a pillar's broad top and one in the quarry, peering down into the spaces.
 
@@ -144,7 +144,7 @@ The orange strand shortened. It slid along the frame toward his ankle, where its
 
 “Look at your ankle.”
 
-He looked at the color, then drew his foot into the quarry. Orange swept through the opening after it. The pillars vanished.
+He looked at the color, then drew his foot into the quarry. Orange swept through the opening as soon as he was clear. The pillars vanished.
 
 Neither spoke for a moment. Nerith was still holding his belt. He looked over his shoulder at her hand, and she let go.
 
@@ -170,11 +170,11 @@ Nerith laughed. It came out too loud. She had spent her first gold on a bronze b
 
 Bozren was opening his pack.
 
-“Listen,” she told him.
+“Listen,” she told him. “That's all from one pebble. One. Think what a handful would do.”
 
 “I heard.”
 
-“It moved.”
+“It moved. The big one by the ridge stood up. It's got feet. Did you see?”
 
 “I saw.” He pulled his climbing cord free of the bedroll. “I want green again.”
 
@@ -206,13 +206,13 @@ His pack was the one he had carried for as long as she'd known him, the canvas p
 
 “I'm not asking you to choose for me.”
 
-“I'm asking you to look.”
+“I know. Just look at it with me first. It won't take long.”
 
 He opened his mouth, then shut it as yellow suddenly slid away from her reaching hand. It ran up the frame and into the seam. No one touched it in time.
 
 Bozren said, “Move, Nerith.”
 
-She was standing between him and green. She had not meant to put herself there. Her hands were on the frame, one above the other, gripping the hard black corners where no color passed.
+She was standing between him and green. She had not meant to put herself there. Her hands were on the frame, one above the other, gripping the hard black corners where no color passed. Beside her left hand the last length of blue went up into the seam, and the narrow dark strand close behind it.
 
 “Wait with me.”
 
@@ -268,7 +268,7 @@ She put on her pack. For a moment the weight steadied her into the familiar busi
 
 It stopped under her fingers. She felt it gather, a small living firmness. It had somewhere to go.
 
-When the door opened, she stood in the sill and listened. The shells were quiet now. Across the slope, the drop she had watched earlier was gone; another was swelling in its place. She could see little tracks where a spiral had crossed the sand. She looked back once, all the way to the lip of the quarry, then hitched her waterskin higher on her belt.
+When the door opened, she stood on the sill and listened. The shells were quiet now. Across the slope, the drop she had watched earlier was gone; another was swelling in its place. She could see little tracks where a spiral had crossed the sand. She looked back once, all the way to the lip of the quarry, then hitched her waterskin higher on her belt.
 
 She stepped out. Her usual stride carried her too high, too far. She hung for a startled moment with both feet off the ground, her pack lifting against its straps. She twisted to look back. Violet slid across the sand below her; the rectangle of quarry light narrowed and went out.
 

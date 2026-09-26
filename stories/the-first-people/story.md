@@ -28,11 +28,9 @@ She drew herself straight despite the pain along her ribs. “To the first heart
 
 The translator told him, “Old mud property. Dependent animals remain in inventory.”
 
-The human stared at her. “Right,” it rendered. “We'll try that indoors.”
+The human stared at her. “Right,” the translator rendered. “We'll try that indoors.”
 
-He approached slowly and held out a silver sheet. Heshi recoiled. He stopped at once, opened it around his own shoulders, then pointed from the sheet to her and raised his brows.
-
-Not a restraint. Warmth.
+He approached slowly and held out a silver sheet. Heshi recoiled. He stopped at once, opened it around his own shoulders, then pointed from the sheet to her and raised his brows. It was for warmth.
 
 She took it. He turned immediately to her wreck, crouched beside the split hull, and reached for the emergency core.
 
@@ -60,19 +58,17 @@ The translator offered *harbor*, *male offspring*, and then the sound itself.
 
 “Heshi.”
 
-“Heshi.” He got close enough. He pointed toward the house. “Unless you'd rather explain the war in the rain.”
+“Heshi.” His second try came close enough. He tipped his head at the pulse in the clouds, then pointed toward the house. “Unless you'd rather explain that in the rain.”
 
-She understood only *war* and followed.
+She understood the pointing, if nothing else, and followed.
 
-The first house of humanity had three rooms, a stove that smelled of scorched leaves, and a bucket under a ceiling drip. Martin moved the bucket two finger-widths before he did anything else. Heshi had crossed the occupied road under fire. She had watched three escort vessels flower soundlessly in vacuum. The oldest living people in the cosmos had given the leak its own towel.
+The first house of humanity had three rooms, a stove that smelled of scorched leaves, and a bucket under a ceiling drip with a towel folded in its bottom to quiet the splash. Martin moved the bucket two finger-widths before he did anything else. Heshi had crossed the occupied road under fire. She had watched three escort vessels flower soundlessly in vacuum. The oldest living people in the cosmos had given the leak its own towel.
 
-Martin sat her near the stove, put a dry cloth beside the census spindle without touching it, and worked at a panel in the wall. Its glass filled with symbols too old and simple to be mistaken: the basal route marks from which every younger script had grown.
+Martin sat her near the stove, put a dry cloth beside the census spindle without touching it, and worked at a panel in the wall. He got the first sequence wrong and had to start again. The panel's glass filled with symbols too old and simple to be mistaken: the basal route marks from which every younger script had grown.
 
-Heshi stood so abruptly that the room tipped.
+Heshi stood so abruptly that the room tipped. “You know the road.”
 
-“You know the road.”
-
-“I know that you arrived through a system we're not supposed to have heard from in a very long time.” He spoke slowly, watching the translator struggle. “I am a listener. Civilian. Night rotation.”
+“Some of it.” He spoke slowly, watching the translator struggle. “You came down the old road. Nothing has come down it in all our records. We listen anyway. I am a listener. Civilian. Night rotation.”
 
 “Bring those who decide war.”
 
@@ -90,15 +86,13 @@ She struck the spindle with two fingers. Nineteen lights flared, then seven more
 
 The refusal shocked her more than the room had. Every plea carried the old kinship. First hearth, later houses. First voice, answering voices. The words were why she had kept moving after there was no one left to order her onward.
 
-Martin looked at the translator's text and rubbed both hands over his face. “No. I mean, they aren't ours to own. Start again. Less ceremony.”
+Martin looked at the translator's text and rubbed both hands over his face. “No. I mean, they're not ours, we never... Start again. Less ceremony.”
 
 “Ceremony preserves precision.”
 
 The translator said, “Incense keeps knives sharp.”
 
-Martin glanced at the stove. “Apparently not tonight.”
-
-He touched the wall panel. Somewhere below the house, something answered with a note so low Heshi felt it through the chair. Lines of human script moved across the glass. The translator caught fragments.
+Martin looked at that for a moment and let it go. He touched the wall panel. Somewhere below the house, something answered with a note so low Heshi felt it through the chair. Lines of human script moved across the glass. The translator caught fragments.
 
 ORIGIN SIGNAL UNCERTAIN.
 
@@ -114,9 +108,7 @@ KEEP WITNESS PRESENT.
 
 He was joking. Heshi could tell because the translator marked the sentence as a probable apology, which was how it handled most human humor. She could not tell what he was apologizing for.
 
-The spindle gave a warning tremor. She put it on the table and unlocked the cracked face. A field of points spread across the ceiling, jittering whenever rain struck the roof. Martin reached for a lamp, then understood and turned every light off.
-
-Darkness made the room large enough.
+The spindle gave a warning tremor. She put it on the table and unlocked the cracked face. A field of points spread across the ceiling, jittering whenever rain struck the roof. Martin reached for a lamp, then understood and turned every light off. Darkness made the room large enough.
 
 Heshi touched the oldest route in the census. A thread ran from the point above the table to six others, then branched until the ceiling shone. She closed her fist. A third of the branches vanished.
 
@@ -140,9 +132,7 @@ At last Martin pointed to the pale scratch pulsing beyond the window. He set one
 
 “Coming here?”
 
-Heshi nodded.
-
-He pointed to the spindle, then to Earth.
+Heshi nodded. He pointed to the spindle, then to the black-bound counter.
 
 “Why bring this here?”
 
@@ -150,15 +140,11 @@ He pointed to the spindle, then to Earth.
 
 He made a small, impatient motion. Obviously. Why else would his wall know the root marks?
 
-“No,” Heshi said. She pushed aside the younger routes and found the deep date layers. The spindle stuttered over intervals too large for its display. She drew the first line alone from Earth into an empty part of the table. No answering worlds. She added another line. Still none. Another. Around them she placed bare counters for seas not yet alive, stone worlds, clouds that had not yet learned the chemistry of breath.
+“No,” Heshi said. She pushed aside the younger routes and found the deep date layers. The spindle stuttered over intervals too large for its display. She drew the first line alone from Earth into an empty part of the table. No answering worlds. She added another line. Still none. Another. Around them she placed bare counters for seas not yet alive, stone worlds, clouds that had not yet learned the chemistry of breath. Only much later did she set down the counter for her home.
 
-Only much later did she set down the counter for her home.
+Martin stopped moving. His eyes went back along the bare counters, from Earth's first line to the counter for her home, and his lips moved as he counted them.
 
-Martin stopped moving.
-
-The wall panel had begun checking her dates against records below the house. Human symbols multiplied. She could not read the detail, but she knew the shape of agreement: error narrowing, measures locking, separate clocks finding the same past. The wall reached farther back than the road, into the oldest living strata of Earth. Their date settled beneath every cradle in the census.
-
-Earth had begun living first. Humanity had called into silence because, then, there had truly been no one to answer.
+The wall panel had begun checking her dates against records below the house. Human symbols multiplied. She could not read the detail, but she knew the shape of agreement: error narrowing, measures locking, separate clocks finding the same past. The wall reached farther back than the road, into the oldest living strata of Earth. Their date settled beneath every cradle in the census. Earth had begun living first.
 
 “We listened,” Martin said. “There was nobody.”
 
@@ -166,29 +152,21 @@ Heshi touched the young counter that stood for her world.
 
 “Not yet,” he said.
 
-The first people had not emerged from a crowded sky and conquered it. They had opened their eyes to no one. While Heshi's oceans were still warm poison under a young sun, humans had sent machines outward. They had built empty stations around stars where no mind existed to use them. The road had waited through ages for travelers not yet born.
-
-Her teachers had called that part devotion because the alternative was absurd.
+While Heshi's oceans were still warm poison under a young sun, humans had sent machines outward. They had built empty stations around stars where no mind existed to use them. The road had waited through ages for travelers not yet born.
 
 Martin stared at the dates with no triumph at all. “Somebody kept the receivers on.”
 
 Heshi swept the later lights back into the sky. “Then take back your road.”
 
-The translator rendered it perfectly.
-
-Martin sat down. For the first time that night, he looked old.
+The translator rendered it perfectly. Martin sat down. For the first time that night, he looked old.
 
 “We can't take it back,” he said. “We can burn it.”
 
-He opened a red cover beneath the wall panel. There were two empty sockets inside, one shaped for a human hand and one for incoming route data. Heshi understood before his explanation survived the translator. A root failure sent through the oldest layer would run outward faster than any vessel. It would force whatever it could from transit and destroy the rest of the fast lattice behind it. No branch selection. No rebuilding from the captured stations. No road for the enemy.
+He opened a red cover beneath the wall panel. There were two empty sockets inside, one shaped for a human hand and one for incoming route data. Heshi understood before his explanation survived the translator. A root failure sent through the oldest layer would run outward faster than any vessel. It would force whatever it could from transit and destroy the rest of the fast lattice behind it. It could not pick which branches to keep, and nothing could be rebuilt from the captured stations. The enemy would have no road. Neither would anyone else.
 
-No road for anyone.
+“Burn it, then,” Heshi said.
 
-“Close it,” Heshi said.
-
-“This closes all of it.” Martin pointed to the counters, one by one. A refuge whose atmosphere scrubbers came by road. A vessel between stars. A habitat supplied from a system with no habitable world. The translator lost his qualifiers, so he wrote numbers in the condensation on the window. Transit loads. Food intervals. Days by road becoming months by the fastest human craft, months becoming years.
-
-Heshi watched him make the cost too plain to turn into legend.
+Martin did not reach for the sockets. He pointed to the counters, one by one. A refuge whose atmosphere scrubbers came by road. A vessel between stars. A habitat supplied from a system with no habitable world. The translator lost his qualifiers, so he wrote numbers in the condensation on the window. Transit loads. Food intervals. Days by road becoming months by the fastest human craft, months becoming years. Heshi watched him make the cost too plain to turn into legend.
 
 “I did not come to ask this.”
 
@@ -196,21 +174,17 @@ Heshi watched him make the cost too plain to turn into legend.
 
 “For the first people to lead.”
 
-“Lead what? The road goes everywhere they do.”
+“Lead what?” He pointed at the scratch beyond the window. “Anything we send goes up that road, and whoever's chasing you is sitting on it.”
 
 She had no answer. She had imagined fleets older than her species, weapons reserved by wise hands, perhaps a command spoken in the first language that would make the road obey. She had brought humanity a child's version of age: age without ruin, without forgotten techniques, without arguments conducted beyond a kitchen wall.
 
-The pale scratch in the clouds became a steady line.
-
-Every light in the room came on.
+The pale scratch in the clouds became a steady line. Every light in the room came on.
 
 The voice from the wall was smooth, free of static, translated before it finished speaking.
 
 “First cradle, you are being invited to remain outside a containable dispute among younger civilizations. Release the courier and abstain from damage to common transit. Your safety, autonomy, and continued access will be guaranteed.”
 
-Heshi's throat membrane tightened. The pursuer's voice always sounded reasonable. It had learned to make terror fluent.
-
-“They found the house,” she said.
+Heshi's hand closed over the spindle. “They found the house.”
 
 “I gathered that.” Martin looked at the red cover. “They also speak our language better than you do.”
 
@@ -234,7 +208,7 @@ The apology was direct enough that even the translator left it alone.
 
 “Your people live.”
 
-“And they keep every door.” He touched the wire leading from Earth, not looking at her. “Giving them you doesn't make them forget the addresses.”
+“And the ones up there keep every door.” He touched the wire leading from Earth, not looking at her. “Giving them you doesn't make them forget the addresses.”
 
 Below the house, the low note changed. The wall filled with terse fragments, appearing and vanishing too fast for Heshi's translator.
 
@@ -264,7 +238,7 @@ The perfect voice returned. “Close the foreign device. The courier's surrender
 
 Heshi's hand moved toward the spindle latch.
 
-Martin did not stop her. “I need the census,” he said. His humor was gone now, and without it his voice seemed less competent, not more. “I don't have a clean way to ask for it.”
+Martin did not stop her. “I need the census,” he said. His humor was gone now, and he sounded less sure of himself without it. “I don't have a clean way to ask for it.”
 
 She waited for persuasion. He only stood beside the red cover while rain worked at the house and the pursuer's line thickened in the clouds.
 
@@ -280,7 +254,7 @@ The pursuer's line flared.
 
 “So do we.” Martin pressed his palm into the human socket.
 
-The room asked a question in both their languages. Heshi's version lost the word that distinguished consent from command.
+The room asked a question in both their languages. Heshi's version reached her without the word that distinguished consent from command, and she answered it as she would have answered the elders who sent her. “Your machine commands it.”
 
 Martin pulled his hand away. “No. It has to be clear.” He pointed to her, then to the connected spindle. “Do you choose to hold this open?”
 
@@ -292,7 +266,7 @@ The line beyond the window widened until the clouds shone from within.
 
 He set his hand back into the root.
 
-The census poured itself through the house. Heshi saw transit burdens race along the ceiling: cargo, passenger clusters, vessels under concealment, the dim intermittent marks of damaged craft. Earth answered not with a speech but with changing intervals. Hold. Release. Hold.
+The census poured itself through the house. Heshi saw transit burdens race along the ceiling: cargo, passenger clusters, vessels under concealment, the dim intermittent marks of damaged craft. Earth answered in changing intervals. Hold. Release. Hold.
 
 The root intended to burn outward in one wave. Heshi caught Martin's sleeve and dragged the black wire on the table into a curve. Her damaged census was late along the occupied branches; a single wave would reach three passenger clusters before their emergency ejection marks arrived.
 
@@ -300,7 +274,7 @@ The root intended to burn outward in one wave. Heshi caught Martin's sleeve and 
 
 “Show me.”
 
-She could not. The translator gave him *funeral before door*. She tore the wires from the table, laid the shortest branch over the longest, and moved his finger from Earth outward in staggered steps. Then she made three quick fists, throwing imaginary vessels clear.
+She could not say it. The translator gave him *funeral before door*. She tore the wires from the table, laid the shortest branch over the longest, and moved his finger from Earth outward in staggered steps. Then she made three quick fists, throwing imaginary vessels clear.
 
 Martin watched once. “A rolling burn.”
 
@@ -370,11 +344,7 @@ For a moment the census showed nothing at all. Then six emergency marks returned
 
 Heshi tried to ask how many had been lost. Her voice made no sound.
 
-Martin removed his hand from the socket. The skin of his palm was blistered in the root's pattern. He wrapped it in the same silver sheet she had refused outside and waited beside her while the spindle searched.
-
-The road was silent.
-
-Not the old silence humanity had heard before anyone else existed. This silence had people on both sides of it.
+Martin removed his hand from the socket. The skin of his palm was blistered in the root's pattern. Heshi took the silver sheet from her shoulders and gave it to him. He wrapped his hand in it and waited beside her while the spindle searched. The road was silent.
 
 The dead root released what it had caught as it closed. Messages came out of order and without the road's clean translation. A shelter reported that something had ejected above it. A vessel transmitted only breathing and a repeating pressure value. One occupied system said the enemy ships already there had not vanished. Another signal consisted of a hand-drawn star pattern so distorted Heshi had to turn her head before she recognized the request for medical aid.
 
@@ -390,22 +360,16 @@ LOCAL CONFLICTS UNRESOLVED.
 
 SLOW-AID LAUNCHES AUTHORIZED.
 
-Martin read the last line aloud. His voice shook on *authorized*.
-
-Somewhere beyond the wet windows, engines began as a vibration in the table. Heshi had expected the oldest people to answer with an ancient power no one else possessed. Instead, they had destroyed it. What remained sounded heavy, mechanical, embarrassingly slow.
+Martin read the last line aloud. His voice shook on *authorized*. Somewhere beyond the wet windows, engines began as a vibration in the table. They sounded heavy, mechanical, embarrassingly slow.
 
 The census recovered enough to mark three clusters within reach of the first craft. One contained survivors from Heshi's route, but not her home. Another had breathable reserves for perhaps forty days. The human craft would need thirty-six if nothing failed.
 
-Martin came to stand beside her. “We can send the first one where your count says.”
+Martin came to stand beside her. “We can send the first one where your count says.” He kept his hand away from the panel and waited.
 
-It was not a command, and he did not make the choice easier by pretending otherwise.
-
-Heshi touched the mark with forty days of air.
-
-“There,” she said.
+Heshi touched the mark with forty days of air. “There,” she said.
 
 Martin relayed it.
 
-Beyond the seawall, a blunt human craft rose into the washed-out morning. It climbed under its own engines, slowly enough that Heshi could follow it through the window. There was no road beneath it and no promise it would arrive in time.
+Beyond the wall, a blunt human craft rose into the washed-out morning. It climbed under its own engines, slowly enough that Heshi could follow it through the window. There was no road beneath it and no promise it would arrive in time.
 
 It kept climbing.

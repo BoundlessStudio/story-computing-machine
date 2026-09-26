@@ -16,9 +16,7 @@ Nali closed the tally slate and climbed back for it.
 
 The ewe stood with her left forefoot lifted, chewing as if this were no one's emergency. Nali felt down the warm leg, found a pebble wedged beside the hoof wall, and worked it free with the point of her knife. No swelling. No blood. She would lead the ewe slowly, check it again at the pen, and still have the flock under stone before the weather came over the north shoulder.
 
-Then all the bells below her stopped.
-
-The sheep had raised their heads toward the sky.
+Then all the bells below her stopped. The sheep had raised their heads toward the sky.
 
 The aurora had sagged low across Ruskala that evening, a green filament combed thin above the summer range. Something vast moved along it. At first Nali mistook the shape for cloud because it had no hard edge. Then the cloud flexed.
 
@@ -46,13 +44,11 @@ A pause. Mavek was good at not filling a pause merely because it existed.
 
 "Close it. Don't ring the hand bell."
 
-"Confirm no bell. Closing west."
+"Closing west."
 
 The ship pulsed again. This time cold light spread over the grass in front of Nali, a flat projection no wider than a shearing tarp. A dark oval appeared at its center. Three smaller marks circled it, then moved outward until the image could no longer contain them. A line unreeled from the oval into a scatter of white points. Halfway across, the line frayed into blocks and began again from the wrong point.
 
-The ewe's bell knocked. The projection changed. Tiny points gathered along a second line, copying the bells below as the penned sheep shifted toward the west wall.
-
-The ship's route line brightened.
+The ewe's bell knocked. The projection changed. Tiny points gathered along a second line, copying the bells below as the penned sheep shifted toward the west wall. The ship's route line brightened.
 
 "Mavek," Nali said, "get them off that gate. Slow."
 
@@ -60,9 +56,7 @@ The ship's route line brightened.
 
 Nali took the ewe's halter short and started downhill. The other sheep heard her boots in the turf and Mavek's working call from the pen. They turned. Their bells spread, then drew into a moving corridor toward the south corner.
 
-Above them, the starship turned too.
-
-Its good vanes folded. The wounded lobe lagged, shuddering. The enormous body slid down out of the aurora after the bells.
+Above them, the starship turned too. Its good vanes folded. The wounded lobe lagged, shuddering. The enormous body slid down out of the aurora after the bells.
 
 "Stop moving them," Nali said.
 
@@ -98,25 +92,19 @@ Below, a gate clanged. Mavek's voice came breathless through the static. "Lower 
 
 Nali turned the loose animals one by one until they began to bend. A slow bend became a stream. They passed her downhill, seven bells battering without pattern.
 
-The ship followed the bend.
-
-Its wounded side dipped toward the broken slope. The split ran one bright rib farther. Beneath the translucent surface, branching light contracted unevenly around the opening, the whole side tightening as living hide would around pain.
+The ship followed the bend. Its wounded side dipped toward the broken slope. The split ran one bright rib farther. Beneath the translucent surface, branching light contracted unevenly around the opening, the whole side tightening as living hide would around pain.
 
 "No," she said, though no one could hear the word at that distance. She pulled the spare felt from her pack and caught the lame ewe's bell. Then she ran downhill, grabbing every lead bell she could reach and stuffing wool or felt around the clappers.
 
 "Muffle them," she told Mavek. "All you can get."
 
-"That's thirty bells."
+"That's seventy-odd bells."
 
 "Start with the leaders."
 
 Mavek did not repeat the number. She climbed onto the wall, caught the first ewe by the neck, and wrapped its bell in her scarf.
 
-Sound went out of the flock in patches. Brass became dull knocks, then small thuds inside cloth. As the last clear bell stopped, the magnetic pressure over the pasture broke off.
-
-The ship held where it was.
-
-Not rose. Not turned. Held.
+Sound went out of the flock in patches. Brass became dull knocks, then small thuds inside cloth. As the last clear bell stopped, the magnetic pressure over the pasture broke off. The ship held where it was.
 
 Nali kept both hands on a restless ewe until the animal's feet settled. "Leave them muffled. Count from south."
 
@@ -128,7 +116,7 @@ Nali kept both hands on a restless ewe until the animal's feet settled. "Leave t
 
 Nali looked north. Cloud had covered half the aurora. The ship hovered below the remaining green, one side working far harder than the other. Its route projection trembled over the grass, now mixed with the shape of the moving sheep. The central oval and three absent points appeared again. One point flashed nearby, one high, one beyond a curved horizon. All three went dark when the broken route line reached for them.
 
-It had not merely lost a direction. It was calling others with the wrong one.
+It was calling the others along a route that broke halfway.
 
 Nali could not tell it that. She could barely tell Mavek where the loose sheep had gone.
 
@@ -140,25 +128,19 @@ Mavek weighed the bell in her palm. "That puts the flock between us."
 
 "They're quiet now. Keep outside the wall."
 
-"And if it comes lower?"
+Mavek looked north, where the ship hung under the last of the green. "And if it comes lower?"
 
 Nali glanced at the ship's pinched wound. "Drop the bell. Don't run with it."
 
 "Confirm drop, don't run. That's poor general advice."
 
-"For tonight."
-
-Mavek went.
+Nali was already running her thumb along the low bell's chipped lip. Mavek went.
 
 Nali waited until the pale blur of her coat reached the cairn. She struck the low bell twice, leaving the same space between notes that she used when counting beyond fog. The ship answered in color: two bands of blue crossed its underside, separated by a dark band of equal width. Its magnetic return shook the low bell against Nali's fingers.
 
-At the cairn, Mavek repeated the two notes.
+At the cairn, Mavek repeated the two notes. The ship's body tilted north. Nali struck again from the spring, and it tilted back toward her.
 
-The ship's body tilted north.
-
-Nali struck again from the spring. It tilted back toward her.
-
-"It's choosing the sound's place," Mavek said over the radio.
+"It turns to whoever rang last," Mavek said over the radio.
 
 "Maybe. Change the call. Stay where you are."
 
@@ -168,15 +150,13 @@ Nali struck again from the spring. It tilted back toward her.
 
 Mavek rang the brisk uneven pattern for salt. The penned sheep surged toward the north wall, then stopped in confusion because no trough had appeared. Nali swore under her breath. Ordinary work still applied, even under a wounded piece of sky.
 
-The ship did not turn away from Mavek. Instead the broken route blazed across its projection again. The three absent points lit at its end.
+The ship did not turn away from Mavek. Blue flickered across its underside in the salt call's own uneven rhythm, a quick pair and a stumble. Then the broken route blazed across its projection again, and the three absent points lit at its end.
 
-Place mattered. Their meanings did not.
-
-"It thinks every bell says go there," Nali said.
+Nali stood over the line burning across the grass. "It's put the route up again. Every bell we ring, it thinks we mean this way."
 
 "Or it can't hear the calls are different."
 
-"It copied the difference."
+"It gave your call back uneven. It heard the difference."
 
 "Then stop changing calls. One thing at a time."
 
@@ -196,11 +176,7 @@ She waited longer.
 
 At last the ship's good vanes opened to catch what remained of the aurora. The signals ceased.
 
-Only then did Nali strike twice. She let the notes die completely. She waited five breaths and struck the same pair again. Then she put both hands flat on the bell and did nothing.
-
-The ship began to answer over her second strike. Nali slapped the bell's rim once, a cracked interruption, and stopped.
-
-It flooded the radio again.
+Only then did Nali strike twice. She let the notes die completely, waited five breaths, and began the same pair again. The ship came in over her second note. Nali slapped the bell's rim once, a cracked interruption, and put both hands flat on the brass to stop it. The ship flooded the radio again.
 
 "Too much," Mavek said. "I'm losing you."
 
@@ -212,9 +188,7 @@ It flooded the radio again.
 
 "Right."
 
-They gave the ship no signal at all.
-
-Rain stippled the projection. The route blocks ran and broke. A blue band formed, faded, formed again. Then the field went dark and stayed dark for five breaths.
+They gave the ship no signal at all. Rain stippled the projection. The route blocks ran and broke. A blue band formed, faded, formed again. Then the field went dark and stayed dark for five breaths.
 
 Nali rang twice. Waited. Rang twice. Waited.
 
@@ -230,25 +204,19 @@ They repeated the exchange from the cairn. Then from the spring. On the third tr
 
 "We can't make that sheep ring on order."
 
-The bell sounded again as the ewe scratched its neck against the wall.
-
-"Apparently we can."
+They waited through most of a cold minute. Then the ewe scratched its neck against the wall, and the loose bell sounded again.
 
 Nali completed nothing. The ship did nothing.
 
 That was the first answer she trusted.
 
-The storm set recovered its echo. Seven point two. The wounded lobe had stopped collapsing, but the ship could not remain there. The cloud was swallowing the last feedable light, and each gust rolled the good side farther than before.
+The radio display recovered its echo. Seven point two. The wounded lobe had stopped collapsing, but the ship could not remain there. The cloud was swallowing the last feedable light, and each gust rolled the good side farther than before.
 
-Nali took the low bell uphill to the clear ridge while Mavek remained at the lower cairn. They sent completed pairs only when the ship's projection showed the local slope. At the cairn, Mavek rang and waited while Nali watched the torn lobe draw inward. On the ridge Nali rang the same sequence; the ship rose a little, the tear easing open rather than pinching shut.
+Nali took the low bell uphill to the clear ridge while Mavek remained at the north cairn. They sent completed pairs only when the ship's projection showed the local slope. It spread far down the hillside now, wide enough that Mavek could read it from where she stood. At the cairn, Mavek rang and waited while Nali watched the torn lobe draw inward. On the ridge Nali rang the same sequence; the ship rose a little, and the hide slackened around the split.
 
 They did it twice more. Lower, the wound darkened. Higher, it held. When Nali offered an incomplete pair toward the clouded north shoulder, the ship waited. When she repeated the full pair from the clear ridge, it laid a green line above that ground and left the deeper white route blank.
 
-Not home. Not destination. Only this way was clear as far as Nali could see.
-
-The ship changed its projection.
-
-The three small points separated around the central oval. The corrupted route line faded. In its place appeared a narrow ring above the world-curve, high enough that the ship's own image tipped sideways when it entered alone. Three empty places waited along the ring.
+The ship changed its projection. The three small points separated around the central oval. The corrupted route line faded. In its place appeared a narrow ring above the world-curve, high enough that the ship's own image tipped sideways when it entered alone. Three empty places waited along the ring.
 
 The starship sent a low radio harmonic, paused, and repeated it. The call was nothing like the sheep bells now. It had kept their spacing and discarded their sound.
 
@@ -256,7 +224,7 @@ For a long time, nothing answered.
 
 Mavek's voice came through quietly. "Sheep count is eighty-three. Lame one is bearing weight."
 
-Nali watched the blank points. "Confirm eighty-three."
+"Good," Nali said. She was watching the blank points.
 
 "You coming down?"
 
@@ -272,11 +240,11 @@ A thin tone touched the lowest edge of the channel. It wavered, stopped before m
 
 A second answer arrived high and split cleanly into two frequencies. The high point lit and held well above the first.
 
-The ship brightened too quickly. It sent its ring request over both replies. The nearer tone withdrew. The higher one remained but would not synchronize.
+The ship brightened too quickly, and its harmonic filled the channel. The wavering tone dropped out. The split one remained but would not fall into step.
 
 "It talked over them," Nali said.
 
-"I saw the first leave."
+"Low one's gone off my set."
 
 The starship's vanes tightened. Its magnetic pulse rattled stones against the low bell.
 
@@ -288,9 +256,7 @@ The near answer returned. The high answer descended by one measured interval. Fa
 
 "Three," Mavek said.
 
-"Not joined yet."
-
-"Confirm three located. Not joined."
+Nali kept her hand on the bell. "Wait."
 
 The ship repeated its request, pause intact. The third answer came as a cluster of delayed clicks that Nali felt first through the bell's handle. It did not move on the first request. On the second, after the ship preserved every silence, the far point rose toward the ring.
 
@@ -298,15 +264,11 @@ They came in by choice and they did not dock. The nearest satellite showed itsel
 
 One by one they took staggered positions around the living ship. Their harmonics met without merging. A field line tightened from the nearest disk to the torn lobe; another braced the good vanes; the delayed third steadied the whole body against the wind. The starship's wounded side rose.
 
-It projected the green line above Nali's clear ridge and waited.
-
-Nali rang the completed pair. She paused. She repeated it, confirming only what she had tested: open sky above the ridge, cloud lower to the north, no promise beyond sight.
+It projected the green line above Nali's clear ridge and waited. Nali rang the completed pair. She paused. She repeated it, confirming only what she had tested: open sky above the ridge, cloud lower to the north, no promise beyond sight.
 
 The ship answered with the same spacing. It did not restore the lost white route.
 
-Supported by its flock, it climbed.
-
-At eight kilometres the torn lobe relaxed. At ten, the amber leakage shortened to a faint seam. Higher, the satellites widened their formation, each holding a different distance. The starship reached the narrow ring it had proposed and turned with them toward the clear eastern sky, not onward to any forgotten star.
+Supported by its flock, it climbed. At eight kilometres the torn lobe relaxed. At ten, the amber leakage shortened to a faint seam. Higher, the satellites widened their formation, each holding a different distance. The starship reached the narrow ring it had proposed and turned with them toward the clear eastern sky, not onward to any forgotten star.
 
 Before the aurora closed behind the cloud, four separate harmonics crossed Nali's radio. They were not bells. They asked her for nothing she could hear.
 
@@ -318,11 +280,11 @@ At dawn, Mavek had the lame ewe outside the pen and was checking its stride on l
 
 "Weather's clearing east," Mavek said.
 
-"It cleared early."
+Nali looked that way. "It was clear there last night."
 
-"For them. Not for us. We're moving off this strip."
+Mavek let that stand. "We're moving them off this strip."
 
-An amber discharge had scorched a crooked line through the upper grass. Nali marked its ends with stones so no animal would crop there before the next rain had worked through it. They shifted the pen gate, packed the wet felt, and restored each clapper to its bell.
+An amber discharge had scorched a crooked line through the upper grass. Nali marked its ends with stones so no animal would crop there before the next rain had worked through it. They shifted the pen gate, took the wrappings off every clapper, and packed the wet felt.
 
 The flock sounded wrong at first. Too loud after a night of waiting. Then the separate notes spread across the slope as the sheep found grass, water, one another, and their ordinary distances.
 

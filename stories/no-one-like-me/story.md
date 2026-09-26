@@ -36,7 +36,7 @@ Now the recap is showing the eligibility hearings. HUMAN TALENT? says the captio
 
 The show permits any entrant who produces the sound live. It forbids playback and requires imitation of the declared performers. The arguments have filled a season anyway. In the recap, a recording critic calls me a loudspeaker. A former winner leans across the panel table to answer him, but before she can, the recap cuts to another shot of me singing.
 
-Tonight there are only Jannik and me. This is the world's biggest broadcast talent show, and the host has spent the evening reminding us of the countries watching: morning audiences, midnight audiences, people eating in front of me who will never once look toward this hall. I can imagine them so vividly that I have to remind myself I cannot hear them.
+Tonight there are only Jannik and me. This is the world's biggest broadcast talent show, and the host has spent the evening reminding us of the countries watching: morning audiences, midnight audiences, people eating in front of their screens who will never set foot in this hall. I can imagine them so vividly that I have to remind myself I cannot hear them.
 
 Jannik taps his knee for his entrance. I hum the little phrase that has been bothering me all week. Two notes level, then a reach upward, then a fall that stops too soon.
 
@@ -80,9 +80,9 @@ Jannik appears on the monitor. His first entrance is late enough to hurt. He let
 
 I know this recording. I know the rough catch he has to make and the moment his knees will give. He gets the catch; the knees look foolish in close-up. Then he turns, tosses the hair from his face and pulls a whole long phrase out of what ought to be the end of his breath. I lean toward the monitor. At the last instant he lets it break, exactly as the singer did, and the people behind him on the screen lift out of their seats.
 
-I clap once before remembering he can't hear me.
+I clap once, alone in the corridor.
 
-The stage runner comes for me during his bow. I follow her, gathering the skirt clear of the chair. Under the noise from the hall, I try my unfinished tune again, taking it past the place where Jannik stopped listening. The low part finds two notes I have not tried beneath the fall. I keep them there as we walk.
+The stage runner comes for me during his bow. I follow her, gathering the skirt clear of the chair. Under the noise from the hall, I try my unfinished tune again, taking it past the place where Jannik asked what came next. The low part finds two notes I have not tried beneath the fall. I keep them there as we walk.
 
 At the wing, the runner raises a finger for quiet. My cue is coming. Beyond the curtain, Jannik grins through his borrowed hair. I want that applause for myself. The little tune goes on moving through me after I stop sounding it.
 
@@ -168,7 +168,7 @@ When I straighten, the host is crossing the floor toward me, pressing one finger
 
 She waits, perhaps because there ought to be more. I look out at the gold rails. The woman who caught the refrain is still standing.
 
-“Under the final's imitation rule, that performance cannot be scored,” the host says. She gives the words time to reach the hall. “Your final entry is disqualified.”
+“I'm sorry, Sereva,” the host says. “Tonight the judges can only score the singers you declared.” She gives the words time to reach the hall. “That performance is disqualified.”
 
 I nod. I knew the rule before I stepped out, but I have been so full of the song that the word arrives as a fresh disappointment.
 

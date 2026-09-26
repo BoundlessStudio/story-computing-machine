@@ -14,15 +14,11 @@ Metal dust slid across the forward glass. A broken antenna mast turned end over 
 
 Her fingers lay in the restraint cradle where fingers belonged: five pale lengths, too many joints to account for, each tipped with a blunt nail. They were not port vanes. They did not have thrust authority. Less than an hour after the rebels had torn her active pattern out of Unit 02, her new body still disagreed.
 
-“That was yours,” Mursa said through the bone link.
+“That bank was yours,” Mursa said through the bone link. “Courier controls show no fault.” On the glass, Mursa's green bracket closed around the tumbling mast.
 
-Loxan pressed her tongue to the rear molar that acknowledged audio. A green bracket closed around the tumbling mast.
+Loxan pressed her tongue to the rear molar that acknowledged audio. “I know.”
 
-“I mean the bank,” Mursa added. “Courier controls show no fault.”
-
-“I know.”
-
-Mursa's carrier thinned as debris passed between them. Her voice lost its lower register first, leaving the consonants sharp inside Loxan's jaw. “Then I can stop checking the courier and return to checking the retrieval craft. Seven hours at their current burn. Less if they know where the annex is.”
+Mursa's carrier thinned as debris passed between them. Her voice lost its lower register first, leaving the consonants sharp inside Loxan's jaw. “Then I'm back on the retrieval craft. Seven hours at their current burn. Less if they know where the annex is.”
 
 The emergency shell's support meter showed nine hours and twelve minutes. It had shown ten when Loxan launched. Nobody had promised it would count honestly.
 
@@ -58,9 +54,9 @@ Her right shoulder pulled back before the second pulse. She drove the courier do
 
 She had. The turn had arrived as a flinch along a limb she no longer possessed, a long rigid span hinging from somewhere behind her ribs. Port control surface, she would have called it yesterday. Now her small shoulder throbbed where the impulse had ended.
 
-“Inherited calibration,” Mursa said. “That's why we're here.”
+“Inherited calibration,” Mursa said. “Next light, I'm timing you.”
 
-The lights led them deeper.
+The lights led them deeper. Mursa timed the next four and did not read the numbers out.
 
 Harrowstar Annex did not have a hangar. It had a slit in the foundry wall just wide enough for the courier, followed by a docking throat that tightened around the hull like a measuring ring. When Loxan laid her hand on the neural plate, faded words appeared across the forward glass.
 
@@ -74,9 +70,7 @@ Loxan unstrapped. Standing remained a sequence she had to perform consciously: f
 
 “Seal reads clean,” Mursa said. “Your pack?”
 
-Loxan showed the status icon to the link.
-
-“Eight fifty-six. It is counting worse.”
+Loxan showed the status icon to the link and read it out anyway. “Eight fifty-six. It's counting worse.”
 
 “Noted.”
 
@@ -98,11 +92,7 @@ She corrected against it. Her heel left the deck.
 
 Lines assembled in Loxan's sight: a central chamber, paired structures extending laterally, a round sensor housing above. The archive colored the left extension yellow. It looked enough like a craft if she held still.
 
-She blinked.
-
-For that fraction of darkness, the diagram's horizon disappeared too.
-
-Loxan blinked again. The recorded field pinched downward beneath a fringe of black curves.
+Her eyes were open when the recorded field pinched downward beneath a fringe of black curves. For a fraction of a second the diagram's horizon went dark, then cleared. Loxan had not blinked.
 
 “Airframes don't interrupt telemetry to wet their sensors,” she said.
 
@@ -148,13 +138,11 @@ She knew the sequence before the plot finished. She had used it to bring Unit 02
 
 “Three matches,” Mursa said. “Visual, audio, control.”
 
-“Body.”
+“I flew that,” Loxan said. “Salt planet. I felt the left side lagging before the gauges showed it.”
 
-“Not body. Not yet.”
+“Could be the reference set again,” Mursa said, quicker now. “Somebody's spin recovery gets recorded, an airframe is built to reproduce it, and whoever flies that airframe feels the same lag. You'd have learned it from Unit 02.”
 
-Loxan pushed away from the frame. Her left shoulder caught, a small hot refusal. The plot's yellow line stopped at the same angle.
-
-“Four,” she said.
+Loxan pushed away from the frame. Her left shoulder caught, a small hot refusal. The plot's orange line stopped at the same angle.
 
 The room changed around them.
 
@@ -178,9 +166,9 @@ The archive tipped the white horizon through her shell's neural receiver. It wan
 
 She shut her eyes. The shaft pressed along her back and elbows; those were facts. Air brushed her injured hand; that was direction. She crawled toward it while the false horizon revolved.
 
-At the first junction, a blue glyph from Mursa pointed right. Harrowstar drew horizontal reference bars across both branches; the bar on the left sat just above Mursa's arrow. Loxan stopped.
+At the first junction the shaft split. A blue glyph from Mursa pointed right, stamped LEVEL. Harrowstar drew horizontal reference bars across both branches; against them the right branch ran flat and the left one climbed. Loxan stopped.
 
-The old muscle plot returned in her mind: right hip compensating, head tipped. Unit 01's recorded horizon had run six degrees left. Mursa had mapped the instruction for a level maintenance route onto the archive's uncorrected frame.
+The old muscle plot returned in her mind: right hip compensating, head tipped. Unit 01's recorded horizon had run six degrees left, and the archive was still drawing its bars from that frame. Mursa had asked it for the level route. Loxan reached into the right branch and felt the floor rise under her palm.
 
 Loxan went left.
 
@@ -226,7 +214,7 @@ RETENTION PURPOSE: CALIBRATION / CHALLENGE RESPONSE.
 
 By then the name did not surprise her. She read the purpose twice.
 
-Mursa's carrier clicked in and out. “I have the production table. One and two aren't vehicle numbers. They're embodiment sequence.”
+Mursa's carrier clicked in and out. “I have the production table.” A pencil scored through something on her end. “I had Unit 01 filed under hardware.”
 
 Loxan laid her palm on the cover. The archive accepted the contact and began a challenge.
 
@@ -242,11 +230,11 @@ The challenge stopped.
 
 “Response quality?”
 
-Loxan watched the fingers loosen. “She moved.”
+Loxan watched the fingers loosen. She did not answer.
 
 “Voluntary?”
 
-“No data.”
+“Her right eye went first. Same side as mine. Then her fingers when the floor tipped, six degrees late, the way mine—” Her own hand had closed. She opened it. “I don't know if she meant it.”
 
 The answer sat between bursts of carrier noise. Mursa did not offer a theory.
 
@@ -256,33 +244,29 @@ Nothing in the table said what had awakened in Unit 02. Nothing recorded whether
 
 “Seed located,” Mursa said. “It's coupled to the challenge-response table. Forty seconds to copy.”
 
-Loxan looked at the woman under the cover. “The seed is her body.”
-
-“It's a biometric response set.”
-
-“Taken how?”
+Loxan looked at the woman under the cover. “Taken how?”
 
 Mursa pulled a page across her desk hard enough for the microphone to catch it. “Run one challenge and I can trace—”
 
 The woman's hand twitched again. No tone this time. Perhaps the muscles were settling. Perhaps not.
 
-Mursa stopped. “Don't run it.”
+“Wait.” Loxan's own hands were at her sides, nowhere near the cover. “Her hand just moved. There wasn't any tone.”
+
+The link went quiet except for its hiss. Then Mursa said, “Don't run it.”
 
 An impact trembled through the annex. Fine rust lifted from the door rim.
 
 “Retrieval probe,” Mursa said. “They launched it ahead of the craft. That cuts three hours. We have nineteen minutes before a boarding path, less if Harrowstar helps them.”
 
-Three options lit on the cradle controls. Full archive extraction required twenty-seven minutes. Seed copy required forty seconds and another challenge. Emergency cradle release required one minute, fifty.
-
-The record index—the locations of other calibration vaults, without their keys—needed thirty-eight seconds.
+Four options lit on the cradle controls. Full archive extraction required twenty-seven minutes. Seed copy required forty seconds and another challenge. Emergency cradle release required one minute, fifty. The record index—the locations of other calibration vaults, without their keys—needed thirty-eight seconds.
 
 Loxan selected index.
 
 “Confirm,” Mursa said.
 
-“No full table. No seed.”
+Loxan touched the molar.
 
-“We leave with addresses and no key.”
+Paper tore on Mursa's end, one long pull. “Addresses, no key,” she said. “The next pilot waits.”
 
 Loxan braced both hands on the manual release. “Two minutes.”
 
@@ -300,9 +284,7 @@ PULL.
 
 Loxan hauled the manual release. Nothing happened. She changed her grip, leaned from the right hip, and felt the left shoulder stop where the archive's orange muscle line had stopped. The lever wanted the range that first body had never possessed.
 
-So the maintenance crews had built a second grip lower down.
-
-Loxan found it beneath the housing, planted her heel, and pulled. The cradle seals opened with a long wet sigh. Fluid drained into the base. A transfer shroud folded around the woman, keeping the lines at her throat and ribs connected to a compact pump.
+Beneath the housing, the paint had worn through to bare metal around a second, lower grip. Loxan took it, planted her heel, and pulled. The cradle seals opened with a long wet sigh. Fluid drained into the base. A transfer shroud folded around the woman, keeping the lines at her throat and ribs connected to a compact pump.
 
 The shell's support timer dropped below seven hours.
 

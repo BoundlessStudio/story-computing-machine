@@ -22,15 +22,15 @@ The latecomer did not pause to apologize. He walked down the center aisle in a w
 
 In his right hand he carried a wooden cane topped by a lion covered in bright gold leaf.
 
-The master stopped with his finger on the roll. One gentleman laughed, alone and high. Elsewhere a chair leg struck the floor. The silence that followed was not astonishment exactly. Astonishment had more room in it. This was the sound of two hundred men discovering that they had all remembered the same forbidden thing.
+The master stopped with his finger on the roll. One gentleman laughed, alone and high. Elsewhere a chair leg struck the floor. The silence that followed had less room in it than astonishment. It was the sound of two hundred men discovering that they had all remembered the same forbidden thing.
 
 The stranger reached the empty space before the lectern.
 
 "House Lion," he said.
 
-He gave *Lion* its old household shape, lingering on the first part and almost losing the second.
+He gave *Lion* the old household shape, a sound Aldous had not heard in decades, and pushed it too far: he leaned on the first part until the second nearly vanished.
 
-"You have swallowed the end of it," Aldous said under his breath.
+"You have swallowed the end of it," Aldous said, louder than he had meant to.
 
 The stranger turned at once.
 
@@ -38,7 +38,7 @@ So did the master of the roll.
 
 "There is no House Lion," the master said. His courtesy was flawless again. "You have been misdirected, sir."
 
-"Not by the porter. He saw the cane and couldn't decide whether one bars a gentleman before or after asking his House."
+"Not by the porter. He saw the cane and couldn't decide whether to bar me before asking my House or after."
 
 That produced three scattered laughs and an angry demand from the boar table. The stranger glanced neither way. Up close, the gold had plainly been rubbed darker around the lion's nostrils in an attempt at age. A theatrical object. A dangerous one.
 
@@ -56,9 +56,7 @@ The master descended from the lectern. "You will accompany me."
 
 Aldous kept his face still. "I cannot imagine why."
 
-"Your face has already assisted."
-
-The master offered the side door with an open palm. The stranger went first. As Aldous followed, he heard the master order the clerk to proceed with House Otter. The clerk tried. Not one response came at the proper place.
+The master did not explain. He offered the side door with an open palm. The stranger went first. As Aldous followed, he heard the master order the clerk to proceed with House Otter. The clerk tried. Not one response came at the proper place.
 
 The side room was intended for disagreements too expensive to be heard. Its green baize door shut tightly; its decanters were full; its chairs were narrow enough to discourage settlement. Aldous remained standing. The stranger did likewise, though the master pointedly took the chair nearest the bellpull.
 
@@ -76,7 +74,7 @@ The carving was competent but overworked. Little crescents from a new gouge rema
 
 The stranger's brows moved behind the blue glass. "That's uncomfortably close."
 
-"Ten, perhaps. The distressing of the nose cost you credibility."
+"The distressing of the nose cost you credibility."
 
 "I told the carver it would."
 
@@ -84,7 +82,7 @@ Aldous turned the lion toward the lamp. Its left ear was too long, with a small 
 
 "And this ear?"
 
-Rafe's gloved hand closed more firmly around the shaft. "He copied the drawing."
+The stranger's gloved hand closed more firmly around the shaft. "He copied the drawing."
 
 "Then he copied an error."
 
@@ -96,9 +94,9 @@ The master extended his hand. "Then you concede it is counterfeit."
 
 "You entered the gathering under a dead device."
 
-"A carving is not a birth record," the stranger said. "Your porter proved that for me."
+"A carving isn't a birth record," the stranger said.
 
-Aldous disliked the pleasure the man took in this. It was not the pleasure of a claimant nearing victory. It was the exhausted satisfaction of someone whose badly explained plan had, against expectation, completed its first step.
+Aldous disliked the pleasure the man took in this. It was a tired pleasure, the look of someone whose plan, whatever it was, had gone one step further than he had expected.
 
 "Your name," Aldous said.
 
@@ -128,7 +126,7 @@ The master rose. "I will give you five minutes to reconsider surrendering the ca
 
 The door closed behind him.
 
-For a while Rafe and Aldous listened to the muffled call of animals through the wall. Aldous could distinguish the responses without hearing the names. Foxes answered separately. Hounds struck their cane tips once upon the floor. Herons waited half a beat, an affectation old enough to pass for tradition.
+For a while Rafe and Aldous listened to the muffled call of animals through the wall. Aldous had long ago learned the Houses by their responses rather than their names. Foxes always answered separately. Hounds struck their cane tips once upon the floor. Herons, when their turn came, waited half a beat, an affectation old enough to pass for tradition.
 
 Rafe removed his hat and spectacles. His hair sprang outward where the brim had held it. "My grandmother says the second part was hardly sounded."
 
@@ -136,7 +134,7 @@ Rafe removed his hat and spectacles. His hair sprang outward where the brim had 
 
 "There. She said her brother would do that. Correct first, wonder later."
 
-The word *brother* entered the room and made everything in it badly placed. Aldous set both hands on his heron. The old carving fitted them. He had been ill for most of his first winter with the Herons, and the gentleman who became his father had slept in a chair beside him, night after night, waking at every cough. Gratitude was not a fraudulent history. Love did not become false merely because another love had been cut away before it.
+The word *brother* entered the room and made everything in it badly placed. Aldous set both hands on his heron. The old carving fitted them. He had been ill for most of his first winter with the Herons, and the gentleman who became his father had slept in a chair beside him, night after night, waking at every cough.
 
 "How old is your grandmother?"
 
@@ -144,9 +142,7 @@ The word *brother* entered the room and made everything in it badly placed. Aldo
 
 "A sensible precaution for a weak invention."
 
-"She also said you'd insult the invention instead of answering it. I thought she meant the cane."
-
-Rafe reached inside his coat. Aldous's grip tightened, absurdly, on a bird made of ash wood. What emerged was a folded sheet, handled so often its corners had gone soft.
+Rafe let that pass and reached inside his coat. Aldous's grip tightened, absurdly, on a bird made of ash wood. What emerged was a folded sheet, handled so often its corners had gone soft. Rafe sat down on the nearest of the narrow chairs without being asked, and after a moment Aldous took the one opposite.
 
 "She remembers a younger brother," Rafe said. The rehearsal had left his voice. He spoke faster now and looked down too much. "He was taken out through the scullery because the front steps were full. He had one glove. He'd hidden the other one somewhere and wouldn't say. He used to sit under the dining table when guests came, but only at the end nearest the windows, because—"
 
@@ -154,17 +150,9 @@ Rafe reached inside his coat. Aldous's grip tightened, absurdly, on a bird made 
 
 Rafe stopped.
 
-"The windows faced the garden. The end nearest them was where our father sat. No child could have hidden there without losing skin from his knees."
+"The windows were at the street end, behind the head of the table. No child hid down there among the boots."
 
-"She said the garden end."
-
-"Then you said it wrongly."
-
-"I said I'm poor at this."
-
-"You did not."
-
-"I am saying it now."
+Rafe ran a gloved finger down the page, lost his place, and found it again. "Garden end. It says garden end. I had it right on the way here."
 
 Aldous looked away. On the sideboard, three clean glasses stood beneath an engraving of Menagerie Hall. He had attended forty-six gatherings beneath this roof. There had once been a gap in the roll after House Lark and before House Mole. The clerk no longer paused there.
 
@@ -196,11 +184,11 @@ Aldous recovered himself. "If a surviving relation can be traced, I can arrange 
 
 "For silence," Aldous said, because he was suddenly too tired to disguise the answer as protection.
 
-Rafe folded the sheet along the wrong crease. "At least that's shorter."
+Rafe folded the sheet along the wrong crease.
 
 From the hall came a burst of applause, excessive and brief. Aldous pictured the clerk pretending that the evening had recovered.
 
-"If the Houses learn where she is," Aldous said, "they will examine her. They will send lawyers, antiquarians, physicians. They will measure every scar against a docket. If she fails to remember one date correctly, they will call all the rest an appetite. I am trying to prevent that."
+"If the Houses learn where she is," Aldous said, "they will examine her. They will send lawyers, antiquarians, physicians. They will measure every scar against a docket. If she fails to remember one date correctly, they will say she invented all the rest for money, or for a title that no longer exists. I am trying to prevent that."
 
 "So am I. That's why you don't get her name yet."
 
@@ -220,19 +208,15 @@ Rafe opened the paper again. "Which of the children broke the blue washbasin?"
 
 Rafe stared. Then he looked at the paper. "She isn't built like a cupboard now."
 
-The sentence struck more cleanly than any proof. Aldous saw a girl with one thick plait lifting him bodily away from a pantry shelf. He saw the washstand list beneath her bare foot, the white basin descending with majestic slowness, and the violet seam of soap along the broken china. He had not remembered her face. The strength in her arms came back entire.
+Aldous saw a girl with one thick plait lifting him bodily away from a pantry shelf. He saw the washstand list beneath her bare foot, the white basin descending with majestic slowness, and the violet seam of soap along the broken china. He had not remembered her face. The strength in her arms came back entire.
 
 Rafe was watching him, but suspicion had not left his mouth. "That story might have traveled."
 
 "To whom?"
 
-"I don't know. That's the difficulty. When an elderly gentleman answers everything too neatly, one ought to ask what he wants."
+"I don't know. That's the trouble." He tapped the sheet. "You've got an answer for every bit of it. You don't even stop to think."
 
-"I have answered nothing neatly. There was no blue basin, the soap was not blue, and I did not push her."
-
-"That is almost word for word what she said you'd say."
-
-"Then she has spent seventy years improving a lie."
+"I am contradicting every bit of it. There was no blue basin, the soap was not blue, and I did not push her."
 
 Rafe made an annoyed sound and tipped the golden lion toward him. "Then tell me why the ear is wrong."
 
@@ -246,9 +230,7 @@ The old dining table had possessed a thick cross brace beneath the garden end. H
 
 "The tail should stop before the paw," Aldous said.
 
-Rafe rotated the cane. Beneath the gilt mane and theatrical shine, the carved tail stopped at precisely that place.
-
-"She wasn't certain about the almonds," Rafe said. "She thought they might have been plum stones."
+Rafe rotated the cane. Beneath the gilt mane and theatrical shine, the carved tail stopped at precisely that place. Then he went back to the sheet, to the washbasin lines, and read them as though they might have changed. "She wasn't sure about the almonds. On the stand. She thought they might have been plum stones."
 
 "Plum stones were hidden in the blue vase."
 
@@ -260,11 +242,7 @@ The master returned before Aldous found a sentence he could bear to use. He clos
 
 "What happened to the children?" Rafe asked.
 
-"The abstract concerns the House."
-
-"Children are generally found in houses."
-
-The master did not reward this. His gaze remained on Aldous.
+"The abstract concerns the House." The master's gaze remained on Aldous.
 
 Aldous knew the rest of the language. It had been used around him until it became the clean interior wall of his life. Male minors had been placed under the sponsorship of sound Houses. Their names had been regularized. Women and girls, having no standing in the roll, had been dispersed among relations, institutions, and approved households. Later clerks recorded no Lion gentlemen. Therefore House Lion was extinct.
 
@@ -274,7 +252,7 @@ Therefore a sister could live while every document declared her family dead.
 
 The master inclined his head, relieved.
 
-"So that isn't evidence of fraud."
+"So that is not evidence of fraud."
 
 The relief vanished.
 
@@ -320,7 +298,7 @@ Rafe's mouth tightened under the moustache. "She will dislike that answer."
 
 "So do I."
 
-The master gave the hall door a brief glance. Formula had served him all evening, but formula required the participants to remain in their assigned categories. "If you leave now, Mr. Torven, you will be absent when House Heron is called for the vote."
+Aldous rose and turned toward the hall door. The master's eyes went with him. Formula had served the master all evening, but formula required the participants to remain in their assigned categories. "If you leave now, Mr. Torven, you will be absent when House Heron is called for the vote."
 
 "Count me absent."
 
@@ -350,9 +328,7 @@ Aldous turned to Rafe. He could not authenticate the lion. He could not summon a
 
 "Mine first," Rafe said.
 
-"Yes. Evidently."
-
-Aldous opened the baize door.
+Aldous did not argue. He opened the baize door.
 
 Rafe gathered the folded sheet and his spectacles, put on his hat, and followed.
 
@@ -370,13 +346,7 @@ The master stepped beside him. "The roll has no provision for such a declaration
 
 "Then it need not provide for it. I have said it. Proceed."
 
-Rafe had moved nearer during the uproar. "She allowed you three sentences."
-
-"The first was very short."
-
-"I'll explain that you counted it by weight."
-
-Aldous looked at the long-eared lion. "Tell her the egg was soft."
+Rafe had moved nearer during the uproar. Aldous looked at the long-eared lion. "Tell her the egg was soft."
 
 Rafe lost his quick answer. "What egg?"
 
@@ -390,12 +360,10 @@ Rafe searched the unfolded sheet. His moustache shifted. "She says it was hard-b
 
 Rafe laughed, short and startled. He put on his blue spectacles. "I'll tell her you answered the roll and complained about breakfast."
 
-"In that order."
-
-Rafe tucked the paper inside his coat and crossed the hall alone. The gentlemen in his path withdrew just far enough to let the golden lion pass. No one asked him to surrender it again.
+He tucked the paper inside his coat and crossed the hall alone. The gentlemen in his path withdrew just far enough to let the golden lion pass. No one asked him to surrender it again.
 
 Aldous went to the Heron table. The gentleman on his right moved the decanter out of reach. The gentleman on his left stared fixedly at his own cuffs. Aldous set his hat beneath his chair and rested both hands on the smooth neck of his heron.
 
-The master returned to the lectern. "House Heron."
+The master returned to the lectern and called the vote. "House Heron."
 
-After its customary half beat, the Heron canes rose. Aldous's old cane rose with them. The clerk counted it there and proceeded to House Ibex.
+After its customary half beat, the Heron canes rose. Aldous's old cane rose with them. The clerk counted it there and proceeded to House Hound.

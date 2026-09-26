@@ -50,7 +50,7 @@ He leaned close enough to shade the card. "Oh, lovely. Is it yours? Can I scan i
 
 She knew those trees from a seed catalogue. They made a dry rattling fruit and needed more room than her roof could offer. She had wanted one for three summers. In the photograph there was space for the branches to spread, space to walk beneath them without turning sideways past a chair.
 
-"Humans went there?"
+"A human took this in the terraces?"
 
 "Humans were everywhere. Before the ships."
 
@@ -82,7 +82,7 @@ She did. By sunset they had exchanged the names of six gardens and one lodging h
 
 She reached the terraces the following noon. Their gardeners grew pears flat against warm walls and let nasturtiums trail from the balconies of houses painted pink. Metal leaves along the balcony rails angled little solar cells toward the sun. Even the ugly buildings had something flowering on them.
 
-Zinnet found the white trees beside a long greenhouse. She took out the postcard and walked backward and forward, trying to make the tree trunks align with the window ribs.
+Zinnet found three white trees beside a long greenhouse. She took out the postcard and walked backward and forward, trying to make the tree trunks align with the window ribs.
 
 An android carrying a basket of pear cuttings stopped to watch.
 
@@ -98,7 +98,7 @@ Zinnet showed her. The gardener held the card by its corners, then tipped it to 
 
 "We have that tree," she said. "Most cities do. The old nurseries sold it by the thousand."
 
-The three trees, which a moment earlier had seemed so distinct, now looked distressingly repeatable. Zinnet studied the card's branches through her lens. In Ovolo's picture she'd found a white tree and a bit of pale roof. That was all she had compared.
+The three trees, which a moment earlier had seemed so unmistakable, now looked distressingly repeatable. Zinnet studied the card's branches through her lens. In Ovolo's picture she'd found a white tree and a bit of pale roof. That was all she had compared.
 
 "I came because of the blossoms."
 
@@ -154,13 +154,13 @@ She attached a photograph of the red flesh of a stored fruit, cut open for her a
 
 ***
 
-The departure ground's old embarkation hall had a roof shaped like an open fan. Solar flowers filled the apron where passengers had once queued. Beyond them, between low hills, stood an enormous empty assembly cradle, its steel hoops full of swallows.
+The departure ground's old embarkation hall had a roof shaped like an open fan. Solar flowers filled the apron where passengers had once queued. Beyond them, between low hills, stood an enormous empty assembly cradle, its steel hoops full of swallows. On the nearer hill a radio dish tilted slowly among grasses.
 
 Zinnet arrived on the fifth afternoon with dust in her gold ankle joints. A fern sale occupied the entrance. She bought nothing, because of the pear, and went directly to the roses.
 
 The spare window was taller than her house. From a distance its ribs had seemed delicate. Close up, they were thick enough to contain a passageway. She put her hand on the glass, then withdrew it when she saw the mark she had left.
 
-Beside it hung a new print of the garden. The tree's white flowers were clear, the sleeve green. The untrimmed image showed a row of overhead lamps that the postcard printer had cropped away.
+Beside it hung a new print of the garden. The tree's white flowers were clear, the sleeve at the edge a dusty blue. The untrimmed image showed a row of overhead lamps that the postcard printer had cropped away.
 
 *Farleaf, forward garden, before departure. Photograph by passenger Agata.*
 
@@ -182,7 +182,7 @@ She showed the tin, the postcard, the message.
 
 "It might have been."
 
-She put the card beside the portrait on her display. The handwriting gave her no reason to choose Agata over any other person. She kept the two images together anyway.
+She held up the card and brought the portrait up beside it in her vision. The handwriting gave her no reason to choose Agata over any other person. She kept the two images together anyway.
 
 "Where did the ship go?"
 
@@ -210,7 +210,7 @@ A woman stepped into view carrying a shallow tray of seedlings. Grey hair, a lin
 
 The grin narrowed her eyes.
 
-Zinnet paused the recording. Below the picture the passenger index identified Agata. She brought up the old portrait beside it, then the packet's dated crew list. Both belonged to Farleaf's voyage record; the arrival packet carried the ship's identifier and its new position. Agata had survived the crossing. The woman had the same broad nose, the same uneven division of hair above her eyebrow, and now a face full of creases that moved when she smiled.
+Zinnet paused the recording. Below the picture the passenger index identified Agata. She brought up the old portrait beside it. Agata had survived the crossing. The woman had the same broad nose, the same uneven division of hair above her eyebrow, and now a face full of creases that moved when she smiled.
 
 Zinnet let her move.
 
@@ -250,7 +250,7 @@ He watched in silence until the tray of seedlings appeared.
 
 "I know."
 
-Agata took them out to the ridge. Ovolo didn't speak again until the file ended.
+Agata carried the camera out to the ridge. Ovolo didn't speak again until the file ended.
 
 "She went all that way."
 
@@ -280,7 +280,7 @@ Zinnet saved it all.
 
 ***
 
-In the morning she went to the ground's communications garden. Among beds of tall grasses, a working radio dish listened to the sky; contemporary astronomers shared its schedule with visitors using the old departure addresses. The booking screen offered her a short outgoing slot that night.
+In the morning she climbed the nearer hill to the ground's communications garden. Among beds of tall grasses, the dish listened to the sky; contemporary astronomers shared its schedule with visitors using the old departure addresses. The booking screen offered her a short outgoing slot that night.
 
 She selected Farleaf's destination. A line of small text placed delivery eleven years ahead. Even an immediate answer could not return until twenty-two years had passed.
 

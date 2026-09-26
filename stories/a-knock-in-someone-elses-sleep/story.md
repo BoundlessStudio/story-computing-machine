@@ -78,7 +78,7 @@ At twelve, she began losing whole rooms between one visit and the next. At thirt
 
 For a long time afterward her sleeping mind was still near. The Entity approached as faintly as it knew how, and felt her strain against even that. It left her alone. Other children had changed in the same way; being Garnet had not protected her.
 
-Eventually she moved beyond its reach. A child who lived in her old room dreamed of helping carry out the last boxes. The Entity kept her house. It kept the cupboard with the tide in it, and the egg with the handle, and a room whose floor she had not yet managed to escape.
+Eventually she moved beyond its reach. A child from next door dreamed of helping carry out the last of her boxes. The Entity kept her house. It kept the cupboard with the tide in it, and the egg with the handle, and a room whose floor she had not yet managed to escape.
 
 Cleo came back through the window and touched one of the wallpaper flowers.
 
@@ -106,11 +106,11 @@ Cleo said she would tell her about the house when she got home. She was taking t
 
 “I know a way. If she's asleep.”
 
-It had discovered the way years after Garnet moved away, through a boy who wanted his absent brother to see a thing they had made. A child in contact with the Entity could find the sleep of someone they knew. They could take no piece of its mind safely; whatever they carried had to be remade from their own thoughts.
+It had discovered the way years after Garnet moved away, through a boy who wanted his absent brother to see a thing he and the Entity had made. A child in contact with the Entity could find the sleep of someone they knew. They could take no piece of its mind safely; whatever they carried had to be remade from their own thoughts.
 
 The boy's brother had returned a rude drawing. The Entity still remembered the boy's laughter as he reproduced it.
 
-It had asked many children since then. Did they know Garnet? A girl of thirteen, with a gap where a tooth had never come? It had given them a description of someone who no longer existed in that form.
+It had asked many children since then. Did they know Garnet? A girl of thirteen, with a gap where a tooth had never come?
 
 “How do I go?” Cleo asked.
 
@@ -142,7 +142,7 @@ The Entity opened the cupboard. A little tide ran across the floorboards and ret
 
 Cleo crouched beside it. “Can we go in?”
 
-“Tell her it's the sea. She made it salt. Ask why she never came back.”
+“Tell her it's the sea. She made it salt. Ask if she ever tried to come back.”
 
 Cleo looked from the water to the door. “Then can we go in?”
 
@@ -156,13 +156,13 @@ Cleo returned without the other slipper.
 
 The Entity began to show her.
 
-It gave her Garnet's mind narrowing beyond its reach; the nights of approaching, drawing away, approaching again; the houses held ready afterward. They crowded around Cleo, small at first, then packed so closely that the whale became all roofs and chimneys. The same unentered room appeared in every window. Beneath it lay the waiting, as much a part of the Entity as the body inside the stone.
+It gave her Garnet's mind narrowing beyond its reach; the nights of approaching, drawing away, approaching again; the houses held ready afterward. They crowded around Cleo, small at first, then packed so closely that the whale became all roofs and chimneys. The same unfinished room appeared in every window. Beneath it lay the waiting, as much a part of the Entity as the body inside the stone.
 
 Cleo stood. The sea ran off her feet.
 
 “I can't tell her all that.”
 
-There were more houses. The Entity had not understood until now how many nights she thought it had turned her away.
+There were more houses. The Entity had not understood until now how many nights Garnet thought it had turned her away.
 
 “Stop. I don't know what you want me to say.”
 
@@ -234,7 +234,7 @@ Cleo laid her hand on the bell but did not ring it.
 
 “She didn't say anything for a bit. Then she asked if I was all right. I said I was. Then she started making the bus.” Cleo pressed the bell once. “She told me about the egg, too. You made a handle so she could drink it.”
 
-“Lift it. I thought it would be hot.”
+“The handle was for lifting. I thought it would be hot.”
 
 “Well, she drank it.”
 
@@ -260,7 +260,7 @@ Cleo laughed as the whole room rolled down the whale's tongue and out between it
 
 Cleo ran to the landing. The Entity waited in the driver's seat, holding the room still. Through the windscreen it could see only plaster, close enough to touch. Yet it found itself arranging the weight in the cushion, trying a little to one side and then the other, as though Garnet might notice how it sat.
 
-When Cleo returned, she was leading the whale. She folded one wall of the garage down, then climbed onto its head. It pressed its enormous face against the bus window, which softened and let the face through.
+When Cleo returned, she was leading the whale. She folded one wall of the garage down, then climbed onto the whale's head. It pressed its enormous face against the bus window, which softened and let the face through. Cleo slid down and folded the wall up again, snug against the whale's cheeks.
 
 “She says you can take the garage, but you have to take the passengers.”
 
@@ -268,7 +268,7 @@ When Cleo returned, she was leading the whale. She folded one wall of the garage
 
 “Mine. She said I could.”
 
-The whale was wedged from cheek to cheek in the bus. There was no space to enlarge the seat without enlarging the garage as well. The Entity began to measure what would fit, then heard Cleo say that Garnet was waiting for its next move.
+The whale was wedged from cheek to cheek in the bus. There was no space to enlarge the passenger seats without enlarging the garage as well. The Entity began to measure what would fit, then heard Cleo say that Garnet was waiting for its next move.
 
 It changed the passenger seats into a sea.
 

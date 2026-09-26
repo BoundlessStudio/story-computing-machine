@@ -8,11 +8,11 @@ canon: false
 
 # Thirteen Years Borrowed
 
-At midnight, Calo made me repeat the terms while the woman carrying me held his wrist.
+In the last minutes before midnight, Calo went over the terms at the gate while the woman carrying me held his wrist.
 
-“Front step to front step,” he said. “I walk up as myself. You can use my voice after I say we’re inside. My hands stay mine unless I lend them.”
+“From here to her front step,” he said, “I walk up as myself. You can use my voice after I say we’re inside. My hands stay mine unless I lend them.”
 
-The woman’s thumb trembled against the pulse in his wrist. She had carried me all the day just ended and had slept perhaps an hour. Her mouth tasted of burned coffee. In the thirteen years of my search, I had learned that gratitude was easier to feel than to inhabit. Bodies complicated it. A blister, a sour stomach, a child waiting at home—every kindness arrived with its own weather.
+The woman’s thumb trembled against the pulse in his wrist. She had carried me through the whole of the day now ending and had slept perhaps an hour. Her mouth tasted of burned coffee. In the thirteen years of my search, I had learned that gratitude was easier to feel than to inhabit. Bodies complicated it. A blister, a sour stomach, a child waiting at home—every kindness arrived with its own weather.
 
 “No touching Nivra through me,” Calo said.
 
@@ -30,9 +30,9 @@ Calo looked at the woman. “You ready?”
 
 She nodded.
 
-He turned his palm upward. I felt his acceptance before skin met skin: not warmth or welcome, but a space deliberately unlatched. I crossed.
+Midnight came. He turned his palm upward, and I felt his acceptance, a space deliberately unlatched. I crossed.
 
-For one blank instant there was no body at all. Then Calo arrived around me—his cramped left calf, the grind in his right knee, the dawn chill under his cuffs, hunger turning the back of his tongue metallic. His heart struck once hard enough to jar my count.
+For one blank instant there was no body at all. Then Calo arrived around me—his cramped left calf, the grind in his right knee, the night damp under his cuffs, hunger turning the back of his tongue metallic. His heart struck once hard enough to jar my count.
 
 The woman let go. She sagged against the gate, herself again.
 
@@ -58,7 +58,7 @@ I had been. One crown at the back, a nick in the left incisor, pressure under th
 
 The woman laughed once, too tired to make more of it, and went home.
 
-Calo slept on a station bench until the first tram began running. He kept the joints; in sleep, his permission narrowed by habit, and I counted the lamps reflected in the dark glass. By the time the shutters began to rise, Nivra lived forty-three minutes away if Calo took the direct tram and did not stop.
+Calo slept on a station bench until the first tram began running. He kept the joints; in sleep, his permission narrowed by habit, and I counted the lamps reflected in the dark glass. When he woke, the shop shutters across the street were beginning to rise. Nivra was forty-three minutes away on the direct tram, if Calo did not stop.
 
 We stopped after six.
 
@@ -66,25 +66,27 @@ He turned us into a bakery as its shutters came up. I pushed toward the street. 
 
 *We agreed,* I said.
 
-*We agreed I’d get you there. We did not agree I’d faint on her rug.*
+*We agreed I’d get you there. We didn’t agree I’d faint on her rug.*
 
-“The next tram—”
+*The next tram—*
 
 “There’s always another tram.” He ordered two egg rolls and something black and hot. “You want sugar?”
 
-“I don’t eat.”
+*I don’t eat.*
 
 “You’re eating today.”
 
 He was right. That was one of the humiliations of borrowing: I did not inherit skill or memory, but I inherited blood sugar. He bit into the roll before it had cooled, burned the roof of his mouth, and swore around the food.
 
-“You always do that?” I asked.
+*You always do that?* I asked.
 
 “Only when somebody is trying to march my legs out the door.”
 
-“I didn’t march.”
+The boy behind the counter looked up, found nobody beside Calo, and went back to his trays.
 
-He chewed. The answer was the chewing.
+*I didn’t march.*
+
+He chewed.
 
 I counted the minutes on the wall clock. Thirty-seven until the next tram. Sixteen hours and nine minutes until midnight. Thirteen years since I had awakened behind a stranger’s eyes with no idea where my own had gone.
 
@@ -95,8 +97,6 @@ Calo finished both rolls. He gave me the last swallow of coffee as if lending a 
 “So did I.”
 
 He wiped his mouth. “That wasn’t a test.”
-
-Everything was a test. I simply no longer said so.
 
 On Nivra’s street, Calo slowed. His knee had warmed into a thick, needling ache. The houses were narrow and practical, their front steps scrubbed clean, their windows open to the mild air. Nothing in the street had the decency to look like the end of thirteen years.
 
@@ -154,7 +154,7 @@ My old body had despised fennel. The smell used to cling to the back of my throa
 
 Nivra tore off a corner and ate it with pleasure.
 
-“Can I speak?” I asked inside.
+*Can I speak?* I asked.
 
 Calo opened his voice.
 
@@ -166,11 +166,11 @@ Nivra put down the bread. “No.”
 
 “You know.”
 
-“The knuckle could be in the letters. The hand—Calo could have described that. If I see the scar—”
+“The lagging fingers are in every letter I sent out. Anyone who read one could learn to let two of them drag. If I see the scar—”
 
 “You sent a drawing of it to half the coast.”
 
-“Then tell me what I broke it on.”
+“Then tell me what cut it.”
 
 She looked at Calo, not me. “Is she using your hands?”
 
@@ -220,7 +220,7 @@ I heard my own breath quicken through Calo. “Did you know the song about the f
 
 “I signed the name Nivra after eleven months. I chose the green coat six years ago. I started helping at the kiln in the ninth spring. I stopped sleeping with a lamp on three winters ago. Dates enough?”
 
-They were dates. They had edges I could copy into a ledger. They did not tell me where she began and I ended, or whether that question described anything real.
+They were dates. They had edges I could copy into a ledger. They did not tell me where she began and I ended.
 
 “The scar,” I said again.
 
@@ -232,11 +232,7 @@ Calo closed our mouth.
 
 *Doing what?*
 
-*Making her prove she’s your missing parcel.*
-
-*You brought me here because you believed she was.*
-
-*I brought you because I promised both of you one meeting.* His fingers tightened around the bread. *I did not promise the meeting would go your way.*
+*Making her prove she’s your missing parcel.* His fingers tightened around the bread. *She got a third cup down for you. Before you’d said a word.*
 
 At the sink, Nivra washed a perfectly clean spoon. Her left shoulder rose before the right, a habit I had never had. She dried the spoon, returned it to the drawer, then shifted the three bowls until their rims aligned.
 
@@ -252,9 +248,9 @@ Calo pushed back from the table.
 
 He collected the relay case.
 
-“Leave that,” I said before he shut the voice.
+*Leave that,* I said.
 
-“No.”
+*No.*
 
 In the narrow washroom, he locked the door and sat on the closed lid. Sweat had cooled under his collar. His knee throbbed. I had missed both facts while watching Nivra.
 
@@ -262,15 +258,15 @@ In the narrow washroom, he locked the door and sat on the closed lid. Sweat had 
 
 *We haven’t finished.*
 
-*You haven’t started. You’re checking inventory.*
+*My knee went on her steps. You’ve been sitting in it all morning.*
 
-I searched for an answer that would open him and found only the old ones: the miles, the wrong bodies, the people who had said yes and regretted it before noon. “I need—”
+I searched for an answer that would open him and found only the old ones: the miles, the wrong bodies, the people who had said yes and regretted it before noon. Nothing opened him. I pushed through the shut voice the way I had pushed his legs at the door, and his mouth said, “I need—”
 
 *Not with my mouth.*
 
 He took it back.
 
-For several minutes we listened to the pipe tick. A cart rattled past outside. Calo stretched his bad leg into the tiny space between toilet and wall.
+For several minutes we listened to Nivra moving about the kitchen. A cart rattled past outside. Calo stretched his bad leg into the tiny space between toilet and wall.
 
 When he unlocked the door, Nivra was waiting in the hall with a folded hand towel.
 
@@ -288,6 +284,8 @@ Back at the table, Nivra opened the relay case. She did not ask permission. The 
 
 She turned past thirteen years of routes. “You were three streets away in the second year.”
 
+Calo opened the voice to me without looking up from the page.
+
 “For half a day.”
 
 “I was still learning stairs.”
@@ -300,8 +298,6 @@ She turned past thirteen years of routes. “You were three streets away in the 
 
 “No.”
 
-The single word had no mercy in it, but no accusation either. A date. A consequence.
-
 Nivra closed the case. “I’ll let you enter once.”
 
 Calo’s heartbeat kicked.
@@ -312,7 +308,7 @@ Calo’s heartbeat kicked.
 
 “And if I can stay?”
 
-She rubbed the damaged knuckle. “Then we’ll know what it costs.”
+She rubbed the damaged knuckle. “I’m due at the kiln at six tomorrow.”
 
 Calo stood too quickly. Black motes washed across our sight. He gripped the table until they cleared.
 
@@ -362,7 +358,7 @@ Calo did not lift ours.
 
 *Your choice,* he said.
 
-For thirteen years the choice had been onward. Thirteen heartbeats, one offered hand, no time to consider whose joints would ache the next morning. I had made rules because rules were the nearest thing I had to a body: limits I could point to and say, this is where I end.
+For thirteen years the choice had been onward. Thirteen heartbeats, one offered hand, no time to consider whose joints would ache the next morning. I had made rules because rules were the nearest thing I had to a body.
 
 I raised Calo’s hand halfway. He allowed that much, then stopped.
 
@@ -380,7 +376,7 @@ The passage opened, and for the first time in thirteen years I did not cross int
 
 I came home to an ankle that remembered breaking, a jaw that clicked on the left, lungs with more room than Calo’s. A fiber of bread caught between the same two molars where food always had. The damaged fingers buzzed faintly. My heart—her heart—beat slower than I expected.
 
-Nivra surrounded me not as memories, not as thoughts I could read, but as resistance with shape. She held the eyes. She held the hands. I could feel which movements she considered before she made them, small currents gathering behind muscle, but not why.
+Nivra surrounded me as resistance with shape. She held the eyes. She held the hands. I could feel which movements she considered before she made them, small currents gathering behind muscle, but not why.
 
 Calo staggered back into himself. He caught the sofa arm and swore. Nivra turned her head toward him. I only went with her.
 
@@ -404,7 +400,7 @@ Nivra touched the old scar beneath our arm. *This?*
 
 She lowered the arm. The rain kept speaking at the glass.
 
-At eleven-forty-three, she lent me the left hand.
+At eleven-forty-three, she lent me the right hand.
 
 I opened and closed it. The middle fingers lagged. I pressed the thumb to each fingertip, once, twice, faster. Nivra withdrew the hand.
 
@@ -414,7 +410,7 @@ I opened and closed it. The middle fingers lagged. I pressed the thumb to each f
 
 Silence.
 
-Calo watched from the sofa, jaw tight with pain. “Time,” he said.
+Calo watched from the sofa, his bad leg pushed straight along the cushion, one hand clamped over the knee. “Time,” he said.
 
 Eleven-forty-eight.
 
@@ -428,11 +424,11 @@ At eleven-fifty-two, she gave me our legs.
 
 I stood. The right ankle rolled inward, as it always had. Nivra tightened a muscle I did not remember learning to use, and we steadied. I walked once across the rug. Fourteen steps to the window. Fourteen back.
 
-The body was not preserved. It had gone on without me and become more exact in someone else’s keeping.
+The body had gone on without me and become more exact in someone else’s keeping.
 
 At eleven-fifty-six, I felt the anchor.
 
-It was not a voice or a revelation. It was the simple absence of distance. Every other host held an inner door, and beyond it midnight waited with its thirteen blows. Here, when I pressed deeper, the door became mine.
+There was no distance left between me and the body. Every other host held an inner door, and beyond it midnight waited with its thirteen blows. Here, when I pressed deeper, the door became mine.
 
 Nivra stumbled.
 
@@ -465,8 +461,6 @@ He rose despite his knee. He did not come closer. “Let her answer, Tamaris.”
 Eleven-fifty-eight.
 
 I could stay. The knowledge sat in the body more surely than any rule I had written. Hold every hinge shut through midnight and I would wake here tomorrow. Nivra would wake elsewhere, if the waiting hand reached her in time. After that: thirteen heartbeats, promises, borrowed hunger, the next name in a relay case.
-
-The cost was not death. That made it harder.
 
 I walked to the mirror above the cold fireplace. Silver at the temple. A faint burn mark on the chin that I had not put there. Nivra’s green coat reflected from its low peg behind me.
 

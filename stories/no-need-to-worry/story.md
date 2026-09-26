@@ -12,7 +12,7 @@ The wedding ring came off with a strip of skin inside it. Dulsie Flett rubbed it
 
 Across the pen, Ogden had the last hunter folded over his knees. His dinner jacket had split down the back. He was eating with his face against the man's open belly, and each time he swallowed something substantial, the bullet holes along his shoulders puckered shut. Dulsie had promised the guests a beast that would heal until one of them earned its head. The two bodies by the gate had stopped moving. Four guests, all accounted for.
 
-Dulsie checked her watch. Through the gateway in the dividing wall she could see the outer yard, the floodlights, the firing booth beyond them. A man was moving behind its glass. Norris had finished setting up. She had hired him to operate the lodge's cannon for the after-dinner demonstration, with a private extra fee if the animal proved dangerous. Ogden believed the cannon was a dead exhibit. She had let him complain all afternoon about paying a gunner to pose beside it.
+Dulsie checked her watch. Through the gateway in the dividing wall she could see the outer yard, the floodlights, the firing booth beyond them. A man was moving behind its glass. Norris had finished setting up. She had hired him to operate the lodge's cannon for the after-dinner demonstration, with a private extra fee if the animal proved dangerous. She had told him it could pass for a big man, and that its handler would walk it out; he had never met the handler. Ogden believed the cannon was a dead exhibit. She had let him complain all afternoon about paying a gunner to pose beside it.
 
 At forty-eight she owned three good dresses and half a business she couldn't put on a tax return. Tonight's cashbox held more money than they had ever taken in one place. With Norris's fee deducted, the rest would still be hers. No more negotiations over expenses with a man who considered a murdered hotel porter an unexpected meal.
 
@@ -54,7 +54,7 @@ Ogden bit into the side of the man's head. The man's heels battered the sand; on
 
 “Then we could have dealt with him afterwards.”
 
-He pulled the penknife out and spat a piece of ear beside it. “We're dealing with him now.”
+He pulled the penknife out, dropped it in the sand and spat a piece of ear beside it. “We're dealing with him now.”
 
 Ordinary meat did the same work. They had spent a winter feeding him cheap beef in a rented room, while Dulsie looked for a business more profitable than charging sick people to watch him heal. But beef didn't scramble for a knife. Beef didn't surprise him. She had helped him discover what he liked and taught herself to call it stock.
 
@@ -84,7 +84,7 @@ He saw her behind the observation window and raised them in an irritated questio
 
 “That's it,” Dulsie said. “Shoot it.”
 
-The gun's first burst made her teeth strike together. Her view shook. Ogden's raised arm came off at the shoulder. Flesh struck the dividing wall behind him. He fell on his side and rolled behind a stone trophy plinth. The trousers remained in the yard, tangled with the arm. Neither moved again.
+The gun's first burst made her teeth strike together. Her view shook, and a whine closed over her ears so that everything after it came from farther off. Ogden's raised arm came off at the shoulder. Flesh struck the dividing wall behind him. He fell on his side and rolled behind a stone trophy plinth. The trousers remained in the yard, tangled with the arm. Neither moved again.
 
 Norris stopped firing. His chair creaked as he leaned forward. Dulsie caught one glimpse of a wet shoulder drawing skin across itself before Ogden dragged it out of sight. His familiar throat made a sound she had never heard from it.
 
@@ -102,7 +102,7 @@ She stared at him. The little smile went. He wiped his mouth on his shoulder and
 
 “Keep him in the open,” he said.
 
-Dulsie could barely hear him through the ringing. She pulled the spare ear defenders from their hook and put them on. Norris was already wearing his. They made his face look small.
+Dulsie barely caught that. The whine was getting worse. She pulled the spare ear defenders from their hook and put them on. Norris was already wearing his. They made his face look small.
 
 Beyond the plinth, Ogden's back rose and fell. He didn't have enough spare flesh to make that arm again, not quickly. He had been shot for audiences, stabbed, once run down by a drunken guest who'd panicked behind the wheel. Dulsie had always stayed beside him while he repaired himself. When he asked afterwards how bad it had looked, she told him he ought to charge more.
 
@@ -112,7 +112,7 @@ The intercom buzzed. Dulsie felt it more than heard it. She raised one ear cup.
 
 “Dulsie?”
 
-Ogden had dragged himself to the speaker post behind the plinth. Its red call lamp shone above his remaining hand. The cannon could not reach him there.
+Ogden had dragged himself to the speaker post behind the plinth. Its red call lamp shone above his remaining hand. The post stood off to the side, beyond where the barrels could swing in their opening.
 
 “Turn it off,” he said.
 
@@ -120,7 +120,7 @@ Norris looked at her.
 
 She pressed the button beside the window. “Stay where you are.”
 
-“Yes. Obviously. Where have you found this cunt?”
+“Yes. Obviously. Where did you find this cunt?”
 
 Norris's mouth opened. Dulsie held a finger up to him.
 
@@ -176,7 +176,7 @@ She shut her eyes. Of course he had. The soft trousers were lying beside the pli
 
 “Ask him.”
 
-She took her hand off the button and looked at Norris. He spoke into it himself.
+She took her hand off the button and looked at Norris. He leaned over and pressed it himself.
 
 “Bring the money.”
 
@@ -280,7 +280,7 @@ Norris came to the door. His trouser cuffs brushed her shoes. He stood there for
 
 “Is he dead?” she said.
 
-He didn't turn. She kicked his ankle with her good shoe.
+He didn't turn. She kicked his ankle with her left foot.
 
 “Is he dead?”
 
@@ -322,13 +322,13 @@ For a moment she couldn't connect the question to anything. He bent closer and r
 
 She nodded. He reached under her good arm and pulled her up.
 
-They went out through the rear door. The car was where she'd left it, nose towards the drive. Norris put the box behind the driver's seat and lowered her into the passenger side. Her skirt caught on the seat runner. He tore it free without asking, and the movement sent her arm knocking against the door. She folded over it, making noises she would never have made with a customer present.
+They went out through the rear door. The car was where they'd left it, nose towards the drive. Norris put the box behind the driver's seat and lowered her into the passenger side. Her skirt caught on the seat runner. He tore it free without asking, and the movement sent her arm knocking against the door. She folded over it, making noises she would never have made with a customer present.
 
 He got in beside her. She tried to tell him where the nearest hospital was. He held up a hand while he adjusted the seat. He was shorter than Ogden.
 
-“You get people here again,” he said, loud enough for her to hear. “We don't need him.”
+“You get people again,” he said, loud enough for her to hear.
 
-There was blood running between her thighs onto the upholstery. He thought she could simply find another four rich men to walk in front of his gun. She had spent years filling tonight's pen. But he hadn't started the car, and the dressing was soaked through.
+Blood from her arm had run through her lap and between her thighs onto the upholstery. She had spent years filling tonight's pen. But he hadn't started the car, and the dressing was soaked through.
 
 “Yes,” she said.
 

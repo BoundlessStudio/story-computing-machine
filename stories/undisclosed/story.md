@@ -20,11 +20,11 @@ She looked through her bag. The chair creaked beneath her rescue harness, the ri
 
 She found the accounts under a pair of gloves stiff with dried blood. Her own, he hoped. There were things an accountant could ask and things he had learned to leave alone.
 
-“Take that off if it hurts,” he said, meaning the harness.
+“Take the harness off if it hurts,” he said.
 
 “Getting it back on hurts more.”
 
-He drew the envelope toward him. She put a finger on it.
+He drew the accounts toward him. She put a finger on them.
 
 “I know it was you at the hotel.”
 
@@ -58,7 +58,7 @@ She had a way of watching Cyril while she spoke that made him feel he was withho
 
 “There are people equipped for this.”
 
-“I've asked them. They can't promise four rooms at once either. I have medics waiting for whoever I get out. I have officers who'll go in once the prisoners are safe. I need someone who can stop four things happening together.” She glanced at the photograph of the hotel on a newspaper folded under his wastebasket. He had meant to throw it away. “You could do so much good.”
+“I've asked them. They can't promise four rooms at once either. I have medics waiting for whoever I get out. I have officers who'll go in once the prisoners are safe. I need someone who can stop four things happening together.” She glanced at the photograph of the hotel on a newspaper folded in his wastebasket. He had meant to throw it away. “You could do so much good.”
 
 Cyril leaned back. He had imagined this conversation often enough to have become rather good at it.
 
@@ -140,7 +140,7 @@ There were the beds, the cups, the guards. Two people had been playing cards on 
 
 Cyril stopped the pistol. Elsewhere three bullets emerged lazily from a rifle barrel; now that he could see them, he held them still. The rifleman let go of his weapon and began saying something over and over.
 
-Daybreak landed in the upper ward and bent over a bed, keeping her light between its occupants and a guard. It took Cyril a moment to understand why she was struggling with a buckle when there was no need for buckles ever to be fastened against his wishes.
+Daybreak landed in the upper ward and bent over a bed, keeping her light between the ward's occupants and a guard. It took Cyril a moment to understand why she was struggling with a buckle when there was no need for buckles ever to be fastened against his wishes.
 
 “May I?” he asked into her ear.
 
@@ -166,7 +166,7 @@ Cyril waited. On a neighbouring floor, a guard was trying to edge toward a stair
 
 The woman touched the stretcher's orange cover, then the paramedic's sleeve. Eventually she let them help her onto it. Cyril made the opening broader so they could go through side by side.
 
-The others took longer than lifting the buildings had. Daybreak checked names against her list. One man would not leave without the teeth he kept in a cup; Cyril moved the cup to the bedside when Daybreak pointed it out. Another asked where his brother was, though no brother appeared in her photographs. She asked his name and had the paramedic write it down. Cyril could offer him no answer.
+The others took longer than lifting the buildings had. Daybreak checked names against her list. One man would not leave without the teeth he kept in a cup; Cyril moved the cup to the bedside when Daybreak pointed it out. Another asked where his brother was, though no brother appeared in her photographs. She asked the brother's name and had the paramedic write it down. Cyril could offer him no answer.
 
 By the seventh person, Daybreak's light had become thin along the edges. He no longer needed her to protect anyone from the guns, but the man she was helping insisted on keeping his feet upon her luminous plane rather than the unsupported floor. She carried him slowly across it, sweating, while Cyril stood unseen on the hillside with his hands in his pockets.
 
@@ -176,9 +176,9 @@ The eighth was one of the card players. He gathered the blanket and the cards be
 
 He had helped other people without being thanked. Once he had shifted a child's bicycle a few inches from a passing lorry, and the child had sworn at the driver and ridden on. This was different. Daybreak looked toward the place where she knew he stood, and smiled at him. For a moment he wanted to lift the entire compound higher, open another impossible road, find something else she needed.
 
-When two gunmen began edging toward the gate, Cyril fixed their feet in place. He did the same to the others he had seen armed, and to the man who had reached for the pistol. The man in the coat began shouting at Daybreak.
+When two gunmen began edging toward the gate, Cyril fixed their feet in place. He did the same to the others he had seen armed, and to the man who had reached for the pistol.
 
-“My employers will have this straightened out,” he shouted toward Daybreak. “You have no authority to hold me here.”
+“These are consenting participants,” the man in the coat shouted toward Daybreak. “My employers will have this straightened out. You have no authority to hold me here.”
 
 There were twelve people left inside the fence, including the guards. At least three wore the same plain clothes as the abductees. He did not know whether they had stayed because they worked here or because they were frightened to move.
 
@@ -198,25 +198,25 @@ He set the guns and the suspended bullets together in the air above the fence. D
 
 There would be witnesses and whatever the cameras had preserved. None of the people they had found at the compound had seen Cyril's face. Daybreak had, and knew where he worked.
 
-He brought them back to the office and closed the way to the hillside. When he let himself become visible again, Daybreak was sinking into the narrow chair and working at her harness. He reached for a fastening.
+She fetched her bag from behind the thorn bush, and he brought them back to the office and closed the way to the hillside. When he let himself become visible again, Daybreak was sinking into the narrow chair and working at her harness. He reached for a fastening.
 
 “Please don't,” she said. “It's caught on the dressing.”
 
 He withdrew his hand. She teased the strap free, breathing through her mouth. He could have moved it without touching the wound, but she had asked him not to. Freed of the harness, she looked smaller, though she occupied more of the chair.
 
-“Thank you,” she said. “I've been trying to work out how to do that for six days.”
+“Thank you,” she said. “I've been trying to work out how to get them out for six days.”
 
 He put her accounts back in their envelope. He wanted her to go on speaking in that voice. He wanted to ask whether he had done well, which was an absurd question, considering the buildings.
 
 “You understand why I can't make a habit of it.”
 
-“I understand why you're frightened.” She rubbed a deep mark on her shoulder. “I don't understand leaving those people where they were. I'm glad you came.”
+“I understand why you're frightened.” She rubbed her shoulder where the strap had dug in. “If I hadn't kept asking, you'd have left eight people in those wards. I don't understand that. I'm glad you came.”
 
 “If you needed me again, you would ask.”
 
 “Probably.”
 
-There was no promise of reasonable hours, or reasonable things to want. Of course there wasn't. He had wanted her to make one without his having to hear himself ask.
+He had hoped she would set some limit of her own on what she might ask of him, without his having to hear himself ask for one.
 
 “My name must stay out of this,” he said. “Nobody there saw me. Nobody heard you call me Cyril.”
 
@@ -224,7 +224,7 @@ There was no promise of reasonable hours, or reasonable things to want. Of cours
 
 “Promise you won't tell anyone.”
 
-She stopped rubbing her shoulder. The angry red marks remained when she lowered her hand.
+She stopped rubbing her shoulder. When she lowered her hand, the groove the strap had left was still there, dark red.
 
 “I came to you privately. I haven't named you to anyone. I'm trying to keep it that way.”
 

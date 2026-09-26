@@ -38,7 +38,7 @@ The guide at your chest began again because you had remained inside the entry be
 
 You pressed stop.
 
-The first wall showed the bay as a dark curve under a field of descending marks. None of the marks was a recovered frame; the label below the display said so in small type. They were an artist’s reconstruction, simplified until the eight wedges looked like rain. At the center, a silver silhouette floated upright, skirts streaming, one arm raised. From a distance the light along that arm made a blade.
+The first wall showed the bay as a dark curve under a field of descending marks. No frame of the host had ever been recovered; the label below the display said so in small type. The marks were an artist’s reconstruction, simplified until the eight wedges looked like rain. At the center, a silver silhouette floated upright, skirts streaming, one arm raised. From a distance the light along that arm made a blade.
 
 Centuries after the bay, your body had outlasted everyone else the museum might have put before a recorder. It had not outlasted illustration.
 
@@ -52,11 +52,7 @@ The curator followed your gaze. “The opening panel uses the received civic wor
 
 “It uses a false quantity.”
 
-“An imprecise one.”
-
-“A count exists.”
-
-“In your testimony and in two much later numerical traditions. The surviving contemporary civil records give evacuation totals, force withdrawal, atmospheric effects. They don’t independently preserve the host count.”
+“The figure exists in your testimony and in two much later numerical traditions. The surviving contemporary civil records give evacuation totals, force withdrawal, atmospheric effects. They don’t independently preserve the host count.”
 
 The attendant with the crate returned. “West charging rail is dropping every sixth unit.”
 
@@ -64,11 +60,11 @@ The attendant with the crate returned. “West charging rail is dropping every s
 
 “Then we’re short thirty-one.”
 
-“Twenty-eight. Three are staff.”
+“Put the three staff units into circulation. That makes twenty-eight.”
 
-The attendant looked at you, then at the silhouette on the wall. “Do staff need guides?”
+The attendant looked at the guide on your chest, then at the silhouette on the wall. “Is hers one of the three?”
 
-“Today they do.”
+“Hers stays with her.”
 
 The attendant went away counting under their breath.
 
@@ -86,7 +82,7 @@ You touched the number field on the curator’s tablet before remembering it was
 
 The curator stopped.
 
-“They are not on this wall. The evacuation is six rooms away. The sword is in the next gallery.”
+“The twelve who gave the crown their final works. They are not on this wall. The evacuation is six rooms away. The sword is in the next gallery.”
 
 “The donors have a dedicated station.”
 
@@ -94,9 +90,9 @@ The curator stopped.
 
 “Because that room can hold the quieter audio without cross-bleed.”
 
-“They are quiet because you put them there.”
+“Put them before it.”
 
-The curator lowered the tablet. “Their final works were instrumental. They were not present as combatants, and the evidence is especially sensitive because visitors repeatedly infer that their persons were trapped in the crown. The station has to state what we know without reproducing that harm.”
+The curator lowered the tablet. “It isn’t only the audio. In every test group, visitors decided the donors’ persons were trapped in the crown. The station has to state what we know without reproducing that harm.”
 
 “Move the sword.”
 
@@ -116,9 +112,9 @@ At your feet, a circle of unlit glass bore the words **THE QUEEN STOOD HERE**.
 
 “It’s interpretive.”
 
-“Then interpret me elsewhere.”
+“Take the words up.”
 
-The curator pinched the bridge of their nose, once. “That is the witness position for the opening ceremony.”
+The curator scrolled to the ceremony run sheet on the tablet. “That is the witness position for the opening ceremony.”
 
 “I did not stand here during the battle, and I will not stand here today.”
 
@@ -142,13 +138,13 @@ The technician turned the chair at the northern breakwater, clipped a projection
 
 Ordinary authority, exercised without thunder. You remembered that you had once been good at it.
 
-The curator waited until the technician had rolled away. “The floor makes the withdrawal visible. Every route begins beyond the evacuation boundary. No civilians under the battle.”
+The curator waited until the technician had rolled away. “The floor makes the withdrawal visible. Every route ends inside the evacuation boundary. No civilians under the battle.”
 
 “Good.”
 
 “That was not easy to secure. The first proposal put figures on the ridge for scale.”
 
-“Then keep it. Add the count.”
+“Keep it. Add the count.”
 
 “And if your count is wrong?”
 
@@ -158,11 +154,11 @@ The absent crown answered by not answering. No ring of chimes turned above your 
 
 The curator’s thumb hovered over the tablet. “You would qualify your own figure?”
 
-“I just did.”
+“Write it as I said it.”
 
 “And the later reductions?”
 
-“Some I can certify. Some I can bound. None gives you their motives.”
+“Some I can certify. Some I can bound.”
 
 The guide woke again as you crossed another beacon. “With her enchanted sword, Sol-steece—”
 
@@ -178,9 +174,7 @@ The curator did not take it. “That track refers to the sword as a later civic 
 
 The access technician, now measuring the turn at the southern breakwater, said, “It does sound like she used it.”
 
-“Thank you,” the curator said, with no gratitude in it.
-
-“Do you still need the center?”
+“Thank you,” the curator said, with no gratitude in it. “Do you still need the center?”
 
 “Two minutes.”
 
@@ -188,21 +182,17 @@ The technician rolled on.
 
 The sword lay ahead in a long case, polished to a brightness no battlefield object would have kept. It had been made generations afterward, donated by a civic society whose seal appeared three times in the label. The first line said **THE SWORD OF THE BAY**. The fourth said you had never borne it.
 
-“Visitors read cases before fourth lines,” you said.
-
-“Some do.”
-
-“You know they do.”
+“Visitors look at the sword before they read the fourth line,” you said.
 
 “I know objects hold attention. That is why the loan committee wanted it at the center.”
 
 “And you?”
 
-The curator looked at the case, not at you. “I wanted an object people could gather around without mistaking any crown fragment for a relic. There is no surviving crown material. There is no frame debris. We have reproductions, contested diagrams, damaged archives, and a sword that admits it came later.”
+The curator looked at the case, not at you. “I wanted something people could gather around that nobody would mistake for a piece of the crown. We have reproductions, contested diagrams, damaged archives, and a sword that admits it came later.”
 
 “After four lines.”
 
-“After four lines.”
+The curator wrote something on the tablet.
 
 Before either of you could continue, the doors at the far end opened and a staff member backed into the wing, arms spread.
 
@@ -242,7 +232,7 @@ Three guides began speaking at different points in the track.
 
 “Don’t touch the glass.”
 
-The curator closed their eyes for one second. When they opened them, the overqualification was gone.
+The curator closed their eyes for one second.
 
 “Let them continue,” they told the staff member. “Keep the east threshold closed. Log every device number.”
 
@@ -260,7 +250,7 @@ One child had reached the central marker. The floor placed the silver queen arou
 
 The guide answered first. “Alone, the warrior queen held the bay—”
 
-“There were no other combatants in the battlespace,” the curator said. “The bay had been evacuated. Conventional forces had withdrawn.”
+“Nobody else fought,” the curator said. “Everyone had already been moved out of the bay, and the soldiers had been pulled back.”
 
 The child pointed at the silver arm. “So the sword was magic?”
 
@@ -290,7 +280,7 @@ The child with the raised arm lowered it. Someone’s guide continued serenely: 
 
 The curator’s tablet chimed twice. “Photographs are your decision. We need the center clear in ninety seconds.”
 
-You stood beside the northern breakwater instead. The adult took one picture. A child crossed in front at the wrong moment; the adult asked for another. Behind you, an amber-lit guide called the enemies limitless. A blue one called them innumerable. Nobody asked permission of the devices.
+You stood beside the northern breakwater instead. The adult took one picture. A child crossed in front at the wrong moment; the adult asked for another. Behind you, an amber-lit guide called the enemies limitless. A blue one called them innumerable.
 
 “How did you count them?” the child beside you asked.
 
@@ -330,17 +320,13 @@ The first child was looking at your bare forehead. “Where’s the crown?”
 
 “No.”
 
-The curator looked down at the tablet. You could see the note forming there before they typed it: visitors would expect reconstructed crown sounds. You said, “Do not invent them.”
+The curator looked down at the tablet. You could guess the note forming there before they typed it: visitors would expect reconstructed crown sounds. You said, “Do not invent them.”
 
-“I wasn’t going to.”
-
-“You were considering it.”
-
-“For access to the concept of absence.”
+“I wasn’t going to.” They looked at the screen a moment longer. “Design asked for a placeholder. For access to the concept of absence.”
 
 “No.”
 
-“No,” the curator said, and deleted the note.
+The curator deleted the note.
 
 The group moved toward the donors’ station in fragments. Some followed the wall text. Some followed the sword. One child kept the guide pressed to both ears and walked past you without looking up. At the twelve dark circles, the staff member began correcting the same inference in different words.
 
@@ -352,51 +338,31 @@ The group moved toward the donors’ station in fragments. Some followed the wal
 
 “Please don’t step over the low rail.”
 
-The curator listened through three repetitions.
+The curator listened through three repetitions, then turned their back to the rail and lowered their voice below the children’s.
 
-“I can change the opening,” they said quietly.
+“That’s three times in one minute someone’s had to tell them there weren’t twelve queens. I’m not opening on that. I can change the opening.”
 
 “Change the wing.”
 
-“Not in thirty minutes. The sword case requires the loan officer, two handlers, a condition check, and a new mount. The wall panel needs fabrication. The audio fleet needs units returned and awake. I can change how the evidence is layered today.”
+“Not in thirty minutes. The sword case alone needs the loan officer, two handlers and a new mount. Today I can put your account beside the legend. Recorded, in your voice, with the count and how you knew it. The label will say whose account it is and how far it reaches. The sword track goes off now, and the case gets a cover.”
 
-You waited.
+You had asked for 131,072 on the wall in the museum’s own letters. What they offered was your voice, with a card beneath it telling strangers how far to trust you. You had supplied the limit yourself on the tactical floor. It was another thing to hear the museum propose it, and to be filed beside the legend as one more source.
 
-“Legend remains labeled as legend. Your account enters beside it, dated, attributed, and limited. ‘Alone’ becomes ‘sole combatant’ wherever we can patch text without corrupting alternate formats. The evacuation record moves forward in the guide sequence. The donor station gets a sightline from the tactical floor. The sword track is disabled now, and the case gets a temporary cover until relocation.”
+You let it stand. “Fix the name.”
 
-“The count?”
-
-“Spoken by you, with how you knew and where that knowledge became uncertain.”
-
-“Not your summary.”
-
-“Your recording. My label will say what kind of record it is.”
-
-“And the name?”
-
-“We reload every returned unit. We cannot catch every local cache before opening without taking the accessible fleet below capacity.”
+“We’re reloading every unit that comes back. I can’t catch every local cache before opening without taking the accessible fleet below capacity.”
 
 The child at the donor station asked whether the twelve people had volunteered. The staff member answered yes, then began to add something about their souls. The curator crossed the floor before the sentence could turn into theology.
 
-“Final works,” they told the child. “Not stored people. We’ll show you the source note.”
+“They each gave the crown one last spell,” they told the child. “The people were never inside it. We’ll show you how we know.”
 
-Plain at last.
-
-You did not tell the curator what the new plaque should say. Plaques had a way of borrowing certainty from stone, even when the stone was composite and mounted with removable clips. You knew the twelve donors had knowingly given their final works. You remembered each living person. You did not possess their last thoughts, their private reasons, or their view of the sky when they transformed. Memory did not promote you into them.
+You did not tell the curator what the new plaque should say. Plaques had a way of borrowing certainty from stone, even when the stone was composite and mounted with removable clips. You knew the twelve donors had knowingly given their final works. You remembered each living person. You did not possess their last thoughts, their private reasons, or their view of the sky when they transformed.
 
 “Record first,” you said.
 
 The service room smelled of warm plastic and dust caught in filters. Guides covered two worktables in rows, cords looped beside them. Each returned unit received a red sticker, a cable, and an instruction from an engineer who spoke without once looking up.
 
-“Blue batch here. Amber waits. If it shows green, don’t wake it.”
-
-“Why?” an attendant asked.
-
-“Because green lies.”
-
-“About the load?”
-
-“About finishing.”
+“Blue batch here. Amber waits. If it shows green, don’t wake it. Green comes up before the load’s done.”
 
 The curator set a recorder on a crate. “We need short segments. They may be inserted at separate stops.”
 
@@ -441,10 +407,6 @@ A crate arrived before you could finish. The attendant carrying it said, “Nine
 The curator paused the recorder.
 
 “Do not pause for me,” you said.
-
-“We need a clean segment.”
-
-“You need a record of a wing opening.”
 
 “We need visitors to hear you over their own devices.”
 
@@ -496,7 +458,7 @@ The curator nodded once. “Keep both.”
 
 They recorded the evacuation separately, because it came from civil records stronger than your view. You confirmed only that the bay below you had been empty of civilians as the host descended, and that conventional forces had withdrawn. You did not endorse the ceremony. You did not pose on the glass circle. When asked for a final sentence inviting visitors to decide what the battle meant, you said, “The record ends there.”
 
-The curator stopped the machine. “It does.”
+The curator stopped the machine.
 
 Opening was delayed eleven minutes. The sword case disappeared under a gray fitted cover that made it less interesting and therefore more conspicuous. An attendant taped a temporary line at the tactical floor: **SILVER FIGURE IS SYMBOLIC. NO SWORD WAS USED IN THE BATTLE.** Another attached a source card to the “countless” panel without hiding the old words. It named the phrase as a later civic tradition and directed visitors to your attributed account. Nobody called the card final.
 
@@ -508,7 +470,7 @@ You stood outside the queen’s marker while the curator checked device numbers 
 
 “They will return eventually.”
 
-“Usually.” The curator handed an attendant another red sticker. “The sword move is scheduled after close. Evacuation records tomorrow, if you’re willing.”
+“Usually.” The curator handed an attendant another red sticker. “The sword move is scheduled after close. Evacuation files tomorrow, if you’re willing to go through them.”
 
 “Donor sources first.”
 

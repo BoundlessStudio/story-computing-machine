@@ -12,6 +12,8 @@ Merovel had practiced the kneeling part in the carriage. A pause before the word
 
 The ring was harder to manage. Wrapped in her mother's handkerchief, it made a lump inside her evening glove. She had meant to bring a little box, but all the boxes at home had looked either too grand or too much like an apology.
 
+The invitation had been addressed to her mother, who had declined it before the winter was out. Merovel had written in the summer to say she would come instead. She had not explained why.
+
 Queen Vessarine received her beside a fireplace tall enough to roast the carriage.
 
 “You have your mother's mouth,” she said.
@@ -22,7 +24,7 @@ Queen Vessarine received her beside a fireplace tall enough to roast the carriag
 
 “She disliked being sick in carriages.”
 
-“A useful distinction. How is she?”
+“She didn't say so. How is she?”
 
 Merovel had prepared for questions about the ring, her ancestry, even her modest widow's allowance. “She died in the spring.”
 
@@ -36,7 +38,7 @@ There were three guests, one for each of the heroes who had tried to kill their 
 
 The queen sat at the head of a table shortened, by discreet additions of flowers, to accommodate four. Behind her rose black columns and tall windows in which the moon lay snagged among distant spires. Her hair was redder than the wine. Fine white lace covered her wrists, and when she smiled at a servant, Merovel saw the points of her teeth.
 
-She wore very little jewelry for a queen. A red stone at her throat, earrings, a thin gold ring on her left hand. Merovel, who had sold most of her own jewelry during her husband's illness, noticed the ring's worn surface. Money could not make a person replace a thing she liked.
+She wore very little jewelry for a queen. A red stone at her throat, earrings, a thin gold ring on her left hand. Merovel, who had sold most of her own jewelry during her husband's illness, noticed the ring's worn surface. Its face had been rubbed down to something like a small flower.
 
 “I understand we may begin with the deeds of our ancestors,” Osmer said, before the soup had entirely settled in its bowls.
 
@@ -54,13 +56,13 @@ Pelcira put down her spoon. “Yours was the cook.”
 
 “Seven hundred,” said Vessarine. “Please, go on.”
 
-He described the gate's destruction, the slaughter of the queen's wolves, and his ancestor's advance across a bridge of burning bones. Her Majesty listened without interrupting. She even leaned forward when he lowered his voice for the account of the wolves.
+He described the gate's destruction, the slaughter of the queen's wolves, and his ancestor's advance across a bridge of burning bones. Her Majesty listened without interrupting. For the wolves he got to his feet and lowered his voice, and she leaned forward.
 
-When he finished, she thanked him.
+When he finished and sat down, she thanked him.
 
 “Were there really seven hundred?” Pelcira asked.
 
-“At the dinner before last there were two hundred,” the queen said. “Last century, five. Your family has recruited well, Osmer.”
+“At the dinner before last there were two hundred,” the queen said. “Last century, five hundred. Your family has recruited well, Osmer.”
 
 He laughed, after checking her expression. “Numbers do suffer in the telling.”
 
@@ -88,7 +90,7 @@ Pelcira's ancestor had once been an archer. In the version she told over the fis
 
 “Perhaps.”
 
-There was no edge in the concession. Vessarine turned her fish with delicate, exact movements. She seemed capable of granting Pelcira a blind archer for the length of a meal. Merovel wished her mother could have seen this. She would have collected enough small absurdities to enliven the rest of her life.
+Vessarine turned her fish with delicate, exact movements. She seemed capable of granting Pelcira a blind archer for the length of a meal. Merovel wished her mother could have seen this. She would have collected enough small absurdities to enliven the rest of her life.
 
 The room itself, Pelcira learned, was only nine hundred years old. The oldest chandelier had been bought secondhand. Vessarine disliked the stone angels beside the windows but had grown accustomed to hanging winter greenery on them. At the first dinner, the guests had sat on cushions and eaten from a common dish. At the twentieth, everyone had considered it indecent for a woman to show her ears.
 
@@ -110,7 +112,7 @@ Merovel had remembered that story through a marriage considerably less grand tha
 
 “Ildren brought her to her knees,” Merovel began.
 
-“I thought it was the other way round.”
+“I thought it was the other way round,” said Osmer.
 
 “Do let her tell it,” Pelcira said.
 
@@ -118,7 +120,7 @@ Merovel started again. She described the blade against the queen's throat, the r
 
 “He knelt,” she said, and paused. “But only to retrieve his sword. He never begged.”
 
-Vessarine looked at the handkerchief on her lap.
+Vessarine looked at the handkerchief on Merovel's lap.
 
 “Your mother told you that?”
 
@@ -152,9 +154,9 @@ She unfolded the linen. It was a narrow hoop, slightly crooked, with one tiny ha
 
 The queen reached for her wine, missed the stem, and left her hand on the cloth.
 
-“Where did you find that?”
+“You brought it.”
 
-“At home. It came to me when Mother died.”
+“It came to me when Mother died.”
 
 “May I see it?”
 
@@ -178,13 +180,13 @@ Instead Vessarine slid the linen toward her. “It's yours.”
 
 The queen stared at the gold hand.
 
-“Can you?”
+Merovel looked from the ring to her. “Can you?”
 
 “No.”
 
 Merovel had expected amusement. The answer was so plain that she could not immediately find another question.
 
-Osmer said, “It may be a figure of speech.”
+Osmer turned a hand in the air. “It may be a figure of speech.”
 
 Pelcira pressed his sleeve down against the table until he stopped.
 
@@ -204,7 +206,7 @@ Merovel looked up.
 
 “I used to do it for him.”
 
-The thumb moved. The lid rose reluctantly, exposing a hollow no deeper than a drop of wine. There was no hair, no dust, nothing imprisoned. Only letters cut into the sheltered gold.
+The thumb moved. The lid rose reluctantly, exposing a hollow no deeper than a drop of wine. Letters had been cut into the sheltered gold.
 
 Merovel knew the old letter forms from the copied inscription on Ildren's tomb. She sounded them without meaning to.
 
@@ -212,7 +214,7 @@ Vessarine.
 
 Her hostess took off her own ring.
 
-It, too, bore a hand. Seen alone, its curling fingers had looked like a worn flower. Merovel lowered the lid of her ring until the catch clicked. The queen set her hoop beside it, turned it once, and fitted their uneven edges together. The hands clasped. What had looked like a crooked ring became half of a wide, neatly joined band.
+It, too, bore a hand. Seen alone, its curling fingers had looked like a worn flower. Merovel lowered the lid of her ring until the catch held. The queen set her hoop beside it, turned it once, and fitted their uneven edges together. The hands clasped. What had looked like a crooked ring became half of a wide, neatly joined band.
 
 There was no flash or music. One edge clicked against the other. The queen had a pale groove around her finger.
 
@@ -240,13 +242,9 @@ That should have made it easier. Instead Merovel thought of her mother reciting 
 
 “For six thousand years?”
 
-“At the first dinner, his granddaughter would not believe me. At the second, they knew he'd lived here but said I'd bewitched him. By the third, he'd escaped me. I grew tired of arguing with people who thought I could put words in their mouths.”
+“At the first dinner, his granddaughter would not believe me. At the second, they knew he'd lived here but said I'd bewitched him. By the third, he'd escaped me. I grew tired of arguing with people who took every point I won as proof I'd enchanted them.”
 
-“And could you?”
-
-“No.”
-
-“You could have shown them yours.”
+“You could have shown them your ring.”
 
 “I did. A piece of jewelry wasn't much of an argument against a dead mother.”
 
@@ -288,7 +286,7 @@ She settled for asking, “Why would his daughter forbid it?”
 
 “I bought her things.” The queen rubbed a spot of wine from the table with her thumb. “She asked me to stop.”
 
-Merovel thought of the miniature her own mother had sent, and of the queen keeping it somewhere through all the years that remained after an invitation was declined.
+Merovel thought of the miniature her own mother had sent, and of the queen still keeping it somewhere in this house when Merovel and everyone who had known her mother were dead.
 
 “You still invite us.”
 
@@ -296,7 +294,7 @@ Merovel thought of the miniature her own mother had sent, and of the queen keepi
 
 “Even the wolves?”
 
-“Sometimes especially those. I've had some very dull centuries.” She looked toward Osmer, but he was occupied with the clasped hands. Her attempted smile faded. “There used to be more little things. His granddaughter knew how he peeled an apple. Once a boy came who had the song his cook used to sing. Only half of it, but I'd forgotten there was a song.”
+“Sometimes especially those. I've had some very dull centuries.” She looked toward Osmer, but he was occupied with the clasped hands. Her attempted smile faded. “There used to be more little things. His granddaughter knew how he peeled an apple. Once a boy came who had the song the cook used to sing. Only half of it, but I'd forgotten there was a song.”
 
 “My ancestor?” Osmer asked.
 
@@ -328,7 +326,7 @@ Beyond the windows, clouds had covered the moon. The queen's face had changed in
 
 “Were you hurt?”
 
-“Not badly. I was furious. He kept saying he wouldn't have laughed if he'd known whether I was hurt, and I kept saying that was exactly the difficulty.”
+“Not badly. I was furious. He kept saying he wouldn't have laughed if he'd known I was hurt, and I kept saying that was exactly the difficulty.”
 
 Pelcira nodded with such vigor that her arrowhead struck her glass.
 
@@ -358,7 +356,7 @@ Osmer made a small sound into his wine.
 
 “I can't remember. No, wait. There was something about a goat.”
 
-Pelcira drew the dish of preserved cherries toward her. Osmer, who had been standing whenever he told a story, stayed seated. Merovel closed the little hand over the name, pressed the thumb until it caught, and slipped the ring onto her own finger. It was too large; she held it in place with her thumb.
+Pelcira drew the dish of preserved cherries toward her. Osmer, who had stood up for the wolves, stayed in his chair. Merovel closed the little hand over the name, pressed the thumb until it caught, and slipped the ring onto her own finger. It was too large; she held it in place with her thumb.
 
 The queen began with the goat, stopped because she had begun too late, and went back to explain a quarrel over a ruined pair of slippers. She confused which winter it had been. She laughed before she reached the part that was funny and had to try again.
 

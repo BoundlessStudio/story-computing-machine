@@ -14,7 +14,7 @@ It landed too close. A wild eagle did not give a hunter spear reach unless it me
 
 Then it bowed.
 
-Not the quick head-dip of a bird gauging meat. It lowered its whole body until the hooked beak nearly touched the turf. Its wings opened a handspan and trembled there.
+It lowered its whole body, far past the quick head-dip of a bird gauging meat, until the hooked beak nearly touched the turf. Its wings opened a handspan and trembled there.
 
 "Wrong woman," Yavren told it.
 
@@ -24,7 +24,7 @@ Her right hand came out of the goat. Blood shone to her wrist. Before she knew w
 
 The mountain answered.
 
-Scree jumped under her knees. Thirty paces uphill, a black point punched through the slope. Another hooked beside it, and another. They were not stones. Each flexed at its pale joint and clawed free, dragging a braid of dark filaments after it. Plates followed by the hundreds, mineral-bright backs overlapping, small as thumbnail scales at the edges and broad as shovel blades at the center. They worried limestone apart as roots worried a wall.
+Scree jumped under her knees. Thirty paces uphill, a black point punched through the slope. Another hooked beside it, and another. Each flexed at a pale joint and clawed free, dragging a braid of dark filaments after it. Plates followed by the hundreds, mineral-bright backs overlapping, small as thumbnail scales at the edges and broad as shovel blades at the center. They worried limestone apart as roots worried a wall.
 
 Yavren snatched up her bow. The living mass swung toward the heat of her body.
 
@@ -46,25 +46,17 @@ Pelka, Yavren's foster sister, emerged from the dwarf pines carrying six empty s
 
 "It has knees."
 
-"Leave the goat."
+The nearest plate reached the goat. It passed over hide and meat without pausing, but curled around the iron buckle on Yavren's game strap. The buckle dulled, softened, and disappeared beneath rasping mouth-parts. The plate's back thickened by a hair.
 
-"Already decided."
+"It eats iron," Pelka said.
+
+"It went round the meat." Yavren's hand went to her quiver. Every head in it was iron. So was her knife.
+
+"Leave the goat."
 
 They ran across the slope. Pelka caught Yavren's pack strap and yanked her away from the usual descent.
 
 "West horn," she said. "Weir riders."
-
-"Three notes was rockfall."
-
-"When we were ten. They changed it after the spring flood. Three is royal danger now. Rockfall is two, wait, then one."
-
-Behind them, a plate reached the goat. It passed over hide and meat without pausing, but curled around the iron buckle on Yavren's abandoned game strap. The buckle dulled, softened, and disappeared beneath rasping mouth-parts. The plate's back thickened by a hair.
-
-"It eats iron," Pelka said.
-
-"Only what we paid for. Good."
-
-"Yav."
 
 They had reached a rib of bare rock when one of the small plates sprang. Yavren knocked it aside with her bow, but its inner hooks caught her bracer. Cold bit through leather.
 
@@ -80,11 +72,11 @@ Yavren came back on her knees with Pelka striking the hooked plate off her arm u
 
 "Look at me. Where are we?"
 
-"The east gallery. The postern is below the rain cistern."
+"The east gallery. The postern is below the mews."
 
 Pelka gripped her jaw. "We're above the goat meadow. There is no gallery."
 
-Yavren smelled smoke that was not there. She knew a passage behind the western face, narrow enough for one armored bearer, descending toward a river gate. She could feel its cool draft against a dead woman's cheek.
+Yavren smelled smoke that was not there. She knew a passage behind the western face, narrow enough for one armored bearer, descending toward the lower gatehouse. She could feel its cool draft against a dead woman's cheek.
 
 "There's a way through." She pointed toward a cracked wall of stone. "Below that spur."
 
@@ -98,25 +90,19 @@ Yavren made herself look down. Wind had combed the grass southward. Goat pellets
 
 "There." Yavren took the rope. The familiar hemp roughness steadied her fingers. "Loose ledge halfway. Step where I step."
 
-"Better."
-
 They climbed as the first arrows arrived.
 
 One struck sparks from the talonmail. The colony changed direction at once. Plates reared toward the bowman below, filaments tightening between them. The next arrowhead hit the mass and came out wood-bare. Black scales surged down the shaft.
 
 The weir officer on the track swore and ordered every bow lowered.
 
-"Clear the two houses under the shelf," he called. "You, huntress—stand away from it. If it follows you, take it north."
+"Clear the two houses under the shelf," he called. "Everyone out, and count them. You, huntress—stand away from it. If it follows you, take it north."
 
-A gray-clad rider reined in beside him. Ash marked the rider's veil from lip to chin. "The warrant says kill the returned bearer and anyone who heard her named."
-
-"The warrant doesn't have three farms under a moving cliff."
-
-"It has a seal."
+A gray-clad rider reined in beside him. Ash marked the rider's veil from lip to chin. He spoke to the hunters behind him. "Her first. Then anyone who saw that thing come out of the rock for her. Shepherds too. My king wants no one left to tell it."
 
 From the road came the snap of weighted nets opening. Men in yellow leather spread below the traverse, iron sinkers glittering around each mesh.
 
-Their captain pointed at Yavren. "Alive until we peel the shell off. Hands first. The warrant gets the rest."
+Their captain pointed at Yavren. "Alive. Whatever that is, it's crawling to her. Let it finish dressing her, then net her with it on. The mail's worth more than her head."
 
 An opened ivory warrant tube hung at each officer's belt, its present king's seal cracked. Three kings, three versions of the same hundred-year order.
 
@@ -130,13 +116,13 @@ So did Pelka.
 
 Yavren crouched and studied the traverse. "Net line leaves a gap beside the split pine," she said, forcing the words through the shape of her own mouth. "No. Too obvious. They'll close it when we move. We need—"
 
-The word for the low drainage channel would not come. In its place rose *soldiers' culvert*, and with it a picture of stonework buried for a century.
+Her eyes had fixed on a dark gully below the net line, but the word for it would not come. In its place rose *the old sally path*, and with it a picture of cut steps buried for a century.
 
-"The wet cut," Pelka said. "Say the thing you can see."
+Pelka followed her stare. "The wet cut," she said. "Say the thing you can see."
 
 "Wet cut. Rope around the juniper."
 
-They descended three body lengths, swung beneath the road men's net, and landed hard in the channel. Pelka's boot slipped. Yavren caught her forearm before her knee struck stone.
+They descended three body lengths, swung beneath the road men's net, and landed hard in the cut. Pelka's boot slipped. Yavren caught her forearm before her knee struck stone.
 
 Above, the road captain shouted for the gap to close. The weir officer shouted back that iron would draw the creature across the shelf. The ash rider sent two hunters after Pelka instead.
 
@@ -154,37 +140,29 @@ The talonmail hesitated. Then it resumed climbing toward her heat, consuming eve
 
 "What did you almost do?" Pelka asked.
 
-"Don't know the verb."
+Yavren was still gripping her own wrist. "I don't know. I've done it before. I've never—"
 
 "Did it end with us alive?"
 
-"Maybe. Not them."
+"Maybe. Not them." She was looking past the soldiers at the roofs.
 
-"Then keep not knowing it. Up."
+Pelka took her by the collar and held on. "Then don't. Yav. Don't." She pushed her at the rock. "Climb."
 
 * * *
 
 They gained the narrow ground above the pines at dusk. The slope shuddered every few breaths. Dust lifted from three ledges where eagles nested; one slab had already tilted away from the mountain, leaving a wedge of dark air beneath it.
 
-The wild eagle returned with a strip of wool snagged around one talon. It dropped the wool, landed on a boulder between Yavren and the eyries, and bowed again.
+The wild eagle returned with a strip of wool snagged around one talon, landed on a boulder between Yavren and the eyries, and bowed again.
 
 Yavren's older memory reached first: banners lowering, petitioners prostrate, the ritual submission of lesser houses.
 
-Another flash corrected it: a hen lowering itself before a broken nest ledge while a fledgling watched from the stone. The next spring, that grown bird had bowed at a new crack.
-
 But the bird's head stayed turned toward the cracking ledge. Its beak opened with exertion. Behind it, a half-grown eaglet flattened itself into the nest.
 
-Not allegiance. Not recognition of a throne.
+"It's the nest," Yavren said. "That ledge is going."
 
-Distress.
+Pelka was wrapping a strip torn from her undershirt around a slice on her calf. "So which way do we go?"
 
-"Its nest," Yavren said. "The bow means the nest."
-
-Pelka was wrapping a strip torn from her undershirt around a slice on her calf. "Good. Ask it where to go."
-
-"It's an eagle."
-
-"Then watch."
+Yavren didn't answer. She was watching the eagle.
 
 The bird launched, banked past the eyries, and vanished behind a limestone fin. It returned along the same line, bowing on the boulder once more before repeating the flight.
 
@@ -196,7 +174,7 @@ Yavren followed the line with a hunter's eye. The eagle was not pointing at the 
 
 "For smoke. Maybe not us."
 
-"The gray cliff has a goat crawl on the far side." Pelka tied off the bandage with her teeth. "We found droppings there last autumn. You said we'd check it when the snow went."
+"The fin has a goat crawl on the far side." Pelka tied off the bandage with her teeth. "We found droppings there last autumn. You said we'd check it when the snow went."
 
 Behind them, men shouted as the three detachments fought over the last safe approach. The weir force had begun cutting harness from pack animals before driving them downslope. The road men were replacing iron weights with stones. Ash hunters moved quietly along the upper timber, not toward Yavren now but toward the shepherds evacuating below.
 
@@ -206,7 +184,7 @@ Pelka tested her leg. "If you stop asking. What about your arm?"
 
 Four black plates had fixed themselves beneath Yavren's torn bracer. They pulsed with her heartbeat. On the stone beside her, the shadow of that arm ended in splayed feathers. She flexed her fingers; the feathers closed a moment later.
 
-Every pulse brought another fragment: wind through a high audience slit; an eagle's feet gripping her glove; a map incised into wet clay; a tunnel called the molting cleft, prepared where old talonmail could loosen its burden without breaking the outer mountain.
+Every pulse brought another fragment: wind through a high audience slit; an eagle's feet gripping her glove; a map incised into wet clay; a tunnel called the molting cleft, where old talonmail could shed its spent plates, and its bearer, onto a pale shelf without breaking the outer mountain.
 
 And beneath those fragments, waiting with terrible patience, a plan.
 
@@ -216,7 +194,7 @@ And beneath those fragments, waiting with terrible patience, a plan.
 
 "Before they killed me."
 
-Pelka's face tightened, but she did not argue about the pronoun. She shoved the grouse pie into Yavren's pack. "Eat while we climb."
+Pelka glanced at the plates on her arm and did not argue about the pronoun. She shoved the grouse pie into Yavren's pack. "Eat while we climb."
 
 "I'm not hungry."
 
@@ -238,7 +216,7 @@ There was no more room to outrun it. Plates climbed Yavren's boots and calves. T
 
 Pelka struck at a plate with the wooden handle of her knife.
 
-"Stop," Yavren said. "It takes raised weapons as threat. Put it down."
+"Stop," Yavren said. "It'll follow that knife into you, like the spear. Put it down."
 
 "It's closing over your neck."
 
@@ -248,7 +226,7 @@ Pelka struck at a plate with the wooden handle of her knife.
 
 "Pelka. Rope. Then lower me to the shelf."
 
-Pelka laid the knife flat. Her first pass with the rope missed the buckle. The second went through. She dragged it beneath the advancing plates and cinched it twice.
+Pelka laid the knife flat. Her first pass with the rope snagged on the plates. The second went under Yavren's arms. She dragged it beneath the advancing plates and cinched it twice.
 
 When the talonmail closed over Yavren's skull, memory ceased arriving in pieces.
 
@@ -256,7 +234,7 @@ She stood again in the cleft, a century younger and no younger at all, wearing t
 
 The Eagle Queen was no blood sovereign. She settled grazing limits beneath the eyries, carried the living colony between molts, and made enemies wait where eagles could see them. She refused the warlords. When they bound her on the scaffold, she left a final movement impressed in the colony: wake when I return, open the old fault, travel beneath their keeps, and bring the mountain down through all three crowns.
 
-It was not a command waiting in dead metal. It was an intention remembered by living bodies that had once lain against hers.
+Living bodies that had once lain against hers had carried that intention for a century.
 
 Now it lay against Yavren, intimate as rage.
 
@@ -318,17 +296,17 @@ By morning Yavren was on the western road. Behind her, a feathered shadow crosse
 
 It kept pace with her for eight days.
 
-At the first keep, Pelka brought the weir officer to the gate. He asked his king to dismiss the warrant and open the lower yard to those fleeing the walls. The king ordered his own archers to shoot him. Yavren caught the officer under one arm as talonmail surged through the arrowheads and into the gate hinges. She carried him clear; then she entered alone. The king died trying to drive an iron lance through her throat.
+The weir officer met them on the road on the third day, his men behind him. At the first keep, Pelka brought him to the gate. He asked his king to dismiss the warrant and open the lower yard to those fleeing the walls. The king ordered his own archers to shoot him. Yavren caught the officer under one arm as talonmail surged through the arrowheads and into the gate hinges. She carried him clear; then she entered alone. The king died trying to drive an iron lance through her throat.
 
 The road king offered the armor its weight in silver. When Yavren kept walking, he retreated behind a portcullis and dropped it on her. She stood beneath its grinding teeth until the colony had eaten a gap above her shoulders. His guards fled through it after she passed. She killed him in his counting room. By dusk his crown lay in her pack beside the first.
 
-At night she could no longer sleep on her back. The colony strained against the ground beneath her. Pelka carried the lamp outside once, leaving only moonlight through the open flap, and the dark wings remained spread across the tent floor.
+At night she could no longer sleep on her back. The colony strained against the ground beneath her. Once Pelka pinched out the lamp, leaving only moonlight through the open flap, and the dark wings remained spread across the tent floor.
 
 "Make it fold," Pelka said.
 
 Yavren lifted her hand. The wings folded. "It still follows."
 
-She left the lamp unlit and watched until morning.
+Pelka did not relight the lamp, and Yavren watched the tent floor until morning.
 
 * * *
 
@@ -378,9 +356,9 @@ They crowned her before sunset beside the broken gallery.
 
 The third king's circlet was too wide. Pelka folded a strip of cloth inside it, hands shaking with fatigue, and fitted it above Yavren's brow. Beyond the open doors stood soldiers from all three armies. Their surviving captains had surrendered their seals and gates. The two captured crowns lay at her feet.
 
-When the weir officer knelt and called her Queen of the Valley, Yavren accepted. She made him rise, then ordered the century-old warrants brought into the square and burned. No king remained to renew them. The three houses that had killed her had lost their thrones, and she had taken their kingdom.
+When the weir officer knelt and called her Queen of the Valley, Yavren accepted. She made him rise, then ordered the century-old warrants brought into the square and burned. No king remained to renew them.
 
-From the chapel step she could see the breach in the outer wall, smashed carts, people searching the road for someone who had not come back. There would be days enough to count what she had broken. She would be here for them.
+From the chapel step she could see the breach in the outer wall, smashed carts, people searching the road for someone who had not come back. There would be days enough to count what she had broken.
 
 Pelka touched her wrist. "Yav. Don't move."
 

@@ -16,6 +16,8 @@ At lunch, Bettina put two fingers under her own chin and said, “Like this?”
 
 Bettina tried it. Delsie laughed with a mouthful of sandwich and got bread on her sleeve. It was the first time she had laughed at school without first checking whether somebody was laughing at her.
 
+Bettina, still pulling her toothache face, looked up at Delsie's ears. She looked at them for long enough that Delsie stopped chewing.
+
 “Wait why do you visit a normal school instead of a magic school? I thought demi-humans were inherently magical.”
 
 “Naturally born ones, yes.”
@@ -106,11 +108,11 @@ Bettina was already there, sitting on a bench in the carpeted area beside the fl
 
 “So are you.”
 
-“Yes, but I meant to be. Have you got the money? You pay over there.”
+“I'm always early. My mum drops me on her way to her choir. Have you got the money? You pay over there.”
 
 The boy at the counter asked Delsie's shoe size, gave her brown skates, and took her trainers. It felt wrong to watch them disappear onto a shelf without her. She tied the skates tightly and stood up.
 
-On carpet, they were heavy shoes. Heavy shoes were manageable.
+On carpet, they behaved like heavy shoes.
 
 Bettina took her elbow while they crossed to the entrance in the barrier. “Watch the little step.”
 
@@ -158,11 +160,11 @@ Then Bettina turned toward her and Delsie's left foot veered outward.
 
 “They're bent.”
 
-“More. Like you're sitting down.” Bettina dropped into a squat and rose again, all while moving. “See?”
+“More. Like you're sitting down.” Bettina pulled her arm free, dropped into a squat and rose again, all while moving. “See?”
 
-Delsie had seen. Seeing was not the problem.
+Delsie had seen.
 
-They traveled the length of the barrier with Delsie's right hand dragging along it. Bettina pointed out the drinks counter, the toilets, and three girls from the year above who were gathered near the middle of the floor. One wore an enormous blue skirt that swayed around her knees. Bettina waved. The girl in the skirt waved back.
+They traveled the length of the barrier with Delsie's right hand dragging along it and her left hand clamped on Bettina's sleeve. Bettina pointed out the drinks counter, the toilets, and three girls from the year above who were gathered near the middle of the floor. One wore an enormous blue skirt that swayed around her knees. Bettina waved. The girl in the skirt waved back.
 
 “That's who I told you about. With the video?”
 
@@ -172,7 +174,7 @@ Delsie did not remember a video.
 
 “You showed me lots of things.”
 
-“Well, that was one of them.”
+“She does it going backwards as well. Backwards! And her skirt goes right out, like a lampshade. Her little sister can do it too, but not as well. Don't say I said that.” Bettina twisted round to look at the girl again. “I'll find it for you in a bit.”
 
 They reached the bend. Delsie stopped.
 
@@ -180,7 +182,7 @@ They reached the bend. Delsie stopped.
 
 “I am turning.”
 
-“You're looking at the turn.”
+“You sort of lean.” Bettina leaned, and drifted a little way from the barrier, and Delsie's grip on her sleeve went with her. “And then your feet just go with it. Watch mine. Not the corner. Mine.”
 
 A little girl went past pushing a low wheeled frame. Her father followed, carrying a coat and a bag and a second, smaller coat. The girl had a sparkling purple helmet. Delsie studied the floor until they were gone.
 
@@ -208,7 +210,7 @@ They got around the bend. Delsie let go of the rail for perhaps a second, perhap
 
 “Yes. I heard.”
 
-Bettina pressed her lips together. For a little while she said nothing, and Delsie could hear the wheels against the wood and a singer insisting that tonight was the night. She wished it would be whatever night he wanted so he could stop asking.
+Bettina pressed her lips together. For a little while she said nothing, and Delsie could hear the wheels against the wood and a singer insisting that tonight was the night. She wished it would be whatever night he wanted so he could stop going on about it.
 
 Near the far corner, the girls in the middle began trying a sideways step together. The girl in the blue skirt beckoned to Bettina.
 
@@ -278,7 +280,7 @@ She sat down.
 
 Her phone offered a way out. She could say she was ill. Her guardian would come early, buy something unnecessary in the supermarket while she waited, and take her home. There would be the room where she already knew how to do everything, because she had arranged it that way.
 
-Delsie opened their messages, then closed them. Across the floor Bettina was trying the step again. She was still getting it wrong. She kept trying it beside people who could see.
+Delsie opened her guardian's messages, then closed them. Across the floor Bettina was trying the step again. She was still getting it wrong. She kept trying it beside people who could see.
 
 Delsie took one skate off. A red seam marked her ankle above the sock. The skate looked quite small on the bench beside her. She lifted it, loosened the laces, and put it back on, leaving more room at the top.
 
@@ -296,9 +298,7 @@ Bettina sat at the far end of the bench. She bent to pick a twist of fluff from 
 
 “You could've waved.”
 
-Delsie tugged the ends of her lace unevenly. One loop was long enough to go under a wheel. She undid it.
-
-“I thought you didn't need me for anything.”
+Delsie tugged the ends of her lace unevenly. One loop was long enough to go under a wheel. She undid it. “I thought you didn't need me for anything.”
 
 Bettina frowned. “It was a wave.”
 
@@ -352,7 +352,7 @@ Delsie waited. No explanation of how understandable it was arrived. Bettina's ha
 
 “I mean it. My shoulder hurts.”
 
-Delsie nodded. Bettina rubbed the shoulder, and Delsie felt an unpleasant pinch of guilt. She had not meant to hurt her.
+Delsie nodded. Bettina rubbed the shoulder, and Delsie bent over her laces and did not watch.
 
 “Can you just come around once?” she asked.
 
@@ -360,7 +360,7 @@ Bettina considered. “Slowly?”
 
 “Obviously slowly.”
 
-“You don't have to say obviously. I know now.”
+“I know. I'm not thick.”
 
 Delsie finished tying her skate. This time both loops were short enough.
 
@@ -390,13 +390,13 @@ Bettina skated beside her with both hands clasped behind her back. After a while
 
 Bettina sang it again, much louder and deliberately wrong. Delsie snorted. Her skate wobbled, and she steadied herself against the rail without seizing Bettina. Neither of them mentioned it.
 
-At the bend she offered her left hand, palm upward. Bettina took it. They rounded the corner, inconveniently slow, and Delsie's left skate caught Bettina's right. For one suspended instant both girls stood there with their feet touching, trying to decide which of them should move.
+At the bend she offered her left hand, palm upward. Bettina took it. They rounded the corner, inconveniently slowly, and Delsie's left skate caught Bettina's right. For one suspended instant both girls stood there with their feet touching, trying to decide which of them should move.
 
 “Wait,” Delsie said.
 
 Bettina moved.
 
-They folded down against the barrier, Bettina landing on one knee, Delsie on her bottom. It hurt, but not enough to stop her hearing Bettina make an extraordinary honking noise. She had never heard anyone laugh like that at school.
+They folded down against the barrier, Bettina landing on one knee, Delsie on her bottom. It hurt, but not enough to stop her hearing Bettina make an extraordinary honking noise. She had never heard anyone from school laugh like that.
 
 “Your foot,” Delsie said, with all the dignity she could retain from the floor, “was in my foot's way.”
 

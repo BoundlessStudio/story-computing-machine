@@ -22,9 +22,9 @@ She went, taking their bag. Warren waited until he could see her crouching besid
 
 The battleship stopped.
 
-Its trailing water stopped too, hanging in long, clear columns above the harbor. Candescent's fire spread from her fist toward the ship and stayed there, an enormous orange fork whose nearest point hung over the roof of a fish shop. She hung motionless at its root, one arm extended. The ship's propellers locked in place; after a few seconds of straining noise, someone aboard cut the engines. In the sudden quiet Warren could hear water dripping off someone's bathing cap.
+Its trailing water stopped too, hanging in long, clear columns above the harbor. Candescent's fire spread from her fist toward the ship and stayed there, an enormous orange fork whose nearest point reached over the roof of a fish shop. She was held motionless at its root, one arm extended. The ship's propellers locked in place; after a few seconds of straining noise, someone aboard cut the engines. In the sudden quiet Warren could hear water dripping off someone's bathing cap.
 
-He had never held anything this large. It did not feel different from holding a dropped mug. He looked at the thing, decided how it should move, and it obeyed. Beyond the ship came six armored launches, three flying men, and a woman on a silver disc. Warren caught them as they rose over the breakwater. He left their breathing alone. One of the flying men continued to swear.
+He had never held anything this large. It did not feel different from catching a dropped mug. He looked at the thing, decided how it should move, and it obeyed. Beyond the ship came six armored launches, three flying men, and a woman on a silver disc. Warren caught them as they rose over the breakwater. He left their breathing alone. One of the flying men continued to swear.
 
 “Sir,” Candescent called. “If that's you doing this, I need you to let me finish. His forward cannon is aimed at the hospital.”
 
@@ -34,7 +34,7 @@ Warren could see the hospital windows uphill. He could also see the cannon's muz
 
 She stared at him. He was standing on the bottom step in yellow swimming trunks, still holding a pair of pink goggles. He wished he had put his shirt on.
 
-Mordant began to laugh. “Come up here. Whatever she's paying, I'll double it.”
+Mordant began to laugh. “Come up here, whoever you are. Whatever she's paying, I'll double it. I have a very good cook aboard.”
 
 Warren moved the battleship farther out, gathering its launches underneath it. Then he turned Candescent and the other heroes to face him, suspended beside their enemies above an empty stretch of water. He took the rescue loudhailer from its hook by the lifebelt box and lifted himself above the wall, his bare legs dangling in view. From there he could see every craft.
 
@@ -48,7 +48,7 @@ Mordant cupped his hands around his mouth. “And I am in a hurry.”
 
 Candescent pulled against his hold. The flames around her shoulders whitened. Warren watched them, and they bent away from her body in pale, motionless ribbons.
 
-“You should be with us,” she called, with a new urgency. “You could save thousands of people.”
+“You should be with us,” she called. “You could save thousands of people.”
 
 “I'm not joining you.”
 
@@ -60,7 +60,7 @@ Mordant had ceased laughing. He looked down past his own feet.
 
 “Answer me,” Warren said.
 
-“I understand.”
+“I understand,” Mordant said.
 
 Candescent looked toward the city before she answered. “We'll withdraw.”
 
@@ -84,13 +84,13 @@ He sat down on the wet step, and she waited while he worked at the knot with his
 
 There were tests during the first year. Two gangs believed Warren meant only people in costumes. He helped the police bring the gangs' armored cars to a halt, and the men who had collected money from the fish shops found that their employers would no longer answer their calls. A hero attempted to establish a training base under the name of a sporting association. Warren lifted its practice tower out of the ground and set it beside the inland road, where the hero had to arrange for it to be dismantled.
 
-After that, the danger of provoking him did most of the work. Brackenport's police kept their jobs. They could investigate a threat without an unlicensed flying man carrying their suspect off, or a villain breaking him out before supper. The money once spent repairing battle damage went into homes, treatment, schools. Neighbors had time to become useful to one another. The changes seemed slow to Warren while he lived through them.
+After that, the danger of provoking him did most of the work. Brackenport's police kept their jobs. They could investigate a threat without an unlicensed flying man carrying their suspect off, or a villain breaking him out before supper. The money once spent repairing battle damage went into homes, treatment, schools.
 
 Elvi was thirteen when Candescent next asked to see him. They met at the disused quarry beyond the inland boundary. Warren had brought Elvi because they were going to the cinema afterward, and she sat on a rock choosing sweets out of a paper bag while Candescent unfolded a map.
 
 “Two days a month,” Candescent said. “We'd transport you. You would retain command of every deployment.”
 
-“Who looks after here?”
+“Who looks after things here?”
 
 “I'd stay myself.”
 
@@ -124,7 +124,7 @@ Mordant took a folder from the car and did not open it. “Some of them would be
 
 “By you?”
 
-“By people who are looking for me.” His fingers tightened on the folder. “You could help us. I have things to offer in return.”
+“By people who are looking for me.” He looked at the folder instead of at Warren. “You could help us. I have things to offer in return.”
 
 “I'm not giving you a base.”
 
@@ -140,7 +140,7 @@ He came to look over her shoulder.
 
 By the ninth year, Brackenport was the most peaceful city in the world, and the only one that had gone five years without a single crime. Warren had watched visiting researchers try to find the trick. They knocked on doors, invited confidential complaints, checked records, stayed out late. They went home with sunburn and the same results.
 
-For Warren, the change was most apparent at night. People had begun swimming after dinner, when the sea held the day's warmth. From the ferry steps he heard laughter carrying across the dark water. Children left their bicycles in heaps outside the library. Shopkeepers went next door for a chat with their tills open. A woman stood up at a council meeting and called Warren an obstructive fool because he opposed her marina extension, then asked him to lift a fallen tree off her shed the following week.
+For Warren, the change was most apparent at night. People had begun swimming after dinner, when the sea held the day's warmth. From the ferry steps he heard laughter carrying across the dark water. Children left their bicycles in heaps outside the library. Shopkeepers went next door for a chat with their tills open. A woman stood up at a council meeting and called Warren an obstructive fool because he opposed her plan for a car park on the bowling green, then asked him to lift a fallen tree off her shed the following week.
 
 Elvi grew taller than the mark he had put on the kitchen door for himself. She found friends who liked the same films, acquired a succession of waterproof notebooks, and came home from the beach knowing the names of creatures he had spent forty years calling little crabs. When her university acceptance arrived, he carried her round the kitchen once before remembering that she hated that now.
 
@@ -166,7 +166,7 @@ He sat up. “That was once.”
 
 “It was Tuesday. I was nearly there, and you pulled it past me.” She sat on the end of the bed. “I've been getting faster all summer. I want to see if I can beat you.”
 
-On Tuesday he had laughed until he saw her face. She had hauled herself onto the platform and put her towel over her head. He'd thought she would soon find it funny. Apparently she had been waiting for him to get the joke out of his system.
+On Tuesday he had laughed until he saw her face. She had hauled herself onto the platform and sat with her arms over her head. He'd thought she would soon find it funny. Apparently she had been waiting for him to get the joke out of his system.
 
 “All right,” he said.
 
@@ -174,7 +174,7 @@ On Tuesday he had laughed until he saw her face. She had hauled herself onto the
 
 “Yes.”
 
-At the ferry steps the water was clear enough to show the sand around the bottom rung of the ladder. Two early swimmers were coming in, trailing small disturbances through the harbor's reflection. Elvi put their towels on the wall and twisted her hair into a cap.
+At the ferry steps the water was clear enough to show the sand around the bottom rung of the ladder. Two early swimmers were coming in, trailing small disturbances through the harbor's reflection. Elvi put their towels on the wall and twisted her hair up under her cap.
 
 “If I win, you watch the shark trilogy with me when I come home.”
 
@@ -194,9 +194,9 @@ He shook on it, then followed her down into the cold water. They lined up by the
 
 Elvi counted them off, and Warren lunged forward. For several strokes he could see her cap beside him whenever he turned his head. Then she was ahead. She had a long, unhurried stroke that he remembered teaching her in parts, one arm at a time while she clung to the edge. He tried to go faster. Water came up his nose.
 
-The ladder shone beyond her. He could bring it to himself so easily; Tuesday's absurd little victory returned to him, the platform sliding across the water while he paddled behind it. He reached forward and pulled himself through another armful of sea.
+The ladder shone beyond her. He could bring it to himself so easily; Tuesday's absurd little victory returned to him, the platform sliding past her toward him while he paddled in place. He reached forward and pulled himself through another armful of sea.
 
-By the time Elvi slapped the ladder, he was still close enough to kick her feet. He made a last furious effort anyway. She had climbed onto the bottom rung when his hand struck the metal.
+By the time Elvi slapped the ladder, he was still close enough to touch her feet. He made a last furious effort anyway. She had climbed onto the bottom rung when his hand struck the metal.
 
 “There,” she said.
 
@@ -224,7 +224,7 @@ They went home to shower. An hour later her friends arrived, and Warren carried 
 
 * * *
 
-The coach station stood just inside Brackenport's inland boundary. From its forecourt Warren could see the quarry mouth and, this morning, Candescent waiting beside it. Behind her sat a broad-winged transport and four people in flight harnesses. On the other side of the quarry stood Mordant, two low black gunships, and a van with plated windows.
+The coach station stood just inside Brackenport's inland boundary. From its forecourt Warren could see the quarry mouth and, this morning, Candescent waiting at one side of it. Behind her sat a broad-winged transport and four people in flight harnesses. On the other side of the mouth stood Mordant, two low black gunships, and a van with plated windows.
 
 Elvi followed his gaze.
 
@@ -234,7 +234,7 @@ Elvi followed his gaze.
 
 “You've got twelve minutes.” She took the case from him. “And you still owe me three films.”
 
-He walked down the road. The quarry was out of use and empty apart from the two parties. He stopped by the boundary sign, close enough to speak without carrying his voice.
+He walked down the road. The quarry was out of use and empty apart from the two parties. As he reached the boundary sign, Candescent and Mordant left their escorts at the quarry mouth and came up the track toward him, keeping well apart. They stopped close enough to speak without carrying their voices.
 
 “You shouldn't have brought those.”
 
@@ -246,15 +246,17 @@ Mordant inclined his head toward the transport. “And mine stays between me and
 
 “How did you hear?”
 
-“She won a scholarship. It was in your local paper.” Candescent drew off her gloves. “I'm not trying to frighten you, Warren. I thought this might be a good time to ask.”
+“She won a scholarship. It was in your local paper. So was the day she goes.” Candescent drew off her gloves. “I'm not trying to frighten you, Warren. I thought this might be a good time to ask.”
 
 He had bought six copies of that paper. He remembered them stacked on the kitchen table, Elvi laughing when she found them.
 
-Mordant stepped closer. “I can do rather better than work. I own a house overlooking that university's bay. No rent, no obligations for your daughter. A few obligations for you.”
+Mordant stepped closer. “I can do rather better than work. I own a house overlooking that university's bay. There's a terrace where you can watch the college boats go out in the mornings; I had it repainted this spring. No rent, no obligations for your daughter. A few obligations for you.”
 
-Candescent put herself between them. “He's offering to buy you.”
+Warren thought of the advertisement Elvi had photographed at the coach station, the small boat on the very blue sea, and of Mordant on his terrace watching it go out.
 
-“He has understood the offer without assistance.” Mordant lifted two fingers toward his escorts.
+Candescent put herself between them. “Stay where you are.”
+
+Mordant lifted two fingers toward his escorts.
 
 The gunships rose and came forward. Candescent's people went up to meet them, the transport lifting behind them on its great fans. They were watching one another. All of them were coming toward the road.
 
@@ -272,7 +274,7 @@ He had a clear view of all of it: tons of metal, faces behind glass, the bright 
 
 “And you won't. Either of you.” Warren looked from her to Mordant. “Stay out of my city. Take your weapons away from this road. If I see them pointed here again, I'll put them on the ground in pieces.”
 
-Mordant's face had gone grey above his collar. “All right. We are leaving.”
+Mordant had drawn his feet up, as if the quarry floor might reach for them. “All right. We are leaving.”
 
 Candescent was looking past Warren toward the station. He resisted the urge to turn; he needed to see what he was holding.
 
@@ -282,13 +284,13 @@ Candescent was looking past Warren toward the station. He resisted the urge to t
 
 “You know what you could do.”
 
-He did. He could feel the ease of it, all that weight awaiting his decision. For nine years she had kept asking him, and for nine years people elsewhere had needed her.
+He did. He could feel the ease of it, all that weight awaiting his decision. For nine years she had kept asking him, and for nine years people elsewhere had needed her. Work near the university would mean a flat within walking distance of that bay, and Elvi knocking on Sundays with a bag of washing.
 
 “I'm not joining you,” he said. “I'm not joining him. That's still my answer.”
 
-She shut her eyes briefly. “Then let my people go.”
+She shut her eyes briefly. “Then set my people down.”
 
-He lowered the vehicles and set everyone beside them, facing away from the road. Mordant got into the van at once. Candescent waited until her escort was aboard before following. Warren stayed by the sign until the van had driven out of the quarry and the last aircraft had disappeared over the ridge.
+He lowered the vehicles and stood everyone beside them, facing away from the road. Mordant got into the van at once. Candescent waited until her escort was aboard before following. Warren stayed by the sign until the van had driven out of the quarry and the last aircraft had disappeared over the ridge.
 
 Then he ran back to the station.
 

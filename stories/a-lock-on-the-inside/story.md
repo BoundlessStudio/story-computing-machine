@@ -26,7 +26,7 @@ I had spent three mornings outside her workroom with my petition folded to a str
 
 "I can repay lodging through service until my voice is fully restored. I don't expect a stipend, and if my first week is unsatisfactory, I will leave without dispute. My former master said I was quick once I understood the cost of mistakes. I can also scrub floors, tend fires, carry coal, and sleep in a workroom if the college has no proper bed to spare."
 
-Kethra read my mouth. She was mute, not deaf, though I had made that mistake during our first interview and earned a look sharp enough to pare bark. Now she lifted one hand and signed, slowly for me, "Enough."
+Kethra heard me out. She was mute, not deaf, though I had made that mistake during our first interview and earned a look sharp enough to pare bark. Now she lifted one hand and signed, slowly for me, *Enough.*
 
 Then she pointed down the passage.
 
@@ -38,7 +38,7 @@ That was the first item in the account: one key, one week's lodging, one midday 
 
 The college kitchen had no ceremony in it. A pot of onion stew sat near the banked fire. Kethra ladled two bowls, saw me watching how deeply she filled mine, and added another spoonful. On the table were a green jar of pickles and a red jar of something hotter.
 
-She pointed to both and signed, "Choose."
+She pointed to both and signed, *Choose.*
 
 "Whichever is already open."
 
@@ -46,13 +46,13 @@ Both were open.
 
 I chose green. Kethra pushed the red jar beside it anyway, a small crease at one corner of her mouth. I could not tell if this was humor or an examination of decisiveness, so I ate one of each. The red one made my eyes water. Kethra passed me the water jug and did not pretend not to notice.
 
-Afterward she wrote, *Lesson at second bell. Until then: room, walk, sleep. Do not polish the stair rail.*
+Afterward she walked me to the foot of the second stair and wrote, *Lesson at second bell. Until then: room, walk, sleep. Do not polish the stair rail.*
 
-I glanced at the rail. I had only rubbed one thumb over a patch of tarnish.
+I took my hand off the rail. I had only rubbed one thumb over a patch of tarnish.
 
 Her crease deepened.
 
-The room was larger than the cupboard I had proposed and smaller than anything so costly had a right to be. It held a narrow bed, a washstand, a peg, a table, and a window overlooking a roof crowded with rain-dark chimneys. The door had a keyhole on the corridor side and a plain iron bolt on mine. I shut myself in, slid the bolt, slid it back, and tested the handle. Then I opened the door and checked the passage. No outer bar. No staple for one.
+The room was larger than the workroom floor I had proposed and smaller than anything so costly had a right to be. It held a narrow bed, a washstand, a peg, a table, and a window overlooking a roof crowded with rain-dark chimneys. The door had a keyhole on the corridor side and a plain iron bolt on mine. I shut myself in, slid the bolt, slid it back, and tested the handle. Then I opened the door and checked the passage. No outer bar. No staple for one.
 
 There would be other means, of course. An archmage did not need a piece of iron to keep me where she wanted me. Still, I put the key in the inner pocket of my coat rather than my bundle. The distinction seemed worth recording.
 
@@ -68,9 +68,9 @@ In the second: *Call limit?*
 
 "As many as required."
 
-She turned the slate toward herself, considered my answer, and drew an enormous zero with a throat underneath it. Then she crossed the zero out so hard the chalk squeaked.
+She turned the slate toward herself, considered my answer, and drew a throat with a row of tally marks above it, running off the edge of the slate. Then she struck through the tallies so hard the chalk squeaked.
 
-"I have no set limit," I amended. "My former training did not use one."
+"I have no set limit," I said. "My former training did not use one."
 
 Kethra wrote *One* in the third box.
 
@@ -86,7 +86,7 @@ She nodded, then tapped the lamp.
 
 The exercise was no grander than the room. Kethra chalked a short geometry around the wick, laid two fingers beside the brass node, and set the registered name where I could read it: *Practice Wick, Take Light.* I was to touch the same node, authorize the cell with yes, and speak the whole name on one breath after her ready sign. Her shaping would supply everything but the living call. If I used wait, she would hold. If I used stop, she would end the cell.
 
-She was still drawing the last of this on the slate when the node warmed beneath my fingertips. I gave yes at once.
+She was still drawing the last of this on the slate when I laid my fingers on the node beside hers. It warmed beneath my fingertips. I gave yes at once.
 
 Kethra pulled her hand away.
 
@@ -162,7 +162,7 @@ By the time she followed me upstairs, my shirt and washing cloth were rolled ins
 
 Kethra stopped in the doorway. Her hands moved.
 
-"I can be out before supper," I said. "I know the room has already been prepared, so I will owe for that. If the kitchen needs wood split, I can do it before I go."
+"I can be out before supper," I said. It came out as a rasp, and I had to swallow before the rest. "I will owe for the room. I can split wood for the kitchen first."
 
 She took out her slate. *Why are you leaving?*
 
@@ -172,13 +172,13 @@ She took out her slate. *Why are you leaving?*
 
 "Yes, Archmage. I understand."
 
-Plain annoyance crossed her face. She pointed at the bed, then at the bundle, then spread both hands in a question.
+Her mouth went flat. She pointed at the bed, then at the bundle, then spread both hands in a question.
 
 "I failed the call."
 
 *Cells fail.*
 
-"Callers fail cells."
+"My former master said callers fail cells."
 
 She scowled and wrote, *Why did you force the word?*
 
@@ -186,9 +186,11 @@ She scowled and wrote, *Why did you force the word?*
 
 *You could stop.*
 
-"Not after you had begun spending strength."
+"Not after," I began, and the rest would not come. I swallowed and tried again. "Not after you had begun spending strength."
 
-Kethra made the sign for stop again, large and exact.
+Kethra held the chalk out to me, stub first. I shook my head. Writing would be slower, and she would have longer to decide. She took it back.
+
+Then she made the sign for stop again, large and exact.
 
 "I know the sign."
 
@@ -196,7 +198,7 @@ She pointed to me, then made it once more.
 
 "I could make it," I said. "I did not need to. I nearly had the name."
 
-Her nostrils flared. She wrote more slowly. *Did the call hurt when you practiced it?*
+She scrubbed the slate clean with her palm and wrote more slowly. *Did the call hurt when you practiced it?*
 
 "Only the usual amount."
 
@@ -204,17 +206,17 @@ The chalk stopped.
 
 *Usual?*
 
-I had found the useful part at last. "My voice has failed before, and I recovered it. The first time took nine days. The second took twelve, but I had a fever then. This time I was put out before I could finish recovering, so the road delayed it. With shelter and regular work, I expect to be serviceable sooner."
+I had found the useful part at last. "My voice has failed before. The first time it took nine days. The second took twelve, but I had a fever. This time I was put out before I had finished recovering. With shelter I expect to be serviceable sooner."
 
 Kethra did not blink.
 
 "I am not asking you to overlook a permanent defect."
 
-She set the slate down on the washstand with care. Her hands began to sign, then stopped. She picked it up again. *Put out where?*
+She set the slate down on the washstand with care. Her hands began to sign, then stopped. She picked it up again. *Put out?*
 
-"Of the practice room. Of the house, afterward."
+"Of the practice room, once he unlocked it. Of the house, afterward."
 
-*Practice room was locked?*
+*Locked?*
 
 "Only when a set was unfinished."
 
@@ -222,31 +224,31 @@ She set the slate down on the washstand with care. Her hands began to sign, then
 
 "The corridor side."
 
-All the color left Kethra's face. For one foolish instant I thought the failed cell had injured her more seriously than she had shown.
+Kethra went still. Her free hand closed around nothing, as it had in the workroom when the cell collapsed. For one foolish instant I thought the failed cell had injured her more seriously than she had shown.
 
-"It was not a punishment every time," I said quickly. "Sometimes it was merely so I would not be distracted by meals. If I spoiled a line near supper, it was sensible to finish the copy before eating. If it took until morning, then breakfast was near enough."
+"It was not a punishment every time," I said. "If I spoiled a line near supper, it was sensible to finish the copy before eating." My voice had sunk almost to a whisper. I pushed the rest out anyway. "If it took until morning, then breakfast was near enough."
 
 Kethra's mouth opened. Her hands, usually quicker than any answer, hung at her sides. She backed into the washstand hard enough to rattle the basin.
 
-I pressed on because I had persuaded Kethra once. If I kept speaking, perhaps I could do it again. "I am used to long hours. I worked three weeks with two fingers bound and did not spoil another holding line. When I asked to stop, I was given simpler copies until I learned not to ask. That is why I agreed quickly today. I thought you valued readiness."
+I pressed on because I had persuaded Kethra once. If I kept speaking, perhaps I could do it again. "I worked three weeks with two fingers bound and did not spoil another holding line." I held up my left hand and bent the two fingers to show her how well they worked. "When I asked to stop, the set went longer. I learned not to ask. I thought you valued readiness."
 
-Kethra's grip tightened on the slate. The chalk broke between her fingers. She flung the piece aside, took another, and wrote, *He did this? Your master?*
+Kethra's grip tightened on the slate. The chalk broke between her fingers. She flung the piece aside, took another, pointed at my hand, and wrote, *He did this? Your master?*
 
-"He corrected it. Mostly. My hand is sound now."
+"It was a correction. The fingers healed straight."
 
-Her signs came so fast that I lost even the nouns. *Master* flashed once. *Wrong.* Something fierce about a door. Her hands cut the space between us, and her expression had become terrible.
+Her signs came so fast that I lost most of the nouns. *Master* flashed once. *Wrong.* Something fierce about a door. Her hands cut the space between us, and her expression had become terrible.
 
 I stepped back until the bed frame touched my calves. "I did not accuse him."
 
 Kethra stopped.
 
-"I only explained the training. He threw me out when my voice made the exercises unprofitable. I should have told you before today's lesson, but I thought nine days sounded like an excuse. I can take correction. I don't want you to think I came here to speak badly of him."
+"I only explained the training. He threw me out when my voice made the exercises unprofitable. I should have told you about the nine days before the lesson. I thought it would sound like an excuse. I can take correction."
 
 The slate slipped from Kethra's hand and struck the floor flat. She looked at me, at the key on the table, at the open doorway behind her. Then she looked at her own hands.
 
 She backed into the passage.
 
-For several breaths she stood beyond the threshold, leaving the whole width of the doorway clear. When she came in again, it was only one step. She set the slate on the floor between us and crouched to write where I could read without approaching her.
+For several breaths she stood beyond the threshold, leaving the whole width of the doorway clear. When she came in again, it was only one step. She crouched, drew the fallen slate into the space between us, and wrote where I could read without approaching her.
 
 *My anger was at him.*
 
@@ -272,13 +274,13 @@ Kethra waited too.
 
 "I wanted to stay," I said.
 
-Something in her face changed, not softened exactly. She sat down in the doorway and took the new archmage seal from her pocket. On a clean slip of paper she wrote my room number and seven days of board, then pressed the seal into a pool of blue wax. She put the sealed slip beside the key.
+Something in her face changed, not softened exactly. She sat down in the doorway and took the new archmage seal from her pocket. On a clean slip of paper she wrote my room number and seven days of board, then pressed the seal into the paper, hard, until the college device stood up in relief. She put the sealed slip beside the key.
 
 The account would not balance. I checked it twice anyway.
 
 She pointed to the workroom below, then crossed her hands.
 
-"No more magic today," I said.
+"No more magic today, unless you require it," I said.
 
 Her eyebrows rose, asking rather than praising.
 

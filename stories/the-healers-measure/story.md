@@ -30,9 +30,9 @@ Around them, eleven other pairs reset the intake lanes. They were healers from v
 
 Rhoswen picked up her iron. It was a plain forearm-length bar wrapped in cord, heavy enough to punish a lazy wrist. "He was bleeding."
 
-"He was complaining, too," Fremda said. "Neither is a mortal sign."
+"Look behind you," Fremda said.
 
-"I wasn't complaining," Demech said. "I was reporting with feeling."
+Rhoswen looked again. The barb had gone into the straw patient's chest, where a heart would be.
 
 Fremda pointed at the lane. "Reset. Talder repeats after supper."
 
@@ -90,35 +90,35 @@ Fremda set the cloths down. "How many?"
 
 "I don't need iron in here."
 
-"How many breaths until you could?"
+"How many breaths until you could hold it?"
 
 Rhoswen hated the question because she knew the answer. She counted while the orchard worker told Demech that a ladder had kicked him. At fourteen, her thumb stopped jumping.
 
-Fremda made no speech. She wrote fourteen on the slate beside Rhoswen's name.
+Fremda wrote fourteen on the slate beside Rhoswen's name.
 
 The first autumn stripped leaves from the chapterhouse lindens and leather from the trainees' palms. Winter froze the practice yard into ruts. Candlemere did not shorten the loaded marches. It issued cleats and added time for boot repair.
 
-At the winter gate, Rhoswen and Demech carried forty pounds each up the east track, crossed a ditch, and entered the screened lanes with their breath already ragged. Snowmelt ran beneath the wicker. The pulse-thorn moved where they could not see it.
+At the winter gate, Rhoswen and Demech carried forty pounds each up the east track, climbed the log wall, and entered the screened lanes with their breath already ragged. Snowmelt ran beneath the wicker. The pulse-thorn moved where they could not see it.
 
-Demech took the first guard. Rhoswen dragged the weighted patient to the red marker. They exchanged positions on his raised fist: his guard held; she could prepare to take it. She counted six, set her iron, and felt the working catch.
+Demech took the first guard while Rhoswen dragged the weighted patient to the red marker. There he raised a fist to show he was still holding, so she could ready her own iron to take over. She lifted her iron and felt the working catch.
 
 Then a concealed hook sliced Demech's calf.
 
-It was part of the gate, though the blood was real. He slapped his palm over the cut and said, "Surface. Still walking."
+It was part of the gate, though the blood was real. His bar dropped into the snow. He slapped his palm over the cut and said, "Surface. Still walking."
 
 Rhoswen saw bright red leaking between his fingers. She saw dirt at the wound edge, the shortening of his step, the small pinch beside his mouth. In the village clinic she would never have left it. She planted the iron point in the snow, caught his ankle, and poured warmth into the torn flesh.
 
 "Rhos. Enough."
 
-The cut closed slowly. She chased the last seep. Demech swore and reached for her abandoned bar just as the first thorn struck.
+The cut closed slowly. She chased the last seep. Demech swore and reached for his fallen bar just as the first thorn struck.
 
 She broke contact. One, two, three—
 
 "Don't," Demech said.
 
-She grabbed the iron on five. The guard flashed crookedly and died. Pain needled up both arms. For a moment she could not remember which marker was red.
+She snatched her own iron out of the snow on five. The guard flashed crookedly and died. Pain needled up both arms. For a moment she could not remember which marker was red.
 
-Demech held the lane alone while she knelt in the snow, staring at her shaking fingers. He turned one strike and then another. The third caught the weighted patient's chest. The bell rang.
+Demech, his bar up again, held the lane alone while she knelt in the snow, staring at her shaking fingers. He turned one strike and then another. The third caught the weighted patient's chest. The bell rang.
 
 Afterward, Demech limped into the reconstruction room and dropped his wet glove on the table.
 
@@ -130,9 +130,11 @@ Afterward, Demech limped into the reconstruction room and dropped his wet glove 
 
 "You couldn't see the cut."
 
-"Neither could you. Not after you put your head down."
+Demech lowered himself onto the bench with the hooked leg held straight and took his time about it. "I said enough. You had your head down and you kept going, like I was the straw one."
 
-Fremda laid three pieces of chalk beside the glove. She did not tell them to be quiet. She waited until they noticed her waiting.
+Rhoswen folded her hands in her lap.
+
+Fremda laid three pieces of chalk beside the glove and waited until they noticed her waiting.
 
 "Talder," she said, "what could he do?"
 
@@ -140,7 +142,7 @@ Rhoswen looked at the floor plan scratched into the tabletop. "Walk. Hold pressu
 
 "Demech, what could she do after the healing?"
 
-He glanced at Rhoswen's hands. The tremor had stopped, but she had folded them in her lap. "Nothing useful for twenty breaths."
+He glanced at Rhoswen's hands. The tremor had stopped, but she kept them folded. "Nothing useful for twenty breaths."
 
 "Seventeen," Rhoswen said.
 
@@ -148,7 +150,7 @@ He glanced at Rhoswen's hands. The tremor had stopped, but she had folded them i
 
 Fremda pushed the chalk toward them. "Mark where each of you spent the other."
 
-They rebuilt the failure one decision at a time: the missed signal, the lowered iron, the wound that could have waited, the early switch that bought neither healing nor guard. By the time they finished, the evening lamps had been lit.
+They rebuilt the failure one decision at a time: the ignored warning, the lowered iron, the wound that could have waited, the early switch that bought neither healing nor guard. By the time they finished, the evening lamps had been lit.
 
 Rhoswen's winter score put her into the standard extra quarter. Eleven names were posted with hers. Demech passed the gate, though not highly enough to leave their practice group.
 
@@ -172,11 +174,11 @@ Fremda made them stand at opposite ends of the lane while water streamed from th
 
 "The part where neither of you understood anything."
 
-They reduced the signals until no gesture needed fingers or subtlety. A fist held high meant *I hold the guard*. A flat palm meant *wait where you are*. An arm chopped once across the body meant *switch*. For a timed cover, each open-handed strike against the chest promised five safe breaths, where the movement remained visible through rain. Demech disliked losing his low sweep, so Rhoswen made him shout about holes like everyone else.
+They reduced the signals until no gesture needed fingers or subtlety. A fist held high meant *I hold the guard*. A flat palm meant *wait where you are*. An arm chopped once across the body meant *switch*. For a timed cover, each open-handed strike against the chest promised five safe breaths. They chose the chest strike because the whole arm moved, and it could be seen through rain. Demech disliked losing his low sweep, so Rhoswen made him shout about holes like everyone else.
 
 She learned his kind of work in return. They carried sacks, practice bodies, and eventually each other. Demech shifted her stance by inches, made her settle weight over the back foot, and taught her to rise under a loaded shoulder without wasting her legs in the first ten steps. Rhoswen taught him the difference between blood that looked frightening and blood that stole strength. He continued to call tendons ropes when he wanted to annoy her, which was often.
 
-The extra quarter was not a revelation. It was eighty-three mornings, thirteen split boot seams, and a pale groove worn into the cord of her iron. Rhoswen worked clinic shifts after drills. She mended buckles because damaged gear waited for no one's exhaustion. She failed the ice carry, passed it on the second attempt, then failed the dusk switch by one breath. Some days improvement meant only that Fremda corrected her twice instead of five times.
+The extra quarter was eighty-three mornings, thirteen split boot seams, and a pale groove worn into the cord of her iron. Rhoswen worked clinic shifts after drills. She mended buckles at night, tired or not, because broken gear still had to be ready for the morning march. She failed the ice carry, passed it on the second attempt, then failed the dusk switch by one breath. Some days improvement meant only that Fremda corrected her twice instead of five times.
 
 On the last rain gate, Demech cut his palm. Rhoswen saw the blood, judged the grip still sound, and kept her iron up. He guarded after her switch. They moved the patient together. At the finish his glove was red.
 
@@ -186,21 +188,21 @@ She reached for it as soon as the lane closed.
 
 Fremda moved Rhoswen's name out of the extra-quarter column. She ranked seventh in a group of twelve.
 
-During the second year, the corrections grew farther apart. That did not make the days shorter. Rhoswen walked patrol roads with senior pairs, cleaned iron after wet clearings, restocked clinic drawers, and reported every time her recovery count changed. Once, beside a flooded cart track, she held a guard while another healer reduced a carter's shoulder. The man's shouting made every part of her want to turn. She watched the thorn hedge instead. Once she felt the first flutter of overdraw at five breaths and passed the iron to Demech without pretending she had six. Once he missed a swelling beneath a patient's ear, and she made him examine it again without calling him a fool until after supper.
+During the second year, the corrections grew farther apart, and the days stayed as long. Rhoswen walked patrol roads with senior pairs, cleaned iron after wet clearings, restocked clinic drawers, and reported every time her recovery count changed. Once, beside a flooded cart track, she held a guard while another healer reduced a carter's shoulder. The man's shouting made every part of her want to turn. She watched the thorn hedge instead. Once she felt the first flutter of overdraw at five breaths and passed the iron to Demech without pretending she had six. Once he missed a swelling beneath a patient's ear, and she made him examine it again without calling him a fool until after supper.
 
 That summer Demech earned an extra quarter of his own by choosing a fast route through a flooded-ground gate and stranding both bearers knee-deep. He blamed a clump of reeds until the next morning, then redrew the route.
 
-Their pack weights rose. Their times did not always improve. The work became less dramatic as they became better at it.
+Their pack weights rose. Their times did not always improve.
 
 In their twenty-seventh month, Rhoswen and Demech were assigned the autumn capstone together.
 
-The live clearing lay below the chapterhouse wall, where a pulse-thorn had rooted into an abandoned stone channel. Every autumn group worked a piece of it under supervision. Their task was ordinary: enter behind Fremda's outer guard, reach the channel marker, remove a weighted casualty, and clear the lane. Candidates had rung the withdrawal bell before. Candidates had repeated the capstone the following season. The names of both sorts were posted in the same square hand.
+The live clearing lay below the chapterhouse wall, in the old quarry cut that had given the wall its stone, where a pulse-thorn had rooted. Every autumn group worked a piece of it under supervision. Their task was ordinary: enter behind Fremda's outer guard, reach the marker in the cut, remove a weighted casualty, and clear the lane. Candidates had rung the withdrawal bell before. Candidates had repeated the capstone the following season. The names of both sorts were posted in the same square hand.
 
 Rain had softened the bank to brown paste. Demech tested it with his heel. "Left side will go."
 
-"Then don't use it," Fremda said.
+Fremda looked at the slope. "Today?"
 
-"I enjoy these advanced lessons."
+"If somebody stands on it. There's gravel under the right. We go in that way."
 
 The first section went cleanly. Fremda held the thorn's outer pulse while Rhoswen and Demech moved inside it. He called the footing; she took the forward guard. Iron beat against her palm in steady, unpleasant blows. At the marker they found the weighted figure half under a root shelf.
 
@@ -208,7 +210,7 @@ Demech crouched to rig the carry strap.
 
 The bank went anyway.
 
-Mud and stone struck Rhoswen's hip. Her knee buckled, but the stance Demech had rebuilt for two years gave backward instead of sideways. She kept the iron between them and the thorn. When she could see again, Demech lay waist-deep in the collapsed channel. A slab pinned his left boot. Blood darkened his trouser leg above it.
+Mud and stone struck Rhoswen's hip. Her knee buckled, but the stance Demech had rebuilt for two years gave backward instead of sideways. She kept the iron between them and the thorn. When she could see again, Demech lay on the floor of the cut in the fallen spill, loose mud heaped against his side. Only his left boot was held, pinned under a slab. Blood darkened his trouser leg above it.
 
 Beyond the wicker screens, someone reached for the withdrawal bell.
 
@@ -230,11 +232,11 @@ The joke came too quickly. His next breath ended halfway.
 
 Rhoswen looked without lowering the iron. The blood spread steadily but did not leap with his pulse. His skin held its color. He could answer, press the wound, and complain. Treatable. Not first.
 
-The channel wall shifted again. Demech slapped a flat palm toward her: wait. Then he pointed above his trapped boot. "Slab's wedged under the root. Lift me wrong, it rolls inward. Take the dirt on my right."
+The wall of the cut shifted again. Demech slapped a flat palm toward her: wait. Then he pointed above his trapped boot. "Slab's wedged under the root. Lift me wrong, it rolls inward. Take the dirt on my right."
 
 She obeyed his terrain read. One-handed, still guarding, she kicked and scraped a shelf beside his hip. The thorn battered her iron. The hum climbed into her teeth.
 
-Fremda raised a fist: she held the outer guard. Then she struck an open hand against her chest four times.
+Fremda took one hand off her iron and raised a fist: she held the outer guard. Then she struck the open hand against her chest four times.
 
 Twenty safe breaths of cover.
 
@@ -270,7 +272,7 @@ Rhoswen hauled him free.
 
 There was no graceful way to shoulder a wet man in armor. He knocked his chin against her helmet and called her something muffled. She got beneath his right arm, settled his weight over her hips as they had practiced with sacks and bodies and each other, and rose without spending her legs at once. The weighted figure stayed under the root shelf. The exercise had ended when the bank fell; now they had a real casualty to extract.
 
-Fremda took the outer line. Rhoswen kept her iron forward in one hand and Demech upright with the other. Step, set, receive the strike. Step, set, breathe. His weight dragged at the repaired seam in her shoulder strap. The wound seeped against her side. It could seep for twelve more steps; his hand still pressed it, and his answers stayed clear. Rhoswen left it alone and kept the guard. Demech was conscious. Demech was helping. Demech was not the only life in the lane.
+Fremda raised her iron over the outer approach again and took the carry line in her free hand. Rhoswen kept her iron forward in one hand and Demech upright with the other. Step, set, receive the strike. Step, set, breathe. His weight dragged at the repaired seam in her shoulder strap. The wound seeped against her side. It could seep for twelve more steps; his hand still pressed it, and his answers stayed clear. Rhoswen left it alone and kept the guard. Demech was conscious and helping.
 
 At the steep patch he lifted two fingers against his chest.
 
@@ -290,13 +292,13 @@ Rhoswen knelt and put her hands to his leg.
 
 Demech spent six days in the chapterhouse clinic and another three weeks on light duty. The slab had cracked two bones in his foot. The wound above his knee needed stitching after Rhoswen's field closure was opened and cleaned. None of this made the notice board.
 
-The capstone results did. Three candidates qualified. One had withdrawn and would repeat in spring. Rhoswen's name appeared between two others in the same square hand Fremda used for clinic inventories.
+The capstone results did. Three candidates qualified. One had withdrawn and would repeat in spring. Demech was listed as deferred for injury, to resit when his foot allowed. Rhoswen's name appeared between two others in the same square hand Fremda used for clinic inventories.
 
 Fremda called her into the equipment room, where rain ticked on the narrow windows and forty iron bars waited for oil.
 
 "Why didn't you heal him when the bank fell?" Fremda asked.
 
-Rhoswen had answered versions of the question for twenty-seven months. This time she did not search for the answer Fremda wanted. "He could hold pressure. You couldn't hold both growths for long. I needed the lane before he needed me."
+Rhoswen had answered versions of the question for twenty-seven months. "The bleed wasn't pulsing. He could hold pressure, and he was still answering me. You were holding the outer growth by yourself."
 
 "And after?"
 
@@ -306,7 +308,7 @@ Fremda looked at her hands. They were steady. "Good."
 
 She signed the qualification line and passed the page across.
 
-Rhoswen read it twice. There was no commendation attached, no mention of the bank, no new rank beyond the one she had trained for. The form assigned her to an ordinary road rotation with a senior witchknight and gave the date of her first refresher gate.
+Rhoswen read it twice. There was no commendation attached. The form assigned her to an ordinary road rotation with a senior witchknight and gave the date of her first refresher gate.
 
 When she came out, Demech was waiting on a bench with his foot splinted and her healer's bag beside him.
 

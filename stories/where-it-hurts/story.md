@@ -14,7 +14,7 @@ Dovran gave me his hat and asked whether, if the knight struck him, I would tell
 
 “Think of something. I'm about to be busy.”
 
-He took the hat back, pulled out its feather, and gave it to me again. He had bought the feather that morning. Already its preservation required two people.
+He took the hat back, pulled out its feather, and handed me the hat again. He had bought the feather that morning. Already its preservation required two people.
 
 I laughed. In the inside pocket of my coat was a ticket for the evening coach, bought before he woke. My pack was waiting at the booking yard. I had paid for a winter room inland, with a window that shut and no gap between the bed and the wall, and I had not told him any of this. We had been travelling together for four years. I wanted one more pleasant afternoon with him.
 
@@ -26,7 +26,7 @@ Frascot was taking challengers in a roped square between the horse pens and the 
 
 Dovran had watched two bouts decided by surrender before a blow landed. He had disliked the second surrender in particular.
 
-“At least let him try,” he'd whispered to me. “You've put on all those buckles.”
+“He could at least have let Frascot swing at him,” he'd whispered to me. “After all those buckles.”
 
 “You go, then.”
 
@@ -94,7 +94,7 @@ Dovran swallowed. Somebody beyond the rope said they couldn't see any blood.
 
 “We don't.”
 
-“Yes, thank you, I gathered it was the sword.” He took his hat from me and pushed it onto his head without putting the feather back. “Can you stop it?”
+“Yes, thank you, I gathered it was the sword.” He took his hat from me and pushed it onto his head without putting the feather back, then turned to Frascot. “Can you stop it?”
 
 Frascot shook his head.
 
@@ -110,7 +110,7 @@ He wiped his palm on his breeches, then used that hand to steady the scabbard wh
 
 “I'm done,” Frascot told him.
 
-Dovran was trying to sheath his own sword and missing. I held the scabbard still for him. He let me, though he wouldn't look at me.
+Dovran was trying to sheathe his own sword and missing. I held the scabbard still for him. He let me, though he wouldn't look at me.
 
 “You call this better than cutting someone?” I said.
 
@@ -196,8 +196,6 @@ He leaned forward to read it, his face close enough that I saw the dust caught i
 
 “That's now.”
 
-“Not quite.”
-
 He stood back. I folded the ticket along its existing crease.
 
 “I'm going inland for the winter,” I said. “I've found a room. Well, it's been found for me. I've paid the first month. It's not far from the coach stop.”
@@ -250,9 +248,9 @@ He nodded several times. I hated that more than if he'd shouted.
 
 “You mustn't think this is because—”
 
-“I heard you. You bought it this morning.”
+“Because of the sword? I heard you. You bought it this morning.”
 
-“I meant because of you.”
+“I meant you mustn't think it's because of you.”
 
 “Oh. Well. That's a relief.”
 
@@ -326,7 +324,7 @@ We had sat with the map between us while he drew little boats in the margins. On
 
 “I liked sitting there,” I said. “With you.”
 
-“So did I. I was planning a journey.”
+“I liked it too. I thought I was planning a journey.”
 
 I put the ticket away. It had begun to soften where I was holding it.
 

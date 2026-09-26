@@ -54,7 +54,7 @@ By the time the sun touches the wash rim, you have uncovered one edge and a hing
 
 “Empty,” Zumi says, panting.
 
-“Air,” you correct.
+“Air,” you say.
 
 “Mine was first.”
 
@@ -70,9 +70,9 @@ This is not one of your rules. Zumi watches you see that.
 
 “Then tell me why quickly.”
 
-“Because you enjoy a speech while falling down a hole.”
+“Only you would want a reason halfway down a hole.”
 
-“That is inherited from your father.”
+“You get that mouth from your father.”
 
 Her smile arrives despite herself. She takes the chalk from your kit and draws the return mark on the underside of the hatch: a long white stroke hooked toward daylight. Her line is too thick, but you do not fix it.
 
@@ -86,9 +86,7 @@ Zumi squeezes past you to look. “For grain?”
 
 “For keeping something out.”
 
-“Same door, depending where you stand.”
-
-You expect her to answer, but she is counting. Two handles on the inner wall. Two black boxes above them. Two rows of pegs, each with the same pale number painted underneath. Beyond the door, two benches face each other across a passage.
+You let that stand. She isn’t waiting for an answer anyway; she is counting, the way she has counted catches ever since the glass mill. Two handles on the inner wall. Two black boxes above them. Two rows of pegs, each with the same pale number painted underneath. Beyond the door, two benches face each other across a passage.
 
 “Pairs,” she says.
 
@@ -108,11 +106,7 @@ At the first crossing, Zumi puts down another hooked mark.
 
 “Neither are lost people.”
 
-“Lost people use less chalk.”
-
-“They do after.”
-
-You have no answer that will not reward her, so you choose the left passage.
+You choose the left passage without answering.
 
 Yellow signs begin beyond the crossing. Each bears a black seed surrounded by three broad black leaves, though no plant ever grew that way. Under one, letters remain sharp enough to sound out: CAUTION. RADIATION AREA.
 
@@ -134,7 +128,7 @@ The three leaves turn around their black seed whichever way you tilt your head. 
 
 Zumi laughs hard enough that her echo laughs after her. Then a fleck of ceiling dust falls through the light, and both of you look up.
 
-The next room holds clothes no living body would choose. Yellow skins hang from pegs, collapsed at the knees, with thick hand-shapes and boots joined to them. Round windows cloud their hoods. One has split along the shoulder, showing a softer lining inside. On the wall, a row of pictures shows a bare figure raising its arms under falling water, turning, raising them again. Arrows herd the water toward a drain in the floor.
+The next room holds clothes no living body would choose. Yellow skins hang from pegs, collapsed at the knees, with thick hand-shapes and boots joined to them. Round windows cloud their hoods. One has split along the shoulder, showing a softer lining inside. On the wall, a row of pictures shows a bare figure raising its arms under falling water, turning, raising them again.
 
 You do not cross the threshold.
 
@@ -168,9 +162,7 @@ The numbered doors preserve only emptiness. Behind 17 are racks with straps and 
 
 “That isn’t a length.”
 
-“It is when you have cleaned up after people.”
-
-She rolls her eyes, but she studies the cups. Every clip has a twin.
+You shrug. She rolls her eyes, but she studies the cups. Every clip has a twin.
 
 The oil lowers toward the second scratch.
 
@@ -208,7 +200,7 @@ The use of her name does what the first order did not. She returns the object to
 
 “So are earwigs.”
 
-She turns; her shadow climbs your chest and face. She says nothing.
+She turns her face out of the lamplight and says nothing.
 
 On the opposite wall, under a skin of clear material, colored lines branch through a drawing of the rooms. A red arrow points to a small block. YOU ARE HERE, the letters say. You know the words but not how the arrow could know.
 
@@ -234,11 +226,11 @@ Zumi traces farther in. Most of the lines end in small rooms. One broad line rea
 
 You take the black jaw from its hook.
 
-It is heavier than it looks. The upper end fits your ear with a closeness that makes you understand Zumi's joke was not wholly a joke. You wait.
+It is heavier than it looks. The upper end fits your ear with a closeness that makes you understand Zumi’s joke was not wholly a joke. You wait.
 
 No voice comes. There is not even the sea-noise of a shell. Only the hard press of the thing against your skin and, inside your own head, your pulse.
 
-Zumi does not smile. That kindness is worse than teasing.
+Zumi does not smile.
 
 You replace the jaw gently. “One room.”
 
@@ -252,7 +244,7 @@ It is a map of shorelines, perhaps, but no shore you know. Pale land-shapes floa
 
 Zumi looks from the map to you. “What weather?”
 
-“Storm counting. Flood paths.”
+“Storm counting. Hail tracks.”
 
 “Underground.”
 
@@ -298,37 +290,29 @@ Zumi puts her palm over the nearer red cover.
 
 You look at her chalk-whitened fingers. “Move your hand.”
 
-“You said paired catches are paired for a reason.”
+“Up,” she says. “I say up.”
 
-“I said that about spring traps.”
+“In a moment. Move your hand, and then we go up.”
 
-“You said it after the glass mill.”
+“You said paired catches are paired for a reason. You said it at the glass mill. We didn’t know until it cut the mill apprentice.”
 
-“Which had springs.”
+The apprentice’s missing fingertip is a joke to everyone except when they remember the blood.
 
-“We didn't know until it cut the mill apprentice.”
+“This is dead, Zumi,” you say. “The clocks have stopped. The doors stand open. That black jaw didn’t make a sound in my ear. Nothing down here has moved since before anybody’s grandmother.”
 
-The example lands badly in the sealed room. The apprentice's missing fingertip is a joke to everyone except when they remember the blood.
+“The hatch hadn’t.”
 
-“This has not moved since before anybody's grandmother,” you say.
+You can order her aside. You can haul her back by the belt, as you did at the crack, though she will kick and the lamp will spill and every sensible rule you have ever made will lie broken around you. Zumi knows this. Her mouth is pinched. Her eyes are wet, either from dust or fury, and she keeps her hand where it is.
 
-“The hatch hadn't.”
+“No,” she says again. “You don’t get first judgment on my hands.”
 
-“The hatch was a door.”
-
-“After you opened it.”
-
-You can order her aside. You can lift her by the waist, as you did at the crack, though she will kick and the lamp will spill and every sensible rule you have ever made will lie broken around you. Zumi knows this. Her mouth is pinched. Her eyes are wet, either from dust or fury, and she keeps her hand where it is.
-
-“You don't get first judgment on my hands,” she says.
-
-Somewhere in the corridor, metal ticks once under the lamp's small warmth. Both of you turn toward the sound. The room offers nothing after it. No glass brightens. No clock resumes. The black windows hold your lamp in dozens of small, warped reflections.
+Somewhere in the corridor, metal ticks once under the lamp’s small warmth. Both of you turn toward the sound. The room offers nothing after it. No glass brightens. No clock resumes. The black windows hold your lamp in dozens of small, warped reflections.
 
 “Oil,” you say.
 
 Zumi does not move.
 
-“I don't know what this room does,” you say. The words feel larger than they ought to, six common stones that will not stack neatly. “I know we're leaving it alone.”
+“I don’t know what this room does,” you say. “I know we’re leaving it alone.”
 
 Her hand comes off the cover.
 
@@ -346,17 +330,19 @@ That is not the whole thing she asked. It is enough for her to take.
 
 Zumi leads.
 
-At the first crossing she chooses left, though your body insists on right. She counts two doors and stops before the third. On the wall ahead, EXIT points into darkness.
+The lamp reaches the final scratch. Its flame shortens whenever you walk too quickly, so you learn Zumi’s pace: four fast steps, a pause at each crossing, her finger drawing the remembered map against her thigh. She takes you back past the closet under EXIT, then 19, 18, 17. Beyond the last numbered door she points without slowing.
+
+“That’s the washing room. I put dots there.”
+
+The hooked chalk stroke has blurred around the door frame. Beneath it sit two dots.
+
+You pass under the yellow signs. At the first crossing she turns right, though your body insists on left.
 
 “Our marks are the other way,” you say.
 
-“That's the washing room. I put dots there.”
+She keeps walking. When the lamp reaches the corner, her hooked stroke is there on the wall, bent the way she went.
 
-The hooked chalk stroke has blurred on a pipe behind you. Beneath it sit two dots.
-
-You follow her left.
-
-The lamp reaches the final scratch. Its flame shortens whenever you walk too quickly, so you learn Zumi's pace: four fast steps, a pause at each crossing, her finger drawing the remembered map against her thigh. She takes you past 19, 18, 17. She finds the corridor of paired benches. At the great door, your first hooked line shines on the wall.
+You follow her right. She finds the corridor of paired benches. At the great door, her thick hooked line shines on the wall.
 
 Only there does she look back to see whether you are watching.
 
@@ -382,7 +368,7 @@ Zumi watches until the mark is finished. Then she takes the chalk from your fing
 
 “It may be a glass mill.”
 
-You look at the two meanings crossed on the dark metal. Any other finder would curse the contradiction. They would stop. They would call someone over. They would argue before lifting the ring.
+You look at the two meanings crossed on the dark metal.
 
 You leave both marks.
 

@@ -40,7 +40,7 @@ He ate the peas individually. Brightguard watched the last one disappear, then b
 
 Maledict intended to recoil from his enemy’s touch. Pickle’s ears, traitorous structures, leaned into her fingers. The spot was astonishing.
 
-He could correct course. The response key lived in the home office, keyed to Brightguard’s pulse but transportable when she wore it. Pickle normally fetched her left wrist guard at the emergency tone. Maledict had arranged an emergency. At nine, drones would begin peeling the municipal archive’s roof like the lid from a tin.
+He could correct course. The response key lived in the home office, keyed to Brightguard’s pulse but transportable when she wore it. At the emergency tone, Pickle fetched her left wrist guard from the office, though never on the first request; the office floor hummed, and he made her ask twice. Maledict had arranged an emergency. At nine, drones would begin peeling the municipal archive’s roof like the lid from a tin.
 
 Until then, he had only to behave like a dog.
 
@@ -80,6 +80,8 @@ EXCHANGE PRESERVES TWO LIVING OCCUPANTS. NO BLEND. NO COPIES. NO DELETIONS.
 
 DEFAULT RETURN: FOURTEEN HOURS.
 
+OCCUPANT HOLD: COLLAR RIVET, CANINE SIDE ONLY.
+
 There were two more lines beneath a black security strip. The butler tried a lamp, a polarized lens, and a document scanner. The strip remained black.
 
 Pickle’s attention shifted to the apartment door. The human body bounced once on the balls of its feet, then glanced back.
@@ -96,7 +98,7 @@ At eight fifty-seven, Brightguard’s alarm gave three rising notes.
 
 Maledict sprang from the heated oval bed in the living room and sprinted for the office. At last, the plan.
 
-“Guard, Pickle.”
+“Guard, Pickle,” Brightguard called after him.
 
 He crossed the office threshold. A low electrical hum prickled through his paws, unpleasant but tolerable. Brightguard stopped fastening her field harness.
 
@@ -108,7 +110,7 @@ He kept going. The left wrist guard lay in its charging cradle beside the respon
 
 Maledict turned. Brightguard stood in the doorway with one silver brow up.
 
-The correct behavior, apparently, was not to enter the room containing the thing he needed. He backed onto the hall runner.
+He had skipped the part where Pickle refused. He backed onto the hall runner and looked reluctant.
 
 “That’s more like you.” She pointed at the guard. “Can you bring it?”
 
@@ -168,7 +170,7 @@ Maledict woke at eleven forty with his chin on the robot’s soft bumper.
 
 ***
 
-The service garden occupied the skyscraper’s fifty-sixth floor, a strip of turf between solar fins. Pickle-in-Maledict’s-body refused shoes but consented to socks after the butler rolled each one over a human foot slowly enough to be inspected. The suit was impossible. He found a black tracksuit in the private gym.
+The service garden occupied the skyscraper’s fifty-sixth floor, a strip of turf between solar fins. Pickle-in-Maledict’s-body refused shoes but consented to socks after the butler rolled each one over a human foot slowly enough to be inspected. The suit was impossible. The butler found a black tracksuit in the private gym.
 
 “This arrangement is temporary,” he told the head of security through the closed garden door. “Mr. Maledict is unavailable.”
 
@@ -192,11 +194,11 @@ At four hours and forty-five minutes elapsed, he searched Maledict’s planning 
 
 The butler returned to the residential suite. Pickle was sitting at the secured elevator, one human hand resting on the seam.
 
-“Home?” the butler asked.
+The butler crouched beside him. “Home?”
 
 Pickle looked at him, then at the door.
 
-“Yes,” he said. “I believe so.”
+“Yes,” the butler said, mostly to himself. “I thought as much.”
 
 ***
 
@@ -222,7 +224,7 @@ Maledict selected blue because blue was the color of dominion.
 
 He removed his paw.
 
-“And you’ve never forgiven the mail carrier, but you let her scratch your ears this morning. You slept through the blender. You went into my office.” Brightguard sat back on her heels. “You know commands you shouldn’t and forget things you love.”
+“And you’ve never forgiven the mail carrier, but you let her scratch your ears this morning.” Brightguard thumbed up his lip and checked his gums. Then she sat back on her heels. “What is going on with you?”
 
 Maledict pressed OUT with emphasis.
 
@@ -256,11 +258,11 @@ Brightguard gripped the counter until the composite edge creaked. When she spoke
 
 “Understood.”
 
-“How long?”
+“Can it be undone?”
 
 “The device indicates automatic return at nine this evening. Fourteen hours after exchange.” The butler glanced aside. “There are concealed instructions I have not yet opened.”
 
-Maledict found Pickle’s text tablet docked beneath the communication mat. Its large keys were meant for Brightguard’s gloved hands. He pawed laboriously:
+Maledict found Brightguard’s field tablet docked beside the communication mat. Its keys, built for gloved hands, were just wide enough for a paw. He pawed laboriously:
 
 THIS IS A DEEPFAKE.
 
@@ -278,7 +280,7 @@ Maledict began typing a threat. Brightguard opened the beef pouch.
 
 He lost his place.
 
-The journey to the skyscraper required a ventilated carrier, because Brightguard did not fly with unsecured passengers. Maledict refused to enter until she lined it with Pickle’s lemon-yellow sofa blanket. He then discovered a cooling vent at nose height and spent the flight with his chin on folded fleece, watching the Tri-City Area stream beneath him.
+The journey to the skyscraper required a ventilated carrier, because Brightguard did not fly with unsecured passengers. Maledict, with nothing left to pretend, lay flat on the green harness until she buckled him into the blue. He refused the carrier, too, until she lined it with Pickle’s lemon-yellow sofa blanket. He then discovered a cooling vent at nose height and spent the flight with his chin on folded fleece, watching the Tri-City Area stream beneath him.
 
 The butler kept Pickle on the residential side of the laboratory door, away from the body that had been taken from him. Brightguard moved back and forth: checking the device with the butler, sitting on the floor with Pickle, bringing Maledict measured snacks so he could not claim starvation and could not eat himself sick. Maledict meant to use those hours to recover command of the situation. The tower supplied warmed towels, a silent brush with flexible rubber teeth, and braised beef whose preparation had once occupied a chef through an entire hostage negotiation.
 
@@ -296,9 +298,9 @@ Brightguard knelt beside Pickle. The human body was exhausted from being strange
 
 “You’re going home,” she said. “Then the vet, then your own bed.”
 
-Pickle tugged at the padded blue harness Brightguard had put on the dog body across the room. Maledict bared Pickle’s teeth.
+Pickle lifted his head and stared across the room at the blue harness on his own body. He whined. Under the worktable, Maledict bared Pickle’s teeth.
 
-“Green tomorrow,” Brightguard said without turning. “I heard you.”
+“Green tomorrow,” Brightguard told Pickle, her hand still moving on his back. “I heard you.”
 
 The butler had exposed the hidden writing with heat from the console’s own vent. He read it again. “The automatic return is intact. When the dial reaches fourteen hours, each occupant returns to the body in which the exchange began. No memory or identity transfer beyond that movement.”
 
@@ -310,11 +312,11 @@ He pressed the rivet three times.
 
 The console struck nine o’clock and went violet.
 
-Pickle jerked against Brightguard. Maledict remained a dog. The dial cleared and printed 01:59:59.
+Pickle jerked against Brightguard. Maledict remained a dog. The dial cleared and printed OCCUPANT HOLD 01:59:59.
 
 The butler leaned over it. His composure narrowed to a white line around his mouth. “You’ve engaged the occupant hold, sir.”
 
-Maledict went to the text tablet on the floor.
+Maledict went to the field tablet Brightguard had brought so he could answer questions.
 
 I REJECT REVERSAL.
 
@@ -326,11 +328,11 @@ THE BODY SUITS ME.
 
 I HAVE CONQUERED IT.
 
-Brightguard picked up the tablet before he could continue. “No. Pickle gets Pickle. You can choose what happens to you.” She handed the tablet to the butler. “Find that choice.”
+Brightguard picked up the tablet before he could continue. “No. Pickle gets Pickle.” She passed the tablet to the butler. “Read me the rest of the instructions.”
 
 Maledict barked at her. The sound had more outrage than menace. From the mat, Pickle barked back using Maledict’s human lungs—one rough, startling syllable—then hid his face against Brightguard’s side.
 
-The butler traced the concealed lines below the instructions. The violet light had made more text visible.
+The butler set the tablet on the floor and traced the concealed lines below the instructions. The violet light had made more text visible.
 
 “The hold suspends return,” he said. “It opens a two-hour finalization window. At expiry, the present exchange becomes fixed.”
 
@@ -342,11 +344,11 @@ Maledict stopped barking.
 
 The butler read silently for several seconds. “Recast returns both occupants first. It then reshapes only the initiating body—your body, sir—around its restored occupant. The dog’s body and occupant are excluded. The change is irreversible and requires continuous confirmation from you after you are human again.”
 
-Maledict took the tablet.
+Maledict pawed the tablet toward himself.
 
 DOG?
 
-“An available template,” the butler said.
+“An available template,” the butler said, and indicated a small key on the console marked DOG.
 
 WITH BED?
 
@@ -356,7 +358,7 @@ Maledict typed:
 
 SNACKS ALSO.
 
-“Pickle’s bed is Pickle’s. Pickle’s snacks are Pickle’s. Pickle’s home is Pickle’s.” Brightguard unsealed her helmet and set it aside. “If you recast yourself, the butler remains responsible for you and your operation gets dismantled. I’ll supervise temporary containment because I have the space and because he”—she rested a hand on Pickle’s borrowed shoulder—“comes first there. Separate bed. Separate bowls. No office. If Pickle wants you across the room, you go across the room.”
+“Pickle’s bed is Pickle’s. Pickle’s snacks are Pickle’s. Pickle’s home is Pickle’s.” Brightguard unsealed her helmet and set it aside. “Recast yourself, and you sleep in my living room, where I can see you.” She rested a hand on Pickle’s borrowed shoulder. “He comes first there. Separate bed. Separate bowls. No office. If Pickle wants you across the room, you go across the room.”
 
 The butler folded his hands behind his back. “I will manage your legal affairs, salaries, surrendered equipment, and restitution. If you remain in Pickle’s body, I notify emergency services now.”
 
@@ -378,7 +380,7 @@ Maledict sat. Pickle’s tail swept once across the plate before he mastered it.
 
 The laboratory waited. Beyond the glass, three cities burned in the harmless colors of traffic and office lights. Brightguard checked the timer, checked Pickle’s breathing, and said nothing.
 
-At last Maledict pressed DOG.
+At last Maledict stood on his hind legs and pawed the DOG key.
 
 The console offered a rotating field of canine forms. He nosed past anything resembling Pickle and stopped at a deep-chested black dog with long legs, upright ears, and a small gray patch under the chin. Distinct silhouette, distinct coat, no white forepaw.
 
@@ -386,7 +388,7 @@ The console offered a rotating field of canine forms. He nosed past anything res
 
 Maledict selected the form.
 
-The butler placed Pickle on the human plate and Maledict on the canine one. “Restoration first. You will wake in your own body, sir. If you remove your hand from the confirmation field, recast stops before alteration begins. Once alteration begins, releasing your hand will not reverse it. Do you understand?”
+The butler led Pickle to the human plate and placed Maledict on the canine one. “Restoration first. You will wake in your own body, sir. If you remove your hand from the confirmation field, recast stops before alteration begins. Once alteration begins, releasing your hand will not reverse it. Do you understand?”
 
 YES.
 
@@ -414,7 +416,7 @@ Maledict looked at the paperwork waiting on three screens, at his butler, and at
 
 “Will the heated bed be of equivalent quality?”
 
-“It will be appropriate to your size.”
+“It will be appropriate to your size,” the butler said.
 
 Maledict kept his hand down.
 

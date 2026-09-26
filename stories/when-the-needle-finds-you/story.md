@@ -18,7 +18,7 @@ At midnight, every radio in the garage clicked on.
 
 Sivra’s receiver had no plug. She had pulled it months ago. Its dial still rolled by itself until the needle found the pirate frequency, and a trumpet played three bright, stupid notes.
 
-“Good midnight,” said the Crimson Jester. His voice was velvet laid over a drain. “Yesterday has kept its appointment. Shall we hear who tomorrow loves enough to murder?”
+“Good midnight,” said the Crimson Jester. His voice was velvet laid over a hook. “Yesterday has kept its appointment. Shall we hear who tomorrow loves enough to murder?”
 
 The record dropped.
 
@@ -38,7 +38,7 @@ The woman’s ruined car ticked as its engine cooled. Sivra took her keys from t
 
 * * *
 
-She found Olt late in the afternoon, fifteen hours later, asleep in the office above a shuttered tire shop. She had searched three betting rooms, two women who hated him, and a freight yard where a loader tried to sell her the wrong brother. The city had spent the day listening with its windows open. Every hour the Jester replayed a little more of Olt’s scream, then aired a clipped confession from someone Olt had once selected for him.
+She found Olt late in the afternoon, sixteen hours later, asleep in the office above a shuttered tire shop. She had searched three betting rooms, two women who hated him, and a freight yard where a loader tried to sell her the wrong brother. The city had spent the day listening with its windows open. Every hour the Jester replayed a little more of Olt’s scream, then aired a clipped confession from someone Olt had once selected for him.
 
 Olt woke under Sivra’s hand with a pistol against his cheek.
 
@@ -60,43 +60,39 @@ His eyes went still before the rest of him did. Then he laughed too quickly. “
 
 “I know your voice with teeth missing.”
 
-“That’s a sentence I never hoped you’d need.”
-
 Sivra dragged him up by his collar. “Shoes.”
 
 The dead radio on the office shelf snapped alive.
 
-“A revision,” the Jester said, almost pleased. The new groove hissed beneath him. “Our guest has chosen his sister. Predictable, but touching. Olt, the woman from room six is waiting where you broke your glass. She would like you to remember her.”
+“A revision,” the Jester said, almost pleased. The new groove hissed beneath him. “Our guest has let his sister collar him. Predictable, but touching. Olt, the woman from room six is waiting where you broke your glass. She would like you to remember her.”
 
 Olt stared at the receiver. “He knew you’d come.”
 
-“It was here.”
+Sivra lifted the radio’s cord. The bare plug swung beneath the shelf. “Nobody plugged it in, Olt.”
 
-“You always bring the worst thing in the room and call it equipment.” He shoved his bare feet into boots. “Back stairs. Now.”
+He stared at the plug. Then he shoved his bare feet into boots. “Back stairs. Now.”
 
-Olt hurried down the back stairs, Sivra at his heels. At the bottom he veered toward the parts counter.
+Olt hurried down the back stairs, Sivra at his heels with the radio’s strap hooked over her belt. At the bottom he veered toward the parts counter.
 
-A rasping voice rose from beside the inspection pit. “Too late to run.”
+“I chained the back door,” said a rasping voice beside the inspection pit.
 
 The woman who stepped into view was near Sivra’s age. Old fire had drawn the left side of her face tight and glossy, lifting that corner of her mouth into a permanent expression of disgust. In her good hand she carried a short chopping blade.
 
 “Room six,” Olt said.
 
-“Still counting better than you.”
+“Six years and nineteen days,” the woman said.
 
 Sivra looked at Olt’s cut palm. “You took his blood.”
 
-“He put his hand through a bottle when I told him I’d lived. I kept the rag.” The woman touched the burned seam of her cheek. “I took the rag, his ledger, and the thing I saw him do to the Jester.”
+“He put his hand through a bottle when I told him I’d lived.” The woman touched the burned seam of her cheek. “I took the Jester the rag he bled into, his ledger, and what I watched him do.”
 
 “That book was mine,” Olt said, offended before he became afraid.
-
-“It was everybody’s.”
 
 He swept a second pistol from beneath the parts counter and fired. The bullet tore through the meat of the woman’s upper arm. A thumb-sized plug of flesh slapped the lift behind her, and the arm dropped uselessly.
 
 She came at him anyway.
 
-Sivra caught the chopping wrist before the blade reached Olt’s throat. The woman twisted, thinking Sivra had chosen her brother, and the edge opened Sivra’s forearm from elbow to palm. Skin spread. A pale flexor tendon lifted into the cut like a wet cable, and her last two fingers folded uselessly.
+Sivra caught the chopping wrist before the blade reached Olt’s throat. The woman twisted, and the edge opened Sivra’s forearm from elbow to palm. Skin spread. A pale flexor tendon lifted into the cut like a wet cable, and her last two fingers folded uselessly.
 
 Pain emptied the bay of everything except weight.
 
@@ -110,7 +106,7 @@ Sivra had heard that delay on the record.
 
 She took the pistol and hooked it into her belt, then pinned Olt against the truck with her shoulder. The scarred woman leaned on the lift, blood running from both sides of her ruined arm.
 
-“The old tenement,” she said. “The service culvert under it reaches the Baths. You want his studio, that’s your door.”
+“The old tenement,” she said. “There’s a coal tunnel under it that comes up in the Baths. You want his studio, that’s your door.”
 
 “Why tell us?” Sivra asked.
 
@@ -118,21 +114,21 @@ She took the pistol and hooked it into her belt, then pinned Olt against the tru
 
 Olt clutched his hand to his chest. “She’s fucking insane.”
 
-“Yes,” the woman said. “You left me in a furnace. It affected my manners.”
+“Yes,” the woman said. “You left me in a furnace.”
 
 * * *
 
 Sivra wrapped her arm in a mechanic’s shirt, cinched it with a cargo strap, and drove one-handed. The scarred woman sat beside her with her shot arm tied against her chest. Olt folded himself against the passenger door, making a raw animal sound each time the truck hit a seam in the road.
 
-“Hospital,” he said.
+“Take me to him,” he said. “He’ll deal for the pages. He always deals.”
 
 “After the tenement,” the woman told him.
 
-“You’re leaking into your boot.”
+“You’re leaking into your boot,” Olt said.
 
-“Your concern is a rash. It’ll pass.”
+She shut her eyes at the next seam and did not answer.
 
-The radio crackled, and the Jester read the first address from Olt’s ledger. He followed it with six words of a confession—a dying man admitting that he had emptied his mother’s medicine into the sink. The street number meant nothing to Sivra. Olt knew it. He shoved his mutilated hand under his opposite armpit and rocked.
+The radio crackled. “Sunset is such a long wait,” the Jester said, and read the first address from Olt’s ledger. He followed it with six words of a confession—a dying man admitting that he had emptied his mother’s medicine into the sink. The street number meant nothing to Sivra. Olt knew it. He shoved his mutilated hand under his opposite armpit and rocked.
 
 “You told me you found monsters,” Sivra said.
 
@@ -142,9 +138,7 @@ The radio crackled, and the Jester read the first address from Olt’s ledger. H
 
 “From everybody. Fuck, I didn’t interview the neighborhood.”
 
-The scarred woman gave a laugh that hurt her arm. “You interviewed me.”
-
-Olt slapped blood onto the fogged side window and wrote with the blunt gap of his hand: MASTHEAD BATHS.
+Olt glanced at the radio. Then he slapped blood onto the fogged side window and wrote with the blunt gap of his hand: MASTHEAD BATHS.
 
 Sivra looked at him.
 
@@ -154,41 +148,35 @@ Sivra looked at him.
 
 “Bad people. Mostly. People already halfway dead.”
 
-On the radio, the Jester inhaled with mock delicacy. “Olt, you wound me. There is no halfway. That is why the ending sounds so clean.”
+On the radio, the Jester inhaled with mock delicacy. “Olt, you wound me. Say it again, nearer the dash. I want that little wobble.”
 
-Olt struck the dashboard until the stump bled through its wrapping. “You said this thing wasn’t listening.”
+Olt struck the dashboard until the stump bled through its wrapping. “He can hear us. He can fucking hear—”
 
-“Everything’s listening.”
+Sivra reached under the dash and tore the radio’s wires loose. The speaker went on hissing.
 
-“I gave him your blood,” the scarred woman said. “Room six gave it back. I gave him the ledger too.”
+“I gave him your blood,” the scarred woman said. She had to stop and breathe. “And the book.”
 
 Olt stopped hitting the dash. “And what did you call the truth?”
 
-“I watched you bolt the rear doors. You poured fuel down the front stairs. You saw me crawl out through the coal hatch and ran.”
+“I saw you bleed the dealer in room four into a jar while he slept. I watched you bolt the rear doors. You poured fuel down the front stairs. You saw me crawl out through the coal hatch and ran.”
 
 “Lying cunt,” Olt whispered.
 
-“The Baths’ surface doors are poured shut,” the woman said. “The service culvert starts under the old tenement. We go through the fire room.”
+“The Baths’ surface doors are poured shut,” the woman said. “We go in through the fire room.”
 
-“Drive there,” Olt told Sivra at once. “I can show you. No bodies, no locks. She’s one of his pets.”
+“She’s one of his pets,” Olt told Sivra at once. “There’s nothing in that cellar. No bodies, no locks. The Baths have a loading door. I’ve used it.”
 
-“You said the building was empty.”
+“Six years ago you told me that block was cleared.”
 
-“It was. That’s what I’m saying.”
+“It was. That’s what I’m saying.” He leaned toward her, gray with pain. “You want to save me or hold court? You’ve got maybe an hour of blood left for either.”
 
-“You just said no bodies.”
+Sivra angled the truck toward a clinic. Olt saw the turn and grabbed the wheel. “Not a fucking clinic, he’s reading me out, Siv—” The truck mounted the curb, sheared off a mirror, and nearly folded itself around a light standard before she tore his hand away. Beneath the shouting, the record changed. For nine seconds the tooth sounds vanished; in their place, Olt died of glass in his throat.
 
-“Same fucking thing.” He leaned toward her, gray with pain. “You want to save me or hold court? Because you can only do one with that arm.”
+“Possibility remains generous,” the Jester said, and turned another page.
 
-Sivra angled the truck toward a clinic. Olt saw the turn and grabbed the wheel. The truck mounted the curb, sheared off a mirror, and nearly folded itself around a light standard before she tore his hand away. Beneath the shouting, the record changed. For nine seconds the tooth sounds vanished; Olt died instead to glass entering his throat.
+Until sunset he read the ledger a page at a time, giving each address and withholding each name. Olt offered the scarred woman money, then protection, then the promise that Sivra would leave her beside the road. She did not answer him. Sivra drove past Masthead Baths to see for herself. Every door, the loading door included, was a gray slab of poured concrete.
 
-“Possibility remains generous,” the Jester said. “But at sunset I turn the next page.”
-
-For three hours the Jester opened the ledger a page at a time, giving each address and withholding each name. Olt offered the scarred woman money, then protection, then the promise that Sivra would leave her beside the road. She answered him only when his directions to the tenement were wrong.
-
-At full dusk, Sivra drove toward it.
-
-He mistook that for belief.
+At dusk, Sivra drove to the tenement.
 
 * * *
 
@@ -206,19 +194,15 @@ She knew aftermath. She knew the sweet rancid odor released when old fire damage
 
 Eleven.
 
-Her own memory supplied the rest: Olt loading fuel tins into her truck; Olt saying the block had been cleared; a dull pounding under the roar after she lit the stair rubbish. She had asked him what it was. Pipes, he’d said. Drive.
+The rest she had always known and kept folded shut: Olt loading fuel tins into her truck; Olt saying the block had been cleared; a dull pounding under the roar after she lit the stair rubbish. She had asked him what it was. The boiler, he’d said. Drive.
 
 She had driven.
 
 Olt’s light wandered across the dead. “They were extorting everybody on the row. Dealer in room four cut a boy’s face. You don’t know what they were.”
 
-“Adults,” Sivra said.
+Sivra lowered her light to the fingernails in the door and held it there.
 
-“That’s not what I mean.”
-
-“Alive.”
-
-“Siv, I needed the witness gone. The rest wouldn’t leave. What was I supposed to do, knock on every door?”
+“Siv, I needed the witness gone. What was I supposed to do, knock on every door?”
 
 The word *witness* reached Olt a moment after he said it. His face collapsed.
 
@@ -228,7 +212,7 @@ Olt kicked the corpse mass. One fused arm broke at the elbow. “Fuck you. Fuck 
 
 Sivra seized him by the throat and held him against the fire door. She could kill him there. The certainty felt clean enough to rest inside.
 
-Then the radio played the motor, the needle, her own breathing. Answers waited under Masthead Baths, and they had cost eleven people more than Olt’s neck.
+Then the radio played the motor, the needle, her own breathing. The record did not end in this cellar. It ended beside that motor under Masthead Baths, and she still needed Olt to get there.
 
 She released him.
 
@@ -236,7 +220,7 @@ She released him.
 
 Sivra switched the radio off. This time it stayed off.
 
-The woman’s knees buckled. She sat against the welded door, her makeshift sling black with blood. “Culvert’s behind the old boiler wall. Red lever, then the ladder.”
+The woman’s knees buckled. She sat against the welded door, her makeshift sling black with blood. “Tunnel’s behind the old boiler wall. Red lever, then the ladder.”
 
 “Come with us,” Sivra said.
 
@@ -246,7 +230,7 @@ Sivra set the receiver beside her. The woman put her good hand over it as if hol
 
 * * *
 
-Sivra and Olt entered Masthead Baths through the old tenement’s service culvert at eleven thirty-eight. Olt had remembered the route after all. He had lied because the only way to the studio passed the dead.
+The coal tunnel took hours, most of it on hands and knees. Twice Sivra came to on her face in the dark with Olt’s boots ahead of her. He never once felt for a turn. They climbed into Masthead Baths at eleven thirty-eight.
 
 The drained pool opened below them, tiled walls dropping into darkness. A red bulb burned beneath the deep-end ladder. Under it, a steel hatch stood open.
 
@@ -276,11 +260,9 @@ He lowered a fine playback needle. The speakers gave them the pump motor, Sivra�
 
 “But we changed it,” Sivra said.
 
-“Repeatedly. Room six nearly cut his throat. He nearly bled empty in your cab. I heard every revision.” The Jester’s smile showed small, immaculate teeth. “I promised her a broadcast confession if she brought me blood and the ledger. I opened its pages until Olt had to come shut my mouth. She forced him through the one door he would never choose, and you kept him alive for me. Prediction is such a frail animal. One must keep breaking its legs in the desired direction.”
+“Repeatedly. Room six nearly cut his throat. He nearly bled empty in your cab. I heard every revision.” The Jester’s smile showed small, immaculate teeth. “All she asked in trade was a confession on air. Prediction is such a frail animal. One must keep breaking its legs in the desired direction.”
 
-“You make them happen.”
-
-“I make them true. The city prefers verbs that wash their hands.”
+Sivra looked past him at the shelf of sleeved membranes. Her good hand settled on the pistol.
 
 The Jester turned the microphone toward Olt. “One plain fact buys you the right to propose an alternative.”
 
@@ -336,7 +318,7 @@ The Jester kept one hand on the faders. With the other, he held the microphone c
 
 “There,” he whispered. “No splice. No lie. Tell them you heard the truth, Sivra.”
 
-She could hear their own broadcast returning through his headphones, a thin echo delayed by one heartbeat. Olt’s death had already gone out live. The Jester had wanted her voice as witness. Olt had wanted her body as payment. Both had mistaken what she was still willing to carry.
+She could hear the broadcast returning through his headphones, a thin echo delayed by one heartbeat. Olt’s death had already gone out live.
 
 Sivra seized the jointed cutting arm and swung it off Olt.
 
@@ -356,17 +338,17 @@ His body slid down the console, pulling half the switches with it.
 
 The transmitter took Olt’s completed death and threw it across the city. The motor’s belt snapped. A bank of tubes flared white. Sound struck Sivra hard enough to rupture something inside her left ear. Breakers slammed down, leaving half the console dark and the red broadcast lamp alive.
 
-She crawled to the hatch, but the old pool motor had torn loose from its mounts. Masonry had dropped across the passage, sealing the culvert behind her.
+She crawled to the hatch, but the old pool motor had torn loose from its mounts. Masonry had dropped across the passage, sealing the tunnel behind her.
 
 Olt’s death began again. The Jester’s falling hand had caught a repeat switch.
 
 Sivra crawled back to the desk, shoved his body clear, and killed the loop. The studio clock read eleven fifty-seven. One channel still showed a signal. The microphone lay between the Jester’s broken teeth.
 
-Sivra sat between her brother’s opened body and the Jester’s red coat. She tightened the strap above her elbow with her teeth. Her left ear heard only a high, unbroken tone; her right heard the small sounds the dead continued making as metal cooled and blood found drains.
+Sivra sat between her brother’s opened body and the Jester’s red coat. She tightened the strap above her elbow with her teeth. Her left ear heard only a high, unbroken tone; her right heard the small sounds the dead continued making as metal cooled and blood found the low places.
 
 She wiped the microphone on the Jester’s lapel and opened it.
 
-“Masthead Baths,” she said. “Pump room under the drained pool. Bring cutters for the culvert and a stretcher to the old tenement south of here. Rear cellar. Welded fire door. Eleven bodies.”
+“Masthead Baths,” she said. “Pump room under the drained pool. Bring cutters and a stretcher to the old tenement south of here. Rear cellar. Welded fire door. Eleven bodies.”
 
 Her voice came back through the surviving monitor, blurred but hers.
 

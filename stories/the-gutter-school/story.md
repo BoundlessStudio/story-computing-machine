@@ -118,7 +118,7 @@ I came down the steps grinning so hard my cheeks hurt.
 
 Peltrude stood at the bottom, rolling her sleeves above her elbows.
 
-“I saw,” I told her.
+“I see what those are for,” I told her.
 
 “Good.” She pulled the last fold tight.
 
@@ -129,8 +129,6 @@ While the other quarterfinals finished, I watched Hadrum win his. He kept a larg
 I ate the heel of bread I'd saved for supper. It had lint on it. I picked off the biggest piece and decided that winners could eat early.
 
 Peltrude won her quarterfinal without once touching the boards with her heels. She balanced forward, raised her left palm, and drove her opponent backwards with air until he could hardly take a step. Then she eased the wind, followed him in, and scored.
-
-I could see why she had rolled up her sleeves.
 
 “No cuffs today?” I asked when we faced each other.
 
@@ -178,7 +176,7 @@ I stopped retreating. My knees folded and I swung left around the planted foot. 
 
 I came up inside her arm and slapped her patch.
 
-The returning wind hit me as the caller shouted. My hold broke. I landed on my backside with one boot sole hanging by its heel.
+The returning wind hit me as the caller shouted. My hold broke. I landed on my backside with my right foot folded under me. Its sole had torn loose and hung by the heel.
 
 “Touch! Fennit!”
 
@@ -212,7 +210,7 @@ She sat beside me to watch him fight.
 
 Hadrum won, of course. This opponent tucked both hands close to avoid the cuff hold, so he used a sharp sideways gust to turn her, then stepped across her path and scored before she could face him again.
 
-He hadn't even had to kneel down afterwards.
+He hadn't even had to sit down afterwards.
 
 When we went up for the final, he bowed to me first. The crowd had packed so close that the caller had to clear the steps. Somewhere behind all those heads waited the yellow purse. I tried to see it and found myself staring at Hadrum instead.
 
@@ -260,7 +258,7 @@ He moved his arm out of reach. Air squeezed my extended coat cuff, holding it to
 
 The crowd made one long disappointed noise.
 
-I hadn't meant to give him both arms. The coat bit under my armpits. Its tied-back fronts kept the whole garment on me while his two grips held the cuffs out wide. My patch was uncovered, practically offered up.
+The coat bit under my armpits. Its tied-back fronts kept the whole garment on me while his two grips held both cuffs out wide. My patch was uncovered, practically offered up.
 
 He came in at once.
 
@@ -314,8 +312,8 @@ I tucked the purse inside my vest and kept one hand over the lump.
 
 “Before that.”
 
-Peltrude folded her arms. “You can wait. I'm first.”
+Peltrude folded her arms. “I'm first.”
 
-I looked at them, these two people who wanted another chance at me, and took my time answering.
+I looked at them and took my time answering.
 
 “You can draw for it,” I said. “I'm going to eat.”

@@ -10,7 +10,7 @@ canon: false
 
 The crown was old caulking rope, tar-black and stiff enough to scrape Orselle Vuret's brow when they pushed it down over her gray hair.
 
-Someone had tied seven limp ribbons to it and stuck a bent copper nail through the front. Mallowbreak laughed because launch-day misrule required laughter, and because their god of sound workmanship could enter the shipyard by no other title.
+Someone had tied seven limp ribbons to it and stuck a bent copper nail through the front. Mallowbreak laughed because launch-day misrule required laughter, and because they had crowned the one shipwright in town barred from the yard.
 
 "Mind the sacred tar," called a cooper from the launch apron. "It might improve her judgment."
 
@@ -20,11 +20,7 @@ Orselle stood outside the white boundary scored across the yard gate. Four years
 
 Rulik Saal watched from beside the new herring boat's bow, wearing the yard foreman's blue sash. When the rope crown went around for each volunteer to touch, he folded his arms.
 
-Sileth Nemm, keeper of the rite, rapped a driftwood staff against the stones. "If you're going to do it, do it in order. Mockery doesn't excuse bad observance."
-
-"That's why we chose Vuret," somebody said.
-
-"Quiet while I read."
+Sileth Nemm, keeper of the rite, rapped a driftwood staff against the stones. "If you're going to do it, do it in order. Mockery doesn't excuse bad observance. Quiet while I read."
 
 At Sileth's feet stood the brine clock: seven green-glass vessels on a cedar rack, each sealed until she turned it. Together they measured fifty-seven minutes. Orselle had repaired the rack when she was still welcome here. The third vessel always dripped down its left side in wet weather.
 
@@ -42,7 +38,7 @@ That taste had lived under everything for eighty-six years: breakfast, fever, bl
 
 Sileth waited.
 
-The crowd did too. They were choosing to attend. Not forgiving her, but seeing together the thing they had named.
+The crowd did too. They were choosing to attend.
 
 "I bear it."
 
@@ -80,23 +76,23 @@ Sileth had gone pale. She crouched beside the cedar rack, thumbing through the s
 
 "Not that one."
 
-"I had gathered."
+Sileth did not answer. She read the headings under her breath, lost her place, and started the page again.
 
 The first vessel gave a hollow gulp. Sileth turned the second.
 
-They tested the command with an empty punt. Orselle told the water under its bow to rise the breadth of Ossa's thumb, then settle. It did both. She said, "Let go," meaning the punt, and every north-quay mooring jumped slack while the water drew an inch from the wall.
+They tested the command with an empty punt. Orselle told the water under its bow to rise the breadth of Ossa's thumb, then settle. It did both. She said, "Let go," meaning the punt, and the whole north quay dropped an inch. Moorings jerked taut. Two parted.
 
 "Not that phrase again," Ossa said. "North quay, retie the fish boats. Confirm each one."
 
-"It obeys the noun it can supply," Orselle said. Her own voice sounded thin beside the pressure in her chest. "And the widest measure allowed by my words."
+"I didn't say what," Orselle said. Her own voice sounded thin beside the pressure in her chest. "So it dropped the whole quay."
 
-"Then use more words."
+"Then say what. Every time."
 
 Rain freckled the apron. Beyond the harbor mouth, the storm darkened the sea to hammered lead. The new herring boat waited on its greased ways while the tide pressed against the outer stones.
 
 Rulik came off the lighter last. "Port bilge's clear."
 
-Orselle released the support. The hull rolled once, less than it should have, and found its fenders.
+"Release the lighter's port bilge," Orselle said. The hull rolled once, less than it should have, and found its fenders.
 
 "That was you?" he asked.
 
@@ -104,17 +100,17 @@ Orselle released the support. The hull rolled once, less than it should have, an
 
 "Don't do apparently with a harbor."
 
-She almost reminded him whose rule that had been at nineteen. The cruel words stayed behind her teeth.
+She almost reminded him whose rule that had been at nineteen.
 
-At the drydock, crews were trying to close the inner sluice before the squall drove weed into its guides. Three orders crossed at once.
+On the slipway, crews were trying to lash the herring boat's launch cradle before the squall worked it off the ways. Three orders crossed at once.
 
 "Haul east!"
 
-"Ease the gate!"
+"Ease the cradle!"
 
 "Which line, damn you?"
 
-Orselle saw the sluice rope snarl around a bollard and a boy step inside the bight. "Run it clear past the red stones!" she shouted, pointing beyond him.
+Orselle saw the cradle line snarl around a bollard and a boy step inside the bight. "Run it clear past the red stones!" she shouted, pointing beyond him.
 
 The boy dropped flat.
 
@@ -122,13 +118,13 @@ The rope did not move.
 
 The whole incoming tide did.
 
-Water fled the drydock, quays, and fishing slips. It poured between the sea walls and climbed beyond the two red boundary stones in one gray slope. Boats struck mud. Moorings cracked taut. Where the storm surge met the banished tide, a ridge began to grow.
+Water fled the slipways, quays, and fishing berths. It poured between the sea walls and climbed beyond the two red boundary stones in one gray slope. Boats struck mud. Moorings cracked taut. Where the storm surge met the banished tide, a ridge began to grow.
 
 The second glass emptied while everyone stared at the harbor floor.
 
 "I meant the rope," Orselle said.
 
-Ossa looked once at her pointing hand. "Meaning isn't in the order. All crews, treat Vuret's voice as live tackle. Repeat before acting. Vuret, no pronouns. No pointing."
+Ossa looked once at her pointing hand. "All crews, treat Vuret's voice as live tackle. Repeat before acting. Vuret, no pronouns. No pointing."
 
 From the fish quay came a man's call: "My boat's on her side!"
 
@@ -136,7 +132,7 @@ From the fish quay came a man's call: "My boat's on her side!"
 
 "Clear to the cooperage," the lead called back. "The goose keeper won't leave his birds."
 
-"Take him. Open the pen. The geese can dislike us from higher ground."
+"Take him. Open the pen."
 
 Sileth turned the third glass with wet fingers. "The water hasn't gone."
 
@@ -154,11 +150,11 @@ An inhabited cove lay east. A smaller one lay west. Both sat lower than Mallowbr
 
 Ossa turned to the north-quay lead. "Send runners. East cliff road to the first cove. West track to the other. Don't promise them time. Say storm water displaced from Mallowbreak, moving toward both coves. Say it exactly."
 
-The runner swallowed. "They're going to ask who did it."
+One of the runners swallowed. "They're going to ask who did it."
 
-"Then keep enough breath to answer. Go."
+"Tell them Vuret did it and she's holding it. Go."
 
-Sileth found a page repaired with sail thread. "There is a shore-return before the seventh vessel finishes. The crowned one gives back the harbor right. The water is admitted through the old tide stone."
+Sileth found a page repaired with sail thread. "There is a shore-return before the seventh vessel finishes. The crowned one gives back the harbor right. The water is admitted through the old tide way."
 
 "And me?" Orselle asked.
 
@@ -176,9 +172,9 @@ The third vessel leaked down its familiar left side. Orselle watched the runnel 
 
 She told them only what the harbor needed. At thirty-nine, before Mallowbreak, she had gone overboard at the northern teeth in winter. Something vast and living had been dying beneath the ice, its hide luminous as drowned moonlight. It pushed a final warm current through her lungs. Since then salt water had not drowned her, age had not advanced, and every tide announced its weight inside her bones. She had changed ports when questions gathered and never commanded so much as a cup.
 
-"If the old headings fit," Sileth said, half to the page, "power, but no observance and no harbor right. Not godhood then."
+Sileth ran a wet finger down the headings. "Salt-breath. Salt-breath is under gifts of the sea," she said, half to herself. "Not under crowning. There's nothing here for both."
 
-"Don't tidy it yet," Ossa said. "Can shore-return kill her?"
+"Can shore-return kill her?" Ossa asked.
 
 "The record says mortal. Not dead."
 
@@ -206,9 +202,9 @@ They did, not in unison. One had only one sledge. Another asked if his mule coul
 
 "Easy for you. They're not your winter."
 
-"No. They're your next four minutes. Choose."
+"No. Uphill or leave them." Ossa turned to the man with the mule. "Mule stays on the quay."
 
-They went down by ladders. Mud sucked at Orselle's boots; the storm ridge pulled at the salt in her lungs. She ordered a cart-road ribbon of water to remain beneath the lighter so its keel would not break, and another patch to bear the brace team until their planks found mud.
+They went down by ladders. Mud sucked at Orselle's boots; the storm ridge pulled at the salt in her lungs. She ordered a cart-road ribbon of water back beneath the lighter so its keel would not break, and another patch to bear the brace team until their planks found mud.
 
 Then someone behind her yelled, "Lift us!"
 
@@ -222,11 +218,9 @@ Every held patch dropped. The lighter struck its water hard enough to throw an i
 
 "Vuret!" Ossa's voice carried from the quay.
 
-"No one asks me for movement," Orselle shouted. "Name the problem. I will name the water."
+"Crews!" Orselle shouted. "Nobody calls movements to the water. Tell me the problem. I'll do the wording."
 
 One of the men spat mud. "Problem is my teeth are full of the harbor."
-
-"Keep those. We haven't time to find another set," his mate said.
 
 The fourth glass emptied as they reached the relief gate.
 
@@ -272,7 +266,7 @@ She had. Reopening to the keel would have stopped winter service for six weeks a
 
 A beam carrier shoved between them. "Argue narrow. This end's dropping."
 
-Rulik caught the beam, and the polished shape of Orselle's defense broke apart under its weight. She got her shoulder beneath the other end.
+Rulik caught the beam. Orselle got her shoulder beneath the other end.
 
 "Left jamb first," she said. "Double shore, low and high. Then your two brace cuts. Leave the upper strap to hold the twist."
 
@@ -280,7 +274,7 @@ Rulik breathed through his nose. Once. Twice. "High shore wants a wedge behind t
 
 "Two wedges. Opposed."
 
-"Bring two matched wedges!" he called. His voice worked again when the work did.
+"Bring two matched wedges!" he called.
 
 They braced the jamb and bored through salt-hardened oak. The auger screamed and stuck; four people reversed it while a chandlery boy complained that nobody had brought grease. Rulik refused offered lamp fat, then took it when the bit smoked.
 
@@ -292,47 +286,39 @@ If she ended the harbor right before the gate was ready, all the displaced water
 
 "East runner's back!" someone called from the ladder.
 
-Ossa received the report at the quay edge and sent it down in pieces. "East cove's moving uphill. Two households refuse. Their south path is already under. West runner not back."
+Ossa received the report at the quay edge and sent it down in pieces. "East cove's moving uphill. Two households refuse. Rain's taking their south path. West runner not back."
 
 "The head reaches the east cove first," Orselle said. "Then west."
 
 "How long?"
 
-Orselle closed her eyes. The sea pressed against its imposed boundary, every ton distinct and none patient. "Before this vessel finishes, the first roofs."
-
-Sileth looked at the brine. "This vessel?"
-
-"The one draining now."
+Orselle closed her eyes. The sea pressed against its imposed boundary, every ton distinct and none patient. "If I bear through, the first roofs go about when the last glass runs dry."
 
 "Confirm," Ossa said.
 
-"The east cove takes water before the sixth begins."
+"The first east-cove roofs go about when the seventh glass runs dry."
 
 Ossa sent every unused hand to the gate.
 
-The auger broke through. They drove the two cuts and left the upper strap. When the last wedge seated, Rulik laid his palm on the braced jamb, feeling for movement.
+The auger broke through. They sawed the two brace cuts to depth and left the upper strap. When the last wedge seated, Rulik laid his palm on the braced jamb, feeling for movement.
 
 "Ready to fail on purpose," he said.
 
 "Not yet," Orselle said. "The lower yard isn't clear."
 
-"Vuret's shop is locked," a crew leader reported. "Storehouse loft too."
+"Vuret's shop was locked," a crew leader reported. "We forced the door. Storehouse loft too."
 
 "No people?" Ossa called.
 
 "Checked both floors. One goat."
 
-"Whose?"
-
-"Goat won't say."
-
-"Take it uphill. Leave the doors."
+"Take the goat uphill. Leave the doors open."
 
 The fifth vessel gave its final drop. Sileth turned the sixth.
 
 The west runner appeared above the quay, one hand bloody from a fall. "They know. Cliff path's broken behind me. They can't get carts out."
 
-No one laughed now, nor did they become one body. The fishwife wanted the gate shut until her eel baskets were clear. A boat owner preferred mud under his hull to flood over it. Two lower-yard families shouted that Mallowbreak should not buy neighboring roofs with theirs. Another man shouted that children slept under those roofs.
+No one laughed now, nor did they become one body. The fishwife wanted the gate shut until her eel baskets were clear. A boat owner preferred mud under his hull to flood over it. Two lower-yard families shouted that Mallowbreak should not buy neighboring roofs with their stores and sheds. Another man shouted that children slept under those roofs.
 
 Ossa sorted noise into facts. "Lower yard clear of people. Goat clear. North quay clear. Mud crews withdraw on the center planks after the cuts. Boats at berth six will be lost if the head returns. Vuret, received?"
 
@@ -340,13 +326,11 @@ Ossa sorted noise into facts. "Lower yard clear of people. Goat clear. North qua
 
 "Rulik, gate readiness?"
 
-He looked at Orselle's bracing, then at his cuts. "Ready if the high shore holds."
+He looked at Orselle's bracing, then at his cuts. "Ready if the high shore holds. Whoever's on the cap wedge has to hit it first stroke."
 
-"If?"
+"Received."
 
-"It's timber, Harbormaster. It doesn't sign guarantees."
-
-Sileth knelt with her book open beside the sixth glass. "There are two continuations. If the crowned bears through last brine, the harbor obeys until low water. It says nothing about water beyond the stones. If the crowned makes shore-return, the harbor right ends and the old tide way opens to receive what was withheld."
+Sileth knelt with her book open beside the sixth glass. "There are two continuations. If the crowned bears through last brine, the harbor obeys until low water. It says nothing about water beyond the stones. If the crowned makes shore-return, the harbor right ends and the old tide way opens to receive what was withheld." On the last words she looked up at the relief gate.
 
 "And the salt-breath?" Orselle asked.
 
@@ -358,7 +342,7 @@ Sileth turned the page back, though they all knew there was no more writing ther
 
 Rulik's face folded around a reply and failed to produce it. At last he said, "I don't know what I want you to do."
 
-"Good," Orselle said, too quickly.
+"Good," Orselle said.
 
 "I know what I don't want. Don't spend this to make the ferry clean."
 
@@ -372,9 +356,7 @@ Rulik rubbed oak dust from his palm. "All right. High shore first when we open. 
 
 "I'm foreman."
 
-"Then assign by the opening, not your sash."
-
-He looked as if he might answer the history instead of the order. Ossa cut across him from above.
+Orselle waited. He opened his mouth, and Ossa cut across him from above.
 
 "Saal, assign the shores. Vuret, choose when. Nobody chooses for you, but we need the work sequence before the last glass."
 
@@ -384,7 +366,7 @@ Orselle could refuse. No curse would follow. Mallowbreak would remain dry; she w
 
 Beyond the stones, the eastern cove took the first edge of the storm head. She felt it climb a road.
 
-"Turn it," she said.
+"Sileth. Turn the seventh glass."
 
 Sileth turned the final glass.
 
@@ -392,17 +374,15 @@ Work narrowed. Ossa cleared the plank road by names and counted people onto the 
 
 Rain erased the chalk except where Rulik had cut.
 
-"Ossa, on my word: both marked cross-brace cuts inward. Upper strap untouched. Hold the left jamb between the paired shores until water reaches the third course of the storehouse wall. Then north steps."
+"Ossa, on my word: both marked cross-brace cuts inward. Upper strap untouched. When the gate hangs, every crew up the north steps. Nobody back down until water falls below the third course of the storehouse wall."
 
 Ossa repeated it in shorter pieces. Each crew leader answered. Rulik corrected one man who had heard second course instead of third.
 
-Sileth stood on the white boundary at the yard gate, crown-receiving cloth spread over her hands. "Shore-return requires you to cross from working water onto claimed land before the brine ends. The crown comes off after the crossing. I think."
+Sileth stood on the white boundary at the yard gate, crown-receiving cloth spread over her hands. "Vuret, shore-return requires you to cross from working water onto claimed land before the brine ends. The crown comes off after the crossing. I think."
 
 "You think?"
 
-"The sentence lost a verb."
-
-"Use return."
+Sileth tilted the book toward the gray light and read it out. "'On claimed land the crowned one'—there's a hole here—'the harbor right, and the crown is lifted.'"
 
 Orselle stepped onto the wet lower ramp. Rainwater threaded over the mud while the storm ridge pushed at her command. The final glass stood less than half full.
 
@@ -418,7 +398,7 @@ The man there struck the low pair.
 
 "Not those—the cap! Cap wedge!"
 
-Orselle opened her mouth to lift the water away from them. If she said lift, it might lift every wet thing in the gate throat. If she named too little, the shore would snap before the pressure eased.
+Orselle opened her mouth to call water up under the leaf and take its weight. If she said lift, it might lift every wet thing in the yard, crews included. If she named too little, the shore would snap before the water arrived.
 
 Rulik climbed the brace and drove the cap wedge himself. The high shore straightened. The second cut tore through.
 
@@ -426,13 +406,11 @@ Rulik climbed the brace and drove the cap wedge himself. The high shore straight
 
 "Out!" Rulik answered.
 
-The gate hung from its upper strap. Behind it waited an empty yard, open sheds, and Orselle's shuttered shop.
+The gate hung from its upper strap. Behind it waited an empty yard, open sheds, and Orselle's old shop.
 
 Sileth shook the final glass. A shallow green line remained.
 
 "Orselle. Now."
-
-She had been Vuret to Sileth all day.
 
 Orselle reached the white boundary. Behind her, crews scrambled up the north steps. Rulik's blue sash vanished over the top. Ossa counted and called the yard clear.
 
@@ -452,7 +430,7 @@ The sea struck the relief gate.
 
 The upper strap tore free. Oak leaves vanished into white water. The paired shores buckled but held long enough to turn the first force into the lower yard. Water burst through stores, shouldered open Orselle's shop, and carried her drafting table through the western wall. The lighter dropped onto mud. Along the quay, ropes and people took their assigned loads.
 
-Orselle fell to one knee on the apron.
+Orselle fell to one knee inside the white boundary.
 
 Air entered her lungs without salt. It was cold, narrow, ordinary air, and for a moment she could not understand why breathing required so much work.
 
@@ -466,9 +444,9 @@ Orselle nodded.
 
 "Pain?"
 
-"Everywhere cheap workmanship usually puts it."
+"Chest. The knee I landed on."
 
-Ossa gave her one irritated look, which was better than reverence, and turned back to the harbor.
+Ossa gave her one irritated look and turned back to the harbor.
 
 By dusk, the storm had spent itself across the waste. Mallowbreak lost four sheds, eleven storerooms, two small boats, the lighter's rail, and most of Orselle's shop. The eastern cove reported water in one lane and no missing people. The western cove lost three carts. No roofs went.
 

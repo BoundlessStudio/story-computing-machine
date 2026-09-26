@@ -16,15 +16,15 @@ Her hand knew what came next. Lift the guard. Brace the wrist. Press with the th
 
 She snatched her hand back.
 
-The tug kept turning. A red numeral on the dead-center display changed from `00:06` to `00:07 AFTER REPRISE`. Kessa stared at it until a recorded voice opened in the headrest behind her.
+The tug kept turning. A red readout on the dead-center display changed from `00:06` to `00:07 AFTER REPRISE`. Kessa stared at it until a recorded voice opened in the headrest behind her.
 
 “If you've ever had déjà vu, then it's too late.”
 
-Dalsen's voice, brisk and level. Then the harness gave its machine inventory: baseline sealed, outboard loss latch confirmed, cognitive lock recorded, working and episodic restore complete, charge exhausted. The small bridge lamp beside Kessa's shoulder had fused white. A spent cartridge smelled of hot almonds through the cockpit filters. The consented harness had stored one neural baseline before approach; the white lamp meant it had spent that single state.
+Dalsen's voice, brisk and level. Then the harness gave its machine inventory: baseline sealed, outboard loss latch confirmed, cognitive lock recorded, working and episodic restore complete, charge exhausted. The small bridge lamp beside Kessa's shoulder had fused white. A spent cartridge smelled of hot almonds through the cockpit filters. The consent-keyed harness had stored one neural baseline before approach; the white lamp meant it had spent that single state.
 
-She remembered fastening the harness before final approach. She remembered Orivan going outside to watch the reluctant cargo latches. She remembered the ring no larger than a coin beyond the glass.
+She remembered fastening the harness before final approach. She remembered Orivan going outside to watch the reluctant cargo latches. She remembered the ring sitting steady in the center of the glass.
 
-Now the ring filled half the window, her lower lip was bleeding, and the port thruster cluster showed no pressure at all.
+Now the ring would not hold still in the window, her lower lip was bleeding, and the port thruster cluster showed no pressure at all.
 
 “Orivan?” She hit the suit channel. “Exterior, answer.”
 
@@ -64,7 +64,7 @@ Kessa found it low on the structural panel. “Loss latch: irreversible. Source:
 
 “Exterior buffer damaged.” She opened it anyway. Blocks of gray filled the final minute. One frame showed Orivan's gloved arm at the cargo rail. Another showed empty stars scored by a band of static. The last intact telemetry line reported a rising twist in the port truss, then nothing. “Incomplete.”
 
-“Mine too,” Dalsen said. “I received the loss event and harness firing time. I did not receive your controls.”
+“Mine too,” Dalsen said. “I received the loss event, the harness firing time, and some exterior frames. I did not receive your controls.”
 
 The broken suit channel crackled again. Kessa pushed its gain up until static hissed across the cockpit. Beneath it came three knocks through the hull.
 
@@ -88,7 +88,7 @@ No.
 
 One.
 
-The next knock scraped instead of striking. A contact microphone in the exterior work collar caught a torn piece of his voice.
+The next knock scraped instead of striking. A contact microphone in the tug's service collar caught a torn piece of his voice.
 
 “—right leg. Collar's bent. Don't—”
 
@@ -100,7 +100,7 @@ Static swallowed the rest.
 
 “Four side?”
 
-A fist hammered the hull twice, impatient even through metal. The collar mic cleared for half a second. “Port side down. We rolled after the hit.”
+A fist hammered the hull twice, impatient even through metal. The collar mic cleared for a breath. “Port side down. We rolled after the hit. Don't roll us more.”
 
 “Port side down,” Kessa repeated. “I have you.”
 
@@ -108,7 +108,7 @@ He remembered. The thought landed differently from the fused lamp or the clock. 
 
 The ring's white plating rolled past again. Kessa's stomach clenched before the view arrived, a sour warning with no attached scene. Her shoulders tightened against a shove that had already happened. When the green arrows flashed left, her wrist turned toward the cargo guard once more.
 
-Motor prediction, Dalsen had called it during training: the body's fast guess about the next required movement. The harness did not store that system. It did not rinse stress chemicals from the blood or pry learned associations out of the senses. She had considered that an untidy footnote when she signed consent.
+Motor prediction, Dalsen had called it during training: the body's fast guess about the next required movement. The harness, built to hand a pilot frozen by shock a working mind again, did not store that system. It did not rinse stress chemicals from the blood or pry learned associations out of the senses. She had considered that an untidy footnote when she signed consent.
 
 Now it was the only account she had written herself.
 
@@ -118,29 +118,19 @@ Now it was the only account she had written herself.
 
 “Valid for when?”
 
-A pause traveled out to the ring and back. “The same alignment packet has repeated four times. Receiver timestamp is frozen before your transponder gap.”
-
-Old green. Not a lie, not guidance. A loop that could still prove itself correct.
+The ring relay held his answer a moment. “The same alignment packet has repeated four times. Receiver timestamp is frozen before your transponder gap.”
 
 Kessa killed the overlay. The arrows disappeared, leaving the mechanical bar, the ring, and the thin blue brackets of tug radar. The brackets leaned right of the bar. The ring controller's range put them closer still. Orivan had felt the port side drop.
 
 Three poor measurements, none agreeing perfectly, all disagreeing with green.
 
-“We struck something during the gap,” Kessa said. The sentence stalled after that. She could name the evidence. When she tried to name what she had done, the thought opened on blank air. “I don't—my control choices aren't there.”
+“We struck something during the gap,” Kessa said. The sentence stalled after that. She could name the evidence. When she tried to name what she had done, the thought opened on blank air. “I don't—what I did, I can't find it.”
 
-“They won't be in the fused bridge,” Dalsen said. “It verifies that the harness fired and fixes when, not what you chose before it did.”
+“If the restore ran as built, it won't come back,” Dalsen said. “I'm sorry.”
 
-“Exterior recorder shows the port truss twist,” Pavax said. “Radar shows a fragment leaving your old approach line. Current roll is consistent with a port-side loss.”
+“The cluster is sheared,” Kessa said. She put two fingers against her cut lip. They came away red. “Orivan's trapped.”
 
-“Consistent,” Dalsen said, “not complete.”
-
-“The cluster is sheared,” Kessa said. She put two fingers against her cut lip. They came away red. “Orivan's trapped. Those aren't missing.”
-
-The collar mic rasped. “Glad we settled that.”
-
-Pain shortened him to the useful edge of a sentence.
-
-Kessa checked the other thrusters. Fore and aft answered, but their common feed pulsed below minimum. One clean burn, perhaps, if the damaged manifold did not tear. It could slow the tug or change the roll, not both.
+She checked the other thrusters. Fore and aft answered, but their common feed pulsed below minimum. One clean burn, perhaps, if the damaged manifold did not tear. It could slow the tug or change the roll, not both.
 
 Pavax came back. “Authorized safe action follows. Separate the flight cell on my mark. The ring will fire the outer catch field across the tug's path. Pilot cell clears outward. The main hull is diverted below the occupied spoke.”
 
@@ -148,13 +138,13 @@ Kessa looked at the exterior diagram. The flight cell's explosive bolts would th
 
 “Orivan is on the tug.”
 
-“I have his suit beacon.” Pavax's voice stayed in numbers because the numbers were his work. “His air is stable. The predicted collar load in a catch is beyond suit tolerance. I cannot authorize the tug through the occupied arc.”
+“I have his suit beacon,” Pavax said. “His air is stable. The predicted collar load in a catch is beyond suit tolerance. I cannot authorize the tug through the occupied arc.”
 
 “So your safe action is safe for the ring.”
 
 “It is the option inside my control.”
 
-No defense. No apology. The ring turned behind his words, full of people who did not know a green corridor was pointing eighteen loaded tonnes at their wall.
+The ring turned behind his words, full of people who did not know a green corridor was pointing eighteen loaded tonnes at their wall.
 
 Kessa's thumb found the cargo guard again.
 
@@ -162,17 +152,17 @@ This time she let it rest there.
 
 “Cargo rail state,” she said.
 
-“Last frame shows latches three and four released,” Dalsen answered. “One and two unknown. Release command began before my exterior feed failed.”
+“Last frame shows latches three and four released,” Dalsen answered. “One and two unknown.”
 
-An unfinished action. Her body's next movement had not come from nowhere.
+An unfinished release.
 
-The tug carried six refinery membrane drums in a cradle along its belly. The spring rail existed to shove them clear if a dock jammed with the drives cold. Ejected forward and outward, the drums would take momentum with them. The rail sat below the tug's centerline; its kick would also turn the hull.
+The tug carried six refinery membrane drums in a cradle along its belly. The spring rail existed to shove them clear if a dock jammed with the drives cold. Ejected forward, the drums would take momentum with them. The rail sat below the tug's centerline; its kick would also turn the hull.
 
-Kessa pulled up the mass sheet. The cargo represented the delivery, their lease reserve, and most of what she and Orivan had not yet paid for. The stabilizing pulse after recoil would consume the damaged feed's return margin. She placed the eighteen tonnes into the manual impulse model.
+Kessa pulled up the mass sheet. The cargo represented the delivery, their lease reserve, and most of what she and Orivan had not yet paid for. The stabilizing pulse after recoil would consume the damaged feed's return margin. She set the drums' mass against the loaded hull in the manual impulse model.
 
 “Pavax, if I eject the cradle on this roll, where does it go?”
 
-His answer came after the radio delay. “Do not release debris toward the ring.”
+His answer came after the relay lag. “Do not release debris toward the ring.”
 
 “Run it. Forward spring rail, current port-down rotation. Cargo takes forward-inward. Tug recoils aft-outward. Offset rail gives me starboard roll.”
 
@@ -180,7 +170,7 @@ His answer came after the radio delay. “Do not release debris toward the ring.
 
 “So is yours. Run it.”
 
-Dalsen spoke into the silence. “If the two unseen latches remained closed, the rail won't fire. If they opened before the recorder failed, the impulse will be within nine percent of rated. I can't narrow it.”
+Dalsen spoke into the silence. “If the two unseen latches remained closed, the rail won't fire. If they opened before my feed dropped, the impulse will be within nine percent of rated. I can't narrow it.”
 
 “Kessa,” Orivan said through the collar, his voice shredded by vibration, “hatch is... thirty degrees above me. Turn starboard, I can reach it. Port more and the collar folds.”
 
@@ -192,17 +182,17 @@ Pavax returned. “Model complete. Cargo clears the occupied spoke by eleven met
 
 Seven and a half minutes by old radar, but the narrowing release angle would close much sooner.
 
-Kessa opened the manual release circuit. Latches one and two showed amber: neither open nor closed. The guard kicked against her thumb exactly as her hand had promised.
+Kessa opened the manual release circuit. Latches one and two showed amber: neither open nor closed. The guard lifted under her thumb exactly as her hand had promised.
 
-For one sick instant the cockpit became familiar down to the hiss behind her right ear. Her thumb pressed. The hull struck. Orivan called something she couldn't keep. Then the sensation dissolved without giving her an image.
+For one sick instant the cockpit became familiar down to the hiss behind her right ear. Her thumb had pressed. The hull had struck. Orivan had called something she couldn't keep. Then the sensation dissolved without giving her an image.
 
-She lifted her thumb.
+She took her thumb away, and the guard snapped back down.
 
 “Not yet,” she said.
 
 “Confirm hold,” Pavax answered.
 
-“Orivan, I need present roll. Forget the display. Count the truss vibration as the bent collar comes under load.”
+“Orivan, my screens are behind. Tell me the roll the way you feel it.”
 
 “Can do. It pulls my leg on the low side.”
 
@@ -228,23 +218,21 @@ Static. Pavax did not answer.
 
 “Pavax, say boundary again.”
 
-Dalsen cut in, “I have a latch transition—possibly one, possibly noise—”
+Dalsen cut in, “I have a latch transition—possibly latch one, possibly noise—”
 
-“Both of you clear.” Kessa kept her thumb off the switch. “Pavax, repeat.”
+“Dalsen, clear.” Kessa kept her thumb off the switch. “Pavax, repeat.”
 
 The yellow block crossed the notch and kept moving. The alignment she had expected passed without a receipt. Every part of her wanted to complete the old motion. She held.
 
-Pavax's voice returned. “Do not release before next starboard-level crossing. Cargo would clip the spoke on the present half-roll. You were not heard acknowledging.”
+Pavax's voice returned. “Do not release before next starboard-level crossing. Cargo would clip the spoke on the present half-roll.”
 
-“No acknowledgment because I didn't receive it. Holding for next crossing.”
+“Holding for next crossing.”
 
 “Confirmed.”
 
-One option gone. The hull rolled on.
+The hull rolled on, and Kessa's hands became fluent while the rest of her did not. She armed the rescue hatch, dumped cabin clutter into restraints, and set the remaining aft thruster to a pulse after recoil. Dalsen asked whether she remembered beginning the cargo release. She reached for it and found the same blank.
 
-Kessa's hands became fluent while the rest of her did not. She armed the rescue hatch, dumped cabin clutter into restraints, and set the remaining aft thruster to a pulse after recoil. When Dalsen asked whether she remembered beginning the cargo release, no answer came. The memory question opened the same blank reach.
-
-“I know where my hand goes now,” she said. “That's enough.”
+“No,” she said. “Ask me after.”
 
 “Range seventy-two,” Pavax said. “Your release window is four seconds wide on my delayed solution. I will call one second early.”
 
@@ -270,8 +258,6 @@ The collar groaned. Orivan breathed once into its microphone, too close and roug
 
 “Looks whole.”
 
-The exchange was so ordinary that Kessa trusted it more than the green had ever deserved.
-
 “Range fifty-eight,” Pavax said.
 
 The yellow block approached the notch again. Kessa felt the roll through the chair rails. A shallow tremor, then a deep one that climbed through her teeth.
@@ -288,7 +274,7 @@ The mechanical notch closed around yellow. Kessa lifted the guard, braced her wr
 
 The switch kicked.
 
-For a heartbeat nothing moved. Then the rail discharged along the tug's belly. Six drums tore away in their cradle, silver bands flashing across the lower window. The cockpit slammed backward and outward. Kessa's harness caught her cut lip against her teeth. The ring slid sideways. The tug rolled starboard, rescue hatch dropping toward the bent collar.
+For a heartbeat nothing moved. Then the rail discharged along the tug's belly. Six drums tore away in their cradle, silver bands flashing across the lower window. The cockpit slammed backward and outward. The jolt drove her cut lip against her teeth. The ring slid sideways. The tug rolled starboard, rescue hatch dropping toward the bent collar.
 
 She fired the aft pulse for eight-tenths of a second. Feed pressure collapsed as she released it.
 
@@ -300,7 +286,7 @@ Metal boomed once beneath her. Orivan, or the truss, or both.
 
 “Tug clears,” Pavax said. His voice lost one of its hard edges. “Minimum predicted separation four point six meters. Do not thrust.”
 
-“No thrust available worth naming.” Kessa unbuckled. The after-reprise clock read `09:41`. “Orivan, hatch is coming to you.”
+“Copy, no thrust.” Kessa unbuckled. The after-reprise clock read `09:41`. “Orivan, hatch is coming to you.”
 
 His answer emerged through the collar mic with a thin burst of breath. “I see it.”
 
@@ -362,4 +348,4 @@ At `12:04`, Kessa opened the damage ledger. Orivan lay strapped beside the cockp
 
 “Put the rail cartridge on there too.”
 
-Kessa added it. The ledger calculated a number large enough to change the year ahead. Outside, the cargo beacon receded down a debris-safe track beyond the ring's recovery cone, while the tug and the occupied ring continued apart.
+Kessa added it. The ledger calculated a number large enough to change the year ahead. Outside, the cargo beacon receded down a debris-safe track beyond the ring's recovery cone.

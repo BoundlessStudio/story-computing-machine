@@ -10,11 +10,11 @@ canon: false
 
 The fragment would not lie flat in the council well.
 
-Qemri set one foot against its blackened curve while two porters worked the sling loose. The thing was no larger than a sleeping egg, but its weight bowed the map tiles beneath it. White packing fibers clung to one scorched edge. On the other, a row of metal sockets had melted into small silver mouths.
+Qemri set one foot against its blackened curve while two porters worked the sling loose. The thing was no larger than an egg, but its weight bowed the map tiles beneath it. White packing fibers clung to one scorched edge. On the other, a row of metal sockets had melted into small silver mouths.
 
 Grit kept falling from the folds of her hide. She had left the south hatchery while the roof was still ticking itself apart, and every time she moved, another pinch of that place landed on the council floor.
 
-“Put the basin under it,” Sulekk said.
+“Put the basin under it,” said Sulekk, who chaired the council.
 
 The map keeper dragged the floor image eastward until the old blue contour of the basin shone around Qemri’s claws. The fragment covered six nesting blocks.
 
@@ -22,7 +22,7 @@ The map keeper dragged the floor image eastward until the old blue contour of th
 
 Across the well, a road councillor leaned over the rail. His tail displaced a stool, which struck the water steward’s ankle. Neither looked down.
 
-“The gallery stood after the strike,” he said.
+“The gallery stood after the strike,” he said. “If it stood, the south road stays open.”
 
 “For eleven breaths.”
 
@@ -30,7 +30,7 @@ The chamber doors scraped open. A hatchery messenger squeezed through sideways, 
 
 Qemri stepped off the fragment. “How many?”
 
-“No crushed eggs. Two carriers burned. The west loop cracked where it joins the warm-water trunk.” He looked at the water steward, not Qemri. “We need the reserve carts now.”
+“No crushed eggs. Two carriers burned. The heat trunk cracked where it crosses the west loop.” He looked at the water steward, not Qemri. “We need the reserve carts now.”
 
 “They’re loading.”
 
@@ -54,9 +54,9 @@ Qemri’s bad shoulder tightened. “That spread is wrong.”
 
 “The coil breaks it in the upper air.”
 
-“The center, yes. The jacket strips. These fibers make wide pieces, and the guidance block makes fast ones.” Brinnt pointed at three dense red clusters. “North terrace. Water stairs. Your east shelter mouth.”
+“The center, yes. The jacket strips. These fibers make wide pieces, and the guidance block makes fast ones.” Brinnt pointed at three dense red clusters. “North terrace. Long stairs. Your east shelter mouth.”
 
-The water steward stopped calling for carts. “How fast?”
+The water steward broke off her call. “How fast?”
 
 “Fast enough that you don’t send carts through there.”
 
@@ -64,13 +64,13 @@ The water steward stopped calling for carts. “How fast?”
 
 “Then they cross before we fire.”
 
-Voices rose around the well, not in one wave but in collisions. The road councillor wanted the north ramp reserved for egg sledges. The granary member needed that same ramp for draft teams. Someone at the rear asked whether the old tunnel still had lamps. It did not. The messenger said the south hatchery had lamps and no brackets to hang them from.
+Voices rose around the well and collided. The road councillor wanted the north ramp reserved for egg sledges. The granary member needed that same ramp for draft teams. Someone at the rear asked whether the old tunnel still had lamps. It did not. The messenger said the south hatchery had lamps and no brackets to hang them from.
 
 Qemri planted both forefeet on the well rim. “Quiet.”
 
 Several councillors kept talking. She struck the melted metal with one claw. The note rang low enough to be felt through the floor.
 
-“North terrace clears first,” she said. “No carts on the water stairs after sixty minutes. Open the old tunnel and carry lamps. Messenger, tell my crews the east shelter is closed.”
+“North terrace clears first,” she said. “No carts on the long stairs after sixty minutes. Open the old tunnel and carry lamps. Messenger, tell my crews the east shelter is closed.”
 
 “They’re using it for the injured.”
 
@@ -110,7 +110,7 @@ Qemri crossed the well before Oxaul could retreat into qualifications. “You ha
 
 Oxaul’s throat feathers flattened. “The trace station is still recording.”
 
-“Then we go to it,” Sulekk said. She glanced at the clock. “Eighty-four minutes. Water and roads stay here. The rest of you, carry the mesh and cases.”
+“Then we go to it,” Sulekk said. She glanced at the clock. “Eighty-four minutes. The water steward stays here. The rest of you, carry the mesh and cases.”
 
 The trace instruments occupied an alcove built when the council had believed one polished lens and a patient observer could answer every orbital question. New frames had been bolted around the old stone. Cables crossed the floor under rubber humps. Qemri stepped over them; Brinnt did not, but pulled up each hump to inspect the cable beneath before placing a plated foot.
 
@@ -130,13 +130,13 @@ Qemri pointed to tight combs of light along each arc. “Those.”
 
 “Human transmissions from the stations. The transponder and cold-gas valves on the object obey them. Nothing in the object decides.”
 
-Qemri had seen one of those valves in the hatchery mud, still frosting the grass after everything around it had burned. Metal, fuel, wire. Dead things could travel very far when a living hand let go.
+Qemri had seen one of those valves in the hatchery mud, still frosting the grass after everything around it had burned.
 
 Oxaul brought up a second pattern: launches, evenly spaced, each paired with a dim movement in the orbital band. “They strip shielding from the stations, compact it, and throw it backward. The throw changes station speed. The ballast goes down.”
 
 “At us,” Qemri said.
 
-“At this coordinate.” His claw circled the basin. “It was empty when their surface maps were made. I’m moderately confident the targeting record is old.”
+“At this coordinate.” His claw circled the basin. “Nothing nested here until three generations ago. I’m moderately confident their targeting record is older than that.”
 
 “How old?”
 
@@ -170,7 +170,7 @@ The newest arc brightened across the screen. Its predicted end lay through the s
 
 Brinnt shoved a tool case under a rocking instrument foot. “Give her the spread, not your confidence.”
 
-Oxaul touched the control. A brown oval opened across the map, its narrow end covering the hatchery and its wide end reaching the warm-water ponds.
+Oxaul touched the control. A brown oval opened across the map, its narrow end covering the hatchery and its wide end reaching the warm-sand beds.
 
 Qemri measured it by crews. Roof team in the south gallery. Six sledges on the west loop. Two injured in motion toward a cellar she had not inspected in three seasons. The oval held all of them.
 
@@ -178,15 +178,11 @@ Qemri measured it by crews. Roof team in the south gallery. Six sledges on the w
 
 The room changed around the question. Necks came up. Even Brinnt stopped bracing the instrument.
 
-Oxaul rubbed one wrist against his chest. “Hear is not the word I would choose.”
-
-“Choose a shorter one.”
-
-“Their receiver measures returns. We can make returns.”
+Oxaul rubbed one wrist against his chest. “Not the way you mean. But their receiver measures returns.” He hesitated. “We can make returns.”
 
 He called up the recovered guidance fin on a side display. Its wires had been separated and labeled. Beside it sat the plain timing pattern of the human range bursts.
 
-“Three portable beacons can echo this pattern,” Oxaul said. “Two from opposite edges of the occupied basin, one from the empty quarry. The delays mark two locations. Repeated, organized receivers. It would not identify us. It would not say stop.”
+“Three portable beacons can echo this pattern,” Oxaul said. “Two from opposite edges of the occupied basin, one from the empty quarry. The stations would learn that something down here answers from fixed places, on purpose: the basin between the pair, and the quarry by itself. It would not identify us. It would not say stop.”
 
 “Would it say the quarry is safe?” the road councillor asked.
 
@@ -194,9 +190,9 @@ He called up the recovered guidance fin on a side display. Its wires had been se
 
 “Then why put one there?”
 
-“Because two points are a line. Three points show a choice of ground.”
+“So the basin is not the only place on their map that answers. If they are choosing, and I stress if, it gives them somewhere else. I can’t make it mean safe.”
 
-Brinnt interrupted. “If the pulse reaches orbit.”
+Brinnt looked up from the instrument foot. “If the pulse reaches orbit.”
 
 Oxaul glanced at them. “The beacons need amplification.”
 
@@ -214,11 +210,11 @@ Brinnt closed the tool case. “Full fragmentation or a full-strength echo. The 
 
 “I was establishing what the signal could demonstrate.”
 
-“You were waiting until I had carried it this far.”
+“You wanted us to like it before you told us it takes the whole charge.”
 
 Oxaul looked down at the moving arc. “Yes.”
 
-Qemri had expected another qualification. Before she found a new attack, Sulekk stepped between them, forcing her horns back from the instrument frame. “Seventy-two minutes. Brinnt: after amplification, what remains?”
+Qemri had expected another qualification. Before she found a new attack, Sulekk stepped between them, forcing her own horns back from the instrument frame. “Seventy-two minutes. Brinnt: after amplification, what remains?”
 
 “A third charge if I narrow the pulse.”
 
@@ -230,23 +226,15 @@ Oxaul said, “Narrowing may corrupt—”
 
 Brinnt put a yellow curve across the display. It passed just above the horizon on the ninth arc. “After this, any break falls inside the terraces. Before it, a weak strike still has lateral distance. Not good distance. Some.”
 
-The road councillor had followed them in. “And while you tap at the sky, my ramp is blocked by egg sledges.”
-
-“It would be blocked under full defense,” Sulekk said.
-
-“For one descent. You’re asking us to leave it blocked for an experiment.”
-
-“I have asked nothing yet.”
-
-“My district hears the difference poorly.”
+The road councillor pushed forward. “Thirty-one egg sledges are waiting at my north ramp. You fire, they go. You tap at the sky, they sit until your yellow line, because nobody can tell them which way to run.” He jabbed at the ninth arc. “Every driver is from my district, and every one will know who parked them under that.”
 
 From the well chamber came the clang of the water steward’s call plate and her voice demanding a cart count.
 
-Sulekk looked toward it. “Go give them one.”
+Sulekk looked toward it. “Go give her one.”
 
 The councillor stared at her, then went.
 
-Qemri watched the clock subtract another minute. The old scar along her shoulder had begun to pulse. She had earned it years before the apes started throwing ballast, in a quarry slide caused by a bad distance marked on a good map. Since then she trusted lines when she could stand on one. Evacuation line. Fragment line. Firing line. Oxaul offered her a return that might vanish into the upper dark and three lights that meant only what a careful observer wished they meant.
+Qemri watched the clock subtract another minute. The old scar along her shoulder had begun to pulse. She had earned it years before the apes started throwing ballast, in a quarry slide caused by a bad distance marked on a good map. Since then she had trusted a line only if she could stand on it, and she could stand on Brinnt’s yellow one. Oxaul offered her a return that might vanish into the upper dark and three lights that meant only what a careful observer wished they meant.
 
 Behind the wall, the storage bank hummed with enough charge to turn one large danger into hundreds of smaller ones.
 
@@ -260,7 +248,7 @@ Oxaul blinked. “All three?”
 
 Brinnt pushed his hand aside. “Not that side. The hinge pin is loose.”
 
-They carried the cases back to the well. No one announced a new position. Sulekk assigned two runners, and the map keeper cleared a route from the chamber to the outer ramp. One beacon went south to the cracked heat gallery, one north beside the warm-water trunk, one east to the empty quarry. The quarry runner asked for brush crews.
+They carried the cases back to the well. No one announced a new position. Sulekk assigned three runners, and the map keeper cleared a route from the chamber to the outer ramp. One beacon went south to the cracked heat gallery, one north beside the heat trunk, one east to the empty quarry. The quarry runner asked for brush crews.
 
 “Why?” Sulekk said.
 
@@ -270,15 +258,15 @@ They carried the cases back to the well. No one announced a new position. Sulekk
 
 “Four won’t hold a quarry fire.”
 
-“They’re not to hold it. They’re to come back and tell us where it starts.”
+Sulekk was already turning to the next runner. “Four is what I have. Mark where it starts and come back.”
 
-At fifty-eight minutes, the north-road member reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
+At fifty-eight minutes, the road councillor reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
 
 Qemri took the handset. “Position?”
 
 “Inside the old basin mark. There’s no upright stone.”
 
-“Use the warm-water tower.”
+“Use the vent tower.”
 
 “Its ladder is cracked.”
 
@@ -304,19 +292,15 @@ At thirty-six minutes all three beacon marks steadied on the map: two pale green
 
 Sulekk called the council to the defense rail. Bodies crowded around a control designed for one engineer and one warden. Brinnt made them back away until their tails cleared the manual release and Oxaul could reach the signal key without leaning across Qemri’s firing plate.
 
-“Terms,” Sulekk said. Her formal cadence was gone. “We clear the modeled fan. We send one return. Qemri holds the remainder. If the predicted center crosses the yellow line before a new course is measured, she fires without another vote.”
+“Terms,” Sulekk said. “We clear the modeled fan. We send one return. Qemri holds the remainder. If the predicted center crosses the yellow line before a new course is measured, she fires without another vote.”
 
 “Against Brinnt’s own warning?” asked the granary member.
 
-“Against the rock.”
-
-“And if it shifts?”
-
-“She decides.”
+“Yes. And if it shifts, she decides.”
 
 Qemri glanced at her. “You are handing me both mistakes.”
 
-“I am naming whose they are.” Sulekk put her palm against the authorization plate. “Do you accept?”
+Sulekk put her palm against the authorization plate. “Do you accept?”
 
 The hatchery messenger had returned. He stood near the door, holding his strapped arm, waiting to carry whatever the room chose back to people beneath a cracked roof.
 
@@ -344,11 +328,11 @@ Oxaul’s fingers hovered over the key. “We are losing the sequence.”
 
 Oxaul keyed the beacons.
 
-The storage bar dropped in a white rush. Deep inside the ridge, the coil struck no projectile and made no thunder. It pushed the three small echoes upward until the chamber’s loose cups rattled. On the trace screen, three fine strokes climbed into the noise: south, north, east. Two locations made with three points. An occupied basin and a quarry. Nothing in the strokes for eggs, burns, apes, dinosaurs, permission, or regret.
+The storage bar dropped in a white rush. Deep inside the ridge, the coil struck no projectile and made no thunder. It pushed the three small echoes upward until the chamber’s loose cups rattled. On the trace screen, three fine strokes climbed into the noise: south, north, east. Two locations made with three points. An occupied basin and a quarry. Nothing in the strokes for eggs or burns.
 
 The station band answered.
 
-Not with a voice. A fresh ranging burst touched the south point, then the north, then the quarry. The order repeated. Oxaul made a sound Qemri had never heard from him, half laugh and half breath lost on a climb.
+A fresh ranging burst touched the south point, then the north, then the quarry. The order repeated. Oxaul made a sound Qemri had never heard from him, half laugh and half breath lost on a climb.
 
 “They have all three,” he said. “They changed the ranging order. Confidence—high. Very high.”
 
@@ -386,7 +370,7 @@ Sulekk stood behind them. “The authority is yours.”
 
 Qemri hated her for saying only that. She preferred Oxaul’s fraying possibilities; there was something to push against in them.
 
-The hatchery relay began reporting doors shut. South gallery. Warm-water store. Kiln cellar. Then a roof team failed to answer.
+The hatchery relay began reporting doors shut. South gallery. Sand store. Kiln cellar. Then a roof team failed to answer.
 
 “Again,” Qemri ordered.
 
@@ -420,7 +404,7 @@ Qemri’s claw remained under the guard. The curve wavered. If the jets stopped 
 
 “Five.”
 
-The arc cleared the ridge by a mark so narrow Qemri could cover it with one claw. She had crews farther from the quarry than from any fragment fan she could create now. Not safe. A distance.
+The arc cleared the ridge by a mark so narrow Qemri could cover it with one claw. Nothing about the quarry was safe, but her crews were farther from it than from any fragment fan she could make now.
 
 “Two.”
 
@@ -428,9 +412,9 @@ Qemri pulled her hand from the guard.
 
 The ballast passed below the chamber’s horizon. For one quiet instant the instruments showed only its radio trace moving east.
 
-Then the quarry struck.
+Then the ballast struck the quarry.
 
-The floor rose beneath Qemri’s feet. The scorched fragment jumped in the map well and came down on a different district. Cups shattered in the trace alcove. One of the old polished lenses tore from its mount and swung on a cable until Brinnt caught it against their shoulder.
+The floor rose beneath Qemri’s feet. The scorched fragment jumped in the map well and came down on a different district. Cups shattered in the trace alcove. A signal lamp tore from its bracket over the rail and swung on its cable until Brinnt caught it against their shoulder.
 
 The sound arrived after the movement, a long concussion through stone. Dust erased the ceiling. Somewhere outside, brushfire bells began hammering.
 
@@ -450,19 +434,19 @@ Sulekk waited beside him, dust striping her crest.
 
 He looked at the blank quarry mark. “I can’t give you that.”
 
-“Good. Keep the part you can.”
+“Write the time on the trace,” she said.
 
-Reports came in. Three cracked windows. One broken water stair. Fire on the quarry’s western lip, moving slowly against the beaters. No dead. The two burned carriers were stable in the kiln cellar, furious about the cold.
+Reports came in. Three cracked windows. One split tread on the long stairs. Fire on the quarry’s western lip, moving slowly against the beaters. No dead. The two burned carriers were stable in the kiln cellar, furious about the cold.
 
 The descent clock reached zero and began counting upward.
 
 They reconvened around the map well because the control rail was needed for recharging. No one put the stools back. Brinnt’s model now showed the next three orbital passes and the hours required to refill the coil bank. On the floor, the old blue basin remained partly hidden by the fragment.
 
-The road councillor wanted full discharge on the next descent. The water steward wanted the apes’ ranging bursts answered only after the warm-water trunk was repaired. Neither had softened. Both were gray with quarry dust.
+The road councillor wanted full discharge on the next descent. The water steward wanted no answer sent to the apes until her carts were free of the hatchery repairs. Neither had softened. Both were gray with quarry dust.
 
 Sulekk listened until they repeated themselves.
 
-“Three passes,” she said. “Paired basin beacons and one quarry beacon each pass. Evacuation begins before the range window, not after a launch. The coil recharges under guard.”
+“Three passes,” she said. “Paired basin beacons and one quarry beacon each pass. Evacuation begins before the range window, not after a launch. Any unannounced descent ends the trial. So does any descent we can’t clear. Qemri keeps firing authority. Brinnt owns the bank. Oxaul, keep every trace and log each course change. We meet after the third, or sooner.”
 
 “And when the next rock ignores us?” the road councillor asked.
 
@@ -470,23 +454,19 @@ Qemri answered. “If it descends without a ranging burst, we fire full. If it r
 
 Oxaul lifted his head. “Three passes cannot establish a stable practice.”
 
-“They establish three passes,” Sulekk said.
-
-Brinnt tapped the recharge curve. “Only if nobody draws from the bank for the east tram.”
+Brinnt tapped the recharge curve. “There won’t be three if anybody draws from the bank for the east tram.”
 
 The granary member, halfway to the door, stopped. “The tram is carrying roof stone.”
 
-“Then find draft teams.”
+Brinnt didn’t look up. “Then find draft teams.”
 
 “They’re still in the old tunnel.”
 
 “Get them out.”
 
-Sulekk raised one dusty palm before the next argument could grow. “Three passes. Any unannounced descent ends the trial. Any descent we cannot clear ends it. Qemri keeps firing authority. Oxaul records changes, not intentions. Brinnt owns the bank. We meet after the third or sooner if one condition fails.”
+The water steward had waited through all of it. “I object.”
 
-“I object,” said the water steward.
-
-“Recorded. Send two carts to the quarry.”
+“Recorded,” Sulekk said. “Send two carts to the quarry.”
 
 “They’re already moving.”
 
@@ -494,7 +474,7 @@ Sulekk nodded once and went to help the map keeper lift the fragment.
 
 Qemri left before the council found another word for what had happened.
 
-Outside, dawn had begun behind the orbital lights. The apes’ stations crossed the paling sky in orderly points, too high for faces, too near for neglect. Smoke from the quarry flattened along the eastern ridge. Below it, the hatchery district leaked steam from the cracked water loop.
+Outside, dawn had begun behind the orbital lights. The apes’ stations crossed the paling sky in orderly points, the brightest already fading. Smoke from the quarry flattened along the eastern ridge. Below it, the hatchery district leaked steam from the cracked heat trunk.
 
 Qemri reached the heat gallery as a brace crew was trying to feed a roof beam through the wrong doorway. The beam jammed between the frame and a carrier’s shoulder plate. Everyone shouted a different correction.
 
@@ -506,7 +486,7 @@ They stopped shouting.
 
 The hatchery messenger, his arm still strapped, had tied himself into the beam sling. “I can pull.”
 
-“You can count.” Qemri cut him free and handed him the crew board. “South braces. Warm-water leak. Egg sledges returned. Keep those columns separate.”
+“You can count.” Qemri cut him free and handed him the crew board. “South braces. Heat-trunk leak. Egg sledges returned. Keep those columns separate.”
 
 He looked at the board. “When do I mark the next clearing?”
 

@@ -40,7 +40,7 @@ The mother blew into the opening. Its edges folded together beneath her claws, a
 
 “You didn't tell me,” the child said, jumping hard enough to make the chandelier shed ash. “You said no more things with teeth!”
 
-“I hadn't intended to. It was offered.”
+“There was nothing to tell. It was offered.”
 
 “I have teeth,” I said. “I also have an engagement tomorrow at the fair.”
 
@@ -60,7 +60,7 @@ The child sank to her knees and bent over me. Her golden eyes filled my view.
 
 She lifted me beneath the arms. My coat rode up; my trousers followed to a lesser and less welcome extent.
 
-“Put me down. You're hurting.”
+“Put me down. You're hurting me.”
 
 She dropped me.
 
@@ -188,7 +188,7 @@ Nimmet returned carrying a cupboard taller than I was. She planted it before my 
 
 “Those are decorations,” Mavrix said before I could ask.
 
-The wine tasted of plums. I ate a leg, then the other leg. Nimmet watched every mouthful. When I wiped my fingers, she handed me the cloth she had intended to shave me on.
+The wine tasted of plums. I ate a leg, then the other leg. Nimmet watched every mouthful. When I looked about for something to wipe my fingers on, she handed me the cloth she had spread for the shears.
 
 There is a point at which a gentleman must acknowledge that his strategy is failing.
 
@@ -246,13 +246,13 @@ For our second bow, I took away the buns. Our third was excellent.
 
 “I'm not supposed to in here.”
 
-I looked at Mavrix, who had gone to the adjoining room to change for the evening. The open door showed her blue sleeve and the edge of a mirror.
+I looked towards the adjoining room, where Mavrix had gone to change for the evening. The open door showed her blue sleeve and the edge of a mirror.
 
 “A small one.”
 
 Nimmet drew a breath. Her dress puffed out. The sound that followed lifted the hair from my forehead and knocked three cherries from their dish.
 
-“Nimmet.”
+“Nimmet,” said the voice beside the mirror.
 
 “That was little!”
 
@@ -310,7 +310,7 @@ Mavrix emerged wearing a black gown. Nimmet immediately clung to its skirt.
 
 “We have to take Caff home properly. The man there kills humans.”
 
-“I remember what he told me, Nimmet.”
+“I heard the human, Nimmet.”
 
 “Then don't put him back in the man's hands.”
 
