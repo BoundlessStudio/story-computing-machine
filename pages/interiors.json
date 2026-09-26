@@ -10927,24 +10927,18 @@
           "title": "Before the birth minute",
           "alt": "Before the birth minute — oil interior study for What Turned Eighteen",
           "source": "stories/what-turned-eighteen/art/interiors/01-before-the-birth-minute.png",
-          "sourceSha256": "0f467724acb3482f19b63354ad9caa0e40976a2fe9354e3d4cfb227af033b19f",
+          "sourceSha256": "63dff2681998244d0310f8f86f072816f1e3e5050df0d6dbbbc9215e2b04670f",
           "full": {
-            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-0f467724acb3482f.webp",
-            "sha256": "0f9372562fce82ad491950ce66112cd7a623fca543ab84792d3d27a4f1114a2a",
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-63dff2681998244d.webp",
+            "sha256": "bd92bda4e76cb263a4b4ba265696a2757b26f28f2e9e791742597a37981bd9bb",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-0f467724acb3482f-thumb.webp",
-            "sha256": "610c61ba055abbd9575d28fbf2b95dd8af5fa668190c23f599718ad588d060ce",
+            "path": "interiors/what-turned-eighteen/01-before-the-birth-minute-63dff2681998244d-thumb.webp",
+            "sha256": "ea871a84560f7cd7c1ebc45264d9921601a43f8a9001d8539d5f3fb9f7f20ed2",
             "width": 480,
             "height": 320
-          },
-          "revision": {
-            "originalSource": "pages/interior-replacements/what-turned-eighteen/01-before-the-birth-minute.png",
-            "correction": "Story revision: remove the mixing bowl taped over the vent; bare ceiling bulb with its glass shade set on the wardrobe.",
-            "prompt": "Precise edit of this oil painting of an empty bedroom. Change ONLY the transparent masked areas and keep every other pixel identical. (1) Top right wall: remove the metal mixing bowl and the tape completely; paint an ordinary small rectangular white-painted wall vent grille with horizontal slats on the plaster wall in its place. (2) Top centre ceiling: paint a single BARE light bulb hanging from a short cord and ceiling rose, unlit, with no glass shade. (3) On top of the wardrobe: place the removed round frosted-glass ceiling light shade, resting upside down like a bowl. Match the surrounding broad, blocky impasto oil strokes, warm ochre-and-slate palette and lighting exactly. No people, figures, text, labels or new objects beyond these. [Masked regions composited onto the previous city-view replacement.]",
-            "generator": "openai-images-api gpt-image-2"
           }
         },
         {
@@ -10952,24 +10946,18 @@
           "title": "Nine glasses on the kitchen table",
           "alt": "Nine glasses on the kitchen table — oil interior study for What Turned Eighteen",
           "source": "stories/what-turned-eighteen/art/interiors/02-nine-glasses-on-the-kitchen-table.png",
-          "sourceSha256": "da8dd706b636a53981290d8ed332d38111cff8c79ff9e29d886762f47d301cce",
+          "sourceSha256": "312a04e573a37759a72d6efc7daf01fba6eb04838c315b1b13baa3a595058243",
           "full": {
-            "path": "interiors/what-turned-eighteen/02-nine-glasses-on-the-kitchen-table-da8dd706b636a539.webp",
-            "sha256": "e27d66133371444e17206205d5f0a0988e2ac03be2f6656ac1e2e17f2228be4e",
+            "path": "interiors/what-turned-eighteen/02-nine-glasses-on-the-kitchen-table-312a04e573a37759.webp",
+            "sha256": "01afcc5bec077d855fc3e5fc9c10c78c90c7c1693f6eda278290c407b3ab6369",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/02-nine-glasses-on-the-kitchen-table-da8dd706b636a539-thumb.webp",
-            "sha256": "2a73ecddf8320837a26f867c1898a457d29290e0c973a5f5856c1d6a8b096a03",
+            "path": "interiors/what-turned-eighteen/02-nine-glasses-on-the-kitchen-table-312a04e573a37759-thumb.webp",
+            "sha256": "24d88cfede96b328c828ef7c8c6a90edd7d83edb7ef8d06afa6744cacf85c84f",
             "width": 480,
             "height": 320
-          },
-          "revision": {
-            "originalSource": "pages/interior-replacements/what-turned-eighteen/02-the-water-tray-and-lamps.png",
-            "correction": "Story revision: the water tray and lamps no longer appear; replaced by the kitchen table with nine glasses and the latched hall cupboard.",
-            "prompt": "Create a new 1536x1024 landscape oil painting interior of the SAME apartment shown in Images 1 and 2 (same plaster walls, warm honey wood floor, blue-slate and ochre palette, and the same broad blocky impasto oil strokes; Group of Seven-inspired). Images 1 and 2 give style and apartment continuity only; do not copy their bedroom.\n\nScene: the apartment's small kitchen seen from the narrow hall, late afternoon under a storm sky. A plain wooden kitchen table with a straight row of EXACTLY NINE clear drinking glasses filled with water along its length. Wooden chairs pulled out at odd angles around it, more chairs than the table was meant for, some squeezed in from other rooms. A simple sink with a tap under a small window that looks onto a neighboring brick city building with lit amber windows. On the counter: a floured board with a few shaped lentil rolls and the white cake box with green lettering smudged on its lid. At the left edge of the picture, part of the narrow hall: a painted radiator and a closed, narrow hall-cupboard door with a simple latch on the outside. Empty room: no people, figures, animals, text, labels, logos or watermark. Not photorealistic, not 3D.",
-            "generator": "openai-images-api gpt-image-2"
           }
         },
         {
@@ -10977,24 +10965,18 @@
           "title": "Rain at the bedroom window",
           "alt": "Rain at the bedroom window — oil interior study for What Turned Eighteen",
           "source": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
-          "sourceSha256": "b5264b641bd6535f016c75047053cb44cfb0dccdf78ab4d45667544f00916adb",
+          "sourceSha256": "0b4ff4b4f5a89c0276aae7abd0057adb9076bec2be0be8f928b3d9c841a2640f",
           "full": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b5264b641bd6535f.webp",
-            "sha256": "807fca31a481f5c697d0e9660d396004c2567660a2bd67b0301aa30bfbbf78e0",
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-0b4ff4b4f5a89c02.webp",
+            "sha256": "f69d9e781b1d76adb6f244343eaac1c4ccc28d33ce9e43365ba7c37ec47f97d4",
             "width": 1536,
             "height": 1024
           },
           "thumbnail": {
-            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-b5264b641bd6535f-thumb.webp",
-            "sha256": "603e954b91e3582e8a2177e341710968f71212ba65f02b25e53f7d07011f6ff1",
+            "path": "interiors/what-turned-eighteen/03-rain-at-the-bedroom-window-0b4ff4b4f5a89c02-thumb.webp",
+            "sha256": "77c4c5359934ff94c247f165bd47376932545995ccfcedd279639301ad64ab3e",
             "width": 480,
             "height": 320
-          },
-          "revision": {
-            "originalSource": "stories/what-turned-eighteen/art/interiors/03-rain-at-the-bedroom-window.png",
-            "correction": "Story revision and earlier exclusion: city view through the window; remove trouser sling, tray and baking sheet; towels, nine plates, cut cake, two lamps, unplugged fan.",
-            "prompt": "Edit Image 1, an oil painting of an empty bedroom in the evening rain. Keep the room geometry, camera angle, bed and bedding, wardrobe with the tied adjustable trousers inside, desk and chair, blue curtains, dresser, houseplants, the door at right, the palette and the broad blocky impasto oil strokes. Make ONLY these changes:\n1. Through the rainy rear window, replace the lake and forest with the same neighboring city block seen in Image 2: brick apartment buildings, lit amber windows, a silver rooftop water tank, under dark rain.\n2. Remove the trousers slung like a hammock between the two wooden chairs; set both chairs back against the wall, empty.\n3. Remove the metal tray from the floor and the baking sheet of small lentil drops from the side table.\n4. Remove the round vent treatment high on the wall; show a plain small white rectangular vent grille instead.\n5. Cover the rug with several mismatched bath towels, and arrange EXACTLY NINE small plates, each holding a lentil roll, in a loose ring on the floor.\n6. On the side table at right: the birthday cake with pale lemon icing, one corner cut away and slightly soggy, with a cake server beside it.\n7. Two lamps lit at opposite ends of the room (the bedside lamp at left and the desk lamp at right); the ceiling shows a bare, UNLIT bulb with no shade.\n8. A small speaker on the floor under the desk.\n9. The floor fan is unplugged: its cord lies loose on the floor, plug visible.\nEmpty room: no people, figures, animals, text, labels, logos or watermark. Landscape 1536x1024. Not photorealistic, not 3D. || Follow-up masked fix, composited: Precise edit of this oil painting. In the transparent masked area only, remove the single plate of lentil roll completely and paint the rumpled blue-gray bath towel continuing underneath, matching the surrounding blocky impasto strokes and lighting. Everything else unchanged.",
-            "generator": "openai-images-api gpt-image-2"
           }
         }
       ]

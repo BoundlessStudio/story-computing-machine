@@ -145,7 +145,7 @@
       "output": "stories/what-turned-eighteen/art/characters/arlon.png",
       "status": "completed",
       "blockers": [],
-      "outputSha256": "2034acf4d6f87e228a376f0375a4cca927c3af8fd622522ea0c91804a7ee25b5",
+      "outputSha256": "a8c87eae70e79120dae90e8f6d130813e8d372e1967d3f8c7013b5a316bb97cf",
       "validation": {
         "status": "PASS",
         "reviewedAt": "2026-09-25T00:00:00+00:00",
@@ -154,7 +154,7 @@
           "Same dark-haired eighteen-year-old in identical gray top and trousers, bare feet, across all nine; no fins, glow, wings, flying poses or miniature scale.",
           "Warm ivory ground, no scenery; one prop (a glass) only. Assistant review, not owner approval."
         ],
-        "outputSha256": "2034acf4d6f87e228a376f0375a4cca927c3af8fd622522ea0c91804a7ee25b5",
+        "outputSha256": "a8c87eae70e79120dae90e8f6d130813e8d372e1967d3f8c7013b5a316bb97cf",
         "references": [
           {
             "path": "pages/characters/what-turned-eighteen/arlon-6313718fa1b7e3c1.webp",
