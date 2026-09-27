@@ -1,6 +1,7 @@
 # Review
 
 Verdict: PENDING
+Reviewed prose SHA-256: PENDING
 
 ## People
 

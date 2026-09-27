@@ -76,26 +76,89 @@ scripting dialogue or an ending to satisfy the brief. Never open prior Voice
 sections or prose, reproduce the brief as a new section, or treat comparisons
 as canon. Return a one-sentence change report.
 
+## OUTLINE REVIEW
+
+Before any prose drafting for a new story or replacement, invoke the required
+`scripts/claude_story_review.py --stage outline --story <slug> --worktree <absolute-path>`
+from the dedicated worktree. Pass every resolved original with
+`--reference-image` and the bounded recent-outline paths with `--comparison`.
+GPT-6 Sol and Claude Opus 5.5 conduct one read-only outline discussion: each
+makes an independent first assessment, Sol replies to disagreements, and Claude
+locks the story-quality verdict before a final Claude authority check. Their
+combined verdict replaces the former outline
+review stage; do not add another reviewer. The runner returns PASS or REVISE
+and the exact outline SHA-256 in the task handoff; it writes no package file.
+Exit 2 blocks writer handoff and returns only actionable blocking findings to
+the outliner. A changed outline requires a fresh invocation and hash. Exit 1
+is a technical blocker, never permission to skip the gate.
+
+The first three turns check that the design can be drafted without guessing about a
+material prompt requirement: central promise, cause and movement, participant agency,
+knowledge, time, space, operative rules, dialogue engine, and use of original reference
+images. Claude resolves those story-quality claims before checking relevant universe
+authority, policy, and name confusion in its final verdict. It does not
+require a scripted confession, exact ending, antagonist, quota of subtext, or
+generic plot structure. A flexible outline may pass; a concrete contradiction
+or missing decision that would force a consequential invention must be revised.
+Do not show the outline verdict or findings to the later prose reviewer.
+
 ## REVIEW
 
-Write only `review.md`. First read the complete prompt and prose and form a
-provisional reader-facing judgment, including applicable dialogue judgment,
-before opening the outline. Then read the outline as advisory intent, the
-universe README and style guide, and the coordinator's concise PreReview result.
-The prompt is acceptance authority; outline deviation alone is not a defect.
-Historical request sections remain acceptance context and the last recorded
-craft profile remains active. Do not retrieve prior versions or apply a new
-profile retroactively.
+GPT-6 Sol and Claude Opus 5.5 conduct the same story-first discussion for prose,
+with Claude owning the final semantic verdict. After independent first readings
+and Sol's rejoinder, Claude issues a final story-quality verdict using only the
+prompt, prose, and craft diagnostic. A separate final Claude session checks canon,
+policy, and names. The runner combines the two Claude verdicts; the authority
+check can add blockers but cannot erase story-quality findings. This replaces the former
+`story_reviewer` stage; do not append a separate Codex verdict. Invoke the required
+`scripts/claude_story_review.py --stage prose --story <slug> --worktree <absolute-path>`
+from the coordinator's worktree, after PreReview for current format. Supply its
+concise result with `--pre-review`, and the resolved collection paths with
+`--comparison`. Comparison paths must point to prior story prose in this worktree,
+never the target package or a review. The runner uses fresh, read-only, non-persistent sessions, verifies the
+source hash and structured verdict, and writes only the existing `review.md`
+for a non-canon current-format story. Exit 2 is REVISE; exit 1 is a technical
+blocker. For a bundle
+edit, the runner returns a hash-bound verdict in the handoff without modifying
+historical `04-review.md`; identify that old review as stale. After PASS, a
+named bundle capture takes its exact handoff hash as `--review-hash`.
 
-Use `story-analysis` and `dialogue` as default diagnostic references.
-Use `story-sense` only for unclear narrative failure, `prose-style` for material
-sentence-level defects, and `sensitivity-check` when representation or sensitive
-experience warrants it. Their optional scripts, separate reports, persistence
-and user-question instructions do not apply. Apply conclusions through the
-existing review template, not generic requirements for conflict, hidden agendas,
+Both models read the complete prompt and prose first and form independent reader-facing
+judgments without the target's outline, previous target review, canon files, or name
+inventories. Sol rechecks disputed story-quality points. Claude resolves those points
+against the prose and locks the craft findings before canon, policy, and name checks.
+Apply the recorded profile's threshold to quality findings. The prompt is acceptance authority; historical
+request sections remain acceptance context and the last recorded craft profile remains
+active. Do not retrieve prior versions or apply a new profile retroactively.
+Claude reads exact files from temporary stage snapshots: the first contains only prompt,
+target, and the dialogue diagnostic; the final adds universe files and bounded name
+memory. Sol's Windows read-only CLI cannot open files, so it receives the exact
+prompt and target bytes, dialogue diagnostic, and discussion instructions through stdin,
+without canon or name files. Neither model receives old target reviews or the
+target outline during prose review. The runner checks source and snapshot hashes before
+accepting the final result.
+
+Each provisional prose review cites an opening, a decisive exchange, the final meaningful
+exchange, the weakest turn anywhere, a cross-scene comparison of speaker voices, and the
+ending's actual effect. The weakest turn check traces setup, referent, speaker knowledge,
+listener uptake, and next action even when it appears in a middle scene.
+For the voice comparison, use lines from at least two speakers and test whether their
+reasoning and reply patterns could be swapped. For the ending, compare dialogue with its
+adjacent action and narration. These source checks are diagnostic evidence, not extra
+verdict fields or a requirement to find a defect.
+
+The runner supplies the `dialogue` diagnostic to both models and tests whole-story
+movement directly against the recorded prompt and prose. Do not load the generic
+`story-analysis` checklist into the mandatory gate: its shattering-moment template
+would impose a plot shape the repository does not require. For coordinator diagnosis
+after a blocker, use `story-sense` for unclear narrative failure, `prose-style`
+for material sentence-level defects, and `sensitivity-check` when representation
+or sensitive experience warrants it. Their optional scripts, separate reports,
+persistence and user-question instructions do not apply. Apply conclusions through
+the existing review template, not generic requirements for conflict, hidden agendas,
 verbal tics, compulsory subtext, or a shattering moment.
 
-Inventory every story-facing proper noun naming a person, person-like being,
+During the final check, inventory every story-facing proper noun naming a person, person-like being,
 or place, including aliases. Mark each `new` or `recurring`, explaining
 intentional recurrence; use one `None` row for an empty category. Search those
 forms in `stories/NAMES.md`, passing current reviews, relevant universe
@@ -107,7 +170,8 @@ and explain the relationship. The validator can verify cited bundle text;
 semantic equivalence remains the independent reviewer's judgment.
 
 Check prompt fulfillment and its central promise, universe facts and chronology,
-and internal causality, time, space, capabilities, relationships, and knowledge.
+and internal causality, time, space, quantities, speculative limits,
+relationships, and knowledge.
 For 08-08, craft blocks only when it materially breaks the prompt's central
 promise, reader-facing causality, or binding narrative policy. Apply later
 profiles' additional thresholds from the style guide. Scan
@@ -128,7 +192,8 @@ limits; do not expose the passages to the outliner/writer.
 The coordinator's broader collection audit is prospective planning guidance;
 it does not add a verdict or expand the active profile's blocking thresholds.
 
-Follow the template exactly, using one declaration of each verdict:
+The runner renders the current-format template exactly, using one declaration
+of each verdict and a reviewed prose SHA-256:
 
 - `Verdict: PASS` only when every required gate passes, otherwise `REVISE`.
 - Under Continuity: `Prompt`, `Universe`, and `Internal`, each PASS or REVISE.
@@ -141,7 +206,7 @@ Follow the template exactly, using one declaration of each verdict:
   three short examples; no new comparison field or extra verdict.
 - Keep useful notes short. Save no reasoning trace, repeated plot summary,
   diagnostic checklist, or audit record. Do not edit prose or reopen another
-  story. Return a one-sentence change report.
+  story. Return Claude's final verdict and reviewed hash, not a second opinion.
 
 ## ART REFERENCES
 

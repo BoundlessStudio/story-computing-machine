@@ -4,7 +4,7 @@ A shared-universe fiction workspace. A writing prompt becomes a complete story
 through specialist outline, prose, independent review, reference-art and cover assignments:
 
 ```text
-prompt.md → outline.md → story.md → review.md (PASS)
+prompt.md → outline.md → GPT-6 Sol / Claude outline PASS → story.md → GPT-6 Sol / Claude prose review.md (PASS)
   → character sheets → exterior/interior references → title-image.jpg
   → story and Image Gallery publication
 ```

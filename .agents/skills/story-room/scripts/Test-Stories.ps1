@@ -726,6 +726,24 @@ function Test-FinalReview {
         $errors.Add("$slug/review.md $problem")
     }
 
+    $hashLines = @([regex]::Matches($reviewText, '(?m)^Reviewed prose SHA-256:[ \t]*(?<hash>[^\r\n]+)[ \t]*\r?$'))
+    if ($hashLines.Count -gt 1) {
+        $errors.Add("$slug/review.md has more than one reviewed prose hash.")
+    }
+    elseif ($hashLines.Count -eq 1) {
+        $reviewedHash = $hashLines[0].Groups['hash'].Value.Trim()
+        if ($reviewedHash -cnotmatch '^[0-9a-f]{64}$') {
+            $errors.Add("$slug/review.md has an invalid reviewed prose hash.")
+        }
+        else {
+            $bodyBytes = [Text.Encoding]::UTF8.GetBytes($Package.StoryBody)
+            $actualHash = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData($bodyBytes)).ToLowerInvariant()
+            if ($reviewedHash -cne $actualHash) {
+                $errors.Add("$slug/review.md reviewed prose hash does not match story.md.")
+            }
+        }
+    }
+
     foreach ($kind in @('People', 'Places')) {
         foreach ($row in Get-NounRows $slug $kind $reviewText 'review.md') {
             if ($Package.StoryBody.IndexOf($row.Name, [StringComparison]::Ordinal) -lt 0) {

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import math
@@ -890,15 +891,58 @@ def _refuse_canon_demotions(stories: Iterable[Story], published: Catalog) -> Non
         )
 
 
+def _require_fresh_current_review(story: Story, previous: Story | None, repository_root: Path) -> None:
+    """Changed or newly published prose needs a review bound to those prose bytes."""
+    directory = repository_root / "stories" / story.slug
+    source = directory / "story.md"
+    if not source.is_file() or (previous is not None and story.body == previous.body and
+                                story.canon == previous.canon):
+        return
+    review = (directory / "review.md").read_text(encoding="utf-8")
+    matches = re.findall(r"(?m)^Reviewed prose SHA-256:[ \t]*([0-9a-f]{64})[ \t]*$", review)
+    source_bytes = source.read_bytes()
+    front = re.match(rb"\A---\r?\n.*?\r?\n---\r?\n", source_bytes, re.DOTALL)
+    if not front:
+        raise ValueError(f"{source} lacks valid frontmatter for prose hash verification")
+    actual = hashlib.sha256(source_bytes[front.end():]).hexdigest()
+    if len(matches) != 1 or matches[0] != actual:
+        raise ValueError(
+            f"{directory / 'review.md'} needs a fresh prose-bound Claude PASS before capture"
+        )
+
+
+def _require_bundle_review_hash(story: Story, previous: Story | None, repository_root: Path,
+                                review_hash: str | None) -> None:
+    """A bundle has no new review file; named capture uses the PASS handoff hash."""
+    source = repository_root / "stories" / story.slug / "05-story.md"
+    if not source.is_file() or (previous is not None and story.body == previous.body and
+                                story.canon == previous.canon):
+        return
+    actual = hashlib.sha256(source.read_bytes()).hexdigest()
+    if review_hash != actual:
+        raise ValueError(f"{story.slug} needs a fresh Claude PASS handoff hash for bundle capture")
+
+
+def _refuse_changed_bundle_in_capture_all(story: Story, previous: Story, repository_root: Path) -> None:
+    source = repository_root / "stories" / story.slug / "05-story.md"
+    if source.is_file() and (story.body != previous.body or story.canon != previous.canon):
+        raise ValueError(
+            f"{story.slug} bundle prose or canon changed; use named capture with a fresh Claude PASS handoff hash"
+        )
+
+
 def capture_story(
     slug: str,
     repository_root: Path = REPOSITORY_ROOT,
     snapshot_path: Path = SNAPSHOT_PATH,
+    review_hash: str | None = None,
 ) -> Catalog:
     story = load_story_source(slug, repository_root)
     published = load_catalog(snapshot_path) if snapshot_path.exists() else Catalog(())
     _refuse_canon_demotions((story,), published)
     previous = next((item for item in published.stories if item.slug == slug), None)
+    _require_fresh_current_review(story, previous, repository_root)
+    _require_bundle_review_hash(story, previous, repository_root, review_hash)
     if previous is not None:
         story = replace(story, prompt=previous.prompt)
     _capture_cover(story, repository_root, snapshot_path)
@@ -916,6 +960,10 @@ def capture_all(
         for story in published.stories
     )
     _refuse_canon_demotions(stories, published)
+    prior_by_slug = {story.slug: story for story in published.stories}
+    for story in stories:
+        _require_fresh_current_review(story, prior_by_slug[story.slug], repository_root)
+        _refuse_changed_bundle_in_capture_all(story, prior_by_slug[story.slug], repository_root)
     for story in stories:
         _capture_cover(story, repository_root, snapshot_path)
     return save_catalog(stories, snapshot_path)
@@ -1382,6 +1430,7 @@ def main() -> None:
 
     capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
     capture_parser.add_argument("slug")
+    capture_parser.add_argument("--review-hash", help="Fresh Claude PASS prose SHA-256 for a bundle capture.")
 
     illustrated_parser = commands.add_parser("capture-illustrated", help="Capture one approved illustrated edition.")
     illustrated_parser.add_argument("slug")
@@ -1407,7 +1456,7 @@ def main() -> None:
         _graphic_novel_module().capture_edition(REPOSITORY_ROOT, args.slug)
         print(f"Stored comic PDF {args.slug}")
     elif args.command == "capture":
-        catalog = capture_story(args.slug)
+        catalog = capture_story(args.slug, review_hash=args.review_hash)
         print(f"Stored {args.slug}; publication catalog now has {len(catalog.stories)} stories")
     elif args.command == "capture-all":
         catalog = capture_all()

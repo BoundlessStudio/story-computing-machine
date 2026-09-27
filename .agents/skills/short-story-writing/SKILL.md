@@ -48,6 +48,14 @@ Never draft a punchline, correction, aphorism, or retort first and manufacture
 a setup. Apply the style guide's semantic dialogue gate before rhetorical
 polish; when one word seems wrong, recheck the exchange instead of merely
 substituting a synonym. Meaningful non-spoken contact is dialogue too.
+Before saving, read each consequential exchange with its adjacent action as a
+reader who has not seen the outline: track what each person physically observes,
+knows, asks, hears, and can do next. Check that props, vehicles, entrances,
+signals, quantities, rule limits, and elapsed time stay possible. A vivid line
+cannot repair a missing
+setup or make a listener understand information never spoken. Give speakers
+different attention, social permission, and responses to pressure rather than
+uniformly polished turns. Keep ordinary directness where it belongs.
 
 After complete prose exists, revise that same file at four scales:
 
@@ -64,6 +72,12 @@ After complete prose exists, revise that same file at four scales:
 4. **Language and sound:** viewpoint filtering, paragraph movement, sentence
    rhythm, specificity, imagery, and speaker-owned language. Repair generic
    gestures, artificial metaphors, accidental echoes, and mechanical emphasis.
+
+Make one final skeptical read for prompt fidelity and over-explanation. Preserve
+deliberate user editorial choices; do not reinterpret a cover note as prose
+permission or turn a localized request into a redesign. At the ending, remove
+only narration or dialogue that repeats a consequence the scene has already
+made clear. This read is in place, not a separate artifact or checklist.
 
 These are in-place craft judgments, not quotas, automatic bans, or saved passes.
 In REVISE mode, address only assigned blocking findings and indispensable

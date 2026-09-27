@@ -41,6 +41,68 @@ def edition_fixture(story):
     }
 
 
+class FreshStoryReviewTests(unittest.TestCase):
+    def test_changed_current_prose_requires_matching_review_hash(self):
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            directory = root / "stories" / "source-story"
+            directory.mkdir(parents=True)
+            source = directory / "story.md"
+            source.write_text("---\ncanon: false\n---\nChanged prose.\n", encoding="utf-8", newline="\n")
+            changed = story_fixture(body="Changed prose.", canon=False)
+            previous = story_fixture(body="Earlier prose.", canon=False)
+            review = directory / "review.md"
+            review.write_text("Verdict: PASS\n", encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+                build._require_fresh_current_review(changed, previous, root)
+            review.write_text(
+                "Verdict: PASS\nReviewed prose SHA-256: " +
+                hashlib.sha256(b"Changed prose.\n").hexdigest() + "\n",
+                encoding="utf-8",
+            )
+            build._require_fresh_current_review(changed, previous, root)
+            source.write_text(source.read_text(encoding="utf-8").replace("canon: false", "canon: true"),
+                              encoding="utf-8", newline="\n")
+            build._require_fresh_current_review(changed, previous, root)
+            source.write_text(source.read_text(encoding="utf-8") + "Another line.\n", encoding="utf-8", newline="\n")
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+                build._require_fresh_current_review(changed, previous, root)
+
+    def test_unchanged_published_current_prose_allows_cover_refresh(self):
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = story_fixture(canon=False)
+            directory = root / "stories" / story.slug
+            directory.mkdir(parents=True)
+            (directory / "story.md").write_text("---\ncanon: false\n---\n" + story.body,
+                                                encoding="utf-8", newline="\n")
+            (directory / "review.md").write_text("Verdict: PASS\n", encoding="utf-8")
+            build._require_fresh_current_review(story, story, root)
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+                build._require_fresh_current_review(replace(story, canon=True), story, root)
+
+    def test_bundle_capture_requires_handoff_hash_and_capture_all_refuses_changed_body(self):
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            directory = root / "stories" / "source-story"
+            directory.mkdir(parents=True)
+            source = directory / "05-story.md"
+            source.write_text("# New bundle prose\n", encoding="utf-8")
+            changed = story_fixture(body="# New bundle prose\n", canon=False)
+            previous = story_fixture(body="# Earlier bundle prose\n", canon=False)
+            with self.assertRaisesRegex(ValueError, "fresh Claude PASS handoff hash"):
+                build._require_bundle_review_hash(changed, previous, root, None)
+            with self.assertRaisesRegex(ValueError, "fresh Claude PASS handoff hash"):
+                build._require_bundle_review_hash(changed, previous, root, "0" * 64)
+            build._require_bundle_review_hash(changed, previous, root, hashlib.sha256(source.read_bytes()).hexdigest())
+            build._require_bundle_review_hash(changed, changed, root, None)
+            with self.assertRaisesRegex(ValueError, "use named capture"):
+                build._refuse_changed_bundle_in_capture_all(changed, previous, root)
+            build._refuse_changed_bundle_in_capture_all(changed, changed, root)
+            with self.assertRaisesRegex(ValueError, "use named capture"):
+                build._refuse_changed_bundle_in_capture_all(replace(changed, canon=True), changed, root)
+
+
 class IllustratedPublicationTests(unittest.TestCase):
     def setUp(self):
         self.story = story_fixture()
