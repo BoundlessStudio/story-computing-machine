@@ -1507,6 +1507,11 @@
       "slug": "the-place-laid-for-her",
       "source": "stories/the-place-laid-for-her/story.md",
       "specification": "pages/character-specs/the-place-laid-for-her.json"
+    },
+    {
+      "slug": "the-sun-in-the-crowd",
+      "source": "stories/the-sun-in-the-crowd/story.md",
+      "specification": "pages/character-specs/the-sun-in-the-crowd.json"
     }
   ],
   "checkpoint": {

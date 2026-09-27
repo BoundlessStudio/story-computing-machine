@@ -11918,6 +11918,51 @@
       ]
     },
     {
+      "slug": "the-sun-in-the-crowd",
+      "title": "The Sun in the Crowd",
+      "reader": "stories/the-sun-in-the-crowd.html",
+      "images": [
+        {
+          "id": "auvet",
+          "title": "Auvet",
+          "alt": "Sculpted Impasto character reference sheet of Auvet for The Sun in the Crowd",
+          "source": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+          "sourceSha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+          "full": {
+            "path": "characters/the-sun-in-the-crowd/auvet-ca0c1fa987812437.webp",
+            "sha256": "7f16186a27b376e630ee2d146746f6d67d0b62a56f539a4c30a16adf3732f19f",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-sun-in-the-crowd/auvet-ca0c1fa987812437-thumb.webp",
+            "sha256": "659c44bbda428960aa833c70368d717773dfafe6c84742be345428f97c8d8786",
+            "width": 480,
+            "height": 320
+          }
+        },
+        {
+          "id": "mial",
+          "title": "Mial",
+          "alt": "Sculpted Impasto character reference sheet of Mial for The Sun in the Crowd",
+          "source": "stories/the-sun-in-the-crowd/art/characters/mial.png",
+          "sourceSha256": "d31d53db6818c12db69c16f8f8e2a5473825db32b258d9ae254fa04619636dd7",
+          "full": {
+            "path": "characters/the-sun-in-the-crowd/mial-d31d53db6818c12d.webp",
+            "sha256": "a9c0181ae8aac30ecab89a8837b9ec462a1c4f67220588aa149f2f1c1b741cae",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "characters/the-sun-in-the-crowd/mial-d31d53db6818c12d-thumb.webp",
+            "sha256": "1b939bfab4a04ff5c3b6d93d06a607b15e799251428dcb0982a7d00b9947436a",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "tenth-world-lesson",
       "title": "The Tenth World Needs No Hero",
       "reader": "stories/tenth-world-lesson.html",

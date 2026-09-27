@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-sun-in-the-crowd",
+  "title": "The Sun in the Crowd",
+  "source": "stories/the-sun-in-the-crowd/story.md",
+  "sourceSha256": "69cc663cadb5f7b9e63e19944d675a0eed70055f821c0542517edbe0a570f584",
+  "canon": false,
+  "readComplete": true,
+  "assessment": "complete",
+  "mainCastEvidence": "Complete finished prose and PASS review read. Mial is the first-person portraitist with the left Sprite Eye; Auvet is the sitter and street performer whose visible horse contrasts with her subjective inner radiance.",
+  "selectedSubjects": {
+    "characters": [
+      "Mial",
+      "Auvet"
+    ],
+    "exteriors": [
+      "Evening night-market street with Mial's portrait stall"
+    ],
+    "interiors": []
+  },
+  "absentCategoryReasons": {
+    "interiors": "Story takes place outside at the market stall; no interior scene.",
+    "otherExterior": "The performance square is only heard from the stall, never entered or seen."
+  },
+  "excludedMinorCharacters": [
+    {
+      "name": "Previous sitter and child",
+      "reason": "Brief framing figures, not main cast."
+    },
+    {
+      "name": "Passing vendors and pedestrians",
+      "reason": "Crowd/background roles without sustained individual identity."
+    }
+  ],
+  "authorityReferences": [
+    "universe/README.md authority order",
+    "stories/the-sun-in-the-crowd/prompt.md",
+    "stories/the-sun-in-the-crowd/review.md PASS and prose body hash 7318cefc9d058e78ac4a490f555c82e649e2465f49598631fce975cbbbc56351",
+    "pages/character-manifest.json style.userRevision and sharedStyleAnchors"
+  ],
+  "characters": [
+    {
+      "id": "auvet",
+      "name": "Auvet",
+      "role": "Main character; pale-haired street performer and Mial's portrait sitter",
+      "selectionEvidence": [
+        {
+          "line": 31,
+          "quote": "perhaps thirty, with one eyebrow notched near the end and a faint crease running from her nose toward her mouth",
+          "explanation": "Source fixes age impression and distinguishing face."
+        },
+        {
+          "line": 161,
+          "quote": "the threads bent into the shape of a tiny horse",
+          "explanation": "Her light drawing is visible to bystanders and merits a small hand-adjacent study."
+        },
+        {
+          "line": 187,
+          "quote": "the lower edge of her coat was frayed, not embroidered",
+          "explanation": "The sheet must distinguish worn fabric from invented ornament."
+        }
+      ],
+      "storyAppearance": {
+        "lifeStage": "Adult, perhaps thirty",
+        "hair": "Pale braid; left side cut shorter in a hurry",
+        "face": "One eyebrow notched near its end; asymmetric crease beside mouth",
+        "clothing": "Plain dark coat with carefully mended cuff and frayed lower edge; practical boots",
+        "movement": "Moves quickly toward a performance; can pose briefly and draw colored threads in air",
+        "light": "A small red, blue and green horse is public and insubstantial; immense gold-white inner spark edged pink/violet is visible only to Mial's left Sprite Eye"
+      },
+      "visualInterpretation": [
+        "Individual adult facial planes and practical braid; no reuse of the original's anime face or crowd.",
+        "Warm oil-lamp side light and subdued market-night shadow adapted from gallery oil painting, without a literal inner aura.",
+        "One eyebrow notch rendered in the enlarged study; exact anatomical side is an art choice because prose leaves it unspecified."
+      ],
+      "states": [
+        {
+          "label": "At Mial's portrait stall",
+          "description": "Dark coat with mended cuff, pale uneven hair, tiny temporary colored-light horse above raised fingers."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-sun-in-the-crowd:auvet",
+        "links": [],
+        "evidence": "No shared-universe identity claim; finished story introduces Auvet locally."
+      },
+      "references": [
+        {
+          "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-611a4694-1026-404d-a4f7-1a8cc7d6bc7b.png",
+          "sha256": "b098a5096e957fa547b4f7a6d855943c66a75c0e825e4c1717c414674c7ac293",
+          "role": "User original Image #1: pale hair and subjective bright pink/violet contrast only; no anime rendering, crowd or literal public aura",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+          "role": "Primary shared gallery oil anchor: broad interlocking colour/value masses, varied daylight paint rhythm only; no scenery or daylight copied",
+          "inspected": true
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+          "role": "Primary shared gallery oil anchor: restrained connected shadows, lost edges and directional opaque brushwork only; no scenery copied",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in Codex image generation",
+        "backendModel": "not reported",
+        "prompt": "Edit the supplied Auvet character reference sheet, preserving its excellent overall 3:2 ivory layout, exactly one woman's identity, face, pale braid, dark coat, two full-body views, small red-blue-green light horse, oil-paint massing, typography, and exact text \"Auvet\" / \"The Sun in the Crowd\". Make only two targeted corrections:\n\n1. Remove all painted terrain, ground patches and substantial cast-shadow shapes beneath BOTH pairs of boots. Let the isolated figures end cleanly against the continuous quiet ivory sheet, perhaps with the faintest contact indication only; no scenic flooring, vignette, grass, rocks or dirt.\n2. Give the outer end of the SAME anatomical eyebrow a small, clearly visible notch in the enlarged face study and the standing face, consistent across views. Keep the face otherwise identical, including the asymmetric mouth crease. Do not make a scar or move the notch to different sides.\n\nKeep the painting fully opaque 1536 × 1024 landscape. Maintain Canadian Group of Seven inspired broad connected oil colour/value masses and restrained evening stall lamp, with no anime, glossy digital texture, rim light or glowing human aura. Do not alter any other clothing, pose, hands, horse, background, composition or text.",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-9a60d071-8c54-4d5c-b0bc-83871e553ab7.png",
+            "sha256": "4e8cb39e2181b7e6650a9a5b9579fb70a683c1fce82fb97a29d92a68f3154193",
+            "role": "Immutable first Auvet sheet edit target; preserve identity, painted layout and text while removing boot ground patches and clarifying brow notch",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "status": "REVISE",
+            "prompt": "Use case: illustration-story.\nAsset type: finished character reference sheet for the story gallery. Create exactly ONE opaque landscape 3:2 PNG composition, approximately 1536 × 1024, on quiet warm ivory support.\n\nTEXT, spelled and printed exactly, readable at gallery size: large heading \"Auvet\"; subtitle \"The Sun in the Crowd\". No other words, labels, watermark, numbers, swatches or palette strips.\n\nREFERENCE INPUT ROLES:\nImage 1, the supplied original: content/mood guidance only for a pale-haired focal adult against darkness and Mial's subjective pink/violet impression. Do NOT copy its anime/digital rendering, crowd, blinding face, bodily glow or public aura.\nImages 2 and 3, the actual gallery landscape paintings: PRIMARY references for Canadian Group of Seven inspired oil construction and lighting. Borrow broad interlocking colour/value masses, varied directional opaque bristle strokes, quiet connecting passages, selective substantial impasto, matte pigment and connected restrained shadow shapes. Do not copy their trees, terrain, geography, bright daytime light or palette literally.\n\nSUBJECT: Auvet is ONE adult woman about thirty, clearly the same identity in every study. Pale hair with the left side cut a little shorter in a hurry, in a practical loose braid or gathered length. Distinctive single notch near the outer end of ONE eyebrow, consistently on the same anatomical side in all facial views. Faint asymmetric crease from nose toward one mouth corner, deepening when she begins to smile. A definite individual face, human ordinary proportions and anatomy, alert and slightly impatient but warm. Plain dark, worn coat with carefully mended cuff and modestly frayed lower edge, practical boots. No glamour costume, jewelry, stage regalia, weapon or invented marks.\n\nLAYOUT: a dominant uncropped standing front three-quarter full-body study showing the coat, hands, boots and coherent proportions; a smaller uncropped rear/side full-body view of the same woman showing uneven pale hair, dark coat and mended cuff; and one useful enlarged face detail showing the eyebrow notch and asymmetric mouth crease. Separate views with generous ivory breathing space. If space allows, place one small insubstantial three-step horse shape of red, blue and green light just above her raised fingertips, with a few modest colored reflections only on her fingers/cuff. The tiny colored-light figure is the actual public art she draws and evaporates when her fingers lower; it is not a second character.\n\nPAINT AND LIGHT: paint figure anatomy, face and fabric as decisively simplified coherent oil shapes, not a smooth digital figure with an impasto filter. Story time is evening at a portrait stall: modest warm oil-lamp illumination from one side of the principal view, subdued cool ambient market night in the shadows, believable tonal falloff and lost edges; no street or stall illustrated. Character stays readable, but shadows remain connected and restrained, not studio fill. The colored horse can cast only a little local light. Her huge gold-white inner radiance with pink/violet edge is visible only to Mial's Sprite Eye and must NOT be painted as a literal halo, blazing body, public aura, flames or theatrical rim. The original's pink/violet may inform a tiny low-contrast subjective accent or the small magic figure; do not flood the sheet.\n\nSTRICT: exactly one human identity; no other person, crowd, setting, location vignette, floor/terrain patch, decorative splash backdrop, sunlight, glossy or photographic/3D face, anime linework, uniformly bevel-lit paint chips, glossy eyes, cinematic contour lighting or automatic orange/blue split. Clear anatomy in every repeated view.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/AppData/Local/Temp/codex-clipboard-611a4694-1026-404d-a4f7-1a8cc7d6bc7b.png",
+                "sha256": "b098a5096e957fa547b4f7a6d855943c66a75c0e825e4c1717c414674c7ac293",
+                "role": "User original Image #1: pale hair and subjective bright pink/violet contrast only; no anime rendering, crowd or literal public aura",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Primary shared gallery oil anchor: broad interlocking colour/value masses, varied daylight paint rhythm only; no scenery or daylight copied",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Primary shared gallery oil anchor: restrained connected shadows, lost edges and directional opaque brushwork only; no scenery copied",
+                "inspected": true
+              }
+            ],
+            "returnedCandidate": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-9a60d071-8c54-4d5c-b0bc-83871e553ab7.png",
+            "candidateSha256": "4e8cb39e2181b7e6650a9a5b9579fb70a683c1fce82fb97a29d92a68f3154193",
+            "visualReview": "Single identity and headings were strong; rejected because both boot views had painted ground patches and the brow notch was uncertain at reading size."
+          },
+          {
+            "attempt": 2,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in edit",
+            "status": "PASS",
+            "prompt": "Edit the supplied Auvet character reference sheet, preserving its excellent overall 3:2 ivory layout, exactly one woman's identity, face, pale braid, dark coat, two full-body views, small red-blue-green light horse, oil-paint massing, typography, and exact text \"Auvet\" / \"The Sun in the Crowd\". Make only two targeted corrections:\n\n1. Remove all painted terrain, ground patches and substantial cast-shadow shapes beneath BOTH pairs of boots. Let the isolated figures end cleanly against the continuous quiet ivory sheet, perhaps with the faintest contact indication only; no scenic flooring, vignette, grass, rocks or dirt.\n2. Give the outer end of the SAME anatomical eyebrow a small, clearly visible notch in the enlarged face study and the standing face, consistent across views. Keep the face otherwise identical, including the asymmetric mouth crease. Do not make a scar or move the notch to different sides.\n\nKeep the painting fully opaque 1536 × 1024 landscape. Maintain Canadian Group of Seven inspired broad connected oil colour/value masses and restrained evening stall lamp, with no anime, glossy digital texture, rim light or glowing human aura. Do not alter any other clothing, pose, hands, horse, background, composition or text.",
+            "references": [
+              {
+                "path": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-9a60d071-8c54-4d5c-b0bc-83871e553ab7.png",
+                "sha256": "4e8cb39e2181b7e6650a9a5b9579fb70a683c1fce82fb97a29d92a68f3154193",
+                "role": "Immutable first Auvet sheet edit target; preserve identity, painted layout and text while removing boot ground patches and clarifying brow notch",
+                "inspected": true
+              }
+            ],
+            "returnedCandidate": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-ee984380-acd0-475e-8db9-a5fa27b515c9.png",
+            "candidateSha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+            "visualReview": "Ground patches removed; notch and asymmetrical smile crease readable in close crop; identity, horse, coat, typography and broad oil treatment preserved."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "Auvet illustrator saved-pixel inspection; coordinator independent PASS at full and gallery-card size",
+        "sourceSha256": "69cc663cadb5f7b9e63e19944d675a0eed70055f821c0542517edbe0a570f584",
+        "outputSha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+        "references": [
+          {
+            "path": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-9a60d071-8c54-4d5c-b0bc-83871e553ab7.png",
+            "sha256": "4e8cb39e2181b7e6650a9a5b9579fb70a683c1fce82fb97a29d92a68f3154193",
+            "role": "Immutable first Auvet sheet edit target; preserve identity, painted layout and text while removing boot ground patches and clarifying brow notch",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Saved opaque RGB PNG is 1536×1024 (3:2) and byte-identical to selected immutable candidate.",
+          "Full-size selected candidate and exact saved PNG were inspected; 384×256 thumbnail and enlarged face crop were also inspected.",
+          "Both complete full-body views and close face share one adult pale-haired identity; eyebrow notch and asymmetric mouth crease are visible.",
+          "Plain dark coat retains mended cuff and frayed hem, with small red-blue-green horse above raised fingers.",
+          "Exact headings Auvet and The Sun in the Crowd remain readable; ivory space has no location, terrain patch, swatches or extra person.",
+          "Broad opaque oil masses, directional strokes and restrained warm/cool evening light match inspected gallery anchors without a glowing human aura."
+        ],
+        "specificationSha256": "3b874ae9dbb5055e0334fc01883c6a35700ea58baef11e769c79900fc62880ae",
+        "independentReview": {
+          "status": "PASS",
+          "reviewer": "coordinator",
+          "evidence": "Coordinator inspected exact saved PNG at full size and 384x256 thumbnail; verified output SHA-256 and one consistent adult identity, pale hair, eyebrow notch, mended coat, supported light horse, exact headings, full hands/feet, matte oil strokes, quiet ivory, no vignette or public aura."
+        }
+      },
+      "outputSha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e"
+    },
+    {
+      "id": "mial",
+      "name": "Mial",
+      "role": "First-person protagonist; night-market street portraitist whose left Sprite Eye sees hidden living sparks",
+      "selectionEvidence": [
+        {
+          "line": 19,
+          "quote": "My Sprite Eye, the left one, had shown me the little fires inside people",
+          "explanation": "Mial's point of view and left-eye faculty drive the story; the eye needs no outward mark."
+        },
+        {
+          "line": 25,
+          "quote": "my portfolio knocking against my hip",
+          "explanation": "The portable portfolio is a defining work object."
+        },
+        {
+          "line": 129,
+          "quote": "I tore a narrow strip from the edge of my rag and tied it over the eye, under my hair",
+          "explanation": "The left-eye covering is a temporary state during the corrected sitting."
+        },
+        {
+          "line": 153,
+          "quote": "She looked at the charcoal on my fingers",
+          "explanation": "Charcoal-stained fingertips are supported; exact clothing, age, hair and gender are unspecified."
+        }
+      ],
+      "storyAppearance": {
+        "age": "Unspecified",
+        "gender": "Unspecified",
+        "skinHairFace": "Unspecified; both eyes are ordinarily visible when uncovered, and left Sprite Eye has no stated visible sign",
+        "clothing": "A coat is mentioned; its cut and colour are unspecified",
+        "equipment": "Canvas portfolio carried at hip, paper, charcoal, drawing board and a narrow strip torn from a rag",
+        "movement": "Works quickly at a street portrait stall; covers the left eye to stop seeing inner light",
+        "lighting": "Warm oil lamp illuminates the sitting; evening market ambience surrounds the stall"
+      },
+      "visualInterpretation": [
+        "Adult with medium-brown skin, short dark curls, lean practical build and attentive eyes; none of these attributes is a canon claim.",
+        "Short worn slate-blue work coat, muted linen shirt, dark trousers and boots distinguish Mial from Auvet while staying plausible for street portrait work.",
+        "Charcoal-stained hands, cross-body canvas portfolio, loose clean sheets and temporary rag strip over the anatomical left eye are source-grounded details; no visible Sprite Eye glow."
+      ],
+      "states": [
+        {
+          "label": "Working portraitist",
+          "description": "Both eyes uncovered, charcoal in hand, portfolio at hip."
+        },
+        {
+          "label": "Auvet's corrected sitting",
+          "description": "Narrow rag strip tied over the left eye beneath the hair; same coat and portfolio; ordinary right-eye view."
+        }
+      ],
+      "recurrence": {
+        "identityKey": "the-sun-in-the-crowd:mial",
+        "links": [],
+        "evidence": "Named in this finished story; no shared-universe identity match or appearance authority claimed."
+      },
+      "references": [
+        {
+          "path": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+          "sha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+          "role": "Primary same-story accepted folio rendering, typography, ivory spacing and restrained evening lamp; no face, costume, pose or magic transfer",
+          "inspected": true
+        },
+        {
+          "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+          "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+          "role": "Shared gallery oil anchor for broad connected colour/value masses and directional paint only; no orchard, terrain or daylight transfer",
+          "inspected": true
+        },
+        {
+          "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+          "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+          "role": "Shared gallery oil anchor for restrained shadow families, lost edges and opaque brush rhythm only; no stream or daylight transfer",
+          "inspected": true
+        }
+      ],
+      "output": "stories/the-sun-in-the-crowd/art/characters/mial.png",
+      "status": "completed",
+      "blockers": [],
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in Codex image generation",
+        "backendModel": "not reported",
+        "prompt": "Use case: illustration-story.\nAsset type: finished single-character gallery reference sheet. Create ONE opaque landscape 3:2 painting, approximately 1536 × 1024, on quiet warm ivory support.\n\nEXACT READABLE TEXT ONLY: large heading \"Mial\"; subtitle \"The Sun in the Crowd\". No other words, labels, watermark, numbers, paint swatches or palette strips.\n\nINPUT ROLES: Image 1 is the ACCEPTED Auvet sheet from this same story and is the PRIMARY exact folio rendering and presentation anchor: match its broad matte Canadian Group of Seven inspired oil construction, directional bristle strokes, simplified face/fabric masses, selective impasto, warm ivory spacing, lettering scale, and restrained evening stall-lamp light. Do not copy Auvet's face, pale braid, notched brow, mouth crease, long dark coat, horse or pose. Image 2 is the orchard gallery painting; use its connected large colour/value shapes and rhythmic opaque paint only, never its trees, land or daylight. Image 3 is the stream gallery painting; use its quiet linked shadow masses, lost edges and paint movement only, never its geography or daylight.\n\nONE SUBJECT: Mial, the first-person street portraitist, an adult with an ordinary individual face. Their exact age, gender, hair, skin tone and coat design are unspecified in prose; make these VISUAL INTERPRETATIONS rather than world facts. Choose a distinct, believable portraitist: medium-brown skin, short dark softly curled hair, lean practical build, dark attentive eyes. A short worn slate-blue work coat over a muted linen shirt, simple dark trousers and sturdy boots distinguish Mial from Auvet; the coat exists in the story, but its cut and colours are interpretations. Hands have ordinary charcoal smudges on fingertips. A simple cross-body canvas portfolio rests at the hip, with loose clean paper visible, plus charcoal sticks and a plain drawing board. No image of another person on the paper.\n\nTHREE COHERENT STUDIES OF THE SAME PERSON: a dominant fully uncropped standing front three-quarter full-body view with portfolio strap and a charcoal stick held naturally; a smaller fully uncropped standing side/rear three-quarter full-body view holding the plain drawing board with a narrow torn rag tied over the character's ANATOMICAL LEFT EYE under the short hair, as during Auvet's sitting; one enlarged face/head study showing the same face with BOTH eyes uncovered for identity. Add a small useful hand-and-charcoal detail only if space remains. Keep the same body proportions, skin, hair, face, coat and portfolio across all views. The rag is a temporary working aid, not a permanent medical eyepatch. The Sprite Eye is the anatomical LEFT eye and sees other people's hidden inner sparks; it has NO required outward glow, color change, inscription or mutation. Both uncovered eyes look ordinary.\n\nPAINT/LIGHT: Build the human face as decisive opaque oil paint planes, matte and clearly part of the same painted collection as Image 1, never photographic or glossy. Workcoat and shirt are broad connected value masses with varied directional strokes, selective thick pigment and quiet passages. Lighting is motivated by a modest warm oil lamp at an evening market portrait stall, with restrained cool night ambience and genuinely dark connected shadows; no dramatic glow or rim. The subtle lamp light is on Mial, but depict no stall or location.\n\nSTRICT CHARACTER-ONLY FOLIO: one human identity only, no Auvet, no crowds, no portrait of another person, no floating magical spark or aura, no studio spotlight, no scenic inset, room, street, roof, chair, floor, terrain patch or cast ground shadow beneath boots. Keep all three forms fully inside the ivory page, hands and feet intact. No anime linework, photographic/3D finish, shiny eyes, uniform bevelled paint chips, automatic orange-blue contrast or theatrical lighting.",
+        "references": [
+          {
+            "path": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+            "sha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+            "role": "Primary same-story accepted folio rendering, typography, ivory spacing and restrained evening lamp; no face, costume, pose or magic transfer",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Shared gallery oil anchor for broad connected colour/value masses and directional paint only; no orchard, terrain or daylight transfer",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Shared gallery oil anchor for restrained shadow families, lost edges and opaque brush rhythm only; no stream or daylight transfer",
+            "inspected": true
+          }
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "tool": "image_gen.imagegen",
+            "mode": "built-in",
+            "status": "PASS",
+            "prompt": "Use case: illustration-story.\nAsset type: finished single-character gallery reference sheet. Create ONE opaque landscape 3:2 painting, approximately 1536 × 1024, on quiet warm ivory support.\n\nEXACT READABLE TEXT ONLY: large heading \"Mial\"; subtitle \"The Sun in the Crowd\". No other words, labels, watermark, numbers, paint swatches or palette strips.\n\nINPUT ROLES: Image 1 is the ACCEPTED Auvet sheet from this same story and is the PRIMARY exact folio rendering and presentation anchor: match its broad matte Canadian Group of Seven inspired oil construction, directional bristle strokes, simplified face/fabric masses, selective impasto, warm ivory spacing, lettering scale, and restrained evening stall-lamp light. Do not copy Auvet's face, pale braid, notched brow, mouth crease, long dark coat, horse or pose. Image 2 is the orchard gallery painting; use its connected large colour/value shapes and rhythmic opaque paint only, never its trees, land or daylight. Image 3 is the stream gallery painting; use its quiet linked shadow masses, lost edges and paint movement only, never its geography or daylight.\n\nONE SUBJECT: Mial, the first-person street portraitist, an adult with an ordinary individual face. Their exact age, gender, hair, skin tone and coat design are unspecified in prose; make these VISUAL INTERPRETATIONS rather than world facts. Choose a distinct, believable portraitist: medium-brown skin, short dark softly curled hair, lean practical build, dark attentive eyes. A short worn slate-blue work coat over a muted linen shirt, simple dark trousers and sturdy boots distinguish Mial from Auvet; the coat exists in the story, but its cut and colours are interpretations. Hands have ordinary charcoal smudges on fingertips. A simple cross-body canvas portfolio rests at the hip, with loose clean paper visible, plus charcoal sticks and a plain drawing board. No image of another person on the paper.\n\nTHREE COHERENT STUDIES OF THE SAME PERSON: a dominant fully uncropped standing front three-quarter full-body view with portfolio strap and a charcoal stick held naturally; a smaller fully uncropped standing side/rear three-quarter full-body view holding the plain drawing board with a narrow torn rag tied over the character's ANATOMICAL LEFT EYE under the short hair, as during Auvet's sitting; one enlarged face/head study showing the same face with BOTH eyes uncovered for identity. Add a small useful hand-and-charcoal detail only if space remains. Keep the same body proportions, skin, hair, face, coat and portfolio across all views. The rag is a temporary working aid, not a permanent medical eyepatch. The Sprite Eye is the anatomical LEFT eye and sees other people's hidden inner sparks; it has NO required outward glow, color change, inscription or mutation. Both uncovered eyes look ordinary.\n\nPAINT/LIGHT: Build the human face as decisive opaque oil paint planes, matte and clearly part of the same painted collection as Image 1, never photographic or glossy. Workcoat and shirt are broad connected value masses with varied directional strokes, selective thick pigment and quiet passages. Lighting is motivated by a modest warm oil lamp at an evening market portrait stall, with restrained cool night ambience and genuinely dark connected shadows; no dramatic glow or rim. The subtle lamp light is on Mial, but depict no stall or location.\n\nSTRICT CHARACTER-ONLY FOLIO: one human identity only, no Auvet, no crowds, no portrait of another person, no floating magical spark or aura, no studio spotlight, no scenic inset, room, street, roof, chair, floor, terrain patch or cast ground shadow beneath boots. Keep all three forms fully inside the ivory page, hands and feet intact. No anime linework, photographic/3D finish, shiny eyes, uniform bevelled paint chips, automatic orange-blue contrast or theatrical lighting.",
+            "references": [
+              {
+                "path": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+                "sha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+                "role": "Primary same-story accepted folio rendering, typography, ivory spacing and restrained evening lamp; no face, costume, pose or magic transfer",
+                "inspected": true
+              },
+              {
+                "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+                "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+                "role": "Shared gallery oil anchor for broad connected colour/value masses and directional paint only; no orchard, terrain or daylight transfer",
+                "inspected": true
+              },
+              {
+                "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+                "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+                "role": "Shared gallery oil anchor for restrained shadow families, lost edges and opaque brush rhythm only; no stream or daylight transfer",
+                "inspected": true
+              }
+            ],
+            "returnedCandidate": "C:/Users/jamie/.codex/generated_images/01a0e067-c44c-7112-bd88-3c2cef505874/exec-5c66962f-545f-4261-a4d8-e2ed3f5a4a13.png",
+            "candidateSha256": "d31d53db6818c12db69c16f8f8e2a5473825db32b258d9ae254fa04619636dd7",
+            "visualReview": "Accepted after exact saved full, 384×256 thumbnail and left-eye rag detail inspection; one coherent Mial, full hands/feet, exact headings, correct portfolio and ordinary uncovered eyes."
+          }
+        ]
+      },
+      "validation": {
+        "status": "PASS",
+        "reviewer": "Mial illustrator saved-pixel inspection; coordinator independent PASS at full and gallery-card size",
+        "sourceSha256": "69cc663cadb5f7b9e63e19944d675a0eed70055f821c0542517edbe0a570f584",
+        "outputSha256": "d31d53db6818c12db69c16f8f8e2a5473825db32b258d9ae254fa04619636dd7",
+        "references": [
+          {
+            "path": "stories/the-sun-in-the-crowd/art/characters/auvet.png",
+            "sha256": "ca0c1fa9878124372be5564d465f46e32f4028d4e9d202a42cb5d9343269ea2e",
+            "role": "Primary same-story accepted folio rendering, typography, ivory spacing and restrained evening lamp; no face, costume, pose or magic transfer",
+            "inspected": true
+          },
+          {
+            "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+            "sha256": "95c49ac83ffaf5d226eb8641f366a89e3fe783bf185a7d13285e7b90d0f5a633",
+            "role": "Shared gallery oil anchor for broad connected colour/value masses and directional paint only; no orchard, terrain or daylight transfer",
+            "inspected": true
+          },
+          {
+            "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+            "sha256": "6c6619313186215661a42e3bd74704d7951a3161e41fa060d32a6badeb7cb5cb",
+            "role": "Shared gallery oil anchor for restrained shadow families, lost edges and opaque brush rhythm only; no stream or daylight transfer",
+            "inspected": true
+          }
+        ],
+        "evidence": [
+          "Saved opaque RGB PNG is 1536×1024 and byte-identical to its immutable generated candidate.",
+          "Exact saved file, 384×256 thumbnail, and enlarged temporary left-eye rag detail were inspected.",
+          "Two uncropped full-body views, enlarged uncovered face and charcoal hand detail show one consistent dark-curled portraitist with complete hands and feet.",
+          "Cross-body portfolio, charcoal smudges, drawing board and temporary strip over the anatomical left eye match the finished story; the eye has no literal glow.",
+          "Exact headings Mial and The Sun in the Crowd are readable; quiet ivory has no other person, environment, ground patch, palette strip or aura.",
+          "Matte large oil masses, directional opaque marks and restrained evening light visibly cohere with accepted Auvet and inspected Group of Seven anchors."
+        ],
+        "specificationSha256": "22d0d02ec882630adb3dc54343644e7f21b1cb039d1b8337efc3699ff52ba7c5"
+      },
+      "outputSha256": "d31d53db6818c12db69c16f8f8e2a5473825db32b258d9ae254fa04619636dd7"
+    }
+  ]
+}

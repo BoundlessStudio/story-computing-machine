@@ -8921,6 +8921,32 @@
       ]
     },
     {
+      "slug": "the-sun-in-the-crowd",
+      "title": "The Sun in the Crowd",
+      "reader": "stories/the-sun-in-the-crowd.html",
+      "images": [
+        {
+          "id": "night-market-portrait-stall",
+          "title": "Night market portrait stall",
+          "alt": "Night market portrait stall — oil landscape study for The Sun in the Crowd",
+          "source": "stories/the-sun-in-the-crowd/art/landscapes/night-market-portrait-stall.png",
+          "sourceSha256": "a8c7603bfc3563ff694731b0a5fe6599902db3dcdae04f98e5e0922eaf0f6d23",
+          "full": {
+            "path": "landscapes/the-sun-in-the-crowd/night-market-portrait-stall-a8c7603bfc3563ff.webp",
+            "sha256": "384693d6ce062615b364d4bc7838528c4ab1351b12d95f456cf9cc125b26ef96",
+            "width": 1536,
+            "height": 1024
+          },
+          "thumbnail": {
+            "path": "landscapes/the-sun-in-the-crowd/night-market-portrait-stall-a8c7603bfc3563ff-thumb.webp",
+            "sha256": "c03fd8d4a1030d40e6e0ca299b30eab4d1338f4057cc53b2e7b406f240e4cf40",
+            "width": 480,
+            "height": 320
+          }
+        }
+      ]
+    },
+    {
       "slug": "tenth-world-lesson",
       "title": "The Tenth World Needs No Hero",
       "reader": "stories/tenth-world-lesson.html",
