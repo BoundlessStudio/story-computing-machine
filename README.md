@@ -20,7 +20,7 @@ The story's `notes.md` keeps the useful editorial memory from outline, draft, an
 
 - [stories/](stories/README.md) — prompts, prose, editorial notes, and selected story art. Older packages retain their previous layout.
 - [universe/](universe/README.md) — shared facts and the small set of narrative boundaries. A story becomes canon only with your explicit approval.
-- [art/](art/README.md) — selection notes and the art archive for locked canon stories; other rescued images now live with their stories.
+- [art/](art/README.md) — notes on artwork selections; every rescued image lives with its story.
 - [illustrated/](illustrated/README.md) and [graphic-novels/](graphic-novels/README.md) — existing editions, preserved as authored artifacts.
 - [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
 

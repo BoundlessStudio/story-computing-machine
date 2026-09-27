@@ -2253,7 +2253,7 @@
     },
     {
       "original": "stories/friends-of-the-night/art/landscapes/03-the-wall-goes-dark.png",
-      "selected": "art/landscapes/friends-of-the-night/03-the-wall-goes-dark.png",
+      "selected": "stories/friends-of-the-night/art/landscapes/selected/03-the-wall-goes-dark.png",
       "correction": "The wall going dark is the built fort wall as its beacons are hooded, erasing nearby roofs. This painting substitutes an unbuilt rocky cliff and open valley, with no fort wall or town."
     },
     {
@@ -2293,7 +2293,7 @@
     },
     {
       "original": "stories/realms/art/landscapes/04-copper-in-the-distance.png",
-      "selected": "art/landscapes/realms/04-copper-in-the-distance.png",
+      "selected": "stories/realms/art/landscapes/selected/04-copper-in-the-distance.png",
       "correction": "Adds another red-plain vista while reducing the distinctive breathing, shell-borne city to ordinary towers on the distant ground."
     },
     {
@@ -2323,7 +2323,7 @@
     },
     {
       "original": "stories/the-last-bus-to-briar-hill/art/landscapes/03-the-three-exit-ring-road.png",
-      "selected": "art/landscapes/the-last-bus-to-briar-hill/03-the-three-exit-ring-road.png",
+      "selected": "stories/the-last-bus-to-briar-hill/art/landscapes/selected/03-the-three-exit-ring-road.png",
       "correction": "Shows the false-exit ring road in daylight, although this test occurs during the night crossing before the sky begins to brighten at Briar Hill."
     },
     {
@@ -2333,7 +2333,7 @@
     },
     {
       "original": "stories/the-shape-of-mercy/art/landscapes/05-meltwater-through-the-orchard.png",
-      "selected": "art/landscapes/the-shape-of-mercy/05-meltwater-through-the-orchard.png",
+      "selected": "stories/the-shape-of-mercy/art/landscapes/selected/05-meltwater-through-the-orchard.png",
       "correction": "Moves the melted ice to an elevated cliff-like barrier above the orchard, whereas Marcus freezes the ornamental pond and courtyard beside the Hall. Image 04 better preserves the actual pond/firebreak geography."
     },
     {
@@ -2343,12 +2343,12 @@
     },
     {
       "original": "stories/the-thirteenth-command/art/landscapes/01-copperwell-before-dawn.png",
-      "selected": "art/landscapes/the-thirteenth-command/01-copperwell-before-dawn.png",
+      "selected": "stories/the-thirteenth-command/art/landscapes/selected/01-copperwell-before-dawn.png",
       "correction": "The opening is inside the cistern command gallery, not an outdoor panorama of a walled reservoir at dawn."
     },
     {
       "original": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/03-blue-streamers-in-the-wind.png",
-      "selected": "art/landscapes/the-weight-of-falling-up-rune-shoes/03-blue-streamers-in-the-wind.png",
+      "selected": "stories/the-weight-of-falling-up-rune-shoes/art/landscapes/selected/03-blue-streamers-in-the-wind.png",
       "correction": "The blue-streamer course is flown among high rooftops. The painting places its marker on a rocky, tree-covered hillside instead."
     },
     {
@@ -2413,7 +2413,7 @@
     },
     {
       "original": "stories/a-place-for-the-living/art/interiors/01-the-kept-place.png",
-      "selected": "art/interiors/a-place-for-the-living/01-the-kept-place.png",
+      "selected": "stories/a-place-for-the-living/art/interiors/selected/01-the-kept-place.png",
       "correction": "Add a fifth complete setting and chair while retaining the singled-out black-linen kept place."
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "original": "stories/daughter-of-the-sun/art/interiors/02-crown-of-noon-chamber.png",
-      "selected": "art/interiors/daughter-of-the-sun/02-crown-of-noon-chamber.png",
+      "selected": "stories/daughter-of-the-sun/art/interiors/selected/02-crown-of-noon-chamber.png",
       "correction": "Remove the ceiling suspension lines so the key is visibly unsupported above the glass circle."
     },
     {
@@ -2468,7 +2468,7 @@
     },
     {
       "original": "stories/four-million-falling/art/interiors/02-manual-sequencer.png",
-      "selected": "art/interiors/four-million-falling/02-manual-sequencer.png",
+      "selected": "stories/four-million-falling/art/interiors/selected/02-manual-sequencer.png",
       "correction": "Add a sixth coherent control station to the curved bank, with adequate framing so all six are legible."
     },
     {
@@ -2588,7 +2588,7 @@
     },
     {
       "original": "stories/the-city-of-eleven-foundations/art/interiors/02-brutalist-undercroft.png",
-      "selected": "art/interiors/the-city-of-eleven-foundations/02-brutalist-undercroft.png",
+      "selected": "stories/the-city-of-eleven-foundations/art/interiors/selected/02-brutalist-undercroft.png",
       "correction": "Place red below yellow consistently on all visible concrete supports; preserve the flood tide mark and other supported details."
     },
     {
@@ -2643,7 +2643,7 @@
     },
     {
       "original": "stories/the-five-minute-warranty/art/interiors/02-the-emergency-roller-train.png",
-      "selected": "art/interiors/the-five-minute-warranty/02-the-emergency-roller-train.png",
+      "selected": "stories/the-five-minute-warranty/art/interiors/selected/02-the-emergency-roller-train.png",
       "correction": "Wrap all five nested color layers tightly around the main contact roller and show the spring-loaded roller train contacting the two offset rims."
     },
     {
@@ -2663,7 +2663,7 @@
     },
     {
       "original": "stories/the-last-monster/art/interiors/01-the-cistern-chamber.png",
-      "selected": "art/interiors/the-last-monster/01-the-cistern-chamber.png",
+      "selected": "stories/the-last-monster/art/interiors/selected/01-the-cistern-chamber.png",
       "correction": "Change only the cup to an irregular helmet-cheek-plate vessel with one clearly squared rim dent."
     },
     {
@@ -2728,22 +2728,22 @@
     },
     {
       "original": "stories/the-shape-of-mercy/art/interiors/02-the-hall-after-the-storm.png",
-      "selected": "art/interiors/the-shape-of-mercy/02-the-hall-after-the-storm.png",
+      "selected": "stories/the-shape-of-mercy/art/interiors/selected/02-the-hall-after-the-storm.png",
       "correction": "Retain the aftermath, ledger, slush and wreckage, but match the established window shapes, bay spacing and square columns from 01."
     },
     {
       "original": "stories/the-sky-remembers-us-return/art/interiors/02-the-restored-doorway.png",
-      "selected": "art/interiors/the-sky-remembers-us-return/02-the-restored-doorway.png",
+      "selected": "stories/the-sky-remembers-us-return/art/interiors/selected/02-the-restored-doorway.png",
       "correction": "Keep the hollow and tipped basin; send bright drops sideways along the living wall rather than straight down to a floor puddle."
     },
     {
       "original": "stories/the-sky-remembers-us-return/art/interiors/03-the-inward-room-after-sunrise.png",
-      "selected": "art/interiors/the-sky-remembers-us-return/03-the-inward-room-after-sunrise.png",
+      "selected": "stories/the-sky-remembers-us-return/art/interiors/selected/03-the-inward-room-after-sunrise.png",
       "correction": "Replace the floor-level walk-through exterior with continuous living wall and place Ithrom's sunrise only in a high remote overhead boundary image without a passable arch or continuous terrain."
     },
     {
       "original": "stories/the-small-moon-rose-first/art/interiors/02-under-the-kitchen-table.png",
-      "selected": "art/interiors/the-small-moon-rose-first/02-under-the-kitchen-table.png",
+      "selected": "stories/the-small-moon-rose-first/art/interiors/selected/02-under-the-kitchen-table.png",
       "correction": "Replace only the intact coin with one rough broken copper crescent/half-token."
     },
     {
@@ -2758,7 +2758,7 @@
     },
     {
       "original": "stories/strength-of-ten/art/interiors/03-the-blocked-hall-doors.png",
-      "selected": "art/interiors/strength-of-ten/03-the-blocked-hall-doors.png",
+      "selected": "stories/strength-of-ten/art/interiors/selected/03-the-blocked-hall-doors.png",
       "correction": "Keep the same table upright on its feet, broad horizontal top clear enough for documents, while placing its long side against the doors and retaining floor gouges."
     },
     {
@@ -2778,12 +2778,12 @@
     },
     {
       "original": "stories/a-throne-neither-wanted/art/interiors/03-empty-throne-chamber.png",
-      "selected": "art/interiors/a-throne-neither-wanted/03-empty-throne-chamber.png",
+      "selected": "stories/a-throne-neither-wanted/art/interiors/selected/03-empty-throne-chamber.png",
       "correction": "Add a simple canopy above the existing throne, keeping the low platform, bare gallery and restrained oil treatment."
     },
     {
       "original": "stories/the-trouble-with-tuesdays/art/interiors/02-the-shoebox-in-the-bedroom.png",
-      "selected": "art/interiors/the-trouble-with-tuesdays/02-the-shoebox-in-the-bedroom.png",
+      "selected": "stories/the-trouble-with-tuesdays/art/interiors/selected/02-the-shoebox-in-the-bedroom.png",
       "correction": "Add one sixth key to the row; retain the rest of the bedroom and box arrangement."
     },
     {
@@ -2813,7 +2813,7 @@
     },
     {
       "original": "stories/the-warmest-person-in-the-room/art/interiors/01-the-registration-hall.png",
-      "selected": "art/interiors/the-warmest-person-in-the-room/01-the-registration-hall.png",
+      "selected": "stories/the-warmest-person-in-the-room/art/interiors/selected/01-the-registration-hall.png",
       "correction": "Replace the door-side banner with a blue ribbon of light, point the painted arrow another way, and make the pale paper sign visibly amended; exact tiny wording need not be legible."
     },
     {
@@ -2838,7 +2838,7 @@
     },
     {
       "original": "stories/the-wrong-side-of-the-part/art/interiors/03-the-wigmakers-workbench.png",
-      "selected": "art/interiors/the-wrong-side-of-the-part/03-the-wigmakers-workbench.png",
+      "selected": "stories/the-wrong-side-of-the-part/art/interiors/selected/03-the-wigmakers-workbench.png",
       "correction": "Use jaw-length ash-brown hair falling from the loosened foundation and rotate the chair away from the mirror; preserve the bench tools and loose strands."
     },
     {
@@ -2848,17 +2848,17 @@
     },
     {
       "original": "stories/what-i-hate-most/art/interiors/01-the-ward-room-before-dawn.png",
-      "selected": "art/interiors/what-i-hate-most/01-the-ward-room-before-dawn.png",
+      "selected": "stories/what-i-hate-most/art/interiors/selected/01-the-ward-room-before-dawn.png",
       "correction": "Replace the snowy rural waterfall through the open door with nearby urban defense channels containing cooling black glass beads and mineral dust; replace the paper pressure map with rigid chalk-marked slate and modest brass contacts."
     },
     {
       "original": "stories/what-i-hate-most/art/interiors/02-the-pressure-map-and-private-hours.png",
-      "selected": "art/interiors/what-i-hate-most/02-the-pressure-map-and-private-hours.png",
+      "selected": "stories/what-i-hate-most/art/interiors/selected/02-the-pressure-map-and-private-hours.png",
       "correction": "Replace the large paper map with a rigid slate map and chalk marks. Preserve the separate two-block duty slate, cup and linen; carry through image 01's corrected glass-channel view in the narrow doorway slice."
     },
     {
       "original": "stories/what-i-hate-most/art/interiors/03-first-light-through-the-ward-door.png",
-      "selected": "art/interiors/what-i-hate-most/03-first-light-through-the-ward-door.png",
+      "selected": "stories/what-i-hate-most/art/interiors/selected/03-first-light-through-the-ward-door.png",
       "correction": "Render the pressure map as the same rigid chalk-marked slate board used in corrected images 01 and 02. Retain the interior composition and first-light treatment."
     },
     {
