@@ -116,11 +116,11 @@ Sela watched her rub it between thumb and forefinger. "Can you feel which side i
 
 Iva closed her eyes. She rubbed once more, then opened them and turned the slip toward the light. "No."
 
+Sela's hand moved toward the drawer. The bridge inside was wired for the hand as it had been. She could open the shell again and rebuild the cut lead, though it would take the afternoon and leave Iva with a repair only this bench knew. She stopped.
+
 "Show me the small screws," Iva said.
 
-Sela's hand went to the drawer handle. The bridge was inside, finished and tested. She lifted the screw tray instead.
-
-Sela tipped three from a tray onto the mat. Iva tried to pick one up with her left fingertips. The first skated away. She put the others beside it, switched on the magnifier, and caught the escaped screw against her nail before lifting it. Her mouth tightened. She tried the second. This time she used the nail from the start.
+Sela tipped three from the screw tray onto the mat. Iva tried to pick one up with her left fingertips. The first skated away. She put the others beside it, switched on the magnifier, and caught the escaped screw against her nail before lifting it. Her mouth tightened. She tried the second. This time she used the nail from the start.
 
 "That'll slow me down," she said.
 
@@ -136,7 +136,7 @@ Sela folded the cloth around the jig. The old collar lay in the metal tray besid
 
 "He's going to ask if we fixed the plasma," she said.
 
-"Tell him we fixed the socket. Plasma costs extra."
+"Tell him the socket gets checked first. Plasma gets a separate estimate."
 
 "You're saying that because you don't have to tell him tomorrow."
 
