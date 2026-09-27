@@ -6,8 +6,8 @@ recoverable through Git history and the canon-locked story bundles.
 
 For a current story, extract proposed people first and search this file only for
 those forms, close spellings, reversals, and confusable aliases. Do not load the
-whole table into an agent context. Current people and places belong in each
-story's compact `review.md` noun inventory.
+whole table into an agent context. For newer stories without a `review.md`
+inventory, search their `story.md` prose when a proposed name may recur or confuse readers.
 
 <!-- registry:start -->
 | Identity | Reserved forms | Story or source | Reuse |

@@ -141,7 +141,6 @@ and no supplied boundary forbids it.
 - Profile each character's speech patterns separately
 - Read dialogue aloud, voice each character distinctly
 - Map what each character notices, assumes, explains, and refuses to formulate
-- Use voice-check tool for quantitative analysis
 
 ---
 
@@ -246,7 +245,6 @@ inside a functioning exchange is not automatically a defect.
 - Add a second purpose only when it grows from the speaker and situation
 - Track what each character wants vs. what they say they want
 - End scenes at changed state, not just information transferred
-- Use dialogue-audit tool to check function coverage
 
 ---
 
@@ -414,7 +412,7 @@ Run through the anti-pattern list. Most dialogue problems match at least one.
 
 ### 7. Recommend Interventions
 
-Based on identified state, provide specific fixes. Use tools for quantitative analysis when helpful.
+Based on the identified problem, provide specific fixes.
 
 ---
 
@@ -443,8 +441,7 @@ Based on identified state, provide specific fixes. Use tools for quantitative an
 2. Identify state: D1 (Identical Voices)
 3. Ask for a sample with 2-3 characters talking
 4. Apply the cover-the-tags test
-5. Use voice-check only as a quantitative surface comparison
-6. Identify differences in attention, assumptions, vocabulary, and directness
+5. Identify differences in attention, assumptions, vocabulary, and directness
 
 ### Example 2: Flat Conversation
 

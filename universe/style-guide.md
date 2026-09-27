@@ -15,31 +15,45 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
   identities, and continuations may receive different story-specific answers,
   but the explanation must not erase their human and ethical stakes.
 
-## Prose and story craft
+## Prose defaults
 
 - Status: CANON
-- Prefer precise, concrete, varied prose over canned phrasing, repetitive rhythm, or exposition that exists only to display lore. Let viewpoint, distance, sentence rhythm, and paragraph movement serve this particular story. A deliberate voice may depart from these defaults.
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q043, Q046, Q101)
+- Prefer precise, concrete, varied prose over canned phrasing, repetitive rhythm, or exposition that exists only to display lore. Use em dashes sparingly. Treat paragraphs as units of attention and reserve isolated one-sentence paragraphs for earned emphasis. Let viewpoint, distance, and rhythm serve this particular story. A deliberate voice may depart from these defaults.
+
+## Story craft defaults
+
+- Status: CANON
+- First established: user decision, 2026-08-08
 - Find the generating force in the prompt before choosing a plot shape. A story may move through desire, relationship, attention, discovery, loss, recurrence, or refusal to change. It need not invent an antagonist, a speech, a public crisis, or a moral victory to feel complete.
 - Give the focal character an attachment, curiosity, appetite, duty, or contradiction a reader can feel. Let theme emerge from pressure, action, image, and consequence; do not routinely explain a point again after it lands.
-- Make speculative elements lived and consequential, with limits the reader can understand. Avoid lore display for its own sake. Do not patch contradictions with an unsupported dream, prophecy, timeline, or hidden mechanism.
-- Let people speak from different knowledge, social permission, needs, and responses to pressure. A reply must follow what its listener could reasonably understand. Ordinary directness, humor, silence, misunderstanding, and non-spoken contact all belong when the scene earns them.
+- Make speculative elements lived and consequential, with limits the reader can understand and at least one practical or cultural effect beyond the central theme. Avoid lore display for its own sake. Do not patch contradictions with an unsupported dream, prophecy, timeline, or hidden mechanism.
+- Let people speak from different knowledge, social permission, needs, and responses to pressure. A reply must follow what its listener could reasonably understand. Ordinary directness, humor, silence, misunderstanding, and non-spoken contact all belong when the scene earns them; resist a default cast of uniformly articulate professionals.
 - Let the ending grow from this story's opening and movements. It may close with choice, consequence, revelation, release, return, interruption, or a purposeful stopping point. Watch for repeated endings that explain the theme, convert a crowd, or substitute a tidy work ritual for emotional contact.
-- Across the collection, notice when different prompts keep producing the same architecture, debate, or emotional destination. Use that observation to widen choices, not to impose novelty quotas or force a darker outcome. Read other stories only when comparison will help this one.
+
+## Collection variation
+
+- Status: CANON
+- First established: user decision, 2026-09-07
+- Across the collection, notice when different prompts keep producing the same character transformation, dialogue pattern, architecture, or emotional destination. Use that observation to widen choices, not to impose novelty quotas or force a darker outcome. Read other stories only when comparison will help this one.
 
 ## Names and continuity
 
 - Status: CANON
+- First established: summarized from the prose and continuity decisions of 2026-07-22
 - Choose distinct names where possible. Check `stories/NAMES.md`, relevant existing stories, and universe entries when a name may recur or confuse readers. A repeated name is fine when it is the same identity or has a clear story reason.
 - Keep consequential action, time, space, object state, knowledge, and the cost of a choice intelligible. A beautiful sentence cannot supply a missing cause or make a listener know what was never conveyed.
 
 ## No default water infrastructure
 
 - Status: CANON
+- First established: explicit user decision, 2026-09-09
 - Do not introduce drainage, irrigation, sewers, reservoirs, aqueducts, canals, flood-control works, or related construction and administration as a default plot, profession, metaphor, or incidental worldbuilding. Use such subjects when the user's request calls for them or a specific established fact requires them. Ordinary water, weather, rivers, seas, ponds, and drinking remain available when they belong to the story. Do not replace this with another routine public-works or maintenance plot.
 
 ## Tonal range, scale, and connection
 
 - Status: CANON
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q007, Q012, Q039, Q102, Q104)
 - This universe permits a wide range of tone and genre. Entirely ordinary stories belong and need no supernatural hint. Some characters know more of the larger history than others. Crossovers are permitted when earned, never required. Choose point of view, tense, and scale from each prompt; there is no official flagship story.
 
 ## Audience and content boundaries
