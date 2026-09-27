@@ -6,7 +6,7 @@ canon: false
 
 # Nine Contacts
 
-The screw was smaller than the grain of rice stuck to the bottom of Sela's lunch tin. She had it balanced on the tip of a magnetized driver, halfway into a customer's knee joint, when Iva came around the kiosk and laid her left hand on the mat.
+The screw was smaller than the grain of rice stuck to the bottom of Sela's lunch tin. She had it balanced on the tip of a magnetized driver, sorting a tray of spares, when Iva came around the kiosk and laid her left hand on the mat.
 
 It arrived palm up, fingers loosely curled, a familiar shape in unfamiliar circumstances. Sela had watched that hand catch a falling cup, loosen an overtightened lens ring, and make a rude little puppet of itself behind the back of a particularly rude customer. Detached from Iva's wrist, it looked like something waiting to be claimed.
 
@@ -20,13 +20,7 @@ It arrived palm up, fingers loosely curled, a familiar shape in unfamiliar circu
 
 Iva pulled a stool against the counter with her foot. Her empty wrist socket was covered by the cuff of her jacket. A replacement mount waited in the drawer below the till: nine square contact pads, a steel ring, and the dull gray sleeve that joined them. Anyone with a general bionics kit could replace the ring. That was the attraction. Sela had spent six years making a hand that needed nobody's general kit.
 
-"I'll finish this one first," Sela said, seating the screw in the knee.
-
-"Its owner comes tomorrow."
-
-"A job still needs finishing."
-
-Iva took the driver Sela offered and gave the screw one last turn. The knee joint was finished. She put the driver down beside her hand.
+Sela returned the screw to its compartment and closed the tray. Iva had already cleared a space for the jig.
 
 The repair kiosk occupied twelve feet between a noodle seller and a booth that printed wedding invitations. The seller's fan breathed hot pepper across Sela's bench. On the aisle side, a rack held charging cables, three replacement knees in padded slings, and a sign promising IMPLANTS WHILE YOU WAIT, where possible. Sela had added those last two words in smaller paint after a man expected her to grow him a new ear between lunch and the afternoon trains.
 
@@ -60,19 +54,13 @@ Someone knocked on the glass case from the aisle. A broad man in a courier's ora
 
 "Charging socket," he said. "It only takes current if I hold the cord up with my knee."
 
-"That sounds like a long knee," Sela said.
+Sela pointed him to the intake shelf. "Leave it locked. I'll look at the socket tomorrow."
 
-He considered this, then laughed. Sela pointed him to the intake shelf. He set down the box, signed the slip, and took the carbon copy. When he asked for a time, Iva said, "Tomorrow after two." He looked to Sela, who nodded.
+He set down the box, signed the slip, and took the carbon copy. When he asked for a time, Iva said, "After two." He looked to Sela, who nodded.
 
 After he left, Iva slid the lockbox into the waiting bin. She had not touched its catches or the cell.
 
-"Tomorrow after two?" Sela said.
-
-"You can say Thursday if you want."
-
-"Tomorrow after two is fine."
-
-The joke had come easily to her with the courier. It had not improved the air behind the counter. Sela drew the service curtain across the aisle-facing half of the kiosk, shutting out the sight of customers without keeping out the smell of pepper or the seller's radio. Iva folded her cuff back. The polished rim at her wrist bore a shallow scratch from years of sliding the hand on and off. She put her right hand on the bench, within reach of the tools.
+Sela drew the service curtain across the aisle-facing half of the kiosk, shutting out the sight of customers without keeping out the smell of pepper or the seller's radio. Iva folded her cuff back. The polished rim at her wrist bore a shallow scratch from years of sliding the hand on and off. She put her right hand on the bench, within reach of the tools.
 
 "I need time using the new setting before I go," she said. "I start at the route bench on Monday. The first thing they'll give me is a drawer full of other people's hands."
 
@@ -90,11 +78,11 @@ Sela unwrapped the jig. Iva took the hand and fitted its wrist into the padded c
 
 "If you want to keep trying the bridge," Iva said, "it's a good thing you made. I'd use it on a shop hand."
 
-Sela almost thanked her. She had not been fishing for praise, exactly. She had been hoping Iva would find a reason to need it.
+Sela almost thanked her. Iva had already begun arranging the tools around the jig.
 
 They worked the shell open. Sela turned out the buried screws while Iva lifted each one away with a strip of adhesive. Under the outer plate lay the silver mesh that spread pressure across the palm, then the narrow amber braid running toward each finger. Sela had once repaired a broken strand under a magnifier for four hours. When Iva tested it afterward, she'd said a smooth coin felt like a smooth coin again, and Sela had felt absurdly proud of both of them.
 
-The new sleeve needed a flat seat. The old keyed collar rose from the middle of that seat in four little teeth, cast into the shell. Filing them down would throw grit over the braid. Sela fitted a shield over the mesh and marked the cut with a grease pencil. Iva leaned in to check the line. She moved Sela's mark a hair's width away from the index lead.
+The new sleeve needed a flat seat. The old keyed collar rose from the middle of that seat in four little teeth, cast into the shell. Beneath the fourth ran a fine lead from the little finger. The nine-contact mount had no place for its signal; saving it would mean using Sela's bridge. Filing the teeth down would throw grit over the braid. Sela fitted a shield over the mesh and marked the cut with a grease pencil. Iva leaned in, moved the line a hair's width away from the index lead, and darkened the cross over the fourth tooth and the strand beneath it.
 
 "There," Iva said.
 
@@ -106,7 +94,7 @@ The new sleeve needed a flat seat. The old keyed collar rose from the middle of 
 
 "Yes."
 
-Sela made the cut on Iva's line. The little saw shook the hand in its jig. Four teeth came away, then a curl of amber braid that had crossed beneath the fourth. They both watched it land on the mat. Sela stopped the saw and checked the remaining lead under the lens. The cut was clean. The sacrificed strand had carried the fine pressure changes from the little finger; the standard mount would have left it unconnected anyway.
+Sela made the cut on Iva's line. The little saw shook the hand in its jig. Four teeth came away, the fourth with a curl of amber braid attached. They both watched it land on the mat. Sela stopped the saw and checked the index lead under the lens. It was intact.
 
 "Are you all right?" she asked.
 
@@ -116,7 +104,7 @@ Sela gave it to her.
 
 From the aisle came the wedding printer's voice asking if a customer wanted gold lettering or gold-colored lettering. Iva worked the file along the cut, tipped the jig to brush the dust into Sela's tray, and set it flat again. She could still use her right hand, but the left had been the one she used for fine work. She went slowly where she normally would have been quick. Sela kept the shield in place and watched the color of the dust. Nothing bright came off; no good wire was being touched.
 
-When the seat was level, they cleaned it and set the new sleeve. Iva chose the thumb's grip limit on the tester, a notch below where Sela usually set it. With the coarser signal, too much force would flatten a screw before Iva felt it. Sela preferred a firmer grip for bench work. Iva watched the number settle where she'd put it. Sela set the stop to match and said nothing about the margin.
+When the seat was level, they cleaned it and set the new sleeve. Iva chose a lower thumb grip limit on the tester; with less pressure feedback, she could flatten a screw before she felt it give. Sela set the stop to the number Iva chose.
 
 The hand went onto Iva's wrist with a different sound. The old coupler had met its mate with a sharp double tick. The new ring gave one plain click.
 
@@ -128,9 +116,9 @@ Sela watched her rub it between thumb and forefinger. "Can you feel which side i
 
 Iva closed her eyes. She rubbed once more, then opened them and turned the slip toward the light. "No."
 
-Sela wanted to reach for the bridge. It sat in the drawer beneath her hip, finished and tested. It would give Iva that printed side back. It would also put the hand back inside a repair only Sela could do. She left the drawer shut.
-
 "Show me the small screws," Iva said.
+
+Sela's hand went to the drawer handle. The bridge was inside, finished and tested. She lifted the screw tray instead.
 
 Sela tipped three from a tray onto the mat. Iva tried to pick one up with her left fingertips. The first skated away. She put the others beside it, switched on the magnifier, and caught the escaped screw against her nail before lifting it. Her mouth tightened. She tried the second. This time she used the nail from the start.
 
@@ -148,7 +136,7 @@ Sela folded the cloth around the jig. The old collar lay in the metal tray besid
 
 "He's going to ask if we fixed the plasma," she said.
 
-"Tell him the plasma is fine. It's the socket that embarrasses us."
+"Tell him we fixed the socket. Plasma costs extra."
 
 "You're saying that because you don't have to tell him tomorrow."
 
