@@ -16,7 +16,7 @@ She paid me anyway. While I rolled the sheet into a tube, the boy woke and asked
 
 I should have put my lamp out then. The market was still thick with people, but shoppers had become walkers; nobody wanted to sit while the evening's musicians found their places. I tied the corners of my canvas portfolio and reached for the lamp. Between two passing shoulders, something opened in the street.
 
-My Sprite Eye, the left one, had shown me the little fires inside people since before I had words for either fire or people. On a busy night I saw them everywhere: a smudge under a vendor's collar, a pinhead of orange in a child's chest, blue embers moving past one another in the dark. Close the eye, and there were only faces. Open it, and the sparks came back, visible to me through shirts and coats but never through a body standing in the way.
+My Sprite Eye, the left one, had shown me the little fires inside people since before I had words for either fire or people. On a busy night I saw them everywhere: a smudge under a vendor's collar, a pinhead of orange in a child's chest, blue embers moving past one another in the dark. When a sitter's expression eluded me, I sometimes let a spark decide the shadow beneath a mouth. At the back of my portfolio I kept sketches of the lights without their owners' faces. Close the eye, and there were only faces. Open it, and the sparks came back, visible to me through shirts and coats but never through a body standing in the way.
 
 This was different. A gold-white center blazed through a gap in the tide of heads, with pink and violet at its edge. It flared as the gap widened, then disappeared behind the awning of a spice seller's cart. For an instant I thought someone had carried a lantern into the street. Then the same light reappeared farther on, keeping pace with a pale-haired woman in a dark coat.
 
@@ -122,17 +122,15 @@ The drum made two notes in succession. Auvet turned her head toward the square. 
 
 "How long?"
 
-"Six minutes. Perhaps seven."
+"Until the musicians finish, if they'll give us that long."
 
-"You have five." She drew a breath, looked at me, and saw that I had reached for the charcoal without closing the left eye. "Can you stop seeing it?"
+"Then be quick." She drew a breath, looked at me, and saw that I had reached for the charcoal without closing the left eye. "Can you stop seeing it?"
 
 "Yes." I shut the eye. The inner fire vanished, and my view narrowed. From here I could still work. I had done it as a child whenever a crowded room became too much, though I disliked the small strain of holding the lid down. I tore a narrow strip from the edge of my rag and tied it over the eye, under my hair.
 
 Auvet's mouth moved at one corner. "Is that comfortable?"
 
-"Not much. I can manage five minutes."
-
-"Four, now."
+"Not much. I'll manage."
 
 I steadied a fresh page on the board. The lamp picked out the shallow line beside her mouth and threw the other cheek into shadow. Auvet tipped her chin away from it.
 
@@ -185,8 +183,6 @@ The music in the square had become a pattern rather than a test, with a flute ta
 "You didn't the first time."
 
 I cut the notch into the dark line. She watched, then nodded. We worked that way for the next minute. She told me the lower edge of her coat was frayed, not embroidered. I had mistaken a loose thread in the lamplight. She said the left side of her hair was shorter because she'd cut it in a hurry, and no, she did not want it evened out on paper. She could be still only until the flute reached the familiar rising phrase; then one foot started moving under the chair. I drew it as far as the page allowed.
-
-Before Auvet I had let quick embers tell me which mouths to darken, which brows to lift. Sometimes a sitter liked the result; I had no way to know what I'd got right. In the back of my portfolio were pages of lights, each without a face.
 
 Auvet broke the end off a charcoal stick as she tried to turn it between her fingers. "Sorry."
 

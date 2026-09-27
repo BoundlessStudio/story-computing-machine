@@ -1,7 +1,7 @@
 # Review
 
 Verdict: PASS
-Reviewed prose SHA-256: 7318cefc9d058e78ac4a490f555c82e649e2465f49598631fce975cbbbc56351
+Reviewed prose SHA-256: f127db9b3d0308709388e51ec12379fdbdf99cf698310789b097932ffdafeb7a
 
 ## People
 
@@ -29,4 +29,4 @@ Reviewed prose SHA-256: 7318cefc9d058e78ac4a490f555c82e649e2465f49598631fce975cb
 ## Findings
 
 - Blocking: none
-- Notes: The Sprite Eye, faint sparks, and the one person blazing through a crowd fulfill the prompt and the reference image's focal contrast. Mial's decision to replace the light-portrait with a face-and-horse portrait resolves the story's central promise.
+- Notes: Independent Claude and Sol readings raised the unresolved source of Auvet's sunlike spark. The prompt requires the encounter, not an explanation of its cause; the brightness drives Mial's pursuit, failed first drawing, eye covering, and final glimpse. The completed portrait supplies the story's chosen resolution. The revised musical deadline and earlier spark habit address the supported timing and arc concerns.
