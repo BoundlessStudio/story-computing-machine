@@ -130,15 +130,15 @@ She was looking at the chairs, not at me. No one had been thrown. The seats came
 
 "They have," Tansy said. Her voice rasped. She looked at me. "Kit, I'm sorry."
 
-She had tried to reach the door. I had wanted her there and said yes. The boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair.
+She had tried to reach the door. I had wanted her there. The boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair.
 
-"I'm sorry too," I told Tansy. "Come with me."
+"I said yes, too," I told Tansy. "Come with me."
 
 I went down the aisle and asked if anyone was hurt.
 
 "Just dizzy," the older woman said. Her companion stood beside her while she got her feet under her. "Give me a moment."
 
-Tansy brought her the tissue box, though she didn't take a tissue. The woman with the pencil waited until the older woman nodded to her. Only then did people begin to laugh. The boy twisted around to see me. If I stayed on the platform I would have to perform to the backs of their heads. If I stopped, the only trick they would remember was Tansy's.
+Tansy brought her the tissue box, though she didn't take a tissue. The woman with the pencil waited until the older woman nodded to her. Only then did people begin to laugh. The older woman kept one hand on her chair. The boy twisted around to see me. If I stayed on the platform I would have to perform to the backs of their heads. If I stopped, the only trick they would remember was Tansy's.
 
 I walked on to the narrow space between the back row and the door. The silk square slid against my wrist; I pushed it into my waistcoat pocket. The woman with the pencil moved her table a foot aside. Tansy returned to her aisle seat with the tissues; she was nearest me now. From there I could see every face.
 
@@ -176,9 +176,11 @@ I opened my right hand. Empty. The boy made an outraged sound. I turned both han
 
 "Go on."
 
-She lifted it. Nothing under it. For the first time all day she stopped smiling because she was concentrating, not because she felt ill. The room waited with her. I hadn't wanted a room full of people to see Tansy sneeze; I had wanted her to look at a trick and have no idea where to put the answer. Now she had given me that look with everyone else watching.
+She lifted it. Nothing under it. For the first time all day she stopped smiling because she was concentrating, not because she felt ill. The room waited with her.
 
-Tansy drew a tissue to blow her nose. The coin slipped out with the sheet and landed on her lap. She picked it up by its edge and held it to the light. The woman with the pencil came over to inspect her ten cents. The boy demanded to know whether that was allowed. His father said he didn't know.
+Tansy sniffed. "I can wait while you blow your nose," I said.
+
+She drew a tissue. The coin slipped out with the sheet and landed on her lap. She picked it up by its edge and held it to the light. The woman with the pencil came over to inspect her ten cents. The boy demanded to know whether that was allowed. His father said he didn't know.
 
 I took a bow before anyone could ask for the method. Tansy applauded with a tissue in each hand. Her sneeze had moved the chairs; she had watched every move after that as carefully as anyone. She looked delighted, and a little betrayed.
 
