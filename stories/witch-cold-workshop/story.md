@@ -130,9 +130,9 @@ She was looking at the chairs, not at me. No one had been thrown. The seats came
 
 "They have," Tansy said. Her voice rasped. She looked at me. "Kit, I'm sorry."
 
-I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair.
+She had tried to reach the door. I had wanted her there and said yes. The boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair.
 
-"You tried to get out," I told Tansy. "Help me see if anyone's hurt."
+"I'm sorry too," I told Tansy. "Come with me."
 
 I went down the aisle and asked if anyone was hurt.
 
