@@ -22,7 +22,7 @@ Iva pulled a stool against the counter with her foot. Her empty wrist socket was
 
 Sela returned the screw to its compartment and closed the tray. Iva had already cleared a space for the jig.
 
-The repair kiosk occupied twelve feet between a noodle seller and a booth that printed wedding invitations. The seller's fan breathed hot pepper across Sela's bench. On the aisle side, a rack held charging cables, three replacement knees in padded slings, and a sign promising IMPLANTS WHILE YOU WAIT, where possible. Sela had added those last two words in smaller paint after a man expected her to grow him a new ear between lunch and the afternoon trains.
+The repair kiosk occupied twelve feet between a noodle seller and a booth that printed wedding invitations. The seller's fan pushed toasted sesame across Sela's bench. On the aisle side, a rack held charging cables, three replacement knees in padded slings, and a sign promising IMPLANTS WHILE YOU WAIT, where possible. Sela had added those last two words in smaller paint after a man poured the pieces of a bionic knee onto her counter and asked if it would be ready before his noodles.
 
 Iva could have done this conversion at another shop. She could also have found someone who would charge her the price of a new hand to avoid touching the old one. She'd helped Sela lay the tactile braid inside its fingers, strand by strand, when she first came to work at the kiosk. She knew where to cut. What she wanted from Sela was the jig that held the casing without crushing it, and a second pair of hands that knew where the braid ran when the diagrams stopped being useful.
 
@@ -60,7 +60,7 @@ He set down the box, signed the slip, and took the carbon copy. When he asked fo
 
 After he left, Iva slid the lockbox into the waiting bin. She had not touched its catches or the cell.
 
-Sela drew the service curtain across the aisle-facing half of the kiosk, shutting out the sight of customers without keeping out the smell of pepper or the seller's radio. Iva folded her cuff back. The polished rim at her wrist bore a shallow scratch from years of sliding the hand on and off. She put her right hand on the bench, within reach of the tools.
+Sela drew the service curtain across the aisle-facing half of the kiosk, shutting out the sight of customers without keeping out the smell of sesame or the seller's radio. Iva folded her cuff back. The polished rim at her wrist bore a shallow scratch from years of sliding the hand on and off. She put her right hand on the bench, within reach of the tools.
 
 "I need time using the new setting before I go," she said. "I start at the route bench on Monday. The first thing they'll give me is a drawer full of other people's hands."
 
@@ -82,7 +82,7 @@ Sela almost thanked her. Iva had already begun arranging the tools around the ji
 
 They worked the shell open. Sela turned out the buried screws while Iva lifted each one away with a strip of adhesive. Under the outer plate lay the silver mesh that spread pressure across the palm, then the narrow amber braid running toward each finger. Sela had once repaired a broken strand under a magnifier for four hours. When Iva tested it afterward, she'd said a smooth coin felt like a smooth coin again, and Sela had felt absurdly proud of both of them.
 
-The new sleeve needed a flat seat. The old keyed collar rose from the middle of that seat in four little teeth, cast into the shell. Beneath the fourth ran a fine lead from the little finger. The nine-contact mount had no place for its signal; saving it would mean using Sela's bridge. Filing the teeth down would throw grit over the braid. Sela fitted a shield over the mesh and marked the cut with a grease pencil. Iva leaned in, moved the line a hair's width away from the index lead, and darkened the cross over the fourth tooth and the strand beneath it.
+The new sleeve needed a flat seat. The old keyed collar rose from the middle of that seat in four little teeth, cast into the shell. The standard ring would read nine of the braid's seventeen channels. Seven unread leads could stay tucked inside the shell; the eighth ran beneath the fourth tooth. Filing the teeth down would throw grit over the braid. Sela fitted a shield over the mesh and marked the cut with a grease pencil. Iva leaned in, moved the line a hair's width away from the index lead, and darkened the cross over the fourth tooth and the strand beneath it.
 
 "There," Iva said.
 
