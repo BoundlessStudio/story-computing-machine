@@ -158,4 +158,4 @@ She ran anyway, up the track across the ridge. At the ledge, Fen moved aside wit
 
 The egg was open. A wet, furious little creature had kicked one foot clear, but the lower half of the shell still held it. Talek lay down beside the nest. The foot found her planted toe; the hatchling pushed, slipped free, and blinked at the light. Fen touched his muzzle to hers.
 
-Over the open receiver came a sharp crack and Senn's shout: "Got the black stone!" The hatchling startled, planted both feet, and stood.
+Over the open receiver came the heavy thump of Senn's tail against the rounded chip, then a sharp crack. "Got the black stone!" he shouted. The hatchling startled, planted both feet, and stood.
