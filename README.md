@@ -12,9 +12,9 @@ Give Codex a prompt such as:
 About 3,000 words. Close third person. Melancholy but hopeful.
 ```
 
-Codex keeps your request intact, develops a story with a writer agent, and brings in independent readers, including Claude when available. The first readings happen separately. Then the writer, readers, and editor discuss what actually worked or failed in the prose; the writer revises and they read again. A cover normally follows once the prose is ready; extra reference or location art is made when it helps the finished story. [The story workshop skill](.agents/skills/story-create/SKILL.md) explains the practice.
+Codex keeps your request intact. A writer makes a brief, provisional outline and independent readers challenge its story choice before drafting. New readers then read the complete draft separately, talk with the writer about what worked or failed, and read the revision. When the room thinks the prose is ready, fresh readers see the whole story without that discussion and can surface what everyone else missed. A cover normally follows once the prose is ready; extra reference or location art is made when it helps the finished story. [The story workshop skill](.agents/skills/story-create/SKILL.md) explains the practice.
 
-The story's `notes.md` keeps the useful editorial memory: what readers experienced, what caused a problem, what was changed, whether it worked, and which objections were deliberately left open. Git records substantial draft and revision rounds. There are no scores, file hashes, scripted approvals, or required number of rounds.
+The story's `notes.md` keeps the useful editorial memory from outline, draft, and final readings: what readers experienced, what caused a problem, what was changed, whether it worked, and which objections were deliberately left open. Git records substantial draft and revision rounds. There are no scores, file hashes, scripted approvals, or required number of rounds.
 
 ## Where things live
 
