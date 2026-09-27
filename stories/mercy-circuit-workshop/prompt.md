@@ -6,6 +6,8 @@ I think you should take 3 writing WP and rin it through  the new process and com
 
 Use three existing prompts
 
+the point it compare against an existing you need an existing prompt and stories to use of the base for the comparations.
+
 ## Selected existing writing prompt
 
 > [WP] you run an independent electronics repair kiosk, but rather than the typical phone and computer fix, you specialize in bionics, implants, even the occasional plasma blaster here and there

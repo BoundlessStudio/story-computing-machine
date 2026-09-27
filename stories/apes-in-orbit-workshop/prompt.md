@@ -6,6 +6,8 @@ I think you should take 3 writing WP and rin it through  the new process and com
 
 Use three existing prompts
 
+the point it compare against an existing you need an existing prompt and stories to use of the base for the comparations.
+
 ## Selected existing writing prompt
 
 > [WP] Humans abandoned Earth many years ago for space stations; below the Dino Council is meeting to discuss what to do about those pesky apes in orbit throwing rocks at them.
