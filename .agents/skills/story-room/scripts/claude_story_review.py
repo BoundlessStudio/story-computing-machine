@@ -17,6 +17,9 @@ import subprocess
 import sys
 import tempfile
 
+from review_diagnostics import (OBSERVATION, STRENGTH, QUOTES, diagnostic_schema, reading_instructions,
+                                source_map, validate_diagnostic, validate_shape, exact_evidence)
+
 
 MODEL = "claude-opus-5-5"
 CODEX_MODEL = "gpt-6-sol"
@@ -26,7 +29,7 @@ FINDING = {
     "additionalProperties": False,
     "properties": {
         "location": {"type": "string"},
-        "evidence": {"type": "string"},
+        "evidence": QUOTES,
         "impact": {"type": "string"},
         "fix": {"type": "string"},
     },
@@ -46,7 +49,7 @@ RESOLUTION = {
     "type": "object", "additionalProperties": False,
     "properties": {
         "id": {"type": "string"},
-        "decision": {"type": "string", "enum": ["retained", "rejected"]},
+        "decision": {"type": "string", "enum": ["retained", "editorial", "preference", "rejected"]},
         "evidence": {"type": "string"},
         "reason": {"type": "string"},
     },
@@ -59,6 +62,7 @@ def schema(stage: str) -> dict:
         "verdict": {"type": "string", "enum": ["PASS", "REVISE"]},
         "findings": {"type": "array", "items": FINDING},
         "notes": {"type": "string"},
+        "editorial": {"type": "array", "items": OBSERVATION},
     }
     required = list(properties)
     if stage == "prose":
@@ -81,46 +85,26 @@ def schema(stage: str) -> dict:
     }
 
 
-def discussion_schema(stage: str) -> dict:
-    kinds = ["promise", "causality", "knowledge_rules"] if stage == "outline" else [
-        "opening", "decisive", "final", "weakest_turn", "voice_pattern", "ending_effect"]
-    check = {
-        "type": "object", "additionalProperties": False,
-        "properties": {
-            "location": {"type": "string"},
-            "evidence": {"type": "string"},
-            "assessment": {"type": "string"},
-        },
-        "required": ["location", "evidence", "assessment"],
-    }
-    return {
-        "type": "object", "additionalProperties": False,
-        "properties": {
-            "verdict": {"type": "string", "enum": ["PASS", "REVISE"]},
-            "findings": {"type": "array", "items": FINDING},
-            "checks": {"type": "object", "additionalProperties": False,
-                       "properties": {kind: check for kind in kinds}, "required": kinds},
-            "notes": {"type": "string"},
-        },
-        "required": ["verdict", "findings", "checks", "notes"],
-    }
+def discussion_schema(stage: str, role: str = "causal") -> dict:
+    return diagnostic_schema(stage, role)
 
 
 def quality_schema(stage: str, objections: list[dict] | None = None) -> dict:
-    result = discussion_schema(stage)
-    result["properties"]["resolutions"] = {
-        "type": "array", "items": RESOLUTION,
-        "minItems": len(objections or []), "maxItems": len(objections or []),
+    properties = {
+        "verdict": {"type": "string", "enum": ["PASS", "REVISE"]},
+        "findings": {"type": "array", "items": FINDING},
+        "editorial": {"type": "array", "items": OBSERVATION},
+        "strengths": {"type": "array", "items": STRENGTH},
+        "notes": {"type": "string"},
+        "resolutions": {"type": "array", "items": RESOLUTION,
+                        "minItems": len(objections or []), "maxItems": len(objections or [])},
     }
-    result["required"].append("resolutions")
     if stage == "prose":
-        result["properties"].update({
-            "prompt": {"type": "string", "enum": ["PASS", "REVISE"]},
-            "internal": {"type": "string", "enum": ["PASS", "REVISE"]},
-            "dialogue": {"type": "string", "enum": ["PASS", "REVISE", "N/A"]},
-        })
-        result["required"].extend(("prompt", "internal", "dialogue"))
-    return result
+        properties.update({key: {"type": "string", "enum": ["PASS", "REVISE", "N/A"]
+                                 if key == "dialogue" else ["PASS", "REVISE"]}
+                           for key in ("prompt", "internal", "dialogue")})
+    return {"type": "object", "additionalProperties": False, "properties": properties,
+            "required": list(properties)}
 
 
 def authority_schema(stage: str) -> dict:
@@ -179,8 +163,10 @@ def validate(result: dict, stage: str) -> None:
     for finding in findings:
         if not isinstance(finding, dict) or set(finding) != set(FINDING["required"]):
             raise ValueError("Claude returned an invalid finding")
-        if any(not isinstance(v, str) or not v.strip() for v in finding.values()):
+        if any(not isinstance(v, str) or not v.strip() for k, v in finding.items() if k != "evidence"):
             raise ValueError("Claude returned an empty finding field")
+        validate_shape(finding["evidence"], QUOTES)
+    validate_shape(result["editorial"], {"type": "array", "items": OBSERVATION})
     if not isinstance(result["notes"], str):
         raise ValueError("Claude notes must be text")
     if stage == "prose":
@@ -207,57 +193,51 @@ def validate(result: dict, stage: str) -> None:
                     raise ValueError(f"Claude returned an incomplete {key} row")
 
 
-def validate_discussion(result: dict, stage: str) -> None:
-    discussion = discussion_schema(stage)
-    if not isinstance(result, dict) or set(result) != set(discussion["required"]):
-        raise ValueError("Discussion returned fields outside its schema")
-    if result["verdict"] not in ("PASS", "REVISE") or not isinstance(result["findings"], list):
-        raise ValueError("Discussion returned an invalid verdict or findings")
-    if (result["verdict"] == "PASS") != (len(result["findings"]) == 0):
-        raise ValueError("Discussion verdict and blocking findings disagree")
-    for finding in result["findings"]:
-        if not isinstance(finding, dict) or set(finding) != set(FINDING["required"]):
-            raise ValueError("Discussion returned an invalid finding")
-        if any(not isinstance(value, str) or not value.strip() for value in finding.values()):
-            raise ValueError("Discussion returned an empty finding field")
-    if not isinstance(result["notes"], str):
-        raise ValueError("Discussion notes must be text")
-    checks = result["checks"]
-    expected = {"promise", "causality", "knowledge_rules"} if stage == "outline" else {
-        "opening", "decisive", "final", "weakest_turn", "voice_pattern", "ending_effect"}
-    if not isinstance(checks, dict) or set(checks) != expected:
-        raise ValueError(f"Discussion source checks must be exactly {sorted(expected)}")
-    for check in checks.values():
-        if not isinstance(check, dict) or set(check) != {"location", "evidence", "assessment"}:
-            raise ValueError("Discussion returned an invalid source check")
-        if any(not isinstance(value, str) or not value.strip() for value in check.values()):
-            raise ValueError("Discussion returned an empty source check")
+def validate_discussion(result: dict, stage: str, role: str = "causal",
+                        source_text: str = "", prompt_text: str = "") -> None:
+    validate_diagnostic(result, stage, role, source_text, prompt_text)
 
 
 def provisional_objections(*rounds: tuple[str, dict]) -> list[dict]:
     return [{"id": f"{name}:{index}", "finding": finding}
             for name, response in rounds
-            for index, finding in enumerate(response["findings"], 1)]
+            for index, finding in enumerate(response["observations"], 1)]
 
 
 def validate_quality(result: dict, stage: str, objections: list[dict] | None = None,
-                     source_text: str = "") -> None:
+                     source_text: str = "", prompt_text: str = "") -> None:
     objections = objections or []
     if not isinstance(result, dict) or set(result) != set(quality_schema(stage, objections)["required"]):
         raise ValueError("Claude quality verdict has invalid fields")
-    validate_discussion({key: result[key] for key in discussion_schema(stage)["required"]}, stage)
+    validate_shape(result, quality_schema(stage, objections))
+    for item in result["findings"] + result["editorial"] + result["strengths"]:
+        for quote in item["evidence"]:
+            exact_evidence(quote, source_text + "\n" + prompt_text, "final quality")
+    if (result["verdict"] == "PASS") != (len(result["findings"]) == 0):
+        raise ValueError("Claude quality verdict and blocking findings disagree")
     resolutions = result["resolutions"]
     if not isinstance(resolutions, list) or len(resolutions) != len(objections):
         raise ValueError("Claude did not resolve every provisional blocker")
     expected_ids = {objection["id"] for objection in objections}
+    by_id = {objection["id"]: objection["finding"] for objection in objections}
     ids = []
     for resolution in resolutions:
         if (not isinstance(resolution, dict) or set(resolution) != set(RESOLUTION["required"])
-                or resolution["decision"] not in ("retained", "rejected")
+                or resolution["decision"] not in ("retained", "editorial", "preference", "rejected")
                 or any(not isinstance(value, str) or not value.strip()
                        for value in resolution.values())):
             raise ValueError("Claude returned an invalid blocker resolution")
         ids.append(resolution["id"])
+        observation = by_id.get(resolution["id"])
+        if observation is not None:
+            decision = resolution["decision"]
+            if decision == "retained" and observation["category"] == "preference":
+                raise ValueError("An optional preference cannot become a publication blocker")
+            retained = result["findings"] if decision == "retained" else result["editorial"]
+            if decision != "rejected" and not any(
+                item["evidence"] == observation["evidence"] for item in retained
+            ):
+                raise ValueError("Accepted observation is missing from the final findings or editorial advice")
         if resolution["decision"] == "rejected" and resolution["evidence"] not in source_text:
             raise ValueError("Claude rejected a blocker without exact on-page evidence")
     if len(set(ids)) != len(ids) or set(ids) != expected_ids:
@@ -283,9 +263,10 @@ def validate_authority(result: dict, stage: str) -> None:
         raise ValueError("Claude authority verdict and findings disagree")
     for finding in result["findings"]:
         if not isinstance(finding, dict) or set(finding) != set(FINDING["required"]) or any(
-            not isinstance(value, str) or not value.strip() for value in finding.values()
+            not isinstance(value, str) or not value.strip() for key, value in finding.items() if key != "evidence"
         ):
             raise ValueError("Claude authority finding is invalid")
+        validate_shape(finding["evidence"], QUOTES)
     if not isinstance(result["notes"], str):
         raise ValueError("Claude authority notes must be text")
     if stage == "prose":
@@ -337,12 +318,16 @@ def review_markdown(result: dict, story_hash: str) -> str:
         for finding in result["findings"]:
             lines.append(
                 "- Blocking: "
-                + f"{clean(finding['location'])} — {clean(finding['evidence'])} "
+                + f"{clean(finding['location'])} — {clean(' / '.join(finding['evidence']))} "
                 + f"Impact: {clean(finding['impact'])} "
                 + f"Smallest fix: {clean(finding['fix'])}"
             )
     else:
         lines.append("- Blocking: none")
+    for item in result["editorial"]:
+        lines.append(f"- Editorial ({item['category']}): {md(item['location'])} — "
+                     f"{md(' / '.join(item['evidence']))} Impact: {md(item['impact'])} "
+                     f"Suggested change: {md(item['fix'])}")
     lines.extend([f"- Notes: {md(result['notes']) or 'none'}", ""])
     return "\n".join(lines)
 
@@ -358,65 +343,32 @@ def prompt_for(stage: str, slug: str, prompt_path: Path, source_path: Path,
              "For this discussion, concentrate on the reader's experience of this exact story. Do not "
              "read universe files, name inventories, repository rules, prior reviews, earlier prose, "
              "or the target outline during prose review. Canon, policy, and names are a later final check.")
-    common = f"""You are reviewing the story quality of {slug} at the {stage} stage.
-Read the COMPLETE recorded prompt at {prompt_path} and the COMPLETE {stage} at {source_path}.
+    common = f"""You are reviewing {slug} at the {stage} stage.
+Read the COMPLETE recorded prompt at {prompt_path} and COMPLETE target at {source_path}.
 {scope}
-The prompt governs acceptance. The outline is advisory and is not an acceptance authority.
-Judge the actual text skeptically, from a reader's available knowledge, without inventing
-missing transitions. A materially broken line or scene can block despite an appealing voice.
-Do not impose formulaic conflict, compulsory subtext, an aphorism ban, or a fixed ending.
-Findings must name an exact location, quote a short exact piece of source evidence, explain
-its reader-facing impact, and specify the smallest useful repair. Use REVISE only for material
-failures. The findings array contains BLOCKING findings only. For PASS, set findings to an
-empty array and put any nonblocking observations in notes. For REVISE, every finding must
-be a material reason to block this stage. No writing or editing files. Return only the
-structured result. Finish the full review even after finding one blocker; report every
-distinct material failure, up to six. Keep notes source-focused, with no plot summary.
+The prompt governs acceptance; the outline is advisory intent. Preserve strengths and
+intentional ambiguity. Do not impose formulaic conflict, compulsory subtext or a fixed
+ending. Quotes must be exact source substrings. No file writes. Return the structured result.
 """
-    if stage == "outline":
-        specific = """Check whether this plan is draftable before prose begins: prompt promise,
-causal movement, character agency, time and space, knowledge limits, operative speculative
-rules, dialogue engine, and source-supported use of reference images.
-Flag contradictions or missing decisions that would force the writer to guess about a
-material requirement. Preserve flexibility: do not demand scripted dialogue, a specific
-climax, or a predetermined ending. A PASS permits writing; REVISE blocks writer handoff.
-For discussion checks, cite exact outline evidence for its promise, causal movement, and
-knowledge/rule boundary. A deliberate open choice may pass if the writer can draft it.
+    if quality_final:
+        specific = """Only now decide PASS/REVISE and apply the active publication threshold.
+Classifications from diagnosis are not automatic blockers. Keep supported nonblocking
+contradictions/craft advice and optional preferences in editorial, even on PASS. Do not
+turn preferences into requirements. Findings contains material blockers only; PASS has
+no blocking findings. Complete strengths identifies what a repair must preserve.
+Resolve every numbered observation: retained means a blocker in findings; editorial or
+preference means preserved advice in editorial; rejected needs exact on-page evidence
+and reasoning that answers the actual claim, not merely a quote on the same topic.
+Keep an accepted observation's evidence array unchanged so its disposition is traceable.
+Each evidence item must be one exact excerpt without line labels, separators or commentary.
+Finish all distinct findings; do not stop after the first or impose a finding quota.
+For outlines, block missing causal decisions that force consequential invention, while
+leaving scene execution, dialogue and ending choices flexible. For prose, judge action,
+knowledge and uptake locally and voice/repetition across scenes, including nonverbal
+contact. Dialogue N/A applies only when there is essentially no meaningful dialogic action.
 """
     else:
-        specific = """This is a fresh finished-prose review. Do not read the target outline
-or its outline verdict. First judge prompt fulfillment and complete-story effect; then scan
-every meaningful exchange with adjacent action for object/action fit, referents, speaker
-knowledge, listener uptake, distinct voices, needed exposition, and earned emotional turns.
-Check physical staging, causality, chronology, capabilities, and an ending
-that does not needlessly explain an already clear action. Inspect decisive and final exchanges
-closely. For a PASS,
-all required gates must pass and there must be no blocking findings. For REVISE, identify the
-failed gate and give actionable blocking findings. N/A dialogue is only for essentially no
-meaningful dialogic action, including non-spoken contact.
-At every exchange, privately paraphrase each turn's setup and what the listener can
-reasonably understand or do next. Test referents, staging, knowledge, and response logic
-before accepting a witty line. Compare speaker sentence shapes under pressure, not only
-their roles or topics; repeated clipped corrections can erase distinct voices. Check
-whether the ending explains the same consequence again in dialogue and narration. Do not
-stop after a first blocker. For the discussion checks, cite exact short evidence from an
-opening, decisive, and final exchange with adjacent action, even when the verdict is PASS.
-Each check's assessment must state the literal action, what the speaker can know, what the
-listener reasonably takes the line to mean, and whether the next response follows.
-When there is meaningful dialogue, notes must contrast the main speakers' actual sentence
-shapes, directness, and reactions to pressure with short source examples. If several voices
-share one corrective or aphoristic pattern, judge its scene-wide effect. Inspect even the
-apparently successful exchanges for manufactured setup lines and repetition at the ending.
-The discussion must include a voice_pattern check comparing exact lines from at least two
-speakers across major exchanges. Ask whether their reasoning and response shapes could be
-swapped without changing character or relationship, and whether a correction/qualification
-routine dominates more than one exchange. It must include an ending_effect check comparing
-the final meaningful exchange with the narration around it: identify what new action or
-knowledge the ending delivers and any restatement of a consequence already visible.
-The discussion must also include a weakest_turn check for the most suspect turn anywhere,
-including a middle scene. Trace its setup, literal referent, speaker knowledge, listener
-uptake, and next action. If it passes, explain what the actual prose establishes.
-"""
+        specific = "Do not decide publication readiness yet; follow your assigned reading role.\n"
     extras = ""
     if args.reference_image:
         extras += "Original reference images to inspect: " + ", ".join(args.reference_image) + "\n"
@@ -425,6 +377,9 @@ uptake, and next action. If it passes, explain what the actual prose establishes
     if args.pre_review:
         extras += f"Mechanical PreReview result: {args.pre_review}\n"
     if stage == "prose":
+        examples_path = Path(__file__).with_name("review-examples.md")
+        extras += ("\nRead review-examples.md for diagnostic operations and valid counterexamples.\n"
+                   if diagnostic_file else "\n" + examples_path.read_text(encoding="utf-8"))
         if diagnostic_file is not None:
             extras += ("\nRead the local dialogue-diagnostic.txt file as a story-quality diagnostic."
                        " The binding story profile controls thresholds; do not create output files.\n")
@@ -438,7 +393,7 @@ uptake, and next action. If it passes, explain what the actual prose establishes
             extras += ("\nUnder the active 08-08 profile, a craft defect blocks only when it"
                        " materially breaks the prompt's central promise or reader-facing"
                        " causality. Broad binding policy is checked in the later authority"
-                       " turn. Put lesser stylistic observations in notes.\n")
+                       " turn. Preserve lesser stylistic observations in editorial.\n")
         if quality_final and getattr(args, "active_profile", "") in (
             "prospective-2026-08-18", "prospective-2026-08-21", "prospective-2026-08-23"
         ):
@@ -451,10 +406,11 @@ uptake, and next action. If it passes, explain what the actual prose establishes
     return common + specific + extras
 
 
-def codex_round(root: Path, stage: str, instructions: str, images: list[Path], timeout: int) -> dict:
+def codex_round(root: Path, stage: str, instructions: str, images: list[Path], timeout: int, *, role: str = "causal",
+                source_text: str = "", prompt_text: str = "", output_path: Path | None = None) -> dict:
     with tempfile.TemporaryDirectory(prefix="story-review-schema-") as temporary:
         schema_path = Path(temporary) / "discussion.json"
-        schema_path.write_text(json.dumps(discussion_schema(stage)), encoding="utf-8")
+        schema_path.write_text(json.dumps(discussion_schema(stage, role)), encoding="utf-8")
         command = [
             "codex", "-a", "never", "exec", "-c", "model_reasoning_effort=high",
             "--ignore-user-config", "--ignore-rules",
@@ -480,8 +436,10 @@ def codex_round(root: Path, stage: str, instructions: str, images: list[Path], t
         result = json.loads(messages[-1])
     except (json.JSONDecodeError, KeyError, TypeError) as exc:
         raise ValueError("GPT-6 Sol returned malformed structured output") from exc
+    if output_path is not None:
+        output_path.write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
     try:
-        validate_discussion(result, stage)
+        validate_discussion(result, stage, role, source_text, prompt_text)
     except ValueError as exc:
         raise ValueError(f"GPT-6 Sol discussion: {exc}; response: {str(result)[:800]}") from exc
     return result
@@ -535,6 +493,17 @@ def review_snapshot(root: Path, destination: Path, story: str, prompt: Path, sou
 
     copy_file(prompt)
     copy_file(source)
+    examples_path = Path(__file__).with_name("review-examples.md")
+    examples_copy = destination / examples_path.name
+    shutil.copyfile(examples_path, examples_copy)
+    copied[examples_copy] = digest(examples_copy)
+    source_text = source.read_text(encoding="utf-8")
+    manifest = source_map(source_text)
+    manifest["numbered_source"] = "\n".join(
+        f"{number}: {line}" for number, line in enumerate(source_text.splitlines(), 1))
+    manifest_path = destination / "source-map.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+    copied[manifest_path] = digest(manifest_path)
     if diagnostic is not None:
         target = destination / "dialogue-diagnostic.txt"
         target.write_text(diagnostic, encoding="utf-8")
@@ -613,6 +582,22 @@ def claude_round(root: Path, instructions: str, output_schema: dict, args: argpa
 
 def run(args: argparse.Namespace) -> dict:
     root = args.worktree.resolve()
+    if getattr(args, "calibration", False) and not args.no_write:
+        raise ValueError("Calibration requires --no-write and cannot authorize publication")
+    diagnostic_root = getattr(args, "diagnostics_dir", None)
+    if diagnostic_root is not None:
+        diagnostic_root = Path(diagnostic_root).resolve()
+        if not getattr(args, "calibration", False) or diagnostic_root.is_relative_to(root):
+            raise ValueError("Diagnostic persistence is only for calibration outside its source workspace")
+        diagnostic_root.mkdir(parents=True, exist_ok=True)
+
+    def diagnostic_output_path(name):
+        return diagnostic_root / f"{name}.json" if diagnostic_root is not None else None
+
+    def record_diagnostic(name, result):
+        path = diagnostic_output_path(name)
+        if path is not None:
+            path.write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
     if not SLUG.fullmatch(args.story):
         raise ValueError("Invalid story slug")
     directory = root / "stories" / args.story
@@ -644,6 +629,11 @@ def run(args: argparse.Namespace) -> dict:
                           prompt_path.read_text(encoding="utf-8"))
     args.active_profile = profiles[-1].strip() if profiles else ""
     before = reviewed_digest(source_path, args.stage, current)
+    source_text = source_path.read_text(encoding="utf-8")
+    prompt_text = prompt_path.read_text(encoding="utf-8")
+    coverage_map = source_map(source_text)
+    coverage_map["numbered_source"] = "\n".join(
+        f"{number}: {line}" for number, line in enumerate(source_text.splitlines(), 1))
     diagnostic_path = Path(__file__).resolve().parents[2] / "dialogue" / "SKILL.md"
     diagnostic_hash = digest(diagnostic_path) if args.stage == "prose" else None
     diagnostic_text = (diagnostic_path.read_text(encoding="utf-8").split("## Available Tools", 1)[0]
@@ -655,6 +645,8 @@ def run(args: argparse.Namespace) -> dict:
     packet, input_hashes = codex_packet(root, args.story, source_path, prompt_path,
                                         args.comparison, images)
     input_hashes.update(final_authority_inputs(root, args.story, args.comparison))
+    examples_path = Path(__file__).with_name("review-examples.md")
+    input_hashes[examples_path] = digest(examples_path)
     if diagnostic_hash is not None:
         input_hashes[diagnostic_path] = diagnostic_hash
     with tempfile.TemporaryDirectory(prefix="story-review-inputs-") as temporary:
@@ -666,38 +658,29 @@ def run(args: argparse.Namespace) -> dict:
                                          final=False, comparisons=[], diagnostic=diagnostic_text)
         final_hashes = review_snapshot(root, final_root, args.story, prompt_path, source_path,
                                        final=True, comparisons=args.comparison, diagnostic=diagnostic_text)
-        initial = codex_round(
-            empty_workspace, args.stage, common + "\nIndependently propose only material blockers. This is the first discussion turn.\n"
-            "Return a provisional verdict and source-grounded findings in the given schema."
-            " For prose, complete all six source checks, compare the main voices with exact"
-            " examples, and explain"
-            " at least two suspicious lines you tested even if you PASS; do not recap the plot.\n"
-            + packet, images, args.timeout,
-        )
-        verify_inputs(input_hashes)
         claude_initial = claude_round(
-            quality_root, claude_common + "\nThis is your independent first assessment. You have not seen"
-            " GPT-6 Sol's assessment. Make the required source checks and return your own"
-            " provisional verdict with blocking findings only. For prose, inspect every"
-            " meaningful exchange with the diagnostic reference. Use notes to contrast main"
-            " voices using exact lines, and discuss at least two suspicious setup-delivery"
-            " turns even if you PASS. Do not recap the plot.",
-            discussion_schema(args.stage), args, images, include_comparisons=False,
+            quality_root, claude_common + reading_instructions(args.stage, "editorial")
+            + "\nRead source-map.json for exact line numbers and quoted passage candidates."
+            " Keep diagnostic fields concise; expand only when a suspected problem needs it."
+            " This is the first reading; you have not seen any Sol assessment.",
+            discussion_schema(args.stage, "editorial"), args, images, include_comparisons=False,
         )
         verify_inputs(quality_hashes)
-        try:
-            validate_discussion(claude_initial, args.stage)
-        except ValueError as exc:
-            raise ValueError(f"Claude initial discussion: {exc}; response: {str(claude_initial)[:800]}") from exc
+        record_diagnostic("claude_initial", claude_initial)
+        validate_discussion(claude_initial, args.stage, "editorial", source_text, prompt_text)
+        initial = codex_round(
+            empty_workspace, args.stage, common + reading_instructions(args.stage, "causal")
+            + "\nSOURCE MAP:\n" + json.dumps(coverage_map, ensure_ascii=False) + "\n" + packet,
+            images, args.timeout, role="causal", source_text=source_text, prompt_text=prompt_text,
+            output_path=diagnostic_output_path("gpt_initial"),
+        )
+        verify_inputs(input_hashes)
         codex_reply = codex_round(
-            empty_workspace, args.stage, common + "\nYour independent proposal and Claude Opus 5.5's independent proposal follow."
-            " Recheck points of disagreement against the source. Challenge any shared PASS by"
-            " testing the strongest plausible counterexample in a decisive exchange, voice"
-            " pattern, or ending. Explain what you retain or withdraw in notes, and return"
-            " your revised provisional verdict with blocking findings only.\n"
-            + json.dumps({"your_initial": initial, "claude_initial": claude_initial}, ensure_ascii=False)
+            empty_workspace, args.stage, common + reading_instructions(args.stage, "challenge")
+            + "\n" + json.dumps({"your_initial": initial, "claude_initial": claude_initial}, ensure_ascii=False)
             + "\n" + packet,
-            images, args.timeout,
+            images, args.timeout, role="challenge", source_text=source_text, prompt_text=prompt_text,
+            output_path=diagnostic_output_path("gpt_rejoinder"),
         )
         verify_inputs(input_hashes)
         objections = provisional_objections(
@@ -711,10 +694,10 @@ def run(args: argparse.Namespace) -> dict:
             + "\nThe complete story-quality discussion follows. Resolve its disputed craft"
             " and causal claims against the target and issue the FINAL STORY-QUALITY verdict."
             " Do not open canon, name, or broad policy files. You own this verdict; do not defer"
-            " to consensus. Resolve EVERY numbered provisional objection in the resolutions"
-            " array, including any repeated in the rejoinder. For a rejected objection,"
+            " to consensus. Resolve EVERY numbered provisional observation in the resolutions"
+            " array, including any repeated in the rejoinder. For a rejected observation,"
             " evidence must be an exact substring from the target showing why the objection"
-            " fails; explain the inference in reason. Retain a real blocker in findings."
+            " fails; explain the inference in reason. Retain a real blocker in findings and preserve nonblocking advice in editorial."
             " Do not invent placement, object state, elapsed time, or a"
             " speaker's observation. Apply the active craft profile's threshold. For prose,"
             " report prompt, internal, and dialogue gates, including N/A only for essentially"
@@ -725,7 +708,17 @@ def run(args: argparse.Namespace) -> dict:
             quality_schema(args.stage, objections), args, images, include_comparisons=False,
         )
         verify_inputs(quality_hashes)
-        validate_quality(quality, args.stage, objections, source_path.read_text(encoding="utf-8"))
+        record_diagnostic("claude_quality_final", quality)
+        validate_quality(quality, args.stage, objections, source_path.read_text(encoding="utf-8"), prompt_text)
+        if getattr(args, "calibration", False):
+            if not args.no_write:
+                raise ValueError("Calibration requires --no-write and cannot authorize publication")
+            verify_inputs(input_hashes)
+            return {"calibration_only": True, "stage": args.stage, "story": args.story,
+                    "source_sha256": before, "quality_verdict": quality["verdict"],
+                    "findings": quality["findings"], "editorial": quality["editorial"],
+                    "discussion": {"claude_initial": claude_initial, "gpt_initial": initial,
+                                   "gpt_rejoinder": codex_reply, "claude_quality_final": quality}}
         authority = claude_round(
             final_root, f"You are Claude Opus 5.5 conducting the final authority check for"
             f" {args.story}. The story-quality verdict below is already final and cannot be"
@@ -756,6 +749,7 @@ def run(args: argparse.Namespace) -> dict:
         result = {
             "verdict": "REVISE" if "REVISE" in (quality["verdict"], authority["verdict"]) else "PASS",
             "findings": quality["findings"] + authority["findings"],
+            "editorial": quality["editorial"],
             "notes": f"Story quality: {quality['notes']} Authority: {authority['notes']}",
         }
         if args.stage == "prose":
@@ -785,13 +779,17 @@ def main() -> int:
     parser.add_argument("--comparison", action="append", default=[])
     parser.add_argument("--pre-review", default="")
     parser.add_argument("--no-write", action="store_true", help="Only emit the verdict; useful for calibration")
+    parser.add_argument("--calibration", action="store_true",
+                        help="Compare independent Claude with discussion; --no-write required; no publication verdict")
+    parser.add_argument("--diagnostics-dir", type=Path,
+                        help="Optional temporary calibration outputs outside the source workspace")
     parser.add_argument("--claude-command", default="claude", help=argparse.SUPPRESS)
     parser.add_argument("--timeout", type=int, default=900)
     args = parser.parse_args()
     try:
         result = run(args)
         print(json.dumps(result, ensure_ascii=True))
-        if result["verdict"] == "REVISE":
+        if result.get("verdict") == "REVISE":
             return 2
     except (OSError, ValueError, RuntimeError, subprocess.TimeoutExpired) as exc:
         message = f"Story review blocked: {exc}".encode("ascii", "backslashreplace").decode("ascii")

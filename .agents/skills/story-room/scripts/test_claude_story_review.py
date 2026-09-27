@@ -14,19 +14,25 @@ import unittest
 from unittest import mock
 
 import claude_story_review as review
+from review_diagnostics import source_map
+
+PROSE = "---\ntitle: Test\nslug: test-story\ncreated: 2026-09-26\ncanon: false\n---\n\nA short exact quote.\n"
+OUTLINE = "# Outline\n\n## Story\n\nA causal plan.\n"
 
 
 def finding() -> dict:
     return {
         "location": "line 4",
-        "evidence": "A short exact quote",
+        "evidence": ["A short exact quote"],
         "impact": "The listener cannot infer the answer.",
         "fix": "Supply the missing question.",
     }
 
 
 def response(stage: str, verdict: str) -> dict:
-    result = {"verdict": verdict, "findings": [] if verdict == "PASS" else [finding()], "notes": "Grounded review."}
+    result = {"verdict": verdict, "findings": [] if verdict == "PASS" else [finding()], "notes": "Grounded review.", "editorial": []}
+    if stage == "outline" and result["findings"]:
+        result["findings"][0]["evidence"] = ["A causal plan."]
     if stage == "prose":
         result.update(
             prompt="PASS",
@@ -39,21 +45,29 @@ def response(stage: str, verdict: str) -> dict:
     return result
 
 
-def discussion_response(stage: str, verdict: str) -> dict:
-    kinds = ("promise", "causality", "knowledge_rules") if stage == "outline" else (
-        "opening", "decisive", "final", "weakest_turn", "voice_pattern", "ending_effect")
-    return {
-        "verdict": verdict,
-        "findings": [] if verdict == "PASS" else [finding()],
-        "checks": {kind: {"location": "line 4", "evidence": "A short exact quote",
-                          "assessment": "The exchange is grounded."} for kind in kinds},
-        "notes": "Grounded discussion.",
+def discussion_response(stage: str, verdict: str, role: str = "causal") -> dict:
+    text = PROSE if stage == "prose" else OUTLINE
+    quote = "A short exact quote" if stage == "prose" else "A causal plan."
+    result = {
+        "observations": [] if verdict == "PASS" else [{**finding(), "evidence": [quote], "category": "contradiction"}],
+        "strengths": [{"evidence": [quote], "reason": "Preserve the plain action."}],
+        "notes": "Grounded diagnosis, without publication verdict.",
     }
+    if role != "challenge":
+        result["scenes"] = [{"start_line": 1, "end_line": len(text.splitlines()),
+                             "scene": "One scene", "state_before": "Before the action",
+                             "state_after": "After the action", "knowledge": "Observed action",
+                             "emotional_movement": "A choice", "evidence": quote}]
+    if stage == "prose" and role == "editorial":
+        result["exchanges"] = []
+        result["patterns"] = {key: {"evidence": [quote], "assessment": "No repeated pattern in this tiny fixture."}
+                              for key in ("voice_under_pressure", "correction_routines", "ending_repetition")}
+    return result
 
 
 def quality_response(stage: str, final: dict, objections: list[dict] | None = None) -> dict:
-    result = discussion_response(stage, final["verdict"])
-    result["findings"] = final["findings"]
+    result = {key: final[key] for key in ("verdict", "findings", "editorial", "notes")}
+    result["strengths"] = []
     result["resolutions"] = [
         {"id": objection["id"], "decision": "rejected",
          "evidence": "A causal plan." if stage == "outline" else "A short exact quote",
@@ -98,6 +112,33 @@ class ReviewRunnerTests(unittest.TestCase):
             encoding="utf-8",
         )
 
+    def test_calibration_is_not_a_publication_verdict(self):
+        with tempfile.TemporaryDirectory() as diagnostics, self.conversation(response("prose", "PASS")) as calls:
+            result = review.run(self.args("prose", calibration=True, no_write=True,
+                                          diagnostics_dir=Path(diagnostics)))
+            self.assertEqual(calls.call_count, 4)
+            self.assertTrue(result["calibration_only"])
+            self.assertNotIn("verdict", result)
+            self.assertEqual(result["quality_verdict"], "PASS")
+            self.assertEqual(len(list(Path(diagnostics).glob("*.json"))), 4)
+        self.assertFalse((self.package / "review.md").exists())
+
+    def test_calibration_cannot_write_or_persist_inside_source(self):
+        for options in ({"calibration": True},
+                        {"calibration": True, "no_write": True, "diagnostics_dir": self.root / "logs"},
+                        {"no_write": True, "diagnostics_dir": self.root.parent / "logs"}):
+            with self.subTest(options=options), mock.patch("subprocess.run") as calls:
+                with self.assertRaises(ValueError):
+                    review.run(self.args("prose", **options))
+                calls.assert_not_called()
+
+    def test_final_quality_evidence_must_be_exact_even_for_advice(self):
+        final = quality_response("prose", response("prose", "PASS"))
+        final["editorial"] = [{**finding(), "category": "craft",
+                               "evidence": ["A short exact quote", "an invented detail"]}]
+        with self.assertRaisesRegex(ValueError, "exact source quote"):
+            review.validate_quality(final, "prose", source_text=PROSE)
+
     def args(self, stage: str, **overrides) -> argparse.Namespace:
         values = dict(
             stage=stage,
@@ -128,16 +169,16 @@ class ReviewRunnerTests(unittest.TestCase):
             nonlocal calls
             calls += 1
             command = args[0]
-            if calls in (1, 3):
+            if calls in (2, 3):
                 self.assertEqual(command[0], "codex")
                 self.assertIn(review.CODEX_MODEL, command)
                 self.assertIn("model_reasoning_effort=high", command)
                 self.assertIn("--ephemeral", command)
                 self.assertIn("read-only", command)
                 output = codex_events(
-                    initial_discussion if initial_discussion is not None and calls == 1 else
+                    initial_discussion if initial_discussion is not None and calls == 2 else
                     rejoinder_discussion if rejoinder_discussion is not None and calls == 3 else
-                    discussion_response(stage, "PASS"))
+                    discussion_response(stage, "PASS", "causal" if calls == 2 else "challenge"))
             else:
                 self.assertNotIn("ANTHROPIC_API_KEY", kwargs["env"])
                 self.assertIn("--restricted", command)
@@ -145,7 +186,7 @@ class ReviewRunnerTests(unittest.TestCase):
                 self.assertIn("high", command)
                 self.assertIn("--no-session-persistence", command)
                 self.assertIn("Read,Glob,Grep", command)
-                if calls == 2:
+                if calls == 1:
                     self.assertNotIn('"your_initial"', kwargs["input"])
                     self.assertNotIn('"gpt_initial"', kwargs["input"])
                     self.assertIn("Canon, policy, and names are a later final check", kwargs["input"])
@@ -156,12 +197,12 @@ class ReviewRunnerTests(unittest.TestCase):
                     self.assertIn("final authority check", kwargs["input"])
                 self.assertNotIn(kwargs["input"], command)
                 first = initial_discussion or discussion_response(stage, "PASS")
-                claude_first = claude_initial_discussion or discussion_response(stage, "PASS")
-                reply = rejoinder_discussion or discussion_response(stage, "PASS")
+                claude_first = claude_initial_discussion or discussion_response(stage, "PASS", "editorial")
+                reply = rejoinder_discussion or discussion_response(stage, "PASS", "challenge")
                 objections = review.provisional_objections(("gpt_initial", first),
                                                             ("claude_initial", claude_first),
                                                             ("gpt_rejoinder", reply))
-                structured = (claude_first if calls == 2 else
+                structured = (claude_first if calls == 1 else
                               quality_override or quality_response(stage, result, objections) if calls == 4 else
                               authority_override or authority_response(stage, "PASS"))
                 output = json.dumps({**envelope, "structured_output": structured})
@@ -294,7 +335,7 @@ class ReviewRunnerTests(unittest.TestCase):
         with self.conversation(response("prose", "PASS"),
                                initial_discussion=discussion_response("prose", "REVISE")):
             result = review.run(self.args("prose"))
-        self.assertEqual(result["discussion"]["gpt_initial"]["verdict"], "REVISE")
+        self.assertEqual(len(result["discussion"]["gpt_initial"]["observations"]), 1)
         self.assertEqual(result["verdict"], "PASS")
         self.assertEqual(result["discussion"]["claude_quality_final"]["resolutions"][0]["id"],
                          "gpt_initial:1")
@@ -305,7 +346,7 @@ class ReviewRunnerTests(unittest.TestCase):
         missing = quality_response("prose", response("prose", "PASS"))
         with self.conversation(response("prose", "PASS"), initial_discussion=initial,
                                quality_override=missing):
-            with self.assertRaisesRegex(ValueError, "resolve every provisional blocker"):
+            with self.assertRaisesRegex(ValueError, "resolutions.*invalid array"):
                 review.run(self.args("prose"))
         unsupported = quality_response("prose", response("prose", "PASS"),
                                        [{"id": "gpt_initial:1"}])
@@ -316,11 +357,35 @@ class ReviewRunnerTests(unittest.TestCase):
                 review.run(self.args("prose"))
         self.assertFalse((self.package / "review.md").exists())
 
+    def test_editorial_advice_survives_a_final_pass(self):
+        initial = discussion_response("prose", "REVISE")
+        initial["observations"][0]["category"] = "craft"
+        final = response("prose", "PASS")
+        final["editorial"] = initial["observations"]
+        quality = quality_response("prose", final, [{"id": "gpt_initial:1"}])
+        quality["resolutions"][0]["decision"] = "editorial"
+        with self.conversation(final, initial_discussion=initial, quality_override=quality):
+            result = review.run(self.args("prose"))
+        self.assertEqual(result["verdict"], "PASS")
+        self.assertEqual(len(result["editorial"]), 1)
+        self.assertIn("Editorial (craft)", (self.package / "review.md").read_text(encoding="utf-8"))
+
+    def test_preference_cannot_become_a_blocker(self):
+        initial = discussion_response("prose", "REVISE")
+        initial["observations"][0]["category"] = "preference"
+        final = response("prose", "REVISE")
+        quality = quality_response("prose", final, [{"id": "gpt_initial:1"}])
+        quality["resolutions"][0]["decision"] = "retained"
+        with self.conversation(final, initial_discussion=initial, quality_override=quality):
+            with self.assertRaisesRegex(ValueError, "optional preference"):
+                review.run(self.args("prose"))
+        self.assertFalse((self.package / "review.md").exists())
+
     def test_every_rounds_objections_get_distinct_resolutions(self):
         revised = discussion_response("prose", "REVISE")
         with self.conversation(response("prose", "PASS"), initial_discussion=revised,
-                               claude_initial_discussion=revised,
-                               rejoinder_discussion=revised):
+                               claude_initial_discussion=discussion_response("prose", "REVISE", "editorial"),
+                               rejoinder_discussion=discussion_response("prose", "REVISE", "challenge")):
             result = review.run(self.args("prose"))
         self.assertEqual([row["id"] for row in result["discussion"]["claude_quality_final"]["resolutions"]],
                          ["gpt_initial:1", "claude_initial:1", "gpt_rejoinder:1"])
@@ -341,13 +406,13 @@ class ReviewRunnerTests(unittest.TestCase):
         self.assertFalse((self.package / "review.md").exists())
 
     def test_discussion_failure_blocks_final_verdict(self):
-        with self.conversation(response("prose", "PASS"), failure_at=1):
+        with self.conversation(response("prose", "PASS"), failure_at=2):
             with self.assertRaisesRegex(RuntimeError, "GPT-6 Sol review failed"):
                 review.run(self.args("prose"))
         bad = discussion_response("prose", "PASS")
-        bad["findings"] = [finding()]
+        bad["verdict"] = "PASS"
         with self.conversation(response("prose", "PASS"), initial_discussion=bad):
-            with self.assertRaisesRegex(ValueError, "disagree"):
+            with self.assertRaisesRegex(ValueError, "invalid fields"):
                 review.run(self.args("prose"))
         self.assertFalse((self.package / "review.md").exists())
 

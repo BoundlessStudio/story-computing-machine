@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "scope": "Text-only editorial comparison; four historical story pairs withheld from reviewer teaching examples. Workflow authors have seen historical audits. This is not an untouched generalization set.",
+  "teaching_stories": [
+    "the-inheritance-remembers",
+    "the-mercy-circuit"
+  ],
+  "before_commit": "769ab502fa5de67c7bd0e3d87c0417b35772c8d2",
+  "after_commit": "6756c5625856404309698ec6ef1e529cc5f2b839",
+  "stories": {
+    "a-curse-before-breakfast": {
+      "split": "withheld",
+      "versions": {
+        "original": {
+          "source_sha256": "10750ccd4ffd5967a41378688211c6f060744c9d4212fb53dbd21f0d4655ee4a",
+          "expected_issues": [
+            "plate"
+          ]
+        },
+        "revised": {
+          "source_sha256": "3d0bb8357b2865067e8e5143a05fda7ba88495a387a023c4ae46d79882dbd105",
+          "expected_issues": []
+        }
+      },
+      "issues": [
+        {
+          "id": "plate",
+          "category": "contradiction",
+          "match_requirement": "Toast is taken to the kitchen but is present beside Coris at sunset without a return. Identify both states and the missing return.",
+          "original_evidence": [
+            "I brought the plate back to the kitchen.",
+            "Your toast's still there."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        }
+      ],
+      "preserve": [
+        {
+          "id": "role-reversal",
+          "evidence": "The quilt from your bed.",
+          "reason": "Preserve the repeated increasingly specific requests as the sibling role-reversal joke; do not vary them merely to avoid a pattern."
+        }
+      ]
+    },
+    "the-place-laid-for-her": {
+      "split": "withheld",
+      "versions": {
+        "original": {
+          "source_sha256": "a22a74b682c4786d5cff8665f49fa0420aa6f65f0decdcee89b28460f7ec78d8",
+          "expected_issues": [
+            "poem-voice",
+            "coat"
+          ]
+        },
+        "revised": {
+          "source_sha256": "c3eca0a12d49c7e81cedae1ee75b5f286fdb694ccba2a5fe52cd378adc5f78d1",
+          "expected_issues": []
+        }
+      },
+      "issues": [
+        {
+          "id": "poem-voice",
+          "category": "craft",
+          "match_requirement": "Compare Brevot's loose ordinary speech with the clipped matched poem argument; the reproach arrives indirectly and gets no clear uptake. Specific voice convergence or buried reproach earns credit, not generic dialogue praise.",
+          "original_evidence": [
+            "I do. Sometimes. I never know where to look when somebody's playing it at me.",
+            "They are. Rather."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        },
+        {
+          "id": "coat",
+          "category": "contradiction",
+          "match_requirement": "Brevot wears and uses the coat during dinner, then retrieves it as if left elsewhere. Name the contradictory possession state.",
+          "original_evidence": [
+            "He reached into his coat.",
+            "Then he stepped away to retrieve his coat."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        }
+      ],
+      "preserve": [
+        {
+          "id": "music",
+          "evidence": "I do. Sometimes. I never know where to look when somebody's playing it at me.",
+          "reason": "Preserve this ordinary specific self-description; do not rewrite it into a polished retort."
+        }
+      ]
+    },
+    "a-crown-in-the-bargain": {
+      "split": "withheld",
+      "versions": {
+        "original": {
+          "source_sha256": "84dfd1751d87ea0fb869c1315727e8a1eb0fa72cdcf1e8afb1785d4ca318d29d",
+          "expected_issues": [
+            "minutes",
+            "signet-state"
+          ]
+        },
+        "revised": {
+          "source_sha256": "5594e4a2f3956476ca7208f1d5544230909ddf1b47042c07c086960ff5db29e4",
+          "expected_issues": []
+        }
+      },
+      "issues": [
+        {
+          "id": "minutes",
+          "category": "craft",
+          "match_requirement": "The attendant's correction follows a correct countdown answer and the untagged arithmetic repeats it. Identify the actual setup/response failure, not a generic dislike of quips.",
+          "original_evidence": [
+            "That isn't how minutes work",
+            "We spent eight of them."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        },
+        {
+          "id": "signet-state",
+          "category": "contradiction",
+          "match_requirement": "The real signet is placed before the demonstration, then placed again without removal while blanks occupy cups. Trace the conflicting object states.",
+          "original_evidence": [
+            "Then he fitted his signet into the northern cup",
+            "He placed his own ring in the northern cup."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        }
+      ],
+      "preserve": [
+        {
+          "id": "pear",
+          "evidence": "Already stole the prince's sugared pear.",
+          "reason": "Preserve the attendant's brief practical irreverence; a quip here follows the food instruction and differentiates her."
+        }
+      ]
+    },
+    "the-seventh-night": {
+      "split": "withheld",
+      "versions": {
+        "original": {
+          "source_sha256": "09536a07ee4d7d57ff962c0e7660ed772191254d7e5be55a055f18fc634f0cc2",
+          "expected_issues": [
+            "spoon",
+            "private-question"
+          ]
+        },
+        "revised": {
+          "source_sha256": "f1d2b6987d2218084c160f40e4d47085bd71e993ef27e796a30fb318873937c8",
+          "expected_issues": []
+        }
+      },
+      "issues": [
+        {
+          "id": "spoon",
+          "category": "craft",
+          "match_requirement": "Slow collapse does not explain a spoon deliberately secured by two buckles; the setup serves the retort without an intelligible account. Recognize the comic intent while diagnosing the missing causal link.",
+          "original_evidence": [
+            "The spoon was secured with two buckles.",
+            "I did not say it collapsed quickly."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        },
+        {
+          "id": "private-question",
+          "category": "craft",
+          "match_requirement": "The decisive Even here question concerns private intimacy; the public reputation speech and topper let its personal challenge disappear without enough uptake. Identify the missing response or legibly marked evasion.",
+          "original_evidence": [
+            "Even here?",
+            "My reputation is not an ornament."
+          ],
+          "verification": "Source and corresponding repair diff inspected before scoring; craft expectations are editorial judgments, not universal rules."
+        }
+      ],
+      "preserve": [
+        {
+          "id": "sword",
+          "evidence": "The sword slid out beautifully.",
+          "reason": "Preserve the grounded massage-oil joke and reaction; do not remove earned comic banter categorically."
+        }
+      ]
+    }
+  }
+}

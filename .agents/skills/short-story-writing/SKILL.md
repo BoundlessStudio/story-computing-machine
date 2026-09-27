@@ -73,6 +73,16 @@ After complete prose exists, revise that same file at four scales:
    rhythm, specificity, imagery, and speaker-owned language. Repair generic
    gestures, artificial metaphors, accidental echoes, and mechanical emphasis.
 
+Before handoff, read every scene from the reader's available information. Reconstruct
+consequential state changes from their last established positions, possession, timing and
+knowledge. For each spoken or nonverbal exchange, paraphrase the literal request, what
+the listener can recover, and whether the next response follows; check adjacent action.
+Compare each main character's comfortable and pressured voice, then look across scenes
+for interchangeable response patterns. At the ending, identify what each action, line
+and narrative sentence adds. Preserve effective repetition and ordinary inference.
+Fix supported contradictions and substantial craft problems; distinguish optional taste
+from a needed repair. Do this in the existing draft without saving a coverage report.
+
 Make one final skeptical read for prompt fidelity and over-explanation. Preserve
 deliberate user editorial choices; do not reinterpret a cover note as prose
 permission or turn a localized request into a redesign. At the ending, remove

@@ -37,7 +37,8 @@ passing review, generated reference art followed by its cover:
   relevant continuity boundaries.
 - `story.md`: reader-facing prose and minimal metadata; its frontmatter is the
   authoritative canon marker.
-- `review.md`: final people/place inventory, verdicts, and blocking findings.
+- `review.md`: final people/place inventory, verdicts, blocking findings, and
+  clearly distinguished nonblocking editorial advice.
 - `title-image.jpg`: the final-story 864×1536 (9:16) portrait cover; never canon
   authority. Its exact title and visual requirements belong to
   [Title image](.agents/skills/story-room/SKILL.md#title-image).
