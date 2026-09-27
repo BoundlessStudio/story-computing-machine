@@ -31,16 +31,26 @@ canon/retcon rulings, or material prompt reinterpretation.
    `story_outliner` to write only `outline.md`. Include every reference as a
    resolvable path or unambiguous attachment identifier, its requested role,
    and any compact collection anti-default brief.
-4. Delegate a fresh `story_writer` to write and revise only `story.md` through
-   the prose adapter. Do not expose prior prose or Voice capsules.
-5. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Give its concise
-   result, without another file, to a fresh independent `story_reviewer`.
-   Include the resolved comparison paths required below. It writes only
-   `review.md` under the REVIEW contract.
-6. On `REVISE`, return only blocking findings to that story's writer, allowing
+4. Obtain independent GPT-6 Sol and Claude Opus 5.5
+   [OUTLINE REVIEW](../story-room/SKILL.md#outline-review) readings of the
+   saved outline. Adjudicate their findings against the text, resolve material
+   disagreements, and check authority at the end. On coordinator `REVISE`,
+   return only blocking findings to the outliner and reread changed bytes.
+   Do not assign a writer until the coordinator passes the exact outline hash.
+   Carry the decision and hash in the handoff, never in a new package file.
+5. Delegate a fresh `story_writer` to write and revise only `story.md` through
+   the prose adapter. Give it the passed outline, not the review discussion or
+   comparison prose. Do not expose prior prose or Voice capsules.
+6. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Obtain fresh,
+   independent GPT-6 Sol and Claude Opus 5.5 [REVIEW](../story-room/SKILL.md#review)
+   readings. Adjudicate actual findings and disagreements against the prose,
+   check authority at the end, and record the coordinator's hash-bound verdict
+   in `review.md`. Their readings replace the `story_reviewer` agent.
+7. On `REVISE`, return only blocking findings to that story's writer, allowing
    the smallest surrounding action/narration needed for repair. Repeat
-   PreReview and assign a fresh reviewer every time. Do not broaden the rewrite.
-7. After prose `PASS`, delegate `story_title_illustrator` under
+   PreReview and run a new non-persistent two-model review every time. Do not
+   broaden the rewrite.
+8. After prose `PASS`, delegate `story_title_illustrator` under
    [ART REFERENCES](../story-room/SKILL.md#art-references). Include the final
    prose, every inventoried original from every retained request block, and
    the gallery style anchors. Create and review character sheets first, then
@@ -49,14 +59,14 @@ canon/retcon rulings, or material prompt reinterpretation.
    account for every main character and major setting, including any proposed
    cover subject. A source without a qualifying subject may omit that category
    with a source-based reason in the handoff, never an invented subject.
-8. Only after the complete reference set passes both visual checks, delegate
+9. Only after the complete reference set passes both visual checks, delegate
    `story_title_illustrator` under the TITLE IMAGE contract. Supply the accepted
    reference paths and their roles, plus all inventoried originals for inspection.
    Attach the relevant accepted images to cover generation within the tool's
    five-input limit. Both illustrator and coordinator inspect the exact saved
    JPEG and independently apply all seven gates. Send the contract's regeneration brief
    on failure and repeat until accepted; do not capture a rejected image.
-9. Complete [Publication](#publication) and any batch-completion audit due under
+10. Complete [Publication](#publication) and any batch-completion audit due under
    [Collection context](#collection-context). The four authored Markdown files
    and accepted title image remain at the package root; accepted reference PNGs
    live only in its three permitted `art/` collections.
