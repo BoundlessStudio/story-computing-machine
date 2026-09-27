@@ -31,19 +31,21 @@ canon/retcon rulings, or material prompt reinterpretation.
    `story_outliner` to write only `outline.md`. Include every reference as a
    resolvable path or unambiguous attachment identifier, its requested role,
    and any compact collection anti-default brief.
-4. Run the GPT-6 Sol / Claude Opus 5.5 [OUTLINE REVIEW](../story-room/SKILL.md#outline-review)
-   on the saved outline. On `REVISE`, return only blocking findings to the
-   outliner and rerun a fresh review after repair. Do not assign a writer until
-   Claude's final verdict passes the exact outline bytes. Carry its verdict and hash in the
-   handoff, never in a new package file.
+4. Obtain independent GPT-6 Sol and Claude Opus 5.5
+   [OUTLINE REVIEW](../story-room/SKILL.md#outline-review) readings of the
+   saved outline. Adjudicate their findings against the text, resolve material
+   disagreements, and check authority at the end. On coordinator `REVISE`,
+   return only blocking findings to the outliner and reread changed bytes.
+   Do not assign a writer until the coordinator passes the exact outline hash.
+   Carry the decision and hash in the handoff, never in a new package file.
 5. Delegate a fresh `story_writer` to write and revise only `story.md` through
    the prose adapter. Give it the passed outline, not the review discussion or
    comparison prose. Do not expose prior prose or Voice capsules.
-6. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Give its concise
-   result and resolved comparison paths to a fresh GPT-6 Sol / Claude Opus 5.5
-   [REVIEW](../story-room/SKILL.md#review) invocation. Their discussion replaces
-   the `story_reviewer` agent; Claude's final structured verdict is rendered
-   into `review.md` without a separate semantic review.
+6. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Obtain fresh,
+   independent GPT-6 Sol and Claude Opus 5.5 [REVIEW](../story-room/SKILL.md#review)
+   readings. Adjudicate actual findings and disagreements against the prose,
+   check authority at the end, and record the coordinator's hash-bound verdict
+   in `review.md`. Their readings replace the `story_reviewer` agent.
 7. On `REVISE`, return only blocking findings to that story's writer, allowing
    the smallest surrounding action/narration needed for repair. Repeat
    PreReview and run a new non-persistent two-model review every time. Do not

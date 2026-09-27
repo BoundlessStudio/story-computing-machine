@@ -78,198 +78,102 @@ as canon. Return a one-sentence change report.
 
 ## OUTLINE REVIEW
 
-Before any prose drafting for a new story or replacement, invoke the required
+Before assigning prose for a new story or replacement, run
 `scripts/claude_story_review.py --stage outline --story <slug> --worktree <absolute-path>`
-from the dedicated worktree. Pass every resolved original with
-`--reference-image` and the bounded recent-outline paths with `--comparison`.
-GPT-6 Sol and Claude Opus 5.5 conduct one read-only outline discussion: each
-reads independently without a verdict: Claude reads first with unrestricted editorial
-scope, Sol reads independently without seeing Claude, then Sol challenges both readings. Claude
-locks the story-quality verdict before a final Claude authority check. Their
-combined verdict replaces the former outline
-review stage; do not add another reviewer. The runner returns PASS or REVISE
-and the exact outline SHA-256 in the task handoff; it writes no package file.
-Claude must resolve each numbered observation from both first assessments
-and Sol's rejoinder, including supported advice below the blocking threshold. A rejected blocker needs an exact quote from the target and
-an explanation that answers the actual claim; a retained blocker cannot coexist with PASS.
-Accepted nonblocking advice remains in the structured editorial results, not discarded.
-Optional preferences never become publication requirements.
-Missing or unsupported resolutions are a technical blocker. Read the resolutions
-in the handoff, especially when Sol and Claude disagree, before assigning prose.
-Exit 2 blocks writer handoff and returns only actionable blocking findings to
-the outliner. A changed outline requires a fresh invocation and hash. Exit 1
-is a technical blocker, never permission to skip the gate.
+from the dedicated worktree. Give both models every resolved reference original with
+`--reference-image`. Claude Opus 5.5 and GPT-6 Sol independently read the complete
+prompt and exact outline. They first identify supported strengths and concerns,
+without a PASS/REVISE verdict and without seeing each other's assessment. Both
+may examine any aspect of the design. They test whether its central promise,
+causal movement, agency, knowledge, time, space, speculative limits, and dialogue
+engine can be drafted without guessing about a material prompt requirement. A
+flexible design may pass; do not demand scripted dialogue or a fixed ending.
 
-The first three turns check that the design can be drafted without guessing about a
-material prompt requirement: central promise, cause and movement, participant agency,
-knowledge, time, space, operative rules, dialogue engine, and use of original reference
-images. Claude resolves those story-quality claims before checking relevant universe
-authority, policy, and name confusion in its final verdict. It does not
-require a scripted confession, exact ending, antagonist, quota of subtext, or
-generic plot structure. A flexible outline may pass; a concrete contradiction
-or missing decision that would force a consequential invention must be revised.
-Do not show the outline verdict or findings to the later prose reviewer.
+The coordinator reads both assessments against the outline. Investigate every
+substantial disagreement in the source and use direct model follow-up only when it
+will clarify an unresolved claim. Decide whether each concern is a contradiction,
+a substantial craft problem, or an optional preference. The coordinator owns the
+final outline PASS/REVISE judgment. If REVISE, send only supported blocking
+findings to the outliner, then repeat both independent readings on changed bytes.
+Do not assign the writer until the coordinator has recorded PASS and the exact
+outline SHA-256 in the task handoff. No new story-package file is permitted.
+A model failure, malformed response, or changed input bytes blocks the stage.
+
+Do story quality first. Only after resolving editorial concerns, check relevant
+universe authority, narrative policy, and noun history. The prompt controls
+acceptance and the outline remains advisory intent. Do not expose outline
+assessments or the outline verdict to later prose reviewers.
 
 ## REVIEW
 
-GPT-6 Sol and Claude Opus 5.5 conduct the same story-first discussion for prose,
-with Claude owning the final semantic verdict. After independent first readings
-and Sol's rejoinder, Claude issues the first story-quality verdict using only the
-prompt, prose, and craft diagnostic. A separate final Claude session checks canon,
-policy, and names. The runner combines the two Claude verdicts; the authority
-check can add blockers but cannot erase story-quality findings. This replaces the former
-`story_reviewer` stage; do not append a separate Codex verdict. Invoke the required
-`scripts/claude_story_review.py --stage prose --story <slug> --worktree <absolute-path>`
-from the coordinator's worktree, after PreReview for current format. Supply its
-concise result with `--pre-review`, and the resolved collection paths with
-`--comparison`. Comparison paths must point to prior story prose in this worktree,
-never the target package or a review. The runner uses fresh, read-only, non-persistent sessions, verifies the
-source hash and structured verdict, and writes only the existing `review.md`
-for a non-canon current-format story. Exit 2 is REVISE; exit 1 is a technical
-blocker. For a bundle
-edit, the runner returns a hash-bound verdict in the handoff without modifying
-historical `04-review.md`; identify that old review as stale. After PASS, a
-named bundle capture takes its exact handoff hash as `--review-hash`.
+After current-format PreReview, run
+`scripts/claude_story_review.py --stage prose --story <slug> --worktree <absolute-path>`.
+For bundles, use the same command on the supported bundle layout. The two fresh,
+non-persistent, read-only sessions independently assess the complete prompt and
+prose. Neither sees the target outline, older target reviews, canon files, name
+inventories, nor the other model's reading. Claude has unrestricted editorial
+scope; Sol also reads the whole story independently. Neither model owns the
+final verdict or is confined to a specialty.
 
-Both models read the complete prompt and prose first and form independent reader-facing
-judgments without the target's outline, previous target review, canon files, or name
-inventories. Sol rechecks disputed story-quality points. Claude resolves those points
-against the prose and locks the craft findings before canon, policy, and name checks.
-Inspect the final numbered resolutions in the runner's result before accepting PASS;
-recheck any material disagreement against the cited passage. Do not silently drop a
-Sol objection because Claude's overall verdict says PASS.
-Apply the recorded profile's threshold to quality findings. The prompt is acceptance authority; historical
-request sections remain acceptance context and the last recorded craft profile remains
-active. Do not retrieve prior versions or apply a new profile retroactively.
-Claude reads exact files from temporary stage snapshots: the first contains prompt,
-target, source map, teaching examples and the dialogue diagnostic; the final adds universe files and bounded name
-memory. Sol's Windows read-only CLI cannot open files, so it receives the exact
-prompt and target bytes, dialogue diagnostic, and discussion instructions through stdin,
-without canon or name files. Neither model receives old target reviews or the
-target outline during prose review. The runner checks source and snapshot hashes before
-accepting the final result.
+The coordinator reads both assessments, then checks every scene against the
+actual prose. Reconstruct consequential action, time, object state, character
+knowledge, literal dialogue intent, listener uptake, voice changes under pressure,
+and repeated explanations. Look across scenes for patterns that weaken a whole
+exchange even when individual lines work. Assess the ending by what action,
+dialogue, and narration each add. Preserve effective passages and distinguish
+contradictions, substantial craft concerns, and optional preferences. Do not
+manufacture a missing transition when the story supports an ordinary off-page
+one. When the models disagree, inspect the surrounding passage and explain the
+coordinator's conclusion; do not settle it by vote or by accepting one model's
+summary. Direct follow-up discussion is useful only when the text leaves a real
+interpretive dispute. Working notes stay outside the story package.
 
-Claude's first reading is an unrestricted editorial review of the entire story. Sol
-then independently reviews the same story without seeing Claude's assessment; neither
-model is confined to a specialty. Sol's existing rejoinder tests both readings against
-the source. The first three turns have no PASS/REVISE field. They identify strengths and
-classify supported observations as contradiction, substantial craft problem, or optional
-preference. Only the final Claude quality turn applies publication thresholds. Preserve
-useful nonblocking advice in `review.md` under Editorial entries as well as in the result.
-A PASS does not mean no useful improvement was found. Findings are not edit authorization.
+After the story-quality judgment, check prompt fulfillment, relevant universe
+facts, the active recorded profile, binding narrative policy, and names. Inventory
+every story-facing person and place, including aliases, as new or recurring in
+the existing `review.md`. Search bounded `stories/NAMES.md`, passing current
+review inventories, relevant universe entries, and relevant canon bundle prose;
+do not treat old reviews as canon or load unrelated history. Check close and
+confusing reuse as well as exact spelling. For 08-23 CREATE/replacement, apply
+the style guide's bounded collection comparison only after standalone dialogue
+passes. The dialogue policy distinguishes one incoherent line from broader
+scene-wide convergence. Mechanical PreReview and Final validation do not replace
+this semantic judgment.
 
-Both first readings partition the complete numbered source into actual scenes (outline
-beats), recording state before/after, knowledge, emotional movement and local evidence.
-The runner rejects gaps, overlaps, missing endings and quotes outside their stated span.
-Claude checks every quoted passage candidate with its preceding setup and following
-response: literal intent, listener uptake and whether that response follows. Quoted
-terms may be marked as such; nonverbal exchanges belong in scene analysis. The candidate
-scan is a coverage floor, not a claim that punctuation detects every exchange or that a
-coverage table proves understanding. Track consequential state changes back to the last
-established state; do not narrate every trivial movement or invent a missing transition.
+The coordinator writes the existing current-format `review.md` using its template:
+one final PASS/REVISE verdict, reviewed prose SHA-256 from the runner, people/place
+inventory, Prompt/Universe/Internal and applicable Dialogue gates, concise
+blocking findings, and short notes for useful nonblocking advice. PASS requires
+all applicable gates to pass and `Blocking: none`. A supported blocker requires
+REVISE even when one or both models suggest PASS. On REVISE, send only blocking
+findings to the writer and repeat PreReview plus two fresh independent readings
+after any prose edit. No model's recommendation is edit permission. For bundles,
+record the hash-bound coordinator judgment in the handoff and identify the old
+bundle review as stale; do not rewrite its historical review file. A named bundle
+capture takes the passing handoff hash as `--review-hash`. Before Final
+validation or capture, verify the review or handoff hash still matches the exact
+prose. Canon locks and localized-edit scope continue to apply.
 
-Compare each main character's comfortable and pressured speech, then compare speakers
-within consequential scenes. Assess correction routines across exchanges and compare
-ending action, dialogue and narration for repeated meaning. Quote the relevant sides;
-a count of short lines does not establish interchangeable voices, and repetition can
-serve a comic build or emotional refrain. Preserve those working patterns. Temporary
-source maps and diagnostic output stay outside story packages; no extra production stage.
-
-The runner supplies the `dialogue` diagnostic to both models and tests whole-story
-movement directly against the recorded prompt and prose. Do not load the generic
-`story-analysis` checklist into the mandatory gate: its shattering-moment template
-would impose a plot shape the repository does not require. For coordinator diagnosis
-after a blocker, use `story-sense` for unclear narrative failure, `prose-style`
-for material sentence-level defects, and `sensitivity-check` when representation
-or sensitive experience warrants it. Their optional scripts, separate reports,
-persistence and user-question instructions do not apply. Apply conclusions through
-the existing review template, not generic requirements for conflict, hidden agendas,
-verbal tics, compulsory subtext, or a shattering moment.
-
-During the final check, inventory every story-facing proper noun naming a person, person-like being,
-or place, including aliases. Mark each `new` or `recurring`, explaining
-intentional recurrence; use one `None` row for an empty category. Search those
-forms in `stories/NAMES.md`, passing current reviews, relevant universe
-characters/locations, and relevant canon bundle prose. Check exact, alias,
-close-spelling, and semantic confusion. Never load the whole baseline, bundle
-corpus, or unrelated history. When recurrence relies on a variant rather than
-an exact name, cite that prior spelling in backticks in the continuity note
-and explain the relationship. The validator can verify cited bundle text;
-semantic equivalence remains the independent reviewer's judgment.
-
-Check prompt fulfillment and its central promise, universe facts and chronology,
-and internal causality, time, space, quantities, speculative limits,
-relationships, and knowledge.
-For 08-08, craft blocks only when it materially breaks the prompt's central
-promise, reader-facing causality, or binding narrative policy. Apply later
-profiles' additional thresholds from the style guide. Scan
-every exchange, including adjacent action/narration, for the policy's semantic
-coherence gate before higher-order dialogue judgment. Closely inspect the
-decisive and final meaningful exchanges; if they coincide, inspect the next
-most consequential exchange too. Do not infer a pass from outline intent or
-repair unclear prose charitably. One materially incoherent line can block;
-higher-order convergence uses the distinct scene-wide threshold in policy.
-
-For an 08-23 CREATE/replacement, only after standalone Dialogue PASS or valid
-N/A, compare the target's dialogic pattern, one major exchange, and final
-meaningful exchange with the supplied recent-story set. Open prior review only
-to confirm PASS and only the bounded prose passages plus adjacent action needed;
-never prior outlines or Voice capsules. Apply the style guide's collection
-interchangeability standard. This is the sole exception to unrelated-history
-limits; do not expose the passages to the outliner/writer.
-The coordinator's broader collection audit is prospective planning guidance;
-it does not add a verdict or expand the active profile's blocking thresholds.
-
-The runner renders the current-format template exactly, using one declaration
-of each verdict and a reviewed prose SHA-256:
-
-- `Verdict: PASS` only when every required gate passes, otherwise `REVISE`.
-- Under Continuity: `Prompt`, `Universe`, and `Internal`, each PASS or REVISE.
-- Under Craft for 08-18/08-21/08-23: exactly one `Dialogue: PASS`,
-  `Dialogue: REVISE`, or `Dialogue: N/A`. N/A means essentially no meaningful
-  dialogic action, not merely little spoken dialogue. Dialogue REVISE requires
-  overall REVISE.
-- Under Findings: `Blocking: none` for PASS, otherwise concise actionable
-  blocking findings. A dialogue failure gets one targeted finding with at most
-  three short examples; no new comparison field or extra verdict.
-- Keep useful notes short. Save no reasoning trace, repeated plot summary,
-  diagnostic checklist, or audit record. Do not edit prose or reopen another
-  story. Return Claude's final verdict and reviewed hash, not a second opinion.
+Use `dialogue` to diagnose a disputed exchange, `story-sense` for an unclear
+narrative problem, and `prose-style` when the concern is sentence-level. These
+are guidance for the coordinator, not extra reports or compulsory gates. Do not
+impose generic quotas, a stock plot structure, or a predetermined ending.
 
 ## Finding-level calibration
 
-Use `scripts/claude_story_review.py --calibration --no-write` on isolated temporary
-source copies. This mode returns the blind Claude first reading and the combined craft
-result; it skips authority and emits no publication verdict or package file. Compare
-actual supported observations and useful repairs, not agreement of PASS/REVISE labels.
-Claude's unrestricted first reading is the standalone arm; the combined arm is the
-accepted findings and editorial advice after Sol and Claude discuss that same input.
-This measures marginal contribution to the editorial result, not a separate test of
-Claude's ability to perform canon checks or a readiness verdict alone.
-
-`scripts/review-examples.md` contains teaching examples from two identified stories.
-Withhold other stories, their prior review notes, expected findings, and scoring rubrics
-from both models. Pin original/revised source hashes. Verify each expected issue against
-its actual surrounding prose; an old review is a candidate finding, not ground truth.
-Separate objective contradictions from craft judgments and record disputed expectations.
-Repaired versions may contain new defects and must not be forced to PASS. Preserve
-working passages as controls for harmful repairs. Because workflow authors have seen
-historical audits, describe these as withheld from reviewer examples, not wholly unseen
-during method development; use genuinely new stories for later generalization tests.
-
-Adjudicate every candidate in both arms after blind review: exact source evidence,
-location/mechanism/impact match, supported/partial/false alarm/preference/duplicate,
-and useful/harmful/neutral repair. `scripts/score_story_review.py` refuses incomplete
-adjudications, stale source pins, teaching cases in held-out scores, and detection credit
-for an already repaired issue. Report per-finding detection, partial matches, false
-alarms, useful repairs, damage to preserved passages, findings added by discussion,
-and Claude findings lost in discussion. Publication verdicts earn no detection credit.
-Distinguish useful repair suggestions from repairs actually applied and evaluated;
-this scorer judges suggestions against the source and does not establish their realized effect.
-Evaluate whether each model adds useful marginal findings; keep orchestration only when
-evidence warrants its cost. The earlier 3-of-9 result belongs to the combined workflow,
-not Claude independently. Role specialization is not an established improvement.
-
+Audit before/after prose without supplying old review notes, expected findings,
+or scores to either model. For each independently verified candidate problem,
+score whether Claude alone and Sol alone detected its actual mechanism and
+impact, whether the coordinator's combined judgment retained or corrected it,
+and whether a suggested repair protects effective passages. Record partial
+matches, false alarms, useful proposals, and harmful proposals. A revised story
+receiving PASS earns no detection credit by itself. Compare Claude alone with
+the combined coordinator process on the same held-out stories; retain extra
+orchestration only when its marginal value justifies the cost. Historical stories
+used while developing this method are not fully unseen, even when their old
+review notes are withheld from the models. Use later new stories to test
+transfer. Keep calibration notes outside story packages; do not turn the audit
+into a production gate or an additional package artifact.
 ## ART REFERENCES
 
 For a new story or replacement, complete this stage after prose REVIEW PASS and

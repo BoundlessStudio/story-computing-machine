@@ -151,9 +151,9 @@ explicitly included or a current-format prose change requires a fresh
 Inspect the resulting prose and diff. For current format, run
 `Test-Stories.ps1 -Story <slug> -Phase PreReview`, obtain a fresh GPT-6 Sol / Claude Opus 5.5
 [Review](.agents/skills/story-room/SKILL.md#review), and run Final validation
-after PASS. A targeted REVISE uses the ordinary writer/reviewer loop with a
-fresh two-model discussion; it need not become a replacement. Bundle edits receive a
-fresh hash-bound Claude final verdict and compatible targeted checks; neither
+after PASS. A targeted REVISE uses the ordinary writer/reviewer loop with two
+fresh independent readings and a coordinator judgment; it need not become a replacement.
+Bundle edits receive a fresh hash-bound coordinator verdict and compatible targeted checks; neither
 current-format validation nor an old bundle review certifies changed prose.
 State when an old review, cover, or Pages snapshot may be stale. Do not refresh
 publication until the changed story has the required passing review.
@@ -192,17 +192,16 @@ prose [drafting and revision](.agents/skills/short-story-writing/SKILL.md#draft-
 Those contracts own role inputs, writable files, stage ordering, independent
 review, name checks, and all seven saved-pixel cover gates. Mechanical validation
 never replaces semantic review or the coordinator's independent image review.
-The GPT-6 Sol / Claude Opus 5.5 discussion replaces the prior `story_reviewer`
-semantic stage; Claude owns the final verdict. The independent first assessments
-and Sol rejoinder focus on the story's own promise, causality,
-staging, knowledge, dialogue, and ending using the complete prompt and target
-text. Claude resolves that story-quality discussion before checking binding
-universe authority, narrative policy, and names for the final verdict. A canon
-or policy PASS cannot erase a material story-quality failure. Its fresh outline
-PASS, bound to exact outline bytes, is required before a new or
-replacement story is drafted. Its fresh prose PASS, bound to exact prose bytes,
-is required before reference art, capture, or publication. The coordinator
-invokes and validates these gates but does not issue a second semantic verdict.
+Independent GPT-6 Sol and Claude Opus 5.5 readings replace the prior
+`story_reviewer` stage. Each model reads the complete prompt and target with
+unrestricted editorial scope and without seeing the other's findings. The
+coordinator checks both assessments against the story, investigates material
+disagreements, and owns the final semantic verdict. Check binding universe
+authority, narrative policy, and names after story quality; an authority PASS
+cannot erase a material story-quality failure. The coordinator's fresh outline
+PASS, bound to exact outline bytes, is required before drafting. The
+coordinator's fresh prose PASS, bound to exact prose bytes, is required before
+reference art, capture, or publication.
 The pre-existing PASS files for prose changed in PR #355 are historical. A
 first capture or refresh of changed current prose requires a matching hash in
 `review.md`; an unchanged prose and canon snapshot can receive a cover-only

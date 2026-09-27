@@ -53,7 +53,7 @@ class FreshStoryReviewTests(unittest.TestCase):
             previous = story_fixture(body="Earlier prose.", canon=False)
             review = directory / "review.md"
             review.write_text("Verdict: PASS\n", encoding="utf-8")
-            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound coordinator PASS"):
                 build._require_fresh_current_review(changed, previous, root)
             review.write_text(
                 "Verdict: PASS\nReviewed prose SHA-256: " +
@@ -65,7 +65,7 @@ class FreshStoryReviewTests(unittest.TestCase):
                               encoding="utf-8", newline="\n")
             build._require_fresh_current_review(changed, previous, root)
             source.write_text(source.read_text(encoding="utf-8") + "Another line.\n", encoding="utf-8", newline="\n")
-            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound coordinator PASS"):
                 build._require_fresh_current_review(changed, previous, root)
 
     def test_unchanged_published_current_prose_allows_cover_refresh(self):
@@ -78,7 +78,7 @@ class FreshStoryReviewTests(unittest.TestCase):
                                                 encoding="utf-8", newline="\n")
             (directory / "review.md").write_text("Verdict: PASS\n", encoding="utf-8")
             build._require_fresh_current_review(story, story, root)
-            with self.assertRaisesRegex(ValueError, "fresh prose-bound Claude PASS"):
+            with self.assertRaisesRegex(ValueError, "fresh prose-bound coordinator PASS"):
                 build._require_fresh_current_review(replace(story, canon=True), story, root)
 
     def test_bundle_capture_requires_handoff_hash_and_capture_all_refuses_changed_body(self):
@@ -90,9 +90,9 @@ class FreshStoryReviewTests(unittest.TestCase):
             source.write_text("# New bundle prose\n", encoding="utf-8")
             changed = story_fixture(body="# New bundle prose\n", canon=False)
             previous = story_fixture(body="# Earlier bundle prose\n", canon=False)
-            with self.assertRaisesRegex(ValueError, "fresh Claude PASS handoff hash"):
+            with self.assertRaisesRegex(ValueError, "fresh coordinator PASS handoff hash"):
                 build._require_bundle_review_hash(changed, previous, root, None)
-            with self.assertRaisesRegex(ValueError, "fresh Claude PASS handoff hash"):
+            with self.assertRaisesRegex(ValueError, "fresh coordinator PASS handoff hash"):
                 build._require_bundle_review_hash(changed, previous, root, "0" * 64)
             build._require_bundle_review_hash(changed, previous, root, hashlib.sha256(source.read_bytes()).hexdigest())
             build._require_bundle_review_hash(changed, changed, root, None)

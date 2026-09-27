@@ -907,7 +907,7 @@ def _require_fresh_current_review(story: Story, previous: Story | None, reposito
     actual = hashlib.sha256(source_bytes[front.end():]).hexdigest()
     if len(matches) != 1 or matches[0] != actual:
         raise ValueError(
-            f"{directory / 'review.md'} needs a fresh prose-bound Claude PASS before capture"
+            f"{directory / 'review.md'} needs a fresh prose-bound coordinator PASS before capture"
         )
 
 
@@ -920,14 +920,14 @@ def _require_bundle_review_hash(story: Story, previous: Story | None, repository
         return
     actual = hashlib.sha256(source.read_bytes()).hexdigest()
     if review_hash != actual:
-        raise ValueError(f"{story.slug} needs a fresh Claude PASS handoff hash for bundle capture")
+        raise ValueError(f"{story.slug} needs a fresh coordinator PASS handoff hash for bundle capture")
 
 
 def _refuse_changed_bundle_in_capture_all(story: Story, previous: Story, repository_root: Path) -> None:
     source = repository_root / "stories" / story.slug / "05-story.md"
     if source.is_file() and (story.body != previous.body or story.canon != previous.canon):
         raise ValueError(
-            f"{story.slug} bundle prose or canon changed; use named capture with a fresh Claude PASS handoff hash"
+            f"{story.slug} bundle prose or canon changed; use named capture with a fresh coordinator PASS handoff hash"
         )
 
 
@@ -1430,7 +1430,7 @@ def main() -> None:
 
     capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
     capture_parser.add_argument("slug")
-    capture_parser.add_argument("--review-hash", help="Fresh Claude PASS prose SHA-256 for a bundle capture.")
+    capture_parser.add_argument("--review-hash", help="Fresh coordinator PASS prose SHA-256 for a bundle capture.")
 
     illustrated_parser = commands.add_parser("capture-illustrated", help="Capture one approved illustrated edition.")
     illustrated_parser.add_argument("slug")
