@@ -18,7 +18,7 @@ I opened the window. The spoon drifted toward it with the tea in tow, and I shut
 
 "No idea. The one with the bread lasted four minutes. The one with the doorknob's still there."
 
-My front doorknob had been a little brass lion since seven that morning. It opened if you rubbed its nose. Tansy hadn't chosen that spell, or the bread that had briefly recited the ingredients on its own wrapper. A witch cold made a spell of every sneeze. The spell could pick a thing, a room, or a whole street. Tansy had no warning beyond the ordinary tickle, and no say in what followed.
+My front doorknob had been a little brass lion since seven that morning. It opened if you rubbed its nose. Tansy hadn't chosen that spell, or the bread that had briefly recited the ingredients on its own wrapper. A witch cold made a spell of every sneeze. The spell could pick one thing or several nearby ones. Tansy had no warning beyond the ordinary tickle, and no say in what followed.
 
 She reached for the hovering mug. I moved it out of range of her hand and put a clean glass of water on the table.
 
@@ -26,17 +26,13 @@ She reached for the hovering mug. I moved it out of range of her hand and put a 
 
 "You tried to drink a candle yesterday."
 
-"It smelled like oranges." She took the water. "Show me."
+"It smelled like oranges." She took the water. Her Lantern Room ticket lay beneath the glass; she pulled it free. "Show me before we go."
 
-I had my coin in the pocket of my waistcoat. There was a stage upstairs at the Lantern Room and my first audition there at two. Tansy had watched me practice the same three-minute act for six weeks. She had come over the night before to see one last run, then fallen ill on my couch. I still wanted that run, with the only audience who could tell me where she looked when I needed her to look elsewhere.
+I had my coin in the pocket of my waistcoat. There was a stage upstairs at the Lantern Room and my first audition there at two. Tansy had watched me practice the same three-minute act for six weeks. She had come over the night before to see one last run, then fallen ill on my couch. I still wanted that run. She was the one person who would tell me which hand held her attention when the coin vanished.
 
 "You're not going," I said.
 
-"I asked to see the trick."
-
-"I know. I can show you here."
-
-"You can show me here after. First I want to see what happens when you do it for strangers."
+"I bought a ticket. I want to see what happens when you do it for strangers."
 
 She blew her nose and folded the tissue into a perfect little square. Even ill, she liked to make a shape out of the things she was through with. I had a little graveyard of her folded bus tickets in the pocket of every coat I owned.
 
@@ -52,7 +48,7 @@ Tansy lifted the water glass toward the spoon. Tea dripped upward from its bowl,
 
 "You don't always have time."
 
-"Then I'll be in a chair for it." She set down her glass. "Kit, I want to watch. I bought a ticket."
+"Then I'll be in a chair for it." She set down her glass. "Kit, I want to watch."
 
 I took out the coin. It was a copper arcade token, too old for any machine in town. On one side a tiny rocket pointed at a planet with three rings. I had made it vanish a hundred times in my room and another hundred at this table. I could do it while Tansy described exactly where it was.
 
@@ -60,7 +56,7 @@ She looked at the token and narrowed her eyes. "Right hand," she said before I h
 
 "That's why I need you there."
 
-"To ruin your guesses?"
+"So I can finally guess wrong?"
 
 "To make me earn one."
 
@@ -128,9 +124,13 @@ She was looking at the chairs, not at me. No one had been thrown. The seats came
 
 "They have," Tansy said. Her voice rasped. She looked at me. "Kit, I'm sorry."
 
-I could hear people beginning to laugh now that they were still. The boy twisted around to see me. If I stayed on the platform I would have to perform to the backs of their heads. If I stopped, the only trick they would remember was Tansy's.
+I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking his knees and the woman who had chosen my left hand was gripping both arms of her chair. I went down the aisle and asked if anyone was hurt.
 
-I stepped down into the center aisle. The silk square slid against my wrist. My usual path would take me toward the middle row. I kept walking until I stood in the narrow space between the back row and the door. The woman with the pencil moved her table a foot aside. From there I could see every face, including Tansy's, tilted up from the aisle seat nearest me.
+"Just dizzy," the older woman said. Her companion stood beside her while she got her feet under her. "Give me a moment."
+
+Tansy brought her the tissue box, though she didn't take a tissue. The woman with the pencil waited until the older woman nodded to her. Only then did people begin to laugh. The boy twisted around to see me. If I stayed on the platform I would have to perform to the backs of their heads. If I stopped, the only trick they would remember was Tansy's.
+
+I walked on to the narrow space between the back row and the door. The silk square slid against my wrist. The woman with the pencil moved her table a foot aside. Tansy returned to her aisle seat with the tissues; she was nearest me now. From there I could see every face.
 
 "Is there room?" I asked the woman.
 
@@ -160,7 +160,7 @@ I closed my left hand. I asked the woman with the pencil to tap it once. She tap
 
 "No, because I want to be wrong."
 
-I opened my right hand. Empty. The boy made an outraged sound. I turned both hands over. The woman with the pencil looked at her table; the coin wasn't there. Tansy looked at my sleeves. I had rolled them above my elbows when I came downstairs. She looked back at the tissue box.
+I opened my right hand. Empty. The boy made an outraged sound. I turned both hands over. The woman with the pencil looked at her table; the coin wasn't there. Tansy looked at my sleeves. I had rolled them above my elbows before going onstage. She looked back at the tissue box.
 
 "May I?" she asked, touching the box.
 
@@ -170,23 +170,25 @@ She lifted it. Nothing under it. For the first time all day she stopped smiling 
 
 Tansy drew a tissue to blow her nose. The coin slipped out with the sheet and landed on her lap. She picked it up by its edge and held it to the light. The woman with the pencil came over to inspect her ten cents. The boy demanded to know whether that was allowed. His father said he didn't know.
 
-I took a bow before anyone could ask the woman to turn the sharpener over again. Tansy applauded with a tissue in each hand. Her sneeze had moved the chairs; she had watched every move after that as carefully as anyone. She looked delighted, and a little betrayed, and I had missed that expression more than I had known.
+I took a bow before anyone could ask for the method. Tansy applauded with a tissue in each hand. Her sneeze had moved the chairs; she had watched every move after that as carefully as anyone. She looked delighted, and a little betrayed.
 
-When the next act came on, the chairs still faced the back. The performer brought a small accordion and stood where I had stood. The woman with the pencil wrote something on her list, then came over while I was helping Tansy into her coat.
+When the next act came on, the chairs still faced the back. The performer brought a small accordion. He started a phrase toward the empty platform, stopped, and came to stand where I had stood. After his song, Tansy and I helped the woman with the pencil turn the chairs back. The seats swung easily once people stood up. The older woman tried hers before sitting down again.
 
-"Can you come back next Thursday?" she asked me. "We can give you the platform if the chairs are cooperative."
+The woman wrote something on her list, then came over while I was helping Tansy into her coat.
 
-Tansy had one arm through her sleeve. She looked at me, waiting.
+"Your hands are good," she said. "I need to see your whole act on the platform before I can book you. I can give you another audition next Thursday, if there won't be a spell in the audience."
 
-"Yes," I said. "I can."
+Tansy had one arm through her sleeve. "If I'm still ill, I'll stay home," she said. She looked at me, waiting.
 
-"Good. And bring the tissues. Apparently they're part of the act."
+"I'll come," I said.
+
+"Good. Bring the tissues, though. Apparently they're part of the act."
 
 I promised. She didn't ask how I had used them.
 
-Downstairs, the café had an egg sandwich left in its display case. Tansy said she couldn't face eggs. She could face a lemon bun, though, and she ate half of one while we sat beneath the fogged front window. My copper arcade token was back in my pocket; the silver coin was back with the woman upstairs. No one had offered to change the chairs. Through the ceiling we heard the accordion start up, pause, then start again as its player found a place to stand.
+Downstairs, the café had an egg sandwich left in its display case. Tansy said she couldn't face eggs. She could face a lemon bun, though, and she ate half of one while we sat beneath the fogged front window. My copper arcade token was back in my pocket; the silver coin was back with the woman upstairs.
 
-Tansy sneezed into a fresh tissue. I braced for the floor to rise or the window to become a pond. Instead, every sugar packet on the counter turned itself inside out. The café worker stared at the row of little white sleeves. The sugar was still neatly held in each one. Tansy raised her lemon bun to the worker in apology, then went to help turn the packets back.
+Tansy sneezed into a fresh tissue. I braced for the floor to rise or the window to become a pond. Instead, every sugar packet on the counter turned itself inside out. The café worker stared at the row of little white sleeves. The sugar was still neatly held in each one. Tansy raised her lemon bun to the worker in apology, then helped gather the altered packets into a bowl.
 
 When she returned, she set one of the packets beside my hand. It had its printing on the inside now. She had left it that way on purpose.
 
@@ -198,7 +200,7 @@ When she returned, she set one of the packets beside my hand. It had its printin
 
 I could have shown her the moment my hand lingered over the box. I had spent six weeks hoping she would miss one of those moments. She was staring at the packet, turning it by a corner, waiting for me to decide whether to spoil it.
 
-"Next Thursday," I said, "you can check it again."
+"If you're well next Thursday," I said, "you can check it again."
 
 "I'm going to check everything."
 
