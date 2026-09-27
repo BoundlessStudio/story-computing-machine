@@ -62,7 +62,13 @@ She looked at the token and narrowed her eyes. "Right hand," she said before I h
 
 She grinned, then pressed a knuckle under her nose. We both stopped. The tea ribbon wavered overhead. The tickle passed, and she lowered her hand.
 
+"I hate that I can't promise you anything," she said. Her eyes were watering. "But I want to be there when you come on. I want you to see me."
+
 I put the coin away without doing the trick.
+
+The doorway wasn't a promise; a sneeze could reach the audience from the hall. I wanted her there anyway. "If something happens, I'll stop and check on people," I said.
+
+"I know." She picked up the ticket.
 
 At noon the lion doorknob was still warm from all the times Tansy had stroked its nose. I wrapped a scarf around her neck. She pulled it loose enough to breathe, put the star clip back in place, and walked down the stairs ahead of me under her own power. I brought the box of tissues. The cup of tea and spoon remained suspended in my kitchen. I turned the deadbolt below the lion behind us.
 
@@ -124,7 +130,11 @@ She was looking at the chairs, not at me. No one had been thrown. The seats came
 
 "They have," Tansy said. Her voice rasped. She looked at me. "Kit, I'm sorry."
 
-I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair. I went down the aisle and asked if anyone was hurt.
+I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair.
+
+"You tried to get out," I told Tansy. "Help me see if anyone's hurt."
+
+I went down the aisle and asked if anyone was hurt.
 
 "Just dizzy," the older woman said. Her companion stood beside her while she got her feet under her. "Give me a moment."
 
