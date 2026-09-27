@@ -114,7 +114,7 @@ When the car came, Oscar walked him out. Vera stayed inside. She had promised Me
 
 The best man's notes were written on the back of a parking ticket. He had lost his proper speech. His new one lasted forty seconds and included a story about a refrigerator Oscar had once carried up four flights of stairs. Meredith's mother gave a speech about the years when Meredith would repair a broken thing before announcing it was broken. Neither speech turned the couple into a lesson. People laughed where they knew the people being described.
 
-As the room settled, Faye climbed onto a chair to see over the heads in front of her. The chair shifted. Oscar caught its back before she could fall. She stepped down without looking at him, then pushed the chair closer to the table so nobody else would trip over it. Vera had raised the camera when Oscar moved. She did not take the picture. For either requested album, she could only cut it into a meaningless gesture.
+As the room settled, Faye climbed onto a chair to see over the heads in front of her. The chair shifted. Oscar caught its back before she could fall. She stepped down without looking at him, then pushed the chair closer to the table so nobody else would trip over it. Vera had raised the camera when Oscar moved. She did not take the picture. In her head she had already sorted the moment out of both private galleries.
 
 She stood there with her finger on the shutter, irritated by the fact that the day was refusing to be as sortable as her folders.
 
@@ -184,8 +184,8 @@ Oscar got his own portrait with the remains of the cake after the guests began t
 
 On Monday, Vera sat at her desk and made the requested selections. The picture by the bicycle rack caught Faye with her eyes half closed; the one at the window had a serving spoon appearing to grow from Meredith's shoulder. Vera chose around those defects. The cake picture stayed in the full gallery, as she'd promised.
 
-The gallery for Oscar and Jules had only five photographs. Vera almost apologized for the number. Then she looked at the one beside the raffle board, where Jules had pressed his shoulder against Oscar's arm. Five were enough to choose from. She sent the couple a proof link with three folders: the full day, Faye, and Jules. The message said only that they could select which photographs, if any, to share.
+The gallery for Oscar and Jules had only five photographs. Vera almost apologized for the number. Then she looked at the one beside the raffle board. Five were enough to choose from. She sent the couple a proof link with three folders: the full day, Faye, and Jules. The message said only that they could select which photographs, if any, to share.
 
 Two days later Meredith chose the window portrait for Faye's room. Oscar picked the raffle-board picture for Jules and the cake portrait for Jules's mother. He asked if Vera could leave the noticeboard legible. Jules had won the raffle the month before. His prize had been a slow cooker neither household had wanted; it was now in Oscar's kitchen.
 
-Vera enlarged the picture to check the printing. Behind the two of them, on a blue card held by a thumbtack, Jules's name was written in thick black marker. The letters stayed sharp. So did the seam of Jules's jacket, pressed flat against Oscar's sleeve. She ordered the print at the size Oscar had asked for.
+Vera enlarged the picture to check the printing. Behind the two of them, on a blue card held by a thumbtack, Jules's name was written in thick black marker. The letters stayed sharp. Jules's coat pressed flat against Oscar's sleeve at the shoulder; below it, Oscar's hand hung an inch from the coat pocket. She ordered the print at the size Oscar had asked for.
