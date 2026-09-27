@@ -16,19 +16,19 @@ Vetch waited while the secretary retrieved the one that had hit the gong. It was
 
 "Nine rocks in seven days," Morro said. "The first matter is whether to send a formal objection."
 
-"We sent one after the third," said Kella, the sky watcher. She turned a screen toward the table. On it, a human in a station corridor grinned at a camera while another human placed a pale stone in her outstretched hand. Beyond them, through a round window, Earth filled the dark. "They put the objection under the picture of their next throw."
+"We sent one after the third," said Kella, the sky watcher. She turned a screen toward the table. On a recording from the station's last pass, a human in a corridor grinned at a camera while another human placed a pale stone in her outstretched hand. Beyond them, through a round window, Earth filled the dark. "They put the objection under the picture of their next throw."
 
 The grinning human flicked the stone into the mouth of a machine. A line of lights ran along its length. Vetch had watched enough recordings to know the machine would do the hard part, steering the stone toward the ground. The humans still insisted on calling each release a throw. They counted them aloud and argued about who had the better arm.
 
 Senn leaned close to the screen. "Was that today's?"
 
-"From their last pass," Kella said. "It should land in the Gathering Bowl by sundown."
+"Released a few minutes ago," Kella said. "The fall takes about an hour. It should land in the Gathering Bowl near sundown."
 
 Vetch stood. She was a dryosaur, and standing made little difference to what the others could see over the table, but it let her get the words out. "The nest ledge is above the Bowl. Fen is there now. One of our eggs has started to open."
 
 Morro's head came down another span. "Can it be carried?"
 
-"Not now. Fen would have to lift the whole bed of earth, and the path shakes under a careful foot." Vetch pushed a drawing toward him. It showed the Bowl's white festival circle, the ledge, and the eight places where stones had landed. Five lay inside the circle. Three had missed. All eight were too close. "I want the circle gone before that rock lands."
+"Not now. Fen would have to lift the whole bed of earth, and the path shakes under a careful foot." Vetch pushed a drawing toward him. It showed the Bowl's white festival circle, the nesting ledge on its eastern rim, and the eight places where stones had landed. Five lay inside the circle. Three had missed. All eight were too close. "I want the circle gone before that rock lands."
 
 "The Opening Procession begins there tomorrow," Morro said.
 
@@ -84,8 +84,6 @@ Morro had kept the chamber awning rolled back since the gong was struck. He look
 
 "They stopped throwing for two passes," Vetch said. "For one night, it worked."
 
-That was more than she had expected to say for a council motion. The egg was still in its nest, and Fen was beside it, watching the narrow opening in its shell.
-
 Kella checked the figures at the bottom of the human broadcast. "Next station pass in two hours. They've picked their stone."
 
 "We can break their target," Senn said. He lifted his tail a little, to show that this proposal required no vote to become practical.
@@ -102,7 +100,7 @@ Senn lowered his tail. "You're asking them to keep throwing."
 
 "They already are."
 
-The council fell quiet. Vetch had come to ask them to stop the apes, and now she was proposing a better game for them. She disliked the sound of it as much as Senn did. Above the Bowl, however, was the nest ledge, and beyond it was an empty stone quarry, broad and deep, with uninhabited rock on every side. A thrown rock could miss the quarry and still touch no home. The apes wanted a boast. They had not asked which part of the ground the dinosaurs could bear to give them.
+The council fell quiet. Vetch had come to ask them to stop the apes, and now she was proposing a better game for them. She disliked the sound of it as much as Senn did. Across the bare ridge west of the Bowl lay an empty quarry, with a wide apron of uninhabited stone around it. Even the apes' widest misses at the Bowl would have struck that apron. The apes wanted a boast. They had not asked which part of the ground the dinosaurs could bear to give them.
 
 "A smaller target in the old quarry," Morro said, following her glance to the map. "How would they know to take it?"
 
@@ -114,29 +112,29 @@ The council fell quiet. Vetch had come to ask them to stop the apes, and now she
 
 Morro's tongue worked once behind his closed mouth. He did not put the question to a vote at once. "We cannot promise they'll accept it."
 
-"I know," Vetch said. "I can move the egg if I must, after it comes out. Until then I need them looking somewhere else."
+"I know," Vetch said. "Once it hatches, Fen and I can carry it away. Until then I need them looking somewhere else."
 
 The decision passed by a margin of one. Morro voted with Vetch. Senn voted against, then helped her pull the grooved stone onto a sled because it would not move itself and because he knew what lay above the Bowl.
 
-They hauled it out under the afternoon sun. The route from Bowl to quarry went uphill first, over a lip of rock, then down a hard-packed track. Six councilors had come. It took all six to drag the sled up the lip. In the sky, the human station was still a point of light.
-
 "If they throw while we're carrying it," Senn said, "we'll be the target."
 
-"They haven't released it," Kella said. She walked behind the sled with her receiver, watching the station picture. "Aiming takes time. So does the fall. We're clear of the Bowl before their next pass if we keep moving."
+"The next pass is in two hours," Kella said. She kept her receiver on the council channel so Fen could reach Vetch, and watched the station picture. "We'll be over the ridge before they can release anything else."
 
-That was not comfort, but it was a useful account of what could happen. Vetch set her shoulder against the sled rope. Morro walked behind them, steadying the stone with the soft front of one enormous foot. At the quarry they slid it onto the floor and placed a narrow black stone upright in the center of its carved rings. Senn chose the black stone. He had found it among the rubble and could stand it on end with one precise nudge of his tail.
+Six councilors dragged the sled west from the Bowl, up over the bare ridge and down to the quarry. Senn braced it at the crest while Morro steadied the stone with one immense foot. It took less than an hour, though Vetch's forelimbs shook when they reached level ground.
+
+At the quarry they slid the pale stone onto the floor and placed a narrow black stone upright in the center of its carved rings. Senn chose the black stone. He had found it among the rubble and could stand it on end with one precise nudge of his tail.
 
 Kella turned the quarry camera toward the target. The council broadcast now showed only the little black point on pale rock and the wide, empty quarry around it.
 
-For ten minutes, the humans' picture did not change. They showed the Gathering Bowl. One human had a finger on the release control. Another, the thrower with the grin, leaned so close to the broadcast camera that her face filled the screen. She had seen the empty place where her target had been. Vetch could not hear what she said to the others. The station muted its corridor whenever they argued.
+For the last ten minutes before the station's pass, the humans' picture did not change. They showed the Gathering Bowl. One human had a finger on the release control. Another, the thrower with the grin, leaned so close to the broadcast camera that her face filled the screen. She had seen the empty place where her target had been. Vetch could not hear what she said to the others. The station muted its corridor whenever they argued.
 
 "They'll put one back," Senn said.
 
 "Maybe," Vetch said.
 
-The image cut to the quarry. The thrower pointed at the upright black stone, then held two fingers a very short distance apart. The next rock went into the machine.
+The image cut to the quarry. The thrower pointed at the upright black stone, then held two fingers a very short distance apart. She sent one rock into the machine, demanded another with her open hand, and sent that one after it. On Kella's fall plot, both paths ended inside the quarry's empty apron.
 
-The councilors watched the sky. Nothing came immediately. Morro sent them all to the quarry's upper rim, well clear of its floor. For a while there was only the scrape of Vetch's claws on warm stone and the hiss of Kella's receiver. Then a bright streak crossed overhead.
+Morro sent the councilors to the quarry's upper rim, behind a thick lip of stone. Nearly an hour passed before the first bright streak crossed overhead. Vetch listened to the hiss of Kella's receiver and watched the marked paths creep across its screen.
 
 The rock struck the quarry wall well above the target. Chips clattered to the floor. Vetch had spent years watching Senn's tail games; she could see how much lower the humans would need to aim. For one ugly instant she wanted to tell them. A clean hit would keep them throwing here.
 
@@ -144,7 +142,9 @@ From the station's broadcast came a burst of groans. Senn gave a noise through h
 
 "They missed," Morro said.
 
-"They'll try again," Kella said. She was watching the station, not the quarry. The humans had begun arguing over the picture. One took the little stone out of the thrower's hand and held it up to the camera as if offering to demonstrate. The thrower snatched it back.
+"Their second one's still coming here," Kella said, tapping its path on the screen.
+
+A few minutes later it struck the quarry floor, well left of the black stone. Dust rose and settled below the rim. On the station broadcast, the humans' groans became an argument. One took a fresh stone out of the thrower's hand and held it up to the camera as if offering to demonstrate. The thrower snatched it back.
 
 Fen's voice sounded from Vetch's receiver. "It has a hole now. A proper hole. I can see its snout."
 
@@ -154,8 +154,8 @@ She pressed the receiver close. Behind his voice she heard a dry tick, the sound
 
 "You don't have to run."
 
-She ran anyway, along the safe path behind the ridge. Behind her, the councilors began arguing over whether the black stone still counted as a target after the first miss. Their voices grew small. At the ledge, Fen moved aside without telling her what had happened.
+She ran anyway, up the track across the ridge. At the ledge, Fen moved aside without telling her what had happened.
 
-The egg was open. A wet, furious little creature pushed against one half with its foot, unable to get that half farther away. Vetch lay down and held it steady until the hatchling wriggled free. It blinked at the light, then at her. Fen touched his muzzle to hers.
+The egg was open. A wet, furious little creature had kicked one foot clear, but the lower half of the shell still held it. Vetch lay down beside the nest. The foot found her planted toe; the hatchling pushed, slipped free, and blinked at the light. Fen touched his muzzle to hers.
 
-Far below, stone cracked against stone. A cheer rose from the quarry. The hatchling startled, planted both feet, and stood.
+Over the open receiver came a sharp crack and Senn's shout: "Got the black stone!" The hatchling startled, planted both feet, and stood.
