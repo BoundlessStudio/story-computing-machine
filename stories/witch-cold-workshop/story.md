@@ -18,7 +18,7 @@ I opened the window. The spoon drifted toward it with the tea in tow, and I shut
 
 "No idea. The one with the bread lasted four minutes. The one with the doorknob's still there."
 
-My front doorknob had been a little brass lion since seven that morning. It opened if you rubbed its nose. Tansy hadn't chosen that spell, or the bread that had briefly recited the ingredients on its own wrapper. A witch cold made a spell of every sneeze. The spell could pick one thing or several nearby ones. Tansy had no warning beyond the ordinary tickle, and no say in what followed.
+My front doorknob had been a little brass lion since seven that morning. It opened if you rubbed its nose. Tansy hadn't chosen that spell, or the bread that had briefly recited the ingredients on its own wrapper. A witch cold made a spell of every sneeze. Its reach was as unpredictable as its effect. Tansy had no warning beyond the ordinary tickle, and no say in what followed.
 
 She reached for the hovering mug. I moved it out of range of her hand and put a clean glass of water on the table.
 
@@ -100,7 +100,7 @@ When the woman called my name, Tansy gave me a small salute with a tissue. I wen
 
 Tansy made a pleased little noise from the back. She knew the line. I had been trying to stop saying *just* for a week.
 
-I passed the coin between my hands and let my eyes travel with the empty one. Three people followed my eyes. The boy didn't; he watched my fingers. Good. I would need to work for him. I asked the woman in the middle row to choose a hand. She chose left. I opened the left. Empty. I opened the right. Empty too. The boy sat forward. So far, the act was mine.
+I passed the coin between my hands and let my eyes travel with the empty one. Three people followed my eyes. The boy didn't; he watched my fingers. Good. I would need to work for him. I asked one of the two older women to choose a hand. She chose left. I opened the left. Empty. I opened the right. Empty too. The boy sat forward. So far, the act was mine.
 
 Tansy pressed her tissue to her nose.
 
@@ -110,9 +110,9 @@ She sneezed.
 
 Every chair in the room turned to face the back wall.
 
-They didn't slide. Their metal feet stayed planted and their seats spun on them, carrying people and coats and one precarious bag of oranges through a half circle. The boy shouted with delight. Someone grabbed the back of the chair in front of her, which was now the back of the chair behind her. The woman taking names stood up so fast her pencil fell to the floor.
+They didn't slide. Their metal feet stayed planted and their seats spun on them, carrying people and coats and one precarious bag of oranges through a half circle. The boy shouted with delight as his father caught the back of the spinning chair. The two older women grabbed each other's hands. The woman taking names stood up so fast her pencil fell to the floor.
 
-Tansy's chair was still turning when she caught its arm and kept her feet beneath her. The empty chair beside hers rotated with the tissue box on it. The box tipped into the aisle. Tansy caught it against her knee.
+Tansy's chair was still turning when she caught its back and kept her feet beneath her. The empty chair beside hers rotated with the tissue box on it. The box tipped into the aisle. Tansy caught it against her knee.
 
 I was on the platform looking at twenty-four backs.
 
@@ -124,13 +124,13 @@ She was looking at the chairs, not at me. No one had been thrown. The seats came
 
 "They have," Tansy said. Her voice rasped. She looked at me. "Kit, I'm sorry."
 
-I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking his knees and the woman who had chosen my left hand was gripping both arms of her chair. I went down the aisle and asked if anyone was hurt.
+I had asked her not to come. The answer was ready in my mouth, but the boy's father was checking the boy's knees and the woman who had chosen my left hand was gripping both sides of her chair. I went down the aisle and asked if anyone was hurt.
 
 "Just dizzy," the older woman said. Her companion stood beside her while she got her feet under her. "Give me a moment."
 
 Tansy brought her the tissue box, though she didn't take a tissue. The woman with the pencil waited until the older woman nodded to her. Only then did people begin to laugh. The boy twisted around to see me. If I stayed on the platform I would have to perform to the backs of their heads. If I stopped, the only trick they would remember was Tansy's.
 
-I walked on to the narrow space between the back row and the door. The silk square slid against my wrist. The woman with the pencil moved her table a foot aside. Tansy returned to her aisle seat with the tissues; she was nearest me now. From there I could see every face.
+I walked on to the narrow space between the back row and the door. The silk square slid against my wrist; I pushed it into my waistcoat pocket. The woman with the pencil moved her table a foot aside. Tansy returned to her aisle seat with the tissues; she was nearest me now. From there I could see every face.
 
 "Is there room?" I asked the woman.
 
