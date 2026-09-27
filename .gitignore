@@ -1,3 +1,6 @@
 /tmp/
 /.cache/
 /.playwright-mcp/
+/_media/
+__pycache__/
+*.pyc

@@ -24,7 +24,7 @@ The story's `notes.md` keeps the useful editorial memory from outline, draft, an
 - [illustrated/](illustrated/README.md) and [graphic-novels/](graphic-novels/README.md) — existing editions, preserved as authored artifacts.
 - [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
 
-The GitHub Pages site, galleries, publication captures, CI, and their scripts have been retired from this repository. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
+The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
 
 ## Revising a story
 

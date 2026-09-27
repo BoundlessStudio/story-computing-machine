@@ -1,0 +1,117 @@
+name: Publish public story art
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/media.yml
+      - media/**
+      - art/selection-notes.json
+      - stories/**/title-image.jpg
+      - stories/**/art/characters/**
+      - stories/**/art/landscapes/**
+      - stories/**/art/interiors/**
+      - illustrated/**/cover.jpg
+      - illustrated/**/edition.pdf
+      - illustrated/**/illustrations/**
+      - graphic-novels/**/cover.png
+      - graphic-novels/**/edition.pdf
+      - graphic-novels/**/pages/**
+  pull_request:
+    paths:
+      - .github/workflows/media.yml
+      - media/**
+      - art/selection-notes.json
+      - stories/**/title-image.jpg
+      - stories/**/art/characters/**
+      - stories/**/art/landscapes/**
+      - stories/**/art/interiors/**
+      - illustrated/**/cover.jpg
+      - illustrated/**/edition.pdf
+      - illustrated/**/illustrations/**
+      - graphic-novels/**/cover.png
+      - graphic-novels/**/edition.pdf
+      - graphic-novels/**/pages/**
+  workflow_dispatch:
+    inputs:
+      verify_all_media:
+        description: Recheck every R2 object and public URL, ignoring the verification cache
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-story-art
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      ASSET_BASE_URL: ${{ vars.ASSET_BASE_URL || 'https://art.rgbknights.com' }}
+    steps:
+      # Partial fetch plus sparse checkout avoids materializing user-supplied
+      # originals and other repository files on the runner.
+      - name: Fetch selected media and publisher
+        shell: bash
+        run: |
+          git init -q
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_REF"
+          git sparse-checkout set --no-cone -- \
+            '/media/' \
+            '/art/selection-notes.json' \
+            '/stories/*/title-image.jpg' \
+            '/stories/*/art/characters/' \
+            '/stories/*/art/landscapes/' \
+            '/stories/*/art/interiors/' \
+            '/illustrated/*/cover.jpg' \
+            '/illustrated/*/edition.pdf' \
+            '/illustrated/*/illustrations/' \
+            '/graphic-novels/*/cover.png' \
+            '/graphic-novels/*/edition.pdf' \
+            '/graphic-novels/*/pages/'
+          git checkout --detach FETCH_HEAD
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          test -f media/manifest.py
+          test -f art/selection-notes.json
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Validate selection and create source URL index
+        run: |
+          python -m unittest media.test_media -v
+          python -m media.manifest --output _media/manifest.json
+
+      - name: Install R2 client
+        if: github.event_name != 'pull_request'
+        run: python -m pip install -r media/requirements.txt
+
+      - name: Restore recent successful R2 and public URL checks
+        if: github.event_name != 'pull_request'
+        uses: actions/cache@v4
+        with:
+          path: _media/verification-cache.json
+          key: public-story-art-${{ github.run_id }}
+          restore-keys: |
+            public-story-art-
+
+      - name: Upload and verify public art
+        if: github.event_name != 'pull_request'
+        env:
+          R2_ENDPOINT: ${{ vars.R2_ENDPOINT }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          VERIFY_ALL_MEDIA: ${{ inputs.verify_all_media || 'false' }}
+        shell: bash
+        run: |
+          flags=(--manifest _media/manifest.json --verification-cache _media/verification-cache.json)
+          if [[ "$VERIFY_ALL_MEDIA" == 'true' ]]; then flags+=(--verify-all); fi
+          if [[ "$GITHUB_REF" == 'refs/heads/main' ]]; then flags+=(--publish-index); fi
+          python -m media.publish "${flags[@]}"
