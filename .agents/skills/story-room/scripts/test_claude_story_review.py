@@ -51,9 +51,15 @@ def discussion_response(stage: str, verdict: str) -> dict:
     }
 
 
-def quality_response(stage: str, final: dict) -> dict:
+def quality_response(stage: str, final: dict, objections: list[dict] | None = None) -> dict:
     result = discussion_response(stage, final["verdict"])
     result["findings"] = final["findings"]
+    result["resolutions"] = [
+        {"id": objection["id"], "decision": "rejected",
+         "evidence": "A causal plan." if stage == "outline" else "A short exact quote",
+         "reason": "The exact source text resolves this provisional concern."}
+        for objection in (objections or [])
+    ]
     if stage == "prose":
         result.update({key: final[key] for key in ("prompt", "internal", "dialogue")})
     return result
@@ -109,7 +115,8 @@ class ReviewRunnerTests(unittest.TestCase):
 
     def conversation(self, result: dict, *, failure_at: int = 0, failure_message="CLI failed",
                      mutate=None, initial_discussion=None, model_usage=None,
-                     authority_override=None):
+                     authority_override=None, quality_override=None,
+                     claude_initial_discussion=None, rejoinder_discussion=None):
         stage = "prose" if "prompt" in result else "outline"
         envelope = {
             "is_error": False,
@@ -127,8 +134,10 @@ class ReviewRunnerTests(unittest.TestCase):
                 self.assertIn("model_reasoning_effort=high", command)
                 self.assertIn("--ephemeral", command)
                 self.assertIn("read-only", command)
-                output = codex_events(initial_discussion if initial_discussion is not None and calls == 1
-                                      else discussion_response(stage, "PASS"))
+                output = codex_events(
+                    initial_discussion if initial_discussion is not None and calls == 1 else
+                    rejoinder_discussion if rejoinder_discussion is not None and calls == 3 else
+                    discussion_response(stage, "PASS"))
             else:
                 self.assertNotIn("ANTHROPIC_API_KEY", kwargs["env"])
                 self.assertIn("--restricted", command)
@@ -142,11 +151,18 @@ class ReviewRunnerTests(unittest.TestCase):
                     self.assertIn("Canon, policy, and names are a later final check", kwargs["input"])
                 elif calls == 4:
                     self.assertIn("FINAL STORY-QUALITY verdict", kwargs["input"])
+                    self.assertIn('"objections"', kwargs["input"])
                 else:
                     self.assertIn("final authority check", kwargs["input"])
                 self.assertNotIn(kwargs["input"], command)
-                structured = (discussion_response(stage, "PASS") if calls == 2 else
-                              quality_response(stage, result) if calls == 4 else
+                first = initial_discussion or discussion_response(stage, "PASS")
+                claude_first = claude_initial_discussion or discussion_response(stage, "PASS")
+                reply = rejoinder_discussion or discussion_response(stage, "PASS")
+                objections = review.provisional_objections(("gpt_initial", first),
+                                                            ("claude_initial", claude_first),
+                                                            ("gpt_rejoinder", reply))
+                structured = (claude_first if calls == 2 else
+                              quality_override or quality_response(stage, result, objections) if calls == 4 else
                               authority_override or authority_response(stage, "PASS"))
                 output = json.dumps({**envelope, "structured_output": structured})
             if mutate and calls == 5:
@@ -247,6 +263,13 @@ class ReviewRunnerTests(unittest.TestCase):
         self.assertEqual(result["source_sha256"], review.reviewed_digest(self.package / "story.md", "prose", True))
         self.assertEqual((self.package / "story.md").read_bytes(), original)
 
+    def test_review_keeps_complete_claude_notes(self):
+        result = response("prose", "PASS")
+        result["notes"] = " ".join(["evidence"] * 85) + " Final qualification."
+        rendered = review.review_markdown(result, "0" * 64)
+        self.assertIn("Final qualification.", rendered)
+        self.assertNotIn("evidence ...", rendered)
+
     def test_prose_hash_survives_canon_marker_promotion(self):
         source = self.package / "story.md"
         before = review.reviewed_digest(source, "prose", True)
@@ -273,7 +296,34 @@ class ReviewRunnerTests(unittest.TestCase):
             result = review.run(self.args("prose"))
         self.assertEqual(result["discussion"]["gpt_initial"]["verdict"], "REVISE")
         self.assertEqual(result["verdict"], "PASS")
+        self.assertEqual(result["discussion"]["claude_quality_final"]["resolutions"][0]["id"],
+                         "gpt_initial:1")
         self.assertIn("Verdict: PASS", (self.package / "review.md").read_text(encoding="utf-8"))
+
+    def test_unresolved_or_unsupported_disagreement_blocks_pass(self):
+        initial = discussion_response("prose", "REVISE")
+        missing = quality_response("prose", response("prose", "PASS"))
+        with self.conversation(response("prose", "PASS"), initial_discussion=initial,
+                               quality_override=missing):
+            with self.assertRaisesRegex(ValueError, "resolve every provisional blocker"):
+                review.run(self.args("prose"))
+        unsupported = quality_response("prose", response("prose", "PASS"),
+                                       [{"id": "gpt_initial:1"}])
+        unsupported["resolutions"][0]["evidence"] = "an invented sentence"
+        with self.conversation(response("prose", "PASS"), initial_discussion=initial,
+                               quality_override=unsupported):
+            with self.assertRaisesRegex(ValueError, "exact on-page evidence"):
+                review.run(self.args("prose"))
+        self.assertFalse((self.package / "review.md").exists())
+
+    def test_every_rounds_objections_get_distinct_resolutions(self):
+        revised = discussion_response("prose", "REVISE")
+        with self.conversation(response("prose", "PASS"), initial_discussion=revised,
+                               claude_initial_discussion=revised,
+                               rejoinder_discussion=revised):
+            result = review.run(self.args("prose"))
+        self.assertEqual([row["id"] for row in result["discussion"]["claude_quality_final"]["resolutions"]],
+                         ["gpt_initial:1", "claude_initial:1", "gpt_rejoinder:1"])
 
     def test_invalid_output_and_cli_failure_do_not_write(self):
         bad = response("prose", "PASS")

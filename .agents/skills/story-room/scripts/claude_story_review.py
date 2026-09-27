@@ -42,6 +42,16 @@ NOUN = {
     },
     "required": ["name", "status", "note"],
 }
+RESOLUTION = {
+    "type": "object", "additionalProperties": False,
+    "properties": {
+        "id": {"type": "string"},
+        "decision": {"type": "string", "enum": ["retained", "rejected"]},
+        "evidence": {"type": "string"},
+        "reason": {"type": "string"},
+    },
+    "required": ["id", "decision", "evidence", "reason"],
+}
 
 
 def schema(stage: str) -> dict:
@@ -96,8 +106,13 @@ def discussion_schema(stage: str) -> dict:
     }
 
 
-def quality_schema(stage: str) -> dict:
+def quality_schema(stage: str, objections: list[dict] | None = None) -> dict:
     result = discussion_schema(stage)
+    result["properties"]["resolutions"] = {
+        "type": "array", "items": RESOLUTION,
+        "minItems": len(objections or []), "maxItems": len(objections or []),
+    }
+    result["required"].append("resolutions")
     if stage == "prose":
         result["properties"].update({
             "prompt": {"type": "string", "enum": ["PASS", "REVISE"]},
@@ -144,11 +159,6 @@ def reviewed_digest(path: Path, stage: str, current: bool) -> str:
 
 def clean(value: str) -> str:
     return " ".join(value.strip().split())
-
-
-def brief(value: str, limit: int = 80) -> str:
-    words = clean(value).split()
-    return " ".join(words[:limit]) + (" ..." if len(words) > limit else "")
 
 
 def md(value: str) -> str:
@@ -224,10 +234,36 @@ def validate_discussion(result: dict, stage: str) -> None:
             raise ValueError("Discussion returned an empty source check")
 
 
-def validate_quality(result: dict, stage: str) -> None:
-    if not isinstance(result, dict) or set(result) != set(quality_schema(stage)["required"]):
+def provisional_objections(*rounds: tuple[str, dict]) -> list[dict]:
+    return [{"id": f"{name}:{index}", "finding": finding}
+            for name, response in rounds
+            for index, finding in enumerate(response["findings"], 1)]
+
+
+def validate_quality(result: dict, stage: str, objections: list[dict] | None = None,
+                     source_text: str = "") -> None:
+    objections = objections or []
+    if not isinstance(result, dict) or set(result) != set(quality_schema(stage, objections)["required"]):
         raise ValueError("Claude quality verdict has invalid fields")
     validate_discussion({key: result[key] for key in discussion_schema(stage)["required"]}, stage)
+    resolutions = result["resolutions"]
+    if not isinstance(resolutions, list) or len(resolutions) != len(objections):
+        raise ValueError("Claude did not resolve every provisional blocker")
+    expected_ids = {objection["id"] for objection in objections}
+    ids = []
+    for resolution in resolutions:
+        if (not isinstance(resolution, dict) or set(resolution) != set(RESOLUTION["required"])
+                or resolution["decision"] not in ("retained", "rejected")
+                or any(not isinstance(value, str) or not value.strip()
+                       for value in resolution.values())):
+            raise ValueError("Claude returned an invalid blocker resolution")
+        ids.append(resolution["id"])
+        if resolution["decision"] == "rejected" and resolution["evidence"] not in source_text:
+            raise ValueError("Claude rejected a blocker without exact on-page evidence")
+    if len(set(ids)) != len(ids) or set(ids) != expected_ids:
+        raise ValueError("Claude did not address every provisional blocker by id")
+    if result["verdict"] == "PASS" and any(row["decision"] == "retained" for row in resolutions):
+        raise ValueError("Claude PASS retained a provisional blocker")
     if stage == "prose":
         for key in ("prompt", "internal", "dialogue"):
             allowed = ("PASS", "REVISE", "N/A") if key == "dialogue" else ("PASS", "REVISE")
@@ -307,7 +343,7 @@ def review_markdown(result: dict, story_hash: str) -> str:
             )
     else:
         lines.append("- Blocking: none")
-    lines.extend([f"- Notes: {brief(result['notes']) or 'none'}", ""])
+    lines.extend([f"- Notes: {md(result['notes']) or 'none'}", ""])
     return "\n".join(lines)
 
 
@@ -664,6 +700,10 @@ def run(args: argparse.Namespace) -> dict:
             images, args.timeout,
         )
         verify_inputs(input_hashes)
+        objections = provisional_objections(
+            ("gpt_initial", initial), ("claude_initial", claude_initial),
+            ("gpt_rejoinder", codex_reply),
+        )
         quality = claude_round(
             quality_root, prompt_for(args.stage, args.story, prompt_path.relative_to(root),
                                      source_path.relative_to(root), args, quality_final=True,
@@ -671,17 +711,21 @@ def run(args: argparse.Namespace) -> dict:
             + "\nThe complete story-quality discussion follows. Resolve its disputed craft"
             " and causal claims against the target and issue the FINAL STORY-QUALITY verdict."
             " Do not open canon, name, or broad policy files. You own this verdict; do not defer"
-            " to consensus. For every provisional blocker you reject, cite the on-page evidence"
-            " that resolves it. Do not invent placement, object state, elapsed time, or a"
+            " to consensus. Resolve EVERY numbered provisional objection in the resolutions"
+            " array, including any repeated in the rejoinder. For a rejected objection,"
+            " evidence must be an exact substring from the target showing why the objection"
+            " fails; explain the inference in reason. Retain a real blocker in findings."
+            " Do not invent placement, object state, elapsed time, or a"
             " speaker's observation. Apply the active craft profile's threshold. For prose,"
             " report prompt, internal, and dialogue gates, including N/A only for essentially"
             " no meaningful dialogic action. A PASS has no blocking findings.\n"
-            + json.dumps({"gpt_initial": initial, "claude_initial": claude_initial,
+            + json.dumps({"objections": objections, "gpt_initial": initial,
+                          "claude_initial": claude_initial,
                           "gpt_rejoinder": codex_reply}, ensure_ascii=False),
-            quality_schema(args.stage), args, images, include_comparisons=False,
+            quality_schema(args.stage, objections), args, images, include_comparisons=False,
         )
         verify_inputs(quality_hashes)
-        validate_quality(quality, args.stage)
+        validate_quality(quality, args.stage, objections, source_path.read_text(encoding="utf-8"))
         authority = claude_round(
             final_root, f"You are Claude Opus 5.5 conducting the final authority check for"
             f" {args.story}. The story-quality verdict below is already final and cannot be"

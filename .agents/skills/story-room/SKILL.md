@@ -88,6 +88,11 @@ locks the story-quality verdict before a final Claude authority check. Their
 combined verdict replaces the former outline
 review stage; do not add another reviewer. The runner returns PASS or REVISE
 and the exact outline SHA-256 in the task handoff; it writes no package file.
+Claude must resolve each numbered provisional blocker from both first assessments
+and Sol's rejoinder. A rejected blocker needs an exact quote from the target and
+an explanation of why it fails; a retained blocker cannot coexist with PASS.
+Missing or unsupported resolutions are a technical blocker. Read the resolutions
+in the handoff, especially when Sol and Claude disagree, before assigning prose.
 Exit 2 blocks writer handoff and returns only actionable blocking findings to
 the outliner. A changed outline requires a fresh invocation and hash. Exit 1
 is a technical blocker, never permission to skip the gate.
@@ -127,6 +132,9 @@ Both models read the complete prompt and prose first and form independent reader
 judgments without the target's outline, previous target review, canon files, or name
 inventories. Sol rechecks disputed story-quality points. Claude resolves those points
 against the prose and locks the craft findings before canon, policy, and name checks.
+Inspect the final numbered resolutions in the runner's result before accepting PASS;
+recheck any material disagreement against the cited passage. Do not silently drop a
+Sol objection because Claude's overall verdict says PASS.
 Apply the recorded profile's threshold to quality findings. The prompt is acceptance authority; historical
 request sections remain acceptance context and the last recorded craft profile remains
 active. Do not retrieve prior versions or apply a new profile retroactively.
