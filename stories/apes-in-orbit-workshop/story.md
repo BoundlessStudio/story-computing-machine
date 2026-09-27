@@ -100,7 +100,7 @@ Senn lowered his tail. "You're asking them to keep throwing."
 
 "They already are."
 
-The council fell quiet. Vetch had come to ask them to stop the apes, and now she was proposing a better game for them. She disliked the sound of it as much as Senn did. Across the bare ridge west of the Bowl lay an empty quarry, with a wide apron of uninhabited stone around it. Even the apes' widest misses at the Bowl would have struck that apron. The apes wanted a boast. They had not asked which part of the ground the dinosaurs could bear to give them.
+The council fell quiet. Vetch had come to ask them to stop the apes, and now she was proposing a better game for them. She disliked the sound of it as much as Senn did. Across the bare ridge west of the Bowl lay an empty quarry, with a wide apron of uninhabited stone around it. If the apes aimed at its center and missed by as much as they had at the Bowl, they would still strike bare ground. The apes wanted a boast. They had not asked which part of the ground the dinosaurs could bear to give them.
 
 "A smaller target in the old quarry," Morro said, following her glance to the map. "How would they know to take it?"
 
@@ -118,7 +118,7 @@ The decision passed by a margin of one. Morro voted with Vetch. Senn voted again
 
 "If they throw while we're carrying it," Senn said, "we'll be the target."
 
-"The next pass is in two hours," Kella said. She kept her receiver on the council channel so Fen could reach Vetch, and watched the station picture. "We'll be over the ridge before they can release anything else."
+"The next pass is in two hours," Kella said. She kept the microphone on her sky-watch screen live on the council channel. Vetch clipped her own receiver to her shoulder so Fen could reach her from the ledge. "We'll be over the ridge before they can release anything else."
 
 Six councilors dragged the sled west from the Bowl, up over the bare ridge and down to the quarry. Senn braced it at the crest while Morro steadied the stone with one immense foot. It took less than an hour, though Vetch's forelimbs shook when they reached level ground.
 
@@ -134,7 +134,7 @@ For the last ten minutes before the station's pass, the humans' picture did not 
 
 The image cut to the quarry. The thrower pointed at the upright black stone, then held two fingers a very short distance apart. She sent one rock into the machine, demanded another with her open hand, and sent that one after it. On Kella's fall plot, both paths ended inside the quarry's empty apron.
 
-Morro sent the councilors to the quarry's upper rim, behind a thick lip of stone. Nearly an hour passed before the first bright streak crossed overhead. Vetch listened to the hiss of Kella's receiver and watched the marked paths creep across its screen.
+Morro sent the councilors to the quarry's upper rim, behind a thick lip of stone. Nearly an hour passed before the first bright streak crossed overhead. Vetch listened to the hiss of Kella's screen and watched the marked paths creep across it.
 
 The rock struck the quarry wall well above the target. Chips clattered to the floor. Vetch had spent years watching Senn's tail games; she could see how much lower the humans would need to aim. For one ugly instant she wanted to tell them. A clean hit would keep them throwing here.
 
