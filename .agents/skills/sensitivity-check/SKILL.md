@@ -369,41 +369,6 @@ For each concern:
 
 ---
 
-## Available Tools
-
-### sensitivity-audit.ts
-
-Scans text for common pattern concerns.
-
-```bash
-deno run --allow-read scripts/sensitivity-audit.ts manuscript.txt
-deno run --allow-read scripts/sensitivity-audit.ts --text "Sample passage..."
-```
-
-**Detects:**
-- Potential stereotyping language patterns
-- Uneven physical description patterns
-- Common harmful trope markers
-- Agency/voice distribution indicators
-
-**Note:** This is a pattern matcher, not a replacement for human evaluation. It flags possible concerns for human review.
-
-### representation-map.ts
-
-Maps characters and their representation.
-
-```bash
-deno run --allow-read scripts/representation-map.ts characters.json
-```
-
-**Reports:**
-- Character identity distribution
-- Agency/centrality analysis
-- Trope risk assessment
-- Diversity within identity groups
-
----
-
 ## Integration with Other Skills
 
 | Skill | Integration Point |
@@ -457,45 +422,6 @@ deno run --allow-read scripts/representation-map.ts characters.json
 5. Note: Absence of diversity in appropriate settings is also worth examining
 
 ---
-
-## Output Persistence
-
-This skill writes primary output to files so work persists across sessions.
-
-### Output Discovery
-
-**Before doing any other work:**
-
-1. Check for `context/output-config.md` in the project
-2. If found, look for this skill's entry
-3. If not found or no entry for this skill, **ask the user first**:
-   - "Where should I save output from this sensitivity-check session?"
-   - Suggest: `explorations/sensitivity/` or a sensible location for this project
-4. Store the user's preference:
-   - In `context/output-config.md` if context network exists
-   - In `.sensitivity-check-output.md` at project root otherwise
-
-### Primary Output
-
-For this skill, persist:
-- **Representation inventory** - identities present and how characterized
-- **Concern flags** - specific issues identified with reasoning
-- **Recommendations** - suggested alternatives or improvements
-- **Research notes** - sources and context for concerns raised
-
-### Conversation vs. File
-
-| Goes to File | Stays in Conversation |
-|--------------|----------------------|
-| Representation analysis | Clarifying questions |
-| Flagged concerns with reasoning | Discussion of intent |
-| Recommendations | Writer's decisions |
-| Context and sources | Real-time feedback |
-
-### File Naming
-
-Pattern: `{story}-sensitivity-{date}.md`
-Example: `novel-sensitivity-2025-01-15.md`
 
 ## What You Do NOT Do
 

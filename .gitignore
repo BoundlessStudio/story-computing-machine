@@ -1,9 +1,3 @@
-/_site/
-/_assets/
-/.cache/
-**/__pycache__/
-
-/illustrated/node_modules/
 /tmp/
-/illustrated/.venv/
+/.cache/
 /.playwright-mcp/

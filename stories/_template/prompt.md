@@ -1,19 +1,11 @@
 # Prompt
 
-## Prompt
-
-{{prompt_block}}
+Paste the user's `[WP]` request here verbatim, including later user-authored constraints.
 
 ## Reference images
 
-{{reference_image_block}}
+List each supplied image by its display name, or write `None supplied`. Keep originals outside this story package.
 
-## Constraints
+## Audience and content
 
-- Target length: 2,500–4,000 words
-- POV, tense, and distance: derive from what the story should reveal, distort,
-  conceal, or make intimate unless specified
-- Tone and audience: broadly accessible unless specified
-- Required: a complete story that resolves its central promise
-- Craft profile: prospective-2026-08-23
-- Avoid: none specified
+Record the user's audience, intensity, and content direction. If none was supplied, note the shared broadly accessible, non-explicit default.

@@ -8,10 +8,7 @@ model-invocable: true
 
 # Creative Writing Craft
 
-How fiction works on the page: prose technique, scene mechanics, and style
-analysis. This is the how-to-write layer. `/writing-principles` carries the
-reader-reward model and failure-mode diagnostics; `/creative-writing-modes`
-carries the production modes for putting prose on the page.
+Craft references for prose, scenes, style, voice, and genre. They help a writer or reader solve a specific problem; they are not a production process.
 
 Load only the resource needed for the task:
 

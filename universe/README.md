@@ -1,51 +1,9 @@
 # Shared-universe notes
 
-This directory is the sole authority for shared-universe facts. Stories provide
-evidence and examples, but a fact becomes reusable canon only when it is written
-into the relevant topical file here.
+This directory alone establishes facts that later stories may reuse. Stories are the product and can suggest new facts, but their prompts, prose, art, and editorial notes do not silently make them canon.
 
-## Authority order
+When sources disagree, `LOCKED` entries outrank `CANON`; `PROVISIONAL` is nonbinding guidance. Do not invent a reconciliation. Ask the user for a ruling and record an approved change in `retcons.md`. A named story becomes canon only through explicit user approval under [AGENTS.md](../AGENTS.md).
 
-When sources disagree, use this order:
+The topical files are `premise.md`, `rules.md`, `timeline.md`, `characters.md`, `locations.md`, `factions.md`, and `glossary.md`. [style-guide.md](style-guide.md) contains shared narrative and content boundaries rather than in-world facts. `retcons.md` records approved changes to established facts.
 
-1. Entries marked `LOCKED`.
-2. Entries marked `CANON`.
-3. Entries marked `PROVISIONAL`, as nonbinding guidance.
-4. Everything else, including prompts, outlines, stories, reviews, source notes,
-   and retired pipeline records.
-
-Never silently reconcile conflicting authoritative entries. Ask the user for a
-ruling and record an approved correction in `retcons.md`.
-
-## Entry format
-
-```markdown
-## Name
-
-- Status: LOCKED | CANON | PROVISIONAL | RETIRED
-- Summary: One precise statement.
-- First established: user decision, date, or story path.
-- Aliases: None
-- Notes: Costs, exceptions, relationships, or boundaries.
-```
-
-`LOCKED` requires an explicit user retcon to contradict. `CANON` is
-established but may be deliberately expanded. `PROVISIONAL` is design
-guidance. `RETIRED` is retained only for historical traceability.
-
-## Files
-
-- `premise.md` — foundational truths, themes, genre, and cosmology.
-- `rules.md` — magic, technology, biology, economics, and costs.
-- `timeline.md` — dated or ordered events.
-- `characters.md` — recurring people and relationships.
-- `locations.md` — geography and recurring places.
-- `factions.md` — organizations, cultures, powers, and agendas.
-- `glossary.md` — canonical terms, spellings, and aliases.
-- `style-guide.md` — narrative craft, tone, and content boundaries.
-- `retcons.md` — approved changes to authoritative facts.
-
-The [initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md)
-is preserved in Git history as provenance only.
-`stories/NAMES.md` is the frozen people-name baseline from earlier production;
-current stories inventory people and places in their own `review.md`.
+Existing entries may retain their historical status, source, and aliases. Read the entries relevant to a story; there is no need to load the entire universe or produce a separate canon brief for every draft. `stories/NAMES.md` is older name memory, not canon authority. The [initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) remains in Git history as provenance.

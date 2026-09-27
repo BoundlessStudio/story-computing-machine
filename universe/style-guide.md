@@ -1,6 +1,6 @@
 # Universe style guide
 
-<!-- These are production constraints, not in-world facts. -->
+These are shared narrative boundaries and craft defaults, not a recipe or a review form. Apply them to new work and authorized edits without reopening finished stories. The user's prompt and a deliberate story voice may override a craft default; `LOCKED` boundaries still apply. Older dated craft profiles remain in Git history as context, not as instructions to rerun their retired stages.
 
 ## Personhood and moral consequence
 
@@ -15,252 +15,32 @@
   identities, and continuations may receive different story-specific answers,
   but the explanation must not erase their human and ethical stakes.
 
-## Prose defaults
+## Prose and story craft
 
 - Status: CANON
-- Summary: Prefer precise, concrete, varied prose over canned phrasing,
-  repetitive rhythm, or exposition that exists only to display lore.
-- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q043,
-  Q046, Q101)
-- Aliases: None
-- Notes:
-  - Use varied sentence rhythm, concrete detail, and em dashes sparingly.
-  - Treat paragraphs as units of attention, relation, and movement rather than
-    putting every sentence or camera beat on its own line. Use isolated
-    one-sentence paragraphs when they earn emphasis, not as the default pulse.
-  - Consult `stories/NAMES.md` and current `review.md` noun inventories before
-    choosing a person or place name. Default to a unique, readily
-    distinguishable form.
-  - Treat repeated or easily confused character names as accidental reuse to
-    fix unless the same identity recurs or the reuse has documented narrative
-    meaning and a clear reader-disambiguation strategy.
-  - Recurring imagery may remain motif rather than forced mechanism.
-  - A deliberate story voice or user-supplied sample may override these defaults
-    when the departure is intentional.
+- Prefer precise, concrete, varied prose over canned phrasing, repetitive rhythm, or exposition that exists only to display lore. Let viewpoint, distance, sentence rhythm, and paragraph movement serve this particular story. A deliberate voice may depart from these defaults.
+- Find the generating force in the prompt before choosing a plot shape. A story may move through desire, relationship, attention, discovery, loss, recurrence, or refusal to change. It need not invent an antagonist, a speech, a public crisis, or a moral victory to feel complete.
+- Give the focal character an attachment, curiosity, appetite, duty, or contradiction a reader can feel. Let theme emerge from pressure, action, image, and consequence; do not routinely explain a point again after it lands.
+- Make speculative elements lived and consequential, with limits the reader can understand. Avoid lore display for its own sake. Do not patch contradictions with an unsupported dream, prophecy, timeline, or hidden mechanism.
+- Let people speak from different knowledge, social permission, needs, and responses to pressure. A reply must follow what its listener could reasonably understand. Ordinary directness, humor, silence, misunderstanding, and non-spoken contact all belong when the scene earns them.
+- Let the ending grow from this story's opening and movements. It may close with choice, consequence, revelation, release, return, interruption, or a purposeful stopping point. Watch for repeated endings that explain the theme, convert a crowd, or substitute a tidy work ritual for emotional contact.
+- Across the collection, notice when different prompts keep producing the same architecture, debate, or emotional destination. Use that observation to widen choices, not to impose novelty quotas or force a darker outcome. Read other stories only when comparison will help this one.
 
-## Story craft defaults
+## Names and continuity
 
 - Status: CANON
-- Summary: New stories should derive movement, voice, speculative texture, and
-  form from a story-specific generating force while varying the collection's
-  structural, emotional, and moral shape.
-- First established: user decision, 2026-08-08
-- Aliases: New-story craft guidance
-- Notes:
-  - Apply this entry prospectively. It never reopens, invalidates, or creates a
-    reason to revise an existing story.
-  - Treat these defaults and revision tools as aids, not laws.
-    The prompt or a deliberate voice and form may override a default when the
-    story gains more than it loses.
-  - Choose the story's generating force before imposing a plot formula. A
-    plot-led story usually needs an immediate want, a competing valuable want,
-    and a useful flaw or limit that changes the outcome. A quieter story may
-    move through relationship, attention, discovery, loss, bearing, recurrence,
-    accumulation, or change. A correct ethical position is not a substitute for
-    a lived attachment, appetite, curiosity, duty, or contradiction.
-  - Do not invent an antagonist because the template appears to require one.
-    When a person supplies the counterforce, give them something worth
-    protecting, a fact the focal character resists, and agency after challenge.
-    Conditions, absences, environments, incompatible goods, and the focal
-    character's own habits may create movement without a villain.
-  - Personhood protection is a production boundary, not a mandatory topic. Let
-    theme emerge from pressure, action, image, and consequence; once a point is
-    clear, do not routinely explain it again in narration, dialogue, policy,
-    and a closing symbol.
-  - Give major speculative elements material, practical, and cultural life plus
-    at least one consequence unrelated to the central theme. Make operative
-    limits clear without turning prose into a manual.
-  - Vary architecture as well as setting. Do not default to a public technical
-    emergency that proves an ethical thesis, converts a crowd, overhauls an
-    institution, and closes on a polished emblem. A story may run, walk,
-    circle, braid, accumulate, contain, recur, or stop after a recognition; its
-    movements still need an intelligible relation to one another.
-  - Choose POV and narrative distance according to what the story should reveal,
-    distort, conceal, or make intimate. Also choose the time shape, compression,
-    and order in which the reader understands important facts. Give important
-    speakers distinct attention, knowledge, pressures, and verbal behavior.
-    Difference should arise from character and situation rather than cosmetic
-    quirks. Directness, mutual understanding, and articulate speech remain
-    available when earned.
-  - Keep costs and aftereffects that genuinely follow from the central action,
-    but do not attach token misery or a policy coda merely to certify seriousness.
-    Let the opening imply the kind of ending the story needs. The end may be a
-    choice, consequence, revelation, release, return, interruption, or simply
-    the point at which this particular story stops being.
-  - For a prompt carrying `Craft profile: prospective-2026-08-08`, perform the
-    self-contained in-place revision pass defined by the writer agent, using
-    `creative-writing-craft`, `dialogue`, and `prose-style` as internal craft
-    references before saving `story.md`. Do not create a checklist, report,
-    draft copy, or other production artifact for that pass.
-  - `Craft profile: prospective-2026-08-18` includes the preceding defaults and
-    in-place revision pass only for new stories. Its outline targets 700–1,000
-    words and may not exceed 1,200; it records draftable pressure and limits
-    without scripting confessions, reconciliations, or final thematic lines. An
-    optional dialogue-pressure note is capped at 75 words.
-  - Under the 2026-08-18 profile, revise every major dialogue exchange in place.
-    Before higher-order craft, scan every exchange in order for shared-reality
-    coherence: the words must fit the depicted action and object; references
-    must resolve, or their ambiguity must be legible and handled by uptake; time
-    and space must remain possible; the speaker's stance toward knowledge or
-    perception must be supported; and each reply must follow from what its
-    listener could reasonably understand. Figurative language, lies, guesses,
-    mistakes, and deliberate misunderstanding may
-    depart from literal truth or adjacency only when their mode is legible. A
-    reply may register confusion, affect, or figurative intent but may not
-    supply semantic or technical content absent from the prior beat.
-    When the prompt or scene explicitly limits evidence, do not promote what a
-    speaker could have observed into what they did observe; new evidence may
-    arrive through dialogue only when no supplied boundary forbids it.
-    Setup and delivery are one causal unit. Reject a line that exists only to
-    manufacture a correction, joke, aphorism, or last word, and do not let
-    voice, wit, rhythm, subtext, or dramatic function compensate for broken
-    scene-grounded sense.
-  - After that coherence gate passes, test whether each major exchange changes
-    knowledge, leverage, commitment, risk, relationship, or action; whether
-    abstraction belongs to the speaker; whether exposition is needed by the
-    listener; and whether the ending explains action that already landed.
-    Preserve unequal fluency when the characters and pressure support it rather
-    than imposing resistance or inarticulacy as a quota.
-  - The reviewer reads prompt and prose before the outline and records
-    `Dialogue: PASS`, `REVISE`, or `N/A`. N/A means essentially no meaningful
-    dialogue. A material reader-facing dialogue failure is blocking
-    even when continuity and causality pass; outline compliance never proves
-    that dialogue works. This extension is prospective and does not reopen any
-    completed story.
-  - `Craft profile: prospective-2026-08-21` extends the 08-18 profile without
-    changing the contract of completed 08-18 stories. Its outline replaces the
-    optional dialogue-pressure note with a mandatory, story-specific Voice
-    capsule covering narrative texture, conversational texture, rhetorical
-    ownership, pressure behavior, and one concrete anti-default. The capsule is
-    capped at 180 words inside the existing 1,200-word outline ceiling and may
-    not contain sample lines, catchphrases, phonetic accents, or empty
-    house-style boilerplate.
-  - Under the 08-21 profile, the project-owned `short-story-writing` adapter
-    keeps `creative-writing-craft` primary and uses `dialogue` and `prose-style`
-    only as diagnostic references for revision in place. Generic preferences
-    for hidden agendas, verbal tics, universal subtext, simultaneous dialogue
-    functions, punchy sentences, diagnostic-only refusal, or separate reports
-    do not override the story's prompt, Voice capsule, or artifact contract.
-  - For 08-21 dialogue, test context dependence, rhetorical ownership,
-    reasoning-shape diversity, secondary-character chorus, unequal fluency
-    under pressure, and the availability of ordinary or single-purpose speech.
-    One earned aphorism or articulate exchange is allowed; only material
-    scene-wide convergence is blocking for those higher-order pattern tests.
-    One materially incoherent line may independently block under the
-    shared-reality gate above. The reviewer records the result through the
-    existing single Dialogue verdict after first judging prompt and prose
-    without the outline.
-  - `Craft profile: prospective-2026-08-23` extends 08-21 for newly scaffolded
-    CREATE stories, including remove-then-create replacements. Before drafting,
-    derive a dialogue promise from the prompt's relationship, tonal, and
-    communication implications; choose a deliberate dialogic medium; and state
-    why communication itself produces movement. Speech, writing, internal
-    voices, signs, interfaces, gesture, silence, and failed contact are all
-    first-class options.
-  - The 08-23 outline adds Dialogue promise, Dialogic medium, and Dialogue engine
-    to Story plus Relationship movement to Voice. The six-field Voice capsule
-    is capped at 220 words. Relationship movement states what major participants
-    want from one another, cannot comfortably request, and what changes in
-    knowledge, leverage, trust, commitment, risk, or relationship. Rhetorical
-    ownership also includes humor, evasion, affection, misreading, social
-    authority, and willingness to listen rather than relying only on expertise,
-    precision, or sentence length.
-  - Under 08-23, major exchanges are judged by relationship and story effects,
-    not line count. Resist uniformly articulate professionals solving a material
-    problem when the prompt supports play, mistakes, pettiness, embarrassment,
-    distraction, poor explanation, or social unevenness. Check that a closing
-    gesture of instructions, maintenance, inventory, breakfast, or returning to
-    work is earned by the story rather than used to avoid thematic contact.
-  - For CREATE, including replacements, after the standalone dialogue judgment,
-    compare only the target's dialogic pattern, one major exchange, and final
-    meaningful exchange against bounded passages from the six most recent
-    passing stories, or all available when fewer than six exist. Materially
-    transplantable reasoning, relationship action, or ending gestures block
-    through the same single Dialogue verdict; similarity that the prompt
-    genuinely earns does not. Broader advisory audits follow
-    [Collection variation](#collection-variation); selection, timing, and the
-    compact outline handoff belong to
-    [Collection context](../.agents/skills/story-create/SKILL.md#collection-context).
-  - A replacement begins from an absent target and a clean CREATE scaffold. It
-    preserves all prior user-authored prompt/request text, the new request, and accessible external
-    references, but it does not inherit prior outline, prose, review, or cover.
-    Prospective craft defaults and the full recent-story comparison apply to the
-    new work as ordinary CREATE production.
-
-## Collection variation
-
-- Status: CANON
-- Summary: Compare character transformations, dialogue, and emotional
-  destinations across completed stories, then use supported patterns to widen
-  the possibilities considered for future work.
-- First established: user decision, 2026-09-07
-- Aliases: None
-- Notes:
-  - Apply prospectively to CREATE planning and completed-batch audits. Preserve
-    recorded craft profiles and review thresholds; an audit neither reopens a
-    completed story nor authorizes edits, unlocks, or a new rejection gate.
-  - Trace focal attachment or contradiction, pressure, decisive change or
-    refusal to change, and consequences. Compare the relation between those
-    elements across stories, not just their settings, props, or climax venues.
-    A shared ethic can recur without requiring the same character lesson.
-  - Keep dialogue explicit: scene-grounded setup and reply, knowledge and
-    listener uptake, distinct ways of thinking, rhetorical ownership, ordinary
-    speech, humor, and what exchanges change between participants. Look across
-    major and final exchanges for repeated polished arguments, explanatory
-    choruses, negotiation routines, or reconciliation scripts. Include
-    non-spoken media, competence structures, workplace triads, and humor levels.
-    Surface voice differences and individual Dialogue PASS verdicts do not
-    establish collection variety; existing semantic coherence gates still come
-    before stylistic judgments.
-  - Distinguish a closing gesture from its emotional destination and remaining
-    cost or uncertainty. Different activities can all restore the same kind of
-    connection; similar gestures can carry very different consequences.
-  - Judge recurrence against the prompts and genres before calling it a limiting
-    default. Preserve earned warmth, eloquence, directness, natural humor, and
-    reconciliation. Seek more possibilities where the prompt allows them; do
-    not impose tragedy, unresolved conflict, awkward speech, novelty quotas, or
-    a predetermined distribution of endings.
+- Choose distinct names where possible. Check `stories/NAMES.md`, relevant existing stories, and universe entries when a name may recur or confuse readers. A repeated name is fine when it is the same identity or has a clear story reason.
+- Keep consequential action, time, space, object state, knowledge, and the cost of a choice intelligible. A beautiful sentence cannot supply a missing cause or make a listener know what was never conveyed.
 
 ## No default water infrastructure
 
 - Status: CANON
-- Summary: Do not introduce water infrastructure as a default source of plot,
-  stakes, occupations, expertise, metaphor, or incidental worldbuilding.
-- First established: explicit user decision, 2026-09-09
-- Aliases: No hydraulic default
-- Notes:
-  - This restriction includes drainage, marsh reclamation, irrigation, sewers,
-    reservoirs, aqueducts, canals, sluices, flood-control works, water-supply
-    networks, and their construction, repair, operation, or administration.
-    A passing reference, book subject, background profession, or piece of local
-    history counts; do not smuggle the default back in as minor texture.
-  - Use these subjects only when the user's actual request calls for them or
-    an explicitly requested continuation requires a specific established fact.
-    A waterside setting, a fantasy society, a practical character, or a need
-    for concrete detail is not sufficient reason.
-  - Choose material detail from this prompt's particular interests, actions,
-    relationships, and speculative promise. Do not replace the water default
-    with another routine public-works or maintenance problem.
-  - Ordinary water, weather, rivers, seas, ponds, and drinking remain available
-    when they belong to the story; this rule concerns infrastructure defaults.
-  - Apply prospectively to new drafting and authorized revisions. This policy
-    does not itself authorize reopening completed stories or alter established
-    universe facts.
+- Do not introduce drainage, irrigation, sewers, reservoirs, aqueducts, canals, flood-control works, or related construction and administration as a default plot, profession, metaphor, or incidental worldbuilding. Use such subjects when the user's request calls for them or a specific established fact requires them. Ordinary water, weather, rivers, seas, ponds, and drinking remain available when they belong to the story. Do not replace this with another routine public-works or maintenance plot.
 
 ## Tonal range, scale, and connection
 
 - Status: CANON
-- Summary: The project permits a wide tonal and genre range, connected by a
-  coherent world rather than a mandatory mood, scale, or level of awareness.
-- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q007, Q012,
-  Q039, Q102, Q104)
-- Aliases: None
-- Notes:
-  - Derive POV, tense, narrative distance, tone, and genre from each prompt.
-  - Entirely ordinary stories belong and need no supernatural hint.
-  - Some characters may perceive the larger history while others do not.
-  - Major-character crossovers are permitted when earned but never required.
-  - Begin with multiple independent entry points and no official flagship.
+- This universe permits a wide range of tone and genre. Entirely ordinary stories belong and need no supernatural hint. Some characters know more of the larger history than others. Crossovers are permitted when earned, never required. Choose point of view, tense, and scale from each prompt; there is no official flagship story.
 
 ## Audience and content boundaries
 
