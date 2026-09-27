@@ -2188,67 +2188,67 @@
   "selectedCorrections": [
     {
       "original": "stories/the-emerald-relic/art/landscapes/01-level-stone-outside-the-gates.png",
-      "selected": "art/landscapes/the-emerald-relic/01-level-stone-outside-the-gates.png",
+      "selected": "stories/the-emerald-relic/art/landscapes/selected/01-level-stone-outside-the-gates.png",
       "correction": "The gate encounter occurs at night as Anubis passes through torchlight; this painting gives the encounter's location bright golden daylight."
     },
     {
       "original": "stories/a-crown-for-the-endless-fire/art/landscapes/03-black-bridge-across-the-gulf.png",
-      "selected": "art/landscapes/a-crown-for-the-endless-fire/03-black-bridge-across-the-gulf.png",
+      "selected": "stories/a-crown-for-the-endless-fire/art/landscapes/selected/03-black-bridge-across-the-gulf.png",
       "correction": "The source bridge is about thirty paces, supported by six lengthwise ribs seated in opposite walls. The painting substitutes a monumental arched viaduct with tall piers descending into the fire."
     },
     {
       "original": "stories/a-crown-for-the-endless-fire/art/landscapes/05-furnace-depths-and-dim-light.png",
-      "selected": "art/landscapes/a-crown-for-the-endless-fire/05-furnace-depths-and-dim-light.png",
+      "selected": "stories/a-crown-for-the-endless-fire/art/landscapes/selected/05-furnace-depths-and-dim-light.png",
       "correction": "The source explicitly gives the fire no visible floor or fuel. This painting supplies a visible molten river/floor and repeats the already represented gulf."
     },
     {
       "original": "stories/a-knock-in-someone-elses-sleep/art/landscapes/03-the-dream-sea.png",
-      "selected": "art/landscapes/a-knock-in-someone-elses-sleep/03-the-dream-sea.png",
+      "selected": "stories/a-knock-in-someone-elses-sleep/art/landscapes/selected/03-the-dream-sea.png",
       "correction": "The dream sea is made inside a cupboard and later inside the bus. This natural open coast strips away the interior dream container and relocates it outdoors."
     },
     {
       "original": "stories/a-knock-in-someone-elses-sleep/art/landscapes/05-the-green-tiled-dream-house.png",
-      "selected": "art/landscapes/a-knock-in-someone-elses-sleep/05-the-green-tiled-dream-house.png",
+      "selected": "stories/a-knock-in-someone-elses-sleep/art/landscapes/selected/05-the-green-tiled-dream-house.png",
       "correction": "The green-tiled dream house stands inside a whale, whose ribs support its gutters, and initially has no door. The painting puts a cottage with a door in an open meadow beside distant water."
     },
     {
       "original": "stories/all-accounts-due/art/landscapes/02-black-fire-fortress.png",
-      "selected": "art/landscapes/all-accounts-due/02-black-fire-fortress.png",
+      "selected": "stories/all-accounts-due/art/landscapes/selected/02-black-fire-fortress.png",
       "correction": "The source fortress is being eaten by black fire. This intact distant fortress beneath an orange storm/sunset does not depict that defining magical event."
     },
     {
       "original": "stories/all-accounts-due/art/landscapes/04-aurora-over-the-mountain.png",
-      "selected": "art/landscapes/all-accounts-due/04-aurora-over-the-mountain.png",
+      "selected": "stories/all-accounts-due/art/landscapes/selected/04-aurora-over-the-mountain.png",
       "correction": "The source aurora holds a mountain aloft before its disastrous release. This conventional alpine mountain under northern lights loses the essential suspended/living geography."
     },
     {
       "original": "stories/everyone-knows-her/art/landscapes/01-west-gate-before-the-festival.png",
-      "selected": "art/landscapes/everyone-knows-her/01-west-gate-before-the-festival.png",
+      "selected": "stories/everyone-knows-her/art/landscapes/selected/01-west-gate-before-the-festival.png",
       "correction": "The story begins during the crowded festival as the gate closes. The empty before-festival view invents a different state and omits the waist-high barrier controlling the route."
     },
     {
       "original": "stories/everyone-knows-her/art/landscapes/02-the-long-mild-slope.png",
-      "selected": "art/landscapes/everyone-knows-her/02-the-long-mild-slope.png",
+      "selected": "stories/everyone-knows-her/art/landscapes/selected/02-the-long-mild-slope.png",
       "correction": "The long slope has tables pressing from both curbs and only a bicycle-width passage. This wide open road with no stalls gives materially wrong route geometry."
     },
     {
       "original": "stories/an-ordinary-education/art/landscapes/02-the-meeting-point.png",
-      "selected": "art/landscapes/an-ordinary-education/02-the-meeting-point.png",
+      "selected": "stories/an-ordinary-education/art/landscapes/selected/02-the-meeting-point.png",
       "correction": "The agreed meeting point is outside a supermarket. The painting shows an unrelated residential lane without the defining supermarket."
     },
     {
       "original": "stories/between-the-colors/art/landscapes/01-the-theatre-before.png",
-      "selected": "art/landscapes/between-the-colors/01-the-theatre-before.png",
+      "selected": "stories/between-the-colors/art/landscapes/selected/01-the-theatre-before.png",
       "correction": "The distant white classical facade does not match the red-brick theatre shell in the retained collapse image, and the invented hilltop panorama is not the street-level approach."
     },
     {
       "original": "stories/coiled-together/art/landscapes/04-teethlike-rocks-at-the-mouth.png",
-      "selected": "art/landscapes/coiled-together/04-teethlike-rocks-at-the-mouth.png",
+      "selected": "stories/coiled-together/art/landscapes/selected/04-teethlike-rocks-at-the-mouth.png",
       "correction": "The path directly outside the upper mouth is a brown torrent too deep to cross. This clear dry threshold looking into a distant valley removes the immediate flood barrier that keeps everyone trapped."
     },
     {
       "original": "stories/every-flower-she-knew/art/landscapes/05-lamps-below-the-ridge.png",
-      "selected": "art/landscapes/every-flower-she-knew/05-lamps-below-the-ridge.png",
+      "selected": "stories/every-flower-she-knew/art/landscapes/selected/05-lamps-below-the-ridge.png",
       "correction": "The village lamps appear only after full dark, after daylight has left even the western wall. The painting shows a bright orange sunset still lighting the cliffs and sky."
     },
     {
@@ -2258,37 +2258,37 @@
     },
     {
       "original": "stories/his-infernal-majesty-says-no/art/landscapes/03-the-human-gate-approach.png",
-      "selected": "art/landscapes/his-infernal-majesty-says-no/03-the-human-gate-approach.png",
+      "selected": "stories/his-infernal-majesty-says-no/art/landscapes/selected/03-the-human-gate-approach.png",
       "correction": "Moves the gate from the end of a bare basalt corridor into a conventional outdoor campus approach."
     },
     {
       "original": "stories/late-for-dinner/art/landscapes/04-sunset-over-the-eastern-rim.png",
-      "selected": "art/landscapes/late-for-dinner/04-sunset-over-the-eastern-rim.png",
+      "selected": "stories/late-for-dinner/art/landscapes/selected/04-sunset-over-the-eastern-rim.png",
       "correction": "Turns a shallow, climbable chalk cutting into an enormous rocky canyon. The sunset crosses the cutting bank, not a distant canyon rim."
     },
     {
       "original": "stories/mother-of-monsters/art/landscapes/02-the-upper-switchback.png",
-      "selected": "art/landscapes/mother-of-monsters/02-the-upper-switchback.png",
+      "selected": "stories/mother-of-monsters/art/landscapes/selected/02-the-upper-switchback.png",
       "correction": "Repeats the same intact upper causeway already shown with the sanctuary, without a distinct state."
     },
     {
       "original": "stories/mother-of-monsters/art/landscapes/04-the-road-ends-in-air.png",
-      "selected": "art/landscapes/mother-of-monsters/04-the-road-ends-in-air.png",
+      "selected": "stories/mother-of-monsters/art/landscapes/selected/04-the-road-ends-in-air.png",
       "correction": "Replaces the broken sanctuary of the opening image with a large intact multi-storey castle across a different valley; the collapse view breaks location continuity."
     },
     {
       "original": "stories/the-cat-who-had-enough/art/landscapes/05-the-way-home.png",
-      "selected": "art/landscapes/the-cat-who-had-enough/05-the-way-home.png",
+      "selected": "stories/the-cat-who-had-enough/art/landscapes/selected/05-the-way-home.png",
       "correction": "Replaces the urban route with a rural hillside footpath and unsupported landscape."
     },
     {
       "original": "stories/empire-within/art/landscapes/02-the-old-club-district.png",
-      "selected": "art/landscapes/empire-within/02-the-old-club-district.png",
+      "selected": "stories/empire-within/art/landscapes/selected/02-the-old-club-district.png",
       "correction": "Turns a city athletic club reached during a night operation into an isolated overgrown lakeside ruin in daylight."
     },
     {
       "original": "stories/save-that-dragon/art/landscapes/04-three-pale-quarry-steps.png",
-      "selected": "art/landscapes/save-that-dragon/04-three-pale-quarry-steps.png",
+      "selected": "stories/save-that-dragon/art/landscapes/selected/04-three-pale-quarry-steps.png",
       "correction": "Renders the quarry as a closed circular pit with a flooded bottom. The dragon on the lowest shelf needs an open descending road to a valley lip, not a climb out of a deep enclosed bowl."
     },
     {
@@ -2298,27 +2298,27 @@
     },
     {
       "original": "stories/sakura-hearted/art/landscapes/05-the-valley-remembered.png",
-      "selected": "art/landscapes/sakura-hearted/05-the-valley-remembered.png",
+      "selected": "stories/sakura-hearted/art/landscapes/selected/05-the-valley-remembered.png",
       "correction": "Fourth repetitive view of a campsite valley remembered while riding an indoor amusement machine."
     },
     {
       "original": "stories/apes-in-orbit/art/landscapes/02-the-blue-basin.png",
-      "selected": "art/landscapes/apes-in-orbit/02-the-blue-basin.png",
+      "selected": "stories/apes-in-orbit/art/landscapes/selected/02-the-blue-basin.png",
       "correction": "Mistakes the blue contour of an occupied basin on a council map for a blue lake; the basin contains nesting blocks, not open water."
     },
     {
       "original": "stories/the-bride-who-came-back/art/landscapes/01-the-black-ice-causeway.png",
-      "selected": "art/landscapes/the-bride-who-came-back/01-the-black-ice-causeway.png",
+      "selected": "stories/the-bride-who-came-back/art/landscapes/selected/01-the-black-ice-causeway.png",
       "correction": "Shows a clear blue sky over the southern approach, contradicting the opening wall of smoke that darkens the afternoon."
     },
     {
       "original": "stories/the-door-knows-home/art/landscapes/02-the-dry-dock.png",
-      "selected": "art/landscapes/the-door-knows-home/02-the-dry-dock.png",
+      "selected": "stories/the-door-knows-home/art/landscapes/selected/02-the-dry-dock.png",
       "correction": "Shows an empty dock where the view explicitly contains steel props and the algae-streaked underside of a barge."
     },
     {
       "original": "stories/gods-afraid-of-grandma/art/landscapes/02-the-mended-lane.png",
-      "selected": "art/landscapes/gods-afraid-of-grandma/02-the-mended-lane.png",
+      "selected": "stories/gods-afraid-of-grandma/art/landscapes/selected/02-the-mended-lane.png",
       "correction": "The repaired pothole is discovered in the rain after midnight, but the painting presents the lane in broad daylight."
     },
     {
@@ -2328,7 +2328,7 @@
     },
     {
       "original": "stories/the-color-that-comes-home/art/landscapes/05-violet-shadow-on-the-dunes.png",
-      "selected": "art/landscapes/the-color-that-comes-home/05-violet-shadow-on-the-dunes.png",
+      "selected": "stories/the-color-that-comes-home/art/landscapes/selected/05-violet-shadow-on-the-dunes.png",
       "correction": "The violet world is defined by hollow curled mineral shells like trumpet mouths, including house-sized living spirals. This painting replaces them with ordinary jagged rock outcrops and dunes; the droplet stems alone do not preserve the setting."
     },
     {
@@ -2338,7 +2338,7 @@
     },
     {
       "original": "stories/tenth-world-lesson/art/landscapes/03-rain-around-the-nine-channels.png",
-      "selected": "art/landscapes/tenth-world-lesson/03-rain-around-the-nine-channels.png",
+      "selected": "stories/tenth-world-lesson/art/landscapes/selected/03-rain-around-the-nine-channels.png",
       "correction": "The nine stations and conductor paths are on the tower floor around the engine. The painting replaces them with outdoor stone channels spread over an exposed hill beside a closed tower."
     },
     {
@@ -2353,62 +2353,62 @@
     },
     {
       "original": "stories/what-the-town-owed-her/art/landscapes/03-the-fallen-tree-and-broken-span.png",
-      "selected": "art/landscapes/what-the-town-owed-her/03-the-fallen-tree-and-broken-span.png",
+      "selected": "stories/what-the-town-owed-her/art/landscapes/selected/03-the-fallen-tree-and-broken-span.png",
       "correction": "The tree strikes and bridge breaks during continuing heavy rain, with Leonie carrying a light. This blue-sky sunlit view contradicts the rescue's weather and lighting."
     },
     {
       "original": "stories/where-no-unicorn-stands/art/landscapes/04-two-long-bands-of-rain.png",
-      "selected": "art/landscapes/where-no-unicorn-stands/04-two-long-bands-of-rain.png",
+      "selected": "stories/where-no-unicorn-stands/art/landscapes/selected/04-two-long-bands-of-rain.png",
       "correction": "The two rain bands open after the storm begins shearing after sunset, across miles of thirsty dark. The painting shows bright sunlit fields and daytime clouds."
     },
     {
       "original": "stories/where-the-white-elk-went/art/landscapes/01-elderwealds-western-stones.png",
-      "selected": "art/landscapes/where-the-white-elk-went/01-elderwealds-western-stones.png",
+      "selected": "stories/where-the-white-elk-went/art/landscapes/selected/01-elderwealds-western-stones.png",
       "correction": "The source explicitly says there is no field beyond Elderweald: young birches crowd the slope, with hazel and thorn immediately catching the elk. The painting opens a broad grassy field between the boundary stones and distant birches, replacing that continuous thicket."
     },
     {
       "original": "stories/the-emerald-relic/art/interiors/02-the-relic-on-the-table.png",
-      "selected": "art/interiors/the-emerald-relic/02-the-relic-on-the-table.png",
+      "selected": "stories/the-emerald-relic/art/interiors/selected/02-the-relic-on-the-table.png",
       "correction": "Match the cover's elongated black reptilian skull with both jaws open, dark pointed emerald-lit teeth, gold-filled fractures, ankh and winged ornament. Preserve the room composition and broad oil-painted style."
     },
     {
       "original": "stories/the-emerald-relic/art/interiors/03-the-garden-door-and-screen.png",
-      "selected": "art/interiors/the-emerald-relic/03-the-garden-door-and-screen.png",
+      "selected": "stories/the-emerald-relic/art/interiors/selected/03-the-garden-door-and-screen.png",
       "correction": "Use the accepted room arrangement: place the screen between garden doorway and bed, with its near edge just beyond a true bedside table reachable from the pillows."
     },
     {
       "original": "stories/a-beginner-of-considerable-age/art/interiors/02-lodge-table-and-flagstones.png",
-      "selected": "art/interiors/a-beginner-of-considerable-age/02-lodge-table-and-flagstones.png",
+      "selected": "stories/a-beginner-of-considerable-age/art/interiors/selected/02-lodge-table-and-flagstones.png",
       "correction": "Use the same single rectangular gate as the other views, with one open knee-high square feeding hatch in the run wall. Restore the cup beside the table leg with its handle uppermost."
     },
     {
       "original": "stories/a-crown-for-the-endless-fire/art/interiors/02-shutter-chamber.png",
-      "selected": "art/interiors/a-crown-for-the-endless-fire/02-shutter-chamber.png",
+      "selected": "stories/a-crown-for-the-endless-fire/art/interiors/selected/02-shutter-chamber.png",
       "correction": "Move the narrow uneven aperture beneath the raised shutter and show its chain holding that lifted position."
     },
     {
       "original": "stories/a-knock-in-someone-elses-sleep/art/interiors/02-blue-tiled-unfinished-room.png",
-      "selected": "art/interiors/a-knock-in-someone-elses-sleep/02-blue-tiled-unfinished-room.png",
+      "selected": "stories/a-knock-in-someone-elses-sleep/art/interiors/selected/02-blue-tiled-unfinished-room.png",
       "correction": "Keep the blue-tile study, but replace the invented panorama with the enclosing dream/whale context or a window treatment that establishes no contradictory geography."
     },
     {
       "original": "stories/a-little-more-room/art/interiors/02-records-by-the-rug.png",
-      "selected": "art/interiors/a-little-more-room/02-records-by-the-rug.png",
+      "selected": "stories/a-little-more-room/art/interiors/selected/02-records-by-the-rug.png",
       "correction": "Retain the close composition and cleared rug, but match the cabinet/window relationship established in the wide room study."
     },
     {
       "original": "stories/a-little-winter-for-sale/art/interiors/02-coldmouth-workbench.png",
-      "selected": "art/interiors/a-little-winter-for-sale/02-coldmouth-workbench.png",
+      "selected": "stories/a-little-winter-for-sale/art/interiors/selected/02-coldmouth-workbench.png",
       "correction": "Retain the bench composition but show the same shallow ribbed basin, with its horn directed deeper into the cave, away from the entrance."
     },
     {
       "original": "stories/a-pet-human/art/interiors/03-tall-window-and-feast-cupboard.png",
-      "selected": "art/interiors/a-pet-human/03-tall-window-and-feast-cupboard.png",
+      "selected": "stories/a-pet-human/art/interiors/selected/03-tall-window-and-feast-cupboard.png",
       "correction": "Keep the composition and replace only the pictured background chandelier's candles with the same smouldering cones established in original 02."
     },
     {
       "original": "stories/a-place-for-sunday/art/interiors/02-sunday-breakfast-table.png",
-      "selected": "art/interiors/a-place-for-sunday/02-sunday-breakfast-table.png",
+      "selected": "stories/a-place-for-sunday/art/interiors/selected/02-sunday-breakfast-table.png",
       "correction": "Restore city roofs beyond the garden in the kitchen window, retaining the olive-shaded doorstep."
     },
     {
@@ -2418,37 +2418,37 @@
     },
     {
       "original": "stories/all-accounts-due/art/interiors/01-mavorn-palace-cell.png",
-      "selected": "art/interiors/all-accounts-due/01-mavorn-palace-cell.png",
+      "selected": "stories/all-accounts-due/art/interiors/selected/01-mavorn-palace-cell.png",
       "correction": "Move a thumb-sized simple bronze chamber into a small opened recess at the floor/base stone; retain the rest of the supported cell."
     },
     {
       "original": "stories/the-rule-between-courses/art/interiors/02-the-table-near-the-guitar.png",
-      "selected": "art/interiors/the-rule-between-courses/02-the-table-near-the-guitar.png",
+      "selected": "stories/the-rule-between-courses/art/interiors/selected/02-the-table-near-the-guitar.png",
       "correction": "Close the central doorway with continuous plaster wall, keeping the guitar, stool, hatch and foreground table as one small room."
     },
     {
       "original": "stories/an-ordinary-education/art/interiors/03-language-classroom.png",
-      "selected": "art/interiors/an-ordinary-education/03-language-classroom.png",
+      "selected": "stories/an-ordinary-education/art/interiors/selected/03-language-classroom.png",
       "correction": "Keep classroom/headphones but replace the window panorama with non-specific light or a restrained ordinary school-neighborhood view."
     },
     {
       "original": "stories/before-lunch/art/interiors/01-dotts-office.png",
-      "selected": "art/interiors/before-lunch/01-dotts-office.png",
+      "selected": "stories/before-lunch/art/interiors/selected/01-dotts-office.png",
       "correction": "Reduce the desk to a small table and make the framed images rough, unlettered group portraits rather than cityscapes."
     },
     {
       "original": "stories/before-lunch/art/interiors/02-private-dining-room.png",
-      "selected": "art/interiors/before-lunch/02-private-dining-room.png",
+      "selected": "stories/before-lunch/art/interiors/selected/02-private-dining-room.png",
       "correction": "Provide twelve complete settings/chairs, preserving the curtained room and doors."
     },
     {
       "original": "stories/the-bat-at-the-door/art/interiors/01-the-flight-room.png",
-      "selected": "art/interiors/the-bat-at-the-door/01-the-flight-room.png",
+      "selected": "stories/the-bat-at-the-door/art/interiors/selected/01-the-flight-room.png",
       "correction": "Indicate six choice cells, including the green YES cell, and a distinct alphabet-strip band. Keep any painted writing abstract at the existing scale; readable labels and individual alphabet letters are not required."
     },
     {
       "original": "stories/coiled-together/art/interiors/01-lamplit-crown-ledge.png",
-      "selected": "art/interiors/coiled-together/01-lamplit-crown-ledge.png",
+      "selected": "stories/coiled-together/art/interiors/selected/01-lamplit-crown-ledge.png",
       "correction": "Darken the distant cave and remove the large apparent daylight opening; retain lamp illumination, crown ledge and black basin."
     },
     {
@@ -2458,12 +2458,12 @@
     },
     {
       "original": "stories/every-flower-she-knew/art/interiors/01-herb-room-before-dawn.png",
-      "selected": "art/interiors/every-flower-she-knew/01-herb-room-before-dawn.png",
+      "selected": "stories/every-flower-she-knew/art/interiors/selected/01-herb-room-before-dawn.png",
       "correction": "Empty both baskets, retaining their waxed dividers and blank tags."
     },
     {
       "original": "stories/every-flower-she-knew/art/interiors/02-herb-table-after-the-harvest.png",
-      "selected": "art/interiors/every-flower-she-knew/02-herb-table-after-the-harvest.png",
+      "selected": "stories/every-flower-she-knew/art/interiors/selected/02-herb-table-after-the-harvest.png",
       "correction": "Depict the exact small separated harvest: one petal exposed and one sealed reserve, one filament packet, three stamens (or four halves and one reserve), and six individual duskbell petals before dosing."
     },
     {
@@ -2473,117 +2473,117 @@
     },
     {
       "original": "stories/clerics-infernal-ex/art/interiors/02-lacrixas-old-room.png",
-      "selected": "art/interiors/clerics-infernal-ex/02-lacrixas-old-room.png",
+      "selected": "stories/clerics-infernal-ex/art/interiors/selected/02-lacrixas-old-room.png",
       "correction": "Depict the narrow yellow-bronze split-tailed leaf with painted brush edges. Keep it on the portal jamb rather than suggesting the ordinary kiln-court arch is the cross-world opening."
     },
     {
       "original": "stories/his-infernal-majesty-says-no/art/interiors/01-birthday-audience-hall.png",
-      "selected": "art/interiors/his-infernal-majesty-says-no/01-birthday-audience-hall.png",
+      "selected": "stories/his-infernal-majesty-says-no/art/interiors/selected/01-birthday-audience-hall.png",
       "correction": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape."
     },
     {
       "original": "stories/his-infernal-majesty-says-no/art/interiors/02-nimelzas-sitting-room.png",
-      "selected": "art/interiors/his-infernal-majesty-says-no/02-nimelzas-sitting-room.png",
+      "selected": "stories/his-infernal-majesty-says-no/art/interiors/selected/02-nimelzas-sitting-room.png",
       "correction": "Retain the supported interior and reduce the opening to diffuse light, a limited nonspecific view, or matching walls; do not import the rejected invented landscape."
     },
     {
       "original": "stories/i-really-need-a-sidekick/art/interiors/01-ottilies-workshop.png",
-      "selected": "art/interiors/i-really-need-a-sidekick/01-ottilies-workshop.png",
+      "selected": "stories/i-really-need-a-sidekick/art/interiors/selected/01-ottilies-workshop.png",
       "correction": "Preserve the workshop; replace direct and reflected mountain/lake views with non-specific light or obscured glazing."
     },
     {
       "original": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/02-beneath-the-sink.png",
-      "selected": "art/interiors/life-with-a-girlfriend-with-shrinking-powers/02-beneath-the-sink.png",
+      "selected": "stories/life-with-a-girlfriend-with-shrinking-powers/art/interiors/selected/02-beneath-the-sink.png",
       "correction": "Move the corroded bend and handle into the dark narrow void behind the fixed toe-kick; use a flashlight glimpse and preserve an opening that admits tiny Luz but blocks an adult arm."
     },
     {
       "original": "stories/lightning-carries-one/art/interiors/03-seats-beneath-the-dead-clock.png",
-      "selected": "art/interiors/lightning-carries-one/03-seats-beneath-the-dead-clock.png",
+      "selected": "stories/lightning-carries-one/art/interiors/selected/03-seats-beneath-the-dead-clock.png",
       "correction": "Match the clock hands to one chosen fixed time in both views; no prose-prescribed exact time is required."
     },
     {
       "original": "stories/no-need-to-worry/art/interiors/01-lodge-firing-booth.png",
-      "selected": "art/interiors/no-need-to-worry/01-lodge-firing-booth.png",
+      "selected": "stories/no-need-to-worry/art/interiors/selected/01-lodge-firing-booth.png",
       "correction": "Coplanar gun and observation openings into one concrete outer yard; multiple barrels; continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post."
     },
     {
       "original": "stories/no-need-to-worry/art/interiors/02-booth-observation-window.png",
-      "selected": "art/interiors/no-need-to-worry/02-booth-observation-window.png",
+      "selected": "stories/no-need-to-worry/art/interiors/selected/02-booth-observation-window.png",
       "correction": "Observation window overlooking the same concrete yard, continuous dividing wall, gateway, flat stone trophy plinth and protected speaker post as corrected first view."
     },
     {
       "original": "stories/no-one-like-me/art/interiors/02-the-black-stage.png",
-      "selected": "art/interiors/no-one-like-me/02-the-black-stage.png",
+      "selected": "stories/no-one-like-me/art/interiors/selected/02-the-black-stage.png",
       "correction": "Extend the tiers far deeper and wider into large simplified seating masses, retaining three levels and the black stage."
     },
     {
       "original": "stories/roads-under-impossible-stars/art/interiors/03-foil-blanket-refuge.png",
-      "selected": "art/interiors/roads-under-impossible-stars/03-foil-blanket-refuge.png",
+      "selected": "stories/roads-under-impossible-stars/art/interiors/selected/03-foil-blanket-refuge.png",
       "correction": "Restore the analog instrument cluster consistent with image 01 and the source temperature needle, and show one clear green 1 on a distinct dashboard clock. Keep the useful foil-seat composition."
     },
     {
       "original": "stories/sakura-hearted/art/interiors/01-anniversary-moon-ride.png",
-      "selected": "art/interiors/sakura-hearted/01-anniversary-moon-ride.png",
+      "selected": "stories/sakura-hearted/art/interiors/selected/01-anniversary-moon-ride.png",
       "correction": "Remove suspension cords and upper attachment plates; show small receiver discs beneath free-floating models. Also retain the source's blue side-comet instead of the image's cream comet if correcting the ride."
     },
     {
       "original": "stories/storm-warning/art/interiors/02-upstairs-room.png",
-      "selected": "art/interiors/storm-warning/02-upstairs-room.png",
+      "selected": "stories/storm-warning/art/interiors/selected/02-upstairs-room.png",
       "correction": "Remove the red dress from the cupboard while retaining the ending's wired-glass red light."
     },
     {
       "original": "stories/tea-for-the-first-guest/art/interiors/01-round-tea-room.png",
-      "selected": "art/interiors/tea-for-the-first-guest/01-round-tea-room.png",
+      "selected": "stories/tea-for-the-first-guest/art/interiors/selected/01-round-tea-room.png",
       "correction": "Remove hinged panel; source roadside through empty magical threshold; preserve round room and pairs of cups/stairs; correspondingly dim lower lamps and cloud small sky window for opened-threshold state."
     },
     {
       "original": "stories/tea-for-the-first-guest/art/interiors/02-mismatched-cups.png",
-      "selected": "art/interiors/tea-for-the-first-guest/02-mismatched-cups.png",
+      "selected": "stories/tea-for-the-first-guest/art/interiors/selected/02-mismatched-cups.png",
       "correction": "Empty threshold and source roadside, cup clarity with one fine white porcelain cup and one thick brown chipped cup, consistent with corrected first view."
     },
     {
       "original": "stories/terms-at-four/art/interiors/01-tea-and-telemetry.png",
-      "selected": "art/interiors/terms-at-four/01-tea-and-telemetry.png",
+      "selected": "stories/terms-at-four/art/interiors/selected/01-tea-and-telemetry.png",
       "correction": "Retain a restrained narrow street/building view and replace the lake and mountains with diffuse distant light or unobtrusive buildings."
     },
     {
       "original": "stories/terms-at-four/art/interiors/02-the-operations-training-suite.png",
-      "selected": "art/interiors/terms-at-four/02-the-operations-training-suite.png",
+      "selected": "stories/terms-at-four/art/interiors/selected/02-the-operations-training-suite.png",
       "correction": "Replace with a sliding leaf recessed alongside the opening. Use a restrained translucent window or wall; retain the supported internal observation window and transfer hatch."
     },
     {
       "original": "stories/terms-at-four/art/interiors/03-the-table-at-five-twelve.png",
-      "selected": "art/interiors/terms-at-four/03-the-table-at-five-twelve.png",
+      "selected": "stories/terms-at-four/art/interiors/selected/03-the-table-at-five-twelve.png",
       "correction": "Keep the narrow street, police lights and ceiling reflections, and simplify the unsupported distant panorama."
     },
     {
       "original": "stories/postcard-garden/art/interiors/01-the-farleaf-window.png",
-      "selected": "art/interiors/postcard-garden/01-the-farleaf-window.png",
+      "selected": "stories/postcard-garden/art/interiors/selected/01-the-farleaf-window.png",
       "correction": "Depict a freestanding/displayed curved construction spare with exactly three unequal substantial ribs meeting off-center; retain roses and fern-sale hall."
     },
     {
       "original": "stories/postcard-garden/art/interiors/03-farleafs-forward-garden.png",
-      "selected": "art/interiors/postcard-garden/03-farleafs-forward-garden.png",
+      "selected": "stories/postcard-garden/art/interiors/selected/03-farleafs-forward-garden.png",
       "correction": "Make the distinctive three unequal ribs architecturally massive and preserve their off-center junction, reframing closer if needed."
     },
     {
       "original": "stories/apes-in-orbit/art/interiors/01-council-map-well.png",
-      "selected": "art/interiors/apes-in-orbit/01-council-map-well.png",
+      "selected": "stories/apes-in-orbit/art/interiors/selected/01-council-map-well.png",
       "correction": "Show tiled walking floor with a projected blue contour and nesting-block marks beneath the fragment; remove liquid and island relief."
     },
     {
       "original": "stories/blade-calls-your-name/art/interiors/02-west-nine-anchor-chamber.png",
-      "selected": "art/interiors/blade-calls-your-name/02-west-nine-anchor-chamber.png",
+      "selected": "stories/blade-calls-your-name/art/interiors/selected/02-west-nine-anchor-chamber.png",
       "correction": "Keep the chamber composition but place the flexible wrap on the ninth individual hanger behind the comb; leave the common floor-entering chain unbanded."
     },
     {
       "original": "stories/blade-calls-your-name/art/interiors/03-comb-and-service-trestles.png",
-      "selected": "art/interiors/blade-calls-your-name/03-comb-and-service-trestles.png",
+      "selected": "stories/blade-calls-your-name/art/interiors/selected/03-comb-and-service-trestles.png",
       "correction": "Replace the independent wall sockets with a close side view of the same continuous twelve-tooth comb, showing ninth/tenth adjacency and the service blade."
     },
     {
       "original": "stories/the-cat-who-kept-the-door/art/interiors/03-the-machine-below-the-tombs.png",
-      "selected": "art/interiors/the-cat-who-kept-the-door/03-the-machine-below-the-tombs.png",
+      "selected": "stories/the-cat-who-kept-the-door/art/interiors/selected/03-the-machine-below-the-tombs.png",
       "correction": "Remove railings from the final length of the service bridge while preserving the gallery rails and machinery."
     },
     {
@@ -2593,52 +2593,52 @@
     },
     {
       "original": "stories/the-count-was-131072/art/interiors/01-museum-tactical-gallery.png",
-      "selected": "art/interiors/the-count-was-131072/01-museum-tactical-gallery.png",
+      "selected": "stories/the-count-was-131072/art/interiors/selected/01-museum-tactical-gallery.png",
       "correction": "Add the unlit glass circle and its THE QUEEN STOOD HERE label at the central visitor position. Preserve the empty room and idle seascape; no figures or active descending streams are required."
     },
     {
       "original": "stories/the-inheritance-remembers/art/interiors/01-the-paint-rig-cab.png",
-      "selected": "art/interiors/the-inheritance-remembers/01-the-paint-rig-cab.png",
+      "selected": "stories/the-inheritance-remembers/art/interiors/selected/01-the-paint-rig-cab.png",
       "correction": "Retain the cab and rain, replacing the lake panorama with the work street/cones or the narrow larch-lined road appropriate to a chosen scene."
     },
     {
       "original": "stories/the-inheritance-remembers/art/interiors/02-the-parcel-van-cab.png",
-      "selected": "art/interiors/the-inheritance-remembers/02-the-parcel-van-cab.png",
+      "selected": "stories/the-inheritance-remembers/art/interiors/selected/02-the-parcel-van-cab.png",
       "correction": "Flatten the spike's square head and carve exactly four hooked winding mortar-filled grooves down its forearm-length iron shaft; preserve earlier fuel-station scene without crescents."
     },
     {
       "original": "stories/the-inheritance-remembers/art/interiors/03-crescents-in-the-cab.png",
-      "selected": "art/interiors/the-inheritance-remembers/03-crescents-in-the-cab.png",
+      "selected": "stories/the-inheritance-remembers/art/interiors/selected/03-crescents-in-the-cab.png",
       "correction": "Carry the corrected four-groove spike into the closer van image; place the flashlight lens against its head, with three crescents directed to traffic and one to the culvert ditch, and replace the fuel station with the late larch-road setting."
     },
     {
       "original": "stories/the-door-in-the-ivy/art/interiors/03-passage-tap-and-pail.png",
-      "selected": "art/interiors/the-door-in-the-ivy/03-passage-tap-and-pail.png",
+      "selected": "stories/the-door-in-the-ivy/art/interiors/selected/03-passage-tap-and-pail.png",
       "correction": "Keep one established passage plan across all views; revise 03's far end to match 01, preferably using a closer tap/pail framing to add a more distinct study."
     },
     {
       "original": "stories/the-dress-they-brought-her/art/interiors/03-the-property-counter.png",
-      "selected": "art/interiors/the-dress-they-brought-her/03-the-property-counter.png",
+      "selected": "stories/the-dress-they-brought-her/art/interiors/selected/03-the-property-counter.png",
       "correction": "Retain the property counter but depict a doorway-sized blue scanning plane before the narrowly open exterior gate, with its threshold light on the floor."
     },
     {
       "original": "stories/the-driver-the-city-could-not-see/art/interiors/03-ferry-dawn-through-the-cab-window.png",
-      "selected": "art/interiors/the-driver-the-city-could-not-see/03-ferry-dawn-through-the-cab-window.png",
+      "selected": "stories/the-driver-the-city-could-not-see/art/interiors/selected/03-ferry-dawn-through-the-cab-window.png",
       "correction": "Use the established cabin's wheel and dashboard geometry in this ferry angle, preserving the loose fuse, route paper and dawn state."
     },
     {
       "original": "stories/the-first-winter/art/interiors/02-the-hearth-and-table.png",
-      "selected": "art/interiors/the-first-winter/02-the-hearth-and-table.png",
+      "selected": "stories/the-first-winter/art/interiors/selected/02-the-hearth-and-table.png",
       "correction": "Use 01's door/window/hearth layout for the closer table view; preserve the supported blanket and washing props."
     },
     {
       "original": "stories/the-first-winter/art/interiors/03-the-cottage-after-dawn.png",
-      "selected": "art/interiors/the-first-winter/03-the-cottage-after-dawn.png",
+      "selected": "stories/the-first-winter/art/interiors/selected/03-the-cottage-after-dawn.png",
       "correction": "Preserve 01's fixed room plan while retaining rain, consumed apples/wood and the torn shirt."
     },
     {
       "original": "stories/the-first-wound/art/interiors/03-the-mountain-barrier.png",
-      "selected": "art/interiors/the-first-wound/03-the-mountain-barrier.png",
+      "selected": "stories/the-first-wound/art/interiors/selected/03-the-mountain-barrier.png",
       "correction": "Retain the corridor, wheel and palette, but depict seven distinct thick ribs across the barrier."
     },
     {
@@ -2648,17 +2648,17 @@
     },
     {
       "original": "stories/blood-types-of-immortality/art/interiors/03-the-small-comparison-board.png",
-      "selected": "art/interiors/blood-types-of-immortality/03-the-small-comparison-board.png",
+      "selected": "stories/blood-types-of-immortality/art/interiors/selected/03-the-small-comparison-board.png",
       "correction": "Replace only the background apparatus with the same large empty stone basin and horizontal silver rings shown in image 01, or frame it out."
     },
     {
       "original": "stories/the-kingdom-of-later/art/interiors/03-the-dry-bench-at-dusk.png",
-      "selected": "art/interiors/the-kingdom-of-later/03-the-dry-bench-at-dusk.png",
+      "selected": "stories/the-kingdom-of-later/art/interiors/selected/03-the-dry-bench-at-dusk.png",
       "correction": "Keep the successful dry-bench scene but replace the lake panorama with rain-softened, non-locating light or a restrained view of the established lane/chimneys."
     },
     {
       "original": "stories/the-last-flames/art/interiors/02-the-keeper-kitchen.png",
-      "selected": "art/interiors/the-last-flames/02-the-keeper-kitchen.png",
+      "selected": "stories/the-last-flames/art/interiors/selected/02-the-keeper-kitchen.png",
       "correction": "Remove one cup, keeping exactly seven in a crooked line; retain the existing kitchen composition."
     },
     {
@@ -2668,62 +2668,62 @@
     },
     {
       "original": "stories/the-mercy-circuit/art/interiors/03-kiosk-shielded-test-lane.png",
-      "selected": "art/interiors/the-mercy-circuit/03-kiosk-shielded-test-lane.png",
+      "selected": "stories/the-mercy-circuit/art/interiors/selected/03-kiosk-shielded-test-lane.png",
       "correction": "Show a white floor boundary joining the two folding beacons across the aisle while retaining the ceramic test lane."
     },
     {
       "original": "stories/the-ninety-year-barrier/art/interiors/01-the-witchs-workroom.png",
-      "selected": "art/interiors/the-ninety-year-barrier/01-the-witchs-workroom.png",
+      "selected": "stories/the-ninety-year-barrier/art/interiors/selected/01-the-witchs-workroom.png",
       "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
     },
     {
       "original": "stories/the-ninety-year-barrier/art/interiors/02-the-cord-model.png",
-      "selected": "art/interiors/the-ninety-year-barrier/02-the-cord-model.png",
+      "selected": "stories/the-ninety-year-barrier/art/interiors/selected/02-the-cord-model.png",
       "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
     },
     {
       "original": "stories/the-ninety-year-barrier/art/interiors/03-the-western-wall.png",
-      "selected": "art/interiors/the-ninety-year-barrier/03-the-western-wall.png",
+      "selected": "stories/the-ninety-year-barrier/art/interiors/selected/03-the-western-wall.png",
       "correction": "Reduce the model to six clear pegs and preserve the same arrangement across all three views."
     },
     {
       "original": "stories/the-ordinary-slime/art/interiors/02-the-service-gallery.png",
-      "selected": "art/interiors/the-ordinary-slime/02-the-service-gallery.png",
+      "selected": "stories/the-ordinary-slime/art/interiors/selected/02-the-service-gallery.png",
       "correction": "Move the covered trough to the opposite wall, preserving the crack and bricked spill. Treat omission of the living slime actors as permissible in these empty studies."
     },
     {
       "original": "stories/the-other-twin/art/interiors/03-bedroom-concert-evening.png",
-      "selected": "art/interiors/the-other-twin/03-bedroom-concert-evening.png",
+      "selected": "stories/the-other-twin/art/interiors/selected/03-bedroom-concert-evening.png",
       "correction": "Change only the red top to a square neckline with visible sleeves; keep the chair, cardigan and bedroom composition."
     },
     {
       "original": "stories/the-players-above/art/interiors/03-the-split-delivery-sill.png",
-      "selected": "art/interiors/the-players-above/03-the-split-delivery-sill.png",
+      "selected": "stories/the-players-above/art/interiors/selected/03-the-split-delivery-sill.png",
       "correction": "Keep the split sill and doorway composition; match the bin shape and low platform/stairs to the first two views."
     },
     {
       "original": "stories/the-room-that-waited/art/interiors/03-paired-control-chamber.png",
-      "selected": "art/interiors/the-room-that-waited/03-paired-control-chamber.png",
+      "selected": "stories/the-room-that-waited/art/interiors/selected/03-paired-control-chamber.png",
       "correction": "Replace the populated key racks with exactly two empty clips; retain the dormant consoles and separated stations."
     },
     {
       "original": "stories/rooms-before-sunrise/art/interiors/02-heat-sac-alcove.png",
-      "selected": "art/interiors/rooms-before-sunrise/02-heat-sac-alcove.png",
+      "selected": "stories/rooms-before-sunrise/art/interiors/selected/02-heat-sac-alcove.png",
       "correction": "Enclose the broad sea-facing side with living lining. Keep intact sacs/rack for the pre-cut study and make illumination internal or filtered; retain the high-tower setting without a ground-level panorama."
     },
     {
       "original": "stories/the-second-wearing/art/interiors/01-the-empty-apartment-room.png",
-      "selected": "art/interiors/the-second-wearing/01-the-empty-apartment-room.png",
+      "selected": "stories/the-second-wearing/art/interiors/selected/01-the-empty-apartment-room.png",
       "correction": "Retain the window and light but obscure the view with glare, plain curtains or a close non-defining neighboring wall."
     },
     {
       "original": "stories/the-second-wearing/art/interiors/03-the-open-box.png",
-      "selected": "art/interiors/the-second-wearing/03-the-open-box.png",
+      "selected": "stories/the-second-wearing/art/interiors/selected/03-the-open-box.png",
       "correction": "Keep the pendant and open case but soften or block the window's specific distant geography."
     },
     {
       "original": "stories/the-seventh-night/art/interiors/03-the-quince-tart-and-shortened-candles.png",
-      "selected": "art/interiors/the-seventh-night/03-the-quince-tart-and-shortened-candles.png",
+      "selected": "stories/the-seventh-night/art/interiors/selected/03-the-quince-tart-and-shortened-candles.png",
       "correction": "Reuse the narrow leather gauntlet design and gold leaf cuff from image 02, in the existing foreground position."
     },
     {
@@ -2748,12 +2748,12 @@
     },
     {
       "original": "stories/the-spiders-hunger/art/interiors/01-the-inn-kitchen.png",
-      "selected": "art/interiors/the-spiders-hunger/01-the-inn-kitchen.png",
+      "selected": "stories/the-spiders-hunger/art/interiors/selected/01-the-inn-kitchen.png",
       "correction": "Retain the supported kitchen objects and remove exterior snow, using the wet yard and subdued roofs."
     },
     {
       "original": "stories/the-spiders-hunger/art/interiors/03-the-old-bedroom-latch.png",
-      "selected": "art/interiors/the-spiders-hunger/03-the-old-bedroom-latch.png",
+      "selected": "stories/the-spiders-hunger/art/interiors/selected/03-the-old-bedroom-latch.png",
       "correction": "Keep the latch/bed/sewing composition, replace the panorama with the established inn yard, and remove snow."
     },
     {
@@ -2763,17 +2763,17 @@
     },
     {
       "original": "stories/tenth-world-lesson/art/interiors/02-storm-engine-tower.png",
-      "selected": "art/interiors/tenth-world-lesson/02-storm-engine-tower.png",
+      "selected": "stories/tenth-world-lesson/art/interiors/selected/02-storm-engine-tower.png",
       "correction": "Shrink the white circle to the central rail/operator zone at the engine base, with all nine crew stations outside."
     },
     {
       "original": "stories/the-thread-that-held/art/interiors/01-the-tapissiers-loom.png",
-      "selected": "art/interiors/the-thread-that-held/01-the-tapissiers-loom.png",
+      "selected": "stories/the-thread-that-held/art/interiors/selected/01-the-tapissiers-loom.png",
       "correction": "Move the same child-painted flower to a low brass crosspiece reachable beside a seated weaver's knee and retain that location/design in both views."
     },
     {
       "original": "stories/the-thread-that-held/art/interiors/02-the-workshop-table.png",
-      "selected": "art/interiors/the-thread-that-held/02-the-workshop-table.png",
+      "selected": "stories/the-thread-that-held/art/interiors/selected/02-the-workshop-table.png",
       "correction": "Use the same memorial flower as the corrected image 01, on a low brass crosspiece; preserve the supported worktable objects and bench."
     },
     {
@@ -2788,27 +2788,27 @@
     },
     {
       "original": "stories/the-unfixed-face/art/interiors/01-mirrorglass-vestibule.png",
-      "selected": "art/interiors/the-unfixed-face/01-mirrorglass-vestibule.png",
+      "selected": "stories/the-unfixed-face/art/interiors/selected/01-mirrorglass-vestibule.png",
       "correction": "Retain the vestibule and sunset palette; simplify the glass to reflective evening street windows without the lake and mountain panorama."
     },
     {
       "original": "stories/the-unfixed-face/art/interiors/02-mirrorglass-revision-room.png",
-      "selected": "art/interiors/the-unfixed-face/02-mirrorglass-revision-room.png",
+      "selected": "stories/the-unfixed-face/art/interiors/selected/02-mirrorglass-revision-room.png",
       "correction": "Keep the sunset illumination while replacing the panorama with subdued, nonspecific street-facing glazing."
     },
     {
       "original": "stories/the-unfixed-face/art/interiors/03-mirrorglass-private-archive.png",
-      "selected": "art/interiors/the-unfixed-face/03-mirrorglass-private-archive.png",
+      "selected": "stories/the-unfixed-face/art/interiors/selected/03-mirrorglass-private-archive.png",
       "correction": "Replace the lake and mountain view with reflective dusk glazing or an indistinct street view, preserving the archive composition."
     },
     {
       "original": "stories/the-unopened-ring/art/interiors/03-the-rings-at-the-late-table.png",
-      "selected": "art/interiors/the-unopened-ring/03-the-rings-at-the-late-table.png",
+      "selected": "stories/the-unopened-ring/art/interiors/selected/03-the-rings-at-the-late-table.png",
       "correction": "Give each narrow hoop exactly one tiny hand, and show their uneven edges fitted as one wider band with a single clasp formed by the two hands. Preserve the linen and dinner setting."
     },
     {
       "original": "stories/the-walls-are-thick-enough/art/interiors/02-the-writing-table.png",
-      "selected": "art/interiors/the-walls-are-thick-enough/02-the-writing-table.png",
+      "selected": "stories/the-walls-are-thick-enough/art/interiors/selected/02-the-writing-table.png",
       "correction": "Keep image 01's door layout: depict the visible right-hand doorway as the appropriate inner corridor/court, or reframe the close table angle so the established garden door stays on its original side."
     },
     {
@@ -2818,22 +2818,22 @@
     },
     {
       "original": "stories/the-way-around/art/interiors/03-the-central-hollow-bridge.png",
-      "selected": "art/interiors/the-way-around/03-the-central-hollow-bridge.png",
+      "selected": "stories/the-way-around/art/interiors/selected/03-the-central-hollow-bridge.png",
       "correction": "Replace only the bowl lamp with the enclosed oil-window lantern design from 01, preserving the bridge composition."
     },
     {
       "original": "stories/the-wolf-in-the-mirror/art/interiors/01-prepared-studio.png",
-      "selected": "art/interiors/the-wolf-in-the-mirror/01-prepared-studio.png",
+      "selected": "stories/the-wolf-in-the-mirror/art/interiors/selected/01-prepared-studio.png",
       "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views."
     },
     {
       "original": "stories/the-wolf-in-the-mirror/art/interiors/02-observation-vestibule.png",
-      "selected": "art/interiors/the-wolf-in-the-mirror/02-observation-vestibule.png",
+      "selected": "stories/the-wolf-in-the-mirror/art/interiors/selected/02-observation-vestibule.png",
       "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views. Match the established floor-height framed mirror and back-wall storage recovery bench from 01/03; compose the vestibule angle around that fixed layout."
     },
     {
       "original": "stories/the-wolf-in-the-mirror/art/interiors/03-covered-studio-at-dawn.png",
-      "selected": "art/interiors/the-wolf-in-the-mirror/03-covered-studio-at-dawn.png",
+      "selected": "stories/the-wolf-in-the-mirror/art/interiors/selected/03-covered-studio-at-dawn.png",
       "correction": "Replace the plumbed masonry sink with a low portable water basin, retaining its chosen place beside the blue light across all views."
     },
     {
@@ -2843,7 +2843,7 @@
     },
     {
       "original": "stories/thirteen-years-borrowed/art/interiors/01-bakery-before-the-next-tram.png",
-      "selected": "art/interiors/thirteen-years-borrowed/01-bakery-before-the-next-tram.png",
+      "selected": "stories/thirteen-years-borrowed/art/interiors/selected/01-bakery-before-the-next-tram.png",
       "correction": "Retain bakery, breakfast and nearby tram rails; replace the distant inlet, islands and mountain panorama with a restrained local street view."
     },
     {
@@ -2863,32 +2863,32 @@
     },
     {
       "original": "stories/what-she-remembered-of-peace/art/interiors/01-the-kitchen-latch.png",
-      "selected": "art/interiors/what-she-remembered-of-peace/01-the-kitchen-latch.png",
+      "selected": "stories/what-she-remembered-of-peace/art/interiors/selected/01-the-kitchen-latch.png",
       "correction": "Preserve the rail but replace the sea/headlands with close terraces or a non-defining light-filled view."
     },
     {
       "original": "stories/what-she-remembered-of-peace/art/interiors/02-the-emergency-stair.png",
-      "selected": "art/interiors/what-she-remembered-of-peace/02-the-emergency-stair.png",
+      "selected": "stories/what-she-remembered-of-peace/art/interiors/selected/02-the-emergency-stair.png",
       "correction": "Extinguish the sconce and light the dust and fracture sparingly from available doorway/window light. Keep the small window diffuse or show non-defining nearby terrace structure."
     },
     {
       "original": "stories/what-she-remembered-of-peace/art/interiors/03-blankets-at-the-shelter.png",
-      "selected": "art/interiors/what-she-remembered-of-peace/03-blankets-at-the-shelter.png",
+      "selected": "stories/what-she-remembered-of-peace/art/interiors/selected/03-blankets-at-the-shelter.png",
       "correction": "Replace the distant coast with close receiving-terrace/building geometry, or frame inward to keep the shelter supplies as the subject."
     },
     {
       "original": "stories/deaths-patron/art/interiors/03-the-sluice-gallery.png",
-      "selected": "art/interiors/deaths-patron/03-the-sluice-gallery.png",
+      "selected": "stories/deaths-patron/art/interiors/selected/03-the-sluice-gallery.png",
       "correction": "Leave the relevant service arch clear, or visibly show a removable/open gate large enough for the counterweight."
     },
     {
       "original": "stories/when-the-needle-finds-you/art/interiors/03-the-pump-chamber-studio.png",
-      "selected": "art/interiors/when-the-needle-finds-you/03-the-pump-chamber-studio.png",
+      "selected": "stories/when-the-needle-finds-you/art/interiors/selected/03-the-pump-chamber-studio.png",
       "correction": "Retain the room and arm but replace its broad terminal foot with a clearly projecting, hand-length sharp stylus, with enough clearance to read its shape."
     },
     {
       "original": "stories/witch-cold/art/interiors/02-the-wet-stair-landing.png",
-      "selected": "art/interiors/witch-cold/02-the-wet-stair-landing.png",
+      "selected": "stories/witch-cold/art/interiors/selected/02-the-wet-stair-landing.png",
       "correction": "Keep the wet stair study but remove the distinctive repaired wooden strip and its support from this lower door. If that repair is depicted elsewhere, put it on the fixed apartment-door jamb at the upper end of the route."
     }
   ]
